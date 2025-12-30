@@ -80,14 +80,25 @@
 
 /* Inline field key (before ::) - Gold */
 .theme-dark .dataview.inline-field-key {
-  color: #E50000 !important;                  /* Imperial Gold */
-  font-weight: 600 !important;                /* Bold */
+  color: #000000ff !important;
+  /*ImperialGold*/font-weight: 100 !important;
+  /*Bold*/text-transform: uppercase;
+  filter: drop-shadow(0px 0px 5px rgba(255, 0, 0, 1));
+  -webkit-filter: drop-shadow(0px 0px 8px rgba(255, 0, 0, 1));
+  font-size: 1.25em !important;
 }
 
 /* Inline field value (after ::) */
 .theme-dark .dataview.inline-field-value {
-  color: var(--text-normal) !important;       /* Normal text color */
+  color: #979797ff !important;       /* Normal text color */
+  font-weight: 400 !important;                /* Regular weight */
+  background: #212121ff !important; /* Subtle bg */
+  padding: 2px 6px !important;               /* Light padding */
+  border-radius: 4px !important;             /* Rounded corners */
+  font-size: 1em !important;
+
 }
+
 
 /* ══════════════════════════════════════════════════════════
    INLINE LISTS
