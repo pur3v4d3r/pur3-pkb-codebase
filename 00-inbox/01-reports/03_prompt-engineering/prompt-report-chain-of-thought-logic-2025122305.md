@@ -41,6 +41,9 @@ aliases:
 title: "Chanin Of Thought"
 ---
 ### 📖 Extracted Definitions From Cognitive Science
+
+
+
 ```dataviewjs
 try {
  // Get the current file
@@ -165,6 +168,8 @@ The recent work by [[Meincke et al. (2025)]] examining CoT effectiveness in mode
 The success of basic Chain-of-Thought prompting catalyzed development of increasingly sophisticated reasoning frameworks that extend the linear chain structure into <span style='color: #FFC700;'>branching tree structures</span> and <span style='color: #72FFF1;'>arbitrary graph topologies</span>, each addressing specific limitations while introducing new computational costs.
 ### <span style='color: #9E6CD3;'>Self-Consistency: Ensemble Reasoning Through Majority Voting</span>
 <span style='color: #27FF00;'>**Self-Consistency**</span>, proposed by [[Wang et al. (2022)]], recognizes that <span style='color: #FFC700;'>complex reasoning problems admit multiple valid solution paths</span> converging on the same answer. Rather than generating a single reasoning chain via greedy decoding, Self-Consistency <span style='color: #72FFF1;'>samples diverse reasoning paths</span> (typically 5-40 samples) and selects the most frequently occurring final answer through <span style='color: #27FF00;'>majority voting</span>.
+
+
 > [!methodology-and-sources] Self-Consistency Algorithm
 > **Step 1:** Generate $K$ independent reasoning chains for the same problem using <span style='color: #72FFF1;'>temperature sampling</span> (typically $T = 0.7$)
 > 

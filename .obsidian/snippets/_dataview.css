@@ -31,47 +31,6 @@
 
  Compatibility: Obsidian 1.5+, Dataview 0.5+
 ═══════════════════════════════════════════════════════════
-*/
-
-/* ══════════════════════════════════════════════════════════
-   DATAVIEW TABLES
-   Main table styling
-   ══════════════════════════════════════════════════════════ */
-
-.theme-dark .dataview.table-view-table {
-  border-collapse: collapse !important;       /* Clean borders */
-  width: 100% !important;                     /* Full width */
-}
-
-/* ══════════════════════════════════════════════════════════
-   TABLE HEADER - Purple Gradient
-   Column headers with gradient background
-   ══════════════════════════════════════════════════════════ */
-
-.theme-dark .dataview.table-view-table thead {
-  background: linear-gradient(135deg, #E50000 0%, #CC0000 100%) !important;
-}
-
-.theme-dark .dataview.table-view-table th {
-  color: white !important;                    /* White text */
-  font-weight: 600 !important;                /* Bold */
-  padding: 10px 12px !important;              /* Generous padding */
-}
-
-/* ══════════════════════════════════════════════════════════
-   TABLE CELLS
-   Data cells with borders and hover
-   ══════════════════════════════════════════════════════════ */
-
-.theme-dark .dataview.table-view-table td {
-  padding: 8px 12px !important;               /* Cell padding */
-  border: 1px solid var(--background-modifier-border) !important;
-}
-
-/* Table row hover effect */
-.theme-dark .dataview.table-view-table tr:hover {
-  background: var(--table-row-background-hover) !important; /* Purple tint */
-}
 
 /* ══════════════════════════════════════════════════════════
    INLINE FIELDS - Key::Value Pairs
@@ -98,6 +57,58 @@
   font-size: 1em !important;
 
 }
+
+.theme-dark .dataview.inline-field-key::after {
+  content: ': ';
+  color: #000000ff !important;
+  /*ImperialGold*/
+}
+.theme-dark .dataview.inline-field-key:hover {
+  color: #ff0000ff !important;
+  /*BrightRed*/
+}
+.theme-dark .dataview.inline-field-key:hover::after {
+  color: #ff0000ff !important;
+  /*BrightRed*/
+}
+.theme-dark .dataview.inline-field-key {
+  font-weight: 600!important;
+}
+.theme-dark .dataview.inline-field-key::after {
+  content: ': ';
+  color: #ff0000ff !important;
+  /*ImperialGold*/
+}
+.theme-dark .dataview.inline-field-key:hover {
+  color: #ff0000ff !important;
+  /*BrightRed*/
+}
+.theme-dark .dataview.inline-field-key:hover::after {
+  color: #ff0000ff !important;
+  /*BrightRed*/
+}
+.theme-dark .dataview.inline-field-key {
+  font-weight: 600!important;
+}
+.theme-dark .dataview.inline-field-key::after {
+  content: ': ';
+  color: #ff0000ff !important;
+  /*ImperialGold*/
+}
+.theme-dark .dataview.inline-field-key:hover {
+  color: #ff0000ff !important;
+  /*BrightRed*/
+}
+.theme-dark .dataview.inline-field-key:hover::after {
+  color: #ff0000ff !important;
+  /*BrightRed*/
+}
+
+
+
+
+
+
 
 
 /* ══════════════════════════════════════════════════════════

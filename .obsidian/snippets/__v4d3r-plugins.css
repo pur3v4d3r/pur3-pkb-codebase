@@ -31,6 +31,108 @@
 .dataview.table-view-table tr:hover {
   background: rgba(220, 38, 38, 0.1);
 }
+.dataview.table-view-table tr:nth-child(even) {
+  background: var(--v4d3r-black-rich);
+}
+.dataview.table-view-table tr:nth-child(odd) {
+  background: var(--v4d3r-black-soft);
+}
+.dataview.table-view-table td,
+.dataview.table-view-table th {
+  padding: 8px 12px;
+}
+.dataview.table-view-table th {
+  font-weight: 600;
+}
+.dataview.table-view-table td {
+  border-top: 1px solid var(--v4d3r-grey-dark);
+}
+.dataview.table-view-table th:first-child,
+.dataview.table-view-table td:first-child {
+  border-left: none;
+}
+
+.dataview.table-view-table th:last-child,
+.dataview.table-view-table td:last-child {
+  border-right: none;
+}
+.dataview.table-view-table tbody tr:last-child td {
+  border-bottom: none;
+}
+.dataview.table-view-table th {
+  text-align: left;
+}
+.dataview.table-view-table th.sortable:hover {
+  background: var(--v4d3r-red-primary);
+  cursor: pointer;
+}
+.dataview.table-view-table th.sortable:after {
+  content: ' ⇅';
+  font-size: 0.8em;
+  color: var(--v4d3r-grey-medium);
+}
+.dataview.table-view-table th.sorted-asc:after {
+  content: ' ↑';
+  color: var(--v4d3r-red-light);
+}
+.dataview.table-view-table th.sorted-desc:after {
+  content: ' ↓';
+  color: var(--v4d3r-red-light);
+}
+.dataview.table-view-table th,
+.dataview.table-view-table td {
+  border-left: 1px solid var(--v4d3r-grey-dark);
+}
+.dataview.table-view-table th:first-child,
+.dataview.table-view-table td:first-child {
+  border-left: none;
+}
+.dataview.table-view-table th:last-child,
+.dataview.table-view-table td:last-child {
+  border-right: none;
+}
+.dataview.table-view-table tbody tr:last-child td {
+  border-bottom: none;
+}
+.dataview.table-view-table th {
+  text-align: left;
+}
+.dataview.table-view-table th.sortable:hover {
+  background: var(--v4d3r-red-primary);
+  cursor: pointer;
+}
+.dataview.table-view-table th.sortable:after {
+  content: ' ⇅';
+  font-size: 0.8em;
+  color: var(--v4d3r-grey-medium);
+}
+.dataview.table-view-table th.sorted-asc:after {
+  content: ' ↑';
+  color: var(--v4d3r-red-light);
+}
+.dataview.table-view-table th.sorted-desc:after {
+  content: ' ↓';
+  color: var(--v4d3r-red-light);
+}
+.dataview.table-view-table a {
+  color: var(--v4d3r-red-light);
+  text-decoration: none;
+}
+.dataview.table-view-table a:hover {
+  text-decoration: underline;
+}
+.dataview.table-view-table code {
+  background: var(--v4d3r-black-rich);
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-family: monospace;
+  color: var(--v4d3r-grey-snow);
+}
+.dataview.table-view-table code:hover {
+  background: var(--v4d3r-black-charcoal);
+}
+
+
 
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] P2: DATAVIEW LIST STYLING
@@ -52,17 +154,9 @@
   background: var(--v4d3r-black-charcoal);
   border-left-color: var(--v4d3r-red-light);
 }
-
-/* ─────────────────────────────────────────────────────────────────────────
-   [TOGGLE] P3: DATAVIEW INLINE FIELDS
-───────────────────────────────────────────────────────────────────────── */
-.dataview.inline-field-key {
-  color: var(--v4d3r-red-pale);
-  font-weight: 500;
-}
-
-.dataview.inline-field-value {
-  color: var(--v4d3r-grey-light);
+.dataview.list-view-ul li a {
+  color: var(--v4d3r-red-light);
+  text-decoration: none;
 }
 
 
@@ -217,25 +311,7 @@
   background: var(--v4d3r-black-charcoal);
 }
 
-/* ─────────────────────────────────────────────────────────────────────────
-   [TOGGLE] P10: ADMONITION/CALLOUT ENHANCEMENTS
-───────────────────────────────────────────────────────────────────────── */
-.callout[data-callout="warning"],
-.callout[data-callout="caution"] {
-  background: rgba(217, 119, 6, 0.1);
-  border-color: var(--v4d3r-warning);
-}
 
-.callout[data-callout="danger"],
-.callout[data-callout="error"] {
-  background: rgba(220, 38, 38, 0.15);
-  border-color: var(--v4d3r-red-primary);
-}
-
-.callout[data-callout="important"] {
-  background: rgba(220, 38, 38, 0.1);
-  border-color: var(--v4d3r-red-dark);
-}
 
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] P11: OUTLINE PANE STYLING
@@ -283,46 +359,8 @@
 
 .backlink-pane .search-result-file-matches,
 .outgoing-link-pane .search-result-file-matches {
-  color: var(--v4d3r-grey-light);
-}
-
-/* ─────────────────────────────────────────────────────────────────────────
-   [TOGGLE] P14: PROPERTIES/FRONTMATTER STYLING
-───────────────────────────────────────────────────────────────────────── */
-.metadata-container {
-  background: var(--v4d3r-black-rich);
-  border: 1px solid var(--v4d3r-grey-darkest);
-  border-radius: 8px;
-  padding: 12px;
-}
-
-.metadata-property-key {
-  color: var(--v4d3r-red-pale);
-  font-weight: 500;
-}
-
-.metadata-property-value {
-  color: var(--v4d3r-grey-light);
-}
-
-/* ─────────────────────────────────────────────────────────────────────────
-   [TOGGLE] P15: CODE BLOCK ENHANCEMENTS
-───────────────────────────────────────────────────────────────────────── */
-.markdown-preview-view pre,
-.markdown-rendered pre {
-  background: var(--v4d3r-black-soft);
-  border: 1px solid var(--v4d3r-grey-darkest);
-  border-radius: 8px;
-  border-left: 4px solid var(--v4d3r-red-primary);
-}
-
-.markdown-preview-view code,
-.markdown-rendered code {
-  background: var(--v4d3r-black-rich);
-  color: var(--v4d3r-red-pale);
-  padding: 2px 6px;
-  border-radius: 4px;
-  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  color: var(--v4d3r-red-primary);
+  font-size: medium;
 }
 
 /* ─────────────────────────────────────────────────────────────────────────
@@ -340,22 +378,11 @@
   color: var(--v4d3r-red-light);
   font-weight: 600;
 }
-
-/* ─────────────────────────────────────────────────────────────────────────
-   [TOGGLE] P17: SEARCH RESULTS STYLING
-───────────────────────────────────────────────────────────────────────── */
-.search-result-container {
+.markdown-embed:hover {
   background: var(--v4d3r-black-charcoal);
+  border-left-color: var(--v4d3r-red-light);
 }
 
-.search-result-file-matched-text {
-  background: rgba(220, 38, 38, 0.3);
-  color: var(--v4d3r-grey-snow);
-}
-
-.search-result-file-title {
-  color: var(--v4d3r-red-light);
-}
 
 /* ═══════════════════════════════════════════════════════════════════════════
    END OF V4D3R SNIPPET SYSTEM
