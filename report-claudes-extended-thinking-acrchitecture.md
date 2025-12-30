@@ -575,13 +575,13 @@ Interface implications:
    - **Knowledge Graph Role**: Extends single-agent reasoning to multi-agent systems and agentic applications
    - **Priority**: High - Frontier area with rapid development and high practical value
 
-### 5. **[[Evaluation Methodologies for LLM Reasoning Quality]]**
+### 5. **Evaluation Methodologies for LLM Reasoning Quality**
    - **Connection**: Claims about reasoning improvements need rigorous evaluation; systematic coverage of assessment frameworks, benchmarks, and metrics
    - **Depth Potential**: Could examine task-specific benchmarks, human evaluation protocols, automated metrics (coherence, factuality, logical validity), and meta-evaluation challenges
    - **Knowledge Graph Role**: Provides the empirical foundation for comparing techniques and validating claims
    - **Priority**: Medium - Important for research but less critical for practitioners
 
-### 6. **[[Safety and Alignment Considerations in Advanced Reasoning Systems]]**
+### 6. **Safety and Alignment Considerations in Advanced Reasoning Systems**
    - **Connection**: More powerful reasoning capabilities raise alignment questions; systematic analysis of safety implications, failure modes, and mitigation strategies
    - **Depth Potential**: Could explore goal misgeneralization risks, deceptive reasoning, value alignment in multi-step planning, adversarial robustness, and safety verification protocols
    - **Knowledge Graph Role**: Addresses ethical and safety dimensions often overlooked in capabilities-focused analysis
