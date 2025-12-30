@@ -1,0 +1,29 @@
+## Note-Taking for Different Subjects and Contexts
+
+> [!CAUTION] One Size Does _Not_ Fit All: The best way to take notes can vary depending on the subject matter and learning context. There is _no single perfect strategy_ for every situation – your approach might change with the topic, course format, or personal learning style[\[1\]](https://tilt.colostate.edu/note-taking-strategies/#:~:text=,or%20break%20your%20study%20game).
+
+Here are some guidelines on tailoring your notes to different subjects and tasks:
+
+*   **Mathematics & Physics:**
+    > [!INFO] For Mathematics & Physics: Focus on problem-solving steps and formulas.
+    It often helps to write out example problems **step-by-step**, including annotations about _why_ each step is taken. For instance, one approach is to use a split-page format: work out the problem on one side and write explanatory notes or reasons on the other[\[2\]](https://ectutoring.com/cornell-notes-increase-grades#:~:text=One%20of%20the%20biggest%20mistakes,to%20memorize%20for%20the%20test). This way, you capture the solution process and the underlying concepts. Diagrams (for geometry or physics) and highlighting key formulas can also be useful.
+*   **Science (Biology, Chemistry, etc.):**
+    > [!INFO] For Science (Biology, Chemistry, etc.): Emphasize processes, diagrams, and factual details.
+    Consider using a structured outline or even a **chart** to organize information. For example, in biology you might make a table comparing cell organelles, listing their structure, function, and a mnemonic or analogy (see the Chart Method in the next section). Visuals are powerful in science notes – sketch out processes (like the water cycle or a chemical reaction) or include graphs and charts. The key is to organize complex information into clear categories (e.g. cause/effect, category/examples, chronological steps).
+*   **History & Social Studies:**
+    > [!INFO] For History & Social Studies: Emphasize chronology, cause-and-effect, and themes.
+    Many students find it helpful to use timelines or the **Charting method** to compare events or societies (e.g. columns for time period, key events, impacts)[\[3\]](https://tilt.colostate.edu/note-taking-strategies/#:~:text=). Alternatively, a **mind map** can connect key figures and causes of events in a visual web. If the class is heavy on dates and facts, an outline or Cornell notes with a dedicated column for dates/names can help. If it’s more discussion-based (e.g. causes of a war, differing perspectives), jot down main arguments and supporting evidence, perhaps using a Question/Evidence/Conclusion format for each big idea.
+*   **Literature & Humanities:**
+    > [!INFO] For Literature & Humanities: Focus on main ideas, themes, and analysis.
+    It’s often useful to note down **quotes or examples** from texts alongside your interpretation. For literature, you might organize notes by character, theme, and plot point (the **Outline method** works well, with main themes as top-level bullets and supporting details indented beneath). You can also use Cornell notes: for example, put **keywords or questions** (like “Motifs of revenge?”) in the left margin and detailed notes or answers on the right.
+    > [!NOTE] For language courses (e.g. Spanish), one student used Cornell’s left column for vocabulary words and the right for definitions, using the summary section to list any key grammar rules or cultural notes[\[2\]](https://ectutoring.com/cornell-notes-increase-grades#:~:text=One%20of%20the%20biggest%20mistakes,to%20memorize%20for%20the%20test).
+*   **Technical and Problem-Solving Subjects (Engineering, Computer Science):**
+    > [!INFO] For Technical and Problem-Solving Subjects (Engineering, Computer Science): Combine textual notes with code snippets or formulas, and ensure you capture not just _what_ happened in a problem, but _why_.
+    Write down concepts and definitions (e.g. what a data structure does) but also **annotate examples** (like a snippet of code or a sample problem). If the lecture provides a procedure (e.g. how to solve a circuit), note each step clearly. Diagrams (circuit schematics, flowcharts) are very helpful. You might use an outline for theory portions and a separate section or box for diagrams and example problems. Note any principles or rules applied.
+*   **Lectures vs. Readings:** Adjust your style based on input source. During _lectures_, you have to jot things down quickly, so use abbreviations and focus on main points and any details the instructor emphasizes or writes on the board. During _readings_, you can be more thorough: consider highlighting the text and then summarizing in your own words. _Textbook note-taking_ can involve writing chapter outlines or margin notes, and perhaps a short summary at the end of each section to test your understanding.
+    > [!NOTE] In any context, if you encounter new terms or references, mark them (underline or a star) and clarify them either during review or by asking questions.
+
+> [!TLDR] Overall, adapt your note-taking technique to the subject: **visual topics benefit from diagrams or mind maps, fact-heavy content may need structured outlines or charts, and analytical discussions call for noting arguments and evidence.** Flexibility is key – don’t be afraid to modify a method (like Cornell or outline) to suit the class. As one tutor noted, the best results came when students _diversified_ the method to meet each subject’s needs (e.g. doing math problems in one column, but vocabulary in another for language class)[\[2\]](https://ectutoring.com/cornell-notes-increase-grades#:~:text=One%20of%20the%20biggest%20mistakes,to%20memorize%20for%20the%20test).
+
+[[ref_chatgpt-research_guide-to-notes_2025-09-19]][[Mind Mapping for Notes]][[Cornell Note Method]][[Charting Method for Note Taking]][[Outline Note Method]]
+[[Beyond the Search Bar MOC]]

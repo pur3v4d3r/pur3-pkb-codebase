@@ -1,0 +1,584 @@
+/* ═══════════════════════════════════════════════════════════
+   PUR3V4D3R IMPERIAL THEME
+   Version: 1.0.0
+   Author: Pur3v4d3r
+   Description: Professional dark theme with red/grey/black palette
+
+   Features:
+   - Crimson (#E50000) accent throughout
+   - Glassmorphism sidebars with backdrop blur
+   - Advanced code blocks with dual borders
+   - 30 essential callout types with Card Elevated style
+   - Zero animations for maximum performance
+   - No !important flags (clean CSS hierarchy)
+
+   Color Palette:
+   - Red: #E50000 (vivid), #FF0000 (bright), #B30000 (dark)
+   - Grey: #E0E0E0 (bright), #A3A3A3 (medium), #7A7A7A (dark)
+   - Black: #0A0A0A (deep), #121212 (base), #1E1E1E (raised)
+   ═══════════════════════════════════════════════════════════ */
+
+/* ═══════════════════════════════════════════════════════════
+   SECTION 1: BASE - OBSIDIAN APP IMPORT
+   ═══════════════════════════════════════════════════════════ */
+
+@import url('app://obsidian.md/app.css');
+
+/* ═══════════════════════════════════════════════════════════
+   SECTION 2: CSS VARIABLES - FOUNDATION
+   Dependencies: None
+   Description: All color, spacing, typography, and UI variables
+   ═══════════════════════════════════════════════════════════ */
+
+.theme-dark {
+
+  /* ─────────────────────────────────────────
+     COLOR SYSTEM - Red/Grey/Black Palette
+     ───────────────────────────────────────── */
+
+  /* Primary Red Accents */
+  --theme-red-vivid: #E50000;
+  --theme-red-bright: #FF0000;
+  --theme-red-dim: #CC0000;
+  --theme-red-dark: #B30000;
+
+  /* Greyscale Hierarchy */
+  --theme-grey-bright: #dbdbdbff;
+  --theme-grey-medium: #A3A3A3;
+  --theme-grey-dark: #7A7A7A;
+  --theme-grey-darker: #5A5A5A;
+
+  /* Black Backgrounds (Darkest to Lightest) */
+  --theme-black-deep: #0A0A0A;
+  --theme-black-base: #222222ff;
+  --theme-black-raised: #0f0f0fff;
+  --theme-black-surface: #252525ff;
+  --theme-black-ui: #181818ff;
+  --theme-black-border: #ff00003b;
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Backgrounds
+     ───────────────────────────────────────── */
+
+  --background-primary: var(--theme-black-base);
+  --background-secondary: var(--theme-black-raised);
+  --background-modifier-border: var(--theme-black-border);
+  --frame-background: var(--theme-black-ui);
+  --gutter-background: var(--theme-black-ui);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Accents
+     ───────────────────────────────────────── */
+
+  --color-accent: var(--theme-red-vivid);
+  --interactive-accent: var(--theme-red-vivid);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Text
+     ───────────────────────────────────────── */
+
+  --text-normal: var(--theme-grey-bright);
+  --text-muted: var(--theme-grey-medium);
+  --text-faint: var(--theme-grey-dark);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Links
+     ───────────────────────────────────────── */
+
+  --link-color: var(--theme-red-vivid);
+  --link-color-hover: var(--theme-red-bright);
+  --link-external-color: var(--theme-grey-medium);
+  --link-external-color-hover: var(--theme-red-vivid);
+  --link-unresolved-color: #666666;
+  --link-unresolved-decoration-color: var(--theme-red-vivid);
+  --link-unresolved-opacity: 1.0;
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Code Blocks
+     ───────────────────────────────────────── */
+
+
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - UI Components
+     ───────────────────────────────────────── */
+
+  --icon-color: var(--theme-red-vivid);
+  --icon-color-hover: var(--theme-red-bright);
+  --icon-color-active: var(--theme-red-dark);
+  --icon-color-focused: var(--theme-red-vivid);
+
+  --indentation-guide-color: var(--theme-black-border);
+  --indentation-guide-color-active: var(--theme-red-vivid);
+
+  --progress-complete: var(--theme-red-vivid);
+
+  --checkbox-color: var(--theme-red-vivid);
+
+  --line-number-color: var(--theme-grey-dark);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Embeds & Quotes
+     ───────────────────────────────────────── */
+
+  --embed-background: var(--theme-black-deep);
+  --embed-decoration-color: var(--theme-red-vivid);
+
+  --blockquote-background-color: var(--theme-black-ui);
+  --blockquote-border-color: var(--theme-red-vivid);
+  --blockquote-color: var(--theme-grey-bright);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Title Bar
+     ───────────────────────────────────────── */
+
+  --title-color: var(--theme-red-vivid);
+  --title-color-inactive: var(--theme-grey-dark);
+  --titlebar-text-color: var(--theme-grey-bright);
+  --titlebar-text-color-focused: var(--theme-red-vivid);
+  --frame-icon-color: var(--theme-grey-medium);
+
+
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Tables
+     ───────────────────────────────────────── */
+
+  --table-row-background-hover: rgba(229, 0, 0, 0.10);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Highlight Colors
+     ───────────────────────────────────────── */
+
+  --color-red: var(--theme-red-vivid);
+  --color-orange: var(--theme-red-vivid);
+  --color-yellow: var(--theme-grey-bright);
+  --color-green: var(--theme-grey-medium);
+  --color-cyan: var(--theme-grey-dark);
+  --color-blue: var(--theme-grey-darker);
+  --color-purple: var(--theme-red-vivid);
+  --color-pink: var(--theme-red-bright);
+
+  /* ─────────────────────────────────────────
+     SPACING SYSTEM
+     ───────────────────────────────────────── */
+
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 0.25rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-xxl: 3rem;
+
+  /* ─────────────────────────────────────────
+     TYPOGRAPHY SYSTEM
+     ───────────────────────────────────────── */
+
+  --font-family: 'JetBrains Mono', monospace;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-xxl: 1.5rem;
+
+  --line-height-tight: 1.5;
+  --line-height-normal: 1.4;
+  --line-height-relaxed: 1.4;
+
+  /* ─────────────────────────────────────────
+     BORDER & RADIUS SYSTEM
+     ───────────────────────────────────────── */
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+
+  --border-width-thin: 1px;
+  --border-width-medium: 2px;
+  --border-width-thick: 3px;
+
+  /* ─────────────────────────────────────────
+     SHADOW SYSTEM
+     ───────────────────────────────────────── */
+
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.4);
+  --shadow-xl: 0 12px 24px rgba(0, 0, 0, 0.5);
+  --shadow-xxl: 0 16px 32px rgba(0, 0, 0, 0.6);
+
+  
+
+  /* ─────────────────────────────────────────
+     TRANSITION SYSTEM (Smooth Interactions Only)
+     ───────────────────────────────────────── */
+
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow: 400ms ease;
+
+  /* ─────────────────────────────────────────
+     WORKSPACE & TRANSLUCENCY
+     ───────────────────────────────────────── */
+
+  --workspace-background-translucent: rgba(229, 0, 0, 0.10);
+}
+/* ═══════════════════════════════════════════════════════════
+   SECTION 3: HEADERS - MARKDOWN & EDITOR
+   Dependencies: Variables (--theme-red-vivid, --theme-grey-*)
+   Description: Stylish headers with red accents and hover effects
+   ═══════════════════════════════════════════════════════════ */
+/* ───────────────────────────────────────
+   MARKDOWN HEADERS - H1 to H6
+   ─────────────────────────────────────── */
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+
+.markdown-rendered h6 {
+  color: var(--theme-grey-bright);
+  font-weight: 600;
+  margin-top: var(--space-md);
+  margin-bottom: var(--space-sm);
+  position: relative;
+  transition: color var(--transition-fast);
+}
+.markdown-rendered h1:hover,
+.markdown-rendered h2:hover,
+.markdown-rendered h3:hover,
+.markdown-rendered h4:hover,
+.markdown-rendered h5:hover,
+.markdown-rendered h6:hover {
+  color: var(--theme-red-vivid);
+}
+.markdown-rendered h1::after,
+.markdown-rendered h2::after,
+.markdown-rendered h3::after,
+.markdown-rendered h4::after,
+.markdown-rendered h5::after,
+.markdown-rendered h6::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 50px;
+  height: 3px;
+  background: var(--theme-red-vivid);
+  border-radius: var(--radius-sm);
+}
+
+
+
+
+
+
+/* ═══════════════════════════════════════════════════════════
+   SECTION 5: TABLES - MARKDOWN & DATAVIEW
+   Dependencies: Variables (--theme-red-vivid gradient)
+   Description: Gradient headers, hover effects, Dataview styling
+   ═══════════════════════════════════════════════════════════ */
+
+/* ───────────────────────────────────────
+   MARKDOWN TABLES - Standard Tables
+   ─────────────────────────────────────── */
+.markdown-rendered table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.markdown-rendered table thead {
+  background: color(srgb red green rgb(20, 20, 20))
+
+
+}  background: linear-gradient(135deg, var(--theme-red-vivid) 0%, var(--theme-red-dim) 100%);
+
+.markdown-rendered table th {
+  color: var(--theme-black-base);
+  font-weight: 700;
+  padding: 10px 12px;
+}
+.markdown-rendered table td {
+  padding: 8px 12px;
+  border: 1px solid var(--theme-grey-darker);
+
+
+
+}.markdown-rendered table tr:hover {
+  background: rgba(229, 0, 0%
+, 0.08);
+
+
+
+
+
+
+/* ───────────────────────────────────────
+   DATAVIEW PLUGIN TABLES
+   ─────────────────────────────────────── */
+
+.dataview.table-view-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/* Dataview table header - Red gradient */
+.dataview.table-view-table thead {
+  background: linear-gradient(135deg, var(--theme-red-vivid) 0%, var(--theme-red-dim) 100%);
+}
+
+.dataview.table-view-table th {
+  color: var(--theme-black-base);
+  font-weight: 700;
+  padding: 10px 12px;
+}
+
+/* Dataview table cells */
+.dataview.table-view-table td {
+  padding: 8px 12px;
+  border: 1px solid var(--theme-grey-darker);
+}
+
+.dataview.table-view-table tr:hover {
+  background: rgba(229, 0, 0, 0.08);
+}
+
+/* Dataview inline fields (Key::Value) */
+.dataview.inline-field-key {
+  color: var(--theme-red-vivid);
+  font-weight: 600;
+}
+
+.dataview.inline-field-value {
+  color: var(--text-normal);
+}
+
+/* Dataview task lists */
+.dataview.task-list-item.is-checked {
+  opacity: 0.6;
+  text-decoration: line-through;
+}
+
+/* Dataview error messages */
+.dataview.dataview-error {
+  color: var(--theme-red-vivid);
+  background: rgba(229, 0, 0, 0.1);
+  border-left: 3px solid var(--theme-red-vivid);
+  padding: var(--space-sm) var(--space-md);
+  margin: var(--space-sm) 0;
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   SECTION 6: HORIZONTAL RULES
+   Dependencies: Variables (--theme-red-vivid)
+   Description: Minimalist thin red separator line
+   ═══════════════════════════════════════════════════════════ */
+
+hr {
+  border: none;
+  height: 1px;
+  background: var(--theme-red-vivid);
+  margin: var(--space-md) 0;
+  opacity: 0.6;
+  transition: opacity var(--transition-fast);
+}
+hr:hover {
+  opacity: 1.0!important;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   SECTION 7: TEXT SIZING - EDITOR & PREVIEW
+   Dependencies: Variables (--font-text-size, --font-ui-*)
+   Description: Consistent text sizing across editor and preview
+   ═══════════════════════════════════════════════════════════ */
+/* Base Font Sizes - Ensure consistency */
+body {
+  --font-text-size: 20px  !important;                         /* Base text size */
+  --editor-font-size: 18px !important;                        /* Override Minimal theme */
+  --font-adaptive-normal: 18px !important;                    /* Override Minimal adaptive */
+  --font-smallest: 18px  !important;                       /* Small text (14px) */
+  --font-smaller: 18px  !important;                       /* Smaller text
+  (15px) */
+  --font-small: 18px  !important;                              /* Normal text (18px) */
+  --font-ui-smaller: 14px  !important;                        /* UI elements */
+  --font-ui-small: 16px  !important;                          /* Small UI */
+  --font-ui-medium: 16px  !important;                         /* Medium UI */
+  --font-ui-large: 18px  !important;                          /* Large UI */
+}
+/* Editor Font Size - Comprehensive override for all editor elements */
+.markdown-source-view,
+.cm-content,
+.cm-editor,
+.cm-scroller,
+.cm-line,
+.markdown-source-view.mod-cm6,
+.markdown-source-view.mod-cm6 .cm-editor,
+.markdown-source-view.mod-cm6 .cm-scroller,
+.markdown-source-view.mod-cm6 .cm-content,
+.markdown-source-view.mod-cm6 .cm-line,
+.markdown-source-view.mod-cm6 .cm-sizer {
+  font-size: var(--font-text-size) !important;
+}
+/* Preview Font Size */
+.markdown-preview-view {
+  font-size: var(--font-text-size) !important;
+}
+/* Interface Font Sizes */
+.workspace-leaf-content[data-type="file-explorer"] .nav-file-title,
+.workspace-leaf-content[data-type="search"] .search-result-file-title {
+  font-size: var(--font-ui-medium) !important;
+}
+.workspace-leaf-content[data-type="file-explorer"] .nav-folder-title {
+  font-size: var(--font-ui-medium) !important;
+}
+/* Sidebar and Panel Text */
+.side-dock-ribbon {
+  font-size: var(--font-ui-small) !important;
+}
+.workspace-tab-header-container {
+  font-size: var(--font-ui-small) !important;
+}
+/* Code Block Font Size */
+.markdown-preview-view code,
+.markdown-preview-view pre {
+  font-size: 0.8em !important;                    /* 80% of base
+  text */
+.cm-s-obsidian span.cm-inline-code {
+  font-size: 0.8em !important;                    /* 80% of base
+  text */
+}
+/* Footnotes and Small Text */
+.markdown-preview-view .footnote-ref,
+.markdown-rendered .footnote-ref,
+.markdown-preview-view .footnote-definition,
+.markdown-rendered .footnote-definition {
+  font-size: 0.8em !important;                    /* 80% of base
+  text */
+}
+
+.markdown-preview-view .small-text,
+.markdown-rendered .small-text {
+  font-size: var(--font-smaller) !important;
+}
+
+
+
+
+/* ═══════════════════════════════════════════════════════════
+   SECTION 8: SIDEBAR & WORKSPACE TABS
+   Dependencies: Variables
+   Description: Sidebar navigation tabs and workspace components
+   ═══════════════════════════════════════════════════════════ */
+
+/* ─────────────────────────────────────────
+   SIDEBAR TAB HEADERS (File Explorer, Search, etc.)
+   ───────────────────────────────────────── */
+
+/* Tab container at top of sidebar */
+.workspace-tabs {
+  background: var(--theme-black-ui);
+  border-bottom: 1px solid var(--theme-black-border);
+}
+
+/* Individual tab headers (inactive) */
+.workspace-tab-header {
+  background: transparent;
+  color: var(--theme-grey-medium) !important;
+  border: none;
+  transition: all var(--transition-fast);
+}
+
+.workspace-tab-header:hover {
+  background: rgba(229, 0, 0, 0.08) !important;
+  color: var(--theme-red-vivid) !important;
+}
+
+/* Active tab */
+.workspace-tab-header.is-active {
+  background: var(--theme-black-raised) !important;
+  color: var(--theme-red-vivid) !important;
+  border-bottom: 2px solid var(--theme-red-vivid) !important;
+}
+
+/* Tab title text - High specificity to override snippets */
+.theme-dark .workspace-tab-header-inner-title,
+body .workspace-tab-header-inner-title,
+.workspace-tab-header-inner-title {
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  color: var(--theme-grey-bright) !important;
+}
+
+.theme-dark .workspace-tab-header.is-active .workspace-tab-header-inner-title,
+body .workspace-tab-header.is-active .workspace-tab-header-inner-title,
+.workspace-tab-header.is-active .workspace-tab-header-inner-title {
+  font-weight: 600 !important;
+  color: var(--theme-red-vivid) !important;
+}
+
+/* Tab icons */
+.workspace-tab-header-inner-icon {
+  color: var(--theme-grey-medium) !important;
+}
+
+.workspace-tab-header.is-active .workspace-tab-header-inner-icon {
+  color: var(--theme-red-vivid) !important;
+}
+
+.workspace-tab-header:hover .workspace-tab-header-inner-icon {
+  color: var(--theme-red-vivid) !important;
+}
+
+.workspace-tab-header:hover .workspace-tab-header-inner-title {
+  color: var(--theme-red-vivid) !important;
+}
+
+/* Tab container (holds all tabs) */
+.workspace-tab-header-container {
+  background: var(--theme-black-ui) !important;
+  padding: 0;
+}
+
+/* Specific fixes for right sidebar tabs (Tags, Properties, Backlinks) */
+.workspace-split.mod-right-split .workspace-tab-header,
+.workspace-split.mod-left-split .workspace-tab-header {
+  color: var(--theme-grey-bright) !important;
+}
+
+.workspace-split.mod-right-split .workspace-tab-header-inner-title,
+.workspace-split.mod-left-split .workspace-tab-header-inner-title {
+  color: var(--theme-grey-bright) !important;
+}
+
+.workspace-split.mod-right-split .workspace-tab-header.is-active .workspace-tab-header-inner-title,
+.workspace-split.mod-left-split .workspace-tab-header.is-active .workspace-tab-header-inner-title {
+  color: var(--theme-red-vivid) !important;
+}
+
+
+
+/* ═══════════════════════════════════════════════════════════
+   END OF THEME (PHASE 5 SIDEBAR TABS COMPLETE)
+
+   Completed Phases:
+   ✅ Phase 1: Foundation & Variables (277 lines)
+   ✅ Phase 2: Code Blocks (120 lines)
+   ✅ Phase 3: Callouts - Card Elevated (123 lines)
+   ✅ Phase 4: Lists & Tables (240 lines)
+   ✅ Phase 4.5: Horizontal Rules (8 lines)
+   ✅ Phase 4.7: Tags (387 lines)
+   ✅ Phase 5: Sidebar & Workspace Tabs (95 lines)
+
+   Total consolidated: 1250 lines
+   Remaining snippets: 8 (from 52 original)
+
+   Next Phases:
+   - Phase 6: UI Components (modals, buttons, command palette)
+   - Phase 7: Typography & Layout refinements
+   - Phase 8: Polish & optimization
+   - Phase 9: Testing & validation
+   ═══════════════════════════════════════════════════════════ */

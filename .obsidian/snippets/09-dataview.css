@@ -1,0 +1,184 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET: Dataview Plugin Styling
+ Category: Plugins
+ Purpose: Enhanced styling for Dataview tables and lists
+ Author: Pur3v4d3r
+ Created: 2025-12-13
+ Version: 1.0.0
+
+ Description:
+ Professional styling for the Dataview plugin, featuring
+ gradient table headers, enhanced row hover effects, and
+ styled inline fields. Integrates seamlessly with the
+ overall theme color scheme.
+
+ Dependencies:
+ - 01-variables.css (recommended)
+ - Dataview plugin (required)
+
+ Standalone: Yes (requires Dataview plugin)
+
+ Features:
+ - Purple gradient table headers
+ - Hover effects on table rows
+ - Styled inline field keys (gold)
+ - Proper border and spacing
+ - Optional inline list formatting
+
+ Dataview Plugin:
+ https://github.com/blacksmithgu/obsidian-dataview
+
+ Compatibility: Obsidian 1.5+, Dataview 0.5+
+═══════════════════════════════════════════════════════════
+*/
+
+/* ══════════════════════════════════════════════════════════
+   DATAVIEW TABLES
+   Main table styling
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .dataview.table-view-table {
+  border-collapse: collapse !important;       /* Clean borders */
+  width: 100% !important;                     /* Full width */
+}
+
+/* ══════════════════════════════════════════════════════════
+   TABLE HEADER - Purple Gradient
+   Column headers with gradient background
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .dataview.table-view-table thead {
+  background: linear-gradient(135deg, #E50000 0%, #CC0000 100%) !important;
+}
+
+.theme-dark .dataview.table-view-table th {
+  color: white !important;                    /* White text */
+  font-weight: 600 !important;                /* Bold */
+  padding: 10px 12px !important;              /* Generous padding */
+}
+
+/* ══════════════════════════════════════════════════════════
+   TABLE CELLS
+   Data cells with borders and hover
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .dataview.table-view-table td {
+  padding: 8px 12px !important;               /* Cell padding */
+  border: 1px solid var(--background-modifier-border) !important;
+}
+
+/* Table row hover effect */
+.theme-dark .dataview.table-view-table tr:hover {
+  background: var(--table-row-background-hover) !important; /* Purple tint */
+}
+
+/* ══════════════════════════════════════════════════════════
+   INLINE FIELDS - Key::Value Pairs
+   Styled metadata within notes
+   ══════════════════════════════════════════════════════════ */
+
+/* Inline field key (before ::) - Gold */
+.theme-dark .dataview.inline-field-key {
+  color: #E50000 !important;                  /* Imperial Gold */
+  font-weight: 600 !important;                /* Bold */
+}
+
+/* Inline field value (after ::) */
+.theme-dark .dataview.inline-field-value {
+  color: var(--text-normal) !important;       /* Normal text color */
+}
+
+/* ══════════════════════════════════════════════════════════
+   INLINE LISTS
+   Dataview list output
+   ══════════════════════════════════════════════════════════ */
+
+/* Optional: Inline list formatting */
+body.dataview-inline-lists .dataview.inline-field {
+  display: inline !important;                 /* Horizontal layout */
+}
+
+/* ══════════════════════════════════════════════════════════
+   DATAVIEW TASK LISTS
+   Checkbox lists from Dataview queries
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .dataview.task-list-item {
+  /* Uses global checkbox styling from variables */
+}
+
+/* Completed tasks */
+.theme-dark .dataview.task-list-item.is-checked {
+  opacity: 0.6;                               /* Fade completed */
+  text-decoration: line-through;              /* Strike through */
+}
+
+/* ══════════════════════════════════════════════════════════
+   DATAVIEW METADATA
+   Query metadata and info
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .dataview.dataview-result-list-root-ul {
+  padding-left: 20px !important;              /* Indent lists */
+}
+
+/* ══════════════════════════════════════════════════════════
+   DATAVIEW ERROR MESSAGES
+   Query error styling
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .dataview.dataview-error {
+  color: var(--color-red) !important;         /* Red error text */
+  background: rgba(255, 0, 0, 0.1) !important; /* Light red background */
+  border-left: 3px solid var(--color-red) !important;
+  padding: 8px 12px !important;
+  margin: 8px 0 !important;
+  border-radius: 0 4px 4px 0 !important;
+}
+
+/* ══════════════════════════════════════════════════════════
+   DATAVIEW CALENDAR VIEWS
+   Month/year calendar displays
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .dataview.dataview-calendar {
+  /* Calendar styling inherits from table */
+}
+
+/* Calendar day cells */
+.theme-dark .dataview.dataview-calendar .dataview-calendar-day {
+  border: 1px solid var(--background-modifier-border) !important;
+  padding: 4px !important;
+}
+
+/* Today indicator */
+.theme-dark .dataview.dataview-calendar .dataview-calendar-day.is-today {
+  background: rgba(255, 199, 0, 0.2) !important; /* Gold highlight */
+  border-color: #E50000 !important;
+}
+
+/* ══════════════════════════════════════════════════════════
+   CUSTOMIZATION NOTES
+   ══════════════════════════════════════════════════════════
+
+   To customize Dataview styling:
+
+   1. Table Header Color:
+      Change the gradient in .dataview.table-view-table thead
+      Example: linear-gradient(135deg, #YOUR_COLOR1 0%, #YOUR_COLOR2 100%)
+
+   2. Inline Field Key Color:
+      Change --FFC700 in .dataview.inline-field-key
+
+   3. Row Hover Color:
+      Adjust --table-row-background-hover in 01-variables.css
+
+   4. Error Message Color:
+      Change --color-red in .dataview.dataview-error
+
+   ══════════════════════════════════════════════════════════ */
+
+/* ══════════════════════════════════════════════════════════
+   END OF DATAVIEW STYLING
+   ══════════════════════════════════════════════════════════ */

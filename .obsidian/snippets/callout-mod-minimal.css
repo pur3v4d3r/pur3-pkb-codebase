@@ -1,0 +1,58 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ CALLOUT MOD: MINIMAL STYLE
+
+ Purpose: Strips down callouts to minimal borders and subtle backgrounds
+ Usage: Enable this snippet to override the base callout styling
+ Author: Pur3v4d3r
+ Theme: Red & Black with clean minimalist design
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* Override base callout for minimal appearance */
+.callout {
+  background: transparent !important;
+  border: 1px solid rgba(var(--callout-color), 0.25) !important;
+  border-left: 3px solid rgb(var(--callout-color)) !important;
+  border-radius: 8px !important;
+  box-shadow: none !important;
+  padding: 8px !important;
+}
+
+.callout:hover {
+  background: rgba(var(--callout-color), 0.03) !important;
+  border-color: rgba(var(--callout-color), 0.4) !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2) !important;
+  transform: none !important;
+}
+
+/* Minimal title */
+.callout-title {
+  background: transparent !important;
+  color: rgb(var(--callout-color)) !important;
+  font-weight: 600 !important;
+  padding: 8px 12px !important;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.15) !important;
+  text-shadow: none !important;
+}
+
+.callout:hover .callout-title {
+  background: rgba(var(--callout-color), 0.05) !important;
+  border-bottom-color: rgba(var(--callout-color), 0.25) !important;
+}
+
+/* Minimal content */
+.callout-content {
+  background: transparent !important;
+  padding: 12px !important;
+}
+
+.callout:hover .callout-content {
+  background: rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Remove glow effects */
+.callout::before,
+.callout-title::after {
+  display: none !important;
+}

@@ -1,0 +1,19 @@
+📁 00-meta
+⏱️  Generated in 1 ms
+──────────────────────────────────────────────────
+├── 📝 _reference-tag-taxonomy-202511190109.md
+├── 📝 00-spes-documentation-index.md
+├── 📝 01-spes-master-operations-manual.md
+├── 📝 02-spes-quick-start-guide.md
+├── 📝 03-llm-integration-protocol.md
+├── 📝 04-component-library-reference.md
+├── 📝 05-troubleshooting-diagnostics-guide.md
+├── 📝 folder-index.md
+├── 📝 folder-structure-.claude-2025-12-23.md
+├── 📝 metadata-schema-reference.md
+├── 📝 pkb+prompt-engineering-library-documentation-master.md
+├── 📝 project-tracker.md
+├── 📝 reference-moc.md
+├── 📝 session-memory.md
+├── 📝 user-preferences.md
+└── 📝 vault-map.md

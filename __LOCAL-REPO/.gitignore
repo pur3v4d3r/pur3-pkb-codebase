@@ -1,0 +1,12 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs and Tree structures (like the file you uploaded)
+*.log
+structure_*.markdown
+structure_*.txt
+
+# Large Context Dumps (Convention)
+*_dump.md
+*_context.md

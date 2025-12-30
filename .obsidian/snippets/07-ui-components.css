@@ -1,0 +1,165 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET: UI Components - Modals, Command Palette, Menus
+ Category: Interface
+ Purpose: Styling for modals, command palette, and pop-ups
+ Author: Pur3v4d3r
+ Created: 2025-12-13
+ Version: 1.0.0
+
+ Description:
+ Comprehensive styling for Obsidian's UI components including
+ modals, command palette (omnibar), suggestion menus, and
+ pop-ups. Features translucent backgrounds with backdrop blur
+ for a modern, professional appearance.
+
+ Dependencies: 01-variables.css
+ Standalone: Yes
+
+ Features:
+ - Translucent modals with backdrop blur
+ - Command palette styling with purple accents
+ - Suggestion highlighting
+ - Hotkey indicators with gold background
+ - Button system with hover states
+ - Input field styling
+ - Search results highlighting
+
+ Compatibility: Obsidian 1.5+
+═══════════════════════════════════════════════════════════
+*/
+
+/* ══════════════════════════════════════════════════════════
+   COMMAND PALETTE (OMNIBAR)
+   Main command search interface
+   ══════════════════════════════════════════════════════════ */
+
+/* Command palette container */
+.prompt {
+  border: #E50000;                            /* Purple border */
+  opacity: 0.9;                               /* Slightly transparent */
+}
+
+/* Highlighted search term in suggestions */
+.suggestion-highlight {
+  text-decoration: none;
+  color: var(--text-accent);                  /* Gold highlight */
+}
+
+/* Selected suggestion item */
+.suggestion-item.is-selected {
+  border: solid var(--text-accent);           /* Gold border */
+  border-radius: 14px;                        /* Rounded */
+}
+
+/* Hotkey indicator bubbles */
+.suggestion-hotkey {
+  background-color: #E50000;                  /* Purple background */
+  color: #E50000;                             /* Gold text */
+  border-radius: 10px;                        /* Rounded pill */
+  font-weight: 500;                           /* Medium weight */
+}
+
+/* Command instructions text */
+.prompt-instruction {
+  font-weight: 500;
+}
+
+/* Command instruction keys */
+.prompt-instruction-command {
+  background-color: rgba(250, 252, 255, 0.5); /* Light background */
+  color: black;
+  border-radius: 10px;
+  padding: 0 3px 0 3px;
+}
+
+/* ══════════════════════════════════════════════════════════
+   PROMPT INPUT FIELD
+   Search/command input styling
+   ══════════════════════════════════════════════════════════ */
+
+input.prompt-input,
+input.prompt-input:active,
+input.prompt-input:focus {
+  border-radius: 3px;
+  border: 2px solid rgba(38, 38, 59, 0.5);    /* Dark border */
+  background-color: transparent;              /* See-through */
+  box-sizing: border-box;
+  border-collapse: collapse;
+}
+
+/* ══════════════════════════════════════════════════════════
+   TRANSLUCENT MENUS & POPOVERS
+   Modern blurred background effect
+   ══════════════════════════════════════════════════════════ */
+
+div.popover.hover-popover,
+.menu,
+.suggestion-container {
+  background-color: rgba(28, 28, 30, 0.95) !important; /* 95% opaque dark */
+  backdrop-filter: blur(30px) !important;     /* Heavy blur */
+  border: 1px solid rgba(229, 0, 0, 0.3) !important; /* Purple border */
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5) !important; /* Deep shadow */
+}
+
+/* ══════════════════════════════════════════════════════════
+   MODAL DIALOGS
+   Settings, confirmations, and pop-up windows
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .modal {
+  background: var(--background-primary) !important;
+  border-radius: 8px !important;              /* Rounded corners */
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3) !important; /* Elevation */
+}
+
+/* Modal title */
+.theme-dark .modal-title {
+  color: #E50000 !important;                  /* Gold title */
+  font-weight: 600 !important;                /* Bold */
+  font-size: 1.25em !important;               /* Larger */
+  margin-bottom: 16px !important;
+}
+
+/* Modal close button */
+.theme-dark .modal-close-button {
+  color: var(--text-muted) !important;        /* Muted gray */
+  transition: color 0.2s ease !important;
+}
+
+.theme-dark .modal-close-button:hover {
+  color: #E50000 !important;                  /* Magenta on hover */
+}
+
+/* ══════════════════════════════════════════════════════════
+   BUTTONS
+   Standard button styling
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark button {
+  background: var(--interactive-normal) !important;
+  color: var(--text-normal) !important;
+  border: 1px solid var(--background-modifier-border) !important;
+  border-radius: 4px !important;
+  padding: 6px 12px !important;
+  font-size: 14px !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+}
+
+.theme-dark button:hover {
+  background: var(--interactive-hover) !important;
+}
+
+/* Primary CTA buttons */
+.theme-dark .mod-cta {
+  background: #E50000 !important;             /* Light purple */
+  color: white !important;
+  border-color: #E50000 !important;
+}
+
+.theme-dark .mod-cta:hover {
+  background: #FF0000 !important;             /* Darker purple */
+  border-color: #FF0000 !important;
+}
+

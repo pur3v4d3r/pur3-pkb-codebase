@@ -1,0 +1,13 @@
+{
+  "bundles": {
+    "PUR3V4D3R-REPOMIX-EXEMPLAR-128": {
+      "name": "PUR3V4D3R-REPOMIX-EXEMPLAR",
+      "created": "2025-12-28T14:47:43.876Z",
+      "lastUsed": "2025-12-28T14:47:43.876Z",
+      "tags": ["exemplar", "repomix", "codebase", "pkb"],
+      "files": [
+        "999-codebase+pkb"
+      ]
+    }
+  }
+}

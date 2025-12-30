@@ -1,0 +1,194 @@
+---
+type: "component"
+component-type: "<% await tp.system.suggester(["Persona", "Instruction", "Constraint", "Output Format", "Context Framer", "Example"], ["persona", "instruction", "constraint", "format", "context", "example"], false, "Component type?") %>"
+atomic-composite: "<% await tp.system.suggester(["Atomic (single purpose)", "Composite (multi-component)"], ["atomic", "composite"], false, "Atomic or composite?") %>"
+domain: "<% await tp.system.suggester(["General", "Technical", "Creative", "Educational", "PKB Operations"], ["general", "technical", "creative", "educational", "pkb"], false, "Domain?") %>"
+id: "<% tp.date.now("YYYYMMDDHHmmss") %>"
+status: "active"
+version: "1.0.0"
+rating: "0.0"
+performance-score: "0.0"
+source: "<% await tp.system.suggester(["Claude Sonnet 4.5", "Claude Opus 4.5", "Gemini 3.0 Pro", "Original", "Other"], ["claude-sonnet-4.5", "claude-opus-4.5", "gemini-3.0-pro", "original", "other"], false, "Source?") %>"
+created: "<% tp.date.now("YYYY-MM-DD") %>"
+modified: "<% tp.date.now("YYYY-MM-DD") %>"
+usage-count: 0
+last-used: ""
+confidence: "<% await tp.system.suggester(["Speculative", "Provisional", "Moderate", "Established", "High"], ["speculative", "provisional", "moderate", "established", "high"], false, "Confidence?") %>"
+maturity: "seedling"
+tags:
+  - "year/<% tp.date.now("YYYY") %>"
+  - "prompt-engineering/component"
+  - "component-type/placeholder"
+  - "domain/placeholder"
+aliases:
+  - "<% tp.file.title %>"
+link-up: "[[prompt-engineering-moc]]"
+conflicts-with: []
+synergies-with: []
+used-in-prompts: []
+---
+
+> [!usage] Component Template Usage
+> **Purpose**: Create reusable prompt building blocks for the component library.
+>
+> **Component Types**:
+> - **Persona**: Role/identity frames ("You are an expert...")
+> - **Instruction**: Task directives ("Analyze the following...")
+> - **Constraint**: Boundaries/restrictions ("Do not use jargon...")
+> - **Format**: Output templates ("Respond in JSON format...")
+> - **Context**: Background/framing ("Given a dataset of...")
+> - **Example**: Few-shot demonstrations
+>
+> **Atomic vs Composite**:
+> - **Atomic**: Single-purpose, indivisible (most components)
+> - **Composite**: Combines multiple atomics for common patterns
+>
+> **After Creation**:
+> 1. Test in multiple contexts
+> 2. Document conflicts and synergies
+> 3. Track usage in prompts
+> 4. Update performance score based on results
+
+[Component Created: [[<% tp.date.now("YYYY-MM-DD") %>|<% tp.date.now("dddd, MMMM Do, YYYY") %>]]]
+
+---
+
+# <% tp.file.title %>
+
+> [!definition] Component Definition
+> <!-- One-sentence description of what this component does -->
+> <% tp.file.cursor(1) %>
+
+## 🎯 When to Use
+
+<!-- Scenarios where this component excels -->
+- <% tp.file.cursor(2) %>
+
+## 🚫 When NOT to Use
+
+<!-- Scenarios where this component fails or is inappropriate -->
+- <% tp.file.cursor(3) %>
+
+---
+
+## 📝 COMPONENT TEXT
+
+```prompt
+<% tp.file.cursor(4) %>
+```
+
+---
+
+## 🔀 VARIATIONS
+
+<!-- Alternative phrasings or adaptations -->
+
+### Variation 1: [Context]
+```prompt
+
+```
+
+### Variation 2: [Context]
+```prompt
+
+```
+
+---
+
+## 🧩 COMPOSITION
+
+<!-- For composite components: list atomic components used -->
+
+**Atomic Components**:
+-
+
+**Composition Pattern**:
+<!-- How are the atomics combined? -->
+
+---
+
+## 🤝 RELATIONSHIPS
+
+### Works Well With
+<!-- Components that synergize with this one -->
+- [[component-name]] - Synergy description
+
+### Conflicts With
+<!-- Components that shouldn't be used together -->
+- [[component-name]] - Conflict description
+
+---
+
+## 📊 PERFORMANCE DATA
+
+### Usage Statistics
+- **Total Uses**: `VIEW[{usage-count}]`
+- **Last Used**: `VIEW[{last-used}]`
+- **Performance Score**: `VIEW[{performance-score}]`/10
+- **Average Rating in Prompts**: [Calculate from used-in-prompts]
+
+### Test Results
+
+#### Test 1: [Context/Domain]
+**Date**:
+**Prompt Used In**: [[prompt-link]]
+**Quality Score**: /10
+**Notes**:
+
+---
+
+## 💡 USAGE EXAMPLES
+
+### Example 1: [Use Case]
+**Context**:
+**Full Prompt**:
+**Outcome**:
+**Effectiveness**: ⭐⭐⭐⭐⭐
+
+### Example 2: [Use Case]
+**Context**:
+**Full Prompt**:
+**Outcome**:
+**Effectiveness**: ⭐⭐⭐⭐⭐
+
+---
+
+## 🔗 USED IN PROMPTS
+
+```dataview
+TABLE status, rating, usage-count, last-used
+FROM ""
+WHERE type = "prompt" AND contains(components-used, this.file.link)
+SORT rating DESC
+LIMIT 10
+```
+
+### Manual Links
+<!-- Prompts that use this component -->
+-
+
+---
+
+## 🔧 OPTIMIZATION HISTORY
+
+### Version 1.0.0 - <% tp.date.now("YYYY-MM-DD") %>
+**Changes**: Initial creation
+**Impact**: Baseline
+
+---
+
+## 🎓 LESSONS LEARNED
+
+<!-- Insights from using this component -->
+- <% tp.file.cursor(5) %>
+
+---
+
+## 📚 REFERENCES
+
+<!-- Source materials, best practices, research -->
+-
+
+---
+
+*Component Template Version: 1.0.0 | Created: 2025-12-20*

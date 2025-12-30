@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Pur3v4d3r Documentation",
+  "behavior": "create",
+  "noteNameFormat": "{{date|date:\"YYYY-MM-DD\"}}-docs-{{\"create a 3-5 word kebab-case filename describing the documentation topic\"|replace:\" \":\"-\"|lower|safe_name}}",
+  "path": "03-notes/reference",
+  "context": "{{selectorHtml:article,main,.documentation,.docs-content,.markdown-body,#content,.content,.post-content|markdown|slice:0,15000|trim}}",
+  "properties": [
+    {
+      "name": "aliases",
+      "value": "{{\"Generate 2-4 aliases: the page title, the tool/framework + feature name, common abbreviations, and a descriptive phrase. Comma-separated.\"|split:\", \"}}",
+      "type": "multitext"
+    },
+    {
+      "name": "tags",
+      "value": "{{\"Select 6-10 tags. Return comma-separated:\\n\\nTYPE: type/reference, type/guide, type/tutorial, type/documentation\\nSTATUS: status/seedling\\nTECH DOMAIN: obsidian, dataview, dataviewjs, templater, quickadd, meta-bind, javascript, python, automation, api-integration\\nPKM TECH: obsidian/plugins, obsidian/core-features, obsidian/customization, obsidian/advanced\\nCONCEPTS: frontmatter-design, template-automation, query-systems, workflow-automation\"|split:\", \"}}",
+      "type": "multitext"
+    },
+    {
+      "name": "source",
+      "value": "documentation",
+      "type": "text"
+    },
+    {
+      "name": "id",
+      "value": "{{date|date:\"YYYYMMDDHHmmss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "created",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "modified",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "week",
+      "value": "[[{{date|date:\"GGGG-[W]WW\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "month",
+      "value": "[[{{date|date:\"YYYY-MM\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "quarter",
+      "value": "[[{{date|date:\"YYYY-[Q]Q\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "year",
+      "value": "[[{{date|date:\"YYYY\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "type",
+      "value": "{{\"Classify: reference, guide, tutorial, technique, api-docs. One word.\"}}",
+      "type": "text"
+    },
+    {
+      "name": "maturity",
+      "value": "seedling",
+      "type": "text"
+    },
+    {
+      "name": "confidence",
+      "value": "established",
+      "type": "text"
+    },
+    {
+      "name": "next-review",
+      "value": "{{date|date_modify:\"+14 days\"|date:\"YYYY-MM-DD\"}}",
+      "type": "date"
+    },
+    {
+      "name": "review-count",
+      "value": "0",
+      "type": "number"
+    },
+    {
+      "name": "link-up",
+      "value": "[[pkb-&-pkm-moc]]",
+      "type": "text"
+    },
+    {
+      "name": "link-related",
+      "value": "[[{{date|date:\"YYYY-MM-DD\"}}|Daily-Note]]",
+      "type": "text"
+    },
+    {
+      "name": "url",
+      "value": "{{url}}",
+      "type": "text"
+    },
+    {
+      "name": "software",
+      "value": "{{\"Identify the primary software/tool this documentation covers. One or two words.\"}}",
+      "type": "text"
+    }
+  ],
+  "triggers": [
+    "https://help.obsidian.md",
+    "https://docs.obsidian.md",
+    "https://blacksmithgu.github.io/obsidian-dataview",
+    "https://silentvoid13.github.io/Templater",
+    "https://quickadd.obsidian.guide",
+    "https://www.mproject-s.de/meta-bind-plugin-docs",
+    "https://github.com",
+    "https://developer.mozilla.org",
+    "https://docs.python.org",
+    "https://nodejs.org/docs",
+    "/^https:\\/\\/.*\\/docs?\\//"
+  ],
+  "noteContentFormat": "# {{title}}\n\n> [!abstract] Documentation Summary\n> {{\"Summarize what this documentation covers in 2-3 sentences. What problem does it solve? Who is the target audience?\"}}\n\n> [!metadata] Source\n> - **URL**: {{url}}\n> - **Software/Tool**: {{\"What tool or software is this documentation for?\"}}\n> - **Captured**: {{date|date:\"YYYY-MM-DD HH:mm\"}}\n\n---\n\n## 🎯 Purpose & Use Cases\n\n{{\"Explain:\\n1. What this feature/tool does\\n2. When to use it\\n3. Common use cases (list 3-5)\"}}\n\n---\n\n## 📚 Key Concepts & Syntax\n\n{{\"Extract important technical terms, syntax patterns, and concepts. Use this EXACT Dataview format:\\n\\n[**Term-Name**:: Technical definition and when to use it.]\\n\\nPrioritize:\\n- Function/method names\\n- Parameter definitions\\n- Configuration options\\n- Syntax patterns\"}}\n\n---\n\n## 💻 Code Examples\n\n{{\"Extract 2-4 important code examples from the documentation. For each:\\n\\n### Example: [Descriptive Name]\\n\\n**Purpose**: What this code does\\n\\n```[language]\\n[code block]\\n```\\n\\n**Explanation**: Brief explanation of key parts\\n\\nIf no code examples exist, note that and describe the syntax patterns instead.\"}}\n\n---\n\n## ⚙️ Configuration & Parameters\n\n{{\"If the documentation covers configuration options, list them in a table format:\\n\\n| Parameter | Type | Default | Description |\\n|-----------|------|---------|-------------|\\n| param1 | string | null | What it does |\\n\\nIf no configuration options, describe the key inputs/outputs instead.\"}}\n\n---\n\n## ⚠️ Common Pitfalls & Troubleshooting\n\n{{\"Identify 3-5 common mistakes or issues mentioned in the documentation:\\n\\n1. **Issue**: Description\\n   - **Symptom**: What you see\\n   - **Solution**: How to fix it\\n\\nIf not explicitly covered, infer common issues from the content.\"}}\n\n---\n\n## 🔗 Wiki-Link Concepts\n\n{{\"Identify 6-10 technical concepts that should be wiki-linked:\\n- Related tools/plugins\\n- Programming concepts\\n- Obsidian features\\n- Integration points\\n\\nFormat as [[Concept Name]] on separate lines.\"}}\n\n---\n\n## 📖 Original Documentation\n\n{{content}}\n\n---\n\n## 💭 Implementation Notes\n\n> [!implementation] How I'll Use This\n> - \n\n> [!todo] Tasks\n> - [ ] Test basic functionality\n> - [ ] Integrate with existing workflow\n> - [ ] Document my implementation\n\n> [!warning] Gotchas to Remember\n> - \n\n---\n\n## 🔗 Related Documentation\n\n{{\"Suggest 4 related documentation topics:\\n\\n1. **[[Topic]]**\\n   - *Connection*: How it relates\\n   - *Why Explore*: What you'd learn\"}}"
+}

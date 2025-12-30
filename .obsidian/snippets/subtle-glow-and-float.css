@@ -1,0 +1,24 @@
+/* --- Snippet Style 2: Subtle Glow & Float --- */
+/* CSS: Adds a subtle shadow and a "floating" effect with a colored glow on hover. */
+/* Affects: .callout, .callout:hover */
+
+.callout {
+  background-color: rgba(var(--theme-bg-rgb), 0.5); /* Slightly different from page */
+  border: 1px solid rgba(var(--callout-color-rgb), 0.2);
+  border-left: 4px solid var(--callout-color);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease-out, box-shadow 0.2s ease-out;
+}
+.callout:hover {
+  transform: translateY(-4px); /* The "float" */
+  box-shadow: 0 6px 12px rgba(var(--callout-color-rgb), 0.3); /* The "glow" */
+}
+.callout-title {
+  color: var(--callout-color);
+  font-weight: 600;
+  background-color: transparent;
+}
+.callout-icon {
+  color: var(--callout-color);
+}

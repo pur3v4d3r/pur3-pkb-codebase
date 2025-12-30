@@ -1,0 +1,1256 @@
+{
+  "callouts": {
+    "custom": [
+      "in-note-metadata",
+      "stoic-quote",
+      "claude-thinking",
+      "your-name",
+      "caltab",
+      "info",
+      "note",
+      "abstract",
+      "summary",
+      "tldr",
+      "success",
+      "check",
+      "done",
+      "tip",
+      "hint",
+      "important",
+      "warning",
+      "caution",
+      "attention",
+      "danger",
+      "error",
+      "bug",
+      "failure",
+      "fail",
+      "missing",
+      "question",
+      "help",
+      "faq",
+      "quote",
+      "cite",
+      "example",
+      "code",
+      "objective",
+      "goal",
+      "target",
+      "strategy",
+      "tactic",
+      "method",
+      "insight",
+      "discovery",
+      "learning",
+      "system",
+      "meta",
+      "debug",
+      "project",
+      "task",
+      "todo",
+      "workflow",
+      "process",
+      "research",
+      "analysis",
+      "hypothesis",
+      "theory",
+      "outline",
+      "draft",
+      "review",
+      "feedback",
+      "progress",
+      "complete",
+      "pending",
+      "blocked",
+      "meeting",
+      "agenda",
+      "action",
+      "decision",
+      "key-claim",
+      "casual-link",
+      "evidence",
+      "counter-argument",
+      "no-evidence",
+      "principle-point",
+      "cosmos-concept",
+      "equation",
+      "thought-experiment",
+      "definition",
+      "analogy",
+      "math",
+      "analysis-rhetorical",
+      "analysis-logical",
+      "analysis-contextual",
+      "analysis-cognitive",
+      "core-principle",
+      "argument",
+      "feynman-technique",
+      "atomic-concept",
+      "to-do",
+      "read-complete",
+      "reading-in-progress",
+      "read-asap",
+      "project-link",
+      "hub-moc",
+      "revist",
+      "document",
+      "capture",
+      "tasks",
+      "phase-one",
+      "phase-two",
+      "phase-three",
+      "phase-four",
+      "gemini-pro-response",
+      "key-changes",
+      "your-new-workflow",
+      "plan",
+      "kanban",
+      "note-toolbar",
+      "project-kickstarter",
+      "zettelkasten-incubator",
+      "problem-clarity-solution",
+      "shot-idea",
+      "lighting-setup",
+      "composition",
+      "post-processing",
+      "important-links",
+      "constraints-and-pitfalls",
+      "quick-reference",
+      "how-this-dashboard-works",
+      "changes-from-prompting-dashboard",
+      "confusion",
+      "connection-ideas",
+      "connections-and-links",
+      "pre-read-questions",
+      "pre-read-thoughts",
+      "the-purpose",
+      "choice-a",
+      "choice-b",
+      "the-philosophy",
+      "ask-yourself-this",
+      "how-to-use-this",
+      "the-goal",
+      "the-mission",
+      "outcome",
+      "methodology-and-sources",
+      "starting-message",
+      "how-to-use",
+      "message",
+      "helpful-tip",
+      "the-start",
+      "related-topics-to-consider",
+      "key",
+      "topic-idea",
+      "links-to-related-notes",
+      "thoughts",
+      "start-of-chat",
+      "further-exploration",
+      "what-this-does",
+      "disposition",
+      "description",
+      "use-cases-and-examples",
+      "purpose",
+      "custom",
+      "idea",
+      "highlight",
+      "comprehensive-reference",
+      "overview",
+      "alert"
+    ],
+    "settings": {
+      "in-note-metadata": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "stoic-quote": [
+        {
+          "changes": {
+            "icon": "lucide-quote",
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "claude-thinking": [
+        {
+          "changes": {
+            "icon": "lucide-code-2",
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "caltab": [
+        {
+          "changes": {
+            "icon": "lucide-zap",
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "your-name": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "info": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "note": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "abstract": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "summary": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "tldr": [
+        {
+          "changes": {
+            "color": "255, 69, 69"
+          }
+        }
+      ],
+      "success": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "check": [
+        {
+          "changes": {
+            "color": "255, 69, 69"
+          }
+        }
+      ],
+      "done": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "tip": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "hint": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "important": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "warning": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "caution": [
+        {
+          "changes": {
+            "color": "128, 0, 0"
+          }
+        }
+      ],
+      "attention": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "danger": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "error": [
+        {
+          "changes": {
+            "color": "128, 0, 0"
+          }
+        }
+      ],
+      "bug": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "failure": [
+        {
+          "changes": {
+            "color": "128, 0, 0"
+          }
+        }
+      ],
+      "fail": [
+        {
+          "changes": {
+            "color": "128, 0, 0"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "question": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "help": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "faq": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "quote": [
+        {
+          "changes": {
+            "color": "36, 36, 36"
+          }
+        }
+      ],
+      "cite": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "example": [
+        {
+          "changes": {
+            "color": "128, 128, 128"
+          }
+        }
+      ],
+      "code": [
+        {
+          "changes": {
+            "color": "36, 36, 36"
+          }
+        }
+      ],
+      "objective": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "goal": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "target": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "strategy": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "tactic": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "method": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "insight": [
+        {
+          "changes": {
+            "color": "255, 69, 69"
+          }
+        }
+      ],
+      "discovery": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "learning": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "system": [
+        {
+          "changes": {
+            "color": "36, 36, 36"
+          }
+        }
+      ],
+      "meta": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "debug": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "project": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "task": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "todo": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "workflow": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "process": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "research": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "analysis": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "hypothesis": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "theory": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "outline": [
+        {
+          "changes": {
+            "color": "128, 128, 128"
+          }
+        }
+      ],
+      "draft": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "review": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "feedback": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "progress": [
+        {
+          "changes": {
+            "color": "255, 69, 69"
+          }
+        }
+      ],
+      "complete": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "pending": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "blocked": [
+        {
+          "changes": {
+            "color": "128, 0, 0"
+          }
+        }
+      ],
+      "meeting": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "agenda": [
+        {
+          "changes": {
+            "color": "128, 128, 128"
+          }
+        }
+      ],
+      "action": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "decision": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "key-claim": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "casual-link": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "evidence": [
+        {
+          "changes": {
+            "color": "255, 69, 69"
+          }
+        }
+      ],
+      "counter-argument": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "no-evidence": [
+        {
+          "changes": {
+            "color": "128, 0, 0"
+          }
+        }
+      ],
+      "principle-point": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "cosmos-concept": [
+        {
+          "changes": {
+            "color": "36, 36, 36"
+          }
+        }
+      ],
+      "equation": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "thought-experiment": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "definition": [
+        {
+          "changes": {
+            "color": "128, 128, 128"
+          }
+        }
+      ],
+      "analogy": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "math": [
+        {
+          "changes": {
+            "color": "36, 36, 36"
+          }
+        }
+      ],
+      "analysis-rhetorical": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "analysis-logical": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "analysis-contextual": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "analysis-cognitive": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "core-principle": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "argument": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "feynman-technique": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "atomic-concept": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "to-do": [
+        {
+          "changes": {
+            "color": "255, 69, 69"
+          }
+        }
+      ],
+      "read-complete": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "reading-in-progress": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "read-asap": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "project-link": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "hub-moc": [
+        {
+          "changes": {
+            "color": "36, 36, 36"
+          }
+        }
+      ],
+      "revist": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "document": [
+        {
+          "changes": {
+            "color": "128, 128, 128"
+          }
+        }
+      ],
+      "capture": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "tasks": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "phase-one": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "phase-two": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "phase-three": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "phase-four": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "gemini-pro-response": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "key-changes": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "your-new-workflow": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "plan": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "kanban": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "note-toolbar": [
+        {
+          "changes": {
+            "color": "36, 36, 36"
+          }
+        }
+      ],
+      "project-kickstarter": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "zettelkasten-incubator": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "problem-clarity-solution": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "shot-idea": [
+        {
+          "changes": {
+            "color": "255, 69, 69"
+          }
+        }
+      ],
+      "lighting-setup": [
+        {
+          "changes": {
+            "color": "128, 128, 128"
+          }
+        }
+      ],
+      "composition": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "post-processing": [
+        {
+          "changes": {
+            "color": "36, 36, 36"
+          }
+        }
+      ],
+      "important-links": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "constraints-and-pitfalls": [
+        {
+          "changes": {
+            "color": "128, 0, 0"
+          }
+        }
+      ],
+      "quick-reference": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "how-this-dashboard-works": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "changes-from-prompting-dashboard": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "confusion": [
+        {
+          "changes": {
+            "color": "128, 0, 0"
+          }
+        }
+      ],
+      "connection-ideas": [
+        {
+          "changes": {
+            "color": "255, 69, 69"
+          }
+        }
+      ],
+      "connections-and-links": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "pre-read-questions": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "pre-read-thoughts": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "the-purpose": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "choice-a": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "choice-b": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "the-philosophy": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "ask-yourself-this": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "how-to-use-this": [
+        {
+          "changes": {
+            "color": "128, 128, 128"
+          }
+        }
+      ],
+      "the-goal": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "the-mission": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "outcome": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "methodology-and-sources": [
+        {
+          "changes": {
+            "color": "36, 36, 36"
+          }
+        }
+      ],
+      "starting-message": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "how-to-use": [
+        {
+          "changes": {
+            "color": "128, 128, 128"
+          }
+        }
+      ],
+      "message": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "helpful-tip": [
+        {
+          "changes": {
+            "color": "255, 69, 69"
+          }
+        }
+      ],
+      "the-start": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "related-topics-to-consider": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "key": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "topic-idea": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "links-to-related-notes": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "thoughts": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ],
+      "start-of-chat": [
+        {
+          "changes": {
+            "color": "36, 36, 36"
+          }
+        }
+      ],
+      "further-exploration": [
+        {
+          "changes": {
+            "color": "205, 92, 92"
+          }
+        }
+      ],
+      "what-this-does": [
+        {
+          "changes": {
+            "color": "128, 128, 128"
+          }
+        }
+      ],
+      "disposition": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "description": [
+        {
+          "changes": {
+            "color": "128, 128, 128"
+          }
+        }
+      ],
+      "use-cases-and-examples": [
+        {
+          "changes": {
+            "color": "178, 34, 34"
+          }
+        }
+      ],
+      "purpose": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "custom": [
+        {
+          "changes": {
+            "color": "220, 20, 60"
+          }
+        }
+      ],
+      "idea": [
+        {
+          "changes": {
+            "color": "255, 69, 69"
+          }
+        }
+      ],
+      "highlight": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "comprehensive-reference": [
+        {
+          "changes": {
+            "color": "36, 36, 36"
+          }
+        }
+      ],
+      "overview": [
+        {
+          "changes": {
+            "color": "64, 64, 64"
+          }
+        }
+      ],
+      "alert": [
+        {
+          "changes": {
+            "color": "139, 0, 0"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

@@ -1,0 +1,422 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET NAME: Complete Tag Customization System
+ Purpose: Comprehensive tag styling with community-favorite features
+ Author: Pur3v4d3r
+ Date: 2025-12-17
+ Obsidian Version: 1.5.0+
+ Color Scheme: Red, Black, Grey
+ Dependencies: None
+ Installation: Place in .obsidian/snippets/ and enable in Settings
+═══════════════════════════════════════════════════════════
+*/
+
+/* ============================================
+   SECTION 1: BASE TAG STYLING
+   Modern pill design with red/black/grey theme
+   ============================================ */
+
+/*/* All tags - pill shape foundation */
+.tag {
+  /* Pill shape with rounded edges */
+  border-radius: 14px;
+  padding: 2px 12px;
+  
+  /* Red tint background */
+  background-color: rgba(220, 38, 38, 0.1); */  
+  border: 1px solid rgba(220, 38, 38, 0.3);
+  
+  /* Typography refinements */
+  font-size: 0.9em;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  
+  /* Smooth transitions */
+  transition: all 0.2s ease;
+  
+  /* Prevent text wrapping */
+  white-space: nowrap;
+}
+
+/* Tag text color */
+.tag {
+  color: #DC2626; /* Red */
+  /* ✓ WCAG AA: #DC2626 on light bg = 5.9:1 */
+}
+
+/* Dark mode adjustments */
+.theme-dark .tag {
+  background-color: rgba(220, 38, 38, 0.15);
+  border-color: rgba(220, 38, 38, 0.4);
+  color: #F87171; /* Lighter red for dark mode */
+}
+
+/* ============================================
+   SECTION 2: HOVER & INTERACTION STATES
+   Enhanced feedback for user interactions
+   ============================================ */
+
+.tag:hover {
+  /* Brighten on hover */
+  background-color: rgba(220, 38, 38, 0.2);
+  border-color: rgba(220, 38, 38, 0.6);
+  
+  /* Subtle lift effect */
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(220, 38, 38, 0.15);
+  
+  /* Enhanced text */
+  color: #B91C1C    ; /* Darker red on hover */
+}
+
+.theme-dark .tag:hover {
+  background-color: rgba(220, 38, 38, 0.25);
+  color: #FCA5A5;
+  box-shadow: 0 2px 8px rgba(220, 38, 38, 0.3);
+}
+
+/* Active/clicked state */
+.tag:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+/* ============================================
+   SECTION 3: HASHTAG SYMBOL CUSTOMIZATION
+   Popular choice: hide or style the # symbol
+   ============================================ */
+
+/* OPTION A: Completely hide the # symbol */
+.tag:not(.cm-hashtag-begin)::before {
+  content: '';
+}
+
+.cm-hashtag-begin {
+  display: none; /* Hides # in editor */
+}
+
+/* OPTION B: Style the # symbol (comment out Option A, uncomment this) */
+/*
+.tag::before {
+  content: '#';
+  opacity: 0.5;
+  margin-right: 2px;
+}
+*/
+
+/* ============================================
+   SECTION 4: COLOR-CODED TAG CATEGORIES
+   Red/Black/Grey color scheme
+   ============================================ */
+
+/* Project tags - Bright Red */
+.tag[href="#project"],
+.tag[href^="#project/"],
+.tag[href="#todo"],
+.tag[href="#task"] {
+  background-color: rgba(220, 38, 38, 0.15);
+  border-color: rgba(220, 38, 38, 0.4);
+  color: #DC2626;
+}
+
+.theme-dark .tag[href="#project"],
+.theme-dark .tag[href^="#project/"],
+.theme-dark .tag[href="#todo"],
+.theme-dark .tag[href="#task"] {
+  background-color: rgba(220, 38, 38, 0.2);
+  color: #F87171;
+}
+
+/* Status tags - Grey */
+.tag[href="#status"],
+.tag[href^="#status/"],
+.tag[href="#active"],
+.tag[href="#in-progress"],
+.tag[href="#done"] {
+  background-color: rgba(107, 114, 128, 0.15);
+  border-color: rgba(107, 114, 128, 0.4);
+  color: #4B5563;
+}
+
+.theme-dark .tag[href="#status"],
+.theme-dark .tag[href^="#status/"],
+.theme-dark .tag[href="#active"],
+.theme-dark .tag[href="#in-progress"],
+.theme-dark .tag[href="#done"] {
+  background-color: rgba(156, 163, 175, 0.2);
+  color: #D1D5DB;
+}
+
+/* Priority tags - Dark Red/Crimson */
+.tag[href="#urgent"],
+.tag[href="#high-priority"],
+.tag[href="#important"] {
+  background-color: rgba(185, 28, 28, 0.2);
+  border-color: rgba(185, 28, 28, 0.5);
+  color: #991B1B;
+  font-weight: 600;
+}
+
+.theme-dark .tag[href="#urgent"],
+.theme-dark .tag[href="#high-priority"],
+.theme-dark .tag[href="#important"] {
+  background-color: rgba(185, 28, 28, 0.3);
+  color: #FCA5A5;
+}
+
+/* Reference/source tags - Dark Grey */
+.tag[href="#source"],
+.tag[href="#reference"],
+.tag[href="#citation"],
+.tag[href^="#book/"] {
+  background-color: rgba(75, 85, 99, 0.15);
+  border-color: rgba(75, 85, 99, 0.4);
+  color: #374151;
+}
+
+.theme-dark .tag[href="#source"],
+.theme-dark .tag[href="#reference"],
+.theme-dark .tag[href="#citation"],
+.theme-dark .tag[href^="#book/"] {
+  background-color: rgba(107, 114, 128, 0.2);
+  color: #E5E7EB;
+}
+
+/* Concept/idea tags - Light Grey/Silver */
+.tag[href="#concept"],
+.tag[href="#idea"],
+.tag[href="#theory"],
+.tag[href^="#learning/"] {
+  background-color: rgba(156, 163, 175, 0.15);
+  border-color: rgba(156, 163, 175, 0.4);
+  color: #6B7280;
+}
+
+.theme-dark .tag[href="#concept"],
+.theme-dark .tag[href="#idea"],
+.theme-dark .tag[href="#theory"],
+.theme-dark .tag[href^="#learning/"] {
+  background-color: rgba(156, 163, 175, 0.2);
+  color: #F3F4F6;
+}
+
+/* Archive/completed tags - Black */
+.tag[href="#archive"],
+.tag[href="#archived"],
+.tag[href="#completed"] {
+  background-color: rgba(17, 24, 39, 0.1);
+  border-color: rgba(17, 24, 39, 0.3);
+  color: #1F2937;
+}
+
+.theme-dark .tag[href="#archive"],
+.theme-dark .tag[href="#archived"],
+.theme-dark .tag[href="#completed"] {
+  background-color: rgba(55, 65, 81, 0.3);
+  color: #9CA3AF;
+}
+
+/* ============================================
+   SECTION 5: NESTED TAG HIERARCHY
+   Visual differentiation for parent/child tags
+   ============================================ */
+
+/* Nested tags (containing /) - smaller, more subtle */
+.tag[href*="/"] {
+  font-size: 0.85em;
+  padding: 1px 10px;
+  opacity: 0.9;
+}
+
+/* Add separator styling for nested tags */
+.tag[href*="/"]::after {
+  /* Visual indicator that it's a nested tag */
+  content: '';
+}
+
+/* ============================================
+   SECTION 6: TAG PANE CUSTOMIZATION
+   Styles for tags in the tag pane sidebar
+   ============================================ */
+
+/* Tag pane container */
+.tag-pane-tags {
+  padding: 8px;
+}
+
+/* Individual tags in tag pane */
+.tag-pane-tag {
+  padding: 4px 10px;
+  margin: 2px;
+  border-radius: 12px;
+  background-color: rgba(220, 38, 38, 0.08);
+  transition: all 0.2s ease;
+}
+
+.tag-pane-tag:hover {
+  background-color: rgba(220, 38, 38, 0.15);
+  transform: translateX(2px);
+}
+
+/* Tag count badges */
+.tag-pane-tag-count {
+  font-size: 0.8em;
+  opacity: 0.6;
+  margin-left: 6px;
+  color: #DC2626;
+}
+
+.theme-dark .tag-pane-tag-count {
+  color: #F87171;
+}
+
+/* ============================================
+   SECTION 7: INLINE TAG ENHANCEMENTS
+   Special styling for tags in editor/reading mode
+   ============================================ */
+
+/* Tags in reading/preview mode */
+.markdown-preview-view .tag {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  margin: 0 2px;
+}
+
+/* Tags in editor (Live Preview) */
+.cm-tag {
+  border-radius: 14px;
+  padding: 2px 8px;
+}
+
+/* ============================================
+   SECTION 8: ADVANCED EFFECTS (OPTIONAL)
+   Uncomment sections for additional visual flair
+   ============================================ */
+
+/* Gradient background effect - Red to Black */
+/*
+.tag {
+  background: linear-gradient(135deg, 
+    rgba(220, 38, 38, 0.1) 0%, 
+    rgba(17, 24, 39, 0.1) 100%);
+  border: 1px solid rgba(220, 38, 38, 0.3);
+}
+*/
+
+/* Animated gradient on hover */
+/*
+.tag:hover {
+  background: linear-gradient(135deg, 
+    rgba(220, 38, 38, 0.2) 0%, 
+    rgba(107, 114, 128, 0.2) 100%);
+  background-size: 200% 200%;
+  animation: gradientShift 3s ease infinite;
+}
+
+@keyframes gradientShift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+*/
+
+/* Glass morphism effect */
+/*
+.tag {
+  background: rgba(220, 38, 38, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+*/
+
+/* ============================================
+   SECTION 9: ACCESSIBILITY ENHANCEMENTS
+   Ensure usability for all users
+   ============================================ */
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .tag {
+    border-width: 2px;
+    font-weight: 600;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .tag,
+  .tag:hover,
+  .tag-pane-tag {
+    transition: none;
+    transform: none;
+    animation: none;
+  }
+}
+
+/* Focus states for keyboard navigation */
+.tag:focus,
+.tag:focus-visible {
+  outline: 2px solid #DC2626;
+  outline-offset: 2px;
+}
+
+.theme-dark .tag:focus,
+.theme-dark .tag:focus-visible {
+  outline-color: #F87171;
+}
+
+/* ============================================
+   SECTION 10: MOBILE OPTIMIZATIONS
+   Touch-friendly adjustments
+   ============================================ */
+
+@media (max-width: 768px) {
+  .tag {
+    /* Larger touch targets */
+    padding: 4px 14px;
+    font-size: 1em;
+    
+    /* More spacing between tags */
+    margin: 3px;
+  }
+  
+  /* Simplified hover (since mobile uses touch) */
+  .tag:hover {
+    transform: none;
+  }
+}
+
+/*
+═══════════════════════════════════════════════════════════
+ CUSTOMIZATION GUIDE - RED/BLACK/GREY THEME
+═══════════════════════════════════════════════════════════
+
+ 🎨 COLOR PALETTE:
+ - Primary Red: #DC2626 (rgba 220, 38, 38)
+ - Dark Red: #B91C1C (rgba 185, 28, 28) 
+ - Black: #1F2937 (rgba 17, 24, 39)
+ - Dark Grey: #4B5563 (rgba 75, 85, 99)
+ - Mid Grey: #6B7280 (rgba 107, 114, 128)
+ - Light Grey: #9CA3AF (rgba 156, 163, 175)
+
+ 📝 TAG-SPECIFIC STYLING:
+ - Red: Active projects, tasks, important items
+ - Grey: Status indicators, informational tags
+ - Black: Archived, completed, historical items
+ - Dark Red: Urgent, high-priority, critical
+
+ 🔧 COMMON ADJUSTMENTS:
+ - Intensity: Adjust rgba opacity (last number 0-1)
+ - Size: Modify padding and font-size values
+ - Roundness: Change border-radius (14px default)
+
+ ✅ TESTING CHECKLIST:
+ - [ ] Test in both light and dark modes
+ - [ ] Verify red text meets WCAG AA contrast
+ - [ ] Check grey variants are distinguishable
+ - [ ] Test black tags in dark mode
+ - [ ] Validate tag categories match your vault
+═══════════════════════════════════════════════════════════
+*/

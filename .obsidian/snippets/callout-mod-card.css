@@ -1,0 +1,69 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ CALLOUT MOD: CARD STYLE
+
+ Purpose: Makes callouts look like traditional cards with solid backgrounds
+ Usage: Enable this snippet to override the base callout styling
+ Author: Pur3v4d3r
+ Theme: Red & Black with classic card design
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* Override base callout for card appearance */
+.callout {
+  background: linear-gradient(135deg,
+    rgba(18, 18, 18, 0.98) 0%,
+    rgba(25, 25, 25, 0.98) 100%) !important;
+  border: 2px solid rgba(var(--callout-color), 0.35) !important;
+  border-left: 4px solid rgb(var(--callout-color)) !important;
+  border-radius: 12px !important;
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.45),
+    0 2px 4px rgba(var(--callout-color), 0.15),
+    inset 0 1px 0 rgba(224, 224, 224, 0.05) !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+}
+
+.callout:hover {
+  border-color: rgba(var(--callout-color), 0.55) !important;
+  box-shadow:
+    0 6px 16px rgba(0, 0, 0, 0.55),
+    0 4px 8px rgba(var(--callout-color), 0.25),
+    0 0 20px rgba(var(--callout-color), 0.2),
+    inset 0 1px 0 rgba(224, 224, 224, 0.08) !important;
+  transform: translateY(-2px) !important;
+}
+
+/* Card-style title */
+.callout-title {
+  background: linear-gradient(135deg,
+    rgba(var(--callout-color), 0.3) 0%,
+    rgba(var(--callout-color), 0.22) 100%) !important;
+  color: rgb(var(--callout-color)) !important;
+  font-weight: 600 !important;
+  padding: 14px 18px !important;
+  border-bottom: 2px solid rgba(var(--callout-color), 0.35) !important;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6) !important;
+  letter-spacing: 0.5px !important;
+  border-radius: 0 !important;
+}
+
+.callout:hover .callout-title {
+  background: linear-gradient(135deg,
+    rgba(var(--callout-color), 0.38) 0%,
+    rgba(var(--callout-color), 0.28) 100%) !important;
+  text-shadow: 0 0 12px rgba(var(--callout-color), 0.5) !important;
+}
+
+/* Card-style content */
+.callout-content {
+  background: rgba(0, 0, 0, 0.35) !important;
+  padding: 16px 18px !important;
+  color: rgba(224, 224, 224, 0.95) !important;
+  border-top: 1px solid rgba(var(--callout-color), 0.12) !important;
+}
+
+.callout:hover .callout-content {
+  background: rgba(0, 0, 0, 0.42) !important;
+}

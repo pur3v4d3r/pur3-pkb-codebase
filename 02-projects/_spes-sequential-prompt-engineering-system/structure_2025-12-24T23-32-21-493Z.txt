@@ -1,0 +1,66 @@
+📁 _spes-sequential-prompt-engineering-system
+⏱️  Generated in 13 ms
+──────────────────────────────────────────────────
+├── 📁 00-project-meta
+│   ├── 📝 00-prompt-engineering-system-design.md
+│   ├── 📝 architecture-overview.md
+│   ├── 📝 implementation-roadmap.md
+│   ├── 📝 project-charter.md
+│   ├── 📝 quick-reference-spes.md
+│   └── 📝 templates-spes.md
+├── 📁 01-claude-librarian-instructions
+│   ├── 📝 00-librarian-core-identity.md
+│   ├── 📝 01-component-management-sop.md
+│   ├── 📝 02-sequential-workflow-protocols.md
+│   ├── 📝 03-context-handoff-procedures.md
+│   ├── 📝 04-quality-assurance-checklist.md
+│   ├── 📝 05-metadata-tagging-standards.md
+│   └── 📝 06-usage-analytics-protocols.md
+├── 📁 02-component-library
+│   ├── 📁 atomic
+│   │   ├── 📁 constraints
+│   │   ├── 📁 context-framers
+│   │   ├── 📁 instructions
+│   │   │   ├── 📝 claude-system-instructions-pkb-architect-v2.0.0.md
+│   │   │   ├── 📝 component-instruction-foundational-scaffold-v1.0.0.md
+│   │   │   ├── 📝 dataview-inline-queries-generation-v2.0.0.md
+│   │   │   └── 📝 gemini-system-instructions-pkb-architect-v1.0.0.md
+│   │   ├── 📁 output-formats
+│   │   │   ├── 📝 component-format-atomic-extraction-signaling-v1.0.0.md
+│   │   │   ├── 📝 component-format-epistemic-confidence-encoding-protocol-v1.0.0.md
+│   │   │   └── 📝 component-format-semantic-relationship-typing-protocol-v1.0.0.md
+│   │   └── 📁 personas
+│   │       ├── 📝 00-personas-index.md
+│   │       └── 📝 persona-expert-technical-analyst.md
+│   ├── 📁 composite
+│   │   ├── 📁 parallel-branches
+│   │   ├── 📁 recursive-loops
+│   │   └── 📁 sequential-chains
+│   ├── 📁 specialized
+│   │   ├── 📁 creative-writing
+│   │   ├── 📁 educational-content
+│   │   ├── 📁 pkb-operations
+│   │   └── 📁 technical-analysis
+│   ├── 📝 _migration-batch-01-summary.md
+│   ├── 📝 _migration-guide-remaining-components.md
+│   ├── 📝 _spes-metadata-adapter-template.md
+│   └── 📝 00-library-index.md
+├── 📁 03-sequential-workflows
+│   ├── 📁 context-handoff-patterns
+│   ├── 📁 decomposition-templates
+│   └── 📁 problem-types
+├── 📁 04-intelligence-layer
+│   ├── 📁 16-integration-systems
+│   ├── 📁 dataview-queries
+│   └── 📁 metadata-schema
+├── 📁 05-testing-validation
+│   ├── 📁 component-tests
+│   │   ├── 📁 integration-tests
+│   │   ├── 📁 system-tests
+│   │   └── 📁 unit-tests
+│   └── 📁 test-results
+├── 📁 06-analytics-dashboards
+├── 📁 07-automation-scripts
+└── 📁 99-archive
+    ├── 📁 failed-experiments
+    └── 📁 retired-components

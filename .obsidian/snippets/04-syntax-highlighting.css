@@ -1,0 +1,252 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET: Markdown Syntax Highlighting
+ Category: Editor
+ Purpose: Customize markdown formatting character colors
+ Author: Pur3v4d3r
+ Created: 2025-12-13
+ Version: 1.0.0
+
+ Description:
+ Enhances the visual appearance of markdown syntax characters
+ in the editor. Features gold brackets for links, silver text
+ content, purple bold markers, and teal italic markers. Includes
+ animated glow effects for interactive feedback.
+
+ Dependencies: 01-variables.css (uses --syntax-* variables)
+ Standalone: Partial
+
+ Features:
+ - Gold brackets [[ ]] for internal links
+ - Light gold [ ] ( ) for external links
+ - Silver link text
+ - Purple bold asterisks **
+ - Teal italic markers *
+ - Animated underline glow effect
+ - Muted URL display in parentheses
+
+ Customization:
+ Adjust colors in 01-variables.css:
+ - --syntax-gold: Bracket color
+ - --syntax-silver: Link text color
+ - --syntax-purple: Bold marker color
+ - --syntax-teal: Italic marker color
+
+ Compatibility: Obsidian 1.5+ (CodeMirror 6)
+═══════════════════════════════════════════════════════════
+*/
+
+/* ══════════════════════════════════════════════════════════
+   INTERNAL LINKS [[wiki-links]]
+   Square brackets and link text
+   ══════════════════════════════════════════════════════════ */
+
+/* Square brackets [[ and ]] - Light Gold */
+.cm-formatting-link,
+.cm-formatting-link-start,
+.cm-formatting-link-end {
+  color: #E50000 !important;                  /* Light gold */
+  font-weight: 600;                           /* Bold brackets */
+}
+
+/* Link text inside brackets - Light Silver */
+.cm-hmd-internal-link {
+  color: #A3A3A3 !important;                  /* Light silver */
+  font-weight: 500;                           /* Medium weight */
+}
+
+/* Hover state - Slightly brighter */
+.cm-hmd-internal-link:hover {
+  color: #E0E0E0 !important;                  /* Bright silver */
+}
+
+/* ══════════════════════════════════════════════════════════
+   EXTERNAL LINKS [text](url) AND BARE LINKS [text]
+   Brackets, parentheses, and link text
+   ══════════════════════════════════════════════════════════ */
+
+/* Override variable for all formatting characters */
+.theme-dark,
+.theme-light {
+  --text-formatting: #E50000;                 /* Light gold */
+}
+
+/* Ultra-specific selector for bare link brackets */
+span.cm-formatting.cm-formatting-link.cm-hmd-barelink.cm-link {
+  color: #E50000 !important;                  /* Light gold */
+}
+
+/* Context-specific bare link brackets */
+.markdown-source-view.mod-cm6 .cm-line span.cm-formatting.cm-formatting-link.cm-hmd-barelink {
+  color: #E50000 !important;
+}
+
+/* Theme-aware bare link brackets */
+.theme-dark .markdown-source-view.mod-cm6 .cm-line span.cm-formatting.cm-hmd-barelink,
+.theme-light .markdown-source-view.mod-cm6 .cm-line span.cm-formatting.cm-hmd-barelink {
+  color: #E50000 !important;
+}
+
+/* External link brackets [ ] and parentheses ( ) - Light Gold */
+.cm-formatting-link-string {
+  color: #E50000 !important;                  /* Light gold */
+  font-weight: 600;                           /* Bold brackets */
+}
+/* Link text inside [brackets] - Light Silver with animated glow */
+.theme-dark .markdown-source-view.mod-cm6 .cm-link:not(.cm-formatting),
+.theme-light .markdown-source-view.mod-cm6 .cm-link:not(.cm-formatting),
+.cm-hmd-barelink:not(.cm-formatting) {
+  color: #A3A3A3ff !important;                /* Muted silver */
+  font-weight: 200;                           /* Thin weight */
+  text-decoration: none !important;
+  background-image: none !important;
+  animation: underline-glow 2s infinite !important; /* Glow animation */
+}
+
+
+
+/* Hover state - Bright gold */
+.theme-dark .markdown-source-view.mod-cm6 .cm-link:hover,
+.theme-light .markdown-source-view.mod-cm6 .cm-link:hover,
+.cm-link:hover {
+  color: #E50000ff !important;                /* Bright gold */
+}
+
+/* URL portion in (parentheses) - Muted gray */
+.cm-url {
+  color: #A3A3A3 !important;                  /* Dark gray */
+  opacity: 0.6;                               /* Semi-transparent */
+  font-size: 0.95em;                          /* Slightly smaller */
+}
+
+/* URL hover - Slightly brighter */
+.cm-url:hover {
+  color: #A3A3A3 !important;                  /* Light gray */
+  opacity: 0.8;                               /* Less transparent */
+}
+
+/* ══════════════════════════════════════════════════════════
+   BOLD AND ITALIC SYNTAX
+   Asterisks ** and * or underscores _
+   ══════════════════════════════════════════════════════════ */
+
+/* Bold asterisks ** - Purple */
+.cm-formatting-strong {
+  color: var(--syntax-purple) !important;     /* Deep purple */
+  opacity: var(--syntax-formatting-opacity);  /* Semi-transparent */
+}
+
+/* Italic asterisks * or underscores _ - Teal */
+.cm-formatting-em {
+  color: var(--syntax-teal) !important;       /* Cyber teal */
+  opacity: var(--syntax-formatting-opacity);  /* Semi-transparent */
+}
+
+/* ══════════════════════════════════════════════════════════
+   CODE SYNTAX
+   Backticks ` and code fences ```
+   ══════════════════════════════════════════════════════════ */
+
+/* Inline code backticks ` - Gold */
+.cm-formatting-code {
+  color: var(--syntax-gold) !important;       /* Imperial gold */
+  opacity: var(--syntax-formatting-opacity);  /* Semi-transparent */
+}
+
+/* Code fence markers ``` - Gold, more transparent */
+.cm-formatting-code-block {
+  color: #ff0000 !important;       /* Imperial gold */
+  opacity: 0.5;                               /* More transparent */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADERS # SYMBOLS
+   Hash marks for H1-H6
+   ══════════════════════════════════════════════════════════ */
+
+.cm-formatting-header {
+  color: var(--syntax-purple) !important;     /* Deep purple */
+  opacity: var(--syntax-formatting-opacity);
+  font-weight: 700;                           /* Bold */
+}
+
+/* ══════════════════════════════════════════════════════════
+   LIST AND BLOCKQUOTE MARKERS
+   Bullets - * and quote markers >
+   ══════════════════════════════════════════════════════════ */
+
+/* List bullets - * or - - Gold */
+.cm-formatting-list {
+  color: var(--syntax-gold) !important;       /* Imperial gold */
+  font-weight: 700;                           /* Bold */
+}
+
+/* Blockquote > marker - Teal */
+.cm-formatting-quote {
+  color: var(--syntax-teal) !important;       /* Cyber teal */
+  font-weight: 700;                           /* Bold */
+}
+
+/* ══════════════════════════════════════════════════════════
+   STRIKETHROUGH AND HIGHLIGHT
+   ~~ and == markers
+   ══════════════════════════════════════════════════════════ */
+
+/* Strikethrough ~~ - Dark Silver */
+.cm-formatting-strikethrough {
+  color: var(--syntax-silver-dark) !important; /* Dark silver */
+  opacity: 0.5;                               /* Faded */
+}
+
+/* Highlight == - Gold */
+.cm-formatting-highlight {
+  color: var(--syntax-gold) !important;       /* Imperial gold */
+  opacity: var(--syntax-formatting-opacity);
+}
+
+/* ══════════════════════════════════════════════════════════
+   ANIMATED UNDERLINE GLOW
+   Pulsing glow effect for link text
+   ══════════════════════════════════════════════════════════ */
+
+@keyframes underline-glow {
+
+  0% {
+    text-decoration-color: #A3A3A3ff;         /* Muted silver */
+  25% {
+    text-decoration-color: #E0A500ff;         /* Soft gold */
+  75% {
+    text-decoration-color: #E0A500ff;         /* Soft gold */
+  }
+  50% {
+    text-decoration-color: #E50000ff;         /* Bright gold */
+  }
+  100% {
+    text-decoration-color: #A3A3A3ff;         /* Muted silver */
+}
+
+/* ══════════════════════════════════════════════════════════
+   ALTERNATIVE COMPACT STYLES
+   Duplicate styles for maximum compatibility
+   ══════════════════════════════════════════════════════════ */
+
+ /* Bare links - Additional specificity */
+.markdown-source-view.mod-cm6 .cm-line span.cm-formatting.cm-formatting-link.cm-hmd-barelink {
+  color: #E50000 !important;
+}
+
+/* Link text - Ensure animation applies */
+.theme-dark .markdown-source-view.mod-cm6 .cm-link:not(.cm-formatting),
+.theme-light .markdown-source-view.mod-cm6 .cm-link:not(.cm-formatting),
+.cm-hmd-barelink:not(.cm-formatting) {
+    color: #A3A3A3ff !important;
+    font-weight: 200;
+    text-decoration: none !important;
+    background-image: none !important;
+    animation: underline-glow 2s infinite !important;
+}
+
+
+/* ══════════════════════════════════════════════════════════
+   END OF SYNTAX HIGHLIGHTING
+   ══════════════════════════════════════════════════════════ */

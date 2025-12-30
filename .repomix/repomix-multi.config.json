@@ -1,0 +1,67 @@
+{
+  "$schema": "https://repomix.com/schemas/latest/schema.json",
+  "$comment": "Multi-Output AI Analysis Configuration",
+  "input": {
+    "maxFileSize": 1048576
+  },
+  "outputs": [
+    {
+      "filePath": "analysis-full.md",
+      "style": "markdown",
+      "headerText": "# 🧠 Complete Vault Analysis\n\n**Scope**: Full knowledge base architecture\n**Generated**: {date}\n\n---\n\n",
+      "include": [
+        "00-meta/**",
+        "999-codebase+pkb/**", 
+        "999-v4d3r/**",
+        "99-scripts/**",
+        "__LOCAL-REPO/**",
+        "**/*.{md,js,ts,py,json}"
+      ]
+    },
+    {
+      "filePath": "analysis-research.md", 
+      "style": "markdown",
+      "headerText": "# 📚 Research Content Analysis\n\n**Scope**: Knowledge content and research materials\n**Generated**: {date}\n\n---\n\n",
+      "include": [
+        "02-projects/**",
+        "03-notes/**",
+        "04-library/**",
+        "07-mocs/**"
+      ]
+    },
+    {
+      "filePath": "analysis-system.md",
+      "style": "markdown", 
+      "headerText": "# ⚙️ System Architecture Analysis\n\n**Scope**: Scripts, automation, and system components\n**Generated**: {date}\n\n---\n\n",
+      "include": [
+        "99-scripts/**",
+        "99-system/**",
+        "__agents/**",
+        "**/*.{js,py,json,sh}"
+      ]
+    },
+    {
+      "filePath": "analysis-prompts.md",
+      "style": "markdown",
+      "headerText": "# 🎯 Prompt Engineering Analysis\n\n**Scope**: AI agents, prompts, and PE content\n**Generated**: {date}\n\n---\n\n", 
+      "include": [
+        "999-v4d3r/**",
+        "__agents/**", 
+        "04-library/03-prompt-engineering/**"
+      ]
+    }
+  ],
+  "ignore": {
+    "useGitignore": true,
+    "useDotIgnore": true,
+    "customPatterns": [
+      "**/01_daily-notes/**",
+      "**/99_archive/**",
+      "**/embedding*.json",
+      "**/temp/**"
+    ]
+  },
+  "security": {
+    "enableSecurityCheck": true
+  }
+}

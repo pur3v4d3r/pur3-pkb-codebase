@@ -1,0 +1,250 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   V4D3R MERMAID, TABLES & PLUGINS SNIPPET SYSTEM - PART 2: TABLES
+   Author: TaskMaster Agent | Theme: Red/Black/Grey
+   
+   TOGGLE SYSTEM: Comment/uncomment sections to enable/disable features
+═══════════════════════════════════════════════════════════════════════════ */
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 3: TABLE STYLING
+═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T1: BASE TABLE STYLING
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view table,
+.markdown-rendered table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  background: var(--v4d3r-black-charcoal);
+  border: 1px solid var(--v4d3r-grey-dark);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T2: TABLE HEADER STYLING
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view th,
+.markdown-rendered th {
+  background: linear-gradient(135deg, var(--v4d3r-red-dark), var(--v4d3r-red-darker));
+  color: var(--v4d3r-grey-snow);
+  font-weight: 600;
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 2px solid var(--v4d3r-red-primary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.875em;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T3: TABLE CELL STYLING
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view td,
+.markdown-rendered td {
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--v4d3r-grey-darkest);
+  color: var(--v4d3r-grey-pale);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T4: ZEBRA STRIPING
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view tr:nth-child(even),
+.markdown-rendered tr:nth-child(even) {
+  background: var(--v4d3r-black-soft);
+}
+
+.markdown-preview-view tr:nth-child(odd),
+.markdown-rendered tr:nth-child(odd) {
+  background: var(--v4d3r-black-rich);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T5: ROW HOVER EFFECT
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view tbody tr:hover,
+.markdown-rendered tbody tr:hover {
+  background: rgba(220, 38, 38, 0.15) !important;
+  transition: background 0.2s ease;
+}
+
+.markdown-preview-view tbody tr:hover td,
+.markdown-rendered tbody tr:hover td {
+  color: var(--v4d3r-grey-snow);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T6: FIRST COLUMN EMPHASIS
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view td:first-child,
+.markdown-rendered td:first-child {
+  font-weight: 500;
+  color: var(--v4d3r-red-pale);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T7: STICKY TABLE HEADERS
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view thead,
+.markdown-rendered thead {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T8: COMPACT TABLE VARIANT (use cssclass: table-compact)
+───────────────────────────────────────────────────────────────────────── */
+/*.table-compact table th,
+.table-compact table td {
+  padding: 6px 10px;
+  font-size: 0.85em;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T9: WIDE TABLE VARIANT (use cssclass: table-wide)
+───────────────────────────────────────────────────────────────────────── */
+.table-wide table {
+  max-width: none;
+}
+
+.table-wide table th,
+.table-wide table td {
+  padding: 16px 24px!important;
+  font-size: 1em!important;
+}
+
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T10: BORDERLESS TABLE VARIANT (use cssclass: table-borderless)
+───────────────────────────────────────────────────────────────────────── */
+/*.table-borderless table {
+  border: none;
+}
+
+.table-borderless table th,
+.table-borderless table td {
+  border: none;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T11: MINIMAL TABLE VARIANT (use cssclass: table-minimal)
+───────────────────────────────────────────────────────────────────────── */
+/*.table-minimal table {
+  border: none;
+  border-radius: 0;
+}
+.table-minimal table th {
+  background: var(--v4d3r-grey-dark)!important;
+  border-bottom: 1px solid var(--v4d3r-grey-medium)!important;
+  color: var(--v4d3r-grey-snow)!important;
+}
+.table-minimal table td {
+  background: transparent!important;
+  border: none;
+  text-align: left;
+}
+
+
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T12: LATEX-STYLE TABLE (use cssclass: table-latex)
+───────────────────────────────────────────────────────────────────────── */
+.table-latex table {
+  border: none;
+  border-top: 2px solid var(--v4d3r-grey-pale)!important;
+  border-bottom: 2px solid var(--v4d3r-grey-pale)!important;
+  border-radius: 0;
+}
+
+.table-latex table th {
+  background: transparent!important;
+  border-bottom: 1px solid var(--v4d3r-grey-medium)!important;
+  color: var(--v4d3r-grey-snow)!important;
+  font-variant: small-caps;
+}
+
+.table-latex table td {
+  background: transparent!important;
+  border: none;
+  text-align: center;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T13: TABLE WITH SHADOWS (use cssclass: table-shadow)
+───────────────────────────────────────────────────────────────────────── */
+.table-shadow table {
+  box-shadow: 0 4px 6px 1px rgba(255, 0, 0, 0.4)!important;
+  border: none;
+  border-radius: 8px;
+}
+.table-shadow thead {
+  box-shadow: 0 2px 4px 1px rgba(255, 0, 0, 0.3)!important;
+}
+.table-shadow tbody tr {
+  box-shadow: 0 2px 4px 1px rgba(255, 0, 0, 0.3)!important;
+  transition: box-shadow 0.2s ease;
+  
+}
+
+.table-shadow tbody tr:hover {
+  box-shadow: inset 0 0 0 2px var(--v4d3r-red-primary)!important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T14: RESPONSIVE TABLE (horizontal scroll on small screens)
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view .table-wrapper,
+.markdown-rendered .table-wrapper {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch!important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T15: COLUMN ALIGNMENT UTILITIES
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view th.align-left,
+.markdown-rendered th.align-left,
+.markdown-preview-view td.align-left,
+.markdown-rendered td.align-left {
+  text-align: left!important;
+}
+.markdown-preview-view th.align-center,
+.markdown-rendered th.align-center,
+.markdown-preview-view td.align-center,
+.markdown-rendered td.align-center {
+  text-align: center!important;
+}
+.markdown-preview-view th.align-right,
+.markdown-rendered th.align-right,
+.markdown-preview-view td.align-right,
+.markdown-rendered td.align-right {
+  text-align: right!important;
+}
+
+
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T16: HIGHLIGHTED ROW (use inline style or class)
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view tr.highlight,
+.markdown-rendered tr.highlight {
+  background: rgba(220, 38, 38, 0.25) !important;
+  border-left: 3px solid var(--v4d3r-red-primary)!important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] T17: MONOSPACE DATA CELLS (use cssclass: table-mono)
+───────────────────────────────────────────────────────────────────────── */
+.table-mono table td {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace!important;
+  font-size: 0.9em!important;
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   END OF PART 2 - TABLE STYLING
+   Continue to Part 3 for PLUGIN styling
+═══════════════════════════════════════════════════════════════════════════ */

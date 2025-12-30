@@ -1,0 +1,149 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ CALLOUT MODIFIER: Floating Light Card
+
+ Purpose: Lightweight elevated card with airy feel and soft shadows
+ Effect: Gentle floating appearance with minimal visual weight
+ Inspired by: iOS Cards, Google Material 3, Frosted glass aesthetics
+ Compatible with: All themes, especially clean minimal setups
+
+ Enable this snippet for:
+ - Light airy card feel
+ - Soft gentle elevation
+ - Clean modern look
+ - Subtle depth without heaviness
+ - Breathable design
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* Floating card base with soft shadows */
+.callout {
+  background: rgba(var(--theme-bg-raised-rgb, 30, 30, 30), 0.6) !important;
+  backdrop-filter: blur(12px) !important;
+  border: 1px solid rgba(var(--callout-color, var(--theme-crimson-rgb)), 0.2) !important;
+  border-radius: 16px !important;
+  padding: 0 !important;
+  margin: 1.5em 0.3em !important;
+  
+  /* Soft floating shadows */
+  box-shadow:
+    0 8px 20px rgba(0, 0, 0, 0.12),
+    0 3px 8px rgba(0, 0, 0, 0.08),
+    0 1px 3px rgba(var(--callout-color, var(--theme-crimson-rgb)), 0.08),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.03) !important;
+  
+  transform: translateY(0) !important;
+  transition:
+    transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1),
+    box-shadow 0.4s cubic-bezier(0.25, 0.8, 0.25, 1),
+    background 0.3s ease !important;
+}
+
+/* Subtle top glow */
+.callout::before {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 20px !important;
+  right: 20px !important;
+  height: 2px !important;
+  background: linear-gradient(90deg,
+    transparent 0%,
+    rgba(var(--callout-color, var(--theme-crimson-rgb)), 0.25) 50%,
+    transparent 100%) !important;
+  border-radius: 16px !important;
+  filter: blur(1px) !important;
+  pointer-events: none !important;
+}
+
+/* Clean lightweight title */
+.callout-title {
+  background: rgba(var(--callout-color, var(--theme-crimson-rgb)), 0.04) !important;
+  padding: 14px 18px !important;
+  border-bottom: 1px solid rgba(var(--callout-color, var(--theme-crimson-rgb)), 0.12) !important;
+  border-radius: 16px 16px 0 0 !important;
+  font-weight: 500 !important;
+  font-size: 0.92em !important;
+  color: rgb(var(--callout-color, var(--theme-crimson-rgb))) !important;
+  transition: background 0.3s ease !important;
+}
+
+/* Airy content area */
+.callout-content {
+  background: transparent !important;
+  padding: 16px 18px 18px !important;
+}
+
+/* Gentle hover float */
+.callout:hover {
+  transform: translateY(-4px) !important;
+  background: rgba(var(--theme-bg-raised-rgb, 30, 30, 30), 0.75) !important;
+  
+  box-shadow:
+    0 14px 32px rgba(0, 0, 0, 0.16),
+    0 6px 14px rgba(0, 0, 0, 0.12),
+    0 2px 6px rgba(var(--callout-color, var(--theme-crimson-rgb)), 0.15),
+    inset 0 0 0 1px rgba(255, 255, 255, 0.05),
+    0 0 20px rgba(var(--callout-color, var(--theme-crimson-rgb)), 0.08) !important;
+}
+
+.callout:hover .callout-title {
+  background: rgba(var(--callout-color, var(--theme-crimson-rgb)), 0.08) !important;
+}
+
+/* Minimal icon styling */
+.callout-icon {
+  opacity: 0.85 !important;
+  transition: all 0.3s ease !important;
+}
+
+.callout:hover .callout-icon {
+  opacity: 1 !important;
+  transform: scale(1.08) !important;
+}
+
+/* Soft bottom shadow for floating effect */
+.callout::after {
+  content: '' !important;
+  position: absolute !important;
+  bottom: -6px !important;
+  left: 15% !important;
+  right: 15% !important;
+  height: 6px !important;
+  background: radial-gradient(ellipse,
+    rgba(0, 0, 0, 0.15) 0%,
+    transparent 65%) !important;
+  filter: blur(4px) !important;
+  pointer-events: none !important;
+  opacity: 0.5 !important;
+  transition: opacity 0.4s ease, transform 0.4s ease !important;
+}
+
+.callout:hover::after {
+  opacity: 0.7 !important;
+  transform: scaleX(1.1) !important;
+}
+
+/* Light nested cards */
+.callout .callout {
+  margin: 1em 0 !important;
+  background: rgba(var(--theme-bg-raised-rgb, 30, 30, 30), 0.4) !important;
+  box-shadow:
+    0 4px 10px rgba(0, 0, 0, 0.08),
+    0 2px 5px rgba(0, 0, 0, 0.06) !important;
+}
+
+.callout .callout:hover {
+  transform: translateY(-2px) !important;
+}
+
+/* Remove motion for users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .callout,
+  .callout:hover,
+  .callout-icon,
+  .callout::after {
+    transform: none !important;
+    transition: none !important;
+  }
+}

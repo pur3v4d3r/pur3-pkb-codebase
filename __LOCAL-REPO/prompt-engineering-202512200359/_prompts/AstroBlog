@@ -1,0 +1,50 @@
+Create a responsive {niche} blog using Astro framework with content-first approach
+Implement file-based routing with src/pages structure for easy navigation
+Design a clean, minimalist layout using Astro components and CSS variables
+Use Markdown for content creation with frontmatter for metadata
+Implement Astro's content collections for organized blog post management
+Create a src/content/blog directory for storing Markdown blog posts
+Design a dynamic [slug].astro page for individual blog post rendering
+Implement static site generation (SSG) for optimal performance and SEO
+Use Astro.glob() to query and display blog post lists on index and archive pages
+Create a responsive header with site logo, navigation menu, and search bar
+Implement a footer with social media links, newsletter signup, and site map
+Design a sidebar with author bio, popular posts, and category list
+Use Astro's Image component for optimized image loading and responsive images
+Implement syntax highlighting for code blocks using Astro's built-in support
+Create a custom 404 page with suggested posts and search functionality
+Implement an RSS feed using Astro's RSS package
+Design a responsive layout with CSS Grid and Flexbox for various screen sizes
+Use Astro's built-in asset handling for optimized resource loading
+Implement lazy loading for images and components to improve initial load time
+Create a dark mode toggle with persistent user preference using local storage
+Implement a search functionality using Astro's client-side JavaScript capabilities
+Design a pagination system for blog post listings
+Create a tagging system with individual tag pages for content organization
+Implement reading time estimation for each blog post
+Design a table of contents component for long-form articles
+Create an author page template for multi-author blogs
+Implement social sharing buttons for each blog post
+Design a newsletter subscription form with Astro's form handling
+Create a related posts section at the end of each blog post
+Implement SEO optimization with customizable meta tags and Open Graph data
+Design a comments system using a third-party service like Disqus or Utterances
+Create a sitemap.xml and robots.txt for improved SEO
+Implement schema markup for blog posts and author information
+Design a print stylesheet for printer-friendly blog post versions
+Create an about page with team information and site mission
+Implement a contact form using Astro's server-side capabilities
+Design a categories page with post counts and descriptions
+Create an archive page with yearly and monthly post groupings
+Implement a "scroll to top" button for long pages
+Design a featured posts carousel for the homepage
+Create a custom video player component for video content
+Implement a progressive web app (PWA) configuration for offline access
+Design a cookie consent banner with user preferences storage
+Create a custom 500 error page for server-side errors
+Implement keyboard navigation for accessibility
+Design a floating table of contents for long-form articles
+Create a "time to read" progress bar for blog posts
+Implement a "copy code" button for code blocks
+Design a custom blockquote component with styling options
+Create a "last updated" indicator for blog posts

@@ -1,0 +1,376 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   V4D3R MERMAID, TABLES & PLUGINS SNIPPET SYSTEM - PART 3: PLUGINS
+   Author: TaskMaster Agent | Theme: Red/Black/Grey
+   
+   TOGGLE SYSTEM: Comment/uncomment sections to enable/disable features
+═══════════════════════════════════════════════════════════════════════════ */
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 4: PLUGIN STYLING
+═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P1: DATAVIEW TABLE STYLING
+───────────────────────────────────────────────────────────────────────── */
+.dataview.table-view-table {
+  background: var(--v4d3r-black-charcoal);
+  border: 1px solid var(--v4d3r-grey-dark);
+  border-radius: 8px;
+}
+
+.dataview.table-view-table th {
+  background: var(--v4d3r-red-dark);
+  color: var(--v4d3r-grey-snow);
+  border-bottom: 2px solid var(--v4d3r-red-primary);
+}
+
+.dataview.table-view-table td {
+  color: var(--v4d3r-grey-pale);
+}
+
+.dataview.table-view-table tr:hover {
+  background: rgba(220, 38, 38, 0.1);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P2: DATAVIEW LIST STYLING
+───────────────────────────────────────────────────────────────────────── */
+.dataview.list-view-ul {
+  padding-left: 0;
+}
+
+.dataview.list-view-ul li {
+  list-style: none;
+  padding: 8px 12px;
+  margin: 4px 0;
+  background: var(--v4d3r-black-rich);
+  border-left: 3px solid var(--v4d3r-red-primary);
+  border-radius: 0 6px 6px 0;
+}
+
+.dataview.list-view-ul li:hover {
+  background: var(--v4d3r-black-charcoal);
+  border-left-color: var(--v4d3r-red-light);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P3: DATAVIEW INLINE FIELDS
+───────────────────────────────────────────────────────────────────────── */
+.dataview.inline-field-key {
+  color: var(--v4d3r-red-pale);
+  font-weight: 500;
+}
+
+.dataview.inline-field-value {
+  color: var(--v4d3r-grey-light);
+  background: var(--v4d3r-black-soft);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P4: TASKS PLUGIN STYLING
+───────────────────────────────────────────────────────────────────────── */
+.tasks-plugin-task {
+  background: var(--v4d3r-black-rich);
+  padding: 8px 12px;
+  margin: 4px 0;
+  border-radius: 6px;
+  border-left: 3px solid var(--v4d3r-grey-dark);
+}
+
+.tasks-plugin-task:hover {
+  background: var(--v4d3r-black-charcoal);
+}
+
+/* Task priority colors */
+.task-priority-highest {
+  border-left-color: var(--v4d3r-red-primary) !important;
+}
+
+.task-priority-high {
+  border-left-color: var(--v4d3r-red-dark) !important;
+}
+
+.task-priority-medium {
+  border-left-color: var(--v4d3r-warning) !important;
+}
+
+.task-priority-low {
+  border-left-color: var(--v4d3r-grey-medium) !important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P5: CUSTOM CHECKBOX STYLING
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view input[type="checkbox"],
+.markdown-rendered input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--v4d3r-grey-dark);
+  border-radius: 4px;
+  background: var(--v4d3r-black-rich);
+  cursor: pointer;
+  position: relative;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+.markdown-preview-view input[type="checkbox"]:checked,
+.markdown-rendered input[type="checkbox"]:checked {
+  background: var(--v4d3r-red-primary);
+  border-color: var(--v4d3r-red-primary);
+}
+
+.markdown-preview-view input[type="checkbox"]:checked::after,
+.markdown-rendered input[type="checkbox"]:checked::after {
+  content: '✓';
+  position: absolute;
+  color: var(--v4d3r-grey-snow);
+  font-size: 14px;
+  top: -2px;
+  left: 2px;
+}
+
+.markdown-preview-view input[type="checkbox"]:hover,
+.markdown-rendered input[type="checkbox"]:hover {
+  border-color: var(--v4d3r-red-light);
+  box-shadow: 0 0 4px var(--v4d3r-red-glow);
+}
+
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P7: CALENDAR PLUGIN STYLING
+───────────────────────────────────────────────────────────────────────── */
+.calendar {
+  background: var(--v4d3r-black-charcoal);
+  border-radius: 8px;
+  border: 1px solid var(--v4d3r-grey-dark);
+}
+
+.calendar .title {
+  color: var(--v4d3r-red-light);
+  font-weight: 600;
+}
+
+.calendar .day {
+  color: var(--v4d3r-grey-pale);
+}
+
+.calendar .today {
+  background: var(--v4d3r-red-dark);
+  color: var(--v4d3r-grey-snow);
+  border-radius: 50%;
+}
+
+.calendar .active {
+  background: var(--v4d3r-red-primary);
+  color: var(--v4d3r-grey-snow);
+}
+
+.calendar .has-note::after {
+  content: '•';
+  color: var(--v4d3r-red-light);
+  position: absolute;
+  bottom: 2px;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P8: KANBAN PLUGIN STYLING
+───────────────────────────────────────────────────────────────────────── */
+.kanban-plugin {
+  background: var(--v4d3r-black-soft);
+}
+
+.kanban-plugin__lane {
+  background: var(--v4d3r-black-charcoal);
+  border: 1px solid var(--v4d3r-grey-dark);
+  border-radius: 8px;
+}
+
+.kanban-plugin__lane-title-text {
+  color: var(--v4d3r-red-light);
+  font-weight: 600;
+}
+
+.kanban-plugin__item {
+  background: var(--v4d3r-black-rich);
+  border-left: 3px solid var(--v4d3r-grey-dark);
+  border-radius: 4px;
+}
+
+.kanban-plugin__item:hover {
+  border-left-color: var(--v4d3r-red-primary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.kanban-plugin__item-title-wrapper {
+  color: var(--v4d3r-grey-pale);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P9: EXCALIDRAW CONTAINER
+───────────────────────────────────────────────────────────────────────── */
+.excalidraw-embedded {
+  border: 1px solid var(--v4d3r-grey-dark);
+  border-radius: 8px;
+  background: var(--v4d3r-black-charcoal);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P10: ADMONITION/CALLOUT ENHANCEMENTS
+───────────────────────────────────────────────────────────────────────── */
+.callout[data-callout="warning"],
+.callout[data-callout="caution"] {
+  background: rgba(217, 119, 6, 0.1);
+  border-color: var(--v4d3r-warning);
+}
+
+.callout[data-callout="danger"],
+.callout[data-callout="error"] {
+  background: rgba(220, 38, 38, 0.15);
+  border-color: var(--v4d3r-red-primary);
+}
+
+.callout[data-callout="important"] {
+  background: rgba(220, 38, 38, 0.1);
+  border-color: var(--v4d3r-red-dark);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P11: OUTLINE PANE STYLING
+───────────────────────────────────────────────────────────────────────── */
+.outline-tree {
+  background: var(--v4d3r-black-charcoal);
+}
+
+.outline-tree .tree-item-self:hover {
+  background: rgba(220, 38, 38, 0.1);
+}
+
+.outline-tree .tree-item-self.is-active {
+  background: var(--v4d3r-red-dark);
+  color: var(--v4d3r-grey-snow);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P12: GRAPH VIEW ACCENT COLORS
+───────────────────────────────────────────────────────────────────────── */
+.graph-view.color-fill-attachment {
+  color: var(--v4d3r-grey-medium);
+}
+
+.graph-view.color-fill-focused {
+  color: var(--v4d3r-red-primary);
+}
+
+.graph-view.color-line-highlight {
+  color: var(--v4d3r-red-light);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P13: BACKLINKS/OUTGOING LINKS PANE
+───────────────────────────────────────────────────────────────────────── */
+.backlink-pane,
+.outgoing-link-pane {
+  background: var(--v4d3r-black-charcoal);
+}
+
+.backlink-pane .search-result-file-title,
+.outgoing-link-pane .search-result-file-title {
+  color: var(--v4d3r-red-light);
+}
+
+.backlink-pane .search-result-file-matches,
+.outgoing-link-pane .search-result-file-matches {
+  color: var(--v4d3r-grey-light);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P14: PROPERTIES/FRONTMATTER STYLING
+───────────────────────────────────────────────────────────────────────── */
+.metadata-container {
+  background: var(--v4d3r-black-rich);
+  border: 1px solid var(--v4d3r-grey-darkest);
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.metadata-property-key {
+  color: var(--v4d3r-red-pale);
+  font-weight: 500;
+}
+
+.metadata-property-value {
+  color: var(--v4d3r-grey-light);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P15: CODE BLOCK ENHANCEMENTS
+───────────────────────────────────────────────────────────────────────── */
+.markdown-preview-view pre,
+.markdown-rendered pre {
+  background: var(--v4d3r-black-soft);
+  border: 1px solid var(--v4d3r-grey-darkest);
+  border-radius: 8px;
+  border-left: 4px solid var(--v4d3r-red-primary);
+}
+
+.markdown-preview-view code,
+.markdown-rendered code {
+  background: var(--v4d3r-black-rich);
+  color: var(--v4d3r-red-pale);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P16: EMBEDDED/TRANSCLUDED NOTES
+───────────────────────────────────────────────────────────────────────── */
+.markdown-embed {
+  background: var(--v4d3r-black-rich);
+  border: 1px solid var(--v4d3r-grey-dark);
+  border-left: 3px solid var(--v4d3r-red-primary);
+  border-radius: 0 8px 8px 0;
+  padding: 16px;
+}
+
+.markdown-embed-title {
+  color: var(--v4d3r-red-light);
+  font-weight: 600;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────
+   [TOGGLE] P17: SEARCH RESULTS STYLING
+───────────────────────────────────────────────────────────────────────── */
+.search-result-container {
+  background: var(--v4d3r-black-charcoal);
+}
+
+.search-result-file-matched-text {
+  background: rgba(220, 38, 38, 0.3);
+  color: var(--v4d3r-grey-snow);
+}
+
+.search-result-file-title {
+  color: var(--v4d3r-red-light);
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   END OF V4D3R SNIPPET SYSTEM
+   
+   USAGE:
+   1. Enable all 3 snippet files in Obsidian Settings > Appearance > Snippets
+   2. Toggle individual features by commenting/uncommenting sections
+   3. Use cssclass variants in frontmatter for tables: table-compact, 
+      table-wide, table-borderless, table-minimal, table-latex, 
+      table-shadow, table-mono, table-align-center, table-align-right
+   
+   TOTAL FEATURES: 47 toggleable styling options
+   - M1-M13: Mermaid diagrams (13 features)
+   - T1-T17: Tables (17 features)  
+   - P1-P17: Plugins (17 features)
+═══════════════════════════════════════════════════════════════════════════ */

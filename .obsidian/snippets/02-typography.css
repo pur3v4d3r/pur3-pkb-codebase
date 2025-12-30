@@ -1,0 +1,340 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET: Typography & Heading System
+ Category: Typography
+ Purpose: Complete heading hierarchy and text formatting
+ Author: Pur3v4d3r
+ Created: 2025-12-13
+ Version: 1.0.0
+
+ Description:
+ Comprehensive typography system for all heading levels (H1-H6)
+ with JetBrains Mono font, small-caps styling, and consistent
+ color hierarchy. Includes inline title, paragraph spacing,
+ and text formatting (bold, italic) with optional gradients.
+
+ Dependencies: 01-variables.css
+ Standalone: Partial (works better with variables)
+
+ Features:
+ - H1-H6 with distinct colors and sizes
+ - All-small-caps variant for professional appearance
+ - Underlines on H1 and H2
+ - Inline title customization
+ - Optimized paragraph spacing
+ - Optional gradient text effects (commented out)
+
+ Font Requirements:
+ - JetBrains Mono (recommended, falls back to system monospace)
+ - Download: https://www.jetbrains.com/lp/mono/
+
+ Compatibility: Obsidian 1.5+
+═══════════════════════════════════════════════════════════
+*/
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 1 - Imperial Gold
+   Top-level headings with underline
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .markdown-preview-view h1,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-1,
+.theme-dark .cm-header-1,
+.markdown-preview-view h1,
+.cm-header-1,
+h1 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.8em !important;
+  font-weight: 100 !important;                /* Thin weight for elegance */
+  font-style: normal !important;
+  font-variant: all-small-caps !important;    /* Professional small-caps */
+  color: #E50000 !important;                  /* Imperial Gold */
+  /* SPACING REMOVED: Controlled by 00-spacing-foundation.css */
+  text-decoration: underline !important;      /* Gold underline */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 2 - Deep Amethyst
+   Section headings with underline
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .markdown-preview-view h2,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-2,
+.theme-dark .cm-header-2,
+.markdown-preview-view h2,
+.cm-header-2,
+h2 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.6em !important;
+  font-weight: 100 !important;                /* Extra thin */
+  font-style: normal !important;
+  font-variant: all-small-caps !important;
+  color: #E50000 !important;                  /* Deep Amethyst */
+  /* SPACING REMOVED: Controlled by 00-spacing-foundation.css */
+  text-decoration: underline !important;      /* Purple underline */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 3 - Muted Gold
+   Subsection headings
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .markdown-preview-view h3,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-3,
+.theme-dark .cm-header-3,
+.markdown-preview-view h3,
+.cm-header-3,
+h3 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.4em !important;
+  font-weight: 100 !important;
+  font-variant: all-small-caps !important;
+  color: #E50000 !important;                  /* Muted Gold */
+  /* SPACING REMOVED: Controlled by 00-spacing-foundation.css */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 4 - Cyan
+   Minor section headings
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .markdown-preview-view h4,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-4,
+.theme-dark .cm-header-4,
+.markdown-preview-view h4,
+.cm-header-4,
+h4 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.4em !important;
+  font-weight: 100 !important;
+  font-variant: all-small-caps !important;
+  color: #E50000 !important;                  /* Cyber Cyan */
+  /* SPACING REMOVED: Controlled by 00-spacing-foundation.css */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 5 - Light Purple
+   Detail headings
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .markdown-preview-view h5,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-5,
+.theme-dark .cm-header-5,
+.markdown-preview-view h5,
+.cm-header-5,
+h5 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.2em !important;
+  font-weight: 100 !important;
+  font-variant: all-small-caps !important;
+  color: #E50000 !important;                  /* Light Purple */
+  /* SPACING REMOVED: Controlled by 00-spacing-foundation.css */
+}
+
+/* ══════════════════════════════════════════════════════════
+   HEADING LEVEL 6 - Pale Cyan
+   Smallest headings
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .markdown-preview-view h6,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-6,
+.theme-dark .cm-header-6,
+.markdown-preview-view h6,
+.cm-header-6,
+h6 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.2em !important;
+  font-weight: 100 !important;
+  font-variant: all-small-caps !important;
+  color: #E50000 !important;                  /* Pale Cyan */
+  /* SPACING REMOVED: Controlled by 00-spacing-foundation.css */
+}
+
+/* ══════════════════════════════════════════════════════════
+   INLINE TITLE - Note Title at Top
+   Larger, centered note title
+   ══════════════════════════════════════════════════════════ */
+
+.inline-title {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 2.2em !important;
+  font-weight: 100 !important;
+  color: #E50000ff !important;                /* Light purple */
+  text-align: center !important;
+  /* SPACING REMOVED: Controlled by 00-spacing-foundation.css */
+  font-variant: all-small-caps !important;
+}
+
+/* ══════════════════════════════════════════════════════════
+   FILE HEADER TITLE - Tab/Window Title
+   ══════════════════════════════════════════════════════════ */
+
+.view-header-title-container {
+  font-size: 1.25em !important;
+  font-weight: 100 !important;
+}
+
+/* Optional: Hide window title completely */
+body.window-title-off .view-header-title {
+  display: none !important;
+}
+
+/* ══════════════════════════════════════════════════════════
+   PARAGRAPH SPACING
+   Optimal reading experience
+   ══════════════════════════════════════════════════════════ */
+
+/* SPACING REMOVED: All paragraph spacing now controlled by 00-spacing-foundation.css
+   This prevents conflicts and maintains a single source of truth for spacing.
+   To adjust paragraph spacing, edit 00-spacing-foundation.css variables. */
+
+/* ══════════════════════════════════════════════════════════
+   READING WIDTH
+   Optimal line length for readability
+   ══════════════════════════════════════════════════════════ */
+
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-content {
+  max-width: 95ch !important;                 /* 95 characters optimal */
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* ══════════════════════════════════════════════════════════
+   TEXT SIZE ADJUSTMENTS
+   Global controls for all text sizes
+   ══════════════════════════════════════════════════════════ */
+
+/* Base Font Sizes - Adjust these to change all text proportionally */
+body {
+  --font-text-size: 18px  !important;                         /* Base text size */
+  --editor-font-size: 18px !important;                        /* Override Minimal theme */
+  --font-adaptive-normal: 18px !important;                    /* Override Minimal adaptive */
+  --font-smallest: 18px  !important;                       /* Small text (14px) */
+  --font-smaller: 18px  !important;                       /* Smaller text (15px) */
+  --font-small: 18px  !important;                              /* Normal text (18px) */
+  --font-ui-smaller: 14px  !important;                        /* UI elements */
+  --font-ui-small: 16px  !important;                          /* Small UI */
+  --font-ui-medium: 16px  !important;                         /* Medium UI */
+  --font-ui-large: 18px  !important;                          /* Large UI */
+}
+
+/* Editor Font Size - Comprehensive override for all editor elements */
+.markdown-source-view,
+.cm-content,
+.cm-editor,
+.cm-scroller,
+.cm-line,
+.markdown-source-view.mod-cm6,
+.markdown-source-view.mod-cm6 .cm-editor,
+.markdown-source-view.mod-cm6 .cm-scroller,
+.markdown-source-view.mod-cm6 .cm-content,
+.markdown-source-view.mod-cm6 .cm-line,
+.markdown-source-view.mod-cm6 .cm-sizer {
+  font-size: var(--font-text-size) !important;
+}
+
+/* Preview Font Size */
+.markdown-preview-view {
+  font-size: var(--font-text-size) !important;
+}
+
+/* Interface Font Sizes */
+.workspace-leaf-content[data-type="file-explorer"] .nav-file-title,
+.workspace-leaf-content[data-type="search"] .search-result-file-title {
+  font-size: var(--font-ui-medium) !important;
+}
+
+.workspace-leaf-content[data-type="file-explorer"] .nav-folder-title {
+  font-size: var(--font-ui-medium) !important;
+}
+
+/* Sidebar and Panel Text */
+.side-dock-ribbon {
+  font-size: var(--font-ui-small) !important;
+}
+
+.workspace-tab-header-container {
+  font-size: var(--font-ui-small) !important;
+}
+
+/* Code Block Font Size */
+.markdown-preview-view code,
+.markdown-preview-view pre,
+.cm-s-obsidian span.cm-inline-code {
+  font-size: 0.8em !important;                    /* 80% of base text */
+}
+
+/* Footnotes and Small Text */
+.footnotes,
+.markdown-preview-view .footnotes {
+  font-size: var(--font-smaller) !important;
+}
+
+/* ══════════════════════════════════════════════════════════
+   TEXT FORMATTING - Bold and Italic
+   Bold text gets Imperial Gold color
+   ══════════════════════════════════════════════════════════ */
+
+/* Bold text - Imperial Gold (Active) */
+.theme-dark .markdown-preview-view strong,
+.theme-dark .cm-strong,
+.markdown-preview-view strong,
+.cm-strong {
+  color: #ff4949ff !important;                  /* Imperial Gold from theme */
+  font-weight: 700 !important;                /* Proper bold weight */
+}
+
+
+/* Italic text - Light Silver (Active) */
+.theme-dark .markdown-preview-view em,
+.theme-dark .cm-em,
+.markdown-preview-view em,
+.cm-em {
+  color: #E0E0E0 !important;                  /* Light Silver */
+  font-style: italic !important;
+}
+
+
+/* ══════════════════════════════════════════════════════════
+   MOBILE RESPONSIVE - Font Size Adjustments
+   ══════════════════════════════════════════════════════════ */
+
+@media (max-width: 768px) {
+  body {
+    --font-text-size: 14px !important;
+  }
+
+  .markdown-preview-view h1 {
+    font-size: 2.4em !important;              /* Larger on mobile */
+  }
+
+  .markdown-preview-view h2 {
+    font-size: 2.0em !important;
+  }
+
+  .markdown-preview-view h3 {
+    font-size: 1.8em !important;
+  }
+}
+
+/* ══════════════════════════════════════════════════════════
+   PRINT STYLES - Document Printing
+   ══════════════════════════════════════════════════════════ */
+
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  .markdown-preview-view {
+    max-width: 100% !important;               /* Full width for print */
+  }
+}
+
+/* ══════════════════════════════════════════════════════════
+   END OF TYPOGRAPHY
+   ══════════════════════════════════════════════════════════ */
+
+/*

@@ -1,0 +1,32 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "id": "maturity-seedling",
+      "label": "🌱 Seedling",
+      "style": "default",
+      "action": {
+        "type": "updateMetadata",
+        "bindTarget": "maturity",
+        "evaluate": false,
+        "value": "seedling"
+      }
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

@@ -1,0 +1,49 @@
+# 🛑 OS & System Junk
+.DS_Store
+Thumbs.db
+.trash/
+
+# 🖼️ Heavy Media (Text-Only Mode)
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.mp4
+*.mov
+*.zip
+*.recording
+*.webm
+*.mp3
+*.wav
+*.m4a
+
+# 📂 Explicitly Ignore Asset Folders
+# (Make sure these match your folder names exactly)
+Attachments/
+Assets/
+Media/
+
+# 💎 Obsidian Internals
+# IGNORE session/workspace (active windows)
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/access.json
+# KEEP core settings (so you save your hotkeys/theme)
+!.obsidian/config
+!.obsidian/plugins/
+!.obsidian/snippets/
+
+# 🧠 Smart Connections & AI Embeddings (IRONCLAD IGNORE)
+# Ignores the environment folder where vectors usually live
+.smart-env/
+.smart-connections/
+# Ignores the heavy async-json vector files wherever they are
+**/*.ajson
+# Ignores generic embedding files if named explicitly
+**/*embeddings.json
+**/*embeddings.bin
+# Ignores cache folders often used by AI plugins
+sc-cache/

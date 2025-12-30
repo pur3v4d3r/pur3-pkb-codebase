@@ -1,0 +1,92 @@
+═══════════════════════════════════════════════════════════
+ SNIPPET NAME: JetBrains Mono Light Font
+ Purpose: Apply JetBrains Mono Light globally across Obsidian
+ Author: Pur3v4d3r
+ Date: 2025-12-14
+ Obsidian Version: 1.5+
+ Dependencies: None
+ Installation: Place in .obsidian/snippets/ and enable in Settings
+ 
+ Description:
+ Sets JetBrains Mono Light (weight: 300) as the default font
+ for all editor, preview, and interface text. Provides clean,
+ consistent typography throughout the application.
+ 
+ Font Installation:
+ Download JetBrains Mono from: https://www.jetbrains.com/lp/mono/
+ Install all font weights for best results.
+═══════════════════════════════════════════════════════════
+*/
+
+/* [SECTION 1: Global Font Variables] */
+body {
+  --font-text: "JetBrains Mono", monospace !important;
+  --font-monospace: "JetBrains Mono", monospace !important;
+  --font-interface: "JetBrains Mono", monospace !important;
+  --font-text-weight: 100 !important; /* ← Changed to 100 */
+}
+
+body, .theme-dark body {
+  font-family: "JetBrains Mono", "Courier New", monospace !important;
+  font-weight: 100 !important; /* ← Changed to 100 */
+}
+
+/* [SECTION 2: Editor Text] */
+.markdown-source-view,
+.markdown-source-view.mod-cm6,
+.cm-editor,
+.cm-content,
+.cm-scroller,
+.cm-line {
+  font-family: "JetBrains Mono", "Courier New", monospace !important;
+  font-weight: 100 !important; /* ← Changed to 100 */
+}
+
+/* [SECTION 3: Preview/Reading Mode] */
+.markdown-preview-view,
+.markdown-rendered {
+  font-family: "JetBrains Mono", "Courier New", monospace !important;
+  font-weight: 100 !important; /* ← Changed to 100 */
+}
+
+/* [SECTION 4: Interface Elements] */
+.workspace,
+.nav-file-title,
+.nav-folder-title,
+.search-result-file-title,
+.workspace-tab-header-inner,
+.titlebar,
+.status-bar {
+  font-family: "JetBrains Mono", "Courier New", monospace !important;
+  font-weight: 100 !important; /* ← Changed to 100 */
+}
+
+/* [SECTION 5: Code Blocks] */
+code,
+pre,
+.cm-inline-code,
+.markdown-preview-view code {
+  font-family: "JetBrains Mono", "Courier New", monospace !important;
+  font-weight: 100 !important; /* ✓ Already 100 */
+}
+
+/* [SECTION 6: Headings Override] */
+h1, h2, h3, h4, h5, h6,
+.cm-header-1, .cm-header-2, .cm-header-3,
+.cm-header-4, .cm-header-5, .cm-header-6 {
+  font-family: "JetBrains Mono", "Courier New", monospace !important;
+  font-weight: 100 !important; /* ← Changed to 100 */
+}
+
+/* [SECTION 7: Accessibility - Reduced Motion] */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+.popover.hover-popover,
+.menu,
+.suggestion-container {
+  box-shadow: 0 0px 48px rgba(255, 0, 0, 0.3) !important;
+}

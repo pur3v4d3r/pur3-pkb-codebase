@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Pur3v4d3r Research Article",
+  "behavior": "create",
+  "noteNameFormat": "{{published|date:\"YYYY\"}}-{{\"create a 4-6 word kebab-case academic filename capturing the study's main finding or topic\"|replace:\" \":\"-\"|lower|safe_name}}",
+  "path": "03-notes/literature",
+  "context": "{{selectorHtml:article,.paper-content,.abstract,.main-content,main,#content|markdown|slice:0,15000|trim}}",
+  "properties": [
+    {
+      "name": "aliases",
+      "value": "{{\"Generate 3-4 aliases: the full paper title, a shortened version, key methodology name if applicable, and author-year citation format (e.g., 'Smith et al., 2024'). Return as comma-separated list.\"|split:\", \"}}",
+      "type": "multitext"
+    },
+    {
+      "name": "tags",
+      "value": "{{\"Select 8-12 tags for this research article. Return ONLY comma-separated values:\\n\\nTYPE: type/literature, type/paper, type/analysis\\nSTATUS: status/not-read\\nRESEARCH: empirical-research, longitudinal-research, meta-analysis, experimental-psychology, review-paper\\nDOMAIN (pick 2-3): cognitive-science, cognitive-psychology, neuroscience, learning-science, educational-psychology, behavioral-science, psychometrics, developmental-psychology\\nMETHODS: neuroimaging-studies, behavioral-measures, statistical-analysis, qualitative-research\\nTOPICS (pick 3-5): memory-systems, working-memory, attention, executive-function, metacognition, cognitive-load, learning-strategies, transfer-of-learning, schema-theory, expertise-development\"|split:\", \"}}",
+      "type": "multitext"
+    },
+    {
+      "name": "source",
+      "value": "paper",
+      "type": "text"
+    },
+    {
+      "name": "id",
+      "value": "{{date|date:\"YYYYMMDDHHmmss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "created",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "modified",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "week",
+      "value": "[[{{date|date:\"GGGG-[W]WW\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "month",
+      "value": "[[{{date|date:\"YYYY-MM\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "quarter",
+      "value": "[[{{date|date:\"YYYY-[Q]Q\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "year",
+      "value": "[[{{date|date:\"YYYY\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "type",
+      "value": "literature",
+      "type": "text"
+    },
+    {
+      "name": "maturity",
+      "value": "seedling",
+      "type": "text"
+    },
+    {
+      "name": "confidence",
+      "value": "provisional",
+      "type": "text"
+    },
+    {
+      "name": "next-review",
+      "value": "{{date|date_modify:\"+7 days\"|date:\"YYYY-MM-DD\"}}",
+      "type": "date"
+    },
+    {
+      "name": "review-count",
+      "value": "0",
+      "type": "number"
+    },
+    {
+      "name": "link-up",
+      "value": "{{\"Select the primary MOC based on research domain. Return ONLY the wiki-link:\\n- [[cognitive-science-moc]]\\n- [[neuroscience-moc]]\\n- [[learning-theory-moc]]\\n- [[educational-psychology-moc]]\"}}",
+      "type": "text"
+    },
+    {
+      "name": "link-related",
+      "value": "[[{{date|date:\"YYYY-MM-DD\"}}|Daily-Note]]",
+      "type": "text"
+    },
+    {
+      "name": "url",
+      "value": "{{url}}",
+      "type": "text"
+    },
+    {
+      "name": "author",
+      "value": "{{author}}",
+      "type": "text"
+    },
+    {
+      "name": "published",
+      "value": "{{published|date:\"YYYY-MM-DD\"}}",
+      "type": "date"
+    },
+    {
+      "name": "doi",
+      "value": "{{meta:name:citation_doi}}",
+      "type": "text"
+    },
+    {
+      "name": "journal",
+      "value": "{{meta:name:citation_journal_title}}",
+      "type": "text"
+    }
+  ],
+  "triggers": [
+    "https://pubmed.ncbi.nlm.nih.gov",
+    "https://www.ncbi.nlm.nih.gov/pmc",
+    "https://scholar.google.com",
+    "https://www.sciencedirect.com",
+    "https://www.nature.com",
+    "https://www.science.org",
+    "https://journals.sagepub.com",
+    "https://www.frontiersin.org",
+    "https://www.tandfonline.com",
+    "https://onlinelibrary.wiley.com",
+    "https://psycnet.apa.org",
+    "https://arxiv.org",
+    "schema:@ScholarlyArticle",
+    "schema:@MedicalScholarlyArticle"
+  ],
+  "noteContentFormat": "# {{title}}\n\n> [!abstract] Research Overview\n> {{\"Write a structured abstract summary with these sections (use bold labels):\\n**Objective**: What question did the research address?\\n**Methods**: Brief methodology description\\n**Key Findings**: 2-3 main results\\n**Implications**: Why this matters\"}}\n\n> [!metadata] Citation Information\n> - **Authors**: {{author}}\n> - **Journal**: {{meta:name:citation_journal_title}}\n> - **Published**: {{published|date:\"YYYY-MM-DD\"}}\n> - **DOI**: {{meta:name:citation_doi}}\n> - **URL**: {{url}}\n\n---\n\n## 🎯 Research Question & Hypotheses\n\n{{\"Identify and state:\\n1. The primary research question(s)\\n2. The hypotheses tested (if applicable)\\n3. The theoretical framework underlying the study\"}}\n\n---\n\n## 📊 Methodology\n\n{{\"Summarize the methodology:\\n- **Design**: (experimental, correlational, qualitative, etc.)\\n- **Participants**: Sample size and characteristics\\n- **Measures/Instruments**: Key tools or assessments used\\n- **Procedure**: Brief description of what was done\\n- **Analysis**: Statistical or analytical methods\"}}\n\n---\n\n## 📈 Key Findings\n\n{{\"Extract the main findings. For each finding:\\n1. State the result clearly\\n2. Include effect sizes or key statistics if available\\n3. Note statistical significance\\n\\nFormat as a numbered list with sub-bullets for details.\"}}\n\n---\n\n## 📚 Key Concepts & Definitions\n\n{{\"Extract 5-10 technical terms, theoretical constructs, or key concepts. Use this EXACT format for Dataview parsing:\\n\\n[**Term-Name**:: Precise academic definition from the paper.]\\n\\nPrioritize:\\n- Novel constructs introduced\\n- Technical methodology terms\\n- Theoretical framework components\\n- Operational definitions of measured variables\"}}\n\n---\n\n## 🔬 Critical Analysis\n\n> [!strengths] Methodological Strengths\n> {{\"List 2-3 methodological strengths of this study.\"}}\n\n> [!limitations] Limitations\n> {{\"Identify 2-4 limitations acknowledged by authors or apparent from the methodology.\"}}\n\n> [!implications] Theoretical & Practical Implications\n> {{\"What are the implications for:\\n- Theory development?\\n- Practical applications?\\n- Future research?\"}}\n\n---\n\n## 🔗 Theoretical Connections\n\n{{\"Identify 6-10 theoretical concepts, related theories, or foundational works that connect to this research. Format as [[Wiki-Links]]:\\n- Related theories\\n- Key researchers/authors\\n- Foundational studies referenced\\n- Cognitive mechanisms involved\"}}\n\n---\n\n## 💭 Personal Research Notes\n\n> [!question] Questions for Further Investigation\n> - \n\n> [!connection] Connections to PKB\n> - How does this relate to existing notes?\n> - \n\n> [!application] Practical Applications\n> - How might I apply these findings?\n> - \n\n---\n\n## 📖 Selected Quotes\n\n{{\"Extract 2-4 significant quotes from the paper. Format each as:\\n> \\\"Quote text here.\\\" (p. X)\\n\\nPrioritize quotes that capture key claims or definitions.\"}}\n\n---\n\n## 📚 References to Follow Up\n\n{{\"List 3-5 key references cited in this paper that are worth exploring. Format as:\\n- Author (Year). Title. *Journal*. - Brief note on why it's relevant.\"}}\n\n---\n\n## 🔗 Related Topics for PKB Expansion\n\n{{\"Suggest 4 topics that extend from this research:\\n\\n1. **[[Topic Name]]**\\n   - *Connection*: How it relates\\n   - *Depth Potential*: Why it deserves exploration\\n   - *Knowledge Graph Role*: Where it fits\\n\\nRepeat for all 4 topics.\"}}"
+}

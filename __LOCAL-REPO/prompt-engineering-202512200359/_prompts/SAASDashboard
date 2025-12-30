@@ -1,0 +1,61 @@
+Create a responsive SaaS dashboard using Vue.js and Nuxt.js framework
+Implement Vue Router for seamless navigation between dashboard sections
+Design a sleek sidebar with collapsible menu items using Vue transitions
+Use Vuex for state management across components and pages
+Create a customizable header with user profile dropdown and notifications
+Implement real-time data updates using Vue-Socket.io
+Design a modular widget system for drag-and-drop dashboard customization
+Create responsive data visualization components using Chart.js and D3.js
+Implement dark mode toggle with system preference detection
+Design an activity feed with infinite scroll using Vue Virtual Scroller
+Create a search functionality with autocomplete using Algolia Vue InstantSearch
+Implement role-based access control (RBAC) for different user levels
+Design a responsive data table with sorting, filtering, and pagination
+Create custom form components with validation using Vuelidate
+Implement file upload functionality with progress bar using Uppy
+Design a kanban board for task management using Vue.Draggable
+Create a calendar component with event management using Vue Calendar
+Implement multi-language support using Vue I18n
+Design a responsive grid layout system using CSS Grid and Flexbox
+Create animated transitions between routes using Vue page transitions
+Implement keyboard shortcuts for common actions using Vue Hotkey
+Design a customizable theme system with CSS variables
+Create a notification system with toast messages using Vue Toasted
+Implement data export functionality to CSV and PDF using jsPDF and PapaParse
+Design an onboarding tour for new users using Vue Tour
+Create a rich text editor for content creation using Quill.js
+Implement user authentication with JWT and refresh tokens
+Design a responsive settings page with tabs for different sections
+Create a custom modal system for confirmations and alerts
+Implement lazy loading for dashboard components using Vue Lazy Component
+Design an interactive help center with searchable documentation
+Create a custom audio notification system for important events
+Implement a user activity logging system with filterable timeline
+Design a responsive billing and subscription management page
+Create custom animations for data updates using GreenSock (GSAP)
+Implement a chat system for team communication using Vue Chat Scroll
+Design a responsive email template builder using GrapesJS
+Create a custom date range picker for analytics filtering
+Implement a drag-and-drop file organization system using Vue.Draggable
+Design a responsive API documentation page with interactive examples
+Create a custom color picker for theme customization
+Implement a data backup and restore system with progress indicators
+Design an interactive network graph for system architecture visualization
+Create custom tooltips for data point explanations using v-tooltip
+Implement a custom terminal component for advanced users
+Design a responsive dashboard for IoT device management
+Create animated loading skeletons for data fetching using Vue Content Loader
+Implement a custom video conferencing solution using WebRTC
+Design a responsive workflow builder with drag-and-drop nodes
+Create a custom code editor for user scripts using Monaco Editor
+Implement a version control system for user-generated content
+Design a responsive analytics dashboard with customizable metrics
+Create a custom data import wizard with field mapping
+Implement a recommendation engine for personalized user experience
+Design a responsive customer feedback system with sentiment analysis
+Create custom progress indicators for long-running tasks
+Implement a custom spreadsheet component using Handsontable
+Design a responsive project management system with Gantt charts
+Create a custom data visualization builder using Vega-Lite
+Implement a feature flag system for gradual rollouts
+Design a responsive A/B testing dashboard with statistical analysis

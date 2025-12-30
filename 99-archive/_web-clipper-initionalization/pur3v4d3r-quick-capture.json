@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Pur3v4d3r Quick Capture",
+  "behavior": "create",
+  "noteNameFormat": "{{date|date:\"YYYY-MM-DD\"}}-clip-{{title|safe_name|slice:0,40}}",
+  "path": "00-inbox/webclips",
+  "context": "{{content|slice:0,6000}}",
+  "properties": [
+    {
+      "name": "aliases",
+      "value": "{{title}}",
+      "type": "text"
+    },
+    {
+      "name": "tags",
+      "value": "status/not-read, type/clipping, needs-processing",
+      "type": "multitext"
+    },
+    {
+      "name": "source",
+      "value": "article",
+      "type": "text"
+    },
+    {
+      "name": "id",
+      "value": "{{date|date:\"YYYYMMDDHHmmss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "created",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "modified",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "week",
+      "value": "[[{{date|date:\"GGGG-[W]WW\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "month",
+      "value": "[[{{date|date:\"YYYY-MM\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "quarter",
+      "value": "[[{{date|date:\"YYYY-[Q]Q\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "year",
+      "value": "[[{{date|date:\"YYYY\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "type",
+      "value": "clipping",
+      "type": "text"
+    },
+    {
+      "name": "maturity",
+      "value": "needs-review",
+      "type": "text"
+    },
+    {
+      "name": "confidence",
+      "value": "speculative",
+      "type": "text"
+    },
+    {
+      "name": "next-review",
+      "value": "{{date|date_modify:\"+3 days\"|date:\"YYYY-MM-DD\"}}",
+      "type": "date"
+    },
+    {
+      "name": "review-count",
+      "value": "0",
+      "type": "number"
+    },
+    {
+      "name": "link-up",
+      "value": "",
+      "type": "text"
+    },
+    {
+      "name": "link-related",
+      "value": "[[{{date|date:\"YYYY-MM-DD\"}}|Daily-Note]]",
+      "type": "text"
+    },
+    {
+      "name": "url",
+      "value": "{{url}}",
+      "type": "text"
+    },
+    {
+      "name": "author",
+      "value": "{{author}}",
+      "type": "text"
+    },
+    {
+      "name": "published",
+      "value": "{{published|date:\"YYYY-MM-DD\"}}",
+      "type": "date"
+    }
+  ],
+  "triggers": [],
+  "noteContentFormat": "# {{title}}\n\n> [!info] Quick Capture\n> - **Source**: {{url}}\n> - **Author**: {{author}}\n> - **Captured**: {{date|date:\"YYYY-MM-DD HH:mm\"}}\n> - **Status**: 🔴 Needs Processing\n\n---\n\n## 📝 Why I Saved This\n\n> [!todo] Processing Tasks\n> - [ ] Read and annotate\n> - [ ] Extract key concepts\n> - [ ] Add proper tags\n> - [ ] Link to MOC\n> - [ ] Move to permanent notes if valuable\n\n---\n\n## 📖 Content\n\n{{content}}\n\n---\n\n## 🏷️ Quick Notes\n\n*Add thoughts, highlights, or questions here during processing...*\n\n- \n"
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://repomix.com/schemas/latest/schema.json",
+  "$comment": "Research Content Focus - For analyzing knowledge content",
+  "input": {
+    "maxFileSize": 1048576
+  },
+  "output": {
+    "filePath": "research-analysis.md",
+    "style": "markdown",
+    "headerText": "# 📚 Research Content Analysis\n\n**Focus**: Knowledge base content and research materials\n**Generated**: {date}\n\n---\n\n"
+  },
+  "include": [
+    "02-projects/**",
+    "03-notes/**", 
+    "04-library/**",
+    "07-mocs/**",
+    "**/*.md"
+  ],
+  "ignore": {
+    "useGitignore": true,
+    "useDotIgnore": true,
+    "customPatterns": [
+      "**/01_daily-notes/**",
+      "**/99_archive/**",
+      "**/archive/**",
+      "**/temp/**"
+    ]
+  }
+}

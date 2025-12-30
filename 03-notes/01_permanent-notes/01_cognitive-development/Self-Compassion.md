@@ -1,0 +1,69 @@
+---
+aliases:
+  - self-compassion
+  - Self Compassion
+  - Self-Compassion
+tags:
+  - type/report
+  - year/2025
+  - self-regulation
+  - self-regulation/self-control
+  - cognitive-science/metacognition/regulation
+  - self-regulation/emotional/regulation-strategies
+  - self-regulation/emotional/resilience
+source: ""
+id: "20251121085237"
+created: 2025-11-21T08:52:37
+week: "[[2025-W47]]"
+month: "[[2025-11]]"
+quarter: "[[2025-Q4]]"
+year: "[[2025]]"
+type: report
+link-up:
+  - 
+link-related:
+  - "[[2025-11-21|Daily-Note]]"
+  - "[[Behaviorism]]"
+  - "[[Cognitive Psychology]]"
+  - "[[Cognitive Processes]]"
+  - "[[Cognitive Science]]"
+maturity: seedling
+confidence: speculative
+status: active
+
+
+review-last-reviewed: null
+review-next-review: 2025-12-17
+review-count: 0
+review-interval: 3
+
+review-priority: medium
+---
+
+# Self-Compassion
+
+> [!definition]
+> - **Key-Term**:[[Self-Compassion]]
+> - [**Definition**:]
+
+## Foundational Understanding
+
+[Your initial understanding of this concept]
+
+## Key Principles
+
+## Related Concepts
+
+- [[Concept 1]]
+- [[Concept 2]]
+
+## Practical Applications
+
+## Evolution Log
+
+### 2025-11-21 - Initial Creation
+[Context: Where you first encountered this concept]
+[[cog-psy-report-investigation-into-cognitive-architecture-of-negative-self-talk-20251026134624]]
+---
+
+## 📚 Sources

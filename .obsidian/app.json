@@ -1,0 +1,39 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-inbox",
+  "attachmentFolderPath": "99_system/06_attachments",
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "readableLineLength": false,
+  "showIndentGuide": true,
+  "defaultViewMode": "source",
+  "propertiesInDocument": "visible",
+  "foldIndent": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "smartIndentList": true,
+  "trashOption": "local",
+  "focusNewTab": false,
+  "autoConvertHtml": false,
+  "spellcheckDictionary": [
+    "ldokjg"
+  ],
+  "tabSize": 2,
+  "vimMode": false,
+  "userIgnoreFilters": [
+    "04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/",
+    "04_library/01_cognitive-science/_reference/_incremental-learning/",
+    "99_Outputs/repomix-output.md"
+  ],
+  "showUnsupportedFiles": false,
+  "uriCallbacks": false
+}

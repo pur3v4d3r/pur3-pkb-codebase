@@ -1,0 +1,31 @@
+/* ═══════════════════════════════════════════════════════════════
+   FOUNDATION 1: DEEP GREY & CRIMSON PALETTE
+   Defines core colors as CSS custom properties (variables)
+   Based on Material Design dark theme principles with vivid crimson accents
+   ═══════════════════════════════════════════════════════════════ */
+
+:root {
+  /* === PRIMARY ACCENT COLOR === */
+  --theme-crimson: #E50000;
+  --theme-crimson-bright: #E50000;
+  --theme-crimson-dim: #CC0000;
+
+  /* === CORE UI COLORS === */
+  --theme-text: #E0E0E0;
+  --theme-text-medium: #A3A3A3;
+  --theme-bg: #121212;
+  --theme-bg-raised: #1E1E1E;
+
+  /* === RGB VERSIONS (for rgba() transparency) === */
+  --theme-crimson-rgb: 229, 0, 0;
+  --theme-crimson-bright-rgb: 255, 0, 0;
+  --theme-crimson-dim-rgb: 204, 0, 0;
+  --theme-text-rgb: 224, 224, 224;
+  --theme-text-medium-rgb: 163, 163, 163;
+  --theme-bg-rgb: 18, 18, 18;
+  --theme-bg-raised-rgb: 30, 30, 30;
+
+  /* === DEFAULT FALLBACK === */
+  --callout-color: var(--theme-crimson);
+  --callout-color-rgb: var(--theme-crimson-rgb);
+}

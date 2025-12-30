@@ -1,0 +1,1461 @@
+/* 
+
+
+
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+   ║                    V4D3R UI SYSTEM - Obsidian Snippet                        ║
+   ║                     Complete Workspace Customization                          ║
+   ║                                                                               ║
+   ║  Theme Colors: RED • BLACK • GREY                                            ║
+   ║  Toggle components by commenting/uncommenting sections                        ║
+   ║                                                                               ║
+   ║  Author: TaskMaster Agent | Version: 1.0.0 | Date: 2025-12-29                ║
+   ╚══════════════════════════════════════════════════════════════════════════════╝ */
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PART 1: CORE VARIABLES & COLOR PALETTE
+   Toggle: This section should always remain enabled as foundation
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 1.1 V4D3R COLOR PALETTE - RED/BLACK/GREY Theme                               │
+   │ Uncomment ONE theme variant below (Dark is default)                          │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* === DARK THEME VARIANT (DEFAULT) === */
+.theme-dark {
+  /* Primary Palette */
+  --v4d3r-red-primary: #e93147 !important;  --v4d3r-red-secondary: #ff4757 !important;  --v4d3r-red-accent: #ff6b7a !important;  --v4d3r-red-muted: #8b1e2b !important;  --v4d3r-red-dark: #5c1420 !important;  /* Black Spectrum */
+  --v4d3r-black-pure: #000000 !important;  --v4d3r-black-deep: #0a0a0a !important;  --v4d3r-black-rich: #121212 !important;  --v4d3r-black-soft: #1a1a1a !important;  --v4d3r-black-elevated: #1e1e1e !important;  /* Grey Spectrum */
+  --v4d3r-grey-darkest: #252525 !important;  --v4d3r-grey-dark: #2d2d2d !important;  --v4d3r-grey-mid: #3d3d3d !important;  --v4d3r-grey-light: #555555 !important;  --v4d3r-grey-lighter: #707070 !important;  --v4d3r-grey-lightest: #9a9a9a !important;  /* Semantic Colors */
+  --v4d3r-bg-primary: var(--v4d3r-black-rich) !important;  --v4d3r-bg-secondary: var(--v4d3r-black-soft) !important;  --v4d3r-bg-tertiary: var(--v4d3r-grey-darkest) !important;  --v4d3r-bg-hover: var(--v4d3r-grey-dark) !important;  --v4d3r-bg-active: var(--v4d3r-red-dark) !important;  --v4d3r-text-primary: #e8e8e8 !important;  --v4d3r-text-secondary: #b0b0b0 !important;  --v4d3r-text-muted: #707070 !important;  --v4d3r-text-accent: var(--v4d3r-red-accent) !important;  --v4d3r-border-default: var(--v4d3r-grey-dark) !important;  --v4d3r-border-subtle: var(--v4d3r-grey-darkest) !important;  --v4d3r-border-accent: var(--v4d3r-red-muted) !important;  /* Interactive States */
+  --v4d3r-interactive-normal: var(--v4d3r-grey-dark) !important;  --v4d3r-interactive-hover: var(--v4d3r-grey-mid) !important;  --v4d3r-interactive-active: var(--v4d3r-red-dark) !important;  --v4d3r-interactive-accent: var(--v4d3r-red-primary) !important;  /* Shadows & Glows */
+  --v4d3r-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.5) !important;  --v4d3r-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.6) !important;  --v4d3r-shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.7) !important;  --v4d3r-glow-red: 0 0 10px rgba(233, 49, 71, 0.3) !important;  --v4d3r-glow-red-intense: 0 0 20px rgba(233, 49, 71, 0.5) !important;}
+
+ 
+
+
+/* === LIGHT THEME VARIANT (Uncomment to enable) === */
+/*
+.theme-light {
+  --v4d3r-red-primary: #d32f2f !important;  --v4d3r-red-secondary: #e53935 !important;  --v4d3r-red-accent: #c62828 !important;  --v4d3r-red-muted: #ffcdd2 !important;  --v4d3r-red-dark: #b71c1c !important;  --v4d3r-black-pure: #000000 !important;  --v4d3r-black-deep: #1a1a1a !important;  --v4d3r-black-rich: #2d2d2d !important;  --v4d3r-black-soft: #424242 !important;  --v4d3r-black-elevated: #525252 !important;  --v4d3r-grey-darkest: #757575 !important;  --v4d3r-grey-dark: #9e9e9e !important;  --v4d3r-grey-mid: #bdbdbd !important;  --v4d3r-grey-light: #e0e0e0 !important;  --v4d3r-grey-lighter: #eeeeee !important;  --v4d3r-grey-lightest: #f5f5f5 !important;  --v4d3r-bg-primary: #fafafa !important;  --v4d3r-bg-secondary: #f0f0f0 !important;  --v4d3r-bg-tertiary: #e8e8e8 !important;  --v4d3r-bg-hover: #e0e0e0 !important;  --v4d3r-bg-active: var(--v4d3r-red-muted) !important;  --v4d3r-text-primary: #1a1a1a !important;  --v4d3r-text-secondary: #424242 !important;  --v4d3r-text-muted: #757575 !important;  --v4d3r-text-accent: var(--v4d3r-red-primary) !important;  --v4d3r-border-default: #d0d0d0 !important;  --v4d3r-border-subtle: #e0e0e0 !important;  --v4d3r-border-accent: var(--v4d3r-red-muted) !important;  --v4d3r-interactive-normal: #e8e8e8 !important;  --v4d3r-interactive-hover: #d8d8d8 !important;  --v4d3r-interactive-active: var(--v4d3r-red-muted) !important;  --v4d3r-interactive-accent: var(--v4d3r-red-primary) !important;  --v4d3r-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.1) !important;  --v4d3r-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.15) !important;  --v4d3r-shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.2) !important;  --v4d3r-glow-red: 0 0 10px rgba(211, 47, 47, 0.2) !important;  --v4d3r-glow-red-intense: 0 0 20px rgba(211, 47, 47, 0.4) !important;}
+*/
+
+/* 
+
+
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 1.2 ANIMATION & TRANSITION VARIABLES                                         │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+:root {
+  /* Timing */
+  --v4d3r-transition-fast: 100ms !important;  --v4d3r-transition-normal: 200ms !important;  --v4d3r-transition-slow: 300ms !important;  --v4d3r-transition-slower: 500ms !important;  /* Easing */
+  --v4d3r-ease-default: ease-in-out !important;  --v4d3r-ease-smooth: cubic-bezier(0.4, 0, 0.2, 1) !important;  --v4d3r-ease-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55) !important;  --v4d3r-ease-snap: cubic-bezier(0.25, 1, 0.5, 1) !important;  /* Spacing */
+  --v4d3r-spacing-xs: 4px !important;  --v4d3r-spacing-sm: 8px !important;  --v4d3r-spacing-md: 12px !important;  --v4d3r-spacing-lg: 16px !important;  --v4d3r-spacing-xl: 24px !important;  /* Border Radius */
+  --v4d3r-radius-sm: 4px !important;  --v4d3r-radius-md: 6px !important;  --v4d3r-radius-lg: 8px !important;  --v4d3r-radius-xl: 12px !important;  --v4d3r-radius-full: 9999px !important;}
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 1.3 OBSIDIAN VARIABLE OVERRIDES                                              │
+   │ Toggle: Comment out to use default Obsidian colors                           │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Core Color Overrides --- */
+.theme-dark {
+  /* Override Obsidian's accent color */
+  --accent-h: 352 !important;  --accent-s: 81% !important;  --accent-l: 55% !important;  /* Background overrides */
+  --background-primary: var(--v4d3r-bg-primary) !important;  --background-primary-alt: var(--v4d3r-bg-secondary) !important;  --background-secondary: var(--v4d3r-bg-secondary) !important;  --background-secondary-alt: var(--v4d3r-bg-tertiary) !important;  --background-modifier-hover: var(--v4d3r-bg-hover) !important;  --background-modifier-active-hover: var(--v4d3r-bg-active) !important;  --background-modifier-border: var(--v4d3r-border-default) !important;  --background-modifier-border-hover: var(--v4d3r-border-accent) !important;  --background-modifier-border-focus: var(--v4d3r-red-primary) !important;  /* Text overrides */
+  --text-normal: var(--v4d3r-text-primary) !important;  --text-muted: var(--v4d3r-text-secondary) !important;  --text-faint: var(--v4d3r-text-muted) !important;  --text-accent: var(--v4d3r-red-accent) !important;  --text-accent-hover: var(--v4d3r-red-secondary) !important;  /* Interactive overrides */
+  --interactive-normal: var(--v4d3r-interactive-normal) !important;  --interactive-hover: var(--v4d3r-interactive-hover) !important;  --interactive-accent: var(--v4d3r-red-primary) !important;  --interactive-accent-hover: var(--v4d3r-red-secondary) !important;}
+/* --- END TOGGLE: Core Color Overrides --- */
+
+/* 
+/* ══════════════════════════════════════════════════════════
+   READING WIDTH
+   Optimal line length for readability
+   ══════════════════════════════════════════════════════════ */
+
+.markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-content {
+  max-width: 110ch !important;                 /* 95 characters optimal */
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* ══════════════════════════════════════════════════════════
+   TEXT FORMATTING - Bold and Italic
+   Bold text gets Imperial Gold color
+   ══════════════════════════════════════════════════════════ */
+.theme-dark .markdown-preview-view strong,
+.theme-dark .markdown-source-view.mod-cm6 .cm-strong,
+.cm-strong {
+  color: #e1ff00ff !important;  
+  text-transform: uppercase !important;  /* Capitalize bold text */
+  font-weight: 600 !important;                /* Semi-bold weight */
+}
+.theme-dark .markdown-preview-view em,
+.theme-dark .markdown-source-view.mod-cm6 .cm-em,
+.cm-em {
+  font-style: italic !important;
+  color: var(--ui-text-bright) !important;    /* Bright text for italics */
+}
+─────────────────────────────────────────────────────────────────────────────
+3.2 TABS - Modern rounded style
+──────────────────────────────────────────────────────────────────
+──────────── */
+.theme-dark .workspace-tab-header {
+  background: var(--ui-bg-surface) !important;
+  border: 1px solid var(--ui-border) !important;
+  text-transform: uppercase !important;
+  padding: 0px 4px !important;
+  color: var(--ui-bg-base) !important;
+  font-weight: 100 !important;
+  border-radius: 8px !important;
+  margin-right: 4px !important;
+  box-shadow: 0 10px 15px rgba(255, 0, 0, 0.44) !important;
+  }
+  .theme-dark .workspace-tab-header.is-active {
+  background: #4700005c !important;
+  color: var(--ui-bg-surface) !important;
+  font-weight: 600 !important;
+  box-shadow: 0 10px 15px rgba(255, 0, 0, 1) !important;
+  }
+
+/*
+
+
+/* custom cursor that glows red*/
+.cm-editor .cm-content {
+  caret-color: var(--v4d3r-red-primary) !important;
+}
+.cm-cursor {
+  border-left-color: var(--v4d3r-red-primary) !important;
+  border-left-width: 2px !important;
+  box-shadow: 0 0 8px var(--v4d3r-red-primary) !important;
+}
+
+/* ╔══════════════════════════════════════════════════════════════════════════════╗
+   ║                     SECTION 1: WORKSPACE FOUNDATION                         ║
+   ║               Toggle: Each section can be enabled/disabled                  ║
+   ╚══════════════════════════════════════════════════════════════════════════════╝ */
+/*
+
+
+
+
+
+
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 1.4 WORKSPACE FOUNDATION                                                     │
+   │ Toggle: Base workspace styling                                               │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Workspace Background --- */
+.workspace {
+  background-color: var(--v4d3r-black-deep) !important;}
+
+.workspace-background-modifier-translucent {
+  background-color: var(--v4d3r-bg-primary) !important;}
+/* --- END TOGGLE: Workspace Background --- */
+
+/* --- BEGIN TOGGLE: Divider Styling --- */
+.workspace-leaf-resize-handle {
+  background-color: transparent !important;  border-color: var(--v4d3r-border-subtle) !important;  transition: background-color var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+.workspace-leaf-resize-handle:hover {
+  background-color: var(--v4d3r-red-primary) !important;  border-color: var(--v4d3r-red-primary) !important;}
+
+/* Divider between panes */
+.workspace-split.mod-vertical > .workspace-leaf-resize-handle,
+.workspace-split.mod-horizontal > .workspace-leaf-resize-handle {
+  background-color: var(--v4d3r-border-subtle) !important;}
+
+.workspace-split.mod-vertical > .workspace-leaf-resize-handle:hover,
+.workspace-split.mod-horizontal > .workspace-leaf-resize-handle:hover {
+  background-color: var(--v4d3r-red-primary) !important;}
+/* --- END TOGGLE: Divider Styling --- */
+
+/* --- BEGIN TOGGLE: Scrollbar Customization --- */
+::-webkit-scrollbar {
+  width: 8px !important;  height: 8px !important;}
+
+::-webkit-scrollbar-track {
+  background: var(--v4d3r-bg-primary) !important;  border-radius: var(--v4d3r-radius-full) !important;}
+
+::-webkit-scrollbar-thumb {
+  background: var(--v4d3r-grey-mid) !important;  border-radius: var(--v4d3r-radius-full) !important;  border: 2px solid var(--v4d3r-bg-primary) !important;}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--v4d3r-red-muted) !important;}
+
+::-webkit-scrollbar-thumb:active {
+  background: var(--v4d3r-red-primary) !important;}
+
+/* Thin scrollbar variant */
+::-webkit-scrollbar-corner {
+  background: var(--v4d3r-bg-primary) !important;}
+/* --- END TOGGLE: Scrollbar Customization --- */
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   END OF PART 1 - Core Variables & Foundations
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PART 2: RIBBON & SIDEBAR CUSTOMIZATION
+   Toggle: Each section can be enabled/disabled independently
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.1 RIBBON BASE STYLING                                                      │
+   │ Toggle: Customize ribbon appearance                                          │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Ribbon Base Colors --- */
+.workspace-ribbon {
+  background-color: var(--v4d3r-black-deep) !important;  border-color: var(--v4d3r-border-subtle) !important;}
+
+.workspace-ribbon.mod-left {
+  background-color: var(--v4d3r-black-deep) !important;  border-right: 1px solid var(--v4d3r-border-subtle) !important;}
+
+.workspace-ribbon.mod-left::before {
+  background-color: var(--v4d3r-black-deep) !important;  border-bottom: 1px solid var(--v4d3r-border-subtle) !important;}
+/* --- END TOGGLE: Ribbon Base Colors --- */
+
+/* --- BEGIN TOGGLE: Ribbon Icon Styling --- */
+.workspace-ribbon .sidebar-toggle-button,
+.workspace-ribbon .clickable-icon {
+  color: var(--v4d3r-grey-lighter) !important;  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+.workspace-ribbon .sidebar-toggle-button:hover,
+.workspace-ribbon .clickable-icon:hover {
+  color: var(--v4d3r-red-accent) !important;  background-color: var(--v4d3r-bg-hover) !important;  border-radius: var(--v4d3r-radius-sm) !important;}
+
+.workspace-ribbon .clickable-icon.is-active {
+  color: var(--v4d3r-red-primary) !important;}
+/* --- END TOGGLE: Ribbon Icon Styling --- */
+
+/* --- BEGIN TOGGLE: Colored Ribbon Accent --- */
+
+.workspace-ribbon.mod-left {
+  --titlebar-background-focused: var(--v4d3r-red-dark) !important;  background-color: var(--v4d3r-red-dark)!important !important;}
+
+.workspace-ribbon.mod-left::before,
+.workspace-ribbon.mod-left > .sidebar-toggle-button {
+  --titlebar-background: var(--v4d3r-red-dark) !important;}
+
+.workspace-ribbon.mod-left .clickable-icon {
+  color: rgba(255, 255, 255, 0.8) !important;}
+
+.workspace-ribbon.mod-left .clickable-icon:hover {
+  color: #ffffff !important;  background-color: rgba(74, 63, 63, 0.1) !important;}
+*/
+/* --- END TOGGLE: Colored Ribbon Accent --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.2 IMMERSIVE RIBBON - HIDE ON COLLAPSE                                      │
+   │ Toggle: Ribbon fades/hides when sidebar is collapsed                         │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+ --- BEGIN TOGGLE: Immersive Ribbon (Hide on Collapse) --- */
+.workspace-ribbon.mod-left.is-collapsed {
+  background-color: transparent !important;  transition: background-color var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+.workspace-ribbon.mod-left.is-collapsed 
+  .sidebar-toggle-button,
+.workspace-ribbon.mod-left.is-collapsed 
+  .clickable-icon {
+  opacity: 0 !important;  transition: opacity var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+.workspace-ribbon.mod-left:not(.is-collapsed) 
+  .sidebar-toggle-button,
+.workspace-ribbon.mod-left:not(.is-collapsed) 
+  .clickable-icon {
+  opacity: 1 !important;}
+/* --- END TOGGLE: Immersive Ribbon (Hide on Collapse) --- */
+
+.workspace-ribbon.mod-left {
+  transition: all var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.workspace-ribbon.mod-left::before {
+  transition: all var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.workspace-ribbon.mod-left.is-collapsed {
+  background-color: transparent !important;  border-right-color: transparent !important;}
+
+.workspace-ribbon.mod-left.is-collapsed::before {
+  border-bottom-color: transparent !important;}
+
+ Fade ribbon icons when collapsed, show on hover */
+.workspace-ribbon.mod-left.is-collapsed > :nth-child(n+2) {
+  opacity: 0 !important;  transition: opacity var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.workspace-ribbon.mod-left.is-collapsed:hover > :nth-child(n+2) {
+  opacity: 1 !important;}
+
+/* Keep toggle button visible */
+.workspace-ribbon.mod-left.is-collapsed:hover::before {
+  border-bottom-color: var(--v4d3r-border-subtle) !important;}
+/* --- END TOGGLE: Immersive Ribbon (Hide on Collapse) --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.3 SIDEBAR BASE STYLING                                                     │
+   │ Toggle: Customize left and right sidebar appearance                          │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+   /* --- BEGIN TOGGLE: Sidebar Base Colors --- */
+   .workspace-split.mod-horizontal.mod-left-split,
+   .workspace-split.mod-horizontal.mod-right-split {
+     background-color: var(--v4d3r-black-deep) !important;  border-color: var(--v4d3r-border-subtle) !important;}
+   /* --- END TOGGLE: Sidebar Base Colors --- */
+   
+   /* --- BEGIN TOGGLE: Sidebar Background --- */
+   .mod-left-split,
+   .mod-right-split {
+     background-color: var(--v4d3r-bg-secondary) !important;}
+   
+   .mod-left-split .workspace-tabs,
+   .mod-right-split .workspace-tabs {
+     background-color: var(--v4d3r-bg-secondary) !important;}
+   
+   .workspace-tab-container {
+     background-color: var(--v4d3r-bg-secondary) !important;}
+   /* --- END TOGGLE: Sidebar Background --- */
+
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.4 IMMERSIVE SIDEBAR COLLAPSE                                               │
+   │ Toggle: Sidebar content fades when collapsed                                 │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Immersive Sidebar Collapse --- */
+.workspace-split.mod-horizontal.mod-left-split.is-sidedock-collapsed,
+.workspace-split.mod-horizontal.mod-right-split.is-sidedock-collapsed {
+  background-color: transparent !important;}
+
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed 
+  .workspace-tabs .workspace-tab-header-container,
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed 
+  .workspace-tabs .workspace-tab-container,
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed 
+  .workspace-tabs .workspace-leaf-resize-handle {
+  opacity: 0 !important;  transition: opacity var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.workspace-split.mod-horizontal:is(.mod-left-split, .mod-right-split).is-sidedock-collapsed 
+  .workspace-tabs.mod-top .workspace-tab-header-container {
+  opacity: 1 !important;}
+/* --- END TOGGLE: Immersive Sidebar Collapse --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.5 SIDEBAR CONNECTION LINES                                                 │
+   │ Toggle: Visual hierarchy lines in navigation                                 │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Navigation Connection Lines --- */
+/* File explorer and nav folder connection lines */
+.nav-folder-children .nav-folder-children {
+  margin-left: 10px !important;  padding-left: 10px !important;  border-left: 1px solid var(--v4d3r-grey-dark) !important;  border-radius: var(--v4d3r-radius-sm) !important;  transition: border-color var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.nav-folder-children .nav-folder-children:hover {
+  border-left-color: var(--v4d3r-red-muted) !important;}
+
+/* Outline pane connection lines */
+.outline .tree-item-children {
+  margin-left: 12px !important;  padding-left: 8px !important;  border-left: 1px solid var(--v4d3r-grey-dark) !important;  border-radius: var(--v4d3r-radius-sm) !important;  transition: border-color var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+
+.outline .tree-item-children:hover {
+  border-left-color: var(--v4d3r-red-muted) !important;}
+
+/* Backlinks connection lines */
+.backlink-pane .tree-item-children {
+  margin-left: 12px !important;  padding-left: 8px !important;  border-left: 1px solid var(--v4d3r-grey-dark) !important;  border-radius: var(--v4d3r-radius-sm) !important;}
+/* --- END TOGGLE: Navigation Connection Lines --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.6 SIDEBAR RESIZE HANDLE ACCENT                                             │
+   │ Toggle: Red accent on resize handle hover                                    │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Sidebar Resize Handle --- */
+.mod-left-split > .workspace-leaf-resize-handle,
+.mod-right-split > .workspace-leaf-resize-handle {
+  background-color: transparent !important;  transition: background-color var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+.mod-left-split > .workspace-leaf-resize-handle:hover,
+.mod-right-split > .workspace-leaf-resize-handle:hover {
+  background-color: var(--v4d3r-red-primary) !important;}
+/* --- END TOGGLE: Sidebar Resize Handle --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.7 COLLAPSIBLE RIBBON WIDTH                                                 │
+   │ Toggle: Make ribbon super thin when collapsed                                │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Thin Collapsed Ribbon --- */
+
+.workspace-ribbon.mod-left.is-collapsed {
+  width: 0px !important;  overflow: hidden !important;}
+
+.workspace-ribbon.mod-left.is-collapsed:hover {
+  width: var(--ribbon-width) !important;  overflow: visible !important;}
+*/
+/* --- END TOGGLE: Thin Collapsed Ribbon --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 2.8 VERTICAL LABELED NAVIGATION (Left Sidebar)                               │
+   │ Toggle: Show text labels next to sidebar icons                               │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Vertical Label Navigation --- */
+
+.mod-left-split .mod-top .workspace-tab-header-container {
+  flex-direction: column-reverse !important !important;  height: auto !important;  width: 100% !important;}
+
+.mod-left-split .mod-top .workspace-tab-header-container .workspace-tab-container-inner {
+  flex-direction: column !important !important;  background-color: var(--v4d3r-bg-secondary) !important;  gap: 0 !important;  padding: var(--v4d3r-spacing-sm) var(--v4d3r-spacing-md) !important;}
+
+.mod-left-split .mod-top .workspace-tab-header {
+  padding: 0 !important;  margin-bottom: 2px !important;  height: auto !important;}
+
+.mod-left-split .mod-top .workspace-tab-header .workspace-tab-header-inner {
+  gap: var(--v4d3r-spacing-xs) !important;  padding: var(--v4d3r-spacing-xs) var(--v4d3r-spacing-sm) !important;}
+
+.mod-left-split .mod-top .workspace-tab-header-inner-title {
+  display: inline-block !important;  font-weight: 500 !important;  font-size: 0.85em !important;}
+
+.mod-left-split .mod-top .workspace-tab-header-spacer {
+  display: none !important;}
+*/
+/* --- END TOGGLE: Vertical Label Navigation --- */
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   END OF PART 2 - Ribbon & Sidebar
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+   
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PART 3: TABS & TAB BAR CUSTOMIZATION
+   Toggle: Each section can be enabled/disabled independently
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.1 TAB HEADER BASE STYLING                                                  │
+   │ Toggle: Core tab appearance and colors                                       │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Tab Header Base --- */
+.workspace-tab-header-container {
+  background-color: var(--v4d3r-bg-tertiary) !important;  border-bottom: 1px solid var(--v4d3r-border-subtle) !important;  padding: 0 !important;}
+
+.workspace-tab-header {
+  color: var(--v4d3r-text-muted) !important;  background-color: transparent !important;  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+.workspace-tab-header:hover {
+  color: var(--v4d3r-text-primary) !important;  background-color: var(--v4d3r-bg-hover) !important;}
+
+.workspace-tab-header.is-active {
+  color: var(--v4d3r-text-primary) !important;  background-color: var(--v4d3r-bg-primary) !important;}
+
+/* Active tab indicator line */
+.workspace-tab-header.is-active::after {
+  content: '' !important;  position: absolute !important;  bottom: 0 !important;  left: 0 !important;  right: 0 !important;  height: 2px !important;  background-color: var(--v4d3r-red-primary) !important;}
+/* --- END TOGGLE: Tab Header Base --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.2 SQUARE TABS                                                              │
+   │ Toggle: Remove rounded corners from tabs                                     │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Square Tabs --- */
+.workspace-tab-header {
+  border-radius: 0 !important !important;}
+
+.workspace-tab-header-inner {
+  border-radius: 0 !important;}
+
+.workspace-tab-header-container-inner {
+  gap: 0 !important;}
+
+/* Add subtle separator between tabs */
+.workspace-tab-header:not(:last-child) {
+  border-right: 1px solid var(--v4d3r-border-subtle) !important;}
+/* --- END TOGGLE: Square Tabs --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.3 COLORED TAB CONTAINER                                                    │
+   │ Toggle: Red accent for tab container background                              │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Colored Tab Container --- */
+/*
+.mod-root .workspace-tab-header-container {
+  background-color: var(--v4d3r-red-dark) !important;  border-bottom: none !important;}
+
+.mod-root .workspace-tab-header {
+  color: rgba(255, 255, 255, 0.7) !important;}
+
+.mod-root .workspace-tab-header:hover {
+  color: #ffffff !important;  background-color: rgba(255, 255, 255, 0.1) !important;}
+
+.mod-root .workspace-tab-header.is-active {
+  color: #ffffff !important;  background-color: var(--v4d3r-bg-primary) !important;}
+
+.mod-root .workspace-tab-header.is-active::after {
+  background-color: #ffffff !important;}
+*/
+/* --- END TOGGLE: Colored Tab Container --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.4 STACKED TABS STYLING                                                     │
+   │ Toggle: Enhanced stacked/vertical tab appearance                             │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Stacked Tabs Base --- */
+.workspace-tabs.mod-stacked .workspace-tab-header-container {
+  background-color: var(--v4d3r-bg-tertiary) !important;  border-bottom: none !important;  border-right: 1px solid var(--v4d3r-border-subtle) !important;}
+
+.workspace-tabs.mod-stacked .workspace-tab-header {
+  background-color: transparent !important;  border-bottom: 1px solid var(--v4d3r-border-subtle) !important;}
+
+.workspace-tabs.mod-stacked .workspace-tab-header:hover {
+  background-color: var(--v4d3r-bg-hover) !important;}
+
+.workspace-tabs.mod-stacked .workspace-tab-header.is-active {
+  background-color: var(--v4d3r-bg-primary) !important;}
+
+/* Active indicator for stacked tabs - left border instead of bottom */
+.workspace-tabs.mod-stacked .workspace-tab-header.is-active::before {
+  content: '' !important;  position: absolute !important;  left: 0 !important;  top: 0 !important;  bottom: 0 !important;  width: 3px !important;  background-color: var(--v4d3r-red-primary) !important;}
+
+.workspace-tabs.mod-stacked .workspace-tab-header.is-active::after {
+  display: none !important;}
+/* --- END TOGGLE: Stacked Tabs Base --- */
+
+/* --- BEGIN TOGGLE: Stacked Tabs Vertical Text --- */
+/*
+.workspace-tabs.mod-stacked .workspace-tab-header .workspace-tab-header-inner-title {
+  writing-mode: vertical-rl !important;  text-orientation: mixed !important;  transform: rotate(180deg) !important;  white-space: nowrap !important;  font-size: 0.85em !important;  letter-spacing: 0.5px !important;}
+*/
+/* --- END TOGGLE: Stacked Tabs Vertical Text --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.5 COMPACT TABS                                                             │
+   │ Toggle: Reduce tab height and padding                                        │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Compact Tabs --- */
+/*
+.workspace-tab-header-container {
+  --tab-container-height: 32px !important;}
+
+.workspace-tab-header {
+  min-height: 28px !important;  padding-top: 2px !important;  padding-bottom: 2px !important;}
+
+.workspace-tab-header-inner {
+  padding: 2px 8px !important;  font-size: 0.9em !important;}
+
+.workspace-tab-header-inner-icon {
+  width: 14px !important;  height: 14px !important;}
+*/
+/* --- END TOGGLE: Compact Tabs --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.6 PINNED TAB STYLING                                                       │
+   │ Toggle: Special appearance for pinned tabs                                   │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Pinned Tab Styling --- */
+.workspace-tab-header.is-pinned {
+  background-color: var(--v4d3r-bg-tertiary) !important;  position: relative !important;}
+
+.workspace-tab-header.is-pinned::before {
+  content: '' !important;  position: absolute !important;  top: 4px !important;  left: 4px !important;  width: 6px !important;  height: 6px !important;  background-color: var(--v4d3r-red-accent) !important;  border-radius: 50% !important;  opacity: 0.8 !important;}
+
+.workspace-tab-header.is-pinned:hover::before {
+  opacity: 1 !important;  animation: pulse 1.5s ease-in-out infinite !important;}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.2); opacity: 1; }
+}
+/* --- END TOGGLE: Pinned Tab Styling --- */
+
+/* --- BEGIN TOGGLE: Pinned Tab Icon Only --- */
+/*
+.workspace-tab-header.is-pinned .workspace-tab-header-inner-title {
+  display: none !important;}
+
+.workspace-tab-header.is-pinned {
+  max-width: 40px !important;  min-width: 40px !important;}
+
+.workspace-tab-header.is-pinned .workspace-tab-header-inner {
+  justify-content: center !important;}
+*/
+/* --- END TOGGLE: Pinned Tab Icon Only --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.7 TAB CLOSE BUTTON STYLING                                                 │
+   │ Toggle: Customize close button appearance                                    │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Tab Close Button --- */
+.workspace-tab-header-inner-close-button {
+  color: var(--v4d3r-text-muted) !important;  opacity: 0 !important;  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.workspace-tab-header:hover .workspace-tab-header-inner-close-button {
+  opacity: 1 !important;}
+
+.workspace-tab-header-inner-close-button:hover {
+  color: var(--v4d3r-red-primary) !important;  background-color: var(--v4d3r-red-muted) !important;  border-radius: var(--v4d3r-radius-sm) !important;}
+/* --- END TOGGLE: Tab Close Button --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.8 TAB FADE EFFECT                                                          │
+   │ Toggle: Inactive tabs fade for focus                                         │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Tab Fade Effect --- */
+
+.workspace-tab-header:not(.is-active) {
+  opacity: 0.6 !important;}
+
+.workspace-tab-header:not(.is-active):hover {
+  opacity: 0.9 !important;}
+
+.workspace-tab-header-container:hover .workspace-tab-header:not(.is-active) {
+  opacity: 0.8 !important;}
+*/
+/* --- END TOGGLE: Tab Fade Effect --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.9 NEW TAB BUTTON STYLING                                                   │
+   │ Toggle: Customize the new tab button                                         │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: New Tab Button --- */
+.workspace-tab-header-new-tab {
+  color: var(--v4d3r-text-muted) !important;  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+.workspace-tab-header-new-tab:hover {
+  color: var(--v4d3r-red-accent) !important;  background-color: var(--v4d3r-bg-hover) !important;  border-radius: var(--v4d3r-radius-sm) !important;}
+/* --- END TOGGLE: New Tab Button --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 3.10 TAB DIVIDER STYLING                                                     │
+   │ Toggle: Custom dividers between tabs                                         │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Tab Dividers --- */
+
+.workspace-tab-header-container-inner::before {
+  content: '' !important;  position: absolute !important;  left: 0 !important;  right: 0 !important;  bottom: 0 !important;  height: 1px !important;  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    var(--v4d3r-red-muted) 20%,
+    var(--v4d3r-red-primary) 50%,
+    var(--v4d3r-red-muted) 80%,
+    transparent 100%
+  ) !important;}
+*/
+/* --- END TOGGLE: Tab Dividers --- */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   END OF PART 3 - Tabs & Tab Bar
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PART 4: STATUS BAR & TITLEBAR CUSTOMIZATION
+   Toggle: Each section can be enabled/disabled independently
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.1 STATUS BAR BASE STYLING                                                  │
+   │ Toggle: Core status bar appearance                                           │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Status Bar Base --- */
+.status-bar {
+  background-color: var(--v4d3r-red-primary) !important;  border-top: 1px solid var(--v4d3r-border-subtle) !important;  color: var(--v4d3r-text-muted) !important;  font-size: 0.85em !important;  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+.status-bar-item {
+  color: var(--v4d3r-red-primary) !important;  transition: color var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.status-bar-item:hover {
+  color: var(--v4d3r-text-primary) !important;}
+
+.status-bar-item.mod-clickable:hover {
+  color: var(--v4d3r-red-accent) !important;}
+/* --- END TOGGLE: Status Bar Base --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.2 STATUS BAR FADE ON HOVER                                                 │
+   │ Toggle: Status bar fades until hovered                                       │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Status Bar Fade --- */
+.status-bar {
+  opacity: 0.4 !important;}
+
+.status-bar:hover {
+  opacity: 1 !important;  background-color: var(--v4d3r-bg-secondary) !important;}
+/* --- END TOGGLE: Status Bar Fade --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.3 HIDDEN STATUS BAR                                                        │
+   │ Toggle: Completely hide status bar                                           │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Hidden Status Bar --- */
+/*
+.status-bar {
+  display: none !important !important;}
+*/
+/* --- END TOGGLE: Hidden Status Bar --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.4 MINIMAL STATUS BAR                                                       │
+   │ Toggle: Thin, minimal status bar                                             │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Minimal Status Bar --- */
+/*
+.status-bar {
+  --status-bar-font-size: 11px !important;  height: 20px !important;  padding: 0 8px !important;  background-color: transparent !important;  border-top: none !important;}
+
+.status-bar-item {
+  padding: 0 4px !important;}
+*/
+/* --- END TOGGLE: Minimal Status Bar --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.5 STATUS BAR ACCENT STYLING                                                │
+   │ Toggle: Red accented status bar                                              │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Status Bar Accent --- */
+/*
+.status-bar {
+  background: linear-gradient(
+    90deg,
+    var(--v4d3r-bg-tertiary) 0%,
+    var(--v4d3r-red-dark) 50%,
+    var(--v4d3r-bg-tertiary) 100%
+  ) !important;  border-top: 1px solid var(--v4d3r-red-muted) !important;}
+
+.status-bar-item {
+  color: rgba(255, 255, 255, 0.7) !important;}
+
+.status-bar-item:hover {
+  color: #ffffff !important;}
+*/
+/* --- END TOGGLE: Status Bar Accent --- */
+
+
+
+
+
+
+
+
+
+
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 4.11 WORD COUNT STYLING                                                      │
+   │ Toggle: Enhanced word count display                                          │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Word Count Styling --- */
+.status-bar-item.plugin-word-count {
+  color: var(--v4d3r-red-accent) !important;  font-family: 'JetBrains Mono', 'Fira Code', monospace !important;  font-size: 0.8em !important;}
+
+.status-bar-item.plugin-word-count:hover {
+  color: var(--v4d3r-spin#5c1420) !important;}
+/* --- END TOGGLE: Word Count Styling --- */
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   END OF PART 4 - Status Bar & Titlebar
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PART 5: FILE EXPLORER & NAVIGATION
+   Toggle: Each section can be enabled/disabled independently
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 5.1 FILE EXPLORER BASE STYLING                                               │
+   │ Toggle: Core file explorer appearance                                        │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: File Explorer Base --- */
+.nav-folder-title,
+.nav-file-title {
+  color: var(--v4d3r-text-secondary) !important;  border-radius: var(--v4d3r-radius-sm) !important;  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.nav-folder-title:hover,
+.nav-file-title:hover {
+  color: var(--v4d3r-text-primary) !important;  background-color: var(--v4d3r-bg-hover) !important;}
+
+.nav-file-title.is-active {
+  color: var(--v4d3r-text-primary) !important;  background-color: var(--v4d3r-bg-active) !important;}
+
+/* Folder collapse icon */
+.nav-folder-collapse-indicator {
+  color: var(--v4d3r-grey-base) !important;  transition: transform var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.nav-folder.is-collapsed .nav-folder-collapse-indicator {
+  transform: rotate(-90deg) !important;}
+/* --- END TOGGLE: File Explorer Base --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 5.2 FOLDER ACCENT COLORING                                                   │
+   │ Toggle: Red accent for folder names                                          │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Folder Accent Coloring --- */
+.nav-folder-title-content {
+  color: var(--v4d3r-red-accent) !important;  font-weight: 500 !important;}
+
+.nav-folder.is-collapsed .nav-folder-title-content {
+  color: var(--v4d3r-text-muted) !important;}
+
+.nav-folder-title:hover .nav-folder-title-content {
+  color: var(--v4d3r-red-primary) !important;}
+/* --- END TOGGLE: Folder Accent Coloring --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 5.3 RAINBOW FOLDER BACKGROUNDS                                               │
+   │ Toggle: Depth-based folder coloring                                          │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Rainbow Folder Backgrounds --- */
+/*
+.nav-folder-children .nav-folder-children {
+  background-color: rgba(220, 38, 38, 0.03) !important;}
+
+.nav-folder-children .nav-folder-children .nav-folder-children {
+  background-color: rgba(220, 38, 38, 0.05) !important;}
+
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder-children {
+  background-color: rgba(220, 38, 38, 0.07) !important;}
+
+.nav-folder-children .nav-folder-children .nav-folder-children .nav-folder-children .nav-folder-children {
+  background-color: rgba(220, 38, 38, 0.09) !important;}
+*/
+/* --- END TOGGLE: Rainbow Folder Backgrounds --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 5.4 FILE TYPE ICONS                                                          │
+   │ Toggle: Custom icons based on file extension                                 │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: File Type Icons --- */
+/* Markdown files */
+.nav-file-title[data-path$=".md"] .nav-file-title-content::before {
+  content: "📄 " !important;  font-size: 0.9em !important;}
+
+/* Canvas files */
+.nav-file-title[data-path$=".canvas"] .nav-file-title-content::before {
+  content: "🎨 " !important;  font-size: 0.9em !important;}
+
+/* PDF files */
+.nav-file-title[data-path$=".pdf"] .nav-file-title-content::before {
+  content: "📕 " !important;  font-size: 0.9em !important;}
+
+/* Image files */
+.nav-file-title[data-path$=".png"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".jpg"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".jpeg"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".gif"] .nav-file-title-content::before,
+.nav-file-title[data-path$=".svg"] .nav-file-title-content::before {
+  content: "🖼️ " !important;  font-size: 0.9em !important;}
+
+/* Excalidraw */
+.nav-file-title[data-path$=".excalidraw.md"] .nav-file-title-content::before {
+  content: "✏️ " !important;  font-size: 0.9em !important;}
+/* --- END TOGGLE: File Type Icons --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 5.5 FOLDER ICONS                                                             │
+   │ Toggle: Custom folder icons                                                  │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Folder Icons --- */
+.nav-folder-title-content::before {
+  content: "📁 " !important;  font-size: 0.85em !important;}
+
+.nav-folder.is-collapsed .nav-folder-title-content::before {
+  content: "📂 " !important;}
+
+/* Special folders */
+.nav-folder-title[data-path="00-inbox"] .nav-folder-title-content::before,
+.nav-folder-title[data-path*="inbox"] .nav-folder-title-content::before {
+  content: "📥 " !important;}
+
+.nav-folder-title[data-path*="archive"] .nav-folder-title-content::before,
+.nav-folder-title[data-path*="99-archive"] .nav-folder-title-content::before {
+  content: "🗄️ " !important;}
+
+.nav-folder-title[data-path*="template"] .nav-folder-title-content::before {
+  content: "📋 " !important;}
+
+.nav-folder-title[data-path*="daily"] .nav-folder-title-content::before {
+  content: "📅 " !important;}
+
+.nav-folder-title[data-path*="project"] .nav-folder-title-content::before {
+  content: "🎯 " !important;}
+
+.nav-folder-title[data-path*="script"] .nav-folder-title-content::before {
+  content: "⚙️ " !important;}
+/* --- END TOGGLE: Folder Icons --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 5.6 FILE EXPLORER HOVER REVEAL                                               │
+   │ Toggle: Show additional info on hover                                        │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Hover Reveal File Count --- */
+/*
+.nav-folder-title::after {
+  content: attr(data-count) !important;  opacity: 0 !important;  color: var(--v4d3r-text-muted) !important;  font-size: 0.75em !important;  margin-left: auto !important;  padding-left: 8px !important;  transition: opacity var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.nav-folder-title:hover::after {
+  opacity: 1 !important;}
+*/
+/* --- END TOGGLE: Hover Reveal File Count --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 5.7 ACTIVE FILE ACCENT                                                       │
+   │ Toggle: Strong accent for active file                                        │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Active File Accent --- */
+.nav-file-title.is-active {
+  background-color: var(--v4d3r-red-muted) !important;  border-left: 3px solid var(--v4d3r-red-primary) !important;  padding-left: calc(var(--nav-item-padding) - 3px) !important;}
+
+.nav-file-title.is-active .nav-file-title-content {
+  color: var(--v4d3r-text-primary) !important;  font-weight: 500 !important;}
+/* --- END TOGGLE: Active File Accent --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 5.8 SEARCH RESULTS STYLING                                                   │
+   │ Toggle: Enhanced search result appearance                                    │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Search Results Styling --- */
+.search-result-file-title {
+  color: var(--v4d3r-red-accent) !important;  font-weight: 500 !important;}
+
+.search-result-file-matched-text {
+  color: var(--v4d3r-text-primary) !important;  background-color: var(--v4d3r-red-muted) !important;  padding: 0 2px !important;  border-radius: 2px !important;}
+
+.search-result-file-match {
+  border-left: 2px solid var(--v4d3r-red-muted) !important;  padding-left: 8px !important;  margin-left: 8px !important;}
+
+.search-result-file-match:hover {
+  border-left-color: var(--v4d3r-red-primary) !important;  background-color: var(--v4d3r-bg-hover) !important;}
+/* --- END TOGGLE: Search Results Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 5.9 TAG PANE STYLING                                                         │
+   │ Toggle: Enhanced tag appearance                                              │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Tag Pane Styling --- */
+.tag-pane-tag {
+  color: var(--v4d3r-text-secondary) !important;  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.tag-pane-tag:hover {
+  color: var(--v4d3r-red-accent) !important;  background-color: var(--v4d3r-bg-hover) !important;}
+
+.tag-pane-tag-count {
+  color: var(--v4d3r-grey-base) !important;  background-color: var(--v4d3r-bg-tertiary) !important;  border-radius: var(--v4d3r-radius-sm) !important;  padding: 0 4px !important;  font-size: 0.8em !important;}
+
+.tag-pane-tag:hover .tag-pane-tag-count {
+  background-color: var(--v4d3r-red-muted) !important;  color: var(--v4d3r-text-primary) !important;}
+/* --- END TOGGLE: Tag Pane Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 5.10 BOOKMARKS/STARRED STYLING                                               │
+   │ Toggle: Enhanced bookmarks appearance                                        │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Bookmarks Styling --- */
+.bookmark-item {
+  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.bookmark-item:hover {
+  background-color: var(--v4d3r-bg-hover) !important;}
+
+.bookmark-item .nav-file-title-content::before {
+  content: "⭐ " !important;  font-size: 0.85em !important;}
+
+/* Bookmark groups */
+.bookmark-group-title {
+  color: var(--v4d3r-red-accent) !important;  font-weight: 500 !important;}
+/* --- END TOGGLE: Bookmarks Styling --- */
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   END OF PART 5 - File Explorer & Navigation
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   PART 6: ADVANCED FEATURES & SPECIAL EFFECTS
+   Toggle: Each section can be enabled/disabled independently
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.1 TRANSLUCENT MODALS                                                       │
+   │ Toggle: Blur effect behind modals and popups                                 │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Translucent Modals --- */
+.modal-bg {
+  background-color: rgba(0, 0, 0, 0.7) !important;  backdrop-filter: blur(8px) !important;  -webkit-backdrop-filter: blur(8px) !important;}
+
+.modal {
+  background-color: var(--v4d3r-bg-primary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-radius: var(--v4d3r-radius-lg) !important;  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5) !important;}
+
+.modal-title {
+  color: var(--v4d3r-text-primary) !important;  border-bottom: 1px solid var(--v4d3r-border-subtle) !important;}
+
+.modal-close-button {
+  color: var(--v4d3r-text-muted) !important;  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.modal-close-button:hover {
+  color: var(--v4d3r-red-primary) !important;  background-color: var(--v4d3r-red-muted) !important;}
+/* --- END TOGGLE: Translucent Modals --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.2 COMMAND PALETTE STYLING                                                  │
+   │ Toggle: Enhanced command palette appearance                                  │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Command Palette Styling --- */
+.prompt {
+  background-color: var(--v4d3r-bg-secondary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-radius: var(--v4d3r-radius-lg) !important;  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5) !important;}
+
+.prompt-input-container {
+  background-color: var(--v4d3r-bg-primary) !important;  border-bottom: 1px solid var(--v4d3r-border-subtle) !important;}
+
+.prompt-input {
+  color: var(--v4d3r-text-primary) !important;}
+
+.prompt-input::placeholder {
+  color: var(--v4d3r-text-muted) !important;}
+
+.suggestion-item {
+  color: var(--v4d3r-text-secondary) !important;  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.suggestion-item.is-selected {
+  background-color: var(--v4d3r-bg-active) !important;  color: var(--v4d3r-text-primary) !important;  border-left: 3px solid var(--v4d3r-red-primary) !important;}
+
+.suggestion-hotkey {
+  color: var(--v4d3r-grey-base) !important;  background-color: var(--v4d3r-bg-tertiary) !important;  border-radius: var(--v4d3r-radius-sm) !important;  padding: 2px 6px !important;  font-size: 0.8em !important;}
+/* --- END TOGGLE: Command Palette Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.3 TOOLTIP STYLING                                                          │
+   │ Toggle: Enhanced tooltip appearance                                          │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Tooltip Styling --- */
+.tooltip {
+  background-color: var(--v4d3r-black-deep) !important;  color: var(--v4d3r-text-primary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-radius: var(--v4d3r-radius-md) !important;  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4) !important;  font-size: 0.85em !important;  padding: 6px 10px !important;}
+
+.tooltip .tooltip-arrow {
+  border-color: var(--v4d3r-black-deep) !important;}
+/* --- END TOGGLE: Tooltip Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.4 MENU STYLING                                                             │
+   │ Toggle: Enhanced context menu and dropdown appearance                        │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Menu Styling --- */
+.menu {
+  background-color: var(--v4d3r-bg-secondary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-radius: var(--v4d3r-radius-md) !important;  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4) !important;  padding: 4px !important;}
+
+.menu-item {
+  color: var(--v4d3r-text-secondary) !important;  border-radius: var(--v4d3r-radius-sm) !important;  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.menu-item:hover {
+  background-color: var(--v4d3r-bg-hover) !important;  color: var(--v4d3r-text-primary) !important;}
+
+.menu-item.is-warning:hover {
+  background-color: var(--v4d3r-red-muted) !important;  color: var(--v4d3r-red-primary) !important;}
+
+.menu-separator {
+  background-color: var(--v4d3r-border-subtle) !important;  margin: 4px 0 !important;}
+/* --- END TOGGLE: Menu Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.5 EMPTY STATE STYLING                                                      │
+   │ Toggle: Style for empty tabs and panes                                       │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Empty State Styling --- */
+.empty-state {
+  color: var(--v4d3r-text-muted) !important;}
+
+.empty-state-title {
+  color: var(--v4d3r-text-secondary) !important;  font-size: 1.2em !important;  margin-bottom: 8px !important;}
+
+.empty-state-action {
+  color: var(--v4d3r-red-accent) !important;  transition: color var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.empty-state-action:hover {
+  color: var(--v4d3r-red-primary) !important;}
+
+/* New tab empty state */
+.workspace-leaf-content[data-type="empty"] {
+  background: radial-gradient(
+    ellipse at center,
+    var(--v4d3r-bg-secondary) 0%,
+    var(--v4d3r-bg-primary) 70%
+  ) !important;}
+/* --- END TOGGLE: Empty State Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.6 LOADING ANIMATION                                                        │
+   │ Toggle: Custom loading spinner                                               │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Loading Animation --- */
+.loading-container {
+  color: var(--v4d3r-red-accent) !important;}
+
+/* Custom spinner animation */
+@keyframes v4d3r-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-icon {
+  animation: v4d3r-spin 1s linear infinite !important;}
+
+/* Progress bar */
+.progress-bar {
+  background-color: var(--v4d3r-bg-tertiary) !important;  border-radius: var(--v4d3r-radius-sm) !important;  overflow: hidden !important;}
+
+.progress-bar-inner {
+  background: linear-gradient(
+    90deg,
+    var(--v4d3r-red-dark) 0%,
+    var(--v4d3r-red-primary) 50%,
+    var(--v4d3r-red-accent) 100%
+  ) !important;  transition: width var(--v4d3r-transition-slow) var(--v4d3r-ease-default) !important;}
+/* --- END TOGGLE: Loading Animation --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.7 NOTICE/NOTIFICATION STYLING                                              │
+   │ Toggle: Enhanced notification appearance                                     │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Notice Styling --- */
+.notice {
+  background-color: var(--v4d3r-bg-secondary) !important;  color: var(--v4d3r-text-primary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-left: 4px solid var(--v4d3r-red-primary) !important;  border-radius: var(--v4d3r-radius-md) !important;  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3) !important;}
+
+.notice-container {
+  padding: 12px 16px !important;}
+
+/* Success notice */
+.notice.mod-success {
+  border-left-color: #4ade80 !important;}
+
+/* Warning notice */
+.notice.mod-warning {
+  border-left-color: #fbbf24 !important;}
+
+/* Error notice */
+.notice.mod-error {
+  border-left-color: var(--v4d3r-red-primary) !important;  background-color: var(--v4d3r-red-muted) !important;}
+/* --- END TOGGLE: Notice Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.8 BUTTON STYLING                                                           │
+   │ Toggle: Enhanced button appearance                                           │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Button Styling --- */
+button {
+  background-color: var(--v4d3r-bg-tertiary) !important;  color: var(--v4d3r-text-secondary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-radius: var(--v4d3r-radius-md) !important;  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+
+button:hover {
+  background-color: var(--v4d3r-bg-hover) !important;  color: var(--v4d3r-text-primary) !important;  border-color: var(--v4d3r-grey-base) !important;}
+
+button.mod-cta {
+  background-color: var(--v4d3r-red-primary) !important;  color: #ffffff !important;  border-color: var(--v4d3r-red-primary) !important;}
+
+button.mod-cta:hover {
+  background-color: var(--v4d3r-red-accent) !important;  border-color: var(--v4d3r-red-accent) !important;}
+
+button.mod-warning {
+  background-color: transparent !important;  color: var(--v4d3r-red-primary) !important;  border-color: var(--v4d3r-red-primary) !important;}
+
+button.mod-warning:hover {
+  background-color: var(--v4d3r-red-muted) !important;}
+/* --- END TOGGLE: Button Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.9 INPUT FIELD STYLING                                                      │
+   │ Toggle: Enhanced input and textarea appearance                               │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Input Field Styling --- */
+input[type="text"],
+input[type="search"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+textarea {
+  background-color: var(--v4d3r-bg-primary) !important;  color: var(--v4d3r-text-primary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-radius: var(--v4d3r-radius-sm) !important;  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+input:focus,
+textarea:focus {
+  border-color: var(--v4d3r-red-accent) !important;  box-shadow: 0 0 0 2px var(--v4d3r-red-muted) !important;  outline: none !important;}
+
+input::placeholder,
+textarea::placeholder {
+  color: var(--v4d3r-text-muted) !important;}
+/* --- END TOGGLE: Input Field Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.10 CHECKBOX & TOGGLE STYLING                                               │
+   │ Toggle: Enhanced checkbox and toggle switch appearance                       │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Checkbox Styling --- */
+.checkbox-container {
+  background-color: var(--v4d3r-bg-tertiary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-radius: var(--v4d3r-radius-sm) !important;  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.checkbox-container:hover {
+  border-color: var(--v4d3r-grey-base) !important;}
+
+.checkbox-container.is-enabled {
+  background-color: var(--v4d3r-red-primary) !important;  border-color: var(--v4d3r-red-primary) !important;}
+
+/* Toggle switch */
+.setting-item-control .checkbox-container {
+  width: 40px !important;  height: 22px !important;  border-radius: 11px !important;}
+
+.checkbox-container::after {
+  background-color: var(--v4d3r-grey-lighter) !important;  border-radius: 50% !important;  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.checkbox-container.is-enabled::after {
+  background-color: #ffffff !important;}
+/* --- END TOGGLE: Checkbox Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.11 SETTINGS PANEL STYLING                                                  │
+   │ Toggle: Enhanced settings modal appearance                                   │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Settings Panel Styling --- */
+.modal.mod-settings {
+  background-color: var(--v4d3r-bg-primary) !important;}
+
+.vertical-tab-header {
+  background-color: var(--v4d3r-bg-secondary) !important;  border-right: 1px solid var(--v4d3r-border-subtle) !important;}
+
+.vertical-tab-nav-item {
+  color: var(--v4d3r-text-muted) !important;  transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+
+.vertical-tab-nav-item:hover {
+  color: var(--v4d3r-text-primary) !important;  background-color: var(--v4d3r-bg-hover) !important;}
+
+.vertical-tab-nav-item.is-active {
+  color: var(--v4d3r-red-accent) !important;  background-color: var(--v4d3r-bg-active) !important;  border-left: 3px solid var(--v4d3r-red-primary) !important;}
+
+.setting-item {
+  border-top: 1px solid var(--v4d3r-border-subtle) !important;  padding: 16px 0 !important;}
+
+.setting-item-name {
+  color: var(--v4d3r-text-primary) !important;  font-weight: 500 !important;}
+
+.setting-item-description {
+  color: var(--v4d3r-text-muted) !important;}
+/* --- END TOGGLE: Settings Panel Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.12 GRAPH VIEW STYLING                                                      │
+   │ Toggle: Enhanced graph view appearance                                       │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Graph View Styling --- */
+.graph-view.color-fill {
+  color: var(--v4d3r-red-accent) !important;}
+
+.graph-view.color-fill-highlight {
+  color: var(--v4d3r-red-primary) !important;}
+
+.graph-view.color-line {
+  color: var(--v4d3r-grey-dark) !important;}
+
+.graph-view.color-line-highlight {
+  color: var(--v4d3r-red-muted) !important;}
+
+.graph-view.color-text {
+  color: var(--v4d3r-text-secondary) !important;}
+
+.graph-view.color-fill-attachment {
+  color: var(--v4d3r-grey-base) !important;}
+
+.graph-view.color-fill-unresolved {
+  color: var(--v4d3r-grey-dark) !important;}
+
+/* Graph controls */
+.graph-controls {
+  background-color: var(--v4d3r-bg-secondary) !important;  border: 1px solid var(--v4d3r-border-subtle) !important;  border-radius: var(--v4d3r-radius-md) !important;}
+/* --- END TOGGLE: Graph View Styling --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.13 CARD LAYOUT MODE                                                        │
+   │ Toggle: Card-style layout for workspace leaves                               │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Card Layout Mode --- */
+
+.workspace-leaf {
+  background-color: var(--v4d3r-bg-secondary) !important;
+  border: 1px solid var(--v4d3r-border-subtle) !important;
+  border-radius: var(--v4d3r-radius-lg) !important;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2) !important;
+  margin: 16px !important;
+  overflow: hidden !important;
+  transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -webkit-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -moz-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -ms-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+  -o-transition: all var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+}
+
+.workspace-leaf:hover {
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3) !important;
+  transform: translateY(-4px) !important;
+  -webkit-transform: translateY(-4px) !important;
+  -moz-transform: translateY(-4px) !important;
+  -ms-transform: translateY(-4px) !important;
+  -o-transform: translateY(-4px) !important;
+}
+.workspace-leaf .workspace-leaf-content {
+  border-radius: var(--v4d3r-radius-lg) !important;
+  overflow: hidden !important;
+}
+
+/* --- END TOGGLE: Card Layout Mode --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.14 FOCUS MODE ENHANCEMENT                                                  │
+   │ Toggle: Dim everything except active pane                                    │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Focus Mode --- */
+
+/*.workspace-leaf:not(.is-active) {
+  opacity: 0.4 !important;  pointer-events: none !important;
+  transition: opacity var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+.workspace-leaf.is-active {
+  opacity: 1 !important;  pointer-events: auto !important;
+  transition: opacity var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}*/
+/* --- END TOGGLE: Focus Mode --- */
+
+/* ┌──────────────────────────────────────────────────────────────────────────────┐
+   │ 6.15 ACCENT GLOW EFFECTS                                                     │
+   │ Toggle: Subtle glow effects on interactive elements                          │
+   └──────────────────────────────────────────────────────────────────────────────┘ */
+
+/* --- BEGIN TOGGLE: Accent Glow Effects --- */
+
+.button:hover,
+.menu-item:hover,
+.tab-bar-tab:hover,
+.nav-file-title:hover,
+.nav-folder-title:hover,
+.status-bar-item:hover {
+  box-shadow: 0 0 8px var(--v4d3r-red-accent) !important;  transition: box-shadow var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;}
+.button:active,
+.menu-item:active,
+.tab-bar-tab:active,
+.nav-file-title:active,
+.nav-folder-title:active,
+.status-bar-item:active {
+  box-shadow: 0 0 12px var(--v4d3r-red-primary) !important;
+  transition: box-shadow var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
+  -webkit-transition: box-shadow var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
+  -moz-transition: box-shadow var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
+  -ms-transition: box-shadow var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
+  -o-transition: box-shadow var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
+}
+
+/* --- END TOGGLE: Accent Glow Effects --- */
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   END OF PART 6 - Advanced Features & Special Effects
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   V4D3R UI SYSTEM - COMPLETE
+   
+   📁 File: v4d3r-ui-system.css
+   🎨 Theme: RED / BLACK / GREY
+   📦 Total Toggleable Sections: 50+
+   
+   ═══════════════════════════════════════════════════════════════════════════════
+   
+   USAGE INSTRUCTIONS:
+   
+   1. ENABLE SNIPPET:
+      Settings → Appearance → CSS Snippets → Enable "v4d3r-ui-system"
+   
+   2. TOGGLE FEATURES:
+      • Active features are uncommented (default ON)
+      • Disabled features are wrapped in /* ... */ comments
+      • To ENABLE: Remove /* at start and */ at end of the toggle block
+      • To DISABLE: Add /* at start and */ at end of the toggle block
+   
+   3. TOGGLE BLOCK FORMAT:
+      /* --- BEGIN TOGGLE: Feature Name --- */
+      [CSS rules here]
+      /* --- END TOGGLE: Feature Name --- */
+   
+   4. CUSTOMIZATION:
+      • Modify colors in Section 1.1 (V4D3R Color Palette)
+      • Adjust timing in Section 1.2 (Animation Variables)
+      • All variables use --v4d3r-* namespace
+   
+   5. LIGHT THEME:
+      • Uncomment the :root.theme-light section in Part 1
+      • Colors will automatically adjust for light mode
+   
+   ═══════════════════════════════════════════════════════════════════════════════
+   
+   PARTS SUMMARY:
+   
+   Part 1: Core Variables & Foundations (Sections 1.1-1.4)
+   Part 2: Ribbon & Sidebar (Sections 2.1-2.8)
+   Part 3: Tabs & Tab Bar (Sections 3.1-3.10)
+   Part 4: Status Bar & Titlebar (Sections 4.1-4.11)
+   Part 5: File Explorer & Navigation (Sections 5.1-5.10)
+   Part 6: Advanced Features (Sections 6.1-6.15)
+   
+   ═══════════════════════════════════════════════════════════════════════════════
+   
+   Created by: V4D3R UI System Generator
+   Version: 1.0.0
+   Last Updated: December 2025
+   
+   ═══════════════════════════════════════════════════════════════════════════════ */
+
+
+
+
+   

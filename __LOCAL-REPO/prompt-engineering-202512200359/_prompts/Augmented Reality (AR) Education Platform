@@ -1,0 +1,53 @@
+Create a responsive AR education platform using React Native for cross-platform mobile development
+Implement ARKit for iOS and ARCore for Android integration via react-native-ar-kit
+Design an intuitive, child-friendly UI using React Native Paper for consistent styling
+Use MobX for state management and efficient rendering of AR components
+Create a secure user authentication system with parental controls using Firebase Auth
+Implement a content management system for educators to create and upload AR lessons
+Design an interactive AR book scanner using computer vision (OpenCV) for triggering content
+Create a 3D object recognition system for real-world learning experiences
+Implement real-time multiplayer AR experiences using Photon networking engine
+Design a virtual lab system for science experiments with realistic physics simulations
+Create an AR-based language learning module with object recognition and translation
+Implement a gamification system with AR-based quests and rewards
+Design an AR map overlay for geography lessons with interactive landmarks
+Create a historical reenactment feature using AR for immersive history lessons
+Implement an AR-based math problem solver with step-by-step visualizations
+Design a virtual art studio with AR painting and sculpture tools
+Create an AR-based music learning system with virtual instruments
+Implement a planetary system simulator with scale AR models of celestial bodies
+Design an AR-based anatomy learning module with layered body systems
+Create a DNA and molecular structure visualizer using AR for biology lessons
+Implement an AR-based storytelling platform with interactive narratives
+Design a virtual field trip system with AR overlays of distant locations
+Create an AR-based sign language learning module with gesture recognition
+Implement a botany learning feature with AR plant identification and growth simulation
+Design an AR-based architectural design tool for geometry and engineering lessons
+Create a virtual archaeology dig site with AR-based artifact discovery
+Implement an AR-based weather visualization system for meteorology lessons
+Design a virtual ecosystem simulator with AR animal and plant interactions
+Create an AR-based coding learning platform with visual programming blocks
+Implement a chemistry lab with AR-based molecular modeling and reactions
+Design an AR-based physics playground for experimenting with forces and motion
+Create a virtual time machine with AR historical overlays on current locations
+Implement an AR-based creative writing prompt generator with 3D scenes
+Design a virtual museum tour system with AR exhibit information overlays
+Create an AR-based math puzzle solver with 3D shape manipulation
+Implement a geography quiz system with AR map projections and landforms
+Design an AR-based language pronunciation coach with mouth movement overlay
+Create a virtual trading and economy simulator with AR-based resource management
+Implement an AR-based musical composition tool with 3D note placement
+Design a virtual debate platform with AR-based argument mapping
+Create an AR-based logic puzzle system with 3D problem-solving scenarios
+Implement a virtual genetics lab with AR-based gene splicing and mutation simulations
+Design an AR-based literary analysis tool with 3D character and plot mapping
+Create a virtual civics and government simulator with AR voting and policy making
+Implement an AR-based probability and statistics visualizer with 3D graphs
+Design a virtual archaeology lab with AR-based artifact reconstruction
+Create an AR-based renewable energy simulator with virtual power plant construction
+Implement a virtual forensics lab with AR-based crime scene investigation tools
+Design an AR-based color theory and art history explorer with painting deconstruction
+Create a virtual ecology field research tool with AR species tagging and tracking
+Implement an AR-based geometry proof assistant with 3D theorem visualization
+Design a virtual debate moderator with AR-based fact-checking and source citation
+Create an AR-based historical document analyzer with text overlay and translation

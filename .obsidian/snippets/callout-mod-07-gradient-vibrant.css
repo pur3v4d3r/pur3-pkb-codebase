@@ -1,0 +1,139 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ CALLOUT MODIFIER: Gradient Vibrant Colors
+
+ Purpose: Add colorful gradient backgrounds to callouts
+ Effect: Multi-color gradients, vibrant appearance, eye-catching design
+ Inspired by: Modern UI kits, gradient design trend, creative interfaces
+ Compatible with: Dark themes (best), light themes (tone down opacity)
+
+ Enable this snippet for:
+ - Beautiful gradient backgrounds
+ - Multi-tone color schemes
+ - Vibrant, energetic appearance
+ - Modern design aesthetic
+ - Creative/design-focused notes
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* Gradient base - adapts to callout color */
+.callout {
+  background: linear-gradient(135deg,
+    rgba(var(--callout-color), 0.15) 0%,
+    rgba(var(--callout-color), 0.05) 50%,
+    rgba(var(--callout-color), 0.12) 100%) !important;
+  border-left: 4px solid rgb(var(--callout-color)) !important;
+  position: relative !important;
+  overflow: hidden !important;
+}
+
+/* Animated gradient overlay */
+.callout::before {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  background: linear-gradient(45deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.03) 50%,
+    transparent 100%) !important;
+  background-size: 200% 200% !important;
+  animation: gradientShift 8s ease infinite !important;
+  pointer-events: none !important;
+  opacity: 1 !important;
+}
+
+@keyframes gradientShift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* Gradient title */
+.callout-title {
+  background: linear-gradient(135deg,
+    rgba(var(--callout-color), 0.25) 0%,
+    rgba(var(--callout-color), 0.15) 100%) !important;
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+/* Add subtle shine effect */
+.callout-title::after {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: -100% !important;
+  width: 100% !important;
+  height: 100% !important;
+  background: linear-gradient(90deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.1) 50%,
+    transparent 100%) !important;
+  animation: shine 3s infinite !important;
+  pointer-events: none !important;
+  opacity: 1 !important;
+}
+
+@keyframes shine {
+  0% { left: -100%; }
+  100% { left: 200%; }
+}
+
+/* Gradient content */
+.callout-content {
+  background: linear-gradient(180deg,
+    rgba(var(--callout-color), 0.06) 0%,
+    rgba(var(--callout-color), 0.03) 100%) !important;
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+/* Enhanced gradient on hover */
+.callout:hover {
+  background: linear-gradient(135deg,
+    rgba(var(--callout-color), 0.22) 0%,
+    rgba(var(--callout-color), 0.10) 50%,
+    rgba(var(--callout-color), 0.18) 100%) !important;
+  box-shadow:
+    0 0 30px rgba(var(--callout-color), 0.4),
+    0 8px 32px rgba(0, 0, 0, 0.4) !important;
+}
+
+.callout:hover .callout-title {
+  background: linear-gradient(135deg,
+    rgba(var(--callout-color), 0.35) 0%,
+    rgba(var(--callout-color), 0.22) 100%) !important;
+}
+
+/* Special gradients for specific callout families */
+
+/* Purple family - Purple to blue gradient */
+.callout[data-callout="question"],
+.callout[data-callout="info"],
+.callout[data-callout="note"] {
+  background: linear-gradient(135deg,
+    rgba(138, 43, 226, 0.15) 0%,
+    rgba(75, 0, 130, 0.08) 50%,
+    rgba(123, 104, 238, 0.12) 100%) !important;
+}
+
+/* Teal family - Teal to cyan gradient */
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="success"] {
+  background: linear-gradient(135deg,
+    rgba(64, 224, 208, 0.15) 0%,
+    rgba(224, 224, 224, 0.08) 50%,
+    rgba(127, 255, 212, 0.12) 100%) !important;
+}
+
+/* Gold family - Gold to orange gradient */
+.callout[data-callout="example"],
+.callout[data-callout="warning"] {
+  background: linear-gradient(135deg,
+    rgba(255, 215, 0, 0.15) 0%,
+    rgba(255, 140, 0, 0.08) 50%,
+    rgba(255, 165, 0, 0.12) 100%) !important;
+}

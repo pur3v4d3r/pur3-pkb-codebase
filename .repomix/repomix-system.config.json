@@ -1,0 +1,33 @@
+{
+  "$schema": "https://repomix.com/schemas/latest/schema.json", 
+  "$comment": "System Focus - For analyzing automation and system components",
+  "input": {
+    "maxFileSize": 1048576
+  },
+  "output": {
+    "filePath": "system-analysis.md",
+    "style": "markdown",
+    "headerText": "# ⚙️ System Architecture Analysis\n\n**Focus**: Scripts, automation, and system components\n**Generated**: {date}\n\n---\n\n"
+  },
+  "include": [
+    "99-scripts/**",
+    "99-system/**", 
+    "__LOCAL-REPO/**",
+    "__agents/**",
+    "__skills/**",
+    "__plugins/**",
+    "**/*.js",
+    "**/*.py",
+    "**/*.json",
+    "**/*.sh"
+  ],
+  "ignore": {
+    "useGitignore": true,
+    "useDotIgnore": true,
+    "customPatterns": [
+      "**/node_modules/**",
+      "**/temp/**",
+      "**/*.log"
+    ]
+  }
+}

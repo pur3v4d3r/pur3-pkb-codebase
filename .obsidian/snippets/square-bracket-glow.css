@@ -1,0 +1,158 @@
+/* ══════════════════════════════════════════════════════════════════════════════════
+   SQUARE BRACKET RED GLOW SYSTEM - FOCUSED VERSION
+   Ultra-targeted approach to make ALL square brackets glow red
+   ══════════════════════════════════════════════════════════════════════════════════ */
+
+/* ═══ CORE VARIABLES ═══ */
+:root {
+  --red-glow: #ff0000;
+  --red-glow-bright: #ff3333;
+  --red-shadow: rgba(255, 0, 0, 0.9);
+  --bracket-shadow: 0 0 4px var(--red-shadow), 0 0 8px var(--red-shadow);
+}
+
+/* ═══ OBSIDIAN INTERNAL LINKS - Most Common Use Case ═══ */
+/* Link formatting brackets in source mode */
+.cm-formatting.cm-formatting-link {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  filter: brightness(1.2) !important;
+}
+
+/* Link brackets in CodeMirror */
+.cm-s-obsidian .cm-formatting.cm-formatting-link {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+}
+
+/* Modern CM6 link formatting */
+.markdown-source-view.mod-cm6 .cm-formatting-link {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+}
+
+/* ═══ ALL BRACKET-LIKE PUNCTUATION ═══ */
+/* Universal bracket targeting */
+.cm-s-obsidian .cm-bracket,
+.cm-editor .cm-bracket,
+.cm-punctuation,
+.token.punctuation.bracket,
+span.cm-bracket {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* ═══ TAG FORMATTING BRACKETS ═══ */
+.cm-formatting.cm-formatting-hashtag,
+.cm-hashtag .cm-formatting {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* ═══ READING MODE - ADD VISUAL BRACKETS ═══ */
+/* Add red glowing brackets around internal links in reading mode */
+.markdown-preview-view .internal-link:before,
+.markdown-rendered .internal-link:before {
+  content: '[';
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  margin-right: 1px;
+}
+
+.markdown-preview-view .internal-link:after,
+.markdown-rendered .internal-link:after {
+  content: ']';
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  margin-left: 1px;
+}
+
+/* ═══ CODE CONTEXTS ═══ */
+/* Syntax highlighting in code blocks */
+.HyperMD-codeblock .cm-bracket,
+.cm-s-obsidian.cm-s-obsidian .cm-bracket,
+pre[class*="language-"] .token.bracket,
+.hljs-selector-attr {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* ═══ SPECIFIC LANGUAGE CONTEXTS ═══ */
+/* JavaScript array/object brackets */
+.language-javascript .token.bracket,
+.language-js .token.bracket,
+.language-typescript .token.bracket,
+.language-ts .token.bracket {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* Python list/dict brackets */
+.language-python .token.bracket,
+.language-py .token.bracket {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* CSS attribute selectors */
+.language-css .token.selector,
+.language-scss .token.selector {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* ═══ DATAVIEW PLUGIN SUPPORT ═══ */
+.block-language-dataview .cm-bracket,
+.block-language-dataviewjs .cm-bracket {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+}
+
+/* ═══ TEMPLATER PLUGIN SUPPORT ═══ */
+.templater-command,
+.tp-command {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+
+/* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
+.theme-dark {
+  --red-shadow: rgba(255, 0, 0, 1.0);
+  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 6px var(--red-shadow), 0 0 9px var(--red-shadow);
+}
+
+.theme-light {
+  --red-shadow: rgba(255, 0, 0, 0.8);
+  --bracket-shadow: 0 0 2px var(--red-shadow), 0 0 4px var(--red-shadow);
+}
+
+/* ═══ NUCLEAR OPTION - CATCH-ALL ═══ */
+/* This targets any text content that contains [ or ] characters */
+/* Use with caution as it may affect performance */
+
+/*
+.workspace-leaf-content * {
+  filter: contrast(1.1);
+}
+
+.workspace-leaf-content *:has-text('['),
+.workspace-leaf-content *:has-text(']') {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+*/
+
+/* ═══ TESTING CLASS ═══ */
+/* Add class="test-brackets" to any element to test the effect */
+.test-brackets,
+.test-brackets * {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  background: rgba(255, 0, 0, 0.1) !important;
+}

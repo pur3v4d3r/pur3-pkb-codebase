@@ -1,0 +1,78 @@
+
+Create a responsive {product category} e-commerce site using WooCommerce with WordPress
+Implement a customizable homepage with dynamic product showcase and featured categories
+Design a sticky header with logo, mega menu, search bar, account, and cart icons
+Use Gutenberg blocks for flexible content creation and layout design
+Create a grid-based product catalog with quick view, wishlist, and AJAX add-to-cart
+Implement WooCommerce Product Search with filters for price, ratings, and attributes
+Design category pages with sortable lists, grid/list view toggle, and product comparison
+Create detailed product pages with image zoom, gallery slider, and related products
+Implement user accounts with order history, saved addresses, and dashboard
+Design a multi-step checkout process with guest checkout option and progress indicator
+
+Image Specifications:
+- Use high-quality, optimized images (JPEG for photos, PNG for graphics with transparency)
+- Implement lazy loading for images using a WordPress plugin like "a3 Lazy Load"
+- Set appropriate image sizes: product thumbnails (300x300px), category images (800x600px), hero images (1920x1080px)
+- Compress images using tools like TinyPNG or ShortPixel
+- Implement WebP format with fallback for broader browser support
+- Use srcset and sizes attributes for responsive images
+
+Open Source Image Resources:
+- Unsplash (https://unsplash.com): High-quality, royalty-free images
+- Pexels (https://www.pexels.com): Free stock photos and videos
+- Pixabay (https://pixabay.com): Royalty-free images, illustrations, and vectors
+- StockSnap.io (https://stocksnap.io): High-resolution photos with CC0 license
+- Burst (https://burst.shopify.com): Free stock photos for entrepreneurs
+
+Video Resources:
+- Coverr (https://coverr.co): Free stock video footage
+- Mixkit (https://mixkit.co): Free video clips and music
+
+Audio/Music Resources:
+- Free Music Archive (https://freemusicarchive.org): CC-licensed music
+- ccMixter (http://ccmixter.org): Community music remixes with various CC licenses
+
+Implement schema markup for products, reviews, and organization using Yoast SEO
+Design a responsive footer with newsletter signup using MailChimp integration
+Create a wishlist feature using YITH WooCommerce Wishlist plugin
+Implement a review system with photo uploads using WooCommerce Product Reviews Pro
+Design a size guide with measurements table using Advanced Custom Fields
+Create a product configurator for customizable items using WooCommerce Product Add-ons
+Implement a loyalty program using WooCommerce Points and Rewards
+Design an abandoned cart recovery system using AutomateWoo
+Create a responsive FAQ page using Ultimate FAQ plugin
+Implement a live chat feature using LiveChat for WooCommerce
+
+Design a blog section with WooCommerce Products block for shoppable posts
+Create a PWA (Progressive Web App) version using PWA for WP & AMP plugin
+Implement AR features for applicable products using WooCommerce AR/VR plugin
+Design a gift guide with curated collections using WooCommerce Product Bundles
+Create a sustainability page using Elementor page builder
+Implement dynamic pricing with Dynamic Pricing & Discounts for WooCommerce
+Design a virtual shopping assistant using Chatbot for WooCommerce
+Create a user-generated content gallery with WooCommerce Instagram integration
+Implement one-click reorder functionality using WooCommerce One Click Upsell
+Design an order tracking page with map view using WooCommerce Shipment Tracking
+
+Create a product bundle builder using WooCommerce Composite Products
+Implement dynamic upsells using WooCommerce Product Recommendations
+Design a responsive size chart using WooCommerce Product Size Charts
+Create a flash sale page with countdown timer using WooCommerce Sale Countdown
+Implement a returns portal using WooCommerce Returns and Warranty Requests
+Design an affiliate program dashboard using AffiliateWP
+Create a customer support ticket system using WP Support Plus Responsive Ticket System
+Implement voice search using Voice Search WooCommerce
+Design a store locator with WP Store Locator
+Create a product comparison tool using YITH WooCommerce Compare
+
+Implement multi-currency support using WooCommerce Multi-Currency
+Design a gift registry with WooCommerce Gift Registry
+Create a visual search feature using AI-Powered Visual Search for WooCommerce
+Implement a subscription management system using WooCommerce Subscriptions
+Design a product customization tool using WooCommerce Product Add-Ons Ultimate
+Create a trade-in program using WooCommerce Trade-In
+Implement a virtual queue system using WooCommerce Waitlist
+Design a dark mode with WP Dark Mode plugin
+Create an accessibility toolbar using WP Accessibility Helper
+Implement AMP (Accelerated Mobile Pages) for product pages using AMP for WP plugin

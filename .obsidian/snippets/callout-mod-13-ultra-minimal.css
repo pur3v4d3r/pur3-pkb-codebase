@@ -1,0 +1,87 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ CALLOUT MODIFIER: Ultra Minimal Clean
+
+ Purpose: Absolute minimal styling - clean text-first approach
+ Effect: Nearly invisible container, subtle left accent, no backgrounds
+ Inspired by: iOS minimalism, text-centric design
+ Compatible with: All themes, especially for distraction-free reading
+
+ Enable this snippet for:
+ - Maximum content focus
+ - Zero visual clutter
+ - Subtle left accent only
+ - Text-first approach
+ - Ultra-professional clean look
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* Ultra-minimal base - almost invisible */
+.callout {
+  background: transparent !important;
+  border: none !important;
+  border-left: 3px solid rgba(var(--callout-color, var(--theme-crimson-rgb)), 0.5) !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  margin: 1.2em 0 !important;
+  box-shadow: none !important;
+}
+
+/* Remove all decorative elements */
+.callout::before,
+.callout::after {
+  display: none !important;
+}
+
+/* Clean title - no background */
+.callout-title {
+  background: transparent !important;
+  border: none !important;
+  padding: 4px 0 4px 16px !important;
+  color: rgb(var(--callout-color, var(--theme-crimson-rgb))) !important;
+  font-weight: 500 !important;
+  font-size: 0.95em !important;
+  letter-spacing: 0.02em !important;
+  margin: 0 !important;
+}
+
+/* Title underline removed */
+.callout-title::after {
+  display: none !important;
+}
+
+/* Icon minimal styling */
+.callout-icon {
+  opacity: 0.7 !important;
+  margin-right: 8px !important;
+}
+
+/* Content with subtle left padding */
+.callout-content {
+  background: transparent !important;
+  padding: 8px 0 8px 16px !important;
+  border: none !important;
+}
+
+/* Subtle hover - barely noticeable */
+.callout:hover {
+  border-left-color: rgb(var(--callout-color, var(--theme-crimson-rgb))) !important;
+  border-left-width: 4px !important;
+  transform: none !important;
+  box-shadow: none !important;
+}
+
+.callout:hover .callout-title {
+  color: rgb(var(--callout-color, var(--theme-crimson-rgb))) !important;
+  background: transparent !important;
+}
+
+.callout:hover .callout-icon {
+  opacity: 1 !important;
+}
+
+/* No effects on nested callouts */
+.callout .callout {
+  margin: 0.8em 0 !important;
+  padding-left: 0 !important;
+}

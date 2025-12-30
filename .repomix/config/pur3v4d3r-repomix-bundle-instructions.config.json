@@ -1,0 +1,1029 @@
+{
+  "repomix": {
+    "version": "2.0.0",
+    "config": {
+      "output": {
+        "filePath": "D:\\10_pur3v4d3r's-vault\\.repomix\\output",
+        "fileName": "ai-optimized-repo-analysis.txt",
+        "format": ["txt", "json", "yaml", "md"],
+        "includeMetrics": true,
+        "includeDependencyMap": true,
+        "includeComplexityAnalysis": true
+      },
+      "ignore": {
+        "files": [
+          "node_modules/*",
+          "*.log",
+          ".git/*",
+          "dist/*",
+          "build/*",
+          "coverage/*",
+          ".next/*",
+          ".nuxt/*",
+          ".vscode/*",
+          ".idea/*",
+          "*.min.js",
+          "*.min.css",
+          ".env.local",
+          ".env.development",
+          ".env.production",
+          "package-lock.json",
+          "yarn.lock",
+          "pnpm-lock.yaml",
+          ".DS_Store",
+          "Thumbs.db",
+          "*.tmp",
+          "*.temp",
+          ".cache/*",
+          ".parcel-cache/*",
+          ".rollup.cache/*",
+          "*.bundle.js"
+        ],
+        "directories": [
+          "node_modules",
+          "vendor",
+          ".git",
+          "dist",
+          "build",
+          "out",
+          "_site",
+          "public/assets/compiled",
+          ".vercel",
+          ".netlify"
+        ],
+        "patterns": [
+          "**/*.map",
+          "**/.env.*",
+          "**/coverage/**",
+          "**/cypress/screenshots/**",
+          "**/cypress/videos/**"
+        ]
+      },
+      "include": {
+        "patterns": ["*.*"],
+        "priorityPatterns": [
+          "**/README.*",
+          "**/package.json",
+          "**/tsconfig.json",
+          "**/webpack.config.*",
+          "**/vite.config.*",
+          "**/next.config.*",
+          "**/nuxt.config.*",
+          "**/.eslintrc.*",
+          "**/prettier.config.*",
+          "**/tailwind.config.*",
+          "**/jest.config.*",
+          "**/cypress.config.*",
+          "**/playwright.config.*",
+          "**/docker-compose.*",
+          "**/Dockerfile*",
+          "**/.github/workflows/**",
+          "**/src/main.*",
+          "**/src/index.*",
+          "**/src/app.*"
+        ]
+      }
+    },
+    "sorting": {
+      "enabled": true,
+      "primarySort": {
+        "by": "directory",
+        "order": [
+          "src",
+          "app", 
+          "pages",
+          "components",
+          "lib",
+          "utils",
+          "hooks",
+          "services",
+          "api",
+          "stores",
+          "contexts",
+          "types",
+          "interfaces",
+          "models",
+          "schemas",
+          "config",
+          "constants",
+          "assets",
+          "public",
+          "static",
+          "styles",
+          "css",
+          "scss",
+          "tests",
+          "test",
+          "__tests__",
+          "e2e",
+          "cypress",
+          "playwright",
+          "docs",
+          "documentation",
+          "scripts",
+          "tools",
+          "build"
+        ]
+      },
+      "secondarySort": {
+        "by": "fileType",
+        "priority": [
+          "entryPoints",
+          "source",
+          "types",
+          "tests",
+          "config",
+          "styles",
+          "markup",
+          "assets",
+          "docs",
+          "others"
+        ],
+        "fileTypeGroups": {
+          "entryPoints": [".js", ".ts", ".jsx", ".tsx", ".py", ".go", ".rs", ".java", ".cpp", ".c"],
+          "source": [
+            ".js", ".mjs", ".cjs", 
+            ".ts", ".mts", ".cts",
+            ".jsx", ".tsx",
+            ".vue", ".svelte",
+            ".py", ".pyx",
+            ".java", ".kt", ".scala",
+            ".cpp", ".cc", ".cxx", ".c", ".h", ".hpp",
+            ".go", ".rs", ".rb", ".php",
+            ".swift", ".m", ".mm",
+            ".dart", ".elm"
+          ],
+          "types": [
+            ".d.ts", 
+            ".types.ts",
+            ".interface.ts",
+            ".model.ts",
+            ".schema.ts",
+            ".proto"
+          ],
+          "tests": [
+            ".test.js", ".test.ts", ".test.jsx", ".test.tsx",
+            ".spec.js", ".spec.ts", ".spec.jsx", ".spec.tsx", 
+            ".test.py", ".spec.py",
+            ".e2e.js", ".e2e.ts",
+            ".cy.js", ".cy.ts"
+          ],
+          "config": [
+            ".json", ".jsonc", ".json5",
+            ".yml", ".yaml", 
+            ".toml", ".ini", ".env", 
+            ".conf", ".cfg", ".config",
+            ".mjs", ".cjs"
+          ],
+          "styles": [
+            ".css", ".scss", ".sass", ".less", ".styl", ".stylus",
+            ".pcss", ".postcss"
+          ],
+          "markup": [
+            ".html", ".htm", ".xhtml",
+            ".xml", ".svg", 
+            ".jsx", ".tsx", ".vue", ".svelte",
+            ".mdx", ".astro"
+          ],
+          "assets": [
+            ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".ico",
+            ".woff", ".woff2", ".ttf", ".eot", ".otf",
+            ".mp4", ".mov", ".avi", ".webm",
+            ".mp3", ".wav", ".ogg"
+          ],
+          "docs": [
+            ".md", ".mdx", ".txt", ".rst", ".adoc", ".asciidoc",
+            ".doc", ".docx", ".pdf"
+          ]
+        }
+      },
+      "tertiarySort": {
+        "by": "fileName",
+        "order": "alphabetical",
+        "caseSensitive": false
+      },
+      "keywordTitleSorting": {
+        "enabled": true,
+        "description": "Sort files based on keywords found in file titles/names",
+        "caseSensitive": false,
+        "matchType": "partial",
+        "keywordGroups": {
+          "critical_keywords": {
+            "priority": 1,
+            "keywords": [
+              "index",
+              "main", 
+              "app",
+              "entry",
+              "bootstrap",
+              "init",
+              "setup",
+              "config",
+              "settings"
+            ],
+            "description": "Files with these keywords get highest priority"
+          },
+          "architecture_keywords": {
+            "priority": 2,
+            "keywords": [
+              "architecture",
+              "design",
+              "pattern",
+              "structure",
+              "framework",
+              "core",
+              "base",
+              "foundation",
+              "schema",
+              "model"
+            ],
+            "description": "Architecture and design-related files"
+          },
+          "business_logic_keywords": {
+            "priority": 3,
+            "keywords": [
+              "service",
+              "controller",
+              "handler",
+              "processor",
+              "manager",
+              "factory",
+              "builder",
+              "provider",
+              "resolver",
+              "adapter"
+            ],
+            "description": "Business logic and processing files"
+          },
+          "data_keywords": {
+            "priority": 4,
+            "keywords": [
+              "data",
+              "database",
+              "repo",
+              "repository",
+              "dao",
+              "entity",
+              "model",
+              "schema",
+              "migration",
+              "seed"
+            ],
+            "description": "Data layer and persistence files"
+          },
+          "api_keywords": {
+            "priority": 5,
+            "keywords": [
+              "api",
+              "endpoint",
+              "route",
+              "router",
+              "middleware",
+              "auth",
+              "guard",
+              "interceptor",
+              "filter",
+              "request"
+            ],
+            "description": "API and routing related files"
+          },
+          "ui_keywords": {
+            "priority": 6,
+            "keywords": [
+              "component",
+              "view",
+              "page",
+              "template",
+              "layout",
+              "widget",
+              "element",
+              "ui",
+              "interface",
+              "form"
+            ],
+            "description": "UI and presentation layer files"
+          },
+          "utility_keywords": {
+            "priority": 7,
+            "keywords": [
+              "util",
+              "helper",
+              "tool",
+              "common",
+              "shared",
+              "lib",
+              "library",
+              "plugin",
+              "extension",
+              "mixin"
+            ],
+            "description": "Utility and helper files"
+          },
+          "test_keywords": {
+            "priority": 8,
+            "keywords": [
+              "test",
+              "spec",
+              "mock",
+              "stub",
+              "fixture",
+              "e2e",
+              "integration",
+              "unit",
+              "cypress",
+              "jest"
+            ],
+            "description": "Testing related files"
+          },
+          "build_keywords": {
+            "priority": 9,
+            "keywords": [
+              "build",
+              "webpack",
+              "vite",
+              "rollup",
+              "babel",
+              "eslint",
+              "prettier",
+              "docker",
+              "deploy",
+              "ci"
+            ],
+            "description": "Build and deployment files"
+          },
+          "custom_user_keywords": {
+            "priority": 10,
+            "keywords": [
+              "PLACEHOLDER_1",
+              "PLACEHOLDER_2", 
+              "PLACEHOLDER_3",
+              "PLACEHOLDER_4",
+              "PLACEHOLDER_5"
+            ],
+            "description": "Add your custom keywords here - replace PLACEHOLDER_X with your specific keywords"
+          }
+        },
+        "fallbackSorting": {
+          "enabled": true,
+          "method": "alphabetical",
+          "description": "How to sort files that don't match any keywords"
+        },
+        "advancedMatching": {
+          "enableFuzzyMatching": false,
+          "enableRegexPatterns": false,
+          "enableWordBoundaries": true,
+          "enableStemming": false,
+          "customPatterns": {
+            "camelCase": true,
+            "kebabCase": true, 
+            "snakeCase": true,
+            "pascalCase": true
+          }
+        }
+      },
+      "customSorting": {
+        "byImportance": {
+          "critical": [
+            "package.json",
+            "composer.json",
+            "Cargo.toml",
+            "go.mod",
+            "pyproject.toml",
+            "setup.py",
+            "README.md",
+            "index.js",
+            "index.ts", 
+            "main.js",
+            "main.ts",
+            "main.py",
+            "app.js",
+            "app.ts",
+            "App.jsx",
+            "App.tsx",
+            "App.vue",
+            "App.svelte"
+          ],
+          "important": [
+            "tsconfig.json",
+            "jsconfig.json", 
+            "webpack.config.js",
+            "webpack.config.ts",
+            "vite.config.js",
+            "vite.config.ts",
+            "next.config.js",
+            "next.config.mjs",
+            "nuxt.config.js",
+            "nuxt.config.ts",
+            "svelte.config.js",
+            "astro.config.mjs",
+            "rollup.config.js",
+            "rollup.config.ts",
+            "babel.config.js",
+            "babel.config.json",
+            ".eslintrc.js",
+            ".eslintrc.json",
+            ".eslintrc.yml",
+            "prettier.config.js",
+            "prettier.config.json",
+            "tailwind.config.js",
+            "tailwind.config.ts",
+            "postcss.config.js",
+            "jest.config.js",
+            "jest.config.ts",
+            "vitest.config.ts",
+            "cypress.config.js",
+            "cypress.config.ts",
+            "playwright.config.js",
+            "playwright.config.ts",
+            "docker-compose.yml",
+            "docker-compose.yaml",
+            "Dockerfile",
+            ".env.example"
+          ],
+          "framework_specific": [
+            "_app.js",
+            "_app.tsx",
+            "_document.js", 
+            "_document.tsx",
+            "layout.js",
+            "layout.tsx",
+            "page.js", 
+            "page.tsx",
+            "loading.js",
+            "loading.tsx",
+            "error.js",
+            "error.tsx",
+            "not-found.js",
+            "not-found.tsx",
+            "+layout.svelte",
+            "+page.svelte",
+            "+page.server.js",
+            "+layout.server.js"
+          ],
+          "standard": "*"
+        },
+        "byFramework": {
+          "react": {
+            "entryPoints": ["src/index.js", "src/index.tsx", "src/App.jsx", "src/App.tsx"],
+            "important": ["src/components/", "src/hooks/", "src/contexts/", "src/utils/"]
+          },
+          "nextjs": {
+            "entryPoints": ["pages/_app.js", "app/layout.tsx", "app/page.tsx"],
+            "important": ["pages/", "app/", "components/", "lib/", "utils/"]
+          },
+          "vue": {
+            "entryPoints": ["src/main.js", "src/main.ts", "src/App.vue"],
+            "important": ["src/components/", "src/views/", "src/composables/", "src/stores/"]
+          },
+          "svelte": {
+            "entryPoints": ["src/main.js", "src/app.html", "src/App.svelte"],
+            "important": ["src/routes/", "src/lib/", "src/components/"]
+          },
+          "angular": {
+            "entryPoints": ["src/main.ts", "src/app/app.component.ts"],
+            "important": ["src/app/", "src/environments/", "src/assets/"]
+          }
+        }
+      }
+    },
+    "fileOrganization": {
+      "structure": {
+        "groupBy": "hybrid",
+        "aiOptimized": true,
+        "includeComplexityMetrics": true,
+        "sections": {
+          "1_project_overview": {
+            "title": "Project Overview & Entry Points",
+            "description": "Critical files that define project structure and entry points",
+            "directories": ["./"],
+            "filePatterns": [
+              "README.*",
+              "package.json",
+              "composer.json",
+              "Cargo.toml", 
+              "go.mod",
+              "pyproject.toml",
+              "setup.py",
+              "tsconfig.json",
+              "jsconfig.json"
+            ],
+            "priority": 1,
+            "aiAnalysis": {
+              "importance": "critical",
+              "analysisType": ["project_type", "dependencies", "build_config"]
+            }
+          },
+          "2_application_core": {
+            "title": "Application Core & Entry Points",
+            "description": "Main application files and entry points",
+            "directories": ["src", "app", "lib"],
+            "filePatterns": [
+              "index.*",
+              "main.*", 
+              "app.*",
+              "App.*",
+              "_app.*",
+              "_document.*",
+              "+layout.*",
+              "+page.*"
+            ],
+            "priority": 2,
+            "aiAnalysis": {
+              "importance": "critical",
+              "analysisType": ["architecture_patterns", "entry_flow", "dependency_injection"]
+            }
+          },
+          "3_business_logic": {
+            "title": "Business Logic & Components",
+            "description": "Core business logic, components, and feature implementations", 
+            "directories": [
+              "src/components",
+              "src/features",
+              "src/modules", 
+              "src/services",
+              "src/utils",
+              "src/hooks",
+              "src/composables",
+              "src/stores",
+              "src/state",
+              "src/contexts",
+              "components",
+              "features",
+              "modules",
+              "services",
+              "utils",
+              "hooks",
+              "stores"
+            ],
+            "priority": 3,
+            "aiAnalysis": {
+              "importance": "high",
+              "analysisType": ["component_structure", "business_patterns", "data_flow"]
+            }
+          },
+          "4_data_layer": {
+            "title": "Data Layer & API Integration",
+            "description": "Data models, API integration, and database interactions",
+            "directories": [
+              "src/api",
+              "src/models",
+              "src/schemas",
+              "src/types",
+              "src/interfaces",
+              "src/graphql",
+              "src/db",
+              "src/database",
+              "api",
+              "models", 
+              "schemas",
+              "types",
+              "interfaces"
+            ],
+            "fileTypes": [".d.ts", ".types.ts", ".interface.ts", ".model.ts", ".schema.ts"],
+            "priority": 4,
+            "aiAnalysis": {
+              "importance": "high",
+              "analysisType": ["data_modeling", "api_design", "type_safety"]
+            }
+          },
+          "5_routing_pages": {
+            "title": "Routing & Pages",
+            "description": "Application routing and page-level components",
+            "directories": [
+              "src/pages",
+              "src/views", 
+              "src/routes",
+              "pages",
+              "views",
+              "routes",
+              "app"
+            ],
+            "priority": 5,
+            "aiAnalysis": {
+              "importance": "medium",
+              "analysisType": ["routing_patterns", "page_structure", "navigation_flow"]
+            }
+          },
+          "6_configuration": {
+            "title": "Configuration & Build Tools",
+            "description": "Build configuration, environment setup, and tooling",
+            "directories": ["config", "build", ".github", ".vscode", "scripts"],
+            "fileTypes": [".json", ".js", ".mjs", ".cjs", ".yml", ".yaml", ".toml", ".env"],
+            "filePatterns": [
+              "*.config.*",
+              ".*rc.*",
+              ".*ignore",
+              "Dockerfile*",
+              "docker-compose.*"
+            ],
+            "priority": 6,
+            "aiAnalysis": {
+              "importance": "medium", 
+              "analysisType": ["build_config", "dev_environment", "deployment_config"]
+            }
+          },
+          "7_styling_assets": {
+            "title": "Styling & Static Assets",
+            "description": "CSS, styling systems, and static assets",
+            "directories": [
+              "src/styles",
+              "src/assets", 
+              "src/css",
+              "src/scss",
+              "styles",
+              "assets",
+              "public",
+              "static"
+            ],
+            "fileTypes": [".css", ".scss", ".sass", ".less", ".styl"],
+            "priority": 7,
+            "aiAnalysis": {
+              "importance": "low",
+              "analysisType": ["styling_patterns", "asset_organization"]
+            }
+          },
+          "8_testing": {
+            "title": "Testing & Quality Assurance",
+            "description": "Test files, testing configuration, and QA tools",
+            "directories": [
+              "tests",
+              "test",
+              "__tests__",
+              "src/__tests__",
+              "cypress",
+              "e2e",
+              "playwright",
+              "spec"
+            ],
+            "fileTypes": [".test.js", ".test.ts", ".spec.js", ".spec.ts", ".cy.js", ".cy.ts"],
+            "priority": 8,
+            "aiAnalysis": {
+              "importance": "high",
+              "analysisType": ["test_coverage", "testing_patterns", "quality_metrics"]
+            }
+          },
+          "9_documentation": {
+            "title": "Documentation & Guides",
+            "description": "Project documentation, guides, and development notes",
+            "directories": ["docs", "documentation", ".github"],
+            "fileTypes": [".md", ".mdx", ".txt", ".rst"],
+            "priority": 9,
+            "aiAnalysis": {
+              "importance": "medium",
+              "analysisType": ["documentation_quality", "api_docs", "developer_guides"]
+            }
+          },
+          "10_others": {
+            "title": "Other Files",
+            "description": "Miscellaneous files not categorized above",
+            "priority": 10,
+            "aiAnalysis": {
+              "importance": "low",
+              "analysisType": ["general_review"]
+            }
+          }
+        }
+      },
+      "priorityFiles": {
+        "alwaysFirst": [
+          "README.md",
+          "README.rst",
+          "readme.md", 
+          "package.json",
+          "composer.json",
+          "Cargo.toml",
+          "go.mod",
+          "pyproject.toml",
+          "setup.py",
+          "index.js",
+          "index.ts",
+          "main.js", 
+          "main.ts",
+          "main.py",
+          "app.js",
+          "app.ts",
+          "App.jsx",
+          "App.tsx",
+          "App.vue",
+          "_app.js",
+          "_app.tsx"
+        ],
+        "alwaysLast": [
+          "LICENSE",
+          "LICENSE.md",
+          "LICENSE.txt",
+          "CHANGELOG.md",
+          "CHANGELOG.txt",
+          "HISTORY.md",
+          ".gitignore",
+          ".gitattributes",
+          ".dockerignore",
+          ".eslintignore",
+          ".prettierignore",
+          "yarn.lock",
+          "package-lock.json",
+          "pnpm-lock.yaml",
+          "composer.lock"
+        ],
+        "frameworkSpecific": {
+          "nextjs": {
+            "early": ["next.config.js", "next.config.mjs", "_app.js", "_app.tsx", "_document.js", "_document.tsx"],
+            "late": ["next-env.d.ts"]
+          },
+          "nuxt": {
+            "early": ["nuxt.config.js", "nuxt.config.ts"],
+            "late": [".nuxt/"]
+          },
+          "gatsby": {
+            "early": ["gatsby-config.js", "gatsby-node.js", "gatsby-browser.js", "gatsby-ssr.js"],
+            "late": [".cache/", "public/"]
+          }
+        }
+      }
+    },
+    "advancedSorting": {
+      "fileSizeSorting": {
+        "enabled": true,
+        "order": "smallToLarge",
+        "enableThresholds": true,
+        "thresholds": {
+          "small": 1024,
+          "medium": 51200, 
+          "large": 512000,
+          "extraLarge": 2097152
+        }
+      },
+      "modificationTimeSorting": {
+        "enabled": true,
+        "order": "newestFirst",
+        "enableRecentlyModifiedPriority": true,
+        "recentThresholdDays": 7
+      },
+      "dependencyAwareSorting": {
+        "enabled": true,
+        "analyzeImports": true,
+        "analyzeExports": true,
+        "sortDependenciesFirst": true,
+        "detectCircularDependencies": true,
+        "analyzeModuleBoundaries": true,
+        "groupByDependencyLevel": true,
+        "frameworks": {
+          "react": {
+            "detectHooks": true,
+            "detectContextUsage": true,
+            "detectStateManagement": true
+          },
+          "vue": {
+            "detectComposables": true,
+            "detectStores": true
+          },
+          "angular": {
+            "detectServices": true,
+            "detectModules": true,
+            "detectComponents": true
+          }
+        }
+      },
+      "complexityAnalysis": {
+        "enabled": true,
+        "analyzeCodeComplexity": true,
+        "analyzeDependencyComplexity": true,
+        "analyzeMaintainabilityIndex": true,
+        "enableHotspotDetection": true
+      },
+      "customRules": [
+        {
+          "pattern": "*.config.*",
+          "placement": "early",
+          "reason": "Configuration files should be reviewed early for context"
+        },
+        {
+          "pattern": "*.test.*",
+          "placement": "grouped",
+          "groupWith": "source",
+          "reason": "Tests should be grouped with their corresponding source files"
+        },
+        {
+          "pattern": "index.*",
+          "placement": "first",
+          "reason": "Entry point files provide crucial architectural context"
+        },
+        {
+          "pattern": "**/types/**",
+          "placement": "early",
+          "reason": "Type definitions provide interface contracts"
+        },
+        {
+          "pattern": "**/utils/**", 
+          "placement": "middle",
+          "reason": "Utility functions are shared dependencies"
+        },
+        {
+          "pattern": "**/constants/**",
+          "placement": "early",
+          "reason": "Constants define application-wide values"
+        },
+        {
+          "pattern": "**/hooks/**",
+          "placement": "middle", 
+          "reason": "Hooks are reusable logic patterns"
+        },
+        {
+          "pattern": "**/components/**",
+          "placement": "middle",
+          "reason": "Components implement UI patterns"
+        },
+        {
+          "pattern": "**/pages/**",
+          "placement": "late",
+          "reason": "Pages orchestrate components and business logic"
+        }
+      ],
+      "aiOptimizations": {
+        "enableArchitectureDetection": true,
+        "enablePatternRecognition": true,
+        "enableCodeQualityScoring": true,
+        "enableSecurityHotspotDetection": true,
+        "enablePerformanceHotspotDetection": true,
+        "enableMaintainabilityScoring": true
+      }
+    },
+    "projectAnalysis": {
+      "enabled": true,
+      "detectFramework": true,
+      "detectProjectType": true,
+      "detectArchitecturePatterns": true,
+      "frameworks": {
+        "react": {
+          "indicators": ["react", "@types/react", "react-dom"],
+          "patterns": ["jsx", "tsx", "components", "hooks"],
+          "entryPoints": ["src/index", "src/App"]
+        },
+        "nextjs": {
+          "indicators": ["next"],
+          "patterns": ["pages/", "app/", "_app", "_document"],
+          "entryPoints": ["pages/_app", "app/layout"]
+        },
+        "vue": {
+          "indicators": ["vue", "@vue/"],
+          "patterns": [".vue", "components", "composables"],
+          "entryPoints": ["src/main", "src/App.vue"]
+        },
+        "svelte": {
+          "indicators": ["svelte"],
+          "patterns": [".svelte", "+page", "+layout"],
+          "entryPoints": ["src/main", "src/app.html"]
+        },
+        "angular": {
+          "indicators": ["@angular/"],
+          "patterns": ["app.module", "component.ts", "service.ts"],
+          "entryPoints": ["src/main.ts", "src/app/"]
+        },
+        "express": {
+          "indicators": ["express"],
+          "patterns": ["routes/", "middleware/", "controllers/"],
+          "entryPoints": ["server.js", "app.js", "index.js"]
+        },
+        "django": {
+          "indicators": ["django"],
+          "patterns": ["models.py", "views.py", "urls.py", "settings.py"],
+          "entryPoints": ["manage.py", "wsgi.py"]
+        },
+        "flask": {
+          "indicators": ["flask"],
+          "patterns": ["app.py", "routes/", "blueprints/"],
+          "entryPoints": ["app.py", "run.py"]
+        }
+      },
+      "projectTypes": {
+        "frontend": {
+          "indicators": ["react", "vue", "angular", "svelte", "webpack", "vite"],
+          "patterns": ["components/", "src/", "public/"]
+        },
+        "backend": {
+          "indicators": ["express", "django", "flask", "spring", "gin"],
+          "patterns": ["api/", "controllers/", "models/", "services/"]
+        },
+        "fullstack": {
+          "indicators": ["next", "nuxt", "sveltekit", "remix"],
+          "patterns": ["pages/", "api/", "server/", "client/"]
+        },
+        "mobile": {
+          "indicators": ["react-native", "expo", "ionic", "flutter"],
+          "patterns": ["android/", "ios/", "mobile/"]
+        },
+        "desktop": {
+          "indicators": ["electron", "tauri", "nwjs"],
+          "patterns": ["electron/", "src-tauri/"]
+        },
+        "library": {
+          "indicators": ["typescript", "rollup", "webpack"],
+          "patterns": ["src/", "lib/", "dist/", "build/"]
+        }
+      },
+      "architecturePatterns": {
+        "mvc": ["models/", "views/", "controllers/"],
+        "mvvm": ["models/", "viewmodels/", "views/"],
+        "hexagonal": ["ports/", "adapters/", "domain/"],
+        "layered": ["presentation/", "business/", "data/", "infrastructure/"],
+        "microservices": ["services/", "gateway/", "discovery/"],
+        "modular": ["modules/", "features/", "shared/"],
+        "atomic": ["atoms/", "molecules/", "organisms/", "templates/", "pages/"]
+      }
+    },
+    "codeQualityAnalysis": {
+      "enabled": true,
+      "metrics": {
+        "complexity": {
+          "enabled": true,
+          "algorithms": ["cyclomatic", "cognitive", "halstead"]
+        },
+        "maintainability": {
+          "enabled": true,
+          "includeIndex": true,
+          "includeDebtRatio": true
+        },
+        "security": {
+          "enabled": true,
+          "detectVulnerabilities": true,
+          "detectSecrets": true,
+          "detectHardcodedValues": true
+        },
+        "performance": {
+          "enabled": true,
+          "detectBottlenecks": true,
+          "analyzeAsyncPatterns": true,
+          "detectMemoryLeaks": true
+        },
+        "testCoverage": {
+          "enabled": true,
+          "analyzeTestPatterns": true,
+          "identifyGaps": true
+        }
+      },
+      "aiInsights": {
+        "enableSmellDetection": true,
+        "enablePatternSuggestions": true,
+        "enableRefactoringOpportunities": true,
+        "enableArchitectureRecommendations": true
+      }
+    },
+    "outputCustomization": {
+      "aiOptimizedFormat": {
+        "enabled": true,
+        "includeExecutiveSummary": true,
+        "includeArchitectureOverview": true,
+        "includeComplexityHeatmap": true,
+        "includeDependencyGraph": true,
+        "includeQualityMetrics": true,
+        "includeSecurityAssessment": true,
+        "includePerformanceAnalysis": true,
+        "includeRecommendations": true
+      },
+      "sectioning": {
+        "groupByPriority": true,
+        "groupByComplexity": true,
+        "groupByRisk": true,
+        "includeNavigationIndex": true
+      }
+    },
+    "metadata": {
+      "author": "AI Code Architecture Review Exemplar",
+      "version": "2.0.0",
+      "createdOn": "2025-12-28",
+      "lastModified": "2025-12-28",
+      "description": "Advanced repomix configuration optimized for AI-powered code architecture reviews, featuring comprehensive analysis patterns, framework detection, and quality metrics.",
+      "purpose": "Provides structured, hierarchical code organization optimized for AI analysis of software architecture, patterns, and quality metrics.",
+      "aiOptimizations": [
+        "Framework-aware file organization",
+        "Dependency-aware sorting", 
+        "Complexity-based prioritization",
+        "Architecture pattern detection",
+        "Security and performance hotspot identification",
+        "Maintainability scoring",
+        "Test coverage analysis"
+      ],
+      "supportedFrameworks": [
+        "React", "Next.js", "Vue", "Nuxt", "Svelte", "SvelteKit", 
+        "Angular", "Express", "Django", "Flask", "Spring Boot",
+        "Electron", "React Native", "Flutter"
+      ],
+      "analysisCapabilities": [
+        "Code complexity analysis",
+        "Dependency mapping",
+        "Architecture pattern detection", 
+        "Security vulnerability scanning",
+        "Performance bottleneck identification",
+        "Maintainability assessment",
+        "Test coverage evaluation"
+      ],
+      "bestPractices": {
+        "fileOrganization": "Follows industry standards for modern web development",
+        "sorting": "Prioritizes architectural understanding over alphabetical",
+        "analysis": "Focuses on actionable insights for code quality",
+        "frameworks": "Supports major frontend and backend frameworks",
+        "scalability": "Designed for projects from small apps to enterprise systems"
+      }
+    }
+  }
+}

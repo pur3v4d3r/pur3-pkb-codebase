@@ -1,0 +1,58 @@
+Create a responsive DeFi platform using React and Next.js for server-side rendering
+Implement Web3.js for Ethereum blockchain integration and smart contract interaction
+Design a sleek, modern UI using Tailwind CSS for rapid styling and responsiveness
+Use Redux Toolkit for state management and Redux-Saga for handling asynchronous actions
+Create a secure wallet connection system supporting MetaMask, WalletConnect, and Ledger
+Implement real-time price feeds using Chainlink oracles for accurate asset pricing
+Design an intuitive swap interface for decentralized token exchanges
+Create a liquidity pool system with automated market maker (AMM) functionality
+Implement yield farming and staking features with real-time APY calculations
+Design a governance system with proposal creation and voting mechanisms
+Create a lending and borrowing platform with collateralization and liquidation features
+Implement cross-chain asset bridges using Polkadot or Cosmos protocols
+Design a decentralized derivatives trading platform with options and futures
+Create an NFT marketplace with minting, trading, and fractional ownership features
+Implement a decentralized insurance system for smart contract coverage
+Design a prediction market platform for event-based betting
+Create a synthetic asset issuance system with collateralization mechanisms
+Implement a decentralized identity (DID) system for KYC/AML compliance
+Design a decentralized autonomous organization (DAO) management interface
+Create a yield optimization platform with auto-compounding strategies
+Implement a decentralized order book system for limit orders
+Design a gas optimization feature with EIP-1559 support for Ethereum transactions
+Create a fiat on-ramp system integrating payment processors like Stripe or Circle
+Implement a decentralized oracle network for off-chain data feeds
+Design a portfolio management dashboard with performance analytics
+Create a decentralized perpetual swap trading platform with leverage
+Implement a liquidity mining program with custom token rewards
+Design a decentralized credit scoring system based on on-chain activity
+Create a flash loan feature for arbitrage and liquidation opportunities
+Implement a decentralized stable coin system with algorithmic pegging
+Design a cross-margin trading platform for multiple assets
+Create a decentralized options protocol with American and European style options
+Implement a yield aggregator with auto-rebalancing across protocols
+Design a decentralized dark pool for large order execution
+Create a decentralized parametric insurance system for weather events
+Implement a decentralized freelance marketplace with escrow services
+Design a decentralized asset management platform for fund creation
+Create a decentralized lottery system with provably fair randomness
+Implement a decentralized reputation system for protocol and user trust
+Design a decentralized social trading platform with copy trading features
+Create a decentralized crowdfunding platform with milestone-based releases
+Implement a decentralized name service for human-readable addresses
+Design a decentralized compliance layer for regulatory requirements
+Create a decentralized synthetic forex trading platform
+Implement a decentralized margin trading system with isolated and cross-margin
+Design a decentralized launchpad for new token offerings
+Create a decentralized options AMM with dynamic pricing models
+Implement a decentralized reserve currency system with bonding mechanisms
+Design a decentralized liquidity direction protocol for optimal routing
+Create a decentralized index fund creation and management platform
+Implement a decentralized leverage yield farming system
+Design a decentralized prediction market for governance proposals
+Create a decentralized sidechain deployment interface for scaling solutions
+Implement a decentralized revenue sharing protocol for protocol fees
+Design a decentralized automated portfolio management system
+Create a decentralized on-chain analytics platform for protocol insights
+Implement a decentralized liquidity bootstrapping pool (LBP) system
+Design a decentralized fixed-rate lending protocol with interest rate swaps

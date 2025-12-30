@@ -1,0 +1,524 @@
+---
+tags: #spes #claude-instructions #metadata #tagging #standards
+aliases: [Metadata Standards, SPES Tagging, Frontmatter Spec]
+status: evergreen
+certainty: ^verified
+created: 2025-12-16
+---
+
+# Metadata Tagging Standards
+
+> [!abstract] Purpose
+> Comprehensive metadata specifications for SPES components, workflows, and system files. Enables intelligent discovery, analytics, and emergent system intelligence.
+
+---
+
+## 🎯 METADATA PHILOSOPHY
+
+**Principle**: Metadata is the **intelligence substrate** of SPES.
+
+Without rich metadata:
+- Components cannot be discovered intelligently
+- Usage patterns cannot be detected
+- Relationships cannot be inferred
+- System cannot learn
+
+With rich metadata:
+- Dataview queries create emergent intelligence
+- Claude can recommend components based on metadata patterns
+- Analytics reveal what works (and what doesn't)
+- System becomes self-documenting
+
+---
+
+## 📋 UNIVERSAL METADATA (All SPES Files)
+
+### Required Fields
+
+```yaml
+---
+tags: #spes #[type] #[domain] #[specifics]
+aliases: [Synonym 1, Synonym 2, Acronym]
+status: seedling | evergreen | reference
+certainty: ^verified | ^speculative
+created: YYYY-MM-DD
+---
+```
+
+### Field Specifications
+
+#### `tags` (Required, Minimum 3)
+
+**Tag Architecture**: Hierarchical, domain-aware
+
+```
+Level 1 (System):     #spes (MANDATORY for all SPES files)
+Level 2 (Type):       #component | #workflow | #claude-instructions | #analytics | #test
+Level 3 (Domain):     Varies by type (see below)
+Level 4+ (Specific):  Free-form, component-specific
+```
+
+**Examples**:
+```yaml
+# Component file
+tags: #spes #component #persona #technical #atomic
+
+# Workflow file
+tags: #spes #workflow #decomposition #long-form-generation
+
+# Instruction file
+tags: #spes #claude-instructions #sop #component-management
+
+# Analytics file
+tags: #spes #analytics #usage-tracking #performance
+```
+
+#### `aliases` (Required, Minimum 2)
+
+**Purpose**: Enable discovery by multiple search terms
+
+**Rules**:
+- Include common synonyms
+- Include abbreviations/acronyms
+- Include informal names
+- Include "how would user describe this?" terms
+
+**Examples**:
+```yaml
+# Component: Academic tone persona
+aliases: [Scholarly Voice, Formal Tone, Academic Writing Mode]
+
+# Workflow: Chain of Verification
+aliases: [CoVe, Verification Loop, Self-Critique Pattern]
+
+# Instruction: Quality Assurance
+aliases: [QA Checklist, Quality Standards, Testing Protocols]
+```
+
+#### `status` (Required)
+
+**Options**:
+- `seedling`: New, untested, experimental
+- `evergreen`: Validated, production-ready, reliable
+- `reference`: Documentation, not executable (SOPs, guides)
+
+**Status Progression**:
+```
+seedling → [testing phase] → evergreen
+         ↘ [failure] → archived
+
+reference (static, doesn't change)
+```
+
+**Rules**:
+- New components start as `seedling`
+- Upgrade to `evergreen` only after passing quality gates
+- Instructions/SOPs are always `reference`
+
+#### `certainty` (Required)
+
+**Options**:
+- `^verified`: Tested and confirmed to work
+- `^speculative`: Theoretical, not yet validated
+
+**Examples**:
+```yaml
+# Component tested in 3 workflows
+certainty: ^verified
+
+# Component created based on theory, not yet used
+certainty: ^speculative
+
+# SOP based on established practices
+certainty: ^verified
+```
+
+#### `created` (Required)
+
+**Format**: `YYYY-MM-DD`
+
+**Purpose**: Track component age, audit recent changes
+
+---
+
+## 📋 COMPONENT-SPECIFIC METADATA
+
+### Atomic Component Metadata
+
+```yaml
+---
+tags: #spes #component #[component-subtype] #[domain] #atomic
+aliases: [Synonym 1, Synonym 2]
+status: seedling | evergreen
+certainty: ^verified | ^speculative
+created: YYYY-MM-DD
+
+# COMPONENT-SPECIFIC FIELDS
+component-type: atomic-persona | atomic-instruction | atomic-constraint | atomic-format | atomic-context
+usage-count: 0
+success-rate: pending | high | medium | low
+last-tested: YYYY-MM-DD | never
+avg-quality-score: 0.0-10.0 | pending
+known-synergies: [[component-a]], [[component-b]]
+known-conflicts: [[component-c]]
+token-length: approximate-tokens
+---
+```
+
+#### Component-Specific Field Definitions
+
+**`component-type`** (Required)
+- `atomic-persona`: Identity/role frames ("You are...")
+- `atomic-instruction`: Directives ("Always do...")
+- `atomic-constraint`: Restrictions ("Never...")
+- `atomic-format`: Output templates ("Structure as...")
+- `atomic-context`: Background framers ("Given that...")
+
+**`usage-count`** (Required, Auto-updated)
+- Initialize to `0`
+- Increment each time component used in workflow
+- Enables "most popular" analytics
+
+**`success-rate`** (Required, Updated after testing)
+- `pending`: Not yet tested
+- `high`: >80% success in workflows
+- `medium`: 50-80% success
+- `low`: <50% success (consider retirement)
+
+**`last-tested`** (Required)
+- `YYYY-MM-DD`: Date of most recent test
+- `never`: Not yet tested
+- Enables "stale component" detection
+
+**`avg-quality-score`** (Optional)
+- `0.0-10.0`: Average quality rating from workflows
+- `pending`: Not yet rated
+- Tracks performance over time
+
+**`known-synergies`** (Optional)
+- List of `[[wiki-links]]` to components that work well together
+- Enables "if you use X, also consider Y" recommendations
+
+**`known-conflicts`** (Optional)
+- List of `[[wiki-links]]` to incompatible components
+- Prevents invalid combinations
+
+**`token-length`** (Optional)
+- Approximate token count of component text
+- Helps with context budget planning
+
+### Composite Component Metadata
+
+```yaml
+---
+tags: #spes #component #[domain] #composite
+aliases: [Synonym 1, Synonym 2]
+status: seedling | evergreen
+certainty: ^verified | ^speculative
+created: YYYY-MM-DD
+
+# COMPOSITE-SPECIFIC FIELDS
+component-type: composite-sequential | composite-parallel | composite-recursive
+component-sequence: [[component-a]], [[component-b]], [[component-c]]
+total-token-length: approximate-total-tokens
+usage-count: 0
+success-rate: pending | high | medium | low
+last-tested: YYYY-MM-DD | never
+---
+```
+
+#### Composite-Specific Field Definitions
+
+**`component-type`** (Required)
+- `composite-sequential`: Components used in order (A → B → C)
+- `composite-parallel`: Components used simultaneously
+- `composite-recursive`: Component used iteratively with previous output
+
+**`component-sequence`** (Required)
+- Ordered list of constituent components
+- Enables dependency tracking
+
+**`total-token-length`** (Optional)
+- Sum of all constituent component token lengths
+- Critical for context budget planning
+
+### Specialized Component Metadata
+
+```yaml
+---
+tags: #spes #component #[domain] #specialized
+aliases: [Synonym 1, Synonym 2]
+status: seedling | evergreen
+certainty: ^verified | ^speculative
+created: YYYY-MM-DD
+
+# SPECIALIZED-SPECIFIC FIELDS
+component-type: specialized-educational | specialized-technical | specialized-creative | specialized-pkb
+domain: specific-domain-name
+use-cases: [use-case-1, use-case-2, use-case-3]
+complexity-level: beginner | intermediate | advanced | expert
+usage-count: 0
+success-rate: pending | high | medium | low
+---
+```
+
+#### Specialized-Specific Field Definitions
+
+**`domain`** (Required)
+- Specific domain this component targets
+- Examples: `prompt-engineering`, `data-analysis`, `technical-writing`
+
+**`use-cases`** (Required)
+- List of specific scenarios where component excels
+- Enables use-case-based search
+
+**`complexity-level`** (Optional)
+- Helps user select appropriate component for skill level
+
+---
+
+## 📋 WORKFLOW-SPECIFIC METADATA
+
+### Workflow Pattern Metadata
+
+```yaml
+---
+tags: #spes #workflow #[pattern-type] #[problem-type]
+aliases: [Synonym 1, Synonym 2]
+status: reference
+certainty: ^verified | ^speculative
+created: YYYY-MM-DD
+
+# WORKFLOW-SPECIFIC FIELDS
+workflow-pattern: least-to-most | chain-of-verification | recursive-expansion | parallel-convergence | strict-isolation
+problem-types: [long-form-generation, technical-explanation, research-synthesis]
+typical-turns: min-max-range
+context-strategy: full-context | summary-window | sliding-window | turn-isolation
+components-required: [required-component-types]
+complexity-level: beginner | intermediate | advanced
+success-rate: pending | high | medium | low
+usage-count: 0
+last-used: YYYY-MM-DD | never
+---
+```
+
+#### Workflow-Specific Field Definitions
+
+**`workflow-pattern`** (Required)
+- Canonical name of the workflow pattern
+
+**`problem-types`** (Required)
+- List of problem types this workflow solves
+- Enables problem → workflow matching
+
+**`typical-turns`** (Required)
+- Format: `4-7` (min-max range)
+- Helps estimate effort
+
+**`context-strategy`** (Required)
+- Recommended context-handoff strategy
+- From `[[03-context-handoff-procedures]]`
+
+**`components-required`** (Optional)
+- Types of components this workflow needs
+- Example: `[persona, output-format, constraint]`
+
+**`complexity-level`** (Required)
+- User skill level needed to execute
+- Helps match workflow to user capability
+
+---
+
+## 📋 INSTRUCTION-SPECIFIC METADATA
+
+### Claude Instruction Metadata
+
+```yaml
+---
+tags: #spes #claude-instructions #[instruction-type]
+aliases: [Synonym 1, Synonym 2]
+status: reference
+certainty: ^verified
+created: YYYY-MM-DD
+
+# INSTRUCTION-SPECIFIC FIELDS
+instruction-type: core-identity | sop | protocols | checklist | standards
+read-priority: 0-10 (0=highest)
+applies-to: [component-creation, workflow-execution, quality-assurance, analytics]
+last-updated: YYYY-MM-DD
+version: X.Y
+---
+```
+
+#### Instruction-Specific Field Definitions
+
+**`instruction-type`** (Required)
+- Category of instruction document
+
+**`read-priority`** (Required)
+- `0`: Must read first (core identity)
+- `1-3`: Read during session init
+- `4-6`: Read when relevant task starts
+- `7-10`: Reference as needed
+
+**`applies-to`** (Required)
+- Which activities this instruction governs
+- Enables "show me instructions for X" queries
+
+**`version`** (Required)
+- Format: `Major.Minor`
+- Track instruction evolution
+
+---
+
+## 📋 ANALYTICS-SPECIFIC METADATA
+
+### Dashboard Metadata
+
+```yaml
+---
+tags: #spes #analytics #dashboard #[metric-type]
+aliases: [Synonym 1, Synonym 2]
+status: reference
+certainty: ^verified
+created: YYYY-MM-DD
+
+# ANALYTICS-SPECIFIC FIELDS
+metrics-tracked: [metric-1, metric-2, metric-3]
+update-frequency: real-time | daily | weekly | manual
+data-source: [component-library, workflows, test-results]
+visualization-type: table | chart | graph | report
+---
+```
+
+---
+
+## 🔍 METADATA VALIDATION PROTOCOL
+
+### Pre-Commit Validation
+
+Before saving any SPES file, Claude MUST verify:
+
+```markdown
+✅ YAML SYNTAX: Valid YAML formatting
+✅ REQUIRED FIELDS: All mandatory fields present
+✅ TAG COUNT: At least 3 tags, includes #spes
+✅ ALIAS COUNT: At least 2 aliases
+✅ STATUS VALUE: One of [seedling, evergreen, reference]
+✅ CERTAINTY VALUE: One of [^verified, ^speculative]
+✅ DATE FORMAT: created field is YYYY-MM-DD
+✅ TYPE-SPECIFIC: All type-specific fields present and valid
+```
+
+### Automated Validation Tools
+
+**Tool 1: Metadata Audit**
+```bash
+# Run vault-wide metadata compliance check
+metaudit
+```
+
+**Tool 2: Component Metadata Validator**
+```bash
+# Validate specific component
+python _scripts/component_validator.py "path/to/component.md"
+```
+
+---
+
+## 📊 METADATA-DRIVEN INTELLIGENCE QUERIES
+
+### Query 1: Recommend Components by Usage Success
+
+```dataview
+TABLE
+  component-type,
+  usage-count,
+  success-rate,
+  avg-quality-score
+FROM "02-component-library"
+WHERE usage-count > 0 AND success-rate = "high"
+SORT avg-quality-score DESC, usage-count DESC
+LIMIT 10
+```
+
+### Query 2: Find Synergistic Component Pairs
+
+```dataview
+TABLE
+  file.name as Component,
+  known-synergies as "Works Best With"
+FROM "02-component-library"
+WHERE known-synergies
+SORT length(known-synergies) DESC
+```
+
+### Query 3: Identify Stale Components (Need Testing)
+
+```dataview
+TABLE
+  file.name as Component,
+  last-tested,
+  (date(today) - date(last-tested)).days as "Days Since Test"
+FROM "02-component-library"
+WHERE last-tested != "never"
+SORT (date(today) - date(last-tested)).days DESC
+```
+
+### Query 4: Match Problem Type to Workflow
+
+```dataview
+TABLE
+  workflow-pattern,
+  problem-types,
+  success-rate,
+  complexity-level
+FROM "03-sequential-workflows"
+WHERE contains(problem-types, "long-form-generation")
+SORT success-rate DESC
+```
+
+### Query 5: Find Underutilized High-Quality Components
+
+```dataview
+TABLE
+  component-type,
+  usage-count,
+  success-rate,
+  avg-quality-score
+FROM "02-component-library"
+WHERE success-rate = "high" AND usage-count < 5
+SORT avg-quality-score DESC
+```
+
+---
+
+## 🧠 METADATA AS MEMORY
+
+**Key Insight**: Claude's memory persists through structured metadata, not conversation context.
+
+By capturing:
+- **Usage patterns** → Claude learns what works
+- **Component relationships** → Claude recommends synergies
+- **Performance data** → Claude improves over time
+- **User preferences** → Claude adapts to user style
+
+The SPES system becomes **increasingly intelligent** with every interaction.
+
+---
+
+## 🔗 Related Standards
+
+- [[00-librarian-core-identity]] → Metadata as intelligence substrate
+- [[01-component-management-sop]] → Component creation with metadata
+- [[04-quality-assurance-checklist]] → Metadata validation in QA
+- [[06-usage-analytics-protocols]] → Metadata-driven analytics
+
+---
+
+*Metadata Standards Version: 1.0 | Last Updated: 2025-12-16*
+
+
+
+
+

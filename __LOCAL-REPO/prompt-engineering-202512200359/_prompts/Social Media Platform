@@ -1,0 +1,63 @@
+Create a responsive social media platform using the MERN stack (MongoDB, Express.js, React, Node.js)
+Implement user authentication with JWT and OAuth for social login options
+Design a mobile-first UI using Material-UI for consistent look and feel
+Use Redux for state management and Redux-Saga for side effects
+Create a real-time newsfeed with infinite scrolling using React-Virtualized
+Implement WebSocket connections for instant messaging and notifications (Socket.io)
+Design a responsive profile page with customizable sections and privacy settings
+Create a post creation system supporting text, images, videos, and polls
+Implement a robust content moderation system using AI (TensorFlow.js)
+Design a discovery page with trending topics and personalized suggestions
+Create a story feature with ephemeral content (24-hour lifespan)
+Implement a comprehensive search functionality with autocomplete (Elasticsearch)
+Design a responsive comment system with nested replies and reactions
+Create a friend/follow system with connection suggestions
+Implement a notification center with real-time updates and filters
+Design a responsive direct messaging system with read receipts and typing indicators
+Create a group functionality with roles and permissions
+Implement a live streaming feature using WebRTC
+Design a responsive event system with RSVP and calendar integration
+Create a marketplace for user-generated content and digital goods
+Implement a robust tagging system for posts and user interests
+Design a responsive analytics dashboard for user engagement metrics
+Create a custom emoji and sticker system with user-generated content
+Implement a voice and video calling feature using Twilio
+Design a responsive ad platform for sponsored content and targeted advertising
+Create a content scheduling system for planned posts
+Implement a multi-language support system using i18next
+Design a responsive dark mode with system preference detection
+Create a custom filter and effects system for photos and videos
+Implement a location-based feature for nearby content and users
+Design a responsive privacy center with granular control settings
+Create a custom reporting system for inappropriate content and users
+Implement a blockchain-based content authenticity verification system
+Design a responsive accessibility mode with screen reader optimization
+Create a custom content recommendation engine using machine learning
+Implement a virtual currency system for in-platform transactions
+Design a responsive AR filters feature for photos and videos (AR.js)
+Create a custom meme generator with trending templates
+Implement a collaborative editing feature for shared posts
+Design a responsive podcast creation and sharing system
+Create a custom challenge/hashtag system for viral content creation
+Implement a sentiment analysis feature for post engagement
+Design a responsive 3D avatar creator for user profiles
+Create a custom content archiving system with searchable history
+Implement a fact-checking system for news and information sharing
+Design a responsive content monetization system for creators
+Create a custom AR-based scavenger hunt feature for location-based engagement
+Implement a voice-controlled navigation system for hands-free use
+Design a responsive content translation feature using AI
+Create a custom time capsule feature for future content delivery
+Implement a virtual reality (VR) social space for immersive interactions
+Design a responsive content curation system with AI-assisted suggestions
+Create a custom digital wellbeing dashboard with usage insights
+Implement a collaborative playlist feature for music sharing
+Design a responsive 360-degree photo and video sharing system
+Create a custom AI-powered content summarization feature
+Implement a social learning feature with skill-sharing and mentorship
+Design a responsive social commerce system with shoppable posts
+Create a custom augmented reality (AR) try-on feature for products
+Implement a crowd-sourced Q&A system with expert verification
+Design a responsive social gaming platform with multiplayer integration
+Create a custom AI-powered personal assistant for platform navigation
+Implement a social activism feature with petition and fundraising tools

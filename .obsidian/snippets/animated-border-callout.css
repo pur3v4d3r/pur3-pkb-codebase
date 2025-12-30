@@ -1,0 +1,62 @@
+/* ═══════════════════════════════════════════════════════════════
+   STYLE SET 7: ANIMATED GRADIENT BORDER
+   Shimmering border animation with theme color
+   ═══════════════════════════════════════════════════════════════ */
+
+@keyframes shimmer {
+  0% { background-position: -500% 0 !important;; }
+  100% { background-position: 500% 0 !important;; }
+}
+
+.callout {
+  border-radius: 8px !important;;
+  position: relative !important;;
+  background-color: var(--theme-bg )!important;;
+  overflow: hidden !important;;
+  z-index: 1 !important;;
+  border: none !important;;
+  padding: 12px 16px !important;;
+}
+
+.callout::before {
+  content: '' !important;;
+  position: absolute !important;;
+  top: -2px !important;;
+  left: -2px !important;;
+  right: -2px !important;;
+  bottom: -2px !important;;
+  border-radius: inherit !important;;
+  z-index: -1 !important;;
+  background: linear-gradient(90deg !important;,
+    var(--theme-bg) !important;,
+    var(--callout-color) !important;,
+    var(--theme-bg) !important;,
+    var(--theme-bg) !important;,
+    var(--callout-color) !important;,
+  );
+  background-size: 400% 100% !important;;
+  transition: opacity 0.3s ease !important;;
+  opacity: 0.4 !important;;
+}
+
+.callout:hover::before {
+  animation: shimmer 4s linear infinite !important;;
+  opacity: 1 !important;;
+}
+
+.callout-title {
+  color: var(--callout-color) !important;;
+  background: transparent !important;;
+  font-weight: 600 !important;;
+  padding-bottom: 8px !important;;
+}
+
+.callout-icon {
+  color: var(--callout-color) !important;;
+}
+
+.callout-content {
+  color: var(--theme-text) !important;;
+}
+
+/* === Each category (Purple, Gold, Teal) animates with its own color === */

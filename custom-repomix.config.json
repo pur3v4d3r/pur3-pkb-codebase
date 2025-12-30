@@ -1,0 +1,113 @@
+{
+  "$schema": "https://repomix.com/schemas/latest/schema.json",
+  "$comment": "AI-Optimized Repomix Configuration for Code Architecture Review - Memory Safe",
+  "input": {
+    "maxFileSize": 1048576
+  },
+  "output": {
+    "filePath": "exemplar-prompt-engineering-master.md",
+    "style": "markdown",
+    "parsableStyle": false,
+    "fileSummary": true,
+    "directoryStructure": true,
+    "files": true,
+    "removeComments": false,
+    "removeEmptyLines": true,
+    "compress": false,
+    "topFilesLength": 15,
+    "showLineNumbers": true,
+    "truncateBase64": false,
+    "copyToClipboard": true,
+    "includeFullDirectoryStructure": true,
+    "tokenCountTree": true,
+    "headerText": "# 🧠 AI Code Analysis Report - pur3v4d3r's Vault\n\n## 📊 Analysis Context\n- **Purpose**: AI-optimized code analysis for Claude/Gemini exemplar creation\n- **Focus**: Knowledge base architecture, automation scripts, PKB systems\n- **Generated**: {date}\n- **Tool**: Repomix CLI with custom AI-focused configuration\n\n## 🎯 Priority Keywords & Categories\n**P1 - Core System**: config, settings, schema, template, automation, workflow\n**P2 - Documentation**: manual, guide, reference, index, moc, dashboard, meta\n**P3 - Code Logic**: script, function, module, plugin, api, handler, util\n**P4 - Data**: json, yaml, toml, csv, database, model, type\n**P5 - Content**: notes, tasks, projects, daily, archive, library\n\n## 📈 File Analysis Categories\n1. **Configuration Files** - System setup and preferences  \n2. **Documentation** - Guides, manuals, and reference materials\n3. **Automation Scripts** - Workflow and process automation\n4. **Template System** - Standardized content structures\n5. **Knowledge Base** - Core content and notes\n6. **Plugin/Extension Code** - Custom functionality\n\n---\n\n",
+    "git": {
+      "sortByChanges": false,
+      "sortByChangesMaxCommits": 50,
+      "includeDiffs": false,
+      "includeLogs": false,
+      "includeLogsCount": 10
+    }
+  },
+  "include": [
+    "D:\\10_pur3v4d3r's-vault\\__LOCAL-REPO/**"
+  ],
+  "_presets": {
+    "core_pkb": [
+
+    ],
+    "research_content": [
+
+    ],
+    "prompt_engineering": [
+
+    ]
+  },
+  "ignore": {
+    "useGitignore": true,
+    "useDotIgnore": true,
+    "useDefaultPatterns": true,
+    "customPatterns": [
+      "**/embedding*.json",
+      "**/index*.json", 
+      "**/end_to_end_results.json",
+      "**/large_data_files/**",
+      "**/processed_data/**",
+      "**/000_database/*/99_archive/**",
+      "**/99_archive/**",
+      "**/99-archive/**",
+      "**/archive/**",
+      "**/backup/**",
+      "**/temp/**",
+      "**/tmp/**",
+      "**/999-temp/**",
+      "*.min.js",
+      "*.min.css",
+      "*.bundle.js",
+      "*.map",
+      "coverage/**",
+      "dist/**",
+      "build/**",
+      "out/**",
+      ".next/**",
+      ".nuxt/**",
+      ".cache/**",
+      ".parcel-cache/**",
+      ".rollup.cache/**",
+      "node_modules/**",
+      "vendor/**",
+      ".git/**",
+      ".vscode/**",
+      ".idea/**",
+      "*.tmp",
+      "*.temp",
+      ".env.local",
+      ".env.development",
+      ".env.production",
+      "package-lock.json",
+      "yarn.lock",
+      "pnpm-lock.yaml",
+      "composer.lock",
+      ".DS_Store",
+      "Thumbs.db",
+      "cypress/screenshots/**",
+      "cypress/videos/**",
+      "playwright-report/**",
+      "test-results/**",
+      ".vercel/**",
+      ".netlify/**",
+      "_site/**",
+      "**/*.log",
+      "**/logs/**",
+      ".obsidian/plugins/*/main.js",
+      "**/01_daily-notes/**"
+    ]
+  },
+  "security": {
+    "enableSecurityCheck": true
+  },
+  "tokenCount": {
+    "encoding": "o200k_base"
+  }
+  
+}

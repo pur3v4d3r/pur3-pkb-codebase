@@ -1,0 +1,328 @@
+---
+tags: #spes #component-library #index #reference
+aliases: [Component Library, Library Index, Component Catalog]
+status: evergreen
+certainty: ^verified
+created: 2025-12-20
+modified: 2025-12-20
+link-up: "[[00-prompt-engineering-system-design]]"
+---
+
+# Component Library Index
+
+> [!abstract] Purpose
+> Central catalog of all reusable prompt components. Browse by type, search by domain, discover by usage patterns.
+
+---
+
+## 📊 LIBRARY OVERVIEW
+
+```dataviewjs
+// Component Statistics
+const atomics = dv.pages('"02-projects/_spes-sequential-prompt-engineering-system/02-component-library/atomic"')
+    .where(p => p.type === "component");
+const composites = dv.pages('"02-projects/_spes-sequential-prompt-engineering-system/02-component-library/composite"')
+    .where(p => p.type === "component");
+const specialized = dv.pages('"02-projects/_spes-sequential-prompt-engineering-system/02-component-library/specialized"')
+    .where(p => p.type === "component");
+
+const total = atomics.length + composites.length + specialized.length;
+
+dv.header(3, "📈 Library Statistics");
+dv.paragraph(`**Total Components**: ${total}`);
+dv.paragraph(`- **Atomic**: ${atomics.length} (single-purpose building blocks)`);
+dv.paragraph(`- **Composite**: ${composites.length} (multi-component patterns)`);
+dv.paragraph(`- **Specialized**: ${specialized.length} (domain-specific templates)`);
+```
+
+---
+
+## 🏗️ LIBRARY STRUCTURE
+
+### Atomic Components
+**Location**: `02-component-library/atomic/`
+**Purpose**: Single-purpose, reusable building blocks
+
+```
+atomic/
+├── personas/           # Role and identity frames
+├── instructions/       # Task directives and commands
+├── constraints/        # Boundaries and restrictions
+├── output-formats/     # Response templates and structures
+└── context-framers/    # Background and framing elements
+```
+
+### Composite Components
+**Location**: `02-component-library/composite/`
+**Purpose**: Pre-tested combinations of atomic components
+
+```
+composite/
+├── sequential-chains/  # A→B→C workflow patterns
+├── parallel-branches/  # Simultaneous processing patterns
+└── recursive-loops/    # Iterative refinement patterns
+```
+
+### Specialized Components
+**Location**: `02-component-library/specialized/`
+**Purpose**: Domain-specific templates
+
+```
+specialized/
+├── educational-content/  # Teaching and explanation optimized
+├── technical-analysis/   # Code, engineering, rigor-focused
+├── creative-writing/     # Narrative, style-focused
+└── pkb-operations/       # Knowledge management specific
+```
+
+---
+
+## 🎯 BROWSE BY TYPE
+
+### Personas (Role Frames)
+
+```dataview
+TABLE domain, rating, usage-count, performance-score
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND component-type = "persona"
+SORT rating DESC, usage-count DESC
+```
+
+### Instructions (Task Directives)
+
+```dataview
+TABLE domain, rating, usage-count, performance-score
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND component-type = "instruction"
+SORT rating DESC, usage-count DESC
+```
+
+### Constraints (Boundaries)
+
+```dataview
+TABLE domain, rating, usage-count, performance-score
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND component-type = "constraint"
+SORT rating DESC, usage-count DESC
+```
+
+### Output Formats (Response Templates)
+
+```dataview
+TABLE domain, rating, usage-count, performance-score
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND component-type = "format"
+SORT rating DESC, usage-count DESC
+```
+
+### Context Framers (Background Elements)
+
+```dataview
+TABLE domain, rating, usage-count, performance-score
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND component-type = "context"
+SORT rating DESC, usage-count DESC
+```
+
+### Examples (Few-Shot Demonstrations)
+
+```dataview
+TABLE domain, rating, usage-count, performance-score
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND component-type = "example"
+SORT rating DESC, usage-count DESC
+```
+
+---
+
+## 🌐 BROWSE BY DOMAIN
+
+### General (Universal)
+
+```dataview
+TABLE component-type, rating, usage-count
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND domain = "general"
+SORT rating DESC
+```
+
+### Technical
+
+```dataview
+TABLE component-type, rating, usage-count
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND domain = "technical"
+SORT rating DESC
+```
+
+### Creative
+
+```dataview
+TABLE component-type, rating, usage-count
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND domain = "creative"
+SORT rating DESC
+```
+
+### Educational
+
+```dataview
+TABLE component-type, rating, usage-count
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND domain = "educational"
+SORT rating DESC
+```
+
+### PKB Operations
+
+```dataview
+TABLE component-type, rating, usage-count
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND domain = "pkb"
+SORT rating DESC
+```
+
+---
+
+## ⭐ TOP PERFORMERS
+
+### Highest Rated
+
+```dataview
+TABLE component-type, domain, rating, usage-count
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND rating > 0
+SORT rating DESC, usage-count DESC
+LIMIT 10
+```
+
+### Most Used
+
+```dataview
+TABLE component-type, domain, rating, usage-count
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND usage-count > 0
+SORT usage-count DESC, rating DESC
+LIMIT 10
+```
+
+### Recently Added
+
+```dataview
+TABLE component-type, domain, rating, created
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component"
+SORT created DESC
+LIMIT 10
+```
+
+---
+
+## 🔍 SEARCH PATTERNS
+
+### Find by Keyword
+Use Obsidian search: `path:"02-component-library" keyword`
+
+### Find by Tag
+```dataview
+LIST
+FROM #component-type/persona
+```
+
+### Find Synergies
+Look for components with `synergies-with` links to discover proven combinations.
+
+### Find Conflicts
+Check `conflicts-with` arrays to avoid problematic combinations.
+
+---
+
+## 🆕 ADDING NEW COMPONENTS
+
+### Quick Add (QuickAdd Macro)
+1. `Ctrl+P` → "QuickAdd: Component Quick Create"
+2. Answer guided questions
+3. Component created with proper metadata
+
+### From Template
+1. Use `_component-template.md`
+2. Fill in metadata and component text
+3. Move to appropriate subfolder (atomic/composite/specialized)
+4. Add to this index via query (automatic)
+
+### Component Checklist
+- [ ] Use component template
+- [ ] Specify component-type, atomic-composite, domain
+- [ ] Write clear "When to Use" and "When NOT to Use" sections
+- [ ] Provide at least one usage example
+- [ ] Test in multiple contexts
+- [ ] Document any conflicts or synergies discovered
+- [ ] Add to appropriate subfolder
+
+---
+
+## 🔧 MAINTENANCE
+
+### Components Needing Review
+
+```dataview
+TABLE last-used, usage-count, rating
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND usage-count = 0 AND (date(today) - date(created)).days > 90
+SORT created ASC
+```
+
+### Low-Rated Components
+
+```dataview
+TABLE rating, usage-count, domain
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND rating > 0 AND rating < 5
+SORT rating ASC
+```
+
+### Orphaned Components (No Usage)
+
+```dataview
+TABLE created, domain, component-type
+FROM "02-projects/_spes-sequential-prompt-engineering-system/02-component-library"
+WHERE type = "component" AND usage-count = 0
+SORT created ASC
+LIMIT 20
+```
+
+---
+
+## 📚 LEARNING RESOURCES
+
+### Component Design Principles
+1. **Atomic First**: Break complex ideas into smallest reusable units
+2. **Single Purpose**: Each component does one thing well
+3. **Clear Boundaries**: Document when to use and when NOT to use
+4. **Test Multiple Contexts**: Verify reusability across domains
+5. **Track Performance**: Monitor usage and quality scores
+
+### Composition Patterns
+- **Sequential Chains**: Persona → Context → Instruction → Constraint → Format
+- **Layered Enhancement**: Start general, add specificity incrementally
+- **Domain Adaptation**: General component + domain context = specialized variant
+
+### Best Practices
+- Name components descriptively (action-oriented for instructions, role-based for personas)
+- Include examples showing component in full prompt context
+- Document discovered synergies and conflicts promptly
+- Update performance scores after significant usage
+- Archive unused components after 6 months (move to `99-archive`)
+
+---
+
+## 🔗 RELATED RESOURCES
+
+- **System Design**: [[00-prompt-engineering-system-design]]
+- **Metadata Schema**: [[03-metadata-schema-reference]]
+- **Quick Reference**: [[02-quick-reference-guide]]
+- **Component Template**: [_component-template.md](obsidian://open?vault=10_pur3v4d3r%27s-vault&file=99-system%2F01-quickadd%2F02-templates%2F_component-template.md)
+
+---
+
+*Library Index Version: 1.0.0 | Created: 2025-12-20 | Auto-updated via Dataview*

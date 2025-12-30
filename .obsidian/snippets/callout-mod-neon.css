@@ -1,0 +1,69 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ CALLOUT MOD: NEON GLOW STYLE
+
+ Purpose: Adds intense neon glow effects to all callouts
+ Usage: Enable this snippet to override the base callout styling
+ Author: Pur3v4d3r
+ Theme: Red & Black with intense neon accents
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* Override base callout for neon appearance */
+.callout {
+  background: rgba(10, 10, 10, 0.85) !important;
+  border: 2px solid rgba(var(--callout-color), 0.6) !important;
+  border-left: 4px solid rgb(var(--callout-color)) !important;
+  box-shadow:
+    0 0 10px rgba(var(--callout-color), 0.3),
+    0 0 20px rgba(var(--callout-color), 0.2),
+    0 0 40px rgba(var(--callout-color), 0.1),
+    0 4px 12px rgba(0, 0, 0, 0.5) !important;
+  animation: glowPulse 3s infinite !important;
+}
+
+.callout:hover {
+  border-color: rgba(var(--callout-color), 0.8) !important;
+  box-shadow:
+    0 0 15px rgba(var(--callout-color), 0.5),
+    0 0 30px rgba(var(--callout-color), 0.3),
+    0 0 60px rgba(var(--callout-color), 0.2),
+    0 6px 16px rgba(0, 0, 0, 0.6) !important;
+  transform: translateY(-2px) !important;
+}
+
+/* Neon title */
+.callout-title {
+  background: rgba(var(--callout-color), 0.15) !important;
+  color: rgb(var(--callout-color)) !important;
+  text-shadow:
+    0 0 5px rgba(var(--callout-color), 0.5),
+    0 0 10px rgba(var(--callout-color), 0.3),
+    0 2px 4px rgba(0, 0, 0, 0.8) !important;
+  font-weight: 600 !important;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.4) !important;
+}
+
+.callout:hover .callout-title {
+  background: rgba(var(--callout-color), 0.22) !important;
+  text-shadow:
+    0 0 8px rgba(var(--callout-color), 0.7),
+    0 0 15px rgba(var(--callout-color), 0.4),
+    0 2px 4px rgba(0, 0, 0, 0.8) !important;
+}
+
+/* Neon content */
+.callout-content {
+  background: rgba(0, 0, 0, 0.4) !important;
+}
+
+/* Add glowing line at top */
+.callout::before {
+  opacity: 1 !important;
+  background: linear-gradient(90deg,
+    transparent 0%,
+    rgba(var(--callout-color), 0.8) 50%,
+    transparent 100%) !important;
+  height: 2px !important;
+  box-shadow: 0 0 10px rgba(var(--callout-color), 0.6) !important;
+}

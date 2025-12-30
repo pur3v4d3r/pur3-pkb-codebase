@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Pur3v4d3r Complete Capture",
+  "behavior": "create",
+  "noteNameFormat": "{{date|date:\"YYYY-MM-DD\"}}-complete-{{title|safe_name|slice:0,50}}",
+  "path": "00-inbox/complete-captures",
+  "context": "{{selectorHtml:body|markdown|trim}}",
+  "properties": [
+    {
+      "name": "aliases",
+      "value": "{{\"Generate 2-3 useful aliases: the exact title, a shortened memorable version. Comma-separated.\"|split:\", \"}}",
+      "type": "multitext"
+    },
+    {
+      "name": "tags",
+      "value": "{{\"Select 8-12 tags. Return comma-separated:\\n\\nTYPE: type/reference, type/guide, type/analysis, type/tutorial\\nSTATUS: status/complete-capture\\nDOMAIN: (pick 2-4 relevant domains)\\nTOPICS: (pick 3-5 relevant topics)\"|split:\", \"}}",
+      "type": "multitext"
+    },
+    {
+      "name": "source",
+      "value": "{{\"Classify source: article, blog, paper, video, documentation, book, tutorial. One word.\"}}",
+      "type": "text"
+    },
+    {
+      "name": "id",
+      "value": "{{date|date:\"YYYYMMDDHHmmss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "created",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "modified",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "week",
+      "value": "[[{{date|date:\"GGGG-[W]WW\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "month",
+      "value": "[[{{date|date:\"YYYY-MM\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "quarter",
+      "value": "[[{{date|date:\"YYYY-[Q]Q\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "year",
+      "value": "[[{{date|date:\"YYYY\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "type",
+      "value": "{{\"Classify: reference, literature, guide, tutorial, analysis. One word.\"}}",
+      "type": "text"
+    },
+    {
+      "name": "maturity",
+      "value": "raw-capture",
+      "type": "text"
+    },
+    {
+      "name": "confidence",
+      "value": "needs-processing",
+      "type": "text"
+    },
+    {
+      "name": "next-review",
+      "value": "{{date|date_modify:\"+3 days\"|date:\"YYYY-MM-DD\"}}",
+      "type": "date"
+    },
+    {
+      "name": "review-count",
+      "value": "0",
+      "type": "number"
+    },
+    {
+      "name": "link-up",
+      "value": "{{\"Select MOC based on domain. Return ONLY wiki-link: [[cognitive-science-moc]], [[learning-theory-moc]], [[pkb-&-pkm-moc]], [[prompt-engineering-moc]]\"}}",
+      "type": "text"
+    },
+    {
+      "name": "link-related",
+      "value": "[[{{date|date:\"YYYY-MM-DD\"}}|Daily-Note]]",
+      "type": "text"
+    },
+    {
+      "name": "url",
+      "value": "{{url}}",
+      "type": "text"
+    },
+    {
+      "name": "author",
+      "value": "{{author}}",
+      "type": "text"
+    },
+    {
+      "name": "published",
+      "value": "{{published|date:\"YYYY-MM-DD\"}}",
+      "type": "date"
+    },
+    {
+      "name": "word-count",
+      "value": "{{\"Estimate word count. Return number only.\"}}",
+      "type": "number"
+    },
+    {
+      "name": "completeness",
+      "value": "full-page-capture",
+      "type": "text"
+    }
+  ],
+  "triggers": [],
+  "noteContentFormat": "# {{title}}\n\n> [!abstract] Comprehensive Summary\n> {{\"Provide 3-4 sentence summary covering ENTIRE content scope. Include beginning, middle, and end points.\"}}\n\n> [!metadata] Source Information\n> - **URL**: {{url}}\n> - **Author**: {{author}}\n> - **Published**: {{published|date:\"YYYY-MM-DD\"}}\n> - **Captured**: {{date|date:\"YYYY-MM-DD HH:mm\"}}\n> - **Word Count**: ~{{\"Estimate word count\"}} words\n\n---\n\n## 🎯 Primary Insights & Main Arguments\n\n{{\"Extract 5-8 PRIMARY insights from the ENTIRE content (beginning, middle, AND end). Format as:\\n\\n1. **Bolded Summary**: Detailed explanation with context and significance.\"}}\n\n---\n\n## 📚 Comprehensive Concept Extraction\n\n> [!important] Dataview Format\n> Uses `[**Key**:: Value]` format for Dataview extraction.\n\n{{\"Extract 15-30 key terms, concepts, and definitions from ENTIRE content. Use this EXACT format:\\n\\n[**Concept-Name-In-Title-Case-With-Hyphens**:: Complete explanation in 1-3 sentences with context.]\\n\\nExtract:\\n1. Technical terminology\\n2. Explicit definitions\\n3. Theoretical frameworks\\n4. Key principles\\n5. Important distinctions\\n6. Process names\\n7. Named concepts\\n8. Critical arguments\\n9. Practical techniques\\n10. Important data points\\n\\nAim for 15-30 entries.\"}}\n\n---\n\n## 🔗 Wiki-Link Network\n\n{{\"Identify 15-25 concepts for wiki-links. Format as [[Concept Name]]. Group by category:\\n\\n### Theories & Frameworks\\n- [[Concept]]\\n\\n### People & Authors\\n- [[Person Name]]\\n\\n### Tools & Technologies\\n- [[Tool Name]]\\n\\n### Related Topics\\n- [[Topic]]\"}}\n\n---\n\n## 💡 Key Takeaways & Action Items\n\n{{\"Extract 6-10 actionable takeaways from ENTIRE content. Format as:\\n\\n1. **Bolded Key Insight**: Explanation and application.\"}}\n\n---\n\n## 📊 Structure & Content Breakdown\n\n{{\"Provide detailed outline of entire content structure. Format as:\\n\\n### Section 1: Title\\n- Key point 1\\n- Key point 2\\n\\n### Section 2: Title\\n- Key point 1\"}}\n\n---\n\n## 🔍 Important Quotes & Evidence\n\n{{\"Extract 5-8 significant quotes from THROUGHOUT content. Format as:\\n\\n> Quote text here.\\n\\n**Context**: Why this matters and where it appears.\\n\\nPrioritize:\\n- Key definitions\\n- Important claims\\n- Critical evidence\\n- Major arguments\\n- Unique insights\"}}\n\n---\n\n## 🧠 Deep Analysis & Interpretation\n\n{{\"Comprehensive analysis addressing:\\n\\n### Core Thesis\\nMain argument or purpose\\n\\n### Supporting Evidence\\nEvidence or reasoning supporting claims\\n\\n### Implications\\nBroader implications of these ideas\\n\\n### Connections\\nHow this connects to other concepts\\n\\n### Critical Questions\\nQuestions raised, unclear points, debatable claims\"}}\n\n---\n\n## 🔗 Concept Relationships\n\n{{\"Identify 5-8 important concept relationships. Format as:\\n\\n1. **[[Concept A]]** relates to **[[Concept B]]**\\n   - Relationship Type: (causes, enables, contradicts, builds upon)\\n   - Explanation: How they relate and why it matters\"}}\n\n---\n\n## 📖 Complete Original Content\n\n> [!note] Full Content Below\n> Complete captured content for reference and future processing.\n\n{{content}}\n\n---\n\n## 💭 Processing Notes\n\n> [!question] Questions Raised\n> - \n\n> [!idea] Connections to Existing Knowledge\n> - \n\n> [!warning] Contradictions or Concerns\n> - \n\n> [!todo] Follow-Up Actions\n> - [ ] \n\n---\n\n## 🗺️ Related Topics for PKB Expansion\n\n{{\"Suggest 6-8 related topics. For each:\\n\\n1. **[[Topic Name]]**\\n   - Connection: How it relates to this content\\n   - Why Important: Why this merits exploration\\n   - Knowledge Graph Role: Where it fits in PKB\\n   - Potential Sources: Places to explore this topic\"}}\n\n---\n\n## 📈 Processing Status\n\n> [!info] Capture Metadata\n> - **Capture Method**: Complete page capture\n> - **Completeness**: 100 percent\n> - **Status**: Raw capture needs processing\n> - **Next Steps**:\n>   1. Read and annotate thoroughly\n>   2. Extract atomic notes for key concepts\n>   3. Create wiki-links to related notes\n>   4. Update maturity and confidence\n>   5. Link to MOCs\n\n---\n\n## 🔍 Processing Instructions\n\n> [!tip] How to Process\n> 1. Verify all wiki-links created as separate notes\n> 2. Break out concepts that deserve atomic notes\n> 3. Update frontmatter tags\n> 4. Add to relevant MOCs\n> 5. Update maturity from raw-capture to seedling\n> 6. Create connections to existing notes\n> 7. Extract definitions to glossary system\n"
+}

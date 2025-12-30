@@ -1,0 +1,119 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ CALLOUT MODIFIER: Card Elevated Style
+
+ Purpose: Transform callouts into elevated card components with strong depth
+ Effect: Material Design-inspired cards with prominent shadows and lift
+ Inspired by: Material Design, card-based interfaces, modern web design
+ Compatible with: All themes, especially effective with light backgrounds
+
+ Enable this snippet for:
+ - Strong elevation/depth effect
+ - Card-like appearance
+ - Prominent shadows
+ - Floating effect on hover
+ - Professional modern design
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* Card base with strong shadow */
+.callout {
+  border-radius: 16px !important;
+  border: 1px solid rgba(var(--callout-color), 0.2) !important;
+  border-left: 4px solid rgb(var(--callout-color)) !important;
+  background: var(--background-primary) !important;
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.15),
+    0 8px 24px rgba(0, 0, 0, 0.10),
+    0 1px 3px rgba(var(--callout-color), 0.2) !important;
+  padding: 0 !important;
+  margin: 1.5em 0 !important;
+  transition:
+    transform 0.3s cubic-bezier(0.4, 0.0, 0.2, 1),
+    box-shadow 0.3s cubic-bezier(0.4, 0.0, 0.2, 1) !important;
+}
+
+/* Remove default glow line */
+.callout::before {
+  display: none !important;
+}
+
+/* Card title with solid background */
+.callout-title {
+  background: rgba(var(--callout-color), 0.12) !important;
+  padding: 14px 18px !important;
+  border-bottom: 1px solid rgba(var(--callout-color), 0.15) !important;
+  border-radius: 16px 16px 0 0 !important;
+  font-weight: 600 !important;
+  margin: 0 !important;
+}
+
+/* Card content */
+.callout-content {
+  background: transparent !important;
+  padding: 16px 18px !important;
+}
+
+/* Elevated hover state - card lifts higher */
+.callout:hover {
+  transform: translateY(-8px) !important;
+  box-shadow:
+    0 12px 24px rgba(0, 0, 0, 0.20),
+    0 16px 40px rgba(0, 0, 0, 0.15),
+    0 0 0 1px rgba(var(--callout-color), 0.3),
+    0 2px 8px rgba(var(--callout-color), 0.4) !important;
+  border-left-width: 5px !important;
+}
+
+.callout:hover .callout-title {
+  background: rgba(var(--callout-color), 0.18) !important;
+}
+
+/* Top accent bar for extra card feeling */
+.callout::after {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  height: 3px !important;
+  background: linear-gradient(90deg,
+    rgb(var(--callout-color)) 0%,
+    rgba(var(--callout-color), 0.5) 100%) !important;
+  border-radius: 16px 16px 0 0 !important;
+  pointer-events: none !important;
+}
+
+/* Card icon with background */
+.callout-icon {
+  background: rgba(var(--callout-color), 0.15) !important;
+  border-radius: 8px !important;
+  padding: 6px !important;
+  transition: all 0.3s ease !important;
+}
+
+.callout:hover .callout-icon {
+  background: rgba(var(--callout-color), 0.25) !important;
+  transform: scale(1.1) rotate(0deg) !important;
+}
+
+/* Nested cards slightly less elevated */
+.callout .callout {
+  margin: 1em 0 !important;
+  box-shadow:
+    0 2px 8px rgba(0, 0, 0, 0.12),
+    0 4px 16px rgba(0, 0, 0, 0.08) !important;
+}
+
+.callout .callout:hover {
+  transform: translateY(-4px) !important;
+  box-shadow:
+    0 8px 16px rgba(0, 0, 0, 0.15),
+    0 12px 32px rgba(0, 0, 0, 0.12) !important;
+}
+
+/* Focus state for accessibility */
+.callout:focus-within {
+  outline: 2px solid rgba(var(--callout-color), 0.5) !important;
+  outline-offset: 4px !important;
+}

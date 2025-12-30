@@ -1,0 +1,149 @@
+{
+  "frames": [
+    {
+      "url": "D:\\02-reference\\ref-obsidian\\ref-gemini-created-custom-frames\\ref-gemini-tool-for-creating-visual-reference-sheets-2025-09-12.html",
+      "displayName": "reference",
+      "icon": "star",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "D:\\02-reference\\ref-obsidian\\ref-gemini-created-custom-frames\\gemini-obsidian-markdown-editior\\gemini-markdown-assistant-for-obsidian.html",
+      "displayName": "markdown-assistant",
+      "icon": "bot",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "D:\\02-reference\\ref-obsidian\\ref-gemini-created-custom-frames\\ref-geemini-the-idea-alchemist-2025-09-12.html",
+      "displayName": "idea-alchemist",
+      "icon": "lightbulb",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "D:\\02-reference\\ref-obsidian\\ref-gemini-created-custom-frames\\ref-gemini-analogy-forge-2025-09-12.html",
+      "displayName": "analogy",
+      "icon": "vector-square",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "D:\\02-reference\\ref-obsidian\\ref-gemini-created-custom-frames\\ref-gemini-cosmin-iquiry-generator-2025-09-12.html",
+      "displayName": "cosmic",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "D:\\02-reference\\ref-obsidian\\ref-gemini-created-custom-frames\\ref-gemini-daily-compass.html",
+      "displayName": "daily-compass",
+      "icon": "compass",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "D:\\02-reference\\ref-obsidian\\ref-gemini-created-custom-frames\\ref-gemini-first-principles-thinker-2025-09-12.html",
+      "displayName": "first-principles",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "D:\\02-reference\\ref-obsidian\\ref-gemini-created-custom-frames\\ref-gemini-inner-compass-2025-09-12.html",
+      "displayName": "inner-compass",
+      "icon": "drafting-compass",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "D:\\02-reference\\ref-obsidian\\ref-gemini-created-custom-frames\\ref-gemini-inquiry-hub-2025-09-12.html",
+      "displayName": "inquiry-hub",
+      "icon": "message-circle-question-mark",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "D:\\02-reference\\ref-obsidian\\ref-gemini-created-custom-frames\\ref-gemini-learning-compass-2025-09-12.html",
+      "displayName": "learning-compass",
+      "icon": "apple",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "D:\\02-reference\\ref-obsidian\\ref-gemini-created-custom-frames\\gemini-markdown-assistant-for-obsidian\\index.html",
+      "displayName": "refactor",
+      "icon": "bot-message-square",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "prompt-engineering-resource.jsx",
+      "displayName": "Prompt Engineering Paper Source",
+      "icon": "clipboard",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": true,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

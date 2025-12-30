@@ -1,0 +1,129 @@
+---
+id: "<% tp.date.now("YYYYMMDD-HHmmss") %>"
+date: "<% tp.date.now("YYYY-MM-DD") %>"
+week: "<% tp.date.now("gggg-[W]WW")%>"
+month: "<% tp.date.now("YYYY-MM") %>"
+quarter: "<% tp.date.now("YYYY-[Q]Q")%>"
+year: "<% tp.date.now("YYYY") %>"
+type: "daily"
+tags:
+  - "daily"
+aliases:
+  - "<% tp.date.now("dddd, MMMM Do, YYYY") %>"
+link-related:
+  - "[[<% tp.date.now("YYYY-MM-DD", -1,) %>|Yesterday's Daily Note]]"
+---
+### *Daily Quote's*
+>"You are just an impression and not at all the thing you claim to be"
+   — Epictetus
+
+> "Men are disturbed not by things, but by the views which they take of things."
+>  — Epictetus
+
+# <% tp.date.now("dddd, MMMM Do, YYYY") %>
+
+> [! ]
+>
+> ### Temporal Context
+> **Week**: [[<% tp.date.now("gggg-[W]WW", ) %>]]
+> **This Week's Theme**:: `Critical Thinking`
+> **Monthly Goal**:: `Stoicism`
+> **Created**: `= this.file.ctime`
+> **Modified**: `= this.file.mtime`
+> **Today**: `= date(today)`
+> **Tomorrow**: `= date(today) + dur(1 day)`
+> **End of Month**: `= date(eom)`
+> **Start of Year**: `= date(soy)`
+> **Days in Current Month**: `= (date(eom) - date(som)).days`
+> **Quarter**: `= "Q" + ceil(date(today).month / 3)`
+
+**Event → Interpretation → Emotional Response**
+---
+> "By training ourselves to modify assent patterns at Phase Two, we can systematically alter the quality and intensity of emotions experienced at Phase Three."
+> —— Claude
+> [[psy-report-psychological-mechanisms-underlying-the-efficacy-and-multi-millennial-longevity-of-stoic-techniques-2025112508|Efficacy and Multi Millennial Longevity of Stoic Techniques]]
+
+#### *Full Daily Quote's*
+> [!stoic-quote]  Stoic Quote
+>  "Remember that it is not only the desire of having, but also the desire of avoiding, that is subject to our will. Remember that you are a mortal, and one of the parts of a whole. Remember that the nature of the things which you desire is not your own, but foreign. Remember that as soon as an impression [phantasia] arises, say to it: 'You are just an impression and not at all the thing you claim to be.' Then examine it by those rules which you have, and first and chiefly, by this: whether it relates to the things which are in our power, or to those which are not; and, if it relates to anything not in our power, be prepared to say: 'It is nothing to me.'"
+>  	—— Epictetus, 
+>  	    Discourses [Book II, Chapter 18]
+
+> [!purpose]  The One Thing to Remember
+> *When something disturbing happens*, ***immediately ask*** "**Is this something I can control or something I cannot control?**" If it's something you cannot control (which includes most of what happens), then struggling against it, resenting it, or being emotionally devastated by it is irrational—you're expending energy trying to change what cannot be changed. Your only rational response is **acceptance** of the fact and **focus** on what remains within your power: how you interpret the event, what meaning you assign it, and what actions you choose to take in response.
+
+----
+# <% tp.date.now("dddd, MMMM Do, YYYY") %>'s Plan
+>[! ]  Tasks Overview
+Use this space to plan out today's activities. 
+**Note**: Don't forget you can also add see these tasks in the day planner window.
+- [ ] ` `
+- [ ] ` `
+- [ ] ` `
+- [ ] ` `
+
+>[! ]  Task Scheduling 
+> [Add Tasks that are recurring here (⬇️).]
+- **Weekly Menu Planning**
+- [ ] #task Plan this upcoming weeks Menu.  [id:: aeh5ty]  [priority:: high]  [repeat:: every week]  [created:: 2025-12-17]  [start:: 2025-12-20]  [due:: 2025-12-20]
+- **Weekly Grocery List Creation**
+- [ ] #task Create this week's grocery list, using the Menu you just created.  [id:: 0fyzil]  [dependsOn:: aeh5ty]  [priority:: high]  [repeat:: every week]  [created:: 2025-12-17]  [start:: 2025-12-20]  [scheduled:: 2025-12-20]  [due:: 2025-12-20]
+- **Weekly Grocery Shopping**
+- [x] #task Go Grocery Shopping  [priority:: highest]  [repeat:: every week]  [created:: 2025-12-06]  [start:: 2025-12-13]  [due:: 2025-12-13]  [completion:: 2025-12-06]
+- [ ] #task Go Grocery Shopping  [dependsOn:: 0fyzil]  [priority:: highest]  [repeat:: every week]  [created:: 2025-12-06]  [start:: 2025-12-20]  [due:: 2025-12-20]
+
+
+---
+## Daily Meditations
+### Morning
+
+- **Prospective Visualization**: 
+	- [What challenges might today present?] 
+	- [How do I want to respond?] 
+
+- **Virtue Intention**: 
+	- [Which specific virtue will I emphasize today?] 
+		- [Wisdom], [Justice], [Courage], [Temperance]
+
+- **Control Dichotomy**: 
+	- [What is within versus outside my control today?]
+
+- **Implementation Intentions**: 
+	- [If [specific situation], then I will [specific response]].
+### Evening
+- **Event Documentation**: 
+- [What significant events occurred?]
+	- [Factual recording]
+
+- **Judgment Analysis**: 
+	- [What interpretations/judgments did I make?] 
+		- [Were they based on what's controllable?]
+
+- **Emotional Inventory**: 
+	- [When did I experience strong emotions?] 
+		- [What thoughts generated them?]
+
+- **Virtue Assessment**: 
+	- [Did I act according to my morning intention?] 
+		- [Where did I succeed or fail?]
+
+- **Cognitive Reframing**: 
+	- [Select one problematic reaction and systematically reframe using Stoic principles.]
+
+- **Lesson Extraction**: 
+	- [What did I learn today about myself, others, or effective action?]
+### Tomorrow's Priority
+
+- **Tomorrow's Commitment**: 
+	- [Based on today's reflection, what specific intention will I set for tomorrow?]
+		- [ ] {{PRIORITY TOMORROW HERE}} [scheduled:: <%tp.date.now("YYYY-MM-DD",1)%>] [created:: <% tp.date.now("YYYY-MM-DD")%>]
+---
+
+# Logs
+### Work Log
+
+### Thoughts Log
+
+### Tasks
+
+# Captures

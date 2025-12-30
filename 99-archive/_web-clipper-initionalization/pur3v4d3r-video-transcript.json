@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Pur3v4d3r Video Transcript",
+  "behavior": "create",
+  "noteNameFormat": "{{schema:@VideoObject:uploadDate|date:\"YYYY-MM-DD\"}}-video-{{schema:@VideoObject:name|safe_name|slice:0,50}}",
+  "path": "03-notes/media",
+  "context": "{{schema:@VideoObject:description}}\n\n---TRANSCRIPT---\n\n{{selectorHtml:.ytd-transcript-segment-list-renderer|first|replace:\"&nbsp;\":\" \"|join|markdown}}",
+  "properties": [
+    {
+      "name": "aliases",
+      "value": "{{\"Generate 2-3 aliases: the video title, a shortened version, and the creator's name + topic format (e.g., 'Tiago Forte on PARA'). Comma-separated.\"|split:\", \"}}",
+      "type": "multitext"
+    },
+    {
+      "name": "tags",
+      "value": "{{\"Select 6-10 tags. Return comma-separated:\\n\\nTYPE: type/video, type/tutorial, type/guide, type/course\\nSTATUS: status/not-watched, status/seedling\\nPLATFORM: youtube, course-content, lecture\\nDOMAIN (pick 2-3): cognitive-science, learning-theory, pkm, productivity, prompt-engineering, self-improvement, obsidian\\nTOPICS (based on content)\"|split:\", \"}}",
+      "type": "multitext"
+    },
+    {
+      "name": "source",
+      "value": "video",
+      "type": "text"
+    },
+    {
+      "name": "id",
+      "value": "{{date|date:\"YYYYMMDDHHmmss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "created",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "modified",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "week",
+      "value": "[[{{date|date:\"GGGG-[W]WW\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "month",
+      "value": "[[{{date|date:\"YYYY-MM\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "quarter",
+      "value": "[[{{date|date:\"YYYY-[Q]Q\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "year",
+      "value": "[[{{date|date:\"YYYY\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "type",
+      "value": "{{\"Classify: tutorial, lecture, course, reference, guide, analysis. One word.\"}}",
+      "type": "text"
+    },
+    {
+      "name": "maturity",
+      "value": "seedling",
+      "type": "text"
+    },
+    {
+      "name": "confidence",
+      "value": "provisional",
+      "type": "text"
+    },
+    {
+      "name": "next-review",
+      "value": "{{date|date_modify:\"+7 days\"|date:\"YYYY-MM-DD\"}}",
+      "type": "date"
+    },
+    {
+      "name": "review-count",
+      "value": "0",
+      "type": "number"
+    },
+    {
+      "name": "link-up",
+      "value": "{{\"Select MOC based on video topic. Return ONLY wiki-link:\\n[[cognitive-science-moc]], [[learning-theory-moc]], [[pkb-&-pkm-moc]], [[prompt-engineering-moc]], [[practical-philosophy-moc]], [[artificial-intelligence-moc]]\"}}",
+      "type": "text"
+    },
+    {
+      "name": "link-related",
+      "value": "[[{{date|date:\"YYYY-MM-DD\"}}|Daily-Note]]",
+      "type": "text"
+    },
+    {
+      "name": "url",
+      "value": "{{url}}",
+      "type": "text"
+    },
+    {
+      "name": "channel",
+      "value": "{{schema:@VideoObject:author}}",
+      "type": "text"
+    },
+    {
+      "name": "duration",
+      "value": "{{schema:@VideoObject:duration|replace:\"PT\":\"\"|replace:\"S\":\"\"}}",
+      "type": "text"
+    },
+    {
+      "name": "published",
+      "value": "{{schema:@VideoObject:uploadDate|date:\"YYYY-MM-DD\"}}",
+      "type": "date"
+    }
+  ],
+  "triggers": [
+    "https://www.youtube.com/watch",
+    "https://youtu.be",
+    "https://www.coursera.org",
+    "https://www.udemy.com",
+    "https://www.skillshare.com",
+    "schema:@VideoObject"
+  ],
+  "noteContentFormat": "# {{schema:@VideoObject:name}}\n\n> [!video] Video Information\n> - **Channel**: {{schema:@VideoObject:author}}\n> - **Duration**: {{schema:@VideoObject:duration|replace:\"PT\":\"\"|replace:\"M\":\"m \"|replace:\"S\":\"s\"}}\n> - **Published**: {{schema:@VideoObject:uploadDate|date:\"YYYY-MM-DD\"}}\n> - **URL**: {{url}}\n\n![Video Thumbnail]({{schema:@VideoObject:thumbnailUrl}})\n\n---\n\n## 🎯 Video Summary\n\n{{\"Provide a comprehensive summary of the video content in 3-4 paragraphs. Cover:\\n1. The main topic and why it matters\\n2. Key arguments or demonstrations\\n3. Practical takeaways\"}}\n\n---\n\n## ⏱️ Timestamped Key Points\n\n{{\"Extract 5-8 key moments from the video with approximate timestamps. Format as:\\n\\n- **[00:00]** - Introduction/Topic Setup\\n- **[MM:SS]** - Key Point Description\\n\\nIf no timestamps are available, create logical sections based on content flow.\"}}\n\n---\n\n## 📝 Key Takeaways\n\n{{\"Extract 5-7 actionable takeaways from the video. Format as:\\n\\n1. **Bolded Key Phrase**: Brief explanation of the takeaway and how to apply it.\\n\\nFocus on what the viewer should remember and do.\"}}\n\n---\n\n## 📚 Key Concepts & Definitions\n\n{{\"Extract 4-8 important terms or concepts explained in the video. Use this EXACT Dataview format:\\n\\n[**Concept-Name**:: Definition or explanation as presented in the video.]\\n\\nInclude technical terms, frameworks, and key vocabulary.\"}}\n\n---\n\n## 🔗 Wiki-Link Concepts\n\n{{\"Identify 6-10 concepts that should be wiki-linked for knowledge graph building. Format as [[Concept Name]] on separate lines. Include:\\n- Tools or software mentioned\\n- Methodologies or frameworks\\n- People or creators referenced\\n- Related topics to explore\"}}\n\n---\n\n## 📖 Description\n\n{{schema:@VideoObject:description}}\n\n---\n\n## 📜 Transcript (if available)\n\n> [!note] Transcript Processing\n> Open the YouTube transcript panel before clipping to capture the transcript.\n\n{{selectorHtml:.ytd-transcript-segment-list-renderer|first|replace:\"&nbsp;\":\" \"|join|markdown}}\n\n---\n\n## 💭 Personal Notes\n\n> [!question] Questions Raised\n> - \n\n> [!idea] Ideas Sparked\n> - \n\n> [!todo] Action Items\n> - [ ] \n\n---\n\n## 🔗 Related Topics for PKB Expansion\n\n{{\"Suggest 4 related topics for further exploration:\\n\\n1. **[[Topic]]**\\n   - *Connection*: How it relates to this video\\n   - *Depth Potential*: Why worth exploring\\n   - *Knowledge Graph Role*: Where it fits\"}}"
+}

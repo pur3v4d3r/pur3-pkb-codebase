@@ -1,0 +1,32 @@
+<%*
+// 1. Import the script
+// Ensure the user script is named 'clipboard_normalizer.js'
+const normalize = tp.user.clipboard_normalizer;
+
+if (!normalize) {
+    new Notice("❌ Error: clipboard_normalizer.js not found in scripts folder!");
+} else {
+    // 2. Define Options
+    const modes = {
+        "Standard (Typography + Markdown + URL Clean)": "standard",
+        "Links Only (Strip Tracking Params)": "links_only",
+        "Raw (Just Paste)": "raw"
+    };
+
+    // 3. Prompt User
+    const selectedLabel = await tp.system.suggester(
+        Object.keys(modes),
+        Object.keys(modes)
+    );
+
+    if (selectedLabel) {
+        const mode = modes[selectedLabel];
+        
+        // 4. Execute Normalization
+        const cleanText = await normalize(tp, mode);
+        
+        // 5. Output
+        tR += cleanText;
+    }
+}
+%>

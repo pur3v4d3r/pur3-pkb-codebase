@@ -1,0 +1,171 @@
+# Brainstorming to Implementation
+
+Collaborative workflow for transforming vague ideas into well-defined features through structured dialogue before specification.
+
+For well-defined requirements, skip brainstorming and use [Spec-Driven Development](./spec-driven-development.md) directly.
+
+## When to Use
+
+- Unclear or incomplete requirements that need refinement
+- Exploring multiple approaches before committing to a direction
+- New features where you know the goal but not the implementation
+- Stakeholder alignment needed before detailed planning
+
+## Plugins needed for this workflow
+
+- [SDD](../plugins/sdd/README.md)
+- [Code Review](../plugins/code-review/README.md)
+- [Git](../plugins/git/README.md)
+
+## Workflow
+
+### How It Works
+
+```md
+┌─────────────────────────────────────────────┐
+│ 1. Brainstorm the Idea                      │
+│    (collaborative Q&A refinement)           │
+└────────────────────┬────────────────────────┘
+                     │
+                     │ LLM asks questions one at a time
+                     ▼
+┌─────────────────────────────────────────────┐
+│ 2. Explore Approaches                       │ ◀─── refine understanding ────┐
+│    (evaluate 2-3 options with trade-offs)   │                               │
+└────────────────────┬────────────────────────┘                               │
+                     │                                                        │
+                     │ select preferred approach                              │
+                     ▼                                                        │
+┌─────────────────────────────────────────────┐                               │
+│ 3. Present Design                           │───────────────────────────────┘
+│    (incremental validation in sections)     │
+└────────────────────┬────────────────────────┘
+                     │
+                     │ validated design saved to docs/plans/
+                     ▼
+┌─────────────────────────────────────────────┐
+│ 4. Create Specification                     │
+│    (formal feature spec from design)        │
+└────────────────────┬────────────────────────┘
+                     │
+                     │ continue with SDD workflow
+                     ▼
+┌─────────────────────────────────────────────┐
+│ 5-8. Plan, Implement, Review, Document      │
+│    (standard SDD phases)                    │
+└─────────────────────────────────────────────┘
+```
+
+### 1. Brainstorm the idea
+
+Use the `/sdd:brainstorm` command to start a collaborative dialogue. The LLM will explore your project context and ask clarifying questions one at a time.
+
+```bash
+/sdd:brainstorm Users want better search but requirements are unclear
+```
+
+After starting, the LLM will:
+- Review your project structure, docs, and recent commits
+- Ask focused questions (preferring multiple choice when possible)
+- Help you define purpose, constraints, and success criteria
+
+Answer each question to progressively refine the idea. The conversation continues until requirements are clear.
+
+### 2. Explore approaches
+
+Once the LLM understands your needs, it will propose 2-3 different approaches with trade-offs.
+
+```md
+The LLM will present options like:
+
+**Option A: Elasticsearch Integration** (Recommended)
+- Full-text search with faceting
+- Trade-off: Additional infrastructure
+
+**Option B: PostgreSQL Full-Text Search**
+- No new dependencies
+- Trade-off: Limited faceting capabilities
+
+**Option C: Algolia Service**
+- Fastest implementation
+- Trade-off: External dependency and cost
+```
+
+After reviewing options, select your preferred approach or ask for more exploration. The LLM leads with its recommendation and explains the reasoning.
+
+### 3. Present design
+
+The LLM presents the validated approach as a design document in 200-300 word sections, checking after each section whether it looks right.
+
+```md
+The LLM will cover:
+- Architecture overview
+- Component breakdown
+- Data flow
+- Error handling
+- Testing approach
+```
+
+After each section, confirm it matches your expectations or request changes. Once complete, the design is saved to `docs/plans/YYYY-MM-DD-<topic>-design.md`.
+
+### 4. Create specification
+
+Use the `/sdd:01-specify` command to create a formal specification from the refined design.
+
+```bash
+/sdd:01-specify Implement faceted search with Elasticsearch, filters, and autocomplete
+```
+
+After LLM completes, review the specification in the `specs/` directory. This becomes the foundation for implementation planning.
+
+### 5. Plan architecture
+
+Use the `/sdd:02-plan` command to create the implementation plan based on your specification.
+
+```bash
+/sdd:02-plan
+```
+
+After LLM completes, review the proposed architecture and technical decisions.
+
+### 6. Break down into tasks
+
+Use the `/sdd:03-tasks` command to create actionable implementation tasks.
+
+```bash
+/sdd:03-tasks
+```
+
+After LLM completes, review the task list and adjust priorities as needed.
+
+### 7. Implement features
+
+Use the `/sdd:04-implement` command to execute the implementation.
+
+```bash
+/sdd:04-implement
+```
+
+During implementation, the LLM updates task progress and follows TDD approach with quality review.
+
+### 8. Review and document
+
+Complete the workflow with code review, documentation, and pull request creation. More info in [Spec-Driven Development](./spec-driven-development.md) workflow.
+
+```bash
+/code-review:review-local-changes
+/sdd:05-document
+/git:create-pr
+```
+
+After completion, your feature is ready for merge with full documentation in the `docs/` directory.
+
+## Key Principles
+
+The brainstorming phase follows these principles to ensure productive refinement:
+
+- **One question at a time** - Focused dialogue prevents overwhelm
+- **Multiple choice preferred** - Easier to answer than open-ended questions
+- **YAGNI ruthlessly** - Remove unnecessary features from designs
+- **Explore alternatives** - Always consider 2-3 approaches before committing
+- **Incremental validation** - Present design in sections, validate each one

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "0.1.0",
+  "name": "Pur3v4d3r Universal",
+  "behavior": "create",
+  "noteNameFormat": "{{date|date:\"YYYY-MM-DD\"}}-{{\"suggest a 3-5 word kebab-case filename based on the main topic\"|replace:\" \":\"-\"|lower|safe_name}}",
+  "path": "00-inbox/webclips",
+  "context": "{{selectorHtml:article,main,.post-content,.entry-content,.article-body,#content,.content|markdown|slice:0,12000|trim}}",
+  "properties": [
+    {
+      "name": "aliases",
+      "value": "{{\"Generate 2-3 useful aliases for this content: the exact title, a shortened version, and any common abbreviations. Return as comma-separated list.\"|split:\", \"}}",
+      "type": "multitext"
+    },
+    {
+      "name": "tags",
+      "value": "{{\"Based on the content, select 6-10 appropriate tags from these categories. Return ONLY the tag values as a comma-separated list, no explanations:\\n\\nTYPE (pick 1): type/reference, type/guide, type/analysis, type/tutorial, type/report, type/technique, type/framework, type/concept\\n\\nSTATUS (pick 1): status/seedling, status/not-read\\n\\nDOMAIN (pick 2-3 from): cognitive-science, psychology, neuroscience, learning-theory, educational-psychology, pkm, pkb, obsidian, prompt-engineering, artificial-intelligence, productivity, self-regulation, critical-thinking, information-architecture\\n\\nTOPICS (pick 2-4 relevant): memory-systems, attention, metacognition, cognitive-load, learning-strategies, spaced-repetition, active-recall, knowledge-graph, automation, dataview, templater, zettelkasten, note-taking\"|split:\", \"}}",
+      "type": "multitext"
+    },
+    {
+      "name": "source",
+      "value": "{{\"Classify the source type. Return ONLY one of: article, blog, paper, video, course, documentation, community, book. Just the single word.\"}}",
+      "type": "text"
+    },
+    {
+      "name": "id",
+      "value": "{{date|date:\"YYYYMMDDHHmmss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "created",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "modified",
+      "value": "{{date|date:\"YYYY-MM-DDTHH:mm:ss\"}}",
+      "type": "text"
+    },
+    {
+      "name": "week",
+      "value": "[[{{date|date:\"GGGG-[W]WW\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "month",
+      "value": "[[{{date|date:\"YYYY-MM\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "quarter",
+      "value": "[[{{date|date:\"YYYY-[Q]Q\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "year",
+      "value": "[[{{date|date:\"YYYY\"}}]]",
+      "type": "text"
+    },
+    {
+      "name": "type",
+      "value": "{{\"Classify this content type. Return ONLY one of: reference, literature, guide, tutorial, report, analysis, technique, framework, concept. Just the single word.\"}}",
+      "type": "text"
+    },
+    {
+      "name": "maturity",
+      "value": "seedling",
+      "type": "text"
+    },
+    {
+      "name": "confidence",
+      "value": "provisional",
+      "type": "text"
+    },
+    {
+      "name": "next-review",
+      "value": "{{date|date_modify:\"+7 days\"|date:\"YYYY-MM-DD\"}}",
+      "type": "date"
+    },
+    {
+      "name": "review-count",
+      "value": "0",
+      "type": "number"
+    },
+    {
+      "name": "link-up",
+      "value": "{{\"Based on the content's primary domain, select the MOST appropriate parent MOC. Return ONLY the wiki-link format, nothing else. Choose from:\\n- [[cognitive-science-moc]] (for memory, attention, perception, cognition)\\n- [[learning-theory-moc]] (for learning strategies, education theory)\\n- [[educational-psychology-moc]] (for instructional design, pedagogy)\\n- [[pkb-&-pkm-moc]] (for knowledge management, Obsidian, note-taking)\\n- [[prompt-engineering-moc]] (for AI prompts, LLMs)\\n- [[neuroscience-moc]] (for brain science, neural mechanisms)\\n- [[practical-philosophy-moc]] (for ethics, Stoicism, life principles)\\n- [[artificial-intelligence-moc]] (for AI/ML general topics)\\n- [[cosmology-moc]] (for space, physics, universe)\"}}",
+      "type": "text"
+    },
+    {
+      "name": "link-related",
+      "value": "[[{{date|date:\"YYYY-MM-DD\"}}|Daily-Note]]",
+      "type": "text"
+    },
+    {
+      "name": "url",
+      "value": "{{url}}",
+      "type": "text"
+    },
+    {
+      "name": "author",
+      "value": "{{author}}",
+      "type": "text"
+    },
+    {
+      "name": "published",
+      "value": "{{published|date:\"YYYY-MM-DD\"}}",
+      "type": "date"
+    }
+  ],
+  "triggers": [
+    "schema:@Article",
+    "schema:@BlogPosting",
+    "schema:@NewsArticle",
+    "schema:@WebPage"
+  ],
+  "noteContentFormat": "# {{title}}\n\n> [!abstract] Quick Summary\n> {{\"Provide a 2-3 sentence summary of the main point of this content. Be concise and capture the core insight.\"}}\n\n> [!metadata] Source Information\n> - **URL**: {{url}}\n> - **Author**: {{author}}\n> - **Published**: {{published|date:\"YYYY-MM-DD\"}}\n> - **Captured**: {{date|date:\"YYYY-MM-DD HH:mm\"}}\n\n---\n\n## 🎯 Key Takeaways\n\n{{\"Extract 3-5 key takeaways from this content. Format as a numbered list. Each takeaway should be actionable or insightful. Start each with a brief bolded phrase summarizing the point.\"}}\n\n---\n\n## 📚 Key Concepts & Definitions\n\n{{\"Identify 3-8 important terms, concepts, or definitions from this content. For each, use this EXACT format on its own line:\\n\\n[**Term-Name**:: Definition or explanation of the term in 1-2 sentences.]\\n\\nUse Title-Case-With-Hyphens for term names. These will be parsed by Dataview.\"}}\n\n---\n\n## 🔗 Potential Wiki-Links\n\n{{\"Identify 5-10 concepts mentioned or implied in this content that would make good wiki-links for a knowledge graph. Format each as [[Concept Name]] on its own line. Focus on:\\n- Technical terms that deserve their own notes\\n- Theories or frameworks mentioned\\n- People or researchers cited\\n- Related topics worth exploring\"}}\n\n---\n\n## 💭 Personal Reflections\n\n> [!question] Questions Raised\n> - \n\n> [!idea] Connections to Existing Knowledge\n> - \n\n> [!todo] Action Items\n> - [ ] \n\n---\n\n## 📖 Original Content\n\n{{content}}\n\n---\n\n## 🔗 Related Topics for PKB Expansion\n\n{{\"Suggest 4 related topics that would extend this knowledge. For each, provide:\\n1. The topic as a [[Wiki-Link]]\\n2. A brief description of how it connects to this content\\n3. Why it merits separate exploration\\n\\nFormat as a numbered list with sub-bullets.\"}}"
+}

@@ -1,0 +1,296 @@
+/* ═══════════════════════════════════════════════════════════════
+   UNIFIED CUSTOM CALLOUT SYSTEM - COMPLETE ACTIVE CALLOUTS
+   Foundation + All 95 Active Callouts + Hover Glow Style
+   
+   Version: 3.0.0 - Final Production Release
+   Total Callouts: 95 active types
+   Color Categories: Purple (Logic) | Gold (Workflow) | Teal (Ideas)
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ┌─────────────────────────────────────────────────────────────┐
+   │ FOUNDATION 1: COLOR PALETTE                                 │
+   └─────────────────────────────────────────────────────────────┘ */
+
+:root {
+  /* === PRIMARY ACCENT COLORS === */
+  --theme-crimson: #E50000;
+  --theme-crimson-bright: #FF0000;
+  --theme-crimson-dim: #CC0000;
+
+  /* === CORE UI COLORS === */
+  --theme-text: #E0E0E0;
+  --theme-bg: #121212;
+
+  /* === RGB VERSIONS (for rgba() transparency) === */
+  --theme-crimson-rgb: 229, 0, 0;
+  --theme-crimson-bright-rgb: 255, 0, 0;
+  --theme-crimson-dim-rgb: 204, 0, 0;
+  --theme-text-rgb: 224, 224, 224;
+  --theme-bg-rgb: 18, 18, 18;
+
+  /* === DEFAULT FALLBACK === */
+  --callout-color: var(--theme-crimson);
+  --callout-color-rgb: var(--theme-crimson-rgb);
+}
+
+/* ┌─────────────────────────────────────────────────────────────┐
+   │ FOUNDATION 2: CALLOUT CATEGORIZATION                        │
+   │ All 95 active callouts organized by thematic purpose        │
+   └─────────────────────────────────────────────────────────────┘ */
+
+/* ═══════════════════════════════════════════════════════════════
+   CATEGORY 1: LOGIC, ARGUMENT & ACADEMIC ANALYSIS (Purple #E50000)
+   
+   Purpose: Core intellectual work
+   - Claims, evidence, reasoning
+   - Definitions, concepts, theories
+   - Academic analysis modes
+   - Mathematical and scientific content
+   
+   Total: 30 callouts
+   ═══════════════════════════════════════════════════════════════ */
+
+.callout[data-callout="key-claim"],
+.callout[data-callout="casual-link"],
+.callout[data-callout="evidence"],
+.callout[data-callout="counter-argument"],
+.callout[data-callout="no-evidence"],
+.callout[data-callout="principle-point"],
+.callout[data-callout="cosmos-concept"],
+.callout[data-callout="equation"],
+.callout[data-callout="thought-experiment"],
+.callout[data-callout="definition"],
+.callout[data-callout="analogy"],
+.callout[data-callout="math"],
+.callout[data-callout="analysis-rhetorical"],
+.callout[data-callout="analysis-logical"],
+.callout[data-callout="analysis-contextual"],
+.callout[data-callout="analysis-cognitive"],
+.callout[data-callout="core-principle"],
+.callout[data-callout="argument"],
+.callout[data-callout="feynman-technique"],
+.callout[data-callout="atomic-concept"],
+.callout[data-callout="quote"],
+.callout[data-callout="cite"],
+.callout[data-callout="example"],
+.callout[data-callout="info"],
+.callout[data-callout="attention"],
+.callout[data-callout="hint"],
+.callout[data-callout="faq"],
+.callout[data-callout="review"],
+.callout[data-callout="important"],
+.callout[data-callout="abstract"] {
+  --callout-color: var(--theme-crimson);
+  --callout-color-rgb: var(--theme-crimson-rgb);
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   CATEGORY 2: PROJECTS, WORKFLOW & STATUS (Gold #E50000)
+   
+   Purpose: Task and project management
+   - Reading status tracking
+   - Project phases and planning
+   - Workflow documentation
+   - Warnings and constraints
+   - Creative production (photography)
+   
+   Total: 33 callouts
+   ═══════════════════════════════════════════════════════════════ */
+
+.callout[data-callout="to-do"],
+.callout[data-callout="read-complete"],
+.callout[data-callout="reading-in-progress"],
+.callout[data-callout="read-asap"],
+.callout[data-callout="project-link"],
+.callout[data-callout="hub-moc"],
+.callout[data-callout="revist"],
+.callout[data-callout="document"],
+.callout[data-callout="capture"],
+.callout[data-callout="tasks"],
+.callout[data-callout="phase-one"],
+.callout[data-callout="phase-two"],
+.callout[data-callout="phase-three"],
+.callout[data-callout="phase-four"],
+.callout[data-callout="gemini-pro-response"],
+.callout[data-callout="key-changes"],
+.callout[data-callout="your-new-workflow"],
+.callout[data-callout="plan"],
+.callout[data-callout="kanban"],
+.callout[data-callout="note-toolbar"],
+.callout[data-callout="project-kickstarter"],
+.callout[data-callout="zettelkasten-incubator"],
+.callout[data-callout="problem-clarity-solution"],
+.callout[data-callout="shot-idea"],
+.callout[data-callout="lighting-setup"],
+.callout[data-callout="composition"],
+.callout[data-callout="post-processing"],
+.callout[data-callout="important-links"],
+.callout[data-callout="warning"],
+.callout[data-callout="constraints-and-pitfalls"],
+.callout[data-callout="quick-reference"],
+.callout[data-callout="how-this-dashboard-works"],
+.callout[data-callout="changes-from-prompting-dashboard"] {
+  --callout-color: var(--theme-crimson);
+  --callout-color-rgb: var(--theme-crimson-rgb);
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   CATEGORY 3: IDEAS, META & QUESTIONS (Teal #E50000)
+   
+   Purpose: Reflective thinking and exploration
+   - Questions and confusion
+   - Purpose and philosophy
+   - Connections and insights
+   - Summaries and outcomes
+   - Meta-documentation (how-to-use guides)
+   
+   Total: 32 callouts
+   ═══════════════════════════════════════════════════════════════ */
+
+.callout[data-callout="confusion"],
+.callout[data-callout="connection-ideas"],
+.callout[data-callout="insight"],
+.callout[data-callout="connections-and-links"],
+.callout[data-callout="pre-read-questions"],
+.callout[data-callout="pre-read-thoughts"],
+.callout[data-callout="the-purpose"],
+.callout[data-callout="choice-a"],
+.callout[data-callout="choice-b"],
+.callout[data-callout="the-philosophy"],
+.callout[data-callout="ask-yourself-this"],
+.callout[data-callout="question"],
+.callout[data-callout="summary"],
+.callout[data-callout="how-to-use-this"],
+.callout[data-callout="the-goal"],
+.callout[data-callout="the-mission"],
+.callout[data-callout="outcome"],
+.callout[data-callout="methodology-and-sources"],
+.callout[data-callout="starting-message"],
+.callout[data-callout="how-to-use"],
+.callout[data-callout="message"],
+.callout[data-callout="helpful-tip"],
+.callout[data-callout="the-start"],
+.callout[data-callout="related-topics-to-consider"],
+.callout[data-callout="key"],
+.callout[data-callout="topic-idea"],
+.callout[data-callout="links-to-related-notes"],
+.callout[data-callout="thoughts"],
+.callout[data-callout="start-of-chat"],
+.callout[data-callout="further-exploration"],
+.callout[data-callout="what-this-does"],
+.callout[data-callout="disposition"],
+.callout[data-callout="description"],
+.callout[data-callout="use-cases-and-examples"],
+.callout[data-callout="purpose"],
+.callout[data-callout="tip"] {
+  --callout-color: var(--theme-crimson);
+  --callout-color-rgb: var(--theme-crimson-rgb);
+}
+
+/* ┌─────────────────────────────────────────────────────────────┐
+   │ STYLE: LEFT-ACCENT BORDER + HOVER GLOW                      │
+   │ Visual design matching the screenshots exactly              │
+   └─────────────────────────────────────────────────────────────┘ */
+
+.callout {
+  /* Default state: transparent background with colored left border */
+  background-color: transparent !important;
+  border: 1px solid rgba(var(--callout-color-rgb), 0.25)    !important;
+  border-left: 4px solid var(--callout-color)          !important;
+  border-radius: 6px    !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) !important;
+  
+  /* Smooth transition for hover effect */
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  
+  padding: 12px 16px !important;
+  overflow: hidden !important;
+}
+
+/* Hover state: glowing background fill */
+.callout:hover {
+  background-color: rgba(var(--callout-color-rgb), 0.15) !important;
+  border-color: rgba(var(--callout-color-rgb), 0.5) !important;
+  box-shadow: 
+    0 2px 8px rgba(var(--callout-color-rgb), 0.3),
+    0 0 20px rgba(var(--callout-color-rgb), 0.2)    !important;
+  transform: translateY(-2px)   !important;
+}
+
+/* Title styling */
+.callout-title {
+  background-color: rgba(var(--callout-color-rgb), 0.12) !important;
+  color: var(--callout-color)   !important;
+  font-weight: 600;
+  letter-spacing: 0.3px   !important;
+  
+  /* Negative margins to extend title bar edge-to-edge */
+  margin: -12px -16px 10px -16px    !important;
+  padding: 10px 16px   !important;
+  
+  transition: background-color 0.3s ease, text-shadow 0.3s ease !important;
+}
+
+/* Title glow on hover */
+.callout:hover .callout-title {
+  background-color: rgba(var(--callout-color-rgb), 0.2) !important;
+  text-shadow: 0 0 8px rgba(var(--callout-color-rgb), 0.4) !important;
+}
+
+/* Icon color */
+.callout-icon {
+  color: var(--callout-color)   !important;
+}
+
+/* Content area */
+.callout-content {
+  color: var(--theme-text)  !important;
+  padding-top: 4px  !important;
+}
+
+/* Folded state (collapsed callout) */
+.callout.is-collapsed .callout-content {
+  display: none !important;
+}
+
+/* ═══════════════════════════════════════════════════════════════
+   CALLOUT CATEGORIZATION SUMMARY
+   
+   PURPLE (Logic & Analysis): 30 callouts
+   - Academic rigor: claims, evidence, arguments, analysis
+   - Conceptual work: definitions, analogies, thought experiments
+   - Mathematical/scientific: equations, cosmos concepts
+   
+   GOLD (Workflow & Projects): 33 callouts  
+   - Task tracking: reading status, to-dos, phases
+   - Project management: planning, kickstarters, workflows
+   - Creative production: photography workflow
+   - System documentation: dashboards, changes, references
+   
+   TEAL (Ideas & Questions): 32 callouts
+   - Exploratory thinking: questions, confusion, insights
+   - Meta-documentation: purpose, goals, how-to-use
+   - Reflective content: thoughts, philosophy, disposition
+   - Connection building: links, related topics, outcomes
+   
+   TOTAL: 95 active callouts
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ═══════════════════════════════════════════════════════════════
+   INSTALLATION INSTRUCTIONS
+   
+   1. Save this file as: callout-system-unified.css
+   2. Place in: [Your Vault]/.obsidian/snippets/
+   3. Open Obsidian Settings → Appearance → CSS snippets
+   4. Toggle ON: callout-system-unified
+   5. Disable these old snippets (if present):
+      - 00-foundation-color-palette
+      - 00-foundation-callout-categories
+      - 0.0.3-style-header-only-fill
+      - 0.0.5-style-glassmorphism
+      - 0.1.0-style-neon-glow
+      - 0.1.2-style-multi-effect-combo
+      - 101_subtle-glow-and-float
+   6. Reload Obsidian (Ctrl/Cmd + R)
+   
+   ═══════════════════════════════════════════════════════════════ */

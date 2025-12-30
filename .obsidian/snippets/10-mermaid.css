@@ -1,0 +1,202 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET: Mermaid Diagram Resizer
+ Category: Diagrams
+ Purpose: Resizable and scrollable Mermaid diagrams
+ Author: Pur3v4d3r
+ Created: 2025-12-13
+ Version: 1.0.0
+
+ Description:
+ Adds drag-to-resize functionality to Mermaid diagram blocks
+ with automatic scrolling for large diagrams. Features visual
+ feedback on hover and flexible resizing options (both
+ directions or vertical only).
+
+ Dependencies: None
+ Standalone: Yes
+
+ Features:
+ - Drag handle in bottom-right corner
+ - Resize both horizontally and vertically
+ - Automatic scrolling for overflow
+ - Visual feedback on hover
+ - Centered diagram layout
+ - Optional fixed window mode
+
+ Mermaid Documentation:
+ https://mermaid.js.org/
+
+ Compatibility: Obsidian 1.5+
+═══════════════════════════════════════════════════════════
+*/
+
+/* ══════════════════════════════════════════════════════════
+   MERMAID CONTAINER
+   Main wrapper for diagram
+   ══════════════════════════════════════════════════════════ */
+
+.mermaid {
+  /* ─────────────────────────────────────────
+     ENABLE DRAG RESIZING
+     ───────────────────────────────────────── */
+  resize: both !important;                    /* Adds drag handle bottom-right */
+  overflow: auto !important;                  /* Required for resize to work */
+
+  /* ─────────────────────────────────────────
+     LAYOUT & POSITIONING
+     ───────────────────────────────────────── */
+  display: flex !important;                   /* Flexbox for centering */
+  justify-content: center;                    /* Center horizontally */
+  align-items: center;                        /* Center vertically */
+
+  /* ─────────────────────────────────────────
+     VISUAL CUES
+     ───────────────────────────────────────── */
+  border: 1px dashed var(--background-modifier-border); /* Faint border */
+  background-color: var(--background-primary-alt);
+  padding: 10px;
+  margin: 1rem auto;                          /* Center container itself */
+
+  /* ─────────────────────────────────────────
+     INITIAL DIMENSIONS
+     ───────────────────────────────────────── */
+  width: 100%;                                /* Start full width */
+  max-width: 100%;
+  min-height: 150px;                          /* Prevent collapsing */
+
+  /* ─────────────────────────────────────────
+     SMOOTH TRANSITIONS
+     ───────────────────────────────────────── */
+  transition: box-shadow 0.2s ease;
+}
+
+/* ══════════════════════════════════════════════════════════
+   HOVER EFFECTS
+   Visual feedback when interacting
+   ══════════════════════════════════════════════════════════ */
+
+.mermaid:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);    /* Lift effect */
+  border-color: var(--text-accent);           /* Highlight border (gold) */
+}
+
+/* ══════════════════════════════════════════════════════════
+   SVG DIAGRAM
+   Internal diagram scaling
+   ══════════════════════════════════════════════════════════ */
+
+/*
+ * Ensures the diagram scales WITH the container as you drag
+ */
+.mermaid svg {
+  width: auto !important;
+  height: auto !important;
+  max-width: none !important;                 /* Remove default caps */
+}
+
+/* ══════════════════════════════════════════════════════════
+   ALTERNATIVE: FIXED WINDOW MODE
+   Vertical-only resizing with scrolling
+   ══════════════════════════════════════════════════════════ */
+
+/*
+ * Uncomment this section if you prefer a scrollable window
+ * over full resizing. This locks horizontal width and allows
+ * only vertical adjustment.
+ */
+
+
+.mermaid {
+  resize: vertical;                           /* Only height adjustment */
+  overflow: scroll;                           /* Always show scrollbars */
+  max-height: 600px;                          /* Cap the height */
+  justify-content: flex-start;                /* Align top-left for scrolling */
+}
+*/
+
+/* ══════════════════════════════════════════════════════════
+   DARK MODE THEME INTEGRATION
+   Optional Mermaid theme colors
+   ══════════════════════════════════════════════════════════ */
+
+/*
+ * These styles attempt to match Mermaid's generated SVG
+ * to your Obsidian theme. Results may vary based on
+ * Mermaid's internal styling.
+ */
+
+.theme-dark .mermaid {
+  /* Background already set above */
+}
+
+/* Mermaid text elements */
+.theme-dark .mermaid text {
+  fill: var(--text-normal) !important;        /* Match theme text */
+}
+
+/* Mermaid node backgrounds */
+.theme-dark .mermaid rect,
+.theme-dark .mermaid circle {
+  fill: var(--background-secondary) !important;
+  stroke: var(--color-accent) !important;     /* Purple stroke */
+}
+
+/* Mermaid connections/arrows */
+.theme-dark .mermaid path,
+.theme-dark .mermaid line {
+  stroke: var(--color-accent) !important;     /* Purple lines */
+}
+
+/* ══════════════════════════════════════════════════════════
+   MERMAID SPECIFIC DIAGRAM TYPES
+   Flowcharts, sequence diagrams, etc.
+   ══════════════════════════════════════════════════════════ */
+
+/* Flowchart nodes */
+.theme-dark .mermaid .node rect {
+  fill: rgba(229, 0, 0, 0.1) !important;    /* Purple tint */
+  stroke: #E50000 !important;                 /* Purple border */
+  stroke-width: 2px;
+}
+
+/* Sequence diagram boxes */
+.theme-dark .mermaid .actor {
+  fill: var(--background-secondary) !important;
+  stroke: #E50000 !important;                 /* Gold border */
+}
+
+/* ══════════════════════════════════════════════════════════
+   USAGE INSTRUCTIONS
+   ══════════════════════════════════════════════════════════
+
+   HOW TO RESIZE:
+   1. Hover over the Mermaid diagram
+   2. Look for the resize handle in the bottom-right corner
+   3. Click and drag to resize
+
+   SCROLLING:
+   - If diagram exceeds container size, scrollbars appear
+   - Use mouse wheel or scrollbar to navigate
+
+   CUSTOMIZATION:
+   - Change initial height: Adjust 'min-height' value
+   - Change max height: Add 'max-height' property
+   - Lock aspect ratio: Use 'resize: vertical' only
+   - Remove border: Set 'border: none'
+
+   EXAMPLE MERMAID CODE:
+   ```mermaid
+   graph TD
+       A[Start] --> B{Decision}
+       B -->|Yes| C[Action 1]
+       B -->|No| D[Action 2]
+       C --> E[End]
+       D --> E
+   ```
+
+   ══════════════════════════════════════════════════════════ */
+
+/* ══════════════════════════════════════════════════════════
+   END OF MERMAID STYLING
+   ══════════════════════════════════════════════════════════ */

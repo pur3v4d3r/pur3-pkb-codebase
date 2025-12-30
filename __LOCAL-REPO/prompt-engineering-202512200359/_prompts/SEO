@@ -1,0 +1,35 @@
+Implement clear, concise title tag and compelling meta description with primary keyword
+Use single H1 tag and structure content with H2-H6 tags, incorporating relevant keywords
+Optimize URL, include primary keyword in first 100 words, ensure comprehensive content
+Implement schema markup using JSON-LD for rich snippets, including FAQ, product, review, and event schemas
+Create XML sitemap, implement robots.txt, ensure mobile-friendliness and HTTPS
+Optimize page speed, implement lazy loading, use CDN, minimize HTTP requests
+Add internal links with descriptive anchor texts, implement breadcrumb navigation and markup
+Use canonical tags, hreflang tags, and proper indexing meta robots tags
+Implement AMP for news/blog content, optimize for featured snippets
+Use social media meta tags, create clear site structure with logical URL hierarchy
+Optimize images with descriptive ALT tags and SEO-friendly file names
+Implement structured data for local business information and video content
+Maintain HTML sitemap, use rel="nofollow" for paid/untrusted links
+Implement proper pagination, 301 redirects, and rel="prev/next" tags
+Use schema markup for article dates and authors, optimize for voice search
+Implement semantic HTML5 elements, ensure proper heading hierarchy
+Use long-tail keywords, implement LSI keywords throughout content
+Optimize for mobile-first indexing, implement responsive design
+Use schema markup for organization and website information
+Implement proper handling of JavaScript for search engine crawlers
+Optimize for Core Web Vitals: LCP, FID, and CLS
+Implement proper handling of international targeting and hreflang
+Use dynamic rendering for JavaScript-heavy pages if necessary
+Implement proper handling of faceted navigation for e-commerce sites
+Optimize for Google Discover, implement proper image SEO
+Use proper data-vocabulary for breadcrumbs and navigation
+Implement proper handling of infinite scroll for SEO
+Use proper schema markup for job postings if applicable
+Implement proper handling of pagination for SEO
+Optimize for Google News if applicable, use news_keywords meta tag
+Implement proper handling of duplicate content across domains
+Use proper schema markup for recipes if applicable
+Implement proper handling of URL parameters for SEO
+Use proper schema markup for software applications if applicable
+Implement proper handling of archived content for SEO

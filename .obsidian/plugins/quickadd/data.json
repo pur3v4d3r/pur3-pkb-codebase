@@ -1,0 +1,1815 @@
+{
+  "choices": [
+    {
+      "id": "b048f36b-dc1c-4cec-88dd-e261e2938238",
+      "name": "quick-people-note",
+      "type": "Capture",
+      "command": false,
+      "appendLink": {
+        "enabled": true,
+        "placement": "afterSelection",
+        "requireActiveFile": false
+      },
+      "captureTo": "",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "---\ntags:\n  - #People\n  - #Person\n  - #Contact\n  - #Person-Note\nalias: [{{VALUE:First Name?}}]\ncompany: \"{{VALUE:Company or Affiliation?}}\"\nrole: \"{{VALUE:Role or Title?}}\"\nfirst_met: {{DATE:YYYY-MM-DD}}\n---\n# {{VALUE:Full Name}}\n\n## 👤 Summary\n- \n\n## 🤝 Log\n- **{{DATE:YYYY-MM-DD}}**: Initial entry. {{VALUE:How did you meet or what's the context?}}\n\n## ✅ Next Actions\n- [ ]"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": false
+      },
+      "activeFileWritePosition": "cursor"
+    },
+    {
+      "id": "14b30ba1-abf3-4a92-8303-76d165796212",
+      "name": "scratchpad",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99-system/01-quickadd/02-templates/_scratchpad_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Pur3v4d3r-Scratchpad_"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "99🦎System/99_🦖Pur3v4d3r's-📜Scratchpads"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "85de928c-7737-4737-a9db-8d389cc9883f",
+      "name": "quote",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99-system/01-quickadd/02-templates/_quote-template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:quote,excerpt}}-{{value}}-{{DATE:YYYYMMDDHH}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03-notes/02_quotes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": {
+        "enabled": true,
+        "placement": "newLine",
+        "requireActiveFile": true
+      },
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "f2e15b25-eeac-4c7b-83f2-3ac9de2b243f",
+      "name": "literature-note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99_system/01_quickadd/02_templates/_literature-note_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYYMMDDHHmm}}_literature-note_{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03_notes/03_literature-notes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "ff1c8e7a-276c-4bbb-b1ac-677bcd418883",
+      "name": "quick-cite",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "<%*\nconst sourceType = await tp.system.suggester(\n    [\"AI-Report/Article\", \"Book\", \"Article\", \"PDF/Report\"], \n    [\"AI-Report/Article\", \"Book\", \"Article\", \"PDF/Report\"], \n    \"Choose a Source Type:\"\n);\nconst author = await tp.system.suggester(\n    [\"Gemini-2.5-Pro\", \"Claude\", \"ChatGPT\",\"🌩️🦈URG010_🆔20251020205832\", \"🌩️♊URG011_v1.1_🆔20251022221217\", \"🌩️🐲URG012_🆔20251023000722\"], \n    [\"Gemini-2.5-Pro\", \"Claude\", \"ChatGPT\",\"🌩️🦈URG010_🆔20251020205832\", \"🌩️♊URG011_v1.1_🆔20251022221217\", \"🌩️🐲URG012_🆔20251023000722\"],\n    \"Choose an Author:\"\n);\nconst output = `> [!cite]\n> **Bibliographic Information**\n> - **Source Type**:: ${sourceType}\n> - **Title**:: ${tp.file.title}\n> - **Author(s)**:: ${author}\n> - **Year**:: ${tp.date.now(\"YYYY\")}\n> - **Publisher / Journal**:: \n> - **Volume / Issue**:: 001\n> - **Page(s)**:: 001\n> - **URL / DOI**:: \n> - **Date Accessed**:: ${tp.date.now(\"YYYY-MM-DDTHH:mm:ss\")}\n`;\ntR = output;\n\n%>"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "activeFileWritePosition": "cursor"
+    },
+    {
+      "id": "1e122aab-d4e2-4eb0-a940-50a0fc249704",
+      "name": "log-quick-capture",
+      "type": "Capture",
+      "command": true,
+      "appendLink": {
+        "enabled": true,
+        "placement": "endOfLine",
+        "requireActiveFile": true
+      },
+      "captureTo": "01_daily-notes/{{DATE:YYYY-MM-DD}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "99-system/01-quickadd/02-templates/_daily-note_template.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n> [!quick-capture]\n> 📆**Date**:: [[{{DATE:YYYY-MM-DD}}]]\n> ⌛**Time**:: {{DATE:HH:mm:ss}}\n> 🆔**ID**:: {{DATE:YYYYMMDDHHmmss}}\n> 🔗**Link**:: {{LINKCURRENT}}\n> > [!capture]\n> > **Capture**:: {{selected}}\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# Captures",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "activeFileWritePosition": "cursor"
+    },
+    {
+      "id": "96a1c681-7d51-4219-921f-68c102cae24e",
+      "name": "log-task",
+      "type": "Capture",
+      "command": true,
+      "appendLink": {
+        "enabled": true,
+        "placement": "newLine",
+        "requireActiveFile": false,
+        "linkType": "link"
+      },
+      "captureTo": "01_daily-notes/{{DATE:YYYY-MM-DD}}.md",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "99-system/01-quickadd/02-templates/_daily-note_template.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "[{{VALUE:Description:: }}] {{VALUE: HH:MM - HH:MM (Or leave blank for no time block?)}} [⏳:: {{VDATE:Scheduled date,YYYY-MM-DD|today}}] [{{VALUE: 📅:: YYYY-MM-DD) or leave blank?📅:: YYYY-MM-DD}}] [{{VALUE:Priority:: (⏫/🔼/🔽/⏬|⏫/🔼/🔽/⏬) or leave blank?}}] [🔗:: {{LINKCURRENT}}]"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "### Tasks",
+        "insertAtEnd": true,
+        "considerSubsections": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "activeFileWritePosition": "cursor"
+    },
+    {
+      "id": "30c498b1-898e-4e62-b71b-db9bd1075dbd",
+      "name": "log_thought",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "01_daily-notes/{{DATE:YYYY-MM-DD}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "99-system/01-quickadd/02-templates/_daily-note_template.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n> [!fleeting-thought]\n> 📆**Date**:: [[{{DATE:YYYY-MM-DD}}]]\n> ⌛**Time**:: {{DATE:HH:mm:ssA}}\n> 🆔**ID**:: {{DATE:YYYYMMDDHHmmss}}\n> 💭**Thought**:: {{VALUE}}\n> 🔗**Link**:: {{LINKCURRENT}}\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "### Thoughts Log",
+        "insertAtEnd": true,
+        "considerSubsections": true,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "activeFileWritePosition": "cursor"
+    },
+    {
+      "id": "157c4f73-b5b4-4ee7-a7fc-696c6d89f421",
+      "name": "log-work",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "01_daily-notes/{{DATE:YYYY-MM-DD}}.md",
+      "captureToActiveFile": false,
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "99-system/01-quickadd/02-templates/_daily-note_template.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n> [!work-log-entry]\n> 📆**Date**:: [[{{DATE:YYYY-MM-DD}}]]\n> ⌛**Time**:: {{DATE:HH:mm:ssA}}\n> 🆔**ID**:: {{DATE:YYYYMMDDHHmmss}}\n> 🖥️**Log-Entry**:: {{VALUE}}\n> 🔗**Link**:: {{LINKCURRENT}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "### Work Log",
+        "insertAtEnd": true,
+        "considerSubsections": true,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "562f52db-382c-44ce-84e5-0f77da1a266a",
+      "name": "stoicism-01-capture",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": false,
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": " my control?\nWhere can I redirect that attention more productively?\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "fda96d18-c06b-4f97-baa5-56f7dec4f896",
+      "name": "stoicism-01",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99-system/01-quickadd/02-templates/_stoicism-dichotomy-of-control-template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "stoic-dichotomy-of-control-{{DATE:YYYYMMDDHH}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03-notes/05-stoic-notes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "b4fb4c3f-dad6-4755-984e-f5a97da00b99",
+      "name": "tags",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "tags",
+        "id": "b8e775aa-e56e-454b-94b4-6b83b1e16431",
+        "commands": [
+          {
+            "name": "batch-tag-suggester",
+            "type": "UserScript",
+            "id": "d8ac6ef2-ccdf-40b2-a257-f3f3a2f27eb5",
+            "path": "99-system/01-quickadd/01-scripts/batch-tag-suggester.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "1f768dc3-78cc-472c-adfc-3545c660186a",
+      "name": "google-books",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "google-books",
+        "id": "c978227b-d6cd-4bd3-b0fc-c62bc06f70a7",
+        "commands": [
+          {
+            "name": "bookfinder",
+            "type": "UserScript",
+            "id": "a077ef05-06a9-4233-9176-45a17b501518",
+            "path": "99_system/01_quickadd/01_scripts/bookfinder.js",
+            "settings": {}
+          },
+          {
+            "name": "book-finder-template",
+            "type": "NestedChoice",
+            "id": "e6af0850-cd54-467d-bbe0-adaa3f1eb705",
+            "choice": {
+              "id": "ed1f3ef8-8890-4910-9883-199c3d9a9bf3",
+              "name": "book-finder-template",
+              "type": "Template",
+              "command": false,
+              "templatePath": "99_system/01_quickadd/02_templates/_book-template.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{VALUE:fileName}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "00-inbox"
+                ],
+                "chooseWhenCreatingNote": false,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": false
+              },
+              "appendLink": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": false
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": true
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "cb6e2de6-e72b-468d-b4d7-bd5fa5dad629",
+      "name": "Note-Creation",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "5f10bd2a-99da-4370-83b0-3657ac0571f5",
+          "name": "Topic-Set Template",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_topic-set-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "topic-set-{{value}}-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00-inbox/02-topic-sets"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": false
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "67e573c2-bacf-45c2-9d48-d30bc440ff84",
+          "name": "Research Outline",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_research-outline-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "research-outline-{{VALUE:cog-psy,pkb,prompt,cosmo,edu}}-{{value}}-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00-inbox/03-research-outlines"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "f4b87a80-1c01-4be0-910b-f033fb687d93",
+          "name": "Reference Cognitive-Science",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_master-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "reference-{{VALUE:guide,comprehensive,taxonomy,instructional,technical,analysis}}-{{value}}-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00-inbox/01-reports/01-cognitive-science"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": false
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "bd2012fa-687b-4588-8e35-5fe68b49ad83",
+          "name": "Reference PKB/PKM",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_master-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "reference-{{VALUE:guide,comprehensive,taxonomy,instructional,technical,analysis}}-{{value}}-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00-inbox/01-reports/02_pkb-and-pkm"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": false
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "e84d54e3-8fe0-48c9-bfce-0e3315df10be",
+          "name": "Reference Prompt-Engineering",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_master-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "reference-{{VALUE:guide,comprehensive,taxonomy,instructional,technical,analysis}}-{{value}}-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "04-library/03-prompt-engineering/-reference"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": false
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "1a908b1c-9c28-418c-af0e-134a3266ed4f",
+          "name": "Report Cognitive-Science",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_master-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "cog-psy-{{value}}-{{DATE:YYYYMMDDHHmm}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00-inbox/01-reports/01-cognitive-science"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": false
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "6731fa44-7c90-43cc-951f-c54e82a6a2b3",
+          "name": "Report PKB/PKM",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_master-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "pkb-report-{{value}}-{{DATE:YYYYMMDDHHmm}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00-inbox/01-reports/02_pkb-and-pkm"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": false
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "190b70cc-a38f-4ec9-8db9-e35f3ee9ad5f",
+          "name": "Report Prompt-Engineering",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_master-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "prompt-{{value}}-{{DATE:YYYYMMDDHHmm}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00-inbox/01-reports/03_prompt-engineering"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": false
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "a19b2dc9-6ee9-4371-9037-39cd1ba744ec",
+          "name": "Permanent Note Cognitive-Science",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_permanent-note-cognitive-science-template-v1.0.0.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{clipboard}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "03-notes/01_permanent-notes/01_cognitive-development"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": false
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "788db9e0-453d-4483-9e3b-81d1fbf29e6c",
+          "name": "Permanent Note PKB/PKM",
+          "type": "Template",
+          "command": false,
+          "templatePath": "",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{clipboard}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "03-notes/01_permanent-notes/02_personal-knowledge-base"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": false
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "54e14dc1-f2e8-4a14-af1a-c3705fba71ab",
+          "name": "Permanent Note Prompt-Engineering",
+          "type": "Template",
+          "command": false,
+          "templatePath": "",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{clipboard}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "03-notes/01_permanent-notes/04_prompt-engineering"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": false
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "b9cb24b3-373b-4b92-8430-641f887255a1",
+          "name": "Indexing Folder Note",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_indexing-note-template-v3.0.0.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:|folder-name?}}-index-note_{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [],
+            "chooseWhenCreatingNote": true,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": false
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "9393ae7d-742b-4133-bb2d-3246eb96fb95",
+          "name": "test (copy)",
+          "type": "Template",
+          "command": true,
+          "templatePath": "99-system/01-quickadd/02-templates/_intelligent-permanent-note-template-v3.0.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{VALUE:cog-psy,pkb-report,prompt-report,report}}-{{value}}-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00-inbox/01-reports"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "ce26732e-21ec-4b47-875a-cf7c1417eecc",
+          "name": "Master-Template",
+          "type": "Template",
+          "command": true,
+          "templatePath": "99-system/01-quickadd/02-templates/_master-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{value}}-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00-inbox/01-reports"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "aabe3348-adb9-41f0-a8c5-68d29fef040f",
+          "name": "Conditional-Logic Template with Active Reveiw",
+          "type": "Template",
+          "command": true,
+          "templatePath": "99-system/01-quickadd/02-templates/_conditional-logic-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "{{value}}-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "00-inbox/01-reports"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "e4d93bec-e052-46ea-a50c-608b7407594c",
+      "name": "Logging",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "449a7321-e1d0-4fef-8f2c-3887ac7d55f3",
+          "name": "Log: Work/Activity",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "01_daily-notes/{{DATE:YYYY-MM-DD}}.md",
+          "captureToActiveFile": false,
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "99-system/01-quickadd/02-templates/_daily-note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "\n> [!work-log-entry]\n> 📆**Date**:: [[{{DATE:YYYY-MM-DD}}]]\n> ⌛**Time**:: {{DATE:HH:mm:ssA}}\n> 🆔**ID**:: {{DATE:YYYYMMDDHHmmss}}\n> 🖥️**Log-Entry**:: {{VALUE}}\n> 🔗**Link**:: {{LINKCURRENT}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "### Work Log",
+            "insertAtEnd": true,
+            "considerSubsections": true,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": true,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "e63fe394-4cdd-4d20-97c4-bbeb856850ff",
+          "name": "Log: Task",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "01_daily-notes/{{DATE:YYYY-MM-DD}}.md",
+          "captureToActiveFile": false,
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "99-system/01-quickadd/02-templates/_daily-note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "[{{VALUE:Description:: }}] {{VALUE: HH:MM - HH:MM (Or leave blank for no time block?)}} [⏳:: {{VDATE:Scheduled date,YYYY-MM-DD|today}}] [{{VALUE: 📅:: YYYY-MM-DD) or leave blank?📅:: YYYY-MM-DD}}] [{{VALUE:Priority:: (⏫/🔼/🔽/⏬|⏫/🔼/🔽/⏬) or leave blank?}}] [🔗:: {{LINKCURRENT}}]"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "### Tasks",
+            "insertAtEnd": true,
+            "considerSubsections": true,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": true,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "b6b0f119-7c3c-4801-8c74-3d20b6ee0459",
+          "name": "Log: Fleeting Thought(s)",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "01_daily-notes/{{DATE:YYYY-MM-DD}}.md",
+          "captureToActiveFile": false,
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "99-system/01-quickadd/02-templates/_daily-note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "\n> [!fleeting-thought]\n> 📆**Date**:: [[{{DATE:YYYY-MM-DD}}]]\n> ⌛**Time**:: {{DATE:HH:mm:ssA}}\n> 🆔**ID**:: {{DATE:YYYYMMDDHHmmss}}\n> 💭**Thought**:: {{VALUE}}\n> 🔗**Link**:: {{LINKCURRENT}}\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "### Thoughts Log",
+            "insertAtEnd": true,
+            "considerSubsections": true,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "411c1073-accb-4fb6-99bd-ff9178adc14d",
+          "name": "Quick-Capture: Embed",
+          "type": "Capture",
+          "command": false,
+          "appendLink": {
+            "enabled": true,
+            "placement": "replaceSelection",
+            "requireActiveFile": true,
+            "linkType": "embed"
+          },
+          "captureTo": "01_daily-notes/{{DATE:YYYY-MM-DD}}.md",
+          "captureToActiveFile": false,
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "99-system/01-quickadd/02-templates/_daily-note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "\n> [!quick-capture]\n> 📆**Date**:: [[{{DATE:YYYY-MM-DD}}]]\n> ⌛**Time**:: {{DATE:HH:mm:ss}}\n> 🆔**ID**:: {{DATE:YYYYMMDDHHmmss}}\n> 🔗**Link**:: {{LINKCURRENT}}\n> > [!capture]\n> > **Capture**:: {{selected}}\n\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# Captures",
+            "insertAtEnd": true,
+            "considerSubsections": true,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "f9385a22-5916-40a9-8a21-97c3c535c29a",
+          "name": "Quick Capture to Daily Note",
+          "type": "Capture",
+          "command": false,
+          "appendLink": {
+            "enabled": true,
+            "placement": "newLine",
+            "requireActiveFile": true,
+            "linkType": "link"
+          },
+          "captureTo": "01_daily-notes/{{DATE:YYYY-MM-DD}}.md",
+          "captureToActiveFile": false,
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "99-system/01-quickadd/02-templates/_daily-note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "\n> [!quick-capture]\n> 📆**Date**:: [[{{DATE:YYYY-MM-DD}}]]\n> ⌛**Time**:: {{DATE:HH:mm:ss}}\n> 🆔**ID**:: {{DATE:YYYYMMDDHHmmss}}\n> 🔗**Link**:: {{LINKCURRENT}}\n> > [!capture]\n> > **Capture**:: {{selected}}\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# Captures",
+            "insertAtEnd": true,
+            "considerSubsections": true,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "fc26d03c-7030-4ba6-9908-d04998eeca77",
+          "name": "Meta Bind Button Task -> Next Review",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "Review [[{{fileName}}]] `BUTTON[complete-review-task]` 📅 {{meta.next-review}}"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": true,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "baace0b6-1a77-4c07-9b2a-43867e3d2d8b",
+      "name": "Research",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "777831bb-6dd2-48ff-9c92-e094ebc2acf7",
+          "name": "Research Outline",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_research-outline-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "research-outline-{{VALUE:cog-psy,pkb,prompt,cosmo,edu}}-{{value}}-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "02-projects/-ongoing-project-pur3v4d3r/02-research/01-research-outlines"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "3a44df97-1141-4a2b-aad8-18155c8e838e",
+          "name": "Research Note",
+          "type": "Template",
+          "command": false,
+          "templatePath": "99-system/01-quickadd/02-templates/_research-project-note-cognitive-science-template-v1.0.0.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "research-project-{{DATE:ss}}-{{value}}-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "02-projects/-ongoing-project-pur3v4d3r/02-research/02-research-hub-notes"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        }
+      ]
+    },
+    {
+      "id": "d492bbf4-06e3-47fa-b752-ca481b39599b",
+      "name": "Prompt Engineering",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "a6af877c-1102-4bdb-a4c7-14fb534e1c78",
+          "name": "Prompt",
+          "type": "Template",
+          "command": true,
+          "templatePath": "99-system/01-quickadd/02-templates/_prompt-master-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "prompt-{{value}}-v1.0.0-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "b4bf79be-3c3a-4bda-a533-9cef1c959ac6",
+          "name": "Prompt Component",
+          "type": "Template",
+          "command": true,
+          "templatePath": "99-system/01-quickadd/02-templates/_prompt-component-template-v1.0.0.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "prompt-component-{{VALUE:persona,instruction,constraint,format,context,scaffold}}-{{VALUE}}-v1.0.0-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "000_databsae/20251111190306-001/02_prompt-engineering-component-library/01_component-library/01_atomic"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": true
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "3554d7a1-9e3c-44f9-9757-01e1509b66c1",
+          "name": "Claude Project",
+          "type": "Template",
+          "command": true,
+          "templatePath": "99-system/01-quickadd/02-templates/_claude-project-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "claude-project_{{value}}_v1.0.0-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "000_databsae/20251111190306-001/02_prompt-engineering-component-library/01_component-library/02_composite/05_agent-configurations"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "c9f937cb-dba3-4779-b8cc-93242b7ab5e5",
+          "name": "Gemini Gem",
+          "type": "Template",
+          "command": true,
+          "templatePath": "99-system/01-quickadd/02-templates/_gemini-gem-template.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "gemini-gem_{{value}}_v1.0.0-{{DATE:YYYYMMDDHH}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "000_databsae/20251111190306-001/02_prompt-engineering-component-library/01_component-library/02_composite/05_agent-configurations"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        }
+      ]
+    },
+    {
+      "id": "988ab87f-3ec4-43cf-ab40-ffe7c8493ca1",
+      "name": "add-concept-reference",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "add-concept-reference",
+        "id": "29d1c739-1b74-4562-9ce7-d2628a480efb",
+        "commands": [
+          {
+            "name": "add-concept-reference",
+            "type": "UserScript",
+            "id": "36ef511d-efd1-4e7f-a8f1-c2a60c33d513",
+            "path": "99-system/01-quickadd/01-scripts/add-concept-reference.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "6a8080e9-ed5c-4884-8835-5626e706ede6",
+      "name": "Review Task for Existing Notes",
+      "type": "Capture",
+      "command": true,
+      "appendLink": {
+        "enabled": true,
+        "placement": "newLine",
+        "requireActiveFile": false,
+        "linkType": "link"
+      },
+      "captureTo": "01_daily-notes/{{DATE:YYYY-MM-DD}}.md",
+      "captureToActiveFile": true,
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "99-system/01-quickadd/02-templates/_daily-note_template.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] Review [[Note Title]] 📅 2024-11-21 ⏫ 🔁 every 1 week"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "### Tasks",
+        "insertAtEnd": true,
+        "considerSubsections": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "0a5466b5-f034-4018-872c-358a6d42d738",
+      "name": "Auto Task Dedicated Folder",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99-system/01-quickadd/02-templates/_automatic-task-creation-to-dedicated-folder-template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "new-concept-with-review-macro",
+      "name": "New Concept with Auto Review",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "New Concept with Auto Review",
+        "id": "concept-review-macro-id",
+        "commands": [
+          {
+            "name": "Concept Review Script",
+            "type": "UserScript",
+            "id": "concept-review-script-id",
+            "path": "99-system/01-quickadd/01-scripts/concept-with-review-script.js",
+            "settings": {}
+          },
+          {
+            "name": "Concept Note Template",
+            "type": "NestedChoice",
+            "id": "concept-template-nested-id",
+            "choice": {
+              "id": "concept-template-choice-id",
+              "name": "Concept Note Template",
+              "type": "Template",
+              "command": false,
+              "templatePath": "99-system/01-quickadd/02-templates/_concept-note-with-review-template.md",
+              "fileNameFormat": {
+                "enabled": true,
+                "format": "{{VALUE:title}}"
+              },
+              "folder": {
+                "enabled": true,
+                "folders": [
+                  "03-notes/01_permanent-notes"
+                ],
+                "chooseWhenCreatingNote": true,
+                "createInSameFolderAsActiveFile": false,
+                "chooseFromSubfolders": true
+              },
+              "appendLink": false,
+              "openFile": true,
+              "fileOpening": {
+                "location": "tab",
+                "direction": "vertical",
+                "mode": "default",
+                "focus": true
+              },
+              "fileExistsMode": "Increment the file name",
+              "setFileExistsBehavior": true
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "d8a4c8c9-debc-4f3e-b661-f24fb7f524be",
+      "name": "Quick Review",
+      "type": "Template",
+      "command": true,
+      "templatePath": "99-system/01-quickadd/02-templates/_quick-review-template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "05-tasks-&-reviews/daily"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "51eeb364-8d49-4019-b6bc-33d1202a47f2",
+      "name": "dd",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": false,
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "templater": {
+        "afterCapture": "none"
+      }
+    }
+  ],
+  "inputPrompt": "multi-line",
+  "devMode": false,
+  "templateFolderPath": "99-system/01-quickadd",
+  "announceUpdates": "all",
+  "version": "2.9.4",
+  "globalVariables": {},
+  "onePageInputEnabled": true,
+  "disableOnlineFeatures": false,
+  "enableRibbonIcon": true,
+  "showCaptureNotification": true,
+  "showInputCancellationNotification": false,
+  "enableTemplatePropertyTypes": false,
+  "ai": {
+    "defaultModel": "gemini-1.5-flash",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "06 📦Templates/01_Templates-for-QuickAdd/03_Prompt-Templates",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "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",
+        "models": [
+          {
+            "name": "gpt-4.1-nano",
+            "maxTokens": 1047576
+          },
+          {
+            "name": "gpt-4.1-mini",
+            "maxTokens": 1047576
+          },
+          {
+            "name": "gpt-5-nano",
+            "maxTokens": 400000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4.1",
+            "maxTokens": 1047576
+          },
+          {
+            "name": "o4-mini",
+            "maxTokens": 200000
+          },
+          {
+            "name": "gpt-5-mini",
+            "maxTokens": 400000
+          },
+          {
+            "name": "o1-mini",
+            "maxTokens": 128000
+          },
+          {
+            "name": "o4-mini-deep-research",
+            "maxTokens": 200000
+          },
+          {
+            "name": "gpt-4o-mini",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-5",
+            "maxTokens": 400000
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "o1-pro",
+            "maxTokens": 200000
+          },
+          {
+            "name": "gpt-4o-2024-05-13",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o-2024-08-06",
+            "maxTokens": 128000
+          },
+          {
+            "name": "o3-deep-research",
+            "maxTokens": 200000
+          },
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "o1-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "o3-mini",
+            "maxTokens": 200000
+          },
+          {
+            "name": "codex-mini-latest",
+            "maxTokens": 200000
+          },
+          {
+            "name": "gpt-5-codex",
+            "maxTokens": 400000
+          },
+          {
+            "name": "o1",
+            "maxTokens": 200000
+          },
+          {
+            "name": "o3-pro",
+            "maxTokens": 200000
+          },
+          {
+            "name": "gpt-4o-2024-11-20",
+            "maxTokens": 128000
+          },
+          {
+            "name": "o3",
+            "maxTokens": 200000
+          },
+          {
+            "name": "gpt-5-chat-latest",
+            "maxTokens": 400000
+          }
+        ],
+        "autoSyncModels": true,
+        "modelSource": "auto"
+      },
+      {
+        "name": "Gemini",
+        "endpoint": "https://generativelanguage.googleapis.com",
+        "apiKey": "AIzaSyAWsgse2QjRLJH7XfobYWywnI9ObuPBZV8",
+        "models": [
+          {
+            "name": "gemini-2.5-flash",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.5-flash-lite",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.5-pro",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.0-flash-lite",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-2.0-flash",
+            "maxTokens": 1048576
+          },
+          {
+            "name": "gemini-1.5-flash",
+            "maxTokens": 1000000
+          },
+          {
+            "name": "gemini-1.5-flash-8b",
+            "maxTokens": 1000000
+          }
+        ],
+        "autoSyncModels": true,
+        "modelSource": "auto"
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true,
+    "removeMacroIndirection": true,
+    "migrateFileOpeningSettings": true,
+    "setProviderModelDiscoveryMode": true
+  }
+}

@@ -1,0 +1,160 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ CALLOUT MODIFIER: Retro Terminal Style
+
+ Purpose: Create vintage computer terminal aesthetic for callouts
+ Effect: Monospace fonts, CRT scan lines, retro green/amber colors
+ Inspired by: Classic terminals, DOS era, hacker aesthetics, retro computing
+ Compatible with: Dark themes optimal, nostalgia-focused notes
+
+ Enable this snippet for:
+ - Monospace terminal fonts
+ - Scan line effects
+ - Retro color scheme override
+ - CRT screen simulation
+ - Old-school computing aesthetic
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* Terminal base styling */
+.callout {
+  background: rgba(0, 20, 0, 0.8) !important;
+  border: 2px solid rgba(0, 255, 65, 0.4) !important;
+  border-left: 4px solid rgba(0, 255, 65, 0.8) !important;
+  border-radius: 4px !important;
+  box-shadow:
+    0 0 20px rgba(0, 255, 65, 0.2),
+    inset 0 0 60px rgba(0, 255, 65, 0.03) !important;
+  position: relative !important;
+  overflow: hidden !important;
+}
+
+/* CRT scan lines effect */
+.callout::before {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.15) 0px,
+    transparent 1px,
+    transparent 2px,
+    rgba(0, 0, 0, 0.15) 3px
+  ) !important;
+  pointer-events: none !important;
+  z-index: 10 !important;
+  opacity: 0.3 !important;
+  animation: scanlines 8s linear infinite !important;
+}
+
+@keyframes scanlines {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(4px); }
+}
+
+/* CRT flicker effect */
+.callout::after {
+  content: '' !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  background: rgba(0, 255, 65, 0.02) !important;
+  pointer-events: none !important;
+  z-index: 5 !important;
+  animation: flicker 0.15s infinite !important;
+}
+
+@keyframes flicker {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.96; }
+}
+
+/* Terminal title */
+.callout-title {
+  background: rgba(0, 255, 65, 0.15) !important;
+  color: rgb(0, 255, 65) !important;
+  border-bottom: 1px solid rgba(0, 255, 65, 0.4) !important;
+  padding: 8px 14px !important;
+  font-family: 'Courier New', 'Monaco', 'Consolas', monospace !important;
+  font-size: 0.9em !important;
+  font-weight: 700 !important;
+  text-shadow: 0 0 8px rgba(0, 255, 65, 0.8) !important;
+  letter-spacing: 1px !important;
+  position: relative !important;
+  z-index: 11 !important;
+}
+
+/* Add terminal prompt symbol */
+.callout-title::before {
+  content: '>' !important;
+  margin-right: 8px !important;
+  color: rgb(0, 255, 65) !important;
+  font-weight: 700 !important;
+  animation: blink 1s step-end infinite !important;
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+/* Terminal content */
+.callout-content {
+  background: transparent !important;
+  color: rgb(0, 255, 65) !important;
+  padding: 12px 14px !important;
+  font-family: 'Courier New', 'Monaco', 'Consolas', monospace !important;
+  font-size: 0.9em !important;
+  line-height: 1.6 !important;
+  text-shadow: 0 0 3px rgba(0, 255, 65, 0.5) !important;
+  position: relative !important;
+  z-index: 11 !important;
+}
+
+/* Terminal hover glow */
+.callout:hover {
+  border-color: rgba(0, 255, 65, 0.6) !important;
+  box-shadow:
+    0 0 30px rgba(0, 255, 65, 0.4),
+    inset 0 0 60px rgba(0, 255, 65, 0.05) !important;
+  transform: none !important;
+}
+
+/* Amber variant for specific callouts */
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="alert"] {
+  background: rgba(20, 10, 0, 0.8) !important;
+  border-color: rgba(255, 180, 0, 0.4) !important;
+  border-left-color: rgba(255, 180, 0, 0.8) !important;
+}
+
+.callout[data-callout="warning"] .callout-title,
+.callout[data-callout="caution"] .callout-title,
+.callout[data-callout="alert"] .callout-title,
+.callout[data-callout="warning"] .callout-content,
+.callout[data-callout="caution"] .callout-content,
+.callout[data-callout="alert"] .callout-content {
+  color: rgb(255, 180, 0) !important;
+  text-shadow: 0 0 8px rgba(255, 180, 0, 0.6) !important;
+}
+
+/* Hide default icon, terminal doesn't need fancy icons */
+.callout-icon {
+  display: none !important;
+}
+
+/* Code blocks inside terminal callouts */
+.callout-content code {
+  background: rgba(0, 255, 65, 0.1) !important;
+  color: rgb(0, 255, 65) !important;
+  border: 1px solid rgba(0, 255, 65, 0.3) !important;
+  padding: 2px 6px !important;
+  border-radius: 2px !important;
+  font-family: inherit !important;
+}

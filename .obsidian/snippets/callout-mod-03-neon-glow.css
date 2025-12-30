@@ -1,0 +1,83 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ CALLOUT MODIFIER: Neon Glow Effect
+
+ Purpose: Add vibrant neon glow effects to all callouts
+ Effect: Cyberpunk-style glowing borders and text with enhanced luminosity
+ Inspired by: Cyberpunk aesthetics, neon signs, synthwave
+ Compatible with: Dark themes (optimal), light themes (muted effect)
+
+ Enable this snippet for:
+ - Strong neon glow on borders
+ - Pulsing glow animations
+ - Brighter, more saturated colors
+ - High-contrast cyberpunk aesthetic
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* Neon glow base */
+.callout {
+  border-left-width: 5px !important;
+  border-left-color: rgb(var(--callout-color)) !important;
+  box-shadow:
+    -5px 0 15px rgba(var(--callout-color), 0.5),
+    0 0 20px rgba(var(--callout-color), 0.3),
+    inset -1px 0 10px rgba(var(--callout-color), 0.2),
+    0 4px 16px rgba(0, 0, 0, 0.4) !important;
+  animation: neonPulse 3s ease-in-out infinite !important;
+}
+
+/* Neon pulse animation */
+@keyframes neonPulse {
+  0%, 100% {
+    box-shadow:
+      -5px 0 15px rgba(var(--callout-color), 0.5),
+      0 0 20px rgba(var(--callout-color), 0.3),
+      inset -1px 0 10px rgba(var(--callout-color), 0.2),
+      0 4px 16px rgba(0, 0, 0, 0.4);
+    border-left-color: rgb(var(--callout-color));
+  }
+  50% {
+    box-shadow:
+      -8px 0 25px rgba(var(--callout-color), 0.7),
+      0 0 40px rgba(var(--callout-color), 0.5),
+      inset -2px 0 15px rgba(var(--callout-color), 0.3),
+      0 6px 20px rgba(0, 0, 0, 0.5);
+    border-left-color: rgba(var(--callout-color), 1);
+  }
+}
+
+/* Glowing title */
+.callout-title {
+  color: rgb(var(--callout-color)) !important;
+  text-shadow:
+    0 0 10px rgba(var(--callout-color), 0.8),
+    0 0 20px rgba(var(--callout-color), 0.4) !important;
+  font-weight: 700 !important;
+}
+
+/* Enhanced glow on hover */
+.callout:hover {
+  box-shadow:
+    -8px 0 30px rgba(var(--callout-color), 0.8),
+    0 0 50px rgba(var(--callout-color), 0.6),
+    inset -2px 0 20px rgba(var(--callout-color), 0.3),
+    0 8px 32px rgba(0, 0, 0, 0.5) !important;
+  transform: translateY(-2px) !important;
+}
+
+.callout:hover .callout-title {
+  text-shadow:
+    0 0 15px rgba(var(--callout-color), 1),
+    0 0 30px rgba(var(--callout-color), 0.6),
+    0 0 45px rgba(var(--callout-color), 0.3) !important;
+}
+
+/* Neon icon glow */
+.callout-icon {
+  filter: drop-shadow(0 0 8px rgba(var(--callout-color), 0.8)) !important;
+}
+
+.callout:hover .callout-icon {
+  filter: drop-shadow(0 0 15px rgba(var(--callout-color), 1)) !important;
+}

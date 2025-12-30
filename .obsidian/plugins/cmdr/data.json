@@ -1,0 +1,356 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "templater-obsidian:99-system/03-templater/_insert-normalized-content-templater-script-template.md",
+      "icon": "templater-icon",
+      "name": "Templater Re-format and Paste",
+      "mode": "any"
+    },
+    {
+      "id": "paste-reformatter:reformat-and-paste",
+      "icon": "lucide-clipboard-paste",
+      "name": "Reformat and Paste",
+      "mode": "any",
+      "color": "#ff8383ff"
+    },
+    {
+      "id": "paste-reformatter:reformat-and-paste",
+      "icon": "lucide-clipboard-paste",
+      "name": "Paste Reformatter: Reformat and Paste",
+      "mode": "any"
+    },
+    {
+      "id": "app:open-settings",
+      "icon": "lucide-settings",
+      "name": "Open settings",
+      "mode": "any",
+      "color": "#ff0000ff "
+    },
+    {
+      "id": "cmdr:open-commander-settings",
+      "icon": "lucide-command",
+      "name": "Commander: Open Commander Settings",
+      "mode": "any",
+      "color": "#8B0000 "
+    },
+    {
+      "id": "dataview:dataview-rebuild-current-view",
+      "icon": "lucide-redo-2",
+      "name": "Dataview: Rebuild current view",
+      "mode": "any",
+      "color": "#8B0000 "
+    },
+    {
+      "id": "templater-obsidian:create-new-note-from-template",
+      "icon": "templater-icon",
+      "name": "Templater: Create new note from template",
+      "mode": "any",
+      "color": "#8B0000 "
+    },
+    {
+      "id": "obsidian-emoji-toolbar:emoji-picker:open-picker",
+      "icon": "lucide-meh",
+      "name": "Emoji Toolbar: Open emoji picker",
+      "mode": "any",
+      "color": "#FA8072 "
+    },
+    {
+      "id": "obsidian-tasks-plugin:edit-task",
+      "icon": "pencil",
+      "name": "Tasks: Create or edit task",
+      "mode": "any",
+      "color": "#FA8072 "
+    },
+    {
+      "id": "obsidian-text-format:lowercase",
+      "icon": "case-sensitive",
+      "name": "Text Format: Lowercase",
+      "mode": "any",
+      "color": "#DC143C "
+    },
+    {
+      "id": "obsidian-text-format:custom-replace:3d6e145e-462b-4443-8520-bec0a7e108f1",
+      "icon": "a-large-small",
+      "name": "Text Format:  kebab-case",
+      "mode": "desktop",
+      "color": "#DC143C "
+    },
+    {
+      "id": "obsidian-text-format:custom-replace:remove-blank-line",
+      "icon": "a-large-small",
+      "name": "Text Format: Custom Replace - Remove blank line(s)",
+      "mode": "any",
+      "color": "#8B0000 "
+    },
+    {
+      "id": "obsidian-text-format:custom-replace:b56ef3fd-0d41-4053-ab5f-c15145e952e9",
+      "icon": "a-large-small",
+      "name": "Remove () ",
+      "mode": "any",
+      "color": "#8B0000 "
+    },
+    {
+      "id": "obsidian-text-format:uppercase",
+      "icon": "case-sensitive",
+      "name": "Text Format: Uppercase",
+      "mode": "any",
+      "color": "#A00000 "
+    },
+    {
+      "id": "obsidian-text-format:title-case",
+      "icon": "case-sensitive",
+      "name": "Text Format: Title-case",
+      "mode": "any",
+      "color": "#A00000 "
+    },
+    {
+      "id": "obsidian-text-format:custom-replace:e1538dd2-68fd-4773-9496-3f12032e46fc",
+      "icon": "a-large-small",
+      "name": "Remove Backtic",
+      "mode": "any",
+      "color": "#A00000 "
+    },
+    {
+      "id": "obsidian-text-format:wrapper:3c35b19d-475f-46af-87cb-7bbde6d79f29",
+      "icon": "a-large-small",
+      "name": "Center Text",
+      "mode": "any",
+      "color": "#FF0000"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:502e1c44-8ca4-429c-ab07-cffb3fec1f7f",
+      "icon": "a-large-small",
+      "name": "Small Text",
+      "mode": "any",
+      "color": "#FF0000"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:underline",
+      "icon": "a-large-small",
+      "name": "Underline",
+      "mode": "any",
+      "color": "#FF0000"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:61679725-fb69-46ab-9af9-2b09f98c8f30",
+      "icon": "a-large-small",
+      "name": "Large Text",
+      "mode": "any",
+      "color": "#FF0000"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:ddb377be-0d34-4890-a4e1-32b00255cc08",
+      "icon": "a-large-small",
+      "name": "Superscript",
+      "mode": "any",
+      "color": "#FF0000"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:725ed70d-838d-4f28-91af-5a6598965dac",
+      "icon": "a-large-small",
+      "name": "Subscript",
+      "mode": "any",
+      "color": "#FF0000"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:3745105f-c4b5-4429-ad8b-b35f18ac3ebf",
+      "icon": "a-large-small",
+      "name": "Strikethrough",
+      "mode": "any",
+      "color": "#FF0000"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:b30e1f0e-a412-482c-a220-799317bf499a",
+      "icon": "a-large-small",
+      "name": "Green Block",
+      "mode": "any",
+      "color": "#DE3163 "
+    },
+    {
+      "id": "obsidian-text-format:wrapper:f02d2b95-7f5d-419c-9508-d68ff2e61629",
+      "icon": "a-large-small",
+      "name": "Red Block",
+      "mode": "any",
+      "color": "#DE3163 "
+    },
+    {
+      "id": "obsidian-text-format:wrapper:1335e357-7b8d-44fc-8ed9-4840865f1210",
+      "icon": "a-large-small",
+      "name": "Side Bar",
+      "mode": "any",
+      "color": "#DE3163 "
+    },
+    {
+      "id": "obsidian-text-format:wrapper:3747bbe1-48b4-4988-911a-1d9f7ff46d7e",
+      "icon": "a-large-small",
+      "name": "Badge Tag",
+      "mode": "any",
+      "color": "#DE3163 "
+    },
+    {
+      "id": "obsidian-text-format:wrapper:073922b1-5d9c-4a34-9983-b8232f256994",
+      "icon": "a-large-small",
+      "name": "Red Italic",
+      "mode": "any",
+      "color": "#660000 "
+    },
+    {
+      "id": "obsidian-text-format:wrapper:0b8b8473-7283-4f2f-b9d9-27e369c41b06",
+      "icon": "a-large-small",
+      "name": "Red",
+      "mode": "any",
+      "color": "#FF033E "
+    },
+    {
+      "id": "obsidian-text-format:wrapper:2cfe7e17-573b-4239-8048-71d18554a304",
+      "icon": "a-large-small",
+      "name": "Pink",
+      "mode": "any",
+      "color": "#ff0075"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:a39da979-5422-4479-b42b-f5a63df8894d",
+      "icon": "a-large-small",
+      "name": "Gold",
+      "mode": "any",
+      "color": "#d8be34"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:50df8bc8-a10f-48f8-ad74-6a4922c89085",
+      "icon": "a-large-small",
+      "name": "Grey",
+      "mode": "any",
+      "color": "#6B7280"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:31313f52-4bfd-431c-80b7-03118ddafcf4",
+      "icon": "a-large-small",
+      "name": "Green",
+      "mode": "any",
+      "color": "#cbff00"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:e4d64f73-f9d7-414e-be3f-f45fefe9d508",
+      "icon": "a-large-small",
+      "name": "Purple",
+      "mode": "any",
+      "color": "#7200ff"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:3e7ae276-fb9b-4a08-9f6d-127d49c959b6",
+      "icon": "a-large-small",
+      "name": "Orange",
+      "mode": "any",
+      "color": "#ff6e00"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:48e72edb-2bf0-4bfb-8806-7fc0909d4d34",
+      "icon": "a-large-small",
+      "name": "Turquoise",
+      "mode": "any",
+      "color": "#00ffd2"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:042d2b4a-06f9-4841-86af-63223561fe7f",
+      "icon": "a-large-small",
+      "name": "Light Blue",
+      "mode": "any",
+      "color": "#00f8ff"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:64646142-dec5-45e8-8c40-1c8a866807c3",
+      "icon": "a-large-small",
+      "name": "Chartreuse",
+      "mode": "any",
+      "color": "#83ff00"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:ace2320f-e8eb-479e-a7e9-033bc1bf28d7",
+      "icon": "a-large-small",
+      "name": "Red-Strikethrough",
+      "mode": "any",
+      "color": "#E50000"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:455f17e2-4f25-4649-b69e-c01871851cce",
+      "icon": "a-large-small",
+      "name": "Gold-Strikethrough",
+      "mode": "any",
+      "color": "#FFC700"
+    },
+    {
+      "id": "obsidian-text-format:wrapper:be5d0cb8-99e9-4ce7-8c26-2eed6c8f9dfd",
+      "icon": "a-large-small",
+      "name": "Green-Strikethrough",
+      "mode": "any",
+      "color": "#27FF00"
+    },
+    {
+      "id": "obsidian-linter:paste-as-plain-text",
+      "icon": "lucide-clipboard-paste",
+      "name": "Linter: Paste as Plain Text & without Modifications",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "quickadd:choice:cb6e2de6-e72b-468d-b4d7-bd5fa5dad629",
+      "icon": "lucide-square-plus",
+      "name": "Note-Creation",
+      "mode": "any",
+      "color": "#ffc800"
+    },
+    {
+      "id": "quickadd:choice:d492bbf4-06e3-47fa-b752-ca481b39599b",
+      "icon": "lucide-clipboard-plus",
+      "name": "Prompt Engineering",
+      "mode": "any",
+      "color": "#ff0000"
+    }
+  ],
+  "macros": [],
+  "explorer": [
+    {
+      "id": "quickadd:choice:fda96d18-c06b-4f97-baa5-56f7dec4f896",
+      "icon": "lucide-alert-triangle",
+      "name": "Dichotomy of Control",
+      "mode": "any",
+      "color": "#ffdd00"
+    }
+  ],
+  "hide": {
+    "statusbar": [
+      "sync",
+      "backlink",
+      "properties",
+      "languagetool",
+      "obsidian-day-planner"
+    ],
+    "leftRibbon": [
+      "Insert template",
+      "Open today's daily note",
+      "Open command palette",
+      "Insert Callout",
+      "Advanced Tables Toolbar"
+    ]
+  },
+  "spacing": "0",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 5,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

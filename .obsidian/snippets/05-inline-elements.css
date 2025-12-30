@@ -1,0 +1,181 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET: Inline Code Blocks & Special Elements
+ Category: Typography
+ Purpose: Enhanced inline code styling with glow effects
+ Author: Pur3v4d3r
+ Created: 2025-12-13
+ Version: 1.0.0
+
+ Description:
+ Provides professional styling for inline code blocks with
+ a cyberpunk aesthetic. Features transparent purple background,
+ cyan text, gold glow effects, and click-to-select behavior.
+ Uses JetBrains Mono font for optimal code readability.
+
+ Dependencies: None (self-contained)
+ Standalone: Yes
+
+ Features:
+ - Transparent purple background (#E500004d)
+ - Cyan text color (#E0E0E0ff)
+ - Black border with gold shadow glow
+ - Click-to-select with user-select: all
+ - Enhanced glow effect on hover
+ - JetBrains Mono monospace font
+ - Consistent padding and border-radius
+
+ Notes:
+ Pure CSS cannot copy to clipboard. The 'user-select: all'
+ property makes it easy to select entire code with one click.
+
+ Font Requirements:
+ - JetBrains Mono (recommended)
+ - Falls back to --font-monospace-override or system monospace
+
+ Compatibility: Obsidian 1.5+
+═══════════════════════════════════════════════════════════
+*/
+
+
+
+
+
+/* ══════════════════════════════════════════════════════════
+   FONT SIZE ADJUSTMENTS
+   Different sizes for editor vs preview
+   ══════════════════════════════════════════════════════════ */
+
+/* Editor mode - Slightly smaller */
+.markdown-source-view.mod-cm6 .cm-inline-code {
+  font-size: 0.95em;                          /* 95% of base */
+}
+
+/* Preview mode - Normal size */
+.markdown-preview-view .inline-code {
+  font-size: 1em;                             /* 100% of base */
+}
+
+/* ══════════════════════════════════════════════════════════
+   TAGS - Inline Tag Styling
+   Matches overall theme aesthetic
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .tag {
+  background: #1E1E1E !important;             /* Dark background */
+  color: #E50000 !important;                  /* Gold text */
+  border: 1px solid #E50000 !important;       /* Gold border */
+  border-radius: 14px !important;             /* Pill shape */
+  padding: 2px 10px !important;               /* Horizontal padding */
+  font-size: 0.875em !important;              /* Slightly smaller */
+  font-weight: 500 !important;                /* Medium weight */
+  transition: all 0.2s ease !important;       /* Smooth hover */
+}
+
+/* Tag hover state */
+.theme-dark .tag:hover {
+  background: #252525 !important;             /* Slightly lighter */
+  border-color: #E50000 !important;           /* Maintain gold */
+  cursor: pointer !important;                 /* Pointer cursor */
+}
+
+/* Unstyled tags option (disabled by default) */
+body:not(.minimal-unstyled-tags) .tag {
+  /* Keep styled appearance */
+}
+
+
+
+/* ══════════════════════════════════════════════════════════
+   BLOCKQUOTES
+   Enhanced blockquote styling
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .markdown-preview-view blockquote {
+  background-color: var(--blockquote-background-color) !important;
+  border-left: 3px solid var(--blockquote-border-color) !important;
+  color: var(--blockquote-color) !important;
+  padding: 12px 16px !important;
+  margin: 1em 0 !important;
+  border-radius: 0 4px 4px 0 !important;      /* Rounded on right only */
+}
+/* ══════════════════════════════════════════════════════════
+   HEADING VISIBILITY FIX - TEMPLATER SUPPORT
+   Forces headings to remain visible with Templater syntax
+   ══════════════════════════════════════════════════════════ */
+
+/* Force all heading levels to display */
+.cm-header,
+.cm-header-1,
+.cm-header-2,
+.cm-header-3,
+.cm-header-4,
+.cm-header-5,
+.cm-header-6,
+.HyperMD-header,
+.HyperMD-header-1,
+.HyperMD-header-2,
+.HyperMD-header-3,
+.HyperMD-header-4,
+.HyperMD-header-5,
+.HyperMD-header-6 {
+  display: inline-block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  min-height: 1.5em !important;
+  width: 100%;
+}
+
+/* Force heading formatting marks visible */
+.cm-formatting-header {
+  display: inline !important;
+  visibility: visible !important;
+  opacity: 0.5 !important;
+  color: var(--theme-red-vivid, #E50000) !important;
+}
+
+/* Templater syntax inside headings - keep visible */
+.cm-header .cm-templater-command,
+.cm-header .cm-templater-variable,
+.cm-header .cm-embed-block,
+.HyperMD-header .cm-templater-command,
+.HyperMD-header .cm-templater-variable,
+.HyperMD-header .cm-embed-block {
+  display: inline !important;
+  visibility: visible !important;
+  opacity: 0.7 !important;
+  color: var(--theme-grey-medium, #A3A3A3) !important;
+  font-family: monospace;
+  font-size: 0.85em;
+  background: rgba(229, 0, 0, 0.08);
+  padding: 2px 6px;
+  border-radius: 3px;
+  border: 1px solid rgba(229, 0, 0, 0.2);
+}
+
+/* ══════════════════════════════════════════════════════════
+   OPTION 6: GLOWING GRADIENT EFFECTS (DISABLED)
+   Gradient with drop shadow/glow
+   ══════════════════════════════════════════════════════════ */
+
+/* Glowing gradient H1 - COMMENTED OUT
+
+.theme-dark .markdown-preview-view h1,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-1,
+.theme-dark .cm-header-1,
+.markdown-preview-view h1,
+.cm-header-1,
+h1 {
+  background: linear-gradient(135deg, #E50000 0%, #E50000 50%, #E0E0E0 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  color: transparent !important;
+  text-decoration: none !important;
+  filter: drop-shadow(0 0 8px rgba(229, 0, 0, 0.5)) !important;
+}
+*/
+
+/* ══════════════════════════════════════════════════════════
+   END OF INLINE ELEMENTS
+   ══════════════════════════════════════════════════════════ */

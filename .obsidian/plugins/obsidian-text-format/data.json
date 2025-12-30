@@ -1,0 +1,444 @@
+{
+  "manifest": {
+    "version": "3.1.0"
+  },
+  "MergeParagraph_Newlines": true,
+  "MergeParagraph_Spaces": true,
+  "LowercaseFirst": true,
+  "RemoveBlanksWhenChinese": false,
+  "ZoteroNoteRegExp": "“(?<text>.*)” \\((?<item>.*?)\\) \\(\\[pdf\\]\\((?<pdf_url>.*?)\\)\\)",
+  "ZoteroNoteTemplate": "{text} [🔖]({pdf_url})",
+  "BulletPoints": "•–§",
+  "WrapperList": [
+    {
+      "name": "Underline",
+      "prefix": "<u>",
+      "suffix": "</u>",
+      "id": "underline"
+    },
+    {
+      "id": "3c35b19d-475f-46af-87cb-7bbde6d79f29",
+      "name": "Center Text",
+      "prefix": "<center>",
+      "suffix": " </center>"
+    },
+    {
+      "id": "502e1c44-8ca4-429c-ab07-cffb3fec1f7f",
+      "name": "Small Text",
+      "prefix": "<small>",
+      "suffix": "</small>"
+    },
+    {
+      "id": "48e72edb-2bf0-4bfb-8806-7fc0909d4d34",
+      "name": "Turquoise",
+      "prefix": "<span style='color: #00ffd2;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "042d2b4a-06f9-4841-86af-63223561fe7f",
+      "name": "Light Blue",
+      "prefix": "<span style='color: #00f8ff;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "e4d64f73-f9d7-414e-be3f-f45fefe9d508",
+      "name": "Purple",
+      "prefix": "<span style='color: #7200ff;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "2cfe7e17-573b-4239-8048-71d18554a304",
+      "name": "Pink",
+      "prefix": "<span style='color: #ff0075;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "0b8b8473-7283-4f2f-b9d9-27e369c41b06",
+      "name": "Red",
+      "prefix": "<span style='color: #ff0000;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "3e7ae276-fb9b-4a08-9f6d-127d49c959b6",
+      "name": "Orange",
+      "prefix": "<span style='color: #ff6e00;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "64646142-dec5-45e8-8c40-1c8a866807c3",
+      "name": "Chartreuse",
+      "prefix": "<span style='color: #83ff00;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "31313f52-4bfd-431c-80b7-03118ddafcf4",
+      "name": "Green",
+      "prefix": "<span style='color: #cbff00;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "a39da979-5422-4479-b42b-f5a63df8894d",
+      "name": "Gold",
+      "prefix": "<span style='color: #d8be34;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "50df8bc8-a10f-48f8-ad74-6a4922c89085",
+      "name": "Grey",
+      "prefix": "<span style='color: #6B7280;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "61679725-fb69-46ab-9af9-2b09f98c8f30",
+      "name": "Large Text",
+      "prefix": "<span style='font-size: 1.3em;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "073922b1-5d9c-4a34-9983-b8232f256994",
+      "name": "Red Italic",
+      "prefix": "<span style='color: #DC2626; font-weight: 500; font-style: italic;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "f02d2b95-7f5d-419c-9508-d68ff2e61629",
+      "name": "Red Block",
+      "prefix": "<span style='color: #FF6B6B; background-color: #FFE5E5; padding: 3px 8px; border-radius: 4px; font-weight: 500; border-left: 3px solid #FF6B6B;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "b30e1f0e-a412-482c-a220-799317bf499a",
+      "name": "Green Block",
+      "prefix": "<span style='color: #059669; background-color: #D1FAE5; padding: 3px 8px; border-radius: 4px; font-weight: 500;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "3747bbe1-48b4-4988-911a-1d9f7ff46d7e",
+      "name": "Badge Tag",
+      "prefix": "<span style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 3px 10px; border-radius: 12px; font-size: 0.85em; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "1335e357-7b8d-44fc-8ed9-4840865f1210",
+      "name": "Side Bar",
+      "prefix": "<span style='color: #6B7280; font-size: 0.9em; font-style: italic; border-left: 2px solid #D1D5DB; padding-left: 8px; margin-left: 5px;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "725ed70d-838d-4f28-91af-5a6598965dac",
+      "name": "Subscript",
+      "prefix": "<sub>",
+      "suffix": "</sub>"
+    },
+    {
+      "id": "ddb377be-0d34-4890-a4e1-32b00255cc08",
+      "name": "Superscript",
+      "prefix": "<sup>",
+      "suffix": "</sup>"
+    },
+    {
+      "id": "3745105f-c4b5-4429-ad8b-b35f18ac3ebf",
+      "name": "Strikethrough",
+      "prefix": "<span style='display: inline-block; transform: rotate(-90deg); transform-origin: center;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "ace2320f-e8eb-479e-a7e9-033bc1bf28d7",
+      "name": "Red-Strikethrough",
+      "prefix": "<span style='text-decoration: line-through; color: #E50000;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "455f17e2-4f25-4649-b69e-c01871851cce",
+      "name": "Gold-Strikethrough",
+      "prefix": "<span style='text-decoration: line-through; color: #FFC700;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "be5d0cb8-99e9-4ce7-8c26-2eed6c8f9dfd",
+      "name": "Green-Strikethrough",
+      "prefix": "<span style='text-decoration: line-through; color: #27FF00;'>",
+      "suffix": "</span>"
+    },
+    {
+      "id": "ef84ead6-ef93-4928-a463-7a4560a5a58f",
+      "name": "",
+      "prefix": "",
+      "suffix": ""
+    }
+  ],
+  "RequestList": [],
+  "customReplaceList": [
+    {
+      "id": "remove-trailing-spaces",
+      "name": "Remove trailing spaces",
+      "data": [
+        {
+          "search": "(\\s*)(?=\\n)|(\\s*)$",
+          "replace": ""
+        }
+      ]
+    },
+    {
+      "id": "remove-blank-line",
+      "name": "Remove blank line(s)",
+      "data": [
+        {
+          "search": "\\n\\s*\\n",
+          "replace": "\\n"
+        }
+      ]
+    },
+    {
+      "id": "add-line-break",
+      "name": "Add extra line break between paragraphs",
+      "data": [
+        {
+          "search": "\\n",
+          "replace": "\\n\\n"
+        }
+      ]
+    },
+    {
+      "id": "split-lines-by-blank",
+      "name": "Split line(s) by blanks",
+      "data": [
+        {
+          "search": " ",
+          "replace": "\\n"
+        }
+      ]
+    },
+    {
+      "id": "9e4e73b0-7ae9-4824-a7ad-946b5837d7e5",
+      "name": "Remove -",
+      "data": [
+        {
+          "search": "-",
+          "replace": " "
+        }
+      ]
+    },
+    {
+      "id": "3d6e145e-462b-4443-8520-bec0a7e108f1",
+      "name": "kebab-case",
+      "data": [
+        {
+          "search": " ",
+          "replace": "-"
+        }
+      ]
+    },
+    {
+      "id": "f537009b-6d9a-4cac-96e0-122c952f7231",
+      "name": "Remove _",
+      "data": [
+        {
+          "search": "_",
+          "replace": "-"
+        }
+      ]
+    },
+    {
+      "id": "ecaa4c7a-e226-43f6-ab35-6f35744ade28",
+      "name": "Remove Task",
+      "data": [
+        {
+          "search": "- [ ]",
+          "replace": ""
+        }
+      ]
+    },
+    {
+      "id": "e1538dd2-68fd-4773-9496-3f12032e46fc",
+      "name": "Remove Backtic",
+      "data": [
+        {
+          "search": "`",
+          "replace": ""
+        }
+      ]
+    },
+    {
+      "id": "494950b7-7ba1-4340-a518-3b29734cd438",
+      "name": "Remove Bold Formatting",
+      "data": [
+        {
+          "search": "\\*\\*(.+?)\\*\\*",
+          "replace": "$1"
+        }
+      ]
+    },
+    {
+      "id": "a74e86fc-e490-4619-95cd-22fe16ed1a6b",
+      "name": "Remove italic formatting",
+      "data": [
+        {
+          "search": "\\*(.+?)\\*",
+          "replace": "$1"
+        }
+      ]
+    },
+    {
+      "id": "632b937d-c13b-4747-ab31-e7170b9135a6",
+      "name": "Remove markdown links keep text",
+      "data": [
+        {
+          "search": "\\[([^\\]]+)\\]\\([^\\)]+\\)",
+          "replace": "$1"
+        }
+      ]
+    },
+    {
+      "id": "41a0f393-9187-4744-9270-33a7c88af288",
+      "name": "Remove checkboxes",
+      "data": [
+        {
+          "search": " - \\[ \\]",
+          "replace": "-"
+        }
+      ]
+    },
+    {
+      "id": "86dcfa72-c911-47ca-a616-eb174382cd38",
+      "name": "Check all tasks",
+      "data": [
+        {
+          "search": "- \\[ \\]",
+          "replace": "- [x]"
+        }
+      ]
+    },
+    {
+      "id": "c850e2d5-89a6-486c-97c1-510edfce3f89",
+      "name": "Uncheck all tasks",
+      "data": [
+        {
+          "search": "- \\[x\\]",
+          "replace": "- [ ]"
+        }
+      ]
+    },
+    {
+      "id": "a8b68b27-5199-4258-8331-7776511d447c",
+      "name": "Remove task markers",
+      "data": [
+        {
+          "search": "- \\[[x ]\\]",
+          "replace": "-"
+        }
+      ]
+    },
+    {
+      "id": "634e9d95-4fd5-4bee-865f-91e542d5942c",
+      "name": "Snake case to space",
+      "data": [
+        {
+          "search": "_",
+          "replace": " "
+        }
+      ]
+    },
+    {
+      "id": "847cfc29-da85-42a4-945b-c317049df6c7",
+      "name": "Kebab case to space",
+      "data": [
+        {
+          "search": "-",
+          "replace": " "
+        }
+      ]
+    },
+    {
+      "id": "c892b9c5-b5a7-4825-857f-5ea051ab0ac8",
+      "name": "Remove underscores",
+      "data": [
+        {
+          "search": "_",
+          "replace": ""
+        }
+      ]
+    },
+    {
+      "id": "b56ef3fd-0d41-4053-ab5f-c15145e952e9",
+      "name": "Parentheses to brackets",
+      "data": [
+        {
+          "search": "\\(([^)]+)\\)",
+          "replace": "[$1]"
+        }
+      ]
+    },
+    {
+      "id": "795c44f6-4c35-4a9d-9437-3438202a16f7",
+      "name": "Change :: to :",
+      "data": [
+        {
+          "search": "::",
+          "replace": ":"
+        }
+      ]
+    }
+  ],
+  "customReplaceBuiltInLog": {
+    "remove-trailing-spaces": {
+      "id": "remove-trailing-spaces",
+      "modified": false,
+      "data": [
+        {
+          "search": "(\\s*)(?=\\n)|(\\s*)$",
+          "replace": ""
+        }
+      ]
+    },
+    "remove-blank-line": {
+      "id": "remove-blank-line",
+      "modified": false,
+      "data": [
+        {
+          "search": "\\n\\s*\\n",
+          "replace": "\\n"
+        }
+      ]
+    },
+    "add-line-break": {
+      "id": "add-line-break",
+      "modified": false,
+      "data": [
+        {
+          "search": "\\n",
+          "replace": "\\n\\n"
+        }
+      ]
+    },
+    "split-lines-by-blank": {
+      "id": "split-lines-by-blank",
+      "modified": false,
+      "data": [
+        {
+          "search": " ",
+          "replace": "\\n"
+        }
+      ]
+    }
+  },
+  "ToggleSequence": "titleCase\nlowerCase\nupperCase\n",
+  "RemoveWikiURL2": false,
+  "WikiLinkFormat": {
+    "headingOnly": "{title} (> {heading})",
+    "aliasOnly": "{alias} ({title})",
+    "both": "{alias} ({title} > {heading})"
+  },
+  "UrlLinkFormat": "{text}",
+  "ProperNoun": "",
+  "OrderedListOtherSeparator": "",
+  "Wikilink2mdRelativePath": "relative-obsidian",
+  "calloutType": "purpose",
+  "debugMode": false,
+  "headingLevelMin": 0,
+  "calloutTypeDecider": "fix",
+  "formatOnSaveSettings": {
+    "enabled": false,
+    "commandsString": ""
+  }
+}

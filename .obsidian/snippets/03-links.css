@@ -1,0 +1,356 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET: Advanced Link Styling with Gradient Effects
+ Category: Links & Navigation
+ Purpose: Animated gradient underlines and hover effects
+ Author: Pur3v4d3r
+ Created: 2025-12-13
+ Version: 1.0.0
+
+ Description:
+ Sophisticated link styling system featuring animated gradient
+ underlines that expand on hover. Different gradient schemes
+ for internal links (cyan→purple) and external links
+ (gold→orange). Includes special handling for unresolved
+ links and bare/pseudo links.
+
+ Dependencies: 01-variables.css (recommended)
+ Standalone: Yes
+
+ Features:
+ - Animated gradient underlines (0% to 100% width on hover)
+ - Internal links: Cyan-to-Purple gradient
+ - External links: Gold-to-Orange gradient
+ - Unresolved links: Dotted purple underline
+ - Smooth transitions and color changes
+ - Pseudo-link scrolling animation
+
+ Performance:
+ - Hardware-accelerated animations
+ - Optimized transitions
+ - No performance impact on modern devices
+
+ Compatibility: Obsidian 1.5+
+═══════════════════════════════════════════════════════════
+
+
+
+
+
+/* CUSTOM BACKTICK COLOR */
+.cm-s-obsidian .cm-inline-code,
+.cm-s-obsidian .cm-code,
+.HyperMD-codeblock,
+.cm-line .cm-inline-code {
+  color: #ff0000 !important; /* Bright red for backticks */
+  font-weight: bold !important;
+}
+/* GLOW EFFECT ON LINKS */
+.accent-color-hover-glow a:hover {
+  box-shadow: 0 0 8px rgba(255, 0, 0, 0.6), 0 0 16px rgba(255, 0, 0, 0.6);
+  transition: box-shadow 0.3s ease-in;
+  -webkit-transition: box-shadow 0.3s ease-in;
+  -moz-transition: box-shadow 0.3s ease-in;
+  -ms-transition: box-shadow 0.3s ease-in;
+  -o-transition: box-shadow 0.3s ease-in;
+}
+
+
+
+
+
+
+
+
+
+
+
+─────────────────────────────────────────────────────────────────────────────
+TOGGLE: GLOW EFFECT ON LINKS
+Adds subtle glow to links on hover
+
+─────────────────────────────────────────────────────────────────────────────
+
+
+
+
+:root {
+  --link-glow-color: #ff0000; /* Red glow color */
+  --link-glow-shadow: rgba(255, 0, 0, 0.6);
+}
+/* Glow effect on hover for internal and external links */
+.theme-dark .markdown-preview-view a.internal-link:hover,
+.theme-dark .markdown-preview-view a.external-link:hover,
+.theme-dark .markdown-rendered a.internal-link:hover,
+.theme-dark .markdown-rendered a.external-link:hover,
+.markdown-preview-view a.internal-link:hover,
+.markdown-preview-view a.external-link:hover,
+.markdown-rendered a.internal-link:hover,
+.markdown-rendered a.external-link:hover {
+  box-shadow: 0 0 8px var(--link-glow-shadow), 0 0 16px var(--link-glow-shadow);
+  transition:;
+  box-shadow────────────────────────────────────────────────────────────────────────────*//*══════════════════════════════════════════════════════════════════════════════OBSIDIANLANGUAGESYNTAXCONTROLSYSTEMMainGoal:;
+  MakeallSquareBracketsglowredacrossallcontexts══════════════════════════════════════════════════════════════════════════════════*//*═══ROOTVARIABLES═══*/:root ;
+  -webkit-transition: box-shadow;
+  -moz-transition: box-shadow;
+  -ms-transition: box-shadow;
+  -o-transition: box-shadow;
+{
+  /* Square bracket glow colors */
+  --bracket-glow-red: #ff0000;
+  --bracket-glow-red-bright: #ff3333;
+  --bracket-glow-red-shadow: rgba(255, 0, 0, 0.8);
+  --bracket-glow-red-intense: rgba(255, 0, 0, 1.0);
+  
+  /* Glow intensity levels */
+  --glow-subtle: 0 0 3px var(--bracket-glow-red-shadow);
+  --glow-medium: 0 0 6px var(--bracket-glow-red-shadow), 0 0 12px var(--bracket-glow-red-shadow);
+  --glow-intense: 0 0 3px var(--bracket-glow-red-intense), 0 0 6px var(--bracket-glow-red-shadow), 0 0 12px var(--bracket-glow-red-shadow);
+}
+
+/* ═══ UNIVERSAL SQUARE BRACKET TARGETING ═══ */
+/* Base selector for all square brackets in any context */
+*:before, *:after, * {
+  /* This will be overridden by specific selectors below */
+}
+
+/* ══════════════════════════════════════════════════════════
+   MARKDOWN EDITOR CONTEXT - Square Brackets
+   ══════════════════════════════════════════════════════════ */
+/* CodeMirror 6 - Live Preview and Source Mode */
+.cm-editor .cm-content .cm-line,
+.cm-editor .cm-content {
+  /* Target square brackets in live preview */
+}
+/* Square brackets in internal links [[]] */
+.markdown-source-view.mod-cm6 .cm-content .cm-line .cm-formatting-link,
+.cm-s-obsidian .cm-formatting-link,
+.cm-formatting.cm-link,
+span[class*="cm-formatting"][class*="link"] {
+  color: var(--bracket-glow-red) !important;
+  text-shadow: var(--glow-medium) !important;
+  font-weight: bold !important;
+}
+/* Square brackets in tags #[[]] */
+.cm-hashtag .cm-formatting,
+.cm-tag .cm-formatting,
+span.cm-hashtag-begin,
+span.cm-hashtag-end {
+  color: var(--bracket-glow-red) !important;
+  text-shadow: var(--glow-subtle) !important;
+}
+
+
+
+/* ═══════════════════════════════════════════════════════════════
+   FOUNDATION 1: DEEP GREY & CRIMSON PALETTE
+   Defines core colors as CSS custom properties (variables)
+   Based on Material Design dark theme principles with vivid crimson accents
+   ═══════════════════════════════════════════════════════════════ */
+
+:root {
+  /* === PRIMARY ACCENT COLOR === */
+  --theme-crimson: #E50000;
+  --theme-crimson-bright: #E50000;
+  --theme-crimson-dim: #CC0000;
+
+  /* === CORE UI COLORS === */
+  --theme-text: #E0E0E0;
+  --theme-text-medium: #A3A3A3;
+  --theme-bg: #121212;
+  --theme-bg-raised: #1E1E1E;
+
+  /* === RGB VERSIONS (for rgba() transparency) === */
+  --theme-crimson-rgb: 229, 0, 0;
+  --theme-crimson-bright-rgb: 255, 0, 0;
+  --theme-crimson-dim-rgb: 204, 0, 0;
+  --theme-text-rgb: 224, 224, 224;
+  --theme-text-medium-rgb: 163, 163, 163;
+  --theme-bg-rgb: 18, 18, 18;
+  --theme-bg-raised-rgb: 30, 30, 30;
+
+  /* === DEFAULT FALLBACK === */
+  --callout-color: var(--theme-crimson);
+  --callout-color-rgb: var(--theme-crimson-rgb);
+}
+
+
+
+/* ══════════════════════════════════════════════════════════
+   INTERNAL LINKS [[wiki-links]] - Cyber Cyan to Deep Amethyst
+   Gradient underline expands on hover
+   ══════════════════════════════════════════════════════════ */
+
+/* Base state - Hidden gradient underline */
+.theme-dark .markdown-preview-view a.internal-link:not(.is-unresolved),
+.theme-dark .markdown-source-view.mod-cm6 .cm-link:not(.is-unresolved),
+.theme-dark .markdown-rendered a.internal-link:not(.is-unresolved),
+.markdown-preview-view a.internal-link:not(.is-unresolved),
+.markdown-rendered a.internal-link:not(.is-unresolved),
+.cm-s-obsidian span.cm-link:not(.is-unresolved),
+.cm-link:not(.is-unresolved) {
+  
+  /*Basetextcolor-Yellow-tintedcyan*/color: #ff000075 !important;
+  /*Gradientunderlinesetup(hiddenbydefault)*/background-image: linear-gradient(90deg,    #00ffffff 25%,                              /* Cyber Cyan */    #ff0000ff 90%                /* Deep red */    ) !important;
+  background-size: 0% 2px !important;
+  /*Startat0%width*/background-position: 0 100% !important;
+  /*Bottomleft*/background-repeat: no-repeat !important;
+  /*Visibleunderline(fallback)*/background-color: transparent !important;
+  /*Smoothtransitionforhovereffect*/transition: background-size 0.3s ease, color 0.2s ease  ;
+  -webkit-transition: background-size 5s ease, color 0.2s ease-in-out;
+  -moz-transition: background-size 0.3s ease, color 0.2s ease;
+  -ms-transition: background-size 0.3s ease, color 0.2s ease;
+  -o-transition: background-size 0.3s ease, color 0.2s ease;
+}
+
+/* Hover state - Expand gradient underline */
+.theme-dark .markdown-preview-view a.internal-link:not(.is-unresolved):hover,
+.theme-dark .markdown-source-view.mod-cm6 .cm-link:not(.is-unresolved):hover,
+.theme-dark .markdown-rendered a.internal-link:not(.is-unresolved):hover,
+.markdown-preview-view a.internal-link:not(.is-unresolved):hover,
+.markdown-rendered a.internal-link:not(.is-unresolved):hover,
+.cm-s-obsidian span.cm-link:not(.is-unresolved):hover,
+.cm-link:not(.is-unresolved):hover {
+  color: #ff0000ff !important;                  /* Imperial Gold on hover */
+  background-size: 100% 2.5px !important;       /* Expand to full width */
+}
+
+/* on Hover Glow Effect for Unresolved Links */
+.theme-dark .markdown-preview-view a.internal-link.is-unresolved:hover,
+.theme-dark .markdown-source-view.mod-cm6 .cm-link.is-unresolved:hover,
+.theme-dark .markdown-rendered a.internal-link.is-unresolved:hover,
+.markdown-preview-view a.internal-link.is-unresolved:hover,
+.markdown-rendered a.internal-link.is-unresolved:hover,
+.cm-s-obsidian span.cm-link.is-unresolved:hover,
+.cm-link.is-unresolved:hover {
+  text-decoration-color: #ff0000ff !important;  /* Bright red underline on hover */
+  box-shadow: inset 0 0 5px rgba(255, 0
+, 0, 0.8) !important; /* Red glow on hover */
+}
+
+
+
+/* ══════════════════════════════════════════════════════════
+   EXTERNAL LINKS [text](url) - Imperial Gold to Reactor Orange
+   Warmer gradient for external resources
+   ══════════════════════════════════════════════════════════ */
+
+/* Base state - Hidden gradient underline */
+.theme-dark .markdown-preview-view a.external-link,
+.theme-dark .markdown-rendered a.external-link,
+.markdown-preview-view a.external-link,
+.markdown-rendered a.external-link {
+  color: #A3A3A3 !important;                  /* Gray base color */
+
+  /* Warmer gradient for external links */
+  background-image: linear-gradient(90deg,
+    #383838ff 25%,                              /* Imperial Gold */
+    #FF0000 100%                              /* Reactor Orange */
+  ) !important;
+  background-size: 0% 2px !important;         /* Start hidden */
+  background-position: 0 100% !important;
+  background-repeat: no-repeat !important;
+
+
+
+  /* Smooth transition */
+  transition: background-size 0.3s ease, color 0.2s ease !important;
+}
+
+/* Hover state - Expand gradient underline */
+.theme-dark .markdown-preview-view a.external-link:hover,
+.theme-dark .markdown-rendered a.external-link:hover,
+.markdown-preview-view a.external-link:hover,
+.markdown-rendered a.external-link:hover {
+  color: #E50000 !important;                  /* Gold on hover */
+  background-size: 100% 2px !important;       /* Expand to full width */
+}
+
+/* ══════════════════════════════════════════════════════════
+   OBSIDIAN LANGUAGE SYNTAX CONTROL SYSTEM
+   Main Goal: Make all Square Brackets glow red across all contexts
+   ═══════════════════════════════════════════════════════════ */
+/* ═══ ROOT VARIABLES ═══ */
+:root {
+  /* Square bracket glow colors */
+  --bracket-glow-red: #ff0000;
+  --bracket-glow-red-bright: #ff3333;
+  --bracket-glow-red-shadow: rgba(255, 0, 0, 0.8);
+  --bracket-glow-red-intense: rgba(255, 0, 0, 1.0);
+
+  /* Glow intensity levels */
+  --glow-subtle: 0 0 3px var(--bracket-glow-red-shadow);
+  --glow-medium: 0 0 6px var(--bracket-glow-red-shadow), 0 0 12px var(--bracket-glow-red-shadow);
+  --glow-intense: 0 0 3px var(--bracket-glow-red-intense), 0 0 6px var(--bracket-glow-red-intense), 0 0 12px var(--bracket-glow-red-shadow)
+;} 
+
+/* ═══ UNIVERSAL SQUARE BRACKET TARGETING ═══ */
+/* Base selector for all square brackets in any context */
+*:before, *:after, * {
+  /* This will be overridden by specific selectors below */
+}
+
+/* ══════════════════════════════════════════════════════════
+   MARKDOWN EDITOR CONTEXT - Square Brackets
+   ══════════════════════════════════════════════════════════ */
+/* CodeMirror 6 - Live Preview and Source Mode */
+.cm-editor .cm-content .cm-line,
+.cm-editor .cm-content {
+  /* Target square brackets in live preview */
+}
+/* Square brackets in internal links [[]] */
+.markdown-source-view.mod-cm6 .cm-content .cm-line .cm-formatting-link,
+.cm-s-obsidian .cm-formatting-link,
+.cm-formatting.cm-link,
+span[class*="cm-formatting"][class*="link"] {
+  color: var(--bracket-glow-red) !important;
+  text-shadow: var(--glow-medium) !important;
+  font-weight: bold !important;
+}
+/* Square brackets in tags #[[]] */
+.cm-hashtag .cm-formatting,
+.cm-tag .cm-formatting,
+span.cm-hashtag-begin,
+span.cm-hashtag-end {
+  color: var(--bracket-glow-red) !important;
+  text-shadow: var(--glow-subtle) !important;
+}
+/* Square brackets in code blocks and inline code */
+.cm-s-obsidian .cm-inline-code,
+.cm-s-obsidian .cm-code,
+.HyperMD-codeblock,
+.cm-line .cm-inline-code {
+  /* Target brackets inside code spans */
+}
+/* Generic square bracket characters */
+.cm-content *:not(.cm-comment) {
+  /* This will catch standalone square brackets */
+}
+/* ══════════════════════════════════════════════════════════
+   READING MODE CONTEXT - Square Brackets
+   ══════════════════════════════════════════════════════════ */
+/* Reading view internal links */
+.markdown-preview-view .internal-link,
+.markdown-rendered .internal-link,
+.markdown-reading-view .internal-link {
+  position: relative;
+}
+/* Add glowing brackets to internal links in reading mode */
+.markdown-preview-view .internal-link:before,
+.markdown-rendered .internal-link:before,
+.markdown-reading-view .internal-link:before {
+  content: '[' !important;
+  color: var(--bracket-glow-red) !important;
+  text-shadow: var(--glow-medium) !important;
+  font-weight: bold !important;
+  margin-right: 2px;
+}
+.markdown-preview-view .internal-link:after,
+.markdown-rendered .internal-link:after,
+.markdown-reading-view .internal-link:after {
+  content: ']' !important;
+  color: var(--bracket-glow-red) !important;
+  text-shadow: var(--glow-medium) !important;
+  font-weight: bold !important;
+  margin-left: 2px;
+}
