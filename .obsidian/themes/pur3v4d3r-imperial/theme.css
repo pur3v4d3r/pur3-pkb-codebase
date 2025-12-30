@@ -92,11 +92,11 @@
   --link-unresolved-color: #666666;
   --link-unresolved-decoration-color: var(--theme-red-vivid);
   --link-unresolved-opacity: 1.0;
-
-  /* ─────────────────────────────────────────
-     OBSIDIAN CORE VARIABLES - Code Blocks
-     ───────────────────────────────────────── */
-
+  --link-unresolved-hover-opacity: 1.0;
+  --link-visited-color: var(--theme-red-dim);
+  --link-visited-decoration-color: var(--theme-red-dim);
+  --link-visited-opacity: 1.0;
+  --link-visited-hover-opacity: 1.0;
 
 
   /* ─────────────────────────────────────────
@@ -107,14 +107,10 @@
   --icon-color-hover: var(--theme-red-bright);
   --icon-color-active: var(--theme-red-dark);
   --icon-color-focused: var(--theme-red-vivid);
-
   --indentation-guide-color: var(--theme-black-border);
   --indentation-guide-color-active: var(--theme-red-vivid);
-
   --progress-complete: var(--theme-red-vivid);
-
   --checkbox-color: var(--theme-red-vivid);
-
   --line-number-color: var(--theme-grey-dark);
 
   /* ─────────────────────────────────────────
@@ -310,6 +306,7 @@
 }.markdown-rendered table tr:hover {
   background: rgba(229, 0, 0%
 , 0.08);
+}
 
 
 
@@ -397,17 +394,17 @@ hr:hover {
    ═══════════════════════════════════════════════════════════ */
 /* Base Font Sizes - Ensure consistency */
 body {
-  --font-text-size: 20px  !important;                         /* Base text size */
-  --editor-font-size: 18px !important;                        /* Override Minimal theme */
-  --font-adaptive-normal: 18px !important;                    /* Override Minimal adaptive */
-  --font-smallest: 18px  !important;                       /* Small text (14px) */
-  --font-smaller: 18px  !important;                       /* Smaller text
+  --font-text-size: 20px;                         /* Base text size */
+  --editor-font-size: 18px;                        /* Override Minimal theme */
+  --font-adaptive-normal: 18px;                    /* Override Minimal adaptive */
+  --font-smallest: 18px;                       /* Small text (14px) */
+  --font-smaller: 18px;                       /* Smaller text
   (15px) */
-  --font-small: 18px  !important;                              /* Normal text (18px) */
-  --font-ui-smaller: 14px  !important;                        /* UI elements */
-  --font-ui-small: 16px  !important;                          /* Small UI */
-  --font-ui-medium: 16px  !important;                         /* Medium UI */
-  --font-ui-large: 18px  !important;                          /* Large UI */
+  --font-small: 18px;                              /* Normal text (18px) */
+  --font-ui-smaller: 14px;                        /* UI elements */
+  --font-ui-small: 16px;                          /* Small UI */
+  --font-ui-medium: 16px;                         /* Medium UI */
+  --font-ui-large: 18px;                          /* Large UI */
 }
 /* Editor Font Size - Comprehensive override for all editor elements */
 .markdown-source-view,
@@ -421,34 +418,35 @@ body {
 .markdown-source-view.mod-cm6 .cm-content,
 .markdown-source-view.mod-cm6 .cm-line,
 .markdown-source-view.mod-cm6 .cm-sizer {
-  font-size: var(--font-text-size) !important;
+  font-size: var(--font-text-size);
 }
 /* Preview Font Size */
 .markdown-preview-view {
-  font-size: var(--font-text-size) !important;
+  font-size: var(--font-text-size);
 }
 /* Interface Font Sizes */
 .workspace-leaf-content[data-type="file-explorer"] .nav-file-title,
 .workspace-leaf-content[data-type="search"] .search-result-file-title {
-  font-size: var(--font-ui-medium) !important;
+  font-size: var(--font-ui-medium);
 }
 .workspace-leaf-content[data-type="file-explorer"] .nav-folder-title {
-  font-size: var(--font-ui-medium) !important;
+  font-size: var(--font-ui-medium);
 }
 /* Sidebar and Panel Text */
 .side-dock-ribbon {
-  font-size: var(--font-ui-small) !important;
+  font-size: var(--font-ui-small);
 }
 .workspace-tab-header-container {
-  font-size: var(--font-ui-small) !important;
+  font-size: var(--font-ui-small);
 }
 /* Code Block Font Size */
 .markdown-preview-view code,
 .markdown-preview-view pre {
-  font-size: 0.8em !important;                    /* 80% of base
+  font-size: 0.8em;                    /* 80% of base
   text */
+}
 .cm-s-obsidian span.cm-inline-code {
-  font-size: 0.8em !important;                    /* 80% of base
+  font-size: 0.8em;                    /* 80% of base
   text */
 }
 /* Footnotes and Small Text */
@@ -456,108 +454,18 @@ body {
 .markdown-rendered .footnote-ref,
 .markdown-preview-view .footnote-definition,
 .markdown-rendered .footnote-definition {
-  font-size: 0.8em !important;                    /* 80% of base
+  font-size: 0.8em;                    /* 80% of base
   text */
 }
 
 .markdown-preview-view .small-text,
 .markdown-rendered .small-text {
-  font-size: var(--font-smaller) !important;
+  font-size: var(--font-smaller);
 }
 
 
 
 
-/* ═══════════════════════════════════════════════════════════
-   SECTION 8: SIDEBAR & WORKSPACE TABS
-   Dependencies: Variables
-   Description: Sidebar navigation tabs and workspace components
-   ═══════════════════════════════════════════════════════════ */
-
-/* ─────────────────────────────────────────
-   SIDEBAR TAB HEADERS (File Explorer, Search, etc.)
-   ───────────────────────────────────────── */
-
-/* Tab container at top of sidebar */
-.workspace-tabs {
-  background: var(--theme-black-ui);
-  border-bottom: 1px solid var(--theme-black-border);
-}
-
-/* Individual tab headers (inactive) */
-.workspace-tab-header {
-  background: transparent;
-  color: var(--theme-grey-medium) !important;
-  border: none;
-  transition: all var(--transition-fast);
-}
-
-.workspace-tab-header:hover {
-  background: rgba(229, 0, 0, 0.08) !important;
-  color: var(--theme-red-vivid) !important;
-}
-
-/* Active tab */
-.workspace-tab-header.is-active {
-  background: var(--theme-black-raised) !important;
-  color: var(--theme-red-vivid) !important;
-  border-bottom: 2px solid var(--theme-red-vivid) !important;
-}
-
-/* Tab title text - High specificity to override snippets */
-.theme-dark .workspace-tab-header-inner-title,
-body .workspace-tab-header-inner-title,
-.workspace-tab-header-inner-title {
-  font-size: 13px !important;
-  font-weight: 500 !important;
-  color: var(--theme-grey-bright) !important;
-}
-
-.theme-dark .workspace-tab-header.is-active .workspace-tab-header-inner-title,
-body .workspace-tab-header.is-active .workspace-tab-header-inner-title,
-.workspace-tab-header.is-active .workspace-tab-header-inner-title {
-  font-weight: 600 !important;
-  color: var(--theme-red-vivid) !important;
-}
-
-/* Tab icons */
-.workspace-tab-header-inner-icon {
-  color: var(--theme-grey-medium) !important;
-}
-
-.workspace-tab-header.is-active .workspace-tab-header-inner-icon {
-  color: var(--theme-red-vivid) !important;
-}
-
-.workspace-tab-header:hover .workspace-tab-header-inner-icon {
-  color: var(--theme-red-vivid) !important;
-}
-
-.workspace-tab-header:hover .workspace-tab-header-inner-title {
-  color: var(--theme-red-vivid) !important;
-}
-
-/* Tab container (holds all tabs) */
-.workspace-tab-header-container {
-  background: var(--theme-black-ui) !important;
-  padding: 0;
-}
-
-/* Specific fixes for right sidebar tabs (Tags, Properties, Backlinks) */
-.workspace-split.mod-right-split .workspace-tab-header,
-.workspace-split.mod-left-split .workspace-tab-header {
-  color: var(--theme-grey-bright) !important;
-}
-
-.workspace-split.mod-right-split .workspace-tab-header-inner-title,
-.workspace-split.mod-left-split .workspace-tab-header-inner-title {
-  color: var(--theme-grey-bright) !important;
-}
-
-.workspace-split.mod-right-split .workspace-tab-header.is-active .workspace-tab-header-inner-title,
-.workspace-split.mod-left-split .workspace-tab-header.is-active .workspace-tab-header-inner-title {
-  color: var(--theme-red-vivid) !important;
-}
 
 
 

@@ -1,6 +1,11 @@
 ---
-tags: #prompt-engineering #llm-reasoning #claude-architecture #thinking-tags #reasoning-frameworks #cognitive-scaffolding #meta-cognition
-aliases: [Claude Thinking System, Extended Thinking Tags, LLM Reasoning Architecture, Advanced Prompt Reasoning]
+tags:
+  - prompt-engineering
+aliases:
+  - Claude Thinking System
+  - Extended Thinking Tags
+  - LLM Reasoning Architecture
+  - Advanced Prompt Reasoning
 created: 2024-12-28
 modified: 2024-12-28
 status: evergreen
@@ -16,7 +21,7 @@ type: reference
 [**Extended-Thinking-Architecture**:: Claude's systematic capability to perform explicit, visible reasoning through structured XML tags that enable multi-step deliberation, self-correction, and metacognitive reflection before generating final responses.] This comprehensive report examines the theoretical foundations, technical implementation, and practical applications of Claude's thinking tag system—a paradigm shift in large language model interaction that transforms opaque token generation into transparent cognitive processes. Through analysis of reasoning frameworks including [[Chain of Thought]], [[Tree of Thoughts]], [[Self-Consistency]], and [[Reflexion]], we establish how structured thinking tags serve as cognitive scaffolding that enhances reasoning quality, enables verification, and provides unprecedented visibility into AI decision-making processes. This research synthesizes prompt engineering best practices, architectural insights, and empirical patterns to equip practitioners with actionable frameworks for leveraging Claude's advanced reasoning capabilities.
 
 ---
-
+#
 ## 1. Introduction: The Evolution from Token Generation to Explicit Reasoning
 
 ### 1.1 The Fundamental Paradigm Shift
