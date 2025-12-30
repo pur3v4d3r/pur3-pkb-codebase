@@ -4,6 +4,9 @@
    
    TOGGLE SYSTEM: Comment/uncomment sections to enable/disable features
    Each feature block is marked with [TOGGLE] for easy identification
+   
+   ⚠️ IMPORTANT: Disable conflicting mermaid snippets (e.g., 10-mermaid.css)
+   to prevent style conflicts causing blank nodes or incorrect colors.
 ═══════════════════════════════════════════════════════════════════════════ */
 
 /* ═══════════════════════════════════════════════════════════════════════════
@@ -71,30 +74,45 @@ div.mermaid {
 
 div.mermaid::after {
   content: '⤡';
-  display: block;
-  width: 16px;
-  height: 16px;
-  font-size: 12px;
-  color: var(--v4d3r-grey-medium);
-  position: absolute;
-  right: 4px;
-  bottom: 4px;
-  opacity: 0.6;
+  display: block!important;
+  width: 16px!important;
+  height: 16px!important;
+  font-size: 12px!important;
+  color: var(--v4d3r-grey-medium)!important;
+  position: absolute!important;
+  right: 4px!important;
+  bottom: 4px!important;
+  opacity: 0.6!important;
   transition: opacity 0.2s ease;
+  -webkit-transition: opacity 0.2s ease;
+  -moz-transition: opacity 0.2s ease;
+  -ms-transition: opacity 0.2s ease;
+  -o-transition: opacity 0.2s ease;
 }
 
 div.mermaid:hover::after {
-  opacity: 1;
-  color: var(--v4d3r-red-primary);
+  opacity: 1!important;
+  color: var(--v4d3r-red-primary)!important;
 }
 
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] M2: SVG SIZING CONTROL
 ───────────────────────────────────────────────────────────────────────── */
-svg[id^="m"][width][height][viewBox] {
-  max-width: 95%;
-  max-height: 95%;
+.mermaid svg {
+  width: 100% !important;
+  height: auto !important;
+  max-width: 100% !important;
+  max-height: 800px !important;
+  display: block !important;
+  margin: 0 auto !important;
 }
+.mermaid svg[id^="m"][width][height][viewBox] {
+  max-width: 95%!important;
+  max-height: 95%!important;
+}
+
+
+
 
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] M3: MERMAID NODE STYLING - RED/BLACK THEME
@@ -109,10 +127,20 @@ svg[id^="m"][width][height][viewBox] {
   stroke-width: 2px !important;
 }
 
-.mermaid .node .label {
-  color: var(--v4d3r-grey-pale) !important;
+/* Node text - comprehensive selectors for all Mermaid text elements */
+.mermaid .node text,
+.mermaid .node .nodeLabel,
+.mermaid .node .label,
+.mermaid .nodeLabel,
+.mermaid .label text,
+.mermaid text.nodeLabel,
+.mermaid .flowchart-label text,
+.mermaid .cluster-label text {
   fill: var(--v4d3r-grey-pale) !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
 }
+
 
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] M4: MERMAID EDGE/LINK STYLING
@@ -122,15 +150,29 @@ svg[id^="m"][width][height][viewBox] {
   stroke-width: 2px !important;
 }
 
-.mermaid .edgeLabel {
+/* Edge labels - comprehensive selectors */
+.mermaid .edgeLabel,
+.mermaid .edgeLabel rect,
+.mermaid .edgeLabel .label {
   background-color: var(--v4d3r-black-charcoal) !important;
-  color: var(--v4d3r-grey-light) !important;
-  padding: 4px 8px;
-  border-radius: 4px;
+  fill: var(--v4d3r-black-charcoal) !important;
 }
 
-.mermaid marker#arrowhead path {
+.mermaid .edgeLabel text,
+.mermaid .edgeLabel span,
+.mermaid .edgeLabel .edgeLabel,
+.mermaid .label foreignObject div {
+  color: var(--v4d3r-grey-light) !important;
+  fill: var(--v4d3r-grey-light) !important;
+  background: transparent !important;
+}
+
+/* Arrowheads - multiple selector patterns */
+.mermaid marker#arrowhead path,
+.mermaid marker path,
+.mermaid .marker {
   fill: var(--v4d3r-red-primary) !important;
+  stroke: var(--v4d3r-red-primary) !important;
 }
 
 /* ─────────────────────────────────────────────────────────────────────────
@@ -165,6 +207,36 @@ svg[id^="m"][width][height][viewBox] {
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] M7: SEQUENCE DIAGRAM STYLING
 ───────────────────────────────────────────────────────────────────────── */
+.mermaid .actor rect,
+.mermaid .actor circle,
+.mermaid .actor ellipse,
+.mermaid .actor polygon {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-red-primary) !important;
+}
+.mermaid .actor text {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .messageLine {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+.mermaid .messageText {
+  fill: var(--v4d3r-grey-light) !important;
+}
+.mermaid .activationRect {
+  fill: var(--v4d3r-red-dark) !important;
+  stroke: var(--v4d3r-red-primary) !important;
+}
+.mermaid .sequenceDiagram .divider {
+  stroke: var(--v4d3r-grey-dark) !important;
+}
+.mermaid .sequenceDiagram .noteRect {
+  fill: var(--v4d3r-black-charcoal) !important;
+  stroke: var(--v4d3r-red-primary) !important;
+}
+.mermaid .sequenceDiagram .noteText {
+  fill: var(--v4d3r-grey-pale) !important;
+}
 .mermaid .actor {
   fill: var(--v4d3r-black-rich) !important;
   stroke: var(--v4d3r-red-primary) !important;
@@ -198,6 +270,22 @@ svg[id^="m"][width][height][viewBox] {
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] M8: GANTT CHART STYLING
 ───────────────────────────────────────────────────────────────────────── */
+.mermaid .gantt-bar {
+  fill: var(--v4d3r-red-primary) !important;
+  stroke: var(--v4d3r-black-pure) !important;
+  stroke-width: 1px !important;
+}
+.mermaid .gantt-bar-label {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .gantt-axis text {
+  fill: var(--v4d3r-grey-light) !important;
+}
+.mermaid .gantt-grid line {
+  stroke: var(--v4d3r-grey-dark) !important;
+  stroke-dasharray: 2,2 !important;
+}
+
 .mermaid .section0,
 .mermaid .section2 {
   fill: var(--v4d3r-black-rich) !important;
@@ -229,6 +317,13 @@ svg[id^="m"][width][height][viewBox] {
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] M9: PIE CHART STYLING
 ───────────────────────────────────────────────────────────────────────── */
+.mermaid .pieSlice {
+  stroke: var(--v4d3r-black-rich) !important;
+  stroke-width: 2px !important;
+}
+.mermaid .pieLabel {
+  fill: var(--v4d3r-grey-pale) !important;
+}
 .mermaid .pieTitleText {
   fill: var(--v4d3r-grey-pale) !important;
   font-weight: 600;
@@ -243,9 +338,32 @@ svg[id^="m"][width][height][viewBox] {
   fill: var(--v4d3r-grey-light) !important;
 }
 
+
+
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] M10: CLASS DIAGRAM STYLING
 ───────────────────────────────────────────────────────────────────────── */
+.mermaid .classNode rect {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-red-primary) !important;
+}
+.mermaid .classNode text {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .classEdgePath .path {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+.mermaid .classMarker path {
+  fill: var(--v4d3r-red-primary) !important;
+}
+.mermaid .classGroup rect {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-red-primary) !important;
+}
+.mermaid .classGroup .title {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+
 .mermaid .classGroup rect {
   fill: var(--v4d3r-black-rich) !important;
   stroke: var(--v4d3r-red-primary) !important;
@@ -275,6 +393,21 @@ svg[id^="m"][width][height][viewBox] {
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] M11: STATE DIAGRAM STYLING
 ───────────────────────────────────────────────────────────────────────── */
+.mermaid .stateNode rect,
+.mermaid .stateNode circle,
+.mermaid .stateNode ellipse {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-red-primary) !important;
+}
+.mermaid .stateNode text {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .stateEdgePath .path {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+.mermaid .stateMarker path {
+  fill: var(--v4d3r-red-primary) !important;
+}
 .mermaid .stateGroup rect {
   fill: var(--v4d3r-black-rich) !important;
   stroke: var(--v4d3r-red-primary) !important;
@@ -296,6 +429,22 @@ svg[id^="m"][width][height][viewBox] {
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] M12: MINDMAP STYLING
 ───────────────────────────────────────────────────────────────────────── */
+.mermaid .mindmap-node rect,
+.mermaid .mindmap-node circle,
+.mermaid .mindmap-node ellipse,
+.mermaid .mindmap-node polygon {
+  fill: var(--v4d3r-black-rich) !important;
+  stroke: var(--v4d3r-red-primary) !important;
+}
+.mermaid .mindmap-node text {
+  fill: var(--v4d3r-grey-pale) !important;
+}
+.mermaid .mindmap-edgePath .path {
+  stroke: var(--v4d3r-grey-medium) !important;
+}
+.mermaid .mindmap-marker path {
+  fill: var(--v4d3r-red-primary) !important;
+}
 .mermaid .mindmap-node rect {
   fill: var(--v4d3r-black-rich) !important;
   stroke: var(--v4d3r-red-primary) !important;
@@ -311,15 +460,23 @@ svg[id^="m"][width][height][viewBox] {
   stroke: var(--v4d3r-grey-medium) !important;
 }
 
+
+
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] M13: HOVER EFFECTS FOR ALL MERMAID NODES
 ───────────────────────────────────────────────────────────────────────── */
 .mermaid .node:hover rect,
 .mermaid .node:hover circle,
-.mermaid .node:hover polygon {
-  filter: drop-shadow(0 0 8px var(--v4d3r-red-glow));
-  transition: filter 0.2s ease;
+.mermaid .node:hover ellipse,
+.mermaid .node:hover polygon,
+.mermaid .node:hover path {
+  stroke: var(--v4d3r-red-light) !important;
+  stroke-width: 3px !important;
 }
+.mermaid .node:hover .label {
+  fill: var(--v4d3r-red-light) !important;
+}
+
 
 /* ═══════════════════════════════════════════════════════════════════════════
    END OF PART 1 - MERMAID STYLING

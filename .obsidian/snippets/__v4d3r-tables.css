@@ -98,11 +98,13 @@
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] T8: COMPACT TABLE VARIANT (use cssclass: table-compact)
 ───────────────────────────────────────────────────────────────────────── */
-/*.table-compact table th,
+/*
+.table-compact table th,
 .table-compact table td {
   padding: 6px 10px;
   font-size: 0.85em;
 }
+*/
 
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] T9: WIDE TABLE VARIANT (use cssclass: table-wide)
@@ -121,7 +123,8 @@
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] T10: BORDERLESS TABLE VARIANT (use cssclass: table-borderless)
 ───────────────────────────────────────────────────────────────────────── */
-/*.table-borderless table {
+/*
+.table-borderless table {
   border: none;
 }
 
@@ -129,11 +132,13 @@
 .table-borderless table td {
   border: none;
 }
+*/
 
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] T11: MINIMAL TABLE VARIANT (use cssclass: table-minimal)
 ───────────────────────────────────────────────────────────────────────── */
-/*.table-minimal table {
+/*
+.table-minimal table {
   border: none;
   border-radius: 0;
 }
@@ -147,8 +152,7 @@
   border: none;
   text-align: left;
 }
-
-
+*/
 
 /* ─────────────────────────────────────────────────────────────────────────
    [TOGGLE] T12: LATEX-STYLE TABLE (use cssclass: table-latex)

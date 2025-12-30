@@ -104,16 +104,14 @@
  * Uncomment this section if you prefer a scrollable window
  * over full resizing. This locks horizontal width and allows
  * only vertical adjustment.
+ *
+ * .mermaid {
+ *   resize: vertical;
+ *   overflow: scroll;
+ *   max-height: 600px;
+ *   justify-content: flex-start;
+ * }
  */
-
-
-.mermaid {
-  resize: vertical;                           /* Only height adjustment */
-  overflow: scroll;                           /* Always show scrollbars */
-  max-height: 600px;                          /* Cap the height */
-  justify-content: flex-start;                /* Align top-left for scrolling */
-}
-*/
 
 /* ══════════════════════════════════════════════════════════
    DARK MODE THEME INTEGRATION
