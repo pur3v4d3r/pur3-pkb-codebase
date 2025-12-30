@@ -1,5 +1,9 @@
 
 
+- Path to Smart Connections Embeddings
+  - `D:\10_pur3v4d3r's-vault\.smart-env\multi`
+
+
 # Movement of Agent through PKB
 
 1. Start by sending the Agent to `D:\10_pur3v4d3r's-vault\.claude`
@@ -13,6 +17,11 @@
   - This contains Session Memory, Metadata Rules, Project Info, Etc.
 
 
+# [TASKS]
+
+
+- [ ] EXEMPLAR-IDEA: Thinking Structure Templates -> These are components to be inserted into prompt.
+  - They teach Claude how to think during that instance.
 
 
 
@@ -23,7 +32,17 @@
 
 
 
-## TO-DO
+
+
+
+
+
+
+
+
+
+
+
 
 - [x] Need a MOC for the Agents to use for finding useful information.
   -  The Agents should add to this anytime a new document is created. [That is system important]
@@ -34,25 +53,13 @@
     - Overview
     - Directory/MOC [A high level view of all resources in the repo]
     - Tutorial/Guidance [For LLM/Agent that is working in the repo.]
-- [ ] Update the memory system. [The Agents need better ways of remembering.]
+- [x] Update the memory system. [The Agents need better ways of remembering.]
 - [ ] Naming-Convention Metadata Reference
 
 - [ ] Inventory of library
   - [ ] Manual Inventory
   - [ ] LLM Assisted Inventory
-
-
-- Path to Smart Connections Embeddings
-  - `D:\10_pur3v4d3r's-vault\.smart-env\multi`
-
-
-
 - [ ] Need to add all Skills, Plugins, to CLAUDE  Setting JSON
-
-
-
-
-
 
 
 - [ ] Customize the language setting for prompt, claude-project, gemini-gem, full-note, etc.
