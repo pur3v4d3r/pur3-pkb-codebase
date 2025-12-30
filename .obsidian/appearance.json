@@ -28,14 +28,14 @@
     "glassmorphism-sidebar-system",
     "09-dataview",
     "metadata-panel",
-    "___v4d3r-ui-system",
     "__v4d3r-mermaid",
     "__v4d3r-plugins",
     "__v4d3r-tables",
     "_dataview",
     "_jetbrains-mono-light",
     "00-folder-tree",
-    "01-glowing-headers"
+    "01-glowing-headers",
+    "___v4d3r-ui-system"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",

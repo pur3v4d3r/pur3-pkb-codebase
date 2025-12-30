@@ -25,12 +25,12 @@
 
 /* 00-inbox - Critical Red (Processing Zone) */
 .nav-folder-title[data-path="00-inbox"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(255, 0, 0, 0.12);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 300;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="00-inbox"]::before {
@@ -40,12 +40,12 @@
 
 /* 000_databsae - Dark Red (Core Data) */
 .nav-folder-title[data-path="000_databsae"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(255, 0, 0, 0.12);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="000_databsae"]::before {
@@ -55,12 +55,12 @@
 
 /* 01_daily-notes - Light Grey (Time-based) */
 .nav-folder-title[data-path="01_daily-notes"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(255, 0, 0, 0.12);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="01_daily-notes"]::before {
@@ -70,27 +70,28 @@
 
 /* 02-projects - Bright Red (Active Work) - FIXED */
 .nav-folder-title[data-path="02-projects"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(255, 0, 0, 0.12);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="02-projects"]::before {
   content: "🔬";
   margin-right: 6px;
+  
 }
 
 /* 03-notes - Medium Grey (Knowledge) */
 .nav-folder-title[data-path="03-notes"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(255, 0, 0, 0.12);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="03-notes"]::before {
@@ -100,12 +101,12 @@
 
 /* 04-library - Dark Grey (Reference Material) */
 .nav-folder-title[data-path="04-library"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(255, 0, 0, 0.12);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="04-library"]::before {
@@ -115,12 +116,12 @@
 
 /* 05-tasks-&-reviews - Crimson Red (Action Items) */
 .nav-folder-title[data-path="05-tasks-&-reviews"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(255, 0, 0, 0.12);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="05-tasks-&-reviews"]::before {
@@ -130,12 +131,12 @@
 
 /* 06-dashboards - Pale Grey (Overview/Navigation) */
 .nav-folder-title[data-path="06-dashboards"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(255, 0, 0, 0.12);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="06-dashboards"]::before {
@@ -145,12 +146,12 @@
 
 /* 07-mocs - Light Grey (Maps of Content) */
 .nav-folder-title[data-path="07-mocs"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(255, 0, 0, 0.12);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="07-mocs"]::before {
@@ -160,13 +161,13 @@
 
 /* 99-archive - Light Gray (Historical) */
 .nav-folder-title[data-path="99-archive"] {
-  color: #C0C0C0;
-  font-weight: 600;
-  background: rgba(49, 49, 49, 0.12);
-  opacity: 0.85;
-  font-size: 12px;
-  border-right: 3px solid #8B0000;
-  padding: 4px 8px;
+  color: #C0C0C0!important;
+  font-weight: 600!important;
+  background: rgba(49, 49, 49, 0.12)!important;
+  opacity: 0.85!important;
+  font-size: 18px!important;
+  border-right: 3px solid #8B0000!important;
+  padding: 4px 8px!important;
 }
 
 .nav-folder-title[data-path="99-scripts"]::before {
@@ -176,25 +177,25 @@
 
 /* 99-system - Dark Red (Infrastructure) */
 .nav-folder-title[data-path="99-system"] {
-  color: #C0C0C0;
-  font-weight: 600;
-  background: rgba(49, 49, 49, 0.12);
-  opacity: 0.85;
-  font-size: 12px;
-  border-right: 3px solid #8B0000;
-  padding: 4px 8px;
+  color: #C0C0C0!important;
+  font-weight: 600!important;
+  background: rgba(49, 49, 49, 0.12)!important;
+  opacity: 0.85!important;
+  font-size: 18px!important;
+  border-right: 3px solid #8B0000!important;
+  padding: 4px 8px!important;
 }
 
 /* 99-scripts - Dark Red (Infrastructure) */
 .nav-folder-title[data-path="99-scripts"] {
-  color: #C0C0C0;
-  background: rgba(49, 49, 49, 0.12);
-  font-weight: 600;
-  opacity: 0.9;
-  font-size: 13px; /* INCREASED from 12px */
-  font-style: italic;
-  border-right: 3px solid #8B0000;
-  padding: 4px 8px;
+  color: #C0C0C0!important;
+  background: rgba(49, 49, 49, 0.12)!important;
+  font-weight: 600!important;
+  opacity: 0.9!important;
+  font-size: 18px!important; /* INCREASED from 12px */
+  font-style: italic!important;
+  border-right: 3px solid #8B0000!important;
+  padding: 4px 8px!important;
 }
 
 .nav-folder-title[data-path="99-archive"]::before {
@@ -208,13 +209,13 @@
 }
 /* 00-meta - Dark Red (Infrastructure) */
 .nav-folder-title[data-path="00-meta"] {
-  color: #C0C0C0;
-  background: rgba(255, 0, 0, 0.12);
-  font-weight: 600;
-  opacity: 0.9;
-   border-right: 3px solid #8B0000;
-  font-size: 10px !important; /* INCREASED from 12px */
-  padding: 4px 8px;
+  color: #C0C0C0!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  font-weight: 600!important;
+  opacity: 0.9!important;
+   border-right: 3px solid #8B0000!important;
+  font-size: 18px !important; /* INCREASED from 12px */
+  padding: 4px 8px!important;
 }
 
 .nav-folder-title[data-path="00-meta"]::before {
@@ -228,114 +229,120 @@
 /* Inbox Topic Sets - Organized Capture Area */
 .nav-folder-title[data-path="00-inbox/02-topic-sets"] {
   color: #B0B0B0 !important;
-  font-weight: 650;
-  background: rgba(176, 176, 176, 0.12);
-  padding: 4px 8px;
-  border-left: 3px solid #B0B0B0;
-  font-size: 13px;
+  font-weight: 650!important;
+  background: rgba(176, 176, 176, 0.12)!important;
+  padding: 4px 8px!important;
+  border-left: 3px solid #B0B0B0!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="00-inbox/02-topic-sets"]::before {
   content: "✍️ " !important;
-  margin-right: 6px;
-  opacity: 0.9;
+  margin-right: 6px!important;
+  opacity: 0.9!important;
 }
 
 /* [NESTED FOLDERS] Sub-folder Styling */
 .nav-folder-children .nav-folder-title {
-  font-size: 13px; /* INCREASED from 12px */
-  padding-left: 12px;
-  font-weight: 500;
-  opacity: 0.9;
+  font-size: 18px !important; /* INCREASED from 12px */
+  padding-left: 12px !important;
+  font-weight: 500 !important;
+  opacity: 0.9 !important;
 }
 
 /* Add subtle connector lines for nested structure */
 .nav-folder-children {
-  position: relative;
-  margin-left: 8px;
-  padding-left: 12px;
+  position: relative!important;
+  margin-left: 8px!important;
+  padding-left: 12px!important;
 }
 
 .nav-folder-children::before {
-  content: "";
-  position: absolute;
-  left: 4px;
-  top: 0;
-  bottom: 8px;
-  width: 2px;
-  background: linear-gradient(180deg,
-    rgba(255, 0, 0, 0.3) 0%,
-    transparent 100%);
-  border-radius: 2px;
+  content: ""!important;
+  position: absolute!important;
+  left: 4px!important;
+  top: 0!important;
+  bottom: 8px!important;
+  width: 2px!important;
+  background: linear-gradient(180deg,    rgba(255, 0, 0, 0.3) 0%,    transparent 100%)!important;
+  border-radius: 2px!important;
+  -webkit-border-radius: 2px!important;
+  -moz-border-radius: 2px!important;
+  -ms-border-radius: 2px!important;
+  -o-border-radius: 2px!important;
 }
 
 /* [FILES] File Styling */
 .nav-file-title {
-  padding: 3px 8px 3px 28px;
-  font-size: 14px; /* INCREASED from 13px */
-  color: var(--text-normal);
+  padding: 3px 8px 3px 28px!important; /* Increased left padding for icon space */
+  font-size: 18px!important; /* INCREASED from 13px */
+  color: var(--text-normal)!important;
 }
 
 /* File type icons */
 .nav-file-title[data-path$=".md"]::before {
-  content: "📄 ";
-  margin-right: 6px;
-  opacity: 0.5;
-  font-size: 13px; /* INCREASED from 12px */
+  content: "📄 "!important;
+  margin-right: 6px!important;
+  opacity: 0.5!important;
+  font-size: 18px!important; /* INCREASED from 12px */
 }
 
 .nav-file-title[data-path$=".canvas"]::before {
-  content: "🎨 ";
-  margin-right: 6px;
-  opacity: 0.7;
+  content: "🎨 "!important;
+  margin-right: 6px!important;
+  opacity: 0.7!important;
 }
 
 /* Daily note files special styling */
 .nav-file-title[data-path^="01_daily-notes/2025"]::before {
-  content: "📆 ";
-  opacity: 0.6;
+  content: "📆 "!important;
+  opacity: 0.6!important;
 }
 
 /* [ACTIVE FILE] Current file highlight - FIXED */
 .nav-file-title.is-active {
-  color: #E50000;
+  color: #E50000!important;
   background: linear-gradient(90deg,
     rgba(229, 0, 0, 0.25) 0%,
-    rgba(229, 0, 0, 0.08) 100%);
-  border-left: 4px solid #E50000;
-  font-weight: 600;
-  padding-left: 24px; /* 4px border + 24px padding = 28px total (matches base) */
-  box-shadow: 0 2px 8px rgba(229, 0, 0, 0.2);
+    rgba(229, 0, 0, 0.08) 100%!important);
+  border-left: 4px solid #E50000!important;
+  font-weight: 600!important;
+  padding-left: 24px!important; /* 4px border + 24px padding = 28px total (matches base) */
+  box-shadow: 0 2px 8px rgba(229, 0, 0, 0.2)!important;
 }
 
 /* [HOVER EFFECTS] Interactive States - FIXED */
 .nav-folder-title:hover {
-  background: rgba(229, 0, 0, 0.15);
+  background: rgba(229, 0, 0, 0.15)!important;
   /* REMOVED: transform: translateX(2px); */
-  cursor: pointer;
+  cursor: pointer!important;
 }
 
 .nav-file-title:hover {
-  background: rgba(224, 224, 224, 0.1);
+  background: rgba(224, 224, 224, 0.1)!important;
   /* REMOVED: transform: translateX(2px); */
-  border-left: 2px solid #E0E0E0;
-  padding-left: 26px; /* 2px border + 26px padding = 28px total (matches base) */
-  cursor: pointer;
+  border-left: 2px solid #E0E0E0!important;
+  padding-left: 26px!important; /* 2px border + 26px padding = 28px total (matches base) */
+  cursor: pointer!important;
 }
 
 /* [COLLAPSE INDICATORS] Folder State Icons */
 .nav-folder-collapse-indicator {
-  padding: 4px;
-  margin-left: -4px;
+  padding: 4px!important;
+  margin-left: -4px!important;
 }
 
 .nav-folder.is-collapsed > .nav-folder-title .nav-folder-collapse-indicator {
-  transform: rotate(-90deg);
-  color: var(--text-muted);
+  transform: rotate(-90deg)!important;
+  color: var(--text-muted)!important;
+  -webkit-transform: rotate(-90deg)!important;
+  -moz-transform: rotate(-90deg)!important;
+  -ms-transform: rotate(-90deg)!important;
+  -o-transform: rotate(-90deg)!important;
 }
 
 .nav-folder:not(.is-collapsed) > .nav-folder-title .nav-folder-collapse-indicator {
-  color: #E50000;
+  color: #E50000!important;
 }
 
 /* [SPECIAL FILES] Highlight important file patterns */
@@ -343,57 +350,57 @@
 /* System/Template Files (underscore prefix) - Bright Purple with System Icon */
 .nav-file-title[data-path*="/_"] {
   color: #E50000 !important;
-  opacity: 0.95;
-  font-style: italic;
-  font-weight: 500;
+  opacity: 0.95!important;
+  font-style: italic!important;
+  font-weight: 500!important;
 }
 
 .nav-file-title[data-path*="/_"]::before {
   content: "⚙️ " !important;
-  opacity: 0.8;
-  font-size: 12px;
+  opacity: 0.8!important;
+  font-size: 18px!important;
 }
 
 /* Reference Files - Reactor Orange */
 .nav-file-title[data-path*="reference"] {
-  color: #FF0000;
-  font-style: italic;
+  color: #FF0000!important;
+  font-style: italic!important;
 }
 
 /* Template Files (generic) - Bright Purple */
 .nav-file-title[data-path*="template"] {
-  color: #E50000;
-  opacity: 0.95;
+  color: #E50000!important;
+  opacity: 0.95!important;
 }
 
 /* Dashboard Files - Terminal Green */
 .nav-file-title[data-path*="dashboard"] {
-  color: #E50000;
-  font-weight: 500;
+  color: #E50000!important;
+  font-weight: 500!important;
 }
 
 /* Topic Set Notes - Organized Teal */
 .nav-file-title[data-path*="02-topic-sets/"] {
   color: #E0E0E0 !important;
-  font-weight: 500;
+  font-weight: 500!important;
 }
 
 .nav-file-title[data-path*="02-topic-sets/"]::before {
   content: "📑 " !important;
-  opacity: 0.7;
+  opacity: 0.7!important;
 }
 
 /* MOC Files - Electric Blue Navigation */
 .nav-file-title[data-path*="moc"],
 .nav-file-title[data-path*="07-mocs/"] {
   color: #E50000 !important;
-  font-weight: 500;
+  font-weight: 500!important;
 }
 
 .nav-file-title[data-path*="moc"]::before,
 .nav-file-title[data-path*="07-mocs/"]::before {
   content: "🗺️ " !important;
-  opacity: 0.7;
+  opacity: 0.7!important;
 }
 
 /* ═══════════════════════════════════════════════════════════
@@ -406,76 +413,80 @@
 .nav-file-title[data-path*="psy-report-"],
 .nav-file-title[data-path*="cog-psy-"] {
   color: #E50000 !important;
-  font-weight: 500;
+  font-weight: 500!important;
 }
 
 .nav-file-title[data-path*="cog-"]::before,
 .nav-file-title[data-path*="cog-sci-report-"]::before,
 .nav-file-title[data-path*="cog-psy-"]::before {
   content: "🧠 " !important;
-  opacity: 0.7;
+  opacity: 0.7!important;
 }
 
 /* PKB/PKM Reports - Knowledge Gold */
 .nav-file-title[data-path*="pkb-report-"],
 .nav-file-title[data-path*="pkm-report-"] {
   color: #E50000 !important;
-  font-weight: 500;
+  font-weight: 500!important;
 }
 
 .nav-file-title[data-path*="pkb-report-"]::before,
 .nav-file-title[data-path*="pkm-report-"]::before {
   content: "📖 " !important;
-  opacity: 0.7;
+  opacity: 0.7!important;
 }
 
 /* Prompt Engineering Reports - AI Cyan */
 .nav-file-title[data-path*="prompt-report-"],
 .nav-file-title[data-path*="prompt-eng-"] {
   color: #E50000 !important;
-  font-weight: 500;
+  font-weight: 500!important;
 }
 
 .nav-file-title[data-path*="prompt-report-"]::before,
 .nav-file-title[data-path*="prompt-eng-"]::before {
   content: "🤖 " !important;
-  opacity: 0.7;
+  opacity: 0.7!important;
 }
 
 /* Cosmology Reports */
 .nav-file-title[data-path*="cosmo-report-"],
 .nav-file-title[data-path*="astro-"] {
   color: #E50000 !important;
-  font-weight: 500;
+  font-weight: 500!important;
 }
 
 .nav-file-title[data-path*="cosmo-report-"]::before,
 .nav-file-title[data-path*="astro-"]::before {
   content: "🌌 " !important;
-  opacity: 0.7;
+  opacity: 0.7!important;
 }
 
 /* Generic Report Files (fallback for reports without specific prefix) */
 .nav-file-title[data-path*="-report-"]:not([data-path*="cog-"]):not([data-path*="pkb-"]):not([data-path*="prompt-"]):not([data-path*="cosmo-"]) {
   color: #E0E0E0 !important;
-  font-weight: 500;
+  font-weight: 500!important;
 }
 
 .nav-file-title[data-path*="-report-"]::before {
-  content: "📕";
-  opacity: 0.6;
+  content: "📕"!important;
+  opacity: 0.6!important;
 }
 
 /* [VISUAL HIERARCHY] Indentation Enhancement */
 .mod-root > .nav-folder > .nav-folder-children > .nav-folder {
-  margin-left: 4px;
+  margin-left: 4px!important;
 }
 
 .mod-root > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-children {
   background: rgba(0, 0, 0, 0.05);
-  border-radius: 4px;
-  padding: 4px 0;
-  margin: 2px 0 2px 4px;
+  border-radius: 4px!important;
+  padding: 4px 0!important;
+  margin: 2px 0 2px 4px!important;
+  -webkit-border-radius: 4px!important;
+  -moz-border-radius: 4px!important;
+  -ms-border-radius: 4px!important;
+  -o-border-radius: 4px!important;
 }
 
 /* [ACCESSIBILITY] Motion & Focus States */
@@ -484,25 +495,33 @@
   .nav-file-title,
   .nav-folder-title:hover,
   .nav-file-title:hover {
-    transition: none;
-    transform: none;
-  }
+    transition: none!important;
+    transform: none!important;
+    -webkit-transition: none!important;
+    -moz-transition: none!important;
+    -ms-transition: none!important;
+    -o-transition: none!important;
+    -webkit-transform: none!important;
+    -moz-transform: none!important;
+    -ms-transform: none!important;
+    -o-transform: none!important;
+}
 }
 
 .nav-folder-title:focus-visible,
 .nav-file-title:focus-visible {
-  outline: 2px solid #E50000;
-  outline-offset: 2px;
+  outline: 2px solid #E50000!important;
+  outline-offset: 2px!important;
 }
 
 /* [SCROLLBAR] Match theme */
 .nav-files-container::-webkit-scrollbar-thumb {
-  background: rgba(229, 0, 0, 0.3);
+  background: rgba(229, 0, 0, 0.3)!important;
   border-radius: 4px;
 }
 
 .nav-files-container::-webkit-scrollbar-thumb:hover {
-  background: rgba(229, 0, 0, 0.5);
+  background: rgba(229, 0, 0, 0.5)!important;
 }
 
 /* ═══════════════════════════════════════════════════════════
@@ -519,16 +538,16 @@
 .nav-file-title[data-path*="-index.md"],
 .nav-file-title[data-path*="_index.md"] {
   color: #FF0000 !important;
-  font-weight: 600;
+  font-weight: 600!important;
   background: rgba(255, 107, 53, 0.1);
-  border-left: 3px solid #FF0000;
-  padding-left: 25px;
+  border-left: 3px solid #FF0000!important;
+  padding-left: 25px1!important; /* 3px border + 25px padding = 28px total (matches base) */
 }
 
 .nav-file-title[data-path*="-index.md"]::before,
 .nav-file-title[data-path*="_index.md"]::before {
   content: "📑 " !important;
-  opacity: 0.8;
+  opacity: 0.8!important;
 }
 
 /* ─────────────────────────────────────────────────────────
@@ -538,109 +557,109 @@
 
 .nav-folder-title[data-path^="04-library/01-cognitive-science"] {
   color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(0, 0, 0, 0.09);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="04-library/01-cognitive-science"]::before {
-  content: "->";
-  color: #C0C0C0;
-  margin-right: 6px;
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
 }
 
 
 .nav-folder-title[data-path^="04-library/02-pkb-and-pkm-learning"] {
   color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(0, 0, 0, 0.09);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="04-library/02-pkb-and-pkm-learning"]::before {
-  content: "->";
-  color: #C0C0C0;
-  margin-right: 6px;
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
 }
 
 .nav-folder-title[data-path^="04-library/03-prompt-engineering"] {
   color: #C0C0C0;
   font-weight: 700;
   background: rgba(0, 0, 0, 0.09);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="04-library/03-prompt-engineering"]::before {
-  content: "->";
-  color: #C0C0C0;
-  margin-right: 6px;
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
 }
 
 
 .nav-folder-title[data-path^="04-library/04-cosmology"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(0, 0, 0, 0.09);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="04-library/04-cosmology"]::before {
-  content: "->";
-  color: #C0C0C0;
-  margin-right: 6px;
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
 }
 
 .nav-folder-title[data-path^="03-notes/01_permanent-notes"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(0, 0, 0, 0.09);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="03-notes/01_permanent-notes"]::before {
-  content: "->";
-  color: #C0C0C0;
-  margin-right: 6px;
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
 }
 
 .nav-folder-title[data-path^="03-notes/02_quotes"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(0, 0, 0, 0.09);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="03-notes/02_quotes"]::before {
-  content: "->";
-  color: #C0C0C0;
-  margin-right: 6px;
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
 }
 
 .nav-folder-title[data-path^="03-notes/05-stoic-notes"] {
-  color: #C0C0C0;
-  font-weight: 700;
-  background: rgba(0, 0, 0, 0.09);
-  padding: 5px 8px;
-  border-right: 3px solid #8B0000;
-  font-size: 14px;
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(0, 0, 0, 0.09)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path="03-notes/05-stoic-notes"]::before {
-  content: "->";
-  color: #C0C0C0;
-  margin-right: 6px;
+  content: "->"!important;
+  color: #C0C0C0!important;
+  margin-right: 6px!important;
 }
 
 
@@ -654,9 +673,9 @@
 .nav-file-title[data-path*="2027"]::after,
 .nav-file-title[data-path*="2024"]::after {
   content: "🕐" !important;
-  margin-left: 6px;
-  opacity: 0.4;
-  font-size: 11px;
+  margin-left: 6px!important;
+  opacity: 0.4!important;
+  font-size: 18px!important;
 }
 
 /* ─────────────────────────────────────────────────────────
@@ -666,11 +685,11 @@
 
 .nav-folder-title[data-path*="-reference"] {
     color: #B0B0B0 !important;
-    font-weight: 650;
-    background: rgba(176, 176, 176, 0.12);
-    padding: 4px 8px;
-    border-left: 3px solid #B0B0B0;
-    font-size: 13px;
+    font-weight: 650!important;
+    background: rgba(176, 176, 176, 0.12)!important;
+    padding: 4px 8px!important;
+    border-left: 3px solid #B0B0B0!important;
+    font-size: 18px!important;
   }
 .nav-folder-title[data-path*="-reference"]::before {
   content: "📚 " !important;
@@ -678,11 +697,11 @@
 
 .nav-folder-title[data-path*="-reports"] {
   color: #B0B0B0 !important;
-  font-weight: 650;
-  background: rgba(176, 176, 176, 0.12);
-  padding: 4px 8px;
-  border-left: 3px solid #B0B0B0;
-  font-size: 13px;
+  font-weight: 650!important;
+  background: rgba(176, 176, 176, 0.12)!important;
+  padding: 4px 8px!important;
+  border-left: 3px solid #B0B0B0!important;
+  font-size: 18px!important;
 }
 
 .nav-folder-title[data-path*="-reports"]::before {
@@ -697,74 +716,74 @@
 
 .nav-file-title[data-path*="seedling"]::after {
   content: "🌱" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 
 .nav-file-title[data-path*="budding"]::after {
   content: "🌿" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 
 .nav-file-title[data-path*="evergreen"]::after {
   content: "🌲" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 
 .nav-file-title[data-path*="crit"]::after {
   content: "🔴" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 
 .nav-file-title[data-path*="high"]::after {
   content: "🟠" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 
 .nav-file-title[data-path*="mid"]::after {
   content: "🟡" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 .nav-file-title[data-path*="low"]::after {
   content: "🟢" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 
 .nav-file-title[data-path*="gemini"]::after,
 .nav-file-title[data-path*="gem"]::after {
 
   content: "♊" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 
 .nav-file-title[data-path*="claude"]::after {
   content: "🐉" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 
 .nav-file-title[data-path*="prompt"]::after {
   content: "📋" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 
 .nav-file-title[data-path*="component"]::after {
   content: "🧩" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 .nav-file-title[data-path*="reference"]::after {
   content: "🍄" !important;
-  margin-left: 4px;
-  opacity: 0.6;
+  margin-left: 4px!important;
+  opacity: 0.6!important;
 }
 /* ─────────────────────────────────────────────────────────
    OPTIONAL 6: Compact Mode - Reduced Spacing
@@ -779,7 +798,7 @@
 .nav-file-title {
   padding-top: 2px !important;
   padding-bottom: 2px !important;
-  font-size: 13px !important;
+  font-size: 18px !important;
 }
 
 .nav-folder-children {

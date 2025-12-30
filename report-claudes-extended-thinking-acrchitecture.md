@@ -551,25 +551,25 @@ Interface implications:
 
 ## 🔗 Related Topics for PKB Expansion
 
-### 1. **[[Prompt Engineering Taxonomy and Pattern Library]]**
+### 1. **Prompt Engineering Taxonomy and Pattern Library**
    - **Connection**: This report covers reasoning techniques; a comprehensive taxonomy would catalog the full spectrum of prompt engineering patterns beyond reasoning (formatting control, role assignment, constraint specification, example provision, etc.)
    - **Depth Potential**: Could enumerate 50+ distinct prompt patterns with usage guidance, failure modes, and combination strategies—creating a systematic reference for practitioners
    - **Knowledge Graph Role**: Serves as the "periodic table" of prompt engineering, organizing techniques by mechanism and use case
    - **Priority**: High - Fundamental reference that supports all advanced prompt engineering work
 
-### 2. **[[Token Economics and Cost Optimization for Production LLM Systems]]**
+### 2. **Token Economics and Cost Optimization for Production LLM Systems**
    - **Connection**: Extended thinking has significant cost implications; systematic analysis of token optimization strategies enables practical deployment
    - **Depth Potential**: Could cover caching strategies, prompt compression, request batching, thinking depth calibration, selective invocation patterns, and multi-tier architectures—comprehensive cost management framework
    - **Knowledge Graph Role**: Bridges theoretical capabilities to practical operational concerns
    - **Priority**: High - Critical for anyone moving beyond experimentation to production deployment
 
-### 3. **[[Cognitive Science Foundations of LLM Reasoning Techniques]]**
+### 3. **Cognitive Science Foundations of LLM Reasoning Techniques**
    - **Connection**: Many reasoning techniques (CoT, ToT, Reflexion) draw inspiration from human cognitive processes; systematic mapping of these connections deepens understanding
    - **Depth Potential**: Could explore working memory limitations, dual process theory, metacognition, analogical reasoning, and how these cognitive science concepts inform LLM prompting strategies
    - **Knowledge Graph Role**: Provides theoretical grounding that explains WHY certain techniques work
    - **Priority**: Medium - Enriches understanding but less immediately practical than patterns/economics
 
-### 4. **[[Multi-Agent Architectures and Agentic Workflows]]**
+### 4. **Multi-Agent Architectures and Agentic Workflows**
    - **Connection**: Extended thinking enables sophisticated agent behaviors; systematic treatment of agent design patterns, communication protocols, and coordination mechanisms
    - **Depth Potential**: Could cover agent communication languages, task decomposition strategies, collaborative reasoning patterns, tool-use architectures, and autonomous planning frameworks
    - **Knowledge Graph Role**: Extends single-agent reasoning to multi-agent systems and agentic applications
