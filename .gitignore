@@ -47,3 +47,4 @@ Media/
 **/*embeddings.bin
 # Ignores cache folders often used by AI plugins
 sc-cache/
+.repomix/output.mdpermanent-note-system.md

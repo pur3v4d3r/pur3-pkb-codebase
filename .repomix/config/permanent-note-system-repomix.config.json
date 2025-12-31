@@ -1,0 +1,31 @@
+{
+  "output": {
+    "filePath": "D:\\10_pur3v4d3r's-vault\\.repomix\\output.md",
+    "style": "markdown",
+    "parsableStyle": false,
+    "headerText": "# Permanent Notes System Repomix Output\n\nThis document provides a summary of the Permanent Notes System located in the specified directory.\n\n---\n\n",
+    "instructionFilePath": ".repomix\\outputs\\permanent-note-system-instructions.md",
+    "fileSummary": true,
+    "directoryStructure": true,
+    "removeComments": false,
+    "removeEmptyLines": true,
+    "topFilesLength": 4,
+    "showLineNumbers": true,
+    "copyToClipboard": true,
+    "includeEmptyDirectories": false,
+    "compress": false
+  },
+  "include": ["02-projects\\-ongoing-project-pur3v4d3r\\01-pkb-plans\\_permanent-notes-system"],
+  "ignore": {
+    "useGitignore": false,
+    "useDefaultPatterns": false,
+    "customPatterns": []
+  },
+  "security": {
+    "enableSecurityCheck": false
+  },
+  "tokenCount": {
+    "encoding": "o200k_base"
+  },
+  "cwd": "d:\\10_pur3v4d3r's-vault"
+}

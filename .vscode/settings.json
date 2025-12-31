@@ -34,12 +34,19 @@
         "**/.git/**"
     ],
     "cSpell.words": [
+        "andragogy",
+        "dataview",
         "expressjs",
         "fastapi",
         "Finetuning",
+        "jailbreaking",
         "Laravel",
         "llmops",
+        "metacognitive",
+        "neuro",
         "Runbook",
-        "Sandboxing"
+        "Sandboxing",
+        "Templater",
+        "zettelkasten"
     ]
 }

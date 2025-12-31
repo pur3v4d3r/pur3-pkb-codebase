@@ -244,3 +244,13 @@ link-up:
 link-related:
   - "[[<% dateNow %>|Daily-Note]]"
 ---
+```
+
+I need help designing my permanent note system in my pkb.
+
+1. **Brainstorm idea to use in these notes as section**s.
+- These permanent notes are the notes connected to the [[wiki-links]] you insert into my reports, reference notes, ETC.
+- The point of the notes is a **definition/information** area, with the ultimate goal being single sources of truth for the PKB.
+2. Generate those idea with examples showing the intended use.
+3. I will review the material.
+4. We will make adjustments and refinement to the selections.

@@ -19,6 +19,16 @@
         "__LOCAL-REPO/__agents/database-architect.md",
         "__LOCAL-REPO/__agents/dependency-manager.md"
       ]
+    },
+    "permanent-note-system-405": {
+      "name": "permanent-note-system",
+      "created": "2025-12-31T14:29:19.755Z",
+      "lastUsed": "2025-12-31T14:41:23.381Z",
+      "tags": [],
+      "files": [
+        "02-projects/-ongoing-project-pur3v4d3r/01-pkb-plans/_permanent-notes-system"
+      ],
+      "configPath": ".repomix/config/permanent-note-system-repomix.config.json"
     }
   }
 }

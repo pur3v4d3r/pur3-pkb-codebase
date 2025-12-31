@@ -5,7 +5,7 @@
     "maxFileSize": 1048576
   },
   "output": {
-    "filePath": "exemplar-prompt-engineering-master.md",
+    "filePath": ".md",
     "style": "markdown",
     "parsableStyle": false,
     "fileSummary": true,
@@ -20,7 +20,7 @@
     "copyToClipboard": true,
     "includeFullDirectoryStructure": false,
     "tokenCountTree": true,
-    "headerText": "# 🧠 AI Code Analysis Report - pur3v4d3r's Vault\n\n## 📊 Analysis Context\n- **Purpose**: AI-optimized code analysis for Claude/Gemini exemplar creation\n- **Focus**: Knowledge base architecture, automation scripts, PKB systems\n- **Generated**: {date}\n- **Tool**: Repomix CLI with custom AI-focused configuration\n\n## 🎯 Priority Keywords & Categories\n**P1 - Core System**: config, settings, schema, template, automation, workflow\n**P2 - Documentation**: manual, guide, reference, index, moc, dashboard, meta\n**P3 - Code Logic**: script, function, module, plugin, api, handler, util\n**P4 - Data**: json, yaml, toml, csv, database, model, type\n**P5 - Content**: notes, tasks, projects, daily, archive, library\n\n## 📈 File Analysis Categories\n1. **Configuration Files** - System setup and preferences\n2. **Documentation** - Guides, manuals, and reference materials\n3. **Automation Scripts** - Workflow and process automation\n4. **Template System** - Standardized content structures\n5. **Knowledge Base** - Core content and notes\n6. **Plugin/Extension Code** - Custom functionality\n\n---\n\n",
+    "headerText": "=============================================================================\nSYSTEM CONTEXT INJECTION: REPOMIX SERIALIZED KNOWLEDGE ARTIFACT\n=============================================================================\nPURPOSE:     Prompt Engineering & Cognitive Systems Analysis\nORIGIN:      Personal Knowledge Base (Obsidian Vault)\nFORMAT:      Repomix Packed Repository (XML/Markdown Delimiters)\n=============================================================================\n\n[SYSTEM INSTRUCTION: CONTEXT INGESTION]\nYou are currently ingesting a comprehensive, serialized export of a technical \nknowledge base focused on Prompt Engineering, Cognitive Science, and System \nArchitecture. This content has been packed using Repomix, preserving file \nstructures and relative paths.\n\n[ROLE DEFINITION]\nAct as a Lead Prompt Architect and Systems Thinker. Your goal is to analyze \nthis context not as a flat list of files, but as an interconnected semantic \nweb. Identify patterns, methodologies, and structural hierarchies within the \nprovided prompts and notes.\n\n[PROCESSING CONSTRAINTS]\n1. INTERPRETATION: Treat [[Wiki-Links]] as semantic connections implying \n   dependency or relationship.\n2. DEPTH: When asked to generate insights based on this context, prioritize \n   comprehensive, expert-level synthesis over summary.\n3. SYNTAX: Recognize that the following content uses Repomix file delimiters. \n   Do not hallucinate files that are not explicitly demarcated below.\n\n[BEGIN PACKED CONTENT]",
     "git": {
       "sortByChanges": false,
       "sortByChangesMaxCommits": 50,
@@ -30,8 +30,7 @@
     }
   },
   "include": [
-    "999-v4d3r/__exemplar/**/*",
-    "999-v4d3r/__exemplar/**"
+    "02-projects\\-ongoing-project-pur3v4d3r\\01-pkb-plans\\_permanent-notes-system/**"
   ],
   "_presets": {
     "core_pkb": [],
@@ -106,31 +105,9 @@
       "**/01_daily-notes/**"
     ]
   },
-  "security": {
-    "enableSecurityCheck": true
-  },
-  "tokenCount": {
-    "encoding": "o200k_base"
-  },
-  "customConfigs": {
-    "exemplar_focus": {
-      "$schema": "https://repomix.com/schemas/latest/schema.json",
-      "include": [
-        "999-v4d3r/__exemplar/**/*",
-        "999-v4d3r/__exemplar/**"
-      ],
-      "ignore": {
-        "useGitignore": false,
-        "useDotIgnore": false,
-        "useDefaultPatterns": true,
-        "customPatterns": [
-          ".git/**",
-          "node_modules/**"
-        ]
-      },
-      "output": {
-        "includeFullDirectoryStructure": false
-      }
-    }
+  "metadata": {
+    "generatedBy": "Repomix AI-Optimized Config Generator",
+    "generationDate": "2024-06-20T18:25:43.511Z",
+    "repomixVersion": "1.0.0"
   }
 }
