@@ -1,12 +1,23 @@
 {
   "bundles": {
-    "PUR3V4D3R-REPOMIX-EXEMPLAR-128": {
-      "name": "PUR3V4D3R-REPOMIX-EXEMPLAR",
-      "created": "2025-12-28T14:47:43.876Z",
-      "lastUsed": "2025-12-28T14:47:43.876Z",
-      "tags": ["exemplar", "repomix", "codebase", "pkb"],
+    "coding-partner-bundle-exemplar-121": {
+      "name": "claude-app-builder-exemplar-002",
+      "created": "2025-12-31T10:54:43.916Z",
+      "lastUsed": "2025-12-31T10:57:25.367Z",
+      "tags": [],
       "files": [
-        "999-codebase+pkb"
+        "__LOCAL-REPO/__agents/agile-sprint-planner.md",
+        "__LOCAL-REPO/__agents/angular-expert.md",
+        "__LOCAL-REPO/__agents/clean-architecture-expert.md",
+        "__LOCAL-REPO/__agents/cli-ui-designer.md",
+        "__LOCAL-REPO/__agents/clojure-expert.md",
+        "__LOCAL-REPO/__agents/code-pairing-assistant.md",
+        "__LOCAL-REPO/__agents/code-quality-guardian.md",
+        "__LOCAL-REPO/__agents/code-review-master.md",
+        "__LOCAL-REPO/__agents/csharp-expert.md",
+        "__LOCAL-REPO/__agents/dart-flutter-expert.md",
+        "__LOCAL-REPO/__agents/database-architect.md",
+        "__LOCAL-REPO/__agents/dependency-manager.md"
       ]
     }
   }
