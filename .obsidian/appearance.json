@@ -16,7 +16,6 @@
     "_jetbrains-mono-light",
     "00-folder-tree",
     "01-glowing-headers",
-    "10-mermaid",
     "callout-icon",
     "callout-mod-12-icon-style-variations",
     "callout-mod-15-premium-card",
@@ -32,10 +31,10 @@
     "metadata-panel",
     "metadata-panel-system",
     "pur3v4d3r-ultimate-callout-system",
-    "square-bracket-glow",
     "tag-customization-system",
     "unified-callout-system",
-    "_dataview"
+    "_dataview",
+    "10-mermaid"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
