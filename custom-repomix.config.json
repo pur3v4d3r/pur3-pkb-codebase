@@ -38,7 +38,7 @@
     "prompt_engineering": []
   },
   "ignore": {
-    "useGitignore": false,
+    "useGitignore": e,
     "useDotIgnore": false,
     "useDefaultPatterns": true,
     "customPatterns": [
@@ -106,7 +106,7 @@
     ]
   },
   "metadata": {
-    "generatedBy": "Repomix AI-Optimized Config Generator",
+    "generatedBy": "Repomix Config Generator",
     "generationDate": "2024-06-20T18:25:43.511Z",
     "repomixVersion": "1.0.0"
   }
