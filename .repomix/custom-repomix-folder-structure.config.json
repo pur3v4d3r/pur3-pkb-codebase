@@ -1,26 +1,26 @@
 {
   "$schema": "https://repomix.com/schemas/latest/schema.json",
-  "$comment": "AI-Optimized Repomix Config - Scoped Tree + Full Content",
+  "$comment": "AI-Optimized Repomix Config - Structural Topology Mode",
   "input": {
     "maxFileSize": 1048576
   },
   "output": {
-    "filePath": "exemplar-prompt-engineering-master.md",
+    "filePath": "exemplar-structure-map.md",
     "style": "markdown",
     "parsableStyle": false,
-    "fileSummary": true,
+    "fileSummary": false,
     "directoryStructure": true,
-    "files": true,
+    "files": false,
     "removeComments": false,
     "removeEmptyLines": true,
     "compress": false,
     "topFilesLength": 15,
-    "showLineNumbers": true,
+    "showLineNumbers": false,
     "truncateBase64": false,
     "copyToClipboard": true,
     "includeFullDirectoryStructure": false,
     "tokenCountTree": true,
-    "headerText": "# 🧠 AI Code Analysis Report - pur3v4d3r's Vault\n\n## 📊 Analysis Context\n- **Purpose**: AI-optimized code analysis for Claude/Gemini exemplar creation\n- **Focus**: Knowledge base architecture, automation scripts, PKB systems\n- **Generated**: {date}\n- **Tool**: Repomix CLI with custom AI-focused configuration\n\n## 🎯 Priority Keywords & Categories\n**P1 - Core System**: config, settings, schema, template, automation, workflow\n**P2 - Documentation**: manual, guide, reference, index, moc, dashboard, meta\n**P3 - Code Logic**: script, function, module, plugin, api, handler, util\n**P4 - Data**: json, yaml, toml, csv, database, model, type\n**P5 - Content**: notes, tasks, projects, daily, archive, library\n\n## 📈 File Analysis Categories\n1. **Configuration Files** - System setup and preferences\n2. **Documentation** - Guides, manuals, and reference materials\n3. **Automation Scripts** - Workflow and process automation\n4. **Template System** - Standardized content structures\n5. **Knowledge Base** - Core content and notes\n6. **Plugin/Extension Code** - Custom functionality\n\n---\n\n",
+    "headerText": "# 🗺️ PKB Structural Topology - pur3v4d3r\n\n## 📊 Map Context\n- **Purpose**: Structural hierarchy analysis for architecture review\n- **Scope**: Directory topology of active exemplar mix only\n- **Generated**: {date}\n- **Mode**: Structure-Only (Content Suppressed)\n\n## 🎯 Taxonomy targets\n**P1 - Core System**: config, settings, schema\n**P2 - Structure**: folders, hierarchy, relationships\n\n---\n\n",
     "git": {
       "sortByChanges": false,
       "sortByChangesMaxCommits": 50,
@@ -129,6 +129,8 @@
         ]
       },
       "output": {
+        "files": false,
+        "directoryStructure": true,
         "includeFullDirectoryStructure": false
       }
     }
