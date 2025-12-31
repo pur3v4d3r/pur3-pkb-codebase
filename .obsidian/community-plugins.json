@@ -6,7 +6,6 @@
   "obsidian-emoji-toolbar",
   "languagetool",
   "obsidian-meta-bind-plugin",
-  "obsidian-style-settings",
   "obsidian-minimal-settings",
   "mysnippets-plugin",
   "cmdr",
@@ -16,5 +15,6 @@
   "callout-integrator",
   "smart-connections",
   "smart-environment",
-  "callout-manager"
+  "callout-manager",
+  "obsidian-style-settings"
 ]
