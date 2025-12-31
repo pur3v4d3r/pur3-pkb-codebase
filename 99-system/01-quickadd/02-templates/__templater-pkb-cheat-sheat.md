@@ -48,9 +48,9 @@
 ```cs
 <% tp.date.now("YYYYMMDDHHmmss") %>
 ```
-#### [ID-Variant-02]-[20251103-083156]
+#### [ID-Variant-02]-[20251103083156]
 ```cs
-<% tp.date.now('YYYYMMDD-HHmm') %>
+<% tp.date.now('YYYYMMDDHHmm') %>
 ```
 #### [Saturday]
 ```

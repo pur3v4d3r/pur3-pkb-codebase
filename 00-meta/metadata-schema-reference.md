@@ -405,39 +405,6 @@ const hasPETag = tags.includes("prompt-engineering");
 
 ---
 
-## 🔧 TEMPLATE HELPERS
-
-### Templater Snippets
-
-#### Generate ID
-```javascript
-20251220174224
-```
-
-#### Generate Dates
-```javascript
-created: "2025-12-20"
-modified: "2025-12-20"
-review-next: "2025-12-27"  // +7 days
-```
-
-#### Suggester for Status
-```javascript
-status: "null"
-```
-
-#### Suggester for Confidence
-```javascript
-confidence: "null"
-```
-
-#### Suggester for Source
-```javascript
-source: "null"
-```
-
----
-
 ## 📊 META-BIND EXAMPLES
 
 ### View Fields (Read-Only)

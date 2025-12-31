@@ -1387,12 +1387,14 @@ description includes [[<% title %>]]
 description includes Review
 ```
 
+```
 **Review Checklist**:
 - [ ] Definition still accurate?
 - [ ] New connections identified?
 - [ ] Applications validated?
 - [ ] Confidence level appropriate?
 - [ ] Maturity level still correct?
+```
 
 ---
 
