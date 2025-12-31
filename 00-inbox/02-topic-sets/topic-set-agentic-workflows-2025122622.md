@@ -34,7 +34,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 1. **[[Prompt Orchestration Architectures: From Chains to Graphs]]**
+### 1. **Prompt Orchestration Architectures: From Chains to Graphs**
 
 * **Connection:** Extends your existing work on Skeleton-of-Thought and Tree of Thoughts by examining how individual prompting techniques compose into full system architectures. Where ToT explores branching within a single reasoning task, orchestration architectures examine how multiple agents/prompts coordinate across entire workflows.
 
@@ -46,7 +46,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 2. **[[The ReAct Paradigm and Its Descendants: A Genealogy of Reasoning-Action Patterns]]**
+### 2. The ReAct Paradigm and Its Descendants: A Genealogy of Reasoning-Action Patterns
 
 * **Connection:** Direct expansion of your identified angle on ReAct & Plan-and-Solve. Maps the evolutionary tree from original ReAct paper through MRKL, Toolformer, ReWOO, to contemporary implementations like Claude's tool use and GPT-4's function calling.
 
@@ -59,7 +59,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 3. **[[Hierarchical Task Decomposition: Plan-and-Solve as Cognitive Architecture]]**
+### 3. Hierarchical Task Decomposition: Plan-and-Solve as Cognitive Architecture
 
 * **Connection:** Complements ReAct by focusing on the planning dimension—how agents break complex goals into manageable subtasks before execution. Draws from cognitive science (means-ends analysis, GPS problem solver) and robotics (hierarchical task networks).
 
@@ -71,7 +71,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 4. **[[Memory Architectures for Persistent Agents: Beyond the Context Window]]**
+### 4. Memory Architectures for Persistent Agents: Beyond the Context Window
 
 * **Connection:** Addresses a fundamental constraint that shapes all agentic systems—limited context windows force architectural decisions about what agents remember and how. Extends from simple conversation history to sophisticated episodic/semantic memory systems.
 
@@ -83,7 +83,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 5. **[[Multi-Agent Coordination: Communication Protocols and Emergent Behavior]]**
+### 5. Multi-Agent Coordination: Communication Protocols and Emergent Behavior
 
 * **Connection:** Natural evolution from single-agent ReAct/Plan-and-Solve to systems where multiple specialized agents collaborate. Explores how prompts define agent roles, communication channels, and coordination mechanisms.
 
@@ -99,7 +99,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 6. **[[Tool-Augmented Agents: Prompt Patterns for Capability Extension]]**
+### 6. Tool-Augmented Agents: Prompt Patterns for Capability Extension
 
 * **Connection:** Examines how prompts transform LLMs from pure text generators into capable actors that can execute code, query APIs, and interact with external systems. Central to making agentic workflows practically useful.
 
@@ -111,7 +111,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 7. **[[Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts]]**
+### 7. Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts
 
 * **Connection:** Meta-recursive intelligence—using AI to improve AI prompting. Examines how agents can evaluate their own outputs, identify failures, and adapt their behavior. Directly relevant to your "Prompt Whisperer" concept.
 
@@ -123,7 +123,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 8. **[[Constitutional AI for Agents: Guardrails, Boundaries, and Behavioral Constraints]]**
+### 8. Constitutional AI for Agents: Guardrails, Boundaries, and Behavioral Constraints
 
 * **Connection:** As agents gain autonomy, constraining their behavior becomes critical. Explores how prompts encode values, boundaries, and safety constraints that persist across tool use and reasoning.
 
@@ -135,7 +135,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 9. **[[Token Economics: Cost Optimization in Agentic Systems]]**
+### 9. Token Economics: Cost Optimization in Agentic Systems
 
 * **Connection:** Production reality—agentic workflows consume orders of magnitude more tokens than simple chat. Explores architectural and prompt-level strategies for cost efficiency without sacrificing capability.
 
@@ -147,7 +147,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 10. **[[Evaluation Frameworks for Agentic Systems: Beyond Single-Turn Benchmarks]]**
+### 10. Evaluation Frameworks for Agentic Systems: Beyond Single-Turn Benchmarks
 
 * **Connection:** Traditional LLM benchmarks fail to capture agent performance—they measure single responses, not multi-step workflows. Explores methodologies for assessing agent capabilities holistically.
 
@@ -163,7 +163,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 11. **[[Human-in-the-Loop Agent Patterns: Collaborative Intelligence Design]]**
+### 11. Human-in-the-Loop Agent Patterns: Collaborative Intelligence Design
 
 * **Connection:** Not all decisions should be autonomous. Explores how prompts structure human oversight, approval gates, and collaborative decision-making between humans and agents.
 
@@ -173,7 +173,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 12. **[[Dynamic Prompt Assembly: Modular and Composable Prompt Architectures]]**
+### 12. Dynamic Prompt Assembly: Modular and Composable Prompt Architectures
 
 * **Connection:** Directly relevant to your PromptForge concept. Examines how prompts can be constructed dynamically from reusable components rather than monolithic strings.
 
@@ -183,7 +183,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 13. **[[State Machines and Workflow Engines: Explicit Control Flow for Agents]]**
+### 13. State Machines and Workflow Engines: Explicit Control Flow for Agents
 
 * **Connection:** Sometimes agent autonomy should be bounded by explicit workflows. Explores hybrid architectures combining agentic flexibility with structured state machines.
 
@@ -193,7 +193,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 14. **[[Adversarial Robustness in Agentic Systems: Prompt Injection and Beyond]]**
+### 14. Adversarial Robustness in Agentic Systems: Prompt Injection and Beyond
 
 * **Connection:** Agents that interact with untrusted data face unique security challenges. Explores attack surfaces and defense strategies specific to agentic contexts.
 
@@ -203,7 +203,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 ---
 
-### 15. **[[The Prompt as Operating System: Computational Perspectives on Agent Instructions]]**
+### 15. The Prompt as Operating System: Computational Perspectives on Agent Instructions
 
 * **Connection:** Reframes prompts through the lens of operating systems—prompts as kernel, tools as syscalls, context as memory, agent behavior as user programs. Provides powerful conceptual framework for understanding agentic systems.
 
