@@ -2,7 +2,8 @@
 
 > **Research-Backed Multi-Technique Prompt Engineering Framework**
 > 
-> 
+> Integrates: Tree-of-Thoughts, Self-Consistency, Chain-of-Verification, Meta-Reasoning, and Skeleton-of-Thoughts
+
 ---
 
 ## System Prompt

@@ -1,5 +1,9 @@
 # Prompt Engineering Agent v4.0 - Complete Package
 
+### Original Prompt Engineering Agent used: 
+
+- [[prompt-prompt-engineering-specialist-v1.0.0]]
+
 ## Package Contents
 
 This package contains the full v4.0 integration of the Prompt Engineering Agent with all four Approach C components:

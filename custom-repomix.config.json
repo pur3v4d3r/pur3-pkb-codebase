@@ -5,7 +5,7 @@
     "maxFileSize": 1048576
   },
   "output": {
-    "filePath": ".md",
+    "filePath": "permanent-note-system-pack-2025-12-31.md",
     "style": "markdown",
     "parsableStyle": false,
     "fileSummary": true,
@@ -30,7 +30,7 @@
     }
   },
   "include": [
-    "02-projects\\-ongoing-project-pur3v4d3r\\01-pkb-plans\\_permanent-notes-system/**"
+    ""
   ],
   "_presets": {
     "core_pkb": [],
@@ -38,7 +38,7 @@
     "prompt_engineering": []
   },
   "ignore": {
-    "useGitignore": e,
+    "useGitignore": false,
     "useDotIgnore": false,
     "useDefaultPatterns": true,
     "customPatterns": [
@@ -55,14 +55,9 @@
       "**/end_to_end_results.json",
       "**/large_data_files/**",
       "**/processed_data/**",
-      "**/000_database/*/99_archive/**",
-      "**/99_archive/**",
-      "**/99-archive/**",
-      "**/archive/**",
       "**/backup/**",
       "**/temp/**",
       "**/tmp/**",
-      "**/999-temp/**",
       "*.min.js",
       "*.min.css",
       "*.bundle.js",
@@ -104,10 +99,5 @@
       ".obsidian/plugins/*/main.js",
       "**/01_daily-notes/**"
     ]
-  },
-  "metadata": {
-    "generatedBy": "Repomix Config Generator",
-    "generationDate": "2024-06-20T18:25:43.511Z",
-    "repomixVersion": "1.0.0"
   }
 }

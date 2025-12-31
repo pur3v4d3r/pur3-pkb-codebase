@@ -803,9 +803,9 @@
           "name": "Permanent Note Prompt-Engineering",
           "type": "Template",
           "command": false,
-          "templatePath": "",
+          "templatePath": "99-system/01-quickadd/02-templates/_prompt-engineering-permanent-note-v2.0.0.md",
           "fileNameFormat": {
-            "enabled": true,
+            "enabled": false,
             "format": "{{clipboard}}"
           },
           "folder": {
@@ -823,7 +823,7 @@
             "location": "tab",
             "direction": "vertical",
             "mode": "default",
-            "focus": false
+            "focus": true
           },
           "fileExistsMode": "Increment the file name",
           "setFileExistsBehavior": true
