@@ -1,6 +1,5 @@
 # **Zero Shot Prompting**
 
-Authored by Kalyan KS. You can follow me on [Twitter](https://x.com/kalyan_kpl) and [LinkedIn](https://www.linkedin.com/in/kalyanksnlp/) for latest LLM, RAG and Agent updates.
 
 ## **Overview**
 
@@ -8,12 +7,6 @@ Zero-shot prompting is the simplest prompting technique where a large language m
 
 Zero-shot prompting is like a teacher giving a student a problem to solve without showing them a practice example on the board first. The student must rely solely on their general knowledge and what they have learned previously to arrive at the answer.
 
-## **Stay Updated with Generative AI, LLMs, Agents and RAG**
-
-Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
-- ✨ Weekly GenAI updates
-- 📄 Weekly LLM, Agents and RAG research paper updates
-- 📝 1 fresh blog post on an interesting topic every week
 
 ## **Implementation (News headlines classification)**
 

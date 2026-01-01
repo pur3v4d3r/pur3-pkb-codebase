@@ -1,7 +1,5 @@
 # **Cross Lingual Prompting**
 
-Authored by Kalyan KS. You can follow me on [Twitter](https://x.com/kalyan_kpl) and [LinkedIn](https://www.linkedin.com/in/kalyanksnlp/) for latest LLM, RAG and Agent updates.
-
 ## **Overview**
 
 Cross-Lingual Prompting (CLP) is a strategy designed to enhance the reasoning capabilities of Large Language Models (LLMs) when processing tasks in low-resource or non-dominant languages. While many LLMs possess vast knowledge bases, their ability to perform complex reasoning (such as arithmetic or logic) is often significantly stronger in high-resource languages like English compared to others.
@@ -50,12 +48,6 @@ Provide:
 2. The final numeric answer only
 ```
 
-## **Stay Updated with Generative AI, LLMs, Agents and RAG**
-
-Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
-- ✨ Weekly GenAI updates
-- 📄 Weekly LLM, Agents and RAG research paper updates
-- 📝 1 fresh blog post on an interesting topic every week
 
 ## **Implementation**
 

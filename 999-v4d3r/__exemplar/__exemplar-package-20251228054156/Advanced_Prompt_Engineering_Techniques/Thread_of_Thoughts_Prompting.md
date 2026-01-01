@@ -1,6 +1,5 @@
 # **Thread of Thoughts Prompting**
 
-Authored by Kalyan KS. You can follow me on [Twitter](https://x.com/kalyan_kpl) and [LinkedIn](https://www.linkedin.com/in/kalyanksnlp/) for latest LLM, RAG and Agent updates.
 
 ## **Overview**
 
@@ -37,13 +36,6 @@ Question: {question}
 Trigger for Thread-of-Thoughts:
 Walk me through this context in manageable parts step by step, summarizing and analyzing as we go.
 ```
-
-## **Stay Updated with Generative AI, LLMs, Agents and RAG**
-
-Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
-- ✨ Weekly GenAI updates
-- 📄 Weekly LLM, Agents and RAG research paper updates
-- 📝 1 fresh blog post on an interesting topic every week
 
 ## **Implementation**
 

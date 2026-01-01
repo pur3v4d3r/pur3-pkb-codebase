@@ -31,12 +31,6 @@ Q: Copy and paste the initial problem here.
 A: Explain the solution step by step and enclose the final answer in \\boxed{{}}.
 ```
 
-## **Stay Updated with Generative AI, LLMs, Agents and RAG**
-
-Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
-- ✨ Weekly GenAI updates
-- 📄 Weekly LLM, Agents and RAG research paper updates
-- 📝 1 fresh blog post on an interesting topic every week
 
 ## **Implementation**
 

@@ -1,8 +1,5 @@
 # **Emotion Prompting**
 
-Authored by Kalyan KS. You can follow me on [Twitter](https://x.com/kalyan_kpl) and [LinkedIn](https://www.linkedin.com/in/kalyanksnlp/) for latest LLM, RAG and Agent updates.
-
-## **Overview**
 
 Emotion prompting is a prompting technique where — instead of using a dry or purely neutral instruction — you add emotionally-charged phrases  to the prompt so that a large language model (LLM) responds with better outputs. It’s like asking, *“Write a summary of this article,”* but adding something like “This is very important to my career,”. In simple words, emotion prompting means prompting with the main instruction plus an emotional appeal. 
 
@@ -10,10 +7,6 @@ Emotion prompting is like a teacher telling a student: *“Do this problem — a
 
 ## **Stay Updated with Generative AI, LLMs, Agents and RAG**
 
-Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
-- ✨ Weekly GenAI updates
-- 📄 Weekly LLM, Agents and RAG research paper updates
-- 📝 1 fresh blog post on an interesting topic every week
 
 ## **Implementation (News headlines classification)**
 

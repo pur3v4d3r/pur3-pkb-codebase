@@ -1,7 +1,5 @@
 # **Chain of Verification Prompting**
 
-Authored by Kalyan KS. You can follow me on [Twitter](https://x.com/kalyan_kpl) and [LinkedIn](https://www.linkedin.com/in/kalyanksnlp/) for latest LLM, RAG and Agent updates.
-
 ## **Overview**
 
 Chain-of-Verification (CoVe) Prompting is a structured reasoning technique designed to reduce factual errors (hallucinations) by forcing a model to *verify its own answer* before finalizing it.
@@ -86,13 +84,6 @@ Verification Questions:
 Verification Answers:
 {answers}
 ```
-
-## **Stay Updated with Generative AI, LLMs, Agents and RAG**
-
-Join 🚀 [**AIxFunda** free newsletter](https://aixfunda.substack.com/) to get *latest updates* and *interesting tutorials* related to Generative AI, LLMs, Agents and RAG. 
-- ✨ Weekly GenAI updates
-- 📄 Weekly LLM, Agents and RAG research paper updates
-- 📝 1 fresh blog post on an interesting topic every week
 
 ## **Implementation**
 
