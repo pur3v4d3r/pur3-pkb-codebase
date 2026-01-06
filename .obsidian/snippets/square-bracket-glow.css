@@ -5,9 +5,9 @@
 
 /* ═══ CORE VARIABLES ═══ */
 :root {
-  --red-glow: #ff0000;
+  --red-glow: #ff0000ff;
   --red-glow-bright: #ff3333;
-  --red-shadow: rgba(255, 0, 0, 0.9);
+  --red-shadow: rgba(255, 0, 0, 1);
   --bracket-shadow: 0 0 4px var(--red-shadow), 0 0 8px var(--red-shadow);
 }
 
@@ -41,15 +41,15 @@
 .cm-punctuation,
 .token.punctuation.bracket,
 span.cm-bracket {
-  color: var(--red-glow) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 
 /* ═══ TAG FORMATTING BRACKETS ═══ */
 .cm-formatting.cm-formatting-hashtag,
 .cm-hashtag .cm-formatting {
-  color: var(--red-glow) !important;
-  text-shadow: var(--bracket-shadow) !important;
+  color: var(--red-glow-bright) !important;
+  text-shadow: var(--red-glow-bright) !important;
 }
 
 /* ═══ READING MODE - ADD VISUAL BRACKETS ═══ */
@@ -78,7 +78,7 @@ span.cm-bracket {
 .cm-s-obsidian.cm-s-obsidian .cm-bracket,
 pre[class*="language-"] .token.bracket,
 .hljs-selector-attr {
-  color: var(--red-glow) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 
@@ -88,28 +88,28 @@ pre[class*="language-"] .token.bracket,
 .language-js .token.bracket,
 .language-typescript .token.bracket,
 .language-ts .token.bracket {
-  color: var(--red-glow) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 
 /* Python list/dict brackets */
 .language-python .token.bracket,
 .language-py .token.bracket {
-  color: var(--red-glow) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 
 /* CSS attribute selectors */
 .language-css .token.selector,
 .language-scss .token.selector {
-  color: var(--red-glow) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 
 /* ═══ DATAVIEW PLUGIN SUPPORT ═══ */
 .block-language-dataview .cm-bracket,
 .block-language-dataviewjs .cm-bracket {
-  color: var(--red-glow) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
 }
@@ -117,7 +117,7 @@ pre[class*="language-"] .token.bracket,
 /* ═══ TEMPLATER PLUGIN SUPPORT ═══ */
 .templater-command,
 .tp-command {
-  color: var(--red-glow) !important;
+  color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
 }
 
@@ -150,9 +150,80 @@ pre[class*="language-"] .token.bracket,
 
 /* ═══ TESTING CLASS ═══ */
 /* Add class="test-brackets" to any element to test the effect */
-.test-brackets,
+/*.test-brackets,
 .test-brackets * {
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
-  background: rgba(255, 0, 0, 0.1) !important;
+  background: rgba(255, 0, 0, 1) !important;
 }
+/* ══════════════════════════════════════════════════════════════════════════════════
+   BRACKET GLOW INTENSITY CONTROL
+   Quick toggles for different glow intensities
+   ══════════════════════════════════════════════════════════════════════════════════ */
+
+/* ═══ INTENSITY LEVELS ═══ */
+/* Comment/uncomment these sections to change intensity */
+
+/* SUBTLE GLOW - Uncomment this section for minimal effect */
+/*
+:root {
+  --bracket-shadow: 0 0 1px var(--red-shadow);
+}
+*/
+
+/* MEDIUM GLOW - Uncomment this section for balanced effect */
+/*:root {
+  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 6px var(--red-shadow);
+}
+
+/* INTENSE GLOW - Uncomment this section for maximum effect */
+
+/*:root {
+  --bracket-shadow: 0 0 4px var(--red-shadow), 0 0 6px var(--red-shadow), 0 0 12px var(--red-shadow)! important;
+}
+:root {
+  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 6px var(--red-shadow), 0 0 12px var(--red-shadow) , 0 0 18px var(--red-shadow) !important;
+}
+/* PULSE EFFECT - Uncomment this section for animated pulsing */
+
+@keyframes bracket-pulse {
+  0%, 100% { text-shadow: 0 0 3px var(--red-shadow); }
+  50% { text-shadow: 0 0 8px var(--red-shadow), 0 0 12px var(--red-shadow)! important; }
+}
+.cm-formatting-link,
+.cm-bracket {
+  animation: bracket-pulse 2s infinite ease-in-out !important;
+}
+
+
+/* ══════════════════════════════════════════════════════════════════════════════════ */
+
+   COLOR VARIANTS
+    Quick swaps to change glow color
+
+/* COLOR VARIANTS - Replace red with other colors */
+/* BLUE VARIANT */
+/*
+:root {
+  --red-glow: #0066ff;
+  --red-shadow: rgba(0, 102, 255, 0.9);
+}
+*/
+
+/* GREEN VARIANT */
+/*
+:root {
+  --red-glow: #00ff00;
+  --red-shadow: rgba(0, 255, 0, 0.9);
+}
+*/
+
+/* PURPLE VARIANT */
+/*
+:root {
+  --red-glow: #9900ff;
+  --red-shadow: rgba(153, 0, 255, 0.9);
+}
+*/
+/* ══════════════════════════════════════════════════════════════════════════════════ */
+

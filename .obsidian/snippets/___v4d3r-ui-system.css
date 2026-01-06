@@ -3,13 +3,13 @@
 
 
 
-╔══════════════════════════════════════════════════════════════════════════════╗
+   ╔══════════════════════════════════════════════════════════════════════════════╗
    ║                    V4D3R UI SYSTEM - Obsidian Snippet                        ║
-   ║                     Complete Workspace Customization                          ║
-   ║                                                                               ║
+   ║                     Complete Workspace Customization                         ║
+   ║                                                                              ║
    ║  Theme Colors: RED • BLACK • GREY                                            ║
-   ║  Toggle components by commenting/uncommenting sections                        ║
-   ║                                                                               ║
+   ║  Toggle components by commenting/uncommenting sections                       ║
+   ║                                                                              ║
    ║  Author: TaskMaster Agent | Version: 1.0.0 | Date: 2025-12-29                ║
    ╚══════════════════════════════════════════════════════════════════════════════╝ */
 
@@ -25,13 +25,57 @@
 
 /* === DARK THEME VARIANT (DEFAULT) === */
 .theme-dark {
-  /* Primary Palette */
-  --v4d3r-red-primary: #e93147 !important;  --v4d3r-red-secondary: #ff4757 !important;  --v4d3r-red-accent: #ff6b7a !important;  --v4d3r-red-muted: #8b1e2b !important;  --v4d3r-red-dark: #5c1420 !important;  /* Black Spectrum */
-  --v4d3r-black-pure: #000000 !important;  --v4d3r-black-deep: #0a0a0a !important;  --v4d3r-black-rich: #121212 !important;  --v4d3r-black-soft: #1a1a1a !important;  --v4d3r-black-elevated: #1e1e1e !important;  /* Grey Spectrum */
-  --v4d3r-grey-darkest: #252525 !important;  --v4d3r-grey-dark: #2d2d2d !important;  --v4d3r-grey-mid: #3d3d3d !important;  --v4d3r-grey-light: #555555 !important;  --v4d3r-grey-lighter: #707070 !important;  --v4d3r-grey-lightest: #9a9a9a !important;  /* Semantic Colors */
-  --v4d3r-bg-primary: var(--v4d3r-black-rich) !important;  --v4d3r-bg-secondary: var(--v4d3r-black-soft) !important;  --v4d3r-bg-tertiary: var(--v4d3r-grey-darkest) !important;  --v4d3r-bg-hover: var(--v4d3r-grey-dark) !important;  --v4d3r-bg-active: var(--v4d3r-red-dark) !important;  --v4d3r-text-primary: #e8e8e8 !important;  --v4d3r-text-secondary: #b0b0b0 !important;  --v4d3r-text-muted: #707070 !important;  --v4d3r-text-accent: var(--v4d3r-red-accent) !important;  --v4d3r-border-default: var(--v4d3r-grey-dark) !important;  --v4d3r-border-subtle: var(--v4d3r-grey-darkest) !important;  --v4d3r-border-accent: var(--v4d3r-red-muted) !important;  /* Interactive States */
-  --v4d3r-interactive-normal: var(--v4d3r-grey-dark) !important;  --v4d3r-interactive-hover: var(--v4d3r-grey-mid) !important;  --v4d3r-interactive-active: var(--v4d3r-red-dark) !important;  --v4d3r-interactive-accent: var(--v4d3r-red-primary) !important;  /* Shadows & Glows */
-  --v4d3r-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.5) !important;  --v4d3r-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.6) !important;  --v4d3r-shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.7) !important;  --v4d3r-glow-red: 0 0 10px rgba(233, 49, 71, 0.3) !important;  --v4d3r-glow-red-intense: 0 0 20px rgba(233, 49, 71, 0.5) !important;}
+  /* ─── PRIMARY RED PALETTE ─── */
+  --v4d3r-red-primary: #e93147 !important;
+  --v4d3r-red-secondary: #ff4757 !important;
+  --v4d3r-red-accent: #ff6b7a !important;
+  --v4d3r-red-muted: #8b1e2b !important;
+  --v4d3r-red-dark: #5c1420 !important;
+  
+  /* ─── BLACK SPECTRUM ─── */
+  --v4d3r-black-pure: #000000 !important;
+  --v4d3r-black-deep: #0a0a0a !important;
+  --v4d3r-black-rich: #121212 !important;
+  --v4d3r-black-soft: #1a1a1a !important;
+  --v4d3r-black-elevated: #1e1e1e !important;
+  
+  /* ─── GREY SPECTRUM ─── */
+  --v4d3r-grey-darkest: #252525 !important;
+  --v4d3r-grey-dark: #2d2d2d !important;
+  --v4d3r-grey-mid: #3d3d3d !important;
+  --v4d3r-grey-light: #555555 !important;
+  --v4d3r-grey-lighter: #707070 !important;
+  --v4d3r-grey-lightest: #9a9a9a !important;
+  
+  /* ─── SEMANTIC COLORS ─── */
+  --v4d3r-bg-primary: var(--v4d3r-black-rich) !important;
+  --v4d3r-bg-secondary: var(--v4d3r-black-soft) !important;
+  --v4d3r-bg-tertiary: var(--v4d3r-grey-darkest) !important;
+  --v4d3r-bg-hover: var(--v4d3r-grey-dark) !important;
+  --v4d3r-bg-active: var(--v4d3r-red-dark) !important;
+  
+  --v4d3r-text-primary: #e8e8e8 !important;
+  --v4d3r-text-secondary: #b0b0b0 !important;
+  --v4d3r-text-muted: #707070 !important;
+  --v4d3r-text-accent: var(--v4d3r-red-accent) !important;
+  
+  --v4d3r-border-default: var(--v4d3r-grey-dark) !important;
+  --v4d3r-border-subtle: var(--v4d3r-grey-darkest) !important;
+  --v4d3r-border-accent: var(--v4d3r-red-muted) !important;
+  
+  /* ─── INTERACTIVE STATES ─── */
+  --v4d3r-interactive-normal: var(--v4d3r-grey-dark) !important;
+  --v4d3r-interactive-hover: var(--v4d3r-grey-mid) !important;
+  --v4d3r-interactive-active: var(--v4d3r-red-dark) !important;
+  --v4d3r-interactive-accent: var(--v4d3r-red-primary) !important;
+  
+  /* ─── SHADOWS & GLOWS ─── */
+  --v4d3r-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.5) !important;
+  --v4d3r-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.6) !important;
+  --v4d3r-shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.7) !important;
+  --v4d3r-glow-red: 0 0 10px rgba(233, 49, 71, 0.3) !important;
+  --v4d3r-glow-red-intense: 0 0 20px rgba(233, 49, 71, 0.5) !important;
+}
 
  
 
@@ -39,7 +83,51 @@
 /* === LIGHT THEME VARIANT (Uncomment to enable) === */
 /*
 .theme-light {
-  --v4d3r-red-primary: #d32f2f !important;  --v4d3r-red-secondary: #e53935 !important;  --v4d3r-red-accent: #c62828 !important;  --v4d3r-red-muted: #ffcdd2 !important;  --v4d3r-red-dark: #b71c1c !important;  --v4d3r-black-pure: #000000 !important;  --v4d3r-black-deep: #1a1a1a !important;  --v4d3r-black-rich: #2d2d2d !important;  --v4d3r-black-soft: #424242 !important;  --v4d3r-black-elevated: #525252 !important;  --v4d3r-grey-darkest: #757575 !important;  --v4d3r-grey-dark: #9e9e9e !important;  --v4d3r-grey-mid: #bdbdbd !important;  --v4d3r-grey-light: #e0e0e0 !important;  --v4d3r-grey-lighter: #eeeeee !important;  --v4d3r-grey-lightest: #f5f5f5 !important;  --v4d3r-bg-primary: #fafafa !important;  --v4d3r-bg-secondary: #f0f0f0 !important;  --v4d3r-bg-tertiary: #e8e8e8 !important;  --v4d3r-bg-hover: #e0e0e0 !important;  --v4d3r-bg-active: var(--v4d3r-red-muted) !important;  --v4d3r-text-primary: #1a1a1a !important;  --v4d3r-text-secondary: #424242 !important;  --v4d3r-text-muted: #757575 !important;  --v4d3r-text-accent: var(--v4d3r-red-primary) !important;  --v4d3r-border-default: #d0d0d0 !important;  --v4d3r-border-subtle: #e0e0e0 !important;  --v4d3r-border-accent: var(--v4d3r-red-muted) !important;  --v4d3r-interactive-normal: #e8e8e8 !important;  --v4d3r-interactive-hover: #d8d8d8 !important;  --v4d3r-interactive-active: var(--v4d3r-red-muted) !important;  --v4d3r-interactive-accent: var(--v4d3r-red-primary) !important;  --v4d3r-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.1) !important;  --v4d3r-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.15) !important;  --v4d3r-shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.2) !important;  --v4d3r-glow-red: 0 0 10px rgba(211, 47, 47, 0.2) !important;  --v4d3r-glow-red-intense: 0 0 20px rgba(211, 47, 47, 0.4) !important;}
+  --v4d3r-red-primary: #d32f2f !important;
+  --v4d3r-red-secondary: #e53935 !important;
+  --v4d3r-red-accent: #c62828 !important;
+  --v4d3r-red-muted: #ffcdd2 !important;
+  --v4d3r-red-dark: #b71c1c !important;
+  
+  --v4d3r-black-pure: #000000 !important;
+  --v4d3r-black-deep: #1a1a1a !important;
+  --v4d3r-black-rich: #2d2d2d !important;
+  --v4d3r-black-soft: #424242 !important;
+  --v4d3r-black-elevated: #525252 !important;
+  
+  --v4d3r-grey-darkest: #757575 !important;
+  --v4d3r-grey-dark: #9e9e9e !important;
+  --v4d3r-grey-mid: #bdbdbd !important;
+  --v4d3r-grey-light: #e0e0e0 !important;
+  --v4d3r-grey-lighter: #eeeeee !important;
+  --v4d3r-grey-lightest: #f5f5f5 !important;
+  
+  --v4d3r-bg-primary: #fafafa !important;
+  --v4d3r-bg-secondary: #f0f0f0 !important;
+  --v4d3r-bg-tertiary: #e8e8e8 !important;
+  --v4d3r-bg-hover: #e0e0e0 !important;
+  --v4d3r-bg-active: var(--v4d3r-red-muted) !important;
+  
+  --v4d3r-text-primary: #1a1a1a !important;
+  --v4d3r-text-secondary: #424242 !important;
+  --v4d3r-text-muted: #757575 !important;
+  --v4d3r-text-accent: var(--v4d3r-red-primary) !important;
+  
+  --v4d3r-border-default: #d0d0d0 !important;
+  --v4d3r-border-subtle: #e0e0e0 !important;
+  --v4d3r-border-accent: var(--v4d3r-red-muted) !important;
+  
+  --v4d3r-interactive-normal: #e8e8e8 !important;
+  --v4d3r-interactive-hover: #d8d8d8 !important;
+  --v4d3r-interactive-active: var(--v4d3r-red-muted) !important;
+  --v4d3r-interactive-accent: var(--v4d3r-red-primary) !important;
+  
+  --v4d3r-shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.1) !important;
+  --v4d3r-shadow-md: 0 4px 6px rgba(0, 0, 0, 0.15) !important;
+  --v4d3r-shadow-lg: 0 10px 20px rgba(0, 0, 0, 0.2) !important;
+  --v4d3r-glow-red: 0 0 10px rgba(211, 47, 47, 0.2) !important;
+  --v4d3r-glow-red-intense: 0 0 20px rgba(211, 47, 47, 0.4) !important;
+}
 */
 
 /* 
@@ -52,11 +140,32 @@
    └──────────────────────────────────────────────────────────────────────────────┘ */
 
 :root {
-  /* Timing */
-  --v4d3r-transition-fast: 100ms !important;  --v4d3r-transition-normal: 200ms !important;  --v4d3r-transition-slow: 300ms !important;  --v4d3r-transition-slower: 500ms !important;  /* Easing */
-  --v4d3r-ease-default: ease-in-out !important;  --v4d3r-ease-smooth: cubic-bezier(0.4, 0, 0.2, 1) !important;  --v4d3r-ease-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55) !important;  --v4d3r-ease-snap: cubic-bezier(0.25, 1, 0.5, 1) !important;  /* Spacing */
-  --v4d3r-spacing-xs: 4px !important;  --v4d3r-spacing-sm: 8px !important;  --v4d3r-spacing-md: 12px !important;  --v4d3r-spacing-lg: 16px !important;  --v4d3r-spacing-xl: 24px !important;  /* Border Radius */
-  --v4d3r-radius-sm: 4px !important;  --v4d3r-radius-md: 6px !important;  --v4d3r-radius-lg: 8px !important;  --v4d3r-radius-xl: 12px !important;  --v4d3r-radius-full: 9999px !important;}
+  /* ─── TIMING ─── */
+  --v4d3r-transition-fast: 100ms !important;
+  --v4d3r-transition-normal: 200ms !important;
+  --v4d3r-transition-slow: 300ms !important;
+  --v4d3r-transition-slower: 500ms !important;
+  
+  /* ─── EASING ─── */
+  --v4d3r-ease-default: ease-in-out !important;
+  --v4d3r-ease-smooth: cubic-bezier(0.4, 0, 0.2, 1) !important;
+  --v4d3r-ease-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55) !important;
+  --v4d3r-ease-snap: cubic-bezier(0.25, 1, 0.5, 1) !important;
+  
+  /* ─── SPACING ─── */
+  --v4d3r-spacing-xs: 4px !important;
+  --v4d3r-spacing-sm: 8px !important;
+  --v4d3r-spacing-md: 12px !important;
+  --v4d3r-spacing-lg: 16px !important;
+  --v4d3r-spacing-xl: 24px !important;
+  
+  /* ─── BORDER RADIUS ─── */
+  --v4d3r-radius-sm: 4px !important;
+  --v4d3r-radius-md: 6px !important;
+  --v4d3r-radius-lg: 8px !important;
+  --v4d3r-radius-xl: 12px !important;
+  --v4d3r-radius-full: 9999px !important;
+}
 
 /* ┌──────────────────────────────────────────────────────────────────────────────┐
    │ 1.3 OBSIDIAN VARIABLE OVERRIDES                                              │
@@ -65,11 +174,35 @@
 
 /* --- BEGIN TOGGLE: Core Color Overrides --- */
 .theme-dark {
-  /* Override Obsidian's accent color */
-  --accent-h: 352 !important;  --accent-s: 81% !important;  --accent-l: 55% !important;  /* Background overrides */
-  --background-primary: var(--v4d3r-bg-primary) !important;  --background-primary-alt: var(--v4d3r-bg-secondary) !important;  --background-secondary: var(--v4d3r-bg-secondary) !important;  --background-secondary-alt: var(--v4d3r-bg-tertiary) !important;  --background-modifier-hover: var(--v4d3r-bg-hover) !important;  --background-modifier-active-hover: var(--v4d3r-bg-active) !important;  --background-modifier-border: var(--v4d3r-border-default) !important;  --background-modifier-border-hover: var(--v4d3r-border-accent) !important;  --background-modifier-border-focus: var(--v4d3r-red-primary) !important;  /* Text overrides */
-  --text-normal: var(--v4d3r-text-primary) !important;  --text-muted: var(--v4d3r-text-secondary) !important;  --text-faint: var(--v4d3r-text-muted) !important;  --text-accent: var(--v4d3r-red-accent) !important;  --text-accent-hover: var(--v4d3r-red-secondary) !important;  /* Interactive overrides */
-  --interactive-normal: var(--v4d3r-interactive-normal) !important;  --interactive-hover: var(--v4d3r-interactive-hover) !important;  --interactive-accent: var(--v4d3r-red-primary) !important;  --interactive-accent-hover: var(--v4d3r-red-secondary) !important;}
+  /* ─── OBSIDIAN ACCENT COLOR ─── */
+  --accent-h: 352 !important;
+  --accent-s: 81% !important;
+  --accent-l: 55% !important;
+  
+  /* ─── BACKGROUND OVERRIDES ─── */
+  --background-primary: var(--v4d3r-bg-primary) !important;
+  --background-primary-alt: var(--v4d3r-bg-secondary) !important;
+  --background-secondary: var(--v4d3r-bg-secondary) !important;
+  --background-secondary-alt: var(--v4d3r-bg-tertiary) !important;
+  --background-modifier-hover: var(--v4d3r-bg-hover) !important;
+  --background-modifier-active-hover: var(--v4d3r-bg-active) !important;
+  --background-modifier-border: var(--v4d3r-border-default) !important;
+  --background-modifier-border-hover: var(--v4d3r-border-accent) !important;
+  --background-modifier-border-focus: var(--v4d3r-red-primary) !important;
+  
+  /* ─── TEXT OVERRIDES ─── */
+  --text-normal: var(--v4d3r-text-primary) !important;
+  --text-muted: var(--v4d3r-text-secondary) !important;
+  --text-faint: var(--v4d3r-text-muted) !important;
+  --text-accent: var(--v4d3r-red-accent) !important;
+  --text-accent-hover: var(--v4d3r-red-secondary) !important;
+  
+  /* ─── INTERACTIVE OVERRIDES ─── */
+  --interactive-normal: var(--v4d3r-interactive-normal) !important;
+  --interactive-hover: var(--v4d3r-interactive-hover) !important;
+  --interactive-accent: var(--v4d3r-red-primary) !important;
+  --interactive-accent-hover: var(--v4d3r-red-secondary) !important;
+}
 /* --- END TOGGLE: Core Color Overrides --- */
 
 /* 
@@ -138,8 +271,8 @@
 }
 
 /* ╔══════════════════════════════════════════════════════════════════════════════╗
-   ║                     SECTION 1: WORKSPACE FOUNDATION                         ║
-   ║               Toggle: Each section can be enabled/disabled                  ║
+   ║                     SECTION 1: WORKSPACE FOUNDATION                          ║
+   ║               Toggle: Each section can be enabled/disabled                   ║
    ╚══════════════════════════════════════════════════════════════════════════════╝ */
 /*
 
@@ -149,55 +282,74 @@
 
 
 
-┌──────────────────────────────────────────────────────────────────────────────┐
+   ┌──────────────────────────────────────────────────────────────────────────────┐
    │ 1.4 WORKSPACE FOUNDATION                                                     │
    │ Toggle: Base workspace styling                                               │
    └──────────────────────────────────────────────────────────────────────────────┘ */
 
 /* --- BEGIN TOGGLE: Workspace Background --- */
 .workspace {
-  background-color: var(--v4d3r-black-deep) !important;}
+  background-color: var(--v4d3r-black-deep) !important;
+}
 
 .workspace-background-modifier-translucent {
-  background-color: var(--v4d3r-bg-primary) !important;}
+  background-color: var(--v4d3r-bg-primary) !important;
+}
 /* --- END TOGGLE: Workspace Background --- */
 
 /* --- BEGIN TOGGLE: Divider Styling --- */
 .workspace-leaf-resize-handle {
-  background-color: transparent !important;  border-color: var(--v4d3r-border-subtle) !important;  transition: background-color var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;}
+  background-color: transparent !important;
+  border-color: var(--v4d3r-border-subtle) !important;
+  transition: background-color var(--v4d3r-transition-normal) var(--v4d3r-ease-default) !important;
+}
 
 .workspace-leaf-resize-handle:hover {
-  background-color: var(--v4d3r-red-primary) !important;  border-color: var(--v4d3r-red-primary) !important;}
+  background-color: var(--v4d3r-red-primary) !important;
+  border-color: var(--v4d3r-red-primary) !important;
+}
 
 /* Divider between panes */
 .workspace-split.mod-vertical > .workspace-leaf-resize-handle,
 .workspace-split.mod-horizontal > .workspace-leaf-resize-handle {
-  background-color: var(--v4d3r-border-subtle) !important;}
+  background-color: var(--v4d3r-border-subtle) !important;
+}
 
 .workspace-split.mod-vertical > .workspace-leaf-resize-handle:hover,
 .workspace-split.mod-horizontal > .workspace-leaf-resize-handle:hover {
-  background-color: var(--v4d3r-red-primary) !important;}
+  background-color: var(--v4d3r-red-primary) !important;
+}
 /* --- END TOGGLE: Divider Styling --- */
 
 /* --- BEGIN TOGGLE: Scrollbar Customization --- */
 ::-webkit-scrollbar {
-  width: 8px !important;  height: 8px !important;}
+  width: 8px !important;
+  height: 8px !important;
+}
 
 ::-webkit-scrollbar-track {
-  background: var(--v4d3r-bg-primary) !important;  border-radius: var(--v4d3r-radius-full) !important;}
+  background: var(--v4d3r-bg-primary) !important;
+  border-radius: var(--v4d3r-radius-full) !important;
+}
 
 ::-webkit-scrollbar-thumb {
-  background: var(--v4d3r-grey-mid) !important;  border-radius: var(--v4d3r-radius-full) !important;  border: 2px solid var(--v4d3r-bg-primary) !important;}
+  background: var(--v4d3r-grey-mid) !important;
+  border-radius: var(--v4d3r-radius-full) !important;
+  border: 2px solid var(--v4d3r-bg-primary) !important;
+}
 
 ::-webkit-scrollbar-thumb:hover {
-  background: var(--v4d3r-red-muted) !important;}
+  background: var(--v4d3r-red-muted) !important;
+}
 
 ::-webkit-scrollbar-thumb:active {
-  background: var(--v4d3r-red-primary) !important;}
+  background: var(--v4d3r-red-primary) !important;
+}
 
 /* Thin scrollbar variant */
 ::-webkit-scrollbar-corner {
-  background: var(--v4d3r-bg-primary) !important;}
+  background: var(--v4d3r-bg-primary) !important;
+}
 /* --- END TOGGLE: Scrollbar Customization --- */
 
 /* ═══════════════════════════════════════════════════════════════════════════════
@@ -1466,3 +1618,95 @@ body {
 
 
    
+   ═══════════════════════════════════════════════════════════
+   SNIPPET NAME: JetBrains Mono Light Font
+   Purpose: Apply JetBrains Mono Light globally across Obsidian
+   Author: Pur3v4d3r
+   Date: 2025-12-14
+   Obsidian Version: 1.5+
+   Dependencies: None
+   Installation: Place in .obsidian/snippets/ and enable in Settings
+   
+   Description:
+   Sets JetBrains Mono Light (weight: 300) as the default font
+   for all editor, preview, and interface text. Provides clean,
+   consistent typography throughout the application.
+   
+   Font Installation:
+   Download JetBrains Mono from: https://www.jetbrains.com/lp/mono/
+   Install all font weights for best results.
+  ═══════════════════════════════════════════════════════════
+  */
+  
+  /* [SECTION 1: Global Font Variables] */
+  body {
+    --font-text: "JetBrains Mono", monospace !important;
+    --font-monospace: "JetBrains Mono", monospace !important;
+    --font-interface: "JetBrains Mono", monospace !important;
+    --font-text-weight: 100 !important; /* ← Changed to 100 */
+  }
+  
+  body, .theme-dark body {
+    font-family: "JetBrains Mono", "Courier New", monospace !important;
+    font-weight: 100 !important; /* ← Changed to 100 */
+  }
+  
+  /* [SECTION 2: Editor Text] */
+  .markdown-source-view,
+  .markdown-source-view.mod-cm6,
+  .cm-editor,
+  .cm-content,
+  .cm-scroller,
+  .cm-line {
+    font-family: "JetBrains Mono", "Courier New", monospace !important;
+    font-weight: 100 !important; /* ← Changed to 100 */
+  }
+  
+  /* [SECTION 3: Preview/Reading Mode] */
+  .markdown-preview-view,
+  .markdown-rendered {
+    font-family: "JetBrains Mono", "Courier New", monospace !important;
+    font-weight: 100 !important; /* ← Changed to 100 */
+  }
+  
+  /* [SECTION 4: Interface Elements] */
+  .workspace,
+  .nav-file-title,
+  .nav-folder-title,
+  .search-result-file-title,
+  .workspace-tab-header-inner,
+  .titlebar,
+  .status-bar {
+    font-family: "JetBrains Mono", "Courier New", monospace !important;
+    font-weight: 100 !important; /* ← Changed to 100 */
+  }
+  
+  /* [SECTION 5: Code Blocks] */
+  code,
+  pre,
+  .cm-inline-code,
+  .markdown-preview-view code {
+    font-family: "JetBrains Mono", "Courier New", monospace !important;
+    font-weight: 100 !important; /* ✓ Already 100 */
+  }
+  
+  /* [SECTION 6: Headings Override] */
+  h1, h2, h3, h4, h5, h6,
+  .cm-header-1, .cm-header-2, .cm-header-3,
+  .cm-header-4, .cm-header-5, .cm-header-6 {
+    font-family: "JetBrains Mono", "Courier New", monospace !important;
+    font-weight: 100 !important; /* ← Changed to 100 */
+  }
+  
+  /* [SECTION 7: Accessibility - Reduced Motion] */
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+  .popover.hover-popover,
+  .menu,
+  .suggestion-container {
+    box-shadow: 0 0px 48px rgba(255, 0, 0, 0.3) !important;
+  }

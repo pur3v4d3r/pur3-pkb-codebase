@@ -71,7 +71,7 @@
 
 
 
-- [ ] Analyze the analysis of Prompt Engineering Speacilist 
+- [ ] Analyze the analysis of Prompt Engineering specialist 
   - MAIN GOAL: EXTRACT ALL VIABLE INFORMATION FOR USE IN THE PKB.
 - [ ] Take Prompt Engineering specialist and extract the use of metadata xml.
 
@@ -491,9 +491,6 @@ recommendations: array [OPTIONAL]
 
 
 
-
-
- 
 
 
 

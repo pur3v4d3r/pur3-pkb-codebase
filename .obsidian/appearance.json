@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Obsidianite",
   "enabledCssSnippets": [
     "__v4d3r-ui-system",
     "v4d3r-mermaid-tables-plugins-part1",
@@ -9,12 +9,7 @@
     "__v4d3r-mermaid-tables-plugins-part2",
     "__v4d3r-mermaid-tables-plugins-part3",
     "09-dataview",
-    "__v4d3r-plugins",
     "__v4d3r-tables",
-    "___v4d3r-ui-system",
-    "__v4d3r-mermaid",
-    "_jetbrains-mono-light",
-    "00-folder-tree",
     "01-glowing-headers",
     "callout-icon",
     "callout-mod-12-icon-style-variations",
@@ -33,8 +28,14 @@
     "pur3v4d3r-ultimate-callout-system",
     "tag-customization-system",
     "unified-callout-system",
+    "10-mermaid",
+    "00-folder-tree",
+    "_jetbrains-mono-light",
     "_dataview",
-    "10-mermaid"
+    "__v4d3r-plugins",
+    "__v4d3r-mermaid",
+    "___v4d3r-ui-system",
+    "square-bracket-glow"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",

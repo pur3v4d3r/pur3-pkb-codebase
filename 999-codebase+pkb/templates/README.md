@@ -15,52 +15,52 @@ Well-documented projects lead to:
 
 This documentation framework consists of the following templates:
 
-1. **[project-overview-template.md](./project-overview-template.md)**
+1. **[project-overview-template.md](999-codebase+pkb/templates/project-overview-template.md)**
    - High-level project description, vision, problem statement, and success criteria
    - Target audience and project scope
    - Risk assessment and project success metrics
 
-2. **[features-template.md](./features-template.md)**
+2. **[features-template.md](999-codebase+pkb/templates/features-template.md)**
    - Detailed specifications of project features
    - Feature components and capabilities
    - Future roadmap and implementation priorities
    - Feature dependencies
 
-3. **[requirements-template.md](./requirements-template.md)**
+3. **[requirements-template.md](999-codebase+pkb/templates/requirements-template.md)**
    - Functional and technical requirements
    - Performance, security, and scalability requirements
    - Integration and development requirements
 
-4. **[tech-stack-template.md](./tech-stack-template.md)**
+4. **[tech-stack-template.md](999-codebase+pkb/templates/tech-stack-template.md)**
    - Frontend and backend technology choices
    - Database, authentication, and infrastructure details
    - Development tools, testing frameworks, and security measures
 
-5. **[dependencies-documentation-template.md](./dependencies-documentation-template.md)**
+5. **[dependencies-documentation-template.md](999-codebase+pkb/templates/dependencies-documentation-template.md)**
    - Comprehensive dependency inventory with versions
    - Documentation links for all libraries and frameworks
    - Version compatibility notes
    - Automated dependency information collection process
 
-6. **[user-flow-template.md](./user-flow-template.md)**
+6. **[user-flow-template.md](999-codebase+pkb/templates/user-flow-template.md)**
    - End-to-end user journey mapping
    - Account creation and onboarding processes
    - Core feature flows and error handling strategies
    - Platform-specific considerations
 
-7. **[implementation-template.md](./implementation-template.md)**
+7. **[implementation-template.md](999-codebase+pkb/templates/implementation-template.md)**
    - Development philosophy and code organization
    - Representative code examples and patterns
    - Development workflow and best practices
    - Performance standards and security practices
 
-8. **[project-structure-template.md](./project-structure-template.md)**
+8. **[project-structure-template.md](999-codebase+pkb/templates/project-structure-template.md)**
    - Directory structure and file organization
    - Key structure decisions and rationale
    - Naming conventions and import organization
    - Configuration files explanation
 
-9. **[meta-workflow-integration-template.md](./meta-workflow-integration-template.md)**
+9. **[meta-workflow-integration-template.md](999-codebase+pkb/templates/meta-workflow-integration-template.md)**
    - XML-based function mapping for documentation components
    - Documentation workflow process based on Windsurf methodology
    - Memory system integration for continuity across sessions
