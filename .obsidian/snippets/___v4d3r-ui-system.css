@@ -173,7 +173,7 @@
    └──────────────────────────────────────────────────────────────────────────────┘ */
 
 /* --- BEGIN TOGGLE: Core Color Overrides --- */
-.theme-dark {
+  .theme-dark {
   /* ─── OBSIDIAN ACCENT COLOR ─── */
   --accent-h: 352 !important;
   --accent-s: 81% !important;

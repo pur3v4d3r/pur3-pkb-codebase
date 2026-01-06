@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(npm:*)",
-      "Bash(smart-cli --version:*)"
+      "Bash(smart-cli --version:*)",
+      "Bash(dir \"%APPDATA%\\\\Claude\\\\logs\" /B /O-D)"
     ]
   }
 }
