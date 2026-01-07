@@ -21,18 +21,18 @@ link-up: "[[prompt-engineering-moc]]"
 
 | I need to... | Go to... |
 |--------------|----------|
-| Get started quickly | [[00-meta/02-spes-quick-start-guide]] |
-| Understand everything | [[00-meta/01-spes-master-operations-manual]] |
-| Operate as an AI assistant | [[00-meta/03-llm-integration-protocol]] |
-| Find/create components | [[00-meta/04-component-library-reference]] |
-| Fix a problem | [[00-meta/05-troubleshooting-diagnostics-guide]] |
+| Get started quickly | [[00-meta/spes/02-spes-quick-start-guide]] |
+| Understand everything | [[00-meta/spes/01-spes-master-operations-manual]] |
+| Operate as an AI assistant | [[00-meta/spes/03-llm-integration-protocol]] |
+| Find/create components | [[00-meta/spes/04-component-library-reference]] |
+| Fix a problem | [[00-meta/spes/05-troubleshooting-diagnostics-guide]] |
 
 ---
 
 ## 📚 Documentation Suite Overview
 
 ### 1. Master Operations Manual
-**File:** [[00-meta/01-spes-master-operations-manual]]
+**File:** [[00-meta/spes/01-spes-master-operations-manual]]
 
 > [!what-this-does] Complete System Reference
 > The **authoritative, comprehensive guide** to the entire SPES system. Contains:
@@ -50,7 +50,7 @@ link-up: "[[prompt-engineering-moc]]"
 ---
 
 ### 2. Quick Start Guide
-**File:** [[00-meta/02-spes-quick-start-guide]]
+**File:** [[00-meta/spes/02-spes-quick-start-guide]]
 
 > [!what-this-does] Get Operational in 15 Minutes
 > **Fastest path to productivity.** Contains:
@@ -67,7 +67,7 @@ link-up: "[[prompt-engineering-moc]]"
 ---
 
 ### 3. LLM Integration Protocol
-**File:** [[00-meta/03-llm-integration-protocol]]
+**File:** [[00-meta/spes/03-llm-integration-protocol]]
 
 > [!what-this-does] AI Assistant Operating Instructions
 > **How Claude and other LLMs should work within SPES.** Contains:
@@ -85,7 +85,7 @@ link-up: "[[prompt-engineering-moc]]"
 ---
 
 ### 4. Component Library Reference
-**File:** [[00-meta/04-component-library-reference]]
+**File:** [[00-meta/spes/04-component-library-reference]]
 
 > [!what-this-does] Complete Guide to Prompt Building Blocks
 > **Everything about components.** Contains:
@@ -103,7 +103,7 @@ link-up: "[[prompt-engineering-moc]]"
 ---
 
 ### 5. Troubleshooting & Diagnostics Guide
-**File:** [[00-meta/05-troubleshooting-diagnostics-guide]]
+**File:** [[00-meta/spes/05-troubleshooting-diagnostics-guide]]
 
 > [!what-this-does] Problem Solving & System Maintenance
 > **Fix issues and keep the system healthy.** Contains:

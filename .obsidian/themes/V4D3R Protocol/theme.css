@@ -1,0 +1,299 @@
+/* ═══════════════════════════════════════════════════════════════════════════════
+  THEME: V4D3R PROTOCOL (FULL INTEGRATION)
+  TYPE: Total Conversion
+  INCLUDES: All user-defined snippets, customized folder tree, and neon components.
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* ┌─────────────────────────────────────────────────────────────────────────┐
+   │ SECTION 1: CORE SYSTEM & TYPOGRAPHY                                     │
+   │ Sources: ___v4d3r-ui-system.css, _jetbrains-mono-light.css              │
+   └─────────────────────────────────────────────────────────────────────────┘
+*/
+
+/* [FROM: ___v4d3r-ui-system.css] */
+:root {
+  /* ─── PRIMARY RED PALETTE ─── */
+  --v4d3r-red-primary: #e93147 !important;
+  --v4d3r-red-secondary: #ff4757 !important;
+  --v4d3r-red-accent: #ff6b7a !important;
+  --v4d3r-red-muted: #8b1e2b !important;
+  --v4d3r-red-dark: #5c1420 !important;
+
+  /* ─── BLACK SPECTRUM ─── */
+  --v4d3r-black-pure: #000000 !important;
+  --v4d3r-black-deep: #0a0a0a !important;
+  --v4d3r-black-rich: #121212 !important;
+  --v4d3r-black-soft: #1a1a1a !important;
+  
+  /* ─── SEMANTIC COLORS ─── */
+  --v4d3r-bg-primary: var(--v4d3r-black-rich) !important;
+  --v4d3r-bg-secondary: var(--v4d3r-black-soft) !important;
+  
+  /* ─── OBSIDIAN OVERRIDES ─── */
+  --background-primary: var(--v4d3r-black-rich) !important;
+  --background-secondary: var(--v4d3r-black-soft) !important;
+  --interactive-accent: var(--v4d3r-red-primary) !important;
+  
+  /* ─── GLOWS ─── */
+  --v4d3r-glow-red: 0 0 10px rgba(233, 49, 71, 0.3) !important;
+}
+
+/* [FROM: _jetbrains-mono-light.css] */
+body, .view-content, .markdown-source-view, .markdown-preview-view {
+  font-family: "JetBrains Mono", "Courier New", monospace !important;
+  font-weight: 300 !important; /* Force Light Weight */
+  --font-text: "JetBrains Mono", monospace !important;
+  --font-monospace: "JetBrains Mono", monospace !important;
+}
+
+/* ┌─────────────────────────────────────────────────────────────────────────┐
+   │ SECTION 2: WORKSPACE, GLASSMORPHISM & FOLDER TREE                       │
+   │ Sources: glassmorphism-sidebar..., 00-folder-tree.css, metadata-panel   │
+   └─────────────────────────────────────────────────────────────────────────┘
+*/
+
+/* [FROM: glassmorphism-sidebar-system.css] */
+body {
+    --glass-opacity: 75% !important; 
+    --glass-blur-radius: 30px !important; 
+    --glass-border-color: rgba(229, 0, 0, 0.3) !important;
+}
+
+.workspace-ribbon {
+    background-color: color-mix(in srgb, var(--background-secondary) var(--glass-opacity), transparent) !important;
+    backdrop-filter: blur(var(--glass-blur-radius)) !important;
+    border-right: 1px solid var(--glass-border-color) !important;
+}
+
+/* [FROM: 00-folder-tree.css - YOUR CUSTOM FOLDER COLORS PRESERVED] */
+
+/* 00-inbox - Critical Red */
+.nav-folder-title[data-path="00-inbox"] {
+  color: #C0C0C0!important;
+  font-weight: 300;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
+}
+.nav-folder-title[data-path="00-inbox"]::before { content: "📥 "; margin-right: 6px; }
+
+/* 02-projects - Bright Red */
+.nav-folder-title[data-path="02-projects"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
+}
+.nav-folder-title[data-path="02-projects"]::before { content: "🔬"; margin-right: 6px; }
+
+/* 03-notes - Medium Grey */
+.nav-folder-title[data-path="03-notes"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
+}
+.nav-folder-title[data-path="03-notes"]::before { content: "📄"; margin-right: 6px; }
+
+/* 04-library - Dark Grey */
+.nav-folder-title[data-path="04-library"] {
+  color: #C0C0C0!important;
+  font-weight: 700!important;
+  background: rgba(255, 0, 0, 0.12)!important;
+  padding: 5px 8px!important;
+  border-right: 3px solid #8B0000!important;
+  font-size: 18px!important;
+}
+.nav-folder-title[data-path="04-library"]::before { content: "📚 "; margin-right: 6px; }
+
+/* 99-archive - Light Gray */
+.nav-folder-title[data-path="99-archive"] {
+  color: #C0C0C0!important;
+  font-weight: 600!important;
+  background: rgba(49, 49, 49, 0.12)!important;
+  opacity: 0.85!important;
+  font-size: 18px!important;
+  border-right: 3px solid #8B0000!important;
+  padding: 4px 8px!important;
+}
+.nav-folder-title[data-path="99-archive"]::before { content: "🗄️"; margin-right: 6px; }
+
+/* Active File Styling */
+.nav-file-title.is-active {
+  color: #E50000!important;
+  background: linear-gradient(90deg, rgba(229, 0, 0, 0.25) 0%, rgba(229, 0, 0, 0.08) 100%!important);
+  border-left: 4px solid #E50000!important;
+  font-weight: 600!important;
+  padding-left: 24px!important;
+}
+
+/* [FROM: metadata-panel-system.css] */
+.metadata-container {
+  background: var(--v4d3r-bg-secondary) !important;
+  border-left: 3px solid var(--v4d3r-red-primary) !important;
+  border-radius: 8px !important;
+}
+.metadata-property-key { color: var(--text-muted) !important; text-transform: uppercase; letter-spacing: 0.05em; }
+.metadata-property-value { color: var(--text-normal) !important; }
+.multi-select-pill {
+  background-color: rgba(229, 0, 0, 0.15) !important;
+  border: 1px solid var(--v4d3r-red-primary) !important;
+  color: var(--v4d3r-red-primary) !important;
+}
+
+/* ┌─────────────────────────────────────────────────────────────────────────┐
+   │ SECTION 3: EDITOR & TYPOGRAPHY                                          │
+   │ Sources: Glowing Headers, Lists, Inline Code, Tags, Brackets            │
+   └─────────────────────────────────────────────────────────────────────────┘
+*/
+
+/* [FROM: 01-glowing-headers.css] */
+.theme-dark .markdown-preview-view h1,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-1,
+.theme-dark .cm-header-1,
+h1 {
+    font-family: "Jetbrains Mono", var(--font-monospace) !important;
+    font-size: 1.8em !important;
+    font-weight: 600 !important;
+    font-variant: all-small-caps !important;
+    color: #000000 !important;
+    text-decoration: underline !important;
+    text-shadow: 0 0 3px #ff0000ff, 0 0 6px #ff0000ee, 0 0 10px #ff0000cc,
+                 0 0 14px #ff0000aa, 0 0 18px #ff000077;
+}
+
+.theme-dark .markdown-preview-view h2,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-2,
+.theme-dark .cm-header-2,
+h2 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.8em !important;
+  font-weight: 600 !important;
+  font-variant: all-small-caps !important;
+  color: #000000 !important;
+  text-decoration: underline !important;
+  text-shadow: 0 0 3px #ff0000ff, 0 0 6px #ff0000ee, 0 0 10px #ff0000cc,
+               0 0 14px #ff0000aa, 0 0 18px #ff000077;
+}
+
+.theme-dark .markdown-preview-view h3,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-3,
+.theme-dark .cm-header-3,
+h3 {
+    font-family: "Jetbrains Mono", var(--font-monospace) !important;
+    font-size: 1.8em !important;
+    font-weight: 100 !important;
+    font-variant: all-small-caps !important;
+    color: #000000ff !important;
+    text-decoration: underline !important;
+    text-shadow: 0 0 30px #5c0000ff, 0 0 20px #000000ee, 0 0 30px #ff0000cc,
+                 0 0 30px #000000aa, 0 0 50px #ff000077;
+}
+
+.theme-dark .markdown-preview-view h4,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-4,
+.theme-dark .cm-header-4,
+h4 {
+  font-family: "Jetbrains Mono", var(--font-monospace) !important;
+  font-size: 1.3em !important;
+  font-weight: 500 !important;
+  font-variant: all-small-caps !important;
+  color: #000000 !important;
+  text-decoration: underline !important;
+  text-shadow: 0 0 2px #ff0000dd, 0 0 5px #ff0000bb, 0 0 8px #ff000099,
+               0 0 11px #ff000066;
+}
+
+/* [FROM: custom-ordered-list-numbers-(colored)-.css] */
+:root {
+    --ol-level1-size: 1em; --ol-level1-weight: 600; --ol-level1-left: -1.5em; --ol-level1-top: 0em;
+    --ol-level2-size: 1.25em; --ol-level2-weight: 600; --ol-level2-left: -1.5em; --ol-level2-top: -0.25em;
+    --ol-level3-size: 1.25em; --ol-level3-weight: 600; --ol-level3-left: -1.5em; --ol-level3-top: -0.15em;
+    --ol-level4-size: 1.25em; --ol-level4-weight: 600; --ol-level4-left: -1.5em; --ol-level4-top: -0.15em;
+    --ol-marker-spacing: 0.25em;
+}
+
+/* Editor Mode Lists */
+.cm-formatting-list-ol.cm-list-1 { color: #E50000 !important; font-weight: 300 !important; font-size: 18 !important; position: relative !important; }
+.cm-formatting-list-ol.cm-list-2 { color: transparent !important; position: relative !important; }
+.cm-formatting-list-ol.cm-list-2::after { content: "->" !important; color: #E50000 !important; font-weight: 300 !important; font-size: 18px !important; position: absolute !important; left: 10px !important; }
+.cm-formatting-list-ol.cm-list-3 { color: transparent !important; position: relative !important; }
+.cm-formatting-list-ol.cm-list-3::after { content: "-" !important; color: #E50000 !important; font-weight: 300 !important; font-size: 18 !important; position: absolute !important; left: 10px !important; }
+
+/* Custom Unordered List Markers */
+.cm-formatting-list-ul .list-bullet::after { content: "" !important; width: 0 !important; height: 0 !important; }
+.cm-formatting-list-ul.cm-list-1 > .list-bullet::after, .markdown-rendered ul > li > .list-bullet::after { content: "->" !important; color: #E50000ff !important; padding-right: 1.25em !important; margin-bottom: 22px !important; font-size:0.90em !important; font-weight: 300 !important; }
+.cm-formatting-list-ul.cm-list-2 > .list-bullet::after, .markdown-rendered ul ul > li > .list-bullet::after { content: "-" !important; color: #4d4d4dff !important; padding-right: -2.25em !important; margin-bottom: 26px !important; font-size:0.90em !important; font-weight: 300 !important; }
+.cm-formatting-list-ul.cm-list-3 > .list-bullet::after, .markdown-rendered ul ul ul > li > .list-bullet::after { content: "\002B" !important; color: #4d4d4dff !important; font-size:1.30em; font-weight: 300 !important; padding-right: -2.25em !important; margin-bottom: 40px !important; }
+
+/* [FROM: inline-code-system.css] */
+.markdown-source-view.mod-cm6 .cm-inline-code,
+.markdown-preview-view .inline-code {
+  background-color: #E500004d !important; /* 30% opacity red */
+  text-transform: uppercase !important;
+  color: #E0E0E0ff !important;
+  border: 3.20px solid #000000cc !important;
+  border-radius: 4px !important;
+  padding: 1.1px 1.1px !important;
+  font-family: 'Jetbrains Mono', var(--font-monospace-override), monospace !important;
+  font-weight: 100 !important;
+  font-size: 0.95em !important;
+  box-shadow: 0 0 6px #E50000ff;
+  transition: box-shadow 0.2s ease-in-out !important;
+}
+.markdown-source-view.mod-cm6 .cm-inline-code:hover,
+.markdown-preview-view .inline-code:hover {
+  cursor: pointer !important;
+  box-shadow: 0 0 12px #E0E0E0ff !important;
+  text-transform: capitalize !important;
+}
+
+/* [FROM: tag-customization-system.css] */
+.tag, a.tag, .cm-tag, .cm-hashtag {
+  background-color: rgba(220, 38, 38, 0.12) !important;
+  color: #ff0000ff !important;
+  padding: 0.2em 0.5em !important;
+  border-radius: 4px !important;
+  font-size: 0.85em !important;
+  font-weight: 500 !important;
+  border: 1px solid transparent !important;
+}
+/* Priority Tags */
+a.tag[href*="#priority"], a.tag[href*="#urgent"], .cm-tag[class*="priority"] {
+  background-color: rgba(153, 27, 27, 0.12);
+  color: #991B1B !important;
+}
+
+/* [FROM: square-bracket-glow.css] */
+:root {
+  --red-glow: #ff0000ff;
+  --red-glow-bright: #ff3333;
+  --red-shadow: rgba(255, 0, 0, 1);
+  --bracket-shadow: 0 0 4px var(--red-shadow), 0 0 8px var(--red-shadow);
+}
+.cm-s-obsidian .cm-bracket, .cm-editor .cm-bracket, .cm-punctuation, .token.punctuation.bracket, span.cm-bracket,
+.markdown-source-view.mod-cm6 .cm-formatting-link {
+  color: var(--red-glow-bright) !important;
+  text-shadow: var(--bracket-shadow) !important;
+}
+.markdown-preview-view .internal-link:before, .markdown-rendered .internal-link:before {
+  content: '['; color: var(--red-glow) !important; text-shadow: var(--bracket-shadow) !important; font-weight: bold !important; margin-right: 1px;
+}
+.markdown-preview-view .internal-link:after, .markdown-rendered .internal-link:after {
+  content: ']'; color: var(--red-glow) !important; text-shadow: var(--bracket-shadow) !important; font-weight: bold !important; margin-left: 1px;
+}
+
+/* [FROM: custom-horizontal-rules-.css] */
+.markdown-preview-view hr, .markdown-source-view.mod-cm6 .cm-line hr {
+  border: none !important;
+  height: 1px !important;
+  background-color: #E50000 !important;
+  opacity: 0.5 !important;
+  margin: 2em 0 !important;
+}

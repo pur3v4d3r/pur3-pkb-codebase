@@ -227,7 +227,7 @@ MCP installation options: automated script (setup-smart-connections-mcp.sh) or m
 ### Planned Tasks
 
 **3.1 Standardize Metadata Format**
-- [ ] Update [[00-meta/session-memory]] with standard format
+- [ ] Update [[00-meta/system/session-memory]] with standard format
 - [ ] Create memory template file
 - [ ] Document canonical schema
 
@@ -313,7 +313,7 @@ Key milestones: Phase 1 complete (2026-01-06), Phase 2 configuration complete (2
 - Preserves user's established [[00-meta]] structure
 - Adds agent optimization without duplication
 - Clear separation of concerns:
-  - [[00-meta/session-memory]] = Human session tracking
+  - [[00-meta/system/session-memory]] = Human session tracking
   - [[activeContext]] = Agent-optimized current state
 
 **Impact**: Both systems complement rather than conflict
@@ -387,7 +387,7 @@ Decision made 2026-01-06: Align .claude/ file formatting with 00-meta/ style usi
 
 ### User Preferences Applied
 
-From [[00-meta/session-memory]] and [[00-meta/user-preferences]]:
+From [[00-meta/system/session-memory]] and [[00-meta/system/user-preferences]]:
 - ✅ Direct, efficient communication (no filler)
 - ✅ Action-oriented responses
 - ✅ Software engineering rigor applied to PKB

@@ -320,7 +320,7 @@ Wiki-link density target is 2+ links in and out for every note, with reference n
 Claude and Gemini coordinate via complementary roles: Claude handles complex reasoning and architecture, while Gemini executes structured tasks and code generation. Shared memory via 00-meta/session-memory.md enables hand-offs.
 
 **Hand-off Protocol**:
-1. Outgoing LLM updates [[00-meta/session-memory]]
+1. Outgoing LLM updates [[00-meta/system/session-memory]]
 2. Documents current state, what's complete, blockers
 3. Specifies what incoming LLM should work on
 4. Incoming LLM reads session-memory, acknowledges handoff

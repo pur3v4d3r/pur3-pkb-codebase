@@ -102,10 +102,10 @@ LIMIT 5
 ## 🔗 Relationship to 00-meta/
 
 **[[00-meta]]** is the **authoritative source** for vault-wide metadata:
-- [[00-meta/session-memory|session-memory.md]] — Human-readable session tracking
-- [[00-meta/project-tracker|project-tracker.md]] — Project status and priorities
-- [[00-meta/user-preferences|user-preferences.md]] — Workflow patterns
-- [[00-meta/vault-map|vault-map.md]] — Structural overview
+- [[00-meta/system/session-memory|session-memory.md]] — Human-readable session tracking
+- [[00-meta/system/project-tracker|project-tracker.md]] — Project status and priorities
+- [[00-meta/system/user-preferences|user-preferences.md]] — Workflow patterns
+- [[00-meta/system/vault-map|vault-map.md]] — Structural overview
 
 **`.claude/`** provides **agent-optimized memory**:
 - Semantic search via query anchors (`%%QA:domain:topic%%`)
@@ -243,7 +243,7 @@ status: [active | completed | deprecated]
 - [[999-codebase+pkb/integrating-smart-connection-with-memory-system/memory-system-implementation-roadmap|Memory System Implementation Roadmap]]
 - [[999-codebase+pkb/integrating-smart-connection-with-memory-system/smart-connections-llm-integration-guide|Smart Connections Integration Guide]]
 - [[__LOCAL-REPO/CLAUDE|CLAUDE.md System Prompt]]
-- [[00-meta/session-memory|00-meta Session Memory]]
+- [[00-meta/system/session-memory|00-meta Session Memory]]
 
 %%QA:memory:documentation-links%%
 Complete implementation documentation is available in 999-codebase+pkb/integrating-smart-connection-with-memory-system/ directory, including roadmap, integration guide, and setup scripts.

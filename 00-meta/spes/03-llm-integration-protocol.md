@@ -11,7 +11,7 @@ priority: high
 created: 2025-12-24
 type: reference
 project: prompt-engineering-templater-system
-link-up: "[[00-meta/01-spes-master-operations-manual]]"
+link-up: "[[00-meta/spes/01-spes-master-operations-manual]]"
 ---
 
 # 🤖 LLM Integration Protocol

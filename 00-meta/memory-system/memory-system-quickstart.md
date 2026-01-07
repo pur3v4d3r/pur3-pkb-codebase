@@ -32,8 +32,8 @@ Read: __LOCAL-REPO/CLAUDE.md
 5. **[[.claude/core/techContext]]** — Technology stack, configurations
 
 **Reference** (optional):
-6. **[[00-meta/session-memory]]** — Human-readable session history
-7. **[[00-meta/user-preferences]]** — Communication style, workflow patterns
+6. **[[00-meta/system/session-memory]]** — Human-readable session history
+7. **[[00-meta/system/user-preferences]]** — Communication style, workflow patterns
 
 ### Step 3: Acknowledge Readiness
 
@@ -216,7 +216,7 @@ Use the connection tool to find notes related to "projectbrief.md"
 
 1. Read [[activeContext]] for current state
 2. Check [[progress]] for pending milestones
-3. Review [[00-meta/session-memory]] for context
+3. Review [[00-meta/system/session-memory]] for context
 4. Create plan in `.claude/plans/` if needed
 5. Update activeContext with new task
 
@@ -253,7 +253,7 @@ Use the connection tool to find notes related to "projectbrief.md"
 1. [[.claude/core/activeContext]] — Recent work
 2. [[.claude/core/progress]] — Timeline
 3. [[.claude/memory-index]] — Navigation hub
-4. [[00-meta/session-memory]] — Full history
+4. [[00-meta/system/session-memory]] — Full history
 
 ### Memory Files Out of Date
 
@@ -334,10 +334,10 @@ ls .claude/core/*.md | wc -l
 ## 🔗 Related Documentation
 
 ### Authoritative Guides (00-meta/)
-- [[claude-memory-system-guide]] — System architecture overview
-- [[mcp-setup-troubleshooting]] — MCP configuration guide
-- [[session-memory]] — Session history
-- [[user-preferences]] — Communication preferences
+- [[00-meta/memory-system/claude-memory-system-guide]] — System architecture overview
+- [[00-meta/memory-system/mcp-setup-troubleshooting]] — MCP configuration guide
+- [[00-meta/system/session-memory]] — Session history
+- [[00-meta/system/user-preferences]] — Communication preferences
 
 ### Agent Memory (.claude/)
 - [[.claude/memory-index]] — Master navigation hub

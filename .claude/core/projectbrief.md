@@ -90,7 +90,7 @@ In-scope activities include PKB architecture, agent integration via Smart Connec
 
 ### Out of Scope
 
-❌ **NOT a task manager** — Use [[00-meta/project-tracker]] or external tools for project management
+❌ **NOT a task manager** — Use [[00-meta/system/project-tracker]] or external tools for project management
 
 ❌ **NOT a CRM** — Customer/contact management handled externally
 
@@ -177,7 +177,7 @@ The vault has three primary stakeholders: the user (pur3v4d3rpk) as project mana
 
 ## Strategic Alignment
 
-### Active Projects (from [[00-meta/session-memory]])
+### Active Projects (from [[00-meta/system/session-memory]])
 
 1. **[[SPES|Sequential Prompt Engineering System]]** — ✅ Phase 1 complete
 2. **Memory System** — 🟡 Implementation in progress (THIS PROJECT)
@@ -213,8 +213,8 @@ Current strategic focus is on memory system foundation (Phase 1-2), specifically
 - [[techContext]] — Technology stack and integrations
 - [[activeContext]] — Current work-in-progress
 - [[progress]] — Implementation timeline and milestones
-- [[00-meta/session-memory]] — Human-readable session tracking
-- [[00-meta/project-tracker]] — Project status overview
+- [[00-meta/system/session-memory]] — Human-readable session tracking
+- [[00-meta/system/project-tracker]] — Project status overview
 - [[memory-index|Memory Index]] — Navigation hub for memory system
 
 %%QA:memory:related-files%%

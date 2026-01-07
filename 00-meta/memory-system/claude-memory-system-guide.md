@@ -170,8 +170,8 @@ Both systems reference each other:
 **In .claude/core/activeContext.md**:
 ```markdown
 ## Related Context
-- [[00-meta/session-memory]] — Comprehensive session log
-- [[00-meta/project-tracker]] — Active project status
+- [[00-meta/system/session-memory]] — Comprehensive session log
+- [[00-meta/system/project-tracker]] — Active project status
 ```
 
 ---
@@ -346,8 +346,8 @@ This enables agents to:
 
 - [[.claude/memory-index|Agent Memory Index]] — Master navigation for agent memory
 - [[.claude/core/systemPatterns|System Patterns]] — Architecture patterns documented
-- [[session-memory]] — Comprehensive human-readable session log
-- [[project-tracker]] — Active project status
+- [[00-meta/system/session-memory]] — Comprehensive human-readable session log
+- [[00-meta/system/project-tracker]] — Active project status
 
 ---
 
