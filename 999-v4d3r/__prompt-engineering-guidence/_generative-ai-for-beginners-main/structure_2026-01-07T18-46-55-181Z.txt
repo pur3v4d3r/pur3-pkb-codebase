@@ -1,0 +1,338 @@
+📁 _generative-ai-for-beginners-main
+⏱️  Generated in 47 ms
+──────────────────────────────────────────────────
+├── 📁 00-course-setup
+│   ├── 📝 01-setup-cloud.md
+│   ├── 📝 02-setup-local.md
+│   ├── 📝 03-providers.md
+│   └── 📝 README.md
+├── 📁 01-introduction-to-genai
+│   ├── 📁 images
+│   └── 📝 README.md
+├── 📁 02-exploring-and-comparing-different-llms
+│   ├── 📁 images
+│   │   ├── 📄 02-lesson-banner.png
+│   │   ├── 📄 AzureAIStudioModelCatalog.png
+│   │   ├── 📄 Deploy.png
+│   │   ├── 📄 Embedding.png
+│   │   ├── 📄 FineTuning.png
+│   │   ├── 📄 FoundationModel.png
+│   │   ├── 📄 Image.png
+│   │   ├── 📄 Llama1.png
+│   │   ├── 📄 Llama2.png
+│   │   ├── 📄 Llama3.png
+│   │   ├── 📄 Llama4.png
+│   │   ├── 📄 ModelBenchmarks.png
+│   │   ├── 📄 ModelCard.png
+│   │   ├── 📄 ModelDeploy.png
+│   │   ├── 📄 Multimodal.png
+│   │   └── 📄 Text.png
+│   └── 📝 README.md
+├── 📁 03-using-generative-ai-responsibly
+│   ├── 📁 images
+│   │   ├── 📄 03-lesson-banner.png
+│   │   ├── 📄 ChatGPT-titanic-survivor-prompt.webp
+│   │   ├── 📄 mitigate-cycle.png
+│   │   └── 📄 mitigation-layers.png
+│   └── 📝 README.md
+├── 📁 04-prompt-engineering-fundamentals
+│   ├── 📁 images
+│   │   ├── 📄 04-fabrication-aoai.png
+│   │   ├── 📄 04-fabrication-huggingchat.png
+│   │   ├── 📄 04-fabrication-oai.png
+│   │   ├── 📄 04-lesson-banner.png
+│   │   ├── 📄 04-playground-chat-base.png
+│   │   ├── 📄 04-playground-chat-instructions.png
+│   │   ├── 📄 04-prompt-engineering-sketchnote.png
+│   │   └── 📄 04-tokenizer-example.png
+│   ├── 📁 python
+│   │   ├── 📄 aoai-assignment.ipynb
+│   │   ├── 📄 githubmodels-assignment.ipynb
+│   │   └── 📄 oai-assignment.ipynb
+│   └── 📝 README.md
+├── 📁 05-advanced-prompts
+│   ├── 📁 images
+│   │   └── 📄 05-lesson-banner.png
+│   ├── 📁 javascript
+│   │   ├── 🟨 assignment.js
+│   │   └── 🟨 solution.js
+│   ├── 📁 python
+│   │   ├── 🐍 aoai-assignment.py
+│   │   └── 🐍 aoai-solution.py
+│   └── 📝 README.md
+├── 📁 06-text-generation-apps
+│   ├── 📁 dotnet
+│   │   └── 📄 notebook-azure-openai.dib
+│   ├── 📁 images
+│   │   ├── 📄 06-lesson-banner.png
+│   │   ├── 📄 codespaces-basicpy.png
+│   │   ├── 📄 GithubModels-getstarted.png
+│   │   ├── 📄 GithubModels-modelcard.png
+│   │   ├── 📄 GithubModels-plagroundcode.png
+│   │   ├── 📄 GithubModelsMainScreen.png
+│   │   └── 📄 vscode-envvariable.png
+│   ├── 📁 js-githubmodels
+│   │   ├── 🟨 app.js
+│   │   ├── 🗒️ package-lock.json
+│   │   └── 🗒️ package.json
+│   ├── 📁 python
+│   │   ├── 🐍 aoai-app-recipe.py
+│   │   ├── 🐍 aoai-app.py
+│   │   ├── 📄 aoai-assignment.ipynb
+│   │   ├── 🐍 aoai-history-bot.py
+│   │   ├── 🐍 aoai-study-buddy.py
+│   │   ├── 🐍 githubmodels-app.py
+│   │   ├── 📄 githubmodels-assignment.ipynb
+│   │   ├── 🐍 oai-app-recipe.py
+│   │   ├── 🐍 oai-app.py
+│   │   ├── 📄 oai-assigment.ipynb
+│   │   ├── 🐍 oai-history-bot.py
+│   │   ├── 🐍 oai-study-buddy.py
+│   │   └── 📃 requirements.txt
+│   ├── 📁 typescript
+│   │   └── 📁 recipe-app
+│   │       ├── 📁 src
+│   │       │   └── 🔷 main.ts
+│   │       ├── 🗒️ package-lock.json
+│   │       ├── 🗒️ package.json
+│   │       └── 🗒️ tsconfig.json
+│   └── 📝 README.md
+├── 📁 07-building-chat-applications
+│   ├── 📁 dotnet
+│   │   └── 📄 notebook-azure-openai.dib
+│   ├── 📁 images
+│   │   ├── 📄 07-lesson-banner.png
+│   │   ├── 📄 custom-instructions.png
+│   │   └── 📄 lesson-plan-prompt.png
+│   ├── 📁 js-githubmodels
+│   │   ├── 🟨 app.js
+│   │   ├── 🗒️ package-lock.json
+│   │   └── 🗒️ package.json
+│   ├── 📁 python
+│   │   ├── 📄 aoai-assigment-simple.ipynb
+│   │   ├── 📄 aoai-assignment.ipynb
+│   │   ├── 📄 githubmodels-assignment-simple.ipynb
+│   │   ├── 📄 githubmodels-assignment.ipynb
+│   │   ├── 📄 oai-assigment-simple.ipynb
+│   │   └── 📄 oai-assignment.ipynb
+│   ├── 📁 typescript
+│   │   └── 📁 chat-completions-app
+│   │       ├── 📁 src
+│   │       │   └── 🔷 main.ts
+│   │       ├── 🗒️ package-lock.json
+│   │       ├── 🗒️ package.json
+│   │       └── 🗒️ tsconfig.json
+│   └── 📝 README.md
+├── 📁 08-building-search-applications
+│   ├── 📁 dotnet
+│   │   └── 📄 notebook-azure-openai.dib
+│   ├── 📁 images
+│   │   ├── 📄 08-lesson-banner.png
+│   │   ├── 📄 notebook-search.png
+│   │   └── 📄 query-results.png
+│   ├── 📁 js-githubmodels
+│   │   ├── 🟨 app.js
+│   │   ├── 🗒️ package-lock.json
+│   │   └── 🗒️ package.json
+│   ├── 📁 python
+│   │   ├── 📄 aoai-assignment.ipynb
+│   │   ├── 📄 aoai-solution.ipynb
+│   │   ├── 📄 oai-assignment.ipynb
+│   │   ├── 📄 oai-solution.ipynb
+│   │   └── 📃 requirements.txt
+│   ├── 📁 scripts
+│   │   ├── 🗒️ embedding_index_3m.json
+│   │   ├── 📄 prepare_transcripts_ai_show.bat
+│   │   ├── 📄 prepare_transcripts_ai_show.ps1
+│   │   ├── 🐚 prepare_transcripts_ai_show.sh
+│   │   ├── 📝 README.md
+│   │   ├── 📃 requirements.txt
+│   │   ├── 🐍 transcript_download.py
+│   │   ├── 🐍 transcript_enrich_bucket.py
+│   │   ├── 🐍 transcript_enrich_embeddings.py
+│   │   ├── 🐍 transcript_enrich_lite.py
+│   │   ├── 🐍 transcript_enrich_speaker.py
+│   │   └── 🐍 transcript_enrich_summaries.py
+│   ├── 📁 typescript
+│   │   └── 📁 search-app
+│   │       ├── 📁 src
+│   │       │   └── 🔷 main.ts
+│   │       ├── 🗒️ package-lock.json
+│   │       ├── 🗒️ package.json
+│   │       └── 🗒️ tsconfig.json
+│   ├── 🗒️ embedding_index_3m.json
+│   └── 📝 README.md
+├── 📁 09-building-image-applications
+│   ├── 📁 dotnet
+│   │   ├── 📄 notebook-azure-openai.dib
+│   │   └── 📄 notebook-azureiopenai.dib
+│   ├── 📁 images
+│   │   ├── 📄 09-lesson-banner.png
+│   │   ├── 📄 generated-image.png
+│   │   ├── 📄 mask.png
+│   │   ├── 📄 startup.png
+│   │   ├── 📄 sunlit_lounge_result.png
+│   │   ├── 📄 sunlit_lounge.png
+│   │   ├── 📄 v1-generated-image.png
+│   │   ├── 📄 v1-low-temp-generated-image.png
+│   │   ├── 📄 v1-temp-generated-image.png
+│   │   ├── 📄 v2-generated-image.png
+│   │   ├── 📄 v2-low-temp-generated-image.png
+│   │   └── 📄 v2-temp-generated-image.png
+│   ├── 📁 python
+│   │   ├── 🐍 aoai-app-variation.py
+│   │   ├── 🐍 aoai-app.py
+│   │   ├── 📄 aoai-assignment.ipynb
+│   │   ├── 🐍 aoai-solution.py
+│   │   ├── 📄 generated-image.png
+│   │   ├── 🐍 oai-app-variation.py
+│   │   ├── 🐍 oai-app.py
+│   │   └── 📄 oai-assignment.ipynb
+│   ├── 📁 typescript
+│   │   └── 📁 image-generation-app
+│   │       ├── 📁 src
+│   │       │   └── 🔷 main.ts
+│   │       ├── 🗒️ package-lock.json
+│   │       ├── 🗒️ package.json
+│   │       └── 🗒️ tsconfig.json
+│   ├── 📝 README.md
+│   └── 📃 requirements.txt
+├── 📁 10-building-low-code-ai-applications
+│   ├── 📁 images
+│   │   ├── 📄 10-lesson-banner.png
+│   │   ├── 📄 ai-builder-models.png
+│   │   ├── 📄 copilot-chat-prompt-dataverse.png
+│   │   ├── 📄 copilot-chat-prompt-powerapps.png
+│   │   ├── 📄 copilot-chat-prompt-powerautomate.png
+│   │   ├── 📄 copilot-dataverse-table-powerapps.png
+│   │   ├── 📄 copilot-dataverse-table.png
+│   │   ├── 📄 copilot-new-column.png
+│   │   ├── 📄 copilot-new-screen.png
+│   │   ├── 📄 create-prompt-gpt.png
+│   │   ├── 📄 describe-new-table.png
+│   │   ├── 📄 powerautomate-add-row.png
+│   │   ├── 📄 powerautomate-remove-actions.png
+│   │   └── 📄 text-generation-works.png
+│   ├── 📝 assignment.md
+│   └── 📝 README.md
+├── 📁 11-integrating-with-function-calling
+│   ├── 📁 images
+│   │   ├── 📄 11-lesson-banner.png
+│   │   ├── 📄 Function-Flow.png
+│   │   └── 📄 LLM-Flow.png
+│   ├── 📁 js-githubmodels
+│   │   ├── 🟨 app.js
+│   │   ├── 🗒️ package-lock.json
+│   │   └── 🗒️ package.json
+│   ├── 📁 python
+│   │   ├── 📄 aoai-assignment.ipynb
+│   │   └── 📄 oai-assignment.ipynb
+│   ├── 📁 typescript
+│   │   └── 📁 function-app
+│   │       ├── 📁 src
+│   │       │   └── 🔷 main.ts
+│   │       ├── 🗒️ package-lock.json
+│   │       ├── 🗒️ package.json
+│   │       └── 🗒️ tsconfig.json
+│   └── 📝 README.md
+├── 📁 12-designing-ux-for-ai-applications
+│   ├── 📁 images
+│   │   ├── 📄 12-lesson-banner.png
+│   │   ├── 📄 bing1.png
+│   │   ├── 📄 bing2.png
+│   │   ├── 📄 explanability-in-ai.png
+│   │   ├── 📄 feedback-loops.png
+│   │   ├── 📄 genai_course_12[88].png
+│   │   ├── 📄 simplified-explanations.png
+│   │   ├── 📄 solving-questions.png
+│   │   └── 📄 uxinai.png
+│   └── 📝 README.md
+├── 📁 13-securing-ai-applications
+│   ├── 📁 images
+│   │   ├── 📄 13-AI-red-team.png
+│   │   └── 📄 13-lesson-banner.png
+│   └── 📝 README.md
+├── 📁 14-the-generative-ai-application-lifecycle
+│   ├── 📁 images
+│   │   ├── 📄 01-llmops-shift.png
+│   │   ├── 📄 02-llmops.png
+│   │   ├── 📄 03-llm-stage-flows.png
+│   │   ├── 📄 04-azure-ai-platform.png
+│   │   ├── 📄 05-llm-azure-ai-prompt.png
+│   │   ├── 📄 06-llm-promptflow.png
+│   │   └── 📄 14-lesson-banner.png
+│   └── 📝 README.md
+├── 📁 15-rag-and-vector-databases
+│   ├── 📁 data
+│   │   ├── 📝 frameworks.md
+│   │   ├── 📝 own_framework.md
+│   │   └── 📝 perceptron.md
+│   ├── 📁 images
+│   │   ├── 📄 15-lesson-banner.png
+│   │   ├── 📄 cat.png
+│   │   ├── 📄 encoder-decode.png
+│   │   └── 📄 how-rag-works.png
+│   ├── 📄 notebook-rag-vector-databases.ipynb
+│   └── 📝 README.md
+├── 📁 16-open-source-models
+│   ├── 📁 images
+│   │   ├── 📄 16-lesson-banner.png
+│   │   ├── 📄 choose-model.png
+│   │   ├── 📄 model-price.png
+│   │   └── 📄 model-quality.png
+│   └── 📝 README.md
+├── 📁 17-ai-agents
+│   ├── 📁 images
+│   │   ├── 📄 17-lesson-banner.png
+│   │   ├── 📄 autogen.png
+│   │   ├── 📄 jarvis.png
+│   │   ├── 📄 langchain-agents.png
+│   │   ├── 📄 taskweaver.png
+│   │   └── 📄 what-agent.png
+│   └── 📝 README.md
+├── 📁 18-fine-tuning
+│   ├── 📁 img
+│   │   ├── 📄 18-fine-tuning-sketchnote.png
+│   │   ├── 📄 18-lesson-banner.png
+│   │   └── 📄 codespaces-secrets.png
+│   ├── 📁 python
+│   │   └── 📁 openai
+│   │       ├── 📁 img
+│   │       │   ├── 📄 fine-tuned-messages-panel.png
+│   │       │   ├── 📄 fine-tuned-metrics-panel.png
+│   │       │   ├── 📄 fine-tuned-model-status.png
+│   │       │   ├── 📄 fine-tuned-playground-compare.png
+│   │       │   └── 📄 fine-tuned-playground-launch.png
+│   │       ├── 📄 oai-assignment.ipynb
+│   │       └── 📄 training-data.jsonl
+│   ├── 📝 README.md
+│   └── 📝 RESOURCES.md
+├── 📁 19-slm
+│   ├── 📁 img
+│   │   ├── 📄 gh1.png
+│   │   ├── 📄 gh2.png
+│   │   ├── 📄 phi3.png
+│   │   └── 📄 slm.png
+│   ├── 📁 python
+│   │   ├── 📄 Phi-3-Vision-Nividia-NIM.ipynb
+│   │   ├── 📄 phi35_moe_demo.ipynb
+│   │   ├── 📄 phi35-instruct-demo.ipynb
+│   │   └── 📄 phi35-vision-demo.ipynb
+│   └── 📝 README.md
+├── 📁 20-mistral
+│   ├── 📁 python
+│   │   └── 📄 githubmodels-assignment.ipynb
+│   └── 📝 README.md
+├── 📁 21-meta
+│   ├── 📁 python
+│   │   ├── 📄 githubmodels-assignment.ipynb
+│   │   └── 📄 sample.jpg
+│   └── 📝 README.md
+├── 📁 presentations
+│   ├── 📄 GenerativeAIBootcamp-Presentation.pdf
+│   └── 📄 GenerativeAIBootcamp-Presentation.pptx
+├── 📝 AGENTS.md
+├── 📝 CODE_OF_CONDUCT.md
+├── 📝 CONTRIBUTING.md
+├── 📝 README.md
+└── 📝 SECURITY.md

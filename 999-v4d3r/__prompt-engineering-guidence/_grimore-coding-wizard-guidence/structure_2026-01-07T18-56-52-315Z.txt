@@ -1,0 +1,41 @@
+📁 _grimore-coding-wizard-guidence
+⏱️  Generated in 2 ms
+──────────────────────────────────────────────────
+├── 📁 Grimoire 2-9
+│   ├── 📝 GPTavern.md
+│   ├── 📝 Grimoire 29.md
+│   ├── 📝 Grimoire.md
+│   ├── 📝 Interludes.md
+│   ├── 📝 Part1.md
+│   ├── 📝 Part2.md
+│   ├── 📝 Part3.md
+│   ├── 📝 Part4_AllLessons.md
+│   ├── 📝 Part5.md
+│   ├── 📝 Part6.md
+│   ├── 📝 Part7.md
+│   ├── 📝 Part8.md
+│   ├── 📝 Part9.md
+│   ├── 📝 PatchNotes.md
+│   ├── 📝 Projects.md
+│   ├── 📝 Readme.md
+│   ├── 📝 RecommendedTools.md
+│   ├── 📝 ReplitDeployInstructions.md
+│   └── 📝 test.md
+├── 📝 000 - Full Base Prompt.md
+├── 📝 GPTavern.md
+├── 📝 Grimoire.md
+├── 📝 Interludes.md
+├── 📝 Part1.md
+├── 📝 Part2.md
+├── 📝 Part3.md
+├── 📝 Part4.md
+├── 📝 Part5.md
+├── 📝 Part6.md
+├── 📝 Part7.md
+├── 📝 Part8.md
+├── 📝 Part9.md
+├── 📝 PatchNotes.md
+├── 📝 Projects.md
+├── 📝 Readme.md
+├── 📝 RecommendedTools.md
+└── 📝 ReplitDeployInstructions.md
