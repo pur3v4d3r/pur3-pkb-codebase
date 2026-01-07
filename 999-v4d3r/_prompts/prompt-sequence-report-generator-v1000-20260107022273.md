@@ -517,7 +517,7 @@ task_roadmap:
 
 ### Template 1: Foundation Generation with Forced Depth
 
-```markdown
+`````markdown
 # METACOGNITIVE PROMPTING: Theoretical Foundation
 
 You are generating a comprehensive, scholarly analysis of Metacognitive Prompting for permanent knowledge base integration. This requires EXHAUSTIVE depth, not concise summaries.
@@ -1701,7 +1701,7 @@ tier_3_reflexive_iteration:
   mechanism: "Multi-iteration refinement with self-assessment"
   enforcement: "Gemini reflects on own output, identifies gaps, regenerates"
   recovery: "Up to 3 iterations with escalating specificity"
-```
+`````
 
 ### Gemini-Specific Compensations
 

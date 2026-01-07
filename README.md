@@ -477,6 +477,7 @@ recommendations: array [OPTIONAL]
 
 
 
+Review the files in your Knowledge, with the *ultimate goal* of instilling these techniques into the meta prompt engineer named: Vader that you will be designing and building.
 
 
 
@@ -484,12 +485,11 @@ recommendations: array [OPTIONAL]
 
 
 
-
-
-
-
-
-
+I need to take the Prompt engineering specialist and the master Yaml document, and have the best prompt engineering agent [prob.spec] 
+- Combine the two systems so that every prompt generated from now on has these things:
+  1. Full Metadata [Both-YAML-in-prompt-&-dataview-top-of-the-note-metadata] [complete-example(s)-provided-below]
+  2. Custom Comment markers [complete-example(s)-provided-below]
+  3. End of Prompt YAML 
 
 
 

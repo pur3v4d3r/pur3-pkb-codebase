@@ -8,6 +8,7 @@
 
 
 
+`````prompt
 
 # Analysis & Design Plan
 
@@ -2196,4 +2197,4 @@ Your `<thinking>` block must show:
      6. Alternative solution preservation
      7. State management across search
 ═══════════════════════════════════════════════════════════════════════════ -->
-````
+`````
