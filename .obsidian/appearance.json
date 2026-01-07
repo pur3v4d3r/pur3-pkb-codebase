@@ -32,11 +32,11 @@
     "square-bracket-glow",
     "___v4d3r-ui-system",
     "00-folder-tree",
-    "__text-rendering-animation-rendering",
     "code-block-fixed",
     "code-block-language-custom",
     "metadata-panel",
-    "metadata-panel-system"
+    "metadata-panel-system",
+    "__text-rendering-animation-rendering"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
@@ -45,7 +45,7 @@
   "showRibbon": true,
   "baseFontSizeAction": false,
   "nativeMenus": false,
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "theme": "obsidian",
   "accentColor": "#ff0000"
 }
