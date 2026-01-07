@@ -16,14 +16,14 @@ modified: 2026-01-07
 
 ## Quick Navigation
 
-| Your Goal | Start Here | Time Investment |
-|-----------|-----------|-----------------|
-| **New to SPES** | [[08-quick-start-guide-202512271150-010]] | 2-3 hours |
-| **Understand Architecture** | [[03-system-architecture-overview-part1-202512271150-004]] | 4-5 hours |
-| **Build Components** | [[07-component-library-reference-202512271150-008]] | 3-4 hours |
-| **Advanced Workflows** | [[15-ADVANCED-WORKFLOW-PATTERNS]] | 3-4 hours |
-| **Production Deployment** | [[prompt-engineering-agent-enhanced-tot-v400-202512271150-015]] | 4-5 hours |
-| **Contribute** | [[16-COMMUNITY-CONTRIBUTION-GUIDE]] | 2 hours |
+| Your Goal                   | Start Here                                                      | Time Investment |
+| --------------------------- | --------------------------------------------------------------- | --------------- |
+| **New to SPES**             | [[08-quick-start-guide-202512271150-010]]                       | 2-3 hours       |
+| **Understand Architecture** | [[03-system-architecture-overview-part1-202512271150-004]]      | 4-5 hours       |
+| **Build Components**        | [[07-component-library-reference-202512271150-008]]             | 3-4 hours       |
+| **Advanced Workflows**      | [[15-ADVANCED-WORKFLOW-PATTERNS]]                               | 3-4 hours       |
+| **Production Deployment**   | [[prompt-engineering-agent-enhanced-tot-v400-202512271150-015]] | 4-5 hours       |
+| **Contribute**              | [[16-COMMUNITY-CONTRIBUTION-GUIDE]]                             | 2 hours         |
 
 ---
 
