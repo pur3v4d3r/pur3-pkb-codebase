@@ -16,8 +16,6 @@
     "_jetbrains-mono-light",
     "callout-icon",
     "pur3v4d3r-ultimate-callout-system",
-    "metadata-panel-system",
-    "metadata-panel",
     "inline-code-system",
     "custom-ordered-list-numbers-(colored)-",
     "custom-horizontal-rules-",
@@ -36,7 +34,9 @@
     "00-folder-tree",
     "__text-rendering-animation-rendering",
     "code-block-fixed",
-    "code-block-language-custom"
+    "code-block-language-custom",
+    "metadata-panel",
+    "metadata-panel-system"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",

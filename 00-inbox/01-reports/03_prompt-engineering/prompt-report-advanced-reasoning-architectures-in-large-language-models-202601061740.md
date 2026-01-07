@@ -106,6 +106,7 @@ try {
 # Advanced Reasoning Architectures in Large Language Models: A Comprehensive Analysis of Claude's Extended Thinking Framework and Prompt-Engineered Reasoning Methodologies
 
 ---
+```yaml
 tags: #llm-reasoning #extended-thinking #reasoning-frameworks #prompt-engineering #cognitive-architecture #academic-report #methodologies
 aliases: [Claude Reasoning Report, Extended Thinking Analysis, LLM Reasoning Frameworks, Advanced Prompting Methodologies]
 status: evergreen
@@ -115,6 +116,7 @@ created: 2025-01-06
 modified: 2025-01-06
 type: synthesis
 version: 1.0.0
+```
 
 
 > [!abstract] Executive Summary
