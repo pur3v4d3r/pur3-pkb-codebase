@@ -1,0 +1,126 @@
+---
+tags: #meta #system #projects #tracking
+aliases: [Active Projects, Work Status, Project Dashboard]
+status: evergreen
+certainty: ^verified
+created: 2025-12-16
+---
+
+# Project Tracker
+
+> [!abstract] Purpose
+> Central registry of ongoing vault projects, system enhancements, and multi-session work. Prevents context loss and enables strategic prioritization.
+
+---
+
+## 🚀 Active Projects
+
+### 1. Memory System Implementation
+**Status**: `In Progress` | **Priority**: `High` | **Started**: 2025-12-16
+
+**Objective**: Establish persistent context across Claude sessions to eliminate session amnesia.
+
+**Components**:
+- [x] Create 00-meta directory structure
+- [x] Build session-memory.md (active context)
+- [x] Build user-preferences.md (workflow patterns)
+- [x] Build vault-map.md (structure tracking)
+- [x] Build project-tracker.md (this file)
+- [ ] Update CLAUDE.md with memory protocols
+- [ ] Test session persistence across restart
+- [ ] Document usage workflow
+
+**Next Actions**:
+1. Integrate memory system into CLAUDE.md system prompt
+2. Establish session start/end protocols
+3. Test multi-session continuity
+
+---
+
+## 📋 Backlog
+
+### Vault Maintenance
+- **Resolve Directory Duplication**: `01-daily-notes/` vs `01_daily-notes/`
+- **Investigate Database Naming**: `000_databsae/` (typo or intentional?)
+- **Separator Standardization**: Decide on hyphen vs underscore convention
+
+### Graph Health
+- **Orphan Detection**: Scan for notes with 0 links
+- **Ghost Link Mapping**: Find `[[broken-links]]` to non-existent notes
+- **MOC Opportunities**: Cluster analysis for 5+ related notes
+
+### Automation
+- **Vault Stats Script**: Auto-update vault-map.md metrics
+- **Session Logger**: Git hooks for automatic session commits
+- **Link Validator**: Pre-commit check for broken references
+
+---
+
+## ✅ Completed Projects
+
+### 2025-12-16
+- **Memory System Foundation**: Created 4-file meta infrastructure
+  - Files: session-memory, user-preferences, vault-map, project-tracker
+  - Location: `00-meta/`
+  - Integration: Graph-based (Option 3 approach)
+
+---
+
+## 🎯 Project Categories
+
+### System Enhancement
+Projects improving vault infrastructure, automation, or AI integration.
+
+### Content Development
+Knowledge expansion, note creation, MOC building.
+
+### Maintenance
+Cleanup, refactoring, link repair, archiving.
+
+### Research
+Investigation tasks, pattern analysis, methodology exploration.
+
+---
+
+## 📊 Project Metrics
+
+| Metric | Current | Target | Status |
+|--------|---------|--------|--------|
+| Active Projects | 1 | 3-5 | ✅ Focused |
+| Backlog Items | 6 | <10 | ✅ Healthy |
+| Completion Rate | N/A | Track over time | 📊 Baseline |
+| Session Continuity | New | 100% | 🔄 Testing |
+
+---
+
+## 🔗 Related
+
+- [[session-memory]] - Current session state
+- [[vault-map]] - Structural overview
+- [[user-preferences]] - Decision context
+
+---
+
+## 📝 Project Template
+
+*Use this template when adding new projects:*
+
+```markdown
+### Project Name
+**Status**: `Not Started|In Progress|Blocked|Completed`
+**Priority**: `Low|Medium|High|Critical`
+**Started**: YYYY-MM-DD
+
+**Objective**: One-sentence goal
+
+**Components**:
+- [ ] Task 1
+- [ ] Task 2
+
+**Next Actions**:
+1. Immediate next step
+```
+
+---
+
+*Last Updated: 2025-12-16 | Active Projects: 1 | Backlog: 6*

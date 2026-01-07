@@ -1,0 +1,250 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET: Inline Code Blocks & Special Elements
+ Category: Typography
+ Purpose: Enhanced inline code styling with glow effects
+ Author: Pur3v4d3r
+ Created: 2025-12-13
+ Version: 1.0.0
+
+ Description:
+ Provides professional styling for inline code blocks with
+ a cyberpunk aesthetic. Features transparent purple background,
+ cyan text, gold glow effects, and click-to-select behavior.
+ Uses JetBrains Mono font for optimal code readability.
+
+ Dependencies: None (self-contained)
+ Standalone: Yes
+
+ Features:
+ - Transparent purple background (#E500004d)
+ - Cyan text color (#E0E0E0ff)
+ - Black border with gold shadow glow
+ - Click-to-select with user-select: all
+ - Enhanced glow effect on hover
+ - JetBrains Mono monospace font
+ - Consistent padding and border-radius
+
+ Notes:
+ Pure CSS cannot copy to clipboard. The 'user-select: all'
+ property makes it easy to select entire code with one click.
+
+ Font Requirements:
+ - JetBrains Mono (recommended)
+ - Falls back to --font-monospace-override or system monospace
+
+ Compatibility: Obsidian 1.5+
+═══════════════════════════════════════════════════════════
+*/
+
+/* ══════════════════════════════════════════════════════════
+   INLINE CODE BLOCKS - Base Styling
+   Applies to both editor and preview mode
+   ══════════════════════════════════════════════════════════ */
+
+.markdown-source-view.mod-cm6 .cm-inline-code,
+.markdown-preview-view .inline-code {
+  /* Background - Transparent purple with depth */
+  background-color: #E500004d !important;     /* 30% opacity purple */
+
+  /* Text - Bright cyan for contrast */
+  color: #E0E0E0ff !important;                /* Cyber cyan */
+
+  /* Border - Black outline */
+  border: 1px solid var(--callout-color);     /* Themed border */
+  border-color: #000000ff !important;         /* Force black */
+  border-width: 1.25px !important;            /* Slightly thicker */
+  border-radius: 4px;                         /* Rounded corners */
+
+  /* Spacing - Minimal padding for inline display */
+  padding: 1.1px 1.1px !important;
+
+  /* Font - Monospace for code */
+  font-family: 'Jetbrains Mono', var(--font-monospace-override), monospace !important;
+  font-weight: 100 !important;                /* Thin weight */
+  font-size: 0.95em !important;               /* Slightly smaller */
+
+  /* Glow effect - Purple shadow */
+  box-shadow: 0 0 6px #E50000ff;              /* Soft purple glow */
+
+  /* Smooth transitions */
+  transition: box-shadow 0.2s ease-in-out !important;
+}
+
+/* ══════════════════════════════════════════════════════════
+   CLICK-TO-SELECT BEHAVIOR
+   Enhanced interaction on hover
+   ══════════════════════════════════════════════════════════ */
+
+.markdown-source-view.mod-cm6 .cm-inline-code:hover,
+.markdown-preview-view .inline-code:hover {
+  cursor: pointer !important;                 /* Pointer cursor */
+  box-shadow: 0 0 12px #E0E0E0ff !important;  /* Bright cyan glow */
+}
+
+/* ══════════════════════════════════════════════════════════
+   FONT SIZE ADJUSTMENTS
+   Different sizes for editor vs preview
+   ══════════════════════════════════════════════════════════ */
+
+/* Editor mode - Slightly smaller */
+.markdown-source-view.mod-cm6 .cm-inline-code {
+  font-size: 0.95em;                          /* 95% of base */
+}
+
+/* Preview mode - Normal size */
+.markdown-preview-view .inline-code {
+  font-size: 1em;                             /* 100% of base */
+}
+
+/* ══════════════════════════════════════════════════════════
+   ACTIVE LINE GRADIENT UNDERLINE
+   Optional enhancement for current editor line
+   ══════════════════════════════════════════════════════════ */
+
+/*
+ * Active line styling with gradient underline
+ * Requires body class 'active-line-on'
+ */
+
+body.active-line-on .markdown-source-view.mod-cm6 .cm-line.cm-active {
+  /* Slightly darker background for contrast */
+  background-color: #181818ff;
+
+  /* Gold gradient underline */
+  background-image: linear-gradient(
+   to right,
+   transparent,                               /* Fade from left */
+   #E50000,                                   /* Imperial gold */
+   transparent                                /* Fade to right */
+  ) !important;
+
+  /* Position at bottom */
+  background-position: 0 100% !important;
+  background-size: 100% 2px !important;       /* 2px height */
+  background-repeat: no-repeat !important;
+
+  /* Remove default box-shadow */
+  box-shadow: none !important;
+}
+
+/* Add padding to prevent text overlap with underline */
+body.active-line-on .markdown-source-view.mod-cm6 .cm-line.cm-active > span {
+  padding-bottom: 4px;
+}
+
+/* ══════════════════════════════════════════════════════════
+   TAGS - Inline Tag Styling
+   Matches overall theme aesthetic
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .tag {
+  background: #1E1E1E !important;             /* Dark background */
+  color: #E50000 !important;                  /* Gold text */
+  border: 1px solid #E50000 !important;       /* Gold border */
+  border-radius: 14px !important;             /* Pill shape */
+  padding: 2px 10px !important;               /* Horizontal padding */
+  font-size: 0.875em !important;              /* Slightly smaller */
+  font-weight: 500 !important;                /* Medium weight */
+  transition: all 0.2s ease !important;       /* Smooth hover */
+}
+
+/* Tag hover state */
+.theme-dark .tag:hover {
+  background: #252525 !important;             /* Slightly lighter */
+  border-color: #E50000 !important;           /* Maintain gold */
+  cursor: pointer !important;                 /* Pointer cursor */
+}
+
+/* Unstyled tags option (disabled by default) */
+body:not(.minimal-unstyled-tags) .tag {
+  /* Keep styled appearance */
+}
+
+/* ══════════════════════════════════════════════════════════
+   METADATA & PROPERTIES
+   YAML frontmatter and property display
+   ══════════════════════════════════════════════════════════ */
+
+/* Metadata container */
+.metadata-container {
+  background: var(--background-secondary) !important;
+  border-radius: 6px !important;
+  padding: 12px !important;
+  margin: 1em 0 !important;
+}
+
+/* Individual property row */
+.metadata-property {
+  display: flex !important;
+  gap: 12px !important;
+  padding: 6px 0 !important;
+  border-bottom: 1px solid var(--background-modifier-border) !important;
+}
+
+/* Property key (label) - Gold */
+.theme-dark .metadata-property-key {
+  color: #E50000 !important;                  /* Imperial gold */
+  font-weight: 600 !important;                /* Bold */
+  min-width: 120px !important;                /* Consistent width */
+}
+
+/* Property value */
+.metadata-property-value {
+  color: #E0E0E0 !important;                  /* Light text */
+}
+
+/* Optional: Hide metadata heading */
+body.metadata-heading-off .metadata-heading {
+  display: none !important;
+}
+
+/* Optional: Hide add property button */
+body.metadata-add-property-off .metadata-add-button {
+  display: none !important;
+}
+
+/* Optional: Show metadata dividers */
+body.metadata-dividers .metadata-property {
+  border-bottom: 1px solid var(--background-modifier-border) !important;
+}
+
+/* ══════════════════════════════════════════════════════════
+   BLOCKQUOTES
+   Enhanced blockquote styling
+   ══════════════════════════════════════════════════════════ */
+
+.theme-dark .markdown-preview-view blockquote {
+  background-color: var(--blockquote-background-color) !important;
+  border-left: 3px solid var(--blockquote-border-color) !important;
+  color: var(--blockquote-color) !important;
+  padding: 12px 16px !important;
+  margin: 1em 0 !important;
+  border-radius: 0 4px 4px 0 !important;      /* Rounded on right only */
+}
+/* ══════════════════════════════════════════════════════════
+   OPTION 6: GLOWING GRADIENT EFFECTS
+   Gradient with drop shadow/glow
+   ══════════════════════════════════════════════════════════ */
+
+/* Glowing gradient H1 */
+
+.theme-dark .markdown-preview-view h1,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-1,
+.theme-dark .cm-header-1,
+.markdown-preview-view h1,
+.cm-header-1,
+h1 {
+  background: linear-gradient(135deg, #E50000 0%, #E50000 50%, #E0E0E0 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  color: transparent !important;
+  text-decoration: none !important;
+  filter: drop-shadow(0 0 8px rgba(229, 0, 0, 0.5)) !important;
+}
+*/
+
+/* ══════════════════════════════════════════════════════════
+   END OF INLINE ELEMENTS
+   ══════════════════════════════════════════════════════════ */

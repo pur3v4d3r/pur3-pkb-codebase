@@ -1,0 +1,8 @@
+{
+  "rules": "node_modules/\nsrc/\n.claude",
+  "ignoredFiles": [],
+  "debug": false,
+  "rulesHistory": [
+    "temp/\n*.tmp\n.DS_Store\nThumbs.db"
+  ]
+}

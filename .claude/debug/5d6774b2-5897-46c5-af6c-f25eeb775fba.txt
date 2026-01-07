@@ -1,0 +1,361 @@
+2025-12-21T10:34:53.400Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (6.1ms)
+2025-12-21T10:34:53.466Z [DEBUG] Watching for changes in setting files D:\10_pur3v4d3r's-vault\.claude\settings.local.json...
+2025-12-21T10:34:53.506Z [DEBUG] Using bash path: "C:\Program Files\Git\bin\bash.exe"
+2025-12-21T10:34:53.517Z [DEBUG] [LSP MANAGER] initializeLspServerManager() called
+2025-12-21T10:34:53.518Z [DEBUG] [LSP MANAGER] Created manager instance, state=pending
+2025-12-21T10:34:53.518Z [DEBUG] [LSP MANAGER] Starting async initialization (generation 1)
+2025-12-21T10:34:53.520Z [DEBUG] LSP server manager initialized successfully
+2025-12-21T10:34:53.522Z [DEBUG] LSP notification handlers registered successfully for all 0 server(s)
+2025-12-21T10:34:53.544Z [DEBUG] Found 0 plugins (0 enabled, 0 disabled)
+2025-12-21T10:34:53.598Z [DEBUG] Stats cache is up to date
+2025-12-21T10:34:53.607Z [DEBUG] Loading skills from directories: managed=C:\ProgramData\ClaudeCode\.claude\skills, user=C:\Users\pur3v4d3rpk\.claude\skills, project=[]
+2025-12-21T10:34:53.618Z [DEBUG] Loaded 0 installed plugins from C:\Users\pur3v4d3rpk\.claude\plugins\installed_plugins.json
+2025-12-21T10:34:53.619Z [DEBUG] Official marketplace auto-install already attempted, skipping
+2025-12-21T10:34:53.650Z [DEBUG] Creating shell snapshot for bash (C:\Program Files\Git\bin\bash.exe)
+2025-12-21T10:34:53.650Z [DEBUG] Looking for shell config file: C:\Users\pur3v4d3rpk\.bashrc
+2025-12-21T10:34:53.650Z [DEBUG] Shell config file not found: C:\Users\pur3v4d3rpk\.bashrc, creating snapshot with Claude Code defaults only
+2025-12-21T10:34:53.650Z [DEBUG] Snapshots directory: C:\Users\pur3v4d3rpk\.claude\shell-snapshots
+2025-12-21T10:34:53.657Z [DEBUG] Creating snapshot at: C:\Users\pur3v4d3rpk\.claude\shell-snapshots\snapshot-bash-1766313293650-yf3g0k.sh
+2025-12-21T10:34:53.657Z [DEBUG] Shell binary exists: true
+2025-12-21T10:34:53.657Z [DEBUG] Execution timeout: 10000ms
+2025-12-21T10:34:53.660Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude\todos\5d6774b2-5897-46c5-af6c-f25eeb775fba-agent-5d6774b2-5897-46c5-af6c-f25eeb775fba.json.tmp.27620.1766313293660
+2025-12-21T10:34:53.665Z [DEBUG] [SLOW OPERATION DETECTED] fs.writeFileSync (5.5ms)
+2025-12-21T10:34:53.665Z [DEBUG] Temp file written successfully, size: 2 bytes
+2025-12-21T10:34:53.665Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude\todos\5d6774b2-5897-46c5-af6c-f25eeb775fba-agent-5d6774b2-5897-46c5-af6c-f25eeb775fba.json.tmp.27620.1766313293660 to C:\Users\pur3v4d3rpk\.claude\todos\5d6774b2-5897-46c5-af6c-f25eeb775fba-agent-5d6774b2-5897-46c5-af6c-f25eeb775fba.json
+2025-12-21T10:34:53.666Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude\todos\5d6774b2-5897-46c5-af6c-f25eeb775fba-agent-5d6774b2-5897-46c5-af6c-f25eeb775fba.json written atomically
+2025-12-21T10:34:53.688Z [DEBUG] getPluginSkills: Processing 0 enabled plugins
+2025-12-21T10:34:53.688Z [DEBUG] Total plugin skills loaded: 0
+2025-12-21T10:34:53.688Z [DEBUG] Total plugin commands loaded: 0
+2025-12-21T10:34:53.688Z [DEBUG] Registered 0 hooks from 0 plugins
+2025-12-21T10:34:53.698Z [DEBUG] Loaded 0 unique skills (managed: 0, user: 0, project: 0, duplicates removed: 0)
+2025-12-21T10:34:53.709Z [DEBUG] getSkills returning: 0 skill dir commands, 0 plugin skills
+2025-12-21T10:34:53.711Z [DEBUG] Total plugin agents loaded: 0
+2025-12-21T10:34:53.776Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313293776
+2025-12-21T10:34:53.776Z [DEBUG] Preserving file permissions: 100666
+2025-12-21T10:34:53.780Z [DEBUG] Temp file written successfully, size: 50476 bytes
+2025-12-21T10:34:53.780Z [DEBUG] Applied original permissions to temp file
+2025-12-21T10:34:53.780Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313293776 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-21T10:34:53.780Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-21T10:34:53.790Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (8.6ms)
+2025-12-21T10:34:53.836Z [DEBUG] Remote settings: No settings found (404)
+2025-12-21T10:34:53.836Z [DEBUG] Programmatic settings change notification for policySettings
+2025-12-21T10:34:53.836Z [DEBUG] Plugin hooks: reloading due to policySettings change
+2025-12-21T10:34:53.838Z [DEBUG] Found 0 plugins (0 enabled, 0 disabled)
+2025-12-21T10:34:53.838Z [DEBUG] Registered 0 hooks from 0 plugins
+2025-12-21T10:34:53.893Z [DEBUG] Git remote URL: https://github.com/pur3v4d3r/10_pur3v4d3r-s-vault.git
+2025-12-21T10:34:53.893Z [DEBUG] Parsed repository: pur3v4d3r/10_pur3v4d3r-s-vault from https://github.com/pur3v4d3r/10_pur3v4d3r-s-vault.git
+2025-12-21T10:34:53.893Z [DEBUG] Parsed repository: pur3v4d3r/10_pur3v4d3r-s-vault from URL: https://github.com/pur3v4d3r/10_pur3v4d3r-s-vault.git
+2025-12-21T10:34:53.894Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313293894
+2025-12-21T10:34:53.894Z [DEBUG] Preserving file permissions: 100666
+2025-12-21T10:34:53.898Z [DEBUG] Temp file written successfully, size: 50510 bytes
+2025-12-21T10:34:53.898Z [DEBUG] Applied original permissions to temp file
+2025-12-21T10:34:53.898Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313293894 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-21T10:34:53.898Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-21T10:34:53.898Z [DEBUG] Added D:\10_pur3v4d3r's-vault to tracked paths for repo pur3v4d3r/10_pur3v4d3r-s-vault
+2025-12-21T10:34:53.905Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (6.1ms)
+2025-12-21T10:34:53.914Z [DEBUG] Shell snapshot created successfully (289 bytes)
+2025-12-21T10:34:54.217Z [DEBUG] Ripgrep first use test: PASSED (mode=builtin, path=C:\Users\pur3v4d3rpk\.local\bin\claude.exe)
+2025-12-21T10:34:59.647Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313299647
+2025-12-21T10:34:59.648Z [DEBUG] Preserving file permissions: 100666
+2025-12-21T10:34:59.653Z [DEBUG] Temp file written successfully, size: 50929 bytes
+2025-12-21T10:34:59.653Z [DEBUG] Applied original permissions to temp file
+2025-12-21T10:34:59.653Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313299647 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-21T10:34:59.653Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-21T10:34:59.661Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (5.3ms)
+2025-12-21T10:34:59.838Z [DEBUG] Initialized versioned plugins system with 0 plugins
+2025-12-21T10:34:59.841Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313299841
+2025-12-21T10:34:59.841Z [DEBUG] Preserving file permissions: 100666
+2025-12-21T10:34:59.845Z [DEBUG] Temp file written successfully, size: 50929 bytes
+2025-12-21T10:34:59.845Z [DEBUG] Applied original permissions to temp file
+2025-12-21T10:34:59.845Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313299841 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-21T10:34:59.845Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-21T10:34:59.858Z [DEBUG] Getting matching hook commands for SessionStart with query: startup
+2025-12-21T10:34:59.858Z [DEBUG] Found 0 hook matchers in settings
+2025-12-21T10:34:59.858Z [DEBUG] Matched 0 unique hooks for query "startup" (0 before deduplication)
+2025-12-21T10:34:59.880Z [DEBUG] Summarizing all 73 messages (~12889 tokens)
+2025-12-21T10:34:59.910Z [DEBUG] Metrics opt-out API response: enabled=true, vcsLinking=false
+2025-12-21T10:34:59.932Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313299932
+2025-12-21T10:34:59.932Z [DEBUG] Preserving file permissions: 100666
+2025-12-21T10:34:59.935Z [DEBUG] Temp file written successfully, size: 50856 bytes
+2025-12-21T10:34:59.935Z [DEBUG] Applied original permissions to temp file
+2025-12-21T10:34:59.935Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313299932 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-21T10:34:59.935Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-21T10:34:59.943Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (7.7ms)
+2025-12-21T10:34:59.946Z [DEBUG] performStartupChecks called
+2025-12-21T10:34:59.946Z [DEBUG] Starting background plugin installations
+2025-12-21T10:34:59.946Z [DEBUG] performBackgroundPluginInstallations called
+2025-12-21T10:34:59.957Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (10.1ms)
+2025-12-21T10:34:59.992Z [DEBUG] AutoUpdaterWrapper: Installation type: native
+2025-12-21T10:35:00.000Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (5.6ms)
+2025-12-21T10:35:00.005Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313300005
+2025-12-21T10:35:00.005Z [DEBUG] Preserving file permissions: 100666
+2025-12-21T10:35:00.011Z [DEBUG] [SLOW OPERATION DETECTED] fs.writeFileSync (5.7ms)
+2025-12-21T10:35:00.011Z [DEBUG] Temp file written successfully, size: 50929 bytes
+2025-12-21T10:35:00.011Z [DEBUG] Applied original permissions to temp file
+2025-12-21T10:35:00.011Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313300005 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-21T10:35:00.011Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-21T10:35:00.022Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (10.9ms)
+2025-12-21T10:35:00.030Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (7.2ms)
+2025-12-21T10:35:00.032Z [DEBUG] Setting installation status: 0 marketplaces, 0 installable plugins, 0 uninstallable plugins
+2025-12-21T10:35:00.038Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (5.9ms)
+2025-12-21T10:35:00.045Z [DEBUG] Loaded plugins - Enabled: 0, Disabled: 0, Commands: 0, Agents: 0, Errors: 0
+2025-12-21T10:35:00.052Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (6.6ms)
+2025-12-21T10:35:00.068Z [DEBUG] [SLOW OPERATION DETECTED] execSyncWithDefaults (7.6ms): powershell.exe -NoProfile -Command "(Get-CimInstance Win32_Process -Filter \"ProcessId=7384\").Paren
+2025-12-21T10:35:00.120Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313300120
+2025-12-21T10:35:00.120Z [DEBUG] Preserving file permissions: 100666
+2025-12-21T10:35:00.124Z [DEBUG] Temp file written successfully, size: 51110 bytes
+2025-12-21T10:35:00.124Z [DEBUG] Applied original permissions to temp file
+2025-12-21T10:35:00.124Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313300120 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-21T10:35:00.124Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-21T10:35:00.135Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (10.5ms)
+2025-12-21T10:35:00.257Z [DEBUG] Getting matching hook commands for SubagentStart with query: Explore
+2025-12-21T10:35:00.257Z [DEBUG] Found 0 hook matchers in settings
+2025-12-21T10:35:00.257Z [DEBUG] Matched 0 unique hooks for query "Explore" (0 before deduplication)
+2025-12-21T10:35:00.257Z [DEBUG] Getting matching hook commands for SubagentStart with query: Plan
+2025-12-21T10:35:00.257Z [DEBUG] Found 0 hook matchers in settings
+2025-12-21T10:35:00.257Z [DEBUG] Matched 0 unique hooks for query "Plan" (0 before deduplication)
+2025-12-21T10:35:00.274Z [DEBUG] Skills and commands included in Skill tool:
+2025-12-21T10:35:00.274Z [DEBUG] Slash commands included in SlashCommand tool:
+2025-12-21T10:35:00.385Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:00.450Z [DEBUG] Summarizing all 108 messages (~17466 tokens)
+2025-12-21T10:35:00.960Z [DEBUG] [SLOW OPERATION DETECTED] execSyncWithDefaults (367.0ms): powershell.exe -NoProfile -Command "(Get-CimInstance Win32_Process -Filter \"ProcessId=7384\").Paren
+2025-12-21T10:35:01.233Z [DEBUG] [SLOW OPERATION DETECTED] execSyncWithDefaults (273.4ms): powershell.exe -NoProfile -Command "(Get-CimInstance Win32_Process -Filter \"ProcessId=31148\").Pare
+2025-12-21T10:35:01.239Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:01.242Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:01.251Z [DEBUG] MCP server "ide": Starting connection with timeout of 30000ms
+2025-12-21T10:35:01.259Z [DEBUG] Summarizing all 36 messages (~19742 tokens)
+2025-12-21T10:35:01.282Z [DEBUG] MCP server "ide": Successfully connected to ws-ide server in 34ms
+2025-12-21T10:35:01.282Z [DEBUG] MCP server "ide": Connection established with capabilities: {"hasTools":true,"hasPrompts":false,"hasResources":false,"serverVersion":{"name":"Claude Code VSCode MCP","version":"2.0.75"}}
+2025-12-21T10:35:01.656Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:01.937Z [DEBUG] Summarizing all 58 messages (~28355 tokens)
+2025-12-21T10:35:02.347Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:02.593Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.1ms)
+2025-12-21T10:35:02.604Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.0ms)
+2025-12-21T10:35:02.616Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.8ms)
+2025-12-21T10:35:02.624Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.7ms)
+2025-12-21T10:35:02.631Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.4ms)
+2025-12-21T10:35:02.636Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.2ms)
+2025-12-21T10:35:02.645Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.1ms)
+2025-12-21T10:35:02.651Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.6ms)
+2025-12-21T10:35:02.661Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (9.5ms)
+2025-12-21T10:35:02.672Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (10.6ms)
+2025-12-21T10:35:02.679Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.3ms)
+2025-12-21T10:35:02.691Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (11.2ms)
+2025-12-21T10:35:02.691Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:02.700Z [DEBUG] Summarizing all 32 messages (~48933 tokens)
+2025-12-21T10:35:03.188Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:03.260Z [DEBUG] Summarizing all 116 messages (~119089 tokens)
+2025-12-21T10:35:03.757Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:03.968Z [DEBUG] Summarizing all 63 messages (~62036 tokens)
+2025-12-21T10:35:04.677Z [DEBUG] Getting matching hook commands for SubagentStop with query: undefined
+2025-12-21T10:35:04.677Z [DEBUG] Found 0 hook matchers in settings
+2025-12-21T10:35:04.677Z [DEBUG] Matched 0 unique hooks for query "no match query" (0 before deduplication)
+2025-12-21T10:35:04.779Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:05.029Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (10.8ms)
+2025-12-21T10:35:05.036Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.8ms)
+2025-12-21T10:35:05.042Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.8ms)
+2025-12-21T10:35:05.048Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.0ms)
+2025-12-21T10:35:05.054Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.6ms)
+2025-12-21T10:35:05.060Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.6ms)
+2025-12-21T10:35:05.066Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.7ms)
+2025-12-21T10:35:05.073Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.9ms)
+2025-12-21T10:35:05.080Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.6ms)
+2025-12-21T10:35:05.086Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.8ms)
+2025-12-21T10:35:05.092Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.7ms)
+2025-12-21T10:35:05.099Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.9ms)
+2025-12-21T10:35:05.106Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.3ms)
+2025-12-21T10:35:05.115Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.3ms)
+2025-12-21T10:35:05.121Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.4ms)
+2025-12-21T10:35:05.131Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.7ms)
+2025-12-21T10:35:05.139Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.4ms)
+2025-12-21T10:35:05.148Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.7ms)
+2025-12-21T10:35:05.154Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.4ms)
+2025-12-21T10:35:05.155Z [DEBUG] Summarizing all 15 messages (~7853 tokens)
+2025-12-21T10:35:05.714Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:05.955Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (10.9ms)
+2025-12-21T10:35:05.961Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.4ms)
+2025-12-21T10:35:05.972Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.3ms)
+2025-12-21T10:35:05.973Z [DEBUG] Summarizing all 12 messages (~8081 tokens)
+2025-12-21T10:35:06.394Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:06.582Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.6ms)
+2025-12-21T10:35:06.588Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.4ms)
+2025-12-21T10:35:06.603Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.1ms)
+2025-12-21T10:35:06.613Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.1ms)
+2025-12-21T10:35:06.619Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.6ms)
+2025-12-21T10:35:06.624Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.0ms)
+2025-12-21T10:35:06.632Z [DEBUG] Summarizing all 164 messages (~124625 tokens)
+2025-12-21T10:35:07.074Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:07.456Z [DEBUG] Summarizing all 23 messages (~58805 tokens)
+2025-12-21T10:35:07.998Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:08.194Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.6ms)
+2025-12-21T10:35:08.202Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.6ms)
+2025-12-21T10:35:08.208Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.5ms)
+2025-12-21T10:35:08.214Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.3ms)
+2025-12-21T10:35:08.220Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.2ms)
+2025-12-21T10:35:08.228Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.6ms)
+2025-12-21T10:35:08.234Z [DEBUG] Summarizing all 37 messages (~44130 tokens)
+2025-12-21T10:35:08.710Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:09.048Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.5ms)
+2025-12-21T10:35:09.055Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.1ms)
+2025-12-21T10:35:09.062Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.4ms)
+2025-12-21T10:35:09.072Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.1ms)
+2025-12-21T10:35:09.077Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.5ms)
+2025-12-21T10:35:09.084Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.0ms)
+2025-12-21T10:35:09.097Z [DEBUG] Summarizing all 101 messages (~127670 tokens)
+2025-12-21T10:35:10.044Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:10.371Z [DEBUG] Summarizing all 103 messages (~127134 tokens)
+2025-12-21T10:35:10.892Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:11.220Z [DEBUG] Summarizing all 56 messages (~92983 tokens)
+2025-12-21T10:35:12.106Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:12.373Z [DEBUG] Summarizing all 148 messages (~100202 tokens)
+2025-12-21T10:35:12.828Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:13.135Z [DEBUG] Summarizing all 92 messages (~67251 tokens)
+2025-12-21T10:35:13.885Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:14.240Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (15.1ms)
+2025-12-21T10:35:14.250Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (10.4ms)
+2025-12-21T10:35:14.256Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.3ms)
+2025-12-21T10:35:14.263Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.5ms)
+2025-12-21T10:35:14.276Z [DEBUG] Summarizing all 127 messages (~118401 tokens)
+2025-12-21T10:35:14.823Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:15.116Z [DEBUG] FileHistory: Added snapshot for 266ba9bb-5d6d-4d78-afc9-0620c6f6054a, tracking 0 files
+2025-12-21T10:35:15.119Z [DEBUG] UserCommandMessage rendering: "model" (args: "none")
+2025-12-21T10:35:15.119Z [DEBUG] isSkillFormat: false, prefix: "/"
+2025-12-21T10:35:15.132Z [DEBUG] AutoUpdaterWrapper: Installation type: native
+2025-12-21T10:35:15.149Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313315149
+2025-12-21T10:35:15.149Z [DEBUG] Preserving file permissions: 100666
+2025-12-21T10:35:15.155Z [DEBUG] [SLOW OPERATION DETECTED] fs.writeFileSync (6.1ms)
+2025-12-21T10:35:15.155Z [DEBUG] Temp file written successfully, size: 51134 bytes
+2025-12-21T10:35:15.155Z [DEBUG] Applied original permissions to temp file
+2025-12-21T10:35:15.155Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313315149 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-21T10:35:15.155Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-21T10:35:15.162Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (7.1ms)
+2025-12-21T10:35:15.171Z [DEBUG] Summarizing all 57 messages (~46954 tokens)
+2025-12-21T10:35:15.375Z [DEBUG] Checking for native installer update to version 2.0.75
+2025-12-21T10:35:15.378Z [DEBUG] Downloading native installer version 2.0.75
+2025-12-21T10:35:15.677Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:15.915Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (10.5ms)
+2025-12-21T10:35:15.922Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.7ms)
+2025-12-21T10:35:15.928Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.1ms)
+2025-12-21T10:35:15.934Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.0ms)
+2025-12-21T10:35:15.938Z [DEBUG] Summarizing all 57 messages (~38587 tokens)
+2025-12-21T10:35:16.370Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:16.611Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.7ms)
+2025-12-21T10:35:16.619Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.6ms)
+2025-12-21T10:35:16.637Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.5ms)
+2025-12-21T10:35:16.653Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.7ms)
+2025-12-21T10:35:16.660Z [DEBUG] Summarizing all 111 messages (~67022 tokens)
+2025-12-21T10:35:17.189Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:17.406Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.9ms)
+2025-12-21T10:35:17.413Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.6ms)
+2025-12-21T10:35:17.419Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.1ms)
+2025-12-21T10:35:17.427Z [DEBUG] Summarizing all 53 messages (~100304 tokens)
+2025-12-21T10:35:17.853Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:17.973Z [DEBUG] LSP Diagnostics: getLSPDiagnosticAttachments called
+2025-12-21T10:35:17.973Z [DEBUG] LSP Diagnostics: Checking registry - 0 pending
+2025-12-21T10:35:17.973Z [DEBUG] Hooks: Found 0 total hooks in registry
+2025-12-21T10:35:17.973Z [DEBUG] Hooks: checkForNewResponses returning 0 responses
+2025-12-21T10:35:18.120Z [DEBUG] Getting matching hook commands for UserPromptSubmit with query: undefined
+2025-12-21T10:35:18.120Z [DEBUG] Found 0 hook matchers in settings
+2025-12-21T10:35:18.120Z [DEBUG] Matched 0 unique hooks for query "no match query" (0 before deduplication)
+2025-12-21T10:35:18.120Z [DEBUG] FileHistory: Making snapshot for message 1c209ef1-2b5a-4fd8-a69e-6e816a05b48b
+2025-12-21T10:35:18.120Z [DEBUG] FileHistory: Added snapshot for 1c209ef1-2b5a-4fd8-a69e-6e816a05b48b, tracking 0 files
+2025-12-21T10:35:18.136Z [DEBUG] MCP server "ide": Calling MCP tool: closeAllDiffTabs
+2025-12-21T10:35:18.170Z [DEBUG] Total plugin output styles loaded: 0
+2025-12-21T10:35:18.190Z [DEBUG] MCP server "ide": Tool 'closeAllDiffTabs' completed successfully in 54ms
+2025-12-21T10:35:18.227Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.4ms)
+2025-12-21T10:35:18.233Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.5ms)
+2025-12-21T10:35:18.239Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.0ms)
+2025-12-21T10:35:18.256Z [DEBUG] Summarizing all 75 messages (~53634 tokens)
+2025-12-21T10:35:18.660Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:18.716Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:19.177Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.6ms)
+2025-12-21T10:35:19.188Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.7ms)
+2025-12-21T10:35:19.193Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.1ms)
+2025-12-21T10:35:19.194Z [DEBUG] Summarizing all 59 messages (~16610 tokens)
+2025-12-21T10:35:20.641Z [DEBUG] [SLOW OPERATION DETECTED] fs.copyFileSync (50.3ms)
+2025-12-21T10:35:20.690Z [DEBUG] [SLOW OPERATION DETECTED] fs.copyFileSync (47.5ms)
+2025-12-21T10:35:20.740Z [DEBUG] Successfully updated to version 2.0.75
+2025-12-21T10:35:20.754Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:20.766Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.7ms)
+2025-12-21T10:35:20.771Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.2ms)
+2025-12-21T10:35:20.776Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.0ms)
+2025-12-21T10:35:20.821Z [DEBUG] Summarizing all 138 messages (~56380 tokens)
+2025-12-21T10:35:20.879Z [DEBUG] Streaming aborted by user: Request was aborted.
+2025-12-21T10:35:20.879Z [ERROR] Error in non-streaming fallback: Request was aborted.
+2025-12-21T10:35:20.880Z [ERROR] Error: Error: Request was aborted.
+    at makeRequest (B:/~BUN/root/claude.exe:746:3939)
+    at processTicksAndRejections (native:7:39)
+2025-12-21T10:35:20.920Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313320920
+2025-12-21T10:35:20.921Z [DEBUG] Preserving file permissions: 100666
+2025-12-21T10:35:20.924Z [DEBUG] Temp file written successfully, size: 51156 bytes
+2025-12-21T10:35:20.924Z [DEBUG] Applied original permissions to temp file
+2025-12-21T10:35:20.924Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313320920 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-21T10:35:20.924Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-21T10:35:20.936Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (11.7ms)
+2025-12-21T10:35:20.941Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313320941
+2025-12-21T10:35:20.941Z [DEBUG] Preserving file permissions: 100666
+2025-12-21T10:35:20.947Z [DEBUG] [SLOW OPERATION DETECTED] fs.writeFileSync (6.2ms)
+2025-12-21T10:35:20.947Z [DEBUG] Temp file written successfully, size: 51183 bytes
+2025-12-21T10:35:20.947Z [DEBUG] Applied original permissions to temp file
+2025-12-21T10:35:20.947Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313320941 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-21T10:35:20.947Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-21T10:35:20.954Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (6.1ms)
+2025-12-21T10:35:20.995Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313320995
+2025-12-21T10:35:20.995Z [DEBUG] Preserving file permissions: 100666
+2025-12-21T10:35:20.999Z [DEBUG] Temp file written successfully, size: 51206 bytes
+2025-12-21T10:35:20.999Z [DEBUG] Applied original permissions to temp file
+2025-12-21T10:35:20.999Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.27620.1766313320995 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-21T10:35:20.999Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-21T10:35:21.010Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (10.8ms)
+2025-12-21T10:35:21.266Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:21.485Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (9.7ms)
+2025-12-21T10:35:21.496Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.3ms)
+2025-12-21T10:35:21.502Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.4ms)
+2025-12-21T10:35:21.510Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.6ms)
+2025-12-21T10:35:21.517Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.4ms)
+2025-12-21T10:35:21.523Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.1ms)
+2025-12-21T10:35:21.528Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.2ms)
+2025-12-21T10:35:21.530Z [DEBUG] Summarizing all 3 messages (~0 tokens)
+2025-12-21T10:35:21.958Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:22.211Z [DEBUG] Summarizing all 65 messages (~12911 tokens)
+2025-12-21T10:35:22.628Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:22.887Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.1ms)
+2025-12-21T10:35:22.893Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.0ms)
+2025-12-21T10:35:22.900Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.3ms)
+2025-12-21T10:35:22.906Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.1ms)
+2025-12-21T10:35:22.912Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.0ms)
+2025-12-21T10:35:22.917Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.6ms)
+2025-12-21T10:35:22.926Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.4ms)
+2025-12-21T10:35:22.933Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.7ms)
+2025-12-21T10:35:22.939Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.7ms)
+2025-12-21T10:35:22.945Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.6ms)
+2025-12-21T10:35:22.951Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.0ms)
+2025-12-21T10:35:22.966Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.7ms)
+2025-12-21T10:35:22.967Z [DEBUG] Summarizing all 29 messages (~7510 tokens)
+2025-12-21T10:35:24.658Z [DEBUG] CDN dark read succeeded for 2.0.75
+2025-12-21T10:35:24.667Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:24.677Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.2ms)
+2025-12-21T10:35:24.685Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.7ms)
+2025-12-21T10:35:24.692Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.9ms)
+2025-12-21T10:35:24.699Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (7.2ms)
+2025-12-21T10:35:24.705Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.5ms)
+2025-12-21T10:35:24.713Z [DEBUG] Summarizing all 43 messages (~132569 tokens)
+2025-12-21T10:35:25.342Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:25.814Z [DEBUG] Summarizing all 37 messages (~57713 tokens)
+2025-12-21T10:35:26.254Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:26.525Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (11.2ms)
+2025-12-21T10:35:26.531Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.5ms)
+2025-12-21T10:35:26.541Z [DEBUG] Summarizing all 21 messages (~10125 tokens)
+2025-12-21T10:35:27.323Z [DEBUG] Stream started - received first chunk
+2025-12-21T10:35:27.667Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (25.8ms)
+2025-12-21T10:35:27.677Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (9.2ms)
+2025-12-21T10:35:27.683Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (6.4ms)
+2025-12-21T10:35:27.693Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (9.3ms)
+2025-12-21T10:35:27.702Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (9.6ms)
+2025-12-21T10:35:27.712Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (9.4ms)
+2025-12-21T10:35:27.724Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (8.7ms)
+2025-12-21T10:35:27.730Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.6ms)
+2025-12-21T10:35:27.735Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.5ms)
+2025-12-21T10:35:27.741Z [DEBUG] [SLOW OPERATION DETECTED] fs.readSync (5.9ms)
+2025-12-21T10:35:27.743Z [DEBUG] Summarizing all 24 messages (~31993 tokens)
+2025-12-21T10:35:28.210Z [DEBUG] Stream started - received first chunk

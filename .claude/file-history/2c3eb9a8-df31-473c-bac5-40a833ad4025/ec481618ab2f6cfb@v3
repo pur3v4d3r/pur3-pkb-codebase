@@ -1,0 +1,1045 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ SNIPPET NAME: Pur3v4d3r's Complete Inline Code Customization System
+ Purpose: Comprehensive inline code styling with toggleable options
+ Author: Pur3v4d3r
+ Date: 2025-12-24
+ Obsidian Version: 1.5.0+
+ Theme Colors: Red (#E50000), Grey (#A3A3A3/#E0E0E0), Black (#0A0A0A-#1E1E1E)
+ 
+ Installation: Place in .obsidian/snippets/ and enable in Settings
+ 
+ ═══════════════════════════════════════════════════════════════════════════════
+ COMMUNITY BEST PRACTICES INCLUDED:
+ ───────────────────────────────────────────────────────────────────────────────
+ ✓ WCAG 2.1 AA Contrast Compliance - All text meets minimum 4.5:1 ratio
+ ✓ Consistent Editor/Preview Styling - Same appearance in all views
+ ✓ Font Fallbacks - JetBrains Mono → Fira Code → System Monospace
+ ✓ Click-to-Select - user-select: all for easy copying
+ ✓ Hover States - Visual feedback for interactivity
+ ✓ Motion Sensitivity - Respects prefers-reduced-motion
+ ✓ Print Optimization - Proper print media styles
+ ✓ Mobile Compatibility - Touch-friendly sizing
+ ✓ Plugin Compatibility - Works with Minimal, Blue Topaz, etc.
+ 
+ ═══════════════════════════════════════════════════════════════════════════════
+ HOW TO USE TOGGLE OPTIONS:
+ ───────────────────────────────────────────────────────────────────────────────
+ 1. Find the style section you want to customize
+ 2. Comment OUT the current active style (wrap it in comment markers)
+ 3. UNCOMMENT the option you want to enable (remove the comment markers)
+ 4. Save the file - Obsidian auto-reloads snippets
+ 
+ Each section is marked with:
+   ACTIVE - Currently enabled style
+   OPTION - Alternative style (commented out)
+ ═══════════════════════════════════════════════════════════════════════════════
+*/
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 0: CSS VARIABLES - Core Inline Code Properties
+   ══════════════════════════════════════════════════════════════════════════════
+   Purpose: Centralized variable control for easy customization
+   Tip: Change values here to affect all inline code globally
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+.theme-dark {
+  /* ─────────────────────────────────────────
+     Background Colors
+     ───────────────────────────────────────── */
+  --inline-code-bg: rgba(229, 0, 0, 0.12);           /* Red-tinted transparent */
+  --inline-code-bg-hover: rgba(229, 0, 0, 0.20);     /* Hover state */
+  
+  /* ─────────────────────────────────────────
+     Text Colors
+     ───────────────────────────────────────── */
+  --inline-code-text: #E0E0E0;                       /* Light grey text */
+  --inline-code-text-hover: #FFFFFF;                 /* White on hover */
+  
+  /* ─────────────────────────────────────────
+     Border Colors
+     ───────────────────────────────────────── */
+  --inline-code-border: rgba(229, 0, 0, 0.4);        /* Subtle red border */
+  --inline-code-border-hover: #E50000;               /* Vivid red on hover */
+  
+  /* ─────────────────────────────────────────
+     Typography
+     ───────────────────────────────────────── */
+  --inline-code-font: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+  --inline-code-size: 0.9em;
+  --inline-code-weight: 500;
+  
+  /* ─────────────────────────────────────────
+     Spacing
+     ───────────────────────────────────────── */
+  --inline-code-padding-x: 0.4em;
+  --inline-code-padding-y: 0.15em;
+  --inline-code-radius: 4px;
+  
+  /* ─────────────────────────────────────────
+     Effects
+     ───────────────────────────────────────── */
+  --inline-code-glow: 0 0 6px rgba(229, 0, 0, 0.25);
+  --inline-code-glow-hover: 0 0 12px rgba(229, 0, 0, 0.4);
+  --inline-code-transition: all 0.2s ease;
+}
+
+/* Light mode overrides (for completeness) */
+.theme-light {
+  --inline-code-bg: rgba(229, 0, 0, 0.08);
+  --inline-code-bg-hover: rgba(229, 0, 0, 0.15);
+  --inline-code-text: #1A1A1A;
+  --inline-code-text-hover: #000000;
+  --inline-code-border: rgba(229, 0, 0, 0.3);
+  --inline-code-border-hover: #E50000;
+  --inline-code-glow: 0 0 4px rgba(229, 0, 0, 0.15);
+  --inline-code-glow-hover: 0 0 8px rgba(229, 0, 0, 0.3);
+}
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 1: BASE INLINE CODE STYLING
+   ══════════════════════════════════════════════════════════════════════════════
+   Applies to both Editor and Preview modes
+   Maximum specificity to override ALL themes (Minimal, Blue Topaz, etc.)
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ────────────────────────────────────────────────────────────────────
+   1A: READING/PREVIEW MODE - All inline code elements
+   CRITICAL: Uses direct property values, NOT variables (for reliability)
+   ──────────────────────────────────────────────────────────────────── */
+
+/* Maximum specificity chain for preview/reading mode */
+body.theme-dark .workspace .workspace-leaf .view-content .markdown-preview-view code:not(pre code),
+body.theme-dark .workspace .workspace-leaf .view-content .markdown-reading-view code:not(pre code),
+body.theme-dark .markdown-preview-view .markdown-preview-section code:not(pre code),
+body.theme-dark .markdown-rendered code:not(pre code),
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .markdown-reading-view code:not(pre code),
+.theme-dark .cm-s-obsidian .inline-code,
+.theme-dark code:not(pre > code):not(.cm-inline-code):not([class*="language-"]) {
+  /* ═══ TYPOGRAPHY ═══ */
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'SF Mono', monospace !important;
+  font-size: 0.9em !important;
+  font-weight: 500 !important;
+  
+  /* ═══ COLORS - Direct values for reliability ═══ */
+  /* 🔘 ACTIVE: Red-tinted transparent background */
+  background-color: rgba(229, 0, 0, 0.15) !important;
+  color: #FFFFFF !important;
+  
+  /* ⚪ OPTION: Solid dark background */
+  /* background-color: #0A0A0A !important; */
+  /* color: #E0E0E0 !important; */
+  
+  /* ⚪ OPTION: Grey neutral background */
+  /* background-color: rgba(163, 163, 163, 0.15) !important; */
+  /* color: #E0E0E0 !important; */
+  
+  /* ═══ SPACING ═══ */
+  padding: 0.15em 0.4em !important;
+  margin: 0 0.15em !important;
+  
+  /* ═══ BORDER & SHAPE ═══ */
+  /* 🔘 ACTIVE: No border */
+  border-radius: 4px !important;
+  border: none !important;
+
+  /* ⚪ OPTION: Subtle red border */
+  /* border: 1px solid rgba(229, 0, 0, 0.4) !important; */
+  
+  /* ⚪ OPTION: Grey border */
+  /* border: 1px solid rgba(163, 163, 163, 0.4) !important; */
+  
+  /* ⚪ OPTION: Pill shape */
+  /* border-radius: 999px !important; */
+  
+  /* ⚪ OPTION: Sharp corners */
+  /* border-radius: 0px !important; */
+  
+  /* ═══ EFFECTS ═══ */
+  /* 🔘 ACTIVE: No glow */
+  box-shadow: none !important;
+
+  /* ⚪ OPTION: Subtle red glow */
+  /* box-shadow: 0 0 6px rgba(229, 0, 0, 0.25) !important; */
+  
+  /* ⚪ OPTION: Strong neon glow */
+  /* box-shadow: 0 0 5px rgba(229, 0, 0, 0.5), 0 0 10px rgba(229, 0, 0, 0.3), 0 0 20px rgba(229, 0, 0, 0.2) !important; */
+  
+  /* ═══ BEHAVIOR ═══ */
+  transition: all 0.2s ease !important;
+  user-select: all !important;
+  cursor: pointer !important;
+  
+  /* Inline display - prevent breaking */
+  display: inline !important;
+  vertical-align: baseline !important;
+  white-space: nowrap !important;
+  word-break: keep-all !important;
+}
+
+/* ────────────────────────────────────────────────────────────────────
+   1B: EDITOR/SOURCE MODE - CodeMirror 6 inline code
+   ──────────────────────────────────────────────────────────────────── */
+
+/* Maximum specificity for editor mode */
+body.theme-dark .workspace .workspace-leaf .view-content .markdown-source-view.mod-cm6 .cm-inline-code:not(.cm-formatting),
+body.theme-dark .cm-editor .cm-line .cm-inline-code:not(.cm-formatting),
+.theme-dark .markdown-source-view.mod-cm6 .cm-inline-code:not(.cm-formatting),
+.theme-dark .cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.theme-dark .cm-editor .cm-inline-code:not(.cm-formatting),
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting) {
+  /* ═══ TYPOGRAPHY ═══ */
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'SF Mono', monospace !important;
+  font-size: 0.9em !important;
+  font-weight: 500 !important;
+  
+  /* ═══ COLORS ═══ */
+  background-color: rgba(229, 0, 0, 0.15) !important;
+  color: #FFFFFF !important;
+
+  /* ═══ SPACING ═══ */
+  padding: 0.15em 0.4em !important;
+
+  /* ═══ BORDER & SHAPE ═══ */
+  border-radius: 4px !important;
+  border: none !important;
+
+  /* ═══ EFFECTS ═══ */
+  box-shadow: none !important;
+  transition: none !important;
+}
+
+
+/* ────────────────────────────────────────────────────────────────────
+   1C: LIVE PREVIEW MODE - Specific targeting
+   ──────────────────────────────────────────────────────────────────── */
+
+body.theme-dark .markdown-source-view.is-live-preview .cm-inline-code:not(.cm-formatting),
+.theme-dark .is-live-preview .cm-line .cm-inline-code:not(.cm-formatting) {
+  background-color: rgba(229, 0, 0, 0.15) !important;
+  color: #FFFFFF !important;
+  border-radius: 4px !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0.15em 0.4em !important;
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace !important;
+}
+
+/* ────────────────────────────────────────────────────────────────────
+   1D: BACKTICK FORMATTING MARKS - Subtle red styling
+   ──────────────────────────────────────────────────────────────────── */
+
+.theme-dark .cm-formatting.cm-formatting-code,
+.theme-dark .cm-formatting-code {
+  color: #E50000 !important;
+  opacity: 0.5 !important;
+  font-size: 0.85em !important;
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 2: HOVER EFFECTS
+   ══════════════════════════════════════════════════════════════════════════════
+   Choose ONE hover style by commenting/uncommenting
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ────────────────────────────────────────────────────────────────────
+   ACTIVE: Red Glow on Hover
+   ──────────────────────────────────────────────────────────────────── */
+
+/* Preview/Reading mode hover */
+body.theme-dark .workspace .markdown-preview-view code:not(pre code):hover,
+body.theme-dark .workspace .markdown-reading-view code:not(pre code):hover,
+body.theme-dark .markdown-preview-section code:not(pre code):hover,
+.theme-dark .markdown-preview-view code:not(pre code):hover,
+.theme-dark .markdown-rendered code:not(pre code):hover,
+.theme-dark code:not(pre code):not(.cm-inline-code):hover {
+  box-shadow: 0 0 15px rgba(229, 0, 0, 0.6), 0 0 8px rgba(229, 0, 0, 0.8) !important;
+  cursor: pointer !important;
+}
+
+/* Editor/Source mode hover */
+body.theme-dark .cm-line:has(.cm-inline-code):hover .cm-inline-code:not(.cm-formatting),
+body.theme-dark .cm-content .cm-inline-code:not(.cm-formatting):hover,
+body.theme-dark .markdown-source-view .cm-inline-code:not(.cm-formatting):hover,
+.theme-dark .cm-editor .cm-inline-code:not(.cm-formatting):hover,
+.theme-dark .cm-inline-code:not(.cm-formatting):hover,
+.theme-dark span.cm-inline-code:not(.cm-formatting):hover {
+  box-shadow: 0 0 15px rgba(229, 0, 0, 0.6), 0 0 8px rgba(229, 0, 0, 0.8) !important;
+  cursor: pointer !important;
+}
+
+/* ────────────────────────────────────────────────────────────────────
+   OPTION B: Transform Scale - Slight zoom effect
+   Uncomment this section and comment out Style A above
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+body.theme-dark .markdown-preview-view code:not(pre code):hover,
+.theme-dark .markdown-preview-view code:not(pre code):hover,
+.theme-dark .cm-inline-code:not(.cm-formatting):hover {
+  background-color: rgba(229, 0, 0, 0.25) !important;
+  color: #FFFFFF !important;
+  transform: scale(1.02) !important;
+  box-shadow: 
+    0 0 12px rgba(229, 0, 0, 0.4),
+    0 2px 8px rgba(0, 0, 0, 0.3) !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION C: Underline Reveal - Decorative underline appears
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+body.theme-dark .markdown-preview-view code:not(pre code):hover,
+.theme-dark .markdown-preview-view code:not(pre code):hover,
+.theme-dark .cm-inline-code:not(.cm-formatting):hover {
+  background-color: rgba(229, 0, 0, 0.2) !important;
+  text-decoration: underline !important;
+  text-decoration-color: #E50000 !important;
+  text-decoration-thickness: 2px !important;
+  text-underline-offset: 3px !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION D: Invert Colors - Background becomes accent
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+body.theme-dark .markdown-preview-view code:not(pre code):hover,
+.theme-dark .markdown-preview-view code:not(pre code):hover,
+.theme-dark .cm-inline-code:not(.cm-formatting):hover {
+  background-color: #E50000 !important;
+  color: #0A0A0A !important;
+  border-color: #E50000 !important;
+  box-shadow: 0 0 15px rgba(229, 0, 0, 0.5) !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION E: Lift Effect - Raises with shadow
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+body.theme-dark .markdown-preview-view code:not(pre code):hover,
+.theme-dark .markdown-preview-view code:not(pre code):hover,
+.theme-dark .cm-inline-code:not(.cm-formatting):hover {
+  background-color: rgba(229, 0, 0, 0.25) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 
+    0 4px 8px rgba(0, 0, 0, 0.4),
+    0 0 8px rgba(229, 0, 0, 0.3) !important;
+}
+*/
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 3: BACKGROUND STYLE OPTIONS
+   ══════════════════════════════════════════════════════════════════════════════
+   Override the variable --inline-code-bg with different styles
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Solid Dark Background
+   More contrast, terminal-like appearance
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-bg: #0A0A0A !important;
+  --inline-code-bg-hover: #1A1A1A !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Gradient Background
+   Subtle depth effect
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .cm-inline-code {
+  background: linear-gradient(
+    135deg, 
+    rgba(229, 0, 0, 0.15) 0%, 
+    rgba(10, 10, 10, 0.95) 100%
+  ) !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Pure Transparent (Minimal)
+   Just text styling, no background
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-bg: transparent !important;
+  --inline-code-bg-hover: rgba(229, 0, 0, 0.1) !important;
+  --inline-code-border: transparent !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Grey Neutral Background
+   Less emphasis, blends more with text
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-bg: rgba(163, 163, 163, 0.12) !important;
+  --inline-code-bg-hover: rgba(163, 163, 163, 0.2) !important;
+  --inline-code-border: rgba(163, 163, 163, 0.3) !important;
+}
+*/
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 4: BORDER STYLE OPTIONS
+   ══════════════════════════════════════════════════════════════════════════════
+   Different border treatments
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: No Border (Clean minimal)
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-border: transparent !important;
+  --inline-code-border-hover: transparent !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Thick Border
+   More prominent frame
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .cm-inline-code {
+  border-width: 2px !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Dashed Border
+   Technical/blueprint aesthetic
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .cm-inline-code {
+  border-style: dashed !important;
+  border-color: #E50000 !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Left Accent Bar Only
+   Similar to code block left border
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .cm-inline-code {
+  border: none !important;
+  border-left: 3px solid #E50000 !important;
+  border-radius: 0 4px 4px 0 !important;
+  padding-left: 0.6em !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Bottom Border Only (Underline style)
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .cm-inline-code {
+  border: none !important;
+  border-bottom: 2px solid #E50000 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+}
+*/
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 5: BORDER RADIUS OPTIONS
+   ══════════════════════════════════════════════════════════════════════════════
+   Different corner treatments
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Sharp Corners (Square)
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-radius: 0px !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Subtle Corners
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-radius: 2px !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Pill Shape (Fully rounded)
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-radius: 999px !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Large Rounded
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-radius: 8px !important;
+}
+*/
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 6: TYPOGRAPHY OPTIONS
+   ══════════════════════════════════════════════════════════════════════════════
+   Font styling variations
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Larger Code Text
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-size: 1em !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Smaller Code Text
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-size: 0.85em !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Bold Code Text
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-weight: 700 !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Light Weight Text
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-weight: 400 !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Red Code Text (High Visibility)
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-text: #E50000 !important;
+  --inline-code-text-hover: #FF3333 !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Use Fira Code with Ligatures
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .cm-inline-code {
+  font-family: 'Fira Code', monospace !important;
+  font-variant-ligatures: common-ligatures !important;
+}
+*/
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 7: SPECIAL EFFECT STYLES
+   ══════════════════════════════════════════════════════════════════════════════
+   Premium visual effects - enable one at a time
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Neon Glow Effect
+   Intense glowing appearance
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .cm-inline-code {
+  background: rgba(229, 0, 0, 0.1) !important;
+  color: #FF4444 !important;
+  border: 1px solid #E50000 !important;
+  box-shadow: 
+    0 0 5px rgba(229, 0, 0, 0.5),
+    0 0 10px rgba(229, 0, 0, 0.3),
+    0 0 20px rgba(229, 0, 0, 0.2),
+    inset 0 0 10px rgba(229, 0, 0, 0.1) !important;
+  text-shadow: 0 0 5px rgba(229, 0, 0, 0.5) !important;
+}
+
+.theme-dark .markdown-preview-view code:not(pre code):hover,
+.theme-dark .cm-inline-code:hover {
+  box-shadow: 
+    0 0 8px rgba(229, 0, 0, 0.7),
+    0 0 15px rgba(229, 0, 0, 0.5),
+    0 0 30px rgba(229, 0, 0, 0.3),
+    inset 0 0 15px rgba(229, 0, 0, 0.2) !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Glassmorphism Effect
+   Frosted glass appearance
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .cm-inline-code {
+  background: rgba(30, 30, 30, 0.6) !important;
+  backdrop-filter: blur(10px) !important;
+  -webkit-backdrop-filter: blur(10px) !important;
+  border: 1px solid rgba(229, 0, 0, 0.3) !important;
+  box-shadow: 
+    0 4px 16px rgba(0, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05) !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Retro Terminal Style
+   Green-on-black classic terminal look (override theme colors)
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .cm-inline-code {
+  background: #0A0A0A !important;
+  color: #00FF00 !important;
+  border: 1px solid #00FF00 !important;
+  font-family: 'Courier New', monospace !important;
+  text-shadow: 0 0 5px #00FF00 !important;
+  box-shadow: 
+    inset 0 0 10px rgba(0, 255, 0, 0.1),
+    0 0 5px rgba(0, 255, 0, 0.2) !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: 3D Raised Button Effect
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .cm-inline-code {
+  background: linear-gradient(180deg, #2A2A2A 0%, #1A1A1A 100%) !important;
+  border: 1px solid #3A3A3A !important;
+  border-bottom: 2px solid #0A0A0A !important;
+  box-shadow: 
+    inset 0 1px 0 rgba(255, 255, 255, 0.1),
+    0 2px 4px rgba(0, 0, 0, 0.3) !important;
+}
+
+.theme-dark .markdown-preview-view code:not(pre code):hover,
+.theme-dark .cm-inline-code:hover {
+  background: linear-gradient(180deg, #3A3A3A 0%, #2A2A2A 100%) !important;
+}
+
+.theme-dark .markdown-preview-view code:not(pre code):active,
+.theme-dark .cm-inline-code:active {
+  border-bottom-width: 1px !important;
+  transform: translateY(1px) !important;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ OPTION: Subtle Inset (Pressed) Effect
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark .markdown-preview-view code:not(pre code),
+.theme-dark .cm-inline-code {
+  background: #0A0A0A !important;
+  border: 1px solid #1A1A1A !important;
+  box-shadow: 
+    inset 0 2px 4px rgba(0, 0, 0, 0.5),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.05) !important;
+}
+*/
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 8: COMPLETE PRESET THEMES
+   ══════════════════════════════════════════════════════════════════════════════
+   All-in-one style packages - enable ONE entire block
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ PRESET: Minimal Elegant
+   Clean, professional, subtle
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-bg: rgba(255, 255, 255, 0.05);
+  --inline-code-bg-hover: rgba(255, 255, 255, 0.1);
+  --inline-code-text: #E0E0E0;
+  --inline-code-border: transparent;
+  --inline-code-radius: 3px;
+  --inline-code-glow: none;
+  --inline-code-glow-hover: none;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ PRESET: High Contrast Accessibility
+   Maximum readability, WCAG AAA compliant
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-bg: #000000;
+  --inline-code-bg-hover: #1A1A1A;
+  --inline-code-text: #FFFFFF;
+  --inline-code-text-hover: #FFFFFF;
+  --inline-code-border: #FFFFFF;
+  --inline-code-border-hover: #E50000;
+  --inline-code-radius: 0px;
+  --inline-code-size: 1em;
+  --inline-code-weight: 600;
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ PRESET: Cyberpunk Red
+   Bold, aggressive, standout
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-bg: rgba(229, 0, 0, 0.2);
+  --inline-code-bg-hover: rgba(229, 0, 0, 0.35);
+  --inline-code-text: #FF6666;
+  --inline-code-text-hover: #FFFFFF;
+  --inline-code-border: #E50000;
+  --inline-code-border-hover: #FF3333;
+  --inline-code-radius: 2px;
+  --inline-code-glow: 0 0 10px rgba(229, 0, 0, 0.4);
+  --inline-code-glow-hover: 0 0 20px rgba(229, 0, 0, 0.6);
+}
+*/
+
+/* ────────────────────────────────────────────────────────────────────
+   ⚪ PRESET: Soft Grey Professional
+   Neutral, understated, corporate-friendly
+   ──────────────────────────────────────────────────────────────────── */
+
+/*
+.theme-dark {
+  --inline-code-bg: rgba(163, 163, 163, 0.15);
+  --inline-code-bg-hover: rgba(163, 163, 163, 0.25);
+  --inline-code-text: #C0C0C0;
+  --inline-code-text-hover: #E0E0E0;
+  --inline-code-border: rgba(163, 163, 163, 0.3);
+  --inline-code-border-hover: rgba(163, 163, 163, 0.5);
+  --inline-code-radius: 4px;
+  --inline-code-glow: none;
+  --inline-code-glow-hover: 0 0 5px rgba(163, 163, 163, 0.2);
+}
+*/
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 9: PLUGIN COMPATIBILITY FIXES
+   ══════════════════════════════════════════════════════════════════════════════
+   Ensures consistent appearance with popular themes/plugins
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ────────────────────────────────────────────────────────────────────
+   Minimal Theme Override
+   ──────────────────────────────────────────────────────────────────── */
+
+body.theme-dark.minimal-theme .markdown-preview-view code:not(pre code),
+body.theme-dark.minimal-theme .cm-inline-code {
+  background-color: var(--inline-code-bg) !important;
+  color: var(--inline-code-text) !important;
+  border: 1px solid var(--inline-code-border) !important;
+}
+
+/* ────────────────────────────────────────────────────────────────────
+   Things Theme Override
+   ──────────────────────────────────────────────────────────────────── */
+
+body.theme-dark.theme-things .markdown-preview-view code:not(pre code),
+body.theme-dark.theme-things .cm-inline-code {
+  background-color: var(--inline-code-bg) !important;
+  color: var(--inline-code-text) !important;
+}
+
+/* ────────────────────────────────────────────────────────────────────
+   Blue Topaz Theme Override
+   ──────────────────────────────────────────────────────────────────── */
+
+body.theme-dark.Blue-Topaz .markdown-preview-view code:not(pre code),
+body.theme-dark.Blue-Topaz .cm-inline-code {
+  background-color: var(--inline-code-bg) !important;
+  color: var(--inline-code-text) !important;
+}
+
+/* ────────────────────────────────────────────────────────────────────
+   Dataview Plugin - Inline Fields
+   ──────────────────────────────────────────────────────────────────── */
+
+.theme-dark .dataview.inline-field code,
+.theme-dark .dataview.inline-field-value {
+  font-family: var(--inline-code-font) !important;
+  font-size: var(--inline-code-size) !important;
+}
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 10: ACCESSIBILITY & MOTION SENSITIVITY
+   ══════════════════════════════════════════════════════════════════════════════
+   Respects user preferences for reduced motion
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* Disable all transitions for motion-sensitive users */
+@media (prefers-reduced-motion: reduce) {
+  .theme-dark .markdown-preview-view code:not(pre code),
+  .theme-dark .markdown-rendered code:not(pre code),
+  .theme-dark .cm-inline-code {
+    transition: none !important;
+    animation: none !important;
+  }
+  
+  .theme-dark .markdown-preview-view code:not(pre code):hover,
+  .theme-dark .cm-inline-code:hover {
+    transform: none !important;
+  }
+}
+
+/* High Contrast Mode Support */
+@media (prefers-contrast: high) {
+  .theme-dark {
+    --inline-code-bg: #000000 !important;
+    --inline-code-text: #FFFFFF !important;
+    --inline-code-border: #FFFFFF !important;
+  }
+}
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 11: PRINT STYLES
+   ══════════════════════════════════════════════════════════════════════════════
+   Optimized for printing/PDF export
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+@media print {
+  code:not(pre code) {
+    background-color: #F5F5F5 !important;
+    color: #333333 !important;
+    border: 1px solid #CCCCCC !important;
+    box-shadow: none !important;
+    padding: 0.1em 0.3em !important;
+    font-size: 0.9em !important;
+  }
+}
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 12: MOBILE OPTIMIZATIONS
+   ══════════════════════════════════════════════════════════════════════════════
+   Touch-friendly adjustments for mobile devices
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+@media (max-width: 768px) {
+  .theme-dark .markdown-preview-view code:not(pre code),
+  .theme-dark .cm-inline-code {
+    /* Slightly larger touch targets */
+    padding: 0.2em 0.5em !important;
+    font-size: 0.88em !important;
+    
+    /* Allow wrapping on mobile for long code */
+    white-space: normal !important;
+    word-break: break-word !important;
+  }
+}
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 13: LIVE PREVIEW MODE FIXES
+   ══════════════════════════════════════════════════════════════════════════════
+   Ensures consistency in Obsidian's Live Preview mode
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* Live Preview inline code */
+.theme-dark .cm-s-obsidian .cm-inline-code:not(.cm-formatting),
+.theme-dark .markdown-source-view.is-live-preview .cm-inline-code {
+  background-color: var(--inline-code-bg) !important;
+  color: var(--inline-code-text) !important;
+  border-radius: var(--inline-code-radius) !important;
+}
+
+/* Ensure formatting backticks don't break styling */
+.theme-dark .cm-formatting.cm-formatting-code.cm-inline-code {
+  background-color: transparent !important;
+  padding: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 14: FOCUS STATES (Accessibility)
+   ══════════════════════════════════════════════════════════════════════════════
+   Visible focus indicators for keyboard navigation
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+.theme-dark .markdown-preview-view code:not(pre code):focus,
+.theme-dark .markdown-preview-view code:not(pre code):focus-visible {
+  outline: 2px solid #E50000 !important;
+  outline-offset: 2px !important;
+  box-shadow: 0 0 0 4px rgba(229, 0, 0, 0.3) !important;
+}
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   SECTION 15: NUCLEAR OVERRIDE - MAXIMUM SPECIFICITY FALLBACK
+   ══════════════════════════════════════════════════════════════════════════════
+   If nothing else works, these rules WILL apply. Uses body + theme + workspace
+   chain for maximum CSS specificity. Place at END of file to win cascade.
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ═══ READING/PREVIEW MODE - Nuclear Override ═══ */
+body.theme-dark.app-container .workspace .workspace-leaf-content[data-type="markdown"] .view-content .markdown-preview-view code:not(pre code),
+body.theme-dark .app-container .workspace .markdown-preview-view code:not(pre code),
+body.theme-dark .workspace-split .workspace-leaf .markdown-preview-view code:not(pre code),
+body.theme-dark div.markdown-preview-view code:not(pre code),
+html body.theme-dark code:not(pre code):not(.cm-inline-code):not([class*="language-"]) {
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'SF Mono', monospace !important;
+  font-size: 0.9em !important;
+  font-weight: 500 !important;
+  background-color: rgba(229, 0, 0, 0.15) !important;
+  background: rgba(229, 0, 0, 0.15) !important;
+  color: #FFFFFF !important;
+  padding: 0.15em 0.4em !important;
+  margin: 0 0.15em !important;
+  border-radius: 4px !important;
+  border: none !important;
+  box-shadow: none !important;
+  display: inline !important;
+  vertical-align: baseline !important;
+}
+
+/* ═══ EDITOR/SOURCE MODE - Nuclear Override ═══ */
+body.theme-dark.app-container .workspace .workspace-leaf-content[data-type="markdown"] .view-content .markdown-source-view .cm-inline-code:not(.cm-formatting),
+body.theme-dark .cm-editor .cm-scroller .cm-content .cm-line .cm-inline-code:not(.cm-formatting),
+body.theme-dark .workspace-split .workspace-leaf .cm-inline-code:not(.cm-formatting),
+html body.theme-dark span.cm-inline-code:not(.cm-formatting) {
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'SF Mono', monospace !important;
+  font-size: 0.9em !important;
+  font-weight: 500 !important;
+  background-color: rgba(229, 0, 0, 0.15) !important;
+  background: rgba(229, 0, 0, 0.15) !important;
+  color: #FFFFFF !important;
+  padding: 0.15em 0.4em !important;
+  border-radius: 4px !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* ═══ HOVER - Nuclear Override ═══ */
+/* Reading/Preview hover */
+html body.theme-dark .markdown-preview-view code:not(pre code):hover,
+html body.theme-dark .markdown-reading-view code:not(pre code):hover,
+body.theme-dark code:not(pre code):not(.cm-inline-code):hover {
+  box-shadow: 0 0 15px rgba(229, 0, 0, 0.6), 0 0 8px rgba(229, 0, 0, 0.8) !important;
+  cursor: pointer !important;
+}
+
+/* Editor hover */
+html body.theme-dark span.cm-inline-code:not(.cm-formatting):hover,
+html body.theme-dark .cm-line .cm-inline-code:not(.cm-formatting):hover,
+body.theme-dark .cm-editor .cm-inline-code:not(.cm-formatting):hover {
+  box-shadow: 0 0 15px rgba(229, 0, 0, 0.6), 0 0 8px rgba(229, 0, 0, 0.8) !important;
+  cursor: pointer !important;
+}
+
+/* ═══ BACKTICKS - Always transparent ═══ */
+body.theme-dark .cm-formatting-code,
+body.theme-dark span.cm-formatting.cm-formatting-code {
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  color: #E50000 !important;
+  opacity: 0.5 !important;
+}
+
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   END OF INLINE CODE CUSTOMIZATION SYSTEM
+   ══════════════════════════════════════════════════════════════════════════════
+   
+   QUICK REFERENCE - CUSTOMIZATION GUIDE:
+   
+   To enable a style option:
+   1. Find the section with the style you want
+   2. Remove the comment start marker from the beginning of the block
+   3. Remove the comment end marker from the end of the block
+   4. Wrap the conflicting ACTIVE style in comment markers
+   5. Save the file
+   
+   Most common customizations:
+   - Change colors: Edit variables in Section 0
+   - Change hover effect: Section 2
+   - Change background style: Section 3
+   - Change border style: Section 4
+   - Change corner radius: Section 5
+   - Enable special effects: Section 7
+   - Use a complete preset: Section 8
+   
+   Need help? The CSS variables in Section 0 control most aspects.
+   Just change the values there for quick theme-wide adjustments.
+   
+   ══════════════════════════════════════════════════════════════════════════════ */

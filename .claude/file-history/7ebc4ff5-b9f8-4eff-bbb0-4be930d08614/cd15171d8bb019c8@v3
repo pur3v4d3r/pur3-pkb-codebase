@@ -1,0 +1,32 @@
+{
+  "installed_at": 1735244548000,
+  "smart_sources": {
+    "file_exclusions": [
+      "structure_*.txt",
+      "*.zip",
+      "*.docx",
+      "*.jsx",
+      "*.tsx",
+      "*.ts",
+      "*.json",
+      "*.html"
+    ],
+    "folder_exclusions": [
+      "__LOCAL-REPO",
+      "prompt-res-app",
+      ".backup",
+      "node_modules",
+      ".git",
+      ".obsidian",
+      "99_Outputs",
+      "04_library/02_pkb-and-pkm-learning/_reference/_official-documentation",
+      "04_library/01_cognitive-science/_reference/_incremental-learning"
+    ]
+  },
+  "excluded_headings": [],
+  "smart_view_filter": {
+    "render_nearest_block": true,
+    "show_full_path": false
+  },
+  "auto_refresh_embeddings": true
+}

@@ -1,0 +1,15 @@
+2025-12-17T19:15:34.232Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-17T19:15:34.233Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-17T19:15:34.233Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for inactivity
+2025-12-17T19:15:34.233Z [DEBUG] [Query.waitForInactivity] Waiting for inactivity (timeout: 5000ms)
+2025-12-17T19:15:34.233Z [DEBUG] [Query.waitForInactivity] Still active, checking again in 4998ms
+2025-12-17T19:15:39.298Z [DEBUG] [Query.waitForInactivity] Still active, checking again in 1161ms
+2025-12-17T19:15:40.459Z [DEBUG] [Query.waitForInactivity] Inactivity timeout reached (5000ms elapsed). Closing stdin. If your tools or hooks need more time, set CLAUDE_CODE_STREAM_CLOSE_TIMEOUT to a higher value (current: 5000ms).
+2025-12-17T19:15:40.459Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-17T19:15:40.768Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-17T19:15:45.089Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-17T19:15:45.089Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for inactivity
+2025-12-17T19:15:45.089Z [DEBUG] [Query.waitForInactivity] Waiting for inactivity (timeout: 5000ms)
+2025-12-17T19:15:45.089Z [DEBUG] [Query.waitForInactivity] Still active, checking again in 2430ms
+2025-12-17T19:15:47.539Z [DEBUG] [Query.waitForInactivity] Inactivity timeout reached (5020ms elapsed). Closing stdin. If your tools or hooks need more time, set CLAUDE_CODE_STREAM_CLOSE_TIMEOUT to a higher value (current: 5000ms).
+2025-12-17T19:15:47.539Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process

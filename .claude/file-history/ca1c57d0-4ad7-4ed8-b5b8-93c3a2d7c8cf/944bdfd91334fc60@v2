@@ -1,0 +1,173 @@
+# Repomix Setup Guide
+
+Your vault now has **two ways** to use Repomix:
+
+## 🔧 Method 1: VSCode Extension (Installed)
+
+**Extension**: `dorianmassoulier.repomix-runner`
+
+### Status: ✅ Fixed and Configured
+
+**What was broken:**
+- Extension looked for instruction file that didn't exist
+- Caused error: `✖ Instruction file not found at D:\10_pur3v4d3r's-vault\999-codebas+pkb\_repomix-reports`
+
+**What was fixed:**
+- ✅ Created instruction file: [`999-codebas+pkb/_repomix-reports/repomix-instructions.md`](999-codebas+pkb/_repomix-reports/repomix-instructions.md)
+- ✅ Configured VSCode settings in [`.vscode/settings.json`](.vscode/settings.json)
+- ✅ Set ignore patterns to prevent huge files
+- ✅ Output goes to `99_Outputs/` automatically
+
+### How to Use:
+1. Right-click on any file/folder in VSCode Explorer
+2. Select "Repomix" commands from context menu
+3. Output generated in `99_Outputs/`
+4. **Reload VSCode if needed**: Ctrl+Shift+P → "Reload Window"
+
+---
+
+## 💻 Method 2: Command Line Configs (Flexible)
+
+**Location**: [`99_Outputs/repomix-configs/`](99_Outputs/repomix-configs/)
+
+### Available Profiles:
+
+```powershell
+# From anywhere in vault:
+.\99_Outputs\repomix-configs\repomix-helper.ps1 notes      # Personal notes only
+.\99_Outputs\repomix-configs\repomix-helper.ps1 library    # Reference materials
+.\99_Outputs\repomix-configs\repomix-helper.ps1 codebase   # Code from 999-codebas+pkb/
+.\99_Outputs\repomix-configs\repomix-helper.ps1 project    # Specific project
+.\99_Outputs\repomix-configs\repomix-helper.ps1 custom "path/to/folder"
+```
+
+### Direct repomix commands:
+```bash
+# Use specific config
+repomix --config 99_Outputs/repomix-configs/repomix.config.notes-only.json
+
+# Custom run
+repomix --output 99_Outputs/my-output.txt --style markdown "02-projects/my-project"
+```
+
+---
+
+## 🎯 When to Use Which Method
+
+### Use VSCode Extension when:
+- ✅ Quick ad-hoc exports
+- ✅ Right-click convenience
+- ✅ Visual file selection
+- ✅ Integrated with IDE workflow
+
+### Use Command Line configs when:
+- ✅ Specific profiles (notes/library/codebase)
+- ✅ Automated/scripted exports
+- ✅ Precise control over output
+- ✅ Combining multiple exports
+
+---
+
+## 📊 Expected Output Sizes
+
+| Profile | Size | Safe for Obsidian? | Safe for LLM? |
+|---------|------|-------------------|---------------|
+| Notes only | 2-10 MB | ✅ Yes | ✅ Yes |
+| Library | 5-20 MB | ✅ Yes | ✅ Yes |
+| Codebase | 10-50 MB | ⚠️ Careful | ✅ Yes |
+| Full vault | 100-300 MB | ❌ NO - Will crash! | ⚠️ Too large |
+
+---
+
+## 🔒 Safety Features
+
+All repomix outputs are automatically:
+- ✅ Ignored by Obsidian (won't cause crashes)
+- ✅ Excluded from git commits
+- ✅ Located in `99_Outputs/` for easy management
+- ✅ Using ignore patterns to skip large folders
+
+---
+
+## 🐛 Troubleshooting
+
+### VSCode Extension Issues
+
+**Problem**: Still shows "instruction file not found"
+```bash
+# Solution: Reload VSCode window
+Ctrl+Shift+P → "Developer: Reload Window"
+```
+
+**Problem**: Output files too large
+```bash
+# Solution: Edit .vscode/settings.json, add more patterns to:
+"repomix.defaultIgnorePatterns": [...]
+```
+
+### Command Line Issues
+
+**Problem**: Config not found
+```bash
+# Solution: Run from vault root
+cd d:\10_pur3v4d3r's-vault
+.\99_Outputs\repomix-configs\repomix-helper.ps1 notes
+```
+
+**Problem**: Output too large for LLM
+```bash
+# Solution: Use more specific profile
+.\99_Outputs\repomix-configs\repomix-helper.ps1 notes  # Instead of 'full'
+```
+
+---
+
+## 📚 Documentation
+
+- **VSCode Extension Config**: [`.vscode/settings.json`](.vscode/settings.json)
+- **Extension Instructions**: [`999-codebas+pkb/_repomix-reports/repomix-instructions.md`](999-codebas+pkb/_repomix-reports/repomix-instructions.md)
+- **Command Line Configs**: [`99_Outputs/repomix-configs/README.md`](99_Outputs/repomix-configs/README.md)
+- **Git Ignore Rules**: [`.gitignore`](.gitignore)
+
+---
+
+## 🚀 Quick Start
+
+**First time setup is complete!** You can now:
+
+1. **Test VSCode Extension**: Right-click this file → "Repomix: Pack..."
+2. **Test Command Line**:
+   ```powershell
+   .\99_Outputs\repomix-configs\repomix-helper.ps1 notes
+   ```
+3. **Check output**: Look in `99_Outputs/` folder
+
+---
+
+## ⚠️ Important Notes
+
+1. **Never open large repomix files in Obsidian** - They will crash it!
+2. **Outputs are gitignored** - They won't bloat your repository
+3. **Safe to delete and regenerate** - All outputs are disposable
+4. **Edit configs as needed** - All config files are customizable
+
+---
+
+## 🎓 What Happened & Why
+
+### The Problem:
+Your 222 MB `repomix-output.md` crashed Obsidian when it tried to index it. The VSCode extension was also broken due to missing configuration.
+
+### The Solution:
+1. Deleted the massive file
+2. Created instruction file for VSCode extension
+3. Set up ignore patterns to prevent future crashes
+4. Created multiple config profiles for different use cases
+5. Documented everything for future reference
+
+### The Result:
+- ✅ Obsidian won't crash anymore
+- ✅ VSCode extension works properly
+- ✅ Flexible command-line options available
+- ✅ Safe defaults prevent huge files
+- ✅ Easy to customize for your needs

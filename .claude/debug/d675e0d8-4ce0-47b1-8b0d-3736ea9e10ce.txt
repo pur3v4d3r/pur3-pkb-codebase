@@ -1,0 +1,254 @@
+2025-12-22T10:55:12.870Z [DEBUG] Watching for changes in setting files d:\10_pur3v4d3r's-vault\.claude, d:\10_pur3v4d3r's-vault\.claude...
+2025-12-22T10:55:12.896Z [DEBUG] Using bash path: "C:\Program Files\Git\bin\bash.exe"
+2025-12-22T10:55:12.925Z [DEBUG] [LSP MANAGER] initializeLspServerManager() called
+2025-12-22T10:55:12.925Z [DEBUG] [LSP MANAGER] Created manager instance, state=pending
+2025-12-22T10:55:12.925Z [DEBUG] [LSP MANAGER] Starting async initialization (generation 1)
+2025-12-22T10:55:12.925Z [ERROR] SyntaxError: SyntaxError: JSON Parse error: Unexpected identifier "c"
+    at <parse> (:0)
+    at parse (unknown)
+    at <anonymous> (B:/~BUN/root/claude.exe:77:751)
+    at A (B:/~BUN/root/claude.exe:11:6978)
+    at <anonymous> (B:/~BUN/root/claude.exe:4935:274)
+    at <anonymous> (B:/~BUN/root/claude.exe:4925:8588)
+    at processTicksAndRejections (native:7:39)
+2025-12-22T10:55:12.932Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (6.8ms)
+2025-12-22T10:55:12.935Z [DEBUG] Applying permission update: Adding 5 allow rule(s) to destination 'localSettings': ["WebFetch(domain:github.com)","WebFetch(domain:raw.githubusercontent.com)","WebSearch","WebFetch(domain:awesomeclaude.ai)","WebFetch(domain:api.github.com)"]
+2025-12-22T10:55:12.937Z [DEBUG] LSP server manager initialized successfully
+2025-12-22T10:55:12.937Z [DEBUG] LSP notification handlers registered successfully for all 0 server(s)
+2025-12-22T10:55:12.937Z [DEBUG] Found 0 plugins (0 enabled, 0 disabled)
+2025-12-22T10:55:12.951Z [DEBUG] Stats cache is up to date
+2025-12-22T10:55:12.957Z [DEBUG] Loading skills from: managed=C:\ProgramData\ClaudeCode\.claude\skills, user=C:\Users\pur3v4d3rpk\.claude\skills, project=[d:\10_pur3v4d3r's-vault\.claude\skills]
+2025-12-22T10:55:12.968Z [DEBUG] Loaded 0 installed plugins from C:\Users\pur3v4d3rpk\.claude\plugins\installed_plugins.json
+2025-12-22T10:55:13.003Z [DEBUG] Creating shell snapshot for bash (C:\Program Files\Git\bin\bash.exe)
+2025-12-22T10:55:13.003Z [DEBUG] Looking for shell config file: C:\Users\pur3v4d3rpk\.bashrc
+2025-12-22T10:55:13.003Z [DEBUG] Shell config file not found: C:\Users\pur3v4d3rpk\.bashrc, creating snapshot with Claude Code defaults only
+2025-12-22T10:55:13.003Z [DEBUG] Snapshots directory: C:\Users\pur3v4d3rpk\.claude\shell-snapshots
+2025-12-22T10:55:13.011Z [DEBUG] Creating snapshot at: C:\Users\pur3v4d3rpk\.claude\shell-snapshots\snapshot-bash-1766400913003-fge7r4.sh
+2025-12-22T10:55:13.011Z [DEBUG] Shell binary exists: true
+2025-12-22T10:55:13.011Z [DEBUG] Execution timeout: 10000ms
+2025-12-22T10:55:13.015Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude\todos\d675e0d8-4ce0-47b1-8b0d-3736ea9e10ce-agent-d675e0d8-4ce0-47b1-8b0d-3736ea9e10ce.json.tmp.33464.1766400913015
+2025-12-22T10:55:13.018Z [DEBUG] Temp file written successfully, size: 2 bytes
+2025-12-22T10:55:13.018Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude\todos\d675e0d8-4ce0-47b1-8b0d-3736ea9e10ce-agent-d675e0d8-4ce0-47b1-8b0d-3736ea9e10ce.json.tmp.33464.1766400913015 to C:\Users\pur3v4d3rpk\.claude\todos\d675e0d8-4ce0-47b1-8b0d-3736ea9e10ce-agent-d675e0d8-4ce0-47b1-8b0d-3736ea9e10ce.json
+2025-12-22T10:55:13.018Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude\todos\d675e0d8-4ce0-47b1-8b0d-3736ea9e10ce-agent-d675e0d8-4ce0-47b1-8b0d-3736ea9e10ce.json written atomically
+2025-12-22T10:55:13.034Z [DEBUG] getPluginSkills: Processing 0 enabled plugins
+2025-12-22T10:55:13.034Z [DEBUG] Total plugin skills loaded: 0
+2025-12-22T10:55:13.034Z [DEBUG] Total plugin commands loaded: 0
+2025-12-22T10:55:13.034Z [DEBUG] Registered 0 hooks from 0 plugins
+2025-12-22T10:55:13.053Z [DEBUG] Total plugin agents loaded: 0
+2025-12-22T10:55:13.060Z [DEBUG] Loaded 17 unique skills (managed: 0, user: 0, project: 10, legacy commands: 7)
+2025-12-22T10:55:13.060Z [DEBUG] getSkills returning: 17 skill dir commands, 0 plugin skills
+2025-12-22T10:55:13.066Z [DEBUG] MCP server "filesystem": Starting connection with timeout of 30000ms
+2025-12-22T10:55:13.101Z [DEBUG] MCP server "memory": Starting connection with timeout of 30000ms
+2025-12-22T10:55:13.113Z [DEBUG] MCP server "context7": Initializing HTTP transport to https://context7.liam.sh/mcp
+2025-12-22T10:55:13.113Z [DEBUG] MCP server "context7": Node version: v24.3.0, Platform: win32
+2025-12-22T10:55:13.113Z [DEBUG] MCP server "context7": Environment: {"NODE_OPTIONS":"not set","UV_THREADPOOL_SIZE":"default","HTTP_PROXY":"not set","HTTPS_PROXY":"not set","NO_PROXY":"not set"}
+2025-12-22T10:55:13.140Z [DEBUG] MCP server "context7": Proxy options: default
+2025-12-22T10:55:13.140Z [DEBUG] MCP server "context7": HTTP transport options: {"url":"https://context7.liam.sh/mcp","headers":{"User-Agent":"claude-code/2.0.75"},"hasAuthProvider":true,"timeoutMs":60000}
+2025-12-22T10:55:13.140Z [DEBUG] MCP server "context7": HTTP transport created successfully
+2025-12-22T10:55:13.140Z [DEBUG] MCP server "context7": Client created, setting up request handler
+2025-12-22T10:55:13.141Z [DEBUG] MCP server "context7": Starting connection with timeout of 30000ms
+2025-12-22T10:55:13.141Z [DEBUG] MCP server "context7": Testing basic HTTP connectivity to https://context7.liam.sh/mcp
+2025-12-22T10:55:13.141Z [DEBUG] MCP server "context7": Parsed URL: host=context7.liam.sh, port=default, protocol=https:
+2025-12-22T10:55:13.141Z [DEBUG] MCP server "context7": No token data found
+2025-12-22T10:55:13.150Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.33464.1766400913150
+2025-12-22T10:55:13.150Z [DEBUG] Preserving file permissions: 100666
+2025-12-22T10:55:13.152Z [DEBUG] Temp file written successfully, size: 51206 bytes
+2025-12-22T10:55:13.152Z [DEBUG] Applied original permissions to temp file
+2025-12-22T10:55:13.152Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.33464.1766400913150 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-22T10:55:13.152Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-22T10:55:13.165Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (11.8ms)
+2025-12-22T10:55:13.282Z [DEBUG] Git remote URL: https://github.com/pur3v4d3r/10_pur3v4d3r-s-vault.git
+2025-12-22T10:55:13.282Z [DEBUG] Parsed repository: pur3v4d3r/10_pur3v4d3r-s-vault from https://github.com/pur3v4d3r/10_pur3v4d3r-s-vault.git
+2025-12-22T10:55:13.282Z [DEBUG] Parsed repository: pur3v4d3r/10_pur3v4d3r-s-vault from URL: https://github.com/pur3v4d3r/10_pur3v4d3r-s-vault.git
+2025-12-22T10:55:13.283Z [DEBUG] Path d:\10_pur3v4d3r's-vault already tracked for repo pur3v4d3r/10_pur3v4d3r-s-vault
+2025-12-22T10:55:13.335Z [DEBUG] Shell snapshot created successfully (289 bytes)
+2025-12-22T10:55:13.491Z [DEBUG] Getting matching hook commands for SubagentStart with query: Explore
+2025-12-22T10:55:13.491Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:55:13.491Z [DEBUG] Matched 0 unique hooks for query "Explore" (0 before deduplication)
+2025-12-22T10:55:13.492Z [DEBUG] Getting matching hook commands for SubagentStart with query: Plan
+2025-12-22T10:55:13.492Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:55:13.492Z [DEBUG] Matched 0 unique hooks for query "Plan" (0 before deduplication)
+2025-12-22T10:55:13.719Z [DEBUG] Ripgrep first use test: PASSED (mode=builtin, path=C:\Users\pur3v4d3rpk\.local\bin\claude.exe)
+2025-12-22T10:55:13.757Z [DEBUG] MCP server "context7": No token data found
+2025-12-22T10:55:13.794Z [ERROR] Error streaming, falling back to non-streaming mode: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011CWMbvysTrFQzyz4dSpf5E"}
+2025-12-22T10:55:13.811Z [DEBUG] MCP server "context7": No token data found
+2025-12-22T10:55:13.811Z [DEBUG] MCP server "context7": Successfully connected to http server in 698ms
+2025-12-22T10:55:13.811Z [DEBUG] MCP server "context7": Connection established with capabilities: {"hasTools":true,"hasPrompts":false,"hasResources":true,"serverVersion":{"name":"Context7","version":"master"}}
+2025-12-22T10:55:13.812Z [DEBUG] MCP server "context7": No token data found
+2025-12-22T10:55:13.812Z [DEBUG] MCP server "context7": No token data found
+2025-12-22T10:55:13.870Z [ERROR] Error streaming, falling back to non-streaming mode: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011CWMbvytDK3PcMA9UgrkCe"}
+2025-12-22T10:55:13.885Z [ERROR] Error in non-streaming fallback: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011CWMbvzGmvEeD8p5yH8AYF"}
+2025-12-22T10:55:13.886Z [ERROR] Error: Error: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011CWMbvzGmvEeD8p5yH8AYF"}
+    at generate (B:/~BUN/root/claude.exe:451:11133)
+    at makeRequest (B:/~BUN/root/claude.exe:798:5435)
+    at processTicksAndRejections (native:7:39)
+2025-12-22T10:55:13.920Z [DEBUG] Getting matching hook commands for SubagentStop with query: undefined
+2025-12-22T10:55:13.920Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:55:13.920Z [DEBUG] Matched 0 unique hooks for query "no match query" (0 before deduplication)
+2025-12-22T10:55:13.978Z [ERROR] Error in non-streaming fallback: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011CWMbvzbsMUPdkoLEdGiSm"}
+2025-12-22T10:55:13.978Z [ERROR] Error: Error: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011CWMbvzbsMUPdkoLEdGiSm"}
+    at generate (B:/~BUN/root/claude.exe:451:11133)
+    at makeRequest (B:/~BUN/root/claude.exe:798:5435)
+    at processTicksAndRejections (native:7:39)
+2025-12-22T10:55:14.011Z [DEBUG] Getting matching hook commands for SubagentStop with query: undefined
+2025-12-22T10:55:14.011Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:55:14.011Z [DEBUG] Matched 0 unique hooks for query "no match query" (0 before deduplication)
+2025-12-22T10:55:14.769Z [ERROR] MCP server "filesystem" Server stderr: Usage: mcp-server-filesystem [allowed-directory] [additional-directories...]
+2025-12-22T10:55:14.769Z [ERROR] MCP server "filesystem" Server stderr: Note: Allowed directories can be provided via:
+  1. Command-line arguments (shown above)
+  2. MCP roots protocol (if client supports it)
+At least one directory must be provided by EITHER method for the server to operate.
+2025-12-22T10:55:14.770Z [ERROR] MCP server "filesystem" Server stderr: Secure MCP Filesystem Server running on stdio
+2025-12-22T10:55:14.770Z [ERROR] MCP server "filesystem" Server stderr: Started without allowed directories - waiting for client to provide roots via MCP protocol
+2025-12-22T10:55:14.774Z [DEBUG] MCP server "filesystem": Successfully connected to stdio server in 1711ms
+2025-12-22T10:55:14.774Z [DEBUG] MCP server "filesystem": Connection established with capabilities: {"hasTools":true,"hasPrompts":false,"hasResources":false,"serverVersion":{"name":"secure-filesystem-server","version":"0.2.0"}}
+2025-12-22T10:55:14.776Z [DEBUG] MCP server "filesystem": Received ListRoots request from server
+2025-12-22T10:55:14.779Z [ERROR] MCP server "filesystem" Server stderr: Updated allowed directories from MCP roots: 1 valid directories
+2025-12-22T10:55:17.382Z [ERROR] MCP server "memory" Server stderr: Knowledge Graph MCP Server running on stdio
+2025-12-22T10:55:17.384Z [DEBUG] MCP server "memory": Successfully connected to stdio server in 4284ms
+2025-12-22T10:55:17.384Z [DEBUG] MCP server "memory": Connection established with capabilities: {"hasTools":true,"hasPrompts":false,"hasResources":false,"serverVersion":{"name":"memory-server","version":"0.6.3"}}
+2025-12-22T10:55:17.390Z [DEBUG] MCP server "sequential-thinking": Starting connection with timeout of 30000ms
+2025-12-22T10:55:17.399Z [DEBUG] MCP server "puppeteer": Starting connection with timeout of 30000ms
+2025-12-22T10:55:17.407Z [DEBUG] MCP server "fetch": Starting connection with timeout of 30000ms
+2025-12-22T10:55:17.951Z [ERROR] MCP server "fetch" Server stderr: npm notice Access token expired or revoked. Please try logging in again.
+2025-12-22T10:55:17.994Z [ERROR] MCP server "fetch" Server stderr: npm notice Access token expired or revoked. Please try logging in again.
+2025-12-22T10:55:17.996Z [ERROR] MCP server "fetch" Server stderr: npm error code E404
+2025-12-22T10:55:17.996Z [ERROR] MCP server "fetch" Server stderr: npm error 404 Not Found - GET https://registry.npmjs.org/@modelcontextprotocol%2fserver-fetch - Not found
+npm error 404
+npm error 404  '@modelcontextprotocol/server-fetch@*' is not in this registry.
+npm error 404
+npm error 404 Note that you can also install from a
+npm error 404 tarball, folder, http url, or git url.
+2025-12-22T10:55:17.997Z [ERROR] MCP server "fetch" Server stderr: npm error A complete log of this run can be found in: C:\Users\pur3v4d3rpk\AppData\Local\npm-cache\_logs\2025-12-22T10_55_17_527Z-debug-0.log
+2025-12-22T10:55:18.005Z [DEBUG] MCP server "fetch": Connection failed after 598ms: MCP error -32000: Connection closed
+2025-12-22T10:55:18.006Z [ERROR] MCP server "fetch" Connection failed: MCP error -32000: Connection closed
+2025-12-22T10:55:21.022Z [ERROR] MCP server "sequential-thinking" Server stderr: Sequential Thinking MCP Server running on stdio
+2025-12-22T10:55:21.024Z [DEBUG] MCP server "sequential-thinking": Successfully connected to stdio server in 3635ms
+2025-12-22T10:55:21.024Z [DEBUG] MCP server "sequential-thinking": Connection established with capabilities: {"hasTools":true,"hasPrompts":false,"hasResources":false,"serverVersion":{"name":"sequential-thinking-server","version":"0.2.0"}}
+2025-12-22T10:55:22.139Z [ERROR] MCP server "puppeteer" Server stderr: npm warn deprecated puppeteer@23.11.1: < 24.15.0 is no longer supported
+2025-12-22T10:55:22.262Z [ERROR] MCP server "puppeteer" Server stderr: npm warn deprecated @modelcontextprotocol/server-puppeteer@2025.5.12: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+2025-12-22T10:55:29.239Z [DEBUG] MCP server "puppeteer": Successfully connected to stdio server in 11841ms
+2025-12-22T10:55:29.239Z [DEBUG] MCP server "puppeteer": Connection established with capabilities: {"hasTools":true,"hasPrompts":false,"hasResources":true,"serverVersion":{"name":"example-servers/puppeteer","version":"0.1.0"}}
+2025-12-22T10:55:29.265Z [DEBUG] Initialized versioned plugins system with 0 plugins
+2025-12-22T10:55:29.294Z [DEBUG] Getting matching hook commands for SessionStart with query: startup
+2025-12-22T10:55:29.294Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:55:29.294Z [DEBUG] Matched 0 unique hooks for query "startup" (0 before deduplication)
+2025-12-22T10:55:29.311Z [DEBUG] Total plugin output styles loaded: 0
+2025-12-22T10:55:29.343Z [DEBUG] LSP Diagnostics: getLSPDiagnosticAttachments called
+2025-12-22T10:55:29.343Z [DEBUG] LSP Diagnostics: Checking registry - 0 pending
+2025-12-22T10:55:29.343Z [DEBUG] Hooks: Found 0 total hooks in registry
+2025-12-22T10:55:29.343Z [DEBUG] Hooks: checkForNewResponses returning 0 responses
+2025-12-22T10:55:29.355Z [DEBUG] Getting matching hook commands for UserPromptSubmit with query: undefined
+2025-12-22T10:55:29.355Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:55:29.355Z [DEBUG] Matched 0 unique hooks for query "no match query" (0 before deduplication)
+2025-12-22T10:55:29.369Z [DEBUG] Skills and commands included in Skill tool: anthropic-expert, aptos-expert, expo-expert, ios-expert, plaid-expert, shopify-expert, stripe-expert, supabase-expert, toon-formatter, whop-expert, analyze-tokens, convert-to-toon, discover-skills, install-skill, toon-decode, toon-encode, toon-validate
+2025-12-22T10:55:29.414Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8YtJ2NBGTJAduHV7\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.452Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8pkTGXhsL4VomK6a\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.459Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8pzxGRvnohpSbuCE\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.460Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8rjiwKJpFGxgrABU\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.461Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8ryuFUVUP8cFfeaP\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.464Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8sEDzx1y6jguaTK8\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.467Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8sUiAr1hJ9v2Kxix\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.469Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8sELi47C5GBEzA1R\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.478Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8whCSdeCPnwyWL7r\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.478Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wCi1y4eSpi2GWL7\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.479Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wSiEWcrTeHFamEn\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.481Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wwkBzZt9o6kmqG7\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.481Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wwv3QFGvTc8RCCg\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.482Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8whN1vqquKdjn7zK\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.482Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8xC1m3Nuvrw6PmmW\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.482Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wwpUmBNFPtDoyct\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.483Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8xC4uPwLWJX6mpQG\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.483Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wwsFiahqu1Urrck\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.484Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wwYPfqeS1Lx8mJg\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.484Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wwVvN5EgMbJ2DB6\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.484Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wh7zHQWEeue2bna\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.485Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wwrrs6fzYSxqnSm\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.485Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8xSVgkPrkson4J42\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.485Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8whMZKEe4HWwCdA9\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.486Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8xByu86MbBkuU9Q6\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.487Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wwhZpr7ruDkXS5x\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.487Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wwdNym1agdGhEB3\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.489Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8xBz4nRxHun7DLrU\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.489Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8wwW37dAn2vWh3MQ\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.499Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx91umjQPLJpLLVYCY\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.510Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8xSLGWbr5AJsYv7D\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.512Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx8ygDekxWvb5tUE25\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.513Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbx91AegYpQ278dQkng\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.566Z [ERROR] Error streaming, falling back to non-streaming mode: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011CWMbx96NjzdDvE2mHbVLB"}
+2025-12-22T10:55:29.759Z [ERROR] Error in non-streaming fallback: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011CWMbxA9d4d1X7MB7TbDMZ"}
+2025-12-22T10:55:29.759Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMbxA9d4d1X7MB7TbDMZ\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:55:29.790Z [DEBUG] Getting matching hook commands for Stop with query: undefined
+2025-12-22T10:55:29.790Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:55:29.790Z [DEBUG] Matched 0 unique hooks for query "no match query" (0 before deduplication)
+2025-12-22T10:55:29.792Z [DEBUG] Getting matching hook commands for SessionEnd with query: other
+2025-12-22T10:55:29.792Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:55:29.792Z [DEBUG] Matched 0 unique hooks for query "other" (0 before deduplication)
+2025-12-22T10:57:24.977Z [ERROR] MCP server "fetch" Server stderr: npm error 404 Not Found - GET https://registry.npmjs.org/@modelcontextprotocol%2fserver-fetch - Not found
+npm error 404
+npm error 404  '@modelcontextprotocol/server-fetch@*' is not in this registry.
+npm error 404
+npm error 404 Note that you can also install from a
+npm error 404 tarball, folder, http url, or git url.
+2025-12-22T10:57:24.977Z [ERROR] MCP server "fetch" Server stderr: npm error A complete log of this run can be found in: C:\Users\pur3v4d3rpk\AppData\Local\npm-cache\_logs\2025-12-22T10_57_24_539Z-debug-0.log
+2025-12-22T10:57:24.986Z [DEBUG] MCP server "fetch": Connection failed after 578ms: MCP error -32000: Connection closed
+2025-12-22T10:57:24.986Z [ERROR] MCP server "fetch" Connection failed: MCP error -32000: Connection closed
+2025-12-22T10:57:25.336Z [ERROR] MCP server "sequential-thinking" Server stderr: Sequential Thinking MCP Server running on stdio
+2025-12-22T10:57:25.340Z [DEBUG] MCP server "sequential-thinking": Successfully connected to stdio server in 950ms
+2025-12-22T10:57:25.340Z [DEBUG] MCP server "sequential-thinking": Connection established with capabilities: {"hasTools":true,"hasPrompts":false,"hasResources":false,"serverVersion":{"name":"sequential-thinking-server","version":"0.2.0"}}
+2025-12-22T10:57:25.432Z [DEBUG] MCP server "puppeteer": Successfully connected to stdio server in 1033ms
+2025-12-22T10:57:25.432Z [DEBUG] MCP server "puppeteer": Connection established with capabilities: {"hasTools":true,"hasPrompts":false,"hasResources":true,"serverVersion":{"name":"example-servers/puppeteer","version":"0.1.0"}}
+2025-12-22T10:57:25.440Z [DEBUG] Initialized versioned plugins system with 0 plugins
+2025-12-22T10:57:25.489Z [DEBUG] Getting matching hook commands for SessionStart with query: resume
+2025-12-22T10:57:25.489Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:57:25.489Z [DEBUG] Matched 0 unique hooks for query "resume" (0 before deduplication)
+2025-12-22T10:57:25.509Z [DEBUG] Total plugin output styles loaded: 0
+2025-12-22T10:57:25.523Z [DEBUG] LSP Diagnostics: getLSPDiagnosticAttachments called
+2025-12-22T10:57:25.523Z [DEBUG] LSP Diagnostics: Checking registry - 0 pending
+2025-12-22T10:57:25.523Z [DEBUG] Hooks: Found 0 total hooks in registry
+2025-12-22T10:57:25.523Z [DEBUG] Hooks: checkForNewResponses returning 0 responses
+2025-12-22T10:57:25.532Z [DEBUG] Getting matching hook commands for UserPromptSubmit with query: undefined
+2025-12-22T10:57:25.532Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:57:25.532Z [DEBUG] Matched 0 unique hooks for query "no match query" (0 before deduplication)
+2025-12-22T10:57:25.538Z [DEBUG] Skills and commands included in Skill tool: anthropic-expert, aptos-expert, expo-expert, ios-expert, plaid-expert, shopify-expert, stripe-expert, supabase-expert, toon-formatter, whop-expert, analyze-tokens, convert-to-toon, discover-skills, install-skill, toon-decode, toon-encode, toon-validate
+2025-12-22T10:57:25.571Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hGMjhsTBNMJYYiuz\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.623Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hTX6qq8PLBZWJmj2\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.627Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hWk2x7TABMjJjE65\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.630Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hYj98us6cpjm9Rgd\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.630Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hZE1UuGAN25Hck3a\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.630Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hZDvzKvmJqQtYEcq\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.632Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hZU1aKPNBN1Xpu7Q\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.632Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hYycjfknMzdSrGwH\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.639Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hai9P2PFh9vyvSWK\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.640Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hYUT2YHW2zvUGKhq\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.643Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6haiDZGgwW8aLFNnh\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.647Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6heBTM8kdYKPkE3iV\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.649Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6heBdN7f92DZMFM6P\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.651Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6heRuvbmRvBFHEDso\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.652Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hfBCLsw8EHg6ezag\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.653Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hfRPgkHwUuATYQHH\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.653Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hegR8KduWhEgTsDM\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.653Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hfuyXpqF9RTQqcqp\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.654Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6heBUzNx85PBCH67L\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.655Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hffbDhyEDfBjqnQv\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.655Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hfB4hmTbnBrf8rjV\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.657Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hffudFBK6i1YzsW6\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.657Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hevRyrmm58idH6YH\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.658Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hffgnuYUhPbbiKJQ\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.660Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hgQoaGeyvM2niyN1\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.660Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hffqCwrw7Ubgfw8k\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.660Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hfvCHbQj5j47Xj8G\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.670Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6heBGAuTBggE7gUPG\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.670Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hgQkU8btBN1JvKpe\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.672Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hje2UKwaTdFz7xz3\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.682Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hhA1C3MipDoEzVfs\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.696Z [ERROR] Error streaming, falling back to non-streaming mode: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011CWMc6horSsrPVfNMCv4Cz"}
+2025-12-22T10:57:25.755Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6hfvDPv9yGDrBB4kG\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.873Z [ERROR] Error in non-streaming fallback: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"},"request_id":"req_011CWMc6iM6jingLBmW2ZSdU"}
+2025-12-22T10:57:25.874Z [ERROR] "Error: Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"invalid x-api-key\"},\"request_id\":\"req_011CWMc6iM6jingLBmW2ZSdU\"}\n    at generate (B:/~BUN/root/claude.exe:451:11133)\n    at makeRequest (B:/~BUN/root/claude.exe:798:5435)\n    at processTicksAndRejections (native:7:39)"
+2025-12-22T10:57:25.908Z [DEBUG] Getting matching hook commands for Stop with query: undefined
+2025-12-22T10:57:25.908Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:57:25.908Z [DEBUG] Matched 0 unique hooks for query "no match query" (0 before deduplication)
+2025-12-22T10:57:25.909Z [DEBUG] Getting matching hook commands for SessionEnd with query: other
+2025-12-22T10:57:25.909Z [DEBUG] Found 0 hook matchers in settings
+2025-12-22T10:57:25.909Z [DEBUG] Matched 0 unique hooks for query "other" (0 before deduplication)

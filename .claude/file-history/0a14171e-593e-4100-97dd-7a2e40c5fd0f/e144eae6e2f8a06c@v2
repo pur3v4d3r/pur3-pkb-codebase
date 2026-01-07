@@ -1,0 +1,625 @@
+---
+tags: #spes #project-meta #implementation #tracking #phase-management
+aliases: [Implementation Plan, Project Tracker, Delivery Schedule]
+status: active
+certainty: ^verified
+priority: high
+created: 2025-12-20
+phase: 0
+project: prompt-engineering-templater-system
+link-up: "[[00-prompt-engineering-system-design]]"
+link-related:
+  - "[[project-charter]]"
+  - "[[architecture-overview]]"
+---
+
+# Implementation Tracker: Prompt Engineering System
+
+> [!abstract] Purpose
+> Detailed task breakdown, dependency management, and progress tracking for the Prompt Engineering System implementation. Each phase has explicit deliverables, success criteria, and approval gates.
+
+---
+
+## 📊 PROJECT OVERVIEW
+
+**Total Phases**: 5 (0-4)
+**Current Phase**: Phase 0 (Planning & Architecture)
+**Start Date**: 2025-12-20
+**Target Completion**: TBD after Phase 0 approval
+
+### Phase Summary
+
+| Phase | Name | Status | Deliverables | Duration Est. |
+|-------|------|--------|--------------|---------------|
+| 0 | Planning & Architecture | 🔄 In Progress | 3 docs | 2 hours |
+| 1 | Foundation (MVP) | ⏳ Pending | 5 items | 4-6 hours |
+| 2 | Guided Creation | ⏳ Pending | 20+ templates | 8-12 hours |
+| 3 | Testing & Optimization | ⏳ Pending | 5 systems | 4-6 hours |
+| 4 | Intelligence & Automation | ⏳ Pending | 15+ items | 6-8 hours |
+
+---
+
+## 🎯 PHASE 0: PLANNING & ARCHITECTURE
+
+**Goal**: Define complete system architecture, get user approval before implementation
+**Status**: 🔄 In Progress
+**Gate**: User reviews and approves system design
+
+### Deliverables
+
+- [x] **System Design Document** ([00-prompt-engineering-system-design.md](./00-prompt-engineering-system-design.md))
+  - [x] Architecture overview with component diagram
+  - [x] Data flow for prompt lifecycle
+  - [x] Integration map (plugins → functions)
+  - [x] Folder structure with rationale
+  - [x] Technical decisions and trade-offs
+  - [x] Risk identification and mitigation
+  - [x] Metadata schema master reference
+
+- [x] **Implementation Tracker** (THIS FILE)
+  - [x] Phase breakdown with deliverables
+  - [x] Task dependencies mapped
+  - [x] Effort estimates per deliverable
+  - [x] Progress tracking fields
+  - [x] Blocker/issue log section
+
+- [ ] **Quick Reference Guide**
+  - [ ] One-page daily workflow guide
+  - [ ] Plugin syntax cheat sheet
+  - [ ] Common operations quick reference
+  - [ ] Troubleshooting tips
+
+### Success Criteria
+- [x] Architecture diagram shows all major components
+- [x] Data flow covers complete prompt lifecycle
+- [x] Folder structure defined and justified
+- [ ] User has reviewed and approved design
+- [ ] Quick reference created for daily use
+
+### Blockers
+- None
+
+### Notes
+- System design intentionally comprehensive (25+ page document)
+- User prefers seeing complete plan before implementation begins
+- Integration with existing SPES foundation emphasized
+
+---
+
+## 🏗️ PHASE 1: FOUNDATION (MVP)
+
+**Goal**: Basic creation, organization, and discovery capabilities
+**Status**: ⏳ Awaiting Phase 0 Approval
+**Gate**: Can create new prompts and find them reliably
+
+### Deliverables
+
+#### 1.1 Master Prompt Template
+- [ ] Create `_prompt-master-template.md` in `99-system/01-quickadd/02-templates/`
+- [ ] Implement complete metadata schema (15+ fields)
+- [ ] Add Templater logic for guided input (suggester prompts)
+- [ ] Include usage instructions in comment block
+- [ ] Add Meta-Bind preview fields for real-time validation
+- [ ] Implement automatic linking to daily note and weekly review
+- [ ] Test template creation workflow (<30 seconds target)
+
+**Dependencies**: None
+**Estimated Time**: 1.5 hours
+
+#### 1.2 Metadata Schema Enforcement
+- [ ] Document metadata schema in dedicated note
+- [ ] Create controlled vocabulary for all dropdown fields
+- [ ] Design validation rules (required vs optional fields)
+- [ ] Create Meta-Bind suggester configurations
+- [ ] Test metadata auto-population via Templater
+
+**Dependencies**: 1.1 (Master Template)
+**Estimated Time**: 1 hour
+
+#### 1.3 Component Library Structure
+- [ ] Review existing SPES `02-component-library/` structure
+- [ ] Create index files for each subfolder (atomic/, composite/, specialized/)
+- [ ] Design component note template
+- [ ] Add component metadata schema (extends master schema)
+- [ ] Create 3-5 example components (one per category)
+- [ ] Document component creation workflow
+
+**Dependencies**: 1.1 (Master Template)
+**Estimated Time**: 2 hours
+
+#### 1.4 QuickAdd Quick Captures
+- [ ] Create `prompt-quick-capture.js` macro
+  - [ ] Minimal input: title, type, initial notes
+  - [ ] Auto-generate ID, timestamp, basic metadata
+  - [ ] Save to `00-inbox/prompt-ideas/`
+  - [ ] Test <10 second capture time
+- [ ] Create `component-search-insert.js` macro
+  - [ ] Search component library by keyword
+  - [ ] Display results with description preview
+  - [ ] Insert selected component text at cursor
+  - [ ] Log usage in component metadata
+- [ ] Create QuickAdd choices configuration
+  - [ ] Multi-choice: "New Prompt" → Quick Capture vs Full Template
+  - [ ] Multi-choice: "Prompt Type" → System/User/Chain/Agentic
+  - [ ] Choice: "Search Components"
+
+**Dependencies**: 1.3 (Component Library)
+**Estimated Time**: 2 hours
+
+#### 1.5 Dataview Library Dashboard
+- [ ] Create `prompt-engineering-dashboard.md` in `06-dashboards/`
+- [ ] Implement "All Prompts" table (sortable by type, status, rating)
+- [ ] Implement "Recent Activity" query (last 7 days)
+- [ ] Implement "Pending Ideas" query (inbox items)
+- [ ] Implement "Component Library" overview (counts by category)
+- [ ] Add health check section (missing metadata alerts)
+- [ ] Test dashboard load time (<2 seconds)
+
+**Dependencies**: 1.1, 1.3 (Templates and Components exist)
+**Estimated Time**: 1.5 hours
+
+### Phase 1 Success Criteria
+- [ ] Can create new prompt from master template in <30 seconds
+- [ ] Can quick-capture idea in <10 seconds
+- [ ] Can search and insert component from library
+- [ ] Can view all prompts organized by type/status in dashboard
+- [ ] All prompts have consistent metadata (validated)
+- [ ] User has successfully tested each workflow
+
+### Phase 1 Estimated Total Time: 6-8 hours
+
+---
+
+## 📝 PHASE 2: GUIDED CREATION
+
+**Goal**: Specialized templates for all prompt engineering scenarios
+**Status**: ⏳ Awaiting Phase 1 Completion
+**Gate**: User has template for every common use case
+
+### Deliverables
+
+#### 2.1 Agentic Templates
+- [ ] **Claude Project Template** (`_claude-project-creator.md`)
+  - [ ] Adapt existing `_claude-project-template.md`
+  - [ ] Add sections: Project Knowledge, Custom Instructions, Capabilities
+  - [ ] Include best practices callout
+  - [ ] Add example Claude Project
+- [ ] **Gemini Gem Template** (`_gemini-gem-creator.md`)
+  - [ ] Similar structure to Claude Project
+  - [ ] Gem-specific fields (starters, safety settings)
+  - [ ] Include example Gem
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 1.5 hours
+
+#### 2.2 Structured Prompt Templates
+- [ ] **System Prompt Creator** (`_system-prompt-creator.md`)
+  - [ ] Sections: Role, Context, Task, Constraints, Format, Examples
+  - [ ] Templater logic for progressive disclosure
+  - [ ] Component insertion points
+  - [ ] Constitutional principles section
+- [ ] **User Prompt Generator** (`_user-prompt-generator.md`)
+  - [ ] Simplified structure (task-focused)
+  - [ ] Context framing section
+  - [ ] Output specification
+  - [ ] Few-shot example slots
+- [ ] **Few-Shot Template** (`_few-shot-template.md`)
+  - [ ] 2-5 example slots (dynamic count via Templater)
+  - [ ] Input/output pair structure
+  - [ ] Reasoning explanation (optional)
+  - [ ] Pattern extraction notes
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 2 hours
+
+#### 2.3 Advanced Reasoning Templates
+- [ ] **Chain-of-Thought Template** (`_chain-of-thought-template.md`)
+  - [ ] Step-by-step reasoning structure
+  - [ ] Intermediate state capture
+  - [ ] Verification checkpoints
+  - [ ] Example CoT demonstrations
+- [ ] **Tree-of-Thoughts Template** (`_tree-of-thoughts-template.md`)
+  - [ ] Parallel exploration branches
+  - [ ] Evaluation criteria section
+  - [ ] Search strategy specification
+  - [ ] Backtracking notes
+- [ ] **Least-to-Most Template** (`_least-to-most-template.md`)
+  - [ ] Problem decomposition section
+  - [ ] Progressive complexity ordering
+  - [ ] Cumulative solution building
+  - [ ] Integration synthesis
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 2 hours
+
+#### 2.4 Workflow Templates
+- [ ] **Prompt Chain Builder** (`_prompt-chain-builder.md`)
+  - [ ] Multi-turn workflow designer
+  - [ ] Turn-by-turn specifications
+  - [ ] Context handoff patterns
+  - [ ] Output → input mapping
+  - [ ] Integration with SPES workflows
+- [ ] **Workflow Template** (`_workflow-template.md`)
+  - [ ] Generic workflow structure
+  - [ ] Phase breakdown
+  - [ ] Decision points
+  - [ ] Success criteria per phase
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 1.5 hours
+
+#### 2.5 Testing & Optimization Templates
+- [ ] **A/B Testing Framework** (`_ab-test-template.md`)
+  - [ ] Side-by-side comparison structure
+  - [ ] Variant A and B sections
+  - [ ] Evaluation criteria checklist
+  - [ ] Results summary
+  - [ ] Winner selection with rationale
+- [ ] **Prompt Debugging Template** (`_debug-template.md`)
+  - [ ] Issue description section
+  - [ ] Hypothesis generation
+  - [ ] Systematic diagnosis
+  - [ ] Solution attempts log
+  - [ ] Resolution documentation
+- [ ] **Optimization Workflow** (`_optimization-workflow.md`)
+  - [ ] Current performance baseline
+  - [ ] Target performance goals
+  - [ ] Hypothesis-driven experiments
+  - [ ] Iteration log
+  - [ ] Performance delta tracking
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 2 hours
+
+#### 2.6 Documentation Templates
+- [ ] **Test Results Documentation** (`_test-results-template.md`)
+  - [ ] Structured test logging
+  - [ ] Success/failure classification
+  - [ ] Quality scoring rubric
+  - [ ] Issues found section
+  - [ ] Recommendations section
+- [ ] **Comparative Analysis** (`_comparative-analysis-template.md`)
+  - [ ] Multi-prompt comparison matrix
+  - [ ] Criteria-based evaluation
+  - [ ] Scoring across dimensions
+  - [ ] Best-fit recommendations
+- [ ] **Effectiveness Report** (`_effectiveness-report-template.md`)
+  - [ ] Prompt overview
+  - [ ] Usage statistics
+  - [ ] Performance metrics
+  - [ ] User feedback summary
+  - [ ] Improvement suggestions
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 1.5 hours
+
+#### 2.7 Supporting Templates
+- [ ] **Idea Template** (`_idea-template.md`)
+  - [ ] Minimal structure for rapid capture
+  - [ ] Problem/opportunity description
+  - [ ] Initial approach notes
+  - [ ] Context for future LLM generation
+  - [ ] Development checklist
+- [ ] **Component Extractor** (`_component-extractor.md`)
+  - [ ] Extract reusable section from working prompt
+  - [ ] Component metadata population
+  - [ ] Usage documentation
+  - [ ] Testing notes
+- [ ] **Workflow Guide Template** (`_workflow-guide-template.md`)
+  - [ ] Step-by-step procedure
+  - [ ] Prerequisites
+  - [ ] Examples
+  - [ ] Troubleshooting
+  - [ ] Integration notes
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 1.5 hours
+
+### Phase 2 Success Criteria
+- [ ] 20+ specialized templates created
+- [ ] Each template type has guided creation workflow
+- [ ] Components can be created, searched, and inserted
+- [ ] Templates include usage instructions and examples
+- [ ] All templates tested successfully
+- [ ] User can handle 95% of prompt engineering scenarios with existing templates
+
+### Phase 2 Estimated Total Time: 10-12 hours
+
+---
+
+## 🧪 PHASE 3: TESTING & OPTIMIZATION
+
+**Goal**: Validate and systematically improve prompt quality
+**Status**: ⏳ Awaiting Phase 2 Completion
+**Gate**: Can measure and improve prompt effectiveness
+
+### Deliverables
+
+#### 3.1 Version Tracking System
+- [ ] Create `version-bump.js` QuickAdd macro
+  - [ ] Parse current version from metadata
+  - [ ] Increment according to semver (major/minor/patch)
+  - [ ] Prompt for changelog entry
+  - [ ] Update metadata: version, modified date
+  - [ ] Create version history note (optional)
+- [ ] Create `_version-tracker-template.md`
+  - [ ] Version history table
+  - [ ] Change log entries
+  - [ ] Performance delta across versions
+  - [ ] Rollback notes
+- [ ] Add version comparison DataviewJS query
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 2 hours
+
+#### 3.2 A/B Testing System (Enhanced)
+- [ ] Already created in Phase 2.5, enhance with:
+  - [ ] Statistical significance calculator (if quantitative)
+  - [ ] Automated winner determination based on criteria weights
+  - [ ] Link to parent prompt and both variants
+  - [ ] Test result archive automation
+
+**Dependencies**: Phase 2 complete (template exists)
+**Estimated Time**: 1 hour
+
+#### 3.3 Debug System (Enhanced)
+- [ ] Already created in Phase 2.5, enhance with:
+  - [ ] Common failure mode checklist
+  - [ ] Diagnostic question tree
+  - [ ] Link to similar past issues
+  - [ ] Solution library reference
+
+**Dependencies**: Phase 2 complete (template exists)
+**Estimated Time**: 1 hour
+
+#### 3.4 Test Results Aggregation
+- [ ] Create DataviewJS query for test results dashboard
+  - [ ] Success rate by prompt type
+  - [ ] Quality score trends over time
+  - [ ] Most common issues identified
+  - [ ] Prompts with pending tests
+- [ ] Create `test-results-analyzer.js` script (optional)
+  - [ ] Aggregate test data
+  - [ ] Generate insights
+  - [ ] Export CSV for external analysis
+
+**Dependencies**: Phase 2 complete
+**Estimated Time**: 1.5 hours
+
+#### 3.5 Optimization Workflow Integration
+- [ ] Create optimization dashboard section
+  - [ ] Prompts below quality threshold
+  - [ ] Optimization opportunities (high usage, low quality)
+  - [ ] Recent optimizations and results
+- [ ] Add optimization workflow to main dashboard
+
+**Dependencies**: Phase 2 complete
+**Estimated Time**: 1 hour
+
+### Phase 3 Success Criteria
+- [ ] Can track prompt versions with changelog
+- [ ] Can run A/B tests with structured results
+- [ ] Can debug prompts systematically
+- [ ] Can view test results aggregated by type
+- [ ] Can identify optimization opportunities automatically
+- [ ] User has successfully improved at least one prompt using system
+
+### Phase 3 Estimated Total Time: 5-7 hours
+
+---
+
+## 🧠 PHASE 4: INTELLIGENCE & AUTOMATION
+
+**Goal**: Auto-discover patterns, recommend components, reduce friction
+**Status**: ⏳ Awaiting Phase 3 Completion
+**Gate**: System proactively suggests improvements and automates repetitive tasks
+
+### Deliverables
+
+#### 4.1 Usage Analytics Dashboard
+- [ ] Create `analytics-dashboard.md` in `04-intelligence-layer/analytics/`
+- [ ] Implement queries:
+  - [ ] Most/least used prompts
+  - [ ] Most/least used components
+  - [ ] Usage trends over time (chart)
+  - [ ] Prompts by quality score distribution
+  - [ ] Average quality score by prompt type
+  - [ ] Staleness report (unused prompts >90 days)
+
+**Dependencies**: Phase 1 complete (metadata tracking in place)
+**Estimated Time**: 2 hours
+
+#### 4.2 Component Recommendation System
+- [ ] Create DataviewJS query for semantic recommendations
+  - [ ] "You used component X, consider also using Y" (co-occurrence)
+  - [ ] "Prompts similar to current one used these components"
+  - [ ] "High-rated prompts in this domain commonly use..."
+- [ ] Create `component-recommender.js` macro
+  - [ ] Analyze current prompt context
+  - [ ] Query library for relevant components
+  - [ ] Display recommendations with rationale
+  - [ ] Insert selected component
+
+**Dependencies**: Phase 1 complete, sufficient usage data
+**Estimated Time**: 2 hours
+
+#### 4.3 Semantic Bridge Detection
+- [ ] Adapt existing semantic bridge query from vault
+- [ ] Create "Related Prompts" section for all prompt notes
+  - [ ] Find prompts with shared component usage
+  - [ ] Find prompts with shared context links
+  - [ ] Display top 5 related prompts
+- [ ] Add to master template as automatic section
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 1.5 hours
+
+#### 4.4 Health Monitoring System
+- [ ] Create `prompt-health-check.py` script
+  - [ ] Missing required metadata fields
+  - [ ] Invalid metadata values
+  - [ ] Broken component links
+  - [ ] Orphan prompts (no usage, no links)
+  - [ ] Duplicate prompts (fuzzy matching)
+  - [ ] Generate health report
+- [ ] Create health dashboard section
+  - [ ] Overall health score (%)
+  - [ ] Issues by severity
+  - [ ] Action items with priority
+- [ ] Add QuickAdd macro to trigger health check
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 2 hours
+
+#### 4.5 Pattern Detection & Learning
+- [ ] Create `pattern-detector.js` script
+  - [ ] Identify high-performing component combinations
+  - [ ] Detect common prompt structures in top-rated prompts
+  - [ ] Find anti-patterns (component combos with low quality scores)
+  - [ ] Generate insights report
+- [ ] Create pattern library note
+  - [ ] Document discovered patterns
+  - [ ] Link to example prompts
+  - [ ] Usage recommendations
+
+**Dependencies**: Phase 3 complete (sufficient test data)
+**Estimated Time**: 2 hours
+
+#### 4.6 Advanced QuickAdd Macros
+- [ ] **Clone & Modify Macro** (`clone-and-modify.js`)
+  - [ ] Duplicate prompt with new ID
+  - [ ] Increment version
+  - [ ] Add "(variant)" to title
+  - [ ] Link back to original
+- [ ] **Extract to Library Macro** (`extract-to-library.js`)
+  - [ ] Select text section from prompt
+  - [ ] Create component note
+  - [ ] Populate metadata
+  - [ ] Replace original text with component link
+- [ ] **Archive Prompt Macro** (`archive-prompt.js`)
+  - [ ] Update status to "archived"
+  - [ ] Move to `99-archive/prompts/YYYY/`
+  - [ ] Preserve all links
+- [ ] **Usage Counter Macro** (`increment-usage.js`)
+  - [ ] Increment usage-count field
+  - [ ] Update last-used date
+  - [ ] Extend review interval (if applicable)
+- [ ] **Review Scheduler Macro** (`schedule-review.js`)
+  - [ ] Calculate next review based on maturity
+  - [ ] Seedling: 7 days
+  - [ ] Developing: 14 days
+  - [ ] Budding: 30 days
+  - [ ] Evergreen: 90 days
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 3 hours
+
+#### 4.7 Bulk Operations Scripts
+- [ ] **Component Usage Analyzer** (`component-usage-analyzer.py`)
+  - [ ] Scan all prompts for component references
+  - [ ] Update component usage-count metadata
+  - [ ] Generate usage report
+- [ ] **Metadata Validator** (`metadata-validator.py`)
+  - [ ] Validate all prompts against schema
+  - [ ] Auto-fix common issues (missing dates, etc.)
+  - [ ] Generate validation report
+- [ ] **Archive Automation** (`auto-archive.py`)
+  - [ ] Identify prompts unused >180 days with status=deprecated
+  - [ ] Batch move to archive
+  - [ ] Update metadata
+  - [ ] Generate archive log
+
+**Dependencies**: Phase 1 complete
+**Estimated Time**: 2 hours
+
+### Phase 4 Success Criteria
+- [ ] Usage analytics dashboard shows meaningful trends
+- [ ] Component recommender suggests relevant components based on context
+- [ ] Health monitoring identifies and prioritizes issues
+- [ ] Pattern detection finds at least 3 valuable insights
+- [ ] Advanced macros reduce common workflow friction
+- [ ] Bulk operation scripts save significant manual time
+- [ ] User experiences proactive system intelligence
+
+### Phase 4 Estimated Total Time: 12-15 hours
+
+---
+
+## 📊 PROGRESS TRACKING
+
+### Overall Completion
+
+**Phase 0**: █████░░░░░ 80% (2/3 deliverables)
+**Phase 1**: ░░░░░░░░░░ 0% (awaiting approval)
+**Phase 2**: ░░░░░░░░░░ 0% (awaiting Phase 1)
+**Phase 3**: ░░░░░░░░░░ 0% (awaiting Phase 2)
+**Phase 4**: ░░░░░░░░░░ 0% (awaiting Phase 3)
+
+**Total Project**: ████░░░░░░░░░░░░░░░░ 16% (Phase 0 nearly complete)
+
+### Time Tracking
+
+| Phase | Estimated | Actual | Variance |
+|-------|-----------|--------|----------|
+| 0 | 2h | TBD | - |
+| 1 | 6-8h | - | - |
+| 2 | 10-12h | - | - |
+| 3 | 5-7h | - | - |
+| 4 | 12-15h | - | - |
+| **Total** | **35-44h** | **-** | **-** |
+
+---
+
+## 🚧 BLOCKERS & ISSUES
+
+### Active Blockers
+*None*
+
+### Resolved Blockers
+*None yet*
+
+### Known Issues
+*None yet*
+
+---
+
+## 📝 DECISION LOG
+
+### 2025-12-20
+**Decision**: Use existing SPES foundation instead of creating parallel structure
+**Rationale**: Avoids duplication, leverages existing investment, maintains architectural coherence
+**Impact**: Reduced Phase 1 scope (no need to create library structure from scratch)
+
+### 2025-12-20
+**Decision**: Phase 0 includes comprehensive 25+ page design document
+**Rationale**: User prefers seeing complete plan before implementation; aligns with "Planning without timelines" principle
+**Impact**: Slightly longer Phase 0, but much faster execution in subsequent phases
+
+---
+
+## 🎯 NEXT ACTIONS
+
+### Immediate (Phase 0 Completion)
+1. [ ] Complete quick reference guide
+2. [ ] Present Phase 0 deliverables to user
+3. [ ] Await user approval/feedback
+4. [ ] Incorporate any requested changes
+
+### Upon Phase 0 Approval
+1. [ ] Begin Phase 1: Create master prompt template
+2. [ ] Update session memory with Phase 1 start
+3. [ ] Update this tracker with Phase 1 progress
+
+---
+
+## 📚 RELATED DOCUMENTS
+
+- [[00-prompt-engineering-system-design]] - Complete system architecture
+- [[project-charter]] - Vision and success criteria
+- [[architecture-overview]] - SPES three-pillar design
+- [[implementation-roadmap]] - High-level timeline
+- [[session-memory]] - Cross-session context
+
+---
+
+*This tracker is updated at the completion of each deliverable and at each phase gate. All estimates are subject to refinement based on actual implementation experience.*

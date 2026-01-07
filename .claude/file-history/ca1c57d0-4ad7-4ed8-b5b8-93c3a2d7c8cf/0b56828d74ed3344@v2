@@ -1,0 +1,80 @@
+# Repomix Helper Script
+# Usage: .\repomix-helper.ps1 [profile]
+# Profiles: notes, library, codebase, project, full, custom
+# Run from: 99_Outputs/repomix-configs/ OR vault root
+
+param(
+    [Parameter(Position=0)]
+    [ValidateSet('notes', 'library', 'codebase', 'project', 'full', 'custom')]
+    [string]$Profile = 'notes',
+
+    [Parameter(Position=1)]
+    [string]$CustomPath = ""
+)
+
+# Detect if we're in the repomix-configs folder or vault root
+$configDir = if (Test-Path "repomix.config.notes-only.json") {
+    "."
+    $vaultRoot = "../.."
+} elseif (Test-Path "99_Outputs/repomix-configs/repomix.config.notes-only.json") {
+    "99_Outputs/repomix-configs"
+    $vaultRoot = "."
+} else {
+    Write-Host "❌ Error: Cannot find repomix config files" -ForegroundColor Red
+    Write-Host "Please run from vault root or 99_Outputs/repomix-configs/" -ForegroundColor Yellow
+    exit 1
+}
+
+Write-Host "🔧 Repomix Helper - Generating $Profile package..." -ForegroundColor Cyan
+
+switch ($Profile) {
+    'notes' {
+        Write-Host "📝 Packing: Personal notes only (no library, no archives)" -ForegroundColor Green
+        Push-Location $vaultRoot
+        repomix --config "$configDir/repomix.config.notes-only.json"
+        Pop-Location
+    }
+    'library' {
+        Write-Host "📚 Packing: Library/reference materials" -ForegroundColor Green
+        Push-Location $vaultRoot
+        repomix --config "$configDir/repomix.config.library.json"
+        Pop-Location
+    }
+    'codebase' {
+        Write-Host "💻 Packing: Codebase from 999-codebas+pkb/" -ForegroundColor Green
+        Push-Location $vaultRoot
+        repomix --config "$configDir/repomix.config.codebase.json"
+        Pop-Location
+    }
+    'project' {
+        Write-Host "🎯 Packing: Specific project" -ForegroundColor Green
+        Push-Location $vaultRoot
+        repomix --config "$configDir/repomix.config.specific-project.json"
+        Pop-Location
+    }
+    'full' {
+        Write-Host "⚠️  WARNING: Packing EVERYTHING (may be very large!)" -ForegroundColor Yellow
+        $confirm = Read-Host "This may create a huge file. Continue? (yes/no)"
+        if ($confirm -eq 'yes') {
+            Push-Location $vaultRoot
+            repomix --output "99_Outputs/repomix-full.txt" --style markdown
+            Pop-Location
+        } else {
+            Write-Host "❌ Cancelled" -ForegroundColor Red
+            exit
+        }
+    }
+    'custom' {
+        if ($CustomPath -eq "") {
+            Write-Host "❌ Please provide a path: .\repomix-helper.ps1 custom 'path/to/folder'" -ForegroundColor Red
+            exit
+        }
+        Write-Host "🎨 Packing: Custom path - $CustomPath" -ForegroundColor Green
+        Push-Location $vaultRoot
+        repomix --output "99_Outputs/repomix-custom.txt" --style markdown $CustomPath
+        Pop-Location
+    }
+}
+
+Write-Host "`n✅ Done! Check 99_Outputs/ for your file" -ForegroundColor Green
+Write-Host "💡 Tip: Files are ignored by Obsidian and git automatically" -ForegroundColor Gray

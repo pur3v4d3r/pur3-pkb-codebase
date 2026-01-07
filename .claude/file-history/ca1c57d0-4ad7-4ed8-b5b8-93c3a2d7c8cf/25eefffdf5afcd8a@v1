@@ -1,0 +1,23 @@
+{
+    "git.ignoreLimitWarning": true,
+    "ollama.serverUrl": "http://localhost:11434",
+    "ollama.defaultModel": "deepseek-coder:33b",
+    "ollama.maxTokens": 2048,
+    "ollama.temperature": 0.7,
+    "ollama.autoStart": true,
+    "ollama.autoOpenChat": true,
+    "ollama.keepModelRunningOnBlur": true,
+    "ollama.stopModelOnPanelClose": false,
+    "ollama.defaultChatPanelLocation": "right",
+    "ollama.openFileInNewTab": true,
+    "ollama.openFileAfterCreation": true,
+    "ollama.refocusChatAfterFileCreation": false,
+    "ollama.useBuiltInServer": false,
+    "editor.minimap.enabled": true,
+    "editor.minimap.side": "right",
+    "editor.minimap.showSlider": "always",
+    "editor.minimap.renderCharacters": true,
+    "editor.minimap.maxColumn": 120,
+    "editor.minimap.size": "fill",
+    "zenMode.hideMinimap": false
+}

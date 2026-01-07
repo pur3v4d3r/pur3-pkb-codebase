@@ -1,0 +1,54 @@
+# Repomix Helper Script
+# Usage: .\repomix-helper.ps1 [profile]
+# Profiles: notes, library, codebase, project, full, custom
+
+param(
+    [Parameter(Position=0)]
+    [ValidateSet('notes', 'library', 'codebase', 'project', 'full', 'custom')]
+    [string]$Profile = 'notes',
+
+    [Parameter(Position=1)]
+    [string]$CustomPath = ""
+)
+
+Write-Host "🔧 Repomix Helper - Generating $Profile package..." -ForegroundColor Cyan
+
+switch ($Profile) {
+    'notes' {
+        Write-Host "📝 Packing: Personal notes only (no library, no archives)" -ForegroundColor Green
+        repomix --config repomix.config.notes-only.json
+    }
+    'library' {
+        Write-Host "📚 Packing: Library/reference materials" -ForegroundColor Green
+        repomix --config repomix.config.library.json
+    }
+    'codebase' {
+        Write-Host "💻 Packing: Codebase from 999-codebas+pkb/" -ForegroundColor Green
+        repomix --config repomix.config.codebase.json
+    }
+    'project' {
+        Write-Host "🎯 Packing: Specific project" -ForegroundColor Green
+        repomix --config repomix.config.specific-project.json
+    }
+    'full' {
+        Write-Host "⚠️  WARNING: Packing EVERYTHING (may be very large!)" -ForegroundColor Yellow
+        $confirm = Read-Host "This may create a huge file. Continue? (yes/no)"
+        if ($confirm -eq 'yes') {
+            repomix --output "99_Outputs/repomix-full.txt" --style markdown
+        } else {
+            Write-Host "❌ Cancelled" -ForegroundColor Red
+            exit
+        }
+    }
+    'custom' {
+        if ($CustomPath -eq "") {
+            Write-Host "❌ Please provide a path: .\repomix-helper.ps1 custom 'path/to/folder'" -ForegroundColor Red
+            exit
+        }
+        Write-Host "🎨 Packing: Custom path - $CustomPath" -ForegroundColor Green
+        repomix --output "99_Outputs/repomix-custom.txt" --style markdown $CustomPath
+    }
+}
+
+Write-Host "`n✅ Done! Check 99_Outputs/ for your file" -ForegroundColor Green
+Write-Host "💡 Tip: Files are ignored by Obsidian and git automatically" -ForegroundColor Gray

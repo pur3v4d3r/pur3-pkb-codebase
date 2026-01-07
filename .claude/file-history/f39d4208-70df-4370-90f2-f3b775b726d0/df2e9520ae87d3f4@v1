@@ -1,0 +1,206 @@
+---
+tags: #meta #system #projects #tracking
+aliases: [Active Projects, Work Status, Project Dashboard]
+status: evergreen
+certainty: ^verified
+created: 2025-12-16
+---
+
+# Project Tracker
+
+> [!abstract] Purpose
+> Central registry of ongoing vault projects, system enhancements, and multi-session work. Prevents context loss and enables strategic prioritization.
+
+---
+
+## 🚀 Active Projects
+
+### 1. Memory System Implementation
+**Status**: `In Progress` | **Priority**: `High` | **Started**: 2025-12-16
+
+**Objective**: Establish persistent context across Claude sessions to eliminate session amnesia.
+
+**Components**:
+- [x] Create 00-meta directory structure
+- [x] Build session-memory.md (active context)
+- [x] Build user-preferences.md (workflow patterns)
+- [x] Build vault-map.md (structure tracking)
+- [x] Build project-tracker.md (this file)
+- [ ] Update CLAUDE.md with memory protocols
+- [ ] Test session persistence across restart
+- [ ] Document usage workflow
+
+**Next Actions**:
+1. Integrate memory system into CLAUDE.md system prompt
+2. Establish session start/end protocols
+3. Test multi-session continuity
+
+---
+
+### 2. Self-Documenting Dataview System Adaptation
+
+**Status**: `In Progress` | **Priority**: `High` | **Started**: 2025-12-16
+
+**Objective**: Adapt self-documenting dataview system for general PKB knowledge work, creating emergent intelligence through automated concept tracking and discovery queries.
+
+**Components**:
+
+- [x] Analyze existing self-documenting dataview documentation
+- [ ] Analyze user's vault structure and domain needs
+- [ ] Design custom metadata schema for user's PKB domains
+- [ ] Create production-ready concept note templates
+- [ ] Create application note templates for different use cases
+- [ ] Generate domain-specific discovery queries
+- [ ] Create dashboard queries for vault-wide intelligence
+- [ ] Test system with sample notes
+- [ ] Document system usage and customization guide
+
+**Next Actions**:
+1. Analyze vault structure to identify key domains (projects, research, notes, etc.)
+2. Design metadata schema for each domain type
+3. Create custom templates adapted to user's workflow
+
+---
+
+### 3. Sequential Prompt Engineering System (SPES)
+
+**Status**: `Planning` | **Priority**: `High` | **Started**: 2025-12-16
+
+**Objective**: Unified system integrating component-based prompt management, sequential workflow decomposition, and intelligent auto-discovery through metadata. Claude assists with problem decomposition, component retrieval, and learns from usage patterns.
+
+**Architecture - Three Pillars**:
+
+**1. Component Library**
+- Atomic components (personas, instructions, constraints, formats)
+- Composite workflows (multi-step prompt chains)
+- Specialized domain templates
+- Location: `000_databsae/` (existing structure)
+
+**2. Sequential Workflow Engine**
+- Problem decomposition templates
+- Context handoff protocols
+- Multi-turn conversation management
+- Content/context isolation strategies
+
+**3. Intelligence Layer**
+- Self-documenting dataview integration
+- 16 PKB integration systems (epistemic encoding, relationship typing, application contexts)
+- Usage analytics and pattern discovery
+- Component relationship auto-discovery
+
+**Identified Gaps**:
+- [ ] SOPs (component creation, testing, validation protocols)
+- [ ] Analytics dashboards (usage tracking, performance metrics)
+- [ ] Testing framework (unit/integration/system tests)
+- [ ] Claude instruction sets (actual librarian prompts)
+- [ ] Automation scripts (Dataview queries, Templater, QuickAdd)
+
+**Key Reference Notes**:
+- [[reference-comprehensive-claude-prompt-component-librarian-2025111004]]
+- [[reference-technical-llm-pkb-integration-systems-2025121411]]
+- [[reference-technical-component-librarian-claude-project-2025111218]]
+
+**Implementation Options**:
+- **Option A**: Start with unified project structure + Claude librarian instruction sets
+- **Option B**: Start with sequential prompting framework + decomposition templates
+- **Option C**: Focus on adapting self-doc dataview for prompt components first
+
+**Next Actions**:
+1. User to select implementation starting point (A, B, or C)
+2. Begin new context session for chosen foundation
+3. Build selected foundation incrementally
+
+**Notes**:
+- Prompt engineering chosen as first domain (bounded, immediate utility, clear metrics)
+- Sequential prompting + Component library = multiplicative value
+- Self-doc dataview provides cross-session memory Claude lacks
+
+---
+
+## 📋 Backlog
+
+### Vault Maintenance
+- **Resolve Directory Duplication**: `01-daily-notes/` vs `01_daily-notes/`
+- **Investigate Database Naming**: `000_databsae/` (typo or intentional?)
+- **Separator Standardization**: Decide on hyphen vs underscore convention
+
+### Graph Health
+- **Orphan Detection**: Scan for notes with 0 links
+- **Ghost Link Mapping**: Find `[[broken-links]]` to non-existent notes
+- **MOC Opportunities**: Cluster analysis for 5+ related notes
+
+### Automation
+- **Vault Stats Script**: Auto-update vault-map.md metrics
+- **Session Logger**: Git hooks for automatic session commits
+- **Link Validator**: Pre-commit check for broken references
+
+---
+
+## ✅ Completed Projects
+
+### 2025-12-16
+- **Memory System Foundation**: Created 4-file meta infrastructure
+  - Files: session-memory, user-preferences, vault-map, project-tracker
+  - Location: `00-meta/`
+  - Integration: Graph-based (Option 3 approach)
+
+---
+
+## 🎯 Project Categories
+
+### System Enhancement
+Projects improving vault infrastructure, automation, or AI integration.
+
+### Content Development
+Knowledge expansion, note creation, MOC building.
+
+### Maintenance
+Cleanup, refactoring, link repair, archiving.
+
+### Research
+Investigation tasks, pattern analysis, methodology exploration.
+
+---
+
+## 📊 Project Metrics
+
+| Metric | Current | Target | Status |
+|--------|---------|--------|--------|
+| Active Projects | 3 | 3-5 | ✅ Optimal |
+| Backlog Items | 6 | <10 | ✅ Healthy |
+| Completion Rate | N/A | Track over time | 📊 Baseline |
+| Session Continuity | New | 100% | 🔄 Testing |
+
+---
+
+## 🔗 Related
+
+- [[session-memory]] - Current session state
+- [[vault-map]] - Structural overview
+- [[user-preferences]] - Decision context
+
+---
+
+## 📝 Project Template
+
+*Use this template when adding new projects:*
+
+```markdown
+### Project Name
+**Status**: `Not Started|In Progress|Blocked|Completed`
+**Priority**: `Low|Medium|High|Critical`
+**Started**: YYYY-MM-DD
+
+**Objective**: One-sentence goal
+
+**Components**:
+- [ ] Task 1
+- [ ] Task 2
+
+**Next Actions**:
+1. Immediate next step
+```
+
+---
+
+*Last Updated: 2025-12-16 | Active Projects: 3 | Backlog: 6*

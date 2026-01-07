@@ -1,0 +1,9 @@
+{
+  "name": "Pur3v4d3r Imperial",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "author": "Pur3v4d3r",
+  "authorUrl": "",
+  "description": "Professional dark theme with red/grey/black color scheme. Features advanced code blocks with dual borders, unified callout system with Card Elevated style, and glassmorphism sidebars. Zero animations for maximum performance and reliability.",
+  "modes": ["dark"]
+}

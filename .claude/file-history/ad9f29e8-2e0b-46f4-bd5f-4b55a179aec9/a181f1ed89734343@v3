@@ -1,0 +1,383 @@
+/* ═══════════════════════════════════════════════════════════
+   PUR3V4D3R IMPERIAL THEME
+   Version: 1.0.0
+   Author: Pur3v4d3r
+   Description: Professional dark theme with red/grey/black palette
+
+   Features:
+   - Crimson (#E50000) accent throughout
+   - Glassmorphism sidebars with backdrop blur
+   - Advanced code blocks with dual borders
+   - 30 essential callout types with Card Elevated style
+   - Zero animations for maximum performance
+   - No !important flags (clean CSS hierarchy)
+
+   Color Palette:
+   - Red: #E50000 (vivid), #FF0000 (bright), #B30000 (dark)
+   - Grey: #E0E0E0 (bright), #A3A3A3 (medium), #7A7A7A (dark)
+   - Black: #0A0A0A (deep), #121212 (base), #1E1E1E (raised)
+   ═══════════════════════════════════════════════════════════ */
+
+/* ═══════════════════════════════════════════════════════════
+   SECTION 1: BASE - OBSIDIAN APP IMPORT
+   ═══════════════════════════════════════════════════════════ */
+
+@import url('app://obsidian.md/app.css');
+
+/* ═══════════════════════════════════════════════════════════
+   SECTION 2: CSS VARIABLES - FOUNDATION
+   Dependencies: None
+   Description: All color, spacing, typography, and UI variables
+   ═══════════════════════════════════════════════════════════ */
+
+.theme-dark {
+
+  /* ─────────────────────────────────────────
+     COLOR SYSTEM - Red/Grey/Black Palette
+     ───────────────────────────────────────── */
+
+  /* Primary Red Accents */
+  --theme-red-vivid: #E50000;
+  --theme-red-bright: #FF0000;
+  --theme-red-dim: #CC0000;
+  --theme-red-dark: #B30000;
+
+  /* Greyscale Hierarchy */
+  --theme-grey-bright: #E0E0E0;
+  --theme-grey-medium: #A3A3A3;
+  --theme-grey-dark: #7A7A7A;
+  --theme-grey-darker: #5A5A5A;
+
+  /* Black Backgrounds (Darkest to Lightest) */
+  --theme-black-deep: #0A0A0A;
+  --theme-black-base: #121212;
+  --theme-black-raised: #1E1E1E;
+  --theme-black-surface: #252525;
+  --theme-black-ui: #181818;
+  --theme-black-border: #2A2A2A;
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Backgrounds
+     ───────────────────────────────────────── */
+
+  --background-primary: var(--theme-black-base);
+  --background-secondary: var(--theme-black-raised);
+  --background-modifier-border: var(--theme-black-border);
+  --frame-background: var(--theme-black-ui);
+  --gutter-background: var(--theme-black-ui);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Accents
+     ───────────────────────────────────────── */
+
+  --color-accent: var(--theme-red-vivid);
+  --interactive-accent: var(--theme-red-vivid);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Text
+     ───────────────────────────────────────── */
+
+  --text-normal: var(--theme-grey-bright);
+  --text-muted: var(--theme-grey-medium);
+  --text-faint: var(--theme-grey-dark);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Links
+     ───────────────────────────────────────── */
+
+  --link-color: var(--theme-red-vivid);
+  --link-color-hover: var(--theme-red-bright);
+  --link-external-color: var(--theme-grey-medium);
+  --link-external-color-hover: var(--theme-red-vivid);
+  --link-unresolved-color: #666666;
+  --link-unresolved-decoration-color: var(--theme-red-vivid);
+  --link-unresolved-opacity: 1.0;
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Code Blocks
+     ───────────────────────────────────────── */
+
+  --code-background: var(--theme-black-deep);
+  --code-normal: var(--theme-grey-bright);
+  --code-comment: var(--theme-grey-dark);
+  --code-function: #FF4D4D;
+  --code-important: var(--theme-red-bright);
+  --code-keyword: var(--theme-red-vivid);
+  --code-operator: var(--theme-grey-medium);
+  --code-property: var(--theme-red-bright);
+  --code-punctuation: var(--theme-grey-dark);
+  --code-string: var(--theme-grey-bright);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - UI Components
+     ───────────────────────────────────────── */
+
+  --icon-color: var(--theme-red-vivid);
+  --icon-color-hover: var(--theme-red-bright);
+  --icon-color-active: var(--theme-red-dark);
+  --icon-color-focused: var(--theme-red-vivid);
+
+  --indentation-guide-color: var(--theme-black-border);
+  --indentation-guide-color-active: var(--theme-red-vivid);
+
+  --progress-complete: var(--theme-red-vivid);
+
+  --checkbox-color: var(--theme-red-vivid);
+
+  --line-number-color: var(--theme-grey-dark);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Embeds & Quotes
+     ───────────────────────────────────────── */
+
+  --embed-background: var(--theme-black-deep);
+  --embed-decoration-color: var(--theme-red-vivid);
+
+  --blockquote-background-color: var(--theme-black-ui);
+  --blockquote-border-color: var(--theme-red-vivid);
+  --blockquote-color: var(--theme-grey-bright);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Title Bar
+     ───────────────────────────────────────── */
+
+  --title-color: var(--theme-red-vivid);
+  --title-color-inactive: var(--theme-grey-dark);
+  --titlebar-text-color: var(--theme-grey-bright);
+  --titlebar-text-color-focused: var(--theme-red-vivid);
+  --frame-icon-color: var(--theme-grey-medium);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Tags
+     ───────────────────────────────────────── */
+
+  --tag-color: var(--theme-red-vivid);
+  --tag-background: var(--theme-black-ui);
+  --tag-background-hover: var(--theme-black-surface);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Tables
+     ───────────────────────────────────────── */
+
+  --table-row-background-hover: rgba(229, 0, 0, 0.10);
+
+  /* ─────────────────────────────────────────
+     OBSIDIAN CORE VARIABLES - Highlight Colors
+     ───────────────────────────────────────── */
+
+  --color-red: var(--theme-red-vivid);
+  --color-orange: var(--theme-red-vivid);
+  --color-yellow: var(--theme-grey-bright);
+  --color-green: var(--theme-grey-medium);
+  --color-cyan: var(--theme-grey-dark);
+  --color-blue: var(--theme-grey-darker);
+  --color-purple: var(--theme-red-vivid);
+  --color-pink: var(--theme-red-bright);
+
+  /* ─────────────────────────────────────────
+     SPACING SYSTEM
+     ───────────────────────────────────────── */
+
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-xxl: 3rem;
+
+  /* ─────────────────────────────────────────
+     TYPOGRAPHY SYSTEM
+     ───────────────────────────────────────── */
+
+  --font-family: 'JetBrains Mono', monospace;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-xxl: 1.5rem;
+
+  --line-height-tight: 1.4;
+  --line-height-normal: 1.6;
+  --line-height-relaxed: 1.8;
+
+  /* ─────────────────────────────────────────
+     BORDER & RADIUS SYSTEM
+     ───────────────────────────────────────── */
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+
+  --border-width-thin: 1px;
+  --border-width-medium: 2px;
+  --border-width-thick: 3px;
+
+  /* ─────────────────────────────────────────
+     SHADOW SYSTEM
+     ───────────────────────────────────────── */
+
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 8px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 8px 16px rgba(0, 0, 0, 0.4);
+
+  /* ─────────────────────────────────────────
+     TRANSITION SYSTEM (Smooth Interactions Only)
+     ───────────────────────────────────────── */
+
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow: 400ms ease;
+
+  /* ─────────────────────────────────────────
+     WORKSPACE & TRANSLUCENCY
+     ───────────────────────────────────────── */
+
+  --workspace-background-translucent: rgba(229, 0, 0, 0.10);
+}
+
+/* ═══════════════════════════════════════════════════════════
+   SECTION 3: ACTIVE LINE HIGHLIGHTING (CRITICAL FIX)
+   Dependencies: Variables
+   Description: Editor active line with red glow
+   ═══════════════════════════════════════════════════════════ */
+
+/* Active line in regular text (subtle red highlight) */
+.cm-activeLine {
+  background: rgba(229, 0, 0, 0.08);
+}
+
+/* Active line gutter (line numbers - crimson & bold) */
+.cm-activeLineGutter {
+  background: rgba(229, 0, 0, 0.15);
+  color: var(--theme-red-vivid);
+  font-weight: 700;
+}
+
+/* Code blocks - Keep active line transparent (don't highlight inside code) */
+.HyperMD-codeblock.cm-activeLine,
+.cm-line.HyperMD-codeblock.cm-activeLine {
+  background: transparent;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   SECTION 3: CODE BLOCKS
+   Dependencies: Variables
+   Description: Preview & live preview mode code block styling
+   ═══════════════════════════════════════════════════════════ */
+
+/* Preview/Reading Mode - Complete code blocks */
+.markdown-preview-view pre {
+  background: linear-gradient(135deg, var(--theme-black-base) 0%, var(--theme-black-deep) 100%);
+  border-radius: var(--radius-lg);
+  border: none;
+  box-shadow:
+    0 0 0 2px var(--theme-red-vivid),
+    0 0 0 3px var(--theme-grey-bright),
+    0 4px 16px rgba(229, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  padding: var(--space-lg);
+  margin: var(--space-md) 0;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  overflow-wrap: break-word;
+}
+
+.markdown-preview-view pre:hover {
+  box-shadow:
+    0 0 0 2px var(--theme-grey-bright),
+    0 0 0 3px var(--theme-red-vivid),
+    0 8px 24px rgba(229, 0, 0, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  transform: translateY(-2px);
+  cursor: pointer;
+}
+
+/* Live Preview Mode - Line-by-line styling */
+.markdown-source-view.mod-cm6 .HyperMD-codeblock {
+  background: linear-gradient(135deg, var(--theme-black-base) 0%, var(--theme-black-deep) 100%);
+  padding: 0 var(--space-lg);
+  margin: 0;
+  border-radius: 0;
+  box-shadow:
+    inset 2px 0 0 var(--theme-red-vivid),
+    inset -2px 0 0 var(--theme-red-vivid);
+}
+
+/* First line - top border */
+.markdown-source-view.mod-cm6 .HyperMD-codeblock-begin {
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  padding-top: var(--space-md);
+  margin-top: var(--space-md);
+  box-shadow:
+    inset 2px 0 0 var(--theme-red-vivid),
+    inset -2px 0 0 var(--theme-red-vivid),
+    inset 0 2px 0 var(--theme-red-vivid),
+    0 -3px 0 0 var(--theme-grey-bright),
+    0 4px 16px rgba(229, 0, 0, 0.2);
+}
+
+/* Last line - bottom border */
+.markdown-source-view.mod-cm6 .HyperMD-codeblock-end {
+  border-radius: 0 0 var(--radius-lg) var(--radius-lg);
+  padding-bottom: var(--space-md);
+  margin-bottom: var(--space-md);
+  box-shadow:
+    inset 2px 0 0 var(--theme-red-vivid),
+    inset -2px 0 0 var(--theme-red-vivid),
+    inset 0 -2px 0 var(--theme-red-vivid),
+    0 3px 0 0 var(--theme-grey-bright),
+    0 4px 16px rgba(229, 0, 0, 0.2);
+}
+
+/* Single-line code blocks */
+.markdown-source-view.mod-cm6 .HyperMD-codeblock-begin.HyperMD-codeblock-end {
+  border-radius: var(--radius-lg);
+  padding: var(--space-md) var(--space-lg);
+  margin: var(--space-md) 0;
+  box-shadow:
+    0 0 0 2px var(--theme-red-vivid),
+    0 0 0 3px var(--theme-grey-bright),
+    0 4px 16px rgba(229, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05);
+}
+
+/* Line numbers gutter */
+.cm-gutters {
+  background: rgba(13, 10, 18, 0.6);
+  border-right: 2px solid rgba(229, 0, 0, 0.2);
+  border-top-left-radius: var(--radius-lg);
+  border-bottom-left-radius: var(--radius-lg);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  padding: 0 var(--space-sm);
+}
+
+.cm-lineNumbers .cm-gutterElement {
+  color: var(--theme-grey-dark);
+  font-family: var(--font-family);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  min-width: 40px;
+  padding-right: var(--space-sm);
+  text-align: right;
+  transition: color 0.2s ease;
+}
+
+.cm-lineNumbers .cm-gutterElement:hover {
+  color: var(--theme-red-vivid);
+}
+
+/* ═══════════════════════════════════════════════════════════
+   END OF THEME (PHASE 2 CODE BLOCKS COMPLETE)
+
+   Next Phases:
+   - Phase 2: Typography, Layout, Links
+   - Phase 3: Code Blocks (consolidate clode-block-.css)
+   - Phase 4: Lists, Checkboxes, Tables
+   - Phase 5: Callouts (consolidate 25 files → 30 types)
+   - Phase 6: UI Components (modals, buttons, sidebars)
+   - Phase 7: Polish (remove !important, optimize)
+   - Phase 8: Testing & validation
+   ═══════════════════════════════════════════════════════════ */

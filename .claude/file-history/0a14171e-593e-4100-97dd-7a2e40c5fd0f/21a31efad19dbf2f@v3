@@ -1,0 +1,335 @@
+---
+tags: #spes #reference #quick-guide #daily-workflow
+aliases: [Quick Reference, Cheat Sheet, Daily Guide]
+status: reference
+certainty: ^verified
+priority: high
+created: 2025-12-20
+project: prompt-engineering-templater-system
+link-up: "[[00-prompt-engineering-system-design]]"
+---
+
+# Prompt Engineering System: Quick Reference Guide
+
+> [!abstract] Purpose
+> One-page reference for daily workflow operations. Keep this open while working.
+
+---
+
+## ⚡ QUICK OPERATIONS
+
+### Create New Prompt (Full Template)
+1. `Ctrl+P` → "Templater: Create new note from template"
+2. Select template type (System/User/Chain/Component/etc.)
+3. Answer guided questions
+4. Template auto-populates metadata and structure
+⏱️ **Time**: 2-5 minutes
+
+### Quick Capture Idea (Minimal)
+1. `Ctrl+P` → "QuickAdd: Prompt Quick Capture"
+2. Enter: Title → Type → Initial notes
+3. Saved to `00-inbox/prompt-ideas/`
+⏱️ **Time**: <10 seconds
+
+### Search & Insert Component
+1. Place cursor where you want component
+2. `Ctrl+P` → "QuickAdd: Component Search & Insert"
+3. Type keyword → Select from results
+4. Component text inserted
+⏱️ **Time**: <15 seconds
+
+---
+
+## 📋 COMMON WORKFLOWS
+
+### Create System Prompt
+**Template**: `_system-prompt-creator.md`
+**Sections**: Role → Context → Task → Constraints → Format → Examples
+**Components to Consider**: Personas, Instructions, Output Formats
+
+### Create Few-Shot Prompt
+**Template**: `_few-shot-template.md`
+**Structure**: 2-5 input/output pairs + pattern notes
+**Best Practice**: Show reasoning in examples
+
+### Build Prompt Chain
+**Template**: `_prompt-chain-builder.md`
+**Key**: Define context handoff between turns
+**Integration**: Links to SPES sequential workflows
+
+### A/B Test Prompts
+**Template**: `_ab-test-template.md`
+**Process**: Define criteria → Run variants → Score → Select winner
+**Location**: Save in `05-testing-validation/ab-tests/`
+
+### Debug Failing Prompt
+**Template**: `_debug-template.md`
+**Method**: Describe issue → Hypothesize → Test → Document solution
+**Tip**: Check component conflicts first
+
+---
+
+## 🔧 PLUGIN SYNTAX CHEAT SHEET
+
+### Templater Basics
+```javascript
+// User input (text)
+null
+
+// User selection (dropdown)
+null
+
+// Current date/time
+2025-12-20
+20251220174855
+
+// File operations
+02-quick-reference-guide
+06-dashboards
+
+// Cursor placement
+<% tp.file.cursor() %>
+```
+
+### Meta-Bind Basics
+```markdown
+<!-- View field (read-only) -->
+`VIEW[{field-name}]`
+
+<!-- Input fields -->
+`INPUT[text:field-name]`
+`INPUT[number:field-name]`
+`INPUT[toggle:field-name]`
+`INPUT[slider(min(1), max(10)):rating]`
+`INPUT[suggester(option(Low), option(Med), option(High)):priority]`
+
+<!-- Button -->
+`BUTTON[button-id]`
+```
+
+### Dataview Basics
+```dataview
+TABLE status, rating, modified
+FROM "02-component-library"
+WHERE type = "component"
+SORT rating DESC
+LIMIT 20
+```
+
+### DataviewJS Basics
+```dataviewjs
+const prompts = dv.pages('"08-active-prompts"')
+    .where(p => p.type === "system")
+    .sort(p => p.rating, 'desc');
+
+dv.table(
+    ["Prompt", "Rating", "Status"],
+    prompts.map(p => [p.file.link, p.rating, p.status])
+);
+```
+
+---
+
+## 📊 METADATA FIELD REFERENCE
+
+### Required Fields
+```yaml
+type: "prompt" | "component" | "workflow"
+id: "20251220123456"
+status: "active" | "testing" | "production" | "deprecated"
+version: "1.0.0"
+created: "YYYY-MM-DD"
+modified: "YYYY-MM-DD"
+```
+
+### Quality Fields
+```yaml
+rating: 0.0-10.0
+confidence: "speculative" | "provisional" | "moderate" | "established" | "high"
+maturity: "seedling" | "developing" | "budding" | "evergreen"
+usage-count: 0
+last-used: "[[YYYY-MM-DD]]"
+```
+
+### Review Fields (Spaced Repetition)
+```yaml
+review-next: "YYYY-MM-DD"
+review-interval: 7  # days
+review-count: 0
+```
+
+### Categorization
+```yaml
+tags:
+  - "year/2025"
+  - "prompt-engineering"
+  - "llm-capability/generation"
+aliases: ["Alt Name 1", "Alt Name 2"]
+link-up: "[[prompt-engineering-moc]]"
+link-related: ["[[related-1]]", "[[related-2]]"]
+```
+
+---
+
+## 🎯 KEYBOARD SHORTCUTS
+
+| Action | Shortcut |
+|--------|----------|
+| Command Palette | `Ctrl+P` |
+| Search Files | `Ctrl+O` |
+| Quick Switcher | `Ctrl+Shift+O` |
+| Create Note | `Ctrl+N` |
+| Templater Insert | `Alt+E` (default) |
+| QuickAdd Menu | Configure in settings |
+
+**Tip**: Set custom hotkey for QuickAdd menu in Settings → Hotkeys
+
+---
+
+## 📍 KEY LOCATIONS
+
+### Templates
+`99-system/01-quickadd/02-templates/`
+
+### Components
+`02-projects/_spes-sequential-prompt-engineering-system/02-component-library/`
+
+### Active Prompts
+`02-projects/_spes-sequential-prompt-engineering-system/08-active-prompts/`
+
+### Quick Captures
+`00-inbox/prompt-ideas/`
+
+### Test Results
+`02-projects/_spes-sequential-prompt-engineering-system/05-testing-validation/`
+
+### Dashboards
+`06-dashboards/prompt-engineering-dashboard.md`
+
+---
+
+## 🚨 TROUBLESHOOTING
+
+### Template Not Working
+1. Check Templater is enabled
+2. Verify template path is correct
+3. Check for syntax errors (missing `%>`)
+4. Test with simple template first
+
+### Component Not Inserting
+1. Verify component file exists in library
+2. Check file name matches exactly (case-sensitive)
+3. Ensure component has proper frontmatter
+4. Try manual `![[component-name]]` link
+
+### Dataview Query Empty
+1. Check folder path in FROM clause
+2. Verify WHERE conditions match metadata
+3. Test with simpler query first
+4. Check Dataview plugin is enabled
+
+### Metadata Not Validating
+1. Check YAML syntax (no tabs, proper indentation)
+2. Verify field names match schema exactly
+3. Check for trailing spaces in values
+4. Use Meta-Bind suggester for controlled fields
+
+### QuickAdd Macro Not Running
+1. Check JavaScript syntax in macro file
+2. Verify macro is registered in QuickAdd settings
+3. Check console for error messages (`Ctrl+Shift+I`)
+4. Test with simple macro first
+
+---
+
+## 💡 BEST PRACTICES
+
+### When Creating Prompts
+✅ Use templates (consistent structure)
+✅ Search components first (reuse > recreate)
+✅ Add examples (few-shot improves quality)
+✅ Test before deploying (catch issues early)
+✅ Version significant changes (track evolution)
+
+❌ Don't skip metadata (breaks queries)
+❌ Don't hardcode common patterns (use components)
+❌ Don't delete old versions (archive instead)
+❌ Don't forget to log test results
+
+### When Building Components
+✅ Keep atomic (single purpose)
+✅ Document when/when-not to use
+✅ Include usage examples
+✅ Test in multiple contexts
+✅ Track performance data
+
+### When Testing
+✅ Define success criteria first
+✅ Document all results (positive and negative)
+✅ Compare against baseline
+✅ Track quality scores consistently
+✅ Extract patterns from failures
+
+---
+
+## 🔗 QUICK LINKS
+
+- **System Design**: [[00-prompt-engineering-system-design]]
+- **Implementation Tracker**: [[01-implementation-tracker]]
+- **SPES Architecture**: [[architecture-overview]]
+- **Component Library**: [02-component-library/](obsidian://open?vault=10_pur3v4d3r%27s-vault&file=02-projects%2F_spes-sequential-prompt-engineering-system%2F02-component-library)
+- **Main Dashboard**: [[prompt-engineering-dashboard]]
+
+---
+
+## 📞 HELP & SUPPORT
+
+### Documentation
+- Full system design: [[00-prompt-engineering-system-design]]
+- Phase-by-phase guide: [[01-implementation-tracker]]
+- SPES instructions: `01-claude-librarian-instructions/`
+
+### Common Questions
+
+**Q**: What's the difference between a prompt and a component?
+**A**: Prompts are complete working instructions. Components are reusable building blocks (like LEGO pieces) you combine to build prompts.
+
+**Q**: Do I have to use templates?
+**A**: No, but they save time and ensure consistency. Quick capture is even faster for ideas.
+
+**Q**: How do I know which component to use?
+**A**: Check component library index, use search macro, or ask Claude (librarian mode).
+
+**Q**: Can I modify existing templates?
+**A**: Yes! Templates are just markdown files. Customize freely.
+
+**Q**: What if I don't want to test/track everything?
+**A**: Testing and analytics are optional. Minimum viable: create prompt, use it, done.
+
+---
+
+## 🎓 LEARNING PATH
+
+### Day 1: Foundation
+1. Create first prompt with master template
+2. Quick capture 2-3 ideas
+3. Browse component library
+4. View main dashboard
+
+### Week 1: Core Workflows
+1. Create system prompt with components
+2. Build few-shot examples
+3. Try A/B test on one prompt
+4. Explore specialized templates
+
+### Month 1: Advanced Usage
+1. Build prompt chain
+2. Extract successful patterns to library
+3. Use analytics to find improvements
+4. Optimize low-performing prompts
+
+---
+
+*Keep this guide handy. Print if helpful. Update as you discover personal workflows.*
+
+**Last Updated**: 2025-12-20 | **Version**: 1.0.0

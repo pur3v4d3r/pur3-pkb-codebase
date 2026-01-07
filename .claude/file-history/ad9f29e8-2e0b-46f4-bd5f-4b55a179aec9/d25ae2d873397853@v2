@@ -1,0 +1,115 @@
+# Pur3v4d3r Imperial Theme
+
+Professional Obsidian dark theme with red, grey, and black color scheme.
+
+## 🎨 Features
+
+- **Monochromatic Palette**: Red (#E50000), Grey (#E0E0E0), Black (#0A0A0A)
+- **Glassmorphism Sidebars**: Backdrop blur effects (Coming in Phase 6)
+- **Advanced Code Blocks**: Dual-color borders with gradient backgrounds (Coming in Phase 3)
+- **Unified Callout System**: 30 essential callout types with Card Elevated style (Coming in Phase 5)
+- **Performance-Optimized**: Zero animations, smooth CSS transitions only
+- **Clean CSS**: No !important flags, proper specificity hierarchy
+
+## 📦 Installation
+
+1. Download theme files
+2. Place in `.obsidian/themes/pur3v4d3r-imperial/`
+3. Open Obsidian Settings → Appearance → Themes
+4. Select "Pur3v4d3r Imperial"
+5. Restart Obsidian
+
+## 🎯 Current Status
+
+**Phase 1: Foundation** ✅ COMPLETE
+- CSS variable system
+- Core Obsidian variables mapped
+- Active line highlighting fixed
+
+**Phase 2-8: In Progress** 🔄
+- Typography system
+- Code blocks
+- Callouts
+- UI components
+- Testing
+
+## 🎨 Color Palette
+
+### Primary Reds
+- `--theme-red-vivid`: #E50000 (Primary accent)
+- `--theme-red-bright`: #FF0000 (Hover states)
+- `--theme-red-dim`: #CC0000 (Emphasis)
+- `--theme-red-dark`: #B30000 (Active states)
+
+### Greyscale
+- `--theme-grey-bright`: #E0E0E0 (High-emphasis text)
+- `--theme-grey-medium`: #A3A3A3 (Medium-emphasis text)
+- `--theme-grey-dark`: #7A7A7A (Low-emphasis text)
+- `--theme-grey-darker`: #5A5A5A (Disabled states)
+
+### Blacks
+- `--theme-black-deep`: #0A0A0A (Depth effects, code blocks)
+- `--theme-black-base`: #121212 (Primary background)
+- `--theme-black-raised`: #1E1E1E (Cards, raised surfaces)
+- `--theme-black-surface`: #252525 (High surfaces)
+- `--theme-black-ui`: #181818 (UI frames)
+- `--theme-black-border`: #2A2A2A (Borders)
+
+## 🔧 Customization
+
+All colors use CSS variables. To customize:
+
+1. Open `theme.css`
+2. Find the variable you want to change
+3. Modify the hex value
+4. Reload Obsidian (Ctrl+R or Cmd+R)
+
+Example:
+```css
+/* Change primary accent from red to blue */
+--theme-red-vivid: #0000E5;
+```
+
+## 📚 Documentation
+
+Full implementation plan: `C:\Users\pur3v4d3rpk\.claude\plans\delegated-cooking-milner.md`
+
+Project documentation: `02-projects/_theme-mini-project/`
+
+## 🚀 Roadmap
+
+- [x] Phase 1: Foundation & Variables
+- [ ] Phase 2: Typography & Layout
+- [ ] Phase 3: Code Blocks
+- [ ] Phase 4: Lists & Tables
+- [ ] Phase 5: Callouts
+- [ ] Phase 6: UI Components
+- [ ] Phase 7: Polish
+- [ ] Phase 8: Testing
+
+## 📝 Credits
+
+Built from 52 CSS snippets consolidated into a maintainable theme.
+
+**Author**: Pur3v4d3r
+**Version**: 1.0.0 (In Development)
+**License**: Personal Use
+
+## 🐛 Known Issues
+
+- Phase 1 only - most features not yet implemented
+- Code blocks use placeholder styling
+- Callouts not yet consolidated
+- Sidebars not yet styled
+
+## 🔄 Migration Notes
+
+**From 52 Snippets → This Theme**:
+- Backup your snippets first: `.obsidian/snippets.backup/`
+- Disable all CSS snippets in Settings
+- Enable this theme
+- Report any visual regressions
+
+---
+
+*Last Updated: 2025-12-17*

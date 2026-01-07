@@ -1,0 +1,217 @@
+{
+  "repomix": {
+    "output": {
+      "filePath": "D:/10_pur3v4d3r's-vault/99_Outputs/repomix-output.md",
+      "headerText": "# 📦 Repository Package Summary\n\n> Generated on {{timestamp}}\n",
+      "removeComments": false,
+      "removeEmptyLines": false,
+      "formats": ["markdown", "html"],
+      "template": "./templates/package-template.hbs",
+      "variables": {
+        "projectName": "Documentation Package",
+        "version": "1.0.0",
+        "author": "Community Team"
+      }
+    },
+    "processing": {
+      "fileOrder": [
+        "README.md",
+        "docs/**/*.md",
+        "CONTRIBUTING.md",
+        "LICENSE",
+        "src/**/*.js",
+        "src/**/*.ts"
+      ],
+      "maxFileSize": "10MB",
+      "encoding": "utf-8",
+      "lineEnding": "lf"
+    },
+    "transformers": {
+      "relativePathPrefix": "./",
+      "linkTransformer": {
+        "enabled": true,
+        "baseUrl": "https://github.com/user/repo/blob/main/"
+      }
+    },
+    "include": [
+      "**/*.md",
+      "**/*.markdown",
+      "**/*.js",
+      "**/*.ts",
+      "**/*.json",
+      "!.git/**",
+      "!node_modules/**",
+      "!dist/**",
+      "!build/**",
+      "!*.log",
+      "!package-lock.json",
+      "!yarn.lock"
+    ],
+    "ignore": {
+      "useGitignore": true,
+      "useDefaultPatterns": true,
+      "customPatterns": [
+        "*.tmp",
+        "*.temp",
+        "coverage/**",
+        "*.min.*",
+        "**/test*/**",
+        "**/*.spec.*",
+        "**/*.test.*"
+      ]
+    },
+    "tokenCounter": {
+      "enabled": true,
+      "countMethod": "tokens",
+      "tokenizer": "gpt-4",
+      "reportFormat": "detailed",
+      "thresholds": {
+        "warning": 50000,
+        "error": 100000
+      },
+      "excludeCodeBlocks": false
+    },
+    "metadata": {
+      "injectTimestamp": true,
+      "injectGitInfo": true,
+      "customFields": {
+        "category": "documentation",
+        "audience": "developers",
+        "compliance": ["MIT", "GDPR", "Accessibility"],
+        "packageType": "community-distribution"
+      }
+    },
+    "security": {
+      "enableSecurityCheck": true,
+      "scanForPII": true,
+      "piiPatterns": [
+        "\\b\\d{3}-\\d{2}-\\d{4}\\b",
+        "\\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,}\\b",
+        "\\b(?:\\d[ -]*?){13,16}\\b"
+      ],
+      "excludedPatterns": [
+        "**/*.key",
+        "**/*.pem",
+        "**/credentials.json"
+      ],
+      "contentFilter": {
+        "enabled": true,
+        "sensitiveKeywords": ["password", "secret", "key", "token"]
+      }
+    },
+    "markdown": {
+      "includeFrontMatter": true,
+      "includeToc": true,
+      "tocDepth": 4,
+      "tocStyle": "nested",
+      "autoLinkHeadings": true,
+      "embedLocalImages": true,
+      "convertImagesToBase64": false,
+      "syntaxHighlighting": {
+        "enabled": true,
+        "theme": "github-dark"
+      },
+      "mathSupport": true,
+      "emojiSupport": true,
+      "codeBlockTheme": "github",
+      "includeToc": true
+    },
+    "community": {
+      "includeLicense": true,
+      "includeContributing": true,
+      "includeCodeOfConduct": true,
+      "includeChangelog": true
+    },
+    "localization": {
+      "enabled": true,
+      "defaultLanguage": "en",
+      "supportedLanguages": ["en", "es", "fr"],
+      "translationService": "deepl"
+    },
+    "hooks": {
+      "preProcess": "./scripts/pre-package.js",
+      "postProcess": "./scripts/post-package.js",
+      "onError": "./scripts/error-handler.js"
+    },
+    "performance": {
+      "concurrency": 4,
+      "memoryLimit": "2GB",
+      "timeout": 60000,
+      "cacheEnabled": true,
+      "cachePath": "./.repomix/cache"
+    },
+    "validation": {
+      "requiredFiles": [
+        "README.md",
+        "LICENSE",
+        "package.json"
+      ],
+      "fileStructure": {
+        "mustContain": ["docs/", "src/"],
+        "mustNotContain": ["temp/", "*.tmp"]
+      },
+      "qualityChecks": {
+        "minReadmeLength": 200,
+        "requiredSections": ["Installation", "Usage", "License"],
+        "maxLineLength": 120
+      }
+    },
+    "integrations": {
+      "github": {
+        "enabled": true,
+        "token": "${GITHUB_TOKEN}",
+        "createGist": true
+      },
+      "analytics": {
+        "enabled": true,
+        "trackingId": "UA-PACKAGE-ANALYTICS"
+      }
+    },
+    "environments": {
+      "development": {
+        "output": {
+          "filePath": "D:/10_pur3v4d3r's-vault/99_Outputs/dev-package.md",
+          "verbose": true
+        }
+      },
+      "production": {
+        "output": {
+          "filePath": "D:/10_pur3v4d3r's-vault/99_Outputs/prod-package.md",
+          "minify": true
+        },
+        "security": {
+          "enableSecurityCheck": true,
+          "strictMode": true
+        }
+      }
+    },
+    "annotations": {
+      "enabled": true,
+      "markers": {
+        "TODO": { "prefix": "📝 TODO:", "color": "blue" },
+        "FIXME": { "prefix": "⚠️ FIXME:", "color": "red" },
+        "NOTE": { "prefix": "📌 NOTE:", "color": "green" },
+        "REVIEW": { "prefix": "🔍 REVIEW:", "color": "orange" }
+      },
+      "includeInOutput": true
+    },
+    "filters": {
+      "contentFilters": [
+        {
+          "pattern": "console.log(.*)",
+          "replacement": "// [DEBUG REMOVED]",
+          "filePattern": "*.js"
+        },
+        {
+          "pattern": "TODO.*",
+          "replacement": "[ACTION ITEM REMOVED]",
+          "filePattern": "*.md"
+        }
+      ],
+      "excludeBySize": {
+        "enabled": true,
+        "maxSize": "500KB"
+      }
+    }
+  }
+}

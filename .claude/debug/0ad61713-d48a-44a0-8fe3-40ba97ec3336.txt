@@ -1,0 +1,35 @@
+2025-12-18T15:00:10.638Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-18T15:00:10.639Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-18T15:00:10.639Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for inactivity
+2025-12-18T15:00:10.639Z [DEBUG] [Query.waitForInactivity] Waiting for inactivity (timeout: 5000ms)
+2025-12-18T15:00:10.639Z [DEBUG] [Query.waitForInactivity] Still active, checking again in 4999ms
+2025-12-18T15:00:11.183Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-18T15:00:15.643Z [DEBUG] [Query.waitForInactivity] Still active, checking again in 1793ms
+2025-12-18T15:00:17.449Z [DEBUG] [Query.waitForInactivity] Inactivity timeout reached (5013ms elapsed). Closing stdin. If your tools or hooks need more time, set CLAUDE_CODE_STREAM_CLOSE_TIMEOUT to a higher value (current: 5000ms).
+2025-12-18T15:00:17.449Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-18T15:00:32.643Z [DEBUG] [Query.streamInput] Processing message 1: user
+2025-12-18T15:01:29.257Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-18T15:01:29.258Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-18T15:01:29.258Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for inactivity
+2025-12-18T15:01:29.258Z [DEBUG] [Query.waitForInactivity] Waiting for inactivity (timeout: 5000ms)
+2025-12-18T15:01:29.258Z [DEBUG] [Query.waitForInactivity] Still active, checking again in 4999ms
+2025-12-18T15:01:29.603Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-18T15:01:34.264Z [DEBUG] [Query.waitForInactivity] Still active, checking again in 820ms
+2025-12-18T15:01:34.798Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-18T15:01:35.084Z [DEBUG] [Query.waitForInactivity] Inactivity timeout reached (5000ms elapsed). Closing stdin. If your tools or hooks need more time, set CLAUDE_CODE_STREAM_CLOSE_TIMEOUT to a higher value (current: 5000ms).
+2025-12-18T15:01:35.084Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-18T15:01:41.376Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-18T15:01:41.376Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for inactivity
+2025-12-18T15:01:41.376Z [DEBUG] [Query.waitForInactivity] Waiting for inactivity (timeout: 5000ms)
+2025-12-18T15:01:41.376Z [DEBUG] [Query.waitForInactivity] Inactivity timeout reached (10333ms elapsed). Closing stdin. If your tools or hooks need more time, set CLAUDE_CODE_STREAM_CLOSE_TIMEOUT to a higher value (current: 5000ms).
+2025-12-18T15:01:41.376Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-18T15:01:41.376Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for inactivity
+2025-12-18T15:01:41.376Z [DEBUG] [Query.waitForInactivity] Waiting for inactivity (timeout: 5000ms)
+2025-12-18T15:01:41.376Z [DEBUG] [Query.waitForInactivity] Inactivity timeout reached (5633ms elapsed). Closing stdin. If your tools or hooks need more time, set CLAUDE_CODE_STREAM_CLOSE_TIMEOUT to a higher value (current: 5000ms).
+2025-12-18T15:01:41.376Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-18T15:01:41.376Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-18T16:19:31.752Z [DEBUG] [Query.streamInput] Finished processing 1 messages from input stream
+2025-12-18T16:19:31.752Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for inactivity
+2025-12-18T16:19:31.752Z [DEBUG] [Query.waitForInactivity] Waiting for inactivity (timeout: 5000ms)
+2025-12-18T16:19:31.752Z [DEBUG] [Query.waitForInactivity] Inactivity timeout reached (6306ms elapsed). Closing stdin. If your tools or hooks need more time, set CLAUDE_CODE_STREAM_CLOSE_TIMEOUT to a higher value (current: 5000ms).
+2025-12-18T16:19:31.752Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process

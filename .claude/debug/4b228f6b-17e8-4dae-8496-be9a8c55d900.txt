@@ -1,0 +1,13 @@
+2025-12-26T14:17:52.040Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-26T14:17:52.041Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-26T14:17:52.041Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for first result
+2025-12-26T14:17:55.873Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-26T14:17:58.401Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-26T14:17:58.401Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for first result
+2025-12-26T14:18:29.683Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-26T14:18:29.683Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-26T14:18:29.683Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for first result
+2025-12-26T14:18:30.015Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-26T14:18:38.393Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-26T14:19:11.901Z [DEBUG] [Query.streamInput] Processing message 1: user
+2025-12-26T14:22:43.477Z [DEBUG] [Query.streamInput] Processing message 2: user

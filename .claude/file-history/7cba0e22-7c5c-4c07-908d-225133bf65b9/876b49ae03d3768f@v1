@@ -1,0 +1,96 @@
+---
+tags: #meta #system #memory #session-tracking
+aliases: [Session Context, Active Memory, Claude Memory]
+status: evergreen
+certainty: ^verified
+created: 2025-12-16
+last_updated: 2025-12-16
+---
+
+# Session Memory
+
+> [!abstract] Purpose
+> This note maintains persistent context across Claude sessions, enabling continuity in knowledge management tasks and vault operations.
+
+## 🔄 Current Session (2025-12-16)
+
+### Active Tasks
+- **Memory System Implementation**: Created the 00-meta directory structure for persistent session tracking
+- **System Enhancement**: Implementing context persistence to avoid session amnesia
+
+### Session Notes
+- User reported previous session hung for 20+ minutes on `.clauderc` discussion
+- Implementing Option 3: Context Files approach (vault-integrated memory vs isolated config)
+- User prefers direct, efficient communication without filler
+
+---
+
+## 📚 Vault Structure Overview
+
+```
+Root/
+├── 00-inbox/          # Ingestion point
+├── 00-meta/          # [NEW] System & memory files
+├── 000_databsae/     # [Note: typo in original]
+├── 01-daily-notes/   # Daily atomic entries
+├── 02-projects/      # Active project files
+├── 03-notes/         # Core knowledge atoms
+├── 04-library/       # Reference materials
+├── 05-tasks-&-reviews/
+├── 06-dashboards/
+├── 07-mocs/          # Maps of Content
+├── 99-archive/
+└── 99-system/
+```
+
+---
+
+## 🎯 Ongoing Projects
+
+*This section will be populated as projects are identified and tracked.*
+
+---
+
+## 💡 User Workflow Patterns
+
+### Communication Style
+- Prefers concise, action-oriented responses
+- No conversational filler
+- Direct task execution
+
+### Vault Philosophy
+- Treats PKB with software engineering rigor
+- Strong emphasis on graph connectivity
+- Anti-duplication protocols critical
+
+---
+
+## 🔗 Integration Points
+
+**Related System Files:**
+- [[../. claude/CLAUDE.md|System Prompt]]
+- [[user-preferences]] - Detailed workflow preferences
+- [[vault-map]] - Structural insights and patterns
+- [[project-tracker]] - Active work status
+
+---
+
+## 📝 Session History Log
+
+### 2025-12-16
+- **Event**: Memory system initialization
+- **Action**: Created 00-meta infrastructure
+- **Outcome**: Established persistent context framework
+
+---
+
+## 🔮 Future Enhancements
+
+- [ ] Automatic vault-map updates via script
+- [ ] Session pattern analysis (most-edited notes, common queries)
+- [ ] Integration with Dataview for memory queries
+- [ ] Git commit hooks for session snapshots
+
+---
+
+*Last Session Update: 2025-12-16 | Sessions Logged: 1*

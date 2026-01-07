@@ -1,0 +1,4 @@
+.theme-dark {
+  --background-primary: #121212;
+  --text-normal: #E0E0E0;
+}

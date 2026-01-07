@@ -1,0 +1,33 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Repomix outputs
+99_Outputs/repomix-*.md
+99_Outputs/repomix-*.xml
+99_Outputs/repomix-*.txt
+repomix-output.*
+
+# System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Node modules
+node_modules/
+__LOCAL-REPO/**/node_modules/
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local

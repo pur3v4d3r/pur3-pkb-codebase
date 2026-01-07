@@ -1,0 +1,46 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-inbox",
+  "attachmentFolderPath": "99_system/06_attachments",
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "readableLineLength": false,
+  "showIndentGuide": true,
+  "defaultViewMode": "source",
+  "propertiesInDocument": "visible",
+  "foldIndent": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "smartIndentList": true,
+  "trashOption": "local",
+  "minimal-style@@ax1@@dark": "#0080FF",
+  "minimal-style@@h1-color@@dark": "#0080FF",
+  "minimal-style@@h2-color@@dark": "#00AAFF",
+  "minimal-style@@h3-color@@dark": "#72A3C5",
+  "minimal-style@@bold-color@@dark": "#00AAFF",
+  "minimal-style@@italic-color@@dark": "#72A3C5",
+  "minimal-style@@ribbon-style": "ribbon-hidden",
+  "minimal-style@@tabs-style": "tabs-plain-square",
+  "focusNewTab": false,
+  "autoConvertHtml": false,
+  "spellcheckDictionary": [
+    "ldokjg"
+  ],
+  "tabSize": 2,
+  "vimMode": false,
+  "userIgnoreFilters": [
+    "04_library/02_pkb-and-pkm-learning/_reference/_official-documentation/",
+    "04_library/01_cognitive-science/_reference/_incremental-learning/"
+  ],
+  "showUnsupportedFiles": true,
+  "uriCallbacks": false
+}

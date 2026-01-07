@@ -1,0 +1,43 @@
+2025-12-14T11:28:46.370Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-14T11:28:46.371Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 0
+2025-12-14T11:28:46.371Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-14T11:28:46.371Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 0
+2025-12-14T11:28:46.371Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-12-14T11:28:46.414Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-14T11:28:46.414Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 1
+2025-12-14T11:29:22.308Z [DEBUG] [Query.streamInput] Processing message 1: user
+2025-12-14T11:29:46.378Z [DEBUG] [Query.streamInput] Timed out waiting for first result, closing input stream
+2025-12-14T11:29:46.378Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-14T11:30:36.812Z [DEBUG] [Query.streamInput] Processing message 2: user
+2025-12-14T11:31:55.050Z [DEBUG] [Query.streamInput] Processing message 3: user
+2025-12-14T11:32:29.311Z [DEBUG] [Query.streamInput] Processing message 4: user
+2025-12-14T11:43:07.763Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-14T11:43:07.763Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 0
+2025-12-14T11:43:07.763Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-14T11:43:07.763Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 0
+2025-12-14T11:43:07.763Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-12-14T11:43:07.808Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-14T11:43:07.808Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 1
+2025-12-14T11:43:08.731Z [DEBUG] [Query.streamInput] Finished processing 4 messages from input stream
+2025-12-14T11:43:08.731Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 1
+2025-12-14T11:43:08.731Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-12-14T11:43:08.731Z [DEBUG] [Query.streamInput] Received first result, closing input stream
+2025-12-14T11:43:08.731Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-14T11:44:07.777Z [DEBUG] [Query.streamInput] Timed out waiting for first result, closing input stream
+2025-12-14T11:44:07.777Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-14T11:45:51.463Z [DEBUG] [Query.streamInput] Processing message 1: user
+2025-12-14T11:46:48.464Z [DEBUG] [Query.streamInput] Processing message 2: user
+2025-12-14T12:02:19.364Z [DEBUG] [Query.streamInput] Processing message 3: user
+2025-12-14T12:02:19.431Z [DEBUG] [Query.streamInput] Finished processing 3 messages from input stream
+2025-12-14T12:02:19.431Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 0
+2025-12-14T12:02:19.431Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-12-14T12:02:19.431Z [DEBUG] [Query.streamInput] Received first result, closing input stream
+2025-12-14T12:02:19.431Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-14T12:02:38.113Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-14T12:02:38.113Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 1
+2025-12-14T12:02:38.113Z [DEBUG] [Query.streamInput] Processing message 1: user
+2025-12-14T12:14:13.676Z [DEBUG] [Query.streamInput] Finished processing 1 messages from input stream
+2025-12-14T12:14:13.676Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 1
+2025-12-14T12:14:13.676Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-12-14T12:14:13.676Z [DEBUG] [Query.streamInput] Received first result, closing input stream
+2025-12-14T12:14:13.676Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process

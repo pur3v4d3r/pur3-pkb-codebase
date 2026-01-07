@@ -1,0 +1,667 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET NAME: Pur3v4d3r's Custom File Tree Theme
+ Purpose: Color-coded file explorer matching vault structure
+ Author: Pur3v4d3r
+ Date: 2025-12-05
+ Vault Structure: Custom PKB with numbered folder system
+ Installation: Place in .obsidian/snippets/ and enable
+═══════════════════════════════════════════════════════════
+*/
+
+/* [FOUNDATION] Base File Explorer Styling - FIXED */
+.nav-files-container {
+  padding: 10px 6px;
+  font-family: var(--font-interface);
+}
+
+.nav-folder-title,
+.nav-file-title {
+  transition: background-color 0.2s ease, color 0.2s ease; /* Only transition visual properties */
+  border-radius: 4px;
+}
+
+/* [ROOT FOLDERS] Your Main Vault Structure */
+
+/* 00-inbox - Critical Magenta (Processing Zone) */
+.nav-folder-title[data-path="00-inbox"] {
+  color: #E50000;
+  font-weight: 700;
+  background: rgba(255, 0, 117, 0.12);
+  padding: 5px 8px;
+  font-size: 14px; /* ADDED */
+}
+
+.nav-folder-title[data-path="00-inbox"]::before {
+  content: "📥 ";
+  margin-right: 6px;
+}
+
+/* 000_databsae - Deep Amethyst (Core Data) */
+.nav-folder-title[data-path="000_databsae"] {
+  color: #E50000;
+  font-weight: 700;
+  background: rgba(229, 0, 0, 0.12);
+  padding: 5px 8px;
+  font-size: 14px; /* ADDED */
+}
+
+.nav-folder-title[data-path="000_databsae"]::before {
+  content: "🗄️ ";
+  margin-right: 6px;
+}
+
+/* 01_daily-notes - Cyber Cyan (Time-based) */
+.nav-folder-title[data-path="01_daily-notes"] {
+  color: #E0E0E0;
+  font-weight: 700;
+  background: rgba(224, 224, 224, 0.12);
+  padding: 5px 8px;
+  font-size: 14px; /* ADDED */
+}
+
+.nav-folder-title[data-path="01_daily-notes"]::before {
+  content: "📅 ";
+  margin-right: 6px;
+}
+
+/* 02-projects - Deep Amethyst (Active Work) - FIXED */
+.nav-folder-title[data-path="02-projects"] {
+  color: #E50000;
+  font-weight: 700;
+  background: rgba(229, 0, 0, 0.15);
+  padding: 5px 5px 5px 8px; /* Reduced right padding to compensate for border */
+  border-left: 3px solid #E50000;
+  font-size: 14px; /* ADDED */
+}
+
+.nav-folder-title[data-path="02-projects"]::before {
+  content: "🚀 ";
+  margin-right: 6px;
+}
+
+/* 03-notes - Imperial Gold (Knowledge) */
+.nav-folder-title[data-path="03-notes"] {
+  color: #E50000;
+  font-weight: 700;
+  background: rgba(216, 190, 52, 0.12);
+  padding: 5px 8px;
+  font-size: 14px; /* ADDED */
+}
+
+.nav-folder-title[data-path="03-notes"]::before {
+  content: "📝 ";
+  margin-right: 6px;
+}
+
+/* 04-library - Reactor Orange (Reference Material) */
+.nav-folder-title[data-path="04-library"] {
+  color: #FF0000;
+  font-weight: 700;
+  background: rgba(255, 110, 0, 0.12);
+  padding: 5px 8px;
+  font-size: 14px; /* ADDED */
+}
+
+.nav-folder-title[data-path="04-library"]::before {
+  content: "📚 ";
+  margin-right: 6px;
+}
+
+/* 05-tasks-&-reviews - Neon Pink (Action Items) */
+.nav-folder-title[data-path="05-tasks-&-reviews"] {
+  color: #E50000;
+  font-weight: 700;
+  background: rgba(255, 61, 154, 0.12);
+  padding: 5px 8px;
+  font-size: 14px;
+}
+
+.nav-folder-title[data-path="05-tasks-&-reviews"]::before {
+  content: "✅ ";
+  margin-right: 6px;
+}
+
+/* 06-dashboards - Terminal Green (Overview/Navigation) */
+.nav-folder-title[data-path="06-dashboards"] {
+  color: #E50000;
+  font-weight: 700;
+  background: rgba(203, 255, 0, 0.12);
+  padding: 5px 8px;
+  font-size: 14px; /* ADDED */
+}
+
+.nav-folder-title[data-path="06-dashboards"]::before {
+  content: "📊 ";
+  margin-right: 6px;
+}
+
+/* 07-mocs - Electric Blue (Maps of Content) */
+.nav-folder-title[data-path="07-mocs"] {
+  color: #E50000;
+  font-weight: 700;
+  background: rgba(224, 224, 224, 0.12);
+  padding: 5px 8px;
+  font-size: 14px;
+}
+
+.nav-folder-title[data-path="07-mocs"]::before {
+  content: "🗺️ ";
+  margin-right: 6px;
+}
+
+/* 99-archive - Light Gray (Historical) */
+.nav-folder-title[data-path="99-archive"] {
+  color: #A3A3A3;
+  font-weight: 600;
+  opacity: 0.85;
+  font-size: 13px; /* INCREASED from 12px */
+  padding: 4px 8px;
+}
+
+.nav-folder-title[data-path="99-archive"]::before {
+  content: "📦 ";
+  margin-right: 6px;
+}
+
+/* 99-system - Bright Amethyst (Infrastructure) */
+.nav-folder-title[data-path="99-system"] {
+  color: #E50000;
+  font-weight: 600;
+  opacity: 0.9;
+  font-size: 13px; /* INCREASED from 12px */
+  font-style: italic;
+  padding: 4px 8px;
+}
+
+.nav-folder-title[data-path="99-system"]::before {
+  content: "⚙️ ";
+  margin-right: 6px;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   [SPECIAL SUBFOLDERS] Custom Nested Folder Styling
+   ══════════════════════════════════════════════════════════ */
+
+/* Inbox Topic Sets - Organized Capture Area */
+.nav-folder-title[data-path="00-inbox/02-topic-sets"] {
+  color: #E0E0E0 !important;
+  font-weight: 650;
+  background: rgba(6, 255, 165, 0.12);
+  padding: 4px 8px;
+  border-left: 3px solid #E0E0E0;
+  font-size: 13px;
+}
+
+.nav-folder-title[data-path="00-inbox/02-topic-sets"]::before {
+  content: "🗂️ " !important;
+  margin-right: 6px;
+  opacity: 0.9;
+}
+
+/* [NESTED FOLDERS] Sub-folder Styling */
+.nav-folder-children .nav-folder-title {
+  font-size: 13px; /* INCREASED from 12px */
+  padding-left: 12px;
+  font-weight: 500;
+  opacity: 0.9;
+}
+
+/* Add subtle connector lines for nested structure */
+.nav-folder-children {
+  position: relative;
+  margin-left: 8px;
+  padding-left: 12px;
+}
+
+.nav-folder-children::before {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 0;
+  bottom: 8px;
+  width: 2px;
+  background: linear-gradient(180deg,
+    rgba(229, 0, 0, 0.3) 0%,
+    transparent 100%);
+  border-radius: 2px;
+}
+
+/* [FILES] File Styling */
+.nav-file-title {
+  padding: 3px 8px 3px 28px;
+  font-size: 14px; /* INCREASED from 13px */
+  color: var(--text-normal);
+}
+
+/* File type icons */
+.nav-file-title[data-path$=".md"]::before {
+  content: "📄 ";
+  margin-right: 6px;
+  opacity: 0.5;
+  font-size: 13px; /* INCREASED from 12px */
+}
+
+.nav-file-title[data-path$=".canvas"]::before {
+  content: "🎨 ";
+  margin-right: 6px;
+  opacity: 0.7;
+}
+
+/* Daily note files special styling */
+.nav-file-title[data-path^="01_daily-notes/2025"]::before {
+  content: "📆 ";
+  opacity: 0.6;
+}
+
+/* [ACTIVE FILE] Current file highlight - FIXED */
+.nav-file-title.is-active {
+  color: #E50000;
+  background: linear-gradient(90deg,
+    rgba(229, 0, 0, 0.25) 0%,
+    rgba(229, 0, 0, 0.08) 100%);
+  border-left: 4px solid #E50000;
+  font-weight: 600;
+  padding-left: 24px; /* 4px border + 24px padding = 28px total (matches base) */
+  box-shadow: 0 2px 8px rgba(229, 0, 0, 0.2);
+}
+
+/* [HOVER EFFECTS] Interactive States - FIXED */
+.nav-folder-title:hover {
+  background: rgba(229, 0, 0, 0.15);
+  /* REMOVED: transform: translateX(2px); */
+  cursor: pointer;
+}
+
+.nav-file-title:hover {
+  background: rgba(224, 224, 224, 0.1);
+  /* REMOVED: transform: translateX(2px); */
+  border-left: 2px solid #E0E0E0;
+  padding-left: 26px; /* 2px border + 26px padding = 28px total (matches base) */
+  cursor: pointer;
+}
+
+/* [COLLAPSE INDICATORS] Folder State Icons */
+.nav-folder-collapse-indicator {
+  padding: 4px;
+  margin-left: -4px;
+}
+
+.nav-folder.is-collapsed > .nav-folder-title .nav-folder-collapse-indicator {
+  transform: rotate(-90deg);
+  color: var(--text-muted);
+}
+
+.nav-folder:not(.is-collapsed) > .nav-folder-title .nav-folder-collapse-indicator {
+  color: #E50000;
+}
+
+/* [SPECIAL FILES] Highlight important file patterns */
+
+/* System/Template Files (underscore prefix) - Bright Purple with System Icon */
+.nav-file-title[data-path*="/_"] {
+  color: #E50000 !important;
+  opacity: 0.95;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.nav-file-title[data-path*="/_"]::before {
+  content: "⚙️ " !important;
+  opacity: 0.8;
+  font-size: 12px;
+}
+
+/* Reference Files - Reactor Orange */
+.nav-file-title[data-path*="reference"] {
+  color: #FF0000;
+  font-style: italic;
+}
+
+/* Template Files (generic) - Bright Purple */
+.nav-file-title[data-path*="template"] {
+  color: #E50000;
+  opacity: 0.95;
+}
+
+/* Dashboard Files - Terminal Green */
+.nav-file-title[data-path*="dashboard"] {
+  color: #E50000;
+  font-weight: 500;
+}
+
+/* Topic Set Notes - Organized Teal */
+.nav-file-title[data-path*="02-topic-sets/"] {
+  color: #E0E0E0 !important;
+  font-weight: 500;
+}
+
+.nav-file-title[data-path*="02-topic-sets/"]::before {
+  content: "📑 " !important;
+  opacity: 0.7;
+}
+
+/* MOC Files - Electric Blue Navigation */
+.nav-file-title[data-path*="moc"],
+.nav-file-title[data-path*="07-mocs/"] {
+  color: #E50000 !important;
+  font-weight: 500;
+}
+
+.nav-file-title[data-path*="moc"]::before,
+.nav-file-title[data-path*="07-mocs/"]::before {
+  content: "🗺️ " !important;
+  opacity: 0.7;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   [REPORT NOTES] Domain-Categorized Report Styling
+   ══════════════════════════════════════════════════════════ */
+
+/* Cognitive Science Reports - Brain Purple */
+.nav-file-title[data-path*="cog-"],
+.nav-file-title[data-path*="cog-sci-report-"],
+.nav-file-title[data-path*="cog-psy-"] {
+  color: #E50000 !important;
+  font-weight: 500;
+}
+
+.nav-file-title[data-path*="cog-"]::before,
+.nav-file-title[data-path*="cog-sci-report-"]::before,
+.nav-file-title[data-path*="cog-psy-"]::before {
+  content: "🧠 " !important;
+  opacity: 0.7;
+}
+
+/* PKB/PKM Reports - Knowledge Gold */
+.nav-file-title[data-path*="pkb-report-"],
+.nav-file-title[data-path*="pkm-report-"] {
+  color: #E50000 !important;
+  font-weight: 500;
+}
+
+.nav-file-title[data-path*="pkb-report-"]::before,
+.nav-file-title[data-path*="pkm-report-"]::before {
+  content: "📖 " !important;
+  opacity: 0.7;
+}
+
+/* Prompt Engineering Reports - AI Cyan */
+.nav-file-title[data-path*="prompt-report-"],
+.nav-file-title[data-path*="prompt-eng-"] {
+  color: #E50000 !important;
+  font-weight: 500;
+}
+
+.nav-file-title[data-path*="prompt-report-"]::before,
+.nav-file-title[data-path*="prompt-eng-"]::before {
+  content: "🤖 " !important;
+  opacity: 0.7;
+}
+
+/* Cosmology Reports - Space Violet */
+.nav-file-title[data-path*="cosmo-report-"],
+.nav-file-title[data-path*="astro-"] {
+  color: #E50000 !important;
+  font-weight: 500;
+}
+
+.nav-file-title[data-path*="cosmo-report-"]::before,
+.nav-file-title[data-path*="astro-"]::before {
+  content: "🌌 " !important;
+  opacity: 0.7;
+}
+
+/* Generic Report Files (fallback for reports without specific prefix) */
+.nav-file-title[data-path*="-report-"]:not([data-path*="cog-"]):not([data-path*="pkb-"]):not([data-path*="prompt-"]):not([data-path*="cosmo-"]) {
+  color: #E0E0E0 !important;
+  font-weight: 500;
+}
+
+.nav-file-title[data-path*="-report-"]::before {
+  content: "📋 ";
+  opacity: 0.6;
+}
+
+/* [VISUAL HIERARCHY] Indentation Enhancement */
+.mod-root > .nav-folder > .nav-folder-children > .nav-folder {
+  margin-left: 4px;
+}
+
+.mod-root > .nav-folder > .nav-folder-children > .nav-folder > .nav-folder-children {
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+  padding: 4px 0;
+  margin: 2px 0 2px 4px;
+}
+
+/* [ACCESSIBILITY] Motion & Focus States */
+@media (prefers-reduced-motion: reduce) {
+  .nav-folder-title,
+  .nav-file-title,
+  .nav-folder-title:hover,
+  .nav-file-title:hover {
+    transition: none;
+    transform: none;
+  }
+}
+
+.nav-folder-title:focus-visible,
+.nav-file-title:focus-visible {
+  outline: 2px solid #E50000;
+  outline-offset: 2px;
+}
+
+/* [SCROLLBAR] Match theme */
+.nav-files-container::-webkit-scrollbar-thumb {
+  background: rgba(229, 0, 0, 0.3);
+  border-radius: 4px;
+}
+
+.nav-files-container::-webkit-scrollbar-thumb:hover {
+  background: rgba(229, 0, 0, 0.5);
+}
+
+/* ═══════════════════════════════════════════════════════════
+   [OPTIONAL FEATURES] Uncomment sections below to enable
+   To enable: Remove the comment markers around the section
+   To disable: Re-add comment markers at start and end
+   ══════════════════════════════════════════════════════════ */
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 1: Index File Highlighting
+   Makes -index.md files stand out with special styling
+   ───────────────────────────────────────────────────────── */
+
+.nav-file-title[data-path*="-index.md"],
+.nav-file-title[data-path*="_index.md"] {
+  color: #FF0000 !important;
+  font-weight: 600;
+  background: rgba(255, 107, 53, 0.1);
+  border-left: 3px solid #FF0000;
+  padding-left: 25px;
+}
+
+.nav-file-title[data-path*="-index.md"]::before,
+.nav-file-title[data-path*="_index.md"]::before {
+  content: "📑 " !important;
+  opacity: 0.8;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 2: Library Subfolder Color Coding
+   Applies distinct colors to each library subject area
+   ───────────────────────────────────────────────────────── */
+
+.nav-folder-title[data-path^="04-library/01-cognitive-science"] {
+  color: #E50000 !important;
+}
+
+.nav-folder-title[data-path^="04-library/02-pkb-and-pkm-learning"] {
+  color: #E50000 !important;
+}
+
+.nav-folder-title[data-path^="04-library/03-prompt-engineering"] {
+  color: #E50000 !important;
+}
+
+.nav-folder-title[data-path^="04-library/04-cosmology"] {
+  color: #E50000 !important;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 3: Timestamp Badge Display
+   Shows timestamp from filename as a subtle badge
+   ───────────────────────────────────────────────────────── */
+
+.nav-file-title[data-path*="2025"]::after,
+.nav-file-title[data-path*="2024"]::after {
+  content: "🕐" !important;
+  margin-left: 6px;
+  opacity: 0.4;
+  font-size: 11px;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 4: Reference vs Report Folder Distinction
+   Makes -reference and -reports folders visually distinct
+   ───────────────────────────────────────────────────────── */
+
+.nav-folder-title[data-path*="-reference"] {
+  color: #FF0000 !important;
+  font-style: italic;
+  opacity: 0.85;
+}
+
+.nav-folder-title[data-path*="-reference"]::before {
+  content: "📚 " !important;
+}
+
+.nav-folder-title[data-path*="-reports"] {
+  color: #E0E0E0 !important;
+  font-weight: 600;
+}
+
+.nav-folder-title[data-path*="-reports"]::before {
+  content: "📊 " !important;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 5: File Maturity Badge System
+   Adds visual indicators based on note maturity level
+   Requires notes to include maturity keywords in filename
+   ───────────────────────────────────────────────────────── */
+
+.nav-file-title[data-path*="seedling"]::after {
+  content: "🌱" !important;
+  margin-left: 4px;
+  opacity: 0.6;
+}
+
+.nav-file-title[data-path*="budding"]::after {
+  content: "🌿" !important;
+  margin-left: 4px;
+  opacity: 0.6;
+}
+
+.nav-file-title[data-path*="evergreen"]::after {
+  content: "🌲" !important;
+  margin-left: 4px;
+  opacity: 0.6;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 6: Compact Mode - Reduced Spacing
+   Tighter spacing for file tree (more files visible)
+   ───────────────────────────────────────────────────────── */
+
+.nav-files-container {
+  padding: 6px 4px !important;
+}
+
+.nav-folder-title,
+.nav-file-title {
+  padding-top: 2px !important;
+  padding-bottom: 2px !important;
+  font-size: 13px !important;
+}
+
+.nav-folder-children {
+  margin-left: 6px !important;
+  padding-left: 8px !important;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 7: Rainbow Indent Lines
+   Colorful nested folder indicators by depth
+   ───────────────────────────────────────────────────────── */
+.nav-folder-children::before {
+  background: linear-gradient(180deg,
+    rgba(229, 0, 0, 0.4) 0%,
+    rgba(224, 224, 224, 0.3) 50%,
+    rgba(255, 110, 0, 0.2) 100%) !important;
+}
+
+.nav-folder-children .nav-folder-children::before {
+  background: linear-gradient(180deg,
+    rgba(224, 224, 224, 0.4) 0%,
+    rgba(203, 255, 0, 0.3) 50%,
+    transparent 100%) !important;
+}
+*/
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 8: Hide File Extensions
+   Removes .md extension from file names in tree
+   ───────────────────────────────────────────────────────── */
+
+.nav-file-title-content {
+  display: inline-block !important;
+}
+
+.nav-file-title-content::after {
+  content: "" !important;
+}
+
+.tree-item-self .nav-file-title-content {
+  max-width: calc(100% - 30px) !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 9: Animated Hover Effects
+   Adds smooth scaling and glow on hover
+   ───────────────────────────────────────────────────────── */
+
+.nav-folder-title:hover {
+  transform: scale(1.02) !important;
+  box-shadow: 0 2px 12px rgba(229, 0, 0, 0.3) !important;
+}
+
+.nav-file-title:hover {
+  transform: translateX(4px) scale(1.01) !important;
+  box-shadow: 0 2px 8px rgba(224, 224, 224, 0.2) !important;
+}
+
+/* ─────────────────────────────────────────────────────────
+   OPTIONAL 10: High Contrast Mode
+   Increases contrast for better visibility
+   ───────────────────────────────────────────────────────── */
+
+.nav-folder-title,
+.nav-file-title {
+  filter: brightness(1.2) contrast(1.1) !important;
+}
+
+.nav-folder-title[data-path^="00-"],
+.nav-folder-title[data-path^="01-"],
+.nav-folder-title[data-path^="02-"],
+.nav-folder-title[data-path^="03-"],
+.nav-folder-title[data-path^="04-"],
+.nav-folder-title[data-path^="05-"],
+.nav-folder-title[data-path^="06-"],
+.nav-folder-title[data-path^="07-"] {
+  font-weight: 300 !important;
+  text-shadow: 0 0 0px currentColor !important;
+}

@@ -1,0 +1,156 @@
+# Repomix Configuration Files
+
+✅ Everything Organized in 99_Outputs/repomix-configs/
+
+📁 Folder Structure:
+
+99_Outputs/
+└── repomix-configs/
+    ├── README.md                               # Full documentation
+    ├── repomix-helper.ps1                      # Windows helper
+    ├── repomix-helper.sh                       # Linux/Mac helper
+    ├── repomix.config.notes-only.json          # Personal notes only
+    ├── repomix.config.library.json             # Library/reference
+    ├── repomix.config.codebase.json            # Code files
+    ├── repomix.config.specific-project.json    # Single project
+    └── repomix.config.json                     # Default config
+
+
+This folder contains configuration files and helper scripts for generating AI-friendly repository packages.
+
+## Quick Start
+
+### Windows (PowerShell):
+```powershell
+cd 99_Outputs/repomix-configs
+.\repomix-helper.ps1 notes      # Pack personal notes only
+.\repomix-helper.ps1 library    # Pack library/reference materials
+.\repomix-helper.ps1 codebase   # Pack codebase files
+.\repomix-helper.ps1 project    # Pack specific project
+.\repomix-helper.ps1 full       # Pack everything (WARNING: large!)
+.\repomix-helper.ps1 custom "../../02-projects/my-project"  # Custom path
+```
+
+### Linux/Mac (Bash):
+```bash
+cd 99_Outputs/repomix-configs
+chmod +x repomix-helper.sh
+./repomix-helper.sh notes       # Pack personal notes only
+./repomix-helper.sh library     # Pack library/reference materials
+./repomix-helper.sh codebase    # Pack codebase files
+./repomix-helper.sh project     # Pack specific project
+./repomix-helper.sh full        # Pack everything (WARNING: large!)
+./repomix-helper.sh custom "../../02-projects/my-project"  # Custom path
+```
+
+### Direct repomix commands (from vault root):
+```bash
+# Run from vault root (d:\10_pur3v4d3r's-vault)
+repomix --config 99_Outputs/repomix-configs/repomix.config.notes-only.json
+repomix --config 99_Outputs/repomix-configs/repomix.config.library.json
+repomix --config 99_Outputs/repomix-configs/repomix.config.codebase.json
+```
+
+## Configuration Files
+
+### `repomix.config.notes-only.json`
+- **Output**: `99_Outputs/repomix-notes-only.txt`
+- **Includes**: Only your personal notes (*.md)
+- **Excludes**: Library, archives, codebases, local repos
+- **Best for**: Sharing your personal knowledge base with LLMs
+
+### `repomix.config.library.json`
+- **Output**: `99_Outputs/repomix-library.txt`
+- **Includes**: Library and reference materials from `04-library/`
+- **Best for**: Providing reference context to LLMs
+
+### `repomix.config.codebase.json`
+- **Output**: `99_Outputs/repomix-codebase.txt`
+- **Includes**: Code from `999-codebas+pkb/` (ts, js, json, md)
+- **Best for**: Code analysis and development tasks
+
+### `repomix.config.specific-project.json`
+- **Output**: `99_Outputs/repomix-current-project.txt`
+- **Includes**: Single project folder
+- **Note**: Edit the config to specify your project path
+- **Best for**: Focused project work
+
+## Output Location
+
+All outputs go to: `99_Outputs/` (parent folder)
+
+These files are:
+- ✅ Automatically ignored by Obsidian (won't cause crashes)
+- ✅ Excluded from git commits
+- ✅ Safe to delete and regenerate
+
+## Tips
+
+1. **Before running**: Check what will be included:
+   ```bash
+   repomix --config repomix.config.notes-only.json --no-files
+   ```
+
+2. **Size estimates**:
+   - Notes only: ~2-10 MB
+   - Library: ~5-20 MB
+   - Codebase: ~10-50 MB
+   - Full vault: ~100-300 MB (⚠️ May crash Obsidian if opened!)
+
+3. **For LLM context**: Use notes, library, or project configs. Avoid "full" unless necessary.
+
+4. **Customize**: Edit any config file to adjust include/exclude patterns.
+
+## Troubleshooting
+
+**Problem**: "repomix: command not found"
+- Install: `npm install -g repomix`
+
+**Problem**: Config file not found
+- Run commands from vault root, OR
+- Use full paths to config files
+
+**Problem**: Output file is too large for LLM
+- Use more specific configs (notes, project)
+- Add more exclusions to the config
+- Target specific folders only
+
+# Claude Code Summary
+
+🎯 When You Need Ignored Files for LLM:
+Quick Answer:
+Just run the appropriate profile!
+
+# From anywhere in your vault:
+.\99_Outputs\repomix-configs\repomix-helper.ps1 library
+Available Profiles:
+notes - Your personal notes (default, ignores library/archives)
+library - All reference materials from 04-library/
+codebase - Code from 999-codebas+pkb/
+project - Specific project (edit config first)
+full - Everything (⚠️ huge file!)
+custom - Custom folder path
+Example Workflows:
+Need library context for research?
+
+cd 99_Outputs/repomix-configs
+.\repomix-helper.ps1 library
+# Output: 99_Outputs/repomix-library.txt
+Need both notes AND library?
+
+# Run both and combine manually, or:
+repomix --output 99_Outputs/notes-and-library.txt "00-inbox/" "01_daily-notes/" "03-notes/" "04-library/"
+Need specific folder?
+
+.\repomix-helper.ps1 custom "02-projects/my-current-project"
+🔒 Safety Features:
+✅ All outputs go to 99_Outputs/ (ignored by Obsidian)
+✅ Gitignored automatically
+✅ Won't crash Obsidian when opened
+✅ Easy to delete and regenerate
+📊 Expected File Sizes:
+Notes only: ~2-10 MB
+Library: ~5-20 MB
+Codebase: ~10-50 MB
+Full vault: ~100-300 MB (⚠️ don't open in Obsidian!)
+Check the README.md for full documentation!

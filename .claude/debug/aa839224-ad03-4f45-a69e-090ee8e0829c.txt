@@ -1,0 +1,46 @@
+2025-12-14T01:13:21.980Z [DEBUG] Watching for changes in setting files D:\10_pur3v4d3r's-vault\.claude\settings.local.json...
+2025-12-14T01:13:22.009Z [DEBUG] Using bash path: "C:\Program Files\Git\bin\bash.exe"
+2025-12-14T01:13:22.019Z [DEBUG] [LSP MANAGER] initializeLspServerManager() called
+2025-12-14T01:13:22.019Z [DEBUG] [LSP MANAGER] Created manager instance, state=pending
+2025-12-14T01:13:22.019Z [DEBUG] [LSP MANAGER] Starting async initialization (generation 1)
+2025-12-14T01:13:22.019Z [DEBUG] [LSP SERVER MANAGER] initialize() called
+2025-12-14T01:13:22.019Z [DEBUG] [LSP SERVER MANAGER] Calling getAllLspServers()
+2025-12-14T01:13:22.032Z [DEBUG] Found 0 plugins (0 enabled, 0 disabled)
+2025-12-14T01:13:22.032Z [DEBUG] Total LSP servers loaded: 0
+2025-12-14T01:13:22.032Z [DEBUG] [LSP SERVER MANAGER] getAllLspServers returned 0 server(s)
+2025-12-14T01:13:22.032Z [DEBUG] LSP manager initialized with 0 servers
+2025-12-14T01:13:22.032Z [DEBUG] LSP server manager initialized successfully
+2025-12-14T01:13:22.032Z [DEBUG] LSP notification handlers registered successfully for all 0 server(s)
+2025-12-14T01:13:22.038Z [DEBUG] Loading skills from directories: managed=C:\ProgramData\ClaudeCode\.claude\skills, user=C:\Users\pur3v4d3rpk\.claude\skills, project=[]
+2025-12-14T01:13:22.039Z [DEBUG] >>>>> getPluginSkills CALLED <<<<<
+2025-12-14T01:13:22.048Z [DEBUG] Loaded 0 installed plugins from C:\Users\pur3v4d3rpk\.claude\plugins\installed_plugins.json (schema version 1)
+2025-12-14T01:13:22.048Z [DEBUG] Official marketplace auto-install already attempted, skipping
+2025-12-14T01:13:22.065Z [DEBUG] Creating shell snapshot for bash (C:\Program Files\Git\bin\bash.exe)
+2025-12-14T01:13:22.065Z [DEBUG] Looking for shell config file: C:\Users\pur3v4d3rpk\.bashrc
+2025-12-14T01:13:22.066Z [DEBUG] Shell config file not found: C:\Users\pur3v4d3rpk\.bashrc, creating snapshot with Claude Code defaults only
+2025-12-14T01:13:22.066Z [DEBUG] Snapshots directory: C:\Users\pur3v4d3rpk\.claude\shell-snapshots
+2025-12-14T01:13:22.072Z [DEBUG] Creating snapshot at: C:\Users\pur3v4d3rpk\.claude\shell-snapshots\snapshot-bash-1765674802066-4ka0zu.sh
+2025-12-14T01:13:22.072Z [DEBUG] Shell binary exists: true
+2025-12-14T01:13:22.072Z [DEBUG] Execution timeout: 10000ms
+2025-12-14T01:13:22.074Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude\todos\aa839224-ad03-4f45-a69e-090ee8e0829c-agent-aa839224-ad03-4f45-a69e-090ee8e0829c.json.tmp.36980.1765674802074
+2025-12-14T01:13:22.076Z [DEBUG] Temp file written successfully, size: 2 bytes
+2025-12-14T01:13:22.076Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude\todos\aa839224-ad03-4f45-a69e-090ee8e0829c-agent-aa839224-ad03-4f45-a69e-090ee8e0829c.json.tmp.36980.1765674802074 to C:\Users\pur3v4d3rpk\.claude\todos\aa839224-ad03-4f45-a69e-090ee8e0829c-agent-aa839224-ad03-4f45-a69e-090ee8e0829c.json
+2025-12-14T01:13:22.077Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude\todos\aa839224-ad03-4f45-a69e-090ee8e0829c-agent-aa839224-ad03-4f45-a69e-090ee8e0829c.json written atomically
+2025-12-14T01:13:22.097Z [DEBUG] getPluginSkills: Processing 0 enabled plugins
+2025-12-14T01:13:22.097Z [DEBUG] Total plugin skills loaded: 0
+2025-12-14T01:13:22.097Z [DEBUG] Total plugin commands loaded: 0
+2025-12-14T01:13:22.097Z [DEBUG] Registered 0 hooks from 0 plugins
+2025-12-14T01:13:22.108Z [DEBUG] Loaded 0 unique skills (managed: 0, user: 0, project: 0, duplicates removed: 0)
+2025-12-14T01:13:22.118Z [DEBUG] getSkills returning: 0 skill dir commands, 0 plugin skills
+2025-12-14T01:13:22.145Z [DEBUG] Total plugin agents loaded: 0
+2025-12-14T01:13:22.228Z [DEBUG] Git remote URL: null
+2025-12-14T01:13:22.228Z [DEBUG] No git remote URL found
+2025-12-14T01:13:22.228Z [DEBUG] Not in a GitHub repository, skipping path mapping update
+2025-12-14T01:13:22.313Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.36980.1765674802313
+2025-12-14T01:13:22.313Z [DEBUG] Preserving file permissions: 100666
+2025-12-14T01:13:22.314Z [DEBUG] Temp file written successfully, size: 48459 bytes
+2025-12-14T01:13:22.314Z [DEBUG] Applied original permissions to temp file
+2025-12-14T01:13:22.314Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.36980.1765674802313 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-14T01:13:22.315Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-14T01:13:22.318Z [DEBUG] Shell snapshot created successfully (289 bytes)
+2025-12-14T01:13:22.627Z [DEBUG] Ripgrep first use test: PASSED (mode=builtin, path=C:\Users\pur3v4d3rpk\.local\bin\claude.exe)

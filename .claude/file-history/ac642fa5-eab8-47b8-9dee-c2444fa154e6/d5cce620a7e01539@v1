@@ -1,0 +1,39 @@
+
+### Important Notes
+[[pkb-integration-system-deployment-v2.0.0]] -> Note for Deploying this System
+[[comprehensive-llm-pkb-integration-systems-executive-analysis]] -> Executive Summary of all the various components that went into this.
+
+# PKB-and-LLM-integration System Quick Reference
+
+- [[quick-reference-callout-taxonomy]]
+- [[quick-reference-inline-field]]
+- [[quick-reference-metadata-generation]]
+- [[quick-reference-note-type]]
+- [[quick-reference-semantic-color-coding]]
+- [[quick-reference-wiki-link-protocol]]
+---
+# Material that goes into each Claude Project
+
+- [[tier-1-universal-memory]]
+
+- [[cp-01-foundation-03-(report-generator)]]
+- [[cp-02-p.i.e.-(note-creator)]]
+- [[cp-03-comprehensive-reference-(reference-note-generator)]]
+- [[cp-04-obsidian-automations-(template-automation-engineer)]]
+- [[cp-05-meta-level-prompting-(prompt-engineer)]]
+
+- [[module-a-pkb-architecture-&-knowledge-graph]]
+- [[module-b-technical-infrastructure-&-local-ai]]
+- [[module-c-project-context-&-history]]
+- [[module-d-cognitive-frameworks-(detailed-applications)]]
+
+
+- [[pkb-architecture-&-obsidian-master-mega-prompt-202512160204]]
+- [[optimized-mega-prompt-v2.0.0]]
+
+----
+
+
+### Project System Notes
+- [[master-quick-reference-pkb-integration]] -> Master Copy of All Quick Reference Notes
+- [[master-pkb-integration-system-docs]] -> Master Copy of All Notes Created.

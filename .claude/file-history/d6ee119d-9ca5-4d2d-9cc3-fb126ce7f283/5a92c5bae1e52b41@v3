@@ -1,0 +1,12 @@
+{
+  "globalShortcut": "Ctrl+Space",
+  "mcpServers": {
+    "obsidian": {
+      "command": "npx",
+      "args": ["-y", "@connorbritain/obsidian-mcp-server"],
+      "env": {
+        "OBSIDIAN_VAULT_PATH": "D:\\10_pur3v4d3r's-vault"
+      }
+    }
+  }
+}

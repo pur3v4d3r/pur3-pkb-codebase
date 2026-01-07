@@ -1,0 +1,37 @@
+{
+  "output": {
+    "filePath": "99_Outputs/repomix-output.txt",
+    "style": "markdown",
+    "topFilesLength": 10,
+    "showLineNumbers": false,
+    "removeComments": false,
+    "removeEmptyLines": false,
+    "fileSummary": true,
+    "directoryStructure": true
+  },
+  "include": [
+    "**/*.md"
+  ],
+  "ignore": {
+    "useGitignore": true,
+    "useDefaultPatterns": true,
+    "customPatterns": [
+      "**/.obsidian/**",
+      "**/node_modules/**",
+      "**/99_Outputs/**",
+      "**/99-archive/**",
+      "**/999-codebas+pkb/**",
+      "**/04-library/**",
+      "**/.git/**",
+      "**/*.log",
+      "**/package-lock.json",
+      "**/yarn.lock",
+      "**/.DS_Store",
+      "**/Thumbs.db",
+      "**/__LOCAL-REPO/**"
+    ]
+  },
+  "security": {
+    "enableSecurityCheck": true
+  }
+}

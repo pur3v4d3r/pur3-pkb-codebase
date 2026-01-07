@@ -1,0 +1,291 @@
+---
+tags: #spes #component-library #metadata #template
+aliases: [SPES Metadata Template, Component Adapter, Migration Template]
+status: reference
+certainty: ^verified
+created: 2025-12-17
+---
+
+# SPES Metadata Adapter Template
+
+> [!abstract] Purpose
+> Template for adapting existing prompt components to SPES metadata standards. Bridges legacy component structure with enhanced SPES fields for synergies, conflicts, use-cases, and analytics.
+
+---
+
+## 🔄 Migration Pattern
+
+### Legacy Metadata (Preserve)
+```yaml
+---
+type: prompt-component | prompt
+id: "YYYYMMDDHHMMSS"
+status: active | dormant | deprecated
+version: X.Y.Z
+rating: "0.0" (usage quality rating 0-10)
+source: claude-opus-4.1 | gemini-2.0-flash | gpt-4
+title: "Human-readable component name"
+description: "Detailed purpose and functionality"
+key-takeaway: "One-sentence learning or insight"
+last-used: "[[YYYY-MM-DD]]"
+tags:
+  - year/YYYY
+  - llm-capability/generation | analysis | synthesis
+  - prompt-workflow/deployment | testing | development
+  - prompt-pattern
+  - prompt-engineering/anatomy
+aliases:
+  - Alternative Name 1
+  - Alternative Name 2
+link-up: "[[parent-moc-or-index]]"
+link-related:
+  - "[[related-note-1]]"
+  - "[[related-note-2]]"
+---
+```
+
+### Enhanced SPES Fields (Add)
+```yaml
+# SPES-Specific Metadata (add to existing frontmatter)
+
+# Component Classification
+component-type: atomic | composite | specialized
+component-category: persona | instruction | constraint | format | context | workflow | template
+atomic-type: [if atomic] persona | instruction | constraint | output-format | context-framer
+composite-type: [if composite] sequential-chain | parallel-branch | recursive-loop
+specialized-domain: [if specialized] educational | technical | creative | pkb-operations
+
+# Intelligence Layer
+concepts:: [[Concept 1]], [[Concept 2]], [[Concept 3]]
+  # Key ideas this component addresses (auto-linkable for discovery)
+
+use-cases::
+  - Use case 1 description
+  - Use case 2 description
+  - Use case 3 description
+  # Specific application contexts where component excels
+
+synergies:: [[Component A]], [[Component B]]
+  # Components that work well when combined with this one
+
+conflicts:: [[Component X]], [[Component Y]]
+  # Components to avoid combining (produces poor results)
+
+prerequisites:: [[Required Component 1]], [[Required Component 2]]
+  # Components that should be used before this one in a workflow
+
+performance-notes::
+  - Quality: [Observed output quality pattern]
+  - Speed: [Inference time characteristics]
+  - Consistency: [Reliability across iterations]
+  # Empirical observations from usage
+
+# Analytics & Learning
+usage-frequency: 0 | [incremented each use]
+success-rate: 0.00 | [calculated from outcomes]
+avg-quality-score: 0.00 | [user ratings aggregated]
+last-modified: "[[YYYY-MM-DD]]"
+times-iterated: 0 | [version evolution count]
+
+# Problem-Type Mapping
+problem-types::
+  - Problem type 1 this component solves
+  - Problem type 2 this component solves
+  # What kinds of tasks is this component designed for?
+
+workflow-position: initial | middle | terminal | standalone
+  # Where in a sequential workflow does this component typically appear?
+
+# Testing & Validation
+test-status: untested | passing | failing | needs-review
+test-cases: 0 | [number of test scenarios]
+validation-method: manual | automated | peer-review
+known-limitations::
+  - Limitation 1
+  - Limitation 2
+  # Documented failure modes or constraints
+```
+
+---
+
+## 📋 Migration Checklist
+
+When adapting a component to SPES:
+
+- [ ] **Preserve legacy metadata** (type, id, status, version, rating, source, title, description)
+- [ ] **Add component-type** (atomic/composite/specialized)
+- [ ] **Add component-category** (persona/instruction/etc)
+- [ ] **Identify concepts** (3-5 key ideas as wiki-links)
+- [ ] **Document use-cases** (2-4 specific applications)
+- [ ] **Map synergies** (components that combine well)
+- [ ] **Map conflicts** (components that conflict)
+- [ ] **Document prerequisites** (if workflow-dependent)
+- [ ] **Add performance-notes** (if tested/used)
+- [ ] **Initialize analytics** (usage-frequency: 0, etc)
+- [ ] **Map problem-types** (what tasks this solves)
+- [ ] **Set workflow-position** (initial/middle/terminal/standalone)
+- [ ] **Add test-status** (untested initially)
+- [ ] **Document known-limitations** (failure modes)
+
+---
+
+## 🎯 Example: Atomic Instruction Component
+
+```yaml
+---
+# === LEGACY METADATA (Preserved) ===
+type: prompt-component
+id: "2025120319"
+status: active
+version: 2.0.0
+rating: "8.5"
+source: claude-opus-4.1
+title: "System Instructions: Claude PKB Architect"
+description: "Comprehensive system prompt for Claude operating as PKB Architect with depth mandates, formatting protocols, and self-check capabilities."
+key-takeaway: "Encodes full operational identity with ReAct reasoning, wiki-link protocols, and quality gates."
+last-used: "[[2025-12-17]]"
+tags:
+  - year/2025
+  - llm-capability/generation
+  - prompt-workflow/deployment
+  - prompt-pattern
+  - prompt-engineering/anatomy
+aliases:
+  - Claude System Prompt
+  - PKB Architect Instructions
+  - Claude Identity Component
+link-up: "[[moc-agentic-instruction-sets-2025117044009]]"
+link-related:
+  - "[[reference-comprehensive-claude-prompt-component-librarian-2025111004]]"
+  - "[[claude-code-pkb-system-instruction]]"
+
+# === SPES METADATA (Added) ===
+component-type: atomic
+component-category: instruction
+atomic-type: instruction
+
+# Intelligence Layer
+concepts:: [[System Prompt]], [[Identity Frame]], [[Constitutional AI]], [[ReAct Framework]], [[Chain-of-Density]], [[Knowledge Graph Building]], [[Instructional Design]]
+use-cases::
+  - Comprehensive reference note generation for PKB
+  - Technical documentation with proper Obsidian formatting
+  - Educational content with pedagogical scaffolding
+  - Self-check and quality assurance activation
+synergies:: [[format-inline-field-definitions]], [[format-mandatory-expansion-section]], [[instruction-gemini-system]]
+conflicts:: [[instruction-minimal-concise-mode]]
+prerequisites:: []
+performance-notes::
+  - Quality: Consistently high-depth outputs (8-10 rating range)
+  - Speed: Slower due to ReAct reasoning overhead (~30% longer inference)
+  - Consistency: Very consistent formatting compliance (>90%)
+
+# Analytics
+usage-frequency: 47
+success-rate: 0.89
+avg-quality-score: 8.5
+last-modified: "[[2025-12-03]]"
+times-iterated: 2
+
+# Problem-Type Mapping
+problem-types::
+  - Generating comprehensive reference notes for PKB
+  - Explaining complex topics with educational rigor
+  - Creating Obsidian-native formatted content
+  - Building knowledge graph through wiki-links
+workflow-position: initial
+test-status: passing
+test-cases: 5
+validation-method: manual
+known-limitations::
+  - Can over-link (>30% wiki-link density in some outputs)
+  - ReAct reasoning adds latency (trade-off for quality)
+  - May generate overly comprehensive responses for simple queries (depth mandate conflict)
+---
+```
+
+---
+
+## 🎯 Example: Composite Workflow Component
+
+```yaml
+---
+# === LEGACY METADATA (Preserved) ===
+type: prompt
+id: "2025121304"
+status: active
+version: 1.0.0
+rating: "9.2"
+source: claude-opus-4.1
+title: "Claude Code: PKB System Instruction (Complete)"
+description: "Master system prompt for Claude Code operating in Obsidian vault workspace with full formatting stack, operational modes, and quality gates."
+key-takeaway: "Production-ready vault-integrated system with semantic color coding, inline fields, and multi-mode operation."
+last-used: "[[2025-12-17]]"
+tags:
+  - year/2025
+  - prompt-engineering
+  - llm-capability/generation
+  - prompt-workflow/deployment
+aliases:
+  - Claude Code Master Prompt
+  - PKB System Instruction
+link-up: "[[moc-agentic-instruction-sets-2025117044009]]"
+link-related:
+  - "[[prompt-component-instruction-claude-system-v2.0.0]]"
+
+# === SPES METADATA (Added) ===
+component-type: composite
+component-category: workflow
+composite-type: sequential-chain
+
+# Intelligence Layer
+concepts:: [[Claude Code]], [[System Prompt]], [[PKB Architecture]], [[Multi-Mode Operation]], [[Semantic Color Coding]], [[Dataview Integration]], [[Quality Gates]]
+use-cases::
+  - Operating Claude Code as PKB assistant in VS Code
+  - Generating vault-native notes with full formatting
+  - Refactoring existing notes to standard
+  - Managing prompt engineering workflows
+  - Plugin integration (Dataview, Templater, Tasks)
+synergies:: [[instruction-claude-system-v2]], [[format-inline-field-definitions]], [[format-html-wrapper-support]], [[format-mandatory-pkb-integration]]
+conflicts:: []
+prerequisites:: [[instruction-claude-system-v2]]
+performance-notes::
+  - Quality: Exceptional vault integration (9+ ratings)
+  - Speed: Comprehensive but slower for complex outputs
+  - Consistency: Very high formatting compliance (95%+)
+
+# Analytics
+usage-frequency: 23
+success-rate: 0.96
+avg-quality-score: 9.2
+last-modified: "[[2025-12-13]]"
+times-iterated: 1
+
+# Problem-Type Mapping
+problem-types::
+  - Operating as vault-integrated AI assistant
+  - Generating production-ready Obsidian notes
+  - Multi-modal operation (note generation, refactoring, navigation, templates)
+  - Maintaining PKB architecture standards
+workflow-position: standalone
+test-status: passing
+test-cases: 8
+validation-method: manual
+known-limitations::
+  - Requires Claude Code environment (not portable to web/API)
+  - Heavy prompt (may hit context limits with large vault operations)
+  - Semantic color coding may not render in all Obsidian themes
+---
+```
+
+---
+
+## 🔗 Related
+
+- [[05-metadata-tagging-standards]] - SPES metadata specifications
+- [[01-component-management-sop]] - Component creation procedures
+- [[04-quality-assurance-checklist]] - Validation standards
+- [[implementation-roadmap]] - Migration phase details
+
+---
+
+*Created: 2025-12-17 | Purpose: Component migration template for Phase 2*

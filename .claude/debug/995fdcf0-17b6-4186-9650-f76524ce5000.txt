@@ -1,0 +1,190 @@
+2025-12-15T03:27:30.504Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (15.2ms)
+2025-12-15T03:27:30.694Z [DEBUG] Using bash path: "C:\Program Files\Git\bin\bash.exe"
+2025-12-15T03:27:30.719Z [DEBUG] [LSP MANAGER] initializeLspServerManager() called
+2025-12-15T03:27:30.722Z [DEBUG] [LSP MANAGER] Created manager instance, state=pending
+2025-12-15T03:27:30.722Z [DEBUG] [LSP MANAGER] Starting async initialization (generation 1)
+2025-12-15T03:27:30.726Z [DEBUG] LSP server manager initialized successfully
+2025-12-15T03:27:30.727Z [DEBUG] LSP notification handlers registered successfully for all 0 server(s)
+2025-12-15T03:27:30.760Z [DEBUG] Found 0 plugins (0 enabled, 0 disabled)
+2025-12-15T03:27:30.779Z [DEBUG] [SLOW OPERATION DETECTED] fs.readdirSync (12.4ms)
+2025-12-15T03:27:30.782Z [DEBUG] Stats cache does not exist, returning empty cache
+2025-12-15T03:27:30.818Z [DEBUG] Stats cache empty, processing all historical data in background
+2025-12-15T03:27:30.831Z [DEBUG] Loading skills from directories: managed=C:\ProgramData\ClaudeCode\.claude\skills, user=C:\Users\pur3v4d3rpk\.claude\skills, project=[]
+2025-12-15T03:27:31.034Z [DEBUG] [SLOW OPERATION DETECTED] execSyncWithDefaults (192.8ms): tasklist | findstr /I "Code.exe Cursor.exe Windsurf.exe idea64.exe pycharm64.exe webstorm64.exe phps
+2025-12-15T03:27:31.043Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (5.7ms)
+2025-12-15T03:27:31.043Z [DEBUG] Loaded and converted 0 plugins from V1 format
+2025-12-15T03:27:31.044Z [DEBUG] Official marketplace auto-install already attempted, skipping
+2025-12-15T03:27:31.061Z [DEBUG] Creating shell snapshot for bash (C:\Program Files\Git\bin\bash.exe)
+2025-12-15T03:27:31.061Z [DEBUG] Looking for shell config file: C:\Users\pur3v4d3rpk\.bashrc
+2025-12-15T03:27:31.061Z [DEBUG] Shell config file not found: C:\Users\pur3v4d3rpk\.bashrc, creating snapshot with Claude Code defaults only
+2025-12-15T03:27:31.061Z [DEBUG] Snapshots directory: C:\Users\pur3v4d3rpk\.claude\shell-snapshots
+2025-12-15T03:27:31.076Z [DEBUG] Creating snapshot at: C:\Users\pur3v4d3rpk\.claude\shell-snapshots\snapshot-bash-1765769251061-47iom5.sh
+2025-12-15T03:27:31.076Z [DEBUG] Shell binary exists: true
+2025-12-15T03:27:31.076Z [DEBUG] Execution timeout: 10000ms
+2025-12-15T03:27:31.086Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude\todos\995fdcf0-17b6-4186-9650-f76524ce5000-agent-995fdcf0-17b6-4186-9650-f76524ce5000.json.tmp.9480.1765769251086
+2025-12-15T03:27:31.097Z [DEBUG] [SLOW OPERATION DETECTED] fs.writeFileSync (11.4ms)
+2025-12-15T03:27:31.097Z [DEBUG] Temp file written successfully, size: 2 bytes
+2025-12-15T03:27:31.097Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude\todos\995fdcf0-17b6-4186-9650-f76524ce5000-agent-995fdcf0-17b6-4186-9650-f76524ce5000.json.tmp.9480.1765769251086 to C:\Users\pur3v4d3rpk\.claude\todos\995fdcf0-17b6-4186-9650-f76524ce5000-agent-995fdcf0-17b6-4186-9650-f76524ce5000.json
+2025-12-15T03:27:31.098Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude\todos\995fdcf0-17b6-4186-9650-f76524ce5000-agent-995fdcf0-17b6-4186-9650-f76524ce5000.json written atomically
+2025-12-15T03:27:31.104Z [DEBUG] getPluginSkills: Processing 0 enabled plugins
+2025-12-15T03:27:31.104Z [DEBUG] Total plugin skills loaded: 0
+2025-12-15T03:27:31.104Z [DEBUG] Total plugin commands loaded: 0
+2025-12-15T03:27:31.104Z [DEBUG] Registered 0 hooks from 0 plugins
+2025-12-15T03:27:31.117Z [DEBUG] Loaded 0 unique skills (managed: 0, user: 0, project: 0, duplicates removed: 0)
+2025-12-15T03:27:31.127Z [DEBUG] getSkills returning: 0 skill dir commands, 0 plugin skills
+2025-12-15T03:27:31.138Z [DEBUG] Total plugin agents loaded: 0
+2025-12-15T03:27:31.194Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769251194
+2025-12-15T03:27:31.194Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:31.200Z [DEBUG] [SLOW OPERATION DETECTED] fs.writeFileSync (5.6ms)
+2025-12-15T03:27:31.200Z [DEBUG] Temp file written successfully, size: 50407 bytes
+2025-12-15T03:27:31.200Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:31.200Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769251194 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:31.200Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:31.213Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (11.7ms)
+2025-12-15T03:27:31.216Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769251216
+2025-12-15T03:27:31.216Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:31.222Z [DEBUG] [SLOW OPERATION DETECTED] fs.writeFileSync (5.3ms)
+2025-12-15T03:27:31.222Z [DEBUG] Temp file written successfully, size: 50437 bytes
+2025-12-15T03:27:31.222Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:31.222Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769251216 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:31.222Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:31.252Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769251252
+2025-12-15T03:27:31.252Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:31.255Z [DEBUG] Temp file written successfully, size: 50483 bytes
+2025-12-15T03:27:31.255Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:31.256Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769251252 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:31.256Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:31.267Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (9.0ms)
+2025-12-15T03:27:31.303Z [DEBUG] Remote settings: No settings found (404)
+2025-12-15T03:27:31.304Z [DEBUG] Programmatic settings change notification for policySettings
+2025-12-15T03:27:31.304Z [DEBUG] Plugin hooks: reloading due to policySettings change
+2025-12-15T03:27:31.305Z [DEBUG] Found 0 plugins (0 enabled, 0 disabled)
+2025-12-15T03:27:31.305Z [DEBUG] Registered 0 hooks from 0 plugins
+2025-12-15T03:27:31.312Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769251312
+2025-12-15T03:27:31.312Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:31.316Z [DEBUG] Temp file written successfully, size: 50483 bytes
+2025-12-15T03:27:31.316Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:31.316Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769251312 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:31.317Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:31.421Z [DEBUG] Git remote URL: null
+2025-12-15T03:27:31.421Z [DEBUG] No git remote URL found
+2025-12-15T03:27:31.421Z [DEBUG] Not in a GitHub repository, skipping path mapping update
+2025-12-15T03:27:31.432Z [DEBUG] Stats cache saved successfully (lastComputedDate: 2025-12-14)
+2025-12-15T03:27:31.432Z [DEBUG] Stats cache updated with 23 sessions
+2025-12-15T03:27:31.715Z [DEBUG] Ripgrep first use test: PASSED (mode=builtin, path=C:\Users\pur3v4d3rpk\.local\bin\claude.exe)
+2025-12-15T03:27:31.800Z [DEBUG] rg error (signal=undefined, code=ERR_CHILD_PROCESS_STDIO_MAXBUFFER, stderr: rg: D:\System Volume Information: Access is denied. (os error 5)
+rg: D:\$RECYCLE.BIN\S-1-5-21-3408467793-443165904-4102488093-1001: Access is denied. (os error 5)
+rg: D:\$RECYCLE.BIN\S-1-5-18: Access is denied. (os error 5)
+), 171513 results
+2025-12-15T03:27:31.800Z [ERROR] RangeError: RangeError: stdout maxBuffer length exceeded
+    at unknown
+    at onData (node:child_process:153:110)
+    at emit (node:events:95:22)
+    at addChunk (internal:streams/readable:264:47)
+    at readableAddChunkPushByteMode (internal:streams/readable:242:18)
+    at handleArrayBufferViewResult (internal:streams/native-readable:89:16)
+    at <anonymous> (internal:streams/native-readable:53:68)
+    at processTicksAndRejections (native:7:39)
+2025-12-15T03:27:31.835Z [DEBUG] Shell snapshot created successfully (289 bytes)
+2025-12-15T03:27:36.451Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769256451
+2025-12-15T03:27:36.451Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:36.457Z [DEBUG] [SLOW OPERATION DETECTED] fs.writeFileSync (5.6ms)
+2025-12-15T03:27:36.457Z [DEBUG] Temp file written successfully, size: 50862 bytes
+2025-12-15T03:27:36.457Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:36.457Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769256451 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:36.457Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:36.586Z [DEBUG] Metrics opt-out API response: enabled=true, vcsLinking=false
+2025-12-15T03:27:44.640Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264640
+2025-12-15T03:27:44.640Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:44.647Z [DEBUG] [SLOW OPERATION DETECTED] fs.writeFileSync (6.3ms)
+2025-12-15T03:27:44.647Z [DEBUG] Temp file written successfully, size: 50892 bytes
+2025-12-15T03:27:44.647Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:44.647Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264640 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:44.647Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:44.657Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (7.9ms)
+2025-12-15T03:27:44.671Z [DEBUG] Renamed installed_plugins_v2.json to installed_plugins.json
+2025-12-15T03:27:44.693Z [DEBUG] Initialized versioned plugins system with 0 plugins
+2025-12-15T03:27:44.696Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264696
+2025-12-15T03:27:44.696Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:44.699Z [DEBUG] Temp file written successfully, size: 50892 bytes
+2025-12-15T03:27:44.699Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:44.699Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264696 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:44.700Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:44.711Z [DEBUG] Getting matching hook commands for SessionStart with query: startup
+2025-12-15T03:27:44.711Z [DEBUG] Found 0 hook matchers in settings
+2025-12-15T03:27:44.711Z [DEBUG] Matched 0 unique hooks for query "startup" (0 before deduplication)
+2025-12-15T03:27:44.733Z [DEBUG] Skills and commands included in Skill tool:
+2025-12-15T03:27:44.733Z [DEBUG] Slash commands included in SlashCommand tool:
+2025-12-15T03:27:44.751Z [DEBUG] Getting matching hook commands for SubagentStart with query: Explore
+2025-12-15T03:27:44.751Z [DEBUG] Found 0 hook matchers in settings
+2025-12-15T03:27:44.751Z [DEBUG] Matched 0 unique hooks for query "Explore" (0 before deduplication)
+2025-12-15T03:27:44.758Z [DEBUG] Getting matching hook commands for SubagentStart with query: Plan
+2025-12-15T03:27:44.758Z [DEBUG] Found 0 hook matchers in settings
+2025-12-15T03:27:44.758Z [DEBUG] Matched 0 unique hooks for query "Plan" (0 before deduplication)
+2025-12-15T03:27:44.788Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264788
+2025-12-15T03:27:44.788Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:44.791Z [DEBUG] Temp file written successfully, size: 50819 bytes
+2025-12-15T03:27:44.791Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:44.791Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264788 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:44.791Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:44.799Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (7.4ms)
+2025-12-15T03:27:44.801Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264801
+2025-12-15T03:27:44.801Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:44.805Z [DEBUG] Temp file written successfully, size: 50819 bytes
+2025-12-15T03:27:44.805Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:44.805Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264801 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:44.805Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:44.812Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (6.8ms)
+2025-12-15T03:27:44.813Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264813
+2025-12-15T03:27:44.813Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:44.817Z [DEBUG] Temp file written successfully, size: 50819 bytes
+2025-12-15T03:27:44.817Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:44.817Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264813 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:44.817Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:44.824Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (5.3ms)
+2025-12-15T03:27:44.826Z [DEBUG] performStartupChecks called
+2025-12-15T03:27:44.826Z [DEBUG] Starting background plugin installations
+2025-12-15T03:27:44.826Z [DEBUG] performBackgroundPluginInstallations called
+2025-12-15T03:27:44.832Z [DEBUG] AutoUpdaterWrapper: Installation type: native
+2025-12-15T03:27:44.835Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264835
+2025-12-15T03:27:44.835Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:44.839Z [DEBUG] Temp file written successfully, size: 50892 bytes
+2025-12-15T03:27:44.839Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:44.839Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264835 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:44.839Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:44.847Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (7.0ms)
+2025-12-15T03:27:44.848Z [DEBUG] Setting installation status: 0 marketplaces, 0 installable plugins, 0 uninstallable plugins
+2025-12-15T03:27:44.854Z [DEBUG] Loaded plugins - Enabled: 0, Disabled: 0, Commands: 0, Agents: 0, Errors: 0
+2025-12-15T03:27:44.942Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264942
+2025-12-15T03:27:44.942Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:44.946Z [DEBUG] Temp file written successfully, size: 50892 bytes
+2025-12-15T03:27:44.946Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:44.946Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264942 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:44.946Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:44.956Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (9.7ms)
+2025-12-15T03:27:44.957Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264957
+2025-12-15T03:27:44.957Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:44.964Z [DEBUG] [SLOW OPERATION DETECTED] fs.writeFileSync (6.7ms)
+2025-12-15T03:27:44.964Z [DEBUG] Temp file written successfully, size: 51073 bytes
+2025-12-15T03:27:44.964Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:44.964Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264957 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:44.964Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:44.975Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (9.5ms)
+2025-12-15T03:27:44.978Z [DEBUG] Writing to temp file: C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264978
+2025-12-15T03:27:44.978Z [DEBUG] Preserving file permissions: 100666
+2025-12-15T03:27:44.988Z [DEBUG] [SLOW OPERATION DETECTED] fs.writeFileSync (9.8ms)
+2025-12-15T03:27:44.988Z [DEBUG] Temp file written successfully, size: 51073 bytes
+2025-12-15T03:27:44.988Z [DEBUG] Applied original permissions to temp file
+2025-12-15T03:27:44.988Z [DEBUG] Renaming C:\Users\pur3v4d3rpk\.claude.json.tmp.9480.1765769264978 to C:\Users\pur3v4d3rpk\.claude.json
+2025-12-15T03:27:44.988Z [DEBUG] File C:\Users\pur3v4d3rpk\.claude.json written atomically
+2025-12-15T03:27:44.999Z [DEBUG] [SLOW OPERATION DETECTED] fs.readFileSync (9.4ms)
+2025-12-15T03:27:45.214Z [DEBUG] Checking for native installer update to version 2.0.69
+2025-12-15T03:27:45.214Z [DEBUG] Already running version 2.0.69 - no update needed
+2025-12-15T03:27:46.425Z [DEBUG] Stream started - received first chunk
+2025-12-15T03:27:46.756Z [DEBUG] Stream started - received first chunk
+2025-12-15T03:27:47.782Z [DEBUG] Getting matching hook commands for SubagentStop with query: undefined
+2025-12-15T03:27:47.782Z [DEBUG] Found 0 hook matchers in settings
+2025-12-15T03:27:47.782Z [DEBUG] Matched 0 unique hooks for query "no match query" (0 before deduplication)
+2025-12-15T03:27:52.534Z [DEBUG] Getting matching hook commands for SubagentStop with query: undefined
+2025-12-15T03:27:52.534Z [DEBUG] Found 0 hook matchers in settings
+2025-12-15T03:27:52.534Z [DEBUG] Matched 0 unique hooks for query "no match query" (0 before deduplication)

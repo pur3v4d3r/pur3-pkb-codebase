@@ -1,0 +1,8 @@
+{
+  "rules": "node_modules/\nsrc/\n.claude\n99_Outputs/repomix-output.md\n99_Outputs/*repomix*.md",
+  "ignoredFiles": [],
+  "debug": false,
+  "rulesHistory": [
+    "temp/\n*.tmp\n.DS_Store\nThumbs.db"
+  ]
+}

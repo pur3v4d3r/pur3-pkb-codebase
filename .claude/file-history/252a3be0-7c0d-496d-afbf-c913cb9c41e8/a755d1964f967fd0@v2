@@ -1,0 +1,34 @@
+{
+  "smart_blocks": {
+    "embed_model": {
+      "adapter": "ollama",
+      "model_key": "nomic-embed-text:latest",
+      "host": "http://localhost:11434"
+    }
+  },
+  "smart_sources": {
+    "embed_model": {
+      "adapter": "ollama",
+      "model_key": "nomic-embed-text:latest",
+      "host": "http://localhost:11434"
+    },
+    "excluded_headings": "",
+    "file_exclusions": "Untitled",
+    "folder_exclusions": ""
+  },
+  "smart_actions": {},
+  "smart_action_groups": {
+    "notes-v1": {
+      "actions": {}
+    },
+    "notes-v2": {
+      "actions": {}
+    },
+    "transcribe-v1": {
+      "actions": {}
+    },
+    "universal-v1": {
+      "actions": {}
+    }
+  }
+}

@@ -1,0 +1,1230 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET NAME: Pur3v4d3r's Advanced Code Block Customization
+ Purpose: Professional code block styling with community features
+ Author: Pur3v4d3r
+ Date: 2025-12-13
+ Obsidian Version: 1.5.0+
+ Features: Rounded corners, gradient glow borders, syntax highlighting
+ Installation: Place in .obsidian/snippets/ and enable
+ 
+ FIXES APPLIED (2025-12-13):
+ - Fixed line-by-line separation issue in Live Preview
+ - Properly targets begin/end lines for unified block appearance
+═══════════════════════════════════════════════════════════
+*/
+
+/* ════════════════════════════════════════════════════════
+   SECTION 1: READING/PREVIEW MODE - Works as expected
+   ═══════════════════════════════════════════════════════ */
+
+.theme-dark .markdown-preview-view pre[class*="language-"],
+.theme-dark .markdown-preview-view pre {
+  position: relative !important;
+
+  /* ═══ BACKGROUND OPTIONS ═══ */
+  /* CURRENT: Gradient (delete this line if switching to solid) */
+  background: linear-gradient(135deg, #121212 0%, #0A0A0A 100%) !important;
+
+  /* Option A: Solid black (uncomment to use) */
+  /* background: #0A0A0A !important; */
+
+  /* Option B: Pure black (uncomment to use) */
+  /* background: #000000 !important; */
+
+  /* Option C: Lighter charcoal (uncomment to use) */
+  /* background: #1A1A1A !important; */
+
+  /* ═══ CORNER STYLES ═══ */
+  /* CURRENT: 12px rounded */
+  border-radius: 12px !important;
+
+  /* Option A: Sharp corners (uncomment to replace above) */
+  /* border-radius: 0px !important; */
+
+  /* Option B: Subtle round (uncomment to replace above) */
+  /* border-radius: 6px !important; */
+
+  /* Option C: Extra round (uncomment to replace above) */
+  /* border-radius: 20px !important; */
+
+  border: none !important;
+
+  /* ═══ BORDER/SHADOW OPTIONS ═══ */
+  /* CURRENT: Dual red/grey outline */
+  box-shadow:
+    0 0 0 2px #E50000,
+    0 0 0 3px #E0E0E0,
+    0 4px 16px rgba(229, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05) !important;
+
+  /* Option A: Single thick red border (uncomment to replace above) */
+  /* box-shadow: 0 0 0 3px #E50000, 0 4px 16px rgba(229, 0, 0, 0.2) !important; */
+
+  /* Option B: Red border only - no grey (uncomment to replace above) */
+  /* box-shadow: 0 0 0 2px #E50000, 0 4px 16px rgba(229, 0, 0, 0.2) !important; */
+
+  /* Option C: Inset border - recessed look (uncomment to replace above) */
+  /* box-shadow: inset 0 0 0 2px #E50000, 0 4px 16px rgba(229, 0, 0, 0.2) !important; */
+
+  /* Option D: Left accent bar only - terminal style (uncomment to replace above) */
+  /* box-shadow: inset 4px 0 0 #E50000, 0 2px 8px rgba(0, 0, 0, 0.3) !important; */
+
+  /* ═══ PADDING OPTIONS ═══ */
+  /* CURRENT: 20px balanced */
+  padding: 20px !important;
+
+  /* Option A: More spacious (uncomment to replace above) */
+  /* padding: 24px !important; */
+
+  /* Option B: Compact (uncomment to replace above) */
+  /* padding: 12px !important; */
+
+  /* ═══ SPACING OPTIONS ═══ */
+  /* CURRENT: 16px vertical margin */
+  margin: 16px 0 !important;
+
+  /* Option A: More vertical space (uncomment to replace above) */
+  /* margin: 24px 0 !important; */
+
+  /* Option B: Minimal spacing (uncomment to replace above) */
+  /* margin: 8px 0 !important; */
+
+  transition: box-shadow 0.3s ease, transform 0.3s ease !important;
+  overflow-wrap: break-word !important;
+}
+
+.theme-dark .markdown-preview-view pre:hover {
+  /* ═══ HOVER BORDER/SHADOW OPTIONS ═══ */
+  /* CURRENT: Dual outline with color swap */
+  box-shadow:
+    0 0 0 2px #E0E0E0,
+    0 0 0 3px #E50000,
+    0 8px 24px rgba(229, 0, 0, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08) !important;
+
+  /* Option A: Brighter glow only - no border swap (uncomment to replace above) */
+  /* box-shadow: 0 0 0 2px #E50000, 0 0 0 3px #E0E0E0, 0 12px 40px rgba(229, 0, 0, 0.6) !important; */
+
+  /* Option B: Single red border intensify (uncomment to replace above) */
+  /* box-shadow: 0 0 0 4px #FF0000, 0 12px 32px rgba(255, 0, 0, 0.5) !important; */
+
+  /* Option C: Minimal - just glow increase (uncomment to replace above) */
+  /* box-shadow: 0 0 0 2px #E50000, 0 8px 32px rgba(229, 0, 0, 0.5) !important; */
+
+  /* ═══ HOVER TRANSFORM OPTIONS ═══ */
+  /* CURRENT: Lift up 2px */
+  transform: translateY(-2px) !important;
+
+  /* Option A: No lift - border/glow change only (uncomment to replace above) */
+  /* transform: none !important; */
+
+  /* Option B: Bigger lift (uncomment to replace above) */
+  /* transform: translateY(-4px) !important; */
+
+  /* Option C: Scale effect instead of lift (uncomment to replace above) */
+  /* transform: scale(1.02) !important; */
+
+  /* Option D: Both lift and scale (uncomment to replace above) */
+  /* transform: translateY(-2px) scale(1.01) !important; */
+
+  cursor: pointer !important;
+}
+
+/* ════════════════════════════════════════════════════════
+   SECTION 2: LIVE PREVIEW / SOURCE MODE (CM6)
+   Each line is a separate element - must style strategically
+   ═══════════════════════════════════════════════════════ */
+
+/* Base styling for ALL code block lines */
+.theme-dark .markdown-source-view.mod-cm6 .HyperMD-codeblock {
+  /* ═══ BACKGROUND OPTIONS ═══ */
+  /* CURRENT: Gradient (delete this line if switching to solid) */
+  background: linear-gradient(135deg, #121212 0%, #0A0A0A 100%) !important;
+
+  /* Option A: Solid black (uncomment to use) */
+  /* background: #0A0A0A !important; */
+
+  /* Option B: Pure black (uncomment to use) */
+  /* background: #000000 !important; */
+
+  /* Option C: Lighter charcoal (uncomment to use) */
+  /* background: #1A1A1A !important; */
+
+  /* ═══ PADDING OPTIONS ═══ */
+  /* CURRENT: 20px horizontal */
+  padding: 0 20px !important;
+
+  /* Option A: More spacious (uncomment to replace above) */
+  /* padding: 0 24px !important; */
+
+  /* Option B: Compact (uncomment to replace above) */
+  /* padding: 0 12px !important; */
+
+  margin: 0 !important;
+  border-radius: 0 !important;
+
+  /* ═══ SIDE BORDER OPTIONS (for middle lines) ═══ */
+  /* CURRENT: Red inset borders left/right */
+  box-shadow:
+    inset 2px 0 0 #E50000,
+    inset -2px 0 0 #E50000 !important;
+
+  /* Option A: Grey borders instead (uncomment to replace above) */
+  /* box-shadow: inset 2px 0 0 #A3A3A3, inset -2px 0 0 #A3A3A3 !important; */
+
+  /* Option B: Thicker borders (uncomment to replace above) */
+  /* box-shadow: inset 3px 0 0 #E50000, inset -3px 0 0 #E50000 !important; */
+
+  /* Option C: Left border only - terminal style (uncomment to replace above) */
+  /* box-shadow: inset 4px 0 0 #E50000 !important; */
+}
+
+/* FIRST line of code block - top rounded corners + top border */
+.theme-dark .markdown-source-view.mod-cm6 .HyperMD-codeblock-begin {
+  /* ═══ TOP CORNER OPTIONS ═══ */
+  /* CURRENT: 12px rounded top */
+  border-radius: 12px 12px 0 0 !important;
+
+  /* Option A: Sharp top corners (uncomment to replace above) */
+  /* border-radius: 0px !important; */
+
+  /* Option B: Subtle round top (uncomment to replace above) */
+  /* border-radius: 6px 6px 0 0 !important; */
+
+  /* Option C: Extra round top (uncomment to replace above) */
+  /* border-radius: 20px 20px 0 0 !important; */
+
+  /* ═══ TOP PADDING OPTIONS ═══ */
+  /* CURRENT: 16px top padding */
+  padding-top: 16px !important;
+
+  /* Option A: More spacious (uncomment to replace above) */
+  /* padding-top: 20px !important; */
+
+  /* Option B: Compact (uncomment to replace above) */
+  /* padding-top: 12px !important; */
+
+  /* ═══ TOP SPACING OPTIONS ═══ */
+  /* CURRENT: 16px top margin */
+  margin-top: 16px !important;
+
+  /* Option A: More vertical space (uncomment to replace above) */
+  /* margin-top: 24px !important; */
+
+  /* Option B: Minimal spacing (uncomment to replace above) */
+  /* margin-top: 8px !important; */
+
+  /* ═══ TOP BORDER/SHADOW OPTIONS ═══ */
+  /* CURRENT: Full red border with grey outer ring */
+  box-shadow:
+    inset 2px 0 0 #E50000,
+    inset -2px 0 0 #E50000,
+    inset 0 2px 0 #E50000,
+    0 -3px 0 0 #E0E0E0,
+    0 4px 16px rgba(229, 0, 0, 0.2) !important;
+
+  /* Option A: Red only - no grey (uncomment to replace above) */
+  /* box-shadow: inset 2px 0 0 #E50000, inset -2px 0 0 #E50000, inset 0 2px 0 #E50000, 0 4px 16px rgba(229, 0, 0, 0.2) !important; */
+
+  /* Option B: Left accent only - terminal style (uncomment to replace above) */
+  /* box-shadow: inset 4px 0 0 #E50000, inset 0 2px 0 #E50000, 0 4px 16px rgba(229, 0, 0, 0.2) !important; */
+
+  /* Option C: Simple top border only (uncomment to replace above) */
+  /* box-shadow: inset 0 2px 0 #E50000, 0 2px 8px rgba(0, 0, 0, 0.3) !important; */
+}
+
+/* LAST line of code block - bottom rounded corners + bottom border */
+.theme-dark .markdown-source-view.mod-cm6 .HyperMD-codeblock-end {
+  /* ═══ BOTTOM CORNER OPTIONS ═══ */
+  /* CURRENT: 12px rounded bottom */
+  border-radius: 0 0 12px 12px !important;
+
+  /* Option A: Sharp bottom corners (uncomment to replace above) */
+  /* border-radius: 0px !important; */
+
+  /* Option B: Subtle round bottom (uncomment to replace above) */
+  /* border-radius: 0 0 6px 6px !important; */
+
+  /* Option C: Extra round bottom (uncomment to replace above) */
+  /* border-radius: 0 0 20px 20px !important; */
+
+  /* ═══ BOTTOM PADDING OPTIONS ═══ */
+  /* CURRENT: 16px bottom padding */
+  padding-bottom: 16px !important;
+
+  /* Option A: More spacious (uncomment to replace above) */
+  /* padding-bottom: 20px !important; */
+
+  /* Option B: Compact (uncomment to replace above) */
+  /* padding-bottom: 12px !important; */
+
+  /* ═══ BOTTOM SPACING OPTIONS ═══ */
+  /* CURRENT: 16px bottom margin */
+  margin-bottom: 16px !important;
+
+  /* Option A: More vertical space (uncomment to replace above) */
+  /* margin-bottom: 24px !important; */
+
+  /* Option B: Minimal spacing (uncomment to replace above) */
+  /* margin-bottom: 8px !important; */
+
+  /* ═══ BOTTOM BORDER/SHADOW OPTIONS ═══ */
+  /* CURRENT: Full red border with grey outer ring */
+  box-shadow:
+    inset 2px 0 0 #E50000,
+    inset -2px 0 0 #E50000,
+    inset 0 -2px 0 #E50000,
+    0 3px 0 0 #E0E0E0,
+    0 4px 16px rgba(229, 0, 0, 0.2) !important;
+
+  /* Option A: Red only - no grey (uncomment to replace above) */
+  /* box-shadow: inset 2px 0 0 #E50000, inset -2px 0 0 #E50000, inset 0 -2px 0 #E50000, 0 4px 16px rgba(229, 0, 0, 0.2) !important; */
+
+  /* Option B: Left accent only - terminal style (uncomment to replace above) */
+  /* box-shadow: inset 4px 0 0 #E50000, inset 0 -2px 0 #E50000, 0 4px 16px rgba(229, 0, 0, 0.2) !important; */
+
+  /* Option C: Simple bottom border only (uncomment to replace above) */
+  /* box-shadow: inset 0 -2px 0 #E50000, 0 2px 8px rgba(0, 0, 0, 0.3) !important; */
+}
+
+/* Single-line code blocks (has both begin AND end) */
+.theme-dark .markdown-source-view.mod-cm6 .HyperMD-codeblock-begin.HyperMD-codeblock-end {
+  /* ═══ SINGLE-LINE CORNER OPTIONS ═══ */
+  /* CURRENT: 12px fully rounded */
+  border-radius: 12px !important;
+
+  /* Option A: Sharp corners (uncomment to replace above) */
+  /* border-radius: 0px !important; */
+
+  /* Option B: Subtle round (uncomment to replace above) */
+  /* border-radius: 6px !important; */
+
+  /* Option C: Extra round (uncomment to replace above) */
+  /* border-radius: 20px !important; */
+
+  /* ═══ SINGLE-LINE PADDING OPTIONS ═══ */
+  /* CURRENT: 16px vertical, 20px horizontal */
+  padding: 16px 20px !important;
+
+  /* Option A: More spacious (uncomment to replace above) */
+  /* padding: 20px 24px !important; */
+
+  /* Option B: Compact (uncomment to replace above) */
+  /* padding: 12px 16px !important; */
+
+  /* ═══ SINGLE-LINE SPACING OPTIONS ═══ */
+  /* CURRENT: 16px vertical margin */
+  margin: 16px 0 !important;
+
+  /* Option A: More vertical space (uncomment to replace above) */
+  /* margin: 24px 0 !important; */
+
+  /* Option B: Minimal spacing (uncomment to replace above) */
+  /* margin: 8px 0 !important; */
+
+  /* ═══ SINGLE-LINE BORDER/SHADOW OPTIONS ═══ */
+  /* CURRENT: Dual red/grey outline (matches preview mode) */
+  box-shadow:
+    0 0 0 2px #E50000,
+    0 0 0 3px #E0E0E0,
+    0 4px 16px rgba(229, 0, 0, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.05) !important;
+
+  /* Option A: Single thick red border (uncomment to replace above) */
+  /* box-shadow: 0 0 0 3px #E50000, 0 4px 16px rgba(229, 0, 0, 0.2) !important; */
+
+  /* Option B: Red only - no grey (uncomment to replace above) */
+  /* box-shadow: 0 0 0 2px #E50000, 0 4px 16px rgba(229, 0, 0, 0.2) !important; */
+
+  /* Option C: Left accent bar only (uncomment to replace above) */
+  /* box-shadow: inset 4px 0 0 #E50000, 0 2px 8px rgba(0, 0, 0, 0.3) !important; */
+}
+
+/* ════════════════════════════════════════════════════════
+   SECTION 2: LANGUAGE LABEL / CODE BLOCK HEADER
+   ═══════════════════════════════════════════════════════ */
+
+/* JavaScript/JS */
+.markdown-preview-view pre[class*="language-javascript"]::before,
+.markdown-preview-view pre[class*="language-js"]::before {
+  content: "JavaScript" !important;
+  position: absolute !important;
+
+  /* ═══ LABEL POSITION OPTIONS ═══ */
+  /* CURRENT: Top-right corner */
+  top: 6px !important;
+  right: 12px !important;
+
+  /* Option A: Top-left corner (uncomment to replace above 2 lines) */
+  /* top: 6px !important; */
+  /* left: 12px !important; */
+
+  /* Option B: Bottom-right corner (uncomment to replace above 2 lines) */
+  /* bottom: 6px !important; */
+  /* right: 12px !important; */
+
+  background: linear-gradient(135deg, #E50000 0%, #E50000 100%) !important;
+  color: #000000 !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+
+  /* ═══ LABEL SIZE OPTIONS ═══ */
+  /* CURRENT: 11px small */
+  font-size: 11px !important;
+
+  /* Option A: Bigger/bolder (uncomment to replace above) */
+  /* font-size: 13px !important; */
+
+  /* Option B: Tiny minimal (uncomment to replace above) */
+  /* font-size: 9px !important; */
+
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+
+  /* ═══ LABEL PADDING OPTIONS ═══ */
+  /* CURRENT: Balanced 4px 10px */
+  padding: 4px 10px !important;
+
+  /* Option A: Bigger badge (uncomment to replace above) */
+  /* padding: 6px 14px !important; */
+
+  /* Option B: Minimal compact (uncomment to replace above) */
+  /* padding: 2px 6px !important; */
+
+  /* ═══ LABEL SHAPE OPTIONS ═══ */
+  /* CURRENT: 6px rounded */
+  border-radius: 6px !important;
+
+  /* Option A: Sharp rectangle (uncomment to replace above) */
+  /* border-radius: 0px !important; */
+
+  /* Option B: Pill shape (uncomment to replace above) */
+  /* border-radius: 20px !important; */
+
+  /* Option C: Subtle round (uncomment to replace above) */
+  /* border-radius: 3px !important; */
+
+  /* ═══ LABEL BORDER OPTIONS ═══ */
+  /* Option A: Add black border (uncomment to add) */
+  /* border: 2px solid #000000 !important; */
+
+  /* Option B: Add grey border (uncomment to add) */
+  /* border: 1px solid #A3A3A3 !important; */
+
+  box-shadow: 0 2px 8px rgba(247, 223, 30, 0.3) !important;
+  z-index: 10 !important;
+}
+
+/* Python */
+.markdown-preview-view pre[class*="language-python"]::before {
+  content: "Python" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  background: linear-gradient(135deg, #E50000 0%, #E50000 100%) !important;
+  color: #E50000 !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  padding: 4px 10px !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(55, 118, 171, 0.3) !important;
+  z-index: 10 !important;
+}
+
+/* CSS */
+.markdown-preview-view pre[class*="language-css"]::before {
+  content: "CSS" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  background: linear-gradient(135deg, #E50000 0%, #E50000 100%) !important;
+  color: #E50000 !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  padding: 4px 10px !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(38, 77, 228, 0.3) !important;
+  z-index: 10 !important;
+}
+
+/* TypeScript */
+.markdown-preview-view pre[class*="language-typescript"]::before,
+.markdown-preview-view pre[class*="language-ts"]::before {
+  content: "TypeScript" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  background: linear-gradient(135deg, #E50000 0%, #E50000 100%) !important;
+  color: #E50000 !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  padding: 4px 10px !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(0, 122, 204, 0.3) !important;
+  z-index: 10 !important;
+}
+
+/* Bash/Shell */
+.markdown-preview-view pre[class*="language-bash"]::before,
+.markdown-preview-view pre[class*="language-shell"]::before,
+.markdown-preview-view pre[class*="language-sh"]::before {
+  content: "Shell" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  background: linear-gradient(135deg, #E50000 0%, #A3A3A3 100%) !important;
+  color: #000000 !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  padding: 4px 10px !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(78, 170, 37, 0.3) !important;
+  z-index: 10 !important;
+}
+
+/* Generic fallback */
+.markdown-preview-view pre:not([class*="language-"])::before {
+  content: "Code" !important;
+  position: absolute !important;
+  top: 6px !important;
+  right: 12px !important;
+  background: linear-gradient(135deg, #E50000 0%, #E50000 100%) !important;
+  color: #E50000 !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  padding: 4px 10px !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(229, 0, 0, 0.3) !important;
+  z-index: 10 !important;
+}
+
+/* ════════════════════════════════════════════════════════
+   SECTION 3: LINE NUMBERS STYLING (Edit Mode)
+   ═══════════════════════════════════════════════════════ */
+
+.theme-dark .cm-gutters {
+  background: rgba(13, 10, 18, 0.6) !important;
+  border-right: 2px solid rgba(229, 0, 0, 0.2) !important;
+  border-top-left-radius: 12px !important;
+  border-bottom-left-radius: 12px !important;
+  backdrop-filter: blur(8px) !important;
+  padding: 0 8px !important;
+}
+
+.theme-dark .cm-lineNumbers .cm-gutterElement {
+  color: #A3A3A3 !important;
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+  font-size: 11px !important;
+  font-weight: 500 !important;
+  min-width: 40px !important;
+  padding-right: 12px !important;
+  text-align: right !important;
+  transition: color 0.2s ease !important;
+}
+
+.theme-dark .cm-activeLineGutter {
+  background: rgba(229, 0, 0, 0.15) !important;
+  color: #E50000 !important;
+  font-weight: 700 !important;
+}
+
+/* ═══ ACTIVE LINE HIGHLIGHTING (for regular text) ═══ */
+.theme-dark .cm-activeLine {
+  /* CURRENT: Subtle red highlight */
+  background: rgba(229, 0, 0, 0.08) !important;
+
+  /* Option A: Stronger red highlight (uncomment to replace above) */
+  /* background: rgba(229, 0, 0, 0.15) !important; */
+
+  /* Option B: Grey highlight (uncomment to replace above) */
+  /* background: rgba(163, 163, 163, 0.1) !important; */
+
+  /* Option C: Dark grey highlight (uncomment to replace above) */
+  /* background: rgba(255, 255, 255, 0.05) !important; */
+
+  /* Option D: No background - border only (uncomment to replace above and uncomment border below) */
+  /* background: transparent !important; */
+  /* border-left: 2px solid #E50000 !important; */
+
+  /* Option E: Very subtle highlight (uncomment to replace above) */
+  /* background: rgba(229, 0, 0, 0.04) !important; */
+
+  /* Option F: No highlight at all (uncomment to replace above) */
+  /* background: transparent !important; */
+}
+
+/* ═══ ACTIVE LINE IN CODE BLOCKS - Override to keep transparent ═══ */
+.theme-dark .HyperMD-codeblock.cm-line.cm-activeLine,
+.theme-dark .HyperMD-codeblock .cm-activeLine,
+.theme-dark .cm-line.HyperMD-codeblock.cm-activeLine {
+  /* CURRENT: Transparent - no highlight inside code blocks */
+  background: transparent !important;
+
+  /* Option A: Subtle highlight inside code blocks (uncomment to replace above) */
+  /* background: rgba(229, 0, 0, 0.05) !important; */
+
+  /* Option B: Grey highlight inside code blocks (uncomment to replace above) */
+  /* background: rgba(163, 163, 163, 0.08) !important; */
+
+  /* Option C: Match code block gradient (uncomment to replace above) */
+  /* background: linear-gradient(135deg, #121212 0%, #0A0A0A 100%) !important; */
+}
+
+.theme-dark .cm-lineNumbers .cm-gutterElement:hover {
+  color: #E50000 !important;
+}
+
+/* ════════════════════════════════════════════════════════
+   SECTION 4: COPY BUTTON (Preview Mode)
+   ═══════════════════════════════════════════════════════ */
+
+.markdown-preview-view pre > button,
+.markdown-rendered pre > button,
+button.copy-code-button {
+  position: absolute !important;
+
+  /* ═══ COPY BUTTON POSITION OPTIONS ═══ */
+  /* CURRENT: Top-right, left of language label */
+  top: 10px !important;
+  right: 90px !important;
+
+  /* Option A: Further left (uncomment to replace above 2 lines) */
+  /* top: 10px !important; */
+  /* right: 110px !important; */
+
+  /* Option B: Top-left corner (uncomment to replace above 2 lines) */
+  /* top: 10px !important; */
+  /* left: 12px !important; */
+
+  /* Option C: Bottom-right corner (uncomment to replace above 2 lines) */
+  /* bottom: 10px !important; */
+  /* right: 12px !important; */
+
+  /* ═══ COPY BUTTON BACKGROUND OPTIONS ═══ */
+  /* CURRENT: Translucent red with blur */
+  background: rgba(229, 0, 0, 0.2) !important;
+  backdrop-filter: blur(8px) !important;
+
+  /* Option A: Solid red background (uncomment to replace above 2 lines) */
+  /* background: #E50000 !important; */
+  /* backdrop-filter: none !important; */
+
+  /* Option B: Dark grey background (uncomment to replace above 2 lines) */
+  /* background: rgba(18, 18, 18, 0.9) !important; */
+  /* backdrop-filter: blur(8px) !important; */
+
+  /* Option C: Black background (uncomment to replace above 2 lines) */
+  /* background: #000000 !important; */
+  /* backdrop-filter: none !important; */
+
+  /* ═══ COPY BUTTON COLOR OPTIONS ═══ */
+  /* CURRENT: Red text */
+  color: #E50000 !important;
+
+  /* Option A: White/grey text (uncomment to replace above) */
+  /* color: #E0E0E0 !important; */
+
+  /* Option B: Black text for solid backgrounds (uncomment to replace above) */
+  /* color: #000000 !important; */
+
+  /* ═══ COPY BUTTON BORDER OPTIONS ═══ */
+  /* CURRENT: Red translucent border */
+  border: 1px solid rgba(229, 0, 0, 0.3) !important;
+
+  /* Option A: Solid red border (uncomment to replace above) */
+  /* border: 1px solid #E50000 !important; */
+
+  /* Option B: Grey border (uncomment to replace above) */
+  /* border: 1px solid #A3A3A3 !important; */
+
+  /* Option C: No border (uncomment to replace above) */
+  /* border: none !important; */
+
+  /* ═══ COPY BUTTON SHAPE OPTIONS ═══ */
+  /* CURRENT: 6px rounded */
+  border-radius: 6px !important;
+
+  /* Option A: Sharp rectangle (uncomment to replace above) */
+  /* border-radius: 0px !important; */
+
+  /* Option B: Pill shape (uncomment to replace above) */
+  /* border-radius: 20px !important; */
+
+  /* Option C: Subtle round (uncomment to replace above) */
+  /* border-radius: 3px !important; */
+
+  /* ═══ COPY BUTTON SIZE OPTIONS ═══ */
+  /* CURRENT: 44x32 balanced size */
+  min-width: 44px !important;
+  min-height: 32px !important;
+  padding: 6px 12px !important;
+  font-size: 11px !important;
+
+  /* Option A: Bigger button (uncomment to replace above 4 lines) */
+  /* min-width: 52px !important; */
+  /* min-height: 38px !important; */
+  /* padding: 8px 16px !important; */
+  /* font-size: 12px !important; */
+
+  /* Option B: Compact button (uncomment to replace above 4 lines) */
+  /* min-width: 36px !important; */
+  /* min-height: 28px !important; */
+  /* padding: 4px 8px !important; */
+  /* font-size: 10px !important; */
+
+  font-weight: 600 !important;
+
+  /* ═══ COPY BUTTON VISIBILITY OPTIONS ═══ */
+  /* CURRENT: Hidden by default, shows on hover */
+  opacity: 0 !important;
+
+  /* Option A: Always visible (uncomment to replace above) */
+  /* opacity: 1 !important; */
+
+  /* Option B: Semi-visible by default (uncomment to replace above) */
+  /* opacity: 0.4 !important; */
+
+  transition: all 0.3s ease !important;
+  cursor: pointer !important;
+  z-index: 10 !important;
+}
+
+.markdown-preview-view pre:hover > button,
+.markdown-rendered pre:hover > button {
+  opacity: 1 !important;
+}
+
+.markdown-preview-view pre > button:hover,
+button.copy-code-button:hover {
+  /* ═══ COPY BUTTON HOVER BACKGROUND OPTIONS ═══ */
+  /* CURRENT: Brighter translucent red */
+  background: rgba(229, 0, 0, 0.4) !important;
+
+  /* Option A: Solid red (uncomment to replace above) */
+  /* background: #E50000 !important; */
+
+  /* Option B: Dark grey (uncomment to replace above) */
+  /* background: rgba(18, 18, 18, 1) !important; */
+
+  /* Option C: Bright red (uncomment to replace above) */
+  /* background: #FF0000 !important; */
+
+  /* ═══ COPY BUTTON HOVER BORDER OPTIONS ═══ */
+  /* CURRENT: Solid red border */
+  border-color: #E50000 !important;
+
+  /* Option A: Bright red border (uncomment to replace above) */
+  /* border-color: #FF0000 !important; */
+
+  /* Option B: Grey border (uncomment to replace above) */
+  /* border-color: #E0E0E0 !important; */
+
+  /* ═══ COPY BUTTON HOVER COLOR OPTIONS ═══ */
+  /* CURRENT: Red text */
+  color: #E50000 !important;
+
+  /* Option A: Bright red text (uncomment to replace above) */
+  /* color: #FF0000 !important; */
+
+  /* Option B: White text (uncomment to replace above) */
+  /* color: #E0E0E0 !important; */
+
+  /* Option C: Black text for bright backgrounds (uncomment to replace above) */
+  /* color: #000000 !important; */
+
+  /* ═══ COPY BUTTON HOVER TRANSFORM OPTIONS ═══ */
+  /* CURRENT: Lift up 1px */
+  transform: translateY(-1px) !important;
+
+  /* Option A: No movement (uncomment to replace above) */
+  /* transform: none !important; */
+
+  /* Option B: Bigger lift (uncomment to replace above) */
+  /* transform: translateY(-2px) !important; */
+
+  /* Option C: Scale effect (uncomment to replace above) */
+  /* transform: scale(1.05) !important; */
+
+  /* ═══ COPY BUTTON HOVER SHADOW OPTIONS ═══ */
+  /* CURRENT: Medium red glow */
+  box-shadow: 0 4px 12px rgba(229, 0, 0, 0.3) !important;
+
+  /* Option A: Stronger glow (uncomment to replace above) */
+  /* box-shadow: 0 6px 18px rgba(229, 0, 0, 0.5) !important; */
+
+  /* Option B: Minimal shadow (uncomment to replace above) */
+  /* box-shadow: 0 2px 6px rgba(229, 0, 0, 0.2) !important; */
+
+  /* Option C: No shadow (uncomment to replace above) */
+  /* box-shadow: none !important; */
+}
+
+.markdown-preview-view pre > button:active,
+button.copy-code-button:active {
+  /* ═══ COPY BUTTON CLICK EFFECT OPTIONS ═══ */
+  /* CURRENT: Return to flat position */
+  transform: translateY(0) !important;
+
+  /* Option A: Press down (uncomment to replace above) */
+  /* transform: translateY(1px) !important; */
+
+  /* Option B: Scale down (uncomment to replace above) */
+  /* transform: scale(0.95) !important; */
+
+  /* ═══ COPY BUTTON CLICK SHADOW OPTIONS ═══ */
+  /* CURRENT: Subtle glow */
+  box-shadow: 0 2px 6px rgba(229, 0, 0, 0.2) !important;
+
+  /* Option A: No shadow on click (uncomment to replace above) */
+  /* box-shadow: none !important; */
+
+  /* Option B: Minimal shadow (uncomment to replace above) */
+  /* box-shadow: 0 1px 3px rgba(229, 0, 0, 0.15) !important; */
+}
+
+.markdown-preview-view pre > button:focus-visible,
+button.copy-code-button:focus-visible {
+  outline: 2px solid #E50000 !important;
+  outline-offset: 2px !important;
+  opacity: 1 !important;
+}
+
+/* ════════════════════════════════════════════════════════
+   SECTION 5: CODE SYNTAX HIGHLIGHTING - ENHANCED
+   ═══════════════════════════════════════════════════════ */
+
+/* Base code styling */
+.theme-dark .cm-content code,
+.theme-dark .markdown-source-view pre .cm-line {
+  color: #E0E0E0 !important;
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 14px !important;
+  line-height: 1.6 !important;
+}
+
+/* ═══ CodeMirror 6 (Live Preview/Source Mode) ═══ */
+
+.theme-dark .cm-keyword {
+  color: #3cff00ff !important;
+  font-weight: 600 !important;
+}
+
+.theme-dark .cm-string {
+  color: #ff00007e !important;
+}
+
+.theme-dark .cm-number {
+  color: #ff8800ff !important;
+}
+
+.theme-dark .cm-variable.cm-function {
+  color: #E0E0E0 !important;
+  font-weight: 500 !important;
+}
+
+.theme-dark .cm-comment {
+  color: #0091e5ff !important;
+  font-style: italic !important;
+  opacity: 0.85 !important;
+}
+
+.theme-dark .cm-operator {
+  color: #d8b909ff !important;
+}
+
+.theme-dark .cm-variable {
+  color: #E0E0E0 !important;
+}
+
+.theme-dark .cm-type {
+  color: #d8b909ff !important;
+  font-weight: 600 !important;
+}
+
+.theme-dark .cm-property {
+  color: #E50000 !important;
+}
+
+/* ═══ MISSING ELEMENTS - CodeMirror ═══ */
+
+/* Boolean values (true, false) */
+.theme-dark .cm-atom,
+.theme-dark .cm-bool {
+  color: #ff8800ff !important;
+  font-weight: 600 !important;
+}
+
+/* Null, undefined, None, nil */
+.theme-dark .cm-null {
+  color: #A3A3A3 !important;
+  font-style: italic !important;
+  font-weight: 600 !important;
+}
+
+/* Constants (UPPER_CASE identifiers) */
+.theme-dark .cm-constant {
+  color: #ff00ffff !important;
+  font-weight: 700 !important;
+}
+
+/* Built-in functions/methods */
+.theme-dark .cm-builtin {
+  color: #3cff00ff !important;
+  font-weight: 500 !important;
+}
+
+/* Decorators (@decorator in Python/TS) */
+.theme-dark .cm-meta,
+.theme-dark .cm-annotation {
+  color: #d8b909ff !important;
+  font-style: italic !important;
+}
+
+/* Regular expressions */
+.theme-dark .cm-string-2 {
+  color: #E50000 !important;
+  font-weight: 500 !important;
+}
+
+/* Definitions (function/class names at declaration) */
+.theme-dark .cm-def,
+.theme-dark .cm-variable-2 {
+  color: #E50000 !important;
+  font-weight: 600 !important;
+}
+
+/* HTML/XML Tags */
+.theme-dark .cm-tag {
+  color: #3cff00ff !important;
+  font-weight: 600 !important;
+}
+
+/* HTML/XML Attributes */
+.theme-dark .cm-attribute {
+  color: #d8b909ff !important;
+  font-style: italic !important;
+}
+
+/* Bracket matching enhancement */
+.theme-dark .cm-matchingBracket {
+  background: rgba(229, 0, 0, 0.2) !important;
+  border-bottom: 2px solid #E50000 !important;
+  font-weight: 700 !important;
+}
+
+.theme-dark .cm-nonmatchingBracket {
+  background: rgba(255, 0, 0, 0.3) !important;
+  border-bottom: 2px solid #FF0000 !important;
+}
+
+/* Escape sequences in strings (\n, \t, etc.) */
+.theme-dark .cm-string .cm-escape {
+  color: #ff8800ff !important;
+  font-weight: 600 !important;
+}
+
+/* ═══ Token-based (Reading Mode/Prism.js) ═══ */
+
+.theme-dark .token.keyword {
+  color: #3cff00ff !important;
+  font-weight: 600 !important;
+}
+
+.theme-dark .token.string {
+  color: #ff00007e !important;
+}
+
+.theme-dark .token.number {
+  color: #ff8800ff !important;
+}
+
+.theme-dark .token.function {
+  color: #E0E0E0 !important;
+  font-weight: 500 !important;
+}
+
+.theme-dark .token.comment {
+  color: #0091e5ff !important;
+  font-style: italic !important;
+  opacity: 0.85 !important;
+}
+
+.theme-dark .token.operator {
+  color: #d8b909ff !important;
+}
+
+.theme-dark .token.variable {
+  color: #E0E0E0 !important;
+}
+
+.theme-dark .token.class-name,
+.theme-dark .token.type {
+  color: #d8b909ff !important;
+  font-weight: 600 !important;
+}
+
+.theme-dark .token.property {
+  color: #E50000 !important;
+}
+
+/* ═══ MISSING ELEMENTS - Tokens ═══ */
+
+/* Boolean values */
+.theme-dark .token.boolean {
+  color: #ff8800ff !important;
+  font-weight: 600 !important;
+}
+
+/* Null/undefined/None */
+.theme-dark .token.null,
+.theme-dark .token.nil,
+.theme-dark .token.undefined {
+  color: #A3A3A3 !important;
+  font-style: italic !important;
+  font-weight: 600 !important;
+}
+
+/* Constants */
+.theme-dark .token.constant {
+  color: #ff8800ff !important;
+  font-weight: 700 !important;
+}
+
+/* Built-in functions */
+.theme-dark .token.builtin {
+  color: #3cff00ff !important;
+  font-weight: 500 !important;
+}
+
+/* Decorators/Annotations */
+.theme-dark .token.decorator,
+.theme-dark .token.annotation,
+.theme-dark .token.at-rule {
+  color: #d8b909ff !important;
+  font-style: italic !important;
+}
+
+/* Regular expressions */
+.theme-dark .token.regex,
+.theme-dark .token.regex-delimiter,
+.theme-dark .token.regex-flags {
+  color: #E50000 !important;
+  font-weight: 500 !important;
+}
+
+/* HTML/XML Tags */
+.theme-dark .token.tag {
+  color: #3cff00ff !important;
+  font-weight: 600 !important;
+}
+
+/* HTML/XML Attributes */
+.theme-dark .token.attr-name {
+  color: #d8b909ff !important;
+  font-style: italic !important;
+}
+
+.theme-dark .token.attr-value {
+  color: #ff00007e !important;
+}
+
+/* Symbols (like in Ruby) */
+.theme-dark .token.symbol {
+  color: #E50000 !important;
+  font-weight: 600 !important;
+}
+
+/* Imports/Includes/Requires */
+.theme-dark .token.module,
+.theme-dark .token.import,
+.theme-dark .token.include {
+  color: #3cff00ff !important;
+  font-weight: 600 !important;
+}
+
+/* URLs in comments/strings */
+.theme-dark .token.url {
+  color: #0091e5ff !important;
+  text-decoration: underline !important;
+}
+
+/* Namespace/Package names */
+.theme-dark .token.namespace {
+  color: #d8b909ff !important;
+  opacity: 0.9 !important;
+}
+
+/* Punctuation (brackets, braces, parens) */
+.theme-dark .token.punctuation {
+  color: #850000ff !important;
+}
+/* Important keyword emphasis */
+.theme-dark .token.important {
+  color: #E50000 !important;
+  font-weight: 700 !important;
+}
+
+/* Inserted/Added text (git diff) */
+.theme-dark .token.inserted {
+  color: #3cff00ff !important;
+  background: rgba(60, 255, 0, 0.1) !important;
+}
+
+/* Deleted/Removed text (git diff) */
+.theme-dark .token.deleted {
+  color: #E50000 !important;
+  background: rgba(229, 0, 0, 0.1) !important;
+  text-decoration: line-through !important;
+}
+
+/* Changed text (git diff) */
+.theme-dark .token.changed {
+  color: #d8b909ff !important;
+  background: rgba(216, 185, 9, 0.1) !important;
+}
+
+/* Generic "entity" (could be IDs, labels) */
+.theme-dark .token.entity {
+  color: #E50000 !important;
+  font-weight: 500 !important;
+}
+
+/* Character entities in HTML (&nbsp;, &lt;, etc.) */
+.theme-dark .token.entity.named-entity {
+  color: #ff8800ff !important;
+}
+
+/* ========================================
+   SECTION 1: METADATA CONTAINER
+   ======================================== */
+
+/* --- Style the main container for properties --- */
+.metadata-container {
+  background-color: #1212124d !important; /* Translucent Purple */
+  border: 1px solid #E0E0E0ff !important; /* Gold border */
+  border-radius: 8px !important;
+  padding: 12px 18px !important;
+  margin-bottom: 32px !important; /* Space before content begins */
+}
+
+/* --- Add a "Metadata by Pur3v4d3r" abbreviation label --- */
+.metadata-container::before {
+  content: "Metadata by Pur3v4d3r" !important;
+  /* Styling for the label */
+    display: inline-block !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    color: #ff0000ff !important;
+    font-family: "JetBrains Mono", "Consolas", monospace !important;
+    position: absolute !important;
+    top: 6px !important;
+    right: 12px !important; 
+    background: linear-gradient(135deg, #E5000041 35%, #E5000071 90%, #E5000070 15%) !important;
+    padding: 4px 8px !important;
+    border-radius: 6px !important;
+    box-shadow: 0 2px 8px rgba(229, 0, 0, 0.3) !important;
+    z-index: 10 !important; 
+   
+}
+/* --- Style individual metadata properties --- */
+
+.metadata-property-key {
+  font-weight: 700 !important;                 /* Extra bold keys */
+  color: #E50000 !important;                   /* Signature red */
+  text-transform: uppercase !important;        /* UPPERCASE keys */
+  letter-spacing: 0.5px !important;            /* Spacing for readability */
+  font-size: 11px !important;                  /* Slightly smaller */
+  padding: 2px 6px !important;                 /* Internal spacing */
+  background: rgba(229, 0, 0, 0.15) !important; /* Subtle red background */
+  border-left: 3px solid #E50000 !important;   /* Red accent bar */
+  border-radius: 3px !important;               /* Subtle rounding */
+  margin-right: 8px !important;                /* Space before value */
+}
+
+.metadata-property-value {
+  font-weight: 400 !important;                 /* Regular weight */
+  color: #E0E0E0 !important;                   /* Bright grey/white */
+  background: rgba(18, 18, 18, 0.5) !important; /* Dark background */
+  padding: 2px 8px !important;                 /* Internal spacing */
+  border: 1px solid #A3A3A3 !important;        /* Grey border */
+  border-radius: 4px !important;               /* Rounded corners */
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+}
+
+.metadata-property-value a {
+  color: #E50000 !important;                   /* Red for links */
+  text-decoration: none !important;            /* No underline default */
+  border-bottom: 1px solid rgba(229, 0, 0, 0.4) !important; /* Subtle underline */
+  transition: border-color 0.2s ease !important;
+}
+
+.metadata-property-value a:hover {
+  color: #FF0000 !important;                   /* Bright red on hover */
+  border-bottom: 2px solid #FF0000 !important; /* Thicker underline */
+}
+
+.metadata-property-description {
+  font-style: italic !important;               /* Italic style */
+  font-size: 11px !important;                  /* Small text */
+  color: #A3A3A3 !important;                   /* Muted grey */
+  margin-left: 12px !important;                /* Left spacing */
+  padding: 2px 4px !important;                 /* Internal spacing */
+  background: rgba(163, 163, 163, 0.1) !important; /* Subtle grey bg */
+  border-left: 2px solid #A3A3A3 !important;   /* Grey accent */
+}
+/* ═══════════════════════════════════════════════════════════
+   SQUARE BRACKET COLORIZATION IN CODE BLOCKS
+   Purpose: Changes color of [ and ] in all code block languages
+   ═══════════════════════════════════════════════════════════ */
+
+/* Target square brackets in all code blocks */
+.cm-s-obsidian pre.HyperMD-codeblock span.cm-bracket,
+.cm-s-obsidian .HyperMD-codeblock .cm-bracket,
+.markdown-source-view.mod-cm6 .cm-line .cm-bracket,
+.markdown-source-view.mod-cm6 .HyperMD-codeblock .cm-bracket,
+.markdown-rendered code .token.punctuation.bracket,
+.markdown-rendered pre code .token.punctuation.bracket {
+    color: #ff6b6b !important; /* Change this to your desired color */
+}
+
+/* Alternative: Target all punctuation that includes brackets */
+.cm-s-obsidian pre.HyperMD-codeblock span.cm-punctuation:is(:contains("["), :contains("]")),
+.markdown-source-view.mod-cm6 .HyperMD-codeblock span:is(:contains("["), :contains("]")) {
+    color: #ff6b6b !important;
+}
+
+/* For rendered code blocks (Reading mode) */
+.markdown-rendered pre code {
+    --bracket-color: #ff6b6b; /* Your color here */
+}
+
+/* Specific language targeting (optional granular control) */
+.language-css .token.punctuation.bracket,
+.language-javascript .token.punctuation.bracket,
+.language-dataview .token.punctuation.bracket,
+.language-dataviewjs .token.punctuation.bracket,
+.language-markdown .token.punctuation.bracket,
+.language-cs .token.punctuation.bracket {
+    color: #ff6b6b !important;
+}
+
+/* CodeMirror 6 (new editor) specific */
+.cm-editor .cm-content .cm-line .tok-bracket {
+    color: #ff6b6b !important;
+}

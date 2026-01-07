@@ -1,0 +1,39 @@
+2025-12-14T20:33:00.187Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-14T20:33:00.187Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 0
+2025-12-14T20:33:00.188Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-14T20:33:00.188Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 0
+2025-12-14T20:33:00.188Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-12-14T20:33:00.236Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-14T20:33:00.236Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 1
+2025-12-14T20:33:07.532Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-14T20:33:07.533Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 1
+2025-12-14T20:33:49.225Z [DEBUG] [Query.streamInput] Processing message 1: user
+2025-12-14T20:34:00.201Z [DEBUG] [Query.streamInput] Timed out waiting for first result, closing input stream
+2025-12-14T20:34:00.201Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-14T20:35:32.494Z [DEBUG] [Query.streamInput] Processing message 2: user
+2025-12-14T20:46:08.915Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-14T20:46:08.915Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 1
+2025-12-14T20:46:08.915Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-12-14T20:46:08.915Z [DEBUG] [Query.streamInput] Finished processing 2 messages from input stream
+2025-12-14T20:46:08.915Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 1
+2025-12-14T20:46:08.915Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-12-14T20:46:08.915Z [DEBUG] [Query.streamInput] Received first result, closing input stream
+2025-12-14T20:46:08.915Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-14T20:46:10.351Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-14T20:46:10.351Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 0
+2025-12-14T20:46:10.351Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2025-12-14T20:46:10.351Z [DEBUG] [Query.streamInput] About to check MCP servers. this.sdkMcpTransports.size = 0
+2025-12-14T20:46:10.351Z [DEBUG] [Query.streamInput] Entering Promise.race to wait for result
+2025-12-14T20:46:10.397Z [DEBUG] [Query.streamInput] Starting to process input stream
+2025-12-14T20:46:10.397Z [DEBUG] [Query.streamInput] this.sdkMcpTransports.size = 1
+2025-12-14T20:47:08.923Z [DEBUG] [Query.streamInput] Timed out waiting for first result, closing input stream
+2025-12-14T20:47:08.923Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-14T20:47:10.356Z [DEBUG] [Query.streamInput] Timed out waiting for first result, closing input stream
+2025-12-14T20:47:10.356Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2025-12-14T20:51:45.365Z [DEBUG] [Query.streamInput] Processing message 1: user
+2025-12-14T20:57:25.101Z [DEBUG] [Query.streamInput] Processing message 2: user
+2025-12-14T20:59:41.717Z [DEBUG] [Query.streamInput] Processing message 3: user
+2025-12-14T21:00:34.024Z [DEBUG] [Query.streamInput] Processing message 4: user
+2025-12-14T21:03:03.036Z [DEBUG] [Query.streamInput] Processing message 5: user
+2025-12-14T21:04:00.349Z [DEBUG] [Query.streamInput] Processing message 6: user
+2025-12-14T21:05:05.630Z [DEBUG] [Query.streamInput] Processing message 7: user

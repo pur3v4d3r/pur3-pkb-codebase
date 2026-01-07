@@ -1,0 +1,77 @@
+# Repomix Reports & Instructions
+
+This folder is used by the **Repomix Runner VSCode extension** (`dorianmassoulier.repomix-runner`).
+
+## What Was Wrong
+
+The VSCode extension was looking for an instruction file at this path but it didn't exist, causing errors:
+```
+✖ Instruction file not found at D:\10_pur3v4d3r's-vault\999-codebas+pkb\_repomix-reports
+```
+
+## What Was Fixed
+
+1. ✅ Created this directory
+2. ✅ Added `repomix-instructions.md` - instruction file for the extension
+3. ✅ Updated `.vscode/settings.json` with proper repomix configuration
+
+## Files in This Folder
+
+### `repomix-instructions.md`
+Context and guidelines for AI processing of this vault. The VSCode extension uses this when generating repomix outputs.
+
+### `.gitkeep`
+Keeps this folder in git even when empty.
+
+## VSCode Extension Settings
+
+Location: `.vscode/settings.json`
+
+```json
+{
+  "repomix.instructionFilePath": "999-codebas+pkb/_repomix-reports/repomix-instructions.md",
+  "repomix.defaultOutputPath": "99_Outputs",
+  "repomix.defaultIgnorePatterns": [
+    "**/.obsidian/**",
+    "**/node_modules/**",
+    "**/99-archive/**",
+    "**/__LOCAL-REPO/**",
+    "**/99_Outputs/repomix-*.md",
+    "**/99_Outputs/repomix-*.xml",
+    "**/99_Outputs/repomix-*.txt",
+    "**/*.log",
+    "**/.git/**"
+  ]
+}
+```
+
+## Using the VSCode Extension
+
+Now that it's configured, you can:
+
+1. **Right-click** on files/folders in VSCode Explorer
+2. Select **"Repomix: Pack Selected Files"** or similar command
+3. Output will go to `99_Outputs/` by default
+4. Files will respect the ignore patterns
+
+## Alternative: Command Line Configs
+
+For more control, use the command-line configs in:
+`99_Outputs/repomix-configs/`
+
+These give you profiles like:
+- `notes` - Personal notes only
+- `library` - Reference materials
+- `codebase` - Code files
+- `custom` - Specific paths
+
+## Troubleshooting
+
+**Problem**: Extension still shows errors
+- **Solution**: Reload VSCode window (Ctrl+Shift+P → "Reload Window")
+
+**Problem**: Files too large
+- **Solution**: Add more patterns to `repomix.defaultIgnorePatterns` in settings.json
+
+**Problem**: Want different instruction file
+- **Solution**: Edit path in `.vscode/settings.json` and create new instruction file

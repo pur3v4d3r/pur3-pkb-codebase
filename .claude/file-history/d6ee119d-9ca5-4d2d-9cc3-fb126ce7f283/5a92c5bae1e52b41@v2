@@ -1,0 +1,12 @@
+{
+  "globalShortcut": "Ctrl+Space",
+  "mcpServers": {
+    "smart-connections": {
+      "command": "npx",
+      "args": ["-y", "@yejianye/smart-connections-mcp"],
+      "env": {
+        "OBSIDIAN_VAULT": "D:\\10_pur3v4d3r's-vault"
+      }
+    }
+  }
+}

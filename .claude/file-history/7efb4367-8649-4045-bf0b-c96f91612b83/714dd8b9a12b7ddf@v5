@@ -1,0 +1,204 @@
+<%*
+// ========================================
+// ENHANCED QUICK REVIEW TEMPLATE
+// Automatically updates review metadata
+// ========================================
+// Rename file first to avoid double prompt
+const tempDate = tp.date.now("YYYY-MM-DD");
+await tp.file.rename(`temp-review-${tempDate}`);
+const targetNote = await tp.system.prompt("Note being reviewed (title):");
+const reviewDate = tp.date.now("YYYY-MM-DD");
+// Rename with actual target note name
+await tp.file.rename(`review-${reviewDate}-${targetNote.replace(/[^\w\s-]/g, '').replace(/\s+/g, '-')}`);
+// Find the target file
+const targetFile = tp.file.find_tfile(targetNote);
+if (!targetFile) {
+  new Notice("Target note not found!");
+  return;
+}
+// Read target file content and metadata
+const targetContent = await app.vault.read(targetFile);
+const cache = app.metadataCache.getFileCache(targetFile);
+const frontmatter = cache?.frontmatter || {};
+// Get current maturity
+const currentMaturity = frontmatter.maturity || "seedling";
+const currentConfidence = frontmatter.confidence || "speculative";
+const currentReviewCount = Number(frontmatter.review?.["review-count"] || frontmatter["review-count"] || 0);
+// Prompt for observations
+const observations = await tp.system.prompt("Key observations:", "", false, true);
+// Maturity change suggester
+const maturityChange = await tp.system.suggester(
+  ["No Change", "Advance Maturity", "Needs More Development"],
+  ["no-change", "advance", "regress"]
+);
+// Calculate new maturity
+let newMaturity = currentMaturity;
+if (maturityChange === "advance") {
+  const maturityProgression = {
+    "seedling": "budding",
+    "budding": "developing",
+    "developing": "evergreen",
+    "needs-review": "budding",
+    "evergreen": "evergreen"
+  };
+  newMaturity = maturityProgression[currentMaturity] || currentMaturity;
+} else if (maturityChange === "regress") {
+  const maturityRegression = {
+    "evergreen": "developing",
+    "developing": "budding",
+    "budding": "seedling",
+    "needs-review": "seedling",
+    "seedling": "seedling"
+  };
+  newMaturity = maturityRegression[currentMaturity] || currentMaturity;
+}
+// Confidence change suggester
+const confidenceChange = await tp.system.suggester(
+  ["No Change", "Increase Confidence", "Decrease Confidence"],
+  ["no-change", "increase", "decrease"]
+);
+// Calculate new confidence
+let newConfidence = currentConfidence;
+if (confidenceChange === "increase") {
+  const confidenceProgression = {
+    "speculative": "provisional",
+    "provisional": "moderate",
+    "moderate": "established",
+    "established": "high",
+    "high": "high"
+  };
+  newConfidence = confidenceProgression[currentConfidence] || currentConfidence;
+} else if (confidenceChange === "decrease") {
+  const confidenceRegression = {
+    "high": "established",
+    "established": "moderate",
+    "moderate": "provisional",
+    "provisional": "speculative",
+    "speculative": "speculative"
+  };
+  newConfidence = confidenceRegression[currentConfidence] || currentConfidence;
+}
+// Calculate review interval based on maturity
+const maturityIntervals = {
+  "seedling": 3,
+  "budding": 7,
+  "developing": 14,
+  "evergreen": 30,
+  "needs-review": 1
+};
+const reviewInterval = maturityIntervals[newMaturity] || 7;
+const nextReview = tp.date.now("YYYY-MM-DD", reviewInterval);
+// Calculate priority based on backlinks and tags
+let priority = "medium";
+const backlinks = app.metadataCache.getBacklinksForFile(targetFile);
+const backlinkCount = backlinks?.data ? Object.keys(backlinks.data).length : 0;
+const tags = frontmatter.tags || [];
+const hasMOCTag = tags.some(t => t.includes("type/moc"));
+const hasUrgentTag = tags.some(t => t.includes("status/needs-review"));
+if (hasUrgentTag || backlinkCount > 20) {
+  priority = "urgent";
+} else if (hasMOCTag || backlinkCount > 10) {
+  priority = "high";
+} else if (backlinkCount < 3) {
+  priority = "low";
+}
+// Update the target note's frontmatter
+const yamlRegex = /^---\n([\s\S]*?)\n---/;
+const match = targetContent.match(yamlRegex);
+if (match) {
+  let yamlContent = match[1];
+  // Helper function to update or add a field
+  const updateField = (key, value) => {
+    const fieldRegex = new RegExp(`^${key}:.*$`, 'm');
+    if (fieldRegex.test(yamlContent)) {
+      yamlContent = yamlContent.replace(fieldRegex, `${key}: ${value}`);
+    } else {
+      yamlContent += `\n${key}: ${value}`;
+    }
+  };
+  // Update simple fields
+  updateField("maturity", `"${newMaturity}"`);
+  updateField("confidence", `"${newConfidence}"`);
+  updateField("modified", `"${tp.date.now('YYYY-MM-DDTHH:mm:ss')}"`);
+  // Update or add review object
+  const reviewYaml = `review:
+  last-reviewed: "${reviewDate}"
+  next-review: "${nextReview}"
+  review-count: ${currentReviewCount + 1}
+  review-interval: ${reviewInterval}
+  priority: "${priority}"`;
+  if (/^review:/m.test(yamlContent)) {
+    yamlContent = yamlContent.replace(/^review:\n([\s\S]*?)(?=\n\w+:|\n---|\n$)/m, reviewYaml + "\n");
+  } else {
+    yamlContent += `\n${reviewYaml}`;
+  }
+  // Update status if not present
+  if (!/^status:/m.test(yamlContent)) {
+    yamlContent += `\nstatus: "active"`;
+  }
+  const newContent = `---\n${yamlContent}\n---` + targetContent.slice(match[0].length);
+  await app.vault.modify(targetFile, newContent);
+  new Notice(`✅ Updated ${targetNote}'s review metadata`);
+} else {
+  new Notice("⚠️ Could not find frontmatter in target note");
+}
+// Store values for use in template below
+tp.user.targetNote = targetNote;
+tp.user.reviewDate = reviewDate;
+tp.user.currentMaturity = currentMaturity;
+tp.user.newMaturity = newMaturity;
+tp.user.maturityChange = maturityChange;
+tp.user.currentConfidence = currentConfidence;
+tp.user.newConfidence = newConfidence;
+tp.user.confidenceChange = confidenceChange;
+tp.user.priority = priority;
+tp.user.nextReview = nextReview;
+tp.user.reviewInterval = reviewInterval;
+tp.user.currentReviewCount = currentReviewCount;
+tp.user.backlinkCount = backlinkCount;
+tp.user.observations = observations;
+_%>
+---
+type: review-log
+target: [[<% tp.user.targetNote %>]]
+date: <% tp.user.reviewDate %>
+reviewer: pur3v4d3r
+---
+
+# Review Log: <% tp.user.targetNote %>
+
+**Date**: <% tp.user.reviewDate %>
+**Review Count**: <% tp.user.currentReviewCount + 1 %>
+
+## Observations
+
+<% tp.user.observations %>
+
+## Status Changes
+
+- **Maturity**: <% tp.user.currentMaturity %> → **<% tp.user.newMaturity %>** (<% tp.user.maturityChange %>)
+- **Confidence**: <% tp.user.currentConfidence %> → **<% tp.user.newConfidence %>** (<% tp.user.confidenceChange %>)
+- **Priority**: **<% tp.user.priority %>** (auto-calculated)
+- **Next Review**: <% tp.user.nextReview %> (in <% tp.user.reviewInterval %> days)
+
+## Review Metrics
+
+- **Backlinks**: <% tp.user.backlinkCount %> notes 
+- **Review Interval**: <% tp.user.reviewInterval %> days
+- **Total Reviews**: <% tp.user.currentReviewCount + 1 %>
+
+## Actions Taken
+
+- [x] Updated frontmatter metadata
+- [ ] Added new connections
+- [ ] Refined definition
+- [ ] Added practical examples
+- [ ] Expanded content
+
+## Next Review
+
+Scheduled for: **<% tp.user.nextReview %>** (<% tp.user.reviewInterval %> days)
+
+---
+
+[[<% tp.user.targetNote %>|← Return to Note]]

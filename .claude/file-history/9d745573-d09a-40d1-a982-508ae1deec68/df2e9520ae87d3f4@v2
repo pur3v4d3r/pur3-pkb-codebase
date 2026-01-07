@@ -1,0 +1,222 @@
+---
+tags: #meta #system #projects #tracking
+aliases: [Active Projects, Work Status, Project Dashboard]
+status: evergreen
+certainty: ^verified
+created: 2025-12-16
+---
+
+# Project Tracker
+
+> [!abstract] Purpose
+> Central registry of ongoing vault projects, system enhancements, and multi-session work. Prevents context loss and enables strategic prioritization.
+
+---
+
+## 🚀 Active Projects
+
+### 1. Memory System Implementation
+**Status**: `In Progress` | **Priority**: `High` | **Started**: 2025-12-16
+
+**Objective**: Establish persistent context across Claude sessions to eliminate session amnesia.
+
+**Components**:
+- [x] Create 00-meta directory structure
+- [x] Build session-memory.md (active context)
+- [x] Build user-preferences.md (workflow patterns)
+- [x] Build vault-map.md (structure tracking)
+- [x] Build project-tracker.md (this file)
+- [x] Update CLAUDE.md with memory protocols
+- [ ] Test session persistence across restart
+- [ ] Document usage workflow
+
+**Next Actions**:
+1. Integrate memory system into CLAUDE.md system prompt
+2. Establish session start/end protocols
+3. Test multi-session continuity
+
+---
+
+### 2. Self-Documenting Dataview System Adaptation
+
+**Status**: `In Progress` | **Priority**: `High` | **Started**: 2025-12-16
+
+**Objective**: Adapt self-documenting dataview system for general PKB knowledge work, creating emergent intelligence through automated concept tracking and discovery queries.
+
+**Components**:
+
+- [x] Analyze existing self-documenting dataview documentation
+- [ ] Analyze user's vault structure and domain needs
+- [ ] Design custom metadata schema for user's PKB domains
+- [ ] Create production-ready concept note templates
+- [ ] Create application note templates for different use cases
+- [ ] Generate domain-specific discovery queries
+- [ ] Create dashboard queries for vault-wide intelligence
+- [ ] Test system with sample notes
+- [ ] Document system usage and customization guide
+
+**Next Actions**:
+1. Analyze vault structure to identify key domains (projects, research, notes, etc.)
+2. Design metadata schema for each domain type
+3. Create custom templates adapted to user's workflow
+
+---
+
+### 3. Sequential Prompt Engineering System (SPES)
+
+**Status**: `In Progress` | **Priority**: `High` | **Started**: 2025-12-16
+
+**Objective**: Unified system integrating component-based prompt management, sequential workflow decomposition, and intelligent auto-discovery through metadata. Claude assists with problem decomposition, component retrieval, and learns from usage patterns.
+
+**Architecture - Three Pillars**:
+
+**1. Component Library**
+- Atomic components (personas, instructions, constraints, formats)
+- Composite workflows (multi-step prompt chains)
+- Specialized domain templates
+- Location: `02-projects/_spes-sequential-prompt-engineering-system/02-component-library/`
+
+**2. Sequential Workflow Engine**
+- Problem decomposition templates
+- Context handoff protocols
+- Multi-turn conversation management
+- Content/context isolation strategies
+- Location: `02-projects/_spes-sequential-prompt-engineering-system/03-sequential-workflows/`
+
+**3. Intelligence Layer**
+- Self-documenting dataview integration
+- 16 PKB integration systems (epistemic encoding, relationship typing, application contexts)
+- Usage analytics and pattern discovery
+- Component relationship auto-discovery
+- Location: `02-projects/_spes-sequential-prompt-engineering-system/04-intelligence-layer/`
+
+**Implementation Decision**: **Option A Selected** ✅
+- User chose: Unified project structure + Claude librarian instruction sets
+- Rationale: Memory system critical for cross-session continuity
+
+**Phase 1 Foundation - COMPLETED** (2025-12-16):
+- [x] Full directory structure created (14 subdirectories)
+- [x] 7 Claude librarian instruction files created:
+  - [x] 00-librarian-core-identity.md (Prime directive, session protocols)
+  - [x] 01-component-management-sop.md (Create/modify/retire procedures)
+  - [x] 02-sequential-workflow-protocols.md (Decomposition strategies)
+  - [x] 03-context-handoff-procedures.md (Multi-turn context management)
+  - [x] 04-quality-assurance-checklist.md (Validation standards)
+  - [x] 05-metadata-tagging-standards.md (Metadata specifications)
+  - [x] 06-usage-analytics-protocols.md (Learning & pattern detection)
+- [x] Project meta documentation:
+  - [x] project-charter.md (Vision, objectives, success metrics)
+  - [x] architecture-overview.md (Technical system design)
+- [ ] implementation-roadmap.md (Next: phased execution plan)
+
+**Next Actions** (Phase 2):
+1. Create implementation-roadmap.md with detailed phase breakdown
+2. Migrate existing prompt work into component library (10-20 initial components)
+3. Document 5 core workflow patterns from existing work
+4. Test first real workflow using SPES
+5. Begin usage tracking and pattern detection
+
+**Key Reference Notes**:
+- [[reference-comprehensive-claude-prompt-component-librarian-2025111004]]
+- [[reference-technical-llm-pkb-integration-systems-2025121411]]
+- [[reference-technical-component-librarian-claude-project-2025111218]]
+
+**Project Location**: `02-projects/_spes-sequential-prompt-engineering-system/`
+
+**Notes**:
+- Foundation complete: Claude now has full operational instructions
+- Memory system integrated: Claude reads instruction files at session start
+- Ready for component population phase
+- Prompt engineering chosen as first domain (bounded, immediate utility, clear metrics)
+- Sequential prompting + Component library = multiplicative value
+- Self-doc dataview provides cross-session memory Claude lacks
+
+---
+
+## 📋 Backlog
+
+### Vault Maintenance
+- **Resolve Directory Duplication**: `01-daily-notes/` vs `01_daily-notes/`
+- **Investigate Database Naming**: `000_databsae/` (typo or intentional?)
+- **Separator Standardization**: Decide on hyphen vs underscore convention
+
+### Graph Health
+- **Orphan Detection**: Scan for notes with 0 links
+- **Ghost Link Mapping**: Find `[[broken-links]]` to non-existent notes
+- **MOC Opportunities**: Cluster analysis for 5+ related notes
+
+### Automation
+- **Vault Stats Script**: Auto-update vault-map.md metrics
+- **Session Logger**: Git hooks for automatic session commits
+- **Link Validator**: Pre-commit check for broken references
+
+---
+
+## ✅ Completed Projects
+
+### 2025-12-16
+- **Memory System Foundation**: Created 4-file meta infrastructure
+  - Files: session-memory, user-preferences, vault-map, project-tracker
+  - Location: `00-meta/`
+  - Integration: Graph-based (Option 3 approach)
+
+---
+
+## 🎯 Project Categories
+
+### System Enhancement
+Projects improving vault infrastructure, automation, or AI integration.
+
+### Content Development
+Knowledge expansion, note creation, MOC building.
+
+### Maintenance
+Cleanup, refactoring, link repair, archiving.
+
+### Research
+Investigation tasks, pattern analysis, methodology exploration.
+
+---
+
+## 📊 Project Metrics
+
+| Metric | Current | Target | Status |
+|--------|---------|--------|--------|
+| Active Projects | 3 | 3-5 | ✅ Optimal |
+| Backlog Items | 6 | <10 | ✅ Healthy |
+| Completion Rate | N/A | Track over time | 📊 Baseline |
+| Session Continuity | New | 100% | 🔄 Testing |
+
+---
+
+## 🔗 Related
+
+- [[session-memory]] - Current session state
+- [[vault-map]] - Structural overview
+- [[user-preferences]] - Decision context
+
+---
+
+## 📝 Project Template
+
+*Use this template when adding new projects:*
+
+```markdown
+### Project Name
+**Status**: `Not Started|In Progress|Blocked|Completed`
+**Priority**: `Low|Medium|High|Critical`
+**Started**: YYYY-MM-DD
+
+**Objective**: One-sentence goal
+
+**Components**:
+- [ ] Task 1
+- [ ] Task 2
+
+**Next Actions**:
+1. Immediate next step
+```
+
+---
+
+*Last Updated: 2025-12-16 | Active Projects: 3 | Backlog: 6*

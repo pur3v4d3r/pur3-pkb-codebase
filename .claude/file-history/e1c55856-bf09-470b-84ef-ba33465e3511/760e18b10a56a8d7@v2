@@ -1,0 +1,49 @@
+# Repomix Instructions for PKB Vault
+
+This repository contains a Personal Knowledge Base (PKB) built with Obsidian.
+
+## Repository Context
+
+**Type**: Personal Knowledge Management System / Digital Garden
+**Purpose**: Store and organize notes, research, projects, and code documentation
+**Structure**:
+- `00-inbox/` - New/unprocessed notes
+- `01_daily-notes/` - Daily journal entries
+- `02-projects/` - Active projects
+- `03-notes/` - Permanent notes
+- `04-library/` - Reference materials and documentation
+- `999-codebas+pkb/` - Code repositories and technical documentation
+- `99_Outputs/` - Generated files and exports
+
+## Important Notes
+
+- Files are in Markdown format with Obsidian-specific features
+- Contains both personal notes and technical documentation
+- Large files (>10MB) may be present in archive folders
+- Many plugins and customizations are used
+
+## Processing Guidelines
+
+When generating output:
+1. Focus on content files (.md) over configuration
+2. Respect the folder hierarchy for context
+3. Handle wikilinks in the format [[note-name]]
+4. Preserve frontmatter metadata
+5. Be aware of long documents in library sections
+
+## Recommended Exclusions
+
+For most AI processing tasks, exclude:
+- `.obsidian/` - Application configuration
+- `99-archive/` - Old/archived content
+- `__LOCAL-REPO/` - External code repositories
+- Large XML/binary files
+
+## Use Cases
+
+This vault is typically packaged for:
+- Knowledge synthesis and analysis
+- Cross-referencing notes and concepts
+- Research assistance
+- Code documentation review
+- Project planning and tracking
