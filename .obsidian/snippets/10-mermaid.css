@@ -80,6 +80,35 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);    /* Lift effect */
   border-color: var(--text-accent);           /* Highlight border (gold) */
 }
+.mermaid:hover svg {
+  /* Optional: Slight scale-up on hover */
+  /* transform: scale(1.02); */
+}
+.mermaid:hover {
+  cursor: nwse-resize;                        /* Resize cursor */
+}
+.merrmaid svg:hover {
+  cursor: move;                               /* Move cursor over diagram */
+}
+.mermaid:hover {
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  border-color: #970000ff; /* Red Arrow Highlight */
+}
+.node rect, .node circle, .node polygon {
+  fill: #121212 !important; stroke: #DC2626 !important; stroke-width: 2px !important;
+}
+.edgePath .path { stroke: #6B7280 !important; stroke-width: 2px !important; }
+.marker { fill: #DC2626 !important; stroke: #DC2626 !important; }
+.label { color: #E5E7EB !important; font-family: "JetBrains Mono" !important; }
+/*node Hover effect*/
+.node:hover rect, .node:hover circle, .node:hover polygon {
+  fill: #1F1F1F !important; stroke: #FF0000 !important; stroke-width: 2px !important;
+}
+.edgePath:hover .path { stroke: #FF0000 !important; stroke-width: 2px !important; }
+.marker:hover { fill: #FF0000 !important; stroke-width: 2px !important; }
+.label:hover { color: #FFFFFF !important; font-family: "JetBrains Mono" !important; }
+
+
 
 /* ══════════════════════════════════════════════════════════
    SVG DIAGRAM
@@ -163,6 +192,8 @@
   fill: var(--background-secondary) !important;
   stroke: #E50000 !important;                 /* Gold border */
 }
+
+
 
 /* ══════════════════════════════════════════════════════════
    USAGE INSTRUCTIONS

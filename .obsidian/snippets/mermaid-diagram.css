@@ -1,0 +1,61 @@
+/* [FROM: __v4d3r-mermaid.css & mermaid-chart-enhancer.css] */
+.mermaid {
+  background-color: var(--background-primary-alt);
+  border: 1px dashed var(--background-modifier-border);
+  padding: 10px; margin: 1rem auto;
+  resize: both !important; overflow: auto !important;
+  display: flex !important; justify-content: center; align-items: center;
+}
+.mermaid svg { width: auto !important; height: auto !important; max-width: none !important; }
+.mermaid:hover {
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  border-color: #970000ff; /* Red Arrow Highlight */
+}
+/* Node Styling */
+.mermaid .node rect, .mermaid .node circle, .mermaid .node polygon {
+  fill: #121212 !important; stroke: #DC2626 !important; stroke-width: 2px !important;
+}
+.mermaid .edgePath .path { stroke: #6B7280 !important; stroke-width: 2px !important; }
+.mermaid .marker { fill: #DC2626 !important; stroke: #DC2626 !important; }
+.mermaid .label { color: #E5E7EB !important; font-family: "JetBrains Mono" !important; }
+
+/* [FROM: __v4d3r-tables.css] */
+.markdown-rendered table {
+  width: 100%; border-collapse: collapse; margin: 1em 0;
+  background: #1A1A1A; border: 1px solid #2d2d2d; border-radius: 8px; overflow: hidden;
+}
+.markdown-rendered th {
+  background: linear-gradient(135deg, #5c1420, #7F1D1D);
+  color: #F3F4F6; font-weight: 600; padding: 12px 16px;
+  border-bottom: 2px solid #e93147;
+  text-transform: uppercase; letter-spacing: 0.05em;
+}
+.markdown-rendered td { padding: 10px 16px; border-bottom: 1px solid #252525; color: #D1D5DB; }
+.markdown-rendered tr:nth-child(even) { background: #1a1a1a; }
+.markdown-rendered tr:hover { background: rgba(220, 38, 38, 0.15) !important; }
+
+/* [FROM: __v4d3r-plugins.css & _dataview.css] */
+/* Dataview Tables */
+.dataview.table-view-table { background: #1A1A1A; border: 1px solid #2d2d2d; border-radius: 8px; }
+.dataview.table-view-table th { background: #5c1420; color: #F3F4F6; border-bottom: 2px solid #e93147; }
+/* Inline Fields */
+.theme-dark .dataview.inline-field-key {
+  color: #000000ff !important; font-weight: 600!important; text-transform: uppercase;
+  background: #ff0000ff !important; /* Bright Red Background for Key */
+  padding: 2px 6px; border-radius: 4px 0 0 4px;
+}
+.theme-dark .dataview.inline-field-value {
+  color: #979797ff !important; background: #212121ff !important;
+  padding: 2px 6px !important; border-radius: 0 4px 4px 0;
+}
+/* Checkboxes */
+.markdown-preview-view input[type="checkbox"] {
+  appearance: none; -webkit-appearance: none; width: 18px; height: 18px;
+  border: 2px solid #2d2d2d; border-radius: 4px; background: #121212;
+}
+.markdown-preview-view input[type="checkbox"]:checked {
+  background: #e93147; border-color: #e93147;
+}
+.markdown-preview-view input[type="checkbox"]:checked::after {
+  content: '✓'; position: absolute; color: #F3F4F6; font-size: 14px; top: -2px; left: 2px;
+}
