@@ -1,9 +1,26 @@
-# 🛑 OS & System Junk
+# ==============================================================================
+# 1. CORE USER ARTIFACTS (The "Codebase Pack" Rule)
+# ==============================================================================
+# Matches "project-codebase-pack.md", "lib-codebase-pack.md", etc.
+*codebase-pack.md
+# Preserving your existing folder rule for backward compatibility
+codebase-packs/
+
+# ==============================================================================
+# 2. OPERATING SYSTEM & SYSTEM JUNK
+# ==============================================================================
 .DS_Store
 Thumbs.db
 .trash/
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.directory
+*~
 
-# 🖼️ Heavy Media (Text-Only Mode)
+# ==============================================================================
+# 3. HEAVY MEDIA (Text-Only Mode)
+# ==============================================================================
 *.pdf
 *.png
 *.jpg
@@ -20,31 +37,77 @@ Thumbs.db
 *.wav
 *.m4a
 
-# 📂 Explicitly Ignore Asset Folders
-# (Make sure these match your folder names exactly)
+# ==============================================================================
+# 4. ASSET FOLDERS
+# ==============================================================================
 Attachments/
 Assets/
 Media/
 
-# 💎 Obsidian Internals
-# IGNORE session/workspace (active windows)
+# ==============================================================================
+# 5. OBSIDIAN INTERNALS
+# ==============================================================================
+# Ignore session/workspace (active windows state)
 .obsidian/workspace*
 .obsidian/cache
 .obsidian/access.json
-# KEEP core settings (so you save your hotkeys/theme)
+.obsidian/daily_notes.json
+
+# KEEP core settings (so you save your hotkeys/theme/plugins)
 !.obsidian/config
 !.obsidian/plugins/
 !.obsidian/snippets/
+!.obsidian/appearance.json
+!.obsidian/hotkeys.json
 
-# 🧠 Smart Connections & AI Embeddings (IRONCLAD IGNORE)
-# Ignores the environment folder where vectors usually live
+# ==============================================================================
+# 6. AI & SMART CONNECTIONS (Ironclad Ignore)
+# ==============================================================================
 .smart-env/
 .smart-connections/
-# Ignores the heavy async-json vector files wherever they are
-**/*.ajson
-# Ignores generic embedding files if named explicitly
-**/*embeddings.json
-**/*embeddings.bin
-# Ignores cache folders often used by AI plugins
 sc-cache/
 .repomix/output.md
+
+# Vector and embedding files
+**/*.ajson
+**/*embeddings.json
+**/*embeddings.bin
+
+# ==============================================================================
+# 7. DEVELOPMENT HYGIENE (Best Practices)
+# ==============================================================================
+# IDE Settings (VS Code / JetBrains)
+.vscode/
+.idea/
+*.iws
+*.iml
+
+# Python (Common in Obsidian scripting/automation)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Node.js (Common in Plugin development)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+
+# ==============================================================================
+# 8. SECURITY & LOGS
+# ==============================================================================
+# Secrets - NEVER COMMIT THESE
+.env
+.env.local
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+
+# General Logs
+*.log
+*.tmp
+*.temp
