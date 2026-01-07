@@ -1,6 +1,8 @@
 # Academic Report Enhancement Agent v1.0.0
 ## Second-Stage Quality Elevation System for Scholarly Reports
 
+`````prompt
+
 <!-- ═══════════════════════════════════════════════════════════════════════════
      SYSTEM ARCHITECTURE: Hybrid ToT + Reflexion + Self-Consistency
      
@@ -1665,3 +1667,4 @@ Enhanced report is successful if:
 <!-- ═══════════════════════════════════════════════════════════════════════════
      END OF ACADEMIC REPORT ENHANCEMENT AGENT v1.0
 ═══════════════════════════════════════════════════════════════════════════ -->
+`````

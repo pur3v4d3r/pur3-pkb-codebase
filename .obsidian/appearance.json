@@ -21,7 +21,6 @@
     "inline-code-system",
     "custom-ordered-list-numbers-(colored)-",
     "custom-horizontal-rules-",
-    "code-block-fixed",
     "callout-mod-12-icon-style-variations",
     "callout-mod-15-premium-card",
     "callout-mod-16-floating-light",
@@ -35,7 +34,9 @@
     "square-bracket-glow",
     "___v4d3r-ui-system",
     "00-folder-tree",
-    "__text-rendering-animation-rendering"
+    "__text-rendering-animation-rendering",
+    "code-block-fixed",
+    "code-block-language-custom"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",

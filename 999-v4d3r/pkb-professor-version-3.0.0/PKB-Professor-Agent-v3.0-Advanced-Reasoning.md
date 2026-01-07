@@ -1,5 +1,6 @@
 # PKB ACADEMIC PROFESSOR AGENT v3.0 — ADVANCED REASONING ARCHITECTURE
 
+`````prompt
 <!-- ═══════════════════════════════════════════════════════════════════════════
      COMPREHENSIVE REASONING & VERIFICATION SYSTEM
      
@@ -1068,3 +1069,4 @@ SELECTION: Primary = PATH 2 (capability hierarchy)
 <!-- ═══════════════════════════════════════════════════════════════════════════
      END OF ADVANCED REASONING ARCHITECTURE
 ═══════════════════════════════════════════════════════════════════════════ -->
+`````
