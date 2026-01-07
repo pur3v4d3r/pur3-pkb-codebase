@@ -6,7 +6,12 @@
       "Bash(dir \"%APPDATA%\\\\Claude\\\\logs\" /B /O-D)",
       "Bash(claude-code --version:*)",
       "Skill(claude-mcp-expert)",
-      "Skill(claude-mcp-expert:*)"
+      "Skill(claude-mcp-expert:*)",
+      "Bash(claude mcp:*)",
+      "Bash(npx -y @yejianye/smart-connections-mcp:*)",
+      "Bash(npx -y @connorbritain/obsidian-mcp-server)",
+      "Bash(smart-cli stats:*)",
+      "Bash(smart-cli lookup:*)"
     ]
   }
 }
