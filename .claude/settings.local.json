@@ -11,7 +11,10 @@
       "Bash(npx -y @yejianye/smart-connections-mcp:*)",
       "Bash(npx -y @connorbritain/obsidian-mcp-server)",
       "Bash(smart-cli stats:*)",
-      "Bash(smart-cli lookup:*)"
+      "Bash(smart-cli lookup:*)",
+      "Bash(smart-cli validate:*)",
+      "Bash(robocopy:*)",
+      "Bash(xcopy:*)"
     ]
   }
 }
