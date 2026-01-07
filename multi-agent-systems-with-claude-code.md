@@ -1,6 +1,17 @@
 ---
-tags: [#claude-code #multi-agent-systems #ai-orchestration #agentic-architecture #prompt-engineering #agent-coordination #pkm-integration]
-aliases: [Multi-Agent Claude Code, Agent Orchestration, Subagent Systems, Coordinated AI Agents]
+tags: 
+  - claude-code 
+  - multi-agent-systems 
+  - ai-orchestration 
+  - agentic-architecture 
+  - prompt-engineering 
+  - agent-coordination 
+  - pkm-integration
+aliases: 
+  - Multi-Agent Claude Code
+  - Agent Orchestration
+  - Subagent Systems
+  - Coordinated AI Agents
 status: evergreen
 certainty: verified-stable
 type: reference
@@ -8,11 +19,23 @@ freshness:
   domain-volatility: moderate
   last-verified: 2026-01-06
 prerequisites:
-  hard: [Claude Code fundamentals, Markdown basics, YAML syntax]
-  soft: [Prompt engineering, Software architecture patterns, Distributed systems concepts]
+  hard: 
+  - Claude Code fundamentals
+  - Markdown basics
+  - YAML syntax
+  soft: 
+  - Prompt engineering
+  - Software architecture patterns
+  - Distributed systems concepts
 enables:
-  direct: [Production agent workflows, Team coordination automation, Complex task decomposition]
-  related: [MCP server integration, Custom command systems, Agentic PKM workflows]
+  direct: 
+  - Production agent workflows
+  - Team coordination automation
+  - Complex task decomposition
+  related: 
+  - MCP server integration
+  - Custom command systems
+  - Agentic PKM workflows
 ---
 
 > [!comprehensive-reference] 📚 Multi-Agent Systems with Claude Code

@@ -31,6 +31,15 @@
 
 
 
+- [ ] D:\10_pur3v4d3r's-vault\__LOCAL-REPO\__skills\development\senior-prompt-engineer -> Combine this with the skill already installed and then take prompt engineering specialist and have claude code develop a new skill from these three sources.
+
+- [ ] Take brainstorming prompt and have Claude Code turn it into a skill.
+
+
+
+
+
+
 
 
 

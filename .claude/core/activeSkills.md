@@ -15,8 +15,10 @@ memory-type: core
 
 ## Installation Summary
 
-**Total Active Skills**: 13
-**Installation Date**: 2026-01-06
+**Total Active Skills**: 20
+**Installation Dates**:
+- Batch 1 (6 skills): 2026-01-06
+- Batch 2 (7 skills): 2026-01-07
 **Location**: `d:\10_pur3v4d3r's-vault\.claude\skills\`
 
 ---
