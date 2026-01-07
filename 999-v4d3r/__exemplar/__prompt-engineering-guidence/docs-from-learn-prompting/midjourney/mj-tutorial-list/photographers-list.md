@@ -1,0 +1,146 @@
+---
+sidebar_position: 3
+---
+
+# 🏞️ Photographers List
+
+> For length I won't cover many styles here, but I'll share more on my [Twitter](https://twitter.com/hellojimmywong) - follow me there for updates.
+
+:::info
+
+This list is not my original work, but compiled and shared by the Midjourney [official community](https://docs.google.com/spreadsheets/d/1fFgHH_kUhu-TTR8aRxnzJScDaUA8WYbRejLjD19NhM0/edit#gid=1033747349) - thanks to them! It's still a work in progress with images and descriptions to be added. I'll supplement it gradually (possibly switch tools since this doc tool doesn't handle tables well). 🚧
+
+:::
+
+- Aaron Siskind
+- Alessio Albi
+- Alfred Eisenstaedt
+- Alfred Stieglitz
+- Alyssa Monks
+- André Kertész
+- Andreas Gursky
+- Andrew Wyeth
+- Anne Geddes
+- Annie Leibovitz
+- Ansel Adams
+- Arnold Newman
+- August Sander
+- Balthus
+- Berenice Abbott
+- Bill Brandt
+- Bill Henson
+- Brassaï (Gyula Halász)
+- Brooke Shaden
+- Bruce Davidson
+- Bruce Weber
+- Bunny Yeager
+- Carleton Watkins
+- Carrie Mae Weems
+- Chuck Close
+- Cindy Sherman
+- Clarence H. White
+- Claude Cahun
+- Danny Lyon
+- David LaChapelle
+- Dawoud Bey
+- Diane Arbus
+- Don McCullin
+- Dora Maar
+- Dorothea Lange
+- Duane Michals
+- Eadweard Muybridge
+- Edward Burtynsky
+- Edward Curtis
+- Edward Ruscha
+- Edward Steichen
+- Edward Weston
+- Elliott Erwitt
+- Ernst Haas
+- Eugene Atget
+- Fan Ho
+- Francesca Woodman
+- Frans Lanting
+- Garry Winogrand
+- Georges Melies
+- Gerda Taro
+- Gertrude Käsebier
+- Gordon Parks
+- Graciela Iturbide
+- Gregory Crewdson
+- Harold Edgerton
+- Helen Levitt
+- Helmut Newton
+- Hendrik Kerstens
+- Henri Cartier-Bresson
+- Hugh Kretschmer
+- Irving Penn
+- Jacques Henri Lartigue
+- James Nachtwey
+- James Van Der Zee
+- Jay Maisel
+- Jerry Uelsmann
+- Joel Peter Witkin
+- Joel Sartore
+- John Frederick William Herschel
+- Josef Sudek
+- Julia Margaret Cameron
+- Karl Blossfeldt
+- Larry Burrows
+- László Moholy-Nagy (photography)
+- Lee Jeffries
+- Lewis Hine
+- Lorna Simpson
+- Lynsey Addario
+- Margaret Bourke-White
+- Mario Testino
+- Martin Parr
+- Martin Schoeller
+- Mary Ellen Mark
+- Mathew B. Brady
+- Méret Oppenheim
+- Meryl McMaster
+- Mick Rock
+- Miles Aldridge
+- Minor Martin White
+- Nan Goldin
+- Nathan Wirth
+- Olive Cotton
+- Olivier Rousteing
+- Patrick Demarchelier
+- Paul Nicklen
+- Paul Outerbridge
+- Paul Strand
+- Pete Souza
+- Peter Dombrovskis
+- Peter Henry Emerson
+- Peter Lik
+- Peter Lindbergh
+- Philip-Lorca diCorcia
+- Philippe Halsman
+- Ralph Gibson
+- Richard Avedon
+- Robert Adams
+- Robert Bechtle
+- Robert Capa
+- Robert Frank
+- Robert Mapplethorpe
+- Roger Fenton
+- Ruth Bernhard
+- Sally Mann
+- Sebastião Salgado
+- Shirin Neshat
+- Stefan Gesell
+- Steven Meisel
+- Susan Meiselas
+- Vivian Maier
+- Vivian Maier
+- Viviane Sassen
+- Walker Evans
+- Wes Anderson
+- William Eggleston
+- William Eugene Smith
+- William Henry Fox Talbot
+- Yinka Shonibare
+- Yousuf Karsh
+- Man Ray
+- Robert Mapplethorpe

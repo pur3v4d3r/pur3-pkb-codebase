@@ -1,0 +1,8 @@
+{
+  "label": "🗒️ Tips",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "All prompt tips are summarized here for your convenience. If you've already read the Fundamentals and Advanced sections, you'll only need to start with tip 9."
+  }
+}

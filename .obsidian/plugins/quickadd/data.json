@@ -716,7 +716,7 @@
           "templatePath": "99-system/01-quickadd/02-templates/_master-template.md",
           "fileNameFormat": {
             "enabled": true,
-            "format": "prompt-{{value}}-{{DATE:YYYYMMDDHHmm}}"
+            "format": "prompt-report-{{value}}-{{DATE:YYYYMMDDHHmm}}"
           },
           "folder": {
             "enabled": true,

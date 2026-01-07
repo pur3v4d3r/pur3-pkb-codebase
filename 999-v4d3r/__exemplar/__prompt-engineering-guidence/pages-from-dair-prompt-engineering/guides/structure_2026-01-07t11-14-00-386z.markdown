@@ -1,0 +1,19 @@
+# 📁 guides
+
+**Generated:** 2026-01-07T11:14:00.386Z
+**Generation time:** 0 ms
+**Items processed:** 9
+
+## Directory tree
+```
+📁 guides
+──────────────────────────────────────────────────
+├── 📝 prompts-advanced-usage.md (21.0 KB)
+├── 📝 prompts-adversarial.md (16.2 KB)
+├── 📝 prompts-applications.md (8.6 KB)
+├── 📝 prompts-basic-usage.md (13.3 KB)
+├── 📝 prompts-chatgpt.md (13.4 KB)
+├── 📝 prompts-intro.md (12.3 KB)
+├── 📝 prompts-miscellaneous.md (3.7 KB)
+├── 📝 prompts-reliability.md (6.3 KB)
+└── 📝 README.md (715.0 B)```
