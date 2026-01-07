@@ -30,7 +30,8 @@
     }
   },
   "include":[
-    "\\999-v4d3r\\analysis-prompt-engineering-specialist-agent-v1.0.0\\**"
+    "D:\\10_pur3v4d3r's-vault\\999-v4d3r\\_prompts\\**",
+  
   ],
   "exclude": {
     "paths": [],

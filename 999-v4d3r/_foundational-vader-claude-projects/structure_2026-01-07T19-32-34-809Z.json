@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "generatedAt": "2026-01-07T19:32:34.809Z",
+    "generationTime": "4ms",
+    "itemsProcessed": 13,
+    "config": {
+      "includeHidden": true,
+      "extensionFilter": null,
+      "excludeFolders": null,
+      "excludePatterns": null,
+      "maxDepth": 0,
+      "respectGitignore": true,
+      "includeSize": true,
+      "includePermissions": false,
+      "includeModifiedDate": false,
+      "sortBy": "name",
+      "outputFormat": "json",
+      "useWorker": false,
+      "useStreaming": false,
+      "iconStyle": "none",
+      "customIcons": {},
+      "compressLargeDirs": false,
+      "compressionThreshold": 0,
+      "autoSave": true,
+      "autoOpen": true
+    }
+  },
+  "structure": {
+    "name": "_foundational-vader-claude-projects",
+    "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects",
+    "type": "directory",
+    "children": [
+      {
+        "name": "vader-prompt-engineering-specialist-v2.0.0",
+        "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-prompt-engineering-specialist-v2.0.0",
+        "type": "directory",
+        "size": 0,
+        "children": [
+          {
+            "name": "prompt-engineering-specialist-v2-completion-summary.md",
+            "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-prompt-engineering-specialist-v2.0.0\\prompt-engineering-specialist-v2-completion-summary.md",
+            "type": "file",
+            "size": 12078
+          },
+          {
+            "name": "prompt-engineering-specialist-v2-enhancement-plan.md",
+            "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-prompt-engineering-specialist-v2.0.0\\prompt-engineering-specialist-v2-enhancement-plan.md",
+            "type": "file",
+            "size": 30739
+          },
+          {
+            "name": "vader-prompt-engineering-specialist-v2_0_0.md",
+            "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-prompt-engineering-specialist-v2.0.0\\vader-prompt-engineering-specialist-v2_0_0.md",
+            "type": "file",
+            "size": 84630
+          }
+        ]
+      },
+      {
+        "name": "vader-prompt-repository-sythesis-agent-v1.0.0",
+        "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-prompt-repository-sythesis-agent-v1.0.0",
+        "type": "directory",
+        "size": 0,
+        "children": [
+          {
+            "name": "prompt-repository-synthesis-agent-usage-guide.md",
+            "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-prompt-repository-sythesis-agent-v1.0.0\\prompt-repository-synthesis-agent-usage-guide.md",
+            "type": "file",
+            "size": 13914
+          },
+          {
+            "name": "vader-prompt-repository-synthesis-agent-v1-0-0.md",
+            "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-prompt-repository-sythesis-agent-v1.0.0\\vader-prompt-repository-synthesis-agent-v1-0-0.md",
+            "type": "file",
+            "size": 65555
+          }
+        ]
+      },
+      {
+        "name": "vader-report-enhancement-agent-v1.0.0",
+        "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-report-enhancement-agent-v1.0.0",
+        "type": "directory",
+        "size": 0,
+        "children": [
+          {
+            "name": "enhancement-agent-quick-reference.md",
+            "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-report-enhancement-agent-v1.0.0\\enhancement-agent-quick-reference.md",
+            "type": "file",
+            "size": 8969
+          },
+          {
+            "name": "vader-enhancement-agent-implementation-guide.md",
+            "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-report-enhancement-agent-v1.0.0\\vader-enhancement-agent-implementation-guide.md",
+            "type": "file",
+            "size": 21042
+          },
+          {
+            "name": "vader-report-enhancement-agent-v1.0.0.md",
+            "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-report-enhancement-agent-v1.0.0\\vader-report-enhancement-agent-v1.0.0.md",
+            "type": "file",
+            "size": 62476
+          }
+        ]
+      },
+      {
+        "name": "vader-academic-report-generator-v4-0-0.md",
+        "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-academic-report-generator-v4-0-0.md",
+        "type": "file",
+        "size": 87355
+      },
+      {
+        "name": "vader-comprehensive-reference-note-generator-v2.0.0.md",
+        "path": "d:\\10_pur3v4d3r's-vault\\999-v4d3r\\_foundational-vader-claude-projects\\vader-comprehensive-reference-note-generator-v2.0.0.md",
+        "type": "file",
+        "size": 82480
+      }
+    ],
+    "size": 0
+  }
+}
