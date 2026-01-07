@@ -336,6 +336,7 @@ I know it looks like a lot but we are going to do this iterativley this is so yo
 - 
 ### Component Categories (For Library)
 - We have a folder stucture in place review the correct documentation.
+```
 </best_practices_integration>
 
 <instructions>
@@ -394,6 +395,7 @@ Create the System Design Document with:
 Present for review before proceeding to Phase 1.
 </instructions>
 </system>
+```
 ```
 
 

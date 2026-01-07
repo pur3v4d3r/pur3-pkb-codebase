@@ -1297,7 +1297,9 @@
           },
           "folder": {
             "enabled": true,
-            "folders": [],
+            "folders": [
+              "02-projects/_spes-sequential-prompt-engineering-system/02-component-library/__inbox"
+            ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false,
             "chooseFromSubfolders": false
@@ -1356,7 +1358,7 @@
           "folder": {
             "enabled": true,
             "folders": [
-              "000_databsae/20251111190306-001/02_prompt-engineering-component-library/01_component-library/02_composite/05_agent-configurations"
+              "02-projects/_spes-sequential-prompt-engineering-system/02-component-library/__inbox"
             ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false,
@@ -1386,7 +1388,7 @@
           "folder": {
             "enabled": true,
             "folders": [
-              "000_databsae/20251111190306-001/02_prompt-engineering-component-library/01_component-library/02_composite/05_agent-configurations"
+              "02-projects/_spes-sequential-prompt-engineering-system/02-component-library/__inbox"
             ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false,

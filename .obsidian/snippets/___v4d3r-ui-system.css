@@ -22,6 +22,20 @@
    │ 1.1 V4D3R COLOR PALETTE - RED/BLACK/GREY Theme                               │
    │ Uncomment ONE theme variant below (Dark is default)                          │
    └──────────────────────────────────────────────────────────────────────────────┘ */
+   
+
+:root {
+  /* The "Apple" feel: Fast start, smooth brake */
+  --anim-motion: cubic-bezier(0.25, 0.1, 0.25, 1.0); 
+  
+  /* The "Mechanical" feel: Instant snap */
+  --anim-snap: cubic-bezier(0.0, 0.0, 0.2, 1); 
+  
+  /* Keep durations SHORT. 300ms is too slow for UI. */
+  --anim-duration-fast: 150ms;
+}
+
+
 
 /* === DARK THEME VARIANT (DEFAULT) === */
 .theme-dark {
@@ -664,7 +678,7 @@
    │ Toggle: Enhanced stacked/vertical tab appearance                             │
    └──────────────────────────────────────────────────────────────────────────────┘ */
 
-/* --- BEGIN TOGGLE: Stacked Tabs Base --- */
+ /* --- BEGIN TOGGLE: Stacked Tabs Base --- */
 .workspace-tabs.mod-stacked .workspace-tab-header-container {
   background-color: var(--v4d3r-bg-tertiary) !important;  border-bottom: none !important;  border-right: 1px solid var(--v4d3r-border-subtle) !important;}
 
@@ -922,7 +936,7 @@
 
 /* --- BEGIN TOGGLE: File Explorer Base --- */
 
-.nav-file-title:hover,
+/* .nav-file-title:hover,
 .nav-folder-title:hover {
   color: var(--v4d3r-red-accent) !important;}
 .nav-folder-title:hover,
@@ -937,7 +951,7 @@
    └──────────────────────────────────────────────────────────────────────────────┘ */
 
 /* --- BEGIN TOGGLE: Folder Accent Coloring --- */
-.nav-folder-title-content {
+/*.nav-folder-title-content {
   color: var(--v4d3r-red-accent) !important;  font-weight: 500 !important;}
 
 .nav-folder.is-collapsed .nav-folder-title-content {
@@ -975,19 +989,19 @@
 
 /* --- BEGIN TOGGLE: File Type Icons --- */
 /* Markdown files */
-.nav-file-title[data-path$=".md"] .nav-file-title-content::before {
+/* .nav-file-title[data-path$=".md"] .nav-file-title-content::before {
   content: "- " !important;  font-size: 0.9em !important;}
 
 /* Canvas files */
-.nav-file-title[data-path$=".canvas"] .nav-file-title-content::before {
+/* .nav-file-title[data-path$=".canvas"] .nav-file-title-content::before {
   content: "🎨 " !important;  font-size: 0.9em !important;}
 
 /* PDF files */
-.nav-file-title[data-path$=".pdf"] .nav-file-title-content::before {
+/* .nav-file-title[data-path$=".pdf"] .nav-file-title-content::before {
   content: "📕 " !important;  font-size: 0.9em !important;}
 
 /* Image files */
-.nav-file-title[data-path$=".png"] .nav-file-title-content::before,
+/* .nav-file-title[data-path$=".png"] .nav-file-title-content::before,
 .nav-file-title[data-path$=".jpg"] .nav-file-title-content::before,
 .nav-file-title[data-path$=".jpeg"] .nav-file-title-content::before,
 .nav-file-title[data-path$=".gif"] .nav-file-title-content::before,
@@ -995,7 +1009,7 @@
   content: "🖼️ " !important;  font-size: 0.9em !important;}
 
 /* Excalidraw */
-.nav-file-title[data-path$=".excalidraw.md"] .nav-file-title-content::before {
+/* .nav-file-title[data-path$=".excalidraw.md"] .nav-file-title-content::before {
   content: "✏️ " !important;  font-size: 0.9em !important;}
 /* --- END TOGGLE: File Type Icons --- */
 
@@ -1005,14 +1019,14 @@
    └──────────────────────────────────────────────────────────────────────────────┘ */
 
 /* --- BEGIN TOGGLE: Folder Icons --- */
-.nav-folder.is-open .nav-folder-title-content::before {
+/* .nav-folder.is-open .nav-folder-title-content::before {
   content: "📂 " !important;}
 
 .nav-folder.is-collapsed .nav-folder-title-content::before {
   content: "📁 " !important;}
 
 /* Special folders */
-.nav-folder-title[data-path="00-inbox"] .nav-folder-title-content::before,
+/* .nav-folder-title[data-path="00-inbox"] .nav-folder-title-content::before,
 .nav-folder-title[data-path*="inbox"] .nav-folder-title-content::before {
   content: "📥 " !important;}
 
@@ -1042,7 +1056,7 @@
    └──────────────────────────────────────────────────────────────────────────────┘ */
 
 /* --- BEGIN TOGGLE: Active File Accent --- */
-.nav-file-title.is-active {
+/*.nav-file-title.is-active {
   background-color: var(--v4d3r-red-muted) !important;  border-left: 3px solid var(--v4d3r-red-primary) !important;  padding-left: calc(var(--nav-item-padding) - 3px) !important;}
 
 .nav-file-title.is-active .nav-file-title-content {
@@ -1165,7 +1179,11 @@
 
 .suggestion-hotkey {
   color: var(--v4d3r-grey-base) !important;  background-color: var(--v4d3r-bg-tertiary) !important;  border-radius: var(--v4d3r-radius-sm) !important;  padding: 2px 6px !important;  font-size: 0.8em !important;}
-/* --- END TOGGLE: Command Palette Styling --- */
+
+
+
+
+  /* --- END TOGGLE: Command Palette Styling --- */
 
 /* ┌──────────────────────────────────────────────────────────────────────────────┐
    │ 6.3 TOOLTIP STYLING                                                          │
@@ -1283,6 +1301,7 @@
 /* Error notice */
 .notice.mod-error {
   border-left-color: var(--v4d3r-red-primary) !important;  background-color: var(--v4d3r-red-muted) !important;}
+
 /* --- END TOGGLE: Notice Styling --- */
 
 /* ┌──────────────────────────────────────────────────────────────────────────────┐
@@ -1508,28 +1527,17 @@ textarea::placeholder {
    ═══════════════════════════════════════════════════════════════════════════════ */
 
 
-   /* Text Rendering Fix for Obsidian 1.0+ */
-body {
-  -webkit-font-smoothing: antialiased !important;
-  -moz-osx-font-smoothing: grayscale !important;
-}
-
-/*text re-sizing fix*/
-body {
-  font-size: var(--v4d3r-base-font-size) !important;
-}
 
 
 
-.nav-file-title-content,
-.nav-folder-title-content,
-.search-result-file-title,
-.search-result-file-matched-text,
-.tag-pane-tag,
-.bookmark-item,
-.bookmark-group-title {
-  font-size: var(--v4d3r-base-font-size) !important;
-}
+
+
+
+
+
+
+
+
 
 
 

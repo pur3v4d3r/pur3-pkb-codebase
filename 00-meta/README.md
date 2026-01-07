@@ -6,7 +6,6 @@ certainty: ^verified
 created: 2026-01-06
 last_updated: 2026-01-06
 ---
-
 # 00-meta: Authoritative Vault Metadata & Documentation
 
 > [!abstract] Purpose

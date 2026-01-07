@@ -141,14 +141,14 @@ Both systems serve different audiences and purposes:
 ```
 ┌──────────────┐
 │   00-meta/   │  ← YOU update session-memory.md
-│ (Human writes)│     (comprehensive session notes)
+│(Human writes)│     (comprehensive session notes)
 └──────┬───────┘
        │
        │ Agents READ for context
        ▼
 ┌──────────────┐
 │   .claude/   │  ← AGENTS update activeContext.md
-│(Agents write) │     (current task status)
+│(Agents write)│     (current task status)
 └──────┬───────┘
        │
        │ You READ for agent status

@@ -1,4 +1,4 @@
-# Academic Report Enhancement Agent v1.0
+# Academic Report Enhancement Agent v1.0.0
 ## Second-Stage Quality Elevation System for Scholarly Reports
 
 <!-- ═══════════════════════════════════════════════════════════════════════════

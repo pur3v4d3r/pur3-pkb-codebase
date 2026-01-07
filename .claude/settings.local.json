@@ -3,7 +3,10 @@
     "allow": [
       "Bash(npm:*)",
       "Bash(smart-cli --version:*)",
-      "Bash(dir \"%APPDATA%\\\\Claude\\\\logs\" /B /O-D)"
+      "Bash(dir \"%APPDATA%\\\\Claude\\\\logs\" /B /O-D)",
+      "Bash(claude-code --version:*)",
+      "Skill(claude-mcp-expert)",
+      "Skill(claude-mcp-expert:*)"
     ]
   }
 }

@@ -1,0 +1,50 @@
+/* metadata
+name: High-Fidelity Rendering Core
+author: Pur3v4d3r
+version: 1.0
+*/
+
+/* 1. TYPOGRAPHY ENGINE */
+body {
+    /* Force grayscale antialiasing for thinner, sharper text */
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    
+    /* Enable advanced font features */
+    text-rendering: optimizeLegibility !important;
+    font-variant-ligatures: common-ligatures;
+    
+    /* Optional: Contrast boost for text */
+    --text-normal: #2e2e2e; /* Darker than default gray for contrast */
+}
+
+/* 2. KINETIC ENGINE - GLOBAL DEFAULTS */
+.app-container {
+    /* Define snappy easing variables */
+    --anim-ease-snap: cubic-bezier(0.0, 0.0, 0.2, 1);
+}
+
+/* 3. HARDWARE ACCELERATION FOR COMMON UI ELEMENTS */
+/* Tooltips, Modals, Suggestion Boxes */
+.tooltip, 
+.modal, 
+.suggestion-container, 
+.menu {
+    /* Promote to GPU layer */
+    transform: translateZ(0);
+    will-change: transform, opacity;
+    
+    /* Apply snappy transition */
+    transition: transform 150ms var(--anim-ease-snap), 
+                opacity 150ms var(--anim-ease-snap) !important;
+    
+    /* Sharp borders (avoid fuzzy fractional pixels) */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    border: 1px solid rgba(0,0,0,0.05); /* Subtle crisp border */
+}
+
+/* 4. EXCLUSION FOR CODE BLOCKS */
+/* JetBrains Mono usually looks better with subpixel-antialiased on some screens */
+code, pre, .cm-scroller {
+    -webkit-font-smoothing: subpixel-antialiased; 
+}
