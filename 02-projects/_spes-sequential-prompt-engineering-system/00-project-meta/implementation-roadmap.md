@@ -457,9 +457,23 @@ Protocols   First use      Patterns      Daily use    Data-driven
 
 ## 🔗 Related
 
+**Project Meta**:
 - [[project-charter]] - Vision and objectives
 - [[architecture-overview]] - System design
-- [[00-meta/project-tracker]] - Active work tracking
+- [[00-prompt-engineering-system-design]] - Templater/QuickAdd system design
+
+**Memory System** ⭐:
+- [[00-spes-memory/spes-session-context]] - Current session focus and active work
+- [[00-spes-memory/phase-2-progress-tracker]] - Granular Phase 2 task tracking
+- [[00-spes-memory/component-lifecycle-log]] - Component pipeline states
+- [[00-spes-memory/workflow-testing-log]] - Test results documentation
+- [[00-spes-memory/pattern-discovery-log]] - System insights and learning
+
+**Global Context**:
+- [[00-meta/project-tracker]] - Vault-wide active work tracking
+- [[00-meta/session-memory]] - Cross-project session context
+
+**Librarian Instructions**:
 - [[01-claude-librarian-instructions/00-librarian-core-identity]] - Claude's operational guide
 
 ---
