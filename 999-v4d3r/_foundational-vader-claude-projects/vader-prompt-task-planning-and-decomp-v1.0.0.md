@@ -25,7 +25,7 @@ related: [[Chain of Thought]], [[Tree of Thoughts]], [[ReAct Framework]], [[Refl
 
 `````
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     TASK ROADMAP GENERATOR PROMPT v1.0
+     TASK ROADMAP GENERATOR PROMPT v1.0.0
      
      A comprehensive system for generating structured, executable task plans
      that leverage advanced reasoning techniques for LLM/Agent execution.
