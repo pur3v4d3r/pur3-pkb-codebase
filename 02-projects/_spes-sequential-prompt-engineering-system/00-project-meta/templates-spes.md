@@ -1,6 +1,7 @@
 ---
 type: "documentation"
 created: "2025-12-20"
+modified: "2026-01-08"
 tags:
   - "year/2025"
   - "prompt-engineering"
@@ -14,7 +15,7 @@ link-up: "[[prompt-engineering-moc]]"
 
 # SPES Specialized Template Guide
 
-This document provides an overview of the 5 specialized Templater templates created for the SPES (Sequential Prompt Engineering System).
+This document provides an overview of the 6 specialized Templater templates created for the SPES (Sequential Prompt Engineering System).
 
 ---
 
@@ -27,6 +28,7 @@ This document provides an overview of the 5 specialized Templater templates crea
 | `_chain-of-thought-template.md` | `cot` | Reasoning | Step-by-step thinking | Complex problem solving |
 | `_workflow-chain-template.md` | `workflow` | Orchestration | Multi-step processes | Sequential task chains |
 | `_idea-capture-template.md` | `idea` | Quick Capture | Rapid idea logging | Inspiration strikes |
+| `_prompt-general-template.md` | `prompt-general` | General Purpose | Flexible prompt creation | Doesn't fit specialized categories |
 
 ---
 
@@ -166,8 +168,53 @@ Idea → System Prompt (role/behavior ideas)
 Idea → Few-Shot (pattern learning ideas)
 Idea → Chain-of-Thought (reasoning ideas)
 Idea → Workflow Chain (process ideas)
-Idea → Prompt Master (general ideas)
+Idea → General Prompt (other prompt ideas)
 ```
+
+---
+
+### 6. General-Purpose Prompt Template
+
+**File**: `_prompt-general-template.md`
+**Naming**: `prompt-general-[title]-[version]-[timestamp].md`
+
+**Structure**:
+- Purpose & Overview
+- Context & Background
+- Core Instructions
+- Constraints & Boundaries
+- Output Format
+- Optional Testing Section
+- Component Integration
+- Version History & Quality Checklist
+
+**Best For**:
+- Prompts that don't fit other specialized categories
+- Hybrid prompts (mix of multiple types)
+- Instruction sets and templates
+- Custom workflows
+- Experimental prompt designs
+
+**Key Fields**:
+- Flexible `prompt-type` and `prompt-category` selection
+- Multi-model targeting support
+- Optional component library integration
+- Optional testing framework
+- 14 cursor positions for guided input
+- Type: `prompt` with custom subtypes
+
+**Unique Features**:
+- **Conditional Sections**: Testing and component sections appear based on user selection
+- **Multi-Model Support**: Can target multiple LLMs simultaneously
+- **Quality Validation**: Built-in pre-deployment checklist
+- **Semantic Discovery**: DataviewJS query finds related prompts automatically
+- **Usage Tracking**: Full metadata for analytics
+
+**When to Use Instead of Specialized Templates**:
+- Prompt combines elements from multiple specialized types
+- Creating custom prompt formats not covered by other templates
+- Need maximum flexibility in structure
+- Building instruction sets or meta-prompts
 
 ---
 
@@ -343,10 +390,20 @@ Each template includes semantic bridge query to find related prompts based on sh
 - [[prompt-testing-framework]] - Testing methodology
 
 **Template Files**:
-- `_prompt-master-template.md` - General template
+- `_prompt-general-template.md` - General-purpose template (NEW!)
 - `_component-template.md` - Component template
 - `_claude-project-template.md` - Claude Project template
 - `_gemini-gem-template.md` - Gemini Gem template
+
+**Component Library** (NEW!):
+- [[component-constitutional-principles-v1.0.0]] - Design philosophy constraints
+- [[component-quality-gates-checklist-v1.0.0]] - Validation checklists
+- [[component-reasoning-step-by-step-v1.0.0]] - Systematic thinking framework
+- [[component-reasoning-react-pattern-v1.0.0]] - Reasoning + Action cycles
+- [[component-reasoning-tree-of-thought-v1.0.0]] - Multi-path exploration
+
+**Reference Documentation**:
+- [[reference-obsidian-plugin-syntax-v1.0.0]] - Templater, Meta-Bind, Dataview, QuickAdd syntax
 
 ---
 
@@ -395,5 +452,14 @@ All templates are **customizable**:
 
 ---
 
-*Created: 2025-12-20 | Template Guide Version: 1.0.0*
+## 📝 Version History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.1.0 | 2026-01-08 | Added general-purpose template, new components (constitutional principles, quality gates, reasoning frameworks), plugin syntax reference |
+| 1.0.0 | 2025-12-20 | Initial creation with 5 specialized templates |
+
+---
+
+*Created: 2025-12-20 | Last Updated: 2026-01-08 | Guide Version: 1.1.0*
 *Part of SPES (Sequential Prompt Engineering System)*

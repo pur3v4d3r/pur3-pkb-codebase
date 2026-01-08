@@ -622,7 +622,7 @@ Prompt-Rating: 0.0
 ### [Prompt:: <tp.frontmatter.title>]
 
 [! ] Purpose
-  -[Decription:: <% tp.frontmatter.description %>]
+  -[Description:: <% tp.frontmatter.description %>]
 
 [! ] Role
   - [Persona Defined:: <% tp.frontmatter.role %>]
