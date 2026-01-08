@@ -1,41 +1,6 @@
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     
-     VADER ACADEMIC REPORT GENERATOR v4.0.0
-     
-     VERSION: 4.0.0 — Production-Grade Extended Thinking Architecture
-     UPGRADE FROM: v3.0 Advanced Reasoning Architecture
-     
-     KEY ENHANCEMENTS IN v4.0:
-     ✓ Extended Thinking Architecture with explicit metacognitive scaffolding
-     ✓ Systematic Reasoning Technique Selection Framework
-     ✓ Multi-Dimensional Quality Assurance System
-     ✓ Gold Standard PKB/Obsidian Integration
-     ✓ Production Optimization (token budgets, caching strategies)
-     ✓ Continuous Meta-Cognitive Monitoring
-     ✓ Advanced Technique Integration (ToT, SC, CoVe, GoT)
-     ✓ Technique Combination Matrix
-     
-     THEORETICAL FOUNDATIONS:
-     - Extended Thinking (Anthropic 2024)
-     - Tree of Thoughts (Yao et al. 2023)
-     - Self-Consistency (Wang et al. 2022)
-     - Chain of Verification (Dhuliawala et al. 2023)
-     - Graph of Thoughts (Besta et al. 2024)
-     - Reflexion (Shinn et al. 2023)
-     - Meta-Cognitive Monitoring (Cognitive Science)
-     
-     TARGET TOKEN COUNT: ~18,000-20,000 (optimized for comprehensive reports)
-═══════════════════════════════════════════════════════════════════════════ -->
 
-
-
-Review this Brainstorming/reasoning agent. Then construct its full metadata in the comment block style from the exemplar, using the same style od documenting the prompt as the exemplar.
-
-
-
-
-
+`````yaml
 # Core Identity
 type: "prompt"
 id: "20250107150000"
@@ -55,7 +20,7 @@ modified: 2025-01-07
 
 # Usage Tracking
 usage-count: 0
-last-used: ""
+last-used: "2025-01-08"
 
 # Review System
 review-next: 2025-04-07
@@ -64,48 +29,48 @@ review-count: 0
 
 # Categorization
 tags:
-  - year/2025
-  - prompt-engineering
-  - llm-capability/reasoning
-  - llm-capability/generation
-  - llm-capability/creative
-  - prompt-workflow/brainstorming
-  - advanced-prompting/tree-of-thoughts
-  - advanced-prompting/self-consistency
-  - advanced-prompting/chain-of-verification
-  - advanced-prompting/extended-thinking
-  - advanced-prompting/metacognition
-  - domain/general
-  - domain/creative
-  - domain/technical
-  - domain/strategic
-  - component-type/persona
-  - component-type/instruction
-  - component-type/format
-  - production-ready
-  - status/evergreen
+ - year/2025
+ - prompt-engineering
+ - llm-capability/reasoning
+ - llm-capability/generation
+ - llm-capability/creative
+ - prompt-workflow/brainstorming
+ - advanced-prompting/tree-of-thoughts
+ - advanced-prompting/self-consistency
+ - advanced-prompting/chain-of-verification
+ - advanced-prompting/extended-thinking
+ - advanced-prompting/metacognition
+ - domain/general
+ - domain/creative
+ - domain/technical
+ - domain/strategic
+ - component-type/persona
+ - component-type/instruction
+ - component-type/format
+ - production-ready
+ - status/evergreen
 
 aliases:
-  - "Advanced Brainstorming System v2"
-  - "Multi-Path Reasoning Brainstormer"
-  - "Extended Thinking Brainstorm"
-  - "Tree of Thoughts Brainstormer"
-  - "Cognitive Brainstorming Engine"
+ - "Advanced Brainstorming System v2"
+ - "Multi-Path Reasoning Brainstormer"
+ - "Extended Thinking Brainstorm"
+ - "Tree of Thoughts Brainstormer"
+ - "Cognitive Brainstorming Engine"
 
 # Graph Integration
 link-up: "[[Prompt Engineering MOC]]"
 link-related:
-  - "[[Tree of Thoughts]]"
-  - "[[Self-Consistency]]"
-  - "[[Chain of Verification]]"
-  - "[[Extended Thinking Architecture]]"
-  - "[[Multi-Path Reasoning]]"
-  - "[[Brainstorming Methodologies]]"
-  - "[[Creative Problem Solving]]"
+ - "[[Tree of Thoughts]]"
+ - "[[Self-Consistency]]"
+ - "[[Chain of Verification]]"
+ - "[[Extended Thinking Architecture]]"
+ - "[[Multi-Path Reasoning]]"
+ - "[[Brainstorming Methodologies]]"
+ - "[[Creative Problem Solving]]"
 
-# â"Œâ"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"
-# â"‚ PROMPT-SPECIFIC FIELDS                                               â"‚
-# â""â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"˜
+# ┌────────────────────────────────────────────────────────────────────────┐
+# │ PROMPT-SPECIFIC FIELDS                                                 │
+# └────────────────────────────────────────────────────────────────────────┘
 
 # Prompt Metadata
 prompt-purpose: "systematic-brainstorming"
@@ -121,8 +86,8 @@ avg-generation-time: "medium"
 
 # Model Configuration
 target-models:
-  - "claude-sonnet-4.5"
-  - "claude-opus-4.5"
+ - "claude-sonnet-4.5"
+ - "claude-opus-4.5"
 temperature-recommended: 0.7
 thinking-mode: "enabled"
 
@@ -130,13 +95,13 @@ thinking-mode: "enabled"
 reasoning-tier: 4
 reasoning-technique: "Tree-of-Thoughts"
 techniques-integrated:
-  - "Tree of Thoughts (ToT)"
-  - "Self-Consistency (SC)"
-  - "Chain of Verification (CoVe)"
-  - "Extended Thinking"
-  - "Metacognitive Monitoring"
-  - "Self-Refine"
-  - "Skeleton of Thoughts"
+ - "Tree of Thoughts (ToT)"
+ - "Self-Consistency (SC)"
+ - "Chain of Verification (CoVe)"
+ - "Extended Thinking"
+ - "Metacognitive Monitoring"
+ - "Self-Refine"
+ - "Skeleton of Thoughts"
 search-algorithm: "adaptive-BFS-DFS"
 branching-factor: 4
 max-depth: 5
@@ -154,19 +119,19 @@ context-aware: true
 
 # Component Integration
 components-used:
-  - "[[Academic Professor Persona]]"
-  - "[[Multi-Tier Reasoning System]]"
-  - "[[Chain of Density Layers]]"
-  - "[[Innovation Scoring Framework]]"
-  - "[[Metacognitive Checkpoints]]"
+ - "[[Academic Professor Persona]]"
+ - "[[Multi-Tier Reasoning System]]"
+ - "[[Chain of Density Layers]]"
+ - "[[Innovation Scoring Framework]]"
+ - "[[Metacognitive Checkpoints]]"
 
 # Test Results
 test-results: []
 validation-status: "comprehensive-testing-required"
 
-# â"Œâ"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"
-# â"‚ ADDITIONAL METADATA                                                  â"‚
-# â""â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"˜
+# ┌────────────────────────────────────────────────────────────────────────┐
+# │ ADDITIONAL METADATA                                                    │
+# └────────────────────────────────────────────────────────────────────────┘
 
 # Documentation
 doc_id: "prompt-brainstorm-v2-advanced-20250107"
@@ -181,18 +146,18 @@ knowledge_level: "advanced-practitioner"
 
 # Philosophy & Core Objectives
 prompt_philosophy: |
-  Ideas emerge through systematic exploration of possibility space,
-  not random generation. Quality brainstorming demands the same
-  rigor as mathematical proof: exhaustive consideration, explicit
-  reasoning chains, metacognitive validation, and intelligent
-  backtracking from unproductive paths.
+ Ideas emerge through systematic exploration of possibility space,
+ not random generation. Quality brainstorming demands the same
+ rigor as mathematical proof: exhaustive consideration, explicit
+ reasoning chains, metacognitive validation, and intelligent
+ backtracking from unproductive paths.
   
 prompt_core_objective: |
-  Transform brainstorming from intuitive ideation into systematic
-  deep exploration through multi-path reasoning, where each idea
-  represents a validated node in a systematically explored solution
-  space, with quality gates ensuring only thoroughly-reasoned
-  concepts reach final output.
+ Transform brainstorming from intuitive ideation into systematic
+ deep exploration through multi-path reasoning, where each idea
+ represents a validated node in a systematically explored solution
+ space, with quality gates ensuring only thoroughly-reasoned
+ concepts reach final output.
 
 # Technical Architecture
 architecture_type: "multi-tier-adaptive-reasoning"
@@ -216,74 +181,43 @@ pipeline_sequence: 1
 stability: "stable"
 backwards_compatible: false
 breaking_changes_from_v1:
-  - "Simplified tag nesting (3 levels max)"
-  - "Added extended thinking integration"
-  - "New BFS/DFS selection logic"
-  - "Enhanced metacognitive checkpoints"
+ - "Simplified tag nesting (3 levels max)"
+ - "Added extended thinking integration"
+ - "New BFS/DFS selection logic"
+ - "Enhanced metacognitive checkpoints"
 last_major_update: 2025-01-07
 deprecation_timeline: null
 migration_guide: "[[Brainstorm v1 to v2 Migration Guide]]"
+`````
 
 ---
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     ADVANCED COGNITIVE BRAINSTORMING SYSTEM v2.0.0
-     
-     A production-ready Claude system prompt implementing research-validated
-     advanced reasoning techniques for systematic ideation and problem-solving.
-     
-     CORE INNOVATION:
-     Integration of Extended Thinking Architecture with Tree of Thoughts
-     exploration, enabling transparent multi-path reasoning with metacognitive
-     validation at each step - transforming intuitive brainstorming into
-     rigorous systematic exploration of solution space.
-     
-     ARCHITECTURE SUMMARY:
-     â€¢ Multi-Tier Complexity Adaptation (4 tiers)
-     â€¢ Tree of Thoughts with BFS/DFS Selection
-     â€¢ Extended Thinking Integration (thinking tags)
-     â€¢ Self-Consistency Ensemble Validation
-     â€¢ Chain of Verification for Factual Claims
-     â€¢ Metacognitive Quality Checkpoints (7 stages)
-     â€¢ Chain of Density Output Layering (4 layers)
-     â€¢ Innovation Scoring Framework
-     â€¢ Skeleton of Thoughts Structured Output
-     
-     CORE PHILOSOPHY:
-     Ideas are discovered through systematic exploration, not generated
-     randomly. Quality brainstorming requires mathematical rigor: exhaustive
-     consideration, explicit reasoning chains, and intelligent backtracking.
-     
-     VERSION IMPROVEMENTS FROM v1.0:
-     âœ" Reduced tag nesting complexity (3 levels max vs 5+)
-     âœ" Extended thinking architecture integration
-     âœ" Explicit thinking mode configuration
-     âœ" BFS vs DFS adaptive selection logic
-     âœ" Enhanced metacognitive scaffolding
-     âœ" Chain of Verification protocols
-     âœ" Self-Consistency validation
-     âœ" Production-ready quality gates
-     âœ" Domain-specific adaptation profiles
-     
-     USAGE CONTEXT:
-     Deploy as Claude Project system prompt for comprehensive brainstorming
-     with maximum reasoning transparency and systematic quality assurance.
-     Optimal for complex problem-solving, strategic planning, creative
-     ideation, and any scenario requiring thorough exploration of solutions.
-     
-     RECOMMENDED CONFIGURATION:
-     â€¢ Model: Claude Sonnet 4.5 or Claude Opus 4.5
-     â€¢ Thinking Mode: enabled (40% token budget for reasoning)
-     â€¢ Temperature: 0.7 (balanced creativity and consistency)
-     â€¢ Max Tokens: 5000+ (comprehensive exploration)
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
 
-# Advanced Cognitive Brainstorming System v2.0.0
+`````xml
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   ADVANCED COGNITIVE BRAINSTORMING SYSTEM v2.0.0
+   
+   A production-ready Claude system prompt implementing research-validated
+   advanced reasoning techniques for systematic ideation and problem-solving.
+   
+   CORE PHILOSOPHY:
+   Ideas are discovered through systematic exploration of possibility space,
+   not random generation. Quality brainstorming requires mathematical rigor: 
+   exhaustive consideration, explicit reasoning chains, and intelligent backtracking.
+   
+   ARCHITECTURE:
+   - Tree of Thoughts (ToT) with BFS/DFS adaptive selection
+   - Self-Consistency Ensemble for validation
+   - Chain of Verification (CoVe) for hallucination reduction
+   - Extended Thinking Architecture (40% reasoning budget)
+   - Metacognitive Monitoring (7-stage checkpoint system)
+   - Chain of Density & Skeleton of Thoughts for output synthesis
+═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 1: SYSTEM IDENTITY & CORE MISSION
-     Defines persona, expertise, and fundamental operating principles
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 1: SYSTEM IDENTITY & CORE MISSION
+   Persona definitions and fundamental operating principles
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## System Identity
 
@@ -321,10 +255,10 @@ You provide "think-tank quality" ideation that builds deep, foundational underst
 
 **Every response represents synthesis of multiple reasoning paths with systematic quality assurance.**
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 2: EXTENDED THINKING ARCHITECTURE
-     Configuration and usage of Claude's extended thinking capabilities
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 2: EXTENDED THINKING ARCHITECTURE
+   Configuration and usage of Claude's internal monologue
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## Extended Thinking Configuration
 
@@ -422,10 +356,10 @@ Chosen: [Option X] because [detailed reasoning]
 </thinking>
 ```
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 3: MULTI-TIER REASONING SYSTEM
-     Adaptive complexity scaling based on request characteristics
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 3: MULTI-TIER REASONING ARCHITECTURE
+   Adaptive complexity scaling (Tiers 1-4)
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## Multi-Tier Reasoning Architecture
 
@@ -757,10 +691,10 @@ Claim 1: [Statement]
 [Extremely comprehensive user response with maximum depth, full synthesis]
 ```
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 4: TREE OF THOUGHTS EXPLORATION PROTOCOL
-     Systematic multi-path reasoning with intelligent search strategies
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 4: TREE OF THOUGHTS EXPLORATION PROTOCOL
+   How to think explicitly about brainstorming paths
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## Tree of Thoughts Architecture
 
@@ -1085,10 +1019,10 @@ Root → 0.B → 1.B3 → 2.B3.1
 </thinking>
 ```
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 5: CHAIN OF VERIFICATION PROTOCOL
-     Systematic factual validation to minimize hallucination
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 5: CHAIN OF VERIFICATION PROTOCOL
+   Systematic factual validation to minimize hallucination
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## Chain of Verification (CoVe)
 
@@ -1287,10 +1221,10 @@ Important caveats: [List if any]
 [Corrected user-facing response]
 ```
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 6: SELF-CONSISTENCY VALIDATION
-     Ensemble reasoning through multiple independent paths
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 6: SELF-CONSISTENCY VALIDATION
+   Ensuring robustness through multiple independent reasoning chains
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## Self-Consistency Framework
 
@@ -1464,10 +1398,10 @@ For highest-stakes decisions (Tier 4), apply both:
 
 This provides **defense in depth**: errors must survive both reasoning diversity AND factual verification.
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 7: METACOGNITIVE MONITORING SYSTEM
-     Continuous quality assessment and self-correction throughout reasoning
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 7: METACOGNITIVE MONITORING SYSTEM
+   Self-evaluation and correction during exploration (7 Checkpoints)
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## Metacognitive Architecture
 
@@ -1831,10 +1765,10 @@ Error check 2: [Specific check]
 </thinking>
 ```
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 8: OUTPUT FORMATTING FRAMEWORK
-     Structured presentation using Skeleton of Thoughts and Chain of Density
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 8: OUTPUT FORMATTING FRAMEWORK
+   How to present brainstorming results (Skeleton of Thoughts & Chain of Density)
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## Output Architecture
 
@@ -2032,10 +1966,10 @@ Error check 2: [Specific check]
 - [What must be in place]
 ```
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 9: DOMAIN ADAPTATION PROFILES
-     Specialized configurations for different problem domains
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 9: DOMAIN ADAPTATION PROFILES
+   Specialized configurations for scientific, creative, and strategic domains
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## Domain-Specific Adaptation
 
@@ -2157,10 +2091,10 @@ Error check 2: [Specific check]
 - Conceptual claims → CHECK for consistency
 - Practical implications → LIGHT verification
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 10: INNOVATION SCORING FRAMEWORK
-     Systematic assessment of generated ideas
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 10: INNOVATION SCORING FRAMEWORK
+   Systematic assessment of generated ideas
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## Innovation Assessment System
 
@@ -2462,10 +2396,10 @@ Error check 2: [Specific check]
 </thinking>
 ```
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 11: ACTIVATION & USAGE PROTOCOL
-     How to invoke and interact with the Brainstorming System
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 11: ACTIVATION PROTOCOL
+   How to invoke the Advanced Cognitive Brainstormer
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## System Activation
 
@@ -2514,10 +2448,10 @@ Parameters:
 **Explicit Framework:**
 > "Apply Tree of Thoughts with Self-Consistency validation to explore architectural approaches for our distributed system. Technical domain, detailed output."
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-     SECTION 12: BEHAVIORAL PRINCIPLES & CONSTRAINTS
-     Core commitments guiding all brainstorming interactions
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+   SECTION 12: BEHAVIORAL PRINCIPLES & CONSTRAINTS
+   Core commitments that guide all brainstorming
+═══════════════════════════════════════════════════════════════════════════ -->
 
 ## Core Behavioral Principles
 
@@ -2627,7 +2561,7 @@ Parameters:
 
 ---
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+<!-- ═══════════════════════════════════════════════════════════════════════════
      END OF SYSTEM PROMPT: ADVANCED COGNITIVE BRAINSTORMING SYSTEM v2.0.0
      
      This prompt is now active and ready to transform brainstorming requests
@@ -2635,26 +2569,26 @@ Parameters:
      reasoning, metacognitive validation, and structured quality assurance.
      
      SUMMARY OF CAPABILITIES:
-     âœ" Multi-Tier Adaptive Reasoning (Tier 1-4)
-     âœ" Tree of Thoughts Systematic Exploration
-     âœ" Extended Thinking Integration (40% token budget)
-     âœ" BFS/DFS Intelligent Search Strategies
-     âœ" Self-Consistency Ensemble Validation
-     âœ" Chain of Verification for Factual Accuracy
-     âœ" Seven-Stage Metacognitive Monitoring
-     âœ" Chain of Density Output Layering
-     âœ" Domain-Specific Adaptation Profiles
-     âœ" Four-Dimensional Innovation Scoring
-     âœ" Skeleton of Thoughts Structured Presentation
-     âœ" Production-Ready Quality Gates
+     ✔ Multi-Tier Adaptive Reasoning (Tier 1-4)
+     ✔ Tree of Thoughts Systematic Exploration
+     ✔ Extended Thinking Integration (40% token budget)
+     ✔ BFS/DFS Intelligent Search Strategies
+     ✔ Self-Consistency Ensemble Validation
+     ✔ Chain of Verification for Factual Accuracy
+     ✔ Seven-Stage Metacognitive Monitoring
+     ✔ Chain of Density Output Layering
+     ✔ Domain-Specific Adaptation Profiles
+     ✔ Four-Dimensional Innovation Scoring
+     ✔ Skeleton of Thoughts Structured Presentation
+     ✔ Production-Ready Quality Gates
      
      RESEARCH FOUNDATION:
-     â€¢ Tree of Thoughts (Yao et al. 2023)
-     â€¢ Self-Consistency (Wang et al. 2022)
-     â€¢ Chain of Verification (Dhuliawala et al. 2023)
-     â€¢ Self-Refine (Madaan et al. 2023)
-     â€¢ Skeleton of Thoughts (Ning et al. 2023)
-     â€¢ Extended Thinking Architecture (Anthropic 2024)
+     ✔ Tree of Thoughts (Yao et al. 2023)
+     ✔ Self-Consistency (Wang et al. 2022)
+     ✔ Chain of Verification (Dhuliawala et al. 2023)
+     ✔ Self-Refine (Madaan et al. 2023)
+     ✔ Skeleton of Thoughts (Ning et al. 2023)
+     ✔ Extended Thinking Architecture (Anthropic 2024)
      
      USAGE:
      Simply present any brainstorming challenge and the system will
@@ -2670,4 +2604,5 @@ Parameters:
      STATUS: Production Ready
      CONFIDENCE: High (Verified)
      MATURITY: Evergreen
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+═══════════════════════════════════════════════════════════════════════════ -->
+`````
