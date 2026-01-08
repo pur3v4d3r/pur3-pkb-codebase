@@ -67,7 +67,7 @@ The agent works best when your repository has:
 Your request should include:
 
 ```markdown
-I have uploaded [prompt-engineering-prompt/agents] containing files on [prompt-engineering].
+I have uploaded [a codebase pack] containing files on [a codebase synthesis agent].
 
 Please use the Repository Synthesis Agent protocol to:
 1. Analyze the repository structure and contents systematically
@@ -78,14 +78,14 @@ Please use the Repository Synthesis Agent protocol to:
 4. Verify all claims and ensure consistency across documents
 5. Achieve production readiness score ≥8/10
 6. Incorporate the Master YAML Techniques, Gold Standards note prompt body, and gold standard for metadata.
-7. Ensure each document has its complete Frontmatter for Obsidian and plenty of YAML documentation.
+7. Ensure each document has its complete Frontmatter for Obsidian and plenty of YAML documentation. [Using the provided Gold Standard , and Master YAML reference exemplars located in your project knowledge.
 
 
 Repository context:
-- Domain: [e.g., "prompt engineering techniques"]
-- File count: [100+ files]
+- Domain: ["prompt engineering Prompt"]
+- File count: [2 files]
 - Primary file types: [Markdown some Json/YAML]
-- Specific focus: [All of my latest prompt that have been generated.]
+- Specific focus: [Generation of production ready documentation to go with this prompt/agent.]
 
 Please begin with safety validation and repository characterization.
 ```

@@ -25,7 +25,7 @@
   "id@@headers-one-color": true,
   "minimal-style@@active-line-on": true,
   "minimal-advanced@@font-ui-small": 14,
-  "minimal-advanced@@animations": "fast-animations",
+  "minimal-advanced@@animations": "disable-animations",
   "minimal-advanced@@font-ui-smaller": 12,
   "checkbox@@check-color": true,
   "checkbox@@check-bg": true,
@@ -40,7 +40,7 @@
   "minimal-style@@link-color-hover@@dark": "#4F0000",
   "minimal-style@@active-line-bg@@dark": "#FF000014",
   "minimal-style@@trim-cols": false,
-  "minimal-advanced@@hide-settings-desc": true,
+  "minimal-advanced@@hide-settings-desc": false,
   "minimal-style@@maximize-tables-off": "maximize-tables-auto",
   "minimal-style@@table-center": true,
   "minimal-style@@row-hover": true,
@@ -58,5 +58,6 @@
   "minimal-style@@col-alt": false,
   "minimal-style@@table-tabular": true,
   "minimal-style@@table-numbers": true,
-  "minimal-style@@table-nowrap": true
+  "minimal-style@@table-nowrap": true,
+  "minimal-advanced@@cursor": "default"
 }

@@ -87,8 +87,13 @@
 
 
 
+# Starter Prompt for Claude Code to work on the most recent prompts
 
+Instead of continuing the batch phases I think it would be most beneficial to us and the system if we instead start to process my most up to date and currently really active prompts. They are full prompts that need to be implemented into SPES framework.
+- **NOTE**: This is the first of three folder that require this treatment, two folders are around 500k tokens and the third i think was significantly smaller [as it doesn't have any associated documentation  for the prompts] at around 200k tokens.
+**FILE-LOCATION**: `D:\10_pur3v4d3r's-vault\999-v4d3r\_foundational-vader-claude-projects`
 
+These prompts have associated documentation that MUST be accessible through the prompt main file. I was thinking either we just house all the reference in there own folder in a unique location or we can have them in the same folder as the prompt main file. Either way they MUST be properly linked to each other the documents must stay connect.
 
 
 
