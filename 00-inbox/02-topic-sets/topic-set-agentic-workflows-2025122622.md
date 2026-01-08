@@ -42,7 +42,7 @@ I decomposed the domain across **8 primary dimensions**: Architectural Patterns,
 
 * **Knowledge Graph Role:** Foundational hub connecting "Prompt Engineering Fundamentals" → "Agent Frameworks" → "Production AI Systems." Prerequisite for understanding multi-agent coordination and serves as bridge to distributed systems concepts.
 
-* **6000+ Word Justification:** Architecture taxonomy (1000w) + Framework comparison (1500w) + Design patterns catalog (2000w) + Production considerations (1000w) + Case studies (500w+)
+* **6000+ Word Justification:** Architecture taxonomy (1500w) + Framework comparison (2000w) + Design patterns catalog (2000w) + Production considerations (1500w) + Case studies (750w+)
 
 ---
 

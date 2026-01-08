@@ -194,7 +194,6 @@ SORT number(rating) ASC
 
 ```dataview
 TABLE
-  type as "Type",
   title as "Title",
   source as "Source"
 FROM "00-inbox/02-topic-sets"
