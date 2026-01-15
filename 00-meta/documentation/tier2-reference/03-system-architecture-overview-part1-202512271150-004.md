@@ -335,9 +335,9 @@ graph TB
     OLLAMA[Ollama Adapter]
     
     WF --> ADAPTER
-    ADAPTER <|.. CLAUDE
-    ADAPTER <|.. GEMINI
-    ADAPTER <|.. OLLAMA
+    ADAPTER  CLAUDE
+    ADAPTER  GEMINI
+    ADAPTER  OLLAMA
     
     style ADAPTER fill:#72fff1
 ```
@@ -1168,7 +1168,6 @@ format: markdown
 - [ ] Update workflow references to v2.0.0
 - [ ] Test all affected workflows
 - [ ] Verify outputs match expectations
-```
 
 ---
 
