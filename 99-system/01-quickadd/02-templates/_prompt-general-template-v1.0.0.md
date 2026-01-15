@@ -249,7 +249,7 @@ tR += `
 
 ## 🔗 Related Prompts
 
-\`\`\`dataviewjs
+```dataviewjs
 // Find semantically related prompts
 const currentFile = dv.current();
 const currentTags = currentFile.tags || [];
@@ -282,7 +282,7 @@ if (relatedPrompts.length > 0) {
 } else {
     dv.paragraph("*No related prompts found yet. Create more prompts in this category!*");
 }
-\`\`\`
+```
 
 ---
 

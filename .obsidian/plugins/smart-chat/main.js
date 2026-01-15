@@ -521,6 +521,240 @@ return this.adapter.emit(event_key, payload);
 }
 };
 
+async function build_html(env, opts = {}) {
+const env_settings_html = Object.entries(env.settings_config).map(([setting_key, setting_config]) => {
+if (!setting_config.setting) setting_config.setting = setting_key;
+return this.render_setting_html(setting_config);
+}).join("\n");
+const env_collections_containers_html = Object.entries(env.collections).map(([collection_key, collection]) => {
+return `<div data-smart-settings="${collection_key}"></div>`;
+}).join("\n");
+const html = `
+<div class="">
+${env_settings_html}
+${env_collections_containers_html}
+</div>
+`;
+return html;
+}
+__name(build_html, "build_html");
+async function render(env, opts = {}) {
+const html = await build_html.call(this, env, opts);
+const frag = this.create_doc_fragment(html);
+return await post_process.call(this, env, frag, opts);
+}
+__name(render, "render");
+async function post_process(env, frag, opts = {}) {
+await this.render_setting_components(frag, { scope: env });
+const env_collections_containers = frag.querySelectorAll("[data-smart-settings]");
+for (const env_collections_container of env_collections_containers) {
+const collection_key = env_collections_container.dataset.smartSettings;
+const collection = env[collection_key];
+await collection.render_settings(env_collections_container);
+}
+return frag;
+}
+__name(post_process, "post_process");
+
+var SmartSettings = class {
+static {
+__name(this, "SmartSettings");
+}
+/**
+* Creates an instance of SmartEnvSettings.
+* @param {Object} main - The main object to contain the instance (smart_settings) and getter (settings)
+* @param {Object} [opts={}] - Configuration options.
+*/
+constructor(main, opts = {}) {
+this.main = main;
+this.opts = opts;
+this._fs = null;
+this._settings = {};
+this._saved = false;
+this.save_timeout = null;
+this.save_delay_ms = typeof opts.save_delay_ms === "number" ? opts.save_delay_ms : 1e3;
+}
+static async create(main, opts = {}) {
+const smart_settings = new this(main, opts);
+await smart_settings.load();
+main.smart_settings = smart_settings;
+Object.defineProperty(main, "settings", {
+get() {
+return smart_settings.settings;
+},
+set(settings) {
+smart_settings.settings = settings;
+}
+});
+return smart_settings;
+}
+static create_sync(main, opts = {}) {
+const smart_settings = new this(main, opts);
+smart_settings.load_sync();
+main.smart_settings = smart_settings;
+Object.defineProperty(main, "settings", {
+get() {
+return smart_settings.settings;
+},
+set(settings) {
+smart_settings.settings = settings;
+}
+});
+return smart_settings;
+}
+/**
+* Gets the current settings, wrapped with an observer to handle changes.
+* @returns {Proxy} A proxy object that observes changes to the settings.
+*/
+get settings() {
+return observe_object(this._settings, (change) => {
+this.emit_settings_changed(change);
+this.schedule_save();
+});
+}
+/**
+* Sets the current settings.
+* @param {Object} settings - The new settings to apply.
+*/
+set settings(settings) {
+this._settings = settings;
+}
+schedule_save() {
+if (this.save_timeout) clearTimeout(this.save_timeout);
+this.save_timeout = setTimeout(() => {
+this.save(this._settings);
+this.save_timeout = null;
+}, this.save_delay_ms);
+}
+emit_settings_changed(change) {
+const events_bus = this.resolve_events_bus();
+if (!events_bus?.emit) return;
+events_bus.emit("settings:changed", build_settings_changed_event(change));
+}
+resolve_events_bus() {
+if (this.opts.events) return this.opts.events;
+if (typeof this.opts.emit === "function") {
+return { emit: this.opts.emit };
+}
+if (this.main?.events) return this.main.events;
+if (this.main?.env?.events) return this.main.env.events;
+return null;
+}
+async save(settings = this._settings) {
+if (typeof this.opts.save === "function") await this.opts.save(settings);
+else await this.main.save_settings(settings);
+}
+async load() {
+if (typeof this.opts.load === "function") this._settings = await this.opts.load();
+else this._settings = await this.main.load_settings();
+}
+load_sync() {
+if (typeof this.opts.load === "function") this._settings = this.opts.load();
+else this._settings = this.main.load_settings();
+}
+};
+function observe_object(obj, on_change) {
+const proxy_cache = /* @__PURE__ */ new WeakMap();
+const proxy_targets = /* @__PURE__ */ new WeakMap();
+const wrap_value = /* @__PURE__ */ __name((value, path) => {
+if (!is_observable(value)) return value;
+if (proxy_targets.has(value)) return value;
+if (proxy_cache.has(value)) return proxy_cache.get(value);
+const proxy = create_proxy(value, path);
+proxy_cache.set(value, proxy);
+proxy_targets.set(proxy, value);
+return proxy;
+}, "wrap_value");
+const create_proxy = /* @__PURE__ */ __name((target, path) => new Proxy(target, {
+set(target2, property, value) {
+const property_path = [...path, property];
+const previous_snapshot = snapshot_value(target2[property]);
+const next_snapshot = snapshot_value(value);
+target2[property] = wrap_value(value, property_path);
+if (has_changed(previous_snapshot, next_snapshot)) {
+on_change({
+type: "set",
+path: property_path,
+value: next_snapshot,
+previous_value: previous_snapshot
+});
+}
+return true;
+},
+get(target2, property) {
+const result = target2[property];
+return wrap_value(result, [...path, property]);
+},
+deleteProperty(target2, property) {
+if (!Object.prototype.hasOwnProperty.call(target2, property)) {
+return true;
+}
+const property_path = [...path, property];
+const previous_snapshot = snapshot_value(target2[property]);
+delete target2[property];
+on_change({
+type: "delete",
+path: property_path,
+previous_value: previous_snapshot
+});
+return true;
+}
+}), "create_proxy");
+return wrap_value(obj, []);
+}
+__name(observe_object, "observe_object");
+function build_settings_changed_event(change) {
+const path = Array.isArray(change.path) ? change.path : [];
+return {
+type: change.type,
+path,
+path_string: path.join("."),
+value: change.value,
+previous_value: change.previous_value
+};
+}
+__name(build_settings_changed_event, "build_settings_changed_event");
+function snapshot_value(value) {
+if (!is_observable(value)) {
+return value;
+}
+if (typeof structuredClone === "function") {
+try {
+return structuredClone(value);
+} catch (error) {
+}
+}
+try {
+return JSON.parse(JSON.stringify(value));
+} catch (error) {
+return value;
+}
+}
+__name(snapshot_value, "snapshot_value");
+function has_changed(previous_snapshot, next_snapshot) {
+return serialize_value(previous_snapshot) !== serialize_value(next_snapshot);
+}
+__name(has_changed, "has_changed");
+function serialize_value(value) {
+if (value === void 0) return "undefined";
+if (Number.isNaN(value)) return "number:NaN";
+if (value === Infinity) return "number:Infinity";
+if (value === -Infinity) return "number:-Infinity";
+if (!is_observable(value)) {
+return `${typeof value}:${String(value)}`;
+}
+try {
+return `object:${JSON.stringify(value)}`;
+} catch (error) {
+return `object:${String(value)}`;
+}
+}
+__name(serialize_value, "serialize_value");
+function is_observable(value) {
+return typeof value === "object" && value !== null;
+}
+__name(is_observable, "is_observable");
+
 function deep_merge(target = {}, source = {}) {
 for (const key in source) {
 if (!Object.prototype.hasOwnProperty.call(source, key)) continue;
@@ -542,6 +776,73 @@ function camel_case_to_snake_case(str = "") {
 return str.replace(/([A-Z])/g, (m) => `_${m.toLowerCase()}`).replace(/^_/, "").replace(/2$/, "");
 }
 __name(camel_case_to_snake_case, "camel_case_to_snake_case");
+
+function normalize_opts(opts) {
+if (!opts.collections) opts.collections = {};
+if (!opts.modules) opts.modules = {};
+if (!opts.items) opts.items = {};
+Object.entries(opts.collections).forEach(([key, val]) => {
+if (typeof val === "function") {
+opts.collections[key] = { class: val };
+}
+const new_key = camel_case_to_snake_case(key);
+if (new_key !== key) {
+opts.collections[new_key] = opts.collections[key];
+delete opts.collections[key];
+}
+if (!opts.collections[new_key].collection_key) opts.collections[new_key].collection_key = new_key;
+if (val.item_type) {
+opts.items[val.item_type.key || camel_case_to_snake_case(val.item_type.name)] = {
+class: val.item_type
+};
+}
+});
+Object.entries(opts.modules).forEach(([key, val]) => {
+if (typeof val === "function") {
+opts.modules[key] = { class: val };
+}
+const new_key = camel_case_to_snake_case(key);
+if (new_key !== key) {
+opts.modules[new_key] = opts.modules[key];
+delete opts.modules[key];
+}
+});
+if (!opts.item_types) opts.item_types = {};
+if (!opts.items) opts.items = {};
+Object.entries(opts.item_types).forEach(([key, val]) => {
+if (typeof val === "function") {
+const new_key = camel_case_to_snake_case(key);
+opts.items[new_key] = {
+class: val,
+actions: {},
+...opts.items[new_key] || {}
+};
+}
+});
+return opts;
+}
+__name(normalize_opts, "normalize_opts");
+
+function is_plain_object2(value) {
+if (!value || typeof value !== "object") return false;
+const proto = Object.getPrototypeOf(value);
+return proto === Object.prototype || proto === null;
+}
+__name(is_plain_object2, "is_plain_object");
+function deep_clone_config(input) {
+if (Array.isArray(input)) {
+return input.map((item) => deep_clone_config(item));
+}
+if (is_plain_object2(input)) {
+const output = {};
+for (const [k, v] of Object.entries(input)) {
+output[k] = deep_clone_config(v);
+}
+return output;
+}
+return input;
+}
+__name(deep_clone_config, "deep_clone_config");
 
 function compare_versions(new_value, cur_value) {
 const a = normalize_version_value(new_value);
@@ -601,7 +902,7 @@ return { type: "none", parts: [0, 0, 0] };
 }
 __name(normalize_version_value, "normalize_version_value");
 
-function is_plain_object2(o) {
+function is_plain_object3(o) {
 if (o === null) return false;
 if (typeof o !== "object") return false;
 if (Array.isArray(o)) return false;
@@ -609,10 +910,10 @@ if (o instanceof Function) return false;
 if (o instanceof Date) return false;
 return Object.getPrototypeOf(o) === Object.prototype;
 }
-__name(is_plain_object2, "is_plain_object");
+__name(is_plain_object3, "is_plain_object");
 
 function deep_merge_no_overwrite(target, source, path = []) {
-if (!is_plain_object2(target) || !is_plain_object2(source)) {
+if (!is_plain_object3(target) || !is_plain_object3(source)) {
 return target;
 }
 if (path.includes(source)) {
@@ -642,8 +943,8 @@ target[key].push(item);
 target[key].push(item);
 }
 }
-} else if (is_plain_object2(val)) {
-if (!is_plain_object2(target[key])) {
+} else if (is_plain_object3(val)) {
+if (!is_plain_object3(target[key])) {
 target[key] = {};
 }
 deep_merge_no_overwrite(target[key], val, [...path]);
@@ -725,7 +1026,598 @@ return target;
 }
 __name(merge_env_config, "merge_env_config");
 
+function migrate_exclusion_settings_2025_08_22(settings = {}) {
+const { file_exclusions: file_exclusions2, folder_exclusions: folder_exclusions3, excluded_headings } = settings;
+if (file_exclusions2 !== void 0 || folder_exclusions3 !== void 0 || excluded_headings !== void 0) {
+settings.smart_sources = settings.smart_sources || {};
+if (file_exclusions2 !== void 0) {
+if (file_exclusions2.length && file_exclusions2 !== "Untitled" && (!settings.smart_sources?.file_exclusions?.length || settings.smart_sources?.file_exclusions === "Untitled")) {
+settings.smart_sources.file_exclusions = file_exclusions2;
+}
+}
+if (folder_exclusions3 !== void 0) {
+if (folder_exclusions3.length && !settings.smart_sources.folder_exclusions?.length) {
+settings.smart_sources.folder_exclusions = folder_exclusions3;
+}
+}
+if (excluded_headings !== void 0) {
+if (excluded_headings.length && !settings.smart_sources.excluded_headings?.length) {
+settings.smart_sources.excluded_headings = excluded_headings;
+}
+}
+}
+delete settings.file_exclusions;
+delete settings.folder_exclusions;
+delete settings.excluded_headings;
+return settings;
+}
+__name(migrate_exclusion_settings_2025_08_22, "migrate_exclusion_settings_2025_08_22");
+
 var ROOT_SCOPE = typeof globalThis !== "undefined" ? globalThis : Function("return this")();
+var SmartEnv = class {
+static {
+__name(this, "SmartEnv");
+}
+static version = "2.2.7";
+scope_name = "smart_env";
+static global_ref = ROOT_SCOPE;
+global_ref = this.constructor.global_ref;
+constructor(opts = {}) {
+this.state = "init";
+this._components = {};
+this.collections = {};
+this.load_timeout = null;
+this._collections_version_signature = null;
+this._events = SmartEvents.create(this, build_events_opts(this.config?.modules?.smart_events));
+if (opts.primary_main_key) this.primary_main_key = opts.primary_main_key;
+}
+/**
+* Builds or returns the cached configuration object.
+* The cache is invalidated automatically whenever the “version signature”
+* of any collection class changes (controlled by its static `version`).
+*
+* @returns {Object} the merged, up-to-date environment config
+*/
+get config() {
+const signature = this.compute_collections_version_signature();
+if (this._config && signature === this._collections_version_signature) {
+return this._config;
+}
+this._collections_version_signature = signature;
+this._config = {};
+const sorted_configs = Object.entries(this.smart_env_configs).sort(([main_key]) => {
+if (!this.primary_main_key) return 0;
+return main_key === this.primary_main_key ? -1 : 0;
+});
+for (const [key, rec] of sorted_configs) {
+if (!rec?.main) {
+console.warn(`SmartEnv: '${key}' unloaded, skipping`);
+delete this.smart_env_configs[key];
+continue;
+}
+if (!rec?.opts) {
+console.warn(`SmartEnv: '${key}' opts missing, skipping`);
+continue;
+}
+merge_env_config(
+this._config,
+deep_clone_config(normalize_opts(rec.opts))
+);
+}
+return this._config;
+}
+/**
+* Produces a deterministic string representing the current versions of every
+* collection class across all mains.  When any collection ships a higher
+* `static version`, the signature changes – automatically invalidating the
+* cached `config`.
+*
+* @returns {string} pipe-delimited version signature
+*/
+compute_collections_version_signature() {
+const list = [];
+for (const rec of Object.values(this.smart_env_configs)) {
+const { opts } = rec || {};
+if (!opts) continue;
+for (const [collection_key, def] of Object.entries(opts.collections || {})) {
+const cls = def?.class;
+const v = typeof cls?.version === "number" ? cls.version : 0;
+list.push(`${collection_key}:${v}`);
+}
+}
+return list.sort().join("|");
+}
+get env_start_wait_time() {
+if (typeof this.config.env_start_wait_time === "number") return this.config.env_start_wait_time;
+return 5e3;
+}
+static get global_env() {
+return this.global_ref.smart_env;
+}
+static set global_env(env) {
+this.global_ref.smart_env = env;
+}
+static get mains() {
+return Object.keys(this.global_ref.smart_env_configs || {});
+}
+get mains() {
+return Object.keys(this.global_ref.smart_env_configs || {});
+}
+static get should_reload() {
+if (!this.global_env) return true;
+if (this.global_env.state === "loaded") return true;
+if (typeof this.global_env?.constructor?.version === "undefined") return true;
+if (compare_versions(this.version, this.global_env.constructor?.version) > 0) {
+console.warn(
+"SmartEnv: Reloading environment because of version mismatch",
+`${this.version} > ${this.global_env.constructor.version}`
+);
+return true;
+}
+return false;
+}
+static get smart_env_configs() {
+if (!this.global_ref.smart_env_configs) this.global_ref.smart_env_configs = {};
+return this.global_ref.smart_env_configs;
+}
+get smart_env_configs() {
+if (!this.global_ref.smart_env_configs) this.global_ref.smart_env_configs = {};
+return this.global_ref.smart_env_configs;
+}
+/**
+* Serializes all collection data in the environment into a plain object.
+* @returns {object}
+*/
+to_json() {
+return Object.fromEntries(
+Object.entries(this).filter(([, val]) => typeof val?.collection_key !== "undefined").map(([key, collection]) => [key, collection_to_plain(collection)])
+);
+}
+/**
+* Waits for either a specific main to be registered in the environment,
+* or (if `opts.main` is not specified) waits for environment collections to load.
+* @param {object} opts
+* @param {object} [opts.main] - if set, the function waits until that main is found.
+* @returns {Promise<SmartEnv>} Resolves with the environment instance
+*/
+static wait_for(opts = {}) {
+return new Promise((resolve) => {
+if (opts.main) {
+const interval = setInterval(() => {
+if (this.global_env && this.global_env[opts.main]) {
+clearInterval(interval);
+resolve(this.global_env);
+}
+}, 1e3);
+} else {
+const interval = setInterval(() => {
+if (this.global_env && this.global_env.state === "loaded") {
+clearInterval(interval);
+resolve(this.global_env);
+}
+}, 100);
+}
+});
+}
+/**
+* Creates or updates a SmartEnv instance.
+* - If a global environment exists and is an older version or lacks 'init_main', it is replaced.
+* @param {Object} main - The main object to be added to the SmartEnv instance.
+* @param {Object} [env_config] - Options for configuring the SmartEnv instance.
+* @returns {SmartEnv} The SmartEnv instance.
+* @throws {TypeError} If an invalid main object is provided.
+* @throws {Error} If there's an error creating or updating the SmartEnv instance.
+*/
+static async create(main, env_config) {
+if (!main || typeof main !== "object") {
+throw new TypeError("SmartEnv: Invalid main object provided");
+}
+if (!env_config) throw new Error("SmartEnv.create: 'env_config' parameter is required.");
+env_config.version = this.version;
+this.add_main(main, env_config);
+if (this.should_reload) {
+const opts = {};
+if (this.global_env && compare_versions(this.version, this.global_env.constructor?.version || 0) > 0) {
+opts.primary_main_key = camel_case_to_snake_case(main.constructor.name);
+}
+if (this.global_env?.load_timeout) clearTimeout(this.global_env.load_timeout);
+this.global_env = new this(opts);
+const g = this.global_ref;
+if (!g.all_envs) g.all_envs = [];
+g.all_envs.push(this.global_env);
+}
+clearTimeout(this.global_env.load_timeout);
+this.global_env.load_timeout = setTimeout(async () => {
+await this.global_env.load();
+this.global_env.load_timeout = null;
+}, this.global_env.env_start_wait_time);
+return this.global_env;
+}
+static add_main(main, env_config = null) {
+if (this.global_env) {
+this.global_env._config = null;
+this.global_env._collections_version_signature = null;
+}
+const main_key = camel_case_to_snake_case(main.constructor.name);
+this.smart_env_configs[main_key] = { main, opts: env_config };
+this.create_env_getter(main);
+}
+/**
+* Creates a dynamic environment getter on any instance object.
+* The returned 'env' property will yield the global `smart_env`.
+* @param {Object} instance_to_receive_getter
+*/
+static create_env_getter(instance_to_receive_getter) {
+Object.defineProperty(instance_to_receive_getter, "env", {
+configurable: true,
+get: /* @__PURE__ */ __name(() => this.global_env, "get")
+});
+}
+create_env_getter(instance_to_receive_getter) {
+this.constructor.create_env_getter(instance_to_receive_getter);
+}
+async load() {
+this.state = "loading";
+await this.fs.load_files();
+if (!this.settings) await SmartSettings.create(this);
+if (this.config.default_settings) {
+deep_merge_no_overwrite(this.settings, this.config.default_settings);
+}
+migrate_exclusion_settings_2025_08_22(this.settings);
+this.smart_settings.save();
+await this.init_collections();
+for (const [main_key, { main, opts }] of Object.entries(this.smart_env_configs)) {
+this[main_key] = main;
+}
+await this.ready_to_load_collections();
+await this.load_collections();
+this.state = "loaded";
+}
+/**
+* Initializes collection classes if they have an 'init' function.
+* @param {Object} [config=this.config]
+*/
+async init_collections(config = this.config) {
+for (const key of Object.keys(config.collections || {})) {
+const _class = config.collections[key]?.class;
+if (!_class) continue;
+if (_class.default_settings) {
+deep_merge_no_overwrite(
+this.settings,
+{
+[key]: _class.default_settings
+}
+);
+}
+if (typeof _class.init !== "function") continue;
+await _class.init(this, { ...config.collections[key] });
+this.collections[key] = "init";
+}
+}
+/**
+* Hook/Override this method to wait for any conditions before loading collections.
+* @param {Object} main
+*/
+async ready_to_load_collections() {
+}
+/**
+* Loads any available collections, processing their load queues.
+* @param {Object} [collections=this.collections] - Key-value map of collection instances.
+*/
+async load_collections(collections = this.collections) {
+const collection_keys = Object.keys(collections || {}).sort((a, b) => {
+const order_a = this.config.collections?.[a]?.load_order || 0;
+const order_b = this.config.collections?.[b]?.load_order || 0;
+return order_a - order_b;
+});
+for (const key of collection_keys) {
+const time_start = Date.now();
+if (typeof this[key]?.process_load_queue === "function") {
+await this[key].process_load_queue();
+this[key].load_time_ms = Date.now() - time_start;
+this.collections[key] = "loaded";
+console.log(`Loaded ${this[key].collection_key} in ${this[key].load_time_ms}ms`);
+}
+}
+}
+/**
+* Removes a main from the global.smart_env_configs to exclude it on reload
+* @param {Class} main
+* @param {Object|null} [unload_config=null]
+*/
+static unload_main(main) {
+const main_key = camel_case_to_snake_case(main.constructor.name);
+this.smart_env_configs[main_key] = null;
+delete this.smart_env_configs[main_key];
+}
+unload_main(main) {
+this.constructor.unload_main(main);
+}
+/**
+* Triggers a save event in all known collections.
+*/
+save() {
+for (const key of Object.keys(this.collections)) {
+this[key].process_save_queue?.();
+}
+}
+/**
+* Initialize a module from the configured `this.opts.modules`.
+* @param {string} module_key
+* @param {object} opts
+* @returns {object|null} instance of the requested module or null if not found
+*/
+init_module(module_key, opts = {}) {
+const module_config = this.opts.modules[module_key];
+if (!module_config) {
+return console.warn(`SmartEnv: module ${module_key} not found`);
+}
+opts = {
+...{ ...module_config, class: null },
+...opts
+};
+return new module_config.class(opts);
+}
+get notices() {
+if (!this._notices) {
+const SmartNoticesClass = this.config.modules.smart_notices.class;
+this._notices = new SmartNoticesClass(this, {
+adapter: this.config.modules.smart_notices.adapter
+});
+}
+return this._notices;
+}
+/**
+* Exposes a settings template function from environment opts or defaults.
+* @returns {Function}
+*/
+get settings_template() {
+return this.opts.components?.smart_env?.settings || render;
+}
+/**
+* Renders settings UI into a container, using the environment's `settings_template`.
+* @param {HTMLElement} [container=this.settings_container]
+*/
+async render_settings(container = this.settings_container) {
+if (!this.settings_container || container !== this.settings_container) {
+this.settings_container = container;
+}
+if (!container) {
+throw new Error("Container is required");
+}
+const frag = await this.render_component("settings", this, {});
+this.smart_view.empty(container);
+container.appendChild(frag);
+return frag;
+}
+/**
+* Renders a named component using an optional scope and options.
+* @deprecated use env.smart_components.render instead (2025-10-11)
+* @param {string} component_key
+* @param {Object} scope
+* @param {Object} [opts]
+* @returns {Promise<HTMLElement>}
+*/
+async render_component(component_key, scope, opts = {}) {
+const component_renderer = this.get_component(component_key, scope);
+if (!component_renderer) {
+console.warn(`SmartEnv: component ${component_key} not found for scope ${scope.constructor.name}`);
+return this.smart_view.create_doc_fragment(`<div class="smart-env-component-not-found">
+<h1>Component Not Found</h1>
+<p>The component ${component_key} was not found for scope ${scope.constructor.name}.</p>
+</div>`);
+}
+const frag = await component_renderer(scope, opts);
+return frag;
+}
+/**
+* Retrieves or creates a memoized component renderer function.
+* @deprecated use env.smart_components instead (2025-10-11)
+* @param {string} component_key
+* @param {Object} scope
+* @returns {Function|undefined}
+*/
+get_component(component_key, scope) {
+const scope_name = scope.collection_key ?? scope.scope_name;
+const _cache_key = scope_name ? `${scope_name}-${component_key}` : component_key;
+if (!this._components[_cache_key]) {
+try {
+if (this.opts.components[scope_name]?.[component_key]) {
+const component_config = this.opts.components[scope_name][component_key];
+const component = component_config.render || component_config;
+this._components[_cache_key] = component.bind(
+this.init_module("smart_view")
+);
+} else if (this.opts.components[component_key]) {
+const component_config = this.opts.components[component_key];
+const component = component_config.render || component_config;
+this._components[_cache_key] = component.bind(
+this.init_module("smart_view")
+);
+} else {
+console.warn(
+`SmartEnv: component ${component_key} not found for scope ${scope_name}`
+);
+}
+} catch (e) {
+console.error("Error getting component", e);
+console.log(
+`scope_name: ${scope_name}; component_key: ${component_key}; this.opts.components: ${Object.keys(
+this.opts.components || {}
+).join(", ")}; this.opts.components[scope_name]: ${Object.keys(
+this.opts.components[scope_name] || {}
+).join(", ")}`
+);
+}
+}
+return this._components[_cache_key];
+}
+/**
+* A built-in settings schema for this environment.
+* @abstract
+* @returns {Object}
+*/
+get settings_config() {
+return {};
+}
+get global_prop() {
+return this.opts.global_prop ?? "smart_env";
+}
+get item_types() {
+return this.config.item_types;
+}
+get fs_module_config() {
+return this.opts.modules.smart_fs;
+}
+get fs() {
+if (!this.smart_fs) {
+this.smart_fs = new this.fs_module_config.class(this, {
+adapter: this.fs_module_config.adapter,
+fs_path: this.opts.env_path || ""
+});
+}
+return this.smart_fs;
+}
+get env_data_dir() {
+const env_settings_files = this.fs.file_paths?.filter((path) => path.endsWith("smart_env.json")) || [];
+let env_data_dir = ".smart-env";
+if (env_settings_files.length > 0) {
+if (env_settings_files.length > 1) {
+const env_data_dir_counts = env_settings_files.map((path) => {
+const dir = path.split("/").slice(-2, -1)[0];
+return {
+dir,
+count: this.fs.file_paths.filter((p) => p.includes(dir)).length
+};
+});
+env_data_dir = env_data_dir_counts.reduce(
+(max, dirObj) => dirObj.count > max.count ? dirObj : max,
+env_data_dir_counts[0]
+).dir;
+} else {
+env_data_dir = env_settings_files[0].split("/").slice(-2, -1)[0];
+}
+}
+return env_data_dir;
+}
+get data_fs() {
+if (!this._fs) {
+this._fs = new this.fs_module_config.class(this, {
+adapter: this.fs_module_config.adapter,
+fs_path: this.data_fs_path
+});
+}
+return this._fs;
+}
+get data_fs_path() {
+if (!this._data_fs_path) {
+this._data_fs_path = (this.opts.env_path + (this.opts.env_path ? this.opts.env_path.includes("\\") ? "\\" : "/" : "") + this.env_data_dir).replace(/\\\\/g, "\\").replace(/\/\//g, "/");
+}
+return this._data_fs_path;
+}
+/**
+* Saves the current settings to the file system.
+* @param {Object|null} [settings=null] - Optional settings to override the current settings before saving.
+* @returns {Promise<void>}
+*/
+async save_settings(settings) {
+this._saved = false;
+if (!await this.data_fs.exists("")) {
+await this.data_fs.mkdir("");
+}
+await this.data_fs.write("smart_env.json", JSON.stringify(settings, null, 2));
+this._saved = true;
+}
+/**
+* Loads settings from the file system, merging with any `default_settings`
+* @returns {Promise<Object>} the loaded settings
+*/
+async load_settings() {
+if (!await this.data_fs.exists("smart_env.json")) await this.save_settings({});
+let settings = JSON.parse(JSON.stringify(this.config.default_settings || {}));
+deep_merge(settings, JSON.parse(await this.data_fs.read("smart_env.json")));
+this._saved = true;
+if (this.fs.auto_excluded_files) {
+const existing_file_exclusions = settings.smart_sources.file_exclusions.split(",").map((s) => s.trim()).filter(Boolean);
+settings.smart_sources.file_exclusions = [...existing_file_exclusions, ...this.fs.auto_excluded_files].filter((value, index, self) => self.indexOf(value) === index).join(",");
+}
+return settings;
+}
+/**
+* Refreshes file-system state if exclusions changed,
+* then re-renders relevant settings UI
+*/
+async update_exclusions() {
+this.smart_sources._fs = null;
+await this.smart_sources.init_fs();
+}
+/**
+* Lazily instantiate the module 'smart_view'.
+* @deprecated use env.smart_components instead (2025-09-30)
+* @returns {object}
+*/
+get smart_view() {
+if (!this._smart_view) {
+this._smart_view = this.init_module("smart_view");
+}
+return this._smart_view;
+}
+/** @deprecated access `this.state` and `collection.state` directly instead */
+get collections_loaded() {
+return this.state === "loaded";
+}
+/** @deprecated Use this['main_class_name'] instead of this.main/this.plugin */
+get main() {
+return this.smart_env_configs[this.mains[0]]?.main;
+}
+/**
+* @deprecated use component pattern instead
+*/
+get ejs() {
+return this.opts.ejs;
+}
+/**
+* @deprecated use component pattern instead
+*/
+get templates() {
+return this.opts.templates;
+}
+/**
+* @deprecated use component pattern instead
+*/
+get views() {
+return this.opts.views;
+}
+/**
+* @deprecated use this.config instead
+*/
+get opts() {
+return this.config;
+}
+/**
+* @deprecated Use this.main_class_name instead of this.plugin
+*/
+get plugin() {
+return this.main;
+}
+};
+function collection_to_plain(collection) {
+return {
+items: Object.fromEntries(
+Object.entries(collection.items || {}).map(([key, item]) => [key, item.data])
+)
+};
+}
+__name(collection_to_plain, "collection_to_plain");
+function build_events_opts(module_config) {
+if (!module_config) return {};
+if (typeof module_config === "function") {
+return { adapter_class: module_config };
+}
+const adapter_class = module_config.adapter_class || module_config.adapter;
+return adapter_class ? { adapter_class } : {};
+}
+__name(build_events_opts, "build_events_opts");
 
 function create_regex(pattern, { case_sensitive, extended_glob, windows_paths }) {
 const regex_pattern = glob_to_regex_pattern(pattern, extended_glob);
@@ -1897,9 +2789,9 @@ ${attributes}
 * @param {Object} [opts.scope={}] - The scope to use when rendering settings (should have settings property).
 * @returns {Promise<DocumentFragment>}
 */
-async render_settings(settings_config39, opts = {}) {
-const is_fx = typeof settings_config39 === "function";
-const html = Object.entries(is_fx ? await settings_config39(opts.scope) : settings_config39).map(([setting_key, setting_config]) => {
+async render_settings(settings_config40, opts = {}) {
+const is_fx = typeof settings_config40 === "function";
+const html = Object.entries(is_fx ? await settings_config40(opts.scope) : settings_config40).map(([setting_key, setting_config]) => {
 if (!setting_config.setting) {
 setting_config.setting = setting_key;
 }
@@ -2790,20 +3682,20 @@ __name(get_item_display_name, "get_item_display_name");
 
 function create_actions_proxy(ctx, actions_source) {
 const input = actions_source || {};
-const is_plain_object8 = /* @__PURE__ */ __name((val) => typeof val === "object" && val !== null && !Array.isArray(val), "is_plain_object");
+const is_plain_object9 = /* @__PURE__ */ __name((val) => typeof val === "object" && val !== null && !Array.isArray(val), "is_plain_object");
 const is_function = /* @__PURE__ */ __name((val) => typeof val === "function", "is_function");
 const is_class_export = /* @__PURE__ */ __name((val) => is_function(val) && /^class\s/.test(Function.prototype.toString.call(val)), "is_class_export");
-const is_action_object = /* @__PURE__ */ __name((val) => is_plain_object8(val) && is_function(val.action), "is_action_object");
+const is_action_object = /* @__PURE__ */ __name((val) => is_plain_object9(val) && is_function(val.action), "is_action_object");
 const is_action_candidate = /* @__PURE__ */ __name((val) => is_function(val) || is_action_object(val) || is_class_export(val), "is_action_candidate");
 const ignored_meta_keys = /* @__PURE__ */ new Set(["length", "name", "prototype"]);
 const clone_with_descriptors = /* @__PURE__ */ __name((obj) => {
-if (!is_plain_object8(obj)) return obj;
+if (!is_plain_object9(obj)) return obj;
 const out = Object.create(Object.getPrototypeOf(obj) || null);
 for (const key of Reflect.ownKeys(obj)) {
 const descriptor = Object.getOwnPropertyDescriptor(obj, key);
 if (!descriptor) continue;
 const next = { ...descriptor };
-if ("value" in next && is_plain_object8(next.value)) {
+if ("value" in next && is_plain_object9(next.value)) {
 next.value = clone_with_descriptors(next.value);
 }
 try {
@@ -2815,7 +3707,7 @@ out[key] = next.value;
 return out;
 }, "clone_with_descriptors");
 const should_bucket_actions = /* @__PURE__ */ __name((val) => {
-if (!is_plain_object8(val)) return false;
+if (!is_plain_object9(val)) return false;
 if (is_action_object(val)) return false;
 const keys = Reflect.ownKeys(val);
 if (keys.length === 0) return false;
@@ -2829,7 +3721,7 @@ if (is_action_candidate(entry)) {
 found_candidate = true;
 continue;
 }
-if (is_plain_object8(entry)) {
+if (is_plain_object9(entry)) {
 if (should_bucket_actions(entry)) {
 found_candidate = true;
 continue;
@@ -2846,7 +3738,7 @@ return found_candidate;
 const clone_descriptor = /* @__PURE__ */ __name((descriptor) => {
 if (!descriptor) return descriptor;
 if (!("value" in descriptor)) return { ...descriptor };
-const cloned = is_plain_object8(descriptor.value) ? clone_with_descriptors(descriptor.value) : descriptor.value;
+const cloned = is_plain_object9(descriptor.value) ? clone_with_descriptors(descriptor.value) : descriptor.value;
 return { ...descriptor, value: cloned };
 }, "clone_descriptor");
 const build_sources = /* @__PURE__ */ __name((src) => {
@@ -2911,7 +3803,7 @@ const bound = val.bind(ctx);
 copy_metadata(val, bound);
 return bound;
 }
-if (is_plain_object8(val)) {
+if (is_plain_object9(val)) {
 return clone_with_descriptors(val);
 }
 return val;
@@ -2920,7 +3812,7 @@ const scope_actions_for = /* @__PURE__ */ __name(() => {
 const scope_key = ctx?.constructor?.key;
 if (typeof scope_key === "undefined" || scope_key === null) return null;
 const bucket = scoped_sources.get(scope_key);
-return bucket && is_plain_object8(bucket) ? bucket : null;
+return bucket && is_plain_object9(bucket) ? bucket : null;
 }, "scope_actions_for");
 const cache_result = /* @__PURE__ */ __name((target, prop, value) => {
 target[prop] = value;
@@ -3854,7 +4746,7 @@ __name(this, "EntitiesVectorAdapter");
 }
 /**
 * @constructor
-* @param {Object} collection - The collection (SmartEntities or derived class) instance.
+* @param {import('smart-entities').SmartEntities} collection - The collection (SmartEntities or derived class) instance.
 */
 constructor(collection) {
 this.collection = collection;
@@ -3864,7 +4756,7 @@ this.collection = collection;
 * @async
 * @param {number[]} vec - The reference vector.
 * @param {Object} [filter={}] - Optional filters (limit, exclude, etc.)
-* @returns {Promise<Array<{item:Object, score:number}>>} Array of results sorted by score descending.
+* @returns {Promise<Array<{item: import('smart-entities').SmartEntity, score:number}>>} Array of results sorted by score descending.
 * @abstract
 * @throws {Error} Not implemented by default.
 */
@@ -3876,7 +4768,7 @@ throw new Error("EntitiesVectorAdapter.nearest() not implemented");
 * @async
 * @param {number[]} vec - The reference vector.
 * @param {Object} [filter={}] - Optional filters (limit, exclude, etc.)
-* @returns {Promise<Array<{item:Object, score:number}>>} Array of results sorted by score ascending (furthest).
+* @returns {Promise<Array<{item: import('smart-entities').SmartEntity, score:number}>>} Array of results sorted by score ascending (furthest).
 * @abstract
 * @throws {Error} Not implemented by default.
 */
@@ -3913,7 +4805,7 @@ __name(this, "EntityVectorAdapter");
 }
 /**
 * @constructor
-* @param {Object} item - The SmartEntity instance that this adapter is associated with.
+* @param {import('smart-entities').SmartEntity} item - The SmartEntity instance that this adapter is associated with.
 */
 constructor(item) {
 this.item = item;
@@ -5210,7 +6102,7 @@ console.error(`Error during remove for ${this.key}:`, error);
 * Handles the destination as a string (new path) or entity (block or source).
 *
 * @async
-* @param {string|Object|SmartEntity} entity_ref - The destination path or entity to move to.
+* @param {string|SmartEntity} entity_ref - The destination path or entity to move to.
 * @throws {Error} If the entity reference is invalid.
 * @returns {Promise<void>} A promise that resolves when the move operation is complete.
 */
@@ -7272,6 +8164,29 @@ return result.sort(
 }
 __name(get_markdown_links, "get_markdown_links");
 
+function get_bases_cache_links({ source, links = [], cache } = {}) {
+if (!source || !Array.isArray(links) || !links.length) return [];
+const cache_items = cache || source?.env?.bases_caches?.items;
+if (!cache_items) return [];
+const source_key = source?.key || source?.path;
+if (!source_key) return [];
+return links.flatMap((link) => {
+if (!link?.embedded) return [];
+if (typeof link.target !== "string" || !link.target.includes(".base")) return [];
+const cache_key = `${source_key}#${link.target}`;
+const markdown_table = cache_items?.[cache_key]?.markdown_table;
+if (!markdown_table) return [];
+const table_links = get_markdown_links(markdown_table);
+if (!table_links.length) return [];
+return table_links.map((table_link) => ({
+...table_link,
+line: link.line,
+bases_row: table_link.line - 2
+}));
+});
+}
+__name(get_bases_cache_links, "get_bases_cache_links");
+
 function parse_value(raw_value) {
 const trimmed = raw_value.trim();
 if (trimmed.startsWith('"') && trimmed.endsWith('"') || trimmed.startsWith("'") && trimmed.endsWith("'")) {
@@ -7424,7 +8339,15 @@ this.data.metadata = metadata;
 async get_links(content = null) {
 if (!content) content = await this.read();
 if (!content) return;
-return get_markdown_links(content);
+const markdown_links = get_markdown_links(content);
+const bases_links = get_bases_cache_links({
+source: this.item,
+links: markdown_links
+});
+return [
+...markdown_links,
+...bases_links
+];
 }
 async get_metadata(content = null) {
 if (!content) content = await this.read();
@@ -7577,12 +8500,84 @@ async import() {
 }
 };
 
+function parse_canvas_json({ content } = {}) {
+if (!content) return null;
+try {
+return JSON.parse(content);
+} catch (error) {
+console.warn("CanvasSourceContentAdapter: invalid JSON content.", error);
+return null;
+}
+}
+__name(parse_canvas_json, "parse_canvas_json");
+function build_link_record({ target, title } = {}) {
+if (!target) return null;
+return {
+title: title || target,
+target,
+line: 1
+};
+}
+__name(build_link_record, "build_link_record");
+function get_canvas_node_links({ node } = {}) {
+if (!node || typeof node !== "object") return [];
+if (node.type === "text" && typeof node.text === "string") {
+return get_markdown_links(node.text);
+}
+if (node.type === "file" && typeof node.file === "string") {
+const subpath = typeof node.subpath === "string" ? node.subpath : "";
+const target = `${node.file}${subpath}`;
+const record = build_link_record({ target, title: node.file });
+return record ? [record] : [];
+}
+if (node.type === "link" && typeof node.url === "string") {
+const record = build_link_record({ target: node.url, title: node.url });
+return record ? [record] : [];
+}
+return [];
+}
+__name(get_canvas_node_links, "get_canvas_node_links");
+function get_canvas_links_from_nodes({ nodes = [] } = {}) {
+if (!Array.isArray(nodes)) return [];
+return nodes.reduce((links, node) => {
+links.push(...get_canvas_node_links({ node }));
+return links;
+}, []);
+}
+__name(get_canvas_links_from_nodes, "get_canvas_links_from_nodes");
+function get_canvas_links({ content } = {}) {
+const canvas_data = parse_canvas_json({ content });
+if (!canvas_data?.nodes) return [];
+return get_canvas_links_from_nodes({ nodes: canvas_data.nodes });
+}
+__name(get_canvas_links, "get_canvas_links");
 var CanvasSourceContentAdapter = class extends FileSourceContentAdapter {
 static {
 __name(this, "CanvasSourceContentAdapter");
 }
 static extensions = ["canvas"];
 async import() {
+if (!this.item.file) {
+console.warn(`CanvasSourceContentAdapter: Skipping missing-file: ${this.file_path}`);
+return;
+}
+const content = await this.read();
+if (!content) return;
+if (this.data.last_import?.hash === this.data.last_read?.hash && Array.isArray(this.data.outlinks)) {
+return;
+}
+this.data.outlinks = get_canvas_links({ content });
+const file_stat = this.item.file?.stat;
+const size = file_stat?.size ?? content.length;
+const mtime = file_stat?.mtime ?? 0;
+this.data.last_import = {
+mtime,
+size,
+at: Date.now(),
+hash: this.data.last_read?.hash
+};
+this.item.loaded_at = Date.now();
+this.item.queue_save();
 }
 };
 
@@ -7752,6 +8747,9 @@ this.queue_save();
 async move_to(to_key) {
 await this.block_adapter.move_to(to_key);
 this.queue_save();
+}
+get_display_name(params = {}) {
+return this.block_adapter?.get_display_name(params);
 }
 /**
 * Retrieves the breadcrumbs representing the block's path within the source.
@@ -8217,7 +9215,7 @@ __name(this, "BlockContentAdapter");
 }
 /**
 * @constructor
-* @param {Object} item - The SmartBlock instance this adapter operates on.
+* @param {import('smart-blocks').SmartBlock} item - The SmartBlock instance this adapter operates on.
 * The `item` should at least provide `data` and references to its parent source.
 */
 constructor(item) {
@@ -8275,6 +9273,16 @@ throw new Error("Not implemented");
 * @throws {Error} If not implemented by subclass.
 */
 async move_to(to_key) {
+throw new Error("Not implemented");
+}
+/**
+* @method get_display_name
+* @abstract
+* @param {Object} params Parameters for display name generation.
+* @returns {string} The display name of the block.
+* @throws {Error} If not implemented by subclass.
+*/
+get_display_name(params) {
 throw new Error("Not implemented");
 }
 /**
@@ -8456,6 +9464,28 @@ return get_line_range2(source_content, line_start, line_end);
 */
 async _reparse_source() {
 await this.item.source.import();
+}
+get_display_name(params = {}) {
+if (!this.item?.key) return "";
+const show_full_path = params.show_full_path ?? true;
+if (show_full_path) {
+return this.item.key.replace(/#/g, " > ").replace(/\//g, " > ");
+}
+const pcs = [];
+const [source_key, ...block_parts] = this.item.key.split("#");
+const filename = source_key.split("/").pop();
+pcs.push(filename);
+if (block_parts.length) {
+const last = block_parts[block_parts.length - 1];
+if (last.startsWith("{") && last.endsWith("}")) {
+block_parts.pop();
+pcs.push(block_parts.pop());
+if (this.item.lines) pcs.push(`Lines: ${this.item.lines.join("-")}`);
+} else {
+pcs.push(block_parts.pop());
+}
+}
+return pcs.filter(Boolean).join(" > ");
 }
 };
 
@@ -10573,7 +11603,10 @@ static defaults = {
 adapter: "gemini",
 description: "Google Gemini (API)",
 default_model: "gemini-embedding-001",
-endpoint: "https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents"
+endpoint: "https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents",
+dims: 768,
+max_tokens: 2048,
+batch_size: 50
 };
 /**
 * Count tokens in input text using tokenizer
@@ -10664,7 +11697,7 @@ return Promise.resolve(this.models);
 get models() {
 return {
 "gemini-embedding-001": {
-"id": "models/gemini-embedding-001",
+"id": "gemini-embedding-001",
 "batch_size": 50,
 "dims": 768,
 "max_tokens": 2048,
@@ -10681,10 +11714,51 @@ return {
 "x-goog-api-key": this.api_key
 };
 }
+backoff_wait_time = 5e3;
+backoff_factor = 1;
+async embed_batch(inputs, retries = 0) {
+if (smart_env.smart_sources.entities_vector_adapter.is_queue_halted) {
+throw new Error("Embedding queue halted during backoff wait due to rate limit errors.");
+}
+const token_cts = inputs.map((item) => this.estimate_tokens(item.embed_input));
+const resp = await super.embed_batch(inputs);
+if (resp[0].error && resp[0].error.details && resp[0].error.details.code === 429) {
+console.warn("Rate limit error detected in Gemini embed_batch response.", resp);
+if (retries > 3) {
+console.error("Max retries reached for rate limit errors.");
+throw new Error("Max retries reached for rate limit errors.");
+}
+console.warn(resp[0].error.message);
+const retry_detail = resp[0].error.details?.details?.find((d) => d.retryDelay);
+if (retry_detail.retryDelay) {
+const wait_time_ms = parseInt(retry_detail.retryDelay) * 1e3 * 2;
+console.warn(`Using server-specified retry delay of ${wait_time_ms} ms`);
+await new Promise((resolve) => setTimeout(resolve, wait_time_ms));
+return await this.embed_batch(inputs, retries + 1);
+} else {
+this.backoff_factor += 1;
+console.warn(`Rate limit exceeded, backing off for ${this.backoff_wait_time * this.backoff_factor} ms`);
+await new Promise((resolve) => setTimeout(resolve, this.backoff_wait_time * this.backoff_factor));
+return await this.embed_batch(inputs, retries + 1);
+}
+} else if (resp[0].error) {
+console.error("Error in Gemini embed_batch response:", resp[0].error);
+throw new Error(`Gemini embed_batch error: ${resp[0].error.message}`);
+}
+resp.forEach((item, idx) => {
+item.tokens = token_cts[idx];
+});
+console.log("Gemini embed_batch response:", resp);
+return resp;
+}
 };
 var SmartEmbedGeminiRequestAdapter = class extends SmartEmbedModelRequestAdapter {
 static {
 __name(this, "SmartEmbedGeminiRequestAdapter");
+}
+get model_id() {
+let model_id = this.adapter.model.data.model_key;
+return `models/${model_id}`;
 }
 /**
 * Prepare request body for Gemini API
@@ -10742,7 +11816,7 @@ return { vec: [], tokens: 0 };
 }
 return {
 vec: embedding.values,
-tokens: 500
+tokens: null
 };
 });
 }
@@ -14087,11 +15161,18 @@ if (existing_block && existing_block.lines[0] === line_range[0] && existing_bloc
 continue;
 }
 const block_outlinks = get_markdown_links(block_content);
+const bases_links = get_bases_cache_links({
+source,
+links: block_outlinks
+});
 const block_data = {
 key: block_key,
 lines: line_range,
 size: block_content.length,
-outlinks: block_outlinks,
+outlinks: [
+...block_outlinks,
+...bases_links
+],
 last_read: {
 at: last_read_at,
 hash: murmur_hash_32_alphanumeric(block_content)
@@ -14591,6 +15672,16 @@ return !parents.has(base);
 }
 __name(filter_redundant_context_items, "filter_redundant_context_items");
 
+var remove_context_item_data = /* @__PURE__ */ __name((context_items, key) => {
+if (!key || !context_items?.[key]) return false;
+if (context_items[key].folder) {
+if (context_items[key].exclude) return false;
+context_items[key].exclude = true;
+return true;
+}
+delete context_items[key];
+return true;
+}, "remove_context_item_data");
 var SmartContext = class extends CollectionItem {
 static {
 __name(this, "SmartContext");
@@ -14648,16 +15739,37 @@ this.emit_event("context:updated", { added_items: items.map((item) => typeof ite
 * remove_item
 * Removes a path/ref from context and emits context:updated
 * @param {string} key
+* @param {object} params
+* @param {boolean} params.emit_updated
 */
-remove_item(key) {
-if (!key || !this.data?.context_items?.[key]) return;
-if (this.data.context_items[key].folder) {
-this.data.context_items[key].exclude = true;
-} else {
-delete this.data.context_items[key];
-}
+remove_item(key, params = {}) {
+const { emit_updated = true } = params;
+const removed = remove_context_item_data(this.data.context_items, key);
+if (!removed) return;
 this.queue_save();
-this.emit_event("context:updated", { removed_key: key });
+if (emit_updated) this.emit_event("context:updated", { removed_key: key, removed_keys: [key] });
+}
+/**
+* remove_items
+* Removes paths/refs from context and emits context:updated once
+* @param {string[]|string} keys
+* @param {object} params
+* @param {boolean} params.emit_updated
+* @returns {string[]}
+*/
+remove_items(keys, params = {}) {
+const { emit_updated = true } = params;
+const items = Array.isArray(keys) ? keys : [keys];
+const removed_keys = [];
+items.forEach((item_key) => {
+if (remove_context_item_data(this.data.context_items, item_key)) {
+removed_keys.push(item_key);
+}
+});
+if (!removed_keys.length) return [];
+this.queue_save();
+if (emit_updated) this.emit_event("context:updated", { removed_keys });
+return removed_keys;
 }
 clear_all() {
 this.data.context_items = {};
@@ -14710,7 +15822,7 @@ else this.emit_get_text_error(item, item_text);
 }
 const context_items_text = segments.join("\n");
 if (typeof this.actions.context_merge_template === "function") {
-return await this.actions.context_merge_template(context_items_text, context_items);
+return await this.actions.context_merge_template(context_items_text, { context_items });
 }
 return context_items_text;
 }
@@ -14731,9 +15843,12 @@ const config = this.env.config.collections.context_items;
 const Class = config.class;
 this._context_items = new Class(this.env, { ...config, class: null });
 this._context_items.load_from_data(this.data.context_items || {});
+if (!this._context_items_listener_registered) {
 this.on_event("context:updated", () => {
 this._context_items = null;
 });
+this._context_items_listener_registered = true;
+}
 }
 return this._context_items;
 }
@@ -14816,6 +15931,7 @@ return item;
 */
 static get default_settings() {
 return {
+template_preset: "xml_structured",
 template_before: "<context>\n{{FILE_TREE}}",
 template_after: "</context>"
 };
@@ -15089,6 +16205,7 @@ return this.context_item_adapters.find((adapter_class) => adapter_class.detect(k
 }
 static get default_settings() {
 return {
+template_preset: "xml_structured",
 template_before: '<item loc="{{KEY}}" at="{{TIME_AGO}}">',
 template_after: "</item>"
 };
@@ -15334,7 +16451,10 @@ return item;
 open(params = {}) {
 super.open();
 this.modalEl.addEventListener("keydown", (e) => {
-if (e.key === "Enter") this.selectActiveSuggestion(e);
+if (e.key === "Enter") {
+if (e.shiftKey) this.use_shift_select = true;
+this.selectActiveSuggestion(e);
+}
 const is_cursor_end_of_input = this.inputEl.selectionStart === this.inputEl.value.length;
 if (e.target !== this.inputEl || !this.inputEl.value || is_cursor_end_of_input || import_obsidian4.Keymap.isModEvent(e)) {
 if (e.key === "ArrowLeft") {
@@ -15431,10 +16551,12 @@ this.prevent_close = true;
 const suggestion = selected.item;
 const is_arrow_left = this.use_arrow_left;
 const is_arrow_right = this.use_arrow_right;
+const is_shift_select = evt?.shiftKey || this.use_shift_select;
 const is_mod_select = import_obsidian4.Keymap.isModifier(evt, "Mod") || this.use_mod_select;
 this.use_arrow_right = false;
 this.use_mod_select = false;
 this.use_arrow_left = false;
+this.use_shift_select = false;
 if (is_arrow_left) {
 if (typeof suggestion.arrow_left_action === "function") {
 this.handle_choose_action(suggestion, "arrow_left_action");
@@ -15456,6 +16578,8 @@ return;
 this.handle_choose_action(suggestion, "arrow_right_action");
 } else if (is_mod_select && typeof suggestion.mod_select_action === "function") {
 this.handle_choose_action(suggestion, "mod_select_action");
+} else if (is_shift_select && typeof suggestion.shift_select_action === "function") {
+this.handle_choose_action(suggestion, "shift_select_action");
 } else if (typeof suggestion.select_action === "function") {
 this.handle_choose_action(suggestion, "select_action");
 } else {
@@ -15569,6 +16693,7 @@ this.contentEl.empty();
 };
 
 var import_obsidian7 = require("obsidian");
+var MILESTONES_HELP_URL = "https://smartconnections.app/smart-environment/milestones/?utm_source=milestones_modal_help";
 var MilestonesModal = class extends import_obsidian7.Modal {
 static {
 __name(this, "MilestonesModal");
@@ -15578,7 +16703,7 @@ super(app2);
 this.env = env;
 }
 async onOpen() {
-this.titleEl.setText("Smart Milestones");
+render_milestones_modal_title(this.titleEl, this.env);
 this.contentEl.empty();
 const milestones = await this.env.smart_components.render_component("milestones", this.env, {});
 this.contentEl.appendChild(milestones);
@@ -15587,6 +16712,56 @@ onClose() {
 this.contentEl.empty();
 }
 };
+function render_milestones_modal_title(title_el, env) {
+if (!title_el) return;
+title_el.empty();
+title_el.classList.add("sc-milestones-modal__title");
+const row_el = document.createElement("div");
+row_el.className = "sc-milestones-modal__title-row";
+const text_el = document.createElement("div");
+text_el.className = "sc-milestones-modal__title-text";
+text_el.textContent = "Smart Milestones";
+const help_btn_el = document.createElement("button");
+help_btn_el.type = "button";
+help_btn_el.className = "sc-milestones-modal__help-btn";
+help_btn_el.setAttribute("aria-label", "Open Smart Milestones help");
+help_btn_el.setAttribute("title", "Help");
+render_help_icon(help_btn_el);
+help_btn_el.addEventListener("click", (evt) => {
+evt.preventDefault();
+evt.stopPropagation();
+try {
+env?.events?.emit?.("milestones:help", {});
+} catch (err) {
+}
+window.open(MILESTONES_HELP_URL, "_external");
+});
+row_el.appendChild(text_el);
+row_el.appendChild(help_btn_el);
+title_el.appendChild(row_el);
+}
+__name(render_milestones_modal_title, "render_milestones_modal_title");
+function render_help_icon(icon_el) {
+const ok = set_icon_with_fallback(icon_el, ["circle-help", "help-circle", "help", "info"]);
+if (!ok) icon_el.textContent = "?";
+}
+__name(render_help_icon, "render_help_icon");
+function set_icon_with_fallback(icon_el, icon_ids) {
+if (!icon_el) return false;
+const ids = Array.isArray(icon_ids) ? icon_ids : [];
+for (const icon_id of ids) {
+if (typeof icon_id !== "string" || icon_id.length === 0) continue;
+icon_el.textContent = "";
+try {
+(0, import_obsidian7.setIcon)(icon_el, icon_id);
+} catch (err) {
+continue;
+}
+if (icon_el.querySelector("svg")) return true;
+}
+return false;
+}
+__name(set_icon_with_fallback, "set_icon_with_fallback");
 
 var default_settings = {
 is_obsidian_vault: true,
@@ -15997,8 +17172,8 @@ return {
 "description": "Local, 512 tokens, 384 dim",
 "adapter": "transformers"
 },
-"intfloat/multilingual-e5-small": {
-"id": "intfloat/multilingual-e5-small",
+"Xenova/multilingual-e5-small": {
+"id": "Xenova/multilingual-e5-small",
 "batch_size": 1,
 "dims": 384,
 "max_tokens": 512,
@@ -16145,7 +17320,7 @@ return key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 __name(format_collection_name, "format_collection_name");
 
-async function build_html(collection, opts = {}) {
+async function build_html2(collection, opts = {}) {
 const settings_html = Object.entries(collection.settings_config).map(([setting_key, setting_config]) => {
 if (!setting_config.setting) setting_config.setting = setting_key;
 return this.render_setting_html(setting_config);
@@ -16156,9 +17331,9 @@ ${settings_html}
 </div></div></div>`;
 return html;
 }
-__name(build_html, "build_html");
+__name(build_html2, "build_html");
 async function render2(collection, opts = {}) {
-const html = await build_html.call(this, collection, opts);
+const html = await build_html2.call(this, collection, opts);
 const frag = this.create_doc_fragment(html);
 await this.render_setting_components(frag, { scope: collection });
 if (opts.settings_container) {
@@ -16251,7 +17426,7 @@ if (!label) return "";
 return `<span class="${class_name}">${label}</span>`;
 }
 __name(build_badge_html, "build_badge_html");
-function build_html2(context_item, params = {}) {
+function build_html3(context_item, params = {}) {
 let name;
 if (context_item.item_ref) {
 if (context_item.item_ref.key.includes("#")) {
@@ -16280,16 +17455,16 @@ ${score_html}
 ${size_html}
 </span>`;
 }
-__name(build_html2, "build_html");
+__name(build_html3, "build_html");
 async function render3(context_item, params = {}) {
-const html = build_html2(context_item, params);
+const html = build_html3(context_item, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process.call(this, context_item, container, params);
+post_process2.call(this, context_item, container, params);
 return container;
 }
 __name(render3, "render");
-async function post_process(context_item, container, params = {}) {
+async function post_process2(context_item, container, params = {}) {
 const env = context_item.env;
 const remove_btn = container.querySelector(".sc-context-item-remove");
 if (remove_btn) {
@@ -16312,9 +17487,9 @@ context_item.open(event);
 });
 return container;
 }
-__name(post_process, "post_process");
+__name(post_process2, "post_process");
 
-async function build_html3(env, opts = {}) {
+async function build_html4(env, opts = {}) {
 const lines = [];
 lines.push(`<h2>Collections</h2>`);
 const collection_keys = Object.keys(env.collections).filter((key) => ["smart_sources", "smart_blocks"].includes(key)).sort((a, b) => {
@@ -16342,17 +17517,17 @@ ${lines.join("\n")}
 </div>
 `;
 }
-__name(build_html3, "build_html");
+__name(build_html4, "build_html");
 async function render4(env, opts = {}) {
-const html = await build_html3.call(this, env, opts);
+const html = await build_html4.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
-return await post_process2.call(this, env, frag, opts);
+return await post_process3.call(this, env, frag, opts);
 }
 __name(render4, "render");
-async function post_process2(env, frag, opts = {}) {
+async function post_process3(env, frag, opts = {}) {
 return frag;
 }
-__name(post_process2, "post_process");
+__name(post_process3, "post_process");
 function generate_collection_stats(collection, collectionKey) {
 const total_items = Object.values(collection.items).length;
 const niceName = format_collection_name(collectionKey);
@@ -16407,17 +17582,17 @@ return `<p><strong>Embedding coverage:</strong> ${percent}% (${stats.embedded} /
 __name(calculate_embed_coverage, "calculate_embed_coverage");
 
 var import_obsidian11 = require("obsidian");
-function build_html4(scope, params = {}) {
+function build_html5(scope, params = {}) {
 return `<div class="smart-form-dropdown-component"></div>`;
 }
-__name(build_html4, "build_html");
+__name(build_html5, "build_html");
 async function render5(scope, params = {}) {
-const html = build_html4.call(this, scope, params);
+const html = build_html5.call(this, scope, params);
 const frag = this.create_doc_fragment(html);
-return await post_process3.call(this, scope, frag, params);
+return await post_process4.call(this, scope, frag, params);
 }
 __name(render5, "render");
-async function post_process3(scope, container, params = {}) {
+async function post_process4(scope, container, params = {}) {
 if (!scope) {
 container.textContent = "Error: scope is required for dropdown component.";
 return container;
@@ -16484,11 +17659,11 @@ select_el.removeEventListener("change", handler);
 });
 return container;
 }
-__name(post_process3, "post_process");
+__name(post_process4, "post_process");
 render5.version = 0.2;
 
 var import_obsidian12 = require("obsidian");
-function build_html5(env, opts = {}) {
+function build_html6(env, opts = {}) {
 return `<div class="wrapper">
 <div id="lean-coffee-callout" data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout" style="mix-blend-mode: unset;">
 <div class="callout-title" style="align-items: center;">
@@ -16515,9 +17690,9 @@ stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info">
 </div>
 </div>`;
 }
-__name(build_html5, "build_html");
+__name(build_html6, "build_html");
 function render6(env, opts = {}) {
-const html = build_html5.call(this, env, opts);
+const html = build_html6.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const callout = frag.querySelector("#lean-coffee-callout");
 const icon_container = callout.querySelector(".callout-icon");
@@ -16526,13 +17701,13 @@ if (icon) {
 this.empty(icon_container);
 icon_container.appendChild(icon);
 }
-post_process4.call(this, env, callout, opts);
+post_process5.call(this, env, callout, opts);
 return callout;
 }
 __name(render6, "render");
-function post_process4(env, callout) {
+function post_process5(env, callout) {
 }
-__name(post_process4, "post_process");
+__name(post_process5, "post_process");
 
 var milestones_default = `.sc-events-checklist {\r
 display: flex;\r
@@ -16781,11 +17956,122 @@ transform: translateY(-0.03em);\r
 background-color: var(--interactive-accent-hover);\r
 filter: brightness(1.05);\r
 }\r
+\r
+/* Milestones modal: title row help icon */\r
+.sc-milestones-modal__title {\r
+width: 100%;\r
+}\r
+\r
+.sc-milestones-modal__title-row {\r
+display: flex;\r
+align-items: center;\r
+gap: var(--size-4-2);\r
+width: 100%;\r
+}\r
+\r
+.sc-milestones-modal__title-text {\r
+min-width: 0;\r
+}\r
+\r
+.sc-milestones-modal__help-btn {\r
+display: inline-flex;\r
+align-items: center;\r
+justify-content: center;\r
+\r
+width: 28px;\r
+height: 28px;\r
+padding: 0;\r
+border-radius: var(--radius-s);\r
+\r
+background: transparent;\r
+border: 1px solid transparent;\r
+color: var(--text-muted);\r
+\r
+cursor: pointer;\r
+}\r
+\r
+.sc-milestones-modal__help-btn svg {\r
+width: 18px;\r
+height: 18px;\r
+}\r
+\r
+.sc-milestones-modal__help-btn:hover {\r
+background: var(--background-modifier-hover);\r
+border-color: var(--background-modifier-border);\r
+color: var(--text-normal);\r
+}\r
+\r
+.sc-milestones-modal__help-btn:active {\r
+transform: translateY(1px);\r
+}\r
+\r
+.sc-milestones-modal__help-btn:focus-visible {\r
+outline: 2px solid var(--interactive-accent);\r
+outline-offset: 2px;\r
+background: var(--background-modifier-hover);\r
+border-color: var(--interactive-accent);\r
+}\r
 `;
 
 var import_obsidian14 = require("obsidian");
 
 var import_obsidian13 = require("obsidian");
+var PLUGIN_INSTALL_EVENT_CONFIG = {
+"connections:installed": {
+ids: ["smart-connections"]
+},
+"connections_pro:installed": {
+ids: ["smart-connections"],
+require_pro_name: true
+},
+"context:installed": {
+ids: ["smart-context"]
+},
+"context_pro:installed": {
+ids: ["smart-context"],
+require_pro_name: true
+},
+"chat:installed": {
+ids: ["smart-chatgpt", "smart-chat"]
+},
+"chat_pro:installed": {
+ids: ["smart-chat"],
+require_pro_name: true
+}
+};
+function register_first_of_event_notifications(env) {
+env.events.on("event_log:first", (data) => {
+const event_key = data?.first_of_event_key;
+if (typeof event_key === "string" && event_key in EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY) {
+const frag = document.createDocumentFragment();
+const msg = `You achieved a new Smart Milestone \u{1F389}`;
+const msg_el = document.createElement("p");
+msg_el.textContent = msg;
+frag.appendChild(msg_el);
+const milestone_el = document.createElement("p");
+milestone_el.textContent = `\u2705 ${EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY[event_key].milestone}`;
+milestone_el.style.color = "var(--color-green)";
+milestone_el.style.fontStyle = "italic";
+frag.appendChild(milestone_el);
+const btn = document.createElement("button");
+btn.textContent = "View milestones";
+btn.addEventListener("click", () => {
+env.open_milestones_modal();
+});
+frag.appendChild(btn);
+new import_obsidian13.Notice(frag, 7e3);
+}
+});
+}
+__name(register_first_of_event_notifications, "register_first_of_event_notifications");
+function check_if_event_emitted(env, event_key) {
+const plugin_event_state = resolve_plugin_install_event(env, event_key);
+if (plugin_event_state === true) return true;
+if (env?.event_logs?.items?.[event_key]) return true;
+if (plugin_event_state === false) return false;
+return false;
+}
+__name(check_if_event_emitted, "check_if_event_emitted");
 var EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY = {
 "sources:import_completed": {
 group: "Environment",
@@ -16796,6 +18082,11 @@ link: "https://smartconnections.app/smart-environment/settings/?utm_source=miles
 group: "Environment",
 milestone: "Initial embedding completed, you are ready to make connections!",
 link: "https://smartconnections.app/smart-environment/settings/?utm_source=milestones#embedding-models"
+},
+"connections:installed": {
+group: "Connections",
+milestone: "Installed Smart Connections (core plugin).",
+link: "https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones"
 },
 "connections:opened": {
 group: "Connections",
@@ -16826,6 +18117,17 @@ link: "https://smartconnections.app/smart-connections/list-feature/?utm_source=m
 group: "Connections",
 milestone: "Previewed a connection by holding cmd/ctrl while hovering the result.",
 link: "https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#core-interactions"
+},
+"connections:open_random": {
+group: "Connections",
+milestone: "Opened a random connection from Smart Connections.",
+link: "https://smartconnections.app/smart-connections/getting-started/?utm_source=milestones#open-a-random-connection"
+},
+"connections_pro:installed": {
+group: "Connections Pro",
+milestone: "Installed Smart Connections Pro.",
+link: "https://smartconnections.app/pro-plugins/?utm_source=milestones#connections-pro",
+is_pro: true
 },
 "lookup:hover_preview": {
 group: "Lookup",
@@ -16873,10 +18175,21 @@ milestone: "Renamed a Smart Context (increased clarity).",
 link: "https://smartconnections.app/smart-context/builder/?utm_source=milestones#save-reuse"
 },
 "context:copied_with_media": {
-group: "Context",
+group: "Context Pro",
 milestone: "Copied context with media (images/PDF pages) for multimodal workflows.",
 link: "https://smartconnections.app/smart-context/clipboard/?utm_source=milestones#copy-modes",
 is_pro: true
+},
+"context_pro:installed": {
+group: "Context Pro",
+milestone: "Installed Smart Context Pro.",
+link: "https://smartconnections.app/pro-plugins/?utm_source=milestones#context-pro",
+is_pro: true
+},
+"chat:installed": {
+group: "Chat",
+milestone: "Installed Smart ChatGPT.",
+link: "https://smartconnections.app/smart-chat/?utm_source=milestones"
 },
 "chat_codeblock:saved_thread": {
 group: "Chat",
@@ -16884,7 +18197,7 @@ milestone: "Started a chat in a Smart Chat codeblock (opened the loop).",
 link: "https://smartconnections.app/smart-chat/codeblock/?utm_source=milestones#quick-start"
 },
 "completion:completed": {
-group: "Chat",
+group: "Chat Pro",
 milestone: "Received the first Smart Chat response (a completion finished).",
 link: "https://smartconnections.app/smart-chat/api-integration/?utm_source=milestones#quick-start",
 is_pro: true
@@ -16894,25 +18207,31 @@ group: "Chat",
 milestone: "Marked the chat thread as done (closed the loop).",
 link: "https://smartconnections.app/smart-chat/codeblock/?utm_source=milestones#chat-inbox"
 },
+"chat_pro:installed": {
+group: "Chat Pro",
+milestone: "Installed Smart Chat Pro.",
+link: "https://smartconnections.app/pro-plugins/?utm_source=milestones#chat-pro",
+is_pro: true
+},
 "smart_plugins_oauth_completed": {
 group: "Pro",
 milestone: "Connected account (enabled Pro plugins).",
 link: "https://smartconnections.app/pro-plugins/?utm_source=milestones"
 },
 "inline_connections:show": {
-group: "Inline connections",
+group: "Connections Pro",
 milestone: "Opened inline connections in-note (used the inline workflow).",
 link: "https://smartconnections.app/smart-connections/inline/?utm_source=milestones",
 is_pro: true
 },
 "inline_connections:open_result": {
-group: "Inline connections",
+group: "Connections Pro",
 milestone: "Opened an inline connections result (navigated from discovery to source).",
 link: "https://smartconnections.app/smart-connections/inline/?utm_source=milestones",
 is_pro: true
 },
 "inline_connections:drag_result": {
-group: "Inline connections",
+group: "Connections Pro",
 milestone: "Inserted an inline link from an inline connection (converted discovery into a durable link).",
 link: "https://smartconnections.app/smart-connections/inline/?utm_source=milestones",
 is_pro: true
@@ -16925,7 +18244,9 @@ var EVENTS_CHECKLIST_GROUP_ORDER = [
 "Context",
 "Chat",
 "Pro",
-"Inline connections"
+"Connections Pro",
+"Context Pro",
+"Chat Pro"
 ];
 function derive_events_checklist_groups(items_by_event_key) {
 const group_map = Object.entries(items_by_event_key || {}).reduce(
@@ -16961,12 +18282,28 @@ return { group, items };
 });
 }
 __name(derive_events_checklist_groups, "derive_events_checklist_groups");
-
-function check_if_event_emitted(env, event_key) {
-return !!env.event_logs.items[event_key];
+function resolve_plugin_install_event(env, event_key) {
+const config = PLUGIN_INSTALL_EVENT_CONFIG[event_key];
+if (!config) return null;
+const manifests = env?.plugin?.app?.plugins?.manifests || {};
+const plugin_ids = Array.isArray(config.ids) ? config.ids : [];
+for (const plugin_id of plugin_ids) {
+const manifest = manifests[plugin_id];
+if (!manifest) continue;
+if (config.require_pro_name && !is_pro_manifest(manifest)) continue;
+return true;
 }
-__name(check_if_event_emitted, "check_if_event_emitted");
-function build_html6(env, params = {}) {
+return false;
+}
+__name(resolve_plugin_install_event, "resolve_plugin_install_event");
+function is_pro_manifest(manifest) {
+const name = manifest?.name;
+if (typeof name !== "string") return false;
+return name.toLowerCase().includes("pro");
+}
+__name(is_pro_manifest, "is_pro_manifest");
+
+function build_html7(env, params = {}) {
 const groups = derive_events_checklist_groups(EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY);
 const checked_count = groups.reduce((acc, g) => {
 const c = g.items.reduce((inner, item) => {
@@ -17030,22 +18367,22 @@ ${groups_html}
 </div>
 `;
 }
-__name(build_html6, "build_html");
+__name(build_html7, "build_html");
 async function render7(env, params = {}) {
 this.apply_style_sheet(milestones_default);
-const html = build_html6.call(this, env, params);
+const html = build_html7.call(this, env, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process5.call(this, env, container, params);
+post_process6.call(this, env, container, params);
 return container;
 }
 __name(render7, "render");
-async function post_process5(env, container, params = {}) {
+async function post_process6(env, container, params = {}) {
 attach_item_link_listeners(container);
 render_item_state_icons(container);
 return container;
 }
-__name(post_process5, "post_process");
+__name(post_process6, "post_process");
 function build_item_html(item, state) {
 const checked = state.checked === true;
 const checked_flag = checked ? "true" : "false";
@@ -17116,10 +18453,10 @@ checked
 __name(render_item_state_icons, "render_item_state_icons");
 function set_item_icon(icon_el, checked) {
 const icon_ids = checked ? ["circle-check", "check-circle", "check"] : ["circle", "circle-dashed", "dot"];
-set_icon_with_fallback(icon_el, icon_ids);
+set_icon_with_fallback2(icon_el, icon_ids);
 }
 __name(set_item_icon, "set_item_icon");
-function set_icon_with_fallback(icon_el, icon_ids) {
+function set_icon_with_fallback2(icon_el, icon_ids) {
 if (!icon_el) return;
 const ids = Array.isArray(icon_ids) ? icon_ids : [];
 for (const icon_id of ids) {
@@ -17133,7 +18470,7 @@ continue;
 if (icon_el.querySelector("svg")) return;
 }
 }
-__name(set_icon_with_fallback, "set_icon_with_fallback");
+__name(set_icon_with_fallback2, "set_icon_with_fallback");
 function get_item_el_from_event(container, evt) {
 const target = evt && /** @type {any} */
 evt.target;
@@ -17155,21 +18492,21 @@ return item.link;
 }
 __name(get_item_link, "get_item_link");
 
-function build_html7() {
+function build_html8() {
 return `<div>
 <button class="copy-all-notifications-btn">Copy All Notifications</button>
 <div class="smart-env-notifications-feed"></div>
 </div>`;
 }
-__name(build_html7, "build_html");
+__name(build_html8, "build_html");
 async function render8(env, params = {}) {
-const frag = this.create_doc_fragment(build_html7());
+const frag = this.create_doc_fragment(build_html8());
 const container = frag.firstElementChild;
-post_process6.call(this, env, container, params);
+post_process7.call(this, env, container, params);
 return frag;
 }
 __name(render8, "render");
-async function post_process6(env, container, params = {}) {
+async function post_process7(env, container, params = {}) {
 const feed_container = container.querySelector(".smart-env-notifications-feed");
 this.empty(feed_container);
 const entries = Array.isArray(env.event_logs.session_events) ? [...env.event_logs.session_events] : [];
@@ -17194,7 +18531,7 @@ copy_btn.textContent = "Copy All Notifications";
 });
 });
 }
-__name(post_process6, "post_process");
+__name(post_process7, "post_process");
 function get_level(entry) {
 const [event_domain, event_type] = entry.event_key.split(":");
 if (event_domain === "notification") {
@@ -17518,7 +18855,7 @@ url: "https://smartconnections.app/smart-context/"
 return pro_placeholders;
 }
 __name(derive_fallback_plugins, "derive_fallback_plugins");
-function build_html8(env, params = {}) {
+function build_html9(env, params = {}) {
 return `
 <div class="pro-plugins-container setting-item-heading">
 <div class="setting-group">
@@ -17536,17 +18873,17 @@ return `
 </div>
 `;
 }
-__name(build_html8, "build_html");
+__name(build_html9, "build_html");
 async function render9(env, params = {}) {
 this.apply_style_sheet(style_default);
-const html = build_html8.call(this, env, params);
+const html = build_html9.call(this, env, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-await post_process7.call(this, env, container, params);
+await post_process8.call(this, env, container, params);
 return container;
 }
 __name(render9, "render");
-async function post_process7(env, container, params = {}) {
+async function post_process8(env, container, params = {}) {
 const plugin = env.plugin || null;
 const app2 = plugin?.app || window.app;
 const oauth_storage_prefix = get_oauth_storage_prefix(app2);
@@ -17721,7 +19058,7 @@ render_smart_plugins();
 await render_smart_plugins();
 return container;
 }
-__name(post_process7, "post_process");
+__name(post_process8, "post_process");
 function initiate_smart_plugins_oauth() {
 console.log("initiate_smart_plugins_oauth");
 const state = Math.random().toString(36).slice(2);
@@ -17759,10 +19096,10 @@ return false;
 
 var import_obsidian17 = require("obsidian");
 var PRO_PLUGINS_URL = "https://smartconnections.app/pro-plugins/";
-function build_html9(item, params = {}) {
+function build_html10(item, params = {}) {
 return `<div class="pro-plugins-list-item"></div>`;
 }
-__name(build_html9, "build_html");
+__name(build_html10, "build_html");
 function is_fallback_item(item) {
 return !item || !item.repo;
 }
@@ -17794,14 +19131,14 @@ return { plugin_id, display_name: display_name9, desc, button_label, is_disabled
 }
 __name(compute_display_state, "compute_display_state");
 async function render10(item, params = {}) {
-const html = build_html9(item, params);
+const html = build_html10(item, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-await post_process8.call(this, item, container, params);
+await post_process9.call(this, item, container, params);
 return container;
 }
 __name(render10, "render");
-async function post_process8(item, container, params = {}) {
+async function post_process9(item, container, params = {}) {
 const { app: app2, token, installed_map = {}, on_installed } = params;
 if (is_fallback_item(item)) {
 const row2 = new import_obsidian17.Setting(container).setName(item.name || "Pro plugin").setDesc(item.description || "Login to unlock Pro plugins.");
@@ -17854,7 +19191,7 @@ btn.onClick(() => show_plugin_readme(item, { app: app2, token, display_name: sta
 });
 return container;
 }
-__name(post_process8, "post_process");
+__name(post_process9, "post_process");
 var download_plugin_zip = /* @__PURE__ */ __name(async (item, token) => {
 const resolved_download_url = typeof item.resolve_download_url === "function" ? await item.resolve_download_url() : item.download_url;
 if (resolved_download_url) {
@@ -17967,10 +19304,10 @@ test_result_el.textContent = JSON.stringify(test_result, null, 2);
 }
 };
 
-var env_model_default = '.model-settings .model-info {\r\n  border-radius: var(--radius-m);\r\n  padding: 1rem;\r\n  margin-bottom: 1rem;\r\n  background-color: var(--background-secondary);\r\n  pre {\r\n    margin: 0;\r\n    font-size: 0.9rem;\r\n  }\r\n  .test-result-icon {\r\n    vertical-align: middle;\r\n    margin-left: 0.5rem;\r\n  }\r\n  .test-result-icon[data-icon="square-check-big"]{\r\n    color: var(--color-green);\r\n  }\r\n  .test-result-icon[data-icon="circle-x"]{\r\n    color: var(--color-red);\r\n  }\r\n}';
+var env_model_default = '.model-settings .model-info {\r\n  border-radius: var(--radius-m);\r\n  padding: 1rem;\r\n  margin-bottom: 1rem;\r\n  background-color: var(--background-secondary);\r\n  pre {\r\n    margin: 0;\r\n    font-size: 0.9rem;\r\n  }\r\n  .test-result-icon {\r\n    vertical-align: middle;\r\n    margin-left: 0.5rem;\r\n  }\r\n  .test-result-icon[data-icon="square-check-big"]{\r\n    color: var(--color-green);\r\n  }\r\n  .test-result-icon[data-icon="circle-x"]{\r\n    color: var(--color-red);\r\n  }\r\n}\r\n\r\n.smart-model-modal{\r\n   pre, .model-note {\r\n    user-select: text;\r\n  }\r\n}';
 
 var import_obsidian19 = require("obsidian");
-function build_html10(model, params) {
+function build_html11(model, params) {
 const details = [
 `Provider: ${model.data.provider_key}`,
 `Model: ${model.data.model_key || "**MISSING - EDIT & SELECT MODEL**"}`
@@ -17986,16 +19323,16 @@ return `<div class="model-info">
 <pre>${details.join("\n")}</pre>
 </div>`;
 }
-__name(build_html10, "build_html");
+__name(build_html11, "build_html");
 async function render11(model, params) {
 this.apply_style_sheet(env_model_default);
-const frag = this.create_doc_fragment(build_html10.call(this, model, params));
+const frag = this.create_doc_fragment(build_html11.call(this, model, params));
 const container = frag.firstElementChild;
-post_process9.call(this, model, container, params);
+post_process10.call(this, model, container, params);
 return container;
 }
 __name(render11, "render");
-async function post_process9(model, container, params) {
+async function post_process10(model, container, params) {
 const edit_btn = container.querySelector(".edit-model");
 const test_btn = container.querySelector(".test-model");
 const icon_el = container.querySelector(".test-result-icon");
@@ -18008,7 +19345,7 @@ new SmartModelModal(model, { test_on_open: true }).open();
 });
 return container;
 }
-__name(post_process9, "post_process");
+__name(post_process10, "post_process");
 function get_test_result_icon_name(model) {
 switch (model.data.test_passed) {
 case true:
@@ -18097,7 +19434,7 @@ disabled: true
 },
 {
 label: "PRO: Google Gemini (cloud)",
-value: "google",
+value: "gemini",
 disabled: true
 },
 {
@@ -18172,12 +19509,12 @@ addClass(class_name) {
 this.groupEl.addClass(class_name);
 }
 };
-function render_settings_config(settings_config39, scope, container, params = {}) {
+function render_settings_config(settings_config40, scope, container, params = {}) {
 const {
 default_group_name = "Settings"
 } = params;
-settings_config39 = ensure_settings_config(settings_config39, scope);
-const group_map = Object.entries(settings_config39 || {}).reduce((acc, [key, config]) => {
+settings_config40 = ensure_settings_config(settings_config40, scope);
+const group_map = Object.entries(settings_config40 || {}).reduce((acc, [key, config]) => {
 const group = config.group || default_group_name;
 if (!acc[group]) acc[group] = {};
 acc[group][key] = config;
@@ -18200,7 +19537,7 @@ group_params
 return settings_groups;
 }
 __name(render_settings_config, "render_settings_config");
-function render_settings_group(group_name, scope, settings_config39, container, params = {}) {
+function render_settings_group(group_name, scope, settings_config40, container, params = {}) {
 let SettingGroup;
 try {
 const obsidian_module = require("obsidian");
@@ -18212,7 +19549,7 @@ SettingGroup = SettingGroupPolyfill;
 } catch (e) {
 SettingGroup = SettingGroupPolyfill;
 }
-settings_config39 = ensure_settings_config(settings_config39, scope);
+settings_config40 = ensure_settings_config(settings_config40, scope);
 const {
 heading_btn = null
 } = params;
@@ -18227,11 +19564,13 @@ render_heading_button(setting_group, scope, heading_btn);
 }
 }
 setting_group.setHeading(group_name);
-for (const [setting_path, setting_config] of Object.entries(settings_config39)) {
+for (const [setting_path, setting_config] of Object.entries(settings_config40)) {
 if (!setting_config || typeof setting_config !== "object") {
 console.warn(`Invalid setting config for ${setting_path}:`, setting_config);
 continue;
 }
+const settng_is_pro = setting_config.scope_class === "pro-setting";
+const env_is_pro = !!scope.env?.is_pro;
 setting_group.addSetting((setting) => {
 if (setting_config.name) setting.setName(setting_config.name);
 setting.setClass(setting_path.replace(/[^a-zA-Z0-9]/g, "-"));
@@ -18271,7 +19610,7 @@ set_by_path(scope.settings, setting_path, value);
 break;
 case "number":
 setting.addText((text) => {
-text.setValue(String(get_by_path(scope.settings, setting_path) || ""));
+text.setValue(String(get_by_path(scope.settings, setting_path) ?? "0"));
 text.inputEl.setAttribute("type", "number");
 text.onChange((value) => {
 const num_value = Number(value);
@@ -18307,8 +19646,15 @@ case "textarea":
 setting.addTextArea((text) => {
 text.setValue(String(get_by_path(scope.settings, setting_path) || ""));
 text.onChange((value) => {
+if (settng_is_pro && !env_is_pro) {
+new import_obsidian21.Notice("Nice try! This is a PRO feature. Please upgrade to access this setting.");
+return;
+}
 set_by_path(scope.settings, setting_path, value);
 });
+if (settng_is_pro && !env_is_pro) {
+text.setDisabled(true);
+}
 });
 break;
 case "slider":
@@ -18381,33 +19727,33 @@ return await cb(event_or_value, setting);
 }
 }
 __name(handle_config_callback, "handle_config_callback");
-function ensure_settings_config(settings_config39, scope) {
+function ensure_settings_config(settings_config40, scope) {
 try {
-if (typeof settings_config39 === "function") {
-settings_config39 = settings_config39(scope);
+if (typeof settings_config40 === "function") {
+settings_config40 = settings_config40(scope);
 }
 } catch (e) {
 console.error("Error evaluating settings_config function:", e);
-settings_config39 = { error: { name: "Error", description: `Failed to load settings. ${e.message} (logged to console)` } };
+settings_config40 = { error: { name: "Error", description: `Failed to load settings. ${e.message} (logged to console)` } };
 }
-return settings_config39;
+return settings_config40;
 }
 __name(ensure_settings_config, "ensure_settings_config");
 
-function build_html11(models_collection, params) {
+function build_html12(models_collection, params) {
 return `<div class="model-settings" data-model-type="${models_collection.collection_key}">
 <div class="global-settings"></div>
 </div>`;
 }
-__name(build_html11, "build_html");
+__name(build_html12, "build_html");
 async function render12(models_collection, params) {
-const frag = this.create_doc_fragment(build_html11.call(this, models_collection, params));
+const frag = this.create_doc_fragment(build_html12.call(this, models_collection, params));
 const container = frag.firstElementChild;
-post_process10.call(this, models_collection, container, params);
+post_process11.call(this, models_collection, container, params);
 return container;
 }
 __name(render12, "render");
-async function post_process10(models_collection, container, params) {
+async function post_process11(models_collection, container, params) {
 const disposers = [];
 const render_current_model_info = /* @__PURE__ */ __name(async (current_model) => {
 this.empty(container);
@@ -18441,9 +19787,9 @@ await render_current_model_info(models_collection.default);
 }));
 this.attach_disposer(container, disposers);
 }
-__name(post_process10, "post_process");
+__name(post_process11, "post_process");
 
-function build_html12(env, params) {
+function build_html13(env, params) {
 const models_collections = [
 env.embedding_models,
 env.chat_completion_models,
@@ -18456,15 +19802,15 @@ return `<div class="env-model-types">
 ${type_containers}
 </div>`;
 }
-__name(build_html12, "build_html");
+__name(build_html13, "build_html");
 async function render13(env, params) {
-const frag = this.create_doc_fragment(build_html12(env, params));
+const frag = this.create_doc_fragment(build_html13(env, params));
 const container = frag.firstElementChild;
-post_process11.call(this, env, container, params);
+post_process12.call(this, env, container, params);
 return container;
 }
 __name(render13, "render");
-async function post_process11(env, container, params) {
+async function post_process12(env, container, params) {
 const collection_containers = container.querySelectorAll("div[data-collection-key]");
 for (const collection_container of collection_containers) {
 const collection_key = collection_container.getAttribute("data-collection-key");
@@ -18476,7 +19822,7 @@ collection_container.appendChild(model_type_el);
 }
 return container;
 }
-__name(post_process11, "post_process");
+__name(post_process12, "post_process");
 
 var import_obsidian22 = require("obsidian");
 
@@ -18643,28 +19989,28 @@ li.setText(file_path);
 }
 };
 
-async function build_html13(env, opts = {}) {
+async function build_html14(env, opts = {}) {
 return `
 <div class="sources-settings">
 </div>
 `;
 }
-__name(build_html13, "build_html");
+__name(build_html14, "build_html");
 async function render14(env, opts = {}) {
-const html = await build_html13.call(this, env, opts);
+const html = await build_html14.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process12.call(this, env, container, opts);
+post_process13.call(this, env, container, opts);
 return container;
 }
 __name(render14, "render");
-async function post_process12(env, container, opts = {}) {
-const settings_config39 = {
+async function post_process13(env, container, opts = {}) {
+const settings_config40 = {
 folder_exclusions,
 view_exclusions,
 re_import_sources
 };
-render_settings_config(settings_config39, env, container, {
+render_settings_config(settings_config40, env, container, {
 default_group_name: "Sources",
 heading_btn: {
 btn_icon: "help-circle",
@@ -18678,7 +20024,7 @@ disposers.push(env.events?.on("model:changed", highlight_reset_data(env, contain
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process12, "post_process");
+__name(post_process13, "post_process");
 function highlight_reset_data(env, container) {
 return async (payload) => {
 if (payload.collection_key !== "embedding_models") return;
@@ -18756,11 +20102,11 @@ confirm_yes.disabled = false;
 confirm_cancel.addEventListener("click", (e) => {
 confirm_row.style.display = "none";
 reimport_btn.style.display = "inline-block";
-});
+}, { once: true });
 }, "callback")
 };
 
-function build_html14(model, params = {}) {
+function build_html15(model, params = {}) {
 return `<div class="smart-model-modal-actions">
 <button class="new-model-btn">New</button>
 <button class="delete-model-btn">Delete</button>
@@ -18771,15 +20117,15 @@ return `<div class="smart-model-modal-actions">
 </div>
 </div>`;
 }
-__name(build_html14, "build_html");
+__name(build_html15, "build_html");
 async function render15(model, params = {}) {
-const frag = this.create_doc_fragment(build_html14(model, params));
+const frag = this.create_doc_fragment(build_html15(model, params));
 const container = frag.firstElementChild;
-post_process13.call(this, model, container, params);
+post_process14.call(this, model, container, params);
 return container;
 }
 __name(render15, "render");
-async function post_process13(model, container, params = {}) {
+async function post_process14(model, container, params = {}) {
 const new_model_btn = container.querySelector(".new-model-btn");
 new_model_btn.addEventListener("click", async (event) => {
 const on_before_new = params.on_before_new;
@@ -18807,9 +20153,9 @@ params.on_after_delete();
 });
 return container;
 }
-__name(post_process13, "post_process");
+__name(post_process14, "post_process");
 
-async function build_html15(env, opts = {}) {
+async function build_html16(env, opts = {}) {
 let html = `<div class="settings-group">
 <div class="setting-item setting-item-heading">
 <div class="setting-item-name">Muted notices</div>
@@ -18835,16 +20181,16 @@ html += `<div class="setting-item"><div class="setting-item-info"><div class="se
 html += `</div>`;
 return html;
 }
-__name(build_html15, "build_html");
+__name(build_html16, "build_html");
 async function render16(env, opts = {}) {
-let html = await build_html15.call(this, env, opts);
+let html = await build_html16.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process14.call(this, env, container, opts);
+post_process15.call(this, env, container, opts);
 return container;
 }
 __name(render16, "render");
-async function post_process14(env, frag, opts = {}) {
+async function post_process15(env, frag, opts = {}) {
 const unmute_buttons = frag.querySelectorAll(".unmute-button");
 unmute_buttons.forEach((button) => {
 button.addEventListener("click", () => {
@@ -18856,11 +20202,11 @@ row.remove();
 });
 });
 }
-__name(post_process14, "post_process");
+__name(post_process15, "post_process");
 
-var style_default2 = ".sc-env-settings-container {\r\n  margin: 1rem 0;\r\n}\r\n\r\n.smart-env-settings-header {\r\n  display: flex;\r\n  align-items: center;\r\n  justify-content: space-between;\r\n  margin-bottom: 0.5rem;\r\n}\r\n\r\n.toggle-env-settings-btn {\r\n  cursor: pointer;\r\n}\r\n\r\n\r\n.setting-group .setting-items .setting-item.env-setting-highlight {\r\n  border: 1px solid var(--interactive-accent);\r\n  background-color: var(--interactive-hover);\r\n  padding: 0.5rem;\r\n  margin: 0.5rem 0;\r\n}\r\n\r\n.settings-group {\r\n  .setting-item {\r\n    border-top: none;\r\n  }\r\n}";
+var style_default2 = ".sc-env-settings-container {\n  margin: 1rem 0;\n}\n\n.smart-env-settings-header {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  margin-bottom: 0.5rem;\n}\n\n.toggle-env-settings-btn {\n  cursor: pointer;\n}\n\n\n.setting-group .setting-items .setting-item.env-setting-highlight {\n  border: 1px solid var(--interactive-accent);\n  background-color: var(--interactive-hover);\n  padding: 0.5rem;\n  margin: 0.5rem 0;\n}\n\n.settings-group {\n  .setting-item {\n    border-top: none;\n  }\n}\n\n.sc-inline-confirm-row {\n  display: flex;\n  align-items: center;\n  gap: 0.5rem;\n  margin-top: 0.5rem;\n}\n";
 
-async function build_html16(env, params = {}) {
+async function build_html17(env, params = {}) {
 return `<div class="smart-env-settings-container">
 <div class="sources-container">
 <h1>Sources</h1>
@@ -18873,17 +20219,17 @@ return `<div class="smart-env-settings-container">
 </div>
 </div>`;
 }
-__name(build_html16, "build_html");
+__name(build_html17, "build_html");
 async function render17(env, params = {}) {
 this.apply_style_sheet(style_default2);
-const html = await build_html16.call(this, env, params);
+const html = await build_html17.call(this, env, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process15.call(this, env, container, params);
+post_process16.call(this, env, container, params);
 return container;
 }
 __name(render17, "render");
-async function post_process15(env, container, opts = {}) {
+async function post_process16(env, container, opts = {}) {
 const models_container = container.querySelector(".models-container");
 const sources_container = container.querySelector(".sources-container");
 const notifications_container = container.querySelector(".notifications-container");
@@ -18892,7 +20238,7 @@ render_if_available.call(this, "settings_env_models", env, models_container);
 render_if_available.call(this, "settings_notifications", env, notifications_container);
 return container;
 }
-__name(post_process15, "post_process");
+__name(post_process16, "post_process");
 function render_if_available(component_key, env, container) {
 if (env.config.components[component_key]) {
 const placeholder = this.create_doc_fragment(`<div data-component="${component_key}"></div>`).firstElementChild;
@@ -18906,7 +20252,7 @@ placeholder.appendChild(comp_el);
 __name(render_if_available, "render_if_available");
 
 var import_obsidian24 = require("obsidian");
-function build_html17() {
+function build_html18() {
 return `
 <div class="sc-context-actions">
 <div class="sc-context-actions-left">
@@ -18916,16 +20262,16 @@ return `
 </div>
 `;
 }
-__name(build_html17, "build_html");
+__name(build_html18, "build_html");
 async function render18(ctx, opts = {}) {
-const html = build_html17();
+const html = build_html18();
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process16.call(this, ctx, container, opts);
+post_process17.call(this, ctx, container, opts);
 return container;
 }
 __name(render18, "render");
-async function post_process16(ctx, container, opts = {}) {
+async function post_process17(ctx, container, opts = {}) {
 const render_ctx_actions = /* @__PURE__ */ __name(() => {
 const actions_left = container.querySelector(".sc-context-actions-left");
 this.empty(actions_left);
@@ -18942,7 +20288,7 @@ disposers.push(ctx.on_event("context:updated", render_ctx_actions));
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process16, "post_process");
+__name(post_process17, "post_process");
 function render_btn_open_selector(ctx, container) {
 const add_btn = document.createElement("button");
 add_btn.type = "button";
@@ -19017,7 +20363,25 @@ new import_obsidian25.Notice("Failed to copy.");
 }
 __name(copy_to_clipboard2, "copy_to_clipboard");
 
-function build_html18(ctx, opts = {}) {
+var schedule_next_frame = /* @__PURE__ */ __name((callback) => {
+if (typeof requestAnimationFrame === "function") {
+requestAnimationFrame(callback);
+return;
+}
+setTimeout(callback, 0);
+}, "schedule_next_frame");
+var create_render_scheduler = /* @__PURE__ */ __name((render_fn) => {
+let render_pending = false;
+return () => {
+if (render_pending) return;
+render_pending = true;
+schedule_next_frame(async () => {
+render_pending = false;
+await render_fn();
+});
+};
+}, "create_render_scheduler");
+function build_html19(ctx, opts = {}) {
 return `<div>
 <div class="sc-context-view" data-context-key="${ctx.data.key}">
 <div class="sc-context-view-header">
@@ -19032,17 +20396,17 @@ return `<div>
 </div>
 </div>`;
 }
-__name(build_html18, "build_html");
+__name(build_html19, "build_html");
 async function render19(ctx, opts = {}) {
-const html = build_html18(ctx, opts);
+const html = build_html19(ctx, opts);
 this.apply_style_sheet(styles_default);
 const frag = this.create_doc_fragment(html);
 const container = frag.querySelector(".sc-context-view");
-post_process17.call(this, ctx, container, opts);
+post_process18.call(this, ctx, container, opts);
 return container;
 }
 __name(render19, "render");
-async function post_process17(ctx, container, opts = {}) {
+async function post_process18(ctx, container, opts = {}) {
 const disposers = [];
 const render_children = /* @__PURE__ */ __name(async () => {
 const header = container.querySelector(".sc-context-view-header");
@@ -19061,6 +20425,7 @@ this.empty(footer);
 footer.appendChild(meta);
 });
 }, "render_children");
+const schedule_render_children = create_render_scheduler(render_children);
 const plugin = ctx.env.plugin;
 const app2 = plugin?.app || window.app;
 const register = plugin?.registerDomEvent?.bind(plugin) || ((el, evt, cb) => el.addEventListener(evt, cb));
@@ -19078,11 +20443,11 @@ await copy_to_clipboard2(md);
 menu.showAtMouseEvent(ev);
 });
 await render_children();
-disposers.push(ctx.on_event("context:updated", render_children));
+disposers.push(ctx.on_event("context:updated", schedule_render_children));
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process17, "post_process");
+__name(post_process18, "post_process");
 function tree_dom_to_wikilinks(container) {
 const lines = [];
 const walk = /* @__PURE__ */ __name((li, depth) => {
@@ -19107,21 +20472,21 @@ function estimate_tokens(char_count) {
 return Math.ceil((char_count || 0) / 4);
 }
 __name(estimate_tokens, "estimate_tokens");
-function build_html19() {
+function build_html20() {
 return `
 <div class="sc-context-meta" aria-live="polite"></div>
 `;
 }
-__name(build_html19, "build_html");
+__name(build_html20, "build_html");
 async function render20(ctx, params = {}) {
-const html = build_html19();
+const html = build_html20();
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process18.call(this, ctx, container, params);
+post_process19.call(this, ctx, container, params);
 return container;
 }
 __name(render20, "render");
-async function post_process18(ctx, container, params = {}) {
+async function post_process19(ctx, container, params = {}) {
 const render_meta = /* @__PURE__ */ __name(() => {
 if (ctx?.has_context_items) {
 const chars = ctx.size || 0;
@@ -19137,7 +20502,7 @@ disposers.push(ctx.on_event("context:updated", render_meta));
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process18, "post_process");
+__name(post_process19, "post_process");
 
 function build_tree_item(item, selected_paths, child_html = "") {
 let { key, path, name, is_file } = item;
@@ -19147,7 +20512,7 @@ let connections_btn = "";
 let links_btn = "";
 if (!key) key = path;
 if (selected_paths.has(key) || has_children) {
-remove_btn = `<span class="sc-tree-remove" data-path="${key}">\xD7</span>`;
+remove_btn = `<span class="sc-context-item-remove" data-path="${key}">\xD7</span>`;
 }
 if (selected_paths.has(key) && !key.startsWith("external:../")) {
 connections_btn = `<span class="sc-tree-connections" data-path="${key}" title="Connections for ${name}"></span>`;
@@ -19156,7 +20521,7 @@ links_btn = `<span class="sc-tree-links" data-path="${key}" title="Links for ${n
 const label_classes = ["sc-tree-label"];
 if (item.exists === false) label_classes.push("missing");
 return `<li data-path="${key}" class="sc-tree-item ${is_file ? "file" : "dir"}${key.startsWith("external:") ? " sc-external" : ""}">
-${is_file ? remove_btn : ""}
+${remove_btn}
 <span class="${label_classes.join(" ")}">${name}</span>
 ${connections_btn}
 ${links_btn}
@@ -19173,6 +20538,7 @@ return tree_list_html;
 }
 __name(build_tree_html, "build_tree_html");
 function build_path_tree(selected_items = []) {
+const get_item_key = /* @__PURE__ */ __name((item) => item?.key || item?.path || "", "get_item_key");
 const split_path_segments = /* @__PURE__ */ __name((item_path) => {
 const BLOCK_ID_RE = /#\{\d+\}$/u;
 let remainder = item_path;
@@ -19220,12 +20586,17 @@ return { segments, has_block };
 const root = { name: "", children: {}, selected: false };
 const is_redundant = /* @__PURE__ */ __name((p, selected_folders2) => selected_folders2.some((folder) => p.startsWith(`${folder}/`)), "is_redundant");
 const selected_folders = selected_items.filter((it) => {
-const for_ext_check = it.key.includes("#") ? it.key.split("#")[0] : it.key;
+const item_key = get_item_key(it);
+if (!item_key) return false;
+const for_ext_check = item_key.includes("#") ? item_key.split("#")[0] : item_key;
 return !for_ext_check.match(/\.[a-zA-Z0-9]+$/u);
-}).map((it) => it.key);
-for (const { key, exists } of selected_items) {
-if (is_redundant(key, selected_folders.filter((p) => p !== key))) continue;
-const { segments, has_block } = split_path_segments(key);
+}).map((it) => get_item_key(it)).filter(Boolean);
+for (const item of selected_items) {
+const item_key = get_item_key(item);
+const exists = item?.exists;
+if (!item_key) continue;
+if (is_redundant(item_key, selected_folders.filter((p) => p !== item_key))) continue;
+const { segments, has_block } = split_path_segments(item_key);
 let node = root;
 let running = "";
 segments.forEach((seg, idx) => {
@@ -19236,7 +20607,7 @@ const is_block_leaf = is_last && has_block;
 if (!node.children[seg]) {
 node.children[seg] = {
 name: seg,
-path: is_block_leaf ? key : running,
+path: is_block_leaf ? item_key : running,
 children: is_block_leaf ? [] : {},
 selected: false,
 is_file: is_block_leaf || is_last && seg.includes(".")
@@ -19262,24 +20633,64 @@ return `<ul>${child_html}</ul>`;
 }
 __name(tree_to_html, "tree_to_html");
 
-var tree_default = ".sc-context-tree {\r\n  ul {\r\n    padding-inline-start: 1.7rem;\r\n  }\r\n  li:has(> .sc-context-item-leaf > .sc-context-item-remove) {\r\n    list-style-type: none;\r\n  }\r\n  .sc-context-item-remove:hover {\r\n    font-weight: bold;\r\n    filter: brightness(1.8);\r\n  }\r\n  .sc-context-item-remove {\r\n    padding: 0 0.2rem;\r\n    margin-left: -1.4rem;\r\n  }\r\n}\r\n.sc-context-item-leaf {\r\n  cursor: pointer;\r\n}\r\n.sc-context-item-score,\r\n.sc-context-item-size {\r\n  display: inline-block;\r\n  min-width: 4.5ch;\r\n  height: 1.7em;\r\n  line-height: 1.7em;\r\n  text-align: center;\r\n  font-weight: 600 !important;\r\n  font-size: 0.8em !important;\r\n  color: var(--nav-item-color) !important;\r\n  background: var(--background-modifier-hover);\r\n  border-radius: 6px;\r\n  padding: 0 0.4em;\r\n  margin-right: 0.35em;\r\n}\r\n.sc-context-item-size {\r\n  min-width: 0;\r\n}";
+var tree_default = ".sc-context-tree {\r\n  ul {\r\n    padding-inline-start: 1.7rem;\r\n  }\r\n  li:has(> .sc-context-item-leaf > .sc-context-item-remove) {\r\n    list-style-type: none;\r\n  }\r\n  .sc-context-item-remove:hover {\r\n    font-weight: bold;\r\n    filter: brightness(1.8);\r\n  }\r\n  .sc-context-item-remove {\r\n    padding: 0 0.2rem;\r\n    margin-left: -1.4rem;\r\n  }\r\n}\r\n.sc-context-item-leaf, .sc-context-item-remove {\r\n  cursor: pointer;\r\n}\r\n.sc-context-item-score,\r\n.sc-context-item-size {\r\n  display: inline-block;\r\n  min-width: 4.5ch;\r\n  height: 1.7em;\r\n  line-height: 1.7em;\r\n  text-align: center;\r\n  font-weight: 600 !important;\r\n  font-size: 0.8em !important;\r\n  color: var(--nav-item-color) !important;\r\n  background: var(--background-modifier-hover);\r\n  border-radius: 6px;\r\n  padding: 0 0.4em;\r\n  margin-right: 0.35em;\r\n}\r\n.sc-context-item-size {\r\n  min-width: 0;\r\n}";
 
-function build_html20(ctx, params = {}) {
+var is_nested_context_item = /* @__PURE__ */ __name((item_key, target_path) => {
+if (!item_key || !target_path) return false;
+if (item_key === target_path) return true;
+if (item_key.startsWith(`${target_path}/`)) return true;
+return item_key.startsWith(`${target_path}#`);
+}, "is_nested_context_item");
+function get_nested_context_item_keys(ctx, params = {}) {
+const { target_path } = params;
+if (!target_path) return [];
+const context_item_keys = Object.keys(ctx?.data?.context_items || {});
+const nested_keys = context_item_keys.filter((item_key) => is_nested_context_item(item_key, target_path));
+return [...new Set(nested_keys)];
+}
+__name(get_nested_context_item_keys, "get_nested_context_item_keys");
+
+var schedule_next_frame2 = /* @__PURE__ */ __name((callback) => {
+if (typeof requestAnimationFrame === "function") {
+requestAnimationFrame(callback);
+return;
+}
+setTimeout(callback, 0);
+}, "schedule_next_frame");
+var create_render_scheduler2 = /* @__PURE__ */ __name((render_fn) => {
+let render_pending = false;
+return () => {
+if (render_pending) return;
+render_pending = true;
+schedule_next_frame2(() => {
+render_pending = false;
+render_fn();
+});
+};
+}, "create_render_scheduler");
+var remove_nested_context_items = /* @__PURE__ */ __name((ctx, params = {}) => {
+const { target_path } = params;
+const nested_keys = get_nested_context_item_keys(ctx, { target_path });
+ctx.remove_items(nested_keys);
+}, "remove_nested_context_items");
+function build_html21(ctx, params = {}) {
 return `
 <div class="sc-context-tree" data-context-key="${ctx.data.key}"></div>
 `;
 }
-__name(build_html20, "build_html");
+__name(build_html21, "build_html");
 async function render21(ctx, params = {}) {
 this.apply_style_sheet(tree_default);
-const html = build_html20(ctx, params);
+const html = build_html21(ctx, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process19.call(this, ctx, container, params);
+post_process20.call(this, ctx, container, params);
 return container;
 }
 __name(render21, "render");
-async function post_process19(ctx, container, params = {}) {
+async function post_process20(ctx, container, params = {}) {
+const plugin = ctx?.env?.plugin;
+const register_dom_event = plugin?.registerDomEvent?.bind(plugin) || ((el, evt, cb) => el.addEventListener(evt, cb));
 const render_tree_leaves = /* @__PURE__ */ __name(() => {
 const env = ctx.env;
 const items = ctx.context_items.filter(params.filter);
@@ -19300,17 +20711,26 @@ li.appendChild(leaf);
 });
 }
 }, "render_tree_leaves");
+const schedule_render_tree_leaves = create_render_scheduler2(render_tree_leaves);
 render_tree_leaves();
+register_dom_event(container, "click", (event) => {
+const target = event.target.closest(".sc-context-item-remove");
+if (!target) return;
+event.preventDefault();
+event.stopPropagation();
+const target_path = target.getAttribute("data-path");
+remove_nested_context_items(ctx, { target_path });
+});
 const disposers = [];
-disposers.push(ctx.on_event("context:updated", render_tree_leaves));
+disposers.push(ctx.on_event("context:updated", schedule_render_tree_leaves));
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process19, "post_process");
+__name(post_process20, "post_process");
 
 var source_inspector_default = ".source-inspector {\r\n  background-color: var(--background-secondary-alt);\r\n  margin: var(--size-4-3) 0;\r\n  padding: var(--size-4-3);\r\n  border-radius: var(--radius-m);\r\n}\r\n\r\n.source-inspector-blocks-container {\r\n  margin-top: var(--size-4-2);\r\n  display: flex;\r\n  flex-direction: column;\r\n  gap: var(--size-4-3);\r\n}\r\n\r\n.source-inspector-blocks-container blockquote {\r\n  margin-left: var(--size-4-3);\r\n  padding-left: var(--size-4-3);\r\n  border-left: 2px solid var(--text-faint);\r\n}\r\n";
 
-function build_html21(source, opts = {}) {
+function build_html22(source, opts = {}) {
 return `<div>
 <div class="source-inspector-source-info">
 <button class="source-inspector-show-data-btn" type="button">Show source data</button>
@@ -19324,16 +20744,16 @@ return `<div>
 </div>
 </div>`;
 }
-__name(build_html21, "build_html");
+__name(build_html22, "build_html");
 async function render22(source, opts = {}) {
-const html = build_html21(source, opts);
+const html = build_html22(source, opts);
 const frag = this.create_doc_fragment(html);
 this.apply_style_sheet(source_inspector_default);
-await post_process20.call(this, source, frag, opts);
+await post_process21.call(this, source, frag, opts);
 return frag;
 }
 __name(render22, "render");
-async function post_process20(source, frag, opts = {}) {
+async function post_process21(source, frag, opts = {}) {
 const container = frag.querySelector(".source-inspector .source-inspector-blocks-container");
 if (!container) return frag;
 const source_info = frag.querySelector(".source-inspector-source-info");
@@ -19393,7 +20813,7 @@ container.appendChild(block_frag);
 }
 return frag;
 }
-__name(post_process20, "post_process");
+__name(post_process21, "post_process");
 
 var import_obsidian29 = require("obsidian");
 
@@ -19509,7 +20929,7 @@ __name(register_status_bar_context_menu, "register_status_bar_context_menu");
 
 var status_bar_default = ".status-bar-item:has(.smart-env-status-container) {\n  padding: 0 0.5em;\n\n  &:hover {\n    background-color: var(--background-modifier-hover);\n  }\n  &> .smart-env-status-container {\n    display: flex;\n    align-items: center;\n    gap: 0.5em;\n    text-decoration: none;\n    color: var(--status-bar-text-color);\n  }\n}\n\n.smart-env-status-indicator {\n  width: 0.6em;\n  height: 0.6em;\n  border-radius: 999px;\n  background-color: var(--interactive-accent);\n  opacity: 0;\n  transform: scale(0.3);\n  transition: opacity 150ms ease, transform 150ms ease;\n}\n.smart-env-status-indicator[data-level='info'] {\n  background-color: var(--interactive-accent);\n}\n.smart-env-status-indicator[data-level='attention'] {\n  background-color: var(--color-yellow);\n}\n.smart-env-status-indicator[data-level='warning'] {\n  background-color: var(--color-orange);\n}\n.smart-env-status-indicator[data-level='error'] {\n  background-color: var(--color-red);\n}\n\n.smart-env-status-indicator[data-count] {\n  opacity: 1;\n  transform: scale(1);\n}\n\n.smart-env-notifications-feed {\n  display: flex;\n  flex-direction: column;\n  padding: 0.5rem 0;\n  gap: 0.42rem;\n}\n\n.smart-env-notifications-empty {\n  margin: 0;\n  color: var(--text-muted);\n}\n\n.smart-env-notification {\n  font-size: var(--font-smaller);\n  display: flex;\n  flex-direction: column;\n  border-left: 3px solid var(--interactive-accent);\n  padding-left: 0.75rem;\n}\n\n.smart-env-notification[data-level='attention'] {\n  border-color: var(--color-yellow);\n}\n\n.smart-env-notification[data-level='warning'] {\n  border-color: var(--color-orange);\n}\n\n.smart-env-notification[data-level='error'] {\n  border-color: var(--color-red);\n}\n\n.smart-env-notification__message {\n  margin: 0;\n  font-weight: 500;\n  white-space: pre-wrap;\n}\n\n.smart-env-notification__meta {\n  color: var(--text-muted);\n  padding: 0.37rem 0;\n}\n\n.status-bar-mobile {\n  position: var(--status-bar-position);\n  bottom: 0;\n  border-radius: 0 8px 0 0;\n  border-style: solid;\n  border-width: 1px;\n  border-color: var(--status-bar-border-color);\n  background-color: var(--status-bar-background);\n  color: var(--status-bar-text-color);\n  font-size: var(--status-bar-font-size);\n  min-height: 18px;\n  padding: var(--size-4-1);\n  user-select: none;\n  z-index: var(--layer-status-bar);\n  font-variant-numeric: tabular-nums;\n  &> .smart-env-status-container {\n    padding: 5px 5px 5px 0;\n  }\n}\n\n/* footer view on mobile */\n.embedded-backlinks > .status-bar-mobile {\n  position: relative;\n  border-style: none;\n}";
 
-function build_html22() {
+function build_html23() {
 return `
 <a
 class="smart-env-status-container"
@@ -19530,16 +20950,16 @@ tabindex="0"
 </a>
 `;
 }
-__name(build_html22, "build_html");
+__name(build_html23, "build_html");
 async function render23(env, opts = {}) {
 this.apply_style_sheet(status_bar_default);
-const frag = this.create_doc_fragment(build_html22());
+const frag = this.create_doc_fragment(build_html23());
 const anchor = frag.firstElementChild;
-post_process21.call(this, env, anchor, opts);
+post_process22.call(this, env, anchor, opts);
 return anchor;
 }
 __name(render23, "render");
-function post_process21(env, container, opts = {}) {
+function post_process22(env, container, opts = {}) {
 const icon_slot = container?.querySelector?.(".smart-env-status-icon");
 const status_indicator = container?.querySelector?.(".smart-env-status-indicator");
 const status_msg = container?.querySelector?.(".smart-env-status-msg");
@@ -19617,10 +21037,10 @@ const disposers = [];
 disposers.push(env.events.on("*", debounce_refresh_status_bar));
 this.attach_disposer(container, disposers);
 }
-__name(post_process21, "post_process");
+__name(post_process22, "post_process");
 
 var import_obsidian30 = require("obsidian");
-function build_html23(plugin, opts = {}) {
+function build_html24(plugin, opts = {}) {
 const { plugin_name = plugin.manifest.name } = opts;
 return `<div class="wrapper">
 <div id="footer-callout" data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout" style="mix-blend-mode: unset;">
@@ -19677,16 +21097,16 @@ stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info">
 </div>
 </div>`;
 }
-__name(build_html23, "build_html");
+__name(build_html24, "build_html");
 function render24(plugin, opts = {}) {
-const html = build_html23.call(this, plugin, opts);
+const html = build_html24.call(this, plugin, opts);
 const frag = this.create_doc_fragment(html);
 const container = frag.querySelector(".wrapper");
-post_process22.call(this, plugin, container, opts);
+post_process23.call(this, plugin, container, opts);
 return container;
 }
 __name(render24, "render");
-async function post_process22(plugin, container) {
+async function post_process23(plugin, container) {
 const icon_container = container.querySelector(".callout-icon");
 const icon = (0, import_obsidian30.getIcon)("hand-heart");
 if (icon) {
@@ -19698,10 +21118,10 @@ const is_logged_in = !!localStorage.getItem(oauth_storage_prefix + "token");
 if (is_logged_in) container.querySelector("#footer-callout").style.display = "none";
 await this.render_setting_components(container, { scope: plugin.env });
 }
-__name(post_process22, "post_process");
+__name(post_process23, "post_process");
 
 var import_obsidian31 = require("obsidian");
-function build_html24(plugin, opts = {}) {
+function build_html25(plugin, opts = {}) {
 const { plugin_name = plugin.manifest.name } = opts;
 return `<div class="wrapper">
 <div id="footer-callout" data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout" style="mix-blend-mode: unset;">
@@ -19723,9 +21143,9 @@ stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info">
 </div>
 </div>`;
 }
-__name(build_html24, "build_html");
+__name(build_html25, "build_html");
 function render25(plugin, opts = {}) {
-const html = build_html24.call(this, plugin, opts);
+const html = build_html25.call(this, plugin, opts);
 const frag = this.create_doc_fragment(html);
 const callout = frag.querySelector("#footer-callout");
 const icon_container = callout.querySelector(".callout-icon");
@@ -19734,13 +21154,13 @@ if (icon) {
 this.empty(icon_container);
 icon_container.appendChild(icon);
 }
-post_process23.call(this, plugin, callout, opts);
+post_process24.call(this, plugin, callout, opts);
 return callout;
 }
 __name(render25, "render");
-function post_process23(plugin, callout) {
+function post_process24(plugin, callout) {
 }
-__name(post_process23, "post_process");
+__name(post_process24, "post_process");
 
 var import_obsidian32 = require("obsidian");
 async function copy_to_clipboard3(params = {}) {
@@ -19794,11 +21214,102 @@ return total + numeric;
 }
 __name(sum_exclusions, "sum_exclusions");
 
-async function merge_template(context_items_text, context_items) {
+var DEFAULT_TEMPLATE_PRESET = "xml_structured";
+var template_presets = {
+xml_structured: {
+label: "XML-style (default)",
+context_template_before: "<context>\n{{FILE_TREE}}",
+context_template_after: "</context>",
+item_template_before: '<item loc="{{KEY}}" at="{{TIME_AGO}}" depth="{{LINK_DEPTH}}">',
+item_template_after: "</item>"
+},
+markdown_headings: {
+label: "Markdown headings",
+context_template_before: "{{FILE_TREE}}",
+context_template_after: "",
+item_template_before: [
+"## {{KEY}}",
+"Updated: {{TIME_AGO}} | Depth: {{LINK_DEPTH}}",
+"````{{EXT}}"
+].join("\n"),
+item_template_after: "````\n"
+},
+json_structured: {
+label: "JSON structured",
+context_template_before: '{\n  "context": {',
+context_template_after: "  }\n}",
+item_template_before: '    "{{KEY}}": { "name": "{{ITEM_NAME}}", "updated": "{{TIME_AGO}}", "depth": {{LINK_DEPTH}}, "content": ',
+item_template_after: "    },",
+json_stringify: true
+},
+custom: {
+label: "Custom (PRO)"
+}
+};
+var get_preset_key = /* @__PURE__ */ __name((settings = {}) => {
+const preset_key = settings.template_preset || DEFAULT_TEMPLATE_PRESET;
+if (template_presets[preset_key]) return preset_key;
+return "custom";
+}, "get_preset_key");
+var get_template_value = /* @__PURE__ */ __name((settings, defaults, preset_field_key, settings_field_key) => {
+const preset_key = get_preset_key(settings);
+const preset = template_presets[preset_key];
+const value_from_settings = settings?.[settings_field_key];
+if (preset_key !== "custom" && preset && typeof preset[preset_field_key] === "string") {
+return preset[preset_field_key];
+}
+if (preset_key === "custom" && typeof value_from_settings === "string") {
+return value_from_settings;
+}
+return defaults?.[settings_field_key];
+}, "get_template_value");
+function get_template_preset_options() {
+return Object.entries(template_presets).map(([value, config]) => ({
+value,
+label: config.label || value
+}));
+}
+__name(get_template_preset_options, "get_template_preset_options");
+function get_context_templates(settings = {}, defaults = {}) {
+return {
+template_before: get_template_value(settings, defaults, "context_template_before", "template_before"),
+template_after: get_template_value(settings, defaults, "context_template_after", "template_after")
+};
+}
+__name(get_context_templates, "get_context_templates");
+function get_item_templates(settings = {}, defaults = {}) {
+const preset_key = get_preset_key(settings);
+const preset = template_presets[preset_key];
+const include_json_stringify = preset_key === "custom" && typeof settings.json_stringify === "boolean";
+return {
+...preset && typeof preset === "object" ? preset : {},
+...include_json_stringify ? { json_stringify: settings.json_stringify } : {},
+template_before: get_template_value(settings, defaults, "item_template_before", "template_before"),
+template_after: get_template_value(settings, defaults, "item_template_after", "template_after")
+};
+}
+__name(get_item_templates, "get_item_templates");
+
+var derive_item_name_from_key = /* @__PURE__ */ __name((key = "") => {
+if (typeof key !== "string" || key.trim().length === 0) return "";
+const [filename_with_fragment] = key.split(/[\\/]/).slice(-1);
+const [source_name, ...block_parts] = (filename_with_fragment || "").split("#");
+const src_no_ext = source_name.includes(".") ? source_name.slice(0, source_name.lastIndexOf(".")) : source_name;
+if (block_parts.length > 0) {
+return `${src_no_ext}#${block_parts.join("#")}`;
+}
+return src_no_ext;
+}, "derive_item_name_from_key");
+var get_item_name = /* @__PURE__ */ __name((context_item) => {
+return derive_item_name_from_key(context_item.key);
+}, "get_item_name");
+async function merge_template(item_text, params = {}) {
 const MERGE_VARS = {
 "KEY": this.key,
+"ITEM_NAME": get_item_name(this),
 "TIME_AGO": convert_to_time_ago(this.mtime) || "Missing",
-"LINK_DEPTH": this.data.d || 0
+"LINK_DEPTH": this.data.d || "0",
+"EXT": this.item_ref?.file_type || ""
 };
 const replace_vars = /* @__PURE__ */ __name(async (template) => {
 const re_var = /{{([\w_]+)}}/g;
@@ -19810,12 +21321,37 @@ return MERGE_VARS[p1] || "";
 }
 return template;
 }, "replace_vars");
-const before = await replace_vars(this.settings.template_before || default_settings2.template_before);
-const after = await replace_vars(this.settings.template_after || default_settings2.template_after);
-return ["", before, context_items_text, after, ""].join("\n");
+const templates = get_item_templates(this.settings, default_settings2);
+if (params.json_stringify || templates.json_stringify) {
+item_text = JSON.stringify(item_text);
+}
+const before = await replace_vars(templates.template_before);
+const after = await replace_vars(templates.template_after);
+return ["", before, item_text, after, ""].join("\n");
 }
 __name(merge_template, "merge_template");
 var settings_config7 = {
+template_preset: {
+group: "Item templates",
+type: "dropdown",
+name: "Select template",
+description: "Wraps each context item with a pre-configured template.",
+options_callback: /* @__PURE__ */ __name(() => get_template_preset_options(), "options_callback")
+},
+template_before: {
+group: "Item templates",
+type: "textarea",
+name: "Template Before",
+description: "Template to wrap before the context item content.",
+scope_class: "pro-setting"
+},
+template_after: {
+group: "Item templates",
+type: "textarea",
+name: "Template After",
+description: "Template to wrap after the context item content.",
+scope_class: "pro-setting"
+},
 item_explanation: {
 type: "html",
 group: "Item templates",
@@ -19823,25 +21359,23 @@ value: `
 <b>Available variables:</b>
 <ul>
 <li><code>{{KEY}}</code> - Full path of the item</li>
+<li><code>{{ITEM_NAME}}</code> - Source file or block name without folder path or file extension</li>
 <li><code>{{TIME_AGO}}</code> - Time since the item was last modified</li>
 <li><code>{{LINK_DEPTH}}</code> - Depth level of the item</li>
+<li><code>{{EXT}}</code> - File extension of the item</li>
 </ul>
 `
 },
-template_before: {
+json_stringify: {
 group: "Item templates",
-type: "textarea",
-name: "Template Before",
-description: "Template to wrap before the context item content."
-},
-template_after: {
-group: "Item templates",
-type: "textarea",
-name: "Template After",
-description: "Template to wrap after the context item content."
+type: "toggle",
+name: "JSON Stringify",
+description: "Convert the item content to a JSON string (forces full content into single line in quotes).",
+scope_class: "pro-setting"
 }
 };
 var default_settings2 = {
+template_preset: "xml_structured",
 template_before: '<item loc="{{KEY}}" at="{{TIME_AGO}}">',
 template_after: "</item>"
 };
@@ -19923,7 +21457,8 @@ return output;
 }
 __name(build_tree_string, "build_tree_string");
 
-async function merge_template2(context_items_text, context_items) {
+async function merge_template2(context_items_text, params = {}) {
+const context_items = params.context_items || [];
 const MERGE_VARS = {
 "FILE_TREE": /* @__PURE__ */ __name(() => {
 return build_file_tree_string(context_items.map((c) => c.key));
@@ -19938,12 +21473,34 @@ return MERGE_VARS[p1]?.() || "";
 }
 return template;
 }, "replace_vars");
-const before = await replace_vars(this.settings.template_before || default_settings3.template_before);
-const after = await replace_vars(this.settings.template_after || default_settings3.template_after);
+const templates = get_context_templates(this.settings, default_settings3);
+const before = await replace_vars(templates.template_before);
+const after = await replace_vars(templates.template_after);
 return [before, context_items_text, after].join("\n");
 }
 __name(merge_template2, "merge_template");
 var settings_config8 = {
+template_preset: {
+type: "dropdown",
+group: "Context templates",
+name: "Select template",
+description: "Wraps the full context with a pre-configured template.",
+options_callback: /* @__PURE__ */ __name(() => get_template_preset_options(), "options_callback")
+},
+template_before: {
+type: "textarea",
+group: "Context templates",
+name: "Template Before",
+description: "Template to wrap before the context.",
+scope_class: "pro-setting"
+},
+template_after: {
+type: "textarea",
+group: "Context templates",
+name: "Template After",
+description: "Template to wrap after the context.",
+scope_class: "pro-setting"
+},
 context_explanation: {
 type: "html",
 group: "Context templates",
@@ -19952,21 +21509,10 @@ value: `<b>Available variables:</b>
 <li><code>{{FILE_TREE}}</code> - Shows hierarchical view of all files</li>
 </ul>
 `
-},
-template_before: {
-type: "textarea",
-group: "Context templates",
-name: "Template Before",
-description: "Template to wrap before the context."
-},
-template_after: {
-type: "textarea",
-group: "Context templates",
-name: "Template After",
-description: "Template to wrap after the context."
 }
 };
 var default_settings3 = {
+template_preset: "xml_structured",
 template_before: "<context>\n{{FILE_TREE}}",
 template_after: "</context>"
 };
@@ -20017,25 +21563,50 @@ return pcs.filter(Boolean).join(" > ");
 __name(get_block_display_name2, "get_block_display_name");
 var display_name = "Add blocks";
 
-function context_suggest_sources(params = {}) {
-const unselected = Object.values(this.env.smart_sources.items).map((src) => ({
-key: src.key,
-display: src.key,
+function normalize_folder_path(folder_path) {
+if (typeof folder_path !== "string") return "";
+return folder_path.replace(/\/+$/g, "");
+}
+__name(normalize_folder_path, "normalize_folder_path");
+function is_source_in_folder(source_key, folder_path) {
+const normalized_folder_path = normalize_folder_path(folder_path);
+if (!normalized_folder_path) return true;
+if (source_key === normalized_folder_path) return true;
+return source_key.startsWith(`${normalized_folder_path}/`);
+}
+__name(is_source_in_folder, "is_source_in_folder");
+function reset_modal_input(modal) {
+if (!modal?.inputEl) return;
+modal.last_input_value = modal.inputEl.value;
+modal.inputEl.value = "";
+}
+__name(reset_modal_input, "reset_modal_input");
+function get_sources_list(ctx, folder_path) {
+const items = Object.values(ctx.env?.smart_sources?.items || {});
+return items.filter((source) => is_source_in_folder(source.key, folder_path));
+}
+__name(get_sources_list, "get_sources_list");
+function build_source_suggestions(ctx, sources) {
+return sources.map((source) => ({
+key: source.key,
+display: source.key,
 select_action: /* @__PURE__ */ __name(() => {
-this.add_item(src.key);
+ctx.add_item(source.key);
 }, "select_action"),
-mod_select_action: /* @__PURE__ */ __name(({ modal }) => {
-modal.last_input_value = modal.inputEl.value;
-modal.inputEl.value = "";
-return context_suggest_blocks.call(this, { source_key: src.key });
+mod_select_action: /* @__PURE__ */ __name(({ modal } = {}) => {
+reset_modal_input(modal);
+return context_suggest_blocks.call(ctx, { source_key: source.key });
 }, "mod_select_action"),
-arrow_right_action: /* @__PURE__ */ __name(({ modal }) => {
-modal.last_input_value = modal.inputEl.value;
-modal.inputEl.value = "";
-return context_suggest_blocks.call(this, { source_key: src.key });
+arrow_right_action: /* @__PURE__ */ __name(({ modal } = {}) => {
+reset_modal_input(modal);
+return context_suggest_blocks.call(ctx, { source_key: source.key });
 }, "arrow_right_action")
 }));
-return unselected;
+}
+__name(build_source_suggestions, "build_source_suggestions");
+function context_suggest_sources(params = {}) {
+const sources = get_sources_list(this, params?.folder_path || "");
+return build_source_suggestions(this, sources);
 }
 __name(context_suggest_sources, "context_suggest_sources");
 var display_name2 = "Add sources";
@@ -20286,14 +21857,773 @@ class: NotificationsFeedModal
 }
 };
 merge_env_config(smart_env_config2, smart_env_config);
+var default_config_default = smart_env_config2;
 
 var import_obsidian37 = require("obsidian");
+function add_smart_chat_icon() {
+(0, import_obsidian37.addIcon)("smart-chat", `<defs>
+<symbol id="smart-chat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+<path d="M2 4c0-1.1.9-2 2-2h16c1.1 0 2 .9 2 2v11c0 1.1-.9 2-2 2h-8l-5 4v-4H4c-1.1 0-2-.9-2-2Z" stroke-width="2"></path>
+<path d="M7 8c.5.3 1.3.3 1.8 0" stroke-width="2"></path>
+<path d="M15.2 8c.5.3 1.3.3 1.8 0" stroke-width="2"></path>
+<path d="M8 11.5c1 .8 2.5 1.2 4 1.2s3-.4 4-1.2" stroke-width="2"></path>
+</symbol>
+</defs>
+<use href="#smart-chat-icon" />`);
+}
+__name(add_smart_chat_icon, "add_smart_chat_icon");
+function add_smart_connections_icon() {
+(0, import_obsidian37.addIcon)("smart-connections", `<path d="M50,20 L80,40 L80,60 L50,100" stroke="currentColor" stroke-width="4" fill="none"/>
+<path d="M30,50 L55,70" stroke="currentColor" stroke-width="5" fill="none"/>
+<circle cx="50" cy="20" r="9" fill="currentColor"/>
+<circle cx="80" cy="40" r="9" fill="currentColor"/>
+<circle cx="80" cy="70" r="9" fill="currentColor"/>
+<circle cx="50" cy="100" r="9" fill="currentColor"/>
+<circle cx="30" cy="50" r="9" fill="currentColor"/>`);
+}
+__name(add_smart_connections_icon, "add_smart_connections_icon");
+function add_smart_lookup_icon() {
+(0, import_obsidian37.addIcon)("smart-lookup", `<defs>
+<clipPath id="sc-in-search-clip" clipPathUnits="userSpaceOnUse">
+<circle cx="11" cy="11" r="8"></circle>
+</clipPath>
+<symbol id="smart-lookup-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+<g clip-path="url(#sc-in-search-clip)">
+<path d="M10.3,5.4 L14.5,8.2 L14.5,11.0 L10.3,16.6" stroke="currentColor" stroke-width="0.56" fill="none"></path>
+<path d="M7.5,9.6 L11.0,12.4" stroke="currentColor" stroke-width="0.7" fill="none"></path>
+<circle cx="10.3" cy="5.4" r="0.3" fill="currentColor"></circle>
+<circle cx="14.5" cy="8.2" r="0.3" fill="currentColor"></circle>
+<circle cx="14.5" cy="12.4" r="0.3" fill="currentColor"></circle>
+<circle cx="10.3" cy="16.6" r="0.3" fill="currentColor"></circle>
+<circle cx="7.5" cy="9.6" r="0.3" fill="currentColor"></circle>
+</g>
+<circle cx="11" cy="11" r="8"></circle>
+<path d="m21 21-4.3-4.3"></path>
+</symbol>
+</defs>
+<use href="#smart-lookup-icon" />`);
+}
+__name(add_smart_lookup_icon, "add_smart_lookup_icon");
 
 var import_obsidian38 = require("obsidian");
+
+var NOTICES = {
+item_excluded: {
+en: "Cannot show Smart Connections for excluded entity: {{entity_key}}"
+},
+load_env: {
+en: "Mobile detected: to prevent performance issues, click to load Smart Environment when ready.",
+button: {
+en: `Load Smart Env`,
+callback: /* @__PURE__ */ __name((env) => {
+env.load(true);
+}, "callback")
+},
+timeout: 1e4
+},
+/** @deprecated in favor of in-component insctructions (2025-06-22) */
+missing_entity: {
+en: "No entity found for key: {{key}}"
+},
+notice_muted: {
+en: "Notice muted"
+},
+new_version_available: {
+en: "A new version is available! (v{{version}})",
+timeout: 15e3,
+button: {
+en: "Release notes",
+callback: /* @__PURE__ */ __name((scope) => {
+window.open("https://github.com/brianpetro/obsidian-smart-connections/releases", "_blank");
+}, "callback")
+}
+},
+new_early_access_version_available: {
+en: "A new early access version is available! (v{{version}})"
+},
+supporter_key_required: {
+en: "Supporter license key required for early access update"
+},
+revert_to_stable_release: {
+en: 'Click "Check for Updates" in the community plugins tab and complete the update for Smart Connections to finish reverting to the stable release.',
+timeout: 0
+},
+action_installed: {
+en: 'Installed action "{{name}}"'
+},
+action_install_error: {
+en: 'Error installing action "{{name}}": {{error}}',
+timeout: 0
+},
+embed_model_not_loaded: {
+en: "Embed model not loaded. Please wait for the model to load and try again."
+},
+embed_search_text_failed: {
+en: "Failed to embed search text."
+},
+error_in_embedding_search: {
+en: "Error in embedding search. See console for details."
+},
+copied_to_clipboard: {
+en: "Message: {{content}} copied successfully."
+},
+copy_failed: {
+en: "Unable to copy message to clipboard."
+},
+copied_chatgpt_url_to_clipboard: {
+en: "ChatGPT URL copied to clipboard."
+},
+loading_collection: {
+en: "Loading {{collection_key}}..."
+},
+done_loading_collection: {
+en: "{{collection_key}} loaded."
+},
+saving_collection: {
+en: "Saving {{collection_key}}..."
+},
+initial_scan: {
+en: "[{{collection_key}}] Starting initial scan...",
+timeout: 0
+},
+done_initial_scan: {
+en: "[{{collection_key}}] Initial scan complete.",
+timeout: 3e3
+},
+pruning_collection: {
+en: "Pruning {{collection_key}}..."
+},
+done_pruning_collection: {
+en: "Pruned {{count}} items from {{collection_key}}."
+},
+embedding_progress: {
+en: "Embedding progress: {{progress}} / {{total}}\n{{tokens_per_second}} tokens/sec using {{model_name}}",
+button: {
+en: "Pause",
+callback: /* @__PURE__ */ __name((env) => {
+console.log("pausing");
+env.smart_sources.entities_vector_adapter.halt_embed_queue_processing();
+}, "callback")
+},
+timeout: 0
+},
+embedding_complete: {
+en: "Embedding complete. {{total_embeddings}} embeddings created. {{tokens_per_second}} tokens/sec using {{model_name}}",
+timeout: 0
+},
+embedding_paused: {
+en: "Embedding paused. Progress: {{progress}} / {{total}}\n{{tokens_per_second}} tokens/sec using {{model_name}}",
+button: {
+en: "Resume",
+callback: /* @__PURE__ */ __name((env) => {
+env.smart_sources.entities_vector_adapter.resume_embed_queue_processing(100);
+}, "callback")
+},
+timeout: 0
+},
+embedding_error: {
+en: "Error embedding: {{error}}",
+timeout: 0
+},
+import_progress: {
+en: "Importing... {{progress}} / {{total}} sources",
+timeout: 0
+},
+done_import: {
+en: "Import complete. {{count}} sources imported in {{time_in_seconds}}s",
+timeout: 0
+},
+no_import_queue: {
+en: "No items in import queue"
+},
+clearing_all: {
+en: "Clearing all data...",
+timeout: 0
+},
+done_clearing_all: {
+en: "All data cleared and reimported",
+timeout: 3e3
+},
+image_extracting: {
+en: "Extracting text from Image(s)",
+timeout: 0
+},
+pdf_extracting: {
+en: "Extracting text from PDF(s)",
+timeout: 0
+},
+insufficient_settings: {
+en: "Insufficient settings for {{key}}, missing: {{missing}}",
+timeout: 0
+},
+unable_to_init_source: {
+en: "Unable to initialize source: {{key}}",
+timeout: 0
+},
+reload_sources: {
+en: "Reloaded sources in {{time_ms}}ms"
+}
+};
+
+function define_default_create_methods(notices) {
+for (const key of Object.keys(notices)) {
+const notice_obj = notices[key];
+if (typeof notice_obj.create !== "function") {
+notice_obj.create = function(opts = {}) {
+let text = this.en ?? key;
+for (const [k, v] of Object.entries(opts)) {
+text = text.replace(new RegExp(`{{${k}}}`, "g"), String(v));
+}
+let button;
+if (!opts.button && this.button) {
+const btn_label = typeof this.button.en === "string" ? this.button.en : "OK";
+button = {
+text: btn_label,
+callback: typeof this.button.callback === "function" ? this.button.callback : () => {
+}
+};
+} else {
+button = opts.button;
+}
+let final_timeout = opts.timeout ?? this.timeout ?? 5e3;
+return {
+text,
+button,
+timeout: final_timeout,
+confirm: opts.confirm,
+immutable: opts.immutable
+};
+};
+}
+}
+return notices;
+}
+__name(define_default_create_methods, "define_default_create_methods");
+var SmartNotices = class {
+static {
+__name(this, "SmartNotices");
+}
+/**
+* @param {Object} scope - The main plugin instance
+*/
+constructor(env, opts = {}) {
+env?.create_env_getter(this);
+this.active = {};
+this.adapter = opts.adapter || this.env.config.modules.smart_notices.adapter;
+define_default_create_methods(NOTICES);
+}
+/** plugin settings for notices (muted, etc.) */
+get settings() {
+if (!this.env?.settings?.smart_notices) {
+this.env.settings.smart_notices = {};
+}
+if (!this.env?.settings?.smart_notices?.muted) {
+this.env.settings.smart_notices.muted = {};
+}
+return this.env?.settings?.smart_notices;
+}
+/**
+* Displays a notice by key or custom message.
+* Usage:
+*   notices.show('load_env', { scope: this });
+*
+* @param {string} id - The notice key or custom ID
+* @param {object} opts - Additional user opts
+*/
+show(id, opts = {}) {
+let message = null;
+if (typeof opts === "string") {
+message = opts;
+} else {
+opts = opts || {};
+}
+const normalized_id = this._normalize_notice_key(id);
+if (this.settings?.muted?.[normalized_id]) {
+if (opts.confirm?.callback) {
+opts.confirm.callback();
+}
+return;
+}
+const notice_entry = NOTICES[id];
+let derived = {
+text: message || id,
+timeout: opts.timeout ?? 5e3,
+button: opts.button,
+immutable: opts.immutable,
+confirm: opts.confirm
+};
+if (notice_entry?.create) {
+const result = notice_entry.create({ ...opts });
+derived.text = message || result.text;
+derived.timeout = result.timeout;
+derived.button = result.button;
+derived.immutable = result.immutable;
+derived.confirm = result.confirm;
+}
+const content_fragment = this._build_fragment(normalized_id, derived.text, derived);
+if (this.active[normalized_id]?.noticeEl?.isConnected) {
+return this.active[normalized_id].setMessage(content_fragment, derived.timeout);
+}
+return this._render_notice(normalized_id, content_fragment, derived);
+}
+/**
+* Normalizes the notice key to a safe string.
+*/
+_normalize_notice_key(key) {
+return key.replace(/[^a-zA-Z0-9_-]/g, "_");
+}
+/**
+* Creates and tracks the notice instance
+*/
+_render_notice(normalized_id, content_fragment, { timeout }) {
+this.active[normalized_id] = new this.adapter(content_fragment, timeout);
+return this.active[normalized_id];
+}
+/**
+* Builds a DocumentFragment with notice text & possible buttons
+*/
+_build_fragment(id, text, { button, confirm: confirm2, immutable }) {
+const frag = document.createDocumentFragment();
+frag.createEl("p", {
+cls: "sc-notice-head",
+text: `[Smart Env v${this.env.constructor.version}]`
+});
+const content = frag.createEl("p", { cls: "sc-notice-content", text });
+const actions = frag.createEl("div", { cls: "sc-notice-actions" });
+if (confirm2?.text && typeof confirm2.callback === "function") {
+this._add_button(confirm2, actions);
+}
+if (button?.text && typeof button.callback === "function") {
+this._add_button(button, actions);
+}
+if (!immutable) {
+this._add_mute_button(id, actions);
+}
+return frag;
+}
+/**
+* Creates a <button> appended to the container
+*/
+_add_button(btnConfig, container) {
+const btn = document.createElement("button");
+this.env.smart_view.safe_inner_html(btn, btnConfig.text);
+btn.addEventListener("click", (e) => {
+if (btnConfig.stay_open) {
+e.preventDefault();
+e.stopPropagation();
+}
+btnConfig.callback?.(this.env);
+});
+container.appendChild(btn);
+}
+/**
+* Mute button
+*/
+_add_mute_button(id, container) {
+const btn = document.createElement("button");
+(0, import_obsidian38.setIcon)(btn, "bell-off");
+btn.addEventListener("click", () => {
+if (!this.settings.muted) this.settings.muted = {};
+this.settings.muted[id] = true;
+if (NOTICES["notice muted"]) {
+this.show("notice muted", null, { timeout: 2e3 });
+}
+});
+container.appendChild(btn);
+}
+/**
+* Hides & clears all active notices
+*/
+unload() {
+for (const id in this.active) {
+this.remove(id);
+}
+}
+/**
+* Removes an active notice by key
+*/
+remove(id) {
+const normalized_id = this._normalize_notice_key(id);
+this.active[normalized_id]?.hide();
+delete this.active[normalized_id];
+}
+};
 
 var import_obsidian40 = require("obsidian");
 
 var import_obsidian39 = require("obsidian");
+function get_smart_server_url2() {
+if (typeof window !== "undefined" && window.SMART_SERVER_URL_OVERRIDE) {
+return window.SMART_SERVER_URL_OVERRIDE;
+}
+return "https://connect.smartconnections.app";
+}
+__name(get_smart_server_url2, "get_smart_server_url");
+
+var CLIENT_ID = "smart-plugins-op";
+var CLIENT_SECRET = "smart-plugins-op-secret";
+function set_local_storage_token({ access_token, refresh_token }, oauth_storage_prefix) {
+localStorage.setItem(oauth_storage_prefix + "token", access_token);
+if (refresh_token) {
+localStorage.setItem(oauth_storage_prefix + "refresh", refresh_token);
+}
+}
+__name(set_local_storage_token, "set_local_storage_token");
+async function exchange_code_for_tokens(code, plugin) {
+const oauth_storage_prefix = build_oauth_storage_prefix(plugin.app.vault.getName());
+const url = `${get_smart_server_url2()}/auth/oauth_exchange2`;
+const resp = await (0, import_obsidian40.requestUrl)({
+url,
+method: "POST",
+headers: { "Content-Type": "application/json" },
+body: JSON.stringify({
+client_id: CLIENT_ID,
+client_secret: CLIENT_SECRET,
+code
+})
+});
+if (resp.status !== 200) {
+throw new Error(`OAuth exchange error ${resp.status} ${resp.text}`);
+}
+const { access_token, refresh_token } = resp.json;
+if (!access_token) {
+throw new Error("No access_token in response");
+}
+set_local_storage_token({ access_token, refresh_token }, oauth_storage_prefix);
+}
+__name(exchange_code_for_tokens, "exchange_code_for_tokens");
+var OAUTH_SUFFIX = "_smart_plugins_oauth_";
+function build_oauth_storage_prefix(vault_name) {
+const safe_name = String(vault_name || "").toLowerCase().replace(/[^a-z0-9]/g, "_");
+return `${safe_name}${OAUTH_SUFFIX}`;
+}
+__name(build_oauth_storage_prefix, "build_oauth_storage_prefix");
+
+function replace_folder_tree_var(prompt) {
+const env = this;
+let paths = env.smart_sources?.fs?.folder_paths ?? [];
+paths = paths.map((p) => p.endsWith("/") ? p : p + "/");
+const tree = build_file_tree_string([...new Set(paths)]);
+return prompt.replace(/{{\s*folder_tree\s*}}/gi, tree);
+}
+__name(replace_folder_tree_var, "replace_folder_tree_var");
+
+function replace_folders_top_var(prompt) {
+const env = this;
+let paths = env.smart_sources?.fs?.folder_paths ?? [];
+paths = paths.map((p) => (p.split("/")[0] || "") + "/");
+const tree = build_file_tree_string([...new Set(paths)]);
+return prompt.replace(/{{\s*folders_top\s*}}/gi, tree);
+}
+__name(replace_folders_top_var, "replace_folders_top_var");
+
+function replace_recent_n_var(prompt) {
+console.log("replace_recent_n_var", prompt);
+const env = this;
+return prompt.replace(/{{\s*recent_(\d+)\s*}}/gi, (_, count) => {
+const n = parseInt(count, 10) || 0;
+const files = Object.values(env.smart_sources?.fs?.files ?? {}).sort((a, b) => b.stat.mtime - a.stat.mtime).slice(0, n).map((f) => f.path).join("\n  - ");
+console.log("replace_recent_n_var", n, files);
+return files ? `
+- ${files}` : "";
+}).trim();
+}
+__name(replace_recent_n_var, "replace_recent_n_var");
+
+function replace_vault_tags_var(prompt) {
+const appRef = this.app;
+const tags = appRef?.metadataCache?.getTags?.() || {};
+const vault_tags = Object.keys(tags).map((tag) => tag.replace("#", "")).join("\n  - ");
+return prompt.replace(/{{\s*(?:vault_tags|tags)\s*}}/gi, `
+- ${vault_tags}
+`).trim();
+}
+__name(replace_vault_tags_var, "replace_vault_tags_var");
+
+function register_completion_variable_adapter_replacements(variable_adapter_class) {
+variable_adapter_class.register(
+(txt) => /{{\s*folder_tree\s*}}/i.test(txt),
+replace_folder_tree_var,
+"{{ folder_tree }}"
+);
+variable_adapter_class.register(
+(txt) => /{{\s*folders_top\s*}}/i.test(txt),
+replace_folders_top_var,
+"{{ folders_top }}"
+);
+variable_adapter_class.register(
+(txt) => /{{\s*(?:tags|vault_tags)\s*}}/i.test(txt),
+replace_vault_tags_var,
+"{{ tags }}"
+);
+variable_adapter_class.register(
+(txt) => /{{\s*recent_(\d+)\s*}}/i.test(txt),
+replace_recent_n_var,
+"{{ recent_10 }}"
+);
+}
+__name(register_completion_variable_adapter_replacements, "register_completion_variable_adapter_replacements");
+
+async function remove_smart_plugins_plugin({ app: app2, plugin_ids = [] } = {}) {
+if (!app2) return;
+const adapter = app2.vault?.adapter;
+for (const plugin_id of plugin_ids) {
+const disabled = await disable_plugin_if_present(app2.plugins, plugin_id);
+if (disabled) console.warn(`Disabled legacy plugin: ${plugin_id}`);
+const removed = await remove_plugin_folder(adapter, plugin_id);
+if (removed) console.warn(`Removed legacy plugin: ${plugin_id}`);
+}
+}
+__name(remove_smart_plugins_plugin, "remove_smart_plugins_plugin");
+async function disable_plugin_if_present(app_plugins, plugin_id) {
+if (!app_plugins) return;
+const has_plugin = Boolean(
+app_plugins.plugins?.[plugin_id] || app_plugins.enabledPlugins?.has?.(plugin_id) || app_plugins.manifests && plugin_id in app_plugins.manifests
+);
+if (!has_plugin) return;
+if (app_plugins.plugins?.[plugin_id]) {
+await app_plugins.unloadPlugin?.(plugin_id);
+}
+if (app_plugins.disablePluginAndSave) {
+await app_plugins.disablePluginAndSave(plugin_id);
+}
+if (app_plugins.enabledPlugins?.has?.(plugin_id)) {
+app_plugins.enabledPlugins.delete(plugin_id);
+}
+if (app_plugins.manifests && plugin_id in app_plugins.manifests) {
+delete app_plugins.manifests[plugin_id];
+}
+await app_plugins.loadManifests?.();
+return true;
+}
+__name(disable_plugin_if_present, "disable_plugin_if_present");
+async function remove_plugin_folder(adapter, plugin_id) {
+if (!adapter?.exists) return;
+const plugin_path = `.obsidian/plugins/${plugin_id}`;
+const exists = await adapter.exists(plugin_path);
+if (!exists) return;
+if (adapter.rmdir) {
+await adapter.rmdir(plugin_path, true);
+return;
+}
+if (adapter.list && adapter.remove) {
+const stack = [plugin_path];
+while (stack.length) {
+const current_path = stack.pop();
+const listing = await adapter.list(current_path);
+for (const file of listing?.files || []) {
+await adapter.remove(`${current_path}/${file}`);
+}
+for (const folder of listing?.folders || []) {
+stack.push(`${current_path}/${folder}`);
+}
+}
+await adapter.remove(plugin_path);
+return true;
+}
+}
+__name(remove_plugin_folder, "remove_plugin_folder");
+
+var SmartEnv2 = class extends SmartEnv {
+static {
+__name(this, "SmartEnv");
+}
+/**
+* Creates and initializes a SmartEnv instance tailored for Obsidian.
+* @param {Object} plugin - The Obsidian plugin instance.
+* @param {Object} [env_config] - Required environment configuration object.
+* @returns {Promise<SmartEnv>} The initialized SmartEnv instance.
+*/
+static async create(plugin, env_config) {
+if (!plugin) throw new Error("SmartEnv.create: 'plugin' parameter is required.");
+if (!env_config) throw new Error("SmartEnv.create: 'env_config' parameter is required.");
+env_config.version = this.version;
+add_smart_chat_icon();
+add_smart_connections_icon();
+add_smart_lookup_icon();
+if (window.smart_env && !window.smart_env.constructor.version) {
+const update_notice = "Detected ancient SmartEnv. Removing it to prevent issues with new plugins. Make sure your Smart Plugins are up-to-date!";
+console.warn(update_notice);
+new import_obsidian41.Notice(update_notice, 0);
+window.smart_env = null;
+}
+const opts = merge_env_config(env_config, default_config_default);
+opts.env_path = "";
+return await super.create(plugin, opts);
+}
+async load(force_load = false) {
+this.run_migrations();
+if (!import_obsidian41.Platform.isMobile && !this.plugin.app.workspace.protocolHandlers.has("smart-plugins/callback")) {
+this.plugin.registerObsidianProtocolHandler("smart-plugins/callback", async (params) => {
+await this.handle_smart_plugins_oauth_callback(params);
+});
+}
+if (import_obsidian41.Platform.isMobile && !force_load) {
+const frag = this.smart_view.create_doc_fragment(`<div><p>Smart Environment loading deferred on mobile.</p><button>Load Environment</button></div>`);
+frag.querySelector("button").addEventListener("click", this.load.bind(this, true));
+new import_obsidian41.Notice(frag, 0);
+return;
+}
+await super.load();
+this.smart_sources?.register_source_watchers?.(this.smart_sources);
+const plugin = this.main;
+plugin.registerEvent(
+plugin.app.workspace.on("active-leaf-change", (leaf) => {
+this.smart_sources?.debounce_re_import_queue?.();
+const current_path = leaf.view?.file?.path;
+this.emit_source_opened(current_path, "active-leaf-change");
+})
+);
+plugin.registerEvent(
+plugin.app.workspace.on("file-open", (file) => {
+this.smart_sources?.debounce_re_import_queue?.();
+const current_path = file?.path;
+this.emit_source_opened(current_path, "file-open");
+})
+);
+if (this._config.collections.smart_completions?.completion_adapters?.SmartCompletionVariableAdapter) {
+register_completion_variable_adapter_replacements(this._config.collections.smart_completions.completion_adapters.SmartCompletionVariableAdapter);
+}
+const ContextModal3 = this._config.modals.context_selector.class;
+ContextModal3.register_modal(this.main);
+this.register_status_bar();
+register_first_of_event_notifications(this);
+}
+emit_source_opened(current_path, event_source = null) {
+if (this._current_opened_source === current_path) return;
+const current_source = this.smart_sources.get(current_path);
+if (current_source) {
+this._current_opened_source = current_path;
+current_source.emit_event("sources:opened", { event_source });
+}
+}
+queue_source_re_import(source) {
+this.smart_sources?.queue_source_re_import?.(source);
+}
+debounce_re_import_queue() {
+this.smart_sources?.debounce_re_import_queue?.();
+}
+async run_re_import() {
+await this.smart_sources?.run_re_import?.();
+}
+register_status_bar() {
+const status_container = this.main?.app?.statusBar?.containerEl;
+status_container?.querySelector?.(".smart-env-status-container")?.closest?.(".status-bar-item")?.remove?.();
+this.status_elm = this.main.addStatusBarItem();
+this.smart_components?.render_component("status_bar", this).then((container) => {
+this.status_elm.empty?.();
+this.status_elm.appendChild(container);
+});
+}
+/**
+* @deprecated see events
+*/
+get notices() {
+if (!this._notices) {
+this._notices = new SmartNotices(this, {
+adapter: import_obsidian41.Notice
+});
+}
+return this._notices;
+}
+/**
+* This is the function that is called by the new "Sign in with Smart Plugins" button.
+* @deprecated 2025-12-13 moved to components/pro-plugins/list.js
+* It replicates the old 'initiate_oauth()' logic from sc_settings_tab.js
+*/
+initiate_smart_plugins_oauth() {
+console.log("initiate_smart_plugins_oauth");
+const state = Math.random().toString(36).slice(2);
+const redirect_uri = encodeURIComponent("obsidian://smart-plugins/callback");
+const url = `${get_smart_server_url2()}/oauth?client_id=smart-plugins-op&redirect_uri=${redirect_uri}&state=${state}`;
+window.open(url, "_external");
+return url;
+}
+/**
+* Handles the OAuth callback from the Smart Plugins server.
+* @param {Object} params - The URL parameters from the OAuth callback.
+*/
+async handle_smart_plugins_oauth_callback(params) {
+const code = params.code;
+if (!code) {
+new import_obsidian41.Notice("No OAuth code provided in URL. Login failed.");
+return;
+}
+try {
+await exchange_code_for_tokens(code, this.plugin);
+this.events.emit("smart_plugins_oauth_completed");
+} catch (err) {
+console.error("OAuth callback error", err);
+new import_obsidian41.Notice(`OAuth callback error: ${err.message}`);
+}
+}
+/**
+* Serializes the environment and, when in a browser, triggers a download.
+* @param {string} [filename='smart_env.json']
+* @returns {string} stringified JSON
+*/
+export_json(filename = "smart_env.json") {
+const json = JSON.stringify(this.to_json(), null, 2);
+if (typeof document !== "undefined") {
+download_json(json, filename);
+}
+return json;
+}
+async ready_to_load_collections() {
+await new Promise((r) => setTimeout(r, 3e3));
+await this.wait_for_obsidian_sync();
+}
+async wait_for_obsidian_sync() {
+while (this.obsidian_is_syncing) {
+console.log("Smart Connections: Waiting for Obsidian Sync to finish");
+await new Promise((r) => setTimeout(r, 1e3));
+if (!this.plugin) throw new Error("Plugin disabled while waiting for obsidian sync, reload required.");
+}
+}
+get obsidian_is_syncing() {
+const obsidian_sync_instance = this.plugin?.app?.internalPlugins?.plugins?.sync?.instance;
+if (!obsidian_sync_instance) return false;
+if (obsidian_sync_instance?.syncStatus.startsWith("Uploading")) return false;
+if (obsidian_sync_instance?.syncStatus.startsWith("Fully synced")) return false;
+return obsidian_sync_instance?.syncing;
+}
+get obsidian_app() {
+return this.plugin?.app ?? window.app;
+}
+open_notifications_feed_modal() {
+const NotificationsModalClass = this.config.modals.notifications_feed_modal.class;
+const modal = new NotificationsModalClass(this.obsidian_app, this);
+modal.open();
+}
+open_milestones_modal() {
+const MilestonesModalClass = this.config.modals.milestones_modal.class;
+const modal = new MilestonesModalClass(this.obsidian_app, this);
+modal.open();
+}
+run_migrations() {
+remove_smart_plugins_plugin({ app: this.plugin.app, plugin_ids: ["smart-plugins"] });
+remove_smart_plugins_plugin({ app: this.plugin.app, plugin_ids: ["smart-editor"] });
+remove_smart_plugins_plugin({ app: this.plugin.app, plugin_ids: ["smart-sources"] });
+remove_smart_plugins_plugin({ app: this.plugin.app, plugin_ids: ["smart-claude"] });
+remove_smart_plugins_plugin({ app: this.plugin.app, plugin_ids: ["smart-gemini"] });
+remove_smart_plugins_plugin({ app: this.plugin.app, plugin_ids: ["smart-deepseek"] });
+remove_smart_plugins_plugin({ app: this.plugin.app, plugin_ids: ["smart-perplexity"] });
+remove_smart_plugins_plugin({ app: this.plugin.app, plugin_ids: ["smart-grok"] });
+remove_smart_plugins_plugin({ app: this.plugin.app, plugin_ids: ["smart-aistudio"] });
+}
+};
+function download_json(json, filename) {
+const blob = new Blob([json], { type: "application/json" });
+const url = URL.createObjectURL(blob);
+const anchor = document.createElement("a");
+anchor.href = url;
+anchor.download = filename;
+document.body.appendChild(anchor);
+anchor.click();
+document.body.removeChild(anchor);
+URL.revokeObjectURL(url);
+}
+__name(download_json, "download_json");
 
 var import_obsidian43 = require("obsidian");
 
@@ -20568,6 +22898,7 @@ var SmartPlugin = class extends import_obsidian44.Plugin {
 static {
 __name(this, "SmartPlugin");
 }
+SmartEnv = SmartEnv2;
 /**
 * override in subclass to provide commands.
 * use property key to override commands in further subclasses.
@@ -20650,6 +22981,14 @@ await this.saveData(data);
 async is_new_plugin_version(current_version) {
 return await this.get_last_known_version() !== current_version;
 }
+/**
+* @deprecated use SmartEnv.notices instead
+*/
+get notices() {
+if (this.env?.notices) return this.env.notices;
+if (!this._notices) this._notices = new SmartNotices(this.env, import_obsidian44.Notice);
+return this._notices;
+}
 };
 
 function collection_instance_name_from2(class_name) {
@@ -20663,7 +23002,7 @@ __name(collection_instance_name_from2, "collection_instance_name_from");
 function deep_merge2(target = {}, source = {}) {
 for (const key in source) {
 if (!Object.prototype.hasOwnProperty.call(source, key)) continue;
-if (is_plain_object3(source[key]) && is_plain_object3(target[key])) {
+if (is_plain_object4(source[key]) && is_plain_object4(target[key])) {
 deep_merge2(target[key], source[key]);
 } else {
 target[key] = source[key];
@@ -20672,10 +23011,10 @@ target[key] = source[key];
 return target;
 }
 __name(deep_merge2, "deep_merge");
-function is_plain_object3(o) {
+function is_plain_object4(o) {
 return o && typeof o === "object" && !Array.isArray(o);
 }
-__name(is_plain_object3, "is_plain_object");
+__name(is_plain_object4, "is_plain_object");
 
 function create_uid2(data) {
 const str = JSON.stringify(data);
@@ -20726,20 +23065,20 @@ __name(get_item_display_name2, "get_item_display_name");
 
 function create_actions_proxy2(ctx, actions_source) {
 const input = actions_source || {};
-const is_plain_object8 = /* @__PURE__ */ __name((val) => typeof val === "object" && val !== null && !Array.isArray(val), "is_plain_object");
+const is_plain_object9 = /* @__PURE__ */ __name((val) => typeof val === "object" && val !== null && !Array.isArray(val), "is_plain_object");
 const is_function = /* @__PURE__ */ __name((val) => typeof val === "function", "is_function");
 const is_class_export = /* @__PURE__ */ __name((val) => is_function(val) && /^class\s/.test(Function.prototype.toString.call(val)), "is_class_export");
-const is_action_object = /* @__PURE__ */ __name((val) => is_plain_object8(val) && is_function(val.action), "is_action_object");
+const is_action_object = /* @__PURE__ */ __name((val) => is_plain_object9(val) && is_function(val.action), "is_action_object");
 const is_action_candidate = /* @__PURE__ */ __name((val) => is_function(val) || is_action_object(val) || is_class_export(val), "is_action_candidate");
 const ignored_meta_keys = /* @__PURE__ */ new Set(["length", "name", "prototype"]);
 const clone_with_descriptors = /* @__PURE__ */ __name((obj) => {
-if (!is_plain_object8(obj)) return obj;
+if (!is_plain_object9(obj)) return obj;
 const out = Object.create(Object.getPrototypeOf(obj) || null);
 for (const key of Reflect.ownKeys(obj)) {
 const descriptor = Object.getOwnPropertyDescriptor(obj, key);
 if (!descriptor) continue;
 const next = { ...descriptor };
-if ("value" in next && is_plain_object8(next.value)) {
+if ("value" in next && is_plain_object9(next.value)) {
 next.value = clone_with_descriptors(next.value);
 }
 try {
@@ -20751,7 +23090,7 @@ out[key] = next.value;
 return out;
 }, "clone_with_descriptors");
 const should_bucket_actions = /* @__PURE__ */ __name((val) => {
-if (!is_plain_object8(val)) return false;
+if (!is_plain_object9(val)) return false;
 if (is_action_object(val)) return false;
 const keys = Reflect.ownKeys(val);
 if (keys.length === 0) return false;
@@ -20765,7 +23104,7 @@ if (is_action_candidate(entry)) {
 found_candidate = true;
 continue;
 }
-if (is_plain_object8(entry)) {
+if (is_plain_object9(entry)) {
 if (should_bucket_actions(entry)) {
 found_candidate = true;
 continue;
@@ -20782,7 +23121,7 @@ return found_candidate;
 const clone_descriptor = /* @__PURE__ */ __name((descriptor) => {
 if (!descriptor) return descriptor;
 if (!("value" in descriptor)) return { ...descriptor };
-const cloned = is_plain_object8(descriptor.value) ? clone_with_descriptors(descriptor.value) : descriptor.value;
+const cloned = is_plain_object9(descriptor.value) ? clone_with_descriptors(descriptor.value) : descriptor.value;
 return { ...descriptor, value: cloned };
 }, "clone_descriptor");
 const build_sources = /* @__PURE__ */ __name((src) => {
@@ -20847,7 +23186,7 @@ const bound = val.bind(ctx);
 copy_metadata(val, bound);
 return bound;
 }
-if (is_plain_object8(val)) {
+if (is_plain_object9(val)) {
 return clone_with_descriptors(val);
 }
 return val;
@@ -20856,7 +23195,7 @@ const scope_actions_for = /* @__PURE__ */ __name(() => {
 const scope_key = ctx?.constructor?.key;
 if (typeof scope_key === "undefined" || scope_key === null) return null;
 const bucket = scoped_sources.get(scope_key);
-return bucket && is_plain_object8(bucket) ? bucket : null;
+return bucket && is_plain_object9(bucket) ? bucket : null;
 }, "scope_actions_for");
 const cache_result = /* @__PURE__ */ __name((target, prop, value) => {
 target[prop] = value;
@@ -22651,6 +24990,12 @@ return val?.data ?? (typeof val !== "object" ? val : "") ?? "";
 return [header, ...rows];
 }
 __name(get_bases_output, "get_bases_output");
+function get_base_links(links_meta) {
+if (!Array.isArray(links_meta)) return /* @__PURE__ */ new Set();
+const link_targets = links_meta.map((link) => link?.link ?? link?.path ?? link?.displayText ?? link?.original ?? link?.rawText ?? "").filter((link_target) => typeof link_target === "string" && link_target.includes(".base"));
+return new Set(link_targets);
+}
+__name(get_base_links, "get_base_links");
 var BasesCache = class extends CollectionItem2 {
 static {
 __name(this, "BasesCache");
@@ -22700,6 +25045,7 @@ if (!file_view) return console.warn("No file view");
 const source = file_view.file ? this.env.smart_sources?.get(file_view.file.path) : null;
 this.#source_key = source?.key || file_view.file?.path || "";
 this.#seen_children = /* @__PURE__ */ new WeakSet();
+this.prune_missing_base_caches({ source });
 const editor = file_view?.editor?.editorComponent;
 if (editor) {
 const scan_children = /* @__PURE__ */ __name(() => {
@@ -22848,6 +25194,30 @@ this.#child_timer = null;
 this.#child_watchers.forEach((meta) => this.clear_interval(meta.id));
 this.#child_watchers.clear();
 this.#active_base_view = null;
+}
+/**
+* Remove caches for bases no longer present in source links metadata.
+*
+* @param {Object} params
+* @param {any} params.source
+* @param {string} [params.source_key]
+*/
+prune_missing_base_caches(params = {}) {
+const { source = null, source_key = this.#source_key } = params;
+const meta_links = source?.data?.meta?.links || source?.meta?.links || [];
+const base_links = get_base_links(meta_links);
+if (!source_key) return;
+const prefix = `${source_key}#`;
+let deleted_any = false;
+Object.entries(this.items).forEach(([key, item]) => {
+if (!key.startsWith(prefix)) return;
+const base_name = key.slice(prefix.length);
+if (!base_links.has(base_name)) {
+deleted_any = true;
+item.delete();
+}
+});
+if (deleted_any) this.process_save_queue();
 }
 };
 var bases_caches_default = {
@@ -25161,7 +27531,7 @@ __name(this, "EntitiesVectorAdapter");
 }
 /**
 * @constructor
-* @param {Object} collection - The collection (SmartEntities or derived class) instance.
+* @param {import('smart-entities').SmartEntities} collection - The collection (SmartEntities or derived class) instance.
 */
 constructor(collection) {
 this.collection = collection;
@@ -25171,7 +27541,7 @@ this.collection = collection;
 * @async
 * @param {number[]} vec - The reference vector.
 * @param {Object} [filter={}] - Optional filters (limit, exclude, etc.)
-* @returns {Promise<Array<{item:Object, score:number}>>} Array of results sorted by score descending.
+* @returns {Promise<Array<{item: import('smart-entities').SmartEntity, score:number}>>} Array of results sorted by score descending.
 * @abstract
 * @throws {Error} Not implemented by default.
 */
@@ -25183,7 +27553,7 @@ throw new Error("EntitiesVectorAdapter.nearest() not implemented");
 * @async
 * @param {number[]} vec - The reference vector.
 * @param {Object} [filter={}] - Optional filters (limit, exclude, etc.)
-* @returns {Promise<Array<{item:Object, score:number}>>} Array of results sorted by score ascending (furthest).
+* @returns {Promise<Array<{item: import('smart-entities').SmartEntity, score:number}>>} Array of results sorted by score ascending (furthest).
 * @abstract
 * @throws {Error} Not implemented by default.
 */
@@ -26259,7 +28629,7 @@ __name(convert_to_time_ago2, "convert_to_time_ago");
 function deep_merge3(target = {}, source = {}) {
 for (const key in source) {
 if (!Object.prototype.hasOwnProperty.call(source, key)) continue;
-if (is_plain_object4(source[key]) && is_plain_object4(target[key])) {
+if (is_plain_object5(source[key]) && is_plain_object5(target[key])) {
 deep_merge3(target[key], source[key]);
 } else {
 target[key] = source[key];
@@ -26268,10 +28638,10 @@ target[key] = source[key];
 return target;
 }
 __name(deep_merge3, "deep_merge");
-function is_plain_object4(o) {
+function is_plain_object5(o) {
 return o && typeof o === "object" && !Array.isArray(o);
 }
-__name(is_plain_object4, "is_plain_object");
+__name(is_plain_object5, "is_plain_object");
 
 function cos_sim3(vector1 = [], vector2 = []) {
 if (vector1.length !== vector2.length) {
@@ -26417,12 +28787,12 @@ addClass(class_name) {
 this.groupEl.addClass(class_name);
 }
 };
-function render_settings_config2(settings_config39, scope, container, params = {}) {
+function render_settings_config2(settings_config40, scope, container, params = {}) {
 const {
 default_group_name = "Settings"
 } = params;
-settings_config39 = ensure_settings_config2(settings_config39, scope);
-const group_map = Object.entries(settings_config39 || {}).reduce((acc, [key, config]) => {
+settings_config40 = ensure_settings_config2(settings_config40, scope);
+const group_map = Object.entries(settings_config40 || {}).reduce((acc, [key, config]) => {
 const group = config.group || default_group_name;
 if (!acc[group]) acc[group] = {};
 acc[group][key] = config;
@@ -26445,7 +28815,7 @@ group_params
 return settings_groups;
 }
 __name(render_settings_config2, "render_settings_config");
-function render_settings_group2(group_name, scope, settings_config39, container, params = {}) {
+function render_settings_group2(group_name, scope, settings_config40, container, params = {}) {
 let SettingGroup;
 try {
 const obsidian_module = require("obsidian");
@@ -26457,7 +28827,7 @@ SettingGroup = SettingGroupPolyfill2;
 } catch (e) {
 SettingGroup = SettingGroupPolyfill2;
 }
-settings_config39 = ensure_settings_config2(settings_config39, scope);
+settings_config40 = ensure_settings_config2(settings_config40, scope);
 const {
 heading_btn = null
 } = params;
@@ -26472,11 +28842,13 @@ render_heading_button2(setting_group, scope, heading_btn);
 }
 }
 setting_group.setHeading(group_name);
-for (const [setting_path, setting_config] of Object.entries(settings_config39)) {
+for (const [setting_path, setting_config] of Object.entries(settings_config40)) {
 if (!setting_config || typeof setting_config !== "object") {
 console.warn(`Invalid setting config for ${setting_path}:`, setting_config);
 continue;
 }
+const settng_is_pro = setting_config.scope_class === "pro-setting";
+const env_is_pro = !!scope.env?.is_pro;
 setting_group.addSetting((setting) => {
 if (setting_config.name) setting.setName(setting_config.name);
 setting.setClass(setting_path.replace(/[^a-zA-Z0-9]/g, "-"));
@@ -26516,7 +28888,7 @@ set_by_path2(scope.settings, setting_path, value);
 break;
 case "number":
 setting.addText((text) => {
-text.setValue(String(get_by_path2(scope.settings, setting_path) || ""));
+text.setValue(String(get_by_path2(scope.settings, setting_path) ?? "0"));
 text.inputEl.setAttribute("type", "number");
 text.onChange((value) => {
 const num_value = Number(value);
@@ -26552,8 +28924,15 @@ case "textarea":
 setting.addTextArea((text) => {
 text.setValue(String(get_by_path2(scope.settings, setting_path) || ""));
 text.onChange((value) => {
+if (settng_is_pro && !env_is_pro) {
+new import_obsidian46.Notice("Nice try! This is a PRO feature. Please upgrade to access this setting.");
+return;
+}
 set_by_path2(scope.settings, setting_path, value);
 });
+if (settng_is_pro && !env_is_pro) {
+text.setDisabled(true);
+}
 });
 break;
 case "slider":
@@ -26626,16 +29005,16 @@ return await cb(event_or_value, setting);
 }
 }
 __name(handle_config_callback2, "handle_config_callback");
-function ensure_settings_config2(settings_config39, scope) {
+function ensure_settings_config2(settings_config40, scope) {
 try {
-if (typeof settings_config39 === "function") {
-settings_config39 = settings_config39(scope);
+if (typeof settings_config40 === "function") {
+settings_config40 = settings_config40(scope);
 }
 } catch (e) {
 console.error("Error evaluating settings_config function:", e);
-settings_config39 = { error: { name: "Error", description: `Failed to load settings. ${e.message} (logged to console)` } };
+settings_config40 = { error: { name: "Error", description: `Failed to load settings. ${e.message} (logged to console)` } };
 }
-return settings_config39;
+return settings_config40;
 }
 __name(ensure_settings_config2, "ensure_settings_config");
 
@@ -26804,28 +29183,28 @@ li.setText(file_path);
 }
 };
 
-async function build_html25(env, opts = {}) {
+async function build_html26(env, opts = {}) {
 return `
 <div class="sources-settings">
 </div>
 `;
 }
-__name(build_html25, "build_html");
+__name(build_html26, "build_html");
 async function render26(env, opts = {}) {
-const html = await build_html25.call(this, env, opts);
+const html = await build_html26.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process24.call(this, env, container, opts);
+post_process25.call(this, env, container, opts);
 return container;
 }
 __name(render26, "render");
-async function post_process24(env, container, opts = {}) {
-const settings_config39 = {
+async function post_process25(env, container, opts = {}) {
+const settings_config40 = {
 folder_exclusions: folder_exclusions2,
 view_exclusions: view_exclusions2,
 re_import_sources: re_import_sources2
 };
-render_settings_config2(settings_config39, env, container, {
+render_settings_config2(settings_config40, env, container, {
 default_group_name: "Sources",
 heading_btn: {
 btn_icon: "help-circle",
@@ -26839,7 +29218,7 @@ disposers.push(env.events?.on("model:changed", highlight_reset_data2(env, contai
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process24, "post_process");
+__name(post_process25, "post_process");
 function highlight_reset_data2(env, container) {
 return async (payload) => {
 if (payload.collection_key !== "embedding_models") return;
@@ -26917,7 +29296,7 @@ confirm_yes.disabled = false;
 confirm_cancel.addEventListener("click", (e) => {
 confirm_row.style.display = "none";
 reimport_btn.style.display = "inline-block";
-});
+}, { once: true });
 }, "callback")
 };
 
@@ -27019,22 +29398,22 @@ this.prevent_close = false;
 }
 };
 
-async function build_html26(env, opts = {}) {
+async function build_html27(env, opts = {}) {
 return `
 <div class="sources-pro-settings">
 </div>
 `;
 }
-__name(build_html26, "build_html");
+__name(build_html27, "build_html");
 async function render27(env, opts = {}) {
-const html = await build_html26.call(this, env, opts);
+const html = await build_html27.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process25.call(this, env, container, opts);
+post_process26.call(this, env, container, opts);
 return container;
 }
 __name(render27, "render");
-async function post_process25(env, container, opts = {}) {
+async function post_process26(env, container, opts = {}) {
 const pro_settings_config = {
 folder_exclusions: folder_exclusions2,
 file_exclusions,
@@ -27079,7 +29458,7 @@ disposers.push(env.events?.on("model:changed", highlight_reset_data2(env, contai
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process25, "post_process");
+__name(post_process26, "post_process");
 var file_exclusions = {
 type: "button",
 name: "Manage excluded files",
@@ -27096,7 +29475,7 @@ fuzzy.open(selection_callback);
 }, "callback")
 };
 
-async function build_html27(env, opts = {}) {
+async function build_html28(env, opts = {}) {
 return `
 <div class="setting-component pro-setting">
 <div class="setting-item">
@@ -27111,16 +29490,16 @@ return `
 </div>
 `;
 }
-__name(build_html27, "build_html");
+__name(build_html28, "build_html");
 async function render28(env, opts = {}) {
-const html = await build_html27.call(this, env, opts);
+const html = await build_html28.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process26.call(this, env, container, opts);
+post_process27.call(this, env, container, opts);
 return container;
 }
 __name(render28, "render");
-async function post_process26(env, container, opts = {}) {
+async function post_process27(env, container, opts = {}) {
 const add_file_btn = container.querySelector(".sc-add-excluded-file-btn");
 if (add_file_btn) {
 add_file_btn.addEventListener("click", () => {
@@ -27132,7 +29511,7 @@ env.update_exclusions();
 }
 return container;
 }
-__name(post_process26, "post_process");
+__name(post_process27, "post_process");
 
 var smart_env_config3 = {
 collections: {
@@ -27325,7 +29704,7 @@ return this.adapter.emit(event_key, payload);
 }
 };
 
-async function build_html28(env, opts = {}) {
+async function build_html29(env, opts = {}) {
 const env_settings_html = Object.entries(env.settings_config).map(([setting_key, setting_config]) => {
 if (!setting_config.setting) setting_config.setting = setting_key;
 return this.render_setting_html(setting_config);
@@ -27341,14 +29720,14 @@ ${env_collections_containers_html}
 `;
 return html;
 }
-__name(build_html28, "build_html");
+__name(build_html29, "build_html");
 async function render29(env, opts = {}) {
-const html = await build_html28.call(this, env, opts);
+const html = await build_html29.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
-return await post_process27.call(this, env, frag, opts);
+return await post_process28.call(this, env, frag, opts);
 }
 __name(render29, "render");
-async function post_process27(env, frag, opts = {}) {
+async function post_process28(env, frag, opts = {}) {
 await this.render_setting_components(frag, { scope: env });
 const env_collections_containers = frag.querySelectorAll("[data-smart-settings]");
 for (const env_collections_container of env_collections_containers) {
@@ -27358,7 +29737,7 @@ await collection.render_settings(env_collections_container);
 }
 return frag;
 }
-__name(post_process27, "post_process");
+__name(post_process28, "post_process");
 
 var SmartSettings2 = class {
 static {
@@ -27411,7 +29790,7 @@ return smart_settings;
 * @returns {Proxy} A proxy object that observes changes to the settings.
 */
 get settings() {
-return observe_object(this._settings, (change) => {
+return observe_object2(this._settings, (change) => {
 this.emit_settings_changed(change);
 this.schedule_save();
 });
@@ -27433,7 +29812,7 @@ this.save_timeout = null;
 emit_settings_changed(change) {
 const events_bus = this.resolve_events_bus();
 if (!events_bus?.emit) return;
-events_bus.emit("settings:changed", build_settings_changed_event(change));
+events_bus.emit("settings:changed", build_settings_changed_event2(change));
 }
 resolve_events_bus() {
 if (this.opts.events) return this.opts.events;
@@ -27457,11 +29836,11 @@ if (typeof this.opts.load === "function") this._settings = this.opts.load();
 else this._settings = this.main.load_settings();
 }
 };
-function observe_object(obj, on_change) {
+function observe_object2(obj, on_change) {
 const proxy_cache = /* @__PURE__ */ new WeakMap();
 const proxy_targets = /* @__PURE__ */ new WeakMap();
 const wrap_value = /* @__PURE__ */ __name((value, path) => {
-if (!is_observable(value)) return value;
+if (!is_observable2(value)) return value;
 if (proxy_targets.has(value)) return value;
 if (proxy_cache.has(value)) return proxy_cache.get(value);
 const proxy = create_proxy(value, path);
@@ -27472,10 +29851,10 @@ return proxy;
 const create_proxy = /* @__PURE__ */ __name((target, path) => new Proxy(target, {
 set(target2, property, value) {
 const property_path = [...path, property];
-const previous_snapshot = snapshot_value(target2[property]);
-const next_snapshot = snapshot_value(value);
+const previous_snapshot = snapshot_value2(target2[property]);
+const next_snapshot = snapshot_value2(value);
 target2[property] = wrap_value(value, property_path);
-if (has_changed(previous_snapshot, next_snapshot)) {
+if (has_changed2(previous_snapshot, next_snapshot)) {
 on_change({
 type: "set",
 path: property_path,
@@ -27494,7 +29873,7 @@ if (!Object.prototype.hasOwnProperty.call(target2, property)) {
 return true;
 }
 const property_path = [...path, property];
-const previous_snapshot = snapshot_value(target2[property]);
+const previous_snapshot = snapshot_value2(target2[property]);
 delete target2[property];
 on_change({
 type: "delete",
@@ -27506,8 +29885,8 @@ return true;
 }), "create_proxy");
 return wrap_value(obj, []);
 }
-__name(observe_object, "observe_object");
-function build_settings_changed_event(change) {
+__name(observe_object2, "observe_object");
+function build_settings_changed_event2(change) {
 const path = Array.isArray(change.path) ? change.path : [];
 return {
 type: change.type,
@@ -27517,9 +29896,9 @@ value: change.value,
 previous_value: change.previous_value
 };
 }
-__name(build_settings_changed_event, "build_settings_changed_event");
-function snapshot_value(value) {
-if (!is_observable(value)) {
+__name(build_settings_changed_event2, "build_settings_changed_event");
+function snapshot_value2(value) {
+if (!is_observable2(value)) {
 return value;
 }
 if (typeof structuredClone === "function") {
@@ -27534,17 +29913,17 @@ return JSON.parse(JSON.stringify(value));
 return value;
 }
 }
-__name(snapshot_value, "snapshot_value");
-function has_changed(previous_snapshot, next_snapshot) {
-return serialize_value(previous_snapshot) !== serialize_value(next_snapshot);
+__name(snapshot_value2, "snapshot_value");
+function has_changed2(previous_snapshot, next_snapshot) {
+return serialize_value2(previous_snapshot) !== serialize_value2(next_snapshot);
 }
-__name(has_changed, "has_changed");
-function serialize_value(value) {
+__name(has_changed2, "has_changed");
+function serialize_value2(value) {
 if (value === void 0) return "undefined";
 if (Number.isNaN(value)) return "number:NaN";
 if (value === Infinity) return "number:Infinity";
 if (value === -Infinity) return "number:-Infinity";
-if (!is_observable(value)) {
+if (!is_observable2(value)) {
 return `${typeof value}:${String(value)}`;
 }
 try {
@@ -27553,11 +29932,11 @@ return `object:${JSON.stringify(value)}`;
 return `object:${String(value)}`;
 }
 }
-__name(serialize_value, "serialize_value");
-function is_observable(value) {
+__name(serialize_value2, "serialize_value");
+function is_observable2(value) {
 return typeof value === "object" && value !== null;
 }
-__name(is_observable, "is_observable");
+__name(is_observable2, "is_observable");
 
 function normalize_opts2(opts) {
 if (!opts.collections) opts.collections = {};
@@ -27605,17 +29984,17 @@ return opts;
 }
 __name(normalize_opts2, "normalize_opts");
 
-function is_plain_object5(value) {
+function is_plain_object6(value) {
 if (!value || typeof value !== "object") return false;
 const proto = Object.getPrototypeOf(value);
 return proto === Object.prototype || proto === null;
 }
-__name(is_plain_object5, "is_plain_object");
+__name(is_plain_object6, "is_plain_object");
 function deep_clone_config2(input) {
 if (Array.isArray(input)) {
 return input.map((item) => deep_clone_config2(item));
 }
-if (is_plain_object5(input)) {
+if (is_plain_object6(input)) {
 const output = {};
 for (const [k, v] of Object.entries(input)) {
 output[k] = deep_clone_config2(v);
@@ -27684,7 +30063,7 @@ return { type: "none", parts: [0, 0, 0] };
 }
 __name(normalize_version_value2, "normalize_version_value");
 
-function is_plain_object6(o) {
+function is_plain_object7(o) {
 if (o === null) return false;
 if (typeof o !== "object") return false;
 if (Array.isArray(o)) return false;
@@ -27692,10 +30071,10 @@ if (o instanceof Function) return false;
 if (o instanceof Date) return false;
 return Object.getPrototypeOf(o) === Object.prototype;
 }
-__name(is_plain_object6, "is_plain_object");
+__name(is_plain_object7, "is_plain_object");
 
 function deep_merge_no_overwrite2(target, source, path = []) {
-if (!is_plain_object6(target) || !is_plain_object6(source)) {
+if (!is_plain_object7(target) || !is_plain_object7(source)) {
 return target;
 }
 if (path.includes(source)) {
@@ -27725,8 +30104,8 @@ target[key].push(item);
 target[key].push(item);
 }
 }
-} else if (is_plain_object6(val)) {
-if (!is_plain_object6(target[key])) {
+} else if (is_plain_object7(val)) {
+if (!is_plain_object7(target[key])) {
 target[key] = {};
 }
 deep_merge_no_overwrite2(target[key], val, [...path]);
@@ -27840,7 +30219,7 @@ var SmartEnv3 = class {
 static {
 __name(this, "SmartEnv");
 }
-static version = "2.2.4";
+static version = "2.2.7";
 scope_name = "smart_env";
 static global_ref = ROOT_SCOPE2;
 global_ref = this.constructor.global_ref;
@@ -27850,7 +30229,7 @@ this._components = {};
 this.collections = {};
 this.load_timeout = null;
 this._collections_version_signature = null;
-this._events = SmartEvents2.create(this, build_events_opts(this.config?.modules?.smart_events));
+this._events = SmartEvents2.create(this, build_events_opts2(this.config?.modules?.smart_events));
 if (opts.primary_main_key) this.primary_main_key = opts.primary_main_key;
 }
 /**
@@ -27952,7 +30331,7 @@ return this.global_ref.smart_env_configs;
 */
 to_json() {
 return Object.fromEntries(
-Object.entries(this).filter(([, val]) => typeof val?.collection_key !== "undefined").map(([key, collection]) => [key, collection_to_plain(collection)])
+Object.entries(this).filter(([, val]) => typeof val?.collection_key !== "undefined").map(([key, collection]) => [key, collection_to_plain2(collection)])
 );
 }
 /**
@@ -28246,7 +30625,7 @@ get global_prop() {
 return this.opts.global_prop ?? "smart_env";
 }
 get item_types() {
-return this.opts.item_types;
+return this.config.item_types;
 }
 get fs_module_config() {
 return this.opts.modules.smart_fs;
@@ -28383,15 +30762,15 @@ get plugin() {
 return this.main;
 }
 };
-function collection_to_plain(collection) {
+function collection_to_plain2(collection) {
 return {
 items: Object.fromEntries(
 Object.entries(collection.items || {}).map(([key, item]) => [key, item.data])
 )
 };
 }
-__name(collection_to_plain, "collection_to_plain");
-function build_events_opts(module_config) {
+__name(collection_to_plain2, "collection_to_plain");
+function build_events_opts2(module_config) {
 if (!module_config) return {};
 if (typeof module_config === "function") {
 return { adapter_class: module_config };
@@ -28399,7 +30778,7 @@ return { adapter_class: module_config };
 const adapter_class = module_config.adapter_class || module_config.adapter;
 return adapter_class ? { adapter_class } : {};
 }
-__name(build_events_opts, "build_events_opts");
+__name(build_events_opts2, "build_events_opts");
 
 function create_regex2(pattern, { case_sensitive, extended_glob, windows_paths }) {
 const regex_pattern = glob_to_regex_pattern2(pattern, extended_glob);
@@ -29359,9 +31738,9 @@ ${attributes}
 * @param {Object} [opts.scope={}] - The scope to use when rendering settings (should have settings property).
 * @returns {Promise<DocumentFragment>}
 */
-async render_settings(settings_config39, opts = {}) {
-const is_fx = typeof settings_config39 === "function";
-const html = Object.entries(is_fx ? await settings_config39(opts.scope) : settings_config39).map(([setting_key, setting_config]) => {
+async render_settings(settings_config40, opts = {}) {
+const is_fx = typeof settings_config40 === "function";
+const html = Object.entries(is_fx ? await settings_config40(opts.scope) : settings_config40).map(([setting_key, setting_config]) => {
 if (!setting_config.setting) {
 setting_config.setting = setting_key;
 }
@@ -30252,20 +32631,20 @@ __name(get_item_display_name3, "get_item_display_name");
 
 function create_actions_proxy3(ctx, actions_source) {
 const input = actions_source || {};
-const is_plain_object8 = /* @__PURE__ */ __name((val) => typeof val === "object" && val !== null && !Array.isArray(val), "is_plain_object");
+const is_plain_object9 = /* @__PURE__ */ __name((val) => typeof val === "object" && val !== null && !Array.isArray(val), "is_plain_object");
 const is_function = /* @__PURE__ */ __name((val) => typeof val === "function", "is_function");
 const is_class_export = /* @__PURE__ */ __name((val) => is_function(val) && /^class\s/.test(Function.prototype.toString.call(val)), "is_class_export");
-const is_action_object = /* @__PURE__ */ __name((val) => is_plain_object8(val) && is_function(val.action), "is_action_object");
+const is_action_object = /* @__PURE__ */ __name((val) => is_plain_object9(val) && is_function(val.action), "is_action_object");
 const is_action_candidate = /* @__PURE__ */ __name((val) => is_function(val) || is_action_object(val) || is_class_export(val), "is_action_candidate");
 const ignored_meta_keys = /* @__PURE__ */ new Set(["length", "name", "prototype"]);
 const clone_with_descriptors = /* @__PURE__ */ __name((obj) => {
-if (!is_plain_object8(obj)) return obj;
+if (!is_plain_object9(obj)) return obj;
 const out = Object.create(Object.getPrototypeOf(obj) || null);
 for (const key of Reflect.ownKeys(obj)) {
 const descriptor = Object.getOwnPropertyDescriptor(obj, key);
 if (!descriptor) continue;
 const next = { ...descriptor };
-if ("value" in next && is_plain_object8(next.value)) {
+if ("value" in next && is_plain_object9(next.value)) {
 next.value = clone_with_descriptors(next.value);
 }
 try {
@@ -30277,7 +32656,7 @@ out[key] = next.value;
 return out;
 }, "clone_with_descriptors");
 const should_bucket_actions = /* @__PURE__ */ __name((val) => {
-if (!is_plain_object8(val)) return false;
+if (!is_plain_object9(val)) return false;
 if (is_action_object(val)) return false;
 const keys = Reflect.ownKeys(val);
 if (keys.length === 0) return false;
@@ -30291,7 +32670,7 @@ if (is_action_candidate(entry)) {
 found_candidate = true;
 continue;
 }
-if (is_plain_object8(entry)) {
+if (is_plain_object9(entry)) {
 if (should_bucket_actions(entry)) {
 found_candidate = true;
 continue;
@@ -30308,7 +32687,7 @@ return found_candidate;
 const clone_descriptor = /* @__PURE__ */ __name((descriptor) => {
 if (!descriptor) return descriptor;
 if (!("value" in descriptor)) return { ...descriptor };
-const cloned = is_plain_object8(descriptor.value) ? clone_with_descriptors(descriptor.value) : descriptor.value;
+const cloned = is_plain_object9(descriptor.value) ? clone_with_descriptors(descriptor.value) : descriptor.value;
 return { ...descriptor, value: cloned };
 }, "clone_descriptor");
 const build_sources = /* @__PURE__ */ __name((src) => {
@@ -30373,7 +32752,7 @@ const bound = val.bind(ctx);
 copy_metadata(val, bound);
 return bound;
 }
-if (is_plain_object8(val)) {
+if (is_plain_object9(val)) {
 return clone_with_descriptors(val);
 }
 return val;
@@ -30382,7 +32761,7 @@ const scope_actions_for = /* @__PURE__ */ __name(() => {
 const scope_key = ctx?.constructor?.key;
 if (typeof scope_key === "undefined" || scope_key === null) return null;
 const bucket = scoped_sources.get(scope_key);
-return bucket && is_plain_object8(bucket) ? bucket : null;
+return bucket && is_plain_object9(bucket) ? bucket : null;
 }, "scope_actions_for");
 const cache_result = /* @__PURE__ */ __name((target, prop, value) => {
 target[prop] = value;
@@ -31316,7 +33695,7 @@ __name(this, "EntitiesVectorAdapter");
 }
 /**
 * @constructor
-* @param {Object} collection - The collection (SmartEntities or derived class) instance.
+* @param {import('smart-entities').SmartEntities} collection - The collection (SmartEntities or derived class) instance.
 */
 constructor(collection) {
 this.collection = collection;
@@ -31326,7 +33705,7 @@ this.collection = collection;
 * @async
 * @param {number[]} vec - The reference vector.
 * @param {Object} [filter={}] - Optional filters (limit, exclude, etc.)
-* @returns {Promise<Array<{item:Object, score:number}>>} Array of results sorted by score descending.
+* @returns {Promise<Array<{item: import('smart-entities').SmartEntity, score:number}>>} Array of results sorted by score descending.
 * @abstract
 * @throws {Error} Not implemented by default.
 */
@@ -31338,7 +33717,7 @@ throw new Error("EntitiesVectorAdapter.nearest() not implemented");
 * @async
 * @param {number[]} vec - The reference vector.
 * @param {Object} [filter={}] - Optional filters (limit, exclude, etc.)
-* @returns {Promise<Array<{item:Object, score:number}>>} Array of results sorted by score ascending (furthest).
+* @returns {Promise<Array<{item: import('smart-entities').SmartEntity, score:number}>>} Array of results sorted by score ascending (furthest).
 * @abstract
 * @throws {Error} Not implemented by default.
 */
@@ -31375,7 +33754,7 @@ __name(this, "EntityVectorAdapter");
 }
 /**
 * @constructor
-* @param {Object} item - The SmartEntity instance that this adapter is associated with.
+* @param {import('smart-entities').SmartEntity} item - The SmartEntity instance that this adapter is associated with.
 */
 constructor(item) {
 this.item = item;
@@ -32672,7 +35051,7 @@ console.error(`Error during remove for ${this.key}:`, error);
 * Handles the destination as a string (new path) or entity (block or source).
 *
 * @async
-* @param {string|Object|SmartEntity} entity_ref - The destination path or entity to move to.
+* @param {string|SmartEntity} entity_ref - The destination path or entity to move to.
 * @throws {Error} If the entity reference is invalid.
 * @returns {Promise<void>} A promise that resolves when the move operation is complete.
 */
@@ -34734,6 +37113,29 @@ return result.sort(
 }
 __name(get_markdown_links2, "get_markdown_links");
 
+function get_bases_cache_links2({ source, links = [], cache } = {}) {
+if (!source || !Array.isArray(links) || !links.length) return [];
+const cache_items = cache || source?.env?.bases_caches?.items;
+if (!cache_items) return [];
+const source_key = source?.key || source?.path;
+if (!source_key) return [];
+return links.flatMap((link) => {
+if (!link?.embedded) return [];
+if (typeof link.target !== "string" || !link.target.includes(".base")) return [];
+const cache_key = `${source_key}#${link.target}`;
+const markdown_table = cache_items?.[cache_key]?.markdown_table;
+if (!markdown_table) return [];
+const table_links = get_markdown_links2(markdown_table);
+if (!table_links.length) return [];
+return table_links.map((table_link) => ({
+...table_link,
+line: link.line,
+bases_row: table_link.line - 2
+}));
+});
+}
+__name(get_bases_cache_links2, "get_bases_cache_links");
+
 function parse_value2(raw_value) {
 const trimmed = raw_value.trim();
 if (trimmed.startsWith('"') && trimmed.endsWith('"') || trimmed.startsWith("'") && trimmed.endsWith("'")) {
@@ -34886,7 +37288,15 @@ this.data.metadata = metadata;
 async get_links(content = null) {
 if (!content) content = await this.read();
 if (!content) return;
-return get_markdown_links2(content);
+const markdown_links = get_markdown_links2(content);
+const bases_links = get_bases_cache_links2({
+source: this.item,
+links: markdown_links
+});
+return [
+...markdown_links,
+...bases_links
+];
 }
 async get_metadata(content = null) {
 if (!content) content = await this.read();
@@ -35039,12 +37449,84 @@ async import() {
 }
 };
 
+function parse_canvas_json2({ content } = {}) {
+if (!content) return null;
+try {
+return JSON.parse(content);
+} catch (error) {
+console.warn("CanvasSourceContentAdapter: invalid JSON content.", error);
+return null;
+}
+}
+__name(parse_canvas_json2, "parse_canvas_json");
+function build_link_record2({ target, title } = {}) {
+if (!target) return null;
+return {
+title: title || target,
+target,
+line: 1
+};
+}
+__name(build_link_record2, "build_link_record");
+function get_canvas_node_links2({ node } = {}) {
+if (!node || typeof node !== "object") return [];
+if (node.type === "text" && typeof node.text === "string") {
+return get_markdown_links2(node.text);
+}
+if (node.type === "file" && typeof node.file === "string") {
+const subpath = typeof node.subpath === "string" ? node.subpath : "";
+const target = `${node.file}${subpath}`;
+const record = build_link_record2({ target, title: node.file });
+return record ? [record] : [];
+}
+if (node.type === "link" && typeof node.url === "string") {
+const record = build_link_record2({ target: node.url, title: node.url });
+return record ? [record] : [];
+}
+return [];
+}
+__name(get_canvas_node_links2, "get_canvas_node_links");
+function get_canvas_links_from_nodes2({ nodes = [] } = {}) {
+if (!Array.isArray(nodes)) return [];
+return nodes.reduce((links, node) => {
+links.push(...get_canvas_node_links2({ node }));
+return links;
+}, []);
+}
+__name(get_canvas_links_from_nodes2, "get_canvas_links_from_nodes");
+function get_canvas_links2({ content } = {}) {
+const canvas_data = parse_canvas_json2({ content });
+if (!canvas_data?.nodes) return [];
+return get_canvas_links_from_nodes2({ nodes: canvas_data.nodes });
+}
+__name(get_canvas_links2, "get_canvas_links");
 var CanvasSourceContentAdapter2 = class extends FileSourceContentAdapter2 {
 static {
 __name(this, "CanvasSourceContentAdapter");
 }
 static extensions = ["canvas"];
 async import() {
+if (!this.item.file) {
+console.warn(`CanvasSourceContentAdapter: Skipping missing-file: ${this.file_path}`);
+return;
+}
+const content = await this.read();
+if (!content) return;
+if (this.data.last_import?.hash === this.data.last_read?.hash && Array.isArray(this.data.outlinks)) {
+return;
+}
+this.data.outlinks = get_canvas_links2({ content });
+const file_stat = this.item.file?.stat;
+const size = file_stat?.size ?? content.length;
+const mtime = file_stat?.mtime ?? 0;
+this.data.last_import = {
+mtime,
+size,
+at: Date.now(),
+hash: this.data.last_read?.hash
+};
+this.item.loaded_at = Date.now();
+this.item.queue_save();
 }
 };
 
@@ -35214,6 +37696,9 @@ this.queue_save();
 async move_to(to_key) {
 await this.block_adapter.move_to(to_key);
 this.queue_save();
+}
+get_display_name(params = {}) {
+return this.block_adapter?.get_display_name(params);
 }
 /**
 * Retrieves the breadcrumbs representing the block's path within the source.
@@ -35679,7 +38164,7 @@ __name(this, "BlockContentAdapter");
 }
 /**
 * @constructor
-* @param {Object} item - The SmartBlock instance this adapter operates on.
+* @param {import('smart-blocks').SmartBlock} item - The SmartBlock instance this adapter operates on.
 * The `item` should at least provide `data` and references to its parent source.
 */
 constructor(item) {
@@ -35737,6 +38222,16 @@ throw new Error("Not implemented");
 * @throws {Error} If not implemented by subclass.
 */
 async move_to(to_key) {
+throw new Error("Not implemented");
+}
+/**
+* @method get_display_name
+* @abstract
+* @param {Object} params Parameters for display name generation.
+* @returns {string} The display name of the block.
+* @throws {Error} If not implemented by subclass.
+*/
+get_display_name(params) {
 throw new Error("Not implemented");
 }
 /**
@@ -35918,6 +38413,28 @@ return get_line_range3(source_content, line_start, line_end);
 */
 async _reparse_source() {
 await this.item.source.import();
+}
+get_display_name(params = {}) {
+if (!this.item?.key) return "";
+const show_full_path = params.show_full_path ?? true;
+if (show_full_path) {
+return this.item.key.replace(/#/g, " > ").replace(/\//g, " > ");
+}
+const pcs = [];
+const [source_key, ...block_parts] = this.item.key.split("#");
+const filename = source_key.split("/").pop();
+pcs.push(filename);
+if (block_parts.length) {
+const last = block_parts[block_parts.length - 1];
+if (last.startsWith("{") && last.endsWith("}")) {
+block_parts.pop();
+pcs.push(block_parts.pop());
+if (this.item.lines) pcs.push(`Lines: ${this.item.lines.join("-")}`);
+} else {
+pcs.push(block_parts.pop());
+}
+}
+return pcs.filter(Boolean).join(" > ");
 }
 };
 
@@ -38035,7 +40552,10 @@ static defaults = {
 adapter: "gemini",
 description: "Google Gemini (API)",
 default_model: "gemini-embedding-001",
-endpoint: "https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents"
+endpoint: "https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents",
+dims: 768,
+max_tokens: 2048,
+batch_size: 50
 };
 /**
 * Count tokens in input text using tokenizer
@@ -38126,7 +40646,7 @@ return Promise.resolve(this.models);
 get models() {
 return {
 "gemini-embedding-001": {
-"id": "models/gemini-embedding-001",
+"id": "gemini-embedding-001",
 "batch_size": 50,
 "dims": 768,
 "max_tokens": 2048,
@@ -38143,10 +40663,51 @@ return {
 "x-goog-api-key": this.api_key
 };
 }
+backoff_wait_time = 5e3;
+backoff_factor = 1;
+async embed_batch(inputs, retries = 0) {
+if (smart_env.smart_sources.entities_vector_adapter.is_queue_halted) {
+throw new Error("Embedding queue halted during backoff wait due to rate limit errors.");
+}
+const token_cts = inputs.map((item) => this.estimate_tokens(item.embed_input));
+const resp = await super.embed_batch(inputs);
+if (resp[0].error && resp[0].error.details && resp[0].error.details.code === 429) {
+console.warn("Rate limit error detected in Gemini embed_batch response.", resp);
+if (retries > 3) {
+console.error("Max retries reached for rate limit errors.");
+throw new Error("Max retries reached for rate limit errors.");
+}
+console.warn(resp[0].error.message);
+const retry_detail = resp[0].error.details?.details?.find((d) => d.retryDelay);
+if (retry_detail.retryDelay) {
+const wait_time_ms = parseInt(retry_detail.retryDelay) * 1e3 * 2;
+console.warn(`Using server-specified retry delay of ${wait_time_ms} ms`);
+await new Promise((resolve) => setTimeout(resolve, wait_time_ms));
+return await this.embed_batch(inputs, retries + 1);
+} else {
+this.backoff_factor += 1;
+console.warn(`Rate limit exceeded, backing off for ${this.backoff_wait_time * this.backoff_factor} ms`);
+await new Promise((resolve) => setTimeout(resolve, this.backoff_wait_time * this.backoff_factor));
+return await this.embed_batch(inputs, retries + 1);
+}
+} else if (resp[0].error) {
+console.error("Error in Gemini embed_batch response:", resp[0].error);
+throw new Error(`Gemini embed_batch error: ${resp[0].error.message}`);
+}
+resp.forEach((item, idx) => {
+item.tokens = token_cts[idx];
+});
+console.log("Gemini embed_batch response:", resp);
+return resp;
+}
 };
 var SmartEmbedGeminiRequestAdapter2 = class extends SmartEmbedModelRequestAdapter2 {
 static {
 __name(this, "SmartEmbedGeminiRequestAdapter");
+}
+get model_id() {
+let model_id = this.adapter.model.data.model_key;
+return `models/${model_id}`;
 }
 /**
 * Prepare request body for Gemini API
@@ -38204,7 +40765,7 @@ return { vec: [], tokens: 0 };
 }
 return {
 vec: embedding.values,
-tokens: 500
+tokens: null
 };
 });
 }
@@ -41549,11 +44110,18 @@ if (existing_block && existing_block.lines[0] === line_range[0] && existing_bloc
 continue;
 }
 const block_outlinks = get_markdown_links2(block_content);
+const bases_links = get_bases_cache_links2({
+source,
+links: block_outlinks
+});
 const block_data = {
 key: block_key,
 lines: line_range,
 size: block_content.length,
-outlinks: block_outlinks,
+outlinks: [
+...block_outlinks,
+...bases_links
+],
 last_read: {
 at: last_read_at,
 hash: murmur_hash_32_alphanumeric3(block_content)
@@ -42053,6 +44621,16 @@ return !parents.has(base);
 }
 __name(filter_redundant_context_items2, "filter_redundant_context_items");
 
+var remove_context_item_data2 = /* @__PURE__ */ __name((context_items, key) => {
+if (!key || !context_items?.[key]) return false;
+if (context_items[key].folder) {
+if (context_items[key].exclude) return false;
+context_items[key].exclude = true;
+return true;
+}
+delete context_items[key];
+return true;
+}, "remove_context_item_data");
 var SmartContext2 = class extends CollectionItem3 {
 static {
 __name(this, "SmartContext");
@@ -42110,16 +44688,37 @@ this.emit_event("context:updated", { added_items: items.map((item) => typeof ite
 * remove_item
 * Removes a path/ref from context and emits context:updated
 * @param {string} key
+* @param {object} params
+* @param {boolean} params.emit_updated
 */
-remove_item(key) {
-if (!key || !this.data?.context_items?.[key]) return;
-if (this.data.context_items[key].folder) {
-this.data.context_items[key].exclude = true;
-} else {
-delete this.data.context_items[key];
-}
+remove_item(key, params = {}) {
+const { emit_updated = true } = params;
+const removed = remove_context_item_data2(this.data.context_items, key);
+if (!removed) return;
 this.queue_save();
-this.emit_event("context:updated", { removed_key: key });
+if (emit_updated) this.emit_event("context:updated", { removed_key: key, removed_keys: [key] });
+}
+/**
+* remove_items
+* Removes paths/refs from context and emits context:updated once
+* @param {string[]|string} keys
+* @param {object} params
+* @param {boolean} params.emit_updated
+* @returns {string[]}
+*/
+remove_items(keys, params = {}) {
+const { emit_updated = true } = params;
+const items = Array.isArray(keys) ? keys : [keys];
+const removed_keys = [];
+items.forEach((item_key) => {
+if (remove_context_item_data2(this.data.context_items, item_key)) {
+removed_keys.push(item_key);
+}
+});
+if (!removed_keys.length) return [];
+this.queue_save();
+if (emit_updated) this.emit_event("context:updated", { removed_keys });
+return removed_keys;
 }
 clear_all() {
 this.data.context_items = {};
@@ -42172,7 +44771,7 @@ else this.emit_get_text_error(item, item_text);
 }
 const context_items_text = segments.join("\n");
 if (typeof this.actions.context_merge_template === "function") {
-return await this.actions.context_merge_template(context_items_text, context_items);
+return await this.actions.context_merge_template(context_items_text, { context_items });
 }
 return context_items_text;
 }
@@ -42193,9 +44792,12 @@ const config = this.env.config.collections.context_items;
 const Class = config.class;
 this._context_items = new Class(this.env, { ...config, class: null });
 this._context_items.load_from_data(this.data.context_items || {});
+if (!this._context_items_listener_registered) {
 this.on_event("context:updated", () => {
 this._context_items = null;
 });
+this._context_items_listener_registered = true;
+}
 }
 return this._context_items;
 }
@@ -42278,6 +44880,7 @@ return item;
 */
 static get default_settings() {
 return {
+template_preset: "xml_structured",
 template_before: "<context>\n{{FILE_TREE}}",
 template_after: "</context>"
 };
@@ -42551,6 +45154,7 @@ return this.context_item_adapters.find((adapter_class) => adapter_class.detect(k
 }
 static get default_settings() {
 return {
+template_preset: "xml_structured",
 template_before: '<item loc="{{KEY}}" at="{{TIME_AGO}}">',
 template_after: "</item>"
 };
@@ -42796,7 +45400,10 @@ return item;
 open(params = {}) {
 super.open();
 this.modalEl.addEventListener("keydown", (e) => {
-if (e.key === "Enter") this.selectActiveSuggestion(e);
+if (e.key === "Enter") {
+if (e.shiftKey) this.use_shift_select = true;
+this.selectActiveSuggestion(e);
+}
 const is_cursor_end_of_input = this.inputEl.selectionStart === this.inputEl.value.length;
 if (e.target !== this.inputEl || !this.inputEl.value || is_cursor_end_of_input || import_obsidian53.Keymap.isModEvent(e)) {
 if (e.key === "ArrowLeft") {
@@ -42893,10 +45500,12 @@ this.prevent_close = true;
 const suggestion = selected.item;
 const is_arrow_left = this.use_arrow_left;
 const is_arrow_right = this.use_arrow_right;
+const is_shift_select = evt?.shiftKey || this.use_shift_select;
 const is_mod_select = import_obsidian53.Keymap.isModifier(evt, "Mod") || this.use_mod_select;
 this.use_arrow_right = false;
 this.use_mod_select = false;
 this.use_arrow_left = false;
+this.use_shift_select = false;
 if (is_arrow_left) {
 if (typeof suggestion.arrow_left_action === "function") {
 this.handle_choose_action(suggestion, "arrow_left_action");
@@ -42918,6 +45527,8 @@ return;
 this.handle_choose_action(suggestion, "arrow_right_action");
 } else if (is_mod_select && typeof suggestion.mod_select_action === "function") {
 this.handle_choose_action(suggestion, "mod_select_action");
+} else if (is_shift_select && typeof suggestion.shift_select_action === "function") {
+this.handle_choose_action(suggestion, "shift_select_action");
 } else if (typeof suggestion.select_action === "function") {
 this.handle_choose_action(suggestion, "select_action");
 } else {
@@ -43031,6 +45642,7 @@ this.contentEl.empty();
 };
 
 var import_obsidian56 = require("obsidian");
+var MILESTONES_HELP_URL2 = "https://smartconnections.app/smart-environment/milestones/?utm_source=milestones_modal_help";
 var MilestonesModal2 = class extends import_obsidian56.Modal {
 static {
 __name(this, "MilestonesModal");
@@ -43040,7 +45652,7 @@ super(app2);
 this.env = env;
 }
 async onOpen() {
-this.titleEl.setText("Smart Milestones");
+render_milestones_modal_title2(this.titleEl, this.env);
 this.contentEl.empty();
 const milestones = await this.env.smart_components.render_component("milestones", this.env, {});
 this.contentEl.appendChild(milestones);
@@ -43049,6 +45661,56 @@ onClose() {
 this.contentEl.empty();
 }
 };
+function render_milestones_modal_title2(title_el, env) {
+if (!title_el) return;
+title_el.empty();
+title_el.classList.add("sc-milestones-modal__title");
+const row_el = document.createElement("div");
+row_el.className = "sc-milestones-modal__title-row";
+const text_el = document.createElement("div");
+text_el.className = "sc-milestones-modal__title-text";
+text_el.textContent = "Smart Milestones";
+const help_btn_el = document.createElement("button");
+help_btn_el.type = "button";
+help_btn_el.className = "sc-milestones-modal__help-btn";
+help_btn_el.setAttribute("aria-label", "Open Smart Milestones help");
+help_btn_el.setAttribute("title", "Help");
+render_help_icon2(help_btn_el);
+help_btn_el.addEventListener("click", (evt) => {
+evt.preventDefault();
+evt.stopPropagation();
+try {
+env?.events?.emit?.("milestones:help", {});
+} catch (err) {
+}
+window.open(MILESTONES_HELP_URL2, "_external");
+});
+row_el.appendChild(text_el);
+row_el.appendChild(help_btn_el);
+title_el.appendChild(row_el);
+}
+__name(render_milestones_modal_title2, "render_milestones_modal_title");
+function render_help_icon2(icon_el) {
+const ok = set_icon_with_fallback3(icon_el, ["circle-help", "help-circle", "help", "info"]);
+if (!ok) icon_el.textContent = "?";
+}
+__name(render_help_icon2, "render_help_icon");
+function set_icon_with_fallback3(icon_el, icon_ids) {
+if (!icon_el) return false;
+const ids = Array.isArray(icon_ids) ? icon_ids : [];
+for (const icon_id of ids) {
+if (typeof icon_id !== "string" || icon_id.length === 0) continue;
+icon_el.textContent = "";
+try {
+(0, import_obsidian56.setIcon)(icon_el, icon_id);
+} catch (err) {
+continue;
+}
+if (icon_el.querySelector("svg")) return true;
+}
+return false;
+}
+__name(set_icon_with_fallback3, "set_icon_with_fallback");
 
 var default_settings4 = {
 is_obsidian_vault: true,
@@ -43459,8 +46121,8 @@ return {
 "description": "Local, 512 tokens, 384 dim",
 "adapter": "transformers"
 },
-"intfloat/multilingual-e5-small": {
-"id": "intfloat/multilingual-e5-small",
+"Xenova/multilingual-e5-small": {
+"id": "Xenova/multilingual-e5-small",
 "batch_size": 1,
 "dims": 384,
 "max_tokens": 512,
@@ -43607,7 +46269,7 @@ return key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 __name(format_collection_name2, "format_collection_name");
 
-async function build_html29(collection, opts = {}) {
+async function build_html30(collection, opts = {}) {
 const settings_html = Object.entries(collection.settings_config).map(([setting_key, setting_config]) => {
 if (!setting_config.setting) setting_config.setting = setting_key;
 return this.render_setting_html(setting_config);
@@ -43618,9 +46280,9 @@ ${settings_html}
 </div></div></div>`;
 return html;
 }
-__name(build_html29, "build_html");
+__name(build_html30, "build_html");
 async function render30(collection, opts = {}) {
-const html = await build_html29.call(this, collection, opts);
+const html = await build_html30.call(this, collection, opts);
 const frag = this.create_doc_fragment(html);
 await this.render_setting_components(frag, { scope: collection });
 if (opts.settings_container) {
@@ -43713,7 +46375,7 @@ if (!label) return "";
 return `<span class="${class_name}">${label}</span>`;
 }
 __name(build_badge_html2, "build_badge_html");
-function build_html30(context_item, params = {}) {
+function build_html31(context_item, params = {}) {
 let name;
 if (context_item.item_ref) {
 if (context_item.item_ref.key.includes("#")) {
@@ -43742,16 +46404,16 @@ ${score_html}
 ${size_html}
 </span>`;
 }
-__name(build_html30, "build_html");
+__name(build_html31, "build_html");
 async function render31(context_item, params = {}) {
-const html = build_html30(context_item, params);
+const html = build_html31(context_item, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process28.call(this, context_item, container, params);
+post_process29.call(this, context_item, container, params);
 return container;
 }
 __name(render31, "render");
-async function post_process28(context_item, container, params = {}) {
+async function post_process29(context_item, container, params = {}) {
 const env = context_item.env;
 const remove_btn = container.querySelector(".sc-context-item-remove");
 if (remove_btn) {
@@ -43774,9 +46436,9 @@ context_item.open(event);
 });
 return container;
 }
-__name(post_process28, "post_process");
+__name(post_process29, "post_process");
 
-async function build_html31(env, opts = {}) {
+async function build_html32(env, opts = {}) {
 const lines = [];
 lines.push(`<h2>Collections</h2>`);
 const collection_keys = Object.keys(env.collections).filter((key) => ["smart_sources", "smart_blocks"].includes(key)).sort((a, b) => {
@@ -43804,17 +46466,17 @@ ${lines.join("\n")}
 </div>
 `;
 }
-__name(build_html31, "build_html");
+__name(build_html32, "build_html");
 async function render32(env, opts = {}) {
-const html = await build_html31.call(this, env, opts);
+const html = await build_html32.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
-return await post_process29.call(this, env, frag, opts);
+return await post_process30.call(this, env, frag, opts);
 }
 __name(render32, "render");
-async function post_process29(env, frag, opts = {}) {
+async function post_process30(env, frag, opts = {}) {
 return frag;
 }
-__name(post_process29, "post_process");
+__name(post_process30, "post_process");
 function generate_collection_stats2(collection, collectionKey) {
 const total_items = Object.values(collection.items).length;
 const niceName = format_collection_name2(collectionKey);
@@ -43869,17 +46531,17 @@ return `<p><strong>Embedding coverage:</strong> ${percent}% (${stats.embedded} /
 __name(calculate_embed_coverage2, "calculate_embed_coverage");
 
 var import_obsidian60 = require("obsidian");
-function build_html32(scope, params = {}) {
+function build_html33(scope, params = {}) {
 return `<div class="smart-form-dropdown-component"></div>`;
 }
-__name(build_html32, "build_html");
+__name(build_html33, "build_html");
 async function render33(scope, params = {}) {
-const html = build_html32.call(this, scope, params);
+const html = build_html33.call(this, scope, params);
 const frag = this.create_doc_fragment(html);
-return await post_process30.call(this, scope, frag, params);
+return await post_process31.call(this, scope, frag, params);
 }
 __name(render33, "render");
-async function post_process30(scope, container, params = {}) {
+async function post_process31(scope, container, params = {}) {
 if (!scope) {
 container.textContent = "Error: scope is required for dropdown component.";
 return container;
@@ -43946,11 +46608,11 @@ select_el.removeEventListener("change", handler);
 });
 return container;
 }
-__name(post_process30, "post_process");
+__name(post_process31, "post_process");
 render33.version = 0.2;
 
 var import_obsidian61 = require("obsidian");
-function build_html33(env, opts = {}) {
+function build_html34(env, opts = {}) {
 return `<div class="wrapper">
 <div id="lean-coffee-callout" data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout" style="mix-blend-mode: unset;">
 <div class="callout-title" style="align-items: center;">
@@ -43977,9 +46639,9 @@ stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info">
 </div>
 </div>`;
 }
-__name(build_html33, "build_html");
+__name(build_html34, "build_html");
 function render34(env, opts = {}) {
-const html = build_html33.call(this, env, opts);
+const html = build_html34.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const callout = frag.querySelector("#lean-coffee-callout");
 const icon_container = callout.querySelector(".callout-icon");
@@ -43988,13 +46650,13 @@ if (icon) {
 this.empty(icon_container);
 icon_container.appendChild(icon);
 }
-post_process31.call(this, env, callout, opts);
+post_process32.call(this, env, callout, opts);
 return callout;
 }
 __name(render34, "render");
-function post_process31(env, callout) {
+function post_process32(env, callout) {
 }
-__name(post_process31, "post_process");
+__name(post_process32, "post_process");
 
 var milestones_default2 = `.sc-events-checklist {\r
 display: flex;\r
@@ -44243,11 +46905,89 @@ transform: translateY(-0.03em);\r
 background-color: var(--interactive-accent-hover);\r
 filter: brightness(1.05);\r
 }\r
+\r
+/* Milestones modal: title row help icon */\r
+.sc-milestones-modal__title {\r
+width: 100%;\r
+}\r
+\r
+.sc-milestones-modal__title-row {\r
+display: flex;\r
+align-items: center;\r
+gap: var(--size-4-2);\r
+width: 100%;\r
+}\r
+\r
+.sc-milestones-modal__title-text {\r
+min-width: 0;\r
+}\r
+\r
+.sc-milestones-modal__help-btn {\r
+display: inline-flex;\r
+align-items: center;\r
+justify-content: center;\r
+\r
+width: 28px;\r
+height: 28px;\r
+padding: 0;\r
+border-radius: var(--radius-s);\r
+\r
+background: transparent;\r
+border: 1px solid transparent;\r
+color: var(--text-muted);\r
+\r
+cursor: pointer;\r
+}\r
+\r
+.sc-milestones-modal__help-btn svg {\r
+width: 18px;\r
+height: 18px;\r
+}\r
+\r
+.sc-milestones-modal__help-btn:hover {\r
+background: var(--background-modifier-hover);\r
+border-color: var(--background-modifier-border);\r
+color: var(--text-normal);\r
+}\r
+\r
+.sc-milestones-modal__help-btn:active {\r
+transform: translateY(1px);\r
+}\r
+\r
+.sc-milestones-modal__help-btn:focus-visible {\r
+outline: 2px solid var(--interactive-accent);\r
+outline-offset: 2px;\r
+background: var(--background-modifier-hover);\r
+border-color: var(--interactive-accent);\r
+}\r
 `;
 
 var import_obsidian63 = require("obsidian");
 
 var import_obsidian62 = require("obsidian");
+var PLUGIN_INSTALL_EVENT_CONFIG2 = {
+"connections:installed": {
+ids: ["smart-connections"]
+},
+"connections_pro:installed": {
+ids: ["smart-connections"],
+require_pro_name: true
+},
+"context:installed": {
+ids: ["smart-context"]
+},
+"context_pro:installed": {
+ids: ["smart-context"],
+require_pro_name: true
+},
+"chat:installed": {
+ids: ["smart-chatgpt", "smart-chat"]
+},
+"chat_pro:installed": {
+ids: ["smart-chat"],
+require_pro_name: true
+}
+};
 function register_first_of_event_notifications2(env) {
 env.events.on("event_log:first", (data) => {
 const event_key = data?.first_of_event_key;
@@ -44273,6 +47013,14 @@ new import_obsidian62.Notice(frag, 7e3);
 });
 }
 __name(register_first_of_event_notifications2, "register_first_of_event_notifications");
+function check_if_event_emitted2(env, event_key) {
+const plugin_event_state = resolve_plugin_install_event2(env, event_key);
+if (plugin_event_state === true) return true;
+if (env?.event_logs?.items?.[event_key]) return true;
+if (plugin_event_state === false) return false;
+return false;
+}
+__name(check_if_event_emitted2, "check_if_event_emitted");
 var EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY2 = {
 "sources:import_completed": {
 group: "Environment",
@@ -44283,6 +47031,11 @@ link: "https://smartconnections.app/smart-environment/settings/?utm_source=miles
 group: "Environment",
 milestone: "Initial embedding completed, you are ready to make connections!",
 link: "https://smartconnections.app/smart-environment/settings/?utm_source=milestones#embedding-models"
+},
+"connections:installed": {
+group: "Connections",
+milestone: "Installed Smart Connections (core plugin).",
+link: "https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones"
 },
 "connections:opened": {
 group: "Connections",
@@ -44313,6 +47066,17 @@ link: "https://smartconnections.app/smart-connections/list-feature/?utm_source=m
 group: "Connections",
 milestone: "Previewed a connection by holding cmd/ctrl while hovering the result.",
 link: "https://smartconnections.app/smart-connections/list-feature/?utm_source=milestones#core-interactions"
+},
+"connections:open_random": {
+group: "Connections",
+milestone: "Opened a random connection from Smart Connections.",
+link: "https://smartconnections.app/smart-connections/getting-started/?utm_source=milestones#open-a-random-connection"
+},
+"connections_pro:installed": {
+group: "Connections Pro",
+milestone: "Installed Smart Connections Pro.",
+link: "https://smartconnections.app/pro-plugins/?utm_source=milestones#connections-pro",
+is_pro: true
 },
 "lookup:hover_preview": {
 group: "Lookup",
@@ -44360,10 +47124,21 @@ milestone: "Renamed a Smart Context (increased clarity).",
 link: "https://smartconnections.app/smart-context/builder/?utm_source=milestones#save-reuse"
 },
 "context:copied_with_media": {
-group: "Context",
+group: "Context Pro",
 milestone: "Copied context with media (images/PDF pages) for multimodal workflows.",
 link: "https://smartconnections.app/smart-context/clipboard/?utm_source=milestones#copy-modes",
 is_pro: true
+},
+"context_pro:installed": {
+group: "Context Pro",
+milestone: "Installed Smart Context Pro.",
+link: "https://smartconnections.app/pro-plugins/?utm_source=milestones#context-pro",
+is_pro: true
+},
+"chat:installed": {
+group: "Chat",
+milestone: "Installed Smart ChatGPT.",
+link: "https://smartconnections.app/smart-chat/?utm_source=milestones"
 },
 "chat_codeblock:saved_thread": {
 group: "Chat",
@@ -44371,7 +47146,7 @@ milestone: "Started a chat in a Smart Chat codeblock (opened the loop).",
 link: "https://smartconnections.app/smart-chat/codeblock/?utm_source=milestones#quick-start"
 },
 "completion:completed": {
-group: "Chat",
+group: "Chat Pro",
 milestone: "Received the first Smart Chat response (a completion finished).",
 link: "https://smartconnections.app/smart-chat/api-integration/?utm_source=milestones#quick-start",
 is_pro: true
@@ -44381,25 +47156,31 @@ group: "Chat",
 milestone: "Marked the chat thread as done (closed the loop).",
 link: "https://smartconnections.app/smart-chat/codeblock/?utm_source=milestones#chat-inbox"
 },
+"chat_pro:installed": {
+group: "Chat Pro",
+milestone: "Installed Smart Chat Pro.",
+link: "https://smartconnections.app/pro-plugins/?utm_source=milestones#chat-pro",
+is_pro: true
+},
 "smart_plugins_oauth_completed": {
 group: "Pro",
 milestone: "Connected account (enabled Pro plugins).",
 link: "https://smartconnections.app/pro-plugins/?utm_source=milestones"
 },
 "inline_connections:show": {
-group: "Inline connections",
+group: "Connections Pro",
 milestone: "Opened inline connections in-note (used the inline workflow).",
 link: "https://smartconnections.app/smart-connections/inline/?utm_source=milestones",
 is_pro: true
 },
 "inline_connections:open_result": {
-group: "Inline connections",
+group: "Connections Pro",
 milestone: "Opened an inline connections result (navigated from discovery to source).",
 link: "https://smartconnections.app/smart-connections/inline/?utm_source=milestones",
 is_pro: true
 },
 "inline_connections:drag_result": {
-group: "Inline connections",
+group: "Connections Pro",
 milestone: "Inserted an inline link from an inline connection (converted discovery into a durable link).",
 link: "https://smartconnections.app/smart-connections/inline/?utm_source=milestones",
 is_pro: true
@@ -44412,7 +47193,9 @@ var EVENTS_CHECKLIST_GROUP_ORDER2 = [
 "Context",
 "Chat",
 "Pro",
-"Inline connections"
+"Connections Pro",
+"Context Pro",
+"Chat Pro"
 ];
 function derive_events_checklist_groups2(items_by_event_key) {
 const group_map = Object.entries(items_by_event_key || {}).reduce(
@@ -44448,12 +47231,28 @@ return { group, items };
 });
 }
 __name(derive_events_checklist_groups2, "derive_events_checklist_groups");
-
-function check_if_event_emitted2(env, event_key) {
-return !!env.event_logs.items[event_key];
+function resolve_plugin_install_event2(env, event_key) {
+const config = PLUGIN_INSTALL_EVENT_CONFIG2[event_key];
+if (!config) return null;
+const manifests = env?.plugin?.app?.plugins?.manifests || {};
+const plugin_ids = Array.isArray(config.ids) ? config.ids : [];
+for (const plugin_id of plugin_ids) {
+const manifest = manifests[plugin_id];
+if (!manifest) continue;
+if (config.require_pro_name && !is_pro_manifest2(manifest)) continue;
+return true;
 }
-__name(check_if_event_emitted2, "check_if_event_emitted");
-function build_html34(env, params = {}) {
+return false;
+}
+__name(resolve_plugin_install_event2, "resolve_plugin_install_event");
+function is_pro_manifest2(manifest) {
+const name = manifest?.name;
+if (typeof name !== "string") return false;
+return name.toLowerCase().includes("pro");
+}
+__name(is_pro_manifest2, "is_pro_manifest");
+
+function build_html35(env, params = {}) {
 const groups = derive_events_checklist_groups2(EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY2);
 const checked_count = groups.reduce((acc, g) => {
 const c = g.items.reduce((inner, item) => {
@@ -44517,22 +47316,22 @@ ${groups_html}
 </div>
 `;
 }
-__name(build_html34, "build_html");
+__name(build_html35, "build_html");
 async function render35(env, params = {}) {
 this.apply_style_sheet(milestones_default2);
-const html = build_html34.call(this, env, params);
+const html = build_html35.call(this, env, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process32.call(this, env, container, params);
+post_process33.call(this, env, container, params);
 return container;
 }
 __name(render35, "render");
-async function post_process32(env, container, params = {}) {
+async function post_process33(env, container, params = {}) {
 attach_item_link_listeners2(container);
 render_item_state_icons2(container);
 return container;
 }
-__name(post_process32, "post_process");
+__name(post_process33, "post_process");
 function build_item_html2(item, state) {
 const checked = state.checked === true;
 const checked_flag = checked ? "true" : "false";
@@ -44603,10 +47402,10 @@ checked
 __name(render_item_state_icons2, "render_item_state_icons");
 function set_item_icon2(icon_el, checked) {
 const icon_ids = checked ? ["circle-check", "check-circle", "check"] : ["circle", "circle-dashed", "dot"];
-set_icon_with_fallback2(icon_el, icon_ids);
+set_icon_with_fallback4(icon_el, icon_ids);
 }
 __name(set_item_icon2, "set_item_icon");
-function set_icon_with_fallback2(icon_el, icon_ids) {
+function set_icon_with_fallback4(icon_el, icon_ids) {
 if (!icon_el) return;
 const ids = Array.isArray(icon_ids) ? icon_ids : [];
 for (const icon_id of ids) {
@@ -44620,7 +47419,7 @@ continue;
 if (icon_el.querySelector("svg")) return;
 }
 }
-__name(set_icon_with_fallback2, "set_icon_with_fallback");
+__name(set_icon_with_fallback4, "set_icon_with_fallback");
 function get_item_el_from_event2(container, evt) {
 const target = evt && /** @type {any} */
 evt.target;
@@ -44642,21 +47441,21 @@ return item.link;
 }
 __name(get_item_link2, "get_item_link");
 
-function build_html35() {
+function build_html36() {
 return `<div>
 <button class="copy-all-notifications-btn">Copy All Notifications</button>
 <div class="smart-env-notifications-feed"></div>
 </div>`;
 }
-__name(build_html35, "build_html");
+__name(build_html36, "build_html");
 async function render36(env, params = {}) {
-const frag = this.create_doc_fragment(build_html35());
+const frag = this.create_doc_fragment(build_html36());
 const container = frag.firstElementChild;
-post_process33.call(this, env, container, params);
+post_process34.call(this, env, container, params);
 return frag;
 }
 __name(render36, "render");
-async function post_process33(env, container, params = {}) {
+async function post_process34(env, container, params = {}) {
 const feed_container = container.querySelector(".smart-env-notifications-feed");
 this.empty(feed_container);
 const entries = Array.isArray(env.event_logs.session_events) ? [...env.event_logs.session_events] : [];
@@ -44681,7 +47480,7 @@ copy_btn.textContent = "Copy All Notifications";
 });
 });
 }
-__name(post_process33, "post_process");
+__name(post_process34, "post_process");
 function get_level2(entry) {
 const [event_domain, event_type] = entry.event_key.split(":");
 if (event_domain === "notification") {
@@ -45005,7 +47804,7 @@ url: "https://smartconnections.app/smart-context/"
 return pro_placeholders;
 }
 __name(derive_fallback_plugins2, "derive_fallback_plugins");
-function build_html36(env, params = {}) {
+function build_html37(env, params = {}) {
 return `
 <div class="pro-plugins-container setting-item-heading">
 <div class="setting-group">
@@ -45023,17 +47822,17 @@ return `
 </div>
 `;
 }
-__name(build_html36, "build_html");
+__name(build_html37, "build_html");
 async function render37(env, params = {}) {
 this.apply_style_sheet(style_default3);
-const html = build_html36.call(this, env, params);
+const html = build_html37.call(this, env, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-await post_process34.call(this, env, container, params);
+await post_process35.call(this, env, container, params);
 return container;
 }
 __name(render37, "render");
-async function post_process34(env, container, params = {}) {
+async function post_process35(env, container, params = {}) {
 const plugin = env.plugin || null;
 const app2 = plugin?.app || window.app;
 const oauth_storage_prefix = get_oauth_storage_prefix2(app2);
@@ -45208,7 +48007,7 @@ render_smart_plugins();
 await render_smart_plugins();
 return container;
 }
-__name(post_process34, "post_process");
+__name(post_process35, "post_process");
 function initiate_smart_plugins_oauth2() {
 console.log("initiate_smart_plugins_oauth");
 const state = Math.random().toString(36).slice(2);
@@ -45246,10 +48045,10 @@ return false;
 
 var import_obsidian66 = require("obsidian");
 var PRO_PLUGINS_URL2 = "https://smartconnections.app/pro-plugins/";
-function build_html37(item, params = {}) {
+function build_html38(item, params = {}) {
 return `<div class="pro-plugins-list-item"></div>`;
 }
-__name(build_html37, "build_html");
+__name(build_html38, "build_html");
 function is_fallback_item2(item) {
 return !item || !item.repo;
 }
@@ -45281,14 +48080,14 @@ return { plugin_id, display_name: display_name9, desc, button_label, is_disabled
 }
 __name(compute_display_state2, "compute_display_state");
 async function render38(item, params = {}) {
-const html = build_html37(item, params);
+const html = build_html38(item, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-await post_process35.call(this, item, container, params);
+await post_process36.call(this, item, container, params);
 return container;
 }
 __name(render38, "render");
-async function post_process35(item, container, params = {}) {
+async function post_process36(item, container, params = {}) {
 const { app: app2, token, installed_map = {}, on_installed } = params;
 if (is_fallback_item2(item)) {
 const row2 = new import_obsidian66.Setting(container).setName(item.name || "Pro plugin").setDesc(item.description || "Login to unlock Pro plugins.");
@@ -45341,7 +48140,7 @@ btn.onClick(() => show_plugin_readme2(item, { app: app2, token, display_name: st
 });
 return container;
 }
-__name(post_process35, "post_process");
+__name(post_process36, "post_process");
 var download_plugin_zip2 = /* @__PURE__ */ __name(async (item, token) => {
 const resolved_download_url = typeof item.resolve_download_url === "function" ? await item.resolve_download_url() : item.download_url;
 if (resolved_download_url) {
@@ -45454,10 +48253,10 @@ test_result_el.textContent = JSON.stringify(test_result, null, 2);
 }
 };
 
-var env_model_default2 = '.model-settings .model-info {\r\n  border-radius: var(--radius-m);\r\n  padding: 1rem;\r\n  margin-bottom: 1rem;\r\n  background-color: var(--background-secondary);\r\n  pre {\r\n    margin: 0;\r\n    font-size: 0.9rem;\r\n  }\r\n  .test-result-icon {\r\n    vertical-align: middle;\r\n    margin-left: 0.5rem;\r\n  }\r\n  .test-result-icon[data-icon="square-check-big"]{\r\n    color: var(--color-green);\r\n  }\r\n  .test-result-icon[data-icon="circle-x"]{\r\n    color: var(--color-red);\r\n  }\r\n}';
+var env_model_default2 = '.model-settings .model-info {\r\n  border-radius: var(--radius-m);\r\n  padding: 1rem;\r\n  margin-bottom: 1rem;\r\n  background-color: var(--background-secondary);\r\n  pre {\r\n    margin: 0;\r\n    font-size: 0.9rem;\r\n  }\r\n  .test-result-icon {\r\n    vertical-align: middle;\r\n    margin-left: 0.5rem;\r\n  }\r\n  .test-result-icon[data-icon="square-check-big"]{\r\n    color: var(--color-green);\r\n  }\r\n  .test-result-icon[data-icon="circle-x"]{\r\n    color: var(--color-red);\r\n  }\r\n}\r\n\r\n.smart-model-modal{\r\n   pre, .model-note {\r\n    user-select: text;\r\n  }\r\n}';
 
 var import_obsidian68 = require("obsidian");
-function build_html38(model, params) {
+function build_html39(model, params) {
 const details = [
 `Provider: ${model.data.provider_key}`,
 `Model: ${model.data.model_key || "**MISSING - EDIT & SELECT MODEL**"}`
@@ -45473,16 +48272,16 @@ return `<div class="model-info">
 <pre>${details.join("\n")}</pre>
 </div>`;
 }
-__name(build_html38, "build_html");
+__name(build_html39, "build_html");
 async function render39(model, params) {
 this.apply_style_sheet(env_model_default2);
-const frag = this.create_doc_fragment(build_html38.call(this, model, params));
+const frag = this.create_doc_fragment(build_html39.call(this, model, params));
 const container = frag.firstElementChild;
-post_process36.call(this, model, container, params);
+post_process37.call(this, model, container, params);
 return container;
 }
 __name(render39, "render");
-async function post_process36(model, container, params) {
+async function post_process37(model, container, params) {
 const edit_btn = container.querySelector(".edit-model");
 const test_btn = container.querySelector(".test-model");
 const icon_el = container.querySelector(".test-result-icon");
@@ -45495,7 +48294,7 @@ new SmartModelModal2(model, { test_on_open: true }).open();
 });
 return container;
 }
-__name(post_process36, "post_process");
+__name(post_process37, "post_process");
 function get_test_result_icon_name2(model) {
 switch (model.data.test_passed) {
 case true:
@@ -45584,7 +48383,7 @@ disabled: true
 },
 {
 label: "PRO: Google Gemini (cloud)",
-value: "google",
+value: "gemini",
 disabled: true
 },
 {
@@ -45633,20 +48432,20 @@ menu.showAtMouseEvent(event);
 }
 __name(show_new_model_menu2, "show_new_model_menu");
 
-function build_html39(models_collection, params) {
+function build_html40(models_collection, params) {
 return `<div class="model-settings" data-model-type="${models_collection.collection_key}">
 <div class="global-settings"></div>
 </div>`;
 }
-__name(build_html39, "build_html");
+__name(build_html40, "build_html");
 async function render40(models_collection, params) {
-const frag = this.create_doc_fragment(build_html39.call(this, models_collection, params));
+const frag = this.create_doc_fragment(build_html40.call(this, models_collection, params));
 const container = frag.firstElementChild;
-post_process37.call(this, models_collection, container, params);
+post_process38.call(this, models_collection, container, params);
 return container;
 }
 __name(render40, "render");
-async function post_process37(models_collection, container, params) {
+async function post_process38(models_collection, container, params) {
 const disposers = [];
 const render_current_model_info = /* @__PURE__ */ __name(async (current_model) => {
 this.empty(container);
@@ -45680,9 +48479,9 @@ await render_current_model_info(models_collection.default);
 }));
 this.attach_disposer(container, disposers);
 }
-__name(post_process37, "post_process");
+__name(post_process38, "post_process");
 
-function build_html40(env, params) {
+function build_html41(env, params) {
 const models_collections = [
 env.embedding_models,
 env.chat_completion_models,
@@ -45695,15 +48494,15 @@ return `<div class="env-model-types">
 ${type_containers}
 </div>`;
 }
-__name(build_html40, "build_html");
+__name(build_html41, "build_html");
 async function render41(env, params) {
-const frag = this.create_doc_fragment(build_html40(env, params));
+const frag = this.create_doc_fragment(build_html41(env, params));
 const container = frag.firstElementChild;
-post_process38.call(this, env, container, params);
+post_process39.call(this, env, container, params);
 return container;
 }
 __name(render41, "render");
-async function post_process38(env, container, params) {
+async function post_process39(env, container, params) {
 const collection_containers = container.querySelectorAll("div[data-collection-key]");
 for (const collection_container of collection_containers) {
 const collection_key = collection_container.getAttribute("data-collection-key");
@@ -45715,9 +48514,9 @@ collection_container.appendChild(model_type_el);
 }
 return container;
 }
-__name(post_process38, "post_process");
+__name(post_process39, "post_process");
 
-function build_html41(model, params = {}) {
+function build_html42(model, params = {}) {
 return `<div class="smart-model-modal-actions">
 <button class="new-model-btn">New</button>
 <button class="delete-model-btn">Delete</button>
@@ -45728,15 +48527,15 @@ return `<div class="smart-model-modal-actions">
 </div>
 </div>`;
 }
-__name(build_html41, "build_html");
+__name(build_html42, "build_html");
 async function render42(model, params = {}) {
-const frag = this.create_doc_fragment(build_html41(model, params));
+const frag = this.create_doc_fragment(build_html42(model, params));
 const container = frag.firstElementChild;
-post_process39.call(this, model, container, params);
+post_process40.call(this, model, container, params);
 return container;
 }
 __name(render42, "render");
-async function post_process39(model, container, params = {}) {
+async function post_process40(model, container, params = {}) {
 const new_model_btn = container.querySelector(".new-model-btn");
 new_model_btn.addEventListener("click", async (event) => {
 const on_before_new = params.on_before_new;
@@ -45764,9 +48563,9 @@ params.on_after_delete();
 });
 return container;
 }
-__name(post_process39, "post_process");
+__name(post_process40, "post_process");
 
-async function build_html42(env, opts = {}) {
+async function build_html43(env, opts = {}) {
 let html = `<div class="settings-group">
 <div class="setting-item setting-item-heading">
 <div class="setting-item-name">Muted notices</div>
@@ -45792,16 +48591,16 @@ html += `<div class="setting-item"><div class="setting-item-info"><div class="se
 html += `</div>`;
 return html;
 }
-__name(build_html42, "build_html");
+__name(build_html43, "build_html");
 async function render43(env, opts = {}) {
-let html = await build_html42.call(this, env, opts);
+let html = await build_html43.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process40.call(this, env, container, opts);
+post_process41.call(this, env, container, opts);
 return container;
 }
 __name(render43, "render");
-async function post_process40(env, frag, opts = {}) {
+async function post_process41(env, frag, opts = {}) {
 const unmute_buttons = frag.querySelectorAll(".unmute-button");
 unmute_buttons.forEach((button) => {
 button.addEventListener("click", () => {
@@ -45813,11 +48612,11 @@ row.remove();
 });
 });
 }
-__name(post_process40, "post_process");
+__name(post_process41, "post_process");
 
-var style_default4 = ".sc-env-settings-container {\r\n  margin: 1rem 0;\r\n}\r\n\r\n.smart-env-settings-header {\r\n  display: flex;\r\n  align-items: center;\r\n  justify-content: space-between;\r\n  margin-bottom: 0.5rem;\r\n}\r\n\r\n.toggle-env-settings-btn {\r\n  cursor: pointer;\r\n}\r\n\r\n\r\n.setting-group .setting-items .setting-item.env-setting-highlight {\r\n  border: 1px solid var(--interactive-accent);\r\n  background-color: var(--interactive-hover);\r\n  padding: 0.5rem;\r\n  margin: 0.5rem 0;\r\n}\r\n\r\n.settings-group {\r\n  .setting-item {\r\n    border-top: none;\r\n  }\r\n}";
+var style_default4 = ".sc-env-settings-container {\n  margin: 1rem 0;\n}\n\n.smart-env-settings-header {\n  display: flex;\n  align-items: center;\n  justify-content: space-between;\n  margin-bottom: 0.5rem;\n}\n\n.toggle-env-settings-btn {\n  cursor: pointer;\n}\n\n\n.setting-group .setting-items .setting-item.env-setting-highlight {\n  border: 1px solid var(--interactive-accent);\n  background-color: var(--interactive-hover);\n  padding: 0.5rem;\n  margin: 0.5rem 0;\n}\n\n.settings-group {\n  .setting-item {\n    border-top: none;\n  }\n}\n\n.sc-inline-confirm-row {\n  display: flex;\n  align-items: center;\n  gap: 0.5rem;\n  margin-top: 0.5rem;\n}\n";
 
-async function build_html43(env, params = {}) {
+async function build_html44(env, params = {}) {
 return `<div class="smart-env-settings-container">
 <div class="sources-container">
 <h1>Sources</h1>
@@ -45830,17 +48629,17 @@ return `<div class="smart-env-settings-container">
 </div>
 </div>`;
 }
-__name(build_html43, "build_html");
+__name(build_html44, "build_html");
 async function render44(env, params = {}) {
 this.apply_style_sheet(style_default4);
-const html = await build_html43.call(this, env, params);
+const html = await build_html44.call(this, env, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process41.call(this, env, container, params);
+post_process42.call(this, env, container, params);
 return container;
 }
 __name(render44, "render");
-async function post_process41(env, container, opts = {}) {
+async function post_process42(env, container, opts = {}) {
 const models_container = container.querySelector(".models-container");
 const sources_container = container.querySelector(".sources-container");
 const notifications_container = container.querySelector(".notifications-container");
@@ -45849,7 +48648,7 @@ render_if_available2.call(this, "settings_env_models", env, models_container);
 render_if_available2.call(this, "settings_notifications", env, notifications_container);
 return container;
 }
-__name(post_process41, "post_process");
+__name(post_process42, "post_process");
 function render_if_available2(component_key, env, container) {
 if (env.config.components[component_key]) {
 const placeholder = this.create_doc_fragment(`<div data-component="${component_key}"></div>`).firstElementChild;
@@ -45863,7 +48662,7 @@ placeholder.appendChild(comp_el);
 __name(render_if_available2, "render_if_available");
 
 var import_obsidian70 = require("obsidian");
-function build_html44() {
+function build_html45() {
 return `
 <div class="sc-context-actions">
 <div class="sc-context-actions-left">
@@ -45873,16 +48672,16 @@ return `
 </div>
 `;
 }
-__name(build_html44, "build_html");
+__name(build_html45, "build_html");
 async function render45(ctx, opts = {}) {
-const html = build_html44();
+const html = build_html45();
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process42.call(this, ctx, container, opts);
+post_process43.call(this, ctx, container, opts);
 return container;
 }
 __name(render45, "render");
-async function post_process42(ctx, container, opts = {}) {
+async function post_process43(ctx, container, opts = {}) {
 const render_ctx_actions = /* @__PURE__ */ __name(() => {
 const actions_left = container.querySelector(".sc-context-actions-left");
 this.empty(actions_left);
@@ -45899,7 +48698,7 @@ disposers.push(ctx.on_event("context:updated", render_ctx_actions));
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process42, "post_process");
+__name(post_process43, "post_process");
 function render_btn_open_selector2(ctx, container) {
 const add_btn = document.createElement("button");
 add_btn.type = "button";
@@ -45974,7 +48773,25 @@ new import_obsidian71.Notice("Failed to copy.");
 }
 __name(copy_to_clipboard5, "copy_to_clipboard");
 
-function build_html45(ctx, opts = {}) {
+var schedule_next_frame3 = /* @__PURE__ */ __name((callback) => {
+if (typeof requestAnimationFrame === "function") {
+requestAnimationFrame(callback);
+return;
+}
+setTimeout(callback, 0);
+}, "schedule_next_frame");
+var create_render_scheduler3 = /* @__PURE__ */ __name((render_fn) => {
+let render_pending = false;
+return () => {
+if (render_pending) return;
+render_pending = true;
+schedule_next_frame3(async () => {
+render_pending = false;
+await render_fn();
+});
+};
+}, "create_render_scheduler");
+function build_html46(ctx, opts = {}) {
 return `<div>
 <div class="sc-context-view" data-context-key="${ctx.data.key}">
 <div class="sc-context-view-header">
@@ -45989,17 +48806,17 @@ return `<div>
 </div>
 </div>`;
 }
-__name(build_html45, "build_html");
+__name(build_html46, "build_html");
 async function render46(ctx, opts = {}) {
-const html = build_html45(ctx, opts);
+const html = build_html46(ctx, opts);
 this.apply_style_sheet(styles_default2);
 const frag = this.create_doc_fragment(html);
 const container = frag.querySelector(".sc-context-view");
-post_process43.call(this, ctx, container, opts);
+post_process44.call(this, ctx, container, opts);
 return container;
 }
 __name(render46, "render");
-async function post_process43(ctx, container, opts = {}) {
+async function post_process44(ctx, container, opts = {}) {
 const disposers = [];
 const render_children = /* @__PURE__ */ __name(async () => {
 const header = container.querySelector(".sc-context-view-header");
@@ -46018,6 +48835,7 @@ this.empty(footer);
 footer.appendChild(meta);
 });
 }, "render_children");
+const schedule_render_children = create_render_scheduler3(render_children);
 const plugin = ctx.env.plugin;
 const app2 = plugin?.app || window.app;
 const register = plugin?.registerDomEvent?.bind(plugin) || ((el, evt, cb) => el.addEventListener(evt, cb));
@@ -46035,11 +48853,11 @@ await copy_to_clipboard5(md);
 menu.showAtMouseEvent(ev);
 });
 await render_children();
-disposers.push(ctx.on_event("context:updated", render_children));
+disposers.push(ctx.on_event("context:updated", schedule_render_children));
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process43, "post_process");
+__name(post_process44, "post_process");
 function tree_dom_to_wikilinks2(container) {
 const lines = [];
 const walk = /* @__PURE__ */ __name((li, depth) => {
@@ -46064,21 +48882,21 @@ function estimate_tokens2(char_count) {
 return Math.ceil((char_count || 0) / 4);
 }
 __name(estimate_tokens2, "estimate_tokens");
-function build_html46() {
+function build_html47() {
 return `
 <div class="sc-context-meta" aria-live="polite"></div>
 `;
 }
-__name(build_html46, "build_html");
+__name(build_html47, "build_html");
 async function render47(ctx, params = {}) {
-const html = build_html46();
+const html = build_html47();
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process44.call(this, ctx, container, params);
+post_process45.call(this, ctx, container, params);
 return container;
 }
 __name(render47, "render");
-async function post_process44(ctx, container, params = {}) {
+async function post_process45(ctx, container, params = {}) {
 const render_meta = /* @__PURE__ */ __name(() => {
 if (ctx?.has_context_items) {
 const chars = ctx.size || 0;
@@ -46094,7 +48912,7 @@ disposers.push(ctx.on_event("context:updated", render_meta));
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process44, "post_process");
+__name(post_process45, "post_process");
 
 function build_tree_item2(item, selected_paths, child_html = "") {
 let { key, path, name, is_file } = item;
@@ -46104,7 +48922,7 @@ let connections_btn = "";
 let links_btn = "";
 if (!key) key = path;
 if (selected_paths.has(key) || has_children) {
-remove_btn = `<span class="sc-tree-remove" data-path="${key}">\xD7</span>`;
+remove_btn = `<span class="sc-context-item-remove" data-path="${key}">\xD7</span>`;
 }
 if (selected_paths.has(key) && !key.startsWith("external:../")) {
 connections_btn = `<span class="sc-tree-connections" data-path="${key}" title="Connections for ${name}"></span>`;
@@ -46113,7 +48931,7 @@ links_btn = `<span class="sc-tree-links" data-path="${key}" title="Links for ${n
 const label_classes = ["sc-tree-label"];
 if (item.exists === false) label_classes.push("missing");
 return `<li data-path="${key}" class="sc-tree-item ${is_file ? "file" : "dir"}${key.startsWith("external:") ? " sc-external" : ""}">
-${is_file ? remove_btn : ""}
+${remove_btn}
 <span class="${label_classes.join(" ")}">${name}</span>
 ${connections_btn}
 ${links_btn}
@@ -46130,6 +48948,7 @@ return tree_list_html;
 }
 __name(build_tree_html2, "build_tree_html");
 function build_path_tree2(selected_items = []) {
+const get_item_key = /* @__PURE__ */ __name((item) => item?.key || item?.path || "", "get_item_key");
 const split_path_segments = /* @__PURE__ */ __name((item_path) => {
 const BLOCK_ID_RE = /#\{\d+\}$/u;
 let remainder = item_path;
@@ -46177,12 +48996,17 @@ return { segments, has_block };
 const root = { name: "", children: {}, selected: false };
 const is_redundant = /* @__PURE__ */ __name((p, selected_folders2) => selected_folders2.some((folder) => p.startsWith(`${folder}/`)), "is_redundant");
 const selected_folders = selected_items.filter((it) => {
-const for_ext_check = it.key.includes("#") ? it.key.split("#")[0] : it.key;
+const item_key = get_item_key(it);
+if (!item_key) return false;
+const for_ext_check = item_key.includes("#") ? item_key.split("#")[0] : item_key;
 return !for_ext_check.match(/\.[a-zA-Z0-9]+$/u);
-}).map((it) => it.key);
-for (const { key, exists } of selected_items) {
-if (is_redundant(key, selected_folders.filter((p) => p !== key))) continue;
-const { segments, has_block } = split_path_segments(key);
+}).map((it) => get_item_key(it)).filter(Boolean);
+for (const item of selected_items) {
+const item_key = get_item_key(item);
+const exists = item?.exists;
+if (!item_key) continue;
+if (is_redundant(item_key, selected_folders.filter((p) => p !== item_key))) continue;
+const { segments, has_block } = split_path_segments(item_key);
 let node = root;
 let running = "";
 segments.forEach((seg, idx) => {
@@ -46193,7 +49017,7 @@ const is_block_leaf = is_last && has_block;
 if (!node.children[seg]) {
 node.children[seg] = {
 name: seg,
-path: is_block_leaf ? key : running,
+path: is_block_leaf ? item_key : running,
 children: is_block_leaf ? [] : {},
 selected: false,
 is_file: is_block_leaf || is_last && seg.includes(".")
@@ -46219,24 +49043,64 @@ return `<ul>${child_html}</ul>`;
 }
 __name(tree_to_html2, "tree_to_html");
 
-var tree_default2 = ".sc-context-tree {\r\n  ul {\r\n    padding-inline-start: 1.7rem;\r\n  }\r\n  li:has(> .sc-context-item-leaf > .sc-context-item-remove) {\r\n    list-style-type: none;\r\n  }\r\n  .sc-context-item-remove:hover {\r\n    font-weight: bold;\r\n    filter: brightness(1.8);\r\n  }\r\n  .sc-context-item-remove {\r\n    padding: 0 0.2rem;\r\n    margin-left: -1.4rem;\r\n  }\r\n}\r\n.sc-context-item-leaf {\r\n  cursor: pointer;\r\n}\r\n.sc-context-item-score,\r\n.sc-context-item-size {\r\n  display: inline-block;\r\n  min-width: 4.5ch;\r\n  height: 1.7em;\r\n  line-height: 1.7em;\r\n  text-align: center;\r\n  font-weight: 600 !important;\r\n  font-size: 0.8em !important;\r\n  color: var(--nav-item-color) !important;\r\n  background: var(--background-modifier-hover);\r\n  border-radius: 6px;\r\n  padding: 0 0.4em;\r\n  margin-right: 0.35em;\r\n}\r\n.sc-context-item-size {\r\n  min-width: 0;\r\n}";
+var tree_default2 = ".sc-context-tree {\r\n  ul {\r\n    padding-inline-start: 1.7rem;\r\n  }\r\n  li:has(> .sc-context-item-leaf > .sc-context-item-remove) {\r\n    list-style-type: none;\r\n  }\r\n  .sc-context-item-remove:hover {\r\n    font-weight: bold;\r\n    filter: brightness(1.8);\r\n  }\r\n  .sc-context-item-remove {\r\n    padding: 0 0.2rem;\r\n    margin-left: -1.4rem;\r\n  }\r\n}\r\n.sc-context-item-leaf, .sc-context-item-remove {\r\n  cursor: pointer;\r\n}\r\n.sc-context-item-score,\r\n.sc-context-item-size {\r\n  display: inline-block;\r\n  min-width: 4.5ch;\r\n  height: 1.7em;\r\n  line-height: 1.7em;\r\n  text-align: center;\r\n  font-weight: 600 !important;\r\n  font-size: 0.8em !important;\r\n  color: var(--nav-item-color) !important;\r\n  background: var(--background-modifier-hover);\r\n  border-radius: 6px;\r\n  padding: 0 0.4em;\r\n  margin-right: 0.35em;\r\n}\r\n.sc-context-item-size {\r\n  min-width: 0;\r\n}";
 
-function build_html47(ctx, params = {}) {
+var is_nested_context_item2 = /* @__PURE__ */ __name((item_key, target_path) => {
+if (!item_key || !target_path) return false;
+if (item_key === target_path) return true;
+if (item_key.startsWith(`${target_path}/`)) return true;
+return item_key.startsWith(`${target_path}#`);
+}, "is_nested_context_item");
+function get_nested_context_item_keys2(ctx, params = {}) {
+const { target_path } = params;
+if (!target_path) return [];
+const context_item_keys = Object.keys(ctx?.data?.context_items || {});
+const nested_keys = context_item_keys.filter((item_key) => is_nested_context_item2(item_key, target_path));
+return [...new Set(nested_keys)];
+}
+__name(get_nested_context_item_keys2, "get_nested_context_item_keys");
+
+var schedule_next_frame4 = /* @__PURE__ */ __name((callback) => {
+if (typeof requestAnimationFrame === "function") {
+requestAnimationFrame(callback);
+return;
+}
+setTimeout(callback, 0);
+}, "schedule_next_frame");
+var create_render_scheduler4 = /* @__PURE__ */ __name((render_fn) => {
+let render_pending = false;
+return () => {
+if (render_pending) return;
+render_pending = true;
+schedule_next_frame4(() => {
+render_pending = false;
+render_fn();
+});
+};
+}, "create_render_scheduler");
+var remove_nested_context_items2 = /* @__PURE__ */ __name((ctx, params = {}) => {
+const { target_path } = params;
+const nested_keys = get_nested_context_item_keys2(ctx, { target_path });
+ctx.remove_items(nested_keys);
+}, "remove_nested_context_items");
+function build_html48(ctx, params = {}) {
 return `
 <div class="sc-context-tree" data-context-key="${ctx.data.key}"></div>
 `;
 }
-__name(build_html47, "build_html");
+__name(build_html48, "build_html");
 async function render48(ctx, params = {}) {
 this.apply_style_sheet(tree_default2);
-const html = build_html47(ctx, params);
+const html = build_html48(ctx, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process45.call(this, ctx, container, params);
+post_process46.call(this, ctx, container, params);
 return container;
 }
 __name(render48, "render");
-async function post_process45(ctx, container, params = {}) {
+async function post_process46(ctx, container, params = {}) {
+const plugin = ctx?.env?.plugin;
+const register_dom_event = plugin?.registerDomEvent?.bind(plugin) || ((el, evt, cb) => el.addEventListener(evt, cb));
 const render_tree_leaves = /* @__PURE__ */ __name(() => {
 const env = ctx.env;
 const items = ctx.context_items.filter(params.filter);
@@ -46257,17 +49121,26 @@ li.appendChild(leaf);
 });
 }
 }, "render_tree_leaves");
+const schedule_render_tree_leaves = create_render_scheduler4(render_tree_leaves);
 render_tree_leaves();
+register_dom_event(container, "click", (event) => {
+const target = event.target.closest(".sc-context-item-remove");
+if (!target) return;
+event.preventDefault();
+event.stopPropagation();
+const target_path = target.getAttribute("data-path");
+remove_nested_context_items2(ctx, { target_path });
+});
 const disposers = [];
-disposers.push(ctx.on_event("context:updated", render_tree_leaves));
+disposers.push(ctx.on_event("context:updated", schedule_render_tree_leaves));
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process45, "post_process");
+__name(post_process46, "post_process");
 
 var source_inspector_default2 = ".source-inspector {\r\n  background-color: var(--background-secondary-alt);\r\n  margin: var(--size-4-3) 0;\r\n  padding: var(--size-4-3);\r\n  border-radius: var(--radius-m);\r\n}\r\n\r\n.source-inspector-blocks-container {\r\n  margin-top: var(--size-4-2);\r\n  display: flex;\r\n  flex-direction: column;\r\n  gap: var(--size-4-3);\r\n}\r\n\r\n.source-inspector-blocks-container blockquote {\r\n  margin-left: var(--size-4-3);\r\n  padding-left: var(--size-4-3);\r\n  border-left: 2px solid var(--text-faint);\r\n}\r\n";
 
-function build_html48(source, opts = {}) {
+function build_html49(source, opts = {}) {
 return `<div>
 <div class="source-inspector-source-info">
 <button class="source-inspector-show-data-btn" type="button">Show source data</button>
@@ -46281,16 +49154,16 @@ return `<div>
 </div>
 </div>`;
 }
-__name(build_html48, "build_html");
+__name(build_html49, "build_html");
 async function render49(source, opts = {}) {
-const html = build_html48(source, opts);
+const html = build_html49(source, opts);
 const frag = this.create_doc_fragment(html);
 this.apply_style_sheet(source_inspector_default2);
-await post_process46.call(this, source, frag, opts);
+await post_process47.call(this, source, frag, opts);
 return frag;
 }
 __name(render49, "render");
-async function post_process46(source, frag, opts = {}) {
+async function post_process47(source, frag, opts = {}) {
 const container = frag.querySelector(".source-inspector .source-inspector-blocks-container");
 if (!container) return frag;
 const source_info = frag.querySelector(".source-inspector-source-info");
@@ -46350,7 +49223,7 @@ container.appendChild(block_frag);
 }
 return frag;
 }
-__name(post_process46, "post_process");
+__name(post_process47, "post_process");
 
 var import_obsidian75 = require("obsidian");
 
@@ -46466,7 +49339,7 @@ __name(register_status_bar_context_menu2, "register_status_bar_context_menu");
 
 var status_bar_default2 = ".status-bar-item:has(.smart-env-status-container) {\n  padding: 0 0.5em;\n\n  &:hover {\n    background-color: var(--background-modifier-hover);\n  }\n  &> .smart-env-status-container {\n    display: flex;\n    align-items: center;\n    gap: 0.5em;\n    text-decoration: none;\n    color: var(--status-bar-text-color);\n  }\n}\n\n.smart-env-status-indicator {\n  width: 0.6em;\n  height: 0.6em;\n  border-radius: 999px;\n  background-color: var(--interactive-accent);\n  opacity: 0;\n  transform: scale(0.3);\n  transition: opacity 150ms ease, transform 150ms ease;\n}\n.smart-env-status-indicator[data-level='info'] {\n  background-color: var(--interactive-accent);\n}\n.smart-env-status-indicator[data-level='attention'] {\n  background-color: var(--color-yellow);\n}\n.smart-env-status-indicator[data-level='warning'] {\n  background-color: var(--color-orange);\n}\n.smart-env-status-indicator[data-level='error'] {\n  background-color: var(--color-red);\n}\n\n.smart-env-status-indicator[data-count] {\n  opacity: 1;\n  transform: scale(1);\n}\n\n.smart-env-notifications-feed {\n  display: flex;\n  flex-direction: column;\n  padding: 0.5rem 0;\n  gap: 0.42rem;\n}\n\n.smart-env-notifications-empty {\n  margin: 0;\n  color: var(--text-muted);\n}\n\n.smart-env-notification {\n  font-size: var(--font-smaller);\n  display: flex;\n  flex-direction: column;\n  border-left: 3px solid var(--interactive-accent);\n  padding-left: 0.75rem;\n}\n\n.smart-env-notification[data-level='attention'] {\n  border-color: var(--color-yellow);\n}\n\n.smart-env-notification[data-level='warning'] {\n  border-color: var(--color-orange);\n}\n\n.smart-env-notification[data-level='error'] {\n  border-color: var(--color-red);\n}\n\n.smart-env-notification__message {\n  margin: 0;\n  font-weight: 500;\n  white-space: pre-wrap;\n}\n\n.smart-env-notification__meta {\n  color: var(--text-muted);\n  padding: 0.37rem 0;\n}\n\n.status-bar-mobile {\n  position: var(--status-bar-position);\n  bottom: 0;\n  border-radius: 0 8px 0 0;\n  border-style: solid;\n  border-width: 1px;\n  border-color: var(--status-bar-border-color);\n  background-color: var(--status-bar-background);\n  color: var(--status-bar-text-color);\n  font-size: var(--status-bar-font-size);\n  min-height: 18px;\n  padding: var(--size-4-1);\n  user-select: none;\n  z-index: var(--layer-status-bar);\n  font-variant-numeric: tabular-nums;\n  &> .smart-env-status-container {\n    padding: 5px 5px 5px 0;\n  }\n}\n\n/* footer view on mobile */\n.embedded-backlinks > .status-bar-mobile {\n  position: relative;\n  border-style: none;\n}";
 
-function build_html49() {
+function build_html50() {
 return `
 <a
 class="smart-env-status-container"
@@ -46487,16 +49360,16 @@ tabindex="0"
 </a>
 `;
 }
-__name(build_html49, "build_html");
+__name(build_html50, "build_html");
 async function render50(env, opts = {}) {
 this.apply_style_sheet(status_bar_default2);
-const frag = this.create_doc_fragment(build_html49());
+const frag = this.create_doc_fragment(build_html50());
 const anchor = frag.firstElementChild;
-post_process47.call(this, env, anchor, opts);
+post_process48.call(this, env, anchor, opts);
 return anchor;
 }
 __name(render50, "render");
-function post_process47(env, container, opts = {}) {
+function post_process48(env, container, opts = {}) {
 const icon_slot = container?.querySelector?.(".smart-env-status-icon");
 const status_indicator = container?.querySelector?.(".smart-env-status-indicator");
 const status_msg = container?.querySelector?.(".smart-env-status-msg");
@@ -46574,10 +49447,10 @@ const disposers = [];
 disposers.push(env.events.on("*", debounce_refresh_status_bar));
 this.attach_disposer(container, disposers);
 }
-__name(post_process47, "post_process");
+__name(post_process48, "post_process");
 
 var import_obsidian76 = require("obsidian");
-function build_html50(plugin, opts = {}) {
+function build_html51(plugin, opts = {}) {
 const { plugin_name = plugin.manifest.name } = opts;
 return `<div class="wrapper">
 <div id="footer-callout" data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout" style="mix-blend-mode: unset;">
@@ -46634,16 +49507,16 @@ stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info">
 </div>
 </div>`;
 }
-__name(build_html50, "build_html");
+__name(build_html51, "build_html");
 function render51(plugin, opts = {}) {
-const html = build_html50.call(this, plugin, opts);
+const html = build_html51.call(this, plugin, opts);
 const frag = this.create_doc_fragment(html);
 const container = frag.querySelector(".wrapper");
-post_process48.call(this, plugin, container, opts);
+post_process49.call(this, plugin, container, opts);
 return container;
 }
 __name(render51, "render");
-async function post_process48(plugin, container) {
+async function post_process49(plugin, container) {
 const icon_container = container.querySelector(".callout-icon");
 const icon = (0, import_obsidian76.getIcon)("hand-heart");
 if (icon) {
@@ -46655,10 +49528,10 @@ const is_logged_in = !!localStorage.getItem(oauth_storage_prefix + "token");
 if (is_logged_in) container.querySelector("#footer-callout").style.display = "none";
 await this.render_setting_components(container, { scope: plugin.env });
 }
-__name(post_process48, "post_process");
+__name(post_process49, "post_process");
 
 var import_obsidian77 = require("obsidian");
-function build_html51(plugin, opts = {}) {
+function build_html52(plugin, opts = {}) {
 const { plugin_name = plugin.manifest.name } = opts;
 return `<div class="wrapper">
 <div id="footer-callout" data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout" style="mix-blend-mode: unset;">
@@ -46680,9 +49553,9 @@ stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info">
 </div>
 </div>`;
 }
-__name(build_html51, "build_html");
+__name(build_html52, "build_html");
 function render52(plugin, opts = {}) {
-const html = build_html51.call(this, plugin, opts);
+const html = build_html52.call(this, plugin, opts);
 const frag = this.create_doc_fragment(html);
 const callout = frag.querySelector("#footer-callout");
 const icon_container = callout.querySelector(".callout-icon");
@@ -46691,13 +49564,13 @@ if (icon) {
 this.empty(icon_container);
 icon_container.appendChild(icon);
 }
-post_process49.call(this, plugin, callout, opts);
+post_process50.call(this, plugin, callout, opts);
 return callout;
 }
 __name(render52, "render");
-function post_process49(plugin, callout) {
+function post_process50(plugin, callout) {
 }
-__name(post_process49, "post_process");
+__name(post_process50, "post_process");
 
 var import_obsidian78 = require("obsidian");
 async function copy_to_clipboard6(params = {}) {
@@ -46751,11 +49624,102 @@ return total + numeric;
 }
 __name(sum_exclusions2, "sum_exclusions");
 
-async function merge_template3(context_items_text, context_items) {
+var DEFAULT_TEMPLATE_PRESET2 = "xml_structured";
+var template_presets2 = {
+xml_structured: {
+label: "XML-style (default)",
+context_template_before: "<context>\n{{FILE_TREE}}",
+context_template_after: "</context>",
+item_template_before: '<item loc="{{KEY}}" at="{{TIME_AGO}}" depth="{{LINK_DEPTH}}">',
+item_template_after: "</item>"
+},
+markdown_headings: {
+label: "Markdown headings",
+context_template_before: "{{FILE_TREE}}",
+context_template_after: "",
+item_template_before: [
+"## {{KEY}}",
+"Updated: {{TIME_AGO}} | Depth: {{LINK_DEPTH}}",
+"````{{EXT}}"
+].join("\n"),
+item_template_after: "````\n"
+},
+json_structured: {
+label: "JSON structured",
+context_template_before: '{\n  "context": {',
+context_template_after: "  }\n}",
+item_template_before: '    "{{KEY}}": { "name": "{{ITEM_NAME}}", "updated": "{{TIME_AGO}}", "depth": {{LINK_DEPTH}}, "content": ',
+item_template_after: "    },",
+json_stringify: true
+},
+custom: {
+label: "Custom (PRO)"
+}
+};
+var get_preset_key2 = /* @__PURE__ */ __name((settings = {}) => {
+const preset_key = settings.template_preset || DEFAULT_TEMPLATE_PRESET2;
+if (template_presets2[preset_key]) return preset_key;
+return "custom";
+}, "get_preset_key");
+var get_template_value2 = /* @__PURE__ */ __name((settings, defaults, preset_field_key, settings_field_key) => {
+const preset_key = get_preset_key2(settings);
+const preset = template_presets2[preset_key];
+const value_from_settings = settings?.[settings_field_key];
+if (preset_key !== "custom" && preset && typeof preset[preset_field_key] === "string") {
+return preset[preset_field_key];
+}
+if (preset_key === "custom" && typeof value_from_settings === "string") {
+return value_from_settings;
+}
+return defaults?.[settings_field_key];
+}, "get_template_value");
+function get_template_preset_options2() {
+return Object.entries(template_presets2).map(([value, config]) => ({
+value,
+label: config.label || value
+}));
+}
+__name(get_template_preset_options2, "get_template_preset_options");
+function get_context_templates2(settings = {}, defaults = {}) {
+return {
+template_before: get_template_value2(settings, defaults, "context_template_before", "template_before"),
+template_after: get_template_value2(settings, defaults, "context_template_after", "template_after")
+};
+}
+__name(get_context_templates2, "get_context_templates");
+function get_item_templates2(settings = {}, defaults = {}) {
+const preset_key = get_preset_key2(settings);
+const preset = template_presets2[preset_key];
+const include_json_stringify = preset_key === "custom" && typeof settings.json_stringify === "boolean";
+return {
+...preset && typeof preset === "object" ? preset : {},
+...include_json_stringify ? { json_stringify: settings.json_stringify } : {},
+template_before: get_template_value2(settings, defaults, "item_template_before", "template_before"),
+template_after: get_template_value2(settings, defaults, "item_template_after", "template_after")
+};
+}
+__name(get_item_templates2, "get_item_templates");
+
+var derive_item_name_from_key2 = /* @__PURE__ */ __name((key = "") => {
+if (typeof key !== "string" || key.trim().length === 0) return "";
+const [filename_with_fragment] = key.split(/[\\/]/).slice(-1);
+const [source_name, ...block_parts] = (filename_with_fragment || "").split("#");
+const src_no_ext = source_name.includes(".") ? source_name.slice(0, source_name.lastIndexOf(".")) : source_name;
+if (block_parts.length > 0) {
+return `${src_no_ext}#${block_parts.join("#")}`;
+}
+return src_no_ext;
+}, "derive_item_name_from_key");
+var get_item_name2 = /* @__PURE__ */ __name((context_item) => {
+return derive_item_name_from_key2(context_item.key);
+}, "get_item_name");
+async function merge_template3(item_text, params = {}) {
 const MERGE_VARS = {
 "KEY": this.key,
+"ITEM_NAME": get_item_name2(this),
 "TIME_AGO": convert_to_time_ago2(this.mtime) || "Missing",
-"LINK_DEPTH": this.data.d || 0
+"LINK_DEPTH": this.data.d || "0",
+"EXT": this.item_ref?.file_type || ""
 };
 const replace_vars = /* @__PURE__ */ __name(async (template) => {
 const re_var = /{{([\w_]+)}}/g;
@@ -46767,12 +49731,37 @@ return MERGE_VARS[p1] || "";
 }
 return template;
 }, "replace_vars");
-const before = await replace_vars(this.settings.template_before || default_settings5.template_before);
-const after = await replace_vars(this.settings.template_after || default_settings5.template_after);
-return ["", before, context_items_text, after, ""].join("\n");
+const templates = get_item_templates2(this.settings, default_settings5);
+if (params.json_stringify || templates.json_stringify) {
+item_text = JSON.stringify(item_text);
+}
+const before = await replace_vars(templates.template_before);
+const after = await replace_vars(templates.template_after);
+return ["", before, item_text, after, ""].join("\n");
 }
 __name(merge_template3, "merge_template");
 var settings_config24 = {
+template_preset: {
+group: "Item templates",
+type: "dropdown",
+name: "Select template",
+description: "Wraps each context item with a pre-configured template.",
+options_callback: /* @__PURE__ */ __name(() => get_template_preset_options2(), "options_callback")
+},
+template_before: {
+group: "Item templates",
+type: "textarea",
+name: "Template Before",
+description: "Template to wrap before the context item content.",
+scope_class: "pro-setting"
+},
+template_after: {
+group: "Item templates",
+type: "textarea",
+name: "Template After",
+description: "Template to wrap after the context item content.",
+scope_class: "pro-setting"
+},
 item_explanation: {
 type: "html",
 group: "Item templates",
@@ -46780,25 +49769,23 @@ value: `
 <b>Available variables:</b>
 <ul>
 <li><code>{{KEY}}</code> - Full path of the item</li>
+<li><code>{{ITEM_NAME}}</code> - Source file or block name without folder path or file extension</li>
 <li><code>{{TIME_AGO}}</code> - Time since the item was last modified</li>
 <li><code>{{LINK_DEPTH}}</code> - Depth level of the item</li>
+<li><code>{{EXT}}</code> - File extension of the item</li>
 </ul>
 `
 },
-template_before: {
+json_stringify: {
 group: "Item templates",
-type: "textarea",
-name: "Template Before",
-description: "Template to wrap before the context item content."
-},
-template_after: {
-group: "Item templates",
-type: "textarea",
-name: "Template After",
-description: "Template to wrap after the context item content."
+type: "toggle",
+name: "JSON Stringify",
+description: "Convert the item content to a JSON string (forces full content into single line in quotes).",
+scope_class: "pro-setting"
 }
 };
 var default_settings5 = {
+template_preset: "xml_structured",
 template_before: '<item loc="{{KEY}}" at="{{TIME_AGO}}">',
 template_after: "</item>"
 };
@@ -46880,7 +49867,8 @@ return output;
 }
 __name(build_tree_string2, "build_tree_string");
 
-async function merge_template4(context_items_text, context_items) {
+async function merge_template4(context_items_text, params = {}) {
+const context_items = params.context_items || [];
 const MERGE_VARS = {
 "FILE_TREE": /* @__PURE__ */ __name(() => {
 return build_file_tree_string2(context_items.map((c) => c.key));
@@ -46895,12 +49883,34 @@ return MERGE_VARS[p1]?.() || "";
 }
 return template;
 }, "replace_vars");
-const before = await replace_vars(this.settings.template_before || default_settings6.template_before);
-const after = await replace_vars(this.settings.template_after || default_settings6.template_after);
+const templates = get_context_templates2(this.settings, default_settings6);
+const before = await replace_vars(templates.template_before);
+const after = await replace_vars(templates.template_after);
 return [before, context_items_text, after].join("\n");
 }
 __name(merge_template4, "merge_template");
 var settings_config25 = {
+template_preset: {
+type: "dropdown",
+group: "Context templates",
+name: "Select template",
+description: "Wraps the full context with a pre-configured template.",
+options_callback: /* @__PURE__ */ __name(() => get_template_preset_options2(), "options_callback")
+},
+template_before: {
+type: "textarea",
+group: "Context templates",
+name: "Template Before",
+description: "Template to wrap before the context.",
+scope_class: "pro-setting"
+},
+template_after: {
+type: "textarea",
+group: "Context templates",
+name: "Template After",
+description: "Template to wrap after the context.",
+scope_class: "pro-setting"
+},
 context_explanation: {
 type: "html",
 group: "Context templates",
@@ -46909,21 +49919,10 @@ value: `<b>Available variables:</b>
 <li><code>{{FILE_TREE}}</code> - Shows hierarchical view of all files</li>
 </ul>
 `
-},
-template_before: {
-type: "textarea",
-group: "Context templates",
-name: "Template Before",
-description: "Template to wrap before the context."
-},
-template_after: {
-type: "textarea",
-group: "Context templates",
-name: "Template After",
-description: "Template to wrap after the context."
 }
 };
 var default_settings6 = {
+template_preset: "xml_structured",
 template_before: "<context>\n{{FILE_TREE}}",
 template_after: "</context>"
 };
@@ -46974,25 +49973,50 @@ return pcs.filter(Boolean).join(" > ");
 __name(get_block_display_name5, "get_block_display_name");
 var display_name4 = "Add blocks";
 
-function context_suggest_sources2(params = {}) {
-const unselected = Object.values(this.env.smart_sources.items).map((src) => ({
-key: src.key,
-display: src.key,
+function normalize_folder_path2(folder_path) {
+if (typeof folder_path !== "string") return "";
+return folder_path.replace(/\/+$/g, "");
+}
+__name(normalize_folder_path2, "normalize_folder_path");
+function is_source_in_folder2(source_key, folder_path) {
+const normalized_folder_path = normalize_folder_path2(folder_path);
+if (!normalized_folder_path) return true;
+if (source_key === normalized_folder_path) return true;
+return source_key.startsWith(`${normalized_folder_path}/`);
+}
+__name(is_source_in_folder2, "is_source_in_folder");
+function reset_modal_input2(modal) {
+if (!modal?.inputEl) return;
+modal.last_input_value = modal.inputEl.value;
+modal.inputEl.value = "";
+}
+__name(reset_modal_input2, "reset_modal_input");
+function get_sources_list2(ctx, folder_path) {
+const items = Object.values(ctx.env?.smart_sources?.items || {});
+return items.filter((source) => is_source_in_folder2(source.key, folder_path));
+}
+__name(get_sources_list2, "get_sources_list");
+function build_source_suggestions2(ctx, sources) {
+return sources.map((source) => ({
+key: source.key,
+display: source.key,
 select_action: /* @__PURE__ */ __name(() => {
-this.add_item(src.key);
+ctx.add_item(source.key);
 }, "select_action"),
-mod_select_action: /* @__PURE__ */ __name(({ modal }) => {
-modal.last_input_value = modal.inputEl.value;
-modal.inputEl.value = "";
-return context_suggest_blocks2.call(this, { source_key: src.key });
+mod_select_action: /* @__PURE__ */ __name(({ modal } = {}) => {
+reset_modal_input2(modal);
+return context_suggest_blocks2.call(ctx, { source_key: source.key });
 }, "mod_select_action"),
-arrow_right_action: /* @__PURE__ */ __name(({ modal }) => {
-modal.last_input_value = modal.inputEl.value;
-modal.inputEl.value = "";
-return context_suggest_blocks2.call(this, { source_key: src.key });
+arrow_right_action: /* @__PURE__ */ __name(({ modal } = {}) => {
+reset_modal_input2(modal);
+return context_suggest_blocks2.call(ctx, { source_key: source.key });
 }, "arrow_right_action")
 }));
-return unselected;
+}
+__name(build_source_suggestions2, "build_source_suggestions");
+function context_suggest_sources2(params = {}) {
+const sources = get_sources_list2(this, params?.folder_path || "");
+return build_source_suggestions2(this, sources);
 }
 __name(context_suggest_sources2, "context_suggest_sources");
 var display_name5 = "Add sources";
@@ -47451,7 +50475,7 @@ en: "Reloaded sources in {{time_ms}}ms"
 }
 };
 
-function define_default_create_methods(notices) {
+function define_default_create_methods2(notices) {
 for (const key of Object.keys(notices)) {
 const notice_obj = notices[key];
 if (typeof notice_obj.create !== "function") {
@@ -47484,7 +50508,7 @@ immutable: opts.immutable
 }
 return notices;
 }
-__name(define_default_create_methods, "define_default_create_methods");
+__name(define_default_create_methods2, "define_default_create_methods");
 var SmartNotices2 = class {
 static {
 __name(this, "SmartNotices");
@@ -47496,7 +50520,7 @@ constructor(env, opts = {}) {
 env?.create_env_getter(this);
 this.active = {};
 this.adapter = opts.adapter || this.env.config.modules.smart_notices.adapter;
-define_default_create_methods(NOTICES2);
+define_default_create_methods2(NOTICES2);
 }
 /** plugin settings for notices (muted, etc.) */
 get settings() {
@@ -47646,25 +50670,25 @@ return "https://connect.smartconnections.app";
 }
 __name(get_smart_server_url4, "get_smart_server_url");
 
-var CLIENT_ID = "smart-plugins-op";
-var CLIENT_SECRET = "smart-plugins-op-secret";
-function set_local_storage_token({ access_token, refresh_token }, oauth_storage_prefix) {
+var CLIENT_ID2 = "smart-plugins-op";
+var CLIENT_SECRET2 = "smart-plugins-op-secret";
+function set_local_storage_token2({ access_token, refresh_token }, oauth_storage_prefix) {
 localStorage.setItem(oauth_storage_prefix + "token", access_token);
 if (refresh_token) {
 localStorage.setItem(oauth_storage_prefix + "refresh", refresh_token);
 }
 }
-__name(set_local_storage_token, "set_local_storage_token");
+__name(set_local_storage_token2, "set_local_storage_token");
 async function exchange_code_for_tokens2(code, plugin) {
-const oauth_storage_prefix = build_oauth_storage_prefix(plugin.app.vault.getName());
+const oauth_storage_prefix = build_oauth_storage_prefix2(plugin.app.vault.getName());
 const url = `${get_smart_server_url4()}/auth/oauth_exchange2`;
 const resp = await (0, import_obsidian86.requestUrl)({
 url,
 method: "POST",
 headers: { "Content-Type": "application/json" },
 body: JSON.stringify({
-client_id: CLIENT_ID,
-client_secret: CLIENT_SECRET,
+client_id: CLIENT_ID2,
+client_secret: CLIENT_SECRET2,
 code
 })
 });
@@ -47675,15 +50699,15 @@ const { access_token, refresh_token } = resp.json;
 if (!access_token) {
 throw new Error("No access_token in response");
 }
-set_local_storage_token({ access_token, refresh_token }, oauth_storage_prefix);
+set_local_storage_token2({ access_token, refresh_token }, oauth_storage_prefix);
 }
 __name(exchange_code_for_tokens2, "exchange_code_for_tokens");
-var OAUTH_SUFFIX = "_smart_plugins_oauth_";
-function build_oauth_storage_prefix(vault_name) {
+var OAUTH_SUFFIX2 = "_smart_plugins_oauth_";
+function build_oauth_storage_prefix2(vault_name) {
 const safe_name = String(vault_name || "").toLowerCase().replace(/[^a-z0-9]/g, "_");
-return `${safe_name}${OAUTH_SUFFIX}`;
+return `${safe_name}${OAUTH_SUFFIX2}`;
 }
-__name(build_oauth_storage_prefix, "build_oauth_storage_prefix");
+__name(build_oauth_storage_prefix2, "build_oauth_storage_prefix");
 
 function replace_folder_tree_var2(prompt) {
 const env = this;
@@ -47754,14 +50778,14 @@ async function remove_smart_plugins_plugin2({ app: app2, plugin_ids = [] } = {})
 if (!app2) return;
 const adapter = app2.vault?.adapter;
 for (const plugin_id of plugin_ids) {
-const disabled = await disable_plugin_if_present(app2.plugins, plugin_id);
+const disabled = await disable_plugin_if_present2(app2.plugins, plugin_id);
 if (disabled) console.warn(`Disabled legacy plugin: ${plugin_id}`);
-const removed = await remove_plugin_folder(adapter, plugin_id);
+const removed = await remove_plugin_folder2(adapter, plugin_id);
 if (removed) console.warn(`Removed legacy plugin: ${plugin_id}`);
 }
 }
 __name(remove_smart_plugins_plugin2, "remove_smart_plugins_plugin");
-async function disable_plugin_if_present(app_plugins, plugin_id) {
+async function disable_plugin_if_present2(app_plugins, plugin_id) {
 if (!app_plugins) return;
 const has_plugin = Boolean(
 app_plugins.plugins?.[plugin_id] || app_plugins.enabledPlugins?.has?.(plugin_id) || app_plugins.manifests && plugin_id in app_plugins.manifests
@@ -47782,8 +50806,8 @@ delete app_plugins.manifests[plugin_id];
 await app_plugins.loadManifests?.();
 return true;
 }
-__name(disable_plugin_if_present, "disable_plugin_if_present");
-async function remove_plugin_folder(adapter, plugin_id) {
+__name(disable_plugin_if_present2, "disable_plugin_if_present");
+async function remove_plugin_folder2(adapter, plugin_id) {
 if (!adapter?.exists) return;
 const plugin_path = `.obsidian/plugins/${plugin_id}`;
 const exists = await adapter.exists(plugin_path);
@@ -47808,7 +50832,7 @@ await adapter.remove(plugin_path);
 return true;
 }
 }
-__name(remove_plugin_folder, "remove_plugin_folder");
+__name(remove_plugin_folder2, "remove_plugin_folder");
 
 var SmartEnv4 = class extends SmartEnv3 {
 static {
@@ -47951,7 +50975,7 @@ new import_obsidian87.Notice(`OAuth callback error: ${err.message}`);
 export_json(filename = "smart_env.json") {
 const json = JSON.stringify(this.to_json(), null, 2);
 if (typeof document !== "undefined") {
-download_json(json, filename);
+download_json2(json, filename);
 }
 return json;
 }
@@ -47990,9 +51014,15 @@ run_migrations() {
 remove_smart_plugins_plugin2({ app: this.plugin.app, plugin_ids: ["smart-plugins"] });
 remove_smart_plugins_plugin2({ app: this.plugin.app, plugin_ids: ["smart-editor"] });
 remove_smart_plugins_plugin2({ app: this.plugin.app, plugin_ids: ["smart-sources"] });
+remove_smart_plugins_plugin2({ app: this.plugin.app, plugin_ids: ["smart-claude"] });
+remove_smart_plugins_plugin2({ app: this.plugin.app, plugin_ids: ["smart-gemini"] });
+remove_smart_plugins_plugin2({ app: this.plugin.app, plugin_ids: ["smart-deepseek"] });
+remove_smart_plugins_plugin2({ app: this.plugin.app, plugin_ids: ["smart-perplexity"] });
+remove_smart_plugins_plugin2({ app: this.plugin.app, plugin_ids: ["smart-grok"] });
+remove_smart_plugins_plugin2({ app: this.plugin.app, plugin_ids: ["smart-aistudio"] });
 }
 };
-function download_json(json, filename) {
+function download_json2(json, filename) {
 const blob = new Blob([json], { type: "application/json" });
 const url = URL.createObjectURL(blob);
 const anchor = document.createElement("a");
@@ -48003,7 +51033,7 @@ anchor.click();
 document.body.removeChild(anchor);
 URL.revokeObjectURL(url);
 }
-__name(download_json, "download_json");
+__name(download_json2, "download_json");
 
 var import_obsidian89 = require("obsidian");
 
@@ -48563,7 +51593,10 @@ static defaults = {
 adapter: "gemini",
 description: "Google Gemini (API)",
 default_model: "gemini-embedding-001",
-endpoint: "https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents"
+endpoint: "https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents",
+dims: 768,
+max_tokens: 2048,
+batch_size: 50
 };
 /**
 * Count tokens in input text using tokenizer
@@ -48654,7 +51687,7 @@ return Promise.resolve(this.models);
 get models() {
 return {
 "gemini-embedding-001": {
-"id": "models/gemini-embedding-001",
+"id": "gemini-embedding-001",
 "batch_size": 50,
 "dims": 768,
 "max_tokens": 2048,
@@ -48671,10 +51704,51 @@ return {
 "x-goog-api-key": this.api_key
 };
 }
+backoff_wait_time = 5e3;
+backoff_factor = 1;
+async embed_batch(inputs, retries = 0) {
+if (smart_env.smart_sources.entities_vector_adapter.is_queue_halted) {
+throw new Error("Embedding queue halted during backoff wait due to rate limit errors.");
+}
+const token_cts = inputs.map((item) => this.estimate_tokens(item.embed_input));
+const resp = await super.embed_batch(inputs);
+if (resp[0].error && resp[0].error.details && resp[0].error.details.code === 429) {
+console.warn("Rate limit error detected in Gemini embed_batch response.", resp);
+if (retries > 3) {
+console.error("Max retries reached for rate limit errors.");
+throw new Error("Max retries reached for rate limit errors.");
+}
+console.warn(resp[0].error.message);
+const retry_detail = resp[0].error.details?.details?.find((d) => d.retryDelay);
+if (retry_detail.retryDelay) {
+const wait_time_ms = parseInt(retry_detail.retryDelay) * 1e3 * 2;
+console.warn(`Using server-specified retry delay of ${wait_time_ms} ms`);
+await new Promise((resolve) => setTimeout(resolve, wait_time_ms));
+return await this.embed_batch(inputs, retries + 1);
+} else {
+this.backoff_factor += 1;
+console.warn(`Rate limit exceeded, backing off for ${this.backoff_wait_time * this.backoff_factor} ms`);
+await new Promise((resolve) => setTimeout(resolve, this.backoff_wait_time * this.backoff_factor));
+return await this.embed_batch(inputs, retries + 1);
+}
+} else if (resp[0].error) {
+console.error("Error in Gemini embed_batch response:", resp[0].error);
+throw new Error(`Gemini embed_batch error: ${resp[0].error.message}`);
+}
+resp.forEach((item, idx) => {
+item.tokens = token_cts[idx];
+});
+console.log("Gemini embed_batch response:", resp);
+return resp;
+}
 };
 var SmartEmbedGeminiRequestAdapter3 = class extends SmartEmbedModelRequestAdapter3 {
 static {
 __name(this, "SmartEmbedGeminiRequestAdapter");
+}
+get model_id() {
+let model_id = this.adapter.model.data.model_key;
+return `models/${model_id}`;
 }
 /**
 * Prepare request body for Gemini API
@@ -48732,7 +51806,7 @@ return { vec: [], tokens: 0 };
 }
 return {
 vec: embedding.values,
-tokens: 500
+tokens: null
 };
 });
 }
@@ -48754,8 +51828,21 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
+var settings_config27 = {
+api_key: {
+name: "API Key",
+type: "password",
+description: "Enter your Google Gemini API key."
+},
+"gemini_note": {
+name: "Note about using Gemini Embeddings API",
+type: "html",
+value: `<p class="model-note"><b>WARNING: Gemini rate-limiting:</b> Google imposes strict rate limits on the Gemini Embeddings API. Smart Environment will attempt to retry. Retry details can be found in the developer console logs. Consistent rate limit errors may prevent all items from being properly embedded. Restarting Obsidian will attempt to re-embed any failed items. If you continue to experience issues, try disabling blocks to reduce the number of embeddings required by your Smart Environment.</p>`
+}
+};
 var google_default = {
-class: GoogleGeminiEmbeddingModelAdapter
+class: GoogleGeminiEmbeddingModelAdapter,
+settings_config: settings_config27
 };
 
 function parse_lm_studio_models3(list, adapter_key = "lm_studio") {
@@ -49221,7 +52308,7 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
-var settings_config27 = {
+var settings_config28 = {
 host: {
 name: "Ollama host",
 type: "text",
@@ -49231,7 +52318,7 @@ default: "http://localhost:11434"
 };
 var ollama_default = {
 class: OllamaEmbeddingModelAdapter,
-settings_config: settings_config27
+settings_config: settings_config28
 };
 
 var SmartEmbedOpenRouterAdapter = class extends SmartEmbedModelApiAdapter3 {
@@ -49719,7 +52806,7 @@ return {
 };
 }
 };
-var settings_config28 = {
+var settings_config29 = {
 "api_key": {
 name: "API Key",
 type: "password",
@@ -49738,7 +52825,7 @@ default: "512"
 };
 var openai_default = {
 class: OpenAIEmbeddingModelAdapter,
-settings_config: settings_config28
+settings_config: settings_config29
 };
 
 var SmartChatModelAnthropicAdapter3 = class extends SmartChatModelApiAdapter2 {
@@ -50229,7 +53316,7 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
-var settings_config29 = {
+var settings_config30 = {
 "api_key": {
 name: "API Key",
 type: "password",
@@ -50238,7 +53325,7 @@ description: "Enter your Anthropic API key."
 };
 var anthropic_default = {
 class: AnthropicChatCompletionModelAdapter,
-settings_config: settings_config29
+settings_config: settings_config30
 };
 
 var EXCLUDED_PREFIXES3 = [
@@ -50471,7 +53558,7 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
-var settings_config30 = {
+var settings_config31 = {
 "api_key": {
 name: "API Key",
 type: "password",
@@ -50498,7 +53585,7 @@ default: "2024-10-01-preview"
 };
 var azure_default = {
 class: AzureChatCompletionModelAdapter,
-settings_config: settings_config30
+settings_config: settings_config31
 };
 
 var SmartChatModelCohereAdapter3 = class extends SmartChatModelApiAdapter2 {
@@ -50788,7 +53875,7 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
-var settings_config31 = {
+var settings_config32 = {
 api_key: {
 name: "API Key",
 type: "password",
@@ -50797,7 +53884,7 @@ description: "Enter your Cohere API key."
 };
 var cohere_default2 = {
 class: CohereChatCompletionModelAdapter,
-settings_config: settings_config31
+settings_config: settings_config32
 };
 
 var SmartChatModelDeepseekAdapter3 = class extends SmartChatModelApiAdapter2 {
@@ -50909,7 +53996,7 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
-var settings_config32 = {
+var settings_config33 = {
 api_key: {
 name: "API Key",
 type: "password",
@@ -50918,7 +54005,7 @@ description: "Enter your Deepseek API key."
 };
 var deepseek_default = {
 class: DeepseekChatCompletionModelAdapter,
-settings_config: settings_config32
+settings_config: settings_config33
 };
 
 var SmartChatModelGoogleAdapter3 = class extends SmartChatModelApiAdapter2 {
@@ -51313,7 +54400,7 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
-var settings_config33 = {
+var settings_config34 = {
 api_key: {
 name: "API Key",
 type: "password",
@@ -51322,7 +54409,7 @@ description: "Enter your Google Gemini API key."
 };
 var google_default2 = {
 class: GoogleChatCompletionModelAdapter,
-settings_config: settings_config33
+settings_config: settings_config34
 };
 
 var SmartChatModelGroqAdapter3 = class extends SmartChatModelApiAdapter2 {
@@ -51430,7 +54517,7 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
-var settings_config34 = {
+var settings_config35 = {
 api_key: {
 name: "API Key",
 type: "password",
@@ -51439,7 +54526,7 @@ description: "Enter your Groq API key."
 };
 var groq_default = {
 class: GroqChatCompletionModelAdapter,
-settings_config: settings_config34
+settings_config: settings_config35
 };
 
 var SmartChatModelLmStudioAdapter3 = class extends SmartChatModelApiAdapter2 {
@@ -51582,11 +54669,11 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
-var settings_config35 = {
+var settings_config36 = {
 };
 var lm_studio_default2 = {
 class: LmStudioChatCompletionModelAdapter,
-settings_config: settings_config35
+settings_config: settings_config36
 };
 
 var SmartChatModelOllamaAdapter3 = class extends SmartChatModelApiAdapter2 {
@@ -51925,7 +55012,7 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
-var settings_config36 = {
+var settings_config37 = {
 "host": {
 name: "Ollama host",
 type: "text",
@@ -51935,7 +55022,7 @@ default: "http://localhost:11434"
 };
 var ollama_default2 = {
 class: OllamaChatCompletionModelAdapter,
-settings_config: settings_config36
+settings_config: settings_config37
 };
 
 var OpenAIChatCompletionModelAdapter = class extends SmartChatModelOpenaiAdapter3 {
@@ -51954,7 +55041,7 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
-var settings_config37 = {
+var settings_config38 = {
 "api_key": {
 name: "API Key",
 type: "password",
@@ -51968,7 +55055,7 @@ value: "<b>OpenAI models:</b> Some models require extra verification steps in yo
 };
 var openai_default2 = {
 class: OpenAIChatCompletionModelAdapter,
-settings_config: settings_config37
+settings_config: settings_config38
 };
 
 var SmartChatModelXaiAdapter3 = class extends SmartChatModelApiAdapter2 {
@@ -52048,7 +55135,7 @@ this._http_adapter = new HttpClass(http_params);
 return this._http_adapter;
 }
 };
-var settings_config38 = {
+var settings_config39 = {
 "api_key": {
 name: "API Key",
 type: "password",
@@ -52057,7 +55144,7 @@ description: "Enter your xAI API key."
 };
 var xai_default = {
 class: XaiChatCompletionModelAdapter,
-settings_config: settings_config38
+settings_config: settings_config39
 };
 
 var smart_env_config6 = {
@@ -52318,7 +55405,7 @@ var SmartEnv5 = class _SmartEnv extends SmartEnv4 {
 static {
 __name(this, "SmartEnv");
 }
-static version = "2.3.5";
+static version = "2.3.9";
 is_pro = true;
 async load(force_load = false) {
 await super.load(force_load);
@@ -53142,7 +56229,7 @@ __name(collection_instance_name_from4, "collection_instance_name_from");
 function deep_merge4(target = {}, source = {}) {
 for (const key in source) {
 if (!Object.prototype.hasOwnProperty.call(source, key)) continue;
-if (is_plain_object7(source[key]) && is_plain_object7(target[key])) {
+if (is_plain_object8(source[key]) && is_plain_object8(target[key])) {
 deep_merge4(target[key], source[key]);
 } else {
 target[key] = source[key];
@@ -53151,10 +56238,10 @@ target[key] = source[key];
 return target;
 }
 __name(deep_merge4, "deep_merge");
-function is_plain_object7(o) {
+function is_plain_object8(o) {
 return o && typeof o === "object" && !Array.isArray(o);
 }
-__name(is_plain_object7, "is_plain_object");
+__name(is_plain_object8, "is_plain_object");
 
 function create_uid4(data) {
 const str = JSON.stringify(data);
@@ -53205,20 +56292,20 @@ __name(get_item_display_name4, "get_item_display_name");
 
 function create_actions_proxy4(ctx, actions_source) {
 const input = actions_source || {};
-const is_plain_object8 = /* @__PURE__ */ __name((val) => typeof val === "object" && val !== null && !Array.isArray(val), "is_plain_object");
+const is_plain_object9 = /* @__PURE__ */ __name((val) => typeof val === "object" && val !== null && !Array.isArray(val), "is_plain_object");
 const is_function = /* @__PURE__ */ __name((val) => typeof val === "function", "is_function");
 const is_class_export = /* @__PURE__ */ __name((val) => is_function(val) && /^class\s/.test(Function.prototype.toString.call(val)), "is_class_export");
-const is_action_object = /* @__PURE__ */ __name((val) => is_plain_object8(val) && is_function(val.action), "is_action_object");
+const is_action_object = /* @__PURE__ */ __name((val) => is_plain_object9(val) && is_function(val.action), "is_action_object");
 const is_action_candidate = /* @__PURE__ */ __name((val) => is_function(val) || is_action_object(val) || is_class_export(val), "is_action_candidate");
 const ignored_meta_keys = /* @__PURE__ */ new Set(["length", "name", "prototype"]);
 const clone_with_descriptors = /* @__PURE__ */ __name((obj) => {
-if (!is_plain_object8(obj)) return obj;
+if (!is_plain_object9(obj)) return obj;
 const out = Object.create(Object.getPrototypeOf(obj) || null);
 for (const key of Reflect.ownKeys(obj)) {
 const descriptor = Object.getOwnPropertyDescriptor(obj, key);
 if (!descriptor) continue;
 const next = { ...descriptor };
-if ("value" in next && is_plain_object8(next.value)) {
+if ("value" in next && is_plain_object9(next.value)) {
 next.value = clone_with_descriptors(next.value);
 }
 try {
@@ -53230,7 +56317,7 @@ out[key] = next.value;
 return out;
 }, "clone_with_descriptors");
 const should_bucket_actions = /* @__PURE__ */ __name((val) => {
-if (!is_plain_object8(val)) return false;
+if (!is_plain_object9(val)) return false;
 if (is_action_object(val)) return false;
 const keys = Reflect.ownKeys(val);
 if (keys.length === 0) return false;
@@ -53244,7 +56331,7 @@ if (is_action_candidate(entry)) {
 found_candidate = true;
 continue;
 }
-if (is_plain_object8(entry)) {
+if (is_plain_object9(entry)) {
 if (should_bucket_actions(entry)) {
 found_candidate = true;
 continue;
@@ -53261,7 +56348,7 @@ return found_candidate;
 const clone_descriptor = /* @__PURE__ */ __name((descriptor) => {
 if (!descriptor) return descriptor;
 if (!("value" in descriptor)) return { ...descriptor };
-const cloned = is_plain_object8(descriptor.value) ? clone_with_descriptors(descriptor.value) : descriptor.value;
+const cloned = is_plain_object9(descriptor.value) ? clone_with_descriptors(descriptor.value) : descriptor.value;
 return { ...descriptor, value: cloned };
 }, "clone_descriptor");
 const build_sources = /* @__PURE__ */ __name((src) => {
@@ -53326,7 +56413,7 @@ const bound = val.bind(ctx);
 copy_metadata(val, bound);
 return bound;
 }
-if (is_plain_object8(val)) {
+if (is_plain_object9(val)) {
 return clone_with_descriptors(val);
 }
 return val;
@@ -53335,7 +56422,7 @@ const scope_actions_for = /* @__PURE__ */ __name(() => {
 const scope_key = ctx?.constructor?.key;
 if (typeof scope_key === "undefined" || scope_key === null) return null;
 const bucket = scoped_sources.get(scope_key);
-return bucket && is_plain_object8(bucket) ? bucket : null;
+return bucket && is_plain_object9(bucket) ? bucket : null;
 }, "scope_actions_for");
 const cache_result = /* @__PURE__ */ __name((target, prop, value) => {
 target[prop] = value;
@@ -54882,8 +57969,8 @@ params = await pre_process3.call(this, params);
 return params;
 }
 async post_process(params, result) {
-for (const post_process65 of this.action_post_processes) {
-result = await post_process65.call(this, params, result);
+for (const post_process66 of this.action_post_processes) {
+result = await post_process66.call(this, params, result);
 }
 return result;
 }
@@ -54939,6 +58026,106 @@ return this.action_adapter.as_tool;
 }
 };
 
+function convert_openapi_to_tools(openapi_spec) {
+const tools = [];
+for (const path in openapi_spec.paths || {}) {
+const methods = openapi_spec.paths[path];
+for (const method in methods) {
+const endpoint = methods[method];
+const parameters = endpoint.parameters || [];
+const requestBody = endpoint.requestBody;
+const properties = {};
+const required = [];
+parameters.forEach((param) => {
+properties[param.name] = {
+type: param.schema?.type,
+description: param.description || ""
+};
+if (param.required) required.push(param.name);
+});
+if (requestBody) {
+const schema = requestBody.content?.["application/json"]?.schema || {};
+Object.assign(properties, schema.properties);
+if (schema.required) required.push(...schema.required);
+}
+tools.push({
+type: "function",
+function: {
+name: endpoint.operationId || `${method}_${path.replace(/\//g, "_").replace(/[{}]/g, "")}`,
+description: endpoint.summary || endpoint.description || "",
+parameters: {
+type: "object",
+properties,
+required
+}
+}
+});
+}
+}
+return tools;
+}
+__name(convert_openapi_to_tools, "convert_openapi_to_tools");
+
+function normalize_schema(schema) {
+if (!schema) return null;
+const properties = schema.properties || {};
+const required = Array.isArray(schema.required) ? schema.required : [];
+return {
+type: schema.type || "object",
+properties,
+required
+};
+}
+__name(normalize_schema, "normalize_schema");
+function build_action_descriptor({ module: module2, action_key }) {
+if (!module2 || typeof module2 !== "object") throw new Error("Smart Action module must be an object.");
+if (!action_key) throw new Error("Smart Action module requires an action_key.");
+const description = module2.description || module2.tool?.function?.description || "";
+const instruction = module2.instruction || "";
+const settings_config40 = module2.settings_config || {};
+const descriptor = module2.descriptor || module2.mcp_descriptor || module2.mcp_tool_descriptor || null;
+let input_schema = normalize_schema(module2.input_schema);
+let tool2 = module2.tool;
+if (!input_schema && module2.openapi) {
+const [openapi_tool] = convert_openapi_to_tools(module2.openapi);
+tool2 = tool2 || openapi_tool;
+input_schema = normalize_schema(openapi_tool?.function?.parameters);
+}
+if (!input_schema && tool2?.function?.parameters) {
+input_schema = normalize_schema(tool2.function.parameters);
+}
+if (!input_schema) {
+throw new Error(`Smart Action module schema is required for ${action_key}`);
+}
+const normalized_tool = tool2 ? {
+...tool2,
+function: {
+...tool2.function,
+name: tool2.function?.name || action_key,
+description: tool2.function?.description || description,
+parameters: normalize_schema(tool2.function?.parameters) || input_schema
+}
+} : {
+type: "function",
+function: {
+name: action_key,
+description,
+parameters: input_schema
+}
+};
+return {
+key: action_key,
+description,
+instruction,
+input_schema,
+output_schema: module2.output_schema || null,
+settings_config: settings_config40,
+descriptor,
+tool: normalized_tool
+};
+}
+__name(build_action_descriptor, "build_action_descriptor");
+
 var SmartActionAdapter = class {
 static {
 __name(this, "SmartActionAdapter");
@@ -54971,52 +58158,18 @@ return await fn.call(this.item, params);
 */
 get as_tool() {
 if (!this.module) return null;
-if (this.module.tool) return this.module.tool;
-if (this.module.openapi) {
-return convert_openapi_to_tools(this.module.openapi)[0] || null;
+const descriptor = this.descriptor;
+return descriptor?.tool || null;
 }
-return null;
+/**
+* Build the Smart Action descriptor, including schema and tool definition.
+* @returns {object|null}
+*/
+get descriptor() {
+if (!this.module) return null;
+return build_action_descriptor({ module: this.module, action_key: this.item.key });
 }
 };
-function convert_openapi_to_tools(openapi_spec) {
-const tools = [];
-for (const path in openapi_spec.paths || {}) {
-const methods = openapi_spec.paths[path];
-for (const method in methods) {
-const endpoint = methods[method];
-const parameters = endpoint.parameters || [];
-const requestBody = endpoint.requestBody;
-const properties = {};
-const required = [];
-parameters.forEach((param) => {
-properties[param.name] = {
-type: param.schema.type,
-description: param.description || ""
-};
-if (param.required) required.push(param.name);
-});
-if (requestBody) {
-const schema = requestBody.content["application/json"].schema;
-Object.assign(properties, schema.properties);
-if (schema.required) required.push(...schema.required);
-}
-tools.push({
-type: "function",
-function: {
-name: endpoint.operationId || `${method}_${path.replace(/\//g, "_").replace(/[{}]/g, "")}`,
-description: endpoint.summary || endpoint.description || "",
-parameters: {
-type: "object",
-properties,
-required
-}
-}
-});
-}
-}
-return tools;
-}
-__name(convert_openapi_to_tools, "convert_openapi_to_tools");
 
 var SmartActions = class extends Collection4 {
 static {
@@ -56591,7 +59744,7 @@ smart_completions_default_config.completion_adapters.SmartActionsCompletionAdapt
 smart_completions_default_config.class.version = 0.3;
 var smart_completions_default = smart_completions_default_config;
 
-function build_html52(chat_thread) {
+function build_html53(chat_thread) {
 const name = (chat_thread?.name || chat_thread?.data?.name || "").trim();
 return `<div>
 <div class="smart-chat-top-bar-container">
@@ -56605,15 +59758,15 @@ return `<div>
 </div>
 </div>`;
 }
-__name(build_html52, "build_html");
+__name(build_html53, "build_html");
 async function render53(chat_thread, params = {}) {
-const frag = this.create_doc_fragment(build_html52.call(this, chat_thread, params));
+const frag = this.create_doc_fragment(build_html53.call(this, chat_thread, params));
 const container = frag.firstElementChild;
-post_process50.call(this, chat_thread, container, params);
+post_process51.call(this, chat_thread, container, params);
 return container;
 }
 __name(render53, "render");
-function post_process50(chat_thread, container, params = {}) {
+function post_process51(chat_thread, container, params = {}) {
 const env = chat_thread?.env;
 const disposers = [];
 const emit = /* @__PURE__ */ __name((name, payload = {}) => env?.events?.emit?.(name, { thread_key: chat_thread?.key, ...payload }), "emit");
@@ -56660,7 +59813,7 @@ name_input.removeEventListener("keydown", on_keydown);
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process50, "post_process");
+__name(post_process51, "post_process");
 var get_trimmed_name = /* @__PURE__ */ __name((raw_name) => (raw_name || "").trim(), "get_trimmed_name");
 function save_thread_name_if_changed(thread, raw_name) {
 if (!thread) return false;
@@ -57004,7 +60157,7 @@ return out;
 }
 __name(parse_dropped_data, "parse_dropped_data");
 
-function build_html53(chat_thread) {
+function build_html54(chat_thread) {
 const initial_message = get_initial_message(chat_thread.settings.language);
 const completion_slots = chat_thread.completions.map((completion) => `<div class="sc-completion-slot" data-completion-key="${completion.key}"></div>`).join("");
 return `<div>
@@ -57023,17 +60176,17 @@ ${completion_slots}
 </div>
 </div>`;
 }
-__name(build_html53, "build_html");
+__name(build_html54, "build_html");
 async function render54(chat_thread, opts = {}) {
-const frag = this.create_doc_fragment(build_html53(chat_thread));
+const frag = this.create_doc_fragment(build_html54(chat_thread));
 this.apply_style_sheet(layout_default);
 this.apply_style_sheet(styles_default3);
 const container = frag.querySelector(".smart-chat-thread");
-await post_process51.call(this, chat_thread, container, opts);
+await post_process52.call(this, chat_thread, container, opts);
 return container;
 }
 __name(render54, "render");
-async function post_process51(chat_thread, container, params = {}) {
+async function post_process52(chat_thread, container, params = {}) {
 const env = chat_thread?.env;
 const disposers = [];
 const custom_instructions_container = container.querySelector(".custom-instructions");
@@ -57095,10 +60248,10 @@ disposers.push(env.events.on("settings:changed", () => render_custom_instruction
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process51, "post_process");
+__name(post_process52, "post_process");
 
 var import_obsidian93 = require("obsidian");
-function build_html54(chat_thread) {
+function build_html55(chat_thread) {
 const { model_key, provider_key } = chat_thread.env.chat_completion_models.default.data;
 return `<div>
 <div class="smart-chat-status-bar" role="status" aria-live="polite" data-state="idle">
@@ -57123,15 +60276,15 @@ Ready
 </div>
 </div>`;
 }
-__name(build_html54, "build_html");
+__name(build_html55, "build_html");
 async function render55(chat_thread, opts = {}) {
-const frag = this.create_doc_fragment(build_html54(chat_thread));
+const frag = this.create_doc_fragment(build_html55(chat_thread));
 const container = frag.querySelector(".smart-chat-status-bar");
-post_process52.call(this, chat_thread, container, opts);
+post_process53.call(this, chat_thread, container, opts);
 return container;
 }
 __name(render55, "render");
-function post_process52(chat_thread, container, opts = {}) {
+function post_process53(chat_thread, container, opts = {}) {
 const env = chat_thread?.env;
 const disposers = [];
 const status_badge = container.querySelector(".sc-status-badge");
@@ -57229,9 +60382,9 @@ bind(event_name, () => update_model_display());
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process52, "post_process");
+__name(post_process53, "post_process");
 
-function build_html55(completion, params = {}) {
+function build_html56(completion, params = {}) {
 const name_for_radio = `force-action-${completion.key}`;
 return `<div>
 <div class="sc-msg action-selector">
@@ -57248,16 +60401,16 @@ Auto
 </div>
 </div>`;
 }
-__name(build_html55, "build_html");
+__name(build_html56, "build_html");
 async function render56(completion, params = {}) {
-const html = build_html55(completion, params);
+const html = build_html56(completion, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.querySelector(".sc-msg.action-selector");
-post_process53.call(this, completion, container, params);
+post_process54.call(this, completion, container, params);
 return container;
 }
 __name(render56, "render");
-async function post_process53(completion, container, params = {}) {
+async function post_process54(completion, container, params = {}) {
 const env = completion.env;
 const list = container.querySelector(".sc-actions-list");
 const auto_radio = container.querySelector(".sc-action-force-auto");
@@ -57333,9 +60486,9 @@ rerender();
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process53, "post_process");
+__name(post_process54, "post_process");
 
-function build_html56(completion) {
+function build_html57(completion) {
 return `<div>
 <div class="completion-completed">
 <div class="message-header">
@@ -57349,15 +60502,15 @@ return `<div>
 </div>
 </div>`;
 }
-__name(build_html56, "build_html");
+__name(build_html57, "build_html");
 async function render57(completion, params = {}) {
-const frag = this.create_doc_fragment(build_html56(completion));
+const frag = this.create_doc_fragment(build_html57(completion));
 const container = frag.querySelector(".completion-completed");
-post_process54.call(this, completion, container, params);
+post_process55.call(this, completion, container, params);
 return container;
 }
 __name(render57, "render");
-async function post_process54(completion, container, params = {}) {
+async function post_process55(completion, container, params = {}) {
 const env = completion.env;
 let toggle = container.querySelector(".completion-exclude-toggle");
 if (toggle) {
@@ -57412,7 +60565,7 @@ await env.smart_components.render_component("completion_message_assistant", comp
 );
 }
 }
-__name(post_process54, "post_process");
+__name(post_process55, "post_process");
 var derive_exclude_flag = /* @__PURE__ */ __name((completion) => Boolean(completion?.data?.exclude), "derive_exclude_flag");
 var compute_exclude_flag = /* @__PURE__ */ __name((completion, params = {}) => {
 if (typeof params.exclude === "boolean") return params.exclude;
@@ -57422,6 +60575,49 @@ return !derive_exclude_flag(completion);
 var import_obsidian95 = require("obsidian");
 
 var import_obsidian94 = require("obsidian");
+
+var DEFAULT_NEAR_BOTTOM_THRESHOLD_PX = 24;
+function get_scroll_state(scroller, params = {}) {
+if (!scroller) return null;
+const {
+near_bottom_threshold_px = DEFAULT_NEAR_BOTTOM_THRESHOLD_PX
+} = params;
+const scroll_top = scroller.scrollTop;
+const client_height = scroller.clientHeight;
+const scroll_height = scroller.scrollHeight;
+const distance_from_bottom = scroll_height - (scroll_top + client_height);
+const is_near_bottom = distance_from_bottom <= near_bottom_threshold_px;
+return {
+scroll_top,
+scroll_height,
+client_height,
+is_near_bottom
+};
+}
+__name(get_scroll_state, "get_scroll_state");
+function calculate_scroll_top_after_render(params = {}) {
+const { scroll_state, next_scroll_height } = params;
+if (!scroll_state || typeof next_scroll_height !== "number") return null;
+const { scroll_top, client_height, is_near_bottom } = scroll_state;
+const max_scroll_top = Math.max(0, next_scroll_height - client_height);
+if (is_near_bottom) return max_scroll_top;
+return Math.min(scroll_top, max_scroll_top);
+}
+__name(calculate_scroll_top_after_render, "calculate_scroll_top_after_render");
+function restore_scroll_position(scroller, params = {}) {
+if (!scroller) return;
+const { scroll_state } = params;
+if (!scroll_state) return;
+const next_scroll_height = scroller.scrollHeight;
+const next_scroll_top = calculate_scroll_top_after_render({
+scroll_state,
+next_scroll_height
+});
+if (typeof next_scroll_top === "number") {
+scroller.scrollTop = next_scroll_top;
+}
+}
+__name(restore_scroll_position, "restore_scroll_position");
 
 var SmartChatItemView = class _SmartChatItemView extends import_obsidian95.ItemView {
 static {
@@ -57504,10 +60700,14 @@ threads_container.className = "smart-chat-threads-container";
 root.appendChild(threads_container);
 const render_thread = /* @__PURE__ */ __name(async () => {
 if (!threads_container) return;
+const previous_scroller = threads_container.querySelector(".sc-completions-container");
+const scroll_state = get_scroll_state(previous_scroller);
 env.smart_view?.empty?.(threads_container);
 threads_container.appendChild(
 await env.smart_components.render_component("chat_thread_item", this.active_thread, { item_view: this })
 );
+const next_scroller = threads_container.querySelector(".sc-completions-container");
+restore_scroll_position(next_scroller, { scroll_state });
 }, "render_thread");
 await render_thread();
 this.container = root;
@@ -57646,7 +60846,7 @@ this.env.settings.active_chat_thread_key = thread?.key || "";
 }
 };
 
-function build_html57() {
+function build_html58() {
 return `
 <div class="smart-chat-confirm-delete-overlay" style="
 position: absolute; top: 0; left: 0; right: 0; bottom: 0;
@@ -57667,15 +60867,15 @@ Are you sure you want to delete this chat thread?
 </div>
 `;
 }
-__name(build_html57, "build_html");
+__name(build_html58, "build_html");
 async function render58(chat_thread) {
-const html = build_html57();
+const html = build_html58();
 const frag = this.create_doc_fragment(html);
-post_process55.call(this, chat_thread, frag);
+post_process56.call(this, chat_thread, frag);
 return frag;
 }
 __name(render58, "render");
-function post_process55(chat_thread, frag) {
+function post_process56(chat_thread, frag) {
 const overlay = frag.querySelector(".smart-chat-confirm-delete-overlay");
 const confirm_btn = overlay?.querySelector(".smart-chat-confirm-delete-confirm");
 const cancel_btn = overlay?.querySelector(".smart-chat-confirm-delete-cancel");
@@ -57692,9 +60892,9 @@ SmartChatItemView.open();
 });
 return frag;
 }
-__name(post_process55, "post_process");
+__name(post_process56, "post_process");
 
-function build_html58(completion, params = {}) {
+function build_html59(completion, params = {}) {
 return `<div>
 <div class="smart-chat-confirm-overlay" style="
 position:absolute;inset:0;z-index:9999;
@@ -57745,15 +60945,15 @@ Cancel
 </div>
 </div>`;
 }
-__name(build_html58, "build_html");
+__name(build_html59, "build_html");
 async function render59(completion, params = {}) {
-const frag = this.create_doc_fragment(build_html58(completion, params));
+const frag = this.create_doc_fragment(build_html59(completion, params));
 const overlay = frag.querySelector(".smart-chat-confirm-overlay");
-post_process56.call(this, completion, overlay, params);
+post_process57.call(this, completion, overlay, params);
 return overlay;
 }
 __name(render59, "render");
-function post_process56(completion, overlay, params = {}) {
+function post_process57(completion, overlay, params = {}) {
 const on_choice = typeof params.on_choice === "function" ? params.on_choice : () => {
 };
 const close = /* @__PURE__ */ __name(() => overlay?.remove(), "close");
@@ -57786,9 +60986,9 @@ close();
 document.addEventListener("keydown", on_key, { once: true });
 return overlay;
 }
-__name(post_process56, "post_process");
+__name(post_process57, "post_process");
 
-function build_html59(completion, params = {}) {
+function build_html60(completion, params = {}) {
 const context = completion.context;
 const keys = Object.keys(context.data?.context_items || {});
 const count = keys.length;
@@ -57804,16 +61004,16 @@ ${keys.length ? `<span style="color:var(--text-faint);">eg ${keys.slice(0, 5).jo
 </div>
 </div>`;
 }
-__name(build_html59, "build_html");
+__name(build_html60, "build_html");
 async function render60(completion, params = {}) {
-const html = build_html59.call(this, completion, params);
+const html = build_html60.call(this, completion, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.querySelector(".sc-msg.context-included");
-post_process57.call(this, completion, container, params);
+post_process58.call(this, completion, container, params);
 return container;
 }
 __name(render60, "render");
-async function post_process57(completion, container, params = {}) {
+async function post_process58(completion, container, params = {}) {
 const env = completion.env;
 const content = container.querySelector(".sc-msg-content");
 const context = completion.context;
@@ -57827,7 +61027,7 @@ this.empty(content);
 content.appendChild(context_tree);
 });
 }
-__name(post_process57, "post_process");
+__name(post_process58, "post_process");
 
 async function render61(completion) {
 const frag = this.create_doc_fragment(`
@@ -57835,11 +61035,11 @@ const frag = this.create_doc_fragment(`
 </div>
 `);
 const container = frag.firstElementChild;
-post_process58.call(this, completion, container);
+post_process59.call(this, completion, container);
 return container;
 }
 __name(render61, "render");
-async function post_process58(completion, container, params = {}) {
+async function post_process59(completion, container, params = {}) {
 const env = completion.env;
 const context = env?.smart_contexts?.get(completion.data.context_key);
 const disposers = [];
@@ -57859,7 +61059,7 @@ env.events.on("context_selector:closed", render_item)
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process58, "post_process");
+__name(post_process59, "post_process");
 
 var styles_default4 = `/* Completion container */\r
 .completion-item {\r
@@ -58362,7 +61562,7 @@ display: none;\r
 /* END context selector */`;
 
 var import_obsidian96 = require("obsidian");
-function build_html60(completion) {
+function build_html61(completion) {
 return `<div>
 <div class="completion-item" data-completion-key="${completion.key}">
 <div class="completion-item-toolbar"></div>
@@ -58370,16 +61570,16 @@ return `<div>
 </div>
 </div>`;
 }
-__name(build_html60, "build_html");
+__name(build_html61, "build_html");
 async function render62(completion, params = {}) {
-const frag = this.create_doc_fragment(build_html60(completion));
+const frag = this.create_doc_fragment(build_html61(completion));
 const container = frag.querySelector(".completion-item");
 this.apply_style_sheet(styles_default4);
-post_process59.call(this, completion, container, params);
+post_process60.call(this, completion, container, params);
 return container;
 }
 __name(render62, "render");
-async function post_process59(completion, container, params = {}) {
+async function post_process60(completion, container, params = {}) {
 const env = completion.env;
 const disposers = [];
 const body = container.querySelector(".completion-item-body");
@@ -58485,9 +61685,9 @@ completion.on_event("completion:error", handle_error)
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process59, "post_process");
+__name(post_process60, "post_process");
 
-function build_html61(completion) {
+function build_html62(completion) {
 const action = completion.data.action_key;
 let action_data = completion.action_call;
 if (typeof action_data === "string") {
@@ -58526,9 +61726,9 @@ return `<div>
 </div>
 </div>`;
 }
-__name(build_html61, "build_html");
+__name(build_html62, "build_html");
 async function render63(completion, opts = {}) {
-const html = build_html61(completion);
+const html = build_html62(completion);
 const frag = this.create_doc_fragment(html);
 return frag;
 }
@@ -58578,7 +61778,7 @@ editor.scrollIntoView({ to: pos, from: pos }, true);
 }
 __name(open_note, "open_note");
 
-async function build_html62(completion) {
+async function build_html63(completion) {
 return `
 <div class="sc-msg assistant">
 <div class="sc-msg-content"></div>
@@ -58595,16 +61795,16 @@ stroke-linecap="round" stroke-linejoin="round">
 </div>
 `;
 }
-__name(build_html62, "build_html");
+__name(build_html63, "build_html");
 async function render64(completion, opts = {}) {
-const html = await build_html62.call(this, completion, opts);
+const html = await build_html63.call(this, completion, opts);
 const frag = this.create_doc_fragment(html);
-if (opts.await_post_process) return await post_process60.call(this, completion, frag, opts);
-else post_process60.call(this, completion, frag, opts);
+if (opts.await_post_process) return await post_process61.call(this, completion, frag, opts);
+else post_process61.call(this, completion, frag, opts);
 return frag;
 }
 __name(render64, "render");
-async function post_process60(completion, frag) {
+async function post_process61(completion, frag) {
 const container = frag.querySelector(".sc-msg-content");
 const copy_button = frag.querySelector(".sc-msg-copy-button");
 this.empty(container);
@@ -58633,10 +61833,10 @@ open_note(plugin, href, e);
 });
 return frag;
 }
-__name(post_process60, "post_process");
+__name(post_process61, "post_process");
 
 var import_obsidian99 = require("obsidian");
-function build_html63(completion) {
+function build_html64(completion) {
 const text = completion.data.user_message || "";
 return `<div>
 <div class="sc-msg user">
@@ -58644,24 +61844,24 @@ return `<div>
 </div>
 </div>`;
 }
-__name(build_html63, "build_html");
+__name(build_html64, "build_html");
 async function render65(completion) {
-const html = build_html63(completion);
+const html = build_html64(completion);
 const frag = this.create_doc_fragment(html);
-await post_process61.call(this, completion, frag);
+await post_process62.call(this, completion, frag);
 return frag;
 }
 __name(render65, "render");
-async function post_process61(completion, frag) {
+async function post_process62(completion, frag) {
 const content = frag.querySelector(".sc-msg-content");
 this.empty(content);
 const plugin = completion.env.smart_chat_plugin || completion.env.smart_connections_plugin;
 await import_obsidian99.MarkdownRenderer.render(plugin.app, completion.data.user_message, content, "", new import_obsidian99.Component());
 return frag;
 }
-__name(post_process61, "post_process");
+__name(post_process62, "post_process");
 
-function build_html64(completion) {
+function build_html65(completion) {
 const { model_key, provider_key } = completion.env.chat_completion_models.default.data;
 return `<div class="wrapper">
 <div class="model-info" data-model-key="${model_key}" data-platform-key="${provider_key}">
@@ -58671,16 +61871,16 @@ Model: <code>${model_key}</code> (<code>${provider_key}</code>)
 </div>
 </div>`;
 }
-__name(build_html64, "build_html");
+__name(build_html65, "build_html");
 async function render66(completion) {
-const html = build_html64(completion);
+const html = build_html65(completion);
 const frag = this.create_doc_fragment(html);
 const container = frag.querySelector(".model-info");
 return container;
 }
 __name(render66, "render");
 
-function build_html65(completion) {
+function build_html66(completion) {
 return `<div>
 <div class="completion-new">
 <div class="context-selector"></div>
@@ -58689,15 +61889,15 @@ return `<div>
 </div>
 </div>`;
 }
-__name(build_html65, "build_html");
+__name(build_html66, "build_html");
 async function render67(completion, params = {}) {
-const frag = this.create_doc_fragment(build_html65(completion));
+const frag = this.create_doc_fragment(build_html66(completion));
 const container = frag.querySelector(".completion-new");
-post_process62.call(this, completion, container, params);
+post_process63.call(this, completion, container, params);
 return container;
 }
 __name(render67, "render");
-async function post_process62(completion, container, params = {}) {
+async function post_process63(completion, container, params = {}) {
 const env = completion.env;
 const context_selector = container.querySelector(".context-selector");
 const action_selector = container.querySelector(".action-selector");
@@ -58710,9 +61910,9 @@ await env.smart_components.render_component("completion_user_input", completion,
 );
 return container;
 }
-__name(post_process62, "post_process");
+__name(post_process63, "post_process");
 
-function build_html66(opts = {}) {
+function build_html67(opts = {}) {
 return `
 <div class="smart-chat-confirm-missing-config-overlay" style="
 position: absolute; top: 0; left: 0; right: 0; bottom: 0;
@@ -58732,15 +61932,15 @@ ${opts?.message || "No chat model configured or missing API key. Please update y
 </div>
 `;
 }
-__name(build_html66, "build_html");
+__name(build_html67, "build_html");
 async function render68(chat_thread, opts = {}) {
-const html = build_html66(opts);
+const html = build_html67(opts);
 const frag = this.create_doc_fragment(html);
-post_process63.call(this, chat_thread, frag, opts);
+post_process64.call(this, chat_thread, frag, opts);
 return frag;
 }
 __name(render68, "render");
-function post_process63(chat_thread, frag) {
+function post_process64(chat_thread, frag) {
 const overlay = frag.querySelector(".smart-chat-confirm-missing-config-overlay");
 const btn = overlay?.querySelector(".smart-chat-open-settings");
 btn?.addEventListener("click", (e) => {
@@ -58750,7 +61950,7 @@ overlay.remove();
 });
 return frag;
 }
-__name(post_process63, "post_process");
+__name(post_process64, "post_process");
 
 function split_into_chunks(text, size = 1024) {
 const out = [];
@@ -58873,7 +62073,7 @@ stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
 controls.appendChild(send_button);
 return { controls, send_button };
 }, "create_inline_controls");
-function build_html67() {
+function build_html68() {
 return `<div>
 <div class="completion-error" style="display:none;"></div>
 <div class="smart-chat-chat-input-row new">
@@ -58898,7 +62098,7 @@ placeholder="Use @ to add context. eg Based on my notes"
 </div>
 </div>`;
 }
-__name(build_html67, "build_html");
+__name(build_html68, "build_html");
 function should_send_message(e, required_modifier) {
 const normalized = normalize_modifier_key(required_modifier);
 if (normalized === "none") {
@@ -58931,13 +62131,13 @@ on_choice: /* @__PURE__ */ __name((choice) => resolve(choice), "on_choice")
 (mount || document.body).appendChild(overlay);
 }), "open_no_context_dialog");
 async function render69(completion, opts = {}) {
-const frag = this.create_doc_fragment(build_html67());
+const frag = this.create_doc_fragment(build_html68());
 const container = frag.firstElementChild;
-post_process64.call(this, completion, container, opts);
+post_process65.call(this, completion, container, opts);
 return container;
 }
 __name(render69, "render");
-function post_process64(completion, container, opts = {}) {
+function post_process65(completion, container, opts = {}) {
 const env = completion.env;
 const error_el = container.querySelector(".completion-error");
 if (completion.data.completion?.error) {
@@ -59093,7 +62293,7 @@ input_el.addEventListener("paste", input_el._scPasteHandler);
 refresh_input_state();
 this.attach_disposer(container, disposers);
 }
-__name(post_process64, "post_process");
+__name(post_process65, "post_process");
 
 function chat_suggest_completions(params = {}) {
 const env = this?.env || params?.env;
@@ -59173,12 +62373,34 @@ thread_key: thread.key
 if (modal && typeof modal.close === "function") {
 modal.close();
 }
-}, "select_action")
+}, "select_action"),
+mod_select_action: /* @__PURE__ */ __name(({ modal }) => delete_chat_thread_action(thread, { env, modal }), "mod_select_action")
 };
 });
 }
 __name(chat_suggest_threads, "chat_suggest_threads");
 var display_name8 = "Chat threads";
+async function delete_chat_thread_action(thread, params = {}) {
+if (!thread) return [];
+const { env, modal } = params;
+const confirm_fn = params.confirm_fn || globalThis.confirm;
+const thread_name = (thread.data?.name || "").trim() || `Chat ${thread.key}`;
+const allow_delete = confirm_fn?.(`Delete "${thread_name}"? This cannot be undone.`);
+if (!allow_delete) return [];
+if (typeof thread.delete === "function") {
+thread.delete();
+} else {
+thread.deleted = true;
+}
+if (thread.collection && typeof thread.collection.process_save_queue === "function") {
+await thread.collection.process_save_queue();
+}
+if (env?.settings?.active_chat_thread_key === thread.key) {
+env.settings.active_chat_thread_key = "";
+}
+return chat_suggest_threads({ env });
+}
+__name(delete_chat_thread_action, "delete_chat_thread_action");
 
 async function completion_context_lookup_hyde(params = {}) {
 const completion = this;
@@ -59271,834 +62493,6 @@ think: { action: think }
 }
 };
 
-var SmartChatCodeblock = class {
-static {
-__name(this, "SmartChatCodeblock");
-}
-constructor({ plugin, file, line_start, line_end, container_el, source, ctx }) {
-this.plugin = plugin;
-this.file = file;
-this.line_start = line_start;
-this.line_end = line_end;
-this.container_el = container_el;
-this.source = source;
-this.ctx = ctx;
-this._FALLBACK_URL = "https://smartconnections.app/?utm_source=chat-codeblock-fallback";
-}
-/**
-* Insert new url line after the start
-*/
-async _insert_link_into_codeblock(url) {
-if (!this.file) return;
-const timestamp_in_seconds = Math.floor(Date.now() / 1e3);
-const new_line = `chat-active:: ${timestamp_in_seconds} ${url}`;
-if (this.ctx && this.ctx.replaceCode) {
-this.ctx.replaceCode(new_line + "\n" + this.source);
-const { text, lineStart: line_start, lineEnd: line_end } = this.ctx.getSectionInfo(this.container_el) ?? {};
-const updated_source = text.split("\n").slice(line_start + 1, line_end).join("\n");
-this.source = updated_source;
-this.links = this._extract_links(this.source);
-this._build_dropdown();
-return;
-}
-await this.plugin.app.vault.process(this.file, (file_data) => {
-const [start, end] = this._find_codeblock_boundaries(file_data);
-if (start < 0 || end < 0) {
-console.warn("Cannot find codeblock to insert link:", url);
-return file_data;
-}
-const lines = file_data.split("\n");
-lines.splice(start + 1, 0, new_line);
-return lines.join("\n");
-});
-}
-/**
-* Creates a dropdown for links, labeling done ones with "✓".
-*/
-_build_dropdown(parent_el = null) {
-if (!this.dropdown_el) {
-if (!parent_el) throw new Error("Parent element is required to build dropdown");
-this.dropdown_el = parent_el.createEl("select", { cls: "sc-link-dropdown" });
-this.dropdown_el.addEventListener("change", () => {
-const new_link = this.dropdown_el.value;
-if (this.webview_el) {
-this.webview_el.setAttribute("src", new_link);
-this.current_url = new_link;
-}
-});
-}
-this.dropdown_el.empty();
-this.add_dropdown_options();
-this.dropdown_el.value = this.current_url || this.initial_link;
-}
-add_dropdown_options() {
-const new_chat = this.dropdown_el.createEl("option");
-new_chat.value = this._FALLBACK_URL;
-new_chat.textContent = "New chat";
-for (const link_obj of this.links) {
-const option_el = this.dropdown_el.createEl("option");
-option_el.value = link_obj.url;
-option_el.textContent = link_obj.done ? "\u2713 " + link_obj.url : link_obj.url;
-}
-}
-_init_navigation_events() {
-if (!this.webview_el) return;
-this.webview_el.addEventListener("did-finish-load", () => {
-this.webview_el.setAttribute("data-did-finish-load", "true");
-});
-this.webview_el.addEventListener("did-navigate", (ev) => {
-if (ev.url) this._debounce_handle_new_url(ev.url);
-});
-this.webview_el.addEventListener("did-navigate-in-page", (ev) => {
-if (ev.url) this._debounce_handle_new_url(ev.url);
-});
-}
-_debounce_handle_new_url(new_url) {
-clearTimeout(this._nav_timer);
-this._nav_timer = setTimeout(() => this._handle_new_url(new_url), 300);
-}
-async _handle_new_url(new_url) {
-const norm_new = this._normalize_url(new_url);
-const norm_last = this._normalize_url(this.last_detected_url);
-if (norm_new === norm_last) return;
-this.last_detected_url = new_url;
-this.current_url = new_url;
-if (this._is_thread_link(new_url)) {
-const link_to_save = this._normalize_url(new_url);
-const already_saved = await this._check_if_saved(link_to_save);
-if (!already_saved) {
-await this._insert_link_into_codeblock(link_to_save);
-this.plugin.env?.events?.emit("chat_codeblock:saved_thread", { url: link_to_save });
-this.plugin.notices.show(`Auto-saved new ${this.constructor.name} thread link.`);
-}
-}
-this._render_save_ui(new_url);
-}
-/**
-* Normalises a URL by stripping query / hash.
-* @param {string} url
-* @returns {string}
-*/
-_normalize_url(url) {
-try {
-const u = new URL(url);
-u.search = "";
-u.hash = "";
-return u.toString();
-} catch (_) {
-return url;
-}
-}
-/**
-* Injects a <style id="sc-grow-css"> tag with the “grow” rules.
-*/
-_applyGrowCss() {
-if (document.getElementById("sc-grow-css")) return;
-const css = `
-.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer:has(.sc-dynamic-codeblock){
-max-width:none !important;
-}
-.cm-content.cm-lineWrapping:has(.sc-dynamic-codeblock){
-max-width:none !important;
-}
-.cm-content.cm-lineWrapping:has(.sc-dynamic-codeblock)>div{
-width:var(--file-line-width);
-max-width:none !important;
-}
-.cm-content.cm-lineWrapping:has(.sc-dynamic-codeblock)>.cm-embed-block:has(.sc-dynamic-codeblock){
-width:auto !important;
-}`.trim();
-const styleEl = document.createElement("style");
-styleEl.id = "sc-grow-css";
-styleEl.textContent = css;
-document.head.appendChild(styleEl);
-}
-/**
-* Removes the injected grow rules if present.
-*/
-_removeGrowCss() {
-const styleEl = document.getElementById("sc-grow-css");
-if (styleEl) styleEl.remove();
-}
-_extract_links(source) {
-}
-};
-
-var import_url = require("url");
-var SUPPORTED_DOMAINS = [
-"chatgpt.com",
-"sora.com",
-"sora.chatgpt.com"
-];
-var GPT_THREAD_REGEX = /^\/g\/[^/]+\/c\/[a-f0-9-]+\/?$/i;
-var CODEX_TASK_REGEX = /^\/codex\/tasks\/[a-z0-9-_]+\/?$/i;
-var CHAT_THREAD_REGEX = /^\/c\/[a-f0-9-]+\/?$/i;
-var SORA_DRAFT_REGEX = /^\/d\/[a-z0-9-_]+\/?$/i;
-var SORA_PUB_REGEX = /^\/p\/s_[a-f0-9]+\/?$/i;
-var SORA_TASK_REGEX = /^\/t\/[a-f0-9-]+\/?$/i;
-function is_chatgpt_thread_link(url) {
-try {
-const u = new import_url.URL(url);
-if (!SUPPORTED_DOMAINS.includes(u.hostname)) return false;
-const path = u.pathname;
-return CHAT_THREAD_REGEX.test(path) || GPT_THREAD_REGEX.test(path) || CODEX_TASK_REGEX.test(path) || SORA_DRAFT_REGEX.test(path) || SORA_PUB_REGEX.test(path) || SORA_TASK_REGEX.test(path);
-} catch {
-return false;
-}
-}
-__name(is_chatgpt_thread_link, "is_chatgpt_thread_link");
-
-var SmartChatgptCodeblock = class extends SmartChatCodeblock {
-static {
-__name(this, "SmartChatgptCodeblock");
-}
-/**
-* @param {Object} options
-* @param {import('obsidian').Plugin} options.plugin - The parent plugin instance.
-* @param {import('obsidian').TFile} options.file - The file containing the codeblock.
-* @param {number} options.line_start - The start line of the codeblock.
-* @param {number} options.line_end - The end line of the codeblock.
-* @param {HTMLElement} options.container_el - The container where this codeblock UI is rendered.
-* @param {string} options.source - The raw text inside the ```smart-chatgpt codeblock.
-*/
-constructor(opts = {}) {
-super(opts);
-this.link_regex = /(https?:\/\/[^\s]+)/g;
-this._FALLBACK_URL = "https://chatgpt.com";
-this.links = this._extract_links(this.source);
-const not_done_link_obj = this.links.find((obj) => !obj.done);
-this.initial_link = not_done_link_obj ? not_done_link_obj.url : this._FALLBACK_URL;
-this.last_detected_url = this.initial_link;
-this.current_url = this.initial_link;
-this.dropdown_el = null;
-this.mark_done_button_el = null;
-this.status_text_el = null;
-this.webview_el = null;
-this.refresh_button_el = null;
-this.open_browser_button_el = null;
-this.copy_link_button_el = null;
-}
-/**
-* Extract lines:
-*   chat-active:: <timestamp> <url>
-*   chat-done:: <timestamp> <url>
-* or fallback to any link in the codeblock.
-*
-* @param {string} codeblock_source
-* @returns {Array<{ url: string, done: boolean }>}
-*/
-_extract_links(codeblock_source) {
-const lines = codeblock_source.split("\n");
-const result = [];
-for (const line of lines) {
-const trimmed = line.trim();
-if (trimmed.startsWith("chat-done:: ")) {
-const tokens = trimmed.split(/\s+/);
-const possibleUrl = tokens[tokens.length - 1];
-if (possibleUrl.startsWith("http")) {
-result.push({ url: possibleUrl, done: true });
-}
-continue;
-}
-if (trimmed.startsWith("chat-active:: ")) {
-const tokens = trimmed.split(/\s+/);
-const possibleUrl = tokens[tokens.length - 1];
-if (possibleUrl.startsWith("http")) {
-result.push({ url: possibleUrl, done: false });
-}
-continue;
-}
-const found = line.match(this.link_regex) || [];
-for (const f of found) {
-result.push({ url: f, done: false });
-}
-}
-return result;
-}
-/**
-* Called once by our codeblock processor to build the UI.
-*/
-async build() {
-await this._prefix_missing_lines_in_file();
-const updated_source = await this._get_codeblock_source_from_file();
-if (updated_source) {
-this.source = updated_source;
-}
-this.links = this._extract_links(this.source);
-const not_done_link_obj = this.links.find((obj) => !obj.done);
-this.initial_link = not_done_link_obj ? not_done_link_obj.url : this._FALLBACK_URL;
-this.last_detected_url = this.initial_link;
-this.current_url = this.initial_link;
-const top_row_el = this.container_el?.createEl("div", { cls: "sc-top-row" });
-if (top_row_el) {
-this._build_dropdown(top_row_el);
-this.mark_done_button_el = top_row_el.createEl("button", {
-text: "Mark done",
-cls: "sc-mark-done-button sc-hidden"
-});
-this.status_text_el = top_row_el.createEl("span", { cls: "sc-status-text" });
-}
-if (this.container_el) {
-this.webview_el = this.container_el.createEl("webview", {
-cls: "sc-webview"
-});
-this.webview_el.setAttribute("partition", this.plugin.app.getWebviewPartition());
-this.webview_el.setAttribute("allowpopups", "");
-this.webview_el.setAttribute("useragent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.191 Safari/537.36");
-this.webview_el.setAttribute("webpreferences", "nativeWindowOpen=yes, contextIsolation=yes");
-this._init_navigation_events();
-const webview_height = this.plugin.settings.iframe_height || 800;
-this.webview_el.style.setProperty("--sc-webview-height", webview_height + "px");
-this.webview_el.setAttribute("src", this.initial_link);
-this.webview_el.addEventListener("dom-ready", () => {
-const factor = this.plugin.settings.zoom_factor || 1;
-this.webview_el.setZoomFactor(factor);
-});
-const bottom_row_el = this.container_el.createEl("div", { cls: "sc-bottom-row" });
-this.refresh_button_el = bottom_row_el.createEl("button", { text: "Refresh" });
-this.refresh_button_el.addEventListener("click", () => {
-if (this.webview_el) {
-this.webview_el.reload();
-this.plugin.env?.events?.emit("webview:reloaded", { url: this.current_url });
-this.plugin.notices.show("Webview reloaded.");
-}
-});
-this.open_browser_button_el = bottom_row_el.createEl("button", { text: "Open in browser" });
-this.open_browser_button_el.addEventListener("click", () => {
-if (this.current_url && this.current_url.startsWith("http")) {
-window.open(this.current_url, "_blank");
-}
-});
-this.copy_link_button_el = bottom_row_el.createEl("button", { text: "Copy link" });
-this.copy_link_button_el.addEventListener("click", () => {
-if (this.current_url?.startsWith("http")) {
-navigator.clipboard.writeText(this.current_url);
-this.plugin.env?.events?.emit("url:copied", { url: this.current_url });
-this.plugin.notices.show("Copied current URL to clipboard.");
-}
-});
-this.grow_contain_button_el = bottom_row_el.createEl("button", { text: "Grow" });
-this._grow_css_active = false;
-this.grow_contain_button_el.addEventListener("click", () => {
-if (this._grow_css_active) {
-this._removeGrowCss();
-this.grow_contain_button_el.textContent = "Grow";
-this._grow_css_active = false;
-} else {
-this._applyGrowCss();
-this.grow_contain_button_el.textContent = "Contain";
-this._grow_css_active = true;
-}
-});
-}
-this._render_save_ui(this.initial_link);
-}
-/**
-* Reads the entire file, returns just the lines inside our codeblock.
-*/
-async _get_codeblock_source_from_file() {
-if (!this.file) return null;
-try {
-const raw_data = await this.plugin.app.vault.read(this.file);
-const [start, end] = this._find_codeblock_boundaries(raw_data);
-if (start < 0 || end < 0 || end <= start) return null;
-const lines = raw_data.split("\n").slice(start + 1, end);
-return lines.join("\n");
-} catch (err) {
-console.error("Error reading file for updated codeblock content:", err);
-return null;
-}
-}
-/**
-* Ensures lines with bare links become "chat-active:: " lines
-*/
-async _prefix_missing_lines_in_file() {
-if (!this.file) return;
-await this.plugin.app.vault.process(this.file, (file_data) => {
-const [start, end] = this._find_codeblock_boundaries(file_data);
-if (start < 0 || end < 0) return file_data;
-const lines = file_data.split("\n");
-let changed = false;
-for (let i = start + 1; i < end; i++) {
-const line = lines[i];
-const trimmed = line.trim();
-if (trimmed.startsWith("chat-active:: ") || trimmed.startsWith("chat-done:: ")) {
-continue;
-}
-const found = line.match(this.link_regex) || [];
-if (found.length > 0) {
-const timestamp_in_seconds = Math.floor(Date.now() / 1e3);
-lines[i] = `chat-active:: ${timestamp_in_seconds} ${trimmed}`;
-changed = true;
-}
-}
-return changed ? lines.join("\n") : file_data;
-});
-}
-add_dropdown_options() {
-const new_codex_opt = this.dropdown_el.createEl("option");
-new_codex_opt.value = "https://chatgpt.com/codex";
-new_codex_opt.textContent = "New Codex";
-const new_sora_opt = this.dropdown_el.createEl("option");
-new_sora_opt.value = "https://sora.chatgpt.com/drafts";
-new_sora_opt.textContent = "New Sora";
-super.add_dropdown_options();
-}
-/**
-* Checks if the provided URL is a recognized ChatGPT thread link.
-* Must be under one of the supported domains and must match a path pattern representing a thread/task.
-* Recognized patterns:
-*   - /c/: standard chat threads (also used for operator)
-*   - /g/{gpt-id}/c/{uuid}: custom GPT threads
-*   - /codex/tasks/: individual codex task pages
-*   - /t/: Sora tasks
-*
-* @param {string} url
-* @returns {boolean}
-*/
-_is_thread_link(url) {
-return is_chatgpt_thread_link(url);
-}
-/**
-* Show/hide the correct UI for "mark done" or "already done".
-* @param {string} url
-*/
-async _render_save_ui(url) {
-this._set_status_text("");
-this._hide_mark_done_button();
-if (!url.startsWith("http")) {
-this._set_status_text("No valid link to save.");
-return;
-}
-if (!this._is_thread_link(url)) {
-this._set_status_text("Not a thread link (no save/done).");
-return;
-}
-const link_to_check = this._normalize_url(url);
-const is_done = await this._check_if_done(link_to_check);
-if (is_done) {
-this._set_status_text("This thread is marked done.");
-return;
-}
-this._show_mark_done_button();
-if (this.mark_done_button_el) {
-this.mark_done_button_el.onclick = async () => {
-await this._mark_thread_done_in_codeblock(link_to_check);
-this.plugin.env?.events?.emit("chat_codeblock:marked_done", { url: link_to_check });
-this.plugin.notices.show("Marked thread as done.");
-this._render_save_ui(this.current_url);
-};
-}
-}
-_set_status_text(text) {
-if (this.status_text_el) {
-this.status_text_el.textContent = text;
-}
-}
-_show_mark_done_button() {
-if (this.mark_done_button_el) {
-this.mark_done_button_el.classList.remove("sc-hidden");
-}
-}
-_hide_mark_done_button() {
-if (this.mark_done_button_el) {
-this.mark_done_button_el.classList.add("sc-hidden");
-}
-}
-async _check_if_saved(url) {
-if (!this.file) return false;
-try {
-const raw_data = await this.plugin.app.vault.read(this.file);
-const [start, end] = this._find_codeblock_boundaries(raw_data);
-if (start < 0 || end < 0 || end <= start) return false;
-const lines = raw_data.split("\n").slice(start + 1, end);
-for (const line of lines) {
-const trimmed = line.trim();
-if (trimmed.startsWith("chat-active:: ") || trimmed.startsWith("chat-done:: ")) {
-const tokens = trimmed.split(/\s+/);
-const lastToken = tokens[tokens.length - 1];
-if (lastToken === url) {
-return true;
-}
-} else if (line.includes(url)) {
-return true;
-}
-}
-return false;
-} catch (err) {
-console.error("Error checking if link is saved:", err);
-return false;
-}
-}
-async _check_if_done(url) {
-if (!this.file) return false;
-try {
-const raw_data = await this.plugin.app.vault.read(this.file);
-const [start, end] = this._find_codeblock_boundaries(raw_data);
-if (start < 0 || end < 0 || end <= start) return false;
-const lines = raw_data.split("\n").slice(start + 1, end);
-for (const line of lines) {
-const trimmed = line.trim();
-if (trimmed.startsWith("chat-done:: ")) {
-const tokens = trimmed.split(/\s+/);
-const lastToken = tokens[tokens.length - 1];
-if (lastToken === url) {
-return true;
-}
-}
-}
-return false;
-} catch (err) {
-console.error("Error reading file for done-check:", err);
-return false;
-}
-}
-/**
-* Mark "chat-active::" -> "chat-done::" for this url,
-* then navigate to next undone link if any
-*/
-async _mark_thread_done_in_codeblock(url) {
-if (!this.file) return;
-let nextUrl = "";
-await this.plugin.app.vault.process(this.file, (file_data) => {
-const lines = file_data.split("\n");
-const [start, end] = this._find_codeblock_boundaries(file_data);
-if (start < 0 || end < 0) {
-console.warn("Cannot find codeblock boundaries to mark done:", url);
-return file_data;
-}
-let doneLineIndex = -1;
-for (let i = start + 1; i < end; i++) {
-const trimmed = lines[i].trim();
-if (trimmed.startsWith("chat-active:: ") && trimmed.includes(url)) {
-lines[i] = lines[i].replace("chat-active:: ", "chat-done:: ");
-doneLineIndex = i;
-break;
-}
-}
-const updatedData = lines.join("\n");
-nextUrl = this._find_next_undone_url(updatedData, start, end, doneLineIndex) || "";
-return updatedData;
-});
-if (nextUrl) {
-this.webview_el?.setAttribute("src", nextUrl);
-this.current_url = nextUrl;
-} else {
-this.webview_el?.setAttribute("src", this._FALLBACK_URL);
-this.current_url = this._FALLBACK_URL;
-}
-}
-_find_next_undone_url(file_data, start, end, doneIndex) {
-if (doneIndex < 0) return null;
-const lines = file_data.split("\n");
-for (let i = doneIndex + 1; i < end; i++) {
-const trimmed = lines[i].trim();
-if (trimmed.startsWith("chat-active:: ")) {
-const tokens = trimmed.split(/\s+/);
-return tokens[tokens.length - 1];
-}
-}
-return null;
-}
-/**
-* Finds lines of ```smart-chatgpt ... ```
-*/
-_find_codeblock_boundaries(file_data) {
-if (!file_data) return [this.line_start, this.line_end];
-const lines = file_data.split("\n");
-const foundBlocks = [];
-let currentBlockStart = -1;
-for (let i = 0; i < lines.length; i++) {
-const line = lines[i];
-if (currentBlockStart === -1 && line.trim().startsWith("```smart-chatgpt")) {
-currentBlockStart = i;
-} else if (currentBlockStart >= 0 && line.trim().startsWith("```")) {
-foundBlocks.push({ start: currentBlockStart, end: i });
-currentBlockStart = -1;
-}
-}
-if (!foundBlocks.length) {
-return [this.line_start, this.line_end];
-}
-if (foundBlocks.length === 1) {
-return [foundBlocks[0].start, foundBlocks[0].end];
-}
-for (const block of foundBlocks) {
-const { start, end } = block;
-if (start <= this.line_start && end >= this.line_end) {
-return [start, end];
-}
-}
-return [foundBlocks[0].start, foundBlocks[0].end];
-}
-};
-
-var DEFAULT_AUTOMATION_OPTIONS = Object.freeze({
-response_timeout_ms: 3e4,
-check_interval_ms: 1e3,
-stabilization_delay_ms: 2e3
-});
-var build_send_message_script = /* @__PURE__ */ __name((message, automation_options = {}) => {
-const {
-response_timeout_ms,
-check_interval_ms,
-stabilization_delay_ms
-} = { ...DEFAULT_AUTOMATION_OPTIONS, ...automation_options };
-const sanitized_message = JSON.stringify(message);
-return `(() => {
-const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
-const wait_for_element = async (selector, timeout) => {
-const start = Date.now();
-while (Date.now() - start < timeout) {
-const el = document.querySelector(selector);
-if (el) return el;
-await sleep(100);
-}
-throw new Error('Element not found: ' + selector);
-};
-
-const type_text = async (el, text) => {
-el.focus();
-el.value = '';
-el.dispatchEvent(new Event('input', { bubbles: true }));
-for (const char of text) {
-el.value += char;
-el.dispatchEvent(new InputEvent('input', { bubbles: true, data: char }));
-await sleep(10);
-}
-};
-
-return (async () => {
-try {
-const MESSAGE = ${sanitized_message};
-const PROMPT_SELECTOR = '#prompt-textarea';
-const ASSISTANT_SELECTOR = '[data-message-author-role="assistant"]';
-const TIMEOUT = ${response_timeout_ms};
-const CHECK_INTERVAL = ${check_interval_ms};
-const STABILIZE_DELAY = ${stabilization_delay_ms};
-
-const prompt_el = await wait_for_element(PROMPT_SELECTOR, TIMEOUT);
-await type_text(prompt_el, MESSAGE);
-
-const keydown = new KeyboardEvent('keydown', {
-bubbles: true,
-cancelable: true,
-key: 'Enter',
-code: 'Enter'
-});
-prompt_el.dispatchEvent(keydown);
-
-const keyup = new KeyboardEvent('keyup', {
-bubbles: true,
-cancelable: true,
-key: 'Enter',
-code: 'Enter'
-});
-prompt_el.dispatchEvent(keyup);
-
-const initial_count = document.querySelectorAll(ASSISTANT_SELECTOR).length;
-const start = Date.now();
-let new_message_detected = false;
-
-while (Date.now() - start < TIMEOUT) {
-const current_count = document.querySelectorAll(ASSISTANT_SELECTOR).length;
-if (current_count > initial_count) {
-new_message_detected = true;
-break;
-}
-await sleep(CHECK_INTERVAL);
-}
-
-if (!new_message_detected) {
-throw new Error('No assistant response detected');
-}
-
-const assistant_nodes = document.querySelectorAll(ASSISTANT_SELECTOR);
-const latest = assistant_nodes[assistant_nodes.length - 1];
-let stable_text = '';
-let stable_elapsed = 0;
-
-while (stable_elapsed < STABILIZE_DELAY && Date.now() - start < TIMEOUT) {
-const markdown = latest.querySelector('.markdown.prose');
-const text = (markdown || latest).innerText.trim();
-if (text && text === stable_text) {
-stable_elapsed += CHECK_INTERVAL;
-} else {
-stable_text = text;
-stable_elapsed = 0;
-}
-await sleep(CHECK_INTERVAL);
-}
-
-return {
-success: true,
-response: stable_text,
-thread_url: window.location.href
-};
-} catch (error) {
-return {
-success: false,
-error: error?.message ?? String(error)
-};
-}
-})();
-})();`;
-}, "build_send_message_script");
-var build_send_message_payload = /* @__PURE__ */ __name((message, script_result = {}) => ({
-user_message: message,
-response: script_result.response ?? "",
-thread_url: script_result.thread_url ?? ""
-}), "build_send_message_payload");
-var build_detect_visible_text_script = /* @__PURE__ */ __name(() => `(() => {
-try {
-const text = (document.body?.innerText ?? '').trim();
-return {
-success: true,
-visible_text: text,
-thread_url: window.location.href
-};
-} catch (error) {
-return {
-success: false,
-error: error?.message ?? String(error)
-};
-}
-})();`, "build_detect_visible_text_script");
-var parse_visible_text_result = /* @__PURE__ */ __name((result = {}) => {
-const success = result?.success === true;
-const visible_text = typeof result?.visible_text === "string" ? result.visible_text.trim() : "";
-const thread_url = typeof result?.thread_url === "string" ? result.thread_url : "";
-return {
-success,
-visible_text,
-thread_url
-};
-}, "parse_visible_text_result");
-var AutomatedSmartChatgptCodeblock = class extends SmartChatgptCodeblock {
-static {
-__name(this, "AutomatedSmartChatgptCodeblock");
-}
-constructor(opts = {}) {
-super(opts);
-this._visible_text_listener = null;
-}
-async build() {
-await super.build();
-this._init_visible_text_logger();
-}
-/**
-* Send a message via the embedded ChatGPT webview.
-*
-* @param {string} message
-* @param {ChatgptAutomationOptions} [automation_options]
-* @returns {Promise<{user_message: string, response: string, thread_url: string}>}
-*/
-async send_message(message, automation_options = {}) {
-if (typeof message !== "string") {
-throw new TypeError("send_message requires message to be a non-empty string");
-}
-const trimmed_message = message.trim();
-if (!trimmed_message) {
-throw new Error("send_message requires message to be a non-empty string");
-}
-if (!this.webview_el?.executeJavaScript) {
-throw new Error("Cannot send message without an active ChatGPT webview");
-}
-const script = build_send_message_script(trimmed_message, automation_options);
-let script_result;
-try {
-script_result = await this.webview_el.executeJavaScript(script);
-} catch (error) {
-const reason = error?.message ?? String(error);
-throw new Error(`Failed executing ChatGPT automation: ${reason}`);
-}
-if (!script_result || script_result.success !== true) {
-const failure_reason = script_result?.error ?? "Unknown ChatGPT automation failure";
-throw new Error(failure_reason);
-}
-const payload = build_send_message_payload(trimmed_message, script_result);
-this.plugin?.env?.events?.emit("chatgpt:new_message", payload);
-return payload;
-}
-/**
-* Capture visible text from the ChatGPT webview.
-*
-* @returns {Promise<string>}
-*/
-async capture_visible_text() {
-if (!this.webview_el?.executeJavaScript) {
-return "";
-}
-try {
-const script = build_detect_visible_text_script();
-const result = await this.webview_el.executeJavaScript(script);
-const normalized = parse_visible_text_result(result);
-if (!normalized.success || !normalized.visible_text) {
-return "";
-}
-console.log({ visible_text: normalized.visible_text, thread_url: normalized.thread_url });
-return normalized.visible_text;
-} catch (error) {
-console.error("Failed capturing ChatGPT visible text:", error);
-return "";
-}
-}
-/**
-* Initialize logging of visible text on webview readiness.
-*/
-_init_visible_text_logger() {
-if (!this.webview_el?.addEventListener) {
-return;
-}
-if (this._visible_text_listener && this.webview_el.removeEventListener) {
-this.webview_el.removeEventListener("dom-ready", this._visible_text_listener);
-}
-this._visible_text_listener = () => {
-void this.capture_visible_text();
-};
-this.webview_el.addEventListener("dom-ready", this._visible_text_listener);
-}
-};
-
-var CODEBLOCK_NAMESPACE = "smart-chat-early";
-var render_error = /* @__PURE__ */ __name((container, text) => {
-container.createEl("div", { text });
-}, "render_error");
-var create_processor = /* @__PURE__ */ __name((plugin) => {
-const vault = plugin.app?.vault;
-const TFile3 = vault?.constructor?.TFile;
-return async (source, el, ctx) => {
-const container = el.createEl("div", { cls: "sc-dynamic-codeblock" });
-const info = ctx.getSectionInfo(el);
-if (!info) {
-render_error(container, "Unable to get codeblock info.");
-return;
-}
-const file = vault?.getAbstractFileByPath(ctx.sourcePath);
-if (!file || !TFile3 || !(file instanceof TFile3)) {
-render_error(container, "Unable to locate file.");
-return;
-}
-const codeblock = new AutomatedSmartChatgptCodeblock({
-plugin,
-file,
-line_start: info.lineStart,
-line_end: info.lineEnd,
-container_el: container,
-source,
-ctx
-});
-await codeblock.build();
-};
-}, "create_processor");
-var register_automated_codeblock = /* @__PURE__ */ __name((plugin) => {
-plugin.registerMarkdownCodeBlockProcessor(
-CODEBLOCK_NAMESPACE,
-create_processor(plugin)
-);
-}, "register_automated_codeblock");
-
 var import_obsidian100 = require("obsidian");
 var ChatHistoryModal = class extends SmartFuzzySuggestModal {
 static {
@@ -60132,8 +62526,10 @@ constructor(item_or_collection, params = {}) {
 super(item_or_collection);
 this.params = params;
 this.emptyStateText = "No chat history found";
+const mod_label = import_obsidian100.Platform.isMacOS ? "Cmd+Enter" : "Ctrl+Enter";
 this.setInstructions?.([
 { command: "Enter", purpose: "Open chat" },
+{ command: mod_label, purpose: "Delete chat" },
 { command: "Esc", purpose: "Close" }
 ]);
 }
@@ -60172,7 +62568,6 @@ console.log("Loading Smart Chat plugin...");
 await this.SmartEnv.wait_for({ loaded: true });
 SmartChatItemView.register_view(this);
 this.addSettingTab(new SmartChatSettingTab(this.app, this));
-register_automated_codeblock(this);
 this.env.config.modals.chat_history.class.register_modal(this);
 }
 };
