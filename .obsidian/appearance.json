@@ -1,5 +1,5 @@
 {
-  "cssTheme": "V4D3R Crimson",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "__v4d3r-ui-system",
     "v4d3r-mermaid-tables-plugins-part1",
@@ -34,7 +34,6 @@
     "code-block-language-custom",
     "custom-horizontal-rules-",
     "custom-ordered-list-numbers-(colored)-",
-    "dark-shadow-callout-system",
     "glassmorphism-sidebar-system",
     "inline-code-system",
     "metadata-panel"
