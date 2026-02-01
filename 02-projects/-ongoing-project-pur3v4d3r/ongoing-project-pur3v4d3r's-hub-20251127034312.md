@@ -190,7 +190,7 @@ SORT number(rating) ASC
 > > [!the-goal]
 > > Is to take each of these **TOPICS** that I have come up with, and process them *individually* into their own **permanent notes**. Of which, I will systematically work through. Filling out the *required information*, doing all the normal **PKB activities**. Such as *Metadata* and *Linking*. This alone will start the "**Schemas**" from [[Constructivist Learning]] Theory engaging. When I inevitably start to *link* these *concepts* with the others already in my PKB, I will be engaging in building **neural networks**, for when I start the research process and start [[Assimilation-(Constructivist-Learning)|assimilating]] the new ideas and thoughts into my working [[Schemas|schemas]].
 
-## Topic Sets Table (*available topics to select from*)
+## available topics to select from
 
 ```dataview
 TABLE
