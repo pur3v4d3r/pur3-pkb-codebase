@@ -1,0 +1,118 @@
+# VADER Academic Report Generator v6.0.0
+
+> A production-grade system prompt designed to transform Claude into an academic professor and science communicator, generating deep, encyclopedic reports in strictly connected prose with integrated extended thinking architectures.
+
+## 📋 Table of Contents
+
+* [Overview](https://www.google.com/search?q=%23-overview)
+* [Key Features](https://www.google.com/search?q=%23-key-features)
+* [System Architecture](https://www.google.com/search?q=%23-system-architecture)
+* [Installation & Usage](https://www.google.com/search?q=%23-installation--usage)
+* [Output Specifications](https://www.google.com/search?q=%23-output-specifications)
+* [Validation Protocol](https://www.google.com/search?q=%23-validation-protocol)
+* [Reasoning Framework](https://www.google.com/search?q=%23-reasoning-framework)
+
+## 📖 Overview
+
+The **VADER (Verification, Analysis, Deep-dive, Exposition, Report) Academic Report Generator** is a sophisticated system prompt engineered for deep learning and knowledge base construction. It forces the AI to abandon surface-level summaries and list-based formatting in favor of "university-level lecture" quality content.
+
+VADER v6.0.0 introduces critical fixes for prose enforcement, operationalizes depth mandates with quantitative metrics, and integrates explicit reasoning techniques (Tree of Thoughts, Chain of Verification) directly into the generation workflow.
+
+## ✨ Key Features
+
+* **🚫 Absolute List Prohibition**: Strictly enforces a "connected prose only" format. No bullet points, numbered lists, or fragmented text are allowed, ensuring high-density information flow.
+* **🧠 Extended Thinking Architecture**: Implements specific reasoning strategies (CoT, ToT, GoT, CoVe) mapped to different phases of report generation.
+* **📏 Quantitative Depth Metrics**: Enforces specific word counts for sections (e.g., 300-500 words per core principle, 18k-20k total tokens) to prevent superficiality.
+* **🔗 PKB Integration**: Optimized for Obsidian/Knowledge Bases with mandatory `[[wiki-links]]` and semantic callouts (e.g., `> [!insight]`).
+* **🛡️ Pre-Output Validation**: Includes a mandatory "thinking" phase where the model must self-scan for forbidden formatting (like lists) and verify depth scores before generating the final response.
+* **Testing**: Integrates LaTeX support for all mathematical and scientific notation.
+
+## 🏗️ System Architecture
+
+The VADER system guides the model through five distinct phases of generation:
+
+1. **Phase 1: Overture & Foundation**
+* Generates an Abstract (150-250 words) and distinct Definitions.
+* Establishes Core Principles using linear Chain of Thought reasoning.
+
+
+2. **Phase 2: Encyclopedic Exposition**
+* Deep dives into Historical Foundations and Mechanisms.
+* Uses Tree of Thoughts (ToT) to explore multiple branches of the topic.
+
+
+3. **Phase 3: Knowledge Base Integration**
+* Connects internal concepts and suggests external explorations using Graph of Thoughts (GoT).
+
+
+4. **Phase 4: Synthesis & Reflection**
+* Provides a high-level summary and reflective questions ("Ask Yourself This").
+
+
+5. **Phase 5: Metadata & References**
+* Outputs structured metadata and a standard bibliographic section.
+
+
+
+## 🚀 Installation & Usage
+
+### Setup
+
+1. Open **Claude.ai**.
+2. Create a new **Project** or set a **System Prompt**.
+3. Copy the entire content of `vader-v600-improved-202602011210-003.md`.
+4. Paste it into the **Project Instructions** or **System Prompt** field.
+
+### triggering the Generator
+
+Simply provide a topic or research question.
+
+**Example User Prompt:**
+
+> "Generate a comprehensive report on the theory of General Relativity."
+
+**Model Response:**
+The model will engage in a detailed `<thinking>` block to plan the report and validate requirements, followed by the full Markdown report.
+
+## 📄 Output Specifications
+
+All outputs adhere to the following strict formatting rules:
+
+| Element | Requirement |
+| --- | --- |
+| **Format** | 100% Connected Prose (Markdown) |
+| **Lists** | **FORBIDDEN** (No bullets, numbers, or dashes) |
+| **Math** | LaTeX format (e.g., ) required |
+| **Links** | Obsidian-style `[[wiki-links]]` required |
+| **Callouts** | Custom semantic callouts (e.g., `> [!key-claim]`) required |
+
+## 🛡️ Validation Protocol
+
+Before outputting any text, the model executes a **Pre-Output Validation Protocol** inside its thinking block:
+
+```xml
+<thinking>
+## PRE-OUTPUT FORMAT VALIDATION PROTOCOL
+CHECK 1: Bullet point symbols (Scan for *, -, +, etc.) -> [PASS/FAIL]
+CHECK 2: Numbered sequences -> [PASS/FAIL]
+CHECK 3: Paragraph connectivity -> [PASS/FAIL]
+CHECK 8: Word count minimums -> [PASS/FAIL]
+...
+</thinking>
+
+```
+
+If any check fails, the model is instructed to remediate the text (e.g., convert lists to prose) before final output.
+
+## 🧠 Reasoning Framework
+
+VADER maps specific AI reasoning techniques to report sections to ensure logical depth:
+
+* **Chain of Thought (CoT):** Used for definitions and establishing core principles.
+* **Tree of Thoughts (ToT):** Used for deep dives into history and mechanisms, exploring multiple branches.
+* **Graph of Thoughts (GoT):** Used for integration and finding non-linear connections.
+* **Chain of Verification (CoVe):** Used to validate factual claims and evidence.
+
+---
+
+**Source:** [vader-v600-improved-202602011210-003.md](https://www.google.com/search?q=vader-v600-improved-202602011210-003.md)
