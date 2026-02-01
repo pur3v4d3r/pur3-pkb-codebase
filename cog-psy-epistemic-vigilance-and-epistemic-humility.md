@@ -26,7 +26,7 @@ The tension between these mechanisms creates productive cognitive dynamics: epis
 
 ### Foundational Architecture
 
-[!definition] Core Definition: Epistemic Vigilance
+>[!definition] Core Definition: Epistemic Vigilance
 **Epistemic vigilance** is the suite of cognitive mechanisms that evolved to help humans assess the reliability and trustworthiness of communicated information, particularly testimony from other agents. First systematically theorized by cognitive scientists Dan Sperber, Fabrice Clément, Christophe Heintz, Olivier Mascaro, Hugo Mercier, Gloria Origgi, and Deirdre Wilson in their influential 2010 paper "Epistemic Vigilance," this framework reconceptualizes human credulity not as a design flaw requiring correction but as a sophisticated adaptive system for navigating [[Testimonial Knowledge]] in social environments.
 
 The significance of epistemic vigilance emerges from a fundamental evolutionary puzzle: *If humans evolved as intensely social creatures dependent on shared information for survival, why aren't we simply hardwired to believe everything we're told?* The answer lies in the existence of misinformation—both inadvertent (errors, misunderstandings, false memories) and strategic (deception, manipulation, persuasion for personal gain). Natural selection would favor cognitive architectures capable of discriminating reliable from unreliable information sources while still maintaining sufficient trust to benefit from [[Cultural Transmission]] of knowledge.
