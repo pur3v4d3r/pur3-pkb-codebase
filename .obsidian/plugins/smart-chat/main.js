@@ -2793,9 +2793,9 @@ ${attributes}
 * @param {Object} [opts.scope={}] - The scope to use when rendering settings (should have settings property).
 * @returns {Promise<DocumentFragment>}
 */
-async render_settings(settings_config40, opts = {}) {
-const is_fx = typeof settings_config40 === "function";
-const html = Object.entries(is_fx ? await settings_config40(opts.scope) : settings_config40).map(([setting_key, setting_config]) => {
+async render_settings(settings_config41, opts = {}) {
+const is_fx = typeof settings_config41 === "function";
+const html = Object.entries(is_fx ? await settings_config41(opts.scope) : settings_config41).map(([setting_key, setting_config]) => {
 if (!setting_config.setting) {
 setting_config.setting = setting_key;
 }
@@ -15497,12 +15497,12 @@ get_key() {
 if (this.data?.key) return this.data.key;
 const scope_key = this.scope_key;
 const component_key = this.component_key;
-const version3 = Number.isFinite(this.data?.version) ? this.data.version : 0;
+const version4 = Number.isFinite(this.data?.version) ? this.data.version : 0;
 const hash = this.data?.hash || "nohash";
 const key_pcs = [];
 if (!component_key.includes(scope_key) && scope_key !== "global") key_pcs.push(scope_key);
 key_pcs.push(component_key);
-return `${key_pcs.join("_").replace(/\./g, "_")}#${[version3, hash].join("#")}`;
+return `${key_pcs.join("_").replace(/\./g, "_")}#${[version4, hash].join("#")}`;
 }
 get scope_key() {
 return this.data?.scope_key;
@@ -15538,9 +15538,9 @@ async function build_component_data(component_properties, component_module) {
 const { scope_key, component_key } = parse_component_properties(component_properties);
 if (!component_key) return null;
 const render_fn = typeof component_module === "function" ? component_module : component_module?.render;
-const version3 = typeof render_fn?.version === "number" ? render_fn.version : 0;
+const version4 = typeof render_fn?.version === "number" ? render_fn.version : 0;
 const hash = await murmur_hash_32_alphanumeric(render_fn.toString());
-return { scope_key, component_key, version: version3, hash };
+return { scope_key, component_key, version: version4, hash };
 }
 __name(build_component_data, "build_component_data");
 var SmartComponentAdapter = class {
@@ -18222,6 +18222,18 @@ milestone: "Copied context with media (images/PDF pages) for multimodal workflow
 link: "https://smartconnections.app/smart-context/clipboard/?utm_source=milestones#copy-modes",
 is_pro: true
 },
+"context:custom_template_set": {
+group: "Context Pro",
+milestone: "Set a custom context template.",
+link: "https://smartconnections.app/smart-context/settings/?utm_source=milestones#context-templates",
+is_pro: true
+},
+"context_item:custom_template_set": {
+group: "Context Pro",
+milestone: "Set a custom context item template.",
+link: "https://smartconnections.app/smart-context/settings/?utm_source=milestones#item-templates",
+is_pro: true
+},
 "context_pro:installed": {
 group: "Context Pro",
 milestone: "Installed Smart Context Pro.",
@@ -18255,11 +18267,6 @@ milestone: "Installed Smart Chat Pro.",
 link: "https://smartconnections.app/pro-plugins/?utm_source=milestones#chat-pro",
 is_pro: true
 },
-"smart_plugins_oauth_completed": {
-group: "Pro",
-milestone: "Connected account (enabled Pro plugins).",
-link: "https://smartconnections.app/pro-plugins/?utm_source=milestones"
-},
 "inline_connections:show": {
 group: "Connections Pro",
 milestone: "Opened inline connections in-note (used the inline workflow).",
@@ -18277,18 +18284,35 @@ group: "Connections Pro",
 milestone: "Inserted an inline link from an inline connection (converted discovery into a durable link).",
 link: "https://smartconnections.app/smart-connections/inline/?utm_source=milestones",
 is_pro: true
+},
+"smart_plugins_oauth_completed": {
+group: "Pro",
+milestone: "Connected account (enabled Pro plugins).",
+link: "https://smartconnections.app/pro-plugins/?utm_source=milestones"
+},
+"referrals:copied_link": {
+group: "Pro",
+milestone: "Copied your referral link to share Pro.",
+link: "https://smartconnections.app/pro-plugins/?utm_source=milestones#referrals",
+is_pro: true
+},
+"referrals:opened_dashboard": {
+group: "Pro",
+milestone: "Opened the referrals dashboard to view bonuses.",
+link: "https://smartconnections.app/my-referrals/?utm_source=milestones",
+is_pro: true
 }
 };
 var EVENTS_CHECKLIST_GROUP_ORDER = [
 "Environment",
 "Connections",
 "Lookup",
-"Context",
 "Chat",
-"Pro",
 "Connections Pro",
+"Context",
 "Context Pro",
-"Chat Pro"
+"Chat Pro",
+"Pro"
 ];
 function derive_events_checklist_groups(items_by_event_key) {
 const group_map = Object.entries(items_by_event_key || {}).reduce(
@@ -18353,12 +18377,158 @@ return name.toLowerCase().includes("pro");
 }
 __name(is_pro_manifest, "is_pro_manifest");
 
+var DEFAULT_IDLE_DELAY_MS = 3e3;
+function get_idle_delay_ms(params = {}) {
+const {
+last_input_at = 0,
+now = Date.now(),
+idle_delay_ms = DEFAULT_IDLE_DELAY_MS
+} = params;
+const elapsed_ms = Math.max(0, now - last_input_at);
+return Math.max(0, idle_delay_ms - elapsed_ms);
+}
+__name(get_idle_delay_ms, "get_idle_delay_ms");
+function is_valid_milestone_event(event_key, params = {}) {
+const { items_by_event_key = {} } = params;
+if (typeof event_key !== "string" || event_key.length === 0) return false;
+return Boolean(items_by_event_key && event_key in items_by_event_key);
+}
+__name(is_valid_milestone_event, "is_valid_milestone_event");
+function enqueue_event_key(queue, params = {}) {
+const { event_key } = params;
+const next_queue = Array.isArray(queue) ? queue.slice() : [];
+if (typeof event_key === "string" && event_key.length > 0) {
+next_queue.push(event_key);
+}
+return next_queue;
+}
+__name(enqueue_event_key, "enqueue_event_key");
+function dequeue_event_key(queue) {
+if (!Array.isArray(queue) || queue.length === 0) {
+return { event_key: null, queue: [] };
+}
+const [event_key, ...rest] = queue;
+return { event_key, queue: rest };
+}
+__name(dequeue_event_key, "dequeue_event_key");
+
+var MILESTONE_IDLE_DELAY_MS = DEFAULT_IDLE_DELAY_MS;
+var MILESTONE_NOTICE_DURATION_MS = 7e3;
+var MILESTONE_INPUT_EVENTS = [
+"keydown",
+"mousedown",
+"mousemove",
+"touchstart",
+"wheel"
+];
 function register_first_of_event_notifications(env) {
+let notice_queue = [];
+let is_notice_active = false;
+let idle_timeout_id = null;
+let notice_timeout_id = null;
+let last_input_at = Date.now();
+let should_restart_idle = false;
+const teardown_callbacks = [];
+const register_dom_event = env?.main?.registerDomEvent?.bind(env.main);
+const add_dom_event = /* @__PURE__ */ __name((target, event_name, handler) => {
+if (!target || typeof target.addEventListener !== "function") return;
+if (register_dom_event) {
+register_dom_event(target, event_name, handler);
+return;
+}
+target.addEventListener(event_name, handler);
+teardown_callbacks.push(() => target.removeEventListener(event_name, handler));
+}, "add_dom_event");
+const record_input = /* @__PURE__ */ __name(() => {
+last_input_at = Date.now();
+if (should_restart_idle) should_restart_idle = false;
+schedule_next_notice();
+}, "record_input");
+const register_input_listeners = /* @__PURE__ */ __name(() => {
+MILESTONE_INPUT_EVENTS.forEach((event_name) => {
+add_dom_event(window, event_name, record_input);
+});
+}, "register_input_listeners");
+const is_window_visible = /* @__PURE__ */ __name(() => {
+if (typeof document === "undefined") return true;
+return document.visibilityState === "visible";
+}, "is_window_visible");
+const handle_visibility_change = /* @__PURE__ */ __name(() => {
+if (!is_window_visible()) return;
+if (should_restart_idle) {
+last_input_at = Date.now();
+should_restart_idle = false;
+}
+schedule_next_notice();
+}, "handle_visibility_change");
+const register_visibility_listener = /* @__PURE__ */ __name(() => {
+add_dom_event(document, "visibilitychange", handle_visibility_change);
+}, "register_visibility_listener");
+const clear_idle_timeout = /* @__PURE__ */ __name(() => {
+if (!idle_timeout_id) return;
+clearTimeout(idle_timeout_id);
+idle_timeout_id = null;
+}, "clear_idle_timeout");
+const schedule_idle_timeout = /* @__PURE__ */ __name((delay_ms) => {
+clear_idle_timeout();
+idle_timeout_id = setTimeout(() => {
+idle_timeout_id = null;
+schedule_next_notice();
+}, delay_ms);
+}, "schedule_idle_timeout");
+const show_milestone_notice = /* @__PURE__ */ __name((event_key) => {
+const item = EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY[event_key];
+if (!item) return;
+const frag = build_milestone_notice_fragment(event_key, env);
+new import_obsidian13.Notice(frag, MILESTONE_NOTICE_DURATION_MS);
+is_notice_active = true;
+if (notice_timeout_id) clearTimeout(notice_timeout_id);
+notice_timeout_id = setTimeout(() => {
+is_notice_active = false;
+notice_timeout_id = null;
+schedule_next_notice();
+}, MILESTONE_NOTICE_DURATION_MS);
+}, "show_milestone_notice");
+const schedule_next_notice = /* @__PURE__ */ __name(() => {
+if (is_notice_active || notice_queue.length === 0) return;
+if (!is_window_visible()) {
+should_restart_idle = true;
+return;
+}
+const idle_delay_ms = get_idle_delay_ms({
+last_input_at,
+idle_delay_ms: MILESTONE_IDLE_DELAY_MS
+});
+if (idle_delay_ms > 0) {
+schedule_idle_timeout(idle_delay_ms);
+return;
+}
+const result = dequeue_event_key(notice_queue);
+notice_queue = result.queue;
+if (!result.event_key) return;
+show_milestone_notice(result.event_key);
+}, "schedule_next_notice");
+register_input_listeners();
+register_visibility_listener();
 env.events.on("event_log:first", (data) => {
 const event_key = data?.first_of_event_key;
-if (typeof event_key === "string" && event_key in EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY) {
+if (!is_valid_milestone_event(event_key, { items_by_event_key: EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY })) return;
+notice_queue = enqueue_event_key(notice_queue, { event_key });
+schedule_next_notice();
+});
+return () => {
+teardown_callbacks.forEach((teardown) => teardown());
+clear_idle_timeout();
+if (notice_timeout_id) {
+clearTimeout(notice_timeout_id);
+notice_timeout_id = null;
+}
+};
+}
+__name(register_first_of_event_notifications, "register_first_of_event_notifications");
+function build_milestone_notice_fragment(event_key, env) {
 const frag = document.createDocumentFragment();
-const msg = `You achieved a new Smart Milestone \u{1F389}`;
+const msg = "You achieved a new Smart Milestone \u{1F389}";
 const msg_el = document.createElement("p");
 msg_el.textContent = msg;
 frag.appendChild(msg_el);
@@ -18370,14 +18540,12 @@ frag.appendChild(milestone_el);
 const btn = document.createElement("button");
 btn.textContent = "View milestones";
 btn.addEventListener("click", () => {
-env.open_milestones_modal();
+env?.open_milestones_modal?.();
 });
 frag.appendChild(btn);
-new import_obsidian13.Notice(frag, 7e3);
+return frag;
 }
-});
-}
-__name(register_first_of_event_notifications, "register_first_of_event_notifications");
+__name(build_milestone_notice_fragment, "build_milestone_notice_fragment");
 
 function build_html7(env, params = {}) {
 const groups = derive_events_checklist_groups(EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY);
@@ -19059,6 +19227,10 @@ return;
 }
 el.innerHTML = "";
 }, "empty_container");
+const emit_referral_event = /* @__PURE__ */ __name((event_key) => {
+if (!env?.events || typeof env.events.emit !== "function") return;
+env.events.emit(event_key, { event_source: "pro_plugins_referrals" });
+}, "emit_referral_event");
 const render_manual_login_link = /* @__PURE__ */ __name((login_url) => {
 if (!login_container) return;
 if (!login_url) return;
@@ -19104,8 +19276,8 @@ await new Promise((resolve) => setTimeout(resolve, 100));
 }
 for (const plugin_id in manifests) {
 if (!Object.prototype.hasOwnProperty.call(manifests, plugin_id)) continue;
-const { name, version: version3 } = manifests[plugin_id];
-installed_map[plugin_id] = { name, version: version3 };
+const { name, version: version4 } = manifests[plugin_id];
+installed_map[plugin_id] = { name, version: version4 };
 }
 return installed_map;
 }, "get_installed_info");
@@ -19172,12 +19344,14 @@ btn.setButtonText("Copy link");
 btn.onClick(async () => {
 const ok = await copy_to_clipboard(referral_link);
 new import_obsidian16.Notice(ok ? "Referral link copied." : "Copy failed. Please try again.");
+if (ok) emit_referral_event("referrals:copied_link");
 });
 });
 setting.addButton((btn) => {
 btn.setButtonText("Open referrals");
 btn.onClick(() => {
 window.open("https://smartconnections.app/my-referrals/", "_external");
+emit_referral_event("referrals:opened_dashboard");
 });
 });
 } catch (err) {
@@ -19448,6 +19622,9 @@ new import_obsidian17.Notice("Failed to load README");
 }, "show_plugin_readme");
 
 var import_obsidian18 = require("obsidian");
+
+var smart_model_modal_default = ".modal-content.smart-model-modal .setting-component:has(.dropdown-no-options) {\r\n  display: block;\r\n}";
+
 var SmartModelModal = class extends import_obsidian18.Modal {
 static {
 __name(this, "SmartModelModal");
@@ -19489,6 +19666,7 @@ this.close();
 });
 container.appendChild(model_actions_bar);
 const settings = model.settings_config;
+this.env.smart_view.apply_style_sheet(smart_model_modal_default);
 const form = await this.env.smart_view.render_settings(settings, {
 scope: model
 });
@@ -19617,6 +19795,11 @@ disabled: true
 label: "PRO: Azure OpenAI (cloud)",
 value: "azure",
 disabled: true
+},
+{
+label: "Experimental: Lite LLM (self-hosted proxy)",
+value: "litellm",
+disabled: true
 }
 ],
 embedding_models: [
@@ -19661,6 +19844,7 @@ disabled: true
 
 function show_new_model_menu(models_collection, event, params = {}) {
 const providers = (provider_options[models_collection.collection_key] || []).map((p) => ({ ...p, disabled: !models_collection.env_config.providers[p.value] }));
+console.log("show_new_model_menu providers", providers);
 if (providers.length === 0) {
 if (event.target.tagName.toLowerCase() === "button") {
 event.target.disabled = true;
@@ -19692,20 +19876,20 @@ __name(show_new_model_menu, "show_new_model_menu");
 
 var import_obsidian21 = require("obsidian");
 
-function ensure_settings_config(settings_config40, scope) {
+function ensure_settings_config(settings_config41, scope) {
 try {
-if (typeof settings_config40 === "function") {
-settings_config40 = settings_config40(scope);
+if (typeof settings_config41 === "function") {
+settings_config41 = settings_config41(scope);
 }
 } catch (e) {
 console.error("Error evaluating settings_config function:", e);
-settings_config40 = { error: { name: "Error", description: `Failed to load settings. ${e.message} (logged to console)` } };
+settings_config41 = { error: { name: "Error", description: `Failed to load settings. ${e.message} (logged to console)` } };
 }
-return settings_config40;
+return settings_config41;
 }
 __name(ensure_settings_config, "ensure_settings_config");
-function build_settings_group_map(settings_config40, scope, default_group_name) {
-const resolved_settings_config = ensure_settings_config(settings_config40, scope);
+function build_settings_group_map(settings_config41, scope, default_group_name) {
+const resolved_settings_config = ensure_settings_config(settings_config41, scope);
 return Object.entries(resolved_settings_config || {}).reduce((acc, [key, config]) => {
 const group = config.group || default_group_name;
 if (!acc[group]) acc[group] = {};
@@ -19714,8 +19898,8 @@ return acc;
 }, { [default_group_name]: {} });
 }
 __name(build_settings_group_map, "build_settings_group_map");
-function resolve_group_settings_config(settings_config40, scope, group_name, default_group_name) {
-const group_map = build_settings_group_map(settings_config40, scope, default_group_name);
+function resolve_group_settings_config(settings_config41, scope, group_name, default_group_name) {
+const group_map = build_settings_group_map(settings_config41, scope, default_group_name);
 return group_map[group_name] || {};
 }
 __name(resolve_group_settings_config, "resolve_group_settings_config");
@@ -19745,12 +19929,12 @@ addClass(class_name) {
 this.groupEl.addClass(class_name);
 }
 };
-function render_settings_config(settings_config40, scope, container, params = {}) {
+function render_settings_config(settings_config41, scope, container, params = {}) {
 const {
 default_group_name = "Settings"
 } = params;
-const settings_config_source = settings_config40;
-const group_map = build_settings_group_map(settings_config40, scope, default_group_name);
+const settings_config_source = settings_config41;
+const group_map = build_settings_group_map(settings_config41, scope, default_group_name);
 const settings_groups = Object.entries(group_map).sort(([a], [b]) => a === default_group_name ? -1 : b === default_group_name ? 1 : 0).filter(([, group_config]) => Object.keys(group_config).length > 0).map(([group_name, group_config]) => {
 const group_container = container.createDiv();
 const group_params = {
@@ -19769,14 +19953,14 @@ group_params
 return settings_groups;
 }
 __name(render_settings_config, "render_settings_config");
-function render_settings_group(group_name, scope, settings_config40, container, params = {}) {
-const settings_config_source = params.settings_config_source || settings_config40;
+function render_settings_group(group_name, scope, settings_config41, container, params = {}) {
+const settings_config_source = params.settings_config_source || settings_config41;
 const settings_config_group = params.settings_config_source ? resolve_group_settings_config(
 settings_config_source,
 scope,
 group_name,
 params.default_group_name || "Settings"
-) : settings_config40;
+) : settings_config41;
 let SettingGroup;
 try {
 const obsidian_module = require("obsidian");
@@ -19788,13 +19972,13 @@ SettingGroup = SettingGroupPolyfill;
 } catch (e) {
 SettingGroup = SettingGroupPolyfill;
 }
-settings_config40 = settings_config_group;
+settings_config41 = settings_config_group;
 const {
 heading_btn = null
 } = params;
-const render_group = params.settings_config_source ? (group_name2, scope2, settings_config41, container2, group_params) => {
+const render_group = params.settings_config_source ? (group_name2, scope2, settings_config42, container2, group_params) => {
 const group_config = resolve_group_settings_config(
-settings_config41,
+settings_config42,
 scope2,
 group_name2,
 group_params.default_group_name || "Settings"
@@ -19819,7 +20003,7 @@ render_heading_button(setting_group, scope, heading_btn);
 }
 }
 setting_group.setHeading(group_name);
-for (const [setting_path, setting_config] of Object.entries(settings_config40)) {
+for (const [setting_path, setting_config] of Object.entries(settings_config41)) {
 if (!setting_config || typeof setting_config !== "object") {
 console.warn(`Invalid setting config for ${setting_path}:`, setting_config);
 continue;
@@ -19848,6 +20032,10 @@ case "toggle":
 setting.addToggle((toggle) => {
 toggle.setValue(get_by_path(scope.settings, setting_path) || false);
 toggle.onChange((value) => {
+if (settng_is_pro && !env_is_pro) {
+new import_obsidian21.Notice("Nice try! This is a PRO feature. Please upgrade to access this setting.");
+return;
+}
 set_by_path(scope.settings, setting_path, value);
 if (typeof setting_config.callback === "function") {
 handle_config_callback(setting, value, setting_config.callback, { scope });
@@ -19946,6 +20134,9 @@ break;
 if (setting_config.scope_class) {
 setting.settingEl.addClass(setting_config.scope_class);
 }
+if (settng_is_pro && !env_is_pro) {
+setting.setDisabled(true);
+}
 });
 }
 return setting_group;
@@ -19987,14 +20178,14 @@ function create_settings_group_rerender(scope, params = {}) {
 const {
 container,
 group_name,
-settings_config: settings_config40,
+settings_config: settings_config41,
 group_params = {},
 render_group
 } = params;
 return () => {
 if (!container || typeof render_group !== "function") return null;
 container.replaceChildren();
-return render_group(group_name, scope, settings_config40, container, group_params);
+return render_group(group_name, scope, settings_config41, container, group_params);
 };
 }
 __name(create_settings_group_rerender, "create_settings_group_rerender");
@@ -20264,12 +20455,12 @@ return container;
 }
 __name(render14, "render");
 async function post_process13(env, container, opts = {}) {
-const settings_config40 = {
+const settings_config41 = {
 folder_exclusions,
 view_exclusions,
 re_import_sources
 };
-render_settings_config(settings_config40, env, container, {
+render_settings_config(settings_config41, env, container, {
 default_group_name: "Sources",
 heading_btn: {
 btn_icon: "help-circle",
@@ -21203,8 +21394,8 @@ __name(get_notification_event_count, "get_notification_event_count");
 function get_status_bar_state(env) {
 const embed_queue_count = Object.keys(env?.smart_sources?.sources_re_import_queue || {}).length;
 const notification_count = get_notification_event_count(env?.event_logs);
-const version3 = env?.is_pro ? "Pro" : env?.constructor?.version;
-let message = `Smart Env${version3 ? " " + version3 : ""}`;
+const version4 = env?.is_pro ? "Pro" : env?.constructor?.version;
+let message = `Smart Env${version4 ? " " + version4 : ""}`;
 let title = "Smart Environment status";
 let indicator_level = null;
 if (embed_queue_count > 0) {
@@ -21640,7 +21831,13 @@ group: "Item templates",
 type: "dropdown",
 name: "Select template",
 description: "Wraps each context item with a pre-configured template.",
-options_callback: /* @__PURE__ */ __name(() => get_template_preset_options(), "options_callback")
+options_callback: /* @__PURE__ */ __name(() => get_template_preset_options(), "options_callback"),
+callback(template_value) {
+const is_pro = this?.env?.is_pro;
+if (!is_pro) return;
+if (template_value !== "custom") return;
+this.emit_event("context_item:custom_template_set");
+}
 },
 template_before: {
 group: "Item templates",
@@ -21789,7 +21986,13 @@ type: "dropdown",
 group: "Context templates",
 name: "Select template",
 description: "Wraps the full context with a pre-configured template.",
-options_callback: /* @__PURE__ */ __name(() => get_template_preset_options(), "options_callback")
+options_callback: /* @__PURE__ */ __name(() => get_template_preset_options(), "options_callback"),
+callback(template_value) {
+const is_pro = this?.env?.is_pro;
+if (!is_pro) return;
+if (template_value !== "custom") return;
+this.emit_event("context:custom_template_set");
+}
 },
 template_before: {
 type: "textarea",
@@ -22325,6 +22528,31 @@ merge_env_config(smart_env_config2, smart_env_config);
 var default_config_default = smart_env_config2;
 
 var import_obsidian38 = require("obsidian");
+var svg_wrap_24 = /* @__PURE__ */ __name((inner_svg) => {
+return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${inner_svg}</svg>`;
+}, "svg_wrap_24");
+var smart_copy_note_svg = svg_wrap_24(`
+<rect x="9" y="7" width="12" height="14" rx="2"></rect>
+<path d="M5 17H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v2"></path>
+<path d="M12 11h6"></path>
+<path d="M12 14h6"></path>
+<path d="M12 17h4"></path>
+`);
+var smart_context_builder_svg = svg_wrap_24(`
+<rect x="3" y="4" width="12" height="16" rx="2"></rect>
+<path d="M6 8h6"></path>
+<path d="M6 12h6"></path>
+<path d="M6 16h4"></path>
+<path d="M19 10v4"></path>
+<path d="M17 12h4"></path>
+`);
+var smart_inline_connections_svg = svg_wrap_24(`
+<path d="M4 6h16"></path>
+<path d="M4 18h16"></path>
+<circle cx="12" cy="12" r="3"></circle>
+<circle cx="7" cy="12" r="1" fill="currentColor" stroke="none"></circle>
+<circle cx="17" cy="12" r="1" fill="currentColor" stroke="none"></circle>
+`);
 function add_smart_chat_icon() {
 (0, import_obsidian38.addIcon)("smart-chat", `<defs>
 <symbol id="smart-chat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
@@ -22369,6 +22597,36 @@ function add_smart_lookup_icon() {
 <use href="#smart-lookup-icon" />`);
 }
 __name(add_smart_lookup_icon, "add_smart_lookup_icon");
+function add_smart_copy_context_icon() {
+(0, import_obsidian38.addIcon)("smart-copy-note", smart_copy_note_svg);
+}
+__name(add_smart_copy_context_icon, "add_smart_copy_context_icon");
+function add_smart_context_icon() {
+(0, import_obsidian38.addIcon)("smart-context-builder", smart_context_builder_svg);
+}
+__name(add_smart_context_icon, "add_smart_context_icon");
+function add_inline_connections_icon() {
+(0, import_obsidian38.addIcon)("smart-inline-connections", smart_inline_connections_svg);
+}
+__name(add_inline_connections_icon, "add_inline_connections_icon");
+var smart_footer_connections_svg = svg_wrap_24(`
+<path d="M4 6h16"></path>
+<path d="M4 12h16"></path>
+<circle cx="12" cy="18" r="3"></circle>
+<circle cx="7" cy="18" r="1" fill="currentColor" stroke="none"></circle>
+<circle cx="17" cy="18" r="1" fill="currentColor" stroke="none"></circle>
+`);
+function add_footer_connections_icon() {
+(0, import_obsidian38.addIcon)("smart-footer-connections", smart_footer_connections_svg);
+}
+__name(add_footer_connections_icon, "add_footer_connections_icon");
+function add_smart_icons() {
+add_smart_copy_context_icon();
+add_smart_context_icon();
+add_inline_connections_icon();
+add_footer_connections_icon();
+}
+__name(add_smart_icons, "add_smart_icons");
 
 var import_obsidian39 = require("obsidian");
 
@@ -22906,6 +23164,7 @@ env_config.version = this.version;
 add_smart_chat_icon();
 add_smart_connections_icon();
 add_smart_lookup_icon();
+add_smart_icons();
 if (window.smart_env && !window.smart_env.constructor.version) {
 const update_notice = "Detected ancient SmartEnv. Removing it to prevent issues with new plugins. Make sure your Smart Plugins are up-to-date!";
 console.warn(update_notice);
@@ -23433,9 +23692,9 @@ return data.last_version || "";
 * @param {string} version
 * @returns {Promise<void>}
 */
-async set_last_known_version(version3) {
+async set_last_known_version(version4) {
 const data = await this.loadData() || {};
-data.last_version = version3;
+data.last_version = version4;
 await this.saveData(data);
 }
 /**
@@ -29073,7 +29332,206 @@ collection_key: "smart_blocks",
 settings_config: settings_config17
 };
 
+var import_obsidian48 = require("obsidian");
+
+var provider_options2 = {
+chat_completion_models: [
+{
+label: "Open Router (cloud)",
+value: "open_router"
+},
+{
+label: "PRO: LM Studio (local, requires LM Studio app)",
+value: "lm_studio",
+disabled: true
+},
+{
+label: "PRO: Ollama (local, requires Ollama app)",
+value: "ollama",
+disabled: true
+},
+{
+label: "PRO: OpenAI (cloud)",
+value: "openai",
+disabled: true
+},
+{
+label: "PRO: Google Gemini (cloud)",
+value: "google",
+disabled: true
+},
+{
+label: "PRO: Cohere (cloud)",
+value: "cohere",
+disabled: true
+},
+{
+label: "PRO: xAI Grok (cloud)",
+value: "xai",
+disabled: true
+},
+{
+label: "PRO: Anthropic Claude (cloud)",
+value: "anthropic",
+disabled: true
+},
+{
+label: "PRO: Deepseek (cloud)",
+value: "deepseek",
+disabled: true
+},
+{
+label: "PRO: Azure OpenAI (cloud)",
+value: "azure",
+disabled: true
+},
+{
+label: "Experimental: Lite LLM (self-hosted proxy)",
+value: "litellm",
+disabled: true
+}
+],
+embedding_models: [
+{
+label: "Transformers (easy, local, built-in)",
+value: "transformers"
+},
+{
+label: "PRO: LM Studio (local, requires LM Studio app)",
+value: "lm_studio",
+disabled: true
+},
+{
+label: "PRO: Ollama (local, requires Ollama app)",
+value: "ollama",
+disabled: true
+},
+{
+label: "PRO: OpenAI (cloud)",
+value: "openai",
+disabled: true
+},
+{
+label: "PRO: Google Gemini (cloud)",
+value: "gemini",
+disabled: true
+},
+{
+label: "PRO: Open Router (cloud)",
+value: "open_router",
+disabled: true
+}
+],
+ranking_models: [
+{
+label: "PRO: Cohere (cloud)",
+value: "cohere",
+disabled: true
+}
+]
+};
+
 var import_obsidian47 = require("obsidian");
+
+var smart_model_modal_default2 = ".modal-content.smart-model-modal .setting-component:has(.dropdown-no-options) {\r\n  display: block;\r\n}";
+
+var SmartModelModal2 = class extends import_obsidian47.Modal {
+static {
+__name(this, "SmartModelModal");
+}
+/**
+* @param {App} app
+* @param {EditModelModalOpts} opts
+*/
+constructor(model, params = {}) {
+const app = model.env.plugin.app || window.app;
+super(app);
+this.model = model;
+this.collection = this.model.collection;
+this.env = this.model.env;
+this.params = params;
+}
+onOpen() {
+this.titleEl.setText("Edit model");
+this.contentEl.addClass("smart-model-modal");
+this.render_form();
+}
+onClose() {
+this.contentEl.empty();
+if (typeof this.params.on_close === "function") {
+this.params.on_close();
+}
+}
+async render_form() {
+const container = this.contentEl;
+container.empty();
+const model = this.model;
+const model_actions_bar = await this.env.smart_components.render_component("settings_model_actions", model, {
+on_before_new: /* @__PURE__ */ __name(async () => {
+this.close();
+}, "on_before_new"),
+on_after_delete: /* @__PURE__ */ __name(async () => {
+this.close();
+}, "on_after_delete")
+});
+container.appendChild(model_actions_bar);
+const settings = model.settings_config;
+this.env.smart_view.apply_style_sheet(smart_model_modal_default2);
+const form = await this.env.smart_view.render_settings(settings, {
+scope: model
+});
+container.appendChild(form);
+const test_btn = container.createEl("button", { text: "Test model" });
+const test_results_el = container.createDiv({ cls: "model-test-container" });
+test_btn.addEventListener("click", async () => {
+await this.run_test(test_results_el, model);
+});
+if (this.params.test_on_open) {
+await this.run_test(test_results_el, model);
+}
+}
+async run_test(test_results_el, model) {
+test_results_el.empty();
+const test_result_el = test_results_el.createEl("pre", { cls: "model-test-result", text: "Testing..." });
+test_results_el.appendChild(test_result_el);
+const test_result = await model.test_model();
+test_result_el.textContent = JSON.stringify(test_result, null, 2);
+}
+};
+
+function show_new_model_menu2(models_collection, event, params = {}) {
+const providers = (provider_options2[models_collection.collection_key] || []).map((p) => ({ ...p, disabled: !models_collection.env_config.providers[p.value] }));
+console.log("show_new_model_menu providers", providers);
+if (providers.length === 0) {
+if (event.target.tagName.toLowerCase() === "button") {
+event.target.disabled = true;
+event.title = "No providers available to create new models.";
+}
+} else {
+const menu = new import_obsidian48.Menu();
+providers.forEach((provider) => {
+menu.addItem((item) => {
+item.setTitle(provider.label);
+if (provider.disabled) {
+item.setDisabled(true);
+}
+item.onClick(async () => {
+if (typeof params.on_before_new === "function") {
+await params.on_before_new();
+}
+const model = models_collection.new_model({ provider_key: provider.value });
+const on_new_close = /* @__PURE__ */ __name(async () => {
+}, "on_new_close");
+new SmartModelModal2(model, { on_close: on_new_close }).open();
+});
+});
+});
+menu.showAtMouseEvent(event);
+}
+}
+__name(show_new_model_menu2, "show_new_model_menu");
+
+var import_obsidian49 = require("obsidian");
 
 function escape_html2(str = "") {
 return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#039;");
@@ -29309,20 +29767,20 @@ return points[min_index];
 }
 __name(compute_medoid2, "compute_medoid");
 
-function ensure_settings_config2(settings_config40, scope) {
+function ensure_settings_config2(settings_config41, scope) {
 try {
-if (typeof settings_config40 === "function") {
-settings_config40 = settings_config40(scope);
+if (typeof settings_config41 === "function") {
+settings_config41 = settings_config41(scope);
 }
 } catch (e) {
 console.error("Error evaluating settings_config function:", e);
-settings_config40 = { error: { name: "Error", description: `Failed to load settings. ${e.message} (logged to console)` } };
+settings_config41 = { error: { name: "Error", description: `Failed to load settings. ${e.message} (logged to console)` } };
 }
-return settings_config40;
+return settings_config41;
 }
 __name(ensure_settings_config2, "ensure_settings_config");
-function build_settings_group_map2(settings_config40, scope, default_group_name) {
-const resolved_settings_config = ensure_settings_config2(settings_config40, scope);
+function build_settings_group_map2(settings_config41, scope, default_group_name) {
+const resolved_settings_config = ensure_settings_config2(settings_config41, scope);
 return Object.entries(resolved_settings_config || {}).reduce((acc, [key, config]) => {
 const group = config.group || default_group_name;
 if (!acc[group]) acc[group] = {};
@@ -29331,8 +29789,8 @@ return acc;
 }, { [default_group_name]: {} });
 }
 __name(build_settings_group_map2, "build_settings_group_map");
-function resolve_group_settings_config2(settings_config40, scope, group_name, default_group_name) {
-const group_map = build_settings_group_map2(settings_config40, scope, default_group_name);
+function resolve_group_settings_config2(settings_config41, scope, group_name, default_group_name) {
+const group_map = build_settings_group_map2(settings_config41, scope, default_group_name);
 return group_map[group_name] || {};
 }
 __name(resolve_group_settings_config2, "resolve_group_settings_config");
@@ -29353,7 +29811,7 @@ setHeading(heading) {
 this.headerInnerEl.setText(heading);
 }
 addSetting(callback) {
-const setting = new import_obsidian47.Setting(this.listEl);
+const setting = new import_obsidian49.Setting(this.listEl);
 this.components.push(setting);
 callback(setting);
 return setting;
@@ -29362,12 +29820,12 @@ addClass(class_name) {
 this.groupEl.addClass(class_name);
 }
 };
-function render_settings_config2(settings_config40, scope, container, params = {}) {
+function render_settings_config2(settings_config41, scope, container, params = {}) {
 const {
 default_group_name = "Settings"
 } = params;
-const settings_config_source = settings_config40;
-const group_map = build_settings_group_map2(settings_config40, scope, default_group_name);
+const settings_config_source = settings_config41;
+const group_map = build_settings_group_map2(settings_config41, scope, default_group_name);
 const settings_groups = Object.entries(group_map).sort(([a], [b]) => a === default_group_name ? -1 : b === default_group_name ? 1 : 0).filter(([, group_config]) => Object.keys(group_config).length > 0).map(([group_name, group_config]) => {
 const group_container = container.createDiv();
 const group_params = {
@@ -29386,14 +29844,14 @@ group_params
 return settings_groups;
 }
 __name(render_settings_config2, "render_settings_config");
-function render_settings_group2(group_name, scope, settings_config40, container, params = {}) {
-const settings_config_source = params.settings_config_source || settings_config40;
+function render_settings_group2(group_name, scope, settings_config41, container, params = {}) {
+const settings_config_source = params.settings_config_source || settings_config41;
 const settings_config_group = params.settings_config_source ? resolve_group_settings_config2(
 settings_config_source,
 scope,
 group_name,
 params.default_group_name || "Settings"
-) : settings_config40;
+) : settings_config41;
 let SettingGroup;
 try {
 const obsidian_module = require("obsidian");
@@ -29405,13 +29863,13 @@ SettingGroup = SettingGroupPolyfill2;
 } catch (e) {
 SettingGroup = SettingGroupPolyfill2;
 }
-settings_config40 = settings_config_group;
+settings_config41 = settings_config_group;
 const {
 heading_btn = null
 } = params;
-const render_group = params.settings_config_source ? (group_name2, scope2, settings_config41, container2, group_params) => {
+const render_group = params.settings_config_source ? (group_name2, scope2, settings_config42, container2, group_params) => {
 const group_config = resolve_group_settings_config2(
-settings_config41,
+settings_config42,
 scope2,
 group_name2,
 group_params.default_group_name || "Settings"
@@ -29436,7 +29894,7 @@ render_heading_button2(setting_group, scope, heading_btn);
 }
 }
 setting_group.setHeading(group_name);
-for (const [setting_path, setting_config] of Object.entries(settings_config40)) {
+for (const [setting_path, setting_config] of Object.entries(settings_config41)) {
 if (!setting_config || typeof setting_config !== "object") {
 console.warn(`Invalid setting config for ${setting_path}:`, setting_config);
 continue;
@@ -29465,6 +29923,10 @@ case "toggle":
 setting.addToggle((toggle) => {
 toggle.setValue(get_by_path2(scope.settings, setting_path) || false);
 toggle.onChange((value) => {
+if (settng_is_pro && !env_is_pro) {
+new import_obsidian49.Notice("Nice try! This is a PRO feature. Please upgrade to access this setting.");
+return;
+}
 set_by_path2(scope.settings, setting_path, value);
 if (typeof setting_config.callback === "function") {
 handle_config_callback2(setting, value, setting_config.callback, { scope });
@@ -29520,7 +29982,7 @@ setting.addTextArea((text) => {
 text.setValue(String(get_by_path2(scope.settings, setting_path) || ""));
 text.onChange((value) => {
 if (settng_is_pro && !env_is_pro) {
-new import_obsidian47.Notice("Nice try! This is a PRO feature. Please upgrade to access this setting.");
+new import_obsidian49.Notice("Nice try! This is a PRO feature. Please upgrade to access this setting.");
 return;
 }
 set_by_path2(scope.settings, setting_path, value);
@@ -29563,6 +30025,9 @@ break;
 if (setting_config.scope_class) {
 setting.settingEl.addClass(setting_config.scope_class);
 }
+if (settng_is_pro && !env_is_pro) {
+setting.setDisabled(true);
+}
 });
 }
 return setting_group;
@@ -29571,7 +30036,7 @@ __name(render_settings_group2, "render_settings_group");
 function render_heading_button2(setting_group, scope, heading_btn) {
 const btn_el = setting_group.controlEl.createEl("button", { cls: "" });
 if (heading_btn.btn_icon) {
-(0, import_obsidian47.setIcon)(btn_el, heading_btn.btn_icon);
+(0, import_obsidian49.setIcon)(btn_el, heading_btn.btn_icon);
 }
 if (heading_btn.btn_text) {
 btn_el.setText(heading_btn.btn_text);
@@ -29604,19 +30069,70 @@ function create_settings_group_rerender2(scope, params = {}) {
 const {
 container,
 group_name,
-settings_config: settings_config40,
+settings_config: settings_config41,
 group_params = {},
 render_group
 } = params;
 return () => {
 if (!container || typeof render_group !== "function") return null;
 container.replaceChildren();
-return render_group(group_name, scope, settings_config40, container, group_params);
+return render_group(group_name, scope, settings_config41, container, group_params);
 };
 }
 __name(create_settings_group_rerender2, "create_settings_group_rerender");
 
-var import_obsidian48 = require("obsidian");
+function build_html27(models_collection, params) {
+return `<div class="model-settings" data-model-type="${models_collection.collection_key}">
+<div class="global-settings"></div>
+</div>`;
+}
+__name(build_html27, "build_html");
+async function render27(models_collection, params) {
+const frag = this.create_doc_fragment(build_html27.call(this, models_collection, params));
+const container = frag.firstElementChild;
+post_process25.call(this, models_collection, container, params);
+return container;
+}
+__name(render27, "render");
+async function post_process25(models_collection, container, params) {
+const disposers = [];
+const render_current_model_info = /* @__PURE__ */ __name(async (current_model) => {
+this.empty(container);
+const [settings_group] = render_settings_config2(
+models_collection.env_config.settings_config,
+models_collection,
+container,
+{
+default_group_name: `${models_collection.model_type} models`,
+heading_btn: {
+btn_text: "+ New",
+callback: /* @__PURE__ */ __name((event, setting) => {
+show_new_model_menu2(models_collection, event);
+}, "callback")
+}
+}
+);
+models_collection.env.smart_components.render_component("settings_env_model", current_model, {}).then((model_info_el) => {
+settings_group.listEl.appendChild(model_info_el);
+});
+}, "render_current_model_info");
+render_current_model_info(models_collection.default);
+disposers.push(models_collection.on_event("settings:changed", async (payload) => {
+const default_setting_path = `${models_collection.collection_key}.default_model_key`;
+if (payload.path_string === default_setting_path) {
+await render_current_model_info(models_collection.default);
+}
+}));
+disposers.push(models_collection.on_event("model:changed", async () => {
+await render_current_model_info(models_collection.default);
+}));
+this.attach_disposer(container, disposers);
+}
+__name(post_process25, "post_process");
+
+var version = "2.3.13";
+
+var import_obsidian50 = require("obsidian");
 
 function ensure_smart_sources_settings2(env) {
 if (!env.settings) env.settings = {};
@@ -29647,7 +30163,7 @@ return filtered.join(",");
 }
 __name(remove_exclusion2, "remove_exclusion");
 
-var ExcludedFoldersFuzzy2 = class extends import_obsidian48.FuzzySuggestModal {
+var ExcludedFoldersFuzzy2 = class extends import_obsidian50.FuzzySuggestModal {
 static {
 __name(this, "ExcludedFoldersFuzzy");
 }
@@ -29744,8 +30260,8 @@ this.prevent_close = false;
 }
 };
 
-var import_obsidian49 = require("obsidian");
-var ExcludedSourcesModal2 = class extends import_obsidian49.Modal {
+var import_obsidian51 = require("obsidian");
+var ExcludedSourcesModal2 = class extends import_obsidian51.Modal {
 static {
 __name(this, "ExcludedSourcesModal");
 }
@@ -29781,28 +30297,28 @@ li.setText(file_path);
 }
 };
 
-async function build_html27(env, opts = {}) {
+async function build_html28(env, opts = {}) {
 return `
 <div class="sources-settings">
 </div>
 `;
 }
-__name(build_html27, "build_html");
-async function render27(env, opts = {}) {
-const html = await build_html27.call(this, env, opts);
+__name(build_html28, "build_html");
+async function render28(env, opts = {}) {
+const html = await build_html28.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process25.call(this, env, container, opts);
+post_process26.call(this, env, container, opts);
 return container;
 }
-__name(render27, "render");
-async function post_process25(env, container, opts = {}) {
-const settings_config40 = {
+__name(render28, "render");
+async function post_process26(env, container, opts = {}) {
+const settings_config41 = {
 folder_exclusions: folder_exclusions2,
 view_exclusions: view_exclusions2,
 re_import_sources: re_import_sources2
 };
-render_settings_config2(settings_config40, env, container, {
+render_settings_config2(settings_config41, env, container, {
 default_group_name: "Sources",
 heading_btn: {
 btn_icon: "help-circle",
@@ -29816,7 +30332,7 @@ disposers.push(env.events?.on("model:changed", highlight_reset_data2(env, contai
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process25, "post_process");
+__name(post_process26, "post_process");
 function highlight_reset_data2(env, container) {
 return async (payload) => {
 if (payload.collection_key !== "embedding_models") return;
@@ -29898,8 +30414,8 @@ reimport_btn.style.display = "inline-block";
 }, "callback")
 };
 
-var import_obsidian50 = require("obsidian");
-var ExcludedFilesFuzzy = class extends import_obsidian50.FuzzySuggestModal {
+var import_obsidian52 = require("obsidian");
+var ExcludedFilesFuzzy = class extends import_obsidian52.FuzzySuggestModal {
 static {
 __name(this, "ExcludedFilesFuzzy");
 }
@@ -29996,22 +30512,22 @@ this.prevent_close = false;
 }
 };
 
-async function build_html28(env, opts = {}) {
+async function build_html29(env, opts = {}) {
 return `
 <div class="sources-pro-settings">
 </div>
 `;
 }
-__name(build_html28, "build_html");
-async function render28(env, opts = {}) {
-const html = await build_html28.call(this, env, opts);
+__name(build_html29, "build_html");
+async function render29(env, opts = {}) {
+const html = await build_html29.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process26.call(this, env, container, opts);
+post_process27.call(this, env, container, opts);
 return container;
 }
-__name(render28, "render");
-async function post_process26(env, container, opts = {}) {
+__name(render29, "render");
+async function post_process27(env, container, opts = {}) {
 const pro_settings_config = {
 folder_exclusions: folder_exclusions2,
 file_exclusions,
@@ -30056,7 +30572,7 @@ disposers.push(env.events?.on("model:changed", highlight_reset_data2(env, contai
 this.attach_disposer(container, disposers);
 return container;
 }
-__name(post_process26, "post_process");
+__name(post_process27, "post_process");
 var file_exclusions = {
 type: "button",
 name: "Manage excluded files",
@@ -30073,7 +30589,7 @@ fuzzy.open(selection_callback);
 }, "callback")
 };
 
-async function build_html29(env, opts = {}) {
+async function build_html30(env, opts = {}) {
 return `
 <div class="setting-component pro-setting">
 <div class="setting-item">
@@ -30088,16 +30604,16 @@ return `
 </div>
 `;
 }
-__name(build_html29, "build_html");
-async function render29(env, opts = {}) {
-const html = await build_html29.call(this, env, opts);
+__name(build_html30, "build_html");
+async function render30(env, opts = {}) {
+const html = await build_html30.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process27.call(this, env, container, opts);
+post_process28.call(this, env, container, opts);
 return container;
 }
-__name(render29, "render");
-async function post_process27(env, container, opts = {}) {
+__name(render30, "render");
+async function post_process28(env, container, opts = {}) {
 const add_file_btn = container.querySelector(".sc-add-excluded-file-btn");
 if (add_file_btn) {
 add_file_btn.addEventListener("click", () => {
@@ -30109,7 +30625,7 @@ env.update_exclusions();
 }
 return container;
 }
-__name(post_process27, "post_process");
+__name(post_process28, "post_process");
 
 var display_name5 = "Chat Threads";
 function get_threads_collection(env) {
@@ -30203,8 +30719,8 @@ return pcs.filter(Boolean).join(" > ");
 __name(get_block_display_name4, "get_block_display_name");
 var display_name6 = "Add blocks";
 
-var import_obsidian51 = require("obsidian");
-var MOD_CHAR2 = import_obsidian51.Platform.isMacOS ? "\u2318" : "Ctrl";
+var import_obsidian53 = require("obsidian");
+var MOD_CHAR2 = import_obsidian53.Platform.isMacOS ? "\u2318" : "Ctrl";
 function normalize_folder_path2(folder_path) {
 if (typeof folder_path !== "string") return "";
 return folder_path.replace(/\/+$/g, "");
@@ -30742,8 +31258,9 @@ ranking_model: { class: RankingModel }
 },
 modules: {},
 components: {
-settings_env_sources: { render: render28 },
-settings_sources_file_exclusions: { render: render29 }
+settings_env_model_type: { render: render27, version },
+settings_env_sources: { render: render29 },
+settings_sources_file_exclusions: { render: render30 }
 },
 actions: {
 context_suggest_chat_threads: { action: context_suggest_chat_threads, display_name: display_name5 },
@@ -30922,7 +31439,7 @@ return this.adapter.emit(event_key, payload);
 }
 };
 
-async function build_html30(env, opts = {}) {
+async function build_html31(env, opts = {}) {
 const env_settings_html = Object.entries(env.settings_config).map(([setting_key, setting_config]) => {
 if (!setting_config.setting) setting_config.setting = setting_key;
 return this.render_setting_html(setting_config);
@@ -30938,14 +31455,14 @@ ${env_collections_containers_html}
 `;
 return html;
 }
-__name(build_html30, "build_html");
-async function render30(env, opts = {}) {
-const html = await build_html30.call(this, env, opts);
+__name(build_html31, "build_html");
+async function render31(env, opts = {}) {
+const html = await build_html31.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
-return await post_process28.call(this, env, frag, opts);
+return await post_process29.call(this, env, frag, opts);
 }
-__name(render30, "render");
-async function post_process28(env, frag, opts = {}) {
+__name(render31, "render");
+async function post_process29(env, frag, opts = {}) {
 await this.render_setting_components(frag, { scope: env });
 const env_collections_containers = frag.querySelectorAll("[data-smart-settings]");
 for (const env_collections_container of env_collections_containers) {
@@ -30955,7 +31472,7 @@ await collection.render_settings(env_collections_container);
 }
 return frag;
 }
-__name(post_process28, "post_process");
+__name(post_process29, "post_process");
 
 var SmartSettings2 = class {
 static {
@@ -31751,7 +32268,7 @@ return this._notices;
 * @returns {Function}
 */
 get settings_template() {
-return this.opts.components?.smart_env?.settings || render30;
+return this.opts.components?.smart_env?.settings || render31;
 }
 /**
 * Renders settings UI into a container, using the environment's `settings_template`.
@@ -32960,9 +33477,9 @@ ${attributes}
 * @param {Object} [opts.scope={}] - The scope to use when rendering settings (should have settings property).
 * @returns {Promise<DocumentFragment>}
 */
-async render_settings(settings_config40, opts = {}) {
-const is_fx = typeof settings_config40 === "function";
-const html = Object.entries(is_fx ? await settings_config40(opts.scope) : settings_config40).map(([setting_key, setting_config]) => {
+async render_settings(settings_config41, opts = {}) {
+const is_fx = typeof settings_config41 === "function";
+const html = Object.entries(is_fx ? await settings_config41(opts.scope) : settings_config41).map(([setting_key, setting_config]) => {
 if (!setting_config.setting) {
 setting_config.setting = setting_key;
 }
@@ -33746,13 +34263,13 @@ safe_inner_html2(elm, html);
 }
 };
 
-var import_obsidian52 = require("obsidian");
+var import_obsidian54 = require("obsidian");
 var SmartViewObsidianAdapter2 = class extends SmartViewAdapter2 {
 static {
 __name(this, "SmartViewObsidianAdapter");
 }
 get setting_class() {
-return import_obsidian52.Setting;
+return import_obsidian54.Setting;
 }
 open_url(url) {
 window.open(url);
@@ -33761,12 +34278,12 @@ async render_file_select_component(elm, path, value) {
 return super.render_text_component(elm, path, value);
 }
 async render_markdown(markdown, scope) {
-const component = scope.env.smart_connections_plugin?.connections_view || new import_obsidian52.Component();
+const component = scope.env.smart_connections_plugin?.connections_view || new import_obsidian54.Component();
 if (!scope) return console.warn("Scope required for rendering markdown in Obsidian adapter");
 const frag = this.main.create_doc_fragment("<div><div class='inner'></div></div>");
 const container = frag.querySelector(".inner");
 try {
-await import_obsidian52.MarkdownRenderer.render(
+await import_obsidian54.MarkdownRenderer.render(
 scope.env.plugin.app,
 markdown,
 container,
@@ -33779,10 +34296,10 @@ console.warn("Error rendering markdown in Obsidian adapter", e);
 return frag;
 }
 get_icon_html(name) {
-return (0, import_obsidian52.getIcon)(name).outerHTML;
+return (0, import_obsidian54.getIcon)(name).outerHTML;
 }
 is_mod_event(event) {
-return import_obsidian52.Keymap.isModEvent(event);
+return import_obsidian54.Keymap.isModEvent(event);
 }
 render_folder_select_component(elm, path, value, scope, settings_scope) {
 const smart_setting = new this.setting_class(elm);
@@ -38589,7 +39106,7 @@ return true;
 }
 };
 
-var import_obsidian53 = require("obsidian");
+var import_obsidian55 = require("obsidian");
 function merge_tags2(fm_tags, cache_tags = []) {
 const tag_set = /* @__PURE__ */ new Set();
 if (typeof fm_tags === "string") {
@@ -38636,12 +39153,12 @@ if (!opts.render_output) {
 return content;
 }
 const app = this.item.env.main.app;
-if (!app || !import_obsidian53.MarkdownRenderer || !import_obsidian53.htmlToMarkdown) {
+if (!app || !import_obsidian55.MarkdownRenderer || !import_obsidian55.htmlToMarkdown) {
 console.warn("Obsidian environment not found; cannot render markdown.");
 return content;
 }
 const container = document.createElement("div");
-await import_obsidian53.MarkdownRenderer.render(app, content, container, this.item.path, new import_obsidian53.Component());
+await import_obsidian55.MarkdownRenderer.render(app, content, container, this.item.path, new import_obsidian55.Component());
 let last_html = container.innerHTML;
 const max_wait = 1e4;
 let wait_time = 0;
@@ -38659,7 +39176,7 @@ console.warn("ObsidianMarkdownSourceContentAdapter: Timeout waiting for markdown
 break;
 }
 }
-const newMd = (0, import_obsidian53.htmlToMarkdown)(container);
+const newMd = (0, import_obsidian55.htmlToMarkdown)(container);
 return newMd;
 }
 };
@@ -45664,12 +46181,12 @@ get_key() {
 if (this.data?.key) return this.data.key;
 const scope_key = this.scope_key;
 const component_key = this.component_key;
-const version3 = Number.isFinite(this.data?.version) ? this.data.version : 0;
+const version4 = Number.isFinite(this.data?.version) ? this.data.version : 0;
 const hash = this.data?.hash || "nohash";
 const key_pcs = [];
 if (!component_key.includes(scope_key) && scope_key !== "global") key_pcs.push(scope_key);
 key_pcs.push(component_key);
-return `${key_pcs.join("_").replace(/\./g, "_")}#${[version3, hash].join("#")}`;
+return `${key_pcs.join("_").replace(/\./g, "_")}#${[version4, hash].join("#")}`;
 }
 get scope_key() {
 return this.data?.scope_key;
@@ -45705,9 +46222,9 @@ async function build_component_data2(component_properties, component_module) {
 const { scope_key, component_key } = parse_component_properties2(component_properties);
 if (!component_key) return null;
 const render_fn = typeof component_module === "function" ? component_module : component_module?.render;
-const version3 = typeof render_fn?.version === "number" ? render_fn.version : 0;
+const version4 = typeof render_fn?.version === "number" ? render_fn.version : 0;
 const hash = await murmur_hash_32_alphanumeric3(render_fn.toString());
-return { scope_key, component_key, version: version3, hash };
+return { scope_key, component_key, version: version4, hash };
 }
 __name(build_component_data2, "build_component_data");
 var SmartComponentAdapter2 = class {
@@ -46545,7 +47062,7 @@ data_adapter: AjsonSingleFileCollectionDataAdapter3,
 item_type: EventLog2
 };
 
-var import_obsidian55 = require("obsidian");
+var import_obsidian57 = require("obsidian");
 
 function build_suggest_scope_items2(modal, params = {}) {
 if (!modal) return [];
@@ -46579,7 +47096,7 @@ return false;
 return true;
 }, "should_handle_arrow_left");
 
-var SmartFuzzySuggestModal2 = class extends import_obsidian55.FuzzySuggestModal {
+var SmartFuzzySuggestModal2 = class extends import_obsidian57.FuzzySuggestModal {
 static {
 __name(this, "SmartFuzzySuggestModal");
 }
@@ -46758,7 +47275,7 @@ const icon = sug?.icon || sug?.item?.icon;
 if (icon) {
 el.addClass("sc-modal-suggestion-has-icon");
 const icon_el = el.createEl("span");
-(0, import_obsidian55.setIcon)(icon_el, icon);
+(0, import_obsidian57.setIcon)(icon_el, icon);
 }
 const display_right_raw = sug && Object.prototype.hasOwnProperty.call(sug, "display_right") ? sug.display_right : sug?.item?.display_right;
 const display_right = display_right_raw === null || display_right_raw === void 0 ? "" : String(display_right_raw).trim();
@@ -46775,7 +47292,7 @@ const suggestion = selected.item;
 const is_arrow_left = this.use_arrow_left;
 const is_arrow_right = this.use_arrow_right;
 const is_shift_select = evt?.shiftKey || this.use_shift_select;
-const is_mod_select = import_obsidian55.Keymap.isModifier(evt, "Mod") || this.use_mod_select;
+const is_mod_select = import_obsidian57.Keymap.isModifier(evt, "Mod") || this.use_mod_select;
 this.use_arrow_right = false;
 this.use_mod_select = false;
 this.use_arrow_left = false;
@@ -46836,7 +47353,7 @@ this.item_or_collection.emit_event(`${this.constructor.event_domain}:closed`);
 }
 };
 
-var import_obsidian56 = require("obsidian");
+var import_obsidian58 = require("obsidian");
 var ContextModal2 = class extends SmartFuzzySuggestModal2 {
 static {
 __name(this, "ContextModal");
@@ -46898,8 +47415,8 @@ return true;
 }
 };
 
-var import_obsidian57 = require("obsidian");
-var NotificationsFeedModal2 = class extends import_obsidian57.Modal {
+var import_obsidian59 = require("obsidian");
+var NotificationsFeedModal2 = class extends import_obsidian59.Modal {
 static {
 __name(this, "NotificationsFeedModal");
 }
@@ -46918,9 +47435,9 @@ this.contentEl.empty();
 }
 };
 
-var import_obsidian58 = require("obsidian");
+var import_obsidian60 = require("obsidian");
 var MILESTONES_HELP_URL2 = "https://smartconnections.app/smart-environment/milestones/?utm_source=milestones_modal_help";
-var MilestonesModal2 = class extends import_obsidian58.Modal {
+var MilestonesModal2 = class extends import_obsidian60.Modal {
 static {
 __name(this, "MilestonesModal");
 }
@@ -46979,7 +47496,7 @@ for (const icon_id of ids) {
 if (typeof icon_id !== "string" || icon_id.length === 0) continue;
 icon_el.textContent = "";
 try {
-(0, import_obsidian58.setIcon)(icon_el, icon_id);
+(0, import_obsidian60.setIcon)(icon_el, icon_id);
 } catch (err) {
 continue;
 }
@@ -47546,7 +48063,7 @@ return key.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
 }
 __name(format_collection_name2, "format_collection_name");
 
-async function build_html31(collection, opts = {}) {
+async function build_html32(collection, opts = {}) {
 const settings_html = Object.entries(collection.settings_config).map(([setting_key, setting_config]) => {
 if (!setting_config.setting) setting_config.setting = setting_key;
 return this.render_setting_html(setting_config);
@@ -47557,9 +48074,9 @@ ${settings_html}
 </div></div></div>`;
 return html;
 }
-__name(build_html31, "build_html");
-async function render31(collection, opts = {}) {
-const html = await build_html31.call(this, collection, opts);
+__name(build_html32, "build_html");
+async function render32(collection, opts = {}) {
+const html = await build_html32.call(this, collection, opts);
 const frag = this.create_doc_fragment(html);
 await this.render_setting_components(frag, { scope: collection });
 if (opts.settings_container) {
@@ -47570,17 +48087,17 @@ collection.settings_container = frag.querySelector(".collection-settings-contain
 }
 return collection.settings_container;
 }
-__name(render31, "render");
+__name(render32, "render");
 
-var import_obsidian59 = require("obsidian");
+var import_obsidian61 = require("obsidian");
 function register_block_hover_popover2(parent, target, env, block_key, params = {}) {
 const app = env?.plugin?.app || window.app;
 target.addEventListener("mouseover", async (ev) => {
-if (import_obsidian59.Keymap.isModEvent(ev)) {
+if (import_obsidian61.Keymap.isModEvent(ev)) {
 const block = env.smart_blocks.get(block_key);
 const markdown = await block?.read();
 if (markdown) {
-const popover = new import_obsidian59.HoverPopover(parent, target);
+const popover = new import_obsidian61.HoverPopover(parent, target);
 const frag = env.smart_view.create_doc_fragment(`<div class="markdown-embed is-loaded">
 <div class="markdown-embed-content node-insert-event">
 <div class="markdown-preview-view markdown-rendered node-insert-event show-indentation-guide allow-fold-headings allow-fold-lists">
@@ -47592,7 +48109,7 @@ const frag = env.smart_view.create_doc_fragment(`<div class="markdown-embed is-l
 popover.hoverEl.classList.add("smart-block-popover");
 popover.hoverEl.appendChild(frag);
 const sizer = popover.hoverEl.querySelector(".markdown-preview-sizer");
-import_obsidian59.MarkdownRenderer.render(app, markdown, sizer, "/", popover);
+import_obsidian61.MarkdownRenderer.render(app, markdown, sizer, "/", popover);
 const event_domain = params.event_key_domain || "block";
 block.emit_event(`${event_domain}:hover_preview`);
 }
@@ -47601,7 +48118,7 @@ block.emit_event(`${event_domain}:hover_preview`);
 }
 __name(register_block_hover_popover2, "register_block_hover_popover");
 
-var import_obsidian60 = require("obsidian");
+var import_obsidian62 = require("obsidian");
 function register_item_hover_popover2(container, item, params = {}) {
 const app = item.env?.plugin?.app || window.app;
 if (item.key.indexOf("{") === -1) {
@@ -47614,7 +48131,7 @@ hoverParent: container.parentElement,
 targetEl: container,
 linktext: linktext_path
 });
-if (import_obsidian60.Keymap.isModEvent(event)) {
+if (import_obsidian62.Keymap.isModEvent(event)) {
 const event_domain = params.event_key_domain || item.collection_key || "item";
 item.emit_event(`${event_domain}:hover_preview`);
 }
@@ -47625,7 +48142,7 @@ register_block_hover_popover2(container.parentElement, container, item.env, item
 }
 __name(register_item_hover_popover2, "register_item_hover_popover");
 
-var import_obsidian61 = require("obsidian");
+var import_obsidian63 = require("obsidian");
 function format_score2(score) {
 const numeric_score = typeof score === "number" ? score : Number.parseFloat(score);
 if (!Number.isFinite(numeric_score)) return null;
@@ -47652,7 +48169,7 @@ if (!label) return "";
 return `<span class="${class_name}">${label}</span>`;
 }
 __name(build_badge_html2, "build_badge_html");
-function build_html32(context_item, params = {}) {
+function build_html33(context_item, params = {}) {
 let name;
 if (context_item.item_ref) {
 if (context_item.item_ref.key.includes("#")) {
@@ -47681,16 +48198,16 @@ ${score_html}
 ${size_html}
 </span>`;
 }
-__name(build_html32, "build_html");
-async function render32(context_item, params = {}) {
-const html = build_html32(context_item, params);
+__name(build_html33, "build_html");
+async function render33(context_item, params = {}) {
+const html = build_html33(context_item, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process29.call(this, context_item, container, params);
+post_process30.call(this, context_item, container, params);
 return container;
 }
-__name(render32, "render");
-async function post_process29(context_item, container, params = {}) {
+__name(render33, "render");
+async function post_process30(context_item, container, params = {}) {
 const env = context_item.env;
 const remove_btn = container.querySelector(".sc-context-item-remove");
 if (remove_btn) {
@@ -47704,7 +48221,7 @@ ctx.remove_item(context_item.key);
 }
 if (context_item.item_ref) {
 const name2 = container.querySelector(".sc-context-item-name");
-name2.setAttribute("title", `Hold ${import_obsidian61.Platform.isMacOS ? "\u2318" : "Ctrl"} to preview`);
+name2.setAttribute("title", `Hold ${import_obsidian63.Platform.isMacOS ? "\u2318" : "Ctrl"} to preview`);
 register_item_hover_popover2(name2, context_item.item_ref);
 }
 const name = container.querySelector(".sc-context-item-name");
@@ -47713,9 +48230,9 @@ context_item.open(event);
 });
 return container;
 }
-__name(post_process29, "post_process");
+__name(post_process30, "post_process");
 
-async function build_html33(env, opts = {}) {
+async function build_html34(env, opts = {}) {
 const lines = [];
 lines.push(`<h2>Collections</h2>`);
 const collection_keys = Object.keys(env.collections).filter((key) => ["smart_sources", "smart_blocks"].includes(key)).sort((a, b) => {
@@ -47743,17 +48260,17 @@ ${lines.join("\n")}
 </div>
 `;
 }
-__name(build_html33, "build_html");
-async function render33(env, opts = {}) {
-const html = await build_html33.call(this, env, opts);
+__name(build_html34, "build_html");
+async function render34(env, opts = {}) {
+const html = await build_html34.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
-return await post_process30.call(this, env, frag, opts);
+return await post_process31.call(this, env, frag, opts);
 }
-__name(render33, "render");
-async function post_process30(env, frag, opts = {}) {
+__name(render34, "render");
+async function post_process31(env, frag, opts = {}) {
 return frag;
 }
-__name(post_process30, "post_process");
+__name(post_process31, "post_process");
 function generate_collection_stats2(collection, collectionKey) {
 const total_items = Object.values(collection.items).length;
 const niceName = format_collection_name2(collectionKey);
@@ -47807,18 +48324,18 @@ return `<p><strong>Embedding coverage:</strong> ${percent}% (${stats.embedded} /
 }
 __name(calculate_embed_coverage2, "calculate_embed_coverage");
 
-var import_obsidian62 = require("obsidian");
-function build_html34(scope, params = {}) {
+var import_obsidian64 = require("obsidian");
+function build_html35(scope, params = {}) {
 return `<div class="smart-form-dropdown-component"></div>`;
 }
-__name(build_html34, "build_html");
-async function render34(scope, params = {}) {
-const html = build_html34.call(this, scope, params);
+__name(build_html35, "build_html");
+async function render35(scope, params = {}) {
+const html = build_html35.call(this, scope, params);
 const frag = this.create_doc_fragment(html);
-return await post_process31.call(this, scope, frag, params);
+return await post_process32.call(this, scope, frag, params);
 }
-__name(render34, "render");
-async function post_process31(scope, container, params = {}) {
+__name(render35, "render");
+async function post_process32(scope, container, params = {}) {
 if (!scope) {
 container.textContent = "Error: scope is required for dropdown component.";
 return container;
@@ -47838,7 +48355,7 @@ if (!Array.isArray(options) || options.length === 0) {
 container.textContent = "Error: options[] is required for dropdown component.";
 return container;
 }
-const setting = new import_obsidian62.Setting(container);
+const setting = new import_obsidian64.Setting(container);
 if (params.label && typeof setting.setName === "function") {
 setting.setName(params.label);
 }
@@ -47885,11 +48402,11 @@ select_el.removeEventListener("change", handler);
 });
 return container;
 }
-__name(post_process31, "post_process");
-render34.version = 0.2;
+__name(post_process32, "post_process");
+render35.version = 0.2;
 
-var import_obsidian63 = require("obsidian");
-function build_html35(env, opts = {}) {
+var import_obsidian65 = require("obsidian");
+function build_html36(env, opts = {}) {
 return `<div class="wrapper">
 <div id="lean-coffee-callout" data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout" style="mix-blend-mode: unset;">
 <div class="callout-title" style="align-items: center;">
@@ -47916,24 +48433,24 @@ stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-info">
 </div>
 </div>`;
 }
-__name(build_html35, "build_html");
-function render35(env, opts = {}) {
-const html = build_html35.call(this, env, opts);
+__name(build_html36, "build_html");
+function render36(env, opts = {}) {
+const html = build_html36.call(this, env, opts);
 const frag = this.create_doc_fragment(html);
 const callout = frag.querySelector("#lean-coffee-callout");
 const icon_container = callout.querySelector(".callout-icon");
-const icon = (0, import_obsidian63.getIcon)("smart-chat");
+const icon = (0, import_obsidian65.getIcon)("smart-chat");
 if (icon) {
 this.empty(icon_container);
 icon_container.appendChild(icon);
 }
-post_process32.call(this, env, callout, opts);
+post_process33.call(this, env, callout, opts);
 return callout;
 }
-__name(render35, "render");
-function post_process32(env, callout) {
+__name(render36, "render");
+function post_process33(env, callout) {
 }
-__name(post_process32, "post_process");
+__name(post_process33, "post_process");
 
 var milestones_default2 = `.sc-events-checklist {\r
 display: flex;\r
@@ -48239,9 +48756,9 @@ border-color: var(--interactive-accent);\r
 }\r
 `;
 
-var import_obsidian65 = require("obsidian");
+var import_obsidian67 = require("obsidian");
 
-var import_obsidian64 = require("obsidian");
+var import_obsidian66 = require("obsidian");
 
 var PLUGIN_INSTALL_EVENT_CONFIG2 = {
 "connections:installed": {
@@ -48389,6 +48906,18 @@ milestone: "Copied context with media (images/PDF pages) for multimodal workflow
 link: "https://smartconnections.app/smart-context/clipboard/?utm_source=milestones#copy-modes",
 is_pro: true
 },
+"context:custom_template_set": {
+group: "Context Pro",
+milestone: "Set a custom context template.",
+link: "https://smartconnections.app/smart-context/settings/?utm_source=milestones#context-templates",
+is_pro: true
+},
+"context_item:custom_template_set": {
+group: "Context Pro",
+milestone: "Set a custom context item template.",
+link: "https://smartconnections.app/smart-context/settings/?utm_source=milestones#item-templates",
+is_pro: true
+},
 "context_pro:installed": {
 group: "Context Pro",
 milestone: "Installed Smart Context Pro.",
@@ -48422,11 +48951,6 @@ milestone: "Installed Smart Chat Pro.",
 link: "https://smartconnections.app/pro-plugins/?utm_source=milestones#chat-pro",
 is_pro: true
 },
-"smart_plugins_oauth_completed": {
-group: "Pro",
-milestone: "Connected account (enabled Pro plugins).",
-link: "https://smartconnections.app/pro-plugins/?utm_source=milestones"
-},
 "inline_connections:show": {
 group: "Connections Pro",
 milestone: "Opened inline connections in-note (used the inline workflow).",
@@ -48444,18 +48968,35 @@ group: "Connections Pro",
 milestone: "Inserted an inline link from an inline connection (converted discovery into a durable link).",
 link: "https://smartconnections.app/smart-connections/inline/?utm_source=milestones",
 is_pro: true
+},
+"smart_plugins_oauth_completed": {
+group: "Pro",
+milestone: "Connected account (enabled Pro plugins).",
+link: "https://smartconnections.app/pro-plugins/?utm_source=milestones"
+},
+"referrals:copied_link": {
+group: "Pro",
+milestone: "Copied your referral link to share Pro.",
+link: "https://smartconnections.app/pro-plugins/?utm_source=milestones#referrals",
+is_pro: true
+},
+"referrals:opened_dashboard": {
+group: "Pro",
+milestone: "Opened the referrals dashboard to view bonuses.",
+link: "https://smartconnections.app/my-referrals/?utm_source=milestones",
+is_pro: true
 }
 };
 var EVENTS_CHECKLIST_GROUP_ORDER2 = [
 "Environment",
 "Connections",
 "Lookup",
-"Context",
 "Chat",
-"Pro",
 "Connections Pro",
+"Context",
 "Context Pro",
-"Chat Pro"
+"Chat Pro",
+"Pro"
 ];
 function derive_events_checklist_groups2(items_by_event_key) {
 const group_map = Object.entries(items_by_event_key || {}).reduce(
@@ -48520,12 +49061,158 @@ return name.toLowerCase().includes("pro");
 }
 __name(is_pro_manifest2, "is_pro_manifest");
 
+var DEFAULT_IDLE_DELAY_MS2 = 3e3;
+function get_idle_delay_ms2(params = {}) {
+const {
+last_input_at = 0,
+now = Date.now(),
+idle_delay_ms = DEFAULT_IDLE_DELAY_MS2
+} = params;
+const elapsed_ms = Math.max(0, now - last_input_at);
+return Math.max(0, idle_delay_ms - elapsed_ms);
+}
+__name(get_idle_delay_ms2, "get_idle_delay_ms");
+function is_valid_milestone_event2(event_key, params = {}) {
+const { items_by_event_key = {} } = params;
+if (typeof event_key !== "string" || event_key.length === 0) return false;
+return Boolean(items_by_event_key && event_key in items_by_event_key);
+}
+__name(is_valid_milestone_event2, "is_valid_milestone_event");
+function enqueue_event_key2(queue, params = {}) {
+const { event_key } = params;
+const next_queue = Array.isArray(queue) ? queue.slice() : [];
+if (typeof event_key === "string" && event_key.length > 0) {
+next_queue.push(event_key);
+}
+return next_queue;
+}
+__name(enqueue_event_key2, "enqueue_event_key");
+function dequeue_event_key2(queue) {
+if (!Array.isArray(queue) || queue.length === 0) {
+return { event_key: null, queue: [] };
+}
+const [event_key, ...rest] = queue;
+return { event_key, queue: rest };
+}
+__name(dequeue_event_key2, "dequeue_event_key");
+
+var MILESTONE_IDLE_DELAY_MS2 = DEFAULT_IDLE_DELAY_MS2;
+var MILESTONE_NOTICE_DURATION_MS2 = 7e3;
+var MILESTONE_INPUT_EVENTS2 = [
+"keydown",
+"mousedown",
+"mousemove",
+"touchstart",
+"wheel"
+];
 function register_first_of_event_notifications2(env) {
+let notice_queue = [];
+let is_notice_active = false;
+let idle_timeout_id = null;
+let notice_timeout_id = null;
+let last_input_at = Date.now();
+let should_restart_idle = false;
+const teardown_callbacks = [];
+const register_dom_event = env?.main?.registerDomEvent?.bind(env.main);
+const add_dom_event = /* @__PURE__ */ __name((target, event_name, handler) => {
+if (!target || typeof target.addEventListener !== "function") return;
+if (register_dom_event) {
+register_dom_event(target, event_name, handler);
+return;
+}
+target.addEventListener(event_name, handler);
+teardown_callbacks.push(() => target.removeEventListener(event_name, handler));
+}, "add_dom_event");
+const record_input = /* @__PURE__ */ __name(() => {
+last_input_at = Date.now();
+if (should_restart_idle) should_restart_idle = false;
+schedule_next_notice();
+}, "record_input");
+const register_input_listeners = /* @__PURE__ */ __name(() => {
+MILESTONE_INPUT_EVENTS2.forEach((event_name) => {
+add_dom_event(window, event_name, record_input);
+});
+}, "register_input_listeners");
+const is_window_visible = /* @__PURE__ */ __name(() => {
+if (typeof document === "undefined") return true;
+return document.visibilityState === "visible";
+}, "is_window_visible");
+const handle_visibility_change = /* @__PURE__ */ __name(() => {
+if (!is_window_visible()) return;
+if (should_restart_idle) {
+last_input_at = Date.now();
+should_restart_idle = false;
+}
+schedule_next_notice();
+}, "handle_visibility_change");
+const register_visibility_listener = /* @__PURE__ */ __name(() => {
+add_dom_event(document, "visibilitychange", handle_visibility_change);
+}, "register_visibility_listener");
+const clear_idle_timeout = /* @__PURE__ */ __name(() => {
+if (!idle_timeout_id) return;
+clearTimeout(idle_timeout_id);
+idle_timeout_id = null;
+}, "clear_idle_timeout");
+const schedule_idle_timeout = /* @__PURE__ */ __name((delay_ms) => {
+clear_idle_timeout();
+idle_timeout_id = setTimeout(() => {
+idle_timeout_id = null;
+schedule_next_notice();
+}, delay_ms);
+}, "schedule_idle_timeout");
+const show_milestone_notice = /* @__PURE__ */ __name((event_key) => {
+const item = EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY2[event_key];
+if (!item) return;
+const frag = build_milestone_notice_fragment2(event_key, env);
+new import_obsidian66.Notice(frag, MILESTONE_NOTICE_DURATION_MS2);
+is_notice_active = true;
+if (notice_timeout_id) clearTimeout(notice_timeout_id);
+notice_timeout_id = setTimeout(() => {
+is_notice_active = false;
+notice_timeout_id = null;
+schedule_next_notice();
+}, MILESTONE_NOTICE_DURATION_MS2);
+}, "show_milestone_notice");
+const schedule_next_notice = /* @__PURE__ */ __name(() => {
+if (is_notice_active || notice_queue.length === 0) return;
+if (!is_window_visible()) {
+should_restart_idle = true;
+return;
+}
+const idle_delay_ms = get_idle_delay_ms2({
+last_input_at,
+idle_delay_ms: MILESTONE_IDLE_DELAY_MS2
+});
+if (idle_delay_ms > 0) {
+schedule_idle_timeout(idle_delay_ms);
+return;
+}
+const result = dequeue_event_key2(notice_queue);
+notice_queue = result.queue;
+if (!result.event_key) return;
+show_milestone_notice(result.event_key);
+}, "schedule_next_notice");
+register_input_listeners();
+register_visibility_listener();
 env.events.on("event_log:first", (data) => {
 const event_key = data?.first_of_event_key;
-if (typeof event_key === "string" && event_key in EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY2) {
+if (!is_valid_milestone_event2(event_key, { items_by_event_key: EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY2 })) return;
+notice_queue = enqueue_event_key2(notice_queue, { event_key });
+schedule_next_notice();
+});
+return () => {
+teardown_callbacks.forEach((teardown) => teardown());
+clear_idle_timeout();
+if (notice_timeout_id) {
+clearTimeout(notice_timeout_id);
+notice_timeout_id = null;
+}
+};
+}
+__name(register_first_of_event_notifications2, "register_first_of_event_notifications");
+function build_milestone_notice_fragment2(event_key, env) {
 const frag = document.createDocumentFragment();
-const msg = `You achieved a new Smart Milestone \u{1F389}`;
+const msg = "You achieved a new Smart Milestone \u{1F389}";
 const msg_el = document.createElement("p");
 msg_el.textContent = msg;
 frag.appendChild(msg_el);
@@ -48537,16 +49224,14 @@ frag.appendChild(milestone_el);
 const btn = document.createElement("button");
 btn.textContent = "View milestones";
 btn.addEventListener("click", () => {
-env.open_milestones_modal();
+env?.open_milestones_modal?.();
 });
 frag.appendChild(btn);
-new import_obsidian64.Notice(frag, 7e3);
+return frag;
 }
-});
-}
-__name(register_first_of_event_notifications2, "register_first_of_event_notifications");
+__name(build_milestone_notice_fragment2, "build_milestone_notice_fragment");
 
-function build_html36(env, params = {}) {
+function build_html37(env, params = {}) {
 const groups = derive_events_checklist_groups2(EVENTS_CHECKLIST_ITEMS_BY_EVENT_KEY2);
 const checked_count = groups.reduce((acc, g) => {
 const c = g.items.reduce((inner, item) => {
@@ -48610,22 +49295,22 @@ ${groups_html}
 </div>
 `;
 }
-__name(build_html36, "build_html");
-async function render36(env, params = {}) {
+__name(build_html37, "build_html");
+async function render37(env, params = {}) {
 this.apply_style_sheet(milestones_default2);
-const html = build_html36.call(this, env, params);
+const html = build_html37.call(this, env, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-post_process33.call(this, env, container, params);
+post_process34.call(this, env, container, params);
 return container;
 }
-__name(render36, "render");
-async function post_process33(env, container, params = {}) {
+__name(render37, "render");
+async function post_process34(env, container, params = {}) {
 attach_item_link_listeners2(container);
 render_item_state_icons2(container);
 return container;
 }
-__name(post_process33, "post_process");
+__name(post_process34, "post_process");
 function build_item_html2(item, state) {
 const checked = state.checked === true;
 const checked_flag = checked ? "true" : "false";
@@ -48706,7 +49391,7 @@ for (const icon_id of ids) {
 if (typeof icon_id !== "string" || icon_id.length === 0) continue;
 icon_el.textContent = "";
 try {
-(0, import_obsidian65.setIcon)(icon_el, icon_id);
+(0, import_obsidian67.setIcon)(icon_el, icon_id);
 } catch (err) {
 continue;
 }
@@ -48735,7 +49420,7 @@ return item.link;
 }
 __name(get_item_link2, "get_item_link");
 
-function build_html37() {
+function build_html38() {
 return `<div>
 <div class="smart-env-notifications-controls">
 <button class="copy-all-notifications-btn">Copy All Notifications</button>
@@ -48744,7 +49429,7 @@ return `<div>
 <button class="load-more-notifications-btn">Load More</button>
 </div>`;
 }
-__name(build_html37, "build_html");
+__name(build_html38, "build_html");
 var default_page_size2 = 100;
 var load_more_step2 = 100;
 function get_visible_entries2(entries, params = {}) {
@@ -48766,14 +49451,14 @@ function should_show_load_more2(entries_length, visible_count) {
 return entries_length > visible_count;
 }
 __name(should_show_load_more2, "should_show_load_more");
-async function render37(env, params = {}) {
-const frag = this.create_doc_fragment(build_html37());
+async function render38(env, params = {}) {
+const frag = this.create_doc_fragment(build_html38());
 const container = frag.firstElementChild;
-post_process34.call(this, env, container, params);
+post_process35.call(this, env, container, params);
 return frag;
 }
-__name(render37, "render");
-async function post_process34(env, container, params = {}) {
+__name(render38, "render");
+async function post_process35(env, container, params = {}) {
 const feed_container = container.querySelector(".smart-env-notifications-feed");
 const copy_btn = container.querySelector(".copy-all-notifications-btn");
 const load_more_btn = container.querySelector(".load-more-notifications-btn");
@@ -48823,7 +49508,7 @@ render_entries();
 });
 }
 }
-__name(post_process34, "post_process");
+__name(post_process35, "post_process");
 function update_load_more_button2(button, params = {}) {
 if (!button) return;
 const { entries_length = 0, visible_count = 0 } = params;
@@ -48892,9 +49577,9 @@ return `${days} days ago`;
 }
 __name(to_time_ago2, "to_time_ago");
 
-var import_obsidian67 = require("obsidian");
+var import_obsidian69 = require("obsidian");
 
-var import_obsidian66 = require("obsidian");
+var import_obsidian68 = require("obsidian");
 function get_smart_server_url3() {
 if (typeof window !== "undefined" && window.SMART_SERVER_URL_OVERRIDE) {
 return window.SMART_SERVER_URL_OVERRIDE;
@@ -49057,7 +49742,7 @@ return false;
 }
 __name(is_server_version_newer2, "is_server_version_newer");
 async function fetch_plugin_zip3(repoName, token) {
-const resp = await (0, import_obsidian66.requestUrl)({
+const resp = await (0, import_obsidian68.requestUrl)({
 url: `${get_smart_server_url3()}/plugin_download`,
 method: "POST",
 headers: {
@@ -49072,7 +49757,7 @@ throw new Error(`plugin_download error ${resp.status}: ${resp.text}`);
 return validate_zip_buffer2(resp.arrayBuffer, "Smart Plugins server");
 }
 __name(fetch_plugin_zip3, "fetch_plugin_zip");
-async function fetch_zip_from_url2(download_url, request_fn = import_obsidian66.requestUrl) {
+async function fetch_zip_from_url2(download_url, request_fn = import_obsidian68.requestUrl) {
 console.log(`[smart_plugins] download plugin from URL: ${download_url}`);
 const resp = await request_fn({
 url: download_url,
@@ -49085,7 +49770,7 @@ throw new Error(`Download error ${resp.status}: ${resp.text || ""}`);
 return validate_zip_buffer2(resp.arrayBuffer, "Download");
 }
 __name(fetch_zip_from_url2, "fetch_zip_from_url");
-async function fetch_plugin_readme2(repo, token, request_fn = import_obsidian66.requestUrl) {
+async function fetch_plugin_readme2(repo, token, request_fn = import_obsidian68.requestUrl) {
 const resp = await request_fn({
 url: `${get_smart_server_url3()}/plugin_readme`,
 method: "POST",
@@ -49115,7 +49800,7 @@ return `${safe}_smart_plugins_oauth_`;
 }
 __name(get_oauth_storage_prefix2, "get_oauth_storage_prefix");
 async function fetch_server_plugin_list2(token) {
-const resp = await (0, import_obsidian66.requestUrl)({
+const resp = await (0, import_obsidian68.requestUrl)({
 url: `${get_smart_server_url3()}/plugin_list`,
 method: "POST",
 headers: {
@@ -49133,7 +49818,7 @@ __name(fetch_server_plugin_list2, "fetch_server_plugin_list");
 async function fetch_referral_stats2(params = {}) {
 const token = String(params.token || "").trim();
 if (!token) return { ok: false, error: "missing_token" };
-const resp = await (0, import_obsidian66.requestUrl)({
+const resp = await (0, import_obsidian68.requestUrl)({
 url: `${get_smart_server_url3()}/api/referrals/stats`,
 method: "GET",
 headers: {
@@ -49178,7 +49863,7 @@ url: "https://smartconnections.app/smart-context/"
 return pro_placeholders;
 }
 __name(derive_fallback_plugins2, "derive_fallback_plugins");
-function build_html38(env, params = {}) {
+function build_html39(env, params = {}) {
 return `
 <div class="pro-plugins-container setting-item-heading">
 <div class="setting-group">
@@ -49197,17 +49882,17 @@ return `
 </div>
 `;
 }
-__name(build_html38, "build_html");
-async function render38(env, params = {}) {
+__name(build_html39, "build_html");
+async function render39(env, params = {}) {
 this.apply_style_sheet(style_default3);
-const html = build_html38.call(this, env, params);
+const html = build_html39.call(this, env, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-await post_process35.call(this, env, container, params);
+await post_process36.call(this, env, container, params);
 return container;
 }
-__name(render38, "render");
-async function post_process35(env, container, params = {}) {
+__name(render39, "render");
+async function post_process36(env, container, params = {}) {
 const plugin = env.plugin || null;
 const app = plugin?.app || window.app;
 const oauth_storage_prefix = get_oauth_storage_prefix2(app);
@@ -49226,6 +49911,10 @@ return;
 }
 el.innerHTML = "";
 }, "empty_container");
+const emit_referral_event = /* @__PURE__ */ __name((event_key) => {
+if (!env?.events || typeof env.events.emit !== "function") return;
+env.events.emit(event_key, { event_source: "pro_plugins_referrals" });
+}, "emit_referral_event");
 const render_manual_login_link = /* @__PURE__ */ __name((login_url) => {
 if (!login_container) return;
 if (!login_url) return;
@@ -49255,9 +49944,9 @@ btn.textContent = "Copy";
 btn.addEventListener("click", async () => {
 const ok = await copy_to_clipboard4(login_url);
 if (ok) {
-new import_obsidian67.Notice("Copied login link to clipboard.");
+new import_obsidian69.Notice("Copied login link to clipboard.");
 } else {
-new import_obsidian67.Notice("Copy failed. Please select and copy the link manually.");
+new import_obsidian69.Notice("Copy failed. Please select and copy the link manually.");
 }
 });
 controls.appendChild(btn);
@@ -49271,8 +49960,8 @@ await new Promise((resolve) => setTimeout(resolve, 100));
 }
 for (const plugin_id in manifests) {
 if (!Object.prototype.hasOwnProperty.call(manifests, plugin_id)) continue;
-const { name, version: version3 } = manifests[plugin_id];
-installed_map[plugin_id] = { name, version: version3 };
+const { name, version: version4 } = manifests[plugin_id];
+installed_map[plugin_id] = { name, version: version4 };
 }
 return installed_map;
 }, "get_installed_info");
@@ -49284,14 +49973,14 @@ render_manual_login_link(last_login_url);
 if (env && typeof env.initiate_smart_plugins_oauth === "function") {
 last_login_url = initiate_smart_plugins_oauth2();
 }
-new import_obsidian67.Notice("Please complete the login in your browser.");
+new import_obsidian69.Notice("Please complete the login in your browser.");
 }, "initiate_oauth_login");
 const render_oauth_login_section = /* @__PURE__ */ __name(() => {
 this.empty(login_container);
 manual_login_el = null;
 const token = localStorage.getItem(oauth_storage_prefix + "token") || "";
 if (!token) {
-const setting2 = new import_obsidian67.Setting(login_container).setName("Connect account").setDesc("Log in with the key provided in your Pro welcome email.");
+const setting2 = new import_obsidian69.Setting(login_container).setName("Connect account").setDesc("Log in with the key provided in your Pro welcome email.");
 setting2.addButton((btn) => {
 btn.setButtonText("Login");
 btn.onClick(async () => {
@@ -49300,14 +49989,14 @@ await initiate_oauth_login();
 });
 return;
 }
-const setting = new import_obsidian67.Setting(login_container);
+const setting = new import_obsidian69.Setting(login_container);
 setting.setDesc("Signed in to Smart Plugins Pro account.");
 setting.addButton((btn) => {
 btn.setButtonText("Logout");
 btn.onClick(() => {
 localStorage.removeItem(oauth_storage_prefix + "token");
 localStorage.removeItem(oauth_storage_prefix + "refresh");
-new import_obsidian67.Notice("Logged out of Smart Plugins");
+new import_obsidian69.Notice("Logged out of Smart Plugins");
 render_oauth_login_section();
 render_referral_section();
 render_plugin_list_section();
@@ -49318,7 +50007,7 @@ const render_referral_section = /* @__PURE__ */ __name(async (params2 = {}) => {
 empty_container(referral_container);
 const token = String(params2.token || "").trim();
 if (!token) {
-const setting = new import_obsidian67.Setting(referral_container).setName("Give $30 off Pro. Get 30 days of Pro").setDesc("Start a free trial to unlock your referral link.");
+const setting = new import_obsidian69.Setting(referral_container).setName("Give $30 off Pro. Get 30 days of Pro").setDesc("Start a free trial to unlock your referral link.");
 setting.addButton((btn) => {
 btn.setButtonText("Start free trial");
 btn.onClick(() => {
@@ -49333,18 +50022,20 @@ try {
 const stats = await fetch_referral_stats2({ token });
 const referral_link = String(stats?.referral_link || "").trim();
 if (!referral_link) return;
-const setting = new import_obsidian67.Setting(referral_container).setName("Referral link").setDesc("Give $30 off Pro. Get 30 days of Pro.");
+const setting = new import_obsidian69.Setting(referral_container).setName("Referral link").setDesc("Give $30 off Pro. Get 30 days of Pro.");
 setting.addButton((btn) => {
 btn.setButtonText("Copy link");
 btn.onClick(async () => {
 const ok = await copy_to_clipboard4(referral_link);
-new import_obsidian67.Notice(ok ? "Referral link copied." : "Copy failed. Please try again.");
+new import_obsidian69.Notice(ok ? "Referral link copied." : "Copy failed. Please try again.");
+if (ok) emit_referral_event("referrals:copied_link");
 });
 });
 setting.addButton((btn) => {
 btn.setButtonText("Open referrals");
 btn.onClick(() => {
 window.open("https://smartconnections.app/my-referrals/", "_external");
+emit_referral_event("referrals:opened_dashboard");
 });
 });
 } catch (err) {
@@ -49364,7 +50055,7 @@ pro_list_el.appendChild(row);
 }
 }, "render_fallback_plugin_list");
 const add_update_sub_to_login_section = /* @__PURE__ */ __name(() => {
-const setting = new import_obsidian67.Setting(login_container).setName("Subscription Expired").setDesc("Your Smart Connections Pro subscription has expired. Please update your subscription to retain access to Pro plugins.");
+const setting = new import_obsidian69.Setting(login_container).setName("Subscription Expired").setDesc("Your Smart Connections Pro subscription has expired. Please update your subscription to retain access to Pro plugins.");
 setting.addButton((btn) => {
 btn.setButtonText("Get Pro");
 btn.onClick(() => {
@@ -49432,7 +50123,7 @@ render_smart_plugins();
 await render_smart_plugins();
 return container;
 }
-__name(post_process35, "post_process");
+__name(post_process36, "post_process");
 function initiate_smart_plugins_oauth2() {
 console.log("initiate_smart_plugins_oauth");
 const state = Math.random().toString(36).slice(2);
@@ -49468,12 +50159,12 @@ return Boolean(ok);
 return false;
 }, "copy_to_clipboard");
 
-var import_obsidian68 = require("obsidian");
+var import_obsidian70 = require("obsidian");
 var PRO_PLUGINS_URL2 = "https://smartconnections.app/pro-plugins/";
-function build_html39(item, params = {}) {
+function build_html40(item, params = {}) {
 return `<div class="pro-plugins-list-item"></div>`;
 }
-__name(build_html39, "build_html");
+__name(build_html40, "build_html");
 function is_fallback_item2(item) {
 return !item || !item.repo;
 }
@@ -49504,18 +50195,18 @@ ${item.description}`;
 return { plugin_id, display_name: display_name16, desc, button_label, is_disabled, server_version, local_version };
 }
 __name(compute_display_state2, "compute_display_state");
-async function render39(item, params = {}) {
-const html = build_html39(item, params);
+async function render40(item, params = {}) {
+const html = build_html40(item, params);
 const frag = this.create_doc_fragment(html);
 const container = frag.firstElementChild;
-await post_process36.call(this, item, container, params);
+await post_process37.call(this, item, container, params);
 return container;
 }
-__name(render39, "render");
-async function post_process36(item, container, params = {}) {
+__name(render40, "render");
+async function post_process37(item, container, params = {}) {
 const { app, token, installed_map = {}, on_installed } = params;
 if (is_fallback_item2(item)) {
-const row2 = new import_obsidian68.Setting(container).setName(item.name || "Pro plugin").setDesc(item.description || "Login to unlock Pro plugins.");
+const row2 = new import_obsidian70.Setting(container).setName(item.name || "Pro plugin").setDesc(item.description || "Login to unlock Pro plugins.");
 if (item.core_id) {
 if (app.plugins.manifests[item.core_id]) {
 const core_installed_text = document.createElement("i");
@@ -49549,7 +50240,7 @@ return container;
 const plugin_id = item.manifest_id || item.repo.replace("/", "_");
 const local = installed_map[plugin_id] || null;
 const state = compute_display_state2(item, local);
-const row = new import_obsidian68.Setting(container).setName(state.display_name).setDesc(state.desc);
+const row = new import_obsidian70.Setting(container).setName(state.display_name).setDesc(state.desc);
 row.addButton((btn) => {
 btn.setButtonText(state.button_label);
 btn.setDisabled(state.is_disabled);
@@ -49565,7 +50256,7 @@ btn.onClick(() => show_plugin_readme2(item, { app, token, display_name: state.di
 });
 return container;
 }
-__name(post_process36, "post_process");
+__name(post_process37, "post_process");
 var download_plugin_zip2 = /* @__PURE__ */ __name(async (item, token) => {
 const resolved_download_url = typeof item.resolve_download_url === "function" ? await item.resolve_download_url() : item.download_url;
 if (resolved_download_url) {
@@ -49579,7 +50270,7 @@ return fetch_plugin_zip3(item.repo, token);
 var install_plugin2 = /* @__PURE__ */ __name(async (item, params = {}) => {
 const { app, token, on_installed } = params;
 try {
-new import_obsidian68.Notice(`Installing "${item.repo}" ...`);
+new import_obsidian70.Notice(`Installing "${item.repo}" ...`);
 const zip_data = await download_plugin_zip2(item, token);
 const { files, pluginManifest } = await parse_zip_into_files3(zip_data);
 const folder_name = item.plugin_id;
@@ -49591,97 +50282,33 @@ if (app.plugins.enabledPlugins.has(plugin_id)) {
 await app.plugins.disablePlugin(plugin_id);
 }
 await enable_plugin3(app, plugin_id);
-new import_obsidian68.Notice(`${item.repo} installed successfully.`);
+new import_obsidian70.Notice(`${item.repo} installed successfully.`);
 if (typeof on_installed === "function") {
 await on_installed();
 }
 } catch (err) {
 console.error("[pro-plugins:list_item] Install error:", err);
-new import_obsidian68.Notice(`Install failed: ${err.message}`);
+new import_obsidian70.Notice(`Install failed: ${err.message}`);
 }
 }, "install_plugin");
 var show_plugin_readme2 = /* @__PURE__ */ __name(async (item, params = {}) => {
 const { app, token, display_name: display_name16 } = params;
 try {
 const readme = await fetch_plugin_readme2(item.repo, token);
-const modal = new import_obsidian68.Modal(app);
+const modal = new import_obsidian70.Modal(app);
 modal.setTitle(display_name16 || item.name || item.repo);
-await import_obsidian68.MarkdownRenderer.render(app, readme, modal.contentEl, "", new import_obsidian68.Component());
+await import_obsidian70.MarkdownRenderer.render(app, readme, modal.contentEl, "", new import_obsidian70.Component());
 modal.open();
 } catch (err) {
 console.error("[pro-plugins:list_item] Failed to load README:", err);
-new import_obsidian68.Notice("Failed to load README");
+new import_obsidian70.Notice("Failed to load README");
 }
 }, "show_plugin_readme");
 
-var import_obsidian69 = require("obsidian");
-var SmartModelModal2 = class extends import_obsidian69.Modal {
-static {
-__name(this, "SmartModelModal");
-}
-/**
-* @param {App} app
-* @param {EditModelModalOpts} opts
-*/
-constructor(model, params = {}) {
-const app = model.env.plugin.app || window.app;
-super(app);
-this.model = model;
-this.collection = this.model.collection;
-this.env = this.model.env;
-this.params = params;
-}
-onOpen() {
-this.titleEl.setText("Edit model");
-this.contentEl.addClass("smart-model-modal");
-this.render_form();
-}
-onClose() {
-this.contentEl.empty();
-if (typeof this.params.on_close === "function") {
-this.params.on_close();
-}
-}
-async render_form() {
-const container = this.contentEl;
-container.empty();
-const model = this.model;
-const model_actions_bar = await this.env.smart_components.render_component("settings_model_actions", model, {
-on_before_new: /* @__PURE__ */ __name(async () => {
-this.close();
-}, "on_before_new"),
-on_after_delete: /* @__PURE__ */ __name(async () => {
-this.close();
-}, "on_after_delete")
-});
-container.appendChild(model_actions_bar);
-const settings = model.settings_config;
-const form = await this.env.smart_view.render_settings(settings, {
-scope: model
-});
-container.appendChild(form);
-const test_btn = container.createEl("button", { text: "Test model" });
-const test_results_el = container.createDiv({ cls: "model-test-container" });
-test_btn.addEventListener("click", async () => {
-await this.run_test(test_results_el, model);
-});
-if (this.params.test_on_open) {
-await this.run_test(test_results_el, model);
-}
-}
-async run_test(test_results_el, model) {
-test_results_el.empty();
-const test_result_el = test_results_el.createEl("pre", { cls: "model-test-result", text: "Testing..." });
-test_results_el.appendChild(test_result_el);
-const test_result = await model.test_model();
-test_result_el.textContent = JSON.stringify(test_result, null, 2);
-}
-};
-
 var env_model_default2 = '.model-settings .model-info {\r\n  border-radius: var(--radius-m);\r\n  padding: 1rem;\r\n  margin-bottom: 1rem;\r\n  background-color: var(--background-secondary);\r\n  pre {\r\n    margin: 0;\r\n    font-size: 0.9rem;\r\n  }\r\n  .test-result-icon {\r\n    vertical-align: middle;\r\n    margin-left: 0.5rem;\r\n  }\r\n  .test-result-icon[data-icon="square-check-big"]{\r\n    color: var(--color-green);\r\n  }\r\n  .test-result-icon[data-icon="circle-x"]{\r\n    color: var(--color-red);\r\n  }\r\n}\r\n\r\n.smart-model-modal{\r\n   pre, .model-note {\r\n    user-select: text;\r\n  }\r\n}';
 
-var import_obsidian70 = require("obsidian");
-function build_html40(model, params) {
+var import_obsidian71 = require("obsidian");
+function build_html41(model, params) {
 const details = [
 `Provider: ${model.data.provider_key}`,
 `Model: ${model.data.model_key || "**MISSING - EDIT & SELECT MODEL**"}`
@@ -49697,20 +50324,20 @@ return `<div class="model-info">
 <pre>${details.join("\n")}</pre>
 </div>`;
 }
-__name(build_html40, "build_html");
-async function render40(model, params) {
+__name(build_html41, "build_html");
+async function render41(model, params) {
 this.apply_style_sheet(env_model_default2);
-const frag = this.create_doc_fragment(build_html40.call(this, model, params));
+const frag = this.create_doc_fragment(build_html41.call(this, model, params));
 const container = frag.firstElementChild;
-post_process37.call(this, model, container, params);
+post_process38.call(this, model, container, params);
 return container;
 }
-__name(render40, "render");
-async function post_process37(model, container, params) {
+__name(render41, "render");
+async function post_process38(model, container, params) {
 const edit_btn = container.querySelector(".edit-model");
 const test_btn = container.querySelector(".test-model");
 const icon_el = container.querySelector(".test-result-icon");
-(0, import_obsidian70.setIcon)(icon_el, get_test_result_icon_name2(model));
+(0, import_obsidian71.setIcon)(icon_el, get_test_result_icon_name2(model));
 edit_btn.addEventListener("click", () => {
 new SmartModelModal2(model).open();
 });
@@ -49719,7 +50346,7 @@ new SmartModelModal2(model, { test_on_open: true }).open();
 });
 return container;
 }
-__name(post_process37, "post_process");
+__name(post_process38, "post_process");
 function get_test_result_icon_name2(model) {
 switch (model.data.test_passed) {
 case true:
@@ -49731,180 +50358,6 @@ return "square";
 }
 }
 __name(get_test_result_icon_name2, "get_test_result_icon_name");
-
-var import_obsidian71 = require("obsidian");
-
-var provider_options2 = {
-chat_completion_models: [
-{
-label: "Open Router (cloud)",
-value: "open_router"
-},
-{
-label: "PRO: LM Studio (local, requires LM Studio app)",
-value: "lm_studio",
-disabled: true
-},
-{
-label: "PRO: Ollama (local, requires Ollama app)",
-value: "ollama",
-disabled: true
-},
-{
-label: "PRO: OpenAI (cloud)",
-value: "openai",
-disabled: true
-},
-{
-label: "PRO: Google Gemini (cloud)",
-value: "google",
-disabled: true
-},
-{
-label: "PRO: Cohere (cloud)",
-value: "cohere",
-disabled: true
-},
-{
-label: "PRO: xAI Grok (cloud)",
-value: "xai",
-disabled: true
-},
-{
-label: "PRO: Anthropic Claude (cloud)",
-value: "anthropic",
-disabled: true
-},
-{
-label: "PRO: Deepseek (cloud)",
-value: "deepseek",
-disabled: true
-},
-{
-label: "PRO: Azure OpenAI (cloud)",
-value: "azure",
-disabled: true
-}
-],
-embedding_models: [
-{
-label: "Transformers (easy, local, built-in)",
-value: "transformers"
-},
-{
-label: "PRO: LM Studio (local, requires LM Studio app)",
-value: "lm_studio",
-disabled: true
-},
-{
-label: "PRO: Ollama (local, requires Ollama app)",
-value: "ollama",
-disabled: true
-},
-{
-label: "PRO: OpenAI (cloud)",
-value: "openai",
-disabled: true
-},
-{
-label: "PRO: Google Gemini (cloud)",
-value: "gemini",
-disabled: true
-},
-{
-label: "PRO: Open Router (cloud)",
-value: "open_router",
-disabled: true
-}
-],
-ranking_models: [
-{
-label: "PRO: Cohere (cloud)",
-value: "cohere",
-disabled: true
-}
-]
-};
-
-function show_new_model_menu2(models_collection, event, params = {}) {
-const providers = (provider_options2[models_collection.collection_key] || []).map((p) => ({ ...p, disabled: !models_collection.env_config.providers[p.value] }));
-if (providers.length === 0) {
-if (event.target.tagName.toLowerCase() === "button") {
-event.target.disabled = true;
-event.title = "No providers available to create new models.";
-}
-} else {
-const menu = new import_obsidian71.Menu();
-providers.forEach((provider) => {
-menu.addItem((item) => {
-item.setTitle(provider.label);
-if (provider.disabled) {
-item.setDisabled(true);
-}
-item.onClick(async () => {
-if (typeof params.on_before_new === "function") {
-await params.on_before_new();
-}
-const model = models_collection.new_model({ provider_key: provider.value });
-const on_new_close = /* @__PURE__ */ __name(async () => {
-}, "on_new_close");
-new SmartModelModal2(model, { on_close: on_new_close }).open();
-});
-});
-});
-menu.showAtMouseEvent(event);
-}
-}
-__name(show_new_model_menu2, "show_new_model_menu");
-
-function build_html41(models_collection, params) {
-return `<div class="model-settings" data-model-type="${models_collection.collection_key}">
-<div class="global-settings"></div>
-</div>`;
-}
-__name(build_html41, "build_html");
-async function render41(models_collection, params) {
-const frag = this.create_doc_fragment(build_html41.call(this, models_collection, params));
-const container = frag.firstElementChild;
-post_process38.call(this, models_collection, container, params);
-return container;
-}
-__name(render41, "render");
-async function post_process38(models_collection, container, params) {
-const disposers = [];
-const render_current_model_info = /* @__PURE__ */ __name(async (current_model) => {
-this.empty(container);
-const [settings_group] = render_settings_config2(
-models_collection.env_config.settings_config,
-models_collection,
-container,
-{
-default_group_name: `${models_collection.model_type} models`,
-heading_btn: {
-btn_text: "+ New",
-callback: /* @__PURE__ */ __name((event, setting) => {
-show_new_model_menu2(models_collection, event);
-}, "callback")
-}
-}
-);
-models_collection.env.smart_components.render_component("settings_env_model", current_model, {}).then((model_info_el) => {
-settings_group.listEl.appendChild(model_info_el);
-});
-}, "render_current_model_info");
-render_current_model_info(models_collection.default);
-disposers.push(models_collection.on_event("settings:changed", async (payload) => {
-const default_setting_path = `${models_collection.collection_key}.default_model_key`;
-if (payload.path_string === default_setting_path) {
-await render_current_model_info(models_collection.default);
-}
-}));
-disposers.push(models_collection.on_event("model:changed", async () => {
-await render_current_model_info(models_collection.default);
-}));
-this.attach_disposer(container, disposers);
-}
-__name(post_process38, "post_process");
 
 function build_html42(env, params) {
 const models_collections = [
@@ -50779,8 +51232,8 @@ __name(get_notification_event_count2, "get_notification_event_count");
 function get_status_bar_state2(env) {
 const embed_queue_count = Object.keys(env?.smart_sources?.sources_re_import_queue || {}).length;
 const notification_count = get_notification_event_count2(env?.event_logs);
-const version3 = env?.is_pro ? "Pro" : env?.constructor?.version;
-let message = `Smart Env${version3 ? " " + version3 : ""}`;
+const version4 = env?.is_pro ? "Pro" : env?.constructor?.version;
+let message = `Smart Env${version4 ? " " + version4 : ""}`;
 let title = "Smart Environment status";
 let indicator_level = null;
 if (embed_queue_count > 0) {
@@ -51216,7 +51669,13 @@ group: "Item templates",
 type: "dropdown",
 name: "Select template",
 description: "Wraps each context item with a pre-configured template.",
-options_callback: /* @__PURE__ */ __name(() => get_template_preset_options2(), "options_callback")
+options_callback: /* @__PURE__ */ __name(() => get_template_preset_options2(), "options_callback"),
+callback(template_value) {
+const is_pro = this?.env?.is_pro;
+if (!is_pro) return;
+if (template_value !== "custom") return;
+this.emit_event("context_item:custom_template_set");
+}
 },
 template_before: {
 group: "Item templates",
@@ -51365,7 +51824,13 @@ type: "dropdown",
 group: "Context templates",
 name: "Select template",
 description: "Wraps the full context with a pre-configured template.",
-options_callback: /* @__PURE__ */ __name(() => get_template_preset_options2(), "options_callback")
+options_callback: /* @__PURE__ */ __name(() => get_template_preset_options2(), "options_callback"),
+callback(template_value) {
+const is_pro = this?.env?.is_pro;
+if (!is_pro) return;
+if (template_value !== "custom") return;
+this.emit_event("context:custom_template_set");
+}
 },
 template_before: {
 type: "textarea",
@@ -51641,19 +52106,19 @@ lookup_list: { class: LookupList2 }
 },
 modules: {},
 components: {
-collection_settings: { render: render31 },
-context_item_leaf: { render: render32 },
-env_stats: { render: render33 },
-form_dropdown: { render: render34 },
-lean_coffee_callout: { render: render35 },
-milestones: { render: render36 },
-notifications_feed: { render: render37 },
-pro_plugins_list: { render: render38 },
-pro_plugins_list_item: { render: render39 },
-settings_env_model: { render: render40 },
-settings_env_model_type: { render: render41 },
+collection_settings: { render: render32 },
+context_item_leaf: { render: render33 },
+env_stats: { render: render34 },
+form_dropdown: { render: render35 },
+lean_coffee_callout: { render: render36 },
+milestones: { render: render37 },
+notifications_feed: { render: render38 },
+pro_plugins_list: { render: render39 },
+pro_plugins_list_item: { render: render40 },
+settings_env_model: { render: render41 },
+settings_env_model_type: { render: render27 },
 settings_env_models: { render: render42 },
-settings_env_sources: { render: render27 },
+settings_env_sources: { render: render28 },
 settings_model_actions: { render: render43 },
 settings_notifications: { render: render44 },
 settings_smart_env: { render: render45 },
@@ -51790,6 +52255,31 @@ merge_env_config2(smart_env_config5, smart_env_config4);
 var default_config_default2 = smart_env_config5;
 
 var import_obsidian85 = require("obsidian");
+var svg_wrap_242 = /* @__PURE__ */ __name((inner_svg) => {
+return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${inner_svg}</svg>`;
+}, "svg_wrap_24");
+var smart_copy_note_svg2 = svg_wrap_242(`
+<rect x="9" y="7" width="12" height="14" rx="2"></rect>
+<path d="M5 17H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v2"></path>
+<path d="M12 11h6"></path>
+<path d="M12 14h6"></path>
+<path d="M12 17h4"></path>
+`);
+var smart_context_builder_svg2 = svg_wrap_242(`
+<rect x="3" y="4" width="12" height="16" rx="2"></rect>
+<path d="M6 8h6"></path>
+<path d="M6 12h6"></path>
+<path d="M6 16h4"></path>
+<path d="M19 10v4"></path>
+<path d="M17 12h4"></path>
+`);
+var smart_inline_connections_svg2 = svg_wrap_242(`
+<path d="M4 6h16"></path>
+<path d="M4 18h16"></path>
+<circle cx="12" cy="12" r="3"></circle>
+<circle cx="7" cy="12" r="1" fill="currentColor" stroke="none"></circle>
+<circle cx="17" cy="12" r="1" fill="currentColor" stroke="none"></circle>
+`);
 function add_smart_chat_icon2() {
 (0, import_obsidian85.addIcon)("smart-chat", `<defs>
 <symbol id="smart-chat-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
@@ -51834,6 +52324,36 @@ function add_smart_lookup_icon2() {
 <use href="#smart-lookup-icon" />`);
 }
 __name(add_smart_lookup_icon2, "add_smart_lookup_icon");
+function add_smart_copy_context_icon2() {
+(0, import_obsidian85.addIcon)("smart-copy-note", smart_copy_note_svg2);
+}
+__name(add_smart_copy_context_icon2, "add_smart_copy_context_icon");
+function add_smart_context_icon2() {
+(0, import_obsidian85.addIcon)("smart-context-builder", smart_context_builder_svg2);
+}
+__name(add_smart_context_icon2, "add_smart_context_icon");
+function add_inline_connections_icon2() {
+(0, import_obsidian85.addIcon)("smart-inline-connections", smart_inline_connections_svg2);
+}
+__name(add_inline_connections_icon2, "add_inline_connections_icon");
+var smart_footer_connections_svg2 = svg_wrap_242(`
+<path d="M4 6h16"></path>
+<path d="M4 12h16"></path>
+<circle cx="12" cy="18" r="3"></circle>
+<circle cx="7" cy="18" r="1" fill="currentColor" stroke="none"></circle>
+<circle cx="17" cy="18" r="1" fill="currentColor" stroke="none"></circle>
+`);
+function add_footer_connections_icon2() {
+(0, import_obsidian85.addIcon)("smart-footer-connections", smart_footer_connections_svg2);
+}
+__name(add_footer_connections_icon2, "add_footer_connections_icon");
+function add_smart_icons2() {
+add_smart_copy_context_icon2();
+add_smart_context_icon2();
+add_inline_connections_icon2();
+add_footer_connections_icon2();
+}
+__name(add_smart_icons2, "add_smart_icons");
 
 var import_obsidian86 = require("obsidian");
 
@@ -52371,6 +52891,7 @@ env_config.version = this.version;
 add_smart_chat_icon2();
 add_smart_connections_icon2();
 add_smart_lookup_icon2();
+add_smart_icons2();
 if (window.smart_env && !window.smart_env.constructor.version) {
 const update_notice = "Detected ancient SmartEnv. Removing it to prevent issues with new plugins. Make sure your Smart Plugins are up-to-date!";
 console.warn(update_notice);
@@ -56667,6 +57188,207 @@ class: XaiChatCompletionModelAdapter,
 settings_config: settings_config39
 };
 
+function join_url(base_url, path) {
+const normalized_base_url = String(base_url || "").trim().replace(/\/+$/, "");
+let normalized_path = String(path || "").trim();
+if (!normalized_path.startsWith("/")) normalized_path = `/${normalized_path}`;
+return `${normalized_base_url}${normalized_path}`;
+}
+__name(join_url, "join_url");
+var SmartChatModelLiteLLMRequestAdapter = class extends SmartChatModelRequestAdapter2 {
+static {
+__name(this, "SmartChatModelLiteLLMRequestAdapter");
+}
+get_headers() {
+const headers = super.get_headers();
+const header_name = (this.adapter.model.data.litellm_key_header_name || "").trim();
+if (header_name && this.adapter.api_key) {
+headers[header_name] = `${this.adapter.api_key}`;
+}
+return headers;
+}
+};
+var LiteLllmChatCompletionAdapter = class extends SmartChatModelApiAdapter2 {
+static {
+__name(this, "LiteLllmChatCompletionAdapter");
+}
+static key = "litellm";
+static defaults = {
+description: "LiteLLM Proxy (OpenAI-compatible)",
+type: "API",
+adapter: "LiteLLM_Proxy",
+streaming: true,
+endpoint: "/chat/completions",
+models_endpoint: "/models",
+default_model: "",
+signup_url: "https://docs.litellm.ai/docs/"
+};
+get req_adapter() {
+return SmartChatModelLiteLLMRequestAdapter;
+}
+get res_adapter() {
+return SmartChatModelResponseAdapter2;
+}
+get host() {
+const host = this.model.data.host || this.constructor.defaults.host;
+return host;
+}
+get endpoint() {
+return join_url(this.host, this.constructor.defaults.endpoint);
+}
+get endpoint_streaming() {
+return this.endpoint;
+}
+get models_endpoint() {
+return join_url(this.host, this.constructor.defaults.models_endpoint);
+}
+get models_endpoint_method() {
+return "GET";
+}
+/**
+* Optional: support LiteLLM deployments configured to accept the key
+* in a custom header (litellm_key_header_name).
+* When set, we send the same value used for Authorization.
+*
+* @returns {string}
+*/
+get litellm_key_header_name() {
+return (this.model.data.litellm_key_header_name || "").trim();
+}
+/**
+* Override model-list request params to include optional custom key header.
+*/
+get models_request_params() {
+const headers = {};
+if (this.api_key) {
+headers["Authorization"] = `Bearer ${this.api_key}`;
+if (this.litellm_key_header_name) {
+headers[this.litellm_key_header_name] = `Bearer ${this.api_key}`;
+}
+}
+return {
+url: this.models_endpoint,
+method: this.models_endpoint_method,
+...Object.keys(headers).length ? { headers } : {}
+};
+}
+/**
+* Get available models from the API.
+* @param {boolean} [refresh=false] - Whether to refresh cached models
+* @returns {Promise<Object>} Map of model objects
+*/
+async get_models(refresh = false) {
+if (!refresh && this.valid_model_data()) return this.model_data;
+let response;
+try {
+response = await this.http_adapter.request(this.models_request_params);
+this.model_data = this.parse_model_data(await response.json());
+} catch (error) {
+console.error("Failed to fetch model data:", { error, response });
+}
+this.model_data = await this.get_enriched_model_data();
+this.model_data_loaded_at = Date.now();
+if (this.model.data) {
+this.model.data.provider_models = this.model_data;
+}
+if (this.valid_model_data() && typeof this.model.re_render_settings === "function") setTimeout(() => {
+this.model.re_render_settings();
+}, 100);
+else console.warn("Invalid model data, not re-rendering settings");
+return this.model_data;
+}
+/**
+* LiteLLM proxy usually returns OpenAI-style:
+* { data: [ { id, object, created, owned_by }, ... ] }
+*
+* @param {Object} model_data
+* @returns {Object<string, Object>}
+*/
+parse_model_data(model_data = {}) {
+console.log("LiteLLM parse_model_data", model_data);
+const list = Array.isArray(model_data?.data) ? model_data.data : Array.isArray(model_data?.models) ? model_data.models : Array.isArray(model_data) ? model_data : [];
+if (!Array.isArray(list) || list.length === 0) {
+return { _: { id: "No models found." } };
+}
+const parsed = {};
+for (const m of list) {
+const id = m?.id || m?.model || m?.name;
+if (!id) continue;
+const maybe_context = m?.context_length || m?.context_window || m?.max_input_tokens;
+const maybe_multimodal = Boolean(m?.multimodal) || String(id).includes("vision") || String(id).includes("multimodal");
+parsed[id] = {
+id,
+model_name: id,
+name: m?.name || id,
+description: m?.description || `LiteLLM model: ${id}`,
+...typeof maybe_context === "number" ? { max_input_tokens: maybe_context } : {},
+multimodal: maybe_multimodal,
+raw: m
+};
+}
+if (!Object.keys(parsed).length) {
+return { _: { id: "No models found." } };
+}
+return parsed;
+}
+/**
+* No dedicated token endpoint; rough estimate.
+* @param {string|Object} input
+* @returns {Promise<number>}
+*/
+async count_tokens(input) {
+const text = typeof input === "string" ? input : JSON.stringify(input || {});
+return Math.ceil(text.length / 4);
+}
+/**
+* Attempt to validate connectivity/auth by listing models.
+* @returns {Promise<boolean>}
+*/
+async test_api_key() {
+try {
+const models = await this.get_models(true);
+return Boolean(models && typeof models === "object" && Object.keys(models).length);
+} catch {
+return false;
+}
+}
+get http_adapter() {
+if (!this._http_adapter) {
+const HttpClass = this.model.env.config.modules.http_adapter.class;
+const http_params = { ...this.model.env.config.modules.http_adapter, class: void 0 };
+this._http_adapter = new HttpClass(http_params);
+}
+return this._http_adapter;
+}
+};
+var settings_config40 = {
+api_key: {
+name: "API Key",
+type: "password",
+description: "Enter your API key (if your proxy requires auth).",
+placeholder: "Enter LiteLLM key"
+},
+host: {
+name: "LiteLLM base URL",
+type: "text",
+description: "Base URL for LiteLLM Proxy (ex: http://localhost:4000  OR  https://your-proxy.example.com/v1)"
+},
+litellm_key_header_name: {
+name: "API key header name",
+type: "text",
+description: "Optional. The adapter will send API key in that header."
+},
+litellm_note: {
+name: "Note about LiteLLM endpoints",
+type: "html",
+value: '<p class="model-note">This is an expert-level integration. For example, Lite LLM requires managing a proxy API.<br><b>Base URL:</b> If no models in list after changing base URL, close this dialog and reopen it with the "Edit" button on the settings page.</p>'
+}
+};
+var litellm_default = {
+class: LiteLllmChatCompletionAdapter,
+settings_config: settings_config40
+};
+
 var smart_env_config6 = {
 collections: {
 embedding_models: {
@@ -56690,7 +57412,8 @@ lm_studio: lm_studio_default2,
 ollama: ollama_default2,
 open_router: open_router_default,
 openai: openai_default2,
-xai: xai_default
+xai: xai_default,
+litellm: litellm_default
 }
 }
 },
@@ -56833,8 +57556,8 @@ url: `https://api.github.com/repos/${plugin.core_repo}/releases/latest`,
 method: "GET"
 });
 const parsed = resp?.json || {};
-const version3 = parsed?.tag_name || null;
-if (!version3) {
+const version4 = parsed?.tag_name || null;
+if (!version4) {
 console.error("[smart_plugins] Failed to get latest core plugin version from GitHub:", {
 core_repo: plugin.core_repo,
 response: resp
@@ -56936,7 +57659,7 @@ var SmartEnv5 = class _SmartEnv extends SmartEnv4 {
 static {
 __name(this, "SmartEnv");
 }
-static version = "2.3.12";
+static version = "2.3.13";
 is_pro = true;
 async load(force_load = false) {
 await super.load(force_load);
@@ -56953,7 +57676,7 @@ update_installed_smart_plugins(this);
 });
 }
 };
-var version = SmartEnv5.version;
+var version2 = SmartEnv5.version;
 
 var smart_env_config7 = merge_env_config2(smart_env_config3, smart_env_config6);
 
@@ -59613,7 +60336,7 @@ if (!module2 || typeof module2 !== "object") throw new Error("Smart Action modul
 if (!action_key) throw new Error("Smart Action module requires an action_key.");
 const description = module2.description || module2.tool?.function?.description || "";
 const instruction = module2.instruction || "";
-const settings_config40 = module2.settings_config || {};
+const settings_config41 = module2.settings_config || {};
 const descriptor = module2.descriptor || module2.mcp_descriptor || module2.mcp_tool_descriptor || null;
 let input_schema = normalize_schema(module2.input_schema);
 let tool2 = module2.tool;
@@ -59650,7 +60373,7 @@ description,
 instruction,
 input_schema,
 output_schema: module2.output_schema || null,
-settings_config: settings_config40,
+settings_config: settings_config41,
 descriptor,
 tool: normalized_tool
 };
@@ -61273,7 +61996,31 @@ smart_completions_default_config.completion_adapters.ChatThreadCompletionAdapter
 smart_completions_default_config.completion_adapters.SequenceCompletionAdapter = SequenceCompletionAdapter;
 smart_completions_default_config.completion_adapters.SmartActionsCompletionAdapter = SmartActionsCompletionAdapter;
 smart_completions_default_config.class.version = 0.3;
+smart_completions_default_config.item_type.prototype.queue_save = function() {
+this.data.completion.request = replace_long_strings(this.data?.completion?.request || {}, 1e4, () => "[TRUNCATED]");
+this._queue_save = true;
+};
 var smart_completions_default = smart_completions_default_config;
+function replace_long_strings(value, max_length = 1e4, replacer) {
+if (typeof value === "string") {
+return value.length > max_length ? replacer(value) : value;
+}
+if (Array.isArray(value)) {
+return value.map(
+(item) => replace_long_strings(item, max_length, replacer)
+);
+}
+if (value !== null && typeof value === "object") {
+return Object.fromEntries(
+Object.entries(value).map(([key, val]) => [
+key,
+replace_long_strings(val, max_length, replacer)
+])
+);
+}
+return value;
+}
+__name(replace_long_strings, "replace_long_strings");
 
 function build_html55(chat_thread) {
 const name = (chat_thread?.name || chat_thread?.data?.name || "").trim();
@@ -62521,20 +63268,53 @@ __name(post_process57, "post_process");
 
 var import_obsidian98 = require("obsidian");
 
+function resolve_name_status(ctx, params = {}) {
+const input_value = String(params.input_value ?? "");
+const stored_name = String(ctx?.data?.name ?? "");
+const trimmed_input = input_value.trim();
+const trimmed_name = stored_name.trim();
+const is_saved = trimmed_name.length > 0 && trimmed_input === trimmed_name;
+return {
+is_saved,
+label: is_saved ? "Saved" : ""
+};
+}
+__name(resolve_name_status, "resolve_name_status");
+
 function render_name_input(ctx, container) {
+const name_wrapper = document.createElement("div");
+name_wrapper.className = "sc-context-name-wrapper";
+name_wrapper.style.display = "flex";
+name_wrapper.style.alignItems = "center";
+name_wrapper.style.gap = "var(--size-4-2)";
+container.appendChild(name_wrapper);
 const name_input = document.createElement("input");
 name_input.type = "text";
 name_input.className = "sc-context-name-input";
 name_input.placeholder = "Context name\u2026";
 name_input.setAttribute("aria-label", "Context name");
-container.appendChild(name_input);
+name_wrapper.appendChild(name_input);
+const status_span = document.createElement("span");
+status_span.className = "sc-context-name-status";
+status_span.setAttribute("aria-label", "Context saved status");
+status_span.setAttribute("aria-live", "polite");
+status_span.hidden = true;
+name_wrapper.appendChild(status_span);
+const update_name_status = /* @__PURE__ */ __name(() => {
+const status = resolve_name_status(ctx, { input_value: name_input.value });
+status_span.textContent = status.label;
+status_span.hidden = !status.label;
+status_span.dataset.state = status.is_saved ? "saved" : "idle";
+}, "update_name_status");
 const refresh_name = /* @__PURE__ */ __name(() => {
 name_input.value = ctx?.data?.name ? String(ctx.data.name) : "";
+update_name_status();
 }, "refresh_name");
 const save_name = /* @__PURE__ */ __name(() => {
 const next = sanitize_context_name(name_input.value);
 if (next === (ctx.data.name || "")) return;
 ctx.name = next;
+update_name_status();
 }, "save_name");
 refresh_name();
 name_input.addEventListener("keydown", (e) => {
@@ -62549,6 +63329,7 @@ name_input.blur();
 }
 });
 name_input.addEventListener("blur", () => save_name());
+name_input.addEventListener("input", () => update_name_status());
 function sanitize_context_name(name) {
 const str = String(name ?? "").trim();
 if (!str) return "";
@@ -62600,7 +63381,7 @@ this.attach_disposer(container, disposers);
 return container;
 }
 __name(post_process58, "post_process");
-var version2 = "3.0.0";
+var version3 = "3.0.0";
 function render_named_ctx_btn(ctx, container) {
 const named_ctx_btn = document.createElement("button");
 named_ctx_btn.type = "button";
@@ -64213,7 +64994,7 @@ completion_action_selector: { render: render58 },
 completion_completed: { render: render59 },
 completion_confirm_delete: { render: render60 },
 completion_confirm_send_without_context: { render: render61 },
-completion_context_actions: { render: render62, version: version2 },
+completion_context_actions: { render: render62, version: version3 },
 completion_context_included: { render: render63 },
 completion_context_item: { render: render64 },
 completion_context_selector: { render: render65 },

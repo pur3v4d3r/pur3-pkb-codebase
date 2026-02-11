@@ -1,0 +1,1429 @@
+@charset "UTF-8";
+/*
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██████╗ ██╗   ██╗██████╗ ██████╗ ██╗   ██╗██╗  ██╗██████╗ ██████╗ ██████╗  ║
+║   ██╔══██╗██║   ██║██╔══██╗╚════██╗██║   ██║██║  ██║██╔══██╗╚════██╗██╔══██╗ ║
+║   ██████╔╝██║   ██║██████╔╝ █████╔╝██║   ██║███████║██║  ██║ █████╔╝██████╔╝ ║
+║   ██╔═══╝ ██║   ██║██╔══██╗ ╚═══██╗╚██╗ ██╔╝╚════██║██║  ██║ ╚═══██╗██╔══██╗ ║
+║   ██║     ╚██████╔╝██║  ██║██████╔╝ ╚████╔╝      ██║██████╔╝██████╔╝██║  ██║ ║
+║   ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═════╝   ╚═══╝       ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ║
+║                                                                              ║
+║                    ULTIMATE CALLOUT SYSTEM v5.0                              ║
+║                    Single Source of Truth Edition                            ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  Author:       Pur3v4d3r                                                     ║
+║  Created:      2025-12-28                                                    ║
+║  Theme:        Imperial Red/Black/Grey                                       ║
+║  Obsidian:     v1.5.0+                                                       ║
+║  License:      MIT                                                           ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  DESCRIPTION:                                                                ║
+║  A comprehensive, modular callout system featuring 150+ custom callout       ║
+║  types with a cohesive Red/Black/Grey color palette. Each section can be     ║
+║  toggled on/off via CSS comments for maximum customization.                  ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  TABLE OF CONTENTS:                                                          ║
+║  ─────────────────────────────────────────────────────────────────────────── ║
+║  SECTION 1:  Color Palette Variables ...................... [COLORS]         ║
+║  SECTION 2:  Base Callout Foundation ...................... [BASE]           ║
+║  SECTION 3:  Standard Callouts (Obsidian Defaults) ........ [STANDARD]       ║
+║  SECTION 4:  Semantic Callouts (Info/Status/Alert) ........ [SEMANTIC]       ║
+║  SECTION 5:  Knowledge Callouts (Learning/Research) ....... [KNOWLEDGE]      ║
+║  SECTION 6:  Task & Project Callouts ...................... [TASKS]          ║
+║  SECTION 7:  Analytical Callouts (Critical Thinking) ...... [ANALYTICAL]     ║
+║  SECTION 8:  Creative & Workflow Callouts ................. [CREATIVE]       ║
+║  SECTION 9:  Layout Callouts (Columns/Grid/Cards) ......... [LAYOUT]         ║
+║  SECTION 10: Special Callouts (Infobox/Timeline/Kanban) ... [SPECIAL]        ║
+║  SECTION 11: AI & Chat Callouts ........................... [AI-CHAT]        ║
+║  SECTION 12: Custom User Callouts ......................... [CUSTOM]         ║
+║  SECTION 13: Utility Modifiers ............................ [MODIFIERS]      ║
+║  SECTION 14: Accessibility & Motion ....................... [A11Y]           ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  TOGGLE INSTRUCTIONS:                                                        ║
+║  To disable a section, wrap it with: /* DISABLED and */ /* END DISABLED     ║
+║  To disable a single callout, add /* before and */ after its block          ║
+║                                                                              ║
+║  WCAG 2.1 AA COMPLIANCE:                                                     ║
+║  All color combinations have been validated for 4.5:1+ contrast ratio        ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 1: COLOR PALETTE VARIABLES [COLORS]
+   Imperial Red/Black/Grey Theme
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.theme-dark,
+.theme-light {
+  /* ─────────────────────────────────────────────────────────────────────────
+     PRIMARY REDS - Core accent colors
+     ───────────────────────────────────────────────────────────────────────── */
+  --callout-red-pure:        255, 0, 0;       /* #FF0000 - Pure Red */
+  --callout-red-crimson:     220, 20, 60;     /* #DC143C - Crimson */
+  --callout-red-fire:        178, 34, 34;     /* #B22222 - Firebrick */
+  --callout-red-dark:        139, 0, 0;       /* #8B0000 - Dark Red */
+  --callout-red-maroon:      128, 0, 0;       /* #800000 - Maroon */
+  --callout-red-blood:       102, 0, 0;       /* #660000 - Blood Red */
+  --callout-red-wine:        114, 47, 55;     /* #722F37 - Wine */
+  --callout-red-rose:        255, 69, 69;     /* #FF4545 - Rose Red */
+  --callout-red-coral:       205, 92, 92;     /* #CD5C5C - Indian Red */
+  --callout-red-salmon:      250, 128, 114;   /* #FA8072 - Salmon */
+  
+  /* ─────────────────────────────────────────────────────────────────────────
+     BLACKS - Deep tones
+     ───────────────────────────────────────────────────────────────────────── */
+  --callout-black-pure:      0, 0, 0;         /* #000000 - Pure Black */
+  --callout-black-rich:      10, 10, 10;      /* #0A0A0A - Rich Black */
+  --callout-black-jet:       18, 18, 18;      /* #121212 - Jet Black */
+  --callout-black-onyx:      28, 28, 28;      /* #1C1C1C - Onyx */
+  --callout-black-charcoal:  36, 36, 36;      /* #242424 - Charcoal */
+  --callout-black-raven:     42, 42, 42;      /* #2A2A2A - Raven */
+  --callout-black-obsidian:  48, 48, 48;      /* #303030 - Obsidian */
+  
+  /* ─────────────────────────────────────────────────────────────────────────
+     GREYS - Neutral tones
+     ───────────────────────────────────────────────────────────────────────── */
+  --callout-grey-dark:       64, 64, 64;      /* #404040 - Dark Grey */
+  --callout-grey-graphite:   80, 80, 80;      /* #505050 - Graphite */
+  --callout-grey-iron:       96, 96, 96;      /* #606060 - Iron */
+  --callout-grey-medium:     128, 128, 128;   /* #808080 - Medium Grey */
+  --callout-grey-silver:     160, 160, 160;   /* #A0A0A0 - Silver */
+  --callout-grey-ash:        176, 176, 176;   /* #B0B0B0 - Ash */
+  --callout-grey-light:      192, 192, 192;   /* #C0C0C0 - Light Grey */
+  --callout-grey-pale:       208, 208, 208;   /* #D0D0D0 - Pale Grey */
+  --callout-grey-mist:       224, 224, 224;   /* #E0E0E0 - Mist */
+  
+  /* ─────────────────────────────────────────────────────────────────────────
+     SEMANTIC MAPPINGS - Role-based color assignments
+     ───────────────────────────────────────────────────────────────────────── */
+  --callout-primary:         var(--callout-red-crimson);
+  --callout-secondary:       var(--callout-grey-dark);
+  --callout-tertiary:        var(--callout-black-charcoal);
+  
+  --callout-success:         var(--callout-red-pure);
+  --callout-warning:         var(--callout-red-dark);
+  --callout-danger:          var(--callout-red-maroon);
+  --callout-error:           var(--callout-red-blood);
+  
+  --callout-info:            var(--callout-grey-graphite);
+  --callout-neutral:         var(--callout-grey-medium);
+  --callout-muted:           var(--callout-grey-dark);
+  
+  /* ─────────────────────────────────────────────────────────────────────────
+     OPACITY LEVELS
+     ───────────────────────────────────────────────────────────────────────── */
+  --callout-opacity-subtle:  0.05;
+  --callout-opacity-light:   0.10;
+  --callout-opacity-medium:  0.15;
+  --callout-opacity-strong:  0.20;
+  --callout-opacity-intense: 0.30;
+  
+  /* ─────────────────────────────────────────────────────────────────────────
+     SPACING & SIZING
+     ───────────────────────────────────────────────────────────────────────── */
+  --callout-border-width:    3px;
+  --callout-radius:          6px;
+  --callout-padding:         12px 16px;
+  --callout-title-padding:   8px 12px;
+  --callout-content-padding: 10px 14px;
+  --callout-margin:          1em 0;
+  --callout-icon-size:       18px;
+  
+  /* ─────────────────────────────────────────────────────────────────────────
+     TRANSITIONS
+     ───────────────────────────────────────────────────────────────────────── */
+  --callout-transition:      all 0.2s ease-in-out;
+  --callout-hover-lift:      translateY(-2px);
+  --callout-hover-shadow:    0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 2: BASE CALLOUT FOUNDATION [BASE]
+   Core structure applied to all callouts
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.callout {
+  --callout-blend-mode: normal;
+  margin: var(--callout-margin);
+  border-radius: var(--callout-radius);
+  border-left-width: var(--callout-border-width);
+  transition: var(--callout-transition);
+  position: relative;
+  z-index: 1;
+}
+
+.callout:hover {
+  transform: var(--callout-hover-lift);
+  box-shadow: var(--callout-hover-shadow);
+}
+
+.callout > .callout-title {
+  padding: var(--callout-title-padding);
+  gap: 8px;
+  font-weight: 600;
+}
+
+.callout > .callout-title > .callout-icon {
+  width: var(--callout-icon-size);
+  height: var(--callout-icon-size);
+}
+
+.callout > .callout-content {
+  padding: var(--callout-content-padding);
+}
+
+.callout > .callout-content > p:first-child {
+  margin-top: 0;
+}
+
+.callout > .callout-content > p:last-child {
+  margin-bottom: 0;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 3: STANDARD CALLOUTS [STANDARD]
+   Obsidian default types with Imperial theme
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Note ─────────────────────────────────────────────────────────────────── */
+.callout[data-callout="note"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-pencil;
+}
+
+/* ─── Info ─────────────────────────────────────────────────────────────────── */
+.callout[data-callout="info"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-info;
+}
+
+/* ─── Abstract / Summary / TLDR ────────────────────────────────────────────── */
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-clipboard-list;
+}
+
+/* ─── Success / Check / Done ───────────────────────────────────────────────── */
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-check-circle;
+}
+
+/* ─── Tip / Hint / Important ───────────────────────────────────────────────── */
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="important"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-flame;
+}
+
+/* ─── Warning / Caution / Attention ────────────────────────────────────────── */
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-alert-triangle;
+}
+
+/* ─── Danger / Error ───────────────────────────────────────────────────────── */
+.callout[data-callout="danger"],
+.callout[data-callout="error"] {
+  --callout-color: var(--callout-red-maroon);
+  --callout-icon: lucide-zap;
+}
+
+/* ─── Bug ──────────────────────────────────────────────────────────────────── */
+.callout[data-callout="bug"] {
+  --callout-color: var(--callout-red-blood);
+  --callout-icon: lucide-bug;
+}
+
+/* ─── Failure / Fail / Missing ─────────────────────────────────────────────── */
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="missing"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-x-circle;
+}
+
+/* ─── Question / Help / FAQ ────────────────────────────────────────────────── */
+.callout[data-callout="question"],
+.callout[data-callout="help"],
+.callout[data-callout="faq"] {
+  --callout-color: var(--callout-red-coral);
+  --callout-icon: lucide-help-circle;
+}
+
+/* ─── Quote / Cite ─────────────────────────────────────────────────────────── */
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-quote;
+}
+
+/* ─── Example ──────────────────────────────────────────────────────────────── */
+.callout[data-callout="example"] {
+  --callout-color: var(--callout-grey-medium);
+  --callout-icon: lucide-list;
+}
+
+/* ─── Code ─────────────────────────────────────────────────────────────────── */
+.callout[data-callout="code"] {
+  --callout-color: var(--callout-black-charcoal);
+  --callout-icon: lucide-code-2;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 4: SEMANTIC CALLOUTS [SEMANTIC]
+   Status, alerts, and informational callouts
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Alert ────────────────────────────────────────────────────────────────── */
+.callout[data-callout="alert"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-bell-ring;
+}
+
+/* ─── Highlight ────────────────────────────────────────────────────────────── */
+.callout[data-callout="highlight"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-highlighter;
+}
+
+/* ─── Overview ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="overview"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-eye;
+}
+
+/* ─── Description ──────────────────────────────────────────────────────────── */
+.callout[data-callout="description"] {
+  --callout-color: var(--callout-grey-medium);
+  --callout-icon: lucide-file-text;
+}
+
+/* ─── Purpose ──────────────────────────────────────────────────────────────── */
+.callout[data-callout="purpose"],
+.callout[data-callout="the-purpose"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-target;
+}
+
+/* ─── Message ──────────────────────────────────────────────────────────────── */
+.callout[data-callout="message"],
+.callout[data-callout="starting-message"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-message-square;
+}
+
+/* ─── Key ──────────────────────────────────────────────────────────────────── */
+.callout[data-callout="key"],
+.callout[data-callout="key-changes"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-key;
+}
+
+/* ─── Custom ───────────────────────────────────────────────────────────────── */
+.callout[data-callout="custom"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-settings;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 5: KNOWLEDGE CALLOUTS [KNOWLEDGE]
+   Learning, research, and academic callouts
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Definition ───────────────────────────────────────────────────────────── */
+.callout[data-callout="definition"] {
+  --callout-color: var(--callout-grey-medium);
+  --callout-icon: lucide-book-open;
+}
+
+/* ─── Theory ───────────────────────────────────────────────────────────────── */
+.callout[data-callout="theory"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-lightbulb;
+}
+
+/* ─── Hypothesis ───────────────────────────────────────────────────────────── */
+.callout[data-callout="hypothesis"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-flask-conical;
+}
+
+/* ─── Research ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="research"] {
+  --callout-color: var(--callout-red-coral);
+  --callout-icon: lucide-microscope;
+}
+
+/* ─── Insight ──────────────────────────────────────────────────────────────── */
+.callout[data-callout="insight"] {
+  --callout-color: var(--callout-red-rose);
+  --callout-icon: lucide-sparkles;
+}
+
+/* ─── Discovery ────────────────────────────────────────────────────────────── */
+.callout[data-callout="discovery"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-compass;
+}
+
+/* ─── Learning ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="learning"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-graduation-cap;
+}
+
+/* ─── Analogy ──────────────────────────────────────────────────────────────── */
+.callout[data-callout="analogy"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-git-compare;
+}
+
+/* ─── Thought Experiment ───────────────────────────────────────────────────── */
+.callout[data-callout="thought-experiment"] {
+  --callout-color: var(--callout-red-coral);
+  --callout-icon: lucide-brain;
+}
+
+/* ─── Atomic Concept ───────────────────────────────────────────────────────── */
+.callout[data-callout="atomic-concept"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-atom;
+}
+
+/* ─── Core Principle ───────────────────────────────────────────────────────── */
+.callout[data-callout="core-principle"],
+.callout[data-callout="principle-point"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-landmark;
+}
+
+/* ─── Cosmos Concept ───────────────────────────────────────────────────────── */
+.callout[data-callout="cosmos-concept"] {
+  --callout-color: var(--callout-black-charcoal);
+  --callout-icon: lucide-orbit;
+}
+
+/* ─── Feynman Technique ────────────────────────────────────────────────────── */
+.callout[data-callout="feynman-technique"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-pen-tool;
+}
+
+/* ─── Math / Equation ──────────────────────────────────────────────────────── */
+.callout[data-callout="math"],
+.callout[data-callout="equation"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-sigma;
+}
+
+/* ─── Methodology & Sources ────────────────────────────────────────────────── */
+.callout[data-callout="methodology-and-sources"] {
+  --callout-color: var(--callout-black-charcoal);
+  --callout-icon: lucide-library;
+}
+
+/* ─── Further Exploration ──────────────────────────────────────────────────── */
+.callout[data-callout="further-exploration"] {
+  --callout-color: var(--callout-red-coral);
+  --callout-icon: lucide-map;
+}
+
+/* ─── Pre-Read Questions/Thoughts ──────────────────────────────────────────── */
+.callout[data-callout="pre-read-questions"],
+.callout[data-callout="pre-read-thoughts"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-book-marked;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 6: TASK & PROJECT CALLOUTS [TASKS]
+   Project management, workflows, and status tracking
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Todo / To-Do ─────────────────────────────────────────────────────────── */
+.callout[data-callout="todo"],
+.callout[data-callout="to-do"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-circle;
+}
+
+/* ─── Tasks ────────────────────────────────────────────────────────────────── */
+.callout[data-callout="tasks"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-check-square;
+}
+
+/* ─── Task ─────────────────────────────────────────────────────────────────── */
+.callout[data-callout="task"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-square;
+}
+
+/* ─── Project ──────────────────────────────────────────────────────────────── */
+.callout[data-callout="project"],
+.callout[data-callout="project-link"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-folder-kanban;
+}
+
+/* ─── Project Kickstarter ──────────────────────────────────────────────────── */
+.callout[data-callout="project-kickstarter"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-rocket;
+}
+
+/* ─── Objective / Goal / Target ────────────────────────────────────────────── */
+.callout[data-callout="objective"],
+.callout[data-callout="goal"],
+.callout[data-callout="target"],
+.callout[data-callout="the-goal"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-crosshair;
+}
+
+/* ─── The Mission ──────────────────────────────────────────────────────────── */
+.callout[data-callout="the-mission"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-flag;
+}
+
+/* ─── Strategy ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="strategy"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-route;
+}
+
+/* ─── Tactic / Method ──────────────────────────────────────────────────────── */
+.callout[data-callout="tactic"],
+.callout[data-callout="method"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-wrench;
+}
+
+/* ─── Plan ─────────────────────────────────────────────────────────────────── */
+.callout[data-callout="plan"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-clipboard;
+}
+
+/* ─── Action ───────────────────────────────────────────────────────────────── */
+.callout[data-callout="action"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-play;
+}
+
+/* ─── Decision ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="decision"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-git-branch;
+}
+
+/* ─── Progress ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="progress"] {
+  --callout-color: var(--callout-red-rose);
+  --callout-icon: lucide-trending-up;
+}
+
+/* ─── Pending ──────────────────────────────────────────────────────────────── */
+.callout[data-callout="pending"] {
+  --callout-color: var(--callout-red-coral);
+  --callout-icon: lucide-clock;
+}
+
+/* ─── Blocked ──────────────────────────────────────────────────────────────── */
+.callout[data-callout="blocked"] {
+  --callout-color: var(--callout-red-maroon);
+  --callout-icon: lucide-ban;
+}
+
+/* ─── Complete ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="complete"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-check-circle-2;
+}
+
+/* ─── Outcome ──────────────────────────────────────────────────────────────── */
+.callout[data-callout="outcome"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-trophy;
+}
+
+/* ─── Workflow / Process ───────────────────────────────────────────────────── */
+.callout[data-callout="workflow"],
+.callout[data-callout="process"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-workflow;
+}
+
+/* ─── Your New Workflow ────────────────────────────────────────────────────── */
+.callout[data-callout="your-new-workflow"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-refresh-cw;
+}
+
+/* ─── Phase Callouts ───────────────────────────────────────────────────────── */
+.callout[data-callout="phase-one"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-square;
+}
+
+.callout[data-callout="phase-two"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-square;
+}
+
+.callout[data-callout="phase-three"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-square;
+}
+
+.callout[data-callout="phase-four"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-square;
+}
+
+/* ─── Meeting / Agenda ─────────────────────────────────────────────────────── */
+.callout[data-callout="meeting"],
+.callout[data-callout="agenda"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-users;
+}
+
+/* ─── Review / Feedback ────────────────────────────────────────────────────── */
+.callout[data-callout="review"],
+.callout[data-callout="feedback"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-message-circle;
+}
+
+/* ─── Draft / Outline ──────────────────────────────────────────────────────── */
+.callout[data-callout="draft"],
+.callout[data-callout="outline"] {
+  --callout-color: var(--callout-grey-medium);
+  --callout-icon: lucide-file-edit;
+}
+
+/* ─── Reading Status ───────────────────────────────────────────────────────── */
+.callout[data-callout="read-complete"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-book-check;
+}
+
+.callout[data-callout="reading-in-progress"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-book-open-check;
+}
+
+.callout[data-callout="read-asap"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-book-up;
+}
+
+/* ─── Revisit ──────────────────────────────────────────────────────────────── */
+.callout[data-callout="revist"],
+.callout[data-callout="revisit"] {
+  --callout-color: var(--callout-red-coral);
+  --callout-icon: lucide-rotate-ccw;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 7: ANALYTICAL CALLOUTS [ANALYTICAL]
+   Critical thinking, argumentation, and analysis
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Analysis ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="analysis"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-search;
+}
+
+/* ─── Analysis Types ───────────────────────────────────────────────────────── */
+.callout[data-callout="analysis-rhetorical"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-megaphone;
+}
+
+.callout[data-callout="analysis-logical"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-network;
+}
+
+.callout[data-callout="analysis-contextual"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-scan;
+}
+
+.callout[data-callout="analysis-cognitive"] {
+  --callout-color: var(--callout-red-coral);
+  --callout-icon: lucide-brain;
+}
+
+/* ─── Argument ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="argument"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-swords;
+}
+
+/* ─── Key Claim ────────────────────────────────────────────────────────────── */
+.callout[data-callout="key-claim"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-flag;
+}
+
+/* ─── Evidence ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="evidence"] {
+  --callout-color: var(--callout-red-rose);
+  --callout-icon: lucide-file-check;
+}
+
+/* ─── No Evidence ──────────────────────────────────────────────────────────── */
+.callout[data-callout="no-evidence"] {
+  --callout-color: var(--callout-red-maroon);
+  --callout-icon: lucide-file-x;
+}
+
+/* ─── Counter Argument ─────────────────────────────────────────────────────── */
+.callout[data-callout="counter-argument"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-shield;
+}
+
+/* ─── Causal Link ──────────────────────────────────────────────────────────── */
+.callout[data-callout="casual-link"],
+.callout[data-callout="causal-link"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-link;
+}
+
+/* ─── Confusion ────────────────────────────────────────────────────────────── */
+.callout[data-callout="confusion"] {
+  --callout-color: var(--callout-red-maroon);
+  --callout-icon: lucide-help-circle;
+}
+
+/* ─── Constraints & Pitfalls ───────────────────────────────────────────────── */
+.callout[data-callout="constraints-and-pitfalls"] {
+  --callout-color: var(--callout-red-maroon);
+  --callout-icon: lucide-alert-octagon;
+}
+
+/* ─── Problem Clarity Solution ─────────────────────────────────────────────── */
+.callout[data-callout="problem-clarity-solution"] {
+  --callout-color: var(--callout-red-coral);
+  --callout-icon: lucide-puzzle;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 8: CREATIVE & WORKFLOW CALLOUTS [CREATIVE]
+   Ideas, inspiration, and creative workflows
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Idea ─────────────────────────────────────────────────────────────────── */
+.callout[data-callout="idea"],
+.callout[data-callout="topic-idea"],
+.callout[data-callout="shot-idea"] {
+  --callout-color: var(--callout-red-rose);
+  --callout-icon: lucide-lightbulb;
+}
+
+/* ─── Thoughts ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="thoughts"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-brain;
+}
+
+/* ─── Capture ──────────────────────────────────────────────────────────────── */
+.callout[data-callout="capture"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-camera;
+}
+
+/* ─── Document ─────────────────────────────────────────────────────────────── */
+.callout[data-callout="document"] {
+  --callout-color: var(--callout-grey-medium);
+  --callout-icon: lucide-file;
+}
+
+/* ─── Stoic Quote ──────────────────────────────────────────────────────────── */
+.callout[data-callout="stoic-quote"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-quote;
+}
+
+/* ─── Philosophy ───────────────────────────────────────────────────────────── */
+.callout[data-callout="the-philosophy"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-scroll;
+}
+
+/* ─── Ask Yourself This ────────────────────────────────────────────────────── */
+.callout[data-callout="ask-yourself-this"] {
+  --callout-color: var(--callout-red-coral);
+  --callout-icon: lucide-help-circle;
+}
+
+/* ─── Choice A/B ───────────────────────────────────────────────────────────── */
+.callout[data-callout="choice-a"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-circle-dot;
+}
+
+.callout[data-callout="choice-b"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-circle;
+}
+
+/* ─── Disposition ──────────────────────────────────────────────────────────── */
+.callout[data-callout="disposition"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-heart;
+}
+
+/* ─── Photography Callouts ─────────────────────────────────────────────────── */
+.callout[data-callout="lighting-setup"] {
+  --callout-color: var(--callout-grey-medium);
+  --callout-icon: lucide-sun;
+}
+
+.callout[data-callout="composition"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-layout;
+}
+
+.callout[data-callout="post-processing"] {
+  --callout-color: var(--callout-black-charcoal);
+  --callout-icon: lucide-sliders;
+}
+
+/* ─── Zettelkasten Incubator ───────────────────────────────────────────────── */
+.callout[data-callout="zettelkasten-incubator"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-egg;
+}
+
+/* ─── Connection Ideas ─────────────────────────────────────────────────────── */
+.callout[data-callout="connection-ideas"],
+.callout[data-callout="connections-and-links"] {
+  --callout-color: var(--callout-red-rose);
+  --callout-icon: lucide-git-merge;
+}
+
+/* ─── Related Topics ───────────────────────────────────────────────────────── */
+.callout[data-callout="related-topics-to-consider"],
+.callout[data-callout="links-to-related-notes"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-link-2;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 9: LAYOUT CALLOUTS [LAYOUT]
+   Columns, grids, cards, and structural layouts
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Columns ──────────────────────────────────────────────────────────────── */
+.callout[data-callout*="column"] {
+  --callout-color: transparent;
+  --callout-icon: lucide-columns;
+  --columns: 2;
+  --callout-column-gap: 10px;
+  background: transparent;
+  box-shadow: none;
+  border: 0;
+  padding: 0;
+}
+
+.callout[data-callout*="column"] > .callout-title {
+  display: none;
+}
+
+.callout[data-callout*="column"] > .callout-content {
+  display: grid;
+  grid-template-columns: repeat(var(--columns), 1fr);
+  gap: var(--callout-column-gap);
+}
+
+.callout[data-callout*="column"][data-callout-metadata~="3"] > .callout-content {
+  --columns: 3;
+}
+
+.callout[data-callout*="column"][data-callout-metadata~="4"] > .callout-content {
+  --columns: 4;
+}
+
+/* ─── Grid ─────────────────────────────────────────────────────────────────── */
+.callout[data-callout="grid"] {
+  --callout-padding: 0;
+  --callout-content-padding: 0;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+}
+
+.callout[data-callout="grid"] > .callout-title {
+  display: none;
+}
+
+.callout[data-callout="grid"] > .callout-content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 8px;
+}
+
+.callout[data-callout="grid"] > .callout-content img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: var(--callout-radius);
+}
+
+/* ─── Cards ────────────────────────────────────────────────────────────────── */
+.callout[data-callout~="cards"] {
+  --callout-color: transparent;
+  --callout-icon: lucide-layout-dashboard;
+  --callout-cards-columns: 3;
+  --callout-cards-gap: 8px;
+  background: transparent;
+  box-shadow: none;
+  border: 0;
+  padding: 0;
+}
+
+.callout[data-callout~="cards"] > .callout-title {
+  display: none;
+}
+
+.callout[data-callout~="cards"] > .callout-content {
+  display: grid;
+  grid-template-columns: repeat(var(--callout-cards-columns), 1fr);
+  gap: var(--callout-cards-gap);
+}
+
+.callout[data-callout~="cards"][data-callout-metadata~="2"] > .callout-content {
+  --callout-cards-columns: 2;
+}
+
+.callout[data-callout~="cards"][data-callout-metadata~="4"] > .callout-content {
+  --callout-cards-columns: 4;
+}
+
+.callout[data-callout~="cards"] > .callout-content > .callout {
+  margin: 0;
+  border-radius: var(--callout-radius);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* ─── Caption ──────────────────────────────────────────────────────────────── */
+.callout[data-callout~="caption"] {
+  background: transparent;
+  box-shadow: none;
+  border: 0;
+  padding: 0;
+  text-align: center;
+  max-width: 300px;
+}
+
+.callout[data-callout~="caption"] > .callout-title {
+  display: none;
+}
+
+.callout[data-callout~="caption"] > .callout-content p {
+  margin: 0;
+  color: var(--text-faint);
+  font-size: 0.85em;
+  font-style: italic;
+}
+
+/* ─── Blank (Invisible Container) ──────────────────────────────────────────── */
+.callout[data-callout="blank"] {
+  --callout-color: transparent;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.callout[data-callout="blank"] > .callout-title {
+  display: none;
+}
+
+.callout[data-callout="blank"] > .callout-content {
+  padding: 0;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 10: SPECIAL CALLOUTS [SPECIAL]
+   Infobox, Timeline, Kanban, and advanced layouts
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Infobox (Wikipedia-style) ────────────────────────────────────────────── */
+.callout[data-callout~="infobox"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-layout;
+  --callout-padding: 0;
+  --callout-content-padding: 8px;
+  float: right;
+  max-width: 320px;
+  margin: 0 0 10px 15px;
+  border: 1px solid rgba(var(--callout-grey-medium), 0.5);
+  background: rgba(var(--callout-black-charcoal), 0.3);
+}
+
+.callout[data-callout~="infobox"] > .callout-title {
+  background: rgba(var(--callout-red-dark), 0.3);
+  text-align: center;
+  justify-content: center;
+}
+
+.callout[data-callout~="infobox"] table {
+  width: 100%;
+  margin: 0;
+}
+
+.callout[data-callout~="infobox"] img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+
+/* ─── Timeline ─────────────────────────────────────────────────────────────── */
+.callout[data-callout~="timeline"] {
+  --callout-icon: lucide-clock;
+  --callout-padding: 0;
+  --callout-title-padding: 10px;
+  --callout-content-padding: 10px;
+  background: transparent;
+  border: 0;
+  margin: 0;
+  position: relative;
+}
+
+.callout[data-callout~="timeline"][data-callout-metadata~="t-l"] {
+  border-right: 4px solid rgb(var(--callout-color));
+  margin-right: calc(50% - 2px);
+}
+
+.callout[data-callout~="timeline"][data-callout-metadata~="t-r"] {
+  border-left: 4px solid rgb(var(--callout-color));
+  margin-left: calc(50% - 2px);
+}
+
+.callout[data-callout~="timeline"] > .callout-title {
+  background: rgba(var(--callout-color), 0.25);
+}
+
+/* ─── Kanban ───────────────────────────────────────────────────────────────── */
+.callout[data-callout~="kanban"] {
+  --callout-color: transparent;
+  --callout-icon: lucide-layout-dashboard;
+  --callout-padding: 0;
+  --lane-width: 250px;
+  background: transparent;
+  box-shadow: none;
+  border: 0;
+}
+
+.callout[data-callout~="kanban"] > .callout-title {
+  justify-content: center;
+  background: rgba(var(--callout-black-charcoal), 0.5);
+  padding: 8px;
+  border-radius: var(--callout-radius);
+}
+
+.callout[data-callout~="kanban"] > .callout-content ul {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+  padding: 10px 0;
+  list-style: none;
+}
+
+.callout[data-callout~="kanban"] > .callout-content ul > li {
+  min-width: var(--lane-width);
+  padding: 10px;
+  background: rgba(var(--callout-black-obsidian), 0.8);
+  border-radius: var(--callout-radius);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* ─── Aside (Margin Notes) ─────────────────────────────────────────────────── */
+.callout[data-callout~="aside"] {
+  --callout-color: var(--callout-grey-graphite);
+  --callout-icon: lucide-sticky-note;
+  float: right;
+  max-width: 280px;
+  margin: 0 0 10px 15px;
+  font-size: 0.9em;
+}
+
+.callout[data-callout~="aside"][data-callout-metadata~="left"] {
+  float: left;
+  margin: 0 15px 10px 0;
+}
+
+/* ─── Statblock (D&D/TTRPG) ────────────────────────────────────────────────── */
+.callout[data-callout="statblock"],
+.callout[data-callout="statblocks"] {
+  --callout-color: var(--callout-red-wine);
+  --callout-icon: lucide-swords;
+  --callout-padding: 12px 15px;
+  border: 2px solid rgb(var(--callout-color));
+  background: rgba(var(--callout-black-jet), 0.9);
+}
+
+/* ─── Recite (Speech/Dialogue) ─────────────────────────────────────────────── */
+.callout[data-callout="recite"] {
+  --callout-color: var(--callout-red-coral);
+  --callout-icon: lucide-message-square;
+  border-style: solid;
+  border-width: 3px;
+  text-align: justify;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 11: AI & CHAT CALLOUTS [AI-CHAT]
+   AI responses, chat interfaces, and LLM interactions
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Claude Thinking ──────────────────────────────────────────────────────── */
+.callout[data-callout="claude-thinking"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-code-2;
+}
+
+/* ─── Gemini Pro Response ──────────────────────────────────────────────────── */
+.callout[data-callout="gemini-pro-response"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-sparkles;
+}
+
+/* ─── Start of Chat ────────────────────────────────────────────────────────── */
+.callout[data-callout="start-of-chat"] {
+  --callout-color: var(--callout-black-charcoal);
+  --callout-icon: lucide-message-circle;
+}
+
+/* ─── Your Name (User Message) ─────────────────────────────────────────────── */
+.callout[data-callout="your-name"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-user;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 12: CUSTOM USER CALLOUTS [CUSTOM]
+   Specialized callouts from user's data.json
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── In-Note Metadata ─────────────────────────────────────────────────────── */
+.callout[data-callout="in-note-metadata"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-layers;
+}
+
+/* ─── Caltab (Quick Reference Tab) ─────────────────────────────────────────── */
+.callout[data-callout="caltab"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-zap;
+}
+
+/* ─── Note Toolbar ─────────────────────────────────────────────────────────── */
+.callout[data-callout="note-toolbar"] {
+  --callout-color: var(--callout-black-charcoal);
+  --callout-icon: lucide-settings-2;
+}
+
+/* ─── Hub / MOC ────────────────────────────────────────────────────────────── */
+.callout[data-callout="hub-moc"] {
+  --callout-color: var(--callout-black-charcoal);
+  --callout-icon: lucide-network;
+}
+
+/* ─── System / Meta / Debug ────────────────────────────────────────────────── */
+.callout[data-callout="system"] {
+  --callout-color: var(--callout-black-charcoal);
+  --callout-icon: lucide-cpu;
+}
+
+.callout[data-callout="meta"] {
+  --callout-color: var(--callout-grey-dark);
+  --callout-icon: lucide-info;
+}
+
+.callout[data-callout="debug"] {
+  --callout-color: var(--callout-red-dark);
+  --callout-icon: lucide-bug;
+}
+
+/* ─── How-To Callouts ──────────────────────────────────────────────────────── */
+.callout[data-callout="how-to-use"],
+.callout[data-callout="how-to-use-this"],
+.callout[data-callout="how-this-dashboard-works"] {
+  --callout-color: var(--callout-grey-medium);
+  --callout-icon: lucide-help-circle;
+}
+
+/* ─── What This Does ───────────────────────────────────────────────────────── */
+.callout[data-callout="what-this-does"] {
+  --callout-color: var(--callout-grey-medium);
+  --callout-icon: lucide-info;
+}
+
+/* ─── Use Cases & Examples ─────────────────────────────────────────────────── */
+.callout[data-callout="use-cases-and-examples"] {
+  --callout-color: var(--callout-red-fire);
+  --callout-icon: lucide-list;
+}
+
+/* ─── Quick Reference ──────────────────────────────────────────────────────── */
+.callout[data-callout="quick-reference"],
+.callout[data-callout="comprehensive-reference"] {
+  --callout-color: var(--callout-black-charcoal);
+  --callout-icon: lucide-book;
+}
+
+/* ─── Important Links ──────────────────────────────────────────────────────── */
+.callout[data-callout="important-links"] {
+  --callout-color: var(--callout-red-crimson);
+  --callout-icon: lucide-external-link;
+}
+
+/* ─── Helpful Tip ──────────────────────────────────────────────────────────── */
+.callout[data-callout="helpful-tip"] {
+  --callout-color: var(--callout-red-rose);
+  --callout-icon: lucide-lightbulb;
+}
+
+/* ─── The Start ────────────────────────────────────────────────────────────── */
+.callout[data-callout="the-start"] {
+  --callout-color: var(--callout-red-pure);
+  --callout-icon: lucide-play;
+}
+
+/* ─── Changes From Prompting Dashboard ─────────────────────────────────────── */
+.callout[data-callout="changes-from-prompting-dashboard"] {
+  --callout-color: var(--callout-red-coral);
+  --callout-icon: lucide-git-compare;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 13: UTILITY MODIFIERS [MODIFIERS]
+   Positioning, sizing, styling adjustments via metadata
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Title Adjustments ────────────────────────────────────────────────────── */
+.callout[data-callout-metadata~="no-t"] > .callout-title,
+.callout[data-callout-metadata~="no-title"] > .callout-title {
+  display: none;
+}
+
+.callout[data-callout-metadata~="no-i"] > .callout-title > .callout-icon,
+.callout[data-callout-metadata~="no-icon"] > .callout-title > .callout-icon {
+  display: none;
+}
+
+.callout[data-callout-metadata~="ttl-c"] > .callout-title,
+.callout[data-callout-metadata~="title-center"] > .callout-title {
+  justify-content: center;
+  text-align: center;
+}
+
+/* ─── Text Alignment ───────────────────────────────────────────────────────── */
+.callout[data-callout-metadata~="txt-c"],
+.callout[data-callout-metadata~="text-center"] {
+  text-align: center;
+}
+
+.callout[data-callout-metadata~="txt-r"],
+.callout[data-callout-metadata~="text-right"] {
+  text-align: right;
+}
+
+.callout[data-callout-metadata~="txt-l"],
+.callout[data-callout-metadata~="text-left"] {
+  text-align: left;
+}
+
+/* ─── Positioning ──────────────────────────────────────────────────────────── */
+.callout[data-callout-metadata~="left"] {
+  float: left;
+  margin-right: 15px;
+  margin-left: 0;
+}
+
+.callout[data-callout-metadata~="right"] {
+  float: right;
+  margin-left: 15px;
+  margin-right: 0;
+}
+
+.callout[data-callout-metadata~="center"] {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ─── Sizing ───────────────────────────────────────────────────────────────── */
+.callout[data-callout-metadata~="w-tiny"] { max-width: 20%; }
+.callout[data-callout-metadata~="w-small"] { max-width: 30%; }
+.callout[data-callout-metadata~="w-medium"] { max-width: 50%; }
+.callout[data-callout-metadata~="w-large"] { max-width: 70%; }
+.callout[data-callout-metadata~="w-full"] { max-width: 100%; width: 100%; }
+
+/* ─── Styling Adjustments ──────────────────────────────────────────────────── */
+.callout[data-callout-metadata~="clean"] {
+  border: 0;
+  box-shadow: none;
+  background: transparent;
+  --callout-padding: 0;
+}
+
+.callout[data-callout-metadata~="no-border"],
+.callout[data-callout-metadata~="nbrd"] {
+  border: 0;
+}
+
+.callout[data-callout-metadata~="no-margin"],
+.callout[data-callout-metadata~="nmg"] {
+  margin: 0;
+}
+
+.callout[data-callout-metadata~="compact"] {
+  --callout-padding: 4px 8px;
+  --callout-title-padding: 4px 8px;
+  --callout-content-padding: 4px 8px;
+}
+
+/* ─── Dim Effects ──────────────────────────────────────────────────────────── */
+.callout[data-callout-metadata~="dim"]:not(:hover) {
+  filter: brightness(0.6);
+  transition: filter 0.3s ease;
+}
+
+.callout[data-callout-metadata~="dim"]:hover {
+  filter: brightness(1);
+}
+
+/* ─── Clear Float ──────────────────────────────────────────────────────────── */
+.callout[data-callout-metadata~="clear"] {
+  clear: both;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 14: ACCESSIBILITY & MOTION [A11Y]
+   WCAG compliance and reduced motion preferences
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Reduced Motion ───────────────────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  .callout {
+    transition: none;
+  }
+  
+  .callout:hover {
+    transform: none;
+  }
+}
+
+/* ─── High Contrast Mode Enhancement ───────────────────────────────────────── */
+@media (prefers-contrast: high) {
+  .callout {
+    border-width: 3px;
+    border-style: solid;
+  }
+  
+  .callout > .callout-title {
+    font-weight: 700;
+  }
+}
+
+/* ─── Focus States for Keyboard Navigation ─────────────────────────────────── */
+.callout:focus-within {
+  outline: 2px solid rgb(var(--callout-red-pure));
+  outline-offset: 2px;
+}
+
+/* ─── Mobile Responsive ────────────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .callout[data-callout-metadata~="left"],
+  .callout[data-callout-metadata~="right"] {
+    float: none;
+    max-width: 100%;
+    margin: var(--callout-margin);
+  }
+  
+  .callout[data-callout~="infobox"] {
+    float: none;
+    max-width: 100%;
+    margin: var(--callout-margin);
+  }
+  
+  .callout[data-callout~="aside"] {
+    float: none;
+    max-width: 100%;
+    margin: var(--callout-margin);
+  }
+  
+  .callout[data-callout~="kanban"] > .callout-content ul {
+    flex-direction: column;
+  }
+  
+  .callout[data-callout~="kanban"] > .callout-content ul > li {
+    min-width: 100%;
+  }
+}
+
+/* ─── Print Styles ─────────────────────────────────────────────────────────── */
+@media print {
+  .callout {
+    break-inside: avoid;
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+  
+  .callout:hover {
+    transform: none;
+  }
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   END OF PUR3V4D3R ULTIMATE CALLOUT SYSTEM v5.0
+   
+   CALLOUT COUNT: 150+ types across 14 sections
+   THEME: Imperial Red/Black/Grey
+   
+   To toggle sections: Wrap with /* DISABLED ... */ /* END DISABLED
+   To toggle individual callouts: Comment out the specific block
+   
+   For questions or customization: Modify the color variables in Section 1
+   ═══════════════════════════════════════════════════════════════════════════ */

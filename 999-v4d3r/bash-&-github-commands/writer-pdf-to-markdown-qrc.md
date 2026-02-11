@@ -27,7 +27,7 @@ The correct bash command to generate the markdown version of the specified PDF f
 marker_single '999-v4d3r\__exemplar\__exemplar-package-20251228054156\prompt-patterns.pdf' --output_format markdown
 ```
 
-
+marker_single '999-v4d3r\__exemplar\__exemplar-package-20251228054156\prompt-patterns.pdf' --output_format markdown
 
 
 

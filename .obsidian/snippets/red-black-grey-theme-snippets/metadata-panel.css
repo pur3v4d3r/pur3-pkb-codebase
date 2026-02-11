@@ -1,0 +1,83 @@
+/* ========================================
+   SECTION 1: METADATA CONTAINER
+   ======================================== */
+
+/* --- Style the main container for properties --- */
+.metadata-container {
+  background-color: #1212124d !important; /* Translucent Purple */
+  border: 1px solid #535353ff !important; /* Gold border */
+  border-radius: 8px !important;
+  padding: 12px 18px !important;
+  margin-bottom: 32px !important; /* Space before content begins */
+}
+
+/* --- Add a "Metadata by Pur3v4d3r" abbreviation label --- */
+.metadata-container::before {
+  content: "Metadata by Pur3v4d3r" !important;
+  /* Styling for the label */
+    display: inline-block !important;
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: #bbbbbbff !important;
+    font-family: "JetBrains Mono", "Consolas", monospace !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+    position: absolute !important;
+    top: 6px !important;
+    right: 12px !important; 
+    background: linear-gradient(135deg, #E5000041 35%, #E5000071 90%, #E5000070 15%) !important;
+    padding: 4px 8px !important;
+    border-radius: 6px !important;
+    box-shadow: 0 2px 8px rgba(255, 0, 0, 0.3) !important;
+    z-index: 10 !important; 
+   /* slight glow and shadow to boxes */ 
+
+}
+/* --- Style individual metadata properties --- */
+
+
+
+.metadata-property-key {
+  font-weight: 300 !important;                 /* Extra bold keys */
+  color: #9e9e9eff !important;                   /* Signature red */
+  text-transform: uppercase !important;        /* UPPERCASE keys */
+  letter-spacing: 0.5px !important;            /* Spacing for readability */
+  font-size: 11px !important;                  /* Slightly smaller */
+  padding: 2px 6px !important;                 /* Internal spacing */
+  background: rgba(229, 0, 0, 0.15) !important; /* Subtle red background */
+  border-left: 3px solid #E50000 !important;   /* Red accent bar */
+  border-radius: 3px !important;               /* Subtle rounding */
+  margin-right: 8px !important;                /* Space before value */
+}
+
+.metadata-property-value {
+  font-weight: 400 !important;                 /* Regular weight */
+  color: #9b9b9bff !important;                   /* Bright grey/white */
+  background: rgba(18, 18, 18, 0.5) !important; /* Dark background */
+  padding: 2px 8px !important;                 /* Internal spacing */
+  border: 1px solid #5e0d0d38 !important;        /* Grey border */
+  border-radius: 4px !important;               /* Rounded corners */
+  font-family: "JetBrains Mono", "Consolas", monospace !important;
+}
+
+.metadata-property-value a {
+  color: #E50000 !important;                   /* Red for links */
+  text-decoration: none !important;            /* No underline default */
+  border-bottom: 1px solid rgba(229, 0, 0, 0.4) !important; /* Subtle underline */
+  transition: border-color 0.2s ease !important;
+}
+
+.metadata-property-value a:hover {
+  color: #FF0000 !important;                   /* Bright red on hover */
+  border-bottom: 2px solid #FF0000 !important; /* Thicker underline */
+}
+
+.metadata-property-description {
+  font-style: italic !important;               /* Italic style */
+  font-size: 11px !important;                  /* Small text */
+  color: #A3A3A3 !important;                   /* Muted grey */
+  margin-left: 12px !important;                /* Left spacing */
+  padding: 2px 4px !important;                 /* Internal spacing */
+  background: rgba(163, 163, 163, 0.1) !important; /* Subtle grey bg */
+  border-left: 2px solid #A3A3A3 !important;   /* Grey accent */
+}

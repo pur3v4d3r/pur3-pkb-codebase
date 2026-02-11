@@ -1,0 +1,301 @@
+/*
+═══════════════════════════════════════════════════════════
+ SNIPPET NAME: Custom Ordered List Numbers (Colored)
+ Purpose: Color-coded numbered list markers by nesting level
+          Level 1: Numbers (Gold #E50000)
+          Level 2: Arrow → (Purple #E50000)
+          Level 3: Dash — (Teal #E50000)
+          Level 4: Plus + (White)
+ Author: Pur3v4d3r
+ Date: 2025-12-05
+ Obsidian Version: 1.5.0+
+ Dependencies: None
+ Installation: Place in .obsidian/snippets/ and enable in Settings
+ 
+ CUSTOMIZATION VARIABLES:
+ Adjust these values to change size and position of markers
+═══════════════════════════════════════════════════════════
+*/
+
+/* ═══════════ CUSTOMIZATION VARIABLES ═══════════ */
+
+:root {
+    /* LEVEL 1 - Numbers */
+    --ol-level1-size: 1em;           /* Font size of numbers */
+    --ol-level1-weight: 600;         /* Font weight (400=normal, 600=semi-bold, 700=bold) */
+    --ol-level1-left: -1.5em;        /* Horizontal position (negative = left, positive = right) */
+    --ol-level1-top: 0em;            /* Vertical offset (negative = up, positive = down) */
+    
+    /* LEVEL 2 - Arrow → */
+    --ol-level2-size: 1.25em;        /* Size of arrow symbol */
+    --ol-level2-weight: 600;
+    --ol-level2-left: -1.5em;
+    --ol-level2-top: -0.25em;
+    
+    /* LEVEL 3 - Dash — */
+    --ol-level3-size: 1.25em;        /* Size of dash symbol */
+    --ol-level3-weight: 600;
+    --ol-level3-left: -1.5em;
+    --ol-level3-top: -0.15em;
+    
+    /* LEVEL 4 - Plus + */
+    --ol-level4-size: 1.25em;        /* Size of plus symbol */
+    --ol-level4-weight: 600;
+    --ol-level4-left: -1.5em;
+    --ol-level4-top: -0.15em;
+    
+    /* SPACING */
+    --ol-marker-spacing: 0.25em;     /* Space between marker and text */
+}
+
+/* ═══════════ EDITOR MODE (Source & Live Preview) ═══════════ */
+
+/* Level 1: Gold numbers */
+.cm-formatting-list-ol.cm-list-1 {
+    color: #E50000 !important; /* ✓ WCAG AA: 10.8:1 on dark backgrounds */
+    font-weight: 300 !important;
+    font-size: 18 !important;
+    position: relative !important;
+}
+
+/* Level 2: Purple arrow → */
+.cm-formatting-list-ol.cm-list-2 {
+    color: transparent !important;
+    position: relative !important;
+}
+
+
+
+.cm-formatting-list-ol.cm-list-2::after {
+    content: "->" !important; /* → Arrow */
+    color: #E50000 !important; /* Teal */
+    font-weight: 300 !important;
+    font-size: 18px !important;
+    position: absolute !important;
+    left: 10px !important;
+}
+
+
+
+
+/* Level 3:  dash — */
+.cm-formatting-list-ol.cm-list-3 {
+    color: transparent !important;
+    position: relative !important;
+}
+
+.cm-formatting-list-ol.cm-list-3::after {
+    content: "-" !important; /* — Em dash */
+    color: #E50000 !important; /* Teal */
+    font-weight: 300 !important;
+    font-size: 18 !important;
+    position: absolute !important;
+    left: 10px !important;
+    
+}
+
+
+
+
+/* ═══════════ READING MODE ═══════════ */
+
+/* Set up CSS counters for all levels */
+.markdown-rendered ol {
+    counter-reset: level1;
+}
+.markdown-rendered ol ol {
+    counter-reset: level2;
+}
+.markdown-rendered ol ol ol {
+    counter-reset: level3;
+}
+.markdown-rendered ol ol ol ol {
+    counter-reset: level4;
+}
+
+/* Level 1: Gold numbers */
+.markdown-rendered ol > li {
+    list-style: none !important;
+    position: relative !important;
+    counter-increment: level1 !important;
+}
+
+.markdown-rendered ol > li::marker {
+    content: "" !important;
+}
+
+.markdown-rendered ol > li::before {
+    content: counter(level1) ". " !important;
+    position: absolute !important;
+    left: var(--ol-level1-left) !important;
+    top: var(--ol-level1-top) !important;
+    color: #E50000 !important; /* Gold */
+    font-weight: var(--ol-level1-weight) !important;
+    font-size: var(--ol-level1-size) !important;
+    padding-right: var(--ol-marker-spacing) !important;
+}
+
+/* Level 2: Purple arrow → */
+.markdown-rendered ol ol > li {
+    counter-increment: level2 !important;
+}
+
+.markdown-rendered ol ol > li::before {
+    content: "\2192 " !important; /* → Arrow */
+    color: #E50000 !important; /* Purple */
+    left: var(--ol-level2-left) !important;
+    top: var(--ol-level2-top) !important;
+    font-weight: var(--ol-level2-weight) !important;
+    font-size: var(--ol-level2-size) !important;
+    padding-right: var(--ol-marker-spacing) !important;
+}
+
+/* Level 3: Teal dash — */
+.markdown-rendered ol ol ol > li {
+    counter-increment: level3 !important;
+}
+
+.markdown-rendered ol ol ol > li::before {
+    content: "\2014 " !important; /* — Em dash */
+    color: #E50000 !important; /* Teal */
+    left: var(--ol-level3-left) !important;
+    top: var(--ol-level3-top) !important;
+    font-weight: var(--ol-level3-weight) !important;
+    font-size: var(--ol-level3-size) !important;
+    padding-right: var(--ol-marker-spacing) !important;
+}
+
+/* Level 4: White plus + */
+.markdown-rendered ol ol ol ol > li {
+    counter-increment: level4 !important;
+}
+
+.markdown-rendered ol ol ol ol > li::before {
+    content: "\002B " !important; /* + Plus */
+    color: #E50000 !important; /* White */
+    left: var(--ol-level4-left) !important;
+    top: var(--ol-level4-top) !important;
+    font-weight: var(--ol-level4-weight) !important;
+    font-size: var(--ol-level4-size) !important;
+    padding-right: var(--ol-marker-spacing) !important;
+}
+
+/* ═══════════ Live Preview Mode (markdown-preview-view) ═══════════ */
+
+.markdown-preview-view ol > li::before {
+    color: #E50000 !important;
+    font-size: var(--ol-level1-size) !important;
+    font-weight: var(--ol-level1-weight) !important;
+}
+
+.markdown-preview-view ol ol > li::before {
+    content: "\2192 " !important;
+    color: #E50000 !important;
+    font-size: var(--ol-level2-size) !important;
+    font-weight: var(--ol-level2-weight) !important;
+}
+
+.markdown-preview-view ol ol ol > li::before {
+    content: "\2014 " !important;
+    color: #E50000 !important;
+    font-size: var(--ol-level3-size) !important;
+    font-weight: var(--ol-level3-weight) !important;
+}
+
+.markdown-preview-view ol ol ol ol > li::before {
+    content: "\002B " !important;
+    color: #E50000 !important;
+    font-size: var(--ol-level4-size) !important;
+    font-weight: var(--ol-level4-weight) !important;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   CUSTOMIZATION GUIDE:
+   
+   To adjust marker appearance, modify the variables in the :root section:
+   
+   SIZE:
+   - Increase --ol-levelX-size for larger markers (e.g., 1.5em, 2em)
+   - Decrease for smaller markers (e.g., 0.8em, 0.9em)
+   
+   POSITION (Horizontal):
+   - More negative --ol-levelX-left moves marker further left (e.g., -2em)
+   - Less negative or positive values move it right (e.g., -1em, 0em)
+   
+   POSITION (Vertical):
+   - Negative --ol-levelX-top moves marker up (e.g., -0.2em)
+   - Positive values move it down (e.g., 0.1em)
+   
+   WEIGHT:
+   - 400 = normal
+   - 600 = semi-bold (default)
+   - 700 = bold
+   
+   SPACING:
+   - Adjust --ol-marker-spacing to control gap between marker and text
+   
+   Example custom configuration:
+   
+   :root {
+       --ol-level1-size: 1.1em;
+       --ol-level2-size: 1.4em;
+       --ol-level3-size: 1.3em;
+       --ol-level2-left: -1.8em;
+       --ol-level3-top: -0.1em;
+   }
+   
+═══════════════════════════════════════════════════════════ */
+/*
+    Custom Snippet: Custom List Markers
+
+/* Level 3 (third indent) — Plus */
+.cm-formatting-list-ul.cm-list-3 > .list-bullet::after,
+.markdown-rendered ul ul ul > li > .list-bullet::after {
+    content: "\002B" !important; /* + */
+    color: #4d4d4dff !important; /* Yellow */
+    font-size:1.30em; /* Make the plus slightly larger */
+    font-weight: 300 !important;
+    padding-right: -2.25em !important;
+    margin-bottom: 40px !important;
+}
+/* Level 2 (second indent) — Dash */
+.cm-formatting-list-ul.cm-list-2 > .list-bullet::after,
+.markdown-rendered ul ul > li > .list-bullet::after {
+    content: "-" !important; /* — Em dash */
+    color: #4d4d4dff !important; /* Pink/Magenta */
+    padding-right: -2.25em !important; /* Space between dash and text */
+    margin-bottom: 26px !important;
+    font-size:0.90em    !important;
+    font-weight: 300 !important;/* Make the arrow slightly larger */ 
+}
+/* Level 1 (first indent) — Arrow */
+.cm-formatting-list-ul.cm-list-1 > .list-bullet::after,
+.markdown-rendered ul > li > .list-bullet::after {
+    content: "->" !important; /* → Right arrow */
+    color: #E50000ff !important;
+    padding-right: 1.25em !important; /* Space between dash and text */
+    margin-bottom: 22px !important;
+    font-size:0.90em    !important;
+    font-weight: 300 !important;/* Make the arrow slightly larger */ 
+}
+
+/* End of Custom List Markers Snippet */
+
+/*
+═══════════════════════════════════════════════════════════
+ UNORDERED LIST MARKERS (FIXED)
+ Properly hides default bullet before applying custom markers
+═══════════════════════════════════════════════════════════
+*/
+
+/* ═══════════ HIDE DEFAULT BULLETS ═══════════ */
+
+/* Hide the default bullet element in Editor Mode */
+.cm-formatting-list-ul .list-bullet::after {
+    content: "" !important;
+    background: transparent !important;
+    border: none !important;
+    width: 0 !important;
+    height: 0 !important;
+}
+

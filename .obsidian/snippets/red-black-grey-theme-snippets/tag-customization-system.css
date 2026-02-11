@@ -1,0 +1,699 @@
+/*
+═══════════════════════════════════════════════════════════════════════════════
+ SNIPPET: Tag Customization System
+ Purpose: Comprehensive tag styling with multiple design options
+ Author: Pur3v4d3r
+ Date: 2024-12-24
+ Obsidian Version: 1.5.0+
+ 
+ USAGE INSTRUCTIONS:
+ 1. This snippet provides a base style + 9 alternative styles (10 total)
+ 2. The BASE STYLE is active by default
+ 3. To try different styles, comment out the current active section
+    and uncomment your preferred style section
+ 4. Each style section is clearly marked with ═══ headers
+ 5. Color customization variables are at the top for easy modification
+ 
+ COMMUNITY SOURCES:
+ - Obsidian Forum best practices
+ - Minimal Theme tag patterns
+ - Things Theme color coding
+ - AnuPpuccin accent systems
+ - ITS Theme tag badges
+═══════════════════════════════════════════════════════════════════════════════
+*/
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 1: CSS VARIABLES - CUSTOMIZE YOUR COLORS HERE
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.theme-light,
+.theme-dark {
+  /* ─── Signature Palette (Red/Black/Grey) ─── */
+  --tag-primary: #ff0000ff;           /* Red - primary accent */
+  --tag-secondary: #1F1F1F;         /* Black - emphasis */
+  --tag-tertiary: #6B7280;          /* Grey - neutral/muted */
+  
+  /* ─── Extended Palette for Semantic Tags ─── */
+  --tag-status: #374151;            /* Dark Grey - status indicators */
+  --tag-priority: #991B1B;          /* Dark Red - priority/urgent */
+  --tag-category: #DC2626;          /* Red - categories */
+  --tag-type: #1F1F1F;              /* Black - types */
+  --tag-project: #B91C1C;           /* Crimson - projects */
+  --tag-context: #4B5563;           /* Medium Grey - contexts */
+  --tag-area: #EF4444;              /* Bright Red - areas */
+  --tag-archive: #9CA3AF;           /* Light Grey - archived */
+  
+  /* ─── Tag Dimensions ─── */
+  --tag-padding-x: 0.5em;
+  --tag-padding-y: 0.2em;
+  --tag-font-size: 0.85em;
+  --tag-border-radius: 4px;
+  --tag-font-weight: 500;
+  
+  /* ─── Animation Duration ─── */
+  --tag-transition: 0.15s ease;
+}
+
+/* ─── Light Mode Specific Adjustments ─── */
+.theme-light {
+  --tag-bg-opacity: 0.12;
+  --tag-border-opacity: 0.3;
+  --tag-text-darken: 0.85;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 1: MODERN PILL (Active by Default)
+   Community favorite - clean, modern, accessible
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Base Tag Styling */
+.tag,
+a.tag,
+.cm-tag,
+.cm-hashtag {
+  background-color: rgba(220, 38, 38, var(--tag-bg-opacity)) !important;
+  color: var(--tag-primary) !important;
+  padding: var(--tag-padding-y) var(--tag-padding-x) !important;
+  border-radius: var(--tag-border-radius) !important;
+  font-size: var(--tag-font-size) !important;
+  font-weight: var(--tag-font-weight) !important;
+  text-decoration: none !important;
+  transition: all var(--tag-transition) !important;
+  border: 1px solid transparent !important;
+  /* ✓ WCAG AA: Red (#DC2626) on light bg = 5.9:1 (Pass) */
+}
+
+/* Hashtag symbol styling */
+.tag::before,
+.cm-hashtag-begin::before {
+  content: "";  /* Removes # if you want clean look */
+  /* Uncomment below to keep # visible */
+  /* content: "#"; */
+  /* opacity: 0.6; */
+}
+
+
+/* Force editor tag text color (override Obsidian defaults) */
+.cm-hashtag,
+.cm-hashtag.cm-hashtag-begin,
+.cm-hashtag.cm-hashtag-end {
+  color: var(--tag-primary) !important;
+}
+
+/* Hover State */
+.tag:hover,
+a.tag:hover,
+.cm-tag:hover {
+  background-color: rgba(220, 38, 38, 0.25);
+  border-color: rgba(220, 38, 38, var(--tag-border-opacity));
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(220, 38, 38, 0.15);
+}
+
+/* Active/Clicked State */
+.tag:active,
+a.tag:active {
+  transform: translateY(0);
+  box-shadow: none;
+}
+
+/* Focus State for Accessibility */
+.tag:focus,
+a.tag:focus {
+  outline: 2px solid var(--tag-primary);
+  outline-offset: 2px;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 2: SEMANTIC TAG COLORING
+   Color-code tags by prefix for visual organization
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Status Tags ─── */
+a.tag[href*="#status"],
+.cm-tag[class*="status"] {
+  --tag-color: var(--tag-status);
+  background-color: rgba(55, 65, 81, var(--tag-bg-opacity));
+  color: var(--tag-status) !important;
+}
+
+/* ─── Priority Tags ─── */
+a.tag[href*="#priority"],
+a.tag[href*="#urgent"],
+a.tag[href*="#important"],
+.cm-tag[class*="priority"] {
+  --tag-color: var(--tag-priority);
+  background-color: rgba(153, 27, 27, var(--tag-bg-opacity));
+  color: var(--tag-priority) !important;
+}
+
+/* ─── Project Tags ─── */
+a.tag[href*="#project"],
+a.tag[href*="#proj"],
+.cm-tag[class*="project"] {
+  --tag-color: var(--tag-project);
+  background-color: rgba(185, 28, 28, var(--tag-bg-opacity));
+  color: var(--tag-project) !important;
+}
+
+/* ─── Category/Topic Tags ─── */
+a.tag[href*="#category"],
+a.tag[href*="#topic"],
+.cm-tag[class*="category"] {
+  --tag-color: var(--tag-category);
+  background-color: rgba(220, 38, 38, var(--tag-bg-opacity));
+  color: var(--tag-category) !important;
+}
+
+/* ─── Type Tags ─── */
+a.tag[href*="#type"],
+.cm-tag[class*="type"] {
+  --tag-color: var(--tag-type);
+  background-color: rgba(31, 31, 31, var(--tag-bg-opacity));
+  color: var(--tag-type) !important;
+}
+
+/* ─── Context Tags ─── */
+a.tag[href*="#context"],
+a.tag[href*="#@"],
+.cm-tag[class*="context"] {
+  --tag-color: var(--tag-context);
+  background-color: rgba(75, 85, 99, var(--tag-bg-opacity));
+  color: var(--tag-context) !important;
+}
+
+/* ─── Area Tags ─── */
+a.tag[href*="#area"],
+.cm-tag[class*="area"] {
+  --tag-color: var(--tag-area);
+  background-color: rgba(239, 68, 68, var(--tag-bg-opacity));
+  color: var(--tag-area) !important;
+}
+
+/* ─── Archive Tags ─── */
+a.tag[href*="#archive"],
+a.tag[href*="#archived"],
+.cm-tag[class*="archive"] {
+  --tag-color: var(--tag-archive);
+  background-color: rgba(156, 163, 175, var(--tag-bg-opacity));
+  color: var(--tag-archive) !important;
+  opacity: 0.7;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 3: NESTED TAG STYLING
+   Visual hierarchy for nested tags like #project/website
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Style nested tags with separator */
+a.tag[href*="/"],
+.cm-tag[class*="/"] {
+  /* Add subtle divider effect for nested tags */
+  background: linear-gradient(
+    90deg,
+    rgba(220, 38, 38, var(--tag-bg-opacity)) 0%,
+    rgba(220, 38, 38, calc(var(--tag-bg-opacity) * 0.5)) 100%
+  ) ;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 4: TAG PANE / SIDEBAR STYLING
+   Customize how tags appear in the tag pane
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Tag pane tags */
+.tag-pane-tag {
+  padding: 4px 8px;
+  border-radius: var(--tag-border-radius);
+  transition: all var(--tag-transition);
+}
+
+.tag-pane-tag:hover {
+  background-color: rgba(220, 38, 38, 0.1);
+}
+
+/* Tag count badge */
+.tag-pane-tag-count {
+  background-color: rgba(220, 38, 38, 0.15);
+  color: var(--tag-primary);
+  padding: 2px 6px;
+  border-radius: 10px;
+  font-size: 0.75em;
+  margin-left: 8px;
+}
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   SECTION 5: PROPERTIES/FRONTMATTER TAG STYLING  
+   Style tags when they appear in the Properties panel
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Properties panel tags */
+.metadata-container .multi-select-pill {
+  background-color: rgba(220, 38, 38, var(--tag-bg-opacity));
+  color: var(--tag-primary);
+  border-radius: var(--tag-border-radius);
+  padding: 2px 8px;
+  font-size: var(--tag-font-size);
+}
+
+.metadata-container .multi-select-pill:hover {
+  background-color: rgba(220, 38, 38, 0.25);
+}
+
+/* Remove button styling */
+.metadata-container .multi-select-pill-remove-button:hover {
+  color: var(--tag-priority);
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   ═══════════════════════════════════════════════════════════════════════════
+   
+   ALTERNATIVE STYLES - Uncomment ONE section below to use
+   
+   ═══════════════════════════════════════════════════════════════════════════
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 2: OUTLINE/BORDER ONLY
+   Minimal, elegant, less visual weight
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+.tag,
+a.tag,
+.cm-tag {
+  background-color: transparent;
+  color: var(--tag-primary) !important;
+  border: 1.5px solid var(--tag-primary);
+  padding: var(--tag-padding-y) var(--tag-padding-x);
+  border-radius: var(--tag-border-radius);
+  font-size: var(--tag-font-size);
+  font-weight: var(--tag-font-weight);
+  transition: all var(--tag-transition);
+}
+
+.tag:hover,
+a.tag:hover {
+  background-color: rgba(220, 38, 38, 0.1);
+  border-color: var(--tag-primary);
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 3: SOLID FILL (High Contrast)
+   Bold, high visibility, great for scanning
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+.tag,
+a.tag,
+.cm-tag {
+  background-color: var(--tag-primary);
+  color: #FFFFFF !important;
+  padding: var(--tag-padding-y) var(--tag-padding-x);
+  border-radius: var(--tag-border-radius);
+  font-size: var(--tag-font-size);
+  font-weight: var(--tag-font-weight);
+  transition: all var(--tag-transition);
+  border: none;
+}
+
+.tag:hover,
+a.tag:hover {
+  background-color: #991B1B;
+  box-shadow: 0 2px 8px rgba(220, 38, 38, 0.4);
+}
+
+.theme-dark .tag,
+.theme-dark a.tag {
+  background-color: rgba(220, 38, 38, 0.85);
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 4: UNDERLINE ONLY (Minimal)
+   Ultra-minimal, inline text feel
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+.tag,
+a.tag,
+.cm-tag {
+  background-color: transparent;
+  color: var(--tag-primary) !important;
+  border: none;
+  border-bottom: 2px solid var(--tag-primary);
+  padding: 0 2px;
+  border-radius: 0;
+  font-size: inherit;
+  font-weight: var(--tag-font-weight);
+  transition: all var(--tag-transition);
+}
+
+.tag:hover,
+a.tag:hover {
+  background-color: rgba(220, 38, 38, 0.1);
+  border-bottom-width: 3px;
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 5: ROUNDED BADGE (iOS Style)
+   Large border-radius, friendly appearance
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+.tag,
+a.tag,
+.cm-tag {
+  background-color: rgba(220, 38, 38, var(--tag-bg-opacity));
+  color: var(--tag-primary) !important;
+  padding: 0.25em 0.75em;
+  border-radius: 999px;
+  font-size: 0.8em;
+  font-weight: 600;
+  transition: all var(--tag-transition);
+  border: none;
+  letter-spacing: 0.02em;
+}
+
+.tag:hover,
+a.tag:hover {
+  background-color: rgba(220, 38, 38, 0.3);
+  transform: scale(1.05);
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 6: SQUARE BADGE (Angular)
+   Sharp corners, technical aesthetic
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+.tag,
+a.tag,
+.cm-tag {
+  background-color: rgba(220, 38, 38, var(--tag-bg-opacity));
+  color: var(--tag-primary) !important;
+  padding: 0.2em 0.6em;
+  border-radius: 0;
+  font-size: 0.8em;
+  font-weight: 600;
+  font-family: var(--font-monospace);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: all var(--tag-transition);
+  border-left: 3px solid var(--tag-primary);
+}
+
+.tag:hover,
+a.tag:hover {
+  background-color: rgba(220, 38, 38, 0.25);
+  border-left-width: 5px;
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 7: GLASSMORPHISM
+   Modern frosted glass effect
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+.tag,
+a.tag,
+.cm-tag {
+  background: rgba(220, 38, 38, 0.15);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: var(--tag-primary) !important;
+  padding: 0.3em 0.7em;
+  border-radius: 8px;
+  font-size: var(--tag-font-size);
+  font-weight: var(--tag-font-weight);
+  border: 1px solid rgba(220, 38, 38, 0.2);
+  transition: all var(--tag-transition);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.tag:hover,
+a.tag:hover {
+  background: rgba(220, 38, 38, 0.25);
+  border-color: rgba(220, 38, 38, 0.4);
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.2);
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 8: GRADIENT FILL
+   Eye-catching gradient backgrounds
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+.tag,
+a.tag,
+.cm-tag {
+  background: linear-gradient(135deg, var(--tag-primary) 0%, var(--tag-tertiary) 100%);
+  color: #FFFFFF !important;
+  padding: 0.25em 0.7em;
+  border-radius: 6px;
+  font-size: var(--tag-font-size);
+  font-weight: 600;
+  border: none;
+  transition: all var(--tag-transition);
+  box-shadow: 0 2px 4px rgba(220, 38, 38, 0.3);
+}
+
+.tag:hover,
+a.tag:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.4);
+}
+
+.theme-dark .tag,
+.theme-dark a.tag {
+  background: linear-gradient(135deg, var(--tag-primary) 0%, var(--tag-tertiary) 100%);
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 9: NEON GLOW
+   Cyberpunk aesthetic with glow effects
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+.tag,
+a.tag,
+.cm-tag {
+  background-color: transparent;
+  color: var(--tag-primary) !important;
+  padding: 0.25em 0.6em;
+  border-radius: 4px;
+  font-size: var(--tag-font-size);
+  font-weight: 600;
+  border: 1px solid var(--tag-primary);
+  transition: all var(--tag-transition);
+  text-shadow: 0 0 5px var(--tag-primary);
+  box-shadow: 
+    0 0 5px rgba(220, 38, 38, 0.3),
+    inset 0 0 5px rgba(220, 38, 38, 0.1);
+}
+
+.tag:hover,
+a.tag:hover {
+  background-color: rgba(220, 38, 38, 0.1);
+  text-shadow: 0 0 10px var(--tag-primary);
+  box-shadow: 
+    0 0 10px rgba(220, 38, 38, 0.5),
+    0 0 20px rgba(220, 38, 38, 0.3),
+    inset 0 0 10px rgba(220, 38, 38, 0.2);
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   STYLE 10: MATERIAL DESIGN CHIP
+   Google Material Design inspired
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+.tag,
+a.tag,
+.cm-tag {
+  background-color: rgba(220, 38, 38, 0.08);
+  color: var(--tag-primary) !important;
+  padding: 0.35em 0.85em;
+  border-radius: 16px;
+  font-size: 0.875em;
+  font-weight: 500;
+  border: none;
+  transition: 
+    background-color 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+    box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.tag::after,
+a.tag::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle, rgba(220, 38, 38, 0.3) 0%, transparent 70%);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tag:hover,
+a.tag:hover {
+  background-color: rgba(220, 38, 38, 0.15);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.tag:hover::after,
+a.tag:hover::after {
+  opacity: 1;
+}
+
+.tag:active,
+a.tag:active {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   BONUS: SPECIFIC TAG TARGETING
+   Style individual tags by exact name
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Example: Special styling for specific tags */
+/*
+a.tag[href="#todo"] {
+  background-color: rgba(239, 68, 68, 0.15);
+  color: #ef4444 !important;
+  border-left: 3px solid #ef4444;
+}
+
+a.tag[href="#done"],
+a.tag[href="#complete"] {
+  background-color: rgba(34, 197, 94, 0.15);
+  color: #22c55e !important;
+}
+
+a.tag[href="#in-progress"],
+a.tag[href="#wip"] {
+  background-color: rgba(245, 158, 11, 0.15);
+  color: #f59e0b !important;
+}
+
+a.tag[href="#idea"] {
+  background-color: rgba(168, 85, 247, 0.15);
+  color: #a855f7 !important;
+}
+
+a.tag[href="#question"] {
+  background-color: rgba(6, 182, 212, 0.15);
+  color: #06b6d4 !important;
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   BONUS: HIDE HASHTAG SYMBOL COMPLETELY
+   Cleaner look without the # prefix
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+.cm-hashtag-begin {
+  display: none;
+}
+
+.tag::before {
+  content: "" !important;
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   BONUS: ADD ICON BEFORE TAGS
+   Using Unicode symbols for visual interest
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+.tag::before,
+a.tag::before {
+  content: "🏷️ ";
+  font-size: 0.85em;
+}
+*/
+
+/* Or category-specific icons */
+/*
+a.tag[href*="#project"]::before { content: "📁 "; }
+a.tag[href*="#status"]::before { content: "📊 "; }
+a.tag[href*="#priority"]::before { content: "🔥 "; }
+a.tag[href*="#idea"]::before { content: "💡 "; }
+a.tag[href*="#todo"]::before { content: "☐ "; }
+a.tag[href*="#done"]::before { content: "✓ "; }
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   BONUS: TAG ANIMATIONS
+   Subtle motion effects (respects reduced-motion preference)
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/*
+@keyframes tag-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(220, 38, 38, 0.4); }
+  50% { box-shadow: 0 0 0 4px rgba(220, 38, 38, 0); }
+}
+
+.tag:hover,
+a.tag:hover {
+  animation: tag-pulse 1.5s infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tag:hover,
+  a.tag:hover {
+    animation: none;
+  }
+}
+*/
+
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   END OF SNIPPET
+   
+   CUSTOMIZATION TIPS:
+   1. Change --tag-primary, --tag-secondary, --tag-tertiary for your palette
+   2. Adjust --tag-border-radius for more/less rounding
+   3. Modify --tag-font-size for larger/smaller tags
+   4. Update semantic tag colors to match your workflow
+   5. Mix and match sections - semantic coloring works with any base style
+   
+   TROUBLESHOOTING:
+   - Tags not changing? Clear Obsidian cache (Ctrl+Shift+R / Cmd+Shift+R)
+   - Conflicts with theme? Increase specificity by adding .theme-light or .theme-dark prefix
+   - Editor vs Preview mismatch? Ensure both .tag and .cm-tag are styled
+   
+   PLUGIN COMPATIBILITY:
+   - Works with: Tag Wrangler, Colored Tags, Tagfolder
+   - May need adjustment for: Style Settings (check variable overrides)
+═══════════════════════════════════════════════════════════════════════════════
+*/

@@ -1,0 +1,129 @@
+/* ═══════════════════════════════════════════════════════════════
+   STYLE SET 5: Icon
+   Frosted glass effect with backdrop blur
+   ═══════════════════════════════════════════════════════════════ */
+
+  .callout-icon {
+    filter: drop-shadow(0 0 2px rgba(229, 0, 0, 0.5));
+    margin-right: 8px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--callout-color);
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 50%;
+    background-color: rgba(229, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+  }
+  /* Add terminal prompt symbol */
+  .callout-title::before {
+    content: '</>' !important;
+    margin-right: 8px;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ff0000ff;
+    font-weight: 600;
+    border-radius: 50%;
+    background-color: rgba(229, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+    font-size: 20px;
+  }
+  .callout-title {
+    position: relative !important;
+    padding: var(--callout-title-padding) !important;
+    background: rgba(var(--callout-color), var(--callout-title-bg-opacity)) !important;
+    color: rgb(var(--callout-color)) !important;
+    font-weight: 600 !important;
+    font-size: 0.95em !important;
+    letter-spacing: 0.3px !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: var(--callout-gap) !important;
+    border-radius: var(--callout-border-radius) !important;
+    transition: background var(--animation-speed-normal) !important;
+    transition: color var(--animation-speed-normal) !important;
+  }
+  
+  .callout:hover .callout-title {
+    background: rgba(var(--callout-color), calc(var(--callout-title-bg-opacity) * 1.3)) !important;
+  }
+  
+  /* Title inner glow */
+  .callout-title::after {
+    content: '' !important;
+    position: absolute !important;
+    bottom: -1px !important;
+    left: 0 !important;
+    right: 0 !important;
+    height: 1px !important;
+    background: linear-gradient(90deg,
+      transparent 0%,
+      rgba(var(--callout-color), 0.6) 50%,
+      transparent 100%) !important;
+    opacity: 0 !important;
+    transition: opacity var(--animation-speed-normal) !important;
+    pointer-events: none !important;
+  }
+
+  /* Text formatting support */
+.callout-content strong,
+.callout-content b,
+.callout-title strong,
+.callout-title b {
+  font-weight: 700 !important;                /* Proper bold weight */
+  color: #E50000 !important;                  /* Vivid Crimson */
+}
+
+.callout-content em,
+.callout-content i,
+.callout-title em,
+.callout-title i {
+  font-style: italic !important;
+  color: inherit !important;
+}
+
+.callout-content strong em,
+.callout-content em strong,
+.callout-content b i,
+.callout-content i b {
+  font-weight: 700 !important;                /* Keep bold weight */
+  font-style: italic !important;
+  color: #E50000 !important;                  /* Vivid Crimson for bold+italic */
+}
+
+/* Ensure markdown formatting is preserved */
+.callout-content .cm-strong,
+.callout-content .cm-em {
+  font-family: inherit !important;
+}
+
+.callout-content .cm-strong {
+  font-weight: 700 !important;                /* Proper bold weight */
+  color: #E50000 !important;                  /* Vivid Crimson */
+}
+
+.callout-content .cm-em {
+  font-style: italic !important;
+}
+
+/* Icon styling */
+.callout-icon {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  transition: transform var(--animation-speed-normal) var(--animation-easing) !important;
+}
+
+.callout:hover .callout-icon {
+  transform: scale(1.1) rotate(5deg) !important;
+}
+
+
+
+/* === Works beautifully with all three theme colors === */

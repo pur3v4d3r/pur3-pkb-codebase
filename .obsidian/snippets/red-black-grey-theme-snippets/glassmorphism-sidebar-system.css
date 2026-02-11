@@ -1,0 +1,95 @@
+/* =================================================================
+   Pur3v4d3r's Glassmorphism (FORCED PRIORITY)
+   Ref: Uses !important tags on every property to override Minimal Theme defaults
+   ================================================================= */
+
+body {
+    /* -- Configuration -- */
+    /* 75% opacity means 25% see-through. Lower this number for MORE transparency. */
+    --glass-opacity: 75% !important; 
+    
+    /* How blurry the background image/wallpaper looks through the glass */
+    --glass-blur-radius: 30px !important; 
+    
+    /* Your Crimson Accent (#E50000) tailored for the borders */
+    --glass-border-color: rgba(229, 0, 0, 0.3) !important;
+}
+
+/* 1. FORCE Ribbon Transparency (Far left strip) */
+.workspace-ribbon {
+    /* Mixes your chosen BG2 color with transparency */
+    background-color: color-mix(in srgb, var(--bg2) var(--glass-opacity), transparent) !important;
+    
+    /* Applies the blur */
+    backdrop-filter: blur(var(--glass-blur-radius)) !important;
+    -webkit-backdrop-filter: blur(var(--glass-blur-radius)) !important;
+    
+    /* Adds the purple rim light */
+    border-right: 1px solid var(--glass-border-color) !important;
+}
+
+/* 2. FORCE Sidebar Backgrounds (Left & Right Panels) */
+/* We target the split container to catch the background */
+.workspace-split.mod-left-split,
+.workspace-split.mod-right-split {
+    background-color: transparent !important;
+}
+
+/* We target the tabs container to apply the glass/color */
+.workspace-split.mod-left-split .workspace-tabs,
+.workspace-split.mod-right-split .workspace-tabs {
+    background-color: color-mix(in srgb, var(--bg2) var(--glass-opacity), transparent) !important;
+    backdrop-filter: blur(var(--glass-blur-radius)) !important;
+    -webkit-backdrop-filter: blur(var(--glass-blur-radius)) !important;
+    border: none !important;
+}
+
+/* 3. FORCE Sidebar Borders */
+.workspace-split.mod-left-split {
+    border-right: 1px solid var(--glass-border-color) !important;
+}
+
+.workspace-split.mod-right-split {
+    border-left: 1px solid var(--glass-border-color) !important;
+}
+
+/* 4. FORCE Tab Header Transparency */
+/* This ensures the tabs at the top of the sidebar blend in rather than having a solid block */
+.workspace-tab-header-container {
+    background-color: transparent !important;
+}
+
+/* 5. FORCE View Header (Breadcrumbs bar) Glass */
+.view-header {
+    background-color: color-mix(in srgb, var(--bg1) 80%, transparent) !important;
+    backdrop-filter: blur(10px) !important;
+    -webkit-backdrop-filter: blur(10px) !important;
+    border-bottom: 1px solid var(--glass-border-color) !important;
+}
+
+/* 6. Clean up potential conflicts with Minimal's "Translucency" setting */
+.theme-dark {
+    --background-secondary: transparent !important; /* Forces the variable itself to yield */
+}
+.theme-light {
+    --background-secondary: transparent !important; /* Forces the variable itself to yield */
+}
+/* H3 - Neon Magenta to Reactor Orange gradient */
+
+.theme-dark .markdown-preview-view h3,
+.theme-dark .markdown-source-view.mod-cm6 .cm-line.HyperMD-header-3,
+.theme-dark .cm-header-3,
+.markdown-preview-view h3,
+.cm-header-3,
+h3 {
+  background: linear-gradient(135deg, #E50000 0%, #FF0000 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+  background-clip: text !important;
+  color: transparent !important;
+  text-decoration: none !important;
+}
+*/
+/* =================================================================
+   END OF SNIPPET
+   ================================================================= */

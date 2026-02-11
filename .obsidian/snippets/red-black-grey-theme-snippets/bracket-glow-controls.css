@@ -1,0 +1,64 @@
+/* ══════════════════════════════════════════════════════════════════════════════════
+   BRACKET GLOW INTENSITY CONTROL
+   Quick toggles for different glow intensities
+   ══════════════════════════════════════════════════════════════════════════════════ */
+
+/* ═══ INTENSITY LEVELS ═══ */
+/* Comment/uncomment these sections to change intensity */
+
+/* SUBTLE GLOW - Uncomment this section for minimal effect */
+/*
+:root {
+  --bracket-shadow: 0 0 1px var(--red-shadow);
+}
+*/
+
+/* MEDIUM GLOW - Uncomment this section for balanced effect */
+/*:root {
+  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 6px var(--red-shadow);
+}
+
+/* INTENSE GLOW - Uncomment this section for maximum effect */
+
+:root {
+  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 6px var(--red-shadow), 0 0 12px var(--red-shadow) , 0 0 18px var(--red-shadow) !important;
+}
+*/
+
+/* PULSE EFFECT - Uncomment this section for animated pulsing */
+
+@keyframes bracket-pulse {
+  0%, 100% { text-shadow: 0 0 3px var(--red-shadow); }
+  50% { text-shadow: 0 0 8px var(--red-shadow), 0 0 12px var(--red-shadow); }
+}
+
+.cm-formatting-link,
+.cm-bracket {
+  animation: bracket-pulse 2s infinite ease-in-out;
+}
+*/
+
+/* COLOR VARIANTS - Replace red with other colors */
+/* BLUE VARIANT */
+/*
+:root {
+  --red-glow: #0066ff;
+  --red-shadow: rgba(0, 102, 255, 0.9);
+}
+*/
+
+/* GREEN VARIANT */
+/*
+:root {
+  --red-glow: #00ff00;
+  --red-shadow: rgba(0, 255, 0, 0.9);
+}
+*/
+
+/* PURPLE VARIANT */
+/*
+:root {
+  --red-glow: #9900ff;
+  --red-shadow: rgba(153, 0, 255, 0.9);
+}
+*/

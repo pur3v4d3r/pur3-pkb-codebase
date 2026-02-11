@@ -1,0 +1,200 @@
+📁 The_Prompt_Report-main
+⏱️  Generated in 9 ms
+──────────────────────────────────────────────────
+├── 📁 data
+│   ├── 📁 topic-gpt-data
+│   │   ├── 📁 prompt
+│   │   │   ├── 📃 generation_1.txt
+│   │   │   └── 📝 seed_1.md
+│   │   ├── 📄 generation_1_paper.jsonl
+│   │   ├── 📝 master_paper_organized.md
+│   │   ├── 📝 master_paper_removed.md
+│   │   ├── 📝 master_paper.md
+│   │   └── 📄 master_papers.jsonl
+│   ├── 📁 topic-model-data
+│   │   ├── 📁 sample-outputs
+│   │   │   ├── 📁 detected-phrases
+│   │   │   │   ├── 🗒️ params.json
+│   │   │   │   └── 🗒️ phrases.json
+│   │   │   ├── 📁 processed
+│   │   │   │   ├── 🗒️ params.json
+│   │   │   │   └── 📄 train.metadata.jsonl
+│   │   │   ├── 🌐 topic_outputs-10.html
+│   │   │   ├── 🌐 topic_outputs-25.html
+│   │   │   └── 🌐 topic_outputs-50.html
+│   │   └── 📃 stopwords.txt
+│   ├── 📄 arxiv_papers_for_human_review.csv
+│   ├── 📄 arxiv_papers_with_abstract.csv
+│   ├── 📄 blacklist.csv
+│   ├── 🗒️ cleaned_complete_paper_references.json
+│   ├── 🗒️ cleaned_merged_paper_references.json
+│   ├── 🗒️ mmlu_configs.json
+│   └── 🗒️ prompts.json
+├── 📁 src
+│   └── 📁 prompt_systematic_review
+│       ├── 📁 experiments
+│       │   ├── 🐍 __init__.py
+│       │   ├── 🐍 benchmarking.py
+│       │   ├── 🐍 count_models.py
+│       │   ├── 🐍 count_tool_mentions.py
+│       │   ├── 🐍 download_mmlu.py
+│       │   ├── 🐍 eval_prompts.py
+│       │   ├── 🐍 evaluate_human_agreement.py
+│       │   ├── 🐍 generation_1.py
+│       │   ├── 🐍 graph_dataset_citations.py
+│       │   ├── 🐍 graph_gpt_3_5_benchmarks.py
+│       │   ├── 🐍 graph_gpt_4_benchmarks200.py
+│       │   ├── 🐍 graph_internal_references.py
+│       │   ├── 🐍 graph_models.py
+│       │   ├── 🐍 graph_tool_mentions.py
+│       │   ├── 🐍 keyword_wordcloud.py
+│       │   ├── 🐍 papers_over_time.py
+│       │   ├── 🐍 run_tomotopy.py
+│       │   ├── 🐍 topicgpt.py
+│       │   └── 🐍 visualize_authors.py
+│       ├── 📁 get_papers
+│       │   ├── 🐍 acl_source.py
+│       │   ├── 🐍 arxiv_source.py
+│       │   ├── 🐍 download_acl.py
+│       │   ├── 🐍 download_arxiv.py
+│       │   ├── 🐍 download_semantic_scholar.py
+│       │   ├── 🐍 paperSource.py
+│       │   └── 🐍 semantic_scholar_source.py
+│       ├── 📁 utils
+│       │   ├── 🐍 keywords.py
+│       │   ├── 🐍 topic_gpt_utils.py
+│       │   └── 🐍 utils.py
+│       ├── 🐍 __init__.py
+│       ├── 🐍 automated_review.py
+│       ├── 🐍 collect_papers.py
+│       └── 🐍 config_data.py
+├── 📁 tests
+│   ├── 🐍 __init__.py
+│   ├── 🐍 test_automated_review.py
+│   ├── 🐍 test_benchmarking.py
+│   ├── 🐍 test_paper.py
+│   ├── 🐍 test_paperSource.py
+│   └── 🐍 test_utils.py
+├── 📄 example.env
+├── 📃 LICENSE.txt
+├── 🐍 main.py
+├── 📄 MANIFEST.in
+├── 📄 pytest.ini
+├── 📝 README.md
+├── 📃 requirements.txt
+├── 📄 setup.cfg
+└── 🐍 setup.py
+
+
+Looking at this project structure for **The Prompt Report** (a systematic literature review of prompt engineering), here are the most valuable files prioritized by their utility for your knowledge base development:
+
+## 🎯 Tier 1: Critical Foundation Files (Review First)
+
+### 1. **`/data/master_papers.jsonl`** ⭐⭐⭐⭐⭐
+**Why**: Complete structured dataset of all prompt engineering papers with metadata
+**Value**: 
+- Direct access to research citations for your exemplars
+- Abstracts for quick relevance assessment
+- Metadata for organizing by technique/year/venue
+- Foundation for your research backing requirements
+
+### 2. **`/data/arxiv_papers_with_abstract.csv`** ⭐⭐⭐⭐⭐
+**Why**: CSV format easier to query and analyze
+**Value**: 
+- Tabular structure for filtering by technique
+- Abstracts allow quick identification of implementation papers
+- You already have this uploaded - start here!
+
+### 3. **`/data/prompts.json`** ⭐⭐⭐⭐⭐
+**Why**: Actual prompt templates and examples from the research
+**Value**:
+- Real-world prompt patterns from academic papers
+- Templates you can adapt for your exemplars
+- Direct connection between theory and implementation
+
+## 🔬 Tier 2: Research Organization & Analysis
+
+### 4. **`/data/topic-gpt-data/master_paper_organized.md`** ⭐⭐⭐⭐
+**Why**: Papers already organized by topic/technique
+**Value**:
+- Pre-categorized for your technique-specific exemplars
+- Saves hours of manual organization
+- Shows relationships between papers
+
+### 5. **`/data/topic-model-data/sample-outputs/topic_outputs-*.html`** ⭐⭐⭐⭐
+**Why**: Visual clustering of research topics
+**Value**:
+- Identifies research clusters (e.g., CoT, ToT, RAG)
+- Shows which techniques have most research depth
+- Helps prioritize which exemplars to create first
+
+### 6. **`/src/prompt_systematic_review/experiments/topicgpt.py`** ⭐⭐⭐
+**Why**: Methodology for organizing prompt engineering literature
+**Value**:
+- Shows how experts categorize this field
+- Could inform your own taxonomy
+- Topic modeling approach you could replicate
+
+## 📊 Tier 3: Experimental & Validation Data
+
+### 7. **`/src/prompt_systematic_review/experiments/benchmarking.py`** ⭐⭐⭐
+**Why**: Evaluation methodologies for prompt techniques
+**Value**:
+- Benchmark datasets used in research
+- Evaluation protocols you can adopt
+- Connects to your Quality Assurance framework
+
+### 8. **`/data/mmlu_configs.json`** ⭐⭐
+**Why**: MMLU benchmark configurations
+**Value**:
+- Standard evaluation setup
+- Testing protocols for your exemplars
+
+## 🛠️ Recommended Workflow
+
+```python
+# Phase 1: Immediate Analysis
+1. START: arxiv_papers_with_abstract.csv (you have this)
+   - Filter by technique keywords
+   - Identify top-cited papers per technique
+   
+2. NEXT: prompts.json
+   - Extract template patterns
+   - Map to your exemplar structures
+   
+3. THEN: master_paper_organized.md
+   - Verify your technique taxonomy
+   - Identify integration patterns
+
+# Phase 2: Deep Dive (Next Session)
+4. topic_outputs-*.html
+   - Visual research landscape
+   - Identify gaps in your coverage
+   
+5. benchmarking.py
+   - Evaluation methodologies
+   - Adapt for your QA framework
+
+# Phase 3: Optional (If Needed)
+6. Source code files
+   - Only if you want to replicate their analysis
+   - Or understand their methodology deeper
+```
+
+## 🎬 Immediate Action Plan
+
+**I recommend we start with:**
+
+1. **`arxiv_papers_with_abstract.csv`** (you already uploaded ✅)
+   - Let me query it to show you what's inside
+   - Identify which papers support each technique
+   
+2. **Next upload: `prompts.json`**
+   - Will show actual prompt templates from literature
+   - Direct value for your exemplar templates
+
+3. **Then: `master_paper_organized.md`**
+   - Pre-organized taxonomy
+   - Validate against your current structure
+
+**Shall I start by analyzing the arxiv_papers_with_abstract.csv you've already uploaded to extract relevant papers for your current exemplar focus (Meta-ICL, HICL, or others)?**
