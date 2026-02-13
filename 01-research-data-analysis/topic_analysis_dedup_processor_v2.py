@@ -24,7 +24,7 @@ if sys.stdout.encoding != 'utf-8':
 
 BASE_DIR = Path(r"D:\10_pur3v4d3r's-vault\999-v4d3r\__exemplar\the-prompt-report-main\data")
 TOPIC_MODEL_DIR = BASE_DIR / "topic-model-data" / "sample-outputs"
-MASTER_PAPERS_PATH = BASE_DIR.parent.parent / "topic-gpt-data" / "master_papers.jsonl"
+MASTER_PAPERS_PATH = BASE_DIR / "topic-gpt-data" / "master_papers.jsonl"
 OUTPUT_DIR = Path(r"D:\10_pur3v4d3r's-vault\01-research-data-analysis")
 EXEMPLAR_DIR = Path(r"D:\10_pur3v4d3r's-vault\999-v4d3r\__exemplar")
 
