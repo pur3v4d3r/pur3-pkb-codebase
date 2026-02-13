@@ -1,0 +1,263 @@
+{
+  "document": "doc3-advanced-reasoning-architectures-theory-to-practice.md",
+  "citations_extracted": 13,
+  "techniques_covered": [
+    "Self-Consistency",
+    "ReAct",
+    "RAG",
+    "Reflexion"
+  ],
+  "citations_by_technique": {
+    "Self-Consistency": [
+      {
+        "paper_id": "3d68522abfadfc8ee6b7ec9edaaf91f1b2f38e5e",
+        "abstract_excerpt": "Large language models have achieved impressive performance on various natural language processing tasks. However, so far they have been evaluated primarily on benchmarks where all information in the i...",
+        "relevance": "high",
+        "techniques": [
+          "Self-Consistency"
+        ],
+        "citation_context": "Use for Self-Consistency explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "0c8446eedfe083e0ee32f5c4f793e5435904014a",
+        "abstract_excerpt": "Text normalization - the conversion of text from written to spoken form - is traditionally assumed to be an ill-formed task for language models. In this work, we argue otherwise. We empirically show t...",
+        "relevance": "medium",
+        "techniques": [
+          "Few-Shot",
+          "Prompt Engineering",
+          "Self-Consistency"
+        ],
+        "citation_context": "Use for Self-Consistency explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "22d5459d1f47341b355feeb1becc37208d6ec365",
+        "abstract_excerpt": "Large language Models (LLMs) have achieved promising performance on arithmetic reasoning tasks by incorporating step-by-step chain-of-thought (CoT) prompting. However, LLMs face challenges in maintain...",
+        "relevance": "medium",
+        "techniques": [
+          "Chain-of-Thought",
+          "Self-Consistency",
+          "Self-Refine"
+        ],
+        "citation_context": "Use for Self-Consistency explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "32426b96ff3c680125bde3b835bfa931288b8ade",
+        "abstract_excerpt": "Large Language models (LLMs) can be induced to solve non-trivial problems with “few-shot” prompts including illustrative problem-solution examples. Now if the few-shots also include “chain of thought”...",
+        "relevance": "medium",
+        "techniques": [
+          "Chain-of-Thought",
+          "Few-Shot",
+          "Self-Consistency"
+        ],
+        "citation_context": "Use for Self-Consistency explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "dca6c3927ade6481a1ae080f5c24decbfeced1be",
+        "abstract_excerpt": "Methods such as chain-of-thought prompting and self-consistency have pushed the frontier of language model reasoning performance with no additional training. To further improve performance, we propose...",
+        "relevance": "medium",
+        "techniques": [
+          "Chain-of-Thought",
+          "Few-Shot",
+          "Self-Consistency"
+        ],
+        "citation_context": "Use for Self-Consistency explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      }
+    ],
+    "ReAct": [
+      {
+        "paper_id": "d3ca116177369bf6fbe27de64506a2f401aca996",
+        "abstract_excerpt": "Large language models (LLMs) demonstrate impressive reasoning abilities, but translating reasoning into actions in the real world remains challenging. In particular, it remains unclear how to complete...",
+        "relevance": "high",
+        "techniques": [
+          "ReAct"
+        ],
+        "citation_context": "Use for ReAct explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "107aa1e3b1ce604d953475baf98674e92a723bda",
+        "abstract_excerpt": "Large language models (LLMs) have achieved remarkable success across a wide spectrum of tasks; however, they still face limitations in scenarios that demand long-term planning and spatial reasoning. T...",
+        "relevance": "medium",
+        "techniques": [
+          "Few-Shot",
+          "Few-Shot Prompting",
+          "Fine-tuning",
+          "ReAct"
+        ],
+        "citation_context": "Use for ReAct explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "67daf8c4fe1958d20ebdf95c2a36dd490c73836f",
+        "abstract_excerpt": "Recent efforts have augmented language models (LMs) with external tools or environments, leading to the development of language agents that can reason and act. However, most of these agents rely on fe...",
+        "relevance": "medium",
+        "techniques": [
+          "Few-Shot",
+          "Few-Shot Prompting",
+          "Fine-tuning",
+          "ReAct"
+        ],
+        "citation_context": "Use for ReAct explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      }
+    ],
+    "RAG": [
+      {
+        "paper_id": "0270ec4bc946b59c5cf6204be2553682dee0346c",
+        "abstract_excerpt": "Novel architectures have recently improved generative image synthesis leading to excellent visual quality in various tasks. Of particular note is the field of ``AI-Art'', which has seen unprecedented ...",
+        "relevance": "high",
+        "techniques": [
+          "RAG"
+        ],
+        "citation_context": "Use for RAG explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "191e300e381d4128b749d16fe3d83c8643a3bd1f",
+        "abstract_excerpt": "Text-to-SQL aims at generating SQL queries for the given natural language questions and thus helping users to query databases. Prompt learning with large language models (LLMs) has emerged as a recent...",
+        "relevance": "high",
+        "techniques": [
+          "RAG"
+        ],
+        "citation_context": "Use for RAG explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "1a62bc8ed9732bcdb6893a11f5cf239640883f87",
+        "abstract_excerpt": "Most existing retrieval-augmented language models (LMs) for question answering assume all retrieved information is factually correct. In this work, we study a more realistic scenario in which retrieve...",
+        "relevance": "high",
+        "techniques": [
+          "Few-Shot",
+          "Fine-tuning",
+          "In-Context Learning",
+          "RAG"
+        ],
+        "citation_context": "Use for RAG explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "03532123ccffae8d411264320e8a5ae2b6eddea0",
+        "abstract_excerpt": "Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM). Existing work has combi...",
+        "relevance": "medium",
+        "techniques": [
+          "In-Context Learning",
+          "RAG",
+          "Self-Ask"
+        ],
+        "citation_context": "Use for RAG explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      }
+    ],
+    "Reflexion": [
+      {
+        "paper_id": "e61a96cf602ebff6683929aaf916e25614a475bc",
+        "abstract_excerpt": "Large Language Models (LLMs) have demonstrated impressive inferential capabilities, with numerous research endeavors devoted to enhancing this capacity through prompting. Despite these efforts, a unif...",
+        "relevance": "high",
+        "techniques": [
+          "Chain-of-Thought",
+          "Reflexion"
+        ],
+        "citation_context": "Use for Reflexion explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      }
+    ]
+  },
+  "bibliography": [
+    "[1] Paper ID 3d68522abfadfc8ee6b7ec9edaaf91f1b2f38e5e - Large language models have achieved impressive performance on various natural language processing tasks. However, so far they have been evaluated primarily on benchmarks where all information in the i...",
+    "[2] Paper ID d3ca116177369bf6fbe27de64506a2f401aca996 - Large language models (LLMs) demonstrate impressive reasoning abilities, but translating reasoning into actions in the real world remains challenging. In particular, it remains unclear how to complete...",
+    "[3] Paper ID 0270ec4bc946b59c5cf6204be2553682dee0346c - Novel architectures have recently improved generative image synthesis leading to excellent visual quality in various tasks. Of particular note is the field of ``AI-Art'', which has seen unprecedented ...",
+    "[4] Paper ID 191e300e381d4128b749d16fe3d83c8643a3bd1f - Text-to-SQL aims at generating SQL queries for the given natural language questions and thus helping users to query databases. Prompt learning with large language models (LLMs) has emerged as a recent...",
+    "[5] Paper ID 1a62bc8ed9732bcdb6893a11f5cf239640883f87 - Most existing retrieval-augmented language models (LMs) for question answering assume all retrieved information is factually correct. In this work, we study a more realistic scenario in which retrieve...",
+    "[6] Paper ID e61a96cf602ebff6683929aaf916e25614a475bc - Large Language Models (LLMs) have demonstrated impressive inferential capabilities, with numerous research endeavors devoted to enhancing this capacity through prompting. Despite these efforts, a unif...",
+    "[7] Paper ID 0c8446eedfe083e0ee32f5c4f793e5435904014a - Text normalization - the conversion of text from written to spoken form - is traditionally assumed to be an ill-formed task for language models. In this work, we argue otherwise. We empirically show t...",
+    "[8] Paper ID 22d5459d1f47341b355feeb1becc37208d6ec365 - Large language Models (LLMs) have achieved promising performance on arithmetic reasoning tasks by incorporating step-by-step chain-of-thought (CoT) prompting. However, LLMs face challenges in maintain...",
+    "[9] Paper ID 32426b96ff3c680125bde3b835bfa931288b8ade - Large Language models (LLMs) can be induced to solve non-trivial problems with “few-shot” prompts including illustrative problem-solution examples. Now if the few-shots also include “chain of thought”...",
+    "[10] Paper ID dca6c3927ade6481a1ae080f5c24decbfeced1be - Methods such as chain-of-thought prompting and self-consistency have pushed the frontier of language model reasoning performance with no additional training. To further improve performance, we propose...",
+    "[11] Paper ID 107aa1e3b1ce604d953475baf98674e92a723bda - Large language models (LLMs) have achieved remarkable success across a wide spectrum of tasks; however, they still face limitations in scenarios that demand long-term planning and spatial reasoning. T...",
+    "[12] Paper ID 67daf8c4fe1958d20ebdf95c2a36dd490c73836f - Recent efforts have augmented language models (LMs) with external tools or environments, leading to the development of language agents that can reason and act. However, most of these agents rely on fe...",
+    "[13] Paper ID 03532123ccffae8d411264320e8a5ae2b6eddea0 - Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM). Existing work has combi..."
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "document": "doc4-agentic-workflow-design-patterns.md",
+  "citations_extracted": 6,
+  "techniques_covered": [
+    "ReAct",
+    "RAG",
+    "Reflexion"
+  ],
+  "citations_by_technique": {
+    "ReAct": [
+      {
+        "paper_id": "d3ca116177369bf6fbe27de64506a2f401aca996",
+        "abstract_excerpt": "Large language models (LLMs) demonstrate impressive reasoning abilities, but translating reasoning into actions in the real world remains challenging. In particular, it remains unclear how to complete...",
+        "relevance": "high",
+        "techniques": [
+          "ReAct"
+        ],
+        "citation_context": "Use for ReAct explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "107aa1e3b1ce604d953475baf98674e92a723bda",
+        "abstract_excerpt": "Large language models (LLMs) have achieved remarkable success across a wide spectrum of tasks; however, they still face limitations in scenarios that demand long-term planning and spatial reasoning. T...",
+        "relevance": "medium",
+        "techniques": [
+          "Few-Shot",
+          "Few-Shot Prompting",
+          "Fine-tuning",
+          "ReAct"
+        ],
+        "citation_context": "Use for ReAct explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "67daf8c4fe1958d20ebdf95c2a36dd490c73836f",
+        "abstract_excerpt": "Recent efforts have augmented language models (LMs) with external tools or environments, leading to the development of language agents that can reason and act. However, most of these agents rely on fe...",
+        "relevance": "medium",
+        "techniques": [
+          "Few-Shot",
+          "Few-Shot Prompting",
+          "Fine-tuning",
+          "ReAct"
+        ],
+        "citation_context": "Use for ReAct explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      }
+    ],
+    "RAG": [
+      {
+        "paper_id": "0270ec4bc946b59c5cf6204be2553682dee0346c",
+        "abstract_excerpt": "Novel architectures have recently improved generative image synthesis leading to excellent visual quality in various tasks. Of particular note is the field of ``AI-Art'', which has seen unprecedented ...",
+        "relevance": "high",
+        "techniques": [
+          "RAG"
+        ],
+        "citation_context": "Use for RAG explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      },
+      {
+        "paper_id": "03532123ccffae8d411264320e8a5ae2b6eddea0",
+        "abstract_excerpt": "Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM). Existing work has combi...",
+        "relevance": "medium",
+        "techniques": [
+          "In-Context Learning",
+          "RAG",
+          "Self-Ask"
+        ],
+        "citation_context": "Use for RAG explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      }
+    ],
+    "Reflexion": [
+      {
+        "paper_id": "e61a96cf602ebff6683929aaf916e25614a475bc",
+        "abstract_excerpt": "Large Language Models (LLMs) have demonstrated impressive inferential capabilities, with numerous research endeavors devoted to enhancing this capacity through prompting. Despite these efforts, a unif...",
+        "relevance": "high",
+        "techniques": [
+          "Chain-of-Thought",
+          "Reflexion"
+        ],
+        "citation_context": "Use for Reflexion explanation and examples",
+        "metadata_available": {
+          "title": null,
+          "authors": null,
+          "year": null,
+          "doi": null,
+          "arxiv": null
+        }
+      }
+    ]
+  },
+  "bibliography": [
+    "[1] Paper ID d3ca116177369bf6fbe27de64506a2f401aca996 - Large language models (LLMs) demonstrate impressive reasoning abilities, but translating reasoning into actions in the real world remains challenging. In particular, it remains unclear how to complete...",
+    "[2] Paper ID 0270ec4bc946b59c5cf6204be2553682dee0346c - Novel architectures have recently improved generative image synthesis leading to excellent visual quality in various tasks. Of particular note is the field of ``AI-Art'', which has seen unprecedented ...",
+    "[3] Paper ID e61a96cf602ebff6683929aaf916e25614a475bc - Large Language Models (LLMs) have demonstrated impressive inferential capabilities, with numerous research endeavors devoted to enhancing this capacity through prompting. Despite these efforts, a unif...",
+    "[4] Paper ID 107aa1e3b1ce604d953475baf98674e92a723bda - Large language models (LLMs) have achieved remarkable success across a wide spectrum of tasks; however, they still face limitations in scenarios that demand long-term planning and spatial reasoning. T...",
+    "[5] Paper ID 67daf8c4fe1958d20ebdf95c2a36dd490c73836f - Recent efforts have augmented language models (LMs) with external tools or environments, leading to the development of language agents that can reason and act. However, most of these agents rely on fe...",
+    "[6] Paper ID 03532123ccffae8d411264320e8a5ae2b6eddea0 - Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM). Existing work has combi..."
+  ]
+}
