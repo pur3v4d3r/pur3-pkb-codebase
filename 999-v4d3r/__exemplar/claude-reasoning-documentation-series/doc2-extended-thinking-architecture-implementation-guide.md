@@ -2484,5 +2484,37 @@ class ThinkingQualityAssessor:
 
 ---
 
+## References
+
+This document is supported by 13 research papers covering advanced LLM prompting and reasoning techniques.
+
+[1] Nayoung Lee, "Teaching Arithmetic to Small Transformers," 2023.
+
+[2] Qian Huang, "PRODIGY: Enabling In-context Learning Over Graphs," 2023.
+
+[3] Shan Chen, "Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification," 2023.
+
+[4] Robin Rombach, "Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models," 2022.
+
+[5] [Paper ID: 191e300e381d] Abstract: "Text-to-SQL aims at generating SQL queries for the given natural language questions and thus helping..." [Metadata pending manual review]
+
+[6] Giwon Hong, "Discern and Answer: Mitigating the Impact of Misinformation in Retrieval-Augmented Models with Discriminators," 2023.
+
+[7] Zachary Levonian, "Retrieval-augmented Generation to Improve Math Question-Answering: Trade-offs Between Groundedness and Human Preference," 2023.
+
+[8] Christian Munley, "LLM4VV: Developing LLM-Driven Testsuite for Compiler Validation," 2023.
+
+[9] Xinbei Ma, "Query Rewriting for Retrieval-Augmented Large Language Models," 2023.
+
+[10] Omar Khattab, "Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP," 2022.
+
+[11] Mohamed Aghzal, "Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning," 2023.
+
+[12] Hejia Geng, "UPAR: A Kantian-Inspired Prompting Framework for Enhancing Large Language Model Capabilities," 2023.
+
+[13] Yang Zhang, "A Chat About Boring Problems: Studying GPT-based text normalization," 2023.
+
+---
+
 **End of Document**
 

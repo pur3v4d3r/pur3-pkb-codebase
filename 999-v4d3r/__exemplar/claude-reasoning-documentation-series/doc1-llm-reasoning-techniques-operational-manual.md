@@ -1168,5 +1168,43 @@ These six expansion topics form a comprehensive knowledge ecosystem around LLM r
 
 ---
 
+## References
+
+This document is supported by 16 research papers covering advanced LLM prompting and reasoning techniques.
+
+[1] Cheng Li, "Automatic Prompt Rewriting for Personalized Text Generation," 2023.
+
+[2] Nayoung Lee, "Teaching Arithmetic to Small Transformers," 2023.
+
+[3] Qian Huang, "PRODIGY: Enabling In-context Learning Over Graphs," 2023.
+
+[4] [Paper ID: 6384921f1bd1] Abstract: "Systematic reviews (SRs) are a critical component of evidence-based medicine, but the process of scr..." [Metadata pending manual review]
+
+[5] Shan Chen, "Evaluation of ChatGPT Family of Models for Biomedical Reasoning and Classification," 2023.
+
+[6] Robin Rombach, "Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models," 2022.
+
+[7] Omar Khattab, "Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP," 2022.
+
+[8] Zhihan Liu, "Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency," 2023.
+
+[9] Mohamed Aghzal, "Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning," 2023.
+
+[10] Baian Chen, "FireAct: Toward Language Agent Fine-tuning," 2023.
+
+[11] Hejia Geng, "UPAR: A Kantian-Inspired Prompting Framework for Enhancing Large Language Model Capabilities," 2023.
+
+[12] Freda Shi, "Large Language Models Can Be Easily Distracted by Irrelevant Context," 2023.
+
+[13] Yang Zhang, "A Chat About Boring Problems: Studying GPT-based text normalization," 2023.
+
+[14] [Paper ID: 22d5459d1f47] Abstract: "Large language Models (LLMs) have achieved promising performance on arithmetic reasoning tasks by in..." [Metadata pending manual review]
+
+[15] Toufique Ahmed, "Better patching using LLM prompting, via Self-Consistency," 2023.
+
+[16] Bin Lei, "Boosting Logical Reasoning in Large Language Models through a New Framework: The Graph of Thought," 2023.
+
+---
+
 **End of Document**
 
