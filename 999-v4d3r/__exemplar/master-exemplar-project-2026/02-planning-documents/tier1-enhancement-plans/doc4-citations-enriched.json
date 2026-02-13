@@ -1,0 +1,201 @@
+{
+  "document": "doc4-agentic-workflow-design-patterns.md",
+  "citations_extracted": 6,
+  "techniques_covered": [
+    "ReAct",
+    "RAG",
+    "Reflexion"
+  ],
+  "citations_by_technique": {
+    "ReAct": [
+      {
+        "paper_id": "d3ca116177369bf6fbe27de64506a2f401aca996",
+        "abstract_excerpt": "Large language models (LLMs) demonstrate impressive reasoning abilities, but translating reasoning into actions in the real world remains challenging. In particular, it remains unclear how to complete...",
+        "metadata_enriched": true,
+        "match_confidence": 79.2,
+        "metadata": {
+          "title": "Reason for Future, Act for Now: A Principled Framework for Autonomous  LLM Agents with Provable Sample Efficiency",
+          "authors": "Zhihan Liu",
+          "author_full": "Zhihan Liu",
+          "year": 2023,
+          "venue": "arXiv",
+          "arxiv_id": null,
+          "arxiv_url": null,
+          "doi": null,
+          "keywords": [
+            "['cs.ai'",
+            "'cs.lg']"
+          ]
+        },
+        "citation_ieee": "Zhihan Liu, \"Reason for Future, Act for Now: A Principled Framework for Autonomous  LLM Agents with Provable Sample Efficiency.\"",
+        "relevance": "high",
+        "techniques": [
+          "ReAct"
+        ],
+        "primary_technique": "ReAct",
+        "mention_count": 47,
+        "citation_context": "Use for ReAct explanation and examples"
+      },
+      {
+        "paper_id": "107aa1e3b1ce604d953475baf98674e92a723bda",
+        "abstract_excerpt": "Large language models (LLMs) have achieved remarkable success across a wide spectrum of tasks; however, they still face limitations in scenarios that demand long-term planning and spatial reasoning. T...",
+        "metadata_enriched": true,
+        "match_confidence": 79.2,
+        "metadata": {
+          "title": "Can Large Language Models be Good Path Planners? A Benchmark and  Investigation on Spatial-temporal Reasoning",
+          "authors": "Mohamed Aghzal",
+          "author_full": "Mohamed Aghzal",
+          "year": 2023,
+          "venue": "arXiv",
+          "arxiv_id": null,
+          "arxiv_url": null,
+          "doi": null,
+          "keywords": [
+            "['cs.cl']"
+          ]
+        },
+        "citation_ieee": "Mohamed Aghzal, \"Can Large Language Models be Good Path Planners? A Benchmark and  Investigation on Spatial-temporal Reasoning.\"",
+        "relevance": "medium",
+        "techniques": [
+          "Few-Shot",
+          "Few-Shot Prompting",
+          "Fine-tuning",
+          "ReAct"
+        ],
+        "primary_technique": "ReAct",
+        "mention_count": 48,
+        "citation_context": "Use for ReAct explanation and examples"
+      },
+      {
+        "paper_id": "67daf8c4fe1958d20ebdf95c2a36dd490c73836f",
+        "abstract_excerpt": "Recent efforts have augmented language models (LMs) with external tools or environments, leading to the development of language agents that can reason and act. However, most of these agents rely on fe...",
+        "metadata_enriched": true,
+        "match_confidence": 78.7,
+        "metadata": {
+          "title": "FireAct: Toward Language Agent Fine-tuning",
+          "authors": "Baian Chen",
+          "author_full": "Baian Chen",
+          "year": 2023,
+          "venue": "arXiv",
+          "arxiv_id": null,
+          "arxiv_url": null,
+          "doi": null,
+          "keywords": [
+            "['cs.cl'",
+            "'cs.ai'",
+            "'cs.lg']"
+          ]
+        },
+        "citation_ieee": "Baian Chen, \"FireAct: Toward Language Agent Fine-tuning.\"",
+        "relevance": "medium",
+        "techniques": [
+          "Few-Shot",
+          "Few-Shot Prompting",
+          "Fine-tuning",
+          "ReAct"
+        ],
+        "primary_technique": "ReAct",
+        "mention_count": 47,
+        "citation_context": "Use for ReAct explanation and examples"
+      }
+    ],
+    "RAG": [
+      {
+        "paper_id": "0270ec4bc946b59c5cf6204be2553682dee0346c",
+        "abstract_excerpt": "Novel architectures have recently improved generative image synthesis leading to excellent visual quality in various tasks. Of particular note is the field of ``AI-Art'', which has seen unprecedented ...",
+        "metadata_enriched": true,
+        "match_confidence": 79.2,
+        "metadata": {
+          "title": "Text-Guided Synthesis of Artistic Images with Retrieval-Augmented  Diffusion Models",
+          "authors": "Robin Rombach",
+          "author_full": "Robin Rombach",
+          "year": 2022,
+          "venue": "arXiv",
+          "arxiv_id": null,
+          "arxiv_url": null,
+          "doi": null,
+          "keywords": [
+            "['cs.cv']"
+          ]
+        },
+        "citation_ieee": "Robin Rombach, \"Text-Guided Synthesis of Artistic Images with Retrieval-Augmented  Diffusion Models.\"",
+        "relevance": "high",
+        "techniques": [
+          "RAG"
+        ],
+        "primary_technique": "RAG",
+        "mention_count": 45,
+        "citation_context": "Use for RAG explanation and examples"
+      },
+      {
+        "paper_id": "03532123ccffae8d411264320e8a5ae2b6eddea0",
+        "abstract_excerpt": "Retrieval-augmented in-context learning has emerged as a powerful approach for addressing knowledge-intensive tasks using frozen language models (LM) and retrieval models (RM). Existing work has combi...",
+        "metadata_enriched": true,
+        "match_confidence": 79.2,
+        "metadata": {
+          "title": "Demonstrate-Search-Predict: Composing retrieval and language models for  knowledge-intensive NLP",
+          "authors": "Omar Khattab",
+          "author_full": "Omar Khattab",
+          "year": 2022,
+          "venue": "arXiv",
+          "arxiv_id": null,
+          "arxiv_url": null,
+          "doi": null,
+          "keywords": [
+            "['cs.cl'",
+            "'cs.ir']"
+          ]
+        },
+        "citation_ieee": "Omar Khattab, \"Demonstrate-Search-Predict: Composing retrieval and language models for  knowledge-intensive NLP.\"",
+        "relevance": "medium",
+        "techniques": [
+          "In-Context Learning",
+          "RAG",
+          "Self-Ask"
+        ],
+        "primary_technique": "RAG",
+        "mention_count": 45,
+        "citation_context": "Use for RAG explanation and examples"
+      }
+    ],
+    "Reflexion": [
+      {
+        "paper_id": "e61a96cf602ebff6683929aaf916e25614a475bc",
+        "abstract_excerpt": "Large Language Models (LLMs) have demonstrated impressive inferential capabilities, with numerous research endeavors devoted to enhancing this capacity through prompting. Despite these efforts, a unif...",
+        "metadata_enriched": true,
+        "match_confidence": 79.2,
+        "metadata": {
+          "title": "UPAR: A Kantian-Inspired Prompting Framework for Enhancing Large  Language Model Capabilities",
+          "authors": "Hejia Geng",
+          "author_full": "Hejia Geng",
+          "year": 2023,
+          "venue": "arXiv",
+          "arxiv_id": null,
+          "arxiv_url": null,
+          "doi": null,
+          "keywords": [
+            "['cs.cl'",
+            "'cs.ai']"
+          ]
+        },
+        "citation_ieee": "Hejia Geng, \"UPAR: A Kantian-Inspired Prompting Framework for Enhancing Large  Language Model Capabilities.\"",
+        "relevance": "high",
+        "techniques": [
+          "Chain-of-Thought",
+          "Reflexion"
+        ],
+        "primary_technique": "Reflexion",
+        "mention_count": 24,
+        "citation_context": "Use for Reflexion explanation and examples"
+      }
+    ]
+  },
+  "bibliography": [
+    "[2] Zhihan Liu, \"Reason for Future, Act for Now: A Principled Framework for Autonomous  LLM Agents with Provable Sample Efficiency.\"",
+    "[3] Hejia Geng, \"UPAR: A Kantian-Inspired Prompting Framework for Enhancing Large  Language Model Capabilities.\"",
+    "[4] Robin Rombach, \"Text-Guided Synthesis of Artistic Images with Retrieval-Augmented  Diffusion Models.\"",
+    "[10] Mohamed Aghzal, \"Can Large Language Models be Good Path Planners? A Benchmark and  Investigation on Spatial-temporal Reasoning.\"",
+    "[11] Baian Chen, \"FireAct: Toward Language Agent Fine-tuning.\"",
+    "[12] Omar Khattab, \"Demonstrate-Search-Predict: Composing retrieval and language models for  knowledge-intensive NLP.\""
+  ]
+}
