@@ -537,7 +537,7 @@ response = llm.generate(
 
 **Mode 4: `interleaved`**
 
-[**Interleaved-Mode-Behavior**:: Allows thinking blocks to be interspersed with tool calls and response generation for complex multi-step workflows - enabling reasoning → action → reasoning → action patterns in agentic systems.]**
+[**Interleaved-Mode-Behavior**:: Allows thinking blocks to be interspersed with tool calls and response generation for complex multi-step workflows - enabling reasoning → action → reasoning → action patterns in agentic systems, similar to demonstrate-search-predict approaches that compose retrieval with reasoning.]** [10]
 
 ```xml
 <!-- Example interleaved thinking pattern -->
@@ -569,10 +569,11 @@ response = llm.generate(
 ```
 
 **Use Cases**:
-- [[ReAct]] framework implementations
-- [[Reflexion]] multi-trial learning
-- Complex research tasks requiring iterative information gathering
+- [[ReAct]] framework implementations [11]
+- [[Reflexion]] multi-trial learning [12]
+- Complex research tasks requiring iterative information gathering [10]
 - Agentic workflows with dynamic planning
+- Retrieval-augmented workflows where external knowledge informs reasoning [6] [7]
 
 ### Mode Selection Decision Tree
 
@@ -1519,7 +1520,7 @@ class TokenBudgetMonitor:
 
 ## Caching Strategies
 
-[**Thinking-Cache-Optimization**:: Techniques for reusing previously generated thinking blocks or reasoning patterns across similar queries, reducing redundant computation and improving latency.]**
+[**Thinking-Cache-Optimization**:: Techniques for reusing previously generated thinking blocks or reasoning patterns across similar queries, reducing redundant computation and improving latency - analogous to retrieval-augmented approaches where cached reasoning serves as external knowledge to augment generation.]** [4] [9] [10]
 
 ### Reasoning Pattern Cache
 
@@ -1547,6 +1548,9 @@ class ReasoningPatternCache:
     def lookup(self, query):
         """
         Attempt to retrieve cached reasoning pattern.
+
+        Similar to retrieval-augmented generation where relevant
+        context is retrieved to inform generation [10].
         """
         key = self.get_cache_key(query)
         
@@ -1578,14 +1582,17 @@ class ReasoningPatternCache:
     def adapt_pattern(self, cached_pattern, specific_query):
         """
         Adapt cached reasoning pattern to specific query.
+
+        Pattern adaptation parallels query rewriting in RAG systems,
+        where queries are reformulated to improve retrieval [9].
         """
         adapted = cached_pattern.copy()
-        
+
         # Replace placeholders with query-specific content
         adapted['problem_description'] = specific_query
         adapted['specific_constraints'] = extract_constraints(specific_query)
         adapted['domain_context'] = get_domain_context(specific_query)
-        
+
         return adapted
 ```
 
@@ -2421,7 +2428,7 @@ class ThinkingQualityAssessor:
 
 **Connection**: Extended thinking addresses cognitive constraints by providing explicit reasoning space, but deeper exploration of how human cognitive load principles map to LLM attention mechanisms, context windows, and reasoning capacity would illuminate design principles.
 
-**Depth Potential**: Working memory limitations in transformers, attention bottlenecks, cognitive load measurement in LLMs, schema formation through in-context learning, dual-process theory analogues in neural architectures.
+**Depth Potential**: Working memory limitations in transformers, attention bottlenecks, cognitive load measurement in LLMs, schema formation through in-context learning [2], dual-process theory analogues in neural architectures.
 
 **Knowledge Graph Role**: Bridges cognitive science with AI architecture, grounding practical patterns in theoretical foundations.
 
@@ -2433,7 +2440,7 @@ class ThinkingQualityAssessor:
 
 **Connection**: This document focuses on extended thinking infrastructure, while integration patterns would explore how thinking tags enable sophisticated reasoning techniques like [[Tree of Thoughts]], [[Self-Consistency]], [[Chain of Verification]] - providing implementation recipes for combined patterns.
 
-**Depth Potential**: Integration recipes for ToT+Extended Thinking, Self-Consistency with thinking-based validation, CoVe with thinking-based verification planning, multi-technique orchestration, technique selection frameworks.
+**Depth Potential**: Integration recipes for ToT+Extended Thinking, Self-Consistency with thinking-based validation [13], CoVe with thinking-based verification planning, multi-technique orchestration, technique selection frameworks.
 
 **Knowledge Graph Role**: Connects infrastructure (this document) with reasoning techniques (Document 1), providing integration layer between architectural capabilities and reasoning algorithms.
 
@@ -2443,9 +2450,9 @@ class ThinkingQualityAssessor:
 
 ### 5. **[[Prompt Engineering for Extended Thinking]]**
 
-**Connection**: While this document explains how extended thinking works architecturally, a focused guide on prompting patterns to maximize thinking effectiveness would provide practical recipes for eliciting high-quality reasoning.
+**Connection**: While this document explains how extended thinking works architecturally, a focused guide on prompting patterns to maximize thinking effectiveness would provide practical recipes for eliciting high-quality reasoning [3].
 
-**Depth Potential**: Prompt patterns for structured thinking, templates for validation checkpoints, meta-prompts for self-correction, few-shot examples demonstrating thinking quality, anti-patterns to avoid, domain-specific thinking templates.
+**Depth Potential**: Prompt patterns for structured thinking [3], templates for validation checkpoints, meta-prompts for self-correction, few-shot examples demonstrating thinking quality [1], anti-patterns to avoid, domain-specific thinking templates.
 
 **Knowledge Graph Role**: Practical application layer connecting architecture to user-facing prompting, bridging [[Prompt Engineering]], [[Extended Thinking]], and [[Quality Assurance]].
 

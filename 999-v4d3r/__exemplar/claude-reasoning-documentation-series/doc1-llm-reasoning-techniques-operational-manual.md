@@ -103,7 +103,7 @@ This protocol ensures systematic quality assurance before committing to response
 
 ### Theoretical Foundation & Innovation
 
-**[ToT-Core-Innovation**:: Traditional [[Chain-of-Thought]] operates linearly—once committed to a reasoning direction, the model proceeds forward without reconsidering earlier choices. Tree of Thoughts transforms reasoning into explicit tree search through a state space, where nodes represent intermediate reasoning states, edges represent reasoning steps, and search algorithms with state evaluation enable exploration of multiple solution paths with backtracking from dead ends.]**
+**[ToT-Core-Innovation**:: Traditional [[Chain-of-Thought]] [2] operates linearly—once committed to a reasoning direction, the model proceeds forward without reconsidering earlier choices. Tree of Thoughts transforms reasoning into explicit tree search through a state space, where nodes represent intermediate reasoning states, edges represent reasoning steps, and search algorithms with state evaluation enable exploration of multiple solution paths with backtracking from dead ends.]**
 
 This addresses the fundamental limitation of linear reasoning: **the inability to recover from early mistakes without starting over**. 
 
@@ -1027,7 +1027,7 @@ Q2: {verify_q2} → A2: {verified_a2} [✓/✗]
 
 ### 1. **[[Advanced Prompt Engineering Patterns]]**
 
-**Connection**: This operational manual provides execution protocols for reasoning techniques, while advanced prompt engineering patterns would cover meta-optimization frameworks like [[Automatic Prompt Engineering]], [[Prompt Optimization via Reinforcement Learning]], and [[Meta-Prompting]] that can systematically improve these techniques.
+**Connection**: This operational manual provides execution protocols for reasoning techniques, while advanced prompt engineering patterns would cover meta-optimization frameworks like [[Automatic Prompt Engineering]] [1], [[Prompt Optimization via Reinforcement Learning]], and [[Meta-Prompting]] [4] that can systematically improve these techniques [5].
 
 **Depth Potential**: A comprehensive exploration of prompt optimization would include:
 - AutoPrompt and gradient-based optimization
@@ -1071,7 +1071,7 @@ Q2: {verify_q2} → A2: {verified_a2} [✓/✗]
 - Cognitive load implications of extended thinking
 - System 1 vs System 2 processing in LLMs
 - Attention bottlenecks and their mitigation
-- Schema formation through in-context learning
+- Schema formation through in-context learning [3]
 
 **Knowledge Graph Role**: Provides theoretical foundation connecting cognitive science, neuroscience, and AI architecture - grounding pragmatic techniques in established cognitive frameworks.
 

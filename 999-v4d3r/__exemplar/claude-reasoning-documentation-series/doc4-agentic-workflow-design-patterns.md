@@ -189,7 +189,7 @@ class PerceptionLayer:
 
 ### Reasoning Engine
 
-**[Reasoning-Engine-Architecture**:: Agent component implementing decision-making logic through reasoning techniques (CoT, ToT, ReAct), planning algorithms, and strategy selection - translating observations and goals into executable action sequences.]**
+**[Reasoning-Engine-Architecture**:: Agent component implementing decision-making logic through reasoning techniques (CoT, ToT, ReAct [3][4][5]), planning algorithms, and strategy selection - translating observations and goals into executable action sequences.]**
 
 ```python
 class ReasoningEngine:
@@ -229,7 +229,7 @@ class ReasoningEngine:
     
     def react_reasoning(self, prompt):
         """
-        ReAct-style reasoning: Thought → Action → Observation loop.
+        ReAct-style reasoning: Thought → Action → Observation loop [3][4][5].
         """
         response = self.model.generate(f"""
 {prompt}
@@ -299,7 +299,7 @@ class ActionExecutor:
 
 ### Memory System
 
-**[Memory-System-Architecture**:: Agent component providing episodic memory (experience storage), semantic memory (knowledge base), and working memory (active context) - enabling learning from past experiences and maintaining long-term knowledge.]**
+**[Memory-System-Architecture**:: Agent component providing episodic memory (experience storage), semantic memory (knowledge base), and working memory (active context) - enabling learning from past experiences and maintaining long-term knowledge [1][2].]**
 
 ```python
 class MemorySystem:
@@ -428,12 +428,12 @@ report = report_agent.execute_workflow(
 
 ### Pattern 2: ReAct Loop (Iterative Reasoning-Action)
 
-**[ReAct-Loop-Pattern**:: Dynamic agent pattern alternating between reasoning steps (thoughts) and action execution (tool use) until goal achieved - enabling adaptive behavior based on intermediate results.]**
+**[ReAct-Loop-Pattern**:: Dynamic agent pattern alternating between reasoning steps (thoughts) and action execution (tool use) until goal achieved - enabling adaptive behavior based on intermediate results [3][4][5].]**
 
 ```python
 class ReActAgent(BaseAgent):
     """
-    ReAct pattern: Reason → Act → Observe loop.
+    ReAct pattern: Reason → Act → Observe loop [3][4][5].
     """
     
     def execute_react_loop(self, goal, max_iterations=10):
@@ -1484,7 +1484,7 @@ class WorkflowExecutor:
 ```python
 class ReflexionAgent(BaseAgent):
     """
-    Agent that learns from experience through reflection.
+    Agent that learns from experience through reflection [6].
     """
     
     def execute_with_learning(self, task, max_trials=3):

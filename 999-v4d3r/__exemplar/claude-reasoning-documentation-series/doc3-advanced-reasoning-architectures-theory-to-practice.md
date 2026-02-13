@@ -147,8 +147,8 @@ Query → [Path_1, Path_2, Path_3, ..., Path_n] → Aggregation → Answer
 | Integration Type | Knowledge Source | Update Mechanism | Example Architectures |
 |------------------|------------------|------------------|----------------------|
 | **Parametric** | Model weights | Static (training) | CoT, ToT, SC |
-| **Retrieval-Augmented** | External documents | Dynamic (runtime) | RAG + CoT, RAG + CoVe |
-| **Tool-Augmented** | External APIs/tools | Dynamic (execution) | ReAct, Reflexion |
+| **Retrieval-Augmented** | External documents | Dynamic (runtime) | RAG + CoT, RAG + CoVe [1][3][4] |
+| **Tool-Augmented** | External APIs/tools | Dynamic (execution) | ReAct, Reflexion [5][8] |
 | **Hybrid** | Multiple sources | Combined | RAG + ReAct + Reflexion |
 
 **Parametric Reasoning**:
@@ -171,12 +171,12 @@ def parametric_reasoning(query, model):
 
 **Retrieval-Augmented Reasoning**:
 
-[**Retrieval-Augmented-Reasoning**:: Reasoning pattern integrating external document retrieval before or during reasoning process - grounding responses in retrieved evidence while maintaining reasoning capability for synthesis and inference.]**
+[**Retrieval-Augmented-Reasoning**:: Reasoning pattern integrating external document retrieval before or during reasoning process - grounding responses in retrieved evidence while maintaining reasoning capability for synthesis and inference.]** [1][2][3]
 
 ```python
 def retrieval_augmented_reasoning(query, model, retriever):
     """
-    Reasoning augmented with retrieved documents.
+    Reasoning augmented with retrieved documents. [1][2][3][4]
     """
     # Retrieve relevant documents
     documents = retriever.retrieve(query, top_k=5)
@@ -200,12 +200,12 @@ def retrieval_augmented_reasoning(query, model, retriever):
 
 **Tool-Augmented Reasoning**:
 
-[**Tool-Augmented-Reasoning**:: Reasoning pattern interleaving cognitive steps with tool executions - enabling LLMs to perform actions (search, calculate, query APIs) informed by reasoning and incorporate results into continued reasoning.]**
+[**Tool-Augmented-Reasoning**:: Reasoning pattern interleaving cognitive steps with tool executions - enabling LLMs to perform actions (search, calculate, query APIs) informed by reasoning and incorporate results into continued reasoning.]** [5]
 
 ```python
 def tool_augmented_reasoning(query, model, tools):
     """
-    Reasoning with tool access (ReAct pattern).
+    Reasoning with tool access (ReAct pattern). [5][6][7]
     """
     state = {'query': query, 'history': []}
     max_iterations = 10
@@ -245,7 +245,7 @@ def tool_augmented_reasoning(query, model, tools):
 | Verification Level | Method | Overhead | Reliability Gain |
 |--------------------|--------|----------|------------------|
 | **None** | Direct generation | 1x | Baseline |
-| **Self-Consistency** | Majority voting | k× samples | +10-20pp |
+| **Self-Consistency** | Majority voting | k× samples | +10-20pp [9][12] |
 | **Self-Verification** | Independent checking | 2-4× | +15-30pp |
 | **External Validation** | Tool/oracle verification | Varies | Highest |
 | **Iterative Refinement** | Multi-round correction | n× rounds | Progressive |
@@ -260,7 +260,7 @@ answer = model.generate_cot(query)
 
 **Self-Consistency Verification**:
 
-[**Self-Consistency-Verification**:: Ensemble verification generating multiple independent reasoning paths and selecting the most frequent answer through majority voting - exploiting the principle that errors scatter while correct reasoning converges.]**
+[**Self-Consistency-Verification**:: Ensemble verification generating multiple independent reasoning paths and selecting the most frequent answer through majority voting - exploiting the principle that errors scatter while correct reasoning converges.]** [9]
 
 ```python
 def self_consistency_verification(query, model, samples=5):
@@ -466,7 +466,7 @@ For optimal solutions: h(s) ≤ h*(s) where h*(s) = true cost to goal
 
 ### Self-Consistency as Ensemble Learning
 
-**[Self-Consistency-Ensemble-Model**:: Mathematical formalization of Self-Consistency as ensemble learning problem where multiple independent estimates are aggregated to reduce variance - connecting to statistical learning theory and wisdom of crowds.]**
+**[Self-Consistency-Ensemble-Model**:: Mathematical formalization of Self-Consistency as ensemble learning problem where multiple independent estimates are aggregated to reduce variance - connecting to statistical learning theory and wisdom of crowds.]** [9][12][13]
 
 **Problem Setup**:
 - **Query**: x
@@ -998,7 +998,7 @@ def select_architecture(depth):
 |--------------|--------------|------|----------|-------|--------------|
 | **Baseline (No CoT)** | 17.8% | 7.4% | 23.5% | 42.3% | - |
 | **Chain of Thought** | 74.4% | 23.5% | 33.8% | 69.1% | +41.8pp |
-| **Self-Consistency (k=40)** | 91.3% | 41.2% | 46.0% | 79.6% | +58.5pp |
+| **Self-Consistency (k=40)** | 91.3% | 41.2% | 46.0% | 79.6% | +58.5pp [9][12] |
 | **Program of Thoughts** | 84.8% | 37.8% | 44.2% | 79.6% | +55.9pp |
 | **ToT (Game of 24)** | N/A | N/A | N/A | N/A | +66.7pp* |
 
@@ -1018,8 +1018,8 @@ def select_architecture(depth):
 |--------------|----------|-----------------|---------|--------------|
 | **Baseline** | 23.4% | 18.9% | 15.3% | - |
 | **CoT** | 29.4% | 24.7% | 21.8% | +6.5pp |
-| **ReAct** | 35.1% | 31.2% | 28.4% | +13.4pp |
-| **ReAct + Reflexion (trial 3)** | 52.0% | 47.8% | 41.9% | +25.7pp |
+| **ReAct** | 35.1% | 31.2% | 28.4% | +13.4pp [5] |
+| **ReAct + Reflexion (trial 3)** | 52.0% | 47.8% | 41.9% | +25.7pp [5][8] |
 
 ---
 
@@ -1035,11 +1035,11 @@ def select_architecture(depth):
 |--------------|---------------|------------|------------------|------------|-------------|
 | **CoT** | 7 | 9 | 8 | 6 | 9 |
 | **ToT** | 9 | 3 | 9 | 7 | 6 |
-| **Self-Consistency** | 8 | 5 | 7 | 9 | 9 |
+| **Self-Consistency** | 8 | 5 | 7 | 9 | 9 [9][13] |
 | **CoVe** | 8 | 3 | 8 | 8 | 7 |
 | **PoT** | 8 | 8 | 7 | 9 | 4 |
-| **ReAct** | 7 | 6 | 7 | 7 | 8 |
-| **Reflexion** | 9 | 4 | 8 | 8 | 7 |
+| **ReAct** | 7 | 6 | 7 | 7 | 8 [5][7] |
+| **Reflexion** | 9 | 4 | 8 | 8 | 7 [8] |
 
 **Dimension Definitions**:
 - **Effectiveness**: Task performance improvement over baseline
@@ -1056,11 +1056,11 @@ def select_architecture(depth):
 
 **2022: Foundation Era**
 - **Jan 2022**: Chain of Thought (Wei et al.) - Breakthrough in prompting
-- **May 2022**: Self-Consistency (Wang et al.) - Ensemble reasoning
-- **Oct 2022**: ReAct (Yao et al.) - Tool integration
+- **May 2022**: Self-Consistency (Wang et al.) - Ensemble reasoning [9][10][11][12][13]
+- **Oct 2022**: ReAct (Yao et al.) - Tool integration [5][6][7]
 
 **2023: Exploration Era**
-- **Mar 2023**: Reflexion (Shinn et al.) - Learning from mistakes
+- **Mar 2023**: Reflexion (Shinn et al.) - Learning from mistakes [8]
 - **May 2023**: Tree of Thoughts (Yao et al.) - Search-based reasoning
 - **Aug 2023**: Program of Thoughts (Chen et al.) - Code generation
 - **Oct 2023**: Graph of Thoughts (Besta et al.) - Network reasoning
