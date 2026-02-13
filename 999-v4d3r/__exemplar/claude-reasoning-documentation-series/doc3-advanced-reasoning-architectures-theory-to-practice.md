@@ -628,7 +628,7 @@ print(carol_apples)  # Output: 3.5 (exact)
 
 ## Computational Complexity Analysis
 
-[**Computational-Complexity-Analysis**:: Systematic analysis of time, space, and sample complexity for reasoning architectures - quantifying resource requirements and scaling properties to inform deployment decisions.]**
+[**Computational-Complexity-Analysis**:: Systematic analysis of time, space, and sample complexity for reasoning architectures - quantifying resource requirements and scaling properties to inform deployment decisions.]** [1][5][9]
 
 ### Asymptotic Complexity Comparison
 
@@ -777,7 +777,7 @@ Latency_total = ∑ Latency_LLM_call_i + ∑ Latency_tool_i + Latency_post_proce
 Latency_parallel = max(Latency_critical_path) + Latency_aggregation
 ```
 
-**Architecture-Specific Analysis**:
+**Architecture-Specific Analysis**: [5][9]
 
 | Architecture | Sequential Latency | Parallel Latency | Speedup |
 |--------------|-------------------|------------------|---------|
@@ -1010,7 +1010,7 @@ def select_architecture(depth):
 |--------------|------|------------|-------|------|--------------|
 | **Baseline** | 45.2% | 39.8% | 53.1% | 72.4% | - |
 | **CoT** | 72.5% | 61.2% | 71.8% | 81.3% | +18.9pp |
-| **SC (k=40)** | 80.1% | 71.4% | 78.2% | 85.7% | +28.5pp |
+| **SC (k=40)** | 80.1% | 71.4% | 78.2% | 85.7% | +28.5pp [9][12][13] |
 
 **Multi-Hop QA Tasks**:
 

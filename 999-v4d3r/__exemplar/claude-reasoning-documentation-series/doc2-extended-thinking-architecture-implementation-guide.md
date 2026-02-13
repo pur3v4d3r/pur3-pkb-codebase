@@ -240,7 +240,7 @@ def render_for_user(segments, show_thinking=False):
 | Trigger Condition | Likelihood | Reasoning |
 |-------------------|------------|-----------|
 | **Multi-step reasoning required** | High | Explicit steps improve accuracy |
-| **Complex calculation** | High | Verification reduces errors |
+| **Complex calculation** | High | Verification reduces errors [7] |
 | **Ambiguous request** | Medium | Clarification prevents misunderstanding |
 | **Multiple valid approaches** | Medium | Exploration aids selection |
 | **High-stakes decision** | Medium | Deliberation increases confidence |
@@ -604,7 +604,7 @@ def select_thinking_mode(use_case):
 
 ## Structured Reasoning Templates
 
-[**Cognitive-Scaffolding**:: Pre-designed reasoning structures that guide systematic exploration, validation, and synthesis - providing organizational frameworks reducing cognitive load and ensuring comprehensive coverage of problem aspects.]**
+[**Cognitive-Scaffolding**:: Pre-designed reasoning structures that guide systematic exploration, validation, and synthesis - providing organizational frameworks reducing cognitive load and ensuring comprehensive coverage of problem aspects, analogous to structured query generation in specialized domains.]** [5]
 
 ### Template 1: Systematic Analysis Framework
 
@@ -926,7 +926,7 @@ Adjustment needed: {self.recommend_adjustment(issues)}
 
 ## Self-Correction Protocols
 
-[**Self-Correction-Protocol**:: Systematic procedures for identifying and fixing errors within thinking blocks through explicit error detection, diagnosis, correction generation, and validation - enabling LLMs to improve reasoning quality through internal quality control.]**
+[**Self-Correction-Protocol**:: Systematic procedures for identifying and fixing errors within thinking blocks through explicit error detection, diagnosis, correction generation, and validation - enabling LLMs to improve reasoning quality through internal quality control, analogous to test-driven validation approaches.]** [8]
 
 ### Three-Phase Correction Cycle
 
@@ -1058,7 +1058,7 @@ Generate corrected reasoning:
 
 ## Multi-Level Validation Systems
 
-[**Multi-Level-Validation**:: Hierarchical quality assurance system applying different validation criteria at multiple stages of reasoning - from individual step validation through local consistency checks to global solution validation.]**
+[**Multi-Level-Validation**:: Hierarchical quality assurance system applying different validation criteria at multiple stages of reasoning - from individual step validation through local consistency checks to global solution validation, drawing on discriminator-based approaches for quality assessment.]** [6] [8]
 
 ### Validation Hierarchy
 
@@ -1598,7 +1598,7 @@ class ReasoningPatternCache:
 
 ### Prompt Caching Integration
 
-**[Prompt-Caching-Synergy**:: Integration of extended thinking with Claude's prompt caching feature, enabling system prompts containing thinking templates and frameworks to be cached across requests.]**
+**[Prompt-Caching-Synergy**:: Integration of extended thinking with Claude's prompt caching feature, enabling system prompts containing thinking templates and frameworks to be cached across requests - conceptually similar to retrieval-augmented approaches that cache and reuse knowledge components.]** [4]
 
 ```python
 # Example: Caching reasoning frameworks
@@ -1813,7 +1813,7 @@ class ThinkingAlertManager:
 
 ## Multi-Turn Thinking Patterns
 
-[**Multi-Turn-Thinking**:: Extended thinking patterns spanning multiple conversation turns, maintaining reasoning context and building upon previous thinking blocks through conversational memory and progressive elaboration.]**
+[**Multi-Turn-Thinking**:: Extended thinking patterns spanning multiple conversation turns, maintaining reasoning context and building upon previous thinking blocks through conversational memory and progressive elaboration - similar to retrieval-augmented approaches that maintain and query historical context.]** [9] [10]
 
 ### Conversation-Spanning Reasoning
 
@@ -2042,7 +2042,7 @@ Critical consideration: {critical_key}
 
 ## Pattern Learning and Adaptation
 
-[**Pattern-Learning**:: The process by which thinking templates, validation heuristics, and reasoning strategies can be refined based on accumulated experience with successful patterns and common failure modes.]**
+[**Pattern-Learning**:: The process by which thinking templates, validation heuristics, and reasoning strategies can be refined based on accumulated experience with successful patterns and common failure modes - leveraging retrieval of historical reasoning to inform current generation.]** [4] [9] [10]
 
 ### Thinking Pattern Library
 
@@ -2188,7 +2188,7 @@ class AdaptiveThinkingStrategy:
 
 ## Thinking Quality Metrics
 
-[**Thinking-Quality-Metrics**:: Quantitative and qualitative measures assessing the quality of thinking blocks - including logical coherence, completeness, self-awareness, and solution effectiveness.]**
+[**Thinking-Quality-Metrics**:: Quantitative and qualitative measures assessing the quality of thinking blocks - including logical coherence, completeness, self-awareness, and solution effectiveness, employing discriminator-based quality assessment approaches.]** [6] [8]
 
 ### Multi-Dimensional Quality Assessment
 

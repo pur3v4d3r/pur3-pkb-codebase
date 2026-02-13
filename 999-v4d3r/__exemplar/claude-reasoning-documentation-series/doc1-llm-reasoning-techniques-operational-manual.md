@@ -240,7 +240,7 @@ def tot_dfs(problem, max_depth=4, branching=3):
 
 ### Performance Benchmarks
 
-**[ToT-Empirical-Performance**:: Documented performance improvements from Tree of Thoughts across standard reasoning benchmarks, showing particularly dramatic gains on problems requiring exploration and backtracking.]**
+**[ToT-Empirical-Performance**:: Documented performance improvements from Tree of Thoughts across standard reasoning benchmarks, showing particularly dramatic gains on problems requiring exploration and backtracking.]** [16]
 
 | Task | Baseline (CoT) | Tree of Thoughts | Improvement | Search Strategy |
 |------|----------------|------------------|-------------|-----------------|
@@ -421,7 +421,7 @@ def aggregate_via_voting(paths):
 
 ### Performance Benchmarks
 
-**[Self-Consistency-Empirical-Performance**:: Documented performance improvements from self-consistency across standard reasoning benchmarks, showing consistent gains with diminishing returns beyond 20-40 samples.]**
+**[Self-Consistency-Empirical-Performance**:: Documented performance improvements from self-consistency across standard reasoning benchmarks, showing consistent gains with diminishing returns beyond 20-40 samples.]** [12, 13, 14, 15]
 
 | Task | CoT (1 path) | SC (5 paths) | SC (10 paths) | SC (40 paths) | Improvement |
 |------|--------------|--------------|---------------|---------------|-------------|
@@ -565,7 +565,7 @@ print(result)  # Output: 132.98437500000002 (exact)
 
 ### Performance Benchmarks
 
-**[ReAct-Empirical-Performance**:: ReAct shows substantial improvements over pure reasoning or pure acting approaches.]**
+**[ReAct-Empirical-Performance**:: ReAct shows substantial improvements over pure reasoning or pure acting approaches.]** [8, 9, 10]
 
 | Task | CoT Only | Act Only | ReAct | ReAct Advantage |
 |------|----------|----------|-------|-----------------|
@@ -582,7 +582,7 @@ print(result)  # Output: 132.98437500000002 (exact)
 
 ### Performance Benchmarks
 
-**[Reflexion-Empirical-Performance**:: Reflexion shows dramatic improvement across trials through self-reflection.]**
+**[Reflexion-Empirical-Performance**:: Reflexion shows dramatic improvement across trials through self-reflection.]** [11]
 
 | Task | ReAct (Trial 1) | Reflexion (Trial 3) | Improvement |
 |------|-----------------|---------------------|-------------|
