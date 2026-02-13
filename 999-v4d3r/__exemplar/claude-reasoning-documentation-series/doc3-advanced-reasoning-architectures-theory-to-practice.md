@@ -1706,5 +1706,37 @@ class CustomArchitectureBuilder:
 
 ---
 
+## References
+
+This document is supported by 13 research papers covering advanced LLM prompting and reasoning techniques.
+
+[1] Robin Rombach, "Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models," 2022.
+
+[2] [Paper ID: 191e300e381d] Abstract: "Text-to-SQL aims at generating SQL queries for the given natural language questions and thus helping..." [Metadata pending manual review]
+
+[3] Giwon Hong, "Discern and Answer: Mitigating the Impact of Misinformation in Retrieval-Augmented Models with Discriminators," 2023.
+
+[4] Omar Khattab, "Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP," 2022.
+
+[5] Zhihan Liu, "Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency," 2023.
+
+[6] Mohamed Aghzal, "Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning," 2023.
+
+[7] Baian Chen, "FireAct: Toward Language Agent Fine-tuning," 2023.
+
+[8] Hejia Geng, "UPAR: A Kantian-Inspired Prompting Framework for Enhancing Large Language Model Capabilities," 2023.
+
+[9] Freda Shi, "Large Language Models Can Be Easily Distracted by Irrelevant Context," 2023.
+
+[10] Yang Zhang, "A Chat About Boring Problems: Studying GPT-based text normalization," 2023.
+
+[11] [Paper ID: 22d5459d1f47] Abstract: "Large language Models (LLMs) have achieved promising performance on arithmetic reasoning tasks by in..." [Metadata pending manual review]
+
+[12] Toufique Ahmed, "Better patching using LLM prompting, via Self-Consistency," 2023.
+
+[13] Silviu Pitis, "Boosted Prompt Ensembles for Large Language Models," 2023.
+
+---
+
 **End of Document**
 

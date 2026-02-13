@@ -99,7 +99,7 @@ This protocol ensures systematic quality assurance before committing to response
 
 ## Tree of Thoughts (ToT)
 
-[**Tree-of-Thoughts**:: Deliberate problem-solving framework where LLMs explore multiple reasoning branches, systematically search through solution space using algorithms like BFS/DFS, evaluate intermediate states, and backtrack when needed - mimicking human deliberate problem-solving with lookahead and course correction.]
+[**Tree-of-Thoughts**:: Deliberate problem-solving framework where LLMs explore multiple reasoning branches, systematically search through solution space using algorithms like BFS/DFS, evaluate intermediate states, and backtrack when needed - mimicking human deliberate problem-solving with lookahead and course correction.]** [16]
 
 ### Theoretical Foundation & Innovation
 
@@ -313,7 +313,7 @@ Path: [Step 1] → [Step 2] → [Step 3] → [Solution]
 
 ## Self-Consistency Ensemble Method
 
-[**Self-Consistency**:: Ensemble reasoning technique that samples multiple diverse reasoning paths for the same query, then aggregates via majority voting - exploiting the insight that while individual paths may contain different errors, correct reasoning converges while mistakes scatter across diverse samples.]
+[**Self-Consistency**:: Ensemble reasoning technique that samples multiple diverse reasoning paths for the same query, then aggregates via majority voting - exploiting the insight that while individual paths may contain different errors, correct reasoning converges while mistakes scatter across diverse samples.]** [12, 13, 14, 15]
 
 ### Theoretical Foundation
 
@@ -557,7 +557,7 @@ print(result)  # Output: 132.98437500000002 (exact)
 
 ## ReAct Framework
 
-[**ReAct**:: "Reasoning and Acting" framework synergizing verbal reasoning traces with action execution in interleaved manner, enabling LLMs to generate reasoning steps (Thought), execute actions (Act), and process feedback (Observe) in iterative cycles.]**
+[**ReAct**:: "Reasoning and Acting" framework synergizing verbal reasoning traces with action execution in interleaved manner, enabling LLMs to generate reasoning steps (Thought), execute actions (Act), and process feedback (Observe) in iterative cycles.]** [8, 9, 10]
 
 ### Theoretical Foundation
 
@@ -578,7 +578,7 @@ print(result)  # Output: 132.98437500000002 (exact)
 
 ## Reflexion Framework
 
-[**Reflexion**:: Advanced agentic framework extending ReAct with episodic memory and self-reflection, enabling agents to learn from mistakes across multiple trials through verbal self-evaluation, experience storage, and reflective improvement.]**
+[**Reflexion**:: Advanced agentic framework extending ReAct with episodic memory and self-reflection, enabling agents to learn from mistakes across multiple trials through verbal self-evaluation, experience storage, and reflective improvement.]** [11]
 
 ### Performance Benchmarks
 
@@ -776,7 +776,7 @@ def select_reasoning_technique(task_description, constraints=None):
 
 **Combination 2: RAG + CoVe**
 
-[**RAG-CoVe-Synergy**:: Retrieval-Augmented Generation retrieves relevant documents, then Chain of Verification validates claims against retrieved sources - ensuring factual grounding while reducing hallucination beyond what RAG alone achieves.]**
+[**RAG-CoVe-Synergy**:: Retrieval-Augmented Generation retrieves relevant documents, then Chain of Verification validates claims against retrieved sources - ensuring factual grounding while reducing hallucination beyond what RAG alone achieves.]** [6, 7]
 
 **When to Use**: High-accuracy factual tasks with document grounding
 

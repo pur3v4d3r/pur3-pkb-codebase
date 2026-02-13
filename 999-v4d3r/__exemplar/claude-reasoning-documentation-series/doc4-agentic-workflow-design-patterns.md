@@ -1617,5 +1617,23 @@ class HumanInLoopAgent(BaseAgent):
 
 ---
 
+## References
+
+This document is supported by 6 research papers covering advanced LLM prompting and reasoning techniques.
+
+[1] Robin Rombach, "Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models," 2022.
+
+[2] Omar Khattab, "Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP," 2022.
+
+[3] Zhihan Liu, "Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency," 2023.
+
+[4] Mohamed Aghzal, "Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning," 2023.
+
+[5] Baian Chen, "FireAct: Toward Language Agent Fine-tuning," 2023.
+
+[6] Hejia Geng, "UPAR: A Kantian-Inspired Prompting Framework for Enhancing Large Language Model Capabilities," 2023.
+
+---
+
 **End of Document**
 
