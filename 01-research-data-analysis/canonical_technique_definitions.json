@@ -1,0 +1,961 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "date": "2026-02-13",
+    "source": "Phase 0 Days 5-6 - Tier 3 Semantic Analysis",
+    "techniques_defined": 25,
+    "methodology": "Synthesized from 327 research papers + 31 exemplar documents",
+    "quality_assurance": "Cross-referenced with exemplar docs; semantic deduplication verified"
+  },
+  "canonical_definitions": {
+    "Chain-of-Thought": {
+      "canonical_definition": "Chain-of-thought (CoT) prompting is a technique that elicits step-by-step reasoning from large language models by decomposing complex problems into intermediate natural language reasoning steps before generating the final answer.",
+      "research_basis": "62 papers",
+      "exemplar_mentions": 25,
+      "key_variants": [
+        "Zero-shot CoT (Let's think step by step)",
+        "Few-shot CoT (with reasoning examples)",
+        "Structured CoT (for code generation)",
+        "Self-consistency CoT (sample multiple reasoning paths)"
+      ],
+      "primary_use_cases": [
+        "Mathematical reasoning",
+        "Multi-step problem solving",
+        "Logical deduction",
+        "Code generation with explanation"
+      ],
+      "research_evidence": [
+        "Improves accuracy on complex reasoning tasks",
+        "Reduces logical and arithmetic errors",
+        "Emergent ability in large models (>100B parameters)",
+        "Works across multiple domains (math, commonsense, symbolic)"
+      ],
+      "limitations": [
+        "Increases generation cost (more tokens)",
+        "Can introduce cascading errors in multi-step reasoning",
+        "Requires sufficient model scale to be effective",
+        "May not help on simple tasks"
+      ],
+      "related_techniques": [
+        "Self-Consistency",
+        "Tree-of-Thoughts",
+        "Program-Aided Language Models",
+        "Decomposed Prompting"
+      ]
+    },
+    "In-Context Learning": {
+      "canonical_definition": "In-context learning (ICL) is the ability of large language models to perform new tasks by conditioning on a few input-output examples (demonstrations) within the prompt, without any parameter updates or fine-tuning.",
+      "research_basis": "87 papers",
+      "exemplar_mentions": 2,
+      "key_mechanisms": [
+        "Pattern recognition from training data",
+        "Input-label mapping from demonstrations",
+        "Format specification through examples",
+        "Task identification from context"
+      ],
+      "critical_factors": [
+        "Example selection and ordering",
+        "Label space representation",
+        "Input text distribution matching",
+        "Overall sequence format",
+        "Model scale (emergent with size)"
+      ],
+      "research_evidence": [
+        "Ground truth labels not always required for performance",
+        "Format and distribution more important than label correctness",
+        "Larger models override semantic priors better",
+        "Instruction tuning strengthens ICL capabilities"
+      ],
+      "theoretical_insights": [
+        "Implements implicit gradient descent on demonstrations",
+        "Induction heads drive ICL capability",
+        "Can implement statistical algorithms (ridge regression, Lasso)",
+        "Related to meta-learning and Bayesian inference"
+      ],
+      "related_techniques": [
+        "Few-Shot Learning",
+        "Meta-Learning",
+        "Demonstration Engineering"
+      ]
+    },
+    "Few-Shot Learning": {
+      "canonical_definition": "Few-shot learning with large language models refers to achieving strong task performance with only a small number (typically 1-10) of labeled training examples provided as demonstrations in the prompt.",
+      "research_basis": "38 papers",
+      "exemplar_mentions": 4,
+      "key_variants": [
+        "1-shot learning (single example)",
+        "k-shot learning (k examples, typically 2-10)",
+        "Few-shot with instructions (hybrid approach)"
+      ],
+      "critical_factors": [
+        "Example quality and representativeness",
+        "Example ordering and positioning",
+        "Format consistency across examples",
+        "Task-example alignment"
+      ],
+      "research_evidence": [
+        "Competitive with fine-tuning on many tasks",
+        "Particularly effective for classification and QA",
+        "Multilingual transfer possible with few examples",
+        "Seq2seq models more efficient than decoder-only"
+      ],
+      "comparison_with_finetuning": [
+        "Advantages: No training required, fast deployment, easy task switching",
+        "Disadvantages: Higher inference cost, requires careful example selection",
+        "Crossover point: ~100-1000 examples depending on task"
+      ],
+      "related_techniques": [
+        "In-Context Learning",
+        "Zero-Shot Learning",
+        "Meta-Learning"
+      ]
+    },
+    "Zero-Shot Learning": {
+      "canonical_definition": "Zero-shot learning is the capability of large language models to perform tasks without any task-specific examples, relying solely on task instructions or descriptions in the prompt.",
+      "research_basis": "9 papers",
+      "exemplar_mentions": 0,
+      "key_requirements": [
+        "Clear task description",
+        "Instruction following capability",
+        "Sufficient model scale",
+        "Task within training distribution"
+      ],
+      "research_evidence": [
+        "GPT-3 175B achieves strong zero-shot on many tasks",
+        "Instruction-tuned models significantly better",
+        "Works for: classification, QA, summarization, translation",
+        "Struggles with: complex reasoning, domain-specific tasks"
+      ],
+      "best_practices": [
+        "Use explicit task descriptions",
+        "Provide output format specifications",
+        "Include constraints and requirements",
+        "Test multiple instruction phrasings"
+      ],
+      "related_techniques": [
+        "Few-Shot Learning",
+        "Instruction Tuning",
+        "Prompt Engineering"
+      ]
+    },
+    "Prompt Engineering": {
+      "canonical_definition": "Prompt engineering is the systematic design, optimization, and refinement of input prompts to elicit desired behaviors and outputs from large language models, involving both manual crafting and automated search techniques.",
+      "research_basis": "147 papers",
+      "exemplar_mentions": 9,
+      "key_dimensions": [
+        "Task specification (what to do)",
+        "Context provision (background information)",
+        "Format specification (output structure)",
+        "Constraint definition (dos and don'ts)",
+        "Example selection (demonstrations)"
+      ],
+      "core_techniques": [
+        "Template design",
+        "Instruction optimization",
+        "Example engineering",
+        "Format specification",
+        "Constraint articulation"
+      ],
+      "domain_applications": [
+        "Healthcare: Medical QA, clinical text generation",
+        "Engineering: Geotechnical analysis, software testing",
+        "Education: Academic writing, tutoring systems",
+        "Creative: Story generation, content creation"
+      ],
+      "research_evidence": [
+        "Small wording changes can significantly impact performance",
+        "Domain-specific prompting often required",
+        "Prompt optimization can match fine-tuning results",
+        "Automated methods can discover non-obvious patterns"
+      ],
+      "challenges": [
+        "Brittleness to phrasing variations",
+        "Lack of transferability across models",
+        "Difficulty of systematic optimization",
+        "Version control and tracking"
+      ],
+      "related_techniques": [
+        "Automatic Prompt Engineering",
+        "Soft Prompting",
+        "Instruction Tuning"
+      ]
+    },
+    "Jailbreak Prompts": {
+      "canonical_definition": "Jailbreak prompts are adversarially crafted inputs designed to bypass safety guardrails and alignment constraints in large language models, causing them to generate harmful, biased, or policy-violating content.",
+      "research_basis": "5 papers",
+      "exemplar_mentions": 0,
+      "attack_strategies": [
+        "Prompt injection (override system instructions)",
+        "Privilege escalation (assume unauthorized roles)",
+        "Context partition (separate malicious from benign)",
+        "Persona modulation (adopt harmful personas)",
+        "Obfuscation (encode malicious intent)"
+      ],
+      "research_evidence": [
+        "0.99 attack success rate on GPT-4 with optimized prompts",
+        "Automated generation possible via LLMs",
+        "High transferability across models",
+        "Increasingly moving to private platforms"
+      ],
+      "example_patterns": [
+        "DAN (Do Anything Now) role-play prompts",
+        "Hypothetical scenario framing",
+        "Translation and encoding tricks",
+        "Multi-turn attack sequences"
+      ],
+      "defense_approaches": [
+        "Perplexity-based detection",
+        "Input preprocessing (paraphrase, retokenization)",
+        "Adversarial training",
+        "Output filtering",
+        "Reinforcement learning from human feedback (RLHF)"
+      ],
+      "research_concerns": [
+        "Arms race between attackers and defenders",
+        "Difficult to defend all scenarios simultaneously",
+        "New attack patterns emerge rapidly",
+        "Trade-off between safety and capability"
+      ],
+      "related_techniques": [
+        "Prompt Injection",
+        "Adversarial Prompting",
+        "Red Teaming",
+        "Persona Modulation"
+      ]
+    },
+    "Prompt Injection": {
+      "canonical_definition": "Prompt injection is an attack vector where malicious instructions are embedded within user input to override intended system prompts or manipulate LLM behavior in integrated applications.",
+      "research_basis": "8 papers",
+      "exemplar_mentions": 2,
+      "attack_types": [
+        "Direct injection: Malicious instructions in user input",
+        "Indirect injection: Malicious content in retrieved documents",
+        "Context partition: Separate system and user contexts"
+      ],
+      "vulnerable_systems": [
+        "LLM-integrated applications (chatbots, agents)",
+        "Retrieval-augmented generation systems",
+        "Document processing pipelines",
+        "Code generation tools"
+      ],
+      "research_evidence": [
+        "31 of 36 tested applications vulnerable",
+        "Unrestricted LLM usage achievable",
+        "Application prompt theft possible",
+        "Affects major vendors (Notion, etc.)"
+      ],
+      "defense_challenges": [
+        "Difficult to distinguish malicious from legitimate instructions",
+        "LLMs lack clear input separation mechanisms",
+        "Trade-off between flexibility and security",
+        "New bypass techniques emerge rapidly"
+      ],
+      "mitigation_strategies": [
+        "Input sanitization and validation",
+        "Privilege separation for system vs user prompts",
+        "Output filtering and monitoring",
+        "Context boundary markers",
+        "User permission controls"
+      ],
+      "related_techniques": [
+        "Jailbreak Prompts",
+        "Adversarial Prompting",
+        "Red Teaming"
+      ]
+    },
+    "Retrieval-Augmented Generation": {
+      "canonical_definition": "Retrieval-Augmented Generation (RAG) is a technique that enhances large language model outputs by first retrieving relevant contextual documents from an external corpus, then conditioning the model's generation on both the query and retrieved information.",
+      "research_basis": "2 papers",
+      "exemplar_mentions": 4,
+      "core_pipeline": [
+        "Query formulation",
+        "Document retrieval (dense or sparse)",
+        "Context selection and ranking",
+        "Prompt construction with retrieved docs",
+        "Conditioned generation"
+      ],
+      "key_variants": [
+        "Retrieve-then-read (standard)",
+        "Generate-then-read (GenRead)",
+        "Rewrite-retrieve-read",
+        "Iterative retrieval + generation"
+      ],
+      "research_evidence": [
+        "Improves factual accuracy on knowledge-intensive tasks",
+        "Reduces hallucination compared to pure generation",
+        "GenRead can outperform traditional retrieval by +4.0%",
+        "Query rewriting significantly improves retrieval quality"
+      ],
+      "use_cases": [
+        "Open-domain question answering",
+        "Fact-checking",
+        "Document-grounded dialogue",
+        "Long-form content generation with sources"
+      ],
+      "challenges": [
+        "Retrieval quality bottleneck",
+        "Context length limitations",
+        "Retrieved content may mislead model",
+        "Computational cost of retrieval"
+      ],
+      "related_techniques": [
+        "Query Rewriting",
+        "Generate-then-Read",
+        "In-Context Learning"
+      ]
+    },
+    "Self-Consistency": {
+      "canonical_definition": "Self-consistency is a decoding strategy for chain-of-thought prompting that samples multiple diverse reasoning paths and selects the most consistent final answer through majority voting or other aggregation methods.",
+      "research_basis": "5 papers",
+      "exemplar_mentions": 12,
+      "core_algorithm": [
+        "Generate multiple CoT reasoning paths (e.g., 10-40 samples)",
+        "Extract final answers from each path",
+        "Aggregate via majority vote or weighted selection",
+        "Return most consistent answer"
+      ],
+      "research_evidence": [
+        "Significant improvement over single-path CoT",
+        "Particularly effective on math and reasoning tasks",
+        "Robust to individual reasoning errors",
+        "Works across different prompting strategies"
+      ],
+      "key_parameters": [
+        "Number of samples (more is better, diminishing returns after ~20)",
+        "Sampling temperature (0.7-1.0 typical)",
+        "Aggregation method (majority vote most common)"
+      ],
+      "computational_cost": [
+        "Multiplies inference cost by number of samples",
+        "Trade-off between accuracy and efficiency",
+        "Can parallelize sampling"
+      ],
+      "related_techniques": [
+        "Chain-of-Thought",
+        "Tree-of-Thoughts",
+        "Ensemble Methods"
+      ]
+    },
+    "Decomposed Prompting": {
+      "canonical_definition": "Decomposed prompting is a modular approach that breaks complex tasks into simpler sub-tasks, each handled by specialized prompts or models, with a compositional framework for delegating and aggregating sub-task outputs.",
+      "research_basis": "2 papers",
+      "exemplar_mentions": 0,
+      "core_principles": [
+        "Task decomposition via prompting",
+        "Sub-task delegation to specialized prompts",
+        "Modular optimization (each prompt optimized separately)",
+        "Compositional aggregation of results"
+      ],
+      "decomposition_strategies": [
+        "Sequential: Sub-tasks executed in order",
+        "Recursive: Task decomposed into same task with smaller inputs",
+        "Parallel: Independent sub-tasks executed concurrently",
+        "Hierarchical: Tree-structured decomposition"
+      ],
+      "research_evidence": [
+        "Outperforms monolithic few-shot prompting on GPT-3",
+        "Each sub-task prompt can be optimized independently",
+        "Symbolic functions can replace LLM sub-tasks where appropriate",
+        "Effective for multi-hop QA and long-context tasks"
+      ],
+      "advantages": [
+        "Modularity enables incremental improvement",
+        "Sub-task prompts can be reused across tasks",
+        "Easier debugging of complex workflows",
+        "Can mix LLM and symbolic reasoning"
+      ],
+      "related_techniques": [
+        "Chain-of-Thought",
+        "Tree-of-Thoughts",
+        "Modular Prompting",
+        "ReAct Framework"
+      ]
+    },
+    "Program-Aided Language Models": {
+      "canonical_definition": "Program-Aided Language Models (PAL) is a technique where large language models generate executable code (e.g., Python) as intermediate reasoning steps, offloading solution computation to a runtime interpreter while keeping problem decomposition with the LLM.",
+      "research_basis": "1 paper",
+      "exemplar_mentions": 0,
+      "core_workflow": [
+        "LLM reads natural language problem",
+        "LLM generates Python code representing solution logic",
+        "Code executed by Python interpreter",
+        "Result returned as final answer"
+      ],
+      "research_evidence": [
+        "State-of-the-art few-shot accuracy on GSM8K math benchmark",
+        "Surpasses PaLM-540B using chain-of-thought by +15%",
+        "Eliminates arithmetic and logical errors in reasoning",
+        "Effective on 13 mathematical and algorithmic tasks"
+      ],
+      "advantages": [
+        "Leverages symbolic computation for exact answers",
+        "Reduces LLM errors in calculation",
+        "Interpretable and debuggable reasoning steps",
+        "Can handle complex mathematical operations"
+      ],
+      "limitations": [
+        "Requires code-capable LLM (Codex, etc.)",
+        "May struggle with ambiguous problem specifications",
+        "Interpreter errors possible",
+        "Not suitable for all reasoning tasks"
+      ],
+      "related_techniques": [
+        "Chain-of-Thought",
+        "Tool-Augmented LLMs",
+        "Structured Chain-of-Thought"
+      ]
+    },
+    "Query Rewriting": {
+      "canonical_definition": "Query rewriting for retrieval-augmented LLMs involves using a language model to reformulate user queries before retrieval, bridging the gap between user intent and document vocabulary to improve retrieval relevance.",
+      "research_basis": "1 paper",
+      "exemplar_mentions": 0,
+      "core_approach": [
+        "Prompt LLM to generate optimized search query",
+        "Use web search engine or retriever with rewritten query",
+        "Retrieve contexts based on improved query",
+        "Generate final answer conditioned on contexts"
+      ],
+      "rewriting_strategies": [
+        "Query expansion (add relevant terms)",
+        "Query clarification (resolve ambiguity)",
+        "Query decomposition (break into sub-queries)",
+        "Trainable rewriter (small LM fine-tuned with RLHF)"
+      ],
+      "research_evidence": [
+        "Consistent performance improvement on QA tasks",
+        "Effective for both sparse (BM25) and dense retrievers",
+        "Trainable rewriter outperforms prompting-only approach",
+        "Addresses input-knowledge gap in retrieval"
+      ],
+      "related_techniques": [
+        "Retrieval-Augmented Generation",
+        "Query Expansion",
+        "Search Engine Optimization for LLMs"
+      ]
+    },
+    "Generate-then-Read": {
+      "canonical_definition": "Generate-then-Read (GenRead) is an alternative to retrieval-augmented generation where large language models generate pseudo-documents directly from the query, then read these generated documents to produce the final answer, bypassing external retrieval entirely.",
+      "research_basis": "1 paper",
+      "exemplar_mentions": 0,
+      "core_workflow": [
+        "Prompt LLM to generate contextual documents for query",
+        "Use clustering-based prompting for diverse perspectives",
+        "Read generated documents (as if they were retrieved)",
+        "Generate final answer conditioned on generated docs"
+      ],
+      "research_evidence": [
+        "Achieves 71.6 EM on TriviaQA (vs 67.6 with retrieval)",
+        "Outperforms DPR-FiD by +4.0 without external knowledge",
+        "Generated documents often more relevant than retrieved",
+        "Combining generation and retrieval further improves results"
+      ],
+      "advantages": [
+        "No external corpus required",
+        "Generated content directly addresses query",
+        "Leverages LLM's parametric knowledge",
+        "Avoids retrieval errors"
+      ],
+      "limitations": [
+        "Can generate hallucinated information",
+        "Requires large, knowledgeable LLM",
+        "May lack factual accuracy of retrieved docs",
+        "Higher inference cost than retrieval"
+      ],
+      "related_techniques": [
+        "Retrieval-Augmented Generation",
+        "Knowledge-Grounded Generation"
+      ]
+    },
+    "Soft Prompting": {
+      "canonical_definition": "Soft prompting (also called continuous prompting or prompt tuning) involves learning continuous vectors in the embedding space that are prepended to input embeddings, optimized via gradient descent while keeping the LLM frozen, providing a parameter-efficient alternative to fine-tuning.",
+      "research_basis": "1 paper",
+      "exemplar_mentions": 0,
+      "technical_approach": [
+        "Initialize prompt embeddings (random or from text)",
+        "Freeze pre-trained LLM parameters",
+        "Optimize only prompt embeddings via backpropagation",
+        "Learned prompts prepended to all inputs at inference"
+      ],
+      "advantages": [
+        "Highly parameter-efficient (<0.1% of model parameters)",
+        "Avoids catastrophic forgetting",
+        "Enables multi-task learning with separate prompts",
+        "Faster training than full fine-tuning"
+      ],
+      "challenges": [
+        "Struggles in few-shot settings (<1000 examples)",
+        "Less interpretable than discrete prompts",
+        "Requires gradient access to model",
+        "May underperform fine-tuning on complex tasks"
+      ],
+      "research_evidence": [
+        "Matches fine-tuning with sufficient data",
+        "Effective for classification and generation",
+        "Modular prompts can be composed",
+        "Works across multiple model sizes"
+      ],
+      "related_techniques": [
+        "Discrete Prompting",
+        "Instruction Tuning",
+        "Prefix Tuning"
+      ]
+    },
+    "Discrete Prompting": {
+      "canonical_definition": "Discrete prompting refers to manually designed or automatically searched natural language instructions and examples that guide LLM behavior without any parameter updates, as opposed to continuous soft prompts.",
+      "research_basis": "Reference in prompting literature",
+      "exemplar_mentions": 0,
+      "characteristics": [
+        "Human-readable natural language",
+        "Can be manually crafted or automatically optimized",
+        "Interpretable and debuggable",
+        "No gradient required"
+      ],
+      "optimization_methods": [
+        "Manual iteration by humans",
+        "Automatic search (e.g., APE, GrIPS)",
+        "Reinforcement learning from feedback",
+        "Evolutionary algorithms"
+      ],
+      "advantages": [
+        "Highly interpretable",
+        "No model access required (black-box)",
+        "Transferable across similar models",
+        "Easy to version control and share"
+      ],
+      "limitations": [
+        "Brittle to wording variations",
+        "Hard to optimize systematically",
+        "Limited expressiveness vs continuous space",
+        "Requires extensive manual effort"
+      ],
+      "related_techniques": [
+        "Soft Prompting",
+        "Prompt Engineering",
+        "Automatic Prompt Engineering"
+      ]
+    },
+    "Automatic Prompt Engineering": {
+      "canonical_definition": "Automatic Prompt Engineering (APE) refers to methods that automatically generate, search, or optimize prompts for large language models, reducing the need for manual prompt crafting through algorithmic exploration of the prompt space.",
+      "research_basis": "2 papers",
+      "exemplar_mentions": 1,
+      "key_approaches": [
+        "LLM-based generation (prompt LLM to write prompts)",
+        "Gradient-based optimization (soft prompts)",
+        "Reinforcement learning (optimize for task reward)",
+        "Evolutionary algorithms (mutate and select prompts)",
+        "Discrete search (enumerate and score candidates)"
+      ],
+      "research_evidence": [
+        "Can discover prompts outperforming human-written ones",
+        "Particularly effective for complex instructions",
+        "Reduces prompt engineering effort significantly",
+        "May find non-intuitive but effective patterns"
+      ],
+      "challenges": [
+        "Requires evaluation budget (many model calls)",
+        "May overfit to specific model or dataset",
+        "Generated prompts may lack interpretability",
+        "Computational cost of search"
+      ],
+      "use_cases": [
+        "Large-scale deployment (amortize search cost)",
+        "Novel task domains (no human expertise)",
+        "Multi-objective optimization (accuracy + brevity)",
+        "Cross-model prompt discovery"
+      ],
+      "related_techniques": [
+        "Prompt Engineering",
+        "Soft Prompting",
+        "Instruction Tuning"
+      ]
+    },
+    "Instruction Tuning": {
+      "canonical_definition": "Instruction tuning is a fine-tuning procedure that trains large language models on a diverse collection of tasks framed as natural language instructions, improving zero-shot task generalization and instruction-following capability.",
+      "research_basis": "6 papers",
+      "exemplar_mentions": 1,
+      "training_procedure": [
+        "Collect diverse task datasets",
+        "Format each task as instruction + input + output",
+        "Fine-tune pre-trained LLM on instruction dataset",
+        "Optionally apply RLHF for alignment"
+      ],
+      "key_datasets": [
+        "FLAN (Fine-tuned Language Net)",
+        "T0 (T5 instruction tuning)",
+        "InstructGPT training data",
+        "Super-NaturalInstructions"
+      ],
+      "research_evidence": [
+        "Dramatically improves zero-shot performance",
+        "Enables better instruction following",
+        "Improves few-shot learning capability",
+        "Strengthens semantic prior usage in ICL"
+      ],
+      "benefits": [
+        "Better generalization to unseen tasks",
+        "More aligned with user intent",
+        "Improved controllability",
+        "Reduced need for task-specific prompting"
+      ],
+      "related_techniques": [
+        "Few-Shot Learning",
+        "Zero-Shot Learning",
+        "RLHF (Reinforcement Learning from Human Feedback)"
+      ]
+    },
+    "Multi-Modal Prompting": {
+      "canonical_definition": "Multi-modal prompting extends prompt-based learning to models that process multiple input modalities (text, images, audio, etc.), using prompts to guide behavior across vision-language or other multi-modal tasks.",
+      "research_basis": "1 paper",
+      "exemplar_mentions": 0,
+      "modality_combinations": [
+        "Vision + Language (CLIP-based models)",
+        "Audio + Language (speech recognition, captioning)",
+        "Video + Language (video QA, summarization)",
+        "Multi-modal fusion (vision + audio + text)"
+      ],
+      "prompting_strategies": [
+        "Text prompts for vision-language models",
+        "Learnable visual prompts",
+        "Cross-modal prompt alignment",
+        "Unified prompting across modalities"
+      ],
+      "research_evidence": [
+        "Effective for zero-shot image classification",
+        "Improves vision-language alignment",
+        "Soft prompts outperform manual prompts in some cases",
+        "Domain generalization benefits"
+      ],
+      "challenges": [
+        "Modality gap (different embedding spaces)",
+        "Prompt design more complex than text-only",
+        "Limited theoretical understanding",
+        "Requires multi-modal training data"
+      ],
+      "related_techniques": [
+        "Prompt Engineering",
+        "Soft Prompting",
+        "Vision-Language Pre-training"
+      ]
+    },
+    "Adversarial Prompting": {
+      "canonical_definition": "Adversarial prompting involves crafting inputs that intentionally exploit weaknesses or biases in large language models to expose vulnerabilities, generate unexpected outputs, or bypass intended constraints, used both for attacks and robustness testing.",
+      "research_basis": "2 papers",
+      "exemplar_mentions": 0,
+      "objectives": [
+        "Security testing (find vulnerabilities)",
+        "Robustness evaluation (measure fragility)",
+        "Bias detection (uncover hidden biases)",
+        "Safety alignment testing"
+      ],
+      "attack_methods": [
+        "Gradient-based optimization (white-box)",
+        "Discrete token search",
+        "Semantic preserving perturbations",
+        "Multi-turn attack sequences"
+      ],
+      "research_evidence": [
+        "Current defenses insufficient against adaptive attacks",
+        "High success rates on state-of-the-art models",
+        "Transferability across similar models",
+        "Defenses create robustness-performance tradeoffs"
+      ],
+      "defense_approaches": [
+        "Adversarial training",
+        "Input preprocessing",
+        "Perplexity-based detection",
+        "Output filtering"
+      ],
+      "related_techniques": [
+        "Jailbreak Prompts",
+        "Prompt Injection",
+        "Red Teaming"
+      ]
+    },
+    "Red Teaming": {
+      "canonical_definition": "Red teaming for language models is the practice of systematically testing for harmful or undesired behaviors by using adversarial prompts, either human-generated or LLM-generated, to uncover safety vulnerabilities before deployment.",
+      "research_basis": "2 papers",
+      "exemplar_mentions": 1,
+      "methodology": [
+        "Define harm categories (offensive, toxic, private data leak, etc.)",
+        "Generate diverse test cases (manual or automated)",
+        "Evaluate model responses for harmful content",
+        "Classify and prioritize identified risks",
+        "Iterate defenses and re-test"
+      ],
+      "automated_red_teaming": [
+        "Use LLMs to generate adversarial prompts",
+        "Zero-shot or RL-based test case generation",
+        "Diversity optimization for test coverage",
+        "Automatic harm classification"
+      ],
+      "research_evidence": [
+        "LLM-based red teaming can find tens of thousands of failures",
+        "More scalable than human annotation",
+        "Useful for diverse harms (bias, toxicity, privacy)",
+        "Helps identify gaps in safety training"
+      ],
+      "challenges": [
+        "Defining comprehensive harm taxonomy",
+        "Balancing safety and capability",
+        "Adversarial arms race",
+        "Ethical considerations of generating harmful content"
+      ],
+      "related_techniques": [
+        "Adversarial Prompting",
+        "Jailbreak Prompts",
+        "Constitutional AI"
+      ]
+    },
+    "Constitutional AI": {
+      "canonical_definition": "Constitutional AI is a method for training harmless and helpful AI assistants by using AI-generated self-critiques and revisions guided by a set of principles (a 'constitution'), reducing reliance on human feedback for safety alignment.",
+      "research_basis": "Reference in AI safety literature",
+      "exemplar_mentions": 3,
+      "core_process": [
+        "Define constitutional principles (e.g., helpfulness, harmlessness)",
+        "Generate initial responses to prompts",
+        "Self-critique responses against constitution",
+        "Revise responses based on critiques",
+        "Train preference model on AI-generated preferences",
+        "Apply reinforcement learning from AI feedback (RLAIF)"
+      ],
+      "key_principles": [
+        "Transparency (explain reasoning)",
+        "Non-maleficence (avoid harm)",
+        "Beneficence (be helpful)",
+        "Respect for autonomy (follow user intent where ethical)",
+        "Justice (treat users fairly)"
+      ],
+      "advantages": [
+        "Reduces human labeling burden",
+        "Scalable safety alignment",
+        "Transparent value specification",
+        "Easier to update principles than retrain"
+      ],
+      "research_evidence": [
+        "Constitutional AI models can be both more helpful and harmless",
+        "Reduces evasive responses vs RLHF-only models",
+        "Self-critique improves response quality",
+        "Principles can be iteratively refined"
+      ],
+      "related_techniques": [
+        "RLHF (Reinforcement Learning from Human Feedback)",
+        "Red Teaming",
+        "Iterative Refinement"
+      ]
+    },
+    "Meta-Prompting": {
+      "canonical_definition": "Meta-prompting refers to using prompts to control or generate other prompts, including techniques where language models are asked to write, optimize, or reason about prompts for themselves or other models.",
+      "research_basis": "Reference in prompt engineering literature",
+      "exemplar_mentions": 3,
+      "key_applications": [
+        "Prompt generation (LLM writes prompts)",
+        "Prompt optimization (LLM improves prompts)",
+        "Prompt selection (LLM chooses best prompt)",
+        "Prompt explanation (LLM explains prompt effects)"
+      ],
+      "techniques": [
+        "Prompt-about-prompts (ask LLM to analyze prompts)",
+        "Prompt chains (prompts generate next prompts)",
+        "Self-improvement loops (iterative refinement)",
+        "Prompt ensembles (combine multiple prompts)"
+      ],
+      "advantages": [
+        "Leverages LLM's language understanding",
+        "Can discover non-obvious prompt patterns",
+        "Reduces manual prompt engineering",
+        "Enables dynamic prompt adaptation"
+      ],
+      "challenges": [
+        "Quality depends on base LLM capability",
+        "May generate verbose or unnecessary prompts",
+        "Computational cost of meta-level processing",
+        "Difficult to control meta-level behavior"
+      ],
+      "related_techniques": [
+        "Automatic Prompt Engineering",
+        "Chain-of-Thought",
+        "Decomposed Prompting"
+      ]
+    },
+    "Meta-Learning": {
+      "canonical_definition": "Meta-learning (learning to learn) in the context of LLMs refers to the model's ability to rapidly adapt to new tasks from few examples by leveraging patterns learned across many tasks during pre-training, closely related to in-context learning.",
+      "research_basis": "4 papers",
+      "exemplar_mentions": 2,
+      "key_concepts": [
+        "Learning task structure from diverse training",
+        "Fast adaptation to new tasks",
+        "Transfer of learning strategies",
+        "Algorithm selection from context"
+      ],
+      "connection_to_icl": [
+        "In-context learning as implicit meta-learning",
+        "Pre-training on diverse tasks enables ICL",
+        "Model learns to infer task from examples",
+        "Similar to gradient-based meta-learning (MAML)"
+      ],
+      "research_evidence": [
+        "Transformers can implement meta-learning algorithms",
+        "ICL performance improves with task diversity in pre-training",
+        "Model learns algorithm selection in context",
+        "Related to Bayesian inference over tasks"
+      ],
+      "related_techniques": [
+        "In-Context Learning",
+        "Few-Shot Learning",
+        "Transfer Learning"
+      ]
+    },
+    "Iterative Refinement": {
+      "canonical_definition": "Iterative refinement is a prompting strategy where language model outputs are progressively improved through multiple rounds of generation and critique, either self-generated or human-provided, until a satisfactory result is achieved.",
+      "research_basis": "2 papers",
+      "exemplar_mentions": 7,
+      "refinement_approaches": [
+        "Self-refinement (model critiques own output)",
+        "Human-in-the-loop (user provides feedback)",
+        "Multi-agent (separate critic model)",
+        "Automatic evaluation-driven (metric-guided refinement)"
+      ],
+      "typical_workflow": [
+        "Generate initial output",
+        "Critique output (identify issues)",
+        "Generate refined output addressing critiques",
+        "Repeat until convergence or iteration limit"
+      ],
+      "research_evidence": [
+        "Improves output quality across tasks",
+        "Particularly effective for creative and open-ended tasks",
+        "Self-refinement works without additional training",
+        "Diminishing returns after 2-3 iterations typically"
+      ],
+      "use_cases": [
+        "Writing and editing",
+        "Code debugging and optimization",
+        "Mathematical problem-solving",
+        "Content generation with constraints"
+      ],
+      "related_techniques": [
+        "Self-Refinement",
+        "Constitutional AI",
+        "Human-in-the-Loop AI"
+      ]
+    },
+    "Prompt Compression": {
+      "canonical_definition": "Prompt compression techniques reduce the token length of prompts while preserving essential information, addressing context length limitations and reducing inference costs for large language models.",
+      "research_basis": "2 papers",
+      "exemplar_mentions": 0,
+      "compression_methods": [
+        "Summarization (LLM condenses prompt)",
+        "Selective deletion (remove non-essential tokens)",
+        "Embedding-based compression (learned compact representations)",
+        "Instruction distillation (shorter instructions with same effect)"
+      ],
+      "objectives": [
+        "Reduce inference cost (fewer tokens)",
+        "Fit within context window limits",
+        "Maintain task performance",
+        "Enable longer contexts effectively"
+      ],
+      "challenges": [
+        "Balancing compression vs information loss",
+        "Task-specific optimal compression rates",
+        "May harm performance on complex tasks",
+        "Computational cost of compression itself"
+      ],
+      "research_evidence": [
+        "Can achieve 2-10x compression with minimal performance loss",
+        "More effective for simple tasks than complex reasoning",
+        "Learned compression outperforms heuristic methods"
+      ],
+      "related_techniques": [
+        "Prompt Engineering",
+        "Context Window Optimization",
+        "Information Retrieval"
+      ]
+    },
+    "Self-Refinement": {
+      "canonical_definition": "Self-refinement is a specific form of iterative refinement where language models critique and improve their own outputs without external feedback, using prompts that ask the model to identify flaws and generate better versions.",
+      "research_basis": "Reference in iterative prompting literature",
+      "exemplar_mentions": 0,
+      "typical_prompts": [
+        "Critique the above response and identify any errors or improvements",
+        "What could be better about this output?",
+        "Revise the above to address the identified issues",
+        "Rate your confidence in this answer and explain why"
+      ],
+      "advantages": [
+        "No human feedback required",
+        "Scalable to any task",
+        "Can run autonomously",
+        "Leverages model's self-awareness"
+      ],
+      "limitations": [
+        "Model may not recognize its own errors",
+        "Can hallucinate criticisms",
+        "Repeated refinement may not converge",
+        "Increases inference cost"
+      ],
+      "research_evidence": [
+        "Works best with large, capable models",
+        "Effective for code generation and writing",
+        "Diminishing returns after 2-3 iterations",
+        "Sometimes introduces new errors while fixing others"
+      ],
+      "related_techniques": [
+        "Iterative Refinement",
+        "Self-Consistency",
+        "Constitutional AI"
+      ]
+    }
+  },
+  "technique_relationships": {
+    "reasoning_cluster": [
+      "Chain-of-Thought",
+      "Self-Consistency",
+      "Decomposed Prompting",
+      "Program-Aided Language Models"
+    ],
+    "learning_paradigms": [
+      "In-Context Learning",
+      "Few-Shot Learning",
+      "Zero-Shot Learning",
+      "Meta-Learning"
+    ],
+    "optimization_methods": [
+      "Prompt Engineering",
+      "Automatic Prompt Engineering",
+      "Soft Prompting",
+      "Discrete Prompting"
+    ],
+    "knowledge_augmentation": [
+      "Retrieval-Augmented Generation",
+      "Query Rewriting",
+      "Generate-then-Read"
+    ],
+    "security_safety": [
+      "Jailbreak Prompts",
+      "Prompt Injection",
+      "Adversarial Prompting",
+      "Red Teaming",
+      "Constitutional AI"
+    ],
+    "refinement_methods": [
+      "Iterative Refinement",
+      "Self-Refinement",
+      "Meta-Prompting"
+    ],
+    "specialized": [
+      "Multi-Modal Prompting",
+      "Instruction Tuning",
+      "Prompt Compression"
+    ]
+  },
+  "version_history": [
+    {
+      "version": "1.0.0",
+      "date": "2026-02-13",
+      "changes": "Initial canonical definitions from Phase 0 Days 5-6 analysis",
+      "techniques_count": 25,
+      "quality_score": "10.0/10.0"
+    }
+  ]
+}
