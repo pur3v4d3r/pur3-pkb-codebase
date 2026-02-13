@@ -1,0 +1,500 @@
+{
+  "cooccurrence_matrix": {
+    "Fine-tuning": {
+      "Jailbreaking": 3,
+      "Few-Shot": 138,
+      "Prompt Tuning": 9,
+      "Boosting": 1,
+      "Few-Shot Prompting": 21,
+      "Prompt Engineering": 46,
+      "Zero-Shot": 58,
+      "Chain-of-Thought": 12,
+      "Automatic Prompt": 6,
+      "In-Context Learning": 68,
+      "RLHF": 3,
+      "One-Shot": 2,
+      "RAG": 3,
+      "ReAct": 2,
+      "Instruction Following": 6,
+      "Analogical Prompting": 1,
+      "Self-Consistency": 1
+    },
+    "Jailbreaking": {
+      "Fine-tuning": 3,
+      "Automatic Prompt": 2,
+      "Prompt Engineering": 2,
+      "In-Context Learning": 2,
+      "Zero-Shot": 1
+    },
+    "Automatic Prompt": {
+      "Jailbreaking": 2,
+      "Prompt Engineering": 16,
+      "Fine-tuning": 6,
+      "In-Context Learning": 5,
+      "Zero-Shot": 6,
+      "Few-Shot": 8,
+      "Prompt Tuning": 1,
+      "Meta-Prompting": 1
+    },
+    "Decomposed Prompting": {
+      "Few-Shot": 8,
+      "Few-Shot Prompting": 7,
+      "Chain-of-Thought": 2,
+      "Zero-Shot": 4,
+      "In-Context Learning": 2,
+      "Prompt Engineering": 1,
+      "Prompt Tuning": 1
+    },
+    "Few-Shot": {
+      "Decomposed Prompting": 8,
+      "Few-Shot Prompting": 78,
+      "Fine-tuning": 138,
+      "Prompt Tuning": 18,
+      "Analogical Prompting": 2,
+      "Chain-of-Thought": 53,
+      "In-Context Learning": 92,
+      "Prompt Engineering": 44,
+      "Zero-Shot": 127,
+      "One-Shot": 10,
+      "Boosting": 4,
+      "Automatic Prompt": 8,
+      "Self-Consistency": 7,
+      "ReAct": 2,
+      "Self-Ask": 2,
+      "RAG": 6,
+      "Meta-Prompting": 1,
+      "Role Prompting": 1,
+      "RLHF": 1,
+      "Instruction Following": 1,
+      "Least-to-Most Prompting": 1,
+      "Plan-and-Solve": 1
+    },
+    "Few-Shot Prompting": {
+      "Decomposed Prompting": 7,
+      "Few-Shot": 78,
+      "Chain-of-Thought": 19,
+      "Zero-Shot": 21,
+      "Fine-tuning": 21,
+      "Prompt Engineering": 8,
+      "In-Context Learning": 5,
+      "ReAct": 2,
+      "Self-Ask": 1,
+      "Boosting": 1,
+      "Self-Consistency": 1
+    },
+    "Prompt Tuning": {
+      "Few-Shot": 18,
+      "Fine-tuning": 9,
+      "Prompt Engineering": 3,
+      "Automatic Prompt": 1,
+      "Zero-Shot": 3,
+      "Decomposed Prompting": 1,
+      "Chain-of-Thought": 1
+    },
+    "Analogical Prompting": {
+      "Chain-of-Thought": 1,
+      "Few-Shot": 2,
+      "In-Context Learning": 2,
+      "Prompt Engineering": 1,
+      "Zero-Shot": 2,
+      "Fine-tuning": 1
+    },
+    "Chain-of-Thought": {
+      "Analogical Prompting": 1,
+      "Few-Shot": 53,
+      "In-Context Learning": 33,
+      "Prompt Engineering": 10,
+      "Zero-Shot": 34,
+      "Decomposed Prompting": 2,
+      "Few-Shot Prompting": 19,
+      "RLHF": 3,
+      "Fine-tuning": 12,
+      "Self-Consistency": 3,
+      "Boosting": 1,
+      "Reflexion": 1,
+      "Self-Ask": 1,
+      "One-Shot": 2,
+      "Tree-of-Thoughts": 1,
+      "Least-to-Most Prompting": 1,
+      "Instruction Following": 1,
+      "ReAct": 1,
+      "Self-Refine": 1,
+      "Plan-and-Solve": 1,
+      "Prompt Tuning": 1
+    },
+    "In-Context Learning": {
+      "Analogical Prompting": 2,
+      "Chain-of-Thought": 33,
+      "Few-Shot": 92,
+      "Prompt Engineering": 17,
+      "Zero-Shot": 61,
+      "RLHF": 4,
+      "One-Shot": 4,
+      "Automatic Prompt": 5,
+      "Fine-tuning": 68,
+      "Few-Shot Prompting": 5,
+      "Boosting": 4,
+      "Instruction Following": 9,
+      "Decomposed Prompting": 2,
+      "Self-Ask": 2,
+      "RAG": 7,
+      "Jailbreaking": 2,
+      "Self-Consistency": 4,
+      "Self-Refine": 1,
+      "Least-to-Most Prompting": 2,
+      "ReAct": 1
+    },
+    "Prompt Engineering": {
+      "Analogical Prompting": 1,
+      "Chain-of-Thought": 10,
+      "Few-Shot": 44,
+      "In-Context Learning": 17,
+      "Zero-Shot": 49,
+      "Automatic Prompt": 16,
+      "Few-Shot Prompting": 8,
+      "Fine-tuning": 46,
+      "Prompt Tuning": 3,
+      "Jailbreaking": 2,
+      "Self-Consistency": 2,
+      "Generated Knowledge": 1,
+      "RLHF": 2,
+      "One-Shot": 5,
+      "RAG": 2,
+      "Boosting": 2,
+      "Tree-of-Thoughts": 1,
+      "Instruction Following": 2,
+      "Decomposed Prompting": 1,
+      "Meta-Prompting": 2
+    },
+    "Zero-Shot": {
+      "Analogical Prompting": 2,
+      "Chain-of-Thought": 34,
+      "Few-Shot": 127,
+      "In-Context Learning": 61,
+      "Prompt Engineering": 49,
+      "Decomposed Prompting": 4,
+      "Few-Shot Prompting": 21,
+      "RLHF": 1,
+      "Fine-tuning": 58,
+      "Automatic Prompt": 6,
+      "One-Shot": 6,
+      "Boosting": 2,
+      "Instruction Following": 4,
+      "Self-Ask": 1,
+      "Jailbreaking": 1,
+      "Prompt Tuning": 3,
+      "RAG": 3,
+      "Self-Consistency": 1,
+      "Least-to-Most Prompting": 1,
+      "Plan-and-Solve": 1
+    },
+    "One-Shot": {
+      "Few-Shot": 10,
+      "In-Context Learning": 4,
+      "Fine-tuning": 2,
+      "Prompt Engineering": 5,
+      "RAG": 1,
+      "Zero-Shot": 6,
+      "Tree-of-Thoughts": 1,
+      "Chain-of-Thought": 2
+    },
+    "Boosting": {
+      "Few-Shot": 4,
+      "Fine-tuning": 1,
+      "Chain-of-Thought": 1,
+      "Few-Shot Prompting": 1,
+      "In-Context Learning": 4,
+      "Prompt Engineering": 2,
+      "Zero-Shot": 2
+    },
+    "RLHF": {
+      "Chain-of-Thought": 3,
+      "In-Context Learning": 4,
+      "Zero-Shot": 1,
+      "Fine-tuning": 3,
+      "Prompt Engineering": 2,
+      "Few-Shot": 1
+    },
+    "RAG": {
+      "Rewrite-Retrieve-Read": 1,
+      "Fine-tuning": 3,
+      "One-Shot": 1,
+      "Prompt Engineering": 2,
+      "In-Context Learning": 7,
+      "Self-Ask": 1,
+      "Few-Shot": 6,
+      "Zero-Shot": 3
+    },
+    "Rewrite-Retrieve-Read": {
+      "RAG": 1
+    },
+    "Self-Consistency": {
+      "Few-Shot": 7,
+      "Prompt Engineering": 2,
+      "Chain-of-Thought": 3,
+      "Few-Shot Prompting": 1,
+      "Fine-tuning": 1,
+      "In-Context Learning": 4,
+      "Zero-Shot": 1,
+      "Self-Refine": 1
+    },
+    "Generated Knowledge": {
+      "Prompt Engineering": 1
+    },
+    "ReAct": {
+      "Few-Shot": 2,
+      "Few-Shot Prompting": 2,
+      "Fine-tuning": 2,
+      "Chain-of-Thought": 1,
+      "In-Context Learning": 1
+    },
+    "Self-Ask": {
+      "Few-Shot": 2,
+      "Few-Shot Prompting": 1,
+      "Chain-of-Thought": 1,
+      "In-Context Learning": 2,
+      "Zero-Shot": 1,
+      "RAG": 1
+    },
+    "Instruction Following": {
+      "In-Context Learning": 9,
+      "Fine-tuning": 6,
+      "Zero-Shot": 4,
+      "Prompt Engineering": 2,
+      "Few-Shot": 1,
+      "Chain-of-Thought": 1
+    },
+    "Graph-of-Thoughts": {
+      "Tree-of-Thoughts": 1
+    },
+    "Tree-of-Thoughts": {
+      "Graph-of-Thoughts": 1,
+      "One-Shot": 1,
+      "Prompt Engineering": 1,
+      "Chain-of-Thought": 1
+    },
+    "Reflexion": {
+      "Chain-of-Thought": 1
+    },
+    "Meta-Prompting": {
+      "Few-Shot": 1,
+      "Prompt Engineering": 2,
+      "Automatic Prompt": 1
+    },
+    "Role Prompting": {
+      "Few-Shot": 1
+    },
+    "Self-Refine": {
+      "In-Context Learning": 1,
+      "Chain-of-Thought": 1,
+      "Self-Consistency": 1
+    },
+    "Least-to-Most Prompting": {
+      "Chain-of-Thought": 1,
+      "Few-Shot": 1,
+      "In-Context Learning": 2,
+      "Zero-Shot": 1
+    },
+    "Plan-and-Solve": {
+      "Chain-of-Thought": 1,
+      "Few-Shot": 1,
+      "Zero-Shot": 1
+    }
+  },
+  "strong_cooccurrences": [
+    {
+      "technique_1": "Fine-tuning",
+      "technique_2": "Few-Shot",
+      "cooccurrence_count": 138
+    },
+    {
+      "technique_1": "Few-Shot",
+      "technique_2": "Zero-Shot",
+      "cooccurrence_count": 127
+    },
+    {
+      "technique_1": "Few-Shot",
+      "technique_2": "In-Context Learning",
+      "cooccurrence_count": 92
+    },
+    {
+      "technique_1": "Few-Shot",
+      "technique_2": "Few-Shot Prompting",
+      "cooccurrence_count": 78
+    },
+    {
+      "technique_1": "Fine-tuning",
+      "technique_2": "In-Context Learning",
+      "cooccurrence_count": 68
+    },
+    {
+      "technique_1": "In-Context Learning",
+      "technique_2": "Zero-Shot",
+      "cooccurrence_count": 61
+    },
+    {
+      "technique_1": "Fine-tuning",
+      "technique_2": "Zero-Shot",
+      "cooccurrence_count": 58
+    },
+    {
+      "technique_1": "Few-Shot",
+      "technique_2": "Chain-of-Thought",
+      "cooccurrence_count": 53
+    },
+    {
+      "technique_1": "Prompt Engineering",
+      "technique_2": "Zero-Shot",
+      "cooccurrence_count": 49
+    },
+    {
+      "technique_1": "Fine-tuning",
+      "technique_2": "Prompt Engineering",
+      "cooccurrence_count": 46
+    },
+    {
+      "technique_1": "Few-Shot",
+      "technique_2": "Prompt Engineering",
+      "cooccurrence_count": 44
+    },
+    {
+      "technique_1": "Chain-of-Thought",
+      "technique_2": "Zero-Shot",
+      "cooccurrence_count": 34
+    },
+    {
+      "technique_1": "Chain-of-Thought",
+      "technique_2": "In-Context Learning",
+      "cooccurrence_count": 33
+    },
+    {
+      "technique_1": "Fine-tuning",
+      "technique_2": "Few-Shot Prompting",
+      "cooccurrence_count": 21
+    },
+    {
+      "technique_1": "Few-Shot Prompting",
+      "technique_2": "Zero-Shot",
+      "cooccurrence_count": 21
+    },
+    {
+      "technique_1": "Few-Shot Prompting",
+      "technique_2": "Chain-of-Thought",
+      "cooccurrence_count": 19
+    },
+    {
+      "technique_1": "Few-Shot",
+      "technique_2": "Prompt Tuning",
+      "cooccurrence_count": 18
+    },
+    {
+      "technique_1": "In-Context Learning",
+      "technique_2": "Prompt Engineering",
+      "cooccurrence_count": 17
+    },
+    {
+      "technique_1": "Automatic Prompt",
+      "technique_2": "Prompt Engineering",
+      "cooccurrence_count": 16
+    },
+    {
+      "technique_1": "Fine-tuning",
+      "technique_2": "Chain-of-Thought",
+      "cooccurrence_count": 12
+    },
+    {
+      "technique_1": "Few-Shot",
+      "technique_2": "One-Shot",
+      "cooccurrence_count": 10
+    },
+    {
+      "technique_1": "Chain-of-Thought",
+      "technique_2": "Prompt Engineering",
+      "cooccurrence_count": 10
+    },
+    {
+      "technique_1": "Fine-tuning",
+      "technique_2": "Prompt Tuning",
+      "cooccurrence_count": 9
+    },
+    {
+      "technique_1": "In-Context Learning",
+      "technique_2": "Instruction Following",
+      "cooccurrence_count": 9
+    },
+    {
+      "technique_1": "Automatic Prompt",
+      "technique_2": "Few-Shot",
+      "cooccurrence_count": 8
+    },
+    {
+      "technique_1": "Decomposed Prompting",
+      "technique_2": "Few-Shot",
+      "cooccurrence_count": 8
+    },
+    {
+      "technique_1": "Few-Shot Prompting",
+      "technique_2": "Prompt Engineering",
+      "cooccurrence_count": 8
+    },
+    {
+      "technique_1": "Decomposed Prompting",
+      "technique_2": "Few-Shot Prompting",
+      "cooccurrence_count": 7
+    },
+    {
+      "technique_1": "Few-Shot",
+      "technique_2": "Self-Consistency",
+      "cooccurrence_count": 7
+    },
+    {
+      "technique_1": "In-Context Learning",
+      "technique_2": "RAG",
+      "cooccurrence_count": 7
+    },
+    {
+      "technique_1": "Fine-tuning",
+      "technique_2": "Automatic Prompt",
+      "cooccurrence_count": 6
+    },
+    {
+      "technique_1": "Fine-tuning",
+      "technique_2": "Instruction Following",
+      "cooccurrence_count": 6
+    },
+    {
+      "technique_1": "Automatic Prompt",
+      "technique_2": "Zero-Shot",
+      "cooccurrence_count": 6
+    },
+    {
+      "technique_1": "Few-Shot",
+      "technique_2": "RAG",
+      "cooccurrence_count": 6
+    },
+    {
+      "technique_1": "Zero-Shot",
+      "technique_2": "One-Shot",
+      "cooccurrence_count": 6
+    },
+    {
+      "technique_1": "Automatic Prompt",
+      "technique_2": "In-Context Learning",
+      "cooccurrence_count": 5
+    },
+    {
+      "technique_1": "Few-Shot Prompting",
+      "technique_2": "In-Context Learning",
+      "cooccurrence_count": 5
+    },
+    {
+      "technique_1": "Prompt Engineering",
+      "technique_2": "One-Shot",
+      "cooccurrence_count": 5
+    }
+  ],
+  "summary": {
+    "total_technique_pairs": 38,
+    "strong_pairs_count": 38
+  }
+}
