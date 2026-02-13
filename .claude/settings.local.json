@@ -14,7 +14,10 @@
       "Bash(smart-cli lookup:*)",
       "Bash(smart-cli validate:*)",
       "Bash(robocopy:*)",
-      "Bash(xcopy:*)"
+      "Bash(xcopy:*)",
+      "Bash(dir:*)",
+      "Bash(python3:*)",
+      "Bash(python:*)"
     ]
   }
 }

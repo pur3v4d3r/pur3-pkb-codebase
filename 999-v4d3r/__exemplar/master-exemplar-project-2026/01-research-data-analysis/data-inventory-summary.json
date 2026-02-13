@@ -1,0 +1,104 @@
+{
+  "total_papers": 1464,
+  "valid_json_entries": 1464,
+  "papers_with_abstracts": 1464,
+  "papers_with_empty_text": 0,
+  "average_abstract_length": 1266.6,
+  "quality_scores": {
+    "structural_integrity": 10.0,
+    "content_completeness": 10.0,
+    "average_length_score": 10.0,
+    "overall_quality": 10.0
+  },
+  "recommendation": "PROCEED",
+  "sample_indices": [
+    102,
+    1318,
+    1293,
+    877,
+    591,
+    223,
+    453,
+    60,
+    903,
+    340
+  ],
+  "sample_papers": [
+    {
+      "id": null,
+      "text_length": 1288,
+      "text_preview": "Knowledge Base Question Answering (KBQA) aims to answer factoid questions based on knowledge bases. However, generating the most appropriate knowledge base query code based on Natural Language Questions is challenging..."
+    },
+    {
+      "id": "a81470aa3721f6cd8a61139f9c4c60923bee093f",
+      "text_length": 1719,
+      "text_preview": "Large Language Models (LLMs) have demonstrated remarkable capabilities in open-ended text generation tasks. However, the inherent open-ended nature of these tasks implies that there is always room for improvement..."
+    },
+    {
+      "id": "8da6e4537122af618c36563caef5863f8728d789",
+      "text_length": 1039,
+      "text_preview": "Large language models (LLMs) are increasingly capable and prevalent, and can be used to produce creative content. The quality of content is influenced by the prompt used, with more specific prompts tending to produce better outputs..."
+    },
+    {
+      "id": "ff7f75989d125a3356fdb5ad76f504037cc27d5c",
+      "text_length": 999,
+      "text_preview": "Test stimuli generation has been a crucial but labor-intensive task in hardware design verification. In this paper, we revolutionize this process by harnessing the power of large language models (LLMs)..."
+    },
+    {
+      "id": "a7f8fd45fbcdd81449cb7a1a6a2b2c18b38f8151",
+      "text_length": 1752,
+      "text_preview": "The 'Impression' section of a radiology report is a critical basis for communication between radiologists and other physicians, and it is typically written by radiologists based on the 'Findings' section..."
+    },
+    {
+      "id": "16aacf48048ac128a07fe2c0761439e1d7211492",
+      "text_length": 1335,
+      "text_preview": "A proven therapeutic technique to overcome negative thoughts is to replace them with a more hopeful 'reframed thought.' Although therapy can help people practice and learn this Cognitive Reframing of negative thoughts..."
+    },
+    {
+      "id": "6c1e1cc1e0e1f8fd026fe517607b2d4535565fa7",
+      "text_length": 1664,
+      "text_preview": "Large language models (LLMs) have recently demonstrated an impressive ability to perform arithmetic and symbolic reasoning tasks, when provided with a few examples at test time ('few-shot prompting')..."
+    },
+    {
+      "id": "0942bd8fad71282994ff4e9a779c09745da68edc",
+      "text_length": 1034,
+      "text_preview": "Although large language models can be prompted for both zero- and few-shot learning, performance drops significantly when no demonstrations are available. In this paper, we introduce Z-ICL, a new zero-shot method..."
+    },
+    {
+      "id": "c91f6eb320c70e2f64b6fb935494978a8699f06a",
+      "text_length": 1514,
+      "text_preview": "As we increasingly depend on software systems, the consequences of breaches in the software supply chain become more severe. High-profile cyber attacks like those on SolarWinds and ShadowHammer have revealed..."
+    },
+    {
+      "id": null,
+      "text_length": 1387,
+      "text_preview": "Paraphrasing of offensive content is a better alternative to content removal and helps improve civility in a communication environment. Supervised paraphrasers; however, rely heavily on large quantities of labelled data..."
+    }
+  ],
+  "timestamp": "2026-02-13 08:36:47",
+  "data_location": "D:/10_pur3v4d3r's-vault/999-v4d3r/__exemplar/the-prompt-report-main/data/topic-gpt-data/master_papers.jsonl",
+  "csv_metadata_files": {
+    "arxiv_papers_with_abstract": 30294,
+    "arxiv_papers_for_human_review": 30294
+  },
+  "assessment_notes": [
+    "100% of papers contain substantial textual content (>50 characters)",
+    "Average abstract length of 1,266.6 characters exceeds quality thresholds",
+    "All 10 sampled papers contain prompt engineering keywords",
+    "44.5% of papers have explicit IDs; others identifiable by content",
+    "Perfect structural integrity - zero JSON parsing errors",
+    "Dataset is production-ready for downstream processing"
+  ],
+  "identified_issues": {
+    "critical": [],
+    "moderate": [],
+    "minor": [
+      {
+        "issue": "Partial ID coverage",
+        "severity": "LOW",
+        "impact": "May require content-based matching for 55.5% of papers",
+        "mitigation": "Use content hashing or CSV cross-reference"
+      }
+    ]
+  }
+}
