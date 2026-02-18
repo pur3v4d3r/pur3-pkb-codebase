@@ -22,9 +22,8 @@ Approach Number 2:
 
 
 
-
-
-
+Last Know Position
+#### When Stoicism Misses the Mark
 
 
 
