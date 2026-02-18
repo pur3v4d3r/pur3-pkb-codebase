@@ -18,7 +18,8 @@
       "Bash(dir:*)",
       "Bash(python3:*)",
       "Bash(python:*)",
-      "Bash(if not exist \"D:\\\\10_pur3v4d3r''s-vault\\\\01-research-data-analysis\" mkdir \"D:\\\\10_pur3v4d3r''s-vault\\\\01-research-data-analysis\")"
+      "Bash(if not exist \"D:\\\\10_pur3v4d3r''s-vault\\\\01-research-data-analysis\" mkdir \"D:\\\\10_pur3v4d3r''s-vault\\\\01-research-data-analysis\")",
+      "Bash(wc:*)"
     ]
   }
 }

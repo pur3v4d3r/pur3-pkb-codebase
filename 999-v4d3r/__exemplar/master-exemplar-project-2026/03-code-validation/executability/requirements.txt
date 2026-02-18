@@ -1,0 +1,76 @@
+# ============================================================================
+# Day 13 Code Validation - Python Dependencies
+# Master Exemplar Project 2026
+# ============================================================================
+#
+# This requirements file contains all dependencies needed to execute
+# the code examples from the Claude Reasoning Documentation Series.
+#
+# Installation:
+#   pip install -r requirements.txt
+#
+# Note: Some examples are templates requiring implementation-specific choices
+# (e.g., Anthropic API vs OpenAI API vs local models). See stubs.py for details.
+#
+# ============================================================================
+
+# Core LLM API Clients
+# ----------------------------------------------------------------------------
+anthropic>=0.21.0          # Claude API client for extended thinking
+openai>=1.0.0              # OpenAI API client (alternative provider)
+
+# Data Processing & Scientific Computing
+# ----------------------------------------------------------------------------
+numpy>=1.24.0              # Numerical computing for embeddings, vector ops
+pandas>=2.0.0              # Data structures for result analysis
+
+# Testing Framework
+# ----------------------------------------------------------------------------
+pytest>=7.4.0              # Core testing framework
+pytest-asyncio>=0.21.0     # Async test support for API calls
+pytest-mock>=3.11.0        # Mocking utilities for testing
+pytest-cov>=4.1.0          # Coverage reporting
+pytest-timeout>=2.1.0      # Timeout control for long-running tests
+
+# Type Checking & Code Quality
+# ----------------------------------------------------------------------------
+mypy>=1.5.0                # Static type checking
+black>=23.7.0              # Code formatting
+ruff>=0.0.285              # Fast Python linter
+isort>=5.12.0              # Import sorting
+
+# Optional: Local Model Support
+# ----------------------------------------------------------------------------
+# Uncomment if using local models instead of API clients
+# transformers>=4.30.0     # HuggingFace transformers for local LLMs
+# torch>=2.0.0             # PyTorch backend
+# accelerate>=0.20.0       # Model acceleration utilities
+
+# Optional: Advanced Features
+# ----------------------------------------------------------------------------
+# Uncomment for specific use cases mentioned in docs
+# tiktoken>=0.4.0          # Token counting for OpenAI models
+# anthropic-tokenizers>=0.1.0  # Token counting for Claude
+# pydantic>=2.0.0          # Data validation for structured outputs
+# tenacity>=8.2.0          # Retry logic with exponential backoff
+# redis>=4.5.0             # Cache backend (alternative to in-memory)
+
+# Development Dependencies
+# ----------------------------------------------------------------------------
+ipython>=8.12.0            # Enhanced Python shell for experimentation
+jupyter>=1.0.0             # Notebook environment for interactive testing
+
+# ============================================================================
+# Version Notes
+# ============================================================================
+#
+# Minimum Python version: 3.9
+# Recommended Python version: 3.10 or 3.11
+#
+# All version constraints use >= to allow flexibility, but code has been
+# validated against the specified versions.
+#
+# For reproducible builds, consider using:
+#   pip freeze > requirements-locked.txt
+#
+# ============================================================================
