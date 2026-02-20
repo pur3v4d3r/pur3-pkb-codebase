@@ -1,0 +1,134 @@
+[
+  {
+    "chapter": "## Book V, Chapter 3: The Muster of Rohan",
+    "description": "Song of Théoden's ride from Dunharrow to Gondor (alliterative verse)",
+    "lines": [
+      "From dark Dunharrow in the dim morning ",
+      "with thane and captain rode Thengel's son: ",
+      "to Edoras he came, the ancient halls ",
+      "",
+      "of the Mark-wardens mist-enshrouded; ",
+      "golden timbers were in gloom mantled. ",
+      "Farewell he bade to his free people, ",
+      "",
+      "hearth and high-seat, and the hallowed places, ",
+      "where long he had feasted ere the light faded. ",
+      "Forth rode the king, fear behind him, ",
+      "",
+      "fate before him. Fealty kept he; ",
+      "",
+      "oaths he had taken, all fulfilled them. ",
+      "",
+      "Forth rode Théoden. Five nights and days ",
+      "east and onward rode the Eorlingas ",
+      "",
+      "through Folde and Fenmarch and the Firienwood, ",
+      "six thousand spears to Sunlending, ",
+      "Mundburg the mighty under Mindolluin, ",
+      "Sea-kings' city in the South-kingdom ",
+      "foe-beleaguered, fire-encircled. ",
+      "",
+      "Doom drove them on. Darkness took them, ",
+      "horse and horseman; hoofbeats afar ",
+      "",
+      "sank into silence: so the songs tell us. "
+    ]
+  },
+  {
+    "chapter": "## Book V, Chapter 5: The Ride of the Rohirrim",
+    "description": "Théoden's battle-cry before the charge on the Pelennor Fields",
+    "lines": [
+      "Arise, arise, Riders of Théoden! ",
+      "",
+      "Fell deeds awake: fire and slaughter! ",
+      "spear shall be shaken, shield be splintered, ",
+      "a sword-day, a red day, ere the sun rises! ",
+      "Ride now, ride now! Ride to Gondor! "
+    ]
+  },
+  {
+    "chapter": "## Book V, Chapter 5: The Ride of the Rohirrim",
+    "description": "Repeated war-cry as the horns of Rohan sound and the charge begins",
+    "lines": [
+      "Ride now, ride now! Ride to Gondor! "
+    ]
+  },
+  {
+    "chapter": "## Book VI, Chapter 4: The Field of Cormallen",
+    "description": "Praise of the Halflings sung by the host at Cormallen (mixed Westron and Elvish tongues)",
+    "lines": [
+      "'Long live the Halflings! Praise them with great praise! ",
+      "",
+      "Cuio 1 Pheriain anann! Aglar'ni Pheriannath! ",
+      "",
+      "Praise them with great praise, Frodo and Samwise! ",
+      "",
+      "Daur a Berhael, Conin en Anni! Eglerio! ",
+      "",
+      "Praise them! ",
+      "",
+      "Eglerio! ",
+      "",
+      "A laita te, laita te! Andave laituvalmet! ",
+      "",
+      "Praise them! ",
+      "",
+      "Cormacolindor, a laita tarienna! ",
+      "",
+      "Praise them! The Ring-bearers, praise them with great praise!\""
+    ]
+  },
+  {
+    "chapter": "## Book VI, Chapter 4: The Field of Cormallen",
+    "description": "Legolas sings of his sea-longing as the Fellowship rests in Ithilien",
+    "lines": [
+      "To the Sea, to the Sea! The white gulls are crying, ",
+      "The wind is blowing, and the white foam ts flying. ",
+      "West, west away, the round sun ts falling. ",
+      "",
+      "Grey ship, grey ship, do you hear them calling, ",
+      "",
+      "The voices of my people that have gone before me? ",
+      "I will leave, I will leave the woods that bore me; ",
+      "For our days are ending and our years failing. ",
+      "",
+      "I will pass the wide waters lonely sailing. ",
+      "",
+      "Long are the waves on the Last Shore falling, ",
+      "Sweet are the voices in the Lost Isle calling, ",
+      "",
+      "In Eresséa, in Elvenhome that no man can discover, ",
+      "Where the leaves fall not: land of my people for ever!'"
+    ]
+  },
+  {
+    "chapter": "## Book VI, Chapter 9: The Grey Havens",
+    "description": "Frodo sings a variant of the old walking-song as they travel through the Woody End",
+    "lines": [
+      "Still round the corner there may wait ",
+      "A new road or a secret gate; ",
+      "",
+      "And though I oft have passed them by, ",
+      "A day will come at last when I ",
+      "",
+      "Shall take the hidden paths that run ",
+      "West of the Moon, East of the Sun. "
+    ]
+  },
+  {
+    "chapter": "## Book VI, Chapter 9: The Grey Havens",
+    "description": "Elves sing A! Elbereth Gilthoniel as they pass through the Woody End",
+    "lines": [
+      "A! Elbereth Gilthoniel! ",
+      "",
+      "silivren penna miriel ",
+      "",
+      "o menel aglar elenath, ",
+      "",
+      "Gilthoniel, A! Elbereth! ",
+      "We still remember, we who dwell ",
+      "In this far land beneath the trees ",
+      "The starlight on the Western Seas. "
+    ]
+  }
+]

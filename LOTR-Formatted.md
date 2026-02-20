@@ -1,3 +1,26 @@
+---
+tags:
+  - literature
+  - tolkien
+  - fantasy
+  - lotr
+  - middle-earth
+  - reading-edition
+aliases:
+  - Lord of the Rings
+  - LOTR
+  - The Fellowship of the Ring
+  - The Two Towers
+  - The Return of the King
+status: evergreen
+author: "J.R.R. Tolkien"
+published: "1954–1955"
+type: formatted-reading-edition
+volumes: 3
+books: 6
+chapters: 62
+---
+
 # The Lord of the Rings
 
 *J.R.R. Tolkien*
@@ -2626,14 +2649,14 @@ has come. I am being swept off my feet at last,’ he added, and then
 in a low voice, as if to himself, he sang softly in the dark: 
 
 
-The Road goes ever on and on 
-Down from the door where it began. 
-Now far ahead the Road has gone, 
-And I must follow, if I can, 
-Pursuing it with eager feet, 
-Until it joins some larger way 
-Where many paths and errands meet. 
-And whither then? I cannot say. 
+> *The Road goes ever on and on*
+> *Down from the door where it began.*
+> *Now far ahead the Road has gone,*
+> *And I must follow, if I can,*
+> *Pursuing it with eager feet,*
+> *Until it joins some larger way*
+> *Where many paths and errands meet.*
+> *And whither then? I cannot say.*
 
 
 
@@ -4706,14 +4729,14 @@ gazing eastward along the road, as if he had never seen it before.
 Suddenly he spoke, aloud but as if to himself, saying slowly: 
 
 
-The Road goes ever on and on 
-Down from the door where it began. 
-Now far ahead the Road has gone, 
-And I must follow, if I can, 
-Pursuing it with weary feet, 
-Until it joins some larger way, 
-Where many paths and errands meet. 
-And whither then? I cannot say. 
+> *The Road goes ever on and on*
+> *Down from the door where it began.*
+> *Now far ahead the Road has gone,*
+> *And I must follow, if I can,*
+> *Pursuing it with weary feet,*
+> *Until it joins some larger way,*
+> *Where many paths and errands meet.*
+> *And whither then? I cannot say.*
 
 
 “That sounds like a bit of old Bilbo’s rhyming,’ said Pippin. ‘Or 
@@ -4922,52 +4945,52 @@ the hills, and taught it to Frodo as they walked in the lanes of the
 Water-valley and talked about Adventure. 
 
 
-Upon the hearth the fire 1s red, 
-
-Beneath the roof there is a bed; 
-
-But not yet weary are our feet, 
-
-Still round the corner we may meet 
-
-A sudden tree or standing stone 
-
-That none have seen but we alone. 
-Tree and flower and leaf and grass, 
-Let them pass! Let them pass! 
-Hill and water under sky, 
-Pass them by! Pass them by! 
-
-
-Still round the corner there may wait 
-A new road or a secret gate, 
-And though we pass them by today, 
-Tomorrow we may come this way 
-And take the hidden paths that run 
-Towards the Moon or to the Sun. 
-Apple, thorn, and nut and sloe, 
-Let them go! Let them go! 
-Sand and stone and pool and dell, 
-Fare you well! Fare you well! 
-
-
-
-
-Home 1s behind, the world ahead, 
-
-And there are many paths to tread 
-
-Through shadows to the edge of night, 
-
-Until the stars are all alight. 
-
-Then world behind and home ahead, 
-
-Well wander back to home and bed. 
-Mist and twilight, cloud and shade, 
-Away shall fade! Away shall fade! 
-Fire and lamp, and meat and bread, 
-And then to bed! And then to bed! 
+> *Upon the hearth the fire 1s red,*
+>
+> *Beneath the roof there is a bed;*
+>
+> *But not yet weary are our feet,*
+>
+> *Still round the corner we may meet*
+>
+> *A sudden tree or standing stone*
+>
+> *That none have seen but we alone.*
+> *Tree and flower and leaf and grass,*
+> *Let them pass! Let them pass!*
+> *Hill and water under sky,*
+> *Pass them by! Pass them by!*
+>
+>
+> *Still round the corner there may wait*
+> *A new road or a secret gate,*
+> *And though we pass them by today,*
+> *Tomorrow we may come this way*
+> *And take the hidden paths that run*
+> *Towards the Moon or to the Sun.*
+> *Apple, thorn, and nut and sloe,*
+> *Let them go! Let them go!*
+> *Sand and stone and pool and dell,*
+> *Fare you well! Fare you well!*
+>
+>
+>
+>
+> *Home 1s behind, the world ahead,*
+>
+> *And there are many paths to tread*
+>
+> *Through shadows to the edge of night,*
+>
+> *Until the stars are all alight.*
+>
+> *Then world behind and home ahead,*
+>
+> *Well wander back to home and bed.*
+> *Mist and twilight, cloud and shade,*
+> *Away shall fade! Away shall fade!*
+> *Fire and lamp, and meat and bread,*
+> *And then to bed! And then to bed!*
 
 
 The song ended. ‘And now to bed! And now to bed!’ sang Pippin 
@@ -5040,28 +5063,28 @@ which they only partly understood. This was the song as Frodo heard
 it: 
 
 
-Snow-white! Snow-white! O Lady clear! 
-O Queen beyond the Western Seas! 
-O Light to us that wander here 
-Amid the world of woven trees! 
-
-
-Gilthoniel! O Elbereth! 
-Clear are thy eyes and bright thy breath! 
-Snow-white! Snow-white! We sing to thee 
-In a far land beyond the Sea. 
-
-
-O stars that in the Sunless Year 
-With shining hand by her were sown, 
-In windy fields now bright and clear 
-We see your silver blossom blown! 
-
-
-O Elbereth! Gilthoniel! 
-We still remember, we who dwell 
-In this far land beneath the trees, 
-Thy starlight on the Western Seas. 
+> *Snow-white! Snow-white! O Lady clear!*
+> *O Queen beyond the Western Seas!*
+> *O Light to us that wander here*
+> *Amid the world of woven trees!*
+>
+>
+> *Gilthoniel! O Elbereth!*
+> *Clear are thy eyes and bright thy breath!*
+> *Snow-white! Snow-white! We sing to thee*
+> *In a far land beyond the Sea.*
+>
+>
+> *O stars that in the Sunless Year*
+> *With shining hand by her were sown,*
+> *In windy fields now bright and clear*
+> *We see your silver blossom blown!*
+>
+>
+> *O Elbereth! Gilthoniel!*
+> *We still remember, we who dwell*
+> *In this far land beneath the trees,*
+> *Thy starlight on the Western Seas.*
 
 
 The song ended. “These are High Elves! They spoke the name of 
@@ -5651,15 +5674,15 @@ Sam and Pippin sat near, and they began to hum, and then to sing
 softly: 
 
 
-Ho! Ho! Ho! to the bottle I go 
-
-To heal my heart and drown my woe. 
-Rain may fall and wind may blow, 
-And many miles be still to go, 
-
-But under a tall tree I will lie, 
-
-And let the clouds go sailing by. 
+> *Ho! Ho! Ho! to the bottle I go*
+>
+> *To heal my heart and drown my woe.*
+> *Rain may fall and wind may blow,*
+> *And many miles be still to go,*
+>
+> *But under a tall tree I will lie,*
+>
+> *And let the clouds go sailing by.*
 
 
 Ho! Ho! Ho! they began again louder. They stopped short suddenly. 
@@ -6551,29 +6574,29 @@ It was made on the model of the dwarf-song that started Bilbo on
 his adventure long ago, and went to the same tune: 
 
 
-Farewell we call to hearth and hall! 
-Though wind may blow and rain may fall, 
-We must away ere break of day 
-
-Far over wood and mountain tall. 
-
-
-To [[Rivendell]], where Elves yet dwell 
-
-In glades beneath the misty fell, 
-
-Through moor and waste we ride in haste, 
-And whither then we cannot tell. 
-
-
-With foes ahead, behind us dread, 
-Beneath the sky shall be our bed, 
-Until at last our toil be passed, 
-Our journey done, our errand sped. 
-
-
-We must away! We must away! 
-We ride before the break of day! 
+> *Farewell we call to hearth and hall!*
+> *Though wind may blow and rain may fall,*
+> *We must away ere break of day*
+>
+> *Far over wood and mountain tall.*
+>
+>
+> *To [[Rivendell]], where Elves yet dwell*
+>
+> *In glades beneath the misty fell,*
+>
+> *Through moor and waste we ride in haste,*
+> *And whither then we cannot tell.*
+>
+>
+> *With foes ahead, behind us dread,*
+> *Beneath the sky shall be our bed,*
+> *Until at last our toil be passed,*
+> *Our journey done, our errand sped.*
+>
+>
+> *We must away! We must away!*
+> *We ride before the break of day!*
 
 
 ‘Very good!’ said Frodo. ‘But in that case there are a lot of things 
@@ -7274,9 +7297,9 @@ could be no doubt: someone was singing a song; a deep glad voice
 was singing carelessly and happily, but it was singing nonsense: 
 
 
-Hey dol! merry dol! ring a dong dillo! 
-Ring a dong! hop along! fal lal the willow! 
-Tom Bom, jolly Tom, Tom Bombadillo! 
+> *Hey dol! merry dol! ring a dong dillo!*
+> *Ring a dong! hop along! fal lal the willow!*
+> *Tom Bom, jolly Tom, Tom Bombadillo!*
 
 
 Half hopeful and half afraid of some new danger, Frodo and Sam 
@@ -7285,26 +7308,26 @@ now both stood still. Suddenly out of a long string of nonsense-words
 this song: 
 
 
-Hey! Come merry dol! derry dol! My darling! 
-
-Light goes the weather-wind and the feathered starling. 
-Down along under Hill, shining in the sunlight, 
-Waiting on the doorstep for the cold starlight, 
-
-There my pretty lady is, River-woman’s daughter, 
-Slender as the willow-wand, clearer than the water. 
-Old **Tom Bombadil** water-lilies bringing 
-
-Comes hopping home again. Can you hear him singing? 
-Hey! Come merry dol! derry dol! and merry-o, 
-**Goldberry**, Goldberry, merry yellow berry-o! 
-
-Poor old Willow-man, you tuck your roots away! 
-Tom’s in a hurry now. Evening will follow day. 
-
-Tom’s going home again water-lilies bringing. 
-
-Hey! Come derry dol! Can you hear me singing? 
+> *Hey! Come merry dol! derry dol! My darling!*
+>
+> *Light goes the weather-wind and the feathered starling.*
+> *Down along under Hill, shining in the sunlight,*
+> *Waiting on the doorstep for the cold starlight,*
+>
+> *There my pretty lady is, River-woman’s daughter,*
+> *Slender as the willow-wand, clearer than the water.*
+> *Old **Tom Bombadil** water-lilies bringing*
+>
+> *Comes hopping home again. Can you hear him singing?*
+> *Hey! Come merry dol! derry dol! and merry-o,*
+> ***Goldberry**, Goldberry, merry yellow berry-o!*
+>
+> *Poor old Willow-man, you tuck your roots away!*
+> *Tom’s in a hurry now. Evening will follow day.*
+>
+> *Tom’s going home again water-lilies bringing.*
+>
+> *Hey! Come derry dol! Can you hear me singing?*
 
 
 Frodo and Sam stood as if enchanted. The wind puffed out. The 
@@ -7551,8 +7574,8 @@ now and again they caught, among many a derry dol and a merry dol
 and a ring a ding dillo the repeated words: 
 
 
-Old Tom Bombadil is a merry fellow; 
-Bright blue his jacket 1s, and his boots are yellow. 
+> *Old Tom Bombadil is a merry fellow;*
+> *Bright blue his jacket 1s, and his boots are yellow.*
 
 
 ‘Fair lady!’ said Frodo again after a while. “Tell me, if my asking 
@@ -8425,20 +8448,20 @@ the song became clearer, and with dread in his heart he perceived
 that it had changed into an incantation: 
 
 
-Cold be hand and heart and bone, 
-
-and cold be sleep under stone: 
-
-never more to wake on stony bed, 
-
-never, till the Sun fails and the Moon ts dead. 
-In the black wind the stars shall die, 
-
-and still on gold here let them lie, 
-
-till the dark lord lifts his hand 
-
-over dead sea and withered land. 
+> *Cold be hand and heart and bone,*
+>
+> *and cold be sleep under stone:*
+>
+> *never more to wake on stony bed,*
+>
+> *never, till the Sun fails and the Moon ts dead.*
+> *In the black wind the stars shall die,*
+>
+> *and still on gold here let them lie,*
+>
+> *till the dark lord lifts his hand*
+>
+> *over dead sea and withered land.*
 
 
 He heard behind his head a creaking and scraping sound. Raising 
@@ -8494,12 +8517,12 @@ as if it was coming down through the ground or through thick walls,
 an answering voice singing: 
 
 
-Old Tom Bombadil is a merry fellow, 
-
-Bright blue his jacket 1s, and his boots are ‘yellow. 
-
-None has ever caught him yet, for Tom, he is the master: 
-His songs are stronger songs, and his feet are faster. 
+> *Old Tom Bombadil is a merry fellow,*
+>
+> *Bright blue his jacket 1s, and his boots are ‘yellow.*
+>
+> *None has ever caught him yet, for Tom, he is the master:*
+> *His songs are stronger songs, and his feet are faster.*
 
 
 There was a loud rumbling sound, as of stones rolling and falling, 
@@ -8515,16 +8538,16 @@ Tom stooped, removed his hat, and came into the dark chamber,
 singing: 
 
 
-Get out, you old Wight! Vanish in the sunlight! 
-
-Shrivel like the cold mist, like the winds go wailing, 
-
-Out into the barren lands far beyond the mountains! 
-Come never here again! Leave your barrow empty! 
-
-Lost and forgotten be, darker than the darkness, 
-
-Where gates stand for ever shut, till the world is mended. 
+> *Get out, you old Wight! Vanish in the sunlight!*
+>
+> *Shrivel like the cold mist, like the winds go wailing,*
+>
+> *Out into the barren lands far beyond the mountains!*
+> *Come never here again! Leave your barrow empty!*
+>
+> *Lost and forgotten be, darker than the darkness,*
+>
+> *Where gates stand for ever shut, till the world is mended.*
 
 
 At these words there was a cry and part of the inner end of the 
@@ -9364,45 +9387,45 @@ then. Here it is in full. Only a few words of it are now, as a rule,
 remembered. 
 
 
-There is an inn, a merry old inn 
-beneath an old grey hill, 
-
-And there they brew a beer so brown 
-
-That the Man in the Moon himself came down 
-one night to drink his fill. 
-
-
-The ostler has a tipsy cat 
-that plays a five-stringed fiddle; 
-And up and down he runs his bow, 
-Now squeaking high, now purring low, 
-now sawing in the middle. 
-
-
-The landlord keeps a little dog 
-
-that is mighty fond of jokes; 
-When there’s good cheer among the guests, 
-He cocks an ear at all the jests 
-
-and laughs until he chokes. 
-
-
-They also keep a hornéd cow 
-as proud as any queen; 
-But music turns her head like ale, 
-And makes her wave her tufted tail 
-and dance upon the green. 
-
-
-And O! the rows of silver dishes 
-and the store of silver spoons! 
-For Sunday* there’s a special pair, 
-And these they polish up with care 
-
-on Saturday afternoons. 
-
+> *There is an inn, a merry old inn*
+> *beneath an old grey hill,*
+>
+> *And there they brew a beer so brown*
+>
+> *That the Man in the Moon himself came down*
+> *one night to drink his fill.*
+>
+>
+> *The ostler has a tipsy cat*
+> *that plays a five-stringed fiddle;*
+> *And up and down he runs his bow,*
+> *Now squeaking high, now purring low,*
+> *now sawing in the middle.*
+>
+>
+> *The landlord keeps a little dog*
+>
+> *that is mighty fond of jokes;*
+> *When there’s good cheer among the guests,*
+> *He cocks an ear at all the jests*
+>
+> *and laughs until he chokes.*
+>
+>
+> *They also keep a hornéd cow*
+> *as proud as any queen;*
+> *But music turns her head like ale,*
+> *And makes her wave her tufted tail*
+> *and dance upon the green.*
+>
+>
+> *And O! the rows of silver dishes*
+> *and the store of silver spoons!*
+> *For Sunday* there’s a special pair,*
+> *And these they polish up with care*
+>
+> *on Saturday afternoons.*
+>
 
 * See note 2, III, p.1111 
 
@@ -9410,72 +9433,72 @@ on Saturday afternoons.
 AT THE SIGN OF THE PRANCING PONY 
 
 
-The Man in the Moon was drinking deep, 
-and the cat began to wail; 
-
-A dish and a spoon on the table danced, 
-
-The cow in the garden madly pranced, 
-and the little dog chased his tail. 
-
-
-The Man in the Moon took another mug, 
-and then rolled beneath his chair; 
-And there he dozed and dreamed of ale, 
-Till in the sky the stars were pale, 
-and dawn was in the air. 
-
-
-Then the ostler said to his tipsy cat: 
-‘The white horses of the Moon, 
-
-They neigh and champ their silver bits; 
-
-But their master’s been and drowned his wits, 
-and the Sun’ll be rising soon!’ 
-
-
-So the cat on his fiddle played hey-diddle-diddle, 
-a jig that would wake the dead: 
-
-He squeaked and sawed and quickened the tune, 
-
-While the landlord shook the Man in the Moon: 
-Tt’s after three! he said. 
-
-
-They rolled the Man slowly up the hill 
-and bundled him into the Moon, 
-While his horses galloped up 1n rear, 
-And the cow came capering like a deer, 
-and a dish ran up with the spoon. 
-Now quicker the fiddle went deedle-dum-diddle; 
-the dog began to roar, 
-The cow and the horses stood on their heads; 
-The guests all bounded from their beds 
-and danced upon the floor. 
-
-
-With a ping and a pong the fiddle-strings broke! 
-the cow jumped over the Moon, 
-
-And the little dog laughed to see such fun, 
-
-And the Saturday dish went off at a run 
-with the silver Sunday spoon. 
-
-
-
-
-
-
-The round Moon rolled behind the hill 
-as the Sun ratsed up her head. 
-
-She* hardly believed her fiery eyes; 
-
-For though it was day, to her surprise 
-they all went back to bed! 
+> *The Man in the Moon was drinking deep,*
+> *and the cat began to wail;*
+>
+> *A dish and a spoon on the table danced,*
+>
+> *The cow in the garden madly pranced,*
+> *and the little dog chased his tail.*
+>
+>
+> *The Man in the Moon took another mug,*
+> *and then rolled beneath his chair;*
+> *And there he dozed and dreamed of ale,*
+> *Till in the sky the stars were pale,*
+> *and dawn was in the air.*
+>
+>
+> *Then the ostler said to his tipsy cat:*
+> *‘The white horses of the Moon,*
+>
+> *They neigh and champ their silver bits;*
+>
+> *But their master’s been and drowned his wits,*
+> *and the Sun’ll be rising soon!’*
+>
+>
+> *So the cat on his fiddle played hey-diddle-diddle,*
+> *a jig that would wake the dead:*
+>
+> *He squeaked and sawed and quickened the tune,*
+>
+> *While the landlord shook the Man in the Moon:*
+> *Tt’s after three! he said.*
+>
+>
+> *They rolled the Man slowly up the hill*
+> *and bundled him into the Moon,*
+> *While his horses galloped up 1n rear,*
+> *And the cow came capering like a deer,*
+> *and a dish ran up with the spoon.*
+> *Now quicker the fiddle went deedle-dum-diddle;*
+> *the dog began to roar,*
+> *The cow and the horses stood on their heads;*
+> *The guests all bounded from their beds*
+> *and danced upon the floor.*
+>
+>
+> *With a ping and a pong the fiddle-strings broke!*
+> *the cow jumped over the Moon,*
+>
+> *And the little dog laughed to see such fun,*
+>
+> *And the Saturday dish went off at a run*
+> *with the silver Sunday spoon.*
+>
+>
+>
+>
+>
+>
+> *The round Moon rolled behind the hill*
+> *as the Sun ratsed up her head.*
+>
+> *She* hardly believed her fiery eyes;*
+>
+> *For though it was day, to her surprise*
+> *they all went back to bed!*
 
 
 There was loud and long applause. Frodo had a good voice, and 
@@ -10018,7 +10041,7 @@ tainly to be Gandalf’s. Inside, written in the wizard’s strong but
 graceful script, was the following message: 
 
 
-[[THE PRANCING PONY]], BREE. Midyear’s Day, Shire Year, 1418. 
+[[The Prancing Pony]], BREE. Midyear’s Day, Shire Year, 1418. 
 
 
 Dear Frodo, 
@@ -10874,28 +10897,28 @@ Merry; but Strider did not answer, and seemed to be lost in thought.
 Suddenly a low voice murmured: 
 
 
-Gil-galad was an Elven-king. 
-
-Of him the harpers sadly sing: 
-
-the last whose realm was fair and free 
-between the Mountains and the Sea. 
-
-
-His sword was long, his lance was keen, 
-his shining helm afar was seen; 
-
-the countless stars of heaven’s field 
-
-were mirrored in his silver shield. 
-
-
-But long ago he rode away, 
-
-and where he dwelleth none can say; 
-for into darkness fell his star 
-
-in Mordor where the shadows are. 
+> *Gil-galad was an Elven-king.*
+>
+> *Of him the harpers sadly sing:*
+>
+> *the last whose realm was fair and free*
+> *between the Mountains and the Sea.*
+>
+>
+> *His sword was long, his lance was keen,*
+> *his shining helm afar was seen;*
+>
+> *the countless stars of heaven’s field*
+>
+> *were mirrored in his silver shield.*
+>
+>
+> *But long ago he rode away,*
+>
+> *and where he dwelleth none can say;*
+> *for into darkness fell his star*
+>
+> *in Mordor where the shadows are.*
 
 
 
@@ -13614,16 +13637,16 @@ of regret as they passed out of the Hall of Fire. Even as they stepped
 over the threshold a single clear voice rose in song. 
 
 
-A Elbereth Gilthoniel, 
-silivren penna miriel 
-
-o menel aglar elenath! 
-Na-chaered palan-diriel 
-
-o galadhremmin ennorath, 
-Fanuilos, le linnathon 
-
-nef aear, si nef aearon! 
+> *A Elbereth Gilthoniel,*
+> *silivren penna miriel*
+>
+> *o menel aglar elenath!*
+> *Na-chaered palan-diriel*
+>
+> *o galadhremmin ennorath,*
+> *Fanuilos, le linnathon*
+>
+> *nef aear, si nef aearon!*
 
 
 Frodo halted for a moment, looking back. Elrond was in his chair 
@@ -13675,6 +13698,23 @@ and look at the stars of Elbereth in the garden. Sleep welll’
 ## Book II, Chapter 2: The Council of Elrond
 
 
+
+> [!note] The Council of Elrond
+> Convened at Rivendell on the 25th of October, III 3018, to determine the fate of the One Ring and unite the free peoples of Middle-earth in counsel.
+
+- **[[Elrond]] Half-elven** — Lord of Rivendell, Elf-lord — Master of Imladris and keeper of the ring Vilya; he calls and presides over the Council, bearing millennia of memory of the war against Sauron.
+- **[[Gandalf]] the Grey** — Maia, Istari Wizard — Reveals the full history of the One Ring and the urgency of its destruction; his testimony shapes the Council's ultimate resolve.
+- **[[Frodo]] Baggins** — Hobbit of the Shire, Ring-bearer — Present as the current keeper of the Ring; it is his burden that defines the Council's entire purpose.
+- **[[Bilbo]] Baggins** — Hobbit of the Shire, Ring-finder — Elderly and frail, he recites his verse of Eärendil and offers to take the Ring himself; the one who first took it from Gollum.
+- **[[Aragorn]]** — Dúnedain Ranger, Heir of Isildur — Reveals his true identity and lineage; presents the shards of Narsil, the sword that cut the Ring from Sauron's hand.
+- **[[Legolas]] Greenleaf** — Elf of Mirkwood — Brings news of Gollum's escape from the woodland realm, delivered under the watch of the Wood-elves.
+- **[[Gimli]]** — Dwarf of Erebor — Son of Glóin; attends with his father as a representative of the Dwarves, bearing a proud and suspicious eye toward the Elves.
+- **[[Boromir]]** — Man of Gondor — Arrived after following a prophetic dream to Rivendell; speaks passionately for using the Ring as a weapon against Sauron.
+- **[[Glorfindel]]** — Elf-lord of Rivendell — One of the great lords of the Eldar, present among Elrond's council; he had earlier rescued Frodo at the Ford of Bruinen.
+- **[[Galdor]]** — Elf of the Grey Havens — Messenger from Círdan the Shipwright; brings the perspective and counsel of the Elves of the western shores.
+- **[[Glóin]]** — Dwarf of Erebor — Father of Gimli and veteran of Bilbo's original quest; reports Sauron's messengers came to Erebor seeking news of the Ring and of Bilbo.
+- **[[Erestor]]** — Elf of Rivendell, Chief Counsellor — One of Elrond's most trusted advisors; raises the question of whether the Ring might be sent to Tom Bombadil for safe-keeping.
+- **[[Samwise Gamgee|Sam]] Gamgee** — Hobbit of the Shire — Found hiding behind a bush outside the Council; dragged in by Elrond and permitted to stay, he insists on accompanying Frodo wherever the Quest leads.
 
 Next day **Frodo** woke early, feeling refreshed and well. He walked 
 along the terraces above the loud-flowing Bruinen and watched the 
@@ -15478,6 +15518,19 @@ landed ourselves in, Mr. Frodo!’ he said, shaking his head.
 
 
 
+> [!note] The Fellowship of the Nine Walkers
+> Chosen at the Council of Elrond to accompany the Ring-bearer on the quest to destroy the One Ring in the fires of Mount Doom.
+
+- **[[Frodo]] Baggins** — Hobbit of the Shire, Ring-bearer — Charged with carrying the One Ring to Mordor; the central burden of the Quest falls upon him.
+- **[[Samwise Gamgee|Sam]] Gamgee** — Hobbit of the Shire, Gardener & loyal companion — Frodo's steadfast servant and friend; joined after being caught eavesdropping by Gandalf.
+- **[[Meriadoc Brandybuck|Merry]] Brandybuck** — Hobbit of Buckland — Cousin to Frodo, sharp-witted and stout-hearted; one of the three hobbits who insisted on joining the Quest.
+- **[[Peregrin Took|Pippin]] Took** — Hobbit of the Shire — Youngest of the Fellowship and heir to the Thain; impetuous but brave, he accompanies Frodo out of loyalty and love.
+- **[[Gandalf]] the Grey** — Maia, Istari Wizard — Leader and guide of the Fellowship; ancient and wise, bearing the ring Narya and carrying the burden of coordinating the free peoples' resistance.
+- **[[Aragorn]]** — Dúnedain Ranger, Heir of Isildur — Rightful claimant to the thrones of Gondor and Arnor; walks in disguise as Strider, but carries the reforged sword Andúril.
+- **[[Legolas]] Greenleaf** — Elf of Mirkwood, Prince — Son of King Thranduil; his elvish sight and skill with the bow prove invaluable throughout the journey.
+- **[[Gimli]]** — Dwarf of Erebor, son of Glóin — Representative of the Dwarves at the Council; proud and fierce, his friendship with Legolas becomes one of the Quest's lasting miracles.
+- **[[Boromir]]** — Man of Gondor, son of Denethor II — Captain of the White Tower and heir to the Steward of Gondor; joins seeking aid for his beleaguered city, though the Ring's influence will test him sorely.
+
 Later that day the hobbits held a meeting of their own in **Bilbo**’s 
 room. **Merry** and **Pippin** were indignant when they heard that **Sam** 
 had crept into the Council, and had been chosen as **Frodo**’s com- 
@@ -15736,7 +15789,7 @@ for us an Elf-lord, such as **Glorfindel**, he could not storm the
 Dark Tower, nor open the road to the Fire by the power that is in 
 him.’ 
 
-“You speak gravely,’ said Elrond, ‘but I am in doubt. [[The Shire]], 
+“You speak gravely,’ said Elrond, ‘but I am in doubt. [[the Shire]], 
 I forebode, is not free now from peril; and these two I had thought 
 to send back there as messengers, to do what they could, according 
 to the fashion of their country, to warn the people of their danger. 
@@ -15844,48 +15897,48 @@ to write the second book, if I am spared.’ He broke off and turned
 to the window again, singing softly. 
 
 
-I sit beside the fire and think 
-of all that I have seen, 
-
-of meadow-flowers and butterflies 
-in summers that have been; 
-
-
-Of yellow leaves and gossamer 
-im autumns that there were, 
-with morning mist and silver sun 
-
-and wind upon my hair. 
-
-
-I sit beside the fire and think 
-of how the world will be 
-
-when winter comes without a spring 
-that I shall ever see. 
-
-
-For still there are so many things 
-that I have never seen: 
-
-im every wood in every spring 
-there is a different green. 
-
-
-
-
-I sit beside the fire and think 
-of people long ago, 
-
-and people who will see a world 
-that I shall never know. 
-
-
-But all the while I sit and think 
-of times there were before, 
-
-I listen for returning feet 
-and voices at the door. 
+> *I sit beside the fire and think*
+> *of all that I have seen,*
+>
+> *of meadow-flowers and butterflies*
+> *in summers that have been;*
+>
+>
+> *Of yellow leaves and gossamer*
+> *im autumns that there were,*
+> *with morning mist and silver sun*
+>
+> *and wind upon my hair.*
+>
+>
+> *I sit beside the fire and think*
+> *of how the world will be*
+>
+> *when winter comes without a spring*
+> *that I shall ever see.*
+>
+>
+> *For still there are so many things*
+> *that I have never seen:*
+>
+> *im every wood in every spring*
+> *there is a different green.*
+>
+>
+>
+>
+> *I sit beside the fire and think*
+> *of people long ago,*
+>
+> *and people who will see a world*
+> *that I shall never know.*
+>
+>
+> *But all the while I sit and think*
+> *of times there were before,*
+>
+> *I listen for returning feet*
+> *and voices at the door.*
 
 
 It was a cold grey day near the end of December. The East Wind 
@@ -17890,89 +17943,89 @@ He rose and standing in the dark he began to chant in a deep
 voice, while the echoes ran away into the roof. 
 
 
-The world was young, the mountains green, 
-No stain yet on the Moon was seen, 
-
-No words were laid on stream or stone 
-When Durin woke and walked alone. 
-
-
-
+> *The world was young, the mountains green,*
+> *No stain yet on the Moon was seen,*
+>
+> *No words were laid on stream or stone*
+> *When Durin woke and walked alone.*
+>
+>
+>
 
 THE LORD OF THE RINGS 
 
 
-He named the nameless hills and dells; 
-He drank from yet untasted wells; 
-
-He stooped and looked in Mirrormere, 
-And saw a crown of stars appear, 
-
-As gems upon a silver thread, 
-
-Above the shadow of his head. 
-
-
-The world was fair, the mountains tall, 
-In Elder Days before the fall 
-
-Of mighty kings in Nargothrond 
-
-And Gondolin, who now beyond 
-
-The Western Seas have passed away: 
-The world was fair in Durin’s Day. 
-
-
-A king he was on carven throne 
-
-In many-pillared halls of stone 
-
-With golden roof and silver floor, 
-And runes of power upon the door. 
-The light of sun and star and moon 
-In shining lamps of crystal hewn 
-Undimmed by cloud or shade of night 
-There shone for ever fair and bright. 
-
-
-There hammer on the anvil smote, 
-There chisel clove, and graver wrote; 
-
-
-There forged was blade, and bound was hilt; 
-
-
-The delver mined, the mason built. 
-There beryl, pearl, and opal pale, 
-And metal wrought like fishes’ mail, 
-Buckler and corslet, axe and sword, 
-And shining spears were laid in hoard. 
-
-
-Unwearied then were Durin’s folk; 
-Beneath the mountains music woke: 
-The harpers harped, the minstrels sang, 
-And at the gates the trumpets rang. 
-
-
-The world is grey, the mountains old, 
-The forge’s fire is ashen-cold; 
-
-No harp ts wrung, no hammer falls: 
-The darkness dwells in Durin’s halls; 
-The shadow hes upon his tomb 
-
-In Moria, in Khazad-dim. 
-
-
-
-
-But still the sunken stars appear 
-
-In dark and windless Mirrormere; 
-There lies his crown in water deep, 
-Till Durin wakes again from sleep. 
+> *He named the nameless hills and dells;*
+> *He drank from yet untasted wells;*
+>
+> *He stooped and looked in Mirrormere,*
+> *And saw a crown of stars appear,*
+>
+> *As gems upon a silver thread,*
+>
+> *Above the shadow of his head.*
+>
+>
+> *The world was fair, the mountains tall,*
+> *In Elder Days before the fall*
+>
+> *Of mighty kings in Nargothrond*
+>
+> *And Gondolin, who now beyond*
+>
+> *The Western Seas have passed away:*
+> *The world was fair in Durin’s Day.*
+>
+>
+> *A king he was on carven throne*
+>
+> *In many-pillared halls of stone*
+>
+> *With golden roof and silver floor,*
+> *And runes of power upon the door.*
+> *The light of sun and star and moon*
+> *In shining lamps of crystal hewn*
+> *Undimmed by cloud or shade of night*
+> *There shone for ever fair and bright.*
+>
+>
+> *There hammer on the anvil smote,*
+> *There chisel clove, and graver wrote;*
+>
+>
+> *There forged was blade, and bound was hilt;*
+>
+>
+> *The delver mined, the mason built.*
+> *There beryl, pearl, and opal pale,*
+> *And metal wrought like fishes’ mail,*
+> *Buckler and corslet, axe and sword,*
+> *And shining spears were laid in hoard.*
+>
+>
+> *Unwearied then were Durin’s folk;*
+> *Beneath the mountains music woke:*
+> *The harpers harped, the minstrels sang,*
+> *And at the gates the trumpets rang.*
+>
+>
+> *The world is grey, the mountains old,*
+> *The forge’s fire is ashen-cold;*
+>
+> *No harp ts wrung, no hammer falls:*
+> *The darkness dwells in Durin’s halls;*
+> *The shadow hes upon his tomb*
+>
+> *In Moria, in Khazad-dim.*
+>
+>
+>
+>
+> *But still the sunken stars appear*
+>
+> *In dark and windless Mirrormere;*
+> *There lies his crown in water deep,*
+> *Till Durin wakes again from sleep.*
 
 
 ‘I like that!’ said Sam. ‘I should like to learn it. In Moria, in 
@@ -19143,102 +19196,102 @@ in [[Rivendell]] now sing it.’ In a soft voice hardly to be heard amid the
 rustle of the leaves above them he began: 
 
 
-An Elven-maid there was of old, 
-A shining star by day: 
-
-Her mantle white was hemmed with gold, 
-Her shoes of silver-grey. 
-
-
-A star was bound upon her brows, 
-A light was on her hair 
-
-As sun upon the golden boughs 
-In Lorien the fair. 
-
-
-Her hair was long, her limbs were white, 
-And fair she was and free; 
-
-And in the wind she went as light 
-As leaf of linden-tree. 
-
-
-
-
-THE LORD OF THE RINGS 
-
-
-Beside the falls of Nimrodel, 
-By water clear and cool, 
-Her voice as falling silver fell 
-
-Into the shining pool. 
-
-
-Where now she wanders none can tell, 
-In sunlight or in shade; 
-
-For lost of yore was Nimrodel 
-And in the mountains strayed. 
-
-
-The elven-ship in haven grey 
-Beneath the mountain-lee 
-
-Awaited her for many a day 
-Beside the roaring sea. 
-
-
-A wind by night in Northern lands 
-Arose, and loud it cried, 
-
-And drove the ship from elven-strands 
-Across the streaming tide. 
-
-
-When dawn came dim the land was lost, 
-The mountains sinking grey 
-
-Beyond the heaving waves that tossed 
-Their plumes of blinding spray. 
-
-
-Amroth beheld the fading shore 
-Now low beyond the swell, 
-
-And cursed the faithless ship that bore 
-Him far from Nimrodel. 
-
-
-Of old he was an Elven-king, 
-A lord of tree and glen, 
-
-When golden were the boughs in spring 
-In fair Lothlorien. 
-
-
-From helm to sea they saw him leap, 
-As arrow from the string, 
-
-And dive into the water deep, 
-As mew upon the wing. 
-
-
-The wind was in his flowing hair, 
-The foam about him shone; 
-Afar they saw him strong and fair 
-
-Go riding like a swan. 
-
-
-
-
-But from the West has come no word, 
-And on the Hither Shore 
-
-No tidings Elven-folk have heard 
-Of Amroth evermore. 
+> *An Elven-maid there was of old,*
+> *A shining star by day:*
+>
+> *Her mantle white was hemmed with gold,*
+> *Her shoes of silver-grey.*
+>
+>
+> *A star was bound upon her brows,*
+> *A light was on her hair*
+>
+> *As sun upon the golden boughs*
+> *In Lorien the fair.*
+>
+>
+> *Her hair was long, her limbs were white,*
+> *And fair she was and free;*
+>
+> *And in the wind she went as light*
+> *As leaf of linden-tree.*
+>
+>
+>
+>
+> *THE LORD OF THE RINGS*
+>
+>
+> *Beside the falls of Nimrodel,*
+> *By water clear and cool,*
+> *Her voice as falling silver fell*
+>
+> *Into the shining pool.*
+>
+>
+> *Where now she wanders none can tell,*
+> *In sunlight or in shade;*
+>
+> *For lost of yore was Nimrodel*
+> *And in the mountains strayed.*
+>
+>
+> *The elven-ship in haven grey*
+> *Beneath the mountain-lee*
+>
+> *Awaited her for many a day*
+> *Beside the roaring sea.*
+>
+>
+> *A wind by night in Northern lands*
+> *Arose, and loud it cried,*
+>
+> *And drove the ship from elven-strands*
+> *Across the streaming tide.*
+>
+>
+> *When dawn came dim the land was lost,*
+> *The mountains sinking grey*
+>
+> *Beyond the heaving waves that tossed*
+> *Their plumes of blinding spray.*
+>
+>
+> *Amroth beheld the fading shore*
+> *Now low beyond the swell,*
+>
+> *And cursed the faithless ship that bore*
+> *Him far from Nimrodel.*
+>
+>
+> *Of old he was an Elven-king,*
+> *A lord of tree and glen,*
+>
+> *When golden were the boughs in spring*
+> *In fair Lothlorien.*
+>
+>
+> *From helm to sea they saw him leap,*
+> *As arrow from the string,*
+>
+> *And dive into the water deep,*
+> *As mew upon the wing.*
+>
+>
+> *The wind was in his flowing hair,*
+> *The foam about him shone;*
+> *Afar they saw him strong and fair*
+>
+> *Go riding like a swan.*
+>
+>
+>
+>
+> *But from the West has come no word,*
+> *And on the Hither Shore*
+>
+> *No tidings Elven-folk have heard*
+> *Of Amroth evermore.*
 
 
 The voice of Legolas faltered, and the song ceased. ‘I cannot sing 
@@ -20253,45 +20306,45 @@ to him; yet when he tried to repeat it to Sam only snatches remained,
 faded as a handful of withered leaves. 
 
 
-When evening in the Shire was grey 
-his footsteps on the Hill were heard; 
-before the dawn he went away 
-
-on journey long without a word. 
-
-
-From Wilderland to Western shore, 
-from northern waste to southern hill, 
-through dragon-lair and hidden door 
-and darkling woods he walked at will. 
-
-
-With Dwarf and Hobbit, Elves and Men, 
-with mortal and immortal folk, 
-
-with bird on bough and beast in den, 
-
-in their own secret tongues he spoke. 
-
-
-
-
-A deadly sword, a healing hand, 
-a back that bent beneath its load; 
-a trumpet-voice, a burning brand, 
-a weary pilgrim on the road. 
-
-
-A lord of wisdom throned he sat, 
-swift in anger, quick to laugh; 
-an old man in a battered hat 
-who leaned upon a thorny staff. 
-
-
-He stood upon the bridge alone 
-and Fire and Shadow both defied; 
-his staff was broken on the stone, 
-in Khazad-diim his wisdom died. 
+> *When evening in the Shire was grey*
+> *his footsteps on the Hill were heard;*
+> *before the dawn he went away*
+>
+> *on journey long without a word.*
+>
+>
+> *From Wilderland to Western shore,*
+> *from northern waste to southern hill,*
+> *through dragon-lair and hidden door*
+> *and darkling woods he walked at will.*
+>
+>
+> *With Dwarf and Hobbit, Elves and Men,*
+> *with mortal and immortal folk,*
+>
+> *with bird on bough and beast in den,*
+>
+> *in their own secret tongues he spoke.*
+>
+>
+>
+>
+> *A deadly sword, a healing hand,*
+> *a back that bent beneath its load;*
+> *a trumpet-voice, a burning brand,*
+> *a weary pilgrim on the road.*
+>
+>
+> *A lord of wisdom throned he sat,*
+> *swift in anger, quick to laugh;*
+> *an old man in a battered hat*
+> *who leaned upon a thorny staff.*
+>
+>
+> *He stood upon the bridge alone*
+> *and Fire and Shadow both defied;*
+> *his staff was broken on the stone,*
+> *in Khazad-diim his wisdom died.*
 
 
 ‘Why, you'll be beating Mr. **Bilbo** next!’ said Sam. 
@@ -20303,11 +20356,11 @@ yet.’
 word about his fireworks,’ said Sam. ‘Something like this: 
 
 
-The finest rockets ever seen: 
-
-they burst in stars of blue and green, 
-or after thunder golden showers 
-came falling like a rain of flowers. 
+> *The finest rockets ever seen:*
+>
+> *they burst in stars of blue and green,*
+> *or after thunder golden showers*
+> *came falling like a rain of flowers.*
 
 
 Though that doesn’t do them justice by a long road.’ 
@@ -20985,36 +21038,36 @@ hand she held a harp, and she sang. Sad and sweet was the sound
 of her voice in the cool clear air: 
 
 
-I sang of leaves, of leaves of gold, and leaves of gold there grew: 
-
-Of wind I sang, a wind there came and in the branches blew. 
-
-Beyond the Sun, beyond the Moon, the foam was on the Sea, 
-
-And by the strand of Ilmarin there grew a golden Tree. 
-
-Beneath the stars of Ever-eve in Eldamar it shone, 
-
-In Eldamar beside the walls of Elven Tirion. 
-
-There long the golden leaves have grown upon the branching 
-years, 
-
-While here beyond the Sundering Seas now fall the Elven-tears. 
-
-
-
-
-O Lorien! The Winter comes, the bare and leafless Day; 
-
-The leaves are falling in the stream, the River flows away. 
-
-O Lorien! Too long I have dwelt upon this Hither Shore 
-
-And in a fading crown have twined the golden elanor. 
-
-But tf of ships I now should sing, what ship would come to me, 
-What ship would bear me ever back across so wide a Sea? 
+> *I sang of leaves, of leaves of gold, and leaves of gold there grew:*
+>
+> *Of wind I sang, a wind there came and in the branches blew.*
+>
+> *Beyond the Sun, beyond the Moon, the foam was on the Sea,*
+>
+> *And by the strand of Ilmarin there grew a golden Tree.*
+>
+> *Beneath the stars of Ever-eve in Eldamar it shone,*
+>
+> *In Eldamar beside the walls of Elven Tirion.*
+>
+> *There long the golden leaves have grown upon the branching*
+> *years,*
+>
+> *While here beyond the Sundering Seas now fall the Elven-tears.*
+>
+>
+>
+>
+> *O Lorien! The Winter comes, the bare and leafless Day;*
+>
+> *The leaves are falling in the stream, the River flows away.*
+>
+> *O Lorien! Too long I have dwelt upon this Hither Shore*
+>
+> *And in a fading crown have twined the golden elanor.*
+>
+> *But tf of ships I now should sing, what ship would come to me,*
+> *What ship would bear me ever back across so wide a Sea?*
 
 
 Aragorn stayed his boat as the Swan-ship drew alongside. The 
@@ -23182,57 +23235,57 @@ But you came not from the empty lands where no men are.’
 Then Legolas sang: 
 
 
-From the mouths of the Sea the South Wind flies, from the 
-sandhills and the stones; 
-The wailing of the gulls it bears, and at the gate it moans. 
-
-
-
-
-‘What news from the South, O sighing wind, do you bring to me 
-at eve? 
-
-Where now ts Boromir the Fair? He tarries and I grieve.’ 
-
-‘Ask not of me where he doth dwell — so many bones there lie 
-
-On the white shores and the dark shores under the stormy sky; 
-
-So many have passed down Anduin to find the flowing Sea. 
-
-Ask of the North Wind news of them the North Wind sends to 
-me!” 
-
-‘O Boromir! Beyond the gate the seaward road runs south, 
-
-But you came not with the wailing gulls from the grey sea’s 
-mouth. * 
+> *From the mouths of the Sea the South Wind flies, from the*
+> *sandhills and the stones;*
+> *The wailing of the gulls it bears, and at the gate it moans.*
+>
+>
+>
+>
+> *‘What news from the South, O sighing wind, do you bring to me*
+> *at eve?*
+>
+> *Where now ts Boromir the Fair? He tarries and I grieve.’*
+>
+> *‘Ask not of me where he doth dwell — so many bones there lie*
+>
+> *On the white shores and the dark shores under the stormy sky;*
+>
+> *So many have passed down Anduin to find the flowing Sea.*
+>
+> *Ask of the North Wind news of them the North Wind sends to*
+> *me!”*
+>
+> *‘O Boromir! Beyond the gate the seaward road runs south,*
+>
+> *But you came not with the wailing gulls from the grey sea’s*
+> *mouth. **
 
 
 Then Aragorn sang again: 
 
 
-From the Gate of Kings the North Wind rides, and past the 
-roaring falls; 
-
-And clear and cold about the tower its loud horn calls. 
-
-‘What news from the North, O mighty wind, do you bring to me 
-today? 
-
-What news of Boromir the Bold? For he 1s long away.’ 
-
-‘Beneath [[Amon Hen]] I heard his cry. There many foes he fought. 
-
-His cloven shield, his broken sword, they to the water brought. 
-
-His head so proud, his face so fair, his limbs they laid to rest; 
-
-And Rauros, golden Rauros-falls, bore him upon its breast.’ 
-
-‘O Boromir! The Tower of Guard shall ever northward gaze 
-
-To Rauros, golden Rauros-falls, until the end of days.’ 
+> *From the Gate of Kings the North Wind rides, and past the*
+> *roaring falls;*
+>
+> *And clear and cold about the tower its loud horn calls.*
+>
+> *‘What news from the North, O mighty wind, do you bring to me*
+> *today?*
+>
+> *What news of Boromir the Bold? For he 1s long away.’*
+>
+> *‘Beneath [[Amon Hen]] I heard his cry. There many foes he fought.*
+>
+> *His cloven shield, his broken sword, they to the water brought.*
+>
+> *His head so proud, his face so fair, his limbs they laid to rest;*
+>
+> *And Rauros, golden Rauros-falls, bore him upon its breast.’*
+>
+> *‘O Boromir! The Tower of Guard shall ever northward gaze*
+>
+> *To Rauros, golden Rauros-falls, until the end of days.’*
 
 
 So they ended. Then they turned their boat and drove it with all 
@@ -25774,29 +25827,25 @@ a long, long time ago, and they may have made new lists. Let me
 see! Let me see! How did it go? 
 
 
-Learn now the lore of Living Creatures! 
-First name the four, the free peoples: 
-Eldest of all, the elf-children; 
-
-Dwarf the delver, dark are his houses; 
-Ent the earthborn, old as mountains; 
-Man the mortal, master of horses: 
-
-
-Hm, hm, hm. 
-
-
-Beaver the builder, buck the leaper, 
-Bear bee-hunter, boar the fighter; 
-Hound ts hungry, hare is fearful... 
-
-
-hm, hm. 
-
-
-Eagle in eyrie, ox in pasture, 
-Hart horn-crownéd; hawk 1s swiftest, 
-Swan the whitest, serpent coldest... 
+> *Learn now the lore of Living Creatures!*
+> *First name the four, the free peoples:*
+> *Eldest of all, the elf-children;*
+>
+> *Dwarf the delver, dark are his houses;*
+> *Ent the earthborn, old as mountains;*
+> *Man the mortal, master of horses:*
+>
+> *Hm, hm, hm.*
+>
+> *Beaver the builder, buck the leaper,*
+> *Bear bee-hunter, boar the fighter;*
+> *Hound ts hungry, hare is fearful...*
+>
+> *hm, hm.*
+>
+> *Eagle in eyrie, ox in pasture,*
+> *Hart horn-crownéd; hawk 1s swiftest,*
+> *Swan the whitest, serpent coldest...*
 
 
 Hoom, hm; hoom, hm, how did it go? Room tum, room tum, roomty 
@@ -25813,7 +25862,7 @@ We’re hobbits.’
 ‘Why not make a new line?’ said Pippin. 
 
 
-‘Half-grown hobbits, the hole-dwellers. 
+> *‘Half-grown hobbits, the hole-dwellers.*
 
 
 Put us in amongst the four, next to Man (the Big People) and you’ve 
@@ -26051,45 +26100,45 @@ murmuring chant. Gradually the hobbits became aware that he was
 chanting to them: 
 
 
-In the willow-meads of Tasarinan I walked in the Spring. 
-
-Ah! the sight and the smell of the Spring in Nan-tasarion! 
-
-And I said that was good. 
-
-I wandered in Summer in the elm-woods of Ossiriand. 
-
-Ah! the light and the music in the Summer by the Seven Rivers of 
-Ossir! 
-
-And I thought that was best. 
-
-To the beeches of Neldoreth I came in the Autumn. 
-
-Ah! the gold and the red and the sighing of leaves in the Autumn 
-in Taur-na-neldor! 
-
-It was more than my desire. 
-
-To the pine-trees upon the highland of Dorthonion I climbed in the 
-Winter. 
-
-Ah! the wind and the whiteness and the black branches of Winter 
-upon Orod-na-Thon! 
-
-My voice went up and sang in the sky. 
-
-And now all those lands lie under the wave, 
-
-And I walk in Ambaroéna, in Tauremorna, in Aldalémé, 
-
-In my own land, in the country of Fangorn, 
-
-Where the roots are long, 
-
-And the years lie thicker than the leaves 
-
-In Tauremornalomé. 
+> *In the willow-meads of Tasarinan I walked in the Spring.*
+>
+> *Ah! the sight and the smell of the Spring in Nan-tasarion!*
+>
+> *And I said that was good.*
+>
+> *I wandered in Summer in the elm-woods of Ossiriand.*
+>
+> *Ah! the light and the music in the Summer by the Seven Rivers of*
+> *Ossir!*
+>
+> *And I thought that was best.*
+>
+> *To the beeches of Neldoreth I came in the Autumn.*
+>
+> *Ah! the gold and the red and the sighing of leaves in the Autumn*
+> *in Taur-na-neldor!*
+>
+> *It was more than my desire.*
+>
+> *To the pine-trees upon the highland of Dorthonion I climbed in the*
+> *Winter.*
+>
+> *Ah! the wind and the whiteness and the black branches of Winter*
+> *upon Orod-na-Thon!*
+>
+> *My voice went up and sang in the sky.*
+>
+> *And now all those lands lie under the wave,*
+>
+> *And I walk in Ambaroéna, in Tauremorna, in Aldalémé,*
+>
+> *In my own land, in the country of Fangorn,*
+>
+> *Where the roots are long,*
+>
+> *And the years lie thicker than the leaves*
+>
+> *In Tauremornalomé.*
 
 
 He ended, and strode on silently, and in all the wood, as far as ear 
@@ -26525,67 +26574,67 @@ ENTWIFE.
 BOTH. 
 
 
-When Spring unfolds the beechen leaf, and sap ts in the bough; 
-
-When light is on the wild-wood stream, and wind ts on the 
-brow; 
-
-When stride 1s long, and breath is deep, and keen the 
-mountain-air, 
-
-Come back to me! Come back to me, and say my land ts fair! 
-
-When Spring is come to garth and field, and corn is in the 
-blade; 
-
-When blossom like a shining snow ts on the orchard laid; 
-
-When shower and Sun upon the Earth with fragrance fill the 
-air, 
-
-Tl linger here, and will not come, because my land ts fair. 
-
-When Summer lies upon the world, and in a noon of gold 
-
-Beneath the roof of sleeping leaves the dreams of trees unfold; 
-
-When woodland halls are green and cool, and wind ts in the 
-West, 
-
-Come back to me! Come back to me, and say my land ts best! 
-
-When Summer warms the hanging fruit and burns the berry 
-brown; 
-
-When straw 1s gold, and ear is white, and harvest comes to 
-town; 
-
-When honey spills, and apple swells, though wind be in the 
-West, 
-
-Til linger here beneath the Sun, because my land 1s best! 
-
-When Winter comes, the winter wild that hill and wood shall 
-slay; 
-
-When trees shall fall and starless night devour the sunless day; 
-
-When wind 1s in the deadly East, then in the bitter rain 
-
-Pll look for thee, and call to thee; I'll come to thee again! 
-
-When Winter comes, and singing ends; when darkness falls at 
-last; 
-
-When broken 1s the barren bough, and light and labour past; 
-
-Ill look for thee, and wait for thee, until we meet again: 
-
-Together we will take the road beneath the bitter rain! 
-
-Together we will take the road that leads into the West, 
-
-And far away will find a land where both our hearts may rest.’ 
+> *When Spring unfolds the beechen leaf, and sap ts in the bough;*
+>
+> *When light is on the wild-wood stream, and wind ts on the*
+> *brow;*
+>
+> *When stride 1s long, and breath is deep, and keen the*
+> *mountain-air,*
+>
+> *Come back to me! Come back to me, and say my land ts fair!*
+>
+> *When Spring is come to garth and field, and corn is in the*
+> *blade;*
+>
+> *When blossom like a shining snow ts on the orchard laid;*
+>
+> *When shower and Sun upon the Earth with fragrance fill the*
+> *air,*
+>
+> *Tl linger here, and will not come, because my land ts fair.*
+>
+> *When Summer lies upon the world, and in a noon of gold*
+>
+> *Beneath the roof of sleeping leaves the dreams of trees unfold;*
+>
+> *When woodland halls are green and cool, and wind ts in the*
+> *West,*
+>
+> *Come back to me! Come back to me, and say my land ts best!*
+>
+> *When Summer warms the hanging fruit and burns the berry*
+> *brown;*
+>
+> *When straw 1s gold, and ear is white, and harvest comes to*
+> *town;*
+>
+> *When honey spills, and apple swells, though wind be in the*
+> *West,*
+>
+> *Til linger here beneath the Sun, because my land 1s best!*
+>
+> *When Winter comes, the winter wild that hill and wood shall*
+> *slay;*
+>
+> *When trees shall fall and starless night devour the sunless day;*
+>
+> *When wind 1s in the deadly East, then in the bitter rain*
+>
+> *Pll look for thee, and call to thee; I'll come to thee again!*
+>
+> *When Winter comes, and singing ends; when darkness falls at*
+> *last;*
+>
+> *When broken 1s the barren bough, and light and labour past;*
+>
+> *Ill look for thee, and wait for thee, until we meet again:*
+>
+> *Together we will take the road beneath the bitter rain!*
+>
+> *Together we will take the road that leads into the West,*
+>
+> *And far away will find a land where both our hearts may rest.’*
 
 
 
@@ -26899,22 +26948,22 @@ them by their long names, but they did not quiver, they did not hear
 or answer: they lay dead. 
 
 
-O Orofarné, Lassemista, Carnimirié! 
-
-O rowan fair, upon your hair how white the blossom lay! 
-
-O rowan mine, I saw you shine upon a summer’s day, 
-
-Your rind so bright, your leaves so light, your voice so cool and soft: 
-
-
-
-
-Upon your head how golden-red the crown you bore aloft! 
-
-O rowan dead, upon your head your hair is dry and grey; 
-Your crown 1s spilled, your voice is stilled for ever and a day. 
-O Orofarné, Lassemista, Carniminé! 
+> *O Orofarné, Lassemista, Carnimirié!*
+>
+> *O rowan fair, upon your hair how white the blossom lay!*
+>
+> *O rowan mine, I saw you shine upon a summer’s day,*
+>
+> *Your rind so bright, your leaves so light, your voice so cool and soft:*
+>
+>
+>
+>
+> *Upon your head how golden-red the crown you bore aloft!*
+>
+> *O rowan dead, upon your head your hair is dry and grey;*
+> *Your crown 1s spilled, your voice is stilled for ever and a day.*
+> *O Orofarné, Lassemista, Carniminé!*
 
 
 The hobbits fell asleep to the sound of the soft singing of Bregalad, 
@@ -26952,9 +27001,9 @@ and above the rolling beats and booms there welled voices singing
 high and strong. 
 
 
-We come, we come with roll of drum: ta-runda runda runda rom! 
-The Ents were coming: ever nearer and louder rose their song: 
-We come, we come with horn and drum: ta-riina rina rina rom! 
+> *We come, we come with roll of drum: ta-runda runda runda rom!*
+> *The Ents were coming: ever nearer and louder rose their song:*
+> *We come, we come with horn and drum: ta-riina rina rina rom!*
 
 
 Bregalad picked up the hobbits and strode from his house. 
@@ -26979,17 +27028,17 @@ called Treebeard when he caught sight of Bregalad and the hobbits.
 “To Isengard!’ 
 
 
-To Isengard! Though Isengard be ringed and barred with doors of 
-stone; 
-Though Isengard be strong and hard, as cold as stone and bare as 
-bone, 
-We go, we go, we go to war, to hew the stone and break the door; 
-For bole and bough are burning now, the furnace roars — we go to 
-war! 
-To land of gloom with tramp of doom, with roll of drum, we 
-come, we come; 
-To Isengard with doom we come! 
-With doom we come, with doom we come! 
+> *To Isengard! Though Isengard be ringed and barred with doors of*
+> *stone;*
+> *Though Isengard be strong and hard, as cold as stone and bare as*
+> *bone,*
+> *We go, we go, we go to war, to hew the stone and break the door;*
+> *For bole and bough are burning now, the furnace roars — we go to*
+> *war!*
+> *To land of gloom with tramp of doom, with roll of drum, we*
+> *come, we come;*
+> *To Isengard with doom we come!*
+> *With doom we come, with doom we come!*
 
 
 So they sang as they marched southwards. 
@@ -27961,26 +28010,26 @@ and messages I bring to some of you. To Aragorn I was bidden to
 say this: 
 
 
-Where now are the Dunedain, Elessar, Elessar? 
-Why do thy kinsfolk wander afar? 
-
-Near ts the hour when the Lost should come forth, 
-And the Grey Company ride from the North. 
-
-But dark is the path appointed for thee: 
-
-The Dead watch the road that leads to the Sea. 
+> *Where now are the Dunedain, Elessar, Elessar?*
+> *Why do thy kinsfolk wander afar?*
+>
+> *Near ts the hour when the Lost should come forth,*
+> *And the Grey Company ride from the North.*
+>
+> *But dark is the path appointed for thee:*
+>
+> *The Dead watch the road that leads to the Sea.*
 
 
 To Legolas she sent this word: 
 
 
-Legolas Greenleaf long under tree 
-
-In joy thou hast lived. Beware of the Sea! 
-
-If thou hearest the cry of the gull on the shore, 
-Thy heart shall then rest in the forest no more.’ 
+> *Legolas Greenleaf long under tree*
+>
+> *In joy thou hast lived. Beware of the Sea!*
+>
+> *If thou hearest the cry of the gull on the shore,*
+> *Thy heart shall then rest in the forest no more.’*
 
 
 Gandalf fell silent and shut his eyes. 
@@ -28240,23 +28289,23 @@ it is laden with the sadness of Mortal Men.’
 can make it. 
 
 
-Where now the horse and the rider? Where 1s the horn that was 
-blowing? 
-
-Where 1s the helm and the hauberk, and the bright hair flowing? 
-
-Where 1s the hand on the harpstring, and the red fire glowing? 
-
-Where 1s the spring and the harvest and the tall corn growing? 
-
-They have passed like rain on the mountain, like a wind in the 
-meadow; 
-
-The days have gone down 1n the West behind the hills into shadow. 
-
-Who shall gather the smoke of the dead wood burning, 
-
-Or behold the flowing years from the Sea returning? 
+> *Where now the horse and the rider? Where 1s the horn that was*
+> *blowing?*
+>
+> *Where 1s the helm and the hauberk, and the bright hair flowing?*
+>
+> *Where 1s the hand on the harpstring, and the red fire glowing?*
+>
+> *Where 1s the spring and the harvest and the tall corn growing?*
+>
+> *They have passed like rain on the mountain, like a wind in the*
+> *meadow;*
+>
+> *The days have gone down 1n the West behind the hills into shadow.*
+>
+> *Who shall gather the smoke of the dead wood burning,*
+>
+> *Or behold the flowing years from the Sea returning?*
 
 
 Thus spoke a forgotten poet long ago in Rohan, recalling how tall 
@@ -28581,20 +28630,20 @@ Gimli strode a pace forward, but felt suddenly the hand of Gandalf
 clutch him by the shoulder, and he halted, standing stiff as stone. 
 
 
-In Dwimordene, in Lorien 
-
-Seldom have walked the feet of Men, 
-Few mortal eyes have seen the light 
-That lies there ever, long and bright. 
-**Galadriel**! Galadriel! 
-
-Clear is the water of your well; 
-
-White 1s the star in your white hand; 
-Unmarred, unstained ts leaf and land 
-In Dwimordene, in Lorien 
-
-More fair than thoughts of Mortal Men. 
+> *In Dwimordene, in Lorien*
+>
+> *Seldom have walked the feet of Men,*
+> *Few mortal eyes have seen the light*
+> *That lies there ever, long and bright.*
+> ***Galadriel**! Galadriel!*
+>
+> *Clear is the water of your well;*
+>
+> *White 1s the star in your white hand;*
+> *Unmarred, unstained ts leaf and land*
+> *In Dwimordene, in Lorien*
+>
+> *More fair than thoughts of Mortal Men.*
 
 
 Thus Gandalf softly sang, and then suddenly he changed. Casting 
@@ -28794,12 +28843,12 @@ and whistling in the air. Then he gave a great cry. His voice rang
 clear as he chanted in the tongue of Rohan a call to arms. 
 
 
-Arise now, arise, Riders of Théoden! 
-
-Dire deeds awake, dark 1s it eastward. 
-
-Let horse be bridled, horn be sounded! 
-Forth Eorlingas! 
+> *Arise now, arise, Riders of Théoden!*
+>
+> *Dire deeds awake, dark 1s it eastward.*
+>
+> *Let horse be bridled, horn be sounded!*
+> *Forth Eorlingas!*
 
 
 The guards, thinking that they were summoned, sprang up the 
@@ -35216,7 +35265,7 @@ maggot-holes; there a host of orcs lurked, ready at a signal to issue
 forth like black ants going to war. None could pass the Teeth of 
 Mordor and not feel their bite, unless they were summoned by 
 Sauron, or knew the secret passwords that would open the Moran- 
-non, [[the black gate]] of his land. 
+non, [[the Black Gate]] of his land. 
 
 The two hobbits gazed at the towers and the wall in despair. Even 
 from a distance they could see in the dim light the movement of the 
@@ -35746,37 +35795,37 @@ Sam stood up, putting his hands behind his back (as he always
 did when ‘speaking poetry’), and began: 
 
 
-Grey as a mouse, 
-
-Big as a house, 
-
-Nose like a snake, 
-
-I make the earth shake, 
-As I tramp through the grass; 
-Trees crack as I pass. 
-With horns in my mouth 
-I walk in the South, 
-Flapping big ears. 
-Beyond count of years 
-
-I stump round and round, 
-Never lie on the ground, 
-Not even to die. 
-Oliphaunt am I, 
-
-Biggest of all, 
-
-Huge, old, and tall. 
-
-If ever you’d met me 
-
-You wouldn’t forget me. 
-If you never do, 
-
-You won't think I’m true; 
-But old Oliphaunt am I, 
-And I never lie. 
+> *Grey as a mouse,*
+>
+> *Big as a house,*
+>
+> *Nose like a snake,*
+>
+> *I make the earth shake,*
+> *As I tramp through the grass;*
+> *Trees crack as I pass.*
+> *With horns in my mouth*
+> *I walk in the South,*
+> *Flapping big ears.*
+> *Beyond count of years*
+>
+> *I stump round and round,*
+> *Never lie on the ground,*
+> *Not even to die.*
+> *Oliphaunt am I,*
+>
+> *Biggest of all,*
+>
+> *Huge, old, and tall.*
+>
+> *If ever you’d met me*
+>
+> *You wouldn’t forget me.*
+> *If you never do,*
+>
+> *You won't think I’m true;*
+> *But old Oliphaunt am I,*
+> *And I never lie.*
 
 
 
@@ -40201,10 +40250,10 @@ And then his tongue was loosed and his voice cried in a language
 which he did not know: 
 
 
-A Elbereth Gilthoniel 
-o menel palan-diriel, 
-le nallon si di’nguruthos! 
-A tiro nin, Fanuilos! 
+> *A Elbereth Gilthoniel*
+> *o menel palan-diriel,*
+> *le nallon si di’nguruthos!*
+> *A tiro nin, Fanuilos!*
 
 
 
@@ -44046,35 +44095,35 @@ East began with which the songs of Rohan were busy for many long
 lives of men thereafter. 
 
 
-From dark Dunharrow in the dim morning 
-with thane and captain rode Thengel’s son: 
-to Edoras he came, the ancient halls 
-
-of the Mark-wardens mist-enshrouded; 
-golden timbers were in gloom mantled. 
-Farewell he bade to his free people, 
-
-hearth and high-seat, and the hallowed places, 
-where long he had feasted ere the light faded. 
-Forth rode the king, fear behind him, 
-
-fate before him. Fealty kept he; 
-
-oaths he had taken, all fulfilled them. 
-
-Forth rode Théoden. Five nights and days 
-east and onward rode the Eorlingas 
-
-through Folde and Fenmarch and the Firienwood, 
-six thousand spears to Sunlending, 
-Mundburg the mighty under Mindolluin, 
-Sea-kings’ city in the South-kingdom 
-foe-beleaguered, fire-encircled. 
-
-Doom drove them on. Darkness took them, 
-horse and horseman; hoofbeats afar 
-
-sank into silence: so the songs tell us. 
+> *From dark Dunharrow in the dim morning*
+> *with thane and captain rode Thengel’s son:*
+> *to Edoras he came, the ancient halls*
+>
+> *of the Mark-wardens mist-enshrouded;*
+> *golden timbers were in gloom mantled.*
+> *Farewell he bade to his free people,*
+>
+> *hearth and high-seat, and the hallowed places,*
+> *where long he had feasted ere the light faded.*
+> *Forth rode the king, fear behind him,*
+>
+> *fate before him. Fealty kept he;*
+>
+> *oaths he had taken, all fulfilled them.*
+>
+> *Forth rode Théoden. Five nights and days*
+> *east and onward rode the Eorlingas*
+>
+> *through Folde and Fenmarch and the Firienwood,*
+> *six thousand spears to Sunlending,*
+> *Mundburg the mighty under Mindolluin,*
+> *Sea-kings’ city in the South-kingdom*
+> *foe-beleaguered, fire-encircled.*
+>
+> *Doom drove them on. Darkness took them,*
+> *horse and horseman; hoofbeats afar*
+>
+> *sank into silence: so the songs tell us.*
 
 
 It was indeed in deepening gloom that the king came to Edoras, 
@@ -45942,12 +45991,12 @@ in a loud voice, more clear than any there had ever heard a mortal
 man achieve before: 
 
 
-Arise, arise, Riders of Théoden! 
-
-Fell deeds awake: fire and slaughter! 
-spear shall be shaken, shield be splintered, 
-a sword-day, a red day, ere the sun rises! 
-Ride now, ride now! Ride to Gondor! 
+> *Arise, arise, Riders of Théoden!*
+>
+> *Fell deeds awake: fire and slaughter!*
+> *spear shall be shaken, shield be splintered,*
+> *a sword-day, a red day, ere the sun rises!*
+> *Ride now, ride now! Ride to Gondor!*
 
 
 With that he seized a great horn from Guthlaf his banner-bearer, and 
@@ -45957,7 +46006,7 @@ the horns of Rohan in that hour was like a storm upon the plain and
 a thunder in the mountains. 
 
 
-Ride now, ride now! Ride to Gondor! 
+> *Ride now, ride now! Ride to Gondor!*
 
 
 Suddenly the king cried to Snowmane and the horse sprang away. 
@@ -49557,32 +49606,32 @@ rang out, while words of his own came unbidden to fit the simple
 tune. 
 
 
-In western lands beneath the Sun 
-the flowers may rise in Spring, 
-
-the trees may bud, the waters run, 
-the merry finches sing. 
-
-Or there maybe °tis cloudless night 
-and swaying beeches bear 
-
-the Elven-stars as jewels white 
-amid their branching hair. 
-
-
-
-
-Though here at journey’s end I lie 
-in darkness buried deep, 
-
-beyond all towers strong and high, 
-beyond all mountains steep, 
-
-above all shadows rides the Sun 
-and Stars for ever dwell: 
-
-I will not say the Day 1s done, 
-nor bid the Stars farewell. 
+> *In western lands beneath the Sun*
+> *the flowers may rise in Spring,*
+>
+> *the trees may bud, the waters run,*
+> *the merry finches sing.*
+>
+> *Or there maybe °tis cloudless night*
+> *and swaying beeches bear*
+>
+> *the Elven-stars as jewels white*
+> *amid their branching hair.*
+>
+>
+>
+>
+> *Though here at journey’s end I lie*
+> *in darkness buried deep,*
+>
+> *beyond all towers strong and high,*
+> *beyond all mountains steep,*
+>
+> *above all shadows rides the Sun*
+> *and Stars for ever dwell:*
+>
+> *I will not say the Day 1s done,*
+> *nor bid the Stars farewell.*
 
 
 ‘Beyond all towers strong and high,’ he began again, and then he 
@@ -51980,25 +52029,25 @@ swords were unsheathed, and spears were shaken, and horns and
 trumpets sang, and men cried with many voices and in many tongues: 
 
 
-‘Long live the Halflings! Praise them with great praise! 
-
-Cuio 1 Pheriain anann! Aglar’ni Pheriannath! 
-
-Praise them with great praise, Frodo and Samwise! 
-
-Daur a Berhael, Conin en Anni! Eglerio! 
-
-Praise them! 
-
-Eglerio! 
-
-A laita te, laita te! Andave laituvalmet! 
-
-Praise them! 
-
-Cormacolindor, a laita tarienna! 
-
-Praise them! The Ring-bearers, praise them with great praise!” 
+> *‘Long live the Halflings! Praise them with great praise!*
+>
+> *Cuio 1 Pheriain anann! Aglar’ni Pheriannath!*
+>
+> *Praise them with great praise, Frodo and Samwise!*
+>
+> *Daur a Berhael, Conin en Anni! Eglerio!*
+>
+> *Praise them!*
+>
+> *Eglerio!*
+>
+> *A laita te, laita te! Andave laituvalmet!*
+>
+> *Praise them!*
+>
+> *Cormacolindor, a laita tarienna!*
+>
+> *Praise them! The Ring-bearers, praise them with great praise!”*
 
 
 And so the red blood blushing in their faces and their eyes shining 
@@ -52170,23 +52219,23 @@ for a while. For a while: a month, a life, a hundred years of Men.
 But Anduin is near, and Anduin leads down to the Sea. To the Sea! 
 
 
-To the Sea, to the Sea! The white gulls are crying, 
-The wind is blowing, and the white foam ts flying. 
-West, west away, the round sun ts falling. 
-
-Grey ship, grey ship, do you hear them calling, 
-
-The voices of my people that have gone before me? 
-I will leave, I will leave the woods that bore me; 
-For our days are ending and our years failing. 
-
-I will pass the wide waters lonely sailing. 
-
-Long are the waves on the Last Shore falling, 
-Sweet are the voices in the Lost Isle calling, 
-
-In Eresséa, in Elvenhome that no man can discover, 
-Where the leaves fall not: land of my people for ever!’ 
+> *To the Sea, to the Sea! The white gulls are crying,*
+> *The wind is blowing, and the white foam ts flying.*
+> *West, west away, the round sun ts falling.*
+>
+> *Grey ship, grey ship, do you hear them calling,*
+>
+> *The voices of my people that have gone before me?*
+> *I will leave, I will leave the woods that bore me;*
+> *For our days are ending and our years failing.*
+>
+> *I will pass the wide waters lonely sailing.*
+>
+> *Long are the waves on the Last Shore falling,*
+> *Sweet are the voices in the Lost Isle calling,*
+>
+> *In Eresséa, in Elvenhome that no man can discover,*
+> *Where the leaves fall not: land of my people for ever!’*
 
 
 And so singing Legolas went away down the hill. 
@@ -53863,14 +53912,14 @@ it all. The fire’s very cosy here, and the food’s very good, and there
 are Elves when you want them. What more could one want? 
 
 
-The Road goes ever on and on 
-Out from the door where it began. 
-Now far ahead the Road has gone, 
-Let others follow it who can! 
-Let them a journey new begin, 
-But I at last with weary feet 
-Will turn towards the lighted inn, 
-My evening-rest and sleep to meet.’ 
+> *The Road goes ever on and on*
+> *Out from the door where it began.*
+> *Now far ahead the Road has gone,*
+> *Let others follow it who can!*
+> *Let them a journey new begin,*
+> *But I at last with weary feet*
+> *Will turn towards the lighted inn,*
+> *My evening-rest and sleep to meet.’*
 
 
 
@@ -56133,30 +56182,30 @@ Presently he became aware that Frodo was singing softly to himself,
 singing the old walking-song, but the words were not quite the same. 
 
 
-Still round the corner there may wait 
-A new road or a secret gate; 
-
-And though I oft have passed them by, 
-A day will come at last when I 
-
-Shall take the hidden paths that run 
-West of the Moon, East of the Sun. 
+> *Still round the corner there may wait*
+> *A new road or a secret gate;*
+>
+> *And though I oft have passed them by,*
+> *A day will come at last when I*
+>
+> *Shall take the hidden paths that run*
+> *West of the Moon, East of the Sun.*
 
 
 And as if in answer, from down below, coming up the road out of 
 the valley, voices sang: 
 
 
-A! Elbereth Gilthoniel! 
-
-silivren penna miriel 
-
-o menel aglar elenath, 
-
-Gilthoniel, A! Elbereth! 
-We still remember, we who dwell 
-In this far land beneath the trees 
-The starlight on the Western Seas. 
+> *A! Elbereth Gilthoniel!*
+>
+> *silivren penna miriel*
+>
+> *o menel aglar elenath,*
+>
+> *Gilthoniel, A! Elbereth!*
+> *We still remember, we who dwell*
+> *In this far land beneath the trees*
+> *The starlight on the Western Seas.*
 
 
 Frodo and Sam halted and sat silent in the soft shadows, until 
@@ -62702,11 +62751,11 @@ husband’s surname, with selective cross-references from maiden names.
 - [[Shelob]] — Book IV, Chapter 9: Shelob's Lair; Book IV, Chapter 10: The Choices of Master Samwise; Book VI, Chapter 1: The Tower of Cirith Ungol (+1 more)
 - [[the Anduin]] — Book III, Chapter 2: The Riders of Rohan; Book IV, Chapter 3: The Black Gate Is Closed; Book IV, Chapter 6: The Forbidden Pool (+3 more)
 - [[the Black Gate]] — Book II, Chapter 2: The Council of Elrond; Book IV, Chapter 4: Of Herbs and Stewed Rabbit; Book IV, Chapter 6: The Forbidden Pool (+6 more)
-- [[the black gate]] — Book IV, Chapter 3: The Black Gate Is Closed
-- [[THE PRANCING PONY]] — Book I, Chapter 10: Strider
+- [[the Black Gate]] — Book IV, Chapter 3: The Black Gate Is Closed
+- [[The Prancing Pony]] — Book I, Chapter 10: Strider
 - [[The Prancing Pony]] — Book II, Chapter 1: Many Meetings; Book VI, Chapter 7: Homeward Bound
 - [[the Shire]] — Book I, Chapter 1: A Long-Expected Party; Book I, Chapter 2: The Shadow of the Past; Book I, Chapter 3: Three Is Company (+40 more)
-- [[The Shire]] — Book II, Chapter 3: The Ring Goes South
+- [[the Shire]] — Book II, Chapter 3: The Ring Goes South
 - [[Weathertop]] — Book I, Chapter 10: Strider; Book I, Chapter 11: A Knife in the Dark; Book I, Chapter 12: Flight to the Ford (+5 more)
 
 ## Index of Key Characters
