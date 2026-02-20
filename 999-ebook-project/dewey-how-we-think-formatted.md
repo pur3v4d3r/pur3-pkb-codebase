@@ -96,509 +96,153 @@ anyone who teaches, learns, or manages knowledge.
 > [!abstract] Chapter Summary
 > *Dewey distinguishes reflective thinking from mere mental wandering, fantasy, and passive belief by arguing that only reflective thought involves a controlled chain of ideas directed toward resolving a genuine perplexity through evidence-based inquiry. The chapter establishes that doubt is the necessary starting condition of thought, not a defect to be overcome quickly.*
 
-
-
 ### I. Different Meanings or Thought
 
+## The Best Way of Thinking 
 
+No one can tell another person in any definite way how he should think, any more than how he ought to breathe or to have his blood circulate. But the various ways in which men do think can be told and can be described in their general features. Some of these ways are better than others; the reasons why they are better can be set forth. 
 
-The Best Way of Thinking 
+The person who understands what the better ways of thinking are and why they are better can, if he will, change his own personal ways until they become more effective; until, that is to say, they do better the work that thinking can do and that other mental operations cannot do so well. The better way of thinking that is to be considered in this book is called [[Reflective Thinking]]: **the kind of thinking that consists in 
+turning a subject over in the mind and giving it serious and consecutive consideration.**
 
+Before we take up this main theme, we shall, however, first take note briefly of some other mental processes to which the name thought is sometimes given.
 
-No one can tell another person in any definite way how 
-he should think, any more than how he ought to breathe or 
-to have his blood circulate. But the various ways in which 
-men do think can be told and can be described in their general features. Some of these ways are better than others;
-the reasons why they are better can be set forth. The person who understands what the better ways of thinking are
-and why they are better can, if he will, change his own personal ways until they become more effective; until, that is to
-say, they do better the work that thinking can do and that 
-other mental operations cannot do so well. The better way 
-of thinking that is to be considered in this book is called 
-[[Reflective Thinking|reflective thinking]]: the kind of thinking that consists in 
-turning a subject over in the mind and giving it serious 
-and consecutive consideration. Before we take up this main 
-theme, we shall, however, first take note briefly of some 
-other mental processes to which the name thought is sometimes given.
+## The ‘[[Stream of Consciousness|Stream of Consciousness]]’ 
 
+All the time we are awake and sometimes when we are asleep, something is, as we say, going through our heads. 
+When we are asleep we call that kind of sequence ‘ dreaming.’ We also have daydreams, reveries, castles built in the air, and mental streams that are even more idle and chaotic. To this uncontrolled coursing of ideas through our heads the name of ‘ thinking’ is sometimes given. It is automatic and unregulated.
 
-The ‘[[Stream of Consciousness|Stream of Consciousness]]’ 
+Many a child has attempted to see whether he could not ‘ stop thinking ’— that is, stop this procession of 
+mental states through his mind — and in vain. More of our waking life than most of us would care to admit is whiled away in this inconsequential trifling with mental pictures, random recollections, pleasant but unfounded hopes, flitting, half-developed impressions. Hence it is that he who offers ‘ a penny for your thoughts’ does not expect to drive any great bargain if his offer is taken; he will only find out what happens to be ‘ going through the mind ’ and what ‘ goes’ in this fashion rarely leaves much that is worth while behind. 
 
+**Reflective Thought** Is a Chain In this sense, silly folk and dullards think. 
 
-All the time we are awake and sometimes when we are 
-asleep, something is, as we say, going through our heads. 
-When we are asleep we call that kind of sequence ‘ dreaming.’ We also have daydreams, reveries, castles built in the
+The story is told of a man in slight repute for intelligence, who, desiring to be chosen selectman in his New England town, addressed a knot of neighbors in this wise: 
 
+> *“I hear you don’t believe I know enough to hold office. I wish you to understand that I am thinking about something or other most of the time.”
 
+Now, reflective thought is like this random coursing of things through the mind in that it consists of a succession of things thought of, but it is unlike in that the mere chance occurrence of any chance ‘ something or other ’ in an irregular sequence does not suffice. Reflection involves not simply a sequence of ideas, but a con-sequence — a consecutive ordering in such a way that each determines the next as its proper outcome, while each outcome in turn leans back on, or refers to, its predecessors. 
 
+The successive portions of a reflective thought grow out of one another and support one another; they do not come and go in a medley. Each phase is a step from something to something — technically speaking, it is a term of thought. Each term leaves a deposit that is utilized in the next term. **The stream or flow becomes a train or chain.** There are in any reflective thought definite units that are linked together so that there is a sustained movement to a common end. 
 
-air, and mental streams that are even more idle and chaotic. 
-To this uncontrolled coursing of ideas through our heads the 
-name of ‘ thinking’ is sometimes given. It is automatic and 
-unregulated. Many a child has attempted to see whether he 
-could not ‘ stop thinking ’— that is, stop this procession of 
-mental states through his mind — and in vain. More of our 
-waking life than most of us would care to admit is whiled 
-away in this inconsequential trifling with mental pictures, 
-random recollections, pleasant but unfounded hopes, flitting, 
-half-developed impressions. Hence it is that he who offers ‘ a 
-penny for your thoughts’ does not expect to drive any great. 
-bargain if his offer is taken; he will only find out what happens to be ‘ going through the mind ’ and what ‘ goes’ in this
-fashion rarely leaves much that is worth while behind. 
+## Thinking Usually Restricted to Things Not Directly Perceived 
 
+The second **meaning** of thinking limits it to things not sensed or directly perceived, to things not seen, heard, touched, smelt, or tasted. We ask the man telling a story if he saw a certain incident happen, and his reply may be 
 
-**Reflective Thought** Is a Chain 
+> “No, I only thought of it.” 
 
+A note of invention, as distinct from faithful record of [[Observation|observation]], is present. Most important in this class are successions of imaginative incidents and episodes that have a certain coherence, hang together 
+on a continuous thread, and thus lie between kaleidoscopic flights of fancy and considerations deliberately employed to establish a conclusion. The imaginative stories poured forth by children possess all degrees of internal congruity; some are disjointed, some are articulated. When connected, they simulate reflective thought; indeed, they usually occur in minds of **logical** capacity. These imaginative enterprises often precede thinking of the close-knit type and prepare the way for it. In this sense, a thought or idea is a mental picture of something not actually present, and thinking is the succession of such pictures. 
 
-In this sense, silly folk and dullards think. The story is 
-told of a man in slight repute for intelligence, who, desiring 
-to be chosen selectman in his New England town, addressed 
-a knot of neighbors in this wise: “I hear you don’t believe 
-I know enough to hold office. I wish you to understand that 
-I am thinking about something or other most of the time.” 
-Now, reflective thought is like this random coursing of 
-things through the mind in that it consists of a succession 
-of things thought of, but it is unlike in that the mere chance 
-occurrence of any chance ‘ something or other ’ in an irregular sequence does not suffice. Reflection involves not simply
-a sequence of ideas, but a con-sequence — a consecutive ordering in such a way that each determines the next as its
-proper outcome, while each outcome in turn leans back on, 
-or refers to, its predecessors. The successive portions of a 
-reflective thought grow out of one another and support one 
-another; they do not come and go in a medley. Each phase 
-is a step from something to something — technically speak- 
+## Reflective Thinking Aims at a Conclusion 
 
+In contrast, [[reflective thinking]] has a purpose beyond the entertainment afforded by the train of agreeable mental inventions and pictures. The train must lead somewhere; it must tend to a conclusion that can be substantiated outside the course of the images. A story of a giant may satisfy merely because of the story itself; a reflective conclusion that a giant lived at a certain date and place on the earth would have to have some justification outside of the chain of ideas in order to be a valid or sound conclusion. This contrasting element is probably best conveyed in the ordinary saying: 
 
+> “ Think it out.” 
 
-
-ing, it is a term of thought. Each term leaves a deposit that 
-is utilized in the next term. The stream or flow becomes a 
-train or chain. There are in any reflective thought definite 
-units that are linked together so that there is a sustained 
-movement to a common end. 
-
-
-Thinking Usually Restricted to Things Not Directly Perceived 
-
-
-The second **meaning** of thinking limits it to things not 
-sensed or directly perceived, to things not seen, heard, 
-touched, smelt, or tasted. We ask the man telling a story if 
-he saw a certain incident happen, and his reply may be, 
-“No, I only thought of it.” A note of invention, as distinct 
-from faithful record of [[Observation|observation]], is present. Most important in this class are successions of imaginative incidents
-and episodes that have a certain coherence, hang together 
-on a continuous thread, and thus lie between kaleidoscopic 
-flights of fancy and considerations deliberately employed to 
-establish a conclusion. The imaginative stories poured forth 
-by children possess all degrees of internal congruity; some 
-are disjointed, some are articulated. When connected, they 
-simulate reflective thought; indeed, they usually occur in 
-minds of **logical** capacity. These imaginative enterprises 
-often precede thinking of the close-knit type and prepare 
-the way for it. In this sense, a thought or idea is a mental 
-picture of something not actually present, and thinking is 
-the succession of such pictures. 
-
-
-Reflective Thinking Aims at a Conclusion 
-
-
-In contrast, reflective thinking has a purpose beyond the 
-entertainment afforded by the train of agreeable mental inventions and pictures. The train must lead somewhere; it
-must tend to a conclusion that can be substantiated outside 
-the course of the images. A story of a giant may satisfy 
-merely because of the story itself; a reflective conclusion 
-
-
-
-
-that a giant lived at a certain date and place on the earth 
-would have to have some justification outside of the chain 
-of ideas in order to be a valid or sound conclusion. This contrasting element is probably best conveyed in the ordinary
-saying: “ Think it out.” The phrase suggests an entanglement to be straightened out, something obscure to be cleared
-up through the application of thought. There is a goal to be 
-reached, and this end sets a task that controls the sequence 
+The phrase suggests an entanglement to be straightened out, something obscure to be cleared up through the application of thought. There is a goal to be reached, and this end sets a task that controls the sequence 
 of ideas. 
 
+## Thinking as Practically Synonymous with Believing 
 
-Thinking as Practically Synonymous with Believing 
+A third meaning of thought is practically synonymous with **belief**. “I think it is going to be colder tomorrow,” or “I think Hungary is larger than Jugo-Slavia ” is equivalent to “I believe so-and-so.” When we say, “‘ Men used to think the world was flat,” we obviously refer to a belief that was held by our ancestors. This meaning of thought is narrower than those previously mentioned. A belief refers to something beyond itself by which its value is tested; it makes an assertion about some matter of fact or some principle or law. It means that a specified state of fact or law is accepted or rejected, that it is something proper to be affirmed or at least acquiesced in. It is hardly necessary to lay stress upon the importance of belief. It covers all the matters of which we have no sure **knowledge** and yet which we are sufficiently 
+confident of to act upon and also the matters that we now accept as certainly true, as knowledge, but which nevertheless may be questioned in the future — just as much that passed as knowledge in the past has now passed into the limbo of mere opinion or of error. 
 
+There is nothing in the mere fact of thought as identical with belief that reveals whether the belief is well founded or not. Two different men say, “I believe the world is spherical.” One man, if challenged, could produce little or no evidence for thinking as he does. It is an idea that he has picked up from others and that he accepts because the idea is generally current, not because he has examined into the matter and not because his own mind has taken any active part in reaching and framing the belief. 
 
-A third meaning of thought is practically synonymous 
-with **belief**. “I think it is going to be colder tomorrow,” or 
-“T think Hungary is larger than Jugo-Slavia ” is equivalent 
-to “I believe so-and-so.” When we say, “‘ Men used to think 
-the world was flat,” we obviously refer to a belief that was 
-held by our ancestors. This meaning of thought is narrower 
-than those previously mentioned. A belief refers to something beyond itself by which its value is tested; it makes an
-assertion about some matter of fact or some principle or law. 
-It means that a specified state of fact or law is accepted or 
-rejected, that it is something proper to be affirmed or at least 
-acquiesced in. It is hardly necessary to lay stress upon the 
-importance of belief. It covers all the matters of which we 
-have no sure **knowledge** and yet which we are sufficiently 
-confident of to act upon and also the matters that we now accept as certainly true, as knowledge, but which nevertheless
-may be questioned in the future — just as much that passed ° 
-as knowledge in the past has now passed into the limbo of 
-mere opinion or of error. 
+Such ‘ thoughts ’ grow up unconsciously. They are picked up — we know not how. From obscure sources and by unnoticed channels they insinuate themselves into the mind and become unconsciously a part of our mental furniture. 
 
-There is nothing in the mere fact of thought as identical 
-with belief that reveals whether the belief is well founded or 
-not. Two different men say, “I believe the world is spherical.” One man, if challenged, could produce little or no evi-
+Tradition, instruction, imitation — all of which depend upon authority in some form, or appeal to our own advantage, or fall in with a strong passion— are responsible for them. Such thoughts are prejudices; that is, prejudgments, not conclusions reached as the result of personal mental activity, such as observing, collecting, and examining **evidence**. Even when they happen to be correct, their correctness is a matter 
+of accident as far as the person who entertains them is concerned. 
 
+## Reflective Thinking Impels to **Inquiry** 
 
-
-
-dence for thinking as he does. It is an idea that he has picked 
-up from others and that he accepts because the idea is generally current, not because he has examined into the matter
-and not because his own mind has taken any active part in 
-reaching and framing the belief. 
-
-Such ‘ thoughts ’ grow up unconsciously. They are picked 
-up — we know not how. From obscure sources and by unnoticed channels they insinuate themselves into the mind
-and become unconsciously a part of our mental furniture. 
-Tradition, instruction, imitation — all of which depend upon 
-authority in some form, or appeal to our own advantage, or 
-fall in with a strong passion— are responsible for them. 
-Such thoughts are prejudices; that is, prejudgments, not conclusions reached as the result of personal mental activity,
-such as observing, collecting, and examining **evidence**. Even 
-when they happen to be correct, their correctness is a matter 
-of accident as far as the person who entertains them is 
-concerned. 
-
-
-Reflective Thinking Impels to **Inquiry** 
-
-
-Thus we are brought again, by way of contrast, to the particular kind of thinking that we are to study in this volume,
-reflective thinking. Thought, in the two first senses mentioned, may be harmful to the mind because it distracts at-
-tention from the real world, and because it may be a waste 
-of time. On the other hand, if indulged in judiciously these 
-thoughts may afford genuine enjoyment and also be a source 
-of needed recreation. But in either case they can make no 
-claim to truth; they cannot hold themselves up as something that the mind should accept, assert, and be willing to
-act upon. They may involve a kind of emotional commitment, but not intellectual and practical commitment. Be-
-liefs, on the other hand, do involve precisely this commitment and consequently sooner or later they demand our
-
-
-
-
-investigation to find out upon what grounds they rest. To 
-think of a cloud as a whale or a camel — in the sense of to 
-‘fancy ’— does not commit one to the conclusion that the 
-person having the idea would ride the camel or extract oil 
-from the whale. But when Columbus‘ thought’ the world was 
-round, in the sense of ‘ believed it to be so,’ he and his followers were thereby committed to a series of other beliefs and
-actions: to beliefs about routes to India, about what would 
-happen if ships traveled far westward on the Atlantic, etc., 
-precisely as thinking that the world was flat had committed 
-those who held it to belief in the impossibility of cireumnavigation, and in the limitation of the earth to regions in the
-small civilized part of it Europeans were already acquainted 
+Thus we are brought again, by way of contrast, to the particular kind of thinking that we are to study in this volume, [[reflective thinking]]. Thought, in the two first senses mentioned, may be harmful to the mind because it distracts attention from the real world, and because it may be a waste of time. On the other hand, if indulged in judiciously these thoughts may afford genuine enjoyment and also be a source of needed recreation. But in either case they can make no claim to truth; they cannot hold themselves up as something that the mind should accept, assert, and be willing to act upon. They may involve a kind of emotional commitment, but not intellectual and practical commitment. [[Beliefs]], on the other hand, do involve precisely this commitment and consequently sooner or later they demand our investigation to find out upon what grounds they rest. To think of a cloud as a whale or a camel — in the sense of to ‘fancy ’— does not commit one to the conclusion that the person having the idea would ride the camel or extract oil from the whale. But when Columbus‘ thought’ the world was round, in the sense of ‘ believed it to be so,’ he and his followers were thereby committed to a series of other beliefs and actions: to beliefs about routes to India, about what would happen if ships traveled far westward on the Atlantic, etc., precisely as thinking that the world was flat had committed those who held it to belief in the impossibility of cireumnavigation, and in the limitation of the earth to regions in the small civilized part of it Europeans were already acquainted 
 with, ete. 
 
-The earlier thought, belief in the flatness of the earth, had 
-some foundation in evidence; it rested upon what men could 
-see easily within the limits of their vision. But this evidence 
-was not further looked into; it was not checked by considering other evidence; there was no search for new evidence.
-Ultimately the belief rested on laziness, inertia, custom, absence of courage and energy in investigation. The later belief
-rests upon careful and extensive study, upon purposeful 
-widening of the area of observation, upon **reasoning** out the 
-conclusions of alternative conceptions to see what would 
-follow in case one or the other were adopted for belief. As 
-distinct from the first kind of thinking there was an orderly 
-chain of ideas; as distinct from the second, there was a controlling purpose and end; as distinct from the third, there:
-was personal examination, scrutiny, inquiry. 
+The earlier thought, belief in the flatness of the earth, had some foundation in evidence; it rested upon what men could see easily within the limits of their vision. But this evidence was not further looked into; it was not checked by considering other evidence; there was no search for new evidence. Ultimately the belief rested on laziness, inertia, custom, absence of courage and energy in investigation. The later belief rests upon careful and extensive study, upon purposeful widening of the area of observation, upon **[[reasoning]]** out the conclusions of alternative conceptions to see what would follow in case one or the other were adopted for belief. As distinct from the first kind of thinking there was an orderly chain of ideas; as distinct from the second, there was a controlling purpose and end; as distinct from the third, there: was personal examination, scrutiny, inquiry. 
 
-Because Columbus did not accept unhesitatingly the current traditional theory, because he doubted and inquired, he
-arrived at his thought. Skeptical of what, from long **habit**, 
-seemed most certain, and credulous of what seemed impossible, he went on thinking until he could produce evidence
+Because Columbus did not accept unhesitatingly the current traditional theory, because he doubted and inquired, he arrived at his thought. Skeptical of what, from long **[[habit]]**, seemed most certain, and credulous of what seemed impossible, he went on thinking until he could produce evidence for both his confidence and his disbelief. Even if his conclusion had finally turned out wrong, it would have been a different sort of belief from those it antagonized, because it was reached by a different method. 
 
+> Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it and the further conclusions to which it tends constitutes reflective thought.
 
-
-
-for both his confidence and his disbelief. Even if his conclusion had finally turned out wrong, it would have been a dif-
-ferent sort of belief from those it antagonized, because it was 
-reached by a different method. Active, persistent, and careful consideration of any belief or supposed form of knowl-
-edge in the light of the grounds that support it and the further conclusions to which it tends constitutes reflective
-thought. Any one of the first three kinds of thought may 
-elicit this type; but once begun, it includes a conscious and 
+Any one of the first three kinds of thought may elicit this type; but once begun, it includes a conscious and 
 voluntary effort to establish belief upon a firm basis of evidence and rationality.
-
-
 
 ### II. Tue Centrau Factor in Thinking
 
+## The **Suggestion** of Something Not Observed 
 
+There are, however, no sharp lines of demarcation between the various operations just outlined. The **problem** of attaining correct habits of reflection would be much easier than it is, did not the different modes of thinking blend insensibly into one another. So far, we have considered rather extreme instances of each kind in order to get the field clearly before us. Let us now reverse this operation; let us consider a rudimentary case of thinking, lying between careful examination of evidence and a mere irresponsible stream of fancies. 
 
-The **Suggestion** of Something Not Observed 
+> A man is walking on a warm day. The sky was clear the last time he observed it; but presently he notes, 
+> while occupied primarily with other things, that the air is cooler. It occurs to him that it is probably going to rain; looking up, he sees a dark cloud between him and the sun, and he then quickens his steps. 
 
+What, if anything, in such a situation can be called thought? Neither the act of walking nor the noting of the cold is a thought. Walking is one direction of activity; looking and noting are other modes of activity. 
+The likelihood that it will rain is, however, something suggested. The pedestrian feels the cold; first he thinks of clouds, then he looks and perceives them, and then he thinks of something he does not see: a storm. This suggested possibility is the idea, the thought. If it is believed in as a genuine possibility which may occur, it is the kind of thought which falls within the scope of knowledge and which requires reflective consideration.
 
-There are, however, no sharp lines of demarcation between the various operations just outlined. The **problem** of
-attaining correct habits of reflection would be much easier 
-than it is, did not the different modes of thinking blend insensibly into one another. So far, we have considered rather
-extreme instances of each kind in order to get the field 
-clearly before us. Let us now reverse this operation; let us 
-consider a rudimentary case of thinking, lying between careful examination of evidence and a mere irresponsible stream
-of fancies. A man is walking on a warm day. The sky was 
-clear the last time he observed it; but presently he notes, 
-while occupied primarily with other things, that the air is 
-cooler. It occurs to him that it is probably going to rain; 
-looking up, he sees a dark cloud between him and the sun, 
-and he then quickens his steps. What, if anything, in such a 
-situation can be called thought? Neither the act of walking 
-nor the noting of the cold is a thought. Walking is one direction of activity; looking and noting are other modes of ac-
+Up to a certain point there is the same sort of situation as when one who looks at a cloud is reminded of a human figure and face. Thinking in both of these cases (the cases of belief and of fancy) involves noting or perceiving a fact, followed by something else that is not observed but that is brought to mind, suggested by the thing seen. One thing reminds us, as we say, of the other. Side by side, however, with this factor of agreement in the two cases of suggestion is a factor of marked disagreement. We do not believe in the 
+face suggested by the cloud; we do not consider at all the probability of its being a fact. 
 
+There is no reflective thought. 
 
-10 HOW Wel GEE Nes 
+The danger of rain, on the contrary, presents itself to us as a genuine possibility —a fact of the same nature as the observed coolness. Put differently, we do not regard the cloud as meaning or indicating a face, but merely as suggesting it, while we do consider that the coolness may mean rain. In the first case, on seeing an object, we just happen, as we say, to think of something else; in the second, we consider the possibility and nature of the connection between the object seen and the object suggested. The seen thing is 
+regarded as in some way the ground or basis of belief in the suggested thing; it possesses the quality of evidence. 
 
+## The Function of Signifying 
 
-tivity. The likelihood that it will rain is, however, something 
-suggested. The pedestrian feels the cold; first he thinks of 
-clouds, then he looks and perceives them, and then he thinks 
-of something he does not see: a storm. This suggested possibility is the idea, the thought. If it is believed in as a genu-
-ine possibility which may occur, it is the kind of thought 
-which falls within the scope of knowledge and which requires reflective consideration.
+This function whereby one thing signifies or indicates another, thus leading us to consider how far the one may be regarded as warrant for belief in the other, is, then, the central factor in all reflective or distinctively intellectual thinking. By calling up various situations to which such terms as signifies and indicates apply, the student will realize for himself the actual facts denoted. Synonyms for these terms are: points to, tells of, betokens, prognosticates, represents, stands for, implies. We also say one thing portends
+another, is ominous of another, or a symptom of it, or a key to it, or (if the connection is quite obscure) that it gives a hint, clue, or intimation. Reflection is not identical with the mere fact that one thing indicates, means, another thing. It commences when we begin to inquire into the reliability, the worth, of any particular indication; when we try to test its value and see what guarantee there is that the existing **data** really point to the idea that is suggested in such a way as to justify acceptance of the latter. 
 
-Up to a certain point there is the same sort of situation as 
-when one who looks at a cloud is reminded of a human figure and face. Thinking in both of these cases (the cases of
-belief and of fancy) involves noting or perceiving a fact, 
-followed by something else that is not observed but that 
-is brought to mind, suggested by the thing seen. One thing 
-reminds us, as we say, of the other. Side by side, however, 
-with this factor of agreement in the two cases of suggestion 
-is a factor of marked disagreement. We do not believe in the 
-face suggested by the cloud; we do not consider at all the 
-probability of its being a fact. There is no reflective thought. 
-The danger of rain, on the contrary, presents itself to us as 
-a genuine possibility —a fact of the same nature as the 
-observed coolness. Put differently, we do not regard the 
-cloud as meaning or indicating a face, but merely as suggesting it, while we do consider that the coolness may mean
-rain. In the first case, on seeing an object, we just happen, 
-as we say, to think of something else; in the second, we consider the possibility and nature of the connection between
-the object seen and the object suggested. The seen thing is 
-regarded as in some way the ground or basis of belief in the 
-suggested thing; it possesses the quality of evidence. 
+## Reflection Implies Belief on Evidence 
 
+Reflection thus implies that something is believed in (or disbelieved in), not on its own direct account, but through something else which stands as witness, evidence, proof, voucher, warrant; that is, as ground of belief. At one time, rain is actually felt or directly experienced; at another time, we infer that it has rained from the appearance of the grass and trees, or that it is going to rain because of the condition 
+of the air or the state of the barometer. At one time, we see a man (or suppose we do) without any intermediary fact; at another time, we are not quite sure what we see, and hunt for accompanying facts that will serve as signs, indications, tokens of what we are to believe. 
 
-The Function of Signifying 
+Implies is more often used when a principle or general truth brings about belief in some other truth; the other phrases are more frequently used to denote the cases in which a fact or event leads us to believe in some other fact or in a law. 
 
-
-This function whereby one thing signifies or indicates another, thus leading us to consider how far the one may
-
-
-
-
-be regarded as warrant for belief in the other, is, then, the 
-central factor in all reflective or distinctively intellectual 
-thinking. By calling up various situations to which such 
-terms as signifies and indicates apply, the student will realize for himself the actual facts denoted. Synonyms for these
-terms are: points to, tells of, betokens, prognosticates, represents, stands for, implies.1 We also say one thing portends
-another, is ominous of another, or a symptom of it, or a key 
-to it, or (if the connection is quite obscure) that it gives a 
-hint, clue, or intimation. Reflection is not identical with the 
-mere fact that one thing indicates, means, another thing. It 
-commences when we begin to inquire into the reliability, the 
-worth, of any particular indication; when we try to test its 
-value and see what guarantee there is that the existing **data** 
-really point to the idea that is suggested in such a way as to 
-justify acceptance of the latter. 
-
-
-Reflection Implies Belief on Evidence 
-
-
-Reflection thus implies that something is believed in (or 
-disbelieved in), not on its own direct account, but through 
-something else which stands as witness, evidence, proof, 
-voucher, warrant; that is, as ground of belief. At one time, 
-rain is actually felt or directly experienced; at another time, 
-we infer that it has rained from the appearance of the grass 
-and trees, or that it is going to rain because of the condition 
-of the air or the state of the barometer. At one time, we see a 
-man (or suppose we do) without any intermediary fact; at 
-another time, we are not quite sure what we see, and hunt 
-for accompanying facts that will serve as signs, indications, 
-tokens of what we are to believe. 
-
-
-1 Jmplies is more often used when a principle or general truth 
-brings about belief in some other truth; the other phrases are more 
-frequently used to denote the cases in which a fact or event leads us 
-to believe in some other fact or in a law. 
-
-
-
-Thinking, for the purposes of this inquiry, is accordingly 
-defined as that operation in which present facts suggest 
-other facts (or truths) in such a way as to induce belief in 
-what is suggested on the ground of real relation in the things 
-themselves, a relation between what suggests and what is 
-suggested. A cloud suggests a weasel or a whale; it does not 
-mean the latter, because there is no tie, or bond, in the 
-things themselves between what is seen and what is suggested. Ashes not merely suggest a previous fire, but they
-signify there has been a fire, because ashes are produced by 
-combustion and, if they are genuine ashes, only by combustion. It is an objective connection, the link in actual things,
-that makes one thing the ground, warrant, evidence, for believing in something else.
-
-
+Thinking, for the purposes of this inquiry, is accordingly defined as that operation in which present facts suggest other facts (or truths) in such a way as to induce belief in what is suggested on the ground of real relation in the things themselves, a relation between what suggests and what is suggested. A cloud suggests a weasel or a whale; it does not mean the latter, because there is no tie, or bond, in the things themselves between what is seen and what is suggested. Ashes not merely suggest a previous fire, but they signify there has been a fire, because ashes are produced by combustion and, if they are genuine ashes, only by combustion. It is an objective connection, the link in actual things, that makes one thing the ground, warrant, evidence, for believing in something else.
 
 ### III. Puases or Reflective Thinking
 
 
+We may carry our account further by noting that reflective thinking, in distinction from other operations to which we apply the name of thought, involves: 
 
-We may carry our account further by noting that reflective thinking, in distinction from other operations to which
-we apply the name of thought, involves (1) a state of [[Doubt|doubt]], 
-hesitation, **perplexity**, mental difficulty, in which thinking 
-originates, and (2) an act of searching, hunting, inquiring, 
-to find material that will resolve the doubt, settle and dispose of the perplexity.
+> (1) a state of [[Doubt|doubt]], hesitation, **perplexity**, mental difficulty, in which thinking originates
+> (2) an act of searching, hunting, inquiring, to find material that will resolve the doubt, settle and dispose of the perplexity.
 
+## The Importance of Uncertainty and of Inquiry 
 
-The Importance of Uncertainty and of Inquiry 
+In our illustration, the shock of coolness generated confusion and suspended belief, at least momentarily. Because it was unexpected, it was a shock or an interruption needing to be accounted for, identified, or placed. To say that the abrupt occurrence of the change of temperature constitutes a problem may sound forced and artificial; but if we are willing to extend the meaning of the word problem to whatever — no matter how slight and commonplace in character — perplexes and challenges the mind so that it makes belief at all uncertain, there is a genuine problem, or question, involved in an **experience** of sudden change.
 
+The turning of the head, the lifting of the eyes, the scanning of the heavens, are activities adapted to bring to recognition facts that will answer the question presented by the sudden coolness. The facts as they first presented themselves were perplexing; they suggested, however, clouds. The act of looking was an act to discover whether this suggested explanation held good. It may again seem forced to speak of this looking, almost automatic, as an act of research, or inquiry. But once more, if we are willing to generalize our conceptions of our mental operations to include the trivial and ordinary as well as the technical and recondite, there is no good reason for refusing to give this title to the act of looking. For the result of the act is to bring facts before the mind that enable a person to reach a conclusion on the basis of evidence. In so far, then, as the act of looking was deliberate, was performed with the intention of getting an external basis on which to rest a belief, it exemplifies in an elementary way the operation of hunting, searching, inquiring, involved in any reflective operation.
 
-In our illustration, the shock of coolness generated confusion and suspended belief, at least momentarily. Because
-it was unexpected, it was a shock or an interruption needing 
-to be accounted for, identified, or placed. To say that the 
-abrupt occurrence of the change of temperature constitutes 
-a problem may sound forced and artificial; but if we are 
-willing to extend the meaning of the word problem to what- 
+Another instance, commonplace also, yet not quite so trivial, may enforce this lesson. 
 
+> A man traveling in an unfamiliar region comes to a branching of the road. Havingno sure knowledge to fall back upon, he is brought to a standstill of hesitation and suspense. Which road is right? And how shall his perplexity be resolved? 
 
+There are but two alternatives: he must either blindly and arbitrarily take his course, trusting to luck for the outcome, or he must discover grounds for the conclusion that a given road is right. Any attempt to decide the matter by thinking will involve inquiring into other facts, whether brought to mind by memory, or by further observation, or by both. The perplexed wayfarer must carefully scrutinize what is before him and 
+he must cudgel his memory. He looks for evidence that will support belief in favor of either of the roads —for evidence that will weight down one suggestion. He may climb a tree, he may go first in this direction, then in that, looking, in either case, for signs, clues, indications. He wants something in the nature of a signboard or a map, and his reflection is aimed at the discovery of facts that will serve this purpose. 
 
+The foregoing illustration may be generalized. Thinking begins in what may fairly enough be called a forked-road situation, a situation that is ambiguous, that presents a dilemma, that proposes alternatives. As long as our activity glides smoothly along from one thing to another, or as long as We permit our **imagination** to entertain fancies at pleasure, there is no call for reflection. Difficulty or obstruction in the way of reaching a belief brings us, however, to a pause. In the suspense of uncertainty, we metaphorically climb a tree; we try to find some standpoint from which we may survey additional facts and, getting a more commanding view of the situation, decide how the facts stand related to one another. 
 
-ever — no matter how slight and commonplace in character 
-— perplexes and challenges the mind so that it makes belief 
-at all uncertain, there is a genuine problem, or question, involved in an **experience** of sudden change.
+## The Regulation of Thinking by Its Purpose 
 
-The turning of the head, the lifting of the eyes, the scanning of the heavens, are activities adapted to bring to recog-
-nition facts that will answer the question presented by the 
-sudden coolness. The facts as they first presented themselves were perplexing; they suggested, however, clouds. The
-act of looking was an act to discover whether this suggested 
-explanation held good. It may again seem forced to speak of 
-this looking, almost automatic, as an act of research, or inquiry. But once more, if we are willing to generalize our con-
-ceptions of our mental operations to include the trivial and 
-ordinary as well as the technical and recondite, there is no 
-good reason for refusing to give this title to the act of looking. For the result of the act is to bring facts before the
-mind that enable a person to reach a conclusion on the basis 
-of evidence. In so far, then, as the act of looking was deliberate, was performed with the intention of getting an ex-
-ternal basis on which to rest a belief, it exemplifies in an 
-elementary way the operation of hunting, searching, inquiring, involved in any reflective operation.
-
-Another instance, commonplace also, yet not quite so 
-trivial, may enforce this lesson. A man traveling in an unfamiliar region comes to a branching of the road. Having
-no sure knowledge to fall back upon, he is brought to a 
-standstill of hesitation and suspense. Which road is right? 
-And how shall his perplexity be resolved? There are but two 
-alternatives: he must either blindly and arbitrarily take his 
-course, trusting to luck for the outcome, or he must discover 
-grounds for the conclusion that a given road is right. Any 
-attempt to decide the matter by thinking will involve inquiring into other facts, whether brought to mind by mem-
-
-
-
-
-ory, or by further observation, or by both. The perplexed 
-wayfarer must carefully scrutinize what is before him and 
-he must cudgel his memory. He looks for evidence that will 
-support belief in favor of either of the roads — for evidence 
-that will weight down one suggestion. He may climb a tree, 
-he may go first in this direction, then in that, looking, in 
-either case, for signs, clues, indications. He wants something 
-in the nature of a signboard or a map, and his reflection is 
-aimed at the discovery of facts that will serve this purpose. 
-
-The foregoing illustration may be generalized. Thinking 
-begins in what may fairly enough be called a forked-road 
-situation, a situation that is ambiguous, that presents a 
-dilemma, that proposes alternatives. As long as our activity 
-glides smoothly along from one thing to another, or as long 
-as We permit our **imagination** to entertain fancies at pleasure, there is no call for reflection. Difficulty or obstruction
-in the way of reaching a belief brings us, however, to a 
-pause. In the suspense of uncertainty, we metaphorically 
-climb a tree; we try to find some standpoint from which we 
-may survey additional facts and, getting a more commanding view of the situation, decide how the facts stand related
-to one another. 
-
-
-The Regulation of Thinking by Its Purpose 
-
-
-Demand for the solution of a perplexity is the steadying 
-and guiding factor in the entire process of reflection. Where 
-there is no question of a problem to be solved or a difficulty 
-to be surmounted, the course of suggestions flows on at 
-random; we have the first type of thought described. If the 
-stream of suggestions is controlled simply by their emotional 
-congruity, their fitting agreeably into a single picture or 
-story, we have the second type. But a question to be answered, an ambiguity to be resolved, sets up an end and
-holds the current of ideas to a definite channel. Every 
-
-
-
-
-suggested conclusion is tested by its reference to this regulating end, by its pertinence to the problem in hand. This
-need of straightening out a perplexity also controls the 
-kind of inquiry undertaken. A traveler whose end is the 
-most beautiful path will look for other signs and will test 
-suggestions on another basis than if he wishes to discover the 
-way to a given city. The nature of the problem fixes the end 
-of thought, and the end controls the process of thinking. 
-
-
+Demand for the solution of a perplexity is the steadying and guiding factor in the entire process of reflection. Where there is no question of a problem to be solved or a difficulty to be surmounted, the course of suggestions flows on at random; we have the first type of thought described. If the stream of suggestions is controlled simply by their emotional congruity, their fitting agreeably into a single picture or story, we have the second type. But a question to be answered, an ambiguity to be resolved, sets up an end and
+holds the current of ideas to a definite channel. Every suggested conclusion is tested by its reference to this regulating end, by its pertinence to the problem in hand. This need of straightening out a perplexity also controls the kind of inquiry undertaken. A traveler whose end is the most beautiful path will look for other signs and will test suggestions on another basis than if he wishes to discover the way to a given city. The nature of the problem fixes the end of thought, and the end controls the process of thinking. 
 
 ### IV. Summary
 
+We may recapitulate by saying that the origin of thinking is some perplexity, confusion, or doubt. Thinking is not a case of spontaneous combustion; it does not occur just on ‘general principles.’ There is something that occasions and evokes it. General appeals to a child (or to a grown-up) to think, irrespective of the existence in his own experience of some difficulty that troubles him and disturbs his equilibrium, are as futile as advice to lift himself by his boot-straps. 
 
+Given a difficulty, the next step is suggestion of some way out — the formation of some tentative plan or project, the entertaining of some theory that will account for the peculiarities in question, the consideration of some solution for the problem. The data at hand cannot supply the solution; they can only suggest it. What, then, are the sources of the suggestion? Clearly, past experience and a fund of relevant knowledge at one’s command. If the person has had some acquaintance with similar situations, if he has dealt 
+with material of the same sort before, suggestions more or less apt and helpful will arise. But unless there has been some analogous experience, confusion remains mere confusion. Even when a child (or a grown-up) has a problem,it is wholly futile to urge him to think when he has no prior experiences that involve some of the same conditions. 
 
-We may recapitulate by saying that the origin of thinking is some perplexity, confusion, or doubt. Thinking is not
-a case of spontaneous combustion; it does not occur just 
-on ‘general principles.’ There is something that occasions 
-and evokes it. General appeals to a child (or to a grown-up) 
-to think, irrespective of the existence in his own experience of some difficulty that troubles him and disturbs his
-equilibrium, are as futile as advice to lift himself by his 
-boot-straps. 
+There may, however, be a state of perplexity and also previous experience out of which suggestions emerge, and yet thinking need not be reflective. For the person may not be sufficiently critical about the ideas that occur to him. He may jump at a conclusion without weighing the grounds on which it rests; he may forego or unduly shorten the act of hunting, inquiring; he may take the first ‘ answer,’ or solution, that comes to him because of mental sloth, torpor, impatience to get something settled. One can think reflectively only when one is willing to endure suspense and to undergo the trouble of searching. To many persons both suspense of [[Judgment|judgment]] and intellectual search are disagreeable; they want to get them ended as soon as possible. They cultivate an over-positive and dogmatic habit of mind, or feel perhaps that a condition of doubt will be regarded as evidence of mental inferiority. It is at the point where examination and test enter into investigation that the difference between reflective thought and bad thinking comes in.
 
-Given a difficulty, the next step is suggestion of some way 
-out — the formation of some tentative plan or project, the 
-entertaining of some theory that will account for the peculiarities in question, the consideration of some solution
-for the problem. The data at hand cannot supply the solution; they can only suggest it. What, then, are the sources
-of the suggestion? Clearly, past experience and a fund of 
-relevant knowledge at one’s command. If the person has had 
-some acquaintance with similar situations, if he has dealt 
-with material of the same sort before, suggestions more or 
-less apt and helpful will arise. But unless there has been 
-some analogous experience, confusion remains mere confusion. Even when a child (or a grown-up) has a problem,
-
-
-
-
-it is wholly futile to urge him to think when he has no prior 
-experiences that involve some of the same conditions. 
-
-There may, however, be a state of perplexity and also 
-previous experience out of which suggestions emerge, and 
-yet thinking need not be reflective. For the person may 
-not be sufficiently critical about the ideas that occur to him. 
-He may jump at a conclusion without weighing the grounds 
-on which it rests; he may forego or unduly shorten the act 
-of hunting, inquiring; he may take the first ‘ answer,’ or 
-solution, that comes to him because of mental sloth, torpor, 
-impatience to get something settled. One can think reflectively only when one is willing to endure suspense and to
-undergo the trouble of searching. To many persons both 
-suspense of [[Judgment|judgment]] and intellectual search are disagreeable; they want to get them ended as soon as possible.
-They cultivate an over-positive and dogmatic habit of mind, 
-or feel perhaps that a condition of doubt will be regarded as 
-evidence of mental inferiority. It is at the point where 
-examination and test enter into investigation that the difference between reflective thought and bad thinking comes in.
-To be genuinely thoughtful, we must be willing to sustain 
-and protract that state of doubt which is the stimulus to 
-thorough inquiry, so as not to accept an idea or make 
-positive assertion of a belief until justifying reasons have 
-been found. 
-
-
+To be genuinely thoughtful, we must be willing to sustain and protract that state of doubt which is the stimulus to thorough inquiry, so as not to accept an idea or make positive assertion of a belief until justifying reasons have been found. 
 
 ---
-
 
 ### Overview
 
@@ -712,664 +356,133 @@ Dewey opens by surveying four senses in which 'thinking' is commonly used — th
 > [!abstract] Chapter Summary
 > *Dewey argues that reflective thinking holds three distinct values — enabling purposive action, systematic invention, and enriched meaning — but that these values do not realize themselves automatically and are in constant danger of corruption by natural tendencies toward credulity, passion, and social conformity, making deliberate educational cultivation of both logical method and the right personal attitudes an indispensable necessity.*
 
-
-
 ### I. Thr Values of Thinking
 
+## It Makes Possible Action with a Conscious Aim 
 
+We all acknowledge, in words at least, that ability to think is highly important; it is regarded as the distinguishing power that marks man off from the lower animals. But since our ordinary notions of how and why thinking is important are vague, it is worth while to state explicitly the values possessed by **reflective thought**. In the first place, it emancipates us from merely impulsive and merely routine activity. Put in positive terms, thinking enables us to direct our activities with foresight and to plan according to ends-in-view, or purposes of which we are aware. It enables us to act in deliberate and intentional fashion to attain future objects or to come into command of what is now distant and lacking. By putting the consequences of different ways and lines of action before the mind, it enablesus to know what we are about when we act. It converts action that is merely appetitive, blind, and impulsive into intelligent action. A brute animal, as far as we know, is pushed on from behind; it is moved in accordance with its present physiological state by some present external stimulus. The being who can think is moved by remote considerations, by results that can be attained perhaps only after a lapse of years—as when a young person sets out to gain a professional education to fit himself for a career in years to come. 
 
-It Makes Possible Action with a Conscious Aim 
+For example, an animal without thought will go into its hole when rain threatens, because of some immediate stimulus to its organism. But a thinking being will perceive thatcertain given facts are probable signs of a future rain and will take steps in the light of this anticipated future. To plant seeds, to cultivate the soil, to harvest grain, are intentional acts, possible only to a being who has learned to subordinate the immediately felt elements of an **experience** to those values which these elements hint at and prophesy. 
 
+Philosophers have made much of the phrases ‘ book of nature,’ ‘language of nature.’ Well, it is in virtue of thought that given things are significant of absent things and that nature speaks a language which may be interpreted. To a being who thinks, things are records of their past, as fossils tell of the prior history of the earth, and are prophetic of their future, as from the present positions of heavenly bodies remote eclipses are foretold. Shakespeare’s “ tongues in trees, books in the running brooks,” expresses literally 
+enough the power superadded to existences when they are used by a thinking being. Only when things about us have **meaning** for us, only when they signify consequences that can be reached by using them in certain ways, is any such thing as intentional, deliberate control of them possible. 
 
-We all acknowledge, in words at least, that ability to 
-think is highly important; it is regarded as the distinguishing power that marks man off from the lower animals.
-But since our ordinary notions of how and why thinking 
-is important are vague, it is worth while to state explicitly 
-the values possessed by **reflective thought**. In the first place, 
-it emancipates us from merely impulsive and merely routine 
-activity. Put in positive terms, thinking enables us to direct our activities with foresight and to plan according to
-ends-in-view, or purposes of which we are aware. It enables 
-us to act in deliberate and intentional fashion to attain 
-future objects or to come into command of what is now 
-distant and lacking. By putting the consequences of different ways and lines of action before the mind, it enables
-us to know what we are about when we act. It converts 
-action that is merely appetitive, blind, and impulsive into 
-intelligent action. A brute animal, as far as we know, is 
-pushed on from behind; it is moved in accordance with its 
-present physiological state by some present external stimulus. The being who can think is moved by remote con-
-siderations, by results that can be attained perhaps only 
-after a lapse of years—as when a young person sets out 
+## It Makes Possible Systematic Preparations and Inventions 
 
+By thought man also develops and arranges artificial signs to remind him in advance of consequences and of 
+ways of securing and avoiding them. As the trait just mentioned makes the difference between savage man and 
+brute; so this trait makes the difference between civilized man and savage. A savage who has been shipwrecked on a river may note certain things that serve him as signs of danger in the future. But civilized man deliberately makes such signs; he sets up in advance of any particular shipwreck warning buoys, and builds lighthouses where he sees signs that such an event may occur. A savage reads weather signs with great expertness; civilized man institutes a weather service by which signs are artificially secured and 
+information is distributed in advance of the appearance of any signs that could be detected without special methods. A savage finds his way skillfully through a wilderness by reading certain obscure indications; civilized man builds a highway that shows the road to all. The savage learns to detect the signs of fire and thereby to invent methods of producing flame; civilized man discovers illuminating gas and oils, and invents lamps, electric lights, stoves, furnaces, central heating plants, etc. The very essence of civilized 
+culture is that we deliberately erect monuments and memorials, lest we forget; and deliberately institute, in advance of the happening of various contingencies and emergencies of life, devices for detecting their approach and registering their nature, for warding off what is unfavorable, or at least for protecting ourselves from its fullimpact and for making more secure and extensive what is favorable. All forms of artificial apparatus are intentional modifications of natural things so designed that they may serve better than in their natural estate to indicate the hidden, the absent, and the remote. 
 
+## It Enriches Things with Meanings 
 
-
-to gain a professional education to fit himself for a career 
-in years to come. 
-
-For example, an animal without thought will go into its 
-hole when rain threatens, because of some immediate stimulus to its organism. But a thinking being will perceive that
-certain given facts are probable signs of a future rain and 
-will take steps in the light of this anticipated future. To 
-plant seeds, to cultivate the soil, to harvest grain, are intentional acts, possible only to a being who has learned to
-subordinate the immediately felt elements of an **experience** 
-to those values which these elements hint at and prophesy. 
-Philosophers have made much of the phrases ‘ book of nature,’ ‘language of nature.’ Well, it is in virtue of thought
-that given things are significant of absent things and that 
-nature speaks a language which may be interpreted. To a 
-being who thinks, things are records of their past, as fossils 
-tell of the prior history of the earth, and are prophetic of 
-their future, as from the present positions of heavenly 
-bodies remote eclipses are foretold. Shakespeare’s “ tongues 
-in trees, books in the running brooks,” expresses literally 
-enough the power superadded to existences when they are 
-used by a thinking being. Only when things about us have 
-**meaning** for us, only when they signify consequences that 
-can be reached by using them in certain ways, is any such 
-thing as intentional, deliberate control of them possible. 
-
-
-It Makes Possible Systematic Preparations and Inventions 
-
-
-By thought man also develops and arranges artificial 
-signs to remind him in advance of consequences and of 
-ways of securing and avoiding them. As the trait just 
-mentioned makes the difference between savage man and 
-brute; so this trait makes the difference between civilized 
-man and savage. A savage who has been shipwrecked on a 
-river may note certain things that serve him as signs of 
-
-
-
-
-danger in the future. But civilized man deliberately makes 
-such signs; he sets up in advance of any particular shipwreck warning buoys, and builds lighthouses where he sees
-signs that such an event may occur. A savage reads weather 
-signs with great expertness; civilized man institutes a 
-weather service by which signs are artificially secured and 
-information is distributed in advance of the appearance 
-of any signs that could be detected without special methods. 
-A savage finds his way skillfully through a wilderness by 
-reading certain obscure indications; civilized man builds a 
-highway that shows the road to all. The savage learns to 
-detect the signs of fire and thereby to invent methods of 
-producing flame; civilized man discovers illuminating gas 
-and oils, and invents lamps, electric lights, stoves, furnaces, 
-central heating plants, etc. The very essence of civilized 
-culture is that we deliberately erect monuments and memorials, lest we forget; and deliberately institute, in ad-
-vance of the happening of various contingencies and 
-emergencies of life, devices for detecting their approach 
-and registering their nature, for warding off what is unfavorable, or at least for protecting ourselves from its full
-impact and for making more secure and extensive what is 
-favorable. All forms of artificial apparatus are intentional 
-modifications of natural things so designed that they may 
-serve better than in their natural estate to indicate the 
-hidden, the absent, and the remote. 
-
-
-It Enriches Things with Meanings 
-
-
-Finally, thought confers upon physical events and objects a very different status and value from those which they
-possess to a being that does not reflect. These words are 
-mere scratches, curious variations of light and shade, to 
-one to whom they are not linguistic signs. To him for whom 
-they are signs of other things, the collection of marks 
-
-
-
-
-stands for some idea or object. We are so used to the fact 
-that things have meaning for us, that they are not mere 
-excitations of sense organs, that we fail to recognize that 
-they are charged with the significance they have only because in the past absent things have been suggested to us
-by what is present and these suggestions have been confirmed in subsequent experience. If we stumble against
-something in the dark, we may react to it and get out of 
-the way to save ourselves a bruise or a tumble without 
-recognizing what particular object it is. We react almost 
-automatically to many stimuli; they have no meaning for 
-us or are not definite individual objects. For an object is 
-more than a mere thing; it is a thing having a definite 
-significance. 
+Finally, thought confers upon physical events and objects a very different status and value from those which they possess to a being that does not reflect. These words are mere scratches, curious variations of light and shade, to one to whom they are not linguistic signs. To him for whom they are signs of other things, the collection of marks stands for some idea or object. We are so used to the fact that things have meaning for us, that they are not mere excitations of sense organs, that we fail to recognize that 
+they are charged with the significance they have only because in the past absent things have been suggested to us by what is present and these suggestions have been confirmed in subsequent experience. If we stumble against something in the dark, we may react to it and get out of the way to save ourselves a bruise or a tumble without recognizing what particular object it is. We react almost automatically to many stimuli; they have no meaning for us or are not definite individual objects. For an object is more than a mere thing; it is a thing having a definite significance. 
 
 The distinction we are making can be most readily understood if the reader will call to mind things and events
-that are strange to him and compare them with the same 
-things and events as they appear to persons having expert 
-**knowledge** of them; or if he will compare a thing or event 
-as it is before, with what it is after, he has obtained intellectual mastery over it. To a layman a particular body of water
-may signify only something to wash with or to drink; to 
-another person it may stand for a union of two chemical 
-elements, themselves not liquids but gases; or it may signify 
-something that should not be drunk because of danger of 
-typhoid fever. To a baby things are at first only patterns of 
-color and light, sources of sound; they acquire meaning only 
-as they become signs of possible, but not yet present and 
-actual, experiences. To the learned scientific man, the range 
-of meanings possessed by ordinary things is much widened. 
-A stone is not merely a stone; it is a stone of a given mineralogical type, from a particular geological stratum, etc. It
-tells him something about what happened millions of years 
-ago, and helps paint the picture of the earth’s history. 
+that are strange to him and compare them with the same things and events as they appear to persons having expert **[[knowledge]]** of them; or if he will compare a thing or event as it is before, with what it is after, he has obtained intellectual mastery over it. To a layman a particular body of watermay signify only something to wash with or to drink; to another person it may stand for a union of two chemical elements, themselves not liquids but gases; or it may signify something that should not be drunk because of danger of typhoid fever. To a baby things are at first only patterns of color and light, sources of sound; they acquire meaning only as they become signs of possible, but not yet present and actual, experiences. To the learned scientific man, the range of meanings possessed by ordinary things is much widened. A stone is not merely a stone; it is a stone of a given mineralogical type, from a particular geological stratum, etc. It tells him something about what happened millions of years ago, and helps paint the picture of the earth’s history. 
 
+## Control and Enriched Value 
 
-
-
-Control and Enriched Value 
-
-
-The first two values mentioned are of a practical sort; 
-they give increased power of control. The value just mentioned is an enrichment of meaning apart from added control
-—a certain event in the heavens cannot be warded off 
-just because we know it is an eclipse and how it is produced, 
-but it does have a significance for us that it did not have 
-before. We may not need to do any thinking now when some 
-event occurs, but if we have thought about it before, the 
-outcome of that thinking is funded as a directly added and 
-deepened meaning of the event. The great reward of exercising the power of thinking is that there are no limits to the
-possibility of carrying over into the objects and events of 
-life, meanings originally acquired by thoughtful examination, and hence no limit to the continual growth of meaning
-in human life. A child to-day may see meanings in things 
-that were hidden from Ptolemy and Copernicus because of 
-the results of reflective investigations that have occurred in 
-the meantime. 
+The first two values mentioned are of a practical sort; they give increased power of control. The value just mentioned is an enrichment of meaning apart from added control —a certain event in the heavens cannot be warded off just because we know it is an eclipse and how it is produced, but it does have a significance for us that it did not have before. We may not need to do any thinking now when some event occurs, but if we have thought about it before, the outcome of that thinking is funded as a directly added and deepened meaning of the event. The great reward of exercising the power of thinking is that there are no limits to thepossibility of carrying over into the objects and events of life, meanings originally acquired by thoughtful examination, and hence no limit to the continual growth of meaningin human life. A child to-day may see meanings in things 
+that were hidden from Ptolemy and Copernicus because of the results of reflective investigations that have occurred in the meantime. 
 
 Various values of the power of thought are summed up 
 in the following quotation from John Stuart Mill. 
 
 
-To draw inferences has been said to be the great business 
-of life. Every one has daily, hourly, and momentary need of 
-ascertaining facts which he has not directly observed: not 
-from any general purpose of adding to his stock of knowledge, 
-but because the facts themselves are of importance to his 
-interests or to his occupations. The business of the magistrate, 
-of the military commander, of the navigator, of the physician, 
-of the agriculturist, is merely to judge of **evidence** and to act 
-accordingly. . . . As they do this well or ill, so they discharge 
-well or ill the duties of their several callings. It 1s the only 
-occupation in which the mind never ceases to be engaged. 
+> To draw inferences has been said to be the great business of life. Every one has daily, hourly, and momentary need of ascertaining facts which he has not directly observed: not from any general purpose of adding to his stock of knowledge, but because the facts themselves are of importance to his interests or to his occupations. The business of the magistrate, of the military commander, of the navigator, of the physician, of the agriculturist, is merely to judge of **evidence** and to act accordingly. . . . As they do this well or ill, so they discharge well or ill the duties of their several callings. It 1s the only occupation in which the mind never ceases to be engaged. 
+>   -- Mill, System of Logic, Introduction, pg.5 
 
+## Two Reasons for Training Thought 
 
-1 Mill, System of Logic, Introduction, § 5. 
+These three values, in their cumulative effect, make the difference between a truly human and rational life and the existence lived by those animals that are immersed in sensation and appetite. Beyond a somewhat narrow limit, enforced by the necessities of life, the values that have been described do not, however, automatically realize themselves. For anything approaching their adequate realization, thought needs careful and attentive educational direction. Nor is that the whole story. Thinking may develop in positively wrong ways and lead to false and harmful beliefs.The need of systematic training would be less than it is if the only danger to be feared were lack of any development; the evil of the wrong kind of development is even greater brings out the importance of thought for life and the need of training so that its best and not its worst possibilities will be realized, in the following words: 
 
+> No man ever sets himself about anything but upon some view or other, which serves him for a reason for what he does; and whatsoever faculties he employs, the understanding with such light as it has, well or ill informed, constantly leads; and by that light, true or false, all his operative powers are directed. Temples have their sacred images, and we see what influence they have always had over a great part of mankind. But in truth the ideas and images in men’s minds are the invisible. powers that constantly govern them, and to these they all, universally, pay a ready submission. It is therefore of the highest concernment that great care should be taken of the understanding, to conduct it aright in the search of knowledge and in judgments it makes? 
+>   -- 2 Locke, The Conduct of the Understanding, first paragraph. 
 
-22 HOW Wiki ft Brae 
-
-
-Two Reasons for Training Thought 
-
-
-These three values, in their cumulative effect, make the 
-difference between a truly human and rational life and the 
-existence lived by those animals that are immersed in sensation and appetite. Beyond a somewhat narrow limit, en-
-forced by the necessities of life, the values that have been 
-described do not, however, automatically realize themselves. For anything approaching their adequate realization,
-thought needs careful and attentive educational direction. 
-Nor is that the whole story. Thinking may develop in positively wrong ways and lead to false and harmful beliefs.
-The need of systematic training would be less than it is 
-if the only danger to be feared were lack of any development; the evil of the wrong kind of development is even
-greater. 
-
-brings out the importance of thought for life and the need 
-of training so that its best and not its worst possibilities will 
-be realized, in the following words: 
-
-
-No man ever sets himself about anything but upon some 
-view or other, which serves him for a reason for what he does; 
-and whatsoever faculties he employs, the understanding with 
-such light as it has, well or ill informed, constantly leads; and 
-by that light, true or false, all his operative powers are directed. 
-. .. Temples have their sacred images, and we see what influence they have always had over a great part of mankind.
-But in truth the ideas and images in men’s minds are the invisible. powers that constantly govern them, and to these they
-all, universally, pay a ready submission. It is therefore of the 
-highest concernment that great care should be taken of the 
-understanding, to conduct it aright in the search of knowledge 
-and in judgments it makes.? 
-
-
-2 Locke, The Conduct of the Understanding, first paragraph. 
-
-
-
-
-While the power of thought, then, frees us from servile 
-subjection to instinct, appetite, and routine, it also brings 
-with it the occasion and possibility of error and mistake. In 
-elevating us above the brute, it opens the possibility of failures to which the animal, limited to instinct, cannot sink.
-
-
+While the power of thought, then, frees us from servile subjection to instinct, appetite, and routine, it also brings with it the occasion and possibility of error and mistake. In elevating us above the brute, it opens the possibility of failures to which the animal, limited to instinct, cannot sink.
 
 ### II. Tenpencies Needing Constant Regulation
 
+## Physical and Social Sanctions of Correct Thinking 
+
+Up to a certain point, the necessities of life enforce a fundamental and persistent **discipline** of thought for which the most cunningly devised artifices would be ineffective substitutes. The burnt child dreads the fire; a painful consequence emphasizes the need of correct [[Inference|inference]] much more than would learned discourses on the properties of heat. Social conditions also put a premium on correct inference in matters where action based on valid thought is socially important. These sanctions of proper thinking may affect life itself, or at least a life reasonably free from perpetual discomfort. The signs of enemies, of shelter, of food, of the main social conditions, have to be correctly apprehended.
+
+But this disciplinary training, efficacious as it is within certain limits, does not carry us far. **Logical** attainment in one direction is no bar to extravagant conclusions in another. A savage who is expert in judging the movements and location of the animals that he hunts will accept and gravely narrate the most preposterous yarns concerning the origin of their habits and peculiarities of structure. When there is no direct appreciable reaction of the inference upon the security and prosperity of life, there are no natural 
+checks to the acceptance of wrong beliefs. Conclusions may be accepted merely because the suggestions are vivid and interesting, while a large accumulation of dependable **data** may fail to suggest a proper conclusion because of opposition from existing customs. Then there is a ‘ primitive cre-dulity,’ a natural tendency to believe anything that is suggested unless there is overpowering evidence to the contrary. It sometimes seems, upon surveying the history ofthought, that men exhausted pretty much all wrong forms of **belief** before they hit upon the right conceptions. The history of scientific beliefs also shows that when a wrong theory once gets general acceptance, men will expend ingenuity of thought in buttressing it with additional errorsrather than surrender it and start in a new direction: witness for example the elaborate pains taken to preserve the Ptolemaic theory of the solar system. Even to-day correct beliefs about the constitution of nature are held by the great multitude merely because they are current and popular rather than because the multitude understands the reasons upon which they rest. 
+
+## Superstition Is as Natural as Science 
+
+As to the mere function of **suggestion**, there is no difference between the power of a column of mercury to portend rain and that of the entrails of an animal or the flight of birds to foretell the fortunes of war. For all anybody can tell in advance, the spilling of salt is as likely to import bad luck as the bite of a mosquito to import malaria. Only systematic regulation of the conditions under which observations are made and severe discipline of the habits of entertaining suggestions can secure a decision that one type of belief is vicious and the other sound. The substitution of scientific for superstitious habits of inference has not been brought about by any improvement in the acuteness of the senses or in the natural workings of the function of suggestion. It is the result of regulation of the conditions under which [[Observation|observation]] and inference take place. When such regulation is absent, dreams, the position of stars, the lines of the hand, are regarded as valuable signs, and the fall of cards as an inevitable omen, while natural events of the most crucial significance go disregarded. Hence behefs in portents of various kinds, now mere nook-and-cranny superstitions, were once universal. A long discipline in exact science was required for their conquest. 
+
+## The General Causes of Bad Thinking: Bacon’s “Idols” 
+
+It is instructive to note some of the attempts that have been made to classify the main sources of error in reaching beliefs. Francis Bacon, for example, at the beginning of modern scientific **inquiry**, enumerated four such classes, under the somewhat fantastic title of “idols” (Gr. eféwda, images), spectral forms that allure the mind into false paths. These he called the idols, or phantoms, of 
+
+(a) the tribe, 
+(b) the market place, 
+(c) the cave or den,
+(d) the theatre; or, less metaphorically, 
+
+(a) standing erroneous methods (or atleast temptations to error) that have theirroots in human nature generally, 
+(b) those that come from intercourse and language, 
+(c) those that are due to causes peculiar to a specific individual, and finally, 
+(d) those that have their sources in the fashion or general current of a period. 
+
+Classifying these causes of fallacious belief somewhat differently, we may say that two are intrinsic and two are extrinsic. Of the intrinsic, one is common to all men alike (such as the universal tendency to notice instances that corroborate a favorite belief more readily than those that contradict it), while the other resides in the specific temperament and habits of the given individual. Of the extrinsic, one proceeds from generic social conditions — like the tendency to suppose that there is a fact wherever there is a word, and no fact where there is no linguistic term — while the other proceeds from local and temporary social currents. 
+
+## Locke on Typical Forms of Wrong Belief 
+
+Locke’s method of dealing with typical forms of wrong belief is less formal and may be more enlightening. We can hardly do better than quote his forcible and quaint language, when, enumerating different classes of men, he shows different ways in which thought goes wrong: 
 
 
-Physical and Social Sanctions of Correct Thinking 
+(a) The first is of those who seldom reason at all, but do and think according to the example of others, whether parents, neighbors, ministers, or who else they are pleased to make choice of to have an implicit faith in, for the saving of themselves the pains and troubles of thinking and examining for themselves. 
 
+(b) This kind is of those who put passion in the place of reason, and being resolved that shall govern their actions and arguments, neither use their own, nor hearken to other people’s reason, any farther than it suits their humor, interest, or party.
 
-Up to a certain point, the necessities of life enforce a 
-fundamental and persistent **discipline** of thought for which 
-the most cunningly devised artifices would be ineffective 
-substitutes. The burnt child dreads the fire; a painful consequence emphasizes the need of correct [[Inference|inference]] much
-more than would learned discourses on the properties of 
-heat. Social conditions also put a premium on correct inference in matters where action based on valid thought is
-socially important. These sanctions of proper thinking may 
-affect life itself, or at least a life reasonably free from perpetual discomfort. The signs of enemies, of shelter, of food,
-of the main social conditions, have to be correctly apprehended.
+(c) The third sort is of those who readily and sincerely follow reason, but for want of having that which one may call large, sound, roundabout sense, have not a full view of all that relates to the question. . . . 
 
-But this disciplinary training, efficacious as it is within 
-certain limits, does not carry us far. **Logical** attainment in 
-one direction is no bar to extravagant conclusions in another. A savage who is expert in judging the movements and
-location of the animals that he hunts will accept and 
-gravely narrate the most preposterous yarns concerning the 
-origin of their habits and peculiarities of structure. When 
-there is no direct appreciable reaction of the inference 
-upon the security and prosperity of life, there are no natural 
-checks to the acceptance of wrong beliefs. Conclusions may 
-be accepted merely because the suggestions are vivid and 
-
-
-
-
-interesting, while a large accumulation of dependable **data** 
-may fail to suggest a proper conclusion because of opposition from existing customs. Then there is a ‘ primitive cre-
-dulity,’ a natural tendency to believe anything that is 
-suggested unless there is overpowering evidence to the contrary. It sometimes seems, upon surveying the history of
-thought, that men exhausted pretty much all wrong forms 
-of **belief** before they hit upon the right conceptions. The 
-history of scientific beliefs also shows that when a wrong 
-theory once gets general acceptance, men will expend ingenuity of thought in buttressing it with additional errors
-rather than surrender it and start in a new direction: witness for example the elaborate pains taken to preserve the
-Ptolemaic theory of the solar system. Even to-day correct 
-beliefs about the constitution of nature are held by the great 
-multitude merely because they are current and popular 
-rather than because the multitude understands the reasons 
-upon which they rest. 
-
-
-Superstition Is as Natural as Science 
-
-
-As to the mere function of **suggestion**, there is no difference between the power of a column of mercury to portend
-rain and that of the entrails of an animal or the flight of 
-birds to foretell the fortunes of war. For all anybody can 
-tell in advance, the spilling of salt is as likely to import 
-bad luck as the bite of a mosquito to import malaria. Only 
-systematic regulation of the conditions under which observations are made and severe discipline of the habits of
-entertaining suggestions can secure a decision that one 
-type of belief is vicious and the other sound. The substitution of scientific for superstitious habits of inference has
-not been brought about by any improvement in the acuteness of the senses or in the natural workings of the function
-of suggestion. It is the result of regulation of the conditions 
-
-
-
-
-under which [[Observation|observation]] and inference take place. When 
-such regulation is absent, dreams, the position of stars, the 
-lines of the hand, are regarded as valuable signs, and the 
-fall of cards as an inevitable omen, while natural events 
-of the most crucial significance go disregarded. Hence behefs in portents of various kinds, now mere nook-and-cranny
-superstitions, were once universal. A long discipline in exact 
-science was required for their conquest. 
-
-
-The General Causes of Bad Thinking: Bacon’s “Idols” 
-
-
-It is instructive to note some of the attempts that have 
-been made to classify the main sources of error in reaching 
-beliefs. Francis Bacon, for example, at the beginning of 
-modern scientific **inquiry**, enumerated four such classes, 
-under the somewhat fantastic title of “idols” (Gr. eféwda, 
-images), spectral forms that allure the mind into false 
-paths. These he called the idols, or phantoms, of (a) the 
-tribe, (b) the market place, (c) the cave or den, and (d) 
-the theatre; or, less metaphorically, (a) standing erroneous methods (or at least temptations to error) that have their
-roots in human nature generally, (b) those that come from 
-intercourse and language, (c) those that are due to causes 
-peculiar to a specific individual, and finally, (d) those 
-that have their sources in the fashion or general current 
-of a period. Classifying these causes of fallacious belief 
-somewhat differently, we may say that two are intrinsic 
-and two are extrinsic. Of the intrinsic, one is common to 
-all men alike (such as the universal tendency to notice 
-instances that corroborate a favorite belief more readily 
-than those that contradict it), while the other resides in 
-the specific temperament and habits of the given individual. 
-Of the extrinsic, one proceeds from generic social conditions — like the tendency to suppose that there is a fact
-wherever there is a word, and no fact where there is no 
-
-
-
-
-linguistic term — while the other proceeds from local and 
-temporary social currents. 
-
-
-Locke on Typical Forms of Wrong Belief 
-
-
-Locke’s method of dealing with typical forms of wrong 
-belief is less formal and may be more enlightening. We 
-can hardly do better than quote his forcible and quaint 
-language, when, enumerating different classes of men, he 
-shows different ways in which thought goes wrong: 
-
-
-(a) The first is of those who seldom reason at all, but do 
-and think according to the example of others, whether parents, 
-neighbors, ministers, or who else they are pleased to make 
-choice of to have an implicit faith in, for the saving of themselves the pains and troubles of thinking and examining for
-themselves. 
-
-(b) This kind is of those who put passion in the place of 
-reason, and being resolved that shall govern their actions and 
-arguments, neither use their own, nor hearken to other people’s 
-reason, any farther than it suits their humor, interest, or 
-party.® 
-
-(c) The third sort is of those who readily and sincerely 
-follow reason, but for want of having that which one may 
-call large, sound, roundabout sense, have not a full view of 
-all that relates to the question. . . . They converse but with 
-one sort of men, they read but one sort of books, they will not 
-come in the hearing but of one sort of notions. . . . They 
-have a pretty traffic with known correspondents in some little 
-creek . . . but will not venture out into the great ocean of 
-knowledge. [Men of originally equal natural parts may finally . 
-
-
-3 In another place Locke says: “ Men’s prejudices and inclinations 
-impose often upon themselves. . . . Inclination suggests and slides 
-into discourse favorable terms, which introduce favorable ideas; till 
-at last by this means that is concluded clear and evident, thus dressed 
-up, which, taken in its native state, by making use of none but precise 
-determined ideas, would find no admittance at all.” 
-
-
-
-
-arrive at very different stores of knowledge and truth] when 
-all the odds between them has been the different scope that 
-
-» has been given to their understandings to range in, for the 
-gathering up of information and furnishing their heads with 
-ideas and notions and observations, whereon to employ their 
-mind.4 
-
+They converse but with one sort of men, they read but one sort of books, they will not come in the hearing but of one sort of notions. . . . They have a pretty traffic with known correspondents in some little 
+creek . . . but will not venture out into the great ocean of knowledge. Men of originally equal natural parts may finally . In another place Locke says: “ Men’s prejudices and inclinations impose often upon themselves. . . . Inclination suggests and slides into discourse favorable terms, which introduce favorable ideas; till 
+at last by this means that is concluded clear and evident, thus dressed up, which, taken in its native state, by making use of none but precise determined ideas, would find no admittance at all.” arrive at very different stores of knowledge and truth] when all the odds between them has been the different scope that » has been given to their understandings to range in, for the gathering up of information and furnishing their heads with ideas and notions and observations, whereon to employ their 
+mind.
 
 In another portion of his writings,® Locke states the same 
 ideas in slightly different form. 
 
 
-1. That which is inconsistent with our principles is so far 
-from passing for probable with us that it will not be allowed 
-possible. The reverence borne to these principles is so great, 
-and their authority so paramount to all other, that the testimony, not only of other men, but the evidence of our own
-senses are often rejected, when they offer to vouch anything 
-contrary to these established rules. . . . There is nothing more 
-ordinary than children’s receiving into their minds propositions . . . from their parents, nurses, or those about them;
-which being insinuated in their unwary as well as unbiased 
-understandings, and fastened by degrees, are at last (and this 
-whether true or false) riveted there by long custom and education, beyond all possibility of being pulled out again. For
-men, when they are grown up, reflecting upon their opinions 
-and finding those of this sort to be as ancient in their minds 
-as their very memories, not having observed their early insinuation, nor by what means they got them, they are apt to
-reverence them as sacred things, and not to suffer them to be 
-profaned, touched, or questioned. [They take them as standards] to be the great and unerring deciders of truth and false-
-hood, and the judges to which they are to appeal in all manner 
-of controversies. 
+1. That which is inconsistent with our principles is so far from passing for probable with us that it will not be allowed possible. The reverence borne to these principles is so great, and their authority so paramount to all other, that the testimony, not only of other men, but the evidence of our ownsenses are often rejected, when they offer to vouch anything contrary to these established rules. . . . There is nothing more ordinary than children’s receiving into their minds propositions . . . from their parents, nurses, or those about them;which being insinuated in their unwary as well as unbiased understandings, and fastened by degrees, are at last (and this whether true or false) riveted there by long custom and education, beyond all possibility of being pulled out again. For men, when they are grown up, reflecting upon their opinions and finding those of this sort to be as ancient in their minds as their very memories, not having observed their early insinuation, nor by what means they got them, they are apt to reverence them as sacred things, and not to suffer them to be profaned, touched, or questioned. [They take them as standards] to be the great and unerring deciders of truth and falsehood, and the judges to which they are to appeal in all manner of controversies. 
+2. Secondly, next to these are men whose understandings are cast into a mold, and fashioned just to the size of a received [[Hypothesis|hypothesis]]. Such men, while not denying the existence of facts Wrong Assent or Error.” and evidence, cannot be convinced even by the evidence that would decide them if their minds were not so closed by adherence to fixed belief.]
+3. Predominant Passions. Thirdly, probabilities which cross men’s appetites and prevailing passions run the same fate. Let ever so much probability hang on one side of a covetous man’s **reasoning**, and money on the other, it is easy to foresee which will outweigh. Earthly minds, like mud walls, resistthe strongest batteries. 
+4. Authority. The fourth and last wrong measure of probability I shall take notice of, and which keeps in ignorance orerror more people than all the others together, is the giving up our assent tu the common received opinions, either of our friends or party, neighborhood or country. 
 
-1. Secondly, next to these are men whose understandings are 
-cast into a mold, and fashioned just to the size of a received 
-[[Hypothesis|hypothesis]]. [Such men, while not denying the existence of facts 
+## Importance of Attitudes 
 
+We have quoted from influential thinkers of the past. But the facts to which they refer are familiar in our everyday experience. Any observant person can note any day, both in himself and in others, the tendency to believe that which is in harmony with desire. We take that to be true which we should like to have so, and ideas that go contrary to our hopes and wishes have difficulty in getting lodgment. We all jump to conclusions; we all fail to examine and test our ideas because of our personal attitudes. When we generalize, we tend to make sweeping assertions; that is, from one or only a few facts we make a generalization covering a wide field. Observation also reveals the powerful influence wielded by social influences that have actually nothing to do with the truth or falsity of what is asserted and denied. Some of the dispositions that give these irrelevant influences power to limit and mislead thought are good in themselves, a fact that renders the need of training the more important. Reverence for parents and regard for those placed in authority are in the abstract surely valuable traits. 
 
-4 The Conduct of the Understanding, § 3. 
-5 Essay Concerning Human Understanding, Bk. IV, Ch. XX, “ Of 
+Yet, as Locke points out, they are among the chief forces that determine beliefs apart from and even contrary to the operations of intelligent thought. The desire to be in harmony with others is in itself a desirable trait. But it maylead a person too readily to fall in with the prejudices of others and may weaken his independence of [[Judgment|judgment]]. It even leads to an extreme partisanship that regards it as disloyal to questionthe beliefs of a group to which one belongs. Because of the importance of attitudes, ability to train thought is not achieved merely by knowledge of the best forms of thought. Possession of this information is no guarantee for ability to think well. Moreover, there are no set exercises in correct thinking whose repeated performance will cause one to be a good thinker. The information and the exercises are both of value. But no individual realizes their value except as he is personally animated by certain dominant attitudes in his own character. It was once almost universally believed that the mind had faculties, like memory and attention, that could be developed by repeated ex-ercise, as gymnastic exercises are supposed to develop the muscles. This belief is now generally discredited in the large sense in which it was once held. Similarly it is highly 
+questionable whether the practice of thinking in accordance with some logical formula results in creation of a general **habit** of thinking; namely, one applicable over a wide range of subjects. It is a matter of common notice that men who are expert thinkers in their own special fields adopt views on other matters without doing the inquiring that they know to be necessary for substantiating simpler facts that fall within their own specialities. 
 
+## The Union of Attitude and Skilled Method 
 
-Wrong Assent or Error.” 
+What can be done, however, is to cultivate those attitudes that are favorable to the use of the best methods of [[inquiry]] and **[[testing]]**. Knowledge of the methods alone will not suffice; there must be the desire, the will, to employ them. This desire is an affair of personal disposition. But on the other hand the disposition alone will not suffice. There must also be understanding of the forms and techniques that are the channels through which these attitudes operate to the best advantage. Since these forms and techniques will be taken up for discussion later, we shall here mention the attitudes that need to be cultivated in order to secure their adoption and use. 
 
+1. [[Open-Mindedness|Open-mindedness]]. This attitude may be defined as freedom from prejudice, partisanship, and such other habits as close the mind and make it unwilling to consider newproblems and entertain new ideas. But it is something more active and positive than these words suggest. It is very different from empty-mindedness. While it is hospitality to newthemes, facts, ideas, questions, it is not the kind of hospitality that would be indicated by hanging out a sign: ‘‘ Comeright in; there is nobody at home.” It includes an active desire to listen to more sides than one; to give heed to facts from whatever source they come; to give full attention to alternative possibilities; to recognize the possibility of error even in the beliefs that are dearest to us. Mental sluggishness is one great factor in closing the mind to new ideas.The path of least resistance and least trouble is a mental rut already made. It requires troublesome work to undertake the alteration of old beliefs. Self-conceit often regards it as a sign of weakness to admit that a belief to which we have once committed ourselves is wrong. We get so identified with an idea that it is literally a ‘ pet’ notion and werise to its defense and stop our mental eyes and ears to anything different. Unconscious fears also drive us into purelydefensive attitudes that operate like a coat of armor not only to shut out new conceptions but even to prevent us from making a new observation. The cumulative effect of these forces is to shut in the mind, and to create a withdrawal from new intellectual contacts that are needed for learning. They can best be fought by cultivating that alert curiosity and spontaneous outreaching for the new which is the essence of the open mind. The mind that is open merely in the sense that it passively permits things to trickle in and through will not be able to resist the factors that make for mental closure. 
 
-and evidence, cannot be convinced even by the evidence that 
-would decide them if their minds were not so closed by adherence to fixed belief.]
+2. **Whole-heartedness**. When anyone is thoroughly interested in some object and cause, he throws himself into it; he does so, as we say, ‘heartily,’ or with a whole heart. The importance of this attitude or disposition is generally recognized in practical and moral affairs. But it is equally important in intellectual development. There is no greater enemy of effective thinking than divided interest. This division unfortunately is often produced in school. A pupil givesan external, perfunctory attention to the teacher and to his book and lesson while his inmost thoughts are concerned with matters more attractive to him. He pays attention with ear or eye, but his brain is occupied with affairs that make an immediate appeal. He feels obliged to study because he has to recite, to pass an examination, to make a grade, or because he wishes to please his teacher or his parents. But the material does not hold him by its own power. His approach is not straightforward and single-minded. This pointmay in some cases seem trivial. But in others it may be very serious. It then contributes to the formation of a general habit or attitude that is most unfavorable to good thinking. When a person is absorbed, the subject carries him on. Questions occur to him spontaneously; a flood of suggestions pour in on him; further inquiries and readings are indicated and followed; instead of having to use his energy to hold his mind to the subject (thereby lessening that which is available for the subject, itself, and creating a divided state of mind), the material holds and buoys his mind up and gives an onward impetus to thinking. A genuine enthusiasm is an attitude that operates as an intellec-tual force. A teacher who arouses such an enthusiasm in his pupils has done something that no amount of formalized method, no matter how correct, can accomplish. 
 
-3. Predominant Passions. Thirdly, probabilities which cross 
-men’s appetites and prevailing passions run the same fate. 
-Let ever so much probability hang on one side of a covetous 
-man’s **reasoning**, and money on the other, it is easy to foresee which will outweigh. Earthly minds, like mud walls, resist
-the strongest batteries. 
+3. **Responsibility**. Like sincerity or whole-heartedness, responsibility is usually conceived as a moral trait rather than as an intellectual resource. But it is an attitude that is necessary to win the adequate support of desire for new points of view and new ideas and of enthusiasm for and capacity for absorption in [[Subject Matter|subject matter]]. These gifts may run wild, or at least they may lead the mind to spread out too far. They do not of themselves ensure that centralization, that unity, which is essential to good thinking. To be intellectually responsible is to consider the consequences of a projected step; it means to be willing to adopt these consequences when they follow reasonably from any position already taken. Intellectual responsibility secures integrity; that is to say, consistency and harmony in belief. It is not uncommon to see persons continue to accept beliefs whose logical consequences they refuse to acknowledge. They profess certain beliefs but are unwilling to commit themselves to the consequences that flow from them. The result is mental confusion. The ‘split’ inevitably reacts upon the mind to blur its insight and weaken its firmness of grasp; no one can use two inconsistent mental standards without losing some of his mental grip. When pupils study subjects that are too remote from their experience, that arouse no active [[Curiosity|curiosity]], and that are beyond their power of understanding, they begin to use a measure of value and of reality for school subjects different from the measure they employ for affairs of life that make a vital appeal. They tend to become intellectually irresponsible; they do not ask for the meaning of what they learn, in the sense of what difference it makes to the rest of their beliefs and to their actions. 
 
-4. Authority. The fourth and last wrong measure of probability I shall take notice of, and which keeps in ignorance or
-error more people than all the others together, is the giving up 
-our assent tu the common received opinions, either of our 
-friends or party, neighborhood or country. 
+The same thing happens when such a multitude of subjects or disconnected facts is forced upon the mind that the student does not have time and opportunity to weigh their meaning. He fancies he is accepting them, is believing them, when in fact his belief is of a totally different kind and implies a different measure of reality from that which operates in his life and action out of school. He then becomes mentally mixed; mixed not only about particularthings but also about the basic reasons that make things worthy of belief. Fewer subjects and fewer facts and more responsibility for thinking the material of those subjects and facts through to realize what they involve would give better results. To carry something through to completion is the real meaning of thoroughness, and power to carry a thing through to its end or conclusion is dependent upon the existence of the attitude of intellectual responsibility. 
 
+## The Bearing of These Personal Attitudes upon Readiness to Think 
 
-Importance of Attitudes 
+The three attitudes that have been mentioned, openmindedness, whole-hearted or absorbed interest, responsi-bility in facing consequences, are of themselves personal qualities, traits of character. They are not the only attitudes that are important in order that the habit of thinkingin a reflective way may be developed. But the other attitudes that might be set forth are also traits of character,attitudes that, in the proper sense of the word, are moral, since they are traits of personal character that have to be cultivated. Any person thinks at times on particular subjects that arouse him. Other persons have habits of thinking quite persistently in special fields of interest; on matters, for example, that are their professional concern. A thoroughgoing habit of thinking is, however, more extended in its scope. No one can think about everything, to be sure; no one can think about anything without experience and information about it. Nevertheless, there is such a thing as readiness to consider in a thoughtful way the subjects that do come within the range of experience — a readiness that contrasts strongly with the disposition to pass judgment on the basis of mere custom, tradition, prejudice, etc., and thus shun the task of thinking. The personal attitudes that have 
+been named are essential constituents of this general readiness. 
 
-
-We have quoted from influential thinkers of the past. But 
-the facts to which they refer are familiar in our everyday 
-experience. Any observant person can note any day, both in 
-himself and in others, the tendency to believe that which is 
-in harmony with desire. We take that to be true which we 
-should like to have so, and ideas that go contrary to our 
-hopes and wishes have difficulty in getting lodgment. We all 
-jump to conclusions; we all fail to examine and test our 
-ideas because of our personal attitudes. When we generalize, 
-we tend to make sweeping assertions; that is, from one 
-or only a few facts we make a generalization covering a 
-wide field. Observation also reveals the powerful influence 
-wielded by social influences that have actually nothing to 
-do with the truth or falsity of what is asserted and denied. 
-Some of the dispositions that give these irrelevant influences power to limit and mislead thought are good in them-
-selves, a fact that renders the need of training the more 
-important. Reverence for parents and regard for those 
-placed in authority are in the abstract surely valuable traits. 
-
-
-
-
-Yet, as Locke points out, they are among the chief forces 
-that determine beliefs apart from and even contrary to the 
-operations of intelligent thought. The desire to be in harmony with others is in itself a desirable trait. But it may
-lead a person too readily to fall in with the prejudices of 
-others and may weaken his independence of [[Judgment|judgment]]. It 
-even leads to an extreme partisanship that regards it as disloyal to question the beliefs of a group to which one belongs.
-
-Because of the importance of attitudes, ability to train 
-thought is not achieved merely by knowledge of the best 
-forms of thought. Possession of this information is no guarantee for ability to think well. Moreover, there are no set
-exercises in correct thinking whose repeated performance 
-will cause one to be a good thinker. The information and 
-the exercises are both of value. But no individual realizes 
-their value except as he is personally animated by certain 
-dominant attitudes in his own character. It was once almost 
-universally believed that the mind had faculties, like memory and attention, that could be developed by repeated ex-
-ercise, as gymnastic exercises are supposed to develop the 
-muscles. This belief is now generally discredited in the 
-large sense in which it was once held. Similarly it is highly 
-questionable whether the practice of thinking in accordance with some logical formula results in creation of a gen-
-eral **habit** of thinking; namely, one applicable over a wide 
-range of subjects. It is a matter of common notice that men 
-who are expert thinkers in their own special fields adopt 
-views on other matters without doing the inquiring that 
-they know to be necessary for substantiating simpler facts 
-that fall within their own specialities. 
-
-
-The Union of Attitude and Skilled Method 
-
-
-What can be done, however, is to cultivate those attitudes 
-that are favorable to the use of the best methods of in- 
-
-
-
-
-quiry and **testing**. Knowledge of the methods alone will 
-not suffice; there must be the desire, the will, to employ 
-them. This desire is an affair of personal disposition. But 
-on the other hand the disposition alone will not suffice. 
-There must also be understanding of the forms and techniques that are the channels through which these attitudes
-operate to the best advantage. Since these forms and techniques will be taken up for discussion later, we shall here
-mention the attitudes that need to be cultivated in order to 
-secure their adoption and use. 
-
-a. [[Open-Mindedness|Open-mindedness]]. This attitude may be defined as 
-freedom from prejudice, partisanship, and such other habits as close the mind and make it unwilling to consider new
-problems and entertain new ideas. But it is something more 
-active and positive than these words suggest. It is very different from empty-mindedness. While it is hospitality to new
-themes, facts, ideas, questions, it is not the kind of hospitality that would be indicated by hanging out a sign: ‘‘ Come
-right in; there is nobody at home.” It includes an active 
-desire to listen to more sides than one; to give heed to facts 
-from whatever source they come; to give full attention to 
-alternative possibilities; to recognize the possibility of error 
-even in the beliefs that are dearest to us. Mental sluggishness is one great factor in closing the mind to new ideas.
-The path of least resistance and least trouble is a mental rut 
-already made. It requires troublesome work to undertake 
-the alteration of old beliefs. Self-conceit often regards it 
-as a sign of weakness to admit that a belief to which we 
-have once committed ourselves is wrong. We get so identified with an idea that it is literally a ‘ pet’ notion and we
-rise to its defense and stop our mental eyes and ears to anything different. Unconscious fears also drive us into purely
-defensive attitudes that operate like a coat of armor not 
-only to shut out new conceptions but even to prevent us 
-
-
-
-
-from making a new observation. The cumulative effect of 
-these forces is to shut in the mind, and to create a withdrawal 
-from new intellectual contacts that are needed for learning. They can best be fought by cultivating that alert curi-
-osity and spontaneous outreaching for the new which is the 
-essence of the open mind. The mind that is open merely in 
-the sense that it passively permits things to trickle in and 
-through will not be able to resist the factors that make for 
-mental closure. 
-
-b. **Whole-heartedness**. When anyone is thoroughly interested in some object and cause, he throws himself into it;
-he does so, as we say, ‘heartily,’ or with a whole heart. 
-The importance of this attitude or disposition is generally 
-recognized in practical and moral affairs. But it is equally 
-important in intellectual development. There is no greater 
-enemy of effective thinking than divided interest. This division unfortunately is often produced in school. A pupil gives
-an external, perfunctory attention to the teacher and to his 
-book and lesson while his inmost thoughts are concerned 
-with matters more attractive to him. He pays attention with 
-ear or eye, but his brain is occupied with affairs that make 
-an immediate appeal. He feels obliged to study because he 
-has to recite, to pass an examination, to make a grade, or 
-because he wishes to please his teacher or his parents. But 
-the material does not hold him by its own power. His approach is not straightforward and single-minded. This point
-may in some cases seem trivial. But in others it may be 
-very serious. It then contributes to the formation of a general habit or attitude that is most unfavorable to good
-thinking. 
-
-When a person is absorbed, the subject carries him on. 
-Questions occur to him spontaneously; a flood of suggestions pour in on him; further inquiries and readings are in-
-dicated and followed; instead of having to use his energy 
-
-
-
-
-to hold his mind to the subject (thereby lessening that 
-which is available for the subject, itself, and creating a 
-divided state of mind), the material holds and buoys his 
-mind up and gives an onward impetus to thinking. A genuine enthusiasm is an attitude that operates as an intellec-
-tual force. A teacher who arouses such an enthusiasm in 
-his pupils has done something that no amount of formalized 
-method, no matter how correct, can accomplish. 
-
-c. **Responsibility**. Like sincerity or whole-heartedness, 
-responsibility is usually conceived as a moral trait rather 
-than as an intellectual resource. But it is an attitude that 
-is necessary to win the adequate support of desire for new 
-points of view and new ideas and of enthusiasm for and 
-capacity for absorption in [[Subject Matter|subject matter]]. These gifts may 
-run wild, or at least they may lead the mind to spread out 
-too far. They do not of themselves ensure that centralization, that unity, which is essential to good thinking. To be
-intellectually responsible is to consider the consequences 
-of a projected step; it means to be willing to adopt these 
-consequences when they follow reasonably from any position already taken. Intellectual responsibility secures in-
-tegrity; that is to say, consistency and harmony in belief. 
-It is not uncommon to see persons continue to accept beliefs 
-whose logical consequences they refuse to acknowledge. 
-They profess certain beliefs but are unwilling to commit 
-themselves to the consequences that flow from them. The 
-result is mental confusion. The ‘split’ inevitably reacts 
-upon the mind to blur its insight and weaken its firmness 
-of grasp; no one can use two inconsistent mental standards 
-without losing some of his mental grip. When pupils study 
-subjects that are too remote from their experience, that 
-arouse no active [[Curiosity|curiosity]], and that are beyond their power 
-of understanding, they begin to use a measure of value and 
-of reality for school subjects different from the measure 
-
-
-
-
-they employ for affairs of life that make a vital appeal. 
-They tend to become intellectually irresponsible; they do 
-not ask for the meaning of what they learn, in the sense of 
-what difference it makes to the rest of their beliefs and to 
-their actions. 
-
-The same thing happens when such a multitude of subjects or disconnected facts is forced upon the mind that
-the student does not have time and opportunity to weigh 
-their meaning. He fancies he is accepting them, is believing 
-them, when in fact his belief is of a totally different kind 
-and implies a different measure of reality from that which 
-operates in his life and action out of school. He then becomes mentally mixed; mixed not only about particular
-things but also about the basic reasons that make things 
-worthy of belief. Fewer subjects and fewer facts and more 
-responsibility for thinking the material of those subjects 
-and facts through to realize what they involve would give 
-better results. To carry something through to completion is 
-the real meaning of thoroughness, and power to carry a 
-thing through to its end or conclusion is dependent upon the 
-existence of the attitude of intellectual responsibility. 
-
-
-The Bearing of These Personal Attitudes upon Readiness 
-to Think 
-
-
-The three attitudes that have been mentioned, openmindedness, whole-hearted or absorbed interest, responsi-
-bility in facing consequences, are of themselves personal 
-qualities, traits of character. They are not the only attitudes that are important in order that the habit of thinking
-in a reflective way may be developed. But the other attitudes that might be set forth are also traits of character,
-attitudes that, in the proper sense of the word, are moral, 
-since they are traits of personal character that have to be 
-cultivated. Any person thinks at times on particular sub- 
-
-
-
-
-jects that arouse him. Other persons have habits of thinking quite persistently in special fields of interest; on mat-
-ters, for example, that are their professional concern. A 
-thoroughgoing habit of thinking is, however, more extended 
-in its scope. No one can think about everything, to be sure; 
-no one can think about anything without experience and 
-information about it. Nevertheless, there is such a thing as 
-readiness to consider in a thoughtful way the subjects that 
-do come within the range of experience — a readiness that 
-contrasts strongly with the disposition to pass judgment on 
-the basis of mere custom, tradition, prejudice, etc., and thus 
-shun the task of thinking. The personal attitudes that have 
-been named are essential constituents of this general 
-readiness. 
-
-If we were compelled to make a choice between these 
-personal attitudes and knowledge about the principles of 
-logical reasoning together with some degree of technical 
-skill in manipulating special logical processes, we should 
-decide for the former. Fortunately no such choice has to be 
-made, because there is no opposition between personal attitudes and logical processes. We only need to bear in mind
-that, with respect to the aims of education, no separation 
-can be made between impersonal, abstract principles of 
-logic and moral qualities of character. What is needed is to 
-weave them into unity. 
+If we were compelled to make a choice between these personal attitudes and knowledge about the principles of logical reasoning together with some degree of technical skill in manipulating special logical processes, we should decide for the former. Fortunately no such choice has to be made, because there is no opposition between personal attitudes and logical processes. We only need to bear in mindthat, with respect to the aims of education, no separation can be made between impersonal, abstract principles of logic and moral qualities of character. What is needed is to weave them into unity. 
 
 
 
