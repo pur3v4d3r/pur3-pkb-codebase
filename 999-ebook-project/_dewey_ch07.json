@@ -1,0 +1,101 @@
+{
+  "chapter": 7,
+  "title": "Analysis of Reflective Thinking",
+  "abstract": "Dewey dissects reflective thinking into five sequential-yet-flexible phases — suggestion, intellectualization, guiding hypothesis, reasoning, and testing — showing how facts (data) and ideas are the two indispensable, mutually correcting poles of all genuine inquiry.",
+  "overview": "Chapter Seven provides a structural anatomy of a complete act of reflection, moving from the pre-reflective state of perplexity to the post-reflective resolution of a unified situation. Dewey establishes that data and ideas are not independent but co-constitutive: raw facts are inert without a guiding idea, while ideas untethered to observation remain idle fantasy. The five phases he identifies are not a rigid algorithm but overlapping functional moments whose order, weight, and duration vary with the complexity of the problem.",
+  "callouts": [
+    {
+      "type": "quote",
+      "line_hint": "facts are dead unless used to suggest",
+      "quote": "Mere facts or data are dead, as far as mind is concerned, unless they are used to suggest and test some idea, some way out of a difficulty.",
+      "insight": "Dewey collapses the empiricist fantasy of self-evident data. Observation only becomes knowledge when organized by a guiding idea; the idea only becomes knowledge when tested against observation. This mutual dependency is the engine of all genuine inquiry."
+    },
+    {
+      "type": "quote",
+      "line_hint": "thought is conduct turned in upon itself",
+      "quote": "Thought is, as it were, conduct turned in upon itself and examining its purpose and its conditions, its resources, aids, and difficulties and obstacles.",
+      "insight": "This compact formulation captures Dewey's pragmatist commitment: thinking is not a separate faculty but action redirected inward under conditions of interruption."
+    },
+    {
+      "type": "quote",
+      "line_hint": "a question well put is half answered",
+      "quote": "As the saying truly goes, a question well put is half answered. In fact, we know what the problem exactly is simultaneously with finding a way out.",
+      "insight": "Dewey reveals that problem-definition is not a preliminary step but an achievement that matures in tandem with solution. Authentic learning requires students to participate in the intellectualization of their own perplexity."
+    },
+    {
+      "type": "quote",
+      "line_hint": "failure is not mere failure it is instructive",
+      "quote": "A great advantage of possession of the habit of reflective activity is that failure is not mere failure. It is instructive.",
+      "insight": "Dewey reframes error as evidential rather than terminal. For the trained thinker, a disconfirmed hypothesis narrows the problem space and suggests new observational priorities."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Intellectualization",
+      "definition": "The process by which a vaguely felt difficulty or emotional discomfort is converted into a clearly articulated intellectual problem through progressive observation of the conditions causing the blockage.",
+      "why_it_matters": "Without intellectualization, learners respond to trouble emotionally or randomly rather than analytically. Naming and bounding the problem is itself a cognitive achievement that disciplines subsequent inquiry.",
+      "modern_echo": "Design thinking's 'problem framing' phase and human-centered research's 'define' stage are direct institutional descendants of this concept."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Data-Idea Correlativity",
+      "definition": "The principle that facts (data) and suggestions (ideas) are mutually dependent poles of reflection — neither is epistemically prior; each continuously shapes and is shaped by the other throughout inquiry.",
+      "why_it_matters": "This correlativity dissolves the false choice between inductive empiricism and deductive rationalism. Both poles must be cultivated simultaneously.",
+      "modern_echo": "The iterative loop in modern scientific practice between hypothesis generation and experimental design operationalizes precisely this correlativity."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Working Hypothesis",
+      "definition": "A tentative, provisional supposition adopted not as a settled answer but as a guiding instrument that organizes observation, focuses attention, and remains open to revision in light of the evidence it helps gather.",
+      "why_it_matters": "Dewey's physician and mechanic examples show that expertise consists largely in holding ideas tentatively — committing enough to act but not so firmly as to ignore disconfirming evidence.",
+      "modern_echo": "Agile software development's concept of a 'spike' — a time-boxed experimental solution used to reduce uncertainty — mirrors the working-hypothesis structure precisely."
+    },
+    {
+      "type": "warning",
+      "misconception": "Reflective thinking follows a fixed five-step sequence that educators can teach as a procedure.",
+      "correction": "Dewey explicitly states the five phases 'do not follow one another in a set order'; they telescope, overlap, and vary in weight depending on problem complexity. The phases are functional descriptions, not a flowchart.",
+      "still_relevant": "Contemporary critical-thinking curricula that reduce inquiry to formulaic step-by-step protocols repeat exactly this error."
+    },
+    {
+      "type": "warning",
+      "misconception": "Quantitative measurement of educational outcomes is sufficient to establish scientific standing for those measurements.",
+      "correction": "Dewey argues that it is not the mere presence of measurements in quantitative form that yields scientific knowledge, but whether the mathematical statement can be developed by reasoning into more fruitful forms.",
+      "still_relevant": "The warning anticipates decades of critique of high-stakes standardized testing."
+    },
+    {
+      "type": "tip",
+      "principle": "Treat practical decisions as experimental where possible — study their consequences as evidence for improving future conduct.",
+      "in_practice": "Even when an action cannot be recalled, the reflective person gives alert attention to what they teach him about his conduct. Building structured post-action review into professional practice converts lived experience into deliberate expertise."
+    },
+    {
+      "type": "tip",
+      "principle": "When inquiry goes wrong, review the method by which the unwise decision was reached, not just the decision itself.",
+      "in_practice": "After students have worked through a problem, invite them to look back and identify which moves proved productive and which were detours. This metacognitive habit transforms failure into curriculum."
+    },
+    {
+      "type": "synthesis",
+      "central_argument": "Reflective thinking is a structured yet flexible dialectic between observed facts and generated ideas, organized across five mutually supporting functional phases, whose ultimate test is overt or imaginative action and whose ultimate product is a settled habit of mind oriented toward future inquiry.",
+      "logical_progression": [
+        "A perplexed situation arrests direct action and forces the mind inward, producing suggestions as vicarious rehearsals of conduct.",
+        "Suggestions are disciplined through intellectualization, elevation to working hypotheses, and elaboration through reasoning, with each phase feeding back to sharpen the others.",
+        "The cycle closes through overt or imaginative testing: confirmation strengthens the hypothesis into a habit; disconfirmation narrows the problem and initiates a new cycle."
+      ],
+      "bridge_to_next": "Having established what the five phases of reflective thought are, Dewey is positioned in Chapter 8 to examine judgment as the operative unit within reflective activity."
+    }
+  ],
+  "concepts": [
+    {"name": "Pre-reflective and Post-reflective Situations", "definition": "The two boundary states of any unit of thinking: the pre-reflective state is a troubled, confused situation; the post-reflective state is a resolved, unified situation in which doubt has been dispelled."},
+    {"name": "Suggestion", "definition": "The spontaneous, uncontrolled first movement of mind toward a possible solution — a vicarious anticipation of action that arises when direct conduct is interrupted."},
+    {"name": "Intellectualization", "definition": "The conversion of a vaguely felt emotional disturbance into a precisely articulated intellectual problem by identifying and locating the specific conditions responsible for the blockage."},
+    {"name": "Working Hypothesis", "definition": "A controlled, tentative supposition that guides further observation and reasoning without foreclosing inquiry."},
+    {"name": "Reasoning (Narrower Sense)", "definition": "The mental elaboration of an idea in relation to other ideas already known, extending the implications of a suggestion beyond what direct observation can supply."},
+    {"name": "Experimental Verification", "definition": "The final phase of reflection in which a hypothesis is tested by deliberately arranged conditions or overt action."}
+  ],
+  "connections": {
+    "builds_on": [{"chapter": 6, "reason": "Chapter 6 introduced three concrete cases and established the general claim that every unit of thinking moves from perplexity to resolution; Chapter 7 dissects that movement into five named functional phases."}],
+    "anticipates": [{"chapter": 8, "reason": "Having described the structure of reflective thinking analytically, Dewey must next address judgment as the operative sub-unit within that arc."}],
+    "contrasts_with": [
+      {"concept": "Rote or algorithmic problem-solving", "reason": "Dewey's five phases are explicitly non-algorithmic; they describe organic functional moments that vary with context, whereas algorithmic approaches presuppose the problem structure and solution procedure are already given."},
+      {"concept": "Pure empiricism (data as self-sufficient)", "reason": "Dewey directly refutes the view that accumulated observations yield knowledge on their own; 'mere facts are dead' without a guiding idea."}
+    ]
+  }
+}

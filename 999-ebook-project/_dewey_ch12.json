@@ -1,0 +1,83 @@
+{
+  "chapter": 12,
+  "title": "Systematic Method: Control of Reasoning and Concepts",
+  "abstract": "Dewey examines how scientific thinking controls the reasoning side of inquiry through the disciplined use of concepts, general principles, and formal operations, arguing that both premature fixation on abstract rules and uncritical immersion in concrete activity represent failures to achieve the genuine integration of logical form with experiential content.",
+  "overview": "Chapter Twelve complements the preceding treatment of evidential control by addressing the conceptual and reasoning side of inquiry. Dewey argues that genuine scientific thought requires not just careful observation but the disciplined deployment of general principles, definitions, and inferential operations. He identifies two characteristic educational failures: the bookish approach that begins with abstract rules and definitions, which students learn verbally without understanding; and the progressive approach that confuses busy activity with genuine experimentation. The chapter introduces the notion of 'playing with ideas' as a legitimate intellectual activity that lies between these extremes, and argues that reflection must always return to concrete verification if it is to be complete.",
+  "callouts": [
+    {
+      "type": "quote",
+      "line_hint": "Thinking must end as well as begin in the domain of concrete observations",
+      "quote": "Thinking, in short, must end as well as begin in the domain of concrete observations if it is to be complete thinking.",
+      "insight": "This sentence expresses Dewey's empiricist commitment in its sharpest form. Thought that begins in concrete perplexity but terminates in abstract principle without looping back to verify against experience remains incomplete — a logical exercise, not a resolved inquiry."
+    },
+    {
+      "type": "quote",
+      "line_hint": "playing with ideas is not mere play",
+      "quote": "There is such a thing as playing with ideas — a freewheeling exploration of conceptual possibilities that, while not yet constituting proof, enlarges the intellectual space within which genuine inquiry moves.",
+      "insight": "Dewey here rehabilitates speculative thought against both the strict empiricist who demands immediate verification and the formalist who demands deductive rigor. Imaginative exploration of implications is a necessary phase of inquiry, not an evasion of it."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Systematic Concepts",
+      "definition": "Concepts that have been refined through sustained inquiry and organized into coherent theoretical frameworks, such that using one concept automatically invokes a network of related definitions, principles, and inferential rules.",
+      "why_it_matters": "Systematic concepts are the tools of scientific thought: they extend what any individual observation can yield by connecting it to a web of established relationships. Students who lack them cannot think scientifically regardless of how many observations they make.",
+      "modern_echo": "Cognitive science distinguishes between novice and expert knowledge structures precisely in terms of systematicity: experts' concepts are richly interconnected; novices' concepts are isolated and context-bound."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Playing with Ideas",
+      "definition": "A phase of inquiry in which the thinker freely explores the implications and ramifications of a hypothesis without yet committing to verification, enlarging the conceptual space from which more specific hypotheses can be drawn.",
+      "why_it_matters": "Intellectual play is the incubation phase of inquiry — it prevents premature closure and generates the range of alternative hypotheses that makes subsequent testing genuinely discriminating.",
+      "modern_echo": "Design thinking's 'diverge before converge' principle operationalizes this same insight: generative exploration must precede evaluative selection."
+    },
+    {
+      "type": "concept",
+      "concept_name": "Net Summary",
+      "definition": "Dewey's term for the recapitulating synthesis that follows a completed inquiry — a compact statement of what has been learned that can serve as the stable conceptual deposit available for future inquiries.",
+      "why_it_matters": "Without explicit net summaries, even genuine inquiry fails to produce transferable knowledge. The net summary is the mechanism by which an inquiry's outcome becomes a resource for subsequent thought.",
+      "modern_echo": "The 'consolidation' phase in learning cycle models (Kolb, Gibbs) serves this same function of crystallizing experience into generalizable principle."
+    },
+    {
+      "type": "warning",
+      "misconception": "Instruction in reasoning should begin with definitions, rules, and general principles, which students then apply to examples.",
+      "correction": "Dewey argues that verbal acquisition of definitions without prior experiential grounding produces only the illusion of understanding. Rules and principles have meaning only for someone who has encountered the situations they govern; starting with the rule guarantees the student will be unable to recognize those situations.",
+      "still_relevant": "Textbooks in every discipline still introduce formal definitions before students encounter the phenomena the definitions describe, inverting the productive pedagogical sequence."
+    },
+    {
+      "type": "warning",
+      "misconception": "Progressive schools that emphasize hands-on projects automatically develop students' reasoning capacities because students are actively engaged.",
+      "correction": "Activity is necessary but not sufficient. Unless projects include explicit phases of conceptual analysis — asking 'what does this mean?' and 'what principle explains this?' — the activity produces skill without understanding and engagement without intellectual deposit.",
+      "still_relevant": "Project-based learning programs evaluated solely on engagement or product quality without assessing conceptual development risk producing capable makers who cannot explain what they made or why it works."
+    },
+    {
+      "type": "tip",
+      "principle": "Structure inquiry to include an explicit 'playing with ideas' phase between initial hypothesis and formal verification.",
+      "in_practice": "After students have formed an initial hypothesis, ask them to brainstorm: 'What else would have to be true if this hypothesis is correct? What competing explanations are possible? What would distinguish between them?' This generative phase produces more discriminating tests and deeper conceptual understanding."
+    },
+    {
+      "type": "synthesis",
+      "central_argument": "Complete scientific thinking requires disciplined control of both the observational and the reasoning poles of inquiry: systematic concepts provide the theoretical framework, playful exploration of implications expands the hypothesis space, and a return to concrete verification closes the inferential cycle.",
+      "logical_progression": [
+        "Systematic concepts — organized into networks of definitions, principles, and inferential rules — extend what observation alone can yield by connecting each datum to a web of established relationships.",
+        "Intellectual play — free exploration of a hypothesis's implications — is a legitimate and necessary phase of inquiry that prevents premature closure and generates the range of alternatives that makes subsequent testing genuinely discriminating.",
+        "Complete thinking always returns to concrete verification: reasoning that never terminates in observable consequences remains logically valid but epistemically empty."
+      ],
+      "bridge_to_next": "With the two sides of systematic method — evidential and conceptual control — now analyzed, Chapter Thirteen zooms out to contrast the empirical mode of thinking with the fully scientific one, showing how science transforms everyday experience into a more comprehensive and reliable form of knowledge."
+    }
+  ],
+  "concepts": [
+    {"name": "Systematic Concepts", "definition": "Concepts organized into theoretical frameworks such that deploying one automatically invokes a network of related definitions, principles, and inferential rules."},
+    {"name": "Playing with Ideas", "definition": "A phase of inquiry involving free exploration of a hypothesis's implications, expanding the conceptual space before formal verification begins."},
+    {"name": "Net Summary", "definition": "A recapitulating synthesis that crystallizes a completed inquiry's findings into a compact, transferable statement available for future thought."},
+    {"name": "Experimental Verification", "definition": "The return of completed reasoning to concrete observation, testing whether the logical implications of a hypothesis are borne out by observable consequences."},
+    {"name": "Intellectual Deposit of Activity", "definition": "The definite, generalizable understanding that purposive activity must leave behind to be genuinely educative rather than merely engaging."}
+  ],
+  "connections": {
+    "builds_on": [{"chapter": 11, "reason": "Chapter Eleven controlled the evidential side of inquiry through hypothesis-guided observation; Chapter Twelve addresses the complementary control of reasoning through systematic concepts and disciplined inferential operations."}],
+    "anticipates": [{"chapter": 13, "reason": "Having analyzed the two dimensions of systematic method, Dewey is positioned to contrast empirical thinking — which solves practical problems without full theoretical systematization — with the scientific thinking that Chapter Thirteen examines."}],
+    "contrasts_with": [
+      {"concept": "Verbal Instruction (Definition-First Pedagogy)", "reason": "Teaching reasoning by beginning with formal definitions reverses the productive sequence; definitions must crown experience, not precede it."},
+      {"concept": "Activity Without Reflection", "reason": "Projects that produce skills without conceptual understanding fail to achieve the intellectual deposit that justifies educative activity."}
+    ]
+  }
+}
