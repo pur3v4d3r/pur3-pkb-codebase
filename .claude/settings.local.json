@@ -21,7 +21,8 @@
       "Bash(if not exist \"D:\\\\10_pur3v4d3r''s-vault\\\\01-research-data-analysis\" mkdir \"D:\\\\10_pur3v4d3r''s-vault\\\\01-research-data-analysis\")",
       "Bash(wc:*)",
       "Bash(find:*)",
-      "Bash(du:*)"
+      "Bash(du:*)",
+      "Bash(pip install:*)"
     ]
   }
 }

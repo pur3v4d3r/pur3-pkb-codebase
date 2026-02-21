@@ -1,0 +1,661 @@
+{
+  "total_chapters": 19,
+  "edition": "1933 revised",
+  "author": "John Dewey",
+  "original_publication": 1910,
+  "revised_publication": 1933,
+  "parts": [
+    {
+      "part": 1,
+      "title": "The Problem of Training Thought",
+      "chapters": [1, 2, 3, 4],
+      "summary": "Establishes what reflective thinking is, why it matters educationally, and the native and institutional conditions that enable or obstruct its development."
+    },
+    {
+      "part": 2,
+      "title": "Logical Considerations",
+      "chapters": [5, 6, 7, 8, 9, 10, 11, 12, 13],
+      "summary": "Examines the formal structure of inference, judgment, meaning, conception, systematic method, and the distinction between empirical and scientific thought."
+    },
+    {
+      "part": 3,
+      "title": "The Training of Thought",
+      "chapters": [14, 15, 16, 17, 18, 19],
+      "summary": "Practical and pedagogical applications — how activity, abstraction, language, observation, recitation, and the integrated intellectual character produce genuine reflective thinkers."
+    }
+  ],
+  "chapter_titles": {
+    "1": "What Is Thinking?",
+    "2": "Why Reflective Thinking Must Be an Educational Aim",
+    "3": "Native Resources in Training Thought",
+    "4": "School Conditions and the Training of Thought",
+    "5": "The Psychological Factor in Logical Form",
+    "6": "Examples of Inference and Testing",
+    "7": "Analysis of Reflective Thinking",
+    "8": "The Place of Judgment in Reflective Activity",
+    "9": "Understanding: Ideas and Meanings",
+    "10": "Understanding: Conception and Definition",
+    "11": "Systematic Method: Control of Data and Evidence",
+    "12": "Systematic Method: Control of Reasoning and Concepts",
+    "13": "Empirical and Scientific Thought",
+    "14": "Activity and the Training of Thought",
+    "15": "From the Concrete to the Abstract",
+    "16": "Language and the Training of Thought",
+    "17": "Observation and Information in the Training of Mind",
+    "18": "The Recitation and the Training of Thought",
+    "19": "Some General Conclusions"
+  },
+  "concept_index": {
+    "Reflective Thinking": {
+      "chapter": 1,
+      "definition": "A sequential, evidence-directed mental process initiated by genuine perplexity, in which each idea logically entails the next and the whole aims at a conclusion that can be justified by external grounds."
+    },
+    "Stream of Consciousness": {
+      "chapter": 1,
+      "definition": "The automatic, unregulated flow of mental images, memories, and associations that occupies waking and sleeping life but lacks logical direction or evidential grounding."
+    },
+    "Signification": {
+      "chapter": 1,
+      "definition": "The objective relationship between an observed fact and an unobserved conclusion, where the observed fact functions as genuine evidence because a real causal or structural connection links it to what is inferred."
+    },
+    "Perplexity": {
+      "chapter": 1,
+      "definition": "A state of felt confusion or doubt arising when habitual activity is interrupted by an unexpected situation — the necessary and sufficient initiating condition for reflective thought."
+    },
+    "Belief": {
+      "chapter": 1,
+      "definition": "A mental commitment to a proposition that demands justification and carries practical consequences, in contrast to idle fancy, and which can be either passively inherited or actively arrived at through inquiry."
+    },
+    "Suspended Judgment": {
+      "chapter": 1,
+      "definition": "The willingness to withhold assent to a conclusion until adequate evidence has been gathered — a disposition Dewey considers the psychological hallmark of genuine reflective thinking and the quality most resistant to cultivation."
+    },
+    "Ends-in-View": {
+      "chapter": 2,
+      "definition": "Consciously anticipated future outcomes that transform blind impulse into deliberate, directed action — the mechanism by which thought makes activity intelligent rather than merely reactive."
+    },
+    "Funded Meaning": {
+      "chapter": 2,
+      "definition": "The accumulated significance deposited in perception by past reflective experience, enabling the educated person to encounter the world as laden with meaning rather than as brute sensation."
+    },
+    "Primitive Credulity": {
+      "chapter": 2,
+      "definition": "The natural default tendency of the untrained mind to accept vivid suggestions and emotionally compelling ideas as true without subjecting them to evidential scrutiny."
+    },
+    "Open-Mindedness": {
+      "chapter": 2,
+      "definition": "An active, positive disposition to consider new evidence, entertain alternative hypotheses, and revise beliefs in light of good reasons — not passive receptivity but engaged intellectual humility."
+    },
+    "Intellectual Responsibility": {
+      "chapter": 2,
+      "definition": "The disposition to follow the logical consequences of one's beliefs through to their conclusions and to accept responsibility for the actions those beliefs entail."
+    },
+    "Bacon's Idols": {
+      "chapter": 2,
+      "definition": "Francis Bacon's taxonomy of four systematic sources of cognitive error used by Dewey to illustrate the specific biases that reflective education must counteract: idols of tribe, cave, marketplace, and theatre."
+    },
+    "Native Capital of Thought": {
+      "chapter": 3,
+      "definition": "The pre-existing psychological tendencies — curiosity, suggestion, orderliness — that constitute the raw materials education works with rather than creating from nothing."
+    },
+    "Three Dimensions of Suggestion": {
+      "chapter": 3,
+      "definition": "Suggestion varies across individuals in three dimensions: ease or promptness (how readily ideas arise), variety (how many alternatives are generated), and depth or pertinence (how relevant suggestions are to the problem at hand)."
+    },
+    "Intellectual Curiosity": {
+      "chapter": 3,
+      "definition": "The highest developmental stage of curiosity, characterized by self-directed interest in ideas and their relationships — the mature form of the native wonder that education must cultivate rather than suppress."
+    },
+    "Consecutiveness": {
+      "chapter": 3,
+      "definition": "The property of ordered, goal-directed sequencing of ideas that distinguishes reflective thinking from random mental drift — the trained capacity to sustain a line of thought through to its conclusion."
+    },
+    "Discipline Through Occupation": {
+      "chapter": 3,
+      "definition": "The indirect mechanism by which orderly intellectual habits are formed — through genuine engagement with purposive tasks that demand sustained attention rather than through imposed external constraint."
+    },
+    "Specificity of Thinking": {
+      "chapter": 3,
+      "definition": "Dewey's claim that thinking is not a single transferable faculty but domain-specific: competence in one area does not automatically transfer to others, challenging the assumption that training formal logic produces general intelligence."
+    },
+    "Faculty Psychology": {
+      "chapter": 4,
+      "definition": "The discredited view that the mind is composed of distinct, separable powers that can be exercised and strengthened independently — the theoretical basis for formal discipline approaches to education that Dewey refutes."
+    },
+    "Indirect Training": {
+      "chapter": 4,
+      "definition": "The pedagogical principle that reflective thinking is cultivated not through direct instruction in thinking techniques but through engagement with genuine subject matter that requires thinking to master."
+    },
+    "Information vs. Wisdom": {
+      "chapter": 4,
+      "definition": "Dewey's distinction between knowledge passively stored in memory (information) and knowledge actively integrated with experience and available as a guide to action (wisdom) — the educational goal is wisdom, not information accumulation."
+    },
+    "Transfer of Training": {
+      "chapter": 4,
+      "definition": "The capacity for thinking skills developed in one domain to function effectively in others — Dewey argues transfer is real but limited and domain-specific, not a product of formal exercise of abstract faculties."
+    },
+    "External Standard vs. Mental Process": {
+      "chapter": 4,
+      "definition": "The institutional opposition between evaluating education by observable products (test scores, behaviors) and attending to the inner mental processes that education aims to cultivate — Dewey insists the latter must remain primary."
+    },
+    "Stimulus-Response in Teaching": {
+      "chapter": 4,
+      "definition": "Everything a teacher does constitutes a stimulus that shapes the student's intellectual response — the teacher's own thinking, questioning, and engagement are themselves the primary pedagogical instruments."
+    },
+    "Process-Product Distinction": {
+      "chapter": 5,
+      "definition": "The distinction between thinking as an actual, temporal process of inquiry and the logical product or result of that process — education must attend to the former, not merely the latter."
+    },
+    "Native Logical Tendency": {
+      "chapter": 5,
+      "definition": "The innate human disposition — present from infancy — to draw inferences, test hypotheses, and seek coherent understanding, which formal education must develop rather than implant from scratch."
+    },
+    "Judicious Memory": {
+      "chapter": 5,
+      "definition": "Memory that grasps the bearings and relational significance of information, enabling deployment in new contexts, as opposed to rote retention of isolated facts disconnected from their evidential function."
+    },
+    "Discipline as Achieved Power": {
+      "chapter": 5,
+      "definition": "Dewey's reconceptualization of discipline not as external coercion but as the power of directing one's own mental activities toward chosen ends — the internal freedom won through trained self-governance."
+    },
+    "Intellectual Freedom": {
+      "chapter": 5,
+      "definition": "The trained power to think independently — to deliberate, weigh evidence, and reach conclusions on the basis of one's own judgment rather than deference to authority or convention."
+    },
+    "Three Senses of Logical": {
+      "chapter": 5,
+      "definition": "Dewey's tripartite taxonomy: (1) any thinking aimed at a conclusion; (2) formal logically valid inference; and (3) the trained, reflective habit that produces warranted belief — the third is the educational target."
+    },
+    "Inference": {
+      "chapter": 6,
+      "definition": "The cognitive operation by which a thinker moves from facts that are present and observed to conclusions about what is absent, unobserved, or future — the central operation of all reflective thinking."
+    },
+    "Testing (Proof)": {
+      "chapter": 6,
+      "definition": "The active process of subjecting an inference to evaluative strain, either by checking its implications against additional observations or by deliberate experimental manipulation to confirm or disconfirm it."
+    },
+    "Experienced Situation": {
+      "chapter": 6,
+      "definition": "The directly undergone, felt context of activity — something done, suffered, or enjoyed — that provides the starting material for inference and to which testing ultimately returns."
+    },
+    "Settled Situation": {
+      "chapter": 6,
+      "definition": "The transformed state of experience that marks the successful conclusion of reflective inquiry — the perplexity has been resolved, the obstacle removed, and habitual activity can resume."
+    },
+    "Suggestion": {
+      "chapter": 6,
+      "chapter_also": 7,
+      "definition": "The spontaneous idea that arises in response to a perplexing situation and serves as a provisional hypothesis guiding further observation and reasoning — the first movement of inference from a present fact to an absent conclusion."
+    },
+    "Pre-reflective and Post-reflective Situations": {
+      "chapter": 7,
+      "definition": "The two boundary states of any unit of thinking: the pre-reflective state is a troubled, perplexed, confused situation; the post-reflective state is a resolved, unified, clear situation."
+    },
+    "Intellectualization": {
+      "chapter": 7,
+      "definition": "The conversion of a vaguely felt emotional disturbance into a precisely articulated intellectual problem — the crucial second phase of reflection in which felt difficulty becomes a defined question."
+    },
+    "Working Hypothesis": {
+      "chapter": 7,
+      "definition": "A controlled, tentative supposition that guides further observation and reasoning without being asserted as final — held open to revision as evidence accumulates."
+    },
+    "Reasoning (Narrower Sense)": {
+      "chapter": 7,
+      "definition": "The mental elaboration of an idea in relation to other ideas already known, extending implications and testing coherence before empirical verification — reasoning out what follows if the hypothesis is true."
+    },
+    "Experimental Verification": {
+      "chapter": 7,
+      "chapter_also": 12,
+      "definition": "The final phase of reflection in which a hypothesis is tested by deliberately arranging conditions that would confirm or disconfirm it, closing the cycle from perplexity through inference to warranted belief."
+    },
+    "Judgment": {
+      "chapter": 8,
+      "definition": "The constituent unit of reflective thought — the act of selecting evidentially significant features from a situation and integrating them into a coherent interpretation that resolves the perplexity at hand."
+    },
+    "Horse Sense / Sound Judgment": {
+      "chapter": 8,
+      "definition": "The practical wisdom of the good judge: the cultivated capacity to estimate relative evidential weight, identify diagnostically significant features, and reach warranted conclusions without explicit methodological instruction."
+    },
+    "Evidential Significance": {
+      "chapter": 8,
+      "definition": "The property of a feature of a situation that makes it relevant and diagnostic for resolving the specific perplexity under investigation — not all observed features carry evidential weight."
+    },
+    "Intellectual Analysis": {
+      "chapter": 8,
+      "definition": "Selective emphasis within experience — causing a particular quality or relation to stand out as distinct and important — the first movement of judgment that identifies what matters in a situation."
+    },
+    "Intellectual Synthesis": {
+      "chapter": 8,
+      "definition": "The contextual placement of what analysis has selected — linking the emphasized element to other elements in the situation to build a coherent interpretive whole — the complementary movement to analysis in judgment."
+    },
+    "Logical Concept (as Standardized Meaning)": {
+      "chapter": 8,
+      "definition": "A meaning that has been confirmed across repeated judgment episodes and thereby standardized for deployment as a reliable tool in new situations — the product of habitually successful judgment."
+    },
+    "Idea": {
+      "chapter": 9,
+      "definition": "A provisionally accepted meaning held in suspense as a possibility rather than asserted as a fact — the vehicle of reflective thinking, by which thinkers can explore what is not yet present."
+    },
+    "Understanding": {
+      "chapter": 9,
+      "definition": "The grasp of meaning — the integration of a thing or event into a relational web of causes, consequences, and purposes that reveals its significance beyond its immediate sensory presence."
+    },
+    "Means-Consequence Relation": {
+      "chapter": 9,
+      "definition": "The structural core of all meaning: a thing is understood when grasped either as a means to something else or as a consequence of something antecedent — isolated things are meaningless things."
+    },
+    "Apprehension vs. Comprehension": {
+      "chapter": 9,
+      "definition": "Apprehension is the direct, immediate recognition of meaning through established familiarity; comprehension is the achieved understanding of a new or difficult thing through active integration of its relations."
+    },
+    "Brute Thing": {
+      "chapter": 9,
+      "definition": "An object or event whose relations to other things are not yet grasped — it exists in experience as a meaningless, isolated particular that does not yet function as evidence or means or consequence."
+    },
+    "Contextual Acquisition of Meaning": {
+      "chapter": 9,
+      "definition": "The process by which initially meaningless stimuli acquire stable, definite significance through repeated experience of their consequences and relations — meaning is deposited by experience, not present at first encounter."
+    },
+    "Conception": {
+      "chapter": 10,
+      "definition": "A standardized, confirmed meaning that functions as a stable instrument for identifying and classifying new cases — a concept formed through the deposit of successful judgment across multiple instances."
+    },
+    "Intension": {
+      "chapter": 10,
+      "definition": "The individualized, characteristic meaning of a concept that exclusively marks out its referents — the defining qualities that distinguish this class from all others."
+    },
+    "Extension": {
+      "chapter": 10,
+      "definition": "The set of particular objects or cases that fall under a concept's intension, or scope of application — the range of things to which the concept correctly applies."
+    },
+    "Denotative Definition": {
+      "chapter": 10,
+      "definition": "Definition by direct ostension or first-hand experience, required for sense qualities and basic perceptual concepts that cannot be fully conveyed through verbal description alone."
+    },
+    "Scientific Definition": {
+      "chapter": 10,
+      "definition": "Definition grounded in causal, generative, or relational conditions rather than surface appearance — defines a thing by what produces it or what it does rather than by how it looks."
+    },
+    "Intellectual Deposit": {
+      "chapter": 10,
+      "definition": "The generalizable, definite idea that experience must leave behind to be educationally valuable — the crystallized understanding that converts ephemeral activity into permanent cognitive capital."
+    },
+    "Evidence": {
+      "chapter": 11,
+      "definition": "A fact that has been selected and interpreted as bearing on a specific hypothesis — raw observation becomes evidence only when placed in relation to an investigative question that gives it significance."
+    },
+    "Hypothesis-Guided Observation": {
+      "chapter": 11,
+      "definition": "Perceptual attention directed by a tentative interpretive idea, making what is noticed and recorded a function of what is being investigated rather than an unselective registration of all stimuli."
+    },
+    "Experimental Variation": {
+      "chapter": 11,
+      "definition": "Systematic alteration of one factor while holding others constant, isolating which variation produces which observed effect and thereby establishing causal rather than merely correlational connections."
+    },
+    "Mutual Constraint of Hypothesis and Fact": {
+      "chapter": 11,
+      "definition": "The iterative relationship in which hypothesis guides observation and observation modifies hypothesis — neither pure induction from neutral facts nor pure deduction from a priori hypotheses, but a spiral of mutual refinement."
+    },
+    "Purposive Data-Collection": {
+      "chapter": 11,
+      "definition": "The selection and recording of observations governed by an explicit investigative purpose, distinguishing scientific inquiry from casual observation or mere accumulation of information."
+    },
+    "Systematic Concepts": {
+      "chapter": 12,
+      "definition": "Concepts organized into theoretical frameworks such that deploying one automatically activates a network of related concepts, enabling systematic rather than piecemeal reasoning."
+    },
+    "Playing with Ideas": {
+      "chapter": 12,
+      "definition": "A phase of inquiry involving free exploration of a hypothesis's implications, extending its consequences speculatively before committing to empirical test — the intellectual freedom within disciplined inquiry."
+    },
+    "Net Summary": {
+      "chapter": 12,
+      "definition": "A recapitulating synthesis that crystallizes a completed inquiry's findings into a form suitable for retention, communication, and deployment in future inquiry — the intellectual deposit of systematic method."
+    },
+    "Intellectual Deposit of Activity": {
+      "chapter": 12,
+      "definition": "The definite, generalizable understanding that purposive activity must leave behind if it is to be educationally valuable rather than merely experiential."
+    },
+    "Empirical Thinking": {
+      "chapter": 13,
+      "definition": "Practical, skill-based reasoning that relies on accumulated experience without theoretical explanation of why procedures work, adequate for routine situations but unable to handle novelty or correct systematic error."
+    },
+    "Scientific Thinking": {
+      "chapter": 13,
+      "definition": "Theoretical reasoning that constructs systematic explanations for observed regularities, enabling transfer to novel situations, deliberate error-correction, and prediction beyond direct experience."
+    },
+    "Scientific Abstraction": {
+      "chapter": 13,
+      "definition": "The construction of theoretical concepts that transcend particular observed cases, enabling reasoning about classes of situations and derivation of predictions for unencountered cases."
+    },
+    "Post Hoc Fallacy": {
+      "chapter": 13,
+      "definition": "The error of inferring causal connection from temporal succession alone, characteristic of empirical thinking that lacks theoretical constraints on credible causal stories."
+    },
+    "Emancipation and Enlargement of Experience": {
+      "chapter": 13,
+      "definition": "Dewey's definition of education's dual task: freeing students from mere routine and superstition (emancipation) while expanding the range of experience that can be encountered with understanding (enlargement)."
+    },
+    "Playfulness as Mental Attitude": {
+      "chapter": 14,
+      "definition": "Intellectual openness and flexibility — the willingness to try alternatives without prior commitment to any one outcome — the psychological precondition for creative hypothesis generation."
+    },
+    "Work as Intelligent Action": {
+      "chapter": 14,
+      "definition": "Activity directed toward a consciously held end requiring selection and adaptation of means — work in Dewey's sense is not drudgery but purposive engagement that demands and develops intelligence."
+    },
+    "Constructive Occupations": {
+      "chapter": 14,
+      "definition": "Dewey's term for school activities — building, cooking, weaving, gardening — that reproduce genuinely productive social occupations and thereby give students authentic problems requiring intelligent solution."
+    },
+    "Four Conditions of Educative Projects": {
+      "chapter": 14,
+      "definition": "Intrinsic student interest, genuine problem-solving requirement, sustained planning and execution, and demands for acquiring information and developing technique — the criteria distinguishing educative from merely entertaining activity."
+    },
+    "Physical Skill as Internalized Intelligence": {
+      "chapter": 14,
+      "definition": "The view that mastery of physical technique represents intellectual achievement — coordinated, skilled bodily action embodies understanding of causal relations and is not separable from cognitive development."
+    },
+    "Relative Concreteness": {
+      "chapter": 15,
+      "definition": "The property of being experientially immediate and meaningful for a given learner at a given stage — concreteness is not an intrinsic feature of objects but a relational property between subject and material."
+    },
+    "Three-Phase Pedagogic Arc": {
+      "chapter": 15,
+      "definition": "Dewey's model progressing from direct physical activity through representational symbols to abstract theoretical concepts — the structural principle of all sound curriculum sequencing."
+    },
+    "Object Lesson Fallacy": {
+      "chapter": 15,
+      "definition": "The error of treating direct sensory experience of objects as the end of learning rather than as the starting point from which abstraction must develop — mistaking the concrete for the educational goal rather than the educational base."
+    },
+    "Experiential Grounding": {
+      "chapter": 15,
+      "definition": "The connection between an abstract concept and the direct experience that gives it meaning — without this grounding, concepts become mere verbal counters detached from the realities they are meant to represent."
+    },
+    "Bridge-Building (Pedagogic)": {
+      "chapter": 15,
+      "definition": "The deliberate construction of intermediate representations — diagrams, models, analogies, simplified cases — that span the gap between students' concrete experience and the abstract concepts curriculum aims to develop."
+    },
+    "Linguistic Symbol": {
+      "chapter": 16,
+      "definition": "A sign that represents its object through conventional association rather than causal or resemblance relations, enabling the highly efficient communication of meanings across time, space, and individual experience."
+    },
+    "Substitute Sign": {
+      "chapter": 16,
+      "definition": "A symbol so well integrated with its referent through habitual use that it evokes the full meaning without requiring recall of the original experience — the endpoint of successful symbol acquisition."
+    },
+    "Active vs. Passive Vocabulary": {
+      "chapter": 16,
+      "definition": "Active vocabulary enables generative deployment in new contexts; passive vocabulary supports recognition and comprehension only. Education aims at the former but frequently produces only the latter."
+    },
+    "Verbalism": {
+      "chapter": 16,
+      "definition": "The use of linguistic symbols as empty counters — correctly deployed according to grammatical and social rules but detached from the realities they nominally represent — the central pathology of language-dominated instruction."
+    },
+    "Consecutive Discourse": {
+      "chapter": 16,
+      "definition": "Sustained, organized linguistic exposition that develops a train of thought coherently from premise to conclusion — the highest form of language use and the medium through which reflective thinking is both expressed and consolidated."
+    },
+    "Purposive Observation": {
+      "chapter": 17,
+      "definition": "Perceptual attention controlled by an investigative question, making what is noticed a function of what is being sought — the trained opposite of passive sensory registration."
+    },
+    "Sympathetic Interest": {
+      "chapter": 17,
+      "definition": "The imaginative attitude of genuine engagement with a phenomenon — attending to it as having its own character worth understanding rather than as a mere occasion for confirming prior expectations."
+    },
+    "Apperceptive Integration": {
+      "chapter": 17,
+      "definition": "The active connection of new information to existing experiential knowledge, converting bare data into funded meaning — information only becomes genuinely known when integrated into an existing web of understanding."
+    },
+    "Two-World Problem": {
+      "chapter": 17,
+      "definition": "The structural split between school knowledge and direct experience in which information is transmitted verbally without connecting to the student's own world — Dewey's diagnosis of the core institutional failure of schooling."
+    },
+    "Dramatic (Plot) Interest": {
+      "chapter": 17,
+      "definition": "The motivational structure of narrative engagement — following unfolding events toward an as-yet-unknown resolution — that Dewey identifies as a powerful and underutilized vehicle for sustaining inquiry across time."
+    },
+    "Art of Questioning": {
+      "chapter": 18,
+      "definition": "The pedagogical skill of designing questions that stimulate genuine reflection rather than memory retrieval — the teacher's primary instrument for transforming recitation from rote repetition into reflective inquiry."
+    },
+    "Genuine vs. Pseudo-Question": {
+      "chapter": 18,
+      "definition": "A genuine question admits of real uncertainty and requires thought to answer; a pseudo-question tests memory for a known answer and produces recitation rather than reflection."
+    },
+    "Appreciation": {
+      "chapter": 18,
+      "definition": "The aesthetic-intellectual satisfaction of achieved understanding — the sense of fit and completion when a perplexity is resolved and the situation becomes coherent — a legitimate educational aim alongside skill and knowledge."
+    },
+    "Teacher as Intellectual Leader": {
+      "chapter": 18,
+      "definition": "The reconceptualization of the teacher as co-inquirer and guide of shared reflective activity, whose expertise lies in knowing how to stimulate, focus, and extend students' own thinking rather than in transmitting information."
+    },
+    "Supervised Study": {
+      "chapter": 18,
+      "definition": "The practice of treating independent work time as guided inquiry, with the teacher actively facilitating the thinking process rather than simply assigning tasks and evaluating their products."
+    },
+    "Rhythm of Unconscious and Conscious": {
+      "chapter": 19,
+      "definition": "The productive cycle between effortless habitual performance and deliberate reflective attention, each phase enabling the other and the integration of both marking genuine intellectual maturity."
+    },
+    "Incubation": {
+      "chapter": 19,
+      "definition": "The phase in creative inquiry where conscious attention is withdrawn, allowing subthreshold associative processes to produce connections and insights that deliberate effort could not achieve."
+    },
+    "Near-Far Dialectic": {
+      "chapter": 19,
+      "definition": "The productive tension between immediate practical relevance and broader theoretical frameworks, the structural principle sustaining intellectual growth between myopic practicality and empty abstraction."
+    },
+    "Play-Work Balance": {
+      "chapter": 19,
+      "definition": "The integration of exploratory freedom with disciplined commitment that characterizes the fully developed intellectual character — neither dilettantism nor mechanical performance."
+    },
+    "Vital Communication": {
+      "chapter": 19,
+      "definition": "The genuine sharing of meanings between teacher and student in which both are transformed by the exchange, as opposed to the mechanical transmission of information from one storage system to another."
+    }
+  },
+  "all_concepts": [
+    "Reflective Thinking",
+    "Stream of Consciousness",
+    "Signification",
+    "Perplexity",
+    "Belief",
+    "Suspended Judgment",
+    "Ends-in-View",
+    "Funded Meaning",
+    "Primitive Credulity",
+    "Open-Mindedness",
+    "Intellectual Responsibility",
+    "Bacon's Idols",
+    "Native Capital of Thought",
+    "Three Dimensions of Suggestion",
+    "Intellectual Curiosity",
+    "Consecutiveness",
+    "Discipline Through Occupation",
+    "Specificity of Thinking",
+    "Faculty Psychology",
+    "Indirect Training",
+    "Information vs. Wisdom",
+    "Transfer of Training",
+    "External Standard vs. Mental Process",
+    "Stimulus-Response in Teaching",
+    "Process-Product Distinction",
+    "Native Logical Tendency",
+    "Judicious Memory",
+    "Discipline as Achieved Power",
+    "Intellectual Freedom",
+    "Three Senses of Logical",
+    "Inference",
+    "Testing (Proof)",
+    "Experienced Situation",
+    "Settled Situation",
+    "Suggestion",
+    "Pre-reflective and Post-reflective Situations",
+    "Intellectualization",
+    "Working Hypothesis",
+    "Reasoning (Narrower Sense)",
+    "Experimental Verification",
+    "Judgment",
+    "Horse Sense / Sound Judgment",
+    "Evidential Significance",
+    "Intellectual Analysis",
+    "Intellectual Synthesis",
+    "Logical Concept (as Standardized Meaning)",
+    "Idea",
+    "Understanding",
+    "Means-Consequence Relation",
+    "Apprehension vs. Comprehension",
+    "Brute Thing",
+    "Contextual Acquisition of Meaning",
+    "Conception",
+    "Intension",
+    "Extension",
+    "Denotative Definition",
+    "Scientific Definition",
+    "Intellectual Deposit",
+    "Evidence",
+    "Hypothesis-Guided Observation",
+    "Experimental Variation",
+    "Mutual Constraint of Hypothesis and Fact",
+    "Purposive Data-Collection",
+    "Systematic Concepts",
+    "Playing with Ideas",
+    "Net Summary",
+    "Intellectual Deposit of Activity",
+    "Empirical Thinking",
+    "Scientific Thinking",
+    "Scientific Abstraction",
+    "Post Hoc Fallacy",
+    "Emancipation and Enlargement of Experience",
+    "Playfulness as Mental Attitude",
+    "Work as Intelligent Action",
+    "Constructive Occupations",
+    "Four Conditions of Educative Projects",
+    "Physical Skill as Internalized Intelligence",
+    "Relative Concreteness",
+    "Three-Phase Pedagogic Arc",
+    "Object Lesson Fallacy",
+    "Experiential Grounding",
+    "Bridge-Building (Pedagogic)",
+    "Linguistic Symbol",
+    "Substitute Sign",
+    "Active vs. Passive Vocabulary",
+    "Verbalism",
+    "Consecutive Discourse",
+    "Purposive Observation",
+    "Sympathetic Interest",
+    "Apperceptive Integration",
+    "Two-World Problem",
+    "Dramatic (Plot) Interest",
+    "Art of Questioning",
+    "Genuine vs. Pseudo-Question",
+    "Appreciation",
+    "Teacher as Intellectual Leader",
+    "Supervised Study",
+    "Rhythm of Unconscious and Conscious",
+    "Incubation",
+    "Near-Far Dialectic",
+    "Play-Work Balance",
+    "Vital Communication"
+  ],
+  "thematic_clusters": [
+    {
+      "theme": "The Five Phases of Reflective Thinking",
+      "chapters": [1, 6, 7],
+      "description": "The complete architecture of reflective inquiry: from felt perplexity (Ch1) through concrete examples of inference and testing (Ch6) to the formal five-phase analysis of pre-reflective situation, suggestion, intellectualization, working hypothesis, reasoning, and experimental verification (Ch7).",
+      "key_concepts": ["Perplexity", "Suggestion", "Intellectualization", "Working Hypothesis", "Reasoning (Narrower Sense)", "Experimental Verification", "Settled Situation", "Signification"]
+    },
+    {
+      "theme": "Meaning, Judgment, and Understanding",
+      "chapters": [8, 9, 10],
+      "description": "The microstructure of thought: how judgment selects and integrates evidence (Ch8), how ideas and meanings function as vehicles of reflective thinking (Ch9), and how concepts and definitions standardize meanings for reuse (Ch10).",
+      "key_concepts": ["Judgment", "Idea", "Understanding", "Means-Consequence Relation", "Conception", "Intension", "Extension", "Evidential Significance", "Brute Thing"]
+    },
+    {
+      "theme": "Systematic Method and Scientific Thinking",
+      "chapters": [11, 12, 13],
+      "description": "How inquiry becomes systematic: the control of data and evidence through hypothesis-guided observation (Ch11), the control of reasoning through systematic concepts and net summary (Ch12), and the distinction between empirical and scientific thought as the ultimate educational target (Ch13).",
+      "key_concepts": ["Evidence", "Hypothesis-Guided Observation", "Experimental Variation", "Systematic Concepts", "Playing with Ideas", "Net Summary", "Empirical Thinking", "Scientific Thinking", "Scientific Abstraction"]
+    },
+    {
+      "theme": "Intellectual Character and Disposition",
+      "chapters": [2, 3, 5, 19],
+      "description": "The dispositional preconditions and endpoints of reflective education: the attitudes that make thinking possible (Ch2-3), the logical dispositions that structure it (Ch5), and the integrated intellectual character that is its ultimate aim (Ch19).",
+      "key_concepts": ["Open-Mindedness", "Intellectual Responsibility", "Suspended Judgment", "Intellectual Curiosity", "Discipline as Achieved Power", "Intellectual Freedom", "Rhythm of Unconscious and Conscious", "Play-Work Balance", "Vital Communication"]
+    },
+    {
+      "theme": "Pedagogical Architecture",
+      "chapters": [4, 14, 15, 16, 17, 18],
+      "description": "The practical translation of Dewey's theory into educational design: institutional conditions (Ch4), activity-based learning (Ch14), concrete-to-abstract sequencing (Ch15), language development (Ch16), observation and information (Ch17), and the redesigned recitation (Ch18).",
+      "key_concepts": ["Indirect Training", "Constructive Occupations", "Three-Phase Pedagogic Arc", "Verbalism", "Apperceptive Integration", "Two-World Problem", "Art of Questioning", "Genuine vs. Pseudo-Question", "Teacher as Intellectual Leader"]
+    },
+    {
+      "theme": "Failure Modes of Education",
+      "chapters": [1, 4, 10, 16, 17, 18],
+      "description": "Dewey's diagnostic catalogue of the ways schooling fails to produce reflective thinkers: bypassing perplexity (Ch1), faculty psychology and formal discipline (Ch4), premature abstraction (Ch10), verbalism (Ch16), the two-world problem (Ch17), and recitation as rote repetition (Ch18).",
+      "key_concepts": ["Stream of Consciousness", "Faculty Psychology", "Object Lesson Fallacy", "Verbalism", "Two-World Problem", "Genuine vs. Pseudo-Question", "Primitive Credulity"]
+    }
+  ],
+  "dewey_five_phases": {
+    "description": "Dewey's five phases of reflective thinking, reconstructed from across the book (most explicitly in Chapter 7). These are the pedagogical core of the DeweyCT app's primary template.",
+    "phases": [
+      {
+        "number": 1,
+        "name": "Felt Perplexity",
+        "also_called": ["Pre-reflective situation", "Genuine doubt", "Felt difficulty"],
+        "primary_chapter": 1,
+        "developed_in": [1, 6, 7],
+        "description": "A genuine state of doubt, confusion, or obstruction arising from a real problem in experience. Cannot be manufactured artificially — must be genuinely felt.",
+        "key_concepts": ["Perplexity", "Pre-reflective and Post-reflective Situations"]
+      },
+      {
+        "number": 2,
+        "name": "Intellectualization",
+        "also_called": ["Problem definition", "Defining the problem", "Locating the perplexity"],
+        "primary_chapter": 7,
+        "developed_in": [7, 8],
+        "description": "Converting the vague felt difficulty into a precisely articulated problem or question. The problem governs all subsequent inquiry.",
+        "key_concepts": ["Intellectualization", "Judgment"]
+      },
+      {
+        "number": 3,
+        "name": "Suggestion / Hypothesis",
+        "also_called": ["Hypothesis", "Working hypothesis", "Guiding idea"],
+        "primary_chapter": 7,
+        "developed_in": [3, 6, 7, 12],
+        "description": "The mind's provisional leap toward a possible solution, guided by relevant past experience. Must be held tentatively — not yet asserted.",
+        "key_concepts": ["Suggestion", "Working Hypothesis", "Playing with Ideas"]
+      },
+      {
+        "number": 4,
+        "name": "Reasoning",
+        "also_called": ["Mental elaboration", "Developing the hypothesis", "Reasoning out implications"],
+        "primary_chapter": 7,
+        "developed_in": [7, 11, 12],
+        "description": "The mental elaboration of the hypothesis — extending its implications, checking coherence with known facts, before empirical testing.",
+        "key_concepts": ["Reasoning (Narrower Sense)", "Systematic Concepts", "Mutual Constraint of Hypothesis and Fact"]
+      },
+      {
+        "number": 5,
+        "name": "Testing / Verification",
+        "also_called": ["Experimental verification", "Testing the hypothesis", "Proof"],
+        "primary_chapter": 7,
+        "developed_in": [6, 7, 11, 12],
+        "description": "Empirical or observational confirmation/disconfirmation of the hypothesis. Belief only warranted after honest testing against experience.",
+        "key_concepts": ["Experimental Verification", "Testing (Proof)", "Settled Situation", "Evidence"]
+      }
+    ]
+  },
+  "notes": {
+    "edition_note": "The formatted markdown source uses the 1933 revised edition. Chapter titles and count (19) reflect the revised edition. The system prompt references 1910 structure (25 chapters) as a fallback — this index supersedes it for chapter references.",
+    "duplicate_concepts": [
+      {"concept": "Suggestion", "chapters": [6, 7], "resolution": "Index points to Chapter 6 (first appearance); Chapter 7 entry refines the concept in its five-phase context."},
+      {"concept": "Experimental Verification", "chapters": [7, 12], "resolution": "Index points to Chapter 7 (most complete definition); Chapter 12 extends it in systematic method context."}
+    ],
+    "total_concept_entries": 102,
+    "total_concepts_in_index": 100
+  }
+}

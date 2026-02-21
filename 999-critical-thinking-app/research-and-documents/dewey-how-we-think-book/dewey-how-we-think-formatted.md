@@ -602,247 +602,48 @@ The chapter opens by enumerating three progressive values of reflective thought:
 > *Dewey identifies three innate psychological resources — curiosity, suggestion, and orderliness — that constitute the native capital from which reflective thinking must be cultivated. Education's task is not to impose thought from without but to redirect these pre-existing tendencies toward their highest intellectual fruition.*
 
 
-We have just discussed the values to be obtained by educating the mind in habits of thought and some of the ob-
-stacles that lie in the way of its development. But nothing 
-can grow except from germs, from potentialities that tend 
-to some development of themselves. There must be a native 
-stock, or capital, of resources; we cannot force the power to 
-think upon any creature that does not first think spontaneously, ‘ naturally,’ as we say. But while we cannot learn or
-be taught to think, we do have to learn how to think well, 
-especially how to acquire the general **habit** of reflecting. 
-Since this habit grows out of original native tendencies, the 
-teacher needs to know something about the nature of the 
-primary capital stock that constitutes the germs out of 
-which alone the habit is to be developed. Unless we know 
-what there is to be laid hold of and used, we work in the 
-dark and waste time and energy. We shall probably do 
-something even worse, striving to impose some unnatural 
-habit from without instead of directing native tendencies 
-toward their own best fruition. 
+We have just discussed the values to be obtained by educating the mind in habits of thought and some of the obstacles that lie in the way of its development. But nothing can grow except from germs, from potentialities that tend to some development of themselves. There must be a native stock, or capital, of resources; we cannot force the power to think upon any creature that does not first think spontaneously, ‘ naturally,’ as we say. But while we cannot learn or be taught to think, we do have to learn how to think well, especially how to acquire the general **habit** of reflecting. Since this habit grows out of original native tendencies, the 
+teacher needs to know something about the nature of the primary capital stock that constitutes the germs out of which alone the habit is to be developed. Unless we know what there is to be laid hold of and used, we work in the dark and waste time and energy. We shall probably do something even worse, striving to impose some unnatural habit from without instead of directing native tendencies toward their own best fruition. 
 
-Teaching may be compared to selling commodities. No 
-one can sell unless someone buys. We should ridicule a merchant who said that he had sold a great many goods al-
-though no one had bought any. But perhaps there are teachers who think that they have done a good day’s teaching
-irrespective of what pupils have learned. There is the same 
+Teaching may be compared to selling commodities. No one can sell unless someone buys. We should ridicule a merchant who said that he had sold a great many goods although no one had bought any. But perhaps there are teachers who think that they have done a good day’s teaching irrespective of what pupils have learned. There is the same exact equation between teaching and learning that there is between selling and buying. The only way to increase the learning of pupils is to augment the quantity and quality of real teaching. Since learning is something that the pupil has to do himself and for himself, the initiative lies with the learner. The teacher is a guide and director; he steers the boat, but the energy that propels it must come from those who are learning. The more a teacher is aware of the past experiences of students, of their hopes, desires, chief interests, the better will he understand the forces at work that need to be directed and utilized for the formation of reflective habits. The number and quality of these factors vary from person to person. They cannot therefore be categorically enumerated in a book. But there are some tendencies and forces that operate in every normal individual, forces that must be appealed to and utilized if the best methods for the development of good habits of thought are to be employed. 
 
+### I. Curiosity
 
+Every living creature, while it is awake, is in constant interaction with its surroundings. It is engaged in a process of give and take, of doing something to objects around it and receiving back something from them — impressions, stimuli. This process of interacting constitutes the framework of **experience**. We are fitted out with devices that help us ward off destructive influences, devices that intercept harmful influences and protect us from them. But we also have tendencies that are forward-reaching and out-reaching, that go out to make new contacts, that seek new objects, that strive to vary old objects, that revel, as it were, in experiences for their own sake and so are ceaselessly active in enlarging the range of experience. These various tendencies are summed up in [[Curiosity|curiosity]]. Wordsworth’s saying applies particularly to childhood: 
 
+> *The eye — it cannot choose but see;* 
+> *We cannot bid the ear be still;* 
+> 
+> *Our bodies feel, where’er they be,* 
+> *Against or with our will.* 
 
-exact equation between teaching and learning that there is 
-between selling and buying. The only way to increase the 
-learning of pupils is to augment the quantity and quality of 
-real teaching. Since learning is something that the pupil 
-has to do himself and for himself, the initiative lies with 
-the learner. The teacher is a guide and director; he steers 
-the boat, but the energy that propels it must come from 
-those who are learning. The more a teacher is aware of the 
-past experiences of students, of their hopes, desires, chief 
-interests, the better will he understand the forces at work 
-that need to be directed and utilized for the formation of 
-reflective habits. The number and quality of these factors 
-vary from person to person. They cannot therefore be categorically enumerated in a book. But there are some tenden-
-cies and forces that operate in every normal individual, 
-forces that must be appealed to and utilized if the best 
-methods for the development of good habits of thought are 
-to be employed. 
+All our sense and motor organs are, when we are awake, acting and being acted upon by something in the environment. With adults many of these contacts have been made; grown-ups permit themselves to become stale; they fall into ruts of experience and are contented with what happens in these ruts. To children the whole world is new; there is something thrilling to the healthy being in every new contact and it is eagerly sought for, not merely passively awaited and endured. There is no single faculty called ‘curiosity ’; every normal organ of sense and of motor activity is on the qui vive. It wants a chance to be active, and it needs some object in order to act. The sum total of these outgoing tendencies constitutes curiosity. It is the basic factor in enlargement of experience and therefore a prime ingredient in the germs that are to be developed into[[Reflective Thinking|reflective thinking]]. 
 
+## Three Stages, or Levels, of Curiosity 
 
+1. In the first manifestations, curiosity is far removed from thinking. It is a vital overflow, an expression of an abundant organic energy. A physiological uneasiness leads a child to get ‘into everything,’— to be reaching, poking, pounding, prying. Observers of animals have noted what one author calls “ their inveterate tendency to fool.” “ Rats run about, smell, dig, or gnaw, without real reference to the business in hand. In the same way Jack [a dog] scrambles and jumps, the kitten wanders and picks, the otter slips about everywhere like ground lightning, the elephant fumbles ceaselessly, the monkey pulls things about.” The most casual [[Observation|observation]] of the activities of a young child reveals a ceaseless display of exploring and **testing** activity. Objects are sucked, fingered, and thumped; drawn and pushed; handled and thrown; in short, they are experimented with until they cease to yield new qualities. Such activities are hardly intellectual, and yet without them intellectual activity would be feeble and intermittent through lack of stuff for its operations. 
 
-### I. Curiosrry
+2. A higher stage of curiosity develops under the influence of social stimuli. When the child learns that he can appeal to others to eke out his store of experiences, so that, if objects fail to respond interestingly to his experiments, he may call upon persons to provide interesting material, a new epoch sets in. “ What is that?” “Why?” become the unfailing signs of a child’s presence. At first this questioning is hardly more than a projection into social relations of the physical overflow that earlier kept the child pushing and pulling, opening and shutting. He asks in succession what holds up the house, what holds up the soil that holds the house, what holds up the earth that holds the soil; but his questions are not **evidence** of any genuine consciousness of rational connections. His why is not a demand for scientific explanation; the motive behind it is simply eagerness for a larger acquaintance with the mysterious world in which he is placed. The search is not for a law or principle, but only for another, a bigger fact. Yet there is more than a desire to accumulate just information or heap up disconnected items — although sometimes the interrogating habit threatens to degenerate into a mere disease of language. In the feeling, however dim, that the facts which directly meet the senses are not the whole story, that there is more behind them and more to come from them, lies the germ of intellectual curiosity. 
 
+3. Curiosity rises above the organic and the social level and becomes intellectual in the degree in which it is transformed into interest in finding out for oneself the answers to questions that are aroused by contact with persons and things. In what was just called the “ social ” stage, children are often more interested in the mere process of asking a question than they are in giving heed to the answer. At all events no particular question is attended to for very long; one asking succeeds another so fast that none is developed into a train of thought. Immediate asking and answering discharges curiosity. The crucial **problem** for the educator, whether parent or school teacher, is to utilize for intellectual purposes the organic curiosity of physical exploration and linguistic interrogation. This can be accomplished by attaching them to ends that are more remote, that require finding and inserting intermediate acts, objects, and ideas. To the degree that a distant end controls a sequence of inquiries and observations and binds them together as means to an end, just to that degree does curiosity assume a definitely intellectual character.
 
+## How Curiosity Is Lost 
 
-Every living creature, while it is awake, is in constant 
-interaction with its surroundings. It is engaged in a process 
-of give and take, of doing something to objects around it 
-and receiving back something from them — impressions, 
-stimuli. This process of interacting constitutes the framework of **experience**. We are fitted out with devices that help
-us ward off destructive influences, devices that intercept 
-harmful influences and protect us from them. But we also 
-have tendencies that are forward-reaching and out-reaching, 
-that go out to make new contacts, that seek new objects, 
-that strive to vary old objects, that revel, as it were, in experiences for their own sake and so are ceaselessly active
-in enlarging the range of experience. These various tendencies are summed up in [[Curiosity|curiosity]]. Wordsworth’s saying ap-
-plies particularly to childhood: 
-
-
-
-
-The eye — it cannot choose but see; 
-We cannot bid the ear be still; 
-
-Our bodies feel, where’er they be, 
-Against or with our will. 
-
-
-All our sense and motor organs are, when we are awake, 
-acting and being acted upon by something in the environment. With adults many of these contacts have been made;
-grown-ups permit themselves to become stale; they fall 
-into ruts of experience and are contented with what happens in these ruts. To children the whole world is new;
-there is something thrilling to the healthy being in every 
-new contact and it is eagerly sought for, not merely passively awaited and endured. There is no single faculty called
-‘curiosity ’; every normal organ of sense and of motor activity is on the qui vive. It wants a chance to be active,
-and it needs some object in order to act. The sum total 
-of these outgoing tendencies constitutes curiosity. It is the 
-basic factor in enlargement of experience and therefore a 
-prime ingredient in the germs that are to be developed inta 
-[[Reflective Thinking|reflective thinking]]. 
-
-
-Three Stages, or Levels, of Curiosity 
-
-
-1. In the first manifestations, curiosity is far removed 
-from thinking. It is a vital overflow, an expression of an 
-abundant organic energy. A physiological uneasiness leads 
-a child to get ‘into everything,’— to be reaching, poking, 
-pounding, prying. Observers of animals have noted what 
-one author calls “ their inveterate tendency to fool.” “ Rats 
-run about, smell, dig, or gnaw, without real reference to the 
-business in hand. In the same way Jack [a dog] scrambles 
-and jumps, the kitten wanders and picks, the otter slips 
-about everywhere like ground lightning, the elephant fumbles ceaselessly, the monkey pulls things about.” 1? The most
-
-
-
-
-
-casual [[Observation|observation]] of the activities of a young child reveals 
-a ceaseless display of exploring and **testing** activity. Objects 
-are sucked, fingered, and thumped; drawn and pushed; handled and thrown; in short, they are experimented with until
-they cease to yield new qualities. Such activities are hardly 
-intellectual, and yet without them intellectual activity 
-would be feeble and intermittent through lack of stuff for 
-its operations. 
-
-2. A higher stage of curiosity develops under the influence of social stimuli. When the child learns that he can
-appeal to others to eke out his store of experiences, so 
-that, if objects fail to respond interestingly to his experiments, he may call upon persons to provide interesting ma-
-terial, a new epoch sets in. “ What is that?” “Why?” become the unfailing signs of a child’s presence. At first this
-questioning is hardly more than a projection into social 
-relations of the physical overflow that earlier kept the 
-child pushing and pulling, opening and shutting. He asks 
-in succession what holds up the house, what holds up the 
-soil that holds the house, what holds up the earth that holds 
-the soil; but his questions are not **evidence** of any genuine 
-consciousness of rational connections. His why is not a demand for scientific explanation; the motive behind it is sim-
-ply eagerness for a larger acquaintance with the mysterious world in which he is placed. The search is not for a
-law or principle, but only for another, a bigger fact. Yet 
-there is more than a desire to accumulate just information 
-or heap up disconnected items — although sometimes the 
-interrogating habit threatens to degenerate into a mere disease of language. In the feeling, however dim, that the facts
-which directly meet the senses are not the whole story, that 
-there is more behind them and more to come from them, 
-lies the germ of intellectual curiosity. 
-
-3. Curiosity rises above the organic and the social level 
-
-
-
-
-and becomes intellectual in the degree in which it is transformed into interest in finding out for oneself the answers
-to questions that are aroused by contact with persons and 
-things. In what was just called the “ social ” stage, children 
-are often more interested in the mere process of asking a 
-question than they are in giving heed to the answer. At all 
-events no particular question is attended to for very long; 
-one asking succeeds another so fast that none is developed 
-into a train of thought. Immediate asking and answering 
-discharges curiosity. The crucial **problem** for the educator, 
-whether parent or school teacher, is to utilize for intellectual 
-purposes the organic curiosity of physical exploration and 
-linguistic interrogation. This can be accomplished by attaching them to ends that are more remote, that require
-finding and inserting intermediate acts, objects, and ideas. 
-To the degree that a distant end controls a sequence of inquiries and observations and binds them together as means
-to an end, just to that degree does curiosity assume a definitely intellectual character.
-
-
-How Curiosity Is Lost 
-
-
-Unless transition to an intellectual plane is effected, curiosity degenerates or evaporates. Bacon’s saying that we
-must become as little children in order to enter the kingdom of science is at once a reminder of the open-minded
-and flexible wonder of childhood and of the ease with which 
-this endowment is lost. Some lose it in indifference or carelessness; others in a frivolous flippancy ; many escape these
-evils only to become incased in a hard dogmatism that is 
-equally fatal to the spirit of wonder. Some are so taken up 
-with routine as to be inaccessible to new facts and problems. 
-Others retain curiosity only with reference to what concerns 
-their personal advantage in their chosen career. With many, 
-curiosity is arrested on the plane of interest in local gossip 
-
-
-
-
-and in the fortunes of their neighbors; indeed, so usual is 
-this result that very often the first association with the 
-word curiosity is a prying inquisitiveness into other people’s 
-business. With respect, then, to curiosity, the teacher has 
-usually more to learn than to teach. Rarely can he aspire 
-to the office of kindling or even of increasing it; his province is rather to provide the materials and the conditions by
-which organic curiosity will be directed into investigations 
-that have an aim and that produce results in the way of 
-increase of **knowledge**, and by which social inquisitiveness 
-will be converted into ability to find out things known to 
-others, an ability to ask questions of books as well as of 
-persons. The teacher has to protect the growing person 
-from those conditions which occasion a mere succession of 
-excitements which have no cumulative effect, and which, 
-therefore, make an individual either a lover of sensations 
-and sensationalism or leave him blasé and uninterested. He 
-has to avoid all dogmatism in instruction, for such a course 
-gradually but surely creates the impression that everything 
-important is already settled and nothing remains to be 
-found out. He has to know how to give information when 
-curiosity has created an appetite that seeks to be fed, and 
-how to abstain from giving information when, because of 
-lack of a questioning attitude, it would be a burden and 
-would dull the sharp edge of the inquiring spirit. 
-
-
-
+Unless transition to an intellectual plane is effected, curiosity degenerates or evaporates. Bacon’s saying that we must become as little children in order to enter the kingdom of science is at once a reminder of the open-minded and flexible wonder of childhood and of the ease with which this endowment is lost. Some lose it in indifference or carelessness; others in a frivolous flippancy ; many escape these evils only to become incased in a hard dogmatism that is equally fatal to the spirit of wonder. Some are so taken up with routine as to be inaccessible to new facts and problems. Others retain curiosity only with reference to what concerns 
+their personal advantage in their chosen career. With many, curiosity is arrested on the plane of interest in local gossip and in the fortunes of their neighbors; indeed, so usual is this result that very often the first association with the word curiosity is a prying inquisitiveness into other people’s business. With respect, then, to curiosity, the teacher has usually more to learn than to teach. Rarely can he aspire 
+to the office of kindling or even of increasing it; his province is rather to provide the materials and the conditions by which organic curiosity will be directed into investigations that have an aim and that produce results in the way of increase of **knowledge**, and by which social inquisitiveness will be converted into ability to find out things known to others, an ability to ask questions of books as well as of persons. The teacher has to protect the growing person from those conditions which occasion a mere succession of excitements which have no cumulative effect, and which, therefore, make an individual either a lover of sensations and sensationalism or leave him blasé and uninterested. He has to avoid all dogmatism in instruction, for such a course gradually but surely creates the impression that everything 
+important is already settled and nothing remains to be found out. He has to know how to give information when curiosity has created an appetite that seeks to be fed, and how to abstain from giving information when, because of lack of a questioning attitude, it would be a burden and would dull the sharp edge of the inquiring spirit. 
 ### II. Sucaeestion
 
+## Ideas Occur Spontaneously 
 
 
-Ideas Occur Spontaneously 
+Many a child, as noted earlier, has tried to see whether he could not stop ‘ thinking,’ whether he could not arrest the flow of ideas passing through his head. But‘ thoughts,’ of this rudimentary and uncontrolled sort, spring into being quite as surely as “our bodies feel, where’er they be, against or with our will.” We cannot make ourselves have ideas or not have them any more than we can directly make ourselves have sensations from things. In the one case as in the other, we can put ourselves or be put by others into situations where we are likely to have sensations and ideas in worthwhile ways, in ways that lead on to something else and so
+insure that the person be developed and recreated by them and not be exhausted by the mere having of them. 
 
+## What a **Suggestion** Is 
 
-Many a child, as noted earlier, has tried to see whether he 
-could not stop ‘ thinking,’ whether he could not arrest the 
-flow of ideas passing through his head. But‘ thoughts,’ of this 
-rudimentary and uncontrolled sort, spring into being quite 
-
-
-
-
-as surely as “our bodies feel, where’er they be, against or 
-with our will.” We cannot make ourselves have ideas or not 
-have them any more than we can directly make ourselves 
-have sensations from things. In the one case as in the other, 
-we can put ourselves or be put by others into situations 
-where we are likely to have sensations and ideas in worthwhile ways, in ways that lead on to something else and so
-insure that the person be developed and recreated by them 
-and not be exhausted by the mere having of them. 
-
-
-What a **Suggestion** Is 
-
-
-Ideas, in this primitive and spontaneous sense, are suggestions. Nothing in experience is absolutely simple, single,
-and isolated. Everything experienced comes to us along with 
-some other object, quality, or event. Some object is focal 
-and most distinct, but it shades off into other things. A 
-child may be absorbed in watching a bird; for the bright 
-center of his consciousness there is nothing but the bird 
-there. But of course it is somewhere — on the ground, in a 
-tree. And the actual experience includes much more. The 
-bird also is doing something — flying, pecking, feeding, 
-singing, etc. And the experience of the bird is itself complex, 
-not a single sensation; there are numbers of related qualities included within it. This highly elementary illustra-
-tion indicates why it is that the next time a child sees a 
-bird, he will ‘ think ’ of something else that is not then present. That is to say, that portion of his present experience
-which is like that of prior experience will call up or suggest 
+Ideas, in this primitive and spontaneous sense, are suggestions. Nothing in experience is absolutely simple, single, and isolated. Everything experienced comes to us along with some other object, quality, or event. Some object is focal and most distinct, but it shades off into other things. A child may be absorbed in watching a bird; for the bright center of his consciousness there is nothing but the bird there. But of course it is somewhere — on the ground, in a tree. And the actual experience includes much more. The bird also is doing something — flying, pecking, feeding, singing, etc. And the experience of the bird is itself complex, not a single sensation; there are numbers of related qualities included within it. This highly elementary illustration indicates why it is that the next time a child sees a bird, he will ‘ think ’ of something else that is not then present. That is to say, that portion of his present experience which is like that of prior experience will call up or suggest 
 some thing or quality connected with it which was present 
 in the total previous experience; that thing or quality in 
 turn may suggest something connected with itself; it not 
