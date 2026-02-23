@@ -22,7 +22,6 @@ type: cog-psy/report
 link-up:
   - "[[99-archive/05-moc's/cognitive-science-moc]]"
 link-related:
-  - "[[2025-11-22|Daily-Note]]"
 ---
 #  Methodological Analysis of Personal Knowledge Management Practices as Applied Frameworks for Metacognition,
 
