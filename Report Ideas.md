@@ -448,5 +448,6 @@ Im interested in exploring how cognitive science principles can be applied to pe
 ```
 ---
 
-```topic_idea
+
+
 
