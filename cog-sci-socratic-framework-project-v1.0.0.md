@@ -1,3 +1,330 @@
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Cognitive Science Socratic Framework — Project Master File v1.0.0"
+aliases:
+  - Cog-Sci Socratic Framework Project
+  - Architecture of Excellent Thinking Project
+  - Socratic Synthesis Report Series
+  - Examined Life Framework Project
+  - Critical Thinking Integration Project
+  - Cog-Sci Framework v1
+  - Socratic CT Framework Master
+  - Distinguished Research Scholar Series
+type: project-master-file
+status: complete
+confidence: high
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  # Content Type
+  - project-master-file
+  - composite-document
+  - project-brief
+  - prompt-engineering
+  - academic-synthesis-series
+
+  # Domain (hierarchical)
+  - cognitive-psychology/metacognition
+  - cognitive-psychology/critical-thinking
+  - educational-psychology/learning-frameworks
+  - philosophy/epistemology
+  - philosophy/stoicism
+  - philosophy/pragmatism
+  - philosophy/socratic-method
+  - cognitive-psychology/dual-process-theory
+  - educational-psychology/self-regulated-learning
+  - educational-psychology/constructivism
+  - educational-psychology/motivation
+
+  # Methodology
+  - socratic-synthesis-protocol
+  - multi-framework-integration
+  - longitudinal-series
+  - empirical-synthesis
+  - prompt-engineering
+  - pkb-project
+
+  # Project Status
+  - series-complete
+  - needs-splitting
+  - archive
+
+  # Scope
+  - eight-report-series
+  - comprehensive
+  - evergreen
+
+domain: cognitive-psychology
+subdomains:
+  - metacognition
+  - critical-thinking
+  - educational-psychology
+  - philosophy-of-mind
+  - epistemology
+  - motivational-psychology
+  - self-regulated-learning
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-02-01
+updated: 2026-02-01
+version: 1.0.0
+
+# ═══════════════════════════════════════════════════════════════════════════
+# DOCUMENT ARCHITECTURE
+# ═══════════════════════════════════════════════════════════════════════════
+doc_id: "Cog-Sci-Socratic-Framework-Project-v1_0_0"
+doc_type: project-master-file
+author: claude-sonnet-4-5
+
+document-components:
+  - component: "Project Brief & Vision"
+    description: "Original design intent, goals, framework ideas, and constraints for the report series"
+    lines: "1–68"
+
+  - component: "8-Report Arc"
+    description: "Pre-planned synthesis arc with individual report abstracts and wiki-link seeding"
+    lines: "70–201"
+
+  - component: "Socratic Synthesis System Prompt"
+    description: "Distinguished Research Scholar persona prompt with full Socratic Synthesis Protocol (Phases 0–4)"
+    lines: "203–413"
+
+  - component: "PKB Metadata Template"
+    description: "YAML frontmatter template intended for individual reports when separated"
+    lines: "416–499"
+
+  - component: "Report 01 — The Inquiry Engine"
+    description: "Synthesis of Dewey's Reflective Thinking, Socratic Method, and Metacognitive Monitoring as a unified activation system"
+    lines: "500–approx 1100"
+
+  - component: "Report 02 — The Fallible Knower"
+    description: "Epistemology, Pragmatic Maxim, Fallibilism, and Constructivism synthesized into an epistemological posture"
+    status: complete
+
+  - component: "Report 03 — The Motivated Mind"
+    description: "Self-Determination Theory, Flow, Stoic prohairesis, and intrinsic motivation synthesized into cognitive vitality theory"
+    status: complete
+
+  - component: "Report 04 — Cognitive Scaffolding as Philosophical Practice"
+    description: "ZPD, Pragmatic Maxim, Schema Theory, and Cognitive Load Theory synthesized into intelligent cognitive construction"
+    status: complete
+
+  - component: "Report 05 — The Virtuous Reasoner"
+    description: "Intellectual virtues, Stoic virtue ethics, and cognitive bias science synthesized as functional cognitive tools"
+    status: complete
+
+  - component: "Report 06 — Taming System 1"
+    description: "Dual Process Theory, Stoic prosoche, metacognitive self-regulation, and debiasing synthesized into System 1 governance"
+    status: complete
+
+  - component: "Report 07 — The Self-Directed Learner"
+    description: "Self-regulated learning, Constructivism, SDT internalization, and metacognitive strategies synthesized into lifelong self-construction"
+    status: complete
+
+  - component: "Report 08 — The Examined Life in Practice"
+    description: "Capstone synthesis of all seven reports into integrated cognitive orientation as philosophy of mind"
+    status: complete
+
+series-complete: true
+total-reports: 8
+approximate-word-count: 55000+
+needs-splitting: true
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE & GENERATION METADATA
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: ai-generated-academic-synthesis
+generation-model: claude-sonnet-4-5
+generation-prompt: "Distinguished Research Scholar — Socratic Synthesis Protocol v1"
+research-method: "web-research-grounded-synthesis"
+generation-approach: "multi-phase socratic protocol (Phase 0 scoping → Phase 1 blueprint → Phase 2 composition → Phase 3 metacognitive review → Phase 4 final rendering)"
+
+source-quality: high
+evidence-quality: high
+peer-validation: empirical-studies-cited
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE FRAMEWORKS INTEGRATED
+# ═══════════════════════════════════════════════════════════════════════════
+integrated-frameworks:
+  - "[[Dewey's Reflective Thinking]]"
+  - "[[Socratic Method]]"
+  - "[[Metacognition]]"
+  - "[[Dual Process Theory]]"
+  - "[[Epistemology]]"
+  - "[[Pragmatic Maxim]]"
+  - "[[Fallibilism]]"
+  - "[[Constructivism]]"
+  - "[[Schema Theory]]"
+  - "[[Self-Determination Theory]]"
+  - "[[Flow]]"
+  - "[[Stoicism]]"
+  - "[[Zone of Proximal Development]]"
+  - "[[Cognitive Load Theory]]"
+  - "[[Intellectual Virtues]]"
+  - "[[Self-Regulated Learning]]"
+  - "[[Metacognitive Self-Regulation]]"
+
+key-synthesized-concepts:
+  - "Inquiry as mode of encountering the world"
+  - "Epistemological posture as metacognitive self-regulation"
+  - "Cognitive vitality via autonomy-intrinsic motivation intersection"
+  - "Intelligent cognitive construction at the edge of competence"
+  - "Intellectual virtues as functional cognitive tools"
+  - "System 1 governance through Stoic-cognitive science integration"
+  - "Lifelong self-construction as internalized regulatory architecture"
+  - "The Examined Life as integrated philosophy of mind"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+related:
+  - "[[Critical Thinking Skills and Metacognitive Self-Regulation]]"
+  - "[[Metacognition]]"
+  - "[[Socratic Method]]"
+  - "[[Dual Process Theory]]"
+  - "[[Self-Regulated Learning]]"
+  - "[[Epistemology]]"
+  - "[[Stoicism]]"
+  - "[[Constructivism]]"
+  - "[[Self-Determination Theory]]"
+  - "[[Cognitive Load Theory]]"
+  - "[[Schema Theory]]"
+  - "[[Zone of Proximal Development]]"
+  - "[[Intellectual Virtues]]"
+  - "[[Flow]]"
+
+prerequisites:
+  - "[[Introduction to Critical Thinking]]"
+  - "[[Metacognition Fundamentals]]"
+  - "[[Basic Argument Analysis]]"
+  - "[[Logical Reasoning Foundations]]"
+
+broader:
+  - "[[Cognitive Psychology]]"
+  - "[[Educational Psychology]]"
+  - "[[Philosophy of Mind]]"
+  - "[[Applied Epistemology]]"
+  - "[[Rationality Studies]]"
+
+narrower:
+  - "[[Report 01 — The Inquiry Engine]]"
+  - "[[Report 02 — The Fallible Knower]]"
+  - "[[Report 03 — The Motivated Mind]]"
+  - "[[Report 04 — Cognitive Scaffolding as Philosophical Practice]]"
+  - "[[Report 05 — The Virtuous Reasoner]]"
+  - "[[Report 06 — Taming System 1]]"
+  - "[[Report 07 — The Self-Directed Learner]]"
+  - "[[Report 08 — The Examined Life in Practice]]"
+
+see-also:
+  - "[[Distinguished Research Scholar System Prompt]]"
+  - "[[Socratic Synthesis Protocol]]"
+  - "[[PKB Metadata Template — Reports]]"
+  - "[[Debiasing Interventions]]"
+  - "[[Bayesian Reasoning]]"
+  - "[[Argument Mapping]]"
+  - "[[Eudaimonia as Cognitive Achievement]]"
+  - "[[Cognitive Ecology Design]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SPLITTING ROADMAP
+# ═══════════════════════════════════════════════════════════════════════════
+splitting-plan:
+  - "Distinguished Research Scholar System Prompt" → separate prompt-engineering note
+  - "PKB Metadata Template" → separate PKB-infrastructure note
+  - "Report 01" → permanent note with individual metadata
+  - "Report 02" → permanent note with individual metadata
+  - "Report 03" → permanent note with individual metadata
+  - "Report 04" → permanent note with individual metadata
+  - "Report 05" → permanent note with individual metadata
+  - "Report 06" → permanent note with individual metadata
+  - "Report 07" → permanent note with individual metadata
+  - "Report 08" → permanent note with individual metadata
+
+splitting-status: pending
+
+# ═══════════════════════════════════════════════════════════════════════════
+# QUALITY INDICATORS
+# ═══════════════════════════════════════════════════════════════════════════
+empirical-support:
+  - Dewey reflective thinking (1910, 1933)
+  - Schraw & Dennison MAI (1994)
+  - Halpern transfer model (1998)
+  - Sperber et al. epistemic vigilance (2010)
+  - Dwyer et al. integrated CT framework (2014)
+  - Rivas & Saiz PENCRISAL (2012, 2015)
+  - Nadurak dual-process metacognition (2023)
+  - Martinez et al. debiasing meta-analysis N=53 RCTs (2025)
+  - Rivas et al. CT-metacognition-wellbeing SEM (2025)
+  - Brady et al. dual-process LLM (2025)
+
+validation-evidence:
+  - Multiple empirical citations per report
+  - Web-research-grounded composition
+  - Cross-report conceptual consistency
+  - Convergent validity across frameworks
+
+limitations-noted:
+  - AI-generated synthesis requiring expert review before academic use
+  - Reports not yet individually split and formatted
+  - Individual report metadata not yet applied
+  - Some synthesis claims represent original theoretical integration beyond existing literature
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
+review-frequency: on-splitting
+mastery-stage: archive-pending-split
+importance: critical
+foundational-for-future-learning: true
+next-action: "Split into individual component notes with per-report metadata"
+
+connection-strength:
+  high:
+    - "[[Critical Thinking Skills and Metacognitive Self-Regulation]]"
+    - "[[Metacognition]]"
+    - "[[Socratic Method]]"
+    - "[[Dual Process Theory]]"
+  medium:
+    - "[[Cognitive Load Theory]]"
+    - "[[Self-Determination Theory]]"
+    - "[[Intellectual Virtues]]"
+  exploratory:
+    - "[[Eudaimonia as Cognitive Achievement]]"
+    - "[[Cognitive Ecology Design]]"
+    - "[[Transfer of Thinking Skills Across Domains]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SUMMARY
+# ═══════════════════════════════════════════════════════════════════════════
+summary: "Master project file for the Cognitive Science Socratic Framework series — a complete 8-report body of work synthesizing metacognition, critical thinking, epistemology, Stoicism, constructivism, SDT, dual process theory, and intellectual virtue theory into an integrated framework called the Examined Life. Contains the original project brief, 8-report arc plan, the Distinguished Research Scholar system prompt (Socratic Synthesis Protocol), the PKB metadata template for reports, and all 8 fully-generated long-form reports (~55,000+ words). Pending splitting into individual component notes."
+
+keywords:
+  - cognitive-science
+  - critical-thinking
+  - metacognition
+  - socratic-method
+  - epistemology
+  - stoicism
+  - constructivism
+  - self-determination-theory
+  - dual-process-theory
+  - intellectual-virtues
+  - self-regulated-learning
+  - examined-life
+  - framework-synthesis
+  - project-master-file
+---
+
+
+
 I have an idea for a potential framework that I want to explore and develop through a series of reports.
 
 # The Goal
