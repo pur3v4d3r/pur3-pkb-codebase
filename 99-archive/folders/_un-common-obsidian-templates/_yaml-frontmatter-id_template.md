@@ -1,6 +1,6 @@
 ---
 title: ""
-id: <% tp.date.now("YYYYMMDD-HHmmss") %>
+id: 20260228-151300
 type: ""
 status: ""
 rating: ""

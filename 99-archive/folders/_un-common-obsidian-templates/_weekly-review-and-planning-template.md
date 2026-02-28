@@ -1,15 +1,15 @@
 ---
 type: weekly-review
 tags:
-year: <% tp.date.now("YYYY") %>
+year: 2026
 ---
 
-# Week <% tp.frontmatter.week_number %> Review - <% moment(tp.date.now("YYYY-MM-DD")).format("MMMM YYYY") %>
+# Week undefined Review - February 2026
 
 > [!abstract] Week at a Glance
-> **Period**: <% moment(tp.frontmatter.week_start).format("MMM DD") %> - <% moment(tp.frontmatter.week_end).format("MMM DD, YYYY") %>
-> **Energy Level**: <% tp.frontmatter.energy_level %>
-> **Satisfaction**: <% "⭐".repeat(tp.frontmatter.satisfaction_rating) %>
+> **Period**: Feb 28 - Feb 28, 2026
+> **Energy Level**: undefined
+> **Satisfaction**: 
 
 ---
 
@@ -181,10 +181,10 @@ year: <% tp.date.now("YYYY") %>
 
 ## 🔗 Connected Reviews
 
-- Previous Week: [[Week <% tp.frontmatter.week_number - 1 %> Review - <% tp.frontmatter.year %>]]
-- Next Week: [[Week <% tp.frontmatter.week_number + 1 %> Review - <% tp.frontmatter.year %>]]
-- Monthly Summary: [[<% moment(tp.date.now("YYYY-MM-DD")).format("YYYY-MM") %> Monthly Review]]
-- Annual Review: [[<% tp.frontmatter.year %> Year in Review]]
+- Previous Week: [[Week NaN Review - undefined]]
+- Next Week: [[Week NaN Review - undefined]]
+- Monthly Summary: [[2026-02 Monthly Review]]
+- Annual Review: [[undefined Year in Review]]
 
 ---
-*Review Completed: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
+*Review Completed: 2026-02-28 15:13*

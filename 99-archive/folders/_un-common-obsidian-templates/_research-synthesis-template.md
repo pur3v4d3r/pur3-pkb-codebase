@@ -1,19 +1,19 @@
 ---
 type: research-synthesis
 tags: #research #synthesis #academic #analysis
-research_topic: "<% await tp.system.prompt("Primary research topic/question") %>"
-research_phase: <% await tp.system.suggester(["📚 Literature Review", "🔬 Data Collection", "📊 Analysis", "✍️ Writing", "🔄 Revision"], ["literature-review", "data-collection", "analysis", "writing", "revision"]) %>
-discipline: <% await tp.system.suggester(["Social Sciences", "Natural Sciences", "Humanities", "Technology/Engineering", "Interdisciplinary"], ["social-sciences", "natural-sciences", "humanities", "technology", "interdisciplinary"]) %>
-start_date: <% tp.date.now("YYYY-MM-DD") %>
-target_completion: <% moment(tp.date.now("YYYY-MM-DD")).add(90, 'days').format("YYYY-MM-DD") %>
+research_topic: "null"
+research_phase: null
+discipline: null
+start_date: 2026-02-28
+target_completion: 2026-05-29
 status: "🔬 Active Research"
-methodology: "<% await tp.system.prompt("Primary research methodology (e.g., systematic review, qualitative analysis, experimental)") %>"
+methodology: "null"
 ---
 
-# <% tp.file.title %>
+# 2.0.7_template_research_note
 
 > [!definition] Research Question
-> **Primary Question**: <% tp.frontmatter.research_topic %>
+> **Primary Question**: undefined
 > 
 > **Sub-Questions:**
 > 1. 
@@ -170,7 +170,7 @@ graph TD
 
 ### Research Design
 
-**Approach**: <% tp.frontmatter.methodology %>
+**Approach**: undefined
 
 **Rationale**:
 
@@ -227,11 +227,11 @@ graph TD
 
 | Phase | Tasks | Deadline | Status |
 |-------|-------|----------|--------|
-| Literature Review | Identify 50 key sources | <% moment(tp.date.now("YYYY-MM-DD")).add(30, 'days').format("YYYY-MM-DD") %> | 🟡 |
-| Framework Development | Complete theoretical synthesis | <% moment(tp.date.now("YYYY-MM-DD")).add(45, 'days').format("YYYY-MM-DD") %> | ⚪ |
-| Data Collection | | <% moment(tp.date.now("YYYY-MM-DD")).add(60, 'days').format("YYYY-MM-DD") %> | ⚪ |
-| Analysis | | <% moment(tp.date.now("YYYY-MM-DD")).add(75, 'days').format("YYYY-MM-DD") %> | ⚪ |
-| First Draft | | <% moment(tp.date.now("YYYY-MM-DD")).add(90, 'days').format("YYYY-MM-DD") %> | ⚪ |
+| Literature Review | Identify 50 key sources | 2026-03-30 | 🟡 |
+| Framework Development | Complete theoretical synthesis | 2026-04-14 | ⚪ |
+| Data Collection | | 2026-04-29 | ⚪ |
+| Analysis | | 2026-05-14 | ⚪ |
+| First Draft | | 2026-05-29 | ⚪ |
 
 ---
 
@@ -263,4 +263,4 @@ graph TD
 
 ---
 
-*Research Log Updated: <% tp.date.now("YYYY-MM-DD HH:mm") %>*
+*Research Log Updated: 2026-02-28 15:16*

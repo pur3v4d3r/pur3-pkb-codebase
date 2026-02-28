@@ -1,9 +1,9 @@
 ---
-title: <% tp.file.title %>
-id: <% tp.date.now("YYYYMMDD-HHmmss") %>
-created: <% tp.file.creation_date('YYYY-MM-DD HH:mm') %>
-updated: <% tp.file.last_modified_date('YYYY-MM-DD HH:mm') %>
-week: <% tp.date.now('GGGG-[W]WW') %>
+title: wip-yaml-prompt-template-for-llm
+id: 20260228-151648
+created: 2025-12-27 10:25
+updated: 2026-01-07 04:30
+week: 2026-W09
 url: ❔
 tags:
   - cognitive-science

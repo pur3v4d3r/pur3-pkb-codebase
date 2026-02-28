@@ -22,7 +22,7 @@ aliases:
 ## Reference Key
 
 - []     - Note: These only deliniate seperation here, not throughout the PKB.
-- [{id}] - All id's are generated through Templater via [<% tp.date.now("YYYYMMDDHHmmss") %>]
+- [{id}] - All id's are generated through Templater via [20260228151554]
 - pur3   - Type of note created by the user me Pur3v4d3r
 - Permanent Notes - These are not the same as a traditional Atomic Note These are definition or notes Im keeping on specific termonology Im studying, definitions, theories, methodologies, frameworks, the people resopnsible for these academic acts, Etc.These get stored in temporary folder within a permanent folder. The move freeley between the temporary options based on what Im studying. I just keep adding to them everytime I come across new information, connecting it to the information I currently have stored in these notes. So some are far more advanced then others but its okay because I see it as they are a some what realistic representation of what I have learned, just explecitley more detailed. I find that this is an exceptional way to learn. What are your thoughts on this? I dont know if there is already something silmilar or not. I havent come across it yet if there is. Is this system any good, or am I messing up something, It kind of just devweloped on its own.
 - I need to figuer out a way to incorperate an Id marker or something into the notes name however when I add in the Id it breaks the ability to use them as wiki links in the generated content you provide me with, as it looks like this: "…the [[Self-Regulation Theory 20251117035824]] is based on this…" so I need help with this system.

@@ -1,17 +1,17 @@
 ---
-created: "<% tp.date.now("YYYY-MM-DD") %>"
-week: "<% tp.date.now("gggg-[W]WW")%>"
-month: "<% tp.date.now("YYYY-MM") %>"
-quarter: "<% tp.date.now("YYYY-[Q]Q")%>"
-year: "<% tp.date.now("YYYY") %>"
-id: "<% tp.date.now("YYYYMMDD-HHmmss") %>"
+created: "2026-02-28"
+week: "2026-W09"
+month: "2026-02"
+quarter: "2026-Q1"
+year: "2026"
+id: "20260228-151400"
 type: person-profile
-person_type: <% await tp.system.suggester(["Academic Researcher", "Theorist/Philosopher", "Author/Writer", "Practitioner/Innovator", "Interdisciplinary Scholar"], ["researcher", "theorist", "author", "practitioner", "interdisciplinary"]) %>
-primary_discipline: "<% await tp.system.prompt("Primary academic discipline/field") %>"
+person_type: null
+primary_discipline: "null"
 research_area: 
-  - "<% await tp.system.prompt("Research area 1") %>"
+  - "null"
 aliases:
-  - <% tp.file.title %>
+  - 2.0.7_template_research_note
 tags:
   - pkm/research
   - cognitive-science
@@ -27,13 +27,13 @@ tags:
   - nature/declarative
 ---
 
-# <% tp.file.title %>
+# 2.0.7_template_research_note
 
 > [!abstract] Academic Overview
-> [**Primary Role**:: <% tp.frontmatter.person_type %>]
-> [**Discipline**:: <% tp.frontmatter.primary_discipline %>]
+> [**Primary Role**:: undefined]
+> [**Discipline**:: undefined]
 > [**Institution**:: ]
-> [**Research Focus**:: <% tp.frontmatter.research_area %>]
+> [**Research Focus**:: undefined]
 
 ---
 
@@ -170,7 +170,7 @@ TABLE
   author AS "Author",
   year AS "Year",
   type AS "Type"
-FROM [[<% tp.file.title %>]]
+FROM [[2.0.7_template_research_note]]
 WHERE type = "literature-note" OR contains(file.tags, "literature-note")
 SORT year DESC
 ```
@@ -235,5 +235,5 @@ SORT year DESC
 
 ---
 
-*Profile Created: <% tp.date.now("YYYY-MM-DD") %>*
-*Last Updated: <% tp.date.now("YYYY-MM-DD") %>*
+*Profile Created: 2026-02-28*
+*Last Updated: 2026-02-28*

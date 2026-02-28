@@ -7,43 +7,44 @@
   }
 }
 
+.sc-selected-pill-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 6px;
+  gap: 6px;
+
+  & button {
+    justify-self: flex-end;
+  }
+  &:not(:has(.sc-selected-pill)) {
+    display: none;
+  }
+}
+
+.sc-selected-pill {
+  display: inline-flex;
+  align-items: center;
+  background-color: var(--background-secondary);
+  color: var(--text-normal);
+  border-radius: 12px;
+  padding: 2px 8px;
+  font-size: 0.9em;
+  cursor: default;
+}
+
+.sc-selected-pill-remove {
+  margin-left: 6px;
+  cursor: pointer;
+}
+
+.sc-selected-pill-icon {
+  margin-left: 6px;
+}
+
 .setting-explanation {
   /* should be easy to highlight and copy */
   & code {
     cursor: text;
     user-select: all;
   }
-}
-
-
-/* Context Codeblock */
-.sc-tree {
-  list-style: none;
-  padding-left: 0;
-}
-
-.sc-label {
-  cursor: pointer;
-  user-select: none;
-}
-
-.sc-size {
-  opacity: 0.6;
-  margin-left: 4px;
-  font-size: 0.85em;
-}
-
-.sc-toggle {
-  width: 1em;
-  display: inline-block;
-  text-align: center;
-}
-
-.sc-file>.sc-label:hover,
-.sc-dir>.sc-label:hover {
-  background: var(--background-modifier-hover);
-}
-
-.sc-external-btn {
-  margin-top: 8px;
 }

@@ -10,7 +10,7 @@ aliases:
 type: ⚙️reference
 status: 🌿growing
 priority: ""
-created: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
+created: 2026-02-28T15:15:54
 source: Pur3v4d3r
 url: ""
 tags:

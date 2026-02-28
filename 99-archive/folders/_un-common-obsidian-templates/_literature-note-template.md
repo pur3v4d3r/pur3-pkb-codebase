@@ -1,8 +1,8 @@
 ---
-title: '"<% await tp.system.prompt("Title for YAML") %>"'
-id: <% tp.date.now("YYYYMMDD-HHmmss") %>
-created: <% tp.file.creation_date('YYYY-MM-DD HH:mm') %>
-week: <% tp.date.now('GGGG-[W]WW') %>
+title: '"null"'
+id: 20260228-151649
+created: 2025-12-27 10:25
+week: 2026-W09
 type: literature
 status: seedling
 source: pur3v4d3r
@@ -21,10 +21,10 @@ aliases:
   - Literature Note
 link-up: []
 link-related:
-  - '[[<% tp.date.now("YYYY-MM-DD") %>]]'
+  - '[[2026-02-28]]'
 ---
 
-# [[<% tp.date.now("YYYY-MM-DD") %>|<% tp.date.now("dddd, MMMM Do, YYYY") %>]]
+# [[2026-02-28|Saturday, February 28th, 2026]]
 
 
 
