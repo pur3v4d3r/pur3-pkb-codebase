@@ -1,0 +1,682 @@
+{
+  "framework": "Mental Models Library",
+  "authors": ["Curated by DeweyCT"],
+  "year": 2025,
+  "source": "Curated synthesis drawing on: Charlie Munger (Poor Charlie's Almanack), Shane Parrish (Farnam Street), Philip Tetlock (Superforecasting), Daniel Kahneman (Thinking, Fast and Slow), Nassim Taleb (The Black Swan), Donella Meadows (Thinking in Systems), Karl Popper (The Logic of Scientific Discovery), and others.",
+  "description": "A curated library of 30 mental models selected for their direct relevance to the kind of critical, reflective thinking that John Dewey describes in 'How We Think.' These are not a comprehensive encyclopedia — they are a working toolkit. Each model is a conceptual lens that, when applied to a problem, reveals aspects of it that would be invisible without the lens. The selection criterion was practical utility for the DeweyCT user: models that directly support Dewey's five phases of reflective thinking, that align with the Paul-Elder elements of thought, and that complement Bloom's taxonomy by adding specific cognitive tools rather than just describing cognitive levels.\n\nThe models are organized into five functional categories: Reasoning and Logic (tools for structuring inference and argument), Systems Thinking (tools for understanding complex interdependencies), Decision Making (tools for improving choices under uncertainty), Cognitive Biases (tools for recognizing and correcting systematic errors in judgment), and Epistemology (tools for assessing the quality and limits of knowledge). Within each category, models are ordered from most foundational to most advanced.",
+  "dewey_integration": "Mental models are the conceptual vocabulary that Dewey identifies as necessary for productive hypothesis generation (Phase 3). A thinker with a rich repertoire of mental models can generate more diverse and more plausible hypotheses because they have more frameworks through which to interpret their experience. Dewey argues that the quality of suggestions depends on the quality of prior experience — mental models are the distilled, transferable residue of prior experience, made available for use in new situations. The mental models library also supports Phase 4 (Reasoning) by providing specific tools for tracing implications and checking internal consistency.",
+  "common_misconceptions": [
+    {
+      "misconception": "Mental models are clever shortcuts that replace careful thinking.",
+      "correction": "Mental models are lenses, not answers. They reveal aspects of a situation that might otherwise be invisible, but they do not generate conclusions automatically. The same mental model applied to the same situation by two different thinkers will produce different insights depending on the quality of their reasoning. Models are tools for thinking, not substitutes for it.",
+      "pedagogical_implication": "Teach mental models alongside explicit reasoning practice. A model learned as a concept but never applied to a real problem is no different from any other piece of abstract vocabulary — memorable but inert."
+    },
+    {
+      "misconception": "Having more mental models is always better.",
+      "correction": "A large collection of poorly-understood models is less useful than a small collection of deeply understood ones. The goal is not to accumulate models but to internalize a manageable set thoroughly enough to apply them instinctively in real situations. Charlie Munger's recommendation was to understand the 'big ideas from the big disciplines' deeply, not to collect a catalog of labels.",
+      "pedagogical_implication": "Focus exercise design on deep application of a small number of models rather than superficial familiarity with many. A learner who can genuinely apply Inversion and First Principles Thinking to real problems has more practical capacity than one who can name thirty models."
+    },
+    {
+      "misconception": "Mental models from one domain transfer automatically to any other domain.",
+      "correction": "Models carry assumptions that may not hold in every context. The Pareto Principle (80/20) describes wealth distribution accurately but should not be applied to medical treatment without careful domain-specific reasoning. Transfer requires explicit attention to whether the model's underlying assumptions hold in the new context.",
+      "pedagogical_implication": "Require learners to identify the assumptions embedded in any mental model before applying it to a new domain. Ask: what would have to be true for this model to apply here?"
+    }
+  ],
+  "app_usage": {
+    "exercise_integration": "Mental models appear in 'framework_application' exercises, where learners are asked to apply a specific model to a scenario. The model is specified in the exercise metadata, and the LLM evaluates whether the learner has genuinely applied the model or merely named it.",
+    "template_integration": "In the Paul-Elder Analysis template, the Concepts field links to this library — when a user identifies the conceptual frameworks organizing their thinking, the app can surface relevant mental models from the same category.",
+    "concept_card_integration": "Each mental model has a concept card view in the app's reference library. Cards are browsable by category and searchable by name, with Dewey and Bloom cross-references displayed.",
+    "difficulty_scaling": "Models are tagged with Bloom levels indicating the cognitive level at which they can be applied. Remember/Understand exercises ask learners to explain a model; Analyze/Evaluate exercises ask them to apply it to a case and assess its fit."
+  },
+  "categories": [
+    {
+      "category": "Reasoning and Logic",
+      "description": "Tools for structuring inference, argument, and problem analysis. These models provide frameworks for moving from observations and evidence to well-grounded conclusions.",
+      "model_count": 8
+    },
+    {
+      "category": "Systems Thinking",
+      "description": "Tools for understanding complex interdependencies, feedback loops, and emergent behavior. These models reveal how parts of a system interact to produce outcomes that cannot be predicted by examining the parts in isolation.",
+      "model_count": 5
+    },
+    {
+      "category": "Decision Making",
+      "description": "Tools for improving choices under uncertainty, including frameworks for weighing evidence, managing risk, and avoiding common decision traps.",
+      "model_count": 6
+    },
+    {
+      "category": "Cognitive Biases",
+      "description": "Systematic patterns of deviation from rational judgment. Understanding these biases is the first step toward correcting them — or at least recognizing when they may be operating.",
+      "model_count": 7
+    },
+    {
+      "category": "Epistemology",
+      "description": "Tools for assessing the quality, limits, and reliability of knowledge claims. These models address the fundamental question of how we know what we know — and how confident we should be.",
+      "model_count": 4
+    }
+  ],
+  "models": [
+    {
+      "id": "mm-rl-01",
+      "name": "First Principles Thinking",
+      "category": "Reasoning and Logic",
+      "definition": "Breaking a complex problem down to its most fundamental, verified components — stripping away assumptions, analogies, and inherited conventions — and reasoning upward from those verified foundations rather than from existing solutions or conventional wisdom.",
+      "origin": "Aristotle (Nicomachean Ethics, Posterior Analytics); extensively applied in contemporary usage by Elon Musk and popularized in critical thinking literature.",
+      "when_to_use": "When existing solutions feel constraining; when you suspect that accepted approaches are based on assumptions that no longer hold; when you want to find genuinely novel approaches rather than incremental improvements on existing ones; when you need to distinguish what is actually known from what is assumed.",
+      "how_to_apply": [
+        "Identify the problem or belief you want to examine.",
+        "Ask: what do I know for certain about this? What can I verify directly from evidence or first principles?",
+        "List everything you believe about the problem, then systematically categorize each item as 'verified fact,' 'reasonable assumption,' or 'conventional wisdom inherited without examination.'",
+        "Strip away the assumptions and conventions, retaining only the verified foundations.",
+        "Rebuild your understanding of the problem from only the verified foundations, treating everything else as a question to be answered rather than a given to be accepted.",
+        "Generate solutions or approaches from these foundations without constraining yourself to existing conventions."
+      ],
+      "dewey_connection": "First Principles Thinking maps directly to Dewey's Phase 2 (Intellectualization) — the discipline of defining the problem precisely by separating what is actually known from what is assumed. It also supports Phase 3 (Hypothesis) by clearing the way for genuinely novel suggestions that inherited assumptions would otherwise prevent.",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Assumptions",
+      "example": "Instead of asking 'How can we reduce the cost of batteries?' (working within the existing paradigm), ask 'What are the actual physical and chemical requirements for energy storage, and what do the raw materials actually cost?' This reframing led to rethinking battery design from the chemistry up rather than from the existing product category down.",
+      "common_misuse": "Using First Principles as a license to ignore prior work or expertise — treating all existing knowledge as suspect rather than distinguishing between inherited assumptions (which should be questioned) and hard-won empirical knowledge (which should be engaged seriously). First principles thinking is not reinventing the wheel; it is knowing which wheels actually need reinventing."
+    },
+    {
+      "id": "mm-rl-02",
+      "name": "Inversion",
+      "category": "Reasoning and Logic",
+      "definition": "Approaching a problem backwards — instead of asking 'how do I achieve X?' asking 'what would guarantee that X fails?' and then systematically avoiding those conditions. Inversion reveals obstacles and failure modes that forward-only thinking misses.",
+      "origin": "Carl Jacobi (mathematician, 19th century): 'Invert, always invert.' Popularized in investing and business by Charlie Munger.",
+      "when_to_use": "When forward-only problem-solving is stuck; when you want to stress-test a plan by identifying failure modes before committing; when the goal is avoiding catastrophic errors rather than achieving optimal outcomes; when you want to build in safeguards rather than just build toward success.",
+      "how_to_apply": [
+        "State the goal you want to achieve (e.g., 'Run a successful community meeting').",
+        "Invert it: 'What would guarantee that this meeting fails completely?'",
+        "Generate a thorough list of failure conditions — everything that could go wrong.",
+        "For each failure condition, identify whether it is currently present, absent, or uncertain in your situation.",
+        "Treat each identified risk as a constraint your plan must actively address.",
+        "Check your plan: does it avoid all the identified failure conditions, or does it inadvertently create some of them?"
+      ],
+      "dewey_connection": "Inversion supports Dewey's Phase 4 (Reasoning) by helping the thinker trace the implications of the hypothesis in the negative direction — not just 'if this works, what follows?' but 'what conditions would make this fail?' It also directly supports Dewey's Phase 5 (Testing) by pre-specifying what disconfirming evidence would look like.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Implications and Consequences",
+      "example": "A leader planning an organizational change initiative asks not 'what will make this change succeed?' but 'what would guarantee that this change fails?' The list includes: key influencers who feel excluded from the design process, communication that emphasizes disruption rather than benefit, rollout that asks people to change without adequate training. Each item becomes a specific thing to avoid.",
+      "common_misuse": "Using Inversion as a reason not to try — focusing so thoroughly on failure conditions that action is paralyzed. Inversion is a planning tool, not a veto. The goal is to identify and avoid failure conditions, not to conclude that because failure is possible, success is not worth pursuing."
+    },
+    {
+      "id": "mm-rl-03",
+      "name": "Occam's Razor",
+      "category": "Reasoning and Logic",
+      "definition": "Among competing hypotheses that equally explain the available evidence, prefer the one that requires the fewest assumptions. Simpler explanations are more likely to be correct, all else being equal, because they require fewer things to be true simultaneously.",
+      "origin": "William of Ockham (14th century). The principle 'entities should not be multiplied beyond necessity' is attributed to his work in logic and theology.",
+      "when_to_use": "When multiple hypotheses explain the same evidence; when deciding how much complexity to add to a model or explanation; when evaluating whether a proposed explanation introduces unnecessary assumptions; when choosing between a simple and a complex account of the same phenomenon.",
+      "how_to_apply": [
+        "Enumerate the competing hypotheses that could explain the evidence you have.",
+        "For each hypothesis, count the number of distinct assumptions it requires — things that must be true but that are not directly evidenced.",
+        "Prefer the hypothesis with the fewest unverified assumptions, all else being equal.",
+        "Test whether the simpler hypothesis adequately explains all the observed facts; if it does, treat the additional complexity of rival hypotheses as a cost requiring justification.",
+        "Remain open to revising toward a more complex hypothesis if new evidence cannot be explained by the simpler one."
+      ],
+      "dewey_connection": "Occam's Razor supports Dewey's Phase 3 (Hypothesis) by providing a selection criterion among competing suggestions — when multiple hypotheses could explain the felt perplexity, prefer the one that requires fewer unverified assumptions. It also supports Phase 5 (Testing) by directing evidence-gathering toward the assumptions that distinguish competing hypotheses.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Assumptions",
+      "example": "A manager notices that a team's performance has declined. Hypothesis A: The team has lost motivation because of poor management. Hypothesis B: The team has lost motivation because of poor management AND their office arrangement is suboptimal AND a new software tool is creating friction AND communication has broken down with a partner team. Hypothesis A requires fewer unverified assumptions. Start there and add complexity only if A cannot explain all the observed data.",
+      "common_misuse": "Treating simplicity as an end in itself — preferring a simple explanation that doesn't actually fit the evidence over a complex one that does. Occam's Razor is a tiebreaker when explanatory power is equal, not a license to oversimplify. Einstein's attributed formulation is instructive: 'Everything should be made as simple as possible, but not simpler.'"
+    },
+    {
+      "id": "mm-rl-04",
+      "name": "Falsifiability",
+      "category": "Reasoning and Logic",
+      "definition": "A claim is falsifiable if there exists some possible observation or evidence that, if found, would prove it false. Non-falsifiable claims are not scientific and are not subject to rational evaluation by evidence. Only falsifiable claims can genuinely be supported by evidence.",
+      "origin": "Karl Popper (The Logic of Scientific Discovery, 1934). Popper proposed falsifiability as the demarcation criterion between scientific and non-scientific claims.",
+      "when_to_use": "When evaluating whether a claim is genuinely empirical or merely appears empirical; when assessing whether a hypothesis is testable; when someone proposes a theory that can explain any possible outcome; when designing an inquiry and needing to specify what would count as disconfirming evidence.",
+      "how_to_apply": [
+        "State the claim or hypothesis you want to evaluate.",
+        "Ask: what possible observation or finding would prove this claim false?",
+        "If no answer is possible — if every possible outcome is compatible with the claim — the claim is not falsifiable and cannot be confirmed by evidence.",
+        "If an answer is possible, the claim is falsifiable. Now ask: is the specified disconfirming evidence actually being sought, or only confirming evidence?",
+        "Design your testing to actively seek disconfirming evidence, not just to accumulate confirmations."
+      ],
+      "dewey_connection": "Falsifiability is the theoretical basis for Dewey's Phase 5 (Testing/Verification). Dewey's insistence that a hypothesis must be submitted to 'the test of experience' and that disconfirmation is instructive presupposes that genuine hypotheses are falsifiable — that there is some observation that would defeat them. A hypothesis that cannot be falsified is not a genuine hypothesis in Dewey's sense; it is an article of faith dressed as an inquiry.",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Information",
+      "example": "Claim A: 'This management style will improve team performance in all cases.' Not falsifiable — any outcome can be explained away. Claim B: 'Implementing weekly 1:1 check-ins will improve team performance scores (measured quarterly) by at least 10% within six months.' Falsifiable — specific, measurable, time-bounded, and states what outcome would disconfirm it.",
+      "common_misuse": "Using falsifiability to dismiss entire domains of inquiry as unscientific — ethics, aesthetics, philosophy — rather than as a tool for evaluating individual empirical claims within those domains where evidence is relevant. Popper's criterion demarcates scientific from non-scientific claims; it does not rank scientific claims above all others."
+    },
+    {
+      "id": "mm-rl-05",
+      "name": "Hanlon's Razor",
+      "category": "Reasoning and Logic",
+      "definition": "Never attribute to malice what can be adequately explained by incompetence, ignorance, or inadvertence. When explaining negative outcomes, exhaust less malevolent explanations before concluding that harmful intent is the cause.",
+      "origin": "Robert J. Hanlon (attributed, 1980). Often associated with Goethe and Napoleonic-era military history, but popularized by Hanlon.",
+      "when_to_use": "When interpreting the actions of others that have caused harm or inconvenience; when evaluating organizational failures; when assessing whether a pattern of behavior reflects intentional opposition or merely disorganized incompetence; when calibrating appropriate responses to apparent bad behavior.",
+      "how_to_apply": [
+        "Describe the observed behavior or outcome that needs explanation.",
+        "Generate the malice hypothesis: the negative outcome was intentionally caused.",
+        "Generate alternative hypotheses: ignorance, miscommunication, incompetence, differing priorities, time pressure, resource constraints.",
+        "Ask: which hypothesis requires fewer assumptions about intent? Which is consistent with what you know about the actor's general capabilities and incentives?",
+        "Apply Occam's Razor to the alternatives: prefer the explanation with fewer unverified assumptions about intention.",
+        "Reserve the malice hypothesis for situations where simpler explanations have been genuinely tested and found insufficient."
+      ],
+      "dewey_connection": "Hanlon's Razor supports Dewey's Intellectual Empathy (in Paul-Elder's terms) — the capacity to reconstruct others' behavior charitably before attributing hostile intent. It supports Phase 2 (Intellectualization) by requiring that the problem be defined at the right level of analysis: 'Why did this person make this error?' is a more tractable problem than 'How do I deal with this person's malice?'",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Interpretation and Inference",
+      "example": "A colleague fails to respond to three emails about a project deadline. Attribution A: They are deliberately obstructing the project. Attribution B: Their inbox management is poor, they are overwhelmed with other priorities, or they did not realize the emails required action. Hanlon's Razor: investigate B before concluding A. A direct conversation will resolve B quickly if true, and will provide evidence for A if B turns out to be false.",
+      "common_misuse": "Using Hanlon's Razor to dismiss evidence of genuine malice or systemic harm — refusing to recognize intentional bad behavior even when a pattern of evidence clearly points to it. The model is a starting assumption, not an excuse for naivety. When incompetence and ignorance have been ruled out and the pattern persists, malice becomes the more parsimonious explanation."
+    },
+    {
+      "id": "mm-rl-06",
+      "name": "Chesterton's Fence",
+      "category": "Reasoning and Logic",
+      "definition": "Before removing or changing something that exists, understand why it was put there in the first place. The principle holds that you should not remove a fence unless you understand the reason it was built — the reason may still be valid.",
+      "origin": "G.K. Chesterton (The Thing, 1929). Originally a political and social argument; widely adopted in systems design, software engineering, and policy analysis.",
+      "when_to_use": "Before removing a rule, process, or structure that seems unnecessary; when proposing to eliminate a practice whose purpose is unclear; when 'this seems pointless' is the primary justification for change; when inheriting a system or organization built by predecessors.",
+      "how_to_apply": [
+        "Identify the practice, rule, structure, or feature you are considering changing or eliminating.",
+        "Ask: why does this exist? What was the problem it was designed to solve?",
+        "Research or reconstruct the history: who created this, when, under what circumstances, and in response to what need?",
+        "Assess whether the original problem still exists, has changed in character, or has been solved by other means.",
+        "Only then evaluate whether the feature should be changed — with full understanding of what you might be giving up.",
+        "If you cannot identify why something exists, treat that as evidence that you do not yet understand the system well enough to change it."
+      ],
+      "dewey_connection": "Chesterton's Fence supports Dewey's Phase 2 (Intellectualization) by demanding that the problem be fully understood before solutions are proposed. It maps to Dewey's emphasis on the experiential continuity of institutional knowledge — practices that persist over time often encode solutions to problems that their current inheritors have not encountered and therefore do not recognize.",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Assumptions",
+      "example": "A new department head notices that the team submits a weekly status report that nobody seems to read and proposes to eliminate it. Chesterton's Fence: find out why the report was created. Answer: it was created after a catastrophic miscommunication three years ago that caused a major project failure. The report serves as a coordination mechanism and early-warning system, not a documentation exercise. The right response is to redesign it, not eliminate it.",
+      "common_misuse": "Using Chesterton's Fence as a conservative veto on any change — treating the mere existence of a practice as sufficient justification for its continuation. The model asks you to understand the purpose of a practice before removing it; once understood, the purpose may turn out to be obsolete, fulfilled better by other means, or less important than the costs it imposes."
+    },
+    {
+      "id": "mm-rl-07",
+      "name": "Steelmanning",
+      "category": "Reasoning and Logic",
+      "definition": "Constructing the strongest possible version of an argument or position you disagree with before evaluating or responding to it. The opposite of strawmanning. Steelmanning requires intellectual empathy — the capacity to argue more effectively for a position than its actual proponents might.",
+      "origin": "Developed in analogy to 'strawmanning' in informal logic and rhetoric. Popularized in rationalist communities and debate pedagogy.",
+      "when_to_use": "Before evaluating or responding to a position you disagree with; when designing a decision-making process that must genuinely consider opposing views; when you want to test whether your position can withstand the best possible objection; when you suspect you may be dismissing a view prematurely.",
+      "how_to_apply": [
+        "State the position you disagree with or find weak.",
+        "Ask: what is the strongest, most charitable version of this position?",
+        "Find and engage with the best sources, thinkers, or arguments supporting this position.",
+        "Reconstruct the argument in terms its proponents would recognize as fair — not in the weakest terms that are easiest to dismiss.",
+        "Identify the strongest evidence and most compelling reasoning for the position.",
+        "Only then evaluate the position — now testing your own view against its best competitor rather than its worst caricature."
+      ],
+      "dewey_connection": "Steelmanning is the operationalization of Dewey's Open-Mindedness — the willingness to genuinely consider evidence and argument from outside one's current framework. It also maps to Paul-Elder's Intellectual Empathy and to the Socratic Questioning type 'Questions that Probe Viewpoints and Perspectives.'",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Point of View",
+      "example": "A policy analyst who believes that rent control is harmful constructs a steelman of the pro-rent-control position: 'Rent control stabilizes existing communities by preventing displacement of long-term residents, who provide the social capital and local knowledge that makes neighborhoods function. In contexts where housing supply cannot increase rapidly due to geographic or regulatory constraints, the distributional benefits to existing tenants may outweigh the efficiency costs.' This is a significantly stronger version of the argument than 'renters want lower prices.'",
+      "common_misuse": "Steelmanning as performance — constructing an impressive-sounding version of the opposing position only to then defeat it with a pre-prepared response, rather than genuinely engaging with it as a possibility that might be correct. The test: are you willing to update your position if the steelmanned argument turns out to be stronger than yours?"
+    },
+    {
+      "id": "mm-rl-08",
+      "name": "Thought Experiments",
+      "category": "Reasoning and Logic",
+      "definition": "Imagined scenarios constructed to test concepts, principles, or arguments by reasoning through hypothetical cases — exploring what follows from a set of assumptions in a situation that cannot be or has not been empirically tested. Thought experiments are the mind's laboratory.",
+      "origin": "Ernst Mach (coined the term 'Gedankenexperiment'); used throughout the history of philosophy and science: Descartes' evil demon, Newton's cannonball, Einstein's riding a light beam, Trolley Problem (Philippa Foot).",
+      "when_to_use": "When empirical testing is impossible, too costly, or would take too long; when you need to test the implications of a principle against an extreme or edge case; when you want to isolate a single variable by imagining a scenario where all others are held constant; when trying to expose a logical inconsistency or reveal an unstated assumption.",
+      "how_to_apply": [
+        "Identify the concept, principle, or argument you want to test.",
+        "Construct a hypothetical scenario that isolates the feature you want to examine — hold all other variables constant.",
+        "Reason through what would happen in the scenario if the principle were true.",
+        "Check whether the outcome is consistent with your other beliefs and commitments.",
+        "If the outcome produces a contradiction or an absurdity, this is evidence against the principle (reductio ad absurdum).",
+        "If the outcome is coherent and illuminating, this is evidence for the principle — though thought experiments confirm with less force than empirical evidence."
+      ],
+      "dewey_connection": "Thought experiments are the tool of Dewey's Phase 4 (Reasoning) — the mental elaboration of the hypothesis before empirical testing. Dewey describes Phase 4 as 'reasoning in the narrower sense': the thinker follows out the implications of the hypothesis in thought, checking whether they are consistent with known facts, before committing to overt action. Thought experiments are the systematic version of this mental elaboration.",
+      "bloom_level": "Create",
+      "paul_elder_element": "Implications and Consequences",
+      "example": "To test the principle 'information is always better than ignorance,' construct a thought experiment: imagine a terminally ill patient who has not yet been told their diagnosis. Is knowing always better for them? The thought experiment forces engagement with the conditions under which the principle holds and the conditions under which it might not — revealing that the principle requires qualification ('accurate and actionable information, received in appropriate context, is generally better than ignorance').",
+      "common_misuse": "Treating thought experiment conclusions as equivalent to empirical evidence — using a compelling hypothetical to override real-world data. Thought experiments are tools for conceptual clarification and implication-tracing; they are not substitutes for empirical inquiry when empirical inquiry is possible."
+    },
+    {
+      "id": "mm-st-01",
+      "name": "Feedback Loops",
+      "category": "Systems Thinking",
+      "definition": "Circular causal chains in which the output of a system is fed back as input, either amplifying the initial change (reinforcing/positive feedback) or counteracting it (balancing/negative feedback). Understanding feedback loops is essential for predicting how systems behave over time.",
+      "origin": "Norbert Wiener (Cybernetics, 1948); Donella Meadows (Thinking in Systems, 2008); Systems Dynamics tradition (Jay Forrester, MIT).",
+      "when_to_use": "When analyzing why a system is producing counterintuitive or self-amplifying outcomes; when designing interventions in complex social, organizational, or technological systems; when trying to understand why a problem persists despite repeated attempts to solve it; when predicting the long-term behavior of a system with interdependent components.",
+      "how_to_apply": [
+        "Map the causal chain you are analyzing: A causes B, B causes C.",
+        "Ask: does C eventually cause A (or influence A's level)? If yes, you have identified a feedback loop.",
+        "Determine the type: if the loop amplifies the initial change (more A → more B → more C → more A), it is a reinforcing loop. If it counteracts the initial change (more A → more B → more C → less A), it is a balancing loop.",
+        "Identify the key variables, time delays, and stock-and-flow relationships in the loop.",
+        "Assess whether the loop is producing the behavior you observe (growth, collapse, oscillation, stability).",
+        "Identify leverage points: which variables in the loop, if changed, would most significantly alter system behavior?"
+      ],
+      "dewey_connection": "Feedback loops are relevant to Dewey's Phase 5 (Testing/Verification) — understanding that an intervention produces consequences that cycle back to affect the original conditions is essential for honest evaluation of outcomes. They also support Phase 2 (Intellectualization) by revealing that many 'problems' are not isolated causes but system behaviors generated by feedback dynamics.",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Implications and Consequences",
+      "example": "A company offers incentives for employees to report safety concerns. Reports increase (reinforcing loop: more reports → more safety improvements → more trust → more reports). But if management responds defensively to reports, a balancing loop activates (more reports → defensive response → reduced trust → fewer reports). Understanding both loops explains why the same incentive program produces opposite outcomes in different organizational cultures.",
+      "common_misuse": "Identifying feedback loops without analyzing their time delays — short-term effects of an intervention may be dominated by one loop while long-term effects are dominated by another. Delayed feedback loops are among the most common sources of systemic surprises."
+    },
+    {
+      "id": "mm-st-02",
+      "name": "Second-Order Thinking",
+      "category": "Systems Thinking",
+      "definition": "Considering not just the immediate, first-order consequences of an action but the subsequent consequences of those consequences — what happens next, and then what happens after that. Second-order thinking reveals the indirect and delayed effects that first-order analysis misses.",
+      "origin": "Howard Marks (The Most Important Thing, 2011); widely applied in investing, policy analysis, and organizational strategy.",
+      "when_to_use": "Before making decisions with complex downstream effects; when evaluating policies whose immediate outcomes seem clearly positive or negative; when opponents or competitors will react to your actions; when time horizons extend beyond the immediate term.",
+      "how_to_apply": [
+        "State the action or intervention you are considering.",
+        "Identify the first-order effects: what happens immediately and directly as a result of the action?",
+        "For each first-order effect, ask: and then what? Who will react to this outcome, and how?",
+        "Continue the chain: what are the second-order effects (consequences of the consequences)? And the third-order effects?",
+        "Identify the effects you find most surprising or counterintuitive — these are likely the ones that first-order analysis would have missed.",
+        "Assess whether the positive first-order effects are outweighed by negative higher-order effects, or vice versa."
+      ],
+      "dewey_connection": "Second-Order Thinking extends Dewey's Phase 4 (Reasoning) by requiring the thinker to follow the implications of a hypothesis not just one step but multiple steps forward. Dewey insists that reasoning must elaborate the hypothesis in thought before action — Second-Order Thinking specifies what that elaboration must include.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Implications and Consequences",
+      "example": "First-order thinking: 'Offering free parking will attract more customers to the downtown area.' Second-order thinking: 'More cars → more traffic congestion → longer travel times → reduced attractiveness for non-car users → fewer pedestrians → less sidewalk vitality → less foot traffic for retailers → worse outcomes for the businesses the parking was meant to help.'",
+      "common_misuse": "Using second-order thinking to generate an infinite regress of consequences that paralyzes decision-making. The goal is to identify the most significant downstream effects, not to trace every possible consequence to its logical end. Apply judgment about which second- and third-order effects are large enough to be decision-relevant."
+    },
+    {
+      "id": "mm-st-03",
+      "name": "The Map Is Not the Territory",
+      "category": "Systems Thinking",
+      "definition": "A model, representation, or description of reality is not reality itself. All maps involve selective abstraction — they emphasize some features and omit others. The danger is confusing the map for the territory: treating a model's properties as if they were the world's properties.",
+      "origin": "Alfred Korzybski (Science and Sanity, 1933): 'The map is not the territory and the word is not the thing it represents.'",
+      "when_to_use": "When relying heavily on models, frameworks, or data summaries to make decisions; when surprising real-world outcomes conflict with predictions; when debugging a decision-making process that worked on paper but failed in practice; when a framework has been applied to a domain for which it was not designed.",
+      "how_to_apply": [
+        "Identify the model or representation you are relying on (a theory, a framework, a data set, a mental model, a plan).",
+        "Ask: what does this model omit? What features of reality has it abstracted away?",
+        "Ask: in what conditions was this model built, and are those conditions still present?",
+        "Identify where the model's predictions have diverged from observed reality — these divergences are evidence of where the map fails to represent the territory.",
+        "Supplement the model with direct engagement with the territory: firsthand observation, qualitative evidence, edge cases."
+      ],
+      "dewey_connection": "The Map/Territory distinction is foundational to Dewey's empiricism — for Dewey, experience of the actual world (the territory) is always primary, and conceptual frameworks (maps) are tools for navigating experience, not substitutes for it. This model directly supports Phase 5 (Testing) by requiring that hypotheses be tested against reality rather than against other maps.",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Concepts",
+      "example": "An organization uses an annual employee engagement survey as its model of employee wellbeing. The map (survey scores) shows improvement. The territory (actual employee experience) includes widespread burnout that the survey questions do not capture because they were designed for a pre-pandemic context. Decisions made on the basis of the map diverge increasingly from what the territory requires.",
+      "common_misuse": "Using the map/territory distinction as a reason to distrust all models and rely only on direct intuition — treating any abstraction as suspect. All navigation requires maps; the goal is to use maps while remaining aware of their limitations, not to navigate without them."
+    },
+    {
+      "id": "mm-st-04",
+      "name": "Emergence",
+      "category": "Systems Thinking",
+      "definition": "Properties or behaviors that arise at the system level but are not present in or predictable from the individual components. Emergent properties cannot be understood by analyzing parts in isolation; they require analysis of how the parts interact.",
+      "origin": "Philosophy of biology and philosophy of mind; Stuart Kauffman (complex systems); widely applied in organizational behavior, urban planning, and ecology.",
+      "when_to_use": "When trying to explain collective behaviors that do not seem to be intended or designed by any individual; when predicting how a system will behave after a change to its components or structure; when diagnosing why an organization is producing outcomes that no individual actor intended or wants; when designing systems where the interactions between components matter as much as the components themselves.",
+      "how_to_apply": [
+        "Identify the behavior or property you are trying to explain at the system level.",
+        "Map the components of the system and their interactions.",
+        "Ask: could any single component produce this property in isolation? If no, the property is emergent.",
+        "Identify which specific interactions between components generate the emergent property.",
+        "Ask: if I change component X or the interaction between X and Y, how does the emergent property change?",
+        "Design or diagnose at the level of interactions, not just components."
+      ],
+      "dewey_connection": "Emergence supports Dewey's Phase 2 (Intellectualization) by requiring the thinker to locate problems at the right level of analysis. Many 'people problems' in organizations are emergent system properties — no individual is to blame, and no individual intervention will resolve them. Identifying the problem as emergent reframes Phase 2 away from attributing blame and toward redesigning interactions.",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Interpretation and Inference",
+      "example": "A development team produces consistently late deliveries. Analysis of individual developers shows each is performing competently. Analysis of handoffs between developers shows that each person assumes the previous step is complete before it actually is — a coordination failure. The lateness is an emergent property of the interaction pattern, not of any individual's performance.",
+      "common_misuse": "Invoking emergence as an explanation-stopper ('it's just emergent, so we can't predict it') rather than as an analytical prompt to map the interactions that generate the emergent behavior. Emergence is difficult to predict but not impossible to understand and influence."
+    },
+    {
+      "id": "mm-st-05",
+      "name": "Unintended Consequences",
+      "category": "Systems Thinking",
+      "definition": "Outcomes produced by an intervention that were not part of the intervention's intent — often opposite to or distinct from the intended effect. Unintended consequences arise from incomplete understanding of the system being intervened in, particularly its feedback loops and interdependencies.",
+      "origin": "Robert K. Merton (sociologist, 'The Unanticipated Consequences of Purposive Social Action,' 1936); widely applied in economics, policy, and systems design.",
+      "when_to_use": "Before implementing any significant intervention in a complex system; when evaluating the full track record of past interventions (not just whether they achieved the intended goal); when designing policy, organizational change, or product features in systems with many interdependent components.",
+      "how_to_apply": [
+        "State the intended effect of the intervention.",
+        "Apply Second-Order Thinking: trace the likely higher-order consequences.",
+        "Identify the feedback loops the intervention will affect, including ones that currently stabilize the system.",
+        "Ask: are there actors or parts of the system that will respond to this intervention in ways that counteract or divert it?",
+        "Consider historical analogies: have similar interventions in similar systems produced unintended consequences?",
+        "Build in monitoring mechanisms to detect unintended consequences early and respond before they become entrenched."
+      ],
+      "dewey_connection": "Unintended Consequences directly supports Dewey's Phase 5 (Testing) — requiring that evaluation of an intervention include outcomes beyond the intended ones. Dewey's emphasis on the full arc of experience (action and its consequences) is precisely the orientation needed to detect and learn from unintended effects.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Implications and Consequences",
+      "example": "A city introduces a coyote bounty to control the coyote population. Unintended consequences: hunters deplete the coyote population → rabbit population explodes → rabbits overgraze vegetation → soil erosion → watershed damage → downstream flooding. The intended intervention (predator control) produced effects across multiple trophic levels that the original analysis did not consider.",
+      "common_misuse": "Using the possibility of unintended consequences as a blanket argument against all intervention — treating the existence of unintended consequences as a reason for inaction. All actions have unintended consequences, and so does inaction. The goal is to anticipate and monitor consequences, not to use their unpredictability as a veto on action."
+    },
+    {
+      "id": "mm-dm-01",
+      "name": "Pre-Mortem",
+      "category": "Decision Making",
+      "definition": "A prospective technique in which a team imagines that a plan has already failed, then works backwards to identify the most plausible causes of that failure. By assuming failure, the pre-mortem bypasses optimism bias and surfaces risks that forward-looking planning misses.",
+      "origin": "Gary Klein (psychologist, 'Sources of Power,' 1998; widely popularized by Daniel Kahneman).",
+      "when_to_use": "Before committing to a significant plan or decision; when a team has invested heavily in a plan and may be subject to groupthink or optimism bias; when risk identification exercises have produced only superficial concerns; when there are high stakes and limited room for error.",
+      "how_to_apply": [
+        "Present the plan to the team in its current form.",
+        "Ask everyone to imagine that it is one year (or six months) from now, and the project has failed spectacularly.",
+        "Silently and individually, ask each person to write down two to three plausible reasons for the failure — reasons that come specifically from the features of this plan, not generic failure stories.",
+        "Share and compile the failure reasons without judgment.",
+        "Group the reasons by theme and assess their likelihood and impact.",
+        "For each high-likelihood, high-impact failure reason, identify a specific modification to the plan that would reduce the risk.",
+        "Revise the plan to address the most significant identified risks."
+      ],
+      "dewey_connection": "The pre-mortem is an applied version of Dewey's Phase 4 (Reasoning) directed toward failure conditions — it mentally elaborates the hypothesis ('this plan will succeed') in the negative direction, asking what would have to go wrong. It also embodies Dewey's intellectual virtue of willingness to see disconfirming evidence as instructive rather than threatening.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Implications and Consequences",
+      "example": "A product team prepares to launch a new feature. In the pre-mortem, team members generate failure reasons: 'Users don't understand the new interaction pattern and abandon the feature after one use,' 'Customer support is overwhelmed by edge-case errors we haven't anticipated,' 'The feature creates a privacy concern we haven't fully addressed.' These risks are now specific enough to be evaluated and mitigated before launch.",
+      "common_misuse": "Running a pre-mortem as a formality — asking for failure reasons in a meeting where social norms prevent genuine dissent. The pre-mortem's value depends on psychological safety and genuine willingness to hear bad news. A pre-mortem that produces only minor concerns is evidence of groupthink, not a clean plan."
+    },
+    {
+      "id": "mm-dm-02",
+      "name": "Expected Value",
+      "category": "Decision Making",
+      "definition": "The probability-weighted average of all possible outcomes. Expected value provides a principled framework for comparing decisions under uncertainty by combining how likely an outcome is with how much it matters. Expected Value = Sum of (Probability of outcome × Value of outcome) for all possible outcomes.",
+      "origin": "Blaise Pascal and Pierre de Fermat (17th century probability theory); foundational in economics, game theory, and decision science.",
+      "when_to_use": "When making decisions between options with different probabilities and magnitudes of outcomes; when evaluating whether to take a risk; when comparing options where one has a high probability of a small gain and another has a low probability of a large gain; when setting priorities across multiple initiatives with different likelihood and impact profiles.",
+      "how_to_apply": [
+        "Enumerate the possible outcomes for each decision option.",
+        "Estimate the probability of each outcome (ensuring probabilities sum to 1.0 for each option).",
+        "Estimate the value (positive or negative) of each outcome.",
+        "Calculate the expected value for each option: multiply each outcome's probability by its value and sum.",
+        "Compare expected values across options.",
+        "Adjust for factors that pure expected value does not capture: variance (risk tolerance), irreversibility, and optionality."
+      ],
+      "dewey_connection": "Expected value supports Dewey's Phase 3 (Hypothesis) by providing a framework for comparing hypotheses not just by their plausibility but by the value of acting on them if correct — a thinker should invest more in hypotheses whose correct confirmation would be highly valuable, all else being equal. It supports Phase 5 (Testing) by informing how much evidence is required before acting.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Interpretation and Inference",
+      "example": "Decision: Whether to invest time in writing a grant application (probability 20% of success, value $50,000) or in developing a consulting proposal (probability 70% of success, value $8,000). Expected value: Grant = 0.20 × $50,000 = $10,000. Consulting = 0.70 × $8,000 = $5,600. The grant has higher expected value, but the consulting proposal has lower variance — relevant if cashflow is tight.",
+      "common_misuse": "Applying expected value to situations where the probability estimates are too unreliable to be meaningful, producing false precision. When probability estimates span an order of magnitude, the expected value calculation is not informative. In those cases, decision under deep uncertainty (using robustness rather than optimization) is more appropriate."
+    },
+    {
+      "id": "mm-dm-03",
+      "name": "Opportunity Cost",
+      "category": "Decision Making",
+      "definition": "The value of the best alternative forgone when a choice is made. Every decision involves not only the cost of what is chosen but the value of what is given up by not choosing the best alternative. Opportunity cost is often invisible in conventional accounting but is always real.",
+      "origin": "Frédéric Bastiat (the 'seen and unseen,' 1850); formalized in neoclassical economics; Frederic Bastiat's 'broken window fallacy' is an early illustration.",
+      "when_to_use": "When evaluating the true cost of any decision, investment, or resource allocation; when comparing options where resources are limited; when assessing whether a current use of time, money, or attention is the best available use; when avoiding the tendency to evaluate decisions only against doing nothing rather than against doing something else.",
+      "how_to_apply": [
+        "Identify the decision you are making and the resources it will consume (time, money, attention, capital).",
+        "Identify the best alternative use of those same resources.",
+        "Estimate the value that alternative would have produced.",
+        "Include that forgone value as a cost in your evaluation of the current decision.",
+        "Ask: is the value of what I am choosing greater than the value of the best alternative I am forgoing?"
+      ],
+      "dewey_connection": "Opportunity cost supports Dewey's Phase 2 (Intellectualization) by requiring that the problem be framed in terms of comparative alternatives rather than as a binary choice between 'doing X' and 'doing nothing.' Dewey's account of the perplexity as arising from 'a forked-road situation' is precisely a situation in which opportunity cost is the relevant concept.",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Implications and Consequences",
+      "example": "A non-profit organization spends $200,000 building a proprietary data management system. The opportunity cost: that $200,000 could have been used to fund two years of program delivery. The question is not 'is the system worth $200,000?' but 'is the system worth more than two years of program delivery plus the cost of acquiring and maintaining the system long-term?'",
+      "common_misuse": "Using opportunity cost to generate an infinite regress of alternatives — 'but I could always use this time for something even more valuable.' Opportunity cost analysis requires specifying the best real alternative available, not an idealized one. The comparison is against what you would actually do with the resources, not against the best possible use."
+    },
+    {
+      "id": "mm-dm-04",
+      "name": "Reversibility and Optionality",
+      "category": "Decision Making",
+      "definition": "Classifying decisions by whether their consequences can be undone (reversible) or not (irreversible), and whether they preserve or foreclose future choices (optionality). Reversible decisions warrant faster action and higher risk tolerance; irreversible decisions warrant more deliberation and caution.",
+      "origin": "Jeff Bezos (Amazon shareholder letters, 'Type 1 vs. Type 2 decisions'); Nassim Taleb (Antifragile); options theory in finance.",
+      "when_to_use": "When calibrating how much deliberation a decision deserves; when evaluating whether to move quickly or carefully; when choosing between options that differ in how much flexibility they preserve for the future; when making decisions under uncertainty where future information may be valuable.",
+      "how_to_apply": [
+        "Classify the decision: is it reversible (can the consequences be undone at reasonable cost) or irreversible (consequences are permanent or very costly to undo)?",
+        "Assess the optionality of each option: does it preserve or foreclose future choices?",
+        "Apply different decision standards: reversible decisions can tolerate higher uncertainty and faster action; irreversible decisions warrant more deliberation and evidence.",
+        "Prefer options that preserve optionality when uncertain — all else equal, the option that keeps more future choices open is more valuable under uncertainty.",
+        "Avoid 'analysis paralysis' on reversible decisions: the cost of deciding too slowly often exceeds the cost of deciding suboptimally and correcting."
+      ],
+      "dewey_connection": "Reversibility maps to Dewey's graduated confidence in hypotheses — the more irreversible the action prompted by a hypothesis, the higher the standard of testing required before action is taken. Dewey's Phase 5 (Testing) should be more thorough when the cost of a wrong hypothesis is higher. Optionality supports Phase 4 (Reasoning) by revealing that some actions close off future inquiry while others keep it open.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Implications and Consequences",
+      "example": "Decision A: Try a new meeting format for next week's team meeting (highly reversible — if it doesn't work, use a different format next week). Decision B: Hire a senior executive who will reshape the team's culture (largely irreversible — the culture change cannot be easily undone). Decision A warrants quick action; Decision B warrants extensive deliberation, reference checks, and scenario planning.",
+      "common_misuse": "Over-applying reversibility as a reason to avoid deliberation — treating all decisions as 'reversible enough' to move quickly without adequate analysis. Some decisions that appear reversible have significant switching costs or path-dependency that makes reversal practically difficult even if technically possible."
+    },
+    {
+      "id": "mm-dm-05",
+      "name": "Bayesian Updating",
+      "category": "Decision Making",
+      "definition": "A method of updating beliefs in proportion to new evidence. Start with an initial estimate of the probability that something is true (prior probability). When new evidence arrives, update the probability based on how likely the evidence would be if the hypothesis were true versus if it were false. The result is a revised probability (posterior) that reflects both prior belief and new evidence.",
+      "origin": "Reverend Thomas Bayes (18th century); Pierre-Simon Laplace (formal development); central to statistics, machine learning, and modern epistemology.",
+      "when_to_use": "When updating beliefs in response to evidence; when deciding how much weight to give new information; when trying to avoid both anchoring (not updating enough) and overreaction (updating too much); when sequential evidence accumulates over time and beliefs need to be continuously revised.",
+      "how_to_apply": [
+        "State your prior belief as a probability: 'I estimate there is a 30% chance that X is true.'",
+        "Receive new evidence E.",
+        "Ask: how likely is this evidence if X is true? (Likelihood ratio numerator)",
+        "Ask: how likely is this evidence if X is false? (Likelihood ratio denominator)",
+        "Divide: if E is much more likely given X than given not-X, the evidence strongly updates toward X.",
+        "Update your probability estimate proportionally — larger updates for stronger evidence, smaller updates for weaker.",
+        "Repeat as each new piece of evidence arrives."
+      ],
+      "dewey_connection": "Bayesian updating is the quantitative formalization of Dewey's insistence that belief should be proportioned to evidence and revised in light of testing. It operationalizes Dewey's Phase 5 (Testing/Verification) by specifying exactly how a hypothesis should be updated when evidence arrives — neither ignoring evidence nor overcorrecting.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Information",
+      "example": "Prior: 40% probability that a software bug is caused by a database issue. Evidence: The bug occurs only when a specific database table is queried. This evidence is highly likely if the bug is a database issue, unlikely if it is not. Update: probability that it is a database issue rises to ~85%. New evidence: the bug also occurs in a test environment with a different database. Update: probability falls back toward 30%.",
+      "common_misuse": "Applying Bayesian updating with false precision — assigning specific probabilities (e.g., '37%') when the underlying uncertainty is too large to support numerical precision. Bayesian thinking is most valuable as a qualitative orientation (update beliefs proportionally to evidence strength) rather than as a precise numerical calculation in most real-world contexts."
+    },
+    {
+      "id": "mm-dm-06",
+      "name": "Proximate vs. Root Cause",
+      "category": "Decision Making",
+      "definition": "Distinguishing the immediate, surface-level cause of a problem (proximate cause) from the deeper, underlying cause that actually generated it (root cause). Interventions at the proximate level suppress symptoms; interventions at the root cause level prevent recurrence.",
+      "origin": "Industrial engineering and quality management (Kaoru Ishikawa, root cause analysis, 1960s); medicine (differential diagnosis); widely applied in systems design and organizational management.",
+      "when_to_use": "When diagnosing persistent problems that recur despite repeated fixes; when designing interventions that prevent rather than just address problems; when evaluating whether a proposed solution addresses the cause or just the symptom; when conducting a post-mortem after a significant failure.",
+      "how_to_apply": [
+        "State the problem or failure you are analyzing.",
+        "Identify the immediate cause: what directly produced this outcome?",
+        "Ask 'why' again: why did that cause produce this outcome? What allowed it?",
+        "Continue asking 'why' (the '5 Whys' technique) until you reach a cause that is: (a) actionable, (b) not itself caused by something more fundamental, and (c) whose removal would prevent the problem.",
+        "Distinguish between root causes (structural, systemic) and contributing factors (conditions that made the root cause more likely).",
+        "Design interventions at the root cause level, not just the proximate level."
+      ],
+      "dewey_connection": "Root cause analysis is the diagnostic application of Dewey's Phase 2 (Intellectualization) — the discipline of defining the problem precisely by identifying what actually needs to be changed. Dewey insists that the quality of the problem statement determines the quality of all subsequent inquiry; conflating proximate and root causes produces a problem statement that, even if solved, will not resolve the perplexity.",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Interpretation and Inference",
+      "example": "Proximate cause: a nurse administered the wrong medication dose. Root cause: the medication labeling system uses similar packaging for drugs with very different concentrations, creating a high-rate error-prone environment. Intervention at proximate cause: discipline the nurse. Intervention at root cause: redesign the labeling system. Only the root-cause intervention prevents future errors.",
+      "common_misuse": "Continuing to ask 'why' past the point of actionability — reaching a 'root cause' so fundamental (e.g., 'because humans are fallible') that no practical intervention exists. The goal is the deepest actionable cause, not the deepest possible cause."
+    },
+    {
+      "id": "mm-cb-01",
+      "name": "Confirmation Bias",
+      "category": "Cognitive Biases",
+      "definition": "The tendency to search for, interpret, remember, and favor information that confirms one's pre-existing beliefs or hypotheses, while giving disproportionately less attention to information that contradicts them. Confirmation bias operates at every stage of reasoning: what information is sought, how it is interpreted, and what is retained.",
+      "origin": "Peter Wason (Wason selection task, 1960); systematic study by cognitive psychologists including Joshua Klayman, Keith Stanovich, and Daniel Kahneman.",
+      "when_to_use": "As a constant monitoring lens — confirmation bias operates in virtually every reasoning episode involving prior beliefs. Most critical to monitor when evaluating evidence that bears on a strongly held belief; when designing research or analysis; when interpreting mixed or ambiguous evidence.",
+      "how_to_apply": [
+        "Identify your prior belief about the question at issue.",
+        "Ask: what evidence would challenge my belief, and have I actively looked for it?",
+        "Audit your information sources: do they systematically agree with your prior positions?",
+        "Deliberately seek out the strongest counterarguments and the most credible sources that disagree.",
+        "Apply the same evidential standards to confirming and disconfirming evidence — ask whether you are accepting weak confirming evidence while demanding strong evidence from the other side.",
+        "Consider asking a trusted person with opposing views to review your analysis."
+      ],
+      "dewey_connection": "Confirmation bias is the enemy of Dewey's Phase 5 (Testing/Verification). Dewey insists that genuine testing requires actively seeking disconfirming evidence — 'a failure is instructive.' A thinker in the grip of confirmation bias is not testing their hypothesis; they are rationalizing it. It is also the primary threat to Phase 2 (Intellectualization) — a thinker who already has a preferred answer will define the problem in terms that make that answer inevitable.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Assumptions",
+      "example": "A manager who believes that remote work reduces productivity will notice and remember every case of a remote worker who misses a deadline, and will explain away every case of a remote worker who exceeds expectations. The belief is 'confirmed' not by the evidence but by the selective processing of it.",
+      "common_misuse": "Invoking confirmation bias as a thought-stopper — dismissing any evidence that supports a particular conclusion as 'just confirmation bias' without examining whether it is actually biased or merely inconvenient. Confirmation bias is a property of a reasoning process, not of a conclusion. Evidence can genuinely support a strongly held belief."
+    },
+    {
+      "id": "mm-cb-02",
+      "name": "Availability Heuristic",
+      "category": "Cognitive Biases",
+      "definition": "The tendency to estimate the frequency or probability of an event based on how easily examples come to mind, rather than on actual frequency data. Vivid, recent, personally experienced, or emotionally salient examples are more cognitively available — and are therefore overweighted in probability estimation.",
+      "origin": "Amos Tversky and Daniel Kahneman (Cognitive Psychology, 1973); extended in Kahneman (Thinking, Fast and Slow, 2011).",
+      "when_to_use": "When estimating the probability of rare but vivid events (plane crashes, violent crime); when assessing risk in domains where media coverage is not proportional to actual frequency; when making decisions influenced by recent dramatic events; when evaluating base rates for any kind of failure.",
+      "how_to_apply": [
+        "Notice when your probability estimate is based primarily on examples that come to mind easily.",
+        "Ask: are these examples representative of the base rate, or are they memorable/salient for reasons unrelated to frequency?",
+        "Seek actual frequency data to supplement or replace intuitive estimates.",
+        "Discount the weight of vivid or recent examples in proportion to how much more salient they are than their actual frequency warrants.",
+        "When base rate data is available, weight it heavily against intuitive availability-based estimates."
+      ],
+      "dewey_connection": "The availability heuristic is a bias in Phase 3 (Suggestion/Hypothesis) — it distorts which hypotheses come to mind most easily by privileging the memorable over the probable. Dewey's account of the quality of suggestions depending on the quality of prior experience is enriched by recognizing that cognitively available experience is not the same as representative experience.",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Information",
+      "example": "After extensive media coverage of several high-profile shark attacks, people dramatically overestimate the probability of shark attack as a cause of death — despite annual deaths from sharks being far lower than deaths from vending machines. The vividness and salience of shark attack stories makes them cognitively available; vending machine deaths are unremarkable and therefore unavailable.",
+      "common_misuse": "Using awareness of the availability heuristic to dismiss all intuitive risk assessments — sometimes intuitive risk estimates are accurate precisely because the most available examples are the most common ones. The heuristic produces errors primarily when availability is uncoupled from frequency."
+    },
+    {
+      "id": "mm-cb-03",
+      "name": "Sunk Cost Fallacy",
+      "category": "Cognitive Biases",
+      "definition": "The tendency to continue investing resources (time, money, effort) in a failing course of action because of the resources already invested, rather than making forward-looking decisions based only on future costs and benefits. Past investments are 'sunk' — they cannot be recovered regardless of the decision made now.",
+      "origin": "Hal Arkes and Catherine Blumer (1985); foundational concept in behavioral economics; related to loss aversion (Kahneman and Tversky).",
+      "when_to_use": "When evaluating whether to continue or abandon a project, investment, or relationship; when 'we've already invested so much' appears in a decision discussion; when the decision-making process is primarily backward-looking (focused on justifying past decisions) rather than forward-looking (focused on future value).",
+      "how_to_apply": [
+        "Identify the decision you face: continue or stop.",
+        "Mentally erase all past investments — treat them as already gone regardless of what you decide.",
+        "Ask: given only the future costs and future benefits of continuing versus stopping, which option is better?",
+        "If stopping is better on forward-looking grounds, the fact that resources have already been spent does not change this — it just means the loss has already occurred.",
+        "Recognize that continuing a losing investment to 'recoup losses' typically increases the total loss."
+      ],
+      "dewey_connection": "The sunk cost fallacy is a failure of Phase 2 (Intellectualization) — it produces a misframed problem ('how do I justify what I've already done?') instead of the correct problem ('what decision is best going forward?'). Dewey's insistence that the problem statement governs all subsequent inquiry makes correct problem framing essential.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Assumptions",
+      "example": "A company has invested $5M in developing a software product that the market research now strongly suggests will fail. The sunk cost fallacy: 'We've spent $5M; we have to keep going to recoup the investment.' The correct analysis: the $5M is gone regardless. The forward-looking question is whether the additional investment required to complete and launch the product has a positive expected return — which the market research suggests it does not.",
+      "common_misuse": "Using the sunk cost fallacy dismissal as a reason to abandon commitments that genuinely deserve continuation — treating all persistence as sunk-cost-driven when sometimes continuing through difficulty is the right forward-looking decision. The question is always whether future expected value justifies future cost, not whether past investment justifies future cost."
+    },
+    {
+      "id": "mm-cb-04",
+      "name": "Dunning-Kruger Effect",
+      "category": "Cognitive Biases",
+      "definition": "The tendency of people with limited knowledge or skill in a domain to overestimate their competence, while experts in the domain tend to underestimate theirs. Incompetence impairs the metacognitive capacity required to recognize incompetence — you must know enough to know what you don't know.",
+      "origin": "David Dunning and Justin Kruger ('Unskilled and Unaware of It,' Journal of Personality and Social Psychology, 1999).",
+      "when_to_use": "When calibrating confidence in assessments in unfamiliar domains; when evaluating the credibility of confident claims from non-experts; when designing feedback systems that help learners recognize their skill level accurately; when making decisions in domains where you have limited experience.",
+      "how_to_apply": [
+        "Assess your actual experience and track record in the relevant domain.",
+        "Ask: am I in the early stage of learning this domain, where I may not yet know what I don't know?",
+        "Actively seek feedback and comparison against domain experts.",
+        "In unfamiliar domains, treat high confidence as a warning sign rather than a reassurance.",
+        "In familiar domains, take seriously the possibility that expertise brings recognition of complexity and nuance that produces appropriate humility.",
+        "Distinguish between general intelligence and domain-specific knowledge: being smart does not protect against Dunning-Kruger in domains where you lack experience."
+      ],
+      "dewey_connection": "The Dunning-Kruger effect is the epistemic failure that Dewey's intellectual virtue of Suspended Judgment is designed to counteract. It is also what Dewey's concept of Genuine Perplexity requires to be overcome: a person in the Dunning-Kruger peak of confidence cannot experience genuine perplexity in that domain because they do not recognize what they do not know. Paul-Elder's Intellectual Humility is the disposition that corrects for this bias.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Assumptions",
+      "example": "A professional in one field (e.g., engineering) enters a policy debate about healthcare reform and speaks with high confidence about what changes are needed. The confidence reflects the high cognitive competence they have in their own domain combined with insufficient recognition that healthcare policy involves domain-specific knowledge they have not acquired. Domain experts in healthcare recognize complexity and uncertainty that produces appropriate hedging.",
+      "common_misuse": "Using the Dunning-Kruger effect as a dismissal of any confident non-expert — assuming that expertise is required to have a valid perspective on any question. Non-experts can hold correct views, and expertise does not guarantee correctness. The effect describes a bias pattern in probability, not a universal law."
+    },
+    {
+      "id": "mm-cb-05",
+      "name": "Anchoring Bias",
+      "category": "Cognitive Biases",
+      "definition": "The tendency for judgments and estimates to be disproportionately influenced by the first piece of information encountered (the 'anchor'), even when that information is arbitrary or irrelevant. Subsequent adjustments from the anchor are typically insufficient.",
+      "origin": "Amos Tversky and Daniel Kahneman (Science, 1974); extensively studied in negotiation, pricing, and estimation contexts.",
+      "when_to_use": "When making numerical estimates; when negotiating; when evaluating proposals that include an initial figure; when designing surveys or assessments; when setting budgets, deadlines, or targets.",
+      "how_to_apply": [
+        "Identify whether an anchor has been presented — an initial number, estimate, or reference point.",
+        "Ask: where did this anchor come from, and is it a reliable reference for this specific judgment?",
+        "Generate your own independent estimate before considering the anchor.",
+        "If the anchor is unreliable (arbitrary, from an uninformed source, or from a party with interests in a particular outcome), discount it heavily.",
+        "Make large adjustments from the anchor rather than small ones — research shows that adjustments are systematically insufficient."
+      ],
+      "dewey_connection": "Anchoring bias corrupts Phase 2 (Intellectualization) by causing the problem to be defined in terms set by an initial reference point rather than by the actual characteristics of the situation. It also affects Phase 3 (Hypothesis) by causing initial suggestions to cluster around the anchor rather than ranging freely across the possibility space.",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Information",
+      "example": "A negotiator's opening offer of $100,000 anchors the entire negotiation — even when the other party knows the opening offer is inflated, their counteroffer of $80,000 adjusts insufficiently from the anchor. A well-prepared negotiator generates an independent valuation before the negotiation begins and uses that as their reference point rather than the counterparty's anchor.",
+      "common_misuse": "Treating all initial information as an anchor to be discounted — when an initial figure comes from a reliable, relevant source, it is appropriate information, not a biasing anchor. Anchoring bias is specifically about the disproportionate influence of first information regardless of its reliability."
+    },
+    {
+      "id": "mm-cb-06",
+      "name": "Fundamental Attribution Error",
+      "category": "Cognitive Biases",
+      "definition": "The tendency to over-attribute others' behavior to their character or dispositions (they are lazy, dishonest, hostile) while under-attributing it to situational factors (they are overwhelmed, constrained, in a difficult context). In contrast, we explain our own behavior primarily through situational factors.",
+      "origin": "Lee Ross ('The Intuitive Psychologist,' 1977); extensive research in social psychology by Ross, Nisbett, and others.",
+      "when_to_use": "When explaining others' behavior, especially negative behavior; when diagnosing organizational performance problems; when evaluating whether a problem requires personnel change or systems change; when making judgments about character versus context.",
+      "how_to_apply": [
+        "Observe the behavior you want to explain.",
+        "State your initial attribution: what is your first instinct about the cause?",
+        "If your attribution is dispositional ('they are X type of person'), force yourself to generate three situational explanations.",
+        "Ask: what situational factors could have produced this behavior even in a person with good character and good intentions?",
+        "Investigate the situational factors before concluding that disposition is the primary cause.",
+        "Apply the same standard to others as you would want applied to yourself."
+      ],
+      "dewey_connection": "The fundamental attribution error is a failure of Phase 2 (Intellectualization) — it produces a problem definition ('this person has a character flaw') that closes off the most productive lines of inquiry ('what system conditions are producing this behavior?'). Dewey's educational philosophy consistently emphasizes that behavior is shaped by the conditions of experience; the attribution error is precisely the failure to recognize this.",
+      "bloom_level": "Analyze",
+      "paul_elder_element": "Interpretation and Inference",
+      "example": "An employee consistently misses project updates. Attribution error: 'They don't care about team communication.' Situational investigation reveals: they are unclear about which updates are required, the project management tool they are expected to use is confusing, and their manager has never provided feedback about the missed updates. The dispositional attribution is incorrect; the situational investigation yields actionable interventions.",
+      "common_misuse": "Using the fundamental attribution error as a universal excuse for bad behavior — attributing all negative behavior to situational factors and thereby eliminating personal accountability. Situational factors do not determine behavior completely; dispositions matter, especially in patterns of behavior across many different situations."
+    },
+    {
+      "id": "mm-cb-07",
+      "name": "Groupthink",
+      "category": "Cognitive Biases",
+      "definition": "A mode of thinking in which the desire for harmony and conformity within a group overrides realistic appraisal of alternatives. Groupthink produces an illusion of unanimity, suppresses dissent, and rationalizes shared assumptions rather than questioning them.",
+      "origin": "Irving Janis (Victims of Groupthink, 1972); developed through analysis of high-stakes government decision failures including the Bay of Pigs invasion.",
+      "when_to_use": "When evaluating the quality of group decisions, especially in cohesive or hierarchical groups; when designing decision-making processes for high-stakes choices; when analyzing organizational failures; when a group has reached consensus surprisingly quickly or with unusually little disagreement.",
+      "how_to_apply": [
+        "Recognize groupthink symptoms: illusion of invulnerability, collective rationalization, belief in the group's inherent morality, stereotyping of outsiders, pressure on dissenters, self-censorship, illusion of unanimity, self-appointed mindguards.",
+        "Structurally assign a devil's advocate role to ensure opposing views are genuinely articulated.",
+        "Use anonymous voting or written independent assessments before group discussion to surface genuine individual views.",
+        "Invite outside experts to challenge the group's assumptions.",
+        "Run a pre-mortem before finalizing the decision.",
+        "Explicitly reward dissent and intellectual courage in the group culture."
+      ],
+      "dewey_connection": "Groupthink is the social/organizational manifestation of the failure of Dewey's intellectual virtue of Open-Mindedness at the group level. It produces a group that cannot experience genuine perplexity because dissenting observations are suppressed before they can create the productive discomfort that triggers inquiry. Dewey's emphasis on the social conditions of genuine inquiry is directly relevant: the physical and psychological conditions for open questioning must be deliberately maintained.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Point of View",
+      "example": "A leadership team reviewing a new product strategy agrees quickly and enthusiastically. On closer inspection: the most junior member has concerns but doesn't raise them for fear of seeming negative; two members have private doubts but assume the others' enthusiasm means they are missing something; the CEO's visible excitement has set a social norm that criticism is unwelcome. The unanimous decision reflects social dynamics, not epistemic quality.",
+      "common_misuse": "Diagnosing groupthink whenever a group reaches consensus — mistaking actual agreement for manufactured conformity. Consensus that emerges from genuine deliberation and honest engagement with evidence is not groupthink; it is a valid group judgment. Groupthink is characterized by suppression of dissent, not by the absence of dissent per se."
+    },
+    {
+      "id": "mm-ep-01",
+      "name": "Degrees of Certainty",
+      "category": "Epistemology",
+      "definition": "A framework for calibrating confidence in claims by distinguishing among levels of epistemic warrant: certain (logically necessary or definitionally true), highly confident (strongly supported by evidence), probable (more likely than not given available evidence), possible (not excluded by evidence), speculative (plausible but weakly supported), and unknown (insufficient evidence to assess). Using precise language about confidence prevents both overconfidence and false equivalence.",
+      "origin": "Philosophical epistemology (Locke, Hume); formalized in probability theory; applied in forecasting by Philip Tetlock (Superforecasting, 2015) and the intelligence community.",
+      "when_to_use": "When making claims that mix differently-supported assertions; when communicating about uncertain situations; when evaluating others' claims for appropriate epistemic humility; when designing decision-making processes that need to track and communicate uncertainty explicitly.",
+      "how_to_apply": [
+        "Identify the claim you want to make.",
+        "Assess the evidence base: how strong, how direct, how replicable?",
+        "Assign an appropriate confidence level using explicit language: 'I am certain that...', 'I am highly confident that...', 'I believe it is probable that...', 'I think it is possible that...', 'I am speculating that...'",
+        "Distinguish between different claims within the same argument that warrant different confidence levels.",
+        "Actively avoid false precision (claiming more certainty than the evidence warrants) and false modesty (claiming less certainty than the evidence warrants — sometimes a form of epistemic cowardice).",
+        "Update confidence levels explicitly when new evidence arrives."
+      ],
+      "dewey_connection": "Degrees of Certainty operationalizes Dewey's concept of Suspended Judgment — holding claims with exactly the degree of confidence that evidence warrants, no more and no less. Dewey insists that beliefs warrant different degrees of confidence and that intellectual responsibility requires calibrating expressed confidence to actual epistemic standing. This model also directly supports Toulmin's Qualifier component in argument analysis.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Interpretation and Inference",
+      "example": "A policy analyst presenting findings distinguishes: 'We are certain that the program reached the target population (verified through participant records). We are highly confident that participation improved outcomes on the measured indicators (based on pre-post comparison with matched controls). We believe it is probable that the improvements reflect the program rather than external factors (based on timing analysis). We are speculating that effects will persist beyond two years (no longitudinal data yet).'",
+      "common_misuse": "Using degrees of certainty to avoid commitment — expressing everything as 'possible' or 'probable' when the evidence actually warrants higher confidence. Epistemic humility is about accurate calibration, not uniform hedging. Refusing to say 'I am confident' when confidence is warranted is intellectual cowardice dressed as modesty."
+    },
+    {
+      "id": "mm-ep-02",
+      "name": "Null Hypothesis Thinking",
+      "category": "Epistemology",
+      "definition": "The practice of requiring positive evidence before accepting a claim, rather than accepting it by default in the absence of counterevidence. The null hypothesis is the default position of 'no effect' or 'no difference' — the burden of proof lies with the claim being made, not with its negation.",
+      "origin": "Ronald Fisher (statistical hypothesis testing, 1920s); Karl Popper (falsificationism); scientific method generally.",
+      "when_to_use": "When evaluating causal claims; when assessing whether a proposed intervention has actually produced the claimed effect; when distinguishing between 'this treatment worked' and 'this treatment hasn't been shown not to work'; when evaluating extraordinary claims.",
+      "how_to_apply": [
+        "State the claim being made (e.g., 'This program improves student outcomes').",
+        "State the null hypothesis: 'This program has no effect on student outcomes.'",
+        "Ask: what evidence would be required to reject the null hypothesis with confidence?",
+        "Assess whether the available evidence meets that standard — not just whether some positive effect was observed, but whether the effect is large enough and consistent enough to rule out chance.",
+        "Maintain the null hypothesis as the default until positive evidence is sufficient."
+      ],
+      "dewey_connection": "Null hypothesis thinking is a formalization of Dewey's discipline of Suspended Judgment — refusing to accept a hypothesis until it has been genuinely tested and found to account for the evidence. It supports Phase 5 (Testing/Verification) by specifying the evidential standard that a hypothesis must meet before it displaces the default.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Information",
+      "example": "A company implements a wellness program and observes that absenteeism decreases in the following quarter. The null hypothesis: the decrease is due to chance variation or seasonal patterns unrelated to the program. Null hypothesis thinking asks: is the decrease large enough, consistent enough, and attributable enough to the program to reject the null? This requires a control comparison, not just a before-after observation.",
+      "common_misuse": "Applying null hypothesis thinking so strictly that no intervention can ever be shown to work — treating absence of proof as proof of absence. The null hypothesis is a methodological default, not a metaphysical commitment. When causal mechanisms are well-understood and effect sizes are large, the null can be rejected with less formal evidence than when effects are small and mechanisms are unclear."
+    },
+    {
+      "id": "mm-ep-03",
+      "name": "Calibrated Uncertainty",
+      "category": "Epistemology",
+      "definition": "The quality of having confidence levels that accurately reflect the actual probability of being correct — neither systematically overconfident nor systematically underconfident. A well-calibrated thinker who says 'I'm 70% sure' is correct approximately 70% of the time on claims of that type.",
+      "origin": "Philip Tetlock (Expert Political Judgment, 2005; Superforecasting, 2015); decision science and forecasting literature; meteorology as a model domain.",
+      "when_to_use": "When making predictions; when communicating about uncertain outcomes; when evaluating the track record of an expert or forecaster; when making decisions that depend on probability estimates; when designing processes that aggregate multiple uncertain judgments.",
+      "how_to_apply": [
+        "Track your predictions and their outcomes over time.",
+        "For each domain where you make predictions, assess whether your '70% confident' claims come true approximately 70% of the time.",
+        "Identify systematic patterns: are you overconfident in some domains and underconfident in others?",
+        "Correct for known biases: if you are systematically overconfident about X, adjust your expressed confidence downward in that domain.",
+        "Use reference class forecasting: before estimating the probability for your specific case, ask 'what is the base rate for this type of event?'",
+        "Update calibration as new evidence accumulates."
+      ],
+      "dewey_connection": "Calibrated uncertainty is the quantitative form of Dewey's intellectual virtues of Suspended Judgment and Intellectual Responsibility. Dewey insists that the responsible thinker proportions belief to evidence; calibration is the empirical measure of whether a thinker actually does this. Tetlock's research on superforecasters shows that calibration is a trainable skill — directly consistent with Dewey's view that intellectual virtues are developed, not innate.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Interpretation and Inference",
+      "example": "A superforecaster who said '75% confident' on 100 different predictions reviews their track record: of those 100 claims, approximately 73 turned out to be true. This is well-calibrated. A poorly calibrated forecaster who said '95% confident' on the same set of predictions had only 65 come true — systematically overconfident.",
+      "common_misuse": "Treating calibration as the only epistemic virtue — valuing accurate uncertainty assessment so highly that decisive action becomes impossible. Calibrated uncertainty is valuable for improving decision quality; it is not an end in itself. A well-calibrated forecast of '55% probable' should still lead to action when the expected value of acting is positive."
+    },
+    {
+      "id": "mm-ep-04",
+      "name": "Epistemic Humility",
+      "category": "Epistemology",
+      "definition": "The recognition that one's knowledge is limited, fallible, and shaped by one's perspective and experience — and the corresponding openness to revision in light of new evidence or argument. Epistemic humility is not skepticism (doubt about whether anything can be known) but calibration (confidence proportioned to evidence and acknowledgment of limits).",
+      "origin": "Philosophical tradition from Socrates ('I know that I know nothing') through modern epistemology; central to scientific method; developed in practical terms by Philip Tetlock's work on forecasting.",
+      "when_to_use": "As a constant background disposition in all reasoning — particularly active when reasoning in domains where you have strong prior commitments, limited experience, or a track record of overconfidence; when presenting findings to others; when making decisions with significant irreversibility.",
+      "how_to_apply": [
+        "Regularly ask: what would change my mind about this?",
+        "Distinguish between what you know from direct experience, what you know from reliable evidence, what you believe based on inference, and what you assume without examination.",
+        "Take seriously the possibility that you are wrong about things you feel most confident about — historical track records of confident experts being systematically wrong are extensive.",
+        "When presenting conclusions, explicitly acknowledge what you do not know and what could change your assessment.",
+        "Resist the pressure to project more confidence than you have — epistemic cowardice masquerading as clarity harms those who depend on your judgment."
+      ],
+      "dewey_connection": "Epistemic humility is the dispositional foundation of Dewey's entire account of reflective thinking. Every phase of Dewey's inquiry arc — from willingness to sustain perplexity (Phase 1), to holding hypotheses tentatively (Phase 3), to genuinely submitting them to test (Phase 5) — requires epistemic humility as its motivating virtue. Without it, the inquiry collapses at each phase into premature closure. Paul-Elder's Intellectual Humility is the named trait; this model provides the epistemological grounding for why it matters.",
+      "bloom_level": "Evaluate",
+      "paul_elder_element": "Assumptions",
+      "example": "A senior researcher who has spent 20 years studying a topic encounters a replication study that challenges findings they helped establish. Epistemic humility: 'This is a serious challenge to conclusions I have been confident about. I need to understand the methodology of the replication study, assess whether the discrepancy reveals a flaw in my original work or a limitation of the replication, and update my published conclusions accordingly if the evidence warrants.' This is the disposition Dewey describes as essential to genuine inquiry.",
+      "common_misuse": "Treating epistemic humility as a requirement to express equal uncertainty about all claims — as if saying 'I could be wrong' must accompany every assertion regardless of evidential strength. Epistemic humility is about accurate calibration, not uniform hedging. It is equally epistemically irresponsible to express false uncertainty about well-established facts as it is to express false certainty about speculative ones."
+    }
+  ]
+}

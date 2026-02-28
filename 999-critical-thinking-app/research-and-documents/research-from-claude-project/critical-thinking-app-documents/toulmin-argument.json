@@ -1,0 +1,215 @@
+{
+  "framework": "Toulmin Argument Model",
+  "authors": ["Stephen E. Toulmin"],
+  "year": 1958,
+  "source": "The Uses of Argument",
+  "publisher": "Cambridge University Press",
+  "description": "Stephen Toulmin's model of argument, introduced in 'The Uses of Argument' (1958), was a deliberate challenge to formal logic as the standard for evaluating everyday reasoning. Toulmin's central objection was that formal logic — with its demand for deductive validity — is too narrow a standard for the practical arguments that govern law, ethics, science, and ordinary decision-making. Most real arguments are not deductively valid; they are probabilistic, field-dependent, and hedged. A model of argument adequate to actual reasoning practice must have room for evidence that falls short of certainty, for warrants that hold generally but not universally, and for explicit acknowledgment of conditions under which a conclusion might not hold.\n\nThe resulting six-component model separates what was previously lumped together as 'premises and conclusion' into a more precise anatomy. The Claim is the position being advanced. The Grounds are the specific evidence on which the claim rests. The Warrant is the inferential rule or principle that licenses the move from Grounds to Claim — the assumption that makes the evidence relevant. The Backing provides support for the Warrant itself when the Warrant's authority is challenged. The Qualifier indicates the strength of the Claim given the available evidence. The Rebuttal names the conditions under which the Claim would not hold.\n\nToulmin's model proved influential far beyond philosophy of argument. It is now a standard tool in rhetoric, composition studies, law, and critical thinking education — precisely because it makes explicit the structural features of argument that are present in all reasoning but rarely stated. Its pedagogical power lies in its capacity to reveal what is missing: an argument with no Warrant stated is an argument where the inferential connection between evidence and conclusion is hidden; an argument with no Rebuttal considered is an argument whose limitations have not been honestly examined.",
+  "dewey_integration": "The Toulmin model makes explicit the logical structure of what Dewey calls 'signification' — the operation by which an observed fact becomes evidence for an unobserved conclusion. Dewey's Warrant is precisely the causal or structural link that makes Grounds evidence for a Claim: the smoke is evidence for fire because there is a real causal connection between combustion and smoke. Toulmin gives this connection a name and a structural position. More broadly, Dewey's Phase 4 (Reasoning) is the phase in which the arguer mentally elaborates the Warrant and Backing before subjecting the claim to empirical test. The Qualifier corresponds to Dewey's insistence that hypotheses must be held tentatively — the epistemic modesty of not claiming more certainty than the evidence warrants.",
+  "common_misconceptions": [
+    {
+      "misconception": "The Toulmin model is a template for constructing arguments, not for analyzing them.",
+      "correction": "The model is equally powerful as an analytical tool. Applying it to an existing argument — identifying each component and assessing its quality — reveals structural weaknesses that are invisible when arguments are encountered as undifferentiated prose. The most common analytical use is identifying missing Warrants (arguments where the inferential link between evidence and conclusion is unstated and may be false) and absent Rebuttals (arguments that have not honestly considered the conditions under which the claim might not hold).",
+      "pedagogical_implication": "Teach the model through analysis of existing arguments before requiring students to construct their own. Deconstruction before construction."
+    },
+    {
+      "misconception": "Arguments only need Claim, Grounds, and Warrant — the other three components (Backing, Qualifier, Rebuttal) are optional extras.",
+      "correction": "All six components are structurally present in any complete argument, though some may be implicit or suppressed. An argument without an explicit Qualifier is making an implicitly absolute claim; an argument without a Rebuttal is ignoring the conditions under which it fails. Making all six components explicit is precisely what transforms an assertion into an argument. The 'optional' status of Backing, Qualifier, and Rebuttal in casual argument is a sign of intellectual laziness, not of a simpler argument.",
+      "pedagogical_implication": "Require students to complete all six components and explain why each matters. Specifically, require at least one genuine Rebuttal — the most commonly omitted component and the one most indicative of intellectual honesty."
+    },
+    {
+      "misconception": "The Warrant is the same as the Grounds — both are forms of evidence.",
+      "correction": "Grounds are specific facts or data: 'The defendant's fingerprints were found at the scene.' Warrants are inferential rules or principles that license the move from the specific Grounds to the Claim: 'A person whose fingerprints are found at a crime scene was likely present there.' The Warrant is general; the Grounds are specific. The same Warrant can apply to many different Grounds; the Grounds are unique to the specific argument. This distinction is crucial because an argument can have accurate Grounds and still fail if the Warrant is false (e.g., the fingerprints could have been planted).",
+      "pedagogical_implication": "Explicitly practice distinguishing Grounds from Warrants. A useful test: Grounds answer 'what happened?' or 'what is the evidence?'; Warrants answer 'why does that evidence support this claim?' The Warrant states the general principle that makes the specific evidence relevant."
+    }
+  ],
+  "app_usage": {
+    "primary_template": "argument-analysis-v1",
+    "primary_template_description": "The Argument Analysis template presents six fields corresponding to the six Toulmin components, with a seventh optional field for Fallacy Check. The running example used across all field placeholders and examples is a policy argument about workplace remote-work policy.",
+    "exercise_integration": "The 'argument_dissection' exercise type is built on the Toulmin model. Each exercise presents an argument in prose form and asks the learner to identify all six components. Difficulty scales from clearly structured arguments (beginner) to arguments where key components are suppressed or ambiguous (advanced).",
+    "llm_feedback_role": "The LLM feedback for argument analysis specifically evaluates the logical validity of the Warrant-to-Claim inference, not just whether all fields are complete. An argument can be formally complete (all six fields filled) while being logically invalid (the Warrant does not actually license the move from these Grounds to this Claim).",
+    "diagram_support": "The app renders a visual Toulmin diagram from the six completed fields, showing the component relationships. The diagram uses the standard layout: Claim at center-right, Grounds at center-left with an arrow, Warrant below the arrow, Backing below the Warrant, Qualifier modifying the Claim, Rebuttal challenging the qualified Claim."
+  },
+  "diagram_description": "The standard Toulmin diagram layout: Data/Grounds appear on the left side connected by a horizontal arrow to the Claim on the right. The Warrant appears below the arrow, linking Grounds to Claim, with Backing below the Warrant. A Qualifier (indicated by 'So, presumably...') modifies the Claim's strength. The Rebuttal appears below or beside the Claim, introduced by 'Unless...' to indicate exception conditions. This visual makes the inferential structure explicit and reveals which components are present, which are absent, and whether the Warrant is plausible.",
+  "running_example_topic": "The following running example is used consistently across all six components to demonstrate how they function together as a unified argument: whether a company should adopt a mandatory return-to-office policy.",
+  "components": [
+    {
+      "position": 1,
+      "component": "Claim",
+      "also_called": ["Conclusion", "Assertion", "Position", "Thesis"],
+      "definition": "The position or conclusion whose merits the argument is attempting to establish. The Claim is what the arguer wants the audience to believe or accept. Claims can be factual (asserting what is the case), evaluative (asserting what is good or bad), or policy-oriented (asserting what should be done).",
+      "question_to_identify": "What is the arguer asserting? What position are they trying to get you to accept? What does the arguer want you to believe or do?",
+      "template_field_label": "Claim",
+      "template_field_placeholder": "The position I am arguing for is... I am claiming that... The conclusion I want to establish is...",
+      "example": "The company should require all employees to return to the office at least three days per week.",
+      "common_errors": [
+        "Confusing the Claim with the evidence that supports it — restating the Grounds instead of stating the conclusion.",
+        "Stating the Claim at such a high level of generality that it is difficult to evaluate ('we should do better') rather than precisely ('we should adopt policy X').",
+        "Conflating a policy Claim ('we should do X') with an empirical Claim ('X will produce outcome Y') — these require different types of evidence.",
+        "Making the Claim so absolute (no Qualifier) that a single counterexample would defeat it."
+      ],
+      "well_formed_marker": "A well-formed Claim is specific enough that one could construct evidence for and against it; general enough that it has significance beyond the immediate case; and modally appropriate (uses 'should,' 'is,' 'ought' as befits the type of claim)."
+    },
+    {
+      "position": 2,
+      "component": "Grounds",
+      "also_called": ["Data", "Evidence", "Facts", "Support"],
+      "definition": "The specific facts, data, observations, examples, or evidence on which the Claim rests. Grounds are the concrete particulars that the arguer offers as support. They are specific to this argument; the same Warrant could be applied to many different Grounds.",
+      "question_to_identify": "What evidence does the arguer cite? What facts or data are offered as support? What specific observations or studies are referenced?",
+      "template_field_label": "Grounds",
+      "template_field_placeholder": "The evidence that supports this claim is... The data I am relying on is... The specific facts that justify this position are...",
+      "example": "A survey of 500 employees conducted last quarter found that 67% reported feeling less connected to their colleagues since the shift to remote work. Quarterly performance data shows that cross-functional project completion rates dropped 23% in the two years since remote work was adopted. Three of our five largest clients have explicitly mentioned preferring in-person meetings in their feedback.",
+      "common_errors": [
+        "Citing evidence that is itself contested or unverified without acknowledging the uncertainty.",
+        "Providing a quantity of evidence insufficient to support the strength of the Claim.",
+        "Using anecdotal evidence for a claim that requires statistical evidence.",
+        "Selecting only evidence favorable to the Claim while ignoring available disconfirming evidence — the most common and most serious error."
+      ],
+      "well_formed_marker": "Well-formed Grounds are specific (not general impressions), sourced (attributable to a verifiable origin), relevant (bearing directly on this Claim), and sufficient (proportional to the strength of the Claim being made)."
+    },
+    {
+      "position": 3,
+      "component": "Warrant",
+      "also_called": ["Inferential rule", "Principle", "Assumption", "Bridge"],
+      "definition": "The inferential rule, principle, or assumption that licenses the move from the Grounds to the Claim. The Warrant is what makes the specific Grounds relevant evidence for this specific Claim. Unlike Grounds (which are specific and factual), Warrants are general and normative — they state the type of inference being made. Warrants are often unstated in everyday arguments, which is precisely why they are the most important component to make explicit.",
+      "question_to_identify": "Why does that evidence support that conclusion? What general principle makes these facts count as evidence for this claim? What assumption is the arguer making that connects the data to the conclusion?",
+      "template_field_label": "Warrant",
+      "template_field_placeholder": "This evidence supports the claim because... The general principle that makes this evidence relevant is... I am assuming that...",
+      "example": "Employee connection, cross-functional collaboration, and client relationship quality are significant drivers of organizational performance, and in-office work is reliably associated with improvements in all three relative to remote work.",
+      "common_errors": [
+        "Leaving the Warrant implicit — treating the inference from Grounds to Claim as self-evident when it rests on a contestable assumption.",
+        "Stating the Warrant in circular terms that merely restate the Claim ('this evidence supports the claim because it supports the claim').",
+        "Using a Warrant that would equally support a contrary Claim (a weak or underdetermining Warrant).",
+        "Confusing the Warrant with the Grounds — the Warrant is a general principle, not a specific fact."
+      ],
+      "well_formed_marker": "A well-formed Warrant states a general principle or inferential rule that, if true, genuinely licenses the move from these specific Grounds to this specific Claim. It is separable from the Grounds (it is general, not specific) and separable from the Claim (it is an inference rule, not the conclusion itself). The Warrant should be stated as a principle that could be evaluated independently of the current argument."
+    },
+    {
+      "position": 4,
+      "component": "Backing",
+      "also_called": ["Support for the Warrant", "Warrant justification"],
+      "definition": "The support, evidence, or credentials that establish the authority of the Warrant. Backing is required when the Warrant itself is challenged — when someone questions whether the general principle stated in the Warrant is actually true. Not every argument requires explicit Backing (when the Warrant is uncontroversial), but when the Warrant is contested, Backing becomes essential to the argument's completeness.",
+      "question_to_identify": "Why should we accept the Warrant? What support is there for the general principle the argument is relying on? What evidence or authority establishes the inferential rule?",
+      "template_field_label": "Backing",
+      "template_field_placeholder": "Evidence or reasons that support the warrant include... This inferential principle is established by... The authority for this general claim is...",
+      "example": "Research on organizational behavior consistently finds that informal interaction, spontaneous collaboration, and relationship-building — which occur more frequently in physical proximity — predict team cohesion and cross-functional effectiveness. A meta-analysis of 45 studies (example) found that in-person teams outperformed remote teams on complex collaborative tasks by an average of 18%.",
+      "common_errors": [
+        "Omitting Backing entirely when the Warrant is actually contested — presenting an assumption-laden inference as self-evident.",
+        "Providing Backing that supports a related but different Warrant than the one actually being used.",
+        "Using anecdotal Backing for a Warrant that requires systematic evidence.",
+        "Confusing Backing with additional Grounds — Backing supports the Warrant (the inferential rule); Grounds support the Claim directly."
+      ],
+      "well_formed_marker": "Backing is well-formed when it provides genuine support for the specific Warrant stated — not for the Claim generally, not for a related principle, but for the inferential rule that licenses this specific Grounds-to-Claim move. Good Backing is the kind of evidence that would persuade a skeptic that the Warrant is sound."
+    },
+    {
+      "position": 5,
+      "component": "Qualifier",
+      "also_called": ["Modal qualifier", "Epistemic hedge", "Strength indicator"],
+      "definition": "A word or phrase that indicates the strength, force, or probability of the Claim given the available Grounds and Warrant. Qualifiers acknowledge that most real-world arguments support conclusions with less than certainty — they are honest statements of epistemic confidence. Common qualifiers include 'presumably,' 'probably,' 'certainly,' 'in most cases,' 'in this type of situation,' and 'to a significant degree.'",
+      "question_to_identify": "How strong is this claim? Is the arguer claiming certainty, probability, or mere possibility? Are there hedges or limitations on the scope of the claim?",
+      "template_field_label": "Qualifier",
+      "template_field_placeholder": "The strength of this claim is... This conclusion holds... Given the evidence available, I am claiming... The degree of certainty warranted here is...",
+      "example": "In all likelihood and for the majority of roles at this organization, a mandatory three-day in-office schedule would produce net improvements in the outcomes identified — though the evidence is not sufficient to claim certainty, and outcomes will vary across team types and employee circumstances.",
+      "common_errors": [
+        "Omitting the Qualifier entirely, producing an implicitly absolute Claim that is undermined by a single counterexample.",
+        "Over-qualifying to the point of claiming so little that the argument loses significance ('it is possible that in some cases...').",
+        "Using qualifiers inconsistently — stating a strong Claim in the introduction and then hedging significantly in the Qualifier without acknowledging the tension.",
+        "Treating the Qualifier as a rhetorical device rather than an honest epistemic statement — hedging not because the evidence is uncertain but to avoid being held accountable."
+      ],
+      "well_formed_marker": "A well-formed Qualifier honestly represents the degree of certainty that the available Grounds and Warrant actually support. It is calibrated: strong enough to be significant, hedged enough to be honest. The Qualifier should reflect the actual weight of the evidence, not the arguer's preferred level of confidence."
+    },
+    {
+      "position": 6,
+      "component": "Rebuttal",
+      "also_called": ["Exception", "Reservation", "Counterargument acknowledgment", "Conditions of exception"],
+      "definition": "The conditions, circumstances, or counterarguments under which the Claim would not hold, would hold with reduced force, or should be reconsidered. The Rebuttal is introduced by 'unless...' — it identifies the exceptions to the general claim. A complete argument honestly acknowledges the conditions that limit its own conclusion.",
+      "question_to_identify": "Under what conditions would this claim not hold? What exceptions are there to this conclusion? What evidence would lead you to revise or withdraw this claim?",
+      "template_field_label": "Rebuttal",
+      "template_field_placeholder": "This claim would not hold if... An exception to this argument is... Evidence that would lead me to revise this conclusion includes... This argument is limited by...",
+      "example": "Unless the performance data is confounded by other organizational changes occurring simultaneously with the shift to remote work; or unless roles that are primarily individual-contributor rather than collaborative are excluded from the mandate; or unless the employees most affected by the return-to-office requirement have caregiving responsibilities that make three-day in-office attendance prohibitively costly — in which cases the policy would need to be modified or the claimed benefits would not materialize.",
+      "common_errors": [
+        "Omitting the Rebuttal entirely — the most common error and the strongest indicator that the arguer has not honestly examined their own argument.",
+        "Stating only weak or obviously implausible Rebuttals to create the appearance of intellectual honesty without substantively engaging the real counterarguments.",
+        "Confusing the Rebuttal with a counterargument to be defeated rather than an honest acknowledgment of the claim's limits.",
+        "Treating the Rebuttal as an afterthought rather than as a structural component that should shape the argument's Qualifier and scope."
+      ],
+      "well_formed_marker": "A well-formed Rebuttal names genuine conditions under which the Claim would not hold — conditions that are real and plausible, not straw men. The strongest test: if the Rebuttal conditions were true, would you actually revise your Claim? If yes, it is a genuine Rebuttal. If no, it is a rhetorical gesture."
+    }
+  ],
+  "argument_quality_assessment": {
+    "description": "Criteria for assessing the overall quality of a completed Toulmin argument. Used by the LLM feedback system in the Argument Analysis template.",
+    "criteria": [
+      {
+        "criterion": "Warrant-Claim Validity",
+        "weight": 0.30,
+        "description": "Does the Warrant actually license the inference from these Grounds to this Claim? This is the central logical question. An argument can have accurate Grounds, a plausible Warrant, and still be invalid if the Warrant does not bridge these specific Grounds to this specific Claim.",
+        "rubric_1": "The Warrant does not license the move from Grounds to Claim; the inference is invalid.",
+        "rubric_5": "The Warrant clearly and specifically licenses the inference; no additional assumptions are required."
+      },
+      {
+        "criterion": "Grounds Sufficiency",
+        "weight": 0.20,
+        "description": "Is the evidence sufficient in quality and quantity to support the Claim at the strength indicated by the Qualifier?",
+        "rubric_1": "Grounds are anecdotal, contested, or insufficient for the strength of Claim being made.",
+        "rubric_5": "Grounds are specific, verifiable, and proportional to the Qualifier's stated confidence level."
+      },
+      {
+        "criterion": "Rebuttal Honesty",
+        "weight": 0.20,
+        "description": "Does the Rebuttal name real conditions under which the Claim would not hold, or are the exceptions implausible straw men?",
+        "rubric_1": "No Rebuttal provided, or only implausible exceptions named.",
+        "rubric_5": "Rebuttal names genuine, plausible conditions that the arguer would actually treat as defeating the Claim."
+      },
+      {
+        "criterion": "Qualifier Calibration",
+        "weight": 0.15,
+        "description": "Is the strength of the Claim honestly calibrated to the weight of the evidence — neither overclaiming certainty nor underclaiming significance?",
+        "rubric_1": "Claim is stated absolutely with no qualifier, or qualifier misrepresents the evidence's actual strength.",
+        "rubric_5": "Qualifier precisely reflects what the Grounds and Warrant actually support — honest and well-calibrated."
+      },
+      {
+        "criterion": "Component Completeness",
+        "weight": 0.15,
+        "description": "Are all six components present and meaningfully differentiated (not merely renamed versions of each other)?",
+        "rubric_1": "Multiple components missing or two components conflated.",
+        "rubric_5": "All six components present and clearly differentiated; each performs its distinct structural function."
+      }
+    ]
+  },
+  "dewey_signification_mapping": {
+    "description": "How the Toulmin components map to Dewey's concept of Signification and the five phases of reflective thinking.",
+    "signification_note": "Dewey's concept of Signification — the objective relationship between an observed fact and an inferred conclusion, grounded in a real causal or structural connection — is precisely what Toulmin names when he distinguishes Grounds + Warrant from mere assertion. The Warrant is the causal or structural connection that makes the observed fact (Grounds) genuine evidence for the unobserved conclusion (Claim).",
+    "phase_mapping": [
+      {
+        "toulmin_component": "Claim",
+        "dewey_phase": "Phase 2 (Intellectualization) — the conclusion that resolves the defined problem",
+        "note": "The Claim is what the completed inquiry produces. At the start of inquiry it is the hypothesis; at the end it is the conclusion."
+      },
+      {
+        "toulmin_component": "Grounds",
+        "dewey_phase": "Phase 5 (Testing/Verification) — the empirical evidence produced by testing",
+        "note": "Grounds are the specific facts that inquiry discovers and that support the Claim."
+      },
+      {
+        "toulmin_component": "Warrant",
+        "dewey_phase": "Phase 4 (Reasoning) — the inferential link elaborated in the mental phase of inquiry",
+        "note": "The Warrant is what Dewey calls signification: the structural or causal principle that makes the Grounds evidence for the Claim."
+      },
+      {
+        "toulmin_component": "Backing",
+        "dewey_phase": "Phase 4 (Reasoning) — support for the inferential principles used",
+        "note": "Backing is the prior knowledge and evidence that establishes the Warrant's authority."
+      },
+      {
+        "toulmin_component": "Qualifier",
+        "dewey_phase": "Phase 3 (Suggestion/Hypothesis) — the tentative, hedged character of hypotheses",
+        "note": "Dewey's insistence that hypotheses be held tentatively maps directly to the Qualifier's epistemic function."
+      },
+      {
+        "toulmin_component": "Rebuttal",
+        "dewey_phase": "Phase 5 (Testing/Verification) — disconfirming evidence and limiting conditions",
+        "note": "Dewey's insistence that disconfirmation is instructive maps to the Rebuttal's requirement that exceptions be honestly named."
+      }
+    ]
+  }
+}

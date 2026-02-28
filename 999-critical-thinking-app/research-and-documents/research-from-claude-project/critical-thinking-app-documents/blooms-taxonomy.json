@@ -1,0 +1,301 @@
+{
+  "framework": "Bloom's Taxonomy (Revised)",
+  "authors": ["Lorin W. Anderson", "David R. Krathwohl"],
+  "year": 2001,
+  "original_year": 1956,
+  "original_authors": ["Benjamin S. Bloom", "Max Englehart", "Edward Furst", "Walker Hill", "David Krathwohl"],
+  "source": "A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives",
+  "publisher": "Longman",
+  "description": "Bloom's Taxonomy (Revised) is a hierarchical classification of cognitive processes organized into six levels, from the retrieval of basic facts through the construction of original work. The 2001 revision by Anderson and Krathwohl made two foundational changes to the original 1956 taxonomy: it renamed the categories using active verbs rather than nouns (reflecting a shift from products of thought to processes of thinking), and it swapped the order of the two highest levels — placing Create above Evaluate, on the grounds that synthesis and production represent a more demanding cognitive achievement than judgment.\n\nThe revised taxonomy introduced a second dimension not present in the original: the Knowledge Dimension, which classifies the type of knowledge being learned (Factual, Conceptual, Procedural, Metacognitive) independently of the cognitive process applied to it. This two-dimensional structure produces a taxonomy table — a 6×4 matrix — that allows educators to specify both what kind of thinking is required and what kind of knowledge it operates on. An objective like 'recall the definition of signification' occupies the Remember/Factual cell; 'design a reflective inquiry process for a novel problem' occupies the Create/Procedural cell.\n\nThe taxonomy is not a theory of learning — it is a classification tool for educational objectives, assessments, and instructional activities. Its pedagogical claim is modest but important: cognitive processes differ in kind and in demand, and education that operates only at lower levels (Remember, Understand) is not developing the full range of intellectual capacities. The hierarchy implies that higher levels generally subsume lower ones — you cannot Analyze what you do not Understand — but this is a logical claim, not a learning sequence. Skilled educators move fluidly across levels within a single lesson rather than treating the taxonomy as a fixed progression.",
+  "dewey_integration": "Bloom's taxonomy provides a vertical scaffold for cognitive depth that complements Dewey's horizontal account of the inquiry arc. Where Dewey describes the sequence of phases through which thinking moves from perplexity to resolution, Bloom describes the depth at which any given concept or problem can be engaged at any point in that arc. The two frameworks are not competing — they operate on different axes. A student working through Dewey's Phase 2 (Intellectualization) might be operating at Bloom's Analyze level; a student revisiting Phase 3 (Suggestion/Hypothesis) with a more sophisticated problem might be operating at Create. The app uses Bloom's levels to scaffold increasing depth of engagement within and across the Dewey phases, and to design exercise progressions that move learners from recall toward production.",
+  "common_misconceptions": [
+    {
+      "misconception": "The pyramid implies higher levels are always better and lower levels should be minimized or skipped.",
+      "correction": "Remember and Understand are not inferior — they are preconditions. You cannot Analyze a concept you have not first understood, and you cannot Evaluate an argument you have not first been able to Apply. The goal is movement across levels appropriate to the learner's current mastery and the task's demands, not avoidance of lower levels. A researcher who cannot recall basic facts about a domain cannot generate meaningful hypotheses. Lower-level mastery enables higher-level operation.",
+      "pedagogical_implication": "Design learning sequences that begin at the appropriate level for the learner — often lower than instructors assume — and build upward. Do not skip foundational levels in the name of teaching 'higher-order thinking.'"
+    },
+    {
+      "misconception": "The 2001 revision merely relabeled the original 1956 taxonomy.",
+      "correction": "The revision made substantive structural changes: (1) nouns were replaced with verbs to reframe the taxonomy as describing cognitive processes rather than knowledge products; (2) the two highest levels were reordered — Synthesis (now Create) moved above Evaluation (now Evaluate), reversing their hierarchy; and (3) a second Knowledge Dimension was added, producing a two-dimensional framework. These are conceptual changes, not cosmetic ones.",
+      "pedagogical_implication": "When referencing the revised taxonomy, use the verb forms (Remember, Understand, Apply, Analyze, Evaluate, Create) and attribute to Anderson & Krathwohl (2001), not Bloom (1956). The reordering of Create and Evaluate has implications for curriculum design."
+    },
+    {
+      "misconception": "The taxonomy describes a fixed developmental sequence — students must master level N before engaging with level N+1.",
+      "correction": "The hierarchy is logical, not developmental. It describes relationships of cognitive demand, not a prescribed instructional sequence. Within a single class session, a skilled teacher might move students from Analyze back to Remember to clarify a misunderstood concept, then up to Evaluate. The taxonomy is a descriptive and design tool, not a lock-step progression.",
+      "pedagogical_implication": "Use the taxonomy for objective-writing and assessment design, not as a rigid curriculum sequence. Diagnostic flexibility — knowing which level a particular student needs to operate at for a particular concept — is more important than sequential compliance."
+    }
+  ],
+  "app_usage": {
+    "primary_template": "blooms-scaffold-v1",
+    "primary_template_description": "The Bloom's Scaffold template presents users with a topic and asks them to engage with it at each of the six cognitive levels in sequence, with each field's prompt calibrated to elicit genuine operation at that level.",
+    "exercise_integration": "Bloom's levels are used to calibrate exercise difficulty: beginner exercises target Remember/Understand; intermediate exercises target Apply/Analyze; advanced exercises target Evaluate/Create. The level is specified in each exercise's metadata.",
+    "dewey_phase_mapping": "The app displays a cross-mapping panel showing which Bloom level corresponds to which Dewey phase for a given task. This mapping is stored in dewey-five-phases.json and reproduced here for bidirectional lookup.",
+    "feedback_llm_use": "In template feedback mode, the LLM is instructed to assess whether the user's response to each field genuinely operates at the claimed Bloom level, not just claims to. A response to an Evaluate prompt that is actually only Understand-level receives targeted feedback identifying the gap."
+  },
+  "levels": [
+    {
+      "level": 1,
+      "name": "Remember",
+      "verb": "retrieve",
+      "cognitive_process": "Retrieving relevant knowledge from long-term memory — recognizing (identifying) or recalling (retrieving) facts, concepts, procedures, or principles without necessarily understanding their relationships or implications.",
+      "action_verbs": [
+        "define",
+        "list",
+        "recall",
+        "identify",
+        "name",
+        "state",
+        "recognize",
+        "label",
+        "match",
+        "repeat",
+        "reproduce",
+        "describe"
+      ],
+      "question_stems": [
+        "What is the definition of...?",
+        "List the steps in...",
+        "Who was...? / When did... occur?",
+        "What are the five phases of...?",
+        "Which of the following is an example of...?"
+      ],
+      "in_app_exercise_type": "concept_recall",
+      "dewey_connection": "Remember corresponds to the stock of prior experience and accumulated knowledge that Dewey identifies as the source of suggestions in Phase 3. Dewey insists, however, that mere recall is not thinking — it is the raw material that thinking works on. A learner who can only Remember has the ingredients for inquiry but has not yet engaged in it. In Dewey's terms, Remember is the experiential deposit that must exist before perplexity can generate a productive suggestion.",
+      "example_task": "List Dewey's five phases of reflective thinking by name and state which chapter of 'How We Think' develops each most explicitly.",
+      "dewey_phase_mapping": "Precondition for all phases — the knowledge reservoir that makes Phase 3 (Suggestion) possible.",
+      "knowledge_dimension_fit": ["Factual Knowledge", "Conceptual Knowledge"]
+    },
+    {
+      "level": 2,
+      "name": "Understand",
+      "verb": "construct meaning",
+      "cognitive_process": "Constructing meaning from instructional messages through interpreting, exemplifying, classifying, summarizing, inferring, comparing, or explaining. Understanding is demonstrated when a learner can paraphrase, find new examples, or explain in their own words — not merely repeat.",
+      "action_verbs": [
+        "explain",
+        "paraphrase",
+        "summarize",
+        "classify",
+        "compare",
+        "interpret",
+        "illustrate",
+        "infer",
+        "exemplify",
+        "translate",
+        "distinguish",
+        "discuss"
+      ],
+      "question_stems": [
+        "In your own words, explain what... means.",
+        "What is the difference between... and...?",
+        "Can you give an example of... from your own experience?",
+        "What would happen if...?",
+        "How would you summarize the main argument of...?"
+      ],
+      "in_app_exercise_type": "concept_explanation",
+      "dewey_connection": "Understanding corresponds most closely to Dewey's concept of Meaning — the grasp of a thing's relations to other things, its causes and consequences. Dewey distinguishes mere apprehension (direct recognition through familiarity) from comprehension (achieved understanding of relations). A learner operating at Bloom's Understand level has moved beyond recall toward the kind of relational grasp Dewey considers the minimum condition for genuine intellectual engagement. In the app's context, Understand is the level at which concept card engagement should begin.",
+      "example_task": "In your own words, explain why Dewey insists that perplexity must be 'felt' rather than merely assigned, and give one example from your own experience where a problem felt genuinely unresolved.",
+      "dewey_phase_mapping": "Supports Phase 2 (Intellectualization) — you cannot define a problem you do not understand the terms of.",
+      "knowledge_dimension_fit": ["Factual Knowledge", "Conceptual Knowledge"]
+    },
+    {
+      "level": 3,
+      "name": "Apply",
+      "verb": "use",
+      "cognitive_process": "Carrying out or using a procedure in a given situation — either executing a familiar procedure (carrying out) or implementing a procedure in an unfamiliar context (using). Apply requires more than understanding: the learner must deploy knowledge in service of a concrete task.",
+      "action_verbs": [
+        "apply",
+        "use",
+        "execute",
+        "implement",
+        "demonstrate",
+        "solve",
+        "carry out",
+        "employ",
+        "operate",
+        "calculate",
+        "complete",
+        "illustrate"
+      ],
+      "question_stems": [
+        "How would you apply... to this situation?",
+        "Can you use... to solve the following problem?",
+        "Demonstrate how... works in this case.",
+        "What would you do if...?",
+        "Which approach would you use to handle...?"
+      ],
+      "in_app_exercise_type": "framework_application",
+      "dewey_connection": "Apply corresponds most directly to Dewey's insistence that thought must be embedded in doing — that education disconnected from action produces inert knowledge that cannot be mobilized when genuine perplexity arises. In the app, Apply-level exercises ask learners to deploy Dewey's phases, Toulmin's model, or Paul-Elder's elements of thought on a specific, concrete problem. This is the first level at which the learner is doing something with knowledge rather than merely possessing it.",
+      "example_task": "Apply Dewey's five phases to a specific decision you made in the past month. For each phase, write what actually happened (or what was skipped) in your thinking process.",
+      "dewey_phase_mapping": "Spans all five phases — Apply is the level at which the user is actually working through the Dewey template with their own material.",
+      "knowledge_dimension_fit": ["Procedural Knowledge", "Conceptual Knowledge"]
+    },
+    {
+      "level": 4,
+      "name": "Analyze",
+      "verb": "break down",
+      "cognitive_process": "Breaking material into its constituent parts and determining how the parts relate to each other and to an overall structure or purpose. The three sub-processes are differentiating (distinguishing relevant from irrelevant parts), organizing (determining how parts form a coherent structure), and attributing (determining the underlying point of view or purpose).",
+      "action_verbs": [
+        "analyze",
+        "differentiate",
+        "distinguish",
+        "organize",
+        "attribute",
+        "deconstruct",
+        "examine",
+        "test",
+        "question",
+        "compare",
+        "contrast",
+        "identify assumptions"
+      ],
+      "question_stems": [
+        "What are the underlying assumptions in this argument?",
+        "How do the parts of... relate to each other?",
+        "What evidence supports or undermines this claim?",
+        "What is the structure of this argument?",
+        "What distinguishes... from...?"
+      ],
+      "in_app_exercise_type": "argument_dissection",
+      "dewey_connection": "Analyze maps directly to Dewey's Phase 2 (Intellectualization) and to his concept of Intellectual Analysis — the selective emphasis by which a thinker identifies what is relevant in a situation and locates the specific conditions causing the blockage. Dewey argues that analysis is not decomposition for its own sake but always in service of a governed problem. The best Analyze-level work in the app will show a learner who can not only break an argument apart but explain why each component matters for the specific question under inquiry.",
+      "example_task": "Take a news editorial arguing for a specific policy position. Identify its central claim, the evidence offered, the unstated assumptions the argument depends on, and the counterevidence it ignores. Use the Toulmin model as your analytical framework.",
+      "dewey_phase_mapping": "Phase 2 (Intellectualization) and Phase 4 (Reasoning) — analysis is required both to define the problem and to elaborate the hypothesis's implications.",
+      "knowledge_dimension_fit": ["Conceptual Knowledge", "Metacognitive Knowledge"]
+    },
+    {
+      "level": 5,
+      "name": "Evaluate",
+      "verb": "make judgments",
+      "cognitive_process": "Making judgments based on criteria and standards. The two sub-processes are checking (testing for internal consistency, identifying fallacies, detecting inconsistencies) and critiquing (judging whether a conclusion follows from its evidence, assessing the quality of an argument or solution against external criteria).",
+      "action_verbs": [
+        "evaluate",
+        "judge",
+        "critique",
+        "defend",
+        "justify",
+        "assess",
+        "appraise",
+        "check",
+        "monitor",
+        "prioritize",
+        "recommend",
+        "argue"
+      ],
+      "question_stems": [
+        "Do you agree with...? Why or why not, using specific evidence?",
+        "What are the strengths and weaknesses of this argument?",
+        "Is this conclusion warranted by the evidence? Why or why not?",
+        "How would you justify the claim that...?",
+        "What criteria would you use to evaluate...?"
+      ],
+      "in_app_exercise_type": "argument_evaluation",
+      "dewey_connection": "Evaluate spans Dewey's Phase 4 (Reasoning — checking internal logical coherence) and Phase 5 (Testing/Verification — judging the hypothesis against empirical evidence). Dewey's insistence on intellectual responsibility — the willingness to accept disconfirmation rather than defend a preferred conclusion — is the dispositional foundation of Bloom's Evaluate level. The highest form of Evaluate in the Dewey context is not judgment of others' arguments but judgment of one's own hypothesis in light of evidence: the willingness to say 'the evidence does not support what I believed.'",
+      "example_task": "You have generated a hypothesis about why your last major professional or personal decision did not produce the expected outcome. Evaluate that hypothesis against three pieces of evidence: one that supports it, one that partially supports it, and one that challenges it. What is your confidence level in the hypothesis after this evaluation, and what would change your mind?",
+      "dewey_phase_mapping": "Phases 4 and 5 — logical evaluation of the hypothesis and empirical verification against evidence.",
+      "knowledge_dimension_fit": ["Conceptual Knowledge", "Metacognitive Knowledge"]
+    },
+    {
+      "level": 6,
+      "name": "Create",
+      "verb": "generate",
+      "cognitive_process": "Putting elements together to form a new, coherent, or functional whole — reorganizing elements into a new pattern or structure. The three sub-processes are generating (producing alternative hypotheses or possibilities), planning (devising a procedure to accomplish a task), and producing (constructing something new). Create is distinguished from Apply: Apply deploys an existing procedure; Create invents a new one or combines existing elements into an original configuration.",
+      "action_verbs": [
+        "create",
+        "design",
+        "generate",
+        "plan",
+        "produce",
+        "construct",
+        "devise",
+        "formulate",
+        "compose",
+        "hypothesize",
+        "invent",
+        "develop"
+      ],
+      "question_stems": [
+        "How would you design a solution to...?",
+        "What hypotheses could explain...?",
+        "Create a plan for...",
+        "How could you combine... to address...?",
+        "What alternative approach would you propose?"
+      ],
+      "in_app_exercise_type": "hypothesis_generator",
+      "dewey_connection": "Create corresponds most directly to Dewey's Phase 3 (Suggestion/Hypothesis) — the moment when the mind generates a novel provisional answer to a governed problem. But Dewey's understanding of suggestion enriches Bloom's Create in an important way: for Dewey, creative generation is not arbitrary invention but constrained production. Suggestions arise from the intersection of a specific felt perplexity (Phase 1), a precisely defined problem (Phase 2), and a background of relevant prior experience. Bloom's Create without Dewey's constraints risks producing creativity for its own sake rather than creativity in service of inquiry.",
+      "example_task": "You have analyzed a persistent problem in your organization or community (using Dewey's Phase 2 and Bloom's Analyze). Generate three distinct hypotheses that could explain the problem, each from a different theoretical perspective. For each hypothesis, describe what observational evidence would confirm or disconfirm it.",
+      "dewey_phase_mapping": "Phase 3 (Suggestion/Hypothesis) — the generative phase of inquiry.",
+      "knowledge_dimension_fit": ["Procedural Knowledge", "Metacognitive Knowledge"]
+    }
+  ],
+  "knowledge_dimensions": [
+    {
+      "dimension": "Factual Knowledge",
+      "abbreviation": "A",
+      "description": "The basic elements of a discipline that students must know to be acquainted with it or to solve problems within it. Includes terminology (technical vocabulary, symbols) and specific details and elements (dates, events, persons, places, sources of information).",
+      "example": "The names of Dewey's five phases and the chapter of 'How We Think' in which each is primarily developed.",
+      "in_app_relevance": "Factual knowledge is the target of concept card recall exercises and the baseline tested in Q&A mode. Without accurate factual knowledge of Dewey's concepts, users cannot apply them reliably."
+    },
+    {
+      "dimension": "Conceptual Knowledge",
+      "abbreviation": "B",
+      "description": "Knowledge of the interrelationships among the basic elements within a larger structure that enables them to function together. Includes classifications and categories, principles and generalizations, and theories, models, and structures.",
+      "example": "Understanding why Dewey's five phases are described as 'functional moments' rather than sequential steps, and how this distinction affects how the template should be used.",
+      "in_app_relevance": "Conceptual knowledge is the primary target of framework JSON files and template feedback. The LLM feedback system assesses whether users demonstrate conceptual understanding, not just factual recall."
+    },
+    {
+      "dimension": "Procedural Knowledge",
+      "abbreviation": "C",
+      "description": "Knowledge of how to do something — methods of inquiry, skills, algorithms, techniques, and methods. Includes subject-specific skills and algorithms, subject-specific techniques and methods, and knowledge of criteria for determining when to use appropriate procedures.",
+      "example": "Knowing how to apply the Toulmin model to an argument: how to identify the claim, locate the grounds, articulate the warrant, and assess the rebuttal — not just knowing the names of the components.",
+      "in_app_relevance": "Procedural knowledge is the target of template exercises and the Apply-level exercises in the exercise library. The distinction between knowing about a framework (Conceptual) and knowing how to use it (Procedural) is central to exercise design."
+    },
+    {
+      "dimension": "Metacognitive Knowledge",
+      "abbreviation": "D",
+      "description": "Knowledge of cognition in general as well as awareness of one's own cognition. Includes strategic knowledge (general strategies for learning and problem-solving), knowledge about cognitive tasks (contextual and conditional knowledge), and self-knowledge (awareness of one's own cognitive strengths, weaknesses, and biases).",
+      "example": "Recognizing that one tends to jump from Phase 1 (Felt Perplexity) to Phase 3 (Hypothesis) without completing Phase 2 (Intellectualization), and knowing that this pattern produces poorly governed inquiry.",
+      "in_app_relevance": "Metacognitive knowledge is the ultimate target of the DeweyCT app. The reflection journal exercises, the LLM feedback system, and the post-template self-assessment checklist all aim to develop metacognitive awareness — the capacity to observe and govern one's own thinking processes."
+    }
+  ],
+  "taxonomy_table_note": "The full revised taxonomy produces a 6×4 matrix (six cognitive process levels × four knowledge dimensions). Any learning objective can be placed in a cell of this table: e.g., 'Remember/Factual,' 'Analyze/Conceptual,' 'Create/Metacognitive.' App exercises specify both dimensions in their metadata to enable precise scaffolding.",
+  "dewey_bloom_mapping": {
+    "description": "Bidirectional mapping between Bloom's six cognitive levels and Dewey's five phases, for use in the app's framework overview screen. Note that the mapping is approximate — both frameworks can interact at multiple points.",
+    "mapping": [
+      {
+        "bloom_level": 1,
+        "bloom_name": "Remember",
+        "dewey_phases": ["Precondition"],
+        "explanation": "The knowledge reservoir that makes productive suggestion possible."
+      },
+      {
+        "bloom_level": 2,
+        "bloom_name": "Understand",
+        "dewey_phases": [2],
+        "explanation": "Understanding the terms of the problem is necessary for Intellectualization."
+      },
+      {
+        "bloom_level": 3,
+        "bloom_name": "Apply",
+        "dewey_phases": [1, 2, 3, 4, 5],
+        "explanation": "Apply spans all phases — using the Dewey framework on real material."
+      },
+      {
+        "bloom_level": 4,
+        "bloom_name": "Analyze",
+        "dewey_phases": [2, 4],
+        "explanation": "Analysis is required for Intellectualization and for elaborating hypothesis implications."
+      },
+      {
+        "bloom_level": 5,
+        "bloom_name": "Evaluate",
+        "dewey_phases": [4, 5],
+        "explanation": "Evaluation covers both logical checking (Phase 4) and empirical verification (Phase 5)."
+      },
+      {
+        "bloom_level": 6,
+        "bloom_name": "Create",
+        "dewey_phases": [3],
+        "explanation": "Hypothesis generation is the creative phase of Dewey's inquiry arc."
+      }
+    ]
+  }
+}

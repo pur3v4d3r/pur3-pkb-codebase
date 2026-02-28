@@ -1,0 +1,127 @@
+{
+  "template_id": "argument-analysis-v1",
+  "name": "Argument Analysis Template",
+  "framework": "Toulmin Argument Model",
+  "description": "A structured template for analyzing — or constructing — an argument using Stephen Toulmin's six-component model: Claim, Grounds, Warrant, Backing, Qualifier, and Rebuttal. An optional seventh field invites fallacy identification. The template can be used in two modes: analysis mode (the user dissects an existing argument — their own, someone else's, or from a text) and construction mode (the user builds an argument from scratch and stress-tests it). Both modes require the same rigor. The template is most revealing when applied to arguments that the user finds compelling or that they are already committed to — these are the arguments most in need of structural examination.",
+  "estimated_time_minutes": 35,
+  "difficulty": "intermediate",
+  "recommended_chapter": 11,
+  "print_template_available": true,
+  "fields": [
+    {
+      "field_id": "claim",
+      "phase": 1,
+      "label": "Claim",
+      "type": "textarea",
+      "placeholder": "State the conclusion the argument is trying to establish — the position being argued for. A good claim is: specific (not vague), contestable (not obviously true or false to everyone), and complete (the full conclusion, not a fragment). Avoid embedding evidence or reasoning in the claim itself — the claim is the destination, not the journey. If you are analyzing an existing argument, state the claim as its author would state it.",
+      "example": "Organizations that implement mandatory four-day work weeks will achieve higher sustained productivity per employee than organizations operating on a standard five-day schedule.",
+      "minimum_words": 15,
+      "hint": "The claim is what the argument is trying to prove. Everything else in Toulmin's model is in service of establishing this claim. If the claim is vague or too broad, the entire argument becomes untestable. A well-stated claim could in principle be proven false — if not, it is not a genuine empirical claim.",
+      "llm_evaluation_criterion": "Is the claim specific and contestable? Is it stated as a conclusion rather than as a fact, evidence, or recommendation? Is it complete — could someone disagree with it as stated? Is it free of embedded reasoning or evidence?"
+    },
+    {
+      "field_id": "grounds",
+      "phase": 2,
+      "label": "Grounds",
+      "type": "textarea",
+      "placeholder": "What is the evidence, data, or factual basis for the claim? Grounds are the observable, verifiable facts that the argument rests on. They should be as specific as possible: cite studies, data points, observed patterns, or documented cases rather than general impressions. If you are constructing an argument, state what evidence you actually have. If you are analyzing one, state what evidence the arguer has provided. Distinguish between strong grounds (direct evidence) and weak grounds (anecdotes, impressions, or secondary sources).",
+      "example": "A 2021 study by Perpetual Guardian (New Zealand) found a 20% productivity increase and 45% reduction in reported stress after a four-day week trial. Microsoft Japan reported a 40% productivity boost in a 2019 trial. Iceland's 2015–2019 government trials involving 2,500 workers found maintained or improved service delivery with reduced work hours. A 2022 six-month trial by 4 Day Week Global across 33 companies found 91% of companies maintained the policy after the trial and reported revenue growth.",
+      "minimum_words": 60,
+      "hint": "Grounds answer the question: 'What do you have to go on?' They are the empirical foundation of the argument. Weak grounds — single anecdotes, unverifiable claims, impressions — weaken the entire argument regardless of how sound the warrant is. Strong grounds are specific, sourced, and representative rather than cherry-picked.",
+      "llm_evaluation_criterion": "Are the grounds specific and verifiable rather than general impressions? Are they directly relevant to the claim, or do they require additional inferential steps? Are they representative, or could they be cherry-picked? Is the strength of the grounds accurately characterized, or has weak evidence been presented as if it were strong?"
+    },
+    {
+      "field_id": "warrant",
+      "phase": 3,
+      "label": "Warrant",
+      "type": "textarea",
+      "placeholder": "What is the logical or causal principle that connects the grounds to the claim? The warrant is the bridge — it explains why the grounds support the claim. Most arguments leave the warrant unstated and assume the listener will accept it. Making it explicit is the most revealing part of this template: it forces examination of an assumption that is usually invisible. State the warrant as a general principle: 'If [grounds type], then [claim type]' or 'Evidence of type X supports conclusions of type Y because...'",
+      "example": "When employees have more control over their time and fewer total working hours, they experience lower cognitive fatigue and higher intrinsic motivation, which produces better quality work per hour — and over a sustained period, this quality improvement outweighs the loss of one day's raw output. Therefore, trial data showing maintained or improved productivity under a four-day week is evidence that four-day weeks sustain or improve productivity.",
+      "minimum_words": 50,
+      "hint": "The warrant is where most arguments actually succeed or fail — and where most disagreements actually live. Two people can agree on the grounds and the claim and still reject the argument if they reject the warrant. Ask yourself: does my warrant actually connect these grounds to this claim? Could someone accept the grounds and reject the claim by rejecting the warrant?",
+      "llm_evaluation_criterion": "Does the warrant actually bridge the grounds to the claim — does the claim follow from the grounds if the warrant is accepted? Is the warrant a genuine causal or logical principle, or a restatement of the claim? Is the warrant contestable — could a reasonable person accept the grounds but reject the warrant? Has the warrant been made explicit and precise?"
+    },
+    {
+      "field_id": "backing",
+      "phase": 4,
+      "label": "Backing",
+      "type": "textarea",
+      "placeholder": "What supports the warrant itself? The backing is evidence or argument for why the warrant principle is valid — why the logical bridge you've identified actually holds. Backing is most important when the warrant is likely to be contested. It may come from established research in relevant fields, theoretical frameworks, historical precedent, or logical argument. If the warrant is widely accepted and uncontroversial, backing can be brief. If it is contested, backing must be substantive.",
+      "example": "The warrant rests on the relationship between cognitive fatigue, motivation, and work quality. Supporting evidence: research in occupational psychology consistently finds that cognitive performance degrades significantly after four to six hours of focused work (Baumeister's ego-depletion research; NASA fatigue studies). Research on intrinsic motivation (Deci and Ryan's self-determination theory) establishes that autonomy is a primary driver of sustained high performance. These bodies of research support the claim that reducing hours while increasing autonomy produces quality improvements that compound over time.",
+      "minimum_words": 50,
+      "hint": "Think of backing as the evidence for the warrant's evidence. It is required when the warrant is doing significant inferential work — when the connection between grounds and claim is not self-evident. If your warrant is something most people would immediately accept, backing can be light. If it is a substantive claim about causation or human behavior, it needs support.",
+      "llm_evaluation_criterion": "Does the backing address the warrant rather than the claim or the grounds? Is it appropriately substantive given how contested the warrant is? Is it drawn from relevant domains (not just analogies)? Does the backing actually strengthen the warrant, or does it support something adjacent to it?"
+    },
+    {
+      "field_id": "qualifier",
+      "phase": 5,
+      "label": "Qualifier",
+      "type": "textarea",
+      "placeholder": "Under what conditions does the claim hold? What limits the strength of the argument? The qualifier names the degree of certainty with which the claim can be asserted, and the scope conditions under which it applies. Good qualifiers are honest: they narrow the claim to the territory the evidence actually supports rather than overstating. Use hedging language that accurately reflects the strength of your grounds and warrant: 'in most cases,' 'for knowledge-work organizations,' 'when implementation is supported by management,' 'probably,' 'under typical conditions.'",
+      "example": "The claim holds most reliably for knowledge-work organizations where output quality is more important than raw output volume, and where the transition is implemented with management support, clear expectation-setting, and protected focused-work norms. The productivity benefits are probably less pronounced in roles where total hours directly determine output (manufacturing, physical labor), and the trial data does not yet support strong long-term claims beyond two to three years. The argument establishes a probable case, not a certainty.",
+      "minimum_words": 40,
+      "hint": "The qualifier is where intellectual honesty lives. An argument without qualifiers is usually overstated. Ask: does the evidence support the claim in all cases, or only in some? What conditions are assumed? Accurately qualifying a claim is not weakness — it is precision. An honest qualifier actually strengthens an argument by making it more credible.",
+      "llm_evaluation_criterion": "Does the qualifier accurately narrow the claim to the territory the evidence supports? Does it identify the scope conditions (type of organization, context, conditions) under which the claim holds? Does it use appropriately hedged language — neither falsely modest nor overconfident? Has any important condition been omitted?"
+    },
+    {
+      "field_id": "rebuttal",
+      "phase": 6,
+      "label": "Rebuttal",
+      "type": "textarea",
+      "placeholder": "What are the strongest objections to this argument? A rebuttal names the conditions under which the claim would not hold, acknowledges the strongest counterarguments, and explains how the argument handles them — or honestly notes where it doesn't. The rebuttal is not a concession; it is a demonstration that the arguer has genuinely grappled with opposition rather than ignored it. Include at least two objections. For each: state it in its strongest form (steelman it), then explain how your argument responds — or acknowledge its force if the argument cannot fully rebut it.",
+      "example": "Objection 1: The existing trial data is subject to selection bias — only organizations motivated to try a four-day week self-selected into trials, making them unrepresentative of typical organizations. Response: This is a genuine limitation. The argument should be qualified to apply to organizations with appropriate conditions for the policy, not as a universal prescription. Objection 2: Compressing five days of work into four may increase work intensity to unhealthy levels and shift stress rather than reduce it. Response: Trial data shows reduced stress in most cases, but this objection is valid for roles where workload is externally driven and cannot be reduced. The warrant holds for knowledge-work contexts where efficiency gains can absorb the compression; it is weakened in externally-constrained workloads.",
+      "minimum_words": 80,
+      "hint": "The rebuttal is the most intellectually demanding field — and the most revealing. An arguer who cannot steelman the opposition has not understood the argument's limits. Dewey's Suspended Judgment and Toulmin's Rebuttal both require the same discipline: genuine engagement with contrary evidence before committing to a conclusion. A rebuttal that only presents weak objections is a form of intellectual dishonesty.",
+      "llm_evaluation_criterion": "Are the objections stated in their strongest form (steelmanned), or as weak caricatures? Are there at least two genuinely distinct objections? Does the response to each objection engage with its substance rather than dismissing it? Where the argument cannot fully rebut an objection, is this honestly acknowledged? Does the rebuttal strengthen the overall argument by demonstrating the arguer's genuine engagement with contrary evidence?"
+    },
+    {
+      "field_id": "fallacy_check",
+      "phase": 7,
+      "label": "Fallacy Check (Optional)",
+      "type": "select",
+      "placeholder": "Review the argument you have constructed or analyzed. Does it commit any of the following fallacy patterns? Select all that apply. If none apply, select 'No fallacy identified.' This field is optional but recommended for arguments you intend to use in professional or academic contexts.",
+      "example": "Post Hoc Ergo Propter Hoc — the argument risks this if productivity improvements observed after four-day week implementation are attributed solely to the policy rather than to the motivational and selection effects of the trial context.",
+      "minimum_words": 0,
+      "hint": "Common fallacy patterns in policy arguments: Hasty Generalization (small or biased trials generalized to all organizations), Post Hoc (correlation in time treated as causation), False Cause (confounding variables not ruled out), Appeal to Authority (expert endorsement without engaging the evidence), Straw Man (misrepresenting the opposing position). If you identify a fallacy, note which component of the Toulmin model it affects.",
+      "llm_evaluation_criterion": "If a fallacy is identified, is it accurately named and correctly applied to this specific argument? Does the identification specify which Toulmin component the fallacy affects? If no fallacy is identified, is this a considered conclusion or an unexamined default?"
+    }
+  ],
+  "llm_feedback_prompt_template": "You are a critical thinking tutor helping a student analyze or construct an argument using Stephen Toulmin's argument model. You have received their completed Argument Analysis Template. Your role is defined by the following constraints:\n\n1. Your primary evaluation task is logical validity: does the Warrant actually bridge the Grounds to the Claim? This is the most important question in the template. Do not allow a structurally complete template to pass as a strong argument if the Warrant-to-Claim inference is invalid.\n2. You evaluate argument structure and logical validity — not whether you agree with the argument's conclusion. You can find an argument logically sound while disagreeing with its conclusion, and you can find an argument structurally flawed while agreeing with its conclusion.\n3. You ask questions before making statements. Your first move is always to help the student see their argument more clearly — not to provide a verdict.\n4. You use Toulmin's terminology: Claim, Grounds, Warrant, Backing, Qualifier, Rebuttal. Do not substitute synonyms.\n5. You never produce a score or grade.\n6. You focus on the single most important structural issue — not a comprehensive list of all issues.\n7. You acknowledge what is working before addressing what needs development.\n\nKey logical tests to apply:\n- Warrant validity: If the Grounds are true AND the Warrant is accepted, does the Claim necessarily (or probably) follow? If not, the Warrant is doing insufficient logical work.\n- Warrant-Claim gap: Is the Claim stronger than the Grounds + Warrant can establish? Look for overclaiming.\n- Qualifier honesty: Does the Qualifier accurately reflect the epistemic strength of the argument, or does it over- or under-hedge?\n- Rebuttal steelmanning: Are the objections in the Rebuttal presented in their strongest form? A rebuttal that only addresses weak objections is not a genuine rebuttal.\n- Fallacy check (if completed): Is the identified fallacy correctly named and applied? Does it affect the Warrant, the Grounds, or the inference as a whole?\n\nIf a logical fallacy is present that the student did not identify, you may note it — but frame it as a question: 'I notice the argument moves from [Grounds] to [Claim] via [Warrant]. Could this inference pattern resemble a [fallacy name]? What would you need to add or change to address this?'\n\nResponse structure:\n1. One sentence acknowledging the strongest element of the argument as constructed.\n2. Identify the single most important structural issue (Warrant validity, Qualifier honesty, or Rebuttal quality).\n3. Ask two to three questions that help the student examine that issue.\n4. If a fallacy is present and unidentified, raise it as a question (see above).\n5. One closing observation about what the argument's structure reveals — not about whether it is right.\n\nTone: precise, rigorous, genuinely curious. You are interested in the argument's structure as an object of analysis — not as a vehicle for your own position on the topic.",
+  "llm_feedback_dimensions": [
+    {
+      "dimension": "Claim Precision",
+      "weight": 0.10,
+      "rubric": "1-point: The claim is vague, too broad to be testable, or contains embedded reasoning. 5-point: The claim is specific, contestable, and complete. A reader could clearly identify what evidence would establish or refute it."
+    },
+    {
+      "dimension": "Grounds Quality",
+      "weight": 0.15,
+      "rubric": "1-point: Grounds are anecdotal, unverified, or consist of a single non-representative case. 5-point: Grounds are specific, verifiable, and representative. The evidence is directly relevant to the claim and its strength is accurately characterized."
+    },
+    {
+      "dimension": "Warrant-Claim Validity",
+      "weight": 0.30,
+      "rubric": "1-point: The Warrant does not bridge the Grounds to the Claim — either it restates the claim, is missing the actual inferential step, or the Claim does not follow from Grounds + Warrant even if both are accepted. 5-point: The Warrant identifies the causal or logical principle that genuinely connects Grounds to Claim. A reader who accepts both the Grounds and the Warrant would be rationally compelled toward the Claim."
+    },
+    {
+      "dimension": "Qualifier Accuracy",
+      "weight": 0.20,
+      "rubric": "1-point: No qualifier present, or the qualifier does not reflect the argument's actual scope and certainty. The claim is over- or under-stated relative to the evidence. 5-point: The qualifier accurately identifies the scope conditions and degree of certainty supported by the Grounds and Warrant. It neither overstates nor falsely hedges."
+    },
+    {
+      "dimension": "Rebuttal Honesty",
+      "weight": 0.25,
+      "rubric": "1-point: The rebuttal presents only weak objections, presents them in weakened form (strawmanning), or is absent. 5-point: At least two genuinely strong objections are presented in their strongest form. Each is engaged substantively. Where the argument cannot fully address an objection, this is honestly acknowledged."
+    }
+  ],
+  "completed_example": {
+    "topic": "Whether public libraries should expand their digital lending programs at the expense of physical collection budgets",
+    "claim": "Public libraries that reallocate a significant portion of physical collection budgets toward expanded digital lending will serve more patrons more equitably than those that maintain current budget allocations.",
+    "grounds": "A 2022 American Library Association survey found that 62% of library patrons under 45 now prefer digital borrowing for fiction. Digital titles have no late fees and no waitlists from physical availability. The pandemic demonstrated that libraries with strong digital infrastructure maintained 80-90% of patron engagement while physical locations were closed, compared to near-zero engagement at libraries without it. Digital collections allow a single license to serve simultaneous borrowers in ways physical copies cannot.",
+    "warrant": "When a service mode reaches more patrons with fewer access barriers — no travel required, no late fees, simultaneous availability — while maintaining equivalent content quality, it serves equity goals more effectively than a mode requiring physical presence and imposing availability constraints. Therefore, evidence that digital lending removes access barriers at scale is evidence that it serves equity more effectively than equivalent physical investment.",
+    "backing": "The equity argument rests on the library's mission as stated in the American Library Association's mission framework: to provide equitable access to information regardless of income, mobility, or geography. Research on library access disparities consistently finds that physical access barriers (transportation, operating hours, late fees) disproportionately affect low-income and mobility-limited patrons. Digital lending directly addresses these barriers. Shannon's information access theory and the broader literature on equitable service delivery both support the principle that removing barriers to a high-quality service increases equity of access.",
+    "qualifier": "This argument holds most strongly in urban and suburban library systems where digital infrastructure exists and patron internet access is sufficient. In rural systems or communities with significant digital divides, shifting budgets toward digital lending may inadvertently exclude the least-connected patrons, reversing the equity argument. The claim is qualified to systems where digital infrastructure and patron connectivity are adequate, and where the reallocation is gradual enough to allow patron adaptation.",
+    "rebuttal": "Objection 1: Many patrons — particularly older adults, low-income patrons, and children — rely on physical collections and cannot access digital resources, meaning reallocation would harm the most vulnerable library users. Response: This is the strongest objection and significantly qualifies the claim. The argument does not apply to libraries serving populations with low digital access; in those contexts, physical collections remain the equity-serving mode. The argument is for systems with adequate connectivity — and for those systems, digital expansion serves the non-connected population approximately equally while dramatically expanding access for others. Objection 2: Digital lending is controlled by publishers with restrictive licensing terms that limit library autonomy and impose escalating costs, making digital expansion financially risky. Response: This is a legitimate structural concern. Publisher licensing terms (particularly for major publishers who have refused library e-lending entirely) do constrain digital expansion. The argument is qualified to acknowledge this: it applies where digital licensing is available and sustainable, not as a universal prescription for all digital content types.",
+    "fallacy_check": "Post Hoc Ergo Propter Hoc — risk: the pandemic data (libraries with digital infrastructure maintained engagement) could be read as post hoc reasoning if the maintained engagement was due to other factors (e.g., better-resourced libraries having both better digital infrastructure AND better physical collections). The argument should distinguish the effect of digital infrastructure specifically from the general effect of being a well-resourced library."
+  }
+}

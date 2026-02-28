@@ -1,0 +1,397 @@
+{
+  "framework": "Paul-Elder Critical Thinking Framework",
+  "authors": ["Richard Paul", "Linda Elder"],
+  "year": 1997,
+  "source": "Critical Thinking: Tools for Taking Charge of Your Professional and Personal Life",
+  "publisher": "Foundation for Critical Thinking Press",
+  "website": "https://www.criticalthinking.org",
+  "description": "The Paul-Elder framework is a comprehensive model of critical thinking developed by Richard Paul and Linda Elder at the Foundation for Critical Thinking. It rests on three interlocking components: the Elements of Thought (the universal structural parts present in any episode of reasoning), the Intellectual Standards (the criteria by which the quality of reasoning in each element is judged), and the Intellectual Traits (the dispositional characteristics of a fully developed critical thinker).\n\nThe framework's core claim is that all thinking — regardless of domain, topic, or purpose — exhibits the same eight structural elements. When we reason, we always do so for a purpose, based on some question, using information, through inference, organized by concepts, resting on assumptions, producing implications, and from a point of view. These elements are not stages in a process (as in Dewey's phases) but simultaneous structural features of any reasoning episode. Skilled critical thinking requires the ability to identify each element explicitly, assess it against the relevant intellectual standards, and correct it where it falls short.\n\nThe intellectual standards function as the quality criteria for each element: a Purpose should be clear and significant; Information should be accurate and relevant; Inferences should be logical and precise. The intellectual traits represent the character dispositions that must be developed over time for the standards to be applied consistently and honestly — traits like intellectual humility (acknowledging what one does not know) and intellectual courage (engaging with ideas that challenge one's beliefs).",
+  "dewey_integration": "Paul-Elder operationalizes Dewey's account of reflective thinking into specific, teachable components. Where Dewey describes the functional arc of inquiry (from perplexity to verification), Paul-Elder provides the structural anatomy of reasoning — a cross-section at any point in that arc. The two frameworks are complementary: Dewey tells you what phase of thinking you are in; Paul-Elder tells you what structural elements are present in your thinking at that moment and how well you are executing them. In practice, Dewey's Phase 2 (Intellectualization) requires high-quality performance on the Paul-Elder elements of Question at Issue and Purpose; Phase 3 (Hypothesis) requires quality performance on Concepts and Assumptions; Phase 5 (Testing) requires quality performance on Information and Inferences.",
+  "common_misconceptions": [
+    {
+      "misconception": "The elements of thought are a checklist to work through sequentially.",
+      "correction": "The eight elements are simultaneous structural features of any reasoning episode, not stages to complete in order. At any moment in your thinking, all eight elements are present — though some may be poorly developed. The framework asks you to become aware of all eight and assess each, not to address them in sequence.",
+      "practical_implication": "When using the Paul-Elder template, do not try to 'complete' one element before moving to the next. Instead, recognize that revising your understanding of one element (e.g., Purpose) will require you to revise others (e.g., Question at Issue) simultaneously."
+    },
+    {
+      "misconception": "Meeting the intellectual standards means achieving certainty or objectivity.",
+      "correction": "The standards describe qualities of thinking — clarity, accuracy, precision, relevance, depth, breadth, logic, significance, fairness — not epistemic outcomes. Reasoning can meet all nine standards and still reach a conclusion that is later revised. The standards are about the quality of the cognitive process, not the certainty of the result. Fair-mindedness, for instance, means genuinely considering opposing viewpoints, not necessarily agreeing with them.",
+      "practical_implication": "Apply the standards as ongoing criteria throughout inquiry, not as a threshold to pass before concluding. Ask 'Is my thinking clear here?' and 'Is my information accurate?' at every stage."
+    },
+    {
+      "misconception": "The intellectual traits are personality characteristics that some people have and others lack.",
+      "correction": "Paul and Elder treat the traits as developed dispositions — acquired through sustained practice and reflection, not innate endowments. Intellectual humility is not the same as low self-confidence; intellectual courage is not the same as combativeness. Each trait has a corresponding vice (antithesis) that represents the failure mode, and the goal of critical thinking education is to cultivate the virtues while recognizing and correcting the vices.",
+      "practical_implication": "Identify which intellectual trait is most challenged by a particular reasoning task and build that trait through deliberate practice. A person who tends toward intellectual arrogance will benefit from exercises that specifically require acknowledging uncertainty; a person who tends toward intellectual cowardice will benefit from exercises that require defending unpopular positions with evidence."
+    }
+  ],
+  "app_usage": {
+    "primary_template": "paul-elder-analysis-v1",
+    "primary_template_description": "The Paul-Elder Analysis template presents eight fields — one per Element of Thought — along with a self-assessment checklist for the nine Intellectual Standards. The LLM feedback cross-references each element against the relevant standards.",
+    "template_feedback_role": "The LLM feedback prompt for the Paul-Elder template instructs the LLM to cross-reference each element against the standards it should meet. For example: 'Your Purpose field is clear, but your Assumptions field lacks precision — you have identified that you are making assumptions, but have not stated them specifically enough to be evaluated.'",
+    "exercise_integration": "Paul-Elder elements serve as the analytical lens for argument_dissection exercises. Each exercise specifies which elements are in focus.",
+    "dewey_phase_column": "In the app's cross-framework mapping table, Paul-Elder elements are listed as the third column after Dewey phases and Bloom levels."
+  },
+  "components": {
+    "elements_of_thought": [
+      {
+        "number": 1,
+        "element": "Purpose",
+        "definition": "Every instance of reasoning is aimed at something — a goal, objective, function, or outcome the reasoning is meant to serve. Reasoning without a clear purpose is undirected and cannot be evaluated for relevance or success.",
+        "probing_questions": [
+          "What is my primary purpose in reasoning about this?",
+          "What am I ultimately trying to achieve or accomplish?",
+          "Are there secondary purposes that might conflict with my primary purpose?",
+          "Have I clearly distinguished my purpose from the purposes of others involved?",
+          "Is my stated purpose my real purpose, or is there an unstated purpose driving my reasoning?"
+        ],
+        "common_failure": "Pursuing multiple incompatible purposes simultaneously without recognizing the conflict; or confusing a means (a sub-goal) with the actual purpose; or failing to recognize when one's unstated purpose differs from one's stated purpose.",
+        "template_field_label": "Purpose",
+        "template_field_placeholder": "I am reasoning about this in order to... My goal in this inquiry is... What I ultimately want to achieve or understand is...",
+        "dewey_connection": "Purpose corresponds most closely to the governing function of Dewey's Phase 2 (Intellectualization). Dewey argues that the clearly defined problem controls all subsequent inquiry — in Paul-Elder terms, the Purpose determines what information is relevant, what concepts apply, and what standards the conclusion must meet. A poorly defined Purpose produces unfocused inquiry; a precisely defined Purpose makes the inquiry tractable.",
+        "intellectual_standards_most_relevant": ["Clarity", "Significance"],
+        "example_well_stated": "My purpose is to understand why the public engagement meeting I facilitated last month produced hostility rather than engagement, so that I can redesign future meetings to achieve genuine community participation.",
+        "example_poorly_stated": "I want to figure out what went wrong."
+      },
+      {
+        "number": 2,
+        "element": "Question at Issue",
+        "definition": "Every instance of reasoning is an attempt to answer a question. The question determines the direction, scope, and logical form of the reasoning. Different question types (empirical, interpretive, evaluative, policy) require different kinds of evidence and different standards for resolution.",
+        "probing_questions": [
+          "What exactly is the question I am trying to answer?",
+          "Is this a question of fact, interpretation, value, or policy?",
+          "Is there a more precise way to state the question?",
+          "Are there multiple questions embedded in what I am treating as a single question?",
+          "What would count as a satisfactory answer to this question?"
+        ],
+        "common_failure": "Conflating multiple distinct questions; keeping the question vague enough that almost any answer can satisfy it; treating an open-empirical question as if it were already settled; failing to specify what would count as a resolution.",
+        "template_field_label": "Question at Issue",
+        "template_field_placeholder": "The specific question I am trying to answer is... What I am really asking is... The question that would resolve my uncertainty is...",
+        "dewey_connection": "Question at Issue is Dewey's Phase 2 (Intellectualization) stated in Paul-Elder's structural vocabulary. Dewey says a question well put is half answered; Paul-Elder says the same thing through the standard of Clarity applied to the question. Both frameworks agree that the precision and scope of the governing question determines the quality of everything that follows.",
+        "intellectual_standards_most_relevant": ["Clarity", "Precision"],
+        "example_well_stated": "Under what conditions does presenting empirical data to a community audience increase rather than decrease willingness to act — and specifically, what role did trust and identity play in my meeting's outcome?",
+        "example_poorly_stated": "Why do people resist information?"
+      },
+      {
+        "number": 3,
+        "element": "Information",
+        "definition": "All reasoning uses data, facts, observations, experiences, or evidence as its raw material. The quality of reasoning depends partly on the quality, accuracy, relevance, and sufficiency of the information used.",
+        "probing_questions": [
+          "What information am I using to support this conclusion?",
+          "Is this information accurate and up to date?",
+          "Is this information relevant to the specific question at issue?",
+          "What information might be relevant that I have not yet considered?",
+          "Could my information be biased or incomplete in ways that affect my conclusion?",
+          "How was this information gathered, and what are its methodological limitations?"
+        ],
+        "common_failure": "Using information selectively — citing only evidence that supports a preferred conclusion while ignoring disconfirming evidence; treating secondhand information as if it were directly verified; over-generalizing from a small sample; confusing correlation with causation.",
+        "template_field_label": "Information",
+        "template_field_placeholder": "The information I am using to reason about this includes... The data or evidence that is most relevant is... Information I may be missing is...",
+        "dewey_connection": "Information corresponds to Dewey's Phase 5 (Testing/Verification) as the empirical data against which hypotheses are tested. But Paul-Elder enriches this by making information assessment a continuous activity throughout reasoning, not just a final testing phase. Dewey's concept of Evidence — data that has been rendered significant by a governing hypothesis — maps directly to Paul-Elder's emphasis on the relevance of information to the specific question at issue.",
+        "intellectual_standards_most_relevant": ["Accuracy", "Relevance", "Sufficiency"],
+        "example_well_stated": "My information includes: direct observation of participant reactions during the meeting (my notes), post-meeting conversations with three participants, published research on science communication and community engagement, and my organization's records of prior interactions with these participants.",
+        "example_poorly_stated": "I know from experience that community meetings are hard."
+      },
+      {
+        "number": 4,
+        "element": "Interpretation and Inference",
+        "definition": "Reasoning moves from information to conclusions through inferences — the interpretations we draw from data, the conclusions we reach, the predictions we make. Inferences are not given by the data; they are constructed by the thinker, and they can be more or less logically sound.",
+        "probing_questions": [
+          "What conclusions am I drawing from this information?",
+          "Does this conclusion actually follow logically from the evidence?",
+          "Are there other reasonable conclusions that could be drawn from the same evidence?",
+          "Am I interpreting the evidence charitably to the other side as well as to my own position?",
+          "What assumptions am I making in moving from this information to this conclusion?"
+        ],
+        "common_failure": "Leaping to conclusions that go beyond what the evidence warrants; ignoring alternative interpretations; confusing the most familiar interpretation with the most accurate one; allowing preferred conclusions to shape interpretation of evidence (confirmation bias).",
+        "template_field_label": "Interpretation and Inference",
+        "template_field_placeholder": "From the information above, I conclude that... My interpretation of this evidence is... The reasoning that connects my data to my conclusion is...",
+        "dewey_connection": "Interpretation and Inference maps directly to Dewey's concept of Signification — the operation by which observed facts become evidence for unobserved conclusions. Dewey's distinction between valid signification (grounded in real causal or structural connections) and mere association parallels Paul-Elder's distinction between logically sound inference and leaping to conclusions. Both frameworks emphasize that the move from data to conclusion is not automatic — it is a constructed act that must be evaluated.",
+        "intellectual_standards_most_relevant": ["Logic", "Accuracy", "Precision"],
+        "example_well_stated": "From the pattern of responses I observed, I infer that participants who had no prior relationship with my organization were more likely to interpret the data as external criticism. This inference is grounded in the correlation between prior contact and receptivity, though I acknowledge it could also be explained by differences in the participants' familiarity with the topic.",
+        "example_poorly_stated": "They were hostile because they didn't want to change."
+      },
+      {
+        "number": 5,
+        "element": "Concepts",
+        "definition": "All reasoning employs concepts — theories, principles, frameworks, mental models, and definitions — through which the thinker organizes information and constructs inferences. The conceptual framework applied to a problem shapes what is visible and what is invisible in that problem.",
+        "probing_questions": [
+          "What key concepts am I using to organize my thinking about this?",
+          "How am I defining these concepts, and are my definitions adequate?",
+          "Are there alternative conceptual frameworks that would reveal different aspects of this situation?",
+          "Am I using concepts consistently, or am I shifting their meaning mid-argument?",
+          "What would this situation look like if I applied a different conceptual framework?"
+        ],
+        "common_failure": "Using key terms inconsistently; applying a conceptual framework without examining its assumptions; treating the concepts one is comfortable with as the only available lens; failing to recognize when a concept drawn from one domain does not transfer cleanly to another.",
+        "template_field_label": "Concepts",
+        "template_field_placeholder": "The key concepts or frameworks I am using to understand this are... I am defining [concept] as... An alternative framework I could use would be...",
+        "dewey_connection": "Concepts correspond to Dewey's Phase 3 (Suggestion/Hypothesis) — the conceptual frameworks that shape which hypotheses a thinker can generate. Dewey argues that the quality of suggestions depends on the quality and richness of the thinker's experiential background; Paul-Elder adds that the conceptual vocabulary a thinker has mastered determines what they can see in a situation. Both frameworks converge on the idea that intellectual development partly consists in expanding one's conceptual repertoire.",
+        "intellectual_standards_most_relevant": ["Clarity", "Precision", "Depth"],
+        "example_well_stated": "I am primarily using the concept of 'trust deficit' from science communication research (the gap between an audience's confidence in an information source and their willingness to act on that source's claims) and the concept of 'identity-protective cognition' from cultural cognition theory (the tendency to reject information that threatens one's group identity).",
+        "example_poorly_stated": "People have biases."
+      },
+      {
+        "number": 6,
+        "element": "Assumptions",
+        "definition": "All reasoning rests on assumptions — beliefs we take for granted without subjecting them to critical scrutiny. Assumptions may be about facts (what is the case), values (what matters), or logic (what follows from what). Unexamined assumptions are among the most common sources of reasoning errors.",
+        "probing_questions": [
+          "What am I taking for granted in this line of reasoning?",
+          "Are my assumptions justified, or do they need examination?",
+          "What would I have to believe for this conclusion to follow?",
+          "Is it possible that my assumptions reflect my background, culture, or interests in ways that bias my reasoning?",
+          "What assumptions is the opposing view making, and are those assumptions more or less warranted than mine?"
+        ],
+        "common_failure": "Treating assumptions as obvious or commonsensical when they are actually contested; failing to distinguish factual assumptions (that can be checked) from value assumptions (that must be argued for); building elaborate reasoning on unexamined foundational assumptions that turn out to be false.",
+        "template_field_label": "Assumptions",
+        "template_field_placeholder": "I am assuming that... For my reasoning to work, it must be true that... An assumption I am making that might not hold is...",
+        "dewey_connection": "Assumptions are the target of Dewey's intellectual virtue of Suspended Judgment — the willingness to withhold assent until evidence warrants it, which requires recognizing that one is operating on assumptions rather than established facts. Dewey's concept of Genuine Perplexity also depends on the capacity to recognize when an assumption has been disrupted: it is when a background assumption fails — when the expected consequence does not occur — that perplexity arises and reflection begins.",
+        "intellectual_standards_most_relevant": ["Clarity", "Accuracy", "Logic"],
+        "example_well_stated": "I assumed that accurate information, clearly presented, would motivate action — an assumption drawn from a deficit model of public engagement. I also assumed that participants' reluctance reflected lack of knowledge rather than lack of trust. Both assumptions may be false.",
+        "example_poorly_stated": "I assumed everything would go fine."
+      },
+      {
+        "number": 7,
+        "element": "Implications and Consequences",
+        "definition": "All reasoning leads somewhere — if our reasoning is sound, certain things follow from it. Implications are logical consequences: what must be true if our reasoning is correct. Consequences include practical outcomes: what will likely happen if we act on our conclusions. Skilled reasoning traces both before committing to a conclusion.",
+        "probing_questions": [
+          "If my conclusion is correct, what follows from it?",
+          "What are the practical consequences of acting on this conclusion?",
+          "Are there unintended consequences I have not considered?",
+          "If I am wrong, what are the consequences of that error?",
+          "What does my conclusion imply about related issues I have not yet considered?"
+        ],
+        "common_failure": "Failing to follow a line of reasoning to its logical conclusion; ignoring consequences that are real but inconvenient; treating all consequences as equally significant without prioritizing; failing to consider the consequences for parties who are not the primary focus of the reasoning.",
+        "template_field_label": "Implications and Consequences",
+        "template_field_placeholder": "If my conclusion is correct, then it follows that... The practical implications of this conclusion for my situation are... If I act on this reasoning, the likely consequences are...",
+        "dewey_connection": "Implications and Consequences map directly to Dewey's Phase 4 (Reasoning) — the mental elaboration of the hypothesis by following out its logical implications before empirical testing. Dewey argues that the key discipline of Phase 4 is tracing what must be true if the hypothesis is correct, and checking whether those implications are consistent with known facts. Paul-Elder extends this by also requiring the thinker to consider practical consequences — not just logical implications but real-world effects.",
+        "intellectual_standards_most_relevant": ["Depth", "Breadth", "Significance"],
+        "example_well_stated": "If the trust-deficit hypothesis is correct, the implication is that redesigning the information content of my presentation will not solve the problem — only redesigning the relationship-building process that precedes the information presentation will. This has significant resource implications: building trust requires more time and different activities than improving data visualization.",
+        "example_poorly_stated": "I should try something different next time."
+      },
+      {
+        "number": 8,
+        "element": "Point of View",
+        "definition": "All reasoning is conducted from some perspective — a frame of reference, standpoint, or orientation that shapes what is seen and what is missed. Point of view includes disciplinary perspective (how a biologist vs. an economist sees an environmental problem), cultural perspective, professional role, personal history, and values.",
+        "probing_questions": [
+          "From what perspective or standpoint am I reasoning about this?",
+          "What does my perspective allow me to see that others might miss?",
+          "What might my perspective cause me to overlook or dismiss?",
+          "How would this situation look from a substantially different point of view?",
+          "Am I genuinely taking into account the perspective of those affected by my conclusions?"
+        ],
+        "common_failure": "Failing to recognize that one has a perspective at all — treating one's own viewpoint as simply 'how things are'; dismissing other perspectives without genuinely considering what they see; conflating one's professional or cultural perspective with universal rationality.",
+        "template_field_label": "Point of View",
+        "template_field_placeholder": "I am approaching this from the perspective of... My standpoint or role shapes my reasoning by... A perspective I might be missing is... From the perspective of [other party], this situation looks like...",
+        "dewey_connection": "Point of View connects to Dewey's emphasis on the experiential embeddedness of all thinking — for Dewey, there is no 'view from nowhere,' because thinking always arises from and returns to a particular experienced situation. Paul-Elder makes explicit what Dewey implies: that standpoint shapes both which perplexities are felt and which hypotheses are generated. The discipline of considering alternative points of view is an extension of Dewey's intellectual virtues of Open-Mindedness and Intellectual Responsibility.",
+        "intellectual_standards_most_relevant": ["Breadth", "Fairness"],
+        "example_well_stated": "I am approaching this from the perspective of a professional facilitator who designed the meeting, which means I have a stake in diagnosing it as a fixable process problem rather than a relationship problem. The participants, by contrast, were approaching it from a perspective of people being asked to change their practices by an outside organization they do not know well.",
+        "example_poorly_stated": "I saw the meeting from a professional standpoint."
+      }
+    ],
+    "intellectual_standards": [
+      {
+        "number": 1,
+        "standard": "Clarity",
+        "definition": "A statement or argument is clear when its meaning can be grasped precisely and unambiguously. Clarity is the gateway standard — if a statement is unclear, we cannot assess whether it is accurate, relevant, or logical.",
+        "probing_question": "Could you elaborate on that? Could you give me an example? Could you state that more precisely?",
+        "failure_mode": "Vague language that creates the appearance of meaning without its substance; using technical terms without defining them; stating things at a level of generality that prevents evaluation.",
+        "rating_rubric": {
+          "1": "Statement is ambiguous; multiple conflicting interpretations are possible; key terms are undefined.",
+          "3": "Statement is mostly clear but contains ambiguous phrases that could be read in more than one way.",
+          "5": "Statement is precise; only one reasonable interpretation is possible; key terms are defined and used consistently."
+        },
+        "app_display_question": "Is this clear? Could it be stated more precisely?"
+      },
+      {
+        "number": 2,
+        "standard": "Accuracy",
+        "definition": "A statement is accurate when it corresponds to what is actually the case — when it is true or well-evidenced. Accuracy requires checking claims against available evidence rather than accepting them because they are convenient or familiar.",
+        "probing_question": "Is that really true? How could we check that? How could we verify or test that?",
+        "failure_mode": "Stating as fact what is only assumed, guessed, or hoped; not checking the accuracy of sources; repeating information that sounds plausible without verification.",
+        "rating_rubric": {
+          "1": "Claims are made without evidence; information is demonstrably false or highly contested.",
+          "3": "Most claims are plausible and reasonably supported, but some assertions go beyond what the available evidence warrants.",
+          "5": "All factual claims are accurate, verified, and appropriately qualified where uncertainty exists."
+        },
+        "app_display_question": "Is this actually true? How do you know?"
+      },
+      {
+        "number": 3,
+        "standard": "Precision",
+        "definition": "A statement is precise when it is specific enough to be evaluated meaningfully — when it provides the level of detail required for the purpose at hand. Precision goes beyond clarity: a statement can be clear but imprecise ('the meeting went badly').",
+        "probing_question": "Could you be more specific? Could you give more details? Could you be more exact?",
+        "failure_mode": "Using general language where specific language is needed; describing the scale or magnitude of something without quantifying it; failing to specify which instance, which timeframe, or which conditions apply.",
+        "rating_rubric": {
+          "1": "Statement is too general to be evaluated or acted upon; no specific details are provided.",
+          "3": "Statement provides some specifics but leaves important details vague.",
+          "5": "Statement is specific enough that another person reading it would have sufficient detail to evaluate or act upon it."
+        },
+        "app_display_question": "Could this be more specific or detailed?"
+      },
+      {
+        "number": 4,
+        "standard": "Relevance",
+        "definition": "Information, reasoning, or considerations are relevant when they bear on the question at issue — when they make a difference to the conclusion. Relevance is always relative to a specific question.",
+        "probing_question": "How does that bear on the question? How does that help us address the issue?",
+        "failure_mode": "Introducing considerations that are interesting but do not bear on the question at issue; using evidence that supports a related but different claim than the one being argued; mistaking personal significance for logical relevance.",
+        "rating_rubric": {
+          "1": "Reasoning includes substantial material that does not bear on the question at issue.",
+          "3": "Most content is relevant, but some digressions or off-point considerations are included.",
+          "5": "All content bears directly on the question at issue; irrelevant material has been excluded."
+        },
+        "app_display_question": "Does this actually bear on the question at issue?"
+      },
+      {
+        "number": 5,
+        "standard": "Depth",
+        "definition": "Reasoning has depth when it addresses the complexities, tensions, and fundamental difficulties in the problem rather than treating it at a surface level. Depth requires engaging with what makes the problem genuinely difficult.",
+        "probing_question": "How does your answer address the complexities in the question? Are you taking into account the difficulties involved?",
+        "failure_mode": "Giving shallow or formulaic answers that avoid the hard parts of a problem; acknowledging that something is complex without actually engaging with the complexity; treating a multifaceted problem as if it had a simple answer.",
+        "rating_rubric": {
+          "1": "Response is superficial; the fundamental difficulties or tensions in the problem are not addressed.",
+          "3": "Response acknowledges complexity but does not fully work through the tensions or difficult trade-offs.",
+          "5": "Response engages substantively with the core difficulties of the problem; no important complexity is evaded."
+        },
+        "app_display_question": "Does this engage with the real complexity of the issue?"
+      },
+      {
+        "number": 6,
+        "standard": "Breadth",
+        "definition": "Reasoning has breadth when it considers multiple perspectives, frameworks, or lines of evidence relevant to the question — when it does not proceed from a single viewpoint without considering alternatives.",
+        "probing_question": "Do we need to consider another perspective here? Is there another way to look at this question?",
+        "failure_mode": "Reasoning from a single perspective as if it were the only relevant one; dismissing alternative viewpoints without genuinely engaging with their strongest versions; mistaking familiarity with one framework for comprehensiveness.",
+        "rating_rubric": {
+          "1": "Reasoning proceeds from a single perspective; no alternative viewpoints are considered.",
+          "3": "Some alternative perspectives are noted but not genuinely engaged with.",
+          "5": "Multiple relevant perspectives are engaged seriously; the strongest version of each is considered."
+        },
+        "app_display_question": "Are you considering all relevant perspectives?"
+      },
+      {
+        "number": 7,
+        "standard": "Logic",
+        "definition": "Reasoning is logical when the conclusions follow from the premises — when the inferences are valid and the argument form is sound. Logic also requires internal consistency: a set of claims that contradict each other cannot all be true.",
+        "probing_question": "Does this really follow? Does what you say make sense together? How does that conclusion follow from that evidence?",
+        "failure_mode": "Drawing conclusions that do not follow from the evidence; making internally contradictory claims; applying standards selectively (demanding evidence for claims you oppose while accepting claims you favor without evidence).",
+        "rating_rubric": {
+          "1": "Conclusions do not follow from the evidence; internal contradictions are present.",
+          "3": "Reasoning is mostly valid but contains at least one inference that does not clearly follow.",
+          "5": "All conclusions follow validly from the evidence and premises; no internal contradictions."
+        },
+        "app_display_question": "Do these conclusions actually follow from this evidence?"
+      },
+      {
+        "number": 8,
+        "standard": "Significance",
+        "definition": "Reasoning addresses what is significant when it focuses on what matters most in a situation — when it distinguishes central from peripheral considerations and directs attention and resources accordingly.",
+        "probing_question": "Is this the most important problem to address? Is this the central issue here?",
+        "failure_mode": "Spending intellectual energy on peripheral details while the central difficulty goes unaddressed; treating all considerations as equally important; avoiding the most significant (and usually most difficult) aspect of a problem.",
+        "rating_rubric": {
+          "1": "Reasoning focuses on peripheral issues; the most important aspect of the problem is not addressed.",
+          "3": "Important aspects are addressed, but the most significant element receives insufficient attention relative to less important considerations.",
+          "5": "Reasoning centers on what matters most; the hierarchy of significance is correctly identified and drives the inquiry."
+        },
+        "app_display_question": "Are you focusing on what actually matters most here?"
+      },
+      {
+        "number": 9,
+        "standard": "Fairness",
+        "definition": "Reasoning is fair when it genuinely considers all relevant perspectives and interests — when it does not give one's own interests or favored positions an automatic advantage in the reasoning process. Fairness requires intellectual empathy: the capacity to reason from within a viewpoint one does not hold.",
+        "probing_question": "Am I being fair to all perspectives here? Am I applying the same standards to all sides?",
+        "failure_mode": "Applying higher evidential standards to claims one opposes than to claims one favors; describing opposing positions in their weakest form (strawmanning) while presenting one's own in its strongest form; ignoring the interests of parties who are not part of the immediate reasoning context.",
+        "rating_rubric": {
+          "1": "Reasoning systematically favors one perspective; opposing views are dismissed or caricatured.",
+          "3": "Reasoning attempts to be fair but applies standards somewhat unevenly.",
+          "5": "Reasoning applies the same evidential and logical standards to all perspectives; opposing views are stated in their strongest form."
+        },
+        "app_display_question": "Are you applying the same standards to all sides?"
+      }
+    ],
+    "intellectual_traits": [
+      {
+        "number": 1,
+        "trait": "Intellectual Humility",
+        "definition": "Having a consciousness of the limits of one's knowledge, including a sensitivity to circumstances in which one's native egocentrism is likely to function self-deceptively. Intellectual humility is not self-deprecation — it is accurate self-assessment of what one knows and does not know.",
+        "antithesis": "Intellectual Arrogance",
+        "antithesis_description": "The tendency to claim more knowledge or certainty than one actually has; dismissing the possibility that one might be wrong; treating the limits of one's knowledge as the limits of what is knowable.",
+        "observable_behavior": "Acknowledges gaps in knowledge explicitly; revises beliefs when evidence warrants it; distinguishes between what is known and what is assumed; attributes correct ideas to their sources rather than presenting them as independently derived.",
+        "dewey_connection": "Intellectual Humility is the dispositional form of Dewey's concept of Suspended Judgment — the willingness to withhold assent until evidence warrants it. Dewey identifies premature closure as the primary enemy of genuine inquiry; Intellectual Humility is the virtue that counteracts it."
+      },
+      {
+        "number": 2,
+        "trait": "Intellectual Courage",
+        "definition": "The willingness to engage fairly with ideas, viewpoints, and positions that one might personally find uncomfortable, unpopular, or threatening — including ideas that challenge one's own deeply held beliefs. Intellectual courage involves facing complexity honestly rather than retreating to safe, comfortable positions.",
+        "antithesis": "Intellectual Cowardice",
+        "antithesis_description": "Giving deliberately vague or uncommitted answers to avoid controversy; refusing to engage with ideas that challenge one's beliefs; changing positions not because of evidence but because of social pressure.",
+        "observable_behavior": "Defends well-reasoned positions even when they are unpopular; engages with the strongest version of opposing arguments; acknowledges when an opposing argument has merit even if one ultimately disagrees with its conclusion.",
+        "dewey_connection": "Intellectual Courage corresponds to Dewey's emphasis on intellectual responsibility — the willingness to follow the evidence wherever it leads, even when the conclusion is inconvenient or challenges prior commitments."
+      },
+      {
+        "number": 3,
+        "trait": "Intellectual Empathy",
+        "definition": "The ability to reconstruct the viewpoints, reasoning, and experiences of others from the inside — to reason as they reason and understand why their thinking makes sense from their perspective, even if one ultimately disagrees with it.",
+        "antithesis": "Intellectual Narrow-mindedness",
+        "antithesis_description": "Dismissing other viewpoints without genuinely understanding them; assuming that people who reach different conclusions are simply less rational or less informed; being unable to reconstruct an opposing position in its strongest form.",
+        "observable_behavior": "States opposing positions in terms their proponents would recognize; identifies the strongest evidence and reasoning supporting a view one opposes; distinguishes between disagreeing with a position and failing to understand it.",
+        "dewey_connection": "Intellectual Empathy is related to Dewey's Open-Mindedness — the hospitality to new evidence and willingness to consider ideas from outside one's prior framework. It is also connected to Dewey's account of social intelligence: for Dewey, genuine understanding of a social situation requires entering imaginatively into the perspectives of those involved."
+      },
+      {
+        "number": 4,
+        "trait": "Intellectual Autonomy",
+        "definition": "The ability to think for oneself — to use one's own reasoning rather than passively deferring to authority, tradition, or social consensus. Intellectual Autonomy does not mean ignoring others' views; it means evaluating them critically rather than accepting them on the basis of their source.",
+        "antithesis": "Intellectual Conformity",
+        "antithesis_description": "Accepting beliefs because they are widely held, socially rewarded, or endorsed by authority rather than because they are well-reasoned and well-evidenced; changing beliefs in response to social pressure rather than evidence.",
+        "observable_behavior": "Evaluates claims on their merits rather than their source; forms independent judgments on questions where independent judgment is appropriate; recognizes when expert consensus deserves deference and when it should be critically examined.",
+        "dewey_connection": "Intellectual Autonomy maps to Dewey's concept of Intellectual Freedom — the power to think independently and reach warranted conclusions through one's own reasoning process. Dewey contrasts this with the external standard of intellectual performance: conforming to expected answers rather than achieving genuine understanding."
+      },
+      {
+        "number": 5,
+        "trait": "Intellectual Integrity",
+        "definition": "Holding oneself to the same intellectual standards one applies to others — being consistent in how one evaluates reasoning regardless of whose reasoning it is. Intellectual Integrity means not having double standards: demanding evidence for claims one opposes while accepting claims one favors without question.",
+        "antithesis": "Intellectual Hypocrisy",
+        "antithesis_description": "Applying different standards of evidence or reasoning to claims based on whether one finds the conclusion favorable; finding excuses to dismiss well-reasoned opposing arguments while accepting poorly-reasoned arguments that support one's preferred conclusions.",
+        "observable_behavior": "Applies the same evidential standards to all claims regardless of their source or conclusion; acknowledges when one's own previously held position was less well-supported than one recognized; cites opposing evidence even when not required to.",
+        "dewey_connection": "Intellectual Integrity is the personal-virtue form of the standard of Fairness. Dewey's concept of Intellectual Responsibility — taking ownership of the quality of one's thinking and its consequences — is the nearest Deweyan analog."
+      },
+      {
+        "number": 6,
+        "trait": "Intellectual Perseverance",
+        "definition": "The willingness to pursue understanding through difficulties, obstacles, frustrations, and complexity rather than settling for premature closure or a superficial answer. Intellectual Perseverance means staying with a problem long enough for genuine understanding to develop.",
+        "antithesis": "Intellectual Laziness",
+        "antithesis_description": "Settling for the first plausible answer rather than continuing to refine understanding; avoiding difficult problems; abandoning inquiry at the first sign of confusion or resistance.",
+        "observable_behavior": "Returns to difficult problems after initial frustration; revises understanding in response to new evidence rather than defending prior positions; acknowledges when a question requires more work before a conclusion is warranted.",
+        "dewey_connection": "Intellectual Perseverance is the dispositional form of Dewey's Suspended Judgment and his insistence that tolerance of doubt is the psychological precondition of genuine inquiry. Dewey's description of the temptation to rush to resolution — to escape the discomfort of perplexity — precisely identifies what Intellectual Laziness looks like in practice."
+      },
+      {
+        "number": 7,
+        "trait": "Confidence in Reason",
+        "definition": "The trust that good thinking — the use of evidence, logic, and systematic inquiry — is the most reliable path to sound conclusions, and the commitment to submit one's own beliefs to rational evaluation rather than defending them by appeals to emotion, authority, or tradition.",
+        "antithesis": "Distrust of Reason",
+        "antithesis_description": "Believing that rational analysis is insufficient for important questions, which must be resolved by authority, tradition, intuition, or emotional commitment; using reason selectively — only when it supports preferred conclusions.",
+        "observable_behavior": "Treats disagreements as opportunities for rational resolution rather than as contests; seeks evidence when claims are contested; is willing to change beliefs when reasoning supports doing so.",
+        "dewey_connection": "Confidence in Reason is the dispositional counterpart to Dewey's account of science as the highest form of reflective thinking. Dewey argues throughout 'How We Think' that the scientific attitude — belief held tentatively, proportioned to evidence, open to revision — is the appropriate model for all genuine inquiry, not just academic disciplines."
+      },
+      {
+        "number": 8,
+        "trait": "Fair-mindedness",
+        "definition": "The commitment to treat all perspectives impartially — to give equal consideration to opposing viewpoints and to evaluate all claims by the same standards regardless of one's prior commitments. Fair-mindedness is the dispositional integration of intellectual empathy and intellectual integrity.",
+        "antithesis": "Intellectual Bias",
+        "antithesis_description": "Systematically favoring one's own perspectives, groups, or prior commitments in reasoning; applying different standards to in-group and out-group claims; treating one's own position as requiring no defense while treating opposing positions as requiring maximum evidential support.",
+        "observable_behavior": "Seeks out the strongest formulation of opposing views before evaluating them; acknowledges merit in positions one ultimately rejects; identifies and monitors one's own tendencies toward bias in specific domains.",
+        "dewey_connection": "Fair-mindedness connects to Dewey's Open-Mindedness and to his concept of experience as the common ground of inquiry: for Dewey, the democratic community of inquiry — in which all perspectives can be heard and tested — is the social condition for genuine reflective thinking. Fair-mindedness is the individual virtue that makes such a community possible."
+      }
+    ]
+  },
+  "standards_elements_matrix": {
+    "description": "Which intellectual standards are most critical for evaluating each element of thought. Used by the LLM feedback prompt to generate targeted cross-referenced feedback.",
+    "matrix": [
+      {"element": "Purpose", "primary_standards": ["Clarity", "Significance"], "secondary_standards": ["Fairness"]},
+      {"element": "Question at Issue", "primary_standards": ["Clarity", "Precision"], "secondary_standards": ["Relevance"]},
+      {"element": "Information", "primary_standards": ["Accuracy", "Relevance"], "secondary_standards": ["Breadth", "Significance"]},
+      {"element": "Interpretation and Inference", "primary_standards": ["Logic", "Accuracy"], "secondary_standards": ["Precision", "Fairness"]},
+      {"element": "Concepts", "primary_standards": ["Clarity", "Depth"], "secondary_standards": ["Precision", "Breadth"]},
+      {"element": "Assumptions", "primary_standards": ["Clarity", "Accuracy"], "secondary_standards": ["Fairness", "Logic"]},
+      {"element": "Implications and Consequences", "primary_standards": ["Depth", "Breadth"], "secondary_standards": ["Significance", "Logic"]},
+      {"element": "Point of View", "primary_standards": ["Breadth", "Fairness"], "secondary_standards": ["Depth", "Relevance"]}
+    ]
+  }
+}

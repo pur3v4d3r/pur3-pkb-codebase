@@ -1,0 +1,191 @@
+{
+  "framework": "Socratic Questioning Typology",
+  "authors": ["Richard Paul", "Linda Elder"],
+  "year": 2006,
+  "source": "The Thinker's Guide to the Art of Socratic Questioning",
+  "publisher": "Foundation for Critical Thinking Press",
+  "historical_origin": "Socratic method traces to Socrates (470-399 BCE) as documented in Plato's dialogues, particularly the Meno, Theaetetus, and Republic. The systematic typology used in the app is Richard Paul and Linda Elder's codification of Socratic questioning types.",
+  "description": "Socratic questioning is a disciplined method of collaborative inquiry based on the principle that rigorous, probing questions are more effective tools for developing understanding than direct instruction or explanation. The method traces to Socrates, who used persistent questioning to expose the unstated assumptions, internal contradictions, and gaps in knowledge underlying confident claims. His interlocutors typically began conversations believing they understood something (courage, justice, piety) and ended them recognizing that their understanding was incomplete or incoherent — a state of productive perplexity Socrates called aporia.\n\nPaul and Elder's typology organizes Socratic questions into six functional types based on the kind of thinking they probe. This is not a rigid sequence but a diagnostic toolkit: different question types surface different kinds of thinking errors. A question about Clarification surfaces vagueness; a question Probing Assumptions surfaces hidden premises; a question Probing Implications surfaces unconsidered consequences. A skilled Socratic interlocutor selects question types based on where the target thinking is weakest, then escalates depth progressively — moving from surface clarification toward deeper examination of foundations and implications.\n\nIn the DeweyCT app, the Socratic Questioning typology serves two functions: it is the basis of the Socratic Questioning template (in which users interrogate their own thinking using each question type in turn) and it is the behavioral model for the Socratic Dialogue exercise mode (in which the LLM plays the role of Socratic interlocutor, asking only questions, never making statements).",
+  "dewey_integration": "Socratic questioning is Dewey's account of genuine perplexity operationalized as pedagogical method. Dewey argues that genuine inquiry begins with felt perplexity — a real obstruction in understanding — and that the teacher's role is to engineer conditions that produce authentic perplexity rather than simulated compliance. Socratic questioning is precisely this engineering: each question type is designed to expose a place where the thinker's understanding is not yet genuine. The Clarification questions expose Phase 2 (Intellectualization) failures — the thinker has not yet defined the problem precisely. The Probing Assumptions questions expose Phase 3 (Hypothesis) failures — the thinker is asserting a conclusion built on unexamined foundations. The Probing Implications questions expose Phase 4 (Reasoning) failures — the thinker has not traced the consequences of their position. The Questions About Evidence expose Phase 5 (Testing) failures — the thinker has not tested their hypothesis against reality.",
+  "common_misconceptions": [
+    {
+      "misconception": "Socratic questioning is a confrontational technique designed to humiliate people who are wrong.",
+      "correction": "The goal of Socratic questioning is not to defeat or embarrass but to provoke genuine inquiry. Questions should be asked with authentic curiosity, not rhetorical challenge. The tone is collaborative: 'I want to understand what you mean' and 'I want to think this through with you' — not 'I am going to prove you wrong.' When Socratic questioning produces discomfort, it should be the productive discomfort of recognizing that one's thinking needs more work, not the defensive discomfort of being attacked.",
+      "pedagogical_implication": "Model Socratic questioning with genuine curiosity and warmth. Establish a shared norm: questions are how we help each other think better, not how we defeat each other."
+    },
+    {
+      "misconception": "Socratic questioning requires expertise to practice — only a trained philosopher can do it well.",
+      "correction": "The core questions in each type are simple enough for anyone to learn and apply. 'What do you mean by that?' (Clarification), 'What are you assuming here?' (Probing Assumptions), 'What would happen if that were true?' (Probing Implications) — these do not require philosophical training. The skill lies in selecting the right question type for the thinking gap being addressed and in genuinely listening to responses rather than leading toward a predetermined conclusion.",
+      "pedagogical_implication": "Teach the six question types as a practical toolkit. Practice with low-stakes topics before applying to high-stakes decisions."
+    },
+    {
+      "misconception": "The Socratic interlocutor's role is to ask questions until the other person admits they don't know anything.",
+      "correction": "The goal is not aporia as an end state but aporia as a transitional state — the productive perplexity that motivates deeper inquiry. A Socratic dialogue that leaves participants feeling confused and helpless has failed. A successful dialogue leaves participants with a clearer understanding of exactly what they do not yet understand — a genuine question they are motivated to pursue — which is precisely Dewey's Phase 2 (Intellectualization).",
+      "pedagogical_implication": "End Socratic dialogue sessions with a summary: 'What do we now know we don't know?' and 'What question has emerged that we want to pursue?' The session should produce a better question, not just an emptied confidence."
+    }
+  ],
+  "app_usage": {
+    "primary_template": "socratic-questioning-v1",
+    "primary_template_description": "The Socratic Questioning template presents six fields — one per question type — in which the user applies each type to their own thinking about a topic, problem, or belief. This is structured self-interrogation: the user plays both the role of questioner and respondent.",
+    "exercise_mode": "In Socratic Dialogue exercise mode, the LLM acts as a Socratic interlocutor: it asks only questions, never makes statements or provides information. It selects questions from the six types based on the thinking gap it identifies in the user's most recent response. It escalates depth progressively. The exercise ends when the user has produced a clear statement of what they now understand they do not yet know.",
+    "feedback_role": "In template feedback mode, the LLM identifies which Socratic question types the user's self-interrogation resembles and which types are missing or underdeveloped. It suggests specific questions from the missing types that the user should ask themselves.",
+    "dewey_phase_integration": "Each question type is tagged with the Dewey phase it primarily targets, allowing the app to display the cross-framework mapping panel."
+  },
+  "question_types": [
+    {
+      "number": 1,
+      "type_name": "Questions for Clarification",
+      "also_called": ["Clarifying questions", "Definitional questions"],
+      "definition": "Questions that probe the meaning, precision, and clarity of statements — asking the thinker to elaborate, define, or illustrate what they have said. Clarification questions address vagueness, ambiguity, and the illusion of understanding that attaches to familiar-sounding but loosely defined claims.",
+      "purpose": "To surface vagueness or ambiguity in what has been stated; to establish shared understanding of key terms; to distinguish what is actually being claimed from what it sounds like is being claimed; to expose when a statement that seems clear actually has multiple incompatible interpretations.",
+      "example_stems": [
+        "What exactly do you mean by that?",
+        "Could you give me an example of what you are describing?",
+        "How would you define [key term] for the purposes of this discussion?",
+        "Can you say that another way?",
+        "What specifically are you referring to when you say [phrase]?",
+        "Is [X] the same as [Y], or do you mean something different by each?",
+        "Could you explain what you mean more precisely?",
+        "When you say [claim], are you saying [interpretation A] or [interpretation B]?"
+      ],
+      "when_to_use": "When a statement uses abstract, vague, or multi-interpretable language; when key terms have not been defined; when you are uncertain what a person means even though the words are familiar; when two people seem to be arguing about the same question but reaching different conclusions because they are using terms differently.",
+      "thinking_error_it_surfaces": "Vagueness masquerading as substance; false consensus built on undefined shared vocabulary; the illusion of understanding produced by fluent-sounding but imprecise language.",
+      "dewey_phase_connection": "Phase 2 (Intellectualization). Clarification questions probe whether the thinker has yet converted their felt difficulty into a precisely articulated problem. A vague answer to 'what do you mean?' is evidence that Phase 2 is incomplete — the thinker is working with a loosely specified question that cannot yet govern productive inquiry.",
+      "paul_elder_elements_targeted": ["Purpose", "Question at Issue", "Concepts"],
+      "intellectual_standard_targeted": "Clarity"
+    },
+    {
+      "number": 2,
+      "type_name": "Questions that Probe Assumptions",
+      "also_called": ["Assumption-probing questions", "Foundational questions"],
+      "definition": "Questions that expose the unstated beliefs, presuppositions, and background commitments that the thinker is taking for granted — the hidden premises on which the argument rests. Assumption questions target what is not said, not what is.",
+      "purpose": "To surface hidden premises that may be false, contested, or unexamined; to reveal when a confident claim rests on foundations that have not been validated; to expose circular reasoning (when the conclusion is smuggled in as an assumption); to identify when a person is treating a culturally or professionally specific assumption as universal.",
+      "example_stems": [
+        "What are you assuming here?",
+        "What would have to be true for your conclusion to follow?",
+        "Are you assuming that [X]? Is that assumption justified?",
+        "Why do you think [premise] is true?",
+        "What if the opposite of your assumption were true — would your conclusion still hold?",
+        "Is that assumption always true, or only in certain contexts?",
+        "What is your reasoning based on?",
+        "Where does this belief come from?"
+      ],
+      "when_to_use": "When an argument moves confidently from evidence to conclusion without stating the inferential principle; when a thinker seems certain about something without being able to articulate why; when a claim works only if a particular background belief is true; when two people reason from the same facts to different conclusions (often because they hold different unstated assumptions).",
+      "thinking_error_it_surfaces": "Unexamined premises passed off as obvious facts; confirmation bias disguised as reasoning; cultural or professional assumptions treated as universal truths; circular reasoning in which the conclusion is embedded in the premises.",
+      "dewey_phase_connection": "Phase 3 (Suggestion/Hypothesis). The assumptions a thinker holds shape which hypotheses they can generate — the concepts and frameworks they bring to a problem constrain the solution space. Probing assumptions corresponds to Dewey's and Paul-Elder's emphasis on examining the conceptual frameworks and background beliefs that organize thinking. An unexamined assumption can make a thinker incapable of seeing certain hypotheses as possibilities.",
+      "paul_elder_elements_targeted": ["Assumptions", "Concepts", "Point of View"],
+      "intellectual_standard_targeted": "Accuracy"
+    },
+    {
+      "number": 3,
+      "type_name": "Questions that Probe Evidence and Reasoning",
+      "also_called": ["Evidence questions", "Logical questions", "Reasoning questions"],
+      "definition": "Questions that examine the quality and adequacy of the evidence offered in support of a claim, and the logical validity of the inference from evidence to conclusion. These questions test whether the argument's foundation is solid and whether the logical structure holds.",
+      "purpose": "To assess whether the evidence offered is accurate, relevant, and sufficient; to check whether the conclusion actually follows from the evidence; to surface alternative interpretations of the same evidence; to identify logical fallacies, non sequiturs, and leaps of inference; to expose when an argument cites evidence that, on examination, does not actually support the conclusion.",
+      "example_stems": [
+        "What is your evidence for that?",
+        "How do you know that is true?",
+        "Why do you think that evidence supports that conclusion?",
+        "Could that evidence be interpreted differently?",
+        "Is there evidence that points in the other direction?",
+        "What would it take to verify that claim?",
+        "How strong is the evidence? Is it sufficient to support a conclusion this certain?",
+        "Are you sure that follows? Walk me through the reasoning."
+      ],
+      "when_to_use": "When a claim is stated without supporting evidence; when evidence is offered but the inference from evidence to conclusion is unclear; when the evidence cited could support multiple different conclusions; when there is reason to suspect the evidence may be incomplete, biased, or inaccurately characterized; when a logical leap has been made without being stated.",
+      "thinking_error_it_surfaces": "Evidential insufficiency; confirmation bias (citing only supporting evidence); correlation-causation conflation; non sequitur inference; appeal to authority without engaging the argument; treating contested evidence as settled.",
+      "dewey_phase_connection": "Phase 5 (Testing/Verification). Evidence and reasoning questions probe the most important discipline of Dewey's final phase: the honest evaluation of the hypothesis against actual evidence, including disconfirming evidence. Dewey's insistence that disconfirmation is instructive rather than merely negative is operationalized by the question 'Is there evidence that points in the other direction?'",
+      "paul_elder_elements_targeted": ["Information", "Interpretation and Inference"],
+      "intellectual_standard_targeted": "Logic"
+    },
+    {
+      "number": 4,
+      "type_name": "Questions that Probe Viewpoints and Perspectives",
+      "also_called": ["Perspective questions", "Viewpoint questions", "Standpoint questions"],
+      "definition": "Questions that examine the perspective from which a thinker is reasoning — inviting consideration of how the same situation looks from a different standpoint, and probing whether the current perspective creates blind spots, omissions, or distortions.",
+      "purpose": "To expose when a thinker is reasoning from a single perspective as if it were universal; to invite genuine engagement with alternative viewpoints rather than dismissal; to surface the interests, values, or cultural commitments that shape how a situation is being framed; to reveal what is visible and what is invisible from the current standpoint.",
+      "example_stems": [
+        "How might someone who disagrees with you see this?",
+        "Is there another way to look at this situation?",
+        "What would this look like from the perspective of [affected party]?",
+        "Why might a reasonable person reach a different conclusion?",
+        "What might you be missing from where you are standing?",
+        "How does your experience or role shape how you see this?",
+        "What would someone from a different background notice that you might not?",
+        "Are there other perspectives that need to be considered before we conclude?"
+      ],
+      "when_to_use": "When reasoning is proceeding from an unstated but influential perspective; when affected parties are not being considered; when alternative viewpoints are being dismissed without genuine engagement; when the thinker seems unable to see why reasonable people might disagree; when cultural, professional, or positional bias may be shaping the framing of the problem.",
+      "thinking_error_it_surfaces": "Egocentrism — treating one's own perspective as the only valid or default perspective; ethnocentrism — assuming the norms of one's culture are universal; professional parochialism — applying a discipline's framework to problems it cannot adequately address; failure of empathy — inability to reconstruct how a situation looks from a different position.",
+      "dewey_phase_connection": "Phase 1 (Felt Perplexity) and Phase 2 (Intellectualization). The perspective from which a problem is approached determines which perplexities are felt and which problems are formulated. A person who cannot consider alternative perspectives cannot see the aspects of a situation that would be perplexing from those perspectives — and thus generates an impoverished problem definition. This connects also to Dewey's Open-Mindedness as a prerequisite intellectual virtue.",
+      "paul_elder_elements_targeted": ["Point of View", "Assumptions"],
+      "intellectual_standard_targeted": "Breadth"
+    },
+    {
+      "number": 5,
+      "type_name": "Questions that Probe Implications and Consequences",
+      "also_called": ["Implication questions", "Consequence questions", "Follow-through questions"],
+      "definition": "Questions that trace what follows from a position — its logical implications, its practical consequences, and its connections to other claims the thinker holds. Implication questions test whether the thinker has thought through what their position actually commits them to.",
+      "purpose": "To surface unintended or unexamined consequences of a position; to check for internal consistency — whether the position is compatible with other things the thinker believes; to reveal when a conclusion leads to results the thinker would reject if they recognized them; to test whether the thinker is genuinely committed to their position or would modify it when its full implications are traced.",
+      "example_stems": [
+        "If that is true, what follows from it?",
+        "What would happen if everyone accepted your position?",
+        "Does that conclusion commit you to [implication]? Are you comfortable with that?",
+        "What are the practical consequences of acting on that belief?",
+        "If your position is correct, what else must be true?",
+        "Have you thought through where that reasoning leads?",
+        "Does your position here conflict with what you said earlier about [related claim]?",
+        "What would you have to give up to be consistent with that position?"
+      ],
+      "when_to_use": "When a thinker states a position without tracing its logical consequences; when a conclusion appears to conflict with other things the thinker believes; when practical action on the position has implications the thinker may not have considered; when the thinker's commitment to a position needs to be tested by confronting them with its less comfortable implications.",
+      "thinking_error_it_surfaces": "Failure to follow reasoning to its conclusion; internal inconsistency — holding positions that contradict each other without recognizing the conflict; selective commitment to principles — applying them where convenient and ignoring them where they produce uncomfortable implications; wishful thinking — believing a conclusion while ignoring what it requires.",
+      "dewey_phase_connection": "Phase 4 (Reasoning). Implication and consequence questions correspond directly to Dewey's description of Phase 4 as the mental elaboration of the hypothesis — following out what must be true if the hypothesis is correct, checking coherence with known facts, and assessing whether the implications are acceptable before committing to overt action.",
+      "paul_elder_elements_targeted": ["Implications and Consequences", "Interpretation and Inference"],
+      "intellectual_standard_targeted": "Depth"
+    },
+    {
+      "number": 6,
+      "type_name": "Questions About the Question",
+      "also_called": ["Meta-questions", "Reflexive questions", "Questions about the inquiry itself"],
+      "definition": "Questions that examine the inquiry process itself — the question being asked, the purpose of the dialogue, the assumptions embedded in the framing of the question, and whether the right question is being pursued. Meta-questions step back from the object-level discussion to examine the framework within which it is being conducted.",
+      "purpose": "To examine whether the question being asked is the most productive or important question to be pursuing; to surface assumptions embedded in the question's framing that might be distorting the inquiry; to assess whether the purposes of the dialogue are appropriate and well-defined; to recognize when an inquiry is stuck because it is asking the wrong question rather than because the right answer has not been found.",
+      "example_stems": [
+        "Why is this question important?",
+        "Is this the right question to be asking, or is there a more fundamental question underneath it?",
+        "What does the way we have framed this question assume?",
+        "Is there a different question that would be more productive to pursue?",
+        "Why are we asking this question right now?",
+        "What question would best advance our understanding here?",
+        "Are we asking the right question, or are we asking the question we know how to answer?",
+        "What would we need to ask to get to the heart of this issue?"
+      ],
+      "when_to_use": "When an inquiry seems to be going in circles without making progress; when the question being pursued feels like it was inherited rather than chosen; when answers to the current question would not actually resolve the underlying concern; when a productive question has been displaced by a technical or procedural one; when framing the question differently might unlock new lines of inquiry.",
+      "thinking_error_it_surfaces": "Asking the wrong question — often because it is the familiar question, the safe question, or the question that appears to have an answer rather than the question that matters; framing bias — embedding assumptions in the question that predetermine the range of possible answers; misidentifying the level of analysis at which the real problem lies.",
+      "dewey_phase_connection": "Phase 2 (Intellectualization) at its deepest level. Dewey's insistence that 'a question well put is half answered' implies that poorly-put questions constitute a failure of Phase 2 that no amount of Phase 3 or Phase 4 work can correct. Questions About the Question are the most powerful check on whether Phase 2 has been completed: they ask whether the question governing the inquiry is actually the right one.",
+      "paul_elder_elements_targeted": ["Question at Issue", "Purpose"],
+      "intellectual_standard_targeted": "Significance"
+    }
+  ],
+  "socratic_interlocutor_constraints": {
+    "description": "Behavioral constraints for the LLM when operating in Socratic Dialogue exercise mode. These constraints define what the LLM can and cannot do in this role.",
+    "must_do": [
+      "Ask only questions — never make statements, provide information, or offer explanations.",
+      "Select question types based on the most significant thinking gap visible in the user's response.",
+      "Escalate depth progressively: begin with Clarification and move toward Probing Assumptions and Probing Implications as the dialogue develops.",
+      "Genuinely engage with the user's responses before formulating the next question — do not move mechanically through question types.",
+      "Ask one question at a time — not multiple questions in a single turn.",
+      "Acknowledge progress explicitly when the user's thinking becomes more precise or more honest, even within the question-only constraint (e.g., 'That's a more precise statement. Now, what are you assuming in that claim?')."
+    ],
+    "must_not": [
+      "Make statements, provide information, or reveal what the correct answer is.",
+      "Ask leading questions that reveal the questioner's preferred conclusion.",
+      "Move to a new topic when the user has not adequately engaged with the current question.",
+      "Ask condescending or dismissive questions.",
+      "End the dialogue while the user still has unexamined assumptions or untraced implications that are significant to the question at issue."
+    ],
+    "ending_condition": "The Socratic Dialogue exercise concludes when the user has produced a clear, honest statement of what they now understand they do not yet know — a well-formed question that has emerged from the dialogue and that they are motivated to pursue. This is the productive aporia that is the method's goal."
+  },
+  "self_interrogation_guide": {
+    "description": "Instructions for users applying the Socratic Questioning typology to their own thinking in template mode.",
+    "instructions": "The Socratic Questioning template asks you to interrogate your own thinking about a topic, belief, or decision using each of the six question types in turn. You are playing both roles — questioner and respondent. The goal is to find the places where your thinking is not yet as clear, as well-grounded, or as self-aware as it could be. A response to any question that comes easily and feels complete is evidence either that your thinking in that area is genuinely strong, or that you are not asking the question hard enough. Apply particular rigor to the questions that feel most uncomfortable to answer honestly."
+  }
+}

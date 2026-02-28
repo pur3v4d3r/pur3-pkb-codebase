@@ -1,0 +1,261 @@
+{
+  "framework": "Dewey's Five Phases of Reflective Thinking",
+  "authors": ["John Dewey"],
+  "year": 1933,
+  "source": "How We Think: A Restatement of the Relation of Reflective Thinking to the Educative Process",
+  "description": "Dewey's five phases describe the functional structure of any episode of genuine reflective thinking — the organic arc from a pre-reflective state of doubt through to a resolved, settled situation. These are not steps in an algorithm; Dewey is explicit that they overlap, telescope, and vary in emphasis depending on the complexity of the problem. They are better understood as 'functional moments' — distinguishable aspects of a continuous organic process, each of which can be identified analytically even though they cannot be separated practically.\n\nThe phases emerge most explicitly in Chapter 7 of 'How We Think,' but their conceptual roots are laid in Chapter 1 (where Dewey establishes that genuine doubt, not curiosity in the abstract, initiates thinking) and Chapter 6 (where concrete examples show inference and testing in action). The framework should not be confused with its descendants — particularly Kolb's Experiential Learning Cycle or design thinking's double-diamond — which adopt similar structures but strip away Dewey's insistence on genuine perplexity as the non-negotiable trigger.\n\nThe pedagogical power of the framework lies in its diagnostic capacity: by identifying which phase is deficient in a student's thinking, an educator can intervene precisely rather than generically. A student who skips Phase 2 (Intellectualization) and leaps to Phase 3 (Hypothesis) is generating guesses without a governed problem. A student who performs Phase 4 (Reasoning) brilliantly but refuses Phase 5 (Testing) is engaged in rationalization rather than inquiry. Each phase names a specific failure mode alongside a specific achievement.",
+  "dewey_integration": "This framework IS Dewey — it is not supplementary to his work but the central analytical structure of 'How We Think.' Every other framework in the DeweyCT app (Bloom's Taxonomy, Paul-Elder, Toulmin) should be understood as elaborating, operationalizing, or providing alternative lenses on what Dewey describes here. The five phases are the spine of the app's primary reflective template, the reference structure for Q&A mode, and the mapping anchor for all cross-framework correspondence tables.",
+  "common_misconceptions": [
+    {
+      "misconception": "The five phases are a fixed, linear procedure to be followed in order.",
+      "correction": "Dewey explicitly states that the phases 'do not follow one another in a set order.' In practice, they telescope and revisit: a thinker may cycle back from Phase 4 (Reasoning) to Phase 2 (Intellectualization) when reasoning reveals that the problem was initially framed incorrectly. Treating the phases as a checklist produces mechanical compliance, not reflective thinking.",
+      "pedagogical_implication": "Do not present the template as a form to fill in sequentially. Teach students to notice when their thinking backtracks and explain why — the recursion is a sign of genuine inquiry, not failure."
+    },
+    {
+      "misconception": "Phase 1 (Felt Perplexity) can be manufactured by a teacher assigning a 'problem-based' task.",
+      "correction": "Dewey insists that perplexity must be genuinely felt — 'Thinking is not a case of spontaneous combustion; it does not occur just on general principles. There is something that occasions and evokes it' (Chapter 1). A problem posed externally that does not produce internal felt difficulty does not trigger reflection; it triggers compliance. The teacher's task is to design situations that occasion authentic perplexity, not to describe a problem and instruct students to think.",
+      "pedagogical_implication": "Evaluate exercises not by whether students completed them, but by whether they show evidence of genuinely grappling with difficulty — confusion, revision, backtracking. Smooth, confident completion is often evidence that no perplexity was experienced."
+    },
+    {
+      "misconception": "The framework applies only to formal academic or scientific problems.",
+      "correction": "Dewey grounds all five phases in everyday practical experience — the opening examples in Chapter 6 include a man noticing froth on his hand-washing water and a man encountering an unfamiliar street corner. The framework applies wherever habitual activity is interrupted: professional decisions, personal dilemmas, civic deliberation. The academic version is continuous with, not separate from, everyday reflective thinking.",
+      "pedagogical_implication": "Use mundane, personal scenarios as entry points before introducing disciplinary examples. This respects Dewey's insistence on experiential grounding and prevents students from treating the framework as a school exercise."
+    }
+  ],
+  "app_usage": {
+    "primary_template": "dewey-reflective-v1",
+    "primary_template_description": "The five phases map directly to the five fields of the app's primary reflective thinking template. Field labels use Dewey's own language rather than synonyms to preserve fidelity to the source.",
+    "q_and_a_role": "In Q&A mode, the five phases serve as the interpretive lens for analyzing user-submitted arguments and reflections. The LLM is prompted to identify which phase a user's thinking is exhibiting and which phase is absent or underdeveloped.",
+    "exercise_integration": "The primary exercise types 'perplexity_mapper' and 'signification_chain' are built directly on Phases 1-2 and Phases 1-3 respectively. All exercise debriefs return to the five-phase structure.",
+    "cross_framework_anchor": "The cross-mapping table in the app's framework overview screen uses the five phases as the left-hand column, with Bloom's, Paul-Elder, and Toulmin as the right-hand columns."
+  },
+  "phases": [
+    {
+      "number": 1,
+      "name": "Felt Perplexity",
+      "also_called": [
+        "Pre-reflective situation",
+        "Genuine doubt",
+        "Felt difficulty",
+        "The initiating situation"
+      ],
+      "primary_chapter": 1,
+      "developed_in_chapters": [1, 6, 7],
+      "definition": "A genuine state of doubt, confusion, or obstruction arising from a real interruption in the otherwise smooth flow of experience and activity. The perplexity must be felt — experienced as a problem in one's own situation — not merely acknowledged intellectually as an abstract puzzle.",
+      "psychological_character": "Affective-conative. The mind is arrested, habitual response is blocked, and the agent experiences a pull in multiple directions simultaneously — not knowing how to proceed. This state is uncomfortable, and that discomfort is functionally necessary: it is the motivating energy that drives subsequent inquiry. Eliminating the discomfort prematurely (by accepting the first available answer) terminates thinking before it has produced warranted belief.",
+      "template_field": {
+        "label": "Felt Perplexity",
+        "placeholder": "Describe the situation that stopped you in your tracks. What happened that you did not know how to handle? What specifically are you confused, uncertain, or troubled by? Do not explain or analyze yet — just describe the raw difficulty as you experienced it.",
+        "minimum_words": 50,
+        "hint": "Resist the urge to jump to solutions here. The quality of your eventual reasoning depends entirely on how honestly and precisely you can name what you do not yet understand."
+      },
+      "example": "I am designing a public engagement campaign for a local environmental issue, and I assumed community members would respond positively to detailed scientific data. At our first meeting, several participants disengaged entirely when I presented the data, while others became hostile. I expected information to motivate action, but the meeting produced the opposite of what I intended. I do not understand why more and better information seemed to make things worse.",
+      "common_error": "Describing a situation that the thinker has already implicitly solved — where the 'perplexity' is really a rationalization for a conclusion already reached. This produces Phase 1 entries that are too tidy, too resolved, or framed in terms of the eventual solution. Genuine perplexity is messy, multi-directional, and uncomfortable to articulate.",
+      "dewey_quote": {
+        "text": "To be genuinely thoughtful, we must be willing to sustain and protract that state of doubt which is the stimulus to thorough inquiry.",
+        "chapter": 1,
+        "chapter_title": "What Is Thinking?",
+        "significance": "Dewey frames the tolerance of doubt not as a passive state but as an active, willful commitment. Genuine inquiry requires the courage to sit with not-knowing rather than grasping at premature resolution."
+      },
+      "bloom_level": {
+        "level": null,
+        "level_name": "Pre-cognitive (affective-experiential)",
+        "explanation": "Felt Perplexity precedes Bloom's taxonomy — it is the motivating condition that makes any cognitive engagement possible. Bloom describes what the learner can do; Dewey's Phase 1 describes what the learner must first feel. The closest Bloom level is 'Remember' in that the thinker is noticing and registering, but Felt Perplexity is better understood as the zero-state that precedes all taxonomy levels."
+      },
+      "paul_elder_element": {
+        "element": "Question at Issue",
+        "explanation": "Phase 1 is the experiential precursor to Paul-Elder's 'Question at Issue' — the felt difficulty that, once intellectualized in Phase 2, becomes a formally stated question. The Element of Thought 'Question at Issue' assumes the question has already been articulated; Dewey's Phase 1 captures the pre-articulate state that motivates the question's formation."
+      }
+    },
+    {
+      "number": 2,
+      "name": "Intellectualization",
+      "also_called": [
+        "Problem definition",
+        "Locating the perplexity",
+        "Defining the difficulty",
+        "Problem framing"
+      ],
+      "primary_chapter": 7,
+      "developed_in_chapters": [7, 8],
+      "definition": "The conversion of the vague, felt difficulty of Phase 1 into a precisely articulated intellectual problem or question. The problem, once defined, governs all subsequent inquiry — the data sought, the hypotheses entertained, and the standard for what would count as resolution.",
+      "psychological_character": "Cognitive-analytical. The mind shifts from passive suffering of the difficulty to active engagement with it. The thinker observes the situation more systematically, identifies which specific conditions are causing the blockage, and formulates a question that, if answered, would remove the obstruction. This phase requires restraint — the temptation to jump to answers must be subordinated to the discipline of understanding exactly what is being asked.",
+      "template_field": {
+        "label": "Intellectualization",
+        "placeholder": "State your problem as precisely as you can. What is the exact question you need to answer? What would you need to know or understand to resolve the difficulty you described above? A well-formed problem statement should be specific enough that you could recognize a genuine answer if you encountered one.",
+        "minimum_words": 40,
+        "hint": "Test your problem statement: would someone else reading it know exactly what kind of answer would satisfy it? If it is still vague, narrow it further. Dewey says 'a question well put is half answered.'"
+      },
+      "example": "My question is: Under what conditions does presenting scientific data to a community audience increase rather than decrease engagement and willingness to act — and what factors caused the opposite effect in my case? Specifically, I need to understand what role trust, identity, and prior relationship to the topic played in how participants received the information.",
+      "common_error": "Producing a problem statement so broad that it cannot govern inquiry ('Why do people resist information?') or so narrow that it excludes relevant considerations ('Why did participant X say Y?'). Well-formed intellectualization yields a question with appropriate scope — bounded enough to be answerable but open enough to admit evidence from multiple directions.",
+      "dewey_quote": {
+        "text": "As the saying truly goes, a question well put is half answered. In fact, we know what the problem exactly is simultaneously with finding a way out.",
+        "chapter": 7,
+        "chapter_title": "Analysis of Reflective Thinking",
+        "significance": "Dewey collapses the artificial distinction between problem-formulation and problem-solution: the precision of the question shapes the solution space. An imprecise question does not merely delay discovery — it misdirects the entire inquiry."
+      },
+      "bloom_level": {
+        "level": 4,
+        "level_name": "Analyze",
+        "explanation": "Intellectualization requires breaking down a complex felt difficulty into its constituent parts, identifying the specific conditions responsible for the blockage, and distinguishing the relevant question from surrounding noise. This is the analytic operation par excellence. Elements of Bloom's Analysis — differentiating, organizing, attributing — are exactly the cognitive moves Dewey's Phase 2 demands."
+      },
+      "paul_elder_element": {
+        "element": "Question at Issue + Purpose",
+        "explanation": "The formally stated question maps directly to Paul-Elder's 'Question at Issue.' The act of intellectualization also engages 'Purpose,' since naming the problem clarifies what the inquiry is for. When a thinker refines their problem statement, they are simultaneously specifying their Purpose (what they need to understand) and their Question at Issue (what they are asking)."
+      }
+    },
+    {
+      "number": 3,
+      "name": "Suggestion / Hypothesis",
+      "also_called": [
+        "Hypothesis",
+        "Working hypothesis",
+        "Guiding idea",
+        "Tentative solution",
+        "Suggestion"
+      ],
+      "primary_chapter": 7,
+      "developed_in_chapters": [3, 6, 7, 12],
+      "definition": "The mind's provisional leap toward a possible resolution of the defined problem. Suggestions arise from relevant past experience and serve as working hypotheses that guide subsequent observation and reasoning. They must be held tentatively — entertained as possibilities for exploration, not asserted as conclusions.",
+      "psychological_character": "Generative-tentative. There is a characteristic mental movement here that Dewey describes as 'vicarious anticipation of action' — the suggestion is a kind of trial run of conduct in the mind before it is committed to in reality. The thinker experiences something like the mental equivalent of trying a key in a lock: the suggestion is proposed, its 'fit' is sensed provisionally, and it is retained for elaboration or discarded for misfit. This phase is where intellectual courage matters: an impoverished experiential background produces thin suggestions; rich past experience produces multiple fruitful hypotheses.",
+      "template_field": {
+        "label": "Suggestion / Hypothesis",
+        "placeholder": "What is your best current guess or tentative answer to the problem you articulated above? Where does this guess come from — what past experience or knowledge suggested it? State your hypothesis clearly, but hold it lightly: you will test it in the next two phases.",
+        "minimum_words": 60,
+        "hint": "Aim for at least two alternative hypotheses if possible. Dewey values the discipline of entertaining multiple suggestions rather than committing prematurely to the first plausible idea. What would have to be true for your hypothesis to be correct?"
+      },
+      "example": "Hypothesis A: The problem was trust deficit — participants lacked confidence in me and in the institutions generating the data, so they experienced the data presentation as advocacy by an outsider rather than shared inquiry. Hypothesis B: The problem was identity threat — the data implicitly criticized participants' existing practices, triggering defensive rejection rather than curious engagement. Both hypotheses come from my reading of work in science communication and my observation that hostility increased when the data suggested behavioral change was needed.",
+      "common_error": "Treating Phase 3 as a conclusion rather than a working hypothesis — asserting the suggestion as the answer rather than as a proposition to be tested. This error typically manifests as confident, certain language ('The reason was X') rather than tentative language ('My best current hypothesis is X, based on Y, which I will need to test against Z').",
+      "dewey_quote": {
+        "text": "Thinking is not a case of spontaneous combustion; it does not occur just on 'general principles.' There is something that occasions and evokes it.",
+        "chapter": 1,
+        "chapter_title": "What Is Thinking?",
+        "significance": "The 'something that occasions and evokes' a suggestion is the accumulated relevant experience the thinker brings to the situation. This quote anchors the origin of hypothesis in experience rather than invention — suggestions do not arise from nowhere but from a background of prior encounters with analogous situations."
+      },
+      "bloom_level": {
+        "level": 6,
+        "level_name": "Create",
+        "explanation": "Hypothesis generation is a creative act in Bloom's sense: the thinker is producing something new — a proposed relationship, explanation, or solution — that did not exist before this particular inquiry. Anderson and Krathwohl's 'Create' level (generating, planning, producing) captures the constructive character of Phase 3 precisely. It is the highest Bloom level because it requires synthesis of prior knowledge into a novel configuration fitted to the specific problem."
+      },
+      "paul_elder_element": {
+        "element": "Concepts + Assumptions",
+        "explanation": "The hypothesis a thinker generates reflects the concepts they are deploying (their mental frameworks for categorizing the situation) and the assumptions embedded in those frameworks. Paul-Elder's 'Concepts' element asks: what theoretical constructs are organizing your thinking? Dewey's Phase 3 is where those concepts become visible — the hypothesis makes explicit which conceptual framework the thinker is applying. 'Assumptions' are implicated because every hypothesis assumes something about how the world works."
+      }
+    },
+    {
+      "number": 4,
+      "name": "Reasoning",
+      "also_called": [
+        "Mental elaboration",
+        "Developing the hypothesis",
+        "Reasoning out implications",
+        "Elaboration"
+      ],
+      "primary_chapter": 7,
+      "developed_in_chapters": [7, 11, 12],
+      "definition": "The mental elaboration of the hypothesis — following out its implications, checking its coherence with known facts, and extending it in thought before subjecting it to empirical test. Reasoning in this narrower sense is the purely mental stage of inquiry: the thinker asks what must be true if the hypothesis is correct, and whether those consequences are consistent with what is already known.",
+      "psychological_character": "Inferential-systematic. The mind operates on the hypothesis as material, drawing out consequences and checking them against each other and against prior knowledge. There is a characteristic back-and-forth movement: the hypothesis constrains what data would be relevant, and what data is relevant in turn constrains how the hypothesis should be specified. This is the phase where intellectual precision and rigor matter most — vague hypotheses survive reasoning only by remaining vague; precise hypotheses are either confirmed or shown to require revision.",
+      "template_field": {
+        "label": "Reasoning",
+        "placeholder": "Work out the implications of your hypothesis mentally before looking for external evidence. If your hypothesis is correct, what else must be true? What would you expect to observe? What evidence would support it, and what evidence would challenge it? Check your hypothesis for internal consistency: does it contradict anything you already know to be true?",
+        "minimum_words": 80,
+        "hint": "This is the phase where you stress-test your idea in your mind before going to reality. Think of it as a mental simulation: if the hypothesis is correct, play out the scenario and see whether the results match what you already know. If they do not, revise the hypothesis before testing."
+      },
+      "example": "If the trust-deficit hypothesis is correct, I would expect: (1) hostility to correlate with participants who had less prior contact with my organization; (2) receptivity to correlate with questions about process rather than rejection of conclusions; and (3) the same data presented by a trusted community figure to produce different results. If the identity-threat hypothesis is correct, I would expect: (1) hostility to cluster around data points that implied behavioral changes specific to participants' occupations or lifestyles; (2) framing the data as 'what is happening' rather than 'what you should do' to reduce resistance. These predictions are internally consistent and mutually distinguishable — I can now design observation or inquiry to differentiate between them.",
+      "common_error": "Conflating Reasoning (Phase 4) with Testing (Phase 5) by immediately seeking external evidence rather than first elaborating the hypothesis in thought. Premature testing with an incompletely developed hypothesis produces ambiguous results that cannot be interpreted cleanly. The discipline of Phase 4 is restraint — staying in the mental domain long enough to specify what would count as decisive evidence.",
+      "dewey_quote": {
+        "text": "Mere facts or data are dead, as far as mind is concerned, unless they are used to suggest and test some idea, some way out of a difficulty.",
+        "chapter": 7,
+        "chapter_title": "Analysis of Reflective Thinking",
+        "significance": "Dewey's point here is that data does not speak for itself — it only becomes evidence when organized by a guiding hypothesis. Phase 4 is where the hypothesis specifies which data will be sought and how it will be interpreted. Without this preparatory reasoning, the thinker faces a mass of potential observations with no criterion for relevance."
+      },
+      "bloom_level": {
+        "level": 5,
+        "level_name": "Evaluate",
+        "explanation": "Reasoning in Dewey's sense requires the thinker to evaluate the internal coherence of the hypothesis — to judge whether its implications are consistent with known facts, whether its predictions are distinguishable from alternative hypotheses, and whether it meets the logical standards of a warrant-worthy claim. Bloom's Evaluate level (checking, critiquing, judging against criteria) maps cleanly onto this phase."
+      },
+      "paul_elder_element": {
+        "element": "Inferences + Implications and Consequences",
+        "explanation": "Phase 4 is the phase of inference and implication in Paul-Elder's sense. The thinker is asking: what follows from my hypothesis? What can I infer if it is true? These are precisely the 'Inferences' and 'Implications and Consequences' elements of thought — the moves from data and concepts to conclusions, and the projection of what those conclusions would mean if correct."
+      }
+    },
+    {
+      "number": 5,
+      "name": "Testing / Verification",
+      "also_called": [
+        "Experimental verification",
+        "Testing the hypothesis",
+        "Proof",
+        "Empirical testing",
+        "Verification"
+      ],
+      "primary_chapter": 7,
+      "developed_in_chapters": [6, 7, 11, 12],
+      "definition": "The empirical or observational confirmation or disconfirmation of the hypothesis by subjecting it to the test of experience. Testing may be overt (deliberately arranged experiment or observation) or imaginative (mentally simulating what experience would show). Belief is only warranted after honest testing; disconfirmed hypotheses are not failures but evidence that narrows the problem space.",
+      "psychological_character": "Empirical-judicial. The thinker submits the hypothesis to the authority of experience, exercising what Dewey calls intellectual responsibility — the willingness to be corrected by reality rather than defending the hypothesis against counter-evidence. The post-reflective situation (a resolved, settled state) is only genuinely achieved when the hypothesis has survived testing; a conclusion accepted without testing is belief, not knowledge. Crucially, Dewey insists that disconfirmation is instructive, not merely negative — it closes off unproductive directions and points toward the next reformulation.",
+      "template_field": {
+        "label": "Testing / Verification",
+        "placeholder": "How did you test your hypothesis — or how would you test it? What did you observe, find, or experience that bears on its truth? What evidence supports it? What evidence challenges it? If your hypothesis was disconfirmed, what did that tell you, and how did it change your thinking? If confirmed, what is the scope and limits of that confirmation?",
+        "minimum_words": 80,
+        "hint": "Honest testing means taking disconfirming evidence seriously, not just accumulating confirmations. If everything you found supports your hypothesis, ask yourself: what evidence could have challenged it, and did you look for it? Failure to test disconfirmation is rationalization, not inquiry."
+      },
+      "example": "I returned to my notes from the meeting and coded participant responses by the factors predicted by each hypothesis. The trust-deficit hypothesis was partially confirmed: three participants with no prior contact with my organization were among the most hostile. But two participants who were longstanding partners also rejected the data when it implicated their agricultural practices directly — consistent with the identity-threat hypothesis. The evidence suggests both mechanisms were operating simultaneously. My revised understanding: the appropriate intervention is not 'better data' but a redesigned process that establishes trust and frames data as shared inquiry before presenting conclusions.",
+      "common_error": "Treating confirmation bias as testing — seeking only evidence that supports the hypothesis and interpreting ambiguous evidence as confirmation. Genuine testing requires actively seeking disconfirming evidence and specifying in advance what would falsify the hypothesis. A 'test' that could only ever confirm the hypothesis is not a test.",
+      "dewey_quote": {
+        "text": "A great advantage of possession of the habit of reflective activity is that failure is not mere failure. It is instructive.",
+        "chapter": 7,
+        "chapter_title": "Analysis of Reflective Thinking",
+        "significance": "Dewey reframes disconfirmation as evidential rather than merely negative. A failed hypothesis tells the thinker something about which direction was unproductive — it narrows the problem space and suggests revised observational priorities. This is the foundation of the scientific attitude: error as data, not defeat."
+      },
+      "bloom_level": {
+        "level": 5,
+        "level_name": "Evaluate",
+        "explanation": "Testing is evaluation in the empirical domain — the thinker is judging the hypothesis against the evidence of experience, applying criteria of confirmation and disconfirmation, and assessing the weight and quality of the evidence. Like Phase 4, this maps to Bloom's Evaluate, but the object of evaluation has shifted from internal logical coherence to external empirical fit."
+      },
+      "paul_elder_element": {
+        "element": "Information + Inferences",
+        "explanation": "Phase 5 is where 'Information' (empirical data, observation, evidence) enters the Paul-Elder picture as the authoritative check on the inferences generated in Phase 4. The thinker is now asking: does the actual information in the world support the inference I generated? Paul-Elder's standard of 'Accuracy' — is this actually true? — is the governing intellectual standard of Phase 5."
+      }
+    }
+  ],
+  "bloom_paul_elder_correspondence_table": {
+    "description": "Cross-mapping of Dewey's five phases to Bloom's revised taxonomy levels and Paul-Elder elements of thought. Used by the app's framework overview screen and template feedback LLM.",
+    "table": [
+      {
+        "phase": 1,
+        "phase_name": "Felt Perplexity",
+        "bloom_level": "Pre-cognitive (affective)",
+        "bloom_level_number": null,
+        "paul_elder_element": "Question at Issue (pre-articulate)"
+      },
+      {
+        "phase": 2,
+        "phase_name": "Intellectualization",
+        "bloom_level": "Analyze",
+        "bloom_level_number": 4,
+        "paul_elder_element": "Question at Issue + Purpose"
+      },
+      {
+        "phase": 3,
+        "phase_name": "Suggestion / Hypothesis",
+        "bloom_level": "Create",
+        "bloom_level_number": 6,
+        "paul_elder_element": "Concepts + Assumptions"
+      },
+      {
+        "phase": 4,
+        "phase_name": "Reasoning",
+        "bloom_level": "Evaluate (logical)",
+        "bloom_level_number": 5,
+        "paul_elder_element": "Inferences + Implications and Consequences"
+      },
+      {
+        "phase": 5,
+        "phase_name": "Testing / Verification",
+        "bloom_level": "Evaluate (empirical)",
+        "bloom_level_number": 5,
+        "paul_elder_element": "Information + Inferences"
+      }
+    ]
+  }
+}

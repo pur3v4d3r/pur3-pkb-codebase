@@ -1,0 +1,157 @@
+{
+  "framework": "ACER Critical Thinking Framework",
+  "acronym": "ACER",
+  "expansion": "Assertion → Claim → Evidence → Reasoning",
+  "authors": ["Composite framework — developed across academic writing and argumentation pedagogy"],
+  "year": 2005,
+  "source": "Higher education argumentation pedagogy; widely adopted in academic writing, debate, and critical thinking instruction programs across the 2000s and 2010s",
+  "description": "The ACER Critical Thinking Framework is a four-component model for constructing, analyzing, and evaluating arguments. It provides a precise vocabulary for the anatomy of any claim-making enterprise: an Assertion (the position being defended), a Claim (the specific, precise statement of that position), Evidence (the data, examples, or facts that support the claim), and Reasoning (the logical bridge explaining why the evidence supports the claim). The framework's core contribution is making the Reasoning component explicit — the link between evidence and claim that most informal argumentation leaves unstated and unexamined.\n\nThe ACER Critical Thinking Framework addresses the most common failure mode in both producing and evaluating arguments: the assumption that evidence speaks for itself. Evidence does not speak for itself — it requires an argument about why it is relevant, what it establishes, and how it connects to the claim. The Reasoning component is where that argument lives, and it is precisely the component that careless arguers skip and careless evaluators fail to demand. By making Reasoning an explicit, required component of every argument, ACER turns the implicit logical bridge into an object of scrutiny.\n\nThe framework is applicable in two directions: as a production tool (constructing arguments) and as an analysis tool (dissecting and evaluating others' arguments). In the production direction, ACER guides the arguer to ensure that every component is present and that the logical connections are valid. In the analysis direction, ACER provides a structured method for identifying what is present, what is missing, and where the logical failures occur in any argument encountered.",
+  "dewey_integration": "The ACER Critical Thinking Framework maps closely onto Dewey's account of signification — the central mechanism of reflective thinking in 'How We Think.' Dewey's criterion for genuine inference is that the move from observed fact to inferred conclusion must be grounded in an objective connection in reality, not mere association. The ACER Reasoning component operationalizes this criterion: it requires the arguer to make explicit the real connection that makes the Evidence relevant to the Claim. Dewey's distinction between 'ashes merely suggesting fire' (association) and 'ashes signifying fire' (grounded inference via the real causal connection of combustion) is precisely the distinction the ACER framework is designed to surface and examine. The Assertion/Claim distinction also maps onto Dewey's emphasis on the importance of precise problem formulation: a vague assertion that has not been sharpened into a precise, testable claim cannot be subjected to genuine inquiry. In Dewey's terms, the Assertion is the felt difficulty; the Claim is the intellectualized problem; the Evidence/Reasoning pair is the testing phase.",
+  "components": [
+    {
+      "component": 1,
+      "name": "Assertion",
+      "also_called": ["Position", "Stance", "Thesis", "Main Point"],
+      "definition": "The broad statement of the position being defended — the arguer's overall view on the subject, stated in its most general form before it is sharpened into a precise, evaluable claim. The Assertion is the entry point: it tells the audience what side of an issue the arguer is on and what territory the argument will cover.",
+      "role_in_argument": "The Assertion orients the audience and establishes the argumentative direction. It should be controversial — if no one could reasonably disagree, it is a statement of fact, not an assertion requiring argument. It should be arguable — resolvable through evidence and reasoning, not merely a matter of preference or taste.",
+      "template_field_label": "Assertion — State your overall position",
+      "template_field_placeholder": "State the broad position you are defending. This is your overall stance — where you stand on the issue. It should be a position that requires argument (someone could reasonably disagree) and that is addressable through evidence and reasoning (not merely a value preference). Do not yet sharpen it into a specific claim.",
+      "example": "Assertion: Remote work arrangements are net positive for knowledge workers.",
+      "distinction_from_claim": "The Assertion is general and directional ('remote work is net positive'); the Claim is specific and testable ('full-time remote work increases self-reported satisfaction and measurable output for knowledge workers whose tasks require deep, uninterrupted focus, as distinct from those requiring frequent real-time collaboration'). Most arguments fail at the point of never moving from Assertion to Claim.",
+      "common_error": "Treating the Assertion as the Claim — stopping at the broad statement without ever sharpening it into something precise enough to be evaluated against specific evidence. Also common: stating a Claim that is so qualified it becomes unfalsifiable ('in some cases, remote work may be beneficial for certain workers').",
+      "question_to_identify": "What is the arguer's overall position? What side are they on? Would a reasonable person disagree with this?",
+      "dewey_connection": "The Assertion corresponds to the pre-reflective 'felt position' — the arguer has a view, but it has not yet been subjected to intellectualization. Dewey would say the Assertion must be converted into a genuine problem: a precise statement of what, exactly, is being claimed, before inquiry can proceed usefully.",
+      "in_app_exercise_type": "Position statement, opinion formation, debate preparation"
+    },
+    {
+      "component": 2,
+      "name": "Claim",
+      "also_called": ["Specific Claim", "Thesis Statement", "Precise Position", "Proposition"],
+      "definition": "The precise, specific, evaluable statement of the position being defended — the Assertion sharpened to the point where it makes a definite enough commitment to be tested against evidence and evaluated by explicit criteria. The Claim specifies scope, conditions, and boundaries in a way the Assertion does not.",
+      "role_in_argument": "The Claim determines what evidence is relevant and what reasoning is required. A vague Claim makes all evidence appear relevant because it makes no specific commitment. A precise Claim creates clear inclusion and exclusion criteria: evidence that is relevant to this specific statement vs. evidence that addresses a related but different question.",
+      "template_field_label": "Claim — Sharpen your position into a precise, evaluable statement",
+      "template_field_placeholder": "Narrow your Assertion into a specific claim. Who exactly? Under what conditions? With what scope? What exactly are you claiming is true, and how would you know if it were false? A good Claim can be evaluated against specific evidence — it makes a definite enough commitment that someone could in principle bring evidence against it.",
+      "example": "Claim: Full-time remote work increases both self-reported job satisfaction and objectively measured output (tasks completed per unit time) for knowledge workers whose primary work involves extended periods of focused, independent cognitive work — as distinct from knowledge workers whose work requires frequent, real-time collaborative decision-making.",
+      "precision_tests": [
+        "Can I state what evidence would falsify this claim? (If not, the claim is not precise enough.)",
+        "Does the claim make a commitment that someone could reasonably dispute with evidence?",
+        "Have I specified scope, conditions, and boundaries clearly enough that two people would agree on whether a piece of evidence is relevant to it?"
+      ],
+      "common_error": "Confusing qualification with precision. Excessive qualification ('in some cases,' 'for some workers,' 'depending on context') makes a claim unfalsifiable by creating an escape hatch for any counterevidence. True precision specifies conditions without emptying the claim of content.",
+      "question_to_identify": "What exactly is being claimed? Under what conditions? With what scope? Is this specific enough to be tested?",
+      "dewey_connection": "The Claim is the 'intellectualized problem' in Dewey's terms — the moment when the vague Assertion is converted into a precise question that can govern inquiry. Dewey insists in Chapter 1 that the quality of what follows is entirely determined by the precision of this step: a poorly formulated question leads inquiry in the wrong direction regardless of how rigorous the subsequent analysis.",
+      "in_app_exercise_type": "Claim sharpening, hypothesis formation, thesis development"
+    },
+    {
+      "component": 3,
+      "name": "Evidence",
+      "also_called": ["Data", "Grounds", "Support", "Facts", "Examples"],
+      "definition": "The specific, concrete material — data, examples, expert testimony, case studies, research findings, observations — that supports the Claim. Evidence is the empirical or logical content that gives the argument its grounding in something beyond the arguer's assertion.",
+      "role_in_argument": "Evidence makes the argument accountable to something outside the arguer's own opinion. It introduces the discipline of reality — the argument must now contend with what is actually the case, not just what the arguer believes to be the case. The quality of evidence determines the quality of the argument's empirical foundation.",
+      "evidence_quality_hierarchy": [
+        "Systematic empirical research (RCTs, longitudinal studies, meta-analyses)",
+        "Observational studies and natural experiments",
+        "Expert consensus from relevant domains",
+        "Documented case studies and historical examples",
+        "Anecdotal evidence and personal experience",
+        "Intuition, common sense, and unverified authority"
+      ],
+      "template_field_label": "Evidence — What specific evidence supports your Claim?",
+      "template_field_placeholder": "Provide the specific evidence that supports your Claim. Be concrete: name the study, describe the data, cite the example. Assess the quality of your evidence honestly — is it systematic research, expert opinion, or personal experience? Note what type of evidence it is and acknowledge its limitations. Do not include evidence that supports your Assertion generally but does not bear specifically on your Claim.",
+      "example": "Evidence: (1) Stanford RCT (Bloom et al., 2015): 16% performance increase for call-center workers working from home — strong methodology but narrow population. (2) Microsoft research (2022): Deep work tasks showed 15-20% output increase in remote conditions, while collaborative tasks showed degraded outcomes — directly relevant to the claim's conditional structure. (3) Buffer State of Remote Work surveys (2021, 2022): Consistently high satisfaction ratings for remote workers (85%+), but self-reported data subject to selection effects. Limitation: No study directly examines the specific population defined in the Claim (focused knowledge workers vs. collaborative knowledge workers) in a controlled comparison.",
+      "relevance_test": "For each piece of evidence, ask: Does this evidence bear specifically on my Claim, or does it support a related but different claim? Evidence that supports 'remote work is good' generally is not the same as evidence that supports the specific conditional claim about focused vs. collaborative workers.",
+      "common_error": "Including evidence that is vivid and emotionally resonant but methodologically weak, while overlooking evidence that is methodologically strong but inconvenient. Also common: failing to distinguish evidence that supports the Assertion from evidence that supports the specific Claim — these are often different.",
+      "question_to_identify": "What specific facts, data, or examples does the arguer cite? How strong is each piece of evidence methodologically? Is this evidence relevant to the specific Claim or to a more general assertion?",
+      "dewey_connection": "Evidence corresponds to Dewey's 'grounds' for inference — the observed facts that serve as the basis for the inferred conclusion. Dewey's criterion is demanding: evidence must be genuine grounds, not mere association. The quality of evidence determines whether the connection between observed fact and inferred conclusion is warranted. 'Ashes signify fire' because there is a real causal connection; the evidence quality hierarchy above is a modern operationalization of Dewey's criterion for genuine signification.",
+      "in_app_exercise_type": "Evidence gathering, source evaluation, research synthesis"
+    },
+    {
+      "component": 4,
+      "name": "Reasoning",
+      "also_called": ["Warrant", "Logical Bridge", "Explanation", "Analysis"],
+      "definition": "The explicit explanation of why the Evidence supports the Claim — the logical bridge that connects the two. Reasoning articulates the principle, mechanism, or argument that makes the Evidence relevant to the Claim and that makes accepting the Evidence a reason for accepting the Claim. It is the most frequently omitted and most critically important component of any argument.",
+      "role_in_argument": "Reasoning is where the argument actually happens. Without explicit Reasoning, an argument is nothing but assertion followed by evidence, leaving the audience to do the argumentative work of connecting the two — which they will do according to their own assumptions rather than the arguer's. The Reasoning component makes those assumptions visible, explicit, and subject to evaluation.",
+      "reasoning_types": [
+        {
+          "type": "Causal Reasoning",
+          "definition": "The evidence supports the claim because A causes B — there is a mechanism connecting them",
+          "example": "Remote work increases output because eliminating commute time and open-plan office interruptions increases sustained concentration time"
+        },
+        {
+          "type": "Analogical Reasoning",
+          "definition": "The evidence supports the claim because this case is relevantly similar to a case where the pattern has been established",
+          "example": "Like the shift from centralized to distributed manufacturing (which initially seemed inefficient but proved productivity-enhancing for certain production types), remote work may similarly benefit certain cognitive work types"
+        },
+        {
+          "type": "Statistical Reasoning",
+          "definition": "The evidence supports the claim because the pattern observed in the sample generalizes to the population in the claim",
+          "example": "The Stanford study applies to the Claim if call-center workers' task profile (extended, focused, measurable output) matches the 'focused knowledge worker' category — which must be argued"
+        },
+        {
+          "type": "Principle-Based Reasoning",
+          "definition": "The evidence supports the claim because it instantiates a general principle that, when applied to this case, yields the claimed result",
+          "example": "Cognitive performance research consistently shows that complex cognitive work degrades faster with interruption than simple tasks (principle); remote environments have fewer interruptions (evidence); therefore remote environments benefit complex cognitive work more than simple tasks (claim)"
+        }
+      ],
+      "template_field_label": "Reasoning — Explain why your Evidence supports your Claim",
+      "template_field_placeholder": "This is the most important field. Explain the logical connection between your Evidence and your Claim. Don't just assert that the evidence supports the claim — explain the mechanism, principle, or argument that makes it support the claim. Why is this evidence relevant to this specific claim? What would have to be true about the world for this evidence to establish what you are claiming it establishes? Identify the type of reasoning you are using.",
+      "example": "Reasoning: The Evidence supports the Claim through two mechanisms. First, causal: remote work reduces the two primary sources of cognitive interruption for focused workers (commute-induced cognitive load and open-office interruptions), and cognitive science research consistently shows that focused cognitive work — unlike routine or collaborative work — degrades disproportionately with interruption (attention restoration theory; Kahneman's dual-process model). This causal mechanism specifically applies to the focused-worker subgroup in my Claim and specifically does not apply to collaborative workers, for whom remote work eliminates the valuable informal interaction that sustains coordination. Second, the Stanford study's generalizability to my Claim depends on treating call-center work (highly structured, measurable, independent) as relevantly similar to focused knowledge work — which is partially supported by the task profile overlap but partially undermined by the call-center's external monitoring, which has no equivalent in most knowledge work. The conditional structure of my Claim (focused vs. collaborative workers) is supported by the Microsoft data, which directly shows diverging effects by task type. The claim is warranted with moderate confidence given this evidence base.",
+      "reasoning_quality_tests": [
+        "Does the reasoning explain why this evidence, rather than different evidence, is relevant to this claim?",
+        "Does the reasoning identify the mechanism or principle connecting evidence to claim?",
+        "Does the reasoning acknowledge conditions under which the evidence would not support the claim?",
+        "Would someone who accepted the evidence but rejected the reasoning still accept the claim? (If yes, the reasoning is doing insufficient work.)"
+      ],
+      "common_error": "Writing 'This shows that...' or 'This proves that...' and stopping — treating the logical bridge as obvious and leaving it unstated. The frequency with which educated arguers skip explicit reasoning is remarkable. Almost every weak argument is weak primarily because its Reasoning is absent or invalid, not because its Evidence is poor.",
+      "question_to_identify": "Why does this evidence support this claim? What logical mechanism connects them? What would have to be true for this evidence to establish the claim? Is the logical bridge valid?",
+      "dewey_connection": "The Reasoning component is the direct operationalization of Dewey's concept of signification — the requirement that the move from observed fact to inferred conclusion be grounded in an objective connection, not mere association. Dewey's ashes example demonstrates this: the Reasoning is the causal principle 'ashes are produced by combustion and only by combustion,' which makes ashes signify fire rather than merely suggest it. Every ACER argument requires its own equivalent of this causal principle — the Reasoning that grounds the Evidence in the Claim.",
+      "in_app_exercise_type": "Argument construction, warrant analysis, logical validity evaluation, fallacy detection"
+    }
+  ],
+  "argument_analysis_protocol": {
+    "description": "ACER can be used to analyze any argument by identifying what is present and what is missing from each component",
+    "steps": [
+      "Identify the Assertion: What broad position is being defended? Is it controversial and arguable?",
+      "Identify the Claim: Has the Assertion been sharpened into a specific, evaluable statement? If not, the argument has a precision problem.",
+      "Identify the Evidence: What specific evidence is cited? What is its quality and methodological status? Is it relevant to the Claim specifically?",
+      "Identify the Reasoning: Has the logical bridge been made explicit? Is it valid? What type of reasoning is it? What would have to be true for it to hold?",
+      "Identify what is missing: Which components are absent, vague, or weak? A missing Reasoning component is the most common and most serious failure."
+    ],
+    "failure_taxonomy": [
+      {"failure": "Missing Claim", "symptom": "Only a broad Assertion without a specific, testable statement", "consequence": "Argument cannot be evaluated against specific evidence"},
+      {"failure": "Irrelevant Evidence", "symptom": "Evidence supports the Assertion but not the specific Claim", "consequence": "The argument appears grounded but the evidence doesn't actually establish what is being claimed"},
+      {"failure": "Missing Reasoning", "symptom": "Evidence is presented but the connection to the Claim is left implicit", "consequence": "The audience must supply the Reasoning from their own assumptions, which may not be the arguer's"},
+      {"failure": "Invalid Reasoning", "symptom": "Reasoning is present but the logical bridge doesn't hold (fallacy, unsupported generalization)", "consequence": "The argument's foundation is false even if Evidence is accurate"},
+      {"failure": "Overclaimed Conclusion", "symptom": "Claim is stronger than the Evidence + Reasoning can support", "consequence": "Argument is technically valid at a weaker version of the claim but overstates what the evidence establishes"}
+    ]
+  },
+  "relationship_to_other_frameworks": {
+    "vs_toulmin": "ACER and Toulmin's model are closely related. Toulmin's Claim, Grounds, Warrant, Backing, Qualifier, and Rebuttal map onto ACER's Assertion/Claim, Evidence, Reasoning, and extend beyond it with Qualifier and Rebuttal. Toulmin is more complete for argument analysis; ACER is more accessible as a production scaffold. For DeweyCT, ACER is the introductory argumentation framework and Toulmin is the advanced one — users graduate from ACER to Toulmin as their analytical sophistication increases.",
+    "vs_paul_elder": "Paul-Elder's Elements of Thought overlap with ACER at multiple points: Purpose maps to Assertion, Information maps to Evidence, Inferences maps to Reasoning, and Implications extends beyond ACER's scope. Paul-Elder is a more comprehensive framework for the full act of reasoning; ACER is a more targeted tool for argument anatomy specifically.",
+    "vs_acer_metacognitive": "ACER Critical Thinking is an argument anatomy framework — it examines the structure of any given claim. ACER Metacognitive is a process framework — it examines how the thinker moves through an inquiry episode. They operate at different levels and are complementary: a thinker could run an ACER Metacognitive cycle on the process of constructing an ACER Critical Thinking argument."
+  },
+  "common_misconceptions": [
+    {
+      "misconception": "ACER and the Toulmin Model are the same framework with different names",
+      "correction": "ACER and Toulmin overlap significantly but differ in scope. Toulmin includes Qualifier (the degree of certainty the arguer is claiming) and Rebuttal (conditions under which the warrant doesn't hold) — components that ACER leaves implicit. ACER's Assertion/Claim distinction has no direct Toulmin equivalent. They are complementary, with Toulmin providing greater analytical precision and ACER providing a more accessible starting scaffold."
+    },
+    {
+      "misconception": "Good evidence makes an argument complete",
+      "correction": "Evidence is necessary but not sufficient. An argument with excellent evidence and no explicit Reasoning is fundamentally incomplete — it leaves the most important work undone. The most common failure in academic and professional argumentation is exactly this: strong evidence presented without the reasoning that connects it to the claim."
+    },
+    {
+      "misconception": "The Claim should be as specific as possible, regardless of what can be supported",
+      "correction": "Claim precision must be calibrated to what the available evidence can support. An extremely precise claim may be more intellectually honest but may also be unsupportable with available evidence. The goal is the most specific claim that can be honestly supported — not the most specific claim possible."
+    },
+    {
+      "misconception": "ACER is only for formal academic argumentation",
+      "correction": "ACER applies to any situation where a position requires support: professional recommendations, policy proposals, interpersonal disagreements, journalistic claims, scientific hypotheses. The vocabulary is formal, but the underlying requirement — that positions be specific, grounded in evidence, and connected by explicit reasoning — applies universally."
+    }
+  ],
+  "app_usage": {
+    "primary_use": "The Argument Analysis template uses ACER as its structural backbone for the four core components, supplemented by Toulmin's Qualifier and Rebuttal for more advanced analysis",
+    "secondary_use": "Exercise type 'argument_dissection' uses ACER to structure the analysis of real-world arguments — news claims, policy proposals, research abstracts — by asking users to identify each component and assess its quality",
+    "integration_with_dewey": "The app connects ACER's Reasoning component explicitly to Dewey's concept of signification: when users complete the Reasoning field, the app surface notes that 'Dewey called this the signification link — the real connection that makes your evidence genuinely indicate your conclusion rather than merely suggest it'",
+    "llm_application": "The LLM evaluates ACER arguments by examining each component independently and then examining the connections: 'Your Evidence is strong (systematic research, well-matched to your Claim). However, your Reasoning does not explain why the Stanford study's population is relevantly similar to the population in your Claim. Without that bridge, the Evidence supports a more general assertion than your specific Claim requires.'"
+  }
+}
