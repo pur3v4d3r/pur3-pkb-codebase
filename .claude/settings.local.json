@@ -22,7 +22,9 @@
       "Bash(wc:*)",
       "Bash(find:*)",
       "Bash(du:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(git -C \"d:/10_pur3v4d3r''s-vault\" log --oneline -10)",
+      "Bash(git -C \"d:/10_pur3v4d3r''s-vault\" show --stat HEAD)"
     ]
   }
 }
