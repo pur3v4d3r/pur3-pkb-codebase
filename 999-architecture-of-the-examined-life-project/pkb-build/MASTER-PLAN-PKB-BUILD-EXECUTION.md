@@ -67,6 +67,9 @@ A **production-grade Personal Knowledge Base** that:
 
 **BUT:** Never sacrifice depth. Layer complexity below accessible summaries.
 
+- Location of Files to use `D:\10_pur3v4d3r's-vault\999-architecture-of-the-examined-life-project\pkb-build\examined-life-pkb\the-architecture-of-the-examined-life`
+- The Source material `D:\10_pur3v4d3r's-vault\999-architecture-of-the-examined-life-project\the-architecture-of-the-examined-life.md`
+
 ---
 
 ## 📊 SOURCE MATERIAL OVERVIEW
@@ -1556,3 +1559,2700 @@ This PKB is both **product** (knowledge base) and **process** (practice in knowl
 **Version:** 2.0.0  
 **Status:** ✅ Production-Ready  
 **Next Action:** → Begin Phase 1 Session 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# PKB Template Collection
+## Complete Templates for All 10 Note Types — Ready for Obsidian
+
+> **Document Purpose:** This document contains the complete, copy-paste-ready templates for every note type in the PKB. Each template includes full YAML frontmatter, all required sections, and formatting guidance. Replace all `[PLACEHOLDER]` values during generation.
+
+---
+
+## Template 1: Report Note
+
+```markdown
+---
+# ── Core Identity ──────────────────────────────────────────────────
+type: report
+id: aoel-report-[XX]
+status: complete
+version: 1.0.0
+
+# ── Quality Metrics ────────────────────────────────────────────────
+confidence: [speculative|provisional|moderate|established|high]
+maturity: [seedling|developing|budding|evergreen]
+
+# ── Source & Attribution ───────────────────────────────────────────
+source: series-report
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+
+# ── Series Position ───────────────────────────────────────────────
+series: "The Architecture of the Examined Life"
+tier: [T1-Epistemic|T2-Practical|T3-Integrative]
+report-number: [1-15]
+report-title: "[Full Report Title]"
+
+# ── Synthesis Metadata ─────────────────────────────────────────────
+frameworks:
+  - "[Framework 1]"
+  - "[Framework 2]"
+  - "[Framework 3]"
+key-researchers:
+  - "[Researcher 1]"
+  - "[Researcher 2]"
+  - "[Researcher 3]"
+synthesis-type: [structural-homology|tension-resolution|emergent-insight]
+emergent-insight: "[One-line description of the report's original contribution]"
+builds-from:
+  - "[[Report-XX-Title]]"
+enables:
+  - "[[Report-XX-Title]]"
+worked-example-domain: "[domain]"
+
+# ── Categorization ─────────────────────────────────────────────────
+tags:
+  - examined-life
+  - [tier-tag]
+  - [domain-tags]
+  - report
+aliases:
+  - "Report [XX]"
+  - "[Short Title]"
+
+# ── Graph Integration ──────────────────────────────────────────────
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+link-related:
+  - "[[Glossary-Examined-Life-Key-Terms]]"
+  - "[[relevant-reference-notes]]"
+
+# ── Accessibility ──────────────────────────────────────────────────
+accessibility-level: [introductory|intermediate|advanced]
+prerequisite-notes:
+  - "[[Report-XX-Title]]"
+---
+
+# Report [XX]: [Full Report Title]
+
+> [!abstract] Series Position
+> **Tier [X]** — [Tier Name] | Report [XX] of 15
+> **Builds from:** [[Report-XX-Title]], [[Report-YY-Title]]
+> **Enables:** [[Report-XX-Title]], [[Report-YY-Title]]
+> **Emergent Insight:** [One-sentence summary of the report's original contribution]
+
+---
+
+## 🌟 The Big Idea
+
+[2–3 paragraphs explaining what this report contributes and why it matters. Written for the family audience — warm, clear, concrete. Use everyday analogies. No unexplained jargon. This is the section that should make someone think "Oh, that's interesting" even if they read nothing else.]
+
+[Include at least one vivid, everyday example that makes the core idea tangible.]
+
+---
+
+## 💡 Key Insights
+
+> [!insight] Insight 1: [Title]
+> [1–2 paragraphs explaining the insight clearly and accessibly]
+>
+> **Why This Matters:** [1–2 sentences connecting to everyday life]
+
+> [!insight] Insight 2: [Title]
+> [1–2 paragraphs explaining the insight]
+>
+> **Why This Matters:** [1–2 sentences connecting to everyday life]
+
+> [!insight] Insight 3: [Title]
+> [1–2 paragraphs explaining the insight]
+>
+> **Why This Matters:** [1–2 sentences connecting to everyday life]
+
+[Add additional insights as needed — aim for 3–5 per report]
+
+---
+
+## 🔗 Synthesis Moves
+
+> [!example] Structural Homology: [Name]
+> **[Framework A]** and **[Framework B]** describe the same underlying phenomenon:
+> [Explanation of the deep similarity, made accessible. Include what it means that two different traditions independently arrived at the same insight.]
+
+> [!question] Conceptual Tension Resolved: [Name]
+> **The tension:** [Apparent conflict between frameworks — state it clearly]
+> **The resolution:** [How the synthesis resolves this through higher-order integration. The key move is...]
+
+> [!tip] Emergent Insight: [Named Insight]
+> [Explanation of the novel claim that arises from synthesis — something no single source framework contains. This is the report's original intellectual contribution.]
+
+---
+
+## 📖 Core Concepts
+
+> [!definition] [Concept Name]
+> **Definition:** [Clear, accessible definition in 1–3 sentences]
+> **Origin:** [Which tradition/researcher introduced this concept]
+> **Role in this report:** [How the concept functions in this report's synthesis]
+> **See also:** [[Glossary-Examined-Life-Key-Terms#[Concept Name]]]
+
+> [!definition] [Concept Name 2]
+> **Definition:** [Clear, accessible definition]
+> **Origin:** [Source tradition/researcher]
+> **Role in this report:** [Function in synthesis]
+> **See also:** [[Glossary-Examined-Life-Key-Terms#[Concept Name 2]]]
+
+[Repeat for each key concept — typically 3–8 per report]
+
+---
+
+## 🕸️ How This Connects
+
+**What this report builds from:**
+[For each prerequisite report, explain specifically what this report takes from it and extends. Not just "builds from Report 03" but "Report 03's account of intrinsic motivation provides the motivational engine that this report's self-directed learner requires..."]
+
+**What this report enables:**
+[For each dependent report, explain what this report makes possible. Not just "enables Report 10" but "Report 10's account of emotional calibration depends on this report's distinction between governance and suppression..."]
+
+**How this report transforms earlier understanding (Retroactive Enrichment):**
+[Explain specific ways this report changes how earlier reports should be read. This is one of the most important sections — it's where the web of meaning becomes visible.]
+
+---
+
+## 🌍 Practical Implications
+
+[2–3 paragraphs about what this report's insights mean for everyday life. This is the "So what?" section. Write specifically for the family audience.]
+
+[Include concrete scenarios: "Next time you notice yourself getting defensive in an argument..." or "When you're trying to learn something new and feeling stuck..." or "Think about the last time you had a gut feeling that turned out to be right..."]
+
+---
+
+## 📝 Worked Example Summary
+
+> [!example] [Scenario Title]
+> **The Situation:** [Brief description of the scenario from the source report]
+>
+> **How the Framework Applies:** [How the report's insights illuminate this situation]
+>
+> **What Difference It Makes:** [The practical outcome of applying these ideas]
+
+---
+
+## ⚖️ Honest Limitations
+
+> [!warning] What This Report Acknowledges
+> - [Limitation 1 — stated honestly and accessibly]
+> - [Limitation 2]
+> - [Limitation 3]
+> 
+> These limitations don't invalidate the insights — they define their boundaries honestly. The framework is stronger for naming what it doesn't yet know.
+
+---
+
+## 🔭 Expansion Topics
+
+- [[Expansion-Topic-Title-1]] — [One-sentence description of the research question or direction]
+- [[Expansion-Topic-Title-2]] — [One-sentence description]
+- [[Expansion-Topic-Title-3]] — [One-sentence description]
+
+---
+
+## 📚 Key References
+
+- [[Ref-Author-Short-Title-1]] — [One-sentence description of what this source contributes to this report]
+- [[Ref-Author-Short-Title-2]] — [One-sentence description]
+- [[Ref-Author-Short-Title-3]] — [One-sentence description]
+
+---
+
+> [!nav] Navigation
+> ← Previous: [[Report-[XX-1]-Title]] | [[Index-The-Architecture-of-the-Examined-Life|Return to Index]] | Next: [[Report-[XX+1]-Title]] →
+> **Tier [X] — [Tier Name]:** [[Report-XX|XX]] · [[Report-YY|YY]] · [[Report-ZZ|ZZ]]
+```
+
+---
+
+## Template 2: Index Note
+
+```markdown
+---
+type: index
+id: aoel-index
+status: complete
+version: 1.0.0
+confidence: high
+maturity: evergreen
+source: original
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+tags:
+  - examined-life
+  - index
+  - navigation
+  - moc
+aliases:
+  - "Examined Life Index"
+  - "AOEL Index"
+  - "Series Overview"
+link-up: "[[Dashboard-Examined-Life-PKB]]"
+link-related: []
+accessibility-level: introductory
+---
+
+# 🏛️ The Architecture of the Examined Life
+
+## Welcome
+
+[Warm, personal welcome from the creator to their family. 3–4 paragraphs. This is a gift of knowledge — write it with genuine warmth. Explain what this collection of notes is, why it was created, and what the reader will find here. Something like: "This is something I've been working on for a while — a deep exploration of what it means to think well, live wisely, and understand yourself and the world more clearly. I wanted to share it with you because these ideas have meant a lot to me, and I think you'll find them interesting too..."]
+
+---
+
+## What Is "The Examined Life"?
+
+[3–4 paragraphs. No jargon. Everyday language. The core idea: Socrates said "the unexamined life is not worth living" — but what does the examined life actually look like? This series draws on modern cognitive science, ancient philosophy, and practical psychology to build a complete picture. It's about thinking well (catching your own mental shortcuts, holding beliefs honestly), feeling wisely (using emotions as signals, not just managing them), acting with practical wisdom (making good decisions under real uncertainty), connecting with others (thinking is always social), and living with meaning (having a purpose that ties it all together).]
+
+---
+
+## 🗺️ The Journey: Three Tiers, Fifteen Reports
+
+### Tier 1: Learning to Think Well (Reports 01–08)
+> [!info] The Epistemic Foundation
+> How does excellent thinking work? What sparks genuine inquiry? How do we hold beliefs honestly? What sustains the motivation to think carefully? These eight reports build the cognitive architecture of a good thinker.
+
+| # | Report | The Key Question |
+|---|--------|-----------------|
+| 01 | [[Report-01-The-Inquiry-Engine]] | What sparks genuine thinking? |
+| 02 | [[Report-02-The-Fallible-Knower]] | How should we hold our beliefs? |
+| 03 | [[Report-03-The-Motivated-Mind]] | What sustains the will to think well? |
+| 04 | [[Report-04-Cognitive-Scaffolding]] | How do we build understanding? |
+| 05 | [[Report-05-The-Virtuous-Reasoner]] | What kind of character supports good thinking? |
+| 06 | [[Report-06-Taming-System-1]] | How do we catch our own mental shortcuts? |
+| 07 | [[Report-07-The-Self-Directed-Learner]] | How do we become architects of our own learning? |
+| 08 | [[Report-08-The-Examined-Life-In-Practice]] | What does all of this look like in action? |
+
+### Tier 2: Learning to Live Well (Reports 09–12)
+> [!info] The Practical Extension
+> Good thinking isn't enough — we also have bodies, feelings, decisions to make, and communities to navigate. These four reports extend the framework from thinking well to living well.
+
+| # | Report | The Key Question |
+|---|--------|-----------------|
+| 09 | [[Report-09-The-Embodied-Thinker]] | How does our body shape our thinking? |
+| 10 | [[Report-10-The-Feeling-Reasoner]] | Are emotions enemies or allies of good thinking? |
+| 11 | [[Report-11-The-Practical-Reasoner]] | How do we make wise decisions under uncertainty? |
+| 12 | [[Report-12-The-Social-Thinker]] | How does thinking together differ from thinking alone? |
+
+### Tier 3: Putting It All Together (Reports 13–15)
+> [!info] The Integration
+> The brain science that explains why this all works, the meaning that gives it purpose, and the complete picture assembled.
+
+| # | Report | The Key Question |
+|---|--------|-----------------|
+| 13 | [[Report-13-The-Predictive-Mind]] | What's the brain mechanism behind all of this? |
+| 14 | [[Report-14-The-Meaningful-Life]] | What is the examined life *for*? |
+| 15 | [[Report-15-The-Examined-Life-Revisited]] | What does the complete picture look like? |
+
+---
+
+## 🧭 How to Navigate This PKB
+
+> [!tip] Choose Your Path
+> **Start from the beginning:** [[Report-01-The-Inquiry-Engine]] — follow the journey report by report
+> **Get the big picture first:** [[Report-15-The-Examined-Life-Revisited]] — start with the complete vision
+> **Look up a concept:** [[Glossary-Examined-Life-Key-Terms]] — find any term alphabetically
+> **See where you are in development:** [[Developmental-Staging-of-the-Examined-Life]] — the five stages of growth
+> **Explore connections:** Browse the Connection Notes to see how these ideas relate to familiar topics like mindfulness, CBT, or growth mindset
+> **Dive into a source:** Browse the Reference Notes to learn about the thinkers behind these ideas
+
+---
+
+## 📎 Quick Links
+
+**Core Resources:**
+- [[Glossary-Examined-Life-Key-Terms|📖 Glossary]]
+- [[Developmental-Staging-of-the-Examined-Life|🌱 Developmental Staging]]
+- [[Methodology-Research-Methods-and-Standards|🔬 Methodology]]
+- [[Dashboard-Examined-Life-PKB|📊 Dashboard]]
+
+**Connection Notes:**
+- [[Connection-Mindfulness-and-Contemplative-Practice|🧘 Mindfulness]]
+- [[Connection-Cognitive-Behavioral-Therapy|🧠 CBT]]
+- [[Connection-Growth-Mindset|🌱 Growth Mindset]]
+- [... additional connection notes]
+
+---
+
+## About This Series
+
+[Brief context about how and why the series was created. Mention the intellectual journey, the role of AI-assisted synthesis (honestly), and the spirit in which it's offered to the family. Something like: "This series was developed through a collaboration between human intellectual curiosity and AI-assisted research synthesis. I guided the questions and the overall direction; Claude (an AI research assistant) helped me explore the scholarly literature and identify connections between frameworks I wouldn't have found on my own. Every insight was reviewed and validated by me, but the breadth of coverage wouldn't have been possible without AI assistance. I'm sharing it with you because I think the ideas are genuinely valuable for understanding how we think, learn, and grow."]
+```
+
+---
+
+## Template 3: Glossary Note
+
+```markdown
+---
+type: glossary
+id: aoel-glossary
+status: in-progress
+version: 1.0.0
+confidence: established
+maturity: developing
+source: series-report
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+tags:
+  - examined-life
+  - glossary
+  - reference
+  - definitions
+aliases:
+  - "Glossary"
+  - "Key Terms"
+  - "Definitions"
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: introductory
+---
+
+# 📖 Glossary: Key Terms and Concepts
+
+> [!info] How to Use This Glossary
+> This glossary defines key terms from The Architecture of the Examined Life series. Each entry includes where the term is introduced, where else it appears, and a concrete everyday example where possible. Use `Ctrl/Cmd + F` to search, or browse alphabetically.
+>
+> Terms marked with 🌟 are particularly important for understanding the framework's core ideas.
+
+---
+
+## A
+
+### 🌟 Active Inference
+**Definition:** The process by which an organism acts on the world to confirm its predictions or reduce prediction error — choosing actions that bring the world into alignment with the brain's generative model, rather than passively updating the model.
+**Introduced in:** [[Report-13-The-Predictive-Mind]]
+**Also appears in:** [[Report-15-The-Examined-Life-Revisited]]
+**Related concepts:** [[#Predictive Processing]], [[#Free Energy Principle]], [[#Precision Weighting]]
+**Everyday example:** When you tidy your desk before starting work, you're engaging in active inference — reshaping your environment to match your brain's prediction of what a productive workspace looks like.
+
+### Allostasis
+**Definition:** The body's process of maintaining stability through change — adjusting physiological parameters proactively based on predicted needs rather than reactively in response to disruption.
+**Introduced in:** [[Report-09-The-Embodied-Thinker]]
+**Related concepts:** [[#Interoception]], [[#Somatic Markers]], [[#Embodied Cognition]]
+**Everyday example:** Your body starting to produce stress hormones before a job interview, not because you're in danger but because it predicts the situation will demand heightened alertness.
+
+### 🌟 Aporic Receptivity
+**Definition:** The cultivated disposition to welcome, dwell productively in, and act from states of productive uncertainty — the meta-disposition prerequisite to all genuine inquiry.
+**Introduced in:** [[Report-01-The-Inquiry-Engine]]
+**Also appears in:** [[Report-02-The-Fallible-Knower]], [[Report-08-The-Examined-Life-In-Practice]], [[Report-15-The-Examined-Life-Revisited]]
+**Related concepts:** [[#Felt Difficulty]], [[#Aporia]], [[#Intellectual Humility]]
+**Everyday example:** The difference between feeling confused and panicking versus feeling confused and thinking "Interesting — there's something here I don't understand yet, and that's worth exploring."
+
+[Continue alphabetically through all terms...]
+
+---
+
+## B
+
+[Continue with B terms...]
+
+---
+
+[Continue through entire alphabet...]
+```
+
+---
+
+## Template 4: Developmental Staging Note
+
+```markdown
+---
+type: staging
+id: aoel-staging
+status: complete
+version: 1.0.0
+confidence: moderate
+maturity: budding
+source: series-report
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+tags:
+  - examined-life
+  - staging
+  - development
+  - self-assessment
+  - practical
+aliases:
+  - "Developmental Staging"
+  - "Five Stages"
+  - "Growth Model"
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+link-related:
+  - "[[Report-15-The-Examined-Life-Revisited]]"
+  - "[[Report-08-The-Examined-Life-In-Practice]]"
+  - "[[Report-07-The-Self-Directed-Learner]]"
+accessibility-level: introductory
+---
+
+# 🌱 The Five Stages of the Examined Life
+
+> [!abstract] What This Is
+> The Examined Life isn't something you either have or don't have — it develops over time through stages. This note describes five stages of growth, from first recognizing your own cognitive habits to making thoughtful, self-aware engagement your natural way of being. It's meant to help you understand where you might be and how growth happens.
+
+---
+
+## Overview: A Map, Not a Measuring Stick
+
+[2–3 paragraphs explaining the staging model as a developmental compass rather than a judgment tool. Key messages: everyone starts somewhere; development is gradual and non-linear; you might be at different stages for different domains of your life; the stages describe a direction of growth, not a hierarchy of worth.]
+
+---
+
+## Stage 1: Conscious Incompetence — Awakening 🔍
+
+> [!info] The Core Experience
+> "I'm starting to notice my own thinking patterns — and realizing they're not always serving me well."
+
+**What this stage looks and feels like:**
+[Description from Report 15 — the awakening to one's own cognitive limitations]
+
+**Signs you might be at this stage:**
+- [Concrete, relatable indicators]
+
+**Characteristic challenges:**
+- [What makes this stage difficult]
+
+**Practices that support growth here:**
+- [Practical suggestions]
+
+**Key reports for this stage:** [[Report-01-The-Inquiry-Engine]], [[Report-02-The-Fallible-Knower]]
+
+**Common misconceptions:**
+> [!warning] What This Stage Is NOT
+> [Clarifications — e.g., this is not about intelligence, it's about awareness]
+
+---
+
+## Stage 2: Deliberate Practice — Building 🛠️
+
+[Same structure as Stage 1, covering Stage 2...]
+
+---
+
+## Stage 3: Integrated Practice — Weaving 🧶
+
+[Same structure, covering Stage 3...]
+
+---
+
+## Stage 4: Emerging Orientation — Inhabiting 🏠
+
+[Same structure, covering Stage 4...]
+
+---
+
+## Stage 5: The Examined Life — Being 🌟
+
+[Same structure, covering Stage 5. Note that this is aspirational — the Stoic sophos, the Aristotelian phronimos. It functions as a direction, not a plateau.]
+
+---
+
+## The Journey Between Stages
+
+[2–3 paragraphs on how transitions happen. Key messages: transitions are gradual, not sudden; they're domain-specific (you might be Stage 3 professionally but Stage 1 in personal relationships); setbacks are normal and even productive; development is more spiral than linear.]
+
+---
+
+## A Note on Self-Assessment
+
+> [!warning] Read This Before Placing Yourself
+> [Honest guidance about the limits of self-assessment. The Dunning-Kruger consideration. The importance of humility. The fact that the most confident self-assessors are often the least accurate. Suggestion: rather than trying to identify "your stage," look for the stage whose *challenges* feel most familiar.]
+
+---
+
+## Connections
+
+- [[Report-07-The-Self-Directed-Learner]] — Self-regulation as the engine of stage progression
+- [[Report-08-The-Examined-Life-In-Practice]] — What the transition from Stage 2 to Stage 4 looks like
+- [[Report-15-The-Examined-Life-Revisited]] — The full developmental model with scholarly grounding
+
+> [!nav] Navigation
+> [[Index-The-Architecture-of-the-Examined-Life|Return to Index]] | [[Glossary-Examined-Life-Key-Terms|Glossary]]
+```
+
+---
+
+## Template 5: Methodology Note
+
+```markdown
+---
+type: methodology
+id: aoel-methodology
+status: complete
+version: 1.0.0
+confidence: established
+maturity: budding
+source: original
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+tags:
+  - examined-life
+  - methodology
+  - research-methods
+  - transparency
+aliases:
+  - "Methodology"
+  - "Research Methods"
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: introductory
+---
+
+# 🔬 How This Series Was Created: Research Methods and Standards
+
+[Sections: What Kind of Work Is This?, How the Reports Were Generated, Standards of Evidence, The Synthesis Method, Limitations of the Method, How to Evaluate These Claims. Full content per system prompt specification.]
+```
+
+---
+
+## Template 6: Reference Note
+
+```markdown
+---
+type: reference
+id: aoel-ref-[author-short-title]
+status: complete
+version: 1.0.0
+confidence: established
+maturity: budding
+source: reference-work
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+author: "[Author Name]"
+publication-year: [YYYY]
+work-title: "[Full Title]"
+cited-in-reports:
+  - "[[Report-XX-Title]]"
+domain: "[cognitive-science|philosophy|psychology|neuroscience]"
+accessibility-rating: "[popular|intermediate|advanced]"
+tags:
+  - examined-life
+  - reference
+  - [domain-tag]
+  - researcher/[lastname]
+aliases:
+  - "[Short citation form]"
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: "[introductory|intermediate|advanced]"
+---
+
+# 📚 [Author]: [Short Title]
+
+> [!abstract] Quick Reference
+> **Author:** [Full name and key context — e.g., "Daniel Kahneman, Nobel laureate in Economics (2002)"]
+> **Work:** *[Full title]* ([Year])
+> **Domain:** [Field]
+> **Accessibility:** [Popular reading / Intermediate / Advanced academic text]
+> **Cited in:** [[Report-XX]], [[Report-YY]], ...
+
+---
+
+## What This Work Contributes
+
+[2–3 paragraphs in accessible language. What problem does it address? What's its central claim? Why is it significant?]
+
+---
+
+## Role in the Examined Life Series
+
+[How this work is used in the synthesis. Which reports draw on it? What synthesis moves does it enable?]
+
+---
+
+## Key Concepts from This Work
+
+- **[Concept 1]** — [Brief definition]. See [[Glossary-Examined-Life-Key-Terms#Concept 1]]
+- **[Concept 2]** — [Brief definition]. See [[Glossary-Examined-Life-Key-Terms#Concept 2]]
+
+---
+
+## For Further Reading
+
+> [!tip] If This Interests You
+> **Accessible introduction:** [Easier entry point if the original is technical]
+> **The original work:** [Full citation]
+> **Related works:** [1–3 related sources]
+
+---
+
+## Full Citation
+
+[Complete bibliographic citation]
+```
+
+---
+
+## Template 7: Connection Note
+
+```markdown
+---
+type: connection
+id: aoel-connection-[framework-name]
+status: complete
+version: 1.0.0
+confidence: moderate
+maturity: seedling
+source: original
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+external-framework: "[Framework Name]"
+connection-strength: "[strong|moderate|tangential]"
+related-reports:
+  - "[[Report-XX-Title]]"
+tags:
+  - examined-life
+  - connection
+  - [framework-specific-tags]
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: introductory
+---
+
+# 🔗 Connection: [Framework Name] and the Examined Life
+
+> [!abstract] The Connection at a Glance
+> **External framework:** [Name and brief description]
+> **Connection strength:** [Strong/Moderate/Tangential]
+> **Most relevant reports:** [[Report-XX]], [[Report-YY]]
+> **In one sentence:** [How these connect]
+
+---
+
+## The Connection Explained
+
+[2–3 paragraphs. Written accessibly — a reader might come here from interest in the external framework, not the series.]
+
+---
+
+## Points of Contact
+
+[Specific overlaps, parallels, or mutual illumination]
+
+---
+
+## Points of Divergence
+
+[Where the approaches differ and why that matters]
+
+---
+
+## What This Means Practically
+
+[Concrete implications for everyday application]
+
+---
+
+## Further Reading
+
+[Accessible resources for the external framework]
+
+> [!nav] Navigation
+> [[Index-The-Architecture-of-the-Examined-Life|Return to Index]]
+```
+
+---
+
+## Template 8: Expansion Topic Note
+
+```markdown
+---
+type: expansion
+id: aoel-expansion-[short-topic]
+status: planned
+version: 1.0.0
+confidence: speculative
+maturity: seedling
+source: series-report
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+originating-report: "[[Report-XX-Title]]"
+research-status: "unexplored"
+tags:
+  - examined-life
+  - expansion
+  - future-research
+  - [topic-specific-tags]
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: intermediate
+---
+
+# 🔭 Expansion Topic: [Topic Title]
+
+> [!question] The Core Question
+> [Clear statement of the research question or unexplored direction]
+
+---
+
+## Why This Matters
+
+[1–2 paragraphs — why this question is worth pursuing]
+
+---
+
+## What We Know So Far
+
+[Summary of what the series has established that's relevant, with links to specific reports]
+
+---
+
+## Suggested Starting Points
+
+[Accessible resources — books, articles, videos]
+
+---
+
+## Connected Reports
+
+- [[Report-XX-Title]] — [Brief explanation of connection]
+
+---
+
+## Potential Research Approaches
+
+> [!note] For Future Investigation
+> [Methodological suggestions]
+
+> [!nav] Navigation
+> [[Index-The-Architecture-of-the-Examined-Life|Return to Index]]
+```
+
+---
+
+## Template 9: Dashboard Note
+
+```markdown
+---
+type: dashboard
+id: aoel-dashboard
+status: complete
+version: 1.0.0
+confidence: high
+maturity: evergreen
+source: original
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+tags:
+  - examined-life
+  - dashboard
+  - navigation
+aliases:
+  - "Dashboard"
+  - "PKB Overview"
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: intermediate
+---
+
+# 📊 Dashboard: The Architecture of the Examined Life PKB
+
+## PKB Statistics
+
+### Reports by Tier
+```dataview
+TABLE report-number as "#", report-title as "Title", tier as "Tier", status as "Status"
+FROM #report AND #examined-life
+SORT report-number ASC
+```
+
+### All Notes by Type
+```dataview
+TABLE WITHOUT ID length(rows) as "Count"
+FROM #examined-life
+GROUP BY type
+SORT length(rows) DESC
+```
+
+### Recent Updates
+```dataview
+TABLE WITHOUT ID link(file.name) as "Note", type as "Type", status as "Status", modified as "Modified"
+FROM #examined-life
+SORT modified DESC
+LIMIT 10
+```
+
+---
+
+## Navigation Hub
+
+**Reports:** [[Report-01-The-Inquiry-Engine|01]] · [[Report-02-The-Fallible-Knower|02]] · [[Report-03-The-Motivated-Mind|03]] · [[Report-04-Cognitive-Scaffolding|04]] · [[Report-05-The-Virtuous-Reasoner|05]] · [[Report-06-Taming-System-1|06]] · [[Report-07-The-Self-Directed-Learner|07]] · [[Report-08-The-Examined-Life-In-Practice|08]] · [[Report-09-The-Embodied-Thinker|09]] · [[Report-10-The-Feeling-Reasoner|10]] · [[Report-11-The-Practical-Reasoner|11]] · [[Report-12-The-Social-Thinker|12]] · [[Report-13-The-Predictive-Mind|13]] · [[Report-14-The-Meaningful-Life|14]] · [[Report-15-The-Examined-Life-Revisited|15]]
+
+**Core Resources:** [[Glossary-Examined-Life-Key-Terms|Glossary]] · [[Developmental-Staging-of-the-Examined-Life|Staging]] · [[Methodology-Research-Methods-and-Standards|Methodology]] · [[Index-The-Architecture-of-the-Examined-Life|Index]]
+
+---
+
+## Tag Overview
+
+```dataview
+TABLE WITHOUT ID tag as "Tag", length(rows) as "Notes"
+FROM #examined-life
+FLATTEN file.tags as tag
+WHERE contains(tag, "examined-life") = false
+GROUP BY tag
+SORT length(rows) DESC
+LIMIT 20
+```
+
+---
+
+## Completion Tracker
+
+### Reference Notes
+```dataview
+TABLE WITHOUT ID link(file.name) as "Reference", author as "Author", length(cited-in-reports) as "Reports Cited In", status as "Status"
+FROM #reference AND #examined-life
+SORT length(cited-in-reports) DESC
+```
+
+### Connection Notes
+```dataview
+TABLE WITHOUT ID link(file.name) as "Connection", external-framework as "Framework", connection-strength as "Strength", status as "Status"
+FROM #connection AND #examined-life
+SORT connection-strength ASC
+```
+
+---
+
+## Graph View Tips
+
+> [!tip] Getting the Most from Graph View
+> - **Filter by tag** to see specific subsets (e.g., `#T1-epistemic` for Tier 1 only)
+> - **Look for clusters** — Reports in the same tier should cluster together
+> - **The Glossary** should appear as a central hub with connections to everything
+> - **Report 15** should have the most connections of any single note
+> - **Isolated notes** indicate missing links — investigate and add connections
+
+
+---
+
+*This template collection covers all 10 note types. Each template is ready for copy-paste into Obsidian. Replace all `[PLACEHOLDER]` values during generation. See the Master Plan for the build sequence and the Content Extraction Matrix for what to extract from each source report.*
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 📋 Complete Note Templates Package
+## The Architecture of the Examined Life — All 10 Note Types
+
+**Version:** 1.0.0
+**Usage:** Copy the relevant template when generating each note. Fill in all `[PLACEHOLDER]` fields. Remove template instructions (text in `<!-- comments -->`).
+
+---
+
+## Table of Contents
+
+1. [Report Note Template](#1-report-note-template)
+2. [Synthesis Note Template (Report 15)](#2-synthesis-note-template-report-15)
+3. [Index Note Template](#3-index-note-template)
+4. [Glossary Note Template](#4-glossary-note-template)
+5. [Developmental Staging Note Template](#5-developmental-staging-note-template)
+6. [Methodology Note Template](#6-methodology-note-template)
+7. [Reference Note Template](#7-reference-note-template)
+8. [Expansion Topic Note Template](#8-expansion-topic-note-template)
+9. [Connection Note Template](#9-connection-note-template)
+10. [Dashboard Note Template](#10-dashboard-note-template)
+
+---
+
+## 1. Report Note Template
+
+**Use for:** Reports 01–14 (Report 15 uses the extended Synthesis template)
+**Target length:** 2,000–4,000 words per note
+**Wiki-link density target:** 20–40 links
+
+````markdown
+---
+# ── Core Identity ──────────────────────────────────────────────────
+type: report
+id: aoel-report-[XX]
+status: complete
+version: 1.0.0
+confidence: established
+maturity: budding
+source: series-report
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+
+# ── Series Position ───────────────────────────────────────────────
+series: "The Architecture of the Examined Life"
+tier: [T1-Epistemic | T2-Practical | T3-Integrative]
+report-number: [1-15]
+report-title: "[Full Report Title]"
+
+# ── Synthesis Metadata ─────────────────────────────────────────────
+frameworks:
+  - "[Framework 1]"
+  - "[Framework 2]"
+  - "[Framework 3]"
+key-researchers:
+  - "[Researcher 1]"
+  - "[Researcher 2]"
+  - "[Researcher 3]"
+synthesis-type: [structural-homology | tension-resolution | emergent-insight]
+emergent-insight: "[One-line description of the report's emergent insight]"
+builds-from:
+  - "[[Report-XX-Title]]"
+enables:
+  - "[[Report-XX-Title]]"
+worked-example-domain: "[Domain of the worked example]"
+
+# ── Categorization ─────────────────────────────────────────────────
+tags:
+  - examined-life
+  - [tier-tag]
+  - [domain-tag-1]
+  - [domain-tag-2]
+  - [framework-tag-1]
+  - [structural-tag-if-applicable]
+aliases:
+  - "Report [XX]"
+  - "[Short Title]"
+
+# ── Graph Integration ──────────────────────────────────────────────
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+link-related:
+  - "[[Glossary-Examined-Life-Key-Terms]]"
+  - "[[Relevant-Reference-Note]]"
+
+# ── Accessibility ──────────────────────────────────────────────────
+accessibility-level: [introductory | intermediate | advanced]
+prerequisite-notes:
+  - "[[Report-XX-Title]]"
+---
+
+# Report [XX]: [Full Report Title]
+
+> [!abstract] Series Position
+> **Tier [X]** — [Tier Name] | Report [XX] of 15
+> **Builds from:** [[Report-XX-Title]], [[Report-YY-Title]]
+> **Enables:** [[Report-XX-Title]], [[Report-YY-Title]]
+> **Emergent Insight:** [One-sentence summary of the report's original contribution]
+
+---
+
+## 🌟 The Big Idea
+
+<!-- 
+INSTRUCTIONS: Write 2–3 paragraphs explaining what this report contributes and why it matters. 
+This is the MOST IMPORTANT section for the family audience. Requirements:
+- Warm, clear, concrete language
+- At least one everyday analogy
+- No unexplained jargon
+- Should make someone think "Oh, that's interesting" even if they read nothing else
+- Test: Would your parents understand this without any other context?
+-->
+
+[Write 2-3 accessible paragraphs here]
+
+---
+
+## 💡 Key Insights
+
+<!-- INSTRUCTIONS: 3–5 key insights, each with 1–2 paragraphs of explanation and a "Why This Matters" anchor -->
+
+> [!insight] Insight 1: [Title]
+> [1–2 paragraphs explaining the insight]
+>
+> **Why This Matters:** [1–2 sentences connecting to everyday life]
+
+> [!insight] Insight 2: [Title]
+> [1–2 paragraphs explaining the insight]
+>
+> **Why This Matters:** [1–2 sentences connecting to everyday life]
+
+> [!insight] Insight 3: [Title]
+> [1–2 paragraphs explaining the insight]
+>
+> **Why This Matters:** [1–2 sentences connecting to everyday life]
+
+---
+
+## 🔗 Synthesis Moves
+
+<!-- INSTRUCTIONS: Include at least one of each type that the report contains -->
+
+> [!example] Structural Homology: [Title]
+> **[Framework A]** and **[Framework B]** describe the same underlying phenomenon:
+> [Explanation of the deep similarity, made accessible]
+
+> [!question] Conceptual Tension Resolved: [Title]
+> **The tension:** [Apparent conflict between frameworks]
+> **The resolution:** [How the synthesis resolves this through higher-order integration]
+
+> [!tip] Emergent Insight: [Named Insight]
+> [Explanation of the novel claim that arises from synthesis — something no single source framework contains]
+
+---
+
+## 📖 Core Concepts
+
+<!-- INSTRUCTIONS: Define key terms introduced or significantly developed in this report -->
+
+> [!definition] [Concept Name]
+> **Definition:** [Clear, accessible definition]
+> **Origin:** [Which tradition/researcher introduced this]
+> **Role in this report:** [How the concept functions in the synthesis]
+> **See also:** [[Glossary-Examined-Life-Key-Terms#[Concept Name]]]
+
+> [!definition] [Concept Name 2]
+> **Definition:** [Clear, accessible definition]
+> **Origin:** [Which tradition/researcher introduced this]
+> **Role in this report:** [How the concept functions in the synthesis]
+> **See also:** [[Glossary-Examined-Life-Key-Terms#[Concept Name 2]]]
+
+---
+
+## 🕸️ How This Connects
+
+**What this report builds from:**
+[Explanation of how previous reports lay the groundwork for this one — be specific about WHICH insights from WHICH reports are prerequisites]
+
+**What this report enables:**
+[Explanation of how this report opens the door for future reports — what becomes possible that wasn't before]
+
+**Retroactive enrichment — how this report changes earlier understanding:**
+<!-- CRITICAL for Tier 2+ reports. Must be substantive, not just "this connects to Report X" -->
+[Specific examples of how earlier reports look different in light of this report's insights]
+
+---
+
+## 🌍 Practical Implications
+
+<!-- INSTRUCTIONS: 2–3 paragraphs for the family audience. Concrete, relatable examples. -->
+[What does this report's insight mean for everyday life? How might the reader notice or apply these ideas?]
+
+---
+
+## 📝 Worked Example Summary
+
+> [!example] [Scenario Title]
+> [Condensed version of the report's worked example — the scenario, how the framework applies, and what difference it makes. Aim for 200-400 words.]
+
+---
+
+## ⚖️ Honest Limitations
+
+> [!warning] What This Report Acknowledges
+> [The report's own identified limitations, uncertainties, and open questions. Present these as honest intellectual engagement, not weakness.]
+>
+> - [Limitation 1]
+> - [Limitation 2]
+> - [Limitation 3]
+
+---
+
+## 🔭 Expansion Topics
+
+<!-- INSTRUCTIONS: Link to Expansion Topic Notes where they exist, or create placeholder links -->
+
+- [[Expansion-Topic-Title-1]] — [One-sentence description]
+- [[Expansion-Topic-Title-2]] — [One-sentence description]
+- [[Expansion-Topic-Title-3]] — [One-sentence description]
+
+---
+
+## 📚 Key References
+
+<!-- INSTRUCTIONS: Link to Reference Notes where they exist -->
+
+- [[Ref-Author-Short-Title-1]] — [One-sentence description of contribution]
+- [[Ref-Author-Short-Title-2]] — [One-sentence description of contribution]
+- [[Ref-Author-Short-Title-3]] — [One-sentence description of contribution]
+
+---
+
+> [!nav] Navigation
+> ← Previous: [[Report-[XX-1]-Title]] | [[Index-The-Architecture-of-the-Examined-Life|Return to Index]] | Next: [[Report-[XX+1]-Title]] →
+> **Tier [X]:** [[Report-XX]] · [[Report-YY]] · [[Report-ZZ]]
+````
+
+---
+
+## 2. Synthesis Note Template (Report 15)
+
+**Use for:** Report 15 only — extends the Report Note template with capstone sections
+**Target length:** 4,000–6,000 words
+**Wiki-link density target:** 40+ links
+
+````markdown
+---
+type: synthesis
+id: aoel-report-15
+status: complete
+version: 1.0.0
+confidence: established
+maturity: budding
+source: series-report
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+tier: T3-Integrative
+report-number: 15
+report-title: "The Examined Life Revisited: Capstone Synthesis"
+frameworks:
+  - "All frameworks from Reports 01–14"
+  - "Integrated Cognitive Personhood"
+  - "Developmental Staging Model"
+key-researchers:
+  - "All key researchers from Reports 01–14"
+synthesis-type: emergent-insight
+emergent-insight: "The examined life is a mode of being — Integrated Cognitive Personhood — not a toolkit, constituting a coherent orientation toward experience that integrates all fifteen dimensions into what the person IS."
+builds-from:
+  - "[[Report-01-The-Inquiry-Engine]]"
+  - "[[Report-02-The-Fallible-Knower]]"
+  - "[[Report-03-The-Motivated-Mind]]"
+  - "[[Report-04-Cognitive-Scaffolding]]"
+  - "[[Report-05-The-Virtuous-Reasoner]]"
+  - "[[Report-06-Taming-System-1]]"
+  - "[[Report-07-The-Self-Directed-Learner]]"
+  - "[[Report-08-The-Examined-Life-In-Practice]]"
+  - "[[Report-09-The-Embodied-Thinker]]"
+  - "[[Report-10-The-Feeling-Reasoner]]"
+  - "[[Report-11-The-Practical-Reasoner]]"
+  - "[[Report-12-The-Social-Thinker]]"
+  - "[[Report-13-The-Predictive-Mind]]"
+  - "[[Report-14-The-Meaningful-Life]]"
+enables: []
+worked-example-domain: "dual — epistemic challenge + practical life challenge"
+tags:
+  - examined-life
+  - T3-integrative
+  - capstone-synthesis
+  - integrated-cognitive-personhood
+  - developmental-staging
+  - all-frameworks
+aliases:
+  - "Report 15"
+  - "Capstone Synthesis"
+  - "The Examined Life Revisited"
+  - "Integrated Cognitive Personhood"
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+link-related:
+  - "[[Glossary-Examined-Life-Key-Terms]]"
+  - "[[Developmental-Staging-of-the-Examined-Life]]"
+  - "[[Methodology-Research-Methods-and-Standards]]"
+accessibility-level: intermediate
+prerequisite-notes:
+  - "[[Report-08-The-Examined-Life-In-Practice]]"
+  - "[[Report-13-The-Predictive-Mind]]"
+  - "[[Report-14-The-Meaningful-Life]]"
+---
+
+# Report 15: The Examined Life Revisited — Capstone Synthesis
+
+> [!abstract] Series Position
+> **Tier 3** — Integrative Architecture | Report 15 of 15 (Capstone)
+> **Builds from:** All 14 preceding reports
+> **This is the culmination of the entire series.**
+> **Emergent Insight:** The examined life is not a cognitive toolkit but a *mode of being* — **Integrated Cognitive Personhood** — a coherent orientation toward experience.
+
+---
+
+## 🌟 The Big Idea
+
+[3–4 paragraphs — this is the most important "Big Idea" in the entire PKB. It must convey the complete vision accessibly.]
+
+---
+
+## 🏛️ The Emergent Vision: Integrated Cognitive Personhood
+
+<!-- This section is UNIQUE to the Synthesis Note -->
+[Explain how 15 reports collectively describe a single coherent way of being human. This is the concept that emerges only when all reports are held together.]
+
+---
+
+## 🗺️ The Architecture Map
+
+<!-- Visual/textual representation of how all components connect -->
+
+### The Complete Framework at a Glance
+
+| Component | Report | Core Contribution |
+|-----------|--------|-------------------|
+| Inquiry Activation | [[Report-01-The-Inquiry-Engine\|01]] | How genuine thinking begins |
+| Epistemic Posture | [[Report-02-The-Fallible-Knower\|02]] | How to hold beliefs |
+| Motivational Engine | [[Report-03-The-Motivated-Mind\|03]] | What sustains thinking |
+| Understanding Construction | [[Report-04-Cognitive-Scaffolding\|04]] | How understanding builds |
+| Character Infrastructure | [[Report-05-The-Virtuous-Reasoner\|05]] | What kind of person thinks well |
+| Cognitive Governance | [[Report-06-Taming-System-1\|06]] | How to catch mental shortcuts |
+| Learning Architecture | [[Report-07-The-Self-Directed-Learner\|07]] | How to direct your own learning |
+| Integrated Deployment | [[Report-08-The-Examined-Life-In-Practice\|08]] | What it looks like in action |
+| Embodied Foundation | [[Report-09-The-Embodied-Thinker\|09]] | How the body shapes thinking |
+| Emotional Cognition | [[Report-10-The-Feeling-Reasoner\|10]] | Emotions as thinking partners |
+| Practical Wisdom | [[Report-11-The-Practical-Reasoner\|11]] | How to act wisely under uncertainty |
+| Social Cognition | [[Report-12-The-Social-Thinker\|12]] | How thinking is social |
+| Mechanistic Unification | [[Report-13-The-Predictive-Mind\|13]] | The brain science behind it all |
+| Existential Ground | [[Report-14-The-Meaningful-Life\|14]] | What gives the examined life purpose |
+| Complete Synthesis | Report 15 (this note) | The integrated vision |
+
+[Additional prose explaining the architecture's internal logic and how the three tiers relate]
+
+---
+
+## 💡 Key Insights
+
+[Standard Key Insights section — but these should be the CAPSTONE insights]
+
+---
+
+## 🔗 Synthesis Moves
+
+[Standard Synthesis Moves section — these should be the GRANDEST synthesis moves]
+
+---
+
+## 🌱 The Developmental Staging Model
+
+<!-- Links to and summarizes the dedicated Developmental Staging Note -->
+
+The examined life is not achieved in a single step. It develops through five stages:
+
+**Stage 1 — Conscious Incompetence (Awakening):** [Brief description]
+→ See [[Developmental-Staging-of-the-Examined-Life#Stage 1]]
+
+**Stage 2 — Deliberate Practice (Building):** [Brief description]
+→ See [[Developmental-Staging-of-the-Examined-Life#Stage 2]]
+
+**Stage 3 — Integrated Practice (Weaving):** [Brief description]
+→ See [[Developmental-Staging-of-the-Examined-Life#Stage 3]]
+
+**Stage 4 — Emerging Orientation (Inhabiting):** [Brief description]
+→ See [[Developmental-Staging-of-the-Examined-Life#Stage 4]]
+
+**Stage 5 — The Examined Life (Being):** [Brief description]
+→ See [[Developmental-Staging-of-the-Examined-Life#Stage 5]]
+
+For the complete model with self-assessment indicators and growth practices, see [[Developmental-Staging-of-the-Examined-Life]].
+
+---
+
+## 📝 Worked Examples
+
+### Worked Example 1: Epistemic Challenge
+> [!example] [Scenario Title — an intellectual/belief challenge]
+> [Full worked example showing the complete framework in action for an epistemic challenge]
+
+### Worked Example 2: Practical Life Challenge
+> [!example] [Scenario Title — a real-life decision/action challenge]
+> [Full worked example showing the complete framework in action for a practical life challenge]
+
+---
+
+## ⚖️ Framework Limitations
+
+> [!warning] Honest Assessment
+> [Comprehensive limitations section — more detailed than standard Report Notes]
+>
+> **The Integrated-Framework Evidence Gap:** [Explanation]
+>
+> **Resource Intensity:** [Explanation]
+>
+> **Cultural Universalism Assumption:** [Explanation]
+>
+> **The Measurement Problem:** [Explanation]
+
+---
+
+## ❓ Open Questions
+
+[The most important unresolved questions the series generates — these should be intellectually exciting, not discouraging]
+
+---
+
+## 📖 Core Concepts
+
+[Standard Core Concepts section]
+
+---
+
+## 🕸️ How This Connects
+
+[This section connects to ALL previous reports]
+
+---
+
+## 🌍 Practical Implications
+
+[Standard Practical Implications — but broader and more personal]
+
+---
+
+## 🔭 Expansion Topics
+
+[Standard Expansion Topics section]
+
+---
+
+## 📚 Key References
+
+[Standard References section — but covering the full series]
+
+---
+
+> [!nav] Navigation
+> ← Previous: [[Report-14-The-Meaningful-Life]] | [[Index-The-Architecture-of-the-Examined-Life|Return to Index]]
+> **This is the final report in the series.**
+> **Tier 3:** [[Report-13-The-Predictive-Mind]] · [[Report-14-The-Meaningful-Life]] · Report 15 (this note)
+````
+
+---
+
+## 3. Index Note Template
+
+<!-- The Index Note template follows the specification in §5 of the system prompt. See that section for the complete template. It is included in the system prompt itself and does not need to be duplicated here. -->
+
+**Use the Index Note template exactly as specified in the system prompt §5.** The template is fully detailed there, including the welcome section, three-tier journey table, navigation guidance, and quick links.
+
+---
+
+## 4. Glossary Note Template
+
+````markdown
+---
+type: glossary
+id: aoel-glossary
+status: in-progress
+version: 1.0.0
+confidence: established
+maturity: developing
+source: series-report
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+tags:
+  - examined-life
+  - glossary
+  - reference
+  - definitions
+aliases:
+  - "Glossary"
+  - "Key Terms"
+  - "Definitions"
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: introductory
+---
+
+# 📖 Glossary: Key Terms and Concepts
+
+> [!info] How to Use This Glossary
+> This glossary defines key terms from The Architecture of the Examined Life series. Each entry tells you where the term is introduced, where else it appears, and gives a concrete everyday example where possible. Use `Ctrl/Cmd + F` to search, or browse alphabetically by clicking a letter below.
+>
+> **Jump to:** [[#A]] · [[#B]] · [[#C]] · [[#D]] · [[#E]] · [[#F]] · [[#G]] · [[#H]] · [[#I]] · [[#J]] · [[#K]] · [[#L]] · [[#M]] · [[#N]] · [[#O]] · [[#P]] · [[#Q]] · [[#R]] · [[#S]] · [[#T]] · [[#U]] · [[#V]] · [[#W]]
+
+```dataview
+TABLE WITHOUT ID length(rows) as "Total Terms"
+FROM "03-Glossary-and-Staging"
+WHERE type = "glossary"
+```
+
+---
+
+## A
+
+### Active Inference
+**Definition:** The brain's strategy of not just passively updating its predictions based on incoming data, but actively moving through the world to sample information that will confirm or update its models. You don't just wait to be surprised — you seek out information.
+**Introduced in:** [[Report-13-The-Predictive-Mind]]
+**Also appears in:** [[Report-09-The-Embodied-Thinker]], [[Report-15-The-Examined-Life-Revisited]]
+**Related concepts:** [[#Predictive Processing]], [[#Free Energy Principle]], [[#Precision Weighting]]
+**Everyday example:** When you hear an unexpected noise downstairs at night, you don't just lie there updating your predictions — you go investigate. That's active inference: acting on the world to reduce your uncertainty.
+
+### Allostasis
+**Definition:** The body's process of maintaining stability through change — anticipating the body's needs and adjusting physiological systems proactively rather than just reacting to disruptions after they occur.
+**Introduced in:** [[Report-09-The-Embodied-Thinker]]
+**Related concepts:** [[#Interoception]], [[#Somatic Markers]], [[#Embodied Cognition]]
+**Everyday example:** Your body starts releasing cortisol before your alarm goes off because it has learned your schedule — it's preparing you for waking up before you actually need to be awake.
+
+### Aporia
+**Definition:** A state of intellectual impasse — knowing that your previous confident belief was unjustified, without yet having a replacement. The Greek word literally means "without a path." In the Socratic tradition, this state of productive uncertainty is the beginning of genuine learning, not its failure.
+**Introduced in:** [[Report-01-The-Inquiry-Engine]]
+**Also appears in:** [[Report-02-The-Fallible-Knower]], [[Report-08-The-Examined-Life-In-Practice]]
+**Related concepts:** [[#Felt Difficulty]], [[#Elenchus]], [[#Aporic Receptivity]]
+**Everyday example:** That disorienting moment when you realize the political position you've confidently held for years has a serious flaw you hadn't noticed — and you don't yet know what to think instead. That uncomfortable between-beliefs state is aporia.
+
+### Aporic Receptivity
+**Definition:** The cultivated disposition to welcome, dwell productively in, and act from states of productive uncertainty. The meta-disposition that makes all genuine inquiry possible — being willing to sit with "I don't know" rather than rushing to premature closure.
+**Introduced in:** [[Report-01-The-Inquiry-Engine]] (emergent insight)
+**Also appears in:** [[Report-02-The-Fallible-Knower]], [[Report-05-The-Virtuous-Reasoner]]
+**Related concepts:** [[#Aporia]], [[#Epistemic Humility]], [[#Fallibilism]]
+**Everyday example:** When someone challenges your view and your first impulse is defensiveness — aporic receptivity is the capacity to override that impulse and genuinely consider whether they might be right.
+
+<!-- CONTINUE ALPHABETICALLY through all key terms from all 15 reports -->
+
+---
+
+## B
+
+<!-- Continue with B terms... -->
+
+---
+
+## C
+
+<!-- Continue with C terms... -->
+````
+
+**Glossary Term Entry Format (for copy-paste when adding new terms):**
+
+```markdown
+### [Term Name]
+**Definition:** [Clear, accessible definition in 1–3 sentences]
+**Introduced in:** [[Report-XX-Title]]
+**Also appears in:** [[Report-YY-Title]], [[Report-ZZ-Title]]
+**Related concepts:** [[#Related-Term-1]], [[#Related-Term-2]]
+**Everyday example:** [Brief concrete example the family audience would relate to]
+```
+
+---
+
+## 5. Developmental Staging Note Template
+
+````markdown
+---
+type: staging
+id: aoel-staging
+status: complete
+version: 1.0.0
+confidence: moderate
+maturity: budding
+source: series-report
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+tags:
+  - examined-life
+  - staging
+  - developmental-model
+  - self-assessment
+  - personal-growth
+aliases:
+  - "Developmental Staging"
+  - "Five Stages"
+  - "Growth Model"
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+link-related:
+  - "[[Report-15-The-Examined-Life-Revisited]]"
+  - "[[Report-07-The-Self-Directed-Learner]]"
+  - "[[Report-08-The-Examined-Life-In-Practice]]"
+accessibility-level: introductory
+---
+
+# 🌱 The Developmental Staging Model: Where Are You, and How Do You Grow?
+
+> [!info] What This Note Is
+> This is one of the most personal notes in the entire collection. The series describes an ideal — the examined life — but nobody starts there. This staging model maps the journey from first recognizing your own cognitive limitations through to fully embodying the examined life as a way of being. It's a compass, not a judgment.
+
+---
+
+## Overview
+
+[2–3 paragraphs explaining what the staging model is, why it was developed, and how to use it. Emphasize: stages are not boxes, development is non-linear, and everyone is at different stages in different domains of their life.]
+
+---
+
+## Stage 1: Conscious Incompetence — Awakening 🌅
+
+> [!abstract] In One Sentence
+> You begin to see your own cognitive limitations clearly — and it's uncomfortable.
+
+### What This Stage Looks and Feels Like
+[2–3 paragraphs describing the experience of Stage 1]
+
+### Signs You Might Be at This Stage
+[Concrete, relatable indicators — written as questions the reader can ask themselves]
+
+### Characteristic Challenges
+[What makes this stage difficult]
+
+### Practices That Support Growth at This Stage
+[Actionable suggestions — things the reader can actually do]
+
+### How This Connects to the Series
+[Links to specific reports that are most relevant at this stage]
+- [[Report-01-The-Inquiry-Engine]] — Understanding how genuine inquiry gets activated
+- [[Report-02-The-Fallible-Knower]] — Learning to hold beliefs honestly
+
+### Common Misconceptions
+[Things people get wrong about this stage — e.g., "It means I'm stupid" → No, it means you're paying attention]
+
+---
+
+## Stage 2: Deliberate Practice — Building 🔨
+
+[Same structure as Stage 1]
+
+---
+
+## Stage 3: Integrated Practice — Weaving 🧶
+
+[Same structure as Stage 1]
+
+---
+
+## Stage 4: Emerging Orientation — Inhabiting 🏠
+
+[Same structure as Stage 1]
+
+---
+
+## Stage 5: The Examined Life — Being 🌟
+
+[Same structure as Stage 1, but noting this is an aspirational endpoint]
+
+---
+
+## The Journey Between Stages
+
+[2–3 paragraphs about how transitions work — gradual, non-linear, domain-specific. You might be at Stage 3 in your professional life and Stage 1 in your emotional life.]
+
+---
+
+## A Note on Self-Assessment
+
+> [!warning] Be Honest — and Be Kind to Yourself
+> [Guidance about the limits of self-assessment, the Dunning-Kruger consideration, and why humility about where you are is itself an expression of the examined life. The person who thinks they're at Stage 5 probably isn't.]
+
+---
+
+> [!nav] Navigation
+> [[Index-The-Architecture-of-the-Examined-Life|Return to Index]] | [[Report-15-The-Examined-Life-Revisited|See the Full Capstone Synthesis]]
+````
+
+---
+
+## 6. Methodology Note Template
+
+````markdown
+---
+type: methodology
+id: aoel-methodology
+status: complete
+version: 1.0.0
+confidence: established
+maturity: budding
+source: original
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+tags:
+  - examined-life
+  - methodology
+  - research-methods
+  - interdisciplinary-synthesis
+  - ai-assisted-research
+aliases:
+  - "Methodology"
+  - "Research Methods"
+  - "How This Was Made"
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: introductory
+---
+
+# 🔬 Methodology: How This Series Was Made
+
+> [!info] Why This Note Exists
+> Understanding how the series was created helps you evaluate its claims. This note explains the research methods, the role of AI in the process, and the standards of evidence the series maintains.
+
+---
+
+## What Kind of Work Is This?
+[Accessible explanation of interdisciplinary synthesis as a research methodology]
+
+## How the Reports Were Generated
+[The Socratic Synthesis Protocol, Claude as research tool, human curation and editorial oversight]
+
+## Standards of Evidence
+[How the series distinguishes between empirical claims, theoretical integrations, and speculative proposals]
+
+## The Synthesis Method
+[Structural homology, conceptual tension resolution, emergent insight generation]
+
+## Limitations of the Method
+[AI-assisted synthesis limitations, potential biases, verification challenges]
+
+## How to Evaluate These Claims
+[Guidance for the reader on critical engagement]
+
+---
+
+> [!nav] Navigation
+> [[Index-The-Architecture-of-the-Examined-Life|Return to Index]]
+````
+
+---
+
+## 7. Reference Note Template
+
+````markdown
+---
+type: reference
+id: aoel-ref-[author-short-title]
+status: complete
+version: 1.0.0
+confidence: established
+maturity: budding
+source: reference-work
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+author: "[Author Full Name]"
+publication-year: [YYYY]
+work-title: "[Full Title of Work]"
+cited-in-reports:
+  - "[[Report-XX-Title]]"
+  - "[[Report-YY-Title]]"
+domain: "[cognitive-science | philosophy | psychology | neuroscience | education]"
+accessibility-rating: "[popular | intermediate | advanced]"
+tags:
+  - examined-life
+  - reference
+  - [domain-tag]
+  - researcher/[author-last-name]
+aliases:
+  - "[Short citation, e.g., 'Kahneman 2011']"
+  - "[Common short title]"
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: [introductory | intermediate | advanced]
+---
+
+# 📚 [Author Last Name]: [Short Title]
+
+> [!abstract] Quick Reference
+> **Author:** [Full name and brief context — who is this person?]
+> **Work:** *[Full title]* ([Year])
+> **Domain:** [Field]
+> **Accessibility:** [Popular / Intermediate / Advanced reading]
+> **Cited in:** [[Report-XX]], [[Report-YY]], [[Report-ZZ]]
+
+---
+
+## What This Work Contributes
+[2–3 paragraphs accessible summary. What problem does it address? Central claim? Why significant?]
+
+---
+
+## Role in the Examined Life Series
+[How this work is used in the synthesis. Which reports, which synthesis moves.]
+
+---
+
+## Key Concepts from This Work
+[Specific concepts drawn from this source, linked to Glossary entries]
+
+---
+
+## For Further Reading
+
+> [!tip] If This Interests You
+> **Accessible introduction:** [Easier entry point if the original is technical]
+> **The original work:** [Full citation with availability note]
+> **Related works:** [1–3 related sources]
+
+---
+
+## Full Citation
+[Complete bibliographic citation]
+
+---
+
+> [!nav] Navigation
+> [[Index-The-Architecture-of-the-Examined-Life|Return to Index]]
+````
+
+---
+
+## 8. Expansion Topic Note Template
+
+````markdown
+---
+type: expansion
+id: aoel-expansion-[short-topic]
+status: planned
+version: 1.0.0
+confidence: speculative
+maturity: seedling
+source: series-report
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+originating-report: "[[Report-XX-Title]]"
+research-status: "[unexplored | preliminary | active]"
+tags:
+  - examined-life
+  - expansion
+  - future-research
+  - [topic-specific-tags]
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: intermediate
+---
+
+# 🔭 Expansion Topic: [Topic Title]
+
+> [!question] The Core Question
+> [Clear statement of the research question or unexplored direction]
+
+---
+
+## Why This Matters
+[1–2 paragraphs on why this question is worth pursuing]
+
+## What We Know So Far
+[Summary of what the series establishes, with report links]
+
+## Suggested Starting Points
+[Accessible resources for exploring this topic]
+
+## Connected Reports
+[Which reports generated or relate to this question]
+
+## Potential Research Approaches
+
+> [!note] For Future Investigation
+> [Methodological suggestions]
+
+---
+
+> [!nav] Navigation
+> [[Index-The-Architecture-of-the-Examined-Life|Return to Index]]
+````
+
+---
+
+## 9. Connection Note Template
+
+````markdown
+---
+type: connection
+id: aoel-connection-[framework-name]
+status: complete
+version: 1.0.0
+confidence: moderate
+maturity: seedling
+source: original
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+external-framework: "[Framework Name]"
+connection-strength: "[strong | moderate | tangential]"
+related-reports:
+  - "[[Report-XX-Title]]"
+  - "[[Report-YY-Title]]"
+tags:
+  - examined-life
+  - connection
+  - [framework-specific-tags]
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: introductory
+---
+
+# 🔗 Connection: [Framework Name] and the Examined Life
+
+> [!abstract] The Connection at a Glance
+> **External framework:** [Name]
+> **Connection strength:** [Strong / Moderate / Tangential]
+> **Most relevant reports:** [[Report-XX]], [[Report-YY]]
+> **One-sentence summary:** [How these connect]
+
+---
+
+## The Connection Explained
+[2–3 accessible paragraphs]
+
+## Points of Contact
+[Specific overlaps and parallels]
+
+## Points of Divergence
+[Where approaches differ and why it matters]
+
+## What This Means Practically
+[Concrete implications for everyday application]
+
+## Related Reports
+[Which reports are most relevant and why]
+
+## Further Reading
+[Accessible resources]
+
+---
+
+> [!nav] Navigation
+> [[Index-The-Architecture-of-the-Examined-Life|Return to Index]]
+````
+
+---
+
+## 10. Dashboard Note Template
+
+````markdown
+---
+type: dashboard
+id: aoel-dashboard
+status: in-progress
+version: 1.0.0
+confidence: high
+maturity: developing
+source: original
+created: [YYYY-MM-DD]
+modified: [YYYY-MM-DD]
+series: "The Architecture of the Examined Life"
+tags:
+  - examined-life
+  - dashboard
+  - navigation
+  - meta
+aliases:
+  - "Dashboard"
+  - "PKB Overview"
+link-up: "[[Index-The-Architecture-of-the-Examined-Life]]"
+accessibility-level: intermediate
+---
+
+# 📊 Dashboard: The Examined Life PKB
+
+---
+
+## PKB Statistics
+
+### Report Notes
+```dataview
+TABLE report-number as "#", report-title as "Title", tier as "Tier", status as "Status"
+FROM #report OR #synthesis
+WHERE series = "The Architecture of the Examined Life"
+SORT report-number ASC
+```
+
+### All Notes by Type
+```dataview
+TABLE WITHOUT ID type as "Type", length(rows) as "Count"
+FROM #examined-life
+GROUP BY type
+SORT length(rows) DESC
+```
+
+### Notes by Status
+```dataview
+TABLE WITHOUT ID status as "Status", length(rows) as "Count"
+FROM #examined-life
+GROUP BY status
+SORT length(rows) DESC
+```
+
+---
+
+## Recent Updates
+
+```dataview
+TABLE WITHOUT ID link(file.name) as "Note", type as "Type", status as "Status", modified as "Modified"
+FROM #examined-life
+SORT modified DESC
+LIMIT 10
+```
+
+---
+
+## Navigation Hub
+
+**Core Resources:**
+- [[Index-The-Architecture-of-the-Examined-Life|📜 Index (Start Here)]]
+- [[Glossary-Examined-Life-Key-Terms|📖 Glossary]]
+- [[Developmental-Staging-of-the-Examined-Life|🌱 Developmental Staging]]
+- [[Methodology-Research-Methods-and-Standards|🔬 Methodology]]
+
+**By Tier:**
+- **Tier 1 — Epistemic:** Reports 01–08
+- **Tier 2 — Practical:** Reports 09–12
+- **Tier 3 — Integrative:** Reports 13–15
+
+---
+
+## Most-Cited References
+
+```dataview
+TABLE WITHOUT ID link(file.name) as "Reference", length(cited-in-reports) as "Reports Cited In", domain as "Domain"
+FROM #reference
+WHERE series = "The Architecture of the Examined Life"
+SORT length(cited-in-reports) DESC
+LIMIT 15
+```
+
+---
+
+## Tag Overview
+
+```dataview
+TABLE WITHOUT ID tag as "Tag", length(rows) as "Notes"
+FROM #examined-life
+FLATTEN tags as tag
+GROUP BY tag
+SORT length(rows) DESC
+LIMIT 20
+```
+
+---
+
+## Graph View Tips
+
+> [!tip] Getting the Most from Graph View
+> - **Color by tag:** Set `T1-epistemic`, `T2-practical`, and `T3-integrative` to different colors to see the three-tier structure
+> - **Filter to reports only:** Use the `#report` tag filter to see just the 15-report network
+> - **Find hubs:** The Glossary and Report 15 should have the most connections
+> - **Look for clusters:** Reports within a tier should cluster together, with cross-tier bridges visible
+
+---
+
+> [!nav] Navigation
+> [[Index-The-Architecture-of-the-Examined-Life|Return to Index]]
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 📋 Content Extraction Guide
+## Report-by-Report Extraction Protocol for PKB Generation
+
+**Version:** 1.0.0
+**Created:** 2026-03-01
+**Purpose:** Precise instructions for extracting content from the master document into PKB note templates
+**Source Document:** `the-architecture-of-the-examined-life.md` (~9,555 lines)
+
+---
+
+## How This Guide Works
+
+The source document is highly structured. Each report contains rich YAML frontmatter and a consistent six-phase body structure. This guide maps **source material locations → PKB note sections** for each report, ensuring no key insight, synthesis move, or connection is lost during extraction.
+
+For each report, the guide specifies:
+1. **Source Location** — where in the master document to find the content
+2. **YAML Extraction** — which frontmatter fields map directly to PKB metadata
+3. **Content Extraction Map** — which source sections feed which PKB template sections
+4. **Transformation Notes** — how to adapt scholarly content for the family audience
+
+---
+
+## Universal Extraction Protocol (Applies to ALL Report Notes)
+
+### Step 1: Extract YAML Metadata
+
+Every source report contains detailed YAML frontmatter. Map these fields directly:
+
+| Source YAML Field | → PKB YAML Field | Notes |
+|---|---|---|
+| `title` | `report-title` | Direct copy |
+| `series-report-number` | `report-number` | Convert to integer |
+| `tier` | `tier` | Map: "1" → "T1-Epistemic", "2" → "T2-Practical", "3" → "T3-Integrative" |
+| `frameworks-synthesized` | `frameworks` | Extract framework names only (strip citations) |
+| `key-researchers` | `key-researchers` | Extract surnames only |
+| `central-synthesis-argument` | Use for "Big Idea" section | Rewrite accessibly |
+| `emergent-insight` | `emergent-insight` + Synthesis Moves section | Copy verbatim for metadata; rewrite accessibly for body |
+| `core-tensions` | Synthesis Moves section | Each tension → a "Conceptual Tension Resolved" callout |
+| `series-connections.builds-from` | `builds-from` | Convert to wiki-link format |
+| `series-connections.enables` | `enables` | Convert to wiki-link format |
+| `series-connections.retroactively-enriches` | "How This Connects" section | Narrative explanation |
+| `expansion-topics` | Expansion Topics section + separate Expansion Notes | Each topic → one reference + one potential standalone note |
+| `limitations-noted` | "Honest Limitations" section | Direct adaptation |
+| `tags` | `tags` | Remap to PKB tag taxonomy (see 03-Linking-Tagging-Reference) |
+| `synthesis-moves-applied` | `synthesis-type` | Map to primary type |
+
+### Step 2: Extract Body Content by Phase
+
+Every report follows a six-phase structure. Map phases to PKB sections:
+
+| Source Phase | → PKB Section(s) | Extraction Strategy |
+|---|---|---|
+| **Phase I: The Premise** | "The Big Idea" (primary), Quick Reference callout | Phase I contains the motivating question and foundational framing. Distill into 2–3 accessible paragraphs for "The Big Idea." The core question becomes the Key Question in the Index Note table. |
+| **Phase II: The Exposition** | "Core Concepts" (primary), Glossary entries, Reference Notes | Phase II introduces the frameworks and key thinkers. Each framework → a Core Concept entry. Each thinker → a potential Reference Note. Key definitions → Glossary entries. |
+| **Phase III: The Dialectic** | "Synthesis Moves" (primary), "Key Insights" | Phase III is the intellectual heart. Structural homologies → Synthesis Move callouts. Tension resolutions → Synthesis Move callouts. Novel claims → Key Insight entries. |
+| **Phase IV: The Application** | "Practical Implications", "Worked Example Summary" | Phase IV contains the worked example and practical relevance. Condense the worked example to 1–2 paragraphs. Extract practical takeaways for everyday life. |
+| **Phase V: The Synthesis** | "Key Insights" (emergent), "How This Connects", "Honest Limitations", "Expansion Topics" | Phase V contains emergent insights, cross-report connections, and limitations. Emergent insights → Key Insights with [!tip] callouts. Connections → "How This Connects" narrative. Limitations → "Honest Limitations" callout. |
+| **Phase VI: Appendix** | "Core Concepts" (definitions), "References", Glossary entries | Phase VI contains the lexicon ([!definition] callouts), references ([!cite] callouts), and expansion topics. Definitions → Glossary entries + Core Concepts in Report Note. Citations → Reference Note candidates. |
+
+### Step 3: Write "The Big Idea" (Accessibility Transformation)
+
+This is the most important transformation step. The source material is written at an advanced academic level. "The Big Idea" must be rewritten for the family audience.
+
+**Transformation Protocol:**
+1. Start with the `central-synthesis-argument` from YAML
+2. Ask: "If I had to explain this to my parents over dinner, what would I say?"
+3. Open with a concrete, everyday scenario that illustrates the problem the report addresses
+4. Explain the key insight in 2–3 sentences using no unexplained technical terms
+5. Close with why this matters for everyday life
+6. Target: 150–300 words, reading level ~12th grade
+
+**Quality Test:** Read the Big Idea aloud. If you'd naturally pause to define a term for a non-specialist listener, either define it inline or replace it with a simpler phrase.
+
+### Step 4: Write "Why This Matters" Anchors
+
+For each Key Insight, write a 1–2 sentence "Why This Matters" connection to everyday experience.
+
+**Formula:** "[Abstract concept] means that in everyday life, [concrete implication]. For example, [specific situation anyone would recognize]."
+
+---
+
+## Report-Specific Extraction Maps
+
+### Report 01: The Inquiry Engine
+**Source Location:** Lines ~1510–2035
+**Word Count:** ~10,500 words
+**Content Status:** Full report (complete)
+
+**YAML Location:** Lines 1513–1697
+**Body Start:** Line 1699 ("# The Inquiry Engine: How Reflective Thought Is Activated")
+
+#### Key Extractions:
+
+| What to Extract | Source Location | Destination |
+|---|---|---|
+| Central synthesis: four frameworks describe one activation mechanism | YAML `central-synthesis-argument` (line 1604) | Big Idea, Quick Reference |
+| Emergent insight: Aporic Receptivity | YAML `emergent-insight` (line 1606) | Key Insight #1, Glossary |
+| Tension: Why is inquiry effortful if beneficial? | YAML `core-tensions` (line 1608) | Synthesis Moves |
+| Tension: Is aporia destination or launching pad? | YAML `core-tensions` | Synthesis Moves |
+| Dewey's five-step model | Phase II body | Core Concepts |
+| Socratic elenchus reconstruction | Phase II body | Core Concepts |
+| Dual Process activation account | Phase II body | Core Concepts |
+| Metacognitive feeling-of-not-knowing | Phase II body | Core Concepts |
+| Structural homology: felt difficulty ≈ aporia ≈ conflict detection ≈ FOK | Phase III body | Synthesis Moves (Structural Homology) |
+| Worked example | Phase IV body | Worked Example Summary |
+| 6 expansion topics | YAML `expansion-topics` (lines 1650–1668) | Expansion Topics section + Expansion Notes |
+| 4 limitations | YAML `limitations-noted` (lines 1681–1685) | Honest Limitations |
+| Phase VI definitions | Phase VI body (~line 1928+) | Glossary entries |
+| Phase VI references | Phase VI body | Reference Note candidates |
+
+#### Big Idea Framing (Report 01):
+> What sparks genuine thinking? Not facts, not instructions — but *puzzlement*. When something doesn't match what you expected, your brain shifts gears from autopilot to active inquiry. This report discovers that four different traditions — Dewey's pragmatist philosophy, Socratic questioning, modern brain science, and research on how we monitor our own thinking — are all describing the exact same moment: the moment when confusion becomes productive. The key insight is that being genuinely puzzled isn't a failure of understanding; it's the engine that makes real understanding possible.
+
+#### Glossary Terms to Extract:
+- Felt Difficulty (Dewey)
+- Aporia / Socratic Aporia
+- Aporic Receptivity (emergent concept)
+- Dual Process Theory / System 1 / System 2
+- Metacognitive Monitoring
+- Conflict Detection
+- Actively Open-Minded Thinking (AOT)
+- Information Gap Theory (Loewenstein)
+- Elenchus / Elenctic Method
+- Reflective Thinking (Dewey's five stages)
+
+#### Reference Note Candidates:
+- Dewey, "How We Think" (1910/1933) — **High priority** (foundational across series)
+- Kahneman, "Thinking, Fast and Slow" (2011) — **High priority** (cited in 5+ reports)
+- Stanovich & West, AOT research — Medium priority
+- Loewenstein, Information Gap Theory — Medium priority
+- De Neys, Conflict Monitoring research — Medium priority
+
+---
+
+### Report 02: The Fallible Knower
+**Source Location:** Lines ~2038–2500
+**Word Count:** ~9,000 words
+**Content Status:** Full report (complete)
+
+**YAML Location:** Lines 2041–2234
+**Body Start:** Line 2238
+
+#### Key Extractions:
+
+| What to Extract | Source Location | Destination |
+|---|---|---|
+| Central synthesis: fallibilism IS metacognitive self-regulation | YAML `central-synthesis-argument` (line 2146) | Big Idea |
+| Emergent insight: philosophical/psychological identity | YAML `emergent-insight` (line 2147) | Key Insight #1 |
+| Peirce's fallibilism | Phase II body | Core Concepts |
+| Constructivism (Piaget, von Glasersfeld) | Phase II body | Core Concepts |
+| Schema theory (Bartlett, Rumelhart) | Phase II body | Core Concepts |
+| Pragmatic maxim (consequences define meaning) | Phase II body | Core Concepts |
+| Stoic prosoche as epistemic practice | Phase II–III body | Core Concepts, Connection to Report 06 |
+| Structural homology: epistemological posture ≈ self-regulation | Phase III body | Synthesis Moves |
+| Bidirectional enrichment back to Report 01 | Phase V body | How This Connects |
+
+#### Big Idea Framing (Report 02):
+> How should you hold your own beliefs? Not as precious possessions to defend, but as useful tools that might need replacing. This report synthesizes five different ways of thinking about knowledge — from a 19th-century American philosopher (Peirce) to Swiss developmental psychology (Piaget) to ancient Stoic attention practices — and discovers they're all saying the same thing: the best thinkers treat their beliefs as *provisional constructions* that earn their keep through real-world consequences. The revolutionary finding is that this philosophical stance and the psychological skill of monitoring your own thinking are not just similar — they're the same thing viewed from different angles.
+
+#### Glossary Terms to Extract:
+- Fallibilism
+- Constructivism
+- Schema / Schema Theory
+- Pragmatic Maxim
+- Epistemic Humility
+- Epistemic Permeability
+- Prosoche (Stoic attention)
+- Belief Revision
+- Radical Constructivism (von Glasersfeld)
+
+---
+
+### Report 03: The Motivated Mind
+**Source Location:** Lines ~2503–2998
+**Word Count:** ~8,500 words
+**Content Status:** Full report (complete)
+
+**YAML Location:** Lines 2506–2678 (approximately)
+**Body Start:** Line ~2687
+
+#### Key Extractions:
+
+| What to Extract | Source Location | Destination |
+|---|---|---|
+| Central synthesis: single motivational architecture | YAML `central-synthesis-argument` (line 2585) | Big Idea |
+| Emergent insight: Cognitive Vitality | YAML `emergent-insight` (line 2587) | Key Insight #1, Glossary |
+| Self-Determination Theory (Deci & Ryan) | Phase II body | Core Concepts |
+| Flow (Csikszentmihalyi) | Phase II body | Core Concepts |
+| Growth Mindset (Dweck) | Phase II body | Core Concepts |
+| Stoic prohairesis (moral purpose/will) | Phase II body | Core Concepts |
+| Tension: Is motivation cognitive or emotional? | Phase III body | Synthesis Moves |
+| Self-perpetuating motivation loop | Phase III–IV body | Key Insight, Practical Implications |
+
+#### Big Idea Framing (Report 03):
+> Thinking well is hard work — so what keeps you doing it? This report discovers that four different answers to this question — psychological need for autonomy, the experience of "flow," believing your brain can grow, and an ancient Stoic idea about the will — are all describing pieces of the same motivational engine. The key insight: when the right conditions come together, excellent thinking becomes *its own reward*, creating a positive feedback loop the report calls "Cognitive Vitality." This matters because it means you don't have to white-knuckle your way to better thinking — you can design the conditions that make it self-sustaining.
+
+#### Glossary Terms to Extract:
+- Self-Determination Theory
+- Autonomy / Competence / Relatedness (SDT basic needs)
+- Flow / Flow State
+- Growth Mindset
+- Prohairesis (Stoic)
+- Cognitive Vitality (emergent concept)
+- Intrinsic Motivation
+- Internalization (SDT)
+
+---
+
+### Report 04: Cognitive Scaffolding
+**Source Location:** Lines ~3000–3550
+**Word Count:** ~9,000 words
+**Content Status:** Full report (complete)
+
+#### Key Extractions:
+- Central synthesis: understanding as constructive integration at capacity limits
+- Emergent insight: "Principled Improvisation" — scaffolding as responsive, not scripted
+- ZPD (Vygotsky), Schema Theory (Piaget), Cognitive Load Theory (Sweller)
+- Structural homology: ZPD ≈ schema accommodation zone ≈ optimal cognitive load zone
+- Bidirectional: transforms Report 01's activation into a sustained building process
+
+#### Glossary Terms: Zone of Proximal Development, Scaffolding, Cognitive Load Theory (intrinsic/extraneous/germane), Schema Accommodation, Principled Improvisation, More Knowledgeable Other
+
+---
+
+### Report 05: The Virtuous Reasoner
+**Source Location:** Lines ~3553–4140
+**Word Count:** ~10,000 words
+**Content Status:** Full report (complete)
+
+#### Key Extractions:
+- Central synthesis: intellectual character as cognitive infrastructure
+- Emergent insight: virtue as the operating system, not an add-on
+- Intellectual virtues (Zagzebski, Baehr): humility, curiosity, courage, thoroughness
+- Stoic cardinal virtues integration
+- Structural homology: intellectual virtues ≈ epistemic character ≈ cognitive dispositions
+- Critical for: understanding why techniques alone fail without character
+
+#### Glossary Terms: Intellectual Virtues, Virtue Epistemology, Intellectual Humility, Intellectual Courage, Intellectual Thoroughness, Phronesis (introduced here, developed in Report 11), Character Education, Epistemic Character
+
+---
+
+### Report 06: Taming System 1
+**Source Location:** Lines ~4141–4638
+**Word Count:** ~9,500 words
+**Content Status:** Full report (complete)
+
+#### Key Extractions:
+- Central synthesis: Stoic prosoche and metacognitive monitoring are functionally identical
+- Emergent insight: the "attention gap" between stimulus and response as the site of cognitive freedom
+- Dual Process Theory deep dive (Kahneman, Stanovich, Evans)
+- Cognitive bias taxonomy
+- Debiasing interventions (Lilienfeld)
+- **Critical bidirectional enrichment:** Report 10 later transforms this from "governing obstacles" to "calibrating signals"
+
+#### Glossary Terms: System 1, System 2, Cognitive Bias, Confirmation Bias, Anchoring, Availability Heuristic, Debiasing, Prosoche, Metacognitive Regulation, Attention Gap
+
+#### Special Note:
+Report 06 is retroactively enriched by Report 10 (emotions). The PKB note must include a forward-reference indicating how Report 10 transforms the understanding of bias governance from *suppression* to *calibration*.
+
+---
+
+### Report 07: The Self-Directed Learner
+**Source Location:** Lines ~4639–5105
+**Word Count:** ~8,500 words
+**Content Status:** Full report (complete)
+
+#### Key Extractions:
+- Central synthesis: the learner as architect of their own learning system
+- Self-Regulated Learning (Zimmerman, Winne)
+- SDT internalization continuum (revisited from Report 03)
+- Constructivist learning architecture
+- Personal Learning Environment design
+
+#### Glossary Terms: Self-Regulated Learning, Forethought-Performance-Reflection cycle, Personal Learning Architecture, Learning Strategy, Metacognitive Strategy, Deep vs. Surface Processing
+
+---
+
+### Report 08: The Examined Life in Practice (Tier 1 Capstone)
+**Source Location:** Lines ~5105–5509
+**Word Count:** ~8,000 words
+**Content Status:** Full report (complete)
+
+#### Key Extractions:
+- Central synthesis: the framework describes what an excellent thinker *is*, not how to think excellently
+- This is the Tier 1 capstone — integrates Reports 01–07 into a unified vision
+- The integrated epistemic framework as a single cognitive orientation
+- **Key pivot insight:** being vs. doing distinction
+- Honest limitations of the purely epistemic framework (motivates Tier 2)
+
+#### Special Note:
+Report 08's acknowledged limitations directly motivate Reports 09–12. The PKB note must clearly articulate: "The examined life requires more than excellent thinking. It requires a body, emotions, practical judgment, and community." This sets up Tier 2.
+
+---
+
+### Report 09: The Embodied Thinker
+**Source Location:** Lines ~5509–6018
+**Word Count:** ~9,000 words
+**Content Status:** Full report (complete)
+
+#### Key Extractions:
+- Central synthesis: the body as constitutive component, not just vessel
+- Embodied cognition (Varela, Thompson, Rosch)
+- Interoception (Craig, Seth)
+- Somatic Marker Hypothesis (Damasio)
+- Allostasis and body budgeting (Barrett)
+- **Emergent insight:** "Physiological Metacognition" — bodily awareness as a form of self-monitoring
+- **Major bidirectional enrichment:** transforms Report 04 (cognitive load now includes physiological load) and Report 06 (bias vulnerability has physiological modulators)
+
+#### Glossary Terms: Embodied Cognition, Interoception, Somatic Markers, Allostasis, Body Budget, Physiological Metacognition, Grounded Cognition, Enactivism
+
+---
+
+### Report 10: The Feeling Reasoner
+**Source Location:** Lines ~6018–6652
+**Word Count:** ~10,000 words
+**Content Status:** Full report (complete)
+
+#### Key Extractions:
+- Central synthesis: emotions as parallel cognitive channel, not obstacles
+- Constructed Emotion Theory (Barrett)
+- Appraisal Theory (Lazarus, Scherer)
+- Stoic pathē/eupatheia reinterpretation
+- **Emergent insight:** "Emotional Granularity as Epistemic Precision"
+- **CRITICAL bidirectional enrichment:** retroactively transforms Report 06 — debiasing becomes *calibration* not *suppression*; emotions go from obstacles to epistemic partners
+- Affective Realism (Barrett)
+
+#### Glossary Terms: Constructed Emotion, Emotional Granularity, Appraisal Theory, Pathē (Stoic passions), Eupatheia (Stoic good passions), Affective Realism, Emotional Calibration, Emotion Regulation, Emotional Intelligence
+
+#### Special Note:
+This report creates the single most important bidirectional enrichment in the series. The PKB note for Report 06 must include a prominent callout pointing to Report 10's transformation. The Report 10 note must explicitly articulate how it changes the meaning of Report 06.
+
+---
+
+### Report 11: The Practical Reasoner
+**Source Location:** Lines ~6652–7177
+**Word Count:** ~8,000 words
+**Content Status:** Full report (complete — was originally listed as stub but completed)
+
+#### Key Extractions:
+- Central synthesis: phronesis as irreducible cognitive capacity
+- Aristotelian phronesis (Aristotle, Dunne)
+- Naturalistic Decision Making (Klein)
+- Ecological Rationality (Gigerenzer)
+- Stoic kathekon (appropriate action)
+- The deliberation-action bridge problem
+- **Emergent insight:** practical wisdom requires a different mode than theoretical reasoning
+
+#### Glossary Terms: Phronesis, Kathekon, Naturalistic Decision Making, Recognition-Primed Decision, Ecological Rationality, Fast and Frugal Heuristics, Analysis Paralysis, Satisficing, Deliberation-Action Gap
+
+---
+
+### Report 12: The Social Thinker
+**Source Location:** Lines ~7177–7686
+**Word Count:** ~8,500 words
+**Content Status:** Full report (complete)
+
+#### Key Extractions:
+- Central synthesis: thinking as inherently social, not merely individual
+- Distributed Cognition (Hutchins)
+- Social Epistemology (Goldman, Fricker)
+- Epistemic Injustice (Fricker)
+- Stoic cosmopolitanism
+- Argumentative Theory (Mercier & Sperber)
+- **Emergent insight:** the examined life cannot be practiced in isolation
+
+#### Glossary Terms: Distributed Cognition, Social Epistemology, Epistemic Injustice, Testimonial Injustice, Hermeneutical Injustice, Cosmopolitanism, Argumentative Theory, Collective Intelligence, Epistemic Community, Groupthink
+
+---
+
+### Report 13: The Predictive Mind
+**Source Location:** Lines ~7686–8218
+**Word Count:** ~9,000 words
+**Content Status:** Full report (complete)
+
+#### Key Extractions:
+- Central synthesis: predictive processing as computational unification of entire framework
+- Predictive Processing (Friston, Clark, Hohwy)
+- Active Inference
+- Free Energy Principle
+- **Master structural homology:** PP unifies ALL previous reports:
+  - Felt difficulty (Report 01) = prediction error
+  - Schema theory (Reports 02, 04) = generative models
+  - Cognitive load (Report 04) = prediction error processing costs
+  - System 1 (Report 06) = cached predictions
+  - Metacognition = higher-order prediction error
+  - Emotions (Report 10) = interoceptive predictions
+  - Embodied cognition (Report 09) = embodied predictions
+- **Emergent insight:** "Precision Weighting as the Mechanism of the Examined Life"
+
+#### Glossary Terms: Predictive Processing, Prediction Error, Active Inference, Free Energy Principle, Generative Model, Precision Weighting, Prior Beliefs (Bayesian), Expected Precision, Model Evidence, Surprise Minimization
+
+#### Special Note:
+This is the most technically challenging report for the family audience. The Big Idea section must work extra hard to make predictive processing intuitive. Suggested analogy: "Your brain is constantly making guesses about what's coming next — and learning from its mistakes. Everything the previous 12 reports described is an aspect of this one process."
+
+---
+
+### Report 14: The Meaningful Life
+**Source Location:** Lines ~8218–8802
+**Word Count:** ~9,500 words
+**Content Status:** Full report (complete)
+
+#### Key Extractions:
+- Central synthesis: the examined life needs a *purpose* — narrative identity provides it
+- Narrative Identity (McAdams, Ricoeur)
+- Logotherapy (Frankl)
+- Eudaimonia (Aristotle)
+- Life as authorship metaphor
+- **Emergent insight:** meaning-making as a form of higher-order predictive processing
+- Connection: narrative identity as the "master model" in PP terms
+
+#### Glossary Terms: Narrative Identity, Eudaimonia, Logotherapy, Meaning-Making, Life Story, Redemptive Narrative, Contamination Narrative, Narrative Coherence, Purpose, Telos
+
+---
+
+### Report 15: The Examined Life Revisited (Capstone)
+**Source Location:** Lines ~8802–9384 (approximately)
+**Word Count:** ~10,000+ words
+**Content Status:** Full report (complete)
+
+#### Key Extractions:
+- This report is DUAL-PURPOSE: Report Note + Synthesis Note
+- Full integration of all 14 preceding reports
+- The concept of Integrated Cognitive Personhood
+- The five-stage Developmental Staging Model (detailed)
+- Framework limitations (comprehensive)
+- Open questions for future research
+- Two worked examples (epistemic challenge + practical life challenge)
+
+#### Special Extraction Requirements:
+1. **Architecture Map:** Extract the complete mapping of how all 15 reports interconnect
+2. **Developmental Staging:** Extract full five-stage model → feeds the dedicated Staging Note
+3. **Limitations:** Extract all acknowledged limitations → most important for intellectual honesty
+4. **Open Questions:** Extract → feeds Expansion Topic Notes
+5. **Both worked examples:** Extract and condense for the note
+
+#### Glossary Terms: Integrated Cognitive Personhood, Developmental Staging, Conscious Incompetence, Deliberate Practice (in examined life context), Prokoptōn (Stoic), Sophos (Stoic wise person)
+
+---
+
+## Cross-Report Extraction: Bidirectional Enrichment Matrix
+
+This matrix captures how later reports retroactively transform earlier ones. Every Report Note must include these forward/backward references.
+
+| Later Report | Transforms | From → To |
+|---|---|---|
+| Report 09 (Body) | Report 04 (Scaffolding) | Cognitive load → includes physiological load |
+| Report 09 (Body) | Report 06 (System 1) | Bias vulnerability → modulated by bodily state |
+| Report 10 (Emotions) | Report 03 (Motivation) | Motivation as fuel → motivation as information + fuel |
+| **Report 10 (Emotions)** | **Report 06 (System 1)** | **Debiasing as suppression → Debiasing as calibration** |
+| Report 11 (Phronesis) | Report 08 (Practice) | Epistemic excellence → requires action component |
+| Report 12 (Social) | Report 01 (Inquiry) | Individual inquiry → socially embedded inquiry |
+| Report 12 (Social) | Report 05 (Virtue) | Individual virtue → socially situated virtue |
+| Report 13 (PP) | ALL previous | Description → mechanistic explanation |
+| Report 14 (Meaning) | Report 03 (Motivation) | Intrinsic motivation → motivation requires existential grounding |
+| Report 14 (Meaning) | Report 13 (PP) | Prediction machine → prediction machine with narrative purpose |
+| Report 15 (Capstone) | ALL previous | Components → integrated personhood |
+
+---
+
+## Reference Note Extraction Strategy
+
+### Priority 1 (Cited in 5+ Reports — Generate Immediately):
+1. **Dewey** — "How We Think" (1910/1933) — foundational across Tier 1
+2. **Kahneman** — "Thinking, Fast and Slow" (2011) — dual process theory everywhere
+3. **Stanovich** — AOT and rationality research — Reports 01, 05, 06, 07
+4. **Barrett, L.F.** — Constructed emotion theory — Reports 09, 10, 13
+5. **Damasio** — "Descartes' Error" / somatic markers — Reports 09, 10, 11, 13
+6. **Vygotsky** — ZPD — Reports 04, 07, 12
+7. **Piaget** — Constructivism/schemas — Reports 02, 04, 07
+8. **Aristotle** — Phronesis/eudaimonia — Reports 05, 11, 14
+
+### Priority 2 (Cited in 3–4 Reports):
+9. **Friston/Clark** — Predictive processing — Reports 09, 13, 15
+10. **Csikszentmihalyi** — Flow — Reports 03, 07
+11. **Deci & Ryan** — SDT — Reports 03, 07
+12. **Dweck** — Growth Mindset — Reports 03, 05
+13. **Epictetus/Marcus Aurelius** — Stoic practice — Reports 02, 05, 06, 10
+14. **Flavell** — Metacognition — Reports 01, 06, 07
+15. **Fricker** — Epistemic Injustice — Reports 05, 12
+
+### Priority 3 (Important for Specific Reports):
+16. **Klein** — Naturalistic Decision Making — Report 11
+17. **Gigerenzer** — Ecological Rationality — Report 11
+18. **McAdams** — Narrative Identity — Report 14
+19. **Frankl** — Logotherapy — Report 14
+20. **Hutchins** — Distributed Cognition — Report 12
+21. **Sweller** — Cognitive Load Theory — Report 04
+22. **Zimmerman** — Self-Regulated Learning — Report 07
+23. **De Neys** — Conflict Monitoring — Report 01
+24. **Seth** — Interoceptive Inference — Report 09
+25. **Vlastos** — Socratic Method Reconstruction — Report 01
+
+---
+
+## Connection Note Extraction Strategy
+
+Identify connection opportunities during report extraction. These are bridges to ideas the family audience might already know.
+
+| Connection Note | Primary Bridge Reports | Why This Connection Matters for Audience |
+|---|---|---|
+| Mindfulness & Contemplative Practice | Reports 02, 06, 09 | Family may practice mindfulness — show how it relates |
+| Cognitive Behavioral Therapy (CBT) | Reports 06, 10 | Common therapy approach — show framework parallels |
+| Growth Mindset (Popular Version) | Reports 03, 05 | Dweck is widely known — show deeper treatment |
+| Emotional Intelligence (Popular vs. Scholarly) | Report 10 | EQ is familiar — show what the research actually says |
+| Systems Thinking | Reports 12, 13 | Thinking in wholes, not parts |
+| Classical Education / Liberal Arts | Reports 01, 05, 08 | "Why study philosophy?" becomes concrete |
+| Religious & Spiritual Self-Examination | Reports 02, 05, 14 | Prayer, meditation, confession as examined-life practices |
+| Digital Literacy & Information Hygiene | Reports 06, 12 | Navigating misinformation — immediately practical |
+| Parenting & Child Development | Reports 04, 07, 09 | Scaffolding, self-direction, embodiment in parenting |
+| Professional Decision-Making | Reports 06, 11 | Medicine, law, business decisions |
+
+---
+
+## Expansion Topic Note Extraction Strategy
+
+Each report identifies 5–6 expansion topics in YAML and Phase VI. Total across 15 reports: ~75–90 expansion topics.
+
+**Selection Criteria for Standalone Expansion Notes (target 15–25):**
+1. Mentioned in 3+ reports → definitely create
+2. High practical relevance for family audience → create
+3. Active contemporary research area → create
+4. Connected to a Connection Note topic → consider combining
+
+**Categories of Expansion Topics Across Series:**
+- Neuroscience deep dives (curiosity circuits, prediction error, interoception)
+- Pedagogical applications (inquiry-based learning, scaffolding design)
+- Technology intersections (AI and cognition, digital environments)
+- Clinical applications (CBT mechanisms, therapeutic scaffolding)
+- Cultural variations (cross-cultural virtue concepts, collectivist epistemology)
+- Developmental trajectories (children's metacognition, aging and cognition)
+
+---
+
+## Glossary Extraction Protocol
+
+### Phased Extraction Schedule
+
+| Phase | Reports Extracted | Estimated Terms | Running Total |
+|---|---|---|---|
+| Phase 1 (Foundation) | Reports 01–03 (initial) | ~30 terms | ~30 |
+| Phase 2 (Tier 1) | Reports 01–08 | ~55 additional terms | ~85 |
+| Phase 3 (Tier 2) | Reports 09–12 | ~35 additional terms | ~120 |
+| Phase 4 (Tier 3) | Reports 13–15 | ~25 additional terms | ~145 |
+| Phase 5 (Cleanup) | Cross-references, deduplication | Net reduction ~15 | ~130 |
+
+### Glossary Entry Quality Checklist
+For each term, ensure:
+- [ ] Definition is accessible without specialist knowledge
+- [ ] Everyday example is concrete and relatable
+- [ ] "Introduced in" field links to correct Report Note
+- [ ] "Also appears in" captures all significant appearances
+- [ ] "Related concepts" links to other Glossary entries
+- [ ] No circular definitions (Term A defined by Term B defined by Term A)
+
+---
+
+## Extraction Quality Assurance
+
+### Per-Report Extraction Checklist
+
+After extracting content for each report, verify:
+
+- [ ] **Metadata complete:** All YAML fields populated from source
+- [ ] **Big Idea written:** Accessible, warm, jargon-free
+- [ ] **All Key Insights captured:** 3–5 from source Phases III and V
+- [ ] **All Synthesis Moves captured:** Homologies, tensions, emergent insights from Phase III
+- [ ] **Core Concepts complete:** Every key term defined with Glossary link
+- [ ] **How This Connects written:** Both backward (builds-from) and forward (enables) links
+- [ ] **Bidirectional enrichment articulated:** If applicable per the matrix above
+- [ ] **Practical Implications written:** Everyday examples, not just abstract claims
+- [ ] **Worked Example condensed:** From Phase IV, reduced to 1–2 paragraphs
+- [ ] **Limitations preserved:** Nothing whitewashed or omitted
+- [ ] **Expansion Topics listed:** With links to existing/planned Expansion Notes
+- [ ] **References linked:** Key sources linked to Reference Note candidates
+- [ ] **Glossary entries queued:** All new terms added to extraction queue
+- [ ] **Navigation footer complete:** Previous/Next/Index links correct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
