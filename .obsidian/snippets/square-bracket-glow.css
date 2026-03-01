@@ -7,42 +7,85 @@
 :root {
   --red-glow: #ff0000ff;
   --red-glow-bright: #ff3333;
-  --red-shadow: rgba(255, 0, 0, 1);
-  --bracket-shadow: 0 0 4px var(--red-shadow), 0 0 8px var(--red-shadow);
+  --red-shadow: rgba(255, 0, 0, 0.7);
+  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 5px var(--red-shadow);
 }
 
 /* ═══ OBSIDIAN INTERNAL LINKS - Most Common Use Case ═══ */
-/* Link formatting brackets in source mode */
-.cm-formatting.cm-formatting-link {
+/* EDITOR MODE - All wiki link brackets */
+
+/* CM6 (Modern Obsidian) - Maximum specificity */
+body .markdown-source-view.mod-cm6 .cm-line .cm-formatting.cm-formatting-link,
+body .markdown-source-view.mod-cm6 .cm-formatting-link,
+body .cm-editor .cm-line .cm-formatting.cm-formatting-link,
+body .cm-content .cm-formatting.cm-formatting-link,
+body .cm-content .cm-line .cm-formatting-link,
+.workspace-leaf-content .cm-formatting.cm-formatting-link,
+div.cm-editor .cm-formatting-link {
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: 900 !important;
-  filter: brightness(1.2) !important;
+  filter: brightness(1.2) drop-shadow(0 0 3px var(--red-shadow)) !important;
+  opacity: 1 !important;
+  display: inline !important;
+  visibility: visible !important;
 }
 
-/* Link brackets in CodeMirror */
+/* Live Preview Mode brackets - Force visibility */
+body .markdown-source-view.mod-cm6.is-live-preview .cm-formatting-link,
+body .is-live-preview .cm-formatting.cm-formatting-link,
+body .is-live-preview .cm-line .cm-formatting-link {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  opacity: 1 !important;
+  display: inline !important;
+  visibility: visible !important;
+}
+
+/* Source Mode - Force visibility */
+body .markdown-source-view:not(.is-live-preview) .cm-formatting-link,
+.markdown-source-view.mod-cm6 .cm-content .cm-formatting-link {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  opacity: 1 !important;
+  display: inline !important;
+}
+
+/* Legacy CM5 support */
 .cm-s-obsidian .cm-formatting.cm-formatting-link {
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: 900 !important;
 }
 
-/* Modern CM6 link formatting */
-.markdown-source-view.mod-cm6 .cm-formatting-link {
-  color: var(--red-glow) !important;
-  text-shadow: var(--bracket-shadow) !important;
-  font-weight: bold !important;
-}
-
 /* ═══ ALL BRACKET-LIKE PUNCTUATION ═══ */
-/* Universal bracket targeting */
-.cm-s-obsidian .cm-bracket,
-.cm-editor .cm-bracket,
-.cm-punctuation,
+/* Universal bracket targeting with maximum specificity */
+body .cm-s-obsidian .cm-bracket,
+body .cm-editor .cm-bracket,
+body .cm-editor .cm-line .cm-bracket,
+body .cm-content .cm-bracket,
+body .cm-punctuation,
 .token.punctuation.bracket,
 span.cm-bracket {
   color: var(--red-glow-bright) !important;
   text-shadow: var(--bracket-shadow) !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Ensure wiki link brackets specifically are captured - ALL contexts */
+body .cm-hmd-internal-link .cm-formatting,
+body .cm-link .cm-formatting,
+body .markdown-source-view .cm-hmd-internal-link .cm-formatting,
+body .cm-line .cm-hmd-internal-link,
+.HyperMD-internal-link .cm-formatting {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  opacity: 1 !important;
+  visibility: visible !important;
 }
 
 /* ═══ TAG FORMATTING BRACKETS ═══ */
@@ -54,22 +97,35 @@ span.cm-bracket {
 
 /* ═══ READING MODE - ADD VISUAL BRACKETS ═══ */
 /* Add red glowing brackets around internal links in reading mode */
-.markdown-preview-view .internal-link:before,
-.markdown-rendered .internal-link:before {
-  content: '[';
+.markdown-preview-view .internal-link::before,
+.markdown-rendered .internal-link::before,
+.markdown-reading-view .internal-link::before {
+  content: '[[' !important;
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
-  margin-right: 1px;
+  margin-right: 0px;
+  filter: drop-shadow(0 0 3px var(--red-shadow)) !important;
 }
 
-.markdown-preview-view .internal-link:after,
-.markdown-rendered .internal-link:after {
-  content: ']';
+.markdown-preview-view .internal-link::after,
+.markdown-rendered .internal-link::after,
+.markdown-reading-view .internal-link::after {
+  content: ']]' !important;
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
-  margin-left: 1px;
+  margin-left: 0px;
+  filter: drop-shadow(0 0 3px var(--red-shadow)) !important;
+}
+
+/* Remove glow from the link text itself in reading mode */
+.markdown-preview-view .internal-link,
+.markdown-rendered .internal-link,
+.markdown-reading-view .internal-link {
+  text-shadow: none !important;
+  filter: none !important;
+  animation: none !important;
 }
 
 /* ═══ CODE CONTEXTS ═══ */
@@ -123,12 +179,12 @@ pre[class*="language-"] .token.bracket,
 
 /* ═══ THEME-SPECIFIC ADJUSTMENTS ═══ */
 .theme-dark {
-  --red-shadow: rgba(255, 0, 0, 1.0);
-  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 6px var(--red-shadow), 0 0 9px var(--red-shadow);
+  --red-shadow: rgba(255, 0, 0, 0.7);
+  --bracket-shadow: 0 0 3px var(--red-shadow), 0 0 5px var(--red-shadow);
 }
 
 .theme-light {
-  --red-shadow: rgba(255, 0, 0, 0.8);
+  --red-shadow: rgba(255, 0, 0, 0.55);
   --bracket-shadow: 0 0 2px var(--red-shadow), 0 0 4px var(--red-shadow);
 }
 
@@ -178,7 +234,7 @@ pre[class*="language-"] .token.bracket,
 
 /* INTENSE GLOW - Uncomment this section for maximum effect */
 
-/*:root {
+:root {
   --bracket-shadow: 0 0 4px var(--red-shadow), 0 0 6px var(--red-shadow), 0 0 12px var(--red-shadow)! important;
 }
 :root {
@@ -188,12 +244,154 @@ pre[class*="language-"] .token.bracket,
 
 @keyframes bracket-pulse {
   0%, 100% { text-shadow: 0 0 3px var(--red-shadow); }
-  50% { text-shadow: 0 0 8px var(--red-shadow), 0 0 12px var(--red-shadow)! important; }
+  50% { text-shadow: 0 0 5px var(--red-shadow), 0 0 8px var(--red-shadow)! important; }
 }
+
+/* Apply pulse to ALL bracket formatting - NOT to link text */
 .cm-formatting-link,
-.cm-bracket {
+.cm-formatting.cm-formatting-link,
+body .cm-formatting.cm-formatting-link,
+body .markdown-source-view .cm-formatting-link,
+.cm-bracket,
+.markdown-preview-view .internal-link::before,
+.markdown-preview-view .internal-link::after,
+.is-live-preview .cm-underline::before,
+.is-live-preview .cm-underline::after,
+.is-live-preview .cm-link::before,
+.is-live-preview .cm-link::after {
   animation: bracket-pulse 2s infinite ease-in-out !important;
 }
+
+/* ═══ NUCLEAR EDITOR OVERRIDE - Use if nothing else works ═══ */
+/* Force ALL formatting marks to be visible and red */
+body .workspace-leaf-content[data-type="markdown"] .cm-formatting-link,
+body .view-content .cm-formatting.cm-formatting-link,
+body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  opacity: 1 !important;
+  display: inline !important;
+  visibility: visible !important;
+  -webkit-text-fill-color: var(--red-glow) !important;
+}
+
+/* ═══ LIVE PREVIEW MODE - FORCE BRACKETS ALWAYS VISIBLE ═══ */
+/* Override Obsidian's default hiding behavior in Live Preview */
+.markdown-source-view.mod-cm6.is-live-preview .cm-formatting-link,
+.markdown-source-view.is-live-preview .cm-line .cm-formatting-link,
+.is-live-preview .cm-formatting.cm-formatting-link,
+body.is-live-preview .cm-formatting-link,
+.workspace-leaf-content .is-live-preview .cm-formatting-link {
+  opacity: 1 !important;
+  display: inline !important;
+  visibility: visible !important;
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  pointer-events: auto !important;
+  width: auto !important;
+  height: auto !important;
+  position: static !important;
+  clip: auto !important;
+  clip-path: none !important;
+  overflow: visible !important;
+  white-space: pre !important;
+  font-size: inherit !important;
+  line-height: inherit !important;
+  text-indent: 0 !important;
+  letter-spacing: normal !important;
+}
+
+/* Force visibility even when not focused */
+.markdown-source-view.is-live-preview .cm-line:not(.cm-active) .cm-formatting-link {
+  opacity: 1 !important;
+  display: inline !important;
+  visibility: visible !important;
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  width: auto !important;
+  height: auto !important;
+  position: static !important;
+  clip: auto !important;
+  overflow: visible !important;
+}
+
+/* Specific override for link wrappers that might hide content */
+.is-live-preview .cm-link {
+  display: inline !important;
+}
+
+.is-live-preview .cm-link .cm-formatting-link {
+  display: inline !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+}
+
+/* ═══ ALTERNATIVE: Force bracket rendering via pseudo-elements ═══ */
+/* If native brackets still won't show, this adds them */
+
+/* Try targeting the underline element which wraps link text in Live Preview */
+.is-live-preview .cm-underline::before,
+.is-live-preview .cm-link .cm-underline::before,
+.markdown-source-view.is-live-preview .cm-underline::before,
+.markdown-source-view.mod-cm6.is-live-preview .cm-line .cm-underline::before {
+  content: '[[' !important;
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  display: inline !important;
+  animation: bracket-pulse 2s infinite ease-in-out !important;
+}
+
+.is-live-preview .cm-underline::after,
+.is-live-preview .cm-link .cm-underline::after,
+.markdown-source-view.is-live-preview .cm-underline::after,
+.markdown-source-view.mod-cm6.is-live-preview .cm-line .cm-underline::after {
+  content: ']]' !important;
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  display: inline !important;
+  animation: bracket-pulse 2s infinite ease-in-out !important;
+}
+
+/* Backup: Also try .cm-link in case that class exists */
+.is-live-preview .cm-link::before,
+.markdown-source-view.is-live-preview .cm-line .cm-link::before {
+  content: '[[' !important;
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  display: inline !important;
+  animation: bracket-pulse 2s infinite ease-in-out !important;
+}
+
+.is-live-preview .cm-link::after,
+.markdown-source-view.is-live-preview .cm-line .cm-link::after {
+  content: ']]' !important;
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: 900 !important;
+  display: inline !important;
+  animation: bracket-pulse 2s infinite ease-in-out !important;
+}
+
+/* ═══ REMOVE GLOW FROM LINK TEXT ═══ */
+/* Keep link text normal - no glow */
+.is-live-preview .cm-underline,
+.is-live-preview .cm-link .cm-underline,
+.is-live-preview .cm-link,
+.is-live-preview .cm-hmd-internal-link,
+.markdown-source-view.is-live-preview .cm-underline {
+  text-shadow: none !important;
+  animation: none !important;
+  filter: none !important;
+}
+
 
 
 /* ══════════════════════════════════════════════════════════════════════════════════ */
@@ -226,4 +424,3 @@ pre[class*="language-"] .token.bracket,
 }
 */
 /* ══════════════════════════════════════════════════════════════════════════════════ */
-

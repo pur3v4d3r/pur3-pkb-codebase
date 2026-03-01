@@ -22,7 +22,6 @@
     "inline-code-system",
     "metadata-panel-system",
     "metadata-panel",
-    "square-bracket-glow",
     "tag-customization-system",
     "unified-callout-system",
     "glassmorphism-sidebar-system",
@@ -33,7 +32,8 @@
     "callout-mod-15-premium-card",
     "callout-mod-12-icon-style-variations",
     "callout-icon",
-    "10-mermaid"
+    "10-mermaid",
+    "square-bracket-glow"
   ],
   "interfaceFontFamily": "Google Sans Code",
   "textFontFamily": "Google Sans Code",

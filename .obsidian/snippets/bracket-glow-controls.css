@@ -27,16 +27,73 @@
 
 /* PULSE EFFECT - Uncomment this section for animated pulsing */
 
-@keyframes bracket-pulse {
-  0%, 100% { text-shadow: 0 0 3px var(--red-shadow); }
-  50% { text-shadow: 0 0 8px var(--red-shadow), 0 0 12px var(--red-shadow); }
+/* Define the color variables */
+:root {
+  --red-glow: #ff0000;
+  --red-shadow: rgba(255, 0, 0, 0.9);
 }
 
+/* Keyframe animation */
+@keyframes bracket-pulse {
+  0%, 100% { 
+    text-shadow: 0 0 3px var(--red-shadow); 
+  }
+  50% { 
+    text-shadow: 0 0 8px var(--red-shadow), 0 0 12px var(--red-shadow); 
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════ */
+/* EDITOR MODE - All wiki link brackets and formatting */
+/* ═══════════════════════════════════════════════════════════════ */
+
+/* Target all bracket formatting in editor */
+.cm-formatting.cm-formatting-link,
 .cm-formatting-link,
-.cm-bracket {
+.cm-bracket,
+span.cm-formatting.cm-formatting-link.cm-formatting-link-start,
+span.cm-formatting.cm-formatting-link.cm-formatting-link-end {
+  animation: bracket-pulse 2s infinite ease-in-out !important;
+  color: var(--red-glow) !important;
+  text-shadow: 0 0 3px var(--red-shadow) !important;
+}
+
+/* Target wiki links with aliases - both brackets and pipe */
+.cm-link-has-alias .cm-formatting-link,
+.cm-link-alias-pipe {
+  animation: bracket-pulse 2s infinite ease-in-out !important;
+  color: var(--red-glow) !important;
+  text-shadow: 0 0 3px var(--red-shadow) !important;
+}
+
+/* Target all internal link formatting */
+.cm-hmd-internal-link .cm-formatting,
+.cm-hmd-internal-link.cm-formatting-link {
+  animation: bracket-pulse 2s infinite ease-in-out !important;
+  color: var(--red-glow) !important;
+  text-shadow: 0 0 3px var(--red-shadow) !important;
+}
+
+/* ═══════════════════════════════════════════════════════════════ */
+/* READING MODE - Internal links */
+/* ═══════════════════════════════════════════════════════════════ */
+
+/* Make the whole link glow in reading mode (since brackets are hidden) */
+a.internal-link,
+.internal-link {
+  text-shadow: 0 0 3px var(--red-shadow) !important;
   animation: bracket-pulse 2s infinite ease-in-out;
 }
-*/
+
+/* ═══════════════════════════════════════════════════════════════ */
+/* LIVE PREVIEW MODE */
+/* ═══════════════════════════════════════════════════════════════ */
+
+/* Link text in live preview */
+.cm-link.cm-underline,
+.cm-underline {
+  text-shadow: 0 0 2px var(--red-shadow);
+}
 
 /* COLOR VARIANTS - Replace red with other colors */
 /* BLUE VARIANT */
