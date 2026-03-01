@@ -43,7 +43,7 @@
   "showRibbon": true,
   "baseFontSizeAction": false,
   "nativeMenus": false,
-  "baseFontSize": 22,
+  "baseFontSize": 26,
   "theme": "obsidian",
   "accentColor": "#ff0000"
 }
