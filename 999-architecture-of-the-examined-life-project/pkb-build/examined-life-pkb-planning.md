@@ -40,7 +40,7 @@ All 15 reports are **complete** in the master document. The source material cont
 - **§2–3:** All 15 reports with full content, YAML metadata, worked examples, references, and expansion topics
 
 Each report contains approximately 8,000–12,000 words of dense interdisciplinary synthesis with extensive scholarly apparatus (citations, cross-references, glossary definitions, expansion topics).
-
+✅ Complete
 ---
 
 ## 2. Architecture Decisions
@@ -48,44 +48,44 @@ Each report contains approximately 8,000–12,000 words of dense interdisciplina
 ### Folder Structure
 
 ```
-📁 The Architecture of the Examined Life/
-├── 📁 00-Navigation/
-│   ├── Index-The-Architecture-of-the-Examined-Life.md
-│   └── Dashboard-Examined-Life-PKB.md
-├── 📁 01-Reports/
-│   ├── 📁 Tier-1-Epistemic/
-│   │   ├── Report-01-The-Inquiry-Engine.md
-│   │   ├── Report-02-The-Fallible-Knower.md
-│   │   ├── Report-03-The-Motivated-Mind.md
-│   │   ├── Report-04-Cognitive-Scaffolding.md
-│   │   ├── Report-05-The-Virtuous-Reasoner.md
-│   │   ├── Report-06-Taming-System-1.md
-│   │   ├── Report-07-The-Self-Directed-Learner.md
-│   │   └── Report-08-The-Examined-Life-In-Practice.md
-│   ├── 📁 Tier-2-Practical/
-│   │   ├── Report-09-The-Embodied-Thinker.md
-│   │   ├── Report-10-The-Feeling-Reasoner.md
-│   │   ├── Report-11-The-Practical-Reasoner.md
-│   │   └── Report-12-The-Social-Thinker.md
-│   └── 📁 Tier-3-Integrative/
-│       ├── Report-13-The-Predictive-Mind.md
-│       ├── Report-14-The-Meaningful-Life.md
-│       └── Report-15-The-Examined-Life-Revisited.md
-├── 📁 02-Reference-Library/
-│   ├── Ref-Damasio-Descartes-Error.md
-│   ├── Ref-Kahneman-Thinking-Fast-and-Slow.md
-│   ├── Ref-Barrett-How-Emotions-Are-Made.md
+📁 the-architecture-of-the-examined-life/
+├── 📁 00-navigation/✅ Complete
+│   ├── index-the-architecture-of-the-examined-life.md
+│   └── dashboard-examined-life-pkb.md
+├── 📁 01-reports/✅ Complete
+│   ├── 📁 tier-1-epistemic/✅ Complete
+│   │   ├── report-01-the-inquiry-engine.md ✅ Complete
+│   │   ├── report-02-the-fallible-knower.md ✅ Complete
+│   │   ├── report-03-the-motivated-mind.md ✅ Complete
+│   │   ├── report-04-cognitive-scaffolding.md ✅ Complete
+│   │   ├── report-05-the-virtuous-reasoner.md ✅ Complete
+│   │   ├── report-06-taming-system-1.md ✅ Complete
+│   │   ├── report-07-the-self-directed-learner.md ✅ Complete
+│   │   └── report-08-the-examined-life-in-practice.md ✅ Complete
+│   ├── 📁 tier-2-practical/✅ Complete
+│   │   ├── report-09-the-embodied-thinker.md ✅ Complete
+│   │   ├── report-10-the-feeling-reasoner.md ✅ Complete
+│   │   ├── report-11-the-practical-reasoner.md ✅ Complete
+│   │   └── report-12-the-social-thinker.md ✅ Complete
+│   └── 📁 tier-3-integrative/✅ Complete
+│       ├── report-13-the-predictive-mind.md ✅ Complete
+│       ├── report-14-the-meaningful-life.md ✅ Complete
+│       └── report-15-the-examined-life-revisited.md ✅ Complete
+├── 📁 02-reference-library/✅ Complete
+│   ├── ref-damasio-descartes-error.md
+│   ├── ref-kahneman-thinking-fast-and-slow.md
+│   ├── ref-barrett-how-emotions-are-made.md
 │   └── ... (30–50 Reference Notes)
-├── 📁 03-Glossary-and-Staging/
-│   ├── Glossary-Examined-Life-Key-Terms.md
-│   ├── Developmental-Staging-of-the-Examined-Life.md
-│   └── Methodology-Research-Methods-and-Standards.md
-├── 📁 04-Connections/
+├── 📁 03-glossary-and-staging/✅ Complete
+│   ├── glossary-examined-life-key-terms.md
+│   ├── developmental-staging-of-the-examined-life.md
+│   └── methodology-research-methods-and-standards.md
+├── 📁 04-connections/✅ Complete
 │   ├── Connection-Mindfulness-and-Contemplative-Practice.md
 │   ├── Connection-Cognitive-Behavioral-Therapy.md
 │   ├── Connection-Growth-Mindset.md
 │   └── ... (10–15 Connection Notes)
-└── 📁 05-Expansion-Topics/
+└── 📁 05-expansion-topics/✅ Complete
     ├── Expansion-AI-and-the-Examined-Life.md
     ├── Expansion-Epistemic-Curiosity-and-the-Information-Gap.md
     └── ... (15–25 Expansion Topic Notes)
