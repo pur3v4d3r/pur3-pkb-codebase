@@ -132,23 +132,23 @@ document-sections:
 
 ### §2–3 — Series Reports
 
-| Report | Title | Tier | Status |
-|--------|-------|------|--------|
-| [[#Report 01 — The Felt Difficulty: An Introduction to the Architecture of the Examined Life\|01]] | The Inquiry Engine: How Reflective Thought Is Activated | T1 | ✅ Complete |
-| [[#Report 2\|02]] | The Fallible Knower: Epistemology, Pragmatism, and the Constructivist Stance | T1 | ✅ Complete |
-| [[#Report 3\|03]] | The Motivated Mind: Intrinsic Engagement and the Will to Think Well | T1 | ✅ Complete |
-| [[#Report 4\|04]] | Cognitive Scaffolding: Building Understanding at the Edge of Competence | T1 | ✅ Complete |
-| [[#Report 5\|05]] | The Virtuous Reasoner: Intellectual Character as Cognitive Infrastructure | T1 | ✅ Complete |
-| [[#Report 6\|06]] | Taming System 1: Metacognitive Regulation of Intuitive Thought | T1 | ✅ Complete |
-| [[#Report 7\|07]] | The Self-Directed Learner: Autonomy, Schema Construction, and Personal Learning Architecture | T1 | ✅ Complete |
-| [[#Report 8\|08]] | The Examined Life in Practice: Deploying the Integrated Epistemic Framework | T1 | ✅ Complete |
-| [[#Report 9\|09]] | The Embodied Thinker: Physiological Foundations of the Examined Life | T2 | ✅ Complete |
-| [[#Report 10\|10]] | The Feeling Reasoner: Emotions as Epistemic Partners in the Examined Life | T2 | ✅ Complete |
-| [[#Report 11\|11]] | The Practical Reasoner: Phronesis and Action Under Uncertainty | T2 | ✅ Complete |
-| [[#Report 12\|12]] | The Social Thinker: Distributed Cognition and Epistemic Community | T2 | ✅ Complete |
-| [[#Report 13\|13]] | The Predictive Mind: Unifying the Framework in Predictive Processing | T3 | ✅ Complete |
-| [[#Report 14\|14]] | The Meaningful Life: Narrative Identity and the Examined Life's Telos | T3 | ✅ Complete |
-| [[#Report 15\|15]] | The Examined Life Revisited: Capstone Synthesis | T3 | ✅ Complete |
+| Report                                                                                             | Title                                                                                        | Tier | Status     |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- | ---------- |
+| [[#Report 01 — The Felt Difficulty: An Introduction to the Architecture of the Examined Life\|01]] | The Inquiry Engine: How Reflective Thought Is Activated                                      | T1   | ✅ Complete |
+| [[#Report 2\|02]]                                                                                  | The Fallible Knower: Epistemology, Pragmatism, and the Constructivist Stance                 | T1   | ✅ Complete |
+| [[#Report 3\|03]]                                                                                  | The Motivated Mind: Intrinsic Engagement and the Will to Think Well                          | T1   | ✅ Complete |
+| [[#Report 4\|04]]                                                                                  | Cognitive Scaffolding: Building Understanding at the Edge of Competence                      | T1   | ✅ Complete |
+| [[#Report 5\|05]]                                                                                  | The Virtuous Reasoner: Intellectual Character as Cognitive Infrastructure                    | T1   | ✅ Complete |
+| [[#Report 6\|06]]                                                                                  | Taming System 1: Metacognitive Regulation of Intuitive Thought                               | T1   | ✅ Complete |
+| [[#Report 7\|07]]                                                                                  | The Self-Directed Learner: Autonomy, Schema Construction, and Personal Learning Architecture | T1   | ✅ Complete |
+| [[#Report 8\|08]]                                                                                  | The Examined Life in Practice: Deploying the Integrated Epistemic Framework                  | T1   | ✅ Complete |
+| [[#Report 9\|09]]                                                                                  | The Embodied Thinker: Physiological Foundations of the Examined Life                         | T2   | ✅ Complete |
+| [[#Report 10\|10]]                                                                                 | The Feeling Reasoner: Emotions as Epistemic Partners in the Examined Life                    | T2   | ✅ Complete |
+| [[#Report 11\|11]]                                                                                 | The Practical Reasoner: Phronesis and Action Under Uncertainty                               | T2   | ✅ Complete |
+| [[#Report 12\|12]]                                                                                 | The Social Thinker: Distributed Cognition and Epistemic Community                            | T2   | ✅ Complete |
+| [[#Report 13\|13]]                                                                                 | The Predictive Mind: Unifying the Framework in Predictive Processing                         | T3   | ✅ Complete |
+| [[#Report 14\|14]]                                                                                 | The Meaningful Life: Narrative Identity and the Examined Life's Telos                        | T3   | ✅ Complete |
+| [[#Report 15\|15]]                                                                                 | The Examined Life Revisited: Capstone Synthesis                                              | T3   | ✅ Complete |
 
 ---
 
