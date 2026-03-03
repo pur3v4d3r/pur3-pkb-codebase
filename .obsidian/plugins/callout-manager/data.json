@@ -155,7 +155,8 @@
       "highlight",
       "comprehensive-reference",
       "overview",
-      "alert"
+      "alert",
+      "procedure"
     ],
     "settings": {
       "in-note-metadata": [
@@ -1243,6 +1244,13 @@
         {
           "changes": {
             "color": "139, 0, 0"
+          }
+        }
+      ],
+      "procedure": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
           }
         }
       ]
