@@ -156,7 +156,115 @@
       "comprehensive-reference",
       "overview",
       "alert",
-      "procedure"
+      "procedure",
+      "about-the-author",
+      "acknowledgments",
+      "action-items",
+      "actionable-tips",
+      "additional-resources",
+      "admin",
+      "api",
+      "appendix",
+      "archive",
+      "assumption",
+      "best-practice",
+      "bibliography",
+      "brainstorm",
+      "bug-report",
+      "callout",
+      "challenge",
+      "changelog",
+      "checklist",
+      "claim",
+      "command",
+      "concept",
+      "conclusion",
+      "config",
+      "contact-information",
+      "contributor",
+      "credit",
+      "critical",
+      "critique",
+      "data",
+      "dataview",
+      "deadline",
+      "deprecated",
+      "details",
+      "diagram",
+      "disclaimer",
+      "embed",
+      "exercise",
+      "experiment",
+      "explanation",
+      "external-links",
+      "feature",
+      "figure",
+      "finding",
+      "further-reading",
+      "glossary",
+      "how-to",
+      "image",
+      "implementation",
+      "index",
+      "in-progress",
+      "key-insight",
+      "key-points",
+      "key-takeaway",
+      "lesson",
+      "license",
+      "link-related",
+      "links",
+      "main-idea",
+      "metric",
+      "notice",
+      "observation",
+      "plugin",
+      "possibility",
+      "practice",
+      "prerequisites",
+      "private",
+      "proof",
+      "public",
+      "query",
+      "quiz",
+      "reading-list",
+      "recipe",
+      "reflection",
+      "references",
+      "related",
+      "related-topics",
+      "remember",
+      "resources",
+      "result",
+      "scheduled",
+      "screenshot",
+      "secret",
+      "see-also",
+      "solution",
+      "source",
+      "speculation",
+      "stats",
+      "steps",
+      "stub",
+      "study",
+      "syntax",
+      "table-of-contents",
+      "tag",
+      "takeaways",
+      "template",
+      "terminology",
+      "terms",
+      "thesis",
+      "timeline",
+      "toc",
+      "tracker",
+      "try-it",
+      "update",
+      "vault",
+      "version",
+      "video",
+      "what-if",
+      "win"
     ],
     "settings": {
       "in-note-metadata": [
@@ -1248,6 +1356,762 @@
         }
       ],
       "procedure": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "about-the-author": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "acknowledgments": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "action-items": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "actionable-tips": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "additional-resources": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "admin": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "api": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "appendix": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "archive": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "assumption": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "best-practice": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "bibliography": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "brainstorm": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "bug-report": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "callout": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "challenge": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "changelog": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "checklist": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "claim": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "command": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "concept": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "conclusion": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "config": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "contact-information": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "contributor": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "credit": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "critical": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "critique": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "data": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "dataview": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "deadline": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "deprecated": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "details": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "diagram": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "disclaimer": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "embed": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "exercise": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "experiment": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "explanation": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "external-links": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "feature": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "figure": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "finding": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "further-reading": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "glossary": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "how-to": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "image": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "implementation": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "index": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "in-progress": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "key-insight": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "key-points": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "key-takeaway": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "lesson": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "license": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "link-related": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "links": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "main-idea": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "metric": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "notice": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "observation": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "plugin": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "possibility": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "practice": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "prerequisites": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "private": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "proof": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "public": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "query": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "reading-list": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "recipe": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "reflection": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "references": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "related": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "related-topics": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "remember": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "resources": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "result": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "scheduled": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "screenshot": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "secret": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "see-also": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "solution": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "source": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "speculation": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "stub": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "study": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "syntax": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "table-of-contents": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "tag": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "takeaways": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "template": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "terminology": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "terms": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "thesis": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "timeline": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "toc": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "tracker": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "try-it": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "update": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "vault": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "version": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "video": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "what-if": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "win": [
         {
           "changes": {
             "color": "255, 0, 0"

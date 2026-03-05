@@ -4983,24 +4983,24 @@ Common mistakes when practicing Stoicism:
 ### Further Exploration
 
 > [!further-exploration] **Deepening Your Practice**
-
-> [!topic-idea] [[Stoic Ethics in Professional Life]]
-> Exploring how Stoic principles apply specifically to modern workplace challenges: managing difficult colleagues, handling career setbacks, maintaining integrity under pressure, leading with virtue, navigating office politics without compromising character. Deep dive into how Marcus's approach to leadership (virtue-based, duty-focused, ego-minimal) translates to contemporary management and professional development.
-
-> [!topic-idea] [[Advanced Stoic Practices for Emotional Mastery]]
-> Beyond the foundational techniques, exploring sophisticated Stoic practices: Seneca's methods for managing anger, Epictetus's approach to handling insults and criticism, Marcus's techniques for maintaining equanimity during crises, practical exercises for developing each of the four cardinal virtues, integration of Stoic practices with modern therapeutic approaches like DBT and ACT.
-
-> [!topic-idea] [[Stoicism and Relationships: Attachment Without Dependence]]
-> How to practice Stoicism in intimate relationships without becoming emotionally unavailable. Exploring the tension between Stoic acceptance (everyone will leave or die eventually) and deep connection. Examining how to love fully while accepting impermanence, how to support others' growth without controlling them, and how Stoic principles strengthen rather than weaken relationships when properly understood.
-
-> [!topic-idea] [[Stoicism, Social Justice, and Political Engagement]]
-> Addressing the apparent tension between Stoic acceptance and fighting injustice. Exploring how Stoics can be fierce activists (focusing on what's up to them—action—while accepting what's not—outcomes). Examining the Stoic cosmopolitan tradition, the concept of oikeiosis (expanding concern), and how Stoic principles inform ethical political engagement without despair or burnout.
-
-> [!topic-idea] [[Death, Mortality, and the Stoic Practice of Memento Mori]]
-> Deep exploration of Stoic mortality practices: why regularly contemplating death strengthens life, how awareness of impermanence creates urgency without anxiety, Seneca's letters on death and dying, practical exercises for developing ease with mortality, and how memento mori ("remember you will die") paradoxically increases appreciation for the present rather than creating fear of the future.
-
-> [!topic-idea] [[Stoicism and Modern Neuroscience: Ancient Wisdom Meets Contemporary Research]]
-> Examining how neuroscience research on emotional regulation, habit formation, stress response, and resilience validates Stoic practices. Exploring the neural mechanisms underlying cognitive reappraisal, the brain changes that occur with meditation and mindfulness (practices similar to Stoic techniques), and how understanding neuroscience can enhance rather than replace philosophical practice.
+>
+> > [!topic-idea] [[Stoic Ethics in Professional Life]]
+> > Exploring how Stoic principles apply specifically to modern workplace challenges: managing difficult colleagues, handling career setbacks, maintaining integrity under pressure, leading with virtue, navigating office politics without compromising character. Deep dive into how Marcus's approach to leadership (virtue-based, duty-focused, ego-minimal) translates to contemporary management and professional development.
+> 
+> > [!topic-idea] [[Advanced Stoic Practices for Emotional Mastery]]
+> > Beyond the foundational techniques, exploring sophisticated Stoic practices: Seneca's methods for managing anger, Epictetus's approach to handling insults and criticism, Marcus's techniques for maintaining equanimity during crises, practical exercises for developing each of the four cardinal virtues, integration of Stoic practices with modern therapeutic approaches like DBT and ACT.
+> 
+> > [!topic-idea] [[Stoicism and Relationships: Attachment Without Dependence]]
+> > How to practice Stoicism in intimate relationships without becoming emotionally unavailable. Exploring the tension between Stoic acceptance (everyone will leave or die eventually) and deep connection. Examining how to love fully while accepting impermanence, how to support others' growth without controlling them, and how Stoic principles strengthen rather than weaken relationships when properly understood.
+> 
+> > [!topic-idea] [[Stoicism, Social Justice, and Political Engagement]]
+> > Addressing the apparent tension between Stoic acceptance and fighting injustice. Exploring how Stoics can be fierce activists (focusing on what's up to them—action—while accepting what's not—outcomes). Examining the Stoic cosmopolitan tradition, the concept of oikeiosis (expanding concern), and how Stoic principles inform ethical political engagement without despair or burnout.
+> 
+> > [!topic-idea] [[Death, Mortality, and the Stoic Practice of Memento Mori]]
+> > Deep exploration of Stoic mortality practices: why regularly contemplating death strengthens life, how awareness of impermanence creates urgency without anxiety, Seneca's letters on death and dying, practical exercises for developing ease with mortality, and how memento mori ("remember you will die") paradoxically increases appreciation for the present rather than creating fear of the future.
+> 
+> > [!topic-idea] [[Stoicism and Modern Neuroscience: Ancient Wisdom Meets Contemporary Research]]
+> > Examining how neuroscience research on emotional regulation, habit formation, stress response, and resilience validates Stoic practices. Exploring the neural mechanisms underlying cognitive reappraisal, the brain changes that occur with meditation and mindfulness (practices similar to Stoic techniques), and how understanding neuroscience can enhance rather than replace philosophical practice.
 
 ### Final Reflection
 
