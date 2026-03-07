@@ -264,7 +264,12 @@
       "version",
       "video",
       "what-if",
-      "win"
+      "win",
+      "analytical-insight",
+      "cross-domain-connection",
+      "original-synthesis",
+      "what-the-evidence-suggests",
+      "tension-identified"
     ],
     "settings": {
       "in-note-metadata": [
@@ -2112,6 +2117,41 @@
         }
       ],
       "win": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "analytical-insight": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "cross-domain-connection": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "original-synthesis": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "what-the-evidence-suggests": [
+        {
+          "changes": {
+            "color": "255, 0, 0"
+          }
+        }
+      ],
+      "tension-identified": [
         {
           "changes": {
             "color": "255, 0, 0"
