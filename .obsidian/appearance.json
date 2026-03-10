@@ -37,7 +37,8 @@
     "code-block-fixed",
     "callout-mod-neon",
     "callout-mod-card",
-    "callout-mod-raised"
+    "callout-mod-raised",
+    "print"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
