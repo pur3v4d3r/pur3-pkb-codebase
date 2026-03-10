@@ -1,5 +1,5 @@
 {
-  "cssTheme": "V4D3R Protocol",
+  "cssTheme": "V4D3R Crimson",
   "enabledCssSnippets": [
     "__v4d3r-ui-system",
     "v4d3r-mermaid-tables-plugins-part1",
@@ -27,22 +27,26 @@
     "custom-horizontal-rules-",
     "glassmorphism-sidebar-system",
     "code-block-language-custom",
-    "code-block-fixed",
-    "dark-shadow-callout-system",
     "square-bracket-glow",
-    "callout-mod-neon",
+    "unified-callout-system",
     "callout-mod-15-premium-card",
+    "callout-mod-16-floating-light",
     "callout-mod-12-icon-style-variations",
-    "pur3v4d3r-ultimate-callout-system"
+    "callout-icon",
+    "bracket-glow-controls",
+    "code-block-fixed",
+    "callout-mod-neon",
+    "callout-mod-card",
+    "callout-mod-raised"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
   "showViewHeader": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "baseFontSizeAction": false,
   "nativeMenus": false,
-  "baseFontSize": 26,
+  "baseFontSize": 16,
   "theme": "obsidian",
   "accentColor": "#ff0000"
 }
