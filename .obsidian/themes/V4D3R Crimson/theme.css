@@ -304,22 +304,7 @@
    1.7 ACCESSIBILITY SETTINGS
    ══════════════════════════════════════════════════════════════════════════ */
 
-/* ─── Reduced Motion Support ─── */
-@media (prefers-reduced-motion: reduce) {
-  :root {
-    --v4d3r-transition-instant: 0ms;
-    --v4d3r-transition-fast: 0ms;
-    --v4d3r-transition-normal: 0ms;
-    --v4d3r-transition-slow: 0ms;
-    --v4d3r-transition-slower: 0ms;
-  }
-  
-  * {
-    animation-duration: 0ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0ms !important;
-  }
-}
+
 
 /* ─── High Contrast Support ─── */
 @media (prefers-contrast: high) {
@@ -453,7 +438,7 @@ CONTRAST VALIDATION RESULTS:
      --font-weight-normal: 400;
      --font-weight-medium: 500;
      --font-weight-bold: 700;
-     --v4d3r-base-font-weight: var(--font-weight-light);
+     --v4d3r-base-font-weight: var(--font-weight-thin);
      
      --v4d3r-base-font-size: 16px;
      --font-text-size: var(--v4d3r-base-font-size);
@@ -505,7 +490,7 @@ CONTRAST VALIDATION RESULTS:
      
      /* ─── ANIMATIONS ─── */
      --v4d3r-transition-instant: 50ms;
-     --v4d3r-transition-fast: 150ms;
+     --v4d3r-transition-fast: 100ms;
      --v4d3r-transition-normal: 250ms;
      --v4d3r-transition-slow: 400ms;
      
@@ -1094,14 +1079,7 @@ CONTRAST VALIDATION RESULTS:
       PART 14: ACCESSIBILITY
       ══════════════════════════════════════════════════════════════════════════ */
    
-   @media (prefers-reduced-motion: reduce) {
-     * {
-       animation-duration: 0ms !important;
-       animation-iteration-count: 1 !important;
-       transition-duration: 0ms !important;
-     }
-   }
-   
+
    @media (prefers-contrast: high) {
      :root {
        --text-normal: var(--v4d3r-grey-lightest);

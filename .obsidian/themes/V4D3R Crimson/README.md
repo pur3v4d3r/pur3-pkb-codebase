@@ -55,11 +55,11 @@ For optimal appearance:
 Edit line ~65 in `theme.css`:
 
 ```css
---v4d3r-base-font-weight: var(--font-weight-light); /* 300 */
+--v4d3r-base-font-weight: var(--font-weight-thin); /* 100 */
 
 /* Options: */
-/* var(--font-weight-thin) = 100 (ultra-light) */
-/* var(--font-weight-light) = 300 (light, recommended) */
+/* var(--font-weight-thin) = 100 (ultra-light, recommended) */
+/* var(--font-weight-light) = 300 (light) */
 /* var(--font-weight-normal) = 400 (normal) */
 ```
 
