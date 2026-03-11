@@ -237,7 +237,7 @@ Emoji Legend:
 ---
 
 > [!topic-idea]
-> - **Topic**: Mental Models (Johnson-Laird)
+> - **Topic**: Mental Models (Johnson-Laird) ✅
 >   - **Report Type**: Foundational
 >     - **Description**: A comprehensive foundational treatment of Johnson-Laird's mental models theory — the proposal that human reasoning operates by constructing, inspecting, and revising internal representations that are analogically structured to the situations they represent, rather than through formal rule application. The report surveys the theory's development from Johnson-Laird's syllogistic reasoning studies through its extension to spatial, temporal, and causal reasoning, examines how mental models support both valid inference and predictable error, and traces applications in instruction (particularly science education), text comprehension, and intelligent tutoring system design.
 >     - **Core Concepts**: Situation models, model-based reasoning, analogical representation, syllogistic reasoning errors, spatial models, mental simulation, counterfactual reasoning, model revision
@@ -246,7 +246,7 @@ Emoji Legend:
 ---
 
 > [!topic-idea]
-> - **Topic**: Mental Models (Johnson-Laird)
+> - **Topic**: Mental Models (Johnson-Laird) ✅
 >   - **Report Type**: First Principles
 >     - **Description**: A first-principles inquiry into the mental models framework that interrogates its central claim: that reasoning is fundamentally model-based rather than rule-based. The analysis audits the assumption that internal representations are analogically structured to external reality, examines the tension between mental models and propositional accounts of reasoning, and probes whether the evidence for model-based reasoning is distinguishable from evidence for schema-based processing. The reconstruction derives axioms about the nature of representations that must be true for reasoning errors to take the systematic forms they do, yielding a revised account of when model-based and rule-based processes interact.
 >     - **Core Concepts**: Analogical vs. propositional representation, model individuation problem, reasoning error systematicity, rule vs. model controversy, simulation hypothesis, format of mental representation
@@ -538,7 +538,7 @@ Emoji Legend:
 ---
 
 > [!topic-idea]
-> - **Topic**: Self-Directed Learning
+> - **Topic**: Self-Directed Learning ✅
 >   - **Report Type**: Foundational
 >     - **Description**: A foundational report on self-directed learning (SDL) — Knowles's concept of learners taking initiative in diagnosing their learning needs, formulating goals, identifying resources, choosing strategies, and evaluating outcomes, with or without assistance. The report distinguishes SDL as a process (learner-controlled learning activities) from SDL as a personal characteristic (self-directedness) and as an educational goal (fostering autonomy), surveys Guglielmino's Self-Directed Learning Readiness Scale tradition, examines Candy's constructivist account of personal autonomy in learning, and explores SDL's relationship to heutagogy, online learning environments, and lifelong learning.
 >     - **Core Concepts**: Learning initiative, needs diagnosis, goal formulation, resource identification, learning contracts, self-directedness readiness, andragogy vs. heutagogy, personal autonomy, self-managed learning
@@ -575,7 +575,7 @@ Emoji Legend:
 ---
 
 > [!topic-idea]
-> - **Topic**: Metacognition in Learning
+> - **Topic**: Metacognition in Learning ✅
 >   - **Report Type**: Foundational
 >     - **Description**: A comprehensive foundational report on metacognition — Flavell's original formulation of "cognition about cognition" — covering the tripartite structure of metacognitive knowledge (person, task, strategy knowledge), the processes of metacognitive monitoring and control, and the distinction between metacognitive experiences and metacognitive knowledge. The report surveys the empirical evidence linking metacognitive awareness to academic achievement, examines developmental trajectories, maps major theoretical extensions by Brown, Nelson & Narens, and Schraw & Dennison, and connects the foundational theory to practical applications in self-regulated learning, study strategy instruction, and metacognitive scaffolding in instructional design.
 >     - **Core Concepts**: Metacognitive knowledge, metacognitive monitoring, metacognitive control, metacognitive experiences, person knowledge, task knowledge, strategy knowledge, object-level and meta-level, monitoring accuracy
