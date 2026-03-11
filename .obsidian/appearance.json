@@ -1,5 +1,5 @@
 {
-  "cssTheme": "V4D3R Crimson",
+  "cssTheme": "V4D3R Protocol",
   "enabledCssSnippets": [
     "__v4d3r-ui-system",
     "v4d3r-mermaid-tables-plugins-part1",
@@ -28,17 +28,16 @@
     "glassmorphism-sidebar-system",
     "code-block-language-custom",
     "square-bracket-glow",
-    "unified-callout-system",
-    "callout-mod-15-premium-card",
-    "callout-mod-16-floating-light",
-    "callout-mod-12-icon-style-variations",
-    "callout-icon",
     "bracket-glow-controls",
     "code-block-fixed",
+    "print",
     "callout-mod-neon",
+    "callout-mod-16-floating-light",
+    "pur3v4d3r-ultimate-callout-system",
     "callout-mod-card",
-    "callout-mod-raised",
-    "print"
+    "callout-mod-12-icon-style-variations",
+    "callout-icon",
+    "callout-mod-15-premium-card"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
