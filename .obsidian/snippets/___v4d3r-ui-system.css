@@ -239,7 +239,7 @@
 .theme-dark .markdown-preview-view strong,
 .theme-dark .markdown-source-view.mod-cm6 .cm-strong,
 .cm-strong {
-  color: #e1ff00ff !important;  
+  color: rgb(129, 42, 42) !important;  
   text-transform: uppercase !important;  /* Capitalize bold text */
   font-weight: 600 !important;                /* Semi-bold weight */
 }
