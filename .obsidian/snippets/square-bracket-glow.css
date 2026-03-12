@@ -119,14 +119,33 @@ body .cm-line .cm-hmd-internal-link,
   filter: drop-shadow(0 0 3px var(--red-shadow)) !important;
 }
 
-/* Remove glow from the link text itself in reading mode */
-.markdown-preview-view .internal-link,
-.markdown-rendered .internal-link,
-.markdown-reading-view .internal-link {
-  text-shadow: none !important;
-  filter: none !important;
-  animation: none !important;
+/* ═══ DATAVIEW INLINE FIELDS - READING MODE BRACKETS ═══ */
+/* Injects glowing [ ] around Dataview inline-field spans in reading mode.
+   Dataview strips the literal brackets during render, so we re-add them
+   via pseudo-elements — matching the same approach used for internal links. */
+.markdown-preview-view .dataview.inline-field::before,
+.markdown-rendered .dataview.inline-field::before,
+.markdown-reading-view .dataview.inline-field::before {
+  content: '[' !important;
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  filter: drop-shadow(0 0 3px var(--red-shadow)) !important;
+  animation: bracket-pulse 2s infinite ease-in-out !important;
 }
+
+.markdown-preview-view .dataview.inline-field::after,
+.markdown-rendered .dataview.inline-field::after,
+.markdown-reading-view .dataview.inline-field::after {
+  content: ']' !important;
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  filter: drop-shadow(0 0 3px var(--red-shadow)) !important;
+  animation: bracket-pulse 2s infinite ease-in-out !important;
+}
+
+
 
 /* ═══ CODE CONTEXTS ═══ */
 /* Syntax highlighting in code blocks */
@@ -169,6 +188,7 @@ pre[class*="language-"] .token.bracket,
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
 }
+
 
 /* ═══ TEMPLATER PLUGIN SUPPORT ═══ */
 .templater-command,
@@ -359,26 +379,7 @@ body.is-live-preview .cm-formatting-link,
   animation: bracket-pulse 2s infinite ease-in-out !important;
 }
 
-/* Backup: Also try .cm-link in case that class exists */
-.is-live-preview .cm-link::before,
-.markdown-source-view.is-live-preview .cm-line .cm-link::before {
-  content: '[[' !important;
-  color: var(--red-glow) !important;
-  text-shadow: var(--bracket-shadow) !important;
-  font-weight: 900 !important;
-  display: inline !important;
-  animation: bracket-pulse 2s infinite ease-in-out !important;
-}
 
-.is-live-preview .cm-link::after,
-.markdown-source-view.is-live-preview .cm-line .cm-link::after {
-  content: ']]' !important;
-  color: var(--red-glow) !important;
-  text-shadow: var(--bracket-shadow) !important;
-  font-weight: 900 !important;
-  display: inline !important;
-  animation: bracket-pulse 2s infinite ease-in-out !important;
-}
 
 /* ═══ REMOVE GLOW FROM LINK TEXT ═══ */
 /* Keep link text normal - no glow */

@@ -887,11 +887,7 @@ CONTRAST VALIDATION RESULTS:
       PART 9: TITLEBAR
       ══════════════════════════════════════════════════════════════════════════ */
    
-   .titlebar {
-     background-color: var(--v4d3r-grey-darker) !important;
-     border-bottom: 1px solid var(--v4d3r-grey-dark) !important;
-     color: var(--v4d3r-grey-light) !important;
-   }
+
    
    .titlebar-inner {
      color: var(--v4d3r-grey-light) !important;
@@ -1342,64 +1338,6 @@ CONTRAST VALIDATION RESULTS:
      opacity: 0.7 !important;
    }
    
-   /* ═══════════════════════════════════════════════════════════════════════════
-      PART 19: LISTS & CHECKBOXES
-      ══════════════════════════════════════════════════════════════════════════ */
-   
-   ul, ol {
-     color: var(--v4d3r-grey-light) !important;
-     line-height: var(--line-height-normal) !important;
-   }
-   
-   li {
-     margin: var(--v4d3r-space-xs) 0 !important;
-   }
-   
-   /* Checkboxes */
-   input[type="checkbox"] {
-     appearance: none !important;
-     width: 18px !important;
-     height: 18px !important;
-     border: 2px solid var(--v4d3r-grey-medium-dark) !important;
-     border-radius: var(--v4d3r-radius-sm) !important;
-     background-color: var(--v4d3r-grey-darker) !important;
-     cursor: pointer !important;
-     transition: all var(--v4d3r-transition-fast) var(--v4d3r-ease-default) !important;
-   }
-   
-   input[type="checkbox"]:hover {
-     border-color: var(--v4d3r-red-primary) !important;
-     background-color: var(--v4d3r-red-alpha-10) !important;
-   }
-   
-   input[type="checkbox"]:checked {
-     background-color: var(--v4d3r-red-primary) !important;
-     border-color: var(--v4d3r-red-primary) !important;
-   }
-   
-   input[type="checkbox"]:checked::after {
-     content: "✓" !important;
-     display: block !important;
-     text-align: center !important;
-     color: var(--v4d3r-grey-lightest) !important;
-     font-size: 14px !important;
-     line-height: 14px !important;
-   }
-   
-   /* Ordered List Numbers */
-   ol {
-     counter-reset: item !important;
-   }
-   
-   ol > li {
-     counter-increment: item !important;
-     position: relative !important;
-   }
-   
-   ol > li::marker {
-     color: var(--v4d3r-red-primary) !important;
-     font-weight: var(--font-weight-bold) !important;
-   }
    
    /* ═══════════════════════════════════════════════════════════════════════════
       PART 20: HEADINGS
@@ -1685,41 +1623,16 @@ body {
 
 h1 {
   text-shadow: 
-    0 0 10px rgba(220, 20, 60, 0.5),
-    0 0 20px rgba(220, 20, 60, 0.3),
-    0 0 30px rgba(220, 20, 60, 0.2) !important;
+    0 0 10px rgba(220, 20, 20, 0.5),
+    0 0 20px rgba(220, 20, 20, 0.3),
+    0 0 30px rgba(237, 12, 57, 0.2) !important;
 }
 
 h2 {
   text-shadow: 
-    0 0 8px rgba(220, 20, 60, 0.4),
-    0 0 16px rgba(220, 20, 60, 0.2) !important;
+    0 0 8px rgba(220, 20, 20, 0.4),
+    0 0 16px rgba(255, 0, 0, 0.2) !important;
 }
 
-/* ═══════════════════════════════════════════════════════════
-   SPARKLE EFFECT ON HOVER (LINKS)
-   ══════════════════════════════════════════════════════════ */
 
-a:hover,
-.internal-link:hover {
-  animation: sparkle 0.5s ease !important;
-}
 
-@keyframes sparkle {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.7; }
-}
-
-/* ═══════════════════════════════════════════════════════════
-   ACCESSIBILITY: DISABLE WITH REDUCED MOTION
-   ══════════════════════════════════════════════════════════ */
-
-@media (prefers-reduced-motion: reduce) {
-  body,
-  .workspace-tab-header.is-active,
-  .modal,
-  a,
-  .internal-link {
-    animation: none !important;
-  }
-}

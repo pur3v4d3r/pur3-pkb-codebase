@@ -23,11 +23,9 @@
     "tag-customization-system",
     "custom-ordered-list-numbers-(colored)-",
     "10-mermaid",
-    "01-glowing-headers",
     "custom-horizontal-rules-",
     "glassmorphism-sidebar-system",
     "code-block-language-custom",
-    "square-bracket-glow",
     "bracket-glow-controls",
     "code-block-fixed",
     "print",
@@ -37,7 +35,9 @@
     "callout-mod-card",
     "callout-mod-12-icon-style-variations",
     "callout-icon",
-    "callout-mod-15-premium-card"
+    "callout-mod-15-premium-card",
+    "01-glowing-headers",
+    "square-bracket-glow"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",
