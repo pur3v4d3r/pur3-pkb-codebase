@@ -287,25 +287,31 @@
 /* Level 3 (third indent) - Plus */
 .cm-formatting-list-ul.cm-list-3 > .list-bullet::after {
     content: "\002B" !important; /* + */
-    color: #4d4d4dff !important;
+    color: rgb(229, 255, 0) !important;
     font-size: 1.30em !important;
     font-weight: 300 !important;
+    top: -0.27em !important;
+    right: -0.90em !important;
 }
 
 /* Level 2 (second indent) - Dash */
 .cm-formatting-list-ul.cm-list-2 > .list-bullet::after {
     content: "-" !important;
-    color: #4d4d4dff !important;
+    color: rgb(229, 255, 0) !important;
     font-size: 0.90em !important;
     font-weight: 300 !important;
+    top: -0.12em !important;
+    right: -0.82em !important;
 }
 
 /* Level 1 (first indent) - Arrow */
 .cm-formatting-list-ul.cm-list-1 > .list-bullet::after {
     content: "->" !important;
-    color: #E50000ff !important;
+    color: rgb(229, 255, 0) !important;
     font-size: 0.90em !important;
     font-weight: 300 !important;
+    position: relative !important;
+    top: -0.62em !important;
 }
 
 /* Reading/preview mode */
@@ -358,7 +364,7 @@
 .markdown-rendered ul:not(ul ul) > li::before,
 .markdown-preview-view ul:not(ul ul) > li::before {
     content: "->" !important;
-    color: #E50000ff !important;
+    color: rgb(229, 255, 0) !important;
     font-size: 0.90em !important;
     font-weight: 300 !important;
     top: 0.05em !important;
@@ -368,7 +374,7 @@
 .markdown-rendered ul ul:not(ul ul ul) > li::before,
 .markdown-preview-view ul ul:not(ul ul ul) > li::before {
     content: "-" !important;
-    color: #4d4d4dff !important;
+    color: rgb(229, 255, 0) !important;
     font-size: 0.90em !important;
     font-weight: 300 !important;
     top: 0.05em !important;
@@ -378,7 +384,7 @@
 .markdown-rendered ul ul ul:not(ul ul ul ul) > li::before,
 .markdown-preview-view ul ul ul:not(ul ul ul ul) > li::before {
     content: "+" !important;
-    color: #4d4d4dff !important;
+    color: rgb(229, 255, 0) !important;
     font-size: 1.10em !important;
     font-weight: 300 !important;
     top: -0.02em !important;

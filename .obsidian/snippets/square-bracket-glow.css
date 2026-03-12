@@ -31,18 +31,19 @@ div.cm-editor .cm-formatting-link {
   visibility: visible !important;
 }
 
-/* Live Preview - color native brackets on active (editing) lines only */
-/* Inactive lines use pseudo-elements on .cm-underline instead */
-body .markdown-source-view.mod-cm6.is-live-preview .cm-line.cm-active .cm-formatting-link {
+/* Live Preview - color native brackets on all lines */
+body .markdown-source-view.mod-cm6.is-live-preview .cm-formatting-link {
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: 900 !important;
+  opacity: 1 !important;
+  display: inline !important;
 }
 
-/* Hide native brackets on inactive live-preview lines — pseudo-elements provide them */
+/* Keep native brackets visible on inactive live-preview lines */
 body .markdown-source-view.mod-cm6.is-live-preview .cm-line:not(.cm-active) .cm-formatting-link {
-  display: none !important;
-  opacity: 0 !important;
+  display: inline !important;
+  opacity: 1 !important;
 }
 
 /* Source Mode - Force visibility */
@@ -310,9 +311,7 @@ body .markdown-source-view .cm-formatting-link,
 .markdown-preview-view .internal-link::before,
 .markdown-preview-view .internal-link::after,
 .markdown-reading-view .internal-link::before,
-.markdown-reading-view .internal-link::after,
-.is-live-preview .cm-line:not(.cm-active) .cm-underline::before,
-.is-live-preview .cm-line:not(.cm-active) .cm-underline::after {
+.markdown-reading-view .internal-link::after {
   animation: bracket-pulse 2s infinite ease-in-out !important;
 }
 
@@ -330,33 +329,14 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
   -webkit-text-fill-color: var(--red-glow) !important;
 }
 
-/* ═══ LIVE PREVIEW MODE - native force approach DISABLED ═══ */
-/* Obsidian's internal hiding beats !important clip/font-size overrides in modern versions.
-   Pseudo-elements on .cm-underline (below) are the reliable approach instead.
-   These blocks are preserved here for reference / older Obsidian fallback. */
-
-/* ═══ LIVE PREVIEW BRACKETS — Pseudo-element approach (ACTIVE) ═══ */
-/* Injects [[ ]] on INACTIVE lines only (cursor-away rendered links).
-   Active lines show native markup — no pseudo-element needed there.
-   This is the working approach; the native force-visible blocks above are disabled. */
+/* ═══ LIVE PREVIEW MODE - native bracket rendering only ═══ */
+/* Disable pseudo bracket injection to prevent duplicate bracket fragments. */
 .is-live-preview .cm-line:not(.cm-active) .cm-underline::before,
-.is-live-preview .cm-line:not(.cm-active) .cm-link .cm-underline::before {
-  content: '[[' !important;
-  color: var(--red-glow) !important;
-  text-shadow: var(--bracket-shadow) !important;
-  font-weight: 900 !important;
-  display: inline !important;
-  animation: bracket-pulse 2s infinite ease-in-out !important;
-}
-
+.is-live-preview .cm-line:not(.cm-active) .cm-link .cm-underline::before,
 .is-live-preview .cm-line:not(.cm-active) .cm-underline::after,
 .is-live-preview .cm-line:not(.cm-active) .cm-link .cm-underline::after {
-  content: ']]' !important;
-  color: var(--red-glow) !important;
-  text-shadow: var(--bracket-shadow) !important;
-  font-weight: 900 !important;
-  display: inline !important;
-  animation: bracket-pulse 2s infinite ease-in-out !important;
+  content: none !important;
+  animation: none !important;
 }
 
 
@@ -375,10 +355,10 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
 
 
 
-/* ══════════════════════════════════════════════════════════════════════════════════ */
-
-   COLOR VARIANTS
-    Quick swaps to change glow color
+/* ══════════════════════════════════════════════════════════════════════════════════
+  COLOR VARIANTS
+  Quick swaps to change glow color
+*/
 
 /* COLOR VARIANTS - Replace red with other colors */
 /* BLUE VARIANT */
