@@ -1,0 +1,4351 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-12T10:03:36.316597",
+    "source_file": "stoicism-series-claude-project-prompt-v1.0.0.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-stoicism\\stoicism-series-claude-project-prompt-v1.0.0.md",
+    "source_file_size_bytes": 62151,
+    "processing_time_seconds": 0.029
+  },
+  "document_metadata": {
+    "frontmatter": {},
+    "word_count": 7134,
+    "character_count": 54651,
+    "line_count": 1277,
+    "heading_count": 134
+  },
+  "extraction_summary": {
+    "total_items_extracted": 392,
+    "by_type": {
+      "headings": 134,
+      "callouts": 61,
+      "wiki_links": 73,
+      "inline_fields": 6,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 10,
+      "tables": 2,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 10,
+      "lists_unordered": 67,
+      "html_comments": 29,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 2,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "DOCUMENT IDENTIFICATION",
+      "anchor": "document-identification",
+      "line_number": 3,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "DISCOVERY & CLASSIFICATION",
+      "anchor": "discovery-classification",
+      "line_number": 9,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "PROMPT IDENTIFICATION & STATUS",
+      "anchor": "prompt-identification-status",
+      "line_number": 15,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "PROMPT PHILOSOPHY & PURPOSE",
+      "anchor": "prompt-philosophy-purpose",
+      "line_number": 23,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "MODEL CONFIGURATION",
+      "anchor": "model-configuration",
+      "line_number": 41,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "EPISTEMIC & VALIDATION TRACKING",
+      "anchor": "epistemic-validation-tracking",
+      "line_number": 48,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "DEPENDENCY MAPPING",
+      "anchor": "dependency-mapping",
+      "line_number": 54,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "KNOWLEDGE GRAPH POSITIONING",
+      "anchor": "knowledge-graph-positioning",
+      "line_number": 60,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "GOVERNANCE & VERSIONING",
+      "anchor": "governance-versioning",
+      "line_number": 73,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "System Identity",
+      "anchor": "system-identity",
+      "line_number": 119,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Series Mission",
+          "anchor": "series-mission",
+          "line_number": 125,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Constitutional Depth Mandate",
+          "anchor": "constitutional-depth-mandate",
+          "line_number": 137,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Part 2: PKB Integration Constitutional Requirements",
+      "anchor": "part-2-pkb-integration-constitutional-requirements",
+      "line_number": 148,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "YAML Frontmatter Template",
+          "anchor": "yaml-frontmatter-template",
+          "line_number": 150,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 156,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "CORE IDENTITY",
+      "anchor": "core-identity",
+      "line_number": 157,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 158,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 168,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "CLASSIFICATION",
+      "anchor": "classification",
+      "line_number": 169,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 170,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 186,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "TEMPORAL",
+      "anchor": "temporal",
+      "line_number": 187,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 188,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 192,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "SERIES METADATA",
+      "anchor": "series-metadata",
+      "line_number": 193,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 194,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 200,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "ACADEMIC METADATA",
+      "anchor": "academic-metadata",
+      "line_number": 201,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 202,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 216,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "CONTENT CHARACTERISTICS",
+      "anchor": "content-characteristics",
+      "line_number": 217,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 218,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 224,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "RELATIONSHIPS",
+      "anchor": "relationships",
+      "line_number": 225,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 226,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 258,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "QUALITY INDICATORS",
+      "anchor": "quality-indicators",
+      "line_number": 259,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 260,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 278,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "PKB INTEGRATION",
+      "anchor": "pkb-integration",
+      "line_number": 279,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 280,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 294,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "DOCUMENT FEATURES",
+      "anchor": "document-features",
+      "line_number": 295,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "═══════════════════════════════════════════════════════════════════════════",
+      "anchor": "",
+      "line_number": 296,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Callout Usage Protocol",
+          "anchor": "callout-usage-protocol",
+          "line_number": 308,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Wiki-Linking Protocol",
+          "anchor": "wiki-linking-protocol",
+          "line_number": 325,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Inline Field Protocol",
+          "anchor": "inline-field-protocol",
+          "line_number": 336,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Part 3: Five Report Scaffolds",
+      "anchor": "part-3-five-report-scaffolds",
+      "line_number": 355,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "How to Select a Scaffold",
+          "anchor": "how-to-select-a-scaffold",
+          "line_number": 357,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Scaffold 1: Foundational Report",
+          "anchor": "scaffold-1-foundational-report",
+          "line_number": 376,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "[Report Title]",
+      "anchor": "report-title",
+      "line_number": 387,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Part 1: The Stoic Inheritance — Historical Context and Origins",
+          "anchor": "part-1-the-stoic-inheritance-historical-context-and-origins",
+          "line_number": 396,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 2: The Conceptual Architecture — Core Principles",
+          "anchor": "part-2-the-conceptual-architecture-core-principles",
+          "line_number": 409,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 3: The Stoic Toolkit — Practical Exercises and Applications",
+          "anchor": "part-3-the-stoic-toolkit-practical-exercises-and-applications",
+          "line_number": 425,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 4: Stoicism and the Science of Mind — Modern Psychological Parallels",
+          "anchor": "part-4-stoicism-and-the-science-of-mind-modern-psychological-parallels",
+          "line_number": 441,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 5: Stoicism in Action — Worked Examples",
+          "anchor": "part-5-stoicism-in-action-worked-examples",
+          "line_number": 453,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 6: Integration — How This Connects to the Broader Stoic Architecture",
+          "anchor": "part-6-integration-how-this-connects-to-the-broader-stoic-architecture",
+          "line_number": 463,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Conclusion: The Living Practice",
+          "anchor": "conclusion-the-living-practice",
+          "line_number": 475,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "References and Primary Sources",
+          "anchor": "references-and-primary-sources",
+          "line_number": 484,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Further Reading",
+          "anchor": "further-reading",
+          "line_number": 494,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Expansion Topics for PKB",
+          "anchor": "expansion-topics-for-pkb",
+          "line_number": 501,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Glossary",
+          "anchor": "glossary",
+          "line_number": 511,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Scaffold 2: Socratic Dialogue",
+          "anchor": "scaffold-2-socratic-dialogue",
+          "line_number": 526,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "[Report Title]: A Dialogue on [Topic]",
+      "anchor": "report-title-a-dialogue-on-topic",
+      "line_number": 542,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Prologue: Setting the Scene",
+          "anchor": "prologue-setting-the-scene",
+          "line_number": 547,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "The Dialogue",
+          "anchor": "the-dialogue",
+          "line_number": 553,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Synthesis: What the Dialogue Established",
+          "anchor": "synthesis-what-the-dialogue-established",
+          "line_number": 576,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "For Further Reflection",
+          "anchor": "for-further-reflection",
+          "line_number": 585,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "The Practice Dimension",
+          "anchor": "the-practice-dimension",
+          "line_number": 595,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Series Connections and Further Exploration",
+          "anchor": "series-connections-and-further-exploration",
+          "line_number": 604,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "References",
+          "anchor": "references",
+          "line_number": 611,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Glossary",
+          "anchor": "glossary",
+          "line_number": 617,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Scaffold 3: Case Study Analysis",
+          "anchor": "scaffold-3-case-study-analysis",
+          "line_number": 630,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "[Report Title]: [Subject's Name] and the Stoic [Principle/Challenge]",
+      "anchor": "report-title-subjects-name-and-the-stoic-principlechallenge",
+      "line_number": 643,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Part 1: The Stage — Context and Challenge",
+          "anchor": "part-1-the-stage-context-and-challenge",
+          "line_number": 650,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 2: The Stoic Framework Applied",
+          "anchor": "part-2-the-stoic-framework-applied",
+          "line_number": 659,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 3: The Turning Points — Decision Analysis",
+          "anchor": "part-3-the-turning-points-decision-analysis",
+          "line_number": 671,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 4: Outcomes and Consequences",
+          "anchor": "part-4-outcomes-and-consequences",
+          "line_number": 690,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 5: The Transferable Architecture — What This Means for You",
+          "anchor": "part-5-the-transferable-architecture-what-this-means-for-you",
+          "line_number": 699,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 6: The Counter-Case — Where This Gets Complicated",
+          "anchor": "part-6-the-counter-case-where-this-gets-complicated",
+          "line_number": 712,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Conclusion: The Living Lesson",
+          "anchor": "conclusion-the-living-lesson",
+          "line_number": 718,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "References",
+          "anchor": "references",
+          "line_number": 727,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Related Cases for Comparison",
+          "anchor": "related-cases-for-comparison",
+          "line_number": 733,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Glossary",
+          "anchor": "glossary",
+          "line_number": 742,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Scaffold 4: Thematic Report",
+          "anchor": "scaffold-4-thematic-report",
+          "line_number": 755,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "[Report Title]: Stoicism and [Domain] — [Compelling Subtitle]",
+      "anchor": "report-title-stoicism-and-domain-compelling-subtitle",
+      "line_number": 766,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Part 1: The Problem This Domain Presents to Human Flourishing",
+          "anchor": "part-1-the-problem-this-domain-presents-to-human-flourishing",
+          "line_number": 773,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 2: What the Stoics Said — The Philosophical Foundation",
+          "anchor": "part-2-what-the-stoics-said-the-philosophical-foundation",
+          "line_number": 782,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 3: The Stoic Framework for [Domain] — A Systematic Architecture",
+          "anchor": "part-3-the-stoic-framework-for-domain-a-systematic-architecture",
+          "line_number": 794,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 4: The Psychology Behind the Philosophy — Why It Works",
+          "anchor": "part-4-the-psychology-behind-the-philosophy-why-it-works",
+          "line_number": 806,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 5: Worked Examples — Stoicism in [Domain] in Action",
+          "anchor": "part-5-worked-examples-stoicism-in-domain-in-action",
+          "line_number": 818,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 6: The Practice Architecture — A Systematic Toolkit",
+          "anchor": "part-6-the-practice-architecture-a-systematic-toolkit",
+          "line_number": 828,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 7: Common Obstacles and How the Stoics Addressed Them",
+          "anchor": "part-7-common-obstacles-and-how-the-stoics-addressed-them",
+          "line_number": 846,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 8: Integration — Building a Coherent Practice",
+          "anchor": "part-8-integration-building-a-coherent-practice",
+          "line_number": 856,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Conclusion: [Domain] Reframed",
+          "anchor": "conclusion-domain-reframed",
+          "line_number": 862,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "References",
+          "anchor": "references",
+          "line_number": 871,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Expansion Topics",
+          "anchor": "expansion-topics",
+          "line_number": 877,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Glossary",
+          "anchor": "glossary",
+          "line_number": 884,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Scaffold 5: Comparative Analysis",
+          "anchor": "scaffold-5-comparative-analysis",
+          "line_number": 897,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "[Report Title]: [Framework A] and [Framework B] — Convergence, Divergence, and Integration",
+      "anchor": "report-title-framework-a-and-framework-b-convergence-divergence-and-integration",
+      "line_number": 917,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Part 1: Introducing the Comparison — Why These Two Frameworks?",
+          "anchor": "part-1-introducing-the-comparison-why-these-two-frameworks",
+          "line_number": 924,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 2: Portrait of Framework A — [Stoicism or Partner Framework]",
+          "anchor": "part-2-portrait-of-framework-a-stoicism-or-partner-framework",
+          "line_number": 930,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 3: Portrait of Framework B — [Partner Framework]",
+          "anchor": "part-3-portrait-of-framework-b-partner-framework",
+          "line_number": 942,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 4: The Convergence Map — Where They Agree",
+          "anchor": "part-4-the-convergence-map-where-they-agree",
+          "line_number": 954,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 5: The Divergence Map — Where They Part Ways",
+          "anchor": "part-5-the-divergence-map-where-they-part-ways",
+          "line_number": 965,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 6: The Integration Opportunity — Beyond the Binary",
+          "anchor": "part-6-the-integration-opportunity-beyond-the-binary",
+          "line_number": 979,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 7: Historical Connections — Did These Traditions Know Each Other?",
+          "anchor": "part-7-historical-connections-did-these-traditions-know-each-other",
+          "line_number": 991,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Part 8: Practical Implications — Which Framework for Which Challenge?",
+          "anchor": "part-8-practical-implications-which-framework-for-which-challenge",
+          "line_number": 1000,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Conclusion: The Richer Picture",
+          "anchor": "conclusion-the-richer-picture",
+          "line_number": 1012,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "References",
+          "anchor": "references",
+          "line_number": 1021,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Expansion Topics",
+          "anchor": "expansion-topics",
+          "line_number": 1027,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Glossary",
+          "anchor": "glossary",
+          "line_number": 1034,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Part 4: Series Coherence Protocol",
+      "anchor": "part-4-series-coherence-protocol",
+      "line_number": 1045,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "The Series Arc",
+          "anchor": "the-series-arc",
+          "line_number": 1047,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Cross-Report Consistency Requirements",
+          "anchor": "cross-report-consistency-requirements",
+          "line_number": 1059,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Part 5: Quality Validation Gates",
+      "anchor": "part-5-quality-validation-gates",
+      "line_number": 1100,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Gate 1: Depth and Completeness",
+          "anchor": "gate-1-depth-and-completeness",
+          "line_number": 1104,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Gate 2: PKB Integration",
+          "anchor": "gate-2-pkb-integration",
+          "line_number": 1114,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Gate 3: Philosophical Accuracy",
+          "anchor": "gate-3-philosophical-accuracy",
+          "line_number": 1127,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Gate 4: Practical Value",
+          "anchor": "gate-4-practical-value",
+          "line_number": 1137,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Gate 5: Series Coherence",
+          "anchor": "gate-5-series-coherence",
+          "line_number": 1146,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Part 6: Pre-Output Validation Checklist",
+      "anchor": "part-6-pre-output-validation-checklist",
+      "line_number": 1160,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "PRE-REPORT GENERATION PLANNING",
+          "anchor": "pre-report-generation-planning",
+          "line_number": 1166,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. Topic and Scaffold Selection",
+              "anchor": "1-topic-and-scaffold-selection",
+              "line_number": 1168,
+              "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. Content Architecture",
+              "anchor": "2-content-architecture",
+              "line_number": 1174,
+              "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. Depth Assessment",
+              "anchor": "3-depth-assessment",
+              "line_number": 1181,
+              "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. PKB Integration Planning",
+              "anchor": "4-pkb-integration-planning",
+              "line_number": 1186,
+              "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5. Quality Gates Pre-Check",
+              "anchor": "5-quality-gates-pre-check",
+              "line_number": 1193,
+              "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Decision",
+              "anchor": "decision",
+              "line_number": 1200,
+              "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Operating Instructions",
+      "anchor": "operating-instructions",
+      "line_number": 1211,
+      "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "How to Request a Report",
+          "anchor": "how-to-request-a-report",
+          "line_number": 1213,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "On Request: Produce Complete Reports",
+          "anchor": "on-request-produce-complete-reports",
+          "line_number": 1232,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Series Index",
+          "anchor": "series-index",
+          "line_number": 1241,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "[2–3 sentence overview of the report's scope, purpose, and key insights]",
+        "line_number": 389,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 16796,
+        "char_end": 16885
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "[Primary source quote — Marcus Aurelius, Epictetus, or Seneca — directly relevant to the topic]",
+        "line_number": 400,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 17284,
+        "char_end": 17393
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**[Key Concept]**: [Precise definition with etymology where relevant]",
+        "line_number": 413,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 17972,
+        "char_end": 18060
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Common Misunderstanding**: [Address the most frequent misconception about this topic]",
+        "line_number": 420,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 18319,
+        "char_end": 18422
+      },
+      {
+        "type": "practice",
+        "title": "Untitled",
+        "body": "**Exercise: [Name]**\n\n**What to do**: [Clear procedural description]\n**When to do it**: [Context and frequency]\n**Why it works**: [Psychological and philosophical rationale]\n**Expected outcome**: [What change the practitioner should notice]",
+        "line_number": 429,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 18866,
+        "char_end": 19133
+      },
+      {
+        "type": "research",
+        "title": "Untitled",
+        "body": "**Empirical Finding**: [Specific research finding that validates or illuminates a Stoic principle]",
+        "line_number": 445,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 19594,
+        "char_end": 19709
+      },
+      {
+        "type": "key-insight",
+        "title": "Untitled",
+        "body": "**The Philosophical–Psychological Bridge**: [The deep insight connecting ancient practice to modern science]",
+        "line_number": 448,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 19710,
+        "char_end": 19838
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Case: [Name or Scenario]**\n[Narrative account + analysis of how Stoic principles operated in this case + lessons for the reader]",
+        "line_number": 457,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 20230,
+        "char_end": 20378
+      },
+      {
+        "type": "connection-ideas",
+        "title": "Untitled",
+        "body": "**Series Connections**: \n- **Builds on**: [[Previous relevant report]]\n- **Enables**: [[Next relevant report]]\n- **In tension with**: [[Complementary or contrasting topic]]",
+        "line_number": 467,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 20727,
+        "char_end": 20930
+      },
+      {
+        "type": "key-takeaway",
+        "title": "Untitled",
+        "body": "[The single most important insight from this report, stated clearly and memorably]",
+        "line_number": 479,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 21255,
+        "char_end": 21358
+      },
+      {
+        "type": "further-reading",
+        "title": "Untitled",
+        "body": "[3–5 recommended works for deeper exploration, with brief annotations]",
+        "line_number": 496,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 21724,
+        "char_end": 21818
+      },
+      {
+        "type": "related-topics",
+        "title": "Untitled",
+        "body": "**Suggested New Notes**:\n- [[Expansion Topic 1]] — [Why this deserves its own note, priority: high/medium]\n- [[Expansion Topic 2]] — [Rationale]\n- [[Expansion Topic 3]] — [Rationale]",
+        "line_number": 503,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 21853,
+        "char_end": 22064
+      },
+      {
+        "type": "glossary",
+        "title": "Untitled",
+        "body": "**[Term]**: [Definition]\n**[Term]**: [Definition]\n[Continue for all key terms introduced in this report]",
+        "line_number": 513,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 22083,
+        "char_end": 22208
+      },
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "[Brief framing of what question the dialogue examines and why it matters]",
+        "line_number": 544,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 23464,
+        "char_end": 23554
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**[Term introduced in dialogue]**: [Precise definition for the reader's reference]",
+        "line_number": 563,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 24319,
+        "char_end": 24420
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "[A primary source quote that one character invokes]",
+        "line_number": 566,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 24421,
+        "char_end": 24486
+      },
+      {
+        "type": "key-insight",
+        "title": "Untitled",
+        "body": "[A moment when the dialogue reaches a genuine insight — what has been established]",
+        "line_number": 569,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 24487,
+        "char_end": 24589
+      },
+      {
+        "type": "key-takeaway",
+        "title": "Untitled",
+        "body": "[The central insight the dialogue arrived at]",
+        "line_number": 580,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 25070,
+        "char_end": 25136
+      },
+      {
+        "type": "reflection",
+        "title": "Untitled",
+        "body": "**Questions to sit with**:\n1. [Question that extends the dialogue into the reader's own life]\n2. [Question that tests the reader's own position]\n3. [Question that invites practice]",
+        "line_number": 587,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 25169,
+        "char_end": 25374
+      },
+      {
+        "type": "practice",
+        "title": "Untitled",
+        "body": "[At least one concrete exercise flowing from the dialogue's insights]",
+        "line_number": 599,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 25614,
+        "char_end": 25700
+      },
+      {
+        "type": "connection-ideas",
+        "title": "Untitled",
+        "body": "[Cross-references to related reports and PKB nodes]",
+        "line_number": 606,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 25753,
+        "char_end": 25829
+      },
+      {
+        "type": "glossary",
+        "title": "Untitled",
+        "body": "[Key terms introduced or analyzed in the dialogue]",
+        "line_number": 619,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 25959,
+        "char_end": 26026
+      },
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "[Overview of who is being examined, what challenge they faced, and what Stoic principles the case illuminates]",
+        "line_number": 645,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 27164,
+        "char_end": 27291
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "[A quote from the subject, if available — primary source or documented statement]",
+        "line_number": 654,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 27649,
+        "char_end": 27744
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**[Relevant Stoic Principle]**: [Precise definition]",
+        "line_number": 663,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 28061,
+        "char_end": 28132
+      },
+      {
+        "type": "key-insight",
+        "title": "Untitled",
+        "body": "**The Principle in Action**: [How the abstract principle manifested in this concrete case]",
+        "line_number": 666,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 28133,
+        "char_end": 28243
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Turning Point: [Label]**\n\n**The Situation**: [Description]\n**The Response**: [What happened]\n**The Stoic Reading**: [Analysis]\n**The Lesson**: [What this teaches]",
+        "line_number": 680,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 28643,
+        "char_end": 28833
+      },
+      {
+        "type": "research",
+        "title": "Untitled",
+        "body": "[Any empirical research relevant to the outcomes — e.g., resilience research, psychological outcomes of Stoic-aligned practices]",
+        "line_number": 694,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 29146,
+        "char_end": 29291
+      },
+      {
+        "type": "practice",
+        "title": "Untitled",
+        "body": "**Applying [Lesson] in Your Life**:\n[Concrete protocol for implementing the lesson in everyday contexts]",
+        "line_number": 703,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 29678,
+        "char_end": 29801
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**What This Case Does NOT Mean**: [Address potential misreadings or overgeneralizations]",
+        "line_number": 707,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 29802,
+        "char_end": 29906
+      },
+      {
+        "type": "key-takeaway",
+        "title": "Untitled",
+        "body": "[The single most transferable lesson from this case]",
+        "line_number": 722,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 30363,
+        "char_end": 30436
+      },
+      {
+        "type": "related-topics",
+        "title": "Untitled",
+        "body": "**For Comparative Study**:\n- [[Related Case or Figure 1]] — [Brief note on the comparison]\n- [[Related Case or Figure 2]] — [Brief note]",
+        "line_number": 735,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 30579,
+        "char_end": 30742
+      },
+      {
+        "type": "glossary",
+        "title": "Untitled",
+        "body": "[Key terms from the case analysis]",
+        "line_number": 744,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 30761,
+        "char_end": 30812
+      },
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "[Overview: the domain being explored, the Stoic principles most relevant to it, and the practical transformation the report promises]",
+        "line_number": 768,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 31621,
+        "char_end": 31771
+      },
+      {
+        "type": "research",
+        "title": "Untitled",
+        "body": "**The Empirical Landscape**: [Research findings about challenges in this domain]",
+        "line_number": 777,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 32145,
+        "char_end": 32242
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "[Primary source quote directly addressing the domain]",
+        "line_number": 786,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 32571,
+        "char_end": 32638
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**The Stoic Conception of [Domain Topic]**: [Precise characterization]",
+        "line_number": 789,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 32639,
+        "char_end": 32728
+      },
+      {
+        "type": "key-insight",
+        "title": "Untitled",
+        "body": "**Framework Principle [N]**: [Name of principle]\n[Application to domain]",
+        "line_number": 798,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 33083,
+        "char_end": 33177
+      },
+      {
+        "type": "research",
+        "title": "Untitled",
+        "body": "[Key empirical finding supporting a Stoic practice in this domain]",
+        "line_number": 810,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 33587,
+        "char_end": 33670
+      },
+      {
+        "type": "connection-ideas",
+        "title": "Untitled",
+        "body": "**Stoicism and [[Cognitive Behavioral Therapy]]**: [The specific bridge]",
+        "line_number": 813,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 33671,
+        "char_end": 33768
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Example [N]: [Title/Name]**\n[Narrative + analysis + lesson]",
+        "line_number": 822,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 34129,
+        "char_end": 34208
+      },
+      {
+        "type": "practice",
+        "title": "Untitled",
+        "body": "**Practice [N]: [Name]**\n\n**The Practice**: [Clear procedural description]\n**Frequency**: [When and how often]\n**Duration**: [Time commitment]\n**Stoic Grounding**: [Which principle and which text]\n**Psychological Mechanism**: [Why it works cognitively/emotionally]\n**Signs of Progress**: [What the practitioner should notice]",
+        "line_number": 832,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 34602,
+        "char_end": 34957
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Obstacle**: [Common difficulty]\n**The Stoic Response**: [How to address it]",
+        "line_number": 850,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 35291,
+        "char_end": 35386
+      },
+      {
+        "type": "key-takeaway",
+        "title": "Untitled",
+        "body": "[The transformative insight that defines this report's practical contribution]",
+        "line_number": 866,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 35915,
+        "char_end": 36014
+      },
+      {
+        "type": "related-topics",
+        "title": "Untitled",
+        "body": "[Suggested new PKB notes that this report generates the need for]",
+        "line_number": 879,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 36091,
+        "char_end": 36179
+      },
+      {
+        "type": "glossary",
+        "title": "Untitled",
+        "body": "[Key terms — both Stoic and psychological]",
+        "line_number": 886,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 36198,
+        "char_end": 36257
+      },
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "[Overview of what is being compared, the key dimensions of comparison, and the central finding about how the traditions relate]",
+        "line_number": 919,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 37605,
+        "char_end": 37749
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**[Framework A Core Principle]**: [Definition]",
+        "line_number": 934,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 38510,
+        "char_end": 38575
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "[Representative primary source from Framework A]",
+        "line_number": 937,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 38576,
+        "char_end": 38638
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**[Framework B Core Principle]**: [Definition]",
+        "line_number": 946,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 38891,
+        "char_end": 38956
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "[Representative source from Framework B — whether primary philosophical text, foundational psychological paper, or clinical literature]",
+        "line_number": 949,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 38957,
+        "char_end": 39106
+      },
+      {
+        "type": "key-insight",
+        "title": "Untitled",
+        "body": "**Convergence Point [N]**: [What both frameworks share on this point and why it matters]",
+        "line_number": 958,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 39488,
+        "char_end": 39596
+      },
+      {
+        "type": "critique",
+        "title": "Untitled",
+        "body": "**Divergence Point [N]**: \n- **Framework A's position**: [What it claims]\n- **Framework B's position**: [What it claims]  \n- **The Stakes**: [What practical difference this disagreement makes]",
+        "line_number": 969,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 40000,
+        "char_end": 40215
+      },
+      {
+        "type": "key-insight",
+        "title": "Untitled",
+        "body": "**Integration Insight**: [The central finding about how these frameworks can work together]",
+        "line_number": 983,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 40676,
+        "char_end": 40787
+      },
+      {
+        "type": "practice",
+        "title": "Untitled",
+        "body": "**Integrated Practice**: [A concrete practice that draws meaningfully on both traditions]",
+        "line_number": 986,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 40788,
+        "char_end": 40894
+      },
+      {
+        "type": "research",
+        "title": "Untitled",
+        "body": "[Evidence of historical connection or independent convergent development]",
+        "line_number": 995,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 41432,
+        "char_end": 41522
+      },
+      {
+        "type": "practice",
+        "title": "Untitled",
+        "body": "**Decision Guide**:\n- Use Stoicism primarily when... [Context]\n- Use [Framework B] primarily when... [Context]\n- Use an integrated approach when... [Context]",
+        "line_number": 1004,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 41867,
+        "char_end": 42047
+      },
+      {
+        "type": "key-takeaway",
+        "title": "Untitled",
+        "body": "[The central insight that emerges from the comparison — what you now know that you could not have known from studying either tradition in isolation]",
+        "line_number": 1016,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 42405,
+        "char_end": 42574
+      },
+      {
+        "type": "related-topics",
+        "title": "Untitled",
+        "body": "[PKB notes this comparison generates the need for]",
+        "line_number": 1029,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 42725,
+        "char_end": 42798
+      },
+      {
+        "type": "glossary",
+        "title": "Untitled",
+        "body": "[Key terms from both frameworks]",
+        "line_number": 1036,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 42817,
+        "char_end": 42866
+      },
+      {
+        "type": "index",
+        "title": "Untitled",
+        "body": "**Stoicism Series Navigation**\n\nThis is Report [N] of 10 in the [[Stoicism Series Overview]]\n\n← Previous: [[Report N-1 Title]]\n→ Next: [[Report N+1 Title]]\n\n**Series Arc Position**: [Foundation | Application | Integration]\n**Recommended Prerequisites**: [List any reports that should be read first]",
+        "line_number": 1076,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md",
+        "char_start": 45640,
+        "char_end": 45968
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "PKB Architect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PKB Architect]]",
+        "line_number": 56,
+        "section": "DEPENDENCY MAPPING",
+        "context_line": "enhances_prompts: [\"[[PKB Architect]]\"]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Stoicism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism]]",
+        "line_number": 62,
+        "section": "KNOWLEDGE GRAPH POSITIONING",
+        "context_line": "- \"[[Stoicism]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Marcus Aurelius",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus Aurelius]]",
+        "line_number": 63,
+        "section": "KNOWLEDGE GRAPH POSITIONING",
+        "context_line": "- \"[[Marcus Aurelius]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 64,
+        "section": "KNOWLEDGE GRAPH POSITIONING",
+        "context_line": "- \"[[Epictetus]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Seneca",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Seneca]]",
+        "line_number": 65,
+        "section": "KNOWLEDGE GRAPH POSITIONING",
+        "context_line": "- \"[[Seneca]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Cognitive Behavioral Therapy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Behavioral Therapy]]",
+        "line_number": 66,
+        "section": "KNOWLEDGE GRAPH POSITIONING",
+        "context_line": "- \"[[Cognitive Behavioral Therapy]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Mindfulness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mindfulness]]",
+        "line_number": 67,
+        "section": "KNOWLEDGE GRAPH POSITIONING",
+        "context_line": "- \"[[Mindfulness]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Emotional Resilience",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Emotional Resilience]]",
+        "line_number": 68,
+        "section": "KNOWLEDGE GRAPH POSITIONING",
+        "context_line": "- \"[[Emotional Resilience]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Virtue Ethics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue Ethics]]",
+        "line_number": 69,
+        "section": "KNOWLEDGE GRAPH POSITIONING",
+        "context_line": "- \"[[Virtue Ethics]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 70,
+        "section": "KNOWLEDGE GRAPH POSITIONING",
+        "context_line": "- \"[[Metacognition]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "PKB Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PKB Architecture]]",
+        "line_number": 71,
+        "section": "KNOWLEDGE GRAPH POSITIONING",
+        "context_line": "- \"[[PKB Architecture]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Stoicism MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism MOC]]",
+        "line_number": 228,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Stoicism MOC]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Stoicism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism]]",
+        "line_number": 232,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Stoicism]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Marcus Aurelius",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus Aurelius]]",
+        "line_number": 233,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Marcus Aurelius]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 234,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Epictetus]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Seneca",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Seneca]]",
+        "line_number": 235,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Seneca]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Previous Report Title",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Previous Report Title]]",
+        "line_number": 239,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "previous: \"[[Previous Report Title]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Next Report Title",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Next Report Title]]",
+        "line_number": 240,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "next: \"[[Next Report Title]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Related Report 1",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Related Report 1]]",
+        "line_number": 242,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Related Report 1]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Related Report 2",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Related Report 2]]",
+        "line_number": 243,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Related Report 2]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Philosophy MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Philosophy MOC]]",
+        "line_number": 246,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Philosophy MOC]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Virtue Ethics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue Ethics]]",
+        "line_number": 247,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Virtue Ethics]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Ancient Philosophy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ancient Philosophy]]",
+        "line_number": 248,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Ancient Philosophy]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Stoicism MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism MOC]]",
+        "line_number": 281,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "link-up: \"[[Stoicism MOC]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Specific sub-topic 1",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Specific sub-topic 1]]",
+        "line_number": 283,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Specific sub-topic 1]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Specific sub-topic 2",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Specific sub-topic 2]]",
+        "line_number": 284,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Specific sub-topic 2]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Related concept in PKB",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Related concept in PKB]]",
+        "line_number": 286,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Related concept in PKB]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Bridging concept",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bridging concept]]",
+        "line_number": 287,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- \"[[Bridging concept]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Expansion Topic 1",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expansion Topic 1]]",
+        "line_number": 290,
+        "section": "═══════════════════════════════════════════════════════════════════════════",
+        "context_line": "- topic: \"[[Expansion Topic 1]]\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Concept Name",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Concept Name]]",
+        "line_number": 327,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "**[Wiki-Linking-Density:: Minimum 20 wiki-links per standard report. Every significant philosophical concept, psychological framework, named Stoic figure, and cross-series topic must be wiki-linked. Links should be formatted as [[Concept Name]] and should create genuine navigational value in the knowledge graph.]**",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Marcus Aurelius",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus Aurelius]]",
+        "line_number": 330,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- All four major Stoics: [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Chrysippus]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 330,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- All four major Stoics: [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Chrysippus]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Seneca",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Seneca]]",
+        "line_number": 330,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- All four major Stoics: [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Chrysippus]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Chrysippus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chrysippus]]",
+        "line_number": 330,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- All four major Stoics: [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Chrysippus]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Dichotomy of Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dichotomy of Control]]",
+        "line_number": 331,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Core Stoic concepts: [[Dichotomy of Control]], [[Virtue Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Virtue Ethics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue Ethics]]",
+        "line_number": 331,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Core Stoic concepts: [[Dichotomy of Control]], [[Virtue Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Logos",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Logos]]",
+        "line_number": 331,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Core Stoic concepts: [[Dichotomy of Control]], [[Virtue Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Prohairesis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prohairesis]]",
+        "line_number": 331,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Core Stoic concepts: [[Dichotomy of Control]], [[Virtue Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Eudaimonia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Eudaimonia]]",
+        "line_number": 331,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Core Stoic concepts: [[Dichotomy of Control]], [[Virtue Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Apatheia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Apatheia]]",
+        "line_number": 331,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Core Stoic concepts: [[Dichotomy of Control]], [[Virtue Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Ataraxia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ataraxia]]",
+        "line_number": 331,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Core Stoic concepts: [[Dichotomy of Control]], [[Virtue Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Sophrosyne",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Sophrosyne]]",
+        "line_number": 331,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Core Stoic concepts: [[Dichotomy of Control]], [[Virtue Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Cognitive Behavioral Therapy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Behavioral Therapy]]",
+        "line_number": 332,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Psychological frameworks: [[Cognitive Behavioral Therapy]], [[Mindfulness]], [[Emotional Regulation]], [[Resilience]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Mindfulness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mindfulness]]",
+        "line_number": 332,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Psychological frameworks: [[Cognitive Behavioral Therapy]], [[Mindfulness]], [[Emotional Regulation]], [[Resilience]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Emotional Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Emotional Regulation]]",
+        "line_number": 332,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Psychological frameworks: [[Cognitive Behavioral Therapy]], [[Mindfulness]], [[Emotional Regulation]], [[Resilience]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Resilience",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Resilience]]",
+        "line_number": 332,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Psychological frameworks: [[Cognitive Behavioral Therapy]], [[Mindfulness]], [[Emotional Regulation]], [[Resilience]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Stoicism MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism MOC]]",
+        "line_number": 333,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Series nodes: [[Stoicism MOC]], [[Stoicism Series Overview]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Stoicism Series Overview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism Series Overview]]",
+        "line_number": 333,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Series nodes: [[Stoicism MOC]], [[Stoicism Series Overview]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Socrates",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socrates]]",
+        "line_number": 334,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Related philosophy: [[Socrates]], [[Plato]], [[Aristotle]], [[Cynicism]], [[Epicureanism]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Plato",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Plato]]",
+        "line_number": 334,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Related philosophy: [[Socrates]], [[Plato]], [[Aristotle]], [[Cynicism]], [[Epicureanism]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Aristotle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Aristotle]]",
+        "line_number": 334,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Related philosophy: [[Socrates]], [[Plato]], [[Aristotle]], [[Cynicism]], [[Epicureanism]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Cynicism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cynicism]]",
+        "line_number": 334,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Related philosophy: [[Socrates]], [[Plato]], [[Aristotle]], [[Cynicism]], [[Epicureanism]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Epicureanism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epicureanism]]",
+        "line_number": 334,
+        "section": "Wiki-Linking Protocol",
+        "context_line": "- Related philosophy: [[Socrates]], [[Plato]], [[Aristotle]], [[Cynicism]], [[Epicureanism]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Previous relevant report",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Previous relevant report]]",
+        "line_number": 469,
+        "section": "Part 6: Integration — How This Connects to the Broader Stoic Architecture",
+        "context_line": "> - **Builds on**: [[Previous relevant report]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Next relevant report",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Next relevant report]]",
+        "line_number": 470,
+        "section": "Part 6: Integration — How This Connects to the Broader Stoic Architecture",
+        "context_line": "> - **Enables**: [[Next relevant report]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Complementary or contrasting topic",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Complementary or contrasting topic]]",
+        "line_number": 471,
+        "section": "Part 6: Integration — How This Connects to the Broader Stoic Architecture",
+        "context_line": "> - **In tension with**: [[Complementary or contrasting topic]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Expansion Topic 1",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expansion Topic 1]]",
+        "line_number": 505,
+        "section": "Expansion Topics for PKB",
+        "context_line": "> - [[Expansion Topic 1]] — [Why this deserves its own note, priority: high/medium]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Expansion Topic 2",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expansion Topic 2]]",
+        "line_number": 506,
+        "section": "Expansion Topics for PKB",
+        "context_line": "> - [[Expansion Topic 2]] — [Rationale]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Expansion Topic 3",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expansion Topic 3]]",
+        "line_number": 507,
+        "section": "Expansion Topics for PKB",
+        "context_line": "> - [[Expansion Topic 3]] — [Rationale]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Related Case or Figure 1",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Related Case or Figure 1]]",
+        "line_number": 737,
+        "section": "Related Cases for Comparison",
+        "context_line": "> - [[Related Case or Figure 1]] — [Brief note on the comparison]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Related Case or Figure 2",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Related Case or Figure 2]]",
+        "line_number": 738,
+        "section": "Related Cases for Comparison",
+        "context_line": "> - [[Related Case or Figure 2]] — [Brief note]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Cognitive Behavioral Therapy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Behavioral Therapy]]",
+        "line_number": 814,
+        "section": "Part 4: The Psychology Behind the Philosophy — Why It Works",
+        "context_line": "> **Stoicism and [[Cognitive Behavioral Therapy]]**: [The specific bridge]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Dichotomy of Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dichotomy of Control]]",
+        "line_number": 1064,
+        "section": "Cross-Report Consistency Requirements",
+        "context_line": "- [[Dichotomy of Control]]: The distinction between what is \"up to us\" (eph' hēmin) and what is not — the foundational Stoic operating principle",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Logos",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Logos]]",
+        "line_number": 1065,
+        "section": "Cross-Report Consistency Requirements",
+        "context_line": "- [[Logos]]: The rational principle underlying the cosmos; the universal reason in which all beings participate",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Prohairesis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prohairesis]]",
+        "line_number": 1066,
+        "section": "Cross-Report Consistency Requirements",
+        "context_line": "- [[Prohairesis]]: The faculty of rational choice; the seat of moral character; what is genuinely \"ours\"",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Virtue",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue]]",
+        "line_number": 1067,
+        "section": "Cross-Report Consistency Requirements",
+        "context_line": "- [[Virtue]]: The only true good; the four cardinal Stoic virtues are wisdom (sophia), justice (dikaiosynē), courage (andreia), and temperance (sōphrosynē)",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Preferred Indifferents",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Preferred Indifferents]]",
+        "line_number": 1068,
+        "section": "Cross-Report Consistency Requirements",
+        "context_line": "- [[Preferred Indifferents]]: Things valuable but not constitutive of the good life — health, wealth, reputation",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Eudaimonia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Eudaimonia]]",
+        "line_number": 1069,
+        "section": "Cross-Report Consistency Requirements",
+        "context_line": "- [[Eudaimonia]]: Flourishing, often mistranslated as \"happiness\" — better understood as living in accordance with reason and virtue",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Stoicism Series Overview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism Series Overview]]",
+        "line_number": 1079,
+        "section": "Cross-Report Consistency Requirements",
+        "context_line": "> This is Report [N] of 10 in the [[Stoicism Series Overview]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Report N-1 Title",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report N-1 Title]]",
+        "line_number": 1081,
+        "section": "Cross-Report Consistency Requirements",
+        "context_line": "> ← Previous: [[Report N-1 Title]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Report N+1 Title",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report N+1 Title]]",
+        "line_number": 1082,
+        "section": "Cross-Report Consistency Requirements",
+        "context_line": "> → Next: [[Report N+1 Title]]",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Dichotomy of Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dichotomy of Control]]",
+        "line_number": 1089,
+        "section": "Cross-Report Consistency Requirements",
+        "context_line": "- The [[Dichotomy of Control]] as the master framework for Stoic practice",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "target": "Eudaimonia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Eudaimonia]]",
+        "line_number": 1091,
+        "section": "Cross-Report Consistency Requirements",
+        "context_line": "- The relationship between Stoicism and [[Eudaimonia]] — flourishing as the goal",
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Stoicism-Series-Identity",
+        "value": "You operate at the intersection of ancient wisdom and modern science, synthesizing Stoicism's philosophical tradition with cognitive science, clinical psychology, neuroscience, and educational theory. Every report you generate becomes a node in a rich, navigable knowledge graph — permanently enriching the user's PKB and serving as a transferable resource for family members who are intelligent but lack specialized academic training.",
+        "format": "bracket",
+        "line_number": 123,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "field_name": "Anti-Truncation-Directive",
+        "value": "LLMs are trained toward conciseness. You must actively counteract this tendency. When uncertain whether to elaborate, always elaborate. If a section could benefit from an additional example, add it. If a philosophical concept has a fascinating historical backstory, tell it. Reports of fewer than 8,000 words are presumptively incomplete for standard report types. Socratic Dialogues must reach a minimum of 6,000 words to achieve the dialectical depth the format demands.",
+        "format": "bracket",
+        "line_number": 139,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "field_name": "Prose-Over-Brevity",
+        "value": "Reports are essays, not bullet-point collections. Prose is the primary medium. Lists appear only when genuinely list-like structures are being presented (e.g., a set of discrete exercises, a glossary). Ideas are developed through paragraphs, not fragmented into disconnected bullets.",
+        "format": "bracket",
+        "line_number": 141,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "field_name": "Wiki-Linking-Density",
+        "value": "Minimum 20 wiki-links per standard report. Every significant philosophical concept, psychological framework, named Stoic figure, and cross-series topic must be wiki-linked. Links should be formatted as [[Concept Name",
+        "format": "bracket",
+        "line_number": 327,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "field_name": "Concept-Name",
+        "value": "Definition or characterization of the concept, precisely worded for the knowledge graph",
+        "format": "bracket",
+        "line_number": 341,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "field_name": "Series-Arc",
+        "value": "The \"Stoicism: Ancient Wisdom for Modern Life\" series is structured as a progressive journey — from historical foundations through core philosophy through practical application and finally to integration with modern frameworks. Each report must be intelligible as a standalone document AND as a contributing chapter in the larger series narrative.",
+        "format": "bracket",
+        "line_number": 1049,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 2,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "DOCUMENT IDENTIFICATION",
+        "anchor": "document-identification",
+        "line_number": 3,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "DISCOVERY & CLASSIFICATION",
+        "anchor": "discovery-classification",
+        "line_number": 9,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "PROMPT IDENTIFICATION & STATUS",
+        "anchor": "prompt-identification-status",
+        "line_number": 15,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "PROMPT PHILOSOPHY & PURPOSE",
+        "anchor": "prompt-philosophy-purpose",
+        "line_number": 23,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "MODEL CONFIGURATION",
+        "anchor": "model-configuration",
+        "line_number": 41,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "EPISTEMIC & VALIDATION TRACKING",
+        "anchor": "epistemic-validation-tracking",
+        "line_number": 48,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "DEPENDENCY MAPPING",
+        "anchor": "dependency-mapping",
+        "line_number": 54,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "KNOWLEDGE GRAPH POSITIONING",
+        "anchor": "knowledge-graph-positioning",
+        "line_number": 60,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "GOVERNANCE & VERSIONING",
+        "anchor": "governance-versioning",
+        "line_number": 73,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "System Identity",
+        "anchor": "system-identity",
+        "line_number": 119,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Series Mission",
+        "anchor": "series-mission",
+        "line_number": 125,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Constitutional Depth Mandate",
+        "anchor": "constitutional-depth-mandate",
+        "line_number": 137,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "Part 2: PKB Integration Constitutional Requirements",
+        "anchor": "part-2-pkb-integration-constitutional-requirements",
+        "line_number": 148,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "YAML Frontmatter Template",
+        "anchor": "yaml-frontmatter-template",
+        "line_number": 150,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 156,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "CORE IDENTITY",
+        "anchor": "core-identity",
+        "line_number": 157,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 158,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 168,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "CLASSIFICATION",
+        "anchor": "classification",
+        "line_number": 169,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 170,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 186,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "TEMPORAL",
+        "anchor": "temporal",
+        "line_number": 187,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 188,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 192,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "SERIES METADATA",
+        "anchor": "series-metadata",
+        "line_number": 193,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 194,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 200,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "ACADEMIC METADATA",
+        "anchor": "academic-metadata",
+        "line_number": 201,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 202,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 216,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "CONTENT CHARACTERISTICS",
+        "anchor": "content-characteristics",
+        "line_number": 217,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 218,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 224,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "RELATIONSHIPS",
+        "anchor": "relationships",
+        "line_number": 225,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 226,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 258,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "QUALITY INDICATORS",
+        "anchor": "quality-indicators",
+        "line_number": 259,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 260,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 278,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "PKB INTEGRATION",
+        "anchor": "pkb-integration",
+        "line_number": 279,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 280,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 294,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "DOCUMENT FEATURES",
+        "anchor": "document-features",
+        "line_number": 295,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "═══════════════════════════════════════════════════════════════════════════",
+        "anchor": "",
+        "line_number": 296,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Callout Usage Protocol",
+        "anchor": "callout-usage-protocol",
+        "line_number": 308,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Wiki-Linking Protocol",
+        "anchor": "wiki-linking-protocol",
+        "line_number": 325,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Inline Field Protocol",
+        "anchor": "inline-field-protocol",
+        "line_number": 336,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "Part 3: Five Report Scaffolds",
+        "anchor": "part-3-five-report-scaffolds",
+        "line_number": 355,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "How to Select a Scaffold",
+        "anchor": "how-to-select-a-scaffold",
+        "line_number": 357,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Scaffold 1: Foundational Report",
+        "anchor": "scaffold-1-foundational-report",
+        "line_number": 376,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "[Report Title]",
+        "anchor": "report-title",
+        "line_number": 387,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 1: The Stoic Inheritance — Historical Context and Origins",
+        "anchor": "part-1-the-stoic-inheritance-historical-context-and-origins",
+        "line_number": 396,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 2: The Conceptual Architecture — Core Principles",
+        "anchor": "part-2-the-conceptual-architecture-core-principles",
+        "line_number": 409,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 3: The Stoic Toolkit — Practical Exercises and Applications",
+        "anchor": "part-3-the-stoic-toolkit-practical-exercises-and-applications",
+        "line_number": 425,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 4: Stoicism and the Science of Mind — Modern Psychological Parallels",
+        "anchor": "part-4-stoicism-and-the-science-of-mind-modern-psychological-parallels",
+        "line_number": 441,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 5: Stoicism in Action — Worked Examples",
+        "anchor": "part-5-stoicism-in-action-worked-examples",
+        "line_number": 453,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 6: Integration — How This Connects to the Broader Stoic Architecture",
+        "anchor": "part-6-integration-how-this-connects-to-the-broader-stoic-architecture",
+        "line_number": 463,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Conclusion: The Living Practice",
+        "anchor": "conclusion-the-living-practice",
+        "line_number": 475,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "References and Primary Sources",
+        "anchor": "references-and-primary-sources",
+        "line_number": 484,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Further Reading",
+        "anchor": "further-reading",
+        "line_number": 494,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Expansion Topics for PKB",
+        "anchor": "expansion-topics-for-pkb",
+        "line_number": 501,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Glossary",
+        "anchor": "glossary",
+        "line_number": 511,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Scaffold 2: Socratic Dialogue",
+        "anchor": "scaffold-2-socratic-dialogue",
+        "line_number": 526,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "[Report Title]: A Dialogue on [Topic]",
+        "anchor": "report-title-a-dialogue-on-topic",
+        "line_number": 542,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Prologue: Setting the Scene",
+        "anchor": "prologue-setting-the-scene",
+        "line_number": 547,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "The Dialogue",
+        "anchor": "the-dialogue",
+        "line_number": 553,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Synthesis: What the Dialogue Established",
+        "anchor": "synthesis-what-the-dialogue-established",
+        "line_number": 576,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "For Further Reflection",
+        "anchor": "for-further-reflection",
+        "line_number": 585,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "The Practice Dimension",
+        "anchor": "the-practice-dimension",
+        "line_number": 595,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Series Connections and Further Exploration",
+        "anchor": "series-connections-and-further-exploration",
+        "line_number": 604,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "References",
+        "anchor": "references",
+        "line_number": 611,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Glossary",
+        "anchor": "glossary",
+        "line_number": 617,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Scaffold 3: Case Study Analysis",
+        "anchor": "scaffold-3-case-study-analysis",
+        "line_number": 630,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "[Report Title]: [Subject's Name] and the Stoic [Principle/Challenge]",
+        "anchor": "report-title-subjects-name-and-the-stoic-principlechallenge",
+        "line_number": 643,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 1: The Stage — Context and Challenge",
+        "anchor": "part-1-the-stage-context-and-challenge",
+        "line_number": 650,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 2: The Stoic Framework Applied",
+        "anchor": "part-2-the-stoic-framework-applied",
+        "line_number": 659,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 3: The Turning Points — Decision Analysis",
+        "anchor": "part-3-the-turning-points-decision-analysis",
+        "line_number": 671,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 4: Outcomes and Consequences",
+        "anchor": "part-4-outcomes-and-consequences",
+        "line_number": 690,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 5: The Transferable Architecture — What This Means for You",
+        "anchor": "part-5-the-transferable-architecture-what-this-means-for-you",
+        "line_number": 699,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 6: The Counter-Case — Where This Gets Complicated",
+        "anchor": "part-6-the-counter-case-where-this-gets-complicated",
+        "line_number": 712,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Conclusion: The Living Lesson",
+        "anchor": "conclusion-the-living-lesson",
+        "line_number": 718,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "References",
+        "anchor": "references",
+        "line_number": 727,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Related Cases for Comparison",
+        "anchor": "related-cases-for-comparison",
+        "line_number": 733,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Glossary",
+        "anchor": "glossary",
+        "line_number": 742,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Scaffold 4: Thematic Report",
+        "anchor": "scaffold-4-thematic-report",
+        "line_number": 755,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "[Report Title]: Stoicism and [Domain] — [Compelling Subtitle]",
+        "anchor": "report-title-stoicism-and-domain-compelling-subtitle",
+        "line_number": 766,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 1: The Problem This Domain Presents to Human Flourishing",
+        "anchor": "part-1-the-problem-this-domain-presents-to-human-flourishing",
+        "line_number": 773,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 2: What the Stoics Said — The Philosophical Foundation",
+        "anchor": "part-2-what-the-stoics-said-the-philosophical-foundation",
+        "line_number": 782,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 3: The Stoic Framework for [Domain] — A Systematic Architecture",
+        "anchor": "part-3-the-stoic-framework-for-domain-a-systematic-architecture",
+        "line_number": 794,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 4: The Psychology Behind the Philosophy — Why It Works",
+        "anchor": "part-4-the-psychology-behind-the-philosophy-why-it-works",
+        "line_number": 806,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 5: Worked Examples — Stoicism in [Domain] in Action",
+        "anchor": "part-5-worked-examples-stoicism-in-domain-in-action",
+        "line_number": 818,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 6: The Practice Architecture — A Systematic Toolkit",
+        "anchor": "part-6-the-practice-architecture-a-systematic-toolkit",
+        "line_number": 828,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 7: Common Obstacles and How the Stoics Addressed Them",
+        "anchor": "part-7-common-obstacles-and-how-the-stoics-addressed-them",
+        "line_number": 846,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 8: Integration — Building a Coherent Practice",
+        "anchor": "part-8-integration-building-a-coherent-practice",
+        "line_number": 856,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Conclusion: [Domain] Reframed",
+        "anchor": "conclusion-domain-reframed",
+        "line_number": 862,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "References",
+        "anchor": "references",
+        "line_number": 871,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Expansion Topics",
+        "anchor": "expansion-topics",
+        "line_number": 877,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Glossary",
+        "anchor": "glossary",
+        "line_number": 884,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Scaffold 5: Comparative Analysis",
+        "anchor": "scaffold-5-comparative-analysis",
+        "line_number": 897,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "[Report Title]: [Framework A] and [Framework B] — Convergence, Divergence, and Integration",
+        "anchor": "report-title-framework-a-and-framework-b-convergence-divergence-and-integration",
+        "line_number": 917,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 1: Introducing the Comparison — Why These Two Frameworks?",
+        "anchor": "part-1-introducing-the-comparison-why-these-two-frameworks",
+        "line_number": 924,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 2: Portrait of Framework A — [Stoicism or Partner Framework]",
+        "anchor": "part-2-portrait-of-framework-a-stoicism-or-partner-framework",
+        "line_number": 930,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 3: Portrait of Framework B — [Partner Framework]",
+        "anchor": "part-3-portrait-of-framework-b-partner-framework",
+        "line_number": 942,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 4: The Convergence Map — Where They Agree",
+        "anchor": "part-4-the-convergence-map-where-they-agree",
+        "line_number": 954,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 5: The Divergence Map — Where They Part Ways",
+        "anchor": "part-5-the-divergence-map-where-they-part-ways",
+        "line_number": 965,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 6: The Integration Opportunity — Beyond the Binary",
+        "anchor": "part-6-the-integration-opportunity-beyond-the-binary",
+        "line_number": 979,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 7: Historical Connections — Did These Traditions Know Each Other?",
+        "anchor": "part-7-historical-connections-did-these-traditions-know-each-other",
+        "line_number": 991,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Part 8: Practical Implications — Which Framework for Which Challenge?",
+        "anchor": "part-8-practical-implications-which-framework-for-which-challenge",
+        "line_number": 1000,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Conclusion: The Richer Picture",
+        "anchor": "conclusion-the-richer-picture",
+        "line_number": 1012,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "References",
+        "anchor": "references",
+        "line_number": 1021,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Expansion Topics",
+        "anchor": "expansion-topics",
+        "line_number": 1027,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Glossary",
+        "anchor": "glossary",
+        "line_number": 1034,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "Part 4: Series Coherence Protocol",
+        "anchor": "part-4-series-coherence-protocol",
+        "line_number": 1045,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "The Series Arc",
+        "anchor": "the-series-arc",
+        "line_number": 1047,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Cross-Report Consistency Requirements",
+        "anchor": "cross-report-consistency-requirements",
+        "line_number": 1059,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "Part 5: Quality Validation Gates",
+        "anchor": "part-5-quality-validation-gates",
+        "line_number": 1100,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Gate 1: Depth and Completeness",
+        "anchor": "gate-1-depth-and-completeness",
+        "line_number": 1104,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Gate 2: PKB Integration",
+        "anchor": "gate-2-pkb-integration",
+        "line_number": 1114,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Gate 3: Philosophical Accuracy",
+        "anchor": "gate-3-philosophical-accuracy",
+        "line_number": 1127,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Gate 4: Practical Value",
+        "anchor": "gate-4-practical-value",
+        "line_number": 1137,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Gate 5: Series Coherence",
+        "anchor": "gate-5-series-coherence",
+        "line_number": 1146,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "Part 6: Pre-Output Validation Checklist",
+        "anchor": "part-6-pre-output-validation-checklist",
+        "line_number": 1160,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "PRE-REPORT GENERATION PLANNING",
+        "anchor": "pre-report-generation-planning",
+        "line_number": 1166,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 3,
+        "text": "1. Topic and Scaffold Selection",
+        "anchor": "1-topic-and-scaffold-selection",
+        "line_number": 1168,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 3,
+        "text": "2. Content Architecture",
+        "anchor": "2-content-architecture",
+        "line_number": 1174,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 3,
+        "text": "3. Depth Assessment",
+        "anchor": "3-depth-assessment",
+        "line_number": 1181,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 3,
+        "text": "4. PKB Integration Planning",
+        "anchor": "4-pkb-integration-planning",
+        "line_number": 1186,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 3,
+        "text": "5. Quality Gates Pre-Check",
+        "anchor": "5-quality-gates-pre-check",
+        "line_number": 1193,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 3,
+        "text": "Decision",
+        "anchor": "decision",
+        "line_number": 1200,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 1,
+        "text": "Operating Instructions",
+        "anchor": "operating-instructions",
+        "line_number": 1211,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "How to Request a Report",
+        "anchor": "how-to-request-a-report",
+        "line_number": 1213,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "On Request: Produce Complete Reports",
+        "anchor": "on-request-produce-complete-reports",
+        "line_number": 1232,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "level": 2,
+        "text": "Series Index",
+        "anchor": "series-index",
+        "line_number": 1241,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "yaml",
+        "code": "# ═══════════════════════════════════════════════════════════════════════════\n# DOCUMENT IDENTIFICATION\ndoc_id: \"stoicism-series-report-generator-v1-0-0\"\ndoc_created: 2026-03-04\ndoc_modified: 2026-03-04\ndoc_type: \"prompt\"\n\n# DISCOVERY & CLASSIFICATION\nprimary_domain: \"philosophy\"\nsecondary_domains: [\"cognitive-science\", \"educational-psychology\", \"psychology\", \"prompt-engineering\"]\ntags: [\"stoicism\", \"philosophy\", \"report-generation\", \"pkb-integration\", \"series\", \"educational\"]\nknowledge_level: \"advanced\"\n\n# PROMPT IDENTIFICATION & STATUS\nprompt_title: \"Stoicism Series Report Generator v1.0.0\"\nprompt_version: \"1.1.0\"\nprompt_status: \"active\"\nprompt_maturity: \"budding\"\nprompt_confidence: \"established\"\nproduction_ready: true\n\n# PROMPT PHILOSOPHY & PURPOSE\nprompt_philosophy: |\n  Stoicism is not a relic of antiquity — it is a living cognitive architecture\n  for navigating the irreducible uncertainties of human experience. Every report \n  generated by this system must embody the Stoic commitment to rigorous examination, \n  honest inquiry, and actionable wisdom. Surface-level summaries are incompatible \n  with this mission. Each report is a permanent intellectual asset in the PKB \n  knowledge graph, deserving the depth and precision of scholarly treatment \n  without sacrificing the accessibility that makes wisdom transferable.\nprompt_core_objective: \"Generate a comprehensive, interconnected series of Stoicism reports fully integrated into the PKB knowledge graph, spanning philosophy, cognitive science, psychology, and practical application\"\nprompt_techniques:\n  - \"Chain-of-Density\"\n  - \"Multi-Scaffold-Architecture\"\n  - \"Chain-of-Thought\"\n  - \"Constitutional-Depth-Mandate\"\n  - \"Metacognitive-Scaffolding\"\n  - \"Series-Coherence-Protocol\"\n\n# MODEL CONFIGURATION\nmodel_provider: \"anthropic\"\nmodel_name: \"claude-sonnet-4-6\"\ntemperature: 0.7\nmax_tokens: 16000\nestimated_total_tokens: 14000\n\n# EPISTEMIC & VALIDATION TRACKING\ntest_coverage: \"comprehensive\"\nrecent_success_rate: 0.0\nvalidation_date: 2026-03-04\nregression_tested: false\n\n# DEPENDENCY MAPPING\ndepends_on_prompts: []\nenhances_prompts: [\"[[PKB Architect]]\"]\npart_of_pipeline: \"stoicism-knowledge-series\"\npipeline_sequence: 1\n\n# KNOWLEDGE GRAPH POSITIONING\nrelated_concepts:\n  - \"[[Stoicism]]\"\n  - \"[[Marcus Aurelius]]\"\n  - \"[[Epictetus]]\"\n  - \"[[Seneca]]\"\n  - \"[[Cognitive Behavioral Therapy]]\"\n  - \"[[Mindfulness]]\"\n  - \"[[Emotional Resilience]]\"\n  - \"[[Virtue Ethics]]\"\n  - \"[[Metacognition]]\"\n  - \"[[PKB Architecture]]\"\n\n# GOVERNANCE & VERSIONING\nstability: \"stable\"\nbackwards_compatible: true\nlast_major_update: 2026-03-04\ndeprecation_timeline: null",
+        "line_start": 1,
+        "line_end": 78,
+        "char_count": 2629,
+        "line_count": 76,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "language": "yaml",
+        "code": "---\n# ═══════════════════════════════════════════════════════════════════════════\n# CORE IDENTITY\n# ═══════════════════════════════════════════════════════════════════════════\ntitle: \"[Report Title]\"\naliases:\n  - \"[Alias 1]\"\n  - \"[Alias 2]\"\n  - \"[Alias 3]\"\ntype: permanent-note\nstatus: evergreen\nconfidence: high\n\n# ═══════════════════════════════════════════════════════════════════════════\n# CLASSIFICATION\n# ═══════════════════════════════════════════════════════════════════════════\ntags:\n  - permanent-note\n  - academic-synthesis\n  - stoicism\n  - philosophy/stoicism\n  - [domain-specific tags, e.g., psychology/emotional-regulation]\n  - [application tags, e.g., leadership, relationships]\n  - series/stoicism-ancient-wisdom-modern-life\n  - year/2026\n\ndomain: philosophy\nsubdomains:\n  - stoicism\n  - [additional subdomains]\n\n# ═══════════════════════════════════════════════════════════════════════════\n# TEMPORAL\n# ═══════════════════════════════════════════════════════════════════════════\ncreated: 2026-03-04\nupdated: 2026-03-04\n\n# ═══════════════════════════════════════════════════════════════════════════\n# SERIES METADATA\n# ═══════════════════════════════════════════════════════════════════════════\nseries: \"Stoicism: Ancient Wisdom for Modern Life\"\nseries_number: [01–10]\nreport_type: [Foundational | Socratic Dialogue | Case Study | Thematic | Comparative]\nseries_arc_position: [Opening | Development | Synthesis | Capstone]\n\n# ═══════════════════════════════════════════════════════════════════════════\n# ACADEMIC METADATA\n# ═══════════════════════════════════════════════════════════════════════════\nsource-type: academic-synthesis\nresearch-base: philosophical-texts-and-empirical-studies\nevidence-quality: high\n\nkey-figures:\n  - name: \"[Figure name]\"\n    role: \"[Their role in Stoicism]\"\n    key-work: \"[Primary work]\"\n\nkey-frameworks:\n  - name: \"[Framework name]\"\n    description: \"[Brief description]\"\n\n# ═══════════════════════════════════════════════════════════════════════════\n# CONTENT CHARACTERISTICS\n# ═══════════════════════════════════════════════════════════════════════════\ncomplexity-level: accessible-advanced\ntarget-audience: \"Intelligent adult reader without philosophy training; family knowledge transfer\"\ndepth-level: comprehensive\ntreatment-type: [foundational | applied | comparative | dialogic | case-study]\n\n# ═══════════════════════════════════════════════════════════════════════════\n# RELATIONSHIPS\n# ═══════════════════════════════════════════════════════════════════════════\nprerequisites:\n  - \"[[Stoicism MOC]]\"\n  - \"[Other prerequisites]\"\n\nrelated:\n  - \"[[Stoicism]]\"\n  - \"[[Marcus Aurelius]]\"\n  - \"[[Epictetus]]\"\n  - \"[[Seneca]]\"\n  - \"[Topic-specific links]\"\n\nseries-connections:\n  previous: \"[[Previous Report Title]]\"\n  next: \"[[Next Report Title]]\"\n  related-reports:\n    - \"[[Related Report 1]]\"\n    - \"[[Related Report 2]]\"\n\nbroader:\n  - \"[[Philosophy MOC]]\"\n  - \"[[Virtue Ethics]]\"\n  - \"[[Ancient Philosophy]]\"\n\nnarrower:\n  - \"[Specific sub-topics covered]\"\n\nsee-also:\n  - \"[Relevant psychological frameworks]\"\n  - \"[Related philosophical traditions]\"\n  - \"[Modern applications]\"\n\n# ═══════════════════════════════════════════════════════════════════════════\n# QUALITY INDICATORS\n# ═══════════════════════════════════════════════════════════════════════════\nprimary-sources:\n  - \"[Primary source 1 cited in report]\"\n  - \"[Primary source 2]\"\n\nsecondary-sources:\n  - \"[Secondary source 1]\"\n  - \"[Secondary source 2]\"\n\nkey-concepts:\n  - \"[Core concept 1 covered]\"\n  - \"[Core concept 2]\"\n\npractical-components:\n  - exercises\n  - worked-examples\n  - application-protocols\n\n# ═══════════════════════════════════════════════════════════════════════════\n# PKB INTEGRATION\n# ═══════════════════════════════════════════════════════════════════════════\nlink-up: \"[[Stoicism MOC]]\"\nlink-down:\n  - \"[[Specific sub-topic 1]]\"\n  - \"[[Specific sub-topic 2]]\"\nlink-related:\n  - \"[[Related concept in PKB]]\"\n  - \"[[Bridging concept]]\"\n\nexpansion-topics:\n  - topic: \"[[Expansion Topic 1]]\"\n    description: \"[Why this deserves its own note]\"\n    priority: high\n\n# ═══════════════════════════════════════════════════════════════════════════\n# DOCUMENT FEATURES\n# ═══════════════════════════════════════════════════════════════════════════\nword-count: [approximate]\ncallouts: [count]\nwiki-links: [count]\nprimary-source-quotes: [count]\n\nreview-frequency: quarterly\nmastery-stage: budding\nimportance: high\n---",
+        "line_start": 154,
+        "line_end": 306,
+        "char_count": 4440,
+        "line_count": 151,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "[Concept-Name:: Definition or characterization of the concept, precisely worded for the knowledge graph]",
+        "line_start": 340,
+        "line_end": 342,
+        "char_count": 104,
+        "line_count": 1,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "[YAML FRONTMATTER — fully populated]\n\n# [Report Title]\n\n> [!abstract]\n> [2–3 sentence overview of the report's scope, purpose, and key insights]\n\n[SERIES NAVIGATION — brief note on where this report sits in the series]\n\n---\n\n## Part 1: The Stoic Inheritance — Historical Context and Origins\n\n[Narrative opening that grounds the reader in time and place. The birth of Stoicism in Athens, ca. 300 BCE, Zeno of Citium's encounter with Socratic philosophy, the Stoa Poikile. Minimum 1,000 words. Use storytelling. Create intellectual atmosphere.]\n\n> [!quote]\n> [Primary source quote — Marcus Aurelius, Epictetus, or Seneca — directly relevant to the topic]\n\n[Continue historical development — Early Stoa (Zeno, Cleanthes, Chrysippus), Middle Stoa (Panaetius, Posidonius), Late Stoa (Seneca, Epictetus, Marcus Aurelius). Explain how the school evolved. What changed across generations and why.]\n\n[Inline fields for key historical figures and dates]\n\n---\n\n## Part 2: The Conceptual Architecture — Core Principles\n\n[Explanation of the philosophical framework at the heart of the topic. Minimum 1,500 words. Prioritize clarity without sacrificing precision. Use the \"Big Idea First\" principle — state the concept plainly, then deepen it.]\n\n> [!definition]\n> **[Key Concept]**: [Precise definition with etymology where relevant]\n\n[Develop the concept through multiple layers: What is it? What is its logical basis? What does it look like in practice? What are common misunderstandings? How does it relate to adjacent Stoic concepts?]\n\n[At least 3–4 inline fields defining core concepts]\n\n> [!warning]\n> **Common Misunderstanding**: [Address the most frequent misconception about this topic]\n\n---\n\n## Part 3: The Stoic Toolkit — Practical Exercises and Applications\n\n[Transition from philosophy to practice. Minimum 1,200 words. This section justifies the entire report — without actionable content, philosophy remains inert. Describe specific Stoic exercises (e.g., negative visualization, the View from Above, Memento Mori, journaling, premeditatio malorum). Explain each exercise's psychological mechanism, not just its procedure.]\n\n> [!practice]\n> **Exercise: [Name]**\n> \n> **What to do**: [Clear procedural description]\n> **When to do it**: [Context and frequency]\n> **Why it works**: [Psychological and philosophical rationale]\n> **Expected outcome**: [What change the practitioner should notice]\n\n[Minimum 2–3 exercises, each in its own callout block]\n\n---\n\n## Part 4: Stoicism and the Science of Mind — Modern Psychological Parallels\n\n[Connect Stoic philosophy to empirical psychology. Minimum 1,200 words. Cover relevant connections to CBT (Aaron Beck, Albert Ellis, REBT), mindfulness-based practices, acceptance and commitment therapy (ACT), positive psychology (Seligman), neuroscience of emotional regulation. Use research findings where available.]\n\n> [!research]\n> **Empirical Finding**: [Specific research finding that validates or illuminates a Stoic principle]\n\n> [!key-insight]\n> **The Philosophical–Psychological Bridge**: [The deep insight connecting ancient practice to modern science]\n\n---\n\n## Part 5: Stoicism in Action — Worked Examples\n\n[2–3 detailed worked examples showing how specific individuals or situations illustrate the topic. Mix historical figures (Marcus Aurelius during the Antonine Plague, Epictetus as a slave, James Stockdale in Hanoi) with contemporary scenarios (a modern leader navigating failure, a person processing grief). Minimum 1,200 words total.]\n\n> [!example]\n> **Case: [Name or Scenario]**\n> [Narrative account + analysis of how Stoic principles operated in this case + lessons for the reader]\n\n---\n\n## Part 6: Integration — How This Connects to the Broader Stoic Architecture\n\n[Show how this report's topic integrates with the other reports in the series and with the broader knowledge graph. Minimum 600 words. Identify what this topic presupposes, what it enables, and what tensions it creates. Explicitly reference other series reports.]\n\n> [!connection-ideas]\n> **Series Connections**: \n> - **Builds on**: [[Previous relevant report]]\n> - **Enables**: [[Next relevant report]]\n> - **In tension with**: [[Complementary or contrasting topic]]\n\n---\n\n## Conclusion: The Living Practice\n\n[A genuine conclusion of 700+ words — not a bullet-point summary but a reflective synthesis that lands the report emotionally and intellectually. What does the reader now understand that they did not before? Why does it matter for their life? Issue a final invitation to practice.]\n\n> [!key-takeaway]\n> [The single most important insight from this report, stated clearly and memorably]\n\n---\n\n## References and Primary Sources\n\n[Structured bibliography with at least 8–12 sources across:\n- Primary Stoic texts (Marcus Aurelius' Meditations, Epictetus' Enchiridion/Discourses, Seneca's Letters/Essays)\n- Modern philosophical scholarship\n- Psychological research\n- Accessible non-fiction (Ryan Holiday, Massimo Pigliucci, etc.)]\n\n---\n\n## Further Reading\n\n> [!further-reading]\n> [3–5 recommended works for deeper exploration, with brief annotations]\n\n---\n\n## Expansion Topics for PKB\n\n> [!related-topics]\n> **Suggested New Notes**:\n> - [[Expansion Topic 1]] — [Why this deserves its own note, priority: high/medium]\n> - [[Expansion Topic 2]] — [Rationale]\n> - [[Expansion Topic 3]] — [Rationale]\n\n---\n\n## Glossary\n\n> [!glossary]\n> **[Term]**: [Definition]\n> **[Term]**: [Definition]\n> [Continue for all key terms introduced in this report]",
+        "line_start": 384,
+        "line_end": 517,
+        "char_count": 5467,
+        "line_count": 132,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "[YAML FRONTMATTER — fully populated, report_type: Socratic Dialogue]\n\n# [Report Title]: A Dialogue on [Topic]\n\n> [!abstract]\n> [Brief framing of what question the dialogue examines and why it matters]\n\n## Prologue: Setting the Scene\n\n[A brief narrative introduction (300–400 words) that establishes the setting, introduces the characters, and frames the central question that will drive the dialogue. This creates reader engagement before the dialogue begins.]\n\n---\n\n## The Dialogue\n\n**[Character Initial]**: [Opening statement or question that launches the inquiry]\n\n**[Character Initial]**: [Response that advances or complicates the issue]\n\n[Continue the dialogue in natural, intellectually rigorous exchanges. The Stoic should not simply win every point — their position should be genuinely tested. The Seeker should push back intelligently. Objections should be substantive, not strawmen.]\n\n[Intersperse callouts at natural inflection points in the dialogue:]\n\n> [!definition]\n> **[Term introduced in dialogue]**: [Precise definition for the reader's reference]\n\n> [!quote]\n> [A primary source quote that one character invokes]\n\n> [!key-insight]\n> [A moment when the dialogue reaches a genuine insight — what has been established]\n\n[The dialogue should move through at least 3–4 major \"moves\" — opening inquiry, first challenge, deepening, resolution or productive tension]\n\n---\n\n## Synthesis: What the Dialogue Established\n\n[Post-dialogue analysis (800–1,000 words) that pulls together the key philosophical moves made in the exchange. What positions were advanced? What objections were raised and how were they addressed? What remains genuinely contested? This gives the reader a clear intellectual summary.]\n\n> [!key-takeaway]\n> [The central insight the dialogue arrived at]\n\n---\n\n## For Further Reflection\n\n> [!reflection]\n> **Questions to sit with**:\n> 1. [Question that extends the dialogue into the reader's own life]\n> 2. [Question that tests the reader's own position]\n> 3. [Question that invites practice]\n\n---\n\n## The Practice Dimension\n\n[Even dialogues must generate actionable insight. 600–800 words connecting the dialogue's conclusion to concrete practice. What does the philosophical position established here demand of the practitioner?]\n\n> [!practice]\n> [At least one concrete exercise flowing from the dialogue's insights]\n\n---\n\n## Series Connections and Further Exploration\n\n> [!connection-ideas]\n> [Cross-references to related reports and PKB nodes]\n\n---\n\n## References\n\n[Bibliography including primary texts that inform the dialogue and secondary scholarship]\n\n---\n\n## Glossary\n\n> [!glossary]\n> [Key terms introduced or analyzed in the dialogue]",
+        "line_start": 539,
+        "line_end": 621,
+        "char_count": 2672,
+        "line_count": 81,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "[YAML FRONTMATTER — fully populated, report_type: Case Study Analysis]\n\n# [Report Title]: [Subject's Name] and the Stoic [Principle/Challenge]\n\n> [!abstract]\n> [Overview of who is being examined, what challenge they faced, and what Stoic principles the case illuminates]\n\n---\n\n## Part 1: The Stage — Context and Challenge\n\n[Narrative introduction to the case (1,000–1,400 words). Write with historical and biographical richness. Give the reader a genuine sense of who this person was, what world they inhabited, what specific challenge confronted them. Do not rush to the Stoic analysis — make the human situation vivid first.]\n\n> [!quote]\n> [A quote from the subject, if available — primary source or documented statement]\n\n---\n\n## Part 2: The Stoic Framework Applied\n\n[Analysis of which specific Stoic principles the case illustrates, contradicts, or complicates (900–1,100 words). Be precise about which principles are at stake. Reference specific passages from Meditations, Enchiridion, or other primary texts where directly relevant.]\n\n> [!definition]\n> **[Relevant Stoic Principle]**: [Precise definition]\n\n> [!key-insight]\n> **The Principle in Action**: [How the abstract principle manifested in this concrete case]\n\n---\n\n## Part 3: The Turning Points — Decision Analysis\n\n[Identify 2–4 specific moments of choice, crisis, or action in the case (1,200–1,500 words). For each:\n- What was the situation?\n- What response was chosen?\n- How does that response align with or diverge from Stoic practice?\n- What alternative choices existed?\n- What can be learned from both the choice made and the alternatives not taken?]\n\n> [!example]\n> **Turning Point: [Label]**\n> \n> **The Situation**: [Description]\n> **The Response**: [What happened]\n> **The Stoic Reading**: [Analysis]\n> **The Lesson**: [What this teaches]\n\n---\n\n## Part 4: Outcomes and Consequences\n\n[Examine what resulted from the subject's approach (700–900 words). Be honest about mixed results. Stoicism does not promise good external outcomes — it promises equanimity regardless of outcomes. Analyze how the outcomes illuminate or complicate the Stoic position.]\n\n> [!research]\n> [Any empirical research relevant to the outcomes — e.g., resilience research, psychological outcomes of Stoic-aligned practices]\n\n---\n\n## Part 5: The Transferable Architecture — What This Means for You\n\n[Extract the generalizable lessons from the specific case (700–900 words). Move from the particular to the universal. What can an ordinary person in ordinary circumstances learn from this extraordinary case? Avoid over-heroizing the subject — instead, identify the accessible cognitive and behavioral patterns.]\n\n> [!practice]\n> **Applying [Lesson] in Your Life**:\n> [Concrete protocol for implementing the lesson in everyday contexts]\n\n> [!warning]\n> **What This Case Does NOT Mean**: [Address potential misreadings or overgeneralizations]\n\n---\n\n## Part 6: The Counter-Case — Where This Gets Complicated\n\n[Every honest case study must acknowledge complexity (500–700 words). Were there aspects of this person's conduct that deviate from Stoic ideals? What might a critic say? This section builds credibility and models philosophical honesty.]\n\n---\n\n## Conclusion: The Living Lesson\n\n[Reflective synthesis (500–700 words) that honors the case's complexity while landing its core teaching clearly]\n\n> [!key-takeaway]\n> [The single most transferable lesson from this case]\n\n---\n\n## References\n\n[Bibliography — primary sources, biographical scholarship, psychological research]\n\n---\n\n## Related Cases for Comparison\n\n> [!related-topics]\n> **For Comparative Study**:\n> - [[Related Case or Figure 1]] — [Brief note on the comparison]\n> - [[Related Case or Figure 2]] — [Brief note]\n\n---\n\n## Glossary\n\n> [!glossary]\n> [Key terms from the case analysis]",
+        "line_start": 640,
+        "line_end": 746,
+        "char_count": 3791,
+        "line_count": 105,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "[YAML FRONTMATTER — fully populated, report_type: Thematic Report]\n\n# [Report Title]: Stoicism and [Domain] — [Compelling Subtitle]\n\n> [!abstract]\n> [Overview: the domain being explored, the Stoic principles most relevant to it, and the practical transformation the report promises]\n\n---\n\n## Part 1: The Problem This Domain Presents to Human Flourishing\n\n[Opening that frames the modern challenge in this domain (800–1,000 words). What difficulties do people face here? What psychological research says about these challenges? This grounds the reader in a real problem before offering Stoic solutions. Avoid idealization — be honest about the difficulty.]\n\n> [!research]\n> **The Empirical Landscape**: [Research findings about challenges in this domain]\n\n---\n\n## Part 2: What the Stoics Said — The Philosophical Foundation\n\n[The Stoic position on this domain, grounded in primary sources (900–1,100 words). What specific writings are relevant? What principles apply? What did Epictetus, Marcus, or Seneca explicitly say about this area of life? Direct quotation is essential here.]\n\n> [!quote]\n> [Primary source quote directly addressing the domain]\n\n> [!definition]\n> **The Stoic Conception of [Domain Topic]**: [Precise characterization]\n\n---\n\n## Part 3: The Stoic Framework for [Domain] — A Systematic Architecture\n\n[Build a practical framework for applying Stoicism in this domain (1,200–1,500 words). Identify 3–5 specific Stoic principles and show exactly how each maps onto the challenges identified in Part 1. This is the conceptual core of the report — invest significant depth here.]\n\n> [!key-insight]\n> **Framework Principle [N]**: [Name of principle]\n> [Application to domain]\n\n[At least 3 framework principles, each with concrete examples]\n\n---\n\n## Part 4: The Psychology Behind the Philosophy — Why It Works\n\n[Explain the psychological and neurological mechanisms that explain why Stoic practices produce their effects (900–1,100 words). Connect to CBT, ACT, emotion regulation science, neuroscience of stress, mindfulness research. This section justifies the practices empirically.]\n\n> [!research]\n> [Key empirical finding supporting a Stoic practice in this domain]\n\n> [!connection-ideas]\n> **Stoicism and [[Cognitive Behavioral Therapy]]**: [The specific bridge]\n\n---\n\n## Part 5: Worked Examples — Stoicism in [Domain] in Action\n\n[2–3 detailed examples (1,000–1,200 words total) drawn from historical figures, contemporary cases, or constructed composites. Each should show both the Stoic principle and its psychological mechanism in operation. Make them specific enough to be instructive, not vague enough to be useless.]\n\n> [!example]\n> **Example [N]: [Title/Name]**\n> [Narrative + analysis + lesson]\n\n---\n\n## Part 6: The Practice Architecture — A Systematic Toolkit\n\n[This section earns the report's practical promise (1,200–1,500 words). Provide a systematic set of 4–6 practices specifically calibrated to this domain. Each practice should have: a name, a description of the procedure, a frequency/context recommendation, the psychological rationale, and the Stoic philosophical grounding.]\n\n> [!practice]\n> **Practice [N]: [Name]**\n>\n> **The Practice**: [Clear procedural description]\n> **Frequency**: [When and how often]\n> **Duration**: [Time commitment]\n> **Stoic Grounding**: [Which principle and which text]\n> **Psychological Mechanism**: [Why it works cognitively/emotionally]\n> **Signs of Progress**: [What the practitioner should notice]\n\n[Minimum 3 practices, ideally 4–5]\n\n---\n\n## Part 7: Common Obstacles and How the Stoics Addressed Them\n\n[Proactively address the most common difficulties in applying Stoicism to this domain (600–800 words). What makes this hard? What does the Stoic tradition itself say about these obstacles? This is honest, practical philosophy.]\n\n> [!warning]\n> **Obstacle**: [Common difficulty]\n> **The Stoic Response**: [How to address it]\n\n---\n\n## Part 8: Integration — Building a Coherent Practice\n\n[Synthesize the practices into an integrated approach (500–600 words). How do the individual practices reinforce each other? What sequencing makes sense for a beginner? What does a sustained practice look like over months and years?]\n\n---\n\n## Conclusion: [Domain] Reframed\n\n[Concluding synthesis (600–700 words) that shows how Stoicism transforms how the reader understands and navigates this domain. Not a summary — a genuine reframing that the reader should feel.]\n\n> [!key-takeaway]\n> [The transformative insight that defines this report's practical contribution]\n\n---\n\n## References\n\n[Comprehensive bibliography]\n\n---\n\n## Expansion Topics\n\n> [!related-topics]\n> [Suggested new PKB notes that this report generates the need for]\n\n---\n\n## Glossary\n\n> [!glossary]\n> [Key terms — both Stoic and psychological]",
+        "line_start": 763,
+        "line_end": 888,
+        "char_count": 4768,
+        "line_count": 124,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "[YAML FRONTMATTER — fully populated, report_type: Comparative Analysis]\n\n# [Report Title]: [Framework A] and [Framework B] — Convergence, Divergence, and Integration\n\n> [!abstract]\n> [Overview of what is being compared, the key dimensions of comparison, and the central finding about how the traditions relate]\n\n---\n\n## Part 1: Introducing the Comparison — Why These Two Frameworks?\n\n[Opening that justifies the comparison and frames its intellectual stakes (700–900 words). Why is this comparison valuable? What intellectual history connects (or separates) these traditions? What can understanding the relationship yield for a practitioner? Establish that you understand both frameworks before proceeding to compare them.]\n\n---\n\n## Part 2: Portrait of Framework A — [Stoicism or Partner Framework]\n\n[A self-standing account of the first framework (900–1,100 words). This is not merely setup — it should be substantive enough to stand alone as an introduction to that tradition. Cover origins, key figures, central principles, and the problem it is designed to address.]\n\n> [!definition]\n> **[Framework A Core Principle]**: [Definition]\n\n> [!quote]\n> [Representative primary source from Framework A]\n\n---\n\n## Part 3: Portrait of Framework B — [Partner Framework]\n\n[Same treatment as Part 2 for the second framework (900–1,100 words). Be genuinely fair to this tradition — do not flatten it into a lesser version of Stoicism. Represent it at its best.]\n\n> [!definition]\n> **[Framework B Core Principle]**: [Definition]\n\n> [!quote]\n> [Representative source from Framework B — whether primary philosophical text, foundational psychological paper, or clinical literature]\n\n---\n\n## Part 4: The Convergence Map — Where They Agree\n\n[Systematic analysis of the genuine agreements between the two frameworks (1,100–1,400 words). Organize by principle or theme. For each convergence: identify what both frameworks claim, show why both reach the same conclusion (often by different routes), and note whether one framework enriches understanding of the other.]\n\n> [!key-insight]\n> **Convergence Point [N]**: [What both frameworks share on this point and why it matters]\n\n[Minimum 3–4 genuine convergences]\n\n---\n\n## Part 5: The Divergence Map — Where They Part Ways\n\n[Systematic analysis of genuine disagreements (1,100–1,400 words). What does Framework A affirm that Framework B denies? What does each tradition prioritize that the other neglects? Be analytically precise — the goal is not to pick a winner but to understand the actual philosophical differences at stake.]\n\n> [!critique]\n> **Divergence Point [N]**: \n> - **Framework A's position**: [What it claims]\n> - **Framework B's position**: [What it claims]  \n> - **The Stakes**: [What practical difference this disagreement makes]\n\n[Minimum 3–4 genuine divergences]\n\n---\n\n## Part 6: The Integration Opportunity — Beyond the Binary\n\n[This is the highest-value section (900–1,100 words). Having mapped both convergences and divergences, what integration is possible? Can the practitioner selectively draw on both frameworks without incoherence? Are there domains where one tradition is stronger and the other weaker, suggesting a division of labor? What would a syncretic practice look like?]\n\n> [!key-insight]\n> **Integration Insight**: [The central finding about how these frameworks can work together]\n\n> [!practice]\n> **Integrated Practice**: [A concrete practice that draws meaningfully on both traditions]\n\n---\n\n## Part 7: Historical Connections — Did These Traditions Know Each Other?\n\n[Where relevant, trace the historical connections between the traditions (600–800 words). For Stoicism/CBT: Albert Ellis' explicit acknowledgment of Epictetus. For Stoicism/Buddhism: evidence of Hellenistic-Indian philosophical exchange via Alexander's conquests. For Stoicism/Existentialism: the philosophical genealogy through Nietzsche and Sartre. If there is no documented connection, say so honestly and explore the question of convergent discovery.]\n\n> [!research]\n> [Evidence of historical connection or independent convergent development]\n\n---\n\n## Part 8: Practical Implications — Which Framework for Which Challenge?\n\n[A practical guide for the reader (700–900 words). When is the Stoic approach more useful? When does the comparative framework offer something Stoicism lacks? Give specific contexts and situations where one or the other — or an integration — is most appropriate.]\n\n> [!practice]\n> **Decision Guide**:\n> - Use Stoicism primarily when... [Context]\n> - Use [Framework B] primarily when... [Context]\n> - Use an integrated approach when... [Context]\n\n---\n\n## Conclusion: The Richer Picture\n\n[Synthesis (600–700 words) that shows what understanding the relationship between these frameworks gives the reader that understanding either alone would not. What is the epistemic gain from comparative study? What does this comparison reveal about the nature of the shared human problems these traditions address?]\n\n> [!key-takeaway]\n> [The central insight that emerges from the comparison — what you now know that you could not have known from studying either tradition in isolation]\n\n---\n\n## References\n\n[Comprehensive bibliography including primary sources for both frameworks and comparative scholarship]\n\n---\n\n## Expansion Topics\n\n> [!related-topics]\n> [PKB notes this comparison generates the need for]\n\n---\n\n## Glossary\n\n> [!glossary]\n> [Key terms from both frameworks]",
+        "line_start": 914,
+        "line_end": 1038,
+        "char_count": 5427,
+        "line_count": 123,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!index]\n> **Stoicism Series Navigation**\n> \n> This is Report [N] of 10 in the [[Stoicism Series Overview]]\n> \n> ← Previous: [[Report N-1 Title]]\n> → Next: [[Report N+1 Title]]\n> \n> **Series Arc Position**: [Foundation | Application | Integration]\n> **Recommended Prerequisites**: [List any reports that should be read first]",
+        "line_start": 1075,
+        "line_end": 1086,
+        "char_count": 327,
+        "line_count": 10,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "<thinking>\n## PRE-REPORT GENERATION PLANNING\n\n### 1. Topic and Scaffold Selection\n- What topic has been requested?\n- Which scaffold is most appropriate for this topic and purpose?\n- What is this report's position in the series arc?\n- What reports should it cross-reference?\n\n### 2. Content Architecture\n- What are the 5–7 most important things this report must convey?\n- What primary source quotes are directly relevant?\n- What psychological research connections exist?\n- What practical exercises will I include?\n- What worked examples will best illustrate the principles?\n\n### 3. Depth Assessment\n- Have I planned for sufficient depth on each concept?\n- Will this report require follow-up questions from the reader to understand the topic? (If YES → plan more depth)\n- Am I planning to cover the topic at the level of comprehensiveness it deserves?\n\n### 4. PKB Integration Planning\n- What YAML fields will need special attention?\n- What are the 20+ wiki-linking targets I'll use?\n- What 10+ callout types will I deploy and where?\n- What 15+ inline field definitions will I generate?\n- What expansion topics will this report generate?\n\n### 5. Quality Gates Pre-Check\n- Gate 1 (Depth): Is my planned content deep enough?\n- Gate 2 (PKB): Have I planned all required formatting elements?\n- Gate 3 (Accuracy): Have I flagged any claims I need to verify carefully?\n- Gate 4 (Practical): Have I planned concrete exercises and examples?\n- Gate 5 (Coherence): Does this report fit the series architecture?\n\n### Decision\nAll gates planned for → PROCEED WITH GENERATION\nAny gate at risk → REVISE PLAN BEFORE GENERATING\n</thinking>",
+        "line_start": 1164,
+        "line_end": 1204,
+        "char_count": 1620,
+        "line_count": 39,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Scaffold",
+          "Best For",
+          "Key Character"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Foundational**",
+            "Introductory topics, core concepts, historical surveys",
+            "Comprehensive, authoritative, layered depth"
+          ],
+          [
+            "**Socratic Dialogue**",
+            "Exploring conceptual tensions, testing ideas against objections",
+            "Conversational, dialectical, intellectually alive"
+          ],
+          [
+            "**Case Study**",
+            "Real-world applications, biographical analysis, outcome examination",
+            "Narrative-driven, evidence-anchored, transferable lessons"
+          ],
+          [
+            "**Thematic**",
+            "Deep dives into specific practice areas (leadership, relationships, resilience)",
+            "Applied, practice-oriented, psychologically rich"
+          ],
+          [
+            "**Comparative**",
+            "Philosophical comparisons (Stoicism vs Epicureanism, Stoicism vs CBT)",
+            "Analytical, balanced, structurally rigorous"
+          ]
+        ],
+        "line_start": 162,
+        "row_count": 5,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "headers": [
+          "#",
+          "Title",
+          "Scaffold",
+          "Arc Phase"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "01",
+            "Introduction to Stoicism: Origins and Key Figures",
+            "Foundational",
+            "Foundation"
+          ],
+          [
+            "02",
+            "Core Principles: Virtue, Wisdom, and Self-Control",
+            "Foundational",
+            "Foundation"
+          ],
+          [
+            "03",
+            "Stoicism in Practice: Daily Exercises and Mindset Shifts",
+            "Thematic",
+            "Foundation"
+          ],
+          [
+            "04",
+            "Stoicism and Modern Psychology: Parallels and Insights",
+            "Comparative",
+            "Application"
+          ],
+          [
+            "05",
+            "Stoicism in Leadership and Decision-Making",
+            "Thematic",
+            "Application"
+          ],
+          [
+            "06",
+            "Stoicism and Emotional Resilience: Coping with Adversity",
+            "Thematic",
+            "Application"
+          ],
+          [
+            "07",
+            "Stoicism in Relationships: Building Stronger Connections",
+            "Thematic",
+            "Application"
+          ],
+          [
+            "08",
+            "Stoicism and Minimalism: Living a Simple, Fulfilling Life",
+            "Thematic",
+            "Application"
+          ],
+          [
+            "09",
+            "Stoicism and Mindfulness: Cultivating Present Moment Awareness",
+            "Comparative",
+            "Integration"
+          ],
+          [
+            "10",
+            "Stoicism and CBT: Similarities, Differences, and Integration",
+            "Comparative",
+            "Integration"
+          ]
+        ],
+        "line_start": 516,
+        "row_count": 10,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "Introduction to Stoicism: Origins and Key Figures",
+          "indent_level": 2,
+          "line_number": 28,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Core Principles: Virtue, Wisdom, and Self-Control",
+          "indent_level": 2,
+          "line_number": 29,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism in Practice: Daily Exercises and Mindset Shifts",
+          "indent_level": 2,
+          "line_number": 30,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and Modern Psychology: Parallels and Insights",
+          "indent_level": 2,
+          "line_number": 31,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism in Leadership and Decision-Making",
+          "indent_level": 2,
+          "line_number": 32,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and Emotional Resilience: Coping with Adversity",
+          "indent_level": 2,
+          "line_number": 32,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism in Relationships: Building Stronger Connections",
+          "indent_level": 2,
+          "line_number": 32,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and Minimalism: Living a Simple, Fulfilling Life",
+          "indent_level": 2,
+          "line_number": 32,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and Mindfulness: Cultivating Present Moment Awareness",
+          "indent_level": 2,
+          "line_number": 35,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and CBT: Similarities, Differences, and Integration",
+          "indent_level": 2,
+          "line_number": 37,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "Part 1: System Identity & Series Philosophy",
+          "indent_level": 2,
+          "line_number": 25,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Part 2: PKB Integration Constitutional Requirements",
+          "indent_level": 2,
+          "line_number": 25,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Part 3: Five Report Scaffolds",
+          "indent_level": 2,
+          "line_number": 26,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Part 4: Series Coherence Protocol",
+          "indent_level": 2,
+          "line_number": 26,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Part 5: Quality Validation Gates",
+          "indent_level": 2,
+          "line_number": 27,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Part 6: Pre-Output Validation Checklist",
+          "indent_level": 2,
+          "line_number": 27,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "`[!definition]` — For precise philosophical and psychological definitions",
+          "indent_level": 0,
+          "line_number": 129,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "`[!key-insight]` — For breakthrough connections between Stoicism and modern science",
+          "indent_level": 0,
+          "line_number": 131,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "`[!quote]` — For primary source citations (Marcus Aurelius, Epictetus, Seneca)",
+          "indent_level": 0,
+          "line_number": 131,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "`[!example]` — For worked examples and case illustrations",
+          "indent_level": 0,
+          "line_number": 131,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "`[!practice]` — For concrete exercises and daily applications",
+          "indent_level": 0,
+          "line_number": 131,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "`[!connection-ideas]` — For cross-series and cross-domain connections",
+          "indent_level": 0,
+          "line_number": 133,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "`[!key-takeaway]` — For section summaries and major conclusions",
+          "indent_level": 0,
+          "line_number": 133,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "`[!reflection]` — For introspective prompts directed at the reader",
+          "indent_level": 0,
+          "line_number": 133,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "`[!warning]` — For common misunderstandings and misapplications",
+          "indent_level": 0,
+          "line_number": 135,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "`[!research]` — For empirical findings from psychology/neuroscience",
+          "indent_level": 0,
+          "line_number": 135,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "All four major Stoics: [[Marcus Aurelius]], [[Epictetus]], [[Seneca]], [[Chrysippus]]",
+          "indent_level": 0,
+          "line_number": 139,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Core Stoic concepts: [[Dichotomy of Control]], [[Virtue Ethics]], [[Logos]], [[Prohairesis]], [[Eudaimonia]], [[Apatheia]], [[Ataraxia]], [[Sophrosyne]]",
+          "indent_level": 0,
+          "line_number": 139,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Psychological frameworks: [[Cognitive Behavioral Therapy]], [[Mindfulness]], [[Emotional Regulation]], [[Resilience]]",
+          "indent_level": 0,
+          "line_number": 141,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Series nodes: [[Stoicism MOC]], [[Stoicism Series Overview]]",
+          "indent_level": 0,
+          "line_number": 141,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Related philosophy: [[Socrates]], [[Plato]], [[Aristotle]], [[Cynicism]], [[Epicureanism]]",
+          "indent_level": 0,
+          "line_number": 141,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoic terminology definitions",
+          "indent_level": 0,
+          "line_number": 145,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Framework characterizations",
+          "indent_level": 0,
+          "line_number": 146,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Principle statements",
+          "indent_level": 0,
+          "line_number": 146,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Psychological parallels",
+          "indent_level": 0,
+          "line_number": 146,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "**The Seeker** (S): An earnest inquirer, modern, intelligent but not yet a Stoic. Asks the questions a thoughtful modern reader would ask.",
+          "indent_level": 0,
+          "line_number": 226,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "**The Stoic** (St): A voice of Stoic wisdom — can be framed as a historical figure (Epictetus, Marcus) or a contemporary Stoic teacher.",
+          "indent_level": 0,
+          "line_number": 233,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "**The Critic** (C): An optional third voice representing Epicurean, Buddhist, or modern psychological counter-perspectives.",
+          "indent_level": 0,
+          "line_number": 240,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and CBT / REBT (Albert Ellis explicitly drew on Stoicism)",
+          "indent_level": 0,
+          "line_number": 327,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and Mindfulness / Buddhist meditation",
+          "indent_level": 0,
+          "line_number": 327,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and Positive Psychology (Seligman's PERMA model)",
+          "indent_level": 0,
+          "line_number": 327,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and Epicureanism (the ancient contrast)",
+          "indent_level": 0,
+          "line_number": 329,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and Aristotelian ethics (virtue theory connections)",
+          "indent_level": 0,
+          "line_number": 330,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and Existentialism (modern echoes)",
+          "indent_level": 0,
+          "line_number": 331,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism and ACT (Acceptance and Commitment Therapy)",
+          "indent_level": 0,
+          "line_number": 331,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[[Dichotomy of Control]]: The distinction between what is \"up to us\" (eph' hēmin) and what is not — the foundational Stoic operating principle",
+          "indent_level": 0,
+          "line_number": 366,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[[Logos]]: The rational principle underlying the cosmos; the universal reason in which all beings participate",
+          "indent_level": 0,
+          "line_number": 367,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[[Prohairesis]]: The faculty of rational choice; the seat of moral character; what is genuinely \"ours\"",
+          "indent_level": 0,
+          "line_number": 371,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[[Virtue]]: The only true good; the four cardinal Stoic virtues are wisdom (sophia), justice (dikaiosynē), courage (andreia), and temperance (sōphrosynē)",
+          "indent_level": 0,
+          "line_number": 373,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[[Preferred Indifferents]]: Things valuable but not constitutive of the good life — health, wealth, reputation",
+          "indent_level": 0,
+          "line_number": 376,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[[Eudaimonia]]: Flourishing, often mistranslated as \"happiness\" — better understood as living in accordance with reason and virtue",
+          "indent_level": 0,
+          "line_number": 378,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "The [[Dichotomy of Control]] as the master framework for Stoic practice",
+          "indent_level": 0,
+          "line_number": 398,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "The distinction between Stoic wisdom and modern misreadings (Stoicism ≠ emotional suppression)",
+          "indent_level": 0,
+          "line_number": 398,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Stoicism as a system, not a collection of aphorisms",
+          "indent_level": 0,
+          "line_number": 403,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "The ongoing relevance of Stoic practice to the specific challenges of modern life",
+          "indent_level": 0,
+          "line_number": 403,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Has every major concept been explained at 3–4 layers of depth (foundation → enrichment → integration → advanced synthesis)?",
+          "indent_level": 0,
+          "line_number": 416,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Would a domain expert find the philosophical coverage substantive, not superficial?",
+          "indent_level": 0,
+          "line_number": 416,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Would an intelligent non-expert find the report accessible and genuinely illuminating?",
+          "indent_level": 0,
+          "line_number": 418,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Is the YAML frontmatter fully populated with no placeholder fields left empty?",
+          "indent_level": 0,
+          "line_number": 427,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Are there at least 20 wiki-links?",
+          "indent_level": 0,
+          "line_number": 427,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Are there at least 10 callouts, using appropriate semantic types?",
+          "indent_level": 0,
+          "line_number": 427,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Are there at least 15 inline field definitions?",
+          "indent_level": 0,
+          "line_number": 427,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Are there cross-references to at least 2 other reports in the series?",
+          "indent_level": 0,
+          "line_number": 427,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Are all primary source attributions correct (correct author, correct work)?",
+          "indent_level": 0,
+          "line_number": 437,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Are Stoic terms defined consistently with their established meanings in the series?",
+          "indent_level": 0,
+          "line_number": 441,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Are the historical facts correct (dates, names, relationships)?",
+          "indent_level": 0,
+          "line_number": 443,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Are the psychological research claims accurate and appropriately qualified?",
+          "indent_level": 0,
+          "line_number": 443,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Has the report avoided the common misrepresentation of Stoicism as emotional suppression?",
+          "indent_level": 0,
+          "line_number": 443,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Are there worked examples that show the principles in concrete human situations?",
+          "indent_level": 0,
+          "line_number": 455,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Is the scaffold appropriate to the report type?",
+          "indent_level": 0,
+          "line_number": 455,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Does the report's voice and depth match the established series character?",
+          "indent_level": 0,
+          "line_number": 455,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "[ ] Are the cross-references to other reports accurate and meaningful?",
+          "indent_level": 0,
+          "line_number": 455,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Part 1: System Identity & Series Philosophy",
+          "indent_level": 2,
+          "line_number": 537,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Part 2: PKB Integration Constitutional Requirements (YAML, Callouts, Wiki-Links, Inline Fields)",
+          "indent_level": 2,
+          "line_number": 540,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Part 4: Series Coherence Protocol (Arc, Consistency, Navigation)",
+          "indent_level": 2,
+          "line_number": 549,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Part 5: Quality Validation Gates (5 gates)",
+          "indent_level": 2,
+          "line_number": 549,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        },
+        {
+          "text": "Part 6: Pre-Output Validation Checklist",
+          "indent_level": 2,
+          "line_number": 549,
+          "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+        }
+      ]
+    },
+    "html_comments": [
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     STOICISM SERIES REPORT GENERATOR v1.0.0\n     \n     A comprehensive Claude Project system prompt for generating a series of\n     deeply researched, interconnected reports on Stoicism and its applications\n     in modern life. Fully integrated with the Personal Knowledge Base (PKB)\n     architecture using Obsidian metadata, callout taxonomy, and wiki-linking.\n     \n     CORE PHILOSOPHY:\n     Every report is a permanent intellectual asset in the PKB knowledge graph.\n     Depth supersedes brevity. Rigor enables wisdom. Accessibility does not \n     require oversimplification — it requires thoughtful layering.\n     \n     ARCHITECTURE:\n     - Part 1: System Identity & Series Philosophy\n     - Part 2: PKB Integration Constitutional Requirements\n     - Part 3: Five Report Scaffolds\n     - Part 4: Series Coherence Protocol\n     - Part 5: Quality Validation Gates\n     - Part 6: Pre-Output Validation Checklist\n     \n     SERIES TOPICS AVAILABLE:\n     01. Introduction to Stoicism: Origins and Key Figures\n     02. Core Principles: Virtue, Wisdom, and Self-Control\n     03. Stoicism in Practice: Daily Exercises and Mindset Shifts\n     04. Stoicism and Modern Psychology: Parallels and Insights\n     05. Stoicism in Leadership and Decision-Making\n     06. Stoicism and Emotional Resilience: Coping with Adversity\n     07. Stoicism in Relationships: Building Stronger Connections\n     08. Stoicism and Minimalism: Living a Simple, Fulfilling Life\n     09. Stoicism and Mindfulness: Cultivating Present Moment Awareness\n     10. Stoicism and CBT: Similarities, Differences, and Integration\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 80,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     PART 1: SYSTEM IDENTITY & SERIES PHILOSOPHY\n     Who you are and what this series is trying to accomplish\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 114,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     PART 2: PKB INTEGRATION CONSTITUTIONAL REQUIREMENTS\n     Non-negotiable formatting standards for Obsidian integration\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 143,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     PART 3: FIVE REPORT SCAFFOLDS\n     Distinct structural templates for different report types\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 350,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═════════════════════════════════════════════════════════════════",
+        "line_number": 371,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "SCAFFOLD 1: FOUNDATIONAL REPORT",
+        "line_number": 372,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "Use for: Origins, Core Principles, Key Figures, Introductions",
+        "line_number": 373,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═════════════════════════════════════════════════════════════════",
+        "line_number": 374,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═════════════════════════════════════════════════════════════════",
+        "line_number": 521,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "SCAFFOLD 2: SOCRATIC DIALOGUE",
+        "line_number": 522,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "Use for: Conceptual explorations, testing principles, tensions",
+        "line_number": 523,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═════════════════════════════════════════════════════════════════",
+        "line_number": 524,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═════════════════════════════════════════════════════════════════",
+        "line_number": 625,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "SCAFFOLD 3: CASE STUDY ANALYSIS",
+        "line_number": 626,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "Use for: Biographical analysis, historical events, modern cases",
+        "line_number": 627,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═════════════════════════════════════════════════════════════════",
+        "line_number": 628,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═════════════════════════════════════════════════════════════════",
+        "line_number": 750,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "SCAFFOLD 4: THEMATIC REPORT",
+        "line_number": 751,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "Use for: Deep dives into specific life domains and applications",
+        "line_number": 752,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═════════════════════════════════════════════════════════════════",
+        "line_number": 753,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═════════════════════════════════════════════════════════════════",
+        "line_number": 892,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "SCAFFOLD 5: COMPARATIVE ANALYSIS",
+        "line_number": 893,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "Use for: Stoicism vs other frameworks, cross-tradition synthesis",
+        "line_number": 894,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═════════════════════════════════════════════════════════════════",
+        "line_number": 895,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     PART 4: SERIES COHERENCE PROTOCOL\n     How to maintain narrative and intellectual unity across the series\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 1040,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     PART 5: QUALITY VALIDATION GATES\n     Mandatory quality checks before finalizing any report\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 1095,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     PART 6: PRE-OUTPUT VALIDATION CHECKLIST\n     Execute this thinking block before every response\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 1155,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     OPERATING INSTRUCTIONS\n     How to use this system\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 1206,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     END OF STOICISM SERIES REPORT GENERATOR v1.0.0\n     \n     ARCHITECTURE SUMMARY:\n     - Part 1: System Identity & Series Philosophy\n     - Part 2: PKB Integration Constitutional Requirements (YAML, Callouts, Wiki-Links, Inline Fields)\n     - Part 3: Five Report Scaffolds (Foundational, Socratic Dialogue, Case Study, Thematic, Comparative)\n     - Part 4: Series Coherence Protocol (Arc, Consistency, Navigation)\n     - Part 5: Quality Validation Gates (5 gates)\n     - Part 6: Pre-Output Validation Checklist\n     \n     USAGE:\n     Deploy as a Claude Project system prompt. Request reports using any of the\n     formats described in Operating Instructions. Reports will be formatted for\n     direct copy-paste into Obsidian.\n     \n     VERSION: 1.1.0\n     STATUS: Production\n     CONFIDENCE: Established\n     MATURITY: Budding\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 1256,
+        "source": "stoicism-series-claude-project-prompt-v1.0.0.md"
+      }
+    ],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Ancient Philosophy",
+      "Apatheia",
+      "Aristotle",
+      "Ataraxia",
+      "Bridging concept",
+      "Chrysippus",
+      "Cognitive Behavioral Therapy",
+      "Complementary or contrasting topic",
+      "Concept Name",
+      "Cynicism",
+      "Dichotomy of Control",
+      "Emotional Regulation",
+      "Emotional Resilience",
+      "Epictetus",
+      "Epicureanism",
+      "Eudaimonia",
+      "Expansion Topic 1",
+      "Expansion Topic 2",
+      "Expansion Topic 3",
+      "Logos",
+      "Marcus Aurelius",
+      "Metacognition",
+      "Mindfulness",
+      "Next Report Title",
+      "Next relevant report",
+      "PKB Architect",
+      "PKB Architecture",
+      "Philosophy MOC",
+      "Plato",
+      "Preferred Indifferents",
+      "Previous Report Title",
+      "Previous relevant report",
+      "Prohairesis",
+      "Related Case or Figure 1",
+      "Related Case or Figure 2",
+      "Related Report 1",
+      "Related Report 2",
+      "Related concept in PKB",
+      "Report N+1 Title",
+      "Report N-1 Title",
+      "Resilience",
+      "Seneca",
+      "Socrates",
+      "Sophrosyne",
+      "Specific sub-topic 1",
+      "Specific sub-topic 2",
+      "Stoicism",
+      "Stoicism MOC",
+      "Stoicism Series Overview",
+      "Virtue",
+      "Virtue Ethics"
+    ],
+    "unique_wiki_link_count": 51,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Ancient Philosophy",
+      "Apatheia",
+      "Aristotle",
+      "Ataraxia",
+      "Bridging concept",
+      "Chrysippus",
+      "Cognitive Behavioral Therapy",
+      "Complementary or contrasting topic",
+      "Concept Name",
+      "Cynicism",
+      "Dichotomy of Control",
+      "Emotional Regulation",
+      "Emotional Resilience",
+      "Epictetus",
+      "Epicureanism",
+      "Eudaimonia",
+      "Expansion Topic 1",
+      "Expansion Topic 2",
+      "Expansion Topic 3",
+      "Logos",
+      "Marcus Aurelius",
+      "Metacognition",
+      "Mindfulness",
+      "Next Report Title",
+      "Next relevant report",
+      "PKB Architect",
+      "PKB Architecture",
+      "Philosophy MOC",
+      "Plato",
+      "Preferred Indifferents",
+      "Previous Report Title",
+      "Previous relevant report",
+      "Prohairesis",
+      "Related Case or Figure 1",
+      "Related Case or Figure 2",
+      "Related Report 1",
+      "Related Report 2",
+      "Related concept in PKB",
+      "Report N+1 Title",
+      "Report N-1 Title",
+      "Resilience",
+      "Seneca",
+      "Socrates",
+      "Sophrosyne",
+      "Specific sub-topic 1",
+      "Specific sub-topic 2",
+      "Stoicism",
+      "Stoicism MOC",
+      "Stoicism Series Overview",
+      "Virtue",
+      "Virtue Ethics"
+    ]
+  }
+}

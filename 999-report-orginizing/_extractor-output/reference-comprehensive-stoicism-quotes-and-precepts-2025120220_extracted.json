@@ -1,0 +1,3189 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-12T10:03:32.412445",
+    "source_file": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-stoicism\\-stoicism\\reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+    "source_file_size_bytes": 57358,
+    "processing_time_seconds": 0.043
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Stoic Philosophy Reference",
+        "Stoic Precepts and Quotes"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "type/synthesis",
+        "status/in-progress",
+        "self-improvement",
+        "self-regulation",
+        "processing-workflow",
+        "self-improvement/skill-development",
+        "metacognitive-pkm",
+        "cognitive-resources",
+        "working-memory",
+        "problem-solving",
+        "cognitive-pkm"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251202200447",
+      "created": "2025-12-02T20:04:47",
+      "modified": "2025-12-02T20:04:47",
+      "week": "[[2025-W49]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "maturity": "needs-review",
+      "confidence": "provisional",
+      "next-review": "2025-12-09",
+      "review-count": "0",
+      "link-up": [
+        "[[practical-philosophy-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-02|Daily-Note]]"
+      ]
+    },
+    "word_count": 8449,
+    "character_count": 56246,
+    "line_count": 1316,
+    "heading_count": 39
+  },
+  "extraction_summary": {
+    "total_items_extracted": 325,
+    "by_type": {
+      "headings": 39,
+      "callouts": 84,
+      "wiki_links": 74,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 10,
+      "code_blocks": 5,
+      "tables": 2,
+      "external_links": 13,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 22,
+      "lists_unordered": 76,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Stoic Precepts and Quotes",
+      "anchor": "stoic-precepts-and-quotes",
+      "line_number": 38,
+      "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📊 Note Metadata Dashboard",
+          "anchor": "note-metadata-dashboard",
+          "line_number": 45,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Related Notes",
+              "anchor": "related-notes",
+              "line_number": 108,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Sources & References",
+              "anchor": "sources-references",
+              "line_number": 116,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Backlinks & Connections",
+              "anchor": "backlinks-connections",
+              "line_number": 126,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2025-12-02 - Initial Creation",
+              "anchor": "2025-12-02-initial-creation",
+              "line_number": 136,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Tags & Classification",
+              "anchor": "tags-classification",
+              "line_number": 141,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Review System",
+              "anchor": "review-system",
+              "line_number": 146,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Review Checklist:",
+                  "anchor": "review-checklist",
+                  "line_number": 154,
+                  "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "Claude Thinking",
+              "anchor": "claude-thinking",
+              "line_number": 163,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📑 Table of Contents",
+          "anchor": "table-of-contents",
+          "line_number": 289,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🏛️ Foundational Stoic Precepts",
+          "anchor": "foundational-stoic-precepts",
+          "line_number": 315,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Dichotomy of Control",
+              "anchor": "the-dichotomy-of-control",
+              "line_number": 317,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Virtue as the Highest Good (Summum Bonum)",
+              "anchor": "virtue-as-the-highest-good-summum-bonum",
+              "line_number": 347,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Amor Fati (Love of Fate)",
+              "anchor": "amor-fati-love-of-fate",
+              "line_number": 366,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Memento Mori (Remember You Must Die)",
+              "anchor": "memento-mori-remember-you-must-die",
+              "line_number": 389,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Premeditatio Malorum (Negative Visualization)",
+              "anchor": "premeditatio-malorum-negative-visualization",
+              "line_number": 410,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📜 Quotes by Stoic Philosopher",
+          "anchor": "quotes-by-stoic-philosopher",
+          "line_number": 437,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Marcus Aurelius - Meditations",
+              "anchor": "marcus-aurelius-meditations",
+              "line_number": 439,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Epictetus - Discourses and Enchiridion",
+              "anchor": "epictetus-discourses-and-enchiridion",
+              "line_number": 698,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Seneca - Letters and Essays",
+              "anchor": "seneca-letters-and-essays",
+              "line_number": 910,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎨 Quotes by Theme",
+          "anchor": "quotes-by-theme",
+          "line_number": 1143,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Control and Acceptance",
+              "anchor": "control-and-acceptance",
+              "line_number": 1145,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Virtue and Character",
+              "anchor": "virtue-and-character",
+              "line_number": 1155,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Death and Mortality",
+              "anchor": "death-and-mortality",
+              "line_number": 1161,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Adversity and Resilience",
+              "anchor": "adversity-and-resilience",
+              "line_number": 1167,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Present Moment Awareness",
+              "anchor": "present-moment-awareness",
+              "line_number": 1173,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Anger and Emotional Control",
+              "anchor": "anger-and-emotional-control",
+              "line_number": 1179,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🌅 Daily Practice Integration",
+          "anchor": "daily-practice-integration",
+          "line_number": 1185,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Morning Stoic Practice",
+              "anchor": "morning-stoic-practice",
+              "line_number": 1187,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Evening Stoic Practice",
+              "anchor": "evening-stoic-practice",
+              "line_number": 1216,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Integrating with [[Daily Note]]",
+              "anchor": "integrating-with-daily-note",
+              "line_number": 1243,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎯 Synthesis & Mastery",
+          "anchor": "synthesis-mastery",
+          "line_number": 1258,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Cognitive Models for Understanding Stoicism",
+              "anchor": "cognitive-models-for-understanding-stoicism",
+              "line_number": 1264,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Comparative Analysis",
+              "anchor": "comparative-analysis",
+              "line_number": 1278,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Implementation Pathway",
+              "anchor": "implementation-pathway",
+              "line_number": 1287,
+              "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📊 Metadata & Attribution",
+          "anchor": "metadata-attribution",
+          "line_number": 1307,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔄 Version History",
+          "anchor": "version-history",
+          "line_number": 1321,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 1328,
+      "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "Untitled",
+        "body": "- **Title**:: [[Stoic Precepts and Quotes]]\n- **Prompt/Topic Used**:: \n- **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`",
+        "line_number": 40,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 818,
+        "char_end": 978
+      },
+      {
+        "type": "fail",
+        "title": "🛠️ Metadata Health Check",
+        "body": "**Missing Fields**:: `$= const fields = [\"status\", \"type\", \"tags\"]; const missing = fields.filter(f => !dv.current()[f]); missing.length > 0 ? \"⚠️ Missing: \" + missing.join(\", \") : \"✅ All Systems Go\"`",
+        "line_number": 46,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 1008,
+        "char_end": 1246
+      },
+      {
+        "type": "metadata",
+        "title": "Untitled",
+        "body": "**Note-Type**: `= this.type`\n**Development Status**: `= this.maturity`  \n**Epistemic Confidence**: `= this.confidence`  \n**Next Review**: `= this.next-review`  \n**Review Count**: `= this.review-count`  \n**Created**: `= this.created`  \n**Last Modified**: `= this.modified`",
+        "line_number": 49,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 1247,
+        "char_end": 1547
+      },
+      {
+        "type": "quote",
+        "title": "📝 Content Metrics",
+        "body": "**Word Count**:: `= this.file.size` B | **Est. Read Time**:: `= round(this.file.size / 1300) + \" min\"`\n**Depth Class**:: `= choice(this.file.size < 500, \"🌱 Stub\", choice(this.file.size < 2000, \"📄 Note\", \"📜 Essay\"))`",
+        "line_number": 58,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 1548,
+        "char_end": 1797
+      },
+      {
+        "type": "calendar",
+        "title": "🕰️ Temporal Context",
+        "body": "**Created**:: `= this.file.ctime` | **Age**:: `= (date(today) - this.file.ctime).days + \" days\"`\n**Last Touch**:: `= this.file.mtime` | **Staleness**:: `= choice((date(today) - this.file.mtime).days > 180, \"🕸️ Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂 Cold\", \"🔥 Fresh\"))`",
+        "line_number": 62,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 1798,
+        "char_end": 2129
+      },
+      {
+        "type": "network",
+        "title": "🔗 Network Connectivity",
+        "body": "**In-Links**:: `= length(this.file.inlinks)` | **Out-Links**:: `= length(this.file.outlinks)`\n**Network Status**:: `= choice(length(this.file.inlinks) = 0, \"🕸️ Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱 Node\"))`",
+        "line_number": 66,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 2130,
+        "char_end": 2398
+      },
+      {
+        "type": "important",
+        "title": "Review Schedule",
+        "body": "- **Next Review**: `= this.next-review`\n- **Review Frequency**: Based on maturity level\n  - Seedling: Weekly\n  - Budding: Bi-weekly\n  - Developing: Monthly\n  - Evergreen: Quarterly",
+        "line_number": 147,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 4582,
+        "char_end": 4806
+      },
+      {
+        "type": "comprehensive-reference",
+        "title": "📚 Comprehensive-Reference",
+        "body": "- **Generated**:: 2025-12-02\n- **Version**:: 1.0\n- **Type**:: Reference Documentation",
+        "line_number": 276,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 9257,
+        "char_end": 9404
+      },
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "**Executive Overview**\nThis comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Personal Knowledge Management|knowledge management]] systems.",
+        "line_number": 281,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 9405,
+        "char_end": 9947
+      },
+      {
+        "type": "how-to-use-this",
+        "title": "Untitled",
+        "body": "**Navigation Guide**\nThis reference note is organized into major sections covering fundamental Stoic precepts followed by thematic collections of quotes from the three master Stoics. Use the table of contents below for quick navigation, or search for specific concepts using [[Wiki-Links]]. Each quote includes complete citation metadata for scholarly reference and daily practice integration.",
+        "line_number": 285,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 9948,
+        "char_end": 10367
+      },
+      {
+        "type": "stoic-precept",
+        "title": "The Dichotomy of Control",
+        "body": "**Core Principle**: Life can be divided into two categories: what is within our control and what is not within our control.\n\n**Within Our Control**:\n- Our judgments and opinions\n- Our desires and aversions\n- Our actions and responses\n- Our character and values\n\n**Not Within Our Control**:\n- External events\n- Other people's actions\n- Our body (ultimately)\n- Our reputation\n- Outcomes and results",
+        "line_number": 319,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 11163,
+        "char_end": 11632
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Central Principle**\nThe Dichotomy of Control is the master key to [[Stoic Philosophy|Stoic]] peace of mind. By accepting what we cannot change and taking responsibility for what we can, we achieve both freedom and power simultaneously.",
+        "line_number": 341,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 12729,
+        "char_end": 12986
+      },
+      {
+        "type": "stoic-precept",
+        "title": "Summum Bonum (The Highest Good)",
+        "body": "**Core Principle**: Virtue is the only true good; everything else is \"indifferent\" (neither good nor bad in itself).\n\n**The Four Cardinal Virtues**:\n- **Wisdom** ([[Sophia]]): Understanding what is truly good, bad, or indifferent\n- **Courage** ([[Andreia]]): Moral strength to act rightly despite fear\n- **Justice** ([[Dikaiosyne]]): Fairness and integrity in all dealings\n- **Temperance** ([[Sophrosyne]]): Self-control and moderation in all things",
+        "line_number": 349,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 13039,
+        "char_end": 13554
+      },
+      {
+        "type": "stoic-precept",
+        "title": "Amor Fati (Love of Fate)",
+        "body": "**Core Principle**: Not merely to accept what happens, but to actively love and embrace it as necessary and perfect.\n\n**Key Aspects**:\n- Acceptance of events as they unfold\n- Gratitude for all experiences, pleasant and unpleasant\n- Recognition that everything serves our development\n- Trust in the rational order of nature",
+        "line_number": 368,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 14557,
+        "char_end": 14938
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Central Principle**\nAmor Fati transforms passive acceptance into active appreciation. By loving what is necessary, we make peace with reality and unlock the capacity for genuine joy regardless of circumstances.",
+        "line_number": 383,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 16052,
+        "char_end": 16284
+      },
+      {
+        "type": "stoic-precept",
+        "title": "Memento Mori (Remember You Must Die)",
+        "body": "**Core Principle**: Keep death constantly in mind as a tool for living more fully and intentionally in the present moment.\n\n**Key Applications**:\n- Appreciate the preciousness of each day\n- Maintain perspective on trivial concerns\n- Focus energy on what truly matters\n- Live in alignment with your deepest values",
+        "line_number": 391,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 16332,
+        "char_end": 16715
+      },
+      {
+        "type": "stoic-precept",
+        "title": "Premeditatio Malorum (Premeditation of Evils)",
+        "body": "**Core Principle**: Systematically imagine potential adversities and challenges to prepare yourself mentally and emotionally for their occurrence.\n\n**Practice Elements**:\n- Contemplate possible hardships before they happen\n- Mentally rehearse your response to adversity\n- Reduce the shock of unexpected challenges\n- Develop resilience through anticipatory preparation",
+        "line_number": 412,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 17931,
+        "char_end": 18378
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Practical Framework**\n1. **Morning Practice**: Spend 5-10 minutes contemplating potential challenges for the day ahead\n2. **Specific Visualization**: Imagine concrete scenarios (project failure, difficult conversations, delays)\n3. **Response Rehearsal**: Mentally practice your virtuous response to each scenario\n4. **Acceptance**: Cultivate the attitude \"if this happens, I will handle it with wisdom and courage\"\n5. **Gratitude**: Recognize that these challenges have not yet occurred, fostering appreciation for the present",
+        "line_number": 427,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 19270,
+        "char_end": 19840
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Control & Strength",
+        "body": "\"You have power over your mind—not outside events. Realize this, and you will find strength.\"\n\t— Marcus Aurelius,\n\t    *Meditations*",
+        "line_number": 445,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 20411,
+        "char_end": 20600
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Meditations (Ta eis heauton / To Himself)\n- **Author(s)**:: Marcus Aurelius Antoninus\n- **Year**:: c. 170-180 CE\n- **Publisher / Journal**:: Various modern editions; Gregory Hays translation recommended\n- **Volume / Issue**:: N/A (Complete work in 12 books)\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html\n### Citation Metadata\n- **Citation ID**:: 202512021910\n- **Date Created**:: 2025-12-02T19:10:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 450,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 20601,
+        "char_end": 21314
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Perception & Reality",
+        "body": "\"If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment.\"\n\t— Marcus Aurelius,\n\t    *Meditations*",
+        "line_number": 468,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 21320,
+        "char_end": 21585
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Meditations\n- **Author(s)**:: Marcus Aurelius\n- **Year**:: c. 170-180 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html\n### Citation Metadata\n- **Citation ID**:: 202512021911\n- **Date Created**:: 2025-12-02T19:11:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 473,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 21586,
+        "char_end": 22193
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Morning Practice",
+        "body": "\"When you arise in the morning, think of what a privilege it is to be alive, to think, to enjoy, to love.\"\n\t— Marcus Aurelius,\n\t    *Meditations*",
+        "line_number": 491,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 22199,
+        "char_end": 22399
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Meditations\n- **Author(s)**:: Marcus Aurelius\n- **Year**:: c. 170-180 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html\n### Citation Metadata\n- **Citation ID**:: 202512021912\n- **Date Created**:: 2025-12-02T19:12:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 496,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 22400,
+        "char_end": 23007
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Obstacles as Opportunities",
+        "body": "\"The impediment to action advances action. What stands in the way becomes the way.\"\n\t— Marcus Aurelius,\n\t    *Meditations*",
+        "line_number": 514,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 23013,
+        "char_end": 23200
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Meditations\n- **Author(s)**:: Marcus Aurelius\n- **Year**:: c. 170-180 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html\n### Citation Metadata\n- **Citation ID**:: 202512021913\n- **Date Created**:: 2025-12-02T19:13:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 519,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 23201,
+        "char_end": 23808
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Death and Urgency",
+        "body": "\"Think of yourself as dead. You have lived your life. Now take what's left and live it properly.\"\n\t— Marcus Aurelius,\n\t    *Meditations*",
+        "line_number": 537,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 23814,
+        "char_end": 24006
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Meditations\n- **Author(s)**:: Marcus Aurelius\n- **Year**:: c. 170-180 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html\n### Citation Metadata\n- **Citation ID**:: 202512021914\n- **Date Created**:: 2025-12-02T19:14:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 542,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 24007,
+        "char_end": 24614
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Quality of Thoughts",
+        "body": "\"The happiness of your life depends upon the quality of your thoughts.\"\n\t— Marcus Aurelius,\n\t    *Meditations*",
+        "line_number": 560,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 24620,
+        "char_end": 24788
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Meditations\n- **Author(s)**:: Marcus Aurelius\n- **Year**:: c. 170-180 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html\n### Citation Metadata\n- **Citation ID**:: 202512021915\n- **Date Created**:: 2025-12-02T19:15:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 565,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 24789,
+        "char_end": 25396
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Acceptance of Fate",
+        "body": "\"Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.\"\n\t— Marcus Aurelius,\n\t    *Meditations*",
+        "line_number": 583,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 25402,
+        "char_end": 25629
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Meditations\n- **Author(s)**:: Marcus Aurelius\n- **Year**:: c. 170-180 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html\n### Citation Metadata\n- **Citation ID**:: 202512021916\n- **Date Created**:: 2025-12-02T19:16:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 588,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 25630,
+        "char_end": 26237
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Self-Examination",
+        "body": "\"Whenever you are about to find fault with someone, ask yourself the following question: What fault of mine most nearly resembles the one I am about to criticize?\"\n\t— Marcus Aurelius,\n\t    *Meditations*",
+        "line_number": 606,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 26243,
+        "char_end": 26500
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Meditations\n- **Author(s)**:: Marcus Aurelius\n- **Year**:: c. 170-180 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html\n### Citation Metadata\n- **Citation ID**:: 202512021917\n- **Date Created**:: 2025-12-02T19:17:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 611,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 26501,
+        "char_end": 27108
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Truth and Change",
+        "body": "\"If someone is able to show me that what I think or do is not right, I will happily change, for I seek the truth, by which no one was ever truly harmed.\"\n\t— Marcus Aurelius,\n\t    *Meditations*",
+        "line_number": 629,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 27114,
+        "char_end": 27361
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Meditations\n- **Author(s)**:: Marcus Aurelius\n- **Year**:: c. 170-180 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html\n### Citation Metadata\n- **Citation ID**:: 202512021918\n- **Date Created**:: 2025-12-02T19:18:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 634,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 27362,
+        "char_end": 27969
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Taking Action on Virtue",
+        "body": "\"Waste no more time arguing what a good man should be. Be one.\"\n\t— Marcus Aurelius,\n\t    *Meditations*, Book 10.16",
+        "line_number": 652,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 27975,
+        "char_end": 28151
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Meditations\n- **Author(s)**:: Marcus Aurelius\n- **Year**:: c. 170-180 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: Book 10\n- **Page(s)**:: Chapter 16\n- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html\n### Citation Metadata\n- **Citation ID**:: 202512021919\n- **Date Created**:: 2025-12-02T19:19:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 657,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 28152,
+        "char_end": 28752
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Future and Reason",
+        "body": "\"Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.\"\n\t— Marcus Aurelius,\n\t    *Meditations*",
+        "line_number": 675,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 28758,
+        "char_end": 28995
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Meditations\n- **Author(s)**:: Marcus Aurelius\n- **Year**:: c. 170-180 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: https://classics.mit.edu/Antoninus/meditations.html\n### Citation Metadata\n- **Citation ID**:: 202512021920\n- **Date Created**:: 2025-12-02T19:20:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 680,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 28996,
+        "char_end": 29603
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - The Dichotomy of Control (Opening of Enchiridion)",
+        "body": "\"Some things are within our power, while others are not. Within our power are opinion, motivation, desire, aversion, and, in a word, whatever is of our own doing; not within our power are our body, our property, reputation, office, and, in a word, whatever is not of our own doing. The things within our power are by nature free, unrestrained, unhindered; but those not within our power are weak, slavish, restrained, belonging to others.\"\n\t— Epictetus,\n\t    *Enchiridion*, Chapter 1",
+        "line_number": 706,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 30317,
+        "char_end": 30888
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Enchiridion (The Handbook)\n- **Author(s)**:: Epictetus (transcribed by Arrian)\n- **Year**:: c. 125 CE\n- **Publisher / Journal**:: Various modern editions; Elizabeth Carter translation (1758)\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Chapter 1\n- **URL / DOI**:: https://classics.mit.edu/Epictetus/epicench.html\n### Citation Metadata\n- **Citation ID**:: 202512021921\n- **Date Created**:: 2025-12-02T19:21:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 711,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 30889,
+        "char_end": 31547
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Happiness and Control",
+        "body": "\"There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.\"\n\t— Epictetus,\n\t    *Discourses*",
+        "line_number": 729,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 31553,
+        "char_end": 31764
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Discourses\n- **Author(s)**:: Epictetus (transcribed by Arrian)\n- **Year**:: c. 108 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021922\n- **Date Created**:: 2025-12-02T19:22:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 734,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 31765,
+        "char_end": 32337
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Disturbance from Views",
+        "body": "\"People are not disturbed by things, but by the views they take of them.\"\n\t— Epictetus,\n\t    *Enchiridion*",
+        "line_number": 752,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 32343,
+        "char_end": 32510
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Enchiridion\n- **Author(s)**:: Epictetus (transcribed by Arrian)\n- **Year**:: c. 125 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: https://classics.mit.edu/Epictetus/epicench.html\n### Citation Metadata\n- **Citation ID**:: 202512021923\n- **Date Created**:: 2025-12-02T19:23:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 757,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 32511,
+        "char_end": 33129
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Harm and Belief",
+        "body": "\"Remember, it is not enough to be hit or insulted to be harmed, you must believe that you are being harmed. If someone succeeds in provoking you, realize that your mind is complicit in the provocation.\"\n\t— Epictetus,\n\t    *The Art of Living*",
+        "line_number": 775,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 33135,
+        "char_end": 33430
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text (Modern Compilation)\n- **Title**:: The Art of Living (Compilation of teachings)\n- **Author(s)**:: Epictetus (transcribed by Arrian)\n- **Year**:: c. 108-125 CE (original teachings)\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by compilation\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021924\n- **Date Created**:: 2025-12-02T19:24:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 780,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 33431,
+        "char_end": 34083
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Control Over Anger",
+        "body": "\"Any person capable of angering you becomes your master; he can anger you only when you permit yourself to be disturbed by him.\"\n\t— Epictetus",
+        "line_number": 798,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 34089,
+        "char_end": 34285
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Discourses and Enchiridion (combined teachings)\n- **Author(s)**:: Epictetus (transcribed by Arrian)\n- **Year**:: c. 108-125 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: N/A\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021925\n- **Date Created**:: 2025-12-02T19:25:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 802,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 34286,
+        "char_end": 34881
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Books and Thinking",
+        "body": "\"Don't just say you have read books. Show that through them you have learned to think better, to be a more discriminating and reflective person. Books are the training weights of the mind.\"\n\t— Epictetus,\n\t    *The Art of Living*",
+        "line_number": 820,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 34887,
+        "char_end": 35172
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: The Art of Living (Compilation)\n- **Author(s)**:: Epictetus (transcribed by Arrian)\n- **Year**:: c. 108-125 CE (original teachings)\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by compilation\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021926\n- **Date Created**:: 2025-12-02T19:26:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 825,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 35173,
+        "char_end": 35791
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Imagined Anxieties",
+        "body": "\"Man is not worried by real problems so much as by his imagined anxieties about real problems.\"\n\t— Epictetus",
+        "line_number": 843,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 35797,
+        "char_end": 35960
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Discourses and Enchiridion\n- **Author(s)**:: Epictetus (transcribed by Arrian)\n- **Year**:: c. 108-125 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: N/A\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021927\n- **Date Created**:: 2025-12-02T19:27:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 847,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 35961,
+        "char_end": 36535
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Self-Improvement and Delay",
+        "body": "\"How long are you going to wait before you demand the best for yourself? You are no longer a boy, but a full-grown man. If you are careless and lazy now and keep putting things off, you will not notice that you are making no progress.\"\n\t— Epictetus",
+        "line_number": 865,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 36541,
+        "char_end": 36852
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Discourses and Enchiridion\n- **Author(s)**:: Epictetus (transcribed by Arrian)\n- **Year**:: c. 108-125 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: N/A\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021928\n- **Date Created**:: 2025-12-02T19:28:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 869,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 36853,
+        "char_end": 37427
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Death Without Lamenting",
+        "body": "\"I must die. Must I then die lamenting? I must be put in chains. Must I then also lament? I must go into exile. Does any man then hinder me from going with smiles and cheerfulness and contentment?\"\n\t— Epictetus,\n\t    *Discourses*",
+        "line_number": 887,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 37433,
+        "char_end": 37724
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Discourses\n- **Author(s)**:: Epictetus (transcribed by Arrian)\n- **Year**:: c. 108 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021929\n- **Date Created**:: 2025-12-02T19:29:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 892,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 37725,
+        "char_end": 38297
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Life is Long if Used Well",
+        "body": "\"It is not that we have a short time to live, but that we waste much of it. Life is long enough, and it has been given in sufficiently generous measure to allow the accomplishment of the very greatest things if the whole of it is well invested.\"\n\t— Seneca,\n\t    *On the Shortness of Life*",
+        "line_number": 916,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 38746,
+        "char_end": 39098
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Essay\n- **Title**:: On the Shortness of Life (De Brevitate Vitae)\n- **Author(s)**:: Lucius Annaeus Seneca\n- **Year**:: c. 49 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Varies by translation\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021930\n- **Date Created**:: 2025-12-02T19:30:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 921,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 39099,
+        "char_end": 39694
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Suffering in Imagination",
+        "body": "\"There are more things, Lucilius, likely to frighten us than there are to crush us; we suffer more often in imagination than in reality.\"\n\t— Seneca,\n\t    *Moral Letters to Lucilius*, Letter 13",
+        "line_number": 939,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 39700,
+        "char_end": 39955
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Letter\n- **Title**:: Moral Letters to Lucilius (Epistulae Morales ad Lucilium)\n- **Author(s)**:: Lucius Annaeus Seneca\n- **Year**:: c. 65 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: Book 2\n- **Page(s)**:: Letter 13.4\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021931\n- **Date Created**:: 2025-12-02T19:31:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 944,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 39956,
+        "char_end": 40557
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Anger More Hurtful Than Injury",
+        "body": "\"Anger, if not restrained, is frequently more hurtful to us than the injury that provokes it.\"\n\t— Seneca",
+        "line_number": 962,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 40563,
+        "char_end": 40734
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: On Anger (De Ira) and other writings\n- **Author(s)**:: Lucius Annaeus Seneca\n- **Year**:: c. 41-49 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: N/A\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021932\n- **Date Created**:: 2025-12-02T19:32:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 966,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 40735,
+        "char_end": 41305
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Premeditation of Evils",
+        "body": "\"What is quite unlooked for is more crushing in its effect, and unexpectedness adds to the weight of a disaster. This is a reason for ensuring that nothing ever takes us by surprise. We should project our thoughts ahead of us at every turn and have in mind every possible eventuality instead of only the usual course of events.\"\n\t— Seneca,\n\t    *Moral Letters to Lucilius*, Letter 76",
+        "line_number": 984,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 41311,
+        "char_end": 41755
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Letter\n- **Title**:: Moral Letters to Lucilius\n- **Author(s)**:: Lucius Annaeus Seneca\n- **Year**:: c. 65 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Letter 76\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021933\n- **Date Created**:: 2025-12-02T19:33:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 989,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 41756,
+        "char_end": 42320
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - True Happiness and the Present",
+        "body": "\"True happiness is to enjoy the present, without anxious dependence upon the future.\"\n\t— Seneca",
+        "line_number": 1007,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 42326,
+        "char_end": 42488
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Letters and Essays\n- **Author(s)**:: Lucius Annaeus Seneca\n- **Year**:: c. 41-65 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: N/A\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021934\n- **Date Created**:: 2025-12-02T19:34:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 1011,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 42489,
+        "char_end": 43041
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Virtue Must Be Cultivated",
+        "body": "\"But virtue only comes to a character which has been thoroughly schooled and trained and brought to a pitch of perfection by unremitting practice. We are born for it, but not with it.\"\n\t— Seneca,\n\t    *Letters from a Stoic*, Letter 90",
+        "line_number": 1029,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 43047,
+        "char_end": 43345
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Letter\n- **Title**:: Moral Letters to Lucilius\n- **Author(s)**:: Lucius Annaeus Seneca\n- **Year**:: c. 65 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Letter 90\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021935\n- **Date Created**:: 2025-12-02T19:35:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 1034,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 43346,
+        "char_end": 43910
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Escaping Yourself",
+        "body": "\"How can you wonder your travels do you no good, when you carry yourself around with you? You are saddled with the very thing that drove you away.\"\n\t— Seneca,\n\t    *Letters from a Stoic*, Letter 28",
+        "line_number": 1052,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 43916,
+        "char_end": 44169
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Letter\n- **Title**:: Moral Letters to Lucilius\n- **Author(s)**:: Lucius Annaeus Seneca\n- **Year**:: c. 65 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Letter 28\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021936\n- **Date Created**:: 2025-12-02T19:36:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 1057,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 44170,
+        "char_end": 44734
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Evening Self-Examination",
+        "body": "\"When the light has been removed and my wife has fallen silent, aware as she is of my habit, I examine my entire day, going through what I have done and said. I conceal nothing from myself, I pass nothing by.\"\n\t— Seneca,\n\t    *On Anger*, Book 3.36",
+        "line_number": 1075,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 44740,
+        "char_end": 45050
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Essay\n- **Title**:: On Anger (De Ira)\n- **Author(s)**:: Lucius Annaeus Seneca\n- **Year**:: c. 41-49 CE\n- **Publisher / Journal**:: Various modern editions (appears in Dialogues and Essays)\n- **Volume / Issue**:: Book 3\n- **Page(s)**:: Chapter 36\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021937\n- **Date Created**:: 2025-12-02T19:37:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 1080,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 45051,
+        "char_end": 45647
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Nature vs. Opinion",
+        "body": "\"If you shape your life according to nature, you will never be poor; if according to people's opinions, you will never be rich.\"\n\t— Seneca,\n\t    *Letters from a Stoic*, Letter 16",
+        "line_number": 1098,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 45653,
+        "char_end": 45888
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Letter\n- **Title**:: Moral Letters to Lucilius\n- **Author(s)**:: Lucius Annaeus Seneca\n- **Year**:: c. 65 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: Letter 16\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021938\n- **Date Created**:: 2025-12-02T19:38:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 1103,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 45889,
+        "char_end": 46453
+      },
+      {
+        "type": "stoic-quote",
+        "title": "Stoic Quote - Difficulties Strengthen the Mind",
+        "body": "\"Difficulties strengthen the mind, as labor does the body.\"\n\t— Seneca",
+        "line_number": 1121,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 46459,
+        "char_end": 46597
+      },
+      {
+        "type": "citation",
+        "title": "Untitled",
+        "body": "### Quote Bibliographic Information\n- **Source Type**:: Ancient Philosophical Text\n- **Title**:: Various Letters and Essays\n- **Author(s)**:: Lucius Annaeus Seneca\n- **Year**:: c. 41-65 CE\n- **Publisher / Journal**:: Various modern editions\n- **Volume / Issue**:: N/A\n- **Page(s)**:: N/A\n- **URL / DOI**:: N/A\n### Citation Metadata\n- **Citation ID**:: 202512021939\n- **Date Created**:: 2025-12-02T19:39:00\n- **LLM Used**:: Claude Sonnet 4.5\n\t- **Agent Used**:: Claude Project -> Comprehensive Reference Note Generator",
+        "line_number": 1125,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 46598,
+        "char_end": 47158
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Central Teaching**\nAll Stoic practice begins with clear discernment of what is and is not within our power. Once this distinction is mastered, peace follows naturally.",
+        "line_number": 1149,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 47526,
+        "char_end": 47715
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Morning Routine Framework**\n\n**1. Quote Contemplation (2-3 minutes)**\n- Read a Stoic quote from this reference note\n- Reflect deeply on its meaning\n- Consider how it applies to your day ahead\n\n**2. Morning Journaling (5-10 minutes)**\n- What am I grateful for today?\n- What challenges might I face?\n- How will I practice virtue today?\n- What is within my control today?\n\n**3. Premeditatio Malorum (3-5 minutes)**\nImagine how you will respond to hardship and setbacks so that nothing catches you off-guard. Mentally rehearse:\n- Difficult people you might encounter\n- Potential obstacles to your goals\n- Your virtuous response to each scenario\n\n**4. Set Daily Intention (1-2 minutes)**\n- Identify one virtue to focus on today\n- Set a specific intention for virtuous action\n- Commit to mindfulness throughout the day",
+        "line_number": 1191,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 49230,
+        "char_end": 50120
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Evening Routine Framework**\n\n**1. Daily Review (5-10 minutes)**\nAsk yourself: What did you do? What did you do well? What not so well? How could you improve?\n\nQuestions for reflection:\n- Where did I act virtuously today?\n- Where did I fall short of my ideals?\n- How did I respond to challenges?\n- What would I do differently tomorrow?\n- Did I distinguish properly between what I could and couldn't control?\n\n**2. Gratitude Practice (2-3 minutes)**\n- What went well today?\n- What am I thankful for?\n- What opportunities did I have?\n\n**3. Preparation for Tomorrow (2-3 minutes)**\n- Review tomorrow's schedule\n- Identify potential challenges\n- Set intention for virtuous action",
+        "line_number": 1220,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 50317,
+        "char_end": 51065
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**PKB Integration Strategy**\n\n1. **Random Quote Selection**: Use [[Dataview]] or [[Templater]] to randomly select a quote from this note each morning\n2. **Thematic Selection**: Choose quotes by theme based on current challenges\n3. **Systematic Reading**: Progress through quotes sequentially over weeks/months\n4. **Reflection Prompts**: Link each quote to journaling prompts in your daily note\n5. **Progress Tracking**: Use [[Tasks]] plugin to track daily Stoic practice completion",
+        "line_number": 1247,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 51193,
+        "char_end": 51706
+      },
+      {
+        "type": "the-philosophy",
+        "title": "Untitled",
+        "body": "**Underlying Philosophy**\n[[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "line_number": 1260,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 51738,
+        "char_end": 52316
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Research Methodology**\n- **Primary Sources**: Ancient texts (*Meditations*, *Discourses*, *Enchiridion*, *Moral Letters*, *Essays*)\n- **Research Queries Executed**:\n  1. \"Marcus Aurelius Meditations Stoic quotes primary sources citations\"\n  2. \"Epictetus Enchiridion Discourses quotes dichotomy control Stoic philosophy\"\n  3. \"Seneca Letters Moral Essays Stoic quotes On Anger tranquility\"\n  4. \"Stoic precepts amor fati memento mori premeditatio malorum philosophical principles\"\n  5. \"Stoicism daily practice techniques morning evening routine journal reflection\"\n- **Synthesis Approach**: Compiled authentic quotes with proper citations, organized by philosopher and theme\n- **Confidence Level**: High for quotes and precepts (verified against multiple scholarly sources); Medium for modern interpretations",
+        "line_number": 1309,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md",
+        "char_start": 54626,
+        "char_end": 55487
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Stoic Precepts and Quotes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoic Precepts and Quotes]]",
+        "line_number": 41,
+        "section": "Stoic Precepts and Quotes",
+        "context_line": "> - **Title**:: [[Stoic Precepts and Quotes]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Stoicism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism]]",
+        "line_number": 210,
+        "section": "Claude Thinking",
+        "context_line": "- [[Stoicism]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Dichotomy of Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dichotomy of Control]]",
+        "line_number": 211,
+        "section": "Claude Thinking",
+        "context_line": "- [[Dichotomy of Control]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Virtue Ethics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue Ethics]]",
+        "line_number": 212,
+        "section": "Claude Thinking",
+        "context_line": "- [[Virtue Ethics]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Amor Fati",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Amor Fati]]",
+        "line_number": 213,
+        "section": "Claude Thinking",
+        "context_line": "- [[Amor Fati]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Memento Mori",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Memento Mori]]",
+        "line_number": 214,
+        "section": "Claude Thinking",
+        "context_line": "- [[Memento Mori]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Marcus Aurelius",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus Aurelius]]",
+        "line_number": 215,
+        "section": "Claude Thinking",
+        "context_line": "- [[Marcus Aurelius]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 216,
+        "section": "Claude Thinking",
+        "context_line": "- [[Epictetus]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Seneca",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Seneca]]",
+        "line_number": 217,
+        "section": "Claude Thinking",
+        "context_line": "- [[Seneca]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Daily Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daily Note]]",
+        "line_number": 218,
+        "section": "Claude Thinking",
+        "context_line": "- [[Daily Note]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Premeditatio Malorum",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Premeditatio Malorum]]",
+        "line_number": 219,
+        "section": "Claude Thinking",
+        "context_line": "- [[Premeditatio Malorum]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Negative Visualization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Negative Visualization]]",
+        "line_number": 220,
+        "section": "Claude Thinking",
+        "context_line": "- [[Negative Visualization]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Eudaimonia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Eudaimonia]]",
+        "line_number": 221,
+        "section": "Claude Thinking",
+        "context_line": "- [[Eudaimonia]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Ataraxia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ataraxia]]",
+        "line_number": 222,
+        "section": "Claude Thinking",
+        "context_line": "- [[Ataraxia]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Apatheia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Apatheia]]",
+        "line_number": 223,
+        "section": "Claude Thinking",
+        "context_line": "- [[Apatheia]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Prosoche",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prosoche]]",
+        "line_number": 224,
+        "section": "Claude Thinking",
+        "context_line": "- [[Prosoche]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Stoicism",
+        "heading": null,
+        "display_text": "Stoic",
+        "full_match": "[[Stoicism|Stoic]]",
+        "line_number": 283,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Personal Knowledge Management|knowledge management]] systems.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Stoic Precepts",
+        "heading": null,
+        "display_text": "precepts",
+        "full_match": "[[Stoic Precepts|precepts]]",
+        "line_number": 283,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Personal Knowledge Management|knowledge management]] systems.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Marcus Aurelius",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus Aurelius]]",
+        "line_number": 283,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Personal Knowledge Management|knowledge management]] systems.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 283,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Personal Knowledge Management|knowledge management]] systems.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Seneca",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Seneca]]",
+        "line_number": 283,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Personal Knowledge Management|knowledge management]] systems.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Ancient Philosophy",
+        "heading": null,
+        "display_text": "ancient wisdom",
+        "full_match": "[[Ancient Philosophy|ancient wisdom]]",
+        "line_number": 283,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Personal Knowledge Management|knowledge management]] systems.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Personal Knowledge Management",
+        "heading": null,
+        "display_text": "knowledge management",
+        "full_match": "[[Personal Knowledge Management|knowledge management]]",
+        "line_number": 283,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference note compiles authentic [[Stoicism|Stoic]] quotes and [[Stoic Precepts|precepts]] from the three primary Roman Stoic philosophers—[[Marcus Aurelius]], [[Epictetus]], and [[Seneca]]—for integration into daily practice. Each quote and precept is properly cited with bibliographic information and organized thematically to support systematic engagement with [[Ancient Philosophy|ancient wisdom]] through modern [[Personal Knowledge Management|knowledge management]] systems.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Wiki-Links",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Wiki-Links]]",
+        "line_number": 287,
+        "section": "Claude Thinking",
+        "context_line": "> This reference note is organized into major sections covering fundamental Stoic precepts followed by thematic collections of quotes from the three master Stoics. Use the table of contents below for quick navigation, or search for specific concepts using [[Wiki-Links]]. Each quote includes complete citation metadata for scholarly reference and daily practice integration.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Dichotomy of Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dichotomy of Control]]",
+        "line_number": 335,
+        "section": "The Dichotomy of Control",
+        "context_line": "The [[Dichotomy of Control]] represents the foundational principle of Stoic philosophy, first articulated by [[Epictetus]] in his *Enchiridion* (Handbook). This precept teaches that freedom from anxiety and true [[Tranquility|tranquility]] come from recognizing this distinction and focusing our energy exclusively on what lies within our sphere of influence—our thoughts, judgments, and voluntary actions.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 335,
+        "section": "The Dichotomy of Control",
+        "context_line": "The [[Dichotomy of Control]] represents the foundational principle of Stoic philosophy, first articulated by [[Epictetus]] in his *Enchiridion* (Handbook). This precept teaches that freedom from anxiety and true [[Tranquility|tranquility]] come from recognizing this distinction and focusing our energy exclusively on what lies within our sphere of influence—our thoughts, judgments, and voluntary actions.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Tranquility",
+        "heading": null,
+        "display_text": "tranquility",
+        "full_match": "[[Tranquility|tranquility]]",
+        "line_number": 335,
+        "section": "The Dichotomy of Control",
+        "context_line": "The [[Dichotomy of Control]] represents the foundational principle of Stoic philosophy, first articulated by [[Epictetus]] in his *Enchiridion* (Handbook). This precept teaches that freedom from anxiety and true [[Tranquility|tranquility]] come from recognizing this distinction and focusing our energy exclusively on what lies within our sphere of influence—our thoughts, judgments, and voluntary actions.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Stoic Philosophy",
+        "heading": null,
+        "display_text": "Stoic",
+        "full_match": "[[Stoic Philosophy|Stoic]]",
+        "line_number": 343,
+        "section": "The Dichotomy of Control",
+        "context_line": "> The Dichotomy of Control is the master key to [[Stoic Philosophy|Stoic]] peace of mind. By accepting what we cannot change and taking responsibility for what we can, we achieve both freedom and power simultaneously.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Sophia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Sophia]]",
+        "line_number": 353,
+        "section": "Virtue as the Highest Good (Summum Bonum)",
+        "context_line": "> - **Wisdom** ([[Sophia]]): Understanding what is truly good, bad, or indifferent",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Andreia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Andreia]]",
+        "line_number": 354,
+        "section": "Virtue as the Highest Good (Summum Bonum)",
+        "context_line": "> - **Courage** ([[Andreia]]): Moral strength to act rightly despite fear",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Dikaiosyne",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dikaiosyne]]",
+        "line_number": 355,
+        "section": "Virtue as the Highest Good (Summum Bonum)",
+        "context_line": "> - **Justice** ([[Dikaiosyne]]): Fairness and integrity in all dealings",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Sophrosyne",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Sophrosyne]]",
+        "line_number": 356,
+        "section": "Virtue as the Highest Good (Summum Bonum)",
+        "context_line": "> - **Temperance** ([[Sophrosyne]]): Self-control and moderation in all things",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Eudaimonia",
+        "heading": null,
+        "display_text": "flourishing",
+        "full_match": "[[Eudaimonia|flourishing]]",
+        "line_number": 358,
+        "section": "Virtue as the Highest Good (Summum Bonum)",
+        "context_line": "*Summum Bonum* is a Latin expression meaning \"the highest good.\" To the Stoics, virtue is the answer to what we should aim for in life. If we act virtuously, the Stoics believed, everything else important follows: happiness, meaning, and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Virtue Ethics",
+        "heading": null,
+        "display_text": "virtue",
+        "full_match": "[[Virtue Ethics|virtue]]",
+        "line_number": 360,
+        "section": "Virtue as the Highest Good (Summum Bonum)",
+        "context_line": "The Stoics did not claim the path of [[Virtue Ethics|virtue]] was easy or that it would always be recognized by others, only that it was essential. This represents a radical departure from other philosophical schools: external goods like wealth, health, and reputation are merely \"preferred indifferents\"—nice to have but not constitutive of the good life.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Amor Fati",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Amor Fati]]",
+        "line_number": 381,
+        "section": "Amor Fati (Love of Fate)",
+        "context_line": "The Stoics advocated accepting the laws of nature and existence—that all humans are mortal and finite, that we are born, live, and die, and it is all natural, consistent with nature, inescapable, and therefore our destiny. [[Amor Fati]] represents the ultimate form of acceptance: embracing our mortality and fate as opportunities to affirm the meaning and love we've lived.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Gratitude",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Gratitude]]",
+        "line_number": 404,
+        "section": "Memento Mori (Remember You Must Die)",
+        "context_line": "The purpose of contemplating memento mori is to jolt you back into the present moment, armed with renewed appreciation for life today. The Stoics also urged contemplation not only of our own death but also of the limited time we have with those we love. This practice cultivates both [[Gratitude]] and urgency—recognizing that every interaction might be our last with someone.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Marcus Aurelius",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus Aurelius]]",
+        "line_number": 441,
+        "section": "Marcus Aurelius - Meditations",
+        "context_line": "[[Marcus Aurelius]] (121-180 CE) was Roman Emperor from 161 to 180 CE and a devoted student of [[Stoic Philosophy]]. His *Meditations* were never intended for publication—they were personal journal entries written to himself during military campaigns and moments of reflection. The fact that Marcus goes to the same themes illustrates how much of Stoicism is essentially journaling and going over the same ideas, constantly reminding oneself of the standards set and who one aspires to be.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Stoic Philosophy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoic Philosophy]]",
+        "line_number": 441,
+        "section": "Marcus Aurelius - Meditations",
+        "context_line": "[[Marcus Aurelius]] (121-180 CE) was Roman Emperor from 161 to 180 CE and a devoted student of [[Stoic Philosophy]]. His *Meditations* were never intended for publication—they were personal journal entries written to himself during military campaigns and moments of reflection. The fact that Marcus goes to the same themes illustrates how much of Stoicism is essentially journaling and going over the same ideas, constantly reminding oneself of the standards set and who one aspires to be.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 700,
+        "section": "Epictetus - Discourses and Enchiridion",
+        "context_line": "[[Epictetus]] (c. 50-135 CE) was born into slavery in Hierapolis, Phrygia (modern-day Turkey). After gaining his freedom, he became one of the most influential Stoic teachers in Rome and later Nicopolis, Greece. He taught that philosophy is a way of life and not simply a theoretical discipline, believing all external events are beyond our control and that we should accept whatever happens calmly and dispassionately.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Arrian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Arrian]]",
+        "line_number": 702,
+        "section": "Epictetus - Discourses and Enchiridion",
+        "context_line": "Epictetus left no writings himself. His teachings were recorded by his student [[Arrian]] in two major works: the *Discourses* (four books survive of eight original) and the *Enchiridion* (Handbook), a concise summary of his philosophy.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Seneca",
+        "heading": null,
+        "display_text": "Lucius Annaeus Seneca",
+        "full_match": "[[Seneca|Lucius Annaeus Seneca]]",
+        "line_number": 912,
+        "section": "Seneca - Letters and Essays",
+        "context_line": "[[Seneca|Lucius Annaeus Seneca]] (c. 4 BCE - 65 CE), known as Seneca the Younger, was a Roman Stoic philosopher, statesman, and dramatist. He served as advisor to Emperor Nero and wrote extensively on moral philosophy. His prose works include 12 essays (Dialogues) and 124 letters (*Moral Letters to Lucilius*), which constitute one of the most important bodies of primary material for ancient Stoicism.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Dichotomy of Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dichotomy of Control]]",
+        "line_number": 1147,
+        "section": "Control and Acceptance",
+        "context_line": "The theme of control and acceptance represents the very foundation of Stoic practice—understanding the [[Dichotomy of Control]] and living in accordance with that understanding. These quotes emphasize the power we have over our internal responses and the necessity of accepting external events with equanimity.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Virtue",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue]]",
+        "line_number": 1157,
+        "section": "Virtue and Character",
+        "context_line": "These quotes emphasize that [[Virtue]] is the only true good and that character development is the central task of human life. The Stoics taught that [[Eudaimonia|flourishing]] comes not from external goods but from the cultivation of wisdom, courage, justice, and temperance.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Eudaimonia",
+        "heading": null,
+        "display_text": "flourishing",
+        "full_match": "[[Eudaimonia|flourishing]]",
+        "line_number": 1157,
+        "section": "Virtue and Character",
+        "context_line": "These quotes emphasize that [[Virtue]] is the only true good and that character development is the central task of human life. The Stoics taught that [[Eudaimonia|flourishing]] comes not from external goods but from the cultivation of wisdom, courage, justice, and temperance.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Memento Mori",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Memento Mori]]",
+        "line_number": 1163,
+        "section": "Death and Mortality",
+        "context_line": "[[Memento Mori]] quotes remind us that death is natural, inevitable, and ultimately beneficial if used properly—as a tool for living more intentionally and appreciating the present moment.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Adversity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Adversity]]",
+        "line_number": 1169,
+        "section": "Adversity and Resilience",
+        "context_line": "The Stoics viewed [[Adversity]] not as something to fear but as an opportunity to practice [[Virtue]] and develop [[Resilience]]. These quotes reframe obstacles as teachers and challenges as chances for growth.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Virtue",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue]]",
+        "line_number": 1169,
+        "section": "Adversity and Resilience",
+        "context_line": "The Stoics viewed [[Adversity]] not as something to fear but as an opportunity to practice [[Virtue]] and develop [[Resilience]]. These quotes reframe obstacles as teachers and challenges as chances for growth.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Resilience",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Resilience]]",
+        "line_number": 1169,
+        "section": "Adversity and Resilience",
+        "context_line": "The Stoics viewed [[Adversity]] not as something to fear but as an opportunity to practice [[Virtue]] and develop [[Resilience]]. These quotes reframe obstacles as teachers and challenges as chances for growth.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Mindfulness",
+        "heading": null,
+        "display_text": "Present moment awareness",
+        "full_match": "[[Mindfulness|Present moment awareness]]",
+        "line_number": 1175,
+        "section": "Present Moment Awareness",
+        "context_line": "[[Mindfulness|Present moment awareness]] (what the Stoics called *[[Prosoche]]*—attention or vigilance) is essential to Stoic practice. These quotes emphasize the importance of living fully in the now rather than being consumed by past regrets or future anxieties.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Prosoche",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prosoche]]",
+        "line_number": 1175,
+        "section": "Present Moment Awareness",
+        "context_line": "[[Mindfulness|Present moment awareness]] (what the Stoics called *[[Prosoche]]*—attention or vigilance) is essential to Stoic practice. These quotes emphasize the importance of living fully in the now rather than being consumed by past regrets or future anxieties.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Anger",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Anger]]",
+        "line_number": 1181,
+        "section": "Anger and Emotional Control",
+        "context_line": "The Stoics, particularly Seneca in his treatise *On Anger*, taught that [[Anger]] is always counterproductive and that [[Emotional Control|emotional mastery]] is essential for the good life.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Emotional Control",
+        "heading": null,
+        "display_text": "emotional mastery",
+        "full_match": "[[Emotional Control|emotional mastery]]",
+        "line_number": 1181,
+        "section": "Anger and Emotional Control",
+        "context_line": "The Stoics, particularly Seneca in his treatise *On Anger*, taught that [[Anger]] is always counterproductive and that [[Emotional Control|emotional mastery]] is essential for the good life.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Daily Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daily Note]]",
+        "line_number": 1243,
+        "section": "Integrating with [[Daily Note]]",
+        "context_line": "### Integrating with [[Daily Note]]",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 1250,
+        "section": "Integrating with [[Daily Note]]",
+        "context_line": "> 1. **Random Quote Selection**: Use [[Dataview]] or [[Templater]] to randomly select a quote from this note each morning",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 1250,
+        "section": "Integrating with [[Daily Note]]",
+        "context_line": "> 1. **Random Quote Selection**: Use [[Dataview]] or [[Templater]] to randomly select a quote from this note each morning",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks]]",
+        "line_number": 1254,
+        "section": "Integrating with [[Daily Note]]",
+        "context_line": "> 5. **Progress Tracking**: Use [[Tasks]] plugin to track daily Stoic practice completion",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Stoicism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Dichotomy of Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dichotomy of Control]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Virtue",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Amor Fati",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Amor Fati]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Memento Mori",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Memento Mori]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Premeditatio Malorum",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Premeditatio Malorum]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Wisdom",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Wisdom]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Courage",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Courage]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Justice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Justice]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Temperance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Temperance]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Tranquility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tranquility]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Eudaimonia",
+        "heading": null,
+        "display_text": "flourishing",
+        "full_match": "[[Eudaimonia|flourishing]]",
+        "line_number": 1262,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> [[Stoicism]] teaches that the good life emerges not from controlling external circumstances but from mastering our responses to them. Through systematic practice of core precepts—the [[Dichotomy of Control]], [[Virtue]] as highest good, [[Amor Fati]], [[Memento Mori]], and [[Premeditatio Malorum]]—we cultivate [[Wisdom]], [[Courage]], [[Justice]], and [[Temperance]]. This daily philosophical practice transforms abstract principles into lived experience, building resilience, [[Tranquility]], and [[Eudaimonia|flourishing]].",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Mindfulness",
+        "heading": null,
+        "display_text": "mindful attention",
+        "full_match": "[[Mindfulness|mindful attention]]",
+        "line_number": 1276,
+        "section": "Cognitive Models for Understanding Stoicism",
+        "context_line": "The Stoics taught us that between stimulus and response lies a gap where our power resides. Expanding this gap through [[Mindfulness|mindful attention]] allows us to choose virtuous responses rather than react automatically.",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Premeditatio Malorum",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Premeditatio Malorum]]",
+        "line_number": 1297,
+        "section": "Implementation Pathway",
+        "context_line": "- Practice [[Premeditatio Malorum]] before challenging events",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Stoic Physics and Metaphysics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoic Physics and Metaphysics]]",
+        "line_number": 1330,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Stoic Physics and Metaphysics]]**",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Prosoche - Stoic Mindfulness Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prosoche - Stoic Mindfulness Practice]]",
+        "line_number": 1335,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Prosoche - Stoic Mindfulness Practice]]**",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Stoic Exercises - Comprehensive Practice Guide",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoic Exercises - Comprehensive Practice Guide]]",
+        "line_number": 1340,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Stoic Exercises - Comprehensive Practice Guide]]**",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "target": "Comparing Stoicism, Buddhism, and Modern Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Comparing Stoicism, Buddhism, and Modern Psychology]]",
+        "line_number": 1345,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Comparing Stoicism, Buddhism, and Modern Psychology]]**",
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "stoicism",
+        "full_tag": "#stoicism",
+        "hierarchy": [
+          "stoicism"
+        ],
+        "line_number": 172,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "tag": "philosophy",
+        "full_tag": "#philosophy",
+        "hierarchy": [
+          "philosophy"
+        ],
+        "line_number": 173,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 173,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "tag": "daily-practice",
+        "full_tag": "#daily-practice",
+        "hierarchy": [
+          "daily-practice"
+        ],
+        "line_number": 173,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "tag": "ancient-wisdom",
+        "full_tag": "#ancient-wisdom",
+        "hierarchy": [
+          "ancient-wisdom"
+        ],
+        "line_number": 173,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "tag": "stoicism",
+        "full_tag": "#stoicism",
+        "hierarchy": [
+          "stoicism"
+        ],
+        "line_number": 233,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "tag": "philosophy",
+        "full_tag": "#philosophy",
+        "hierarchy": [
+          "philosophy"
+        ],
+        "line_number": 235,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 235,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "tag": "daily-practice",
+        "full_tag": "#daily-practice",
+        "hierarchy": [
+          "daily-practice"
+        ],
+        "line_number": 236,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "tag": "ancient-wisdom",
+        "full_tag": "#ancient-wisdom",
+        "hierarchy": [
+          "ancient-wisdom"
+        ],
+        "line_number": 236,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Stoic Precepts and Quotes",
+        "anchor": "stoic-precepts-and-quotes",
+        "line_number": 38,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Note Metadata Dashboard",
+        "anchor": "note-metadata-dashboard",
+        "line_number": 45,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Related Notes",
+        "anchor": "related-notes",
+        "line_number": 108,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Sources & References",
+        "anchor": "sources-references",
+        "line_number": 116,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Backlinks & Connections",
+        "anchor": "backlinks-connections",
+        "line_number": 126,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "2025-12-02 - Initial Creation",
+        "anchor": "2025-12-02-initial-creation",
+        "line_number": 136,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Tags & Classification",
+        "anchor": "tags-classification",
+        "line_number": 141,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Review System",
+        "anchor": "review-system",
+        "line_number": 146,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 4,
+        "text": "Review Checklist:",
+        "anchor": "review-checklist",
+        "line_number": 154,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Claude Thinking",
+        "anchor": "claude-thinking",
+        "line_number": 163,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 2,
+        "text": "📑 Table of Contents",
+        "anchor": "table-of-contents",
+        "line_number": 289,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 2,
+        "text": "🏛️ Foundational Stoic Precepts",
+        "anchor": "foundational-stoic-precepts",
+        "line_number": 315,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "The Dichotomy of Control",
+        "anchor": "the-dichotomy-of-control",
+        "line_number": 317,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Virtue as the Highest Good (Summum Bonum)",
+        "anchor": "virtue-as-the-highest-good-summum-bonum",
+        "line_number": 347,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Amor Fati (Love of Fate)",
+        "anchor": "amor-fati-love-of-fate",
+        "line_number": 366,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Memento Mori (Remember You Must Die)",
+        "anchor": "memento-mori-remember-you-must-die",
+        "line_number": 389,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Premeditatio Malorum (Negative Visualization)",
+        "anchor": "premeditatio-malorum-negative-visualization",
+        "line_number": 410,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 2,
+        "text": "📜 Quotes by Stoic Philosopher",
+        "anchor": "quotes-by-stoic-philosopher",
+        "line_number": 437,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Marcus Aurelius - Meditations",
+        "anchor": "marcus-aurelius-meditations",
+        "line_number": 439,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Epictetus - Discourses and Enchiridion",
+        "anchor": "epictetus-discourses-and-enchiridion",
+        "line_number": 698,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Seneca - Letters and Essays",
+        "anchor": "seneca-letters-and-essays",
+        "line_number": 910,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 2,
+        "text": "🎨 Quotes by Theme",
+        "anchor": "quotes-by-theme",
+        "line_number": 1143,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Control and Acceptance",
+        "anchor": "control-and-acceptance",
+        "line_number": 1145,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Virtue and Character",
+        "anchor": "virtue-and-character",
+        "line_number": 1155,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Death and Mortality",
+        "anchor": "death-and-mortality",
+        "line_number": 1161,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Adversity and Resilience",
+        "anchor": "adversity-and-resilience",
+        "line_number": 1167,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Present Moment Awareness",
+        "anchor": "present-moment-awareness",
+        "line_number": 1173,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Anger and Emotional Control",
+        "anchor": "anger-and-emotional-control",
+        "line_number": 1179,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 2,
+        "text": "🌅 Daily Practice Integration",
+        "anchor": "daily-practice-integration",
+        "line_number": 1185,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Morning Stoic Practice",
+        "anchor": "morning-stoic-practice",
+        "line_number": 1187,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Evening Stoic Practice",
+        "anchor": "evening-stoic-practice",
+        "line_number": 1216,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Integrating with [[Daily Note]]",
+        "anchor": "integrating-with-daily-note",
+        "line_number": 1243,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Synthesis & Mastery",
+        "anchor": "synthesis-mastery",
+        "line_number": 1258,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Cognitive Models for Understanding Stoicism",
+        "anchor": "cognitive-models-for-understanding-stoicism",
+        "line_number": 1264,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Comparative Analysis",
+        "anchor": "comparative-analysis",
+        "line_number": 1278,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 3,
+        "text": "Implementation Pathway",
+        "anchor": "implementation-pathway",
+        "line_number": 1287,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Metadata & Attribution",
+        "anchor": "metadata-attribution",
+        "line_number": 1307,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 Version History",
+        "anchor": "version-history",
+        "line_number": 1321,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 1328,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "// 🧠 SYSTEM: Semantic Bridge Engine\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks.map(l => l.path);\n\n// 1. Filter the Vault\nconst siblings = dv.pages()\n    .where(p => p.file.path !== current.file.path) // Exclude self\n    .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n    .map(p => {\n        // Find overlap between this page's links and the current page's links\n        const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n        return { \n            link: p.file.link, \n            sharedCount: shared.length, \n            sharedLinks: shared \n        };\n    })\n    .where(p => p.sharedCount > 0) // Must share at least 1 connection\n    .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n    .limit(5); // Only show top 5\n\n// 2. Render the Bridge\nif (siblings.length > 0) {\n    dv.header(4, \"🌉 Semantic Bridges (Missing Connections)\");\n    dv.table(\n        [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n        siblings.map(s => [\n            s.link, \n            \"🔗 \" + s.sharedCount, \n            s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n        ])\n    );\n} else {\n    dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}",
+        "line_start": 70,
+        "line_end": 107,
+        "char_count": 1392,
+        "line_count": 36,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE type, maturity, confidence\nFROM  \"\"\nWHERE  type = \"reference\"\nSORT \"maturity\" DESC\nLIMIT 15",
+        "line_start": 109,
+        "line_end": 115,
+        "char_count": 97,
+        "line_count": 5,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    source AS \"Source Type\",\n    file.ctime AS \"Date Added\"\nFROM \"\"\nWHERE source = \"claude-sonnet-4.5\"\nSORT file.ctime DESC\nLIMIT 10",
+        "line_start": 117,
+        "line_end": 125,
+        "char_count": 139,
+        "line_count": 7,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    type AS \"Type\",\n    maturity AS \"Maturity\",\n    created AS \"Created\"\nFROM [[#]]\nSORT created DESC\nLIMIT 15",
+        "line_start": 127,
+        "line_end": 135,
+        "char_count": 117,
+        "line_count": 7,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Event → [Pause for Judgment] → Response",
+        "line_start": 1273,
+        "line_end": 1275,
+        "char_count": 39,
+        "line_count": 1,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Approach",
+          "Strengths",
+          "Weaknesses",
+          "Use When"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Daily Quote Practice**",
+            "Easy to maintain, provides consistent wisdom, requires minimal time",
+            "Can become superficial without deep reflection",
+            "Building initial habit, busy schedules, maintaining momentum"
+          ],
+          [
+            "**Deep Precept Study**",
+            "Thorough understanding, philosophical depth, systematic learning",
+            "Time-intensive, requires focused effort",
+            "Establishing foundation, periods of stability, philosophical inquiry"
+          ],
+          [
+            "**Morning/Evening Routines**",
+            "Comprehensive practice, bookends the day, creates accountability",
+            "Requires discipline, time commitment",
+            "Serious practice, lifestyle integration, behavior change"
+          ],
+          [
+            "**Reactive Application**",
+            "Immediately relevant, high emotional salience, learns from experience",
+            "Inconsistent, crisis-driven, may miss opportunities",
+            "During challenges, testing understanding, real-world application"
+          ]
+        ],
+        "line_start": 1250,
+        "row_count": 4,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "headers": [
+          "Version",
+          "Date",
+          "Changes"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "1.0",
+            "2025-12-02",
+            "Initial comprehensive compilation with citations"
+          ]
+        ],
+        "line_start": 1284,
+        "row_count": 1,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      }
+    ],
+    "external_links": [
+      {
+        "display_text": "https://classics.mit.edu/Antoninus/meditations.html",
+        "url": "https://classics.mit.edu/Antoninus/meditations.html",
+        "format": "bare",
+        "line_number": 459,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Antoninus/meditations.html",
+        "url": "https://classics.mit.edu/Antoninus/meditations.html",
+        "format": "bare",
+        "line_number": 482,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Antoninus/meditations.html",
+        "url": "https://classics.mit.edu/Antoninus/meditations.html",
+        "format": "bare",
+        "line_number": 505,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Antoninus/meditations.html",
+        "url": "https://classics.mit.edu/Antoninus/meditations.html",
+        "format": "bare",
+        "line_number": 528,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Antoninus/meditations.html",
+        "url": "https://classics.mit.edu/Antoninus/meditations.html",
+        "format": "bare",
+        "line_number": 551,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Antoninus/meditations.html",
+        "url": "https://classics.mit.edu/Antoninus/meditations.html",
+        "format": "bare",
+        "line_number": 574,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Antoninus/meditations.html",
+        "url": "https://classics.mit.edu/Antoninus/meditations.html",
+        "format": "bare",
+        "line_number": 597,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Antoninus/meditations.html",
+        "url": "https://classics.mit.edu/Antoninus/meditations.html",
+        "format": "bare",
+        "line_number": 620,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Antoninus/meditations.html",
+        "url": "https://classics.mit.edu/Antoninus/meditations.html",
+        "format": "bare",
+        "line_number": 643,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Antoninus/meditations.html",
+        "url": "https://classics.mit.edu/Antoninus/meditations.html",
+        "format": "bare",
+        "line_number": 666,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Antoninus/meditations.html",
+        "url": "https://classics.mit.edu/Antoninus/meditations.html",
+        "format": "bare",
+        "line_number": 689,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Epictetus/epicench.html",
+        "url": "https://classics.mit.edu/Epictetus/epicench.html",
+        "format": "bare",
+        "line_number": 720,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      },
+      {
+        "display_text": "https://classics.mit.edu/Epictetus/epicench.html",
+        "url": "https://classics.mit.edu/Epictetus/epicench.html",
+        "format": "bare",
+        "line_number": 766,
+        "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "A reference repository (comprehensive collection)",
+          "indent_level": 0,
+          "line_number": 129,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "A daily practice resource (easily accessible quotes/precepts)",
+          "indent_level": 0,
+          "line_number": 131,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Verify authentic Stoic quotes with proper citations",
+          "indent_level": 0,
+          "line_number": 179,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Gather precept definitions from scholarly sources",
+          "indent_level": 0,
+          "line_number": 180,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Find bibliographic information for primary sources",
+          "indent_level": 0,
+          "line_number": 181,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Ensure accuracy of attributions and translations",
+          "indent_level": 0,
+          "line_number": 184,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Search for \"Stoic quotes Marcus Aurelius Meditations primary sources\"",
+          "indent_level": 0,
+          "line_number": 186,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Search for \"Epictetus Discourses Enchiridion quotes translations\"",
+          "indent_level": 0,
+          "line_number": 192,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Search for \"Seneca Letters Stoic quotes moral essays\"",
+          "indent_level": 0,
+          "line_number": 200,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Search for \"Stoic precepts dichotomy of control virtue ethics\"",
+          "indent_level": 0,
+          "line_number": 207,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Search for \"Stoicism daily practice techniques modern applications\"",
+          "indent_level": 0,
+          "line_number": 218,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#🏛️ Foundational Stoic Precepts]]",
+          "indent_level": 0,
+          "line_number": 265,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#📜 Quotes by Stoic Philosopher]]",
+          "indent_level": 2,
+          "line_number": 269,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#🎨 Quotes by Theme]]",
+          "indent_level": 0,
+          "line_number": 272,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#🌅 Daily Practice Integration]]",
+          "indent_level": 0,
+          "line_number": 276,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "**Fully within control**: Your judgments, intentions, actions → Take full responsibility",
+          "indent_level": 0,
+          "line_number": 1230,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "**Partially within control**: Outcomes influenced by your actions → Focus on effort, accept results",
+          "indent_level": 0,
+          "line_number": 1233,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "**Entirely outside control**: Weather, past events, others' thoughts → Practice acceptance immediately",
+          "indent_level": 0,
+          "line_number": 1236,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "**[[Stoic Physics and Metaphysics]]**",
+          "indent_level": 0,
+          "line_number": 1285,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "**[[Prosoche - Stoic Mindfulness Practice]]**",
+          "indent_level": 0,
+          "line_number": 1292,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "**[[Stoic Exercises - Comprehensive Practice Guide]]**",
+          "indent_level": 0,
+          "line_number": 1302,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "**[[Comparing Stoicism, Buddhism, and Modern Psychology]]**",
+          "indent_level": 0,
+          "line_number": 1313,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "[ ] Definition still accurate?",
+          "indent_level": 0,
+          "line_number": 85,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[ ] New connections identified?",
+          "indent_level": 0,
+          "line_number": 86,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[ ] Applications validated?",
+          "indent_level": 0,
+          "line_number": 87,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[ ] Sources still relevant?",
+          "indent_level": 0,
+          "line_number": 89,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[ ] Maturity level appropriate?",
+          "indent_level": 0,
+          "line_number": 89,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Type: comprehensive_note (Reference Note)",
+          "indent_level": 0,
+          "line_number": 98,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Scope: reference (foundational resource)",
+          "indent_level": 0,
+          "line_number": 100,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Research Required: YES - I need to gather authentic Stoic quotes and precepts from primary sources",
+          "indent_level": 0,
+          "line_number": 101,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Special Requirements: Specific formatting template provided (stoic-quote callout with citation metadata)",
+          "indent_level": 0,
+          "line_number": 105,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Advanced Obsidian user with sophisticated PKB",
+          "indent_level": 0,
+          "line_number": 110,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Uses Zettelkasten methodology",
+          "indent_level": 0,
+          "line_number": 113,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Emphasis on evidence-based practices",
+          "indent_level": 0,
+          "line_number": 116,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Daily review systems in place",
+          "indent_level": 0,
+          "line_number": 119,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Values comprehensive, authoritative resources",
+          "indent_level": 0,
+          "line_number": 120,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Integrates ancient wisdom with modern cognitive science",
+          "indent_level": 0,
+          "line_number": 122,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Stoicism]]",
+          "indent_level": 0,
+          "line_number": 157,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Dichotomy of Control]]",
+          "indent_level": 0,
+          "line_number": 157,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Virtue Ethics]]",
+          "indent_level": 0,
+          "line_number": 158,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Amor Fati]]",
+          "indent_level": 0,
+          "line_number": 159,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Memento Mori]]",
+          "indent_level": 0,
+          "line_number": 159,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Marcus Aurelius]]",
+          "indent_level": 0,
+          "line_number": 163,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Epictetus]]",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Seneca]]",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Daily Note]]",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Premeditatio Malorum]]",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Negative Visualization]]",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Eudaimonia]]",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Ataraxia]]",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Apatheia]]",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[Prosoche]]",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[!stoic-quote] for each quote (as specified in exemplar)",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[!citation] for bibliographic info (as specified)",
+          "indent_level": 0,
+          "line_number": 167,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[!stoic-precept] for fundamental principles",
+          "indent_level": 0,
+          "line_number": 170,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[!abstract] for overview",
+          "indent_level": 0,
+          "line_number": 171,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[!methodology-and-sources] for practice integration",
+          "indent_level": 0,
+          "line_number": 172,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[!definition] for key terms",
+          "indent_level": 0,
+          "line_number": 172,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[!helpful-tip] for daily application",
+          "indent_level": 0,
+          "line_number": 172,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "RATIONALE: Get authentic quotes with book/chapter citations",
+          "indent_level": 1,
+          "line_number": 188,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "EXPECTED INSIGHT: Core quotes from Meditations with proper attribution",
+          "indent_level": 1,
+          "line_number": 190,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "RATIONALE: Epictetus quotes with scholarly citations",
+          "indent_level": 1,
+          "line_number": 195,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "EXPECTED INSIGHT: Accurate translations and source locations",
+          "indent_level": 1,
+          "line_number": 198,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "RATIONALE: Seneca's writings are vast; need specific citations",
+          "indent_level": 1,
+          "line_number": 203,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "EXPECTED INSIGHT: Well-cited Seneca quotes from Letters and Essays",
+          "indent_level": 1,
+          "line_number": 205,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "RATIONALE: Core philosophical principles with academic grounding",
+          "indent_level": 1,
+          "line_number": 211,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "EXPECTED INSIGHT: Definitions and explanations of fundamental precepts",
+          "indent_level": 1,
+          "line_number": 214,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "RATIONALE: Integration methods for daily life",
+          "indent_level": 1,
+          "line_number": 221,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "EXPECTED INSIGHT: Practical application frameworks",
+          "indent_level": 1,
+          "line_number": 226,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#The Dichotomy of Control]]",
+          "indent_level": 1,
+          "line_number": 265,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Virtue as the Highest Good (Summum Bonum)]]",
+          "indent_level": 1,
+          "line_number": 266,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Amor Fati (Love of Fate)]]",
+          "indent_level": 1,
+          "line_number": 268,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Memento Mori (Remember You Must Die)]]",
+          "indent_level": 1,
+          "line_number": 269,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Premeditatio Malorum (Negative Visualization)]]",
+          "indent_level": 1,
+          "line_number": 269,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Marcus Aurelius - Meditations]]",
+          "indent_level": 1,
+          "line_number": 269,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Epictetus - Discourses and Enchiridion]]",
+          "indent_level": 1,
+          "line_number": 269,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Seneca - Letters and Essays]]",
+          "indent_level": 1,
+          "line_number": 269,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Control and Acceptance]]",
+          "indent_level": 1,
+          "line_number": 272,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Virtue and Character]]",
+          "indent_level": 1,
+          "line_number": 272,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Death and Mortality]]",
+          "indent_level": 1,
+          "line_number": 273,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Adversity and Resilience]]",
+          "indent_level": 1,
+          "line_number": 273,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "[[#Present Moment Awareness]]",
+          "indent_level": 1,
+          "line_number": 273,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Study one precept per week thoroughly",
+          "indent_level": 0,
+          "line_number": 1264,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Practice identifying what is/isn't in your control",
+          "indent_level": 0,
+          "line_number": 1266,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Add morning journaling with Stoic prompts",
+          "indent_level": 0,
+          "line_number": 1268,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Begin evening review practice",
+          "indent_level": 0,
+          "line_number": 1268,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Practice [[Premeditatio Malorum]] before challenging events",
+          "indent_level": 0,
+          "line_number": 1269,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Maintain daily quote and journaling practice",
+          "indent_level": 0,
+          "line_number": 1269,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Deepen study of original texts",
+          "indent_level": 0,
+          "line_number": 1270,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Mentor others in Stoic principles",
+          "indent_level": 0,
+          "line_number": 1270,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "Integrate Stoicism across all life domains",
+          "indent_level": 0,
+          "line_number": 1272,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "*Connection*: The precepts in this note rest on Stoic metaphysical foundations",
+          "indent_level": 1,
+          "line_number": 1285,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "*Depth Potential*: Understanding *logos*, *pneuma*, and cosmic determinism enriches practice",
+          "indent_level": 1,
+          "line_number": 1287,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Provides theoretical grounding for practical philosophy",
+          "indent_level": 1,
+          "line_number": 1290,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "*Connection*: The attention/vigilance that enables moment-to-moment Stoic living",
+          "indent_level": 1,
+          "line_number": 1294,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "*Depth Potential*: Deep dive into ancient mindfulness techniques and their modern applications",
+          "indent_level": 1,
+          "line_number": 1296,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Bridge between theory and practice; connects to meditation literature",
+          "indent_level": 1,
+          "line_number": 1300,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        },
+        {
+          "text": "*Connection*: Systematic compilation of all Stoic spiritual exercises",
+          "indent_level": 1,
+          "line_number": 1303,
+          "source": "reference-comprehensive-stoicism-quotes-and-precepts-2025120220.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Adversity",
+      "Amor Fati",
+      "Ancient Philosophy",
+      "Andreia",
+      "Anger",
+      "Apatheia",
+      "Arrian",
+      "Ataraxia",
+      "Comparing Stoicism, Buddhism, and Modern Psychology",
+      "Courage",
+      "Daily Note",
+      "Dataview",
+      "Dichotomy of Control",
+      "Dikaiosyne",
+      "Emotional Control",
+      "Epictetus",
+      "Eudaimonia",
+      "Gratitude",
+      "Justice",
+      "Marcus Aurelius",
+      "Memento Mori",
+      "Mindfulness",
+      "Negative Visualization",
+      "Personal Knowledge Management",
+      "Premeditatio Malorum",
+      "Prosoche",
+      "Prosoche - Stoic Mindfulness Practice",
+      "Resilience",
+      "Seneca",
+      "Sophia",
+      "Sophrosyne",
+      "Stoic Exercises - Comprehensive Practice Guide",
+      "Stoic Philosophy",
+      "Stoic Physics and Metaphysics",
+      "Stoic Precepts",
+      "Stoic Precepts and Quotes",
+      "Stoicism",
+      "Tasks",
+      "Temperance",
+      "Templater",
+      "Tranquility",
+      "Virtue",
+      "Virtue Ethics",
+      "Wiki-Links",
+      "Wisdom"
+    ],
+    "unique_wiki_link_count": 45,
+    "unique_tags": [
+      "#ancient-wisdom",
+      "#daily-practice",
+      "#philosophy",
+      "#reference-note",
+      "#stoicism"
+    ],
+    "unique_tag_count": 5,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Adversity",
+      "Amor Fati",
+      "Ancient Philosophy",
+      "Andreia",
+      "Anger",
+      "Apatheia",
+      "Arrian",
+      "Ataraxia",
+      "Comparing Stoicism, Buddhism, and Modern Psychology",
+      "Courage",
+      "Daily Note",
+      "Dataview",
+      "Dichotomy of Control",
+      "Dikaiosyne",
+      "Emotional Control",
+      "Epictetus",
+      "Eudaimonia",
+      "Gratitude",
+      "Justice",
+      "Marcus Aurelius",
+      "Memento Mori",
+      "Mindfulness",
+      "Negative Visualization",
+      "Personal Knowledge Management",
+      "Premeditatio Malorum",
+      "Prosoche",
+      "Prosoche - Stoic Mindfulness Practice",
+      "Resilience",
+      "Seneca",
+      "Sophia",
+      "Sophrosyne",
+      "Stoic Exercises - Comprehensive Practice Guide",
+      "Stoic Philosophy",
+      "Stoic Physics and Metaphysics",
+      "Stoic Precepts",
+      "Stoic Precepts and Quotes",
+      "Stoicism",
+      "Tasks",
+      "Temperance",
+      "Templater",
+      "Tranquility",
+      "Virtue",
+      "Virtue Ethics",
+      "Wiki-Links",
+      "Wisdom"
+    ]
+  }
+}

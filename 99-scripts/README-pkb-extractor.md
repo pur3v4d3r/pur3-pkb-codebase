@@ -38,7 +38,7 @@ python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing\9
 python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing\999-foundational-report-genrator" --output "D:\10_pur3v4d3r's-vault\00-inbox\01-reports"
 
 # Process multiple folders recursively:
-python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing" --recursive --output "D:\10_pur3v4d3r's-vault\00-inbox\01-reports"
+python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing" --recursive --output "D:\10_pur3v4d3r's-vault\999-report-orginizing\_extractor-output"
 
 # Get help:
 python pkb_extractor.py --help

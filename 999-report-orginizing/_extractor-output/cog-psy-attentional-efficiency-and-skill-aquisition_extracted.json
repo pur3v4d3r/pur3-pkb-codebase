@@ -1,0 +1,2601 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-12T10:03:36.976608",
+    "source_file": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\reports-to-file\\cog-psy-attentional-efficiency-and-skill-aquisition.md",
+    "source_file_size_bytes": 111040,
+    "processing_time_seconds": 0.026
+  },
+  "document_metadata": {
+    "frontmatter": {},
+    "word_count": 12844,
+    "character_count": 108908,
+    "line_count": 914,
+    "heading_count": 53
+  },
+  "extraction_summary": {
+    "total_items_extracted": 250,
+    "by_type": {
+      "headings": 53,
+      "callouts": 34,
+      "wiki_links": 67,
+      "inline_fields": 40,
+      "definitions": 40,
+      "tags": 0,
+      "code_blocks": 1,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 3,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 5,
+      "lists_unordered": 0,
+      "html_comments": 7,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Automaticity and Attentional Efficiency: A Comprehensive Analysis of the Transition from Controlled to Automatic Processing",
+      "anchor": "automaticity-and-attentional-efficiency-a-comprehensive-analysis-of-the-transition-from-controlled-to-automatic-processing",
+      "line_number": 4,
+      "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "DOCUMENT IDENTIFICATION",
+      "anchor": "document-identification",
+      "line_number": 8,
+      "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "CLASSIFICATION & DISCOVERY",
+      "anchor": "classification-discovery",
+      "line_number": 14,
+      "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "QUALITY & STATUS",
+      "anchor": "quality-status",
+      "line_number": 30,
+      "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "REASONING ARCHITECTURE",
+      "anchor": "reasoning-architecture",
+      "line_number": 38,
+      "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "EPISTEMIC & VALIDATION",
+      "anchor": "epistemic-validation",
+      "line_number": 46,
+      "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "SOURCE & ATTRIBUTION",
+      "anchor": "source-attribution",
+      "line_number": 53,
+      "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "KNOWLEDGE GRAPH INTEGRATION",
+      "anchor": "knowledge-graph-integration",
+      "line_number": 59,
+      "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "USAGE & REVIEW",
+      "anchor": "usage-review",
+      "line_number": 89,
+      "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "ALIASES & LINKING",
+      "anchor": "aliases-linking",
+      "line_number": 96,
+      "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Theoretical Foundations: Instance Theory and the Power Law of Practice",
+          "anchor": "theoretical-foundations-instance-theory-and-the-power-law-of-practice",
+          "line_number": 116,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Logan's Instance Theory: Memory-Based Automaticity",
+              "anchor": "logans-instance-theory-memory-based-automaticity",
+              "line_number": 122,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Power Law of Practice: Mathematical Regularity in Skill Acquisition",
+              "anchor": "the-power-law-of-practice-mathematical-regularity-in-skill-acquisition",
+              "line_number": 144,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Integration with Production System Architectures",
+              "anchor": "integration-with-production-system-architectures",
+              "line_number": 167,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Neural Mechanisms of Automatization: Brain Systems Supporting the Transition",
+          "anchor": "neural-mechanisms-of-automatization-brain-systems-supporting-the-transition",
+          "line_number": 185,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Prefrontal-to-Posterior Shifts: The Cortical Reorganization Hypothesis",
+              "anchor": "prefrontal-to-posterior-shifts-the-cortical-reorganization-hypothesis",
+              "line_number": 191,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Posterior Cortical Specialization and Neural Efficiency",
+              "anchor": "posterior-cortical-specialization-and-neural-efficiency",
+              "line_number": 207,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Basal Ganglia and Procedural Consolidation",
+              "anchor": "basal-ganglia-and-procedural-consolidation",
+              "line_number": 222,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Consolidation Processes and Sleep-Dependent Reorganization",
+              "anchor": "consolidation-processes-and-sleep-dependent-reorganization",
+              "line_number": 240,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Distinguishing Automatic from Controlled Processing: Core Characteristics",
+          "anchor": "distinguishing-automatic-from-controlled-processing-core-characteristics",
+          "line_number": 256,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Shiffrin and Schneider's Two-Process Theory",
+              "anchor": "shiffrin-and-schneiders-two-process-theory",
+              "line_number": 262,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Speed and Efficiency: The Hallmark of Automaticity",
+              "anchor": "speed-and-efficiency-the-hallmark-of-automaticity",
+              "line_number": 276,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Parallelism: The Capacity for Simultaneous Processing",
+              "anchor": "parallelism-the-capacity-for-simultaneous-processing",
+              "line_number": 286,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Effortlessness and Attentional Demand",
+              "anchor": "effortlessness-and-attentional-demand",
+              "line_number": 299,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Unavoidability and Lack of Voluntary Control",
+              "anchor": "unavoidability-and-lack-of-voluntary-control",
+              "line_number": 312,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Consciousness and Metacognitive Access",
+              "anchor": "consciousness-and-metacognitive-access",
+              "line_number": 327,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Conditions for Developing Automaticity: Requirements and Mechanisms",
+          "anchor": "conditions-for-developing-automaticity-requirements-and-mechanisms",
+          "line_number": 347,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Consistent Mapping: The Foundational Requirement",
+              "anchor": "consistent-mapping-the-foundational-requirement",
+              "line_number": 353,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Extensive Practice: Quantity and Quality Requirements",
+              "anchor": "extensive-practice-quantity-and-quality-requirements",
+              "line_number": 366,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Practice Distribution and Consolidation Opportunities",
+              "anchor": "practice-distribution-and-consolidation-opportunities",
+              "line_number": 379,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Feedback Timing and Error Correction",
+              "anchor": "feedback-timing-and-error-correction",
+              "line_number": 392,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Individual Differences in Automatization Rate",
+              "anchor": "individual-differences-in-automatization-rate",
+              "line_number": 405,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Efficiency-Flexibility Trade-offs: The Costs of Automatization",
+          "anchor": "efficiency-flexibility-trade-offs-the-costs-of-automatization",
+          "line_number": 423,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Loss of Flexibility and Adaptability",
+              "anchor": "loss-of-flexibility-and-adaptability",
+              "line_number": 429,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Negative Transfer and Interference",
+              "anchor": "negative-transfer-and-interference",
+              "line_number": 445,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Speed-Accuracy Trade-off in Automatized Processing",
+              "anchor": "the-speed-accuracy-trade-off-in-automatized-processing",
+              "line_number": 460,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Cognitive Rigidity and Functional Fixedness",
+              "anchor": "cognitive-rigidity-and-functional-fixedness",
+              "line_number": 473,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Balancing Efficiency and Flexibility in Training Design",
+              "anchor": "balancing-efficiency-and-flexibility-in-training-design",
+              "line_number": 484,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Implications for Skill Acquisition and Expertise Development",
+          "anchor": "implications-for-skill-acquisition-and-expertise-development",
+          "line_number": 503,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Three-Stage Model of Skill Acquisition",
+              "anchor": "the-three-stage-model-of-skill-acquisition",
+              "line_number": 509,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Deliberate Practice and Expertise Development",
+              "anchor": "deliberate-practice-and-expertise-development",
+              "line_number": 520,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Expertise as Integrated Automaticity and Adaptive Control",
+              "anchor": "expertise-as-integrated-automaticity-and-adaptive-control",
+              "line_number": 533,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Individual Differences and Talent Development",
+              "anchor": "individual-differences-and-talent-development",
+              "line_number": 546,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Designing Training for Optimal Automatization",
+              "anchor": "designing-training-for-optimal-automatization",
+              "line_number": 559,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 Related Topics for PKB Expansion",
+          "anchor": "related-topics-for-pkb-expansion",
+          "line_number": 607,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. [[Chunking Mechanisms in Skill Acquisition]]",
+              "anchor": "1-chunking-mechanisms-in-skill-acquisition",
+              "line_number": 609,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. [[Neural Plasticity Mechanisms in Skill Learning]]",
+              "anchor": "2-neural-plasticity-mechanisms-in-skill-learning",
+              "line_number": 621,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. [[Attention Control and Executive Function in Complex Skills]]",
+              "anchor": "3-attention-control-and-executive-function-in-complex-skills",
+              "line_number": 633,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. [[Transfer of Training: Near and Far Transfer Phenomena]]",
+              "anchor": "4-transfer-of-training-near-and-far-transfer-phenomena",
+              "line_number": 645,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5. [[Implicit Learning and Unconscious Skill Acquisition]]",
+              "anchor": "5-implicit-learning-and-unconscious-skill-acquisition",
+              "line_number": 657,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6. [[Expertise in Complex Real-World Domains]]",
+              "anchor": "6-expertise-in-complex-real-world-domains",
+              "line_number": 669,
+              "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Synthesis and Conclusions",
+          "anchor": "synthesis-and-conclusions",
+          "line_number": 686,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Claude Report Generator 4.0.0 Thinking",
+      "anchor": "claude-report-generator-400-thinking",
+      "line_number": 761,
+      "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "definition",
+        "title": "Instance Theory Core Mechanism",
+        "body": "Instance theory proposes that each encounter with a stimulus creates a separate memory trace (instance) that can be retrieved in response to subsequent encounters. With sufficient practice, memory retrieval of solutions from past instances becomes faster than executing the algorithm de novo, leading to a race between algorithmic processing and memory retrieval. When memory consistently wins this race, performance appears automatic.",
+        "line_number": 126,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 4118,
+        "char_end": 4603
+      },
+      {
+        "type": "evidence",
+        "title": "Empirical Support for Instance Specificity",
+        "body": "Logan and Klapp (1991) demonstrated that automaticity is highly specific to practiced instances. In alphabet arithmetic tasks (e.g., A+3=D), participants showed power law improvement with practice. However, when tested on novel problems using the same algorithm, performance reverted to slow, algorithmic processing - directly supporting the instance-specific prediction over rule-compilation accounts. Transfer occurred only when new problems were similar enough to activate previously stored instances through partial matching.",
+        "line_number": 137,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 6449,
+        "char_end": 7038
+      },
+      {
+        "type": "key-claim",
+        "title": "Universality of the Power Law",
+        "body": "Newell and Rosenbloom's (1981) landmark analysis examined learning curves across 23 distinct tasks spanning perception, memory, motor skills, and problem-solving. Despite enormous differences in task demands and timescales (from minutes to years), all exhibited power law learning with remarkable consistency in the rate parameter b, clustering around 0.4. This universality suggests common computational principles underlying skill acquisition across cognitive domains.",
+        "line_number": 148,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 8967,
+        "char_end": 9485
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Measuring the Power Law",
+        "body": "Researchers measure power law parameters through log-log transformation: log(RT) = log(a) - b·log(n) + log(c). This linearizes the power function, allowing standard regression to estimate parameters. The slope b indicates learning rate, the intercept log(a) indicates initial performance, and deviations from linearity reveal violations of the power law (which sometimes occur, particularly in motor learning where exponential functions may fit better). The coefficient of determination (R²) typically exceeds 0.95, indicating excellent fit.",
+        "line_number": 157,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 11075,
+        "char_end": 11672
+      },
+      {
+        "type": "counter-argument",
+        "title": "Alternative: Exponential Learning",
+        "body": "Some researchers argue that individual learning curves follow exponential rather than power functions, with power laws emerging only from aggregation across individuals with different learning rates (Heathcote, Brown, & Mewhort, 2000). This debate remains unresolved but has minimal practical implications since both functions make similar predictions across typical practice ranges. The power law formulation has the advantage of theoretical parsimony and superior fit to aggregate data.",
+        "line_number": 162,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 12418,
+        "char_end": 12965
+      },
+      {
+        "type": "example",
+        "title": "Knowledge Compilation in Geometry",
+        "body": "Anderson (1982) traced knowledge compilation in students learning geometry proofs. Initially, students slowly retrieve declarative axioms and consciously apply them. With practice, frequently-used inference patterns (e.g., \"if two angles are equal and they sum to 90°, each equals 45°\") compile into single productions that fire automatically when conditions are met. Response time decreases as a power function as the production set becomes increasingly specialized and streamlined.",
+        "line_number": 175,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 15024,
+        "char_end": 15557
+      },
+      {
+        "type": "key-claim",
+        "title": "Prefrontal Reduction with Practice",
+        "body": "Chein and Schneider's (2005) meta-analysis of 26 neuroimaging studies examining practice effects found a consistent pattern: with training, activation decreases in prefrontal cortex (particularly dorsolateral PFC) while posterior cortical regions (parietal cortex, specialized sensory areas) show more variable but often increased activation. This shift reflects the transfer of processing from general-purpose executive control to specialized, efficient posterior systems.",
+        "line_number": 193,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 17535,
+        "char_end": 18061
+      },
+      {
+        "type": "evidence",
+        "title": "PFC-Striatal Dissociation in Automaticity",
+        "body": "Ashby et al. (1998) demonstrated double dissociation between controlled (PFC-dependent) and automatic (striatal-dependent) categorization. Participants with focal PFC lesions showed impaired performance on rule-based categorization requiring hypothesis testing but normal learning of information-integration categories that automatize with practice. Conversely, participants with striatal lesions showed the opposite pattern - intact rule-based learning but impaired automatization of procedural categories.",
+        "line_number": 202,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 19989,
+        "char_end": 20555
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Measuring Neural Efficiency",
+        "body": "Researchers use several converging measures of neural efficiency: (1) **Spatial extent**: counting activated voxels above threshold; (2) **Signal magnitude**: peak or mean activation strength; (3) **Energy consumption**: using PET to measure glucose metabolism; (4) **Temporal precision**: using EEG/MEG to measure response latency and variability. All typically decrease with practice in task-relevant regions, indicating increased efficiency. The most sophisticated analyses use multivariate pattern classification to show that while mean activation decreases, information content (discriminability of task conditions) increases.",
+        "line_number": 215,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 22610,
+        "char_end": 23301
+      },
+      {
+        "type": "definition",
+        "title": "Cortico-Striatal Learning Loops",
+        "body": "The basal ganglia organize into parallel loops connecting specific cortical regions through striatum to specific motor/cognitive outputs. The **motor loop** (motor cortex → putamen → GPi/SNr → thalamus → motor cortex) supports motor sequence learning. The **cognitive loop** (dlPFC → caudate → GPi/SNr → thalamus → dlPFC) supports cognitive skill automatization. These loops enable both motor and cognitive automaticity through common computational principles.",
+        "line_number": 228,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 25359,
+        "char_end": 25870
+      },
+      {
+        "type": "warning",
+        "title": "Habit Formation and Inflexibility",
+        "body": "Striatal consolidation creates powerful automaticity but reduces behavioral flexibility. Yin and Knowlton (2006) demonstrated that extensively trained rats performing a lever-press sequence continued responding even after the reward was devalued (made aversive), indicating that behavior had transitioned from goal-directed (outcome-sensitive) to habitual (stimulus-triggered). This inflexibility - the cost of efficiency - emerges because striatal circuits bypass deliberative evaluation of outcomes.",
+        "line_number": 235,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 27241,
+        "char_end": 27792
+      },
+      {
+        "type": "evidence",
+        "title": "Sleep-Dependent Consolidation Mechanisms",
+        "body": "Rasch and Born (2013) review evidence for multiple consolidation mechanisms during sleep: (1) **Synaptic downscaling**: pruning of weak synapses formed during learning, strengthening relative signal; (2) **Memory replay**: reactivation of learning-related neural patterns during slow-wave sleep, strengthening cortico-striatal connections; (3) **Spindle-dependent consolidation**: sleep spindles coordinate hippocampal-cortical dialogue, transferring labile memories to stable cortical representation; (4) **REM-dependent integration**: REM sleep supports extraction of invariant structure from variable training examples.",
+        "line_number": 246,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 29370,
+        "char_end": 30050
+      },
+      {
+        "type": "key-claim",
+        "title": "Consistent Mapping Requirement for Automaticity",
+        "body": "Shiffrin and Schneider (1977) demonstrated that automatic processing develops only under consistent mapping (CM) conditions where stimuli always map to the same category or response. Variable mapping (VM) conditions, where stimulus-category relationships change across trials, prevent automatization even after thousands of practice trials. This requirement reflects automatic processing's dependence on stable, well-learned associations rather than flexible rule application.",
+        "line_number": 264,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 31981,
+        "char_end": 32523
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Visual Search Paradigm",
+        "body": "The visual search task presents a display of characters (letters, digits, symbols) for 80-200ms. Participants indicate whether any character belongs to the target category. By manipulating frame time, number of items, and target presence, researchers derive slopes (ms per item) indexing processing efficiency. Automatic processing yields flat slopes (0-10ms/item), indicating parallel processing. Controlled processing yields steep slopes (30-80ms/item), indicating serial attention deployment.",
+        "line_number": 273,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 34022,
+        "char_end": 34572
+      },
+      {
+        "type": "evidence",
+        "title": "Parallel Processing in Visual Search",
+        "body": "In Schneider and Shiffrin's (1977) CM condition, participants could detect a target among 3 distractors as quickly as among 1 distractor - searching all items simultaneously rather than checking each serially. Response time functions for automatic detection yielded slopes of 0-5ms per item compared to 40-80ms per item for controlled search, directly demonstrating parallel versus serial processing architectures.",
+        "line_number": 292,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 37306,
+        "char_end": 37774
+      },
+      {
+        "type": "example",
+        "title": "Attentional Demand in Reading Development",
+        "body": "Beginning readers show severe dual-task costs when reading - secondary task reaction times increase 200-400ms compared to baseline. Skilled readers show minimal interference (20-50ms increase), indicating that word recognition has automatized and consumes negligible attentional resources. This freed capacity enables comprehension processes - understanding while reading rather than after laboriously decoding.",
+        "line_number": 307,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 40251,
+        "char_end": 40720
+      },
+      {
+        "type": "warning",
+        "title": "Negative Transfer from Automaticity",
+        "body": "Strong automaticity can produce **negative transfer** when task demands change. Logan and Zbrodoff (1998) trained participants extensively on alphabet arithmetic (e.g., A+2=C) with specific problems (e.g., A+3). When later presented with the same stimuli but requiring different responses (e.g., A+3=F because counting now starts at 0), participants showed severe interference and error rates - the automatic retrieval of old answers was unavoidable and competed with new correct responses.",
+        "line_number": 320,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 42392,
+        "char_end": 42934
+      },
+      {
+        "type": "evidence",
+        "title": "Consciousness and Control Dissociation",
+        "body": "Cohen et al. (1990) demonstrated double dissociation between conscious awareness and attentional control. Patients with visual neglect fail to consciously perceive contralesional stimuli yet show automatic semantic processing (priming effects) from those stimuli. Conversely, patients with Balint's syndrome show intact awareness but cannot deploy controlled attention to multiple locations - they consciously see objects but cannot enumerate or attend them serially.",
+        "line_number": 335,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 45455,
+        "char_end": 45978
+      },
+      {
+        "type": "key-claim",
+        "title": "Variable Mapping Prevents Automatization",
+        "body": "Even after 10,000+ practice trials, variable mapping conditions never produce automatic processing (Schneider & Shiffrin, 1977). Performance remains slow, serial, and effortful because participants cannot rely on learned associations and must continually evaluate each stimulus against current task rules. This demonstrates that sheer repetition is insufficient - the quality of stimulus-response consistency determines whether automatization can occur.",
+        "line_number": 359,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 48824,
+        "char_end": 49336
+      },
+      {
+        "type": "evidence",
+        "title": "Practice Quantity in Skill Domains",
+        "body": "Empirical estimates of practice requirements vary by domain. Schneider and Fisk (1982) found 1500-2000 consistent mapping trials sufficient for visual search automatization. Logan (1988) reported 500-1000 trials for alphabet arithmetic automatization. Bryan and Harter (1899) documented 10,000+ hours for telegraph operation expertise. Ericsson et al. (1993) estimated 10,000+ hours for expert musical performance. These variations reflect task complexity, consistency, and performance criterion.",
+        "line_number": 372,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 51224,
+        "char_end": 51772
+      },
+      {
+        "type": "evidence",
+        "title": "Distributed Practice Benefits",
+        "body": "Bahrick and Hall (1991) examined retention of high school mathematics over 50 years. Participants who learned through distributed practice (e.g., one year of algebra followed by geometry, returning to algebra in later courses) showed 5-10x better retention than those with massed learning (e.g., intensive summer courses). The distributed practice advantage extended to automaticity - automatic retrieval of basic facts and procedures persisted for decades with distributed learning but decayed rapidly after massed learning.",
+        "line_number": 385,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 53600,
+        "char_end": 54172
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Feedback Timing Research",
+        "body": "Schmidt and Bjork (1992) demonstrated that immediate feedback produces faster acquisition but delayed feedback yields better retention and transfer. They propose the **guidance hypothesis**: immediate feedback provides external guidance that prevents learners from developing internal error detection and correction mechanisms. Optimal training combines immediate feedback early (establishing correct performance) with progressively delayed feedback (developing autonomy).",
+        "line_number": 398,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 56007,
+        "char_end": 56536
+      },
+      {
+        "type": "evidence",
+        "title": "Cognitive Predictors of Automatization",
+        "body": "Ackerman (1988) documented that automatization rate correlates with multiple cognitive abilities. Working memory capacity predicts early-phase learning (r=0.4-0.6) when controlled processing dominates. Processing speed predicts later automatization rate (r=0.3-0.5). Perceptual speed predicts automatization in perceptual-motor tasks (r=0.5-0.7). These correlations decrease as automaticity develops, suggesting that individual differences in basic capacities matter most during the controlled-to-automatic transition.",
+        "line_number": 411,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 58338,
+        "char_end": 58912
+      },
+      {
+        "type": "key-claim",
+        "title": "Task-Set Inertia in Automatized Skills",
+        "body": "Monsell (2003) documented **task-set inertia** - the phenomenon where automatic task sets persist and interfere when switching to new tasks. Participants required 200-500ms longer to initiate responses after task switches compared to task repetitions, even with advance preparation. This switching cost reflects the difficulty of suppressing automatic task sets and reconfiguring processing for new demands.",
+        "line_number": 435,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 61890,
+        "char_end": 62354
+      },
+      {
+        "type": "example",
+        "title": "Routine vs Adaptive Expertise in Mathematics",
+        "body": "Mathematics students may develop routine expertise in solving standard problem types (e.g., quadratic equations via the quadratic formula) without understanding why methods work. They execute procedures automatically and efficiently for familiar problems but fail when problems require novel approaches or when superficial features differ from practiced examples. Adaptive experts maintain conceptual understanding alongside procedural skill, enabling flexible problem-solving despite somewhat slower execution of routine problems.",
+        "line_number": 440,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 63014,
+        "char_end": 63606
+      },
+      {
+        "type": "evidence",
+        "title": "Negative Transfer in Alphabet Arithmetic",
+        "body": "Logan and Zbrodoff (1998) demonstrated severe negative transfer following automatization. After 5000 trials automatizing alphabet arithmetic rules (e.g., A+2=C, B+2=D), participants required 3000+ additional trials to automatize modified rules (e.g., A+2=B, counting from 0 instead of from the starting letter). The original automatic answers created persistent interference, with error rates reaching 40-50% early in retraining compared to 5-10% for novel problem types.",
+        "line_number": 451,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 64811,
+        "char_end": 65340
+      },
+      {
+        "type": "warning",
+        "title": "Premature Automatization Risk",
+        "body": "Pressing for speed too early in practice can cause automatization of suboptimal strategies or incorrect procedures (Logan, 1988). Once automatized, these inefficient or error-prone patterns become difficult to modify. The implication for training: maintain accuracy emphasis during early learning, permitting speed to increase naturally rather than forcing speedup before accuracy is established.",
+        "line_number": 466,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 67911,
+        "char_end": 68353
+      },
+      {
+        "type": "example",
+        "title": "Expert-Induced Blindness",
+        "body": "Bilalić et al. (2008) demonstrated \"expert-induced blindness\" in chess. Expert players shown chess positions with both an obvious (but suboptimal) move and a better (but less obvious) alternative overwhelmingly chose the obvious move. Their chess expertise had automatized recognition of common patterns, causing automatic activation of associated moves that then blocked consideration of alternatives. Novices, lacking automatic pattern recognition, were more likely to find the superior move.",
+        "line_number": 479,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 70236,
+        "char_end": 70771
+      },
+      {
+        "type": "definition",
+        "title": "Stage Characteristics and Training Implications",
+        "body": "**Cognitive Stage**: Learners require explicit instruction, feedback, and conscious attention to every component. Performance is slow, effortful, variable, and error-prone. Training should emphasize understanding, provide models, and focus on accuracy over speed. **Associative Stage**: Errors decrease, performance becomes more consistent, speed increases following power law. Training should provide practice variability, maintain focus on error detection, and begin introducing realistic task conditions. **Autonomous Stage**: Performance becomes automatic, fast, reliable, and can be executed concurrently with other tasks. Training should maintain skill through varied application, develop adaptive expertise through novel challenges, and prevent overautomation of components requiring ongoing monitoring.",
+        "line_number": 515,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 74977,
+        "char_end": 75854
+      },
+      {
+        "type": "key-claim",
+        "title": "Practice Quality Over Quantity",
+        "body": "Ericsson et al. (1993) found that expert musicians (international soloists) accumulated 10,000+ hours of deliberate practice by age 20, compared to 5000-7500 hours for professional musicians and 2000-3000 hours for music teachers. However, the crucial difference was practice quality - experts engaged in focused, effortful practice targeting specific technique weaknesses with immediate feedback, while non-experts accumulated equivalent total playing time through less focused practice and performance.",
+        "line_number": 526,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 77193,
+        "char_end": 77746
+      },
+      {
+        "type": "evidence",
+        "title": "Maintained Controlled Processing in Expertise",
+        "body": "Ericsson and Lehmann (1996) documented that experts maintain superior performance even on novel variations of familiar tasks, indicating that expertise involves more than domain-specific automaticity. Expert chess players outperform weaker players even on random board positions (where pattern recognition provides no advantage), suggesting superior working memory and strategic thinking alongside automatized pattern recognition.",
+        "line_number": 539,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 79709,
+        "char_end": 80202
+      },
+      {
+        "type": "evidence",
+        "title": "Genetic Contributions to Skill Acquisition",
+        "body": "Twin studies examining skill acquisition (e.g., playing piano, video games, chess) find heritability estimates of 40-60% for rate of skill improvement, even when controlling for practice amount (Hambrick et al., 2014). This indicates substantial genetic influence on automatization rate and learning capacity, though extensive practice remains necessary even for talented individuals to achieve expertise.",
+        "line_number": 552,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 82340,
+        "char_end": 82805
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Variable Practice Implementation",
+        "body": "Effective variable practice includes: (1) **Contextual interference**: randomizing practice trials rather than blocking by problem type; (2) **Instance variety**: practicing with multiple examples rather than repeated identical instances; (3) **Condition variation**: varying superficial features (orientation, perspective, context) while maintaining deep structure; (4) **Retrieval practice**: testing with varied problems requiring application rather than recognition. These techniques slow automatization but prevent overly stimulus-bound associations.",
+        "line_number": 575,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 85947,
+        "char_end": 86567
+      },
+      {
+        "type": "evidence",
+        "title": "Long-Term Skill Retention",
+        "body": "Bahrick and Hall (1991) documented that participants retained automatized mathematical procedures at 70-80% proficiency even 50 years after last use, compared to 20-30% retention of declarative facts. However, periodic refresher practice (brief practice sessions every 1-2 years) maintained near-original proficiency. This suggests that automatized knowledge has exceptional durability but benefits from occasional reactivation.",
+        "line_number": 600,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md",
+        "char_start": 89411,
+        "char_end": 89882
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "VADER Academic Report Generator v4.0",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[VADER Academic Report Generator v4.0]]",
+        "line_number": 56,
+        "section": "SOURCE & ATTRIBUTION",
+        "context_line": "based_on_prompts: [\"[[VADER Academic Report Generator v4.0]]\"]",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Comprehensive Academic Reference Workflow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Comprehensive Academic Reference Workflow]]",
+        "line_number": 57,
+        "section": "SOURCE & ATTRIBUTION",
+        "context_line": "generated_via_workflow: \"[[Comprehensive Academic Reference Workflow]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Attention",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attention]]",
+        "line_number": 61,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Attention]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Working Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working Memory]]",
+        "line_number": 62,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Working Memory]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Skill Acquisition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Skill Acquisition]]",
+        "line_number": 63,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Skill Acquisition]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Expertise",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expertise]]",
+        "line_number": 64,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Expertise]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Cognitive Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Control]]",
+        "line_number": 65,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Cognitive Control]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Procedural Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Procedural Memory]]",
+        "line_number": 66,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Procedural Memory]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Instance Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Instance Theory]]",
+        "line_number": 67,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Instance Theory]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Power Law of Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Power Law of Practice]]",
+        "line_number": 68,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Power Law of Practice]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Dual-Process Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Process Theory]]",
+        "line_number": 69,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Dual-Process Theory]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Neural Plasticity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Neural Plasticity]]",
+        "line_number": 70,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Neural Plasticity]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Cognitive Psychology Foundations",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Psychology Foundations]]",
+        "line_number": 73,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Cognitive Psychology Foundations]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Information Processing Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Information Processing Theory]]",
+        "line_number": 74,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Information Processing Theory]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Memory Systems",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Memory Systems]]",
+        "line_number": 75,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Memory Systems]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Attention Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attention Theory]]",
+        "line_number": 76,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Attention Theory]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Shiffrin and Schneider Two-Process Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Shiffrin and Schneider Two-Process Theory]]",
+        "line_number": 79,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Shiffrin and Schneider Two-Process Theory]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Logan Instance Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Logan Instance Theory]]",
+        "line_number": 80,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Logan Instance Theory]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Anderson ACT-R Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Anderson ACT-R Framework]]",
+        "line_number": 81,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Anderson ACT-R Framework]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Cognitive Control Mechanisms",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Control Mechanisms]]",
+        "line_number": 84,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Cognitive Control Mechanisms]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Learning and Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Learning and Memory]]",
+        "line_number": 85,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "- \"[[Learning and Memory]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Cognitive Psychology Core Concepts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Psychology Core Concepts]]",
+        "line_number": 87,
+        "section": "KNOWLEDGE GRAPH INTEGRATION",
+        "context_line": "part_of_series: \"[[Cognitive Psychology Core Concepts]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Cognitive Psychology MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Psychology MOC]]",
+        "line_number": 102,
+        "section": "ALIASES & LINKING",
+        "context_line": "link_up: \"[[Cognitive Psychology MOC]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Deliberate Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate Practice]]",
+        "line_number": 104,
+        "section": "ALIASES & LINKING",
+        "context_line": "- \"[[Deliberate Practice]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Expertise Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expertise Development]]",
+        "line_number": 105,
+        "section": "ALIASES & LINKING",
+        "context_line": "- \"[[Expertise Development]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Attentional Resources",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attentional Resources]]",
+        "line_number": 106,
+        "section": "ALIASES & LINKING",
+        "context_line": "- \"[[Attentional Resources]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Neural Efficiency",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Neural Efficiency]]",
+        "line_number": 107,
+        "section": "ALIASES & LINKING",
+        "context_line": "- \"[[Neural Efficiency]]\"",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "cognitive psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[cognitive psychology]]",
+        "line_number": 120,
+        "section": "Theoretical Foundations: Instance Theory and the Power Law of Practice",
+        "context_line": "The transition from controlled to automatic processing represents one of the most fundamental phenomena in [[cognitive psychology]], affecting domains from [[motor skill learning]] to [[language comprehension]] to [[expert performance]]. Understanding this transition requires examining both the computational architecture underlying skill acquisition and the empirical regularities characterizing performance improvements with practice.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "motor skill learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[motor skill learning]]",
+        "line_number": 120,
+        "section": "Theoretical Foundations: Instance Theory and the Power Law of Practice",
+        "context_line": "The transition from controlled to automatic processing represents one of the most fundamental phenomena in [[cognitive psychology]], affecting domains from [[motor skill learning]] to [[language comprehension]] to [[expert performance]]. Understanding this transition requires examining both the computational architecture underlying skill acquisition and the empirical regularities characterizing performance improvements with practice.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "language comprehension",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[language comprehension]]",
+        "line_number": 120,
+        "section": "Theoretical Foundations: Instance Theory and the Power Law of Practice",
+        "context_line": "The transition from controlled to automatic processing represents one of the most fundamental phenomena in [[cognitive psychology]], affecting domains from [[motor skill learning]] to [[language comprehension]] to [[expert performance]]. Understanding this transition requires examining both the computational architecture underlying skill acquisition and the empirical regularities characterizing performance improvements with practice.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "expert performance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[expert performance]]",
+        "line_number": 120,
+        "section": "Theoretical Foundations: Instance Theory and the Power Law of Practice",
+        "context_line": "The transition from controlled to automatic processing represents one of the most fundamental phenomena in [[cognitive psychology]], affecting domains from [[motor skill learning]] to [[language comprehension]] to [[expert performance]]. Understanding this transition requires examining both the computational architecture underlying skill acquisition and the empirical regularities characterizing performance improvements with practice.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "memory representation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[memory representation]]",
+        "line_number": 129,
+        "section": "Logan's Instance Theory: Memory-Based Automaticity",
+        "context_line": "Logan's framework rests on several foundational assumptions about [[memory representation]] and retrieval. First, every experience leaves a distinct memory trace - there is no abstraction or consolidation into generalized rules during the automatization process itself. ^established This contrasts sharply with [[production system theories]] like [[ACT-R]] (Anderson, 1982), which propose that practice leads to compilation of declarative knowledge into procedural productions. ^established Second, memory retrieval operates in parallel across all relevant instances simultaneously, with the fastest instance determining response time on any given trial. Third, the accumulation of instances provides redundancy that makes retrieval increasingly robust and rapid.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "production system theories",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[production system theories]]",
+        "line_number": 129,
+        "section": "Logan's Instance Theory: Memory-Based Automaticity",
+        "context_line": "Logan's framework rests on several foundational assumptions about [[memory representation]] and retrieval. First, every experience leaves a distinct memory trace - there is no abstraction or consolidation into generalized rules during the automatization process itself. ^established This contrasts sharply with [[production system theories]] like [[ACT-R]] (Anderson, 1982), which propose that practice leads to compilation of declarative knowledge into procedural productions. ^established Second, memory retrieval operates in parallel across all relevant instances simultaneously, with the fastest instance determining response time on any given trial. Third, the accumulation of instances provides redundancy that makes retrieval increasingly robust and rapid.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "ACT-R",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[ACT-R]]",
+        "line_number": 129,
+        "section": "Logan's Instance Theory: Memory-Based Automaticity",
+        "context_line": "Logan's framework rests on several foundational assumptions about [[memory representation]] and retrieval. First, every experience leaves a distinct memory trace - there is no abstraction or consolidation into generalized rules during the automatization process itself. ^established This contrasts sharply with [[production system theories]] like [[ACT-R]] (Anderson, 1982), which propose that practice leads to compilation of declarative knowledge into procedural productions. ^established Second, memory retrieval operates in parallel across all relevant instances simultaneously, with the fastest instance determining response time on any given trial. Third, the accumulation of instances provides redundancy that makes retrieval increasingly robust and rapid.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "consistent mapping",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[consistent mapping]]",
+        "line_number": 140,
+        "section": "Logan's Instance Theory: Memory-Based Automaticity",
+        "context_line": "The instance theory framework successfully accounts for several empirical phenomena that challenge alternative theories. First, it explains the **consistency effect**: automatic processing develops only under [[consistent mapping]] conditions where stimuli always map to the same responses. ^established Inconsistent mapping prevents the accumulation of reliable instances, forcing continued reliance on algorithmic processing. Second, instance theory predicts that **automaticity is stimulus-specific**, showing minimal transfer to new stimuli even when the underlying algorithm remains identical. Third, the theory accounts for **individual differences** in automatization rate through variations in memory encoding and retrieval speed.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Event-related potential",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Event-related potential]]",
+        "line_number": 165,
+        "section": "The Power Law of Practice: Mathematical Regularity in Skill Acquisition",
+        "context_line": "The power law extends beyond simple reaction time to encompass accuracy improvements, error reduction, and even neuroscientific measures of processing efficiency. [[Event-related potential]] (ERP) studies show that the P300 component (indexing stimulus evaluation) decreases in amplitude and latency following a power function with practice (Donchin & Coles, 1988), suggesting that neural efficiency gains parallel behavioral improvements. ^established Similarly, [[functional neuroimaging]] reveals power law decreases in activation across distributed cortical networks supporting practiced tasks (Poldrack et al., 2005).",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "functional neuroimaging",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[functional neuroimaging]]",
+        "line_number": 165,
+        "section": "The Power Law of Practice: Mathematical Regularity in Skill Acquisition",
+        "context_line": "The power law extends beyond simple reaction time to encompass accuracy improvements, error reduction, and even neuroscientific measures of processing efficiency. [[Event-related potential]] (ERP) studies show that the P300 component (indexing stimulus evaluation) decreases in amplitude and latency following a power function with practice (Donchin & Coles, 1988), suggesting that neural efficiency gains parallel behavioral improvements. ^established Similarly, [[functional neuroimaging]] reveals power law decreases in activation across distributed cortical networks supporting practiced tasks (Poldrack et al., 2005).",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "production system",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[production system]]",
+        "line_number": 169,
+        "section": "Integration with Production System Architectures",
+        "context_line": "While instance theory provides an elegant account of automaticity through memory mechanisms, [[production system]] architectures like [[ACT-R]] (Anderson, 1982, 1993) offer complementary insights through their focus on procedural knowledge compilation. ACT-R distinguishes between [[declarative knowledge]] (facts and instances) and [[procedural knowledge]] (condition-action rules called productions). Skill acquisition involves three stages:",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "ACT-R",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[ACT-R]]",
+        "line_number": 169,
+        "section": "Integration with Production System Architectures",
+        "context_line": "While instance theory provides an elegant account of automaticity through memory mechanisms, [[production system]] architectures like [[ACT-R]] (Anderson, 1982, 1993) offer complementary insights through their focus on procedural knowledge compilation. ACT-R distinguishes between [[declarative knowledge]] (facts and instances) and [[procedural knowledge]] (condition-action rules called productions). Skill acquisition involves three stages:",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "declarative knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[declarative knowledge]]",
+        "line_number": 169,
+        "section": "Integration with Production System Architectures",
+        "context_line": "While instance theory provides an elegant account of automaticity through memory mechanisms, [[production system]] architectures like [[ACT-R]] (Anderson, 1982, 1993) offer complementary insights through their focus on procedural knowledge compilation. ACT-R distinguishes between [[declarative knowledge]] (facts and instances) and [[procedural knowledge]] (condition-action rules called productions). Skill acquisition involves three stages:",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "procedural knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[procedural knowledge]]",
+        "line_number": 169,
+        "section": "Integration with Production System Architectures",
+        "context_line": "While instance theory provides an elegant account of automaticity through memory mechanisms, [[production system]] architectures like [[ACT-R]] (Anderson, 1982, 1993) offer complementary insights through their focus on procedural knowledge compilation. ACT-R distinguishes between [[declarative knowledge]] (facts and instances) and [[procedural knowledge]] (condition-action rules called productions). Skill acquisition involves three stages:",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "functional neuroimaging",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[functional neuroimaging]]",
+        "line_number": 189,
+        "section": "Neural Mechanisms of Automatization: Brain Systems Supporting the Transition",
+        "context_line": "The transition from controlled to automatic processing manifests not merely as a psychological abstraction but as a concrete reorganization of neural activity patterns across distributed brain systems. Converging evidence from [[functional neuroimaging]], [[electrophysiology]], and [[lesion studies]] reveals that automatization involves multiple complementary neural mechanisms operating across different timescales and anatomical substrates.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "electrophysiology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[electrophysiology]]",
+        "line_number": 189,
+        "section": "Neural Mechanisms of Automatization: Brain Systems Supporting the Transition",
+        "context_line": "The transition from controlled to automatic processing manifests not merely as a psychological abstraction but as a concrete reorganization of neural activity patterns across distributed brain systems. Converging evidence from [[functional neuroimaging]], [[electrophysiology]], and [[lesion studies]] reveals that automatization involves multiple complementary neural mechanisms operating across different timescales and anatomical substrates.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "lesion studies",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[lesion studies]]",
+        "line_number": 189,
+        "section": "Neural Mechanisms of Automatization: Brain Systems Supporting the Transition",
+        "context_line": "The transition from controlled to automatic processing manifests not merely as a psychological abstraction but as a concrete reorganization of neural activity patterns across distributed brain systems. Converging evidence from [[functional neuroimaging]], [[electrophysiology]], and [[lesion studies]] reveals that automatization involves multiple complementary neural mechanisms operating across different timescales and anatomical substrates.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "prefrontal cortex",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[prefrontal cortex]]",
+        "line_number": 198,
+        "section": "Prefrontal-to-Posterior Shifts: The Cortical Reorganization Hypothesis",
+        "context_line": "Early in skill acquisition, tasks demand substantial [[prefrontal cortex]] (PFC) engagement because performers must maintain task instructions in [[working memory]], select appropriate responses from multiple alternatives, monitor performance for errors, and inhibit prepotent but incorrect responses. The dlPFC's role in maintaining [[goal representations]] (Miller & Cohen, 2001) proves essential when stimulus-response mappings are unfamiliar or when task rules must be actively retrieved and applied. ^established The [[anterior cingulate cortex]] (ACC) detects response conflict and signals the need for increased control (Botvinick et al., 2001), showing strong activation during early practice when errors are frequent and competition between response alternatives is high.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "working memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[working memory]]",
+        "line_number": 198,
+        "section": "Prefrontal-to-Posterior Shifts: The Cortical Reorganization Hypothesis",
+        "context_line": "Early in skill acquisition, tasks demand substantial [[prefrontal cortex]] (PFC) engagement because performers must maintain task instructions in [[working memory]], select appropriate responses from multiple alternatives, monitor performance for errors, and inhibit prepotent but incorrect responses. The dlPFC's role in maintaining [[goal representations]] (Miller & Cohen, 2001) proves essential when stimulus-response mappings are unfamiliar or when task rules must be actively retrieved and applied. ^established The [[anterior cingulate cortex]] (ACC) detects response conflict and signals the need for increased control (Botvinick et al., 2001), showing strong activation during early practice when errors are frequent and competition between response alternatives is high.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "goal representations",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[goal representations]]",
+        "line_number": 198,
+        "section": "Prefrontal-to-Posterior Shifts: The Cortical Reorganization Hypothesis",
+        "context_line": "Early in skill acquisition, tasks demand substantial [[prefrontal cortex]] (PFC) engagement because performers must maintain task instructions in [[working memory]], select appropriate responses from multiple alternatives, monitor performance for errors, and inhibit prepotent but incorrect responses. The dlPFC's role in maintaining [[goal representations]] (Miller & Cohen, 2001) proves essential when stimulus-response mappings are unfamiliar or when task rules must be actively retrieved and applied. ^established The [[anterior cingulate cortex]] (ACC) detects response conflict and signals the need for increased control (Botvinick et al., 2001), showing strong activation during early practice when errors are frequent and competition between response alternatives is high.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "anterior cingulate cortex",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[anterior cingulate cortex]]",
+        "line_number": 198,
+        "section": "Prefrontal-to-Posterior Shifts: The Cortical Reorganization Hypothesis",
+        "context_line": "Early in skill acquisition, tasks demand substantial [[prefrontal cortex]] (PFC) engagement because performers must maintain task instructions in [[working memory]], select appropriate responses from multiple alternatives, monitor performance for errors, and inhibit prepotent but incorrect responses. The dlPFC's role in maintaining [[goal representations]] (Miller & Cohen, 2001) proves essential when stimulus-response mappings are unfamiliar or when task rules must be actively retrieved and applied. ^established The [[anterior cingulate cortex]] (ACC) detects response conflict and signals the need for increased control (Botvinick et al., 2001), showing strong activation during early practice when errors are frequent and competition between response alternatives is high.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Effective connectivity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Effective connectivity]]",
+        "line_number": 220,
+        "section": "Posterior Cortical Specialization and Neural Efficiency",
+        "context_line": "The neural efficiency phenomenon extends beyond reduced activation to encompass changes in neural dynamics and connectivity. [[Effective connectivity]] analyses (examining directional influences between brain regions) show that practice strengthens connections from posterior sensory regions to frontal motor/response areas while weakening connections from PFC to posterior regions (Büchel et al., 1999). ^established This reconfiguration supports more direct stimulus-response pathways, bypassing effortful prefrontal mediation.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "basal ganglia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[basal ganglia]]",
+        "line_number": 226,
+        "section": "Basal Ganglia and Procedural Consolidation",
+        "context_line": "Beyond cortical reorganization, skill automatization critically depends on the [[basal ganglia]], a collection of subcortical nuclei essential for procedural learning, habit formation, and action selection. The striatum (comprising caudate nucleus and putamen) receives massive cortical input and projects through complex circuits back to cortex via thalamus, forming loops that support procedural skill consolidation (Alexander et al., 1986).",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "dopamine",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[dopamine]]",
+        "line_number": 233,
+        "section": "Basal Ganglia and Procedural Consolidation",
+        "context_line": "The mechanism of striatal learning depends critically on [[dopamine]] signaling. Striatal medium spiny neurons (MSNs) show long-term potentiation (LTP) when cortical input coincides with dopamine release signaling reward (Schultz et al., 1997). ^established This **three-factor learning rule** (pre-synaptic activity + post-synaptic activity + dopamine signal) enables reinforcement-driven proceduralization. Successful actions trigger dopamine release, strengthening the cortico-striatal synapses that generated those actions. Over many repetitions, frequently successful stimulus-response patterns become \"stamped in\" as automatic habits.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "sleep",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[sleep]]",
+        "line_number": 244,
+        "section": "Consolidation Processes and Sleep-Dependent Reorganization",
+        "context_line": "The neural transition to automaticity unfolds not only during practice but also during offline consolidation periods, particularly [[sleep]]. Walker et al. (2002) demonstrated that motor sequence learning shows minimal improvement immediately after practice but substantial enhancement (20-30% speed increase) after a night's sleep, particularly after [[REM sleep]]. ^established This offline improvement reflects active consolidation processes reorganizing the neural representation.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "REM sleep",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[REM sleep]]",
+        "line_number": 244,
+        "section": "Consolidation Processes and Sleep-Dependent Reorganization",
+        "context_line": "The neural transition to automaticity unfolds not only during practice but also during offline consolidation periods, particularly [[sleep]]. Walker et al. (2002) demonstrated that motor sequence learning shows minimal improvement immediately after practice but substantial enhancement (20-30% speed increase) after a night's sleep, particularly after [[REM sleep]]. ^established This offline improvement reflects active consolidation processes reorganizing the neural representation.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "cognitive psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[cognitive psychology]]",
+        "line_number": 260,
+        "section": "Distinguishing Automatic from Controlled Processing: Core Characteristics",
+        "context_line": "The conceptual distinction between automatic and controlled processing forms a foundational framework in [[cognitive psychology]], originating with Shiffrin and Schneider's (1977) influential two-process theory and refined through decades of empirical investigation. While the dichotomy has been challenged and nuanced, understanding the characteristic features of each processing mode remains essential for analyzing skill acquisition and expertise development.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "attentional resource",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[attentional resource]]",
+        "line_number": 301,
+        "section": "Effortlessness and Attentional Demand",
+        "context_line": "Controlled processing is subjectively **effortful** - it feels demanding, requires concentration, and produces mental fatigue. Automatic processing feels **effortless** - it occurs seemingly \"by itself\" without subjective sense of work. This phenomenological difference reflects objective differences in [[attentional resource]] consumption.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "deliberate practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[deliberate practice]]",
+        "line_number": 375,
+        "section": "Extensive Practice: Quantity and Quality Requirements",
+        "context_line": "However, practice quantity alone proves insufficient - **practice quality** critically determines automatization effectiveness. Ericsson et al.'s (1993) concept of [[deliberate practice]] emphasizes that automaticity develops most efficiently when practice maintains focused attention, targets specific skill components, includes immediate feedback, and operates slightly beyond current competence level. Mindless repetition produces minimal learning; engaged, error-correcting practice drives automatization.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "sleep",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[sleep]]",
+        "line_number": 388,
+        "section": "Practice Distribution and Consolidation Opportunities",
+        "context_line": "The distributed practice advantage reflects consolidation mechanisms requiring offline processing, particularly during [[sleep]]. As discussed in the neural mechanisms section, sleep-dependent consolidation transfers fragile learning from hippocampus to stable cortical and striatal representations. ^established Each practice session initiates consolidation processes that unfold over subsequent hours; distributed practice provides multiple consolidation opportunities, each stabilizing and integrating new learning.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Fitts and Posner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fitts and Posner]]",
+        "line_number": 511,
+        "section": "The Three-Stage Model of Skill Acquisition",
+        "context_line": "[[Fitts and Posner]] (1967) proposed a three-stage model of skill acquisition that maps closely onto the controlled-to-automatic transition: **cognitive, associative, and autonomous stages**. This framework remains influential because it captures the qualitative shifts in processing characteristics as automaticity develops.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Ericsson",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ericsson]]",
+        "line_number": 522,
+        "section": "Deliberate Practice and Expertise Development",
+        "context_line": "[[Ericsson]]'s framework of [[deliberate practice]] (Ericsson et al., 1993) provides the most influential contemporary account of expertise development, emphasizing the specific practice characteristics that drive skill acquisition beyond basic automatization.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "deliberate practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[deliberate practice]]",
+        "line_number": 522,
+        "section": "Deliberate Practice and Expertise Development",
+        "context_line": "[[Ericsson]]'s framework of [[deliberate practice]] (Ericsson et al., 1993) provides the most influential contemporary account of expertise development, emphasizing the specific practice characteristics that drive skill acquisition beyond basic automatization.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Chase and Simon",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chase and Simon]]",
+        "line_number": 535,
+        "section": "Expertise as Integrated Automaticity and Adaptive Control",
+        "context_line": "Modern expertise research recognizes that expert performance requires more than extensive automatization - it demands integration of automatic components with flexible, adaptive controlled processing. [[Chase and Simon]] (1973) demonstrated this through chess expertise, where masters' advantage reflected both pattern recognition automaticity and superior strategic planning.",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Chunking Mechanisms in Skill Acquisition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chunking Mechanisms in Skill Acquisition]]",
+        "line_number": 609,
+        "section": "1. [[Chunking Mechanisms in Skill Acquisition]]",
+        "context_line": "### 1. [[Chunking Mechanisms in Skill Acquisition]]",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Neural Plasticity Mechanisms in Skill Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Neural Plasticity Mechanisms in Skill Learning]]",
+        "line_number": 621,
+        "section": "2. [[Neural Plasticity Mechanisms in Skill Learning]]",
+        "context_line": "### 2. [[Neural Plasticity Mechanisms in Skill Learning]]",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Attention Control and Executive Function in Complex Skills",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attention Control and Executive Function in Complex Skills]]",
+        "line_number": 633,
+        "section": "3. [[Attention Control and Executive Function in Complex Skills]]",
+        "context_line": "### 3. [[Attention Control and Executive Function in Complex Skills]]",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Transfer of Training: Near and Far Transfer Phenomena",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transfer of Training: Near and Far Transfer Phenomena]]",
+        "line_number": 645,
+        "section": "4. [[Transfer of Training: Near and Far Transfer Phenomena]]",
+        "context_line": "### 4. [[Transfer of Training: Near and Far Transfer Phenomena]]",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Implicit Learning and Unconscious Skill Acquisition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implicit Learning and Unconscious Skill Acquisition]]",
+        "line_number": 657,
+        "section": "5. [[Implicit Learning and Unconscious Skill Acquisition]]",
+        "context_line": "### 5. [[Implicit Learning and Unconscious Skill Acquisition]]",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "target": "Expertise in Complex Real-World Domains",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expertise in Complex Real-World Domains]]",
+        "line_number": 669,
+        "section": "6. [[Expertise in Complex Real-World Domains]]",
+        "context_line": "### 6. [[Expertise in Complex Real-World Domains]]",
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Automaticity",
+        "value": "The capacity to execute cognitive or motor processes with minimal attentional demands, reduced conscious awareness, and increased efficiency - achieved through extensive practice that transforms controlled, effortful processing into rapid, parallel, and seemingly effortless performance.",
+        "format": "bracket",
+        "line_number": 118,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Instance-Theory-of-Automatization",
+        "value": "Logan's (1988) theoretical framework proposing that automaticity emerges through a transition from algorithm-based processing to direct memory retrieval of specific prior instances, where the speed of performance becomes limited by memory retrieval rate rather than algorithmic execution time.",
+        "format": "bracket",
+        "line_number": 124,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Instance-Theory-RT-Equation",
+        "value": "RT = min(T_algorithm, min(T_retrieval_1, T_retrieval_2, ..., T_retrieval_n)) - capturing the race between algorithmic processing and parallel retrieval from all accumulated memory instances.",
+        "format": "bracket",
+        "line_number": 133,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Power-Law-of-Practice",
+        "value": "The empirical regularity, documented across hundreds of studies, showing that performance speed improves as a power function of practice trials - specifically, RT(n) = a·n^(-b) + c, where n is trial number, a scales initial performance, b determines learning rate (typically 0.3-0.5), and c represents asymptotic performance.",
+        "format": "bracket",
+        "line_number": 146,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Practice-Speedup-Magnitude",
+        "value": "Extensive practice typically produces 5-20x speedup in response time for cognitive tasks, with the precise magnitude depending on task complexity, consistency of stimulus-response mappings, and individual learning capacity - improvements that accumulate gradually following the power law rather than through sudden insight or threshold effects.",
+        "format": "bracket",
+        "line_number": 153,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "ACT-R-Skill-Acquisition-Stages",
+        "value": "(1) Cognitive stage: explicit interpretive application of declarative knowledge; (2) Associative stage: proceduralization through knowledge compilation creating task-specific productions; (3) Autonomous stage: production tuning through parameter refinement and composition of productions into more efficient macro-productions.",
+        "format": "bracket",
+        "line_number": 171,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Neural-Automatization",
+        "value": "The progressive reorganization of brain activity patterns with practice, characterized by decreased activation in prefrontal executive regions, increased efficiency in task-relevant cortical areas, and enhanced engagement of subcortical structures (particularly basal ganglia) supporting procedural skill consolidation - reflecting the biological substrate of the controlled-to-automatic transition.",
+        "format": "bracket",
+        "line_number": 187,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Prefrontal-Cortex-Control-Functions",
+        "value": "The dorsolateral prefrontal cortex (dlPFC), anterior cingulate cortex (ACC), and lateral prefrontal regions collectively support controlled processing through mechanisms including working memory maintenance, goal representation, response inhibition, conflict monitoring, and task-set maintenance - functions that become less necessary as task performance automatizes.",
+        "format": "bracket",
+        "line_number": 196,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Neural-Efficiency-Hypothesis",
+        "value": "The principle that skilled performance recruits smaller, more focused neural populations operating with reduced overall activation while maintaining or enhancing processing capacity - achieved through synaptic pruning, myelination, enhanced inhibitory control, and optimized timing of neural firing patterns.",
+        "format": "bracket",
+        "line_number": 211,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Basal-Ganglia-Proceduralization",
+        "value": "The process whereby repeated stimulus-response patterns become encoded in cortico-striatal circuits, particularly the putamen and caudate nucleus, enabling automatic retrieval of appropriate actions through dopamine-modulated synaptic plasticity - forming the neural basis of procedural \"habits\" that execute efficiently without conscious control.",
+        "format": "bracket",
+        "line_number": 224,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Skill-Consolidation",
+        "value": "The time-dependent stabilization and enhancement of learned skills through offline processing, particularly during sleep, involving synaptic consolidation at the cellular level and systems consolidation involving dialogue between cortical and subcortical structures - enabling skills to transition from fragile new learning to robust automatic performance.",
+        "format": "bracket",
+        "line_number": 242,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Automatic-Process-Characteristics",
+        "value": "The defining features of automatized cognitive operations including speed (rapid execution), parallelism (simultaneous processing of multiple items), effortlessness (minimal attentional resource consumption), unavoidability (difficulty suppressing once triggered), and reduced awareness (limited conscious access to processing operations) - contrasting sharply with controlled processes that are slow, serial, effortful, controllable, and consciously accessible.",
+        "format": "bracket",
+        "line_number": 258,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Shiffrin-Schneider-Framework",
+        "value": "The theoretical distinction between automatic detection (fast, parallel, capacity-free processing developing under consistent mapping) and controlled search (slow, serial, capacity-limited processing required for variable mapping tasks) - established through visual search experiments showing dramatically different performance characteristics and practice effects between CM and VM conditions.",
+        "format": "bracket",
+        "line_number": 267,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Automatic-Processing-Speed",
+        "value": "Automatic processes typically execute in 100-300ms from stimulus onset to response initiation, compared to 500-1500ms for controlled processing - a 3-10x advantage arising from parallel operation, direct stimulus-response associations, and bypassing of working memory bottlenecks that constrain controlled processing.",
+        "format": "bracket",
+        "line_number": 280,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Parallel-Processing-Capacity",
+        "value": "The ability to process multiple stimuli or execute multiple cognitive operations simultaneously without capacity-limited interference - a characteristic feature of automatized processes that enables performance to remain constant as task load increases, contrasting with the linear degradation observed in controlled serial processing.",
+        "format": "bracket",
+        "line_number": 290,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Attentional-Resource-Theory",
+        "value": "Kahneman's (1973) framework proposing that attention constitutes a limited-capacity resource allocable among concurrent cognitive operations - automatic processes consume minimal resources while controlled processes demand substantial allocation, explaining dual-task interference patterns and subjective effort.",
+        "format": "bracket",
+        "line_number": 303,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Automatic-Process-Unavoidability",
+        "value": "The characteristic resistance of automatized operations to intentional suppression once triggering conditions are present - demonstrated through interference effects (Stroop), habit slip errors, and difficulty inhibiting overlearned responses even when inappropriate for current task demands.",
+        "format": "bracket",
+        "line_number": 316,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Consciousness-Automaticity-Relationship",
+        "value": "The inverse relationship between processing automaticity and conscious accessibility - highly automatic processes operate implicitly without phenomenal awareness or metacognitive access, while controlled processes require conscious attention and permit introspective reporting of cognitive operations and intermediate states.",
+        "format": "bracket",
+        "line_number": 331,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Automaticity-Development-Conditions",
+        "value": "The specific environmental, task, and practice characteristics necessary to support the transition from controlled to automatic processing, including consistent stimulus-response mappings, extensive repetition (typically thousands of trials), immediate feedback, appropriate attentional deployment during practice, and consolidation opportunities through sleep and distributed practice schedules.",
+        "format": "bracket",
+        "line_number": 349,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Consistent-Mapping-Principle",
+        "value": "The requirement that stimulus-response or stimulus-category associations remain invariant across learning trials for automaticity to develop - variable mappings prevent automatization by forcing continued reliance on rule-based controlled processing rather than enabling direct associative retrieval of responses.",
+        "format": "bracket",
+        "line_number": 357,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Practice-Quantity-Requirements",
+        "value": "Typical automaticity development timelines range from 500-2000 trials for simple stimulus-response associations, 2000-5000 trials for basic perceptual skills, 5000-20,000 trials for complex cognitive skills, and 50,000+ hours for expert-level performance in complex domains - with quality (deliberate, focused) practice more predictive than raw quantity.",
+        "format": "bracket",
+        "line_number": 370,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Spacing-Effect-Automatization",
+        "value": "The empirical finding that distributing practice across multiple sessions separated by hours or days produces superior automaticity compared to massing equivalent practice within single sessions - explained by consolidation mechanisms requiring time-dependent offline processing for stable learning.",
+        "format": "bracket",
+        "line_number": 383,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Feedback-Timing-Principles",
+        "value": "Immediate feedback (within 1-2 seconds of response) optimizes basic skill automatization by preventing error practice, while moderately delayed feedback (3-10 seconds) may enhance retention by encouraging self-monitoring and error detection - optimal timing depends on task complexity and learner expertise.",
+        "format": "bracket",
+        "line_number": 396,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Automatization-Individual-Differences",
+        "value": "Systematic variation in automaticity development rate reflecting differences in working memory capacity, processing speed, attentional control, prior knowledge, metacognitive skill, and possibly genetic factors influencing dopaminergic and glutamatergic neurotransmission - accounting for 40-60% of variance in skill acquisition trajectories.",
+        "format": "bracket",
+        "line_number": 409,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Efficiency-Flexibility-Trade-off",
+        "value": "The fundamental tension whereby automatization increases processing speed and reduces resource demands (efficiency gains) at the cost of reduced adaptability to novel situations, difficulty suppressing inappropriate automatic responses, and vulnerability to negative transfer when task demands change (flexibility costs) - representing a core optimization challenge in skill development.",
+        "format": "bracket",
+        "line_number": 425,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Automatic-Process-Rigidity",
+        "value": "The property of automatic processes becoming tightly bound to specific stimuli, contexts, and response patterns - making them difficult to suppress, modify, or apply in novel ways, contrasting with the inherent flexibility of controlled processes that can be strategically reconfigured for changing task demands.",
+        "format": "bracket",
+        "line_number": 433,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Negative-Transfer-Phenomenon",
+        "value": "The empirical finding that established automaticity can impair performance and learning when task demands change, producing interference, errors, and prolonged relearning times compared to learning from scratch - reflecting the difficulty of overriding or modifying automatic associations that are stimulus-triggered and operate outside conscious control.",
+        "format": "bracket",
+        "line_number": 449,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Automaticity-Speed-Accuracy-Tension",
+        "value": "While automaticity generally improves both speed and accuracy through practice, the difficulty of suppressing automatic responses can create speed-accuracy trade-offs in contexts requiring error monitoring, novel problem-solving, or selective response inhibition - where automatic processing proceeds too rapidly for adequate evaluation and correction.",
+        "format": "bracket",
+        "line_number": 464,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Functional-Fixedness-Phenomenon",
+        "value": "The cognitive bias toward perceiving objects only in terms of their typical, automatized uses rather than potential alternative applications - a manifestation of automatic processing's inflexibility where overlearned associations constrain creative thinking and problem-solving in domains where expertise has developed strong automaticity.",
+        "format": "bracket",
+        "line_number": 477,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Training-Design-Principles",
+        "value": "Optimal skill development combines automatization of routine components (through extensive consistent practice) with maintenance of flexible controlled processing for novel situations (through varied practice and metacognitive awareness) - balancing the efficiency gains of automaticity against the adaptability requirements of complex real-world performance.",
+        "format": "bracket",
+        "line_number": 494,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Expertise-Development-Framework",
+        "value": "The progression from novice to expert performance involves systematic transitions from controlled, effortful processing to increasingly automatic, efficient execution - though expertise ultimately requires integration of automated component skills with flexible, controlled higher-level planning, monitoring, and adaptation capabilities that distinguish genuine expertise from mere automatized routines.",
+        "format": "bracket",
+        "line_number": 505,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Fitts-Posner-Skill-Stages",
+        "value": "(1) Cognitive stage: explicit, effortful interpretation of instructions using declarative knowledge and controlled attention; (2) Associative stage: error detection and elimination, developing reliable stimulus-response associations through practice; (3) Autonomous stage: automatized, efficient performance requiring minimal attention, enabling concurrent tasks and higher-level strategic thinking.",
+        "format": "bracket",
+        "line_number": 513,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Deliberate-Practice-Framework",
+        "value": "Structured practice activities designed specifically to improve performance through focused attention on specific weaknesses, provision of immediate feedback, extensive repetition targeting components slightly beyond current competence level, and motivated effort maintained over years or decades - distinguishing expertise-building practice from mere experience accumulation or playful engagement.",
+        "format": "bracket",
+        "line_number": 524,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Integrated-Expertise-Model",
+        "value": "Expert performance integrates extensively automatized perceptual recognition, component skill execution, and procedural knowledge with maintained or enhanced controlled processing for novel situation analysis, strategic planning, error detection, and adaptive response to changing task demands - combining automaticity's efficiency with controlled processing's flexibility.",
+        "format": "bracket",
+        "line_number": 537,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Talent-Practice-Interaction",
+        "value": "Individual differences in basic cognitive capacities (processing speed, working memory, attentional control) and domain-specific abilities (absolute pitch, visuospatial skill) influence both initial performance levels and rates of improvement through practice - with talent and practice showing multiplicative rather than additive effects, meaning that practice effectiveness depends on underlying abilities.",
+        "format": "bracket",
+        "line_number": 550,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Phased-Training-Protocol",
+        "value": "Structure training through explicit phases - (a) Cognitive phase emphasizing understanding, accuracy, and explicit strategies; (b) Associative phase developing consistency through extensive practice with feedback; (c) Autonomous phase automatizing core components; (d) Integration phase combining automated components with higher-level strategic skills through varied, challenging application.",
+        "format": "bracket",
+        "line_number": 565,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Variable-Practice-Benefits",
+        "value": "Incorporating systematic variation in practice conditions (random vs blocked practice, varied contexts, multiple examples, interleaved problem types) slows initial learning but produces superior long-term retention, transfer to novel situations, and adaptive expertise - preventing the cognitive rigidity associated with overly specific automatization.",
+        "format": "bracket",
+        "line_number": 573,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Metacognitive-Skill-Development",
+        "value": "Training learners to accurately assess their own competence, recognize situations requiring controlled versus automatic processing, monitor performance quality during automated execution, and strategically allocate practice to address weaknesses - enabling self-directed expertise development and preventing premature or inappropriate automatization.",
+        "format": "bracket",
+        "line_number": 582,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Consolidation-Optimized-Scheduling",
+        "value": "Structure practice schedules to provide sleep between sessions (rather than massing practice within single days), space practice across days or weeks (rather than concentrating in intensive periods), and time final practice sessions before sleep to maximize consolidation - leveraging sleep-dependent neural reorganization supporting automaticity development.",
+        "format": "bracket",
+        "line_number": 590,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "field_name": "Automaticity-Retention-Patterns",
+        "value": "Highly automatized skills show minimal forgetting over months or years without practice (e.g., typing, reading, riding bicycles) - far superior to retention of declaratively-learned material - but periodic brief practice (spaced refreshers) maintains peak performance and prevents gradual degradation of speed and accuracy that can occur with extended disuse.",
+        "format": "bracket",
+        "line_number": 598,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Automaticity and Attentional Efficiency: A Comprehensive Analysis of the Transition from Controlled to Automatic Processing",
+        "anchor": "automaticity-and-attentional-efficiency-a-comprehensive-analysis-of-the-transition-from-controlled-to-automatic-processing",
+        "line_number": 4,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 1,
+        "text": "DOCUMENT IDENTIFICATION",
+        "anchor": "document-identification",
+        "line_number": 8,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 1,
+        "text": "CLASSIFICATION & DISCOVERY",
+        "anchor": "classification-discovery",
+        "line_number": 14,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 1,
+        "text": "QUALITY & STATUS",
+        "anchor": "quality-status",
+        "line_number": 30,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 1,
+        "text": "REASONING ARCHITECTURE",
+        "anchor": "reasoning-architecture",
+        "line_number": 38,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 1,
+        "text": "EPISTEMIC & VALIDATION",
+        "anchor": "epistemic-validation",
+        "line_number": 46,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 1,
+        "text": "SOURCE & ATTRIBUTION",
+        "anchor": "source-attribution",
+        "line_number": 53,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 1,
+        "text": "KNOWLEDGE GRAPH INTEGRATION",
+        "anchor": "knowledge-graph-integration",
+        "line_number": 59,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 1,
+        "text": "USAGE & REVIEW",
+        "anchor": "usage-review",
+        "line_number": 89,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 1,
+        "text": "ALIASES & LINKING",
+        "anchor": "aliases-linking",
+        "line_number": 96,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 2,
+        "text": "Theoretical Foundations: Instance Theory and the Power Law of Practice",
+        "anchor": "theoretical-foundations-instance-theory-and-the-power-law-of-practice",
+        "line_number": 116,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Logan's Instance Theory: Memory-Based Automaticity",
+        "anchor": "logans-instance-theory-memory-based-automaticity",
+        "line_number": 122,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "The Power Law of Practice: Mathematical Regularity in Skill Acquisition",
+        "anchor": "the-power-law-of-practice-mathematical-regularity-in-skill-acquisition",
+        "line_number": 144,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Integration with Production System Architectures",
+        "anchor": "integration-with-production-system-architectures",
+        "line_number": 167,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 2,
+        "text": "Neural Mechanisms of Automatization: Brain Systems Supporting the Transition",
+        "anchor": "neural-mechanisms-of-automatization-brain-systems-supporting-the-transition",
+        "line_number": 185,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Prefrontal-to-Posterior Shifts: The Cortical Reorganization Hypothesis",
+        "anchor": "prefrontal-to-posterior-shifts-the-cortical-reorganization-hypothesis",
+        "line_number": 191,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Posterior Cortical Specialization and Neural Efficiency",
+        "anchor": "posterior-cortical-specialization-and-neural-efficiency",
+        "line_number": 207,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Basal Ganglia and Procedural Consolidation",
+        "anchor": "basal-ganglia-and-procedural-consolidation",
+        "line_number": 222,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Consolidation Processes and Sleep-Dependent Reorganization",
+        "anchor": "consolidation-processes-and-sleep-dependent-reorganization",
+        "line_number": 240,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 2,
+        "text": "Distinguishing Automatic from Controlled Processing: Core Characteristics",
+        "anchor": "distinguishing-automatic-from-controlled-processing-core-characteristics",
+        "line_number": 256,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Shiffrin and Schneider's Two-Process Theory",
+        "anchor": "shiffrin-and-schneiders-two-process-theory",
+        "line_number": 262,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Speed and Efficiency: The Hallmark of Automaticity",
+        "anchor": "speed-and-efficiency-the-hallmark-of-automaticity",
+        "line_number": 276,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Parallelism: The Capacity for Simultaneous Processing",
+        "anchor": "parallelism-the-capacity-for-simultaneous-processing",
+        "line_number": 286,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Effortlessness and Attentional Demand",
+        "anchor": "effortlessness-and-attentional-demand",
+        "line_number": 299,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Unavoidability and Lack of Voluntary Control",
+        "anchor": "unavoidability-and-lack-of-voluntary-control",
+        "line_number": 312,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Consciousness and Metacognitive Access",
+        "anchor": "consciousness-and-metacognitive-access",
+        "line_number": 327,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 2,
+        "text": "Conditions for Developing Automaticity: Requirements and Mechanisms",
+        "anchor": "conditions-for-developing-automaticity-requirements-and-mechanisms",
+        "line_number": 347,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Consistent Mapping: The Foundational Requirement",
+        "anchor": "consistent-mapping-the-foundational-requirement",
+        "line_number": 353,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Extensive Practice: Quantity and Quality Requirements",
+        "anchor": "extensive-practice-quantity-and-quality-requirements",
+        "line_number": 366,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Practice Distribution and Consolidation Opportunities",
+        "anchor": "practice-distribution-and-consolidation-opportunities",
+        "line_number": 379,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Feedback Timing and Error Correction",
+        "anchor": "feedback-timing-and-error-correction",
+        "line_number": 392,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Individual Differences in Automatization Rate",
+        "anchor": "individual-differences-in-automatization-rate",
+        "line_number": 405,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 2,
+        "text": "Efficiency-Flexibility Trade-offs: The Costs of Automatization",
+        "anchor": "efficiency-flexibility-trade-offs-the-costs-of-automatization",
+        "line_number": 423,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Loss of Flexibility and Adaptability",
+        "anchor": "loss-of-flexibility-and-adaptability",
+        "line_number": 429,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Negative Transfer and Interference",
+        "anchor": "negative-transfer-and-interference",
+        "line_number": 445,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "The Speed-Accuracy Trade-off in Automatized Processing",
+        "anchor": "the-speed-accuracy-trade-off-in-automatized-processing",
+        "line_number": 460,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Cognitive Rigidity and Functional Fixedness",
+        "anchor": "cognitive-rigidity-and-functional-fixedness",
+        "line_number": 473,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Balancing Efficiency and Flexibility in Training Design",
+        "anchor": "balancing-efficiency-and-flexibility-in-training-design",
+        "line_number": 484,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 2,
+        "text": "Implications for Skill Acquisition and Expertise Development",
+        "anchor": "implications-for-skill-acquisition-and-expertise-development",
+        "line_number": 503,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "The Three-Stage Model of Skill Acquisition",
+        "anchor": "the-three-stage-model-of-skill-acquisition",
+        "line_number": 509,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Deliberate Practice and Expertise Development",
+        "anchor": "deliberate-practice-and-expertise-development",
+        "line_number": 520,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Expertise as Integrated Automaticity and Adaptive Control",
+        "anchor": "expertise-as-integrated-automaticity-and-adaptive-control",
+        "line_number": 533,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Individual Differences and Talent Development",
+        "anchor": "individual-differences-and-talent-development",
+        "line_number": 546,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "Designing Training for Optimal Automatization",
+        "anchor": "designing-training-for-optimal-automatization",
+        "line_number": 559,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 607,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "1. [[Chunking Mechanisms in Skill Acquisition]]",
+        "anchor": "1-chunking-mechanisms-in-skill-acquisition",
+        "line_number": 609,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "2. [[Neural Plasticity Mechanisms in Skill Learning]]",
+        "anchor": "2-neural-plasticity-mechanisms-in-skill-learning",
+        "line_number": 621,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "3. [[Attention Control and Executive Function in Complex Skills]]",
+        "anchor": "3-attention-control-and-executive-function-in-complex-skills",
+        "line_number": 633,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "4. [[Transfer of Training: Near and Far Transfer Phenomena]]",
+        "anchor": "4-transfer-of-training-near-and-far-transfer-phenomena",
+        "line_number": 645,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "5. [[Implicit Learning and Unconscious Skill Acquisition]]",
+        "anchor": "5-implicit-learning-and-unconscious-skill-acquisition",
+        "line_number": 657,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 3,
+        "text": "6. [[Expertise in Complex Real-World Domains]]",
+        "anchor": "6-expertise-in-complex-real-world-domains",
+        "line_number": 669,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 2,
+        "text": "Synthesis and Conclusions",
+        "anchor": "synthesis-and-conclusions",
+        "line_number": 686,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "level": 1,
+        "text": "Claude Report Generator 4.0.0 Thinking",
+        "anchor": "claude-report-generator-400-thinking",
+        "line_number": 761,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "yaml",
+        "code": "---\n# DOCUMENT IDENTIFICATION\ndoc_id: \"report-automaticity-attention-20250117143000\"\ndoc_type: \"academic-report\"\ndoc_created: 2025-01-17\ndoc_modified: 2025-01-17\n\n# CLASSIFICATION & DISCOVERY\nprimary_domain: \"cognitive-psychology\"\nsecondary_domains: [\"cognitive-neuroscience\", \"attention\", \"learning\", \"expertise\"]\nknowledge_level: \"advanced\"\ntags:\n  - year/2025\n  - cognitive-psychology\n  - automaticity\n  - attention\n  - skill-acquisition\n  - instance-theory\n  - power-law-practice\n  - neural-mechanisms\n  - expertise-development\n  - status/evergreen\n\n# QUALITY & STATUS\nstatus: \"evergreen\"\nmaturity: \"evergreen\"\nconfidence: \"established\"\nrating: 9.2\npriority: \"high\"\nproduction_ready: true\n\n# REASONING ARCHITECTURE\nreasoning_tier: 3\nreasoning_technique: \"Tree-of-Thoughts\"\ntechniques_used: [\"ToT\", \"Extended-Thinking\", \"Self-Consistency\"]\nthinking_mode: \"enabled\"\nthinking_budget_pct: 30\nestimated_tokens: 18500\n\n# EPISTEMIC & VALIDATION\ntest_coverage: \"comprehensive\"\nvalidation_date: 2025-01-17\nfactual_verification: \"self-consistency\"\nhallucination_check: true\nconfidence_markers_used: true\n\n# SOURCE & ATTRIBUTION\nsource: \"claude-sonnet-4.5\"\nmodel_version: \"claude-sonnet-4-20250514\"\nbased_on_prompts: [\"[[VADER Academic Report Generator v4.0]]\"]\ngenerated_via_workflow: \"[[Comprehensive Academic Reference Workflow]]\"\n\n# KNOWLEDGE GRAPH INTEGRATION\nrelated_concepts:\n  - \"[[Attention]]\"\n  - \"[[Working Memory]]\"\n  - \"[[Skill Acquisition]]\"\n  - \"[[Expertise]]\"\n  - \"[[Cognitive Control]]\"\n  - \"[[Procedural Memory]]\"\n  - \"[[Instance Theory]]\"\n  - \"[[Power Law of Practice]]\"\n  - \"[[Dual-Process Theory]]\"\n  - \"[[Neural Plasticity]]\"\n\nprerequisites:\n  - \"[[Cognitive Psychology Foundations]]\"\n  - \"[[Information Processing Theory]]\"\n  - \"[[Memory Systems]]\"\n  - \"[[Attention Theory]]\"\n\nbuilds_on:\n  - \"[[Shiffrin and Schneider Two-Process Theory]]\"\n  - \"[[Logan Instance Theory]]\"\n  - \"[[Anderson ACT-R Framework]]\"\n\nextends:\n  - \"[[Cognitive Control Mechanisms]]\"\n  - \"[[Learning and Memory]]\"\n\npart_of_series: \"[[Cognitive Psychology Core Concepts]]\"\n\n# USAGE & REVIEW\nusage_count: 0\nlast_used: \"\"\nreview_next: 2025-04-17\nreview_interval: 90\nreview_count: 0\n\n# ALIASES & LINKING\naliases:\n  - \"Automaticity Report\"\n  - \"Automatic vs Controlled Processing\"\n  - \"Attentional Efficiency Analysis\"\n\nlink_up: \"[[Cognitive Psychology MOC]]\"\nlink_related:\n  - \"[[Deliberate Practice]]\"\n  - \"[[Expertise Development]]\"\n  - \"[[Attentional Resources]]\"\n  - \"[[Neural Efficiency]]\"\n---",
+        "line_start": 6,
+        "line_end": 109,
+        "char_count": 2482,
+        "line_count": 102,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [
+      {
+        "block_id": "established",
+        "type": "definition",
+        "line_number": 305,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "block_id": "provisional",
+        "type": "definition",
+        "line_number": 584,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "block_id": "established",
+        "type": "definition",
+        "line_number": 592,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      }
+    ],
+    "definitions": [
+      {
+        "term": "Automaticity",
+        "definition": "The capacity to execute cognitive or motor processes with minimal attentional demands, reduced conscious awareness, and increased efficiency - achieved through extensive practice that transforms controlled, effortful processing into rapid, parallel, and seemingly effortless performance.",
+        "line_number": 118,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Instance-Theory-of-Automatization",
+        "definition": "Logan's (1988) theoretical framework proposing that automaticity emerges through a transition from algorithm-based processing to direct memory retrieval of specific prior instances, where the speed of performance becomes limited by memory retrieval rate rather than algorithmic execution time.",
+        "line_number": 124,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Instance-Theory-RT-Equation",
+        "definition": "RT = min(T_algorithm, min(T_retrieval_1, T_retrieval_2, ..., T_retrieval_n)) - capturing the race between algorithmic processing and parallel retrieval from all accumulated memory instances.",
+        "line_number": 133,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Power-Law-of-Practice",
+        "definition": "The empirical regularity, documented across hundreds of studies, showing that performance speed improves as a power function of practice trials - specifically, RT(n) = a·n^(-b) + c, where n is trial number, a scales initial performance, b determines learning rate (typically 0.3-0.5), and c represents asymptotic performance.",
+        "line_number": 146,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Practice-Speedup-Magnitude",
+        "definition": "Extensive practice typically produces 5-20x speedup in response time for cognitive tasks, with the precise magnitude depending on task complexity, consistency of stimulus-response mappings, and individual learning capacity - improvements that accumulate gradually following the power law rather than through sudden insight or threshold effects.",
+        "line_number": 153,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "ACT-R-Skill-Acquisition-Stages",
+        "definition": "(1) Cognitive stage: explicit interpretive application of declarative knowledge; (2) Associative stage: proceduralization through knowledge compilation creating task-specific productions; (3) Autonomous stage: production tuning through parameter refinement and composition of productions into more efficient macro-productions.",
+        "line_number": 171,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Neural-Automatization",
+        "definition": "The progressive reorganization of brain activity patterns with practice, characterized by decreased activation in prefrontal executive regions, increased efficiency in task-relevant cortical areas, and enhanced engagement of subcortical structures (particularly basal ganglia) supporting procedural skill consolidation - reflecting the biological substrate of the controlled-to-automatic transition.",
+        "line_number": 187,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Prefrontal-Cortex-Control-Functions",
+        "definition": "The dorsolateral prefrontal cortex (dlPFC), anterior cingulate cortex (ACC), and lateral prefrontal regions collectively support controlled processing through mechanisms including working memory maintenance, goal representation, response inhibition, conflict monitoring, and task-set maintenance - functions that become less necessary as task performance automatizes.",
+        "line_number": 196,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Neural-Efficiency-Hypothesis",
+        "definition": "The principle that skilled performance recruits smaller, more focused neural populations operating with reduced overall activation while maintaining or enhancing processing capacity - achieved through synaptic pruning, myelination, enhanced inhibitory control, and optimized timing of neural firing patterns.",
+        "line_number": 211,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Basal-Ganglia-Proceduralization",
+        "definition": "The process whereby repeated stimulus-response patterns become encoded in cortico-striatal circuits, particularly the putamen and caudate nucleus, enabling automatic retrieval of appropriate actions through dopamine-modulated synaptic plasticity - forming the neural basis of procedural \"habits\" that execute efficiently without conscious control.",
+        "line_number": 224,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Skill-Consolidation",
+        "definition": "The time-dependent stabilization and enhancement of learned skills through offline processing, particularly during sleep, involving synaptic consolidation at the cellular level and systems consolidation involving dialogue between cortical and subcortical structures - enabling skills to transition from fragile new learning to robust automatic performance.",
+        "line_number": 242,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Automatic-Process-Characteristics",
+        "definition": "The defining features of automatized cognitive operations including speed (rapid execution), parallelism (simultaneous processing of multiple items), effortlessness (minimal attentional resource consumption), unavoidability (difficulty suppressing once triggered), and reduced awareness (limited conscious access to processing operations) - contrasting sharply with controlled processes that are slow, serial, effortful, controllable, and consciously accessible.",
+        "line_number": 258,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Shiffrin-Schneider-Framework",
+        "definition": "The theoretical distinction between automatic detection (fast, parallel, capacity-free processing developing under consistent mapping) and controlled search (slow, serial, capacity-limited processing required for variable mapping tasks) - established through visual search experiments showing dramatically different performance characteristics and practice effects between CM and VM conditions.",
+        "line_number": 267,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Automatic-Processing-Speed",
+        "definition": "Automatic processes typically execute in 100-300ms from stimulus onset to response initiation, compared to 500-1500ms for controlled processing - a 3-10x advantage arising from parallel operation, direct stimulus-response associations, and bypassing of working memory bottlenecks that constrain controlled processing.",
+        "line_number": 280,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Parallel-Processing-Capacity",
+        "definition": "The ability to process multiple stimuli or execute multiple cognitive operations simultaneously without capacity-limited interference - a characteristic feature of automatized processes that enables performance to remain constant as task load increases, contrasting with the linear degradation observed in controlled serial processing.",
+        "line_number": 290,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Attentional-Resource-Theory",
+        "definition": "Kahneman's (1973) framework proposing that attention constitutes a limited-capacity resource allocable among concurrent cognitive operations - automatic processes consume minimal resources while controlled processes demand substantial allocation, explaining dual-task interference patterns and subjective effort.",
+        "line_number": 303,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Automatic-Process-Unavoidability",
+        "definition": "The characteristic resistance of automatized operations to intentional suppression once triggering conditions are present - demonstrated through interference effects (Stroop), habit slip errors, and difficulty inhibiting overlearned responses even when inappropriate for current task demands.",
+        "line_number": 316,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Consciousness-Automaticity-Relationship",
+        "definition": "The inverse relationship between processing automaticity and conscious accessibility - highly automatic processes operate implicitly without phenomenal awareness or metacognitive access, while controlled processes require conscious attention and permit introspective reporting of cognitive operations and intermediate states.",
+        "line_number": 331,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Automaticity-Development-Conditions",
+        "definition": "The specific environmental, task, and practice characteristics necessary to support the transition from controlled to automatic processing, including consistent stimulus-response mappings, extensive repetition (typically thousands of trials), immediate feedback, appropriate attentional deployment during practice, and consolidation opportunities through sleep and distributed practice schedules.",
+        "line_number": 349,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Consistent-Mapping-Principle",
+        "definition": "The requirement that stimulus-response or stimulus-category associations remain invariant across learning trials for automaticity to develop - variable mappings prevent automatization by forcing continued reliance on rule-based controlled processing rather than enabling direct associative retrieval of responses.",
+        "line_number": 357,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Practice-Quantity-Requirements",
+        "definition": "Typical automaticity development timelines range from 500-2000 trials for simple stimulus-response associations, 2000-5000 trials for basic perceptual skills, 5000-20,000 trials for complex cognitive skills, and 50,000+ hours for expert-level performance in complex domains - with quality (deliberate, focused) practice more predictive than raw quantity.",
+        "line_number": 370,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Spacing-Effect-Automatization",
+        "definition": "The empirical finding that distributing practice across multiple sessions separated by hours or days produces superior automaticity compared to massing equivalent practice within single sessions - explained by consolidation mechanisms requiring time-dependent offline processing for stable learning.",
+        "line_number": 383,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Feedback-Timing-Principles",
+        "definition": "Immediate feedback (within 1-2 seconds of response) optimizes basic skill automatization by preventing error practice, while moderately delayed feedback (3-10 seconds) may enhance retention by encouraging self-monitoring and error detection - optimal timing depends on task complexity and learner expertise.",
+        "line_number": 396,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Automatization-Individual-Differences",
+        "definition": "Systematic variation in automaticity development rate reflecting differences in working memory capacity, processing speed, attentional control, prior knowledge, metacognitive skill, and possibly genetic factors influencing dopaminergic and glutamatergic neurotransmission - accounting for 40-60% of variance in skill acquisition trajectories.",
+        "line_number": 409,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Efficiency-Flexibility-Trade-off",
+        "definition": "The fundamental tension whereby automatization increases processing speed and reduces resource demands (efficiency gains) at the cost of reduced adaptability to novel situations, difficulty suppressing inappropriate automatic responses, and vulnerability to negative transfer when task demands change (flexibility costs) - representing a core optimization challenge in skill development.",
+        "line_number": 425,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Automatic-Process-Rigidity",
+        "definition": "The property of automatic processes becoming tightly bound to specific stimuli, contexts, and response patterns - making them difficult to suppress, modify, or apply in novel ways, contrasting with the inherent flexibility of controlled processes that can be strategically reconfigured for changing task demands.",
+        "line_number": 433,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Negative-Transfer-Phenomenon",
+        "definition": "The empirical finding that established automaticity can impair performance and learning when task demands change, producing interference, errors, and prolonged relearning times compared to learning from scratch - reflecting the difficulty of overriding or modifying automatic associations that are stimulus-triggered and operate outside conscious control.",
+        "line_number": 449,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Automaticity-Speed-Accuracy-Tension",
+        "definition": "While automaticity generally improves both speed and accuracy through practice, the difficulty of suppressing automatic responses can create speed-accuracy trade-offs in contexts requiring error monitoring, novel problem-solving, or selective response inhibition - where automatic processing proceeds too rapidly for adequate evaluation and correction.",
+        "line_number": 464,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Functional-Fixedness-Phenomenon",
+        "definition": "The cognitive bias toward perceiving objects only in terms of their typical, automatized uses rather than potential alternative applications - a manifestation of automatic processing's inflexibility where overlearned associations constrain creative thinking and problem-solving in domains where expertise has developed strong automaticity.",
+        "line_number": 477,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Training-Design-Principles",
+        "definition": "Optimal skill development combines automatization of routine components (through extensive consistent practice) with maintenance of flexible controlled processing for novel situations (through varied practice and metacognitive awareness) - balancing the efficiency gains of automaticity against the adaptability requirements of complex real-world performance.",
+        "line_number": 494,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Expertise-Development-Framework",
+        "definition": "The progression from novice to expert performance involves systematic transitions from controlled, effortful processing to increasingly automatic, efficient execution - though expertise ultimately requires integration of automated component skills with flexible, controlled higher-level planning, monitoring, and adaptation capabilities that distinguish genuine expertise from mere automatized routines.",
+        "line_number": 505,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Fitts-Posner-Skill-Stages",
+        "definition": "(1) Cognitive stage: explicit, effortful interpretation of instructions using declarative knowledge and controlled attention; (2) Associative stage: error detection and elimination, developing reliable stimulus-response associations through practice; (3) Autonomous stage: automatized, efficient performance requiring minimal attention, enabling concurrent tasks and higher-level strategic thinking.",
+        "line_number": 513,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Deliberate-Practice-Framework",
+        "definition": "Structured practice activities designed specifically to improve performance through focused attention on specific weaknesses, provision of immediate feedback, extensive repetition targeting components slightly beyond current competence level, and motivated effort maintained over years or decades - distinguishing expertise-building practice from mere experience accumulation or playful engagement.",
+        "line_number": 524,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Integrated-Expertise-Model",
+        "definition": "Expert performance integrates extensively automatized perceptual recognition, component skill execution, and procedural knowledge with maintained or enhanced controlled processing for novel situation analysis, strategic planning, error detection, and adaptive response to changing task demands - combining automaticity's efficiency with controlled processing's flexibility.",
+        "line_number": 537,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Talent-Practice-Interaction",
+        "definition": "Individual differences in basic cognitive capacities (processing speed, working memory, attentional control) and domain-specific abilities (absolute pitch, visuospatial skill) influence both initial performance levels and rates of improvement through practice - with talent and practice showing multiplicative rather than additive effects, meaning that practice effectiveness depends on underlying abilities.",
+        "line_number": 550,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Phased-Training-Protocol",
+        "definition": "Structure training through explicit phases - (a) Cognitive phase emphasizing understanding, accuracy, and explicit strategies; (b) Associative phase developing consistency through extensive practice with feedback; (c) Autonomous phase automatizing core components; (d) Integration phase combining automated components with higher-level strategic skills through varied, challenging application.",
+        "line_number": 565,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Variable-Practice-Benefits",
+        "definition": "Incorporating systematic variation in practice conditions (random vs blocked practice, varied contexts, multiple examples, interleaved problem types) slows initial learning but produces superior long-term retention, transfer to novel situations, and adaptive expertise - preventing the cognitive rigidity associated with overly specific automatization.",
+        "line_number": 573,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Metacognitive-Skill-Development",
+        "definition": "Training learners to accurately assess their own competence, recognize situations requiring controlled versus automatic processing, monitor performance quality during automated execution, and strategically allocate practice to address weaknesses - enabling self-directed expertise development and preventing premature or inappropriate automatization.",
+        "line_number": 582,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Consolidation-Optimized-Scheduling",
+        "definition": "Structure practice schedules to provide sleep between sessions (rather than massing practice within single days), space practice across days or weeks (rather than concentrating in intensive periods), and time final practice sessions before sleep to maximize consolidation - leveraging sleep-dependent neural reorganization supporting automaticity development.",
+        "line_number": 590,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "term": "Automaticity-Retention-Patterns",
+        "definition": "Highly automatized skills show minimal forgetting over months or years without practice (e.g., typing, reading, riding bicycles) - far superior to retention of declaratively-learned material - but periodic brief practice (spaced refreshers) maintains peak performance and prevents gradual degradation of speed and accuracy that can occur with extended disuse.",
+        "line_number": 598,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      }
+    ],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Selective automatization**: Automatize stable, consistent components while maintaining controlled processing for variable, adaptive components",
+          "indent_level": 0,
+          "line_number": 471,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+        },
+        {
+          "text": "**Varied practice**: Include variation during training to prevent overly specific automaticity and promote transfer",
+          "indent_level": 0,
+          "line_number": 471,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+        },
+        {
+          "text": "**Interleaved practice**: Mix problem types rather than blocking, reducing rigid associations",
+          "indent_level": 0,
+          "line_number": 471,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+        },
+        {
+          "text": "**Metacognitive training**: Develop awareness of when automatic processing is appropriate versus when controlled processing is needed",
+          "indent_level": 0,
+          "line_number": 475,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+        },
+        {
+          "text": "**Periodic review**: Regularly revisit automated skills under varied conditions to maintain flexibility",
+          "indent_level": 0,
+          "line_number": 475,
+          "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+        }
+      ],
+      "unordered": []
+    },
+    "html_comments": [
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     SECTION 1: THEORETICAL FOUNDATIONS\n     Instance Theory, Power Law of Practice, and foundational frameworks\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 111,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     SECTION 2: NEURAL MECHANISMS\n     Brain systems supporting automatization and neural reorganization\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 180,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     SECTION 3: PROCESS CHARACTERISTICS\n     Distinguishing features of automatic versus controlled processing\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 251,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     SECTION 4: DEVELOPMENT CONDITIONS\n     Requirements and processes for developing automaticity\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 342,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     SECTION 5: TRADE-OFFS\n     Efficiency-flexibility tensions in automatization\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 418,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     SECTION 6: SKILL ACQUISITION IMPLICATIONS\n     Applications to expertise development and practical training\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 498,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      },
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     END MATTER\n     Document conclusion and references\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 681,
+        "source": "cog-psy-attentional-efficiency-and-skill-aquisition.md"
+      }
+    ],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "ACT-R",
+      "Anderson ACT-R Framework",
+      "Attention",
+      "Attention Control and Executive Function in Complex Skills",
+      "Attention Theory",
+      "Attentional Resources",
+      "Chase and Simon",
+      "Chunking Mechanisms in Skill Acquisition",
+      "Cognitive Control",
+      "Cognitive Control Mechanisms",
+      "Cognitive Psychology Core Concepts",
+      "Cognitive Psychology Foundations",
+      "Cognitive Psychology MOC",
+      "Comprehensive Academic Reference Workflow",
+      "Deliberate Practice",
+      "Dual-Process Theory",
+      "Effective connectivity",
+      "Ericsson",
+      "Event-related potential",
+      "Expertise",
+      "Expertise Development",
+      "Expertise in Complex Real-World Domains",
+      "Fitts and Posner",
+      "Implicit Learning and Unconscious Skill Acquisition",
+      "Information Processing Theory",
+      "Instance Theory",
+      "Learning and Memory",
+      "Logan Instance Theory",
+      "Memory Systems",
+      "Neural Efficiency",
+      "Neural Plasticity",
+      "Neural Plasticity Mechanisms in Skill Learning",
+      "Power Law of Practice",
+      "Procedural Memory",
+      "REM sleep",
+      "Shiffrin and Schneider Two-Process Theory",
+      "Skill Acquisition",
+      "Transfer of Training: Near and Far Transfer Phenomena",
+      "VADER Academic Report Generator v4.0",
+      "Working Memory",
+      "anterior cingulate cortex",
+      "attentional resource",
+      "basal ganglia",
+      "cognitive psychology",
+      "consistent mapping",
+      "declarative knowledge",
+      "deliberate practice",
+      "dopamine",
+      "electrophysiology",
+      "expert performance",
+      "functional neuroimaging",
+      "goal representations",
+      "language comprehension",
+      "lesion studies",
+      "memory representation",
+      "motor skill learning",
+      "prefrontal cortex",
+      "procedural knowledge",
+      "production system",
+      "production system theories",
+      "sleep",
+      "working memory"
+    ],
+    "unique_wiki_link_count": 62,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "ACT-R",
+      "Anderson ACT-R Framework",
+      "Attention",
+      "Attention Control and Executive Function in Complex Skills",
+      "Attention Theory",
+      "Attentional Resources",
+      "Chase and Simon",
+      "Chunking Mechanisms in Skill Acquisition",
+      "Cognitive Control",
+      "Cognitive Control Mechanisms",
+      "Cognitive Psychology Core Concepts",
+      "Cognitive Psychology Foundations",
+      "Cognitive Psychology MOC",
+      "Comprehensive Academic Reference Workflow",
+      "Deliberate Practice",
+      "Dual-Process Theory",
+      "Effective connectivity",
+      "Ericsson",
+      "Event-related potential",
+      "Expertise",
+      "Expertise Development",
+      "Expertise in Complex Real-World Domains",
+      "Fitts and Posner",
+      "Implicit Learning and Unconscious Skill Acquisition",
+      "Information Processing Theory",
+      "Instance Theory",
+      "Learning and Memory",
+      "Logan Instance Theory",
+      "Memory Systems",
+      "Neural Efficiency",
+      "Neural Plasticity",
+      "Neural Plasticity Mechanisms in Skill Learning",
+      "Power Law of Practice",
+      "Procedural Memory",
+      "REM sleep",
+      "Shiffrin and Schneider Two-Process Theory",
+      "Skill Acquisition",
+      "Transfer of Training: Near and Far Transfer Phenomena",
+      "VADER Academic Report Generator v4.0",
+      "Working Memory",
+      "anterior cingulate cortex",
+      "attentional resource",
+      "basal ganglia",
+      "cognitive psychology",
+      "consistent mapping",
+      "declarative knowledge",
+      "deliberate practice",
+      "dopamine",
+      "electrophysiology",
+      "expert performance",
+      "functional neuroimaging",
+      "goal representations",
+      "language comprehension",
+      "lesion studies",
+      "memory representation",
+      "motor skill learning",
+      "prefrontal cortex",
+      "procedural knowledge",
+      "production system",
+      "production system theories",
+      "sleep",
+      "working memory"
+    ]
+  }
+}

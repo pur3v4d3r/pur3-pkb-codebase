@@ -1,0 +1,74 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-12T10:03:32.632444",
+    "source_file": "discourses-by-epictetus.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-stoicism\\books\\raw-text\\discourses-by-epictetus.md",
+    "source_file_size_bytes": 627874,
+    "processing_time_seconds": 0.06
+  },
+  "document_metadata": {
+    "frontmatter": {},
+    "word_count": 117254,
+    "character_count": 619517,
+    "line_count": 8290,
+    "heading_count": 0
+  },
+  "extraction_summary": {
+    "total_items_extracted": 0,
+    "by_type": {
+      "headings": 0,
+      "callouts": 0,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [],
+  "extracted_items": {
+    "callouts": [],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}
