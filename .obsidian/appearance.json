@@ -21,7 +21,6 @@
     "metadata-panel-system",
     "metadata-panel",
     "tag-customization-system",
-    "custom-ordered-list-numbers-(colored)-",
     "10-mermaid",
     "custom-horizontal-rules-",
     "glassmorphism-sidebar-system",
@@ -37,7 +36,8 @@
     "callout-icon",
     "callout-mod-15-premium-card",
     "01-glowing-headers",
-    "square-bracket-glow"
+    "square-bracket-glow",
+    "custom-ordered-list-numbers-(colored)-"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "textFontFamily": "JetBrains Mono",

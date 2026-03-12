@@ -31,16 +31,18 @@ div.cm-editor .cm-formatting-link {
   visibility: visible !important;
 }
 
-/* Live Preview Mode brackets - Force visibility */
-body .markdown-source-view.mod-cm6.is-live-preview .cm-formatting-link,
-body .is-live-preview .cm-formatting.cm-formatting-link,
-body .is-live-preview .cm-line .cm-formatting-link {
+/* Live Preview - color native brackets on active (editing) lines only */
+/* Inactive lines use pseudo-elements on .cm-underline instead */
+body .markdown-source-view.mod-cm6.is-live-preview .cm-line.cm-active .cm-formatting-link {
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: 900 !important;
-  opacity: 1 !important;
-  display: inline !important;
-  visibility: visible !important;
+}
+
+/* Hide native brackets on inactive live-preview lines — pseudo-elements provide them */
+body .markdown-source-view.mod-cm6.is-live-preview .cm-line:not(.cm-active) .cm-formatting-link {
+  display: none !important;
+  opacity: 0 !important;
 }
 
 /* Source Mode - Force visibility */
@@ -96,10 +98,12 @@ body .cm-line .cm-hmd-internal-link,
 }
 
 /* ═══ READING MODE - ADD VISUAL BRACKETS ═══ */
-/* Add red glowing brackets around internal links in reading mode */
+/* Add red glowing brackets around internal links in reading mode ONLY */
+/* NOTE: .markdown-rendered is intentionally scoped under .markdown-reading-view
+   to prevent double brackets in Live Preview embedded notes */
 .markdown-preview-view .internal-link::before,
-.markdown-rendered .internal-link::before,
-.markdown-reading-view .internal-link::before {
+.markdown-reading-view .internal-link::before,
+.markdown-reading-view .markdown-rendered .internal-link::before {
   content: '[[' !important;
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
@@ -109,8 +113,8 @@ body .cm-line .cm-hmd-internal-link,
 }
 
 .markdown-preview-view .internal-link::after,
-.markdown-rendered .internal-link::after,
-.markdown-reading-view .internal-link::after {
+.markdown-reading-view .internal-link::after,
+.markdown-reading-view .markdown-rendered .internal-link::after {
   content: ']]' !important;
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
@@ -120,29 +124,59 @@ body .cm-line .cm-hmd-internal-link,
 }
 
 /* ═══ DATAVIEW INLINE FIELDS - READING MODE BRACKETS ═══ */
-/* Injects glowing [ ] around Dataview inline-field spans in reading mode.
-   Dataview strips the literal brackets during render, so we re-add them
-   via pseudo-elements — matching the same approach used for internal links. */
-.markdown-preview-view .dataview.inline-field::before,
-.markdown-rendered .dataview.inline-field::before,
-.markdown-reading-view .dataview.inline-field::before {
+/* Dataview strips [ ] from inline fields when rendering in reading mode.
+   Re-inject them as glowing pseudo-elements.
+   
+   APPROACH: Unscoped global rule first (catches any container variant),
+   then scoped reading-mode rules for higher specificity.
+   The 'animation' and 'filter' props are intentionally omitted here —
+   they can silently invalidate the declaration block in some Electron builds
+   if the keyframe isn't parsed yet. Glow comes from text-shadow alone. */
+
+/* GLOBAL FALLBACK — matches reading mode, live-preview widget, and any other context */
+.dataview.inline-field::before {
   content: '[' !important;
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
-  filter: drop-shadow(0 0 3px var(--red-shadow)) !important;
-  animation: bracket-pulse 2s infinite ease-in-out !important;
+  display: inline !important;
+  -webkit-text-fill-color: var(--red-glow) !important;
 }
 
-.markdown-preview-view .dataview.inline-field::after,
-.markdown-rendered .dataview.inline-field::after,
-.markdown-reading-view .dataview.inline-field::after {
+.dataview.inline-field::after {
   content: ']' !important;
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
   font-weight: bold !important;
-  filter: drop-shadow(0 0 3px var(--red-shadow)) !important;
-  animation: bracket-pulse 2s infinite ease-in-out !important;
+  display: inline !important;
+  -webkit-text-fill-color: var(--red-glow) !important;
+}
+
+/* SCOPED — reading-mode container selectors for extra specificity */
+.markdown-preview-view .dataview.inline-field::before,
+.markdown-rendered .dataview.inline-field::before,
+.markdown-reading-view .dataview.inline-field::before,
+.markdown-preview-section .dataview.inline-field::before,
+.view-content .dataview.inline-field::before {
+  content: '[' !important;
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  display: inline !important;
+  -webkit-text-fill-color: var(--red-glow) !important;
+}
+
+.markdown-preview-view .dataview.inline-field::after,
+.markdown-rendered .dataview.inline-field::after,
+.markdown-reading-view .dataview.inline-field::after,
+.markdown-preview-section .dataview.inline-field::after,
+.view-content .dataview.inline-field::after {
+  content: ']' !important;
+  color: var(--red-glow) !important;
+  text-shadow: var(--bracket-shadow) !important;
+  font-weight: bold !important;
+  display: inline !important;
+  -webkit-text-fill-color: var(--red-glow) !important;
 }
 
 
@@ -275,10 +309,10 @@ body .markdown-source-view .cm-formatting-link,
 .cm-bracket,
 .markdown-preview-view .internal-link::before,
 .markdown-preview-view .internal-link::after,
-.is-live-preview .cm-underline::before,
-.is-live-preview .cm-underline::after,
-.is-live-preview .cm-link::before,
-.is-live-preview .cm-link::after {
+.markdown-reading-view .internal-link::before,
+.markdown-reading-view .internal-link::after,
+.is-live-preview .cm-line:not(.cm-active) .cm-underline::before,
+.is-live-preview .cm-line:not(.cm-active) .cm-underline::after {
   animation: bracket-pulse 2s infinite ease-in-out !important;
 }
 
@@ -296,69 +330,17 @@ body .markdown-source-view.cm-s-obsidian .cm-formatting-link {
   -webkit-text-fill-color: var(--red-glow) !important;
 }
 
-/* ═══ LIVE PREVIEW MODE - FORCE BRACKETS ALWAYS VISIBLE ═══ */
-/* Override Obsidian's default hiding behavior in Live Preview */
-.markdown-source-view.mod-cm6.is-live-preview .cm-formatting-link,
-.markdown-source-view.is-live-preview .cm-line .cm-formatting-link,
-.is-live-preview .cm-formatting.cm-formatting-link,
-body.is-live-preview .cm-formatting-link,
-.workspace-leaf-content .is-live-preview .cm-formatting-link {
-  opacity: 1 !important;
-  display: inline !important;
-  visibility: visible !important;
-  color: var(--red-glow) !important;
-  text-shadow: var(--bracket-shadow) !important;
-  font-weight: 900 !important;
-  pointer-events: auto !important;
-  width: auto !important;
-  height: auto !important;
-  position: static !important;
-  clip: auto !important;
-  clip-path: none !important;
-  overflow: visible !important;
-  white-space: pre !important;
-  font-size: inherit !important;
-  line-height: inherit !important;
-  text-indent: 0 !important;
-  letter-spacing: normal !important;
-}
+/* ═══ LIVE PREVIEW MODE - native force approach DISABLED ═══ */
+/* Obsidian's internal hiding beats !important clip/font-size overrides in modern versions.
+   Pseudo-elements on .cm-underline (below) are the reliable approach instead.
+   These blocks are preserved here for reference / older Obsidian fallback. */
 
-/* Force visibility even when not focused */
-.markdown-source-view.is-live-preview .cm-line:not(.cm-active) .cm-formatting-link {
-  opacity: 1 !important;
-  display: inline !important;
-  visibility: visible !important;
-  color: var(--red-glow) !important;
-  text-shadow: var(--bracket-shadow) !important;
-  width: auto !important;
-  height: auto !important;
-  position: static !important;
-  clip: auto !important;
-  overflow: visible !important;
-}
-
-/* Specific override for link wrappers that might hide content */
-.is-live-preview .cm-link {
-  display: inline !important;
-}
-
-.is-live-preview .cm-link .cm-formatting-link {
-  display: inline !important;
-  opacity: 1 !important;
-  visibility: visible !important;
-  position: static !important;
-  width: auto !important;
-  height: auto !important;
-}
-
-/* ═══ ALTERNATIVE: Force bracket rendering via pseudo-elements ═══ */
-/* If native brackets still won't show, this adds them */
-
-/* Try targeting the underline element which wraps link text in Live Preview */
-.is-live-preview .cm-underline::before,
-.is-live-preview .cm-link .cm-underline::before,
-.markdown-source-view.is-live-preview .cm-underline::before,
-.markdown-source-view.mod-cm6.is-live-preview .cm-line .cm-underline::before {
+/* ═══ LIVE PREVIEW BRACKETS — Pseudo-element approach (ACTIVE) ═══ */
+/* Injects [[ ]] on INACTIVE lines only (cursor-away rendered links).
+   Active lines show native markup — no pseudo-element needed there.
+   This is the working approach; the native force-visible blocks above are disabled. */
+.is-live-preview .cm-line:not(.cm-active) .cm-underline::before,
+.is-live-preview .cm-line:not(.cm-active) .cm-link .cm-underline::before {
   content: '[[' !important;
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
@@ -367,10 +349,8 @@ body.is-live-preview .cm-formatting-link,
   animation: bracket-pulse 2s infinite ease-in-out !important;
 }
 
-.is-live-preview .cm-underline::after,
-.is-live-preview .cm-link .cm-underline::after,
-.markdown-source-view.is-live-preview .cm-underline::after,
-.markdown-source-view.mod-cm6.is-live-preview .cm-line .cm-underline::after {
+.is-live-preview .cm-line:not(.cm-active) .cm-underline::after,
+.is-live-preview .cm-line:not(.cm-active) .cm-link .cm-underline::after {
   content: ']]' !important;
   color: var(--red-glow) !important;
   text-shadow: var(--bracket-shadow) !important;
