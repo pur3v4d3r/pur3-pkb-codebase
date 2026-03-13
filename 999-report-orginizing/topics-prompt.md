@@ -383,6 +383,15 @@ This is the format for each Topic:
 - ⭐ Active Reading Techniques
 - ⭐ Summarization as a Learning Strategy
 - ⭐ Text Structure Awareness
+- ⭐ Reciprocal Teaching for Reading Comprehension
+- ⭐ Reading Fluency and Automaticity
+- ⭐ Critical Reading and Source Evaluation
+- ⭐ Reading for Transfer and Application
+- ⭐ Reading in the Digital Age (Hypertext, Multimodal Texts)
+- ⭐ Reading and Working Memory Load
+- ⭐ Reading and Prior Knowledge Activation
+- ⭐ Reading Motivation and Engagement
+- ⭐ Reading Strategies for Different Text Types
 
 ### 5.4 Problem-Solving Strategies
 
@@ -491,6 +500,20 @@ This is the format for each Topic:
 - ⭐ Personal Knowledge Graphs
 - ⭐ Synthesis as a Learning Output
 - ⭐ Writing as Thinking
+- ⭐ PKM for Creative Work and Idea Generation
+- ⭐ PKM for Research and Academic Work
+- ⭐ PKM for Professional Development and Lifelong Learning
+- ⭐ PKM for Personal Growth and Self-Reflection
+- ⭐ PKM for Collaborative Knowledge Building and Sharing
+- ⭐ PKM and Digital Identity Management
+- ⭐ PKM and Information Ethics (Privacy, Intellectual Property, Digital Footprint)
+- ⭐ PKM and the Future of Work (Remote Work, Knowledge Economy, AI Augmentation)
+- ⭐ PKM and Mental Models — Building a Personal Operating System
+- ⭐ PKM and Cognitive Offloading — When to Rely on External Tools vs. Internal Memory
+- ⭐ PKM and the Extended Mind — How Tools Become Part of Our Cognitive System
+- ⭐ PKM and the Attention Economy — Strategies for Managing Distraction and Information Overload
+- ⭐ PKM and Digital Minimalism — Curating a Focused and Intentional Digital Environment
+- ⭐ PKM and Lifelong Learning — Building a Sustainable Practice for Continuous Growth and Improvement
 
 ---
 
