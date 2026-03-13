@@ -1,0 +1,395 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.976834",
+    "source_file": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+    "source_file_size_bytes": 8123,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "A Curated Inquiry Into Applied Psychology and Philosophy for Personal System Building",
+      "id": "20251028023328",
+      "aliases": [
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": "❔",
+      "rating": [],
+      "created": "2025-10-28T02:33:28",
+      "source": "RSCA-v2.0🆔20251020224705",
+      "url": "❔",
+      "tags": [
+        "source/rsca",
+        "topic",
+        "topic/educational",
+        "topic/rsca"
+      ]
+    },
+    "word_count": 982,
+    "character_count": 7638,
+    "line_count": 121,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 30,
+    "by_type": {
+      "headings": 8,
+      "callouts": 7,
+      "wiki_links": 0,
+      "inline_fields": 2,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 7,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_A-Curated-Inquiry-into-Applied-Psychology-and-Philosophy-for-Personal-System-Building_🆔20251028023308",
+      "anchor": "topicsa-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building20251028023308",
+      "line_number": 24,
+      "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🧠 The Metacognitive Engine: Integrating Self-Awareness, Learning, and Behavioral Control",
+          "anchor": "the-metacognitive-engine-integrating-self-awareness-learning-and-behavioral-control",
+          "line_number": 41,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🛠️ The Pragmatist's Toolkit: Synthesizing Stoic Control with Constructivist Learning",
+          "anchor": "the-pragmatists-toolkit-synthesizing-stoic-control-with-constructivist-learning",
+          "line_number": 57,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔄 The Action-Reflection Loop: From Experiential Learning to Professional Artistry",
+          "anchor": "the-action-reflection-loop-from-experiential-learning-to-professional-artistry",
+          "line_number": 73,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🧭 The Resilient Mind: The Stoic Dichotomy of Control as a Behavioral Management Tool",
+          "anchor": "the-resilient-mind-the-stoic-dichotomy-of-control-as-a-behavioral-management-tool",
+          "line_number": 89,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔥 The Engine of Change: Connecting Motivational Psychology to Sustained Self-Regulation",
+          "anchor": "the-engine-of-change-connecting-motivational-psychology-to-sustained-self-regulation",
+          "line_number": 105,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚖️ The Evaluative Framework: The Function of Critical Thinking in a Pragmatic System",
+          "anchor": "the-evaluative-framework-the-function-of-critical-thinking-in-a-pragmatic-system",
+          "line_number": 121,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 133,
+      "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set is designed to provide a comprehensive overview of the key psychological, philosophical, and educational theories central to building a robust personal development framework. The central goal is to move beyond mere definitions and explore the *synthesis* and *practical application* of these powerful ideas. The topics investigate how concepts from Pragmatism, Stoicism, and constructivist learning theory can be integrated into a single, coherent \"system of thought.\" They explore the core *mechanisms* of change, such as metacognition, motivational psychology, and self-behavioral management. Finally, this set examines the functional role of critical thinking and reflective practice as the \"engine\" that drives and refines this personal system, helping you achieve your goal of enhanced self-development and resilience.",
+        "line_number": 32,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+        "char_start": 719,
+        "char_end": 1577
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 39,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+        "char_start": 1631,
+        "char_end": 1647
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 55,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+        "char_start": 2578,
+        "char_end": 2594
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 71,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+        "char_start": 3458,
+        "char_end": 3474
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 87,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+        "char_start": 4386,
+        "char_end": 4402
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 103,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+        "char_start": 5229,
+        "char_end": 5245
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 119,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md",
+        "char_start": 6118,
+        "char_end": 6134
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [
+      {
+        "field_name": "completion",
+        "value": "2025-11-03",
+        "format": "bracket",
+        "line_number": 37,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-11-07",
+        "format": "bracket",
+        "line_number": 85,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_A-Curated-Inquiry-into-Applied-Psychology-and-Philosophy-for-Personal-System-Building_🆔20251028023308",
+        "anchor": "topicsa-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building20251028023308",
+        "line_number": 24,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "level": 2,
+        "text": "🧠 The Metacognitive Engine: Integrating Self-Awareness, Learning, and Behavioral Control",
+        "anchor": "the-metacognitive-engine-integrating-self-awareness-learning-and-behavioral-control",
+        "line_number": 41,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "level": 2,
+        "text": "🛠️ The Pragmatist's Toolkit: Synthesizing Stoic Control with Constructivist Learning",
+        "anchor": "the-pragmatists-toolkit-synthesizing-stoic-control-with-constructivist-learning",
+        "line_number": 57,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 The Action-Reflection Loop: From Experiential Learning to Professional Artistry",
+        "anchor": "the-action-reflection-loop-from-experiential-learning-to-professional-artistry",
+        "line_number": 73,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "level": 2,
+        "text": "🧭 The Resilient Mind: The Stoic Dichotomy of Control as a Behavioral Management Tool",
+        "anchor": "the-resilient-mind-the-stoic-dichotomy-of-control-as-a-behavioral-management-tool",
+        "line_number": 89,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "level": 2,
+        "text": "🔥 The Engine of Change: Connecting Motivational Psychology to Sustained Self-Regulation",
+        "anchor": "the-engine-of-change-connecting-motivational-psychology-to-sustained-self-regulation",
+        "line_number": 105,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "level": 2,
+        "text": "⚖️ The Evaluative Framework: The Function of Critical Thinking in a Pragmatic System",
+        "anchor": "the-evaluative-framework-the-function-of-critical-thinking-in-a-pragmatic-system",
+        "line_number": 121,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 133,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "markdown",
+        "code": "A Comprehensive Analysis of Metacognition as the Central Integrating Mechanism for Personal Development, Examining How Metacognitive Strategies Operationalize Constructivist Learning, Critical Thinking, and Self-Behavioral-Management",
+        "line_start": 47,
+        "line_end": 49,
+        "char_count": 233,
+        "line_count": 1,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Synthetic Analysis of Pragmatist Philosophy as a Framework for Integrating the Psychological Resilience of Stoicism with the Adaptive Learning Models of Constructivism for Practical Self-Development",
+        "line_start": 63,
+        "line_end": 65,
+        "char_count": 200,
+        "line_count": 1,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Methodological Examination of Experiential Learning Models as the Foundational Process for Developing \"Professional Artistry,\" Analyzing the Role of Reflective Practice in Transforming Experience into Actionable Knowledge",
+        "line_start": 79,
+        "line_end": 81,
+        "char_count": 223,
+        "line_count": 1,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Critical Analysis of the Stoic Dichotomy of Control as a Foundational Metacognitive Strategy for Enhancing Self-Behavioral-Management, Psychological Resilience, and Motivational Fortitude",
+        "line_start": 95,
+        "line_end": 97,
+        "char_count": 189,
+        "line_count": 1,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "language": "markdown",
+        "code": "An Investigation into the Synergistic Relationship Between Motivational Psychology and Self-Behavioral-Management, Analyzing How Theoretical Motivators Can Be Practically Harnessed to Drive and Sustain Personal Development Initiatives",
+        "line_start": 111,
+        "line_end": 113,
+        "char_count": 234,
+        "line_count": 1,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Functional Analysis of Critical Thinking Skills (Analysis, Inference, Evaluation) as the Core Evaluative Mechanism for a Pragmatically-Oriented Personal Development System, Focusing on How to Objectively Measure and Refine Psychological Tools",
+        "line_start": 127,
+        "line_end": 129,
+        "char_count": 244,
+        "line_count": 1,
+        "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[x] **Used?**  [completion:: 2025-11-03]",
+          "indent_level": 1,
+          "line_number": 36,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+        },
+        {
+          "text": "[x] **Used?**  [completion:: 2025-11-07]",
+          "indent_level": 1,
+          "line_number": 75,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+        },
+        {
+          "text": "**Specific Models of Experiential Learning:** A deep dive into David Kolb's Learning Cycle or Donald Schön's \"Reflection-in-Action\" as specific, actionable models.",
+          "indent_level": 1,
+          "line_number": 107,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+        },
+        {
+          "text": "**Self-Determination Theory (SDT):** A core theory in motivational psychology focusing on the three essential needs: **Autonomy, Competence, and Relatedness.**",
+          "indent_level": 1,
+          "line_number": 112,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+        },
+        {
+          "text": "**Cognitive Behavioral Therapy (CBT):** A practical, therapeutic framework that directly applies many of these concepts (metacognition, self-behavioral-management) to change negative thought patterns.",
+          "indent_level": 1,
+          "line_number": 112,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+        },
+        {
+          "text": "**Models of Self-Regulation:** A closer look at specific frameworks like Bandura's social cognitive theory or Carver and Scheier's control-theory model of self-regulation.",
+          "indent_level": 1,
+          "line_number": 123,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+        },
+        {
+          "text": "**Acceptance and Commitment Therapy (ACT):** A modern psychological approach that blends metacognitive awareness and values-based action in a way that is highly compatible with Stoic principles.",
+          "indent_level": 1,
+          "line_number": 123,
+          "source": "topic-set_a-curated-inquiry-into-applied-psychology-and-philosophy-for-personal-system-building_🆔20251028023308.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

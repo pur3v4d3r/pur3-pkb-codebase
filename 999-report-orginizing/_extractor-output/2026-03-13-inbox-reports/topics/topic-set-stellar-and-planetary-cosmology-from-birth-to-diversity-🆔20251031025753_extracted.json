@@ -1,0 +1,389 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.957223",
+    "source_file": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+    "source_file_size_bytes": 7323,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Stellar and Planetary Cosmology From Birth to Diversity",
+      "id": "20251031025807",
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": "❔",
+      "created": "2025-10-31T02:58:07",
+      "source": "RSCA-v2.0🆔20251020224705",
+      "url": "❔",
+      "tags": [
+        "topic",
+        "topic/educational",
+        "topic/rsca",
+        "source/rsca",
+        "topic/"
+      ]
+    },
+    "word_count": 1056,
+    "character_count": 6961,
+    "line_count": 114,
+    "heading_count": 7
+  },
+  "extraction_summary": {
+    "total_items_extracted": 31,
+    "by_type": {
+      "headings": 7,
+      "callouts": 7,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 11,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 2,
+      "text": "🌌 The Stellar Nursery: How Stars Forge Worlds",
+      "anchor": "the-stellar-nursery-how-stars-forge-worlds",
+      "line_number": 32,
+      "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🪐 The Exoplanet Hunt: Unveiling Alien Worlds",
+      "anchor": "the-exoplanet-hunt-unveiling-alien-worlds",
+      "line_number": 47,
+      "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "💥 Cosmic Forges: How Dying Stars Create the Elements of Life",
+      "anchor": "cosmic-forges-how-dying-stars-create-the-elements-of-life",
+      "line_number": 63,
+      "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "habitable: The Search for Goldilocks Worlds",
+      "anchor": "habitable-the-search-for-goldilocks-worlds",
+      "line_number": 79,
+      "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "⚖️ The Solar System's Architect: Jupiter's Role as Protector and Disruptor",
+      "anchor": "the-solar-systems-architect-jupiters-role-as-protector-and-disruptor",
+      "line_number": 95,
+      "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "⏳ Measuring the Heavens: The Stellar \"Clocks\" That Define the Cosmos",
+      "anchor": "measuring-the-heavens-the-stellar-clocks-that-define-the-cosmos",
+      "line_number": 111,
+      "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Further Exploration",
+          "anchor": "further-exploration",
+          "line_number": 123,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set explores the intersection of cosmology, stellar astrophysics, and planetary science, tailored for a non-expert audience. The topics move beyond simple definitions to investigate the *processes* that govern the lives of stars and planets. They cover the lifecycle of stars from their birth in nebulae to their dramatic deaths, the fascinating methods used to discover and characterize planets outside our solar system (exoplanets), and the profound connection between stellar death and the chemical ingredients necessary for life. Each topic is designed to be explored in depth, examining its history, underlying principles, observational evidence, and broader significance for understanding our place in the cosmos.",
+        "line_number": 23,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+        "char_start": 392,
+        "char_end": 1142
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 30,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+        "char_start": 1169,
+        "char_end": 1185
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 45,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+        "char_start": 2013,
+        "char_end": 2029
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 61,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+        "char_start": 2867,
+        "char_end": 2883
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 77,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+        "char_start": 3716,
+        "char_end": 3732
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 93,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+        "char_start": 4580,
+        "char_end": 4596
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 109,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md",
+        "char_start": 5469,
+        "char_end": 5485
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 2,
+        "text": "🌌 The Stellar Nursery: How Stars Forge Worlds",
+        "anchor": "the-stellar-nursery-how-stars-forge-worlds",
+        "line_number": 32,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      },
+      {
+        "level": 2,
+        "text": "🪐 The Exoplanet Hunt: Unveiling Alien Worlds",
+        "anchor": "the-exoplanet-hunt-unveiling-alien-worlds",
+        "line_number": 47,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      },
+      {
+        "level": 2,
+        "text": "💥 Cosmic Forges: How Dying Stars Create the Elements of Life",
+        "anchor": "cosmic-forges-how-dying-stars-create-the-elements-of-life",
+        "line_number": 63,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      },
+      {
+        "level": 2,
+        "text": "habitable: The Search for Goldilocks Worlds",
+        "anchor": "habitable-the-search-for-goldilocks-worlds",
+        "line_number": 79,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      },
+      {
+        "level": 2,
+        "text": "⚖️ The Solar System's Architect: Jupiter's Role as Protector and Disruptor",
+        "anchor": "the-solar-systems-architect-jupiters-role-as-protector-and-disruptor",
+        "line_number": 95,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      },
+      {
+        "level": 2,
+        "text": "⏳ Measuring the Heavens: The Stellar \"Clocks\" That Define the Cosmos",
+        "anchor": "measuring-the-heavens-the-stellar-clocks-that-define-the-cosmos",
+        "line_number": 111,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      },
+      {
+        "level": 3,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 123,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "A Comprehensive Analysis of Stellar and Planetary Co-Formation, Investigating the Gravitational Collapse of Molecular Clouds, the Mechanics of Protostellar Ignition, and the Evolution of Protoplanetary Disks into Coherent Solar Systems",
+        "line_start": 37,
+        "line_end": 39,
+        "char_count": 235,
+        "line_count": 1,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "An Investigation into the Primary Methodologies of Exoplanet Detection, Analyzing the Principles of Transit Photometry and Radial Velocity Spectroscopy, and Examining What the Resulting Planetary Demographics Reveal About Solar System Formation Theories",
+        "line_start": 53,
+        "line_end": 55,
+        "char_count": 253,
+        "line_count": 1,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A Detailed Examination of Stellar Nucleosynthesis and Death, Charting the Fusion Processes within Star Cores and the Dispersal of Heavy Elements via Supernovae and Planetary Nebulae, and Analyzing Their Role as the Chemical Origin of Life",
+        "line_start": 69,
+        "line_end": 71,
+        "char_count": 238,
+        "line_count": 1,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A Conceptual Analysis of Stellar Habitable Zones and Planetary Habitability, Exploring the Astrophysical and Geochemical Factors that Define the Goldilocks Zone and Assessing the Methodologies Used to Identify and Characterize Potentially Life-Bearing Exoplanets",
+        "line_start": 85,
+        "line_end": 87,
+        "char_count": 262,
+        "line_count": 1,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "An Analysis of the Gravitational Influence of Gas Giant Planets on Solar System Architecture, Using Jupiter as a Case Study to Explore Theories of Planetary Migration and Its Dual Role in Both Shielding and Shaping the Inner Planets",
+        "line_start": 101,
+        "line_end": 103,
+        "char_count": 232,
+        "line_count": 1,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "An Examination of \"Standard Candles\" in Cosmology, Focusing on the Physical Mechanisms of Cepheid Variables and Type Ia Supernovae, and How Their Predictable Brightness Provides the Foundation for Measuring Cosmic Distances and the Expansion of the Universe",
+        "line_start": 117,
+        "line_end": 119,
+        "char_count": 257,
+        "line_count": 1,
+        "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 27,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 38,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 49,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 65,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 70,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 81,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+        },
+        {
+          "text": "**Brown Dwarfs:** The fascinating \"failed stars\" that blur the line between a giant gas planet and a small star.",
+          "indent_level": 1,
+          "line_number": 97,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+        },
+        {
+          "text": "**Stellar Populations:** The idea that stars come in different \"generations\" (Population I, II, and III) that tell the story of the universe's chemical enrichment over time.",
+          "indent_level": 1,
+          "line_number": 97,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+        },
+        {
+          "text": "**The Oort Cloud and Kuiper Belt:** The reservoirs of comets and icy bodies at the edge of our own solar system that hold clues to its formation.",
+          "indent_level": 1,
+          "line_number": 102,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+        },
+        {
+          "text": "**Astrobiology:** The interdisciplinary field that moves beyond just finding habitable planets to speculate on the potential biochemistry of alien life.",
+          "indent_level": 1,
+          "line_number": 102,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+        },
+        {
+          "text": "**Planetary Atmospheres:** The study of the \"air\" on other worlds and how telescopes like the James Webb Space Telescope are beginning to analyze them for signs of life (biosignatures).",
+          "indent_level": 1,
+          "line_number": 113,
+          "source": "topic-set-stellar-and-planetary-cosmology-from-birth-to-diversity-🆔20251031025753.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

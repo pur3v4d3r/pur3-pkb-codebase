@@ -1,0 +1,1267 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:22.594741",
+    "source_file": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\01-cognitive-science\\-reports\\cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+    "source_file_size_bytes": 26649,
+    "processing_time_seconds": 0.005
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "First Priciples Reconstruction: Self Determination Theory",
+      "id": "20251121232458",
+      "type": "cog-psy/report",
+      "status": "not-read",
+      "source": "gemini-pro-3.0",
+      "year": "[[2025]]",
+      "tags": [
+        "cognitive-science",
+        "project/pur3v4d3r",
+        "year/2025",
+        "self-improvement",
+        "pkb/maintenance/refactoring",
+        "pkb/maintenance/cleanup",
+        "learning-theory",
+        "self-improvement/growth-mindset",
+        "self-regulation/motivation/intrinsic",
+        "cognitive-science/reasoning/deductive"
+      ],
+      "aliases": [
+        "First Priciples Self-Determination,Self-determination,The Physics of Volition,Organismic Integration Logic,Axiomatic Motivation"
+      ],
+      "link-up": [
+        "[[project-pur3v4d3r-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-21|Daily-Note]]"
+      ]
+    },
+    "word_count": 3860,
+    "character_count": 25911,
+    "line_count": 421,
+    "heading_count": 34
+  },
+  "extraction_summary": {
+    "total_items_extracted": 101,
+    "by_type": {
+      "headings": 34,
+      "callouts": 48,
+      "wiki_links": 9,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 1,
+      "external_links": 4,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 1,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 4
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "First Principles Reconstruction: Self-Determination Theory",
+      "anchor": "first-principles-reconstruction-self-determination-theory",
+      "line_number": 30,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "First Principles Reconstruction: Self-Determination Theory",
+      "anchor": "first-principles-reconstruction-self-determination-theory",
+      "line_number": 36,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "1.0 🎭 The Received Wisdom",
+      "anchor": "10-the-received-wisdom",
+      "line_number": 61,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "1.1 Conventional Understanding",
+          "anchor": "11-conventional-understanding",
+          "line_number": 63,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "1.2 The Inherited Framework",
+          "anchor": "12-the-inherited-framework",
+          "line_number": 76,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "1.3 The Need for Deconstruction",
+          "anchor": "13-the-need-for-deconstruction",
+          "line_number": 98,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "2.0 🧹 Systematic Deconstruction",
+      "anchor": "20-systematic-deconstruction",
+      "line_number": 115,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "2.1 Cartesian Doubt: What Can We Question?",
+          "anchor": "21-cartesian-doubt-what-can-we-question",
+          "line_number": 117,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "2.2 Stripping to Bedrock",
+          "anchor": "22-stripping-to-bedrock",
+          "line_number": 146,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "2.3 The Conceptual Inventory",
+          "anchor": "23-the-conceptual-inventory",
+          "line_number": 163,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "3.0 🏗️ Foundational Architecture",
+      "anchor": "30-foundational-architecture",
+      "line_number": 180,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "3.1 First Principles: The Axioms",
+          "anchor": "31-first-principles-the-axioms",
+          "line_number": 182,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "3.2 The Logical Framework",
+          "anchor": "32-the-logical-framework",
+          "line_number": 208,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "4.0 🔨 Progressive Reconstruction",
+      "anchor": "40-progressive-reconstruction",
+      "line_number": 234,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "4.1 Level 1: Deriving the Three Needs",
+          "anchor": "41-level-1-deriving-the-three-needs",
+          "line_number": 236,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "4.2 Level 2: The Spectrum of Motivation",
+          "anchor": "42-level-2-the-spectrum-of-motivation",
+          "line_number": 265,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "4.3 Level 3: The Dynamics of Vitality",
+          "anchor": "43-level-3-the-dynamics-of-vitality",
+          "line_number": 289,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "5.0 🔍 Verification & Validation",
+      "anchor": "50-verification-validation",
+      "line_number": 314,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "5.1 Completeness Check",
+          "anchor": "51-completeness-check",
+          "line_number": 316,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "5.2 Consistency Check",
+          "anchor": "52-consistency-check",
+          "line_number": 324,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "6.0 💎 Insights From First Principles",
+      "anchor": "60-insights-from-first-principles",
+      "line_number": 332,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "6.1 What the Reconstruction Reveals",
+          "anchor": "61-what-the-reconstruction-reveals",
+          "line_number": 334,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "6.2 Hidden Assumptions Exposed",
+          "anchor": "62-hidden-assumptions-exposed",
+          "line_number": 344,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "7.0 🚀 Applications & Extensions",
+      "anchor": "70-applications-extensions",
+      "line_number": 354,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "7.1 Novel Problems",
+          "anchor": "71-novel-problems",
+          "line_number": 356,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "7.2 Cross-Domain Insights",
+          "anchor": "72-cross-domain-insights",
+          "line_number": 364,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "8.0 🔄 Comparing Approaches",
+      "anchor": "80-comparing-approaches",
+      "line_number": 376,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "8.1 First Principles vs. Conventional Learning",
+          "anchor": "81-first-principles-vs-conventional-learning",
+          "line_number": 378,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "8.2 The Effort-Understanding Tradeoff",
+          "anchor": "82-the-effort-understanding-tradeoff",
+          "line_number": 390,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "9.0 🧠 Meta-Cognitive Reflection",
+      "anchor": "90-meta-cognitive-reflection",
+      "line_number": 398,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "9.1 The Reconstruction Experience",
+          "anchor": "91-the-reconstruction-experience",
+          "line_number": 400,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "9.2 Ownership of Knowledge",
+          "anchor": "92-ownership-of-knowledge",
+          "line_number": 406,
+          "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "10.0 🦕 Conclusion",
+      "anchor": "100-conclusion",
+      "line_number": 414,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "11.0 📚 References & Resources",
+      "anchor": "110-references-resources",
+      "line_number": 423,
+      "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "pre-read-questions",
+        "title": "Untitled",
+        "body": "**Foundational Inquiries:**\n\n  - Is \"motivation\" a fuel we pour into people, or a native state we block?\n  - Why do external rewards (money, grades) often degrade performance on creative tasks?\n  - If humans are evolved for survival, why do we engage in play, art, and curiosity which have no immediate caloric payoff?\n  - Can we derive the psychological needs (Autonomy, Competence, Relatedness) from biology and physics rather than just observation?",
+        "line_number": 45,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 1545,
+        "char_end": 2032
+      },
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "**Overview of the Reconstruction:**\nConventionally, Self-Determination Theory (SDT) is taught as a validated framework consisting of three \"basic needs\": Autonomy, Competence, and Relatedness. It is typically presented as a softer, humanistic alternative to Behaviorism. However, to truly understand SDT, we must look past the list of needs and examine the *meta-theory*: Organismic Integration Theory. This reconstruction argues that SDT is not merely a psychological preference but a biological imperative derived from the definition of life itself—specifically, the struggle against entropy. By starting with the axioms of thermodynamics and evolutionary biology, we will prove that \"motivation\" is simply the manifestation of the organism's negentropic drive to structure itself and its environment. We will move from the physics of life to the psychology of volition, rebuilding the \"Basic Needs\" not as nice-to-haves, but as essential nutrient requirements for psychological integrity.",
+        "line_number": 55,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 2040,
+        "char_end": 3050
+      },
+      {
+        "type": "description",
+        "title": "Untitled",
+        "body": "**The Standard Pedagogical Model:**\nIn psychology textbooks and management seminars, Self-Determination Theory is usually presented as a tripartite pyramid or a Venn diagram. The standard explanation posits that human beings have three innate psychological needs. First is Autonomy, the need to feel in control of one's own behaviors and goals. Second is Competence, the need to gain mastery of tasks and learn different skills. Third is Relatedness, the need to experience a sense of belonging and attachment to other people. The conventional wisdom suggests that when these three buckets are filled, people are \"intrinsically motivated,\" meaning they do things for the sheer joy of it. Conversely, when these needs are thwarted, people become \"extrinsically motivated\" or amotivated, relying on external regulators like paychecks, punishments, or social pressure. The theory is often juxtaposed against B.F. Skinner’s Operant Conditioning, framed as the \"modern\" view that treats humans as more than just lab rats responding to stimuli.",
+        "line_number": 65,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 3122,
+        "char_end": 4182
+      },
+      {
+        "type": "quote",
+        "title": "Untitled",
+        "body": "\"Self-Determination Theory (SDT) is an empirically based theory of human motivation, development, and wellness. The theory focuses on types, rather than just amount, of motivation, paying particular attention to autonomous motivation, controlled motivation, and amotivation as predictors of performance, relational, and well-being outcomes.\" — **Center for Self-Determination Theory**",
+        "line_number": 69,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 4183,
+        "char_end": 4581
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "**The Orthodox Interpretation:**\nThis quote represents the functionalist view: SDT is a \"tool\" for predicting outcomes. We accept the three needs because they correlate with good data (wellness, performance). We rarely ask *why* these specific three exist, or if they are reducible to something simpler.",
+        "line_number": 72,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 4582,
+        "char_end": 4907
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Standard Claims:**\n\n1.  **The Quantitative Fallacy:** Most laypeople believe motivation is an amount (e.g., \"I need *more* motivation\"). SDT nuances this by saying quality matters more than quantity, yet the \"gas tank\" metaphor persists in culture.\n2.  **The Additive Assumption:** We tend to believe that if you have intrinsic motivation and add extrinsic rewards (money), you get *super* motivation. (Standard SDT refutes this, but it remains common knowledge).\n3.  **The Universal List:** We accept Autonomy, Competence, and Relatedness as a \"Magic List\" simply because researchers found them through factor analysis, effectively treating them as irreducible atoms of psychology.",
+        "line_number": 80,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 5214,
+        "char_end": 5923
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Standard Definitions:**\n\n  - **[[Intrinsic Motivation]]:** Doing something because it is inherently interesting or enjoyable.\n  - **[[Extrinsic Motivation]]:** Doing something because it leads to a separable outcome.\n  - **[[Internalization]]:** The process of taking in values from the outside world.",
+        "line_number": 87,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 5924,
+        "char_end": 6253
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**What We Accept on Authority:**\nWe accept the list of three needs as dogma. Why three? Why not four? Why not two? Why is \"Status\" not a basic need? Why is \"Security\" not a basic need? The standard curriculum relies on empirical validation (it works in studies) rather than logical derivation (it *must* be this way due to the nature of the organism). We are memorizing the symptoms of a healthy psyche rather than understanding the anatomy of the psyche itself.",
+        "line_number": 94,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 6254,
+        "char_end": 6734
+      },
+      {
+        "type": "question",
+        "title": "Untitled",
+        "body": "**Uncomfortable Questions:**\n\n  - If evolution is about survival of the fittest, why would a \"need for autonomy\" evolve if complying with a strong leader often yields better survival odds?\n  - Is \"Competence\" distinct from the biological drive for efficiency?\n  - Can we reduce \"Relatedness\" to a mere survival calculation, or is it structurally necessary for the self?",
+        "line_number": 102,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 7123,
+        "char_end": 7516
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**The Gap:**\nWe know *that* humans wither without autonomy, just as we know plants wither without sunlight. But we understand the photosynthesis behind the plant's need. We rarely understand the \"psychological photosynthesis\" behind the human need for self-determination. We lack the mechanism.",
+        "line_number": 109,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 7517,
+        "char_end": 7829
+      },
+      {
+        "type": "the-philosophy",
+        "title": "Untitled",
+        "body": "**Applying Methodical Doubt:**\n*\"I will suspend my belief in 'psychology' entirely and view the human being strictly as a biological system governed by physics and evolutionary logic.\"*",
+        "line_number": 121,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 8091,
+        "char_end": 8301
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Untitled",
+        "body": "**Testing the \"Three Needs\":**\n\n  - **Conventional Claim:** *Humans have a fundamental need for Autonomy.*\n\n      - *Can this be doubted?* Yes. Soldiers, monks, and employees often seek strict structures to reduce the anxiety of choice. Total freedom can be paralyzing (The Paradox of Choice). Therefore, \"Autonomy\" must mean something more precise than just \"freedom.\"\n      - *Assumptions:* It assumes the \"Self\" is a pre-existing entity that wants to be free.\n\n  - **Conventional Claim:** *Humans have a fundamental need for Competence.*\n\n      - *Can this be doubted?* Harder to doubt, but is it unique to humans? A bacteria adjusting to a chemical gradient is displaying competence. This suggests the need is biological, not just psychological.\n\n  - **Conventional Claim:** *Humans have a fundamental need for Relatedness.*\n\n      - *Can this be doubted?* Hermits exist. Psychopaths exist. If it were a \"law\" like gravity, there would be no exceptions. The \"need\" must be a conditional requirement for a specific *type* of flourishing, not existence itself.",
+        "line_number": 125,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 8302,
+        "char_end": 9410
+      },
+      {
+        "type": "analysis-logical",
+        "title": "Untitled",
+        "body": "**Dependency Structure:**\nThe conventional model says: `Environment -> Needs Support -> Motivation -> Well-being`.\nThe deconstruction asks: What is the `Organism` such that it *has* needs? The \"Needs\" are not the bottom layer. The `Nature of Life` is the bottom layer. The needs are derived from the organism's requirement to maintain its structure against entropy.",
+        "line_number": 141,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 9411,
+        "char_end": 9805
+      },
+      {
+        "type": "atomic-concept",
+        "title": "Untitled",
+        "body": "**Irreducible Elements:**\n\nAfter stripping away \"motivation\" and \"happiness,\" we are left with these biological truths:\n\n1.  **Entropy ($S$):** The universe tends toward disorder.\n2.  **Negentropy ($J$):** Living systems must export entropy to maintain internal order. They must take in energy and information to sustain their structure.\n3.  **differentiation ($D$):** For an organism to exist, it must define a boundary between \"Self\" and \"Non-Self.\"",
+        "line_number": 150,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 10004,
+        "char_end": 10488
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**The Axiomatic Foundation:**\nWe do not need to accept \"Autonomy\" as a magical psychological gift. We only need to accept that life requires **Self-Organization**. If a system ceases to organize itself, it ceases to be alive (it reaches thermal equilibrium with the environment, i.e., death).",
+        "line_number": 159,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 10489,
+        "char_end": 10806
+      },
+      {
+        "type": "key",
+        "title": "Untitled",
+        "body": "**Our Starting Resources:**\n\n  - **The Second Law of Thermodynamics:** $\\Delta S_{universe} > 0$.\n  - **Homeostasis/Allostasis:** The active regulation of internal states.\n  - **Evolutionary Selection:** Traits that enhance survival probability are conserved.",
+        "line_number": 167,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 10923,
+        "char_end": 11201
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**The Challenge:**\nCan we prove that a human being *must* care about \"competence\" simply because they are a negentropic system? Yes. If an organism cannot effectively manipulate its environment to acquire resources, its internal entropy increases until death. Competence is the psychological experiential correlate of survival efficiency.",
+        "line_number": 174,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 11202,
+        "char_end": 11562
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Axiom 1: The Organismic Imperative (Negentropy)**\n\n  - **Statement:** Living systems are actively self-organizing; they work to maintain internal structure against the dissipative force of entropy.\n  - **Why Axiomatic:** It is the physical definition of life.\n  - **Manifestation:** A cell repairing its wall; a human seeking food; a mind seeking coherence. The default state of life is *activity*, not passivity.\n  - **Implication:** Motivation is not \"added\" to the system; the system *is* motivation. The state of being alive is a state of \"doing.\"",
+        "line_number": 186,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 11747,
+        "char_end": 12333
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Axiom 2: The Differentiation Necessity**\n\n  - **Statement:** To organize itself, a system must distinguish between its internal regulatory processes (Self) and external forces (Environment).\n  - **Why Axiomatic:** Without a boundary, there is no system, only a homogeneous medium.\n  - **Manifestation:** The immune system distinguishing self from pathogen; the psyche distinguishing \"my desire\" from \"your command.\"",
+        "line_number": 194,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 12334,
+        "char_end": 12782
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Axiom 3: The Social-Ecological Integration**\n\n  - **Statement:** Humans are an obligatorily gregarious species; our \"environment\" is primarily composed of other humans.\n  - **Why Axiomatic:** Human infants cannot survive alone. Our evolutionary niche is the \"cognitive group.\"\n  - **Manifestation:** We rely on social transmission for survival data (language, culture, tools).",
+        "line_number": 201,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 12783,
+        "char_end": 13192
+      },
+      {
+        "type": "cosmos-concept",
+        "title": "Untitled",
+        "body": "**The Derivation Architecture:**",
+        "line_number": 212,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 13402,
+        "char_end": 13457
+      },
+      {
+        "type": "phase-one",
+        "title": "Untitled",
+        "body": "**First-Order Theorems: The Origin of Needs**",
+        "line_number": 240,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 14121,
+        "char_end": 14184
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Theorem 1.1: Derivation of Competence**\n\n  - **Derivation:** From Axiom 1 (Negentropy), the organism must import energy to survive. To import energy, it must successfully manipulate its environment (hunting, gathering, solving). Therefore, the organism must seek *effectance*—the capacity to interact effectively with the world.\n  - **Conclusion:** The psychological experience of this biological necessity is the **Need for Competence**. It is the feedback signal that the organism is viable.",
+        "line_number": 243,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 14185,
+        "char_end": 14703
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Theorem 1.2: Derivation of Autonomy**\n\n  - **Derivation:** From Axiom 2 (Differentiation), the organism must regulate itself. If the organism's behavior is controlled entirely by external forces (like a rock kicked by a foot), it loses its distinct organization. To be a \"Self,\" the locus of causality for action must be internal.\n  - **Conclusion:** The psychological experience of regulating one's own state is the **Need for Autonomy**. This is not \"freedom from rules\"; it is \"volition in action.\" It is the integrity of the self-boundary.",
+        "line_number": 249,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 14704,
+        "char_end": 15272
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Theorem 1.3: Derivation of Relatedness**\n\n  - **Derivation:** From Axiom 3 (Social Obligation), the human organism's survival depends on group protection and shared resources. Isolation leads to death (historically). Therefore, the organism must seek proximity and cohesion with the group without dissolving the self (Axiom 2).\n  - **Conclusion:** The psychological experience of this safety-in-numbers is the **Need for Relatedness**.",
+        "line_number": 255,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 15273,
+        "char_end": 15733
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**What We've Achieved:**\nWe have proven that Autonomy, Competence, and Relatedness are not arbitrary \"nice-to-haves.\" They are the *necessary conditions* for a social, self-organizing system to maintain structural integrity.",
+        "line_number": 261,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 15734,
+        "char_end": 15976
+      },
+      {
+        "type": "phase-two",
+        "title": "Untitled",
+        "body": "**Second-Order Derivations: Locus of Causality**",
+        "line_number": 269,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 16109,
+        "char_end": 16175
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**The PLOC (Perceived Locus of Causality):**\nUsing Axiom 2 (Differentiation), we can grade motivation by where the \"cause\" is located.\n\n1.  **External Regulation:** The cause is wholly outside (rewards/punishments). This violates Axiom 2 (Self-regulation). The organism acts, but not as a Self. (Compliance).\n2.  **Introjected Regulation:** The cause is outside, but swallowed whole. \"I *should* do this or I am bad.\" The alien constraint is inside the boundary but clashing with the Self. (Guilt/Ego).\n3.  **Identified Regulation:** The cause is external, but the Self accepts its value. \"I exercise because health is important to me.\" The boundary is permeable but the Self approves. (Valuation).\n4.  **Intrinsic Regulation:** The cause is wholly inside. The activity satisfies Axiom 1 (Activity) directly. (Enjoyment).",
+        "line_number": 272,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 16176,
+        "char_end": 17027
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Organismic Digestion:**\nThink of external rules like food.\n\n  - **External Regulation:** Force-feeding. The body rejects it or processes it poorly.\n  - **Introjection:** Swallowing a rock. It's inside you, but it's not *of* you. It causes indigestion (anxiety).\n  - **Integration:** Digestion. You break the food down and rebuild it into your own cells. The rule becomes part of your body. This is true **Autonomy**.",
+        "line_number": 281,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 17028,
+        "char_end": 17475
+      },
+      {
+        "type": "phase-three",
+        "title": "Untitled",
+        "body": "**Third-Order Synthesis: The Overjustification Effect**",
+        "line_number": 293,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 17607,
+        "char_end": 17682
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Theorem 3.1: The Displacement of Causality**\n\n  - **Statement:** Introducing a contingent extrinsic reward (money) for an intrinsically motivated task reduces future motivation.\n  - **Derivation:**\n    1.  The organism initially acts from an Internal Locus of Causality (Axiom 2).\n    2.  An external controller is introduced (\"If you do X, you get Money\").\n    3.  The salient cause of the behavior shifts from \"Me\" to \"The Money.\"\n    4.  The Locus of Causality shifts from Internal to External.\n    5.  The \"Self\" disengages because it is no longer the author of the act.\n    6.  Motivation drops to the level of compliance.",
+        "line_number": 296,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 17683,
+        "char_end": 18347
+      },
+      {
+        "type": "evidence",
+        "title": "Untitled",
+        "body": "**Empirical Validation:**\nThis explains the famous 1971 Deci experiment where participants paid to solve puzzles later stopped solving them during free time, while unpaid participants kept playing. The reward shifted the locus of causality, effectively \"offloading\" the volition to the environment.",
+        "line_number": 308,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 18348,
+        "char_end": 18665
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Untitled",
+        "body": "**Testing Completeness:**\n\n  - *Can I explain addiction?* Yes. Addiction mimics \"Relatedness\" and \"Competence\" (dopaminergic spikes) but erodes \"Autonomy\" (loss of control). It is a \"nutritious-tasting\" poison that leads to organismic entropy.\n  - *Can I explain burnout?* Burnout is the depletion of energy caused by prolonged \"Introjected Regulation\"—forcing the Self to act against its nature to avoid guilt or maintain ego, consuming high amounts of metabolic energy for suppression.",
+        "line_number": 318,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 18735,
+        "char_end": 19253
+      },
+      {
+        "type": "analysis-logical",
+        "title": "Untitled",
+        "body": "**Internal Consistency:**\nThe model holds. If we remove \"Relatedness,\" the human organism dies in the wild (Axiom 3 violation). If we remove \"Competence,\" the organism fails to secure food (Axiom 1 violation). If we remove \"Autonomy,\" the organism becomes an automaton, failing to adapt to novel threats (Axiom 2 violation). The system is irreducible.",
+        "line_number": 326,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 19280,
+        "char_end": 19658
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Insight 1: Autonomy is Structure, Not Chaos**\nFrom first principles, we see that Autonomy is not the absence of structure (anarchy), but the *endorsement* of structure. A musician playing a complex score is highly restricted by the notes, yet feels fully autonomous if they *chose* to play. Autonomy is about the *origin* of the action, not the *content* of the action.",
+        "line_number": 336,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 19746,
+        "char_end": 20135
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Insight 2: Motivation is a Vitality Transfer**\nConventional views see motivation as \"effort.\" First principles view it as \"energy throughput.\" Intrinsic motivation is a low-friction state (superconductivity) where energy flows from intent to action with zero resistance. Extrinsic motivation is a high-friction state where energy is wasted fighting internal resistance (I don't want to do this, but I must).",
+        "line_number": 340,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 20136,
+        "char_end": 20563
+      },
+      {
+        "type": "attention",
+        "title": "Untitled",
+        "body": "**Assumptions We've Eliminated:**\n\n  - **The Lazy Human Assumption:** We destroyed the economic idea that humans try to minimize effort (The Principle of Least Effort). Biologically, humans try to *optimize* effectance. We play sports, solve puzzles, and hike mountains. We seek *optimal challenges*, not zero effort.\n  - **The Reward Fallacy:** We exposed that rewards are not \"drivers\" but \"steering mechanisms.\" They can steer behavior, but if they violate the need for autonomy, they drain the fuel tank (vitality).",
+        "line_number": 346,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 20599,
+        "char_end": 21141
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Problem: AI and Human Agency**\n\n  - **Challenge:** As AI becomes more competent than humans, human motivation might collapse.\n  - **First Principles Solution:** If Competence is a survival signal, having an AI do everything creates a \"Competence Crisis.\" However, if we shift the domain of competence from *execution* to *orchestration* (changing the nature of the \"Self's\" boundary), we can preserve motivation. The human must feel they are the *author* (Autonomy) of the AI's output. If the AI is a tool, we thrive. If the AI is an oracle we obey, we wither.",
+        "line_number": 358,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 21207,
+        "char_end": 21790
+      },
+      {
+        "type": "connection-ideas",
+        "title": "Untitled",
+        "body": "**Political Theory:**\nAuthoritarian regimes fail not just because they are \"mean,\" but because they systematically thwart Autonomy and Competence. This creates \"Amotivation\" in the populace, leading to economic stagnation (entropy). Democracy (theoretically) attempts to align the \"State\" with the \"Self\" (Identified Regulation), maintaining higher social vitality.",
+        "line_number": 366,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 21821,
+        "char_end": 22213
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Game Design:**\nGreat games master the flow of information to satisfy needs. A tutorial that holds your hand too long violates Autonomy. A boss that is impossible violates Competence. A single-player game with no leaderboards violates Relatedness. The \"Fun\" is just the biochemical signal of needs satisfaction.",
+        "line_number": 370,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 22214,
+        "char_end": 22544
+      },
+      {
+        "type": "analysis-cognitive",
+        "title": "Untitled",
+        "body": "**Cognitive Differences:**",
+        "line_number": 380,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 22633,
+        "char_end": 22686
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**When to use this View:**\nIf you are designing a simple loyalty program, conventional behaviorism (points = rewards) is faster. If you are designing a culture, a school curriculum, or a long-term retention strategy, you *must* use the First Principles view to avoid the \"hidden tax\" of extrinsic rewards degrading the system over time.",
+        "line_number": 392,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 23264,
+        "char_end": 23622
+      },
+      {
+        "type": "thoughts",
+        "title": "Untitled",
+        "body": "**Personal Reflection:**\nRebuilding SDT from thermodynamics changes the emotional flavor of the theory. It makes \"Autonomy\" feel less like a modern Western luxury and more like a biological imperative, akin to a cell membrane's need to regulate ion flow. It removes the \"softness\" of psychology and replaces it with the \"hardness\" of physics.",
+        "line_number": 402,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 23703,
+        "char_end": 24064
+      },
+      {
+        "type": "feynman-technique",
+        "title": "Untitled",
+        "body": "**The Ultimate Test:**\nImagine explaining this to a physicist: \"Humans are localized pockets of low entropy. To maintain that low entropy, they need to exchange matter and information with the world. 'Competence' is the efficiency of that exchange. 'Autonomy' is the integrity of the pocket's boundary. 'Relatedness' is the networking of multiple pockets to reduce aggregate risk.\"",
+        "line_number": 408,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 24096,
+        "char_end": 24505
+      },
+      {
+        "type": "summary",
+        "title": "Untitled",
+        "body": "We began with the standard view of Self-Determination Theory as a nice list of three needs: Autonomy, Competence, and Relatedness. Through systematic deconstruction, we identified the underlying reality: the human being is a negentropic, self-organizing system evolved to function in social groups. We proved that \"Autonomy\" is the preservation of the self-boundary, \"Competence\" is the necessity of effective interaction with the environment, and \"Relatedness\" is the obligatory interdependence of the species.",
+        "line_number": 416,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 24534,
+        "char_end": 25061
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "**Primary Sources:**\n\n  - [Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness](https://guilford.com) by Ryan, R. M., & Deci, E. L. (2017).\n  - [Schrödinger's \"What is Life?\"](https://cambridge.org) by Erwin Schrödinger (regarding Negentropy).\n  - [Effects of externally mediated rewards on intrinsic motivation](https://psycnet.apa.org) by Deci, E. L. (1971).\n  - [Drive: The Surprising Truth About What Motivates Us](https://danpink.com) by Daniel Pink.",
+        "line_number": 425,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 25514,
+        "char_end": 26033
+      },
+      {
+        "type": "further-exploration",
+        "title": "Untitled",
+        "body": "**Advanced First Principles Exercises:**\n\n  - [[Thermodynamics of Psychology]]\n  - [[Evolutionary Origins of Social Cohesion]]\n  - [[Cybernetics and Self-Regulation]]",
+        "line_number": 433,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 26034,
+        "char_end": 26235
+      },
+      {
+        "type": "tasks",
+        "title": "Untitled",
+        "body": "**Consolidation & Extension:**\n\n  - [ ] Map your current work environment against the three axioms: Is your \"Self\" boundary respected? (Autonomy)\n  - [ ] Analyze a hobby you love: identify the exact moment \"Competence\" feedback loops occur.\n  - [ ] Read \"Glucocorticoids and the Self\" to understand the biological cost of thwarted autonomy.",
+        "line_number": 440,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md",
+        "char_start": 26236,
+        "char_end": 26597
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "The Physics of Volition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Physics of Volition]]",
+        "line_number": 43,
+        "section": "First Principles Reconstruction: Self-Determination Theory",
+        "context_line": "Aliases: [[The Physics of Volition]], [[Organismic Integration Logic]], [[Axiomatic Motivation]]",
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "target": "Organismic Integration Logic",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Organismic Integration Logic]]",
+        "line_number": 43,
+        "section": "First Principles Reconstruction: Self-Determination Theory",
+        "context_line": "Aliases: [[The Physics of Volition]], [[Organismic Integration Logic]], [[Axiomatic Motivation]]",
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "target": "Axiomatic Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Axiomatic Motivation]]",
+        "line_number": 43,
+        "section": "First Principles Reconstruction: Self-Determination Theory",
+        "context_line": "Aliases: [[The Physics of Volition]], [[Organismic Integration Logic]], [[Axiomatic Motivation]]",
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "target": "Intrinsic Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intrinsic Motivation]]",
+        "line_number": 90,
+        "section": "1.2 The Inherited Framework",
+        "context_line": ">   - **[[Intrinsic Motivation]]:** Doing something because it is inherently interesting or enjoyable.",
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "target": "Extrinsic Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Extrinsic Motivation]]",
+        "line_number": 91,
+        "section": "1.2 The Inherited Framework",
+        "context_line": ">   - **[[Extrinsic Motivation]]:** Doing something because it leads to a separable outcome.",
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "target": "Internalization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Internalization]]",
+        "line_number": 92,
+        "section": "1.2 The Inherited Framework",
+        "context_line": ">   - **[[Internalization]]:** The process of taking in values from the outside world.",
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "target": "Thermodynamics of Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Thermodynamics of Psychology]]",
+        "line_number": 436,
+        "section": "11.0 📚 References & Resources",
+        "context_line": ">   - [[Thermodynamics of Psychology]]",
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "target": "Evolutionary Origins of Social Cohesion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Evolutionary Origins of Social Cohesion]]",
+        "line_number": 437,
+        "section": "11.0 📚 References & Resources",
+        "context_line": ">   - [[Evolutionary Origins of Social Cohesion]]",
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "target": "Cybernetics and Self-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cybernetics and Self-Regulation]]",
+        "line_number": 438,
+        "section": "11.0 📚 References & Resources",
+        "context_line": ">   - [[Cybernetics and Self-Regulation]]",
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "First Principles Reconstruction: Self-Determination Theory",
+        "anchor": "first-principles-reconstruction-self-determination-theory",
+        "line_number": 30,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "First Principles Reconstruction: Self-Determination Theory",
+        "anchor": "first-principles-reconstruction-self-determination-theory",
+        "line_number": 36,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "1.0 🎭 The Received Wisdom",
+        "anchor": "10-the-received-wisdom",
+        "line_number": 61,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "1.1 Conventional Understanding",
+        "anchor": "11-conventional-understanding",
+        "line_number": 63,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "1.2 The Inherited Framework",
+        "anchor": "12-the-inherited-framework",
+        "line_number": 76,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "1.3 The Need for Deconstruction",
+        "anchor": "13-the-need-for-deconstruction",
+        "line_number": 98,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "2.0 🧹 Systematic Deconstruction",
+        "anchor": "20-systematic-deconstruction",
+        "line_number": 115,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "2.1 Cartesian Doubt: What Can We Question?",
+        "anchor": "21-cartesian-doubt-what-can-we-question",
+        "line_number": 117,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "2.2 Stripping to Bedrock",
+        "anchor": "22-stripping-to-bedrock",
+        "line_number": 146,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "2.3 The Conceptual Inventory",
+        "anchor": "23-the-conceptual-inventory",
+        "line_number": 163,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "3.0 🏗️ Foundational Architecture",
+        "anchor": "30-foundational-architecture",
+        "line_number": 180,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "3.1 First Principles: The Axioms",
+        "anchor": "31-first-principles-the-axioms",
+        "line_number": 182,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "3.2 The Logical Framework",
+        "anchor": "32-the-logical-framework",
+        "line_number": 208,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "4.0 🔨 Progressive Reconstruction",
+        "anchor": "40-progressive-reconstruction",
+        "line_number": 234,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "4.1 Level 1: Deriving the Three Needs",
+        "anchor": "41-level-1-deriving-the-three-needs",
+        "line_number": 236,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "4.2 Level 2: The Spectrum of Motivation",
+        "anchor": "42-level-2-the-spectrum-of-motivation",
+        "line_number": 265,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "4.3 Level 3: The Dynamics of Vitality",
+        "anchor": "43-level-3-the-dynamics-of-vitality",
+        "line_number": 289,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "5.0 🔍 Verification & Validation",
+        "anchor": "50-verification-validation",
+        "line_number": 314,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "5.1 Completeness Check",
+        "anchor": "51-completeness-check",
+        "line_number": 316,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "5.2 Consistency Check",
+        "anchor": "52-consistency-check",
+        "line_number": 324,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "6.0 💎 Insights From First Principles",
+        "anchor": "60-insights-from-first-principles",
+        "line_number": 332,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "6.1 What the Reconstruction Reveals",
+        "anchor": "61-what-the-reconstruction-reveals",
+        "line_number": 334,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "6.2 Hidden Assumptions Exposed",
+        "anchor": "62-hidden-assumptions-exposed",
+        "line_number": 344,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "7.0 🚀 Applications & Extensions",
+        "anchor": "70-applications-extensions",
+        "line_number": 354,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "7.1 Novel Problems",
+        "anchor": "71-novel-problems",
+        "line_number": 356,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "7.2 Cross-Domain Insights",
+        "anchor": "72-cross-domain-insights",
+        "line_number": 364,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "8.0 🔄 Comparing Approaches",
+        "anchor": "80-comparing-approaches",
+        "line_number": 376,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "8.1 First Principles vs. Conventional Learning",
+        "anchor": "81-first-principles-vs-conventional-learning",
+        "line_number": 378,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "8.2 The Effort-Understanding Tradeoff",
+        "anchor": "82-the-effort-understanding-tradeoff",
+        "line_number": 390,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "9.0 🧠 Meta-Cognitive Reflection",
+        "anchor": "90-meta-cognitive-reflection",
+        "line_number": 398,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "9.1 The Reconstruction Experience",
+        "anchor": "91-the-reconstruction-experience",
+        "line_number": 400,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 2,
+        "text": "9.2 Ownership of Knowledge",
+        "anchor": "92-ownership-of-knowledge",
+        "line_number": 406,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "10.0 🦕 Conclusion",
+        "anchor": "100-conclusion",
+        "line_number": 414,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "level": 1,
+        "text": "11.0 📚 References & Resources",
+        "anchor": "110-references-resources",
+        "line_number": 423,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [
+      {
+        "headers": [
+          "Aspect",
+          "Conventional View (Behaviorism/Standard SDT)",
+          "First Principles View (Organismic Integration)"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Motivation Is...**",
+            "A quantity/amount to be increased.",
+            "A structural alignment of the Self."
+          ],
+          [
+            "**Role of Rewards**",
+            "Reinforcers to increase frequency.",
+            "Informational inputs that can support or thwart autonomy."
+          ],
+          [
+            "**The Three Needs**",
+            "A list of ingredients for happiness.",
+            "Necessary conditions for negentropic survival."
+          ],
+          [
+            "**Goal**",
+            "Compliance and Performance.",
+            "Integration and Vitality."
+          ]
+        ],
+        "line_start": 372,
+        "row_count": 4,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      }
+    ],
+    "external_links": [
+      {
+        "display_text": "Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness",
+        "url": "https://guilford.com",
+        "format": "markdown",
+        "line_number": 428,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "display_text": "Schrödinger's \"What is Life?\"",
+        "url": "https://cambridge.org",
+        "format": "markdown",
+        "line_number": 429,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "display_text": "Effects of externally mediated rewards on intrinsic motivation",
+        "url": "https://psycnet.apa.org",
+        "format": "markdown",
+        "line_number": 430,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "display_text": "Drive: The Surprising Truth About What Motivates Us",
+        "url": "https://danpink.com",
+        "format": "markdown",
+        "line_number": 431,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [
+      {
+        "diagram_code": "graph TB\n    A1[Axiom 1: Negentropy/Activity] --> D1[Drive for Effectance]\n    A2[Axiom 2: Differentiation] --> D2[Locus of Causality]\n    A3[Axiom 3: Social Obligation] --> D3[Drive for Inclusion]\n\n    D1 --> N1[Need for COMPETENCE]\n    D2 --> N2[Need for AUTONOMY]\n    D3 --> N3[Need for RELATEDNESS]\n\n    N1 --> I1[Integration of Self]\n    N2 --> I1\n    N3 --> I1\n\n    I1 --> RES[Psychological Vitality & Resilience]",
+        "diagram_type": "graph",
+        "line_start": 215,
+        "line_count": 14,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      }
+    ],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "S",
+        "format": "inline",
+        "line_number": 143,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "expression": "J",
+        "format": "inline",
+        "line_number": 143,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "expression": "D",
+        "format": "inline",
+        "line_number": 144,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      },
+      {
+        "expression": "\\Delta S_{universe} > 0",
+        "format": "inline",
+        "line_number": 156,
+        "source": "cog-sci-report-first-priciples-reconstruction-self-determination-theory-202511201206.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Axiomatic Motivation",
+      "Cybernetics and Self-Regulation",
+      "Evolutionary Origins of Social Cohesion",
+      "Extrinsic Motivation",
+      "Internalization",
+      "Intrinsic Motivation",
+      "Organismic Integration Logic",
+      "The Physics of Volition",
+      "Thermodynamics of Psychology"
+    ],
+    "unique_wiki_link_count": 9,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Axiomatic Motivation",
+      "Cybernetics and Self-Regulation",
+      "Evolutionary Origins of Social Cohesion",
+      "Extrinsic Motivation",
+      "Internalization",
+      "Intrinsic Motivation",
+      "Organismic Integration Logic",
+      "The Physics of Volition",
+      "Thermodynamics of Psychology"
+    ]
+  }
+}

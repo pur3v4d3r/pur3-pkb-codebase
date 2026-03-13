@@ -1,0 +1,457 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.985623",
+    "source_file": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+    "source_file_size_bytes": 16901,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+      "id": "20251105-010321",
+      "type": "✍️topics",
+      "status": "⚡active",
+      "rating": "",
+      "source": "RSPC_🆔20251026073014",
+      "url": "https://claude.ai/chat/62217662-a00f-419f-a715-9ab38adb8aec",
+      "tags": [
+        "topic",
+        "topic/educational",
+        "topic/rsca",
+        "source/rsca",
+        "cognitive-science",
+        "type/report/psychology",
+        "cognitive-science",
+        "cognitive-science"
+      ],
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "link-up": "[[topics_moc]]",
+      "link-related": []
+    },
+    "word_count": 2085,
+    "character_count": 16352,
+    "line_count": 163,
+    "heading_count": 2
+  },
+  "extraction_summary": {
+    "total_items_extracted": 34,
+    "by_type": {
+      "headings": 2,
+      "callouts": 10,
+      "wiki_links": 15,
+      "inline_fields": 4,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 1,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 2,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+      "anchor": "a-pedagogical-topic-set-for-metacognition-in-self-development-systems",
+      "line_number": 29,
+      "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 142,
+      "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set explores metacognition as the foundational framework for designing and implementing a personal development system. It contains 8 topics, each aligned with a distinct pedagogical scaffold, all derived from the intersection of metacognitive science and practical self-improvement methodology. These topics are specifically crafted to help you understand not just what metacognition is, but how to operationalize it as a measurement tool, a change detection system, and a strategic planning framework for personal growth. Each topic approaches the challenge from a different angle, providing you with comprehensive perspectives on building a robust, evidence-based self-development routine that uses metacognitive awareness as its primary compass.",
+        "line_number": 31,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+        "char_start": 569,
+        "char_end": 1348
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🏛️*Knowledge-Driven Learning*: The Architecture of [[Metacognitive Monitoring]] and [[Executive Control]] in Personal Development Systems\n\n**Scope & Angle:** This topic provides a comprehensive exposition of the dual-process model of metacognition (monitoring and control) and how these processes can be systematically applied to create a self-development framework. It covers the theoretical foundations from Flavell, Nelson & Narens, and modern neurocognitive research, then maps these concepts onto practical self-improvement methodologies. The focus is on understanding the complete taxonomy of metacognitive strategies and their specific applications in behavior change.",
+        "line_number": 38,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+        "char_start": 1365,
+        "char_end": 2063
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "⚙️*Problem-Based Learning*: Solving the [[Dunning-Kruger Effect]] Problem - Designing Accurate Self-Assessment Protocols for Personal Growth\n\n**Scope & Angle:** This topic addresses the concrete problem of how individuals can accurately assess their own competencies and progress when cognitive biases (particularly the Dunning-Kruger effect) systematically distort self-perception. It explores practical solutions including external calibration methods, structured reflection protocols, and objective measurement systems. The focus is on creating a reliable feedback system that overcomes the inherent limitations of self-assessment.",
+        "line_number": 52,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+        "char_start": 3046,
+        "char_end": 3702
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "⚖️*Socratic Inquiry Learning*: Deconstructing the Assumption That [[Self-Awareness]] Automatically Leads to [[Self-Improvement]]\n\n**Scope & Angle:** This inquiry challenges the fundamental assumption that metacognitive awareness naturally translates into positive behavior change. Through dialectical examination, it explores the gap between knowing and doing, the role of motivation and executive function, and why increased self-awareness sometimes leads to paralysis rather than progress. The analysis reveals what additional components beyond metacognition are necessary for effective self-development.",
+        "line_number": 65,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+        "char_start": 4509,
+        "char_end": 5136
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "📖*Narrative-Driven Learning*: The [[30-Day Metacognitive Experiment]] - One Person's Journey from Unconscious Incompetence to Conscious Competence\n\n**Scope & Angle:** This narrative follows an individual implementing a comprehensive metacognitive self-development system over 30 days, documenting their progression through the four stages of competence. The story reveals the practical challenges, breakthrough moments, and unexpected discoveries that occur when someone systematically applies metacognitive principles to personal growth. It serves as both an instructional case and an inspirational journey.",
+        "line_number": 78,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+        "char_start": 5991,
+        "char_end": 6620
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🌗*Comparative Analysis Learning*: [[Introspection-Based vs. Behavior-Based Metacognitive Assessment]] - Comparing Internal Reflection with External Measurement in Self-Development\n\n**Scope & Angle:** This analysis compares two fundamentally different approaches to metacognitive assessment for self-development: introspection-based methods (journaling, meditation, self-reflection questionnaires) versus behavior-based methods (habit tracking, performance metrics, time-use analysis). The comparison examines their respective strengths, limitations, and optimal use cases. It provides clear criteria for when to use each approach and how to integrate them effectively.",
+        "line_number": 91,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+        "char_start": 7513,
+        "char_end": 8204
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🧱*First-Principles Thinking*: Deconstructing \"[[Personal Change]]\" to Its Cognitive Atoms - Building a Metacognitive Change Detection System from Fundamental Components\n\n**Scope & Angle:** This topic breaks down the concept of \"personal change\" to its most fundamental cognitive and behavioral components, then rebuilds a comprehensive change detection system from these first principles. It questions what change actually means at the neurological level, how it can be measured, and what minimal set of metacognitive tools are necessary to track it. The analysis strips away conventional self-help assumptions to build a scientifically grounded framework.",
+        "line_number": 105,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+        "char_start": 9264,
+        "char_end": 9941
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🕸️*Systems Thinking*: The [[Metacognitive Feedback Loop Architecture]] - Mapping Reinforcing and Balancing Loops in Self-Development Systems\n\n**Scope & Angle:** This analysis examines self-development through a systems lens, identifying the complex feedback loops that either amplify or dampen personal growth. It maps how metacognitive awareness creates cascading effects throughout the system, including virtuous cycles of improvement and vicious cycles of stagnation. The focus is on understanding emergence, non-linearity, and system dynamics in personal development, revealing leverage points for maximum impact.",
+        "line_number": 118,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+        "char_start": 10874,
+        "char_end": 11512
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🔬*Case Study Method*: The [[Cambridge Brain Sciences Project]] - Analyzing a Failed Attempt to Scale Metacognitive Training for Personal Development\n\n**Scope & Angle:** This case study examines a real-world attempt to implement large-scale metacognitive training for personal development, analyzing why initial promising results failed to translate when scaled up. It provides detailed examination of the methodology, the unexpected challenges encountered, and the lessons learned about the complexity of metacognitive intervention. The analysis offers crucial insights for anyone designing their own metacognitive self-development system.",
+        "line_number": 131,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+        "char_start": 12495,
+        "char_end": 13155
+      },
+      {
+        "type": "further-exploration",
+        "title": "Untitled",
+        "body": "Recommended continued study:\n- **[[Interoception and Embodied Cognition]]** - Exploring how bodily awareness integrates with metacognitive processes to provide additional channels for self-monitoring and change detection\n- **[[Temporal Self-Comparison Theory]]** - Understanding how we evaluate personal change across different time horizons and the cognitive biases that affect these comparisons\n- **[[Implementation Intentions and If-Then Planning]]** - Examining how metacognitive planning strategies can bridge the intention-action gap in self-development\n- **[[The Observer Self vs. Experiencing Self]]** - Investigating the dual-self model and how to leverage both perspectives for comprehensive self-assessment\n- **[[Ecological Momentary Assessment Methods]]** - Advanced techniques for capturing metacognitive data in real-world contexts rather than laboratory or retrospective settings",
+        "line_number": 144,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md",
+        "char_start": 14180,
+        "char_end": 15112
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Metacognitive Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Monitoring]]",
+        "line_number": 40,
+        "section": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+        "context_line": "> 🏛️*Knowledge-Driven Learning*: The Architecture of [[Metacognitive Monitoring]] and [[Executive Control]] in Personal Development Systems",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Executive Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Executive Control]]",
+        "line_number": 40,
+        "section": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+        "context_line": "> 🏛️*Knowledge-Driven Learning*: The Architecture of [[Metacognitive Monitoring]] and [[Executive Control]] in Personal Development Systems",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Dunning-Kruger Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dunning-Kruger Effect]]",
+        "line_number": 53,
+        "section": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+        "context_line": "> ⚙️*Problem-Based Learning*: Solving the [[Dunning-Kruger Effect]] Problem - Designing Accurate Self-Assessment Protocols for Personal Growth",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Self-Awareness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Awareness]]",
+        "line_number": 66,
+        "section": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+        "context_line": "> ⚖️*Socratic Inquiry Learning*: Deconstructing the Assumption That [[Self-Awareness]] Automatically Leads to [[Self-Improvement]]",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Self-Improvement",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Improvement]]",
+        "line_number": 66,
+        "section": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+        "context_line": "> ⚖️*Socratic Inquiry Learning*: Deconstructing the Assumption That [[Self-Awareness]] Automatically Leads to [[Self-Improvement]]",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "30-Day Metacognitive Experiment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[30-Day Metacognitive Experiment]]",
+        "line_number": 79,
+        "section": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+        "context_line": "> 📖*Narrative-Driven Learning*: The [[30-Day Metacognitive Experiment]] - One Person's Journey from Unconscious Incompetence to Conscious Competence",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Introspection-Based vs. Behavior-Based Metacognitive Assessment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Introspection-Based vs. Behavior-Based Metacognitive Assessment]]",
+        "line_number": 93,
+        "section": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+        "context_line": "> 🌗*Comparative Analysis Learning*: [[Introspection-Based vs. Behavior-Based Metacognitive Assessment]] - Comparing Internal Reflection with External Measurement in Self-Development",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Personal Change",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Change]]",
+        "line_number": 106,
+        "section": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+        "context_line": "> 🧱*First-Principles Thinking*: Deconstructing \"[[Personal Change]]\" to Its Cognitive Atoms - Building a Metacognitive Change Detection System from Fundamental Components",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Metacognitive Feedback Loop Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Feedback Loop Architecture]]",
+        "line_number": 119,
+        "section": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+        "context_line": "> 🕸️*Systems Thinking*: The [[Metacognitive Feedback Loop Architecture]] - Mapping Reinforcing and Balancing Loops in Self-Development Systems",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Cambridge Brain Sciences Project",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cambridge Brain Sciences Project]]",
+        "line_number": 132,
+        "section": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+        "context_line": "> 🔬*Case Study Method*: The [[Cambridge Brain Sciences Project]] - Analyzing a Failed Attempt to Scale Metacognitive Training for Personal Development",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Interoception and Embodied Cognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Interoception and Embodied Cognition]]",
+        "line_number": 146,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Interoception and Embodied Cognition]]** - Exploring how bodily awareness integrates with metacognitive processes to provide additional channels for self-monitoring and change detection",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Temporal Self-Comparison Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Temporal Self-Comparison Theory]]",
+        "line_number": 147,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Temporal Self-Comparison Theory]]** - Understanding how we evaluate personal change across different time horizons and the cognitive biases that affect these comparisons",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Implementation Intentions and If-Then Planning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implementation Intentions and If-Then Planning]]",
+        "line_number": 148,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Implementation Intentions and If-Then Planning]]** - Examining how metacognitive planning strategies can bridge the intention-action gap in self-development",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "The Observer Self vs. Experiencing Self",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Observer Self vs. Experiencing Self]]",
+        "line_number": 149,
+        "section": "Further Exploration",
+        "context_line": "> - **[[The Observer Self vs. Experiencing Self]]** - Investigating the dual-self model and how to leverage both perspectives for comprehensive self-assessment",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "target": "Ecological Momentary Assessment Methods",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ecological Momentary Assessment Methods]]",
+        "line_number": 150,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Ecological Momentary Assessment Methods]]** - Advanced techniques for capturing metacognitive data in real-world contexts rather than laboratory or retrospective settings",
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "created",
+        "value": "2025-11-05",
+        "format": "bracket",
+        "line_number": 50,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-11-05",
+        "format": "bracket",
+        "line_number": 50,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "field_name": "created",
+        "value": "2025-11-05",
+        "format": "bracket",
+        "line_number": 103,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-11-05",
+        "format": "bracket",
+        "line_number": 103,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "A Pedagogical Topic Set for Metacognition in Self-Development Systems",
+        "anchor": "a-pedagogical-topic-set-for-metacognition-in-self-development-systems",
+        "line_number": 29,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 142,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "<thinking>\nThe user is interested in metacognition specifically as a tool for self-development. They want to design a system that uses metacognitive principles to:\n1. Measure change\n2. Determine what to change\n3. Determine when to change\n4. Determine how to change\n\nThis is a rich subject area that spans psychology, cognitive science, philosophy, and practical self-improvement methodologies. Let me break this down:\n\nKey components of metacognition for self-development:\n- Self-awareness and introspection\n- Cognitive monitoring and control\n- Learning strategies and their effectiveness\n- Feedback loops and iterative improvement\n- Measurement and assessment frameworks\n- Behavior change theories\n- Decision-making about personal growth\n- Meta-learning (learning how to learn)\n\nFor each pedagogical scaffold, I need to find the perfect angle:\n\n1. Knowledge-Driven: A comprehensive framework of metacognitive theories and their application to self-development\n2. Problem-Based: The concrete problem of measuring invisible cognitive changes\n3. Socratic Inquiry: Questioning the assumption that self-awareness leads to self-improvement\n4. Narrative-Driven: The story of someone implementing a metacognitive system (could be historical or composite)\n5. Comparative Analysis: Comparing different metacognitive assessment methods\n6. First-Principles: Breaking down what \"change\" actually means at a cognitive level\n7. Systems Thinking: The feedback loops in a metacognitive self-development system\n8. Case Study: A specific implementation of metacognitive training that succeeded or failed\n\nLet me craft topics that are specific, actionable, and directly relevant to the user's goal of designing their own system.\n</thinking>",
+        "line_start": 152,
+        "line_end": 185,
+        "char_count": 1721,
+        "line_count": 32,
+        "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[x] *Used?**  [created:: 2025-11-05]  [completion:: 2025-11-05]",
+          "indent_level": 1,
+          "line_number": 49,
+          "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+        },
+        {
+          "text": "[x] *Used?**  [created:: 2025-11-05]  [completion:: 2025-11-05]",
+          "indent_level": 1,
+          "line_number": 102,
+          "source": "topic-set_a-pedagogical-topic-set-for-metacognition-in-selfdevelopment-systems_🆔20251105010313.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "30-Day Metacognitive Experiment",
+      "Cambridge Brain Sciences Project",
+      "Dunning-Kruger Effect",
+      "Ecological Momentary Assessment Methods",
+      "Executive Control",
+      "Implementation Intentions and If-Then Planning",
+      "Interoception and Embodied Cognition",
+      "Introspection-Based vs. Behavior-Based Metacognitive Assessment",
+      "Metacognitive Feedback Loop Architecture",
+      "Metacognitive Monitoring",
+      "Personal Change",
+      "Self-Awareness",
+      "Self-Improvement",
+      "Temporal Self-Comparison Theory",
+      "The Observer Self vs. Experiencing Self"
+    ],
+    "unique_wiki_link_count": 15,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "30-Day Metacognitive Experiment",
+      "Cambridge Brain Sciences Project",
+      "Dunning-Kruger Effect",
+      "Ecological Momentary Assessment Methods",
+      "Executive Control",
+      "Implementation Intentions and If-Then Planning",
+      "Interoception and Embodied Cognition",
+      "Introspection-Based vs. Behavior-Based Metacognitive Assessment",
+      "Metacognitive Feedback Loop Architecture",
+      "Metacognitive Monitoring",
+      "Personal Change",
+      "Self-Awareness",
+      "Self-Improvement",
+      "Temporal Self-Comparison Theory",
+      "The Observer Self vs. Experiencing Self"
+    ]
+  }
+}

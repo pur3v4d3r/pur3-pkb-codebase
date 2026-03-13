@@ -1,0 +1,427 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.953540",
+    "source_file": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+    "source_file_size_bytes": 8730,
+    "processing_time_seconds": 0.002
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Command Center",
+        "Dataview Quieries",
+        "Dataview"
+      ]
+    },
+    "word_count": 1145,
+    "character_count": 8557,
+    "line_count": 251,
+    "heading_count": 11
+  },
+  "extraction_summary": {
+    "total_items_extracted": 33,
+    "by_type": {
+      "headings": 11,
+      "callouts": 2,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 5,
+      "code_blocks": 5,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 5,
+      "lists_unordered": 3,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 2
+    }
+  },
+  "document_outline": [
+    {
+      "level": 3,
+      "text": "🧩Knowledge Graph Command Center",
+      "anchor": "knowledge-graph-command-center",
+      "line_number": 9,
+      "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "📊 Domain Analytics & Taxonomy",
+      "anchor": "domain-analytics-taxonomy",
+      "line_number": 29,
+      "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🚧 The Incubator (Gardening Queue)",
+      "anchor": "the-incubator-gardening-queue",
+      "line_number": 97,
+      "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🧠 Active Research Workbench",
+      "anchor": "active-research-workbench",
+      "line_number": 175,
+      "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🔧 Technical Explanation",
+      "anchor": "technical-explanation",
+      "line_number": 213,
+      "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "How the Scripts Work",
+          "anchor": "how-the-scripts-work",
+          "line_number": 215,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Customization Guide",
+          "anchor": "customization-guide",
+          "line_number": 224,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "🔍 Self-Critique Analysis",
+      "anchor": "self-critique-analysis",
+      "line_number": 234,
+      "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Format Compliance",
+          "anchor": "format-compliance",
+          "line_number": 236,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Content Quality",
+          "anchor": "content-quality",
+          "line_number": 242,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Top Improvements",
+          "anchor": "top-improvements",
+          "line_number": 248,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "**System Overview**\nThis dashboard utilizes **DataviewJS** to aggregate data from the `#cognitive-science` and `#pkm` domains. It provides:\n\n  * **Taxonomy Breakdown**: File counts by nested sub-category.\n  * **Freshness Metrics**: Tracking recent modifications.\n  * **Gardening Queue**: Identifying \"stub\" notes (under 100 words) to develop.",
+        "line_number": 19,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+        "char_start": 260,
+        "char_end": 628
+      },
+      {
+        "type": "tip",
+        "title": "Modify the Variables",
+        "body": "Look for the `// ⚙️ CONFIGURATION` section at the top of each code block.\n\n  * **Add Tags**: Change `const targetTags = […]` to include other areas like `#philosophy`.\n  * **Adjust Thresholds**: Change `const minWords = 200` to change what you consider a \"Seedling\" note.",
+        "line_number": 226,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md",
+        "char_start": 7168,
+        "char_end": 7481
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "cognitive-science",
+        "full_tag": "#cognitive-science",
+        "hierarchy": [
+          "cognitive-science"
+        ],
+        "line_number": 14,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "tag": "pkm",
+        "full_tag": "#pkm",
+        "hierarchy": [
+          "pkm"
+        ],
+        "line_number": 15,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "tag": "cognitive-science",
+        "full_tag": "#cognitive-science",
+        "hierarchy": [
+          "cognitive-science"
+        ],
+        "line_number": 45,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "tag": "pkm",
+        "full_tag": "#pkm",
+        "hierarchy": [
+          "pkm"
+        ],
+        "line_number": 46,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "tag": "philosophy",
+        "full_tag": "#philosophy",
+        "hierarchy": [
+          "philosophy"
+        ],
+        "line_number": 66,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 3,
+        "text": "🧩Knowledge Graph Command Center",
+        "anchor": "knowledge-graph-command-center",
+        "line_number": 9,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Domain Analytics & Taxonomy",
+        "anchor": "domain-analytics-taxonomy",
+        "line_number": 29,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "level": 2,
+        "text": "🚧 The Incubator (Gardening Queue)",
+        "anchor": "the-incubator-gardening-queue",
+        "line_number": 97,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "level": 2,
+        "text": "🧠 Active Research Workbench",
+        "anchor": "active-research-workbench",
+        "line_number": 175,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "level": 2,
+        "text": "🔧 Technical Explanation",
+        "anchor": "technical-explanation",
+        "line_number": 213,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "level": 3,
+        "text": "How the Scripts Work",
+        "anchor": "how-the-scripts-work",
+        "line_number": 215,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "level": 3,
+        "text": "Customization Guide",
+        "anchor": "customization-guide",
+        "line_number": 224,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "level": 2,
+        "text": "🔍 Self-Critique Analysis",
+        "anchor": "self-critique-analysis",
+        "line_number": 234,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "level": 3,
+        "text": "Format Compliance",
+        "anchor": "format-compliance",
+        "line_number": 236,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "level": 3,
+        "text": "Content Quality",
+        "anchor": "content-quality",
+        "line_number": 242,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "level": 3,
+        "text": "Top Improvements",
+        "anchor": "top-improvements",
+        "line_number": 248,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "yaml",
+        "code": "---\ntags: #pkm #dashboard #dataview-js #obsidian #meta\naliases: [Cognitive Science Dashboard, PKM Control Panel]\ncreated: 2025-11-22\n---",
+        "line_start": 11,
+        "line_end": 17,
+        "char_count": 136,
+        "line_count": 5,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "// ⚙️ CONFIGURATION\nconst targetTags = [\"#cognitive-science\", \"#pkm\"];\nconst ignoreFolder = \"Templates\";\n\n// 🧠 LOGIC\n// 1. Get all pages that have ANY of our target tags\nlet pagePool = dv.pages(targetTags.join(\" or \"))\n    .where(p => !p.file.path.includes(ignoreFolder));\n\nlet breakdown = [];\n\ntargetTags.forEach(rootTag => {\n    // 2. Filter pages that belong to this specific root domain\n    let domainPages = pagePool.where(p => p.file.tags.some(t => t.startsWith(rootTag)));\n    \n    // 3. Collect all unique relevant tags\n    let allTags = new Set();\n    domainPages.forEach(p => {\n        p.file.tags.forEach(t => {\n            // FIX: We now check if the tag starts with the rootTag (including the #)\n            // This ensures #pkm/structure is captured under #pkm\n            if (t.startsWith(rootTag)) {\n                allTags.add(t);\n            }\n        });\n    });\n\n    // 4. Build the table rows\n    if (allTags.size === 0) {\n        // Optional: Handle empty states gracefully\n    } else {\n        Array.from(allTags).sort().forEach(tag => {\n            // Count notes with this specific tag\n            let count = domainPages.where(p => p.file.tags.includes(tag)).length;\n            \n            // Calculate depth for indentation (e.g. #pkm = 0, #pkm/structure = 1)\n            let depth = tag.split(\"/\").length - 1;\n            let indent = \"⠀\".repeat(depth * 2); \n            \n            // Assign status icon based on volume\n            let status = count > 10 ? \"🌳\" : (count > 3 ? \"🌱\" : \"🪹\");\n            \n            breakdown.push([\n                `${indent} ${status} **${tag}**`,\n                count,\n                `<progress value=\"${count}\" max=\"20\"></progress>` \n            ]);\n        });\n    }\n});\n\n// 🎨 RENDER\ndv.header(3, \"🗂️ Taxonomy Distribution\");\n\nif (breakdown.length === 0) {\n    dv.paragraph(\"⚠️ **No tags found.** Make sure you have created at least one note with tags like `#pkm` or `#cognitive-science`.\");\n} else {\n    dv.table([\"Domain / Sub-Category\", \"Note Count\", \"Density\"], breakdown);\n}",
+        "line_start": 33,
+        "line_end": 93,
+        "char_count": 2049,
+        "line_count": 59,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "// ⚙️ CONFIGURATION\nconst minWords = 200; \nconst limit = 10;\n// 🔧 FIX: Access luxon via dv\nconst luxon = dv.luxon; \n\ndv.header(3, \"🌱 Seedlings Needing Water (Short Notes)\");\n\n// Get pages in domain, exclude huge files\nconst seedlings = dv.pages(\"#cognitive-science or #pkm\")\n    .where(p => p.file.size < 10000) \n    .where(p => {\n         // Calculate time difference\n         const now = luxon.DateTime.now();\n         const lastEdit = p.file.mtime;\n         // Safety check: if file has no mtime, skip it\n         if (!lastEdit) return false; \n         \n         const diffDays = now.diff(lastEdit, 'days').days;\n         return diffDays > 7; // Show notes not touched in a week\n    })\n    .sort(p => p.file.mtime, \"desc\")\n    .limit(limit);\n\nif (seedlings.length === 0) {\n    dv.paragraph(\"🌱 All seedlings are well-watered! (No stale short notes found)\");\n} else {\n    dv.table(\n        [\"Note\", \"Last Edited\", \"Link Density\"], \n        seedlings.map(p => [\n            p.file.link,\n            p.file.mtime.toRelative(), \n            p.file.outlinks.length + \" 🔗\"\n        ])\n    );\n}",
+        "line_start": 101,
+        "line_end": 138,
+        "char_count": 1088,
+        "line_count": 36,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "// ⚙️ CONFIGURATION\nconst minWords = 200; // Notes under this count appear here\nconst limit = 10; // Max rows to show\n\ndv.header(3, \"🌱 Seedlings Needing Water (Short Notes)\");\n\n// Get pages in domain, exclude huge files, sort by length ascending\nconst seedlings = dv.pages(\"#cognitive-science or #pkm\")\n    .where(p => p.file.size < 10000) // Quick filter for massive files\n    .where(p => {\n         // Accurate word count requires reading file content - usually expensive.\n         // Instead we rely on file size as proxy or just list recently created.\n         // For 'stale' notes (not touched in 30 days):\n         const now = luxon.DateTime.now();\n         const lastEdit = p.file.mtime;\n         const diffDays = now.diff(lastEdit, 'days').days;\n         return diffDays > 7; // Show notes not touched in a week\n    })\n    .sort(p => p.file.mtime, \"desc\")\n    .limit(limit);\n\ndv.table(\n    [\"Note\", \"Last Edited\", \"Link Density\"], \n    seedlings.map(p => [\n        p.file.link,\n        p.file.mtime.toRelative(), \n        p.file.outlinks.length + \" 🔗\"\n    ])\n);",
+        "line_start": 141,
+        "line_end": 171,
+        "char_count": 1069,
+        "line_count": 29,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "// ⚙️ CONFIGURATION\nconst daysBack = 3;\n\ndv.header(3, \"🔥 Hot Topics (Last 72 Hours)\");\n\n// We use dv.luxon directly inside the code to prevent reference errors\nconst recent = dv.pages(\"#cognitive-science or #pkm\")\n    .where(p => {\n        // 1. Get the current time using dv.luxon directly\n        const now = dv.luxon.DateTime.now();\n        \n        // 2. Get the file's last modification time\n        const lastEdit = p.file.mtime;\n        \n        // 3. Safety check: ignore files without a date\n        if (!lastEdit) return false;\n        \n        // 4. Compare: Is the file newer than (Now minus 3 days)?\n        return lastEdit > now.minus({ days: daysBack });\n    })\n    .sort(p => p.file.mtime, \"desc\");\n\nif (recent.length === 0) {\n    dv.paragraph(\"*No active research in these domains recently.*\");\n} else {\n    dv.list(recent.map(p => {\n        // Add emoji based on tag\n        let icon = p.file.tags.includes(\"#pkm\") ? \"🗄️\" : \"🧠\";\n        return `${icon} ${p.file.link} (${p.file.mtime.toFormat(\"h:mm a\")})`;\n    }));\n}",
+        "line_start": 179,
+        "line_end": 211,
+        "char_count": 1035,
+        "line_count": 31,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**`dv.pages()`**: This is the primary function to fetch file data. We pass the query string `\"#cognitive-science or #pkm\"` to limit the scope to your specific domains.",
+          "indent_level": 0,
+          "line_number": 46,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+        },
+        {
+          "text": "**`.where()`**: This acts as a filter using JavaScript arrow functions.",
+          "indent_level": 0,
+          "line_number": 51,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+        },
+        {
+          "text": "**Visual Logic**:",
+          "indent_level": 0,
+          "line_number": 54,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+        },
+        {
+          "text": "**Word Count limitation**: DataviewJS does not automatically read file content (word count) without async/await operations which can slow down a dashboard. I used **file size** and **edit date** as proxies for performance stability.",
+          "indent_level": 0,
+          "line_number": 91,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+        },
+        {
+          "text": "**Mobile Compatibility**: The HTML progress bars generally work well on mobile, but the indentation might wrap on very small screens.",
+          "indent_level": 0,
+          "line_number": 99,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "Example: `p => !p.file.path.includes(\"Templates\")` filters out any file residing in the Templates folder.",
+          "indent_level": 3,
+          "line_number": 53,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+        },
+        {
+          "text": "In the **Taxonomy Distribution**, I implemented a visual indentation system (`\"⠀\".repeat(depth * 2)`) to mimic a folder tree structure inside a flat table.",
+          "indent_level": 3,
+          "line_number": 54,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+        },
+        {
+          "text": "The `<progress>` HTML tag is rendered directly by Obsidian, giving you a visual \"density\" bar for each topic.",
+          "indent_level": 3,
+          "line_number": 62,
+          "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{indent}",
+        "format": "inline",
+        "line_number": 74,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      },
+      {
+        "expression": "{icon}",
+        "format": "inline",
+        "line_number": 207,
+        "source": "reference-technical-advanced-dataview-queries-command-center-2025120221.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [
+      "#cognitive-science",
+      "#philosophy",
+      "#pkm"
+    ],
+    "unique_tag_count": 3,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

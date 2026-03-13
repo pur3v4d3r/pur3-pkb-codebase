@@ -1,0 +1,797 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:19:01.572553",
+    "source_file": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\03-prompt-engineering\\-reports\\prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+    "source_file_size_bytes": 26772,
+    "processing_time_seconds": 0.004
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100",
+      "id": "20251120083100",
+      "type": "prompt/report",
+      "status": "not-read",
+      "source": "👾Polymath v3.2 ♊Gem-ID OQHJPSLYU0",
+      "year": "[[2025]]",
+      "tags": [
+        "prompt-engineering",
+        "project/pur3v4d3r",
+        "year/2025",
+        "self-improvement",
+        "pkb/maintenance/refactoring",
+        "pkb/maintenance/cleanup"
+      ],
+      "aliases": [
+        "AI Output Control,Constraint-Based Prompting,Positive and Negative Prompting"
+      ],
+      "link-up": [
+        "[[project-pur3v4d3r-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-20|Daily-Note]]"
+      ]
+    },
+    "word_count": 3810,
+    "character_count": 26142,
+    "line_count": 255,
+    "heading_count": 17
+  },
+  "extraction_summary": {
+    "total_items_extracted": 79,
+    "by_type": {
+      "headings": 17,
+      "callouts": 16,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 3,
+      "tables": 0,
+      "external_links": 5,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 38,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✨ An Exposition on the Methodologies and Principles of Applying Positive and Negative Constraints in Prompt Engineering",
+      "anchor": "an-exposition-on-the-methodologies-and-principles-of-applying-positive-and-negative-constraints-in-prompt-engineering",
+      "line_number": 23,
+      "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "1\\. 🗺️ Introduction & Context",
+          "anchor": "1-introduction-context",
+          "line_number": 30,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "2\\. 📜 Historical Context & Intellectual Lineage",
+          "anchor": "2-historical-context-intellectual-lineage",
+          "line_number": 48,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "**Core Analysis: An In-Depth Exposition**",
+              "anchor": "core-analysis-an-in-depth-exposition",
+              "line_number": 62,
+              "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "3\\. 📖 Foundational Principles: The \"Why\"",
+          "anchor": "3-foundational-principles-the-why",
+          "line_number": 66,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "4\\. 🛠️ Mechanisms & Processes: The \"How\"",
+          "anchor": "4-mechanisms-processes-the-how",
+          "line_number": 88,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "4.1 The Anatomy of a Positive Constraint (Inclusion)",
+              "anchor": "41-the-anatomy-of-a-positive-constraint-inclusion",
+              "line_number": 92,
+              "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.2 The Anatomy of a Negative Constraint (Exclusion)",
+              "anchor": "42-the-anatomy-of-a-negative-constraint-exclusion",
+              "line_number": 114,
+              "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.3 The Synergy: The Constraint Funnel",
+              "anchor": "43-the-synergy-the-constraint-funnel",
+              "line_number": 131,
+              "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "5\\. 🔬 Evidence & Manifestations: The \"What\"",
+          "anchor": "5-evidence-manifestations-the-what",
+          "line_number": 147,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "**Example 1: Generating a Professional Email**",
+              "anchor": "example-1-generating-a-professional-email",
+              "line_number": 153,
+              "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "**Example 2: Extracting Structured Data**",
+              "anchor": "example-2-extracting-structured-data",
+              "line_number": 187,
+              "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "6\\. 🌍 Broader Implications & Significance: The \"So What\"",
+          "anchor": "6-broader-implications-significance-the-so-what",
+          "line_number": 216,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "7\\. ⏳ Current Landscape & Unanswered Questions",
+          "anchor": "7-current-landscape-unanswered-questions",
+          "line_number": 228,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "8\\. 🗝️ Conclusion & Key Takeaways",
+          "anchor": "8-conclusion-key-takeaways",
+          "line_number": 237,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "9\\. 🦖 Active Reading & Reflection (The Feynman Technique)",
+          "anchor": "9-active-reading-reflection-the-feynman-technique",
+          "line_number": 252,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "10\\. 📚 References",
+          "anchor": "10-references",
+          "line_number": 261,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "This report provides a comprehensive analysis of constraint-based methodologies in prompt engineering for large language models (LLMs). It posits that the deliberate application of positive (inclusionary) and negative (exclusionary) constraints is the fundamental mechanism for transforming prompt engineering from an intuitive art into a repeatable engineering discipline. By defining a precise \"solution space\" for the AI, these constraints enable granular control over the tone, scope, format, and content of generated outputs, leading to significantly more reliable, predictable, and high-quality results.\n\nWe will first deconstruct the core principles governing how instruction-tuned models interpret constraints, rooting this understanding in the probabilistic nature of their operation. The document then provides a detailed taxonomy of both positive and negative constraint types, from explicit commands and few-shot examples to content prohibitions and stylistic guardrails. Through practical examples and a unifying analogy—the \"Constraint Funnel\"—we will demonstrate the synergistic power of their combined application. Finally, we explore the broader implications of this methodology on AI safety, reliability, and the future of human-AI interaction, concluding that a mastery of constraints is essential for any serious practitioner seeking to harness the full potential of generative AI.",
+        "line_number": 25,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 681,
+        "char_end": 2102
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "The purpose of this exposition is to establish a rigorous framework for understanding and applying **positive and negative constraints** in prompt engineering. We will move beyond simple instruction-giving to explore how to architect a prompt that actively guides the AI toward a desired outcome while simultaneously steering it away from potential failure modes. This is the methodology for shaping the raw clay of a model's capabilities into a finished, intentional product.",
+        "line_number": 36,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 3346,
+        "char_end": 3842
+      },
+      {
+        "type": "pre-read-questions",
+        "title": "Untitled",
+        "body": "As you engage with this material, consider the following:\n\n  - How does thinking of a prompt as a \"specification\" rather than a \"question\" change your approach?\n  - In your own experience with AI, what are the most common ways an output fails to meet your expectations? How could explicit negative constraints have prevented this?\n  - Beyond simple commands, what are the most subtle ways you can guide an AI's response?",
+        "line_number": 41,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 4257,
+        "char_end": 4711
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**LLMs are Probabilistic Engines:** At its core, an LLM is a massively complex function that, given a sequence of text (the prompt), calculates the probability distribution for the next most likely word (or token). It then selects a token from that distribution, appends it to the sequence, and repeats the process. The \"creativity\" and \"intelligence\" we perceive are emergent properties of this simple, repeated act of probabilistic selection.",
+        "line_number": 70,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 7977,
+        "char_end": 8445
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The River of Language:** Imagine the model's total knowledge as a vast ocean. A prompt is like digging a channel from that ocean. The water (the response) will naturally flow down the path you've started. A simple prompt like \"Tell me about dogs\" digs a very wide, shallow channel, and the water can meander in countless directions—history of domestication, different breeds, dog care, etc.\n\n**Constraints are the riverbanks.**\n\n  - **Positive constraints** build up the banks, directing the flow in a specific direction. Adding \"focusing on the Corgi breed\" narrows the channel. Adding \"in the style of a nature documentary narrator\" further defines the channel's shape and speed.\n  - **Negative constraints** are like dams or levees, blocking off undesirable tributaries. Adding \"Do not mention health problems\" prevents the river from flowing into that specific area. Adding \"Avoid overly sentimental language\" keeps the tone of the water clear and objective.",
+        "line_number": 75,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 8843,
+        "char_end": 9831
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "Effective prompt engineering is the art and science of shaping the probability distribution of the model's potential responses. Positive constraints increase the probability of desired outputs, while negative constraints decrease the probability of undesired outputs. The goal is to create a distribution so sharply peaked around the desired outcome that its generation becomes nearly inevitable.",
+        "line_number": 85,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 10278,
+        "char_end": 10692
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Negative Prompting:** The practice of explicitly instructing a generative model to avoid certain concepts, words, styles, or structures in its output. It is a critical tool for risk mitigation, error prevention, and fine-tuning.",
+        "line_number": 118,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 12807,
+        "char_end": 13056
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Constraint Funnel:**\n\n1.  **Wide Opening (The Goal):** At the top, a broad positive constraint sets the overall objective. `(\"Write an email to my team about the new project.\")`\n1.  **First Filter (Persona & Tone):** A positive role-playing constraint narrows the style. `(\"Act as a confident and motivational team lead.\")`\n1.  **Second Filter (Content Inclusion):** More specific positive constraints define the core content. `(\"Mention the project's name 'Phoenix', the deadline of Nov 30th, and the goal of increasing user engagement by 15%.\")`\n1.  **Third Filter (Stylistic Exclusion):** Negative stylistic constraints remove unwanted tones. `(\"Avoid corporate jargon and do not sound demanding or authoritarian.\")`\n1.  **Fourth Filter (Content Exclusion):** A final negative constraint removes irrelevant or sensitive information. `(\"Do not discuss the project's budget.\")`\n1.  **Narrow Spout (The Output):** The AI's probabilistic engine is now so tightly constrained that the output is highly likely to be a well-formed, motivational email that contains all necessary information and avoids common pitfalls.",
+        "line_number": 135,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 14309,
+        "char_end": 15458
+      },
+      {
+        "type": "connection-ideas",
+        "title": "Untitled",
+        "body": "How does understanding constraint-based prompting change your perspective on AI safety and alignment?",
+        "line_number": 220,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 19141,
+        "char_end": 19267
+      },
+      {
+        "type": "summary",
+        "title": "Untitled",
+        "body": "- **Control Through Boundaries:** The most effective way to control AI output is by setting clear boundaries using positive (inclusion) and negative (exclusion) constraints.\n  - **Probabilistic Shaping:** Constraints work by manipulating the underlying probabilities of the LLM, making desired outputs more likely and undesired ones less likely.\n  - **Positive Constraints Set the Target:** Use explicit commands, role-playing, examples (few-shot), and format specifications to tell the AI what to do.\n  - **Negative Constraints Prevent Errors:** Use content prohibitions, stylistic guardrails, and format exclusions to tell the AI what *not* to do.\n  - **Synergy is Key:** The \"Constraint Funnel\" model—layering broad positive goals with specific inclusionary and exclusionary rules—is a powerful strategy for architecting robust prompts.\n  - **Beyond a Technical Skill:** Mastering constraints is crucial for the reliability, safety, and creative potential of AI applications. It is the language of effective human-AI collaboration.",
+        "line_number": 243,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 23570,
+        "char_end": 24634
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Untitled",
+        "body": "- **Explain It Simply:** How would you explain the difference between a positive and a negative constraint to a 12-year-old who has just started using a chatbot? What real-world analogy, other than the \"River of Language\" or \"Constraint Funnel,\" could you use?\n  - **Identify Core Concepts:** What are the three most important terms or concepts you learned? Define \"Instruction Tuning,\" \"Few-Shot Prompting,\" and \"Negative Prompting\" in your own words.\n  - **Challenge & Connect:** This report argues that constraints can *enhance* creativity. Does this challenge a pre-existing belief you held? How does the concept of constraint-based prompting connect to other fields you know, such as software development, legal contract writing, or even coaching a sports team?\n  - **The Next Step:** What is one task you regularly perform that could be assisted by a generative AI? Design a prompt for this task using the \"Constraint Funnel\" methodology. What specific positive and negative constraints will you need to get a reliable, high-quality result?",
+        "line_number": 254,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 24697,
+        "char_end": 25779
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "Brown, T. B., et al. (2020). *Language Models are Few-Shot Learners*. arXiv:2005.14165. [https://arxiv.org/abs/2005.14165](https://arxiv.org/abs/2005.14165)",
+        "line_number": 263,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 25802,
+        "char_end": 25971
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "Ouyang, L., et al. (2022). *Training language models to follow instructions with human feedback*. arXiv:2203.02155. [https://arxiv.org/abs/2203.02155](https://arxiv.org/abs/2203.02155)",
+        "line_number": 265,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 25971,
+        "char_end": 26168
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "Prompt Engineering Guide. (2024). *Techniques | Prompt Engineering Guide*. [https://www.promptingguide.ai/](https://www.promptingguide.ai/)",
+        "line_number": 267,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 26168,
+        "char_end": 26320
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "Bai, Y., et al. (2022). *Constitutional AI: Harmlessness from AI Feedback*. arXiv:2212.08073. [https://arxiv.org/abs/2212.08073](https://arxiv.org/abs/2212.08073)",
+        "line_number": 269,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 26320,
+        "char_end": 26495
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "Wei, J., et al. (2022). *Chain-of-Thought Prompting Elicits Reasoning in Large Language Models*. arXiv:2201.11903. [https://arxiv.org/abs/2201.11903](https://arxiv.org/abs/2201.11903)",
+        "line_number": 271,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md",
+        "char_start": 26495,
+        "char_end": 26691
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✨ An Exposition on the Methodologies and Principles of Applying Positive and Negative Constraints in Prompt Engineering",
+        "anchor": "an-exposition-on-the-methodologies-and-principles-of-applying-positive-and-negative-constraints-in-prompt-engineering",
+        "line_number": 23,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 2,
+        "text": "1\\. 🗺️ Introduction & Context",
+        "anchor": "1-introduction-context",
+        "line_number": 30,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 2,
+        "text": "2\\. 📜 Historical Context & Intellectual Lineage",
+        "anchor": "2-historical-context-intellectual-lineage",
+        "line_number": 48,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 3,
+        "text": "**Core Analysis: An In-Depth Exposition**",
+        "anchor": "core-analysis-an-in-depth-exposition",
+        "line_number": 62,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 2,
+        "text": "3\\. 📖 Foundational Principles: The \"Why\"",
+        "anchor": "3-foundational-principles-the-why",
+        "line_number": 66,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 2,
+        "text": "4\\. 🛠️ Mechanisms & Processes: The \"How\"",
+        "anchor": "4-mechanisms-processes-the-how",
+        "line_number": 88,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 3,
+        "text": "4.1 The Anatomy of a Positive Constraint (Inclusion)",
+        "anchor": "41-the-anatomy-of-a-positive-constraint-inclusion",
+        "line_number": 92,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 3,
+        "text": "4.2 The Anatomy of a Negative Constraint (Exclusion)",
+        "anchor": "42-the-anatomy-of-a-negative-constraint-exclusion",
+        "line_number": 114,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 3,
+        "text": "4.3 The Synergy: The Constraint Funnel",
+        "anchor": "43-the-synergy-the-constraint-funnel",
+        "line_number": 131,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 2,
+        "text": "5\\. 🔬 Evidence & Manifestations: The \"What\"",
+        "anchor": "5-evidence-manifestations-the-what",
+        "line_number": 147,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 3,
+        "text": "**Example 1: Generating a Professional Email**",
+        "anchor": "example-1-generating-a-professional-email",
+        "line_number": 153,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 3,
+        "text": "**Example 2: Extracting Structured Data**",
+        "anchor": "example-2-extracting-structured-data",
+        "line_number": 187,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 2,
+        "text": "6\\. 🌍 Broader Implications & Significance: The \"So What\"",
+        "anchor": "6-broader-implications-significance-the-so-what",
+        "line_number": 216,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 2,
+        "text": "7\\. ⏳ Current Landscape & Unanswered Questions",
+        "anchor": "7-current-landscape-unanswered-questions",
+        "line_number": 228,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 2,
+        "text": "8\\. 🗝️ Conclusion & Key Takeaways",
+        "anchor": "8-conclusion-key-takeaways",
+        "line_number": 237,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 2,
+        "text": "9\\. 🦖 Active Reading & Reflection (The Feynman Technique)",
+        "anchor": "9-active-reading-reflection-the-feynman-technique",
+        "line_number": 252,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "level": 2,
+        "text": "10\\. 📚 References",
+        "anchor": "10-references",
+        "line_number": 261,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "markdown",
+        "code": "You are a professional and proactive project manager.\n    Draft an email to our client, Sarah Miller, regarding a missed deadline for the \"Q4 Analytics Dashboard\" project.\n\n    **Positive Constraints:**\n    - The tone must be apologetic, professional, and solution-oriented.\n    - Clearly state that the new, confirmed delivery date is this Friday, October 20th, 2025.\n    - Briefly explain the cause was an \"unexpected integration issue with a third-party API.\"\n    - Propose a brief 15-minute call tomorrow to walk her through the updated dashboard.\n\n    **Negative Constraints:**\n    - Do not blame any specific team members.\n    - Do not use overly emotional or casual language (e.g., \"we're so sorry,\" \"our bad\").\n    - Avoid vague promises about future delivery.",
+        "line_start": 160,
+        "line_end": 174,
+        "char_count": 768,
+        "line_count": 13,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "language": "markdown",
+        "code": "From the text below, extract the required entities.\n\n    **Positive Constraint:**\n    - The output format must be a valid JSON object with the keys \"companyName\" and \"reportDate\".\n    - The date should be in ISO 8601 format (YYYY-MM-DD).\n\n    **Negative Constraint:**\n    - The output should contain *only* the JSON object and no other explanatory text.\n\n    **Text:** \"The quarterly report for Innovate Corp. was released on May 1, 2024, showing strong growth.\"",
+        "line_start": 194,
+        "line_end": 205,
+        "char_count": 462,
+        "line_count": 10,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "language": "json",
+        "code": "{\n      \"companyName\": \"Innovate Corp.\",\n      \"reportDate\": \"2024-05-01\"\n    }",
+        "line_start": 209,
+        "line_end": 214,
+        "char_count": 79,
+        "line_count": 4,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [
+      {
+        "display_text": "https://arxiv.org/abs/2005.14165",
+        "url": "https://arxiv.org/abs/2005.14165",
+        "format": "markdown",
+        "line_number": 264,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "display_text": "https://arxiv.org/abs/2203.02155",
+        "url": "https://arxiv.org/abs/2203.02155",
+        "format": "markdown",
+        "line_number": 266,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "display_text": "https://www.promptingguide.ai/",
+        "url": "https://www.promptingguide.ai/",
+        "format": "markdown",
+        "line_number": 268,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "display_text": "https://arxiv.org/abs/2212.08073",
+        "url": "https://arxiv.org/abs/2212.08073",
+        "format": "markdown",
+        "line_number": 270,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      },
+      {
+        "display_text": "https://arxiv.org/abs/2201.11903",
+        "url": "https://arxiv.org/abs/2201.11903",
+        "format": "markdown",
+        "line_number": 272,
+        "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "**Explicit Commands:** This is the most direct form of constraint. It involves using imperative verbs to define the task.",
+          "indent_level": 1,
+          "line_number": 95,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Write a three-paragraph summary...\"`",
+          "indent_level": 3,
+          "line_number": 97,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Translate the following text into Japanese.\"`",
+          "indent_level": 3,
+          "line_number": 98,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Generate a Python function that sorts a list.\"`",
+          "indent_level": 3,
+          "line_number": 99,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Role-Playing / Persona Adoption:** Assigning a role to the AI is a powerful way to constrain its tone, vocabulary, and knowledge base.",
+          "indent_level": 1,
+          "line_number": 100,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"You are an expert astrophysicist. Explain the concept of a black hole...\"`",
+          "indent_level": 3,
+          "line_number": 101,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Act as a skeptical financial journalist. Analyze the following press release...\"`",
+          "indent_level": 3,
+          "line_number": 102,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Few-Shot Prompting (Exemplars):** Providing examples of the desired output is one of the most effective ways to constrain format and style. The model learns by analogy.",
+          "indent_level": 1,
+          "line_number": 103,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Translate the following English sentences to French:`",
+          "indent_level": 3,
+          "line_number": 104,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Format Specification:** Explicitly defining the output structure. This is critical for data generation and integration with other software.",
+          "indent_level": 1,
+          "line_number": 109,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Provide the answer in a JSON format with the keys 'name', 'date', and 'summary'.\"`",
+          "indent_level": 3,
+          "line_number": 111,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Use Markdown for your response. All headings should be H2, and key terms should be bolded.\"`",
+          "indent_level": 3,
+          "line_number": 112,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Content Prohibitions:** The most common use is to prevent the model from discussing certain topics or including specific information.",
+          "indent_level": 1,
+          "line_number": 120,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Summarize the article, but do not include any information about the author's personal life.\"`",
+          "indent_level": 3,
+          "line_number": 122,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Write a product description for this new hiking boot. Avoid making any specific medical claims about foot support.\"`",
+          "indent_level": 3,
+          "line_number": 123,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Stylistic Guardrails:** These constraints control the tone and language of the output, preventing it from straying into undesirable styles.",
+          "indent_level": 1,
+          "line_number": 124,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Explain the process of photosynthesis. Use simple terms and avoid scientific jargon.\"`",
+          "indent_level": 3,
+          "line_number": 125,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Draft a professional email to a client. Never use slang, emojis, or contractions.\"`",
+          "indent_level": 3,
+          "line_number": 126,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Format Exclusions:** This involves specifying structures or elements to omit.",
+          "indent_level": 1,
+          "line_number": 127,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Provide a list of key takeaways. Do not number them; use bullet points.\"`",
+          "indent_level": 3,
+          "line_number": 128,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "`\"Write a story, but do not use any dialogue.\"`",
+          "indent_level": 3,
+          "line_number": 129,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Unconstrained Prompt:** `Write an email to a client, Sarah, telling her we missed the deadline.`",
+          "indent_level": 1,
+          "line_number": 154,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Potential Output:** *Hi Sarah, Sorry but we're behind on the project and missed the deadline. We'll get it to you as soon as we can. Thanks, Me.*",
+          "indent_level": 1,
+          "line_number": 156,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Critique:** This output is unprofessional, lacks detail, offers no solution, and could damage the client relationship.",
+          "indent_level": 3,
+          "line_number": 157,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Constrained Prompt:**",
+          "indent_level": 1,
+          "line_number": 158,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**High-Quality Output:** *Subject: Update on the Q4 Analytics Dashboard Project*",
+          "indent_level": 11,
+          "line_number": 159,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Unconstrained Prompt:** `Pull the name of the company and the date from this text: \"The quarterly report for Innovate Corp. was released on May 1, 2024, showing strong growth.\"`",
+          "indent_level": 1,
+          "line_number": 176,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Potential Output:** *Innovate Corp., May 1, 2024*",
+          "indent_level": 1,
+          "line_number": 178,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Critique:** The format is unstructured and unusable for a database or script.",
+          "indent_level": 3,
+          "line_number": 178,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Constrained Prompt:**",
+          "indent_level": 1,
+          "line_number": 179,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**High-Quality Output:**",
+          "indent_level": 10,
+          "line_number": 179,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Reliability and Automation:** For businesses to integrate LLMs into critical workflows—such as customer support, data analysis, or content creation—output predictability is non-negotiable. A well-constrained prompt system is the difference between a novelty chatbot and a reliable automated agent. It allows for the creation of systems that produce consistent results at scale.",
+          "indent_level": 1,
+          "line_number": 187,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**AI Safety and Alignment:** At a larger scale, negative constraints are a fundamental tool for AI safety. By building prompts and system-level instructions that explicitly forbid the generation of harmful, biased, or unethical content, we can create guardrails that align AI behavior more closely with human values. Techniques like **Constitutional AI**, where a model is trained to adhere to a set of principles (a constitution), are essentially a sophisticated, baked-in form of negative constraints.",
+          "indent_level": 1,
+          "line_number": 192,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Enhancing Creativity:** It may seem counter-intuitive, but constraints can foster creativity. The \"blank page\" can be paralyzing. By providing a clear set of rules and boundaries (e.g., \"Write a sonnet about space exploration, but do not use the word 'star'\"), we can force the AI to find novel and interesting solutions, pushing it beyond its most cliché statistical associations.",
+          "indent_level": 1,
+          "line_number": 207,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Automated Prompt Optimization:** Researchers are developing AI systems that can themselves optimize prompts. A user provides a basic goal and a set of quality criteria, and another AI iteratively refines the prompt—adding, removing, and rephrasing constraints—to find the version that produces the best results most reliably.",
+          "indent_level": 1,
+          "line_number": 224,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**The Challenge of \"Instruction Following\":** Not all models are created equal when it comes to following constraints. Larger, more advanced models tend to be better instruction-followers. However, even the best models can sometimes \"ignore\" or misinterpret complex negative constraints, especially when they conflict with other parts of the prompt. Research into improving the robustness of instruction following is a key area of focus.",
+          "indent_level": 1,
+          "line_number": 225,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**Implicit vs. Explicit Control:** The current methodology relies heavily on explicit natural language instructions. Future systems may allow for more implicit forms of control. For example, a user might simply correct a model's output, and the model would infer the negative constraint (\"don't do that again\") for future interactions without it ever being stated.",
+          "indent_level": 1,
+          "line_number": 226,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        },
+        {
+          "text": "**The \"Weight\" of Constraints:** A significant open question is how models weigh different constraints. If a positive constraint (\"be creative\") conflicts with a negative one (\"avoid clichés\"), how does the model decide which takes precedence? Understanding and controlling this internal calculus is a major goal for future research.",
+          "indent_level": 1,
+          "line_number": 230,
+          "source": "prompt-report-applying-positive-and-negative-constraints-in-prompt-engineering-20251120083100.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

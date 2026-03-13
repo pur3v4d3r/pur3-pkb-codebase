@@ -1,0 +1,1763 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:46.814287",
+    "source_file": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reports\\pkb-report-self-determination-theory-in-pkm-202511202348.md",
+    "source_file_size_bytes": 54430,
+    "processing_time_seconds": 0.01
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Self Determination Theory in PKM",
+      "aliases": [
+        "SDT in PKM",
+        "Motivation Theory in Knowledge Work"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "pkb",
+        "cognitive-science",
+        "pkm/workflow",
+        "pkb/architecture",
+        "pkb/design",
+        "cognitive-science/mental-models",
+        "self-improvement/mental-models",
+        "concept/synthesis"
+      ],
+      "source": "claude-sonnet-4.5",
+      "status": "read",
+      "rating": "7",
+      "id": "20251120235042",
+      "created": "2025-11-20T23:50:42",
+      "week": "[[2025-W47]]",
+      "month": "[[2025-11]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "pkb/report",
+      "link-up": [
+        "[[pkb-knowledge-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-20|Daily-Note]]"
+      ]
+    },
+    "word_count": 6859,
+    "character_count": 53651,
+    "line_count": 328,
+    "heading_count": 26
+  },
+  "extraction_summary": {
+    "total_items_extracted": 151,
+    "by_type": {
+      "headings": 26,
+      "callouts": 12,
+      "wiki_links": 79,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 3,
+      "tables": 0,
+      "external_links": 15,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 4,
+      "lists_unordered": 12,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 2,
+      "text": "🧬 Foundations: The Architecture of Human Motivation",
+      "anchor": "foundations-the-architecture-of-human-motivation",
+      "line_number": 47,
+      "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "💡 The Three Psychological Needs: Theoretical Architecture",
+      "anchor": "the-three-psychological-needs-theoretical-architecture",
+      "line_number": 63,
+      "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Autonomy: The Need for Volition and Self-Direction",
+          "anchor": "autonomy-the-need-for-volition-and-self-direction",
+          "line_number": 65,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Competence: The Need for Effectance and Mastery",
+          "anchor": "competence-the-need-for-effectance-and-mastery",
+          "line_number": 76,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Relatedness: The Need for Connection and Belonging",
+          "anchor": "relatedness-the-need-for-connection-and-belonging",
+          "line_number": 89,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "🔬 Mechanisms: How Need Satisfaction Drives Sustained Engagement",
+      "anchor": "mechanisms-how-need-satisfaction-drives-sustained-engagement",
+      "line_number": 100,
+      "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "The Motivation Continuum and Internalization",
+          "anchor": "the-motivation-continuum-and-internalization",
+          "line_number": 102,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "The Role of Mindfulness and Self-Regulation",
+          "anchor": "the-role-of-mindfulness-and-self-regulation",
+          "line_number": 112,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Flow, Vitality, and Sustainable Engagement",
+          "anchor": "flow-vitality-and-sustainable-engagement",
+          "line_number": 120,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "📊 Evidence: Empirical Support Across Contexts",
+      "anchor": "evidence-empirical-support-across-contexts",
+      "line_number": 128,
+      "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Educational Technology and Digital Learning Environments",
+          "anchor": "educational-technology-and-digital-learning-environments",
+          "line_number": 130,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Knowledge Management in Organizations",
+          "anchor": "knowledge-management-in-organizations",
+          "line_number": 138,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Motivation and Technology Acceptance",
+          "anchor": "motivation-and-technology-acceptance",
+          "line_number": 146,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "🎯 Implications: Design Principles for Need-Supportive PKB Systems",
+      "anchor": "implications-design-principles-for-need-supportive-pkb-systems",
+      "line_number": 152,
+      "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Autonomy-Supportive Design",
+          "anchor": "autonomy-supportive-design",
+          "line_number": 154,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Competence-Supportive Design",
+          "anchor": "competence-supportive-design",
+          "line_number": 163,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Relatedness-Supportive Design",
+          "anchor": "relatedness-supportive-design",
+          "line_number": 172,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Addressing the Abandonment Pattern",
+          "anchor": "addressing-the-abandonment-pattern",
+          "line_number": 181,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "🔮 Frontiers: Contemporary Research and Open Questions",
+      "anchor": "frontiers-contemporary-research-and-open-questions",
+      "line_number": 192,
+      "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Digital Technology and Evolving Motivational Contexts",
+          "anchor": "digital-technology-and-evolving-motivational-contexts",
+          "line_number": 194,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Cultural Variation in Need Expression",
+          "anchor": "cultural-variation-in-need-expression",
+          "line_number": 200,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Lifespan Developmental Considerations",
+          "anchor": "lifespan-developmental-considerations",
+          "line_number": 206,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "The Role of Passion and Purpose",
+          "anchor": "the-role-of-passion-and-purpose",
+          "line_number": 212,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "🔄 Synthesis: Motivation as the Master Key",
+      "anchor": "synthesis-motivation-as-the-master-key",
+      "line_number": 218,
+      "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 231,
+      "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "📚 References & Resources",
+      "anchor": "references-resources",
+      "line_number": 255,
+      "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "**Self-Determination Theory represents a foundational framework for understanding why Personal Knowledge Management systems so frequently fail despite their theoretical promise.** Developed by psychologists Edward Deci and Richard Ryan beginning in the 1970s and formally introduced in their 1985 work, [[Self-Determination Theory]] posits that human motivation exists on a continuum from fully external to fully internal regulation, and that **sustainable engagement requires the satisfaction of three innate psychological needs: autonomy, competence, and relatedness.** When applied to [[Personal Knowledge Management]] systems, SDT reveals that most PKB implementations fail not because of technical inadequacy but because they structurally frustrate these basic needs, transforming what should be an intrinsically motivated knowledge practice into a controlled obligation that triggers abandonment. This analysis examines the cognitive architecture underlying motivation for sustained knowledge work, exploring how system design choices either support or undermine the psychological conditions necessary for lifelong learning engagement.",
+        "line_number": 44,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 974,
+        "char_end": 2132
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**[[Self-Determination Theory]] (SDT)** is a macro-theory of human motivation and personality that distinguishes between autonomous (self-determined) and controlled motivations, proposing that psychological wellness and optimal functioning depend upon the satisfaction of three universal, innate psychological needs: autonomy, competence, and relatedness. Unlike theories focused solely on the *quantity* of motivation, SDT emphasizes that the *quality* of motivation—specifically, whether behavior is experienced as voluntary versus compelled—fundamentally determines both performance outcomes and psychological well-being.",
+        "line_number": 49,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 2189,
+        "char_end": 2832
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**The Central Theoretical Claim: Three Universal Psychological Needs**\n\nAt the heart of Self-Determination Theory lies the proposition that three innate psychological needs—competence, autonomy, and relatedness—when satisfied yield enhanced self-motivation and mental health, and when thwarted lead to diminished motivation and well-being. These needs are characterized as *universal* (present across all humans regardless of culture), *innate* (part of evolved human nature rather than learned), and *essential* (necessary nutrients for psychological growth rather than merely desirable). The theory predicts that **social-contextual conditions** either facilitate or forestall these needs, and that the degree of need satisfaction determines whether individuals function proactively and with vitality versus passively and with alienation.",
+        "line_number": 56,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 5501,
+        "char_end": 6367
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**[[Autonomy]]** in Self-Determination Theory refers to the experience of volition, self-endorsement, and psychological freedom in one's actions—the feeling that behavior originates from the self rather than from external pressure or internal compulsion. Autonomy does not mean independence or freedom from influence; rather, it describes behavior that is experienced as personally endorsed and congruent with one's integrated sense of self.",
+        "line_number": 67,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 7033,
+        "char_end": 7493
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**[[Competence]]** refers to the need to feel effective in producing desired outcomes and exercising one's capacities—the experience of mastery, efficacy, and optimal challenge. Competence is satisfied when individuals can successfully navigate their environment and witness the tangible results of their efforts, neither overwhelmed by excessive difficulty nor understimulated by trivial ease.",
+        "line_number": 78,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 10000,
+        "char_end": 10413
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**[[Relatedness]]** describes the need to feel connected to others, to experience caring relationships, and to have a sense of belonging within a community. It encompasses both receiving care and support from others and providing care to others who matter to one's sense of identity and social connection.",
+        "line_number": 91,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 13326,
+        "char_end": 13650
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**PKB systems must be designed as tools for autonomous exploration rather than as prescriptive methodologies imposing \"correct\" workflows.** The distinction is subtle but psychologically profound: a system that says \"here are capabilities you might find useful\" supports autonomy, while a system that says \"follow this workflow to achieve inbox zero\" undermines it.",
+        "line_number": 156,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 28933,
+        "char_end": 29314
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Effective PKB systems must deliver tangible evidence of enhanced cognitive capability within the first hours of use, not after weeks of diligent practice.** The psychological research is unambiguous: positive feedback enhanced intrinsic motivation while negative feedback diminished it, with effects mediated by perceived control. A system that provides immediate, visible returns on cognitive investment satisfies competence needs; one that demands extensive setup before delivering value does not.",
+        "line_number": 165,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 30834,
+        "char_end": 31351
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**PKB systems should function as gateways to knowledge communities rather than as isolated containers.** Cognitive presence and social presence significantly associated with autonomy, competence, relevance, and perceived learning, with cognitive presence and social presence able to augment cognitive processes and amplify the mediating role of relatedness. This suggests that even personal knowledge management benefits profoundly from social scaffolding.",
+        "line_number": 174,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 32860,
+        "char_end": 33332
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**The most common PKB failure pattern—initial enthusiasm followed by guilt-laden abandonment—is a textbook example of need frustration leading to controlled motivation and eventual disengagement.** Understanding this pattern through SDT reveals that the problem is not lack of discipline but psychological misalignment between the system's structure and human motivational architecture.",
+        "line_number": 183,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 34591,
+        "char_end": 34993
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**The persistent failure of Personal Knowledge Management implementations is fundamentally a motivational failure, not a technical or methodological one.** Users abandon PKB systems not because the systems are inadequately featured but because they are psychologically misaligned with human motivational architecture. When viewed through the lens of Self-Determination Theory, the pattern becomes clear: systems that frustrate the basic psychological needs for autonomy, competence, and relatedness inevitably produce controlled motivation, which is inherently unsustainable and psychologically depleting.",
+        "line_number": 220,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 42251,
+        "char_end": 42874
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "**Core Self-Determination Theory Sources:**\n- [Self-Determination Theory - Official Website](https://selfdeterminationtheory.org/theory/) - Primary resource from Ryan and Deci\n- [Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being (2000)](https://pubmed.ncbi.nlm.nih.gov/11392867/) - Foundational paper by Ryan & Deci\n- [Brick by Brick: The Origins, Development, and Future of Self-Determination Theory](https://selfdeterminationtheory.org/wp-content/uploads/2019/06/2019_RyanDeci_BrickByBrick_PrePrint.pdf) - Comprehensive historical and theoretical overview\n- [Self-Determination Theory Encyclopedia Entry](https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf) - Concise scholarly summary\n\n**SDT in Educational Contexts:**\n- [Self-Determination Theory and the Facilitation of Intrinsic Motivation in Educational Contexts (2020)](https://stial.ie/resources/Ryan and Deci 2020 self determination theory.pdf) - Application to education\n- [Psychological Aspects of Digital Learning: A Self-Determination Theory Perspective (2020)](https://files.eric.ed.gov/fulltext/EJ1274310.pdf) - SDT in digital education\n- [Self-determination and perceived learning in online learning communities (2024)](https://www.nature.com/articles/s41598-024-74878-4) - Recent research on online learning\n- [Applying SDT to explain student engagement in online learning during COVID-19](https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1891998) - Pandemic-era applications\n\n**Motivation in Knowledge Work:**\n- [Unlock the Intrinsic Motivation of Knowledge Workers - SAFe](https://www.scaledagileframework.com/unlock-the-intrinsic-motivation-of-knowledge-workers/) - Application to professional contexts\n- [The influence of intrinsic and extrinsic motivation on individuals' knowledge sharing behavior](https://www.sciencedirect.com/science/article/abs/pii/S1071581911000218) - Experimental research on knowledge sharing\n- [Knowledge system commitment and knowledge sharing intention](https://www.sciencedirect.com/science/article/abs/pii/S0268401217306254) - Personal information management motivation\n- [Frontiers: The Effects of Employees' Perceived Intrinsic Motivation on Knowledge Sharing](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.762994/full) - Intrinsic motivation and knowledge work\n\n**PKB Systems and Practices:**\n- [The Seven Deadly Sins of PKM](https://medium.com/@ConstructByDee/the-seven-deadly-sins-of-pkm-personal-knowledge-management-7dd2e410b866) - Common failure patterns\n- [Personal Knowledge Base - Wikipedia](https://en.wikipedia.org/wiki/Personal_knowledge_base) - Historical overview and technical definitions\n- [Personal Knowledge Base Software Guide](https://www.myinfoapp.com/blog/ultimate-personal-knowledge-base-guide) - Practical implementation considerations",
+        "line_number": 257,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md",
+        "char_start": 47990,
+        "char_end": 50930
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 45,
+        "section": "Document Start",
+        "context_line": "> **Self-Determination Theory represents a foundational framework for understanding why Personal Knowledge Management systems so frequently fail despite their theoretical promise.** Developed by psychologists Edward Deci and Richard Ryan beginning in the 1970s and formally introduced in their 1985 work, [[Self-Determination Theory]] posits that human motivation exists on a continuum from fully external to fully internal regulation, and that **sustainable engagement requires the satisfaction of three innate psychological needs: autonomy, competence, and relatedness.** When applied to [[Personal Knowledge Management]] systems, SDT reveals that most PKB implementations fail not because of technical inadequacy but because they structurally frustrate these basic needs, transforming what should be an intrinsically motivated knowledge practice into a controlled obligation that triggers abandonment. This analysis examines the cognitive architecture underlying motivation for sustained knowledge work, exploring how system design choices either support or undermine the psychological conditions necessary for lifelong learning engagement.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Management]]",
+        "line_number": 45,
+        "section": "Document Start",
+        "context_line": "> **Self-Determination Theory represents a foundational framework for understanding why Personal Knowledge Management systems so frequently fail despite their theoretical promise.** Developed by psychologists Edward Deci and Richard Ryan beginning in the 1970s and formally introduced in their 1985 work, [[Self-Determination Theory]] posits that human motivation exists on a continuum from fully external to fully internal regulation, and that **sustainable engagement requires the satisfaction of three innate psychological needs: autonomy, competence, and relatedness.** When applied to [[Personal Knowledge Management]] systems, SDT reveals that most PKB implementations fail not because of technical inadequacy but because they structurally frustrate these basic needs, transforming what should be an intrinsically motivated knowledge practice into a controlled obligation that triggers abandonment. This analysis examines the cognitive architecture underlying motivation for sustained knowledge work, exploring how system design choices either support or undermine the psychological conditions necessary for lifelong learning engagement.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 50,
+        "section": "🧬 Foundations: The Architecture of Human Motivation",
+        "context_line": "> **[[Self-Determination Theory]] (SDT)** is a macro-theory of human motivation and personality that distinguishes between autonomous (self-determined) and controlled motivations, proposing that psychological wellness and optimal functioning depend upon the satisfaction of three universal, innate psychological needs: autonomy, competence, and relatedness. Unlike theories focused solely on the *quantity* of motivation, SDT emphasizes that the *quality* of motivation—specifically, whether behavior is experienced as voluntary versus compelled—fundamentally determines both performance outcomes and psychological well-being.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 52,
+        "section": "🧬 Foundations: The Architecture of Human Motivation",
+        "context_line": "The historical emergence of [[Self-Determination Theory]] represents what Ryan, Di Domenico, and Deci describe as a \"naturalistic turn\" in [[Motivation Science]]. Throughout most of the twentieth century, the field of human motivation was dominated by a [[Behavioral Psychology]] metapsychology preoccupied with external control mechanisms—how factors external to the person such as rewards, punishments, and environmental contingencies could shape behavior. This focus, rooted in the work of behaviorists like B.F. Skinner and his principles of [[Operant Conditioning]], produced valuable insights into behavioral malleability but simultaneously crowded out inquiry into how actions are more naturalistically organized *within* persons. The behaviorist paradigm viewed humans as essentially reactive organisms whose behavior could be understood through stimulus-response patterns, leaving little room for investigating the active, integrative processes through which individuals organize their own actions.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Motivation Science",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivation Science]]",
+        "line_number": 52,
+        "section": "🧬 Foundations: The Architecture of Human Motivation",
+        "context_line": "The historical emergence of [[Self-Determination Theory]] represents what Ryan, Di Domenico, and Deci describe as a \"naturalistic turn\" in [[Motivation Science]]. Throughout most of the twentieth century, the field of human motivation was dominated by a [[Behavioral Psychology]] metapsychology preoccupied with external control mechanisms—how factors external to the person such as rewards, punishments, and environmental contingencies could shape behavior. This focus, rooted in the work of behaviorists like B.F. Skinner and his principles of [[Operant Conditioning]], produced valuable insights into behavioral malleability but simultaneously crowded out inquiry into how actions are more naturalistically organized *within* persons. The behaviorist paradigm viewed humans as essentially reactive organisms whose behavior could be understood through stimulus-response patterns, leaving little room for investigating the active, integrative processes through which individuals organize their own actions.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Behavioral Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Behavioral Psychology]]",
+        "line_number": 52,
+        "section": "🧬 Foundations: The Architecture of Human Motivation",
+        "context_line": "The historical emergence of [[Self-Determination Theory]] represents what Ryan, Di Domenico, and Deci describe as a \"naturalistic turn\" in [[Motivation Science]]. Throughout most of the twentieth century, the field of human motivation was dominated by a [[Behavioral Psychology]] metapsychology preoccupied with external control mechanisms—how factors external to the person such as rewards, punishments, and environmental contingencies could shape behavior. This focus, rooted in the work of behaviorists like B.F. Skinner and his principles of [[Operant Conditioning]], produced valuable insights into behavioral malleability but simultaneously crowded out inquiry into how actions are more naturalistically organized *within* persons. The behaviorist paradigm viewed humans as essentially reactive organisms whose behavior could be understood through stimulus-response patterns, leaving little room for investigating the active, integrative processes through which individuals organize their own actions.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Operant Conditioning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Operant Conditioning]]",
+        "line_number": 52,
+        "section": "🧬 Foundations: The Architecture of Human Motivation",
+        "context_line": "The historical emergence of [[Self-Determination Theory]] represents what Ryan, Di Domenico, and Deci describe as a \"naturalistic turn\" in [[Motivation Science]]. Throughout most of the twentieth century, the field of human motivation was dominated by a [[Behavioral Psychology]] metapsychology preoccupied with external control mechanisms—how factors external to the person such as rewards, punishments, and environmental contingencies could shape behavior. This focus, rooted in the work of behaviorists like B.F. Skinner and his principles of [[Operant Conditioning]], produced valuable insights into behavioral malleability but simultaneously crowded out inquiry into how actions are more naturalistically organized *within* persons. The behaviorist paradigm viewed humans as essentially reactive organisms whose behavior could be understood through stimulus-response patterns, leaving little room for investigating the active, integrative processes through which individuals organize their own actions.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Intrinsic Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intrinsic Motivation]]",
+        "line_number": 54,
+        "section": "🧬 Foundations: The Architecture of Human Motivation",
+        "context_line": "Deci and Ryan's collaboration, which began in the 1970s and culminated in their 1985 book *Intrinsic Motivation and Self-Determination in Human Behavior*, emerged from early experimental work on [[Intrinsic Motivation]] that challenged behaviorist assumptions about the primacy of external reinforcement. Their foundational studies revealed a counterintuitive finding: introducing external rewards for intrinsically interesting activities could actually *undermine* subsequent interest in those activities—a phenomenon that directly contradicted predictions from reinforcement theory. This \"undermining effect\" suggested that humans possess inherent tendencies toward growth and integration that external control attempts can actively suppress rather than enhance. Building on this insight, Deci and Ryan developed SDT \"brick by brick\" over four decades, explicitly embracing convergent conceptual replications and considering evidence derived across multiple methods and contexts before adding formal propositions to the theory. This conservative elaboration strategy has resulted in SDT's current structure as six interrelated \"mini-theories\" that systematically address different aspects of motivated behavior: **Cognitive Evaluation Theory** (factors affecting intrinsic motivation), **Organismic Integration Theory** (internalization of extrinsic motivation), **Causality Orientations Theory** (individual differences in motivational orientation), **Basic Psychological Needs Theory** (the three fundamental needs), **Goal Contents Theory** (intrinsic versus extrinsic life goals), and **Relationship Motivation Theory** (close personal relationships).",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Management]]",
+        "line_number": 61,
+        "section": "🧬 Foundations: The Architecture of Human Motivation",
+        "context_line": "The significance of this framework for understanding [[Personal Knowledge Management]] cannot be overstated. PKB systems are not neutral containers for information—they are **psychological architectures** that structure how individuals relate to their own knowledge work. Every design choice in a PKB system either supports or thwarts the satisfaction of these three needs, and the cumulative effect of these micro-level need frustrations determines whether the system becomes a sustainable practice or another abandoned productivity experiment.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Autonomy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Autonomy]]",
+        "line_number": 68,
+        "section": "Autonomy: The Need for Volition and Self-Direction",
+        "context_line": "> **[[Autonomy]]** in Self-Determination Theory refers to the experience of volition, self-endorsement, and psychological freedom in one's actions—the feeling that behavior originates from the self rather than from external pressure or internal compulsion. Autonomy does not mean independence or freedom from influence; rather, it describes behavior that is experienced as personally endorsed and congruent with one's integrated sense of self.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Introjected Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Introjected Regulation]]",
+        "line_number": 72,
+        "section": "Autonomy: The Need for Volition and Self-Direction",
+        "context_line": "Consider the common PKB pattern of setting up elaborate capture systems with inbox zero aspirations. What begins as an autonomy-supportive tool—\"I *choose* to capture my thoughts systematically\"—can quickly metastasize into a source of controlled motivation: \"I *must* process this backlog; I *should* review these notes; I *ought* to maintain this system.\" The psychological experience shifts from self-directed exploration to obligation fulfillment. When this happens, the individual moves from experiencing their knowledge work as intrinsically motivated behavior to experiencing it as externally regulated behavior, even though no external agent is actually imposing the requirement. This phenomenon, known as **[[Introjected Regulation]]**, represents a partially internalized form of extrinsic motivation where individuals perform behaviors to avoid guilt or anxiety rather than from genuine endorsement. The PKB becomes a source of \"[[Shoulds and Oughts]]\" rather than a canvas for intellectual exploration.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Shoulds and Oughts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Shoulds and Oughts]]",
+        "line_number": 72,
+        "section": "Autonomy: The Need for Volition and Self-Direction",
+        "context_line": "Consider the common PKB pattern of setting up elaborate capture systems with inbox zero aspirations. What begins as an autonomy-supportive tool—\"I *choose* to capture my thoughts systematically\"—can quickly metastasize into a source of controlled motivation: \"I *must* process this backlog; I *should* review these notes; I *ought* to maintain this system.\" The psychological experience shifts from self-directed exploration to obligation fulfillment. When this happens, the individual moves from experiencing their knowledge work as intrinsically motivated behavior to experiencing it as externally regulated behavior, even though no external agent is actually imposing the requirement. This phenomenon, known as **[[Introjected Regulation]]**, represents a partially internalized form of extrinsic motivation where individuals perform behaviors to avoid guilt or anxiety rather than from genuine endorsement. The PKB becomes a source of \"[[Shoulds and Oughts]]\" rather than a canvas for intellectual exploration.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Autonomy Support",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Autonomy Support]]",
+        "line_number": 74,
+        "section": "Autonomy: The Need for Volition and Self-Direction",
+        "context_line": "Research on [[Autonomy Support]] in educational contexts reveals specific practices that either facilitate or undermine autonomy. Autonomy-supportive environments provide meaningful rationales for activities, acknowledge the learner's perspective and feelings, offer choice within structure, and minimize the use of controlling language such as \"should,\" \"must,\" or \"have to.\" Translated to PKB design, this suggests that systems should offer flexible workflows rather than prescriptive methodologies, support multiple organizational paradigms rather than enforcing a single \"correct\" approach, and frame features as optional capabilities rather than mandatory procedures. The system should accommodate the user's existing cognitive style rather than demanding conformity to an idealized workflow.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Competence",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Competence]]",
+        "line_number": 79,
+        "section": "Competence: The Need for Effectance and Mastery",
+        "context_line": "> **[[Competence]]** refers to the need to feel effective in producing desired outcomes and exercising one's capacities—the experience of mastery, efficacy, and optimal challenge. Competence is satisfied when individuals can successfully navigate their environment and witness the tangible results of their efforts, neither overwhelmed by excessive difficulty nor understimulated by trivial ease.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 85,
+        "section": "Competence: The Need for Effectance and Mastery",
+        "context_line": "Second, the system must operate within what [[Cognitive Load Theory]] describes as the user's **zone of proximal competence**—challenging enough to provide feelings of growth but not so overwhelming that it triggers frustration and helplessness. Many PKB implementations fail precisely because they impose such high **germane cognitive load** (the mental effort required to master the system itself) that users never reach the point where the system reduces their extraneous load for actual knowledge work. The phenomenon documented in PKB communities as \"tool lust\" or \"shiny object syndrome\" often represents repeated attempts to find a system that delivers competence satisfaction rather than competence frustration.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Implementation Cost",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implementation Cost]]",
+        "line_number": 87,
+        "section": "Competence: The Need for Effectance and Mastery",
+        "context_line": "Third, competence satisfaction requires **progressive disclosure of capability**—users should be able to achieve meaningful outcomes at novice skill levels while discovering increasingly sophisticated capabilities as their mastery grows. Digital education maximally meets the need for autonomy in that a person can determine for themselves when, where, and how to learn, but meeting basic needs has proven to be the most important issue in addressing motivation for continuing in a course. A PKB system that demands extensive upfront configuration before delivering any value creates what behavioral economists call a **[[Implementation Cost]]** that most users will not pay, regardless of the system's theoretical potential.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Relatedness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Relatedness]]",
+        "line_number": 92,
+        "section": "Relatedness: The Need for Connection and Belonging",
+        "context_line": "> **[[Relatedness]]** describes the need to feel connected to others, to experience caring relationships, and to have a sense of belonging within a community. It encompasses both receiving care and support from others and providing care to others who matter to one's sense of identity and social connection.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Digital Gardens",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Digital Gardens]]",
+        "line_number": 96,
+        "section": "Relatedness: The Need for Connection and Belonging",
+        "context_line": "The contemporary phenomenon of \"Learning in Public\" and the emergence of **[[Digital Gardens]]** as a PKM paradigm directly addresses this relatedness need. When individuals share their in-progress thinking through public notes, participate in PKM communities, or engage in collaborative knowledge-building, they transform what could be an isolated practice into a socially embedded one. In organizational knowledge management contexts, tacit knowledge management with intrinsic motivation represents the ideal situation, where participants are motivated intrinsically and management can avoid extrinsic rewards while potentially implementing other intrinsic rewards. The same principle applies to personal knowledge work: when individuals experience their PKB practice as connected to a community of fellow knowledge workers, when they can seek support during difficulties and offer their own insights to help others, the practice becomes psychologically sustainable in ways that purely private knowledge work cannot achieve.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Organismic Integration Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Organismic Integration Theory]]",
+        "line_number": 104,
+        "section": "The Motivation Continuum and Internalization",
+        "context_line": "Self-Determination Theory's most sophisticated contribution to understanding motivation lies in its description of **[[Organismic Integration Theory]]** (OIT), which models how initially external motivations can become progressively internalized and integrated into the self. The theory identifies a continuum ranging from amotivation (no motivation), through various forms of extrinsic motivation (external regulation, introjected regulation, identified regulation, integrated regulation), to intrinsic motivation. Understanding this continuum is essential for diagnosing why PKB practices fail and for designing interventions that support internalization.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Internalized Shoulds",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Internalized Shoulds]]",
+        "line_number": 106,
+        "section": "The Motivation Continuum and Internalization",
+        "context_line": "At the low end of autonomy, **External Regulation** describes behavior performed to obtain rewards or avoid punishments—studying only because a test is imminent, or maintaining a PKB only because one's employer requires documentation. Such behavior exhibits no autonomous regulation and ceases immediately when the external contingency is removed. **Introjected Regulation** represents partial internalization where behavior is performed to avoid guilt, anxiety, or shame, or to attain ego enhancements like pride. This is the PKB user who feels crushing guilt about their \"neglected\" system but experiences no genuine interest in engaging with it—the system has become a source of [[Internalized Shoulds]] rather than autonomous motivation.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Mindfulness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mindfulness]]",
+        "line_number": 114,
+        "section": "The Role of Mindfulness and Self-Regulation",
+        "context_line": "Research has supported the SDT view that mindfulness is associated with autonomy at both state and trait levels of analysis, suggesting that more mindful people act in more congruent, integrated ways, with mindfulness associated with lower stress as a result of both less negative appraisal of situations and more adaptive coping strategies. This connection between [[Mindfulness]] and autonomous motivation has profound implications for PKB practice. When users engage with their knowledge work mindfully—with present-moment awareness and without harsh self-judgment—they are more likely to act from integrated motivation rather than from introjected shoulds or external pressures.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Controlled Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Controlled Motivation]]",
+        "line_number": 116,
+        "section": "The Role of Mindfulness and Self-Regulation",
+        "context_line": "The phenomenon of \"PKB abandonment\" often reflects not a failure of discipline but rather a **defensive disengagement** from a practice that has become associated with feelings of inadequacy, overwhelm, or self-criticism. When users approach their system with harsh internal commentary (\"Why haven't I maintained this?\" \"I'm so disorganized!\" \"This is useless!\"), they activate what SDT describes as **[[Controlled Motivation]]** characterized by pressure, tension, and defensiveness. In contrast, mindfulness facilitates more integrated self-regulation, having its positive effects in part by enabling more autonomous and less defensive approaches to challenges.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Metacognitive Kindness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Kindness]]",
+        "line_number": 118,
+        "section": "The Role of Mindfulness and Self-Regulation",
+        "context_line": "This suggests that effective PKB practice requires cultivating what might be called **[[Metacognitive Kindness]]**—a non-judgmental awareness of one's own knowledge work patterns, challenges, and evolution. Systems that incorporate reflection prompts, that celebrate progress rather than fixating on backlogs, and that frame occasional neglect as normal rather than as failure actively support this mindful engagement. The goal is not to impose rigid consistency but to maintain psychological connection to the practice even during periods of variable engagement.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Flow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Flow]]",
+        "line_number": 122,
+        "section": "Flow, Vitality, and Sustainable Engagement",
+        "context_line": "SDT research has examined the remarkable positive impact of autonomous motivation on vitality—an indicator of both mental and physical wellness—finding that only controlled regulation depletes energy while autonomous regulation can actually be vitalizing. This finding has critical implications for understanding sustainable PKB practice. When knowledge work is experienced as autonomously motivated, it can be genuinely energizing rather than depleting, even when cognitively demanding. Users report experiencing [[Flow]]—the state of absorbed, energized focus—when their PKB practice satisfies all three needs: they feel competent in navigating their system, autonomous in directing their attention, and connected to a broader knowledge-building project.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Flow Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Flow Theory]]",
+        "line_number": 124,
+        "section": "Flow, Vitality, and Sustainable Engagement",
+        "context_line": "The connection between SDT and [[Flow Theory]] (developed by Mihaly Csikszentmihalyi) reveals complementary insights. Flow experience has significant impacts on the three basic psychological needs, with significant positive associations between motivation and student learning engagement. Flow states require clear goals, immediate feedback, and a balance between challenge and skill—all of which are design-targetable features of PKB systems. However, SDT adds the crucial insight that *the quality of motivation determines whether flow is experienced as eudaimonic (deeply fulfilling) versus merely hedonic (pleasantly absorbing but ultimately empty)*.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Eudaimonic Well-being",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Eudaimonic Well-being]]",
+        "line_number": 126,
+        "section": "Flow, Vitality, and Sustainable Engagement",
+        "context_line": "A PKB practice grounded in integrated regulation—where users engage in knowledge work because it is deeply aligned with their values and identity—generates what Ryan and Deci call **[[Eudaimonic Well-being]]**: flourishing characterized by meaning, personal growth, and self-realization. In contrast, a PKB practice driven by external regulation or introjection may occasionally produce flow but lacks this deeper sense of purpose and growth. The difference manifests in long-term sustainability: eudaimonically motivated practices endure through challenges and setbacks because they are intrinsically tied to the user's sense of who they are and who they are becoming.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Digital Learning Environments",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Digital Learning Environments]]",
+        "line_number": 132,
+        "section": "Educational Technology and Digital Learning Environments",
+        "context_line": "The application of Self-Determination Theory to [[Digital Learning Environments]] provides the most directly relevant empirical foundation for understanding PKB motivation. Recent systematic reviews of SDT in digital education identified several key research areas: predicting intentions to continue in digital learning, motivation for learning, predicting academic success of students, and motivation to use digital resources, with SDT providing an important basis for creating digital resources and building interaction systems in various formats of digital education including MOOCs, hybrid virtual classes, and mobile applications.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated Learning]]",
+        "line_number": 136,
+        "section": "Educational Technology and Digital Learning Environments",
+        "context_line": "Research on **[[Self-Regulated Learning]]** in digital environments reveals that learners with stronger self-directed learning competence tend to have stronger learning motivation, and that students equipped with sufficient motivational factors must also possess competence to achieve motivation—when combined, these elements enable students to engage successfully in learning. This suggests a bidirectional relationship where need satisfaction enables self-regulation, which in turn enhances competence, creating a virtuous cycle. PKB systems that support the development of [[Metacognitive]] skills—helping users monitor their own learning, set meaningful goals, and adapt strategies—simultaneously support both competence and autonomy needs.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Metacognitive",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive]]",
+        "line_number": 136,
+        "section": "Educational Technology and Digital Learning Environments",
+        "context_line": "Research on **[[Self-Regulated Learning]]** in digital environments reveals that learners with stronger self-directed learning competence tend to have stronger learning motivation, and that students equipped with sufficient motivational factors must also possess competence to achieve motivation—when combined, these elements enable students to engage successfully in learning. This suggests a bidirectional relationship where need satisfaction enables self-regulation, which in turn enhances competence, creating a virtuous cycle. PKB systems that support the development of [[Metacognitive]] skills—helping users monitor their own learning, set meaningful goals, and adapt strategies—simultaneously support both competence and autonomy needs.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 142,
+        "section": "Knowledge Management in Organizations",
+        "context_line": "Research examining intrinsic motivators for organizational knowledge management found that key motivators including autonomy, self-efficacy, meaningfulness, and impact directly influence knowledge sharing intention, with people often reluctant to share knowledge for various reasons, with a culture of knowledge hoarding representing one of the largest obstacles. The parallel to personal knowledge work is clear: PKB users need to experience their practice as meaningful (addressing important questions rather than merely accumulating notes), as impactful (genuinely enhancing their thinking and output), and as supporting their [[Self-Efficacy]] (building confidence in their capacity to manage complex intellectual projects).",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Technology Acceptance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Technology Acceptance]]",
+        "line_number": 148,
+        "section": "Motivation and Technology Acceptance",
+        "context_line": "Research integrating Self-Determination Theory with [[Technology Acceptance]] frameworks reveals that SDT factors significantly influenced intention to use virtual learning environments where training resources can be accessed, stored, retrieved, and shared in the cloud anytime, anywhere without restrictions. This suggests that PKB systems offering maximum flexibility and accessibility can better support autonomy needs, but only if users experience genuine competence in leveraging these capabilities. Technology that promises infinite possibility but delivers practical overwhelm frustrates rather than satisfies needs.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 150,
+        "section": "Motivation and Technology Acceptance",
+        "context_line": "Studies investigating the relationship of technology learning support to digital literacy from an SDT perspective found that digital literacy, a prerequisite for online learning, is fostered by active engagement with technology—a concept that SDT explains through need satisfaction. For PKB adoption, this implies that initial competence building is critical: systems must offer scaffolded learning paths that allow users to develop capability progressively, experiencing small wins that build [[Self-Efficacy]] rather than being confronted with steep learning curves that trigger discouragement and abandonment.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Structural Flexibility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Structural Flexibility]]",
+        "line_number": 159,
+        "section": "Autonomy-Supportive Design",
+        "context_line": "Specific design principles for autonomy support include **[[Structural Flexibility]]**, where the system accommodates multiple organizational paradigms (folders, tags, links, spatial arrangements) rather than enforcing a single taxonomy. Users should be able to adapt the system to their cognitive style rather than conforming to an idealized approach. **[[Progressive Disclosure]]** presents complexity gradually, allowing users to master basics before discovering advanced features, ensuring they never feel coerced into using capabilities they're not ready for. **[[Forgiving Architecture]]** allows easy recovery from mistakes, experimentation without permanent consequences, and graceful abandonment and return—recognizing that engagement will naturally fluctuate. **[[Meaning-Centered Language]]** frames features in terms of benefits and possibilities rather than obligations, avoiding \"you should\" language and instead offering \"you might\" suggestions.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Progressive Disclosure",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Progressive Disclosure]]",
+        "line_number": 159,
+        "section": "Autonomy-Supportive Design",
+        "context_line": "Specific design principles for autonomy support include **[[Structural Flexibility]]**, where the system accommodates multiple organizational paradigms (folders, tags, links, spatial arrangements) rather than enforcing a single taxonomy. Users should be able to adapt the system to their cognitive style rather than conforming to an idealized approach. **[[Progressive Disclosure]]** presents complexity gradually, allowing users to master basics before discovering advanced features, ensuring they never feel coerced into using capabilities they're not ready for. **[[Forgiving Architecture]]** allows easy recovery from mistakes, experimentation without permanent consequences, and graceful abandonment and return—recognizing that engagement will naturally fluctuate. **[[Meaning-Centered Language]]** frames features in terms of benefits and possibilities rather than obligations, avoiding \"you should\" language and instead offering \"you might\" suggestions.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Forgiving Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Forgiving Architecture]]",
+        "line_number": 159,
+        "section": "Autonomy-Supportive Design",
+        "context_line": "Specific design principles for autonomy support include **[[Structural Flexibility]]**, where the system accommodates multiple organizational paradigms (folders, tags, links, spatial arrangements) rather than enforcing a single taxonomy. Users should be able to adapt the system to their cognitive style rather than conforming to an idealized approach. **[[Progressive Disclosure]]** presents complexity gradually, allowing users to master basics before discovering advanced features, ensuring they never feel coerced into using capabilities they're not ready for. **[[Forgiving Architecture]]** allows easy recovery from mistakes, experimentation without permanent consequences, and graceful abandonment and return—recognizing that engagement will naturally fluctuate. **[[Meaning-Centered Language]]** frames features in terms of benefits and possibilities rather than obligations, avoiding \"you should\" language and instead offering \"you might\" suggestions.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Meaning-Centered Language",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Meaning-Centered Language]]",
+        "line_number": 159,
+        "section": "Autonomy-Supportive Design",
+        "context_line": "Specific design principles for autonomy support include **[[Structural Flexibility]]**, where the system accommodates multiple organizational paradigms (folders, tags, links, spatial arrangements) rather than enforcing a single taxonomy. Users should be able to adapt the system to their cognitive style rather than conforming to an idealized approach. **[[Progressive Disclosure]]** presents complexity gradually, allowing users to master basics before discovering advanced features, ensuring they never feel coerced into using capabilities they're not ready for. **[[Forgiving Architecture]]** allows easy recovery from mistakes, experimentation without permanent consequences, and graceful abandonment and return—recognizing that engagement will naturally fluctuate. **[[Meaning-Centered Language]]** frames features in terms of benefits and possibilities rather than obligations, avoiding \"you should\" language and instead offering \"you might\" suggestions.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Visible Impact Feedback",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Visible Impact Feedback]]",
+        "line_number": 168,
+        "section": "Competence-Supportive Design",
+        "context_line": "**[[Visible Impact Feedback]]** shows users concrete examples of how their PKB enhances their thinking—through automatic backlinking that surfaces unexpected connections, through search that instantly retrieves relevant prior knowledge, or through visualizations that reveal patterns in their intellectual development. **[[Graduated Challenge]]** ensures the system remains within the user's zone of proximal development, neither overwhelming novices with complexity nor boring experts with simplicity. **[[Mastery Pathways]]** provide clear progression from basic to advanced usage, with milestone achievements that build [[Self-Efficacy]]. **[[Reduced Friction]]** minimizes the cognitive overhead of using the system itself—capture should be effortless, retrieval should be intuitive, organization should emerge naturally from use rather than requiring constant manual curation.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Graduated Challenge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Graduated Challenge]]",
+        "line_number": 168,
+        "section": "Competence-Supportive Design",
+        "context_line": "**[[Visible Impact Feedback]]** shows users concrete examples of how their PKB enhances their thinking—through automatic backlinking that surfaces unexpected connections, through search that instantly retrieves relevant prior knowledge, or through visualizations that reveal patterns in their intellectual development. **[[Graduated Challenge]]** ensures the system remains within the user's zone of proximal development, neither overwhelming novices with complexity nor boring experts with simplicity. **[[Mastery Pathways]]** provide clear progression from basic to advanced usage, with milestone achievements that build [[Self-Efficacy]]. **[[Reduced Friction]]** minimizes the cognitive overhead of using the system itself—capture should be effortless, retrieval should be intuitive, organization should emerge naturally from use rather than requiring constant manual curation.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Mastery Pathways",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery Pathways]]",
+        "line_number": 168,
+        "section": "Competence-Supportive Design",
+        "context_line": "**[[Visible Impact Feedback]]** shows users concrete examples of how their PKB enhances their thinking—through automatic backlinking that surfaces unexpected connections, through search that instantly retrieves relevant prior knowledge, or through visualizations that reveal patterns in their intellectual development. **[[Graduated Challenge]]** ensures the system remains within the user's zone of proximal development, neither overwhelming novices with complexity nor boring experts with simplicity. **[[Mastery Pathways]]** provide clear progression from basic to advanced usage, with milestone achievements that build [[Self-Efficacy]]. **[[Reduced Friction]]** minimizes the cognitive overhead of using the system itself—capture should be effortless, retrieval should be intuitive, organization should emerge naturally from use rather than requiring constant manual curation.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 168,
+        "section": "Competence-Supportive Design",
+        "context_line": "**[[Visible Impact Feedback]]** shows users concrete examples of how their PKB enhances their thinking—through automatic backlinking that surfaces unexpected connections, through search that instantly retrieves relevant prior knowledge, or through visualizations that reveal patterns in their intellectual development. **[[Graduated Challenge]]** ensures the system remains within the user's zone of proximal development, neither overwhelming novices with complexity nor boring experts with simplicity. **[[Mastery Pathways]]** provide clear progression from basic to advanced usage, with milestone achievements that build [[Self-Efficacy]]. **[[Reduced Friction]]** minimizes the cognitive overhead of using the system itself—capture should be effortless, retrieval should be intuitive, organization should emerge naturally from use rather than requiring constant manual curation.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Reduced Friction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reduced Friction]]",
+        "line_number": 168,
+        "section": "Competence-Supportive Design",
+        "context_line": "**[[Visible Impact Feedback]]** shows users concrete examples of how their PKB enhances their thinking—through automatic backlinking that surfaces unexpected connections, through search that instantly retrieves relevant prior knowledge, or through visualizations that reveal patterns in their intellectual development. **[[Graduated Challenge]]** ensures the system remains within the user's zone of proximal development, neither overwhelming novices with complexity nor boring experts with simplicity. **[[Mastery Pathways]]** provide clear progression from basic to advanced usage, with milestone achievements that build [[Self-Efficacy]]. **[[Reduced Friction]]** minimizes the cognitive overhead of using the system itself—capture should be effortless, retrieval should be intuitive, organization should emerge naturally from use rather than requiring constant manual curation.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Community Connection Features",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Community Connection Features]]",
+        "line_number": 177,
+        "section": "Relatedness-Supportive Design",
+        "context_line": "**[[Community Connection Features]]** enable users to share selected notes publicly, discover others working in similar domains, and receive feedback on their thinking. **[[Collaborative Sense-Making]]** supports joint knowledge-building projects where multiple users contribute to shared understanding. **[[Mentorship Pathways]]** connect novice PKM practitioners with experienced users who can provide guidance and encouragement. **[[Social Proof Mechanisms]]** showcase diverse successful approaches to knowledge work, validating users' own evolving practices and reducing the anxiety that they're \"doing it wrong.\"",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Collaborative Sense-Making",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Collaborative Sense-Making]]",
+        "line_number": 177,
+        "section": "Relatedness-Supportive Design",
+        "context_line": "**[[Community Connection Features]]** enable users to share selected notes publicly, discover others working in similar domains, and receive feedback on their thinking. **[[Collaborative Sense-Making]]** supports joint knowledge-building projects where multiple users contribute to shared understanding. **[[Mentorship Pathways]]** connect novice PKM practitioners with experienced users who can provide guidance and encouragement. **[[Social Proof Mechanisms]]** showcase diverse successful approaches to knowledge work, validating users' own evolving practices and reducing the anxiety that they're \"doing it wrong.\"",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Mentorship Pathways",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mentorship Pathways]]",
+        "line_number": 177,
+        "section": "Relatedness-Supportive Design",
+        "context_line": "**[[Community Connection Features]]** enable users to share selected notes publicly, discover others working in similar domains, and receive feedback on their thinking. **[[Collaborative Sense-Making]]** supports joint knowledge-building projects where multiple users contribute to shared understanding. **[[Mentorship Pathways]]** connect novice PKM practitioners with experienced users who can provide guidance and encouragement. **[[Social Proof Mechanisms]]** showcase diverse successful approaches to knowledge work, validating users' own evolving practices and reducing the anxiety that they're \"doing it wrong.\"",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Social Proof Mechanisms",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Social Proof Mechanisms]]",
+        "line_number": 177,
+        "section": "Relatedness-Supportive Design",
+        "context_line": "**[[Community Connection Features]]** enable users to share selected notes publicly, discover others working in similar domains, and receive feedback on their thinking. **[[Collaborative Sense-Making]]** supports joint knowledge-building projects where multiple users contribute to shared understanding. **[[Mentorship Pathways]]** connect novice PKM practitioners with experienced users who can provide guidance and encouragement. **[[Social Proof Mechanisms]]** showcase diverse successful approaches to knowledge work, validating users' own evolving practices and reducing the anxiety that they're \"doing it wrong.\"",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Digital Garden",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Digital Garden]]",
+        "line_number": 179,
+        "section": "Relatedness-Supportive Design",
+        "context_line": "The emergence of [[Digital Garden]] practices, [[Learning in Public]] movements, and PKM communities on platforms like Discord represents an organic response to the relatedness need that purely private, isolated PKB practices fail to satisfy. Intrinsic motivation flourishes when linked with a sense of security and relatedness. When users feel they are part of a community of knowledge workers, when they can seek support during difficulties and celebrate breakthroughs with others who understand, their PKB practice becomes psychologically sustainable in ways that solitary work cannot achieve.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Learning in Public",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Learning in Public]]",
+        "line_number": 179,
+        "section": "Relatedness-Supportive Design",
+        "context_line": "The emergence of [[Digital Garden]] practices, [[Learning in Public]] movements, and PKM communities on platforms like Discord represents an organic response to the relatedness need that purely private, isolated PKB practices fail to satisfy. Intrinsic motivation flourishes when linked with a sense of security and relatedness. When users feel they are part of a community of knowledge workers, when they can seek support during difficulties and celebrate breakthroughs with others who understand, their PKB practice becomes psychologically sustainable in ways that solitary work cannot achieve.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Re-Engagement Compassion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Re-Engagement Compassion]]",
+        "line_number": 190,
+        "section": "Addressing the Abandonment Pattern",
+        "context_line": "Breaking this pattern requires **systemic redesign** around need satisfaction rather than merely increased discipline. This means simplifying workflows to reduce feelings of overwhelm (supporting competence), offering flexible approaches rather than prescriptive methods (supporting autonomy), and connecting to community (supporting relatedness). It also means cultivating what we might call **[[Re-Engagement Compassion]]**: recognizing that periods of disengagement are normal, that they don't represent personal failure, and that returning to practice after absence is not only acceptable but expected in lifelong learning.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Artificial Intelligence",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Artificial Intelligence]]",
+        "line_number": 196,
+        "section": "Digital Technology and Evolving Motivational Contexts",
+        "context_line": "Future SDT research is examining how educational media, e-learning, remote classrooms, and other opportunities afforded by technology can be successfully created to motivate engagement and learning. For PKB systems specifically, emerging questions include how [[Artificial Intelligence]] features affect motivation—do AI-powered suggestions enhance competence by providing intelligent scaffolding, or do they undermine autonomy by imposing algorithmic preferences? How does the increasing sophistication of [[Personal Knowledge Graph]] visualizations affect competence satisfaction—do they provide valuable feedback about one's intellectual network, or do they create new forms of performance anxiety?",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Personal Knowledge Graph",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Graph]]",
+        "line_number": 196,
+        "section": "Digital Technology and Evolving Motivational Contexts",
+        "context_line": "Future SDT research is examining how educational media, e-learning, remote classrooms, and other opportunities afforded by technology can be successfully created to motivate engagement and learning. For PKB systems specifically, emerging questions include how [[Artificial Intelligence]] features affect motivation—do AI-powered suggestions enhance competence by providing intelligent scaffolding, or do they undermine autonomy by imposing algorithmic preferences? How does the increasing sophistication of [[Personal Knowledge Graph]] visualizations affect competence satisfaction—do they provide valuable feedback about one's intellectual network, or do they create new forms of performance anxiety?",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Large Language Models",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Large Language Models]]",
+        "line_number": 198,
+        "section": "Digital Technology and Evolving Motivational Contexts",
+        "context_line": "The integration of [[Large Language Models]] into knowledge work raises particularly profound motivational questions. When an AI can generate comprehensive summaries, synthesize across sources, or even produce original arguments, what happens to the competence satisfaction that knowledge workers derive from these activities? SDT would predict that externalization of cognitive work to AI could dramatically undermine intrinsic motivation unless users experience themselves as meaningfully directing and evaluating the AI's contributions rather than passively consuming its output. The design challenge is to create **AI augmentation** that enhances human agency rather than **AI replacement** that hollows out the core activities through which people satisfy their competence needs.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Andragogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Andragogy]]",
+        "line_number": 208,
+        "section": "Lifespan Developmental Considerations",
+        "context_line": "Most research on motivation in learning contexts focuses on students—children, adolescents, or young adults. However, [[Andragogy]] (adult learning theory) and [[Heutagogy]] (self-determined learning) suggest that motivational dynamics shift across the lifespan. Older adults engaged in knowledge work may bring different need profiles: perhaps stronger relatedness needs (seeking connection and generativity), different competence goals (focused on wisdom integration rather than skill acquisition), or evolved autonomy needs (greater clarity about personal values and identity).",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Heutagogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Heutagogy]]",
+        "line_number": 208,
+        "section": "Lifespan Developmental Considerations",
+        "context_line": "Most research on motivation in learning contexts focuses on students—children, adolescents, or young adults. However, [[Andragogy]] (adult learning theory) and [[Heutagogy]] (self-determined learning) suggest that motivational dynamics shift across the lifespan. Older adults engaged in knowledge work may bring different need profiles: perhaps stronger relatedness needs (seeking connection and generativity), different competence goals (focused on wisdom integration rather than skill acquisition), or evolved autonomy needs (greater clarity about personal values and identity).",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Self-Compassion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Compassion]]",
+        "line_number": 223,
+        "section": "🔄 Synthesis: Motivation as the Master Key",
+        "context_line": "The implications of this analysis are profound. Rather than seeking the \"perfect\" PKB tool or methodology, knowledge workers should focus on creating **need-supportive conditions** for their practice. This means designing systems that offer flexibility rather than prescription (autonomy support), that deliver immediate cognitive value rather than demanding extensive setup (competence support), and that connect to communities of practice rather than isolating the individual (relatedness support). It means cultivating [[Self-Compassion]] about inevitable periods of disengagement rather than allowing guilt to poison the practice. It means recognizing that sustainable knowledge work is a marathon, not a sprint, and that the psychological sustainability of one's approach matters more than its theoretical sophistication.",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Flow Theory and Knowledge Work",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Flow Theory and Knowledge Work]]",
+        "line_number": 233,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Flow Theory and Knowledge Work]]**",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Implementation Intentions and the Planning-Execution Gap",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implementation Intentions and the Planning-Execution Gap]]",
+        "line_number": 238,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Implementation Intentions and the Planning-Execution Gap]]**",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Goal Content Theory and Intrinsic Life Goals",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Goal Content Theory and Intrinsic Life Goals]]",
+        "line_number": 243,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Goal Content Theory and Intrinsic Life Goals]]**",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Cognitive Scaffolding and Zone of Proximal Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Scaffolding and Zone of Proximal Development]]",
+        "line_number": 248,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Cognitive Scaffolding and Zone of Proximal Development]]**",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 310,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Self-Determination Theory]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Intrinsic Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intrinsic Motivation]]",
+        "line_number": 311,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Intrinsic Motivation]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Extrinsic Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Extrinsic Motivation]]",
+        "line_number": 312,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Extrinsic Motivation]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Autonomy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Autonomy]]",
+        "line_number": 313,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Autonomy]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Competence",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Competence]]",
+        "line_number": 314,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Competence]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Relatedness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Relatedness]]",
+        "line_number": 315,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Relatedness]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Management]]",
+        "line_number": 316,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Personal Knowledge Management]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 317,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Cognitive Load Theory]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Flow Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Flow Theory]]",
+        "line_number": 318,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Flow Theory]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Andragogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Andragogy]]",
+        "line_number": 319,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Andragogy]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Constructivist Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivist Learning]]",
+        "line_number": 320,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Constructivist Learning]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 321,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Metacognition]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Behavioral Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Behavioral Psychology]]",
+        "line_number": 322,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Behavioral Psychology]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Operant Conditioning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Operant Conditioning]]",
+        "line_number": 323,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Operant Conditioning]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Goal-Setting Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Goal-Setting Theory]]",
+        "line_number": 324,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Goal-Setting Theory]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Mastery Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mastery Learning]]",
+        "line_number": 325,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Mastery Learning]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Social Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Social Learning Theory]]",
+        "line_number": 326,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Social Learning Theory]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 327,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Zettelkasten]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Knowledge Attrition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Attrition]]",
+        "line_number": 328,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Knowledge Attrition]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Habit Formation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Habit Formation]]",
+        "line_number": 329,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Habit Formation]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "target": "Self-Efficacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Efficacy]]",
+        "line_number": 330,
+        "section": "📚 References & Resources",
+        "context_line": "- [[Self-Efficacy]]",
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 2,
+        "text": "🧬 Foundations: The Architecture of Human Motivation",
+        "anchor": "foundations-the-architecture-of-human-motivation",
+        "line_number": 47,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 2,
+        "text": "💡 The Three Psychological Needs: Theoretical Architecture",
+        "anchor": "the-three-psychological-needs-theoretical-architecture",
+        "line_number": 63,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Autonomy: The Need for Volition and Self-Direction",
+        "anchor": "autonomy-the-need-for-volition-and-self-direction",
+        "line_number": 65,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Competence: The Need for Effectance and Mastery",
+        "anchor": "competence-the-need-for-effectance-and-mastery",
+        "line_number": 76,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Relatedness: The Need for Connection and Belonging",
+        "anchor": "relatedness-the-need-for-connection-and-belonging",
+        "line_number": 89,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 2,
+        "text": "🔬 Mechanisms: How Need Satisfaction Drives Sustained Engagement",
+        "anchor": "mechanisms-how-need-satisfaction-drives-sustained-engagement",
+        "line_number": 100,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "The Motivation Continuum and Internalization",
+        "anchor": "the-motivation-continuum-and-internalization",
+        "line_number": 102,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "The Role of Mindfulness and Self-Regulation",
+        "anchor": "the-role-of-mindfulness-and-self-regulation",
+        "line_number": 112,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Flow, Vitality, and Sustainable Engagement",
+        "anchor": "flow-vitality-and-sustainable-engagement",
+        "line_number": 120,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Evidence: Empirical Support Across Contexts",
+        "anchor": "evidence-empirical-support-across-contexts",
+        "line_number": 128,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Educational Technology and Digital Learning Environments",
+        "anchor": "educational-technology-and-digital-learning-environments",
+        "line_number": 130,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Knowledge Management in Organizations",
+        "anchor": "knowledge-management-in-organizations",
+        "line_number": 138,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Motivation and Technology Acceptance",
+        "anchor": "motivation-and-technology-acceptance",
+        "line_number": 146,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Implications: Design Principles for Need-Supportive PKB Systems",
+        "anchor": "implications-design-principles-for-need-supportive-pkb-systems",
+        "line_number": 152,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Autonomy-Supportive Design",
+        "anchor": "autonomy-supportive-design",
+        "line_number": 154,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Competence-Supportive Design",
+        "anchor": "competence-supportive-design",
+        "line_number": 163,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Relatedness-Supportive Design",
+        "anchor": "relatedness-supportive-design",
+        "line_number": 172,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Addressing the Abandonment Pattern",
+        "anchor": "addressing-the-abandonment-pattern",
+        "line_number": 181,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 2,
+        "text": "🔮 Frontiers: Contemporary Research and Open Questions",
+        "anchor": "frontiers-contemporary-research-and-open-questions",
+        "line_number": 192,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Digital Technology and Evolving Motivational Contexts",
+        "anchor": "digital-technology-and-evolving-motivational-contexts",
+        "line_number": 194,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Cultural Variation in Need Expression",
+        "anchor": "cultural-variation-in-need-expression",
+        "line_number": 200,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "Lifespan Developmental Considerations",
+        "anchor": "lifespan-developmental-considerations",
+        "line_number": 206,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 3,
+        "text": "The Role of Passion and Purpose",
+        "anchor": "the-role-of-passion-and-purpose",
+        "line_number": 212,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 Synthesis: Motivation as the Master Key",
+        "anchor": "synthesis-motivation-as-the-master-key",
+        "line_number": 218,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 231,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "level": 1,
+        "text": "📚 References & Resources",
+        "anchor": "references-resources",
+        "line_number": 255,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "tags: #self-determination-theory #intrinsic-motivation #pkm-psychology #reference-note #knowledge-management #behavioral-psychology #adult-learning #cognitive-scaffolding",
+        "line_start": 35,
+        "line_end": 37,
+        "char_count": 170,
+        "line_count": 1,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "aliases: [SDT in PKM, Motivation Theory in Knowledge Work, Psychological Needs in PKB Design, Self-Determination and Knowledge Systems]",
+        "line_start": 38,
+        "line_end": 41,
+        "char_count": 135,
+        "line_count": 1,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "<thinking>\nThis is a comprehensive request asking for a deep academic exploration of Self-Determination Theory (SDT) as it applies to Personal Knowledge Management systems. The user wants to understand how PKB design can support or hinder intrinsic motivation for sustained knowledge work.\n\nLet me analyze this request:\n\n**Request Classification:**\n- Type: comprehensive_note (reference note level)\n- Scope: reference note - encyclopedic, foundational treatment\n- Research Required: YES - This requires web research to:\n  1. Get current SDT literature and key researchers\n  2. Find specific applications of SDT to learning/knowledge systems\n  3. Locate evidence about motivation in PKM contexts\n  4. Identify contemporary research on intrinsic motivation in digital tools\n  5. Find examples of SDT-informed design principles\n\n**Structural Planning:**\nFollowing the output_template structure:\n1. Abstract & Definition (what SDT is, why it matters for PKM)\n2. Historical Foundations (Deci & Ryan, evolution of motivation theory)\n3. Core Principles (the three needs: autonomy, competence, relatedness)\n4. Mechanisms (how each need manifests in PKB contexts)\n5. Evidence (research supporting SDT in learning/knowledge work)\n6. Implications (design principles for PKB systems)\n7. Frontier Research (current directions, open questions)\n8. Conclusion & synthesis\n\n**Wiki-Link Opportunities:**\n- [[Self-Determination Theory]]\n- [[Intrinsic Motivation]]\n- [[Extrinsic Motivation]]\n- [[Autonomy]]\n- [[Competence]]\n- [[Relatedness]]\n- [[Personal Knowledge Management]]\n- [[Cognitive Load Theory]]\n- [[Flow Theory]]\n- [[Andragogy]]\n- [[Constructivist Learning]]\n- [[Metacognition]]\n- [[Behavioral Psychology]]\n- [[Operant Conditioning]]\n- [[Goal-Setting Theory]]\n- [[Mastery Learning]]\n- [[Social Learning Theory]]\n- [[Zettelkasten]]\n- [[Knowledge Attrition]]\n- [[Habit Formation]]\n- [[Self-Efficacy]]\n\n**Callout Strategy:**\n- [!abstract] for opening summary\n- [!definition] for SDT core concepts\n- [!core-principle] for the three needs\n- [!key-claim] for major assertions about PKB design\n- [!evidence] for research findings\n- [!example] for concrete PKB scenarios\n- [!analogy] to clarify complex ideas\n- [!insight] for key takeaways\n- [!warning] about demotivating design patterns\n- [!further-exploration] for related topics\n\n**Metadata Planning:**\nTags: #self-determination-theory #intrinsic-motivation #pkm-psychology #reference-note #knowledge-management\nAliases: [SDT, Motivation Theory in PKM, Psychological Needs in Knowledge Work]\n\nNow I need to conduct web research to gather authoritative sources, current research, and specific applications of SDT to learning and knowledge systems.\n\n**Research Queries:**\n1. \"Self-Determination Theory Deci Ryan foundational research\"\n2. \"Self-Determination Theory autonomy competence relatedness\"\n3. \"intrinsic motivation knowledge management systems\"\n4. \"Self-Determination Theory digital learning environments\"\n5. \"motivation sustaining personal knowledge practice\"\n6. \"Self-Determination Theory PKM Zettelkasten\"\n</thinking>Now I have enough research material. Let me synthesize this into a comprehensive academic report on SDT as applied to PKM systems. I'll structure it according to the template provided, focusing on the three needs (autonomy, competence, relatedness) and their implications for PKB design.",
+        "line_start": 282,
+        "line_end": 358,
+        "char_count": 3349,
+        "line_count": 75,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [
+      {
+        "display_text": "Self-Determination Theory - Official Website",
+        "url": "https://selfdeterminationtheory.org/theory/",
+        "format": "markdown",
+        "line_number": 259,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being (2000)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11392867/",
+        "format": "markdown",
+        "line_number": 260,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Brick by Brick: The Origins, Development, and Future of Self-Determination Theory",
+        "url": "https://selfdeterminationtheory.org/wp-content/uploads/2019/06/2019_RyanDeci_BrickByBrick_PrePrint.pdf",
+        "format": "markdown",
+        "line_number": 261,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Self-Determination Theory Encyclopedia Entry",
+        "url": "https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf",
+        "format": "markdown",
+        "line_number": 262,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Self-Determination Theory and the Facilitation of Intrinsic Motivation in Educational Contexts (2020)",
+        "url": "https://stial.ie/resources/Ryan and Deci 2020 self determination theory.pdf",
+        "format": "markdown",
+        "line_number": 265,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Psychological Aspects of Digital Learning: A Self-Determination Theory Perspective (2020)",
+        "url": "https://files.eric.ed.gov/fulltext/EJ1274310.pdf",
+        "format": "markdown",
+        "line_number": 266,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Self-determination and perceived learning in online learning communities (2024)",
+        "url": "https://www.nature.com/articles/s41598-024-74878-4",
+        "format": "markdown",
+        "line_number": 267,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Applying SDT to explain student engagement in online learning during COVID-19",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/15391523.2021.1891998",
+        "format": "markdown",
+        "line_number": 268,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Unlock the Intrinsic Motivation of Knowledge Workers - SAFe",
+        "url": "https://www.scaledagileframework.com/unlock-the-intrinsic-motivation-of-knowledge-workers/",
+        "format": "markdown",
+        "line_number": 271,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "The influence of intrinsic and extrinsic motivation on individuals' knowledge sharing behavior",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1071581911000218",
+        "format": "markdown",
+        "line_number": 272,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Knowledge system commitment and knowledge sharing intention",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0268401217306254",
+        "format": "markdown",
+        "line_number": 273,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Frontiers: The Effects of Employees' Perceived Intrinsic Motivation on Knowledge Sharing",
+        "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.762994/full",
+        "format": "markdown",
+        "line_number": 274,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "The Seven Deadly Sins of PKM",
+        "url": "https://medium.com/@ConstructByDee/the-seven-deadly-sins-of-pkm-personal-knowledge-management-7dd2e410b866",
+        "format": "markdown",
+        "line_number": 277,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Personal Knowledge Base - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Personal_knowledge_base",
+        "format": "markdown",
+        "line_number": 278,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      },
+      {
+        "display_text": "Personal Knowledge Base Software Guide",
+        "url": "https://www.myinfoapp.com/blog/ultimate-personal-knowledge-base-guide",
+        "format": "markdown",
+        "line_number": 279,
+        "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**[[Flow Theory and Knowledge Work]]**",
+          "indent_level": 0,
+          "line_number": 227,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "**[[Implementation Intentions and the Planning-Execution Gap]]**",
+          "indent_level": 0,
+          "line_number": 235,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "**[[Goal Content Theory and Intrinsic Life Goals]]**",
+          "indent_level": 0,
+          "line_number": 240,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "**[[Cognitive Scaffolding and Zone of Proximal Development]]**",
+          "indent_level": 0,
+          "line_number": 245,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "*Connection*: Csikszentmihalyi's Flow Theory shares conceptual territory with SDT's focus on optimal experience, but emphasizes the importance of challenge-skill balance and clear goals for sustained engagement",
+          "indent_level": 1,
+          "line_number": 227,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "*Depth Potential*: A comprehensive analysis of how flow states are achieved and maintained in knowledge work could reveal specific design principles for creating absorbing, energizing PKB experiences that complement SDT's motivational framework",
+          "indent_level": 1,
+          "line_number": 227,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: This topic would bridge motivation theory with performance psychology, connecting SDT to the broader literature on peak experiences and optimal human functioning",
+          "indent_level": 1,
+          "line_number": 234,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "*Connection*: Even when users are intrinsically motivated to maintain PKB practices, they often fail to translate intentions into consistent action—a phenomenon SDT acknowledges but doesn't fully explain",
+          "indent_level": 1,
+          "line_number": 235,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "*Depth Potential*: Examining research on implementation intentions, habit formation, and prospective memory could reveal complementary strategies for sustaining knowledge work beyond motivational alignment alone",
+          "indent_level": 1,
+          "line_number": 236,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: This topic would connect motivational theory to behavioral execution systems, addressing the practical mechanisms through which motivation translates (or fails to translate) into sustained practice",
+          "indent_level": 1,
+          "line_number": 239,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "*Connection*: As one of SDT's six mini-theories, Goal Content Theory distinguishes between intrinsic life goals (personal growth, relationships, community contribution) and extrinsic goals (wealth, fame, image), with research showing that intrinsic goal pursuit predicts greater well-being",
+          "indent_level": 1,
+          "line_number": 240,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "*Depth Potential*: Exploring how PKB practice aligns with intrinsic versus extrinsic life goals could reveal why some knowledge workers sustain engagement (their PKB serves personal growth) while others abandon it (their PKB serves only extrinsic productivity demands)",
+          "indent_level": 1,
+          "line_number": 243,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: This topic would deepen the motivational analysis by examining the *content* of goals rather than just the quality of motivation, connecting to broader questions about meaning and purpose in knowledge work",
+          "indent_level": 1,
+          "line_number": 244,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "*Connection*: Vygotsky's concept of the Zone of Proximal Development and Wood, Bruner, and Ross's elaboration of scaffolding provide complementary frameworks for understanding how external systems support competence development",
+          "indent_level": 1,
+          "line_number": 245,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "*Depth Potential*: A systematic analysis of how PKB systems function (or fail to function) as cognitive scaffolds could operationalize SDT's abstract \"competence support\" into concrete design principles based on learning science",
+          "indent_level": 1,
+          "line_number": 246,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: This topic would bridge motivational psychology with instructional design and cognitive development theory, connecting SDT to the broader literature on how external tools enhance human cognition",
+          "indent_level": 1,
+          "line_number": 249,
+          "source": "pkb-report-self-determination-theory-in-pkm-202511202348.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Andragogy",
+      "Artificial Intelligence",
+      "Autonomy",
+      "Autonomy Support",
+      "Behavioral Psychology",
+      "Cognitive Load Theory",
+      "Cognitive Scaffolding and Zone of Proximal Development",
+      "Collaborative Sense-Making",
+      "Community Connection Features",
+      "Competence",
+      "Constructivist Learning",
+      "Controlled Motivation",
+      "Digital Garden",
+      "Digital Gardens",
+      "Digital Learning Environments",
+      "Eudaimonic Well-being",
+      "Extrinsic Motivation",
+      "Flow",
+      "Flow Theory",
+      "Flow Theory and Knowledge Work",
+      "Forgiving Architecture",
+      "Goal Content Theory and Intrinsic Life Goals",
+      "Goal-Setting Theory",
+      "Graduated Challenge",
+      "Habit Formation",
+      "Heutagogy",
+      "Implementation Cost",
+      "Implementation Intentions and the Planning-Execution Gap",
+      "Internalized Shoulds",
+      "Intrinsic Motivation",
+      "Introjected Regulation",
+      "Knowledge Attrition",
+      "Large Language Models",
+      "Learning in Public",
+      "Mastery Learning",
+      "Mastery Pathways",
+      "Meaning-Centered Language",
+      "Mentorship Pathways",
+      "Metacognition",
+      "Metacognitive",
+      "Metacognitive Kindness",
+      "Mindfulness",
+      "Motivation Science",
+      "Operant Conditioning",
+      "Organismic Integration Theory",
+      "Personal Knowledge Graph",
+      "Personal Knowledge Management",
+      "Progressive Disclosure",
+      "Re-Engagement Compassion",
+      "Reduced Friction",
+      "Relatedness",
+      "Self-Compassion",
+      "Self-Determination Theory",
+      "Self-Efficacy",
+      "Self-Regulated Learning",
+      "Shoulds and Oughts",
+      "Social Learning Theory",
+      "Social Proof Mechanisms",
+      "Structural Flexibility",
+      "Technology Acceptance",
+      "Visible Impact Feedback",
+      "Zettelkasten"
+    ],
+    "unique_wiki_link_count": 62,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Andragogy",
+      "Artificial Intelligence",
+      "Autonomy",
+      "Autonomy Support",
+      "Behavioral Psychology",
+      "Cognitive Load Theory",
+      "Cognitive Scaffolding and Zone of Proximal Development",
+      "Collaborative Sense-Making",
+      "Community Connection Features",
+      "Competence",
+      "Constructivist Learning",
+      "Controlled Motivation",
+      "Digital Garden",
+      "Digital Gardens",
+      "Digital Learning Environments",
+      "Eudaimonic Well-being",
+      "Extrinsic Motivation",
+      "Flow",
+      "Flow Theory",
+      "Flow Theory and Knowledge Work",
+      "Forgiving Architecture",
+      "Goal Content Theory and Intrinsic Life Goals",
+      "Goal-Setting Theory",
+      "Graduated Challenge",
+      "Habit Formation",
+      "Heutagogy",
+      "Implementation Cost",
+      "Implementation Intentions and the Planning-Execution Gap",
+      "Internalized Shoulds",
+      "Intrinsic Motivation",
+      "Introjected Regulation",
+      "Knowledge Attrition",
+      "Large Language Models",
+      "Learning in Public",
+      "Mastery Learning",
+      "Mastery Pathways",
+      "Meaning-Centered Language",
+      "Mentorship Pathways",
+      "Metacognition",
+      "Metacognitive",
+      "Metacognitive Kindness",
+      "Mindfulness",
+      "Motivation Science",
+      "Operant Conditioning",
+      "Organismic Integration Theory",
+      "Personal Knowledge Graph",
+      "Personal Knowledge Management",
+      "Progressive Disclosure",
+      "Re-Engagement Compassion",
+      "Reduced Friction",
+      "Relatedness",
+      "Self-Compassion",
+      "Self-Determination Theory",
+      "Self-Efficacy",
+      "Self-Regulated Learning",
+      "Shoulds and Oughts",
+      "Social Learning Theory",
+      "Social Proof Mechanisms",
+      "Structural Flexibility",
+      "Technology Acceptance",
+      "Visible Impact Feedback",
+      "Zettelkasten"
+    ]
+  }
+}

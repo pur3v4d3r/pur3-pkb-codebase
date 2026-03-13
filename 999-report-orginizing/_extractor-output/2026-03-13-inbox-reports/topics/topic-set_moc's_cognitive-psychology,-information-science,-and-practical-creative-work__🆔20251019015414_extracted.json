@@ -1,0 +1,325 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:06.017929",
+    "source_file": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+    "source_file_size_bytes": 5468,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Moc's Cognitive Psychology, Information Science, and Practical Creative Work",
+      "id": "20251019015541",
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca",
+        "pkb/infrastructure",
+        "pkb/moc"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": [],
+      "created": "2025-10-19T01:55:41",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "https://gemini.google.com/gem/cd8939e7e205/e413c59663643b5d",
+      "tags": [
+        "topic",
+        "topic/rsca",
+        "source/rsca",
+        "pkb/infrastructure",
+        "pkb",
+        "pkb/educational"
+      ]
+    },
+    "word_count": 690,
+    "character_count": 4972,
+    "line_count": 58,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 22,
+    "by_type": {
+      "headings": 8,
+      "callouts": 5,
+      "wiki_links": 0,
+      "inline_fields": 2,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 7,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_MOC's_Cognitive-Psychology,-Information-Science,-and-Practical-Creative-Work__🆔20251019015414",
+      "anchor": "topicsmocscognitive-psychology-information-science-and-practical-creative-work20251019015414",
+      "line_number": 24,
+      "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "🧠 The Generative Engine: How MOCs Actively Shape Thought",
+          "anchor": "the-generative-engine-how-mocs-actively-shape-thought",
+          "line_number": 30,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "🔗 The Synaptic Link: MOCs as the Connective Tissue of an Atomic PKM",
+          "anchor": "the-synaptic-link-mocs-as-the-connective-tissue-of-an-atomic-pkm",
+          "line_number": 37,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "🏗️ The Cognitive Scaffold: Managing Intellectual Complexity",
+          "anchor": "the-cognitive-scaffold-managing-intellectual-complexity",
+          "line_number": 44,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "🏭 The Knowledge Pipeline: From Fleeting Note to Published Work",
+          "anchor": "the-knowledge-pipeline-from-fleeting-note-to-published-work",
+          "line_number": 52,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "🌿 The Curator's Hand: MOCs in the Evolution of a Digital Garden",
+          "anchor": "the-curators-hand-mocs-in-the-evolution-of-a-digital-garden",
+          "line_number": 59,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "🧭 Navigating the Labyrinth: Hierarchical vs. Associative MOCs",
+          "anchor": "navigating-the-labyrinth-hierarchical-vs-associative-mocs",
+          "line_number": 66,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Further Exploration",
+          "anchor": "further-exploration",
+          "line_number": 72,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 29,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+        "char_start": 619,
+        "char_end": 634
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 36,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+        "char_start": 1208,
+        "char_end": 1223
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 43,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+        "char_start": 1826,
+        "char_end": 1841
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 51,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+        "char_start": 2477,
+        "char_end": 2492
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 58,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md",
+        "char_start": 3085,
+        "char_end": 3100
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [
+      {
+        "field_name": "completion",
+        "value": "2025-10-19",
+        "format": "bracket",
+        "line_number": 27,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-10-19",
+        "format": "bracket",
+        "line_number": 49,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_MOC's_Cognitive-Psychology,-Information-Science,-and-Practical-Creative-Work__🆔20251019015414",
+        "anchor": "topicsmocscognitive-psychology-information-science-and-practical-creative-work20251019015414",
+        "line_number": 24,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+      },
+      {
+        "level": 3,
+        "text": "🧠 The Generative Engine: How MOCs Actively Shape Thought",
+        "anchor": "the-generative-engine-how-mocs-actively-shape-thought",
+        "line_number": 30,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+      },
+      {
+        "level": 3,
+        "text": "🔗 The Synaptic Link: MOCs as the Connective Tissue of an Atomic PKM",
+        "anchor": "the-synaptic-link-mocs-as-the-connective-tissue-of-an-atomic-pkm",
+        "line_number": 37,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+      },
+      {
+        "level": 3,
+        "text": "🏗️ The Cognitive Scaffold: Managing Intellectual Complexity",
+        "anchor": "the-cognitive-scaffold-managing-intellectual-complexity",
+        "line_number": 44,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+      },
+      {
+        "level": 3,
+        "text": "🏭 The Knowledge Pipeline: From Fleeting Note to Published Work",
+        "anchor": "the-knowledge-pipeline-from-fleeting-note-to-published-work",
+        "line_number": 52,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+      },
+      {
+        "level": 3,
+        "text": "🌿 The Curator's Hand: MOCs in the Evolution of a Digital Garden",
+        "anchor": "the-curators-hand-mocs-in-the-evolution-of-a-digital-garden",
+        "line_number": 59,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+      },
+      {
+        "level": 3,
+        "text": "🧭 Navigating the Labyrinth: Hierarchical vs. Associative MOCs",
+        "anchor": "navigating-the-labyrinth-hierarchical-vs-associative-mocs",
+        "line_number": 66,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+      },
+      {
+        "level": 3,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 72,
+        "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[x] **Used?**  [completion:: 2025-10-19]",
+          "indent_level": 0,
+          "line_number": 27,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+        },
+        {
+          "text": "[x] **Used?**  [completion:: 2025-10-19]",
+          "indent_level": 0,
+          "line_number": 49,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+        },
+        {
+          "text": "**The Zettelkasten Method:** An exploration of the principles of atomicity, autonomy, and linking developed by Niklas Luhmann, which forms the theoretical basis for modern atomic note-taking.",
+          "indent_level": 0,
+          "line_number": 75,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+        },
+        {
+          "text": "**Evergreen Notes:** A study of the principles behind writing durable, concept-oriented notes that are designed to evolve and compound in value over time.",
+          "indent_level": 0,
+          "line_number": 77,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+        },
+        {
+          "text": "**Cognitive Load Theory:** An investigation into the psychological principles that explain why managing information in \"chunks\" (as MOCs allow) is essential for effective learning and thinking.",
+          "indent_level": 0,
+          "line_number": 78,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+        },
+        {
+          "text": "**Progressive Summarization:** A look at the specific technique for processing literature notes, which often serves as the raw material for synthesizing ideas within an MOC.",
+          "indent_level": 0,
+          "line_number": 79,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+        },
+        {
+          "text": "**The \"Linking Your Thinking\" (LYT) Framework:** An analysis of the specific, popular methodology that heavily operationalizes the concept of MOCs as the primary interface for a PKB.",
+          "indent_level": 0,
+          "line_number": 80,
+          "source": "topic-set_moc's_cognitive-psychology,-information-science,-and-practical-creative-work__🆔20251019015414.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

@@ -1,0 +1,1799 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:46.722776",
+    "source_file": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reports\\pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+    "source_file_size_bytes": 31635,
+    "processing_time_seconds": 0.009
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Analysis of the Dataview Query Language",
+      "id": "20251120092808",
+      "type": "pkb/pkm/report",
+      "status": "not-read",
+      "source": "👾Polymath_v3.2_♊Gem-ID_OQHJPSLYU0",
+      "created": "undefined",
+      "year": "[[2025]]",
+      "tags": [
+        "pkm",
+        "project/pur3v4d3r",
+        "year/2025",
+        "self-improvement",
+        "pkb/metadata/frontmatter",
+        "pkb/maintenance/refactoring",
+        "pkb/maintenance/cleanup"
+      ],
+      "aliases": [
+        "Dataview Query Logic,DQL Deep Dive,Obsidian Dataview Foundation"
+      ],
+      "link-up": [
+        "[[project-pur3v4d3r-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-20|Daily-Note]]"
+      ]
+    },
+    "word_count": 4898,
+    "character_count": 31064,
+    "line_count": 669,
+    "heading_count": 14
+  },
+  "extraction_summary": {
+    "total_items_extracted": 187,
+    "by_type": {
+      "headings": 14,
+      "callouts": 25,
+      "wiki_links": 24,
+      "inline_fields": 1,
+      "definitions": 0,
+      "tags": 16,
+      "code_blocks": 28,
+      "tables": 5,
+      "external_links": 4,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 7,
+      "lists_unordered": 63,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✨ A Foundational Analysis of the Dataview Query Language (DQL)",
+      "anchor": "a-foundational-analysis-of-the-dataview-query-language-dql",
+      "line_number": 29,
+      "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "1. 🗺️ Introduction & Context",
+          "anchor": "1-introduction-context",
+          "line_number": 36,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "2. 📜 Historical Context & Intellectual Lineage",
+          "anchor": "2-historical-context-intellectual-lineage",
+          "line_number": 59,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "**Core Analysis: An In-Depth Exposition**",
+              "anchor": "core-analysis-an-in-depth-exposition",
+              "line_number": 72,
+              "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "3. 📖 Foundational Principles: The \"Why\"",
+          "anchor": "3-foundational-principles-the-why",
+          "line_number": 76,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "4. 🛠️ Mechanisms & Processes: The \"How\"",
+          "anchor": "4-mechanisms-processes-the-how",
+          "line_number": 160,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "4.1 The Query Types: LIST, TABLE, TASK",
+              "anchor": "41-the-query-types-list-table-task",
+              "line_number": 182,
+              "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.2 The Data Pipeline: A Step-by-Step Logic",
+              "anchor": "42-the-data-pipeline-a-step-by-step-logic",
+              "line_number": 357,
+              "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "5. 🔬 Evidence & Manifestations: The \"What\"",
+          "anchor": "5-evidence-manifestations-the-what",
+          "line_number": 522,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "6. 🌍 Broader Implications & Significance: The \"So What\"",
+          "anchor": "6-broader-implications-significance-the-so-what",
+          "line_number": 603,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "7. ⏳ Current Landscape & Unanswered Questions",
+          "anchor": "7-current-landscape-unanswered-questions",
+          "line_number": 620,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "8. 🗝️ Conclusion & Key Takeaways",
+          "anchor": "8-conclusion-key-takeaways",
+          "line_number": 632,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "9. 🦖 Active Reading & Reflection (The Feynman Technique)",
+          "anchor": "9-active-reading-reflection-the-feynman-technique",
+          "line_number": 656,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "10. 📚 References",
+          "anchor": "10-references",
+          "line_number": 670,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "This report provides a foundational analysis of the Dataview Query Language (DQL), the transformative query engine for the Obsidian note-taking application. At its core, Dataview is a system that treats a vault of plain Markdown notes as a structured, queryable database. This is achieved not by creating a separate database file, but by dynamically parsing metadata embedded directly within the notes themselves, specifically YAML frontmatter (Properties) and inline `key:: value` fields. This analysis deconstructs DQL from first principles, moving beyond a simple list of commands to explore its fundamental operational logic.\n\nWe will examine the core syntax of a DQL query, which follows a logical pipeline structure: specifying a query type (`LIST`, `TABLE`, `TASK`), defining a data source (`FROM`), filtering the results (`WHERE`), organizing the output (`SORT`, `GROUP BY`), and refining the final presentation (`LIMIT`). This document meticulously details each stage of this pipeline, explaining the \"why\" behind the \"what\" and providing concrete examples for every operator and function. The ultimate goal is to equip the reader with a deep, intuitive understanding of how to transform their static, disconnected notes into a dynamic, interconnected Personal Knowledge Management (PKM) system.",
+        "line_number": 31,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 587,
+        "char_end": 1911
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "The purpose of this document is to provide a comprehensive, foundational education in the Dataview Query Language. We will not just \"learn syntax.\" We will deconstruct the entire operational logic of Dataview, starting from the bedrock: **metadata**. We will explore *how* Dataview \"sees\" your notes, *why* its query pipeline is structured the way it is, and *how* you can leverage its core query types (`LIST`, `TABLE`, `TASK`) to build powerful, self-updating dashboards, indexes, and reports that supercharge your thinking and productivity.",
+        "line_number": 48,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 3397,
+        "char_end": 3960
+      },
+      {
+        "type": "pre-read-questions",
+        "title": "Untitled",
+        "body": "Before we begin, consider these questions to frame your thinking:\n- What if your \"Table of Contents\" notes (MOCs) could create and update *themselves*?\n- How much time do you spend searching for notes that share a common theme (like a project, a status, or a topic) but don't live in the same folder?\n- What if you could add a single line of metadata (like `rating:: 5`) to a note and have it *automatically* appear on your \"Best Of\" list?\n\nThese are the possibilities that DQL unlocks.",
+        "line_number": 51,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 3961,
+        "char_end": 4484
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Principle 1: Your Vault is a Database (Implicitly)**\n\nThe central paradigm shift is this: Dataview treats your entire Obsidian vault as a single database.\n- **Each note (`.md` file) is a \"row\"** in that database.\n- **The note's metadata fields are the \"columns\"** for that row.\n\nA note with the filename `Project_Alpha.md` and the metadata `status: \"in-progress\"` is seen by Dataview as a database row with (at least) two columns: `file.name` (value: \"Project\\_Alpha\") and `status` (value: \"in-progress\").",
+        "line_number": 80,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 6978,
+        "char_end": 7520
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Dynamic Librarian**\n\nImagine your vault is a massive library. You could walk through the stacks (your folders) and find a book yourself. Or, you could go to the librarian.\n\nA **manual MOC (Map of Content)** is like a list of books you wrote down on a piece of paper. If a new book is added, your list is wrong until you manually update it.\n\nA **Dataview query** is like asking the librarian, \"Please give me a list of all books on quantum physics published after 2020.\" You walk away, and the librarian hands you a *perfectly up-to-date list*. If a new book arrives that matches your criteria, it *instantly* appears on the list the next time you ask for it.\n\nThe Dataview code block *is that question*. The query runs \"just-in-time\"—every single time you view the note—to give you the freshest possible result.",
+        "line_number": 89,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 7521,
+        "char_end": 8366
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Principle 2: Metadata is the Language of Dataview**\n\nDataview **does not read your prose**. It cannot and does not understand the *meaning* of your paragraphs. It only reads the structured **metadata** you provide. Without metadata, Dataview is useless.\n\nThere are two primary ways to provide this metadata:\n\n1.  **YAML Frontmatter (Now \"Properties\"):** This is the block of `---` at the very top of your note. It's the cleanest, most standardized way to add metadata.\n```markdown\n    ---\n    type: \"project\"\n    status: \"in-progress\"\n    priority: \"high\"\n    rating: 5\n    attendees:\n      - \"Alice\"\n      - \"Bob\"\n    ---\n    \n    # Project Alpha\n    This is a note about my project...\n    ```\n\n1.  **Inline Fields:** These are `key:: value` pairs you can place *anywhere* in the body of your note. The `::` (two colons) is the magic syntax that Dataview looks for.\n```markdown\n    # Meeting Notes\n    \n    - **Author**:: [[Dr. Evelyn Reed]]\n    - **Topic**:: Quantum Entanglement\n    - **Source Type**:: [[Book]]\n    - (This is a great book. My personal [rating:: 5] for it.)\n    ```\n\n> [!helpful-tip]\n> **YAML vs. Inline:**\n> * Use **YAML Frontmatter (Properties)** for note-level, \"top-down\" metadata. (What is this note's *type*? What is its *status*?).\n> * Use **Inline Fields** for \"in-context,\" \"bottom-up\" metadata. (What is the *author* of this specific book I'm citing? What is the *due date* for this one task?).",
+        "line_number": 100,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 8367,
+        "char_end": 9882
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Principle 3: Dataview \"Sees\" Two Kinds of Fields**\n\nThis is the most crucial concept for unlocking DQL. Every note in your vault has two categories of metadata \"columns\" that you can query.\n\n1.  **Explicit Fields (You Create):** These are the fields you just defined in YAML or inline.\n    - Examples: `status`, `priority`, `rating`, `author`, `due-date`.\n\n1.  **Implicit Fields (Dataview Provides):** These are fields that Dataview *automatically* assigns to *every single note*, whether you add metadata or not. These are immensely powerful.\n    - `file.name`: The file's name (e.g., \"Project\\_Alpha\").\n    - `file.path`: The file's full folder path.\n    - `file.link`: A clickable link to the file (this is the default in `LIST`).\n    - `file.ctime`: The file's creation timestamp.\n    - `file.mtime`: The file's modification timestamp.\n    - `file.cday` / `file.mday`: The creation/modification *date* (very useful for `WHERE` clauses).\n    - `file.tags`: An array of all tags in the note (e.g., `[#project, #priority/high]`).\n    - `file.inlinks`: An array of all notes that link *to* this note.\n    - `file.outlinks`: An array of all notes that this note links *to*.\n    - `file.tasks`: An array of all tasks (`- [ ]`) in the note.\n\nUnderstanding that you can filter and sort by `file.mtime` (last modified time) or `file.inlinks` (popularity) without adding *any* metadata yourself is a game-changer.",
+        "line_number": 138,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 9883,
+        "char_end": 11352
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "#### **`LIST`**\n`LIST` is the simplest query type. It generates a bulleted list of file links.",
+        "line_number": 186,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 12392,
+        "char_end": 12507
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "#### **`TABLE`**\n\n`TABLE` is the workhorse of DQL. It generates a table with columns you define.",
+        "line_number": 248,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 13637,
+        "char_end": 13757
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "#### **`TASK`**\n\n`TASK` is a highly specialized query. It does not query *notes*; it queries *tasks* (`- [ ] text`) inside your notes.",
+        "line_number": 310,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 14770,
+        "char_end": 14928
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "Step 1: FROM [SOURCE] (The \"Where to Look\" Clause)\n\nThe `FROM` clause is your first filter. It tells DQL which notes to even bother looking at. If you *omit* `FROM`, Dataview defaults to searching your *entire vault* (respecting any plugin-level exclusions you've set, like \"don't search 'Templates/'\").",
+        "line_number": 361,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 15898,
+        "char_end": 16224
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "Step 2: WHERE [FILTER] (The \"Which to Keep\" Clause)\n\n`WHERE` is the heart of DQL. It's the primary filter that lets you specify *exactly* what you're looking for. It takes the notes from your `FROM` source and applies a logical test (a \"predicate\") to each one. Only the notes that pass the test continue to the next stage.",
+        "line_number": 382,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 16978,
+        "char_end": 17324
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "Step 3: GROUP BY [FIELD] (The \"How to Bundle\" Clause)\n\n`GROUP BY` is an advanced clause that fundamentally changes the output. Instead of one row *per note*, it creates one row *per unique value* in the field you group by.",
+        "line_number": 426,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 19398,
+        "char_end": 19643
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "Step 4: SORT [FIELD] [asc/desc] (The \"In What Order\" Clause)\n\n`SORT` is straightforward. It sorts your final list of results.",
+        "line_number": 479,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 20667,
+        "char_end": 20815
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "Step 5: LIMIT [NUMBER] (The \"How Many to Show\" Clause)\n\n`LIMIT` is the very last step. It simply cuts off your result list at the number you specify. It's almost always used in conjunction with `SORT`.",
+        "line_number": 501,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 21518,
+        "char_end": 21742
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "Use Case 1: Project Dashboard\n\nGoal: A table of all active projects, showing their priority and last-modified date, sorted by priority.\n\nAssumes: Notes have --- tag: project status: \"in-progress\" priority: \"high\" ---\n\n**Query:**\n\nCode snippet\n\n```markdown\nTABLE priority AS \"Priority\", file.mtime AS \"Last Updated\"\nFROM #project\nWHERE status = \"in-progress\"\nSORT priority asc, file.mtime desc\n```",
+        "line_number": 526,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 22096,
+        "char_end": 22535
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "Use Case 2: \"Needs Review\" Library\n\nGoal: A list of all book or article notes that I haven't rated yet, or that I haven't modified in over 6 months.\n\nAssumes: Notes are in the \"Sources/\" folder and have (or are missing) a rating:: field.\n\n**Query:**\n\nCode snippet\n\n```markdown\nLIST\nFROM \"Sources/\"\nWHERE (!rating) OR (file.mtime < date(today) - dur(6 months))\nSORT file.mtime asc\n```",
+        "line_number": 545,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 22536,
+        "char_end": 22962
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "Use Case 3: \"Waiting On\" Task List\n\nGoal: A consolidated list of all incomplete tasks, from any note, that I've tagged with #pkm.\n\nAssumes: You write tasks like - [ ] Follow up with Bob #pkm\n\n**Query:**\n\nCode snippet\n\n```markdown\nTASK\nFROM \"\"\nWHERE !completed AND contains(text, \"#waiting\")\n```",
+        "line_number": 564,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 22963,
+        "char_end": 23298
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "Use Case 4: Automatic Meeting Index\n\nGoal: A clean, grouped list of all meeting notes, organized by month.\n\nAssumes: Your meeting notes are in a \"Meetings/\" folder and named like 2025-10-16-Team-Sync.md.\n\n**Query:**\n\nCode snippet\n\n```markdown\nLIST\nFROM \"Meetings/\"\nSORT file.cday desc\nGROUP BY dateformat(file.cday, \"yyyy-MMMM\") AS \"Month\"\n```\n\n**Note:** `dateformat()` is a powerful function for formatting dates. This query uses `GROUP BY` to create headers like \"2025-October\".",
+        "line_number": 582,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 23299,
+        "char_end": 23825
+      },
+      {
+        "type": "connection-ideas",
+        "title": "Untitled",
+        "body": "How does understanding DQL change your note-taking behavior?\n\nYou will find yourself pausing before creating a new note, thinking: \"What metadata will make this note 'findable' later? What 'questions' will I want to ask that this note can help answer?\" This shift from *writing* to *structuring* is the key to unlocking the true power of a PKM.",
+        "line_number": 612,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 25498,
+        "char_end": 25872
+      },
+      {
+        "type": "summary",
+        "title": "Untitled",
+        "body": "Key Takeaways\n\n- **Metadata is the Fuel:** Dataview is powerless without metadata. Use YAML Properties for note-level data and `key:: value` for inline, contextual data.\n\n- **The Vault is a Database:** Every note is a \"row,\" and its metadata (both explicit and implicit) are its \"columns.\"\n\n- **Know Your Implicit Fields:** `file.name`, `file.mtime`, `file.cday`, `file.inlinks`, and `file.tags` are your most powerful, \"free\" data points.\n\n- **The Query Pipeline is Your Process:** Follow the logic: `FROM` (Where?) -> `WHERE` (Which ones?) -> `SORT` (What order?).\n\n- **Use `contains()`:** This is your most-used function, especially for checking tags (`contains(file.tags, \"#tag\")`) or list items.\n\n- **Start Simple, Then Add:** Don't try to write a complex query at once. Start with `LIST FROM #project`. See the results. Add a `WHERE` clause. See the results. Add a `SORT` clause. Build your query one step at a time.\n\n- **DQL Changes Your Behavior:** The true power of Dataview is not just in *finding* notes, but in motivating you to *structure* your notes in a more thoughtful, future-proof way.",
+        "line_number": 638,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 28402,
+        "char_end": 29550
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Untitled",
+        "body": "- **Explain It Simply:** How would you explain what Dataview does to a friend who has never used Obsidian? What analogy would you use? (Try to beat the \"Dynamic Librarian\"!)\n\n- **Identify Core Concepts:** What are the three most important *implicit fields* Dataview gives you for free, and how would you use each one?\n\n- **Challenge & Connect:** What pre-existing belief about note-taking did this information challenge? (e.g., \"I thought I needed a perfect folder system,\" or \"I thought tags were just for filtering.\")\n\n- **The Next Step:** What is one specific \"dashboard\" or \"automatic list\" you could build *today* for your own vault? What metadata would you need to add to your notes to make it work?",
+        "line_number": 660,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 29745,
+        "char_end": 30490
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "Brenan, M. (2021-Present). Dataview - Official Documentation. GitHub. <https://blacksmithgu.github.io/obsidian-dataview/>\n\n*This is the primary, official source for all DQL syntax, functions, and operational logic. It is the \"bible\" for Dataview and the foundation of this report.*",
+        "line_number": 674,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 30642,
+        "char_end": 30941
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "TFTHacker (2023). Dataview Plugin Guide: The Missing Manual for Obsidian. TFTHacker blog. <https://tfthacker.com/obsidian-dataview>\n\n*An excellent, comprehensive community guide that provides practical examples and use cases for DQL, translated for a non-technical audience.*",
+        "line_number": 680,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 30942,
+        "char_end": 31235
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "Obsidian Community. (2021-Present). Dataview Snippet Showcase. Obsidian Forum. <https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673>\n\n*A community-driven thread demonstrating hundreds of real-world DQL queries, invaluable for seeing practical, creative applications of the principles discussed in this report.*",
+        "line_number": 686,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md",
+        "char_start": 31236,
+        "char_end": 31579
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Dr. Evelyn Reed",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dr. Evelyn Reed]]",
+        "line_number": 127,
+        "section": "3. 📖 Foundational Principles: The \"Why\"",
+        "context_line": ">     - **Author**:: [[Dr. Evelyn Reed]]",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Book",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Book]]",
+        "line_number": 129,
+        "section": "3. 📖 Foundational Principles: The \"Why\"",
+        "context_line": ">     - **Source Type**:: [[Book]]",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Project Alpha",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Alpha]]",
+        "line_number": 192,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "- [[Project Alpha]]",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Project Beta",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Beta]]",
+        "line_number": 193,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "- [[Project Beta]]",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Dr. Reed",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dr. Reed]]",
+        "line_number": 226,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "- Project_Zeta: [[Dr. Reed]]",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Dr. Frank",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dr. Frank]]",
+        "line_number": 227,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "- Another_Book: [[Dr. Frank]]",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Dr. Reed",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dr. Reed]]",
+        "line_number": 243,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "- [[Dr. Reed]]",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Dr. Frank",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dr. Frank]]",
+        "line_number": 244,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "- [[Dr. Frank]]",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Project Alpha",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Alpha]]",
+        "line_number": 270,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "|[[Project Alpha]]|\"in-progress\"|\"high\"|",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Project Beta",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Beta]]",
+        "line_number": 271,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "|[[Project Beta]]|\"complete\"|\"low\"|",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Project Alpha",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Alpha]]",
+        "line_number": 307,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "|[[Project Alpha]]|\"in-progress\"|2025-10-15|",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Project Beta",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Beta]]",
+        "line_number": 308,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "|[[Project Beta]]|\"complete\"|2025-10-14|",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Project Alpha",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Alpha]]",
+        "line_number": 330,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "- [[Project Alpha]]",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Meeting 2025-10-16",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Meeting 2025-10-16]]",
+        "line_number": 333,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "- [[Meeting 2025-10-16]]",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Project Alpha",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Alpha]]",
+        "line_number": 351,
+        "section": "4.1 The Query Types: LIST, TABLE, TASK",
+        "context_line": "- [[Project Alpha]]",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Project Alpha",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Alpha]]",
+        "line_number": 371,
+        "section": "4.2 The Data Pipeline: A Step-by-Step Logic",
+        "context_line": "- **A Single Note:** `FROM [[Project Alpha]]` (This is for link-based queries, see below)",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Some Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Some Note]]",
+        "line_number": 377,
+        "section": "4.2 The Data Pipeline: A Step-by-Step Logic",
+        "context_line": "- `FROM [[Some Note]]`: Finds notes that *link to* \"Some Note\".",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Some Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Some Note]]",
+        "line_number": 378,
+        "section": "4.2 The Data Pipeline: A Step-by-Step Logic",
+        "context_line": "- `FROM outgoing([[Some Note]])`: Finds notes that \"Some Note\" *links to*.",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Book A",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Book A]]",
+        "line_number": 449,
+        "section": "4.2 The Data Pipeline: A Step-by-Step Logic",
+        "context_line": "|[[Book A]]|5|",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Book B",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Book B]]",
+        "line_number": 450,
+        "section": "4.2 The Data Pipeline: A Step-by-Step Logic",
+        "context_line": "|[[Book B]]|4|",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Book C",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Book C]]",
+        "line_number": 451,
+        "section": "4.2 The Data Pipeline: A Step-by-Step Logic",
+        "context_line": "|[[Book C]]|5|",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Book A",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Book A]]",
+        "line_number": 469,
+        "section": "4.2 The Data Pipeline: A Step-by-Step Logic",
+        "context_line": "|5|[[Book A]], [[Book C]]|",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Book C",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Book C]]",
+        "line_number": 469,
+        "section": "4.2 The Data Pipeline: A Step-by-Step Logic",
+        "context_line": "|5|[[Book A]], [[Book C]]|",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "target": "Book B",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Book B]]",
+        "line_number": 470,
+        "section": "4.2 The Data Pipeline: A Step-by-Step Logic",
+        "context_line": "|4|[[Book B]]|",
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "rating",
+        "value": "5",
+        "format": "bracket",
+        "line_number": 130,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "priority/high",
+        "full_tag": "#priority/high",
+        "hierarchy": [
+          "priority",
+          "high"
+        ],
+        "line_number": 146,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 184,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 235,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 252,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 265,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 316,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 351,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 363,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "priority/high",
+        "full_tag": "#priority/high",
+        "hierarchy": [
+          "priority",
+          "high"
+        ],
+        "line_number": 363,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "personal",
+        "full_tag": "#personal",
+        "hierarchy": [
+          "personal"
+        ],
+        "line_number": 365,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 393,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 447,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "pkm",
+        "full_tag": "#pkm",
+        "hierarchy": [
+          "pkm"
+        ],
+        "line_number": 530,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "pkm",
+        "full_tag": "#pkm",
+        "hierarchy": [
+          "pkm"
+        ],
+        "line_number": 530,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "tag",
+        "full_tag": "#tag",
+        "hierarchy": [
+          "tag"
+        ],
+        "line_number": 634,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 636,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✨ A Foundational Analysis of the Dataview Query Language (DQL)",
+        "anchor": "a-foundational-analysis-of-the-dataview-query-language-dql",
+        "line_number": 29,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 2,
+        "text": "1. 🗺️ Introduction & Context",
+        "anchor": "1-introduction-context",
+        "line_number": 36,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 2,
+        "text": "2. 📜 Historical Context & Intellectual Lineage",
+        "anchor": "2-historical-context-intellectual-lineage",
+        "line_number": 59,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 3,
+        "text": "**Core Analysis: An In-Depth Exposition**",
+        "anchor": "core-analysis-an-in-depth-exposition",
+        "line_number": 72,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 2,
+        "text": "3. 📖 Foundational Principles: The \"Why\"",
+        "anchor": "3-foundational-principles-the-why",
+        "line_number": 76,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 2,
+        "text": "4. 🛠️ Mechanisms & Processes: The \"How\"",
+        "anchor": "4-mechanisms-processes-the-how",
+        "line_number": 160,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 3,
+        "text": "4.1 The Query Types: LIST, TABLE, TASK",
+        "anchor": "41-the-query-types-list-table-task",
+        "line_number": 182,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 3,
+        "text": "4.2 The Data Pipeline: A Step-by-Step Logic",
+        "anchor": "42-the-data-pipeline-a-step-by-step-logic",
+        "line_number": 357,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 2,
+        "text": "5. 🔬 Evidence & Manifestations: The \"What\"",
+        "anchor": "5-evidence-manifestations-the-what",
+        "line_number": 522,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 2,
+        "text": "6. 🌍 Broader Implications & Significance: The \"So What\"",
+        "anchor": "6-broader-implications-significance-the-so-what",
+        "line_number": 603,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 2,
+        "text": "7. ⏳ Current Landscape & Unanswered Questions",
+        "anchor": "7-current-landscape-unanswered-questions",
+        "line_number": 620,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 2,
+        "text": "8. 🗝️ Conclusion & Key Takeaways",
+        "anchor": "8-conclusion-key-takeaways",
+        "line_number": 632,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 2,
+        "text": "9. 🦖 Active Reading & Reflection (The Feynman Technique)",
+        "anchor": "9-active-reading-reflection-the-feynman-technique",
+        "line_number": 656,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "level": 2,
+        "text": "10. 📚 References",
+        "anchor": "10-references",
+        "line_number": 670,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "markdown",
+        "code": ">     ---\n>     type: \"project\"\n>     status: \"in-progress\"\n>     priority: \"high\"\n>     rating: 5\n>     attendees:\n>       - \"Alice\"\n>       - \"Bob\"\n>     ---\n>     \n>     # Project Alpha\n>     This is a note about my project...\n>",
+        "line_start": 108,
+        "line_end": 121,
+        "char_count": 231,
+        "line_count": 13,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">     # Meeting Notes\n>     \n>     - **Author**:: [[Dr. Evelyn Reed]]\n>     - **Topic**:: Quantum Entanglement\n>     - **Source Type**:: [[Book]]\n>     - (This is a great book. My personal [rating:: 5] for it.)\n>",
+        "line_start": 124,
+        "line_end": 131,
+        "char_count": 212,
+        "line_count": 7,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 199,
+        "line_end": 200,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 204,
+        "line_end": 205,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 216,
+        "line_end": 217,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 221,
+        "line_end": 222,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 233,
+        "line_end": 234,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 238,
+        "line_end": 239,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 258,
+        "line_end": 259,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 263,
+        "line_end": 264,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 277,
+        "line_end": 278,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 282,
+        "line_end": 283,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 296,
+        "line_end": 297,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 300,
+        "line_end": 301,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 320,
+        "line_end": 321,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 325,
+        "line_end": 326,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 340,
+        "line_end": 341,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 346,
+        "line_end": 347,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 438,
+        "line_end": 439,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 442,
+        "line_end": 443,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 457,
+        "line_end": 458,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 462,
+        "line_end": 463,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 511,
+        "line_end": 512,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 517,
+        "line_end": 518,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> TABLE priority AS \"Priority\", file.mtime AS \"Last Updated\"\n> FROM #project\n> WHERE status = \"in-progress\"\n> SORT priority asc, file.mtime desc\n>",
+        "line_start": 538,
+        "line_end": 543,
+        "char_count": 146,
+        "line_count": 5,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> LIST\n> FROM \"Sources/\"\n> WHERE (!rating) OR (file.mtime < date(today) - dur(6 months))\n> SORT file.mtime asc\n>",
+        "line_start": 557,
+        "line_end": 562,
+        "char_count": 112,
+        "line_count": 5,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> TASK\n> FROM \"\"\n> WHERE !completed AND contains(text, \"#waiting\")\n>",
+        "line_start": 576,
+        "line_end": 580,
+        "char_count": 68,
+        "line_count": 4,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> LIST\n> FROM \"Meetings/\"\n> SORT file.cday desc\n> GROUP BY dateformat(file.cday, \"yyyy-MMMM\") AS \"Month\"\n>",
+        "line_start": 594,
+        "line_end": 599,
+        "char_count": 106,
+        "line_count": 5,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "**File**",
+          "**status**",
+          "**priority**"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "[[Project Alpha]]",
+            "\"in-progress\"",
+            "\"high\""
+          ],
+          [
+            "[[Project Beta]]",
+            "\"complete\"",
+            "\"low\""
+          ]
+        ],
+        "line_start": 241,
+        "row_count": 2,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "headers": [
+          "**status**",
+          "**priority**"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "\"in-progress\"",
+            "\"high\""
+          ],
+          [
+            "\"complete\"",
+            "\"low\""
+          ]
+        ],
+        "line_start": 254,
+        "row_count": 2,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "headers": [
+          "**File**",
+          "**Current Status**",
+          "**Last Updated**"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "[[Project Alpha]]",
+            "\"in-progress\"",
+            "2025-10-15"
+          ],
+          [
+            "[[Project Beta]]",
+            "\"complete\"",
+            "2025-10-14"
+          ]
+        ],
+        "line_start": 269,
+        "row_count": 2,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "headers": [
+          "**File**",
+          "**rating**"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "[[Book A]]",
+            "5"
+          ],
+          [
+            "[[Book B]]",
+            "4"
+          ],
+          [
+            "[[Book C]]",
+            "5"
+          ]
+        ],
+        "line_start": 421,
+        "row_count": 3,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "headers": [
+          "**rating**",
+          "**rows.file.link**"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "5",
+            "[[Book A]], [[Book C]]"
+          ],
+          [
+            "4",
+            "[[Book B]]"
+          ]
+        ],
+        "line_start": 428,
+        "row_count": 2,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      }
+    ],
+    "external_links": [
+      {
+        "display_text": "Obsidian",
+        "url": "https://obsidian.md/",
+        "format": "markdown",
+        "line_number": 38,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "display_text": "https://blacksmithgu.github.io/obsidian-dataview/",
+        "url": "https://blacksmithgu.github.io/obsidian-dataview/",
+        "format": "bare",
+        "line_number": 676,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "display_text": "https://tfthacker.com/obsidian-dataview",
+        "url": "https://tfthacker.com/obsidian-dataview",
+        "format": "bare",
+        "line_number": 682,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      },
+      {
+        "display_text": "https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673",
+        "url": "https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673",
+        "format": "bare",
+        "line_number": 688,
+        "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**`[QUERY TYPE]`** (`LIST`, `TABLE`, or `TASK`) - What should the *output* look like?",
+          "indent_level": 0,
+          "line_number": 158,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**`[FIELDS]`** (Optional, for `TABLE`) - *What* columns should I show?",
+          "indent_level": 0,
+          "line_number": 158,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**`FROM [SOURCE]`** (Optional) - *Where* should I look for notes?",
+          "indent_level": 0,
+          "line_number": 160,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**`WHERE [FILTER]`** (Optional) - *Which* notes should I keep?",
+          "indent_level": 0,
+          "line_number": 162,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**`GROUP BY [FIELD]`** (Optional) - How should I *bundle* the results?",
+          "indent_level": 0,
+          "line_number": 166,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**`SORT [FIELD] [asc/desc]`** (Optional) - In *what order* should I show them?",
+          "indent_level": 0,
+          "line_number": 166,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**`LIMIT [NUMBER]`** (Optional) - *How many* results should I show?",
+          "indent_level": 0,
+          "line_number": 168,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "\"Show me all projects I marked as 'in-progress' that I haven't touched in a week.\"",
+          "indent_level": 0,
+          "line_number": 41,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "\"List every book I rated 5 stars, sorted by author.\"",
+          "indent_level": 0,
+          "line_number": 43,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "\"Compile all tasks related to 'Project Phoenix' from all my meeting notes.\"",
+          "indent_level": 0,
+          "line_number": 44,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**From SQL to DQL:** The most obvious ancestor is **SQL (Structured Query Language)**, the standard language for interacting with relational databases since the 1970s. The DQL syntax—`SELECT` (implied), `FROM`, `WHERE`, `GROUP BY`, `ORDER BY` (as `SORT`)—is a direct, intentional parallel to SQL. DQL is, in effect, a simplified, domain-specific version of SQL designed for the \"database\" of an Obsidian vault.",
+          "indent_level": 0,
+          "line_number": 62,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Text-as-Database:** The idea of treating plain text as a queryable database is a cornerstone of the Unix philosophy. Tools like `grep`, `awk`, and `sed` allowed users for decades to search, filter, and transform text data streams. Dataview inherits this spirit, but replaces complex regular expressions with a more accessible, high-level query language.",
+          "indent_level": 0,
+          "line_number": 64,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**The Rise of PKM:** The 2020s saw an explosion in PKM tools and the popularization of methodologies like Zettelkasten. While powerful, a \"pure\" Zettelkasten relies on atomic notes and manual linking. This created a friction point for users who also wanted the structured overview of a database (like Notion or Airtable).",
+          "indent_level": 0,
+          "line_number": 65,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**The \"Structured vs. Unstructured\" Bridge:** Dataview was a revolutionary response to this friction. It brilliantly bridged the gap. It allows a user to maintain a \"bottom-up,\" atomistic, unstructured note-taking practice, while *also* enabling \"top-down,\" structured, database-like aggregation. You don't have to choose between a web of links and a filterable table; Dataview lets you have both, using the *same set of files*.",
+          "indent_level": 0,
+          "line_number": 66,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "[[Project Alpha]]",
+          "indent_level": 0,
+          "line_number": 175,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "[[Project Beta]]",
+          "indent_level": 0,
+          "line_number": 175,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "\"in-progress\"",
+          "indent_level": 0,
+          "line_number": 184,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "Project_Zeta: [[Dr. Reed]]",
+          "indent_level": 0,
+          "line_number": 201,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "Another_Book: [[Dr. Frank]]",
+          "indent_level": 0,
+          "line_number": 201,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "[[Dr. Reed]]",
+          "indent_level": 0,
+          "line_number": 212,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "[[Dr. Frank]]",
+          "indent_level": 0,
+          "line_number": 212,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "[[Project Alpha]]",
+          "indent_level": 0,
+          "line_number": 304,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`[ ]` Design the architecture",
+          "indent_level": 2,
+          "line_number": 305,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`[ ]` Contact the client",
+          "indent_level": 2,
+          "line_number": 306,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "[[Meeting 2025-10-16]]",
+          "indent_level": 0,
+          "line_number": 307,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`[ ]` Send follow-up email",
+          "indent_level": 2,
+          "line_number": 308,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "[[Project Alpha]]",
+          "indent_level": 0,
+          "line_number": 322,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`[ ]` Design the architecture",
+          "indent_level": 2,
+          "line_number": 322,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`[ ]` Contact the client",
+          "indent_level": 2,
+          "line_number": 328,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Tags:** `FROM #project` (Finds all notes with this tag)",
+          "indent_level": 0,
+          "line_number": 352,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Folders:** `FROM \"Projects/Active\"` (Finds all notes in this folder and its subfolders)",
+          "indent_level": 0,
+          "line_number": 356,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**A Single Note:** `FROM [[Project Alpha]]` (This is for link-based queries, see below)",
+          "indent_level": 0,
+          "line_number": 359,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`FROM [[Some Note]]`: Finds notes that *link to* \"Some Note\".",
+          "indent_level": 2,
+          "line_number": 369,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`FROM outgoing([[Some Note]])`: Finds notes that \"Some Note\" *links to*.",
+          "indent_level": 2,
+          "line_number": 370,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`AND`: `WHERE status = \"in-progress\" AND priority = \"high\"`",
+          "indent_level": 0,
+          "line_number": 376,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`OR`: `WHERE priority = \"high\" OR contains(file.name, \"Urgent\")`",
+          "indent_level": 0,
+          "line_number": 377,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`!`: (NOT) `WHERE !status` (Finds notes that *do not* have a \"status\" field)",
+          "indent_level": 0,
+          "line_number": 378,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**String/Array Functions:**",
+          "indent_level": 0,
+          "line_number": 388,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`contains(field, \"value\")`: The single most useful function. Checks if a field *contains* a value.",
+          "indent_level": 2,
+          "line_number": 390,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`WHERE contains(status, \"progress\")` (Finds \"in-progress\", \"progressing\", etc.)",
+          "indent_level": 4,
+          "line_number": 391,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`WHERE contains(file.tags, \"#project\")` (The *correct* way to check for a tag in a list)",
+          "indent_level": 4,
+          "line_number": 393,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`WHERE contains(attendees, \"Alice\")` (Checks if \"Alice\" is in the YAML list `attendees`)",
+          "indent_level": 4,
+          "line_number": 395,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`icontains(field, \"value\")`: Case-*insensitive* contains.",
+          "indent_level": 2,
+          "line_number": 399,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`startswith(field, \"value\")`: `WHERE startswith(file.name, \"2025-\")` (Finds all notes from 2025)",
+          "indent_level": 2,
+          "line_number": 401,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`endswith(field, \"value\")`: `WHERE endswith(file.name, \"-Daily\")`",
+          "indent_level": 2,
+          "line_number": 406,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`length(field)`: Returns the number of items. `WHERE length(attendees) > 3`",
+          "indent_level": 2,
+          "line_number": 406,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Date & Time Functions:**",
+          "indent_level": 0,
+          "line_number": 407,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`date(today)`: A special value for today's date.",
+          "indent_level": 2,
+          "line_number": 407,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`dur()`: (Duration) Used to add/subtract time. `dur(1 week)`, `dur(3 days)`, `dur(1 month)`.",
+          "indent_level": 2,
+          "line_number": 408,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Example:** `WHERE file.cday = date(today)` (Finds notes created *today*)",
+          "indent_level": 2,
+          "line_number": 409,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Example:** `WHERE file.mtime > date(today) - dur(7 days)` (Finds notes modified in the last 7 days)",
+          "indent_level": 2,
+          "line_number": 410,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Note:** Always use `file.cday` or `file.mday` for date-only comparisons. `file.ctime` and `file.mtime` are full *timestamps* and are harder to work with.",
+          "indent_level": 2,
+          "line_number": 411,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Existence Checks:**",
+          "indent_level": 0,
+          "line_number": 413,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`WHERE status`: (Implicit existence) Finds all notes that *have* a `status` field, regardless of its value.",
+          "indent_level": 2,
+          "line_number": 413,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`WHERE !priority`: Finds all notes that *do not* have a `priority` field.",
+          "indent_level": 2,
+          "line_number": 416,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Use Case:** `LIST FROM #project GROUP BY status`",
+          "indent_level": 0,
+          "line_number": 448,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "This will create a `LIST` with headings: \"in-progress\", \"complete\", \"archived\", and all the relevant files listed under each. It's a fantastic way to build automatic indexes.",
+          "indent_level": 2,
+          "line_number": 453,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`asc`: Ascending order (A-Z, 1-10, oldest-newest). This is the default.",
+          "indent_level": 0,
+          "line_number": 472,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`desc`: Descending order (Z-A, 10-1, newest-oldest).",
+          "indent_level": 0,
+          "line_number": 472,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`SORT file.name asc` (Sort alphabetically)",
+          "indent_level": 0,
+          "line_number": 472,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`SORT rating desc` (Sort by highest rating first)",
+          "indent_level": 0,
+          "line_number": 472,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`SORT file.mtime desc` (The most common sort: show most recently modified files first)",
+          "indent_level": 0,
+          "line_number": 474,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "`SORT length(attendees) desc` (Sort by a computed value: show meetings with the most people first)",
+          "indent_level": 0,
+          "line_number": 475,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**The Best of Both Worlds:** Dataview resolves the central conflict between unstructured \"Zettelkasten-style\" note-taking and structured \"database-style\" thinking. You can write free-form, creative prose in a note, and then embed a `key:: value` or add YAML to make that note a first-class citizen in your structured system. It is the bridge between chaos and order.",
+          "indent_level": 0,
+          "line_number": 607,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**DQL vs. Dataview JS:** This document focuses *exclusively* on DQL, the query language. There is a second, more powerful side to the plugin: **Dataview JS**. This allows you to write queries and render views using full JavaScript.",
+          "indent_level": 0,
+          "line_number": 609,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**DQL** is *declarative*: You say \"what\" you want (\"a list of books\").",
+          "indent_level": 2,
+          "line_number": 610,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Dataview JS** is *imperative*: You say \"how\" to get it (\"loop through these files, check this logic, format the string, and print it\").",
+          "indent_level": 2,
+          "line_number": 610,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**When to use JS?** Use Dataview JS when DQL hits a limit. DQL cannot do math *between rows*, cannot make API calls, and has limited string manipulation. Dataview JS can do all of that and more. DQL is the 95% solution; Dataview JS is for the other 5%.",
+          "indent_level": 2,
+          "line_number": 610,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Limitations (The \"Read-Only\" Problem):** A common desire for new users is to \"use Dataview to update notes.\" This is not possible. Dataview is **read-only**. It can *aggregate* and *display* data, but it cannot *write* or *modify* data in other notes. This is a deliberate design choice for safety and to respect the plain-text-first principle.",
+          "indent_level": 0,
+          "line_number": 624,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        },
+        {
+          "text": "**Performance:** In a vault with 50,000+ notes, complex DQL queries can take a few seconds to run. The developer has done a heroic job of indexing and caching, but performance is a real consideration for \"power users\" with massive vaults.",
+          "indent_level": 0,
+          "line_number": 626,
+          "source": "pkb-report-analysis-of-the-dataview-query-language-20251120092808.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Book",
+      "Book A",
+      "Book B",
+      "Book C",
+      "Dr. Evelyn Reed",
+      "Dr. Frank",
+      "Dr. Reed",
+      "Meeting 2025-10-16",
+      "Project Alpha",
+      "Project Beta",
+      "Some Note"
+    ],
+    "unique_wiki_link_count": 11,
+    "unique_tags": [
+      "#personal",
+      "#pkm",
+      "#priority/high",
+      "#project",
+      "#tag"
+    ],
+    "unique_tag_count": 5,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Book",
+      "Book A",
+      "Book B",
+      "Book C",
+      "Dr. Evelyn Reed",
+      "Dr. Frank",
+      "Dr. Reed",
+      "Meeting 2025-10-16",
+      "Project Alpha",
+      "Project Beta",
+      "Some Note"
+    ]
+  }
+}

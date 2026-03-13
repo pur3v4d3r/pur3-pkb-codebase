@@ -1,0 +1,397 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.867355",
+    "source_file": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+    "source_file_size_bytes": 7283,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Foundational Principles First Order Topics in Cosmology and Astrophysics",
+      "id": "20251026012332",
+      "aliases": [
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": "⁉️",
+      "created": "2025-10-26T01:23:32",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "⁉️",
+      "tags": [
+        "source/rsca",
+        "topic",
+        "topic/educational",
+        "topic/rsca"
+      ]
+    },
+    "word_count": 953,
+    "character_count": 6809,
+    "line_count": 113,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 30,
+    "by_type": {
+      "headings": 8,
+      "callouts": 8,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 7,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 7,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Foundational-Principles-First-Order-Topics-in-Cosmology-and-Astrophysics_🆔20251026012315",
+      "anchor": "topicsfoundational-principles-first-order-topics-in-cosmology-and-astrophysics20251026012315",
+      "line_number": 23,
+      "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "✨ Cosmic Messenger: The Role of Redshift in an Expanding Universe",
+          "anchor": "cosmic-messenger-the-role-of-redshift-in-an-expanding-universe",
+          "line_number": 38,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🌟 Stellar Thermodynamics: The Mechanism of Energy Generation in Main-Sequence Stars",
+          "anchor": "stellar-thermodynamics-the-mechanism-of-energy-generation-in-main-sequence-stars",
+          "line_number": 52,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⏳ The Chronometer of the Cosmos: Standard Candles and the Cosmic Distance Ladder",
+          "anchor": "the-chronometer-of-the-cosmos-standard-candles-and-the-cosmic-distance-ladder",
+          "line_number": 66,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🍎 The Curved Reality: Introduction to the Principles of General Relativity",
+          "anchor": "the-curved-reality-introduction-to-the-principles-of-general-relativity",
+          "line_number": 80,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔭 Galactic Structure: The Morphology and Dynamics of the Milky Way",
+          "anchor": "galactic-structure-the-morphology-and-dynamics-of-the-milky-way",
+          "line_number": 94,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🌑 Stellar Graveyards: The Formation and Properties of White Dwarfs and Neutron Stars",
+          "anchor": "stellar-graveyards-the-formation-and-properties-of-white-dwarfs-and-neutron-stars",
+          "line_number": 108,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "💡 The Thermal Universe: Blackbody Radiation and the Spectrum of Light",
+          "anchor": "the-thermal-universe-blackbody-radiation-and-the-spectrum-of-light",
+          "line_number": 122,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set presents seven essential **first-principle concepts** across general relativity, stellar evolution, and cosmology. These topics are designed to serve as foundational knowledge for the more advanced research questions previously provided. The focus is on the core 'Why' and 'How' of key phenomena: the geometry of spacetime, the energy production of stars, the evidence for an expanding universe, and the basic physics of light that serves as our primary cosmic messenger. Mastering these concepts will provide the necessary theoretical and observational grounding to fully appreciate the complex interactions of Dark Matter, Black Hole mergers, and Galactic Evolution.",
+        "line_number": 29,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+        "char_start": 613,
+        "char_end": 1316
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 36,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+        "char_start": 1343,
+        "char_end": 1359
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 50,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+        "char_start": 2135,
+        "char_end": 2151
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 64,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+        "char_start": 2983,
+        "char_end": 2999
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 78,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+        "char_start": 3796,
+        "char_end": 3812
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 92,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+        "char_start": 4634,
+        "char_end": 4650
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 106,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+        "char_start": 5416,
+        "char_end": 5432
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 120,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md",
+        "char_start": 6271,
+        "char_end": 6287
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Foundational-Principles-First-Order-Topics-in-Cosmology-and-Astrophysics_🆔20251026012315",
+        "anchor": "topicsfoundational-principles-first-order-topics-in-cosmology-and-astrophysics20251026012315",
+        "line_number": 23,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "level": 2,
+        "text": "✨ Cosmic Messenger: The Role of Redshift in an Expanding Universe",
+        "anchor": "cosmic-messenger-the-role-of-redshift-in-an-expanding-universe",
+        "line_number": 38,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "level": 2,
+        "text": "🌟 Stellar Thermodynamics: The Mechanism of Energy Generation in Main-Sequence Stars",
+        "anchor": "stellar-thermodynamics-the-mechanism-of-energy-generation-in-main-sequence-stars",
+        "line_number": 52,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "level": 2,
+        "text": "⏳ The Chronometer of the Cosmos: Standard Candles and the Cosmic Distance Ladder",
+        "anchor": "the-chronometer-of-the-cosmos-standard-candles-and-the-cosmic-distance-ladder",
+        "line_number": 66,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "level": 2,
+        "text": "🍎 The Curved Reality: Introduction to the Principles of General Relativity",
+        "anchor": "the-curved-reality-introduction-to-the-principles-of-general-relativity",
+        "line_number": 80,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "level": 2,
+        "text": "🔭 Galactic Structure: The Morphology and Dynamics of the Milky Way",
+        "anchor": "galactic-structure-the-morphology-and-dynamics-of-the-milky-way",
+        "line_number": 94,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "level": 2,
+        "text": "🌑 Stellar Graveyards: The Formation and Properties of White Dwarfs and Neutron Stars",
+        "anchor": "stellar-graveyards-the-formation-and-properties-of-white-dwarfs-and-neutron-stars",
+        "line_number": 108,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "level": 2,
+        "text": "💡 The Thermal Universe: Blackbody Radiation and the Spectrum of Light",
+        "anchor": "the-thermal-universe-blackbody-radiation-and-the-spectrum-of-light",
+        "line_number": 122,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "markdown",
+        "code": "A Foundational Analysis of Cosmological Redshift, Detailing the Mechanism by which the Expansion of Spacetime Alters Photon Wavelengths, and its Role as the Primary Observational Evidence for Hubble's Law and an Accelerating Universe",
+        "line_start": 42,
+        "line_end": 44,
+        "char_count": 233,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Comprehensive Examination of the Core Mechanisms of Stellar Energy Generation, Analyzing the Foundational Principles of Hydrostatic Equilibrium and the Proton-Proton Chain That Govern the Mass-Luminosity Relationship and Main-Sequence Lifetime of a Star",
+        "line_start": 56,
+        "line_end": 58,
+        "char_count": 255,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Methodological Analysis of the Cosmic Distance Ladder, Detailing the Foundational Principles and Mechanisms of Standard Candles, Including the Calibration and Use of Cepheid Variables and Type Ia Supernovae for Measuring Intergalactic Scale",
+        "line_start": 70,
+        "line_end": 72,
+        "char_count": 242,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "language": "markdown",
+        "code": "An Introductory Analysis of the Foundational Principles of Einstein's General Theory of Relativity, Detailing the Concept of Spacetime Curvature as the Mechanism for Gravity and the Observational Evidence Supporting its Validity in Astrophysical Contexts",
+        "line_start": 84,
+        "line_end": 86,
+        "char_count": 254,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Foundational Study of Galactic Morphology and Dynamics, Detailing the Observational Evidence and Mechanisms Governing the Structure and Rotation of the Milky Way, with an Emphasis on the Components of the Disk, Bulge, and Dark Matter Halo",
+        "line_start": 98,
+        "line_end": 100,
+        "char_count": 240,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Comprehensive Analysis of the End-States of Stellar Evolution, Detailing the Foundational Principles of Degeneracy Pressure, the Mechanisms of Core Collapse, and the Role of the Chandrasekhar and TOV Limits in Determining the Formation of White Dwarfs and Neutron Stars",
+        "line_start": 112,
+        "line_end": 114,
+        "char_count": 271,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Foundational Examination of Thermal Radiation Principles in Astrophysics, Detailing the Mechanisms of Blackbody Emission and the Role of Planck's Law and Wien's Displacement Law in Determining the Temperature and Energy Flux of Stellar and Planetary Bodies",
+        "line_start": 126,
+        "line_end": 128,
+        "char_count": 258,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 33,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 42,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 54,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 66,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 71,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 82,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 94,
+          "source": "topic-set-foundational-principles-first-order-topics-in-cosmology-and-astrophysics-🆔20251026012315.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.871730",
+    "source_file": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+    "source_file_size_bytes": 7841,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Topics_A-Strategic-Look-at-Improving-Gemini-and-ChatGPT-Prompting _🆔20251020222143",
+      "id": "20251020222152",
+      "aliases": [
+        "chatgpt/prompting",
+        "education/prompt-engineering",
+        "gemini/prompting",
+        "llm/prompting",
+        "prompting",
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "topics",
+      "status": "⚡active",
+      "priority": [],
+      "created": "2025-10-20T22:21:52",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "https://gemini.google.com/gem/cd8939e7e205/1048baf354f86ad6",
+      "tags": [
+        "prompt-engineering/chatgpt",
+        "prompt-engineering/educational",
+        "prompt-engineering",
+        "source/rsca"
+      ]
+    },
+    "word_count": 967,
+    "character_count": 7147,
+    "line_count": 108,
+    "heading_count": 9
+  },
+  "extraction_summary": {
+    "total_items_extracted": 31,
+    "by_type": {
+      "headings": 9,
+      "callouts": 3,
+      "wiki_links": 0,
+      "inline_fields": 2,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 7,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 10,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_A-Strategic-Look-at-Improving-Gemini-and-ChatGPT-Prompting _🆔20251020222143",
+      "anchor": "topicsa-strategic-look-at-improving-gemini-and-chatgpt-prompting-20251020222143",
+      "line_number": 28,
+      "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🎭 The \"Expert Proxy\": Mastering Persona and Role-Based Prompting",
+          "anchor": "the-expert-proxy-mastering-persona-and-role-based-prompting",
+          "line_number": 37,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🏛️ Architectural Prompting: Scaffolding Complex Report Structures",
+          "anchor": "architectural-prompting-scaffolding-complex-report-structures",
+          "line_number": 50,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🧠 Eliciting Analysis vs. Summary: Prompting for Higher-Order Cognition",
+          "anchor": "eliciting-analysis-vs-summary-prompting-for-higher-order-cognition",
+          "line_number": 63,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🛠️ The Agent Architect: Meta-Prompting for Custom Gems & GPTs",
+          "anchor": "the-agent-architect-meta-prompting-for-custom-gems-gpts",
+          "line_number": 76,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔄 The Prompter's Workflow: Iterative Refinement and Prompt Chaining",
+          "anchor": "the-prompters-workflow-iterative-refinement-and-prompt-chaining",
+          "line_number": 89,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔒 Factual Grounding & Hallucination Mitigation",
+          "anchor": "factual-grounding-hallucination-mitigation",
+          "line_number": 102,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚖️ Comparative Prompting Strategies: Exploiting Gemini vs. ChatGPT",
+          "anchor": "comparative-prompting-strategies-exploiting-gemini-vs-chatgpt",
+          "line_number": 115,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Further Exploration",
+          "anchor": "further-exploration",
+          "line_number": 126,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "These are not simple \"**how-to**\" guides but rather *deep, structural inquiries into the *techniques* experts use to elicit superior performance* from models like **Gemini** and **ChatGPT**, *especially within custom agent environments* (**Gems** and **GPTs**).",
+        "line_number": 30,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+        "char_start": 723,
+        "char_end": 1004
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 35,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+        "char_start": 1052,
+        "char_end": 1067
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 74,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md",
+        "char_start": 3628,
+        "char_end": 3643
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [
+      {
+        "field_name": "completion",
+        "value": "2025-10-20",
+        "format": "bracket",
+        "line_number": 34,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-10-22",
+        "format": "bracket",
+        "line_number": 73,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_A-Strategic-Look-at-Improving-Gemini-and-ChatGPT-Prompting _🆔20251020222143",
+        "anchor": "topicsa-strategic-look-at-improving-gemini-and-chatgpt-prompting-20251020222143",
+        "line_number": 28,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "level": 2,
+        "text": "🎭 The \"Expert Proxy\": Mastering Persona and Role-Based Prompting",
+        "anchor": "the-expert-proxy-mastering-persona-and-role-based-prompting",
+        "line_number": 37,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "level": 2,
+        "text": "🏛️ Architectural Prompting: Scaffolding Complex Report Structures",
+        "anchor": "architectural-prompting-scaffolding-complex-report-structures",
+        "line_number": 50,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "level": 2,
+        "text": "🧠 Eliciting Analysis vs. Summary: Prompting for Higher-Order Cognition",
+        "anchor": "eliciting-analysis-vs-summary-prompting-for-higher-order-cognition",
+        "line_number": 63,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "level": 2,
+        "text": "🛠️ The Agent Architect: Meta-Prompting for Custom Gems & GPTs",
+        "anchor": "the-agent-architect-meta-prompting-for-custom-gems-gpts",
+        "line_number": 76,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 The Prompter's Workflow: Iterative Refinement and Prompt Chaining",
+        "anchor": "the-prompters-workflow-iterative-refinement-and-prompt-chaining",
+        "line_number": 89,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "level": 2,
+        "text": "🔒 Factual Grounding & Hallucination Mitigation",
+        "anchor": "factual-grounding-hallucination-mitigation",
+        "line_number": 102,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "level": 2,
+        "text": "⚖️ Comparative Prompting Strategies: Exploiting Gemini vs. ChatGPT",
+        "anchor": "comparative-prompting-strategies-exploiting-gemini-vs-chatgpt",
+        "line_number": 115,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "level": 2,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 126,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "A Comprehensive Analysis of Advanced Persona-Crafting Techniques in Large Language Models for Emulating Expert-Level Academic Discourse, Analytical Rigor, and Domain-Specific Epistemology",
+        "line_start": 42,
+        "line_end": 44,
+        "char_count": 187,
+        "line_count": 1,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "An Investigation into Structural Scaffolding and Output Formatting Techniques for Directing LLM Generation of Long-Form, Coherent, and Logically-Partitioned Academic Reports",
+        "line_start": 55,
+        "line_end": 57,
+        "char_count": 173,
+        "line_count": 1,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A Methodological Review of Prompt Engineering Strategies, including Chain-of-Thought (CoT) and Step-Back Prompting, for Eliciting Synthesis, Critical Analysis, and Verifiable Reasoning from Generative AI",
+        "line_start": 68,
+        "line_end": 70,
+        "char_count": 203,
+        "line_count": 1,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A Strategic Examination of Meta-Prompting and System-Level Instruction Design for Creating Specialized Generative Agents (GPTs/Gems) Optimized for Domain-Specific Academic Research and Report Generation",
+        "line_start": 81,
+        "line_end": 83,
+        "char_count": 202,
+        "line_count": 1,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A Process-Based Analysis of Iterative Refinement Loops and Multi-Stage Prompt Chaining as a Workflow for Systematically Constructing and Enhancing the Quality of High-Fidelity Academic Reports with LLMs",
+        "line_start": 94,
+        "line_end": 96,
+        "char_count": 202,
+        "line_count": 1,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "An Analysis of Prompt-Based Factual Grounding Techniques, including Retrieval-Augmented Generation (RAG) and Chain-of-Verification (CoVe), for Mitigating Hallucinations and Ensuring Data-Driven Accuracy in Academic Reports",
+        "line_start": 107,
+        "line_end": 109,
+        "char_count": 222,
+        "line_count": 1,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A Comparative Analysis of Prompting Methodologies for Gemini and ChatGPT, Identifying Model-Specific Architectural Nuances and Optimizing Input Strategies to Maximize the Quality of Academic Output on Each Platform",
+        "line_start": 120,
+        "line_end": 122,
+        "char_count": 214,
+        "line_count": 1,
+        "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[x] **Used?**  [completion:: 2025-10-20]",
+          "indent_level": 0,
+          "line_number": 34,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+        },
+        {
+          "text": "[x] **Used?**",
+          "indent_level": 0,
+          "line_number": 43,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+        },
+        {
+          "text": "[x] **Used?**",
+          "indent_level": 0,
+          "line_number": 52,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+        },
+        {
+          "text": "[x] **Used?**  [completion:: 2025-10-22]",
+          "indent_level": 0,
+          "line_number": 65,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+        },
+        {
+          "text": "[x] **Used?**",
+          "indent_level": 0,
+          "line_number": 81,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+        },
+        {
+          "text": "[x] **Used?**",
+          "indent_level": 0,
+          "line_number": 91,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 104,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+        },
+        {
+          "text": "**Zero-shot vs. Few-shot Prompting:** Exploring the difference between giving a direct command (zero-shot) and providing a few examples of the desired output format within your prompt (few-shot), which is highly effective for academic formatting.",
+          "indent_level": 0,
+          "line_number": 104,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+        },
+        {
+          "text": "**Self-Consistency:** An advanced technique where you ask the model the same question multiple times using diverse reasoning paths (e.g., different CoT prompts) and then select the most consistent answer.",
+          "indent_level": 0,
+          "line_number": 108,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+        },
+        {
+          "text": "**Prompt Frameworks (e.g., CO-STAR):** Investigating mnemonic frameworks (Context, Objective, Style, Tone, Audience, Response) that help ensure you include all necessary components in your prompt.",
+          "indent_level": 0,
+          "line_number": 114,
+          "source": "topic-set-improving-gemini-and-chatgpt-prompting-20251020222143.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

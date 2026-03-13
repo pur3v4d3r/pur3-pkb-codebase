@@ -1,0 +1,2110 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:56.305893",
+    "source_file": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\03-prompt-engineering\\-reference\\reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+    "source_file_size_bytes": 33687,
+    "processing_time_seconds": 0.01
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Capacity Theory PKB Critique",
+        "Attention Theories Output Analysis"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "type/analysis",
+        "status/review",
+        "cognitive-science",
+        "pkb",
+        "synthesis-workflow",
+        "prompting-technique/reflection",
+        "linking-strategy",
+        "prompting-technique/meta-prompting/optimization",
+        "attention",
+        "reasoning",
+        "meta-analysis"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251214044105",
+      "created": "2025-12-14T04:41:05",
+      "modified": "2025-12-14T04:41:05",
+      "week": "[[2025-W50]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "analysis",
+      "maturity": "needs-review",
+      "confidence": "speculative",
+      "next-review": "2025-12-21",
+      "review-count": "0",
+      "link-up": [
+        "[[prompt-engineering-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-14|Daily-Note]]"
+      ]
+    },
+    "word_count": 4100,
+    "character_count": 32698,
+    "line_count": 793,
+    "heading_count": 26
+  },
+  "extraction_summary": {
+    "total_items_extracted": 190,
+    "by_type": {
+      "headings": 26,
+      "callouts": 20,
+      "wiki_links": 54,
+      "inline_fields": 1,
+      "definitions": 1,
+      "tags": 19,
+      "code_blocks": 9,
+      "tables": 3,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 2,
+      "color_spans": 42,
+      "lists_ordered": 7,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 6
+    }
+  },
+  "document_outline": [
+    {
+      "level": 5,
+      "text": "Output Analysis: The Evolution of Capacity Theories of Attention",
+      "anchor": "output-analysis-the-evolution-of-capacity-theories-of-attention",
+      "line_number": 334,
+      "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "📊 Output Analysis: The Evolution of Capacity Theories of Attention",
+      "anchor": "output-analysis-the-evolution-of-capacity-theories-of-attention",
+      "line_number": 341,
+      "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase 1: Input Reception & Classification",
+          "anchor": "phase-1-input-reception-classification",
+          "line_number": 351,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase 2: Multi-Dimensional Assessment",
+          "anchor": "phase-2-multi-dimensional-assessment",
+          "line_number": 369,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Dimensional Assessment Summary",
+              "anchor": "dimensional-assessment-summary",
+              "line_number": 371,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Dimension 1: Structural Architecture (8/10)",
+              "anchor": "dimension-1-structural-architecture-810",
+              "line_number": 385,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Dimension 2: Technique Signature Analysis (8/10)",
+              "anchor": "dimension-2-technique-signature-analysis-810",
+              "line_number": 408,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Dimension 3: Knowledge Graph Potential (7/10)",
+              "anchor": "dimension-3-knowledge-graph-potential-710",
+              "line_number": 433,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Dimension 4: Format & PKB Compliance (9/10)",
+              "anchor": "dimension-4-format-pkb-compliance-910",
+              "line_number": 466,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Dimension 5: Content Depth & Accuracy (9/10)",
+              "anchor": "dimension-5-content-depth-accuracy-910",
+              "line_number": 510,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Dimension 6: Actionability & Utility (7/10)",
+              "anchor": "dimension-6-actionability-utility-710",
+              "line_number": 539,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase 3: Improvement Identification & Categorization",
+          "anchor": "phase-3-improvement-identification-categorization",
+          "line_number": 559,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "🟢 Tier 1: Quick Wins (< 5 minutes)",
+              "anchor": "tier-1-quick-wins-5-minutes",
+              "line_number": 561,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔵 Tier 2: Structural Enhancements (5-30 minutes)",
+              "anchor": "tier-2-structural-enhancements-5-30-minutes",
+              "line_number": 585,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🟣 Tier 3: Technique Integrations (30+ minutes)",
+              "anchor": "tier-3-technique-integrations-30-minutes",
+              "line_number": 612,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Prompt Engineering Recommendations",
+                  "anchor": "prompt-engineering-recommendations",
+                  "line_number": 614,
+                  "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "🟠 Tier 4: Architectural Recommendations (System-level)",
+              "anchor": "tier-4-architectural-recommendations-system-level",
+              "line_number": 650,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔴 Tier 5: Source Prompt Engineering",
+              "anchor": "tier-5-source-prompt-engineering",
+              "line_number": 675,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Pre-Output Cleanup Requirements",
+          "anchor": "pre-output-cleanup-requirements",
+          "line_number": 683,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Mandatory Wiki-Link Targets",
+          "anchor": "mandatory-wiki-link-targets",
+          "line_number": 698,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase 4: Integration Opportunity Mapping",
+          "anchor": "phase-4-integration-opportunity-mapping",
+          "line_number": 712,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Affected PKB Components",
+              "anchor": "affected-pkb-components",
+              "line_number": 714,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Cascading Benefits",
+              "anchor": "cascading-benefits",
+              "line_number": 724,
+              "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Summary & Recommendations",
+          "anchor": "summary-recommendations",
+          "line_number": 747,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 766,
+      "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "📖 Extracted Definitions",
+          "anchor": "extracted-definitions",
+          "line_number": 792,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "### <span style='color: #7200ff;'>Overview</span>",
+        "body": "- **Title**: [[Output Analysis: The Evolution of Capacity Theories of Attention]]\n- **MOC**: `=this.link-up`",
+        "line_number": 38,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 791,
+        "char_end": 968
+      },
+      {
+        "type": "abstract",
+        "title": "### 🏷️ Tag Intelligence",
+        "body": "**Tag Count**: `= length(this.tags)` | **Unique Domains**: `= length(filter(this.tags, (t) => contains(t, \"/\")))` hierarchical tags\n**Tag Density**: `= choice(length(this.tags) < 3, \"⚠️Sparse\", choice(length(this.tags) > 10, \"📚Rich\", \"✅Balanced\"))`\n> \n> ---\n\n```dataviewjs\n// TAG CO-OCCURRENCE: Find notes sharing the most tags with this note\nconst current = dv.current();\n\n// Safely get tags from current note\nlet myTags = [];\nif (current.tags) {\n    if (Array.isArray(current.tags)) {\n        myTags = current.tags;\n    } else if (typeof current.tags === 'string') {\n        myTags = [current.tags];\n    }\n}\n\nif (myTags.length > 0) {\n    const tagSiblings = dv.pages()\n        .where(p => p.file.path !== current.file.path)\n        .where(p => {\n            // Safely check if page has tags\n            if (!p.tags) return false;\n            // Convert tags to array if needed\n            let pageTags = [];\n            if (Array.isArray(p.tags)) {\n                pageTags = p.tags;\n            } else if (typeof p.tags === 'string') {\n                pageTags = [p.tags];\n            }\n            return pageTags.length > 0;\n        })\n        .map(p => {\n            // Safely convert page tags to array\n            let pageTags = [];\n            if (p.tags) {\n                if (Array.isArray(p.tags)) {\n                    pageTags = p.tags;\n                } else if (typeof p.tags === 'string') {\n                    pageTags = [p.tags];\n                }\n            }\n            \n            // Find shared tags\n            const sharedTags = pageTags.filter(t => {\n                if (typeof t === 'string') {\n                    return myTags.includes(t);\n                } else if (t && typeof t === 'object' && t.path) {\n                    // Handle tag objects\n                    return myTags.some(myTag => {\n                        if (typeof myTag === 'string') {\n                            return myTag === t.path;\n                        }\n                        return false;\n                    });\n                }\n                return false;\n            });\n            \n            return {\n                link: p.file.link,\n                sharedCount: sharedTags.length,\n                sharedTags: sharedTags,\n                totalTags: pageTags.length\n            };\n        })\n        .where(p => p.sharedCount >= 2) // At least 2 shared tags\n        .sort(p => p.sharedCount, \"desc\")\n        .limit(5);\n\n    if (tagSiblings.length > 0) {\n        dv.header(5, \"🏷️ Tag Siblings (Shared Taxonomy)\");\n        dv.table(\n            [\"Note\", \"Overlap\", \"Shared Tags\"],\n            tagSiblings.map(s => {\n                // Safely extract tag names for display\n                let displayTags = s.sharedTags.map(t => {\n                    if (typeof t === 'string') {\n                        return t;\n                    } else if (t && typeof t === 'object' && t.path) {\n                        return t.path;\n                    }\n                    return String(t);\n                });\n                \n                return [\n                    s.link,\n                    s.sharedCount + \"/\" + s.totalTags,\n                    displayTags.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n                ];\n            })\n        );\n    } else {\n        dv.paragraph(\"*No tag siblings with 2+ shared tags found.*\");\n    }\n} else {\n    dv.paragraph(\"*No tags on this note to analyze.*\");\n}\n```",
+        "line_number": 229,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 8325,
+        "char_end": 12011
+      },
+      {
+        "type": "overview",
+        "title": "Untitled",
+        "body": "**Analysis Type**: Full PKB Integration Assessment\n**Document Analyzed**: `cog-psy-theories-of-attention-202512140013.md`\n**Source Model**: Claude Sonnet 4.5\n**Analysis Date**: 2025-12-14",
+        "line_number": 343,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 12201,
+        "char_end": 12411
+      },
+      {
+        "type": "abstract",
+        "title": "Input Classification Summary",
+        "body": "| Classification Dimension | Assessment |\n|--------------------------|------------|\n| **Generating Model** | Claude Sonnet 4.5 |\n| **Output Type** | Reference Note / Report |\n| **Apparent Purpose** | Educational & Analytical |\n| **Complexity Tier** | Complex / Multi-domain |\n| **Achieves Purpose?** | ✅ Yes |\n| **Current Quality Tier** | Polished |\n| **PKB-Ready?** | With minor modifications |",
+        "line_number": 353,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 12463,
+        "char_end": 12923
+      },
+      {
+        "type": "analysis",
+        "title": "Structural Strengths",
+        "body": "<span style='color: #27FF00;'>**Excellent information hierarchy:**</span>\n- Clear progression from historical context → Filter Model → Paradigm Shift → Capacity Model → Contrast → Contemporary Integration\n- Appropriate header depth (H2 for major sections, H3 for subsections)\n- Logical flow maintains narrative coherence across 4,500+ words\n\n<span style='color: #27FF00;'>**Effective density balancing:**</span>\n- Dense conceptual sections (Kahneman's model components) interleaved with synthesizing callouts\n- Technical detail appropriately scaffolded with definitions before application\n- Reflective questions at end provide practical grounding",
+        "line_number": 387,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 14535,
+        "char_end": 15238
+      },
+      {
+        "type": "warning",
+        "title": "Structural Opportunities",
+        "body": "<span style='color: #FF00DC;'>**Minor issues identified:**</span>\n- The `> [! ] ### Claude Thinking` block (lines 337-354) is exposed raw thinking that should be removed or hidden\n- Duplicate tag block appears in document body (lines 358-360) redundant with frontmatter\n- The \"Connections and Links\" section (lines 604-620) is inside a blockquote—consider promoting to standard prose for better knowledge graph visibility",
+        "line_number": 399,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 15239,
+        "char_end": 15710
+      },
+      {
+        "type": "definition",
+        "title": "Identified Techniques",
+        "body": "",
+        "line_number": 410,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 15770,
+        "char_end": 15808
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Technique Recommendations",
+        "body": "**Missing techniques that would enhance output:**\n\n1. <span style='color: #72FFF1;'>**[[Self-Consistency]] verification**</span>: Cross-checking claims between sections (e.g., arousal-capacity relationship stated slightly differently in different locations)\n\n2. <span style='color: #72FFF1;'>**[[ReAct]] explicit reasoning**</span>: The thinking block shows reasoning, but it's better to internalize this and present conclusions only\n\n3. <span style='color: #72FFF1;'>**[[Tree-of-Thoughts]]**</span>: Could benefit from explicit consideration of alternative interpretations of the theoretical evolution (e.g., acknowledging the Multiple Resources Theory challenge more prominently earlier)",
+        "line_number": 421,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 16604,
+        "char_end": 17354
+      },
+      {
+        "type": "analysis",
+        "title": "Wiki-Link Assessment",
+        "body": "**Current Wiki-Link Count**: ~45 distinct wiki-links\n**Target Range for Reference Note**: 40-60 wiki-links ✅\n**Link Quality**: Generally high—meaningful conceptual connections\n\n<span style='color: #27FF00;'>**Well-Executed Links:**</span>\n- Core constructs: `[[Selective Attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`\n- Theorists: `[[Donald Broadbent]]` (via inline field), `[[Daniel Kahneman]]` (implied)\n- Related frameworks: `[[Working Memory]]`, `[[Cognitive Load Theory]]`, `[[Self-Determination Theory]]`\n- Neural substrates: `[[Dorsal Attention Network]]`, `[[Ventral Attention Network]]`",
+        "line_number": 435,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 17411,
+        "char_end": 18083
+      },
+      {
+        "type": "warning",
+        "title": "Missed Wiki-Link Opportunities",
+        "body": "<span style='color: #FF00DC;'>**Terms that SHOULD have been wiki-linked:**</span>\n\n| Term | Location | Rationale |\n|------|----------|-----------|\n| **Information Theory** | Line 372 | Foundational concept for filter model—separate note opportunity |\n| **Echoic Memory** | Line 396 | Specific memory system deserving atomic note |\n| **Iconic Memory** | Line 396 | Specific memory system deserving atomic note |\n| **Yerkes-Dodson Law** | Line 488 | Classic psychological principle—high knowledge graph value |\n| **Pupillometry** | Line 497 | Methodological concept with cross-domain applications |\n| **Performance Operating Characteristic (POC)** | Line 512 | Technical term with reuse potential |\n| **Anne Treisman** | Line 429 | Key theorist deserving separate note |\n| **Colin Cherry** | Line 421 | Pioneered cocktail party research |\n| **Christopher Wickens** | Line 565 | Multiple Resources Theory originator |\n| **Nilli Lavie** | Line 571 | Load Theory originator |",
+        "line_number": 447,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 18084,
+        "char_end": 19130
+      },
+      {
+        "type": "success",
+        "title": "Format Strengths",
+        "body": "<span style='color: #27FF00;'>**Excellent compliance areas:**</span>\n\n**Frontmatter (9/10)**:\n- Complete metadata schema with all required fields\n- Appropriate tags spanning domain (`cognitive-science`), status (`status/not-read`), and methodology\n- Temporal linking (`week`, `month`, `quarter`, `year`) properly configured\n- Review system fields populated (`next-review`, `review-count`, `maturity`, `confidence`)\n\n**Inline Fields (9/10)**:\n- 15+ inline fields properly formatted with `[**Field-Name**:: value]` syntax\n- Field names use appropriate Title-Case with hyphens\n- Coverage spans definitions, claims, principles appropriately\n- Dataview extraction script included at end of document\n\n**Callout Usage (9/10)**:\n- 12+ callouts deployed across document\n- Semantic appropriateness high (definitions in `[!definition]`, warnings in `[!counter-argument]`, etc.)\n- Balance maintained—callouts don't overwhelm prose\n\n**Semantic Color Coding (8/10)**:\n- Primary concepts marked with Imperial Gold (`#FFC700`)\n- Technical terms in Cyber Cyan (`#72FFF1`)\n- Verified principles in Terminal Green (`#27FF00`)\n- Warnings in Neon Magenta (`#FF00DC`)",
+        "line_number": 468,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 19185,
+        "char_end": 20412
+      },
+      {
+        "type": "warning",
+        "title": "Format Issues",
+        "body": "<span style='color: #FF00DC;'>**Critical Issues:**</span>\n\n1. **Incorrect `link-up` MOC**: Document is linked to `[[cosmology-moc]]` but content is clearly cognitive science\n   - **Fix**: Change to `[[99-archive/05-moc's/cognitive-science-moc]]` or `[[neuroscience-moc]]`\n\n2. **Exposed thinking block** (lines 337-354): Raw `> [! ] ### Claude Thinking` block visible\n   - **Fix**: Remove entirely or collapse into hidden comment\n\n3. **Duplicate tags block** (lines 358-360): Tags repeated in document body after frontmatter\n   - **Fix**: Remove duplicate tag line from body",
+        "line_number": 495,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 20413,
+        "char_end": 21037
+      },
+      {
+        "type": "success",
+        "title": "Content Strengths",
+        "body": "<span style='color: #27FF00;'>**Exceptional depth:**</span>\n- Comprehensive treatment of theoretical evolution with appropriate historical context\n- Mechanistic explanations of both Filter Model and Capacity Model components\n- Empirical evidence appropriately integrated (dichotic listening, cocktail party effect, pupillometry)\n- Contemporary perspectives (Load Theory, neuroscience) provide modern context\n- 10 authoritative references cited\n\n<span style='color: #27FF00;'>**Conceptual accuracy:**</span>\n- Broadbent's model accurately described as early selection with structural bottleneck\n- Kahneman's model correctly characterized with arousal, allocation policy, evaluation of demands\n- Theoretical contrasts (structural vs. capacity) clearly articulated\n- Limitations of both frameworks acknowledged (Multiple Resources Theory challenge)",
+        "line_number": 512,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 21093,
+        "char_end": 21997
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Depth Enhancement Opportunities",
+        "body": "<span style='color: #FF5700;'>**Areas for potential enrichment:**</span>\n\n1. **Treisman's Attenuation Model**: Mentioned but deserves more elaboration as the critical bridge between paradigms\n\n2. **Empirical evidence density**: Could include more specific experimental findings (e.g., Gray & Wedderburn's \"Dear Aunt Jane\" study challenging early selection)\n\n3. **Individual differences**: Brief mention of capacity variations but no exploration of what determines individual differences in processing capacity",
+        "line_number": 527,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 21998,
+        "char_end": 22574
+      },
+      {
+        "type": "analysis",
+        "title": "Actionability Assessment",
+        "body": "**Practical applicability**: Moderate\n**Implementation clarity**: Good in reflective sections\n**User can act immediately**: Partially\n\n<span style='color: #27FF00;'>**Strong actionability elements:**</span>\n- Three detailed reflective questions in `[!ask-yourself-this]` callout\n- Explicit connections to everyday knowledge work (resource awareness, dual-task allocation)\n- Metacognitive monitoring suggestions\n\n<span style='color: #FFC700;'>**Actionability gaps:**</span>\n- No concrete techniques for optimizing one's own arousal levels\n- No specific protocols for improving dual-task performance\n- Connections section is more conceptual than practical",
+        "line_number": 541,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 22629,
+        "char_end": 23351
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Immediate Fixes",
+        "body": "1. **Fix `link-up` MOC**:\n   ```yaml\n   link-up:\n     - \"[[99-archive/05-moc's/cognitive-science-moc]]\"\n   ```\n\n2. **Remove exposed thinking block** (lines 337-354): Delete entire `> [! ] ### Claude Thinking` section\n\n3. **Remove duplicate tags** (lines 358-360): Delete the second `tags:` block in document body\n\n4. **Add missed wiki-links**:\n   - `[[Yerkes-Dodson Law]]` at line 488\n   - `[[Anne Treisman]]` at line 421\n   - `[[Iconic Memory]]` and `[[Echoic Memory]]` at line 396\n   - `[[Information Theory]]` at line 372\n\n5. **Fix callout type** at line 337: Change `> [! ]` to valid callout type or remove",
+        "line_number": 563,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 23454,
+        "char_end": 24135
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Structural Improvements",
+        "body": "1. **Expand Treisman section**: The Attenuation Model deserves its own H3 section rather than just a counter-argument callout. This represents a critical theoretical bridge.\n\n2. **Add \"Practical Applications\" section**: After the Contemporary Perspectives section, add a dedicated section on how these theories inform:\n   - Instructional design\n   - Interface/UX design\n   - Personal productivity optimization\n\n3. **Restructure Connections section**: Move from blockquote to standard prose with explicit wiki-links to improve graph visibility:\n   ```markdown\n   ## 🔗 Integration with Cognitive Frameworks\n   \n   ### [[Working Memory]]\n   Kahneman's capacity model provided theoretical foundation…\n   ```\n\n4. **Add comparison table**: Create summary table contrasting Filter Model vs. Capacity Model across key dimensions:\n   - Selection locus\n   - Nature of limitations\n   - Role of voluntary control\n   - Predictions about practice effects",
+        "line_number": 587,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 24195,
+        "char_end": 25232
+      },
+      {
+        "type": "principle-point",
+        "title": "PKB Architecture Considerations",
+        "body": "1. **Note Type Reclassification**: Consider splitting this into:\n   - **Reference Note**: Core theoretical content (current document, trimmed)\n   - **Atomic Notes**: \n     - `[[filter-model-broadbent]]`\n     - `[[capacity-model-kahneman]]`\n     - `[[allocation-policy]]`\n     - `[[arousal-capacity-relationship]]`\n   - **Synthesis Note**: Comparing the two paradigms\n\n2. **Template Integration**: The document uses the permanent-note template's DataviewJS blocks. Consider creating a specialized `report-note-template` that:\n   - Removes interactive tag selection (already completed)\n   - Adds source verification callout\n   - Includes reference management section\n\n3. **Cross-MOC Linking**: This note should appear in multiple MOCs:\n   - `[[cognitive-science-moc]]` (primary)\n   - `[[learning-theory-moc]]` (Cognitive Load Theory connections)\n   - `[[neuroscience-moc]]` (neural network sections)",
+        "line_number": 652,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 26532,
+        "char_end": 27522
+      },
+      {
+        "type": "insight",
+        "title": "Knowledge Graph Effects",
+        "body": "<span style='color: #27FF00;'>**If improvements implemented:**</span>\n\n1. **Atomic note extraction** creates reusable building blocks for:\n   - Future notes on working memory\n   - Educational psychology content\n   - Prompt engineering discussions (arousal → LLM temperature analogy)\n\n2. **Enhanced wiki-linking** enables:\n   - Backlink discovery to this note from theorist notes\n   - Graph visualization showing attention theory clusters\n   - Dataview queries for \"all notes mentioning Kahneman\"\n\n3. **MOC correction** ensures:\n   - Proper domain clustering in graph view\n   - Accurate Dataview queries by MOC\n   - Semantic Bridge Engine finds correct siblings",
+        "line_number": 726,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 29268,
+        "char_end": 30001
+      },
+      {
+        "type": "abstract",
+        "title": "Analysis Conclusion",
+        "body": "**Overall Quality Score**: <span style='color: #27FF00;'>**8.2/10**</span>\n**Format Compliance**: <span style='color: #27FF00;'>**9/10**</span>\n**Knowledge Graph Contribution**: <span style='color: #FFC700;'>**7/10**</span>\n\n<span style='color: #FFC700;'>**Recommendation**</span>: Accept with minor revisions\n\nThis is a high-quality reference note demonstrating strong prompt engineering technique execution and excellent PKB format compliance. The content is scholarly, comprehensive, and well-structured. Primary improvements are:\n\n1. <span style='color: #FF00DC;'>**Critical**</span>: Fix incorrect MOC link (`cosmology-moc` → `cognitive-science-moc`)\n2. <span style='color: #FF00DC;'>**Critical**</span>: Remove exposed thinking block and duplicate tags\n3. <span style='color: #FFC700;'>**Recommended**</span>: Add 8-10 missed wiki-links for knowledge graph enhancement\n4. <span style='color: #9E6CD3;'>**Optional**</span>: Consider atomic note extraction for key constructs",
+        "line_number": 749,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md",
+        "char_start": 30037,
+        "char_end": 31078
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Output Analysis: The Evolution of Capacity Theories of Attention",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Output Analysis: The Evolution of Capacity Theories of Attention]]",
+        "line_number": 39,
+        "section": "Document Start",
+        "context_line": "> - **Title**: [[Output Analysis: The Evolution of Capacity Theories of Attention]]",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Chain-of-Density",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chain-of-Density]]",
+        "line_number": 376,
+        "section": "Dimensional Assessment Summary",
+        "context_line": "| Technique Signature | <span style='color: #27FF00;'>**8/10**</span> | Strong [[Chain-of-Density]] and [[Skeleton-of-Thought]] execution |",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Skeleton-of-Thought",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Skeleton-of-Thought]]",
+        "line_number": 376,
+        "section": "Dimensional Assessment Summary",
+        "context_line": "| Technique Signature | <span style='color: #27FF00;'>**8/10**</span> | Strong [[Chain-of-Density]] and [[Skeleton-of-Thought]] execution |",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Chain-of-Density",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chain-of-Density]]",
+        "line_number": 416,
+        "section": "Dimension 2: Technique Signature Analysis (8/10)",
+        "context_line": "| [[Chain-of-Density]] | <span style='color: #27FF00;'>**Strong (9/10)**</span> | Progressive layering from foundational concepts → mechanisms → empirical evidence → implications |",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Skeleton-of-Thought",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Skeleton-of-Thought]]",
+        "line_number": 417,
+        "section": "Dimension 2: Technique Signature Analysis (8/10)",
+        "context_line": "| [[Skeleton-of-Thought]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Clear outline-first structure evident in section organization |",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Constitutional AI",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constitutional AI]]",
+        "line_number": 418,
+        "section": "Dimension 2: Technique Signature Analysis (8/10)",
+        "context_line": "| [[Constitutional AI]] Principles | <span style='color: #FFC700;'>**Moderate (7/10)**</span> | Self-check thinking present but exposed in output |",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Few-Shot Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Few-Shot Learning]]",
+        "line_number": 419,
+        "section": "Dimension 2: Technique Signature Analysis (8/10)",
+        "context_line": "| [[Few-Shot Learning]] | <span style='color: #27FF00;'>**Strong (8/10)**</span> | Consistent formatting across similar elements (definitions, claims, evidence) |",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Self-Consistency",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Consistency]]",
+        "line_number": 425,
+        "section": "Dimension 2: Technique Signature Analysis (8/10)",
+        "context_line": "> 1. <span style='color: #72FFF1;'>**[[Self-Consistency]] verification**</span>: Cross-checking claims between sections (e.g., arousal-capacity relationship stated slightly differently in different locations)",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "ReAct",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[ReAct]]",
+        "line_number": 427,
+        "section": "Dimension 2: Technique Signature Analysis (8/10)",
+        "context_line": "> 2. <span style='color: #72FFF1;'>**[[ReAct]] explicit reasoning**</span>: The thinking block shows reasoning, but it's better to internalize this and present conclusions only",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Tree-of-Thoughts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tree-of-Thoughts]]",
+        "line_number": 429,
+        "section": "Dimension 2: Technique Signature Analysis (8/10)",
+        "context_line": "> 3. <span style='color: #72FFF1;'>**[[Tree-of-Thoughts]]**</span>: Could benefit from explicit consideration of alternative interpretations of the theoretical evolution (e.g., acknowledging the Multiple Resources Theory challenge more prominently earlier)",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Selective Attention",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Selective Attention]]",
+        "line_number": 442,
+        "section": "Dimension 3: Knowledge Graph Potential (7/10)",
+        "context_line": "> - Core constructs: `[[Selective Attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Allocation Policy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Allocation Policy]]",
+        "line_number": 442,
+        "section": "Dimension 3: Knowledge Graph Potential (7/10)",
+        "context_line": "> - Core constructs: `[[Selective Attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Dual-Task Performance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Task Performance]]",
+        "line_number": 442,
+        "section": "Dimension 3: Knowledge Graph Potential (7/10)",
+        "context_line": "> - Core constructs: `[[Selective Attention]]`, `[[Allocation Policy]]`, `[[Dual-Task Performance]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Donald Broadbent",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Donald Broadbent]]",
+        "line_number": 443,
+        "section": "Dimension 3: Knowledge Graph Potential (7/10)",
+        "context_line": "> - Theorists: `[[Donald Broadbent]]` (via inline field), `[[Daniel Kahneman]]` (implied)",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Daniel Kahneman",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daniel Kahneman]]",
+        "line_number": 443,
+        "section": "Dimension 3: Knowledge Graph Potential (7/10)",
+        "context_line": "> - Theorists: `[[Donald Broadbent]]` (via inline field), `[[Daniel Kahneman]]` (implied)",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Working Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working Memory]]",
+        "line_number": 444,
+        "section": "Dimension 3: Knowledge Graph Potential (7/10)",
+        "context_line": "> - Related frameworks: `[[Working Memory]]`, `[[Cognitive Load Theory]]`, `[[Self-Determination Theory]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 444,
+        "section": "Dimension 3: Knowledge Graph Potential (7/10)",
+        "context_line": "> - Related frameworks: `[[Working Memory]]`, `[[Cognitive Load Theory]]`, `[[Self-Determination Theory]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 444,
+        "section": "Dimension 3: Knowledge Graph Potential (7/10)",
+        "context_line": "> - Related frameworks: `[[Working Memory]]`, `[[Cognitive Load Theory]]`, `[[Self-Determination Theory]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Dorsal Attention Network",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dorsal Attention Network]]",
+        "line_number": 445,
+        "section": "Dimension 3: Knowledge Graph Potential (7/10)",
+        "context_line": "> - Neural substrates: `[[Dorsal Attention Network]]`, `[[Ventral Attention Network]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Ventral Attention Network",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ventral Attention Network]]",
+        "line_number": 445,
+        "section": "Dimension 3: Knowledge Graph Potential (7/10)",
+        "context_line": "> - Neural substrates: `[[Dorsal Attention Network]]`, `[[Ventral Attention Network]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "cosmology-moc",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[cosmology-moc]]",
+        "line_number": 499,
+        "section": "Dimension 4: Format & PKB Compliance (9/10)",
+        "context_line": "> 1. **Incorrect `link-up` MOC**: Document is linked to `[[cosmology-moc]]` but content is clearly cognitive science",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "99-archive/05-moc's/cognitive-science-moc",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[99-archive/05-moc's/cognitive-science-moc]]",
+        "line_number": 500,
+        "section": "Dimension 4: Format & PKB Compliance (9/10)",
+        "context_line": ">    - **Fix**: Change to `[[99-archive/05-moc's/cognitive-science-moc]]` or `[[neuroscience-moc]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "neuroscience-moc",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[neuroscience-moc]]",
+        "line_number": 500,
+        "section": "Dimension 4: Format & PKB Compliance (9/10)",
+        "context_line": ">    - **Fix**: Change to `[[99-archive/05-moc's/cognitive-science-moc]]` or `[[neuroscience-moc]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "99-archive/05-moc's/cognitive-science-moc",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[99-archive/05-moc's/cognitive-science-moc]]",
+        "line_number": 568,
+        "section": "🟢 Tier 1: Quick Wins (< 5 minutes)",
+        "context_line": ">      - \"[[99-archive/05-moc's/cognitive-science-moc]]\"",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Yerkes-Dodson Law",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Yerkes-Dodson Law]]",
+        "line_number": 576,
+        "section": "🟢 Tier 1: Quick Wins (< 5 minutes)",
+        "context_line": ">    - `[[Yerkes-Dodson Law]]` at line 488",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Anne Treisman",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Anne Treisman]]",
+        "line_number": 577,
+        "section": "🟢 Tier 1: Quick Wins (< 5 minutes)",
+        "context_line": ">    - `[[Anne Treisman]]` at line 421",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Iconic Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Iconic Memory]]",
+        "line_number": 578,
+        "section": "🟢 Tier 1: Quick Wins (< 5 minutes)",
+        "context_line": ">    - `[[Iconic Memory]]` and `[[Echoic Memory]]` at line 396",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Echoic Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Echoic Memory]]",
+        "line_number": 578,
+        "section": "🟢 Tier 1: Quick Wins (< 5 minutes)",
+        "context_line": ">    - `[[Iconic Memory]]` and `[[Echoic Memory]]` at line 396",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Information Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Information Theory]]",
+        "line_number": 579,
+        "section": "🟢 Tier 1: Quick Wins (< 5 minutes)",
+        "context_line": ">    - `[[Information Theory]]` at line 372",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Working Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working Memory]]",
+        "line_number": 600,
+        "section": "🔵 Tier 2: Structural Enhancements (5-30 minutes)",
+        "context_line": ">    ### [[Working Memory]]",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Self-Consistency",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Consistency]]",
+        "line_number": 618,
+        "section": "Prompt Engineering Recommendations",
+        "context_line": "1. **Add [[Self-Consistency]] check**:",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Tree-of-Thoughts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tree-of-Thoughts]]",
+        "line_number": 628,
+        "section": "Prompt Engineering Recommendations",
+        "context_line": "2. **Implement [[Tree-of-Thoughts]] for theoretical coverage**:",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "filter-model-broadbent",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[filter-model-broadbent]]",
+        "line_number": 657,
+        "section": "🟠 Tier 4: Architectural Recommendations (System-level)",
+        "context_line": ">      - `[[filter-model-broadbent]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "capacity-model-kahneman",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[capacity-model-kahneman]]",
+        "line_number": 658,
+        "section": "🟠 Tier 4: Architectural Recommendations (System-level)",
+        "context_line": ">      - `[[capacity-model-kahneman]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "allocation-policy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[allocation-policy]]",
+        "line_number": 659,
+        "section": "🟠 Tier 4: Architectural Recommendations (System-level)",
+        "context_line": ">      - `[[allocation-policy]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "arousal-capacity-relationship",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[arousal-capacity-relationship]]",
+        "line_number": 660,
+        "section": "🟠 Tier 4: Architectural Recommendations (System-level)",
+        "context_line": ">      - `[[arousal-capacity-relationship]]`",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "cognitive-science-moc",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[cognitive-science-moc]]",
+        "line_number": 669,
+        "section": "🟠 Tier 4: Architectural Recommendations (System-level)",
+        "context_line": ">    - `[[cognitive-science-moc]]` (primary)",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "learning-theory-moc",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[learning-theory-moc]]",
+        "line_number": 670,
+        "section": "🟠 Tier 4: Architectural Recommendations (System-level)",
+        "context_line": ">    - `[[learning-theory-moc]]` (Cognitive Load Theory connections)",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "neuroscience-moc",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[neuroscience-moc]]",
+        "line_number": 671,
+        "section": "🟠 Tier 4: Architectural Recommendations (System-level)",
+        "context_line": ">    - `[[neuroscience-moc]]` (neural network sections)",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Filter Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Filter Model]]",
+        "line_number": 701,
+        "section": "Mandatory Wiki-Link Targets",
+        "context_line": "- Named theories (e.g., [[Filter Model]], [[Capacity Model]])",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Capacity Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Capacity Model]]",
+        "line_number": 701,
+        "section": "Mandatory Wiki-Link Targets",
+        "context_line": "- Named theories (e.g., [[Filter Model]], [[Capacity Model]])",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Donald Broadbent",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Donald Broadbent]]",
+        "line_number": 702,
+        "section": "Mandatory Wiki-Link Targets",
+        "context_line": "- Named researchers (e.g., [[Donald Broadbent]], [[Daniel Kahneman]])",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Daniel Kahneman",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daniel Kahneman]]",
+        "line_number": 702,
+        "section": "Mandatory Wiki-Link Targets",
+        "context_line": "- Named researchers (e.g., [[Donald Broadbent]], [[Daniel Kahneman]])",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Yerkes-Dodson Law",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Yerkes-Dodson Law]]",
+        "line_number": 703,
+        "section": "Mandatory Wiki-Link Targets",
+        "context_line": "- Named laws/principles (e.g., [[Yerkes-Dodson Law]])",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Dichotic Listening Task",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dichotic Listening Task]]",
+        "line_number": 704,
+        "section": "Mandatory Wiki-Link Targets",
+        "context_line": "- Named experimental paradigms (e.g., [[Dichotic Listening Task]])",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Iconic Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Iconic Memory]]",
+        "line_number": 705,
+        "section": "Mandatory Wiki-Link Targets",
+        "context_line": "- Memory systems (e.g., [[Iconic Memory]], [[Echoic Memory]])",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Echoic Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Echoic Memory]]",
+        "line_number": 705,
+        "section": "Mandatory Wiki-Link Targets",
+        "context_line": "- Memory systems (e.g., [[Iconic Memory]], [[Echoic Memory]])",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "cognitive-science-moc",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[cognitive-science-moc]]",
+        "line_number": 718,
+        "section": "Affected PKB Components",
+        "context_line": "| `[[cognitive-science-moc]]` | High | Add this note as key reference |",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "learning-theory-moc",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[learning-theory-moc]]",
+        "line_number": 719,
+        "section": "Affected PKB Components",
+        "context_line": "| `[[learning-theory-moc]]` | Medium | Cross-reference via Cognitive Load Theory |",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "attention",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[attention]]",
+        "line_number": 720,
+        "section": "Affected PKB Components",
+        "context_line": "| `[[attention]]` tag family | High | Verify tag hierarchy consistency |",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Treisman Attenuation Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Treisman Attenuation Model]]",
+        "line_number": 768,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Treisman Attenuation Model]]**",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Multiple Resources Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Multiple Resources Theory]]",
+        "line_number": 773,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Multiple Resources Theory]]**",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Load Theory of Attention",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Load Theory of Attention]]",
+        "line_number": 778,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Load Theory of Attention]]**",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "target": "Pupillometry as Cognitive Measure",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pupillometry as Cognitive Measure]]",
+        "line_number": 783,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Pupillometry as Cognitive Measure]]**",
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Field-Name",
+        "value": "value",
+        "format": "bracket",
+        "line_number": 479,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 76,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 109,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 115,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 143,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 161,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 172,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 209,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 262,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 266,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 268,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FF5700",
+        "full_tag": "#FF5700",
+        "hierarchy": [
+          "FF5700"
+        ],
+        "line_number": 310,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 347,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 381,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 408,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 433,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 437,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 442,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 444,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 445,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 5,
+        "text": "Output Analysis: The Evolution of Capacity Theories of Attention",
+        "anchor": "output-analysis-the-evolution-of-capacity-theories-of-attention",
+        "line_number": 334,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 1,
+        "text": "📊 Output Analysis: The Evolution of Capacity Theories of Attention",
+        "anchor": "output-analysis-the-evolution-of-capacity-theories-of-attention",
+        "line_number": 341,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 1: Input Reception & Classification",
+        "anchor": "phase-1-input-reception-classification",
+        "line_number": 351,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 2: Multi-Dimensional Assessment",
+        "anchor": "phase-2-multi-dimensional-assessment",
+        "line_number": 369,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "Dimensional Assessment Summary",
+        "anchor": "dimensional-assessment-summary",
+        "line_number": 371,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "Dimension 1: Structural Architecture (8/10)",
+        "anchor": "dimension-1-structural-architecture-810",
+        "line_number": 385,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "Dimension 2: Technique Signature Analysis (8/10)",
+        "anchor": "dimension-2-technique-signature-analysis-810",
+        "line_number": 408,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "Dimension 3: Knowledge Graph Potential (7/10)",
+        "anchor": "dimension-3-knowledge-graph-potential-710",
+        "line_number": 433,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "Dimension 4: Format & PKB Compliance (9/10)",
+        "anchor": "dimension-4-format-pkb-compliance-910",
+        "line_number": 466,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "Dimension 5: Content Depth & Accuracy (9/10)",
+        "anchor": "dimension-5-content-depth-accuracy-910",
+        "line_number": 510,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "Dimension 6: Actionability & Utility (7/10)",
+        "anchor": "dimension-6-actionability-utility-710",
+        "line_number": 539,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 3: Improvement Identification & Categorization",
+        "anchor": "phase-3-improvement-identification-categorization",
+        "line_number": 559,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "🟢 Tier 1: Quick Wins (< 5 minutes)",
+        "anchor": "tier-1-quick-wins-5-minutes",
+        "line_number": 561,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "🔵 Tier 2: Structural Enhancements (5-30 minutes)",
+        "anchor": "tier-2-structural-enhancements-5-30-minutes",
+        "line_number": 585,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "🟣 Tier 3: Technique Integrations (30+ minutes)",
+        "anchor": "tier-3-technique-integrations-30-minutes",
+        "line_number": 612,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 4,
+        "text": "Prompt Engineering Recommendations",
+        "anchor": "prompt-engineering-recommendations",
+        "line_number": 614,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "🟠 Tier 4: Architectural Recommendations (System-level)",
+        "anchor": "tier-4-architectural-recommendations-system-level",
+        "line_number": 650,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "🔴 Tier 5: Source Prompt Engineering",
+        "anchor": "tier-5-source-prompt-engineering",
+        "line_number": 675,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 2,
+        "text": "Pre-Output Cleanup Requirements",
+        "anchor": "pre-output-cleanup-requirements",
+        "line_number": 683,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 2,
+        "text": "Mandatory Wiki-Link Targets",
+        "anchor": "mandatory-wiki-link-targets",
+        "line_number": 698,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 4: Integration Opportunity Mapping",
+        "anchor": "phase-4-integration-opportunity-mapping",
+        "line_number": 712,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "Affected PKB Components",
+        "anchor": "affected-pkb-components",
+        "line_number": 714,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "Cascading Benefits",
+        "anchor": "cascading-benefits",
+        "line_number": 724,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 2,
+        "text": "Summary & Recommendations",
+        "anchor": "summary-recommendations",
+        "line_number": 747,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 766,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "level": 3,
+        "text": "📖 Extracted Definitions",
+        "anchor": "extracted-definitions",
+        "line_number": 792,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "// SYSTEM: Enhanced Semantic Bridge Engine v2.0\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts) with advanced analytics\n\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks?.map(l => l.path) || [];\n\n// Performance optimization: Create Set for faster lookups\nconst myOutlinkSet = new Set(myOutlinks);\nconst currentPath = current.file.path;\n\n// Advanced sibling analysis with metadata\nlet siblings = [];\n\ntry {\n  siblings = dv.pages()\n    .where(p => {\n      // Safety checks\n      if (!p.file?.path || p.file.path === currentPath) return false;\n      // Exclude already linked notes\n      if (current.file.outlinks?.some(l => l.path === p.file.path)) return false;\n      return true;\n    })\n    .map(p => {\n      try {\n        // Calculate shared connections\n        const shared = p.file.outlinks?.filter(l => myOutlinkSet.has(l.path)) || [];\n        const sharedCount = shared.length;\n        \n        // Calculate similarity score (0-100%)\n        const totalConnections = myOutlinks.length + (p.file.outlinks?.length || 0);\n        const similarityScore = totalConnections > 0 ? Math.round((sharedCount * 2 / totalConnections) * 100) : 0;\n        \n        return { \n          link: p.file.link, \n          sharedCount, \n          sharedLinks: shared,\n          similarityScore,\n          maturity: p.maturity || \"unset\",\n          type: p.type || \"unknown\",\n          lastModified: p.file.mtime\n        };\n      } catch (e) {\n        console.warn(\"Error processing page:\", p.file?.path, e);\n        return null;\n      }\n    })\n    .where(p => p && p.sharedCount > 0)\n    .sort(p => p.similarityScore, \"desc\")\n    .limit(8);\n    \n  // Ensure siblings is an array\n  if (!Array.isArray(siblings)) {\n    siblings = [];\n  }\n} catch (e) {\n  console.error(\"Error building siblings:\", e);\n  siblings = [];\n}\n\n// Render enhanced semantic bridges\nif (siblings.length > 0) {\n  dv.header(3, \"🔗 Semantic Bridges (Missing Connections)\");\n  \n  // Add summary statistics with error handling\n  try {\n    const totalSharedConnections = siblings.reduce((sum, s) => sum + (s.sharedCount || 0), 0);\n    const avgSimilarity = siblings.length > 0 ? \n      Math.round(siblings.reduce((sum, s) => sum + (s.similarityScore || 0), 0) / siblings.length) : 0;\n    \n    dv.paragraph(`**Found ${siblings.length} semantic siblings** • Total shared: ${totalSharedConnections} connections • Avg. similarity: ${avgSimilarity}%`);\n  } catch (e) {\n    console.warn(\"Error calculating sibling statistics:\", e);\n    dv.paragraph(`**Found ${siblings.length} semantic siblings**`);\n  }\n  \n  dv.table(\n    [\"Note\", \"Similarity\", \"Strength\", \"Maturity\", \"Type\", \"Shared Context\"], \n    siblings.map(s => [\n      s.link, \n      `📊${s.similarityScore || 0}%`,\n      \"🔗\" + (s.sharedCount || 0), \n      s.maturity === \"evergreen\" ? \"🌳\" + s.maturity : \n      s.maturity === \"budding\" ? \"🌿\" + s.maturity :\n      s.maturity === \"developing\" ? \"🌱\" + s.maturity :\n      s.maturity === \"seedling\" ? \"大豆\" + s.maturity : \"❓unset\",\n      s.type || \"unknown\",\n      s.sharedLinks?.slice(0, 2).map(l => l.displayName || l.path).join(\", \") + ((s.sharedLinks?.length || 0) > 2 ? \"…\" : \"\") || \"\"\n    ])\n  );\n} else {\n  dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}\n\n// DOMAIN COVERAGE: Advanced domain analysis\nconst myTags = current.tags || [];\nconst primaryDomain = myTags.find(t => typeof t === \"string\" && t.includes(\"/\"))?.split(\"/\")[0] \n                   || myTags.find(t => typeof t === \"string\");\n\nif (primaryDomain) {\n  let domainNotes = [];\n  try {\n    domainNotes = dv.pages()\n      .where(p => \n        p.tags && \n        Array.isArray(p.tags) && \n        p.tags.some(t => \n          typeof t === \"string\" && \n          (t.startsWith(primaryDomain) || t === primaryDomain)\n        )\n      );\n  } catch (e) {\n    console.warn(\"Error filtering domain notes:\", e);\n    domainNotes = [];\n  }\n   \n  const maturityDistribution = {\n    evergreen: domainNotes.filter(p => p.maturity === \"evergreen\").length,\n    budding: domainNotes.filter(p => p.maturity === \"budding\").length,\n    developing: domainNotes.filter(p => p.maturity === \"developing\").length,\n    seedling: domainNotes.filter(p => p.maturity === \"seedling\").length,\n    unset: domainNotes.filter(p => !p.maturity).length\n  };\n\n  // Advanced domain health metrics\n  const totalNotes = domainNotes.length;\n  const matureNotes = maturityDistribution.evergreen + maturityDistribution.budding;\n  const coverage = totalNotes > 0 ? Math.round((matureNotes / totalNotes) * 100) : 0;\n  \n  // Domain activity score (based on recent modifications)\n  const recentNotes = domainNotes.filter(p => {\n    try {\n      const daysOld = (new Date() - new Date(p.file.mtime)) / (1000 * 60 * 60 * 24);\n      return daysOld < 30;\n    } catch (e) {\n      return false;\n    }\n  }).length;\n  const activityScore = totalNotes > 0 ? Math.round((recentNotes / totalNotes) * 100) : 0;\n\n  dv.header(3, `📂 Domain Analysis: ${primaryDomain}`);\n  dv.paragraph(`**Total notes**: ${totalNotes} | **Recent activity**: ${activityScore}% (30d)`);\n  dv.paragraph(`**Maturity breakdown**: 🌳${maturityDistribution.evergreen} | 🌿${maturityDistribution.budding} | 🌱${maturityDistribution.developing} | 🌰${maturityDistribution.seedling} | ❓${maturityDistribution.unset}`);\n  dv.paragraph(`**Domain health**: ${coverage}% mature (evergreen + budding)`);\n  \n  // Domain health indicator\n  const healthIndicator = coverage >= 80 ? \"🟢 Excellent\" : \n                         coverage >= 60 ? \"🟡 Good\" : \n                         coverage >= 40 ? \"🟠 Fair\" : \"🔴 Poor\";\n  dv.paragraph(`**Health status**: ${healthIndicator}`);\n}\n\n// NETWORK INTELLIGENCE: Advanced connectivity analysis\nconst inlinks = current.file.inlinks || [];\nconst outlinks = current.file.outlinks || [];\n\ndv.header(3, \"🕸️ Network Intelligence\");\nconst networkMetrics = [\n  [\"**Metric**\", \"**Value**\", \"**Insight**\"],\n  [\"In-links\", inlinks.length, inlinks.length > 10 ? \"⚡ Hub\" : inlinks.length > 0 ? \"🌱 Node\" : \"🕸️ Orphan\"],\n  [\"Out-links\", outlinks.length, outlinks.length > 15 ? \"🗺️ Explorer\" : outlinks.length > 5 ? \"🧭 Navigator\" : \"🎯 Focused\"],\n  [\"Link Ratio\", outlinks.length > 0 ? (inlinks.length / outlinks.length).toFixed(1) : \"∞\", \n   outlinks.length > 0 && inlinks.length / outlinks.length > 2 ? \"📈 High authority\" : \"📊 Balanced\"]\n];\n\ndv.table(networkMetrics[0], networkMetrics.slice(1));\n\n// TEMPORAL ANALYSIS: Content aging and review patterns\ndv.header(3, \"⏰ Temporal Intelligence\");\ntry {\n  const created = current.file.ctime;\n  const modified = current.file.mtime;\n  const ageDays = Math.floor((new Date() - new Date(created)) / (1000 * 60 * 60 * 24));\n  const stalenessDays = Math.floor((new Date() - new Date(modified)) / (1000 * 60 * 60 * 24));\n\n  const reviewInsights = [];\n  if (current[\"review-count\"] > 5) reviewInsights.push(\"🔁 Well-reviewed\");\n  if (stalenessDays > 180) reviewInsights.push(\"⏰ Needs refresh\");\n  if (ageDays < 30) reviewInsights.push(\"🆕 New content\");\n\n  dv.paragraph(`**Age**: ${ageDays} days | **Staleness**: ${stalenessDays} days`);\n  dv.paragraph(`**Review status**: ${current[\"review-count\"] || 0} reviews | ${reviewInsights.join(\" • \") || \"📝 Standard\"}`);\n} catch (e) {\n  console.warn(\"Error in temporal analysis:\", e);\n  dv.paragraph(\"*Temporal analysis unavailable*\");\n}",
+        "line_start": 42,
+        "line_end": 228,
+        "char_count": 7337,
+        "line_count": 185,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "> // TAG CO-OCCURRENCE: Find notes sharing the most tags with this note\n> const current = dv.current();\n> \n> // Safely get tags from current note\n> let myTags = [];\n> if (current.tags) {\n>     if (Array.isArray(current.tags)) {\n>         myTags = current.tags;\n>     } else if (typeof current.tags === 'string') {\n>         myTags = [current.tags];\n>     }\n> }\n> \n> if (myTags.length > 0) {\n>     const tagSiblings = dv.pages()\n>         .where(p => p.file.path !== current.file.path)\n>         .where(p => {\n>             // Safely check if page has tags\n>             if (!p.tags) return false;\n>             // Convert tags to array if needed\n>             let pageTags = [];\n>             if (Array.isArray(p.tags)) {\n>                 pageTags = p.tags;\n>             } else if (typeof p.tags === 'string') {\n>                 pageTags = [p.tags];\n>             }\n>             return pageTags.length > 0;\n>         })\n>         .map(p => {\n>             // Safely convert page tags to array\n>             let pageTags = [];\n>             if (p.tags) {\n>                 if (Array.isArray(p.tags)) {\n>                     pageTags = p.tags;\n>                 } else if (typeof p.tags === 'string') {\n>                     pageTags = [p.tags];\n>                 }\n>             }\n>             \n>             // Find shared tags\n>             const sharedTags = pageTags.filter(t => {\n>                 if (typeof t === 'string') {\n>                     return myTags.includes(t);\n>                 } else if (t && typeof t === 'object' && t.path) {\n>                     // Handle tag objects\n>                     return myTags.some(myTag => {\n>                         if (typeof myTag === 'string') {\n>                             return myTag === t.path;\n>                         }\n>                         return false;\n>                     });\n>                 }\n>                 return false;\n>             });\n>             \n>             return {\n>                 link: p.file.link,\n>                 sharedCount: sharedTags.length,\n>                 sharedTags: sharedTags,\n>                 totalTags: pageTags.length\n>             };\n>         })\n>         .where(p => p.sharedCount >= 2) // At least 2 shared tags\n>         .sort(p => p.sharedCount, \"desc\")\n>         .limit(5);\n> \n>     if (tagSiblings.length > 0) {\n>         dv.header(5, \"🏷️ Tag Siblings (Shared Taxonomy)\");\n>         dv.table(\n>             [\"Note\", \"Overlap\", \"Shared Tags\"],\n>             tagSiblings.map(s => {\n>                 // Safely extract tag names for display\n>                 let displayTags = s.sharedTags.map(t => {\n>                     if (typeof t === 'string') {\n>                         return t;\n>                     } else if (t && typeof t === 'object' && t.path) {\n>                         return t.path;\n>                     }\n>                     return String(t);\n>                 });\n>                 \n>                 return [\n>                     s.link,\n>                     s.sharedCount + \"/\" + s.totalTags,\n>                     displayTags.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n>                 ];\n>             })\n>         );\n>     } else {\n>         dv.paragraph(\"*No tag siblings with 2+ shared tags found.*\");\n>     }\n> } else {\n>     dv.paragraph(\"*No tags on this note to analyze.*\");\n> }\n>",
+        "line_start": 235,
+        "line_end": 330,
+        "char_count": 3358,
+        "line_count": 95,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "language": "yaml",
+        "code": ">    link-up:\n>      - \"[[99-archive/05-moc's/cognitive-science-moc]]\"\n>",
+        "line_start": 566,
+        "line_end": 569,
+        "char_count": 72,
+        "line_count": 3,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">    ## 🔗 Integration with Cognitive Frameworks\n>    \n>    ### [[Working Memory]]\n>    Kahneman's capacity model provided theoretical foundation…\n>",
+        "line_start": 597,
+        "line_end": 602,
+        "char_count": 147,
+        "line_count": 5,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "language": "xml",
+        "code": "<quality_gate>\n   Before finalizing, verify:\n   - Arousal-capacity relationship described consistently across all mentions\n   - All theorists mentioned are properly attributed\n   - Claims about empirical evidence are specific and verifiable\n   </quality_gate>",
+        "line_start": 619,
+        "line_end": 626,
+        "char_count": 259,
+        "line_count": 6,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "language": "xml",
+        "code": "<coverage_check>\n   For this theoretical evolution topic, ensure coverage of:\n   - Branch A: Early Selection (Broadbent → Treisman modifications)\n   - Branch B: Late Selection (Deutsch & Deutsch → implications)\n   - Branch C: Capacity Models (Kahneman → Multiple Resources)\n   - Branch D: Modern Integration (Load Theory → Neural Networks)\n   </coverage_check>",
+        "line_start": 629,
+        "line_end": 637,
+        "char_count": 360,
+        "line_count": 7,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "language": "xml",
+        "code": "<output_constraints>\n   - Do NOT expose reasoning/thinking blocks in final output\n   - Remove all meta-commentary about search decisions\n   - Present conclusions only, not deliberation process\n   </output_constraints>",
+        "line_start": 640,
+        "line_end": 646,
+        "char_count": 217,
+        "line_count": 5,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "language": "xml",
+        "code": "<output_hygiene>\n## Pre-Output Cleanup Requirements\n\nBefore delivering final output, automatically remove:\n1. All `<thinking>` or reasoning blocks\n2. Any meta-commentary about search decisions or research process\n3. Duplicate metadata that appears in both frontmatter and body\n4. Empty or malformed callouts (e.g., `> [! ]`)\n\nVerify:\n1. `link-up` MOC matches content domain\n2. All H2+ sections have at least one wiki-link\n3. Reflective questions connect to practical application\n</output_hygiene>\n\n<wiki_link_requirements>\n## Mandatory Wiki-Link Targets\n\nFor cognitive science content, ALWAYS wiki-link:\n- Named theories (e.g., [[Filter Model]], [[Capacity Model]])\n- Named researchers (e.g., [[Donald Broadbent]], [[Daniel Kahneman]])\n- Named laws/principles (e.g., [[Yerkes-Dodson Law]])\n- Named experimental paradigms (e.g., [[Dichotic Listening Task]])\n- Memory systems (e.g., [[Iconic Memory]], [[Echoic Memory]])\n- Related frameworks mentioned in connections section\n</wiki_link_requirements>",
+        "line_start": 681,
+        "line_end": 708,
+        "char_count": 998,
+        "line_count": 26,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "const currentFile = dv.current().file;\nconst content = await dv.io.load(currentFile.path);\nconst bracketedFieldRegex = /\\[\\*\\*([^*]+)\\*\\*::\\s*([^\\]]+)\\]/g;\n\nlet definitions = [];\nlet match;\n\nwhile ((match = bracketedFieldRegex.exec(content)) !== null) {\n    definitions.push({\n        key: match[1].trim(),\n        value: match[2].trim()\n    });\n}\n\n// Group by first letter\nconst grouped = {};\ndefinitions.forEach(d => {\n    const firstLetter = d.key[0].toUpperCase();\n    if (!grouped[firstLetter]) grouped[firstLetter] = [];\n    grouped[firstLetter].push(d);\n});\n\n// Display grouped results\nconst sortedLetters = Object.keys(grouped).sort();\n\nfor (let letter of sortedLetters) {\n    dv.header(4, `${letter}`);\n    dv.table(\n        [\"Term\", \"Definition\"],\n        grouped[letter].map(d => [`**${d.key}**`, d.value])\n    );\n}",
+        "line_start": 793,
+        "line_end": 826,
+        "char_count": 826,
+        "line_count": 32,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Dimension",
+          "Score",
+          "Key Observation"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Structural Architecture",
+            "<span style='color: #27FF00;'>**8/10**</span>",
+            "Excellent hierarchical organization with clear section progression"
+          ],
+          [
+            "Technique Signature",
+            "<span style='color: #27FF00;'>**8/10**</span>",
+            "Strong [[Chain-of-Density]] and [[Skeleton-of-Thought]] execution"
+          ],
+          [
+            "Knowledge Graph Potential",
+            "<span style='color: #FFC700;'>**7/10**</span>",
+            "Good wiki-link coverage; some missed opportunities"
+          ],
+          [
+            "Format & PKB Compliance",
+            "<span style='color: #27FF00;'>**9/10**</span>",
+            "Excellent template adherence; inline fields properly deployed"
+          ],
+          [
+            "Content Depth",
+            "<span style='color: #27FF00;'>**9/10**</span>",
+            "Comprehensive, authoritative treatment with strong sourcing"
+          ],
+          [
+            "Actionability",
+            "<span style='color: #FFC700;'>**7/10**</span>",
+            "Strong theoretical grounding; reflective questions add application"
+          ],
+          [
+            "**Composite**",
+            "<span style='color: #27FF00;'>**8.2/10**</span>",
+            "High-quality reference note with minor optimization opportunities"
+          ]
+        ],
+        "line_start": 106,
+        "row_count": 7,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "headers": [
+          "Technique",
+          "Execution Quality",
+          "Evidence"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "[[Chain-of-Density]]",
+            "<span style='color: #27FF00;'>**Strong (9/10)**</span>",
+            "Progressive layering from foundational concepts → mechanisms → empirical evidence → implications"
+          ],
+          [
+            "[[Skeleton-of-Thought]]",
+            "<span style='color: #27FF00;'>**Strong (8/10)**</span>",
+            "Clear outline-first structure evident in section organization"
+          ],
+          [
+            "[[Constitutional AI]] Principles",
+            "<span style='color: #FFC700;'>**Moderate (7/10)**</span>",
+            "Self-check thinking present but exposed in output"
+          ],
+          [
+            "[[Few-Shot Learning]]",
+            "<span style='color: #27FF00;'>**Strong (8/10)**</span>",
+            "Consistent formatting across similar elements (definitions, claims, evidence)"
+          ]
+        ],
+        "line_start": 168,
+        "row_count": 4,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "headers": [
+          "Component",
+          "Impact",
+          "Action Required"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "`[[cognitive-science-moc]]`",
+            "High",
+            "Add this note as key reference"
+          ],
+          [
+            "`[[learning-theory-moc]]`",
+            "Medium",
+            "Cross-reference via Cognitive Load Theory"
+          ],
+          [
+            "`[[attention]]` tag family",
+            "High",
+            "Verify tag hierarchy consistency"
+          ],
+          [
+            "Permanent note template",
+            "Low",
+            "No template changes needed"
+          ],
+          [
+            "DataviewJS extraction",
+            "None",
+            "Inline fields already compatible"
+          ]
+        ],
+        "line_start": 417,
+        "row_count": 5,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "Field-Name",
+        "definition": "value",
+        "line_number": 479,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      }
+    ],
+    "mermaid_diagrams": [],
+    "footnotes": [
+      {
+        "ref_id": "*",
+        "content": null,
+        "type": "reference",
+        "line_number": 796,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "ref_id": "\\",
+        "content": null,
+        "type": "reference",
+        "line_number": 796,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      }
+    ],
+    "color_spans": [
+      {
+        "color_hex": "#7200FF",
+        "text": "Overview",
+        "semantic_role": "Custom (#7200FF)",
+        "line_number": 38,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Document Overview**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 365,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Broadbent's Filter Model (1958)",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 365,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Kahneman's Capacity Model (1973)",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 365,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**8/10**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 375,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**8/10**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 376,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**7/10**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 377,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**9/10**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 378,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**9/10**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 379,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**7/10**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 380,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**8.2/10**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 381,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Excellent information hierarchy:**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 389,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Effective density balancing:**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 394,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Minor issues identified:**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 401,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Techniques Detected:**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 412,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Strong (9/10)**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 416,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Strong (8/10)**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 417,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Moderate (7/10)**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 418,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Strong (8/10)**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 419,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "**[[Self-Consistency]] verification**",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 425,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "**[[ReAct]] explicit reasoning**",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 427,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "**[[Tree-of-Thoughts]]**",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 429,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Well-Executed Links:**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 441,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Terms that SHOULD have been wiki-linked:**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 449,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Excellent compliance areas:**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 470,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Critical Issues:**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 497,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Exceptional depth:**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 514,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Conceptual accuracy:**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 521,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FF5700",
+        "text": "**Areas for potential enrichment:**",
+        "semantic_role": "Reference (Reactor Orange) — Citations, external sources",
+        "line_number": 529,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Strong actionability elements:**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 547,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Actionability gaps:**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 552,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**For future generations of similar content:**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 616,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**For the prompt that generated this output, consider adding:**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 679,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**If improvements implemented:**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 728,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**8.2/10**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 751,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**9/10**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 752,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**7/10**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 753,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Recommendation**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 755,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Critical**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 759,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Critical**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 760,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Recommended**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 761,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "color_hex": "#9E6CD3",
+        "text": "**Optional**",
+        "semantic_role": "Technical (Deep Amethyst) — Technical terms, syntax",
+        "line_number": 762,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      }
+    ],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Add [[Self-Consistency]] check**:",
+          "indent_level": 0,
+          "line_number": 390,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+        },
+        {
+          "text": "**Implement [[Tree-of-Thoughts]] for theoretical coverage**:",
+          "indent_level": 6,
+          "line_number": 390,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+        },
+        {
+          "text": "**Add explicit `<thinking>` suppression**:",
+          "indent_level": 6,
+          "line_number": 391,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+        },
+        {
+          "text": "**[[Treisman Attenuation Model]]**",
+          "indent_level": 0,
+          "line_number": 456,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+        },
+        {
+          "text": "**[[Multiple Resources Theory]]**",
+          "indent_level": 0,
+          "line_number": 460,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+        },
+        {
+          "text": "**[[Load Theory of Attention]]**",
+          "indent_level": 0,
+          "line_number": 473,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+        },
+        {
+          "text": "**[[Pupillometry as Cognitive Measure]]**",
+          "indent_level": 0,
+          "line_number": 478,
+          "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+        }
+      ],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{siblings.length} semantic siblings** • Total shared:",
+        "format": "inline",
+        "line_number": 85,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "expression": "{totalNotes} | **Recent activity**:",
+        "format": "inline",
+        "line_number": 162,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "expression": "{maturityDistribution.evergreen} | 🌿",
+        "format": "inline",
+        "line_number": 166,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "expression": "{maturityDistribution.developing} | 🌰",
+        "format": "inline",
+        "line_number": 168,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "expression": "{ageDays} days | **Staleness**:",
+        "format": "inline",
+        "line_number": 203,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      },
+      {
+        "expression": "{current[\"review-count\"] || 0} reviews |",
+        "format": "inline",
+        "line_number": 204,
+        "source": "reference-analysis-cog-psy-theories-of-attention-202512140013-2025121404.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "99-archive/05-moc's/cognitive-science-moc",
+      "Allocation Policy",
+      "Anne Treisman",
+      "Capacity Model",
+      "Chain-of-Density",
+      "Cognitive Load Theory",
+      "Constitutional AI",
+      "Daniel Kahneman",
+      "Dichotic Listening Task",
+      "Donald Broadbent",
+      "Dorsal Attention Network",
+      "Dual-Task Performance",
+      "Echoic Memory",
+      "Few-Shot Learning",
+      "Filter Model",
+      "Iconic Memory",
+      "Information Theory",
+      "Load Theory of Attention",
+      "Multiple Resources Theory",
+      "Output Analysis: The Evolution of Capacity Theories of Attention",
+      "Pupillometry as Cognitive Measure",
+      "ReAct",
+      "Selective Attention",
+      "Self-Consistency",
+      "Self-Determination Theory",
+      "Skeleton-of-Thought",
+      "Tree-of-Thoughts",
+      "Treisman Attenuation Model",
+      "Ventral Attention Network",
+      "Working Memory",
+      "Yerkes-Dodson Law",
+      "allocation-policy",
+      "arousal-capacity-relationship",
+      "attention",
+      "capacity-model-kahneman",
+      "cognitive-science-moc",
+      "cosmology-moc",
+      "filter-model-broadbent",
+      "learning-theory-moc",
+      "neuroscience-moc"
+    ],
+    "unique_wiki_link_count": 40,
+    "unique_tags": [
+      "#FF00DC",
+      "#FF5700",
+      "#FFC700"
+    ],
+    "unique_tag_count": 3,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "99-archive/05-moc's/cognitive-science-moc",
+      "Allocation Policy",
+      "Anne Treisman",
+      "Capacity Model",
+      "Chain-of-Density",
+      "Cognitive Load Theory",
+      "Constitutional AI",
+      "Daniel Kahneman",
+      "Dichotic Listening Task",
+      "Donald Broadbent",
+      "Dorsal Attention Network",
+      "Dual-Task Performance",
+      "Echoic Memory",
+      "Few-Shot Learning",
+      "Filter Model",
+      "Iconic Memory",
+      "Information Theory",
+      "Load Theory of Attention",
+      "Multiple Resources Theory",
+      "Output Analysis: The Evolution of Capacity Theories of Attention",
+      "Pupillometry as Cognitive Measure",
+      "ReAct",
+      "Selective Attention",
+      "Self-Consistency",
+      "Self-Determination Theory",
+      "Skeleton-of-Thought",
+      "Tree-of-Thoughts",
+      "Treisman Attenuation Model",
+      "Ventral Attention Network",
+      "Working Memory",
+      "Yerkes-Dodson Law",
+      "allocation-policy",
+      "arousal-capacity-relationship",
+      "attention",
+      "capacity-model-kahneman",
+      "cognitive-science-moc",
+      "cosmology-moc",
+      "filter-model-broadbent",
+      "learning-theory-moc",
+      "neuroscience-moc"
+    ]
+  }
+}

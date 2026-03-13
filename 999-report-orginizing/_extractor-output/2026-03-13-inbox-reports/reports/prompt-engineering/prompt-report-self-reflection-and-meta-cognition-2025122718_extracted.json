@@ -1,0 +1,2502 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:17:31.299512",
+    "source_file": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\01-reports\\03_prompt-engineering\\prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+    "source_file_size_bytes": 56286,
+    "processing_time_seconds": 0.015
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "id": "20251227185522",
+      "type": "report",
+      "source": "claude-opus",
+      "status": "not-read",
+      "confidence": "speculative",
+      "maturity": "needs-review",
+      "priority": "medium",
+      "next-review": "2026-01-03",
+      "review-count": "0",
+      "last-reviewed": [],
+      "review-interval": "7",
+      "created": "2025-12-27T18:55:22",
+      "modified": "2025-12-27T18:55:22",
+      "week": "[[2025-W52]]",
+      "month": "2025-12",
+      "quarter": "2025-Q4",
+      "year": "2025",
+      "link-up": [
+        "[[prompt-engineering-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-27|Daily-Note]]"
+      ],
+      "tags": [
+        "type/report",
+        "source/claude-opus",
+        "maturity/needs-review",
+        "confidence/speculative",
+        "status/not-read",
+        "priority/medium",
+        "year/2025",
+        "artificial-intelligence",
+        "prompt-engineering",
+        "prompting-technique/reasoning",
+        "prompting-technique/meta-prompting",
+        "prompting-technique/chain-of-thought",
+        "prompting-technique/reflection"
+      ],
+      "aliases": [
+        "Meta-Cognitive Agents",
+        "Self-Improving Prompts",
+        "Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts"
+      ],
+      "title": "Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts"
+    },
+    "word_count": 6687,
+    "character_count": 55049,
+    "line_count": 824,
+    "heading_count": 40
+  },
+  "extraction_summary": {
+    "total_items_extracted": 261,
+    "by_type": {
+      "headings": 40,
+      "callouts": 24,
+      "wiki_links": 37,
+      "inline_fields": 31,
+      "definitions": 31,
+      "tags": 1,
+      "code_blocks": 11,
+      "tables": 2,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 4,
+      "footnotes": 2,
+      "color_spans": 0,
+      "lists_ordered": 26,
+      "lists_unordered": 51,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 1
+    }
+  },
+  "document_outline": [
+    {
+      "level": 3,
+      "text": "📖 Extracted Definitions From Cognitive Science",
+      "anchor": "extracted-definitions-from-cognitive-science",
+      "line_number": 43,
+      "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Foundational Understanding",
+      "anchor": "foundational-understanding",
+      "line_number": 144,
+      "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts",
+      "anchor": "self-reflection-and-meta-cognition-agents-that-improve-their-own-prompts",
+      "line_number": 166,
+      "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "1. Metacognition: Theoretical Foundations and AI Transfer",
+          "anchor": "1-metacognition-theoretical-foundations-and-ai-transfer",
+          "line_number": 173,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1.1 Cognitive Science Origins",
+              "anchor": "11-cognitive-science-origins",
+              "line_number": 175,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "1.2 Transfer to Artificial Systems",
+              "anchor": "12-transfer-to-artificial-systems",
+              "line_number": 190,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "2. Reflexion Architecture: A Deep Technical Examination",
+          "anchor": "2-reflexion-architecture-a-deep-technical-examination",
+          "line_number": 213,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "2.1 Architectural Overview",
+              "anchor": "21-architectural-overview",
+              "line_number": 215,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2.2 Memory Architecture Details",
+              "anchor": "22-memory-architecture-details",
+              "line_number": 255,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2.3 Self-Reflection Prompt Engineering",
+              "anchor": "23-self-reflection-prompt-engineering",
+              "line_number": 274,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2.4 Empirical Results and Capabilities",
+              "anchor": "24-empirical-results-and-capabilities",
+              "line_number": 307,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2.5 Limitations of the Reflexion Approach",
+              "anchor": "25-limitations-of-the-reflexion-approach",
+              "line_number": 323,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "3. Self-Critique and Constitutional Patterns",
+          "anchor": "3-self-critique-and-constitutional-patterns",
+          "line_number": 340,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "3.1 Self-Critique as Architectural Primitive",
+              "anchor": "31-self-critique-as-architectural-primitive",
+              "line_number": 342,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3.2 Constitutional AI: Self-Critique for Alignment",
+              "anchor": "32-constitutional-ai-self-critique-for-alignment",
+              "line_number": 364,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3.3 Self-Refine: Iterative Refinement Without Training",
+              "anchor": "33-self-refine-iterative-refinement-without-training",
+              "line_number": 392,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3.4 Chain-of-Verification: Targeted Self-Checking",
+              "anchor": "34-chain-of-verification-targeted-self-checking",
+              "line_number": 433,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "4. Prompt Self-Optimization: Agents That Modify Their Own Instructions",
+          "anchor": "4-prompt-self-optimization-agents-that-modify-their-own-instructions",
+          "line_number": 443,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "4.1 The Meta-Prompting Paradigm",
+              "anchor": "41-the-meta-prompting-paradigm",
+              "line_number": 445,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.2 DSPy: Declarative Prompt Programming",
+              "anchor": "42-dspy-declarative-prompt-programming",
+              "line_number": 453,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.3 OPRO: Optimization by Prompting",
+              "anchor": "43-opro-optimization-by-prompting",
+              "line_number": 502,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.4 APE: Automatic Prompt Engineering",
+              "anchor": "44-ape-automatic-prompt-engineering",
+              "line_number": 545,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.5 Self-Taught Prompting and Recursive Improvement",
+              "anchor": "45-self-taught-prompting-and-recursive-improvement",
+              "line_number": 565,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "5. Theoretical Limits of Self-Improvement",
+          "anchor": "5-theoretical-limits-of-self-improvement",
+          "line_number": 599,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "5.1 Fixed Points and Convergence",
+              "anchor": "51-fixed-points-and-convergence",
+              "line_number": 601,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5.2 Capability Ceilings and Fundamental Limits",
+              "anchor": "52-capability-ceilings-and-fundamental-limits",
+              "line_number": 622,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5.3 The Exploration-Exploitation Tradeoff",
+              "anchor": "53-the-exploration-exploitation-tradeoff",
+              "line_number": 639,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5.4 Self-Reference Paradoxes and Instability",
+              "anchor": "54-self-reference-paradoxes-and-instability",
+              "line_number": 654,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "6. Safety Considerations and Alignment Preservation",
+          "anchor": "6-safety-considerations-and-alignment-preservation",
+          "line_number": 667,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "6.1 Value Drift Under Self-Modification",
+              "anchor": "61-value-drift-under-self-modification",
+              "line_number": 669,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6.2 Oversight Mechanisms for Self-Modifying Systems",
+              "anchor": "62-oversight-mechanisms-for-self-modifying-systems",
+              "line_number": 686,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6.3 The Amplification Problem",
+              "anchor": "63-the-amplification-problem",
+              "line_number": 723,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6.4 Recursive Oversight Challenges",
+              "anchor": "64-recursive-oversight-challenges",
+              "line_number": 737,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "7. Integration and Synthesis: Toward Robust Meta-Cognitive Architectures",
+          "anchor": "7-integration-and-synthesis-toward-robust-meta-cognitive-architectures",
+          "line_number": 751,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "7.1 Architectural Patterns for Production Systems",
+              "anchor": "71-architectural-patterns-for-production-systems",
+              "line_number": 753,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "7.2 Research Frontiers and Open Questions",
+              "anchor": "72-research-frontiers-and-open-questions",
+              "line_number": 779,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 796,
+      "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Review Information",
+          "anchor": "review-information",
+          "line_number": 850,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📅 Review System",
+          "anchor": "review-system",
+          "line_number": 851,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Active Review Task",
+              "anchor": "active-review-task",
+              "line_number": 856,
+              "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "claude-thinking",
+        "title": "Untitled",
+        "body": "Thought process\n19s\nThis is a comprehensive request for a deep dive into self-reflection and meta-cognition in AI agents, specifically focusing on agents that can improve their own prompts. The user has provided extensive formatting requirements through their userPreferences system prompt, which specifies:\nConstitutional depth mandate - comprehensive, exhaustive treatment\nChain of Density Architecture - 4 layers per concept (foundational, enrichment, integration, advanced synthesis)\nStructural constraints (YAML metadata, wiki-links, callouts, inline fields, expansion section)\nComplexity anchoring at advanced practitioner level\nTree of thoughts protocol for complex queries\nResponse scaling suggesting 1500-4000+ words for comprehensive knowledge requests\nSelf-validation protocol with quality scoring\nLet me plan this response:\nDEPTH PLANNING\nREQUEST ANALYSIS:\nType: Comprehensive Knowledge Request / Synthesis-Integration\nComplexity: Very Complex (multiple interconnected theoretical frameworks, cutting-edge research, practical implementations)\nTarget Length: 6000+ words (as user specified in the justification)\nRequired Layers: All four Chain of Density layers for each major concept\nSTRUCTURAL REQUIREMENTS:\nMetadata: Required (tags, aliases, status fields)\nWiki-links: 25-40+ (comprehensive interconnection)\nCallouts: 10-15+ (definitions, key claims, evidence, methodology, warnings)\nInline fields: 20-30+ (definitions, principles, distinctions, frameworks)\nCONCEPT COVERAGE PLAN:\nMetacognition Theory (Foundational) - 1000+ words\nDefinition, cognitive science origins, transfer to AI\nSelf-monitoring, self-evaluation, self-regulation\nReflexion Architecture - 2000+ words\nTechnical architecture deep dive\nMemory types, reflection generation, trial loops\nEmpirical results and limitations\nSelf-Critique and Constitutional Patterns - 1400+ words\nConstitutional AI connection explores ethical frameworks and self-regulatory mechanisms\nSelf-critique involves systematic evaluation of internal reasoning processes\nCritique-revision loops enable iterative refinement of cognitive strategies\nI'll continue exploring the intricate landscape of self-optimization techniques, focusing on advanced prompt engineering and theoretical boundaries of AI self-improvement. The investigation will delve into meta-prompting strategies, optimization algorithms, and the fundamental constraints that define potential transformation pathways for intelligent systems.\nKey areas of exploration include DSPy's automatic prompt engineering techniques, meta-prompting approaches that enable dynamic cognitive reconfiguration, and sophisticated optimization algorithms like OPRO that facilitate intelligent system adaptation.\nThe theoretical investigation will probe the philosophical and computational limits of self-improvement, examining fixed points in AI development, potential capability ceilings, and the profound Gödelian constraints that emerge when systems attempt comprehensive self-reference.\nSafety considerations will form a critical analytical layer, examining potential risks, ethical boundaries, and protective mechanisms necessary to ensure responsible and controlled AI self-optimization processes.\nSpecifically regarding value drift concerns, I'll analyze potential mechanisms for maintaining alignment integrity and developing robust oversight frameworks to prevent unintended cognitive divergence.\nPotential expansion topics might include:\nRecursive self-improvement architectures\nEthical decision-making frameworks\nCognitive plasticity models\nEmergent behavior prediction techniques:gents That Improve Their Own Prompts",
+        "line_number": 96,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 2697,
+        "char_end": 6435
+      },
+      {
+        "type": "definition",
+        "title": "# Definition",
+        "body": "[**Note Title**:: [[**Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts**]]]\n[**Prompt Used**:: ]\n##### [✅`= dateformat(this.file.ctime, \"MMMM dd, yyyy\")` - Initial Creation]",
+        "line_number": 145,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 6467,
+        "char_end": 6701
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Central Thesis**: Meta-cognitive architectures represent a paradigm shift in agent design—moving from static prompt engineering to dynamic, self-modifying systems that evaluate their own reasoning processes, identify failure modes, and iteratively refine their behavioral parameters. This recursive improvement capability, while powerful, introduces fundamental questions about convergence, stability, and alignment preservation that constrain practical deployment.",
+        "line_number": 168,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 7214,
+        "char_end": 7699
+      },
+      {
+        "type": "evidence",
+        "title": "Untitled",
+        "body": "**Empirical Foundation**: Research by [[Dunlosky and Metcalfe (2009)]] demonstrated that metacognitive accuracy—the correspondence between confidence judgments and actual performance—strongly predicts learning outcomes and problem-solving success. Individuals with calibrated metacognition (accurate self-assessment) dramatically outperform those with miscalibrated metacognition, even controlling for baseline ability. This finding motivates the pursuit of calibrated self-assessment in AI agents.",
+        "line_number": 187,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 10049,
+        "char_end": 10564
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Meta-Recursive Intelligence**: A system architecture where the agent's own outputs (including reasoning traces, prompts, and strategies) become inputs to higher-order evaluation and optimization processes, creating feedback loops that enable systematic self-improvement bounded by available computational resources and external validation signals.",
+        "line_number": 206,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 12027,
+        "char_end": 12395
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Memory Design Choices**: Reflexion employs a sliding window episodic memory (typically 1-3 most recent reflections) rather than unbounded accumulation. This design choice balances the benefits of learning from recent failures against context window limitations and the risk of compounding outdated or incorrect reflections. The original paper tested variations including full history, recency-weighted retrieval, and fixed windows.",
+        "line_number": 257,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 15489,
+        "char_end": 15954
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Self-Reflection Prompt Template** (adapted from original Reflexion paper):\n```\nYou are an advanced reasoning agent that can improve based on self-reflection.\n\nYou were given the following task:\n{task_description}\n\nYou attempted the following solution:\n{trajectory}\n\nThe result was: {outcome}\nSpecific feedback: {evaluator_feedback}\n\nIn a few sentences, diagnose the failure in your previous attempt. Then, propose a concrete \nhypothesis for what you should do differently in your next trial. Be specific—reference \nparticular steps, decisions, or assumptions that led to failure.\n\nReflection:\n```",
+        "line_number": 282,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 17242,
+        "char_end": 17892
+      },
+      {
+        "type": "evidence",
+        "title": "Untitled",
+        "body": "**Key Finding**: The gains come primarily from the *structured reflection* rather than simple retry mechanisms. Control experiments showed that merely retrying with \"try again\" instructions produced minimal improvement, while natural language reflections encoding specific diagnostic information enabled systematic correction of failure modes. This suggests the linguistic structure of reflection is doing meaningful cognitive work.",
+        "line_number": 318,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 18871,
+        "char_end": 19320
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Confabulation Risk**: LLMs generating reflections may produce plausible-sounding but incorrect diagnoses—[[Confabulated Reflections]]. The model might confidently attribute failure to an incorrect cause, leading to \"corrections\" that don't address the actual problem. Without external validation of reflection quality, the system can develop systematic biases.",
+        "line_number": 331,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 20565,
+        "char_end": 20943
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Constitution**: A set of explicit principles defining desired behavior, against which the model evaluates outputs. Examples include: \"Choose the response that is least likely to be harmful,\" \"Prefer responses that are honest about uncertainty,\" \"Select responses that don't help with dangerous activities.\" The constitution externalizes values into inspectable, modifiable criteria.",
+        "line_number": 384,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 24385,
+        "char_end": 24788
+      },
+      {
+        "type": "evidence",
+        "title": "Untitled",
+        "body": "**Empirical Validation**: [[Bai et al. (2022)]] demonstrated that CAI-trained models achieved comparable harmlessness to RLHF models while requiring dramatically less human feedback. The self-critique mechanism effectively amplifies limited human oversight into comprehensive behavioral modification. However, the approach depends critically on the model having sufficient capability to perform accurate critiques—below certain capability thresholds, self-critique becomes unreliable.",
+        "line_number": 389,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 25153,
+        "char_end": 25654
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Self-Refine Prompt Structure** (for code review task):\n\n**Feedback Prompt**:\n```\nReview the following code for bugs, inefficiencies, and style issues.\nProvide specific, actionable feedback.\n\nCode:\n{generated_code}\n\nFeedback:\n```\n\n**Refinement Prompt**:\n```\nRevise the code below to address the following feedback.\n\nOriginal Code:\n{generated_code}\n\nFeedback:\n{critique}\n\nRevised Code:\n```",
+        "line_number": 404,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 26705,
+        "char_end": 27158
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Optimization Mechanisms in DSPy**: Teleprompters implement various prompt optimization strategies:\n- **BootstrapFewShot**: Automatically generates and selects few-shot examples from a training set, choosing examples that maximize validation metrics\n- **MIPRO**: Uses Bayesian optimization to search the space of instructions and example combinations\n- **Signature Optimizer**: Rewrites signature descriptions based on error analysis\n- **Assertion-Based Backtracking**: Uses execution failures to guide prompt refinement",
+        "line_number": 493,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 31631,
+        "char_end": 32192
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**OPRO Meta-Prompt Structure**:\n```\nYour task is to generate a better instruction for solving the following type of problem.\n\nProblem description: {task_description}\n\nBelow are some previous instructions and their performance scores (higher is better):\n\nInstruction: \"Think step by step\"\nScore: 0.72\n\nInstruction: \"Break this problem into parts and solve each part.\"\nScore: 0.78\n\nInstruction: \"First identify what type of problem this is, then apply the appropriate method.\"\nScore: 0.81\n\nBased on the above history, generate a new instruction that might achieve a higher score.\nFocus on what made the better instructions work and try to incorporate or extend those elements.\n\nNew Instruction:\n```",
+        "line_number": 516,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 33642,
+        "char_end": 34396
+      },
+      {
+        "type": "evidence",
+        "title": "Untitled",
+        "body": "**OPRO Results**: On GSM8K mathematical reasoning, OPRO-discovered prompts achieved 85.0% accuracy compared to 80.2% for standard chain-of-thought prompts. The system discovered prompt patterns like \"Let's work this out in a step by step way to be sure we have the right answer\" that combine multiple effective elements. The prompts evolved over optimization runs, showing progressive refinement.",
+        "line_number": 542,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 34678,
+        "char_end": 35091
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**The Recursion Principle**: When an LLM can evaluate prompt quality and generate prompt modifications, the system can bootstrap—using current prompts to generate better prompts, which can generate still better prompts. This recursive capability is bounded by (1) the model's capacity to accurately evaluate prompt quality and (2) the existence of better prompts discoverable through local modifications.",
+        "line_number": 571,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 37134,
+        "char_end": 37556
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Convergence Complications**: In practice, none of these conditions hold perfectly:\n- **Finite prompt space**: True in principle, but astronomically large in practice\n- **Consistent evaluation**: LLM-based evaluation has variance; same prompt may score differently across runs\n- **Deterministic improvement**: LLM-based prompt generation is stochastic\n- **Monotonicity**: Not guaranteed; modifications may worsen performance\n\nPractical systems therefore require convergence heuristics: early stopping, performance thresholds, diversity maintenance.",
+        "line_number": 613,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 39188,
+        "char_end": 39765
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Gödelian Constraint on Self-Improvement**: Informally, a system cannot fully understand (and therefore optimize) itself. Applied to prompt optimization: the reasoning required to discover that prompt P₁ is better than P₀ may exceed what P₀ enables. Self-improvement is thus bounded by a form of computational irreducibility—some improvements require external augmentation to discover.",
+        "line_number": 636,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 40896,
+        "char_end": 41301
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Prompt Injection as Self-Attack**: In adversarial contexts, prompt self-modification capabilities create attack surfaces. An adversary might craft inputs that cause the agent to \"improve\" its prompts in malicious directions—exploiting self-modification as a persistence mechanism for prompt injection attacks.",
+        "line_number": 662,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 43075,
+        "char_end": 43402
+      },
+      {
+        "type": "evidence",
+        "title": "Untitled",
+        "body": "**Empirical Observations**: [[Perez et al. (2022)]] demonstrated that RLHF-trained models can exhibit \"goal misgeneralization\"—pursuing proxy objectives that diverge from intended goals when distribution shifts. Self-modification amplifies this risk by adding another layer of optimization that may not respect alignment constraints.",
+        "line_number": 683,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 44718,
+        "char_end": 45068
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**The Alignment Tax Principle**: Safe self-improvement requires accepting reduced optimization efficiency to maintain alignment properties. The \"alignment tax\" is the performance cost of constraint preservation. Systems that minimize this tax while maintaining safety represent the frontier of safe meta-cognitive architectures.",
+        "line_number": 734,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 47380,
+        "char_end": 47726
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Architectural vs. Emergent Metacognition**: Current evidence suggests that explicit metacognitive architectures (Reflexion, Self-Refine, Constitutional AI) outperform relying on emergent metacognitive capabilities in base models. The scaffolding matters—structured prompts for self-assessment produce more reliable metacognition than unstructured introspection. This may change with scale, but present systems benefit from architectural support.",
+        "line_number": 791,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 50719,
+        "char_end": 51184
+      },
+      {
+        "type": "warning",
+        "title": "### 📅 Review Intelligence",
+        "body": "**Next Review**: `= this.next-review` | **Review Count**: `= this.review-count`\n**Review Status**: `= choice(this.next-review < date(today), \"🔴 OVERDUE\", choice(this.next-review = date(today), \"🟡 Due Today\", choice(dateformat(this.next-review, \"yyyy-MM-dd\") <= dateformat(date(today) + dur(7 days), \"yyyy-MM-dd\"), \"🟢 This Week\", \"⚪ Scheduled\")))`\n**Days Until Review**: `= choice(this.next-review, (this.next-review - date(today)).days + \" days\", \"Not scheduled\")`",
+        "line_number": 838,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 54763,
+        "char_end": 55273
+      },
+      {
+        "type": "abstract",
+        "title": "### 🏷️ Tag Intelligence",
+        "body": "**Tag Count**: `= length(this.tags)` | **Unique Domains**: `= length(filter(this.tags, (t) => contains(t, \"/\")))` hierarchical tags\n**Tag Density**: `= choice(length(this.tags) < 3, \"⚠️Sparse\", choice(length(this.tags) > 10, \"📚Rich\", \"✅Balanced\"))`",
+        "line_number": 842,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md",
+        "char_start": 55273,
+        "char_end": 55566
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "**Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts**",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[**Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts**]]",
+        "line_number": 146,
+        "section": "Foundational Understanding",
+        "context_line": "> [**Note Title**:: [[**Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts**]]]",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "John Flavell",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John Flavell]]",
+        "line_number": 177,
+        "section": "1.1 Cognitive Science Origins",
+        "context_line": "[**Metacognition**:: The capacity to think about one's own thinking processes, encompassing self-awareness of cognitive states, monitoring of ongoing reasoning, and deliberate regulation of mental strategies to optimize task performance.] The term emerged from developmental psychology research by [[John Flavell]] in the 1970s, who distinguished between **metacognitive knowledge** (understanding one's own cognitive processes) and **metacognitive regulation** (actively controlling those processes).",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Nelson and Narens (1990)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Nelson and Narens (1990)]]",
+        "line_number": 181,
+        "section": "1.1 Cognitive Science Origins",
+        "context_line": "[**Metacognitive-Monitoring**:: The ongoing surveillance of cognitive processes during task execution, detecting errors, assessing confidence levels, and identifying when current strategies are failing.] In human cognition, this manifests as the \"feeling of knowing\" phenomenon—awareness that you're uncertain about an answer, that you've made an error, or that your current approach isn't working. [[Nelson and Narens (1990)]] formalized this as a meta-level process receiving information from the object-level (where actual cognition occurs) and generating assessments of accuracy, completeness, and strategy effectiveness.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Dunlosky and Metcalfe (2009)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dunlosky and Metcalfe (2009)]]",
+        "line_number": 188,
+        "section": "1.1 Cognitive Science Origins",
+        "context_line": "> **Empirical Foundation**: Research by [[Dunlosky and Metcalfe (2009)]] demonstrated that metacognitive accuracy—the correspondence between confidence judgments and actual performance—strongly predicts learning outcomes and problem-solving success. Individuals with calibrated metacognition (accurate self-assessment) dramatically outperform those with miscalibrated metacognition, even controlling for baseline ability. This finding motivates the pursuit of calibrated self-assessment in AI agents.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Meta-Recursive Intelligence",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Meta-Recursive Intelligence]]",
+        "line_number": 209,
+        "section": "1.2 Transfer to Artificial Systems",
+        "context_line": "The critical insight enabling [[Meta-Recursive Intelligence]] in large language models is that LLMs can evaluate language—including their own language. When an LLM generates reasoning, that reasoning exists as text that can be fed back to the same (or another) LLM for assessment. This self-referential capacity, combined with appropriate prompting architecture, enables the construction of agents that critique their own outputs and modify their behavior accordingly.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Reflexion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflexion]]",
+        "line_number": 217,
+        "section": "2.1 Architectural Overview",
+        "context_line": "[[Reflexion]], introduced by [[Shinn et al. (2023)]], represents the most extensively studied architecture for linguistic self-reflection in LLM agents. The system enables agents to learn from mistakes without parameter updates—using natural language reflection stored in episodic memory to improve performance across sequential trials.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Shinn et al. (2023)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Shinn et al. (2023)]]",
+        "line_number": 217,
+        "section": "2.1 Architectural Overview",
+        "context_line": "[[Reflexion]], introduced by [[Shinn et al. (2023)]], represents the most extensively studied architecture for linguistic self-reflection in LLM agents. The system enables agents to learn from mistakes without parameter updates—using natural language reflection stored in episodic memory to improve performance across sequential trials.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Actor Module",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Actor Module]]",
+        "line_number": 247,
+        "section": "2.1 Architectural Overview",
+        "context_line": "**Trial Execution**: The [[Actor Module]] generates a trajectory of actions (τ₀) based on the current task specification and any existing reflections in memory. In coding tasks, this might be generating a function implementation; in reasoning tasks, producing a chain-of-thought solution.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Evaluator Module",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Evaluator Module]]",
+        "line_number": 249,
+        "section": "2.1 Architectural Overview",
+        "context_line": "**Evaluation**: The [[Evaluator Module]] assesses the trajectory outcome, producing either binary feedback (success/failure) or scalar reward. Importantly, this evaluation can come from external sources (unit tests, environment rewards) or internal heuristics (consistency checking, coverage analysis).",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Self-Reflection Module",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Reflection Module]]",
+        "line_number": 251,
+        "section": "2.1 Architectural Overview",
+        "context_line": "**Reflection Generation**: Given a failed trajectory and evaluator feedback, the [[Self-Reflection Module]] generates a verbal summary analyzing what went wrong and suggesting concrete improvements. This isn't mere error logging—it's structured natural language reasoning about failure modes.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Capability ceilings",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Capability ceilings]]",
+        "line_number": 329,
+        "section": "2.5 Limitations of the Reflexion Approach",
+        "context_line": "**Reflection Quality Ceiling**: The self-reflection module can only diagnose failures within its competence. If the underlying model lacks the domain knowledge to understand *why* something failed, the reflection will be correspondingly impoverished. [[Capability ceilings]] in the base model propagate to metacognitive capabilities.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Confabulated Reflections",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Confabulated Reflections]]",
+        "line_number": 332,
+        "section": "2.5 Limitations of the Reflexion Approach",
+        "context_line": "> **Confabulation Risk**: LLMs generating reflections may produce plausible-sounding but incorrect diagnoses—[[Confabulated Reflections]]. The model might confidently attribute failure to an incorrect cause, leading to \"corrections\" that don't address the actual problem. Without external validation of reflection quality, the system can develop systematic biases.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Constitutional AI",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constitutional AI]]",
+        "line_number": 346,
+        "section": "3.1 Self-Critique as Architectural Primitive",
+        "context_line": "[**Self-Critique-Architecture**:: A general pattern where an agent's generation process includes explicit evaluation of its own outputs against specified criteria, followed by revision informed by that evaluation—decomposing generation into proposal, assessment, and refinement phases.] This pattern appears across multiple systems: [[Constitutional AI]], [[Self-Refine]], [[Chain-of-Verification]], and others.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Self-Refine",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Refine]]",
+        "line_number": 346,
+        "section": "3.1 Self-Critique as Architectural Primitive",
+        "context_line": "[**Self-Critique-Architecture**:: A general pattern where an agent's generation process includes explicit evaluation of its own outputs against specified criteria, followed by revision informed by that evaluation—decomposing generation into proposal, assessment, and refinement phases.] This pattern appears across multiple systems: [[Constitutional AI]], [[Self-Refine]], [[Chain-of-Verification]], and others.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Chain-of-Verification",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chain-of-Verification]]",
+        "line_number": 346,
+        "section": "3.1 Self-Critique as Architectural Primitive",
+        "context_line": "[**Self-Critique-Architecture**:: A general pattern where an agent's generation process includes explicit evaluation of its own outputs against specified criteria, followed by revision informed by that evaluation—decomposing generation into proposal, assessment, and refinement phases.] This pattern appears across multiple systems: [[Constitutional AI]], [[Self-Refine]], [[Chain-of-Verification]], and others.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Constitutional AI (CAI)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constitutional AI (CAI)]]",
+        "line_number": 366,
+        "section": "3.2 Constitutional AI: Self-Critique for Alignment",
+        "context_line": "[[Constitutional AI (CAI)]], developed by [[Anthropic]], applies self-critique specifically to the problem of alignment—training AI systems to be helpful, harmless, and honest. The architecture introduces a \"constitution\" of principles against which the model critiques and revises its own outputs.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Anthropic",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Anthropic]]",
+        "line_number": 366,
+        "section": "3.2 Constitutional AI: Self-Critique for Alignment",
+        "context_line": "[[Constitutional AI (CAI)]], developed by [[Anthropic]], applies self-critique specifically to the problem of alignment—training AI systems to be helpful, harmless, and honest. The architecture introduces a \"constitution\" of principles against which the model critiques and revises its own outputs.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Bai et al. (2022)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bai et al. (2022)]]",
+        "line_number": 390,
+        "section": "3.2 Constitutional AI: Self-Critique for Alignment",
+        "context_line": "> **Empirical Validation**: [[Bai et al. (2022)]] demonstrated that CAI-trained models achieved comparable harmlessness to RLHF models while requiring dramatically less human feedback. The self-critique mechanism effectively amplifies limited human oversight into comprehensive behavioral modification. However, the approach depends critically on the model having sufficient capability to perform accurate critiques—below certain capability thresholds, self-critique becomes unreliable.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Self-Refine",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Refine]]",
+        "line_number": 394,
+        "section": "3.3 Self-Refine: Iterative Refinement Without Training",
+        "context_line": "[[Self-Refine]], introduced by [[Madaan et al. (2023)]], applies the self-critique pattern at inference time without any fine-tuning. Given an initial output, the same model provides feedback, then refines based on that feedback, iterating until convergence or budget exhaustion.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Madaan et al. (2023)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Madaan et al. (2023)]]",
+        "line_number": 394,
+        "section": "3.3 Self-Refine: Iterative Refinement Without Training",
+        "context_line": "[[Self-Refine]], introduced by [[Madaan et al. (2023)]], applies the self-critique pattern at inference time without any fine-tuning. Given an initial output, the same model provides feedback, then refines based on that feedback, iterating until convergence or budget exhaustion.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Chain-of-Verification (CoVe)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chain-of-Verification (CoVe)]]",
+        "line_number": 435,
+        "section": "3.4 Chain-of-Verification: Targeted Self-Checking",
+        "context_line": "[[Chain-of-Verification (CoVe)]], from [[Dhuliawala et al. (2023)]], focuses self-critique specifically on **factual claims**. The system generates an initial response, extracts factual claims, generates verification questions for each claim, independently answers those questions, and revises based on verification results.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Dhuliawala et al. (2023)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dhuliawala et al. (2023)]]",
+        "line_number": 435,
+        "section": "3.4 Chain-of-Verification: Targeted Self-Checking",
+        "context_line": "[[Chain-of-Verification (CoVe)]], from [[Dhuliawala et al. (2023)]], focuses self-critique specifically on **factual claims**. The system generates an initial response, extracts factual claims, generates verification questions for each claim, independently answers those questions, and revises based on verification results.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "DSPy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DSPy]]",
+        "line_number": 455,
+        "section": "4.2 DSPy: Declarative Prompt Programming",
+        "context_line": "[[DSPy]], developed by the [[Stanford NLP Group]], represents the most sophisticated framework for programmatic prompt optimization. Rather than writing prompts directly, developers define **signatures** (input-output specifications) and **modules** (compositional building blocks), and DSPy automatically generates and optimizes prompts.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Stanford NLP Group",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stanford NLP Group]]",
+        "line_number": 455,
+        "section": "4.2 DSPy: Declarative Prompt Programming",
+        "context_line": "[[DSPy]], developed by the [[Stanford NLP Group]], represents the most sophisticated framework for programmatic prompt optimization. Rather than writing prompts directly, developers define **signatures** (input-output specifications) and **modules** (compositional building blocks), and DSPy automatically generates and optimizes prompts.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "OPRO (Optimization by PROmpting)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[OPRO (Optimization by PROmpting)]]",
+        "line_number": 504,
+        "section": "4.3 OPRO: Optimization by Prompting",
+        "context_line": "[[OPRO (Optimization by PROmpting)]], introduced by [[Yang et al. (2023)]] from DeepMind, takes a more direct approach: using the LLM itself as the optimizer. Given a meta-prompt describing the optimization objective and past prompt-performance pairs, the LLM generates new candidate prompts.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Yang et al. (2023)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Yang et al. (2023)]]",
+        "line_number": 504,
+        "section": "4.3 OPRO: Optimization by Prompting",
+        "context_line": "[[OPRO (Optimization by PROmpting)]], introduced by [[Yang et al. (2023)]] from DeepMind, takes a more direct approach: using the LLM itself as the optimizer. Given a meta-prompt describing the optimization objective and past prompt-performance pairs, the LLM generates new candidate prompts.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "APE (Automatic Prompt Engineer)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[APE (Automatic Prompt Engineer)]]",
+        "line_number": 547,
+        "section": "4.4 APE: Automatic Prompt Engineering",
+        "context_line": "[[APE (Automatic Prompt Engineer)]], from [[Zhou et al. (2023)]], frames prompt optimization as program synthesis. Given input-output demonstrations, APE searches for prompts (natural language programs) that produce the desired behavior.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Zhou et al. (2023)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zhou et al. (2023)]]",
+        "line_number": 547,
+        "section": "4.4 APE: Automatic Prompt Engineering",
+        "context_line": "[[APE (Automatic Prompt Engineer)]], from [[Zhou et al. (2023)]], frames prompt optimization as program synthesis. Given input-output demonstrations, APE searches for prompts (natural language programs) that produce the desired behavior.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Perez et al. (2022)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Perez et al. (2022)]]",
+        "line_number": 684,
+        "section": "6.1 Value Drift Under Self-Modification",
+        "context_line": "> **Empirical Observations**: [[Perez et al. (2022)]] demonstrated that RLHF-trained models can exhibit \"goal misgeneralization\"—pursuing proxy objectives that diverge from intended goals when distribution shifts. Self-modification amplifies this risk by adding another layer of optimization that may not respect alignment constraints.",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Reflexion Architecture Implementation Patterns",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflexion Architecture Implementation Patterns]]",
+        "line_number": 798,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Reflexion Architecture Implementation Patterns]]**",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Constitutional AI: Principles, Implementation, and Extensions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constitutional AI: Principles, Implementation, and Extensions]]",
+        "line_number": 804,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Constitutional AI: Principles, Implementation, and Extensions]]**",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "DSPy: Declarative Prompt Programming Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DSPy: Declarative Prompt Programming Framework]]",
+        "line_number": 810,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[DSPy: Declarative Prompt Programming Framework]]**",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Capability Limitations in Self-Improving Systems",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Capability Limitations in Self-Improving Systems]]",
+        "line_number": 816,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Capability Limitations in Self-Improving Systems]]**",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Prompt Injection and Self-Modification Attack Surfaces",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prompt Injection and Self-Modification Attack Surfaces]]",
+        "line_number": 822,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "5. **[[Prompt Injection and Self-Modification Attack Surfaces]]**",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Multi-Agent Metacognition and Collective Self-Improvement",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Multi-Agent Metacognition and Collective Self-Improvement]]",
+        "line_number": 828,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "6. **[[Multi-Agent Metacognition and Collective Self-Improvement]]**",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts]]",
+        "line_number": 857,
+        "section": "Active Review Task",
+        "context_line": "- [ ] Review [[Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts]] (needs-review | speculative) 📅 2026-01-03 🔼 🔁 every 1 week #review",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "target": "Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts]]",
+        "line_number": 860,
+        "section": "Active Review Task",
+        "context_line": "description includes [[Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts]]",
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Note Title",
+        "value": "[[**Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts**",
+        "format": "bracket",
+        "line_number": 146,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Prompt Used",
+        "value": "",
+        "format": "bracket",
+        "line_number": 147,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Metacognition",
+        "value": "The capacity to think about one's own thinking processes, encompassing self-awareness of cognitive states, monitoring of ongoing reasoning, and deliberate regulation of mental strategies to optimize task performance.",
+        "format": "bracket",
+        "line_number": 177,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Metacognitive-Monitoring",
+        "value": "The ongoing surveillance of cognitive processes during task execution, detecting errors, assessing confidence levels, and identifying when current strategies are failing.",
+        "format": "bracket",
+        "line_number": 181,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Metacognitive-Evaluation",
+        "value": "Post-hoc assessment of cognitive outputs against standards of correctness, relevance, and quality, generating judgments that inform future strategy selection.",
+        "format": "bracket",
+        "line_number": 183,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Metacognitive-Regulation",
+        "value": "Active control over cognitive processes based on monitoring and evaluation outputs, including strategy selection, resource allocation, and deliberate modification of reasoning approaches.",
+        "format": "bracket",
+        "line_number": 185,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Functional-Metacognition",
+        "value": "The implementation of metacognitive capabilities in AI systems through mechanisms that achieve equivalent behavioral effects without necessarily replicating the underlying cognitive architecture—emphasizing what the system *does* rather than what it *experiences*.",
+        "format": "bracket",
+        "line_number": 204,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Reflexion-Architecture",
+        "value": "A three-module agent system consisting of an Actor (generating actions), an Evaluator (assessing trajectories against task objectives), and a Self-Reflection module (synthesizing verbal experience summaries), connected through an episodic memory buffer that persists reflections across trials to inform future action generation.",
+        "format": "bracket",
+        "line_number": 243,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Episodic-Memory-Sliding-Window",
+        "value": "A bounded memory architecture retaining only the k most recent reflections (typically k=3), preventing context overflow while ensuring the agent learns from immediate failures rather than accumulating potentially stale or contradictory historical guidance.",
+        "format": "bracket",
+        "line_number": 272,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Diagnostic-Reflection-Pattern",
+        "value": "The structured format for effective self-reflections: (1) Identify the specific failure point, (2) Attribute the failure to a concrete decision or assumption, (3) Explain *why* that decision was incorrect, (4) Propose a specific alternative approach for the next trial.",
+        "format": "bracket",
+        "line_number": 305,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Reflection-vs-Retry-Distinction",
+        "value": "The critical difference between productive self-reflection (generating structured analysis attributing failure to specific decisions and proposing concrete alternatives) versus unproductive retry (simply attempting the task again without targeted modification), where only the former produces systematic improvement across trials.",
+        "format": "bracket",
+        "line_number": 321,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Trial-Cost-Tradeoff",
+        "value": "The economic reality that self-reflective improvement requires multiple execution cycles, each consuming computational resources and potentially real-world costs, limiting applicability to domains where trial costs are manageable and iteration is feasible.",
+        "format": "bracket",
+        "line_number": 336,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Self-Critique-Architecture",
+        "value": "A general pattern where an agent's generation process includes explicit evaluation of its own outputs against specified criteria, followed by revision informed by that evaluation—decomposing generation into proposal, assessment, and refinement phases.",
+        "format": "bracket",
+        "line_number": 346,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Constitutional-AI-Methodology",
+        "value": "A training approach where the model generates responses, then critiques those responses against a set of explicit principles (the \"constitution\"), revises accordingly, and is subsequently trained on the critique-revision pairs—using self-generated preference data rather than human feedback for scalable alignment.",
+        "format": "bracket",
+        "line_number": 368,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Self-Refine-Loop",
+        "value": "An inference-time pattern where an LLM generates initial output, critiques that output producing specific improvement suggestions, then generates a revised output incorporating the suggestions—repeating until quality thresholds are met or iteration budgets are exhausted.",
+        "format": "bracket",
+        "line_number": 396,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Chain-of-Verification",
+        "value": "A self-critique pattern targeting factual accuracy, where the model (1) generates initial response, (2) extracts specific factual claims, (3) formulates verification questions that would confirm/deny each claim, (4) answers verification questions independently, and (5) revises claims where verification fails.",
+        "format": "bracket",
+        "line_number": 437,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Prompt-Self-Optimization",
+        "value": "The capacity for an agent to evaluate the effectiveness of its own prompts (including system prompts, few-shot examples, and reasoning templates), identify deficiencies, and generate modified prompts that improve task performance—treating prompts as optimizable artifacts rather than fixed instructions.",
+        "format": "bracket",
+        "line_number": 449,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "DSPy-Framework",
+        "value": "A programming framework for LLM applications that separates the logical specification of what a program should do (via signatures and modules) from the implementation details of how prompts are constructed—enabling automatic compilation of high-level specifications into optimized prompts through various teleprompters.",
+        "format": "bracket",
+        "line_number": 457,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Teleprompter-Optimization",
+        "value": "DSPy's abstraction for prompt optimization algorithms that take a program specification and training data, then automatically generate improved prompts (including instructions, demonstrations, and reasoning templates) through strategies like few-shot bootstrapping, instruction generation, or Bayesian optimization.",
+        "format": "bracket",
+        "line_number": 500,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "OPRO-Methodology",
+        "value": "A prompt optimization approach where the LLM acts as both the executor (running prompts on tasks) and the optimizer (generating new prompts based on performance history)—framing prompt engineering as an optimization problem solved through the model's own language capabilities.",
+        "format": "bracket",
+        "line_number": 506,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "APE-Framework",
+        "value": "An automatic prompt engineering system that treats prompts as programs to be synthesized from input-output specifications, using LLM-based proposal generation combined with selection based on execution-based scoring over a validation set.",
+        "format": "bracket",
+        "line_number": 549,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Recursive-Prompt-Improvement",
+        "value": "An iterative architecture where the agent (1) executes current prompt on tasks, (2) analyzes errors to identify prompt deficiencies, (3) proposes prompt modifications addressing identified deficiencies, (4) validates modifications on held-out examples, and (5) updates prompt if validation improves—enabling open-ended prompt evolution.",
+        "format": "bracket",
+        "line_number": 569,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Fixed-Point-Convergence",
+        "value": "The property of a self-improvement process where iterative modification eventually reaches a stable state—a prompt P* such that applying the improvement operator yields P* again, meaning the system judges the current prompt as optimal given its evaluation criteria.",
+        "format": "bracket",
+        "line_number": 605,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Capability-Ceiling",
+        "value": "The fundamental constraint that self-improvement in an LLM-based system cannot exceed the ceiling imposed by the base model's capabilities—the system cannot bootstrap into capabilities it lacks the competence to recognize, evaluate, or generate.",
+        "format": "bracket",
+        "line_number": 626,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Prompt-Search-Dynamics",
+        "value": "The tension in prompt optimization between exploitative refinement (local search from current prompt) and exploratory diversification (broader search for qualitatively different approaches)—requiring balance to avoid local optima while maintaining progress.",
+        "format": "bracket",
+        "line_number": 646,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Self-Reference-Instability",
+        "value": "The potential for self-modifying systems to enter unstable states where the modification process undermines its own foundations—for example, a prompt that instructs \"always simplify prompts\" might simplify itself to the point of dysfunction.",
+        "format": "bracket",
+        "line_number": 658,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Value-Drift",
+        "value": "The phenomenon where iterative self-modification gradually shifts a system's behavior away from its originally aligned values—potentially occurring when optimization pressure favors capability over constraint, or when safety instructions are perceived as obstacles to task performance.",
+        "format": "bracket",
+        "line_number": 673,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Constitutional Anchoring",
+        "value": "The practice of embedding inviolable principles in self-modifying systems that constrain the modification process itself—ensuring that certain values or behaviors cannot be optimized away regardless of task performance pressure.",
+        "format": "bracket",
+        "line_number": 690,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Alignment-Amplification",
+        "value": "The risk that weak misalignments in self-modifying systems become severe over iteration—each modification cycle potentially compounding small value drift into large divergence, analogous to error accumulation in numerical computation.",
+        "format": "bracket",
+        "line_number": 727,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Recursive-Oversight-Problem",
+        "value": "The challenge that oversight mechanisms implemented within a self-modifying system are subject to the same modification pressures as the system itself—requiring external anchoring or formal verification to provide genuine assurance.",
+        "format": "bracket",
+        "line_number": 741,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "field_name": "Emergent-Metacognitive-Capabilities",
+        "value": "The open question of whether sufficiently capable base models spontaneously develop reliable metacognitive abilities (accurate self-assessment, productive self-critique) or whether such capabilities require explicit architectural scaffolding regardless of scale.",
+        "format": "bracket",
+        "line_number": 789,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "review",
+        "full_tag": "#review",
+        "hierarchy": [
+          "review"
+        ],
+        "line_number": 760,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 3,
+        "text": "📖 Extracted Definitions From Cognitive Science",
+        "anchor": "extracted-definitions-from-cognitive-science",
+        "line_number": 43,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 1,
+        "text": "Foundational Understanding",
+        "anchor": "foundational-understanding",
+        "line_number": 144,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 1,
+        "text": "Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts",
+        "anchor": "self-reflection-and-meta-cognition-agents-that-improve-their-own-prompts",
+        "line_number": 166,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 2,
+        "text": "1. Metacognition: Theoretical Foundations and AI Transfer",
+        "anchor": "1-metacognition-theoretical-foundations-and-ai-transfer",
+        "line_number": 173,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "1.1 Cognitive Science Origins",
+        "anchor": "11-cognitive-science-origins",
+        "line_number": 175,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "1.2 Transfer to Artificial Systems",
+        "anchor": "12-transfer-to-artificial-systems",
+        "line_number": 190,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 2,
+        "text": "2. Reflexion Architecture: A Deep Technical Examination",
+        "anchor": "2-reflexion-architecture-a-deep-technical-examination",
+        "line_number": 213,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "2.1 Architectural Overview",
+        "anchor": "21-architectural-overview",
+        "line_number": 215,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "2.2 Memory Architecture Details",
+        "anchor": "22-memory-architecture-details",
+        "line_number": 255,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "2.3 Self-Reflection Prompt Engineering",
+        "anchor": "23-self-reflection-prompt-engineering",
+        "line_number": 274,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "2.4 Empirical Results and Capabilities",
+        "anchor": "24-empirical-results-and-capabilities",
+        "line_number": 307,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "2.5 Limitations of the Reflexion Approach",
+        "anchor": "25-limitations-of-the-reflexion-approach",
+        "line_number": 323,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 2,
+        "text": "3. Self-Critique and Constitutional Patterns",
+        "anchor": "3-self-critique-and-constitutional-patterns",
+        "line_number": 340,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "3.1 Self-Critique as Architectural Primitive",
+        "anchor": "31-self-critique-as-architectural-primitive",
+        "line_number": 342,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "3.2 Constitutional AI: Self-Critique for Alignment",
+        "anchor": "32-constitutional-ai-self-critique-for-alignment",
+        "line_number": 364,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "3.3 Self-Refine: Iterative Refinement Without Training",
+        "anchor": "33-self-refine-iterative-refinement-without-training",
+        "line_number": 392,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "3.4 Chain-of-Verification: Targeted Self-Checking",
+        "anchor": "34-chain-of-verification-targeted-self-checking",
+        "line_number": 433,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 2,
+        "text": "4. Prompt Self-Optimization: Agents That Modify Their Own Instructions",
+        "anchor": "4-prompt-self-optimization-agents-that-modify-their-own-instructions",
+        "line_number": 443,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "4.1 The Meta-Prompting Paradigm",
+        "anchor": "41-the-meta-prompting-paradigm",
+        "line_number": 445,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "4.2 DSPy: Declarative Prompt Programming",
+        "anchor": "42-dspy-declarative-prompt-programming",
+        "line_number": 453,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "4.3 OPRO: Optimization by Prompting",
+        "anchor": "43-opro-optimization-by-prompting",
+        "line_number": 502,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "4.4 APE: Automatic Prompt Engineering",
+        "anchor": "44-ape-automatic-prompt-engineering",
+        "line_number": 545,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "4.5 Self-Taught Prompting and Recursive Improvement",
+        "anchor": "45-self-taught-prompting-and-recursive-improvement",
+        "line_number": 565,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 2,
+        "text": "5. Theoretical Limits of Self-Improvement",
+        "anchor": "5-theoretical-limits-of-self-improvement",
+        "line_number": 599,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "5.1 Fixed Points and Convergence",
+        "anchor": "51-fixed-points-and-convergence",
+        "line_number": 601,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "5.2 Capability Ceilings and Fundamental Limits",
+        "anchor": "52-capability-ceilings-and-fundamental-limits",
+        "line_number": 622,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "5.3 The Exploration-Exploitation Tradeoff",
+        "anchor": "53-the-exploration-exploitation-tradeoff",
+        "line_number": 639,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "5.4 Self-Reference Paradoxes and Instability",
+        "anchor": "54-self-reference-paradoxes-and-instability",
+        "line_number": 654,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 2,
+        "text": "6. Safety Considerations and Alignment Preservation",
+        "anchor": "6-safety-considerations-and-alignment-preservation",
+        "line_number": 667,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "6.1 Value Drift Under Self-Modification",
+        "anchor": "61-value-drift-under-self-modification",
+        "line_number": 669,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "6.2 Oversight Mechanisms for Self-Modifying Systems",
+        "anchor": "62-oversight-mechanisms-for-self-modifying-systems",
+        "line_number": 686,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "6.3 The Amplification Problem",
+        "anchor": "63-the-amplification-problem",
+        "line_number": 723,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "6.4 Recursive Oversight Challenges",
+        "anchor": "64-recursive-oversight-challenges",
+        "line_number": 737,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 2,
+        "text": "7. Integration and Synthesis: Toward Robust Meta-Cognitive Architectures",
+        "anchor": "7-integration-and-synthesis-toward-robust-meta-cognitive-architectures",
+        "line_number": 751,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "7.1 Architectural Patterns for Production Systems",
+        "anchor": "71-architectural-patterns-for-production-systems",
+        "line_number": 753,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "7.2 Research Frontiers and Open Questions",
+        "anchor": "72-research-frontiers-and-open-questions",
+        "line_number": 779,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 796,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "Review Information",
+        "anchor": "review-information",
+        "line_number": 850,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 2,
+        "text": "📅 Review System",
+        "anchor": "review-system",
+        "line_number": 851,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "level": 3,
+        "text": "Active Review Task",
+        "anchor": "active-review-task",
+        "line_number": 856,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "try {\n // Get the current file\n const currentPage = dv.current();\n // Load the content of the current file\n const content = await dv.io.load(currentPage.file.path);\n // Storage for definitions in current file\n let allDefinitions = [];\n // Extract bracketed inline fields from current file content\n const bracketedFieldRegex = /\\[\\*\\*([^*]+?)\\*\\*::\\s*([^\\]]+?)\\]/g;\n let match;\n while ((match = bracketedFieldRegex.exec(content)) !== null) {\n  allDefinitions.push({\n   key: match[1].trim(), // This is the clean term without ** markdown\n   value: match[2].trim()\n  });\n }\n // Display results\n if (allDefinitions.length > 0) {\n  dv.header(3, `📚 Definitions in Current File (${allDefinitions.length} total)`);\n  // Group by first letter (using the clean key)\n  const grouped = {};\n  allDefinitions.forEach(d => {\n   const firstLetter = d.key[0].toUpperCase();\n   if (!grouped[firstLetter]) grouped[firstLetter] = [];\n   grouped[firstLetter].push(d);\n  });\n  // Sort letters alphabetically\n  const sortedLetters = Object.keys(grouped).sort();\n  // Display grouped results\n  for (let letter of sortedLetters) {\n   dv.header(4, `${letter} (${grouped[letter].length} terms)`);\n   dv.table(\n    [\"🔑 Term\", \"📝 Definition\"],\n    grouped[letter].map(d => [\n     `**${d.key}**`,\n     d.value\n    ])\n   );\n   dv.paragraph(\"\"); // Add spacing between groups\n  }\n } else {\n  dv.paragraph(`*No bracketed inline fields found in current file.*`);\n }\n} catch (error) {\n console.error(\"Error in definitions script:\", error);\n dv.paragraph(\"*Error loading definitions. Check console for details.*\");\n}",
+        "line_start": 44,
+        "line_end": 92,
+        "char_count": 1580,
+        "line_count": 47,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "language": "yaml",
+        "code": "---\ntags: #agent-architectures #metacognition #prompt-engineering #self-improvement #ai-safety #reflexion #constitutional-ai\naliases: [Meta-Cognitive Agents, Self-Improving Prompts, Reflexion Architecture, Agent Self-Optimization, Prompt Auto-Tuning]\ncreated: 2025-01-06\nmodified: 2025-01-06\nstatus: evergreen\ncertainty: confident\ntype: reference\ndomain: AI Agent Design\ncomplexity: advanced\nword_count_target: 6000+\n---",
+        "line_start": 151,
+        "line_end": 164,
+        "char_count": 420,
+        "line_count": 12,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Reflection Entry:\n├── trial_number: int\n├── trajectory_summary: str (compressed representation of action sequence)\n├── outcome: {success, failure, partial}\n├── failure_analysis: str (what went wrong, specific error attribution)\n├── improvement_hypothesis: str (concrete suggestion for next trial)\n└── confidence: float (agent's assessment of hypothesis quality)",
+        "line_start": 262,
+        "line_end": 270,
+        "char_count": 361,
+        "line_count": 7,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> You are an advanced reasoning agent that can improve based on self-reflection.\n> \n> You were given the following task:\n> {task_description}\n> \n> You attempted the following solution:\n> {trajectory}\n> \n> The result was: {outcome}\n> Specific feedback: {evaluator_feedback}\n> \n> In a few sentences, diagnose the failure in your previous attempt. Then, propose a concrete \n> hypothesis for what you should do differently in your next trial. Be specific—reference \n> particular steps, decisions, or assumptions that led to failure.\n> \n> Reflection:\n>",
+        "line_start": 284,
+        "line_end": 301,
+        "char_count": 547,
+        "line_count": 17,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> Review the following code for bugs, inefficiencies, and style issues.\n> Provide specific, actionable feedback.\n> \n> Code:\n> {generated_code}\n> \n> Feedback:\n>",
+        "line_start": 408,
+        "line_end": 416,
+        "char_count": 159,
+        "line_count": 8,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> Revise the code below to address the following feedback.\n> \n> Original Code:\n> {generated_code}\n> \n> Feedback:\n> {critique}\n> \n> Revised Code:\n>",
+        "line_start": 419,
+        "line_end": 429,
+        "char_count": 146,
+        "line_count": 10,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "language": "python",
+        "code": "class GenerateAnswer(dspy.Signature):\n    \"\"\"Answer questions with detailed explanations.\"\"\"\n    \n    context = dspy.InputField(desc=\"relevant context passages\")\n    question = dspy.InputField()\n    answer = dspy.OutputField(desc=\"comprehensive answer with reasoning\")",
+        "line_start": 462,
+        "line_end": 469,
+        "char_count": 268,
+        "line_count": 6,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "language": "python",
+        "code": "class RAG(dspy.Module):\n    def __init__(self, num_passages=3):\n        self.retrieve = dspy.Retrieve(k=num_passages)\n        self.generate = dspy.ChainOfThought(GenerateAnswer)\n    \n    def forward(self, question):\n        context = self.retrieve(question).passages\n        return self.generate(context=context, question=question)",
+        "line_start": 472,
+        "line_end": 481,
+        "char_count": 331,
+        "line_count": 8,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "language": "python",
+        "code": "teleprompter = dspy.BootstrapFewShotWithRandomSearch(\n    metric=answer_correctness,\n    max_bootstrapped_demos=4,\n    num_candidate_programs=10\n)\noptimized_rag = teleprompter.compile(RAG(), trainset=training_examples)",
+        "line_start": 484,
+        "line_end": 491,
+        "char_count": 218,
+        "line_count": 6,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> Your task is to generate a better instruction for solving the following type of problem.\n> \n> Problem description: {task_description}\n> \n> Below are some previous instructions and their performance scores (higher is better):\n> \n> Instruction: \"Think step by step\"\n> Score: 0.72\n> \n> Instruction: \"Break this problem into parts and solve each part.\"\n> Score: 0.78\n> \n> Instruction: \"First identify what type of problem this is, then apply the appropriate method.\"\n> Score: 0.81\n> \n> Based on the above history, generate a new instruction that might achieve a higher score.\n> Focus on what made the better instructions work and try to incorporate or extend those elements.\n> \n> New Instruction:\n>",
+        "line_start": 518,
+        "line_end": 538,
+        "char_count": 696,
+        "line_count": 20,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "language": "tasks",
+        "code": "not done\ndescription includes [[Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts]]\ndescription includes Review",
+        "line_start": 858,
+        "line_end": 862,
+        "char_count": 135,
+        "line_count": 3,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Human Metacognitive Component",
+          "AI Implementation Analog"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Self-monitoring",
+            "Output confidence estimation, internal consistency checking"
+          ],
+          [
+            "Error detection",
+            "Comparison against validation sets, contradiction identification"
+          ],
+          [
+            "Strategy awareness",
+            "Prompt template tracking, reasoning chain logging"
+          ],
+          [
+            "Strategy selection",
+            "Prompt switching, retrieval augmentation activation"
+          ],
+          [
+            "Effort allocation",
+            "Token budget management, multi-pass refinement triggering"
+          ]
+        ],
+        "line_start": 183,
+        "row_count": 5,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "headers": [
+          "Benchmark",
+          "Baseline (No Reflection)",
+          "Reflexion (3 trials)",
+          "Improvement"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "HumanEval (code)",
+            "80.1%",
+            "91.0%",
+            "+10.9%"
+          ],
+          [
+            "MBPP (code)",
+            "77.1%",
+            "97.1%",
+            "+20.0%"
+          ],
+          [
+            "AlfWorld (decision-making)",
+            "69.1%",
+            "95.8%",
+            "+26.7%"
+          ],
+          [
+            "HotpotQA (reasoning)",
+            "34.2%",
+            "51.8%",
+            "+17.6%"
+          ]
+        ],
+        "line_start": 251,
+        "row_count": 4,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "Note Title",
+        "definition": "[[**Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts**",
+        "line_number": 146,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Prompt Used",
+        "definition": "",
+        "line_number": 147,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Metacognition",
+        "definition": "The capacity to think about one's own thinking processes, encompassing self-awareness of cognitive states, monitoring of ongoing reasoning, and deliberate regulation of mental strategies to optimize task performance.",
+        "line_number": 177,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Metacognitive-Monitoring",
+        "definition": "The ongoing surveillance of cognitive processes during task execution, detecting errors, assessing confidence levels, and identifying when current strategies are failing.",
+        "line_number": 181,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Metacognitive-Evaluation",
+        "definition": "Post-hoc assessment of cognitive outputs against standards of correctness, relevance, and quality, generating judgments that inform future strategy selection.",
+        "line_number": 183,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Metacognitive-Regulation",
+        "definition": "Active control over cognitive processes based on monitoring and evaluation outputs, including strategy selection, resource allocation, and deliberate modification of reasoning approaches.",
+        "line_number": 185,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Functional-Metacognition",
+        "definition": "The implementation of metacognitive capabilities in AI systems through mechanisms that achieve equivalent behavioral effects without necessarily replicating the underlying cognitive architecture—emphasizing what the system *does* rather than what it *experiences*.",
+        "line_number": 204,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Reflexion-Architecture",
+        "definition": "A three-module agent system consisting of an Actor (generating actions), an Evaluator (assessing trajectories against task objectives), and a Self-Reflection module (synthesizing verbal experience summaries), connected through an episodic memory buffer that persists reflections across trials to inform future action generation.",
+        "line_number": 243,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Episodic-Memory-Sliding-Window",
+        "definition": "A bounded memory architecture retaining only the k most recent reflections (typically k=3), preventing context overflow while ensuring the agent learns from immediate failures rather than accumulating potentially stale or contradictory historical guidance.",
+        "line_number": 272,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Diagnostic-Reflection-Pattern",
+        "definition": "The structured format for effective self-reflections: (1) Identify the specific failure point, (2) Attribute the failure to a concrete decision or assumption, (3) Explain *why* that decision was incorrect, (4) Propose a specific alternative approach for the next trial.",
+        "line_number": 305,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Reflection-vs-Retry-Distinction",
+        "definition": "The critical difference between productive self-reflection (generating structured analysis attributing failure to specific decisions and proposing concrete alternatives) versus unproductive retry (simply attempting the task again without targeted modification), where only the former produces systematic improvement across trials.",
+        "line_number": 321,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Trial-Cost-Tradeoff",
+        "definition": "The economic reality that self-reflective improvement requires multiple execution cycles, each consuming computational resources and potentially real-world costs, limiting applicability to domains where trial costs are manageable and iteration is feasible.",
+        "line_number": 336,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Self-Critique-Architecture",
+        "definition": "A general pattern where an agent's generation process includes explicit evaluation of its own outputs against specified criteria, followed by revision informed by that evaluation—decomposing generation into proposal, assessment, and refinement phases.",
+        "line_number": 346,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Constitutional-AI-Methodology",
+        "definition": "A training approach where the model generates responses, then critiques those responses against a set of explicit principles (the \"constitution\"), revises accordingly, and is subsequently trained on the critique-revision pairs—using self-generated preference data rather than human feedback for scalable alignment.",
+        "line_number": 368,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Self-Refine-Loop",
+        "definition": "An inference-time pattern where an LLM generates initial output, critiques that output producing specific improvement suggestions, then generates a revised output incorporating the suggestions—repeating until quality thresholds are met or iteration budgets are exhausted.",
+        "line_number": 396,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Chain-of-Verification",
+        "definition": "A self-critique pattern targeting factual accuracy, where the model (1) generates initial response, (2) extracts specific factual claims, (3) formulates verification questions that would confirm/deny each claim, (4) answers verification questions independently, and (5) revises claims where verification fails.",
+        "line_number": 437,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Prompt-Self-Optimization",
+        "definition": "The capacity for an agent to evaluate the effectiveness of its own prompts (including system prompts, few-shot examples, and reasoning templates), identify deficiencies, and generate modified prompts that improve task performance—treating prompts as optimizable artifacts rather than fixed instructions.",
+        "line_number": 449,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "DSPy-Framework",
+        "definition": "A programming framework for LLM applications that separates the logical specification of what a program should do (via signatures and modules) from the implementation details of how prompts are constructed—enabling automatic compilation of high-level specifications into optimized prompts through various teleprompters.",
+        "line_number": 457,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Teleprompter-Optimization",
+        "definition": "DSPy's abstraction for prompt optimization algorithms that take a program specification and training data, then automatically generate improved prompts (including instructions, demonstrations, and reasoning templates) through strategies like few-shot bootstrapping, instruction generation, or Bayesian optimization.",
+        "line_number": 500,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "OPRO-Methodology",
+        "definition": "A prompt optimization approach where the LLM acts as both the executor (running prompts on tasks) and the optimizer (generating new prompts based on performance history)—framing prompt engineering as an optimization problem solved through the model's own language capabilities.",
+        "line_number": 506,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "APE-Framework",
+        "definition": "An automatic prompt engineering system that treats prompts as programs to be synthesized from input-output specifications, using LLM-based proposal generation combined with selection based on execution-based scoring over a validation set.",
+        "line_number": 549,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Recursive-Prompt-Improvement",
+        "definition": "An iterative architecture where the agent (1) executes current prompt on tasks, (2) analyzes errors to identify prompt deficiencies, (3) proposes prompt modifications addressing identified deficiencies, (4) validates modifications on held-out examples, and (5) updates prompt if validation improves—enabling open-ended prompt evolution.",
+        "line_number": 569,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Fixed-Point-Convergence",
+        "definition": "The property of a self-improvement process where iterative modification eventually reaches a stable state—a prompt P* such that applying the improvement operator yields P* again, meaning the system judges the current prompt as optimal given its evaluation criteria.",
+        "line_number": 605,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Capability-Ceiling",
+        "definition": "The fundamental constraint that self-improvement in an LLM-based system cannot exceed the ceiling imposed by the base model's capabilities—the system cannot bootstrap into capabilities it lacks the competence to recognize, evaluate, or generate.",
+        "line_number": 626,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Prompt-Search-Dynamics",
+        "definition": "The tension in prompt optimization between exploitative refinement (local search from current prompt) and exploratory diversification (broader search for qualitatively different approaches)—requiring balance to avoid local optima while maintaining progress.",
+        "line_number": 646,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Self-Reference-Instability",
+        "definition": "The potential for self-modifying systems to enter unstable states where the modification process undermines its own foundations—for example, a prompt that instructs \"always simplify prompts\" might simplify itself to the point of dysfunction.",
+        "line_number": 658,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Value-Drift",
+        "definition": "The phenomenon where iterative self-modification gradually shifts a system's behavior away from its originally aligned values—potentially occurring when optimization pressure favors capability over constraint, or when safety instructions are perceived as obstacles to task performance.",
+        "line_number": 673,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Constitutional Anchoring",
+        "definition": "The practice of embedding inviolable principles in self-modifying systems that constrain the modification process itself—ensuring that certain values or behaviors cannot be optimized away regardless of task performance pressure.",
+        "line_number": 690,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Alignment-Amplification",
+        "definition": "The risk that weak misalignments in self-modifying systems become severe over iteration—each modification cycle potentially compounding small value drift into large divergence, analogous to error accumulation in numerical computation.",
+        "line_number": 727,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Recursive-Oversight-Problem",
+        "definition": "The challenge that oversight mechanisms implemented within a self-modifying system are subject to the same modification pressures as the system itself—requiring external anchoring or formal verification to provide genuine assurance.",
+        "line_number": 741,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "term": "Emergent-Metacognitive-Capabilities",
+        "definition": "The open question of whether sufficiently capable base models spontaneously develop reliable metacognitive abilities (accurate self-assessment, productive self-critique) or whether such capabilities require explicit architectural scaffolding regardless of scale.",
+        "line_number": 789,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      }
+    ],
+    "mermaid_diagrams": [
+      {
+        "diagram_code": "flowchart TB\n    subgraph Environment\n        E[Task Environment]\n    end\n    \n    subgraph Agent[\"Reflexion Agent\"]\n        Actor[Actor Module]\n        Evaluator[Evaluator Module]\n        SelfReflect[Self-Reflection Module]\n        Memory[(Episodic Memory)]\n    end\n    \n    E -->|Observation| Actor\n    Actor -->|Action| E\n    E -->|Trajectory + Outcome| Evaluator\n    Evaluator -->|Binary/Scalar Feedback| SelfReflect\n    SelfReflect -->|Reflective Text| Memory\n    Memory -->|Past Reflections| Actor\n    \n    style Memory fill:#f9f,stroke:#333\n    style SelfReflect fill:#bbf,stroke:#333",
+        "diagram_type": "flowchart",
+        "line_start": 219,
+        "line_count": 21,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "diagram_code": "flowchart LR\n    subgraph \"Self-Critique Loop\"\n        Gen[Generation] --> Out1[Initial Output]\n        Out1 --> Crit[Critique Module]\n        Crit --> Crit_Text[Critique: Problems Identified]\n        Crit_Text --> Rev[Revision Module]\n        Rev --> Out2[Revised Output]\n        Out2 --> Check{Quality<br/>Threshold?}\n        Check -->|No| Crit\n        Check -->|Yes| Final[Final Output]\n    end",
+        "diagram_type": "flowchart",
+        "line_start": 350,
+        "line_count": 11,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "diagram_code": "flowchart TB\n    subgraph \"Recursive Prompt Improvement\"\n        P0[Initial Prompt P₀]\n        Exec[Execute on Task Set]\n        Analyze[Error Analysis Module]\n        Propose[Prompt Modification Proposer]\n        Validate[Validation Module]\n        Update{Improvement?}\n        \n        P0 --> Exec\n        Exec -->|Errors, Failures| Analyze\n        Analyze -->|Identified Deficiencies| Propose\n        Propose -->|Candidate Modifications| Validate\n        Validate --> Update\n        Update -->|Yes| P1[Updated Prompt P₁]\n        Update -->|No| Keep[Keep Current Prompt]\n        P1 --> Exec\n    end",
+        "diagram_type": "flowchart",
+        "line_start": 576,
+        "line_count": 18,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "diagram_code": "flowchart TB\n    subgraph \"Safe Self-Improvement Pipeline\"\n        Propose[Propose Modification]\n        Safety[Safety Validation]\n        Task[Task Performance Check]\n        Approve{Both Pass?}\n        Apply[Apply Modification]\n        Reject[Reject Modification]\n        Log[Audit Log]\n        \n        Propose --> Safety\n        Safety --> Task\n        Task --> Approve\n        Approve -->|Yes| Apply\n        Approve -->|No| Reject\n        Apply --> Log\n        Reject --> Log\n    end",
+        "diagram_type": "flowchart",
+        "line_start": 702,
+        "line_count": 18,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      }
+    ],
+    "footnotes": [
+      {
+        "ref_id": "*",
+        "content": null,
+        "type": "reference",
+        "line_number": 53,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      },
+      {
+        "ref_id": "\\",
+        "content": null,
+        "type": "reference",
+        "line_number": 53,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      }
+    ],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Accurate diagnosis** of what went wrong",
+          "indent_level": 0,
+          "line_number": 243,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Attribution** to specific reasoning steps or decisions",
+          "indent_level": 0,
+          "line_number": 243,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Actionable hypotheses** for improvement",
+          "indent_level": 0,
+          "line_number": 243,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Appropriate generalization** (not too narrow, not too broad)",
+          "indent_level": 0,
+          "line_number": 243,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Generate initial response to prompt (potentially harmful/unhelpful)",
+          "indent_level": 0,
+          "line_number": 327,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Ask the model to critique response against constitutional principles",
+          "indent_level": 0,
+          "line_number": 327,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Ask the model to revise response based on critique",
+          "indent_level": 0,
+          "line_number": 327,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Train on (prompt, revised_response) pairs",
+          "indent_level": 0,
+          "line_number": 327,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Generate multiple responses to prompts",
+          "indent_level": 0,
+          "line_number": 329,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Use the model to compare responses against constitutional principles",
+          "indent_level": 0,
+          "line_number": 329,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Train a reward model on these AI-generated preferences",
+          "indent_level": 0,
+          "line_number": 329,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Use the reward model for RL fine-tuning",
+          "indent_level": 0,
+          "line_number": 329,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Generation Prompt**: Task-specific prompt for initial output",
+          "indent_level": 0,
+          "line_number": 348,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Feedback Prompt**: Elicits critique identifying specific problems",
+          "indent_level": 0,
+          "line_number": 352,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Refinement Prompt**: Takes original output + feedback, produces revision",
+          "indent_level": 0,
+          "line_number": 353,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Initialize**: Start with seed prompts (possibly human-written or random)",
+          "indent_level": 0,
+          "line_number": 437,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Evaluate**: Run each prompt on validation examples, measure performance",
+          "indent_level": 0,
+          "line_number": 439,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Update Meta-Prompt**: Add (prompt, score) pairs to optimization history",
+          "indent_level": 0,
+          "line_number": 439,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Generate**: Use LLM to propose new prompts based on history",
+          "indent_level": 0,
+          "line_number": 439,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Iterate**: Repeat until convergence or budget exhaustion",
+          "indent_level": 0,
+          "line_number": 443,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**[[Reflexion Architecture Implementation Patterns]]**",
+          "indent_level": 0,
+          "line_number": 679,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**[[Constitutional AI: Principles, Implementation, and Extensions]]**",
+          "indent_level": 0,
+          "line_number": 686,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**[[DSPy: Declarative Prompt Programming Framework]]**",
+          "indent_level": 0,
+          "line_number": 696,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**[[Capability Limitations in Self-Improving Systems]]**",
+          "indent_level": 0,
+          "line_number": 704,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**[[Prompt Injection and Self-Modification Attack Surfaces]]**",
+          "indent_level": 0,
+          "line_number": 727,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**[[Multi-Agent Metacognition and Collective Self-Improvement]]**",
+          "indent_level": 0,
+          "line_number": 735,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "Use LLM with demonstrations to propose diverse instructions",
+          "indent_level": 0,
+          "line_number": 457,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Employ prompt variations (forward vs. reverse generation)",
+          "indent_level": 0,
+          "line_number": 457,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Generate many candidates (typically 50-100+)",
+          "indent_level": 0,
+          "line_number": 457,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Evaluate each candidate on held-out validation set",
+          "indent_level": 0,
+          "line_number": 457,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Score based on task-specific metrics",
+          "indent_level": 0,
+          "line_number": 457,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Select highest-scoring prompt",
+          "indent_level": 0,
+          "line_number": 457,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Temperature scheduling**: Start with high exploration, reduce over time",
+          "indent_level": 0,
+          "line_number": 553,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Population-based methods**: Maintain diverse prompt population, evolve in parallel",
+          "indent_level": 0,
+          "line_number": 554,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Restart mechanisms**: Reset search from new random points periodically",
+          "indent_level": 0,
+          "line_number": 556,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Novelty bonuses**: Reward prompts that are semantically distinct from history",
+          "indent_level": 0,
+          "line_number": 558,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Frequent external validation (reduce n between checkpoints)",
+          "indent_level": 0,
+          "line_number": 630,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Strong alignment properties (increase base alignment)",
+          "indent_level": 0,
+          "line_number": 630,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Conservative modification (reduce alignment loss per iteration)",
+          "indent_level": 0,
+          "line_number": 632,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**External validators**: Human review of modification proposals",
+          "indent_level": 0,
+          "line_number": 643,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Formal verification**: Mathematical proofs that certain properties are preserved",
+          "indent_level": 0,
+          "line_number": 643,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Diverse redundancy**: Multiple independent oversight systems that must agree",
+          "indent_level": 0,
+          "line_number": 644,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Capability limitations**: Restrict the system's ability to modify oversight components",
+          "indent_level": 0,
+          "line_number": 646,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Level 0**: Task execution with confidence estimation",
+          "indent_level": 0,
+          "line_number": 648,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Level 1**: Output self-critique against quality criteria",
+          "indent_level": 0,
+          "line_number": 649,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Level 2**: Trajectory reflection for episode-level learning",
+          "indent_level": 0,
+          "line_number": 650,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Level 3**: Prompt evaluation and modification",
+          "indent_level": 0,
+          "line_number": 651,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Identify modifiable vs. immutable prompt components",
+          "indent_level": 0,
+          "line_number": 652,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Define permitted modification types (additions, refinements, not deletions of safety content)",
+          "indent_level": 0,
+          "line_number": 652,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Implement validation gates between modification proposal and application",
+          "indent_level": 0,
+          "line_number": 656,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Internal consistency checking",
+          "indent_level": 0,
+          "line_number": 658,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "External ground truth (where available)",
+          "indent_level": 0,
+          "line_number": 658,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Human feedback integration points",
+          "indent_level": 0,
+          "line_number": 658,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Red-team adversarial probing",
+          "indent_level": 0,
+          "line_number": 658,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Fallback to more conservative behavior when confidence is low",
+          "indent_level": 0,
+          "line_number": 658,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Circuit breakers that halt modification under anomalous conditions",
+          "indent_level": 0,
+          "line_number": 660,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "Rollback capabilities to known-good states",
+          "indent_level": 0,
+          "line_number": 660,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Connection**: Deep technical elaboration on implementing Reflexion in production systems, including memory management, prompt engineering for self-reflection, and integration with existing agent frameworks",
+          "indent_level": 1,
+          "line_number": 681,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Connection**: Deep dive into constitutional training methodology, constitution design patterns, and the relationship between explicit principles and behavioral alignment",
+          "indent_level": 1,
+          "line_number": 688,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Depth Potential**: Constitution design frameworks, RLAIF implementation details, comparison with RLHF, constitutional hierarchy patterns, principle conflict resolution",
+          "indent_level": 1,
+          "line_number": 690,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Knowledge Graph Role**: Core alignment node connecting safety research to practical system design",
+          "indent_level": 1,
+          "line_number": 694,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Priority**: High - Foundational for safe AI development",
+          "indent_level": 1,
+          "line_number": 694,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Connection**: Comprehensive reference on DSPy's architecture, teleprompter implementations, and patterns for building optimizable prompt programs",
+          "indent_level": 1,
+          "line_number": 696,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Depth Potential**: Module design patterns, signature specification best practices, teleprompter selection criteria, integration with evaluation frameworks",
+          "indent_level": 1,
+          "line_number": 698,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Knowledge Graph Role**: Technical framework node in prompt engineering methodology cluster",
+          "indent_level": 1,
+          "line_number": 700,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Priority**: High - Primary tooling for systematic prompt optimization",
+          "indent_level": 1,
+          "line_number": 700,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Connection**: Theoretical analysis of fundamental constraints on self-improvement, including formal results on fixed points, capability ceilings, and computational irreducibility",
+          "indent_level": 1,
+          "line_number": 706,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Depth Potential**: Formal frameworks for analyzing self-improvement bounds, connections to Gödel's theorems and computational complexity, empirical calibration of theoretical predictions",
+          "indent_level": 1,
+          "line_number": 711,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Knowledge Graph Role**: Theoretical foundations node constraining expectations for meta-cognitive architectures",
+          "indent_level": 1,
+          "line_number": 719,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Priority**: Medium - Important for realistic system design expectations",
+          "indent_level": 1,
+          "line_number": 725,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Connection**: Security analysis of self-modifying prompt systems, including adversarial prompt injection, persistence mechanisms, and defensive architectures",
+          "indent_level": 1,
+          "line_number": 727,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Depth Potential**: Attack taxonomy, red-team methodologies, defensive prompt engineering, secure modification pipelines, isolation patterns",
+          "indent_level": 1,
+          "line_number": 729,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Knowledge Graph Role**: Security node bridging AI safety to adversarial robustness",
+          "indent_level": 1,
+          "line_number": 731,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Priority**: Medium - Critical for deployment but specialized audience",
+          "indent_level": 1,
+          "line_number": 732,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Knowledge Graph Role**: Advanced node extending single-agent metacognition to distributed systems",
+          "indent_level": 1,
+          "line_number": 739,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "**Priority**: Medium - Emerging research direction with significant potential",
+          "indent_level": 1,
+          "line_number": 739,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        },
+        {
+          "text": "[ ] Review [[Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts]] (needs-review | speculative) 📅 2026-01-03 🔼 🔁 every 1 week #review",
+          "indent_level": 0,
+          "line_number": 761,
+          "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{letter} (",
+        "format": "inline",
+        "line_number": 48,
+        "source": "prompt-report-self-reflection-and-meta-cognition-2025122718.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "**Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts**",
+      "APE (Automatic Prompt Engineer)",
+      "Actor Module",
+      "Anthropic",
+      "Bai et al. (2022)",
+      "Capability Limitations in Self-Improving Systems",
+      "Capability ceilings",
+      "Chain-of-Verification",
+      "Chain-of-Verification (CoVe)",
+      "Confabulated Reflections",
+      "Constitutional AI",
+      "Constitutional AI (CAI)",
+      "Constitutional AI: Principles, Implementation, and Extensions",
+      "DSPy",
+      "DSPy: Declarative Prompt Programming Framework",
+      "Dhuliawala et al. (2023)",
+      "Dunlosky and Metcalfe (2009)",
+      "Evaluator Module",
+      "John Flavell",
+      "Madaan et al. (2023)",
+      "Meta-Recursive Intelligence",
+      "Multi-Agent Metacognition and Collective Self-Improvement",
+      "Nelson and Narens (1990)",
+      "OPRO (Optimization by PROmpting)",
+      "Perez et al. (2022)",
+      "Prompt Injection and Self-Modification Attack Surfaces",
+      "Reflexion",
+      "Reflexion Architecture Implementation Patterns",
+      "Self-Refine",
+      "Self-Reflection Module",
+      "Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts",
+      "Shinn et al. (2023)",
+      "Stanford NLP Group",
+      "Yang et al. (2023)",
+      "Zhou et al. (2023)"
+    ],
+    "unique_wiki_link_count": 35,
+    "unique_tags": [
+      "#review"
+    ],
+    "unique_tag_count": 1,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "**Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts**",
+      "APE (Automatic Prompt Engineer)",
+      "Actor Module",
+      "Anthropic",
+      "Bai et al. (2022)",
+      "Capability Limitations in Self-Improving Systems",
+      "Capability ceilings",
+      "Chain-of-Verification",
+      "Chain-of-Verification (CoVe)",
+      "Confabulated Reflections",
+      "Constitutional AI",
+      "Constitutional AI (CAI)",
+      "Constitutional AI: Principles, Implementation, and Extensions",
+      "DSPy",
+      "DSPy: Declarative Prompt Programming Framework",
+      "Dhuliawala et al. (2023)",
+      "Dunlosky and Metcalfe (2009)",
+      "Evaluator Module",
+      "John Flavell",
+      "Madaan et al. (2023)",
+      "Meta-Recursive Intelligence",
+      "Multi-Agent Metacognition and Collective Self-Improvement",
+      "Nelson and Narens (1990)",
+      "OPRO (Optimization by PROmpting)",
+      "Perez et al. (2022)",
+      "Prompt Injection and Self-Modification Attack Surfaces",
+      "Reflexion",
+      "Reflexion Architecture Implementation Patterns",
+      "Self-Refine",
+      "Self-Reflection Module",
+      "Self-Reflection and Meta-Cognition: Agents That Improve Their Own Prompts",
+      "Shinn et al. (2023)",
+      "Stanford NLP Group",
+      "Yang et al. (2023)",
+      "Zhou et al. (2023)"
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:06.024188",
+    "source_file": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+    "source_file_size_bytes": 7651,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Stoic Philosophy: Figures, Principles, and Modern Application",
+      "id": "20251107-171419",
+      "type": "✍️topics",
+      "status": "⚡active",
+      "rating": "",
+      "source": "RSCA-v2.0🆔20251020224705",
+      "url": "",
+      "tags": [
+        "topic",
+        "topic/educational",
+        "topic/rsca",
+        "source/rsca",
+        "philosophy"
+      ],
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "link-up": "[[topics_moc]]",
+      "link-related": []
+    },
+    "word_count": 962,
+    "character_count": 7255,
+    "line_count": 110,
+    "heading_count": 7
+  },
+  "extraction_summary": {
+    "total_items_extracted": 22,
+    "by_type": {
+      "headings": 7,
+      "callouts": 7,
+      "wiki_links": 1,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 1,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 2,
+      "text": "🏛️ The Crucible of Practice: A Comparative Analysis of Epictetus, Seneca, and Marcus Aurelius",
+      "anchor": "the-crucible-of-practice-a-comparative-analysis-of-epictetus-seneca-and-marcus-aurelius",
+      "line_number": 35,
+      "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🛡️ The Stoic Mind: A Cognitive Shield Against Bias and Fallacy",
+      "anchor": "the-stoic-mind-a-cognitive-shield-against-bias-and-fallacy",
+      "line_number": 51,
+      "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🧠 The Ancient Roots of Modern Psychology: Stoicism, Metacognition, and Self-Regulation",
+      "anchor": "the-ancient-roots-of-modern-psychology-stoicism-metacognition-and-self-regulation",
+      "line_number": 67,
+      "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "⚙️ The Mechanics of Tranquility: Why Stoic Techniques Endure and How They Function",
+      "anchor": "the-mechanics-of-tranquility-why-stoic-techniques-endure-and-how-they-function",
+      "line_number": 83,
+      "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "📚 The Stoic as Self-Educator: A Framework for Lifelong Learning and Personal Development",
+      "anchor": "the-stoic-as-self-educator-a-framework-for-lifelong-learning-and-personal-development",
+      "line_number": 99,
+      "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "⚖️ The Judicious Application: Benefits of Correct Practice vs. Pitfalls of Misinterpretation",
+      "anchor": "the-judicious-application-benefits-of-correct-practice-vs-pitfalls-of-misinterpretation",
+      "line_number": 115,
+      "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 127,
+      "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set deconstructs the subject of Stoicism, moving beyond a simple historical overview. It is designed to directly address your questions about its three main figures—Epictetus, Seneca, and Marcus Aurelius—by focusing on *how* their unique life experiences shaped their philosophies. The topics then bridge this historical context to modern-day relevance, investigating the psychological mechanisms that make Stoic principles effective. These avenues of inquiry explore Stoicism's power as a tool for daily life, a shield against cognitive biases, and a direct precursor to contemporary psychological theories like metacognition and self-regulation.",
+        "line_number": 26,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+        "char_start": 437,
+        "char_end": 1115
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 33,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+        "char_start": 1134,
+        "char_end": 1150
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 49,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+        "char_start": 2152,
+        "char_end": 2168
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 65,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+        "char_start": 3072,
+        "char_end": 3088
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 81,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+        "char_start": 4042,
+        "char_end": 4058
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 97,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+        "char_start": 4987,
+        "char_end": 5003
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 113,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md",
+        "char_start": 5901,
+        "char_end": 5917
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "2025-11-25",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2025-11-25]]",
+        "line_number": 79,
+        "section": "🧠 The Ancient Roots of Modern Psychology: Stoicism, Metacognition, and Self-Regulation",
+        "context_line": "**Used?** [[2025-11-25]]",
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 2,
+        "text": "🏛️ The Crucible of Practice: A Comparative Analysis of Epictetus, Seneca, and Marcus Aurelius",
+        "anchor": "the-crucible-of-practice-a-comparative-analysis-of-epictetus-seneca-and-marcus-aurelius",
+        "line_number": 35,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      },
+      {
+        "level": 2,
+        "text": "🛡️ The Stoic Mind: A Cognitive Shield Against Bias and Fallacy",
+        "anchor": "the-stoic-mind-a-cognitive-shield-against-bias-and-fallacy",
+        "line_number": 51,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      },
+      {
+        "level": 2,
+        "text": "🧠 The Ancient Roots of Modern Psychology: Stoicism, Metacognition, and Self-Regulation",
+        "anchor": "the-ancient-roots-of-modern-psychology-stoicism-metacognition-and-self-regulation",
+        "line_number": 67,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ The Mechanics of Tranquility: Why Stoic Techniques Endure and How They Function",
+        "anchor": "the-mechanics-of-tranquility-why-stoic-techniques-endure-and-how-they-function",
+        "line_number": 83,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      },
+      {
+        "level": 2,
+        "text": "📚 The Stoic as Self-Educator: A Framework for Lifelong Learning and Personal Development",
+        "anchor": "the-stoic-as-self-educator-a-framework-for-lifelong-learning-and-personal-development",
+        "line_number": 99,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      },
+      {
+        "level": 2,
+        "text": "⚖️ The Judicious Application: Benefits of Correct Practice vs. Pitfalls of Misinterpretation",
+        "anchor": "the-judicious-application-benefits-of-correct-practice-vs-pitfalls-of-misinterpretation",
+        "line_number": 115,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 127,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "A comparative analysis of how the distinct life circumstances of Epictetus, Seneca, and Marcus Aurelius—namely slavery, political intrigue, and military command—functioned as practical laboratories for the application, refinement, and articulation of Stoic principles, and how these unique contexts are reflected in the core themes of their respective works.",
+        "line_start": 41,
+        "line_end": 43,
+        "char_count": 358,
+        "line_count": 1,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A systematic investigation into the principles of Stoic cognition as a practical framework for identifying and mitigating the negative impacts of cognitive biases and logical fallacies, analyzing its efficacy as a contemporary tool for enhancing rational thought, emotional objectivity, and sound judgment.",
+        "line_start": 57,
+        "line_end": 59,
+        "char_count": 306,
+        "line_count": 1,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "An integrative analysis of the conceptual linkages between classical Stoic philosophy and foundational theories in modern psychology, specifically examining Stoic principles as a coherent, ancient framework for understanding and practicing Metacognition, Emotional Self-Regulation, and Self-Determination Theory.",
+        "line_start": 73,
+        "line_end": 75,
+        "char_count": 312,
+        "line_count": 1,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A detailed examination of the core psychological mechanisms underlying the efficacy and multi-millennial longevity of Stoic techniques, analyzing how specific practices function to reframe cognitive appraisals, decouple external events from internal responses, and promote psychological resilience in daily life.",
+        "line_start": 89,
+        "line_end": 91,
+        "char_count": 312,
+        "line_count": 1,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "An analysis of Stoic philosophy as a comprehensive andragogical framework for self-directed learning and personal development, investigating its application in fostering self-behavioral management, intellectual virtue, critical self-reflection, and the systematic pursuit of self-educated knowledge.",
+        "line_start": 105,
+        "line_end": 107,
+        "char_count": 299,
+        "line_count": 1,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A critical analysis of the psychological and behavioral benefits derived from the correct and judicious application of core Stoic principles, contrasted with the negative consequences of common modern misinterpretations, such as emotional suppression versus emotional regulation and passive fatalism versus proactive virtue.",
+        "line_start": 121,
+        "line_end": 123,
+        "char_count": 324,
+        "line_count": 1,
+        "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "**Related Topics & Subtopics:** This section can briefly list other highly relevant areas of study that are adjacent to the primary topic. This demonstrates an awareness of the broader field and provides the user with pathways for continued learning. Examples could include specific phenomena (The Sunyaev-Zel'dovich Effect), advanced concepts (Redshift-Space Distortions), or related methodologies (Weak Gravitational Lensing). This final touch aligns with the persona of a true Academic Curator who not only answers the immediate request but also guides future inquiry.",
+          "indent_level": 1,
+          "line_number": 99,
+          "source": "topic-set_stoic-philosophy-figures-principles-and-modern-application_🆔20251107171404.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "2025-11-25"
+    ],
+    "unique_wiki_link_count": 1,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "2025-11-25"
+    ]
+  }
+}

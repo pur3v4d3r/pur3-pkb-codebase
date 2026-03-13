@@ -1,0 +1,4810 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:17:24.458162",
+    "source_file": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\01-reports\\02_pkb-and-pkm\\reference-comprehensive-Meta-Bind-Reference-Complete.md",
+    "source_file_size_bytes": 38198,
+    "processing_time_seconds": 0.02
+  },
+  "document_metadata": {
+    "frontmatter": {},
+    "word_count": 4224,
+    "character_count": 38109,
+    "line_count": 1934,
+    "heading_count": 127
+  },
+  "extraction_summary": {
+    "total_items_extracted": 483,
+    "by_type": {
+      "headings": 127,
+      "callouts": 0,
+      "wiki_links": 5,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 10,
+      "code_blocks": 139,
+      "tables": 2,
+      "external_links": 3,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 14,
+      "lists_unordered": 179,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 4
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Meta Bind Plugin - Complete Reference Guide",
+      "anchor": "meta-bind-plugin-complete-reference-guide",
+      "line_number": 1,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Table of Contents",
+          "anchor": "table-of-contents",
+          "line_number": 20,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Quick Start Syntax",
+          "anchor": "quick-start-syntax",
+          "line_number": 33,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Basic Input Field",
+              "anchor": "basic-input-field",
+              "line_number": 35,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Basic View Field",
+              "anchor": "basic-view-field",
+              "line_number": 41,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Basic Button (Inline)",
+              "anchor": "basic-button-inline",
+              "line_number": 48,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Basic Button (Code Block)",
+              "anchor": "basic-button-code-block",
+              "line_number": 53,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Input Fields",
+          "anchor": "input-fields",
+          "line_number": 66,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. Toggle (Boolean)",
+              "anchor": "1-toggle-boolean",
+              "line_number": 68,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. Text Input",
+              "anchor": "2-text-input",
+              "line_number": 102,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. Text Area (Multi-line)",
+              "anchor": "3-text-area-multi-line",
+              "line_number": 126,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. Number",
+              "anchor": "4-number",
+              "line_number": 154,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5. Slider",
+              "anchor": "5-slider",
+              "line_number": 178,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6. Select (Single Choice)",
+              "anchor": "6-select-single-choice",
+              "line_number": 216,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "7. Inline Select (Compact Dropdown)",
+              "anchor": "7-inline-select-compact-dropdown",
+              "line_number": 251,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "8. Multi-Select (Multiple Choices)",
+              "anchor": "8-multi-select-multiple-choices",
+              "line_number": 275,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "9. Date Picker",
+              "anchor": "9-date-picker",
+              "line_number": 312,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "10. Date-Time",
+              "anchor": "10-date-time",
+              "line_number": 335,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "11. Time",
+              "anchor": "11-time",
+              "line_number": 354,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "12. Suggester (Autocomplete)",
+              "anchor": "12-suggester-autocomplete",
+              "line_number": 373,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "13. List",
+              "anchor": "13-list",
+              "line_number": 411,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Action Items",
+          "anchor": "action-items",
+          "line_number": 439,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "14. List Suggester",
+              "anchor": "14-list-suggester",
+              "line_number": 445,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "15. Image Suggester",
+              "anchor": "15-image-suggester",
+              "line_number": 466,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "16. Progress Bar (Display Only)",
+              "anchor": "16-progress-bar-display-only",
+              "line_number": 490,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "View Fields",
+          "anchor": "view-fields",
+          "line_number": 513,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. Math View (Default)",
+              "anchor": "1-math-view-default",
+              "line_number": 515,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. Text View",
+              "anchor": "2-text-view",
+              "line_number": 564,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. Link View",
+              "anchor": "3-link-view",
+              "line_number": 592,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. Image View",
+              "anchor": "4-image-view",
+              "line_number": 612,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Buttons",
+          "anchor": "buttons",
+          "line_number": 631,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Inline Button Reference",
+              "anchor": "inline-button-reference",
+              "line_number": 633,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Code Block Button Definition",
+              "anchor": "code-block-button-definition",
+              "line_number": 657,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Button Styles",
+              "anchor": "button-styles",
+              "line_number": 678,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Button Properties",
+              "anchor": "button-properties",
+              "line_number": 699,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Button Action Types",
+              "anchor": "button-action-types",
+              "line_number": 718,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "1. Command Action",
+                  "anchor": "1-command-action",
+                  "line_number": 720,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "2. JavaScript Action",
+                  "anchor": "2-javascript-action",
+                  "line_number": 753,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "3. Inline JavaScript Action",
+                  "anchor": "3-inline-javascript-action",
+                  "line_number": 787,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "4. Open Action",
+                  "anchor": "4-open-action",
+                  "line_number": 815,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "5. Input Action",
+                  "anchor": "5-input-action",
+                  "line_number": 844,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "6. Sleep Action",
+                  "anchor": "6-sleep-action",
+                  "line_number": 865,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "7. Update Metadata Action",
+                  "anchor": "7-update-metadata-action",
+                  "line_number": 892,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "8. Templater Create Note Action",
+                  "anchor": "8-templater-create-note-action",
+                  "line_number": 932,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "9. Run Templater File Action",
+                  "anchor": "9-run-templater-file-action",
+                  "line_number": 959,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "10. Create Note Action",
+                  "anchor": "10-create-note-action",
+                  "line_number": 980,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "11. Replace In Note Action",
+                  "anchor": "11-replace-in-note-action",
+                  "line_number": 1005,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "12. Regexp Replace In Note Action",
+                  "anchor": "12-regexp-replace-in-note-action",
+                  "line_number": 1030,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "13. Insert Into Note Action",
+                  "anchor": "13-insert-into-note-action",
+                  "line_number": 1055,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "14. Replace Self Action",
+                  "anchor": "14-replace-self-action",
+                  "line_number": 1078,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "Multi-Action Buttons",
+              "anchor": "multi-action-buttons",
+              "line_number": 1101,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Bind Target Syntax",
+          "anchor": "bind-target-syntax",
+          "line_number": 1163,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Structure",
+              "anchor": "structure",
+              "line_number": 1165,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Components",
+              "anchor": "components",
+              "line_number": 1172,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Examples",
+              "anchor": "examples",
+              "line_number": 1188,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "JavaScript View Fields",
+          "anchor": "javascript-view-fields",
+          "line_number": 1237,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Basic Syntax",
+              "anchor": "basic-syntax",
+              "line_number": 1241,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Structure",
+              "anchor": "structure",
+              "line_number": 1254,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Context API",
+              "anchor": "context-api",
+              "line_number": 1261,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Examples",
+              "anchor": "examples",
+              "line_number": 1269,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Example 1: Simple Calculation",
+                  "anchor": "example-1-simple-calculation",
+                  "line_number": 1271,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Example 2: Formatted Output",
+                  "anchor": "example-2-formatted-output",
+                  "line_number": 1289,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Example 3: Conditional Display",
+                  "anchor": "example-3-conditional-display",
+                  "line_number": 1306,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Example 4: List Processing",
+                  "anchor": "example-4-list-processing",
+                  "line_number": 1327,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Example 5: Date Calculations",
+                  "anchor": "example-5-date-calculations",
+                  "line_number": 1346,
+                  "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Template Examples",
+          "anchor": "template-examples",
+          "line_number": 1367,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Template 1: Project Note",
+              "anchor": "template-1-project-note",
+              "line_number": 1369,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "<%= tp.file.title %>",
+      "anchor": "",
+      "line_number": 1384,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Metadata",
+          "anchor": "metadata",
+          "line_number": 1386,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Description",
+          "anchor": "description",
+          "line_number": 1409,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Action Items",
+          "anchor": "action-items",
+          "line_number": 1413,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Notes",
+          "anchor": "notes",
+          "line_number": 1417,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Template 2: Meeting Notes",
+              "anchor": "template-2-meeting-notes",
+              "line_number": 1452,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "<%= tp.file.title %>",
+      "anchor": "",
+      "line_number": 1468,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Meeting Details",
+          "anchor": "meeting-details",
+          "line_number": 1470,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Attendees",
+          "anchor": "attendees",
+          "line_number": 1477,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Topics Discussed",
+          "anchor": "topics-discussed",
+          "line_number": 1481,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Notes",
+          "anchor": "notes",
+          "line_number": 1485,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Action Items",
+          "anchor": "action-items",
+          "line_number": 1489,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Decisions Made",
+          "anchor": "decisions-made",
+          "line_number": 1493,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Template 3: Task/Report Note",
+              "anchor": "template-3-taskreport-note",
+              "line_number": 1523,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "<%= tp.file.title %>",
+      "anchor": "",
+      "line_number": 1541,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Task Details",
+          "anchor": "task-details",
+          "line_number": 1543,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Dates",
+          "anchor": "dates",
+          "line_number": 1557,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Time Tracking",
+          "anchor": "time-tracking",
+          "line_number": 1564,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Description",
+          "anchor": "description",
+          "line_number": 1570,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Checklist",
+          "anchor": "checklist",
+          "line_number": 1574,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Notes",
+          "anchor": "notes",
+          "line_number": 1578,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Template 4: Reading/Learning Note",
+              "anchor": "template-4-readinglearning-note",
+              "line_number": 1605,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "<%= tp.file.title %>",
+      "anchor": "",
+      "line_number": 1623,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Metadata",
+          "anchor": "metadata",
+          "line_number": 1625,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Dates",
+          "anchor": "dates",
+          "line_number": 1648,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Summary",
+          "anchor": "summary",
+          "line_number": 1654,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Key Takeaways",
+          "anchor": "key-takeaways",
+          "line_number": 1658,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Notes",
+          "anchor": "notes",
+          "line_number": 1662,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Related",
+          "anchor": "related",
+          "line_number": 1666,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Template 5: Budget Tracker",
+              "anchor": "template-5-budget-tracker",
+              "line_number": 1697,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "<%= tp.file.title %>",
+      "anchor": "",
+      "line_number": 1713,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Budget Overview",
+          "anchor": "budget-overview",
+          "line_number": 1715,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Expenditures",
+          "anchor": "expenditures",
+          "line_number": 1719,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Calculations",
+          "anchor": "calculations",
+          "line_number": 1726,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Notes",
+          "anchor": "notes",
+          "line_number": 1752,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Plugin Configuration",
+          "anchor": "plugin-configuration",
+          "line_number": 1759,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Location",
+              "anchor": "location",
+              "line_number": 1761,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Configuration Options",
+              "anchor": "configuration-options",
+              "line_number": 1766,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Key Settings",
+              "anchor": "key-settings",
+              "line_number": 1789,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Best Practices",
+          "anchor": "best-practices",
+          "line_number": 1808,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. Organize with Templates",
+              "anchor": "1-organize-with-templates",
+              "line_number": 1810,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. Performance Considerations",
+              "anchor": "2-performance-considerations",
+              "line_number": 1815,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. Property Naming",
+              "anchor": "3-property-naming",
+              "line_number": 1821,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. Button Organization",
+              "anchor": "4-button-organization",
+              "line_number": 1826,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5. Input Field Selection",
+              "anchor": "5-input-field-selection",
+              "line_number": 1832,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6. View Field Usage",
+              "anchor": "6-view-field-usage",
+              "line_number": 1838,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Quick Reference Card",
+          "anchor": "quick-reference-card",
+          "line_number": 1846,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Input Field Syntax",
+              "anchor": "input-field-syntax",
+              "line_number": 1848,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "View Field Syntax",
+              "anchor": "view-field-syntax",
+              "line_number": 1854,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Button Syntax",
+              "anchor": "button-syntax",
+              "line_number": 1861,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Bind Target Syntax",
+              "anchor": "bind-target-syntax",
+              "line_number": 1876,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Common Patterns",
+              "anchor": "common-patterns",
+              "line_number": 1886,
+              "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Toggle",
+      "anchor": "toggle",
+      "line_number": 1888,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Status Dropdown",
+      "anchor": "status-dropdown",
+      "line_number": 1891,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Progress Bar",
+      "anchor": "progress-bar",
+      "line_number": 1894,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Date Range",
+      "anchor": "date-range",
+      "line_number": 1898,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "List Input",
+      "anchor": "list-input",
+      "line_number": 1902,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Math View",
+      "anchor": "math-view",
+      "line_number": 1905,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Complete Button",
+      "anchor": "complete-button",
+      "line_number": 1908,
+      "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Resources",
+          "anchor": "resources",
+          "line_number": 1922,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [],
+    "wiki_links": [
+      {
+        "target": "Note Name",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Note Name]]",
+        "line_number": 392,
+        "section": "12. Suggester (Autocomplete)",
+        "context_line": "- `true` - Full wikilink: `[[Note Name]]`",
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "target": "Note Name",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Note Name]]",
+        "line_number": 826,
+        "section": "4. Open Action",
+        "context_line": "link: \"[[Note Name]]\"",
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "target": "wikilink",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[wikilink]]",
+        "line_number": 840,
+        "section": "4. Open Action",
+        "context_line": "- `link: \"url or [[wikilink]]\"` - URL or note link",
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "target": "Projects MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Projects MOC]]",
+        "line_number": 1122,
+        "section": "Multi-Action Buttons",
+        "context_line": "link: \"[[Projects MOC]]\"",
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "target": "Projects Dashboard",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Projects Dashboard]]",
+        "line_number": 1157,
+        "section": "Multi-Action Buttons",
+        "context_line": "link: \"[[Projects Dashboard]]\"",
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "quick-start-syntax",
+        "full_tag": "#quick-start-syntax",
+        "hierarchy": [
+          "quick-start-syntax"
+        ],
+        "line_number": 22,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "tag": "input-fields",
+        "full_tag": "#input-fields",
+        "hierarchy": [
+          "input-fields"
+        ],
+        "line_number": 23,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "tag": "view-fields",
+        "full_tag": "#view-fields",
+        "hierarchy": [
+          "view-fields"
+        ],
+        "line_number": 24,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "tag": "buttons",
+        "full_tag": "#buttons",
+        "hierarchy": [
+          "buttons"
+        ],
+        "line_number": 25,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "tag": "bind-target-syntax",
+        "full_tag": "#bind-target-syntax",
+        "hierarchy": [
+          "bind-target-syntax"
+        ],
+        "line_number": 26,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "tag": "javascript-view-fields",
+        "full_tag": "#javascript-view-fields",
+        "hierarchy": [
+          "javascript-view-fields"
+        ],
+        "line_number": 27,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "tag": "template-examples",
+        "full_tag": "#template-examples",
+        "hierarchy": [
+          "template-examples"
+        ],
+        "line_number": 28,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "tag": "plugin-configuration",
+        "full_tag": "#plugin-configuration",
+        "hierarchy": [
+          "plugin-configuration"
+        ],
+        "line_number": 29,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "tag": "tag",
+        "full_tag": "#tag",
+        "hierarchy": [
+          "tag"
+        ],
+        "line_number": 186,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "tag": "propertyName",
+        "full_tag": "#propertyName",
+        "hierarchy": [
+          "propertyName"
+        ],
+        "line_number": 780,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Meta Bind Plugin - Complete Reference Guide",
+        "anchor": "meta-bind-plugin-complete-reference-guide",
+        "line_number": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Table of Contents",
+        "anchor": "table-of-contents",
+        "line_number": 20,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Quick Start Syntax",
+        "anchor": "quick-start-syntax",
+        "line_number": 33,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Input Field",
+        "anchor": "basic-input-field",
+        "line_number": 35,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic View Field",
+        "anchor": "basic-view-field",
+        "line_number": 41,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Button (Inline)",
+        "anchor": "basic-button-inline",
+        "line_number": 48,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Button (Code Block)",
+        "anchor": "basic-button-code-block",
+        "line_number": 53,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Input Fields",
+        "anchor": "input-fields",
+        "line_number": 66,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "1. Toggle (Boolean)",
+        "anchor": "1-toggle-boolean",
+        "line_number": 68,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "2. Text Input",
+        "anchor": "2-text-input",
+        "line_number": 102,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "3. Text Area (Multi-line)",
+        "anchor": "3-text-area-multi-line",
+        "line_number": 126,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "4. Number",
+        "anchor": "4-number",
+        "line_number": 154,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "5. Slider",
+        "anchor": "5-slider",
+        "line_number": 178,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "6. Select (Single Choice)",
+        "anchor": "6-select-single-choice",
+        "line_number": 216,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "7. Inline Select (Compact Dropdown)",
+        "anchor": "7-inline-select-compact-dropdown",
+        "line_number": 251,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "8. Multi-Select (Multiple Choices)",
+        "anchor": "8-multi-select-multiple-choices",
+        "line_number": 275,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "9. Date Picker",
+        "anchor": "9-date-picker",
+        "line_number": 312,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "10. Date-Time",
+        "anchor": "10-date-time",
+        "line_number": 335,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "11. Time",
+        "anchor": "11-time",
+        "line_number": 354,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "12. Suggester (Autocomplete)",
+        "anchor": "12-suggester-autocomplete",
+        "line_number": 373,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "13. List",
+        "anchor": "13-list",
+        "line_number": 411,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Action Items",
+        "anchor": "action-items",
+        "line_number": 439,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "14. List Suggester",
+        "anchor": "14-list-suggester",
+        "line_number": 445,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "15. Image Suggester",
+        "anchor": "15-image-suggester",
+        "line_number": 466,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "16. Progress Bar (Display Only)",
+        "anchor": "16-progress-bar-display-only",
+        "line_number": 490,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "View Fields",
+        "anchor": "view-fields",
+        "line_number": 513,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "1. Math View (Default)",
+        "anchor": "1-math-view-default",
+        "line_number": 515,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "2. Text View",
+        "anchor": "2-text-view",
+        "line_number": 564,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "3. Link View",
+        "anchor": "3-link-view",
+        "line_number": 592,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "4. Image View",
+        "anchor": "4-image-view",
+        "line_number": 612,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Buttons",
+        "anchor": "buttons",
+        "line_number": 631,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Inline Button Reference",
+        "anchor": "inline-button-reference",
+        "line_number": 633,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Code Block Button Definition",
+        "anchor": "code-block-button-definition",
+        "line_number": 657,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Button Styles",
+        "anchor": "button-styles",
+        "line_number": 678,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Button Properties",
+        "anchor": "button-properties",
+        "line_number": 699,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Button Action Types",
+        "anchor": "button-action-types",
+        "line_number": 718,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "1. Command Action",
+        "anchor": "1-command-action",
+        "line_number": 720,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "2. JavaScript Action",
+        "anchor": "2-javascript-action",
+        "line_number": 753,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "3. Inline JavaScript Action",
+        "anchor": "3-inline-javascript-action",
+        "line_number": 787,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "4. Open Action",
+        "anchor": "4-open-action",
+        "line_number": 815,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "5. Input Action",
+        "anchor": "5-input-action",
+        "line_number": 844,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "6. Sleep Action",
+        "anchor": "6-sleep-action",
+        "line_number": 865,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "7. Update Metadata Action",
+        "anchor": "7-update-metadata-action",
+        "line_number": 892,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "8. Templater Create Note Action",
+        "anchor": "8-templater-create-note-action",
+        "line_number": 932,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "9. Run Templater File Action",
+        "anchor": "9-run-templater-file-action",
+        "line_number": 959,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "10. Create Note Action",
+        "anchor": "10-create-note-action",
+        "line_number": 980,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "11. Replace In Note Action",
+        "anchor": "11-replace-in-note-action",
+        "line_number": 1005,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "12. Regexp Replace In Note Action",
+        "anchor": "12-regexp-replace-in-note-action",
+        "line_number": 1030,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "13. Insert Into Note Action",
+        "anchor": "13-insert-into-note-action",
+        "line_number": 1055,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "14. Replace Self Action",
+        "anchor": "14-replace-self-action",
+        "line_number": 1078,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Multi-Action Buttons",
+        "anchor": "multi-action-buttons",
+        "line_number": 1101,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Bind Target Syntax",
+        "anchor": "bind-target-syntax",
+        "line_number": 1163,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Structure",
+        "anchor": "structure",
+        "line_number": 1165,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Components",
+        "anchor": "components",
+        "line_number": 1172,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Examples",
+        "anchor": "examples",
+        "line_number": 1188,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "JavaScript View Fields",
+        "anchor": "javascript-view-fields",
+        "line_number": 1237,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Syntax",
+        "anchor": "basic-syntax",
+        "line_number": 1241,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Structure",
+        "anchor": "structure",
+        "line_number": 1254,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Context API",
+        "anchor": "context-api",
+        "line_number": 1261,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Examples",
+        "anchor": "examples",
+        "line_number": 1269,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "Example 1: Simple Calculation",
+        "anchor": "example-1-simple-calculation",
+        "line_number": 1271,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "Example 2: Formatted Output",
+        "anchor": "example-2-formatted-output",
+        "line_number": 1289,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "Example 3: Conditional Display",
+        "anchor": "example-3-conditional-display",
+        "line_number": 1306,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "Example 4: List Processing",
+        "anchor": "example-4-list-processing",
+        "line_number": 1327,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 4,
+        "text": "Example 5: Date Calculations",
+        "anchor": "example-5-date-calculations",
+        "line_number": 1346,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Template Examples",
+        "anchor": "template-examples",
+        "line_number": 1367,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Template 1: Project Note",
+        "anchor": "template-1-project-note",
+        "line_number": 1369,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "<%= tp.file.title %>",
+        "anchor": "",
+        "line_number": 1384,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Metadata",
+        "anchor": "metadata",
+        "line_number": 1386,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Description",
+        "anchor": "description",
+        "line_number": 1409,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Action Items",
+        "anchor": "action-items",
+        "line_number": 1413,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Notes",
+        "anchor": "notes",
+        "line_number": 1417,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Template 2: Meeting Notes",
+        "anchor": "template-2-meeting-notes",
+        "line_number": 1452,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "<%= tp.file.title %>",
+        "anchor": "",
+        "line_number": 1468,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Meeting Details",
+        "anchor": "meeting-details",
+        "line_number": 1470,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Attendees",
+        "anchor": "attendees",
+        "line_number": 1477,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Topics Discussed",
+        "anchor": "topics-discussed",
+        "line_number": 1481,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Notes",
+        "anchor": "notes",
+        "line_number": 1485,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Action Items",
+        "anchor": "action-items",
+        "line_number": 1489,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Decisions Made",
+        "anchor": "decisions-made",
+        "line_number": 1493,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Template 3: Task/Report Note",
+        "anchor": "template-3-taskreport-note",
+        "line_number": 1523,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "<%= tp.file.title %>",
+        "anchor": "",
+        "line_number": 1541,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Task Details",
+        "anchor": "task-details",
+        "line_number": 1543,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Dates",
+        "anchor": "dates",
+        "line_number": 1557,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Time Tracking",
+        "anchor": "time-tracking",
+        "line_number": 1564,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Description",
+        "anchor": "description",
+        "line_number": 1570,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Checklist",
+        "anchor": "checklist",
+        "line_number": 1574,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Notes",
+        "anchor": "notes",
+        "line_number": 1578,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Template 4: Reading/Learning Note",
+        "anchor": "template-4-readinglearning-note",
+        "line_number": 1605,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "<%= tp.file.title %>",
+        "anchor": "",
+        "line_number": 1623,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Metadata",
+        "anchor": "metadata",
+        "line_number": 1625,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Dates",
+        "anchor": "dates",
+        "line_number": 1648,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Summary",
+        "anchor": "summary",
+        "line_number": 1654,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Key Takeaways",
+        "anchor": "key-takeaways",
+        "line_number": 1658,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Notes",
+        "anchor": "notes",
+        "line_number": 1662,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Related",
+        "anchor": "related",
+        "line_number": 1666,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Template 5: Budget Tracker",
+        "anchor": "template-5-budget-tracker",
+        "line_number": 1697,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "<%= tp.file.title %>",
+        "anchor": "",
+        "line_number": 1713,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Budget Overview",
+        "anchor": "budget-overview",
+        "line_number": 1715,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Expenditures",
+        "anchor": "expenditures",
+        "line_number": 1719,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Calculations",
+        "anchor": "calculations",
+        "line_number": 1726,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Notes",
+        "anchor": "notes",
+        "line_number": 1752,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Plugin Configuration",
+        "anchor": "plugin-configuration",
+        "line_number": 1759,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Location",
+        "anchor": "location",
+        "line_number": 1761,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Configuration Options",
+        "anchor": "configuration-options",
+        "line_number": 1766,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Key Settings",
+        "anchor": "key-settings",
+        "line_number": 1789,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Best Practices",
+        "anchor": "best-practices",
+        "line_number": 1808,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "1. Organize with Templates",
+        "anchor": "1-organize-with-templates",
+        "line_number": 1810,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "2. Performance Considerations",
+        "anchor": "2-performance-considerations",
+        "line_number": 1815,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "3. Property Naming",
+        "anchor": "3-property-naming",
+        "line_number": 1821,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "4. Button Organization",
+        "anchor": "4-button-organization",
+        "line_number": 1826,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "5. Input Field Selection",
+        "anchor": "5-input-field-selection",
+        "line_number": 1832,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "6. View Field Usage",
+        "anchor": "6-view-field-usage",
+        "line_number": 1838,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Quick Reference Card",
+        "anchor": "quick-reference-card",
+        "line_number": 1846,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Input Field Syntax",
+        "anchor": "input-field-syntax",
+        "line_number": 1848,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "View Field Syntax",
+        "anchor": "view-field-syntax",
+        "line_number": 1854,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Button Syntax",
+        "anchor": "button-syntax",
+        "line_number": 1861,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Bind Target Syntax",
+        "anchor": "bind-target-syntax",
+        "line_number": 1876,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 3,
+        "text": "Common Patterns",
+        "anchor": "common-patterns",
+        "line_number": 1886,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "Toggle",
+        "anchor": "toggle",
+        "line_number": 1888,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "Status Dropdown",
+        "anchor": "status-dropdown",
+        "line_number": 1891,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "Progress Bar",
+        "anchor": "progress-bar",
+        "line_number": 1894,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "Date Range",
+        "anchor": "date-range",
+        "line_number": 1898,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "List Input",
+        "anchor": "list-input",
+        "line_number": 1902,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "Math View",
+        "anchor": "math-view",
+        "line_number": 1905,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 1,
+        "text": "Complete Button",
+        "anchor": "complete-button",
+        "line_number": 1908,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "level": 2,
+        "text": "Resources",
+        "anchor": "resources",
+        "line_number": 1922,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "markdown",
+        "code": "INPUT[fieldType:bindTarget]\nINPUT[fieldType(argument1, argument2):bindTarget]",
+        "line_start": 36,
+        "line_end": 39,
+        "char_count": 77,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "VIEW[{propertyName}]\nVIEW[{propertyName}][viewType]\nVIEW[expression][viewType:saveTarget]",
+        "line_start": 42,
+        "line_end": 46,
+        "char_count": 89,
+        "line_count": 3,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "BUTTON[buttonId]",
+        "line_start": 49,
+        "line_end": 51,
+        "char_count": 16,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 54,
+        "line_end": 55,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 61,
+        "line_end": 62,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[toggle:completed]\nINPUT[toggle:published]",
+        "line_start": 71,
+        "line_end": 74,
+        "char_count": 47,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[toggle(showcase):reviewed]\nINPUT[toggle(onValue(1), offValue(0)):binary]\nINPUT[toggle(defaultValue(true)):enabled]",
+        "line_start": 77,
+        "line_end": 81,
+        "char_count": 120,
+        "line_count": 3,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ncompleted: false\npublished: true\n---\n\n**Completed:** INPUT[toggle:completed]\n**Published:** INPUT[toggle:published]",
+        "line_start": 90,
+        "line_end": 98,
+        "char_count": 119,
+        "line_count": 7,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[text:title]\nINPUT[text:author]",
+        "line_start": 105,
+        "line_end": 108,
+        "char_count": 36,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[text(showcase):name]\nINPUT[text(limit(50)):short-description]\nINPUT[text(placeholder(Enter title here)):title]\nINPUT[text(defaultValue(Untitled)):title]",
+        "line_start": 111,
+        "line_end": 116,
+        "char_count": 158,
+        "line_count": 4,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[textArea:notes]\nINPUT[textArea:description]",
+        "line_start": 129,
+        "line_end": 132,
+        "char_count": 49,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[textArea(showcase):summary]\nINPUT[textArea(class(meta-bind-full-width)):content]\nINPUT[textArea(placeholder(Write notes here...)):notes]\nINPUT[textArea(limit(500)):short-notes]",
+        "line_start": 135,
+        "line_end": 140,
+        "char_count": 182,
+        "line_count": 4,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[number:age]\nINPUT[number:price]",
+        "line_start": 157,
+        "line_end": 160,
+        "char_count": 37,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[number(minValue(0)):quantity]\nINPUT[number(maxValue(100)):percentage]\nINPUT[number(minValue(0), maxValue(10)):rating]\nINPUT[number(placeholder(0)):count]",
+        "line_start": 163,
+        "line_end": 168,
+        "char_count": 159,
+        "line_count": 4,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[slider:volume]\nINPUT[slider:rating]",
+        "line_start": 181,
+        "line_end": 184,
+        "char_count": 41,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[slider(showcase):priority]\nINPUT[slider(addLabels):importance]\nINPUT[slider(minValue(0), maxValue(5)):rating]\nINPUT[slider(minValue(0), maxValue(100), stepSize(5)):progress]\nINPUT[slider(addLabels, minValue(1), maxValue(10), stepSize(1)):difficulty]",
+        "line_start": 187,
+        "line_end": 193,
+        "char_count": 255,
+        "line_count": 5,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nprogress: 45\nrating: 3\n---\n\n**Progress:** INPUT[slider(addLabels, minValue(0), maxValue(100)):progress]%\n**Rating:** INPUT[slider(minValue(1), maxValue(5), stepSize(0.5)):rating] / 5",
+        "line_start": 204,
+        "line_end": 212,
+        "char_count": 186,
+        "line_count": 7,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[select(option(value1), option(value2)):propertyName]\nINPUT[select(option(val, Display Name)):propertyName]",
+        "line_start": 219,
+        "line_end": 222,
+        "char_count": 112,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[select(showcase, option(1), option(2), option(3)):choice]\nINPUT[select(option(pending), option(active), option(done)):status]\nINPUT[select(option(low, Low Priority), option(high, High Priority)):priority]",
+        "line_start": 225,
+        "line_end": 229,
+        "char_count": 210,
+        "line_count": 3,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nstatus: pending\n---\n\nINPUT[select(\n  option(pending, 📋 Pending),\n  option(in-progress, 🚧 In Progress),\n  option(completed, ✅ Completed)\n):status]",
+        "line_start": 237,
+        "line_end": 247,
+        "char_count": 149,
+        "line_count": 9,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[inlineSelect(option(val1), option(val2)):property]",
+        "line_start": 254,
+        "line_end": 256,
+        "char_count": 56,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[inlineSelect(showcase, option(1, One), option(2, Two)):choice]\nINPUT[inlineSelect(\n  option(planning, 📋 Planning),\n  option(in-progress, 🚧 In Progress),\n  option(review, 👀 Review),\n  option(done, ✅ Done)\n):status]",
+        "line_start": 259,
+        "line_end": 267,
+        "char_count": 219,
+        "line_count": 7,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[multiSelect(option(tag1), option(tag2), option(tag3)):tags]",
+        "line_start": 278,
+        "line_end": 280,
+        "char_count": 65,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[multiSelect(showcase, option(a, Label A), option(b, Label B)):items]\nINPUT[multiSelect(\n  option(javascript, JavaScript),\n  option(python, Python),\n  option(rust, Rust)\n):languages]",
+        "line_start": 283,
+        "line_end": 290,
+        "char_count": 187,
+        "line_count": 6,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntags: []\n---\n\n**Tags:** INPUT[multiSelect(\n  option(project),\n  option(research),\n  option(urgent),\n  option(review)\n):tags]",
+        "line_start": 297,
+        "line_end": 308,
+        "char_count": 128,
+        "line_count": 10,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[date:startDate]\nINPUT[datePicker:deadline]",
+        "line_start": 315,
+        "line_end": 318,
+        "char_count": 48,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nstart-date: 2025-01-15\ndue-date: 2025-02-28\n---\n\n**Start Date:** INPUT[date:start-date]\n**Due Date:** INPUT[datePicker:due-date]",
+        "line_start": 321,
+        "line_end": 329,
+        "char_count": 132,
+        "line_count": 7,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[dateTime:createdAt]\nINPUT[dateTime(showcase):timestamp]",
+        "line_start": 338,
+        "line_end": 341,
+        "char_count": 61,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ncreated-at: 2025-01-15T14:30:00\n---\n\n**Created:** INPUT[dateTime:created-at]",
+        "line_start": 344,
+        "line_end": 350,
+        "char_count": 80,
+        "line_count": 5,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[time:meetingTime]\nINPUT[time:alarm]",
+        "line_start": 357,
+        "line_end": 360,
+        "char_count": 41,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nmeeting-time: \"14:30\"\n---\n\n**Meeting Time:** INPUT[time:meeting-time]",
+        "line_start": 363,
+        "line_end": 369,
+        "char_count": 73,
+        "line_count": 5,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[suggester(optionQuery(#tag)):reference]\nINPUT[suggester(useLinks(true)):note-reference]",
+        "line_start": 376,
+        "line_end": 379,
+        "char_count": 93,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[suggester(optionQuery(#project), useLinks(true)):linked-project]\nINPUT[suggester(useLinks(false), allowOther(true)):custom-value]\nINPUT[suggester(optionQuery(\"folder/path\"), useLinks(partial)):partial-link]",
+        "line_start": 382,
+        "line_end": 386,
+        "char_count": 212,
+        "line_count": 3,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nproject-reference: \"\"\n---\n\n**Related Project:** INPUT[suggester(\n  optionQuery(#project),\n  useLinks(true)\n):project-reference]",
+        "line_start": 398,
+        "line_end": 407,
+        "char_count": 131,
+        "line_count": 8,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[list:items]\nINPUT[list:tasks]",
+        "line_start": 414,
+        "line_end": 417,
+        "char_count": 35,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[list(addLabel(Add Item)):shopping-list]\nINPUT[list(placeholder(Enter item)):items]\nINPUT[list(multiLine(true)):notes]\nINPUT[list(limit(10)):top-ten]",
+        "line_start": 420,
+        "line_end": 425,
+        "char_count": 154,
+        "line_count": 4,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\naction-items: []\n---\n\n## Action Items\nINPUT[list(addLabel(Add Action Item)):action-items]",
+        "line_start": 434,
+        "line_end": 441,
+        "char_count": 93,
+        "line_count": 6,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[listSuggester(optionQuery(#tag)):items]\nINPUT[listSuggester(useLinks(true)):references]",
+        "line_start": 448,
+        "line_end": 451,
+        "char_count": 93,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[listSuggester(\n  optionQuery(#reference),\n  useLinks(true)\n):related-notes]",
+        "line_start": 454,
+        "line_end": 459,
+        "char_count": 81,
+        "line_count": 4,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[imageSuggester(optionQuery(\"Attachments\")):coverImage]\nINPUT[imageSuggester(optionQuery(\"Images\")):banner]",
+        "line_start": 469,
+        "line_end": 472,
+        "char_count": 112,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ncover-image: \"\"\n---\n\n**Cover Image:** INPUT[imageSuggester(\n  optionQuery(\"Attachments/Images\")\n):cover-image]",
+        "line_start": 478,
+        "line_end": 486,
+        "char_count": 114,
+        "line_count": 7,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[progressBar:completion]\nVIEW[progressBar]{progress}",
+        "line_start": 493,
+        "line_end": 496,
+        "char_count": 57,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nprogress: 65\n---\n\n**Progress:** INPUT[slider(minValue(0), maxValue(100)):progress]%\n\nVIEW[progressBar]{progress}",
+        "line_start": 501,
+        "line_end": 509,
+        "char_count": 116,
+        "line_count": 7,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "VIEW[{propertyName}]\nVIEW[{property1} + {property2}]",
+        "line_start": 518,
+        "line_end": 521,
+        "char_count": 52,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "VIEW[{budget} - {spent}]\nVIEW[{price} * {quantity}]\nVIEW[round({value}, 2)]\nVIEW[{total} / {count}]",
+        "line_start": 524,
+        "line_end": 529,
+        "char_count": 99,
+        "line_count": 4,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "VIEW[{budget} - {spent}][math:remaining]\nVIEW[math(saveAsBindTarget(total))]{price * quantity}",
+        "line_start": 532,
+        "line_end": 535,
+        "char_count": 94,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "VIEW[{value}][math(class(warning))]\nVIEW[{result}][math(hidden)]",
+        "line_start": 538,
+        "line_end": 541,
+        "char_count": 64,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nbudget-total: 10000\nspent-marketing: 3500\nspent-development: 4200\nspent-operations: 1100\n---\n\n**Total Budget:** $VIEW[{budget-total}]\n**Total Spent:** $VIEW[{spent-marketing} + {spent-development} + {spent-operations}]\n**Remaining:** $VIEW[{budget-total} - {spent-marketing} - {spent-development} - {spent-operations}]",
+        "line_start": 549,
+        "line_end": 560,
+        "char_count": 322,
+        "line_count": 10,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "VIEW[{propertyName}][text]\nVIEW[{description}][text]",
+        "line_start": 567,
+        "line_end": 570,
+        "char_count": 52,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "VIEW[**Bold {text}**][text(renderMarkdown)]\nVIEW[{title} - {subtitle}][text(renderMarkdown)]\nVIEW[# {heading}][text(renderMarkdown)]",
+        "line_start": 573,
+        "line_end": 577,
+        "char_count": 132,
+        "line_count": 3,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "VIEW[{content}][text(class(custom-class))]\nVIEW[{hidden-value}][text(hidden)]",
+        "line_start": 580,
+        "line_end": 583,
+        "char_count": 77,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "`VIEW[{noteName}][link]`\n`VIEW[{noteName}|Display Text][link]`",
+        "line_start": 595,
+        "line_end": 598,
+        "char_count": 62,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nproject-name: \"Project Alpha\"\nproject-note: \"Projects/Alpha\"\n---\n\n**Project:** VIEW[{project-note}|{project-name}][link]",
+        "line_start": 601,
+        "line_end": 608,
+        "char_count": 124,
+        "line_count": 6,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "VIEW[{imagePath}][image]\nVIEW[{coverImage}][image]",
+        "line_start": 615,
+        "line_end": 618,
+        "char_count": 50,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ncover-image: \"Attachments/cover.png\"\n---\n\nVIEW[{cover-image}][image]",
+        "line_start": 621,
+        "line_end": 627,
+        "char_count": 72,
+        "line_count": 5,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "BUTTON[buttonId]\nBUTTON[buttonId, buttonId2, buttonId3]",
+        "line_start": 636,
+        "line_end": 639,
+        "char_count": 55,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 642,
+        "line_end": 643,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Click to archive: BUTTON[archive-note]",
+        "line_start": 650,
+        "line_end": 653,
+        "char_count": 38,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 660,
+        "line_end": 661,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 673,
+        "line_end": 674,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 687,
+        "line_end": 688,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 694,
+        "line_end": 695,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 725,
+        "line_end": 726,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 732,
+        "line_end": 733,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "javascript",
+        "code": "app.commands.listCommands()",
+        "line_start": 747,
+        "line_end": 749,
+        "char_count": 27,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 758,
+        "line_end": 759,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 768,
+        "line_end": 769,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "javascript",
+        "code": "// scripts/myScript.js\nmodule.exports = async (args, app) => {\n  const { arg1, arg2 } = args;\n  new Notice(`${arg1}: ${arg2}`);\n};",
+        "line_start": 777,
+        "line_end": 783,
+        "char_count": 130,
+        "line_count": 5,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 792,
+        "line_end": 793,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 801,
+        "line_end": 802,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 820,
+        "line_end": 821,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 827,
+        "line_end": 829,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 835,
+        "line_end": 836,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 849,
+        "line_end": 850,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 856,
+        "line_end": 857,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 870,
+        "line_end": 871,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 883,
+        "line_end": 884,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 897,
+        "line_end": 898,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 906,
+        "line_end": 908,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 916,
+        "line_end": 917,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 937,
+        "line_end": 938,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 947,
+        "line_end": 948,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 964,
+        "line_end": 965,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 971,
+        "line_end": 972,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 985,
+        "line_end": 986,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 994,
+        "line_end": 995,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 1010,
+        "line_end": 1011,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1019,
+        "line_end": 1020,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 1035,
+        "line_end": 1036,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1044,
+        "line_end": 1045,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 1060,
+        "line_end": 1061,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1068,
+        "line_end": 1069,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 1083,
+        "line_end": 1084,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1090,
+        "line_end": 1091,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 1106,
+        "line_end": 1107,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1123,
+        "line_end": 1124,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 1135,
+        "line_end": 1136,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1158,
+        "line_end": 1159,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "[storageType^]storagePath#propertyName",
+        "line_start": 1168,
+        "line_end": 1170,
+        "char_count": 38,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[toggle:completed]\nINPUT[text:title]\nVIEW[{status}]",
+        "line_start": 1191,
+        "line_end": 1195,
+        "char_count": 56,
+        "line_count": 3,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[select:Projects/ProjectA#status]\nVIEW[{OtherNote#propertyName}]",
+        "line_start": 1198,
+        "line_end": 1201,
+        "char_count": 69,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[number:project.budget.total]\nINPUT[text:author.name]",
+        "line_start": 1204,
+        "line_end": 1207,
+        "char_count": 58,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[date:['Due Date']]\nINPUT[text:['Project Name']]",
+        "line_start": 1210,
+        "line_end": 1213,
+        "char_count": 53,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[text:memory^tempVar]\nVIEW[{memory^calculation}]",
+        "line_start": 1216,
+        "line_end": 1219,
+        "char_count": 53,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nproject-status: \"\"\n---\n\n**Status from Project A:** VIEW[{Projects/Project A#status}]\n**Update Status:** INPUT[inlineSelect(\n  option(planning),\n  option(active),\n  option(done)\n):Projects/Project A#status]",
+        "line_start": 1222,
+        "line_end": 1233,
+        "char_count": 209,
+        "line_count": 10,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 1243,
+        "line_end": 1244,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1251,
+        "line_end": 1252,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nnumber1: 10\nnumber2: 5\nresult: 0\n---",
+        "line_start": 1273,
+        "line_end": 1280,
+        "char_count": 40,
+        "line_count": 5,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1286,
+        "line_end": 1287,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ndistance: 42\ntime: 3.5\n---",
+        "line_start": 1291,
+        "line_end": 1297,
+        "char_count": 30,
+        "line_count": 4,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1303,
+        "line_end": 1304,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nscore: 85\n---",
+        "line_start": 1308,
+        "line_end": 1313,
+        "char_count": 17,
+        "line_count": 3,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1324,
+        "line_end": 1325,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntasks:\n  - \"Task 1\"\n  - \"Task 2\"\n  - \"Task 3\"\n---",
+        "line_start": 1329,
+        "line_end": 1337,
+        "char_count": 53,
+        "line_count": 6,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1343,
+        "line_end": 1344,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nstart-date: \"2025-01-01\"\nend-date: \"2025-12-31\"\n---",
+        "line_start": 1348,
+        "line_end": 1354,
+        "char_count": 55,
+        "line_count": 4,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1362,
+        "line_end": 1363,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntitle: <%= tp.file.title %>\nstatus: planning\npriority: medium\nprogress: 0\nstart-date: \"\"\ndue-date: \"\"\ncompleted: false\ntags:\n  - project\n---\n\n# <%= tp.file.title %>\n\n## Metadata\n\n**Status:** INPUT[inlineSelect(\n  option(planning, 📋 Planning),\n  option(in-progress, 🚧 In Progress),\n  option(review, 👀 Review),\n  option(completed, ✅ Completed)\n):status]\n\n**Priority:** INPUT[inlineSelect(\n  option(low, 🟢 Low),\n  option(medium, 🟡 Medium),\n  option(high, 🟠 High),\n  option(critical, 🔴 Critical)\n):priority]\n\n**Progress:** INPUT[slider(addLabels, minValue(0), maxValue(100)):progress]%\nVIEW[progressBar]{progress}\n\n**Start Date:** INPUT[date:start-date]\n**Due Date:** INPUT[date:due-date]\n**Completed:** INPUT[toggle:completed]\n\n## Description\n\nINPUT[textArea(class(meta-bind-full-width), placeholder(Project description...)):description]\n\n## Action Items\n\nINPUT[list(addLabel(Add Action Item)):action-items]\n\n## Notes\n\nINPUT[textArea(class(meta-bind-full-width)):notes]\n\n---",
+        "line_start": 1371,
+        "line_end": 1423,
+        "char_count": 975,
+        "line_count": 50,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1439,
+        "line_end": 1441,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1447,
+        "line_end": 1448,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nmeeting-title: <%= tp.file.title %>\nmeeting-date: <%= tp.date.now(\"YYYY-MM-DD\") %>\nmeeting-time: <%= tp.date.now(\"HH:mm\") %>\nattendees: []\ntopics: []\naction-items: []\nfollow-up-date: \"\"\ncompleted: false\ntags:\n  - meeting\n---\n\n# <%= tp.file.title %>\n\n## Meeting Details\n\n**Date:** INPUT[date:meeting-date]\n**Time:** INPUT[time:meeting-time]\n**Completed:** INPUT[toggle:completed]\n**Follow-up Date:** INPUT[date:follow-up-date]\n\n## Attendees\n\nINPUT[list(addLabel(Add Attendee)):attendees]\n\n## Topics Discussed\n\nINPUT[list(addLabel(Add Topic), multiLine(true)):topics]\n\n## Notes\n\nINPUT[textArea(class(meta-bind-full-width), placeholder(Meeting notes...)):notes]\n\n## Action Items\n\nINPUT[list(addLabel(Add Action Item)):action-items]\n\n## Decisions Made\n\nINPUT[textArea(class(meta-bind-full-width)):decisions]\n\n---",
+        "line_start": 1454,
+        "line_end": 1499,
+        "char_count": 812,
+        "line_count": 43,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1508,
+        "line_end": 1510,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1518,
+        "line_end": 1519,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntitle: <%= tp.file.title %>\nstatus: pending\npriority: medium\nprogress: 0\nestimated-hours: 0\nactual-hours: 0\nstart-date: \"\"\ndue-date: \"\"\ncompleted: false\nreviewed: false\ntags:\n  - task\n---\n\n# <%= tp.file.title %>\n\n## Task Details\n\n**Status:** INPUT[inlineSelect(\n  option(pending, ⏳ Pending),\n  option(active, 🚧 Active),\n  option(blocked, 🚫 Blocked),\n  option(done, ✅ Done)\n):status]\n\n**Priority:** INPUT[slider(addLabels, minValue(1), maxValue(5)):priority]\n\n**Progress:** INPUT[slider(addLabels, minValue(0), maxValue(100)):progress]%\nVIEW[progressBar]{progress}\n\n## Dates\n\n**Start:** INPUT[date:start-date]\n**Due:** INPUT[date:due-date]\n**Completed:** INPUT[toggle:completed]\n**Reviewed:** INPUT[toggle:reviewed]\n\n## Time Tracking\n\n**Estimated Hours:** INPUT[number(minValue(0)):estimated-hours]\n**Actual Hours:** INPUT[number(minValue(0)):actual-hours]\n**Difference:** VIEW[{actual-hours} - {estimated-hours}] hours\n\n## Description\n\nINPUT[textArea(class(meta-bind-full-width), placeholder(Task description...)):description]\n\n## Checklist\n\nINPUT[list(addLabel(Add Step)):checklist]\n\n## Notes\n\nINPUT[textArea(class(meta-bind-full-width)):notes]\n\n---",
+        "line_start": 1525,
+        "line_end": 1584,
+        "char_count": 1154,
+        "line_count": 57,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1600,
+        "line_end": 1601,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntitle: <%= tp.file.title %>\ntype: book\nstatus: to-read\nprogress: 0\nrating: 0\nstart-date: \"\"\nfinish-date: \"\"\ncompleted: false\nauthor: \"\"\nsource: \"\"\ntags:\n  - reading\n---\n\n# <%= tp.file.title %>\n\n## Metadata\n\n**Type:** INPUT[inlineSelect(\n  option(book, 📚 Book),\n  option(article, 📄 Article),\n  option(video, 🎥 Video),\n  option(course, 🎓 Course)\n):type]\n\n**Status:** INPUT[inlineSelect(\n  option(to-read, 📋 To Read),\n  option(reading, 📖 Reading),\n  option(completed, ✅ Completed)\n):status]\n\n**Progress:** INPUT[slider(addLabels, minValue(0), maxValue(100)):progress]%\nVIEW[progressBar]{progress}\n\n**Rating:** INPUT[slider(addLabels, minValue(0), maxValue(5), stepSize(0.5)):rating] / 5\n\n**Author:** INPUT[text:author]\n**Source:** INPUT[text:source]\n\n## Dates\n\n**Started:** INPUT[date:start-date]\n**Finished:** INPUT[date:finish-date]\n**Completed:** INPUT[toggle:completed]\n\n## Summary\n\nINPUT[textArea(class(meta-bind-full-width), placeholder(Brief summary...)):summary]\n\n## Key Takeaways\n\nINPUT[list(addLabel(Add Takeaway), multiLine(true)):takeaways]\n\n## Notes\n\nINPUT[textArea(class(meta-bind-full-width)):notes]\n\n## Related\n\nINPUT[listSuggester(optionQuery(#reading), useLinks(true)):related-notes]\n\n---",
+        "line_start": 1607,
+        "line_end": 1672,
+        "char_count": 1207,
+        "line_count": 63,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1692,
+        "line_end": 1693,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntitle: <%= tp.file.title %>\nbudget-total: 0\nspent-operations: 0\nspent-marketing: 0\nspent-development: 0\nspent-other: 0\nremaining: 0\ntags:\n  - budget\n  - finance\n---\n\n# <%= tp.file.title %>\n\n## Budget Overview\n\n**Total Budget:** $INPUT[number(minValue(0)):budget-total]\n\n## Expenditures\n\n**Operations:** $INPUT[number(minValue(0)):spent-operations]\n**Marketing:** $INPUT[number(minValue(0)):spent-marketing]\n**Development:** $INPUT[number(minValue(0)):spent-development]\n**Other:** $INPUT[number(minValue(0)):spent-other]\n\n## Calculations\n\n**Total Spent:** $VIEW[{spent-operations} + {spent-marketing} + {spent-development} + {spent-other}]\n\n**Remaining Budget:** $VIEW[{budget-total} - {spent-operations} - {spent-marketing} - {spent-development} - {spent-other}][math:remaining]\n\n**Percentage Used:** VIEW[round(({spent-operations} + {spent-marketing} + {spent-development} + {spent-other}) / {budget-total} * 100, 1)]%",
+        "line_start": 1699,
+        "line_end": 1734,
+        "char_count": 924,
+        "line_count": 33,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "## Notes\n\nINPUT[textArea(class(meta-bind-full-width)):notes]",
+        "line_start": 1750,
+        "line_end": 1755,
+        "char_count": 60,
+        "line_count": 3,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ".obsidian/plugins/obsidian-meta-bind-plugin/data.json",
+        "line_start": 1762,
+        "line_end": 1764,
+        "char_count": 53,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "json",
+        "code": "{\n  \"devMode\": false,\n  \"ignoreCodeBlockRestrictions\": false,\n  \"preferredDateFormat\": \"YYYY-MM-DD\",\n  \"firstWeekday\": {\n    \"index\": 1,\n    \"name\": \"Monday\",\n    \"shortName\": \"Mo\"\n  },\n  \"syncInterval\": 200,\n  \"enableJs\": true,\n  \"viewFieldDisplayNullAsEmpty\": false,\n  \"enableSyntaxHighlighting\": true,\n  \"enableEditorRightClickMenu\": true,\n  \"inputFieldTemplates\": [],\n  \"buttonTemplates\": [],\n  \"excludedFolders\": [\"templates\"]\n}",
+        "line_start": 1768,
+        "line_end": 1787,
+        "char_count": 433,
+        "line_count": 18,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "INPUT[type:property]\nINPUT[type(args):property]",
+        "line_start": 1849,
+        "line_end": 1852,
+        "char_count": 47,
+        "line_count": 2,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "VIEW[{property}]\nVIEW[{property}][type]\nVIEW[expression][type:saveTarget]",
+        "line_start": 1855,
+        "line_end": 1859,
+        "char_count": 73,
+        "line_count": 3,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "BUTTON[id]",
+        "line_start": 1862,
+        "line_end": 1864,
+        "char_count": 10,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 1866,
+        "line_end": 1867,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1873,
+        "line_end": 1874,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "property                    # Current note\nNoteName#property          # Other note\nfolder/note#property       # Note in folder\nproperty.nested            # Nested property\n['Property Name']          # Property with spaces\nmemory^tempVar             # Temporary storage",
+        "line_start": 1877,
+        "line_end": 1884,
+        "char_count": 268,
+        "line_count": 6,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "markdown",
+        "code": "# Toggle\nINPUT[toggle:completed]\n\n# Status Dropdown\nINPUT[inlineSelect(option(todo), option(doing), option(done)):status]\n\n# Progress Bar\nINPUT[slider(addLabels, minValue(0), maxValue(100)):progress]%\nVIEW[progressBar]{progress}\n\n# Date Range\n**Start:** INPUT[date:start-date]\n**End:** INPUT[date:end-date]\n\n# List Input\nINPUT[list(addLabel(Add Item)):items]\n\n# Math View\nVIEW[{total} - {spent}][math:remaining]\n\n# Complete Button",
+        "line_start": 1887,
+        "line_end": 1909,
+        "char_count": 430,
+        "line_count": 21,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1917,
+        "line_end": 1918,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Property",
+          "Type",
+          "Required",
+          "Description",
+          "Example"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "`id`",
+            "string",
+            "No",
+            "Unique identifier for inline reference",
+            "`\"my-button\"`"
+          ],
+          [
+            "`label`",
+            "string",
+            "Yes",
+            "Button text",
+            "`\"Click Me\"`"
+          ],
+          [
+            "`style`",
+            "enum",
+            "Yes",
+            "Visual style",
+            "`primary`, `default`, `destructive`, `plain`"
+          ],
+          [
+            "`icon`",
+            "string",
+            "No",
+            "Lucide icon name",
+            "`\"file-code\"`, `\"save\"`, `\"trash\"`"
+          ],
+          [
+            "`tooltip`",
+            "string",
+            "No",
+            "Hover text",
+            "`\"Click to save\"`"
+          ],
+          [
+            "`hidden`",
+            "boolean",
+            "No",
+            "Hide button",
+            "`true` or `false`"
+          ],
+          [
+            "`class`",
+            "string",
+            "No",
+            "Custom CSS class",
+            "`\"custom-button\"`"
+          ],
+          [
+            "`cssStyle`",
+            "string",
+            "No",
+            "Inline CSS",
+            "`\"color: red; font-weight: bold;\"`"
+          ],
+          [
+            "`action`",
+            "object",
+            "No*",
+            "Single action",
+            "See action types below"
+          ],
+          [
+            "`actions`",
+            "array",
+            "No*",
+            "Multiple actions",
+            "See multi-action buttons"
+          ]
+        ],
+        "line_start": 328,
+        "row_count": 10,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "headers": [
+          "Setting",
+          "Type",
+          "Default",
+          "Description"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "`devMode`",
+            "boolean",
+            "false",
+            "Enable developer features"
+          ],
+          [
+            "`ignoreCodeBlockRestrictions`",
+            "boolean",
+            "false",
+            "Allow Meta Bind in all code blocks"
+          ],
+          [
+            "`preferredDateFormat`",
+            "string",
+            "\"YYYY-MM-DD\"",
+            "Date format for date pickers"
+          ],
+          [
+            "`firstWeekday`",
+            "object",
+            "Monday",
+            "First day of week in calendars"
+          ],
+          [
+            "`syncInterval`",
+            "number",
+            "200",
+            "Metadata sync interval (ms)"
+          ],
+          [
+            "`enableJs`",
+            "boolean",
+            "true",
+            "Enable JavaScript view fields"
+          ],
+          [
+            "`viewFieldDisplayNullAsEmpty`",
+            "boolean",
+            "false",
+            "Display null as empty string"
+          ],
+          [
+            "`enableSyntaxHighlighting`",
+            "boolean",
+            "true",
+            "Syntax highlighting in code blocks"
+          ],
+          [
+            "`enableEditorRightClickMenu`",
+            "boolean",
+            "true",
+            "Right-click menu in editor"
+          ],
+          [
+            "`inputFieldTemplates`",
+            "array",
+            "[]",
+            "Custom input field templates"
+          ],
+          [
+            "`buttonTemplates`",
+            "array",
+            "[]",
+            "Custom button templates"
+          ],
+          [
+            "`excludedFolders`",
+            "array",
+            "[\"templates\"]",
+            "Folders to exclude from Meta Bind"
+          ]
+        ],
+        "line_start": 1089,
+        "row_count": 12,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      }
+    ],
+    "external_links": [
+      {
+        "display_text": "https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/",
+        "url": "https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/",
+        "format": "bare",
+        "line_number": 4,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "display_text": "https://example.com\"",
+        "url": "https://example.com\"",
+        "format": "bare",
+        "line_number": 834,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "display_text": "https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/",
+        "url": "https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/",
+        "format": "bare",
+        "line_number": 1924,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "[Quick Start Syntax](#quick-start-syntax)",
+          "indent_level": 0,
+          "line_number": 21,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "[Input Fields](#input-fields)",
+          "indent_level": 0,
+          "line_number": 23,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "[View Fields](#view-fields)",
+          "indent_level": 0,
+          "line_number": 24,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "[Buttons](#buttons)",
+          "indent_level": 0,
+          "line_number": 25,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "[Bind Target Syntax](#bind-target-syntax)",
+          "indent_level": 0,
+          "line_number": 26,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "[JavaScript View Fields](#javascript-view-fields)",
+          "indent_level": 0,
+          "line_number": 27,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "[Template Examples](#template-examples)",
+          "indent_level": 0,
+          "line_number": 28,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "[Plugin Configuration](#plugin-configuration)",
+          "indent_level": 0,
+          "line_number": 29,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "**Storage Type** (optional): `storageType^`",
+          "indent_level": 0,
+          "line_number": 780,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "**Storage Path** (optional): `storagePath`",
+          "indent_level": 0,
+          "line_number": 791,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "**Property Name** (required): `#propertyName`",
+          "indent_level": 0,
+          "line_number": 800,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "**Binding Section** (above `---`): Bind frontmatter properties to variables",
+          "indent_level": 0,
+          "line_number": 846,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "**Code Section** (below `---`): JavaScript code",
+          "indent_level": 0,
+          "line_number": 852,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "**Return Value**: What to display/save",
+          "indent_level": 0,
+          "line_number": 855,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "Exact syntax verified from your plugin files",
+          "indent_level": 0,
+          "line_number": 9,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Real examples from your vault",
+          "indent_level": 0,
+          "line_number": 10,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "All arguments documented for each field type",
+          "indent_level": 0,
+          "line_number": 11,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Button styles and properties table",
+          "indent_level": 0,
+          "line_number": 12,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Bind target syntax with cross-note examples",
+          "indent_level": 0,
+          "line_number": 13,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "JavaScript view fields with context API",
+          "indent_level": 0,
+          "line_number": 14,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Plugin configuration reference",
+          "indent_level": 0,
+          "line_number": 15,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Best practices section",
+          "indent_level": 0,
+          "line_number": 16,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Quick reference card at the end",
+          "indent_level": 0,
+          "line_number": 17,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`showcase` - Display the field prominently",
+          "indent_level": 0,
+          "line_number": 53,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`onValue(value)` - Custom value when toggled on (default: true)",
+          "indent_level": 0,
+          "line_number": 56,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`offValue(value)` - Custom value when toggled off (default: false)",
+          "indent_level": 0,
+          "line_number": 60,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`defaultValue(value)` - Initial value if property doesn't exist",
+          "indent_level": 0,
+          "line_number": 70,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`showcase` - Display prominently",
+          "indent_level": 0,
+          "line_number": 80,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`limit(n)` - Maximum character count",
+          "indent_level": 0,
+          "line_number": 80,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`placeholder(text)` - Placeholder text",
+          "indent_level": 0,
+          "line_number": 84,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`defaultValue(text)` - Default value",
+          "indent_level": 0,
+          "line_number": 85,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`showcase` - Display prominently",
+          "indent_level": 0,
+          "line_number": 87,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`class(className)` - Custom CSS class",
+          "indent_level": 0,
+          "line_number": 87,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`placeholder(text)` - Placeholder text",
+          "indent_level": 0,
+          "line_number": 89,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`limit(n)` - Maximum character count",
+          "indent_level": 0,
+          "line_number": 93,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`multiLine(true/false)` - Enable/disable multi-line",
+          "indent_level": 0,
+          "line_number": 96,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`meta-bind-full-width` - Full width text area",
+          "indent_level": 0,
+          "line_number": 102,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`minValue(n)` - Minimum allowed value",
+          "indent_level": 0,
+          "line_number": 112,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`maxValue(n)` - Maximum allowed value",
+          "indent_level": 0,
+          "line_number": 113,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`placeholder(n)` - Placeholder number",
+          "indent_level": 0,
+          "line_number": 114,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`defaultValue(n)` - Default value",
+          "indent_level": 0,
+          "line_number": 115,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`showcase` - Display prominently",
+          "indent_level": 0,
+          "line_number": 121,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`addLabels` - Show min/max labels",
+          "indent_level": 0,
+          "line_number": 122,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`minValue(n)` - Minimum value (default: 0)",
+          "indent_level": 0,
+          "line_number": 126,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`maxValue(n)` - Maximum value (default: 100)",
+          "indent_level": 0,
+          "line_number": 128,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`stepSize(n)` - Increment size (default: 1)",
+          "indent_level": 0,
+          "line_number": 131,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`class(className)` - Custom CSS class",
+          "indent_level": 0,
+          "line_number": 135,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`showcase` - Display prominently",
+          "indent_level": 0,
+          "line_number": 139,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`option(value)` - Simple option (value used as label)",
+          "indent_level": 0,
+          "line_number": 142,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`option(value, displayName)` - Option with custom display name",
+          "indent_level": 0,
+          "line_number": 144,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Same as Select field",
+          "indent_level": 0,
+          "line_number": 150,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "More compact display (inline dropdown vs. block)",
+          "indent_level": 0,
+          "line_number": 150,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`showcase` - Display prominently",
+          "indent_level": 0,
+          "line_number": 164,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`option(value)` or `option(value, displayName)` - Multiple allowed",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`optionQuery(#tag)` - Query by tag",
+          "indent_level": 0,
+          "line_number": 190,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`optionQuery(\"folder/path\")` - Query folder contents",
+          "indent_level": 0,
+          "line_number": 191,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`useLinks(true/partial/false)` - How to format selected value",
+          "indent_level": 0,
+          "line_number": 192,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`true` - Full wikilink: `[[Note Name]]`",
+          "indent_level": 1,
+          "line_number": 195,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`partial` - Partial link: `Note Name`",
+          "indent_level": 1,
+          "line_number": 196,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`false` - Plain text: `Note Name`",
+          "indent_level": 1,
+          "line_number": 198,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`allowOther(true/false)` - Allow custom values not in suggestions",
+          "indent_level": 0,
+          "line_number": 198,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`addLabel(text)` - Custom label for \"Add\" button",
+          "indent_level": 0,
+          "line_number": 206,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`placeholder(text)` - Placeholder for new items",
+          "indent_level": 0,
+          "line_number": 210,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`multiLine(true/false)` - Multi-line text entries",
+          "indent_level": 0,
+          "line_number": 211,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`limit(n)` - Maximum number of items",
+          "indent_level": 0,
+          "line_number": 211,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Same as Suggester, but creates a list of selected items",
+          "indent_level": 0,
+          "line_number": 221,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`optionQuery(\"folder/path\")` - Path to image folder",
+          "indent_level": 0,
+          "line_number": 226,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`round(value, decimals)` - Round to decimal places",
+          "indent_level": 0,
+          "line_number": 243,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`number(value)` - Convert to number",
+          "indent_level": 0,
+          "line_number": 244,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`length(value)` - Get length of string/array",
+          "indent_level": 0,
+          "line_number": 246,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`renderMarkdown` - Render markdown syntax",
+          "indent_level": 0,
+          "line_number": 260,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`class(className)` - Custom CSS class",
+          "indent_level": 0,
+          "line_number": 260,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`hidden` - Hide the view field",
+          "indent_level": 0,
+          "line_number": 262,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`default` - Grey button (standard appearance)",
+          "indent_level": 0,
+          "line_number": 302,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`primary` - Accent color button (prominent)",
+          "indent_level": 0,
+          "line_number": 304,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`destructive` - Red button (for destructive actions)",
+          "indent_level": 0,
+          "line_number": 306,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`plain` - No background styling (minimal)",
+          "indent_level": 0,
+          "line_number": 314,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: command`",
+          "indent_level": 0,
+          "line_number": 391,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`command: 'command-id'` - Obsidian command ID",
+          "indent_level": 0,
+          "line_number": 391,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`'command-palette:open'` - Open command palette",
+          "indent_level": 0,
+          "line_number": 392,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`'obsidian-kanban:archive-completed-cards'` - Archive Kanban cards",
+          "indent_level": 0,
+          "line_number": 394,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`'app:delete-file'` - Delete current file",
+          "indent_level": 0,
+          "line_number": 395,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`'editor:toggle-bold'` - Toggle bold formatting",
+          "indent_level": 0,
+          "line_number": 397,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: js`",
+          "indent_level": 0,
+          "line_number": 422,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`file: \"path/to/script.js\"` - Path to JavaScript file",
+          "indent_level": 0,
+          "line_number": 423,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`args: {}` - Optional arguments object",
+          "indent_level": 0,
+          "line_number": 424,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: inlineJS`",
+          "indent_level": 0,
+          "line_number": 445,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`code: \"javascript code\"` - Inline JavaScript",
+          "indent_level": 0,
+          "line_number": 445,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`app` - Obsidian app object",
+          "indent_level": 0,
+          "line_number": 449,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`Notice` - Obsidian Notice constructor",
+          "indent_level": 0,
+          "line_number": 450,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Current note context",
+          "indent_level": 0,
+          "line_number": 453,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: open`",
+          "indent_level": 0,
+          "line_number": 471,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`link: \"url or [[wikilink]]\"` - URL or note link",
+          "indent_level": 0,
+          "line_number": 471,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: input`",
+          "indent_level": 0,
+          "line_number": 484,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`str: \"text\"` - Text to input to command palette",
+          "indent_level": 0,
+          "line_number": 485,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 498,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: sleep",
+          "indent_level": 1,
+          "line_number": 504,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 506,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: sleep`",
+          "indent_level": 0,
+          "line_number": 513,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`ms: number` - Milliseconds to wait",
+          "indent_level": 0,
+          "line_number": 515,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: updateMetadata`",
+          "indent_level": 0,
+          "line_number": 539,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`bindTarget: \"propertyName\"` - Property to update",
+          "indent_level": 0,
+          "line_number": 540,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`evaluate: boolean` - Whether to evaluate value as expression",
+          "indent_level": 0,
+          "line_number": 543,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`value: any` - New value or expression",
+          "indent_level": 0,
+          "line_number": 545,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`evaluate: false`, `value: \"completed\"` → Set to literal string \"completed\"",
+          "indent_level": 0,
+          "line_number": 546,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`evaluate: true`, `value: \"x + 1\"` → Increment current value by 1",
+          "indent_level": 0,
+          "line_number": 552,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`evaluate: true`, `value: \"!x\"` → Toggle boolean value",
+          "indent_level": 0,
+          "line_number": 557,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: templaterCreateNote`",
+          "indent_level": 0,
+          "line_number": 574,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`templateFile: \"path\"` - Path to template file",
+          "indent_level": 0,
+          "line_number": 574,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`folderPath: \"path\"` - Destination folder",
+          "indent_level": 0,
+          "line_number": 575,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`fileName: \"name\"` - New file name (supports Templater syntax)",
+          "indent_level": 0,
+          "line_number": 577,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`openNote: boolean` - Open after creation (optional)",
+          "indent_level": 0,
+          "line_number": 581,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: runTemplaterFile`",
+          "indent_level": 0,
+          "line_number": 600,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`templateFile: \"path\"` - Path to Templater template",
+          "indent_level": 0,
+          "line_number": 603,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: createNote`",
+          "indent_level": 0,
+          "line_number": 626,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`folderPath: \"path\"` - Destination folder",
+          "indent_level": 0,
+          "line_number": 627,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`fileName: \"name\"` - New file name",
+          "indent_level": 0,
+          "line_number": 633,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`openNote: boolean` - Open after creation (optional)",
+          "indent_level": 0,
+          "line_number": 637,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: replaceInNote`",
+          "indent_level": 0,
+          "line_number": 657,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`fromLine: number` - Start line number (0-indexed)",
+          "indent_level": 0,
+          "line_number": 659,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`toLine: number` - End line number (0-indexed, inclusive)",
+          "indent_level": 0,
+          "line_number": 662,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`replacement: \"text\"` - Replacement text",
+          "indent_level": 0,
+          "line_number": 666,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: regexpReplaceInNote`",
+          "indent_level": 0,
+          "line_number": 683,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`regexp: \"pattern\"` - Regular expression pattern",
+          "indent_level": 0,
+          "line_number": 684,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`regexpFlags: \"flags\"` - Regex flags (g, i, m, etc.)",
+          "indent_level": 0,
+          "line_number": 686,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`replacement: \"text\"` - Replacement text ($1, $2 for captures)",
+          "indent_level": 0,
+          "line_number": 689,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: insertIntoNote`",
+          "indent_level": 0,
+          "line_number": 704,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`line: number` - Line number to insert at (0-indexed)",
+          "indent_level": 0,
+          "line_number": 704,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`value: \"text\"` - Content to insert",
+          "indent_level": 0,
+          "line_number": 705,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`type: replaceSelf`",
+          "indent_level": 0,
+          "line_number": 709,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`replacement: \"text\"` - Content to replace button with",
+          "indent_level": 0,
+          "line_number": 710,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 714,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 724,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: command",
+          "indent_level": 1,
+          "line_number": 731,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: open",
+          "indent_level": 1,
+          "line_number": 736,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`actions: []` - Array of action objects",
+          "indent_level": 0,
+          "line_number": 739,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Each action follows the same syntax as single actions",
+          "indent_level": 0,
+          "line_number": 740,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Actions execute sequentially (top to bottom)",
+          "indent_level": 0,
+          "line_number": 741,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use `sleep` action to add delays between steps",
+          "indent_level": 0,
+          "line_number": 742,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 748,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 757,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 764,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: sleep",
+          "indent_level": 1,
+          "line_number": 772,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: command",
+          "indent_level": 1,
+          "line_number": 773,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: open",
+          "indent_level": 1,
+          "line_number": 776,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`memory^` - Temporary storage (not saved)",
+          "indent_level": 1,
+          "line_number": 784,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Omit for frontmatter (default)",
+          "indent_level": 1,
+          "line_number": 789,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Omit for current note",
+          "indent_level": 1,
+          "line_number": 794,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`NoteName` - Specific note",
+          "indent_level": 1,
+          "line_number": 797,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`Folder/NoteName` - Note in folder",
+          "indent_level": 1,
+          "line_number": 799,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`propertyName` - Simple property",
+          "indent_level": 1,
+          "line_number": 804,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`property.nested.path` - Nested property",
+          "indent_level": 1,
+          "line_number": 806,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`['Property With Spaces']` - Property with spaces",
+          "indent_level": 1,
+          "line_number": 808,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`context.bound.variableName` - Access bound variables",
+          "indent_level": 0,
+          "line_number": 861,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`context.metadata.frontmatter` - Direct frontmatter access",
+          "indent_level": 0,
+          "line_number": 867,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`engine.markdown.create()` - Create markdown content",
+          "indent_level": 0,
+          "line_number": 871,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "`engine.markdown.createEl()` - Create HTML elements",
+          "indent_level": 0,
+          "line_number": 875,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 952,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 954,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 955,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 1005,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 1010,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 1015,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 1026,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 1032,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 1038,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 1042,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Create reusable templates with Meta Bind fields",
+          "indent_level": 0,
+          "line_number": 1138,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use consistent naming for properties across templates",
+          "indent_level": 0,
+          "line_number": 1141,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Keep templates in excluded folders to avoid performance issues",
+          "indent_level": 0,
+          "line_number": 1143,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Limit JavaScript view fields in large notes",
+          "indent_level": 0,
+          "line_number": 1147,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use `excludedFolders` to exclude template folders",
+          "indent_level": 0,
+          "line_number": 1149,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Avoid excessive nested bindings",
+          "indent_level": 0,
+          "line_number": 1152,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use `syncInterval` to balance responsiveness and performance",
+          "indent_level": 0,
+          "line_number": 1154,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use kebab-case for multi-word properties: `start-date`, `action-items`",
+          "indent_level": 0,
+          "line_number": 1157,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Avoid spaces in property names (use bracket notation if needed)",
+          "indent_level": 0,
+          "line_number": 1165,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Be consistent across notes for easier querying",
+          "indent_level": 0,
+          "line_number": 1170,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Define complex buttons once, reference with `BUTTON[id]`",
+          "indent_level": 0,
+          "line_number": 1175,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use descriptive button labels",
+          "indent_level": 0,
+          "line_number": 1176,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Group related actions in multi-action buttons",
+          "indent_level": 0,
+          "line_number": 1178,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use appropriate styles (`destructive` for dangerous actions)",
+          "indent_level": 0,
+          "line_number": 1179,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use `inlineSelect` for compact status fields",
+          "indent_level": 0,
+          "line_number": 1183,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use `slider` with `addLabels` for numeric ranges",
+          "indent_level": 0,
+          "line_number": 1184,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use `textArea` with `class(meta-bind-full-width)` for large text",
+          "indent_level": 0,
+          "line_number": 1185,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use `suggester` for note/tag references",
+          "indent_level": 0,
+          "line_number": 1186,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Default to `math` view for calculations",
+          "indent_level": 0,
+          "line_number": 1192,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use `text(renderMarkdown)` for formatted display",
+          "indent_level": 0,
+          "line_number": 1194,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Save computed values with `[math:propertyName]` syntax",
+          "indent_level": 0,
+          "line_number": 1199,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "Use JavaScript views for complex logic only",
+          "indent_level": 0,
+          "line_number": 1200,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "**Official Documentation:** https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/",
+          "indent_level": 0,
+          "line_number": 1232,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "**Plugin Version:** 1.4.6",
+          "indent_level": 0,
+          "line_number": 1239,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "**Author:** Moritz Jung",
+          "indent_level": 0,
+          "line_number": 1241,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        },
+        {
+          "text": "**Local Documentation:** `04-library/02-pkb-and-pkm-learning/-reference/-official-documentation/-plugin-meta-bind/`",
+          "indent_level": 0,
+          "line_number": 1244,
+          "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{arg1}:",
+        "format": "inline",
+        "line_number": 781,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "expression": "1,",
+        "format": "inline",
+        "line_number": 1051,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "expression": "{grade} (",
+        "format": "inline",
+        "line_number": 1323,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      },
+      {
+        "expression": "{status} (",
+        "format": "inline",
+        "line_number": 1749,
+        "source": "reference-comprehensive-Meta-Bind-Reference-Complete.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Note Name",
+      "Projects Dashboard",
+      "Projects MOC",
+      "wikilink"
+    ],
+    "unique_wiki_link_count": 4,
+    "unique_tags": [
+      "#bind-target-syntax",
+      "#buttons",
+      "#input-fields",
+      "#javascript-view-fields",
+      "#plugin-configuration",
+      "#propertyName",
+      "#quick-start-syntax",
+      "#tag",
+      "#template-examples",
+      "#view-fields"
+    ],
+    "unique_tag_count": 10,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Note Name",
+      "Projects Dashboard",
+      "Projects MOC",
+      "wikilink"
+    ]
+  }
+}

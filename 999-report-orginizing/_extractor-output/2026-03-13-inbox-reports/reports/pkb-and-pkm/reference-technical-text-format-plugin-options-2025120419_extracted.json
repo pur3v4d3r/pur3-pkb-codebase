@@ -1,0 +1,2098 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:17:24.657345",
+    "source_file": "reference-technical-text-format-plugin-options-2025120419.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\01-reports\\02_pkb-and-pkm\\reference-technical-text-format-plugin-options-2025120419.md",
+    "source_file_size_bytes": 25382,
+    "processing_time_seconds": 0.008
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Plugin Text Format",
+        "Text Formatting",
+        "Text Format Settings",
+        "Obsidian Text Formatting Plugin"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "type/technique",
+        "status/in-progress",
+        "pkb",
+        "pkm",
+        "processing-workflow",
+        "cognitive-science/cognitive-load",
+        "cognitive-load-management",
+        "cognitive-resources",
+        "pkb/optimization",
+        "obsidian-plugins",
+        "cognitive-pkm"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251204192622",
+      "created": "2025-12-04T19:26:22",
+      "modified": "2025-12-04T19:26:22",
+      "week": "[[2025-W49]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "maturity": "needs-review",
+      "confidence": "speculative",
+      "next-review": "2025-12-11",
+      "review-count": "0",
+      "link-up": [
+        "[[pkb-&-pkm-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-04|Daily-Note]]"
+      ]
+    },
+    "word_count": 3467,
+    "character_count": 24423,
+    "line_count": 917,
+    "heading_count": 27
+  },
+  "extraction_summary": {
+    "total_items_extracted": 196,
+    "by_type": {
+      "headings": 27,
+      "callouts": 39,
+      "wiki_links": 11,
+      "inline_fields": 11,
+      "definitions": 11,
+      "tags": 10,
+      "code_blocks": 27,
+      "tables": 6,
+      "external_links": 2,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 7,
+      "color_spans": 1,
+      "lists_ordered": 10,
+      "lists_unordered": 26,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 8
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Text Format Wrappers In-Use",
+      "anchor": "text-format-wrappers-in-use",
+      "line_number": 147,
+      "source": "reference-technical-text-format-plugin-options-2025120419.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Formatting Options for Text Format Plugin",
+      "anchor": "formatting-options-for-text-format-plugin",
+      "line_number": 227,
+      "source": "reference-technical-text-format-plugin-options-2025120419.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📑 Table of Contents",
+          "anchor": "table-of-contents",
+          "line_number": 255,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔤 Word Cases Configuration",
+          "anchor": "word-cases-configuration",
+          "line_number": 266,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Available Settings",
+              "anchor": "available-settings",
+              "line_number": 274,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 Link Format Configuration",
+          "anchor": "link-format-configuration",
+          "line_number": 307,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Available Commands",
+              "anchor": "available-commands",
+              "line_number": 315,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📋 List Format Configuration",
+          "anchor": "list-format-configuration",
+          "line_number": 335,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Configuration Settings Visible in Screenshot",
+              "anchor": "configuration-settings-visible-in-screenshot",
+              "line_number": 342,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "List Conversion Commands",
+              "anchor": "list-conversion-commands",
+              "line_number": 361,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚡ Markdown Quicker Configuration",
+          "anchor": "markdown-quicker-configuration",
+          "line_number": 372,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Configuration Visible in Screenshot",
+              "anchor": "configuration-visible-in-screenshot",
+              "line_number": 380,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎁 Wrapper Configuration",
+          "anchor": "wrapper-configuration",
+          "line_number": 404,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Configuration Structure",
+              "anchor": "configuration-structure",
+              "line_number": 412,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Comprehensive Wrapper Library",
+              "anchor": "comprehensive-wrapper-library",
+              "line_number": 434,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔄 Custom Replacement Configuration",
+          "anchor": "custom-replacement-configuration",
+          "line_number": 546,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Configuration Structure (From Screenshot)",
+              "anchor": "configuration-structure-from-screenshot",
+              "line_number": 554,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Observable Patterns From Screenshots",
+              "anchor": "observable-patterns-from-screenshots",
+              "line_number": 576,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Comprehensive Custom Replacement Library",
+              "anchor": "comprehensive-custom-replacement-library",
+              "line_number": 622,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Regex Syntax Reference",
+              "anchor": "regex-syntax-reference",
+              "line_number": 815,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Capture Groups & Replacement",
+              "anchor": "capture-groups-replacement",
+              "line_number": 838,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎯 Integration & Workflows",
+          "anchor": "integration-workflows",
+          "line_number": 861,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Strategic Workflow Integration",
+              "anchor": "strategic-workflow-integration",
+              "line_number": 868,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Performance Optimization",
+              "anchor": "performance-optimization",
+              "line_number": 885,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Troubleshooting Guide",
+              "anchor": "troubleshooting-guide",
+              "line_number": 895,
+              "source": "reference-technical-text-format-plugin-options-2025120419.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📊 Metadata & Attribution",
+          "anchor": "metadata-attribution",
+          "line_number": 906,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 932,
+      "source": "reference-technical-text-format-plugin-options-2025120419.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "purpose",
+        "title": "### Overview",
+        "body": "- **Title**:: [[Formatting Options for Text Format Plugin]]\n- **Prompt/Topic Used**:: \n- **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`",
+        "line_number": 40,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 809,
+        "char_end": 997
+      },
+      {
+        "type": "",
+        "title": "# :FasClipboardList:In-Note Metadata Panel",
+        "body": "- **Note-Type**: `= this.type`\n- **Development Status**: `= this.maturity`\n- **Epistemic Confidence**: `= this.confidence`\n- **Next Review**: `= this.next-review`\n- **Review Count**: `= this.review-count`\n- **Created**: `= this.created`\n- **Last Modified**: `= this.modified`\n\n> [!purpose] ### 📝Content Metrics\n> [**Word Count**:: `= this.file.size`]| [**Est. Read Time**:: `= round(this.file.size / 1300) + \" min\"`]\n> [**Depth Class**:: `= choice(this.file.size < 500, \"🌱Stub\", choice(this.file.size < 2000, \"📄Note\", \"📜Essay\"))`]\n----\n> [!purpose] ### 🕰️Temporal Context\n> [**Created**:: `= this.file.ctime`] | [**Age**:: `= (date(today) - this.file.ctime).days + \" days\"`]\n> [**Last Touch**:: `= this.file.mtime`] | [**Staleness**:: `= choice((date(today) - this.file.mtime).days > 180, \"🕸️Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂Cold\", \"🔥Fresh\"))`]\n> [**Touch Frequency**:: `= choice((date(today) - this.file.mtime).days < 7, \"🔥Active\", choice((date(today) - this.file.mtime).days < 30, \"👌Regular\", \"❄️Dormant\"))`]\n----\n> [!topic-idea] ### 🔗Network Connectivity\n> [**In-Links**:: `= length(this.file.inlinks)`] | [**Out-Links**:: `= length(this.file.outlinks)`]\n> [**Network Status**:: `= choice(length(this.file.inlinks) = 0, \"🕸️Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱Node\"))`]\n```dataviewjs\n// SYSTEM: Semantic Bridge Engine\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks.map(l => l.path);\n\n// 1. Filter the Vault\nconst siblings = dv.pages()\n    .where(p => p.file.path !== current.file.path) // Exclude self\n    .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n    .map(p => {\n        // Find overlap between this page's links and the current page's links\n        const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n        return { \n            link: p.file.link, \n            sharedCount: shared.length, \n            sharedLinks: shared \n        };\n    })\n    .where(p => p.sharedCount > 0) // Must share at least 1 connection\n    .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n    .limit(5); // Only show top 5\n\n// 2. Render the Bridge\nif (siblings.length > 0) {\n    dv.header(3, \"Semantic Bridges (Missing Connections)\");\n    dv.table(\n        [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n        siblings.map(s => [\n            s.link, \n            \"🔗\" + s.sharedCount, \n            s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n        ])\n    );\n} else {\n    dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}\n```\n---\n### Related Notes\n```dataview\nTABLE type, maturity, confidence\nFROM  \"\"\nWHERE  type = \"reference\"\nSORT \"maturity\" DESC\nLIMIT 15\n```\n### Sources & References\n```dataview\nTABLE \n    source AS \"Source Type\",\n    file.ctime AS \"Date Added\"\nFROM \"\"\nWHERE source = \"claude-sonnet-4.5\"\nSORT file.ctime DESC\nLIMIT 10\n```\n### Backlinks & Connections\n```dataview\nTABLE \n    type AS \"Type\",\n    maturity AS \"Maturity\",\n    length(file.inlinks) AS \"Its Backlinks\",\n    dateformat(date(created), \"MMM dd, yyyy\") AS \"Created\"\nFROM [[#]]\nWHERE file.name != this.file.name\nSORT length(file.inlinks) DESC\nLIMIT 20\n```\n### 2025-12-04 - Initial Creation\n*Context*: `=this.title` **by**: `=this.source`\n*Maturity*: `= this.maturity`  \n*Confidence*: `= this.confidence`\n\n### Tags & Classification\n*Primary Tags*: `= this.tags`  \n*Type*: `= this.type`  \n*Source*: `= this.source`",
+        "line_number": 45,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 998,
+        "char_end": 4838
+      },
+      {
+        "type": "",
+        "title": "### Claude Thinking",
+        "body": "Perfect! Thank you for the screenshots. Now I can see the actual settings interface for the Text Format plugin. Let me create an accurate reference document based on what I can observe:",
+        "line_number": 229,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 6571,
+        "char_end": 6786
+      },
+      {
+        "type": "comprehensive-reference",
+        "title": "📚 Comprehensive-Reference",
+        "body": "- **Generated**:: 2024-12-04\n- **Version**:: 2.0 (Accurate Configuration Guide)\n- **Type**:: Reference Documentation\n- **Plugin Version**:: 3.2.1+ (Current)",
+        "line_number": 237,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 6976,
+        "char_end": 7196
+      },
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "**Executive Overview**\n\nThe **Text Format** plugin by [[Benature]] provides comprehensive text manipulation capabilities through six configuration categories visible in the plugin settings: **Word Cases**, **Link Format**, **List Format**, **Markdown Quicker**, **Wrapper**, and **Custom Replacement**. This reference documents the actual configuration interface and provides a comprehensive pattern library for each category, with special emphasis on Custom Replacement—the most flexible and powerful feature.",
+        "line_number": 243,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 7197,
+        "char_end": 7728
+      },
+      {
+        "type": "how-to-use-this",
+        "title": "Untitled",
+        "body": "**Navigation Guide**\n\nAccess plugin settings via: Settings → Community Plugins → Text Format → Options\n\nEach section below corresponds to an actual settings panel in the plugin interface. Configuration examples are production-ready and can be directly implemented in your vault.",
+        "line_number": 248,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 7729,
+        "char_end": 8039
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Word Case Options**\n- **Settings Panel**: \"WORD CASES\"\n- **Function**: Configure case transformation behaviors\n- **Scope**: Text selection or inline title",
+        "line_number": 268,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 8343,
+        "char_end": 8524
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Accessing Case Commands**\n\nAll case transformation commands are available via Command Palette:\n- `Cmd/Ctrl + P` → Type \"Text Format\"\n- Select desired case transformation\n- Optionally assign hotkeys: Settings → Hotkeys → Search \"Text Format\"",
+        "line_number": 297,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 9246,
+        "char_end": 9529
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Link Format Options**\n- **Settings Panel**: \"LINK FORMAT\"\n- **Function**: Configure link conversion behaviors\n- **Types**: Wikilinks ↔ Markdown Links ↔ URLs",
+        "line_number": 309,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 9567,
+        "char_end": 9750
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Link Format Workflow Integration**\n\nCombine with QuickAdd for batch conversions:\n1. Select document section\n2. Run link conversion command\n3. All links within selection are transformed",
+        "line_number": 325,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 10176,
+        "char_end": 10392
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**List Format Options**\n- **Settings Panel**: \"LIST FORMAT\"\n- **Function**: Configure list structure transformations",
+        "line_number": 337,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 10430,
+        "char_end": 10569
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Markdown Quicker Options**\n- **Settings Panel**: \"MARKDOWN QUICKER\"\n- **Function**: Quick markdown syntax operations\n- **Purpose**: Wrap selections with common markdown syntax",
+        "line_number": 374,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 11353,
+        "char_end": 11555
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Built-in Markdown Quicker Patterns**\n\nThe plugin includes predefined wrappers for:\n- Underline: `<u>text</u>`\n- And additional patterns configurable by user",
+        "line_number": 395,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 11921,
+        "char_end": 12102
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Wrapper System**\n- **Settings Panel**: \"WRAPPER\"\n- **Function**: Wrap selection with custom prefix/suffix pairs\n- **Flexibility**: Unlimited custom wrappers",
+        "line_number": 406,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 12136,
+        "char_end": 12319
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Adding Custom Wrappers**\n\n1. Navigate to Settings → Text Format → Wrapper section\n2. Fill in three fields:\n   - **Wrapper Name**: Command identifier\n   - **Prefix**: Opening text\n   - **Suffix**: Closing text\n3. Click \"Add new wrapper\" button\n4. Access via Command Palette: \"Text Format: [Wrapper Name]\"\n5. Optionally assign hotkey",
+        "line_number": 422,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 12662,
+        "char_end": 13044
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**HTML Styling Wrappers**",
+        "line_number": 436,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 13080,
+        "char_end": 13121
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**LaTeX Math Wrappers**",
+        "line_number": 465,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 13552,
+        "char_end": 13591
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Obsidian Callout Wrappers**",
+        "line_number": 486,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 13814,
+        "char_end": 13859
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Code Block Wrappers**",
+        "line_number": 506,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 14069,
+        "char_end": 14108
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Semantic Markup Wrappers**",
+        "line_number": 523,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 14268,
+        "char_end": 14312
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Custom Replacement System**\n- **Settings Panel**: \"CUSTOM REPLACEMENT\"  \n- **Function**: Define find-and-replace rules using patterns or regex\n- **Power**: Most flexible text transformation feature",
+        "line_number": 548,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 14555,
+        "char_end": 14779
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Adding Custom Replacements**\n\n1. Navigate to Settings → Text Format → Custom Replacement\n2. Click \"Add\" button\n3. Fill in three fields:\n   - **Command name**: Descriptive identifier\n   - **Search**: Pattern to match (regex supported)\n   - **Replace**: Replacement string\n4. Save configuration\n5. Access via Command Palette: \"Text Format: [Command Name]\"",
+        "line_number": 564,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 15149,
+        "char_end": 15553
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Category 1: Whitespace Management**",
+        "line_number": 624,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 16371,
+        "char_end": 16424
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Category 2: Typography Fixes**",
+        "line_number": 645,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 16727,
+        "char_end": 16775
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Category 3: Markdown Cleanup**",
+        "line_number": 670,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 17098,
+        "char_end": 17146
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Category 4: List & Task Management**",
+        "line_number": 695,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 17516,
+        "char_end": 17570
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Category 5: Case Transformations**",
+        "line_number": 716,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 17838,
+        "char_end": 17890
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Category 6: URL & Link Processing**",
+        "line_number": 733,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 18088,
+        "char_end": 18141
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Category 7: Date & Time Formatting**",
+        "line_number": 750,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 18385,
+        "char_end": 18439
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Category 8: Citation & Reference**",
+        "line_number": 763,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 18616,
+        "char_end": 18668
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Category 9: Special Character Removal**",
+        "line_number": 776,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 18870,
+        "char_end": 18927
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Category 10: Obsidian-Specific**",
+        "line_number": 793,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 19121,
+        "char_end": 19171
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**JavaScript Regex Engine**\n\nText Format uses JavaScript's regex engine. Common patterns:",
+        "line_number": 817,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 19514,
+        "char_end": 19625
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Using Capture Groups**\n\nCapture groups (parentheses) let you \"remember\" matched text:\n\n**Pattern**: `(\\d{2})/(\\d{2})/(\\d{4})`\n**Input**: `12/25/2024`\n**Captured**: Group 1=`12`, Group 2=`25`, Group 3=`2024`\n**Replace**: `$3-$1-$2`\n**Output**: `2024-12-25`",
+        "line_number": 840,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 20394,
+        "char_end": 20697
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Common Regex Pitfalls**\n\n- **Must Escape**: `. * + ? [ ] ( ) { } ^ $ | \\` when matching literally\n- **Greedy Matching**: `.*` matches as much as possible; use `.*?` for non-greedy\n- **Line Boundaries**: `^` and `$` only match line start/end; use `\\n` for newlines\n- **Special Replacement**: `$` is used for capture groups; to insert literal `$`, use `$$`",
+        "line_number": 851,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 20698,
+        "char_end": 21079
+      },
+      {
+        "type": "the-philosophy",
+        "title": "Untitled",
+        "body": "**Design Philosophy**\n\nText Format embodies **granular control over text transformation** in [[Obsidian]]. Rather than rigid preprocessing, it provides building blocks that users assemble into personal text processing pipelines. The Custom Replacement feature exemplifies this: instead of hundreds of built-in commands, it provides a framework where users define exactly the transformations they need.",
+        "line_number": 863,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 21115,
+        "char_end": 21543
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Multi-Plugin Workflow Strategies**\n\n**Strategy 1: QuickAdd Macros**\n- Combine multiple Text Format commands in sequence\n- Example: Remove formatting → Convert links → Standardize spacing\n\n**Strategy 2: Templater Integration**\n- Invoke Text Format commands from templates\n- Apply transformations to newly created notes\n\n**Strategy 3: Hotkey Chains**\n- Assign hotkeys to frequently used replacements\n- Build muscle memory for common transformations",
+        "line_number": 870,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 21580,
+        "char_end": 22081
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Working with Large Files**\n\n- **Test on selections first**: Verify pattern works before applying to entire note\n- **Use specific patterns**: `\\.` is faster than `.*` when matching periods\n- **Batch similar operations**: Group related replacements in single command\n- **Document your patterns**: Keep a reference note of working configurations",
+        "line_number": 887,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 22112,
+        "char_end": 22485
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Research Methodology**\n\nThis reference was compiled through:\n\n**Primary Sources:**\n- Text Format Plugin settings screenshots (user-provided)\n- [Official GitHub Repository](https://github.com/Benature/obsidian-text-format)\n- Plugin README documentation\n- Community GitHub Issues (#78, #77, #61, #29, #24, #8)\n\n**Key Findings:**\n- Settings organized in six panels: Word Cases, Link Format, List Format, Markdown Quicker, Wrapper, Custom Replacement\n- Custom Replacement uses simple Search/Replace structure (no separate flags field)\n- Wrapper system uses Command Name + Prefix + Suffix structure\n- Regex patterns support JavaScript syntax with capture groups ($1, $2, etc.)\n\n**Confidence Level:**\n- **High**: All configuration structures verified via screenshots\n- **High**: Command naming and functionality from documentation\n- **High**: Regex patterns and replacement syntax",
+        "line_number": 908,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md",
+        "char_start": 22931,
+        "char_end": 23875
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Formatting Options for Text Format Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Formatting Options for Text Format Plugin]]",
+        "line_number": 41,
+        "section": "Document Start",
+        "context_line": "> - **Title**:: [[Formatting Options for Text Format Plugin]]",
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "target": "Benature",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Benature]]",
+        "line_number": 246,
+        "section": "Formatting Options for Text Format Plugin",
+        "context_line": "> The **Text Format** plugin by [[Benature]] provides comprehensive text manipulation capabilities through six configuration categories visible in the plugin settings: **Word Cases**, **Link Format**, **List Format**, **Markdown Quicker**, **Wrapper**, and **Custom Replacement**. This reference documents the actual configuration interface and provides a comprehensive pattern library for each category, with special emphasis on Custom Replacement—the most flexible and powerful feature.",
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "target": "url\\",
+        "heading": null,
+        "display_text": "text",
+        "full_match": "[[url\\|text]]",
+        "line_number": 321,
+        "section": "Available Commands",
+        "context_line": "| **Markdown Links to Wikilinks** | `[text](url)` → `[[url\\|text]]` | Converts standard markdown links |",
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "target": "note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[note]]",
+        "line_number": 322,
+        "section": "Available Commands",
+        "context_line": "| **Wikilinks to Markdown** | `[[note]]` → `[note](note.md)` | URL encodes spaces |",
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "target": "Reference $1",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reference $1]]",
+        "line_number": 769,
+        "section": "Comprehensive Custom Replacement Library",
+        "context_line": "Replace: [[Reference $1]]",
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "target": "Reference $1 $2",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reference $1 $2]]",
+        "line_number": 773,
+        "section": "Comprehensive Custom Replacement Library",
+        "context_line": "Replace: [[Reference $1 $2]]",
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 866,
+        "section": "🎯 Integration & Workflows",
+        "context_line": "> Text Format embodies **granular control over text transformation** in [[Obsidian]]. Rather than rigid preprocessing, it provides building blocks that users assemble into personal text processing pipelines. The Custom Replacement feature exemplifies this: instead of hundreds of built-in commands, it provides a framework where users define exactly the transformations they need.",
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "target": "JavaScript Regex for Knowledge Workers",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[JavaScript Regex for Knowledge Workers]]",
+        "line_number": 934,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[JavaScript Regex for Knowledge Workers]]**",
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "target": "Obsidian Multi-Plugin Workflow Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian Multi-Plugin Workflow Design]]",
+        "line_number": 939,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Obsidian Multi-Plugin Workflow Design]]**",
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "target": "Markdown Standardization Practices for PKB",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Markdown Standardization Practices for PKB]]",
+        "line_number": 944,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Markdown Standardization Practices for PKB]]**",
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "target": "Text Processing Pipeline Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Text Processing Pipeline Architecture]]",
+        "line_number": 949,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Text Processing Pipeline Architecture]]**",
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Word Count",
+        "value": "`= this.file.size`",
+        "format": "bracket",
+        "line_number": 56,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "field_name": "Est. Read Time",
+        "value": "`= round(this.file.size / 1300) + \" min\"`",
+        "format": "bracket",
+        "line_number": 56,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "field_name": "Depth Class",
+        "value": "`= choice(this.file.size < 500, \"🌱Stub\", choice(this.file.size < 2000, \"📄Note\", \"📜Essay\"))`",
+        "format": "bracket",
+        "line_number": 57,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "field_name": "Created",
+        "value": "`= this.file.ctime`",
+        "format": "bracket",
+        "line_number": 60,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "field_name": "Age",
+        "value": "`= (date(today) - this.file.ctime).days + \" days\"`",
+        "format": "bracket",
+        "line_number": 60,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "field_name": "Last Touch",
+        "value": "`= this.file.mtime`",
+        "format": "bracket",
+        "line_number": 61,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "field_name": "Staleness",
+        "value": "`= choice((date(today) - this.file.mtime).days > 180, \"🕸️Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂Cold\", \"🔥Fresh\"))`",
+        "format": "bracket",
+        "line_number": 61,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "field_name": "Touch Frequency",
+        "value": "`= choice((date(today) - this.file.mtime).days < 7, \"🔥Active\", choice((date(today) - this.file.mtime).days < 30, \"👌Regular\", \"❄️Dormant\"))`",
+        "format": "bracket",
+        "line_number": 62,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "field_name": "In-Links",
+        "value": "`= length(this.file.inlinks)`",
+        "format": "bracket",
+        "line_number": 65,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "field_name": "Out-Links",
+        "value": "`= length(this.file.outlinks)`",
+        "format": "bracket",
+        "line_number": 65,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "field_name": "Network Status",
+        "value": "`= choice(length(this.file.inlinks) = 0, \"🕸️Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱Node\"))`",
+        "format": "bracket",
+        "line_number": 66,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 78,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "tag": "ff0000",
+        "full_tag": "#ff0000",
+        "hierarchy": [
+          "ff0000"
+        ],
+        "line_number": 79,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "tag": "ff6e00",
+        "full_tag": "#ff6e00",
+        "hierarchy": [
+          "ff6e00"
+        ],
+        "line_number": 79,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "tag": "cbff00",
+        "full_tag": "#cbff00",
+        "hierarchy": [
+          "cbff00"
+        ],
+        "line_number": 81,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "tag": "d8be34",
+        "full_tag": "#d8be34",
+        "hierarchy": [
+          "d8be34"
+        ],
+        "line_number": 82,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 90,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "tag": "plugin-configuration",
+        "full_tag": "#plugin-configuration",
+        "hierarchy": [
+          "plugin-configuration"
+        ],
+        "line_number": 90,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "tag": "text-manipulation",
+        "full_tag": "#text-manipulation",
+        "hierarchy": [
+          "text-manipulation"
+        ],
+        "line_number": 91,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 91,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "tag": "productivity-tools",
+        "full_tag": "#productivity-tools",
+        "hierarchy": [
+          "productivity-tools"
+        ],
+        "line_number": 92,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Text Format Wrappers In-Use",
+        "anchor": "text-format-wrappers-in-use",
+        "line_number": 147,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 1,
+        "text": "Formatting Options for Text Format Plugin",
+        "anchor": "formatting-options-for-text-format-plugin",
+        "line_number": 227,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 2,
+        "text": "📑 Table of Contents",
+        "anchor": "table-of-contents",
+        "line_number": 255,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 2,
+        "text": "🔤 Word Cases Configuration",
+        "anchor": "word-cases-configuration",
+        "line_number": 266,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Available Settings",
+        "anchor": "available-settings",
+        "line_number": 274,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Link Format Configuration",
+        "anchor": "link-format-configuration",
+        "line_number": 307,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Available Commands",
+        "anchor": "available-commands",
+        "line_number": 315,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 2,
+        "text": "📋 List Format Configuration",
+        "anchor": "list-format-configuration",
+        "line_number": 335,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Configuration Settings Visible in Screenshot",
+        "anchor": "configuration-settings-visible-in-screenshot",
+        "line_number": 342,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "List Conversion Commands",
+        "anchor": "list-conversion-commands",
+        "line_number": 361,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 2,
+        "text": "⚡ Markdown Quicker Configuration",
+        "anchor": "markdown-quicker-configuration",
+        "line_number": 372,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Configuration Visible in Screenshot",
+        "anchor": "configuration-visible-in-screenshot",
+        "line_number": 380,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 2,
+        "text": "🎁 Wrapper Configuration",
+        "anchor": "wrapper-configuration",
+        "line_number": 404,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Configuration Structure",
+        "anchor": "configuration-structure",
+        "line_number": 412,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Comprehensive Wrapper Library",
+        "anchor": "comprehensive-wrapper-library",
+        "line_number": 434,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 Custom Replacement Configuration",
+        "anchor": "custom-replacement-configuration",
+        "line_number": 546,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Configuration Structure (From Screenshot)",
+        "anchor": "configuration-structure-from-screenshot",
+        "line_number": 554,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Observable Patterns From Screenshots",
+        "anchor": "observable-patterns-from-screenshots",
+        "line_number": 576,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Comprehensive Custom Replacement Library",
+        "anchor": "comprehensive-custom-replacement-library",
+        "line_number": 622,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Regex Syntax Reference",
+        "anchor": "regex-syntax-reference",
+        "line_number": 815,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Capture Groups & Replacement",
+        "anchor": "capture-groups-replacement",
+        "line_number": 838,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Integration & Workflows",
+        "anchor": "integration-workflows",
+        "line_number": 861,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Strategic Workflow Integration",
+        "anchor": "strategic-workflow-integration",
+        "line_number": 868,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Performance Optimization",
+        "anchor": "performance-optimization",
+        "line_number": 885,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 3,
+        "text": "Troubleshooting Guide",
+        "anchor": "troubleshooting-guide",
+        "line_number": 895,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Metadata & Attribution",
+        "anchor": "metadata-attribution",
+        "line_number": 906,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 932,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "> // SYSTEM: Semantic Bridge Engine\n> // PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\n> const current = dv.current();\n> const myOutlinks = current.file.outlinks.map(l => l.path);\n> \n> // 1. Filter the Vault\n> const siblings = dv.pages()\n>     .where(p => p.file.path !== current.file.path) // Exclude self\n>     .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n>     .map(p => {\n>         // Find overlap between this page's links and the current page's links\n>         const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n>         return { \n>             link: p.file.link, \n>             sharedCount: shared.length, \n>             sharedLinks: shared \n>         };\n>     })\n>     .where(p => p.sharedCount > 0) // Must share at least 1 connection\n>     .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n>     .limit(5); // Only show top 5\n> \n> // 2. Render the Bridge\n> if (siblings.length > 0) {\n>     dv.header(3, \"Semantic Bridges (Missing Connections)\");\n>     dv.table(\n>         [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n>         siblings.map(s => [\n>             s.link, \n>             \"🔗\" + s.sharedCount, \n>             s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n>         ])\n>     );\n> } else {\n>     dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n> }\n>",
+        "line_start": 67,
+        "line_end": 104,
+        "char_count": 1461,
+        "line_count": 37,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TABLE type, maturity, confidence\n> FROM  \"\"\n> WHERE  type = \"reference\"\n> SORT \"maturity\" DESC\n> LIMIT 15\n>",
+        "line_start": 107,
+        "line_end": 113,
+        "char_count": 109,
+        "line_count": 6,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TABLE \n>     source AS \"Source Type\",\n>     file.ctime AS \"Date Added\"\n> FROM \"\"\n> WHERE source = \"claude-sonnet-4.5\"\n> SORT file.ctime DESC\n> LIMIT 10\n>",
+        "line_start": 115,
+        "line_end": 123,
+        "char_count": 155,
+        "line_count": 8,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TABLE \n>     type AS \"Type\",\n>     maturity AS \"Maturity\",\n>     length(file.inlinks) AS \"Its Backlinks\",\n>     dateformat(date(created), \"MMM dd, yyyy\") AS \"Created\"\n> FROM [[#]]\n> WHERE file.name != this.file.name\n> SORT length(file.inlinks) DESC\n> LIMIT 20\n>",
+        "line_start": 125,
+        "line_end": 135,
+        "char_count": 263,
+        "line_count": 10,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "</span>",
+        "line_start": 160,
+        "line_end": 162,
+        "char_count": 7,
+        "line_count": 1,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "BLU01\n<span style='color: #00ffd2;'>\n\nBLU02\n<span style='color: #00f8ff;'>\n\nPUR01\n<span style='color: #7200ff;'>\n\nPIN01\n<span style='color: #ff0075;'>\n\nRED01\n<span style='color: #ff0000;'>\n\nORA01\n<span style='color: #ff6e00;'>\n\nGRE01\n<span style='color: #83ff00;'>\n\nGRE02\n<span style='color: #cbff00;'>\n\nGOLD01\n<span style='color: #d8be34;'>\n\nGrey\n<span style='color: #6B7280;'>\n\nLarge Text\n<span style='font-size: 1.3em;'>\n\nRed Italic\n<span style='color: #DC2626; font-weight: 500; font-style: italic;'>\n\nRed Block\n<span style='color: #FF6B6B; background-color: #FFE5E5; padding: 3px 8px; border-radius: 4px; font-weight: 500; border-left: 3px solid #FF6B6B;'>\n\nGreen Block\n<span style='color: #059669; background-color: #D1FAE5; padding: 3px 8px; border-radius: 4px; font-weight: 500;'>\n\nBadge Tag\n<span style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 3px 10px; border-radius: 12px; font-size: 0.85em; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;'>\n\nSide Bar\n<span style='color: #6B7280; font-size: 0.9em; font-style: italic; border-left: 2px solid #D1D5DB; padding-left: 8px; margin-left: 5px;'>\n\nSubscript\n<sub>\n</sub>\n\nSuperscript\n<sup>\n</sup>\n\nStrikethrough\n<span style='display: inline-block; transform: rotate(-90deg); transform-origin: center;'>",
+        "line_start": 164,
+        "line_end": 225,
+        "char_count": 1322,
+        "line_count": 58,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Wrapper Name (Command): Prefix / Suffix",
+        "line_start": 385,
+        "line_end": 387,
+        "char_count": 39,
+        "line_count": 1,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Name: red-text\nPrefix: <span style='color:red;'>\nSuffix: </span>\n\nName: highlight-yellow\nPrefix: <mark style='background-color:yellow;'>\nSuffix: </mark>\n\nName: blue-bold\nPrefix: <span style='color:blue; font-weight:bold;'>\nSuffix: </span>\n\nName: center-text\nPrefix: <center>\nSuffix: </center>\n\nName: small-text\nPrefix: <small>\nSuffix: </small>\n\nName: large-heading\nPrefix: <span style='font-size:1.5em;'>\nSuffix: </span>",
+        "line_start": 439,
+        "line_end": 463,
+        "char_count": 420,
+        "line_count": 23,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Name: inline-math\nPrefix: $\nSuffix: $\n\nName: display-math\nPrefix: $$\nSuffix: $$\n\nName: equation-env\nPrefix: \\begin{equation}\nSuffix: \\end{equation}\n\nName: aligned-env\nPrefix: \\begin{aligned}\nSuffix: \\end{aligned}",
+        "line_start": 468,
+        "line_end": 484,
+        "char_count": 212,
+        "line_count": 15,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Name: note-callout\nPrefix: > [!note]\n> \nSuffix: (leave empty)\n\nName: warning-callout\nPrefix: > [!warning]\n> \nSuffix: (leave empty)\n\nName: example-callout\nPrefix: > [!example]\n> \nSuffix: (leave empty)",
+        "line_start": 489,
+        "line_end": 504,
+        "char_count": 199,
+        "line_count": 14,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Name: python-code\nPrefix:",
+        "line_start": 509,
+        "line_end": 511,
+        "char_count": 25,
+        "line_count": 2,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Name: javascript-code\nPrefix:",
+        "line_start": 512,
+        "line_end": 515,
+        "char_count": 29,
+        "line_count": 2,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Name: bash-code\nPrefix:",
+        "line_start": 516,
+        "line_end": 519,
+        "char_count": 23,
+        "line_count": 2,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 520,
+        "line_end": 521,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Name: keyboard-key\nPrefix: <kbd>\nSuffix: </kbd>\n\nName: definition-term\nPrefix: **\nSuffix: **::\n\nName: spoiler-text\nPrefix: ||\nSuffix: ||\n\nName: variable-name\nPrefix: `\nSuffix: ` (variable)",
+        "line_start": 526,
+        "line_end": 542,
+        "char_count": 188,
+        "line_count": 15,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: Remove trailing spaces\nSearch: (\\s+)(\\n|\\s)(\\s+)\nReplace: (empty is fine)\n\nCommand name: Remove blank line(s)\nSearch: \\n\\s\\n\nReplace: \\n\n\nCommand name: Add extra line break b\nSearch: \\n\nReplace: \\n\\n\n\nCommand name: Split line(s) by blank\nSearch: \\n\nReplace: \\n\n\nCommand name: Remove -\nSearch: -\nReplace: -\n\nCommand name: kebab-case\nSearch: (pattern not fully visible)\nReplace: (not visible)\n\nCommand name: Remove _\nSearch: _\nReplace: -\n\nCommand name: Remove Task\nSearch: - [ ]\nReplace: (empty is fine)\n\nCommand name: Remove Backtic\nSearch: `\nReplace: (empty is fine)\n\nCommand name: Command name\nSearch: Search\nReplace: (empty is fine)",
+        "line_start": 580,
+        "line_end": 620,
+        "char_count": 648,
+        "line_count": 39,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: Remove trailing spaces\nSearch: \\s+$\nReplace: (empty)\n\nCommand name: Collapse multiple spaces\nSearch: \\s{2,}\nReplace:   (single space)\n\nCommand name: Convert tabs to 4 spaces\nSearch: \\t\nReplace:     (4 spaces)\n\nCommand name: Remove double blank lines\nSearch: \\n{3,}\nReplace: \\n\\n",
+        "line_start": 627,
+        "line_end": 643,
+        "char_count": 292,
+        "line_count": 15,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: Curly quotes to straight\nSearch: [\"\"\"]\nReplace: \"\n\nCommand name: Curly apostrophes to straight\nSearch: ['']\nReplace: '\n\nCommand name: Em dash to double hyphen\nSearch: —\nReplace: --\n\nCommand name: En dash to hyphen\nSearch: –\nReplace: -\n\nCommand name: Three dots to ellipsis\nSearch: \\.\\.\\.\nReplace: …",
+        "line_start": 648,
+        "line_end": 668,
+        "char_count": 312,
+        "line_count": 19,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: Remove bold formatting\nSearch: \\*\\*(.+?)\\*\\*\nReplace: $1\n\nCommand name: Remove italic formatting\nSearch: \\*(.+?)\\*\nReplace: $1\n\nCommand name: Remove strikethrough\nSearch: ~~(.+?)~~\nReplace: $1\n\nCommand name: Fix bullet spacing\nSearch: ^-(\\S)\nReplace: - $1\n\nCommand name: Remove markdown links keep text\nSearch: \\[([^\\]]+)\\]\\([^\\)]+\\)\nReplace: $1",
+        "line_start": 673,
+        "line_end": 693,
+        "char_count": 359,
+        "line_count": 19,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: Remove checkboxes\nSearch: - \\[ \\] \nReplace: - \n\nCommand name: Check all tasks\nSearch: - \\[ \\] \nReplace: - [x] \n\nCommand name: Uncheck all tasks\nSearch: - \\[x\\] \nReplace: - [ ] \n\nCommand name: Remove task markers\nSearch: - \\[[x ]\\] \nReplace: -",
+        "line_start": 698,
+        "line_end": 714,
+        "char_count": 256,
+        "line_count": 15,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: Snake case to space\nSearch: _\nReplace:   (space)\n\nCommand name: Kebab case to space\nSearch: -\nReplace:   (space)\n\nCommand name: Remove underscores\nSearch: _\nReplace: (empty)",
+        "line_start": 719,
+        "line_end": 731,
+        "char_count": 187,
+        "line_count": 11,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: Clean URL parameters\nSearch: \\?[^\\s]+\nReplace: (empty)\n\nCommand name: Add https to bare URLs\nSearch: \\b(www\\.\\S+)\nReplace: https://$1\n\nCommand name: Extract URL from markdown\nSearch: \\[([^\\]]+)\\]\\(([^\\)]+)\\)\nReplace: $2",
+        "line_start": 736,
+        "line_end": 748,
+        "char_count": 233,
+        "line_count": 11,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: MM/DD/YYYY to YYYY-MM-DD\nSearch: (\\d{2})/(\\d{2})/(\\d{4})\nReplace: $3-$1-$2\n\nCommand name: Remove ordinal suffixes\nSearch: (\\d+)(st|nd|rd|th)\nReplace: $1",
+        "line_start": 753,
+        "line_end": 761,
+        "char_count": 166,
+        "line_count": 7,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: Numeric citation to wikilink\nSearch: \\[(\\d+)\\]\nReplace: [[Reference $1]]\n\nCommand name: Author year to wikilink\nSearch: \\(([A-Z][a-z]+),\\s*(\\d{4})\\)\nReplace: [[Reference $1 $2]]",
+        "line_start": 766,
+        "line_end": 774,
+        "char_count": 191,
+        "line_count": 7,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: Remove backticks\nSearch: `\nReplace: (empty)\n\nCommand name: Remove asterisks\nSearch: \\*\nReplace: (empty)\n\nCommand name: Remove parentheses\nSearch: [\\(\\)]\nReplace: (empty)",
+        "line_start": 779,
+        "line_end": 791,
+        "char_count": 183,
+        "line_count": 11,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: Remove wikilink brackets\nSearch: \\[\\[([^\\]]+)\\]\\]\nReplace: $1\n\nCommand name: Fix tag spacing\nSearch: #\\s+(\\w+)\nReplace: #$1\n\nCommand name: Convert header to anchor\nSearch: ^(#{1,6})\\s+(.+)$\nReplace: $1 $2 {#$2}",
+        "line_start": 796,
+        "line_end": 808,
+        "char_count": 224,
+        "line_count": 11,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Command name: Parentheses to brackets\nSearch: \\(([^)]+)\\)\nReplace: [$1]",
+        "line_start": 810,
+        "line_end": 814,
+        "char_count": 71,
+        "line_count": 3,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Command",
+          "Transformation",
+          "Notes"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Markdown Links to Wikilinks**",
+            "`[text](url)` → `[[url\\",
+            "text]]`",
+            "Converts standard markdown links"
+          ],
+          [
+            "**Wikilinks to Markdown**",
+            "`[[note]]` → `[note](note.md)`",
+            "URL encodes spaces"
+          ],
+          [
+            "**Detect and Convert Links**",
+            "Auto-detect and convert bullet lists with links",
+            "Batch processing"
+          ]
+        ],
+        "line_start": 227,
+        "row_count": 3,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "headers": [
+          "Command",
+          "Function"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Convert Bullet List**",
+            "Standardize bullet symbols, split lines"
+          ],
+          [
+            "**Convert Ordered List**",
+            "Create numbered lists from symbols"
+          ],
+          [
+            "**Bullet to Ordered**",
+            "`-` → `1. 2. 3.`"
+          ],
+          [
+            "**Ordered to Bullet**",
+            "`1.` → `-`"
+          ]
+        ],
+        "line_start": 249,
+        "row_count": 4,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "headers": [
+          "Field",
+          "Description",
+          "Example"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Wrapper Name (Command)**",
+            "Identifier for command palette",
+            "`red-text`"
+          ],
+          [
+            "**Prefix**",
+            "Text/tag before selection",
+            "`<span style='color:red;'>`"
+          ],
+          [
+            "**Suffix**",
+            "Text/tag after selection",
+            "`</span>`"
+          ]
+        ],
+        "line_start": 291,
+        "row_count": 3,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "headers": [
+          "Field",
+          "Description",
+          "Example"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Command Name**",
+            "Display name in command palette",
+            "`Remove trailing spaces`"
+          ],
+          [
+            "**Search**",
+            "Pattern to find (supports regex)",
+            "`(\\s+)$`"
+          ],
+          [
+            "**Replace**",
+            "Replacement text",
+            "*(empty for removal)*"
+          ]
+        ],
+        "line_start": 339,
+        "row_count": 3,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "headers": [
+          "Pattern",
+          "Meaning",
+          "Example"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "`.`",
+            "Any character",
+            "`a.c` matches `abc`, `a1c`"
+          ],
+          [
+            "`\\s`",
+            "Whitespace",
+            "`\\s+` matches multiple spaces"
+          ],
+          [
+            "`\\d`",
+            "Digit",
+            "`\\d{4}` matches `2024`"
+          ],
+          [
+            "`\\w`",
+            "Word character",
+            "`\\w+` matches `hello`"
+          ],
+          [
+            "`^`",
+            "Start of line",
+            "`^#` matches `# Header`"
+          ],
+          [
+            "`$`",
+            "End of line",
+            "`\\s+$` matches trailing spaces"
+          ],
+          [
+            "`*`",
+            "Zero or more",
+            "`a*` matches ``, `a`, `aaa`"
+          ],
+          [
+            "`+`",
+            "One or more",
+            "`\\d+` matches `123`"
+          ],
+          [
+            "`?`",
+            "Zero or one",
+            "`colou?r` matches `color`, `colour`"
+          ],
+          [
+            "`\\",
+            "`",
+            "Or",
+            "`cat\\",
+            "dog` matches either"
+          ],
+          [
+            "`()`",
+            "Capture group",
+            "`(\\d+)` captured as `$1`"
+          ],
+          [
+            "`[]`",
+            "Character class",
+            "`[aeiou]` matches vowels"
+          ],
+          [
+            "`\\`",
+            "Escape special char",
+            "`\\.` matches literal period"
+          ]
+        ],
+        "line_start": 408,
+        "row_count": 13,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "headers": [
+          "Issue",
+          "Cause",
+          "Solution"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Pattern doesn't match",
+            "Regex syntax error",
+            "Test on regex101.com (JavaScript mode)"
+          ],
+          [
+            "Replaces too much",
+            "Greedy matching",
+            "Use `.*?` instead of `.*`"
+          ],
+          [
+            "Command not in palette",
+            "Settings not saved",
+            "Reload Obsidian after config changes"
+          ],
+          [
+            "Wrong character replaced",
+            "Missing escape",
+            "Add `\\` before special characters"
+          ]
+        ],
+        "line_start": 561,
+        "row_count": 4,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      }
+    ],
+    "external_links": [
+      {
+        "display_text": "Official GitHub Repository",
+        "url": "https://github.com/Benature/obsidian-text-format",
+        "format": "markdown",
+        "line_number": 915,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "display_text": "https://$1",
+        "url": "https://$1",
+        "format": "bare",
+        "line_number": 743,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "Word Count",
+        "definition": "`= this.file.size`",
+        "line_number": 56,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "term": "Est. Read Time",
+        "definition": "`= round(this.file.size / 1300) + \" min\"`",
+        "line_number": 56,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "term": "Depth Class",
+        "definition": "`= choice(this.file.size < 500, \"🌱Stub\", choice(this.file.size < 2000, \"📄Note\", \"📜Essay\"))`",
+        "line_number": 57,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "term": "Created",
+        "definition": "`= this.file.ctime`",
+        "line_number": 60,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "term": "Age",
+        "definition": "`= (date(today) - this.file.ctime).days + \" days\"`",
+        "line_number": 60,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "term": "Last Touch",
+        "definition": "`= this.file.mtime`",
+        "line_number": 61,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "term": "Staleness",
+        "definition": "`= choice((date(today) - this.file.mtime).days > 180, \"🕸️Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂Cold\", \"🔥Fresh\"))`",
+        "line_number": 61,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "term": "Touch Frequency",
+        "definition": "`= choice((date(today) - this.file.mtime).days < 7, \"🔥Active\", choice((date(today) - this.file.mtime).days < 30, \"👌Regular\", \"❄️Dormant\"))`",
+        "line_number": 62,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "term": "In-Links",
+        "definition": "`= length(this.file.inlinks)`",
+        "line_number": 65,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "term": "Out-Links",
+        "definition": "`= length(this.file.outlinks)`",
+        "line_number": 65,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "term": "Network Status",
+        "definition": "`= choice(length(this.file.inlinks) = 0, \"🕸️Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱Node\"))`",
+        "line_number": 66,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      }
+    ],
+    "mermaid_diagrams": [],
+    "footnotes": [
+      {
+        "ref_id": "\\",
+        "content": null,
+        "type": "reference",
+        "line_number": 691,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "ref_id": "\\)",
+        "content": null,
+        "type": "reference",
+        "line_number": 691,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "ref_id": "\\s",
+        "content": null,
+        "type": "reference",
+        "line_number": 738,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "ref_id": "\\",
+        "content": null,
+        "type": "reference",
+        "line_number": 746,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "ref_id": "\\)",
+        "content": null,
+        "type": "reference",
+        "line_number": 746,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "ref_id": "\\",
+        "content": null,
+        "type": "reference",
+        "line_number": 798,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "ref_id": ")",
+        "content": null,
+        "type": "reference",
+        "line_number": 812,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      }
+    ],
+    "color_spans": [
+      {
+        "color_hex": "#00FFD2",
+        "text": "BLU02\n<span style='color: #00f8ff;'>\n\nPUR01\n<span style='color: #7200ff;'>\n\nPIN01\n<span style='color: #ff0075;'>\n\nRED01\n<span style='color: #ff0000;'>\n\nORA01\n<span style='color: #ff6e00;'>\n\nGRE01\n<span style='color: #83ff00;'>\n\nGRE02\n<span style='color: #cbff00;'>\n\nGOLD01\n<span style='color: #d8be34;'>\n\nGrey\n<span style='color: #6B7280;'>\n\nLarge Text\n<span style='font-size: 1.3em;'>\n\nRed Italic\n<span style='color: #DC2626; font-weight: 500; font-style: italic;'>\n\nRed Block\n<span style='color: #FF6B6B; background-color: #FFE5E5; padding: 3px 8px; border-radius: 4px; font-weight: 500; border-left: 3px solid #FF6B6B;'>\n\nGreen Block\n<span style='color: #059669; background-color: #D1FAE5; padding: 3px 8px; border-radius: 4px; font-weight: 500;'>\n\nBadge Tag\n<span style='background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 3px 10px; border-radius: 12px; font-size: 0.85em; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;'>\n\nSide Bar\n<span style='color: #6B7280; font-size: 0.9em; font-style: italic; border-left: 2px solid #D1D5DB; padding-left: 8px; margin-left: 5px;'>\n\nSubscript\n<sub>\n</sub>\n\nSuperscript\n<sup>\n</sup>\n\nStrikethrough\n<span style='display: inline-block; transform: rotate(-90deg); transform-origin: center;'>\n\n```\n\n# Formatting Options for Text Format Plugin\n\n> [! ] ### Claude Thinking\n> Perfect! Thank you for the screenshots. Now I can see the actual settings interface for the Text Format plugin. Let me create an accurate reference document based on what I can observe:\n\n---\ntags: #obsidian #plugin-configuration #text-manipulation #reference-note #productivity-tools\naliases: [Text Format Settings, Benature Text Format, Obsidian Text Formatting Plugin]\n---\n\n> [!comprehensive-reference] 📚 Comprehensive-Reference\n> - **Generated**:: 2024-12-04\n> - **Version**:: 2.0 (Accurate Configuration Guide)\n> - **Type**:: Reference Documentation\n> - **Plugin Version**:: 3.2.1+ (Current)\n\n> [!abstract]\n> **Executive Overview**\n> \n> The **Text Format** plugin by [[Benature]] provides comprehensive text manipulation capabilities through six configuration categories visible in the plugin settings: **Word Cases**, **Link Format**, **List Format**, **Markdown Quicker**, **Wrapper**, and **Custom Replacement**. This reference documents the actual configuration interface and provides a comprehensive pattern library for each category, with special emphasis on Custom Replacement—the most flexible and powerful feature.\n\n> [!how-to-use-this]\n> **Navigation Guide**\n> \n> Access plugin settings via: Settings → Community Plugins → Text Format → Options\n> \n> Each section below corresponds to an actual settings panel in the plugin interface. Configuration examples are production-ready and can be directly implemented in your vault.\n\n## 📑 Table of Contents\n\n1. [[#🔤 Word Cases Configuration]]\n2. [[#🔗 Link Format Configuration]]\n3. [[#📋 List Format Configuration]]\n4. [[#⚡ Markdown Quicker Configuration]]\n5. [[#🎁 Wrapper Configuration]]\n6. [[#🔄 Custom Replacement Configuration]] *(Most Extensive)*\n\n---\n\n## 🔤 Word Cases Configuration\n\n> [!definition]\n> **Word Case Options**\n> - **Settings Panel**: \"WORD CASES\"\n> - **Function**: Configure case transformation behaviors\n> - **Scope**: Text selection or inline title\n\n### Available Settings\n\nAccording to the settings interface, Word Cases includes:\n\n**1. Lowercase Before Capitalize/Title Case**\n- **Toggle**: ON/OFF\n- **Function**: When running capitalize or title case command, plugin will lowercase the text first\n- **Use Case**: Ensures consistent results when text has mixed case\n\n**2. Cycle Case Sequence**\n- **Options**: Configure the order of case transformations for cycle operations\n- **Supported Cases**: \n  - `lowercase`\n  - `uppercase` \n  - `titleCase`\n  - `capitalizeWord`\n  - `capitalizeFirst`\n  - `capitalizeSentence`\n\n**3. Proper Noun Handling**\n- **Description**: Words to ignore when formatting title case\n- **Example**: USA, UFO should remain uppercase in title case\n\n> [!methodology-and-sources]\n> **Accessing Case Commands**\n>\n> All case transformation commands are available via Command Palette:\n> - `Cmd/Ctrl + P` → Type \"Text Format\"\n> - Select desired case transformation\n> - Optionally assign hotkeys: Settings → Hotkeys → Search \"Text Format\"\n\n---\n\n## 🔗 Link Format Configuration\n\n> [!definition]\n> **Link Format Options**\n> - **Settings Panel**: \"LINK FORMAT\"\n> - **Function**: Configure link conversion behaviors\n> - **Types**: Wikilinks ↔ Markdown Links ↔ URLs\n\n### Available Commands\n\nBased on the plugin documentation:\n\n| Command | Transformation | Notes |\n|---------|---------------|-------|\n| **Markdown Links to Wikilinks** | `[text](url)` → `[[url\\|text]]` | Converts standard markdown links |\n| **Wikilinks to Markdown** | `[[note]]` → `[note](note.md)` | URL encodes spaces |\n| **Detect and Convert Links** | Auto-detect and convert bullet lists with links | Batch processing |\n\n> [!helpful-tip]\n> **Link Format Workflow Integration**\n> \n> Combine with QuickAdd for batch conversions:\n> 1. Select document section\n> 2. Run link conversion command\n> 3. All links within selection are transformed\n\n---\n\n## 📋 List Format Configuration\n\n> [!definition]\n> **List Format Options**\n> - **Settings Panel**: \"LIST FORMAT\"\n> - **Function**: Configure list structure transformations\n\n### Configuration Settings Visible in Screenshot\n\nFrom the settings interface, I can see:\n\n**Remove Trailing Spaces**: `(\\s+)(\\n\\|\\\\s)(\\s+)`\n- Search pattern with regex\n- Replace field shows configuration\n\n**Remove Blank Line(s)**: `\\n\\s\\n`\n- Pattern: `\\n`\n- Removes extra blank lines\n\n**Add Extra Line Break**: `\\n`\n- Replace: `\\n\\n`\n- Doubles line breaks for paragraph spacing\n\n**Split Line(s) by Blank**: `\\n`\n- Splits on newline character\n\n### List Conversion Commands\n\n| Command | Function |\n|---------|----------|\n| **Convert Bullet List** | Standardize bullet symbols, split lines |\n| **Convert Ordered List** | Create numbered lists from symbols |\n| **Bullet to Ordered** | `-` → `1. 2. 3.` |\n| **Ordered to Bullet** | `1.` → `-` |\n\n---\n\n## ⚡ Markdown Quicker Configuration\n\n> [!definition]\n> **Markdown Quicker Options**\n> - **Settings Panel**: \"MARKDOWN QUICKER\"\n> - **Function**: Quick markdown syntax operations\n> - **Purpose**: Wrap selections with common markdown syntax\n\n### Configuration Visible in Screenshot\n\nFrom the second screenshot, I can see the Markdown Quicker section includes:\n\n**Wrapper Configuration**:\n```\nWrapper Name (Command): Prefix / Suffix\n```\n\n**Example Configuration**:\n- **underline**: `<u>` / `</u>`\n- **Wrapper Name (Command)**: Custom naming\n- **Prefix**: Opening tag/syntax\n- **Suffix**: Closing tag/syntax\n\n> [!example]\n> **Built-in Markdown Quicker Patterns**\n>\n> The plugin includes predefined wrappers for:\n> - Underline: `<u>text</u>`\n> - And additional patterns configurable by user\n\n---\n\n## 🎁 Wrapper Configuration\n\n> [!definition]\n> **Wrapper System**\n> - **Settings Panel**: \"WRAPPER\"\n> - **Function**: Wrap selection with custom prefix/suffix pairs\n> - **Flexibility**: Unlimited custom wrappers\n\n### Configuration Structure\n\nEach wrapper consists of three fields:\n\n| Field | Description | Example |\n|-------|-------------|---------|\n| **Wrapper Name (Command)** | Identifier for command palette | `red-text` |\n| **Prefix** | Text/tag before selection | `<span style='color:red;'>` |\n| **Suffix** | Text/tag after selection | `",
+        "semantic_role": "Custom (#00FFD2)",
+        "line_number": 167,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      }
+    ],
+    "lists": {
+      "ordered": [
+        {
+          "text": "[[#🔤 Word Cases Configuration]]",
+          "indent_level": 0,
+          "line_number": 143,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "[[#🔗 Link Format Configuration]]",
+          "indent_level": 0,
+          "line_number": 144,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "[[#📋 List Format Configuration]]",
+          "indent_level": 0,
+          "line_number": 147,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "[[#⚡ Markdown Quicker Configuration]]",
+          "indent_level": 0,
+          "line_number": 150,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "[[#🎁 Wrapper Configuration]]",
+          "indent_level": 0,
+          "line_number": 151,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "[[#🔄 Custom Replacement Configuration]] *(Most Extensive)*",
+          "indent_level": 0,
+          "line_number": 152,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**[[JavaScript Regex for Knowledge Workers]]**",
+          "indent_level": 0,
+          "line_number": 629,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**[[Obsidian Multi-Plugin Workflow Design]]**",
+          "indent_level": 0,
+          "line_number": 649,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**[[Markdown Standardization Practices for PKB]]**",
+          "indent_level": 0,
+          "line_number": 674,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**[[Text Processing Pipeline Architecture]]**",
+          "indent_level": 0,
+          "line_number": 690,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "**Toggle**: ON/OFF",
+          "indent_level": 0,
+          "line_number": 179,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**Function**: When running capitalize or title case command, plugin will lowercase the text first",
+          "indent_level": 0,
+          "line_number": 182,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**Use Case**: Ensures consistent results when text has mixed case",
+          "indent_level": 0,
+          "line_number": 188,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**Options**: Configure the order of case transformations for cycle operations",
+          "indent_level": 0,
+          "line_number": 197,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**Supported Cases**:",
+          "indent_level": 0,
+          "line_number": 200,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "`lowercase`",
+          "indent_level": 1,
+          "line_number": 200,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "`uppercase`",
+          "indent_level": 1,
+          "line_number": 203,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "`titleCase`",
+          "indent_level": 1,
+          "line_number": 203,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "`capitalizeWord`",
+          "indent_level": 1,
+          "line_number": 203,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "`capitalizeFirst`",
+          "indent_level": 1,
+          "line_number": 203,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "`capitalizeSentence`",
+          "indent_level": 1,
+          "line_number": 203,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**Description**: Words to ignore when formatting title case",
+          "indent_level": 0,
+          "line_number": 203,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**Example**: USA, UFO should remain uppercase in title case",
+          "indent_level": 0,
+          "line_number": 206,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**Prefix**: Opening tag/syntax",
+          "indent_level": 0,
+          "line_number": 274,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "**Suffix**: Closing tag/syntax",
+          "indent_level": 0,
+          "line_number": 276,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "*Connection*: Custom Replacements use JS regex; comprehensive guide would enhance pattern creation",
+          "indent_level": 1,
+          "line_number": 632,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "*Depth Potential*: Regex testing workflows, common patterns, performance optimization",
+          "indent_level": 1,
+          "line_number": 638,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Technical foundation for all text processing in Obsidian ecosystem",
+          "indent_level": 1,
+          "line_number": 643,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "*Connection*: Text Format's power multiplies when combined with QuickAdd, Templater, Dataview",
+          "indent_level": 1,
+          "line_number": 653,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "*Depth Potential*: Macro creation patterns, plugin chaining strategies, automation pipelines",
+          "indent_level": 1,
+          "line_number": 659,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Integration hub connecting individual plugin capabilities",
+          "indent_level": 1,
+          "line_number": 665,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "*Connection*: Text Format enables consistent markdown formatting across vault",
+          "indent_level": 1,
+          "line_number": 675,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "*Depth Potential*: Style guides, linting strategies, automated cleanup workflows",
+          "indent_level": 1,
+          "line_number": 680,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Quality control node ensuring long-term vault maintainability",
+          "indent_level": 1,
+          "line_number": 686,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "*Depth Potential*: When to use regex vs templates vs scripts, decision frameworks",
+          "indent_level": 1,
+          "line_number": 699,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Meta-level guide for choosing right tool for each transformation task",
+          "indent_level": 1,
+          "line_number": 705,
+          "source": "reference-technical-text-format-plugin-options-2025120419.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "Suffix:",
+        "format": "display",
+        "line_number": 428,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "expression": "3-",
+        "format": "inline",
+        "line_number": 707,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "expression": "1",
+        "format": "inline",
+        "line_number": 728,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "expression": "1",
+        "format": "inline",
+        "line_number": 759,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "expression": "` | End of line | `\\s+",
+        "format": "inline",
+        "line_number": 794,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "expression": "3-",
+        "format": "inline",
+        "line_number": 827,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "expression": "` is used for capture groups; to insert literal `",
+        "format": "inline",
+        "line_number": 834,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      },
+      {
+        "expression": "1,",
+        "format": "inline",
+        "line_number": 902,
+        "source": "reference-technical-text-format-plugin-options-2025120419.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Benature",
+      "Formatting Options for Text Format Plugin",
+      "JavaScript Regex for Knowledge Workers",
+      "Markdown Standardization Practices for PKB",
+      "Obsidian",
+      "Obsidian Multi-Plugin Workflow Design",
+      "Reference $1",
+      "Reference $1 $2",
+      "Text Processing Pipeline Architecture",
+      "note",
+      "url\\"
+    ],
+    "unique_wiki_link_count": 11,
+    "unique_tags": [
+      "#cbff00",
+      "#d8be34",
+      "#ff0000",
+      "#ff0075",
+      "#ff6e00",
+      "#obsidian",
+      "#plugin-configuration",
+      "#productivity-tools",
+      "#reference-note",
+      "#text-manipulation"
+    ],
+    "unique_tag_count": 10,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Benature",
+      "Formatting Options for Text Format Plugin",
+      "JavaScript Regex for Knowledge Workers",
+      "Markdown Standardization Practices for PKB",
+      "Obsidian",
+      "Obsidian Multi-Plugin Workflow Design",
+      "Reference $1",
+      "Reference $1 $2",
+      "Text Processing Pipeline Architecture",
+      "note",
+      "url\\"
+    ]
+  }
+}

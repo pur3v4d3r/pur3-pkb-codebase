@@ -1,0 +1,367 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:06.009130",
+    "source_file": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+    "source_file_size_bytes": 8573,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Knowledge Based Task Management Workflows",
+      "id": "20251023024236",
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": "⁉️",
+      "created": "2025-10-23T02:42:36",
+      "source": "📚🧠RSCA_v2.0🆔I9QYV1NMAS",
+      "url": "https://gemini.google.com/gem/813419e64e49/8b3f124aca39cbd8",
+      "tags": [
+        "topic",
+        "topic/educational",
+        "topic/rsca",
+        "source/rsca"
+      ]
+    },
+    "word_count": 1137,
+    "character_count": 8158,
+    "line_count": 127,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 26,
+    "by_type": {
+      "headings": 8,
+      "callouts": 7,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 5,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Knowledge-Based-Task-Management-Workflows_🆔20251023024228",
+      "anchor": "topicsknowledge-based-task-management-workflows20251023024228",
+      "line_number": 20,
+      "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🧠 The Cognitive Architecture of Contextual Tasks",
+          "anchor": "the-cognitive-architecture-of-contextual-tasks",
+          "line_number": 33,
+          "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📈 The Workflow Evolution: From Checklists to Queries",
+          "anchor": "the-workflow-evolution-from-checklists-to-queries",
+          "line_number": 51,
+          "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚙️ The \"Tasks\" Plugin as a Complete System",
+          "anchor": "the-tasks-plugin-as-a-complete-system",
+          "line_number": 69,
+          "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📊 The \"Dataview\" Engine: Querying Tasks as Metadata",
+          "anchor": "the-dataview-engine-querying-tasks-as-metadata",
+          "line_number": 87,
+          "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🗂️ Architecting the \"GTD\" Knowledge Base",
+          "anchor": "architecting-the-gtd-knowledge-base",
+          "line_number": 105,
+          "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "💡 From Archive to Engine: Impact on Creative Output",
+          "anchor": "from-archive-to-engine-impact-on-creative-output",
+          "line_number": 123,
+          "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 137,
+      "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set provides a deep dive into the methodologies and systems of Knowledge-Based Task Management. The focus is on moving beyond simple to-do lists to explore *how* and *why* tying actionable tasks directly to knowledge notes creates a more effective and productive system. The topics cover the cognitive science behind this approach, the practical evolution from simple checklists to complex plugins, and deep dives into specific tools like the \"Tasks\" and \"Dataview\" plugins. It also investigates the information architecture required to implement formal methodologies like GTD within a PKM and the ultimate \"so what\" — the impact of these integrated systems on creative and intellectual output.",
+        "line_number": 24,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+        "char_start": 504,
+        "char_end": 1229
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 31,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+        "char_start": 1251,
+        "char_end": 1267
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 49,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+        "char_start": 2248,
+        "char_end": 2264
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 67,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+        "char_start": 3285,
+        "char_end": 3301
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 85,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+        "char_start": 4320,
+        "char_end": 4336
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 103,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+        "char_start": 5305,
+        "char_end": 5321
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 121,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md",
+        "char_start": 6389,
+        "char_end": 6405
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Knowledge-Based-Task-Management-Workflows_🆔20251023024228",
+        "anchor": "topicsknowledge-based-task-management-workflows20251023024228",
+        "line_number": 20,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "level": 2,
+        "text": "🧠 The Cognitive Architecture of Contextual Tasks",
+        "anchor": "the-cognitive-architecture-of-contextual-tasks",
+        "line_number": 33,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "level": 2,
+        "text": "📈 The Workflow Evolution: From Checklists to Queries",
+        "anchor": "the-workflow-evolution-from-checklists-to-queries",
+        "line_number": 51,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ The \"Tasks\" Plugin as a Complete System",
+        "anchor": "the-tasks-plugin-as-a-complete-system",
+        "line_number": 69,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 The \"Dataview\" Engine: Querying Tasks as Metadata",
+        "anchor": "the-dataview-engine-querying-tasks-as-metadata",
+        "line_number": 87,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "level": 2,
+        "text": "🗂️ Architecting the \"GTD\" Knowledge Base",
+        "anchor": "architecting-the-gtd-knowledge-base",
+        "line_number": 105,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "level": 2,
+        "text": "💡 From Archive to Engine: Impact on Creative Output",
+        "anchor": "from-archive-to-engine-impact-on-creative-output",
+        "line_number": 123,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 137,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "A Comprehensive Analysis of the Cognitive and Psychological Principles Underpinning Knowledge-Based Task Management, Examining How the Co-location of Actionable Items and Contextual Information Reduces Cognitive Load, Enhances Memory Retrieval, and Streamlines the Transition from Ideation to Execution.",
+        "line_start": 41,
+        "line_end": 43,
+        "char_count": 303,
+        "line_count": 1,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A Methodological Examination of the Evolution from Simple Markdown Checklists to Sophisticated, Query-Based Task Management Plugins within Personal Knowledge Management Systems, Analyzing the Strategic Trade-offs and Scaling Workflows for Different Project Complexities.",
+        "line_start": 59,
+        "line_end": 61,
+        "char_count": 270,
+        "line_count": 1,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A Systematic Analysis of Dedicated Task Management Plugins (e.g., Obsidian Tasks), Investigating How Their Specific Query Language and Metadata Syntax Are Leveraged to Create Dynamic, Automated Dashboards and Comprehensive Project Management Views Directly from Dispersed Knowledge Notes.",
+        "line_start": 77,
+        "line_end": 79,
+        "char_count": 288,
+        "line_count": 1,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A Comparative Analysis of Metadata Query Engines (e.g., Dataview) as a Task Management Framework, Exploring the Methodologies for Using Inline Fields and YAML Frontmatter to Create Relational, Highly-Customized Task Reports that Integrate with Broader Project and Knowledge Metadata.",
+        "line_start": 95,
+        "line_end": 97,
+        "char_count": 283,
+        "line_count": 1,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A Strategic Investigation into the Information Architecture and Workflows Required to Fully Integrate the 'Getting Things Done' (GTD) Methodology within a Personal Knowledge Management System, Focusing on How to Structurally Link 'Next Actions' and 'Project' Lists to Their Corresponding 'Project Support Material' and 'Reference' Notes.",
+        "line_start": 113,
+        "line_end": 115,
+        "char_count": 337,
+        "line_count": 1,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "An Analysis of the Broader Implications of Integrated Knowledge-Task Management, Evaluating How This Fusion Transforms a Personal Knowledge Base from a Passive Archive into an Active Engine for Creative and Intellectual Production by Systematically Reducing the Friction Between Ideation and Execution.",
+        "line_start": 131,
+        "line_end": 133,
+        "char_count": 302,
+        "line_count": 1,
+        "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "**Related Topics & Subtopics:** This section can briefly list other highly relevant areas of study that are adjacent to the primary topic.",
+          "indent_level": 1,
+          "line_number": 107,
+          "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+        },
+        {
+          "text": "**The PARA Method:** Analyzing the \"Projects, Areas, Resources, Archives\" framework as a high-level structure for organizing both knowledge and its associated tasks.",
+          "indent_level": 3,
+          "line_number": 109,
+          "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+        },
+        {
+          "text": "**Zettelkasten and Actionability:** Investigating how the principle of atomic notes (Zettelkasten) intersects with task management. Can a single \"Zettel\" be or contain an actionable task?",
+          "indent_level": 3,
+          "line_number": 114,
+          "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+        },
+        {
+          "text": "**The \"Dataview\" Plugin:** A technical deep dive specifically into the Dataview query language itself, beyond just tasks, to include habit tracking, project dashboards, and literature note management.",
+          "indent_level": 3,
+          "line_number": 114,
+          "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+        },
+        {
+          "text": "**GTD vs. Other Frameworks:** A comparative analysis of \"Getting Things Done\" against other productivity systems (like \"Agile Results\" or \"Zen to Done\") and their suitability for integration within a PKM.",
+          "indent_level": 3,
+          "line_number": 125,
+          "source": "topic-set_knowledge-based-task-management-workflows_🆔20251023024228.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

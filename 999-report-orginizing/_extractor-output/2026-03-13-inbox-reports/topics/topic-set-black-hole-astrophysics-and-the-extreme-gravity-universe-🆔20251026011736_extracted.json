@@ -1,0 +1,393 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.778216",
+    "source_file": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+    "source_file_size_bytes": 7796,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Black Hole Astrophysics and the Extreme Gravity Universe",
+      "id": "20251026011752",
+      "aliases": [
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": "⁉️",
+      "created": "2025-10-26T01:17:52",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "⁉️",
+      "tags": [
+        "source/rsca",
+        "topic",
+        "topic/educational",
+        "topic/rsca"
+      ]
+    },
+    "word_count": 1022,
+    "character_count": 7338,
+    "line_count": 104,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 31,
+    "by_type": {
+      "headings": 8,
+      "callouts": 5,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 10,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 2
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Black-Hole-Astrophysics-and-the-Extreme-Gravity-Universe_🆔20251026011736",
+      "anchor": "topicsblack-hole-astrophysics-and-the-extreme-gravity-universe20251026011736",
+      "line_number": 23,
+      "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🌀 The Engine of Luminosity: Accretion Disk Physics and Quasar Power",
+          "anchor": "the-engine-of-luminosity-accretion-disk-physics-and-quasar-power",
+          "line_number": 36,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🌊 The Fabric of Spacetime: Binary Black Hole Mergers and Gravitational Wave Astronomy",
+          "anchor": "the-fabric-of-spacetime-binary-black-hole-mergers-and-gravitational-wave-astronomy",
+          "line_number": 50,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚡️ Cosmic Energy Transfer: Relativistic Jets and the Black Hole-Environment Connection",
+          "anchor": "cosmic-energy-transfer-relativistic-jets-and-the-black-hole-environment-connection",
+          "line_number": 64,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "❓ The Event Horizon Paradox: Black Holes and the Quantum-Gravity Conflict",
+          "anchor": "the-event-horizon-paradox-black-holes-and-the-quantum-gravity-conflict",
+          "line_number": 78,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚖️ Bridging the Gap: The Enigmatic Nature of Intermediate-Mass Black Holes",
+          "anchor": "bridging-the-gap-the-enigmatic-nature-of-intermediate-mass-black-holes",
+          "line_number": 92,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🚀 The Cosmic Census: Challenges in Measuring Supermassive Black Hole Mass",
+          "anchor": "the-cosmic-census-challenges-in-measuring-supermassive-black-hole-mass",
+          "line_number": 106,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Further Exploration",
+              "anchor": "further-exploration",
+              "line_number": 116,
+              "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set offers a curated list of six strategic research topics centered on **Black Holes**, ranging from stellar-mass to supermassive scale, with a strong emphasis on their functional roles in the universe. Each topic is formulated to support a comprehensive academic report by focusing on complex relationships, critical mechanisms, and deep theoretical implications. The subjects move beyond mere definition, exploring areas such as the quantum-gravity conflict at the event horizon, the efficiency of energy conversion in accretion disks, and the role of gravitational wave astronomy as a new observational paradigm. The framework ensures that each topic can be developed across the five essential analytical sections: Historical Context, Foundational Principles, Mechanisms & Processes, Evidence & Manifestations, and Broader Implications.",
+        "line_number": 27,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+        "char_start": 574,
+        "char_end": 1444
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 34,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+        "char_start": 1471,
+        "char_end": 1487
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 48,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+        "char_start": 2354,
+        "char_end": 2370
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 76,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+        "char_start": 4099,
+        "char_end": 4115
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 104,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md",
+        "char_start": 5791,
+        "char_end": 5807
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Black-Hole-Astrophysics-and-the-Extreme-Gravity-Universe_🆔20251026011736",
+        "anchor": "topicsblack-hole-astrophysics-and-the-extreme-gravity-universe20251026011736",
+        "line_number": 23,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "level": 2,
+        "text": "🌀 The Engine of Luminosity: Accretion Disk Physics and Quasar Power",
+        "anchor": "the-engine-of-luminosity-accretion-disk-physics-and-quasar-power",
+        "line_number": 36,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "level": 2,
+        "text": "🌊 The Fabric of Spacetime: Binary Black Hole Mergers and Gravitational Wave Astronomy",
+        "anchor": "the-fabric-of-spacetime-binary-black-hole-mergers-and-gravitational-wave-astronomy",
+        "line_number": 50,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "level": 2,
+        "text": "⚡️ Cosmic Energy Transfer: Relativistic Jets and the Black Hole-Environment Connection",
+        "anchor": "cosmic-energy-transfer-relativistic-jets-and-the-black-hole-environment-connection",
+        "line_number": 64,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "level": 2,
+        "text": "❓ The Event Horizon Paradox: Black Holes and the Quantum-Gravity Conflict",
+        "anchor": "the-event-horizon-paradox-black-holes-and-the-quantum-gravity-conflict",
+        "line_number": 78,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "level": 2,
+        "text": "⚖️ Bridging the Gap: The Enigmatic Nature of Intermediate-Mass Black Holes",
+        "anchor": "bridging-the-gap-the-enigmatic-nature-of-intermediate-mass-black-holes",
+        "line_number": 92,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "level": 2,
+        "text": "🚀 The Cosmic Census: Challenges in Measuring Supermassive Black Hole Mass",
+        "anchor": "the-cosmic-census-challenges-in-measuring-supermassive-black-hole-mass",
+        "line_number": 106,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "level": 3,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 116,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "markdown",
+        "code": "A Comprehensive Analysis of Accretion Disk Physics in the Immediate Vicinity of Black Holes, Detailing the Foundational Principles of Angular Momentum Transport and the Mechanisms Governing the Extreme Luminosity of Active Galactic Nuclei and Quasars",
+        "line_start": 40,
+        "line_end": 42,
+        "char_count": 250,
+        "line_count": 1,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Foundational Study of the Observational Evidence and Physical Mechanisms of Binary Black Hole Mergers as Detected by Gravitational Wave Observatories, with an Emphasis on Constraining Theoretical Models of Massive Stellar Evolution and Extreme-Gravity General Relativity",
+        "line_start": 54,
+        "line_end": 56,
+        "char_count": 272,
+        "line_count": 1,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Detailed Examination of the Physical Mechanisms Responsible for Launching Relativistic Jets from Active Galactic Nuclei, Analyzing the Role of Black Hole Spin and Magnetic Fields in Facilitating Cosmic Energy and Momentum Transfer Across Galactic and Intergalactic Scales",
+        "line_start": 68,
+        "line_end": 70,
+        "char_count": 273,
+        "line_count": 1,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Strategic Analysis of the Black Hole Information Paradox, Detailing the Theoretical Mechanisms of Hawking Radiation and the Foundational Significance of the Quantum-Gravity Conflict at the Event Horizon for a Unified Theory of Physics",
+        "line_start": 82,
+        "line_end": 84,
+        "char_count": 236,
+        "line_count": 1,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Critical Investigation into the Formation Mechanisms and Observational Signatures of Intermediate-Mass Black Holes, Evaluating their Role as the Missing Link and Progenitors for the Supermassive Black Holes Observed in the Early Universe",
+        "line_start": 96,
+        "line_end": 98,
+        "char_count": 239,
+        "line_count": 1,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Comparative Methodological Analysis of Techniques for Estimating Supermassive Black Hole Mass, Detailing the Physical Principles and Observational Evidence Derived from Stellar and Gas Kinematics, and the Broader Implications for the M-Sigma Correlation",
+        "line_start": 110,
+        "line_end": 112,
+        "char_count": 255,
+        "line_count": 1,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 31,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 40,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 52,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 64,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 69,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 80,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+        },
+        {
+          "text": "**Primordial Black Holes (PBHs):** The theoretical possibility of black holes forming in the radiation-dominated era of the early universe, and their potential to constitute a fraction of Dark Matter.",
+          "indent_level": 1,
+          "line_number": 94,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+        },
+        {
+          "text": "**The No-Hair Theorem:** The foundational concept that a stationary black hole can be completely characterized by only three externally observable parameters: mass, electric charge, and angular momentum (spin).",
+          "indent_level": 1,
+          "line_number": 94,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+        },
+        {
+          "text": "**Tidal Disruption Events (TDEs):** The violent mechanism that occurs when a star passes too close to a supermassive black hole and is ripped apart by tidal forces, providing a brief flare of light as evidence of an otherwise quiescent black hole.",
+          "indent_level": 1,
+          "line_number": 97,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+        },
+        {
+          "text": "**X-ray Binaries and Microquasars:** Stellar-mass black holes in binary systems that exhibit scaled-down versions of the jet and accretion phenomena seen in supermassive black holes.",
+          "indent_level": 1,
+          "line_number": 108,
+          "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "\\text{M87}^*",
+        "format": "inline",
+        "line_number": 100,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      },
+      {
+        "expression": "\\text{M}-\\sigma",
+        "format": "inline",
+        "line_number": 106,
+        "source": "topic-set-black-hole-astrophysics-and-the-extreme-gravity-universe-🆔20251026011736.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

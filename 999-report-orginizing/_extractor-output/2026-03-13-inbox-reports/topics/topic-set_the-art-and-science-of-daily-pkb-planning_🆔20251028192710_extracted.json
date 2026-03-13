@@ -1,0 +1,368 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:06.026195",
+    "source_file": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+    "source_file_size_bytes": 7421,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "The Art and Science of Daily Pkb Planning",
+      "id": "20251028192726",
+      "aliases": [
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": "❔",
+      "rating": [],
+      "created": "2025-10-28T19:27:26",
+      "source": "RSCA-v2.0🆔20251020224705",
+      "url": "❔",
+      "tags": [
+        "source/rsca",
+        "topic",
+        "topic/educational",
+        "topic/rsca"
+      ]
+    },
+    "word_count": 969,
+    "character_count": 6982,
+    "line_count": 117,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 26,
+    "by_type": {
+      "headings": 8,
+      "callouts": 7,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 5,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_The-Art-and-Science-of-Daily-PKB-Planning_🆔20251028192710",
+      "anchor": "topicsthe-art-and-science-of-daily-pkb-planning20251028192710",
+      "line_number": 24,
+      "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🧠 The Cognitive Architect: Planning Daily Personal Knowledge Base Work Around Attention and Memory",
+          "anchor": "the-cognitive-architect-planning-daily-personal-knowledge-base-work-around-attention-and-memory",
+          "line_number": 37,
+          "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🗺️ The Integrated Framework: Synthesizing Methodologies for Daily Execution",
+          "anchor": "the-integrated-framework-synthesizing-methodologies-for-daily-execution",
+          "line_number": 53,
+          "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚙️ The Frictionless System: How Personal Knowledge Base Architecture Dictates Daily Planning Efficacy",
+          "anchor": "the-frictionless-system-how-personal-knowledge-base-architecture-dictates-daily-planning-efficacy",
+          "line_number": 69,
+          "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📓 The Daily Note as Nexus: Beyond a Diary to a Strategic Planning Hub",
+          "anchor": "the-daily-note-as-nexus-beyond-a-diary-to-a-strategic-planning-hub",
+          "line_number": 85,
+          "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🧘 The Habit Loop: The Behavioral Psychology of Consistent Daily Personal Knowledge Base Engagement",
+          "anchor": "the-habit-loop-the-behavioral-psychology-of-consistent-daily-personal-knowledge-base-engagement",
+          "line_number": 101,
+          "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📈 The Evolving Plan: Designing Feedback Loops for Long-Term Personal Knowledge Base Alignment",
+          "anchor": "the-evolving-plan-designing-feedback-loops-for-long-term-personal-knowledge-base-alignment",
+          "line_number": 117,
+          "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 129,
+      "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set explores the methodologies, cognitive principles, and systemic structures behind effective daily planning for a Personal Knowledge Base (Personal Knowledge Base). Moving beyond simple \"to-do lists,\" these topics frame daily planning as a high-level strategic activity. They cover the integration of formal methodologies like GTD and Zettelkasten into a daily workflow, the role of cognitive science in managing attention and preventing overload, and the behavioral psychology of building sustainable habits. Furthermore, the topics investigate how the very architecture of a Personal Knowledge Base system can be designed to reduce friction and how the \"daily note\" artifact can be elevated from a mere log to a central cognitive dashboard.",
+        "line_number": 28,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+        "char_start": 548,
+        "char_end": 1323
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 35,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+        "char_start": 1345,
+        "char_end": 1361
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 51,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+        "char_start": 2236,
+        "char_end": 2252
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 67,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+        "char_start": 3034,
+        "char_end": 3050
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 83,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+        "char_start": 3896,
+        "char_end": 3912
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 99,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+        "char_start": 4706,
+        "char_end": 4722
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 115,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md",
+        "char_start": 5559,
+        "char_end": 5575
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_The-Art-and-Science-of-Daily-PKB-Planning_🆔20251028192710",
+        "anchor": "topicsthe-art-and-science-of-daily-pkb-planning20251028192710",
+        "line_number": 24,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "level": 2,
+        "text": "🧠 The Cognitive Architect: Planning Daily Personal Knowledge Base Work Around Attention and Memory",
+        "anchor": "the-cognitive-architect-planning-daily-personal-knowledge-base-work-around-attention-and-memory",
+        "line_number": 37,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "level": 2,
+        "text": "🗺️ The Integrated Framework: Synthesizing Methodologies for Daily Execution",
+        "anchor": "the-integrated-framework-synthesizing-methodologies-for-daily-execution",
+        "line_number": 53,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ The Frictionless System: How Personal Knowledge Base Architecture Dictates Daily Planning Efficacy",
+        "anchor": "the-frictionless-system-how-personal-knowledge-base-architecture-dictates-daily-planning-efficacy",
+        "line_number": 69,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "level": 2,
+        "text": "📓 The Daily Note as Nexus: Beyond a Diary to a Strategic Planning Hub",
+        "anchor": "the-daily-note-as-nexus-beyond-a-diary-to-a-strategic-planning-hub",
+        "line_number": 85,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "level": 2,
+        "text": "🧘 The Habit Loop: The Behavioral Psychology of Consistent Daily Personal Knowledge Base Engagement",
+        "anchor": "the-habit-loop-the-behavioral-psychology-of-consistent-daily-personal-knowledge-base-engagement",
+        "line_number": 101,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "level": 2,
+        "text": "📈 The Evolving Plan: Designing Feedback Loops for Long-Term Personal Knowledge Base Alignment",
+        "anchor": "the-evolving-plan-designing-feedback-loops-for-long-term-personal-knowledge-base-alignment",
+        "line_number": 117,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 129,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "markdown",
+        "code": "A Comprehensive Analysis of Cognitive Science Principles in the Design of Daily Personal Knowledge Management Workflows, Focusing on the Mitigation of Cognitive Load, Management of Attentional Residue, and Optimization of Information Retention.",
+        "line_start": 43,
+        "line_end": 45,
+        "char_count": 244,
+        "line_count": 1,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "language": "markdown",
+        "code": "An Investigation into the Methodological Synthesis of Diverse Knowledge and Task Management Systems (e.g., Zettelkasten, GTD, PARA) into a Coherent Operational Framework for Daily PKB Planning and Execution.",
+        "line_start": 59,
+        "line_end": 61,
+        "char_count": 207,
+        "line_count": 1,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A System-Design Analysis of Personal Knowledge Bases, Examining the Causal Relationship Between Information Architecture, Interface Design, and the Reduction of Cognitive Friction in Daily Planning Activities.",
+        "line_start": 75,
+        "line_end": 77,
+        "char_count": 209,
+        "line_count": 1,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Critical Examination of the 'Daily Note' as a Central Cognitive Artifact in PKB Workflows, Analyzing its Function as a Multi-Purpose Interface for Task Triage, Idea Incubation, Contextual Scaffolding, and Navigational Control.",
+        "line_start": 91,
+        "line_end": 93,
+        "char_count": 228,
+        "line_count": 1,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Behavioral Science Analysis of Habit Formation and Adherence in Daily Personal Knowledge Management, Investigating Strategies to Overcome Procrastination, Manage Cognitive Overwhelm, and Cultivate Consistent Engagement with Planning Rituals.",
+        "line_start": 107,
+        "line_end": 109,
+        "char_count": 243,
+        "line_count": 1,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      },
+      {
+        "language": "markdown",
+        "code": "An Analysis of Iterative Review Systems as a Mechanism for Strategic Alignment in Personal Knowledge Management, Focusing on How Daily Planning Processes Evolve Through Structured Feedback Loops and Goal Readjustment.",
+        "line_start": 123,
+        "line_end": 125,
+        "char_count": 217,
+        "line_count": 1,
+        "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "**Related Topics & Subtopics:**",
+          "indent_level": 1,
+          "line_number": 103,
+          "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+        },
+        {
+          "text": "**The Role of Automation:** Investigating how scripts, plugins, and services like Readwise or Zapier can automate the \"capture\" and \"triage\" phases of daily planning.",
+          "indent_level": 3,
+          "line_number": 103,
+          "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+        },
+        {
+          "text": "**Serendipity vs. Structure:** An analysis of how to balance a rigid, pre-planned daily schedule with the need for unstructured \"roaming\" and serendipitous discovery within the Personal Knowledge Base.",
+          "indent_level": 3,
+          "line_number": 108,
+          "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+        },
+        {
+          "text": "**Query-Based Planning:** A deep dive into using the PKB's own query language (e.g., Dataview, SPARQL) to *dynamically generate* a daily plan based on project status, note tags, and review cycles.",
+          "indent_level": 3,
+          "line_number": 111,
+          "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+        },
+        {
+          "text": "**Collaborative Personal Knowledge Base Planning:** Examining the added complexity of daily planning when a knowledge base is shared, requiring synchronization of tasks and knowledge processing.",
+          "indent_level": 3,
+          "line_number": 119,
+          "source": "topic-set_the-art-and-science-of-daily-pkb-planning_🆔20251028192710.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

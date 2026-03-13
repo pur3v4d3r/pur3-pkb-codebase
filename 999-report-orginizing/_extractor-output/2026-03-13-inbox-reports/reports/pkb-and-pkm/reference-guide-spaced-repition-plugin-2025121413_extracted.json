@@ -1,0 +1,3734 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:17:24.594233",
+    "source_file": "reference-guide-spaced-repition-plugin-2025121413.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\01-reports\\02_pkb-and-pkm\\reference-guide-spaced-repition-plugin-2025121413.md",
+    "source_file_size_bytes": 47027,
+    "processing_time_seconds": 0.019
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Obsidian SR",
+        "Spaced Repetition Plugin Guide"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "type/analysis",
+        "status/in-progress",
+        "pkb",
+        "knowledge-workflow",
+        "review-system",
+        "self-improvement/skill-development",
+        "metacognitive-pkm",
+        "cognitive-resources",
+        "obsidian/plugins",
+        "spaced-repetition",
+        "cognitive-pkm"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251214132001",
+      "created": "2025-12-14T13:20:01",
+      "modified": "2025-12-14T13:20:01",
+      "week": "[[2025-W50]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "maturity": "needs-review",
+      "confidence": "speculative",
+      "next-review": "2025-12-21",
+      "review-count": "0",
+      "link-up": [
+        "[[pkb-&-pkm-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-14|Daily-Note]]"
+      ]
+    },
+    "word_count": 5900,
+    "character_count": 45929,
+    "line_count": 1202,
+    "heading_count": 61
+  },
+  "extraction_summary": {
+    "total_items_extracted": 387,
+    "by_type": {
+      "headings": 61,
+      "callouts": 25,
+      "wiki_links": 40,
+      "inline_fields": 7,
+      "definitions": 0,
+      "tags": 41,
+      "code_blocks": 36,
+      "tables": 3,
+      "external_links": 3,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 13,
+      "color_spans": 46,
+      "lists_ordered": 51,
+      "lists_unordered": 50,
+      "html_comments": 5,
+      "obsidian_comments": 0,
+      "math_expressions": 6
+    }
+  },
+  "document_outline": [
+    {
+      "level": 5,
+      "text": "Introduction to Spaced Repetition in Obsidian",
+      "anchor": "introduction-to-spaced-repetition-in-obsidian",
+      "line_number": 334,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "📖 Introduction to Spaced Repetition in Obsidian",
+      "anchor": "introduction-to-spaced-repetition-in-obsidian",
+      "line_number": 386,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Key Capabilities",
+          "anchor": "key-capabilities",
+          "line_number": 395,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "⚙️ Installation & Initial Configuration",
+      "anchor": "installation-initial-configuration",
+      "line_number": 409,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Standard Installation",
+          "anchor": "standard-installation",
+          "line_number": 411,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Manual Installation",
+          "anchor": "manual-installation",
+          "line_number": 423,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Essential Initial Settings",
+          "anchor": "essential-initial-settings",
+          "line_number": 432,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "💳 Flashcard Creation Syntax",
+      "anchor": "flashcard-creation-syntax",
+      "line_number": 449,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Single-Line Format (Basic Q&A)",
+          "anchor": "single-line-format-basic-qa",
+          "line_number": 453,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Single-Line Reversed Format (Bidirectional)",
+          "anchor": "single-line-reversed-format-bidirectional",
+          "line_number": 474,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Multi-Line Format (Extended Content)",
+          "anchor": "multi-line-format-extended-content",
+          "line_number": 498,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Multi-Line Reversed Format",
+          "anchor": "multi-line-reversed-format",
+          "line_number": 533,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Cloze Deletions (Fill-in-the-Blank)",
+          "anchor": "cloze-deletions-fill-in-the-blank",
+          "line_number": 546,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": [
+            {
+              "level": 4,
+              "text": "Simplified Cloze (Most Common)",
+              "anchor": "simplified-cloze-most-common",
+              "line_number": 550,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 4,
+              "text": "Classic Cloze (With Sequence Numbers)",
+              "anchor": "classic-cloze-with-sequence-numbers",
+              "line_number": 580,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "🗂️ Deck Organization Strategies",
+      "anchor": "deck-organization-strategies",
+      "line_number": 617,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Tag-Based Decks (Recommended for Most Users)",
+          "anchor": "tag-based-decks-recommended-for-most-users",
+          "line_number": 621,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Folder-Based Decks (Alternative Method)",
+          "anchor": "folder-based-decks-alternative-method",
+          "line_number": 672,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "🔄 Review Workflow & Interface",
+      "anchor": "review-workflow-interface",
+      "line_number": 694,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Initiating a Review Session",
+          "anchor": "initiating-a-review-session",
+          "line_number": 696,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Response Button Meanings",
+          "anchor": "response-button-meanings",
+          "line_number": 713,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Cramming Mode (Optional Review)",
+          "anchor": "cramming-mode-optional-review",
+          "line_number": 726,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "📝 Whole-Note Review",
+      "anchor": "whole-note-review",
+      "line_number": 739,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Tagging Notes for Review",
+          "anchor": "tagging-notes-for-review",
+          "line_number": 746,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Project Strategy Document",
+      "anchor": "project-strategy-document",
+      "line_number": 755,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Note Review Workflow",
+          "anchor": "note-review-workflow",
+          "line_number": 763,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🧮 Scheduling Algorithm: SM-2-OSR",
+          "anchor": "scheduling-algorithm-sm-2-osr",
+          "line_number": 791,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Core Algorithm Principles",
+              "anchor": "core-algorithm-principles",
+              "line_number": 795,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "After a \"Good\" response:",
+      "anchor": "after-a-good-response",
+      "line_number": 808,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "After \"Hard\":",
+      "anchor": "after-hard",
+      "line_number": 811,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "After \"Easy\":",
+      "anchor": "after-easy",
+      "line_number": 815,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Configurable Parameters",
+          "anchor": "configurable-parameters",
+          "line_number": 831,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Future Algorithm: FSRS",
+          "anchor": "future-algorithm-fsrs",
+          "line_number": 846,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🛠️ Advanced Features & Customization",
+          "anchor": "advanced-features-customization",
+          "line_number": 859,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Card Context Customization",
+              "anchor": "card-context-customization",
+              "line_number": 861,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Burying Sibling Cards",
+              "anchor": "burying-sibling-cards",
+              "line_number": 879,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Statistics & Analytics",
+              "anchor": "statistics-analytics",
+              "line_number": 894,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Custom Cloze Patterns (Advanced)",
+              "anchor": "custom-cloze-patterns-advanced",
+              "line_number": 909,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📊 Data Storage & Portability",
+          "anchor": "data-storage-portability",
+          "line_number": 935,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Scheduling Data Location",
+              "anchor": "scheduling-data-location",
+              "line_number": 937,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Backup Strategy",
+              "anchor": "backup-strategy",
+              "line_number": 958,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Migrating from Anki",
+              "anchor": "migrating-from-anki",
+              "line_number": 965,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎯 Best Practices for Effective Spaced Repetition",
+          "anchor": "best-practices-for-effective-spaced-repetition",
+          "line_number": 976,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Card Design Principles",
+              "anchor": "card-design-principles",
+              "line_number": 978,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Use Cloze for Contextual Learning",
+              "anchor": "use-cloze-for-contextual-learning",
+              "line_number": 1007,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Leverage Hierarchical Tags for Progressive Disclosure",
+              "anchor": "leverage-hierarchical-tags-for-progressive-disclosure",
+              "line_number": 1026,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Regular Maintenance Rituals",
+              "anchor": "regular-maintenance-rituals",
+              "line_number": 1039,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🐛 Troubleshooting Common Issues",
+          "anchor": "troubleshooting-common-issues",
+          "line_number": 1055,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Cards Not Appearing in Review Queue",
+              "anchor": "cards-not-appearing-in-review-queue",
+              "line_number": 1057,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Cloze Deletions Not Working",
+              "anchor": "cloze-deletions-not-working",
+              "line_number": 1072,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Correct",
+      "anchor": "correct",
+      "line_number": 1083,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Incorrect (missing deck tag)",
+      "anchor": "incorrect-missing-deck-tag",
+      "line_number": 1088,
+      "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Scheduling Data Not Persisting",
+          "anchor": "scheduling-data-not-persisting",
+          "line_number": 1092,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Performance Issues with Large Vaults",
+          "anchor": "performance-issues-with-large-vaults",
+          "line_number": 1104,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔗 Integration with Other Obsidian Workflows",
+          "anchor": "integration-with-other-obsidian-workflows",
+          "line_number": 1117,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "PKM System Integration",
+              "anchor": "pkm-system-integration",
+              "line_number": 1119,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Plugin Synergies",
+              "anchor": "plugin-synergies",
+              "line_number": 1139,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Flashcards",
+          "anchor": "flashcards",
+          "line_number": 1156,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🧭 Further Exploration",
+          "anchor": "further-exploration",
+          "line_number": 1169,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Related Concepts for PKB Expansion",
+              "anchor": "related-concepts-for-pkb-expansion",
+              "line_number": 1171,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📖 Extracted Definitions",
+              "anchor": "extracted-definitions",
+              "line_number": 1201,
+              "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "### <span style='color: #7200ff;'>Overview</span>",
+        "body": "- **Title**: [[Introduction to Spaced Repetition in Obsidian]]\n- **MOC**: `=this.link-up`",
+        "line_number": 38,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 755,
+        "char_end": 913
+      },
+      {
+        "type": "abstract",
+        "title": "### 🏷️ Tag Intelligence",
+        "body": "**Tag Count**: `= length(this.tags)` | **Unique Domains**: `= length(filter(this.tags, (t) => contains(t, \"/\")))` hierarchical tags\n**Tag Density**: `= choice(length(this.tags) < 3, \"⚠️Sparse\", choice(length(this.tags) > 10, \"📚Rich\", \"✅Balanced\"))`\n> \n> ---\n\n```dataviewjs\n// TAG CO-OCCURRENCE: Find notes sharing the most tags with this note\nconst current = dv.current();\n\n// Safely get tags from current note\nlet myTags = [];\nif (current.tags) {\n    if (Array.isArray(current.tags)) {\n        myTags = current.tags;\n    } else if (typeof current.tags === 'string') {\n        myTags = [current.tags];\n    }\n}\n\nif (myTags.length > 0) {\n    const tagSiblings = dv.pages()\n        .where(p => p.file.path !== current.file.path)\n        .where(p => {\n            // Safely check if page has tags\n            if (!p.tags) return false;\n            // Convert tags to array if needed\n            let pageTags = [];\n            if (Array.isArray(p.tags)) {\n                pageTags = p.tags;\n            } else if (typeof p.tags === 'string') {\n                pageTags = [p.tags];\n            }\n            return pageTags.length > 0;\n        })\n        .map(p => {\n            // Safely convert page tags to array\n            let pageTags = [];\n            if (p.tags) {\n                if (Array.isArray(p.tags)) {\n                    pageTags = p.tags;\n                } else if (typeof p.tags === 'string') {\n                    pageTags = [p.tags];\n                }\n            }\n            \n            // Find shared tags\n            const sharedTags = pageTags.filter(t => {\n                if (typeof t === 'string') {\n                    return myTags.includes(t);\n                } else if (t && typeof t === 'object' && t.path) {\n                    // Handle tag objects\n                    return myTags.some(myTag => {\n                        if (typeof myTag === 'string') {\n                            return myTag === t.path;\n                        }\n                        return false;\n                    });\n                }\n                return false;\n            });\n            \n            return {\n                link: p.file.link,\n                sharedCount: sharedTags.length,\n                sharedTags: sharedTags,\n                totalTags: pageTags.length\n            };\n        })\n        .where(p => p.sharedCount >= 2) // At least 2 shared tags\n        .sort(p => p.sharedCount, \"desc\")\n        .limit(5);\n\n    if (tagSiblings.length > 0) {\n        dv.header(5, \"🏷️ Tag Siblings (Shared Taxonomy)\");\n        dv.table(\n            [\"Note\", \"Overlap\", \"Shared Tags\"],\n            tagSiblings.map(s => {\n                // Safely extract tag names for display\n                let displayTags = s.sharedTags.map(t => {\n                    if (typeof t === 'string') {\n                        return t;\n                    } else if (t && typeof t === 'object' && t.path) {\n                        return t.path;\n                    }\n                    return String(t);\n                });\n                \n                return [\n                    s.link,\n                    s.sharedCount + \"/\" + s.totalTags,\n                    displayTags.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n                ];\n            })\n        );\n    } else {\n        dv.paragraph(\"*No tag siblings with 2+ shared tags found.*\");\n    }\n} else {\n    dv.paragraph(\"*No tags on this note to analyze.*\");\n}\n```",
+        "line_number": 229,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 8270,
+        "char_end": 11956
+      },
+      {
+        "type": "",
+        "title": "### Claude Thinking",
+        "body": "The user is requesting a comprehensive reference note on the \"Spaced Repetition\" plugin for Obsidian. This is clearly a request for a **Reference Note** type, which means:\n- Metadata header REQUIRED (tags + aliases)\n- Exhaustive coverage (1500-4000+ words)\n- 15-40 wiki-links\n- 8-15 callouts\n- Expansion section with 4 topics\n- Heavy use of inline fields for key information\n- Semantic color coding for visual hierarchy\n\nI need to activate web_search to gather current, accurate information about the Spaced Repetition plugin since:\n1. This is a technical tool that may have updates since January 2025\n2. The user needs comprehensive, accurate operational guidance\n3. Plugin features, syntax, and best practices need verification\n4. I want to provide the most current installation and configuration details\n\nResearch areas needed:\n- Plugin overview and core functionality\n- Installation and setup procedures\n- Card creation syntax (single-line, multi-line, cloze deletions)\n- Scheduling algorithms (SM-2, FSRS)\n- Review workflow and interface\n- Advanced features (tags, decks, buried cards, etc.)\n- Configuration options and settings\n- Integration with Obsidian features\n- Best practices for card design\n- Common pitfalls and troubleshooting\n- Performance optimization\n\nAfter research, I'll create a detailed blueprint covering:\n1. Introduction and core concepts\n2. Installation and configuration\n3. Card creation methods and syntax\n4. Review workflow\n5. Advanced features\n6. Best practices\n7. Troubleshooting\n8. Integration patterns\nBased on my research, I now have comprehensive information about the Obsidian Spaced Repetition plugin. Let me create a detailed blueprint and then generate the reference note.",
+        "line_number": 336,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 12015,
+        "char_end": 13829
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "**Comprehensive operational guide for the Obsidian Spaced Repetition plugin—covering installation, flashcard syntax, review workflows, algorithm configuration, and best practices for building an effective spaced repetition system within your Personal Knowledge Base.**",
+        "line_number": 381,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 14016,
+        "char_end": 14304
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "The SR Plugin operates on a fundamental principle: [<span style='color: #27FF00;'>**Learning is strengthened through active retrieval**</span>:: the act of recalling information from memory creates stronger neural pathways than passive re-reading], and [<span style='color: #27FF00;'>**optimal spacing defeats the forgetting curve**</span>:: reviewing material just before you're likely to forget it maximizes retention while minimizing total review time].",
+        "line_number": 392,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 15202,
+        "char_end": 15681
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "After enabling the plugin, you'll see a **status bar indicator** at the bottom of the Obsidian window showing the number of cards and notes currently due for review. Clicking this opens the review interface.",
+        "line_number": 420,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 16962,
+        "char_end": 17189
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "<span style='color: #FF00DC;'>**Do NOT**</span> enable both tag-based AND folder-based deck organization simultaneously—this creates conflicting hierarchies. Choose one organizational method and commit to it.",
+        "line_number": 444,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 18390,
+        "char_end": 18614
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "Reversed cards are [<span style='color: #27FF00;'>**sibling cards**</span>:: flashcards generated from the same source text that share scheduling history]. When **Bury sibling cards** is enabled, seeing one card prevents the other from appearing until the next day, avoiding immediate repetition.",
+        "line_number": 495,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 20054,
+        "char_end": 20374
+      },
+      {
+        "type": "constraints-and-pitfalls",
+        "title": "Untitled",
+        "body": "<span style='color: #FF00DC;'>**Critical Limitation:**</span> By default, multi-line flashcards **cannot contain blank lines** within the question or answer text. A blank line signals the end of the flashcard. To include blank lines, see the [Cards with Blank Lines](https://www.stephenmwangi.com/obsidian-spaced-repetition/flashcards/cards-with-blank-lines/) documentation for workarounds using HTML comments.",
+        "line_number": 530,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 21096,
+        "char_end": 21539
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Multiple Deletions in One Card:**\n```markdown\n#flashcards/chemistry\n\nWater has a molecular formula of ==H₂O==, consisting of ==two hydrogen atoms== and ==one oxygen atom==.\n```\nThis creates **THREE separate flashcards**, each occluding one deletion while showing the others:\n- Card 1: \"Water has a molecular formula of `[...]`, consisting of two hydrogen atoms and one oxygen atom.\"\n- Card 2: \"Water has a molecular formula of H₂O, consisting of `[...]` and one oxygen atom.\"\n- Card 3: \"Water has a molecular formula of H₂O, consisting of two hydrogen atoms and `[...]`.\"",
+        "line_number": 568,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 22559,
+        "char_end": 23166
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Cloze Overlapping Generalization** (advanced feature):\nUses action markers to control individual deletion behavior:\n- `a` = ask (hide on front, show on back)\n- `s` = show (always visible)\n- `h` = hide (never visible)\n\nExample:\n```markdown\n==Context that spoils later items==[^hshs]\n==Item 1==[^ashh]\n==Item 2==[^hash]\n```",
+        "line_number": 601,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 23858,
+        "char_end": 24235
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "Use [[YAML Frontmatter|frontmatter tags]] for default deck assignment, then override with inline tags for cards that belong in specialized subdecks. This minimizes tag clutter.",
+        "line_number": 669,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 25817,
+        "char_end": 26013
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "<span style='color: #FF00DC;'>**Limitation:**</span> Folder-based decks do NOT support multi-deck assignment. A card's deck is determined solely by its file location. This is less flexible than tag-based organization.",
+        "line_number": 689,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 26567,
+        "char_end": 26800
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "**Context Display**: When **Show context in cards** is enabled, each flashcard shows the hierarchical path from note title through all parent headings to the card's location. This provides associative cues that strengthen memory encoding and prevent context-free memorization.",
+        "line_number": 710,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 27438,
+        "char_end": 27737
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "<span style='color: #27FF00;'>**Honest Self-Assessment Principle:**</span> The algorithm's effectiveness depends on accurate button selection. Consistently choosing \"Good\" when you struggled (or vice versa) degrades scheduling accuracy. Use \"Hard\" without guilt—it's information, not failure.",
+        "line_number": 723,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 28438,
+        "char_end": 28754
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "Notes tagged with `#review` do NOT immediately appear in the review queue. You must first click the **status bar** or use the **\"Open note review queue\"** command to initialize the queue.",
+        "line_number": 760,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 29805,
+        "char_end": 30012
+      },
+      {
+        "type": "important-links",
+        "title": "Untitled",
+        "body": "**Note Review vs. Flashcard Review:**\n- **Flashcards**: Focused, atomic knowledge testing\n- **Note Review**: Holistic understanding and concept reinforcement\n\nThese are complementary strategies—use both for comprehensive learning.",
+        "line_number": 782,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 30532,
+        "char_end": 30794
+      },
+      {
+        "type": "equation",
+        "title": "Untitled",
+        "body": "**Initial Ease Calculation (OSR Enhancement):**\n\nIf a note has backlinks (linked notes):\n```\nlink_contribution = max_link_factor × min(1.0, log(link_count + 0.5) / log(64))\ninitial_ease = (1 - link_contribution) × base_ease + link_contribution × average_ease\n```\n\nThis means cards in well-connected notes start with higher ease, reflecting the assumption that densely linked knowledge is easier to recall due to multiple retrieval pathways.",
+        "line_number": 820,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 32015,
+        "char_end": 32488
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "<span style='color: #FF00DC;'>**Advanced Users Only:**</span> Modifying algorithm parameters requires understanding their interactions. Aggressive changes can destabilize scheduling. Start with defaults and adjust incrementally based on empirical observation of your review burden.",
+        "line_number": 843,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 33209,
+        "char_end": 33506
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "Think of card context like a file path in your knowledge base—it tells you not just *what* the information is, but *where it lives* in your conceptual architecture.",
+        "line_number": 876,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 34661,
+        "char_end": 34841
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "Enable this unless you specifically want to test bidirectional recall in the same session (rare use case).",
+        "line_number": 891,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 35418,
+        "char_end": 35548
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "<span style='color: #FF00DC;'>**Conflict Alert:**</span> Ensure custom cloze patterns do NOT overlap with other flashcard separators. For example, the pattern `{{[123::]answer[::hint]}}` conflicts with the default `::` single-line separator.",
+        "line_number": 930,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 36485,
+        "char_end": 36742
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**Plaintext Storage Philosophy:**\n\nBy embedding scheduling data in markdown files rather than a separate database, the plugin ensures:\n1. **Portability**: Your notes remain functional if you switch tools\n2. **Version Control**: Git can track scheduling history\n3. **No Database Corruption**: No risk of losing all progress due to database file corruption\n\n<span style='color: #FF00DC;'>**Trade-off:**</span> This approach modifies your note files. If you prefer pristine notes, consider the [[Obsidian Spaced Repetition Recall]] fork which uses external JSON storage.",
+        "line_number": 948,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 37037,
+        "char_end": 37641
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Atomic Card Principle:**\n\nEach flashcard should test **one** piece of information. Complex multi-part questions should be split into multiple cards.",
+        "line_number": 980,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 38277,
+        "char_end": 38455
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Suspend vs. Delete:**\n- **Suspend**: Comment out the card with HTML comments to preserve it but remove from review queue\n- **Delete**: Completely remove card text and scheduling data\n\nPrefer suspension for temporarily irrelevant material you might need later.",
+        "line_number": 1046,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md",
+        "char_start": 40411,
+        "char_end": 40700
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Introduction to Spaced Repetition in Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Introduction to Spaced Repetition in Obsidian]]",
+        "line_number": 39,
+        "section": "Document Start",
+        "context_line": "> - **Title**: [[Introduction to Spaced Repetition in Obsidian]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 388,
+        "section": "📖 Introduction to Spaced Repetition in Obsidian",
+        "context_line": "[<span style='color: #FFC700;'>**Spaced Repetition**</span>:: a learning technique that schedules review of information at progressively increasing intervals to combat the forgetting curve and optimize long-term retention.] The [[Obsidian]] Spaced Repetition plugin (commonly abbreviated as <span style='color: #72FFF1;'>SR Plugin</span>) brings this scientifically-validated learning methodology directly into your [[Personal Knowledge Base]], allowing you to transform passive notes into active learning materials without leaving your vault.",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Personal Knowledge Base",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Base]]",
+        "line_number": 388,
+        "section": "📖 Introduction to Spaced Repetition in Obsidian",
+        "context_line": "[<span style='color: #FFC700;'>**Spaced Repetition**</span>:: a learning technique that schedules review of information at progressively increasing intervals to combat the forgetting curve and optimize long-term retention.] The [[Obsidian]] Spaced Repetition plugin (commonly abbreviated as <span style='color: #72FFF1;'>SR Plugin</span>) brings this scientifically-validated learning methodology directly into your [[Personal Knowledge Base]], allowing you to transform passive notes into active learning materials without leaving your vault.",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 390,
+        "section": "📖 Introduction to Spaced Repetition in Obsidian",
+        "context_line": "Developed by <span style='color: #FF5700;'>Stephen Mwangi (st3v3nmw)</span>, the plugin supports **both flashcard-based review and whole-note review**, enabling flexible learning workflows that integrate seamlessly with your existing [[Zettelkasten]] or [[PARA Method]] organizational systems.",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "PARA Method",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PARA Method]]",
+        "line_number": 390,
+        "section": "📖 Introduction to Spaced Repetition in Obsidian",
+        "context_line": "Developed by <span style='color: #FF5700;'>Stephen Mwangi (st3v3nmw)</span>, the plugin supports **both flashcard-based review and whole-note review**, enabling flexible learning workflows that integrate seamlessly with your existing [[Zettelkasten]] or [[PARA Method]] organizational systems.",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Cloze Deletion",
+        "heading": null,
+        "display_text": "cloze deletions",
+        "full_match": "[[Cloze Deletion|cloze deletions]]",
+        "line_number": 399,
+        "section": "Key Capabilities",
+        "context_line": "- **Multiple flashcard formats**: Single-line (`Question::Answer`), multi-line (separated by `?`), reversed cards (bidirectional), and [[Cloze Deletion|cloze deletions]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Obsidian Tags",
+        "heading": null,
+        "display_text": "hierarchical tags",
+        "full_match": "[[Obsidian Tags|hierarchical tags]]",
+        "line_number": 400,
+        "section": "Key Capabilities",
+        "context_line": "- **Flexible organization**: Deck creation via [[Obsidian Tags|hierarchical tags]] (`#flashcards/subdeck`) or vault folder structure",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Markdown",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Markdown]]",
+        "line_number": 401,
+        "section": "Key Capabilities",
+        "context_line": "- **Rich content support**: LaTeX equations, code blocks, images, audio, and all [[Markdown]] formatting",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "FSRS Algorithm",
+        "heading": null,
+        "display_text": "FSRS",
+        "full_match": "[[FSRS Algorithm|FSRS]]",
+        "line_number": 403,
+        "section": "Key Capabilities",
+        "context_line": "- **Scheduling algorithms**: Implements <span style='color: #72FFF1;'>SM-2-OSR</span> (SuperMemo-2 variant) with planned support for [[FSRS Algorithm|FSRS]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 413,
+        "section": "Standard Installation",
+        "context_line": "The SR Plugin is available through [[Obsidian]]'s Community Plugins marketplace:",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "YAML Frontmatter",
+        "heading": null,
+        "display_text": "frontmatter tags",
+        "full_match": "[[YAML Frontmatter|frontmatter tags]]",
+        "line_number": 670,
+        "section": "Tag-Based Decks (Recommended for Most Users)",
+        "context_line": "> Use [[YAML Frontmatter|frontmatter tags]] for default deck assignment, then override with inline tags for cards that belong in specialized subdecks. This minimizes tag clutter.",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Maps of Content (MOCs)",
+        "heading": null,
+        "display_text": "MOCs",
+        "full_match": "[[Maps of Content (MOCs)|MOCs]]",
+        "line_number": 743,
+        "section": "📝 Whole-Note Review",
+        "context_line": "- **Synthesis notes**: Periodically reviewing [[Maps of Content (MOCs)|MOCs]] or summary documents",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "SuperMemo",
+        "heading": null,
+        "display_text": "SM-2 algorithm",
+        "full_match": "[[SuperMemo|SM-2 algorithm]]",
+        "line_number": 793,
+        "section": "🧮 Scheduling Algorithm: SM-2-OSR",
+        "context_line": "The SR Plugin implements <span style='color: #72FFF1;'>**SM-2-OSR**</span> (SuperMemo-2 Obsidian Spaced Repetition), a variant of the classic [[SuperMemo|SM-2 algorithm]] with Obsidian-specific enhancements.",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Obsidian Spaced Repetition Recall",
+        "heading": null,
+        "display_text": "obsidian-spaced-repetition-recall",
+        "full_match": "[[Obsidian Spaced Repetition Recall|obsidian-spaced-repetition-recall]]",
+        "line_number": 850,
+        "section": "Future Algorithm: FSRS",
+        "context_line": "**Status:** Not yet implemented in the main SR Plugin (as of December 2024). A fork called [[Obsidian Spaced Repetition Recall|obsidian-spaced-repetition-recall]] includes FSRS support.",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Obsidian Spaced Repetition Recall",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian Spaced Repetition Recall]]",
+        "line_number": 956,
+        "section": "Scheduling Data Location",
+        "context_line": "> <span style='color: #FF00DC;'>**Trade-off:**</span> This approach modifies your note files. If you prefer pristine notes, consider the [[Obsidian Spaced Repetition Recall]] fork which uses external JSON storage.",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Obsidian Git",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian Git]]",
+        "line_number": 962,
+        "section": "Backup Strategy",
+        "context_line": "2. Use [[Obsidian Git]] or similar plugins for automatic version control",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Obsidian Publish",
+        "heading": null,
+        "display_text": "publish",
+        "full_match": "[[Obsidian Publish|publish]]",
+        "line_number": 963,
+        "section": "Backup Strategy",
+        "context_line": "3. Exclude scheduling comments from published notes using [[Obsidian Publish|publish]] settings",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Anki",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Anki]]",
+        "line_number": 967,
+        "section": "Migrating from Anki",
+        "context_line": "If transitioning from [[Anki]]:",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Management]]",
+        "line_number": 1121,
+        "section": "PKM System Integration",
+        "context_line": "The SR Plugin complements various [[Personal Knowledge Management]] methodologies:",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 1123,
+        "section": "PKM System Integration",
+        "context_line": "**With [[Zettelkasten]]:**",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "PARA Method",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PARA Method]]",
+        "line_number": 1128,
+        "section": "PKM System Integration",
+        "context_line": "**With [[PARA Method]]:**",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Linking Your Thinking (LYT)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Linking Your Thinking (LYT)]]",
+        "line_number": 1135,
+        "section": "PKM System Integration",
+        "context_line": "**With [[Linking Your Thinking (LYT)]]:**",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Maps of Content (MOCs)",
+        "heading": null,
+        "display_text": "MOCs",
+        "full_match": "[[Maps of Content (MOCs)|MOCs]]",
+        "line_number": 1136,
+        "section": "PKM System Integration",
+        "context_line": "- Embed flashcards in [[Maps of Content (MOCs)|MOCs]] for domain-specific review",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 1141,
+        "section": "Plugin Synergies",
+        "context_line": "**[[Dataview]]:**",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 1149,
+        "section": "Plugin Synergies",
+        "context_line": "**[[Templater]]:**",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 1161,
+        "section": "Flashcards",
+        "context_line": "**[[Tasks Plugin]]:**",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 1164,
+        "section": "Flashcards",
+        "context_line": "- [ ] Convert [[Cognitive Load Theory]] notes to flashcards #task/learning",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Spaced Repetition Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Spaced Repetition Theory]]",
+        "line_number": 1173,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "1. **[[Spaced Repetition Theory]]**",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Cognitive Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Psychology]]",
+        "line_number": 1176,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Core learning science concept connecting to memory, [[Cognitive Psychology]], and [[Educational Technology]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Educational Technology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Educational Technology]]",
+        "line_number": 1176,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Core learning science concept connecting to memory, [[Cognitive Psychology]], and [[Educational Technology]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "SuperMemo Algorithm (SM-2)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SuperMemo Algorithm (SM-2)]]",
+        "line_number": 1178,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "2. **[[SuperMemo Algorithm (SM-2)]]**",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "FSRS Algorithm",
+        "heading": null,
+        "display_text": "FSRS",
+        "full_match": "[[FSRS Algorithm|FSRS]]",
+        "line_number": 1180,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "- *Depth Potential*: Historical development, mathematical formulation, and comparative analysis with newer algorithms like [[FSRS Algorithm|FSRS]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Effective Flashcard Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Effective Flashcard Design]]",
+        "line_number": 1183,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "3. **[[Effective Flashcard Design]]**",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 1186,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Practical application of [[Cognitive Load Theory]], [[Dual Coding Theory]], and [[Desirable Difficulties]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Dual Coding Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual Coding Theory]]",
+        "line_number": 1186,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Practical application of [[Cognitive Load Theory]], [[Dual Coding Theory]], and [[Desirable Difficulties]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Desirable Difficulties",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Desirable Difficulties]]",
+        "line_number": 1186,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Practical application of [[Cognitive Load Theory]], [[Dual Coding Theory]], and [[Desirable Difficulties]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Active Recall vs. Passive Review",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Active Recall vs. Passive Review]]",
+        "line_number": 1188,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "4. **[[Active Recall vs. Passive Review]]**",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Learning Science",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Learning Science]]",
+        "line_number": 1191,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Foundational concept in [[Learning Science]], connecting to [[Metacognition]] and [[Study Strategies]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 1191,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Foundational concept in [[Learning Science]], connecting to [[Metacognition]] and [[Study Strategies]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "target": "Study Strategies",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Study Strategies]]",
+        "line_number": 1191,
+        "section": "Related Concepts for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Foundational concept in [[Learning Science]], connecting to [[Metacognition]] and [[Study Strategies]]",
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Question text goes here",
+        "value": "Answer text goes here",
+        "format": "bare",
+        "line_number": 461,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "field_name": "The powerhouse of the cell",
+        "value": "Mitochondria",
+        "format": "bare",
+        "line_number": 468,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "field_name": "Term A",
+        "value": ":Term B",
+        "format": "bare",
+        "line_number": 480,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "field_name": "Hola",
+        "value": ":Hello",
+        "format": "bare",
+        "line_number": 491,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "field_name": "This card inherits the file-level tag",
+        "value": "Goes to defaultdeck",
+        "format": "bare",
+        "line_number": 657,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "field_name": "Force equals mass times",
+        "value": "acceleration",
+        "format": "bare",
+        "line_number": 661,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "field_name": "Molecular formula of water",
+        "value": "H₂O",
+        "format": "bare",
+        "line_number": 665,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 110,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "spaced-repetition",
+        "full_tag": "#spaced-repetition",
+        "hierarchy": [
+          "spaced-repetition"
+        ],
+        "line_number": 110,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "plugin",
+        "full_tag": "#plugin",
+        "hierarchy": [
+          "plugin"
+        ],
+        "line_number": 110,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "flashcards",
+        "full_tag": "#flashcards",
+        "hierarchy": [
+          "flashcards"
+        ],
+        "line_number": 110,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "learning",
+        "full_tag": "#learning",
+        "hierarchy": [
+          "learning"
+        ],
+        "line_number": 110,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 110,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 121,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FF5700",
+        "full_tag": "#FF5700",
+        "hierarchy": [
+          "FF5700"
+        ],
+        "line_number": 133,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "flashcards/subdeck",
+        "full_tag": "#flashcards/subdeck",
+        "hierarchy": [
+          "flashcards",
+          "subdeck"
+        ],
+        "line_number": 164,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "review",
+        "full_tag": "#review",
+        "hierarchy": [
+          "review"
+        ],
+        "line_number": 175,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "flashcards",
+        "full_tag": "#flashcards",
+        "hierarchy": [
+          "flashcards"
+        ],
+        "line_number": 203,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "review",
+        "full_tag": "#review",
+        "hierarchy": [
+          "review"
+        ],
+        "line_number": 204,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 215,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 225,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 236,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 259,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 267,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 282,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 311,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 339,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "flashcards/domain/subdomain/topic",
+        "full_tag": "#flashcards/domain/subdomain/topic",
+        "hierarchy": [
+          "flashcards",
+          "domain",
+          "subdomain",
+          "topic"
+        ],
+        "line_number": 344,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 359,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 367,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 388,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 388,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 390,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 399,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "review",
+        "full_tag": "#review",
+        "hierarchy": [
+          "review"
+        ],
+        "line_number": 405,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "review",
+        "full_tag": "#review",
+        "hierarchy": [
+          "review"
+        ],
+        "line_number": 409,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "review",
+        "full_tag": "#review",
+        "hierarchy": [
+          "review"
+        ],
+        "line_number": 416,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 438,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 472,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 478,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 531,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 571,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 588,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "flashcards/math",
+        "full_tag": "#flashcards/math",
+        "hierarchy": [
+          "flashcards",
+          "math"
+        ],
+        "line_number": 632,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "flashcards",
+        "full_tag": "#flashcards",
+        "hierarchy": [
+          "flashcards"
+        ],
+        "line_number": 666,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "flashcards",
+        "full_tag": "#flashcards",
+        "hierarchy": [
+          "flashcards"
+        ],
+        "line_number": 684,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "flashcards",
+        "full_tag": "#flashcards",
+        "hierarchy": [
+          "flashcards"
+        ],
+        "line_number": 715,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "tag": "flashcards/areas/finance",
+        "full_tag": "#flashcards/areas/finance",
+        "hierarchy": [
+          "flashcards",
+          "areas",
+          "finance"
+        ],
+        "line_number": 718,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 5,
+        "text": "Introduction to Spaced Repetition in Obsidian",
+        "anchor": "introduction-to-spaced-repetition-in-obsidian",
+        "line_number": 334,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "📖 Introduction to Spaced Repetition in Obsidian",
+        "anchor": "introduction-to-spaced-repetition-in-obsidian",
+        "line_number": 386,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Key Capabilities",
+        "anchor": "key-capabilities",
+        "line_number": 395,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ Installation & Initial Configuration",
+        "anchor": "installation-initial-configuration",
+        "line_number": 409,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Standard Installation",
+        "anchor": "standard-installation",
+        "line_number": 411,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Manual Installation",
+        "anchor": "manual-installation",
+        "line_number": 423,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Essential Initial Settings",
+        "anchor": "essential-initial-settings",
+        "line_number": 432,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "💳 Flashcard Creation Syntax",
+        "anchor": "flashcard-creation-syntax",
+        "line_number": 449,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Single-Line Format (Basic Q&A)",
+        "anchor": "single-line-format-basic-qa",
+        "line_number": 453,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Single-Line Reversed Format (Bidirectional)",
+        "anchor": "single-line-reversed-format-bidirectional",
+        "line_number": 474,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Multi-Line Format (Extended Content)",
+        "anchor": "multi-line-format-extended-content",
+        "line_number": 498,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Multi-Line Reversed Format",
+        "anchor": "multi-line-reversed-format",
+        "line_number": 533,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Cloze Deletions (Fill-in-the-Blank)",
+        "anchor": "cloze-deletions-fill-in-the-blank",
+        "line_number": 546,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 4,
+        "text": "Simplified Cloze (Most Common)",
+        "anchor": "simplified-cloze-most-common",
+        "line_number": 550,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 4,
+        "text": "Classic Cloze (With Sequence Numbers)",
+        "anchor": "classic-cloze-with-sequence-numbers",
+        "line_number": 580,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "🗂️ Deck Organization Strategies",
+        "anchor": "deck-organization-strategies",
+        "line_number": 617,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Tag-Based Decks (Recommended for Most Users)",
+        "anchor": "tag-based-decks-recommended-for-most-users",
+        "line_number": 621,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Folder-Based Decks (Alternative Method)",
+        "anchor": "folder-based-decks-alternative-method",
+        "line_number": 672,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 Review Workflow & Interface",
+        "anchor": "review-workflow-interface",
+        "line_number": 694,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Initiating a Review Session",
+        "anchor": "initiating-a-review-session",
+        "line_number": 696,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Response Button Meanings",
+        "anchor": "response-button-meanings",
+        "line_number": 713,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Cramming Mode (Optional Review)",
+        "anchor": "cramming-mode-optional-review",
+        "line_number": 726,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "📝 Whole-Note Review",
+        "anchor": "whole-note-review",
+        "line_number": 739,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Tagging Notes for Review",
+        "anchor": "tagging-notes-for-review",
+        "line_number": 746,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 1,
+        "text": "Project Strategy Document",
+        "anchor": "project-strategy-document",
+        "line_number": 755,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Note Review Workflow",
+        "anchor": "note-review-workflow",
+        "line_number": 763,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "🧮 Scheduling Algorithm: SM-2-OSR",
+        "anchor": "scheduling-algorithm-sm-2-osr",
+        "line_number": 791,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Core Algorithm Principles",
+        "anchor": "core-algorithm-principles",
+        "line_number": 795,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 1,
+        "text": "After a \"Good\" response:",
+        "anchor": "after-a-good-response",
+        "line_number": 808,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 1,
+        "text": "After \"Hard\":",
+        "anchor": "after-hard",
+        "line_number": 811,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 1,
+        "text": "After \"Easy\":",
+        "anchor": "after-easy",
+        "line_number": 815,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Configurable Parameters",
+        "anchor": "configurable-parameters",
+        "line_number": 831,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Future Algorithm: FSRS",
+        "anchor": "future-algorithm-fsrs",
+        "line_number": 846,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "🛠️ Advanced Features & Customization",
+        "anchor": "advanced-features-customization",
+        "line_number": 859,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Card Context Customization",
+        "anchor": "card-context-customization",
+        "line_number": 861,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Burying Sibling Cards",
+        "anchor": "burying-sibling-cards",
+        "line_number": 879,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Statistics & Analytics",
+        "anchor": "statistics-analytics",
+        "line_number": 894,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Custom Cloze Patterns (Advanced)",
+        "anchor": "custom-cloze-patterns-advanced",
+        "line_number": 909,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Data Storage & Portability",
+        "anchor": "data-storage-portability",
+        "line_number": 935,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Scheduling Data Location",
+        "anchor": "scheduling-data-location",
+        "line_number": 937,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Backup Strategy",
+        "anchor": "backup-strategy",
+        "line_number": 958,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Migrating from Anki",
+        "anchor": "migrating-from-anki",
+        "line_number": 965,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Best Practices for Effective Spaced Repetition",
+        "anchor": "best-practices-for-effective-spaced-repetition",
+        "line_number": 976,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Card Design Principles",
+        "anchor": "card-design-principles",
+        "line_number": 978,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Use Cloze for Contextual Learning",
+        "anchor": "use-cloze-for-contextual-learning",
+        "line_number": 1007,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Leverage Hierarchical Tags for Progressive Disclosure",
+        "anchor": "leverage-hierarchical-tags-for-progressive-disclosure",
+        "line_number": 1026,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Regular Maintenance Rituals",
+        "anchor": "regular-maintenance-rituals",
+        "line_number": 1039,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "🐛 Troubleshooting Common Issues",
+        "anchor": "troubleshooting-common-issues",
+        "line_number": 1055,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Cards Not Appearing in Review Queue",
+        "anchor": "cards-not-appearing-in-review-queue",
+        "line_number": 1057,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Cloze Deletions Not Working",
+        "anchor": "cloze-deletions-not-working",
+        "line_number": 1072,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 1,
+        "text": "Correct",
+        "anchor": "correct",
+        "line_number": 1083,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 1,
+        "text": "Incorrect (missing deck tag)",
+        "anchor": "incorrect-missing-deck-tag",
+        "line_number": 1088,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Scheduling Data Not Persisting",
+        "anchor": "scheduling-data-not-persisting",
+        "line_number": 1092,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Performance Issues with Large Vaults",
+        "anchor": "performance-issues-with-large-vaults",
+        "line_number": 1104,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Integration with Other Obsidian Workflows",
+        "anchor": "integration-with-other-obsidian-workflows",
+        "line_number": 1117,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "PKM System Integration",
+        "anchor": "pkm-system-integration",
+        "line_number": 1119,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Plugin Synergies",
+        "anchor": "plugin-synergies",
+        "line_number": 1139,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "Flashcards",
+        "anchor": "flashcards",
+        "line_number": 1156,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 2,
+        "text": "🧭 Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 1169,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "Related Concepts for PKB Expansion",
+        "anchor": "related-concepts-for-pkb-expansion",
+        "line_number": 1171,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "level": 3,
+        "text": "📖 Extracted Definitions",
+        "anchor": "extracted-definitions",
+        "line_number": 1201,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "// SYSTEM: Enhanced Semantic Bridge Engine v2.0\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts) with advanced analytics\n\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks?.map(l => l.path) || [];\n\n// Performance optimization: Create Set for faster lookups\nconst myOutlinkSet = new Set(myOutlinks);\nconst currentPath = current.file.path;\n\n// Advanced sibling analysis with metadata\nlet siblings = [];\n\ntry {\n  siblings = dv.pages()\n    .where(p => {\n      // Safety checks\n      if (!p.file?.path || p.file.path === currentPath) return false;\n      // Exclude already linked notes\n      if (current.file.outlinks?.some(l => l.path === p.file.path)) return false;\n      return true;\n    })\n    .map(p => {\n      try {\n        // Calculate shared connections\n        const shared = p.file.outlinks?.filter(l => myOutlinkSet.has(l.path)) || [];\n        const sharedCount = shared.length;\n        \n        // Calculate similarity score (0-100%)\n        const totalConnections = myOutlinks.length + (p.file.outlinks?.length || 0);\n        const similarityScore = totalConnections > 0 ? Math.round((sharedCount * 2 / totalConnections) * 100) : 0;\n        \n        return { \n          link: p.file.link, \n          sharedCount, \n          sharedLinks: shared,\n          similarityScore,\n          maturity: p.maturity || \"unset\",\n          type: p.type || \"unknown\",\n          lastModified: p.file.mtime\n        };\n      } catch (e) {\n        console.warn(\"Error processing page:\", p.file?.path, e);\n        return null;\n      }\n    })\n    .where(p => p && p.sharedCount > 0)\n    .sort(p => p.similarityScore, \"desc\")\n    .limit(8);\n    \n  // Ensure siblings is an array\n  if (!Array.isArray(siblings)) {\n    siblings = [];\n  }\n} catch (e) {\n  console.error(\"Error building siblings:\", e);\n  siblings = [];\n}\n\n// Render enhanced semantic bridges\nif (siblings.length > 0) {\n  dv.header(3, \"🔗 Semantic Bridges (Missing Connections)\");\n  \n  // Add summary statistics with error handling\n  try {\n    const totalSharedConnections = siblings.reduce((sum, s) => sum + (s.sharedCount || 0), 0);\n    const avgSimilarity = siblings.length > 0 ? \n      Math.round(siblings.reduce((sum, s) => sum + (s.similarityScore || 0), 0) / siblings.length) : 0;\n    \n    dv.paragraph(`**Found ${siblings.length} semantic siblings** • Total shared: ${totalSharedConnections} connections • Avg. similarity: ${avgSimilarity}%`);\n  } catch (e) {\n    console.warn(\"Error calculating sibling statistics:\", e);\n    dv.paragraph(`**Found ${siblings.length} semantic siblings**`);\n  }\n  \n  dv.table(\n    [\"Note\", \"Similarity\", \"Strength\", \"Maturity\", \"Type\", \"Shared Context\"], \n    siblings.map(s => [\n      s.link, \n      `📊${s.similarityScore || 0}%`,\n      \"🔗\" + (s.sharedCount || 0), \n      s.maturity === \"evergreen\" ? \"🌳\" + s.maturity : \n      s.maturity === \"budding\" ? \"🌿\" + s.maturity :\n      s.maturity === \"developing\" ? \"🌱\" + s.maturity :\n      s.maturity === \"seedling\" ? \"大豆\" + s.maturity : \"❓unset\",\n      s.type || \"unknown\",\n      s.sharedLinks?.slice(0, 2).map(l => l.displayName || l.path).join(\", \") + ((s.sharedLinks?.length || 0) > 2 ? \"…\" : \"\") || \"\"\n    ])\n  );\n} else {\n  dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}\n\n// DOMAIN COVERAGE: Advanced domain analysis\nconst myTags = current.tags || [];\nconst primaryDomain = myTags.find(t => typeof t === \"string\" && t.includes(\"/\"))?.split(\"/\")[0] \n                   || myTags.find(t => typeof t === \"string\");\n\nif (primaryDomain) {\n  let domainNotes = [];\n  try {\n    domainNotes = dv.pages()\n      .where(p => \n        p.tags && \n        Array.isArray(p.tags) && \n        p.tags.some(t => \n          typeof t === \"string\" && \n          (t.startsWith(primaryDomain) || t === primaryDomain)\n        )\n      );\n  } catch (e) {\n    console.warn(\"Error filtering domain notes:\", e);\n    domainNotes = [];\n  }\n   \n  const maturityDistribution = {\n    evergreen: domainNotes.filter(p => p.maturity === \"evergreen\").length,\n    budding: domainNotes.filter(p => p.maturity === \"budding\").length,\n    developing: domainNotes.filter(p => p.maturity === \"developing\").length,\n    seedling: domainNotes.filter(p => p.maturity === \"seedling\").length,\n    unset: domainNotes.filter(p => !p.maturity).length\n  };\n\n  // Advanced domain health metrics\n  const totalNotes = domainNotes.length;\n  const matureNotes = maturityDistribution.evergreen + maturityDistribution.budding;\n  const coverage = totalNotes > 0 ? Math.round((matureNotes / totalNotes) * 100) : 0;\n  \n  // Domain activity score (based on recent modifications)\n  const recentNotes = domainNotes.filter(p => {\n    try {\n      const daysOld = (new Date() - new Date(p.file.mtime)) / (1000 * 60 * 60 * 24);\n      return daysOld < 30;\n    } catch (e) {\n      return false;\n    }\n  }).length;\n  const activityScore = totalNotes > 0 ? Math.round((recentNotes / totalNotes) * 100) : 0;\n\n  dv.header(3, `📂 Domain Analysis: ${primaryDomain}`);\n  dv.paragraph(`**Total notes**: ${totalNotes} | **Recent activity**: ${activityScore}% (30d)`);\n  dv.paragraph(`**Maturity breakdown**: 🌳${maturityDistribution.evergreen} | 🌿${maturityDistribution.budding} | 🌱${maturityDistribution.developing} | 🌰${maturityDistribution.seedling} | ❓${maturityDistribution.unset}`);\n  dv.paragraph(`**Domain health**: ${coverage}% mature (evergreen + budding)`);\n  \n  // Domain health indicator\n  const healthIndicator = coverage >= 80 ? \"🟢 Excellent\" : \n                         coverage >= 60 ? \"🟡 Good\" : \n                         coverage >= 40 ? \"🟠 Fair\" : \"🔴 Poor\";\n  dv.paragraph(`**Health status**: ${healthIndicator}`);\n}\n\n// NETWORK INTELLIGENCE: Advanced connectivity analysis\nconst inlinks = current.file.inlinks || [];\nconst outlinks = current.file.outlinks || [];\n\ndv.header(3, \"🕸️ Network Intelligence\");\nconst networkMetrics = [\n  [\"**Metric**\", \"**Value**\", \"**Insight**\"],\n  [\"In-links\", inlinks.length, inlinks.length > 10 ? \"⚡ Hub\" : inlinks.length > 0 ? \"🌱 Node\" : \"🕸️ Orphan\"],\n  [\"Out-links\", outlinks.length, outlinks.length > 15 ? \"🗺️ Explorer\" : outlinks.length > 5 ? \"🧭 Navigator\" : \"🎯 Focused\"],\n  [\"Link Ratio\", outlinks.length > 0 ? (inlinks.length / outlinks.length).toFixed(1) : \"∞\", \n   outlinks.length > 0 && inlinks.length / outlinks.length > 2 ? \"📈 High authority\" : \"📊 Balanced\"]\n];\n\ndv.table(networkMetrics[0], networkMetrics.slice(1));\n\n// TEMPORAL ANALYSIS: Content aging and review patterns\ndv.header(3, \"⏰ Temporal Intelligence\");\ntry {\n  const created = current.file.ctime;\n  const modified = current.file.mtime;\n  const ageDays = Math.floor((new Date() - new Date(created)) / (1000 * 60 * 60 * 24));\n  const stalenessDays = Math.floor((new Date() - new Date(modified)) / (1000 * 60 * 60 * 24));\n\n  const reviewInsights = [];\n  if (current[\"review-count\"] > 5) reviewInsights.push(\"🔁 Well-reviewed\");\n  if (stalenessDays > 180) reviewInsights.push(\"⏰ Needs refresh\");\n  if (ageDays < 30) reviewInsights.push(\"🆕 New content\");\n\n  dv.paragraph(`**Age**: ${ageDays} days | **Staleness**: ${stalenessDays} days`);\n  dv.paragraph(`**Review status**: ${current[\"review-count\"] || 0} reviews | ${reviewInsights.join(\" • \") || \"📝 Standard\"}`);\n} catch (e) {\n  console.warn(\"Error in temporal analysis:\", e);\n  dv.paragraph(\"*Temporal analysis unavailable*\");\n}",
+        "line_start": 42,
+        "line_end": 228,
+        "char_count": 7337,
+        "line_count": 185,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "> // TAG CO-OCCURRENCE: Find notes sharing the most tags with this note\n> const current = dv.current();\n> \n> // Safely get tags from current note\n> let myTags = [];\n> if (current.tags) {\n>     if (Array.isArray(current.tags)) {\n>         myTags = current.tags;\n>     } else if (typeof current.tags === 'string') {\n>         myTags = [current.tags];\n>     }\n> }\n> \n> if (myTags.length > 0) {\n>     const tagSiblings = dv.pages()\n>         .where(p => p.file.path !== current.file.path)\n>         .where(p => {\n>             // Safely check if page has tags\n>             if (!p.tags) return false;\n>             // Convert tags to array if needed\n>             let pageTags = [];\n>             if (Array.isArray(p.tags)) {\n>                 pageTags = p.tags;\n>             } else if (typeof p.tags === 'string') {\n>                 pageTags = [p.tags];\n>             }\n>             return pageTags.length > 0;\n>         })\n>         .map(p => {\n>             // Safely convert page tags to array\n>             let pageTags = [];\n>             if (p.tags) {\n>                 if (Array.isArray(p.tags)) {\n>                     pageTags = p.tags;\n>                 } else if (typeof p.tags === 'string') {\n>                     pageTags = [p.tags];\n>                 }\n>             }\n>             \n>             // Find shared tags\n>             const sharedTags = pageTags.filter(t => {\n>                 if (typeof t === 'string') {\n>                     return myTags.includes(t);\n>                 } else if (t && typeof t === 'object' && t.path) {\n>                     // Handle tag objects\n>                     return myTags.some(myTag => {\n>                         if (typeof myTag === 'string') {\n>                             return myTag === t.path;\n>                         }\n>                         return false;\n>                     });\n>                 }\n>                 return false;\n>             });\n>             \n>             return {\n>                 link: p.file.link,\n>                 sharedCount: sharedTags.length,\n>                 sharedTags: sharedTags,\n>                 totalTags: pageTags.length\n>             };\n>         })\n>         .where(p => p.sharedCount >= 2) // At least 2 shared tags\n>         .sort(p => p.sharedCount, \"desc\")\n>         .limit(5);\n> \n>     if (tagSiblings.length > 0) {\n>         dv.header(5, \"🏷️ Tag Siblings (Shared Taxonomy)\");\n>         dv.table(\n>             [\"Note\", \"Overlap\", \"Shared Tags\"],\n>             tagSiblings.map(s => {\n>                 // Safely extract tag names for display\n>                 let displayTags = s.sharedTags.map(t => {\n>                     if (typeof t === 'string') {\n>                         return t;\n>                     } else if (t && typeof t === 'object' && t.path) {\n>                         return t.path;\n>                     }\n>                     return String(t);\n>                 });\n>                 \n>                 return [\n>                     s.link,\n>                     s.sharedCount + \"/\" + s.totalTags,\n>                     displayTags.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n>                 ];\n>             })\n>         );\n>     } else {\n>         dv.paragraph(\"*No tag siblings with 2+ shared tags found.*\");\n>     }\n> } else {\n>     dv.paragraph(\"*No tags on this note to analyze.*\");\n> }\n>",
+        "line_start": 235,
+        "line_end": 330,
+        "char_count": 3358,
+        "line_count": 95,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "#flashcards\n\nQuestion text goes here::Answer text goes here",
+        "line_start": 458,
+        "line_end": 462,
+        "char_count": 59,
+        "line_count": 3,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "#flashcards/biology/cells\n\nThe powerhouse of the cell::Mitochondria\nWhat process produces ATP?::Cellular respiration",
+        "line_start": 465,
+        "line_end": 470,
+        "char_count": 116,
+        "line_count": 4,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "Term A:::Term B",
+        "line_start": 479,
+        "line_end": 481,
+        "char_count": 15,
+        "line_count": 1,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "#flashcards/language/spanish\n\nHola:::Hello\nBuenos días:::Good morning",
+        "line_start": 488,
+        "line_end": 493,
+        "char_count": 69,
+        "line_count": 4,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "#flashcards\n\nQuestion text here.\nThis can span multiple lines.\n?\nAnswer text here.\nThis can also span multiple lines.",
+        "line_start": 503,
+        "line_end": 511,
+        "char_count": 117,
+        "line_count": 7,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "#flashcards/programming/python\n\nWhat are the key differences between lists and tuples in Python?\n?\n**Lists:**\n- Mutable (can be modified)\n- Use square brackets `[]`\n- Slightly slower performance\n\n**Tuples:**\n- Immutable (cannot be modified)\n- Use parentheses `()`\n- Faster, lower memory footprint",
+        "line_start": 514,
+        "line_end": 528,
+        "char_count": 296,
+        "line_count": 13,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "Front content\nMultiple lines allowed\n??\nBack content\nMultiple lines allowed",
+        "line_start": 536,
+        "line_end": 542,
+        "char_count": 75,
+        "line_count": 5,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "#flashcards/cognitive-science\n\nThe first female prime minister of Australia was ==Julia Gillard==.\n\nWorking memory can hold approximately ==7 ± 2 items== at once.",
+        "line_start": 555,
+        "line_end": 561,
+        "char_count": 162,
+        "line_count": 5,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> #flashcards/chemistry\n> \n> Water has a molecular formula of ==H₂O==, consisting of ==two hydrogen atoms== and ==one oxygen atom==.\n>",
+        "line_start": 570,
+        "line_end": 574,
+        "char_count": 134,
+        "line_count": 4,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "#flashcards\n\nThis is a ==cloze deletion==[^1]. This is ==another one==[^2]. This ==groups with the first==[^1].",
+        "line_start": 585,
+        "line_end": 589,
+        "char_count": 111,
+        "line_count": 3,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "This is a ==cloze==^[a hint][^1]. This is ==another==[^2].",
+        "line_start": 596,
+        "line_end": 598,
+        "char_count": 58,
+        "line_count": 1,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> ==Context that spoils later items==[^hshs]\n> ==Item 1==[^ashh]\n> ==Item 2==[^hash]\n>",
+        "line_start": 609,
+        "line_end": 613,
+        "char_count": 86,
+        "line_count": 4,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "#flashcards                          → Root deck\n#flashcards/science                  → Science deck\n#flashcards/science/physics          → Physics subdeck\n#flashcards/science/physics/quantum  → Quantum physics sub-subdeck",
+        "line_start": 628,
+        "line_end": 633,
+        "char_count": 222,
+        "line_count": 4,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "#flashcards/biology/cells #flashcards/medicine/pathology\n\nCancer involves uncontrolled ==cell division==.",
+        "line_start": 639,
+        "line_end": 643,
+        "char_count": 105,
+        "line_count": 3,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntags: #flashcards/defaultdeck\n---\n\nThis card inherits the file-level tag::Goes to defaultdeck\n\n#flashcards/physics\n\nForce equals mass times::acceleration  \n<!-- This card goes to physics deck -->\n\n#flashcards/chemistry\nMolecular formula of water::H₂O  \n<!-- This card goes to chemistry deck -->",
+        "line_start": 652,
+        "line_end": 667,
+        "char_count": 298,
+        "line_count": 14,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Vault/\n├── Knowledge/\n│   ├── Science/\n│   │   ├── Physics.md     → Deck: Knowledge::Science\n│   │   └── Chemistry.md   → Deck: Knowledge::Science\n│   └── History/\n│       └── Ancient.md     → Deck: Knowledge::History",
+        "line_start": 679,
+        "line_end": 687,
+        "char_count": 217,
+        "line_count": 7,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntags: [#review, #project/active]\n---\n\n# Project Strategy Document\n\n...content...",
+        "line_start": 750,
+        "line_end": 758,
+        "char_count": 84,
+        "line_count": 7,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\nsr-due: 2025-12-24\nsr-interval: 10\nsr-ease: 250\n---",
+        "line_start": 774,
+        "line_end": 780,
+        "char_count": 55,
+        "line_count": 5,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "python",
+        "code": "# After a \"Good\" response:\nnew_interval = previous_interval * ease_factor\n\n# After \"Hard\":\nease_factor -= 0.15  # Reduce ease\nnew_interval = previous_interval * 1.2\n\n# After \"Easy\":\nease_factor += 0.15  # Increase ease  \nnew_interval = previous_interval * ease_factor * easy_bonus",
+        "line_start": 807,
+        "line_end": 818,
+        "char_count": 280,
+        "line_count": 10,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> link_contribution = max_link_factor × min(1.0, log(link_count + 0.5) / log(64))\n> initial_ease = (1 - link_contribution) × base_ease + link_contribution × average_ease\n>",
+        "line_start": 824,
+        "line_end": 827,
+        "char_count": 171,
+        "line_count": 3,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Note Title > Section Heading > Subsection",
+        "line_start": 867,
+        "line_end": 869,
+        "char_count": 41,
+        "line_count": 1,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "{{c1::answer::hint}}",
+        "line_start": 916,
+        "line_end": 918,
+        "char_count": 20,
+        "line_count": 1,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "{{[123::]answer[::hint]}}",
+        "line_start": 926,
+        "line_end": 928,
+        "char_count": 25,
+        "line_count": 1,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "What is the capital of France?::Paris\n<!--SR:!2025-12-20,15,250-->",
+        "line_start": 941,
+        "line_end": 944,
+        "char_count": 66,
+        "line_count": 2,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "What are the differences between mitosis and meiosis, and what are their purposes?::\nMitosis produces two identical diploid cells for growth and repair. \nMeiosis produces four genetically diverse haploid cells for sexual reproduction.",
+        "line_start": 986,
+        "line_end": 990,
+        "char_count": 234,
+        "line_count": 3,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "How many cells does mitosis produce?::Two\n\nAre mitosis daughter cells identical or diverse?::Identical\n\nWhat is the chromosome count of mitosis daughter cells?::Diploid (same as parent)\n\nWhat is the primary purpose of mitosis?::Growth and tissue repair\n\nHow many cells does meiosis produce?::Four\n\nWhat is the chromosome count of meiosis daughter cells?::Haploid (half of parent)",
+        "line_start": 993,
+        "line_end": 1005,
+        "char_count": 379,
+        "line_count": 11,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "#flashcards/cognitive-science\n\nThe ==testing effect== demonstrates that retrieving information from memory strengthens that memory more than ==re-reading== the same material.",
+        "line_start": 1015,
+        "line_end": 1019,
+        "char_count": 174,
+        "line_count": 3,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "What is the testing effect?::Retrieval strengthens memory more than re-reading",
+        "line_start": 1022,
+        "line_end": 1024,
+        "char_count": 78,
+        "line_count": 1,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "#flashcards/math\n#flashcards/math/basics       ← Master fundamentals first\n#flashcards/math/algebra      ← Build on basics\n#flashcards/math/calculus     ← Advanced applications",
+        "line_start": 1030,
+        "line_end": 1035,
+        "char_count": 176,
+        "line_count": 4,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "# Correct\n#flashcards/test\n\nThe first president was ==George Washington==.\n\n# Incorrect (missing deck tag)\nThe first president was ==George Washington==.",
+        "line_start": 1082,
+        "line_end": 1090,
+        "char_count": 153,
+        "line_count": 7,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE file.name AS \"Note\", file.tags AS \"Tags\"\nFROM #flashcards\nWHERE contains(file.name, \"Python\")",
+        "line_start": 1143,
+        "line_end": 1147,
+        "char_count": 99,
+        "line_count": 3,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "javascript",
+        "code": "---\ntags: [#flashcards/<% tp.file.folder() %>]\n---\n\n## Flashcards\n\n<% tp.file.cursor(1) %>",
+        "line_start": 1151,
+        "line_end": 1159,
+        "char_count": 90,
+        "line_count": 7,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] Convert [[Cognitive Load Theory]] notes to flashcards #task/learning",
+        "line_start": 1163,
+        "line_end": 1165,
+        "char_count": 74,
+        "line_count": 1,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "const currentFile = dv.current().file;\nconst content = await dv.io.load(currentFile.path);\nconst bracketedFieldRegex = /\\[\\*\\*([^*]+)\\*\\*::\\s*([^\\]]+)\\]/g;\n\nlet definitions = [];\nlet match;\n\nwhile ((match = bracketedFieldRegex.exec(content)) !== null) {\n    definitions.push({\n        key: match[1].trim(),\n        value: match[2].trim()\n    });\n}\n\n// Group by first letter\nconst grouped = {};\ndefinitions.forEach(d => {\n    const firstLetter = d.key[0].toUpperCase();\n    if (!grouped[firstLetter]) grouped[firstLetter] = [];\n    grouped[firstLetter].push(d);\n});\n\n// Display grouped results\nconst sortedLetters = Object.keys(grouped).sort();\n\nfor (let letter of sortedLetters) {\n    dv.header(4, `${letter}`);\n    dv.table(\n        [\"Term\", \"Definition\"],\n        grouped[letter].map(d => [`**${d.key}**`, d.value])\n    );\n}",
+        "line_start": 1202,
+        "line_end": 1235,
+        "char_count": 826,
+        "line_count": 32,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "**Setting**",
+          "**Recommended Value**",
+          "**Purpose**"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "<span style='color: #72FFF1;'>Flashcards folder tag</span>",
+            "`#flashcards`",
+            "Default tag for identifying flashcard-containing notes"
+          ],
+          [
+            "<span style='color: #72FFF1;'>Review note tag</span>",
+            "`#review`",
+            "Tag for marking notes for whole-note review"
+          ],
+          [
+            "<span style='color: #72FFF1;'>Enable folder-based decks</span>",
+            "OFF (use tags initially)",
+            "Alternative to tag-based organization"
+          ],
+          [
+            "<span style='color: #72FFF1;'>Bury sibling cards</span>",
+            "ON",
+            "Prevents seeing related cards in same session"
+          ],
+          [
+            "<span style='color: #72FFF1;'>Show context in cards</span>",
+            "ON",
+            "Displays note title and headings during review"
+          ]
+        ],
+        "line_start": 204,
+        "row_count": 5,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "headers": [
+          "Button",
+          "Meaning",
+          "Next Interval Effect"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "<span style='color: #FF00DC;'>**Hard**</span>",
+            "Difficult to recall; took significant effort",
+            "Shortest interval; reduces card ease"
+          ],
+          [
+            "<span style='color: #FFC700;'>**Good**</span>",
+            "Recalled correctly with normal effort",
+            "Moderate interval based on current ease"
+          ],
+          [
+            "<span style='color: #27FF00;'>**Easy**</span>",
+            "Instant recall; trivial",
+            "Longest interval; increases card ease"
+          ]
+        ],
+        "line_start": 390,
+        "row_count": 3,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "headers": [
+          "**Parameter**",
+          "**Default**",
+          "**Effect**"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "<span style='color: #72FFF1;'>Base ease</span>",
+            "250%",
+            "Starting ease for new cards"
+          ],
+          [
+            "<span style='color: #72FFF1;'>Easy bonus</span>",
+            "130%",
+            "Additional interval multiplier for \"Easy\" responses"
+          ],
+          [
+            "<span style='color: #72FFF1;'>Hard interval</span>",
+            "1.2×",
+            "Interval multiplier for \"Hard\" responses"
+          ],
+          [
+            "<span style='color: #72FFF1;'>Maximum interval</span>",
+            "365 days",
+            "Cap on how far out a card can be scheduled"
+          ],
+          [
+            "<span style='color: #72FFF1;'>Max link factor</span>",
+            "1.0",
+            "Weight given to backlink-based ease adjustment"
+          ]
+        ],
+        "line_start": 466,
+        "row_count": 5,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      }
+    ],
+    "external_links": [
+      {
+        "display_text": "GitHub Releases",
+        "url": "https://github.com/st3v3nmw/obsidian-spaced-repetition/releases",
+        "format": "markdown",
+        "line_number": 427,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "display_text": "Cards with Blank Lines",
+        "url": "https://www.stephenmwangi.com/obsidian-spaced-repetition/flashcards/cards-with-blank-lines/",
+        "format": "markdown",
+        "line_number": 531,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "display_text": "https://www.stephenmwangi.com/obsidian-spaced-repetition/",
+        "url": "https://www.stephenmwangi.com/obsidian-spaced-repetition/",
+        "format": "bare",
+        "line_number": 1197,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [
+      {
+        "ref_id": "1",
+        "content": null,
+        "type": "reference",
+        "line_number": 582,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "1",
+        "content": null,
+        "type": "reference",
+        "line_number": 588,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "2",
+        "content": null,
+        "type": "reference",
+        "line_number": 588,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "1",
+        "content": null,
+        "type": "reference",
+        "line_number": 588,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "1",
+        "content": null,
+        "type": "reference",
+        "line_number": 592,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "2",
+        "content": null,
+        "type": "reference",
+        "line_number": 593,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "1",
+        "content": null,
+        "type": "reference",
+        "line_number": 597,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "2",
+        "content": null,
+        "type": "reference",
+        "line_number": 597,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "hshs",
+        "content": null,
+        "type": "reference",
+        "line_number": 610,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "ashh",
+        "content": null,
+        "type": "reference",
+        "line_number": 611,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "hash",
+        "content": null,
+        "type": "reference",
+        "line_number": 612,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "*",
+        "content": null,
+        "type": "reference",
+        "line_number": 1205,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "ref_id": "\\",
+        "content": null,
+        "type": "reference",
+        "line_number": 1205,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      }
+    ],
+    "color_spans": [
+      {
+        "color_hex": "#7200FF",
+        "text": "Overview",
+        "semantic_role": "Custom (#7200FF)",
+        "line_number": 38,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Spaced Repetition**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 388,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "SR Plugin",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 388,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FF5700",
+        "text": "Stephen Mwangi (st3v3nmw)",
+        "semantic_role": "Reference (Reactor Orange) — Citations, external sources",
+        "line_number": 390,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Learning is strengthened through active retrieval**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 393,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**optimal spacing defeats the forgetting curve**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 393,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "SM-2-OSR",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 403,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "\"Spaced Repetition\"",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 416,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Flashcards folder tag",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 438,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Review note tag",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 439,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Enable folder-based decks",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 440,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Bury sibling cards",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 441,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Show context in cards",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 442,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Do NOT**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 445,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Single-Line Flashcard**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 455,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "**Separator Configuration**",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 472,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Reversed Card**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 476,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**sibling cards**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 496,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Multi-Line Flashcard**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 500,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Critical Limitation:**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 531,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Cloze Deletion**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 548,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Classic Cloze**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 582,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Tag-Based Deck**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 623,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Folder-Based Deck**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 674,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Limitation:**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 690,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Hard**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 717,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Good**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 718,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Easy**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 719,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Card Ease**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 721,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "**Honest Self-Assessment Principle:**",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 724,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Cramming**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 730,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "**SM-2-OSR**",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 793,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**SM-2 Algorithm**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 797,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "**Interval**",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 801,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "**Ease Factor**",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 802,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "**Repetition Count**",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 803,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Base ease",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 837,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Easy bonus",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 838,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Hard interval",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 839,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Maximum interval",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 840,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Max link factor",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 841,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Advanced Users Only:**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 844,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**FSRS (Free Spaced Repetition Scheduler)**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 848,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Card Burying**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 883,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Conflict Alert:**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 931,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "**Trade-off:**",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 956,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      }
+    ],
+    "lists": {
+      "ordered": [
+        {
+          "text": "Open **Settings** → **Community plugins** → **Browse**",
+          "indent_level": 0,
+          "line_number": 185,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Search for <span style='color: #72FFF1;'>\"Spaced Repetition\"</span>",
+          "indent_level": 0,
+          "line_number": 187,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Click **Install**, then **Enable**",
+          "indent_level": 0,
+          "line_number": 189,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Configure initial settings (see below)",
+          "indent_level": 0,
+          "line_number": 189,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Download `main.js`, `manifest.json`, and `styles.css` from the [GitHub Releases](https://github.com/st3v3nmw/obsidian-spaced-repetition/releases)",
+          "indent_level": 0,
+          "line_number": 199,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Create folder: `.obsidian/plugins/obsidian-spaced-repetition/`",
+          "indent_level": 0,
+          "line_number": 201,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Place downloaded files in this folder",
+          "indent_level": 0,
+          "line_number": 202,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Enable the plugin in **Settings** → **Community plugins**",
+          "indent_level": 0,
+          "line_number": 202,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**File-level tags**: Apply to ALL flashcards in the note unless overridden",
+          "indent_level": 0,
+          "line_number": 355,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Section-level tags**: Apply from their position until the next tag or end of file",
+          "indent_level": 0,
+          "line_number": 356,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Card-level tags**: Apply only to the specific card when placed on its first line",
+          "indent_level": 0,
+          "line_number": 358,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Status Bar Click**: Click the review count indicator at the bottom of the Obsidian window",
+          "indent_level": 0,
+          "line_number": 382,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Ribbon Icon**: Click the flashcard icon in the left sidebar (if enabled in Settings)",
+          "indent_level": 0,
+          "line_number": 382,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Command Palette**: `Ctrl/Cmd + P` → \"Review flashcards\"",
+          "indent_level": 0,
+          "line_number": 386,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Tag note with `#review`",
+          "indent_level": 0,
+          "line_number": 423,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Click status bar or use command: \"Open notes review queue in sidebar\"",
+          "indent_level": 0,
+          "line_number": 425,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Review interface displays the note in **reading mode**",
+          "indent_level": 0,
+          "line_number": 427,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "After reviewing, right-click the note in queue → Select rating:",
+          "indent_level": 0,
+          "line_number": 427,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Scheduling data is added to the note's frontmatter:",
+          "indent_level": 0,
+          "line_number": 430,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Your vault backup = your review progress backup**",
+          "indent_level": 0,
+          "line_number": 610,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Use [[Obsidian Git]] or similar plugins for automatic version control",
+          "indent_level": 0,
+          "line_number": 612,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Exclude scheduling comments from published notes using [[Obsidian Publish|publish]] settings",
+          "indent_level": 0,
+          "line_number": 619,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Export Anki decks as markdown",
+          "indent_level": 0,
+          "line_number": 621,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Reformat cards using SR Plugin syntax",
+          "indent_level": 0,
+          "line_number": 621,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Manually set initial intervals using `<!--SR:!due-date,interval,ease-->`",
+          "indent_level": 0,
+          "line_number": 623,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Weekly Deck Review**: Assess retention rates, identify problem cards",
+          "indent_level": 0,
+          "line_number": 651,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Card Improvement**: Rewrite cards with <80% retention",
+          "indent_level": 0,
+          "line_number": 657,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Pruning**: Delete or suspend cards for outdated/irrelevant information",
+          "indent_level": 0,
+          "line_number": 659,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Tag Reorganization**: Refactor deck hierarchy as your knowledge evolves",
+          "indent_level": 0,
+          "line_number": 662,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Missing deck tag**: Ensure notes contain `#flashcards` or your configured tag",
+          "indent_level": 0,
+          "line_number": 674,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Incorrect syntax**: Verify separator (`::` for single-line, `?` for multi-line)",
+          "indent_level": 0,
+          "line_number": 676,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Cards not due**: Check status bar count—zero due cards is normal if all reviews current",
+          "indent_level": 0,
+          "line_number": 680,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Plugin not loaded**: Confirm plugin is enabled in Settings → Community plugins",
+          "indent_level": 0,
+          "line_number": 684,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Open Command Palette → \"Rebuild flashcard index\"",
+          "indent_level": 0,
+          "line_number": 686,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Check status bar for updated count",
+          "indent_level": 0,
+          "line_number": 690,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Manually inspect note for correct syntax and tags",
+          "indent_level": 0,
+          "line_number": 690,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Wrong delimiter**: Default is `==highlight==`, not `**bold**` (unless configured)",
+          "indent_level": 0,
+          "line_number": 690,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Missing deck tag**: Cloze cards still require `#flashcards` or equivalent",
+          "indent_level": 0,
+          "line_number": 694,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Conflicting custom pattern**: If using custom cloze syntax, ensure it's properly configured",
+          "indent_level": 0,
+          "line_number": 698,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Blank lines in multi-line cloze**: Standard cloze doesn't support blank lines within deletion",
+          "indent_level": 0,
+          "line_number": 700,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Check file permissions**: Ensure vault folder is writable",
+          "indent_level": 0,
+          "line_number": 706,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Disable conflicting plugins**: Some editing plugins may interfere",
+          "indent_level": 0,
+          "line_number": 707,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Review settings**: Confirm \"Store scheduling comment on the same line\" is OFF (default)",
+          "indent_level": 0,
+          "line_number": 708,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Exclude folders**: Settings → Flashcards → Folders to ignore (exclude large archives)",
+          "indent_level": 0,
+          "line_number": 711,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Reduce deck count**: Consolidate fragmented subdecks",
+          "indent_level": 0,
+          "line_number": 713,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Limit card context**: Disable \"Show context in cards\" if unnecessary",
+          "indent_level": 0,
+          "line_number": 716,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Archive mature cards**: Move well-learned cards to separate \"archive\" deck reviewed quarterly",
+          "indent_level": 0,
+          "line_number": 717,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**[[Spaced Repetition Theory]]**",
+          "indent_level": 0,
+          "line_number": 733,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**[[SuperMemo Algorithm (SM-2)]]**",
+          "indent_level": 0,
+          "line_number": 743,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**[[Effective Flashcard Design]]**",
+          "indent_level": 0,
+          "line_number": 760,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**[[Active Recall vs. Passive Review]]**",
+          "indent_level": 0,
+          "line_number": 767,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "**Multiple flashcard formats**: Single-line (`Question::Answer`), multi-line (separated by `?`), reversed cards (bidirectional), and [[Cloze Deletion|cloze deletions]]",
+          "indent_level": 0,
+          "line_number": 166,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Flexible organization**: Deck creation via [[Obsidian Tags|hierarchical tags]] (`#flashcards/subdeck`) or vault folder structure",
+          "indent_level": 0,
+          "line_number": 169,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Rich content support**: LaTeX equations, code blocks, images, audio, and all [[Markdown]] formatting",
+          "indent_level": 0,
+          "line_number": 172,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Contextual review**: Automatic display of note titles and heading hierarchy during review sessions",
+          "indent_level": 0,
+          "line_number": 174,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Scheduling algorithms**: Implements <span style='color: #72FFF1;'>SM-2-OSR</span> (SuperMemo-2 variant) with planned support for [[FSRS Algorithm|FSRS]]",
+          "indent_level": 0,
+          "line_number": 179,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Whole-note review**: Tag entire notes with `#review` for periodic reinforcement of conceptual understanding",
+          "indent_level": 0,
+          "line_number": 183,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Statistics tracking**: Retention rates, review counts, and deck-specific analytics",
+          "indent_level": 0,
+          "line_number": 184,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Card Front** (question or cloze-deleted text)",
+          "indent_level": 0,
+          "line_number": 388,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Context Line**: `Note Title > Heading 1 > Subheading` (if enabled)",
+          "indent_level": 0,
+          "line_number": 388,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Show Answer Button**: Reveals the back of the card",
+          "indent_level": 0,
+          "line_number": 388,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Response Buttons**: Hard, Good, Easy (after answer is revealed)",
+          "indent_level": 0,
+          "line_number": 388,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Present cards regardless of due date",
+          "indent_level": 0,
+          "line_number": 403,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Do NOT update scheduling information",
+          "indent_level": 0,
+          "line_number": 403,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Useful for pre-exam review or confidence building",
+          "indent_level": 0,
+          "line_number": 404,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Conceptual reinforcement**: Revisiting complex topics to deepen understanding",
+          "indent_level": 0,
+          "line_number": 409,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Synthesis notes**: Periodically reviewing [[Maps of Content (MOCs)|MOCs]] or summary documents",
+          "indent_level": 0,
+          "line_number": 413,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Project notes**: Scheduled check-ins on active projects or research areas",
+          "indent_level": 0,
+          "line_number": 415,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Easy**: Long interval (e.g., 30 days)",
+          "indent_level": 1,
+          "line_number": 428,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Good**: Moderate interval (e.g., 10 days)",
+          "indent_level": 1,
+          "line_number": 429,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Hard**: Short interval (e.g., 3 days)",
+          "indent_level": 1,
+          "line_number": 430,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "[<span style='color: #72FFF1;'>**Repetition Count**</span>:: number of successful reviews for the current card]",
+          "indent_level": 0,
+          "line_number": 451,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Automatic parameter optimization based on review history",
+          "indent_level": 0,
+          "line_number": 506,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Four-button response system (Again, Hard, Good, Easy)",
+          "indent_level": 0,
+          "line_number": 510,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "More accurate retention predictions",
+          "indent_level": 0,
+          "line_number": 514,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Provides **retrieval cues** that strengthen memory encoding",
+          "indent_level": 0,
+          "line_number": 526,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Reversed cards (both directions of a bidirectional card)",
+          "indent_level": 0,
+          "line_number": 544,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Multiple cloze deletions from the same source text",
+          "indent_level": 0,
+          "line_number": 546,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Review Forecast**: Number of cards due each day for the next 30 days",
+          "indent_level": 0,
+          "line_number": 556,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Card Type Breakdown**: Distribution of new, learning, and mature cards",
+          "indent_level": 0,
+          "line_number": 558,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Deck-Specific Stats**: Per-deck retention rates and review counts",
+          "indent_level": 0,
+          "line_number": 560,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Daily Review Count**: Historical tracking of reviews completed",
+          "indent_level": 0,
+          "line_number": 565,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Identify overloaded decks requiring cleanup",
+          "indent_level": 0,
+          "line_number": 566,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Definitions embedded in explanatory text",
+          "indent_level": 0,
+          "line_number": 637,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Process descriptions",
+          "indent_level": 0,
+          "line_number": 640,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Technical concepts requiring context",
+          "indent_level": 0,
+          "line_number": 640,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Create atomic notes with embedded flashcards",
+          "indent_level": 0,
+          "line_number": 719,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Use `#flashcards` tags to mark evergreen notes for review",
+          "indent_level": 0,
+          "line_number": 719,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Leverage backlink-based ease adjustment (OSR's PageRank feature)",
+          "indent_level": 0,
+          "line_number": 721,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "Store flashcards in relevant PARA categories:",
+          "indent_level": 0,
+          "line_number": 721,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "**Projects**: Active learning materials",
+          "indent_level": 1,
+          "line_number": 721,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "*Connection*: Theoretical foundation underlying the SR Plugin's scheduling algorithms",
+          "indent_level": 1,
+          "line_number": 734,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "*Depth Potential*: Understanding forgetting curves, retention functions, and optimal spacing",
+          "indent_level": 1,
+          "line_number": 739,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Core learning science concept connecting to memory, [[Cognitive Psychology]], and [[Educational Technology]]",
+          "indent_level": 1,
+          "line_number": 741,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "*Connection*: The scheduling algorithm implemented by the SR Plugin",
+          "indent_level": 1,
+          "line_number": 743,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "*Depth Potential*: Historical development, mathematical formulation, and comparative analysis with newer algorithms like [[FSRS Algorithm|FSRS]]",
+          "indent_level": 1,
+          "line_number": 744,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Bridges computer science, cognitive science, and learning optimization",
+          "indent_level": 1,
+          "line_number": 751,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Practical application of [[Cognitive Load Theory]], [[Dual Coding Theory]], and [[Desirable Difficulties]]",
+          "indent_level": 1,
+          "line_number": 765,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "*Connection*: The cognitive mechanism that makes spaced repetition effective",
+          "indent_level": 1,
+          "line_number": 768,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "*Depth Potential*: Testing effect, retrieval practice, production effect, generation effect",
+          "indent_level": 1,
+          "line_number": 770,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Foundational concept in [[Learning Science]], connecting to [[Metacognition]] and [[Study Strategies]]",
+          "indent_level": 1,
+          "line_number": 772,
+          "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+        }
+      ]
+    },
+    "html_comments": [
+      {
+        "comment_text": "This card goes to physics deck",
+        "line_number": 662,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "comment_text": "This card goes to chemistry deck",
+        "line_number": 666,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "comment_text": "SR:!2025-12-20,15,250",
+        "line_number": 943,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "comment_text": "SR:!due-date,interval,ease",
+        "line_number": 946,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "comment_text": "SR:!due-date,interval,ease",
+        "line_number": 970,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      }
+    ],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{siblings.length} semantic siblings** • Total shared:",
+        "format": "inline",
+        "line_number": 86,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "expression": "{totalNotes} | **Recent activity**:",
+        "format": "inline",
+        "line_number": 163,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "expression": "{maturityDistribution.evergreen} | 🌿",
+        "format": "inline",
+        "line_number": 167,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "expression": "{maturityDistribution.developing} | 🌰",
+        "format": "inline",
+        "line_number": 168,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "expression": "{ageDays} days | **Staleness**:",
+        "format": "inline",
+        "line_number": 204,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      },
+      {
+        "expression": "{current[\"review-count\"] || 0} reviews |",
+        "format": "inline",
+        "line_number": 207,
+        "source": "reference-guide-spaced-repition-plugin-2025121413.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Active Recall vs. Passive Review",
+      "Anki",
+      "Cloze Deletion",
+      "Cognitive Load Theory",
+      "Cognitive Psychology",
+      "Dataview",
+      "Desirable Difficulties",
+      "Dual Coding Theory",
+      "Educational Technology",
+      "Effective Flashcard Design",
+      "FSRS Algorithm",
+      "Introduction to Spaced Repetition in Obsidian",
+      "Learning Science",
+      "Linking Your Thinking (LYT)",
+      "Maps of Content (MOCs)",
+      "Markdown",
+      "Metacognition",
+      "Obsidian",
+      "Obsidian Git",
+      "Obsidian Publish",
+      "Obsidian Spaced Repetition Recall",
+      "Obsidian Tags",
+      "PARA Method",
+      "Personal Knowledge Base",
+      "Personal Knowledge Management",
+      "Spaced Repetition Theory",
+      "Study Strategies",
+      "SuperMemo",
+      "SuperMemo Algorithm (SM-2)",
+      "Tasks Plugin",
+      "Templater",
+      "YAML Frontmatter",
+      "Zettelkasten"
+    ],
+    "unique_wiki_link_count": 33,
+    "unique_tags": [
+      "#FF00DC",
+      "#FF5700",
+      "#FFC700",
+      "#flashcards",
+      "#flashcards/areas/finance",
+      "#flashcards/domain/subdomain/topic",
+      "#flashcards/math",
+      "#flashcards/subdeck",
+      "#learning",
+      "#obsidian",
+      "#plugin",
+      "#reference-note",
+      "#review",
+      "#spaced-repetition"
+    ],
+    "unique_tag_count": 14,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Active Recall vs. Passive Review",
+      "Anki",
+      "Cloze Deletion",
+      "Cognitive Load Theory",
+      "Cognitive Psychology",
+      "Dataview",
+      "Desirable Difficulties",
+      "Dual Coding Theory",
+      "Educational Technology",
+      "Effective Flashcard Design",
+      "FSRS Algorithm",
+      "Introduction to Spaced Repetition in Obsidian",
+      "Learning Science",
+      "Linking Your Thinking (LYT)",
+      "Maps of Content (MOCs)",
+      "Markdown",
+      "Metacognition",
+      "Obsidian",
+      "Obsidian Git",
+      "Obsidian Publish",
+      "Obsidian Spaced Repetition Recall",
+      "Obsidian Tags",
+      "PARA Method",
+      "Personal Knowledge Base",
+      "Personal Knowledge Management",
+      "Spaced Repetition Theory",
+      "Study Strategies",
+      "SuperMemo",
+      "SuperMemo Algorithm (SM-2)",
+      "Tasks Plugin",
+      "Templater",
+      "YAML Frontmatter",
+      "Zettelkasten"
+    ]
+  }
+}

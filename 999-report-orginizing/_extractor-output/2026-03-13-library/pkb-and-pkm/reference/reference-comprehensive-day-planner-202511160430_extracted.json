@@ -1,0 +1,4501 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.140108",
+    "source_file": "reference-comprehensive-day-planner-202511160430.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-comprehensive-day-planner-202511160430.md",
+    "source_file_size_bytes": 76734,
+    "processing_time_seconds": 0.035
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Plugin Reference: Day Planner",
+      "id": "20251116-043038",
+      "type": "reference",
+      "source": "claude-4.5-sonnet",
+      "tags": [
+        "year/2025",
+        "status/seedling",
+        "productivity/time-management",
+        "productivity/time-management/blocking",
+        "productivity/task-management/todos",
+        "productivity/task-management/workflows"
+      ],
+      "aliases": [
+        "Day Planner Plugin",
+        "Obsidian Timeboxing",
+        "Day Planner Guide",
+        "Time Block Planning"
+      ],
+      "link-up": [],
+      "link-related": []
+    },
+    "word_count": 11202,
+    "character_count": 74915,
+    "line_count": 1957,
+    "heading_count": 77
+  },
+  "extraction_summary": {
+    "total_items_extracted": 400,
+    "by_type": {
+      "headings": 77,
+      "callouts": 65,
+      "wiki_links": 67,
+      "inline_fields": 11,
+      "definitions": 0,
+      "tags": 4,
+      "code_blocks": 19,
+      "tables": 19,
+      "external_links": 7,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 51,
+      "lists_unordered": 79,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 1
+    }
+  },
+  "document_outline": [
+    {
+      "level": 2,
+      "text": "📘 What is Day Planner?",
+      "anchor": "what-is-day-planner",
+      "line_number": 33,
+      "source": "reference-comprehensive-day-planner-202511160430.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "⚙️ Prerequisites & Installation",
+      "anchor": "prerequisites-installation",
+      "line_number": 59,
+      "source": "reference-comprehensive-day-planner-202511160430.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Required Dependencies",
+          "anchor": "required-dependencies",
+          "line_number": 61,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Installation Process",
+          "anchor": "installation-process",
+          "line_number": 76,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "First-Time Setup Checklist",
+          "anchor": "first-time-setup-checklist",
+          "line_number": 94,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "🎯 Core Functionality & Views",
+      "anchor": "core-functionality-views",
+      "line_number": 106,
+      "source": "reference-comprehensive-day-planner-202511160430.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "📊 Timeline View",
+          "anchor": "timeline-view",
+          "line_number": 110,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "📅 Week Planner View",
+          "anchor": "week-planner-view",
+          "line_number": 143,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "📍 Status Bar Integration",
+          "anchor": "status-bar-integration",
+          "line_number": 172,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "text": "✍️ Task Syntax & Formatting",
+      "anchor": "task-syntax-formatting",
+      "line_number": 205,
+      "source": "reference-comprehensive-day-planner-202511160430.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Format 1: Daily Note Inline Time Blocks",
+          "anchor": "format-1-daily-note-inline-time-blocks",
+          "line_number": 209,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Day planner",
+      "anchor": "day-planner",
+      "line_number": 234,
+      "source": "reference-comprehensive-day-planner-202511160430.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Morning Block",
+          "anchor": "morning-block",
+          "line_number": 236,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Work Block",
+          "anchor": "work-block",
+          "line_number": 241,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Afternoon",
+          "anchor": "afternoon",
+          "line_number": 246,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Format 2: Tasks Plugin Integration (Vault-Wide Discovery)",
+              "anchor": "format-2-tasks-plugin-integration-vault-wide-discovery",
+              "line_number": 262,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Format 3: Calendar Event Syntax (ICS Integration)",
+              "anchor": "format-3-calendar-event-syntax-ics-integration",
+              "line_number": 310,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Visual Differentiation & Color Codi",
+              "anchor": "visual-differentiation-color-codi",
+              "line_number": 331,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 Calendar Integration (ICS Feeds)",
+          "anchor": "calendar-integration-ics-feeds",
+          "line_number": 349,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Why Calendar Integration Matters",
+              "anchor": "why-calendar-integration-matters",
+              "line_number": 353,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Setting Up ICS Integration",
+              "anchor": "setting-up-ics-integration",
+              "line_number": 364,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📆 Google Calendar Integration",
+              "anchor": "google-calendar-integration",
+              "line_number": 380,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🍎 iCloud Calendar Integration",
+              "anchor": "icloud-calendar-integration",
+              "line_number": 405,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🏢 Microsoft Outlook / Office 365 Integration",
+              "anchor": "microsoft-outlook-office-365-integration",
+              "line_number": 430,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Managing Multiple Calendars",
+              "anchor": "managing-multiple-calendars",
+              "line_number": 481,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Troubleshooting Calendar Integration",
+              "anchor": "troubleshooting-calendar-integration",
+              "line_number": 507,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⏱️ Time Tracking System",
+          "anchor": "time-tracking-system",
+          "line_number": 537,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Understanding Time Tracking vs. Time Planning",
+              "anchor": "understanding-time-tracking-vs-time-planning",
+              "line_number": 541,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "How Clock Recording Works",
+              "anchor": "how-clock-recording-works",
+              "line_number": 560,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Clock Data Storage",
+              "anchor": "clock-data-storage",
+              "line_number": 585,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Visualizing Tracked Time",
+              "anchor": "visualizing-tracked-time",
+              "line_number": 610,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Analyzing Tracked Time (Dataview Integration)",
+              "anchor": "analyzing-tracked-time-dataview-integration",
+              "line_number": 654,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Time Tracking Limitations",
+              "anchor": "time-tracking-limitations",
+              "line_number": 706,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎨 Advanced Features & Customization",
+          "anchor": "advanced-features-customization",
+          "line_number": 741,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Drag-and-Drop Task Editing",
+              "anchor": "drag-and-drop-task-editing",
+              "line_number": 745,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Desktop Notifications",
+              "anchor": "desktop-notifications",
+              "line_number": 772,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Timeline Zoom & Density Control",
+              "anchor": "timeline-zoom-density-control",
+              "line_number": 806,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Colorful Timeline Option",
+              "anchor": "colorful-timeline-option",
+              "line_number": 848,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Status Bar Customization",
+              "anchor": "status-bar-customization",
+              "line_number": 873,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Command Palette Shortcuts",
+              "anchor": "command-palette-shortcuts",
+              "line_number": 896,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔧 Workflows & Best Practices",
+          "anchor": "workflows-best-practices",
+          "line_number": 926,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Morning Planning Routine",
+              "anchor": "morning-planning-routine",
+              "line_number": 930,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Day planner",
+      "anchor": "day-planner",
+      "line_number": 971,
+      "source": "reference-comprehensive-day-planner-202511160430.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Morning Focus Block",
+          "anchor": "morning-focus-block",
+          "line_number": 973,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Meeting Block",
+          "anchor": "meeting-block",
+          "line_number": 981,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Afternoon Execution",
+          "anchor": "afternoon-execution",
+          "line_number": 985,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Evening Wind-Down",
+          "anchor": "evening-wind-down",
+          "line_number": 991,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Integration with External Task Managers",
+              "anchor": "integration-with-external-task-managers",
+              "line_number": 1005,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Meeting Note Preparation",
+              "anchor": "meeting-note-preparation",
+              "line_number": 1054,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Focus Session Scheduling",
+              "anchor": "focus-session-scheduling",
+              "line_number": 1113,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Weekly Planning Strategy",
+              "anchor": "weekly-planning-strategy",
+              "line_number": 1163,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🛠️ Technical Considerations",
+          "anchor": "technical-considerations",
+          "line_number": 1222,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Plugin Settings Deep Dive",
+              "anchor": "plugin-settings-deep-dive",
+              "line_number": 1226,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Performance Optimization",
+              "anchor": "performance-optimization",
+              "line_number": 1282,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Troubleshooting Common Issues",
+              "anchor": "troubleshooting-common-issues",
+              "line_number": 1331,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Mobile vs. Desktop Differences",
+              "anchor": "mobile-vs-desktop-differences",
+              "line_number": 1393,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Compatibility with Other Plugins",
+              "anchor": "compatibility-with-other-plugins",
+              "line_number": 1427,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚠️ Limitations & Workarounds",
+          "anchor": "limitations-workarounds",
+          "line_number": 1471,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Known Limitations",
+              "anchor": "known-limitations",
+              "line_number": 1475,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Common Pain Points & Solutions",
+              "anchor": "common-pain-points-solutions",
+              "line_number": 1515,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Complementary Plugins for Gaps",
+              "anchor": "complementary-plugins-for-gaps",
+              "line_number": 1573,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🚀 Optimization Strategies",
+          "anchor": "optimization-strategies",
+          "line_number": 1599,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Template Design",
+              "anchor": "template-design",
+              "line_number": 1603,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "{{date:dddd, MMMM D, YYYY}}",
+      "anchor": "datedddd-mmmm-d-yyyy",
+      "line_number": 1615,
+      "source": "reference-comprehensive-day-planner-202511160430.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🎯 Today's Focus",
+          "anchor": "todays-focus",
+          "line_number": 1617,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⏰ Day Planner",
+          "anchor": "day-planner",
+          "line_number": 1628,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Morning Block (07:00 - 12:00)",
+              "anchor": "morning-block-0700-1200",
+              "line_number": 1630,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Afternoon Block (13:00 - 17:00)",
+              "anchor": "afternoon-block-1300-1700",
+              "line_number": 1637,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Evening Wind-Down (17:00 - 18:00)",
+              "anchor": "evening-wind-down-1700-1800",
+              "line_number": 1643,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📝 Notes & Capture",
+          "anchor": "notes-capture",
+          "line_number": 1649,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "✅ Daily Review",
+          "anchor": "daily-review",
+          "line_number": 1655,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Hotkey Configuration",
+              "anchor": "hotkey-configuration",
+              "line_number": 1684,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Command Palette Workflow",
+              "anchor": "command-palette-workflow",
+              "line_number": 1710,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Automated Workflows",
+              "anchor": "automated-workflows",
+              "line_number": 1732,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Integration with Review Systems",
+              "anchor": "integration-with-review-systems",
+              "line_number": 1778,
+              "source": "reference-comprehensive-day-planner-202511160430.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "✅ Daily Review",
+          "anchor": "daily-review",
+          "line_number": 1787,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔗 Related Topics for PKB Expansion",
+          "anchor": "related-topics-for-pkb-expansion",
+          "line_number": 1837,
+          "source": "reference-comprehensive-day-planner-202511160430.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "**This reference note provides comprehensive documentation for the Day Planner plugin in Obsidian—a powerful tool for timeboxing, task scheduling, and time tracking.** It covers installation, configuration, advanced features, and optimization strategies to help you use this plugin to its fullest potential for daily planning and productivity management.",
+        "line_number": 28,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 540,
+        "char_end": 914
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**The Philosophy of Timeboxing**\n\nTimeboxing shifts you from task-oriented thinking (\"*what* needs to be done\") to time-oriented thinking (\"*when* will I do this\"). This approach:\n- Creates artificial scarcity that combats [[parkinson's law]]\n- Reduces decision fatigue by pre-committing to activities\n- Provides realistic constraints for estimating workload\n- Transforms abstract tasks into concrete time commitments",
+        "line_number": 37,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 1340,
+        "char_end": 1792
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Plugin Version Clarification**\n\nThere are **two distinct versions** in the Obsidian ecosystem:\n- **Day Planner** (modern, by Ivan Lednev) - Calendar integration, timeline views, time tracking\n- **Day Planner OG** (original fork, by Erin Schnabel) - Pomodoro-style time blocks, simpler interface\n\nThis note focuses on the **modern Day Planner** (Ivan Lednev's version), which offers more advanced features and active development.",
+        "line_number": 48,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 2021,
+        "char_end": 2479
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Critical Dependencies**\n\n1. **[[Dataview Plugin]]** (community plugin) - REQUIRED\n   - Day Planner uses Dataview's query engine to discover tasks across your vault\n   - Without Dataview, the plugin will not function\n\n2. **[[Daily Notes]]** (core plugin) OR **[[Periodic Notes]]** (community plugin) - REQUIRED\n   - Provides the infrastructure for Day Planner to \"see\" and interact with daily notes\n   - At least one must be enabled for timeline functionality",
+        "line_number": 65,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 2621,
+        "char_end": 3116
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Installation Steps**\n\n1. **Enable Prerequisites**\n   - Navigate to Settings → Core Plugins → Enable **Daily Notes**\n   - Navigate to Settings → Community Plugins → Browse → Search \"Dataview\" → Install & Enable\n\n2. **Install Day Planner**\n   - Settings → Community Plugins → Browse\n   - Search \"Day Planner\" (by Ivan Lednev)\n   - Click **Install** → Click **Enable**\n\n3. **Initial Configuration** (Optional but Recommended)\n   - Settings → Day Planner\n   - Review default settings (covered in detail in [[#Advanced Configuration]])",
+        "line_number": 78,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 3143,
+        "char_end": 3733
+      },
+      {
+        "type": "how-to-use-this",
+        "title": "Untitled",
+        "body": "**Opening the Timeline View**\n\n- **Command Palette Method**: `Cmd/Ctrl + P` → Type \"Show Timeline\" → Enter\n- **Result**: Opens in your sidebar (typically right sidebar)\n- **Visual Features**:\n  - Red vertical line indicating current time\n  - Color-coded task blocks (can be customized)\n  - Drag-to-resize capability for time blocks\n  - Visual differentiation between task sources (daily notes, vault tasks, calendar events)",
+        "line_number": 114,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 4582,
+        "char_end": 5045
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Timeline Density Optimization**\n\nThe Timeline Zoom Level setting (found in Day Planner settings) controls vertical space allocation:\n- **Low values (0.5-1.0)**: Condensed view, see more tasks at once, better for busy days\n- **High values (2.0-3.0)**: Spacious view, easier to read, better for fewer tasks\n\nExperiment to find your preference—most users find 1.0-1.5 optimal.",
+        "line_number": 134,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 5588,
+        "char_end": 5995
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Week Planner Strengths**\n\n**Use it when you need to:**\n- Plan your entire week in advance\n- Identify scheduling conflicts across days\n- Batch similar tasks together\n- Balance workload distribution\n- Create time blocks without writing markdown syntax\n\n**Example Workflow:**\nSunday evening, open Week Planner → drag meetings from calendar → allocate focus blocks → identify gaps for deep work",
+        "line_number": 147,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 6154,
+        "char_end": 6597
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Why Week Planner Excels for Planning**\n\nWhile Timeline View is optimal for *executing* your day, Week Planner is superior for *designing* your week. The horizontal layout reveals weekly patterns that vertical timelines obscure—recurring meetings, unbalanced workloads, and strategic opportunities for deep work blocks.",
+        "line_number": 167,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 6907,
+        "char_end": 7247
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "**Status Bar Display Options**\n\nConfigurable elements (Settings → Day Planner):\n\n1. **Current Task Name**: Shows what you should be doing right now\n2. **Progress Indicator**: Visual gauge of time remaining in current block\n3. **Next Task Preview**: Displays upcoming task\n4. **Mini-Timeline** (optional): 3-hour preview of upcoming blocks\n\n**Clicking the status bar** instantly navigates to your daily note.",
+        "line_number": 176,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 7388,
+        "char_end": 7836
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**The Power of Ambient Awareness**\n\nStatus bar integration creates *peripheral accountability*—you don't need to actively check your schedule because it's always visible. This reduces task-switching overhead and keeps you anchored to your plan without conscious effort.",
+        "line_number": 188,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 7837,
+        "char_end": 8134
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Inline Time Block Syntax**\n\n```markdown\n# Day planner\n- [ ] 08:00 - 09:00 Morning routine\n- [ ] 09:00 - 10:30 Deep work: Project X\n- [ ] 10:30 - 11:00 Coffee break\n- [ ] 11:00 - 12:30 Team meeting\n```\n\n**Syntax Rules:**\n- **Checkbox required**: `- [ ]` (unchecked) or `- [x]` (checked)\n- **Time format**: `HH:mm` (24-hour format required)\n- **Time range**: `HH:mm - HH:mm` (start - end)\n- **Description**: Any text after the time range\n- **Header required**: Tasks must appear under a heading (default: `# Day planner`, configurable)",
+        "line_number": 213,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 8746,
+        "char_end": 9330
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Sub-Tasks and Nested Content**\n\nYou can add nested content under timed tasks for context:\n- Sub-tasks (also checkboxes but indented)\n- Notes and details (regular bullets)\n- Links to relevant notes\n- Tags for organization\n\n**Day Planner ignores nested items** for timeline display but preserves them in your note for reference.",
+        "line_number": 251,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 9809,
+        "char_end": 10173
+      },
+      {
+        "type": "connection-ideas",
+        "title": "Untitled",
+        "body": "**Tasks Plugin Synergy**\n\nThe Tasks plugin provides sophisticated task management (due dates, recurrence, filtering). When combined with Day Planner, you get:\n- Tasks scattered across project notes appear in your timeline\n- No need to manually copy tasks to daily notes\n- Tasks plugin's modal for quick date entry\n- Automatic scheduling of recurring tasks",
+        "line_number": 266,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 10379,
+        "char_end": 10771
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "**Emoji Format Limitation**\n\nWhile the Tasks plugin supports emoji-based date notation (⏳ for scheduled, 📅 for due, ✅ for done), Day Planner currently has **inconsistent support** for the shorthand emoji syntax (⌛ and ⏳).\n\n**Recommendation**: Use Dataview property format `[scheduled:: YYYY-MM-DD]` for most reliable recognition.",
+        "line_number": 290,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 11152,
+        "char_end": 11507
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "**How Automatic Discovery Works**\n\n1. Day Planner scans all markdown files in your vault\n2. Identifies tasks with scheduled date properties\n3. Filters tasks matching today's date (or the date of the daily note you're viewing)\n4. Displays them in the timeline alongside daily note tasks\n5. Color-codes them differently (remote tasks vs. local tasks)",
+        "line_number": 301,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 11712,
+        "char_end": 12095
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Mixed-Source Timeline**\n\nYour 2 PM-4 PM timeline might show:\n- **Green block** (daily note task): \"Focus: Write quarterly report\" \n- **Blue block** (Google Calendar): \"Client Meeting - Conference Room B\"\n- **Yellow block** (vault task from project note): \"[[Project Phoenix]] - Code review\"\n\nAll three sources unified in one view.",
+        "line_number": 321,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 12578,
+        "char_end": 12940
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Enabling Colorful Timeline**\n\nBy default, the timeline might look monochrome. Enable \"Colorful Timeline\" in Day Planner settings to activate visual differentiation. This significantly improves scanability and source recognition.",
+        "line_number": 342,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 13553,
+        "char_end": 13807
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**The Unified Schedule Principle**\n\nProductivity systems fail when you must maintain multiple sources of truth. Calendar integration means:\n- **No manual duplication**: Meetings automatically appear in Obsidian\n- **Single planning interface**: See appointments and tasks together\n- **Context-aware scheduling**: Plan tasks around fixed commitments\n- **Reduced cognitive load**: One place to check your day",
+        "line_number": 355,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 14099,
+        "char_end": 14539
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Universal ICS Setup Process**\n\n1. **Obtain ICS link** from your calendar service (instructions below)\n2. **Add to Day Planner**:\n   - Settings → Day Planner → Calendars section\n   - Click \"+\" to add new calendar\n   - Paste ICS URL\n   - Assign a name (for identification)\n3. **Verify**: Check Timeline View to confirm events appear\n4. **Repeat**: Add multiple calendars if needed (work, personal, family, etc.)",
+        "line_number": 368,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 14720,
+        "char_end": 15181
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Security Consideration**\n\nThe \"Secret address\" URL provides **read access** to your calendar. Google warns against sharing this URL because anyone with it can view your calendar events. Treat it like a password:\n- Store securely in Obsidian settings (not in public notes)\n- Don't share your vault folder publicly without removing ICS URLs\n- Regenerate the URL if accidentally exposed (Google Calendar settings)",
+        "line_number": 391,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 15591,
+        "char_end": 16029
+      },
+      {
+        "type": "attention",
+        "title": "Untitled",
+        "body": "**iCloud Public Calendar Limitation**\n\niCloud requires making calendars **public** to generate ICS links. This means:\n- Events become viewable by anyone with the link\n- Consider creating a separate \"Public Events\" calendar for Obsidian integration\n- Keep sensitive appointments in a non-integrated private calendar",
+        "line_number": 422,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 16877,
+        "char_end": 17219
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Office 365 Restrictions**\n\nMany organizations **disable calendar publishing** for security reasons. If you don't see the \"Publish calendar\" option:\n- Your IT department has restricted this feature\n- You'll need to request permission or use alternative methods\n- Consider using the workaround described below",
+        "line_number": 452,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 17953,
+        "char_end": 18288
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Testing Your ICS Link**\n\nBefore adding to Day Planner, verify your ICS link works:\n1. Paste the URL into a web browser\n2. You should see a download prompt or plain text calendar data\n3. If you get an error or login page, the link isn't properly configured",
+        "line_number": 473,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 18756,
+        "char_end": 19043
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Multi-Calendar Workflow Example**\n\n**User Profile**: Freelance developer with consulting clients\n\n**Calendar Setup**:\n1. **Client A Calendar** (Google) → Red blocks\n2. **Client B Calendar** (Google) → Orange blocks  \n3. **Personal Calendar** (iCloud) → Blue blocks\n4. **Daily note tasks** → Green blocks\n\n**Result**: Timeline instantly reveals schedule conflicts between clients and personal boundaries become visible, preventing overcommitment.",
+        "line_number": 494,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 19651,
+        "char_end": 20149
+      },
+      {
+        "type": "constraints-and-pitfalls",
+        "title": "Untitled",
+        "body": "**ICS Integration Limitations**\n\n**What ICS CAN do:**\n✅ Display event title, time, location\n✅ Show multiple calendars simultaneously  \n✅ Update automatically (based on refresh interval)\n\n**What ICS CANNOT do:**\n❌ Edit calendar events from Obsidian (read-only)\n❌ Create new calendar events\n❌ Sync completed task status back to calendar\n❌ Access private/authentication-required calendars\n\n**Workaround**: For two-way sync, consider complementary plugins like [[iCal Plugin]] or [[Morgen Tasks]].",
+        "line_number": 519,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 20796,
+        "char_end": 21348
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**Planned Time vs. Actual Time**\n\nThink of Day Planner as having two layers:\n\n**Planning Layer** (green timeline blocks):\n- *Intent*: \"I plan to work on this from 2-4 PM\"\n- Shows your schedule\n- Created by writing time blocks in notes\n\n**Tracking Layer** (distinct color timeline blocks):\n- *Reality*: \"I actually worked on this from 2:15-3:45 PM\"\n- Shows what happened\n- Created by starting/stopping clocks\n\nOver time, comparing these layers reveals planning accuracy and helps you estimate better.",
+        "line_number": 543,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 21576,
+        "char_end": 22119
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Time Tracking Workflow**\n\n**Starting a Clock:**\n1. Right-click on any task in the editor\n2. Select **\"Start clock\"** from context menu\n   - *Alternative*: Use command palette (`Cmd/Ctrl + P` → \"Start clock\")\n   - *Alternative*: Assign a hotkey in Settings → Hotkeys\n3. Task is now \"clocked in\"\n4. Active clock appears in timeline sidebar\n\n**Stopping a Clock:**\n1. Right-click on the same task (or any task if only one clock active)\n2. Select **\"Stop clock\"**\n   - *Alternative*: Right-click the active clock in timeline sidebar → \"Stop clock\"\n3. Dataview properties are written to the task\n\n**Canceling a Clock:**\n- Right-click active clock → \"Cancel clock\"\n- Discards the timing data without saving",
+        "line_number": 564,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 22287,
+        "char_end": 23056
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "**Why Dataview Properties?**\n\nStoring timing data as Dataview properties means:\n- **Queryable**: Use Dataview to analyze time spent (total hours per project, weekly summaries)\n- **Portable**: Data lives in plain text, not a database\n- **Flexible**: Can be manually edited if you forgot to start/stop timer\n- **Compatible**: Works with other plugins that read Dataview properties",
+        "line_number": 601,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 23607,
+        "char_end": 24020
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Using Active Clock Display**\n\nThe active clock indicator serves as:\n- **Accountability mechanism**: Visible reminder you're \"on the clock\"\n- **Time awareness**: See exactly how long you've been on current task\n- **Focus aid**: Similar to Pomodoro timer, creates time-bounded focus sessions",
+        "line_number": 646,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 25039,
+        "char_end": 25360
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Time Tracking Use Cases**\n\n**Freelancers & Consultants:**\n- Track billable hours per client\n- Generate timesheets from Dataview queries\n- Identify most time-consuming projects\n\n**Researchers & Students:**\n- Measure time spent on different research tasks\n- Optimize study schedule based on actual focus time\n- Track pomodoro-style work sessions\n\n**Personal Productivity:**\n- Compare planned vs. actual time for better estimation\n- Identify time-wasting patterns\n- Build awareness of focus capacity",
+        "line_number": 688,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 26219,
+        "char_end": 26778
+      },
+      {
+        "type": "constraints-and-pitfalls",
+        "title": "Untitled",
+        "body": "**Current Time Tracking Limitations**\n\n**What you CAN do:**\n✅ Start/stop clocks manually on tasks\n✅ View active clock in timeline\n✅ See tracked time as timeline blocks\n✅ Query clock data with Dataview\n\n**What you CANNOT do (yet):**\n❌ **Edit clock blocks directly** in timeline (read-only visualization)\n❌ **Auto-start clocks** based on time (no automation)\n❌ **Pause/resume** clocks (must stop and start new clock)\n❌ **Track multiple simultaneous tasks** (one active clock at a time)\n❌ **Set clock reminders** (\"you've been working for 2 hours\")\n\n**Workarounds:**\n- For simultaneous tracking, use complementary plugins like [[Obsidian Simple Time Tracker]]\n- For pomodoro reminders, use [[PomoBar Plugin]]\n- For clock editing, manually adjust Dataview properties in markdown",
+        "line_number": 708,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 26810,
+        "char_end": 27653
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "**Experimental Feature Notice**\n\nTime tracking is marked as **experimental** by the plugin developer. This means:\n- Features may change in future updates\n- Some edge cases may not be handled perfectly\n- Community feedback is actively shaping development\n\nIf you rely heavily on time tracking, consider keeping notes backed up and be prepared for potential changes to the tracking interface.",
+        "line_number": 729,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 27654,
+        "char_end": 28076
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**When to Use Drag vs. Markdown**\n\n**Use drag-and-drop for:**\n- Quick time adjustments during the day\n- Visual experimentation with schedule\n- Rapid rescheduling when plans change\n\n**Use markdown editing for:**\n- Adding detailed task descriptions\n- Adding wiki-links or tags\n- Bulk creation of many tasks\n- Template-based planning",
+        "line_number": 758,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 28860,
+        "char_end": 29232
+      },
+      {
+        "type": "how-to-use-this",
+        "title": "Untitled",
+        "body": "**Notification Settings**\n\n**Enable notifications:**\n1. Settings → Day Planner → Notifications section\n2. Toggle \"Show notifications\" ON\n3. Configure timing:\n   - \"Minutes before task\" (e.g., 5 minutes warning)\n   - \"Show notification at task start time\"\n\n**Notification Types:**\n- **Upcoming task**: \"In 5 minutes: Team Meeting\"\n- **Task starting**: \"Now: Deep Work Session\"\n- **Task ending**: \"Task complete: Move to next activity\"",
+        "line_number": 776,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 29351,
+        "char_end": 29832
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Notification Use Case: Context Switching**\n\n**Problem**: You get hyperfocused and lose track of time, missing meetings.\n\n**Solution**: Enable 5-minute warning notifications. When you're in deep work, a gentle reminder gives you time to wrap up current thought before the next commitment.\n\n**Pro tip**: Combine with [[Do Not Disturb]] mode during focus blocks to prevent other interruptions while still receiving Day Planner transition alerts.",
+        "line_number": 797,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 30160,
+        "char_end": 30647
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Density vs. Context Trade-off**\n\n**Low zoom** (condensed) = More context, see full day at once\n**High zoom** (spacious) = Less scrolling needed for current task, easier reading\n\nMost users find **1.0-1.5** balances both needs. Experiment based on:\n- Screen size (larger screens → can go more spacious)\n- Number of daily tasks (busy days → more condensed)\n- Visual preference (some people prefer information density, others find it overwhelming)",
+        "line_number": 837,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 31715,
+        "char_end": 32201
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Custom Color Schemes**\n\nWhile Day Planner doesn't provide built-in color customization, you can modify colors through:\n- **CSS Snippets**: Override plugin CSS classes\n- **Theme Selection**: Different Obsidian themes render Day Planner colors differently\n- **Accessibility**: If you have color vision deficiency, consider themes with pattern differentiation (stripes, dots) rather than color alone",
+        "line_number": 865,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 32797,
+        "char_end": 33225
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Untitled",
+        "body": "**What Status Bar Configuration Works for You?**\n\nConsider your working style:\n- **Minimalist**: Task name only, avoid clutter\n- **Visual Learner**: Progress bar helps perceive time\n- **Planner**: Next task preview reduces surprises\n- **Information Dense**: All elements (if screen space allows)",
+        "line_number": 887,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 33815,
+        "char_end": 34148
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Custom Hotkeys for Speed**\n\nAssign keyboard shortcuts to frequently-used commands:\n\n1. Settings → Hotkeys\n2. Search \"Day Planner\"\n3. Click on command → Press key combination\n\n**Suggested Hotkeys:**\n- `Cmd/Ctrl + Shift + T`: Show Timeline\n- `Cmd/Ctrl + Shift + K`: Start/Stop Clock (toggle)\n- `Cmd/Ctrl + Shift + W`: Show Week Planner",
+        "line_number": 910,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 34760,
+        "char_end": 35137
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Recommended Morning Workflow**\n\n**Time Required**: 10-15 minutes\n\n**Steps:**\n\n1. **Open Today's Daily Note** (`Cmd/Ctrl + T` if you have Daily Notes hotkey)\n\n2. **Review External Commitments**\n   - Open Week Planner or Timeline\n   - Check calendar events (meetings, appointments) that auto-populated\n   - Note any scheduling conflicts\n\n3. **Time-Box Priority Tasks**\n   - Identify your [[Most Important Task]] (MIT) for the day\n   - Assign it a time block (preferably morning, during peak energy)\n   - Add 2-3 secondary priority tasks\n\n4. **Fill Around Fixed Points**\n   - Meetings are immovable—treat them as anchors\n   - Schedule tasks in gaps between meetings\n   - Buffer time: add 10-15 minute breaks between blocks\n\n5. **Reality Check**\n   - Total your committed time\n   - Is it less than your available work hours?\n   - If overcommitted, ruthlessly cut or defer tasks\n\n6. **Add Context & Links**\n   - Link tasks to project notes: `[[Project X]] - Implementation`\n   - Add tags for later filtering: `#deep-work` `#meetings` `#admin`\n   - Include sub-tasks or notes for context",
+        "line_number": 934,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 35416,
+        "char_end": 36593
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Front-Load Cognitive Work**\n\nDay Planner makes **chronological energy management** visible. Notice the example places:\n- **Deep work** (architecture design) early morning (peak cognitive hours)\n- **Collaborative work** (code review) post-lunch (moderate energy)\n- **Administrative tasks** late afternoon (low energy tolerance)\n\nThis aligns [[Circadian Rhythms]] with task demands.",
+        "line_number": 995,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 37452,
+        "char_end": 37872
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Two-System Workflow Pattern**\n\n**Task Manager Role** (Things 3, Todoist, etc.):\n- **Master task repository**: All tasks, projects, someday/maybe items\n- **Capture inbox**: Quick capture from phone/anywhere\n- **Project management**: Hierarchical task breakdown\n- **Recurring tasks**: Sophisticated repeat patterns\n\n**Day Planner Role** (Obsidian):\n- **Daily commitment**: Which tasks happen *today*\n- **Time allocation**: *When* tasks happen\n- **Context layer**: Links to notes, research, documentation\n- **Reflection space**: Capture thoughts during task execution\n\n**Daily Bridge Workflow**:\n1. Morning: Review task manager for due/priority items\n2. Decide: \"Which 3-5 tasks will I do TODAY?\"\n3. Time-box: Assign those tasks to specific time blocks in Day Planner\n4. Execute: Work from Day Planner timeline throughout day\n5. Evening: Mark tasks complete in task manager, update progress",
+        "line_number": 1009,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 38052,
+        "char_end": 39010
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Why Not Replace Task Managers Entirely?**\n\nDay Planner is intentionally **planning-focused**, not **task-management-complete**:\n- No sophisticated filters or queries for tasks (Day Planner is for today)\n- No mobile quick-capture (Obsidian mobile less frictionless than task apps)\n- No sharing/collaboration (Obsidian is personal workspace)\n- No recurring task automation (must manually create each day)\n\nThink of Day Planner as the \"execution layer\" on top of your task management \"strategy layer.\"",
+        "line_number": 1043,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 39780,
+        "char_end": 40312
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**The \"Meeting Stack\" Pattern**\n\nFor users with meeting-heavy days:\n\nCreate a **consistent meeting note structure** in your daily note template:\n- **Before**: Context, agenda, questions\n- **During**: Real-time notes  \n- **After**: Decisions, action items (with scheduled dates for vault-wide discovery)\n\nThis pattern ensures:\n- You're prepared (reviewed context)\n- You capture value (notes during)\n- You follow through (action items as schedulable tasks)",
+        "line_number": 1098,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 41682,
+        "char_end": 42180
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Focus Session (Deep Work Block)**\n\nA focus session is:\n- **Time-bounded**: Fixed start and end (creates urgency)\n- **Single-task**: One project/activity only (prevents context switching)\n- **Protected**: Minimal interruptions (notifications off, colleagues aware)\n- **Intentional**: Clear outcome defined (not just \"work on X\")",
+        "line_number": 1116,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 42212,
+        "char_end": 42572
+      },
+      {
+        "type": "attention",
+        "title": "Untitled",
+        "body": "**Protecting Focus Sessions**\n\nThe biggest threat to focus sessions is **interruption**. Day Planner makes the commitment visible, but you must:\n\n- **Communicate boundaries**: Team knows \"blocked time\" means no interruptions\n- **Disable notifications**: Slack, email, phone on Do Not Disturb\n- **Physical cues**: Headphones, door closed, \"Focus\" status\n- **Honor the block**: Treat it as seriously as a meeting\n\n**Key insight**: Time-boxing is a commitment to YOURSELF—just as valid as a commitment to others.",
+        "line_number": 1151,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 43618,
+        "char_end": 44163
+      },
+      {
+        "type": "phase-one",
+        "title": "Untitled",
+        "body": "**Phase 1: Input Gathering (5 minutes)**\n\nCollect information from multiple sources:\n- [ ] Review calendar for fixed commitments (meetings, appointments)\n- [ ] Check task manager for due dates and priorities\n- [ ] Review project notes for ongoing work\n- [ ] Consider personal goals/aspirations for the week",
+        "line_number": 1169,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 44365,
+        "char_end": 44701
+      },
+      {
+        "type": "phase-two",
+        "title": "Untitled",
+        "body": "**Phase 2: Theme & Big Rocks (10 minutes)**\n\nIdentify the week's focus:\n- [ ] What's the **theme** of this week? (e.g., \"Client deliverables,\" \"Research sprint\")\n- [ ] What are the **3-5 \"big rocks\"**—outcomes that matter most?\n- [ ] Which days are best for deep work? Which are meeting-heavy?",
+        "line_number": 1178,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 44702,
+        "char_end": 45023
+      },
+      {
+        "type": "phase-three",
+        "title": "Untitled",
+        "body": "**Phase 3: Time Allocation (15 minutes)**\n\nOpen Week Planner view and distribute work:\n- [ ] Place big rocks in optimal time slots (morning focus blocks)\n- [ ] Balance workload across days (don't overload Monday)\n- [ ] Protect recovery time (lunch, breaks, exercise)\n- [ ] Plan energy-matched tasks (admin on low-energy days)",
+        "line_number": 1186,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 45024,
+        "char_end": 45381
+      },
+      {
+        "type": "phase-four",
+        "title": "Untitled",
+        "body": "**Phase 4: Reality Check & Buffer (5 minutes)**\n\nEnsure the plan is sustainable:\n- [ ] Total committed hours per day < actual available hours\n- [ ] 20-30% buffer time for unexpected tasks\n- [ ] Personal time protected (dinner, exercise, hobbies)\n- [ ] One \"flex day\" with lighter schedule for overflow",
+        "line_number": 1195,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 45382,
+        "char_end": 45714
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Weekly Planning Prevents Daily Fire-Fighting**\n\nWithout weekly planning, each morning becomes reactive—\"What's urgent today?\"\n\nWith weekly planning, each morning becomes confirmatory—\"Is today's plan still optimal?\" You've already made strategic decisions, so daily planning is minor adjustment, not wholesale creation.",
+        "line_number": 1213,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 46126,
+        "char_end": 46479
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Settings Experimentation Protocol**\n\nDay Planner has many settings, which can be overwhelming. Try this approach:\n\n**Week 1**: Use all defaults, don't change anything\n**Week 2**: Identify ONE friction point and adjust setting to address it\n**Week 3**: Identify ANOTHER friction point and adjust\n\nThis incremental approach prevents over-optimization before you understand your actual needs.",
+        "line_number": 1271,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 48785,
+        "char_end": 49212
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Performance Tuning Steps**\n\n**If Day Planner is slow:**\n\n1. **Reduce Task Discovery Scope**\n   - Day Planner scans entire vault by default\n   - Consider using tags to filter: only tasks with `#daily-plan` appear\n   - (Check documentation—recent versions may have folder filtering)\n\n2. **Limit Calendar Integrations**\n   - Each ICS feed adds loading time\n   - Only add calendars you actively reference\n   - Increase refresh interval (e.g., 30 minutes instead of 15)\n\n3. **Simplify Timeline Display**\n   - Disable \"Show Clocks\" if you don't use time tracking\n   - Reduce zoom level to show fewer tasks on screen\n   - Turn off mini-timeline in status bar\n\n4. **Vault Maintenance**\n   - Archive old daily notes (move completed years to archive folder)\n   - Use Obsidian's \"Excluded Files\" setting to ignore large media folders\n\n5. **Check Plugin Conflicts**\n   - Temporarily disable other plugins to isolate issue\n   - Common culprits: Heavy Dataview queries auto-running, Templater scripts",
+        "line_number": 1295,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 49698,
+        "char_end": 50768
+      },
+      {
+        "type": "constraints-and-pitfalls",
+        "title": "Untitled",
+        "body": "**Known Performance Bottlenecks**\n\n- **Large daily notes**: If your daily notes are massive (1000+ lines), timeline parsing slows\n- **Complex regex in Dataview**: Custom task filters with regex matching are expensive\n- **Real-time updates**: Timeline refreshes on every note edit, which can lag on slow systems\n- **Mobile limitations**: Obsidian mobile has less processing power—Day Planner may be sluggish",
+        "line_number": 1323,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 50769,
+        "char_end": 51218
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**When to Report Bugs**\n\nIf you encounter issues not listed above:\n\n1. **Check GitHub Issues**: [Day Planner GitHub](https://github.com/ivan-lednev/obsidian-day-planner/issues)\n2. **Search Forum**: [Obsidian Forum - Day Planner tag](https://forum.obsidian.md)\n3. **Create Issue Report**:\n   - Include Obsidian version\n   - Include Day Planner version\n   - Describe expected vs. actual behavior\n   - Provide minimal reproducible example\n   - Share relevant console logs (Developer Tools → Console)",
+        "line_number": 1379,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 52984,
+        "char_end": 53518
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Mobile + Desktop Workflow**\n\n**Morning (Desktop)**: Plan day in Week Planner, time-box tasks, set up timeline\n**Throughout Day (Mobile)**: Check current task on timeline, mark tasks complete, add notes\n**Evening (Desktop)**: Review day, start time tracking for reflection, plan tomorrow",
+        "line_number": 1420,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 54513,
+        "char_end": 54840
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Plugin Stack Recommendation**\n\nFor optimal Day Planner experience, consider this plugin combination:\n\n**Essential**:\n- Daily Notes (core)\n- Dataview\n- Day Planner\n\n**Highly Recommended**:\n- Tasks (for vault-wide task management)\n- Calendar (for date navigation)\n- Templater (for daily note automation)\n\n**Optional Enhancers**:\n- Periodic Notes (if you want weekly planning)\n- Heatmap Calendar (for activity visualization)\n- Natural Language Dates (for quick date entry)",
+        "line_number": 1449,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 55928,
+        "char_end": 56453
+      },
+      {
+        "type": "constraints-and-pitfalls",
+        "title": "Untitled",
+        "body": "**Feature Gaps in Day Planner**\n\n**What Day Planner Does NOT Do:**\n\n1. **No Recurring Tasks**: Must manually create tasks each day\n   - No \"Daily standup at 9 AM every weekday\" automation\n   - Workaround: Use Tasks plugin's recurrence + vault-wide discovery\n\n2. **No Task Templates**: Can't define reusable task blocks\n   - No \"Morning Routine\" template with preset time blocks\n   - Workaround: Use Templater to insert template text in daily notes\n\n3. **No Two-Way Calendar Sync**: Calendar integration is read-only\n   - Can't create calendar events from Obsidian tasks\n   - Workaround: Use complementary plugins like [[iCal Plugin]] for export\n\n4. **No Task Dependencies**: Can't say \"Task B starts after Task A completes\"\n   - Manual rescheduling required when tasks take longer than planned\n   - Workaround: Time-box conservatively, build buffer time\n\n5. **Limited Mobile Support**: Many features desktop-only\n   - No Week Planner on mobile\n   - No drag-and-drop on mobile\n   - Workaround: Use mobile for execution only, plan on desktop\n\n6. **No Pomodoro Timer**: Time tracking requires manual start/stop\n   - No automatic 25-minute work / 5-minute break cycles\n   - Workaround: Use [[PomoBar]] or external Pomodoro timer\n\n7. **No Task Prioritization**: All tasks visually equal\n   - No P1/P2/P3 labels or visual priority indicators\n   - Workaround: Use emojis or tags in task text (🎯 for high priority)\n\n8. **No Effort Estimates**: Can't track planned vs. actual effort\n   - Time blocks show duration, but no \"2 hours planned, 3 hours actual\" comparison\n   - Workaround: Use time tracking clocks + Dataview analysis",
+        "line_number": 1477,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 56643,
+        "char_end": 58365
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**The Planning Fallacy**\n\nHumans are notoriously bad at estimating how long tasks will take ([[Planning Fallacy]]). Time tracking with Day Planner provides **objective feedback**—revealing that your \"2-hour task\" actually took 4 hours. Over time, this calibrates your estimates.",
+        "line_number": 1547,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 59691,
+        "char_end": 59997
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**The Plugin Minimalist Principle**\n\nWhile these complementary plugins solve gaps, **resist the urge to install everything**. Each additional plugin:\n- Increases complexity\n- Potentially slows Obsidian\n- Creates maintenance burden (updates, conflicts)\n\nStart with Day Planner alone. Only add plugins when you've repeatedly encountered a specific friction point.",
+        "line_number": 1587,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 61697,
+        "char_end": 62092
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**Pre-Structured vs. Blank Canvas**\n\n**Pre-structured templates** (like above) work best for:\n- Consistent daily rhythms\n- People who value predictability\n- Those who struggle with decision fatigue\n\n**Minimal templates** (just heading, blank timebox area) work best for:\n- Highly variable schedules\n- Creative/flexible workers\n- Those who find structure constraining\n\nStart with structure, remove what feels excessive.",
+        "line_number": 1669,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 63393,
+        "char_end": 63859
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Hotkey Design Philosophy**\n\nGood hotkeys are:\n- **Mnemonic**: `W` for Week, `T` for Today/Timeline\n- **Consistent**: Related actions use similar key combinations\n- **Non-Conflicting**: Don't override critical Obsidian defaults (Cmd+N for new note, etc.)\n- **Comfortable**: Keys reachable without hand contortion\n\nAvoid: Function keys (F1-F12), complex 3-modifier combos (Cmd+Shift+Ctrl+X)",
+        "line_number": 1699,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 64634,
+        "char_end": 65060
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Automation Trade-off**\n\nAutomation has diminishing returns:\n- **High-value automation**: Eliminates repeated manual work (e.g., inserting calendar events)\n- **Low-value automation**: Adds complexity without meaningful time savings\n\nOnly automate tasks you perform daily AND take meaningful time (>30 seconds per occurrence).",
+        "line_number": 1769,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 67026,
+        "char_end": 67380
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Review-Driven Optimization**\n\n**Month 1**: Use Day Planner, no reviews → chaotic, inconsistent\n**Month 2**: Add daily 5-min review → notice patterns (always overcommit Mondays)\n**Month 3**: Adjust based on reviews → realistic Monday plans, better outcomes\n**Month 6**: Reviews reveal 80% planning accuracy → trust your estimates, feel in control",
+        "line_number": 1827,
+        "source": "reference-comprehensive-day-planner-202511160430.md",
+        "char_start": 68721,
+        "char_end": 69109
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Community Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Community Plugin]]",
+        "line_number": 35,
+        "section": "📘 What is Day Planner?",
+        "context_line": "**Day Planner** is a [[Community Plugin]] for [[obsidian]] that transforms your vault into a sophisticated time-management system through **timeboxing**—the practice of assigning specific time blocks to tasks rather than maintaining open-ended to-do lists. The plugin integrates editable calendar views, timeline visualizations, and basic time-tracking capabilities directly into your notes.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[obsidian]]",
+        "line_number": 35,
+        "section": "📘 What is Day Planner?",
+        "context_line": "**Day Planner** is a [[Community Plugin]] for [[obsidian]] that transforms your vault into a sophisticated time-management system through **timeboxing**—the practice of assigning specific time blocks to tasks rather than maintaining open-ended to-do lists. The plugin integrates editable calendar views, timeline visualizations, and basic time-tracking capabilities directly into your notes.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "parkinson's law",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[parkinson's law]]",
+        "line_number": 41,
+        "section": "📘 What is Day Planner?",
+        "context_line": "> - Creates artificial scarcity that combats [[parkinson's law]]",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 68,
+        "section": "Required Dependencies",
+        "context_line": "> 1. **[[Dataview Plugin]]** (community plugin) - REQUIRED",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Daily Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daily Notes]]",
+        "line_number": 72,
+        "section": "Required Dependencies",
+        "context_line": "> 2. **[[Daily Notes]]** (core plugin) OR **[[Periodic Notes]]** (community plugin) - REQUIRED",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Periodic Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Periodic Notes]]",
+        "line_number": 72,
+        "section": "Required Dependencies",
+        "context_line": "> 2. **[[Daily Notes]]** (core plugin) OR **[[Periodic Notes]]** (community plugin) - REQUIRED",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Project Apollo",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Apollo]]",
+        "line_number": 242,
+        "section": "Work Block",
+        "context_line": "- [ ] 09:00 - 11:00 [[Project Apollo]] - Phase 2 implementation",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Wiki-Links",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Wiki-Links]]",
+        "line_number": 244,
+        "section": "Work Block",
+        "context_line": "- Integration with other notes via [[Wiki-Links]]",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 264,
+        "section": "Format 2: Tasks Plugin Integration (Vault-Wide Discovery)",
+        "context_line": "Day Planner integrates with the [[Tasks Plugin]], allowing tasks anywhere in your vault to appear in timelines if they have scheduled dates.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Google Calendar",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Google Calendar]]",
+        "line_number": 312,
+        "section": "Format 3: Calendar Event Syntax (ICS Integration)",
+        "context_line": "External calendar events from [[Google Calendar]], [[iCloud Calendar]], or [[Outlook]] appear in the timeline through ICS feed integration.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "iCloud Calendar",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[iCloud Calendar]]",
+        "line_number": 312,
+        "section": "Format 3: Calendar Event Syntax (ICS Integration)",
+        "context_line": "External calendar events from [[Google Calendar]], [[iCloud Calendar]], or [[Outlook]] appear in the timeline through ICS feed integration.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Outlook",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Outlook]]",
+        "line_number": 312,
+        "section": "Format 3: Calendar Event Syntax (ICS Integration)",
+        "context_line": "External calendar events from [[Google Calendar]], [[iCloud Calendar]], or [[Outlook]] appear in the timeline through ICS feed integration.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Project Phoenix",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Phoenix]]",
+        "line_number": 327,
+        "section": "Format 3: Calendar Event Syntax (ICS Integration)",
+        "context_line": "> - **Yellow block** (vault task from project note): \"[[Project Phoenix]] - Code review\"",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "iCal Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[iCal Plugin]]",
+        "line_number": 533,
+        "section": "Troubleshooting Calendar Integration",
+        "context_line": "> **Workaround**: For two-way sync, consider complementary plugins like [[iCal Plugin]] or [[Morgen Tasks]].",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Morgen Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Morgen Tasks]]",
+        "line_number": 533,
+        "section": "Troubleshooting Calendar Integration",
+        "context_line": "> **Workaround**: For two-way sync, consider complementary plugins like [[iCal Plugin]] or [[Morgen Tasks]].",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[dataview]]",
+        "line_number": 656,
+        "section": "Analyzing Tracked Time (Dataview Integration)",
+        "context_line": "The real power of clock data emerges when you query it with [[dataview]]:",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Obsidian Simple Time Tracker",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian Simple Time Tracker]]",
+        "line_number": 725,
+        "section": "Time Tracking Limitations",
+        "context_line": "> - For simultaneous tracking, use complementary plugins like [[Obsidian Simple Time Tracker]]",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "PomoBar Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PomoBar Plugin]]",
+        "line_number": 726,
+        "section": "Time Tracking Limitations",
+        "context_line": "> - For pomodoro reminders, use [[PomoBar Plugin]]",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Do Not Disturb",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Do Not Disturb]]",
+        "line_number": 804,
+        "section": "Desktop Notifications",
+        "context_line": "> **Pro tip**: Combine with [[Do Not Disturb]] mode during focus blocks to prevent other interruptions while still receiving Day Planner transition alerts.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Command Palette",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Command Palette]]",
+        "line_number": 898,
+        "section": "Command Palette Shortcuts",
+        "context_line": "Day Planner integrates deeply with Obsidian's [[Command Palette]]—access all features quickly without mouse:",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Most Important Task",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Most Important Task]]",
+        "line_number": 949,
+        "section": "Morning Planning Routine",
+        "context_line": ">    - Identify your [[Most Important Task]] (MIT) for the day",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Project X",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project X]]",
+        "line_number": 964,
+        "section": "Morning Planning Routine",
+        "context_line": ">    - Link tasks to project notes: `[[Project X]] - Implementation`",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Project Apollo",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Apollo]]",
+        "line_number": 976,
+        "section": "Morning Focus Block",
+        "context_line": "- [ ] 08:00 - 10:30 🎯 MIT: [[Project Apollo]] - Complete phase 2 architecture #deep-work",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "System Architecture Doc",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[System Architecture Doc]]",
+        "line_number": 979,
+        "section": "Morning Focus Block",
+        "context_line": "- Links: [[System Architecture Doc]], [[Technical Requirements]]",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Technical Requirements",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Technical Requirements]]",
+        "line_number": 979,
+        "section": "Morning Focus Block",
+        "context_line": "- Links: [[System Architecture Doc]], [[Technical Requirements]]",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Project Beta",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Beta]]",
+        "line_number": 987,
+        "section": "Afternoon Execution",
+        "context_line": "- [ ] 14:00 - 15:30 [[Project Beta]] - Code review #collaboration",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Circadian Rhythms",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Circadian Rhythms]]",
+        "line_number": 1003,
+        "section": "Evening Wind-Down",
+        "context_line": "> This aligns [[Circadian Rhythms]] with task demands.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Things 3",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Things 3]]",
+        "line_number": 1007,
+        "section": "Integration with External Task Managers",
+        "context_line": "Many users combine Day Planner with dedicated task managers ([[Things 3]], [[Todoist]], [[Wrike]], etc.) rather than replacing them.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Todoist",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Todoist]]",
+        "line_number": 1007,
+        "section": "Integration with External Task Managers",
+        "context_line": "Many users combine Day Planner with dedicated task managers ([[Things 3]], [[Todoist]], [[Wrike]], etc.) rather than replacing them.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Wrike",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Wrike]]",
+        "line_number": 1007,
+        "section": "Integration with External Task Managers",
+        "context_line": "Many users combine Day Planner with dedicated task managers ([[Things 3]], [[Todoist]], [[Wrike]], etc.) rather than replacing them.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Wrike",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Wrike]]",
+        "line_number": 1035,
+        "section": "Integration with External Task Managers",
+        "context_line": "From research: Curtis uses Day Planner alongside [[Wrike]] (team project management) and Things3 (personal tasks):",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Daily Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daily Notes]]",
+        "line_number": 1056,
+        "section": "Meeting Note Preparation",
+        "context_line": "Day Planner excels at preparing for and documenting meetings through its integration with [[Daily Notes]].",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Q4 Strategy Document",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Q4 Strategy Document]]",
+        "line_number": 1067,
+        "section": "Meeting Note Preparation",
+        "context_line": "- [[Q4 Strategy Document]] - Review before meeting",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Previous Q3 Retrospective",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Previous Q3 Retrospective]]",
+        "line_number": 1068,
+        "section": "Meeting Note Preparation",
+        "context_line": "- [[Previous Q3 Retrospective]] - Reference last quarter's learnings",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Follow-Up Task",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Follow-Up Task]]",
+        "line_number": 1094,
+        "section": "Meeting Note Preparation",
+        "context_line": "- [ ] [[Follow-Up Task]]: Draft job description for designer ⏳ 2025-11-20",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Follow-Up Task",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Follow-Up Task]]",
+        "line_number": 1095,
+        "section": "Meeting Note Preparation",
+        "context_line": "- [ ] [[Follow-Up Task]]: Create project brief for new initiative ⏳ 2025-11-18",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Quarterly Report",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Quarterly Report]]",
+        "line_number": 1138,
+        "section": "Focus Session Scheduling",
+        "context_line": "- [ ] 09:00 - 10:30 🎯 FOCUS: [[Quarterly Report]] - Complete data analysis section #deep-work",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Q3 Dataset",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Q3 Dataset]]",
+        "line_number": 1143,
+        "section": "Focus Session Scheduling",
+        "context_line": "- [[Q3 Dataset]] (already cleaned)",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Analysis Framework Template",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Analysis Framework Template]]",
+        "line_number": 1144,
+        "section": "Focus Session Scheduling",
+        "context_line": "- [[Analysis Framework Template]]",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 1435,
+        "section": "Compatibility with Other Plugins",
+        "context_line": "| **[[Tasks Plugin]]** | Scheduled task discovery | Vault-wide task scheduling |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[dataview]]",
+        "line_number": 1436,
+        "section": "Compatibility with Other Plugins",
+        "context_line": "| **[[dataview]]** | Task queries, clock analysis | Advanced task filtering, time analytics |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 1437,
+        "section": "Compatibility with Other Plugins",
+        "context_line": "| **[[Templater]]** | Daily note automation | Auto-insert Day Planner sections |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Calendar Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Calendar Plugin]]",
+        "line_number": 1438,
+        "section": "Compatibility with Other Plugins",
+        "context_line": "| **[[Calendar Plugin]]** | Date navigation | Quick jump to specific daily notes |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Periodic Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Periodic Notes]]",
+        "line_number": 1439,
+        "section": "Compatibility with Other Plugins",
+        "context_line": "| **[[Periodic Notes]]** | Weekly/monthly notes | Extended planning beyond daily |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Full Calendar",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Full Calendar]]",
+        "line_number": 1445,
+        "section": "Compatibility with Other Plugins",
+        "context_line": "| **[[Full Calendar]]** | Both provide calendar views | Choose one as primary, disable unused views |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Toggl Track",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Toggl Track]]",
+        "line_number": 1446,
+        "section": "Compatibility with Other Plugins",
+        "context_line": "| **[[Toggl Track]]** | Duplicate time tracking | Use one system (either Day Planner clocks or Toggl) |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Kanban",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Kanban]]",
+        "line_number": 1447,
+        "section": "Compatibility with Other Plugins",
+        "context_line": "| **[[Kanban]]** | Different task visualization paradigm | Use Kanban for project status, Day Planner for time allocation |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "iCal Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[iCal Plugin]]",
+        "line_number": 1492,
+        "section": "Known Limitations",
+        "context_line": ">    - Workaround: Use complementary plugins like [[iCal Plugin]] for export",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "PomoBar",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PomoBar]]",
+        "line_number": 1505,
+        "section": "Known Limitations",
+        "context_line": ">    - Workaround: Use [[PomoBar]] or external Pomodoro timer",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Planning Fallacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Planning Fallacy]]",
+        "line_number": 1550,
+        "section": "Common Pain Points & Solutions",
+        "context_line": "> Humans are notoriously bad at estimating how long tasks will take ([[Planning Fallacy]]). Time tracking with Day Planner provides **objective feedback**—revealing that your \"2-hour task\" actually took 4 hours. Over time, this calibrates your estimates.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 1579,
+        "section": "Complementary Plugins for Gaps",
+        "context_line": "| **Recurring Tasks** | [[Tasks Plugin]] | Define recurrence patterns (daily, weekly, etc.) |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "PomoBar",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PomoBar]]",
+        "line_number": 1580,
+        "section": "Complementary Plugins for Gaps",
+        "context_line": "| **Pomodoro Timing** | [[PomoBar]] | 25/5 work/break timers |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "iCal Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[iCal Plugin]]",
+        "line_number": 1581,
+        "section": "Complementary Plugins for Gaps",
+        "context_line": "| **Calendar Export** | [[iCal Plugin]] | Export Obsidian tasks to external calendars |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Periodic Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Periodic Notes]]",
+        "line_number": 1582,
+        "section": "Complementary Plugins for Gaps",
+        "context_line": "| **Weekly/Monthly Planning** | [[Periodic Notes]] | Extend time-boxing beyond daily notes |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Heatmap Calendar",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Heatmap Calendar]]",
+        "line_number": 1583,
+        "section": "Complementary Plugins for Gaps",
+        "context_line": "| **Habit Tracking** | [[Heatmap Calendar]] | Visualize consistency over time |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Kanban",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Kanban]]",
+        "line_number": 1584,
+        "section": "Complementary Plugins for Gaps",
+        "context_line": "| **Project Management** | [[Kanban]] | Track project phases, not just daily tasks |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Obsidian Simple Time Tracker",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian Simple Time Tracker]]",
+        "line_number": 1585,
+        "section": "Complementary Plugins for Gaps",
+        "context_line": "| **Advanced Time Tracking** | [[Obsidian Simple Time Tracker]] | More sophisticated tracking features |",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 1722,
+        "section": "Command Palette Workflow",
+        "context_line": "Create **custom commands** using [[Templater]] or [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] that combine multiple Day Planner actions:",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]",
+        "line_number": 1722,
+        "section": "Command Palette Workflow",
+        "context_line": "Create **custom commands** using [[Templater]] or [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] that combine multiple Day Planner actions:",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 1734,
+        "section": "Automated Workflows",
+        "context_line": "Leverage [[Templater]] for advanced automation.",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "obsidian-ics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[obsidian-ics]]",
+        "line_number": 1738,
+        "section": "Automated Workflows",
+        "context_line": "If you use the [[obsidian-ics]] plugin alongside Day Planner:",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "GTD Weekly Review",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[GTD Weekly Review]]",
+        "line_number": 1780,
+        "section": "Integration with Review Systems",
+        "context_line": "Day Planner shines when integrated with periodic review practices ([[GTD Weekly Review]], [[Quarterly Planning]], etc.).",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Quarterly Planning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Quarterly Planning]]",
+        "line_number": 1780,
+        "section": "Integration with Review Systems",
+        "context_line": "Day Planner shines when integrated with periodic review practices ([[GTD Weekly Review]], [[Quarterly Planning]], etc.).",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Timeboxing Methodology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Timeboxing Methodology]]",
+        "line_number": 1839,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Timeboxing Methodology]]**",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Tasks Plugin for Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin for Obsidian]]",
+        "line_number": 1844,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Tasks Plugin for Obsidian]]**",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Calendar Integration Strategies (ICS Feeds)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Calendar Integration Strategies (ICS Feeds)]]",
+        "line_number": 1849,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Calendar Integration Strategies (ICS Feeds)]]**",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "target": "Personal Knowledge Management (PKM) Daily Note Systems",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Management (PKM) Daily Note Systems]]",
+        "line_number": 1854,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Personal Knowledge Management (PKM) Daily Note Systems]]**",
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "completion",
+        "value": "2025-11-16",
+        "format": "bracket",
+        "line_number": 98,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-11-16",
+        "format": "bracket",
+        "line_number": 99,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-11-16",
+        "format": "bracket",
+        "line_number": 100,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-11-16",
+        "format": "bracket",
+        "line_number": 101,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-11-16",
+        "format": "bracket",
+        "line_number": 102,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "field_name": "scheduled",
+        "value": "2025-11-16",
+        "format": "bracket",
+        "line_number": 284,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "field_name": "scheduled",
+        "value": "YYYY-MM-DD",
+        "format": "bracket",
+        "line_number": 295,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "field_name": "clock-in",
+        "value": "2025-11-16T09:12:00",
+        "format": "bracket",
+        "line_number": 590,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "field_name": "clock-out",
+        "value": "2025-11-16T10:48:00",
+        "format": "bracket",
+        "line_number": 590,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "field_name": "clock-in",
+        "value": "...",
+        "format": "bracket",
+        "line_number": 597,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "field_name": "clock-out",
+        "value": "...",
+        "format": "bracket",
+        "line_number": 598,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "deep-work",
+        "full_tag": "#deep-work",
+        "hierarchy": [
+          "deep-work"
+        ],
+        "line_number": 880,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "tag": "meetings",
+        "full_tag": "#meetings",
+        "hierarchy": [
+          "meetings"
+        ],
+        "line_number": 881,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "tag": "admin",
+        "full_tag": "#admin",
+        "hierarchy": [
+          "admin"
+        ],
+        "line_number": 881,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "tag": "daily-plan",
+        "full_tag": "#daily-plan",
+        "hierarchy": [
+          "daily-plan"
+        ],
+        "line_number": 1177,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 2,
+        "text": "📘 What is Day Planner?",
+        "anchor": "what-is-day-planner",
+        "line_number": 33,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ Prerequisites & Installation",
+        "anchor": "prerequisites-installation",
+        "line_number": 59,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Required Dependencies",
+        "anchor": "required-dependencies",
+        "line_number": 61,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Installation Process",
+        "anchor": "installation-process",
+        "line_number": 76,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "First-Time Setup Checklist",
+        "anchor": "first-time-setup-checklist",
+        "line_number": 94,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Core Functionality & Views",
+        "anchor": "core-functionality-views",
+        "line_number": 106,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "📊 Timeline View",
+        "anchor": "timeline-view",
+        "line_number": 110,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "📅 Week Planner View",
+        "anchor": "week-planner-view",
+        "line_number": 143,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "📍 Status Bar Integration",
+        "anchor": "status-bar-integration",
+        "line_number": 172,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "✍️ Task Syntax & Formatting",
+        "anchor": "task-syntax-formatting",
+        "line_number": 205,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Format 1: Daily Note Inline Time Blocks",
+        "anchor": "format-1-daily-note-inline-time-blocks",
+        "line_number": 209,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 1,
+        "text": "Day planner",
+        "anchor": "day-planner",
+        "line_number": 234,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "Morning Block",
+        "anchor": "morning-block",
+        "line_number": 236,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "Work Block",
+        "anchor": "work-block",
+        "line_number": 241,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "Afternoon",
+        "anchor": "afternoon",
+        "line_number": 246,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Format 2: Tasks Plugin Integration (Vault-Wide Discovery)",
+        "anchor": "format-2-tasks-plugin-integration-vault-wide-discovery",
+        "line_number": 262,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Format 3: Calendar Event Syntax (ICS Integration)",
+        "anchor": "format-3-calendar-event-syntax-ics-integration",
+        "line_number": 310,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Visual Differentiation & Color Codi",
+        "anchor": "visual-differentiation-color-codi",
+        "line_number": 331,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Calendar Integration (ICS Feeds)",
+        "anchor": "calendar-integration-ics-feeds",
+        "line_number": 349,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Why Calendar Integration Matters",
+        "anchor": "why-calendar-integration-matters",
+        "line_number": 353,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Setting Up ICS Integration",
+        "anchor": "setting-up-ics-integration",
+        "line_number": 364,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "📆 Google Calendar Integration",
+        "anchor": "google-calendar-integration",
+        "line_number": 380,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "🍎 iCloud Calendar Integration",
+        "anchor": "icloud-calendar-integration",
+        "line_number": 405,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "🏢 Microsoft Outlook / Office 365 Integration",
+        "anchor": "microsoft-outlook-office-365-integration",
+        "line_number": 430,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Managing Multiple Calendars",
+        "anchor": "managing-multiple-calendars",
+        "line_number": 481,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Troubleshooting Calendar Integration",
+        "anchor": "troubleshooting-calendar-integration",
+        "line_number": 507,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "⏱️ Time Tracking System",
+        "anchor": "time-tracking-system",
+        "line_number": 537,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Understanding Time Tracking vs. Time Planning",
+        "anchor": "understanding-time-tracking-vs-time-planning",
+        "line_number": 541,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "How Clock Recording Works",
+        "anchor": "how-clock-recording-works",
+        "line_number": 560,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Clock Data Storage",
+        "anchor": "clock-data-storage",
+        "line_number": 585,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Visualizing Tracked Time",
+        "anchor": "visualizing-tracked-time",
+        "line_number": 610,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Analyzing Tracked Time (Dataview Integration)",
+        "anchor": "analyzing-tracked-time-dataview-integration",
+        "line_number": 654,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Time Tracking Limitations",
+        "anchor": "time-tracking-limitations",
+        "line_number": 706,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "🎨 Advanced Features & Customization",
+        "anchor": "advanced-features-customization",
+        "line_number": 741,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Drag-and-Drop Task Editing",
+        "anchor": "drag-and-drop-task-editing",
+        "line_number": 745,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Desktop Notifications",
+        "anchor": "desktop-notifications",
+        "line_number": 772,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Timeline Zoom & Density Control",
+        "anchor": "timeline-zoom-density-control",
+        "line_number": 806,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Colorful Timeline Option",
+        "anchor": "colorful-timeline-option",
+        "line_number": 848,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Status Bar Customization",
+        "anchor": "status-bar-customization",
+        "line_number": 873,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Command Palette Shortcuts",
+        "anchor": "command-palette-shortcuts",
+        "line_number": 896,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "🔧 Workflows & Best Practices",
+        "anchor": "workflows-best-practices",
+        "line_number": 926,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Morning Planning Routine",
+        "anchor": "morning-planning-routine",
+        "line_number": 930,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 1,
+        "text": "Day planner",
+        "anchor": "day-planner",
+        "line_number": 971,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "Morning Focus Block",
+        "anchor": "morning-focus-block",
+        "line_number": 973,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "Meeting Block",
+        "anchor": "meeting-block",
+        "line_number": 981,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "Afternoon Execution",
+        "anchor": "afternoon-execution",
+        "line_number": 985,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "Evening Wind-Down",
+        "anchor": "evening-wind-down",
+        "line_number": 991,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Integration with External Task Managers",
+        "anchor": "integration-with-external-task-managers",
+        "line_number": 1005,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Meeting Note Preparation",
+        "anchor": "meeting-note-preparation",
+        "line_number": 1054,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Focus Session Scheduling",
+        "anchor": "focus-session-scheduling",
+        "line_number": 1113,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Weekly Planning Strategy",
+        "anchor": "weekly-planning-strategy",
+        "line_number": 1163,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "🛠️ Technical Considerations",
+        "anchor": "technical-considerations",
+        "line_number": 1222,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Plugin Settings Deep Dive",
+        "anchor": "plugin-settings-deep-dive",
+        "line_number": 1226,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Performance Optimization",
+        "anchor": "performance-optimization",
+        "line_number": 1282,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Troubleshooting Common Issues",
+        "anchor": "troubleshooting-common-issues",
+        "line_number": 1331,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Mobile vs. Desktop Differences",
+        "anchor": "mobile-vs-desktop-differences",
+        "line_number": 1393,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Compatibility with Other Plugins",
+        "anchor": "compatibility-with-other-plugins",
+        "line_number": 1427,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "⚠️ Limitations & Workarounds",
+        "anchor": "limitations-workarounds",
+        "line_number": 1471,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Known Limitations",
+        "anchor": "known-limitations",
+        "line_number": 1475,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Common Pain Points & Solutions",
+        "anchor": "common-pain-points-solutions",
+        "line_number": 1515,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Complementary Plugins for Gaps",
+        "anchor": "complementary-plugins-for-gaps",
+        "line_number": 1573,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "🚀 Optimization Strategies",
+        "anchor": "optimization-strategies",
+        "line_number": 1599,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Template Design",
+        "anchor": "template-design",
+        "line_number": 1603,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 1,
+        "text": "{{date:dddd, MMMM D, YYYY}}",
+        "anchor": "datedddd-mmmm-d-yyyy",
+        "line_number": 1615,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Today's Focus",
+        "anchor": "todays-focus",
+        "line_number": 1617,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "⏰ Day Planner",
+        "anchor": "day-planner",
+        "line_number": 1628,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Morning Block (07:00 - 12:00)",
+        "anchor": "morning-block-0700-1200",
+        "line_number": 1630,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Afternoon Block (13:00 - 17:00)",
+        "anchor": "afternoon-block-1300-1700",
+        "line_number": 1637,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Evening Wind-Down (17:00 - 18:00)",
+        "anchor": "evening-wind-down-1700-1800",
+        "line_number": 1643,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "📝 Notes & Capture",
+        "anchor": "notes-capture",
+        "line_number": 1649,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "✅ Daily Review",
+        "anchor": "daily-review",
+        "line_number": 1655,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Hotkey Configuration",
+        "anchor": "hotkey-configuration",
+        "line_number": 1684,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Command Palette Workflow",
+        "anchor": "command-palette-workflow",
+        "line_number": 1710,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Automated Workflows",
+        "anchor": "automated-workflows",
+        "line_number": 1732,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 3,
+        "text": "Integration with Review Systems",
+        "anchor": "integration-with-review-systems",
+        "line_number": 1778,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "✅ Daily Review",
+        "anchor": "daily-review",
+        "line_number": 1787,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 1837,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "[Current Task: Write report] ⏱️ 25m → 🔍Review → 📞Meeting",
+        "line_start": 197,
+        "line_end": 199,
+        "char_count": 56,
+        "line_count": 1,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> # Day planner\n> - [ ] 08:00 - 09:00 Morning routine\n> - [ ] 09:00 - 10:30 Deep work: Project X\n> - [ ] 10:30 - 11:00 Coffee break\n> - [ ] 11:00 - 12:30 Team meeting\n>",
+        "line_start": 216,
+        "line_end": 222,
+        "char_count": 168,
+        "line_count": 6,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "markdown",
+        "code": "# Day planner\n\n## Morning Block\n- [ ] 07:00 - 07:30 Wake up and stretch\n  - Sub-task: Set intentions for the day\n  - Sub-task: Review calendar\n\n## Work Block  \n- [ ] 09:00 - 11:00 [[Project Apollo]] - Phase 2 implementation\n  - Link to project note for context\n  - Integration with other notes via [[Wiki-Links]]\n\n## Afternoon\n- [ ] 13:00 - 14:30 Client meeting: Q4 strategy #meetings\n  - Tags work for filtering and organization",
+        "line_start": 233,
+        "line_end": 249,
+        "char_count": 429,
+        "line_count": 15,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "markdown",
+        "code": "1. Emoji Shorthand (Tasks plugin default)\n- [ ] 08:00 - 10:00 Code review ⏳ 2025-11-16\n\n2. Dataview Property (Inline)\n- [ ] 11:00 - 13:00 Workshop preparation [scheduled:: 2025-11-16]\n\n3. Dataview Property (Parentheses)\n- [ ] 14:00 - 15:30 Client call (scheduled:: 2025-11-16)",
+        "line_start": 279,
+        "line_end": 288,
+        "char_count": 276,
+        "line_count": 8,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "https://outlook.office365.com/owa/calendar/<CALENDAR_TOKEN>/reachcalendar.ics",
+        "line_start": 464,
+        "line_end": 466,
+        "char_count": 77,
+        "line_count": 1,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [x] 09:00 - 11:00 Deep work: Write documentation [clock-in:: 2025-11-16T09:12:00] [clock-out:: 2025-11-16T10:48:00]",
+        "line_start": 589,
+        "line_end": 591,
+        "char_count": 117,
+        "line_count": 1,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "┌─────────────────┬─────────────────┐\n│  Planned Tasks  │  Tracked Time   │\n├─────────────────┼─────────────────┤\n│ 09:00-11:00    │ ██████████      │ ← Visual comparison\n│ Deep Work       │ 09:12-10:48     │\n│                 │ (1h 36m)        │\n├─────────────────┼─────────────────┤\n│ 11:00-12:30    │ ███████         │\n│ Meeting         │ 11:05-12:15     │\n│                 │ (1h 10m)        │\n└─────────────────┴─────────────────┘",
+        "line_start": 618,
+        "line_end": 630,
+        "char_count": 435,
+        "line_count": 11,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE\n  file.name as \"2025-11-16\",\n  round((clock-out - clock-in).hours, 2) as \"Hours\"\nFROM \"\"\nWHERE clock-in\nAND dateformat(clock-in, \"yyyy-MM-dd\") = dateformat(date(today), \"yyyy-MM-dd\")\nSORT clock-in ASC",
+        "line_start": 660,
+        "line_end": 668,
+        "char_count": 206,
+        "line_count": 7,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE WITHOUT ID\n  project as \"Project\",\n  sum(rows.hours) as \"Total Hours\"\nFROM \"\"\nWHERE clock-in\nAND dateformat(clock-in, \"yyyy-MM-dd\") >= dateformat(date(today) - dur(7 days), \"yyyy-MM-dd\")\nFLATTEN round((clock-out - clock-in).hours, 2) as hours\nGROUP BY project\nSORT sum(rows.hours) DESC",
+        "line_start": 674,
+        "line_end": 684,
+        "char_count": 291,
+        "line_count": 9,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "┌──────────────────────────────────────┐\n│ Zoom Level: 0.5 (Condensed)          │\n├──────────────────────────────────────┤\n│ 08:00 ▂▂▂ Morning Routine           │\n│ 09:00 ▄▄▄ Deep Work                 │\n│ 11:00 ▂▂▂ Break                     │\n│ 11:30 ▄▄▄▄▄ Meeting                 │  ← More tasks visible\n└──────────────────────────────────────┘\n\n┌──────────────────────────────────────┐\n│ Zoom Level: 2.0 (Spacious)           │\n├──────────────────────────────────────┤\n│                                       │\n│ 08:00 ████████                        │\n│       Morning Routine                 │\n│                                       │\n│ 09:00 ████████████████                │\n│       Deep Work                       │  ← Easier to read\n│                                       │\n│ 11:00 ████                            │\n│       Break                           │\n└──────────────────────────────────────┘",
+        "line_start": 812,
+        "line_end": 835,
+        "char_count": 906,
+        "line_count": 22,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "markdown",
+        "code": "# Day planner\n\n## Morning Focus Block\n- [ ] 07:00 - 07:30 Morning routine (exercise, breakfast)\n- [ ] 07:30 - 08:00 Review email, plan day\n- [ ] 08:00 - 10:30 🎯 MIT: [[Project Apollo]] - Complete phase 2 architecture #deep-work\n  - Focus: No interruptions, phone on DND\n  - Goal: Finish data model design\n  - Links: [[System Architecture Doc]], [[Technical Requirements]]\n\n## Meeting Block  \n- [ ] 10:30 - 11:00 Coffee & email triage\n- [ ] 11:00 - 12:00 Team standup (from Google Calendar)\n\n## Afternoon Execution\n- [ ] 13:00 - 14:00 Lunch & walk\n- [ ] 14:00 - 15:30 [[Project Beta]] - Code review #collaboration\n- [ ] 15:30 - 16:00 Admin: Expense reports, timesheets #admin\n- [ ] 16:00 - 17:00 Client email responses #communication\n\n## Evening Wind-Down\n- [ ] 17:00 - 17:30 Plan tomorrow, review today's progress",
+        "line_start": 970,
+        "line_end": 993,
+        "char_count": 813,
+        "line_count": 22,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] 14:00 - 15:00 Q4 Strategy Meeting (from calendar)\n  \n  **Meeting Context:**\n  - [[Q4 Strategy Document]] - Review before meeting\n  - [[Previous Q3 Retrospective]] - Reference last quarter's learnings\n  \n  **My Agenda Items:**\n  - [ ] Discuss budget allocation for new initiative\n  - [ ] Clarify timeline for product launch\n  - [ ] Get decision on hiring for design role\n  \n  **Questions to Ask:**\n  - What are success metrics for Q4?\n  - Who owns the go-to-market strategy?",
+        "line_start": 1063,
+        "line_end": 1078,
+        "char_count": 479,
+        "line_count": 14,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [x] 14:00 - 15:00 Q4 Strategy Meeting ✅ Complete\n  \n  **Key Decisions:**\n  - Budget approved for new initiative: $50K\n  - Product launch target: March 15\n  - Design role approved for Q1 hire\n  \n  **Action Items:**\n  - [ ] [[Follow-Up Task]]: Draft job description for designer ⏳ 2025-11-20\n  - [ ] [[Follow-Up Task]]: Create project brief for new initiative ⏳ 2025-11-18",
+        "line_start": 1085,
+        "line_end": 1096,
+        "char_count": 372,
+        "line_count": 10,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] 09:00 - 10:30 🎯 FOCUS: [[Quarterly Report]] - Complete data analysis section #deep-work\n  \n  **Session Outcome**: Finish all charts and statistical summaries for Q3 data\n  \n  **Materials Needed**:\n  - [[Q3 Dataset]] (already cleaned)\n  - [[Analysis Framework Template]]\n  - Previous quarter's charts for consistency\n  \n  **Post-Session Note**:\n  [After session, capture: What worked? What's next? Any insights?]",
+        "line_start": 1137,
+        "line_end": 1149,
+        "char_count": 417,
+        "line_count": 11,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ndate: {{date:YYYY-MM-DD}}\ntype: daily-note\n---\n\n# {{date:dddd, MMMM D, YYYY}}\n\n## 🎯 Today's Focus\n\n**Most Important Task (MIT):**\n- [ ] [Your most critical outcome for today]\n\n**Secondary Priorities:**\n- [ ] [Priority 2]\n- [ ] [Priority 3]\n\n---\n\n## ⏰ Day Planner\n\n### Morning Block (07:00 - 12:00)\n- [ ] 07:00 - 07:30 Morning routine\n- [ ] 07:30 - 08:00 Plan day, review calendar\n- [ ] 08:00 - 10:30 🎯 MIT: [Focus work]\n- [ ] 10:30 - 11:00 Break / Coffee\n- [ ] 11:00 - 12:00 [Secondary task or meeting]\n\n### Afternoon Block (13:00 - 17:00)\n- [ ] 13:00 - 14:00 Lunch & walk\n- [ ] 14:00 - 15:30 [Task block]\n- [ ] 15:30 - 16:00 [Task block]\n- [ ] 16:00 - 17:00 [Task block or admin time]\n\n### Evening Wind-Down (17:00 - 18:00)\n- [ ] 17:00 - 17:30 Email cleanup, tomorrow prep\n- [ ] 17:30 - 18:00 Day review & reflection\n\n---\n\n## 📝 Notes & Capture\n\n[Space for meeting notes, ideas, journal entries]\n\n---\n\n## ✅ Daily Review\n\n**What went well:**\n- \n\n**What could improve:**\n- \n\n**Tomorrow's prep:**\n-",
+        "line_start": 1609,
+        "line_end": 1665,
+        "char_count": 999,
+        "line_count": 55,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "javascript",
+        "code": "<%* \n// Templater script to auto-insert calendar events as time blocks\nconst events = await app.plugins.getPlugin('ics').getEvents(moment(tp.file.title,'YYYY-MM-DD'));\nevents.sort((a,b) => a.utime - b.utime).forEach((e) => { \n  tR += `- [ ] ${e.time} ${e.summary}${e.location ? ' - ' + e.location : ''}\\n`;\n});\n%>",
+        "line_start": 1740,
+        "line_end": 1748,
+        "char_count": 313,
+        "line_count": 7,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "markdown",
+        "code": "## ✅ Daily Review\n\n**Planned Tasks:** 8\n**Completed:** 6\n**Time Tracked:** 5.5 hours\n\n**Key Wins:**\n- Completed Q4 analysis ahead of schedule\n- Had productive client meeting—secured next phase\n\n**Challenges:**\n- Underestimated report writing (planned 2h, took 3.5h)\n- Interrupted 3x during focus block—need better boundaries\n\n**Tomorrow's Adjustment:**\n- Time-box report tasks at 1.5x estimate\n- Enable Do Not Disturb during morning focus",
+        "line_start": 1786,
+        "line_end": 1804,
+        "char_count": 438,
+        "line_count": 17,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE\n  file.day as \"Date\",\n  length(file.tasks.completed) as \"Completed Tasks\",\n  choice(trackedTime, trackedTime + \" hours\", \"—\") as \"Time Tracked\"\nFROM \"Daily Notes\"\nWHERE file.day >= date(today) - dur(7 days)\nSORT file.day DESC",
+        "line_start": 1817,
+        "line_end": 1825,
+        "char_count": 231,
+        "line_count": 7,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "<thinking>\n**REQUEST CLASSIFICATION:**\n- Type: Comprehensive Reference Note\n- Scope: Reference note with practical guide elements\n- Topic: Obsidian Day Planner Plugin\n- Research Required: YES - Need current information about plugin features, best practices, and recent updates\n- User Intent: Dual purpose - reference documentation + optimization guide for daily use\n\n**RESEARCH STRATEGY:**\nI need to gather comprehensive information about:\n1. Core functionality and features of Day Planner plugin\n2. Installation and setup procedures\n3. Syntax and formatting options\n4. Integration with other Obsidian features\n5. Best practices and optimization techniques\n6. Common pitfalls and troubleshooting\n7. Comparison with alternative approaches\n8. Recent updates and community insights\n\nLet me search for authoritative information on this plugin.\n</thinking><thinking>\n**SYNTHESIS & BLUEPRINT CONSTRUCTION:**\n\nBased on my research, I've gathered comprehensive information about the Day Planner plugin for Obsidian. Let me now construct a detailed blueprint for the reference note.\n\n**KEY FINDINGS:**\n1. There are TWO distinct versions: Day Planner (modern, by Ivan Lednev) and Day Planner OG (original fork by Erin Schnabel)\n2. The modern version focuses on calendar integration, timeline views, and time tracking\n3. Core dependencies: Dataview plugin (REQUIRED), Daily Notes or Periodic Notes plugin\n4. Multiple task sources: Daily notes with time formats, Tasks plugin with scheduled dates, external ICS calendars\n5. Key features: Week Planner view, Timeline view, status bar integration, time tracking with clocks, drag-and-drop editing\n6. Task syntax variations: inline time format (HH:mm - HH:mm), Tasks plugin emoji format (⏳), Dataview properties ([scheduled::])\n7. Calendar integration: Google Calendar, iCloud, Outlook via ICS links\n8. Time tracking: Right-click menu to start/stop clocks, stores as Dataview properties\n9. Customization: notifications, status bar indicators, timeline zoom, colorful timeline option\n10. Use cases: timeboxing, focus sessions, daily planning, task management\n\n**HIERARCHICAL OUTLINE FOR REFERENCE NOTE:**\n\nI. Introduction & Core Concept\n   A. What is Day Planner\n   B. Philosophy of timeboxing in Obsidian\n   C. Plugin versions and which to choose\n\nII. Prerequisites & Installation\n   A. Required plugins (Dataview, Daily Notes/Periodic Notes)\n   B. Installation process\n   C. Initial configuration\n\nIII. Core Functionality & Views\n   A. Timeline View\n   B. Week Planner View\n   C. Status Bar Integration\n   D. Mini-Timeline Feature\n\nIV. Task Syntax & Formats\n   A. Daily note inline format (HH:mm - HH:mm)\n   B. Tasks plugin integration (emoji shortcuts)\n   C. Dataview property formats\n   D. Vault-wide task discovery\n   E. Color coding and visual differentiation\n\nV. Calendar Integration\n   A. ICS link setup\n   B. Google Calendar integration\n   C. iCloud Calendar integration\n   D. Outlook/Office 365 integration\n   E. Multi-calendar management\n\nVI. Time Tracking System\n   A. Clock recording mechanism\n   B. Starting/stopping clocks\n   C. Active clock display\n   D. Time tracking timeline column\n   E. Dataview property storage\n\nVII. Advanced Features & Customization\n   A. Drag-and-drop editing\n   B. Notifications and alerts\n   C. Timeline zoom and density\n   D. Colorful timeline option\n   E. Progress indicators\n\nVIII. Workflows & Best Practices\n   A. Morning planning routine\n   B. Integration with external task managers\n   C. Meeting note preparation\n   D. Focus session scheduling\n   E. Weekly planning strategy\n\nIX. Technical Considerations\n   A. Plugin settings deep dive\n   B. Performance optimization\n   C. Troubleshooting common issues\n   D. Mobile vs desktop differences\n   E. Compatibility with other plugins\n\nX. Limitations & Workarounds\n   A. Known issues\n   B. Feature gaps\n   C. Alternative approaches\n   D. Complementary plugins\n\nXI. Optimization Strategies\n   A. Template design\n   B. Hotkey configuration\n   C. Command palette shortcuts\n   D. Automated workflows\n\nThis comprehensive blueprint will ensure the note covers all aspects of Day Planner usage, from basic setup to advanced optimization techniques.\n</thinking>",
+        "line_start": 1863,
+        "line_end": 1976,
+        "char_count": 4181,
+        "line_count": 111,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Feature",
+          "Description",
+          "Use Case"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Live Time Indicator**",
+            "Red line tracks current time",
+            "Instantly see what you should be doing now"
+          ],
+          [
+            "**Drag-and-Drop Editing**",
+            "Resize blocks by dragging borders",
+            "Quick adjustments without editing markdown"
+          ],
+          [
+            "**Multi-Source Display**",
+            "Shows tasks from daily notes, Tasks plugin, and ICS calendars",
+            "Unified view of all commitments"
+          ],
+          [
+            "**Zoom Control**",
+            "Adjust density of timeline",
+            "Customize detail level for your workflow"
+          ]
+        ],
+        "line_start": 127,
+        "row_count": 4,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Source Type",
+          "Default Color",
+          "Meaning",
+          "Editable in Obsidian?"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Daily Note Tasks",
+            "Primary theme color",
+            "Tasks in today's daily note",
+            "Yes (edit markdown)"
+          ],
+          [
+            "Remote Vault Tasks",
+            "Secondary color",
+            "Tasks from other notes with scheduled dates",
+            "Yes (edit source note)"
+          ],
+          [
+            "ICS Calendar Events",
+            "Accent color",
+            "External calendar events",
+            "No (edit in calendar app)"
+          ],
+          [
+            "Time Tracking Clocks",
+            "Distinct color",
+            "Recorded time blocks",
+            "View only"
+          ]
+        ],
+        "line_start": 308,
+        "row_count": 4,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Calendar Type",
+          "Example Use",
+          "Color Coding Strategy"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Work Calendar**",
+            "Meetings, deadlines, work events",
+            "Primary/red blocks"
+          ],
+          [
+            "**Personal Calendar**",
+            "Appointments, personal commitments",
+            "Secondary/blue blocks"
+          ],
+          [
+            "**Family Calendar**",
+            "Kids' activities, household events",
+            "Accent/green blocks"
+          ],
+          [
+            "**Project-Specific**",
+            "Event-driven projects",
+            "Custom colors"
+          ]
+        ],
+        "line_start": 457,
+        "row_count": 4,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Problem",
+          "Likely Cause",
+          "Solution"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Events not appearing",
+            "Invalid ICS URL",
+            "Verify URL works in browser; check for `.ics` ending"
+          ],
+          [
+            "Events delayed/outdated",
+            "Refresh interval too long",
+            "Settings → Increase refresh frequency"
+          ],
+          [
+            "Permission errors",
+            "Calendar not public/published",
+            "Verify sharing settings in calendar service"
+          ],
+          [
+            "Outlook events missing",
+            "IT policy restrictions",
+            "Use alternative method or request admin assistance"
+          ],
+          [
+            "Too many events",
+            "Pulled wrong calendar",
+            "Verify you copied the correct calendar's ICS link"
+          ]
+        ],
+        "line_start": 483,
+        "row_count": 5,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Property",
+          "Format",
+          "Meaning"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "`[clock-in:: ...]`",
+            "ISO 8601 timestamp",
+            "When you started the clock"
+          ],
+          [
+            "`[clock-out:: ...]`",
+            "ISO 8601 timestamp",
+            "When you stopped the clock"
+          ],
+          [
+            "Checkbox `[x]`",
+            "Often auto-marked",
+            "Task completion (optional)"
+          ]
+        ],
+        "line_start": 562,
+        "row_count": 3,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Action",
+          "How To",
+          "Result"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Resize duration**",
+            "Drag top or bottom edge of task block",
+            "Changes end time in markdown"
+          ],
+          [
+            "**Move time slot**",
+            "Drag entire task block up/down",
+            "Changes start time in markdown"
+          ],
+          [
+            "**Create new task**",
+            "Click and drag on empty timeline space",
+            "Creates new task block (Week Planner)"
+          ],
+          [
+            "**Rearrange order**",
+            "Drag task to new position",
+            "Updates task sequence in note"
+          ]
+        ],
+        "line_start": 692,
+        "row_count": 4,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Element",
+          "Description",
+          "When to Enable"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Current Task Name**",
+            "Shows active task",
+            "Always (core feature)"
+          ],
+          [
+            "**Progress Bar**",
+            "Visual time remaining",
+            "If you like visual feedback"
+          ],
+          [
+            "**Time Remaining**",
+            "Text countdown (e.g., \"25m\")",
+            "If you prefer specific numbers"
+          ],
+          [
+            "**Next Task Preview**",
+            "Upcoming task name",
+            "For planning context switches"
+          ],
+          [
+            "**Mini-Timeline**",
+            "3-hour preview",
+            "If you have status bar space"
+          ]
+        ],
+        "line_start": 802,
+        "row_count": 5,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Command",
+          "What It Does",
+          "When to Use"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "`Show Timeline`",
+            "Opens timeline in sidebar",
+            "Start of day, need current view"
+          ],
+          [
+            "`Show Week Planner`",
+            "Opens week planner view",
+            "Weekly planning sessions"
+          ],
+          [
+            "`Start clock`",
+            "Begins time tracking",
+            "Starting a task"
+          ],
+          [
+            "`Stop clock`",
+            "Ends time tracking",
+            "Finishing a task"
+          ],
+          [
+            "`Add Day Planner for today`",
+            "Inserts template in note",
+            "Setting up new daily note"
+          ]
+        ],
+        "line_start": 826,
+        "row_count": 5,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Principle",
+          "Implementation",
+          "Rationale"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**90-minute max**",
+            "Break deep work into 60-90 min blocks",
+            "Cognitive capacity limit"
+          ],
+          [
+            "**Clear outcome**",
+            "\"Draft section 3\" not \"work on paper\"",
+            "Concrete target aids focus"
+          ],
+          [
+            "**Pre-session prep**",
+            "Materials ready, know next step",
+            "Reduces activation energy"
+          ],
+          [
+            "**Break between sessions**",
+            "10-15 min walk/stretch",
+            "Mental reset, prevents burnout"
+          ],
+          [
+            "**Post-session capture**",
+            "5-min reflection note",
+            "Captures insights, plans next session"
+          ]
+        ],
+        "line_start": 1007,
+        "row_count": 5,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Setting",
+          "Options",
+          "Recommendation"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Timeline Zoom Level**",
+            "0.5 - 3.0",
+            "Start with 1.0, adjust based on daily task count"
+          ],
+          [
+            "**Show Current Time**",
+            "ON/OFF",
+            "ON—provides temporal anchoring"
+          ],
+          [
+            "**Colorful Timeline**",
+            "ON/OFF",
+            "ON—improves source differentiation"
+          ],
+          [
+            "**Show Progress on Tasks**",
+            "ON/OFF",
+            "Personal preference (adds visual clutter vs. helpful feedback)"
+          ]
+        ],
+        "line_start": 1099,
+        "row_count": 4,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Setting",
+          "Effect",
+          "Use Case"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Show in Status Bar**",
+            "Toggle entire status bar feature",
+            "Disable if you want minimal UI"
+          ],
+          [
+            "**Show Progress Bar**",
+            "Visual time remaining indicator",
+            "Enable if you prefer visual feedback"
+          ],
+          [
+            "**Show Next Task**",
+            "Preview upcoming task",
+            "Enable for context switching awareness"
+          ],
+          [
+            "**Mini-Timeline**",
+            "3-hour upcoming tasks preview",
+            "Enable if you have horizontal space"
+          ]
+        ],
+        "line_start": 1111,
+        "row_count": 4,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Setting",
+          "Description",
+          "Notes"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Calendars**",
+            "Manage ICS feed URLs",
+            "Add/edit/remove calendar integrations"
+          ],
+          [
+            "**Refresh Interval**",
+            "How often to check for calendar updates",
+            "Default 15 min (balance freshness vs. API limits)"
+          ],
+          [
+            "**Show Calendar Events**",
+            "Toggle event display in timeline",
+            "Disable if calendars clutter your view"
+          ]
+        ],
+        "line_start": 1127,
+        "row_count": 3,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Setting",
+          "Purpose",
+          "Recommendation"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Show Clocks in Timeline**",
+            "Enable tracked time column",
+            "ON if you use time tracking"
+          ],
+          [
+            "**Active Clock Display**",
+            "Show running clock in sidebar",
+            "ON—provides accountability"
+          ],
+          [
+            "**Auto-Complete on Clock Stop**",
+            "Mark task done when clock stops",
+            "Personal preference"
+          ]
+        ],
+        "line_start": 1132,
+        "row_count": 3,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Setting",
+          "Description",
+          "Impact"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Dataview Filter**",
+            "(Legacy) Custom query for task discovery",
+            "No longer needed in recent versions—auto-discovery"
+          ],
+          [
+            "**Show Vault Tasks**",
+            "Display tasks from non-daily notes",
+            "ON for full task visibility"
+          ]
+        ],
+        "line_start": 1143,
+        "row_count": 2,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Feature",
+          "Desktop",
+          "Mobile"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Timeline View**",
+            "✅ Full support",
+            "⚠️ Limited (may be sluggish)"
+          ],
+          [
+            "**Week Planner**",
+            "✅ Full support",
+            "❌ Not available or very limited"
+          ],
+          [
+            "**Drag-and-Drop**",
+            "✅ Full support",
+            "❌ Not supported"
+          ],
+          [
+            "**Notifications**",
+            "✅ Native OS notifications",
+            "❌ No notifications"
+          ],
+          [
+            "**Time Tracking**",
+            "✅ Full clock controls",
+            "⚠️ Manual property editing only"
+          ],
+          [
+            "**Calendar Sync**",
+            "✅ ICS integration",
+            "⚠️ Events visible but not editable"
+          ]
+        ],
+        "line_start": 1268,
+        "row_count": 6,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Plugin",
+          "Integration Point",
+          "Benefit"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**[[Tasks Plugin]]**",
+            "Scheduled task discovery",
+            "Vault-wide task scheduling"
+          ],
+          [
+            "**[[dataview]]**",
+            "Task queries, clock analysis",
+            "Advanced task filtering, time analytics"
+          ],
+          [
+            "**[[Templater]]**",
+            "Daily note automation",
+            "Auto-insert Day Planner sections"
+          ],
+          [
+            "**[[Calendar Plugin]]**",
+            "Date navigation",
+            "Quick jump to specific daily notes"
+          ],
+          [
+            "**[[Periodic Notes]]**",
+            "Weekly/monthly notes",
+            "Extended planning beyond daily"
+          ]
+        ],
+        "line_start": 1302,
+        "row_count": 5,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Plugin",
+          "Issue",
+          "Workaround"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**[[Full Calendar]]**",
+            "Both provide calendar views",
+            "Choose one as primary, disable unused views"
+          ],
+          [
+            "**[[Toggl Track]]**",
+            "Duplicate time tracking",
+            "Use one system (either Day Planner clocks or Toggl)"
+          ],
+          [
+            "**[[Kanban]]**",
+            "Different task visualization paradigm",
+            "Use Kanban for project status, Day Planner for time allocation"
+          ]
+        ],
+        "line_start": 1316,
+        "row_count": 3,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Need",
+          "Plugin",
+          "How It Helps"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Recurring Tasks**",
+            "[[Tasks Plugin]]",
+            "Define recurrence patterns (daily, weekly, etc.)"
+          ],
+          [
+            "**Pomodoro Timing**",
+            "[[PomoBar]]",
+            "25/5 work/break timers"
+          ],
+          [
+            "**Calendar Export**",
+            "[[iCal Plugin]]",
+            "Export Obsidian tasks to external calendars"
+          ],
+          [
+            "**Weekly/Monthly Planning**",
+            "[[Periodic Notes]]",
+            "Extend time-boxing beyond daily notes"
+          ],
+          [
+            "**Habit Tracking**",
+            "[[Heatmap Calendar]]",
+            "Visualize consistency over time"
+          ],
+          [
+            "**Project Management**",
+            "[[Kanban]]",
+            "Track project phases, not just daily tasks"
+          ],
+          [
+            "**Advanced Time Tracking**",
+            "[[Obsidian Simple Time Tracker]]",
+            "More sophisticated tracking features"
+          ]
+        ],
+        "line_start": 1449,
+        "row_count": 7,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "headers": [
+          "Command",
+          "Suggested Hotkey",
+          "Rationale"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Open Today's Note**",
+            "`Cmd/Ctrl + T`",
+            "Most frequent action, deserves single key"
+          ],
+          [
+            "**Show Timeline**",
+            "`Cmd/Ctrl + Shift + T`",
+            "Related to \"Today\" key, easy muscle memory"
+          ],
+          [
+            "**Show Week Planner**",
+            "`Cmd/Ctrl + Shift + W`",
+            "\"W\" for Week, shift modifier for planning mode"
+          ],
+          [
+            "**Start Clock**",
+            "`Cmd/Ctrl + Shift + K`",
+            "\"K\" for Clock (C often taken), quick access"
+          ],
+          [
+            "**Stop Clock**",
+            "`Cmd/Ctrl + Shift + K`",
+            "Same key as start (toggle behavior)"
+          ],
+          [
+            "**Open Tomorrow's Note**",
+            "`Cmd/Ctrl + Shift + T` (if available)",
+            "Forward-planning convenience"
+          ]
+        ],
+        "line_start": 1505,
+        "row_count": 6,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      }
+    ],
+    "external_links": [
+      {
+        "display_text": "Google Calendar",
+        "url": "https://calendar.google.com",
+        "format": "markdown",
+        "line_number": 384,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "display_text": "iCloud.com",
+        "url": "https://www.icloud.com",
+        "format": "markdown",
+        "line_number": 409,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "display_text": "Outlook on the web",
+        "url": "https://outlook.live.com",
+        "format": "markdown",
+        "line_number": 436,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "display_text": "Day Planner GitHub",
+        "url": "https://github.com/ivan-lednev/obsidian-day-planner/issues",
+        "format": "markdown",
+        "line_number": 1384,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "display_text": "Obsidian Forum - Day Planner tag",
+        "url": "https://forum.obsidian.md",
+        "format": "markdown",
+        "line_number": 1385,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "display_text": "https://`",
+        "url": "https://`",
+        "format": "bare",
+        "line_number": 413,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      },
+      {
+        "display_text": "https://outlook.office365.com/owa/calendar/<CALENDAR_TOKEN",
+        "url": "https://outlook.office365.com/owa/calendar/<CALENDAR_TOKEN",
+        "format": "bare",
+        "line_number": 465,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "Open [Google Calendar](https://calendar.google.com) (web version)",
+          "indent_level": 0,
+          "line_number": 359,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Left sidebar** → Find the calendar you want to integrate",
+          "indent_level": 0,
+          "line_number": 360,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Click the three dots** (⋮) next to the calendar name",
+          "indent_level": 0,
+          "line_number": 361,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Select \"Settings and sharing\"**",
+          "indent_level": 0,
+          "line_number": 362,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Scroll down** to \"Integrate calendar\" section",
+          "indent_level": 0,
+          "line_number": 362,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Copy** the \"Secret address in iCal format\" (ends with `.ics`)",
+          "indent_level": 0,
+          "line_number": 365,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Open [iCloud.com](https://www.icloud.com) → Calendar",
+          "indent_level": 0,
+          "line_number": 388,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Click the share icon** (radio waves symbol) next to the calendar name",
+          "indent_level": 0,
+          "line_number": 389,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Enable \"Public Calendar\"**",
+          "indent_level": 0,
+          "line_number": 392,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Copy the public calendar link**",
+          "indent_level": 0,
+          "line_number": 394,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Modify the URL**: Change `webcal://` to `https://` if present",
+          "indent_level": 0,
+          "line_number": 394,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Open Calendar app",
+          "indent_level": 0,
+          "line_number": 394,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Right-click calendar name → **Share Calendar**",
+          "indent_level": 0,
+          "line_number": 394,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Enable **Public Calendar**",
+          "indent_level": 0,
+          "line_number": 395,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Copy the link provided",
+          "indent_level": 0,
+          "line_number": 396,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Open [Outlook on the web](https://outlook.live.com)",
+          "indent_level": 0,
+          "line_number": 409,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Settings (gear icon) → **View all Outlook settings**",
+          "indent_level": 0,
+          "line_number": 410,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Calendar** → **Shared calendars**",
+          "indent_level": 0,
+          "line_number": 411,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Under \"Publish a calendar\":",
+          "indent_level": 0,
+          "line_number": 412,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Open Outlook on the web (your organization's URL)",
+          "indent_level": 0,
+          "line_number": 418,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Click **Settings** (gear icon)",
+          "indent_level": 0,
+          "line_number": 420,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Calendar** → **Shared calendars**",
+          "indent_level": 0,
+          "line_number": 422,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Select calendar and permissions",
+          "indent_level": 0,
+          "line_number": 423,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Publish calendar** → Copy ICS link",
+          "indent_level": 0,
+          "line_number": 425,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Navigate to Calendar → Right-click your calendar → **Properties**",
+          "indent_level": 2,
+          "line_number": 436,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "The URL bar will contain a token (long alphanumeric string)",
+          "indent_level": 0,
+          "line_number": 437,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Extract this token and use it in the format above",
+          "indent_level": 0,
+          "line_number": 439,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Note**: This method may violate IT policies—check with your administrator",
+          "indent_level": 0,
+          "line_number": 441,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Settings → Day Planner → Display section",
+          "indent_level": 0,
+          "line_number": 777,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Toggle \"Colorful Timeline\" ON",
+          "indent_level": 0,
+          "line_number": 779,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Task blocks now use color to indicate source",
+          "indent_level": 0,
+          "line_number": 780,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Calendar Event Appears**: Meeting auto-populates from ICS feed",
+          "indent_level": 0,
+          "line_number": 974,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Create Context**: Below the meeting time block in daily note, add:",
+          "indent_level": 0,
+          "line_number": 975,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**During Meeting**: Take notes directly under the context (daily note stays open)",
+          "indent_level": 9,
+          "line_number": 976,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Post-Meeting**: Extract action items as new tasks",
+          "indent_level": 0,
+          "line_number": 978,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Vault Size**: Scanning many files for scheduled tasks is computationally expensive",
+          "indent_level": 0,
+          "line_number": 1165,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**ICS Calendars**: Multiple calendars with many events increase load time",
+          "indent_level": 0,
+          "line_number": 1167,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Dataview Queries**: Complex custom queries slow timeline rendering",
+          "indent_level": 0,
+          "line_number": 1170,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Plugin Conflicts**: Other plugins (especially heavy ones like Dataview, Templater) compete for resources",
+          "indent_level": 0,
+          "line_number": 1173,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Opens today's daily note",
+          "indent_level": 0,
+          "line_number": 1545,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Inserts Day Planner template",
+          "indent_level": 0,
+          "line_number": 1547,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Opens timeline view",
+          "indent_level": 0,
+          "line_number": 1550,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Opens Week Planner in second pane",
+          "indent_level": 0,
+          "line_number": 1550,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Generates a weekly overview note",
+          "indent_level": 0,
+          "line_number": 1559,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Lists all daily notes for the week",
+          "indent_level": 0,
+          "line_number": 1559,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Aggregates all scheduled tasks from the week",
+          "indent_level": 0,
+          "line_number": 1560,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Provides space for weekly theme and goals",
+          "indent_level": 0,
+          "line_number": 1561,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**[[Timeboxing Methodology]]**",
+          "indent_level": 0,
+          "line_number": 1599,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**[[Tasks Plugin for Obsidian]]**",
+          "indent_level": 0,
+          "line_number": 1620,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**[[Calendar Integration Strategies (ICS Feeds)]]**",
+          "indent_level": 0,
+          "line_number": 1638,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**[[Personal Knowledge Management (PKM) Daily Note Systems]]**",
+          "indent_level": 0,
+          "line_number": 1663,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "[x] Dataview plugin is enabled  [completion:: 2025-11-16]",
+          "indent_level": 0,
+          "line_number": 97,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[x] Daily Notes or Periodic Notes is enabled and configured  [completion:: 2025-11-16]",
+          "indent_level": 0,
+          "line_number": 99,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[x] Day Planner plugin is installed and enabled  [completion:: 2025-11-16]",
+          "indent_level": 0,
+          "line_number": 100,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[x] You can create a daily note successfully  [completion:: 2025-11-16]",
+          "indent_level": 0,
+          "line_number": 101,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[x] Command Palette shows Day Planner commands (Cmd/Ctrl + P → search \"Day Planner\")  [completion:: 2025-11-16]",
+          "indent_level": 0,
+          "line_number": 102,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Visual Drag-and-Drop**: Create tasks by clicking and dragging on empty time slots",
+          "indent_level": 0,
+          "line_number": 161,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Cross-Day Overview**: See patterns in your weekly rhythm",
+          "indent_level": 0,
+          "line_number": 163,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Resize Interface**: Adjust time block duration by dragging edges",
+          "indent_level": 0,
+          "line_number": 164,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Direct Editing**: Double-click tasks to edit details inline",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Automatic refresh**: Updates based on plugin settings",
+          "indent_level": 0,
+          "line_number": 299,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Shared calendars**: You can add ICS links for calendars others have shared with you",
+          "indent_level": 0,
+          "line_number": 382,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Refresh rate**: Day Planner typically checks for updates every 15-30 minutes (configurable)",
+          "indent_level": 0,
+          "line_number": 385,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Select the calendar",
+          "indent_level": 1,
+          "line_number": 413,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Choose permission level",
+          "indent_level": 1,
+          "line_number": 413,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Copy the ICS link**",
+          "indent_level": 1,
+          "line_number": 415,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Tasks that took longer than planned (overruns)",
+          "indent_level": 0,
+          "line_number": 587,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Tasks completed faster than planned (efficiency)",
+          "indent_level": 0,
+          "line_number": 587,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Gaps between planned and actual (context switching)",
+          "indent_level": 0,
+          "line_number": 590,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Current task name**",
+          "indent_level": 0,
+          "line_number": 595,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Elapsed time** (updates in real-time)",
+          "indent_level": 0,
+          "line_number": 595,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Start time**",
+          "indent_level": 0,
+          "line_number": 597,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Stop/Cancel controls**",
+          "indent_level": 0,
+          "line_number": 597,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Unbalanced weeks**: Monday overloaded, Friday underutilized → redistribute",
+          "indent_level": 0,
+          "line_number": 1067,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Meeting clusters**: Back-to-back meetings with no prep time → reschedule",
+          "indent_level": 0,
+          "line_number": 1068,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**No focus blocks**: Week is all meetings → block focus time or defer meetings",
+          "indent_level": 0,
+          "line_number": 1071,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Missing recovery**: No breaks between intense days → add rest",
+          "indent_level": 0,
+          "line_number": 1073,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[ ] Timeline view is open (Command Palette → \"Show Timeline\")",
+          "indent_level": 0,
+          "line_number": 1222,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[ ] ICS URL ends with `.ics` (not just a web link)",
+          "indent_level": 0,
+          "line_number": 1224,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[ ] ICS URL works in browser (paste URL, should download/show calendar data)",
+          "indent_level": 0,
+          "line_number": 1228,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[ ] Calendar is published/shared with appropriate permissions",
+          "indent_level": 0,
+          "line_number": 1228,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[ ] Sufficient time has passed for first refresh (check refresh interval setting)",
+          "indent_level": 0,
+          "line_number": 1232,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[ ] No authentication required (ICS format is read-only, public access only)",
+          "indent_level": 0,
+          "line_number": 1234,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[ ] You stopped the clock (not just closed Obsidian with clock running)",
+          "indent_level": 0,
+          "line_number": 1236,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[ ] Task has proper checkbox syntax (`- [ ]`)",
+          "indent_level": 0,
+          "line_number": 1237,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[ ] Note is saved (Obsidian auto-saves, but check for unsaved indicator)",
+          "indent_level": 0,
+          "line_number": 1237,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "[ ] Dataview properties are writable (not in a code block or comment)",
+          "indent_level": 0,
+          "line_number": 1241,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Day Planner respects Obsidian's \"Week Start\" setting",
+          "indent_level": 0,
+          "line_number": 1244,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Settings → General → \"Week starts on\" → Verify it matches your preference (Sunday vs. Monday)",
+          "indent_level": 0,
+          "line_number": 1244,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Read-only mode**: You're in preview mode, not edit mode",
+          "indent_level": 0,
+          "line_number": 1246,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Source conflict**: Trying to edit ICS calendar events (which are read-only)",
+          "indent_level": 0,
+          "line_number": 1246,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Mobile**: Drag-and-drop is desktop-only feature",
+          "indent_level": 0,
+          "line_number": 1251,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Theme conflict**: Some themes interfere with drag functionality (try default theme)",
+          "indent_level": 0,
+          "line_number": 1252,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Quick notes** during tasks (add context to existing blocks)",
+          "indent_level": 0,
+          "line_number": 1282,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Planning** (Week Planner, drag-and-drop)",
+          "indent_level": 0,
+          "line_number": 1286,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Time tracking** (clock controls)",
+          "indent_level": 0,
+          "line_number": 1288,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Calendar integration setup**",
+          "indent_level": 0,
+          "line_number": 1288,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Morning Ritual**: Link planning to existing habit (e.g., \"I plan day while drinking coffee\")",
+          "indent_level": 0,
+          "line_number": 1395,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Status Bar Reminder**: If status bar shows no tasks, it's a visual cue you haven't planned",
+          "indent_level": 0,
+          "line_number": 1399,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Buffer Time**: Schedule only 60-70% of available time, leaving flexibility",
+          "indent_level": 0,
+          "line_number": 1404,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Rapid Rescheduling**: Use drag-and-drop in timeline to quickly adjust",
+          "indent_level": 0,
+          "line_number": 1405,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Accept Imperfection**: Timeboxing is aspirational, not prescriptive—adapt as needed",
+          "indent_level": 0,
+          "line_number": 1406,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Reality-Based Planning**: Track actual time with clocks, compare to estimates, adjust future plans",
+          "indent_level": 0,
+          "line_number": 1413,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Fixed Horizon**: Hard stop time (e.g., \"Work ends at 6 PM\") forces realistic planning",
+          "indent_level": 0,
+          "line_number": 1416,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Communication**: Make focus blocks visible to team (calendar blocking, Slack status)",
+          "indent_level": 0,
+          "line_number": 1434,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Interruption Log**: Use daily note to capture interruptions—data to advocate for protected time",
+          "indent_level": 0,
+          "line_number": 1435,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Response Time Expectations**: \"I check Slack every 2 hours\"—sets boundaries",
+          "indent_level": 0,
+          "line_number": 1436,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Start Small**: Time-box just 2-3 critical tasks per day, leave rest flexible",
+          "indent_level": 0,
+          "line_number": 1439,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**External Accountability**: Share your plan with a colleague or accountability partner",
+          "indent_level": 0,
+          "line_number": 1443,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Review Habit**: End-of-day review (\"What worked? What didn't?\") increases commitment",
+          "indent_level": 0,
+          "line_number": 1445,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Intrinsic Motivation**: Ensure tasks align with your values—easier to follow plan you believe in",
+          "indent_level": 0,
+          "line_number": 1446,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Day Planner commands start with \"Day Planner:\", so typing \"day\" filters them immediately",
+          "indent_level": 0,
+          "line_number": 1535,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Obsidian remembers recently-used commands—most-used commands rise to the top",
+          "indent_level": 0,
+          "line_number": 1537,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Alias commands: Some commands have short aliases (e.g., \"timeline\" instead of \"Show the Day Planner Timeline\")",
+          "indent_level": 0,
+          "line_number": 1539,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Counts completed vs. planned tasks",
+          "indent_level": 0,
+          "line_number": 1566,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Calculates total tracked time",
+          "indent_level": 0,
+          "line_number": 1568,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "Appends summary statistics to daily note",
+          "indent_level": 0,
+          "line_number": 1568,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**What You Did**: Look back at all completed tasks",
+          "indent_level": 0,
+          "line_number": 1582,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Time Analysis**: Use Dataview to query total hours tracked per project",
+          "indent_level": 0,
+          "line_number": 1582,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Planning Accuracy**: Compare planned vs. actual time (improve estimates)",
+          "indent_level": 0,
+          "line_number": 1583,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "**Pattern Recognition**: Which days had best focus? What enabled it?",
+          "indent_level": 0,
+          "line_number": 1584,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "*Connection*: Day Planner is the implementation tool; timeboxing is the underlying philosophy",
+          "indent_level": 1,
+          "line_number": 1601,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "*Depth Potential*: Historical origins (time management evolution), psychological research on time-bounded work, comparison with other productivity frameworks",
+          "indent_level": 1,
+          "line_number": 1605,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Core concept node connecting productivity, scheduling, and cognitive psychology domains",
+          "indent_level": 1,
+          "line_number": 1615,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "*Connection*: Day Planner's most important integration partner for vault-wide task discovery",
+          "indent_level": 1,
+          "line_number": 1623,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "*Depth Potential*: Full Tasks plugin capabilities (recurrence, queries, filtering, custom statuses), optimal configuration for Day Planner synergy",
+          "indent_level": 1,
+          "line_number": 1631,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Technical integration node linking task management with temporal scheduling",
+          "indent_level": 1,
+          "line_number": 1635,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "*Connection*: External calendar synchronization is Day Planner's gateway to unified scheduling",
+          "indent_level": 1,
+          "line_number": 1640,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "*Depth Potential*: ICS protocol details, multi-calendar management, privacy considerations, alternative sync methods (CalDAV, native apps)",
+          "indent_level": 1,
+          "line_number": 1643,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Cross-tool interoperability node connecting Obsidian ecosystem with external productivity tools",
+          "indent_level": 1,
+          "line_number": 1651,
+          "source": "reference-comprehensive-day-planner-202511160430.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{e.time}",
+        "format": "inline",
+        "line_number": 1732,
+        "source": "reference-comprehensive-day-planner-202511160430.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Analysis Framework Template",
+      "Calendar Integration Strategies (ICS Feeds)",
+      "Calendar Plugin",
+      "Circadian Rhythms",
+      "Command Palette",
+      "Community Plugin",
+      "Daily Notes",
+      "Dataview Plugin",
+      "Do Not Disturb",
+      "Follow-Up Task",
+      "Full Calendar",
+      "GTD Weekly Review",
+      "Google Calendar",
+      "Heatmap Calendar",
+      "Kanban",
+      "Morgen Tasks",
+      "Most Important Task",
+      "Obsidian Simple Time Tracker",
+      "Outlook",
+      "Periodic Notes",
+      "Personal Knowledge Management (PKM) Daily Note Systems",
+      "Planning Fallacy",
+      "PomoBar",
+      "PomoBar Plugin",
+      "Previous Q3 Retrospective",
+      "Project Apollo",
+      "Project Beta",
+      "Project Phoenix",
+      "Project X",
+      "Q3 Dataset",
+      "Q4 Strategy Document",
+      "Quarterly Planning",
+      "Quarterly Report",
+      "System Architecture Doc",
+      "Tasks Plugin",
+      "Tasks Plugin for Obsidian",
+      "Technical Requirements",
+      "Templater",
+      "Things 3",
+      "Timeboxing Methodology",
+      "Todoist",
+      "Toggl Track",
+      "Wiki-Links",
+      "Wrike",
+      "component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738",
+      "dataview",
+      "iCal Plugin",
+      "iCloud Calendar",
+      "obsidian",
+      "obsidian-ics",
+      "parkinson's law"
+    ],
+    "unique_wiki_link_count": 51,
+    "unique_tags": [
+      "#admin",
+      "#daily-plan",
+      "#deep-work",
+      "#meetings"
+    ],
+    "unique_tag_count": 4,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Analysis Framework Template",
+      "Calendar Integration Strategies (ICS Feeds)",
+      "Calendar Plugin",
+      "Circadian Rhythms",
+      "Command Palette",
+      "Community Plugin",
+      "Daily Notes",
+      "Dataview Plugin",
+      "Do Not Disturb",
+      "Follow-Up Task",
+      "Full Calendar",
+      "GTD Weekly Review",
+      "Google Calendar",
+      "Heatmap Calendar",
+      "Kanban",
+      "Morgen Tasks",
+      "Most Important Task",
+      "Obsidian Simple Time Tracker",
+      "Outlook",
+      "Periodic Notes",
+      "Personal Knowledge Management (PKM) Daily Note Systems",
+      "Planning Fallacy",
+      "PomoBar",
+      "PomoBar Plugin",
+      "Previous Q3 Retrospective",
+      "Project Apollo",
+      "Project Beta",
+      "Project Phoenix",
+      "Project X",
+      "Q3 Dataset",
+      "Q4 Strategy Document",
+      "Quarterly Planning",
+      "Quarterly Report",
+      "System Architecture Doc",
+      "Tasks Plugin",
+      "Tasks Plugin for Obsidian",
+      "Technical Requirements",
+      "Templater",
+      "Things 3",
+      "Timeboxing Methodology",
+      "Todoist",
+      "Toggl Track",
+      "Wiki-Links",
+      "Wrike",
+      "component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738",
+      "dataview",
+      "iCal Plugin",
+      "iCloud Calendar",
+      "obsidian",
+      "obsidian-ics",
+      "parkinson's law"
+    ]
+  }
+}

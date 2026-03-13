@@ -1,0 +1,369 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.925869",
+    "source_file": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+    "source_file_size_bytes": 6779,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Prompt Engineering for High Quality Academic Reports",
+      "id": "20251018204433",
+      "aliases": [
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": [],
+      "created": "2025-10-18T20:44:33",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "https://gemini.google.com/app/feb52b9c516d499c",
+      "tags": [
+        "source/rsca",
+        "topic",
+        "topic/educational",
+        "topic/rsca"
+      ]
+    },
+    "word_count": 881,
+    "character_count": 6282,
+    "line_count": 99,
+    "heading_count": 11
+  },
+  "extraction_summary": {
+    "total_items_extracted": 25,
+    "by_type": {
+      "headings": 11,
+      "callouts": 7,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 7,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Prompt-Engineering-for-High-Quality-Academic-Reports__🆔20251018204428",
+      "anchor": "topicsprompt-engineering-for-high-quality-academic-reports20251018204428",
+      "line_number": 23,
+      "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🧠 The Architectural Role of Personas in Advanced Prompt Design",
+      "anchor": "the-architectural-role-of-personas-in-advanced-prompt-design",
+      "line_number": 34,
+      "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "⛓️ Mastering AI Output Through Precision Constraints and Negative Space",
+      "anchor": "mastering-ai-output-through-precision-constraints-and-negative-space",
+      "line_number": 46,
+      "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "⚙️ Eliciting Reasoning: The Power of Chain-of-Thought and Self-Critique",
+      "anchor": "eliciting-reasoning-the-power-of-chain-of-thought-and-self-critique",
+      "line_number": 58,
+      "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "📚 Context is King: Optimizing Prompts with In-Context Learning",
+      "anchor": "context-is-king-optimizing-prompts-with-in-context-learning",
+      "line_number": 70,
+      "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🔄 From Monologue to Dialogue: The Process of Iterative Refinement",
+      "anchor": "from-monologue-to-dialogue-the-process-of-iterative-refinement",
+      "line_number": 82,
+      "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🏗️ The Meta-Skill: Designing Dynamic Prompt Templates for Knowledge Work",
+      "anchor": "the-meta-skill-designing-dynamic-prompt-templates-for-knowledge-work",
+      "line_number": 94,
+      "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration 🗺️",
+      "anchor": "further-exploration",
+      "line_number": 104,
+      "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "**The Architecture of Transformers**",
+          "anchor": "the-architecture-of-transformers",
+          "line_number": 108,
+          "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "**Knowledge Representation and Retrieval-Augmented Generation (RAG)**",
+          "anchor": "knowledge-representation-and-retrieval-augmented-generation-rag",
+          "line_number": 112,
+          "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "**Cognitive Science and Instructional Design**",
+          "anchor": "cognitive-science-and-instructional-design",
+          "line_number": 116,
+          "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "The following **topics** *are designed* to move beyond surface-level tricks and *delve into the core principles of controlling and shaping AI-generated content* to meet the rigorous demands of knowledge work. **Each is formulated to serve as the foundation for a comprehensive academic exposition by the Polymath Scholar AI.**",
+        "line_number": 25,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+        "char_start": 526,
+        "char_end": 872
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 32,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+        "char_start": 895,
+        "char_end": 911
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 44,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+        "char_start": 1553,
+        "char_end": 1569
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 56,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+        "char_start": 2220,
+        "char_end": 2236
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 68,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+        "char_start": 2958,
+        "char_end": 2974
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 80,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+        "char_start": 3680,
+        "char_end": 3696
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 92,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md",
+        "char_start": 4432,
+        "char_end": 4448
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Prompt-Engineering-for-High-Quality-Academic-Reports__🆔20251018204428",
+        "anchor": "topicsprompt-engineering-for-high-quality-academic-reports20251018204428",
+        "line_number": 23,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+      },
+      {
+        "level": 1,
+        "text": "🧠 The Architectural Role of Personas in Advanced Prompt Design",
+        "anchor": "the-architectural-role-of-personas-in-advanced-prompt-design",
+        "line_number": 34,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+      },
+      {
+        "level": 1,
+        "text": "⛓️ Mastering AI Output Through Precision Constraints and Negative Space",
+        "anchor": "mastering-ai-output-through-precision-constraints-and-negative-space",
+        "line_number": 46,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+      },
+      {
+        "level": 1,
+        "text": "⚙️ Eliciting Reasoning: The Power of Chain-of-Thought and Self-Critique",
+        "anchor": "eliciting-reasoning-the-power-of-chain-of-thought-and-self-critique",
+        "line_number": 58,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+      },
+      {
+        "level": 1,
+        "text": "📚 Context is King: Optimizing Prompts with In-Context Learning",
+        "anchor": "context-is-king-optimizing-prompts-with-in-context-learning",
+        "line_number": 70,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+      },
+      {
+        "level": 1,
+        "text": "🔄 From Monologue to Dialogue: The Process of Iterative Refinement",
+        "anchor": "from-monologue-to-dialogue-the-process-of-iterative-refinement",
+        "line_number": 82,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+      },
+      {
+        "level": 1,
+        "text": "🏗️ The Meta-Skill: Designing Dynamic Prompt Templates for Knowledge Work",
+        "anchor": "the-meta-skill-designing-dynamic-prompt-templates-for-knowledge-work",
+        "line_number": 94,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration 🗺️",
+        "anchor": "further-exploration",
+        "line_number": 104,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+      },
+      {
+        "level": 2,
+        "text": "**The Architecture of Transformers**",
+        "anchor": "the-architecture-of-transformers",
+        "line_number": 108,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+      },
+      {
+        "level": 2,
+        "text": "**Knowledge Representation and Retrieval-Augmented Generation (RAG)**",
+        "anchor": "knowledge-representation-and-retrieval-augmented-generation-rag",
+        "line_number": 112,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+      },
+      {
+        "level": 2,
+        "text": "**Cognitive Science and Instructional Design**",
+        "anchor": "cognitive-science-and-instructional-design",
+        "line_number": 116,
+        "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 29,
+          "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 41,
+          "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 53,
+          "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 65,
+          "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 77,
+          "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 89,
+          "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 101,
+          "source": "topic-set-prompt-engineering-for-high-quality-academic-reports-🆔20251018204428.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

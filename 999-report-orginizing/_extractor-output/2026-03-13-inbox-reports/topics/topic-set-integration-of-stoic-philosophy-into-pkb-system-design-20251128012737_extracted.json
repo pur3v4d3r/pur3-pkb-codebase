@@ -1,0 +1,650 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.875987",
+    "source_file": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+    "source_file_size_bytes": 19100,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Stoic Cognitive Architecture for Personal Knowledge Systems",
+      "id": "20251128-012751",
+      "type": "✍️topics",
+      "status": "active",
+      "source": "RSCA-v2.0-20251020224705",
+      "tags": [
+        "type/topics",
+        "source/rsca"
+      ],
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca",
+        "Stoic PKB Design",
+        "Philosophy-Driven Knowledge Systems",
+        "Cognitive Stoicism in Practice"
+      ],
+      "link-up": "[[topic-set-moc]]",
+      "link-related": [
+        "[[2025-11-28]]",
+        "[[2025-W48]]"
+      ]
+    },
+    "word_count": 2407,
+    "character_count": 18616,
+    "line_count": 150,
+    "heading_count": 2
+  },
+  "extraction_summary": {
+    "total_items_extracted": 70,
+    "by_type": {
+      "headings": 2,
+      "callouts": 10,
+      "wiki_links": 8,
+      "inline_fields": 1,
+      "definitions": 1,
+      "tags": 6,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 12,
+      "lists_unordered": 30,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 3,
+      "text": "Claude Thinking:",
+      "anchor": "claude-thinking",
+      "line_number": 28,
+      "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 160,
+      "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "prompt-used",
+        "title": "Untitled",
+        "body": "[**Prompt**:: I'm currently studying Cognitive-Science and How to architect my PKB with a cognitive foundation, based on principles found throughout cognitive-psychology and educational-psychology. I have come across Stoicism, and have really taken a fondness for the teachings, as they actually work. I want to learn more about this, and how I might employ these in my PKB system design/architecture.\n\nWhat Topics would you recommend for this, based on what my main goal is currently?]",
+        "line_number": 23,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+        "char_start": 423,
+        "char_end": 933
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set explores the systematic integration of Stoic philosophical principles into Personal Knowledge Base architecture through the lens of cognitive and educational psychology. Each topic examines how ancient Stoic practices—from the Dichotomy of Control to negative visualization—can be operationalized as structural design elements within PKB systems, creating cognitive forcing functions rather than passive information repositories. The collection bridges two millennia of wisdom, demonstrating how Stoic frameworks align with modern cognitive science around self-regulation, metacognition, bias mitigation, and sustainable high performance. These topics are designed for individuals seeking to architect knowledge systems that don't merely store information, but actively shape cognition toward resilience, clarity, and value-aligned action. The emphasis is on understanding the theoretical foundations that make Stoic practices effective, then translating those mechanisms into concrete PKB design patterns.",
+        "line_number": 99,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+        "char_start": 4787,
+        "char_end": 5828
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🏛️ The Dichotomy of Control as PKB Metacognitive Architecture\n- **Scope & Angle:** This topic examines how the foundational Stoic principle of distinguishing between what is and isn't within our control can be operationalized as a structural element of PKB design. Rather than treating the Dichotomy of Control as abstract wisdom, this explores how to encode it as a systematic decision-making filter and cognitive triage system that reduces rumination and focuses attention on actionable domains. The central question is: How can PKB architecture transform philosophical principles into automatic cognitive safeguards that prevent the waste of mental resources on uncontrollable variables? This bridges Stoic ethics with modern research on locus of control, learned helplessness, and attention allocation.",
+        "line_number": 104,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+        "char_start": 5853,
+        "char_end": 6683
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🌊 Negative Visualization and Prospective Memory Systems in PKB Planning Workflows\n- **Scope & Angle:** This topic investigates how the Stoic practice of premeditatio malorum (negative visualization) functions as a form of prospective mental simulation with inherent error-correction mechanisms, and how this ancient technique can be integrated into modern PKB planning workflows. The analysis explores the cognitive mechanisms underlying why imagining adverse outcomes improves preparedness, resilience, and gratitude, drawing connections to contemporary research on mental contrasting, implementation intentions, and scenario planning. The core inquiry asks: How can PKB systems operationalize negative visualization beyond journaling prompts to create systematic planning architectures that build robust, antifragile strategies rather than optimistically biased projections?",
+        "line_number": 112,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+        "char_start": 7198,
+        "char_end": 8098
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## ⚖️ Stoic Cardinal Virtues and Self-Determination Theory: A Unified Framework for Value-Aligned PKB Development\n- **Scope & Angle:** This topic synthesizes the four Stoic cardinal virtues (wisdom, courage, justice, temperance) with Self-Determination Theory's core psychological needs (autonomy, competence, relatedness) to create a unified theoretical framework for PKB-mediated self-development. Both systems address intrinsic motivation and value-aligned action but from different historical and disciplinary contexts. The investigation maps conceptual correspondences, examines how virtue development aligns with need satisfaction, and explores how PKB systems can be architected to simultaneously cultivate Stoic virtues and fulfill SDT needs. The central question is: How can ancient virtue ethics and modern motivational psychology be integrated into coherent PKB design principles that support sustainable, psychologically grounded self-improvement?",
+        "line_number": 120,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+        "char_start": 8688,
+        "char_end": 9668
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 📖 Stoic Daily Review Practices and Retrieval-Based Learning: Ancient Wisdom Validated by Cognitive Science\n- **Scope & Angle:** This topic examines the convergence between Stoic daily review practices (morning preparation and evening reflection) and modern learning science around retrieval practice, spaced repetition, and memory consolidation. Marcus Aurelius's Meditations and Seneca's letters describe systematic reflection protocols that unknowingly implement what cognitive psychology now identifies as optimal learning conditions. The analysis explores how these ancient practices create distributed retrieval opportunities, strengthen memory traces, and facilitate metacognitive monitoring. The central inquiry asks: How can PKB systems operationalize Stoic daily review protocols not merely as journaling exercises but as scientifically optimized spaced repetition systems that leverage retrieval effects for accelerated self-knowledge and philosophical internalization?",
+        "line_number": 128,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+        "char_start": 10250,
+        "char_end": 11253
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🔥 Amor Fati and Growth Mindset: Synthesizing Stoic Acceptance with Contemporary Resilience Frameworks\n- **Scope & Angle:** This topic explores the conceptual and practical synthesis between the Stoic principle of amor fati (love of fate) and Carol Dweck's growth mindset research, examining how both frameworks fundamentally reframe adversity as developmental opportunity rather than threat or failure. While arising from vastly different contexts—ancient philosophy and modern educational psychology—both approaches share core assumptions about the malleability of human capacity and the productive reinterpretation of setbacks. The investigation analyzes the cognitive reframing mechanisms underlying both concepts and develops PKB architectural patterns for systematically capturing, processing, and learning from adverse experiences. The central question is: How can PKB systems be designed to encode both Stoic acceptance and growth-oriented interpretation, creating resilience-building workflows rather than merely documenting failures?",
+        "line_number": 136,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+        "char_start": 11901,
+        "char_end": 12967
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🌐 Stoic Physics (Logos) and Knowledge Graph Design: From Isolated Notes to Ecological Knowledge Representation\n- **Scope & Angle:** This topic investigates how the Stoic conception of the cosmos as an interconnected, rationally ordered whole (Logos) provides philosophical grounding for knowledge graph architecture that transcends isolated note-taking. Stoic physics emphasizes universal sympathy (sympatheia tōn holōn)—the idea that all parts of the cosmos are interconnected and mutually influencing. This ancient systems thinking offers profound insights for PKB design, suggesting that knowledge representation should mirror the relational, ecological nature of reality rather than create artificial conceptual silos. The analysis explores how Stoic cosmology aligns with modern complex systems theory, network science, and ecological psychology to inform PKB graph structures. The central question is: How can Stoic principles of universal interconnection be translated into concrete PKB design patterns that create genuinely ecological knowledge representations where understanding emerges from relationships rather than isolated facts?",
+        "line_number": 144,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+        "char_start": 13563,
+        "char_end": 14730
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🧭 Stoic Oikeiōsis and Progressive Self-Expansion in PKB Scope Management\n- **Scope & Angle:** This topic examines the Stoic concept of oikeiōsis (appropriation or familiarization)—the natural expansion of concern from self to family to community to all of humanity—as a framework for managing PKB scope and preventing both excessive narrowness and overwhelming breadth. Stoic ethics describes a progressive expansion of moral consideration through concentric circles, which offers a powerful metaphor for how PKB systems should expand from core personal knowledge to increasingly broader domains of inquiry. This investigation explores how oikeiōsis provides principled guidance for determining what belongs in a PKB, how to structure progressive knowledge expansion, and how to maintain coherence while growing system complexity. The central question is: How can the Stoic model of progressive self-expansion inform PKB architecture that systematically grows from foundational self-knowledge outward toward broader domains while maintaining structural coherence and avoiding both myopic limitation and chaotic over-expansion?",
+        "line_number": 152,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+        "char_start": 15420,
+        "char_end": 16570
+      },
+      {
+        "type": "further-exploration",
+        "title": "Untitled",
+        "body": "Recommended continued study:\n- **[[Stoic Attention Training (Prosoche) and Mindfulness-Based Cognitive Therapy]]** - Examining how the Stoic practice of continuous attention to present impressions aligns with MBCT protocols and can inform real-time PKB interaction patterns\n- **[[Epictetus's Discipline of Assent and Cognitive Bias Mitigation in PKB Systems]]** - Analyzing how the systematic questioning of impressions before assent creates architectural safeguards against confirmation bias and motivated reasoning\n- **[[Stoic Apatheia and Emotional Regulation Frameworks in Knowledge Work]]** - Investigating how the Stoic ideal of freedom from destructive passions relates to modern emotional regulation research and PKB-mediated affect management\n- **[[The Stoic View From Above (Kosmotheōria) and Perspective-Taking in PKB Reflection Systems]]** - Exploring how the Stoic practice of imagining events from cosmic distance creates metacognitive distancing effects that can be operationalized in PKB review workflows\n- **[[Memento Mori and Temporal Discounting: Death Awareness as PKB Priority Calibration]]** - Examining how Stoic meditation on mortality counteracts temporal discounting biases and can inform PKB systems for value-aligned priority setting\n- **[[Stoic Cosmopolitanism and Interdisciplinary Knowledge Integration]]** - Analyzing how the Stoic conception of universal citizenship provides philosophical grounding for PKB systems that transcend disciplinary silos\n- **[[The Stoic Sage as PKB Ideal: Aspirational Models in Self-Development Systems]]** - Investigating how the Stoic conception of the ideal wise person (sophos) can inform PKB architecture that supports asymptotic improvement toward aspirational standards",
+        "line_number": 162,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md",
+        "char_start": 17257,
+        "char_end": 19038
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "2025-11-28",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2025-11-28]]",
+        "line_number": 103,
+        "section": "Claude Thinking:",
+        "context_line": "used [[2025-11-28]]",
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "target": "Stoic Attention Training (Prosoche) and Mindfulness-Based Cognitive Therapy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoic Attention Training (Prosoche) and Mindfulness-Based Cognitive Therapy]]",
+        "line_number": 164,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Stoic Attention Training (Prosoche) and Mindfulness-Based Cognitive Therapy]]** - Examining how the Stoic practice of continuous attention to present impressions aligns with MBCT protocols and can inform real-time PKB interaction patterns",
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "target": "Epictetus's Discipline of Assent and Cognitive Bias Mitigation in PKB Systems",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus's Discipline of Assent and Cognitive Bias Mitigation in PKB Systems]]",
+        "line_number": 165,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Epictetus's Discipline of Assent and Cognitive Bias Mitigation in PKB Systems]]** - Analyzing how the systematic questioning of impressions before assent creates architectural safeguards against confirmation bias and motivated reasoning",
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "target": "Stoic Apatheia and Emotional Regulation Frameworks in Knowledge Work",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoic Apatheia and Emotional Regulation Frameworks in Knowledge Work]]",
+        "line_number": 166,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Stoic Apatheia and Emotional Regulation Frameworks in Knowledge Work]]** - Investigating how the Stoic ideal of freedom from destructive passions relates to modern emotional regulation research and PKB-mediated affect management",
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "target": "The Stoic View From Above (Kosmotheōria) and Perspective-Taking in PKB Reflection Systems",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Stoic View From Above (Kosmotheōria) and Perspective-Taking in PKB Reflection Systems]]",
+        "line_number": 167,
+        "section": "Further Exploration",
+        "context_line": "> - **[[The Stoic View From Above (Kosmotheōria) and Perspective-Taking in PKB Reflection Systems]]** - Exploring how the Stoic practice of imagining events from cosmic distance creates metacognitive distancing effects that can be operationalized in PKB review workflows",
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "target": "Memento Mori and Temporal Discounting: Death Awareness as PKB Priority Calibration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Memento Mori and Temporal Discounting: Death Awareness as PKB Priority Calibration]]",
+        "line_number": 168,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Memento Mori and Temporal Discounting: Death Awareness as PKB Priority Calibration]]** - Examining how Stoic meditation on mortality counteracts temporal discounting biases and can inform PKB systems for value-aligned priority setting",
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "target": "Stoic Cosmopolitanism and Interdisciplinary Knowledge Integration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoic Cosmopolitanism and Interdisciplinary Knowledge Integration]]",
+        "line_number": 169,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Stoic Cosmopolitanism and Interdisciplinary Knowledge Integration]]** - Analyzing how the Stoic conception of universal citizenship provides philosophical grounding for PKB systems that transcend disciplinary silos",
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "target": "The Stoic Sage as PKB Ideal: Aspirational Models in Self-Development Systems",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Stoic Sage as PKB Ideal: Aspirational Models in Self-Development Systems]]",
+        "line_number": 170,
+        "section": "Further Exploration",
+        "context_line": "> - **[[The Stoic Sage as PKB Ideal: Aspirational Models in Self-Development Systems]]** - Investigating how the Stoic conception of the ideal wise person (sophos) can inform PKB architecture that supports asymptotic improvement toward aspirational standards",
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Prompt",
+        "value": "I'm currently studying Cognitive-Science and How to architect my PKB with a cognitive foundation, based on principles found throughout cognitive-psychology and educational-psychology. I have come across Stoicism, and have really taken a fondness for the teachings, as they actually work. I want to learn more about this, and how I might employ these in my PKB system design/architecture.\n> \n> What Topics would you recommend for this, based on what my main goal is currently?",
+        "format": "bracket",
+        "line_number": 24,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "stoicism",
+        "full_tag": "#stoicism",
+        "hierarchy": [
+          "stoicism"
+        ],
+        "line_number": 96,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "tag": "pkb-design",
+        "full_tag": "#pkb-design",
+        "hierarchy": [
+          "pkb-design"
+        ],
+        "line_number": 96,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "tag": "cognitive-psychology",
+        "full_tag": "#cognitive-psychology",
+        "hierarchy": [
+          "cognitive-psychology"
+        ],
+        "line_number": 96,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "tag": "applied-philosophy",
+        "full_tag": "#applied-philosophy",
+        "hierarchy": [
+          "applied-philosophy"
+        ],
+        "line_number": 96,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "tag": "self-regulation",
+        "full_tag": "#self-regulation",
+        "hierarchy": [
+          "self-regulation"
+        ],
+        "line_number": 96,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "tag": "knowledge-architecture",
+        "full_tag": "#knowledge-architecture",
+        "hierarchy": [
+          "knowledge-architecture"
+        ],
+        "line_number": 96,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 3,
+        "text": "Claude Thinking:",
+        "anchor": "claude-thinking",
+        "line_number": 28,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 160,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "Prompt",
+        "definition": "I'm currently studying Cognitive-Science and How to architect my PKB with a cognitive foundation, based on principles found throughout cognitive-psychology and educational-psychology. I have come across Stoicism, and have really taken a fondness for the teachings, as they actually work. I want to learn more about this, and how I might employ these in my PKB system design/architecture.\n> \n> What Topics would you recommend for this, based on what my main goal is currently?",
+        "line_number": 24,
+        "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+      }
+    ],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "Historical Context & Intellectual Lineage",
+          "indent_level": 0,
+          "line_number": 40,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "Foundational Principles (The \"Why\")",
+          "indent_level": 0,
+          "line_number": 41,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "Mechanisms & Processes (The \"How\")",
+          "indent_level": 0,
+          "line_number": 42,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "Evidence & Manifestations (The \"What\")",
+          "indent_level": 0,
+          "line_number": 43,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "Broader Implications & Significance (The \"So What\")",
+          "indent_level": 0,
+          "line_number": 44,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "**Stoic Cognitive Reframing + PKB Architecture**",
+          "indent_level": 0,
+          "line_number": 55,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "**Negative Visualization as PKB Planning Tool**",
+          "indent_level": 0,
+          "line_number": 60,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "**Stoic Virtue Ethics + Self-Determination Theory Integration**",
+          "indent_level": 0,
+          "line_number": 65,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "**The Dichotomy of Control as Metacognitive Filter**",
+          "indent_level": 0,
+          "line_number": 70,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "**Stoic Journaling Practices + Spaced Repetition Systems**",
+          "indent_level": 0,
+          "line_number": 75,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "**Amor Fati + Growth Mindset Synthesis**",
+          "indent_level": 0,
+          "line_number": 80,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "**Stoic Physics (Logos) + Systems Thinking**",
+          "indent_level": 0,
+          "line_number": 85,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "Type: topic_generation (for future report writing)",
+          "indent_level": 0,
+          "line_number": 33,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "User Context: PKB architect studying cognitive-psychology, educational-psychology, and now exploring Stoicism",
+          "indent_level": 0,
+          "line_number": 34,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "Core Goal: Integration of Stoic philosophy into PKB system design/architecture with cognitive foundations",
+          "indent_level": 0,
+          "line_number": 35,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "Output Format: Must follow the strict output_format specified in the persona prompt",
+          "indent_level": 0,
+          "line_number": 36,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "Stoic philosophy (Dichotomy of Control, negative visualization, virtue ethics, etc.)",
+          "indent_level": 0,
+          "line_number": 48,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "PKB/Obsidian system design",
+          "indent_level": 0,
+          "line_number": 49,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "Cognitive psychology principles",
+          "indent_level": 0,
+          "line_number": 50,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "Educational psychology frameworks",
+          "indent_level": 0,
+          "line_number": 51,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "Self-regulation and metacognition",
+          "indent_level": 0,
+          "line_number": 52,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "WHY: Stoic practices are fundamentally cognitive reframing tools that align with modern cognitive-behavioral approaches",
+          "indent_level": 1,
+          "line_number": 57,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "HOW: How can PKB structure encode Stoic dichotomies to create forcing functions for rational assessment?",
+          "indent_level": 1,
+          "line_number": 58,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "SO WHAT: This creates a PKB that actively resists cognitive distortions through architectural design",
+          "indent_level": 1,
+          "line_number": 59,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "WHY: Premeditatio malorum is essentially prospective mental simulation with error-correction",
+          "indent_level": 1,
+          "line_number": 62,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "HOW: How can PKB systems operationalize negative visualization in planning workflows?",
+          "indent_level": 1,
+          "line_number": 63,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "SO WHAT: Transforms planning from optimistic projection to robust scenario analysis",
+          "indent_level": 1,
+          "line_number": 64,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "WHY: Both frameworks address intrinsic motivation and value-aligned action",
+          "indent_level": 1,
+          "line_number": 67,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "HOW: How do Stoic cardinal virtues map to SDT's autonomy/competence/relatedness?",
+          "indent_level": 1,
+          "line_number": 68,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "SO WHAT: Creates theoretically grounded framework for PKB-mediated self-development",
+          "indent_level": 1,
+          "line_number": 69,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "WHY: Stoic control dichotomy is a cognitive triage system for attention allocation",
+          "indent_level": 1,
+          "line_number": 72,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "HOW: How can PKB architecture encode this as a systematic decision-making filter?",
+          "indent_level": 1,
+          "line_number": 73,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "SO WHAT: Reduces cognitive load by eliminating rumination on uncontrollable variables",
+          "indent_level": 1,
+          "line_number": 74,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "WHY: Daily Stoic review (morning/evening meditation) is a form of retrieval practice",
+          "indent_level": 1,
+          "line_number": 77,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "HOW: How do ancient practices align with modern learning science around memory consolidation?",
+          "indent_level": 1,
+          "line_number": 78,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "SO WHAT: Ancient wisdom validated by cognitive science creates powerful PKB workflows",
+          "indent_level": 1,
+          "line_number": 79,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "WHY: Both frameworks reframe adversity as developmental opportunity",
+          "indent_level": 1,
+          "line_number": 82,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "HOW: How can PKB systems capture and process setbacks through this dual lens?",
+          "indent_level": 1,
+          "line_number": 83,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "SO WHAT: Creates resilience-building architecture rather than mere information storage",
+          "indent_level": 1,
+          "line_number": 84,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "WHY: Stoic conception of natural order parallels modern complex systems theory",
+          "indent_level": 1,
+          "line_number": 87,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "HOW: How does understanding interconnection inform PKB knowledge graph design?",
+          "indent_level": 1,
+          "line_number": 88,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        },
+        {
+          "text": "SO WHAT: Moves from isolated notes to ecological knowledge representation",
+          "indent_level": 1,
+          "line_number": 89,
+          "source": "topic-set-integration-of-stoic-philosophy-into-pkb-system-design-20251128012737.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "2025-11-28",
+      "Epictetus's Discipline of Assent and Cognitive Bias Mitigation in PKB Systems",
+      "Memento Mori and Temporal Discounting: Death Awareness as PKB Priority Calibration",
+      "Stoic Apatheia and Emotional Regulation Frameworks in Knowledge Work",
+      "Stoic Attention Training (Prosoche) and Mindfulness-Based Cognitive Therapy",
+      "Stoic Cosmopolitanism and Interdisciplinary Knowledge Integration",
+      "The Stoic Sage as PKB Ideal: Aspirational Models in Self-Development Systems",
+      "The Stoic View From Above (Kosmotheōria) and Perspective-Taking in PKB Reflection Systems"
+    ],
+    "unique_wiki_link_count": 8,
+    "unique_tags": [
+      "#applied-philosophy",
+      "#cognitive-psychology",
+      "#knowledge-architecture",
+      "#pkb-design",
+      "#self-regulation",
+      "#stoicism"
+    ],
+    "unique_tag_count": 6,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "2025-11-28",
+      "Epictetus's Discipline of Assent and Cognitive Bias Mitigation in PKB Systems",
+      "Memento Mori and Temporal Discounting: Death Awareness as PKB Priority Calibration",
+      "Stoic Apatheia and Emotional Regulation Frameworks in Knowledge Work",
+      "Stoic Attention Training (Prosoche) and Mindfulness-Based Cognitive Therapy",
+      "Stoic Cosmopolitanism and Interdisciplinary Knowledge Integration",
+      "The Stoic Sage as PKB Ideal: Aspirational Models in Self-Development Systems",
+      "The Stoic View From Above (Kosmotheōria) and Perspective-Taking in PKB Reflection Systems"
+    ]
+  }
+}

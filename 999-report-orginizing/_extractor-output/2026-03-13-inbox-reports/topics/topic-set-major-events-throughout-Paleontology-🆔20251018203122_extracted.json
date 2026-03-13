@@ -1,0 +1,353 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.889283",
+    "source_file": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+    "source_file_size_bytes": 5588,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Major Events throughout Paleontology",
+      "id": "20251018203146",
+      "aliases": [
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": [],
+      "created": "2025-10-18T20:31:46",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "https://gemini.google.com/gem/cd8939e7e205/dcf482a3caed5c2c",
+      "tags": [
+        "source/rsca",
+        "topic",
+        "topic/educational",
+        "topic/rsca"
+      ]
+    },
+    "word_count": 721,
+    "character_count": 5107,
+    "line_count": 90,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 27,
+    "by_type": {
+      "headings": 8,
+      "callouts": 6,
+      "wiki_links": 0,
+      "inline_fields": 1,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 12,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Major-Events-Throughout-Paleontology__🆔20251018203122",
+      "anchor": "topicsmajor-events-throughout-paleontology20251018203122",
+      "line_number": 23,
+      "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🌋 The Great Dying: Life's-Most-Severe-Extinction",
+          "anchor": "the-great-dying-lifes-most-severe-extinction",
+          "line_number": 32,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🧬 The Cambrian \"Explosion\": Inventing the Animal Kingdom",
+          "anchor": "the-cambrian-explosion-inventing-the-animal-kingdom",
+          "line_number": 44,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🦖 After the Asteroid: How Mammals Won the World",
+          "anchor": "after-the-asteroid-how-mammals-won-the-world",
+          "line_number": 56,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🦴 The Fossil Record Itself: An Imperfect History Book",
+          "anchor": "the-fossil-record-itself-an-imperfect-history-book",
+          "line_number": 68,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🚶 The First Steps: What \"Lucy\" and \"Ardi\" Reveal About Human Origins",
+          "anchor": "the-first-steps-what-lucy-and-ardi-reveal-about-human-origins",
+          "line_number": 80,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🦑 The \"Living Fossil\": Evolution's-Apparent-Standstill",
+          "anchor": "the-living-fossil-evolutions-apparent-standstill",
+          "line_number": 92,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Further Exploration",
+          "anchor": "further-exploration",
+          "line_number": 102,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 30,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+        "char_start": 575,
+        "char_end": 591
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 42,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+        "char_start": 1222,
+        "char_end": 1238
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 54,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+        "char_start": 1887,
+        "char_end": 1903
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 66,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+        "char_start": 2515,
+        "char_end": 2531
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 78,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+        "char_start": 3225,
+        "char_end": 3241
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 90,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md",
+        "char_start": 3953,
+        "char_end": 3969
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [
+      {
+        "field_name": "completion",
+        "value": "2025-10-18",
+        "format": "bracket",
+        "line_number": 27,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Major-Events-Throughout-Paleontology__🆔20251018203122",
+        "anchor": "topicsmajor-events-throughout-paleontology20251018203122",
+        "line_number": 23,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+      },
+      {
+        "level": 2,
+        "text": "🌋 The Great Dying: Life's-Most-Severe-Extinction",
+        "anchor": "the-great-dying-lifes-most-severe-extinction",
+        "line_number": 32,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+      },
+      {
+        "level": 2,
+        "text": "🧬 The Cambrian \"Explosion\": Inventing the Animal Kingdom",
+        "anchor": "the-cambrian-explosion-inventing-the-animal-kingdom",
+        "line_number": 44,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+      },
+      {
+        "level": 2,
+        "text": "🦖 After the Asteroid: How Mammals Won the World",
+        "anchor": "after-the-asteroid-how-mammals-won-the-world",
+        "line_number": 56,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+      },
+      {
+        "level": 2,
+        "text": "🦴 The Fossil Record Itself: An Imperfect History Book",
+        "anchor": "the-fossil-record-itself-an-imperfect-history-book",
+        "line_number": 68,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+      },
+      {
+        "level": 2,
+        "text": "🚶 The First Steps: What \"Lucy\" and \"Ardi\" Reveal About Human Origins",
+        "anchor": "the-first-steps-what-lucy-and-ardi-reveal-about-human-origins",
+        "line_number": 80,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+      },
+      {
+        "level": 2,
+        "text": "🦑 The \"Living Fossil\": Evolution's-Apparent-Standstill",
+        "anchor": "the-living-fossil-evolutions-apparent-standstill",
+        "line_number": 92,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+      },
+      {
+        "level": 2,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 102,
+        "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[x] **Complete?** [completion:: 2025-10-18]",
+          "indent_level": 0,
+          "line_number": 26,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 28,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 39,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 51,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 63,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 75,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 87,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 99,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        },
+        {
+          "text": "**Ichnology:** The study of **trace fossils** (like footprints, burrows, and tooth marks), which provides a direct record of animal *behavior* rather than just their bodies.",
+          "indent_level": 0,
+          "line_number": 105,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        },
+        {
+          "text": "**Paleoclimatology:** The science of reconstructing past climates using \"proxies\" like ice cores, tree rings, and the chemical composition of marine fossils.",
+          "indent_level": 0,
+          "line_number": 107,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        },
+        {
+          "text": "**Dinosaur-Bird Transition:** An exploration of the overwhelming fossil evidence (e.g., feathered dinosaurs) that reveals modern birds are the direct descendants of theropod dinosaurs.",
+          "indent_level": 0,
+          "line_number": 108,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        },
+        {
+          "text": "**Stratigraphy:** The study of rock layers (strata). This is the foundational tool paleontologists use to place fossils in their correct geological order and establish a \"relative\" timeline of life on Earth.",
+          "indent_level": 0,
+          "line_number": 109,
+          "source": "topic-set-major-events-throughout-Paleontology-🆔20251018203122.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

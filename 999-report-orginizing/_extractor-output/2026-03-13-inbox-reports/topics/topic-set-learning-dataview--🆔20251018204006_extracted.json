@@ -1,0 +1,347 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.882782",
+    "source_file": "topic-set-learning-dataview--🆔20251018204006.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-learning-dataview--🆔20251018204006.md",
+    "source_file_size_bytes": 6043,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Learning Dataview",
+      "id": "20251018204009",
+      "aliases": [
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": [],
+      "created": "2025-10-18T20:40:09",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "https://gemini.google.com/gem/cd8939e7e205/2f7426905478e87a",
+      "tags": [
+        "source/rsca",
+        "topic",
+        "topic/educational",
+        "topic/rsca"
+      ]
+    },
+    "word_count": 803,
+    "character_count": 5578,
+    "line_count": 92,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 26,
+    "by_type": {
+      "headings": 8,
+      "callouts": 7,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 11,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Learning-Dataview__🆔20251018204006",
+      "anchor": "topicslearning-dataview20251018204006",
+      "line_number": 23,
+      "source": "topic-set-learning-dataview--🆔20251018204006.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🏛️ The Bedrock and the Engine: Deconstructing the Dataview Query Language (DQL)",
+      "anchor": "the-bedrock-and-the-engine-deconstructing-the-dataview-query-language-dql",
+      "line_number": 34,
+      "source": "topic-set-learning-dataview--🆔20251018204006.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🏷️ The Unseen Architecture: Metadata Strategy as the Foundation for a Powerful Vault",
+      "anchor": "the-unseen-architecture-metadata-strategy-as-the-foundation-for-a-powerful-vault",
+      "line_number": 46,
+      "source": "topic-set-learning-dataview--🆔20251018204006.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🧩 The Data Manipulator: Mastering Advanced DQL with FLATTEN and GROUP BY",
+      "anchor": "the-data-manipulator-mastering-advanced-dql-with-flatten-and-group-by",
+      "line_number": 58,
+      "source": "topic-set-learning-dataview--🆔20251018204006.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "⚙️ Beyond the Built-in: DataviewJS as the Gateway to Advanced Scripting",
+      "anchor": "beyond-the-built-in-dataviewjs-as-the-gateway-to-advanced-scripting",
+      "line_number": 70,
+      "source": "topic-set-learning-dataview--🆔20251018204006.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "📈 From Data to Dashboard: Architecting Knowledge Systems with Dataview",
+      "anchor": "from-data-to-dashboard-architecting-knowledge-systems-with-dataview",
+      "line_number": 82,
+      "source": "topic-set-learning-dataview--🆔20251018204006.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🔗 The Central Hub: Dataview as the Integration Layer for Obsidian Workflows",
+      "anchor": "the-central-hub-dataview-as-the-integration-layer-for-obsidian-workflows",
+      "line_number": 94,
+      "source": "topic-set-learning-dataview--🆔20251018204006.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 104,
+      "source": "topic-set-learning-dataview--🆔20251018204006.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "info",
+        "title": "Untitled",
+        "body": "To facilitate a structured exploration of this powerful tool, I have curated a selection of topics. Each is framed to build your expertise comprehensively, from foundational principles to advanced application.",
+        "line_number": 25,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md",
+        "char_start": 469,
+        "char_end": 691
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 32,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md",
+        "char_start": 714,
+        "char_end": 730
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 44,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md",
+        "char_start": 1409,
+        "char_end": 1425
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 56,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md",
+        "char_start": 2189,
+        "char_end": 2205
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 68,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md",
+        "char_start": 2894,
+        "char_end": 2910
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 80,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md",
+        "char_start": 3629,
+        "char_end": 3645
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 92,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md",
+        "char_start": 4361,
+        "char_end": 4377
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Learning-Dataview__🆔20251018204006",
+        "anchor": "topicslearning-dataview20251018204006",
+        "line_number": 23,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md"
+      },
+      {
+        "level": 1,
+        "text": "🏛️ The Bedrock and the Engine: Deconstructing the Dataview Query Language (DQL)",
+        "anchor": "the-bedrock-and-the-engine-deconstructing-the-dataview-query-language-dql",
+        "line_number": 34,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md"
+      },
+      {
+        "level": 1,
+        "text": "🏷️ The Unseen Architecture: Metadata Strategy as the Foundation for a Powerful Vault",
+        "anchor": "the-unseen-architecture-metadata-strategy-as-the-foundation-for-a-powerful-vault",
+        "line_number": 46,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md"
+      },
+      {
+        "level": 1,
+        "text": "🧩 The Data Manipulator: Mastering Advanced DQL with FLATTEN and GROUP BY",
+        "anchor": "the-data-manipulator-mastering-advanced-dql-with-flatten-and-group-by",
+        "line_number": 58,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md"
+      },
+      {
+        "level": 1,
+        "text": "⚙️ Beyond the Built-in: DataviewJS as the Gateway to Advanced Scripting",
+        "anchor": "beyond-the-built-in-dataviewjs-as-the-gateway-to-advanced-scripting",
+        "line_number": 70,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md"
+      },
+      {
+        "level": 1,
+        "text": "📈 From Data to Dashboard: Architecting Knowledge Systems with Dataview",
+        "anchor": "from-data-to-dashboard-architecting-knowledge-systems-with-dataview",
+        "line_number": 82,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 The Central Hub: Dataview as the Integration Layer for Obsidian Workflows",
+        "anchor": "the-central-hub-dataview-as-the-integration-layer-for-obsidian-workflows",
+        "line_number": 94,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 104,
+        "source": "topic-set-learning-dataview--🆔20251018204006.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 29,
+          "source": "topic-set-learning-dataview--🆔20251018204006.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 41,
+          "source": "topic-set-learning-dataview--🆔20251018204006.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 53,
+          "source": "topic-set-learning-dataview--🆔20251018204006.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 65,
+          "source": "topic-set-learning-dataview--🆔20251018204006.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 77,
+          "source": "topic-set-learning-dataview--🆔20251018204006.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 89,
+          "source": "topic-set-learning-dataview--🆔20251018204006.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 101,
+          "source": "topic-set-learning-dataview--🆔20251018204006.md"
+        },
+        {
+          "text": "**Styling Dataview Outputs:** An exploration of using CSS snippets to customize the appearance of your Dataview tables and lists to better integrate them into your notes and dashboards.",
+          "indent_level": 0,
+          "line_number": 107,
+          "source": "topic-set-learning-dataview--🆔20251018204006.md"
+        },
+        {
+          "text": "**Performance and Optimization:** A look into how Dataview indexes your vault and the best practices for writing efficient queries to ensure your vault remains fast as it grows.",
+          "indent_level": 0,
+          "line_number": 109,
+          "source": "topic-set-learning-dataview--🆔20251018204006.md"
+        },
+        {
+          "text": "**The `dataview-api`:** An investigation into the plugin's underlying API, which is used by DataviewJS and other plugins (like Dataview-Charts) to access the Dataview index.",
+          "indent_level": 0,
+          "line_number": 110,
+          "source": "topic-set-learning-dataview--🆔20251018204006.md"
+        },
+        {
+          "text": "**Dataview `Views`:** A study of the (newer) \"Views\" feature, which allows you to define reusable query components using JavaScript and markdown, promoting a more modular approach to dashboard building.",
+          "indent_level": 0,
+          "line_number": 111,
+          "source": "topic-set-learning-dataview--🆔20251018204006.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

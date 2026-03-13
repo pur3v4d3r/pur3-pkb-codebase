@@ -1,0 +1,373 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.968736",
+    "source_file": "topic-set-working-memory-2025120622.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-working-memory-2025120622.md",
+    "source_file_size_bytes": 12014,
+    "processing_time_seconds": 0.002
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Working Memory",
+      "id": "20251206-224159",
+      "type": "✍️topics",
+      "status": "active",
+      "source": "RSCA-v2.0-20251020224705",
+      "tags": [
+        "type/topics",
+        "source/rsca"
+      ],
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "link-up": "[[topic-set-moc]]",
+      "link-related": [
+        "[[2025-12-06]]",
+        "[[2025-W49]]"
+      ]
+    },
+    "word_count": 1627,
+    "character_count": 11665,
+    "line_count": 162,
+    "heading_count": 3
+  },
+  "extraction_summary": {
+    "total_items_extracted": 27,
+    "by_type": {
+      "headings": 3,
+      "callouts": 12,
+      "wiki_links": 3,
+      "inline_fields": 1,
+      "definitions": 1,
+      "tags": 6,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 1
+    }
+  },
+  "document_outline": [
+    {
+      "level": 2,
+      "text": "A Pedagogical Topic Set for Working Memory",
+      "anchor": "a-pedagogical-topic-set-for-working-memory",
+      "line_number": 30,
+      "source": "topic-set-working-memory-2025120622.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 145,
+      "source": "topic-set-working-memory-2025120622.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 155,
+      "source": "topic-set-working-memory-2025120622.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "prompt-used",
+        "title": "Untitled",
+        "body": "[**Prompt**:: ]",
+        "line_number": 20,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 282,
+        "char_end": 317
+      },
+      {
+        "type": "network",
+        "title": "🔗 Network Connectivity",
+        "body": "**In-Links**:: `= length(this.file.inlinks)` | **Out-Links**:: `= length(this.file.outlinks)`\n**Network Status**:: `= choice(length(this.file.inlinks) = 0, \"🕸️ Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱 Node\"))`",
+        "line_number": 23,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 318,
+        "char_end": 586
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set provides a multi-dimensional analysis of **Working Memory**, the cognitive system responsible for temporarily holding and processing information. It moves beyond simple definitions to explore the architecture of the mind, the constraints of human processing power, and the practical implications for learning and design. The set contains 8 distinct topics, each mapped to a specific pedagogical scaffold—from the encyclopedic structure of the Baddeley-Hitch model to the problem-based application of Cognitive Load Theory in education.",
+        "line_number": 34,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 839,
+        "char_end": 1409
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🏛️*Knowledge-Driven Learning*: **The Architecture of Thought: A Comprehensive Exposition of the Baddeley-Hitch Model**\n\n**Scope & Angle:** This topic serves as the foundational \"encyclopedia entry\" for the subject. It details the structural components of the dominant model of working memory: the Central Executive, the Phonological Loop, the Visuospatial Sketchpad, and the Episodic Buffer. The angle focuses on defining the specific function, capacity, and neural correlates of each sub-component.",
+        "line_number": 41,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 1431,
+        "char_end": 1953
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "⚙️*Problem-Based Learning*: **The Bottleneck in the Classroom: Designing Instruction for Limited Capacity**\n\n**Scope & Angle:** This topic frames working memory limitations as a practical design problem. The scenario involves a classroom of students struggling with complex material due to Cognitive Load overload. The objective is to apply the \"Split-Attention Effect\" and \"Redundancy Principle\" to redesign instructional materials to minimize extraneous load and maximize germane load.",
+        "line_number": 55,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 2478,
+        "char_end": 2987
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "⚖️*Socratic Inquiry Learning*: **The Illusion of Storage: Is Working Memory a \"Place\" or a \"State\"?**\n\n**Scope & Angle:** This inquiry challenges the common assumption that working memory is a distinct \"box\" in the brain where items are stored. It explores the debate between \"Slot Models\" (fixed capacity) and \"Resource Models\" (fluid attention). The central thesis deconstructs the idea of storage, asking if working memory is simply the temporary activation of Long-Term Memory representations.",
+        "line_number": 68,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 3548,
+        "char_end": 4066
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "📖*Narrative-Driven Learning*: **The Paradigm Shift: Baddeley, Hitch, and the Rejection of the Modal Model (1974)**\n\n**Scope & Angle:** This topic tells the historical story of how Alan Baddeley and Graham Hitch overturned the dominant \"Modal Model\" (Atkinson-Shiffrin). The narrative follows their series of dual-task experiments (e.g., reasoning while repeating numbers) which proved that short-term memory wasn't a unitary gateway, but a complex, multi-component workspace.",
+        "line_number": 81,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 4575,
+        "char_end": 5071
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🌗*Comparative Analysis Learning*: **The Workspace vs. The Spotlight: Baddeley’s Multi-Component Model vs. Cowan’s Embedded Processes**\n\n**Scope & Angle:** This topic compares the two dominant theories in the field today. It contrasts Baddeley’s structural view (separate buffers for different sensory inputs) with Nelson Cowan’s attentional view (working memory is just the subset of long-term memory currently under the focus of attention). The comparison highlights how each model explains capacity limits differently.",
+        "line_number": 94,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 5598,
+        "char_end": 6141
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🧱*First-Principles Thinking*: **Deconstructing \"Chunks\": The Atomic Unit of Cognitive Capacity**\n\n**Scope & Angle:** This topic breaks down the vague concept of \"memory capacity\" to its fundamental truths. It deconstructs the \"Magic Number 7\" to reveal that capacity is actually defined by *processing speed* and *grouping mechanisms* (chunking). It rebuilds the understanding of memory not as a number of slots, but as a function of information compression.",
+        "line_number": 108,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 6678,
+        "char_end": 7157
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🕸️Systems Thinking: **The Executive Feedback Loop: How Anxiety Hijacks the System**\n\n**Scope & Angle:** This topic views Working Memory as a dynamic system heavily influenced by emotional regulation. It analyzes the reinforcing feedback loops where high cognitive load causes anxiety, anxiety consumes Executive resources (the \"Worry\" loop), which further reduces capacity, leading to performance failure.",
+        "line_number": 121,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 7701,
+        "char_end": 8127
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🔬*Case Study Method*: **Patient K.F. and the Double Dissociation of Memory**\n\n**Scope & Angle:** This topic analyzes the famous clinical case of Patient K.F., who suffered parietal lobe damage. The case is crucial because K.F. had a severely impaired working memory (digit span of 1) but intact long-term memory. This \"double dissociation\" is the empirical evidence that proves WM and LTM are separate neurological systems.",
+        "line_number": 134,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 8650,
+        "char_end": 9094
+      },
+      {
+        "type": "further-exploration",
+        "title": "Untitled",
+        "body": "Recommended continued study:\n- **Cognitive Load Theory (Sweller):** Deep dive into how instructional design interacts with working memory architecture.\n- **The n-back Task & Fluid Intelligence:** Explore the controversial literature on whether \"brain training\" games can actually expand working memory capacity and improve IQ ($G_f$).\n- **The Phonological Similarity Effect:** Understanding why sounding-alike words are harder to remember, revealing the auditory nature of the loop.\n- **Neuroscience of the Prefrontal Cortex (PFC):** The biological substrate of the \"Central Executive\" and persistent neural firing during delay tasks.",
+        "line_number": 147,
+        "source": "topic-set-working-memory-2025120622.md",
+        "char_start": 9632,
+        "char_end": 10302
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Weak Gravitational Lensing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Weak Gravitational Lensing]]",
+        "line_number": 161,
+        "section": "Further Exploration",
+        "context_line": ">   - **Topic or Idea**:: [[Weak Gravitational Lensing]]",
+        "source": "topic-set-working-memory-2025120622.md"
+      },
+      {
+        "target": "The Sunyaev-Zel'dovich Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Sunyaev-Zel'dovich Effect]]",
+        "line_number": 167,
+        "section": "Further Exploration",
+        "context_line": ">   - **Topic or Idea**:: [[The Sunyaev-Zel'dovich Effect]]",
+        "source": "topic-set-working-memory-2025120622.md"
+      },
+      {
+        "target": "Redshift-Space Distortions (RSD)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Redshift-Space Distortions (RSD)]]",
+        "line_number": 173,
+        "section": "Further Exploration",
+        "context_line": ">   - **Topic or Idea**:: [[Redshift-Space Distortions (RSD)]]",
+        "source": "topic-set-working-memory-2025120622.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Prompt",
+        "value": "",
+        "format": "bracket",
+        "line_number": 21,
+        "source": "topic-set-working-memory-2025120622.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "CognitivePsychology",
+        "full_tag": "#CognitivePsychology",
+        "hierarchy": [
+          "CognitivePsychology"
+        ],
+        "line_number": 31,
+        "source": "topic-set-working-memory-2025120622.md"
+      },
+      {
+        "tag": "Neuroscience",
+        "full_tag": "#Neuroscience",
+        "hierarchy": [
+          "Neuroscience"
+        ],
+        "line_number": 31,
+        "source": "topic-set-working-memory-2025120622.md"
+      },
+      {
+        "tag": "LearningTheory",
+        "full_tag": "#LearningTheory",
+        "hierarchy": [
+          "LearningTheory"
+        ],
+        "line_number": 31,
+        "source": "topic-set-working-memory-2025120622.md"
+      },
+      {
+        "tag": "ExecutiveFunction",
+        "full_tag": "#ExecutiveFunction",
+        "hierarchy": [
+          "ExecutiveFunction"
+        ],
+        "line_number": 31,
+        "source": "topic-set-working-memory-2025120622.md"
+      },
+      {
+        "tag": "BaddeleyModel",
+        "full_tag": "#BaddeleyModel",
+        "hierarchy": [
+          "BaddeleyModel"
+        ],
+        "line_number": 31,
+        "source": "topic-set-working-memory-2025120622.md"
+      },
+      {
+        "tag": "CognitiveLoad",
+        "full_tag": "#CognitiveLoad",
+        "hierarchy": [
+          "CognitiveLoad"
+        ],
+        "line_number": 31,
+        "source": "topic-set-working-memory-2025120622.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 2,
+        "text": "A Pedagogical Topic Set for Working Memory",
+        "anchor": "a-pedagogical-topic-set-for-working-memory",
+        "line_number": 30,
+        "source": "topic-set-working-memory-2025120622.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 145,
+        "source": "topic-set-working-memory-2025120622.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 155,
+        "source": "topic-set-working-memory-2025120622.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "Prompt",
+        "definition": "",
+        "line_number": 21,
+        "source": "topic-set-working-memory-2025120622.md"
+      }
+    ],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "G_f",
+        "format": "inline",
+        "line_number": 149,
+        "source": "topic-set-working-memory-2025120622.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Redshift-Space Distortions (RSD)",
+      "The Sunyaev-Zel'dovich Effect",
+      "Weak Gravitational Lensing"
+    ],
+    "unique_wiki_link_count": 3,
+    "unique_tags": [
+      "#BaddeleyModel",
+      "#CognitiveLoad",
+      "#CognitivePsychology",
+      "#ExecutiveFunction",
+      "#LearningTheory",
+      "#Neuroscience"
+    ],
+    "unique_tag_count": 6,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Redshift-Space Distortions (RSD)",
+      "The Sunyaev-Zel'dovich Effect",
+      "Weak Gravitational Lensing"
+    ]
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.865117",
+    "source_file": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+    "source_file_size_bytes": 7187,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Foundational Principles Black Holes Accretion and the AGN Phenomenon",
+      "id": "20251026012522",
+      "aliases": [
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": "⁉️",
+      "created": "2025-10-26T01:25:22",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "⁉️",
+      "tags": [
+        "source/rsca",
+        "topic",
+        "topic/educational",
+        "topic/rsca"
+      ]
+    },
+    "word_count": 942,
+    "character_count": 6711,
+    "line_count": 103,
+    "heading_count": 7
+  },
+  "extraction_summary": {
+    "total_items_extracted": 31,
+    "by_type": {
+      "headings": 7,
+      "callouts": 7,
+      "wiki_links": 0,
+      "inline_fields": 1,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 6,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 4
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Foundational-Principles-Black Holes-Accretion-and-the-AGN-Phenomenon_🆔20251026012459",
+      "anchor": "topicsfoundational-principles-black-holes-accretion-and-the-agn-phenomenon20251026012459",
+      "line_number": 23,
+      "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🕳️ The Defining Boundary: Event Horizons and Singularities in General Relativity",
+          "anchor": "the-defining-boundary-event-horizons-and-singularities-in-general-relativity",
+          "line_number": 42,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚙️ The Three Parameters: Black Hole Mass, Spin, and the No-Hair Theorem",
+          "anchor": "the-three-parameters-black-hole-mass-spin-and-the-no-hair-theorem",
+          "line_number": 56,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🍽️ The Fuel Source: Accretion Disks, Efficiency, and the Eddington Limit",
+          "anchor": "the-fuel-source-accretion-disks-efficiency-and-the-eddington-limit",
+          "line_number": 70,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🎭 The Unity of Diversity: The Foundational Principles of the AGN Unified Model",
+          "anchor": "the-unity-of-diversity-the-foundational-principles-of-the-agn-unified-model",
+          "line_number": 84,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🚀 The Launching Pad: Black Holes, Ergospheres, and the Extraction of Energy",
+          "anchor": "the-launching-pad-black-holes-ergospheres-and-the-extraction-of-energy",
+          "line_number": 98,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📏 The Scaling Law: The $\\text{M}-\\sigma$ Relation and SMBH Co-Evolution",
+          "anchor": "the-scaling-law-the-textm-sigma-relation-and-smbh-co-evolution",
+          "line_number": 112,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set provides a strategic foundation in the physics governing black holes and their surrounding environments. The topics focus on the core theoretical concepts necessary to understand how these extreme objects function and interact with the cosmos. Covered principles include the **defining physics of the event horizon**, the **fundamental conservation laws** that govern how BHs spin and grow, the **physical structure of the accretion disk** that fuels them, and the **unified model** that explains the diverse observational manifestations of Active Galactic Nuclei (AGN). Mastery of these principles is crucial for engaging with more advanced topics like gravitational waves, jet formation, and galaxy co-evolution.",
+        "line_number": 33,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+        "char_start": 1057,
+        "char_end": 1806
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 40,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+        "char_start": 1859,
+        "char_end": 1875
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 54,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+        "char_start": 2720,
+        "char_end": 2736
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 68,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+        "char_start": 3583,
+        "char_end": 3599
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 82,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+        "char_start": 4357,
+        "char_end": 4373
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 96,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+        "char_start": 5238,
+        "char_end": 5254
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 110,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md",
+        "char_start": 6055,
+        "char_end": 6071
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [
+      {
+        "field_name": "completion",
+        "value": "2025-10-26",
+        "format": "bracket",
+        "line_number": 38,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Foundational-Principles-Black Holes-Accretion-and-the-AGN-Phenomenon_🆔20251026012459",
+        "anchor": "topicsfoundational-principles-black-holes-accretion-and-the-agn-phenomenon20251026012459",
+        "line_number": 23,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "level": 2,
+        "text": "🕳️ The Defining Boundary: Event Horizons and Singularities in General Relativity",
+        "anchor": "the-defining-boundary-event-horizons-and-singularities-in-general-relativity",
+        "line_number": 42,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ The Three Parameters: Black Hole Mass, Spin, and the No-Hair Theorem",
+        "anchor": "the-three-parameters-black-hole-mass-spin-and-the-no-hair-theorem",
+        "line_number": 56,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "level": 2,
+        "text": "🍽️ The Fuel Source: Accretion Disks, Efficiency, and the Eddington Limit",
+        "anchor": "the-fuel-source-accretion-disks-efficiency-and-the-eddington-limit",
+        "line_number": 70,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "level": 2,
+        "text": "🎭 The Unity of Diversity: The Foundational Principles of the AGN Unified Model",
+        "anchor": "the-unity-of-diversity-the-foundational-principles-of-the-agn-unified-model",
+        "line_number": 84,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "level": 2,
+        "text": "🚀 The Launching Pad: Black Holes, Ergospheres, and the Extraction of Energy",
+        "anchor": "the-launching-pad-black-holes-ergospheres-and-the-extraction-of-energy",
+        "line_number": 98,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "level": 2,
+        "text": "📏 The Scaling Law: The $\\text{M}-\\sigma$ Relation and SMBH Co-Evolution",
+        "anchor": "the-scaling-law-the-textm-sigma-relation-and-smbh-co-evolution",
+        "line_number": 112,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "markdown",
+        "code": "An Introductory Analysis of Black Hole Metrics and Spacetime Geometry, Detailing the Foundational Principles of the Event Horizon, the Nature of the Central Singularity, and the Role of the Kerr Metric in Defining the Properties of Rotating Black Holes",
+        "line_start": 46,
+        "line_end": 48,
+        "char_count": 252,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Foundational Examination of the No-Hair Theorem, Detailing the Conserved Quantities of Black Holes (Mass, Spin, and Charge), and Analyzing the Implications of These Parameters for Modeling Extreme-Gravity Phenomena and Astrophysical Observations",
+        "line_start": 60,
+        "line_end": 62,
+        "char_count": 247,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Comprehensive Analysis of Accretion Disk Physics, Detailing the Mechanisms of Viscous Energy Release and the Foundational Principles of the Eddington Limit as the Primary Constraint on Black Hole Mass Growth and Accretion-Driven Luminosity",
+        "line_start": 74,
+        "line_end": 76,
+        "char_count": 241,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Foundational Examination of the Active Galactic Nuclei (AGN) Unified Model, Detailing the Mechanisms by which a Single Central Structure Generates Diverse Phenomenological Classes Based on the Observer's Viewing Angle and the Presence of Obscuring Material",
+        "line_start": 88,
+        "line_end": 90,
+        "char_count": 258,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Detailed Analysis of the Ergosphere and Energy Extraction from Rotating Black Holes, Detailing the Foundational Principles of the Blandford-Znajek Mechanism and its Role in Powering Relativistic Jets and Highly Energetic Outflows",
+        "line_start": 102,
+        "line_end": 104,
+        "char_count": 231,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Critical Examination of the Foundational Principles and Observational Evidence of the M-Sigma Relation, Analyzing its Significance as the Primary Indicator of Co-Evolutionary Feedback Mechanisms Between Supermassive Black Holes and their Host Galactic Bulges",
+        "line_start": 116,
+        "line_end": 118,
+        "char_count": 260,
+        "line_count": 1,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[x] **Used?** [completion:: 2025-10-26]",
+          "indent_level": 1,
+          "line_number": 37,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 46,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 58,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 64,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 75,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 86,
+          "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "\\text{M}-\\sigma",
+        "format": "inline",
+        "line_number": 100,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "expression": "\\text{M}-\\sigma",
+        "format": "inline",
+        "line_number": 103,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "expression": "M",
+        "format": "inline",
+        "line_number": 103,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      },
+      {
+        "expression": "\\sigma",
+        "format": "inline",
+        "line_number": 103,
+        "source": "topic-set-foundational-principles-black-holes-accretion-and-the-agn-phenomenon-🆔20251026012459.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

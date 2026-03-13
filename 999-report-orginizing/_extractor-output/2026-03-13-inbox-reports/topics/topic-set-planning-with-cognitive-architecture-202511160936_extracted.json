@@ -1,0 +1,384 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.923340",
+    "source_file": "topic-set-planning-with-cognitive-architecture-202511160936.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-planning-with-cognitive-architecture-202511160936.md",
+    "source_file_size_bytes": 20941,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Planning Within Cognitive Architecture: PKB Implementation Topics",
+      "id": "20251116-093749",
+      "type": "✍️topics",
+      "status": "⚡active",
+      "rating": "",
+      "source": "RSAC-v2.0🆔20251020224705",
+      "url": "",
+      "tags": [
+        "pkm",
+        "project/pur3v4d3r",
+        "cognitive-science",
+        "type/topic-set",
+        "source/llm/claude",
+        "year/2025",
+        "cognitive-science"
+      ],
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca",
+        "Cognitive Planning Framework",
+        "PKB Planning System",
+        "Theory-to-Practice Planning",
+        "Expert Learner Planning Architecture"
+      ],
+      "link-up": "[[topics_moc]]",
+      "link-related": []
+    },
+    "word_count": 2601,
+    "character_count": 20363,
+    "line_count": 181,
+    "heading_count": 1
+  },
+  "extraction_summary": {
+    "total_items_extracted": 26,
+    "by_type": {
+      "headings": 1,
+      "callouts": 9,
+      "wiki_links": 7,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 8,
+      "code_blocks": 1,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 98,
+      "source": "topic-set-planning-with-cognitive-architecture-202511160936.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set bridges the gap between your theoretical understanding of cognitive and educational psychology and the practical challenge of daily planning within your Personal Knowledge Base. These topics examine planning not as a productivity hack, but as a cognitively-informed system that aligns with how your mind actually works. Each topic explores the deep relationship between specific cognitive principles you've been studying (self-regulation, metacognition, cognitive load) and the architectural decisions required to make planning sustainable, effective, and learning-oriented. The focus is on understanding WHY certain planning approaches succeed or fail based on cognitive architecture, HOW to design PKB-based planning systems that work WITH your cognitive constraints rather than against them, and WHAT makes planning an instrument of continuous self-knowledge rather than just task management. Together, these topics provide a comprehensive framework for transforming your Obsidian vault into an active planning system grounded in cognitive science.",
+        "line_number": 37,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md",
+        "char_start": 891,
+        "char_end": 1977
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🧠 The Architecture of Implementation: Why Plans Fail at the Execution Threshold\n- **Scope & Angle:** This topic examines the cognitive gap between forming intentions and executing them, exploring why even well-constructed plans often collapse during implementation. It investigates the relationship between prospective memory, implementation intentions, and the \"intention-action gap\" documented in self-regulation research. The central question asks: What cognitive mechanisms explain planning failure despite motivation and clarity, and how can PKB design address these failure points systematically? This is not about discipline or willpower, but about understanding the cognitive architecture of execution and designing external scaffolds that bridge the gap between \"knowing what to do\" and \"actually doing it.\"",
+        "line_number": 42,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md",
+        "char_start": 2006,
+        "char_end": 2846
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🏗️ Planning as Distributed Cognition: The PKB as Extended Planning Mind\n- **Scope & Angle:** This topic explores planning through the lens of distributed cognition and extended mind theory, examining how the structure of your PKB itself becomes part of your cognitive planning system. It investigates the relationship between external cognitive artifacts (notes, templates, linked structures) and internal planning processes, questioning how the architecture of knowledge organization influences planning effectiveness. The focus is on understanding planning not as an isolated mental event but as a process distributed across mind and PKB, where the design of external structures actively shapes planning capacity, reduces cognitive load, and enables more sophisticated planning than working memory alone could support.",
+        "line_number": 50,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md",
+        "char_start": 3369,
+        "char_end": 4213
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## ⚖️ Cognitive Load Calibration: Matching Plan Granularity to Working Memory Architecture\n- **Scope & Angle:** This topic investigates the critical relationship between planning detail levels and individual cognitive capacity, exploring how working memory constraints determine optimal planning granularity. It examines why some people thrive with detailed step-by-step plans while others become paralyzed by excessive structure, connecting this to Cognitive Load Theory and individual differences in working memory capacity. The central inquiry addresses how to diagnostically determine your optimal planning resolution—the level of detail that provides sufficient structure without overwhelming limited cognitive resources—and how to implement this understanding within your PKB through adaptive planning templates and progressive detail revelation strategies.",
+        "line_number": 58,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md",
+        "char_start": 4861,
+        "char_end": 5745
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🔄 The Metacognitive Planning Loop: From Static Document to Learning Instrument\n- **Scope & Angle:** This topic reframes planning as a metacognitive practice rather than a productivity tool, examining how the plan-execute-review-calibrate cycle serves as an instrument for developing self-knowledge and metacognitive accuracy. It explores the relationship between metacognitive monitoring, calibration accuracy, and planning effectiveness, investigating how systematic reflection on planning accuracy improves both future planning and self-understanding. The focus is on transforming daily planning from a ritual of task listing into a deliberate practice system that generates data about your cognitive patterns, capacity limits, bias tendencies, and optimal working conditions—essentially using planning as an ongoing self-study methodology embedded in your PKB.",
+        "line_number": 66,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md",
+        "char_start": 6388,
+        "char_end": 7275
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🎯 Goal Hierarchies and Schema Activation: How PKB Structure Primes Daily Planning\n- **Scope & Angle:** This topic examines the relationship between long-term goal structures stored in your PKB and the daily planning process, exploring how schema theory and spreading activation explain why explicit goal hierarchies improve planning quality. It investigates how the visual and structural organization of goals, projects, and values within Obsidian influences which considerations become cognitively accessible during daily planning, essentially priming your planning process through knowledge architecture. The central question addresses how to design PKB goal structures that automatically activate relevant contextual considerations during planning, ensuring daily decisions align with longer-term intentions without requiring exhaustive conscious review of the entire goal hierarchy.",
+        "line_number": 74,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md",
+        "char_start": 8016,
+        "char_end": 8926
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🧪 Planning as Hypothesis Testing: Experimental Design for Daily Self-Optimization\n- **Scope & Angle:** This topic reframes daily planning as experimental design, exploring how scientific methodology can be applied to personal planning to systematically test hypotheses about optimal working conditions, task sequencing, and energy management. It investigates the relationship between deliberate practice principles, single-subject experimental design, and planning systems, examining how to structure daily plans as controlled experiments that generate valid data about personal productivity patterns. The focus is on moving beyond trial-and-error approaches to develop a rigorous, evidence-generating planning practice that treats each day as an opportunity to test specific hypotheses about cognitive performance, using PKB structures to track variables, control confounds, and accumulate reliable self-knowledge about what actually works for your specific cognitive profile.",
+        "line_number": 82,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md",
+        "char_start": 9708,
+        "char_end": 10709
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🌊 Temporal Dynamics and Cognitive Rhythms: Ultradian-Informed Planning Architecture\n- **Scope & Angle:** This topic explores the intersection of circadian and ultradian rhythm research with planning design, examining how natural cognitive performance fluctuations throughout the day should inform task allocation and planning structure. It investigates the relationship between chronobiology, attention restoration theory, and planning effectiveness, questioning how to align cognitively demanding tasks with peak performance windows while respecting natural energy cycles. The focus is on moving beyond arbitrary time-blocking to develop biologically-informed planning that honors ultradian cycles (90-120 minute performance waves), circadian rhythms, and attention depletion patterns, with specific application to creating PKB planning templates that dynamically adapt to temporal cognitive capacity rather than imposing rigid schedules that fight against natural biological rhythms.",
+        "line_number": 90,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md",
+        "char_start": 11548,
+        "char_end": 12557
+      },
+      {
+        "type": "further-exploration",
+        "title": "Untitled",
+        "body": "Recommended continued study:\n- **[[Implementation Intentions and WOOP Model]]** - Specific research on Gabriele Oettingen's mental contrasting with implementation intentions (MCII) methodology and how to structure IF-THEN planning rules within PKB templates for maximum automaticity\n- **[[Prospective Memory Systems and External Cues]]** - The cognitive neuroscience of remembering to remember, examining how event-based and time-based prospective memory cues can be embedded in PKB architecture to trigger planned actions without depleting working memory\n- **[[Energy Management vs. Time Management Paradigm]]** - Tony Schwartz's research on performance pulse and how energy renewal cycles should supersede traditional time management in knowledge work planning systems\n- **[[Interleaving and Task Switching Costs in Knowledge Work]]** - The relationship between task switching, attention residue (Sophie Leroy), and planning structures that minimize cognitive switching costs while preserving the learning benefits of interleaved practice\n- **[[Self-Determination Theory and Autonomous Planning]]** - How competence, autonomy, and relatedness needs influence planning motivation and compliance, with application to designing planning systems that support intrinsic motivation rather than external control\n- **[[Temporal Discounting and Present Bias in Planning]]** - Behavioral economics research on hyperbolic discounting and how PKB commitment devices and pre-commitment strategies can counteract present bias in daily planning execution\n- **[[Zeigarnik Effect and Planning Completion Psychology]]** - How the cognitive tension of incomplete tasks influences attention and how planning structures can leverage or mitigate the Zeigarnik effect for optimal focus management",
+        "line_number": 100,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md",
+        "char_start": 13387,
+        "char_end": 15204
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Implementation Intentions and WOOP Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implementation Intentions and WOOP Model]]",
+        "line_number": 102,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Implementation Intentions and WOOP Model]]** - Specific research on Gabriele Oettingen's mental contrasting with implementation intentions (MCII) methodology and how to structure IF-THEN planning rules within PKB templates for maximum automaticity",
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "target": "Prospective Memory Systems and External Cues",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prospective Memory Systems and External Cues]]",
+        "line_number": 103,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Prospective Memory Systems and External Cues]]** - The cognitive neuroscience of remembering to remember, examining how event-based and time-based prospective memory cues can be embedded in PKB architecture to trigger planned actions without depleting working memory",
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "target": "Energy Management vs. Time Management Paradigm",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Energy Management vs. Time Management Paradigm]]",
+        "line_number": 104,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Energy Management vs. Time Management Paradigm]]** - Tony Schwartz's research on performance pulse and how energy renewal cycles should supersede traditional time management in knowledge work planning systems",
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "target": "Interleaving and Task Switching Costs in Knowledge Work",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Interleaving and Task Switching Costs in Knowledge Work]]",
+        "line_number": 105,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Interleaving and Task Switching Costs in Knowledge Work]]** - The relationship between task switching, attention residue (Sophie Leroy), and planning structures that minimize cognitive switching costs while preserving the learning benefits of interleaved practice",
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "target": "Self-Determination Theory and Autonomous Planning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory and Autonomous Planning]]",
+        "line_number": 106,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Self-Determination Theory and Autonomous Planning]]** - How competence, autonomy, and relatedness needs influence planning motivation and compliance, with application to designing planning systems that support intrinsic motivation rather than external control",
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "target": "Temporal Discounting and Present Bias in Planning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Temporal Discounting and Present Bias in Planning]]",
+        "line_number": 107,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Temporal Discounting and Present Bias in Planning]]** - Behavioral economics research on hyperbolic discounting and how PKB commitment devices and pre-commitment strategies can counteract present bias in daily planning execution",
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "target": "Zeigarnik Effect and Planning Completion Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zeigarnik Effect and Planning Completion Psychology]]",
+        "line_number": 108,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Zeigarnik Effect and Planning Completion Psychology]]** - How the cognitive tension of incomplete tasks influences attention and how planning structures can leverage or mitigate the Zeigarnik effect for optimal focus management",
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "topic/time-management",
+        "full_tag": "#topic/time-management",
+        "hierarchy": [
+          "topic",
+          "time-management"
+        ],
+        "line_number": 34,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "tag": "pkb/infrastructure",
+        "full_tag": "#pkb/infrastructure",
+        "hierarchy": [
+          "pkb",
+          "infrastructure"
+        ],
+        "line_number": 34,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "tag": "report/psychology",
+        "full_tag": "#report/psychology",
+        "hierarchy": [
+          "report",
+          "psychology"
+        ],
+        "line_number": 34,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "tag": "topic/psychology",
+        "full_tag": "#topic/psychology",
+        "hierarchy": [
+          "topic",
+          "psychology"
+        ],
+        "line_number": 34,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "tag": "report/psychology",
+        "full_tag": "#report/psychology",
+        "hierarchy": [
+          "report",
+          "psychology"
+        ],
+        "line_number": 34,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "tag": "report/psychology",
+        "full_tag": "#report/psychology",
+        "hierarchy": [
+          "report",
+          "psychology"
+        ],
+        "line_number": 34,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "tag": "deliberate-practice",
+        "full_tag": "#deliberate-practice",
+        "hierarchy": [
+          "deliberate-practice"
+        ],
+        "line_number": 34,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      },
+      {
+        "tag": "pkm",
+        "full_tag": "#pkm",
+        "hierarchy": [
+          "pkm"
+        ],
+        "line_number": 34,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 98,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "<thinking>\nLet me analyze this request carefully.\n\n**Request Classification:**\n- Type: comprehensive_note (topic generation for PKB development)\n- Scope: Multiple topics (5-7) for extensive 6,000-word reports\n- Research Required: NO (this is about synthesis and structuring, not current information)\n- Note Type: This is a meta-request for topic generation, not a traditional note itself\n\n**User Context Analysis:**\nThe user is working on a Self Development Project focused on:\n1. Building a PKB in Obsidian\n2. Systematic self-education through evidence-based approaches\n3. Understanding \"why\" and \"how\" behind methodologies\n4. Creating implementable frameworks\n5. Current focus: Planning and how to actively plan their day in the PKB\n\n**Domain Integration:**\nThey're explicitly connecting:\n- Cognitive Psychology (Self-Regulation, Critical Thinking, Cognitive Load)\n- Educational Psychology (Self-Learning, Metacognition)\n- Practical application: Daily planning within PKB context\n\n**Critical Insight:**\nThe user wants topics about PLANNING that:\n1. Connect to their cognitive/educational psychology studies\n2. Are actionable within an Obsidian PKB context\n3. Support their goal of becoming an Expert Knowledge Learner\n4. Bridge theory (the frameworks they've studied) with practice (daily planning implementation)\n\n**Deconstructing the Subject Area:**\n- **Key Actors**: The learner (user), their cognitive systems, their PKB/Obsidian environment, external demands/goals\n- **Core Processes**: Planning, goal-setting, prioritization, time allocation, cognitive resource management, reflection, adaptation\n- **Governing Principles**: Self-regulation theories, metacognitive monitoring, cognitive load management, schema activation, working memory constraints, goal-setting theory\n- **Key Outcomes**: Effective daily execution, sustainable learning practices, alignment between plans and cognitive capacity, continuous improvement\n\n**Shift from \"What\" to \"Why/How/So What\":**\n\n1. **From \"What is planning?\" to \"Why does planning fail despite good intentions?\"**\n   - This explores the relationship between conscious planning and unconscious cognitive processes\n   - Connects to self-regulation failure, ego depletion, implementation intentions\n   - Historical: Planning fallacy research, prospective memory studies\n   - Mechanisms: Gap between episodic future thinking and execution\n   - Evidence: Research on implementation intentions vs. goal intentions\n   - Implications: Design principles for plans that work WITH cognitive architecture\n\n2. **From \"How to plan\" to \"How does the PKB structure itself influence planning effectiveness?\"**\n   - This explores the relationship between external cognitive scaffolds and planning success\n   - Connects to distributed cognition, extended mind theory, cognitive artifacts\n   - Historical: Evolution from paper planners to digital PKM systems\n   - Mechanisms: How externalized knowledge structures reduce cognitive load during planning\n   - Evidence: Research on external representations and problem-solving\n   - Implications: Architectural principles for planning-supportive PKB design\n\n3. **From \"Planning techniques\" to \"How do different cognitive profiles require different planning approaches?\"**\n   - This explores the relationship between individual differences and planning effectiveness\n   - Connects to working memory capacity, executive function profiles, cognitive styles\n   - Historical: One-size-fits-all productivity advice vs. personalized approaches\n   - Mechanisms: How working memory capacity affects planning granularity needs\n   - Evidence: Research on executive function and planning success\n   - Implications: Diagnostic frameworks for matching planning methods to cognitive profiles\n\n4. **From \"Daily planning\" to \"How does metacognitive calibration transform planning from ritual to feedback system?\"**\n   - This explores the relationship between planning, execution, and reflective learning\n   - Connects to metacognitive monitoring, calibration, deliberate practice\n   - Historical: Planning as static document vs. planning as learning instrument\n   - Mechanisms: The metacognitive loop of plan-execute-review-calibrate\n   - Evidence: Research on metacognitive accuracy and performance\n   - Implications: Frameworks for using planning as a tool for self-knowledge\n\n**Topic Generation Strategy:**\nI need to create 5-7 topics that:\n1. Are substantial enough for 6,000-word reports with the five-part structure\n2. Connect planning to the cognitive/educational psychology theories user is studying\n3. Provide actionable insights for PKB-based planning implementation\n4. Avoid being too broad (\"History of Planning\") or too narrow (\"How to write a to-do list\")\n5. Focus on relationships, mechanisms, and implications rather than definitions\n\n**Metadata Planning:**\n- Tags: #planning #pkb-design #cognitive-psychology #educational-psychology #self-regulation #metacognition #topic-generation\n- Aliases: [Daily Planning Framework, PKB Planning System, Cognitive Planning Architecture]\n\n**Structure for Output:**\n- Title: Something like \"Planning Within Cognitive Architecture: PKB Implementation Topics\"\n- The Purpose section: Explain how these topics bridge theory and practice\n- 5-7 topics, each with:\n  - Engaging title with emoji\n  - 3-4 sentence scope & angle\n  - Formal \"Engineered Input\" statement\n- Further Exploration section with adjacent areas\n\nLet me generate topics that are:\n1. **Cognitively grounded** (connect to their studied theories)\n2. **Practically actionable** (implementable in PKB)\n3. **Intellectually substantial** (support 6,000-word deep dives)\n4. **Interconnected** (build on each other)\n</thinking>",
+        "line_start": 110,
+        "line_end": 208,
+        "char_count": 5689,
+        "line_count": 97,
+        "source": "topic-set-planning-with-cognitive-architecture-202511160936.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Energy Management vs. Time Management Paradigm",
+      "Implementation Intentions and WOOP Model",
+      "Interleaving and Task Switching Costs in Knowledge Work",
+      "Prospective Memory Systems and External Cues",
+      "Self-Determination Theory and Autonomous Planning",
+      "Temporal Discounting and Present Bias in Planning",
+      "Zeigarnik Effect and Planning Completion Psychology"
+    ],
+    "unique_wiki_link_count": 7,
+    "unique_tags": [
+      "#deliberate-practice",
+      "#pkb/infrastructure",
+      "#pkm",
+      "#report/psychology",
+      "#topic/psychology",
+      "#topic/time-management"
+    ],
+    "unique_tag_count": 6,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Energy Management vs. Time Management Paradigm",
+      "Implementation Intentions and WOOP Model",
+      "Interleaving and Task Switching Costs in Knowledge Work",
+      "Prospective Memory Systems and External Cues",
+      "Self-Determination Theory and Autonomous Planning",
+      "Temporal Discounting and Present Bias in Planning",
+      "Zeigarnik Effect and Planning Completion Psychology"
+    ]
+  }
+}

@@ -1,0 +1,1627 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:17:24.285037",
+    "source_file": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\01-reports\\02_pkb-and-pkm\\pkb-report-conducting-research-through-a-pkb-202512122338.md",
+    "source_file_size_bytes": 58815,
+    "processing_time_seconds": 0.012
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Research in PKB",
+        "PKB Research Workflow"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "status/not-read",
+        "pkb",
+        "pkm",
+        "organization-system",
+        "self-improvement/productivity",
+        "self-directed-learning",
+        "cognitive-resources",
+        "pkm/research",
+        "export-import",
+        "cognitive-pkm"
+      ],
+      "source": "claude-opus-4.1",
+      "id": "20251212234035",
+      "created": "2025-12-12T23:40:35",
+      "modified": "2025-12-12T23:40:35",
+      "week": "[[2025-W50]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "report",
+      "maturity": "seedling",
+      "confidence": "provisional",
+      "next-review": "2025-12-19",
+      "review-count": "0",
+      "link-up": [
+        "[[pkb-&-pkm-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-12|Daily-Note]]"
+      ]
+    },
+    "word_count": 7339,
+    "character_count": 57850,
+    "line_count": 759,
+    "heading_count": 32
+  },
+  "extraction_summary": {
+    "total_items_extracted": 136,
+    "by_type": {
+      "headings": 32,
+      "callouts": 15,
+      "wiki_links": 48,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 9,
+      "code_blocks": 3,
+      "tables": 0,
+      "external_links": 4,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 2,
+      "color_spans": 1,
+      "lists_ordered": 4,
+      "lists_unordered": 12,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 6
+    }
+  },
+  "document_outline": [
+    {
+      "level": 2,
+      "text": "The Architecture of Research: Conducting Systematic Inquiry Within a Personal Knowledge Base",
+      "anchor": "the-architecture-of-research-conducting-systematic-inquiry-within-a-personal-knowledge-base",
+      "line_number": 333,
+      "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🔬 The Architecture of Research: Conducting Systematic Inquiry Within Personal Knowledge Base",
+      "anchor": "the-architecture-of-research-conducting-systematic-inquiry-within-personal-knowledge-base",
+      "line_number": 374,
+      "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🧠 Part I: The Philosophy of Research as Knowledge Architecture",
+          "anchor": "part-i-the-philosophy-of-research-as-knowledge-architecture",
+          "line_number": 381,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Cognitive Foundation: Why PKB Changes Research",
+              "anchor": "the-cognitive-foundation-why-pkb-changes-research",
+              "line_number": 383,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Research Lifecycle: From Question to Comprehension",
+              "anchor": "the-research-lifecycle-from-question-to-comprehension",
+              "line_number": 400,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🗺️ Part II: Research Planning Architecture",
+          "anchor": "part-ii-research-planning-architecture",
+          "line_number": 418,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Project Hub: Command Center for Inquiry",
+              "anchor": "the-project-hub-command-center-for-inquiry",
+              "line_number": 420,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Research Question Engineering",
+              "anchor": "research-question-engineering",
+              "line_number": 435,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Resource Mapping and Source Planning",
+              "anchor": "resource-mapping-and-source-planning",
+              "line_number": 445,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📖 Part III: Information Processing and Knowledge Capture",
+          "anchor": "part-iii-information-processing-and-knowledge-capture",
+          "line_number": 460,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Three-Stage Note Pipeline",
+              "anchor": "the-three-stage-note-pipeline",
+              "line_number": 462,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Literature Notes: The Scholarly Source Interface",
+              "anchor": "literature-notes-the-scholarly-source-interface",
+              "line_number": 474,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Atomic Notes: The Knowledge Graph Foundation",
+              "anchor": "atomic-notes-the-knowledge-graph-foundation",
+              "line_number": 489,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🕸️ Part IV: Building the Knowledge Graph",
+          "anchor": "part-iv-building-the-knowledge-graph",
+          "line_number": 508,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Linking Strategy: The Architecture of Connection",
+              "anchor": "linking-strategy-the-architecture-of-connection",
+              "line_number": 510,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Maps of Content: Navigation and Emergence",
+              "anchor": "maps-of-content-navigation-and-emergence",
+              "line_number": 522,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Research Project as Knowledge Graph Subset",
+              "anchor": "the-research-project-as-knowledge-graph-subset",
+              "line_number": 537,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📊 Part V: Research Management and Progress Tracking",
+          "anchor": "part-v-research-management-and-progress-tracking",
+          "line_number": 547,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Status Tracking Systems",
+              "anchor": "status-tracking-systems",
+              "line_number": 549,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Quality Metrics and Self-Assessment",
+              "anchor": "quality-metrics-and-self-assessment",
+              "line_number": 564,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Weekly Review Ritual",
+              "anchor": "the-weekly-review-ritual",
+              "line_number": 572,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚙️ Part VI: Obsidian Implementation Guide",
+          "anchor": "part-vi-obsidian-implementation-guide",
+          "line_number": 582,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Essential Plugin Stack for Research",
+              "anchor": "essential-plugin-stack-for-research",
+              "line_number": 584,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Template Architecture",
+              "anchor": "template-architecture",
+              "line_number": 598,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Workflow Automation",
+              "anchor": "workflow-automation",
+              "line_number": 608,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎯 Part VII: Synthesis and Output Generation",
+          "anchor": "part-vii-synthesis-and-output-generation",
+          "line_number": 620,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "From Notes to Understanding",
+              "anchor": "from-notes-to-understanding",
+              "line_number": 622,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Output Artifact Generation",
+              "anchor": "output-artifact-generation",
+              "line_number": 634,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Maintaining Research Value Long-Term",
+              "anchor": "maintaining-research-value-long-term",
+              "line_number": 644,
+              "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📚 References & Resources",
+          "anchor": "references-resources",
+          "line_number": 695,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 732,
+      "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "📖 Extracted Definitions",
+          "anchor": "extracted-definitions",
+          "line_number": 757,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "### <span style='color: #7200ff;'>Overview</span>",
+        "body": "- **Title**: [[The Architecture of Research: Conducting Systematic Inquiry Within a Personal Knowledge Base]]\n- **MOC**: `this.link-up`",
+        "line_number": 37,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 659,
+        "char_end": 863
+      },
+      {
+        "type": "abstract",
+        "title": "### 🏷️ Tag Intelligence",
+        "body": "**Tag Count**: `= length(this.tags)` | **Unique Domains**: `= length(filter(this.tags, (t) => contains(t, \"/\")))` hierarchical tags\n**Tag Density**: `= choice(length(this.tags) < 3, \"⚠️Sparse\", choice(length(this.tags) > 10, \"📚Rich\", \"✅Balanced\"))`\n> \n> ---\n\n```dataviewjs\n// TAG CO-OCCURRENCE: Find notes sharing the most tags with this note\nconst current = dv.current();\n\n// Safely get tags from current note\nlet myTags = [];\nif (current.tags) {\n    if (Array.isArray(current.tags)) {\n        myTags = current.tags;\n    } else if (typeof current.tags === 'string') {\n        myTags = [current.tags];\n    }\n}\n\nif (myTags.length > 0) {\n    const tagSiblings = dv.pages()\n        .where(p => p.file.path !== current.file.path)\n        .where(p => {\n            // Safely check if page has tags\n            if (!p.tags) return false;\n            // Convert tags to array if needed\n            let pageTags = [];\n            if (Array.isArray(p.tags)) {\n                pageTags = p.tags;\n            } else if (typeof p.tags === 'string') {\n                pageTags = [p.tags];\n            }\n            return pageTags.length > 0;\n        })\n        .map(p => {\n            // Safely convert page tags to array\n            let pageTags = [];\n            if (p.tags) {\n                if (Array.isArray(p.tags)) {\n                    pageTags = p.tags;\n                } else if (typeof p.tags === 'string') {\n                    pageTags = [p.tags];\n                }\n            }\n            \n            // Find shared tags\n            const sharedTags = pageTags.filter(t => {\n                if (typeof t === 'string') {\n                    return myTags.includes(t);\n                } else if (t && typeof t === 'object' && t.path) {\n                    // Handle tag objects\n                    return myTags.some(myTag => {\n                        if (typeof myTag === 'string') {\n                            return myTag === t.path;\n                        }\n                        return false;\n                    });\n                }\n                return false;\n            });\n            \n            return {\n                link: p.file.link,\n                sharedCount: sharedTags.length,\n                sharedTags: sharedTags,\n                totalTags: pageTags.length\n            };\n        })\n        .where(p => p.sharedCount >= 2) // At least 2 shared tags\n        .sort(p => p.sharedCount, \"desc\")\n        .limit(5);\n\n    if (tagSiblings.length > 0) {\n        dv.header(5, \"🏷️ Tag Siblings (Shared Taxonomy)\");\n        dv.table(\n            [\"Note\", \"Overlap\", \"Shared Tags\"],\n            tagSiblings.map(s => {\n                // Safely extract tag names for display\n                let displayTags = s.sharedTags.map(t => {\n                    if (typeof t === 'string') {\n                        return t;\n                    } else if (t && typeof t === 'object' && t.path) {\n                        return t.path;\n                    }\n                    return String(t);\n                });\n                \n                return [\n                    s.link,\n                    s.sharedCount + \"/\" + s.totalTags,\n                    displayTags.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n                ];\n            })\n        );\n    } else {\n        dv.paragraph(\"*No tag siblings with 2+ shared tags found.*\");\n    }\n} else {\n    dv.paragraph(\"*No tags on this note to analyze.*\");\n}\n```",
+        "line_number": 228,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 8220,
+        "char_end": 11906
+      },
+      {
+        "type": "",
+        "title": "### Claude Thinking",
+        "body": "This is a substantial request that asks me to create a comprehensive guide on conducting research projects within a Personal Knowledge Base (PKB) in Obsidian. The user wants to understand the full research lifecycle - from planning to execution to knowledge integration.\n\nLet me break down what they're asking for:\n1. How to plan research projects\n2. How to develop understanding while managing information\n3. How to properly manage gathered knowledge\n4. How to connect pieces into a coherent knowledge graph\n5. How to build high-level overviews for research management\n6. How to create performance and quality metrics\n7. How to design and implement research consistently in a PKB using Obsidian plugins\n\nThis is a meta-cognitive, methodological request about research workflows in PKB systems. I need to:\n8. Draw on PKM methodology (Zettelkasten, progressive summarization, etc.)\n9. Connect to cognitive science principles (working memory, cognitive load, metacognition)\n10. Provide practical Obsidian-specific implementations\n11. Create a comprehensive reference note\n\nLet me search for current best practices and frameworks for research in PKB systems.\n\nI should structure this as:\n12. The philosophy/foundation of research in PKB\n13. Research planning architecture\n14. Information capture and processing workflows\n15. Knowledge synthesis and connection\n16. Research management dashboards\n17. Metrics and quality assurance\n18. Obsidian-specific implementations\n\nThis needs to be comprehensive, prose-heavy, with appropriate callouts and wiki-links. Let me research current approaches and then synthesize.\nNow I have sufficient research to write a comprehensive guide. Let me synthesize all of this into a detailed reference note on research project workflows in PKB systems.",
+        "line_number": 335,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 12009,
+        "char_end": 13874
+      },
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "This reference note presents a comprehensive framework for conducting research projects within a Personal Knowledge Base system, specifically implemented through Obsidian. The central thesis holds that effective research is not merely about gathering information, but about constructing an interconnected knowledge architecture that simultaneously serves cognitive offloading, metacognitive monitoring, and emergent insight generation. By treating your PKB as both a research instrument and a living knowledge graph, you transform isolated study sessions into cumulative intellectual capital. This guide synthesizes [[Zettelkasten methodology]], [[Cognitive Science]] principles, and practical [[Obsidian]] implementation strategies into an actionable research architecture.",
+        "line_number": 376,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 14235,
+        "char_end": 15026
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**The Fundamental Shift**\n\nIn the PKB research paradigm, *understanding develops through the act of building the knowledge graph itself*. The notes you create, the connections you forge, and the structures you erect are not preparatory activities for eventual understanding—they *are* the understanding, externalized and made manipulable. Research becomes synonymous with knowledge architecture.",
+        "line_number": 389,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 16239,
+        "char_end": 16661
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Project Hub Essential Components**\n\nA well-designed Project Hub contains: the core research question(s) driving inquiry; the scope and boundaries of investigation; key sub-questions or thematic areas; links to all project-related notes and resources; current status indicators; progress metrics; next actions; and reflection prompts for regular review.",
+        "line_number": 424,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 20937,
+        "char_end": 21327
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Reference Manager Integration**\n\nThe modern research workflow essentially requires integration between your PKB and a dedicated [[reference manager]] like [[Zotero]], [[Mendeley]], or [[Paperpile]]. These tools handle bibliographic metadata, PDF storage, and citation generation—tasks poorly suited for plain-text knowledge bases. The key is establishing seamless bridges between systems: use plugins like [[Zotero Integration]] to import annotations and create literature notes directly within your PKB, maintaining the reference manager as source-of-truth for bibliographic data while centering intellectual processing in Obsidian.",
+        "line_number": 453,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 25537,
+        "char_end": 26196
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Literature Note**\n\nA dedicated note representing a single source that contains: bibliographic metadata (author, title, publication information, DOI); a synthesis or summary of main contributions; extracted highlights and annotations; your critical reactions and evaluations; connections to other sources and concepts; and tags or properties enabling systematic discovery.",
+        "line_number": 478,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 28585,
+        "char_end": 28981
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**The Connection Imperative**\n\nAtomic notes derive value primarily from connections rather than content. A perfectly accurate but isolated note contributes little—value emerges from the web of relationships that position the note within broader understanding. Every atomic note should link to several related notes, creating the dense connectivity that enables emergent insight.",
+        "line_number": 501,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 32237,
+        "char_end": 32637
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Map of Content (MOC)**\n\nA higher-order note that organizes links to related atomic notes around a thematic domain, providing navigation infrastructure, contextual framing, and opportunities for synthesis. MOCs exist at varying levels of abstraction, from narrow topic collections to broad domain overviews.",
+        "line_number": 526,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 35109,
+        "char_end": 35440
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Dataview for Research Tracking**\n\nThe [[Dataview plugin]] transforms Obsidian from a note-taking application into a queryable database. For research management, Dataview enables: automatic generation of note lists filtered by tags, status, or properties; progress dashboards aggregating metrics across the project; due date tracking and overdue identification; and gap analysis revealing areas requiring development.",
+        "line_number": 559,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 39245,
+        "char_end": 39699
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Integration with Existing Cognitive Frameworks**\n\n**[[Self-Determination Theory]]**: The PKB research workflow supports autonomy through customizable systems, competence through visible progress, and relatedness through connection to broader scholarly conversation.\n\n**[[Metacognition]]**: The externalized knowledge graph transforms metacognitive monitoring from introspection to observation—you can literally see your understanding structures and assess their quality.\n\n**[[Cognitive Load Theory]]**: Offloading information to the PKB reduces extraneous cognitive load, enabling germane processing focused on understanding rather than memory.\n\n**[[Zettelkasten methodology]]**: This framework extends classical Zettelkasten principles with explicit project management structures and Obsidian-specific implementation strategies.\n\n**[[Progressive Summarization]]**: Tiago Forte's layered highlighting approach complements the three-stage note pipeline, providing techniques for efficient capture during immersion phases.\n\n**[[Critical Thinking Frameworks]]**: Research questions can be systematically developed using frameworks like the [[Paul-Elder model]], ensuring substantive inquiry rather than superficial investigation.\n\n**[[Knowledge Graph Theory]]**: The PKB instantiates graph-theoretic principles—nodes, edges, clustering, hubs—in service of cognitive enhancement, connecting computer science to cognitive science.\n\n**[[Distributed Cognition]]**: The PKB embodies distributed cognition principles by positioning external representations as genuine cognitive participants rather than mere storage.",
+        "line_number": 656,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 49886,
+        "char_end": 51557
+      },
+      {
+        "type": "summary",
+        "title": "Untitled",
+        "body": "**Synthesis of Core Principles**\n\nConducting research within a Personal Knowledge Base represents a paradigm shift from information extraction to knowledge architecture. The fundamental insight holds that understanding develops through the act of building interconnected note structures—the PKB isn't preparation for comprehension but its embodiment. Effective implementation requires a Project Hub serving as command center, a three-stage note pipeline (capture, processing, integration) managing information flow, strategic linking creating dense knowledge graphs, and systematic status tracking enabling progress monitoring. The Obsidian ecosystem provides powerful infrastructure through plugins like Dataview, Tasks, and Templater, enabling automation and aggregation that would be impossible in simpler tools. Most importantly, the PKB research workflow supports metacognitive monitoring by making knowledge structures explicit and observable—you can see what you know, identify gaps in understanding, and track growth over time. This visibility transforms research from uncertain exploration into structured knowledge construction.",
+        "line_number": 677,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 51563,
+        "char_end": 52721
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Untitled",
+        "body": "**Reflective Questions for Personal Application**\n\n*First Reflection:* Consider your current research practices—where do captured insights actually *go* after you encounter them? If you can't trace a clear path from source encounter to integrated understanding, you may be losing substantial intellectual value to system friction. What would change if every insight you captured became a permanent, findable, connected node in your personal knowledge graph?\n\n*Second Reflection:* How do you currently know whether you truly understand something versus merely recognize it? The illusion of comprehension—mistaking familiarity for understanding—represents a major threat to research quality. How might externalizing your understanding into explicit note structures reveal gaps that subjective confidence assessment misses?\n\n*Third Reflection:* When you complete a research project, what happens to the understanding you developed? If that knowledge effectively disappears when the project ends, you're treating research as extraction rather than architecture. What would it mean to approach every research project as contributing to a permanent, growing intellectual infrastructure that compounds over your lifetime?",
+        "line_number": 684,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 52727,
+        "char_end": 53979
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "**Core Methodological Sources**\n\nAhrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking*. CreateSpace.\n\nForte, T. (2022). *Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential*. Atria Books.\n\nMilo, N. (2022). *Linking Your Thinking*. LYT Workshop Materials.\n\n**Cognitive Science Foundations**\n\nClark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7-19.\n\nNelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation*, 26, 125-173.\n\nSchraw, G., & Moshman, D. (1995). Metacognitive theories. *Educational Psychology Review*, 7(4), 351-371.\n\n**Technical Implementation Resources**\n\nObsidian Community Documentation: [https://help.obsidian.md](https://help.obsidian.md)\n\nDataview Plugin Documentation: [https://blacksmithgu.github.io/obsidian-dataview/](https://blacksmithgu.github.io/obsidian-dataview/)\n\nTasks Plugin Documentation: [https://publish.obsidian.md/tasks/](https://publish.obsidian.md/tasks/)\n\nPhelan, A. (2023). An Updated Academic Workflow: Zotero & Obsidian. Medium.\n\n**Research Methodology**\n\nBooth, W. C., Colomb, G. G., & Williams, J. M. (2016). *The Craft of Research* (4th ed.). University of Chicago Press.\n\nPacheco-Vega, R. (2021). Literature review synthesis techniques. [https://www.raulpacheco.org/resources/literature-reviews/](https://www.raulpacheco.org/resources/literature-reviews/)",
+        "line_number": 697,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md",
+        "char_start": 54014,
+        "char_end": 55587
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "The Architecture of Research: Conducting Systematic Inquiry Within a Personal Knowledge Base",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Architecture of Research: Conducting Systematic Inquiry Within a Personal Knowledge Base]]",
+        "line_number": 38,
+        "section": "Document Start",
+        "context_line": "> - **Title**: [[The Architecture of Research: Conducting Systematic Inquiry Within a Personal Knowledge Base]]",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Zettelkasten methodology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten methodology]]",
+        "line_number": 377,
+        "section": "🔬 The Architecture of Research: Conducting Systematic Inquiry Within Personal Knowledge Base",
+        "context_line": "> This reference note presents a comprehensive framework for conducting research projects within a Personal Knowledge Base system, specifically implemented through Obsidian. The central thesis holds that effective research is not merely about gathering information, but about constructing an interconnected knowledge architecture that simultaneously serves cognitive offloading, metacognitive monitoring, and emergent insight generation. By treating your PKB as both a research instrument and a living knowledge graph, you transform isolated study sessions into cumulative intellectual capital. This guide synthesizes [[Zettelkasten methodology]], [[Cognitive Science]] principles, and practical [[Obsidian]] implementation strategies into an actionable research architecture.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Cognitive Science",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Science]]",
+        "line_number": 377,
+        "section": "🔬 The Architecture of Research: Conducting Systematic Inquiry Within Personal Knowledge Base",
+        "context_line": "> This reference note presents a comprehensive framework for conducting research projects within a Personal Knowledge Base system, specifically implemented through Obsidian. The central thesis holds that effective research is not merely about gathering information, but about constructing an interconnected knowledge architecture that simultaneously serves cognitive offloading, metacognitive monitoring, and emergent insight generation. By treating your PKB as both a research instrument and a living knowledge graph, you transform isolated study sessions into cumulative intellectual capital. This guide synthesizes [[Zettelkasten methodology]], [[Cognitive Science]] principles, and practical [[Obsidian]] implementation strategies into an actionable research architecture.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 377,
+        "section": "🔬 The Architecture of Research: Conducting Systematic Inquiry Within Personal Knowledge Base",
+        "context_line": "> This reference note presents a comprehensive framework for conducting research projects within a Personal Knowledge Base system, specifically implemented through Obsidian. The central thesis holds that effective research is not merely about gathering information, but about constructing an interconnected knowledge architecture that simultaneously serves cognitive offloading, metacognitive monitoring, and emergent insight generation. By treating your PKB as both a research instrument and a living knowledge graph, you transform isolated study sessions into cumulative intellectual capital. This guide synthesizes [[Zettelkasten methodology]], [[Cognitive Science]] principles, and practical [[Obsidian]] implementation strategies into an actionable research architecture.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "distributed cognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[distributed cognition]]",
+        "line_number": 387,
+        "section": "The Cognitive Foundation: Why PKB Changes Research",
+        "context_line": "The PKB paradigm inverts this relationship entirely. Rather than extracting information *from* sources *into* a product, the PKB researcher engages in what cognitive scientists call [[distributed cognition]], where the boundaries between internal mental processes and external representational systems become productively blurred. Your PKB functions as an [[extended mind]]—a phrase coined by philosophers Andy Clark and David Chalmers to describe how external tools become genuine components of cognitive processing when properly integrated into thought workflows.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "extended mind",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[extended mind]]",
+        "line_number": 387,
+        "section": "The Cognitive Foundation: Why PKB Changes Research",
+        "context_line": "The PKB paradigm inverts this relationship entirely. Rather than extracting information *from* sources *into* a product, the PKB researcher engages in what cognitive scientists call [[distributed cognition]], where the boundaries between internal mental processes and external representational systems become productively blurred. Your PKB functions as an [[extended mind]]—a phrase coined by philosophers Andy Clark and David Chalmers to describe how external tools become genuine components of cognitive processing when properly integrated into thought workflows.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[metacognition]]",
+        "line_number": 396,
+        "section": "The Cognitive Foundation: Why PKB Changes Research",
+        "context_line": "The [[metacognition]] literature strongly supports this view. Research by Thomas Nelson and Louis Narens established the foundational distinction between [[object-level cognition]] (thinking about a subject) and [[meta-level cognition]] (thinking about your thinking about a subject). Effective learning requires continuous oscillation between these levels—you must simultaneously engage with content while monitoring your comprehension, identifying gaps, and adjusting strategies accordingly.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "object-level cognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[object-level cognition]]",
+        "line_number": 396,
+        "section": "The Cognitive Foundation: Why PKB Changes Research",
+        "context_line": "The [[metacognition]] literature strongly supports this view. Research by Thomas Nelson and Louis Narens established the foundational distinction between [[object-level cognition]] (thinking about a subject) and [[meta-level cognition]] (thinking about your thinking about a subject). Effective learning requires continuous oscillation between these levels—you must simultaneously engage with content while monitoring your comprehension, identifying gaps, and adjusting strategies accordingly.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "meta-level cognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[meta-level cognition]]",
+        "line_number": 396,
+        "section": "The Cognitive Foundation: Why PKB Changes Research",
+        "context_line": "The [[metacognition]] literature strongly supports this view. Research by Thomas Nelson and Louis Narens established the foundational distinction between [[object-level cognition]] (thinking about a subject) and [[meta-level cognition]] (thinking about your thinking about a subject). Effective learning requires continuous oscillation between these levels—you must simultaneously engage with content while monitoring your comprehension, identifying gaps, and adjusting strategies accordingly.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "information processing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[information processing]]",
+        "line_number": 406,
+        "section": "The Research Lifecycle: From Question to Comprehension",
+        "context_line": "**Immersion** follows, wherein the researcher dives deeply into source materials—books, papers, datasets, primary sources, expert conversations. The cognitive challenge here is [[information processing]]—transforming raw input into meaningful representations that can be integrated with existing knowledge. The PKB must support efficient capture, progressive refinement, and immediate linking to emerging conceptual structures.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Map of Content",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Map of Content]]",
+        "line_number": 431,
+        "section": "The Project Hub: Command Center for Inquiry",
+        "context_line": "Consider how the Project Hub relates to [[Map of Content]] (MOC) methodology, popularized by [[Nick Milo]] in his Linking Your Thinking framework. While standard MOCs organize existing notes around topics, the Project Hub is prospective—it structures anticipated work and evolves alongside the project. Think of it as a dynamic MOC specifically designed for bounded research inquiries rather than ongoing knowledge domains.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Nick Milo",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Nick Milo]]",
+        "line_number": 431,
+        "section": "The Project Hub: Command Center for Inquiry",
+        "context_line": "Consider how the Project Hub relates to [[Map of Content]] (MOC) methodology, popularized by [[Nick Milo]] in his Linking Your Thinking framework. While standard MOCs organize existing notes around topics, the Project Hub is prospective—it structures anticipated work and evolves alongside the project. Think of it as a dynamic MOC specifically designed for bounded research inquiries rather than ongoing knowledge domains.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "reference manager",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[reference manager]]",
+        "line_number": 456,
+        "section": "Resource Mapping and Source Planning",
+        "context_line": "> The modern research workflow essentially requires integration between your PKB and a dedicated [[reference manager]] like [[Zotero]], [[Mendeley]], or [[Paperpile]]. These tools handle bibliographic metadata, PDF storage, and citation generation—tasks poorly suited for plain-text knowledge bases. The key is establishing seamless bridges between systems: use plugins like [[Zotero Integration]] to import annotations and create literature notes directly within your PKB, maintaining the reference manager as source-of-truth for bibliographic data while centering intellectual processing in Obsidian.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Zotero",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zotero]]",
+        "line_number": 456,
+        "section": "Resource Mapping and Source Planning",
+        "context_line": "> The modern research workflow essentially requires integration between your PKB and a dedicated [[reference manager]] like [[Zotero]], [[Mendeley]], or [[Paperpile]]. These tools handle bibliographic metadata, PDF storage, and citation generation—tasks poorly suited for plain-text knowledge bases. The key is establishing seamless bridges between systems: use plugins like [[Zotero Integration]] to import annotations and create literature notes directly within your PKB, maintaining the reference manager as source-of-truth for bibliographic data while centering intellectual processing in Obsidian.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Mendeley",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mendeley]]",
+        "line_number": 456,
+        "section": "Resource Mapping and Source Planning",
+        "context_line": "> The modern research workflow essentially requires integration between your PKB and a dedicated [[reference manager]] like [[Zotero]], [[Mendeley]], or [[Paperpile]]. These tools handle bibliographic metadata, PDF storage, and citation generation—tasks poorly suited for plain-text knowledge bases. The key is establishing seamless bridges between systems: use plugins like [[Zotero Integration]] to import annotations and create literature notes directly within your PKB, maintaining the reference manager as source-of-truth for bibliographic data while centering intellectual processing in Obsidian.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Paperpile",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Paperpile]]",
+        "line_number": 456,
+        "section": "Resource Mapping and Source Planning",
+        "context_line": "> The modern research workflow essentially requires integration between your PKB and a dedicated [[reference manager]] like [[Zotero]], [[Mendeley]], or [[Paperpile]]. These tools handle bibliographic metadata, PDF storage, and citation generation—tasks poorly suited for plain-text knowledge bases. The key is establishing seamless bridges between systems: use plugins like [[Zotero Integration]] to import annotations and create literature notes directly within your PKB, maintaining the reference manager as source-of-truth for bibliographic data while centering intellectual processing in Obsidian.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Zotero Integration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zotero Integration]]",
+        "line_number": 456,
+        "section": "Resource Mapping and Source Planning",
+        "context_line": "> The modern research workflow essentially requires integration between your PKB and a dedicated [[reference manager]] like [[Zotero]], [[Mendeley]], or [[Paperpile]]. These tools handle bibliographic metadata, PDF storage, and citation generation—tasks poorly suited for plain-text knowledge bases. The key is establishing seamless bridges between systems: use plugins like [[Zotero Integration]] to import annotations and create literature notes directly within your PKB, maintaining the reference manager as source-of-truth for bibliographic data while centering intellectual processing in Obsidian.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "wiki-links",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[wiki-links]]",
+        "line_number": 470,
+        "section": "The Three-Stage Note Pipeline",
+        "context_line": "**Integration** connects processed notes into your broader knowledge graph. This involves creating appropriate [[wiki-links]], identifying placement within your tag taxonomy, relating new material to existing permanent notes, and updating relevant MOCs or Project Hubs. Integration transforms isolated notes into genuine knowledge architecture.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "literature notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[literature notes]]",
+        "line_number": 476,
+        "section": "Literature Notes: The Scholarly Source Interface",
+        "context_line": "For source-based research, [[literature notes]] serve as the interface between external publications and your internal knowledge graph. A literature note represents a single source—a book, article, chapter, or report—and contains everything relevant to that source: metadata, key insights, quotations, annotations, your critical reactions, and connections to other materials.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "atomic notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[atomic notes]]",
+        "line_number": 487,
+        "section": "Literature Notes: The Scholarly Source Interface",
+        "context_line": "The relationship between literature notes and [[atomic notes]] (or [[permanent notes]] in Zettelkasten terminology) deserves careful consideration. Literature notes remain tied to sources—they're about what *that author* said about *that topic*. Atomic notes transcend sources—they capture *your understanding* of concepts, liberated from any single origin. A healthy research workflow generates atomic notes from literature note processing, but the literature notes themselves remain as traceable documentation of where ideas originated.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "permanent notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[permanent notes]]",
+        "line_number": 487,
+        "section": "Literature Notes: The Scholarly Source Interface",
+        "context_line": "The relationship between literature notes and [[atomic notes]] (or [[permanent notes]] in Zettelkasten terminology) deserves careful consideration. Literature notes remain tied to sources—they're about what *that author* said about *that topic*. Atomic notes transcend sources—they capture *your understanding* of concepts, liberated from any single origin. A healthy research workflow generates atomic notes from literature note processing, but the literature notes themselves remain as traceable documentation of where ideas originated.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Atomic notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Atomic notes]]",
+        "line_number": 491,
+        "section": "Atomic Notes: The Knowledge Graph Foundation",
+        "context_line": "[[Atomic notes]] represent the fundamental building blocks of PKB architecture. Each atomic note captures a single concept, claim, or insight in your own words, densely linked to related concepts. The term \"atomic\" emphasizes indivisibility—each note contains one and only one idea, expressed completely enough to stand alone.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Niklas Luhmann",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Niklas Luhmann]]",
+        "line_number": 493,
+        "section": "Atomic Notes: The Knowledge Graph Foundation",
+        "context_line": "The atomicity principle derives from [[Niklas Luhmann]]'s Zettelkasten methodology but receives theoretical grounding from cognitive science research on [[chunking]]. Working memory has severe capacity limits—famously estimated at 7±2 items by [[George Miller]], though subsequent research suggests the limit may be even lower. However, chunking allows complex information to be packaged into single items, effectively expanding working memory capacity.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "chunking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[chunking]]",
+        "line_number": 493,
+        "section": "Atomic Notes: The Knowledge Graph Foundation",
+        "context_line": "The atomicity principle derives from [[Niklas Luhmann]]'s Zettelkasten methodology but receives theoretical grounding from cognitive science research on [[chunking]]. Working memory has severe capacity limits—famously estimated at 7±2 items by [[George Miller]], though subsequent research suggests the limit may be even lower. However, chunking allows complex information to be packaged into single items, effectively expanding working memory capacity.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "George Miller",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[George Miller]]",
+        "line_number": 493,
+        "section": "Atomic Notes: The Knowledge Graph Foundation",
+        "context_line": "The atomicity principle derives from [[Niklas Luhmann]]'s Zettelkasten methodology but receives theoretical grounding from cognitive science research on [[chunking]]. Working memory has severe capacity limits—famously estimated at 7±2 items by [[George Miller]], though subsequent research suggests the limit may be even lower. However, chunking allows complex information to be packaged into single items, effectively expanding working memory capacity.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Maps of Content",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Maps of Content]]",
+        "line_number": 524,
+        "section": "Maps of Content: Navigation and Emergence",
+        "context_line": "As your knowledge graph grows, navigation requires structural support. [[Maps of Content]] (MOCs) provide this support by creating curated entry points into conceptual domains. An MOC is essentially a note about notes—it collects, organizes, and contextualizes related atomic notes, creating navigable structure within graph topology.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Tasks plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks plugin]]",
+        "line_number": 555,
+        "section": "Status Tracking Systems",
+        "context_line": "**Task-level status** tracks specific actions required to advance the project. The [[Tasks plugin]] for Obsidian enables embedding actionable tasks within notes while aggregating them through queries for project-wide visibility. Tasks might include: read specific sources, create notes on key concepts, connect gaps in the graph, review and refine existing notes, or synthesize understanding into output artifacts.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Dataview plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview plugin]]",
+        "line_number": 562,
+        "section": "Status Tracking Systems",
+        "context_line": "> The [[Dataview plugin]] transforms Obsidian from a note-taking application into a queryable database. For research management, Dataview enables: automatic generation of note lists filtered by tags, status, or properties; progress dashboards aggregating metrics across the project; due date tracking and overdue identification; and gap analysis revealing areas requiring development.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "weekly review",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[weekly review]]",
+        "line_number": 574,
+        "section": "The Weekly Review Ritual",
+        "context_line": "The [[weekly review]] represents perhaps the most important practice for sustained research productivity. This regular ritual—typically 30-60 minutes—creates space for metacognitive reflection, strategic adjustment, and maintenance activities that prevent entropy from degrading your system.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 588,
+        "section": "Essential Plugin Stack for Research",
+        "context_line": "**[[Dataview]]** enables querying your vault as a database, supporting dynamic dashboards, automatic aggregation, and systematic discovery. For research projects, Dataview powers progress tracking, literature review tables, gap identification, and project-wide task management.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 590,
+        "section": "Essential Plugin Stack for Research",
+        "context_line": "**[[Templater]]** enables sophisticated template creation with dynamic content insertion, date/time stamping, and prompt-based customization. Research workflows benefit from consistent note templates that prompt appropriate processing—literature note templates, atomic note templates, meeting note templates, and Project Hub templates all benefit from Templater implementation.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks]]",
+        "line_number": 592,
+        "section": "Essential Plugin Stack for Research",
+        "context_line": "**[[Tasks]]** provides task management infrastructure including due dates, priorities, recurrence, and vault-wide task queries. For research, Tasks enables tracking of reading assignments, note processing tasks, review commitments, and deadline management.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Zotero Integration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zotero Integration]]",
+        "line_number": 594,
+        "section": "Essential Plugin Stack for Research",
+        "context_line": "**[[Zotero Integration]]** (or similar reference manager bridges) connects your bibliographic database to your PKB, enabling automated literature note creation from Zotero annotations, citation insertion during writing, and seamless movement between reference management and knowledge processing.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "QuickAdd",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[QuickAdd]]",
+        "line_number": 596,
+        "section": "Essential Plugin Stack for Research",
+        "context_line": "**[[QuickAdd]]** streamlines common operations through customizable macros, supporting rapid note creation, structured capture, and workflow automation. Research workflows benefit from QuickAdd macros for creating new literature notes, adding tasks to central lists, and initiating daily research sessions.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "testing effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[testing effect]]",
+        "line_number": 626,
+        "section": "From Notes to Understanding",
+        "context_line": "**Active retrieval** occurs when you navigate your graph, searching for relevant notes and reconstructing context from connected materials. This process exercises memory and deepens encoding more effectively than passive review. The [[testing effect]] from cognitive psychology demonstrates that retrieval attempts—even unsuccessful ones—strengthen memory traces more than repeated exposure.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 659,
+        "section": "Maintaining Research Value Long-Term",
+        "context_line": "> **[[Self-Determination Theory]]**: The PKB research workflow supports autonomy through customizable systems, competence through visible progress, and relatedness through connection to broader scholarly conversation.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 661,
+        "section": "Maintaining Research Value Long-Term",
+        "context_line": "> **[[Metacognition]]**: The externalized knowledge graph transforms metacognitive monitoring from introspection to observation—you can literally see your understanding structures and assess their quality.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 663,
+        "section": "Maintaining Research Value Long-Term",
+        "context_line": "> **[[Cognitive Load Theory]]**: Offloading information to the PKB reduces extraneous cognitive load, enabling germane processing focused on understanding rather than memory.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Zettelkasten methodology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten methodology]]",
+        "line_number": 665,
+        "section": "Maintaining Research Value Long-Term",
+        "context_line": "> **[[Zettelkasten methodology]]**: This framework extends classical Zettelkasten principles with explicit project management structures and Obsidian-specific implementation strategies.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Progressive Summarization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Progressive Summarization]]",
+        "line_number": 667,
+        "section": "Maintaining Research Value Long-Term",
+        "context_line": "> **[[Progressive Summarization]]**: Tiago Forte's layered highlighting approach complements the three-stage note pipeline, providing techniques for efficient capture during immersion phases.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Critical Thinking Frameworks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Critical Thinking Frameworks]]",
+        "line_number": 669,
+        "section": "Maintaining Research Value Long-Term",
+        "context_line": "> **[[Critical Thinking Frameworks]]**: Research questions can be systematically developed using frameworks like the [[Paul-Elder model]], ensuring substantive inquiry rather than superficial investigation.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Paul-Elder model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Paul-Elder model]]",
+        "line_number": 669,
+        "section": "Maintaining Research Value Long-Term",
+        "context_line": "> **[[Critical Thinking Frameworks]]**: Research questions can be systematically developed using frameworks like the [[Paul-Elder model]], ensuring substantive inquiry rather than superficial investigation.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Knowledge Graph Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Graph Theory]]",
+        "line_number": 671,
+        "section": "Maintaining Research Value Long-Term",
+        "context_line": "> **[[Knowledge Graph Theory]]**: The PKB instantiates graph-theoretic principles—nodes, edges, clustering, hubs—in service of cognitive enhancement, connecting computer science to cognitive science.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Distributed Cognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Distributed Cognition]]",
+        "line_number": 673,
+        "section": "Maintaining Research Value Long-Term",
+        "context_line": "> **[[Distributed Cognition]]**: The PKB embodies distributed cognition principles by positioning external representations as genuine cognitive participants rather than mere storage.",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Research Question Development Frameworks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Research Question Development Frameworks]]",
+        "line_number": 734,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Research Question Development Frameworks]]**",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Progressive Summarization Implementation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Progressive Summarization Implementation]]",
+        "line_number": 739,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Progressive Summarization Implementation]]**",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Literature Review Matrix Methods",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Literature Review Matrix Methods]]",
+        "line_number": 744,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Literature Review Matrix Methods]]**",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "target": "Metacognitive Monitoring in Knowledge Work",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Monitoring in Knowledge Work]]",
+        "line_number": 749,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Metacognitive Monitoring in Knowledge Work]]**",
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "pkm/methodology",
+        "full_tag": "#pkm/methodology",
+        "hierarchy": [
+          "pkm",
+          "methodology"
+        ],
+        "line_number": 109,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "tag": "pkb/architecture",
+        "full_tag": "#pkb/architecture",
+        "hierarchy": [
+          "pkb",
+          "architecture"
+        ],
+        "line_number": 111,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "tag": "knowledge-workflow/synthesis",
+        "full_tag": "#knowledge-workflow/synthesis",
+        "hierarchy": [
+          "knowledge-workflow",
+          "synthesis"
+        ],
+        "line_number": 111,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "tag": "research-methodology",
+        "full_tag": "#research-methodology",
+        "hierarchy": [
+          "research-methodology"
+        ],
+        "line_number": 111,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 111,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 111,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "tag": "status/evergreen",
+        "full_tag": "#status/evergreen",
+        "hierarchy": [
+          "status",
+          "evergreen"
+        ],
+        "line_number": 111,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "tag": "status/inbox",
+        "full_tag": "#status/inbox",
+        "hierarchy": [
+          "status",
+          "inbox"
+        ],
+        "line_number": 470,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "tag": "project/archived",
+        "full_tag": "#project/archived",
+        "hierarchy": [
+          "project",
+          "archived"
+        ],
+        "line_number": 555,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 2,
+        "text": "The Architecture of Research: Conducting Systematic Inquiry Within a Personal Knowledge Base",
+        "anchor": "the-architecture-of-research-conducting-systematic-inquiry-within-a-personal-knowledge-base",
+        "line_number": 333,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 1,
+        "text": "🔬 The Architecture of Research: Conducting Systematic Inquiry Within Personal Knowledge Base",
+        "anchor": "the-architecture-of-research-conducting-systematic-inquiry-within-personal-knowledge-base",
+        "line_number": 374,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 2,
+        "text": "🧠 Part I: The Philosophy of Research as Knowledge Architecture",
+        "anchor": "part-i-the-philosophy-of-research-as-knowledge-architecture",
+        "line_number": 381,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "The Cognitive Foundation: Why PKB Changes Research",
+        "anchor": "the-cognitive-foundation-why-pkb-changes-research",
+        "line_number": 383,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "The Research Lifecycle: From Question to Comprehension",
+        "anchor": "the-research-lifecycle-from-question-to-comprehension",
+        "line_number": 400,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 2,
+        "text": "🗺️ Part II: Research Planning Architecture",
+        "anchor": "part-ii-research-planning-architecture",
+        "line_number": 418,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "The Project Hub: Command Center for Inquiry",
+        "anchor": "the-project-hub-command-center-for-inquiry",
+        "line_number": 420,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Research Question Engineering",
+        "anchor": "research-question-engineering",
+        "line_number": 435,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Resource Mapping and Source Planning",
+        "anchor": "resource-mapping-and-source-planning",
+        "line_number": 445,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 2,
+        "text": "📖 Part III: Information Processing and Knowledge Capture",
+        "anchor": "part-iii-information-processing-and-knowledge-capture",
+        "line_number": 460,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "The Three-Stage Note Pipeline",
+        "anchor": "the-three-stage-note-pipeline",
+        "line_number": 462,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Literature Notes: The Scholarly Source Interface",
+        "anchor": "literature-notes-the-scholarly-source-interface",
+        "line_number": 474,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Atomic Notes: The Knowledge Graph Foundation",
+        "anchor": "atomic-notes-the-knowledge-graph-foundation",
+        "line_number": 489,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 2,
+        "text": "🕸️ Part IV: Building the Knowledge Graph",
+        "anchor": "part-iv-building-the-knowledge-graph",
+        "line_number": 508,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Linking Strategy: The Architecture of Connection",
+        "anchor": "linking-strategy-the-architecture-of-connection",
+        "line_number": 510,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Maps of Content: Navigation and Emergence",
+        "anchor": "maps-of-content-navigation-and-emergence",
+        "line_number": 522,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "The Research Project as Knowledge Graph Subset",
+        "anchor": "the-research-project-as-knowledge-graph-subset",
+        "line_number": 537,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Part V: Research Management and Progress Tracking",
+        "anchor": "part-v-research-management-and-progress-tracking",
+        "line_number": 547,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Status Tracking Systems",
+        "anchor": "status-tracking-systems",
+        "line_number": 549,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Quality Metrics and Self-Assessment",
+        "anchor": "quality-metrics-and-self-assessment",
+        "line_number": 564,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "The Weekly Review Ritual",
+        "anchor": "the-weekly-review-ritual",
+        "line_number": 572,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ Part VI: Obsidian Implementation Guide",
+        "anchor": "part-vi-obsidian-implementation-guide",
+        "line_number": 582,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Essential Plugin Stack for Research",
+        "anchor": "essential-plugin-stack-for-research",
+        "line_number": 584,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Template Architecture",
+        "anchor": "template-architecture",
+        "line_number": 598,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Workflow Automation",
+        "anchor": "workflow-automation",
+        "line_number": 608,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Part VII: Synthesis and Output Generation",
+        "anchor": "part-vii-synthesis-and-output-generation",
+        "line_number": 620,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "From Notes to Understanding",
+        "anchor": "from-notes-to-understanding",
+        "line_number": 622,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Output Artifact Generation",
+        "anchor": "output-artifact-generation",
+        "line_number": 634,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "Maintaining Research Value Long-Term",
+        "anchor": "maintaining-research-value-long-term",
+        "line_number": 644,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 2,
+        "text": "📚 References & Resources",
+        "anchor": "references-resources",
+        "line_number": 695,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 732,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "level": 3,
+        "text": "📖 Extracted Definitions",
+        "anchor": "extracted-definitions",
+        "line_number": 757,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "// SYSTEM: Enhanced Semantic Bridge Engine v2.0\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts) with advanced analytics\n\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks?.map(l => l.path) || [];\n\n// Performance optimization: Create Set for faster lookups\nconst myOutlinkSet = new Set(myOutlinks);\nconst currentPath = current.file.path;\n\n// Advanced sibling analysis with metadata\nlet siblings = [];\n\ntry {\n  siblings = dv.pages()\n    .where(p => {\n      // Safety checks\n      if (!p.file?.path || p.file.path === currentPath) return false;\n      // Exclude already linked notes\n      if (current.file.outlinks?.some(l => l.path === p.file.path)) return false;\n      return true;\n    })\n    .map(p => {\n      try {\n        // Calculate shared connections\n        const shared = p.file.outlinks?.filter(l => myOutlinkSet.has(l.path)) || [];\n        const sharedCount = shared.length;\n        \n        // Calculate similarity score (0-100%)\n        const totalConnections = myOutlinks.length + (p.file.outlinks?.length || 0);\n        const similarityScore = totalConnections > 0 ? Math.round((sharedCount * 2 / totalConnections) * 100) : 0;\n        \n        return { \n          link: p.file.link, \n          sharedCount, \n          sharedLinks: shared,\n          similarityScore,\n          maturity: p.maturity || \"unset\",\n          type: p.type || \"unknown\",\n          lastModified: p.file.mtime\n        };\n      } catch (e) {\n        console.warn(\"Error processing page:\", p.file?.path, e);\n        return null;\n      }\n    })\n    .where(p => p && p.sharedCount > 0)\n    .sort(p => p.similarityScore, \"desc\")\n    .limit(8);\n    \n  // Ensure siblings is an array\n  if (!Array.isArray(siblings)) {\n    siblings = [];\n  }\n} catch (e) {\n  console.error(\"Error building siblings:\", e);\n  siblings = [];\n}\n\n// Render enhanced semantic bridges\nif (siblings.length > 0) {\n  dv.header(3, \"🔗 Semantic Bridges (Missing Connections)\");\n  \n  // Add summary statistics with error handling\n  try {\n    const totalSharedConnections = siblings.reduce((sum, s) => sum + (s.sharedCount || 0), 0);\n    const avgSimilarity = siblings.length > 0 ? \n      Math.round(siblings.reduce((sum, s) => sum + (s.similarityScore || 0), 0) / siblings.length) : 0;\n    \n    dv.paragraph(`**Found ${siblings.length} semantic siblings** • Total shared: ${totalSharedConnections} connections • Avg. similarity: ${avgSimilarity}%`);\n  } catch (e) {\n    console.warn(\"Error calculating sibling statistics:\", e);\n    dv.paragraph(`**Found ${siblings.length} semantic siblings**`);\n  }\n  \n  dv.table(\n    [\"Note\", \"Similarity\", \"Strength\", \"Maturity\", \"Type\", \"Shared Context\"], \n    siblings.map(s => [\n      s.link, \n      `📊${s.similarityScore || 0}%`,\n      \"🔗\" + (s.sharedCount || 0), \n      s.maturity === \"evergreen\" ? \"🌳\" + s.maturity : \n      s.maturity === \"budding\" ? \"🌿\" + s.maturity :\n      s.maturity === \"developing\" ? \"🌱\" + s.maturity :\n      s.maturity === \"seedling\" ? \"大豆\" + s.maturity : \"❓unset\",\n      s.type || \"unknown\",\n      s.sharedLinks?.slice(0, 2).map(l => l.displayName || l.path).join(\", \") + ((s.sharedLinks?.length || 0) > 2 ? \"…\" : \"\") || \"\"\n    ])\n  );\n} else {\n  dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}\n\n// DOMAIN COVERAGE: Advanced domain analysis\nconst myTags = current.tags || [];\nconst primaryDomain = myTags.find(t => typeof t === \"string\" && t.includes(\"/\"))?.split(\"/\")[0] \n                   || myTags.find(t => typeof t === \"string\");\n\nif (primaryDomain) {\n  let domainNotes = [];\n  try {\n    domainNotes = dv.pages()\n      .where(p => \n        p.tags && \n        Array.isArray(p.tags) && \n        p.tags.some(t => \n          typeof t === \"string\" && \n          (t.startsWith(primaryDomain) || t === primaryDomain)\n        )\n      );\n  } catch (e) {\n    console.warn(\"Error filtering domain notes:\", e);\n    domainNotes = [];\n  }\n   \n  const maturityDistribution = {\n    evergreen: domainNotes.filter(p => p.maturity === \"evergreen\").length,\n    budding: domainNotes.filter(p => p.maturity === \"budding\").length,\n    developing: domainNotes.filter(p => p.maturity === \"developing\").length,\n    seedling: domainNotes.filter(p => p.maturity === \"seedling\").length,\n    unset: domainNotes.filter(p => !p.maturity).length\n  };\n\n  // Advanced domain health metrics\n  const totalNotes = domainNotes.length;\n  const matureNotes = maturityDistribution.evergreen + maturityDistribution.budding;\n  const coverage = totalNotes > 0 ? Math.round((matureNotes / totalNotes) * 100) : 0;\n  \n  // Domain activity score (based on recent modifications)\n  const recentNotes = domainNotes.filter(p => {\n    try {\n      const daysOld = (new Date() - new Date(p.file.mtime)) / (1000 * 60 * 60 * 24);\n      return daysOld < 30;\n    } catch (e) {\n      return false;\n    }\n  }).length;\n  const activityScore = totalNotes > 0 ? Math.round((recentNotes / totalNotes) * 100) : 0;\n\n  dv.header(3, `📂 Domain Analysis: ${primaryDomain}`);\n  dv.paragraph(`**Total notes**: ${totalNotes} | **Recent activity**: ${activityScore}% (30d)`);\n  dv.paragraph(`**Maturity breakdown**: 🌳${maturityDistribution.evergreen} | 🌿${maturityDistribution.budding} | 🌱${maturityDistribution.developing} | 🌰${maturityDistribution.seedling} | ❓${maturityDistribution.unset}`);\n  dv.paragraph(`**Domain health**: ${coverage}% mature (evergreen + budding)`);\n  \n  // Domain health indicator\n  const healthIndicator = coverage >= 80 ? \"🟢 Excellent\" : \n                         coverage >= 60 ? \"🟡 Good\" : \n                         coverage >= 40 ? \"🟠 Fair\" : \"🔴 Poor\";\n  dv.paragraph(`**Health status**: ${healthIndicator}`);\n}\n\n// NETWORK INTELLIGENCE: Advanced connectivity analysis\nconst inlinks = current.file.inlinks || [];\nconst outlinks = current.file.outlinks || [];\n\ndv.header(3, \"🕸️ Network Intelligence\");\nconst networkMetrics = [\n  [\"**Metric**\", \"**Value**\", \"**Insight**\"],\n  [\"In-links\", inlinks.length, inlinks.length > 10 ? \"⚡ Hub\" : inlinks.length > 0 ? \"🌱 Node\" : \"🕸️ Orphan\"],\n  [\"Out-links\", outlinks.length, outlinks.length > 15 ? \"🗺️ Explorer\" : outlinks.length > 5 ? \"🧭 Navigator\" : \"🎯 Focused\"],\n  [\"Link Ratio\", outlinks.length > 0 ? (inlinks.length / outlinks.length).toFixed(1) : \"∞\", \n   outlinks.length > 0 && inlinks.length / outlinks.length > 2 ? \"📈 High authority\" : \"📊 Balanced\"]\n];\n\ndv.table(networkMetrics[0], networkMetrics.slice(1));\n\n// TEMPORAL ANALYSIS: Content aging and review patterns\ndv.header(3, \"⏰ Temporal Intelligence\");\ntry {\n  const created = current.file.ctime;\n  const modified = current.file.mtime;\n  const ageDays = Math.floor((new Date() - new Date(created)) / (1000 * 60 * 60 * 24));\n  const stalenessDays = Math.floor((new Date() - new Date(modified)) / (1000 * 60 * 60 * 24));\n\n  const reviewInsights = [];\n  if (current[\"review-count\"] > 5) reviewInsights.push(\"🔁 Well-reviewed\");\n  if (stalenessDays > 180) reviewInsights.push(\"⏰ Needs refresh\");\n  if (ageDays < 30) reviewInsights.push(\"🆕 New content\");\n\n  dv.paragraph(`**Age**: ${ageDays} days | **Staleness**: ${stalenessDays} days`);\n  dv.paragraph(`**Review status**: ${current[\"review-count\"] || 0} reviews | ${reviewInsights.join(\" • \") || \"📝 Standard\"}`);\n} catch (e) {\n  console.warn(\"Error in temporal analysis:\", e);\n  dv.paragraph(\"*Temporal analysis unavailable*\");\n}",
+        "line_start": 41,
+        "line_end": 227,
+        "char_count": 7337,
+        "line_count": 185,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "> // TAG CO-OCCURRENCE: Find notes sharing the most tags with this note\n> const current = dv.current();\n> \n> // Safely get tags from current note\n> let myTags = [];\n> if (current.tags) {\n>     if (Array.isArray(current.tags)) {\n>         myTags = current.tags;\n>     } else if (typeof current.tags === 'string') {\n>         myTags = [current.tags];\n>     }\n> }\n> \n> if (myTags.length > 0) {\n>     const tagSiblings = dv.pages()\n>         .where(p => p.file.path !== current.file.path)\n>         .where(p => {\n>             // Safely check if page has tags\n>             if (!p.tags) return false;\n>             // Convert tags to array if needed\n>             let pageTags = [];\n>             if (Array.isArray(p.tags)) {\n>                 pageTags = p.tags;\n>             } else if (typeof p.tags === 'string') {\n>                 pageTags = [p.tags];\n>             }\n>             return pageTags.length > 0;\n>         })\n>         .map(p => {\n>             // Safely convert page tags to array\n>             let pageTags = [];\n>             if (p.tags) {\n>                 if (Array.isArray(p.tags)) {\n>                     pageTags = p.tags;\n>                 } else if (typeof p.tags === 'string') {\n>                     pageTags = [p.tags];\n>                 }\n>             }\n>             \n>             // Find shared tags\n>             const sharedTags = pageTags.filter(t => {\n>                 if (typeof t === 'string') {\n>                     return myTags.includes(t);\n>                 } else if (t && typeof t === 'object' && t.path) {\n>                     // Handle tag objects\n>                     return myTags.some(myTag => {\n>                         if (typeof myTag === 'string') {\n>                             return myTag === t.path;\n>                         }\n>                         return false;\n>                     });\n>                 }\n>                 return false;\n>             });\n>             \n>             return {\n>                 link: p.file.link,\n>                 sharedCount: sharedTags.length,\n>                 sharedTags: sharedTags,\n>                 totalTags: pageTags.length\n>             };\n>         })\n>         .where(p => p.sharedCount >= 2) // At least 2 shared tags\n>         .sort(p => p.sharedCount, \"desc\")\n>         .limit(5);\n> \n>     if (tagSiblings.length > 0) {\n>         dv.header(5, \"🏷️ Tag Siblings (Shared Taxonomy)\");\n>         dv.table(\n>             [\"Note\", \"Overlap\", \"Shared Tags\"],\n>             tagSiblings.map(s => {\n>                 // Safely extract tag names for display\n>                 let displayTags = s.sharedTags.map(t => {\n>                     if (typeof t === 'string') {\n>                         return t;\n>                     } else if (t && typeof t === 'object' && t.path) {\n>                         return t.path;\n>                     }\n>                     return String(t);\n>                 });\n>                 \n>                 return [\n>                     s.link,\n>                     s.sharedCount + \"/\" + s.totalTags,\n>                     displayTags.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n>                 ];\n>             })\n>         );\n>     } else {\n>         dv.paragraph(\"*No tag siblings with 2+ shared tags found.*\");\n>     }\n> } else {\n>     dv.paragraph(\"*No tags on this note to analyze.*\");\n> }\n>",
+        "line_start": 234,
+        "line_end": 329,
+        "char_count": 3358,
+        "line_count": 95,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "const currentFile = dv.current().file;\nconst content = await dv.io.load(currentFile.path);\nconst bracketedFieldRegex = /\\[\\*\\*([^*]+)\\*\\*::\\s*([^\\]]+)\\]/g;\n\nlet definitions = [];\nlet match;\n\nwhile ((match = bracketedFieldRegex.exec(content)) !== null) {\n    definitions.push({\n        key: match[1].trim(),\n        value: match[2].trim()\n    });\n}\n\n// Group by first letter\nconst grouped = {};\ndefinitions.forEach(d => {\n    const firstLetter = d.key[0].toUpperCase();\n    if (!grouped[firstLetter]) grouped[firstLetter] = [];\n    grouped[firstLetter].push(d);\n});\n\n// Display grouped results\nconst sortedLetters = Object.keys(grouped).sort();\n\nfor (let letter of sortedLetters) {\n    dv.header(4, `${letter}`);\n    dv.table(\n        [\"Term\", \"Definition\"],\n        grouped[letter].map(d => [`**${d.key}**`, d.value])\n    );\n}",
+        "line_start": 758,
+        "line_end": 791,
+        "char_count": 826,
+        "line_count": 32,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [
+      {
+        "display_text": "https://help.obsidian.md",
+        "url": "https://help.obsidian.md",
+        "format": "markdown",
+        "line_number": 716,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "display_text": "https://blacksmithgu.github.io/obsidian-dataview/",
+        "url": "https://blacksmithgu.github.io/obsidian-dataview/",
+        "format": "markdown",
+        "line_number": 718,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "display_text": "https://publish.obsidian.md/tasks/",
+        "url": "https://publish.obsidian.md/tasks/",
+        "format": "markdown",
+        "line_number": 720,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "display_text": "https://www.raulpacheco.org/resources/literature-reviews/",
+        "url": "https://www.raulpacheco.org/resources/literature-reviews/",
+        "format": "markdown",
+        "line_number": 728,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [
+      {
+        "ref_id": "*",
+        "content": null,
+        "type": "reference",
+        "line_number": 761,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "ref_id": "\\",
+        "content": null,
+        "type": "reference",
+        "line_number": 761,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      }
+    ],
+    "color_spans": [
+      {
+        "color_hex": "#7200FF",
+        "text": "Overview",
+        "semantic_role": "Custom (#7200FF)",
+        "line_number": 37,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      }
+    ],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**[[Research Question Development Frameworks]]**",
+          "indent_level": 0,
+          "line_number": 612,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "**[[Progressive Summarization Implementation]]**",
+          "indent_level": 0,
+          "line_number": 614,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "**[[Literature Review Matrix Methods]]**",
+          "indent_level": 0,
+          "line_number": 624,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "**[[Metacognitive Monitoring in Knowledge Work]]**",
+          "indent_level": 0,
+          "line_number": 626,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "*Connection*: This topic directly supports the \"Research Question Engineering\" section by providing systematic approaches to formulating investigable, substantive questions",
+          "indent_level": 1,
+          "line_number": 612,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "*Depth Potential*: Deep exploration would cover question hierarchies, the relationship between theoretical and empirical questions, and techniques from various research traditions",
+          "indent_level": 1,
+          "line_number": 612,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Would link to methodology notes, critical thinking frameworks, and domain-specific research methods",
+          "indent_level": 1,
+          "line_number": 614,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "*Connection*: Tiago Forte's layered highlighting approach complements the capture phase of the three-stage pipeline",
+          "indent_level": 1,
+          "line_number": 616,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "*Depth Potential*: Could develop specific techniques for each summarization layer, Obsidian-specific implementations, and cognitive science foundations",
+          "indent_level": 1,
+          "line_number": 616,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Bridges Building a Second Brain methodology with Zettelkasten approaches, connecting to note-taking and reading workflow notes",
+          "indent_level": 1,
+          "line_number": 620,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "*Connection*: Synthesis matrix approaches directly support the synthesis phase of research, providing structured techniques for cross-source analysis",
+          "indent_level": 1,
+          "line_number": 624,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "*Depth Potential*: Could cover conceptual synthesis spreadsheets, thematic analysis matrices, gap identification techniques",
+          "indent_level": 1,
+          "line_number": 626,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Connects to literature note methodology, thesis writing workflows, and academic research practices",
+          "indent_level": 1,
+          "line_number": 626,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "*Connection*: The PKB's metacognitive advantages deserve deeper exploration, connecting cognitive science research to practical implementation",
+          "indent_level": 1,
+          "line_number": 628,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "*Depth Potential*: Could develop specific self-assessment techniques, calibration practices, and reflection protocols grounded in metacognition research",
+          "indent_level": 1,
+          "line_number": 628,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Central bridge between your cognitive science domain and PKM methodology, enabling evidence-based practice design",
+          "indent_level": 1,
+          "line_number": 628,
+          "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{siblings.length} semantic siblings** • Total shared:",
+        "format": "inline",
+        "line_number": 89,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "expression": "{totalNotes} | **Recent activity**:",
+        "format": "inline",
+        "line_number": 166,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "expression": "{maturityDistribution.evergreen} | 🌿",
+        "format": "inline",
+        "line_number": 168,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "expression": "{maturityDistribution.developing} | 🌰",
+        "format": "inline",
+        "line_number": 168,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "expression": "{ageDays} days | **Staleness**:",
+        "format": "inline",
+        "line_number": 206,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      },
+      {
+        "expression": "{current[\"review-count\"] || 0} reviews |",
+        "format": "inline",
+        "line_number": 208,
+        "source": "pkb-report-conducting-research-through-a-pkb-202512122338.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Atomic notes",
+      "Cognitive Load Theory",
+      "Cognitive Science",
+      "Critical Thinking Frameworks",
+      "Dataview",
+      "Dataview plugin",
+      "Distributed Cognition",
+      "George Miller",
+      "Knowledge Graph Theory",
+      "Literature Review Matrix Methods",
+      "Map of Content",
+      "Maps of Content",
+      "Mendeley",
+      "Metacognition",
+      "Metacognitive Monitoring in Knowledge Work",
+      "Nick Milo",
+      "Niklas Luhmann",
+      "Obsidian",
+      "Paperpile",
+      "Paul-Elder model",
+      "Progressive Summarization",
+      "Progressive Summarization Implementation",
+      "QuickAdd",
+      "Research Question Development Frameworks",
+      "Self-Determination Theory",
+      "Tasks",
+      "Tasks plugin",
+      "Templater",
+      "The Architecture of Research: Conducting Systematic Inquiry Within a Personal Knowledge Base",
+      "Zettelkasten methodology",
+      "Zotero",
+      "Zotero Integration",
+      "atomic notes",
+      "chunking",
+      "distributed cognition",
+      "extended mind",
+      "information processing",
+      "literature notes",
+      "meta-level cognition",
+      "metacognition",
+      "object-level cognition",
+      "permanent notes",
+      "reference manager",
+      "testing effect",
+      "weekly review",
+      "wiki-links"
+    ],
+    "unique_wiki_link_count": 46,
+    "unique_tags": [
+      "#knowledge-workflow/synthesis",
+      "#obsidian",
+      "#pkb/architecture",
+      "#pkm/methodology",
+      "#project/archived",
+      "#reference-note",
+      "#research-methodology",
+      "#status/evergreen",
+      "#status/inbox"
+    ],
+    "unique_tag_count": 9,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Atomic notes",
+      "Cognitive Load Theory",
+      "Cognitive Science",
+      "Critical Thinking Frameworks",
+      "Dataview",
+      "Dataview plugin",
+      "Distributed Cognition",
+      "George Miller",
+      "Knowledge Graph Theory",
+      "Literature Review Matrix Methods",
+      "Map of Content",
+      "Maps of Content",
+      "Mendeley",
+      "Metacognition",
+      "Metacognitive Monitoring in Knowledge Work",
+      "Nick Milo",
+      "Niklas Luhmann",
+      "Obsidian",
+      "Paperpile",
+      "Paul-Elder model",
+      "Progressive Summarization",
+      "Progressive Summarization Implementation",
+      "QuickAdd",
+      "Research Question Development Frameworks",
+      "Self-Determination Theory",
+      "Tasks",
+      "Tasks plugin",
+      "Templater",
+      "The Architecture of Research: Conducting Systematic Inquiry Within a Personal Knowledge Base",
+      "Zettelkasten methodology",
+      "Zotero",
+      "Zotero Integration",
+      "atomic notes",
+      "chunking",
+      "distributed cognition",
+      "extended mind",
+      "information processing",
+      "literature notes",
+      "meta-level cognition",
+      "metacognition",
+      "object-level cognition",
+      "permanent notes",
+      "reference manager",
+      "testing effect",
+      "weekly review",
+      "wiki-links"
+    ]
+  }
+}

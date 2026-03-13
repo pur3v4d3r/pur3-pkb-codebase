@@ -1,0 +1,2738 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.784712",
+    "source_file": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+    "source_file_size_bytes": 29487,
+    "processing_time_seconds": 0.01
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Task Tracking with Dataview",
+        "Tasks + Dataview Guide"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "type/reference",
+        "status/in-progress",
+        "pkb",
+        "pkm",
+        "review-system",
+        "cognitive-science/cognitive-load",
+        "skill-acquisition",
+        "cognitive-resources",
+        "pkb/optimization",
+        "dataview-queries",
+        "cognitive-pkm"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251202174009",
+      "created": "2025-12-02T17:40:09",
+      "modified": "2025-12-02T17:40:09",
+      "week": "[[2025-W49]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "maturity": "needs-review",
+      "confidence": "speculative",
+      "next-review": "2025-12-09",
+      "review-count": "0",
+      "link-up": [
+        "[[pkb-&-pkm-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-02|Daily-Note]]"
+      ]
+    },
+    "word_count": 4414,
+    "character_count": 28452,
+    "line_count": 990,
+    "heading_count": 60
+  },
+  "extraction_summary": {
+    "total_items_extracted": 243,
+    "by_type": {
+      "headings": 60,
+      "callouts": 42,
+      "wiki_links": 36,
+      "inline_fields": 10,
+      "definitions": 0,
+      "tags": 18,
+      "code_blocks": 69,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 8,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Tracking Tasks with Tasks Plugin and Dataview",
+      "anchor": "tracking-tasks-with-tasks-plugin-and-dataview",
+      "line_number": 37,
+      "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📊 Note Metadata Dashboard",
+          "anchor": "note-metadata-dashboard",
+          "line_number": 44,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Related Notes",
+              "anchor": "related-notes",
+              "line_number": 107,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Sources & References",
+              "anchor": "sources-references",
+              "line_number": 115,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Backlinks & Connections",
+              "anchor": "backlinks-connections",
+              "line_number": 124,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2025-12-02 - Initial Creation",
+              "anchor": "2025-12-02-initial-creation",
+              "line_number": 134,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Tags & Classification",
+              "anchor": "tags-classification",
+              "line_number": 139,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Review System",
+              "anchor": "review-system",
+              "line_number": 144,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "📋 Tracking Tasks with Tasks Plugin and Dataview",
+      "anchor": "tracking-tasks-with-tasks-plugin-and-dataview",
+      "line_number": 250,
+      "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🎯 Why Combine Tasks Plugin with Dataview?",
+          "anchor": "why-combine-tasks-plugin-with-dataview",
+          "line_number": 257,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚙️ Foundation: Setting Up Both Plugins",
+          "anchor": "foundation-setting-up-both-plugins",
+          "line_number": 272,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Installing and Configuring Tasks Plugin",
+              "anchor": "installing-and-configuring-tasks-plugin",
+              "line_number": 274,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Installing and Configuring Dataview",
+              "anchor": "installing-and-configuring-dataview",
+              "line_number": 296,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📝 Tasks Plugin: Core Syntax and Features",
+          "anchor": "tasks-plugin-core-syntax-and-features",
+          "line_number": 313,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Basic Task Syntax",
+              "anchor": "basic-task-syntax",
+              "line_number": 315,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Date Handling",
+              "anchor": "date-handling",
+              "line_number": 340,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Recurrence Patterns",
+              "anchor": "recurrence-patterns",
+              "line_number": 361,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Priority System",
+              "anchor": "priority-system",
+              "line_number": 387,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔍 Tasks Plugin: Native Query Syntax",
+          "anchor": "tasks-plugin-native-query-syntax",
+          "line_number": 399,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Basic Query Structure",
+              "anchor": "basic-query-structure",
+              "line_number": 401,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Query instructions here",
+      "anchor": "query-instructions-here",
+      "line_number": 407,
+      "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Advanced Filtering",
+          "anchor": "advanced-filtering",
+          "line_number": 446,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Grouping and Sorting",
+          "anchor": "grouping-and-sorting",
+          "line_number": 469,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🗄️ Dataview Integration: Querying Tasks with DQL",
+          "anchor": "dataview-integration-querying-tasks-with-dql",
+          "line_number": 499,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Understanding Dataview's Task Query Type",
+              "anchor": "understanding-dataviews-task-query-type",
+              "line_number": 501,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Basic Dataview TASK Queries",
+              "anchor": "basic-dataview-task-queries",
+              "line_number": 511,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Filtering by Task Metadata",
+              "anchor": "filtering-by-task-metadata",
+              "line_number": 548,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Combining with Inline Fields",
+              "anchor": "combining-with-inline-fields",
+              "line_number": 573,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎨 Practical Dashboard Patterns",
+          "anchor": "practical-dashboard-patterns",
+          "line_number": 596,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Pattern 1: Project Task Dashboard",
+              "anchor": "pattern-1-project-task-dashboard",
+              "line_number": 598,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Pattern 2: Daily Note Integration",
+              "anchor": "pattern-2-daily-note-integration",
+              "line_number": 636,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Pattern 3: Context-Based Views",
+              "anchor": "pattern-3-context-based-views",
+              "line_number": 674,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Pattern 4: Priority Matrix",
+              "anchor": "pattern-4-priority-matrix",
+              "line_number": 706,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🚀 Advanced Techniques",
+          "anchor": "advanced-techniques",
+          "line_number": 746,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Custom Metadata Fields",
+              "anchor": "custom-metadata-fields",
+              "line_number": 748,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "DataviewJS for Complex Logic",
+              "anchor": "dataviewjs-for-complex-logic",
+              "line_number": 774,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Templater Integration",
+              "anchor": "templater-integration",
+              "line_number": 802,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Query Presets for Reusability",
+              "anchor": "query-presets-for-reusability",
+              "line_number": 826,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚠️ Common Pitfalls and Solutions",
+          "anchor": "common-pitfalls-and-solutions",
+          "line_number": 853,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Issue 1: Dataview Can't Find Tasks Plugin Tasks",
+              "anchor": "issue-1-dataview-cant-find-tasks-plugin-tasks",
+              "line_number": 858,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Issue 2: Date Comparisons Not Working",
+              "anchor": "issue-2-date-comparisons-not-working",
+              "line_number": 868,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "❌ WRONG",
+      "anchor": "wrong",
+      "line_number": 874,
+      "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "✅ CORRECT",
+      "anchor": "correct",
+      "line_number": 877,
+      "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "✅ ALSO CORRECT (Dataview)",
+      "anchor": "also-correct-dataview",
+      "line_number": 880,
+      "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Issue 3: Tags in Tasks Not Matching",
+          "anchor": "issue-3-tags-in-tasks-not-matching",
+          "line_number": 884,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Issue 4: Performance Degradation",
+          "anchor": "issue-4-performance-degradation",
+          "line_number": 898,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🎓 Best Practices and Workflow Design",
+          "anchor": "best-practices-and-workflow-design",
+          "line_number": 912,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Principle 1: Semantic Consistency",
+              "anchor": "principle-1-semantic-consistency",
+              "line_number": 914,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Principle 2: Progressive Disclosure",
+              "anchor": "principle-2-progressive-disclosure",
+              "line_number": 926,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Principle 3: Context Over Collection",
+              "anchor": "principle-3-context-over-collection",
+              "line_number": 931,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Principle 4: Regular Maintenance",
+              "anchor": "principle-4-regular-maintenance",
+              "line_number": 938,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 Integration with Other Plugins",
+          "anchor": "integration-with-other-plugins",
+          "line_number": 950,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "QuickAdd for Rapid Task Capture",
+              "anchor": "quickadd-for-rapid-task-capture",
+              "line_number": 952,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Day Planner for Time Blocking",
+              "anchor": "day-planner-for-time-blocking",
+              "line_number": 966,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Calendar for Visual Timeline",
+              "anchor": "calendar-for-visual-timeline",
+              "line_number": 981,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🧭 Further Exploration",
+          "anchor": "further-exploration",
+          "line_number": 997,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. **[[Tasks Plugin Query Language]]**",
+              "anchor": "1-tasks-plugin-query-language",
+              "line_number": 999,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. **[[Dataview Query Optimization Strategies]]**",
+              "anchor": "2-dataview-query-optimization-strategies",
+              "line_number": 1004,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. **[[GTD (Getting Things Done) Implementation in Obsidian]]**",
+              "anchor": "3-gtd-getting-things-done-implementation-in-obsidian",
+              "line_number": 1009,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. **[[Metadata-Driven Workflows in PKM]]**",
+              "anchor": "4-metadata-driven-workflows-in-pkm",
+              "line_number": 1014,
+              "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "Untitled",
+        "body": "- **Title**:: [[Tracking Tasks with Tasks Plugin and Dataview]]\n- **Prompt/Topic Used**:: \n- **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`",
+        "line_number": 39,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 794,
+        "char_end": 974
+      },
+      {
+        "type": "fail",
+        "title": "🛠️ Metadata Health Check",
+        "body": "**Missing Fields**:: `$= const fields = [\"status\", \"type\", \"tags\"]; const missing = fields.filter(f => !dv.current()[f]); missing.length > 0 ? \"⚠️ Missing: \" + missing.join(\", \") : \"✅ All Systems Go\"`",
+        "line_number": 45,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 1004,
+        "char_end": 1242
+      },
+      {
+        "type": "metadata",
+        "title": "Untitled",
+        "body": "**Note-Type**: `= this.type`\n**Development Status**: `= this.maturity`  \n**Epistemic Confidence**: `= this.confidence`  \n**Next Review**: `= this.next-review`  \n**Review Count**: `= this.review-count`  \n**Created**: `= this.created`  \n**Last Modified**: `= this.modified`",
+        "line_number": 48,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 1243,
+        "char_end": 1543
+      },
+      {
+        "type": "quote",
+        "title": "📝 Content Metrics",
+        "body": "**Word Count**:: `= this.file.size` B | **Est. Read Time**:: `= round(this.file.size / 1300) + \" min\"`\n**Depth Class**:: `= choice(this.file.size < 500, \"🌱 Stub\", choice(this.file.size < 2000, \"📄 Note\", \"📜 Essay\"))`",
+        "line_number": 57,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 1544,
+        "char_end": 1793
+      },
+      {
+        "type": "calendar",
+        "title": "🕰️ Temporal Context",
+        "body": "**Created**:: `= this.file.ctime` | **Age**:: `= (date(today) - this.file.ctime).days + \" days\"`\n**Last Touch**:: `= this.file.mtime` | **Staleness**:: `= choice((date(today) - this.file.mtime).days > 180, \"🕸️ Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂 Cold\", \"🔥 Fresh\"))`",
+        "line_number": 61,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 1794,
+        "char_end": 2125
+      },
+      {
+        "type": "network",
+        "title": "🔗 Network Connectivity",
+        "body": "**In-Links**:: `= length(this.file.inlinks)` | **Out-Links**:: `= length(this.file.outlinks)`\n**Network Status**:: `= choice(length(this.file.inlinks) = 0, \"🕸️ Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱 Node\"))`",
+        "line_number": 65,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 2126,
+        "char_end": 2394
+      },
+      {
+        "type": "important",
+        "title": "Review Schedule",
+        "body": "- **Next Review**: `= this.next-review`\n- **Review Frequency**: Based on maturity level\n  - Seedling: Weekly\n  - Budding: Bi-weekly\n  - Developing: Monthly\n  - Evergreen: Quarterly",
+        "line_number": 145,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 4556,
+        "char_end": 4780
+      },
+      {
+        "type": "",
+        "title": "### Claude Thinking",
+        "body": "## REQUEST ANALYSIS\n**Request Classification:**\n- Type: comprehensive_note\n- Scope: reference\n- Research Required: YES - Need to verify current best practices for Tasks plugin + Dataview integration in Obsidian\n- Note Type: Reference Note (technical guide)\n**User Context:**\n- Advanced Obsidian user with sophisticated PKB\n- Extensive plugin knowledge (Dataview, Templater, Meta Bind, Tasks)\n- Values automation and metadata-driven workflows\n- Needs production-ready, immediately implementable content\n**Research Needs:**\n- Tasks plugin syntax and capabilities (current version)\n- Dataview query integration with Tasks\n- Best practices for task metadata\n- Common patterns and workflows\n- Integration opportunities with user's existing system\n**Structural Planning:**\nI. Foundation Layer\n   - Tasks plugin overview\n   - Dataview overview\n   - Why combine them\n   - Prerequisites and setup\nII. Tasks Plugin Deep Dive\n   - Core syntax and features\n   - Metadata fields\n   - Emoji support\n   - Date handling\n   - Recurrence patterns\n   - Priority systems\nIII. Dataview Integration\n   - Query syntax for tasks\n   - TABLE queries\n   - LIST queries\n   - TASK queries\n   - Filtering strategies\n   - Sorting approaches\nIV. Practical Patterns\n   - Project-based tracking\n   - Priority matrices\n   - Due date dashboards\n   - Status workflows\n   - Context-based views\nV. Advanced Techniques\n   - Custom metadata fields\n   - Inline fields for enrichment\n   - Templater automation\n   - Dynamic dashboards\n   - Cross-note aggregation\nVI. Optimization & Troubleshooting\n   - Performance considerations\n   - Common pitfalls\n   - Debugging queries\n   - Best practices\n**Wiki-Link Opportunities:**\n- [[Tasks Plugin]]\n- [[Dataview Plugin]]\n- [[Obsidian]]\n- [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]\n- [[Task Management]]\n- [[YAML Frontmatter]]\n- [[Metadata-Driven Workflows]]\n- [[Query Languages]]\n- [[Templater Plugin]]\n- [[GTD (Getting Things Done)]]\n- [[Project Management in Obsidian]]\n- [[Dashboard Design]]\n- [[Inline Fields]]\n- [[JavaScript in Dataview]]\n- [[Task Prioritization]]\n- [[Date Management]]\n- [[Recurrence Patterns]]\n- [[Context-Based Productivity]]\n**Callout Strategy:**\n- [!definition] for key concepts\n- [!methodology-and-sources] for syntax rules\n- [!example] for concrete implementations\n- [!helpful-tip] for best practices\n- [!warning] for common mistakes\n- [!what-this-does] for explaining queries\n- [!core-principle] for foundational concepts\n- [!quick-reference] for syntax cheatsheets\n**Metadata Planning:**\n- Tags: #obsidian #tasks-plugin #dataview #task-management #reference-note\n- Aliases: [Task Tracking with Dataview, Tasks + Dataview Guide, Task Query Reference]\nNow I'll execute web searches to ensure current accuracy.\nNow I have sufficient research on both Tasks plugin and Dataview integration. Let me construct the comprehensive reference note.",
+        "line_number": 156,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 4787,
+        "char_end": 7901
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "**This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks Plugin]] and [[Dataview Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.",
+        "line_number": 252,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 8146,
+        "char_end": 8558
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "The [[Tasks Plugin]] provides **rich task metadata and interactive functionality**, while [[Dataview Plugin]] offers **powerful querying and aggregation capabilities**. Used together, they create a flexible, metadata-driven task management system that scales from simple to-do lists to enterprise-level [[Project Management in Obsidian]].",
+        "line_number": 259,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 8610,
+        "char_end": 8971
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Start Simple, Scale Gradually**: Begin with Tasks plugin's native queries for project-specific views, then layer in Dataview when you need cross-vault aggregation or complex filtering logic. This prevents overwhelm while building toward sophistication.",
+        "line_number": 267,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 9481,
+        "char_end": 9755
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Critical Initial Configuration:**\n\n1. **Global Task Filter** (Highly Recommended)\n   - Navigate to: `Settings → Tasks → Global Filter`\n   - Set a filter like `#task` to differentiate between regular checkboxes and actual tasks\n   - This prevents legacy checkboxes in older notes from appearing in task queries\n   - Format: Add the tag to any task you want tracked: `- [ ] Task description #task`\n\n2. **Recurrence Behavior**\n   - Enable \"Next recurrence appears on the line below\"\n   - This keeps completed recurring tasks visible as history while generating new instances below\n   - Alternative: Default places new recurrence above (useful for keeping active task at top)\n\n3. **Hotkey Optimization**\n   - Replace \"Toggle checkbox status\" with \"Tasks: Toggle Done\" and bind to `Ctrl+Enter` (Windows/Linux) or `Cmd+Enter` (Mac)\n   - This ensures task metadata (completion dates, etc.) is properly recorded",
+        "line_number": 278,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 9980,
+        "char_end": 10947
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Essential Dataview Setup:**\n\n1. Install from Community Plugins (search \"Dataview\")\n2. Enable in Settings under Community Plugins\n3. **Important Settings to Configure:**\n   - `Enable JavaScript Queries`: Turn ON if you need advanced DataviewJS functionality\n   - `Enable Inline JavaScript Queries`: Turn ON for inline JS expressions\n   - `Date Format`: Set to match your preferred format (e.g., `yyyy-MM-dd`)\n   - `Task Completion Tracking`: Enable to auto-add completion dates when checking tasks in Dataview queries",
+        "line_number": 300,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 11098,
+        "char_end": 11664
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Task Metadata Emojis:**\n- **📅 Due Date**: When the task must be completed\n- **⏳ Scheduled Date**: When you plan to work on the task\n- **🛫 Start Date**: When the task becomes actionable\n- **✅ Done Date**: Automatically added when task is completed\n- **🔁 Recurrence**: Pattern for repeating tasks\n- **⏫ High Priority** / **🔼 Medium Priority** / **🔽 Low Priority**\n- **🏁 Delete**: Automatically deletes task upon completion (useful for recurring checklists)",
+        "line_number": 330,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 12102,
+        "char_end": 12591
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Date Format Flexibility:**\n\nTasks plugin accepts multiple date formats:\n```markdown\n- [ ] Task 📅 2024-12-15\n- [ ] Task 📅 2024-12-15\n- [ ] Task 📅 December 15, 2024\n- [ ] Task 📅 15 Dec 2024\n```\n\n**Relative Dates:**\n```markdown\n- [ ] Task 📅 today\n- [ ] Task 📅 tomorrow\n- [ ] Task 📅 next Monday\n- [ ] Task 📅 in 2 weeks\n```",
+        "line_number": 342,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 12611,
+        "char_end": 12979
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Recurrence Syntax Structure:**\n\n```markdown\n🔁 every [interval] [day/week/month/year] [on specific day/date]\n```\n\n**Examples:**\n```markdown\n- [ ] Daily standup 🔁 every day\n- [ ] Weekly review 🔁 every week on Friday\n- [ ] Monthly report 🔁 every month on the 1st\n- [ ] Quarterly planning 🔁 every 3 months\n- [ ] Birthday reminder 🔁 every year on January 15th\n- [ ] Biweekly sprint review 🔁 every 2 weeks on Monday\n```",
+        "line_number": 363,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 13005,
+        "char_end": 13480
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**When to Use Which Date Type:**\n- Use **🛫 Start Date** for tasks with dependencies or that shouldn't appear until a specific time\n- Use **⏳ Scheduled Date** for time-blocking and planning when you'll work on something\n- Use **📅 Due Date** for hard deadlines and commitments\n- Combine all three for comprehensive task lifecycle tracking",
+        "line_number": 380,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 13481,
+        "char_end": 13845
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Priority Levels:**\n- `⏫` **Highest Priority**: Critical, urgent tasks\n- `🔼` **High Priority**: Important but not urgent\n- (no symbol) **Normal Priority**: Default state\n- `🔽` **Low Priority**: Nice-to-have, defer if needed\n- `➖` **Lowest Priority**: Someday/maybe tasks",
+        "line_number": 389,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 13867,
+        "char_end": 14180
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Essential Query Patterns:**\n\n**1. All Incomplete Tasks:**\n````markdown\n```tasks\nnot done\n```\n````\n\n**2. Tasks Due Today:**\n````markdown\n```tasks\nnot done\ndue today\n```\n````\n\n**3. High Priority Tasks:**\n````markdown\n```tasks\nnot done\npriority is above none\nsort by priority\n```\n````\n\n**4. Tasks from Specific Folder:**\n````markdown\n```tasks\nnot done\npath includes Projects/Active\n```\n````",
+        "line_number": 411,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 14389,
+        "char_end": 14858
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Powerful Filter Combinations:**\n\n````markdown\n```tasks\nnot done\n(due before tomorrow) OR (priority is high)\npath includes Projects\nheading includes Action Items\nsort by due\nlimit 10\n```\n````\n\n**Filter Operators:**\n- `includes` / `does not include`: Text matching\n- `is` / `is not`: Exact matching\n- `before` / `after`: Date comparisons\n- `AND` / `OR` / `NOT`: Boolean logic\n- `(parentheses)`: Grouping logic",
+        "line_number": 448,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 14883,
+        "char_end": 15360
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Organization Strategies:**\n\n````markdown\n```tasks\nnot done\ngroup by folder\nsort by priority\nsort by due\n```\n````\n\n**Grouping Options:**\n- `group by folder`: Organize by file location\n- `group by heading`: Organize by section header\n- `group by priority`: Organize by priority level\n- `group by due`: Organize by due date\n- `group by status`: Organize by completion status\n\n**Sorting Options:**\n- `sort by priority`: Highest priority first\n- `sort by due`: Earliest due date first\n- `sort by path`: Alphabetical by file path\n- `sort by created`: Oldest tasks first\n- `sort by done`: Completed tasks handling",
+        "line_number": 471,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 15387,
+        "char_end": 16057
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**Key Difference from Tasks Plugin Queries:**\n- **Tasks Plugin**: Task-centric, designed specifically for task management with rich date/priority syntax\n- **Dataview TASK**: Data-centric, leverages vault-wide metadata for dynamic aggregation\n- **Best Practice**: Use Tasks plugin for project-specific views, Dataview for cross-cutting dashboards",
+        "line_number": 505,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 16357,
+        "char_end": 16731
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Fundamental Patterns:**\n\n**1. Incomplete Tasks with Tag Filter:**\n````markdown\n```dataview\nTASK\nWHERE !completed AND contains(tags, \"#important\")\n```\n````\n\n**2. Tasks from Specific Folder:**\n````markdown\n```dataview\nTASK\nFROM \"Projects/Active\"\nWHERE !completed\n```\n````\n\n**3. Tasks Completed Today:**\n````markdown\n```dataview\nTASK\nWHERE completed AND completion = date(today)\n```\n````",
+        "line_number": 520,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 16822,
+        "char_end": 17274
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Accessing Task Properties in Dataview:**\n\nTasks in Dataview expose these implicit fields:\n- `completed`: Boolean (true/false)\n- `fullyCompleted`: Boolean (all subtasks also complete)\n- `text`: Task text content\n- `line`: Line number in file\n- `path`: File path\n- `status`: Task status character\n- `completion`: Completion date (if completed)\n- `tags`: Array of tags in the task line",
+        "line_number": 550,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 17307,
+        "char_end": 17743
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Enriching Tasks with Inline Metadata:**\n\n**In your notes:**\n```markdown\n- [ ] Finalize Q4 budget [priority:: high] [owner:: John] #finance\n- [ ] Review marketing deck [priority:: medium] [owner:: Sarah] #marketing\n```\n\n**Query them:**\n````markdown\n```dataview\nTASK\nWHERE !completed \n  AND priority = \"high\"\nGROUP BY owner\n```\n````",
+        "line_number": 575,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 17917,
+        "char_end": 18297
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Comprehensive Project View:**\n\n````markdown\n## 🎯 Active Tasks by Priority\n\n```tasks\nnot done\npath includes {{PROJECT_FOLDER}}\n(priority is high) OR (due before in 3 days)\ngroup by priority\nsort by due\n```\n\n## 📅 This Week's Schedule\n\n```dataview\nTASK\nFROM \"{{PROJECT_FOLDER}}\"\nWHERE !completed \n  AND scheduled >= date(today) \n  AND scheduled <= date(today) + dur(7 days)\nSORT scheduled ASC\n```\n\n## ✅ Recently Completed\n\n```tasks\ndone\npath includes {{PROJECT_FOLDER}}\ndone after 1 week ago\nsort by done reverse\nlimit 10\n```\n````",
+        "line_number": 600,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 18377,
+        "char_end": 18988
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Daily Note Task Section:**\n\n````markdown\n---\ndate: 2024-12-02\n---\n\n## 📋 Today's Tasks\n\n```tasks\nnot done\n(due today) OR (scheduled today)\nsort by priority\n```\n\n## ⚠️ Overdue Items\n\n```tasks\nnot done\ndue before today\nsort by due\n```\n\n## 🎯 This Week's Focus\n\n```dataview\nTASK\nWHERE !completed\n  AND (due >= date(today) AND due <= date(today) + dur(7 days))\nSORT due ASC\n```\n````",
+        "line_number": 640,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 19134,
+        "char_end": 19590
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**GTD-Style Context Filtering:**\n\n````markdown\n## 💻 @computer Tasks\n\n```tasks\nnot done\ndescription includes @computer\nsort by priority\n```\n\n## 📞 @phone Tasks\n\n```tasks\nnot done\ndescription includes @phone\nsort by due\n```\n\n## 🏃 @errands\n\n```dataview\nTASK\nWHERE !completed\n  AND contains(text, \"@errands\")\nSORT file.name\n```\n````",
+        "line_number": 676,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 19627,
+        "char_end": 20024
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Eisenhower Matrix Implementation:**\n\n````markdown\n## 🔴 Urgent & Important\n\n```tasks\nnot done\npriority is high\ndue before in 3 days\n```\n\n## 🟡 Important but Not Urgent\n\n```tasks\nnot done\npriority is high\ndue after in 3 days\n```\n\n## 🟢 Urgent but Not Important\n\n```tasks\nnot done\npriority is normal\ndue before in 3 days\n```\n\n## ⚪ Neither Urgent nor Important\n\n```tasks\nnot done\npriority is low\n```\n````",
+        "line_number": 708,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 20057,
+        "char_end": 20539
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Extending Task Metadata with Inline Fields:**\n\nTasks plugin respects Dataview inline fields, allowing custom enrichment:\n\n```markdown\n- [ ] Complete design mockups [client:: Acme Corp] [estimate:: 4h] [sprint:: 23] 📅 2024-12-20 ⏫\n```\n\n**Query with custom fields:**\n````markdown\n```dataview\nTABLE \n  text AS \"Task\",\n  client,\n  estimate,\n  sprint\nFROM \"Projects\"\nWHERE !completed \n  AND sprint = 23\nSORT estimate DESC\n```\n````",
+        "line_number": 750,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 20599,
+        "char_end": 21100
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Advanced Aggregation with JavaScript:**\n\n````markdown\n```dataviewjs\n// Calculate total estimated hours for incomplete tasks\nconst tasks = dv.pages()\n  .file.tasks\n  .where(t => !t.completed && t.estimate);\n\nconst totalHours = tasks\n  .map(t => {\n    const match = t.text.match(/\\[estimate:: (\\d+)h\\]/);\n    return match ? parseInt(match[1]) : 0;\n  })\n  .reduce((sum, hours) => sum + hours, 0);\n\ndv.header(3, `📊 Total Estimated Hours: ${totalHours}h`);\ndv.taskList(tasks);\n```\n````",
+        "line_number": 776,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 21135,
+        "char_end": 21671
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**JavaScript Security Considerations:**\nJavaScript queries run at the same access level as any Obsidian plugin and can potentially rewrite, create, or delete files, as well as make network calls. Only use scripts you've written or that come from reputable sources.",
+        "line_number": 798,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 21672,
+        "char_end": 21954
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Automated Task Creation with [[Templater Plugin]]:**\n\n```markdown\n---\nproject: <% tp.file.title %>\ncreated: <% tp.date.now(\"YYYY-MM-DD\") %>\n---\n\n## Project Tasks\n\n```tasks\nnot done\npath includes <% tp.file.folder(true) %>\ngroup by heading\n```\n\n## Quick Add Task\n\n- [ ] <% tp.system.prompt(\"Task description\") %> 📅 <% tp.date.now(\"YYYY-MM-DD\") %> #task\n```",
+        "line_number": 804,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 21982,
+        "char_end": 22393
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Setting Up Query Presets (Tasks Plugin v7.0+):**\n\n1. Navigate to `Settings → Tasks → Presets`\n2. Create a preset with your common filters:\n   - Name: `high-priority-this-week`\n   - Content:\n     ```\n     not done\n     priority is high\n     due before in 7 days\n     sort by due\n     ```\n3. Use in queries:\n   ````markdown\n   ```tasks\n   preset: high-priority-this-week\n   path includes Projects/Active\n   ```\n   ````",
+        "line_number": 830,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 22656,
+        "char_end": 23142
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Frequent Issues and Fixes:**",
+        "line_number": 855,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 23185,
+        "char_end": 23231
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Optimization Strategies:**\n- Use `FROM` clause to limit search scope\n- Add `LIMIT` to cap results\n- Avoid complex regex in DataviewJS when simple filters suffice\n- Tasks searches now only run when visible, not on inactive tabs (v7.0+)\n- Consider archiving completed tasks to separate folders",
+        "line_number": 902,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 24346,
+        "char_end": 24669
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "**Establish and document your task metadata conventions** early. Inconsistent use of tags, dates, and priority markers undermines query reliability.\n\n**Example Convention:**\n- `#task` = Required on all tracked tasks\n- `#project/[name]` = Project categorization\n- `#context/[location]` = GTD-style context tags\n- `[sprint:: N]` = Agile sprint number\n- `[estimate:: Xh]` = Time estimation",
+        "line_number": 916,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 24755,
+        "char_end": 25178
+      },
+      {
+        "type": "the-philosophy",
+        "title": "Untitled",
+        "body": "**Start with simple queries and add complexity as needs emerge.** A task system should reduce cognitive load, not increase it. Begin with basic \"due today\" and \"high priority\" views, then layer in sophistication as your workflow stabilizes.",
+        "line_number": 928,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 25220,
+        "char_end": 25483
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Embed tasks within relevant notes** rather than maintaining separate task repositories. This preserves context and makes your vault more useful as a [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] system. A task about \"Review Q3 financials\" belongs in your Q3 project note, not just a master task list.",
+        "line_number": 935,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 25683,
+        "char_end": 26044
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Schedule Weekly Reviews:**\n- Archive or delete completed tasks\n- Update due dates and priorities\n- Verify recurring tasks are functioning correctly\n- Refactor queries that have become cluttered\n- This maintains system hygiene and prevents query bloat",
+        "line_number": 940,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 26083,
+        "char_end": 26365
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**QuickAdd Macro for Task Creation:**\n\nCreate a QuickAdd choice that:\n1. Prompts for task description\n2. Prompts for due date\n3. Prompts for priority\n4. Prompts for project tag\n5. Inserts formatted task at cursor or to designated inbox note\n\nThis reduces friction in task capture, ensuring more tasks get recorded.",
+        "line_number": 954,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 26445,
+        "char_end": 26793
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Time-Blocked Task Schedule:**\n\n```markdown\n## 📅 Today's Schedule\n\n- 09:00 - [ ] Morning standup #task ⏳ 2024-12-02\n- 10:00 - [ ] Code review session #task ⏳ 2024-12-02\n- 14:00 - [ ] Client presentation #task ⏳ 2024-12-02 ⏫\n```",
+        "line_number": 970,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md",
+        "char_start": 26917,
+        "char_end": 27177
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Tracking Tasks with Tasks Plugin and Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tracking Tasks with Tasks Plugin and Dataview]]",
+        "line_number": 40,
+        "section": "Tracking Tasks with Tasks Plugin and Dataview",
+        "context_line": "> - **Title**:: [[Tracking Tasks with Tasks Plugin and Dataview]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 212,
+        "section": "Review System",
+        "context_line": "> - [[Tasks Plugin]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 213,
+        "section": "Review System",
+        "context_line": "> - [[Dataview Plugin]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 214,
+        "section": "Review System",
+        "context_line": "> - [[Obsidian]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]",
+        "line_number": 215,
+        "section": "Review System",
+        "context_line": "> - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Task Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Task Management]]",
+        "line_number": 216,
+        "section": "Review System",
+        "context_line": "> - [[Task Management]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "YAML Frontmatter",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[YAML Frontmatter]]",
+        "line_number": 217,
+        "section": "Review System",
+        "context_line": "> - [[YAML Frontmatter]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Metadata-Driven Workflows",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metadata-Driven Workflows]]",
+        "line_number": 218,
+        "section": "Review System",
+        "context_line": "> - [[Metadata-Driven Workflows]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Query Languages",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Query Languages]]",
+        "line_number": 219,
+        "section": "Review System",
+        "context_line": "> - [[Query Languages]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Templater Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater Plugin]]",
+        "line_number": 220,
+        "section": "Review System",
+        "context_line": "> - [[Templater Plugin]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "GTD (Getting Things Done)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[GTD (Getting Things Done)]]",
+        "line_number": 221,
+        "section": "Review System",
+        "context_line": "> - [[GTD (Getting Things Done)]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Project Management in Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Management in Obsidian]]",
+        "line_number": 222,
+        "section": "Review System",
+        "context_line": "> - [[Project Management in Obsidian]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Dashboard Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dashboard Design]]",
+        "line_number": 223,
+        "section": "Review System",
+        "context_line": "> - [[Dashboard Design]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Inline Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inline Fields]]",
+        "line_number": 224,
+        "section": "Review System",
+        "context_line": "> - [[Inline Fields]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "JavaScript in Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[JavaScript in Dataview]]",
+        "line_number": 225,
+        "section": "Review System",
+        "context_line": "> - [[JavaScript in Dataview]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Task Prioritization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Task Prioritization]]",
+        "line_number": 226,
+        "section": "Review System",
+        "context_line": "> - [[Task Prioritization]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Date Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Date Management]]",
+        "line_number": 227,
+        "section": "Review System",
+        "context_line": "> - [[Date Management]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Recurrence Patterns",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Recurrence Patterns]]",
+        "line_number": 228,
+        "section": "Review System",
+        "context_line": "> - [[Recurrence Patterns]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Context-Based Productivity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Context-Based Productivity]]",
+        "line_number": 229,
+        "section": "Review System",
+        "context_line": "> - [[Context-Based Productivity]]",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 253,
+        "section": "📋 Tracking Tasks with Tasks Plugin and Dataview",
+        "context_line": "> **This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks Plugin]] and [[Dataview Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 253,
+        "section": "📋 Tracking Tasks with Tasks Plugin and Dataview",
+        "context_line": "> **This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks Plugin]] and [[Dataview Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 253,
+        "section": "📋 Tracking Tasks with Tasks Plugin and Dataview",
+        "context_line": "> **This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks Plugin]] and [[Dataview Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Task Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Task Management]]",
+        "line_number": 253,
+        "section": "📋 Tracking Tasks with Tasks Plugin and Dataview",
+        "context_line": "> **This comprehensive reference note explains how to track, query, and manage tasks in [[Obsidian]] using both the [[Tasks Plugin]] and [[Dataview Plugin]]**—two powerful tools that transform your vault into a sophisticated [[Task Management]] system. Whether you need simple task lists or complex project dashboards, this guide covers the complete integration between these essential plugins.",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 260,
+        "section": "🎯 Why Combine Tasks Plugin with Dataview?",
+        "context_line": "> The [[Tasks Plugin]] provides **rich task metadata and interactive functionality**, while [[Dataview Plugin]] offers **powerful querying and aggregation capabilities**. Used together, they create a flexible, metadata-driven task management system that scales from simple to-do lists to enterprise-level [[Project Management in Obsidian]].",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 260,
+        "section": "🎯 Why Combine Tasks Plugin with Dataview?",
+        "context_line": "> The [[Tasks Plugin]] provides **rich task metadata and interactive functionality**, while [[Dataview Plugin]] offers **powerful querying and aggregation capabilities**. Used together, they create a flexible, metadata-driven task management system that scales from simple to-do lists to enterprise-level [[Project Management in Obsidian]].",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Project Management in Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Management in Obsidian]]",
+        "line_number": 260,
+        "section": "🎯 Why Combine Tasks Plugin with Dataview?",
+        "context_line": "> The [[Tasks Plugin]] provides **rich task metadata and interactive functionality**, while [[Dataview Plugin]] offers **powerful querying and aggregation capabilities**. Used together, they create a flexible, metadata-driven task management system that scales from simple to-do lists to enterprise-level [[Project Management in Obsidian]].",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]",
+        "line_number": 265,
+        "section": "🎯 Why Combine Tasks Plugin with Dataview?",
+        "context_line": "- **Combined Power**: Create intelligent task views that adapt to your workflow, automatically surface relevant work, and maintain context within your [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] system",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 317,
+        "section": "Basic Task Syntax",
+        "context_line": "The [[Tasks Plugin]] extends standard Markdown checkboxes with rich metadata signifiers:",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Templater Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater Plugin]]",
+        "line_number": 805,
+        "section": "Templater Integration",
+        "context_line": "> **Automated Task Creation with [[Templater Plugin]]:**",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]",
+        "line_number": 936,
+        "section": "Principle 3: Context Over Collection",
+        "context_line": "> **Embed tasks within relevant notes** rather than maintaining separate task repositories. This preserves context and makes your vault more useful as a [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] system. A task about \"Review Q3 financials\" belongs in your Q3 project note, not just a master task list.",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Day Planner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Day Planner]]",
+        "line_number": 968,
+        "section": "Day Planner for Time Blocking",
+        "context_line": "The [[Day Planner]] plugin can integrate with Tasks plugin for visual time management:",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Tasks Plugin Query Language",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin Query Language]]",
+        "line_number": 999,
+        "section": "1. **[[Tasks Plugin Query Language]]**",
+        "context_line": "### 1. **[[Tasks Plugin Query Language]]**",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Dataview Query Optimization Strategies",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Query Optimization Strategies]]",
+        "line_number": 1004,
+        "section": "2. **[[Dataview Query Optimization Strategies]]**",
+        "context_line": "### 2. **[[Dataview Query Optimization Strategies]]**",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "GTD (Getting Things Done) Implementation in Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[GTD (Getting Things Done) Implementation in Obsidian]]",
+        "line_number": 1009,
+        "section": "3. **[[GTD (Getting Things Done) Implementation in Obsidian]]**",
+        "context_line": "### 3. **[[GTD (Getting Things Done) Implementation in Obsidian]]**",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Metadata-Driven Workflows in PKM",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metadata-Driven Workflows in PKM]]",
+        "line_number": 1014,
+        "section": "4. **[[Metadata-Driven Workflows in PKM]]**",
+        "context_line": "### 4. **[[Metadata-Driven Workflows in PKM]]**",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 1017,
+        "section": "4. **[[Metadata-Driven Workflows in PKM]]**",
+        "context_line": "- *Knowledge Graph Role*: Foundational architectural principle for advanced [[Obsidian]] usage",
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "priority",
+        "value": "high",
+        "format": "bracket",
+        "line_number": 580,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "field_name": "owner",
+        "value": "John",
+        "format": "bracket",
+        "line_number": 580,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "field_name": "priority",
+        "value": "medium",
+        "format": "bracket",
+        "line_number": 581,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "field_name": "owner",
+        "value": "Sarah",
+        "format": "bracket",
+        "line_number": 581,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "field_name": "client",
+        "value": "Acme Corp",
+        "format": "bracket",
+        "line_number": 756,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "field_name": "estimate",
+        "value": "4h",
+        "format": "bracket",
+        "line_number": 756,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "field_name": "sprint",
+        "value": "23",
+        "format": "bracket",
+        "line_number": 756,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "field_name": "estimate",
+        "value": "(\\d+)h\\",
+        "format": "bracket",
+        "line_number": 788,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "field_name": "sprint",
+        "value": "N",
+        "format": "bracket",
+        "line_number": 923,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "field_name": "estimate",
+        "value": "Xh",
+        "format": "bracket",
+        "line_number": 924,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 180,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "tasks-plugin",
+        "full_tag": "#tasks-plugin",
+        "hierarchy": [
+          "tasks-plugin"
+        ],
+        "line_number": 180,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "dataview",
+        "full_tag": "#dataview",
+        "hierarchy": [
+          "dataview"
+        ],
+        "line_number": 181,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "task-management",
+        "full_tag": "#task-management",
+        "hierarchy": [
+          "task-management"
+        ],
+        "line_number": 181,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 182,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 195,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "tasks-plugin",
+        "full_tag": "#tasks-plugin",
+        "hierarchy": [
+          "tasks-plugin"
+        ],
+        "line_number": 195,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "dataview",
+        "full_tag": "#dataview",
+        "hierarchy": [
+          "dataview"
+        ],
+        "line_number": 195,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "task-management",
+        "full_tag": "#task-management",
+        "hierarchy": [
+          "task-management"
+        ],
+        "line_number": 196,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 196,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "task",
+        "full_tag": "#task",
+        "hierarchy": [
+          "task"
+        ],
+        "line_number": 253,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "task",
+        "full_tag": "#task",
+        "hierarchy": [
+          "task"
+        ],
+        "line_number": 259,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "important",
+        "full_tag": "#important",
+        "hierarchy": [
+          "important"
+        ],
+        "line_number": 394,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "task",
+        "full_tag": "#task",
+        "hierarchy": [
+          "task"
+        ],
+        "line_number": 638,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "TODO",
+        "full_tag": "#TODO",
+        "hierarchy": [
+          "TODO"
+        ],
+        "line_number": 679,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "task",
+        "full_tag": "#task",
+        "hierarchy": [
+          "task"
+        ],
+        "line_number": 733,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "project/",
+        "full_tag": "#project/",
+        "hierarchy": [
+          "project",
+          ""
+        ],
+        "line_number": 736,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "tag": "context/",
+        "full_tag": "#context/",
+        "hierarchy": [
+          "context",
+          ""
+        ],
+        "line_number": 741,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Tracking Tasks with Tasks Plugin and Dataview",
+        "anchor": "tracking-tasks-with-tasks-plugin-and-dataview",
+        "line_number": 37,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Note Metadata Dashboard",
+        "anchor": "note-metadata-dashboard",
+        "line_number": 44,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Related Notes",
+        "anchor": "related-notes",
+        "line_number": 107,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Sources & References",
+        "anchor": "sources-references",
+        "line_number": 115,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Backlinks & Connections",
+        "anchor": "backlinks-connections",
+        "line_number": 124,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "2025-12-02 - Initial Creation",
+        "anchor": "2025-12-02-initial-creation",
+        "line_number": 134,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Tags & Classification",
+        "anchor": "tags-classification",
+        "line_number": 139,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Review System",
+        "anchor": "review-system",
+        "line_number": 144,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 1,
+        "text": "📋 Tracking Tasks with Tasks Plugin and Dataview",
+        "anchor": "tracking-tasks-with-tasks-plugin-and-dataview",
+        "line_number": 250,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Why Combine Tasks Plugin with Dataview?",
+        "anchor": "why-combine-tasks-plugin-with-dataview",
+        "line_number": 257,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ Foundation: Setting Up Both Plugins",
+        "anchor": "foundation-setting-up-both-plugins",
+        "line_number": 272,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Installing and Configuring Tasks Plugin",
+        "anchor": "installing-and-configuring-tasks-plugin",
+        "line_number": 274,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Installing and Configuring Dataview",
+        "anchor": "installing-and-configuring-dataview",
+        "line_number": 296,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "📝 Tasks Plugin: Core Syntax and Features",
+        "anchor": "tasks-plugin-core-syntax-and-features",
+        "line_number": 313,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Task Syntax",
+        "anchor": "basic-task-syntax",
+        "line_number": 315,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Date Handling",
+        "anchor": "date-handling",
+        "line_number": 340,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Recurrence Patterns",
+        "anchor": "recurrence-patterns",
+        "line_number": 361,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Priority System",
+        "anchor": "priority-system",
+        "line_number": 387,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "🔍 Tasks Plugin: Native Query Syntax",
+        "anchor": "tasks-plugin-native-query-syntax",
+        "line_number": 399,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Query Structure",
+        "anchor": "basic-query-structure",
+        "line_number": 401,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 1,
+        "text": "Query instructions here",
+        "anchor": "query-instructions-here",
+        "line_number": 407,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Advanced Filtering",
+        "anchor": "advanced-filtering",
+        "line_number": 446,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Grouping and Sorting",
+        "anchor": "grouping-and-sorting",
+        "line_number": 469,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "🗄️ Dataview Integration: Querying Tasks with DQL",
+        "anchor": "dataview-integration-querying-tasks-with-dql",
+        "line_number": 499,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Understanding Dataview's Task Query Type",
+        "anchor": "understanding-dataviews-task-query-type",
+        "line_number": 501,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Dataview TASK Queries",
+        "anchor": "basic-dataview-task-queries",
+        "line_number": 511,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Filtering by Task Metadata",
+        "anchor": "filtering-by-task-metadata",
+        "line_number": 548,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Combining with Inline Fields",
+        "anchor": "combining-with-inline-fields",
+        "line_number": 573,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "🎨 Practical Dashboard Patterns",
+        "anchor": "practical-dashboard-patterns",
+        "line_number": 596,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Pattern 1: Project Task Dashboard",
+        "anchor": "pattern-1-project-task-dashboard",
+        "line_number": 598,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Pattern 2: Daily Note Integration",
+        "anchor": "pattern-2-daily-note-integration",
+        "line_number": 636,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Pattern 3: Context-Based Views",
+        "anchor": "pattern-3-context-based-views",
+        "line_number": 674,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Pattern 4: Priority Matrix",
+        "anchor": "pattern-4-priority-matrix",
+        "line_number": 706,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "🚀 Advanced Techniques",
+        "anchor": "advanced-techniques",
+        "line_number": 746,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Custom Metadata Fields",
+        "anchor": "custom-metadata-fields",
+        "line_number": 748,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "DataviewJS for Complex Logic",
+        "anchor": "dataviewjs-for-complex-logic",
+        "line_number": 774,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Templater Integration",
+        "anchor": "templater-integration",
+        "line_number": 802,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Query Presets for Reusability",
+        "anchor": "query-presets-for-reusability",
+        "line_number": 826,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "⚠️ Common Pitfalls and Solutions",
+        "anchor": "common-pitfalls-and-solutions",
+        "line_number": 853,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Issue 1: Dataview Can't Find Tasks Plugin Tasks",
+        "anchor": "issue-1-dataview-cant-find-tasks-plugin-tasks",
+        "line_number": 858,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Issue 2: Date Comparisons Not Working",
+        "anchor": "issue-2-date-comparisons-not-working",
+        "line_number": 868,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 1,
+        "text": "❌ WRONG",
+        "anchor": "wrong",
+        "line_number": 874,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 1,
+        "text": "✅ CORRECT",
+        "anchor": "correct",
+        "line_number": 877,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 1,
+        "text": "✅ ALSO CORRECT (Dataview)",
+        "anchor": "also-correct-dataview",
+        "line_number": 880,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Issue 3: Tags in Tasks Not Matching",
+        "anchor": "issue-3-tags-in-tasks-not-matching",
+        "line_number": 884,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Issue 4: Performance Degradation",
+        "anchor": "issue-4-performance-degradation",
+        "line_number": 898,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "🎓 Best Practices and Workflow Design",
+        "anchor": "best-practices-and-workflow-design",
+        "line_number": 912,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Principle 1: Semantic Consistency",
+        "anchor": "principle-1-semantic-consistency",
+        "line_number": 914,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Principle 2: Progressive Disclosure",
+        "anchor": "principle-2-progressive-disclosure",
+        "line_number": 926,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Principle 3: Context Over Collection",
+        "anchor": "principle-3-context-over-collection",
+        "line_number": 931,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Principle 4: Regular Maintenance",
+        "anchor": "principle-4-regular-maintenance",
+        "line_number": 938,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Integration with Other Plugins",
+        "anchor": "integration-with-other-plugins",
+        "line_number": 950,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "QuickAdd for Rapid Task Capture",
+        "anchor": "quickadd-for-rapid-task-capture",
+        "line_number": 952,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Day Planner for Time Blocking",
+        "anchor": "day-planner-for-time-blocking",
+        "line_number": 966,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "Calendar for Visual Timeline",
+        "anchor": "calendar-for-visual-timeline",
+        "line_number": 981,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 2,
+        "text": "🧭 Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 997,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "1. **[[Tasks Plugin Query Language]]**",
+        "anchor": "1-tasks-plugin-query-language",
+        "line_number": 999,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "2. **[[Dataview Query Optimization Strategies]]**",
+        "anchor": "2-dataview-query-optimization-strategies",
+        "line_number": 1004,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "3. **[[GTD (Getting Things Done) Implementation in Obsidian]]**",
+        "anchor": "3-gtd-getting-things-done-implementation-in-obsidian",
+        "line_number": 1009,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "level": 3,
+        "text": "4. **[[Metadata-Driven Workflows in PKM]]**",
+        "anchor": "4-metadata-driven-workflows-in-pkm",
+        "line_number": 1014,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "// 🧠 SYSTEM: Semantic Bridge Engine\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks.map(l => l.path);\n\n// 1. Filter the Vault\nconst siblings = dv.pages()\n    .where(p => p.file.path !== current.file.path) // Exclude self\n    .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n    .map(p => {\n        // Find overlap between this page's links and the current page's links\n        const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n        return { \n            link: p.file.link, \n            sharedCount: shared.length, \n            sharedLinks: shared \n        };\n    })\n    .where(p => p.sharedCount > 0) // Must share at least 1 connection\n    .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n    .limit(5); // Only show top 5\n\n// 2. Render the Bridge\nif (siblings.length > 0) {\n    dv.header(4, \"🌉 Semantic Bridges (Missing Connections)\");\n    dv.table(\n        [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n        siblings.map(s => [\n            s.link, \n            \"🔗 \" + s.sharedCount, \n            s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n        ])\n    );\n} else {\n    dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}",
+        "line_start": 69,
+        "line_end": 106,
+        "char_count": 1392,
+        "line_count": 36,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE type, maturity, confidence\nFROM  \"\"\nWHERE  type = \"reference\"\nSORT \"maturity\" DESC\nLIMIT 15",
+        "line_start": 108,
+        "line_end": 114,
+        "char_count": 97,
+        "line_count": 5,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    source AS \"Source Type\",\n    created AS \"Date Added\"\nFROM [[]]\nWHERE \"claude-sonnet-4.5\"\nSORT created DESC",
+        "line_start": 116,
+        "line_end": 123,
+        "char_count": 117,
+        "line_count": 6,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    type AS \"Type\",\n    maturity AS \"Maturity\",\n    created AS \"Created\"\nFROM [[#]]\nSORT created DESC\nLIMIT 15",
+        "line_start": 125,
+        "line_end": 133,
+        "char_count": 117,
+        "line_count": 7,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] Basic task\n- [x] Completed task\n- [ ] Task with due date 📅 2024-12-15\n- [ ] Task with scheduled date ⏳ 2024-12-10\n- [ ] Task with start date 🛫 2024-12-01\n- [ ] Recurring task 🔁 every week on Monday\n- [ ] High priority task ⏫\n- [ ] Low priority task 🔽",
+        "line_start": 319,
+        "line_end": 328,
+        "char_count": 256,
+        "line_count": 8,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> - [ ] Task 📅 2024-12-15\n> - [ ] Task 📅 2024-12-15\n> - [ ] Task 📅 December 15, 2024\n> - [ ] Task 📅 15 Dec 2024\n>",
+        "line_start": 346,
+        "line_end": 351,
+        "char_count": 113,
+        "line_count": 5,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> - [ ] Task 📅 today\n> - [ ] Task 📅 tomorrow\n> - [ ] Task 📅 next Monday\n> - [ ] Task 📅 in 2 weeks\n>",
+        "line_start": 354,
+        "line_end": 359,
+        "char_count": 99,
+        "line_count": 5,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> 🔁 every [interval] [day/week/month/year] [on specific day/date]\n>",
+        "line_start": 366,
+        "line_end": 368,
+        "char_count": 67,
+        "line_count": 2,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> - [ ] Daily standup 🔁 every day\n> - [ ] Weekly review 🔁 every week on Friday\n> - [ ] Monthly report 🔁 every month on the 1st\n> - [ ] Quarterly planning 🔁 every 3 months\n> - [ ] Birthday reminder 🔁 every year on January 15th\n> - [ ] Biweekly sprint review 🔁 every 2 weeks on Monday\n>",
+        "line_start": 371,
+        "line_end": 378,
+        "char_count": 284,
+        "line_count": 7,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 405,
+        "line_end": 406,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 408,
+        "line_end": 409,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 415,
+        "line_end": 416,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 418,
+        "line_end": 419,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 422,
+        "line_end": 423,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 426,
+        "line_end": 427,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 430,
+        "line_end": 431,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 435,
+        "line_end": 436,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 439,
+        "line_end": 440,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 443,
+        "line_end": 444,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 451,
+        "line_end": 452,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 459,
+        "line_end": 460,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 474,
+        "line_end": 475,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 480,
+        "line_end": 481,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 513,
+        "line_end": 514,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 517,
+        "line_end": 518,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 524,
+        "line_end": 525,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 528,
+        "line_end": 529,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 532,
+        "line_end": 533,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 537,
+        "line_end": 538,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 541,
+        "line_end": 542,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 545,
+        "line_end": 546,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 563,
+        "line_end": 564,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 570,
+        "line_end": 571,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> - [ ] Finalize Q4 budget [priority:: high] [owner:: John] #finance\n> - [ ] Review marketing deck [priority:: medium] [owner:: Sarah] #marketing\n>",
+        "line_start": 579,
+        "line_end": 582,
+        "char_count": 147,
+        "line_count": 3,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 585,
+        "line_end": 586,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 591,
+        "line_end": 592,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> ## 🎯 Active Tasks by Priority\n> \n>",
+        "line_start": 603,
+        "line_end": 606,
+        "char_count": 36,
+        "line_count": 3,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> ## 📅 This Week's Schedule\n> \n>",
+        "line_start": 612,
+        "line_end": 616,
+        "char_count": 35,
+        "line_count": 4,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> ## ✅ Recently Completed\n> \n>",
+        "line_start": 623,
+        "line_end": 627,
+        "char_count": 33,
+        "line_count": 4,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 633,
+        "line_end": 634,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> ---\n> date: 2024-12-02\n> ---\n> \n> ## 📋 Today's Tasks\n> \n>",
+        "line_start": 643,
+        "line_end": 650,
+        "char_count": 59,
+        "line_count": 7,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> ## ⚠️ Overdue Items\n> \n>",
+        "line_start": 654,
+        "line_end": 658,
+        "char_count": 29,
+        "line_count": 4,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> ## 🎯 This Week's Focus\n> \n>",
+        "line_start": 662,
+        "line_end": 666,
+        "char_count": 32,
+        "line_count": 4,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 671,
+        "line_end": 672,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> ## 💻 @computer Tasks\n> \n>",
+        "line_start": 679,
+        "line_end": 682,
+        "char_count": 27,
+        "line_count": 3,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> ## 📞 @phone Tasks\n> \n>",
+        "line_start": 686,
+        "line_end": 690,
+        "char_count": 27,
+        "line_count": 4,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> ## 🏃 @errands\n> \n>",
+        "line_start": 694,
+        "line_end": 698,
+        "char_count": 23,
+        "line_count": 4,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 703,
+        "line_end": 704,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> ## 🔴 Urgent & Important\n> \n>",
+        "line_start": 711,
+        "line_end": 714,
+        "char_count": 30,
+        "line_count": 3,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> ## 🟡 Important but Not Urgent\n> \n>",
+        "line_start": 718,
+        "line_end": 722,
+        "char_count": 39,
+        "line_count": 4,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> ## 🟢 Urgent but Not Important\n> \n>",
+        "line_start": 726,
+        "line_end": 730,
+        "char_count": 39,
+        "line_count": 4,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> ## ⚪ Neither Urgent nor Important\n> \n>",
+        "line_start": 734,
+        "line_end": 738,
+        "char_count": 43,
+        "line_count": 4,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 741,
+        "line_end": 742,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> - [ ] Complete design mockups [client:: Acme Corp] [estimate:: 4h] [sprint:: 23] 📅 2024-12-20 ⏫\n>",
+        "line_start": 755,
+        "line_end": 757,
+        "char_count": 99,
+        "line_count": 2,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 760,
+        "line_end": 761,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 771,
+        "line_end": 772,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 779,
+        "line_end": 780,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 795,
+        "line_end": 796,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> ---\n> project: <% tp.file.title %>\n> created: <% tp.date.now(\"YYYY-MM-DD\") %>\n> ---\n> \n> ## Project Tasks\n> \n>",
+        "line_start": 807,
+        "line_end": 815,
+        "char_count": 112,
+        "line_count": 8,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> ## Quick Add Task\n> \n> - [ ] <% tp.system.prompt(\"Task description\") %> 📅 <% tp.date.now(\"YYYY-MM-DD\") %> #task\n>",
+        "line_start": 819,
+        "line_end": 824,
+        "char_count": 118,
+        "line_count": 5,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">      not done\n>      priority is high\n>      due before in 7 days\n>      sort by due\n>",
+        "line_start": 837,
+        "line_end": 842,
+        "char_count": 88,
+        "line_count": 5,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": ">",
+        "line_start": 844,
+        "line_end": 845,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">",
+        "line_start": 848,
+        "line_end": 849,
+        "char_count": 1,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "# ❌ WRONG\nWHERE due < \"2024-12-15\"\n\n# ✅ CORRECT\nWHERE due < date(\"2024-12-15\")\n\n# ✅ ALSO CORRECT (Dataview)\nWHERE due < date(today)",
+        "line_start": 873,
+        "line_end": 882,
+        "char_count": 131,
+        "line_count": 8,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 889,
+        "line_end": 890,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 895,
+        "line_end": 896,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> ## 📅 Today's Schedule\n> \n> - 09:00 - [ ] Morning standup #task ⏳ 2024-12-02\n> - 10:00 - [ ] Code review session #task ⏳ 2024-12-02\n> - 14:00 - [ ] Client presentation #task ⏳ 2024-12-02 ⏫\n>",
+        "line_start": 973,
+        "line_end": 979,
+        "char_count": 191,
+        "line_count": 6,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "markdown",
+        "code": "",
+        "line_start": 985,
+        "line_end": 986,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 990,
+        "line_end": 991,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "*Knowledge Graph Role*: Serves as specialized technical reference for advanced query construction",
+          "indent_level": 1,
+          "line_number": 858,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+        },
+        {
+          "text": "*Connection*: Performance tuning for large vaults with thousands of tasks and notes",
+          "indent_level": 1,
+          "line_number": 863,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+        },
+        {
+          "text": "*Depth Potential*: Indexing mechanics, query execution order, caching strategies, and computational complexity considerations",
+          "indent_level": 1,
+          "line_number": 864,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Critical for scaling task management systems in professional contexts",
+          "indent_level": 1,
+          "line_number": 866,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+        },
+        {
+          "text": "*Connection*: Applying David Allen's GTD methodology using Tasks plugin and Dataview for context-based productivity",
+          "indent_level": 1,
+          "line_number": 873,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+        },
+        {
+          "text": "*Depth Potential*: Comprehensive workflow design including capture, clarification, organization, reflection, and engagement phases",
+          "indent_level": 1,
+          "line_number": 881,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Bridges productivity methodology with technical implementation",
+          "indent_level": 1,
+          "line_number": 886,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+        },
+        {
+          "text": "*Connection*: Broader architectural patterns for using metadata (YAML frontmatter, inline fields) to create reactive, queryable knowledge systems",
+          "indent_level": 1,
+          "line_number": 893,
+          "source": "reference-guide-tracking-task-with-tasks-plugin-2025120217.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+      "Context-Based Productivity",
+      "Dashboard Design",
+      "Dataview Plugin",
+      "Dataview Query Optimization Strategies",
+      "Date Management",
+      "Day Planner",
+      "GTD (Getting Things Done)",
+      "GTD (Getting Things Done) Implementation in Obsidian",
+      "Inline Fields",
+      "JavaScript in Dataview",
+      "Metadata-Driven Workflows",
+      "Metadata-Driven Workflows in PKM",
+      "Obsidian",
+      "Project Management in Obsidian",
+      "Query Languages",
+      "Recurrence Patterns",
+      "Task Management",
+      "Task Prioritization",
+      "Tasks Plugin",
+      "Tasks Plugin Query Language",
+      "Templater Plugin",
+      "Tracking Tasks with Tasks Plugin and Dataview",
+      "YAML Frontmatter"
+    ],
+    "unique_wiki_link_count": 24,
+    "unique_tags": [
+      "#TODO",
+      "#context/",
+      "#dataview",
+      "#important",
+      "#obsidian",
+      "#project/",
+      "#reference-note",
+      "#task",
+      "#task-management",
+      "#tasks-plugin"
+    ],
+    "unique_tag_count": 10,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+      "Context-Based Productivity",
+      "Dashboard Design",
+      "Dataview Plugin",
+      "Dataview Query Optimization Strategies",
+      "Date Management",
+      "Day Planner",
+      "GTD (Getting Things Done)",
+      "GTD (Getting Things Done) Implementation in Obsidian",
+      "Inline Fields",
+      "JavaScript in Dataview",
+      "Metadata-Driven Workflows",
+      "Metadata-Driven Workflows in PKM",
+      "Obsidian",
+      "Project Management in Obsidian",
+      "Query Languages",
+      "Recurrence Patterns",
+      "Task Management",
+      "Task Prioritization",
+      "Tasks Plugin",
+      "Tasks Plugin Query Language",
+      "Templater Plugin",
+      "Tracking Tasks with Tasks Plugin and Dataview",
+      "YAML Frontmatter"
+    ]
+  }
+}

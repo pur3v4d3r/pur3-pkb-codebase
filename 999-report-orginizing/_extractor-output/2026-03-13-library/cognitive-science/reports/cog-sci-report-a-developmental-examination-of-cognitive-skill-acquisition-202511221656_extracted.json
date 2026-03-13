@@ -1,0 +1,960 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:22.477587",
+    "source_file": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\01-cognitive-science\\-reports\\cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+    "source_file_size_bytes": 17334,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Cognitive Mastery"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "cognitive-science",
+        "critical-thinking",
+        "self-regulation/motivation/intrinsic",
+        "self-regulation/goal-setting/goal-formation",
+        "learning-theory/constructivism/schema-theory",
+        "self-improvement/growth-mindset"
+      ],
+      "source": "gemini-pro-3.0",
+      "id": "20251122165725",
+      "created": "2025-11-22T16:57:25",
+      "week": "[[2025-W47]]",
+      "month": "[[2025-11]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "cog-psy/report",
+      "link-up": [
+        "[[99-archive/05-moc's/cognitive-science-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-22|Daily-Note]]"
+      ]
+    },
+    "word_count": 2299,
+    "character_count": 16730,
+    "line_count": 128,
+    "heading_count": 13
+  },
+  "extraction_summary": {
+    "total_items_extracted": 81,
+    "by_type": {
+      "headings": 13,
+      "callouts": 17,
+      "wiki_links": 30,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 5,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 7,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 3,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 6
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Expertise Development",
+      "anchor": "expertise-development",
+      "line_number": 27,
+      "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "1\\. Define Core Parameters",
+          "anchor": "1-define-core-parameters",
+          "line_number": 34,
+          "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "2\\. Phase 1: Overture (The \"Why & What\")",
+          "anchor": "2-phase-1-overture-the-why-what",
+          "line_number": 40,
+          "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "3\\. Phase 2: Encyclopedic Exposition (The Deep Dive)",
+          "anchor": "3-phase-2-encyclopedic-exposition-the-deep-dive",
+          "line_number": 51,
+          "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+          "children": [
+            {
+              "level": 4,
+              "text": "The Architecture of Acquisition: From Fitts to Anderson",
+              "anchor": "the-architecture-of-acquisition-from-fitts-to-anderson",
+              "line_number": 53,
+              "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+              "children": []
+            },
+            {
+              "level": 4,
+              "text": "Andragogy: The Adult Brain in Learning Mode",
+              "anchor": "andragogy-the-adult-brain-in-learning-mode",
+              "line_number": 63,
+              "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+              "children": []
+            },
+            {
+              "level": 4,
+              "text": "The Engine of Mastery: Deliberate Practice and The Feedback Loop",
+              "anchor": "the-engine-of-mastery-deliberate-practice-and-the-feedback-loop",
+              "line_number": 73,
+              "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+              "children": []
+            },
+            {
+              "level": 4,
+              "text": "Cognitive-Metacognitive Shifts: The Executive Controller",
+              "anchor": "cognitive-metacognitive-shifts-the-executive-controller",
+              "line_number": 84,
+              "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+              "children": []
+            },
+            {
+              "level": 4,
+              "text": "The Novice-to-Expert Continuum: The Dreyfus Model",
+              "anchor": "the-novice-to-expert-continuum-the-dreyfus-model",
+              "line_number": 94,
+              "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+              "children": []
+            },
+            {
+              "level": 4,
+              "text": "Mathematical Formalization of Skill Acquisition",
+              "anchor": "mathematical-formalization-of-skill-acquisition",
+              "line_number": 103,
+              "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "text": "4\\. Phase 3: PKB Integration (New Avenues)",
+          "anchor": "4-phase-3-pkb-integration-new-avenues",
+          "line_number": 113,
+          "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "5\\. Phase 4: Synthesis & References",
+          "anchor": "5-phase-4-synthesis-references",
+          "line_number": 129,
+          "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📚 References & Resources",
+          "anchor": "references-resources",
+          "line_number": 140,
+          "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "The transition from a novice state of fragmented, rule-based operation to the expert state of intuitive, pattern-recognized mastery represents one of the most profound transformations in human psychology. This report provides a rigorous examination of **Cognitive Skill Acquisition**, dissecting the neural and behavioral mechanisms required to master high-order intellectual domains such as **Critical** and **Divergent Thinking**. By synthesizing the principles of **Andragogy** (adult learning) with the rigorous demands of **Deliberate Practice**, we uncover the specific cognitive-metacognitive shifts necessary to bypass the \"arrested development\" of mere competence. This analysis posits that expertise is not merely an accumulation of knowledge, but a fundamental restructuring of how the brain encodes, retrieves, and manipulates information, moving from metabolically expensive explicit processing to efficient, schema-driven automaticity.",
+        "line_number": 42,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 1264,
+        "char_end": 2230
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Cognitive Skill Acquisition** is the progressive modification of cognitive structures and processes, resulting in the ability to perform complex intellectual tasks with increasing speed, accuracy, and reduced cognitive load. It involves the conversion of **declarative knowledge** (knowing *that*) into **procedural knowledge** (knowing *how*), mediated by [[Neuroplasticity]] and governed by executive control systems.",
+        "line_number": 45,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 2231,
+        "char_end": 2671
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "The fundamental mechanism driving the shift from novice to expert is the **automatization of lower-order processes** to free up [[Working Memory]] resources for higher-order reasoning. As the learner internalizes rules and patterns through specific feedback loops, the brain shifts processing from the prefrontal cortex (explicit attention) to the basal ganglia and parietal regions (implicit execution), allowing for the nuanced application of [[Critical Thinking]] and the creative flexibility of [[Divergent Thinking]] without exceeding cognitive capacity limits.",
+        "line_number": 48,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 2672,
+        "char_end": 3261
+      },
+      {
+        "type": "atomic-concept",
+        "title": "Untitled",
+        "body": "**The Associative Phase**\nThis transitional phase represents the \"tuning\" of the skill. Here, errors are detected and corrected more distinctively. The declarative verbalization drops away, and the learner begins to associate specific environmental cues with required actions. In the context of [[Critical Thinking]], this is where a learner stops reciting the definition of a \"Strawman Fallacy\" and begins to instinctively recognize the pattern of the fallacy in a rhetorical argument.",
+        "line_number": 57,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 4149,
+        "char_end": 4660
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**The Experience Paradox**\nIn [[Andragogy]], the learner’s prior experience is a double-edged sword. It provides a rich resource for mental scaffolding (anchoring new concepts to old ones), but it also houses deep-seated **cognitive biases** and ossified schemas. Therefore, acquiring expert-level [[Critical Thinking]] often requires **Unlearning**—the deliberate dismantling of previous misconceptions before new architecture can be built.",
+        "line_number": 67,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 6344,
+        "char_end": 6805
+      },
+      {
+        "type": "evidence",
+        "title": "Untitled",
+        "body": "Studies on chess masters and radiologists indicate that the primary differentiator of expertise is the quality of **Mental Representations**. Deliberate practice is essentially the work of building more sophisticated, higher-resolution mental representations that allow the expert to predict outcomes and organize information more effectively than the novice.",
+        "line_number": 79,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 8500,
+        "char_end": 8876
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**The JOL (Judgment of Learning) Gap**\nNovices notoriously suffer from poor calibration in their **Judgments of Learning**. They often believe they understand a concept because they recognize it (fluency illusion). The expert possesses a finely tuned metacognitive radar that accurately distinguishes between \"familiarity\" and \"mastery.\" This calibration allows the expert to allocate study time more efficiently, focusing only on unknown variables.",
+        "line_number": 88,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 9937,
+        "char_end": 10404
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "Consider a jazz musician. The **Novice** is obsessed with the finger placement for a C-major scale. The **Competent** player knows the scale and focuses on playing it in time with the band. The **Proficient** player hears the music in their head and uses the scale to express it. The **Expert**, however, does not think of scales or fingers or time; they become one with the instrument and the moment, accessing a flow state where the music simply *happens* through them.",
+        "line_number": 98,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 11661,
+        "char_end": 12148
+      },
+      {
+        "type": "equation",
+        "title": "Untitled",
+        "body": "$$T = A + B \\cdot N^{-\\alpha}$$\nWhere $T$ is the time to perform the task, $N$ is the number of trials, $A$ is the asymptote (minimum possible time), $B$ is the performance on the first trial, and $\\alpha$ is the learning rate.",
+        "line_number": 107,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 13281,
+        "char_end": 13527
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "The study of Cognitive Skill Acquisition is inextricably linked to [[Evolutionary Psychology]], which explains why our brains prefer cognitive miserliness (avoiding the energy cost of critical thinking). It also shares a boundary with [[Systems Thinking]]; as one moves from novice to expert, the mental model shifts from linear causality to circular, systemic causality. Furthermore, the concepts of [[Game Theory]] apply here, particularly in understanding how expert decision-makers anticipate the moves of adversaries in competitive cognitive environments.",
+        "line_number": 115,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 13799,
+        "char_end": 14389
+      },
+      {
+        "type": "further-exploration",
+        "title": "Untitled",
+        "body": "> [!topic-idea] [[Interleaving vs. Blocking]]\n> Explore how mixing different types of problems improves inductive learning and transfer, contrary to the intuition of blocked practice.\n\n> [!topic-idea] [[Double-Loop Learning]]\n> Investigate Argyris’s concept of not just solving the problem (single-loop) but questioning the underlying variables and policies that created the problem (double-loop).\n\n> [!topic-idea] [[Cognitive Load Theory]]\n> A deeper dive into how intrinsic, extraneous, and germane load affects the design of instructional materials for adults.",
+        "line_number": 118,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 14390,
+        "char_end": 14995
+      },
+      {
+        "type": "summary",
+        "title": "Untitled",
+        "body": "The trajectory from novice to expert in cognitive domains is a journey of restructuring the mind. It moves from the explicit, rule-based, and metabolically expensive processing of the novice to the implicit, schema-based, and efficient processing of the expert. This transformation requires the adult learner to leverage Andragogical autonomy, engage in uncomfortable Deliberate Practice to build mental representations, and develop a Metacognitive \"executive\" to monitor the quality of thought. True mastery in Critical and Divergent thinking is not merely knowing more; it is seeing the world differently—perceiving deep structures where others see only surface noise.",
+        "line_number": 131,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 15037,
+        "char_end": 15723
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Untitled",
+        "body": "* Where in your current professional life are you relying on \"experience\" (mere repetition) rather than \"deliberate practice\" (purposeful striving)?\n  * Do your current mental models allows you to predict outcomes (expert simulation), or are you merely reacting to events as they unfold (novice coping)?\n  * Are you optimizing for performance (looking good now) or learning (struggling now to be better later)?",
+        "line_number": 134,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 15724,
+        "char_end": 16168
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "[The Role of Deliberate Practice in the Acquisition of Expert Performance](https://pubmed.ncbi.nlm.nih.gov/12455555/) - K. Anders Ericsson's foundational paper on how expertise is constructed, not born.",
+        "line_number": 142,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 16198,
+        "char_end": 16413
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "[Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer](https://www.google.com/search?q=https://books.google.com/books/about/Mind_Over_Machine.html%3Fid%3D2oVQAAAAMAAJ) - Hubert and Stuart Dreyfus's exploration of the five stages of skill acquisition.",
+        "line_number": 145,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 16414,
+        "char_end": 16713
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "[The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development](https://www.google.com/search?q=https://www.amazon.com/Adult-Learner-Definitive-Classic-Education/dp/0415739020) - Malcolm Knowles' definitive text on Andragogy and the unique needs of the adult learner.",
+        "line_number": 148,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 16714,
+        "char_end": 17024
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "[Metacognition in Science Education: Trends in Current Research](https://www.google.com/search?q=https://link.springer.com/book/10.1007/978-94-007-2431-7) - A collection of research detailing the critical shift from cognition to metacognition in higher-level learning.",
+        "line_number": 151,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md",
+        "char_start": 17025,
+        "char_end": 17306
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Expertise Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expertise Development]]",
+        "line_number": 30,
+        "section": "Expertise Development",
+        "context_line": "Aliases: [[Expertise Development]], [[Cognitive Mastery]], [[Advanced Andragogy]], [[Novice to Expert Continuum]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Cognitive Mastery",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Mastery]]",
+        "line_number": 30,
+        "section": "Expertise Development",
+        "context_line": "Aliases: [[Expertise Development]], [[Cognitive Mastery]], [[Advanced Andragogy]], [[Novice to Expert Continuum]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Advanced Andragogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Advanced Andragogy]]",
+        "line_number": 30,
+        "section": "Expertise Development",
+        "context_line": "Aliases: [[Expertise Development]], [[Cognitive Mastery]], [[Advanced Andragogy]], [[Novice to Expert Continuum]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Novice to Expert Continuum",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Novice to Expert Continuum]]",
+        "line_number": 30,
+        "section": "Expertise Development",
+        "context_line": "Aliases: [[Expertise Development]], [[Cognitive Mastery]], [[Advanced Andragogy]], [[Novice to Expert Continuum]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Cognitive Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Psychology]]",
+        "line_number": 38,
+        "section": "1\\. Define Core Parameters",
+        "context_line": "* **[LINKS]:** [[Cognitive Psychology]], [[Andragogy]], [[Deliberate Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical Thinking]], [[Divergent Thinking]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Andragogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Andragogy]]",
+        "line_number": 38,
+        "section": "1\\. Define Core Parameters",
+        "context_line": "* **[LINKS]:** [[Cognitive Psychology]], [[Andragogy]], [[Deliberate Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical Thinking]], [[Divergent Thinking]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Deliberate Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate Practice]]",
+        "line_number": 38,
+        "section": "1\\. Define Core Parameters",
+        "context_line": "* **[LINKS]:** [[Cognitive Psychology]], [[Andragogy]], [[Deliberate Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical Thinking]], [[Divergent Thinking]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 38,
+        "section": "1\\. Define Core Parameters",
+        "context_line": "* **[LINKS]:** [[Cognitive Psychology]], [[Andragogy]], [[Deliberate Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical Thinking]], [[Divergent Thinking]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Neuroplasticity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Neuroplasticity]]",
+        "line_number": 38,
+        "section": "1\\. Define Core Parameters",
+        "context_line": "* **[LINKS]:** [[Cognitive Psychology]], [[Andragogy]], [[Deliberate Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical Thinking]], [[Divergent Thinking]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Dreyfus Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dreyfus Model]]",
+        "line_number": 38,
+        "section": "1\\. Define Core Parameters",
+        "context_line": "* **[LINKS]:** [[Cognitive Psychology]], [[Andragogy]], [[Deliberate Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical Thinking]], [[Divergent Thinking]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Critical Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Critical Thinking]]",
+        "line_number": 38,
+        "section": "1\\. Define Core Parameters",
+        "context_line": "* **[LINKS]:** [[Cognitive Psychology]], [[Andragogy]], [[Deliberate Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical Thinking]], [[Divergent Thinking]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Divergent Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Divergent Thinking]]",
+        "line_number": 38,
+        "section": "1\\. Define Core Parameters",
+        "context_line": "* **[LINKS]:** [[Cognitive Psychology]], [[Andragogy]], [[Deliberate Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical Thinking]], [[Divergent Thinking]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Neuroplasticity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Neuroplasticity]]",
+        "line_number": 46,
+        "section": "2\\. Phase 1: Overture (The \"Why & What\")",
+        "context_line": "> **Cognitive Skill Acquisition** is the progressive modification of cognitive structures and processes, resulting in the ability to perform complex intellectual tasks with increasing speed, accuracy, and reduced cognitive load. It involves the conversion of **declarative knowledge** (knowing *that*) into **procedural knowledge** (knowing *how*), mediated by [[Neuroplasticity]] and governed by executive control systems.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Working Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working Memory]]",
+        "line_number": 49,
+        "section": "2\\. Phase 1: Overture (The \"Why & What\")",
+        "context_line": "> The fundamental mechanism driving the shift from novice to expert is the **automatization of lower-order processes** to free up [[Working Memory]] resources for higher-order reasoning. As the learner internalizes rules and patterns through specific feedback loops, the brain shifts processing from the prefrontal cortex (explicit attention) to the basal ganglia and parietal regions (implicit execution), allowing for the nuanced application of [[Critical Thinking]] and the creative flexibility of [[Divergent Thinking]] without exceeding cognitive capacity limits.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Critical Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Critical Thinking]]",
+        "line_number": 49,
+        "section": "2\\. Phase 1: Overture (The \"Why & What\")",
+        "context_line": "> The fundamental mechanism driving the shift from novice to expert is the **automatization of lower-order processes** to free up [[Working Memory]] resources for higher-order reasoning. As the learner internalizes rules and patterns through specific feedback loops, the brain shifts processing from the prefrontal cortex (explicit attention) to the basal ganglia and parietal regions (implicit execution), allowing for the nuanced application of [[Critical Thinking]] and the creative flexibility of [[Divergent Thinking]] without exceeding cognitive capacity limits.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Divergent Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Divergent Thinking]]",
+        "line_number": 49,
+        "section": "2\\. Phase 1: Overture (The \"Why & What\")",
+        "context_line": "> The fundamental mechanism driving the shift from novice to expert is the **automatization of lower-order processes** to free up [[Working Memory]] resources for higher-order reasoning. As the learner internalizes rules and patterns through specific feedback loops, the brain shifts processing from the prefrontal cortex (explicit attention) to the basal ganglia and parietal regions (implicit execution), allowing for the nuanced application of [[Critical Thinking]] and the creative flexibility of [[Divergent Thinking]] without exceeding cognitive capacity limits.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Critical Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Critical Thinking]]",
+        "line_number": 59,
+        "section": "The Architecture of Acquisition: From Fitts to Anderson",
+        "context_line": "> This transitional phase represents the \"tuning\" of the skill. Here, errors are detected and corrected more distinctively. The declarative verbalization drops away, and the learner begins to associate specific environmental cues with required actions. In the context of [[Critical Thinking]], this is where a learner stops reciting the definition of a \"Strawman Fallacy\" and begins to instinctively recognize the pattern of the fallacy in a rhetorical argument.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Working Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working Memory]]",
+        "line_number": 61,
+        "section": "The Architecture of Acquisition: From Fitts to Anderson",
+        "context_line": "As the learner persists, they eventually reach the **Autonomous Stage**. At this apex, the skill becomes largely automatic and requires minimal attentional resources. This frees up the [[Working Memory]] to focus on strategic, meta-level concerns. For the expert divergent thinker, the generation of novel ideas no longer requires the conscious application of a brainstorming technique; the brain naturally traverses associative networks to locate distal connections. John Anderson’s **ACT-R (Adaptive Control of Thought-Rational)** theory further formalizes this by describing the compilation of production rules. Anderson posits that we start with declarative facts which are interpreted by general-purpose production rules. Through practice, these are \"compiled\" into task-specific production rules that fire directly in response to conditions, bypassing the need to retrieve declarative facts from long-term memory.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Andragogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Andragogy]]",
+        "line_number": 69,
+        "section": "Andragogy: The Adult Brain in Learning Mode",
+        "context_line": "> In [[Andragogy]], the learner’s prior experience is a double-edged sword. It provides a rich resource for mental scaffolding (anchoring new concepts to old ones), but it also houses deep-seated **cognitive biases** and ossified schemas. Therefore, acquiring expert-level [[Critical Thinking]] often requires **Unlearning**—the deliberate dismantling of previous misconceptions before new architecture can be built.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Critical Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Critical Thinking]]",
+        "line_number": 69,
+        "section": "Andragogy: The Adult Brain in Learning Mode",
+        "context_line": "> In [[Andragogy]], the learner’s prior experience is a double-edged sword. It provides a rich resource for mental scaffolding (anchoring new concepts to old ones), but it also houses deep-seated **cognitive biases** and ossified schemas. Therefore, acquiring expert-level [[Critical Thinking]] often requires **Unlearning**—the deliberate dismantling of previous misconceptions before new architecture can be built.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "K. Anders Ericsson",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[K. Anders Ericsson]]",
+        "line_number": 75,
+        "section": "The Engine of Mastery: Deliberate Practice and The Feedback Loop",
+        "context_line": "The most pervasive myth in skill acquisition is that experience equates to expertise. Research by [[K. Anders Ericsson]] unequivocally demonstrates that mere repetition of a task often leads to a plateau of \"arrested development\" where performance stagnates. To breach the ceiling of competence and reach true expertise, one must engage in **Deliberate Practice**. This is not simple repetition; it is highly structured activity with the specific goal of improving performance. It requires focused attention, specific goals, and immediate feedback.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Critical Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Critical Thinking]]",
+        "line_number": 77,
+        "section": "The Engine of Mastery: Deliberate Practice and The Feedback Loop",
+        "context_line": "In the domain of [[Critical Thinking]], deliberate practice entails the rigorous analysis of one's own thought processes. It is insufficient to simply \"think through\" a problem. The aspirant expert must externalize their reasoning—perhaps through argument mapping or writing—and then subject that externalization to a criterion-referenced critique. This might involve comparing one’s analysis of a complex geopolitical event against the analysis of a proven subject matter expert, identifying the *delta* between the novice’s cause-and-effect reasoning and the expert’s systemic view.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Divergent Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Divergent Thinking]]",
+        "line_number": 82,
+        "section": "The Engine of Mastery: Deliberate Practice and The Feedback Loop",
+        "context_line": "For [[Divergent Thinking]], deliberate practice appears paradoxical—how does one practice spontaneity? Yet, it is achieved by imposing constraints. Practicing idea generation under strict time limits, or forcing connections between arbitrarily distant concepts (e.g., \"How is a toaster like a government?\"), forces the brain to forge new synaptic pathways. The feedback loop here is less about \"correctness\" and more about \"fluency\" and \"originality,\" measured against previous performance baselines.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 86,
+        "section": "Cognitive-Metacognitive Shifts: The Executive Controller",
+        "context_line": "As the learner advances, a profound shift occurs in the relationship between cognition (thinking) and [[Metacognition]] (thinking about thinking). The novice spends nearly all mental energy on cognition—solving the problem at hand. The expert, conversely, allocates significant resources to metacognitive monitoring and control. This involves a continuous, background process of evaluating: \"Is this strategy working? Is my bias influencing this assessment? Is there a more efficient pathway?\"",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Evolutionary Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Evolutionary Psychology]]",
+        "line_number": 116,
+        "section": "4\\. Phase 3: PKB Integration (New Avenues)",
+        "context_line": "> The study of Cognitive Skill Acquisition is inextricably linked to [[Evolutionary Psychology]], which explains why our brains prefer cognitive miserliness (avoiding the energy cost of critical thinking). It also shares a boundary with [[Systems Thinking]]; as one moves from novice to expert, the mental model shifts from linear causality to circular, systemic causality. Furthermore, the concepts of [[Game Theory]] apply here, particularly in understanding how expert decision-makers anticipate the moves of adversaries in competitive cognitive environments.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Systems Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Systems Thinking]]",
+        "line_number": 116,
+        "section": "4\\. Phase 3: PKB Integration (New Avenues)",
+        "context_line": "> The study of Cognitive Skill Acquisition is inextricably linked to [[Evolutionary Psychology]], which explains why our brains prefer cognitive miserliness (avoiding the energy cost of critical thinking). It also shares a boundary with [[Systems Thinking]]; as one moves from novice to expert, the mental model shifts from linear causality to circular, systemic causality. Furthermore, the concepts of [[Game Theory]] apply here, particularly in understanding how expert decision-makers anticipate the moves of adversaries in competitive cognitive environments.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Game Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Game Theory]]",
+        "line_number": 116,
+        "section": "4\\. Phase 3: PKB Integration (New Avenues)",
+        "context_line": "> The study of Cognitive Skill Acquisition is inextricably linked to [[Evolutionary Psychology]], which explains why our brains prefer cognitive miserliness (avoiding the energy cost of critical thinking). It also shares a boundary with [[Systems Thinking]]; as one moves from novice to expert, the mental model shifts from linear causality to circular, systemic causality. Furthermore, the concepts of [[Game Theory]] apply here, particularly in understanding how expert decision-makers anticipate the moves of adversaries in competitive cognitive environments.",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Interleaving vs. Blocking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Interleaving vs. Blocking]]",
+        "line_number": 120,
+        "section": "4\\. Phase 3: PKB Integration (New Avenues)",
+        "context_line": "> > [!topic-idea] [[Interleaving vs. Blocking]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Double-Loop Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Double-Loop Learning]]",
+        "line_number": 123,
+        "section": "4\\. Phase 3: PKB Integration (New Avenues)",
+        "context_line": "> > [!topic-idea] [[Double-Loop Learning]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 126,
+        "section": "4\\. Phase 3: PKB Integration (New Avenues)",
+        "context_line": "> > [!topic-idea] [[Cognitive Load Theory]]",
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "topic/academic",
+        "full_tag": "#topic/academic",
+        "hierarchy": [
+          "topic",
+          "academic"
+        ],
+        "line_number": 29,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "tag": "type/masterclass",
+        "full_tag": "#type/masterclass",
+        "hierarchy": [
+          "type",
+          "masterclass"
+        ],
+        "line_number": 29,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "tag": "psychology/cognitive",
+        "full_tag": "#psychology/cognitive",
+        "hierarchy": [
+          "psychology",
+          "cognitive"
+        ],
+        "line_number": 29,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "tag": "education/andragogy",
+        "full_tag": "#education/andragogy",
+        "hierarchy": [
+          "education",
+          "andragogy"
+        ],
+        "line_number": 29,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "tag": "skill-acquisition",
+        "full_tag": "#skill-acquisition",
+        "hierarchy": [
+          "skill-acquisition"
+        ],
+        "line_number": 29,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Expertise Development",
+        "anchor": "expertise-development",
+        "line_number": 27,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 3,
+        "text": "1\\. Define Core Parameters",
+        "anchor": "1-define-core-parameters",
+        "line_number": 34,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 3,
+        "text": "2\\. Phase 1: Overture (The \"Why & What\")",
+        "anchor": "2-phase-1-overture-the-why-what",
+        "line_number": 40,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 3,
+        "text": "3\\. Phase 2: Encyclopedic Exposition (The Deep Dive)",
+        "anchor": "3-phase-2-encyclopedic-exposition-the-deep-dive",
+        "line_number": 51,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 4,
+        "text": "The Architecture of Acquisition: From Fitts to Anderson",
+        "anchor": "the-architecture-of-acquisition-from-fitts-to-anderson",
+        "line_number": 53,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 4,
+        "text": "Andragogy: The Adult Brain in Learning Mode",
+        "anchor": "andragogy-the-adult-brain-in-learning-mode",
+        "line_number": 63,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 4,
+        "text": "The Engine of Mastery: Deliberate Practice and The Feedback Loop",
+        "anchor": "the-engine-of-mastery-deliberate-practice-and-the-feedback-loop",
+        "line_number": 73,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 4,
+        "text": "Cognitive-Metacognitive Shifts: The Executive Controller",
+        "anchor": "cognitive-metacognitive-shifts-the-executive-controller",
+        "line_number": 84,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 4,
+        "text": "The Novice-to-Expert Continuum: The Dreyfus Model",
+        "anchor": "the-novice-to-expert-continuum-the-dreyfus-model",
+        "line_number": 94,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 4,
+        "text": "Mathematical Formalization of Skill Acquisition",
+        "anchor": "mathematical-formalization-of-skill-acquisition",
+        "line_number": 103,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 3,
+        "text": "4\\. Phase 3: PKB Integration (New Avenues)",
+        "anchor": "4-phase-3-pkb-integration-new-avenues",
+        "line_number": 113,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 3,
+        "text": "5\\. Phase 4: Synthesis & References",
+        "anchor": "5-phase-4-synthesis-references",
+        "line_number": 129,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "level": 2,
+        "text": "📚 References & Resources",
+        "anchor": "references-resources",
+        "line_number": 140,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [
+      {
+        "display_text": "The Role of Deliberate Practice in the Acquisition of Expert Performance",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12455555/",
+        "format": "markdown",
+        "line_number": 143,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "display_text": "Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer",
+        "url": "https://www.google.com/search?q=https://books.google.com/books/about/Mind_Over_Machine.html%3Fid%3D2oVQAAAAMAAJ",
+        "format": "markdown",
+        "line_number": 146,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "display_text": "The Adult Learner: The Definitive Classic in Adult Education and Human Resource Development",
+        "url": "https://www.google.com/search?q=https://www.amazon.com/Adult-Learner-Definitive-Classic-Education/dp/0415739020",
+        "format": "markdown",
+        "line_number": 149,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "display_text": "Metacognition in Science Education: Trends in Current Research",
+        "url": "https://www.google.com/search?q=https://link.springer.com/book/10.1007/978-94-007-2431-7",
+        "format": "markdown",
+        "line_number": 152,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "display_text": "https://books.google.com/books/about/Mind_Over_Machine.html%3Fid%3D2oVQAAAAMAAJ",
+        "url": "https://books.google.com/books/about/Mind_Over_Machine.html%3Fid%3D2oVQAAAAMAAJ",
+        "format": "bare",
+        "line_number": 146,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "display_text": "https://www.amazon.com/Adult-Learner-Definitive-Classic-Education/dp/0415739020",
+        "url": "https://www.amazon.com/Adult-Learner-Definitive-Classic-Education/dp/0415739020",
+        "format": "bare",
+        "line_number": 149,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "display_text": "https://link.springer.com/book/10.1007/978-94-007-2431-7",
+        "url": "https://link.springer.com/book/10.1007/978-94-007-2431-7",
+        "format": "bare",
+        "line_number": 152,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "**[TOPIC]:** A Developmental Examination of Cognitive Skill Acquisition",
+          "indent_level": 1,
+          "line_number": 35,
+          "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+        },
+        {
+          "text": "**[DEPTH]:** Encyclopedic Analysis & Synthesis",
+          "indent_level": 1,
+          "line_number": 37,
+          "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+        },
+        {
+          "text": "**[LINKS]:** [[Cognitive Psychology]], [[Andragogy]], [[Deliberate Practice]], [[Metacognition]], [[Neuroplasticity]], [[Dreyfus Model]], [[Critical Thinking]], [[Divergent Thinking]]",
+          "indent_level": 1,
+          "line_number": 38,
+          "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "T = A + B \\cdot N^{-\\alpha}",
+        "format": "display",
+        "line_number": 101,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "expression": "T",
+        "format": "inline",
+        "line_number": 101,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "expression": "N",
+        "format": "inline",
+        "line_number": 101,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "expression": "A",
+        "format": "inline",
+        "line_number": 101,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "expression": "B",
+        "format": "inline",
+        "line_number": 101,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      },
+      {
+        "expression": "\\alpha",
+        "format": "inline",
+        "line_number": 103,
+        "source": "cog-sci-report-a-developmental-examination-of-cognitive-skill-acquisition-202511221656.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Advanced Andragogy",
+      "Andragogy",
+      "Cognitive Load Theory",
+      "Cognitive Mastery",
+      "Cognitive Psychology",
+      "Critical Thinking",
+      "Deliberate Practice",
+      "Divergent Thinking",
+      "Double-Loop Learning",
+      "Dreyfus Model",
+      "Evolutionary Psychology",
+      "Expertise Development",
+      "Game Theory",
+      "Interleaving vs. Blocking",
+      "K. Anders Ericsson",
+      "Metacognition",
+      "Neuroplasticity",
+      "Novice to Expert Continuum",
+      "Systems Thinking",
+      "Working Memory"
+    ],
+    "unique_wiki_link_count": 20,
+    "unique_tags": [
+      "#education/andragogy",
+      "#psychology/cognitive",
+      "#skill-acquisition",
+      "#topic/academic",
+      "#type/masterclass"
+    ],
+    "unique_tag_count": 5,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Advanced Andragogy",
+      "Andragogy",
+      "Cognitive Load Theory",
+      "Cognitive Mastery",
+      "Cognitive Psychology",
+      "Critical Thinking",
+      "Deliberate Practice",
+      "Divergent Thinking",
+      "Double-Loop Learning",
+      "Dreyfus Model",
+      "Evolutionary Psychology",
+      "Expertise Development",
+      "Game Theory",
+      "Interleaving vs. Blocking",
+      "K. Anders Ericsson",
+      "Metacognition",
+      "Neuroplasticity",
+      "Novice to Expert Continuum",
+      "Systems Thinking",
+      "Working Memory"
+    ]
+  }
+}

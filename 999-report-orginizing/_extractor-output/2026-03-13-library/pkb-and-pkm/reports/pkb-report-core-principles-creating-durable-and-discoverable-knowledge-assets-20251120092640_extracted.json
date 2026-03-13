@@ -1,0 +1,912 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:46.741134",
+    "source_file": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reports\\pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+    "source_file_size_bytes": 17005,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Core Principles Creating Durable and Discoverable Knowledge Assets",
+      "id": "20251120092640",
+      "type": "pkb/pkm/report",
+      "status": "not-read",
+      "source": "[URG004_DIKK2F10TF]",
+      "created": "undefined",
+      "year": "[[2025]]",
+      "tags": [
+        "pkm",
+        "project/pur3v4d3r",
+        "year/2025",
+        "self-improvement",
+        "pkb/metadata/frontmatter",
+        "pkb/maintenance/refactoring",
+        "pkb/maintenance/cleanup"
+      ],
+      "aliases": [
+        "null"
+      ],
+      "link-up": [
+        "[[project-pur3v4d3r-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-20|Daily-Note]]"
+      ]
+    },
+    "word_count": 2505,
+    "character_count": 16412,
+    "line_count": 189,
+    "heading_count": 18
+  },
+  "extraction_summary": {
+    "total_items_extracted": 93,
+    "by_type": {
+      "headings": 18,
+      "callouts": 8,
+      "wiki_links": 7,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 3,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 1,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 17,
+      "lists_unordered": 39,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "📖 Abstract",
+      "anchor": "abstract",
+      "line_number": 33,
+      "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "1️⃣ Introduction 🧠",
+      "anchor": "1-introduction",
+      "line_number": 39,
+      "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "2️⃣ Historical Context & Foundational Theories 📜",
+      "anchor": "2-historical-context-foundational-theories",
+      "line_number": 50,
+      "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "3️⃣ Foundational Principles – The “Why” of the Triad 🏛️",
+      "anchor": "3-foundational-principles-the-why-of-the-triad",
+      "line_number": 62,
+      "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Principle 1: The Content (The \"What\")",
+          "anchor": "principle-1-the-content-the-what",
+          "line_number": 66,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Principle 2: The Context (The \"Where\" and \"Why\")",
+          "anchor": "principle-2-the-context-the-where-and-why",
+          "line_number": 78,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Principle 3: The Metadata (The \"How-to-Find\")",
+          "anchor": "principle-3-the-metadata-the-how-to-find",
+          "line_number": 88,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "The Symbiosis",
+          "anchor": "the-symbiosis",
+          "line_number": 103,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "4️⃣ Mechanisms & Processes – The “How” 🛠️",
+      "anchor": "4-mechanisms-processes-the-how",
+      "line_number": 113,
+      "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "4.1 Content Creation: Writing for Your Future Self",
+          "anchor": "41-content-creation-writing-for-your-future-self",
+          "line_number": 117,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "4.2 Context Generation: Linking Your Thinking",
+          "anchor": "42-context-generation-linking-your-thinking",
+          "line_number": 123,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "4.3 Metadata Management: The YAML Front-Matter",
+          "anchor": "43-metadata-management-the-yaml-front-matter",
+          "line_number": 128,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "5️⃣ Observational Evidence – Failure & Success 📈",
+      "anchor": "5-observational-evidence-failure-success",
+      "line_number": 143,
+      "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "6️⃣ Broader Implications – “So What” 🌍",
+      "anchor": "6-broader-implications-so-what",
+      "line_number": 160,
+      "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "7️⃣ Current Research & Open Questions ❓",
+      "anchor": "7-current-research-open-questions",
+      "line_number": 175,
+      "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "8️⃣ Conclusion 🏁",
+      "anchor": "8-conclusion",
+      "line_number": 188,
+      "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "9️⃣ Key Questions for Active Reading",
+      "anchor": "9-key-questions-for-active-reading",
+      "line_number": 196,
+      "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🔗 References",
+      "anchor": "references",
+      "line_number": 204,
+      "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "pre-read-questions",
+        "title": "Untitled",
+        "body": "- What is the difference between simple note-taking and creating a \"knowledge asset\"?\n- How do I currently find old notes in my system? What fails in that process?\n- What does \"metadata\" mean to me in the context of my own notes?",
+        "line_number": 26,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+        "char_start": 476,
+        "char_end": 736
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "The purpose of this report is to deconstruct this \"Content-Context-Metadata\" triad. We will explore the theoretical underpinnings of *why* this system works and provide a practical framework for creating knowledge assets that are not only findable but remain intelligible, valuable, and generative for decades to come.",
+        "line_number": 47,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+        "char_start": 3960,
+        "char_end": 4298
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "An asset is **durable** if it remains intelligible and valuable long after the short-term memory of its creation has vanished. Atomicity and clarity are the prerequisites for this durability.",
+        "line_number": 73,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+        "char_start": 6779,
+        "char_end": 6994
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "Think of a note as a neuron. A single, isolated neuron is physiologically useless. Its entire purpose and power come from its *synapses*—its connections (links) to other neurons. This web of connections forms a pattern of thought (the **Context**).",
+        "line_number": 85,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+        "char_start": 7818,
+        "char_end": 8082
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Metadata** is the structured information *about* an asset, not *in* it. It is the label on the box, not the contents of the box. It is designed for *systems* (like search engines or queries) to read.",
+        "line_number": 92,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+        "char_start": 8273,
+        "char_end": 8493
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "A practical workflow for a new idea:\n1.  **Capture (Content):** You read a fascinating article. You jot down the core idea in your own words in a new note. (`status: [🌱seed]`)\n1.  **Process (Content):** You refine the note, give it an atomic title, and flesh out the concept.\n1.  **Connect (Context):** You link it to your existing notes on `[[Related Concept A]]` and `[[Author B]]`.\n1.  **Tag (Metadata):** You complete the YAML:\n    - `aliases: \"The concept's other name\"`\n    - `tags: \"subject/main-topic\"`\n    - `source: \"[Author (Year), Title]\"`\n    - `status: \"[🌿growing]\"`",
+        "line_number": 132,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+        "char_start": 10728,
+        "char_end": 11340
+      },
+      {
+        "type": "connection-ideas",
+        "title": "Untitled",
+        "body": "Sketch a mind-map linking the \"Content-Context-Metadata\" triad to these concepts:\n- `[[Zettelkasten]]`\n- `[[Cognitive Load Theory]]`\n- `[[Information Architecture]]`\n- `[[Library Science]]`",
+        "line_number": 168,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+        "char_start": 13264,
+        "char_end": 13486
+      },
+      {
+        "type": "counter-argument",
+        "title": "Untitled",
+        "body": "A common critique is that this level of \"note hygiene\" is obsessive, a form of productive procrastination. The counter-argument, however, is that the *upfront* cost of structuring an asset (a 2-minute tax) pays *compounding dividends* in future discoverability and utility, saving exponential time and cognitive load later.",
+        "line_number": 185,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md",
+        "char_start": 14433,
+        "char_end": 14781
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "bidirectional links",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[bidirectional links]]",
+        "line_number": 125,
+        "section": "4.2 Context Generation: Linking Your Thinking",
+        "context_line": "- **Explicit Linking:** As you write, actively ask: \"What does this relate to?\" and create explicit `[[bidirectional links]]` to those other notes.",
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "target": "Related Concept A",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Related Concept A]]",
+        "line_number": 136,
+        "section": "4.3 Metadata Management: The YAML Front-Matter",
+        "context_line": "> 1.  **Connect (Context):** You link it to your existing notes on `[[Related Concept A]]` and `[[Author B]]`.",
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "target": "Author B",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Author B]]",
+        "line_number": 136,
+        "section": "4.3 Metadata Management: The YAML Front-Matter",
+        "context_line": "> 1.  **Connect (Context):** You link it to your existing notes on `[[Related Concept A]]` and `[[Author B]]`.",
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 170,
+        "section": "6️⃣ Broader Implications – “So What” 🌍",
+        "context_line": "> - `[[Zettelkasten]]`",
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 171,
+        "section": "6️⃣ Broader Implications – “So What” 🌍",
+        "context_line": "> - `[[Cognitive Load Theory]]`",
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "target": "Information Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Information Architecture]]",
+        "line_number": 172,
+        "section": "6️⃣ Broader Implications – “So What” 🌍",
+        "context_line": "> - `[[Information Architecture]]`",
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "target": "Library Science",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Library Science]]",
+        "line_number": 173,
+        "section": "6️⃣ Broader Implications – “So What” 🌍",
+        "context_line": "> - `[[Library Science]]`",
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "philosophy",
+        "full_tag": "#philosophy",
+        "hierarchy": [
+          "philosophy"
+        ],
+        "line_number": 99,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "tag": "physics",
+        "full_tag": "#physics",
+        "hierarchy": [
+          "physics"
+        ],
+        "line_number": 99,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "tag": "thermodynamics",
+        "full_tag": "#thermodynamics",
+        "hierarchy": [
+          "thermodynamics"
+        ],
+        "line_number": 158,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "📖 Abstract",
+        "anchor": "abstract",
+        "line_number": 33,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 1,
+        "text": "1️⃣ Introduction 🧠",
+        "anchor": "1-introduction",
+        "line_number": 39,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 1,
+        "text": "2️⃣ Historical Context & Foundational Theories 📜",
+        "anchor": "2-historical-context-foundational-theories",
+        "line_number": 50,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 1,
+        "text": "3️⃣ Foundational Principles – The “Why” of the Triad 🏛️",
+        "anchor": "3-foundational-principles-the-why-of-the-triad",
+        "line_number": 62,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 2,
+        "text": "Principle 1: The Content (The \"What\")",
+        "anchor": "principle-1-the-content-the-what",
+        "line_number": 66,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 2,
+        "text": "Principle 2: The Context (The \"Where\" and \"Why\")",
+        "anchor": "principle-2-the-context-the-where-and-why",
+        "line_number": 78,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 2,
+        "text": "Principle 3: The Metadata (The \"How-to-Find\")",
+        "anchor": "principle-3-the-metadata-the-how-to-find",
+        "line_number": 88,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 2,
+        "text": "The Symbiosis",
+        "anchor": "the-symbiosis",
+        "line_number": 103,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 1,
+        "text": "4️⃣ Mechanisms & Processes – The “How” 🛠️",
+        "anchor": "4-mechanisms-processes-the-how",
+        "line_number": 113,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 2,
+        "text": "4.1 Content Creation: Writing for Your Future Self",
+        "anchor": "41-content-creation-writing-for-your-future-self",
+        "line_number": 117,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 2,
+        "text": "4.2 Context Generation: Linking Your Thinking",
+        "anchor": "42-context-generation-linking-your-thinking",
+        "line_number": 123,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 2,
+        "text": "4.3 Metadata Management: The YAML Front-Matter",
+        "anchor": "43-metadata-management-the-yaml-front-matter",
+        "line_number": 128,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 1,
+        "text": "5️⃣ Observational Evidence – Failure & Success 📈",
+        "anchor": "5-observational-evidence-failure-success",
+        "line_number": 143,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 1,
+        "text": "6️⃣ Broader Implications – “So What” 🌍",
+        "anchor": "6-broader-implications-so-what",
+        "line_number": 160,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 1,
+        "text": "7️⃣ Current Research & Open Questions ❓",
+        "anchor": "7-current-research-open-questions",
+        "line_number": 175,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 1,
+        "text": "8️⃣ Conclusion 🏁",
+        "anchor": "8-conclusion",
+        "line_number": 188,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 1,
+        "text": "9️⃣ Key Questions for Active Reading",
+        "anchor": "9-key-questions-for-active-reading",
+        "line_number": 196,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 References",
+        "anchor": "references",
+        "line_number": 204,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [
+      {
+        "display_text": "https://notes.andymatuschak.org/Evergreen_notes",
+        "url": "https://notes.andymatuschak.org/Evergreen_notes",
+        "format": "markdown",
+        "line_number": 209,
+        "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Atomicity:** An atomic note contains a single, discrete idea or concept.",
+          "indent_level": 0,
+          "line_number": 69,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Clarity:** The note must be written *for your future self*, who has forgotten the original context. This means writing in complete sentences, defining jargon, and fully articulating the idea.",
+          "indent_level": 0,
+          "line_number": 71,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Connections (Links):** The explicit, usually bidirectional, links *between* notes. This is the digital equivalent of Luhmann's associative trails. A note's true power is not what it *contains*, but what it *connects to*.",
+          "indent_level": 0,
+          "line_number": 81,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Provenance:** The implicit context of a note's origin. *Why* did I write this? *What* was the source? *When* did I write it? This information provides the backstory that your future self will need to re-establish the note's relevance.",
+          "indent_level": 0,
+          "line_number": 83,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**It Externalizes Cognition:** This system becomes a trusted \"second brain.\" By offloading the *storage* and *connection* of ideas to a durable, discoverable system, you free your biological brain to do what it does best: *think*, *create*, and *synthesize*.",
+          "indent_level": 0,
+          "line_number": 163,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**It Combats Context Collapse:** We are flooded with context-free information (like a tweet). This method forces you to re-establish context, embedding each new piece of information into your existing web of knowledge.",
+          "indent_level": 0,
+          "line_number": 165,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**It Creates an Intellectual Flywheel:** The more assets you create using this system, the more valuable the *entire system* becomes. The linking possibilities (Context) grow exponentially, leading to more novel connections and insights.",
+          "indent_level": 0,
+          "line_number": 166,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "Can I find a note in my current system from 3+ years ago and *immediately* understand its full meaning and source? If not, which of the three pillars (Content, Context, Metadata) failed?",
+          "indent_level": 0,
+          "line_number": 197,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "What is the \"atomicity\" of a note, and why is it a prerequisite for building rich Context?",
+          "indent_level": 0,
+          "line_number": 199,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "Explain the difference between \"Metadata\" and \"Context.\" How can a link be considered both?",
+          "indent_level": 0,
+          "line_number": 200,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "What is the \"symbiotic loop\"? How does creating good Content make it easier to create good Metadata and Context?",
+          "indent_level": 0,
+          "line_number": 201,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "What is the primary counter-argument against this system, and what is the response to that critique?",
+          "indent_level": 0,
+          "line_number": 202,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking*. CreateSpace Independent Publishing Platform.",
+          "indent_level": 0,
+          "line_number": 205,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "Bush, V. (1945, July). As We May Think. *The Atlantic Monthly*.",
+          "indent_level": 0,
+          "line_number": 207,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "Luhmann, N. (1992). Communicating with Slip Boxes: An Empirical Account. In A. Kieserling (Ed.), *Universität also Milieu*. Haux.",
+          "indent_level": 0,
+          "line_number": 208,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "Matuschak, A. (2019). *Evergreen notes*. Retrieved from [https://notes.andymatuschak.org/Evergreen_notes](https://notes.andymatuschak.org/Evergreen_notes).",
+          "indent_level": 0,
+          "line_number": 209,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "Tiago Forte (2022). *Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential*. Atria Books.",
+          "indent_level": 0,
+          "line_number": 210,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "**Library Science:** For centuries, librarians have wrestled with discoverability. Systems like the Dewey Decimal Classification or the Library of Congress system are massive metadata frameworks designed to make a physical piece of content (a book) discoverable. They standardized metadata (author, subject, publication date) to solve this problem.",
+          "indent_level": 0,
+          "line_number": 53,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Vannevar Bush (1945):** In his seminal essay \"As We May Think,\" Bush conceptualized the \"Memex.\" He envisioned a machine that would store all a person's books, records, and communications, but its true power was its ability to create associative trails—**links**—between them. This was the conceptual birth of context-driven knowledge.",
+          "indent_level": 0,
+          "line_number": 55,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Niklas Luhmann (Zettelkasten):** The most potent practical example comes from German sociologist Niklas Luhmann. He built a \"slip-box\" (Zettelkasten) of over 90,000 *paper* notes. His legendary productivity (over 70 books and 400 articles) was not due to his memory, but his system.",
+          "indent_level": 0,
+          "line_number": 56,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Content:** Each note was **atomic**, containing one idea.",
+          "indent_level": 2,
+          "line_number": 57,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Metadata:** Each note had a unique ID (e.g., 21/3d7a).",
+          "indent_level": 2,
+          "line_number": 58,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Context:** This ID system was not hierarchical; it was *associative*. A note on one topic could be physically placed to branch off another, and explicit links (references to other note IDs) were added. Luhmann \"conversed\" with his slip-box, following these trails of context.",
+          "indent_level": 2,
+          "line_number": 59,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Digital Gardening & Evergreen Notes:** Modern concepts like \"Digital Gardens\" (championed by Andy Matuschak) translate Luhmann's ideas to the digital realm. The focus is on creating **\"Evergreen Notes\"**—assets that are written to evolve, connect, and last a lifetime.",
+          "indent_level": 0,
+          "line_number": 60,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "`title:` A clear, descriptive title.",
+          "indent_level": 0,
+          "line_number": 96,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "`aliases:` Other names you might use to search for this (e.g., \"Second Brain\" for a note on \"Zettelkasten\").",
+          "indent_level": 0,
+          "line_number": 98,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "`tags:` Broad categories (e.g., `#philosophy`, `#physics`).",
+          "indent_level": 0,
+          "line_number": 99,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "`status:` A workflow state (e.g., `[🌱seed]`, `[🌳evergreen]`).",
+          "indent_level": 0,
+          "line_number": 100,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "`source:` The bibliographic citation or URL.",
+          "indent_level": 0,
+          "line_number": 101,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "Atomic **Content** is *easier* to link, which creates rich **Context**.",
+          "indent_level": 0,
+          "line_number": 106,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "This rich **Context** (a web of links) *is itself* a powerful form of metadata, allowing you to discover related ideas by traversal, not just by search.",
+          "indent_level": 0,
+          "line_number": 108,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "Structured **Metadata** (like a `tag`) allows you to query your system to find a *cluster* of notes, revealing emergent **Contexts** (patterns) you didn't know existed.",
+          "indent_level": 0,
+          "line_number": 109,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "A note with clear **Content** but no **Context** (links) or **Metadata** (tags) is an orphan—durable, but undiscoverable.",
+          "indent_level": 0,
+          "line_number": 110,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "A note with great **Metadata** and **Context** but cryptic **Content** is a dead-end—discoverable, but not durable.",
+          "indent_level": 0,
+          "line_number": 111,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Atomic Titles:** The title is your first piece of metadata. It should be a clear assertion or a precise description (e.g., \"Light Follows Geodesics in Curved Spacetime\").",
+          "indent_level": 0,
+          "line_number": 118,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Elaborate in Your Own Words:** This forces synthesis, which is the first step to durability. A copy-pasted quote is not a knowledge asset; it's a warehouse.",
+          "indent_level": 0,
+          "line_number": 120,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Define Jargon:** Assume your future self is a smart-but-forgetful stranger.",
+          "indent_level": 0,
+          "line_number": 121,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Explicit Linking:** As you write, actively ask: \"What does this relate to?\" and create explicit `[[bidirectional links]]` to those other notes.",
+          "indent_level": 0,
+          "line_number": 124,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Implicit Context:** Use a `source:` field in your metadata to capture provenance. A quick \"Why I wrote this:\" note can also be invaluable.",
+          "indent_level": 0,
+          "line_number": 126,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Failure Mode (The \"Digital Attic\"):**",
+          "indent_level": 0,
+          "line_number": 146,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**System:** A single \"notes.txt\" file or a dump of Word documents.",
+          "indent_level": 2,
+          "line_number": 148,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Content:** Cryptic, non-atomic (a \"kitchen sink\" file).",
+          "indent_level": 2,
+          "line_number": 149,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Context:** Non-existent. No links.",
+          "indent_level": 2,
+          "line_number": 150,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Metadata:** Non-existent, save for the OS file date.",
+          "indent_level": 2,
+          "line_number": 151,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Result:** Total knowledge loss. The system is undiscoverable and non-durable.",
+          "indent_level": 2,
+          "line_number": 152,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Success Mode (The \"Digital Garden\"):**",
+          "indent_level": 0,
+          "line_number": 153,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**System:** A linked-note-based system (e.g., Obsidian, Zettelkasten).",
+          "indent_level": 2,
+          "line_number": 154,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Content:** Atomic, clearly written notes.",
+          "indent_level": 2,
+          "line_number": 155,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Context:** A dense web of links between notes.",
+          "indent_level": 2,
+          "line_number": 156,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Metadata:** Rich YAML front-matter (tags, aliases, sources).",
+          "indent_level": 2,
+          "line_number": 157,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**Result:** A generative system. A search for `tag: #thermodynamics` (Metadata) surfaces 15 notes (Content), and exploring their links (Context) allows you to synthesize a new argument for an essay. The system *itself* generates new insights.",
+          "indent_level": 2,
+          "line_number": 158,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**The Tooling Problem:** Do our current tools create \"lock-in\"? Is a proprietary metadata or linking format (like Roam Research's) a risk to long-term durability? This has fueled the rise of plain-text systems like Obsidian.",
+          "indent_level": 0,
+          "line_number": 178,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**The AI Revolution:** How will generative AI and large-language models (LLMs) impact this?",
+          "indent_level": 0,
+          "line_number": 180,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "Will AI be able to *generate* the context and metadata for our messy, unstructured notes, making this human-led effort obsolete?",
+          "indent_level": 2,
+          "line_number": 181,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "Or, will a well-structured personal knowledge graph (built on this triad) become the *ultimate* fine-tuning dataset to create a personalized AI assistant that truly \"thinks\" like you?",
+          "indent_level": 2,
+          "line_number": 182,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        },
+        {
+          "text": "**The Friction Problem:** This system requires deliberate, upfront effort. This \"activation energy\" is a significant barrier.",
+          "indent_level": 0,
+          "line_number": 183,
+          "source": "pkb-report-core-principles-creating-durable-and-discoverable-knowledge-assets-20251120092640.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Author B",
+      "Cognitive Load Theory",
+      "Information Architecture",
+      "Library Science",
+      "Related Concept A",
+      "Zettelkasten",
+      "bidirectional links"
+    ],
+    "unique_wiki_link_count": 7,
+    "unique_tags": [
+      "#philosophy",
+      "#physics",
+      "#thermodynamics"
+    ],
+    "unique_tag_count": 3,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Author B",
+      "Cognitive Load Theory",
+      "Information Architecture",
+      "Library Science",
+      "Related Concept A",
+      "Zettelkasten",
+      "bidirectional links"
+    ]
+  }
+}

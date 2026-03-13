@@ -1,0 +1,392 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.878155",
+    "source_file": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+    "source_file_size_bytes": 5542,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Large Language Models and Prompting",
+      "id": "20251020001356",
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": "⁉️",
+      "created": "2025-10-20T00:13:56",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "⁉️",
+      "tags": [
+        "topic",
+        "topic/educational",
+        "topic/rsca",
+        "source/rsca"
+      ]
+    },
+    "word_count": 718,
+    "character_count": 5196,
+    "line_count": 66,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 33,
+    "by_type": {
+      "headings": 8,
+      "callouts": 6,
+      "wiki_links": 0,
+      "inline_fields": 4,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 15,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Larg-Language-Models-and-Prompting_🆔20251020001336",
+      "anchor": "topicslarg-language-models-and-prompting20251020001336",
+      "line_number": 20,
+      "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "🤖 The Art of the Persona: Advanced Instructional Scaffolding",
+          "anchor": "the-art-of-the-persona-advanced-instructional-scaffolding",
+          "line_number": 27,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "🔄 The \"Bilingual\" User: A Comparative Analysis of Prompting Paradigms",
+          "anchor": "the-bilingual-user-a-comparative-analysis-of-prompting-paradigms",
+          "line_number": 36,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "🧠 Managing the Digital Mind: Strategies for Contextual Coherence",
+          "anchor": "managing-the-digital-mind-strategies-for-contextual-coherence",
+          "line_number": 44,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "🔍 The Art of the Re-Prompt: Iterative Refinement and Error Correction",
+          "anchor": "the-art-of-the-re-prompt-iterative-refinement-and-error-correction",
+          "line_number": 53,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "🧩 The Task Alchemist: Decomposing Complex Problems for AI",
+          "anchor": "the-task-alchemist-decomposing-complex-problems-for-ai",
+          "line_number": 62,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "⚙️ The Efficient Interface: Systematic Workflow Optimization",
+          "anchor": "the-efficient-interface-systematic-workflow-optimization",
+          "line_number": 70,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Further Exploration",
+          "anchor": "further-exploration",
+          "line_number": 77,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 26,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+        "char_start": 423,
+        "char_end": 438
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 35,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+        "char_start": 1084,
+        "char_end": 1099
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 43,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+        "char_start": 1782,
+        "char_end": 1797
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 52,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+        "char_start": 2518,
+        "char_end": 2533
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 61,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+        "char_start": 3248,
+        "char_end": 3263
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 69,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md",
+        "char_start": 3932,
+        "char_end": 3947
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [
+      {
+        "field_name": "completion",
+        "value": "2025-10-20",
+        "format": "bracket",
+        "line_number": 24,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-10-20",
+        "format": "bracket",
+        "line_number": 33,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-10-20",
+        "format": "bracket",
+        "line_number": 50,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-10-20",
+        "format": "bracket",
+        "line_number": 59,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Larg-Language-Models-and-Prompting_🆔20251020001336",
+        "anchor": "topicslarg-language-models-and-prompting20251020001336",
+        "line_number": 20,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      },
+      {
+        "level": 3,
+        "text": "🤖 The Art of the Persona: Advanced Instructional Scaffolding",
+        "anchor": "the-art-of-the-persona-advanced-instructional-scaffolding",
+        "line_number": 27,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      },
+      {
+        "level": 3,
+        "text": "🔄 The \"Bilingual\" User: A Comparative Analysis of Prompting Paradigms",
+        "anchor": "the-bilingual-user-a-comparative-analysis-of-prompting-paradigms",
+        "line_number": 36,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      },
+      {
+        "level": 3,
+        "text": "🧠 Managing the Digital Mind: Strategies for Contextual Coherence",
+        "anchor": "managing-the-digital-mind-strategies-for-contextual-coherence",
+        "line_number": 44,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      },
+      {
+        "level": 3,
+        "text": "🔍 The Art of the Re-Prompt: Iterative Refinement and Error Correction",
+        "anchor": "the-art-of-the-re-prompt-iterative-refinement-and-error-correction",
+        "line_number": 53,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      },
+      {
+        "level": 3,
+        "text": "🧩 The Task Alchemist: Decomposing Complex Problems for AI",
+        "anchor": "the-task-alchemist-decomposing-complex-problems-for-ai",
+        "line_number": 62,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      },
+      {
+        "level": 3,
+        "text": "⚙️ The Efficient Interface: Systematic Workflow Optimization",
+        "anchor": "the-efficient-interface-systematic-workflow-optimization",
+        "line_number": 70,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      },
+      {
+        "level": 3,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 77,
+        "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[x] **Used?**  [completion:: 2025-10-20]",
+          "indent_level": 0,
+          "line_number": 24,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 25,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "[x] **Used?**  [completion:: 2025-10-20]",
+          "indent_level": 0,
+          "line_number": 33,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 34,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 42,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "[x] **Used?**  [completion:: 2025-10-20]",
+          "indent_level": 0,
+          "line_number": 50,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 51,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "[x] **Used?**  [completion:: 2025-10-20]",
+          "indent_level": 0,
+          "line_number": 59,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 60,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 68,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 76,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "**Custom GPTs & Agents:** Moving beyond *prompting* in a chat to *building* a persistent, specialized AI agent within the ChatGPT ecosystem.",
+          "indent_level": 0,
+          "line_number": 80,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "**Tokenization & Context Windows:** A more technical dive into *why* models behave the way they do, exploring how text is \"seen\" by the AI and the hard limitations of its \"memory.\"",
+          "indent_level": 0,
+          "line_number": 82,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "**Model \"Temperature\" & Creative Control:** Understanding the (often hidden) parameters that govern AI creativity versus factual precision and how to influence them through instructional cues.",
+          "indent_level": 0,
+          "line_number": 83,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        },
+        {
+          "text": "**Comparative Model Architectures:** A high-level look at what *structurally* differentiates models like Google's Gemini family from OpenAI's GPT series, and how those architectural choices manifest as user-facing behaviors.",
+          "indent_level": 0,
+          "line_number": 84,
+          "source": "topic-set-large-language-models-and-prompting-🆔20251020001336.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

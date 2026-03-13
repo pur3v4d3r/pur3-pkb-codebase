@@ -1,0 +1,404 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:06.035954",
+    "source_file": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+    "source_file_size_bytes": 16733,
+    "processing_time_seconds": 0.002
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Workflow Systems, Flow Psychology, and Sustainable High Performance",
+      "id": "20251028231905",
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": "❔",
+      "created": "2025-10-28T23:19:05",
+      "source": "RSCA-v2.0🆔20251020224705",
+      "url": "❔",
+      "tags": [
+        "topic",
+        "topic/educational",
+        "topic/rsca",
+        "source/rsca"
+      ]
+    },
+    "word_count": 2136,
+    "character_count": 16350,
+    "line_count": 201,
+    "heading_count": 1
+  },
+  "extraction_summary": {
+    "total_items_extracted": 30,
+    "by_type": {
+      "headings": 1,
+      "callouts": 9,
+      "wiki_links": 10,
+      "inline_fields": 1,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 8,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 1,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 127,
+      "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set explores the multidimensional landscape of personal workflow optimization, bridging psychological theory, systems design, and embodied practice. The topics move beyond superficial productivity advice to examine the deep structures that enable sustained high performance: the neuropsychological foundations of flow states, the architectural principles underlying effective workflow systems, the measurement frameworks that enable intelligent iteration, the phenomenological dimension of \"rightness\" in work, the environmental factors that shape cognitive states, the temporal dynamics of sustainable performance, and the integration of theoretical knowledge into lived practice. Together, these topics provide a comprehensive foundation for building a sophisticated, evidence-based approach to self-development that honors both the scientific literature and the irreducible complexity of human experience.",
+        "line_number": 24,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+        "char_start": 437,
+        "char_end": 1376
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🌊 The Architecture of Optimal Experience: Flow States and the Psychology of Peak Performance\n- **Scope & Angle:** This topic investigates the psychological and neurological foundations of flow states—those moments when work feels effortless and \"right.\" It examines why certain conditions produce optimal experience while others lead to anxiety or boredom, exploring the delicate balance between challenge and skill that creates the flow channel. The angle focuses on understanding flow not as a mystical state but as a reproducible psychological phenomenon with identifiable preconditions, mechanisms, and outcomes that can be intentionally cultivated.",
+        "line_number": 32,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+        "char_start": 1406,
+        "char_end": 2083
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## ⚙️ Systems Architecture for Personal Productivity: Design Principles for Sustainable Workflow\n- **Scope & Angle:** This topic explores workflow not as a collection of isolated techniques but as an integrated system requiring intentional architectural design. It examines the fundamental design principles that separate robust, scalable personal systems from fragile, unsustainable ones—principles like cognitive load management, closed-loop feedback, modular design, and graceful degradation. The focus is on understanding workflow as an engineered system subject to the same design constraints as any complex system, enabling practitioners to become their own systems architects rather than passive consumers of productivity advice.",
+        "line_number": 46,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+        "char_start": 2711,
+        "char_end": 3468
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 📊 The Quantified Workflow: Measurement Systems, Feedback Loops, and Intelligent Iteration\n- **Scope & Angle:** This topic addresses the critical challenge of measuring workflow effectiveness without destroying the very flow states one seeks to optimize. It explores the tension between quantification and experience, examining which metrics illuminate and which metrics obscure, and how to construct measurement systems that enable learning rather than mere performance monitoring. The angle emphasizes measurement as a tool for developing practical wisdom—creating feedback loops that inform intuition rather than replacing it with mechanical adherence to numbers.",
+        "line_number": 60,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+        "char_start": 4172,
+        "char_end": 4861
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🎯 The Phenomenology of Right Workflow: Embodied Knowledge and the Felt Sense of Alignment\n- **Scope & Angle:** This topic investigates the subjective, experiential dimension of workflow that often gets overlooked in purely systematic approaches—the intuitive sense that a workflow \"feels right\" or wrong. Drawing on phenomenology and embodied cognition, it examines how tacit knowledge, somatic awareness, and pattern recognition inform workflow choices in ways that exceed explicit rules or measurements. The focus is on cultivating the practical wisdom to sense when systems are serving you versus when you're serving the system, developing the discriminating awareness that enables sophisticated adaptation.",
+        "line_number": 74,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+        "char_start": 5623,
+        "char_end": 6357
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🏛️ Environmental Architecture for Flow: Context Design and the Situated Nature of Cognition\n- **Scope & Angle:** This topic examines how physical, digital, and temporal environments shape cognitive states and workflow effectiveness, recognizing that consciousness is not confined to the skull but distributed across the environments we inhabit. It explores the principles of environmental design that either support or sabotage flow states—from spatial ergonomics and tool ecosystems to ultradian rhythms and attention architecture. The angle emphasizes that optimizing workflow requires architecting the contexts in which work happens, not just optimizing internal mental states or abstract systems.",
+        "line_number": 88,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+        "char_start": 7136,
+        "char_end": 7860
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## ⏱️ The Temporal Architecture of Sustainable Performance: Rhythms, Cycles, and Long-Term Capacity Building\n- **Scope & Angle:** This topic explores the often-neglected temporal dimension of workflow—the fact that sustainable high performance requires working with rather than against natural biological and psychological rhythms. It examines the tension between the demands of constant availability and the reality of ultradian rhythms, recovery needs, and the long-term development of capacity. The focus is on understanding workflow not as a static optimization problem but as a dynamic process unfolding across multiple timescales, from minute-to-minute attention management to multi-year skill development trajectories.",
+        "line_number": 102,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+        "char_start": 8645,
+        "char_end": 9391
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "## 🔄 From Theory to Embodiment: Implementation Science and the Integration of Knowledge into Practice\n- **Scope & Angle:** This topic addresses the critical gap between understanding workflow principles and actually embodying them in daily practice—the space where most productivity advice fails. Drawing on implementation science, habit formation research, and skill acquisition theory, it examines why knowledge doesn't automatically translate into behavior change and what processes enable genuine integration. The angle focuses on the meta-skill of translating theoretical models into lived capability, developing the practical intelligence to bridge the knowing-doing gap that separates intellectual understanding from mastery.",
+        "line_number": 116,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+        "char_start": 10206,
+        "char_end": 10959
+      },
+      {
+        "type": "further-exploration",
+        "title": "Untitled",
+        "body": "Recommended continued study:\n- [[Cognitive Load Theory]] and working memory architecture as foundational constraints on workflow design\n- [[Attention Restoration Theory]] and the role of restorative environments in sustaining cognitive performance\n- [[Habit Stacking]] and [[Implementation Intentions]] as practical mechanisms for behavioral integration\n- [[Energy Management]] frameworks that prioritize vitality over mere time management\n- [[Deliberate Practice]] methodology and the structured acquisition of workflow-related meta-skills\n- [[decision fatigue]] and [[Ego Depletion]] research informing the timing and sequencing of cognitively demanding work\n- [[Complexity Science]] applied to personal systems: emergence, self-organization, and adaptation in workflow\n- [[Mindfulness and Metacognition]] practices for developing awareness of one's own workflow patterns and mental states",
+        "line_number": 129,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md",
+        "char_start": 11843,
+        "char_end": 12778
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 131,
+        "section": "Further Exploration",
+        "context_line": "> - [[Cognitive Load Theory]] and working memory architecture as foundational constraints on workflow design",
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "target": "Attention Restoration Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attention Restoration Theory]]",
+        "line_number": 132,
+        "section": "Further Exploration",
+        "context_line": "> - [[Attention Restoration Theory]] and the role of restorative environments in sustaining cognitive performance",
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "target": "Habit Stacking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Habit Stacking]]",
+        "line_number": 133,
+        "section": "Further Exploration",
+        "context_line": "> - [[Habit Stacking]] and [[Implementation Intentions]] as practical mechanisms for behavioral integration",
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "target": "Implementation Intentions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implementation Intentions]]",
+        "line_number": 133,
+        "section": "Further Exploration",
+        "context_line": "> - [[Habit Stacking]] and [[Implementation Intentions]] as practical mechanisms for behavioral integration",
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "target": "Energy Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Energy Management]]",
+        "line_number": 134,
+        "section": "Further Exploration",
+        "context_line": "> - [[Energy Management]] frameworks that prioritize vitality over mere time management",
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "target": "Deliberate Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate Practice]]",
+        "line_number": 135,
+        "section": "Further Exploration",
+        "context_line": "> - [[Deliberate Practice]] methodology and the structured acquisition of workflow-related meta-skills",
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "target": "decision fatigue",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[decision fatigue]]",
+        "line_number": 136,
+        "section": "Further Exploration",
+        "context_line": "> - [[decision fatigue]] and [[Ego Depletion]] research informing the timing and sequencing of cognitively demanding work",
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "target": "Ego Depletion",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ego Depletion]]",
+        "line_number": 136,
+        "section": "Further Exploration",
+        "context_line": "> - [[decision fatigue]] and [[Ego Depletion]] research informing the timing and sequencing of cognitively demanding work",
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "target": "Complexity Science",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Complexity Science]]",
+        "line_number": 137,
+        "section": "Further Exploration",
+        "context_line": "> - [[Complexity Science]] applied to personal systems: emergence, self-organization, and adaptation in workflow",
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "target": "Mindfulness and Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mindfulness and Metacognition]]",
+        "line_number": 138,
+        "section": "Further Exploration",
+        "context_line": "> - [[Mindfulness and Metacognition]] practices for developing awareness of one's own workflow patterns and mental states",
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "completion",
+        "value": "2025-10-28",
+        "format": "bracket",
+        "line_number": 99,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 127,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "A comprehensive analysis of flow state psychology, examining the historical development of optimal experience theory from Csikszentmihalyi's foundational work through contemporary neuroscience, the cognitive and neurological mechanisms that produce flow states, the environmental and task-related conditions that enable flow, empirical evidence from laboratory studies and field research across domains, and the broader implications for designing work systems and personal practices that reliably produce states of peak performance and subjective well-being.",
+        "line_start": 37,
+        "line_end": 39,
+        "char_count": 558,
+        "line_count": 1,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A comprehensive examination of systems design principles applied to personal workflow architecture, tracing the intellectual lineage from cybernetics and systems theory through knowledge management and personal productivity, the foundational principles of effective system design including cognitive load theory and information architecture, the mechanisms by which well-designed systems reduce friction and enable flow, empirical evidence from comparative workflow studies and systems analysis, and the broader implications for building antifragile personal operating systems that adapt and improve under stress rather than collapse.",
+        "line_start": 51,
+        "line_end": 53,
+        "char_count": 634,
+        "line_count": 1,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A comprehensive analysis of measurement and optimization in personal workflow systems, examining the historical development of quantified self methodologies and performance measurement from industrial time-motion studies through modern biometric tracking, the theoretical foundations of effective feedback systems and the psychology of metrics, the mechanisms by which different measurement approaches influence behavior and subjective experience, empirical evidence regarding the relationship between measurement practices and performance outcomes, and the broader implications for designing balanced assessment frameworks that support rather than undermine intrinsic motivation and flow states.",
+        "line_start": 65,
+        "line_end": 67,
+        "char_count": 696,
+        "line_count": 1,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A comprehensive exploration of the phenomenological and embodied dimensions of workflow experience, tracing the intellectual foundations from phenomenological philosophy and tacit knowledge theory through embodied cognition and expertise research, the theoretical basis for somatic intelligence and intuitive pattern recognition in complex domains, the processes by which experienced practitioners develop felt sense awareness and practical wisdom, evidence from expertise studies and contemplative practice research demonstrating the validity of embodied knowing, and the broader implications for integrating qualitative, first-person methodologies into workflow optimization alongside quantitative metrics.",
+        "line_start": 79,
+        "line_end": 81,
+        "char_count": 708,
+        "line_count": 1,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A comprehensive investigation of environmental and contextual factors in workflow optimization, examining the historical and theoretical foundations of situated cognition and extended mind theory, the principles of environmental design that influence cognitive performance including spatial architecture, digital tool ecosystems, and temporal rhythms, the mechanisms by which context shapes attention, energy, and flow states, empirical evidence from environmental psychology, chronobiology, and workspace design research, and the broader implications for understanding human performance as an emergent property of person-environment systems rather than isolated individual capacity.",
+        "line_start": 93,
+        "line_end": 95,
+        "char_count": 683,
+        "line_count": 1,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A comprehensive analysis of temporal dynamics in sustainable workflow systems, tracing the intellectual lineage from chronobiology and circadian rhythm research through periodization theory and deliberate practice frameworks, the foundational principles governing human performance across multiple timescales including ultradian rhythms, recovery physiology, and skill acquisition trajectories, the mechanisms by which temporal architecture influences both immediate performance and long-term capacity development, empirical evidence from athletic training science, cognitive performance research, and longitudinal expertise studies, and the broader implications for designing workflow systems that build rather than deplete capacity over time.",
+        "line_start": 107,
+        "line_end": 109,
+        "char_count": 744,
+        "line_count": 1,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A comprehensive examination of the process by which theoretical knowledge becomes embodied practice in workflow optimization, exploring the historical and theoretical foundations from implementation science and behavior change theories through skill acquisition and deliberate practice research, the fundamental principles governing the translation of knowledge into capability including habit formation, progressive overload, and scaffolded learning, the specific mechanisms and processes that enable or block the integration of new practices, empirical evidence from behavioral psychology, expertise development studies, and implementation research across domains, and the broader implications for designing learning and development processes that produce lasting transformation rather than temporary enthusiasm.",
+        "line_start": 121,
+        "line_end": 123,
+        "char_count": 814,
+        "line_count": 1,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "<thinking>\nLet me deconstruct this user request carefully. The user is asking for topics related to \"workflow\" but with a very specific lens: they want to understand and implement these concepts into their self-development project. Looking at their brainstormed thoughts, I can identify several fundamental components:\n\n**Key Actors/Components:**\n- The individual practitioner (the user)\n- Cognitive states (flow, focus, attention)\n- Systems and frameworks (theoretical foundations)\n- Tools and techniques (practical implementations)\n- Environmental factors (context, triggers, conditions)\n- Measurement systems (feedback loops, metrics)\n\n**Core Processes:**\n- Entering flow states\n- Designing workflow systems\n- Implementing productivity techniques\n- Measuring and optimizing performance\n- Sustaining productive states over time\n\n**Governing Principles:**\n- Psychological theories of optimal experience\n- Cognitive load management\n- Systems thinking applied to personal productivity\n- Feedback-driven iteration\n- Alignment between task, skill, and challenge\n\n**Key Outcomes:**\n- Sustained high-level performance\n- Subjective experience of \"rightness\" or flow\n- Measurable productivity gains\n- Reproducible entry into productive states\n- Long-term skill development and mastery\n\nNow, shifting from \"What\" to \"Why/How/So What\":\n\n**Potential Angle 1: The Psychology of Flow**\n- What: Flow states, optimal experience\n- Why: Understanding what creates the subjective feeling of \"rightness\" in work\n- How: The neurological and psychological mechanisms that enable flow\n- So What: This knowledge allows intentional design of conditions for flow\n- Relationship: Between cognitive state, environmental design, and performance outcomes\n\n**Potential Angle 2: Workflow Architecture**\n- What: Systems, frameworks, tools\n- Why: Not all workflows are created equal—some support flow, others destroy it\n- How: Design principles that create sustainable, scalable personal systems\n- So What: Enables self-directed optimization rather than blindly following productivity gurus\n- Relationship: Between system design, cognitive load, and sustainable performance\n\n**Potential Angle 3: Measurement and Iteration**\n- What: Metrics, feedback loops, optimization\n- Why: \"What gets measured gets managed\"—but measuring the wrong things destroys flow\n- How: Quantified self approaches, qualitative reflection, balanced scorecards\n- So What: Creates a personal R&D lab for continuous improvement\n- Relationship: Between data, insight, and behavioral change\n\n**Potential Angle 4: The Phenomenology of \"Right\" Workflow**\n- What: The subjective experience of alignment\n- Why: Intuition and embodied knowledge matter as much as systems\n- How: Somatic awareness, qualitative assessment, pattern recognition\n- So What: Develops practical wisdom that transcends any single framework\n- Relationship: Between felt sense, environmental factors, and performance\n\n**Potential Angle 5: Environmental and Contextual Design**\n- What: Physical space, digital tools, temporal rhythms\n- Why: Context shapes consciousness; we are environmentally situated beings\n- How: Ergonomics, temporal architecture (ultradian rhythms), tool ecosystems\n- So What: Enables \"architecting for flow\" rather than fighting against environment\n- Relationship: Between external conditions and internal states\n\n**Potential Angle 6: Integration of Theory and Practice**\n- What: Bridging academic research with lived implementation\n- Why: The gap between knowing and doing is where most productivity advice fails\n- How: Implementation science, habit formation, progressive mastery\n- So What: Transforms theoretical knowledge into embodied capability\n- Relationship: Between conceptual models and behavioral change\n\nNow I can generate 5-7 topics that will serve as comprehensive inputs for 6,000-word reports, each capable of the five-part structure.\n</thinking>",
+        "line_start": 140,
+        "line_end": 219,
+        "char_count": 3890,
+        "line_count": 78,
+        "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[x] **Used?**  [completion:: 2025-10-28]",
+          "indent_level": 0,
+          "line_number": 66,
+          "source": "topic-set_workflow-systems,-flow-psychology,-and-sustainable-high-performance_🆔20251028231850.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Attention Restoration Theory",
+      "Cognitive Load Theory",
+      "Complexity Science",
+      "Deliberate Practice",
+      "Ego Depletion",
+      "Energy Management",
+      "Habit Stacking",
+      "Implementation Intentions",
+      "Mindfulness and Metacognition",
+      "decision fatigue"
+    ],
+    "unique_wiki_link_count": 10,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Attention Restoration Theory",
+      "Cognitive Load Theory",
+      "Complexity Science",
+      "Deliberate Practice",
+      "Ego Depletion",
+      "Energy Management",
+      "Habit Stacking",
+      "Implementation Intentions",
+      "Mindfulness and Metacognition",
+      "decision fatigue"
+    ]
+  }
+}

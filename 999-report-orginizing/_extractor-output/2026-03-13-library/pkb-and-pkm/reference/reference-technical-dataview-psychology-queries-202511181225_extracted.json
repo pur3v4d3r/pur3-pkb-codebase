@@ -1,0 +1,246 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:31.152829",
+    "source_file": "reference-technical-dataview-psychology-queries-202511181225.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-technical-dataview-psychology-queries-202511181225.md",
+    "source_file_size_bytes": 2044,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": [],
+      "aliases": [
+        "Dataview Queries Cognitive Psychology ",
+        "Cognitive Psychology Dataview"
+      ],
+      "tags": [
+        "year/2025",
+        "source/pur3v4d3r",
+        "pkb/plugin/dataview"
+      ],
+      "id": "20251118122758",
+      "created": "2025-11-18T12:27:58",
+      "week": "[[2025-W47]]",
+      "month": "[[2025-11]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "link-up": [],
+      "link-related": [
+        "[[2025-11-18|Daily-Note]]",
+        "[[permeant-note_moc]]"
+      ]
+    },
+    "word_count": 218,
+    "character_count": 1633,
+    "line_count": 78,
+    "heading_count": 6
+  },
+  "extraction_summary": {
+    "total_items_extracted": 12,
+    "by_type": {
+      "headings": 6,
+      "callouts": 1,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 5,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 2,
+      "text": "🔍 Essential Dataview Queries for This Domain",
+      "anchor": "essential-dataview-queries-for-this-domain",
+      "line_number": 24,
+      "source": "reference-technical-dataview-psychology-queries-202511181225.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Query 1: All Permanent Notes in Cognitive Abilities Domain",
+          "anchor": "query-1-all-permanent-notes-in-cognitive-abilities-domain",
+          "line_number": 29,
+          "source": "reference-technical-dataview-psychology-queries-202511181225.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Query 2: Notes Needing Review by Subdomain",
+          "anchor": "query-2-notes-needing-review-by-subdomain",
+          "line_number": 42,
+          "source": "reference-technical-dataview-psychology-queries-202511181225.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Query 3: Techniques and Practices Ready to Implement",
+          "anchor": "query-3-techniques-and-practices-ready-to-implement",
+          "line_number": 54,
+          "source": "reference-technical-dataview-psychology-queries-202511181225.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Query 4: Literature Notes by Theory",
+          "anchor": "query-4-literature-notes-by-theory",
+          "line_number": 67,
+          "source": "reference-technical-dataview-psychology-queries-202511181225.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Query 5: Metacognition Knowledge Cluster",
+          "anchor": "query-5-metacognition-knowledge-cluster",
+          "line_number": 80,
+          "source": "reference-technical-dataview-psychology-queries-202511181225.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "**These queries transform your tags into dynamic views of your knowledge base.** Save these in your domain MOC or dashboard for quick access.",
+        "line_number": 26,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md",
+        "char_start": 454,
+        "char_end": 618
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 2,
+        "text": "🔍 Essential Dataview Queries for This Domain",
+        "anchor": "essential-dataview-queries-for-this-domain",
+        "line_number": 24,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md"
+      },
+      {
+        "level": 3,
+        "text": "Query 1: All Permanent Notes in Cognitive Abilities Domain",
+        "anchor": "query-1-all-permanent-notes-in-cognitive-abilities-domain",
+        "line_number": 29,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md"
+      },
+      {
+        "level": 3,
+        "text": "Query 2: Notes Needing Review by Subdomain",
+        "anchor": "query-2-notes-needing-review-by-subdomain",
+        "line_number": 42,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md"
+      },
+      {
+        "level": 3,
+        "text": "Query 3: Techniques and Practices Ready to Implement",
+        "anchor": "query-3-techniques-and-practices-ready-to-implement",
+        "line_number": 54,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md"
+      },
+      {
+        "level": 3,
+        "text": "Query 4: Literature Notes by Theory",
+        "anchor": "query-4-literature-notes-by-theory",
+        "line_number": 67,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md"
+      },
+      {
+        "level": 3,
+        "text": "Query 5: Metacognition Knowledge Cluster",
+        "anchor": "query-5-metacognition-knowledge-cluster",
+        "line_number": 80,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataview",
+        "code": "TABLE status, file.mtime as \"Last Modified\"\nFROM #topic/psychology\nWHERE type = \"🧬concept\"\nSORT status ASC, file.mtime DESC",
+        "line_start": 31,
+        "line_end": 36,
+        "char_count": 123,
+        "line_count": 4,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "TABLE file.tags as \"Tags\", file.mtime as \"Last Modified\"\nWHERE contains(file.tags, \"cognitive-science\") AND status = \"review\"\nSORT file.mtime ASC",
+        "line_start": 44,
+        "line_end": 48,
+        "char_count": 145,
+        "line_count": 3,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "LIST\nFROM #type/technique\nWHERE contains(file.tags, \"self-improvement\") AND status != \"archived\"\nSORT file.name",
+        "line_start": 56,
+        "line_end": 61,
+        "char_count": 111,
+        "line_count": 4,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "TABLE author, source, file.ctime as \"Added\"\nFROM #type/literature\nWHERE contains(file.tags, \"theory\")\nSORT author ASC",
+        "line_start": 69,
+        "line_end": 74,
+        "char_count": 117,
+        "line_count": 4,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "TABLE type, status, file.outlinks as \"Links Out\"\nFROM #cognitive-science/metacognition\nSORT type, status",
+        "line_start": 82,
+        "line_end": 86,
+        "char_count": 104,
+        "line_count": 3,
+        "source": "reference-technical-dataview-psychology-queries-202511181225.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

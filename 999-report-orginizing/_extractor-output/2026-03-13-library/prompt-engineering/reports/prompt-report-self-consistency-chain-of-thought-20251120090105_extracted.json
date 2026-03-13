@@ -1,0 +1,896 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:19:01.726808",
+    "source_file": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\03-prompt-engineering\\-reports\\prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+    "source_file_size_bytes": 17524,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "prompt-report-self-consistency-chain-of-thought-(cot-sc)-20251120090105",
+      "id": "20251120090105",
+      "type": "prompt/report",
+      "status": "not-read",
+      "source": "Placeholder for source material/reference",
+      "year": "[[2025]]",
+      "tags": [
+        "prompt-engineering",
+        "project/pur3v4d3r",
+        "year/2025",
+        "self-improvement",
+        "pkb/maintenance/refactoring",
+        "pkb/maintenance/cleanup"
+      ],
+      "aliases": [
+        "🧠 **SELF‑CONSISTENCY (COT‑SC) IN LARGE LANGUAGE MODELS: A COMPREHENSIVE ACADEMIC REVIEW**,CoT-SC GPT-OSS 20B Report,Ensemble Inference for Open Source Models,Self-Consistency on Self-Hosted LLMs"
+      ],
+      "link-up": [
+        "[[project-pur3v4d3r-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-20|Daily-Note]]"
+      ]
+    },
+    "word_count": 2193,
+    "character_count": 16497,
+    "line_count": 201,
+    "heading_count": 34
+  },
+  "extraction_summary": {
+    "total_items_extracted": 74,
+    "by_type": {
+      "headings": 34,
+      "callouts": 0,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 1,
+      "tables": 1,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 18,
+      "lists_unordered": 20,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "🧠 **SELF‑CONSISTENCY (COT‑SC) IN LARGE LANGUAGE MODELS: A COMPREHENSIVE ACADEMIC REVIEW**",
+      "anchor": "selfconsistency-cotsc-in-large-language-models-a-comprehensive-academic-review",
+      "line_number": 23,
+      "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📄 **ABSTRACT**",
+          "anchor": "abstract",
+          "line_number": 27,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📑 **TABLE OF CONTENTS**",
+          "anchor": "table-of-contents",
+          "line_number": 33,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔍 **1. INTRODUCTION: THE PARADIGM SHIFT**",
+          "anchor": "1-introduction-the-paradigm-shift",
+          "line_number": 46,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1.1 THE NEED FOR LOGICAL CONSISTENCY IN LLMS",
+              "anchor": "11-the-need-for-logical-consistency-in-llms",
+              "line_number": 48,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "1.2 HISTORICAL CONTEXT AND THEORETICAL FOUNDATIONS",
+              "anchor": "12-historical-context-and-theoretical-foundations",
+              "line_number": 54,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🧩 **2. CORE METHODOLOGY: DECONSTRUCTING THE MECHANISM**",
+          "anchor": "2-core-methodology-deconstructing-the-mechanism",
+          "line_number": 65,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "2.1 CHAIN‑OF‑THOUGHT PROMPTING: A BRIEF RECAP",
+              "anchor": "21-chainofthought-prompting-a-brief-recap",
+              "line_number": 67,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2.2 SELF‑CONSISTENCY PROCEDURE",
+              "anchor": "22-selfconsistency-procedure",
+              "line_number": 76,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2.3 WHY SELF‑CONSISTENCY WORKS: A MECHANISTIC PERSPECTIVE",
+              "anchor": "23-why-selfconsistency-works-a-mechanistic-perspective",
+              "line_number": 91,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "2.3.1 CALIBRATION OF THE LLM’S PROBABILITY DISTRIBUTION",
+                  "anchor": "231-calibration-of-the-llms-probability-distribution",
+                  "line_number": 93,
+                  "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "2.3.2 THE LAW OF LARGE NUMBERS IN THE GENERATIVE DOMAIN",
+                  "anchor": "232-the-law-of-large-numbers-in-the-generative-domain",
+                  "line_number": 97,
+                  "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "2.3.3 ENSEMBLE DIVERSITY AND ERROR CANCELLATION",
+                  "anchor": "233-ensemble-diversity-and-error-cancellation",
+                  "line_number": 101,
+                  "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "2.3.4 INTERACTION WITH TEMPERATURE AND DECODING STRATEGIES",
+                  "anchor": "234-interaction-with-temperature-and-decoding-strategies",
+                  "line_number": 105,
+                  "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🛠️ **3. IMPLEMENTATION AND PRACTICAL APPLICATION**",
+          "anchor": "3-implementation-and-practical-application",
+          "line_number": 111,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "3.1 PARAMETERIZING SELF‑CONSISTENCY",
+              "anchor": "31-parameterizing-selfconsistency",
+              "line_number": 113,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3.2 ALGORITHMIC OUTLINE",
+              "anchor": "32-algorithmic-outline",
+              "line_number": 122,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3.3 REAL‑WORLD EXAMPLES",
+              "anchor": "33-realworld-examples",
+              "line_number": 135,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "3.3.1 ARITHMETIC PROBLEM",
+                  "anchor": "331-arithmetic-problem",
+                  "line_number": 137,
+                  "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "3.3.2 LEGAL REASONING",
+                  "anchor": "332-legal-reasoning",
+                  "line_number": 143,
+                  "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "3.3.3 RETRIEVAL‑AUGMENTED GENERATION (RAG)",
+                  "anchor": "333-retrievalaugmented-generation-rag",
+                  "line_number": 150,
+                  "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "3.4 TOOLKITS AND LIBRARIES",
+              "anchor": "34-toolkits-and-libraries",
+              "line_number": 156,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "💡 **4. COMPARATIVE ANALYSIS: WHERE IT STANDS**",
+          "anchor": "4-comparative-analysis-where-it-stands",
+          "line_number": 164,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "4.1 SELF‑CONSISTENCY VS. BEAM SEARCH",
+              "anchor": "41-selfconsistency-vs-beam-search",
+              "line_number": 166,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.2 SELF‑CONSISTENCY VS. DIVERSE DECODING",
+              "anchor": "42-selfconsistency-vs-diverse-decoding",
+              "line_number": 170,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.3 SELF‑CONSISTENCY VS. RETRIEVAL‑AUGMENTED GENERATION (RAG)",
+              "anchor": "43-selfconsistency-vs-retrievalaugmented-generation-rag",
+              "line_number": 174,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.4 SELF‑CONSISTENCY VS. FEW‑SHOT PROMPTING",
+              "anchor": "44-selfconsistency-vs-fewshot-prompting",
+              "line_number": 178,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚠️ **5. LIMITATIONS AND CRITICAL REVIEW**",
+          "anchor": "5-limitations-and-critical-review",
+          "line_number": 184,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "5.1 COMPUTATIONAL OVERHEAD",
+              "anchor": "51-computational-overhead",
+              "line_number": 186,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5.2 SENSITIVITY TO SAMPLING HYPERPARAMETERS",
+              "anchor": "52-sensitivity-to-sampling-hyperparameters",
+              "line_number": 190,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5.3 BIAS AMPLIFICATION",
+              "anchor": "53-bias-amplification",
+              "line_number": 194,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5.4 THEORETICAL GUARANTEES",
+              "anchor": "54-theoretical-guarantees",
+              "line_number": 198,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5.5 INTEGRATION WITH EXISTING WORKFLOWS",
+              "anchor": "55-integration-with-existing-workflows",
+              "line_number": 202,
+              "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎯 **6. CONCLUSION AND FUTURE TRAJECTORIES**",
+          "anchor": "6-conclusion-and-future-trajectories",
+          "line_number": 208,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "🧠 **SELF‑CONSISTENCY (COT‑SC) IN LARGE LANGUAGE MODELS: A COMPREHENSIVE ACADEMIC REVIEW**",
+        "anchor": "selfconsistency-cotsc-in-large-language-models-a-comprehensive-academic-review",
+        "line_number": 23,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 2,
+        "text": "📄 **ABSTRACT**",
+        "anchor": "abstract",
+        "line_number": 27,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 2,
+        "text": "📑 **TABLE OF CONTENTS**",
+        "anchor": "table-of-contents",
+        "line_number": 33,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 2,
+        "text": "🔍 **1. INTRODUCTION: THE PARADIGM SHIFT**",
+        "anchor": "1-introduction-the-paradigm-shift",
+        "line_number": 46,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "1.1 THE NEED FOR LOGICAL CONSISTENCY IN LLMS",
+        "anchor": "11-the-need-for-logical-consistency-in-llms",
+        "line_number": 48,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "1.2 HISTORICAL CONTEXT AND THEORETICAL FOUNDATIONS",
+        "anchor": "12-historical-context-and-theoretical-foundations",
+        "line_number": 54,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 2,
+        "text": "🧩 **2. CORE METHODOLOGY: DECONSTRUCTING THE MECHANISM**",
+        "anchor": "2-core-methodology-deconstructing-the-mechanism",
+        "line_number": 65,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "2.1 CHAIN‑OF‑THOUGHT PROMPTING: A BRIEF RECAP",
+        "anchor": "21-chainofthought-prompting-a-brief-recap",
+        "line_number": 67,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "2.2 SELF‑CONSISTENCY PROCEDURE",
+        "anchor": "22-selfconsistency-procedure",
+        "line_number": 76,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "2.3 WHY SELF‑CONSISTENCY WORKS: A MECHANISTIC PERSPECTIVE",
+        "anchor": "23-why-selfconsistency-works-a-mechanistic-perspective",
+        "line_number": 91,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 4,
+        "text": "2.3.1 CALIBRATION OF THE LLM’S PROBABILITY DISTRIBUTION",
+        "anchor": "231-calibration-of-the-llms-probability-distribution",
+        "line_number": 93,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 4,
+        "text": "2.3.2 THE LAW OF LARGE NUMBERS IN THE GENERATIVE DOMAIN",
+        "anchor": "232-the-law-of-large-numbers-in-the-generative-domain",
+        "line_number": 97,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 4,
+        "text": "2.3.3 ENSEMBLE DIVERSITY AND ERROR CANCELLATION",
+        "anchor": "233-ensemble-diversity-and-error-cancellation",
+        "line_number": 101,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 4,
+        "text": "2.3.4 INTERACTION WITH TEMPERATURE AND DECODING STRATEGIES",
+        "anchor": "234-interaction-with-temperature-and-decoding-strategies",
+        "line_number": 105,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 2,
+        "text": "🛠️ **3. IMPLEMENTATION AND PRACTICAL APPLICATION**",
+        "anchor": "3-implementation-and-practical-application",
+        "line_number": 111,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "3.1 PARAMETERIZING SELF‑CONSISTENCY",
+        "anchor": "31-parameterizing-selfconsistency",
+        "line_number": 113,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "3.2 ALGORITHMIC OUTLINE",
+        "anchor": "32-algorithmic-outline",
+        "line_number": 122,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "3.3 REAL‑WORLD EXAMPLES",
+        "anchor": "33-realworld-examples",
+        "line_number": 135,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 4,
+        "text": "3.3.1 ARITHMETIC PROBLEM",
+        "anchor": "331-arithmetic-problem",
+        "line_number": 137,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 4,
+        "text": "3.3.2 LEGAL REASONING",
+        "anchor": "332-legal-reasoning",
+        "line_number": 143,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 4,
+        "text": "3.3.3 RETRIEVAL‑AUGMENTED GENERATION (RAG)",
+        "anchor": "333-retrievalaugmented-generation-rag",
+        "line_number": 150,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "3.4 TOOLKITS AND LIBRARIES",
+        "anchor": "34-toolkits-and-libraries",
+        "line_number": 156,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 2,
+        "text": "💡 **4. COMPARATIVE ANALYSIS: WHERE IT STANDS**",
+        "anchor": "4-comparative-analysis-where-it-stands",
+        "line_number": 164,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "4.1 SELF‑CONSISTENCY VS. BEAM SEARCH",
+        "anchor": "41-selfconsistency-vs-beam-search",
+        "line_number": 166,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "4.2 SELF‑CONSISTENCY VS. DIVERSE DECODING",
+        "anchor": "42-selfconsistency-vs-diverse-decoding",
+        "line_number": 170,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "4.3 SELF‑CONSISTENCY VS. RETRIEVAL‑AUGMENTED GENERATION (RAG)",
+        "anchor": "43-selfconsistency-vs-retrievalaugmented-generation-rag",
+        "line_number": 174,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "4.4 SELF‑CONSISTENCY VS. FEW‑SHOT PROMPTING",
+        "anchor": "44-selfconsistency-vs-fewshot-prompting",
+        "line_number": 178,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 2,
+        "text": "⚠️ **5. LIMITATIONS AND CRITICAL REVIEW**",
+        "anchor": "5-limitations-and-critical-review",
+        "line_number": 184,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "5.1 COMPUTATIONAL OVERHEAD",
+        "anchor": "51-computational-overhead",
+        "line_number": 186,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "5.2 SENSITIVITY TO SAMPLING HYPERPARAMETERS",
+        "anchor": "52-sensitivity-to-sampling-hyperparameters",
+        "line_number": 190,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "5.3 BIAS AMPLIFICATION",
+        "anchor": "53-bias-amplification",
+        "line_number": 194,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "5.4 THEORETICAL GUARANTEES",
+        "anchor": "54-theoretical-guarantees",
+        "line_number": 198,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 3,
+        "text": "5.5 INTEGRATION WITH EXISTING WORKFLOWS",
+        "anchor": "55-integration-with-existing-workflows",
+        "line_number": 202,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 **6. CONCLUSION AND FUTURE TRAJECTORIES**",
+        "anchor": "6-conclusion-and-future-trajectories",
+        "line_number": 208,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "Input: Prompt P, Model M, N, Temperature T, Weighting W\nFor i = 1 to N:\n    Trace_i = M.generate(P, temperature=T_i, decoding=sample)\n    Answer_i = extract_final_answer(Trace_i)\n    Weight_i = compute_weight(Trace_i, W)\nAggregate scores: score(answer) = Σ Weight_i where Answer_i = answer\nSelect answer with highest score\nReturn Self‑Consistent answer and optionally representative trace",
+        "line_start": 124,
+        "line_end": 133,
+        "char_count": 388,
+        "line_count": 8,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Parameter",
+          "Typical Range",
+          "Effect"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "*N* (number of traces)",
+            "10–200",
+            "Higher *N* improves stability but increases compute"
+          ],
+          [
+            "Temperature",
+            "0.6–1.2",
+            "Controls diversity; lower values yield more deterministic traces"
+          ],
+          [
+            "Decoding strategy",
+            "Sampling, Top‑k, Top‑p",
+            "Sampling yields the widest diversity; Top‑k/top‑p may be used to curb extreme outputs"
+          ],
+          [
+            "Weighting scheme",
+            "Uniform, Likelihood‑weighted",
+            "Likelihood weighting can prioritize more probable traces, but may bias against rare correct answers"
+          ]
+        ],
+        "line_start": 115,
+        "row_count": 4,
+        "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Title and Abstract**",
+          "indent_level": 0,
+          "line_number": 34,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Table of Contents**",
+          "indent_level": 0,
+          "line_number": 36,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Introduction: The Paradigm Shift**",
+          "indent_level": 0,
+          "line_number": 37,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Core Methodology: Deconstructing the Mechanism**",
+          "indent_level": 0,
+          "line_number": 38,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Implementation and Practical Application**",
+          "indent_level": 0,
+          "line_number": 39,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Comparative Analysis: Where It Stands**",
+          "indent_level": 0,
+          "line_number": 40,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Limitations and Critical Review**",
+          "indent_level": 0,
+          "line_number": 41,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Conclusion and Future Trajectories**",
+          "indent_level": 0,
+          "line_number": 42,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Monte‑Carlo Sampling** – The idea that a random sampling process can approximate an integral or expectation value over a probability distribution.",
+          "indent_level": 0,
+          "line_number": 57,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Ensemble Learning** – The principle that combining multiple weak learners yields a stronger, more generalizable predictor.",
+          "indent_level": 0,
+          "line_number": 59,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Generation Stage**",
+          "indent_level": 0,
+          "line_number": 79,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Aggregation Stage**",
+          "indent_level": 0,
+          "line_number": 83,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Post‑Processing Stage**",
+          "indent_level": 0,
+          "line_number": 87,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Adaptive Self‑Consistency** – Dynamically adjusting temperature and *N* based on trace variance to balance quality and efficiency.",
+          "indent_level": 0,
+          "line_number": 210,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Hybrid Consistency Frameworks** – Combining Self‑Consistency with retrieval‑augmented generation, external knowledge bases, or symbolic reasoning engines to further ground outputs.",
+          "indent_level": 0,
+          "line_number": 210,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Theoretical Foundations** – Developing rigorous probabilistic guarantees for Self‑Consistency under realistic assumptions, potentially drawing from Bayesian non‑parametrics.",
+          "indent_level": 0,
+          "line_number": 210,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Bias Mitigation** – Incorporating fairness constraints into the aggregation stage to prevent amplification of systematic biases.",
+          "indent_level": 0,
+          "line_number": 214,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Hardware‑Optimized Implementations** – Leveraging GPU sparsity, model parallelism, and efficient caching to reduce the computational burden of multi‑trace sampling.",
+          "indent_level": 0,
+          "line_number": 215,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "**Independent Sampling**: The model produces *N* separate CoT traces, each initialized with a distinct random seed or temperature setting.",
+          "indent_level": 1,
+          "line_number": 81,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Stochastic Variation**: Because each trace is conditioned on the same prompt but sampled from a different point in the model’s output distribution, the traces diverge in wording, ordering, and sometimes in the intermediate conclusions.",
+          "indent_level": 1,
+          "line_number": 82,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Consistency Scoring**: Each trace is parsed to extract the final answer. A simple voting mechanism counts how many traces arrive at each candidate answer.",
+          "indent_level": 1,
+          "line_number": 84,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Probabilistic Weighting (Optional)**: More sophisticated approaches weigh each trace by its likelihood under the model’s softmax distribution or by the log‑probability of the final answer token.",
+          "indent_level": 1,
+          "line_number": 85,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Consensus Determination**: The answer with the highest aggregate score is selected as the Self‑Consistent output.",
+          "indent_level": 1,
+          "line_number": 86,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Answer Verification**: For tasks with deterministic answers (e.g., arithmetic), the chosen answer is cross‑validated against the ground truth.",
+          "indent_level": 1,
+          "line_number": 88,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Human‑Friendly Presentation**: The final output may be reformatted to emphasize the consensus answer and optionally provide a condensed version of the most representative reasoning steps.",
+          "indent_level": 1,
+          "line_number": 89,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Prompt**: “Compute 27 × 35. Show your work.”",
+          "indent_level": 0,
+          "line_number": 126,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**N = 50, T = 0.9**",
+          "indent_level": 0,
+          "line_number": 127,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Result**: 945, with 43 of 50 traces arriving at 945. A few traces mis‑multiply one operand, but the majority vote yields the correct answer. The model also provides a brief step‑by‑step justification that can be presented to users.",
+          "indent_level": 0,
+          "line_number": 128,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Prompt**: “Given the facts of *Case X*, does the defendant’s action constitute negligence? Provide a reasoned opinion.”",
+          "indent_level": 0,
+          "line_number": 135,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**N = 30, T = 1.0**",
+          "indent_level": 0,
+          "line_number": 141,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Result**: “Yes, the defendant breached the duty of care.”",
+          "indent_level": 0,
+          "line_number": 141,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "The majority of traces cite the *Duty‑Breach‑Causation* framework; a minority misinterpret the jurisdictional precedent. Self‑Consistency consolidates the dominant legal reasoning path, enhancing the model’s reliability in high‑stakes contexts.",
+          "indent_level": 0,
+          "line_number": 141,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Prompt**: “Summarize the latest findings on CRISPR‑Cas9 gene editing.”",
+          "indent_level": 0,
+          "line_number": 145,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Process**: Each trace retrieves a subset of recent articles via an external search API, then generates a CoT summary.",
+          "indent_level": 0,
+          "line_number": 147,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Outcome**: The Self‑Consistent summary converges on a coherent synthesis that balances multiple source viewpoints, reducing hallucinations common in purely generative RAG.",
+          "indent_level": 0,
+          "line_number": 148,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**OpenAI API**: Supports temperature control and sampling; batch generation can be scripted to produce multiple traces.",
+          "indent_level": 0,
+          "line_number": 152,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**LangChain**: Provides wrappers for multi‑trace generation and aggregation.",
+          "indent_level": 0,
+          "line_number": 153,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        },
+        {
+          "text": "**Hugging Face Diffusers**: For on‑premise deployment; custom scripts can handle parallel sampling.",
+          "indent_level": 0,
+          "line_number": 154,
+          "source": "prompt-report-self-consistency-chain-of-thought-20251120090105.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

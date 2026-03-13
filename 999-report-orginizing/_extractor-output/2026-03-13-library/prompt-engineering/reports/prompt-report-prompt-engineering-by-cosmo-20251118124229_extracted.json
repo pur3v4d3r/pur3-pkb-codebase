@@ -1,0 +1,482 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:19:01.694854",
+    "source_file": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\03-prompt-engineering\\-reports\\prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+    "source_file_size_bytes": 11971,
+    "processing_time_seconds": 0.002
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "📙🧠Report_Prompt-Engineering_by-Cosmo",
+      "id": "20251118124229",
+      "type": "📝🔧report",
+      "status": "seedling",
+      "tags": [
+        "prompt-engineering/educational"
+      ],
+      "aliases": [
+        "Prompt Engineering Report",
+        "Report Cosmo"
+      ]
+    },
+    "word_count": 1623,
+    "character_count": 11677,
+    "line_count": 88,
+    "heading_count": 12
+  },
+  "extraction_summary": {
+    "total_items_extracted": 46,
+    "by_type": {
+      "headings": 12,
+      "callouts": 0,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 6,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 28,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "📙🧠REPORT_PROMPT-ENGINEERING_BY-COSMO",
+      "anchor": "reportprompt-engineeringby-cosmo",
+      "line_number": 15,
+      "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "ABSTRACT",
+          "anchor": "abstract",
+          "line_number": 17,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "1. INTRODUCTION",
+          "anchor": "1-introduction",
+          "line_number": 23,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "2. HISTORICAL CONTEXT & FOUNDATIONAL THEORIES",
+          "anchor": "2-historical-context-foundational-theories",
+          "line_number": 29,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "3. CORE CONCEPTS & MECHANISMS",
+          "anchor": "3-core-concepts-mechanisms",
+          "line_number": 37,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "3.1 THE ANATOMY OF A PROMPT",
+              "anchor": "31-the-anatomy-of-a-prompt",
+              "line_number": 41,
+              "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3.2 FUNDAMENTAL PROMPTING TECHNIQUES",
+              "anchor": "32-fundamental-prompting-techniques",
+              "line_number": 51,
+              "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3.3 ADVANCED PROMPTING STRATEGIES",
+              "anchor": "33-advanced-prompting-strategies",
+              "line_number": 61,
+              "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "4. CURRENT RESEARCH & UNANSWERED QUESTIONS",
+          "anchor": "4-current-research-unanswered-questions",
+          "line_number": 69,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "5. CONCLUSION",
+          "anchor": "5-conclusion",
+          "line_number": 78,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "6. KEY QUESTIONS FOR ACTIVE READING",
+          "anchor": "6-key-questions-for-active-reading",
+          "line_number": 84,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "7. REFERENCES",
+          "anchor": "7-references",
+          "line_number": 92,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "📙🧠REPORT_PROMPT-ENGINEERING_BY-COSMO",
+        "anchor": "reportprompt-engineeringby-cosmo",
+        "line_number": 15,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "level": 2,
+        "text": "ABSTRACT",
+        "anchor": "abstract",
+        "line_number": 17,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "level": 2,
+        "text": "1. INTRODUCTION",
+        "anchor": "1-introduction",
+        "line_number": 23,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "level": 2,
+        "text": "2. HISTORICAL CONTEXT & FOUNDATIONAL THEORIES",
+        "anchor": "2-historical-context-foundational-theories",
+        "line_number": 29,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "level": 2,
+        "text": "3. CORE CONCEPTS & MECHANISMS",
+        "anchor": "3-core-concepts-mechanisms",
+        "line_number": 37,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "level": 3,
+        "text": "3.1 THE ANATOMY OF A PROMPT",
+        "anchor": "31-the-anatomy-of-a-prompt",
+        "line_number": 41,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "level": 3,
+        "text": "3.2 FUNDAMENTAL PROMPTING TECHNIQUES",
+        "anchor": "32-fundamental-prompting-techniques",
+        "line_number": 51,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "level": 3,
+        "text": "3.3 ADVANCED PROMPTING STRATEGIES",
+        "anchor": "33-advanced-prompting-strategies",
+        "line_number": 61,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "level": 2,
+        "text": "4. CURRENT RESEARCH & UNANSWERED QUESTIONS",
+        "anchor": "4-current-research-unanswered-questions",
+        "line_number": 69,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "level": 2,
+        "text": "5. CONCLUSION",
+        "anchor": "5-conclusion",
+        "line_number": 78,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "level": 2,
+        "text": "6. KEY QUESTIONS FOR ACTIVE READING",
+        "anchor": "6-key-questions-for-active-reading",
+        "line_number": 84,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "level": 2,
+        "text": "7. REFERENCES",
+        "anchor": "7-references",
+        "line_number": 92,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [
+      {
+        "display_text": "https://arxiv.org/abs/1706.03762",
+        "url": "https://arxiv.org/abs/1706.03762",
+        "format": "markdown",
+        "line_number": 94,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "display_text": "https://arxiv.org/abs/2005.14165",
+        "url": "https://arxiv.org/abs/2005.14165",
+        "format": "markdown",
+        "line_number": 95,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "display_text": "https://arxiv.org/abs/2201.11903",
+        "url": "https://arxiv.org/abs/2201.11903",
+        "format": "markdown",
+        "line_number": 96,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "display_text": "https://arxiv.org/abs/2203.11171",
+        "url": "https://arxiv.org/abs/2203.11171",
+        "format": "markdown",
+        "line_number": 97,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "display_text": "https://arxiv.org/abs/2305.10601",
+        "url": "https://arxiv.org/abs/2305.10601",
+        "format": "markdown",
+        "line_number": 98,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      },
+      {
+        "display_text": "https://arxiv.org/abs/2211.01910",
+        "url": "https://arxiv.org/abs/2211.01910",
+        "format": "markdown",
+        "line_number": 99,
+        "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "**Role/Persona:** Assigning a role to the model (e.g., \"You are an expert astrophysicist\") to frame its knowledge base and response style.",
+          "indent_level": 0,
+          "line_number": 44,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Instruction/Task:** A clear and explicit command defining what the model should do (e.g., \"Summarize the following text,\" \"Write Python code for...\").",
+          "indent_level": 0,
+          "line_number": 46,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Context:** Providing necessary background information, data, or constraints the model needs to perform the task accurately.",
+          "indent_level": 0,
+          "line_number": 47,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Examples (Shots):** Demonstrations of the desired input-output format, which are crucial for in-context learning.",
+          "indent_level": 0,
+          "line_number": 48,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Output Format:** Specifying the desired structure of the output, such as Markdown, JSON, or a numbered list, to ensure a usable result.",
+          "indent_level": 0,
+          "line_number": 49,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Zero-Shot Prompting:** The model is given a direct instruction without any prior examples. This relies entirely on the model's pre-existing knowledge. Example: \"Translate 'hello world' to French.\"",
+          "indent_level": 0,
+          "line_number": 54,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Few-Shot Prompting:** The model is provided with a few examples (typically 1 to 5) of the task being performed before being given the final query. This helps the model understand the desired pattern and format. Example:",
+          "indent_level": 0,
+          "line_number": 56,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "*Input: sea otter -> loutre de mer*",
+          "indent_level": 2,
+          "line_number": 57,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "*Input: platypus -> ornithorynque*",
+          "indent_level": 2,
+          "line_number": 58,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "*Input: cheese ->* (Model completes with \"fromage\")",
+          "indent_level": 2,
+          "line_number": 59,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Chain-of-Thought (CoT) Prompting:** Coined by Wei et al. (2022), this technique encourages the model to break down a multi-step problem into intermediate reasoning steps before giving a final answer. By simply adding a phrase like \"Let's think step by step,\" the model is prompted to \"show its work,\" which dramatically improves performance on arithmetic, commonsense, and symbolic reasoning tasks.",
+          "indent_level": 0,
+          "line_number": 64,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Self-Consistency:** This method, proposed by Wang et al. (2022), builds on CoT. It involves running the same CoT prompt multiple times to generate several different reasoning paths and then selecting the most consistent answer that appears most frequently. This acts as a form of ensemble learning at the prompt level, improving robustness.",
+          "indent_level": 0,
+          "line_number": 66,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Tree of Thoughts (ToT):** An even more advanced framework proposed by Yao et al. (2023), ToT allows the model to explore multiple reasoning paths (branches of a tree) simultaneously. The model can evaluate the intermediate steps and self-correct, pruning unpromising branches and pursuing more viable ones. This deliberate, exploratory approach is more analogous to human problem-solving and excels at tasks requiring significant planning or search.",
+          "indent_level": 0,
+          "line_number": 67,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Automated Prompt Generation:** Manually designing optimal prompts is labor-intensive. Researchers are developing AI-driven methods, such as Automatic Prompt Engineer (APE), to automatically discover and optimize prompts for specific tasks. This involves using one LLM to generate and test candidate prompts for another.",
+          "indent_level": 0,
+          "line_number": 72,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Prompt Security and Robustness:** The open-ended nature of prompts creates vulnerabilities. **Prompt injection** is a significant security risk where malicious users craft inputs to hijack the model's instructions, bypass safety filters, or reveal sensitive information. Research is focused on developing defenses to make models more robust against such adversarial attacks.",
+          "indent_level": 0,
+          "line_number": 74,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**Multimodality:** With the rise of models that can process text, images, and audio, prompt engineering is expanding to include the strategic combination of different input types. How does an image combined with a textual question alter a model's reasoning? This is a key area of investigation.",
+          "indent_level": 0,
+          "line_number": 75,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "**The \"Science\" of Prompting:** A major unanswered question is the lack of a complete theoretical understanding of *why* certain prompt structures work. Much of prompt engineering remains empirical. Formalizing the principles and developing predictive models for prompt effectiveness is a critical goal for maturing the discipline from an art into a science.",
+          "indent_level": 0,
+          "line_number": 76,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "What was the most surprising or counter-intuitive concept presented in this paper? Why?",
+          "indent_level": 0,
+          "line_number": 85,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "How would you explain the central idea of this paper to someone with no scientific background? (The Feynman Technique)",
+          "indent_level": 0,
+          "line_number": 87,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "What are three key terms from this paper that you should define in your own words?",
+          "indent_level": 0,
+          "line_number": 88,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "What pre-existing knowledge did this paper connect with or challenge?",
+          "indent_level": 0,
+          "line_number": 89,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "What is one question you still have after reading this? Where might you look for an answer?",
+          "indent_level": 0,
+          "line_number": 90,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "Vaswani, A., et al. (2017). \"Attention Is All You Need.\" *arXiv preprint arXiv:1706.03762*. [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)",
+          "indent_level": 0,
+          "line_number": 93,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "Brown, T., et al. (2020). \"Language Models are Few-Shot Learners.\" *arXiv preprint arXiv:2005.14165*. [https://arxiv.org/abs/2005.14165](https://arxiv.org/abs/2005.14165)",
+          "indent_level": 0,
+          "line_number": 95,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "Wei, J., et al. (2022). \"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.\" *arXiv preprint arXiv:2201.11903*. [https://arxiv.org/abs/2201.11903](https://arxiv.org/abs/2201.11903)",
+          "indent_level": 0,
+          "line_number": 96,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "Wang, X., et al. (2022). \"Self-Consistency Improves Chain of Thought Reasoning in Language Models.\" *arXiv preprint arXiv:2203.11171*. [https://arxiv.org/abs/2203.11171](https://arxiv.org/abs/2203.11171)",
+          "indent_level": 0,
+          "line_number": 97,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "Yao, S., et al. (2023). \"Tree of Thoughts: Deliberate Problem Solving with Large Language Models.\" *arXiv preprint arXiv:2305.10601*. [https://arxiv.org/abs/2305.10601](https://arxiv.org/abs/2305.10601)",
+          "indent_level": 0,
+          "line_number": 98,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        },
+        {
+          "text": "Zhou, Y., et al. (2022). \"Large Language Models Are Human-Level Prompt Engineers.\" *arXiv preprint arXiv:2211.01910*. [https://arxiv.org/abs/2211.01910](https://arxiv.org/abs/2211.01910)",
+          "indent_level": 0,
+          "line_number": 99,
+          "source": "prompt-report-prompt-engineering-by-cosmo-20251118124229.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

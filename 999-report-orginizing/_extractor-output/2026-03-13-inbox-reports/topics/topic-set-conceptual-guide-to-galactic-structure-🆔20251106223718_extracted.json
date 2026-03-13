@@ -1,0 +1,349 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.820070",
+    "source_file": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+    "source_file_size_bytes": 7385,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "A Conceptual Guide to Galactic Structure, Evolution, and Dynamics",
+      "id": "20251106-223740",
+      "type": "✍️topics",
+      "status": "⚡active",
+      "rating": "",
+      "source": "RSCA-v2.0🆔20251020224705",
+      "url": "https://gemini.google.com/gem/813419e64e49/1a68fb6d62cd0976",
+      "tags": [
+        "topic",
+        "topic/educational",
+        "topic/rsca",
+        "source/rsca",
+        "cognitive-science",
+        "cosmology"
+      ],
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "link-up": "[[topics_moc]]",
+      "link-related": []
+    },
+    "word_count": 1013,
+    "character_count": 6914,
+    "line_count": 101,
+    "heading_count": 7
+  },
+  "extraction_summary": {
+    "total_items_extracted": 24,
+    "by_type": {
+      "headings": 7,
+      "callouts": 7,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 4,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 2,
+      "text": "🏛️ The Galactic Storybook: What Morphology Reveals",
+      "anchor": "the-galactic-storybook-what-morphology-reveals",
+      "line_number": 34,
+      "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🌌 The Cosmic Dance: Galactic Mergers and Transformation",
+      "anchor": "the-cosmic-dance-galactic-mergers-and-transformation",
+      "line_number": 48,
+      "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🌀 The Central Engine: Co-Evolution of Black Holes and Galaxies",
+      "anchor": "the-central-engine-co-evolution-of-black-holes-and-galaxies",
+      "line_number": 62,
+      "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "⛽ The Galactic Ecosystem: The Lifeblood of Star Formation",
+      "anchor": "the-galactic-ecosystem-the-lifeblood-of-star-formation",
+      "line_number": 76,
+      "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🏗️ The Invisible Architect: Dark Matter's Role in Galaxy Formation",
+      "anchor": "the-invisible-architect-dark-matters-role-in-galaxy-formation",
+      "line_number": 90,
+      "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🔭 Galactic Archaeology: Uncovering the Milky Way's Past",
+      "anchor": "galactic-archaeology-uncovering-the-milky-ways-past",
+      "line_number": 104,
+      "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Further Exploration",
+          "anchor": "further-exploration",
+          "line_number": 116,
+          "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set is designed for a self-learner exploring cosmology with a keen interest in galaxies, but without a formal background in mathematics or advanced science. The primary goal is to bypass complex equations and instead focus on the **conceptual, qualitative, and narrative** aspects of galactic science. These topics explore the \"why\" and \"how\" behind galaxy shapes, the dynamic processes of their growth and interaction, and the profound, symbiotic relationships between their visible and invisible components. The collection emphasizes the \"story\" of galaxies—viewing them as dynamic ecosystems, historical archives, and the fundamental building blocks of the cosmic structure, making the subject both challenging and accessible.",
+        "line_number": 27,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+        "char_start": 511,
+        "char_end": 1271
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 32,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+        "char_start": 1279,
+        "char_end": 1295
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 46,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+        "char_start": 2044,
+        "char_end": 2060
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 60,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+        "char_start": 2896,
+        "char_end": 2912
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 74,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+        "char_start": 3766,
+        "char_end": 3782
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 88,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+        "char_start": 4637,
+        "char_end": 4653
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 102,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md",
+        "char_start": 5522,
+        "char_end": 5538
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 2,
+        "text": "🏛️ The Galactic Storybook: What Morphology Reveals",
+        "anchor": "the-galactic-storybook-what-morphology-reveals",
+        "line_number": 34,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      },
+      {
+        "level": 2,
+        "text": "🌌 The Cosmic Dance: Galactic Mergers and Transformation",
+        "anchor": "the-cosmic-dance-galactic-mergers-and-transformation",
+        "line_number": 48,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      },
+      {
+        "level": 2,
+        "text": "🌀 The Central Engine: Co-Evolution of Black Holes and Galaxies",
+        "anchor": "the-central-engine-co-evolution-of-black-holes-and-galaxies",
+        "line_number": 62,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      },
+      {
+        "level": 2,
+        "text": "⛽ The Galactic Ecosystem: The Lifeblood of Star Formation",
+        "anchor": "the-galactic-ecosystem-the-lifeblood-of-star-formation",
+        "line_number": 76,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      },
+      {
+        "level": 2,
+        "text": "🏗️ The Invisible Architect: Dark Matter's Role in Galaxy Formation",
+        "anchor": "the-invisible-architect-dark-matters-role-in-galaxy-formation",
+        "line_number": 90,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      },
+      {
+        "level": 2,
+        "text": "🔭 Galactic Archaeology: Uncovering the Milky Way's Past",
+        "anchor": "galactic-archaeology-uncovering-the-milky-ways-past",
+        "line_number": 104,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      },
+      {
+        "level": 3,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 116,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "A conceptual exploration of galactic morphology, analyzing how the classification of spiral, elliptical, and irregular galaxies reveals their underlying evolutionary history, star formation activity, and past record of tidal interactions and mergers.",
+        "line_start": 40,
+        "line_end": 42,
+        "char_count": 250,
+        "line_count": 1,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A qualitative analysis of the processes and consequences of galactic mergers, examining how gravitational interactions drive tidal stripping, trigger starburst events, and contribute to the hierarchical evolution of galaxy mass and morphology, all explained through conceptual models rather than mathematical physics.",
+        "line_start": 54,
+        "line_end": 56,
+        "char_count": 317,
+        "line_count": 1,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "An investigation into the co-evolutionary relationship between supermassive black holes and their host galaxies, focusing on the conceptual mechanisms of mass accretion and energetic \"feedback\" and their qualitative role in regulating galactic growth and star formation.",
+        "line_start": 68,
+        "line_end": 70,
+        "char_count": 270,
+        "line_count": 1,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A descriptive analysis of the galactic baryon cycle, examining the inflow of primordial gas from the intergalactic medium, its condensation into molecular clouds, the qualitative processes of star formation, and the subsequent expulsion and recycling of enriched material through stellar feedback mechanisms.",
+        "line_start": 82,
+        "line_end": 84,
+        "char_count": 308,
+        "line_count": 1,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A conceptual examination of the role of dark matter halos as the gravitational architects of galaxy formation, analyzing the qualitative observational evidence for their existence and their foundational function in orchestrating the assembly, structure, and rotational dynamics of visible galaxies.",
+        "line_start": 96,
+        "line_end": 98,
+        "char_count": 298,
+        "line_count": 1,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "An analysis of the principles and key findings of \"Galactic Archaeology,\" investigating how the chemo-dynamical properties of stellar populations are used as \"fossils\" to reconstruct the assembly history, merger events, and evolutionary past of the Milky Way galaxy.",
+        "line_start": 110,
+        "line_end": 112,
+        "char_count": 266,
+        "line_count": 1,
+        "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "**The Cosmic Web:** Investigating the large-scale structure of the universe, which acts as the \"environment\" that dictates where galaxies form and how they are fed.",
+          "indent_level": 1,
+          "line_number": 92,
+          "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+        },
+        {
+          "text": "**Stellar Populations:** Exploring the idea that stars come in different \"generations\" (Population I, II, and III) and how their chemical makeup tells a story about the galaxy's age and history.",
+          "indent_level": 1,
+          "line_number": 92,
+          "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+        },
+        {
+          "text": "**Active Galactic Nuclei (AGN) and Quasars:** A deeper dive into the most extreme examples of supermassive black hole activity, focusing on their observational properties and profound impact on their surroundings.",
+          "indent_level": 1,
+          "line_number": 94,
+          "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+        },
+        {
+          "text": "**The Hubble Deep Fields:** An inquiry into the *observational* side, focusing on what we learned from pointing a telescope at an \"empty\" patch of sky and finding thousands of distant, ancient galaxies.",
+          "indent_level": 1,
+          "line_number": 97,
+          "source": "topic-set-conceptual-guide-to-galactic-structure-🆔20251106223718.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

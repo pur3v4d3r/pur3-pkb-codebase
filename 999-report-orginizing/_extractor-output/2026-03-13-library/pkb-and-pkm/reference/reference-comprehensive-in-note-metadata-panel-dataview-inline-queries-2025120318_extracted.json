@@ -1,0 +1,3714 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.405873",
+    "source_file": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+    "source_file_size_bytes": 42985,
+    "processing_time_seconds": 0.013
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "DV Inline Reference",
+        "Dataview Inline Compendium"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "type/analysis",
+        "status/in-progress",
+        "pkb",
+        "pkm",
+        "metadata-systems",
+        "critical-thinking/problem-solving",
+        "metacognitive-pkm",
+        "cognitive-resources",
+        "pkb/optimization",
+        "dataview-queries",
+        "cognitive-pkm"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251203183658",
+      "created": "2025-12-03T18:36:58",
+      "modified": "2025-12-03T18:36:58",
+      "week": "[[2025-W49]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "maturity": "needs-review",
+      "confidence": "moderate",
+      "next-review": "2025-12-10",
+      "review-count": "0",
+      "link-up": [
+        "[[pkb-&-pkm-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-03|Daily-Note]]"
+      ]
+    },
+    "word_count": 4964,
+    "character_count": 41860,
+    "line_count": 1118,
+    "heading_count": 118
+  },
+  "extraction_summary": {
+    "total_items_extracted": 319,
+    "by_type": {
+      "headings": 118,
+      "callouts": 27,
+      "wiki_links": 47,
+      "inline_fields": 11,
+      "definitions": 11,
+      "tags": 6,
+      "code_blocks": 70,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 12,
+      "lists_unordered": 17,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Dataview Inline Queries: In-Note Metadata Panel",
+      "anchor": "dataview-inline-queries-in-note-metadata-panel",
+      "line_number": 37,
+      "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Related Notes",
+          "anchor": "related-notes",
+          "line_number": 105,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Sources & References",
+          "anchor": "sources-references",
+          "line_number": 113,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Backlinks & Connections",
+          "anchor": "backlinks-connections",
+          "line_number": 123,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "2025-12-03 - Initial Creation",
+          "anchor": "2025-12-03-initial-creation",
+          "line_number": 133,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Tags & Classification",
+          "anchor": "tags-classification",
+          "line_number": 138,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "📊 Dataview Inline Queries: Complete Reference Compendium",
+      "anchor": "dataview-inline-queries-complete-reference-compendium",
+      "line_number": 184,
+      "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🏗️ I. Core Metadata & File Properties",
+          "anchor": "i-core-metadata-file-properties",
+          "line_number": 200,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Basic File Metadata Access",
+              "anchor": "a-basic-file-metadata-access",
+              "line_number": 202,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "1. **File Identification**",
+                  "anchor": "1-file-identification",
+                  "line_number": 207,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "2. **Content Metrics**",
+                  "anchor": "2-content-metrics",
+                  "line_number": 218,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "3. **Temporal Properties**",
+                  "anchor": "3-temporal-properties",
+                  "line_number": 229,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. Link & Relationship Analysis",
+              "anchor": "b-link-relationship-analysis",
+              "line_number": 242,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "4. **Link Counts**",
+                  "anchor": "4-link-counts",
+                  "line_number": 247,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "5. **Link Lists**",
+                  "anchor": "5-link-lists",
+                  "line_number": 258,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "6. **Tag Operations**",
+                  "anchor": "6-tag-operations",
+                  "line_number": 270,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "C. Frontmatter Property Access",
+              "anchor": "c-frontmatter-property-access",
+              "line_number": 282,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "7. **String Properties**",
+                  "anchor": "7-string-properties",
+                  "line_number": 287,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "8. **Numeric Properties**",
+                  "anchor": "8-numeric-properties",
+                  "line_number": 299,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "9. **Date Properties**",
+                  "anchor": "9-date-properties",
+                  "line_number": 311,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "10. **List Properties**",
+                  "anchor": "10-list-properties",
+                  "line_number": 323,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⏰ II. Temporal Calculations & Date Operations",
+          "anchor": "ii-temporal-calculations-date-operations",
+          "line_number": 337,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Date Arithmetic",
+              "anchor": "a-date-arithmetic",
+              "line_number": 339,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "11. **Age Calculations**",
+                  "anchor": "11-age-calculations",
+                  "line_number": 344,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "12. **Staleness Calculations**",
+                  "anchor": "12-staleness-calculations",
+                  "line_number": 355,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "13. **Future Date Calculations**",
+                  "anchor": "13-future-date-calculations",
+                  "line_number": 365,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "14. **Date Comparisons**",
+                  "anchor": "14-date-comparisons",
+                  "line_number": 376,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. Duration Formatting",
+              "anchor": "b-duration-formatting",
+              "line_number": 387,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "15. **Human-Readable Durations**",
+                  "anchor": "15-human-readable-durations",
+                  "line_number": 389,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "16. **Custom Date Formats**",
+                  "anchor": "16-custom-date-formats",
+                  "line_number": 399,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🧮 III. Mathematical Operations & Aggregations",
+          "anchor": "iii-mathematical-operations-aggregations",
+          "line_number": 414,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Basic Arithmetic",
+              "anchor": "a-basic-arithmetic",
+              "line_number": 416,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "17. **Simple Math**",
+                  "anchor": "17-simple-math",
+                  "line_number": 421,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "18. **Rounding Functions**",
+                  "anchor": "18-rounding-functions",
+                  "line_number": 434,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "19. **Advanced Math Functions**",
+                  "anchor": "19-advanced-math-functions",
+                  "line_number": 446,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. Percentage Calculations",
+              "anchor": "b-percentage-calculations",
+              "line_number": 458,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "20. **Percentage Operations**",
+                  "anchor": "20-percentage-operations",
+                  "line_number": 460,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "C. List Aggregations",
+              "anchor": "c-list-aggregations",
+              "line_number": 471,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "21. **List Statistics**",
+                  "anchor": "21-list-statistics",
+                  "line_number": 476,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "22. **List Item Access**",
+                  "anchor": "22-list-item-access",
+                  "line_number": 488,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔀 IV. Conditional Logic & Choice Functions",
+          "anchor": "iv-conditional-logic-choice-functions",
+          "line_number": 502,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Basic Conditionals",
+              "anchor": "a-basic-conditionals",
+              "line_number": 504,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "23. **Simple Conditionals**",
+                  "anchor": "23-simple-conditionals",
+                  "line_number": 509,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "24. **Numeric Thresholds**",
+                  "anchor": "24-numeric-thresholds",
+                  "line_number": 520,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "25. **Date-Based Conditions**",
+                  "anchor": "25-date-based-conditions",
+                  "line_number": 530,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. Complex Nested Conditions",
+              "anchor": "b-complex-nested-conditions",
+              "line_number": 540,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "26. **Multi-Level Classification**",
+                  "anchor": "26-multi-level-classification",
+                  "line_number": 542,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "27. **Boolean Combinations**",
+                  "anchor": "27-boolean-combinations",
+                  "line_number": 554,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔤 V. String Manipulation & Formatting",
+          "anchor": "v-string-manipulation-formatting",
+          "line_number": 566,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. String Operations",
+              "anchor": "a-string-operations",
+              "line_number": 568,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "28. **Basic String Functions**",
+                  "anchor": "28-basic-string-functions",
+                  "line_number": 573,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "29. **String Concatenation**",
+                  "anchor": "29-string-concatenation",
+                  "line_number": 585,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "30. **String Checks**",
+                  "anchor": "30-string-checks",
+                  "line_number": 596,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. List to String Conversion",
+              "anchor": "b-list-to-string-conversion",
+              "line_number": 608,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "31. **Join Operations**",
+                  "anchor": "31-join-operations",
+                  "line_number": 610,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "32. **Advanced List Formatting**",
+                  "anchor": "32-advanced-list-formatting",
+                  "line_number": 622,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📊 VI. Advanced Patterns & Composite Queries",
+          "anchor": "vi-advanced-patterns-composite-queries",
+          "line_number": 634,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Reading Time Estimation",
+              "anchor": "a-reading-time-estimation",
+              "line_number": 636,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "33. **Reading Time Variants**",
+                  "anchor": "33-reading-time-variants",
+                  "line_number": 641,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. Health & Quality Metrics",
+              "anchor": "b-health-quality-metrics",
+              "line_number": 652,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "34. **Note Quality Indicators**",
+                  "anchor": "34-note-quality-indicators",
+                  "line_number": 654,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "35. **Activity Metrics**",
+                  "anchor": "35-activity-metrics",
+                  "line_number": 665,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "C. Maturity & Development Tracking",
+              "anchor": "c-maturity-development-tracking",
+              "line_number": 675,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "36. **Maturity Indicators**",
+                  "anchor": "36-maturity-indicators",
+                  "line_number": 680,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "37. **Review Scheduling**",
+                  "anchor": "37-review-scheduling",
+                  "line_number": 691,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎨 VII. Visual & Dashboard Elements",
+          "anchor": "vii-visual-dashboard-elements",
+          "line_number": 705,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Emoji Status Indicators",
+              "anchor": "a-emoji-status-indicators",
+              "line_number": 707,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "38. **Status Icons**",
+                  "anchor": "38-status-icons",
+                  "line_number": 712,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "39. **Progress Bars (Text-Based)**",
+                  "anchor": "39-progress-bars-text-based",
+                  "line_number": 722,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. Composite Dashboard Panels",
+              "anchor": "b-composite-dashboard-panels",
+              "line_number": 731,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "40. **Metadata Summary Panel**",
+                  "anchor": "40-metadata-summary-panel",
+                  "line_number": 733,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "41. **Network Status Panel**",
+                  "anchor": "41-network-status-panel",
+                  "line_number": 745,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔧 VIII. Utility Patterns & Advanced Techniques",
+          "anchor": "viii-utility-patterns-advanced-techniques",
+          "line_number": 759,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Null Handling & Fallbacks",
+              "anchor": "a-null-handling-fallbacks",
+              "line_number": 761,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "42. **Null Coalescing**",
+                  "anchor": "42-null-coalescing",
+                  "line_number": 766,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "43. **Existence Checks**",
+                  "anchor": "43-existence-checks",
+                  "line_number": 778,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. Random & Dynamic Content",
+              "anchor": "b-random-dynamic-content",
+              "line_number": 789,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "44. **Random Selection**",
+                  "anchor": "44-random-selection",
+                  "line_number": 791,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "45. **Current Timestamp Queries**",
+                  "anchor": "45-current-timestamp-queries",
+                  "line_number": 802,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "C. Complex Calculations",
+              "anchor": "c-complex-calculations",
+              "line_number": 815,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "46. **Compound Metrics**",
+                  "anchor": "46-compound-metrics",
+                  "line_number": 820,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "47. **Weighted Averages**",
+                  "anchor": "47-weighted-averages",
+                  "line_number": 830,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🧩 IX. Integration Patterns with Dataview Queries",
+          "anchor": "ix-integration-patterns-with-dataview-queries",
+          "line_number": 841,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Complementary Inline Queries for Tables",
+              "anchor": "a-complementary-inline-queries-for-tables",
+              "line_number": 843,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "48. **Pre-Query Summary Statistics**",
+                  "anchor": "48-pre-query-summary-statistics",
+                  "line_number": 848,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "49. **Post-Query Analysis**",
+                  "anchor": "49-post-query-analysis",
+                  "line_number": 858,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. File List Filtering",
+              "anchor": "b-file-list-filtering",
+              "line_number": 868,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "50. **Conditional File Collections**",
+                  "anchor": "50-conditional-file-collections",
+                  "line_number": 870,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📈 X. Specialized Use Cases",
+          "anchor": "x-specialized-use-cases",
+          "line_number": 883,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Research & Academic Tracking",
+              "anchor": "a-research-academic-tracking",
+              "line_number": 885,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "51. **Citation & Reference Tracking**",
+                  "anchor": "51-citation-reference-tracking",
+                  "line_number": 890,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "52. **Reading List Management**",
+                  "anchor": "52-reading-list-management",
+                  "line_number": 902,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. Project & Task Management",
+              "anchor": "b-project-task-management",
+              "line_number": 913,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "53. **Project Metrics**",
+                  "anchor": "53-project-metrics",
+                  "line_number": 915,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "54. **Habit & Goal Tracking**",
+                  "anchor": "54-habit-goal-tracking",
+                  "line_number": 927,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "C. Content Management",
+              "anchor": "c-content-management",
+              "line_number": 939,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "55. **Editorial Workflow**",
+                  "anchor": "55-editorial-workflow",
+                  "line_number": 944,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "56. **Version Control**",
+                  "anchor": "56-version-control",
+                  "line_number": 956,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎓 XI. Learning & Skill Development",
+          "anchor": "xi-learning-skill-development",
+          "line_number": 970,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Learning Path Tracking",
+              "anchor": "a-learning-path-tracking",
+              "line_number": 972,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "57. **Study Progress**",
+                  "anchor": "57-study-progress",
+                  "line_number": 977,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "58. **Skill Progression**",
+                  "anchor": "58-skill-progression",
+                  "line_number": 989,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. Concept Relationships",
+              "anchor": "b-concept-relationships",
+              "line_number": 1001,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "59. **Knowledge Graph Metrics**",
+                  "anchor": "59-knowledge-graph-metrics",
+                  "line_number": 1003,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🌐 XII. Multi-Property Patterns",
+          "anchor": "xii-multi-property-patterns",
+          "line_number": 1017,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Comprehensive Status Panels",
+              "anchor": "a-comprehensive-status-panels",
+              "line_number": 1019,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "60. **Complete Metadata Dashboard**",
+                  "anchor": "60-complete-metadata-dashboard",
+                  "line_number": 1024,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "61. **Health & Quality Panel**",
+                  "anchor": "61-health-quality-panel",
+                  "line_number": 1039,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. Temporal Tracking Panels",
+              "anchor": "b-temporal-tracking-panels",
+              "line_number": 1052,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "62. **Time-Based Analytics**",
+                  "anchor": "62-time-based-analytics",
+                  "line_number": 1054,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "💡 XIII. Creative & Experimental Patterns",
+          "anchor": "xiii-creative-experimental-patterns",
+          "line_number": 1070,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Serendipity & Discovery",
+              "anchor": "a-serendipity-discovery",
+              "line_number": 1072,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "63. **Random Discovery Prompts**",
+                  "anchor": "63-random-discovery-prompts",
+                  "line_number": 1077,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "64. **Discovery Metrics**",
+                  "anchor": "64-discovery-metrics",
+                  "line_number": 1088,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "B. Experimental Composite Scores",
+              "anchor": "b-experimental-composite-scores",
+              "line_number": 1098,
+              "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "65. **Custom Ranking Systems**",
+                  "anchor": "65-custom-ranking-systems",
+                  "line_number": 1100,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "66. **Predictive Metrics**",
+                  "anchor": "66-predictive-metrics",
+                  "line_number": 1110,
+                  "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 Related Topics for PKB Expansion",
+          "anchor": "related-topics-for-pkb-expansion",
+          "line_number": 1122,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "Untitled",
+        "body": "- **Title**:: [[Dataview Inline Queries: In-Note Metadata Panel]]\n- **Prompt/Topic Used**:: \n- **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`",
+        "line_number": 38,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 791,
+        "char_end": 973
+      },
+      {
+        "type": "",
+        "title": "# :FasClipboardList:In-Note Metadata Panel",
+        "body": "- **Note-Type**: `= this.type`\n- **Development Status**: `= this.maturity`\n- **Epistemic Confidence**: `= this.confidence`\n- **Next Review**: `= this.next-review`\n- **Review Count**: `= this.review-count`\n- **Created**: `= this.created`\n- **Last Modified**: `= this.modified`\n\n> [!purpose] ### 📝Content Metrics\n> [**Word Count**:: `= this.file.size`]| [**Est. Read Time**:: `= round(this.file.size / 1300) + \" min\"`]\n> [**Depth Class**:: `= choice(this.file.size < 500, \"🌱Stub\", choice(this.file.size < 2000, \"📄Note\", \"📜Essay\"))`]\n----\n> [!purpose] ### 🕰️Temporal Context\n> [**Created**:: `= this.file.ctime`] | [**Age**:: `= (date(today) - this.file.ctime).days + \" days\"`]\n> [**Last Touch**:: `= this.file.mtime`] | [**Staleness**:: `= choice((date(today) - this.file.mtime).days > 180, \"🕸️Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂Cold\", \"🔥Fresh\"))`]\n> [**Touch Frequency**:: `= choice((date(today) - this.file.mtime).days < 7, \"🔥Active\", choice((date(today) - this.file.mtime).days < 30, \"👌Regular\", \"❄️Dormant\"))`]\n----\n> [!topic-idea] ### 🔗Network Connectivity\n> [**In-Links**:: `= length(this.file.inlinks)`] | [**Out-Links**:: `= length(this.file.outlinks)`]\n> [**Network Status**:: `= choice(length(this.file.inlinks) = 0, \"🕸️Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱Node\"))`]\n```dataviewjs\n// SYSTEM: Semantic Bridge Engine\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks.map(l => l.path);\n\n// 1. Filter the Vault\nconst siblings = dv.pages()\n    .where(p => p.file.path !== current.file.path) // Exclude self\n    .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n    .map(p => {\n        // Find overlap between this page's links and the current page's links\n        const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n        return { \n            link: p.file.link, \n            sharedCount: shared.length, \n            sharedLinks: shared \n        };\n    })\n    .where(p => p.sharedCount > 0) // Must share at least 1 connection\n    .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n    .limit(5); // Only show top 5\n\n// 2. Render the Bridge\nif (siblings.length > 0) {\n    dv.header(3, \"Semantic Bridges (Missing Connections)\");\n    dv.table(\n        [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n        siblings.map(s => [\n            s.link, \n            \"🔗\" + s.sharedCount, \n            s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n        ])\n    );\n} else {\n    dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}\n```",
+        "line_number": 43,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 974,
+        "char_end": 3872
+      },
+      {
+        "type": "abstract",
+        "title": "Overview",
+        "body": "This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard Design]] and [[PKB Architecture]] implementations.",
+        "line_number": 186,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 6557,
+        "char_end": 6851
+      },
+      {
+        "type": "important",
+        "title": "Inline Query Fundamentals",
+        "body": "**Syntax Structure:** `` `= <expression>` ``\n\nInline queries evaluate expressions in-place and render results directly in your note. They have access to:\n- **`this`**: Current file's metadata and properties\n- **File Properties**: All implicit file metadata\n- **Frontmatter**: All YAML properties\n- **Functions**: Date manipulation, math, string operations, conditionals",
+        "line_number": 189,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 6852,
+        "char_end": 7277
+      },
+      {
+        "type": "definition",
+        "title": "File Metadata Queries",
+        "body": "These queries access implicit properties automatically maintained by [[Obsidian]] for every file.",
+        "line_number": 204,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 7360,
+        "char_end": 7498
+      },
+      {
+        "type": "key-claim",
+        "title": "Network Metrics",
+        "body": "Link analysis queries are fundamental to [[Knowledge Graph]] health monitoring and [[Zettelkasten]] maintenance.",
+        "line_number": 244,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 8621,
+        "char_end": 8767
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Custom Property Queries",
+        "body": "Access any [[YAML]] frontmatter property using `this.<property-name>` notation. Properties can be strings, numbers, dates, lists, or objects.",
+        "line_number": 284,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 9975,
+        "char_end": 10172
+      },
+      {
+        "type": "example",
+        "title": "Date Manipulation",
+        "body": "[[Dataview]] provides powerful date calculation capabilities using the `date()` function and duration arithmetic.",
+        "line_number": 341,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 11461,
+        "char_end": 11608
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Numeric Calculations",
+        "body": "Inline queries support standard mathematical operations and functions for numeric property manipulation.",
+        "line_number": 418,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 14073,
+        "char_end": 14230
+      },
+      {
+        "type": "key-claim",
+        "title": "List Operations",
+        "body": "When properties contain lists or arrays, [[Dataview]] provides aggregation functions for statistical analysis.",
+        "line_number": 473,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 15828,
+        "char_end": 15972
+      },
+      {
+        "type": "definition",
+        "title": "Choice Function",
+        "body": "The `choice()` function enables conditional rendering: `choice(condition, value_if_true, value_if_false)`",
+        "line_number": 506,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 16781,
+        "char_end": 16921
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Text Processing",
+        "body": "[[Dataview]] provides string manipulation functions for text transformation and formatting within inline queries.",
+        "line_number": 570,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 19726,
+        "char_end": 19887
+      },
+      {
+        "type": "example",
+        "title": "Content Analysis",
+        "body": "Combine multiple metrics to derive useful composite values for [[Dashboard Design]].",
+        "line_number": 638,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 21872,
+        "char_end": 21989
+      },
+      {
+        "type": "key-claim",
+        "title": "Progressive Development",
+        "body": "Use conditional logic and numeric thresholds to track note maturity through development stages.",
+        "line_number": 677,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 23645,
+        "char_end": 23782
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Visual Enhancement",
+        "body": "Emoji-based indicators provide quick visual scanning in dashboards and metadata panels.",
+        "line_number": 709,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 24950,
+        "char_end": 25076
+      },
+      {
+        "type": "warning",
+        "title": "Defensive Programming",
+        "body": "Always account for missing properties to prevent broken queries and maintain dashboard stability.",
+        "line_number": 763,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 27224,
+        "char_end": 27359
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Advanced Computation",
+        "body": "Combine multiple query patterns for sophisticated derived metrics and analytical displays.",
+        "line_number": 817,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 29086,
+        "char_end": 29229
+      },
+      {
+        "type": "example",
+        "title": "Hybrid Usage",
+        "body": "Inline queries work alongside standard [[DQL]] table/list queries to create comprehensive dashboard systems.",
+        "line_number": 845,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 30256,
+        "char_end": 30393
+      },
+      {
+        "type": "key-claim",
+        "title": "Research Workflows",
+        "body": "Inline queries support sophisticated academic and research tracking systems within [[PKB Architecture]].",
+        "line_number": 887,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 31687,
+        "char_end": 31828
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Publishing Workflows",
+        "body": "Track content through editorial pipelines with status-based inline queries.",
+        "line_number": 941,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 33470,
+        "char_end": 33598
+      },
+      {
+        "type": "example",
+        "title": "Educational Applications",
+        "body": "[[Andragogy]] principles applied through inline query tracking systems.",
+        "line_number": 974,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 34386,
+        "char_end": 34498
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Dashboard Composition",
+        "body": "Combine multiple inline queries in callouts to create rich, informative metadata panels.",
+        "line_number": 1021,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 35745,
+        "char_end": 35875
+      },
+      {
+        "type": "abstract",
+        "title": "Note Overview",
+        "body": "**Type**: `= this.type` | **Status**: `= this.status` | **Maturity**: `= this.maturity`\n**Created**: `= dateformat(this.file.ctime, \"yyyy-MM-dd\")` | **Age**: `= (date(today) - this.file.ctime).days` days\n**Modified**: `= dateformat(this.file.mtime, \"yyyy-MM-dd\")` | **Staleness**: `= (date(today) - this.file.mtime).days` days\n**Size**: `= round(this.file.size / 1024, 2)` KB | **Words**: `= round(this.file.size / 6)` | **Read Time**: `= round(this.file.size / 1300)` min\n**In-Links**: `= length(this.file.inlinks)` | **Out-Links**: `= length(this.file.outlinks)` | **Tags**: `= length(this.file.tags)`\n**Link Status**: `= choice(length(this.file.inlinks) = 0, \"🕸️ Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱 Node\"))`\n**Freshness**: `= choice((date(today) - this.file.mtime).days < 7, \"🔥 Fresh\", choice((date(today) - this.file.mtime).days < 30, \"👌 Recent\", \"❄️ Stale\"))`",
+        "line_number": 1027,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 35930,
+        "char_end": 36860
+      },
+      {
+        "type": "check",
+        "title": "Note Health",
+        "body": "**Completeness**: `= choice(this.type AND this.status AND this.maturity, \"✅ Complete\", \"⚠️ Missing Fields\")`\n**Link Density**: `= round((length(this.file.outlinks) + length(this.file.inlinks)) / (this.file.size / 1000), 2)` links/KB\n**Content Depth**: `= choice(this.file.size < 500, \"🌱 Stub\", choice(this.file.size < 2000, \"📄 Note\", \"📜 Article\"))`\n**Update Frequency**: `= choice((date(today) - this.file.mtime).days < 7, \"🔥 Active\", choice((date(today) - this.file.mtime).days < 30, \"👌 Regular\", \"❄️ Dormant\"))`\n**Quality Score**: `= round((length(this.file.inlinks) * 2 + length(this.file.outlinks) + (this.file.size / 1000)) / 3, 1)`/10",
+        "line_number": 1042,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 37003,
+        "char_end": 37677
+      },
+      {
+        "type": "calendar",
+        "title": "Temporal Metrics",
+        "body": "**Created**: `= dateformat(this.file.ctime, \"EEEE, MMMM dd, yyyy 'at' HH:mm\")`\n**Age**: `= (date(today) - this.file.ctime).days` days (`= round((date(today) - this.file.ctime).days / 7, 1)` weeks)\n**Last Modified**: `= dateformat(this.file.mtime, \"EEEE, MMMM dd, yyyy 'at' HH:mm\")`\n**Days Since Edit**: `= (date(today) - this.file.mtime).days`\n**Edit Frequency**: `= round((date(today) - this.file.ctime).days / (this.review-count || 1), 1)` days/edit\n**Next Review**: `= this.next-review` (`= (this.next-review - date(today)).days` days)",
+        "line_number": 1057,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 37839,
+        "char_end": 38421
+      },
+      {
+        "type": "example",
+        "title": "Serendipitous Navigation",
+        "body": "Create random connection opportunities to facilitate [[Zettelkasten]] exploration.",
+        "line_number": 1074,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 38584,
+        "char_end": 38707
+      },
+      {
+        "type": "important",
+        "title": "Usage Notes",
+        "body": "- **Performance**: Inline queries are evaluated each time the note is viewed. For large vaults, minimize complex calculations in frequently accessed notes.\n- **Fallback Values**: Always use `||` operator for properties that might be missing to prevent query failures.\n- **Date Formats**: Use `dateformat()` for consistent temporal displays across your vault.\n- **Testing**: Test complex inline queries in scratch notes before deploying to production templates.\n- **Documentation**: Comment inline queries in templates to explain calculation logic for future reference.",
+        "line_number": 1146,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md",
+        "char_start": 41993,
+        "char_end": 42599
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Dataview Inline Queries: In-Note Metadata Panel",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Inline Queries: In-Note Metadata Panel]]",
+        "line_number": 39,
+        "section": "Dataview Inline Queries: In-Note Metadata Panel",
+        "context_line": "> - **Title**:: [[Dataview Inline Queries: In-Note Metadata Panel]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Inline Queries",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inline Queries]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Metadata",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metadata]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Frontmatter",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Frontmatter]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "YAML",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[YAML]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "DQL",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DQL]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Knowledge Graph",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Graph]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Link Analysis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Link Analysis]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Temporal Queries",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Temporal Queries]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Aggregation Functions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Aggregation Functions]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Conditional Logic",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Conditional Logic]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "String Manipulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[String Manipulation]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "File Properties",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[File Properties]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Dashboard Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dashboard Design]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "PKB Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PKB Architecture]]",
+        "line_number": 176,
+        "section": "Tags & Classification",
+        "context_line": "[[Dataview]], [[Inline Queries]], [[Metadata]], [[Frontmatter]], [[YAML]], [[DQL]], [[Obsidian]], [[Knowledge Graph]], [[Link Analysis]], [[Temporal Queries]], [[Aggregation Functions]], [[Conditional Logic]], [[String Manipulation]], [[File Properties]], [[Dashboard Design]], [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 187,
+        "section": "📊 Dataview Inline Queries: Complete Reference Compendium",
+        "context_line": "> This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard Design]] and [[PKB Architecture]] implementations.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Dashboard Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dashboard Design]]",
+        "line_number": 187,
+        "section": "📊 Dataview Inline Queries: Complete Reference Compendium",
+        "context_line": "> This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard Design]] and [[PKB Architecture]] implementations.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "PKB Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PKB Architecture]]",
+        "line_number": 187,
+        "section": "📊 Dataview Inline Queries: Complete Reference Compendium",
+        "context_line": "> This comprehensive reference catalogs all known [[Dataview]] inline query patterns, organized by functional domain. Each pattern includes syntax, explanation, use cases, and practical examples designed for [[Dashboard Design]] and [[PKB Architecture]] implementations.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 205,
+        "section": "A. Basic File Metadata Access",
+        "context_line": "> These queries access implicit properties automatically maintained by [[Obsidian]] for every file.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Knowledge Graph",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Graph]]",
+        "line_number": 245,
+        "section": "B. Link & Relationship Analysis",
+        "context_line": "> Link analysis queries are fundamental to [[Knowledge Graph]] health monitoring and [[Zettelkasten]] maintenance.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 245,
+        "section": "B. Link & Relationship Analysis",
+        "context_line": "> Link analysis queries are fundamental to [[Knowledge Graph]] health monitoring and [[Zettelkasten]] maintenance.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "YAML",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[YAML]]",
+        "line_number": 285,
+        "section": "C. Frontmatter Property Access",
+        "context_line": "> Access any [[YAML]] frontmatter property using `this.<property-name>` notation. Properties can be strings, numbers, dates, lists, or objects.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 342,
+        "section": "A. Date Arithmetic",
+        "context_line": "> [[Dataview]] provides powerful date calculation capabilities using the `date()` function and duration arithmetic.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 474,
+        "section": "C. List Aggregations",
+        "context_line": "> When properties contain lists or arrays, [[Dataview]] provides aggregation functions for statistical analysis.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 571,
+        "section": "A. String Operations",
+        "context_line": "> [[Dataview]] provides string manipulation functions for text transformation and formatting within inline queries.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "\" + l + \"",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[\" + l + \"]]",
+        "line_number": 627,
+        "section": "32. **Advanced List Formatting**",
+        "context_line": "**Tagged Items**: `= join(map(this.links, (l) => \"[[\" + l + \"]]\"), \", \")`",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Dashboard Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dashboard Design]]",
+        "line_number": 639,
+        "section": "A. Reading Time Estimation",
+        "context_line": "> Combine multiple metrics to derive useful composite values for [[Dashboard Design]].",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 663,
+        "section": "34. **Note Quality Indicators**",
+        "context_line": "**Use Case:** Quality assessment, [[Zettelkasten]] health, maintenance prioritization",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+        "line_number": 701,
+        "section": "37. **Review Scheduling**",
+        "context_line": "**Use Case:** [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] systems, review tracking, maintenance scheduling",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Knowledge Graph",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Graph]]",
+        "line_number": 755,
+        "section": "41. **Network Status Panel**",
+        "context_line": "**Use Case:** [[Knowledge Graph]] health monitoring, link analysis, connection tracking",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "DQL",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DQL]]",
+        "line_number": 846,
+        "section": "A. Complementary Inline Queries for Tables",
+        "context_line": "> Inline queries work alongside standard [[DQL]] table/list queries to create comprehensive dashboard systems.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "PKB Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PKB Architecture]]",
+        "line_number": 888,
+        "section": "A. Research & Academic Tracking",
+        "context_line": "> Inline queries support sophisticated academic and research tracking systems within [[PKB Architecture]].",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Andragogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Andragogy]]",
+        "line_number": 975,
+        "section": "A. Learning Path Tracking",
+        "context_line": "> [[Andragogy]] principles applied through inline query tracking systems.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+        "line_number": 987,
+        "section": "57. **Study Progress**",
+        "context_line": "**Use Case:** [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]], learning analytics, study scheduling",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 1075,
+        "section": "A. Serendipity & Discovery",
+        "context_line": "> Create random connection opportunities to facilitate [[Zettelkasten]] exploration.",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "DataviewJS Advanced Patterns",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DataviewJS Advanced Patterns]]",
+        "line_number": 1124,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[DataviewJS Advanced Patterns]]**",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Dashboard Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dashboard Design]]",
+        "line_number": 1127,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Advanced automation layer for [[Dashboard Design]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Templater Integration with Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater Integration with Dataview]]",
+        "line_number": 1129,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Templater Integration with Dataview]]**",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 1130,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Connection*: Combining [[Templater]] dynamic content generation with Dataview queries",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "PKB Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PKB Architecture]]",
+        "line_number": 1132,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Template automation architecture in [[PKB Architecture]]",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Meta Bind Reactive Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Meta Bind Reactive Fields]]",
+        "line_number": 1134,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Meta Bind Reactive Fields]]**",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 1137,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Interactive dashboard components in [[Obsidian]] automation",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Knowledge Graph Analytics Formulas",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Graph Analytics Formulas]]",
+        "line_number": 1139,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Knowledge Graph Analytics Formulas]]**",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Knowledge Graph",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Graph]]",
+        "line_number": 1140,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Connection*: Advanced metrics for measuring [[Knowledge Graph]] health and structure",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 1142,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Quantitative analysis of [[Zettelkasten]] network properties",
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Word Count",
+        "value": "`= this.file.size`",
+        "format": "bracket",
+        "line_number": 54,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "field_name": "Est. Read Time",
+        "value": "`= round(this.file.size / 1300) + \" min\"`",
+        "format": "bracket",
+        "line_number": 54,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "field_name": "Depth Class",
+        "value": "`= choice(this.file.size < 500, \"🌱Stub\", choice(this.file.size < 2000, \"📄Note\", \"📜Essay\"))`",
+        "format": "bracket",
+        "line_number": 55,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "field_name": "Created",
+        "value": "`= this.file.ctime`",
+        "format": "bracket",
+        "line_number": 58,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "field_name": "Age",
+        "value": "`= (date(today) - this.file.ctime).days + \" days\"`",
+        "format": "bracket",
+        "line_number": 58,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "field_name": "Last Touch",
+        "value": "`= this.file.mtime`",
+        "format": "bracket",
+        "line_number": 59,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "field_name": "Staleness",
+        "value": "`= choice((date(today) - this.file.mtime).days > 180, \"🕸️Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂Cold\", \"🔥Fresh\"))`",
+        "format": "bracket",
+        "line_number": 59,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "field_name": "Touch Frequency",
+        "value": "`= choice((date(today) - this.file.mtime).days < 7, \"🔥Active\", choice((date(today) - this.file.mtime).days < 30, \"👌Regular\", \"❄️Dormant\"))`",
+        "format": "bracket",
+        "line_number": 60,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "field_name": "In-Links",
+        "value": "`= length(this.file.inlinks)`",
+        "format": "bracket",
+        "line_number": 63,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "field_name": "Out-Links",
+        "value": "`= length(this.file.outlinks)`",
+        "format": "bracket",
+        "line_number": 63,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "field_name": "Network Status",
+        "value": "`= choice(length(this.file.inlinks) = 0, \"🕸️Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱Node\"))`",
+        "format": "bracket",
+        "line_number": 64,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "dataview",
+        "full_tag": "#dataview",
+        "hierarchy": [
+          "dataview"
+        ],
+        "line_number": 134,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "tag": "inline-queries",
+        "full_tag": "#inline-queries",
+        "hierarchy": [
+          "inline-queries"
+        ],
+        "line_number": 134,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 135,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 135,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "tag": "pkb-architecture",
+        "full_tag": "#pkb-architecture",
+        "hierarchy": [
+          "pkb-architecture"
+        ],
+        "line_number": 136,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "tag": "dashboard-design",
+        "full_tag": "#dashboard-design",
+        "hierarchy": [
+          "dashboard-design"
+        ],
+        "line_number": 136,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Dataview Inline Queries: In-Note Metadata Panel",
+        "anchor": "dataview-inline-queries-in-note-metadata-panel",
+        "line_number": 37,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "Related Notes",
+        "anchor": "related-notes",
+        "line_number": 105,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "Sources & References",
+        "anchor": "sources-references",
+        "line_number": 113,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "Backlinks & Connections",
+        "anchor": "backlinks-connections",
+        "line_number": 123,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "2025-12-03 - Initial Creation",
+        "anchor": "2025-12-03-initial-creation",
+        "line_number": 133,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "Tags & Classification",
+        "anchor": "tags-classification",
+        "line_number": 138,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 1,
+        "text": "📊 Dataview Inline Queries: Complete Reference Compendium",
+        "anchor": "dataview-inline-queries-complete-reference-compendium",
+        "line_number": 184,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "🏗️ I. Core Metadata & File Properties",
+        "anchor": "i-core-metadata-file-properties",
+        "line_number": 200,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Basic File Metadata Access",
+        "anchor": "a-basic-file-metadata-access",
+        "line_number": 202,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "1. **File Identification**",
+        "anchor": "1-file-identification",
+        "line_number": 207,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "2. **Content Metrics**",
+        "anchor": "2-content-metrics",
+        "line_number": 218,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "3. **Temporal Properties**",
+        "anchor": "3-temporal-properties",
+        "line_number": 229,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Link & Relationship Analysis",
+        "anchor": "b-link-relationship-analysis",
+        "line_number": 242,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "4. **Link Counts**",
+        "anchor": "4-link-counts",
+        "line_number": 247,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "5. **Link Lists**",
+        "anchor": "5-link-lists",
+        "line_number": 258,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "6. **Tag Operations**",
+        "anchor": "6-tag-operations",
+        "line_number": 270,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Frontmatter Property Access",
+        "anchor": "c-frontmatter-property-access",
+        "line_number": 282,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "7. **String Properties**",
+        "anchor": "7-string-properties",
+        "line_number": 287,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "8. **Numeric Properties**",
+        "anchor": "8-numeric-properties",
+        "line_number": 299,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "9. **Date Properties**",
+        "anchor": "9-date-properties",
+        "line_number": 311,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "10. **List Properties**",
+        "anchor": "10-list-properties",
+        "line_number": 323,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "⏰ II. Temporal Calculations & Date Operations",
+        "anchor": "ii-temporal-calculations-date-operations",
+        "line_number": 337,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Date Arithmetic",
+        "anchor": "a-date-arithmetic",
+        "line_number": 339,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "11. **Age Calculations**",
+        "anchor": "11-age-calculations",
+        "line_number": 344,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "12. **Staleness Calculations**",
+        "anchor": "12-staleness-calculations",
+        "line_number": 355,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "13. **Future Date Calculations**",
+        "anchor": "13-future-date-calculations",
+        "line_number": 365,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "14. **Date Comparisons**",
+        "anchor": "14-date-comparisons",
+        "line_number": 376,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Duration Formatting",
+        "anchor": "b-duration-formatting",
+        "line_number": 387,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "15. **Human-Readable Durations**",
+        "anchor": "15-human-readable-durations",
+        "line_number": 389,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "16. **Custom Date Formats**",
+        "anchor": "16-custom-date-formats",
+        "line_number": 399,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "🧮 III. Mathematical Operations & Aggregations",
+        "anchor": "iii-mathematical-operations-aggregations",
+        "line_number": 414,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Basic Arithmetic",
+        "anchor": "a-basic-arithmetic",
+        "line_number": 416,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "17. **Simple Math**",
+        "anchor": "17-simple-math",
+        "line_number": 421,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "18. **Rounding Functions**",
+        "anchor": "18-rounding-functions",
+        "line_number": 434,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "19. **Advanced Math Functions**",
+        "anchor": "19-advanced-math-functions",
+        "line_number": 446,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Percentage Calculations",
+        "anchor": "b-percentage-calculations",
+        "line_number": 458,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "20. **Percentage Operations**",
+        "anchor": "20-percentage-operations",
+        "line_number": 460,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "C. List Aggregations",
+        "anchor": "c-list-aggregations",
+        "line_number": 471,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "21. **List Statistics**",
+        "anchor": "21-list-statistics",
+        "line_number": 476,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "22. **List Item Access**",
+        "anchor": "22-list-item-access",
+        "line_number": 488,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "🔀 IV. Conditional Logic & Choice Functions",
+        "anchor": "iv-conditional-logic-choice-functions",
+        "line_number": 502,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Basic Conditionals",
+        "anchor": "a-basic-conditionals",
+        "line_number": 504,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "23. **Simple Conditionals**",
+        "anchor": "23-simple-conditionals",
+        "line_number": 509,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "24. **Numeric Thresholds**",
+        "anchor": "24-numeric-thresholds",
+        "line_number": 520,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "25. **Date-Based Conditions**",
+        "anchor": "25-date-based-conditions",
+        "line_number": 530,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Complex Nested Conditions",
+        "anchor": "b-complex-nested-conditions",
+        "line_number": 540,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "26. **Multi-Level Classification**",
+        "anchor": "26-multi-level-classification",
+        "line_number": 542,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "27. **Boolean Combinations**",
+        "anchor": "27-boolean-combinations",
+        "line_number": 554,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "🔤 V. String Manipulation & Formatting",
+        "anchor": "v-string-manipulation-formatting",
+        "line_number": 566,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. String Operations",
+        "anchor": "a-string-operations",
+        "line_number": 568,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "28. **Basic String Functions**",
+        "anchor": "28-basic-string-functions",
+        "line_number": 573,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "29. **String Concatenation**",
+        "anchor": "29-string-concatenation",
+        "line_number": 585,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "30. **String Checks**",
+        "anchor": "30-string-checks",
+        "line_number": 596,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. List to String Conversion",
+        "anchor": "b-list-to-string-conversion",
+        "line_number": 608,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "31. **Join Operations**",
+        "anchor": "31-join-operations",
+        "line_number": 610,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "32. **Advanced List Formatting**",
+        "anchor": "32-advanced-list-formatting",
+        "line_number": 622,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 VI. Advanced Patterns & Composite Queries",
+        "anchor": "vi-advanced-patterns-composite-queries",
+        "line_number": 634,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Reading Time Estimation",
+        "anchor": "a-reading-time-estimation",
+        "line_number": 636,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "33. **Reading Time Variants**",
+        "anchor": "33-reading-time-variants",
+        "line_number": 641,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Health & Quality Metrics",
+        "anchor": "b-health-quality-metrics",
+        "line_number": 652,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "34. **Note Quality Indicators**",
+        "anchor": "34-note-quality-indicators",
+        "line_number": 654,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "35. **Activity Metrics**",
+        "anchor": "35-activity-metrics",
+        "line_number": 665,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Maturity & Development Tracking",
+        "anchor": "c-maturity-development-tracking",
+        "line_number": 675,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "36. **Maturity Indicators**",
+        "anchor": "36-maturity-indicators",
+        "line_number": 680,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "37. **Review Scheduling**",
+        "anchor": "37-review-scheduling",
+        "line_number": 691,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "🎨 VII. Visual & Dashboard Elements",
+        "anchor": "vii-visual-dashboard-elements",
+        "line_number": 705,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Emoji Status Indicators",
+        "anchor": "a-emoji-status-indicators",
+        "line_number": 707,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "38. **Status Icons**",
+        "anchor": "38-status-icons",
+        "line_number": 712,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "39. **Progress Bars (Text-Based)**",
+        "anchor": "39-progress-bars-text-based",
+        "line_number": 722,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Composite Dashboard Panels",
+        "anchor": "b-composite-dashboard-panels",
+        "line_number": 731,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "40. **Metadata Summary Panel**",
+        "anchor": "40-metadata-summary-panel",
+        "line_number": 733,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "41. **Network Status Panel**",
+        "anchor": "41-network-status-panel",
+        "line_number": 745,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "🔧 VIII. Utility Patterns & Advanced Techniques",
+        "anchor": "viii-utility-patterns-advanced-techniques",
+        "line_number": 759,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Null Handling & Fallbacks",
+        "anchor": "a-null-handling-fallbacks",
+        "line_number": 761,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "42. **Null Coalescing**",
+        "anchor": "42-null-coalescing",
+        "line_number": 766,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "43. **Existence Checks**",
+        "anchor": "43-existence-checks",
+        "line_number": 778,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Random & Dynamic Content",
+        "anchor": "b-random-dynamic-content",
+        "line_number": 789,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "44. **Random Selection**",
+        "anchor": "44-random-selection",
+        "line_number": 791,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "45. **Current Timestamp Queries**",
+        "anchor": "45-current-timestamp-queries",
+        "line_number": 802,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Complex Calculations",
+        "anchor": "c-complex-calculations",
+        "line_number": 815,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "46. **Compound Metrics**",
+        "anchor": "46-compound-metrics",
+        "line_number": 820,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "47. **Weighted Averages**",
+        "anchor": "47-weighted-averages",
+        "line_number": 830,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "🧩 IX. Integration Patterns with Dataview Queries",
+        "anchor": "ix-integration-patterns-with-dataview-queries",
+        "line_number": 841,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Complementary Inline Queries for Tables",
+        "anchor": "a-complementary-inline-queries-for-tables",
+        "line_number": 843,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "48. **Pre-Query Summary Statistics**",
+        "anchor": "48-pre-query-summary-statistics",
+        "line_number": 848,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "49. **Post-Query Analysis**",
+        "anchor": "49-post-query-analysis",
+        "line_number": 858,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. File List Filtering",
+        "anchor": "b-file-list-filtering",
+        "line_number": 868,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "50. **Conditional File Collections**",
+        "anchor": "50-conditional-file-collections",
+        "line_number": 870,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "📈 X. Specialized Use Cases",
+        "anchor": "x-specialized-use-cases",
+        "line_number": 883,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Research & Academic Tracking",
+        "anchor": "a-research-academic-tracking",
+        "line_number": 885,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "51. **Citation & Reference Tracking**",
+        "anchor": "51-citation-reference-tracking",
+        "line_number": 890,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "52. **Reading List Management**",
+        "anchor": "52-reading-list-management",
+        "line_number": 902,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Project & Task Management",
+        "anchor": "b-project-task-management",
+        "line_number": 913,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "53. **Project Metrics**",
+        "anchor": "53-project-metrics",
+        "line_number": 915,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "54. **Habit & Goal Tracking**",
+        "anchor": "54-habit-goal-tracking",
+        "line_number": 927,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Content Management",
+        "anchor": "c-content-management",
+        "line_number": 939,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "55. **Editorial Workflow**",
+        "anchor": "55-editorial-workflow",
+        "line_number": 944,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "56. **Version Control**",
+        "anchor": "56-version-control",
+        "line_number": 956,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "🎓 XI. Learning & Skill Development",
+        "anchor": "xi-learning-skill-development",
+        "line_number": 970,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Learning Path Tracking",
+        "anchor": "a-learning-path-tracking",
+        "line_number": 972,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "57. **Study Progress**",
+        "anchor": "57-study-progress",
+        "line_number": 977,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "58. **Skill Progression**",
+        "anchor": "58-skill-progression",
+        "line_number": 989,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Concept Relationships",
+        "anchor": "b-concept-relationships",
+        "line_number": 1001,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "59. **Knowledge Graph Metrics**",
+        "anchor": "59-knowledge-graph-metrics",
+        "line_number": 1003,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "🌐 XII. Multi-Property Patterns",
+        "anchor": "xii-multi-property-patterns",
+        "line_number": 1017,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Comprehensive Status Panels",
+        "anchor": "a-comprehensive-status-panels",
+        "line_number": 1019,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "60. **Complete Metadata Dashboard**",
+        "anchor": "60-complete-metadata-dashboard",
+        "line_number": 1024,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "61. **Health & Quality Panel**",
+        "anchor": "61-health-quality-panel",
+        "line_number": 1039,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Temporal Tracking Panels",
+        "anchor": "b-temporal-tracking-panels",
+        "line_number": 1052,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "62. **Time-Based Analytics**",
+        "anchor": "62-time-based-analytics",
+        "line_number": 1054,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "💡 XIII. Creative & Experimental Patterns",
+        "anchor": "xiii-creative-experimental-patterns",
+        "line_number": 1070,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Serendipity & Discovery",
+        "anchor": "a-serendipity-discovery",
+        "line_number": 1072,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "63. **Random Discovery Prompts**",
+        "anchor": "63-random-discovery-prompts",
+        "line_number": 1077,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "64. **Discovery Metrics**",
+        "anchor": "64-discovery-metrics",
+        "line_number": 1088,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Experimental Composite Scores",
+        "anchor": "b-experimental-composite-scores",
+        "line_number": 1098,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "65. **Custom Ranking Systems**",
+        "anchor": "65-custom-ranking-systems",
+        "line_number": 1100,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 4,
+        "text": "66. **Predictive Metrics**",
+        "anchor": "66-predictive-metrics",
+        "line_number": 1110,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 1122,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "> // SYSTEM: Semantic Bridge Engine\n> // PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\n> const current = dv.current();\n> const myOutlinks = current.file.outlinks.map(l => l.path);\n> \n> // 1. Filter the Vault\n> const siblings = dv.pages()\n>     .where(p => p.file.path !== current.file.path) // Exclude self\n>     .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n>     .map(p => {\n>         // Find overlap between this page's links and the current page's links\n>         const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n>         return { \n>             link: p.file.link, \n>             sharedCount: shared.length, \n>             sharedLinks: shared \n>         };\n>     })\n>     .where(p => p.sharedCount > 0) // Must share at least 1 connection\n>     .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n>     .limit(5); // Only show top 5\n> \n> // 2. Render the Bridge\n> if (siblings.length > 0) {\n>     dv.header(3, \"Semantic Bridges (Missing Connections)\");\n>     dv.table(\n>         [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n>         siblings.map(s => [\n>             s.link, \n>             \"🔗\" + s.sharedCount, \n>             s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n>         ])\n>     );\n> } else {\n>     dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n> }\n>",
+        "line_start": 65,
+        "line_end": 102,
+        "char_count": 1461,
+        "line_count": 37,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE type, maturity, confidence\nFROM  \"\"\nWHERE  type = \"reference\"\nSORT \"maturity\" DESC\nLIMIT 15",
+        "line_start": 106,
+        "line_end": 112,
+        "char_count": 97,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    source AS \"Source Type\",\n    file.ctime AS \"Date Added\"\nFROM \"\"\nWHERE source = \"claude-sonnet-4.5\"\nSORT file.ctime DESC\nLIMIT 10",
+        "line_start": 114,
+        "line_end": 122,
+        "char_count": 139,
+        "line_count": 7,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    type AS \"Type\",\n    maturity AS \"Maturity\",\n    created AS \"Created\"\nFROM [[#]]\nSORT created DESC\nLIMIT 15",
+        "line_start": 124,
+        "line_end": 132,
+        "char_count": 117,
+        "line_count": 7,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**File Name**: `= this.file.name`\n**Full Path**: `= this.file.path`\n**Folder**: `= this.file.folder`\n**Extension**: `= this.file.ext`",
+        "line_start": 209,
+        "line_end": 214,
+        "char_count": 133,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**File Size**: `= this.file.size` bytes\n**File Size (KB)**: `= round(this.file.size / 1024, 2)` KB\n**Word Count (Estimate)**: `= round(this.file.size / 6)` words\n**Character Count**: `= this.file.size` characters",
+        "line_start": 220,
+        "line_end": 225,
+        "char_count": 212,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Created**: `= this.file.ctime`\n**Modified**: `= this.file.mtime`\n**Created (Custom Format)**: `= dateformat(this.file.ctime, \"yyyy-MM-dd HH:mm\")`\n**Modified (Relative)**: `= dateformat(this.file.mtime, \"relative\")`\n**Day of Week Created**: `= dateformat(this.file.ctime, \"cccc\")`\n**Month Created**: `= dateformat(this.file.ctime, \"MMMM yyyy\")`",
+        "line_start": 231,
+        "line_end": 238,
+        "char_count": 345,
+        "line_count": 6,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Outgoing Links**: `= length(this.file.outlinks)`\n**Incoming Links**: `= length(this.file.inlinks)`\n**Total Link Count**: `= length(this.file.outlinks) + length(this.file.inlinks)`\n**Link Density**: `= round((length(this.file.outlinks) + length(this.file.inlinks)) / (this.file.size / 1000), 2)` links/KB",
+        "line_start": 249,
+        "line_end": 254,
+        "char_count": 305,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**All Outlinks**: `= this.file.outlinks`\n**All Inlinks**: `= this.file.inlinks`\n**First Outlink**: `= this.file.outlinks[0]`\n**Last Outlink**: `= this.file.outlinks[length(this.file.outlinks) - 1]`\n**Random Link**: `= this.file.outlinks[floor(random() * length(this.file.outlinks))]`",
+        "line_start": 260,
+        "line_end": 266,
+        "char_count": 283,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**All Tags**: `= this.file.tags`\n**Tag Count**: `= length(this.file.tags)`\n**First Tag**: `= this.file.tags[0]`\n**Has Specific Tag**: `= contains(this.file.tags, \"#pkm\")`\n**Tag List (Comma Separated)**: `= join(this.file.tags, \", \")`",
+        "line_start": 272,
+        "line_end": 278,
+        "char_count": 233,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Type**: `= this.type`\n**Status**: `= this.status`\n**Author**: `= this.author`\n**Source**: `= this.source`\n**Custom Field**: `= this.<your-field-name>`",
+        "line_start": 289,
+        "line_end": 295,
+        "char_count": 152,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Priority**: `= this.priority`\n**Version**: `= this.version`\n**Rating**: `= this.rating`\n**Progress**: `= this.progress`%\n**Score**: `= this.score`/10",
+        "line_start": 301,
+        "line_end": 307,
+        "char_count": 151,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Due Date**: `= this.due`\n**Published**: `= this.published`\n**Review Date**: `= this.next-review`\n**Date (Formatted)**: `= dateformat(this.due, \"MMMM dd, yyyy\")`\n**Days Until Due**: `= (this.due - date(today)).days`",
+        "line_start": 313,
+        "line_end": 319,
+        "char_count": 216,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**All Aliases**: `= this.aliases`\n**Alias Count**: `= length(this.aliases)`\n**First Alias**: `= this.aliases[0]`\n**Link-Up MOCs**: `= this.link-up`\n**Related Notes**: `= this.link-related`",
+        "line_start": 325,
+        "line_end": 331,
+        "char_count": 188,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Note Age**: `= (date(today) - this.file.ctime).days` days\n**Age in Weeks**: `= round((date(today) - this.file.ctime).days / 7, 1)` weeks\n**Age in Months**: `= round((date(today) - this.file.ctime).days / 30, 1)` months\n**Age in Years**: `= round((date(today) - this.file.ctime).years, 2)` years",
+        "line_start": 346,
+        "line_end": 351,
+        "char_count": 296,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Days Since Modified**: `= (date(today) - this.file.mtime).days`\n**Weeks Since Modified**: `= round((date(today) - this.file.mtime).days / 7, 1)`\n**Last Modified (Relative)**: `= dateformat(this.file.mtime, \"relative\")`",
+        "line_start": 357,
+        "line_end": 361,
+        "char_count": 220,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Days Until Review**: `= (this.next-review - date(today)).days`\n**Weeks Until Due**: `= round((this.due - date(today)).days / 7, 1)`\n**Is Overdue**: `= this.due < date(today)`\n**Time Remaining**: `= this.due - date(today)`",
+        "line_start": 367,
+        "line_end": 372,
+        "char_count": 223,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Created This Week**: `= (date(today) - this.file.ctime).days <= 7`\n**Modified This Month**: `= (date(today) - this.file.mtime).days <= 30`\n**Created Before 2024**: `= this.file.ctime < date(\"2024-01-01\")`\n**Between Dates**: `= this.file.ctime >= date(\"2024-01-01\") AND this.file.ctime <= date(\"2024-12-31\")`",
+        "line_start": 378,
+        "line_end": 383,
+        "char_count": 309,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Note Age (Formatted)**: `= dur(date(today) - this.file.ctime)`\n**Time Since Modification**: `= dur(date(today) - this.file.mtime)`\n**Time to Deadline**: `= dur(this.due - date(today))`",
+        "line_start": 391,
+        "line_end": 395,
+        "char_count": 186,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**ISO Format**: `= dateformat(this.file.ctime, \"yyyy-MM-dd\")`\n**US Format**: `= dateformat(this.file.ctime, \"MM/dd/yyyy\")`\n**European Format**: `= dateformat(this.file.ctime, \"dd.MM.yyyy\")`\n**Long Format**: `= dateformat(this.file.ctime, \"EEEE, MMMM dd, yyyy\")`\n**Time Only**: `= dateformat(this.file.ctime, \"HH:mm:ss\")`\n**Custom Pattern**: `= dateformat(this.file.ctime, \"yyyy 'Week' ww\")`",
+        "line_start": 401,
+        "line_end": 408,
+        "char_count": 390,
+        "line_count": 6,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Sum**: `= this.value1 + this.value2`\n**Difference**: `= this.value1 - this.value2`\n**Product**: `= this.value1 * this.value2`\n**Quotient**: `= this.value1 / this.value2`\n**Modulo**: `= this.value1 % this.value2`\n**Exponentiation**: `= this.value1 ^ this.value2`",
+        "line_start": 423,
+        "line_end": 430,
+        "char_count": 263,
+        "line_count": 6,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Round to Integer**: `= round(this.value)`\n**Round to 2 Decimals**: `= round(this.value, 2)`\n**Round Down (Floor)**: `= floor(this.value)`\n**Round Up (Ceiling)**: `= ceil(this.value)`\n**Truncate**: `= trunc(this.value)`",
+        "line_start": 436,
+        "line_end": 442,
+        "char_count": 220,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Absolute Value**: `= abs(this.value)`\n**Square Root**: `= sqrt(this.value)`\n**Minimum**: `= min(this.value1, this.value2, this.value3)`\n**Maximum**: `= max(this.value1, this.value2, this.value3)`\n**Average**: `= (this.value1 + this.value2 + this.value3) / 3`",
+        "line_start": 448,
+        "line_end": 454,
+        "char_count": 260,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Completion Percentage**: `= round((this.completed / this.total) * 100, 1)`%\n**Progress Bar**: `= round(this.progress)`% of `= this.goal`\n**Percentage Change**: `= round(((this.new - this.old) / this.old) * 100, 1)`%\n**Percentage of Total**: `= round((this.value / this.total) * 100, 2)`%",
+        "line_start": 462,
+        "line_end": 467,
+        "char_count": 289,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**List Length**: `= length(this.my-list)`\n**Sum of List**: `= sum(this.numbers)`\n**Average of List**: `= sum(this.numbers) / length(this.numbers)`\n**Min in List**: `= min(this.numbers)`\n**Max in List**: `= max(this.numbers)`",
+        "line_start": 478,
+        "line_end": 484,
+        "char_count": 224,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**First Item**: `= this.my-list[0]`\n**Last Item**: `= this.my-list[length(this.my-list) - 1]`\n**Second Item**: `= this.my-list[1]`\n**Middle Item**: `= this.my-list[floor(length(this.my-list) / 2)]`\n**Random Item**: `= this.my-list[floor(random() * length(this.my-list))]`",
+        "line_start": 490,
+        "line_end": 496,
+        "char_count": 271,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Binary Status**: `= choice(this.status = \"complete\", \"✅ Done\", \"⏳ Pending\")`\n**Yes/No**: `= choice(this.flag, \"Yes\", \"No\")`\n**Active/Inactive**: `= choice(this.active, \"🟢 Active\", \"⭕ Inactive\")`\n**Present/Missing**: `= choice(this.property, \"Has Value\", \"No Value\")`",
+        "line_start": 511,
+        "line_end": 516,
+        "char_count": 268,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Size Category**: `= choice(this.file.size < 500, \"🌱 Small\", choice(this.file.size < 5000, \"📄 Medium\", \"📜 Large\"))`\n**Priority Level**: `= choice(this.priority > 7, \"🔴 High\", choice(this.priority > 3, \"🟡 Medium\", \"🟢 Low\"))`\n**Rating Stars**: `= choice(this.rating >= 4, \"⭐⭐⭐⭐\", choice(this.rating >= 2, \"⭐⭐\", \"⭐\"))`",
+        "line_start": 522,
+        "line_end": 526,
+        "char_count": 316,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Freshness**: `= choice((date(today) - this.file.mtime).days < 7, \"🔥 Fresh\", choice((date(today) - this.file.mtime).days < 30, \"👌 Recent\", \"❄️ Old\"))`\n**Age Category**: `= choice((date(today) - this.file.ctime).days < 30, \"🌱 New\", choice((date(today) - this.file.ctime).days < 180, \"🌿 Growing\", \"🌳 Mature\"))`\n**Deadline Status**: `= choice(this.due < date(today), \"⚠️ Overdue\", choice(this.due < date(today) + dur(\"7 days\"), \"⏰ Due Soon\", \"✅ On Track\"))`",
+        "line_start": 532,
+        "line_end": 536,
+        "char_count": 455,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Staleness Level**: `= choice((date(today) - this.file.mtime).days > 180, \"🕸️ Cobwebs\", choice((date(today) - this.file.mtime).days > 90, \"🍂 Cold\", choice((date(today) - this.file.mtime).days > 30, \"🌤️ Cool\", \"🔥 Hot\")))`\n\n**Network Status**: `= choice(length(this.file.inlinks) = 0, \"🕸️ Orphan\", choice(length(this.file.inlinks) > 10, \"⚡ Super Hub\", choice(length(this.file.inlinks) > 5, \"🌟 Hub\", \"🌱 Node\")))`\n\n**Content Depth**: `= choice(this.file.size < 500, \"🌱 Stub\", choice(this.file.size < 2000, \"📝 Note\", choice(this.file.size < 10000, \"📄 Article\", \"📚 Document\")))`",
+        "line_start": 544,
+        "line_end": 550,
+        "char_count": 573,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Status Check**: `= choice(this.status = \"complete\" AND this.reviewed, \"✅ Verified\", choice(this.status = \"complete\", \"⏳ Needs Review\", \"❌ Incomplete\"))`\n\n**Link Health**: `= choice(length(this.file.outlinks) > 0 AND length(this.file.inlinks) > 0, \"🔗 Well Connected\", choice(length(this.file.outlinks) > 0, \"➡️ Outbound Only\", choice(length(this.file.inlinks) > 0, \"⬅️ Inbound Only\", \"⛔ Isolated\")))`",
+        "line_start": 556,
+        "line_end": 560,
+        "char_count": 401,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Uppercase**: `= upper(this.title)`\n**Lowercase**: `= lower(this.title)`\n**Title Case**: `= upper(substring(this.title, 0, 1)) + lower(substring(this.title, 1))`\n**String Length**: `= length(this.title)`\n**Substring**: `= substring(this.title, 0, 20)` + \"…\"",
+        "line_start": 575,
+        "line_end": 581,
+        "char_count": 258,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Simple Join**: `= this.first-name + \" \" + this.last-name`\n**Formatted Label**: `= this.type + \": \" + this.title`\n**Prefixed Value**: `= \"Status: \" + this.status`\n**Path Construction**: `= this.folder + \"/\" + this.file-name`",
+        "line_start": 587,
+        "line_end": 592,
+        "char_count": 225,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Contains Check**: `= contains(this.title, \"important\")`\n**Starts With**: `= startswith(this.file.name, \"Draft\")`\n**Ends With**: `= endswith(this.file.name, \".draft\")`\n**String Equality**: `= this.status = \"complete\"`\n**Case Insensitive Match**: `= lower(this.type) = \"reference\"`",
+        "line_start": 598,
+        "line_end": 604,
+        "char_count": 281,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Comma Separated**: `= join(this.tags, \", \")`\n**Pipe Separated**: `= join(this.categories, \" | \")`\n**Custom Separator**: `= join(this.aliases, \" • \")`\n**Newline Separated**: `= join(this.items, \"\\\\n\")`\n**With Prefix**: `= join(map(this.tags, (t) => \"#\" + t), \", \")`",
+        "line_start": 612,
+        "line_end": 618,
+        "char_count": 266,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Numbered List**: `= join(map(this.items, (item, idx) => (idx + 1) + \". \" + item), \"\\\\n\")`\n**Bullet List**: `= join(map(this.tasks, (t) => \"• \" + t), \"\\\\n\")`\n**Tagged Items**: `= join(map(this.links, (l) => \"[[\" + l + \"]]\"), \", \")`",
+        "line_start": 624,
+        "line_end": 628,
+        "char_count": 232,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Est. Read Time (Minutes)**: `= round(this.file.size / 1300)` min\n**Read Time (Detailed)**: `= floor(this.file.size / 1300)` min `= (this.file.size % 1300) / 1300 * 60` sec\n**Read Time Range**: `= round(this.file.size / 1500)` - `= round(this.file.size / 1000)` min\n**Words Per Minute**: `= round(this.file.size / 6 / this.read-time)` WPM (if read-time property exists)",
+        "line_start": 643,
+        "line_end": 648,
+        "char_count": 370,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Link Density**: `= round((length(this.file.outlinks) + length(this.file.inlinks)) / (this.file.size / 1000), 2)` links/KB\n**Link Ratio**: `= round(length(this.file.inlinks) / length(this.file.outlinks), 2)` (inbound/outbound)\n**Tag Density**: `= round(length(this.file.tags) / (this.file.size / 1000), 1)` tags/KB\n**Metadata Completeness**: `= round((length(keys(this)) / 15) * 100, 1)`% (assuming 15 expected fields)",
+        "line_start": 656,
+        "line_end": 661,
+        "char_count": 419,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Touch Frequency**: `= choice((date(today) - this.file.mtime).days < 7, \"🔥 Active\", choice((date(today) - this.file.mtime).days < 30, \"👌 Regular\", \"❄️ Dormant\"))`\n**Edit Velocity**: `= round((date(today) - this.file.ctime).days / (this.review-count || 1), 1)` days/edit\n**Engagement Score**: `= round(length(this.file.inlinks) + length(this.file.outlinks) + (this.review-count || 0) * 2)`",
+        "line_start": 667,
+        "line_end": 671,
+        "char_count": 389,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Maturity Status**: `= this.maturity`\n**Maturity Icon**: `= choice(this.maturity = \"evergreen\", \"🌳\", choice(this.maturity = \"budding\", \"🌿\", choice(this.maturity = \"developing\", \"🌱\", \"🌾\")))`\n**Confidence Level**: `= this.confidence`\n**Confidence Badge**: `= choice(this.confidence = \"high\", \"🟢\", choice(this.confidence = \"moderate\", \"🟡\", \"🔴\"))`",
+        "line_start": 682,
+        "line_end": 687,
+        "char_count": 344,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Next Review**: `= this.next-review`\n**Days Until Review**: `= (this.next-review - date(today)).days`\n**Review Status**: `= choice(this.next-review < date(today), \"⚠️ Review Overdue\", choice((this.next-review - date(today)).days < 3, \"⏰ Review Soon\", \"✅ Scheduled\"))`\n**Review Count**: `= this.review-count`\n**Average Review Interval**: `= round((date(today) - this.file.ctime).days / (this.review-count || 1))` days",
+        "line_start": 693,
+        "line_end": 699,
+        "char_count": 417,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Completion Status**: `= choice(this.status = \"complete\", \"✅\", choice(this.status = \"in-progress\", \"⏳\", \"⭕\"))`\n**Priority Indicator**: `= choice(this.priority > 7, \"🔴\", choice(this.priority > 4, \"🟡\", \"🟢\"))`\n**Type Icon**: `= choice(this.type = \"reference\", \"📚\", choice(this.type = \"moc\", \"🗺️\", choice(this.type = \"permanent\", \"💎\", \"📝\")))`",
+        "line_start": 714,
+        "line_end": 718,
+        "char_count": 339,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Simple Progress**: `= repeat(\"█\", floor(this.progress / 10))` `= repeat(\"░\", 10 - floor(this.progress / 10))` `= this.progress`%\n**Completion Bar**: `= \"[\" + repeat(\"=\", floor(this.completion * 20)) + repeat(\" \", 20 - floor(this.completion * 20)) + \"]\"`",
+        "line_start": 724,
+        "line_end": 727,
+        "char_count": 255,
+        "line_count": 2,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**File**: `= this.file.name` | **Type**: `= this.type`\n**Created**: `= dateformat(this.file.ctime, \"yyyy-MM-dd\")` | **Age**: `= (date(today) - this.file.ctime).days` days\n**Modified**: `= dateformat(this.file.mtime, \"yyyy-MM-dd\")` | **Staleness**: `= (date(today) - this.file.mtime).days` days\n**Size**: `= round(this.file.size / 1024, 2)` KB | **Est. Read**: `= round(this.file.size / 1300)` min\n**Links In**: `= length(this.file.inlinks)` | **Links Out**: `= length(this.file.outlinks)`",
+        "line_start": 735,
+        "line_end": 741,
+        "char_count": 488,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**In-Links**: `= length(this.file.inlinks)` | **Out-Links**: `= length(this.file.outlinks)`\n**Network Status**: `= choice(length(this.file.inlinks) = 0, \"🕸️ Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱 Node\"))`\n**Link Ratio**: `= round(length(this.file.inlinks) / (length(this.file.outlinks) || 1), 2)`\n**First Inlink**: `= this.file.inlinks[0]`\n**First Outlink**: `= this.file.outlinks[0]`",
+        "line_start": 747,
+        "line_end": 753,
+        "char_count": 404,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**With Fallback**: `= this.property || \"Not Set\"`\n**Numeric Fallback**: `= this.count || 0`\n**Date Fallback**: `= this.due || \"No Deadline\"`\n**List Fallback**: `= this.tags || []`\n**Chained Fallback**: `= this.primary || this.secondary || \"Default\"`",
+        "line_start": 768,
+        "line_end": 774,
+        "char_count": 249,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Property Exists**: `= choice(this.property, \"✅ Present\", \"❌ Missing\")`\n**Has Value**: `= choice(this.value, this.value, \"N/A\")`\n**Non-Empty List**: `= choice(length(this.list || []) > 0, \"Has Items\", \"Empty\")`\n**Valid Date**: `= choice(this.date, dateformat(this.date, \"yyyy-MM-dd\"), \"No Date\")`",
+        "line_start": 780,
+        "line_end": 785,
+        "char_count": 297,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Random Number**: `= floor(random() * 100)`\n**Random List Item**: `= this.list[floor(random() * length(this.list))]`\n**Random Link**: `= this.file.outlinks[floor(random() * length(this.file.outlinks))]`\n**Random Tag**: `= this.file.tags[floor(random() * length(this.file.tags))]`",
+        "line_start": 793,
+        "line_end": 798,
+        "char_count": 280,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Current Date**: `= date(today)`\n**Current Date (Formatted)**: `= dateformat(date(today), \"yyyy-MM-dd\")`\n**Current Year**: `= dateformat(date(today), \"yyyy\")`\n**Current Month**: `= dateformat(date(today), \"MMMM\")`\n**Day of Year**: `= dateformat(date(today), \"DDD\")`\n**Week Number**: `= dateformat(date(today), \"ww\")`",
+        "line_start": 804,
+        "line_end": 811,
+        "char_count": 317,
+        "line_count": 6,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Knowledge Density**: `= round((length(this.file.outlinks) * 2 + length(this.file.inlinks)) / ((this.file.size / 1000) || 1), 2)`\n**Engagement Index**: `= round((length(this.file.inlinks) * 3 + this.review-count * 2 + length(this.file.outlinks)) / ((date(today) - this.file.ctime).days || 1) * 100, 1)`\n**Maturity Score**: `= round((this.review-count * 10 + length(this.file.inlinks) * 5 + length(this.file.outlinks) * 2 + (this.file.size / 1000)) / 4, 1)`",
+        "line_start": 822,
+        "line_end": 826,
+        "char_count": 457,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Weighted Score**: `= round((this.score1 * 0.5 + this.score2 * 0.3 + this.score3 * 0.2), 2)`\n**Composite Rating**: `= round((this.quality * 0.4 + this.utility * 0.3 + this.completeness * 0.3) * 10, 1)`/10",
+        "line_start": 832,
+        "line_end": 835,
+        "char_count": 205,
+        "line_count": 2,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Total Notes in Query**: `= length(dv.pages('\"folder\"'))`\n**Average File Size**: `= round(sum(map(dv.pages('\"folder\"'), p => p.file.size)) / length(dv.pages('\"folder\"')) / 1024, 2)` KB\n**Most Recent**: `= max(map(dv.pages('\"folder\"'), p => p.file.mtime))`",
+        "line_start": 850,
+        "line_end": 854,
+        "char_count": 256,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Notes With Tag**: `= length(filter(dv.pages(), p => contains(p.file.tags, \"#important\")))`\n**Orphan Count**: `= length(filter(dv.pages(), p => length(p.file.inlinks) = 0))`\n**Hub Count**: `= length(filter(dv.pages(), p => length(p.file.inlinks) > 5))`",
+        "line_start": 860,
+        "line_end": 864,
+        "char_count": 253,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Recent Files**: `= filter(dv.pages(), p => (date(today) - p.file.mtime).days < 7)`\n**Large Files**: `= filter(dv.pages(), p => p.file.size > 10000)`\n**Well-Connected**: `= filter(dv.pages(), p => length(p.file.inlinks) > 3)`\n**By Type**: `= filter(dv.pages(), p => p.type = \"reference\")`",
+        "line_start": 872,
+        "line_end": 877,
+        "char_count": 289,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Citation Count**: `= this.citations`\n**Reference List**: `= join(this.references, \", \")`\n**Has Bibliography**: `= choice(this.references, \"✅ References Present\", \"⚠️ No References\")`\n**Source Type**: `= this.source-type`\n**Publication Year**: `= this.year`",
+        "line_start": 892,
+        "line_end": 898,
+        "char_count": 258,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Read Status**: `= choice(this.read, \"✅ Read\", \"📚 Unread\")`\n**Pages**: `= this.pages` | **Progress**: `= round((this.pages-read / this.pages) * 100, 1)`%\n**Time to Read**: `= round(this.pages * 2)` minutes (2 min/page)\n**Priority**: `= this.priority` | **Due**: `= this.due`",
+        "line_start": 904,
+        "line_end": 909,
+        "char_count": 275,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Project Status**: `= this.project-status`\n**Completion**: `= this.completion`%\n**Tasks Complete**: `= this.tasks-done`/`= this.tasks-total`\n**Days Active**: `= (date(today) - this.project-start).days`\n**Projected End**: `= this.project-start + dur(this.estimated-days + \" days\")`",
+        "line_start": 917,
+        "line_end": 923,
+        "char_count": 281,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Current Streak**: `= this.streak` days\n**Longest Streak**: `= this.longest-streak` days\n**Success Rate**: `= round((this.completed / this.attempts) * 100, 1)`%\n**Last Completion**: `= this.last-completed`\n**Next Target**: `= this.next-target`",
+        "line_start": 929,
+        "line_end": 935,
+        "char_count": 244,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Draft Status**: `= this.draft-status`\n**Word Target**: `= this.word-count`/`= this.target-words` (`= round((this.word-count / this.target-words) * 100, 1)`%)\n**Editor**: `= this.editor`\n**Last Edit**: `= this.last-edited`\n**Publish Date**: `= this.publish-date`",
+        "line_start": 946,
+        "line_end": 952,
+        "char_count": 263,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Version**: `= this.version`\n**Last Modified By**: `= this.modified-by`\n**Change Summary**: `= this.changes`\n**Previous Version**: `= this.previous-version`\n**Revision Count**: `= this.revision-count`",
+        "line_start": 958,
+        "line_end": 964,
+        "char_count": 201,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Mastery Level**: `= this.mastery-level`\n**Study Time**: `= this.study-time` hours\n**Review Interval**: `= this.review-interval` days\n**Next Review**: `= this.file.mtime + dur(this.review-interval + \" days\")`\n**Retention Rate**: `= round((this.correct / this.attempts) * 100, 1)`%",
+        "line_start": 979,
+        "line_end": 985,
+        "char_count": 281,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Skill Level**: `= this.skill-level`/10\n**XP Points**: `= this.xp`\n**Next Level At**: `= this.next-level-xp`\n**Progress to Next**: `= round((this.xp / this.next-level-xp) * 100, 1)`%\n**Achievements**: `= length(this.achievements)`",
+        "line_start": 991,
+        "line_end": 997,
+        "char_count": 231,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Concept Type**: `= this.concept-type`\n**Prerequisites**: `= join(this.prerequisites, \", \")`\n**Related Concepts**: `= length(this.related)`\n**Depth Level**: `= this.depth-level`\n**Domain**: `= this.domain`",
+        "line_start": 1005,
+        "line_end": 1011,
+        "char_count": 206,
+        "line_count": 5,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> [!abstract] Note Overview\n> **Type**: `= this.type` | **Status**: `= this.status` | **Maturity**: `= this.maturity`\n> **Created**: `= dateformat(this.file.ctime, \"yyyy-MM-dd\")` | **Age**: `= (date(today) - this.file.ctime).days` days\n> **Modified**: `= dateformat(this.file.mtime, \"yyyy-MM-dd\")` | **Staleness**: `= (date(today) - this.file.mtime).days` days\n> **Size**: `= round(this.file.size / 1024, 2)` KB | **Words**: `= round(this.file.size / 6)` | **Read Time**: `= round(this.file.size / 1300)` min\n> **In-Links**: `= length(this.file.inlinks)` | **Out-Links**: `= length(this.file.outlinks)` | **Tags**: `= length(this.file.tags)`\n> **Link Status**: `= choice(length(this.file.inlinks) = 0, \"🕸️ Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱 Node\"))`\n> **Freshness**: `= choice((date(today) - this.file.mtime).days < 7, \"🔥 Fresh\", choice((date(today) - this.file.mtime).days < 30, \"👌 Recent\", \"❄️ Stale\"))`",
+        "line_start": 1026,
+        "line_end": 1035,
+        "char_count": 929,
+        "line_count": 8,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> [!check] Note Health\n> **Completeness**: `= choice(this.type AND this.status AND this.maturity, \"✅ Complete\", \"⚠️ Missing Fields\")`\n> **Link Density**: `= round((length(this.file.outlinks) + length(this.file.inlinks)) / (this.file.size / 1000), 2)` links/KB\n> **Content Depth**: `= choice(this.file.size < 500, \"🌱 Stub\", choice(this.file.size < 2000, \"📄 Note\", \"📜 Article\"))`\n> **Update Frequency**: `= choice((date(today) - this.file.mtime).days < 7, \"🔥 Active\", choice((date(today) - this.file.mtime).days < 30, \"👌 Regular\", \"❄️ Dormant\"))`\n> **Quality Score**: `= round((length(this.file.inlinks) * 2 + length(this.file.outlinks) + (this.file.size / 1000)) / 3, 1)`/10",
+        "line_start": 1041,
+        "line_end": 1048,
+        "char_count": 673,
+        "line_count": 6,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> [!calendar] Temporal Metrics\n> **Created**: `= dateformat(this.file.ctime, \"EEEE, MMMM dd, yyyy 'at' HH:mm\")`\n> **Age**: `= (date(today) - this.file.ctime).days` days (`= round((date(today) - this.file.ctime).days / 7, 1)` weeks)\n> **Last Modified**: `= dateformat(this.file.mtime, \"EEEE, MMMM dd, yyyy 'at' HH:mm\")`\n> **Days Since Edit**: `= (date(today) - this.file.mtime).days`\n> **Edit Frequency**: `= round((date(today) - this.file.ctime).days / (this.review-count || 1), 1)` days/edit\n> **Next Review**: `= this.next-review` (`= (this.next-review - date(today)).days` days)",
+        "line_start": 1056,
+        "line_end": 1064,
+        "char_count": 581,
+        "line_count": 7,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Random Outlink**: `= this.file.outlinks[floor(random() * length(this.file.outlinks))]`\n**Random Inlink**: `= this.file.inlinks[floor(random() * length(this.file.inlinks))]`\n**Random Tag**: `= this.file.tags[floor(random() * length(this.file.tags))]`\n**Surprise Connection**: `= choice(random() > 0.5, this.file.outlinks[0], this.file.inlinks[0])`",
+        "line_start": 1079,
+        "line_end": 1084,
+        "char_count": 348,
+        "line_count": 4,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Connection Potential**: `= length(this.file.outlinks) * length(this.file.inlinks)`\n**Unexplored Links**: `= length(filter(this.file.outlinks, l => !contains(this.file.inlinks, l)))`\n**Bidirectional Connections**: `= length(filter(this.file.outlinks, l => contains(this.file.inlinks, l)))`",
+        "line_start": 1090,
+        "line_end": 1094,
+        "char_count": 290,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Note Value Score**: `= round((length(this.file.inlinks) * 5 + length(this.file.outlinks) * 2 + this.review-count * 10 + (this.file.size / 1000) * 3) / 20, 1)`\n**Influence Score**: `= round(length(this.file.inlinks) * log(length(this.file.outlinks) + 1), 2)`\n**Activity Index**: `= round((this.review-count + length(this.file.inlinks) + length(this.file.outlinks)) / ((date(today) - this.file.ctime).days || 1) * 100, 1)`",
+        "line_start": 1102,
+        "line_end": 1106,
+        "char_count": 422,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Days Until Stale**: `= choice((date(today) - this.file.mtime).days < 30, 30 - (date(today) - this.file.mtime).days, \"Already Stale\")`\n**Projected Links**: `= round(length(this.file.outlinks) * ((date(today) - this.file.ctime).days / 30), 1)`\n**Growth Rate**: `= round((this.file.size - (this.initial-size || 1000)) / ((date(today) - this.file.ctime).days || 1), 1)` bytes/day",
+        "line_start": 1112,
+        "line_end": 1116,
+        "char_count": 377,
+        "line_count": 3,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "Word Count",
+        "definition": "`= this.file.size`",
+        "line_number": 54,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "term": "Est. Read Time",
+        "definition": "`= round(this.file.size / 1300) + \" min\"`",
+        "line_number": 54,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "term": "Depth Class",
+        "definition": "`= choice(this.file.size < 500, \"🌱Stub\", choice(this.file.size < 2000, \"📄Note\", \"📜Essay\"))`",
+        "line_number": 55,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "term": "Created",
+        "definition": "`= this.file.ctime`",
+        "line_number": 58,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "term": "Age",
+        "definition": "`= (date(today) - this.file.ctime).days + \" days\"`",
+        "line_number": 58,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "term": "Last Touch",
+        "definition": "`= this.file.mtime`",
+        "line_number": 59,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "term": "Staleness",
+        "definition": "`= choice((date(today) - this.file.mtime).days > 180, \"🕸️Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂Cold\", \"🔥Fresh\"))`",
+        "line_number": 59,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "term": "Touch Frequency",
+        "definition": "`= choice((date(today) - this.file.mtime).days < 7, \"🔥Active\", choice((date(today) - this.file.mtime).days < 30, \"👌Regular\", \"❄️Dormant\"))`",
+        "line_number": 60,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "term": "In-Links",
+        "definition": "`= length(this.file.inlinks)`",
+        "line_number": 63,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "term": "Out-Links",
+        "definition": "`= length(this.file.outlinks)`",
+        "line_number": 63,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      },
+      {
+        "term": "Network Status",
+        "definition": "`= choice(length(this.file.inlinks) = 0, \"🕸️Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱Node\"))`",
+        "line_number": 64,
+        "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+      }
+    ],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "Metadata properties (file, frontmatter, implicit)",
+          "indent_level": 0,
+          "line_number": 90,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "Temporal queries (dates, durations, calculations)",
+          "indent_level": 0,
+          "line_number": 91,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "Aggregations and calculations",
+          "indent_level": 0,
+          "line_number": 92,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "Conditional logic and choice functions",
+          "indent_level": 0,
+          "line_number": 93,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "Link analysis and graph metrics",
+          "indent_level": 0,
+          "line_number": 95,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "List and array operations",
+          "indent_level": 0,
+          "line_number": 96,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "String manipulations",
+          "indent_level": 0,
+          "line_number": 96,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "Custom frontmatter field queries",
+          "indent_level": 0,
+          "line_number": 96,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "**[[DataviewJS Advanced Patterns]]**",
+          "indent_level": 0,
+          "line_number": 526,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "**[[Templater Integration with Dataview]]**",
+          "indent_level": 0,
+          "line_number": 534,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "**[[Meta Bind Reactive Fields]]**",
+          "indent_level": 0,
+          "line_number": 538,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "**[[Knowledge Graph Analytics Formulas]]**",
+          "indent_level": 0,
+          "line_number": 545,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "Multiple variations per category",
+          "indent_level": 0,
+          "line_number": 107,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "Progressive complexity within each section",
+          "indent_level": 0,
+          "line_number": 109,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "Extensive wiki-links to related concepts",
+          "indent_level": 0,
+          "line_number": 111,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "Callouts for important patterns and tips",
+          "indent_level": 0,
+          "line_number": 115,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "Expansion section linking to advanced topics",
+          "indent_level": 0,
+          "line_number": 117,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Connection*: DataviewJS provides programmatic query capabilities beyond inline syntax",
+          "indent_level": 1,
+          "line_number": 528,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Depth Potential*: Complex filtering, custom rendering, dynamic dashboard generation",
+          "indent_level": 1,
+          "line_number": 532,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Advanced automation layer for [[Dashboard Design]]",
+          "indent_level": 1,
+          "line_number": 533,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Connection*: Combining [[Templater]] dynamic content generation with Dataview queries",
+          "indent_level": 1,
+          "line_number": 534,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Depth Potential*: Template-time vs render-time query execution, macro patterns",
+          "indent_level": 1,
+          "line_number": 534,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Template automation architecture in [[PKB Architecture]]",
+          "indent_level": 1,
+          "line_number": 535,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Connection*: Interactive metadata manipulation that triggers Dataview updates",
+          "indent_level": 1,
+          "line_number": 538,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Depth Potential*: Button actions, input fields, view fields integrated with inline queries",
+          "indent_level": 1,
+          "line_number": 542,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Interactive dashboard components in [[Obsidian]] automation",
+          "indent_level": 1,
+          "line_number": 545,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Connection*: Advanced metrics for measuring [[Knowledge Graph]] health and structure",
+          "indent_level": 1,
+          "line_number": 545,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Depth Potential*: PageRank-inspired algorithms, clustering coefficients, betweenness centrality",
+          "indent_level": 1,
+          "line_number": 547,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Quantitative analysis of [[Zettelkasten]] network properties",
+          "indent_level": 1,
+          "line_number": 547,
+          "source": "reference-comprehensive-in-note-metadata-panel-dataview-inline-queries-2025120318.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "\" + l + \"",
+      "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+      "Aggregation Functions",
+      "Andragogy",
+      "Conditional Logic",
+      "DQL",
+      "Dashboard Design",
+      "Dataview",
+      "Dataview Inline Queries: In-Note Metadata Panel",
+      "DataviewJS Advanced Patterns",
+      "File Properties",
+      "Frontmatter",
+      "Inline Queries",
+      "Knowledge Graph",
+      "Knowledge Graph Analytics Formulas",
+      "Link Analysis",
+      "Meta Bind Reactive Fields",
+      "Metadata",
+      "Obsidian",
+      "PKB Architecture",
+      "String Manipulation",
+      "Templater",
+      "Templater Integration with Dataview",
+      "Temporal Queries",
+      "YAML",
+      "Zettelkasten"
+    ],
+    "unique_wiki_link_count": 26,
+    "unique_tags": [
+      "#dashboard-design",
+      "#dataview",
+      "#inline-queries",
+      "#obsidian",
+      "#pkb-architecture",
+      "#reference-note"
+    ],
+    "unique_tag_count": 6,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "\" + l + \"",
+      "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+      "Aggregation Functions",
+      "Andragogy",
+      "Conditional Logic",
+      "DQL",
+      "Dashboard Design",
+      "Dataview",
+      "Dataview Inline Queries: In-Note Metadata Panel",
+      "DataviewJS Advanced Patterns",
+      "File Properties",
+      "Frontmatter",
+      "Inline Queries",
+      "Knowledge Graph",
+      "Knowledge Graph Analytics Formulas",
+      "Link Analysis",
+      "Meta Bind Reactive Fields",
+      "Metadata",
+      "Obsidian",
+      "PKB Architecture",
+      "String Manipulation",
+      "Templater",
+      "Templater Integration with Dataview",
+      "Temporal Queries",
+      "YAML",
+      "Zettelkasten"
+    ]
+  }
+}

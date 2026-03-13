@@ -1,0 +1,3384 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:17:16.246281",
+    "source_file": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\01-reports\\01-cognitive-science\\cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+    "source_file_size_bytes": 114072,
+    "processing_time_seconds": 0.027
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Elements of Reasoning",
+        "Structures of Thought"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "type/analysis",
+        "status/not-read",
+        "critical-thinking",
+        "self-improvement",
+        "processing-workflow",
+        "cognitive-science/metacognition",
+        "skill-acquisition",
+        "cognitive-resources",
+        "working-memory",
+        "reasoning",
+        "cognitive-enhancement"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251205032205",
+      "created": "2025-12-05T03:22:05",
+      "modified": "2025-12-05T03:22:05",
+      "week": "[[2025-W49]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "report",
+      "maturity": "seedling",
+      "confidence": "provisional",
+      "next-review": "2025-12-12",
+      "review-count": "0",
+      "link-up": [
+        "[[practical-philosophy-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-05|Daily-Note]]"
+      ]
+    },
+    "word_count": 14619,
+    "character_count": 112939,
+    "line_count": 1031,
+    "heading_count": 54
+  },
+  "extraction_summary": {
+    "total_items_extracted": 335,
+    "by_type": {
+      "headings": 54,
+      "callouts": 37,
+      "wiki_links": 65,
+      "inline_fields": 52,
+      "definitions": 52,
+      "tags": 30,
+      "code_blocks": 5,
+      "tables": 1,
+      "external_links": 3,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 2,
+      "footnotes": 2,
+      "color_spans": 25,
+      "lists_ordered": 4,
+      "lists_unordered": 3,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "The Elements of Thought: Fundamental Structures of Reasoning",
+      "anchor": "the-elements-of-thought-fundamental-structures-of-reasoning",
+      "line_number": 142,
+      "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🧠 The Elements of Thought: Fundamental Structures of Reasoning",
+      "anchor": "the-elements-of-thought-fundamental-structures-of-reasoning",
+      "line_number": 181,
+      "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📖 Extracted Definitions",
+          "anchor": "extracted-definitions",
+          "line_number": 186,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🎯 Introduction: The Architecture of Reasoning",
+          "anchor": "introduction-the-architecture-of-reasoning",
+          "line_number": 222,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Universality of Thought Structures",
+              "anchor": "the-universality-of-thought-structures",
+              "line_number": 224,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Why Exactly Eight Elements?",
+              "anchor": "why-exactly-eight-elements",
+              "line_number": 233,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Integration Within the Paul-Elder Framework",
+              "anchor": "integration-within-the-paul-elder-framework",
+              "line_number": 243,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📋 The Eight Elements of Thought: Comprehensive Analysis",
+          "anchor": "the-eight-elements-of-thought-comprehensive-analysis",
+          "line_number": 262,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. Purpose 🎯",
+              "anchor": "1-purpose",
+              "line_number": 266,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Common Failures in Purpose",
+                  "anchor": "common-failures-in-purpose",
+                  "line_number": 292,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "2. Question at Issue ❓",
+              "anchor": "2-question-at-issue",
+              "line_number": 300,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Critical Questions for Identifying and Evaluating Questions",
+                  "anchor": "critical-questions-for-identifying-and-evaluating-questions",
+                  "line_number": 322,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Common Failures in Questions",
+                  "anchor": "common-failures-in-questions",
+                  "line_number": 334,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "3. Information 📊",
+              "anchor": "3-information",
+              "line_number": 348,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Critical Questions for Evaluating Information",
+                  "anchor": "critical-questions-for-evaluating-information",
+                  "line_number": 360,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Common Failures in Information Handling",
+                  "anchor": "common-failures-in-information-handling",
+                  "line_number": 385,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "4. Interpretation and Inference 🔍",
+              "anchor": "4-interpretation-and-inference",
+              "line_number": 399,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Critical Questions for Evaluating Inferences",
+                  "anchor": "critical-questions-for-evaluating-inferences",
+                  "line_number": 422,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Common Failures in Inference",
+                  "anchor": "common-failures-in-inference",
+                  "line_number": 434,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "5. Concepts 💡",
+              "anchor": "5-concepts",
+              "line_number": 450,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Critical Questions for Evaluating Concepts",
+                  "anchor": "critical-questions-for-evaluating-concepts",
+                  "line_number": 475,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Common Failures in Conceptual Reasoning",
+                  "anchor": "common-failures-in-conceptual-reasoning",
+                  "line_number": 487,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "6. Assumptions 🔒",
+              "anchor": "6-assumptions",
+              "line_number": 501,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Critical Questions for Uncovering Assumptions",
+                  "anchor": "critical-questions-for-uncovering-assumptions",
+                  "line_number": 531,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Common Failures Involving Assumptions",
+                  "anchor": "common-failures-involving-assumptions",
+                  "line_number": 543,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "7. Implications and Consequences ⚡",
+              "anchor": "7-implications-and-consequences",
+              "line_number": 559,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Critical Questions for Tracing Implications and Consequences",
+                  "anchor": "critical-questions-for-tracing-implications-and-consequences",
+                  "line_number": 580,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Common Failures in Examining Implications",
+                  "anchor": "common-failures-in-examining-implications",
+                  "line_number": 592,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "8. Point of View 👁️",
+              "anchor": "8-point-of-view",
+              "line_number": 608,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Critical Questions for Examining Point of View",
+                  "anchor": "critical-questions-for-examining-point-of-view",
+                  "line_number": 633,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Common Failures Involving Point of View",
+                  "anchor": "common-failures-involving-point-of-view",
+                  "line_number": 645,
+                  "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 The Interrelationships: How Elements Form a System",
+          "anchor": "the-interrelationships-how-elements-form-a-system",
+          "line_number": 661,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Non-Linear Nature of Element Relationships",
+              "anchor": "the-non-linear-nature-of-element-relationships",
+              "line_number": 663,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Core Systemic Relationships",
+              "anchor": "core-systemic-relationships",
+              "line_number": 670,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Visual Representation: The Elements Wheel",
+              "anchor": "visual-representation-the-elements-wheel",
+              "line_number": 684,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Practical Implications of Systemic Understanding",
+              "anchor": "practical-implications-of-systemic-understanding",
+              "line_number": 725,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎓 Analytical Framework: Applying the Elements",
+          "anchor": "analytical-framework-applying-the-elements",
+          "line_number": 737,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Systematic Element-Based Analysis: A General Protocol",
+              "anchor": "systematic-element-based-analysis-a-general-protocol",
+              "line_number": 739,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Application Example 1: Analyzing a Policy Argument",
+              "anchor": "application-example-1-analyzing-a-policy-argument",
+              "line_number": 775,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Application Example 2: Analyzing Your Own Thinking",
+              "anchor": "application-example-2-analyzing-your-own-thinking",
+              "line_number": 801,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🛠️ Practical Tools and Templates",
+          "anchor": "practical-tools-and-templates",
+          "line_number": 829,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Elements of Thought Analysis Checklist",
+              "anchor": "the-elements-of-thought-analysis-checklist",
+              "line_number": 831,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Self-Assessment Template for Personal Reasoning",
+              "anchor": "self-assessment-template-for-personal-reasoning",
+              "line_number": 852,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Comparative Analysis Template",
+              "anchor": "comparative-analysis-template",
+              "line_number": 872,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎯 Integration With the Broader Paul-Elder Framework",
+          "anchor": "integration-with-the-broader-paul-elder-framework",
+          "line_number": 891,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "How Elements Relate to Intellectual Standards",
+              "anchor": "how-elements-relate-to-intellectual-standards",
+              "line_number": 893,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "How Elements Develop Intellectual Traits",
+              "anchor": "how-elements-develop-intellectual-traits",
+              "line_number": 919,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📚 Connections and Links",
+          "anchor": "connections-and-links",
+          "line_number": 943,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔄 Synthesis & Reflection",
+          "anchor": "synthesis-reflection",
+          "line_number": 971,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Transformative Power of Element Mastery",
+              "anchor": "the-transformative-power-of-element-mastery",
+              "line_number": 973,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Elements and Intellectual Autonomy",
+              "anchor": "the-elements-and-intellectual-autonomy",
+              "line_number": 984,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Moving Forward: From Learning to Application",
+              "anchor": "moving-forward-from-learning-to-application",
+              "line_number": 992,
+              "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📚 References & Resources",
+          "anchor": "references-resources",
+          "line_number": 1012,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 1039,
+      "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "### <span style='color: #7200ff;'>Overview</span>",
+        "body": "- **Title**: [[The Elements of Thought: Fundamental Structures of Reasoning]]\n- **MOC**: `=this.link-up`",
+        "line_number": 38,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 756,
+        "char_end": 929
+      },
+      {
+        "type": "",
+        "title": "# In-Note Metadata Panel",
+        "body": "- **Note-Type**: `= this.type`\n- **Development Status**: `= this.maturity`\n- **Epistemic Confidence**: `= this.confidence`\n- **Next Review**: `= this.next-review`\n- **Review Count**: `= this.review-count`\n- **Created**: `= this.created`\n- **Last Modified**: `= this.modified`\n\n> [!purpose] ### 📝Content Metrics\n> **Word Count**: `= this.file.size`| **Est. Read Time**: `= round(this.file.size / 1300) + \" min\"`\n> **Depth Class**: `= choice(this.file.size < 500, \"🌱Stub\", choice(this.file.size < 2000, \"📄Note\", \"📜Essay\"))`\n----\n> [!purpose] ### 🕰️Temporal Context\n> **Created**: `= this.file.ctime` | **Age**: `= (date(today) - this.file.ctime).days + \" days\"`\n> **Last Touch**: `= this.file.mtime` | **Staleness**: `= choice((date(today) - this.file.mtime).days > 180, \"🕸️Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂Cold\", \"🔥Fresh\"))`\n> **Touch Frequency**: `= choice((date(today) - this.file.mtime).days < 7, \"🔥Active\", choice((date(today) - this.file.mtime).days < 30, \"👌Regular\", \"❄️Dormant\"))`\n----\n> [!topic-idea] ### 🔗Network Connectivity\n> **In-Links**: `= length(this.file.inlinks)` | **Out-Links**: `= length(this.file.outlinks)`\n> **Network Status**: `= choice(length(this.file.inlinks) = 0, \"🕸️Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱Node\"))`\n```dataviewjs\n// SYSTEM: Semantic Bridge Engine\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks.map(l => l.path);\n\n// 1. Filter the Vault\nconst siblings = dv.pages()\n    .where(p => p.file.path !== current.file.path) // Exclude self\n    .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n    .map(p => {\n        // Find overlap between this page's links and the current page's links\n        const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n        return { \n            link: p.file.link, \n            sharedCount: shared.length, \n            sharedLinks: shared \n        };\n    })\n    .where(p => p.sharedCount > 0) // Must share at least 1 connection\n    .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n    .limit(5); // Only show top 5\n\n// 2. Render the Bridge\nif (siblings.length > 0) {\n    dv.header(3, \"Semantic Bridges (Missing Connections)\");\n    dv.table(\n        [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n        siblings.map(s => [\n            s.link, \n            \"🔗\" + s.sharedCount, \n            s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n        ])\n    );\n} else {\n    dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}\n```\n---\n### Related Notes\n```dataview\nTABLE type, maturity, confidence\nFROM  \"\"\nWHERE  type = \"report\"\nSORT \"maturity\" DESC\nLIMIT 15\n```\n### Sources & References\n```dataview\nTABLE \n    source AS \"Source Type\",\n    file.ctime AS \"Date Added\"\nFROM \"\"\nWHERE source = \"claude-sonnet-4.5\"\nSORT file.ctime DESC\nLIMIT 10\n```\n### Backlinks & Connections\n```dataview\nTABLE \n    type AS \"Type\",\n    maturity AS \"Maturity\",\n    length(file.inlinks) AS \"Its Backlinks\",\n    dateformat(date(created), \"MMM dd, yyyy\") AS \"Created\"\nFROM [[#]]\nWHERE file.name != this.file.name\nSORT length(file.inlinks) DESC\nLIMIT 20\n```\n### <% dateNow %> - Initial Creation\n*Context*: `=this.title` **by**: `=this.source`\n*Maturity*: `= this.maturity`  \n*Confidence*: `= this.confidence`\n\n### Tags & Classification\n*Primary Tags*: `= this.tags`  \n*Type*: `= this.type`  \n*Source*: `= this.source`",
+        "line_number": 42,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 930,
+        "char_end": 4719
+      },
+      {
+        "type": "etched",
+        "title": "### Claude Thinking",
+        "body": "This is a comprehensive request for a foundational academic report on the Paul-Elder Elements of Thought. Let me analyze the requirements:\n**REQUEST CLASSIFICATION:**\n- Type: comprehensive_note (reference note)\n- Scope: reference (exhaustive coverage)\n- Research Required: YES - Need to verify Paul-Elder framework details, ensure accuracy on the 8 elements, find authoritative sources\n**RESEARCH STRATEGY:**\nI need to search for:\n1. Paul-Elder Elements of Thought framework - official sources\n2. Richard Paul and Linda Elder's work on critical thinking\n3. Foundation for Critical Thinking materials\n4. Academic sources on the Elements framework\n5. Examples of Element-based analysis\n**STRUCTURAL PLANNING:**\nThis will be a Reference Note with:\n- Metadata: tags (#critical-thinking #paul-elder #reasoning-framework #elements-of-thought #reference-note), aliases (Elements of Reasoning, Paul-Elder Elements, Eight Elements Framework)\n- Major sections: Introduction, Each of 8 Elements (detailed), Interrelationships, Analytical Framework, Examples, PKB Integration\n- Wiki-links: Each element, related concepts, broader framework components\n- Callouts: definitions, examples, key questions, warnings about common failures\n- Visual: Mermaid diagram of element relationships\n**WIKI-LINK OPPORTUNITIES:**\n[[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]\nLet me search for authoritative information on the Paul-Elder Elements of Thought.\nNow I have excellent foundational information. Let me search for more specific details about how the Elements interrelate and practical application examples.Excellent. Now I have comprehensive information about the Elements of Thought. Let me compile this into a detailed, encyclopedic report following all the specified formatting and content requirements. I have sufficient information about:\n1. The 8 Elements of Thought\n2. Their definitions and key questions\n3. How they interrelate\n4. The broader Paul-Elder framework context\n5. How to apply them analytically\nLet me now generate the comprehensive report.",
+        "line_number": 145,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 4784,
+        "char_end": 7208
+      },
+      {
+        "type": "abstract",
+        "title": "Executive Summary",
+        "body": "The **Elements of Thought**, developed by Richard Paul and Linda Elder as part of the [[Paul-Elder Framework]], represent the fundamental building blocks present in all human reasoning. These eight universal structures—Purpose, Question at Issue, Information, Interpretation and Inference, Concepts, Assumptions, Implications and Consequences, and Point of View—provide a systematic methodology for analyzing, deconstructing, and improving thinking across any domain. Mastering these elements transforms critical thinking from an abstract aspiration into a concrete analytical practice, enabling practitioners to identify weaknesses in reasoning, uncover hidden assumptions, trace logical consequences, and construct well-reasoned arguments grounded in intellectual rigor.",
+        "line_number": 183,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 7503,
+        "char_end": 8310
+      },
+      {
+        "type": "core-principle",
+        "title": "The Universality Principle",
+        "body": "According to Paul and Elder, the Elements of Thought are **discipline-neutral** and **content-independent**. They apply with equal force to mathematics, literature, engineering, ethics, medicine, and everyday decision-making. This universality makes them extraordinarily powerful as analytical tools—once mastered in one domain, they transfer seamlessly to all others. The elements are not taught separately in physics versus history; rather, they represent the fundamental logic of human cognition itself.",
+        "line_number": 228,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 9988,
+        "char_end": 10544
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "The Three-Component Paul-Elder System",
+        "body": "The complete framework consists of:\n\n**1. Elements of Thought (Reasoning Structures)**: The eight fundamental components present in all thinking—the \"parts\" or \"anatomy\" of reasoning that this document examines in depth.\n\n**2. [[Intellectual Standards]] (Quality Criteria)**: Universal criteria for assessing the quality of reasoning applied to each element—clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. These standards function as evaluative lenses through which we assess each element.\n\n**3. [[Intellectual Traits]] (Virtues of the Critical Thinker)**: Character dispositions developed through consistent application of the intellectual standards to the elements of thought—intellectual humility, courage, empathy, autonomy, integrity, perseverance, confidence in reason, and fair-mindedness.",
+        "line_number": 247,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 13297,
+        "char_end": 14219
+      },
+      {
+        "type": "definition",
+        "title": "Purpose (Goal/Objective)",
+        "body": "[**Purpose**:: is the aim, goal, or objective that drives thinking.] It answers the question: *What am I trying to accomplish?* Every instance of reasoning pursues some end, whether explicitly articulated or implicitly operative. Purpose provides the teleological direction for thinking—it determines what counts as relevant information, which concepts to employ, what inferences to draw, and what implications matter.",
+        "line_number": 268,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 16062,
+        "char_end": 16524
+      },
+      {
+        "type": "key-claim",
+        "title": "Critical Questions for Identifying Purpose",
+        "body": "When analyzing thinking, ask these essential questions:\n\n- **What exactly am I trying to accomplish?** State the purpose explicitly and precisely.\n- **Is my purpose clearly defined, or is it vague and unfocused?** Vague purposes produce vague thinking.\n- **Is my purpose trivial or significant?** Purpose determines the importance of the entire reasoning process.\n- **Is my purpose realistic and achievable?** Unrealistic purposes lead to frustration and failure.\n- **Do I have more than one purpose?** Multiple conflicting purposes fragment thinking.\n- **If I have conflicting purposes, which takes priority?** Prioritization clarifies thinking.\n- **Is my stated purpose my actual purpose?** Hidden agendas undermine intellectual integrity.\n- **Is my purpose ethical and fair-minded?** Purposes can be intellectually clear yet morally problematic.",
+        "line_number": 275,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 17610,
+        "char_end": 18537
+      },
+      {
+        "type": "example",
+        "title": "Purpose in Action: Medical Diagnosis",
+        "body": "Consider a physician examining a patient with chest pain. The *general purpose* is \"providing effective medical care.\" But this remains too vague for quality reasoning. More specifically: \"determining whether this chest pain indicates a cardiac emergency requiring immediate intervention.\" This specific purpose immediately constrains the inquiry—it makes cardiac markers highly relevant, makes dermatological information largely irrelevant, and makes speed essential to the reasoning process. The specific purpose determines which diagnostic tests to order, which information to prioritize, and what inferences to draw.",
+        "line_number": 289,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 18960,
+        "char_end": 19633
+      },
+      {
+        "type": "definition",
+        "title": "Question at Issue (Problem/Topic)",
+        "body": "The [**Question at Issue**:: is the specific problem, question, or issue that the thinking addresses.] It defines the focal point of inquiry and determines the scope of relevant considerations. While Purpose establishes *why* you are thinking, the <span style='color: #ff0075;'>Question at Issue establishes *what* you are thinking about.</span> It converts general purpose into specific inquiry.",
+        "line_number": 302,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 21190,
+        "char_end": 21639
+      },
+      {
+        "type": "key-claim",
+        "title": "The Power of Question Formulation",
+        "body": "<span style='color: #ff0075;'>Paul and Elder emphasize that how you frame the question dramatically constrains possible answers.</span> A poorly formulated question—vague, loaded, biased, or falsely dichotomous—makes good reasoning impossible regardless of subsequent cognitive work. Conversely, a well-formulated question—clear, precise, neutral, and appropriately scoped—creates the conditions for excellent reasoning.",
+        "line_number": 307,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 22139,
+        "char_end": 22611
+      },
+      {
+        "type": "example",
+        "title": "Question Formulation: Criminal Justice",
+        "body": "Consider reasoning about criminal justice reform. Different questions produce radically different inquiries:\n\n- *\"What works to reduce crime?\"* (Empirical/pragmatic focus on effectiveness)\n- *\"What does justice require in criminal punishment?\"* (Normative/ethical focus on principles)\n- *\"How can we balance public safety with individual rights?\"* (Synthetic question integrating multiple values)\n- *\"Why do our opponents oppose prison reform?\"* (Psychologizing question that presumes opposition stems from bad motives)\n\nThe first three questions, though different, all enable serious inquiry. The fourth question commits a logical error—it assumes opposition requires psychological explanation rather than engaging substantive arguments. Question formulation shapes the entire reasoning trajectory.",
+        "line_number": 312,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 23236,
+        "char_end": 24104
+      },
+      {
+        "type": "definition",
+        "title": "Information (Data/Evidence)",
+        "body": "[**Information**:: comprises the facts, data, observations, experiences, and evidence used as the raw material for reasoning.] Information answers the question: *What information am I using to address this question?* It constitutes the empirical foundation upon which inferences are built. The quality of conclusions depends fundamentally on the quality of information supporting them—the principle \"garbage in, garbage out\" applies universally to reasoning.",
+        "line_number": 350,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 26776,
+        "char_end": 27281
+      },
+      {
+        "type": "key-claim",
+        "title": "The Information-Inference Distinction",
+        "body": "Paul and Elder emphasize the critical importance of distinguishing [**Information**:: (what we observe, what is given)] from [**inference**:: (what we conclude, what we interpret).] Confusion between these categories represents one of the most common reasoning failures. When someone says \"He is lying,\" are they reporting information (observing false statements) or making an inference (interpreting motivation)? The distinction matters profoundly for reasoning quality.\n\nMuch poor reasoning results from treating inferences as if they were information—presenting interpretations as if they were observations, conclusions as if they were facts. <span style='color: #ff0075;'>Disciplined thinkers carefully distinguish what they *observe* from what they *infer* from observations.</span>",
+        "line_number": 355,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 27990,
+        "char_end": 28836
+      },
+      {
+        "type": "example",
+        "title": "Information Quality in Medical Reasoning",
+        "body": "A physician diagnosing a patient must carefully distinguish types of information and assess quality:\n\n**Patient symptoms (reported information)**: \"I have chest pain.\" The physician notes this is the *patient's subjective experience*, not necessarily indicative of cardiac issues (could be anxiety, muscle strain, etc.).\n\n**Physical examination (observational information)**: Measuring blood pressure, listening to heart sounds, palpating for tenderness. This direct sensory data carries high evidential value but requires skilled interpretation.\n\n**Diagnostic tests (instrumental information)**: EKG readings, blood test results, imaging studies. These provide objective measurements but require understanding of what the instruments actually measure and their error rates.\n\n**Medical literature (theoretical information)**: Research on cardiac conditions, treatment effectiveness, diagnostic accuracy. This provides general principles but requires judgment in applying them to individual cases.\n\nThe skilled physician recognizes that each information type serves different functions, carries different levels of certainty, and requires different interpretive frameworks. Diagnosis fails when information types are confused or quality is inadequately assessed.",
+        "line_number": 372,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 29938,
+        "char_end": 31276
+      },
+      {
+        "type": "definition",
+        "title": "Interpretation and Inference (Conclusions/Solutions)",
+        "body": "[**Inference**:: is the intellectual act of drawing conclusions from information and reasoning.] [**Interpretation**:: is the process of making sense of information by placing it within conceptual frameworks.] Together, they represent the *active cognitive work* of reasoning—<span style='color: #ff6e00;'>moving from premises to conclusions, from data to understanding, from observations to explanations</span>. Inference answers: *What conclusions am I drawing? How am I interpreting this information?*",
+        "line_number": 401,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 32863,
+        "char_end": 33439
+      },
+      {
+        "type": "core-principle",
+        "title": "The Inference Chain Principle",
+        "body": "Complex reasoning rarely involves single inferences; rather, it consists of [**Chains of Inferences**:: where each conclusion becomes a premise for subsequent reasoning.] Understanding these chains is essential for analyzing argument structure:\n\n*Information → Inference 1 → Inference 2 → Inference 3 → Final Conclusion*\n\nWeakness anywhere in the chain undermines the final conclusion. Skilled critical thinkers trace inference chains backward, examining each step: \"You conclude X. What evidence supports X? What intermediate conclusions connect your evidence to X? Does each step follow logically?\"",
+        "line_number": 406,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 34036,
+        "char_end": 34697
+      },
+      {
+        "type": "example",
+        "title": "Interpretation and Inference in Historical Reasoning",
+        "body": "Consider a historian examining a medieval document describing peasant protests. The raw **information** consists of words on parchment. But what do these words mean? \n\n**Interpretation** (making sense of information): The historian must interpret the document through understanding of medieval social structure, economic conditions, and political context. The same words might be read as evidence of widespread discontent (one interpretation) or as propaganda exaggerating isolated incidents (alternative interpretation). Interpretation requires applying conceptual frameworks about medieval society.\n\n**Inference** (drawing conclusions): Once interpreted, the historian draws conclusions: \"These protests indicate deteriorating feudal relations in this region during this period.\" This inference moves from the interpreted evidence to a historical claim. The inference quality depends on both the interpretation quality and the logical connection between interpreted evidence and historical conclusion.",
+        "line_number": 415,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 35285,
+        "char_end": 36365
+      },
+      {
+        "type": "definition",
+        "title": "Concepts (Theories/Ideas)",
+        "body": "**Concepts** are the organizing ideas, theories, principles, definitions, models, or axioms that structure thinking. They provide the abstract frameworks through which we understand and categorize experience. Concepts answer: *What key ideas am I using to organize my thinking? What theories shape my understanding?* All reasoning necessarily employs concepts—we cannot think without conceptual frameworks any more than we can see without eyes.",
+        "line_number": 452,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 39185,
+        "char_end": 39674
+      },
+      {
+        "type": "key-claim",
+        "title": "The Concept-Information Relationship",
+        "body": "Paul and Elder emphasize that concepts and information exist in reciprocal relationship. **Information** provides the empirical content; **concepts** provide the organizational form. Concepts without information remain empty abstractions. Information without concepts remains disorganized data. Excellence in reasoning requires both rich conceptual frameworks *and* careful attention to empirical detail. The relationship works bidirectionally: concepts shape what information we notice and how we interpret it, while information tests and refines our concepts.",
+        "line_number": 457,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 40165,
+        "char_end": 40781
+      },
+      {
+        "type": "example",
+        "title": "Conceptual Frameworks in Political Reasoning",
+        "body": "Consider reasoning about political systems. Different conceptual frameworks produce different analyses:\n\n**Classical Liberal Framework**: Organizes thinking around concepts of *individual rights*, *limited government*, *free markets*, *rule of law*. Through this lens, political questions become primarily about protecting individual liberty against government overreach.\n\n**Socialist Framework**: Organizes thinking around concepts of *class conflict*, *exploitation*, *collective ownership*, *economic democracy*. Through this lens, political questions become primarily about achieving economic equality and worker control.\n\n**Conservative Framework**: Organizes thinking around concepts of *tradition*, *organic community*, *hierarchy*, *social order*. Through this lens, political questions become primarily about maintaining stable social structures.\n\nNotice how the *same information* (unemployment statistics, wealth distribution, policy outcomes) gets interpreted completely differently depending on the conceptual framework employed. The framework determines what counts as important, what requires explanation, and what solutions make sense.",
+        "line_number": 464,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 41792,
+        "char_end": 43020
+      },
+      {
+        "type": "definition",
+        "title": "Assumptions (Presuppositions)",
+        "body": "**Assumptions** are the beliefs, ideas, or claims you take for granted—the presuppositions operating in your reasoning whether or not you recognize them. Assumptions answer: *What am I taking for granted? What must I believe for my reasoning to make sense?* Every instance of reasoning rests on assumptions, yet assumptions typically remain implicit and unexamined. Making assumptions explicit represents one of critical thinking's most powerful techniques.",
+        "line_number": 503,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 45669,
+        "char_end": 46175
+      },
+      {
+        "type": "core-principle",
+        "title": "The Ubiquity of Assumptions",
+        "body": "According to Paul and Elder, it is *impossible* to reason without making assumptions. Every statement, argument, or theory presupposes certain background beliefs. When a scientist conducts an experiment, they assume instruments provide reliable measurements, natural laws operate consistently, and experimental results can be generalized. When a person plans their day, they assume continued existence, relatively predictable conditions, and their capacity for action. Reasoning could not begin without assumptions—we cannot verify everything; some beliefs must be accepted as starting points.\n\nThe critical question is not whether you make assumptions (you inevitably do) but whether you **recognize** your assumptions, whether they are **justified**, and whether you're **willing to examine them**.",
+        "line_number": 508,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 46572,
+        "char_end": 47427
+      },
+      {
+        "type": "example",
+        "title": "Uncovering Hidden Assumptions: The Standardized Testing Debate",
+        "body": "Consider the argument: \"We should expand standardized testing in schools because it improves educational outcomes.\"\n\n**Explicit Premise**: Standardized testing improves educational outcomes.\n**Explicit Conclusion**: We should expand standardized testing.\n\nBut what **assumptions** does this reasoning require?\n\n*Factual Assumptions*: That test scores correlate with genuine learning, that teachers respond to testing incentives by improving instruction (rather than teaching to the test), that improved outcomes outweigh testing costs and stress.\n\n*Value Assumptions*: That measurable outcomes are what we should prioritize in education (rather than, say, creativity or critical thinking that resists standardized measurement), that educational efficiency justifies increased testing burden.\n\n*Methodological Assumptions*: That quantitative metrics adequately capture educational quality, that standardized tests validly measure learning.\n\nNotice that someone might challenge this reasoning not by disputing the explicit premise (test scores improve) but by challenging the underlying assumptions (that test scores represent genuine learning). Much productive disagreement occurs at the level of assumptions rather than explicit claims.",
+        "line_number": 515,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 48287,
+        "char_end": 49628
+      },
+      {
+        "type": "definition",
+        "title": "Implications and Consequences",
+        "body": "**Implications** are what logically follows from your reasoning—the conclusions that must be accepted if you accept your premises and reasoning. **Consequences** are the likely results or effects that would occur if your conclusions were acted upon. Together they answer: *If I accept this reasoning, what else follows? What would happen if I acted on these conclusions?* Tracing implications and consequences projects reasoning forward to examine what it commits you to.",
+        "line_number": 561,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 52487,
+        "char_end": 53007
+      },
+      {
+        "type": "key-claim",
+        "title": "The Implications Test",
+        "body": "Paul and Elder identify tracing implications as one of critical thinking's most powerful techniques. Many arguments appear plausible when examined directly but reveal flaws when their implications are traced. The **implications test** asks: \"If I consistently applied this principle, what would follow?\" Often, unacceptable implications indicate flawed reasoning. Someone might argue \"People should always follow their feelings.\" Trace the implications: this would justify acting on feelings of anger, vengeance, or greed. The unacceptable implications suggest the principle requires qualification.",
+        "line_number": 566,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 53395,
+        "char_end": 54033
+      },
+      {
+        "type": "example",
+        "title": "Implications and Consequences in Ethical Reasoning",
+        "body": "Consider utilitarian ethical reasoning: \"Actions are right insofar as they maximize happiness for the greatest number.\"\n\n**Logical Implications**: This principle implies that an action producing great happiness for many could be right even if it requires sacrificing an innocent person's happiness entirely (if net happiness increases). It implies that intentions don't matter morally—only consequences. It implies that distributional questions don't matter—10 people experiencing happiness of 10 equals 100 people experiencing happiness of 1 (both sum to 100 units of happiness).\n\n**Practical Consequences**: If society adopted this principle as policy, consequences might include: utilitarian calculations justifying violations of individual rights if doing so benefits the majority; difficult measurement problems (how do we quantify happiness?); potential for majority tyranny (majority happiness justifies minority suffering).\n\nCritics of utilitarianism often focus on implications (it implies morally repugnant conclusions in thought experiments) or consequences (it would produce bad outcomes if implemented). Examining implications and consequences reveals whether a theory can withstand critical scrutiny.",
+        "line_number": 571,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 54345,
+        "char_end": 55638
+      },
+      {
+        "type": "definition",
+        "title": "Point of View (Perspective/Frame of Reference)",
+        "body": "**Point of View** is the perspective, frame of reference, or orientation from which you reason. It encompasses your vantage point, the lens through which you view issues, and the orientation that shapes your thinking. Point of View answers: *From what perspective am I viewing this? What is my frame of reference?* Every instance of reasoning necessarily proceeds from some point of view—thinking cannot occur from nowhere.",
+        "line_number": 610,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 58526,
+        "char_end": 59015
+      },
+      {
+        "type": "core-principle",
+        "title": "The Necessity and Limitation of Perspective",
+        "body": "Paul and Elder emphasize a crucial tension: **Point of view is both necessary and limiting**. Necessary because thinking cannot occur from no perspective—you must view situations from somewhere. Limiting because every perspective highlights certain features while obscuring others. Like standing in a particular place in a room, your position determines what you can see—but also what remains outside your field of vision.\n\nThis creates an intellectual challenge: How can you recognize your own point of view (which shapes everything you perceive) while *viewing through* that perspective? The answer lies in **deliberately adopting multiple perspectives**—attempting to see situations from viewpoints different from your own, recognizing that each perspective illuminates some aspects while obscuring others.",
+        "line_number": 615,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 59752,
+        "char_end": 60632
+      },
+      {
+        "type": "example",
+        "title": "Point of View in Historical Analysis",
+        "body": "Consider analysis of European colonization. Different points of view produce radically different histories:\n\n**European Colonizer Perspective**: Emphasis on exploration, civilizing mission, technological advancement, spreading Christianity and European culture. Questions focus on colonial administration effectiveness, resistance to progress, economic development. Information highlights European achievements, institutions built, diseases conquered.\n\n**Indigenous Peoples' Perspective**: Emphasis on invasion, genocide, cultural destruction, land theft, exploitation. Questions focus on survival strategies, resistance movements, cultural preservation. Information highlights population decimation, forced assimilation, resource extraction.\n\n**Contemporary Western Academic Perspective**: Attempts to balance perspectives, recognize colonial harms while understanding European motivations, examine power dynamics and structural violence. Questions focus on long-term impacts, ongoing colonial legacies, possibilities for reconciliation.\n\nNotice that the *same events* appear entirely different depending on perspective. Each viewpoint has access to certain information and interpretations while other aspects remain less visible. Understanding requires recognizing how perspective shapes historical narrative.",
+        "line_number": 622,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 61309,
+        "char_end": 62689
+      },
+      {
+        "type": "key-claim",
+        "title": "Elements as an Integrated System",
+        "body": "According to Paul and Elder, \"There is an intimate overlap among all of the elements by virtue of their interrelationship.\" This means that changes in any single element ripple throughout the entire reasoning structure. Clarifying your Purpose affects what Questions you ask, which determines what Information you seek, which you interpret through particular Concepts, and so forth. The elements don't operate sequentially (first purpose, then question, then information...) but simultaneously and reciprocally, each constraining and enabling the others.",
+        "line_number": 667,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 66518,
+        "char_end": 67123
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "The Element Analysis Protocol",
+        "body": "**Phase 1: Preliminary Reading/Observation**\nBegin by encountering the reasoning to be analyzed without immediately applying the Elements framework. Read the text, listen to the argument, or observe your own thinking process. Get an overall sense of the reasoning's direction and content.\n\n**Phase 2: Purpose Identification**\nAsk: *What is the purpose of this reasoning? What is it trying to accomplish?* Identify both stated and unstated purposes. Evaluate: Is the purpose clear? Significant? Realistic? Does the reasoning serve its stated purpose, or does it serve some other hidden agenda?\n\n**Phase 3: Question Analysis**\nAsk: *What question or problem does this reasoning address?* Identify the central question and any subsidiary questions. Evaluate: Is the question clearly formulated? Is it the right question? Is it answerable? Does the reasoning actually address this question, or does it substitute an easier question?\n\n**Phase 4: Information Assessment**\nAsk: *What information does this reasoning use? What is the nature and source of this information?* Identify empirical data, testimonial evidence, statistical information, theoretical claims. Evaluate: Is the information accurate? Relevant? Sufficient? From credible sources? Is contrary information ignored? Is inference confused with information?\n\n**Phase 5: Inference Examination**\nAsk: *What conclusions does this reasoning draw? What interpretations does it offer?* Trace the inferential path from premises to conclusions. Evaluate: Do conclusions follow logically? Are inferences valid? Strong? Are alternative inferences possible? Where are the inferential leaps?\n\n**Phase 6: Conceptual Analysis**\nAsk: *What key concepts organize this reasoning? What theories or definitions does it employ?* Identify central concepts and how they're being used. Evaluate: Are concepts clearly defined? Used consistently? Adequate to complexity? Do conceptual confusions create problems?\n\n**Phase 7: Assumption Uncovering**\nAsk: *What is being taken for granted? What must be true for this reasoning to work?* Identify factual, value, methodological, and paradigmatic assumptions. Evaluate: Are assumptions justified? Questionable? Controversial? Hidden? Do they beg questions?\n\n**Phase 8: Implication Tracing**\nAsk: *What follows if this reasoning is accepted? What would result from acting on these conclusions?* Trace logical implications and practical consequences. Evaluate: Are implications acceptable? Recognized? Significant? Are consequences likely to be positive or negative?\n\n**Phase 9: Point of View Recognition**\nAsk: *From what perspective does this reasoning proceed? What frame of reference does it adopt?* Identify the viewpoint and what it enables/limits. Evaluate: Is the perspective acknowledged? Limited? Fair to alternatives? Could other perspectives yield different conclusions?\n\n**Phase 10: Synthetic Evaluation**\nStep back and assess the reasoning as a whole: Which elements are strongest? Which are weakest? Do elements work together coherently, or are there tensions? What would most improve this reasoning? Is the overall reasoning sound?",
+        "line_number": 743,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 73724,
+        "char_end": 76968
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Quick-Reference Analysis Tool",
+        "body": "Use this checklist when analyzing any argument, text, policy, or decision:\n\n**□ PURPOSE**: What is this reasoning trying to accomplish? Is the purpose clear, significant, realistic, and ethical?\n\n**□ QUESTION**: What specific question does this address? Is the question clearly formulated, answerable, and the right question? \n\n**□ INFORMATION**: What data/evidence is used? Is the information accurate, relevant, sufficient, from credible sources, and fairly selected?\n\n**□ INFERENCE**: What conclusions are drawn? Are inferences valid, strong, and clearly distinguished from information?\n\n**□ CONCEPTS**: What key ideas organize this thinking? Are concepts clearly defined, consistently used, and adequate to complexity?\n\n**□ ASSUMPTIONS**: What is taken for granted? Are assumptions justified, recognized, and open to examination?\n\n**□ IMPLICATIONS**: What follows from this reasoning? Are implications recognized, acceptable, and carefully traced?\n\n**□ POINT OF VIEW**: From what perspective does this reason? Is the viewpoint acknowledged, limited, and fair to alternatives?",
+        "line_number": 833,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 86543,
+        "char_end": 87704
+      },
+      {
+        "type": "connections-and-links",
+        "title": "PKB Integration and Cross-References",
+        "body": "The Elements of Thought connect to numerous other areas within a comprehensive personal knowledge base:\n\n**Critical Thinking Foundations**: The Elements represent the core component of the [[Paul-Elder Framework]], working in conjunction with [[Intellectual Standards]] and [[Intellectual Traits]]. They provide the anatomical structure that Standards evaluate and Traits develop through practice.\n\n**Logic and Argumentation**: Element analysis directly supports [[Argument Analysis]], [[Premise-Conclusion Structure]], [[Validity and Soundness]], and [[Informal Fallacies]]. Many fallacies are element failures—hasty generalization fails at Information sufficiency, ad hominem fails at relevance to the Question at Issue, false cause fails in Inference logic.\n\n**Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified True Belief]], [[Sources of Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.\n\n**Metacognition**: The Elements provide a framework for [[Metacognitive Monitoring]], [[Self-Regulated Learning]], and [[Reflective Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.\n\n**Scientific Reasoning**: Element analysis illuminates [[Scientific Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.\n\n**Ethical Reasoning**: The Purpose, Implications, and Point of View elements are central to [[Ethical Reasoning]], [[Moral Philosophy]], and [[Applied Ethics]]. Ethical analysis requires clarifying purposes (what outcomes do we seek?), tracing implications (what consequences follow?), and considering perspectives (whose viewpoint matters?).\n\n**Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual Analysis]], and [[Historical Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.\n\n**Cognitive Psychology**: The Elements align with findings in [[Cognitive Psychology]], [[Heuristics and Biases]], [[Decision Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.\n\n**Academic Writing**: Element analysis directly supports [[Academic Writing]], [[Thesis Development]], [[Evidence-Based Argumentation]], and [[Literature Review Methodology]]. Each academic paper should have clear Purpose, address specific Questions, marshal relevant Information, draw warranted Inferences, define key Concepts, acknowledge Assumptions, trace Implications, and situate arguments within scholarly conversations (Point of View).\n\n**Socratic Questioning**: The Elements provide the structure for [[Socratic Method]], [[Probing Questions]], and [[Dialectical Reasoning]]. Socratic questions target specific elements—\"What is your purpose?\" \"What evidence supports that?\" \"What assumptions does that presuppose?\" \"What implications follow?\"",
+        "line_number": 945,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 96847,
+        "char_end": 100267
+      },
+      {
+        "type": "key-claim",
+        "title": "From Unconscious Incompetence to Conscious Mastery",
+        "body": "Most people exist in a state of *unconscious incompetence* regarding reasoning—they think constantly but remain unaware of thinking's structure, unable to identify weaknesses or improve systematically. Learning the Elements moves you to *conscious incompetence*—recognizing reasoning's components but not yet skillfully employing them. Extensive practice develops *conscious competence*—deliberately and effectively analyzing thinking using the Elements. Eventually, with sufficient practice, element analysis becomes *unconscious competence*—an automatic habit where you instinctively notice purposes, question assumptions, trace implications, and consider perspectives without conscious effort. At this stage, the Elements have become internalized, transforming not just what you think but how you think.",
+        "line_number": 981,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 101912,
+        "char_end": 102787
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Reflective Questions for Deepening Understanding",
+        "body": "**On Element Relationships**: Can you identify a case where weakness in one element cascaded through the system to produce overall reasoning failure? How did the elements' interconnection amplify the initial problem?\n\n**On Personal Reasoning**: Select a strong belief you hold. Can you trace all eight elements in your reasoning supporting this belief? Are there elements you've never explicitly examined? What happens when you scrutinize assumptions and implications you've taken for granted?\n\n**On Perspective-Taking**: Can you articulate an opposing viewpoint on an issue you care deeply about, identifying all eight elements from that alternative perspective? Not a caricature or straw man, but the strongest version of reasoning from a point of view different from your own? What does this exercise reveal about perspective's power?",
+        "line_number": 1002,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 105936,
+        "char_end": 106859
+      },
+      {
+        "type": "cite",
+        "title": "Primary Sources and Further Reading",
+        "body": "**Foundation for Critical Thinking Resources**:\n- Paul, R., & Elder, L. (2006). *The Miniature Guide to Critical Thinking: Concepts and Tools* (4th ed.). Foundation for Critical Thinking Press. [Comprehensive guide to the Paul-Elder framework, including detailed treatment of Elements]\n- Paul, R., & Elder, L. (2008). *The Thinker's Guide to Analytic Thinking*. Foundation for Critical Thinking Press. [Focused specifically on element-based analysis]\n- Paul, R., & Elder, L. (2002). *Critical Thinking: Tools for Taking Charge of Your Professional and Personal Life*. Prentice Hall. [Extensive application of Elements to practical reasoning]\n- Foundation for Critical Thinking. *Wheel of Reason*. https://community.criticalthinking.org/wheelOfReason.php [Visual representation and interactive exploration of Elements]\n- *The Elements of Thought Online Resource*. https://theelementsofthought.org/ [Educational resource specifically devoted to teaching the Elements]\n\n**Academic Applications and Research**:\n- Ralston, P., & Bays, C. (2013). \"Enhancing Critical Thinking Across The Undergraduate Experience: An Exemplar From Engineering.\" *American Journal of Engineering Education*, 4(2), 119-126. [Empirical study of Paul-Elder framework implementation in engineering curriculum]\n- University of Louisville Ideas to Action. \"Paul-Elder Critical Thinking Framework.\" https://louisville.edu/ideastoaction/about/criticalthinking/framework [Comprehensive institutional adoption of framework]\n- Nosich, G. M. (2009). *Learning to Think Things Through: A Guide to Critical Thinking Across the Curriculum* (3rd ed.). Prentice Hall. [Application of Elements to disciplinary thinking]\n\n**Philosophical Foundations**:\n- Paul, R., & Elder, L. (2009). *The Miniature Guide to Critical Thinking Concepts and Tools* (updated). Foundation for Critical Thinking Press.\n- Paul, R. (1992). \"Critical Thinking: What, Why, and How.\" *New Directions for Community Colleges*, 1992(77), 3-24. [Theoretical foundations of Paul-Elder approach]\n\n**Related Frameworks**:\n- Halpern, D. F. (2014). *Thought and Knowledge: An Introduction to Critical Thinking* (5th ed.). Psychology Press. [Cognitive psychology perspective on thinking skills]\n- Ennis, R. H. (1987). \"A Taxonomy of Critical Thinking Dispositions and Abilities.\" In J. B. Baron & R. J. Sternberg (Eds.), *Teaching Thinking Skills: Theory and Practice*. W. H. Freeman. [Alternative framework for analyzing thinking]\n- Facione, P. A. (1990). *Critical Thinking: A Statement of Expert Consensus for Purposes of Educational Assessment and Instruction*. California Academic Press. [Delphi consensus on critical thinking components]",
+        "line_number": 1014,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md",
+        "char_start": 106894,
+        "char_end": 109647
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Elements of Thought: Fundamental Structures of Reasoning]]",
+        "line_number": 39,
+        "section": "Document Start",
+        "context_line": "> - **Title**: [[The Elements of Thought: Fundamental Structures of Reasoning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Critical Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Critical Thinking]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Paul-Elder Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Paul-Elder Framework]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Purpose in Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Purpose in Reasoning]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Question at Issue",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Question at Issue]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Information",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Information]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Inference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inference]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Concepts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Concepts]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Assumptions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Assumptions]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Implications",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implications]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Point of View",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Point of View]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Intellectual Standards",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual Standards]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reasoning]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Logic",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Logic]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Argumentation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Argumentation]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Analytical Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Analytical Thinking]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Socratic Questioning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socratic Questioning]]",
+        "line_number": 166,
+        "section": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> [[Critical Thinking]], [[Paul-Elder Framework]], [[Purpose in Reasoning]], [[Question at Issue]], [[Information]], [[Inference]], [[Concepts]], [[Assumptions]], [[Implications]], [[Point of View]], [[Intellectual Standards]], [[Reasoning]], [[Logic]], [[Argumentation]], [[Analytical Thinking]], [[Metacognition]], [[Socratic Questioning]]",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Paul-Elder Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Paul-Elder Framework]]",
+        "line_number": 184,
+        "section": "🧠 The Elements of Thought: Fundamental Structures of Reasoning",
+        "context_line": "> The **Elements of Thought**, developed by Richard Paul and Linda Elder as part of the [[Paul-Elder Framework]], represent the fundamental building blocks present in all human reasoning. These eight universal structures—Purpose, Question at Issue, Information, Interpretation and Inference, Concepts, Assumptions, Implications and Consequences, and Point of View—provide a systematic methodology for analyzing, deconstructing, and improving thinking across any domain. Mastering these elements transforms critical thinking from an abstract aspiration into a concrete analytical practice, enabling practitioners to identify weaknesses in reasoning, uncover hidden assumptions, trace logical consequences, and construct well-reasoned arguments grounded in intellectual rigor.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Paul-Elder Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Paul-Elder Framework]]",
+        "line_number": 245,
+        "section": "Integration Within the Paul-Elder Framework",
+        "context_line": "The Elements of Thought constitute one of three essential components in the complete [[Paul-Elder Framework]] for [[Critical Thinking]]. Understanding their relationship to the other components is crucial for grasping how the framework functions as an integrated whole.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Critical Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Critical Thinking]]",
+        "line_number": 245,
+        "section": "Integration Within the Paul-Elder Framework",
+        "context_line": "The Elements of Thought constitute one of three essential components in the complete [[Paul-Elder Framework]] for [[Critical Thinking]]. Understanding their relationship to the other components is crucial for grasping how the framework functions as an integrated whole.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Intellectual Standards",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual Standards]]",
+        "line_number": 252,
+        "section": "Integration Within the Paul-Elder Framework",
+        "context_line": "> **2. [[Intellectual Standards]] (Quality Criteria)**: Universal criteria for assessing the quality of reasoning applied to each element—clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. These standards function as evaluative lenses through which we assess each element.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Intellectual Traits",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual Traits]]",
+        "line_number": 254,
+        "section": "Integration Within the Paul-Elder Framework",
+        "context_line": "> **3. [[Intellectual Traits]] (Virtues of the Critical Thinker)**: Character dispositions developed through consistent application of the intellectual standards to the elements of thought—intellectual humility, courage, empathy, autonomy, integrity, perseverance, confidence in reason, and fair-mindedness.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Intellectual Standards",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual Standards]]",
+        "line_number": 895,
+        "section": "How Elements Relate to Intellectual Standards",
+        "context_line": "The [[Intellectual Standards]]—clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness—function as *quality criteria* applied to each Element. Understanding this relationship is crucial because the Elements and Standards work together: Elements provide the structures to analyze; Standards provide the criteria for evaluation.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Intellectual Traits",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual Traits]]",
+        "line_number": 921,
+        "section": "How Elements Develop Intellectual Traits",
+        "context_line": "The [[Intellectual Traits]]—humility, autonomy, integrity, courage, perseverance, empathy, confidence in reason, and fair-mindedness—emerge through **consistent practice** applying Standards to Elements. This developmental relationship explains how technical analytical skills transform into character virtues.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Paul-Elder Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Paul-Elder Framework]]",
+        "line_number": 949,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Critical Thinking Foundations**: The Elements represent the core component of the [[Paul-Elder Framework]], working in conjunction with [[Intellectual Standards]] and [[Intellectual Traits]]. They provide the anatomical structure that Standards evaluate and Traits develop through practice.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Intellectual Standards",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual Standards]]",
+        "line_number": 949,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Critical Thinking Foundations**: The Elements represent the core component of the [[Paul-Elder Framework]], working in conjunction with [[Intellectual Standards]] and [[Intellectual Traits]]. They provide the anatomical structure that Standards evaluate and Traits develop through practice.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Intellectual Traits",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual Traits]]",
+        "line_number": 949,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Critical Thinking Foundations**: The Elements represent the core component of the [[Paul-Elder Framework]], working in conjunction with [[Intellectual Standards]] and [[Intellectual Traits]]. They provide the anatomical structure that Standards evaluate and Traits develop through practice.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Argument Analysis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Argument Analysis]]",
+        "line_number": 951,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Logic and Argumentation**: Element analysis directly supports [[Argument Analysis]], [[Premise-Conclusion Structure]], [[Validity and Soundness]], and [[Informal Fallacies]]. Many fallacies are element failures—hasty generalization fails at Information sufficiency, ad hominem fails at relevance to the Question at Issue, false cause fails in Inference logic.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Premise-Conclusion Structure",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Premise-Conclusion Structure]]",
+        "line_number": 951,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Logic and Argumentation**: Element analysis directly supports [[Argument Analysis]], [[Premise-Conclusion Structure]], [[Validity and Soundness]], and [[Informal Fallacies]]. Many fallacies are element failures—hasty generalization fails at Information sufficiency, ad hominem fails at relevance to the Question at Issue, false cause fails in Inference logic.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Validity and Soundness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Validity and Soundness]]",
+        "line_number": 951,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Logic and Argumentation**: Element analysis directly supports [[Argument Analysis]], [[Premise-Conclusion Structure]], [[Validity and Soundness]], and [[Informal Fallacies]]. Many fallacies are element failures—hasty generalization fails at Information sufficiency, ad hominem fails at relevance to the Question at Issue, false cause fails in Inference logic.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Informal Fallacies",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Informal Fallacies]]",
+        "line_number": 951,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Logic and Argumentation**: Element analysis directly supports [[Argument Analysis]], [[Premise-Conclusion Structure]], [[Validity and Soundness]], and [[Informal Fallacies]]. Many fallacies are element failures—hasty generalization fails at Information sufficiency, ad hominem fails at relevance to the Question at Issue, false cause fails in Inference logic.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemology]]",
+        "line_number": 953,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified True Belief]], [[Sources of Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Justified True Belief",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Justified True Belief]]",
+        "line_number": 953,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified True Belief]], [[Sources of Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Sources of Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Sources of Knowledge]]",
+        "line_number": 953,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified True Belief]], [[Sources of Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Skepticism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Skepticism]]",
+        "line_number": 953,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Epistemology**: The Information and Inference elements connect to [[Epistemology]], [[Justified True Belief]], [[Sources of Knowledge]], and [[Skepticism]]. Questions about what counts as reliable information and warranted inference are fundamentally epistemological.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Metacognitive Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Monitoring]]",
+        "line_number": 955,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Metacognition**: The Elements provide a framework for [[Metacognitive Monitoring]], [[Self-Regulated Learning]], and [[Reflective Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated Learning]]",
+        "line_number": 955,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Metacognition**: The Elements provide a framework for [[Metacognitive Monitoring]], [[Self-Regulated Learning]], and [[Reflective Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Reflective Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflective Practice]]",
+        "line_number": 955,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Metacognition**: The Elements provide a framework for [[Metacognitive Monitoring]], [[Self-Regulated Learning]], and [[Reflective Practice]]. Using elements to analyze your own thinking exemplifies metacognition—thinking about thinking.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Scientific Method",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Scientific Method]]",
+        "line_number": 957,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Scientific Reasoning**: Element analysis illuminates [[Scientific Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Hypothesis Testing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Hypothesis Testing]]",
+        "line_number": 957,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Scientific Reasoning**: Element analysis illuminates [[Scientific Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Experimental Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Experimental Design]]",
+        "line_number": 957,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Scientific Reasoning**: Element analysis illuminates [[Scientific Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Theory Construction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Theory Construction]]",
+        "line_number": 957,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Scientific Reasoning**: Element analysis illuminates [[Scientific Method]], [[Hypothesis Testing]], [[Experimental Design]], and [[Theory Construction]]. Scientific reasoning explicitly operationalizes the Elements—hypotheses frame Questions, experiments gather Information, results support Inferences, theories provide Concepts.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Ethical Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ethical Reasoning]]",
+        "line_number": 959,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Ethical Reasoning**: The Purpose, Implications, and Point of View elements are central to [[Ethical Reasoning]], [[Moral Philosophy]], and [[Applied Ethics]]. Ethical analysis requires clarifying purposes (what outcomes do we seek?), tracing implications (what consequences follow?), and considering perspectives (whose viewpoint matters?).",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Moral Philosophy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Moral Philosophy]]",
+        "line_number": 959,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Ethical Reasoning**: The Purpose, Implications, and Point of View elements are central to [[Ethical Reasoning]], [[Moral Philosophy]], and [[Applied Ethics]]. Ethical analysis requires clarifying purposes (what outcomes do we seek?), tracing implications (what consequences follow?), and considering perspectives (whose viewpoint matters?).",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Applied Ethics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Applied Ethics]]",
+        "line_number": 959,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Ethical Reasoning**: The Purpose, Implications, and Point of View elements are central to [[Ethical Reasoning]], [[Moral Philosophy]], and [[Applied Ethics]]. Ethical analysis requires clarifying purposes (what outcomes do we seek?), tracing implications (what consequences follow?), and considering perspectives (whose viewpoint matters?).",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Hermeneutics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Hermeneutics]]",
+        "line_number": 961,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual Analysis]], and [[Historical Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Textual Analysis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Textual Analysis]]",
+        "line_number": 961,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual Analysis]], and [[Historical Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Historical Interpretation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Historical Interpretation]]",
+        "line_number": 961,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Hermeneutics**: The Interpretation element connects to [[Hermeneutics]], [[Textual Analysis]], and [[Historical Interpretation]]. Understanding that interpretation involves applying conceptual frameworks to information illuminates interpretive methodology.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Cognitive Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Psychology]]",
+        "line_number": 963,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Cognitive Psychology**: The Elements align with findings in [[Cognitive Psychology]], [[Heuristics and Biases]], [[Decision Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Heuristics and Biases",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Heuristics and Biases]]",
+        "line_number": 963,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Cognitive Psychology**: The Elements align with findings in [[Cognitive Psychology]], [[Heuristics and Biases]], [[Decision Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Decision Making",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Decision Making]]",
+        "line_number": 963,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Cognitive Psychology**: The Elements align with findings in [[Cognitive Psychology]], [[Heuristics and Biases]], [[Decision Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Judgment Under Uncertainty",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Judgment Under Uncertainty]]",
+        "line_number": 963,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Cognitive Psychology**: The Elements align with findings in [[Cognitive Psychology]], [[Heuristics and Biases]], [[Decision Making]], and [[Judgment Under Uncertainty]]. Many documented biases represent element failures—confirmation bias affects Information gathering, anchoring affects Inference, framing effects operate through Point of View.",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Academic Writing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Academic Writing]]",
+        "line_number": 965,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Academic Writing**: Element analysis directly supports [[Academic Writing]], [[Thesis Development]], [[Evidence-Based Argumentation]], and [[Literature Review Methodology]]. Each academic paper should have clear Purpose, address specific Questions, marshal relevant Information, draw warranted Inferences, define key Concepts, acknowledge Assumptions, trace Implications, and situate arguments within scholarly conversations (Point of View).",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Thesis Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Thesis Development]]",
+        "line_number": 965,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Academic Writing**: Element analysis directly supports [[Academic Writing]], [[Thesis Development]], [[Evidence-Based Argumentation]], and [[Literature Review Methodology]]. Each academic paper should have clear Purpose, address specific Questions, marshal relevant Information, draw warranted Inferences, define key Concepts, acknowledge Assumptions, trace Implications, and situate arguments within scholarly conversations (Point of View).",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Evidence-Based Argumentation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Evidence-Based Argumentation]]",
+        "line_number": 965,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Academic Writing**: Element analysis directly supports [[Academic Writing]], [[Thesis Development]], [[Evidence-Based Argumentation]], and [[Literature Review Methodology]]. Each academic paper should have clear Purpose, address specific Questions, marshal relevant Information, draw warranted Inferences, define key Concepts, acknowledge Assumptions, trace Implications, and situate arguments within scholarly conversations (Point of View).",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Literature Review Methodology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Literature Review Methodology]]",
+        "line_number": 965,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Academic Writing**: Element analysis directly supports [[Academic Writing]], [[Thesis Development]], [[Evidence-Based Argumentation]], and [[Literature Review Methodology]]. Each academic paper should have clear Purpose, address specific Questions, marshal relevant Information, draw warranted Inferences, define key Concepts, acknowledge Assumptions, trace Implications, and situate arguments within scholarly conversations (Point of View).",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Socratic Method",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socratic Method]]",
+        "line_number": 967,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Socratic Questioning**: The Elements provide the structure for [[Socratic Method]], [[Probing Questions]], and [[Dialectical Reasoning]]. Socratic questions target specific elements—\"What is your purpose?\" \"What evidence supports that?\" \"What assumptions does that presuppose?\" \"What implications follow?\"",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Probing Questions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Probing Questions]]",
+        "line_number": 967,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Socratic Questioning**: The Elements provide the structure for [[Socratic Method]], [[Probing Questions]], and [[Dialectical Reasoning]]. Socratic questions target specific elements—\"What is your purpose?\" \"What evidence supports that?\" \"What assumptions does that presuppose?\" \"What implications follow?\"",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Dialectical Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dialectical Reasoning]]",
+        "line_number": 967,
+        "section": "📚 Connections and Links",
+        "context_line": "> **Socratic Questioning**: The Elements provide the structure for [[Socratic Method]], [[Probing Questions]], and [[Dialectical Reasoning]]. Socratic questions target specific elements—\"What is your purpose?\" \"What evidence supports that?\" \"What assumptions does that presuppose?\" \"What implications follow?\"",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Intellectual Standards - Universal Criteria for Reasoning Quality",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual Standards - Universal Criteria for Reasoning Quality]]",
+        "line_number": 1041,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Intellectual Standards - Universal Criteria for Reasoning Quality]]**",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Intellectual Traits - Virtues of the Critical Thinker",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual Traits - Virtues of the Critical Thinker]]",
+        "line_number": 1046,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Intellectual Traits - Virtues of the Critical Thinker]]**",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Socratic Questioning - Disciplined Interrogation of Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socratic Questioning - Disciplined Interrogation of Thinking]]",
+        "line_number": 1051,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Socratic Questioning - Disciplined Interrogation of Thinking]]**",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "Cognitive Biases and Element Failures - Psychology of Reasoning Errors",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]]",
+        "line_number": 1056,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]]**",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "target": "MOC - Paul-Elder Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[MOC - Paul-Elder Framework]]",
+        "line_number": 1064,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "*This reference note provides comprehensive foundation for analyzing reasoning using the Elements of Thought. Create atomic notes for each individual element and begin building your [[MOC - Paul-Elder Framework]] to integrate this material with Intellectual Standards, Intellectual Traits, and application methodologies.*",
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Purpose",
+        "value": "is the aim, goal, or objective that drives thinking.",
+        "format": "bracket",
+        "line_number": 269,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Clarifying purpose",
+        "value": "represents the essential first step in analyzing any reasoning process—your own or others'.",
+        "format": "bracket",
+        "line_number": 273,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Purpose confusion",
+        "value": "occurs when the thinker lacks a clearly defined goal, leading to unfocused wandering rather than directed inquiry.",
+        "format": "bracket",
+        "line_number": 294,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Purpose substitution",
+        "value": "happens when an initial worthwhile purpose gets replaced mid-stream by a trivial or distracting purpose",
+        "format": "bracket",
+        "line_number": 294,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Hidden purposes",
+        "value": "undermine intellectual honesty when unstated agendas (protecting ego, winning arguments, maintaining comfortable beliefs) drive reasoning that claims different explicit purposes.",
+        "format": "bracket",
+        "line_number": 294,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Conflicting purposes",
+        "value": "create logical incoherence when a single reasoning process attempts to serve incompatible ends simultaneously—trying both to pursue truth and to avoid uncomfortable conclusions.",
+        "format": "bracket",
+        "line_number": 294,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Question at Issue",
+        "value": "is the specific problem, question, or issue that the thinking addresses.",
+        "format": "bracket",
+        "line_number": 303,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Simple factual questions",
+        "value": "(\"What is the boiling point of water?\") admit straightforward empirical answers.",
+        "format": "bracket",
+        "line_number": 310,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Conceptual questions",
+        "value": "(\"What is justice?\") require definitional analysis and theoretical interpretation.",
+        "format": "bracket",
+        "line_number": 310,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Evaluative questions",
+        "value": "(\"Is this policy just?\") demand application of criteria and value judgments.",
+        "format": "bracket",
+        "line_number": 310,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Complex synthetic questions",
+        "value": "(\"How can we create a more just society?\") integrate multiple question types and resist simple answers.",
+        "format": "bracket",
+        "line_number": 310,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Identification Questions",
+        "value": "*What is the key question I am addressing? Is this question the central question, or is it peripheral? Am I addressing multiple questions that should be separated? Am I treating a complex question as if it were simple?*",
+        "format": "bracket",
+        "line_number": 326,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Clarity Questions",
+        "value": "*Is my question clear and precisely stated? Could someone else understand exactly what I'm asking? Does my question use ambiguous terms that need definition?*",
+        "format": "bracket",
+        "line_number": 328,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Complexity Questions",
+        "value": "*Is this question purely factual, conceptual, evaluative, or some combination? What type of answer does this question require—empirical evidence, logical analysis, value judgment? Have I broken a complex question into component questions?*",
+        "format": "bracket",
+        "line_number": 330,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Bias Questions",
+        "value": "*Is my question loaded or slanted toward a particular answer? Does my question contain hidden assumptions? Am I asking a genuine open question, or merely a rhetorical one?*",
+        "format": "bracket",
+        "line_number": 332,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Question vagueness",
+        "value": "plagues much reasoning. When the question remains fuzzy and ill-defined, thinking wanders without clear direction.",
+        "format": "bracket",
+        "line_number": 336,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Question substitution",
+        "value": "occurs when reasoning addresses an easier question instead of the actual question at issue.",
+        "format": "bracket",
+        "line_number": 338,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Loaded questions",
+        "value": "embed assumptions or biases that prejudge the answer.",
+        "format": "bracket",
+        "line_number": 340,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Dichotomous framing",
+        "value": "presents false either/or questions when reality contains additional options.",
+        "format": "bracket",
+        "line_number": 342,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Information",
+        "value": "comprises the facts, data, observations, experiences, and evidence used as the raw material for reasoning.",
+        "format": "bracket",
+        "line_number": 351,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Raw sensory data",
+        "value": "(temperature readings, visual observations) represents the most concrete form.",
+        "format": "bracket",
+        "line_number": 353,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Reported facts",
+        "value": "(historical records, scientific measurements) add a layer of interpretation.",
+        "format": "bracket",
+        "line_number": 353,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Testimonial evidence",
+        "value": "(eyewitness accounts, expert opinions) introduces human judgment.",
+        "format": "bracket",
+        "line_number": 353,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Statistical summaries",
+        "value": "(averages, correlations, trends) aggregate individual data points.",
+        "format": "bracket",
+        "line_number": 353,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Theoretical claims",
+        "value": "(scientific laws, economic principles) abstract from empirical particulars to general patterns.",
+        "format": "bracket",
+        "line_number": 353,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Information",
+        "value": "(what we observe, what is given)",
+        "format": "bracket",
+        "line_number": 356,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "inference",
+        "value": "(what we conclude, what we interpret).",
+        "format": "bracket",
+        "line_number": 356,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Identification Questions",
+        "value": "*What information am I using to address this question? What information do I need that I don't yet have? Is my information primarily empirical, testimonial, statistical, or theoretical?*",
+        "format": "bracket",
+        "line_number": 364,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Quality Questions",
+        "value": "*Is my information accurate? How can I verify it? Is my information relevant to the question at issue? Is my information sufficient to support strong conclusions, or do I need more? Is my information biased or one-sided? Have I sought information that challenges my preferred conclusions?*",
+        "format": "bracket",
+        "line_number": 366,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Source Questions",
+        "value": "*Where does this information come from? Is the source credible and reliable? Does the source have biases or conflicts of interest? Am I relying on multiple independent sources or a single source?*",
+        "format": "bracket",
+        "line_number": 368,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Completeness Questions",
+        "value": "*Have I considered all relevant information? What information might I be ignoring or overlooking? Am I aware of contradictory information? Have I examined information that challenges my position?*",
+        "format": "bracket",
+        "line_number": 370,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Information insufficiency",
+        "value": "occurs when reasoning proceeds on inadequate data.",
+        "format": "bracket",
+        "line_number": 387,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Information bias",
+        "value": "results from selective gathering or attention.",
+        "format": "bracket",
+        "line_number": 389,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Confirmation bias",
+        "value": "leads to seeking information supporting preexisting beliefs while avoiding contradictory data.",
+        "format": "bracket",
+        "line_number": 389,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Information confusion",
+        "value": "involves mistaking inference for observation, treating opinions as facts, or accepting unreliable sources as authoritative.",
+        "format": "bracket",
+        "line_number": 391,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Information overload",
+        "value": "can paradoxically produce reasoning failures when excessive data prevents synthesis and pattern recognition.",
+        "format": "bracket",
+        "line_number": 393,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Inference",
+        "value": "is the intellectual act of drawing conclusions from information and reasoning.",
+        "format": "bracket",
+        "line_number": 402,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Interpretation",
+        "value": "is the process of making sense of information by placing it within conceptual frameworks.",
+        "format": "bracket",
+        "line_number": 402,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Valid inferences",
+        "value": "follow logically from their premises.",
+        "format": "bracket",
+        "line_number": 404,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Strong inferences",
+        "value": "rest on sufficient evidence.",
+        "format": "bracket",
+        "line_number": 404,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Weak inferences",
+        "value": "leap beyond what the evidence supports.",
+        "format": "bracket",
+        "line_number": 404,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Invalid inferences",
+        "value": "simply do not follow from their premises.",
+        "format": "bracket",
+        "line_number": 404,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Chains of Inferences",
+        "value": "where each conclusion becomes a premise for subsequent reasoning.",
+        "format": "bracket",
+        "line_number": 407,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Identification Questions",
+        "value": "*What conclusions am I drawing? What am I inferring from this information? How am I interpreting this data? What alternative interpretations exist?*",
+        "format": "bracket",
+        "line_number": 426,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Logical Questions",
+        "value": "*Do my conclusions follow logically from my information? Is my inference valid? Have I made logical leaps? Could someone reach different conclusions from the same information?*",
+        "format": "bracket",
+        "line_number": 428,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Strength Questions",
+        "value": "*Is my inference strong or weak? Do I have sufficient information to support strong conclusions? Am I inferring beyond what my evidence warrants? Where am I most uncertain in my reasoning?*",
+        "format": "bracket",
+        "line_number": 430,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Alternative Questions",
+        "value": "*What alternative inferences could be drawn from this information? Have I considered competing interpretations? Why is my interpretation superior to alternatives? What would it take to change my interpretation?*",
+        "format": "bracket",
+        "line_number": 432,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Hasty generalization",
+        "value": "involves inferring general conclusions from insufficient particular cases. Observing a few instances and concluding \"all X are Y\" represents this error. The inference leaps beyond what the evidence supports.",
+        "format": "bracket",
+        "line_number": 436,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "False cause",
+        "value": "confuses correlation with causation or mistakes temporal sequence for causal relation. \"A occurred before B, therefore A caused B\" (post hoc fallacy) exemplifies this failure. Valid causal inference requires more than temporal correlation.",
+        "format": "bracket",
+        "line_number": 438,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Interpretation bias",
+        "value": "occurs when conceptual frameworks distort understanding of information. Seeing data through strongly ideological lenses leads to interpreting ambiguous information in ways confirming preferred conclusions. The same facts receive radically different interpretations depending on the interpreter's framework.",
+        "format": "bracket",
+        "line_number": 440,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Inference confusion",
+        "value": "involves treating weak inferences as if they were certain conclusions or failing to recognize that conclusions are inferences at all. When someone presents an interpretation as if it were simple observation—\"He is lying\" rather than \"I infer from his behavior that he is lying\"—they commit this error.",
+        "format": "bracket",
+        "line_number": 442,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "field_name": "Inference chains",
+        "value": "commonly break down when intermediate steps go unexamined. A person might hold a strong conviction but cannot trace the inferential path from evidence to conclusion—they \"just know\" without understanding how they know. Disciplined reasoning requires ability to articulate each inferential step.",
+        "format": "bracket",
+        "line_number": 444,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "critical-thinking",
+        "full_tag": "#critical-thinking",
+        "hierarchy": [
+          "critical-thinking"
+        ],
+        "line_number": 95,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "paul-elder",
+        "full_tag": "#paul-elder",
+        "hierarchy": [
+          "paul-elder"
+        ],
+        "line_number": 95,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "reasoning-framework",
+        "full_tag": "#reasoning-framework",
+        "hierarchy": [
+          "reasoning-framework"
+        ],
+        "line_number": 95,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "elements-of-thought",
+        "full_tag": "#elements-of-thought",
+        "hierarchy": [
+          "elements-of-thought"
+        ],
+        "line_number": 95,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 95,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "critical-thinking",
+        "full_tag": "#critical-thinking",
+        "hierarchy": [
+          "critical-thinking"
+        ],
+        "line_number": 150,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "paul-elder",
+        "full_tag": "#paul-elder",
+        "hierarchy": [
+          "paul-elder"
+        ],
+        "line_number": 150,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "reasoning-framework",
+        "full_tag": "#reasoning-framework",
+        "hierarchy": [
+          "reasoning-framework"
+        ],
+        "line_number": 150,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "elements-of-thought",
+        "full_tag": "#elements-of-thought",
+        "hierarchy": [
+          "elements-of-thought"
+        ],
+        "line_number": 151,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 152,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "analytical-thinking",
+        "full_tag": "#analytical-thinking",
+        "hierarchy": [
+          "analytical-thinking"
+        ],
+        "line_number": 152,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff6e00",
+        "full_tag": "#ff6e00",
+        "hierarchy": [
+          "ff6e00"
+        ],
+        "line_number": 252,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff6e00",
+        "full_tag": "#ff6e00",
+        "hierarchy": [
+          "ff6e00"
+        ],
+        "line_number": 252,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 254,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 256,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 271,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 280,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 281,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 287,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 290,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 290,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 294,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 308,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 310,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 312,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 338,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 358,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff6e00",
+        "full_tag": "#ff6e00",
+        "hierarchy": [
+          "ff6e00"
+        ],
+        "line_number": 377,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 379,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "tag": "ff0075",
+        "full_tag": "#ff0075",
+        "hierarchy": [
+          "ff0075"
+        ],
+        "line_number": 381,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "The Elements of Thought: Fundamental Structures of Reasoning",
+        "anchor": "the-elements-of-thought-fundamental-structures-of-reasoning",
+        "line_number": 142,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 1,
+        "text": "🧠 The Elements of Thought: Fundamental Structures of Reasoning",
+        "anchor": "the-elements-of-thought-fundamental-structures-of-reasoning",
+        "line_number": 181,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 2,
+        "text": "📖 Extracted Definitions",
+        "anchor": "extracted-definitions",
+        "line_number": 186,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Introduction: The Architecture of Reasoning",
+        "anchor": "introduction-the-architecture-of-reasoning",
+        "line_number": 222,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "The Universality of Thought Structures",
+        "anchor": "the-universality-of-thought-structures",
+        "line_number": 224,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "Why Exactly Eight Elements?",
+        "anchor": "why-exactly-eight-elements",
+        "line_number": 233,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "Integration Within the Paul-Elder Framework",
+        "anchor": "integration-within-the-paul-elder-framework",
+        "line_number": 243,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 2,
+        "text": "📋 The Eight Elements of Thought: Comprehensive Analysis",
+        "anchor": "the-eight-elements-of-thought-comprehensive-analysis",
+        "line_number": 262,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "1. Purpose 🎯",
+        "anchor": "1-purpose",
+        "line_number": 266,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Common Failures in Purpose",
+        "anchor": "common-failures-in-purpose",
+        "line_number": 292,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "2. Question at Issue ❓",
+        "anchor": "2-question-at-issue",
+        "line_number": 300,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Critical Questions for Identifying and Evaluating Questions",
+        "anchor": "critical-questions-for-identifying-and-evaluating-questions",
+        "line_number": 322,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Common Failures in Questions",
+        "anchor": "common-failures-in-questions",
+        "line_number": 334,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "3. Information 📊",
+        "anchor": "3-information",
+        "line_number": 348,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Critical Questions for Evaluating Information",
+        "anchor": "critical-questions-for-evaluating-information",
+        "line_number": 360,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Common Failures in Information Handling",
+        "anchor": "common-failures-in-information-handling",
+        "line_number": 385,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "4. Interpretation and Inference 🔍",
+        "anchor": "4-interpretation-and-inference",
+        "line_number": 399,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Critical Questions for Evaluating Inferences",
+        "anchor": "critical-questions-for-evaluating-inferences",
+        "line_number": 422,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Common Failures in Inference",
+        "anchor": "common-failures-in-inference",
+        "line_number": 434,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "5. Concepts 💡",
+        "anchor": "5-concepts",
+        "line_number": 450,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Critical Questions for Evaluating Concepts",
+        "anchor": "critical-questions-for-evaluating-concepts",
+        "line_number": 475,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Common Failures in Conceptual Reasoning",
+        "anchor": "common-failures-in-conceptual-reasoning",
+        "line_number": 487,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "6. Assumptions 🔒",
+        "anchor": "6-assumptions",
+        "line_number": 501,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Critical Questions for Uncovering Assumptions",
+        "anchor": "critical-questions-for-uncovering-assumptions",
+        "line_number": 531,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Common Failures Involving Assumptions",
+        "anchor": "common-failures-involving-assumptions",
+        "line_number": 543,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "7. Implications and Consequences ⚡",
+        "anchor": "7-implications-and-consequences",
+        "line_number": 559,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Critical Questions for Tracing Implications and Consequences",
+        "anchor": "critical-questions-for-tracing-implications-and-consequences",
+        "line_number": 580,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Common Failures in Examining Implications",
+        "anchor": "common-failures-in-examining-implications",
+        "line_number": 592,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "8. Point of View 👁️",
+        "anchor": "8-point-of-view",
+        "line_number": 608,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Critical Questions for Examining Point of View",
+        "anchor": "critical-questions-for-examining-point-of-view",
+        "line_number": 633,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 4,
+        "text": "Common Failures Involving Point of View",
+        "anchor": "common-failures-involving-point-of-view",
+        "line_number": 645,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 The Interrelationships: How Elements Form a System",
+        "anchor": "the-interrelationships-how-elements-form-a-system",
+        "line_number": 661,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "The Non-Linear Nature of Element Relationships",
+        "anchor": "the-non-linear-nature-of-element-relationships",
+        "line_number": 663,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "Core Systemic Relationships",
+        "anchor": "core-systemic-relationships",
+        "line_number": 670,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "Visual Representation: The Elements Wheel",
+        "anchor": "visual-representation-the-elements-wheel",
+        "line_number": 684,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "Practical Implications of Systemic Understanding",
+        "anchor": "practical-implications-of-systemic-understanding",
+        "line_number": 725,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 2,
+        "text": "🎓 Analytical Framework: Applying the Elements",
+        "anchor": "analytical-framework-applying-the-elements",
+        "line_number": 737,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "Systematic Element-Based Analysis: A General Protocol",
+        "anchor": "systematic-element-based-analysis-a-general-protocol",
+        "line_number": 739,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "Application Example 1: Analyzing a Policy Argument",
+        "anchor": "application-example-1-analyzing-a-policy-argument",
+        "line_number": 775,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "Application Example 2: Analyzing Your Own Thinking",
+        "anchor": "application-example-2-analyzing-your-own-thinking",
+        "line_number": 801,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 2,
+        "text": "🛠️ Practical Tools and Templates",
+        "anchor": "practical-tools-and-templates",
+        "line_number": 829,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "The Elements of Thought Analysis Checklist",
+        "anchor": "the-elements-of-thought-analysis-checklist",
+        "line_number": 831,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "Self-Assessment Template for Personal Reasoning",
+        "anchor": "self-assessment-template-for-personal-reasoning",
+        "line_number": 852,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "Comparative Analysis Template",
+        "anchor": "comparative-analysis-template",
+        "line_number": 872,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Integration With the Broader Paul-Elder Framework",
+        "anchor": "integration-with-the-broader-paul-elder-framework",
+        "line_number": 891,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "How Elements Relate to Intellectual Standards",
+        "anchor": "how-elements-relate-to-intellectual-standards",
+        "line_number": 893,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "How Elements Develop Intellectual Traits",
+        "anchor": "how-elements-develop-intellectual-traits",
+        "line_number": 919,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 2,
+        "text": "📚 Connections and Links",
+        "anchor": "connections-and-links",
+        "line_number": 943,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 Synthesis & Reflection",
+        "anchor": "synthesis-reflection",
+        "line_number": 971,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "The Transformative Power of Element Mastery",
+        "anchor": "the-transformative-power-of-element-mastery",
+        "line_number": 973,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "The Elements and Intellectual Autonomy",
+        "anchor": "the-elements-and-intellectual-autonomy",
+        "line_number": 984,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 3,
+        "text": "Moving Forward: From Learning to Application",
+        "anchor": "moving-forward-from-learning-to-application",
+        "line_number": 992,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 2,
+        "text": "📚 References & Resources",
+        "anchor": "references-resources",
+        "line_number": 1012,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 1039,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "> // SYSTEM: Semantic Bridge Engine\n> // PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\n> const current = dv.current();\n> const myOutlinks = current.file.outlinks.map(l => l.path);\n> \n> // 1. Filter the Vault\n> const siblings = dv.pages()\n>     .where(p => p.file.path !== current.file.path) // Exclude self\n>     .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n>     .map(p => {\n>         // Find overlap between this page's links and the current page's links\n>         const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n>         return { \n>             link: p.file.link, \n>             sharedCount: shared.length, \n>             sharedLinks: shared \n>         };\n>     })\n>     .where(p => p.sharedCount > 0) // Must share at least 1 connection\n>     .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n>     .limit(5); // Only show top 5\n> \n> // 2. Render the Bridge\n> if (siblings.length > 0) {\n>     dv.header(3, \"Semantic Bridges (Missing Connections)\");\n>     dv.table(\n>         [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n>         siblings.map(s => [\n>             s.link, \n>             \"🔗\" + s.sharedCount, \n>             s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n>         ])\n>     );\n> } else {\n>     dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n> }\n>",
+        "line_start": 64,
+        "line_end": 101,
+        "char_count": 1461,
+        "line_count": 37,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TABLE type, maturity, confidence\n> FROM  \"\"\n> WHERE  type = \"report\"\n> SORT \"maturity\" DESC\n> LIMIT 15\n>",
+        "line_start": 104,
+        "line_end": 110,
+        "char_count": 106,
+        "line_count": 6,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TABLE \n>     source AS \"Source Type\",\n>     file.ctime AS \"Date Added\"\n> FROM \"\"\n> WHERE source = \"claude-sonnet-4.5\"\n> SORT file.ctime DESC\n> LIMIT 10\n>",
+        "line_start": 112,
+        "line_end": 120,
+        "char_count": 155,
+        "line_count": 8,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TABLE \n>     type AS \"Type\",\n>     maturity AS \"Maturity\",\n>     length(file.inlinks) AS \"Its Backlinks\",\n>     dateformat(date(created), \"MMM dd, yyyy\") AS \"Created\"\n> FROM [[#]]\n> WHERE file.name != this.file.name\n> SORT length(file.inlinks) DESC\n> LIMIT 20\n>",
+        "line_start": 122,
+        "line_end": 132,
+        "char_count": 263,
+        "line_count": 10,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "const currentFile = dv.current().file;\nconst content = await dv.io.load(currentFile.path);\nconst bracketedFieldRegex = /\\[\\*\\*([^*]+)\\*\\*::\\s*([^\\]]+)\\]/g;\n\nlet definitions = [];\nlet match;\n\nwhile ((match = bracketedFieldRegex.exec(content)) !== null) {\n    definitions.push({\n        key: match[1].trim(),\n        value: match[2].trim()\n    });\n}\n\n// Group by first letter\nconst grouped = {};\ndefinitions.forEach(d => {\n    const firstLetter = d.key[0].toUpperCase();\n    if (!grouped[firstLetter]) grouped[firstLetter] = [];\n    grouped[firstLetter].push(d);\n});\n\n// Display grouped results\nconst sortedLetters = Object.keys(grouped).sort();\n\nfor (let letter of sortedLetters) {\n    dv.header(4, `${letter}`);\n    dv.table(\n        [\"Term\", \"Definition\"],\n        grouped[letter].map(d => [`**${d.key}**`, d.value])\n    );\n}",
+        "line_start": 187,
+        "line_end": 220,
+        "char_count": 826,
+        "line_count": 32,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Element",
+          "Position A",
+          "Position B",
+          "Analysis"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Purpose**",
+            "What A aims to accomplish",
+            "What B aims to accomplish",
+            "Are purposes compatible or fundamentally opposed?"
+          ],
+          [
+            "**Question**",
+            "The question A addresses",
+            "The question B addresses",
+            "Are they actually answering the same question?"
+          ],
+          [
+            "**Information**",
+            "Evidence A uses",
+            "Evidence B uses",
+            "Do they have access to different information, or interpret the same information differently?"
+          ],
+          [
+            "**Inference**",
+            "Conclusions A draws",
+            "Conclusions B draws",
+            "Where do the inferential paths diverge?"
+          ],
+          [
+            "**Concepts**",
+            "Key concepts in A",
+            "Key concepts in B",
+            "Is this a conceptual dispute? Do they define terms differently?"
+          ],
+          [
+            "**Assumptions**",
+            "What A takes for granted",
+            "What B takes for granted",
+            "What background beliefs differ? Is this the real source of disagreement?"
+          ],
+          [
+            "**Implications**",
+            "What follows from A",
+            "What follows from B",
+            "Which set of implications is more acceptable?"
+          ],
+          [
+            "**Point of View**",
+            "A's perspective",
+            "B's perspective",
+            "What does each perspective enable or limit? Can they be reconciled?"
+          ]
+        ],
+        "line_start": 823,
+        "row_count": 8,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      }
+    ],
+    "external_links": [
+      {
+        "display_text": "https://community.criticalthinking.org/wheelOfReason.php",
+        "url": "https://community.criticalthinking.org/wheelOfReason.php",
+        "format": "bare",
+        "line_number": 1020,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "display_text": "https://theelementsofthought.org/",
+        "url": "https://theelementsofthought.org/",
+        "format": "bare",
+        "line_number": 1021,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "display_text": "https://louisville.edu/ideastoaction/about/criticalthinking/framework",
+        "url": "https://louisville.edu/ideastoaction/about/criticalthinking/framework",
+        "format": "bare",
+        "line_number": 1025,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "Purpose",
+        "definition": "is the aim, goal, or objective that drives thinking.",
+        "line_number": 269,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Clarifying purpose",
+        "definition": "represents the essential first step in analyzing any reasoning process—your own or others'.",
+        "line_number": 273,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Purpose confusion",
+        "definition": "occurs when the thinker lacks a clearly defined goal, leading to unfocused wandering rather than directed inquiry.",
+        "line_number": 294,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Purpose substitution",
+        "definition": "happens when an initial worthwhile purpose gets replaced mid-stream by a trivial or distracting purpose",
+        "line_number": 294,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Hidden purposes",
+        "definition": "undermine intellectual honesty when unstated agendas (protecting ego, winning arguments, maintaining comfortable beliefs) drive reasoning that claims different explicit purposes.",
+        "line_number": 294,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Conflicting purposes",
+        "definition": "create logical incoherence when a single reasoning process attempts to serve incompatible ends simultaneously—trying both to pursue truth and to avoid uncomfortable conclusions.",
+        "line_number": 294,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Question at Issue",
+        "definition": "is the specific problem, question, or issue that the thinking addresses.",
+        "line_number": 303,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Simple factual questions",
+        "definition": "(\"What is the boiling point of water?\") admit straightforward empirical answers.",
+        "line_number": 310,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Conceptual questions",
+        "definition": "(\"What is justice?\") require definitional analysis and theoretical interpretation.",
+        "line_number": 310,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Evaluative questions",
+        "definition": "(\"Is this policy just?\") demand application of criteria and value judgments.",
+        "line_number": 310,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Complex synthetic questions",
+        "definition": "(\"How can we create a more just society?\") integrate multiple question types and resist simple answers.",
+        "line_number": 310,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Identification Questions",
+        "definition": "*What is the key question I am addressing? Is this question the central question, or is it peripheral? Am I addressing multiple questions that should be separated? Am I treating a complex question as if it were simple?*",
+        "line_number": 326,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Clarity Questions",
+        "definition": "*Is my question clear and precisely stated? Could someone else understand exactly what I'm asking? Does my question use ambiguous terms that need definition?*",
+        "line_number": 328,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Complexity Questions",
+        "definition": "*Is this question purely factual, conceptual, evaluative, or some combination? What type of answer does this question require—empirical evidence, logical analysis, value judgment? Have I broken a complex question into component questions?*",
+        "line_number": 330,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Bias Questions",
+        "definition": "*Is my question loaded or slanted toward a particular answer? Does my question contain hidden assumptions? Am I asking a genuine open question, or merely a rhetorical one?*",
+        "line_number": 332,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Question vagueness",
+        "definition": "plagues much reasoning. When the question remains fuzzy and ill-defined, thinking wanders without clear direction.",
+        "line_number": 336,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Question substitution",
+        "definition": "occurs when reasoning addresses an easier question instead of the actual question at issue.",
+        "line_number": 338,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Loaded questions",
+        "definition": "embed assumptions or biases that prejudge the answer.",
+        "line_number": 340,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Dichotomous framing",
+        "definition": "presents false either/or questions when reality contains additional options.",
+        "line_number": 342,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Information",
+        "definition": "comprises the facts, data, observations, experiences, and evidence used as the raw material for reasoning.",
+        "line_number": 351,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Raw sensory data",
+        "definition": "(temperature readings, visual observations) represents the most concrete form.",
+        "line_number": 353,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Reported facts",
+        "definition": "(historical records, scientific measurements) add a layer of interpretation.",
+        "line_number": 353,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Testimonial evidence",
+        "definition": "(eyewitness accounts, expert opinions) introduces human judgment.",
+        "line_number": 353,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Statistical summaries",
+        "definition": "(averages, correlations, trends) aggregate individual data points.",
+        "line_number": 353,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Theoretical claims",
+        "definition": "(scientific laws, economic principles) abstract from empirical particulars to general patterns.",
+        "line_number": 353,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Information",
+        "definition": "(what we observe, what is given)",
+        "line_number": 356,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "inference",
+        "definition": "(what we conclude, what we interpret).",
+        "line_number": 356,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Identification Questions",
+        "definition": "*What information am I using to address this question? What information do I need that I don't yet have? Is my information primarily empirical, testimonial, statistical, or theoretical?*",
+        "line_number": 364,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Quality Questions",
+        "definition": "*Is my information accurate? How can I verify it? Is my information relevant to the question at issue? Is my information sufficient to support strong conclusions, or do I need more? Is my information biased or one-sided? Have I sought information that challenges my preferred conclusions?*",
+        "line_number": 366,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Source Questions",
+        "definition": "*Where does this information come from? Is the source credible and reliable? Does the source have biases or conflicts of interest? Am I relying on multiple independent sources or a single source?*",
+        "line_number": 368,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Completeness Questions",
+        "definition": "*Have I considered all relevant information? What information might I be ignoring or overlooking? Am I aware of contradictory information? Have I examined information that challenges my position?*",
+        "line_number": 370,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Information insufficiency",
+        "definition": "occurs when reasoning proceeds on inadequate data.",
+        "line_number": 387,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Information bias",
+        "definition": "results from selective gathering or attention.",
+        "line_number": 389,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Confirmation bias",
+        "definition": "leads to seeking information supporting preexisting beliefs while avoiding contradictory data.",
+        "line_number": 389,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Information confusion",
+        "definition": "involves mistaking inference for observation, treating opinions as facts, or accepting unreliable sources as authoritative.",
+        "line_number": 391,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Information overload",
+        "definition": "can paradoxically produce reasoning failures when excessive data prevents synthesis and pattern recognition.",
+        "line_number": 393,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Inference",
+        "definition": "is the intellectual act of drawing conclusions from information and reasoning.",
+        "line_number": 402,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Interpretation",
+        "definition": "is the process of making sense of information by placing it within conceptual frameworks.",
+        "line_number": 402,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Valid inferences",
+        "definition": "follow logically from their premises.",
+        "line_number": 404,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Strong inferences",
+        "definition": "rest on sufficient evidence.",
+        "line_number": 404,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Weak inferences",
+        "definition": "leap beyond what the evidence supports.",
+        "line_number": 404,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Invalid inferences",
+        "definition": "simply do not follow from their premises.",
+        "line_number": 404,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Chains of Inferences",
+        "definition": "where each conclusion becomes a premise for subsequent reasoning.",
+        "line_number": 407,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Identification Questions",
+        "definition": "*What conclusions am I drawing? What am I inferring from this information? How am I interpreting this data? What alternative interpretations exist?*",
+        "line_number": 426,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Logical Questions",
+        "definition": "*Do my conclusions follow logically from my information? Is my inference valid? Have I made logical leaps? Could someone reach different conclusions from the same information?*",
+        "line_number": 428,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Strength Questions",
+        "definition": "*Is my inference strong or weak? Do I have sufficient information to support strong conclusions? Am I inferring beyond what my evidence warrants? Where am I most uncertain in my reasoning?*",
+        "line_number": 430,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Alternative Questions",
+        "definition": "*What alternative inferences could be drawn from this information? Have I considered competing interpretations? Why is my interpretation superior to alternatives? What would it take to change my interpretation?*",
+        "line_number": 432,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Hasty generalization",
+        "definition": "involves inferring general conclusions from insufficient particular cases. Observing a few instances and concluding \"all X are Y\" represents this error. The inference leaps beyond what the evidence supports.",
+        "line_number": 436,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "False cause",
+        "definition": "confuses correlation with causation or mistakes temporal sequence for causal relation. \"A occurred before B, therefore A caused B\" (post hoc fallacy) exemplifies this failure. Valid causal inference requires more than temporal correlation.",
+        "line_number": 438,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Interpretation bias",
+        "definition": "occurs when conceptual frameworks distort understanding of information. Seeing data through strongly ideological lenses leads to interpreting ambiguous information in ways confirming preferred conclusions. The same facts receive radically different interpretations depending on the interpreter's framework.",
+        "line_number": 440,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Inference confusion",
+        "definition": "involves treating weak inferences as if they were certain conclusions or failing to recognize that conclusions are inferences at all. When someone presents an interpretation as if it were simple observation—\"He is lying\" rather than \"I infer from his behavior that he is lying\"—they commit this error.",
+        "line_number": 442,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "term": "Inference chains",
+        "definition": "commonly break down when intermediate steps go unexamined. A person might hold a strong conviction but cannot trace the inferential path from evidence to conclusion—they \"just know\" without understanding how they know. Disciplined reasoning requires ability to articulate each inferential step.",
+        "line_number": 444,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      }
+    ],
+    "mermaid_diagrams": [
+      {
+        "diagram_code": "graph TB\n    Purpose[\"<b>PURPOSE</b><br/>What am I trying<br/>to accomplish?\"]\n    Question[\"<b>QUESTION</b><br/>What issue am I<br/>addressing?\"]\n    Info[\"<b>INFORMATION</b><br/>What data am I<br/>using?\"]\n    Inference[\"<b>INFERENCE</b><br/>What conclusions<br/>am I drawing?\"]\n    Concepts[\"<b>CONCEPTS</b><br/>What ideas organize<br/>my thinking?\"]\n    Assumptions[\"<b>ASSUMPTIONS</b><br/>What am I taking<br/>for granted?\"]\n    Implications[\"<b>IMPLICATIONS</b><br/>What follows from<br/>my reasoning?\"]\n    POV[\"<b>POINT OF VIEW</b><br/>What perspective<br/>am I taking?\"]\n    \n    Purpose <--> Question\n    Question <--> Info\n    Info <--> Inference\n    Inference <--> Concepts\n    Concepts <--> Assumptions\n    Assumptions <--> POV\n    POV <--> Implications\n    Implications <--> Purpose\n    \n    POV -.influences.-> Purpose\n    POV -.influences.-> Question\n    POV -.influences.-> Info\n    POV -.influences.-> Inference\n    POV -.influences.-> Concepts\n    POV -.influences.-> Assumptions\n    POV -.influences.-> Implications\n    \n    Concepts <-.-> Info\n    Assumptions <-.-> Inference\n    Purpose <-.-> Implications\n    \n    classDef default fill:#e1f5ff,stroke:#0066cc,stroke-width:2px\n    classDef pov fill:#fff3cd,stroke:#ff9800,stroke-width:3px\n    class POV pov",
+        "diagram_type": "graph",
+        "line_start": 686,
+        "line_count": 34,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "diagram_code": "graph LR\n    A[Elements of Thought] --> B[Apply Intellectual Standards]\n    B --> C[Assess Reasoning Quality]\n    C --> D[Identify Strengths and Weaknesses]\n    D --> E[Improve Thinking]\n    \n    style A fill:#e1f5ff,stroke:#0066cc\n    style B fill:#fff3cd,stroke:#ff9800\n    style C fill:#d4edda,stroke:#28a745\n    style D fill:#f8d7da,stroke:#dc3545\n    style E fill:#d1ecf1,stroke:#17a2b8",
+        "diagram_type": "graph",
+        "line_start": 901,
+        "line_count": 11,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      }
+    ],
+    "footnotes": [
+      {
+        "ref_id": "*",
+        "content": null,
+        "type": "reference",
+        "line_number": 190,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "ref_id": "\\",
+        "content": null,
+        "type": "reference",
+        "line_number": 190,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      }
+    ],
+    "color_spans": [
+      {
+        "color_hex": "#7200FF",
+        "text": "Overview",
+        "semantic_role": "Custom (#7200FF)",
+        "line_number": 38,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF6E00",
+        "text": "Purpose functions as the",
+        "semantic_role": "Custom (#FF6E00)",
+        "line_number": 271,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF6E00",
+        "text": "of reasoning.",
+        "semantic_role": "Custom (#FF6E00)",
+        "line_number": 271,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "Without clear purpose, thinking drifts aimlessly",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 271,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "The quality of reasoning depends fundamentally on the quality of its purpose.",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 273,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#7200FF",
+        "text": "A confused purpose produces confused conclusions.",
+        "semantic_role": "Custom (#7200FF)",
+        "line_number": 273,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#7200FF",
+        "text": "A hidden purpose undermines intellectual honesty.",
+        "semantic_role": "Custom (#7200FF)",
+        "line_number": 273,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "Reasoning frequently fails at the level of purpose in several characteristic ways.",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 294,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "When analyzing arguments",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 296,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#7200FF",
+        "text": "whether your own or others'",
+        "semantic_role": "Custom (#7200FF)",
+        "line_number": 296,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "always begin by identifying and evaluating the purpose.",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 296,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#7200FF",
+        "text": "Poor purpose guarantees poor reasoning, regardless of excellence in other elements.",
+        "semantic_role": "Custom (#7200FF)",
+        "line_number": 296,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "Question at Issue establishes *what* you are thinking about.",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 303,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "Different questions can serve the same purpose, and the quality of your thinking depends heavily on",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 305,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "Paul and Elder emphasize that how you frame the question dramatically constrains possible answers.",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 308,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "The question type determines appropriate reasoning strategies.",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 310,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "Vague questions produce vague answers.",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 336,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "\"Why are opponents of policy X so foolish?\"",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 340,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#7200FF",
+        "text": "assumes opposition stems from foolishness rather than legitimate disagreement.",
+        "semantic_role": "Custom (#7200FF)",
+        "line_number": 340,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "The question itself prevents fair-minded inquiry.",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 340,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "Disciplined thinkers carefully distinguish what they *observe* from what they *infer* from observations.",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 358,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "The pressure for quick answers often leads to premature closure—forming",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 387,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF6E00",
+        "text": "moving from premises to conclusions, from data to understanding, from observations to explanations",
+        "semantic_role": "Custom (#FF6E00)",
+        "line_number": 402,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "Every inference involves a logical move",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 404,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      },
+      {
+        "color_hex": "#FF0075",
+        "text": "The quality of this move determines reasoning quality.",
+        "semantic_role": "Custom (#FF0075)",
+        "line_number": 404,
+        "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+      }
+    ],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**[[Intellectual Standards - Universal Criteria for Reasoning Quality]]**",
+          "indent_level": 0,
+          "line_number": 998,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+        },
+        {
+          "text": "**[[Intellectual Traits - Virtues of the Critical Thinker]]**",
+          "indent_level": 0,
+          "line_number": 1004,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+        },
+        {
+          "text": "**[[Socratic Questioning - Disciplined Interrogation of Thinking]]**",
+          "indent_level": 0,
+          "line_number": 1017,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+        },
+        {
+          "text": "**[[Cognitive Biases and Element Failures - Psychology of Reasoning Errors]]**",
+          "indent_level": 0,
+          "line_number": 1023,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "*Connection*: Intellectual Standards provide the evaluative criteria applied to each Element to assess reasoning quality. While Elements answer \"what are the structures of thinking?\", Standards answer \"how do we evaluate each structure's quality?\"",
+          "indent_level": 1,
+          "line_number": 998,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+        },
+        {
+          "text": "*Depth Potential*: Comprehensive treatment of each standard (clarity, accuracy, precision, relevance, depth, breadth, logic, significance, fairness) with application methodology, questions for each standard, and examples showing how standards reveal reasoning strengths and weaknesses.",
+          "indent_level": 1,
+          "line_number": 1000,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Core component of Paul-Elder Framework alongside Elements; forms essential pair where Elements provide analytical structure and Standards provide evaluative criteria. Links to logic, epistemology, and quality assessment.",
+          "indent_level": 1,
+          "line_number": 1000,
+          "source": "cog-psy-fundamental-structures-of-reasoning-202512050320.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Academic Writing",
+      "Analytical Thinking",
+      "Applied Ethics",
+      "Argument Analysis",
+      "Argumentation",
+      "Assumptions",
+      "Cognitive Biases and Element Failures - Psychology of Reasoning Errors",
+      "Cognitive Psychology",
+      "Concepts",
+      "Critical Thinking",
+      "Decision Making",
+      "Dialectical Reasoning",
+      "Epistemology",
+      "Ethical Reasoning",
+      "Evidence-Based Argumentation",
+      "Experimental Design",
+      "Hermeneutics",
+      "Heuristics and Biases",
+      "Historical Interpretation",
+      "Hypothesis Testing",
+      "Implications",
+      "Inference",
+      "Informal Fallacies",
+      "Information",
+      "Intellectual Standards",
+      "Intellectual Standards - Universal Criteria for Reasoning Quality",
+      "Intellectual Traits",
+      "Intellectual Traits - Virtues of the Critical Thinker",
+      "Judgment Under Uncertainty",
+      "Justified True Belief",
+      "Literature Review Methodology",
+      "Logic",
+      "MOC - Paul-Elder Framework",
+      "Metacognition",
+      "Metacognitive Monitoring",
+      "Moral Philosophy",
+      "Paul-Elder Framework",
+      "Point of View",
+      "Premise-Conclusion Structure",
+      "Probing Questions",
+      "Purpose in Reasoning",
+      "Question at Issue",
+      "Reasoning",
+      "Reflective Practice",
+      "Scientific Method",
+      "Self-Regulated Learning",
+      "Skepticism",
+      "Socratic Method",
+      "Socratic Questioning",
+      "Socratic Questioning - Disciplined Interrogation of Thinking",
+      "Sources of Knowledge",
+      "Textual Analysis",
+      "The Elements of Thought: Fundamental Structures of Reasoning",
+      "Theory Construction",
+      "Thesis Development",
+      "Validity and Soundness"
+    ],
+    "unique_wiki_link_count": 56,
+    "unique_tags": [
+      "#analytical-thinking",
+      "#critical-thinking",
+      "#elements-of-thought",
+      "#ff0075",
+      "#ff6e00",
+      "#paul-elder",
+      "#reasoning-framework",
+      "#reference-note"
+    ],
+    "unique_tag_count": 8,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Academic Writing",
+      "Analytical Thinking",
+      "Applied Ethics",
+      "Argument Analysis",
+      "Argumentation",
+      "Assumptions",
+      "Cognitive Biases and Element Failures - Psychology of Reasoning Errors",
+      "Cognitive Psychology",
+      "Concepts",
+      "Critical Thinking",
+      "Decision Making",
+      "Dialectical Reasoning",
+      "Epistemology",
+      "Ethical Reasoning",
+      "Evidence-Based Argumentation",
+      "Experimental Design",
+      "Hermeneutics",
+      "Heuristics and Biases",
+      "Historical Interpretation",
+      "Hypothesis Testing",
+      "Implications",
+      "Inference",
+      "Informal Fallacies",
+      "Information",
+      "Intellectual Standards",
+      "Intellectual Standards - Universal Criteria for Reasoning Quality",
+      "Intellectual Traits",
+      "Intellectual Traits - Virtues of the Critical Thinker",
+      "Judgment Under Uncertainty",
+      "Justified True Belief",
+      "Literature Review Methodology",
+      "Logic",
+      "MOC - Paul-Elder Framework",
+      "Metacognition",
+      "Metacognitive Monitoring",
+      "Moral Philosophy",
+      "Paul-Elder Framework",
+      "Point of View",
+      "Premise-Conclusion Structure",
+      "Probing Questions",
+      "Purpose in Reasoning",
+      "Question at Issue",
+      "Reasoning",
+      "Reflective Practice",
+      "Scientific Method",
+      "Self-Regulated Learning",
+      "Skepticism",
+      "Socratic Method",
+      "Socratic Questioning",
+      "Socratic Questioning - Disciplined Interrogation of Thinking",
+      "Sources of Knowledge",
+      "Textual Analysis",
+      "The Elements of Thought: Fundamental Structures of Reasoning",
+      "Theory Construction",
+      "Thesis Development",
+      "Validity and Soundness"
+    ]
+  }
+}

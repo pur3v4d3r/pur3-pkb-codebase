@@ -1,0 +1,312 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.974011",
+    "source_file": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md",
+    "source_file_size_bytes": 9004,
+    "processing_time_seconds": 0.002
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Written by 🦖Pur3v4d3r for use with RSCA",
+      "id": "20251019220855",
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca",
+        "🦖"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": "⁉️",
+      "created": "2025-10-19T22:08:55",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "⁉️",
+      "tags": [
+        "topic",
+        "topic/educational",
+        "topic/rsca",
+        "source/rsca",
+        "pur3"
+      ]
+    },
+    "word_count": 1371,
+    "character_count": 8648,
+    "line_count": 117,
+    "heading_count": 2
+  },
+  "extraction_summary": {
+    "total_items_extracted": 27,
+    "by_type": {
+      "headings": 2,
+      "callouts": 1,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 9,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 9,
+      "lists_unordered": 6,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Written-by-Pur3v4d3r-for-use-with-RSCA_🆔20251019220827",
+      "anchor": "topicswritten-by-pur3v4d3r-for-use-with-rsca20251019220827",
+      "line_number": 22,
+      "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Topics written by 🦖Pur3v4d3r",
+      "anchor": "topics-written-by-pur3v4d3r",
+      "line_number": 30,
+      "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 24,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md",
+        "char_start": 382,
+        "char_end": 398
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Written-by-Pur3v4d3r-for-use-with-RSCA_🆔20251019220827",
+        "anchor": "topicswritten-by-pur3v4d3r-for-use-with-rsca20251019220827",
+        "line_number": 22,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+      },
+      {
+        "level": 1,
+        "text": "Topics written by 🦖Pur3v4d3r",
+        "anchor": "topics-written-by-pur3v4d3r",
+        "line_number": 30,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "I have recently re-instated my **ChatGPT subscription**, I need to *know all the in and outs of prompting/prompt engineering with ChatGPT* (As I primarily use Gemini, all of my prompts therefor are written for this purpose.) So, I need to know *how to write new prompts for this different platform (ChatGPT)?* That way, when I write a prompt it's written with the **express** purpose of going to a specific model, and not a Gemini prompt re-used with ChatGPT, Etc. **I want my prompts to be the best they can be and for that to happen, I need them to be tuned specifically for each model.**\n\nWhat topics would you recommend for me to start with?",
+        "line_start": 33,
+        "line_end": 37,
+        "char_count": 645,
+        "line_count": 3,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Im working in my PKB in Obsidian, I've noticed that *I'm having a difficult time in processing raw reports/raw information into usable notes.* (I.e., Literature Notes and Evergreen/Atomic/Permanent Notes.) *I want to improve this process/skill*,  **and** *develop my own workflow for this*. However, I need to know **everything** about this stage of the PKM/PKB system in order to do so with the kind of expert level quality I want from this. This is including the psycological (Cognitive Load Theory/Cognitive Off-loading Etc.) and manual processes (the stucture/format of each of the types of notes, what types of information should be in these notes? and how to display that information so that my future self can comprehend what each notes telling me in a reliable and efficient manner.) and techniques as well.\n\nWhat topics would you reccomend for this?",
+        "line_start": 40,
+        "line_end": 44,
+        "char_count": 858,
+        "line_count": 3,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "I would like to develop my *abilities in prompting further*, particularly for **Gemini** and **ChatGPT**, as those are the two platform I use most. *What are the main techniques associated with improving output from LLMs*, particularly in the output I most often find myself generating. Which is **high quality academic reports on many subjects**. I have multiple Gemini Gems and GPTs to facilitate this, and do so daily. So, I am *very* **keen** *on improving the outputs in this area*. How do *expert users usually craft their prompts, what techniques do that employ?* These are the types of questions I keep asking myself.\n\n**What topics** *would you recommend for me to accomplish this goal?* Of, improving my prompting abilities, specifically in the output of high quaility reports, through the use of Gemini, ChatGPT, Gemini Gem's, and GPT's?",
+        "line_start": 47,
+        "line_end": 51,
+        "char_count": 848,
+        "line_count": 3,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Im interested in developing both, my Critical Thinking Skills, and my Critical Problem-Solving Skills, for general day-to-day life, nothing in particular. I would like to learn about these, and, what techniques do experts in this field use to strengthen these abilities, that reliable work. What are the best practices for these activities, and how do you develop the skills needed to accomplish them.\n\nWhat topics would you recommend for this?",
+        "line_start": 54,
+        "line_end": 58,
+        "char_count": 444,
+        "line_count": 3,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Im interested in developing both, my Critical Thinking Skills, and my Critical Problem-Solving Skills, for general day-to-day life, nothing in particular. I would like to learn about these, and, what techniques do experts in this field use to strengthen these abilities, that reliable work. What are the best practices for these activities, and how do you develop the skills needed to accomplish them.\n\nWhat topics would you recommend for this?",
+        "line_start": 61,
+        "line_end": 65,
+        "char_count": 444,
+        "line_count": 3,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Im working on my {{Gemini Gems}}, and I want to learn more about how to build /engineer these to provide better outputs.\n\nAt the moment I use {{Gemini Gems}} for: writing academic, long form, and high quality content for use inside my PKB, in Obsidian. I have customized these {{Gemini Gems}} to produce an output in a specific style. Using Obsidians Markdown for typical syntax and then the use of Callouts and Mermaid.js throughout the articles. I would like to know: *How can I improve upon these, and up my current skill level in crafting detailed, intricate instruction sets for* {{Gemini Gems}}. *What are the current best practices when it comes to Agentic LLM use?* What factor(s) am I missing, that others are potentially doing to there instruction sets? I know about prompt engineering for prompts, and chaining prompts in a sequence, Etc., but I have never done a formal deep dive into engineering Agents.\n\nWhat topics can you come up with to aid me in this endeavour?",
+        "line_start": 75,
+        "line_end": 81,
+        "char_count": 979,
+        "line_count": 5,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Im working in my PKB in Obsidian, I came across something's I want to *explore and educate myself on*. **What topics would you recommend for me?** *They should be based in the PKB/PKM fields*.\n\n*These are the things I want to learn and improve at:*\n\n- **Decision-Making** Tools and models designed to help structure and simplify complex decisions \n- **Analytical Skills**: The ability to deconstruct complex information or problems into smaller, more manageable parts, identify patterns, and understand the relationships between those parts.\n- **Deconstruction**: A method of critical analysis that involves taking apart a concept, belief, or \"text\" to reveal its hidden assumptions, internal contradictions, and underlying power structures.\n- **Metacognition:** The practice of \"thinking about one's thinking.\" This is a crucial skill for effective learning, allowing you to assess what you know what you don't know, and what learning strategies work best for you.\n- **Pedagogy:** The theory and practice of teaching and learning. Understanding different pedagogical models (like Problem-Based Learning, Constructivism, or Direct Instruction) can help in structuring your knowledge more effectively.",
+        "line_start": 84,
+        "line_end": 95,
+        "char_count": 1200,
+        "line_count": 9,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "I've recently heard about **andragogical** (*adult learning*) **theories**, I am *very curious* about the possibilities **between these theories and my PKB system**. I would like to possibly **integrate these** some or all of these theories **into my system**. However, only **IF** they are *reliable and proven methods*. \n\n*I need to educate my self on this subject*, **What topics** would you recommend for me, *based on what I have told you and what you know?*",
+        "line_start": 98,
+        "line_end": 102,
+        "char_count": 463,
+        "line_count": 3,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "I have been working in my personal knowledge base in obsidian, I've come across some terms that I find interesting for my self development.\n- These:\n\t- **Pragmatist philosophy**, **experiential learning models**, **professional artistry**, **motivational psychology**, **constructivist learning theory**, **Stoic Dichotomy of Control**, **Self-Behavioral-Management, Metacognition, Metacognitive Strategies, Metacognitive-Awareness**, **and all the critical thinking skills** (*I'm not sure what there called, I'm adding this from my head*.)\n\nI'm interested in figuring out exactly what these tools can do for me in the way of advancing my self development progression. \nI want to design and implement a system of thought, that will include tools like these, to help me overcome the negatives I face on a daily basis. I need to develop a working theory or an overview of all of these types of tools. So that I can then decide on which of these types of tools and which of these tools is an optimal match for me and my goals. Recommend a set of topics that can help me in developing this overview that I deeply need to achieve my goal.",
+        "line_start": 105,
+        "line_end": 112,
+        "char_count": 1134,
+        "line_count": 6,
+        "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Learning ChatGPT's way of Prompting**",
+          "indent_level": 0,
+          "line_number": 31,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "**Learning about the different types of Notes**",
+          "indent_level": 3,
+          "line_number": 33,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "**Improving my Skills at prompting Gemini and ChatGPT**",
+          "indent_level": 3,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "**Learning Critical Thinking and Critical Problem-Solving**",
+          "indent_level": 3,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "**Learning about Cognitive Load Theory and How to Manage It**",
+          "indent_level": 3,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "Improving my skill at building {{Insert Selection Here}}",
+          "indent_level": 3,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "**Learning About and Improving Myself**",
+          "indent_level": 4,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "*Learning about* **Andragogical** (*Adult Learning*) **theories**",
+          "indent_level": 6,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "Learning about these: **Pragmatist philosophy**, **experiential learning models**, **professional artistry**, **motivational psychology**, and **constructivist learning theory**.",
+          "indent_level": 3,
+          "line_number": 36,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "You can select from the follow to enter in the {{available}} spaces, they are:",
+          "indent_level": 0,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "ChatGPT",
+          "indent_level": 0,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "Gemini",
+          "indent_level": 0,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "GPT's",
+          "indent_level": 0,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "Gemini Gem's",
+          "indent_level": 0,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        },
+        {
+          "text": "and basically any other model you can think of.",
+          "indent_level": 0,
+          "line_number": 34,
+          "source": "topic-set-written-by-🦖pur3v4d3r-for-use-with-rsca-🆔20251019220827.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

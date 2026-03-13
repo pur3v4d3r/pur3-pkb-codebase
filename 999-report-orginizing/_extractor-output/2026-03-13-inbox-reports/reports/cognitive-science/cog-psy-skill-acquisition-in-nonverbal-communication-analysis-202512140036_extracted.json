@@ -1,0 +1,1928 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:17:16.309050",
+    "source_file": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\01-reports\\01-cognitive-science\\cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+    "source_file_size_bytes": 78538,
+    "processing_time_seconds": 0.017
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Nonverbal Analysis Training",
+        "Behavioral Pattern Recognition Expertise"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "type/guide",
+        "status/archived",
+        "artificial-intelligence",
+        "artificial-intelligence",
+        "atomic-notes",
+        "cognitive-science/attention",
+        "active-recall",
+        "ACT-R",
+        "attention",
+        "abductive-reasoning",
+        "aging-cognition"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251214003844",
+      "created": "2025-12-14T00:38:44",
+      "modified": "2025-12-14T00:38:44",
+      "week": "[[2025-W50]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "report",
+      "maturity": "needs-review",
+      "confidence": "speculative",
+      "next-review": "2025-12-21",
+      "review-count": "0",
+      "link-up": [
+        "[[99-archive/05-moc's/cognitive-science-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-14|Daily-Note]]"
+      ]
+    },
+    "word_count": 9013,
+    "character_count": 77490,
+    "line_count": 619,
+    "heading_count": 15
+  },
+  "extraction_summary": {
+    "total_items_extracted": 203,
+    "by_type": {
+      "headings": 15,
+      "callouts": 8,
+      "wiki_links": 33,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 42,
+      "code_blocks": 3,
+      "tables": 0,
+      "external_links": 16,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 2,
+      "color_spans": 67,
+      "lists_ordered": 4,
+      "lists_unordered": 7,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 6
+    }
+  },
+  "document_outline": [
+    {
+      "level": 5,
+      "text": "Skill Acquisition in Nonverbal Communication Analysis",
+      "anchor": "skill-acquisition-in-nonverbal-communication-analysis",
+      "line_number": 335,
+      "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🧠 Skill Acquisition in Nonverbal Communication Analysis",
+      "anchor": "skill-acquisition-in-nonverbal-communication-analysis",
+      "line_number": 373,
+      "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🔬 The Cognitive Architecture of Observational Expertise",
+          "anchor": "the-cognitive-architecture-of-observational-expertise",
+          "line_number": 378,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📊 Deliberate Practice Framework for Observational Skills",
+          "anchor": "deliberate-practice-framework-for-observational-skills",
+          "line_number": 388,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🎯 Perceptual Learning Mechanisms and Training Protocols",
+          "anchor": "perceptual-learning-mechanisms-and-training-protocols",
+          "line_number": 400,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚙️ Feedback Architecture and Corrective Learning Systems",
+          "anchor": "feedback-architecture-and-corrective-learning-systems",
+          "line_number": 412,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🧭 Staged Progression Models and Skill Development Phases",
+          "anchor": "staged-progression-models-and-skill-development-phases",
+          "line_number": 426,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔄 Attentional Mechanisms and Perceptual Differentiation",
+          "anchor": "attentional-mechanisms-and-perceptual-differentiation",
+          "line_number": 442,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📈 Progressive Difficulty Calibration and Adaptive Training",
+          "anchor": "progressive-difficulty-calibration-and-adaptive-training",
+          "line_number": 454,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔬 Neural Plasticity and Cortical Reorganization",
+          "anchor": "neural-plasticity-and-cortical-reorganization",
+          "line_number": 470,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🎓 Evidence-Based Training Recommendations and Implementation Principles",
+          "anchor": "evidence-based-training-recommendations-and-implementation-principles",
+          "line_number": 484,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🌐 Ecological Validity and Transfer Considerations",
+          "anchor": "ecological-validity-and-transfer-considerations",
+          "line_number": 508,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 559,
+      "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "📚 References & Resources",
+      "anchor": "references-resources",
+      "line_number": 583,
+      "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "📖 Extracted Definitions",
+          "anchor": "extracted-definitions",
+          "line_number": 618,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "### <span style='color: #7200ff;'>Overview</span>",
+        "body": "- **Title**: [[Skill Acquisition in Nonverbal Communication Analysis]]\n- **MOC**: `=this.link-up`",
+        "line_number": 38,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+        "char_start": 796,
+        "char_end": 962
+      },
+      {
+        "type": "abstract",
+        "title": "### 🏷️ Tag Intelligence",
+        "body": "**Tag Count**: `= length(this.tags)` | **Unique Domains**: `= length(filter(this.tags, (t) => contains(t, \"/\")))` hierarchical tags\n**Tag Density**: `= choice(length(this.tags) < 3, \"⚠️Sparse\", choice(length(this.tags) > 10, \"📚Rich\", \"✅Balanced\"))`\n> \n> ---\n\n```dataviewjs\n// TAG CO-OCCURRENCE: Find notes sharing the most tags with this note\nconst current = dv.current();\n\n// Safely get tags from current note\nlet myTags = [];\nif (current.tags) {\n    if (Array.isArray(current.tags)) {\n        myTags = current.tags;\n    } else if (typeof current.tags === 'string') {\n        myTags = [current.tags];\n    }\n}\n\nif (myTags.length > 0) {\n    const tagSiblings = dv.pages()\n        .where(p => p.file.path !== current.file.path)\n        .where(p => {\n            // Safely check if page has tags\n            if (!p.tags) return false;\n            // Convert tags to array if needed\n            let pageTags = [];\n            if (Array.isArray(p.tags)) {\n                pageTags = p.tags;\n            } else if (typeof p.tags === 'string') {\n                pageTags = [p.tags];\n            }\n            return pageTags.length > 0;\n        })\n        .map(p => {\n            // Safely convert page tags to array\n            let pageTags = [];\n            if (p.tags) {\n                if (Array.isArray(p.tags)) {\n                    pageTags = p.tags;\n                } else if (typeof p.tags === 'string') {\n                    pageTags = [p.tags];\n                }\n            }\n            \n            // Find shared tags\n            const sharedTags = pageTags.filter(t => {\n                if (typeof t === 'string') {\n                    return myTags.includes(t);\n                } else if (t && typeof t === 'object' && t.path) {\n                    // Handle tag objects\n                    return myTags.some(myTag => {\n                        if (typeof myTag === 'string') {\n                            return myTag === t.path;\n                        }\n                        return false;\n                    });\n                }\n                return false;\n            });\n            \n            return {\n                link: p.file.link,\n                sharedCount: sharedTags.length,\n                sharedTags: sharedTags,\n                totalTags: pageTags.length\n            };\n        })\n        .where(p => p.sharedCount >= 2) // At least 2 shared tags\n        .sort(p => p.sharedCount, \"desc\")\n        .limit(5);\n\n    if (tagSiblings.length > 0) {\n        dv.header(5, \"🏷️ Tag Siblings (Shared Taxonomy)\");\n        dv.table(\n            [\"Note\", \"Overlap\", \"Shared Tags\"],\n            tagSiblings.map(s => {\n                // Safely extract tag names for display\n                let displayTags = s.sharedTags.map(t => {\n                    if (typeof t === 'string') {\n                        return t;\n                    } else if (t && typeof t === 'object' && t.path) {\n                        return t.path;\n                    }\n                    return String(t);\n                });\n                \n                return [\n                    s.link,\n                    s.sharedCount + \"/\" + s.totalTags,\n                    displayTags.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n                ];\n            })\n        );\n    } else {\n        dv.paragraph(\"*No tag siblings with 2+ shared tags found.*\");\n    }\n} else {\n    dv.paragraph(\"*No tags on this note to analyze.*\");\n}\n```",
+        "line_number": 230,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+        "char_start": 8320,
+        "char_end": 12006
+      },
+      {
+        "type": "",
+        "title": "### Claude Thinking",
+        "body": "This is a highly complex, multifaceted request that requires:\n1. **Research Phase**: I need to conduct web research to find current, authoritative sources on:\n   - Nonverbal communication analysis as a skill domain\n   - Deliberate practice frameworks (Ericsson's work)\n   - Perceptual learning in pattern recognition\n   - Expertise development in behavioral analysis\n   - Training methodologies for micro-expression detection, body language reading\n   - Cognitive mechanisms underlying observational skills\n   - Feedback systems in skill acquisition\n2. **Structural Planning**: This needs to be a comprehensive reference note with:\n   - Metadata header (tags + aliases)\n   - Deep theoretical grounding in expertise development\n   - Integration of cognitive science, learning theory, and practical training\n   - Multiple callouts for semantic structure\n   - Extensive wiki-linking\n   - Inline fields for key concepts\n   - Semantic color coding for visual hierarchy\n   - Connected prose (no bullet lists except where absolutely necessary)\n3. **Domain Integration**: This bridges:\n   - Cognitive science (perceptual learning, attention, pattern recognition)\n   - Learning theory (deliberate practice, skill acquisition)\n   - Applied domain (nonverbal communication, behavioral analysis)\n   - Training methodology (feedback design, progression protocols)\n4. **Note Type**: This is clearly a **Reference Note** - comprehensive, exhaustive coverage requiring 2500-4000+ words, 15-40 wiki-links, 8-15 callouts.\nLet me start with research to ensure accuracy and current best practices.\nI'll conduct comprehensive research on skill acquisition in nonverbal communication analysis, then construct an exhaustive reference document integrating cognitive science, deliberate practice theory, and evidence-based training methodologies.Now I have comprehensive research material. Let me construct the exhaustive reference document.",
+        "line_number": 338,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+        "char_start": 12074,
+        "char_end": 14070
+      },
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "This comprehensive examination explores the cognitive mechanisms, training methodologies, and developmental pathways underlying the acquisition of expertise in nonverbal communication analysis—a domain requiring sophisticated [[Perceptual Learning]], refined [[Attentional Control]], and systematic [[Deliberate Practice]]. Drawing from research in [[Cognitive Science]], [[Motor Learning]] theory, and applied training studies in [[Micro-Expression Detection]], this analysis synthesizes evidence-based protocols for transforming novice observers into expert-level pattern recognizers capable of detecting subtle behavioral cues occurring within fractions of a second.",
+        "line_number": 375,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+        "char_start": 14472,
+        "char_end": 15158
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Integration with Existing Cognitive Frameworks**\n\nThis examination of observational skill acquisition connects fundamentally to **[[Working Memory]]** capacity limitations that constrain how many stimulus features novices can simultaneously process during complex discriminations. The development from effortful, serial feature analysis to automatic holistic pattern recognition reflects the transition from working-memory-dependent controlled processing to long-term-memory-supported automatic processing described in **[[ACT-R]]** cognitive architecture models.\n\nThe finding that feedback frequency exhibits an inverted-U relationship with learning outcomes directly parallels **[[Cognitive Load Theory]]** predictions that excessive extrinsic information can overwhelm germane load capacity. Optimal feedback provides sufficient guidance to prevent unproductive floundering while preserving cognitive resources for schema construction and rule induction, exemplifying the theory's distinction between extraneous load (to be minimized) and germane load (to be optimized).\n\n**[[Self-Determination Theory]]**'s competence need satisfaction mechanism explains why adaptive training protocols maintaining challenge at the edge of capability enhance both learning and intrinsic motivation. When task difficulty exceeds skill by an optimal margin, learners experience the competence-building engagement characteristic of flow states, whereas excessive difficulty produces anxiety and insufficient challenge yields boredom—both undermining sustained practice engagement.\n\nThe neural plasticity evidence revealing training-induced reorganization of visual cortex and enhancement of task-relevant sensory representations exemplifies **[[Hebbian Learning]]** principles operating at the systems neuroscience level. Repeated co-activation of specific neural populations representing diagnostic features strengthens their functional coupling, effectively implementing \"neurons that fire together wire together\" at the level of cortical circuits supporting perceptual discrimination.\n\n**[[Metacognition]]** and self-regulated learning frameworks illuminate why self-controlled feedback and explicit error analysis produce superior outcomes relative to passive reception of external evaluation. Expert development requires not only procedural skill acquisition but also the metacognitive monitoring capabilities that enable self-diagnosis of performance errors and strategic adjustment of attention and decision criteria—the hallmark of what Ericsson terms \"effortful engagement\" characteristic of deliberate practice.\n\nThe distinction between knowledge of results and knowledge of performance feedback parallels the contrast between **[[Declarative Knowledge]]** (knowing that a classification is correct) and **[[Procedural Knowledge]]** (knowing how to execute diagnostic perceptual strategies). Optimal training integrates both, building explicit conceptual understanding that gradually procedural",
+        "line_number": 520,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+        "char_start": 62170,
+        "char_end": 65209
+      },
+      {
+        "type": "summary",
+        "title": "Untitled",
+        "body": "**Synthesis of Core Mechanisms and Applied Principles**\n\nThe acquisition of expert-level proficiency in nonverbal communication analysis represents a complex interaction of perceptual learning, attentional refinement, and systematic deliberate practice that transforms the visual system's sensitivity to diagnostic behavioral cues. Research across cognitive science, expertise development, and applied training domains reveals that progression from novice to expert follows a predictable trajectory involving initial establishment of explicit conceptual frameworks, gradual proceduralization of discrimination strategies through practice with corrective feedback, and ultimate achievement of automatic pattern recognition requiring minimal conscious attention.\n\nThe most robust finding across empirical studies indicates that effective training protocols must carefully calibrate task difficulty to maintain optimal challenge, provide systematic informative feedback during skill acquisition while strategically fading external guidance to prevent dependency, and incorporate sufficient stimulus variability to promote abstraction of generalizable perceptual rules rather than memorization of specific training exemplars. The inverted-U relationship between feedback frequency and learning outcome, the superiority of distributed over massed practice, and the benefits of interleaved over blocked presentation represent empirically-validated principles with direct application to micro-expression detection training.\n\nHowever, critical limitations in the evidence base warrant careful attention. Laboratory training gains frequently fail to transfer to naturalistic deception detection contexts, suggesting that commercial training tools may enhance performance on artificial discrimination tasks without producing meaningful improvement in real-world behavioral analysis. The complexity of genuine emotional expression—involving temporal dynamics, contextual integration, and individual variation that laboratory stimuli fail to capture—likely demands training protocols more sophisticated than currently available commercial tools provide. Future development should emphasize ecological validity, incorporating naturalistic stimulus presentations, realistic decision contexts, and validation against actual behavioral analysis performance rather than solely laboratory discrimination accuracy.",
+        "line_number": 539,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+        "char_start": 65697,
+        "char_end": 68117
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Untitled",
+        "body": "**Reflective Questions for Personal Application**\n\n*First Reflection:* How might your current approach to developing observational skills inadvertently promote premature automatization rather than continued refinement? Consider whether you engage in true deliberate practice characterized by effortful engagement with tasks exceeding current capability and systematic analysis of errors, or whether your observation \"practice\" consists primarily of passive exposure to behavioral stimuli without structured improvement efforts. Ericsson's research suggests that years of experience absent deliberate practice can actually produce performance degradation as suboptimal strategies become entrenched—are there domains where your observational accuracy has plateaued or potentially declined despite continued exposure, signaling a need for more systematic training intervention?\n\n*Second Reflection:* To what extent does your personal knowledge management system support the development of perceptual expertise through systematic capture and analysis of observation errors? Expertise development depends critically on identifying specific discrimination failures (confusing fear with surprise, missing subtle expression asymmetries indicating deliberate control), analyzing the perceptual or conceptual basis for errors, and implementing targeted practice on problematic discriminations. Consider whether your PKB architecture includes mechanisms for tracking observation accuracy, documenting error patterns, and scheduling deliberate practice sessions targeting identified weaknesses—or whether observational skill development remains implicit and unsystematic.\n\n*Third Reflection:* How might the principles of adaptive difficulty calibration and interleaved practice apply beyond nonverbal analysis to other domains of skill acquisition you're currently pursuing? The evidence demonstrating that maintaining challenge at the edge of capability optimizes learning while excessive difficulty produces frustration and insufficient challenge yields boredom applies broadly across skill domains. Reflect on whether your current learning projects in areas such as knowledge management system design, prompt engineering, or critical thinking framework application involve appropriately calibrated challenge—are you consistently working at the boundary of your current capability, or have you settled into comfortable routines that no longer drive meaningful improvement?",
+        "line_number": 548,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+        "char_start": 68118,
+        "char_end": 70615
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "**Primary Research Sources**\n\n- [Ericsson, K.A. (2008). Deliberate Practice and the Acquisition and Maintenance of Expert Performance in Medicine and Related Domains. *Academic Medicine*, 79(10), S70-S81](https://journals.lww.com/academicmedicine/fulltext/2004/10001/deliberate_practice_and_the_acquisition_and.22.aspx)\n- [Macnamara, B.N., & Hambrick, D.Z. (2020). Is the Deliberate Practice View Defensible? A Review of Evidence and Discussion of Issues. *Frontiers in Psychology*, 11](https://pmc.ncbi.nlm.nih.gov/articles/PMC7461852/)\n- [Dosher, B., & Lu, Z.L. (2020). Visual Perceptual Learning and Models. *Annual Review of Vision Science*, 6, 329-360](https://pmc.ncbi.nlm.nih.gov/articles/PMC6691499/)\n- [Montefusco-Siegmund, R., et al. (2025). Visual discrimination training increases the speed stimulus processing and leads to an earlier onset of stimulus encoding. *PLOS ONE*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330284)\n- [Jenkin, Z. (2023). Perceptual Learning. *Philosophy Compass*, 18(6)](https://oecs.mit.edu/pub/chnh9r1z)\n\n**Micro-Expression and Nonverbal Communication Training**\n\n- [Endres, J., & Laidlaw, A. (2020). Training Emotion Recognition Accuracy: Results for Multimodal Expressions and Facial Micro Expressions. *Frontiers in Psychology*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8406528/)\n- [Jordan, S.A., et al. (2019). A test of the micro-expressions training tool. *Behavior Research Methods*](https://web.williams.edu/Psychology/Faculty/Kassin/files/Jordan et al (2019) - METT.pdf)\n- [Paul Ekman Group - Micro Expressions Training Tools](https://www.paulekman.com/micro-expressions-training-tools/)\n- [Paul Ekman Group - Micro Expressions Overview](https://www.paulekman.com/resources/micro-expressions/)\n\n**Feedback and Motor Learning**\n\n- [Narciss, S. (2021). When is knowledge of performance (KP) superior to knowledge of results (KR) in promoting motor skill learning? A systematic review. *Psychology of Sport and Exercise*](https://www.tandfonline.com/doi/full/10.1080/1750984X.2021.1986849)\n- [Sharma, D.A., et al. (2016). Effectiveness of knowledge of result and knowledge of performance in the learning of a skilled motor activity by healthy young adults. *Journal of Physical Therapy Science*, 28(5), 1482-1486](https://pmc.ncbi.nlm.nih.gov/articles/PMC4905894/)\n- [Chen, X., et al. (2021). Optimizing Feedback Frequency in Motor Learning. *Perceptual and Motor Skills*](https://pubmed.ncbi.nlm.nih.gov/34338053/)\n- [Motor Learning - Wikipedia](https://en.wikipedia.org/wiki/Motor_learning)\n\n**Perceptual Training and Medical Expertise**\n\n- [McLaren, M.E., et al. (2023). Evaluating the effectiveness of different perceptual training methods in a difficult visual discrimination task with ultrasound images. *Cognitive Research: Principles and Implications*](https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-023-00467-0)\n- [Jiang, M., et al. (2023). Current directions in visual perceptual learning. *Nature Reviews Psychology*](https://pmc.ncbi.nlm.nih.gov/articles/PMC10237053/)\n- [Perceptual Learning - Wikipedia](https://en.wikipedia.org/wiki/Perceptual_learning)",
+        "line_number": 585,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md",
+        "char_start": 74169,
+        "char_end": 77399
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Skill Acquisition in Nonverbal Communication Analysis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Skill Acquisition in Nonverbal Communication Analysis]]",
+        "line_number": 39,
+        "section": "Document Start",
+        "context_line": "> - **Title**: [[Skill Acquisition in Nonverbal Communication Analysis]]",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Perceptual Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Perceptual Learning]]",
+        "line_number": 376,
+        "section": "🧠 Skill Acquisition in Nonverbal Communication Analysis",
+        "context_line": "> This comprehensive examination explores the cognitive mechanisms, training methodologies, and developmental pathways underlying the acquisition of expertise in nonverbal communication analysis—a domain requiring sophisticated [[Perceptual Learning]], refined [[Attentional Control]], and systematic [[Deliberate Practice]]. Drawing from research in [[Cognitive Science]], [[Motor Learning]] theory, and applied training studies in [[Micro-Expression Detection]], this analysis synthesizes evidence-based protocols for transforming novice observers into expert-level pattern recognizers capable of detecting subtle behavioral cues occurring within fractions of a second.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Attentional Control",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attentional Control]]",
+        "line_number": 376,
+        "section": "🧠 Skill Acquisition in Nonverbal Communication Analysis",
+        "context_line": "> This comprehensive examination explores the cognitive mechanisms, training methodologies, and developmental pathways underlying the acquisition of expertise in nonverbal communication analysis—a domain requiring sophisticated [[Perceptual Learning]], refined [[Attentional Control]], and systematic [[Deliberate Practice]]. Drawing from research in [[Cognitive Science]], [[Motor Learning]] theory, and applied training studies in [[Micro-Expression Detection]], this analysis synthesizes evidence-based protocols for transforming novice observers into expert-level pattern recognizers capable of detecting subtle behavioral cues occurring within fractions of a second.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Deliberate Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate Practice]]",
+        "line_number": 376,
+        "section": "🧠 Skill Acquisition in Nonverbal Communication Analysis",
+        "context_line": "> This comprehensive examination explores the cognitive mechanisms, training methodologies, and developmental pathways underlying the acquisition of expertise in nonverbal communication analysis—a domain requiring sophisticated [[Perceptual Learning]], refined [[Attentional Control]], and systematic [[Deliberate Practice]]. Drawing from research in [[Cognitive Science]], [[Motor Learning]] theory, and applied training studies in [[Micro-Expression Detection]], this analysis synthesizes evidence-based protocols for transforming novice observers into expert-level pattern recognizers capable of detecting subtle behavioral cues occurring within fractions of a second.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Cognitive Science",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Science]]",
+        "line_number": 376,
+        "section": "🧠 Skill Acquisition in Nonverbal Communication Analysis",
+        "context_line": "> This comprehensive examination explores the cognitive mechanisms, training methodologies, and developmental pathways underlying the acquisition of expertise in nonverbal communication analysis—a domain requiring sophisticated [[Perceptual Learning]], refined [[Attentional Control]], and systematic [[Deliberate Practice]]. Drawing from research in [[Cognitive Science]], [[Motor Learning]] theory, and applied training studies in [[Micro-Expression Detection]], this analysis synthesizes evidence-based protocols for transforming novice observers into expert-level pattern recognizers capable of detecting subtle behavioral cues occurring within fractions of a second.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Motor Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motor Learning]]",
+        "line_number": 376,
+        "section": "🧠 Skill Acquisition in Nonverbal Communication Analysis",
+        "context_line": "> This comprehensive examination explores the cognitive mechanisms, training methodologies, and developmental pathways underlying the acquisition of expertise in nonverbal communication analysis—a domain requiring sophisticated [[Perceptual Learning]], refined [[Attentional Control]], and systematic [[Deliberate Practice]]. Drawing from research in [[Cognitive Science]], [[Motor Learning]] theory, and applied training studies in [[Micro-Expression Detection]], this analysis synthesizes evidence-based protocols for transforming novice observers into expert-level pattern recognizers capable of detecting subtle behavioral cues occurring within fractions of a second.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Micro-Expression Detection",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Micro-Expression Detection]]",
+        "line_number": 376,
+        "section": "🧠 Skill Acquisition in Nonverbal Communication Analysis",
+        "context_line": "> This comprehensive examination explores the cognitive mechanisms, training methodologies, and developmental pathways underlying the acquisition of expertise in nonverbal communication analysis—a domain requiring sophisticated [[Perceptual Learning]], refined [[Attentional Control]], and systematic [[Deliberate Practice]]. Drawing from research in [[Cognitive Science]], [[Motor Learning]] theory, and applied training studies in [[Micro-Expression Detection]], this analysis synthesizes evidence-based protocols for transforming novice observers into expert-level pattern recognizers capable of detecting subtle behavioral cues occurring within fractions of a second.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Micro-Expression Training Tool",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Micro-Expression Training Tool]]",
+        "line_number": 394,
+        "section": "📊 Deliberate Practice Framework for Observational Skills",
+        "context_line": "For nonverbal communication analysis, the deliberate practice framework emphasizes several implementation principles. First, training must maintain an optimal challenge level where <span style='color: #FFC700;'>task difficulty</span> slightly exceeds current capability—presenting stimuli that cannot be processed automatically but remain within reach of focused effort. Paul Ekman's [[Micro-Expression Training Tool]] (METT) exemplifies this principle by systematically varying stimulus exposure duration from 1/25th of a second (40 milliseconds) to several hundred milliseconds, allowing learners to experience success while gradually pushing perceptual thresholds. Second, deliberate practice requires concentrated, sustained attention rather than passive exposure. Research on medical image interpretation demonstrates that <span style='color: #72FFF1;'>standard perceptual training</span> (sequential presentation with immediate feedback) produces robust learning curves, but performance gains depend critically on learners actively engaging with each trial rather than mechanically responding.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Mental Representations",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mental Representations]]",
+        "line_number": 398,
+        "section": "📊 Deliberate Practice Framework for Observational Skills",
+        "context_line": "<span style='color: #FFC700;'>**Counteracting automaticity**</span> through continuous cognitive engagement represents a central challenge in expertise development. Ericsson's theoretical framework posits that expert performers actively resist the natural tendency toward automatic processing by developing increasingly sophisticated [[Mental Representations]]—internal cognitive structures that enable monitoring, evaluation, and refinement of performance. In nonverbal analysis, these mental representations might include prototypical configurations of facial muscle movements associated with specific emotions, decision trees for discriminating genuine from posed expressions, or heuristics for interpreting contextual cues that modulate expression meaning. The development of such representations requires systematic reflection on performance, analysis of errors, and deliberate efforts to refine perceptual discriminations rather than simply accumulating observation hours.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Perceptual Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Perceptual Learning]]",
+        "line_number": 402,
+        "section": "🎯 Perceptual Learning Mechanisms and Training Protocols",
+        "context_line": "The transformation from novice to expert observer reflects multiple, interacting mechanisms that modify how the visual system processes, encodes, and interprets facial configurations. Contemporary theories of [[Perceptual Learning]] emphasize changes at multiple levels of the visual hierarchy, from enhanced sensitivity in early sensory processing to refined decision criteria in higher-level categorization systems.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Facial Action Coding System",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Facial Action Coding System]]",
+        "line_number": 418,
+        "section": "⚙️ Feedback Architecture and Corrective Learning Systems",
+        "context_line": "This distinction translates imperfectly to perceptual tasks where observable \"performance\" consists primarily of covert cognitive processes. However, training protocols can provide KP-equivalent information by highlighting diagnostic features learners should attend to—essentially making implicit perceptual strategies explicit. Paul Ekman's training programs incorporate this approach through modules that demonstrate specific [[Facial Action Coding System]] (FACS) muscle movements and their distinctive visual signatures, then provide feedback not only about classification accuracy but about which facial regions contain diagnostic information for each emotion. Research published in *Frontiers in Psychology* examining multimodal emotion recognition training found that both standard sequential training and micro-expression-focused training improved accuracy, with effect sizes in the moderate to large range, though neither approach alone brought participants to expert-level performance on complex emotional cue detection tasks.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Fitts and Posner's",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fitts and Posner's]]",
+        "line_number": 428,
+        "section": "🧭 Staged Progression Models and Skill Development Phases",
+        "context_line": "Expertise development in nonverbal communication analysis proceeds through distinguishable phases characterized by qualitatively different cognitive demands, error patterns, and optimal training interventions. [[Fitts and Posner's]] classic three-stage model of skill acquisition provides a foundational framework, though contemporary research suggests more nuanced developmental trajectories.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Selective Attention",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Selective Attention]]",
+        "line_number": 444,
+        "section": "🔄 Attentional Mechanisms and Perceptual Differentiation",
+        "context_line": "The transformation of attentional processing through training represents a foundational mechanism underlying observational expertise. Untrained observers allocate attention broadly across facial regions, often fixating on salient but non-diagnostic features (eyes due to social relevance, symmetrical features due to aesthetic preference). Expert performance depends on developing refined [[Selective Attention]] strategies that prioritize emotion-diagnostic regions while efficiently monitoring the entire facial configuration for relevant changes.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Chunking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Chunking]]",
+        "line_number": 450,
+        "section": "🔄 Attentional Mechanisms and Perceptual Differentiation",
+        "context_line": "The development of <span style='color: #FFC700;'>unitization</span> and [[Chunking]] represents another critical attentional transformation. Novices process facial expressions as collections of independent features requiring serial examination—separately evaluating eyebrow position, eyelid aperture, mouth shape, and other components. Experts perceive diagnostic configurations as perceptual units that can be processed in parallel. This unitization dramatically reduces attentional demands, freeing cognitive resources for higher-level inference and contextual integration. Research on face recognition expertise demonstrates that extensive experience produces holistic processing where faces are encoded as integrated wholes rather than assemblies of features, enabling rapid, automatic recognition that resists decomposition into analytical feature-by-feature examination.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Challenge Point Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Challenge Point Framework]]",
+        "line_number": 456,
+        "section": "📈 Progressive Difficulty Calibration and Adaptive Training",
+        "context_line": "Optimal skill acquisition requires continuous calibration of task difficulty to maintain challenge at the edge of current capability—neither so easy as to permit mindless repetition nor so difficult as to preclude meaningful error correction. This principle, formalized in Guadagnoli and Lee's [[Challenge Point Framework]], posits that learning is optimized when task difficulty is adjusted based on both learner skill level and task complexity.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Micro-Expression Training Tool",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Micro-Expression Training Tool]]",
+        "line_number": 460,
+        "section": "📈 Progressive Difficulty Calibration and Adaptive Training",
+        "context_line": "For micro-expression detection, adaptive training might manipulate exposure duration (starting at 200-500 milliseconds for novices, progressively decreasing to 40 milliseconds as accuracy improves), expression intensity (beginning with full-intensity prototypical displays, gradually introducing subtle or partial expressions), or stimulus complexity (isolated facial regions progressing to full-face configurations with competing information). The [[Micro-Expression Training Tool]] implements a graduated approach where learners first practice identifying emotions at longer exposure durations, then progressively challenge themselves with briefer presentations as confidence builds, though the specific adaptation algorithms remain proprietary.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Contextual Interference Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Contextual Interference Effect]]",
+        "line_number": 462,
+        "section": "📈 Progressive Difficulty Calibration and Adaptive Training",
+        "context_line": "<span style='color: #72FFF1;'>Interleaved versus blocked practice</span> represents another critical training structure decision. Blocked practice involves extended repetition of a single task variant (e.g., multiple consecutive trials detecting anger) before switching to a different variant (detecting fear). Interleaved practice randomly intermixes different task variants within a practice session. Motor learning research consistently demonstrates that while blocked practice produces superior performance during acquisition, interleaved practice yields better retention and transfer—a phenomenon termed the [[Contextual Interference Effect]]. The benefit of interleaving appears to arise from forcing learners to actively retrieve task-relevant information and discriminate between similar response alternatives on each trial rather than simply repeating the most recent response.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "BOLD Response",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[BOLD Response]]",
+        "line_number": 474,
+        "section": "🔬 Neural Plasticity and Cortical Reorganization",
+        "context_line": "Research examining texture discrimination learning—a widely-studied perceptual training paradigm—demonstrates practice-induced increases in [[BOLD Response]] within primary visual cortex (V1), specifically in retinotopic regions corresponding to trained stimulus locations. These changes appear to reflect enhanced representation of trained stimuli, possibly through increases in synaptic strength, dendritic complexity, or local circuit reorganization. Importantly, the specificity of perceptual learning (limitation to trained retinal locations, orientations, or spatial frequencies) mirrors the topographic organization and feature selectivity of early visual cortex, suggesting that early sensory plasticity contributes to learning-induced improvements.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Facial Action Coding System",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Facial Action Coding System]]",
+        "line_number": 490,
+        "section": "🎓 Evidence-Based Training Recommendations and Implementation Principles",
+        "context_line": "Training should begin with clear conceptual scaffolding that establishes explicit understanding of the anatomical basis of emotional expression through systematic exposure to the [[Facial Action Coding System]] (FACS). Research demonstrates that learners benefit from building mental models linking specific muscle actions to observable facial changes before attempting rapid discrimination tasks. Initial exposure should use slowed, exaggerated, and isolated presentations that make diagnostic features maximally salient—for instance, presenting individual action units (AU1: inner brow raiser, AU4: brow lowerer, AU6: cheek raiser) in isolation before combining them into complex emotional configurations.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Micro-Expression Training Tool",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Micro-Expression Training Tool]]",
+        "line_number": 506,
+        "section": "🎓 Evidence-Based Training Recommendations and Implementation Principles",
+        "context_line": "<span style='color: #FF00DC;'>⚠️ Critical Limitation from Empirical Evidence:</span> A rigorous independent test of the [[Micro-Expression Training Tool]] published in *Behavior Research Methods* found that METT-trained participants showed no improvement in lie detection accuracy beyond placebo training or no training conditions, with post-training performance remaining at chance levels. This null finding highlights that commercial training tools may not generalize to real-world deception detection despite producing improvements on trained materials. The disconnect between laboratory discrimination training and applied behavioral analysis represents a fundamental challenge requiring careful attention to ecological validity in training design.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Working Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working Memory]]",
+        "line_number": 523,
+        "section": "🌐 Ecological Validity and Transfer Considerations",
+        "context_line": "> This examination of observational skill acquisition connects fundamentally to **[[Working Memory]]** capacity limitations that constrain how many stimulus features novices can simultaneously process during complex discriminations. The development from effortful, serial feature analysis to automatic holistic pattern recognition reflects the transition from working-memory-dependent controlled processing to long-term-memory-supported automatic processing described in **[[ACT-R]]** cognitive architecture models.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "ACT-R",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[ACT-R]]",
+        "line_number": 523,
+        "section": "🌐 Ecological Validity and Transfer Considerations",
+        "context_line": "> This examination of observational skill acquisition connects fundamentally to **[[Working Memory]]** capacity limitations that constrain how many stimulus features novices can simultaneously process during complex discriminations. The development from effortful, serial feature analysis to automatic holistic pattern recognition reflects the transition from working-memory-dependent controlled processing to long-term-memory-supported automatic processing described in **[[ACT-R]]** cognitive architecture models.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 525,
+        "section": "🌐 Ecological Validity and Transfer Considerations",
+        "context_line": "> The finding that feedback frequency exhibits an inverted-U relationship with learning outcomes directly parallels **[[Cognitive Load Theory]]** predictions that excessive extrinsic information can overwhelm germane load capacity. Optimal feedback provides sufficient guidance to prevent unproductive floundering while preserving cognitive resources for schema construction and rule induction, exemplifying the theory's distinction between extraneous load (to be minimized) and germane load (to be optimized).",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 527,
+        "section": "🌐 Ecological Validity and Transfer Considerations",
+        "context_line": "> **[[Self-Determination Theory]]**'s competence need satisfaction mechanism explains why adaptive training protocols maintaining challenge at the edge of capability enhance both learning and intrinsic motivation. When task difficulty exceeds skill by an optimal margin, learners experience the competence-building engagement characteristic of flow states, whereas excessive difficulty produces anxiety and insufficient challenge yields boredom—both undermining sustained practice engagement.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Hebbian Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Hebbian Learning]]",
+        "line_number": 529,
+        "section": "🌐 Ecological Validity and Transfer Considerations",
+        "context_line": "> The neural plasticity evidence revealing training-induced reorganization of visual cortex and enhancement of task-relevant sensory representations exemplifies **[[Hebbian Learning]]** principles operating at the systems neuroscience level. Repeated co-activation of specific neural populations representing diagnostic features strengthens their functional coupling, effectively implementing \"neurons that fire together wire together\" at the level of cortical circuits supporting perceptual discrimination.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 531,
+        "section": "🌐 Ecological Validity and Transfer Considerations",
+        "context_line": "> **[[Metacognition]]** and self-regulated learning frameworks illuminate why self-controlled feedback and explicit error analysis produce superior outcomes relative to passive reception of external evaluation. Expert development requires not only procedural skill acquisition but also the metacognitive monitoring capabilities that enable self-diagnosis of performance errors and strategic adjustment of attention and decision criteria—the hallmark of what Ericsson terms \"effortful engagement\" characteristic of deliberate practice.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Declarative Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Declarative Knowledge]]",
+        "line_number": 533,
+        "section": "🌐 Ecological Validity and Transfer Considerations",
+        "context_line": "> The distinction between knowledge of results and knowledge of performance feedback parallels the contrast between **[[Declarative Knowledge]]** (knowing that a classification is correct) and **[[Procedural Knowledge]]** (knowing how to execute diagnostic perceptual strategies). Optimal training integrates both, building explicit conceptual understanding that gradually procedural",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Procedural Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Procedural Knowledge]]",
+        "line_number": 533,
+        "section": "🌐 Ecological Validity and Transfer Considerations",
+        "context_line": "> The distinction between knowledge of results and knowledge of performance feedback parallels the contrast between **[[Declarative Knowledge]]** (knowing that a classification is correct) and **[[Procedural Knowledge]]** (knowing how to execute diagnostic perceptual strategies). Optimal training integrates both, building explicit conceptual understanding that gradually procedural",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Transfer of Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transfer of Learning]]",
+        "line_number": 537,
+        "section": "🌐 Ecological Validity and Transfer Considerations",
+        "context_line": "> **[[Transfer of Learning]]** research provides theoretical grounding for understanding why training often fails to generalize beyond laboratory contexts. Near transfer to similar stimuli occurs readily, but far transfer requiring abstraction of deep principles from surface features demands training protocols that explicitly promote schema induction through varied exemplars and explicit instruction in underlying structural commonalities.",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Facial Action Coding System (FACS)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Facial Action Coding System (FACS)]]",
+        "line_number": 561,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Facial Action Coding System (FACS)]]**",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Attentional Control Networks and Executive Function",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attentional Control Networks and Executive Function]]",
+        "line_number": 566,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Attentional Control Networks and Executive Function]]**",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Signal Detection Theory and Perceptual Decision-Making",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Signal Detection Theory and Perceptual Decision-Making]]",
+        "line_number": 571,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Signal Detection Theory and Perceptual Decision-Making]]**",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "target": "Ecological Validity and External Validity in Training Transfer",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ecological Validity and External Validity in Training Transfer]]",
+        "line_number": 576,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Ecological Validity and External Validity in Training Transfer]]**",
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "cognitive-science",
+        "full_tag": "#cognitive-science",
+        "hierarchy": [
+          "cognitive-science"
+        ],
+        "line_number": 113,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "skill-acquisition",
+        "full_tag": "#skill-acquisition",
+        "hierarchy": [
+          "skill-acquisition"
+        ],
+        "line_number": 113,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "perceptual-learning",
+        "full_tag": "#perceptual-learning",
+        "hierarchy": [
+          "perceptual-learning"
+        ],
+        "line_number": 113,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "deliberate-practice",
+        "full_tag": "#deliberate-practice",
+        "hierarchy": [
+          "deliberate-practice"
+        ],
+        "line_number": 113,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "expertise-development",
+        "full_tag": "#expertise-development",
+        "hierarchy": [
+          "expertise-development"
+        ],
+        "line_number": 114,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "nonverbal-communication",
+        "full_tag": "#nonverbal-communication",
+        "hierarchy": [
+          "nonverbal-communication"
+        ],
+        "line_number": 115,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "behavioral-analysis",
+        "full_tag": "#behavioral-analysis",
+        "hierarchy": [
+          "behavioral-analysis"
+        ],
+        "line_number": 115,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 116,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 140,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 170,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 185,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 224,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 231,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 237,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 273,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 284,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 311,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 313,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 342,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 364,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 376,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 384,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 386,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 386,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 392,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 394,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 402,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 406,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FF5700",
+        "full_tag": "#FF5700",
+        "hierarchy": [
+          "FF5700"
+        ],
+        "line_number": 408,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 410,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 414,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 418,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 420,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FF5700",
+        "full_tag": "#FF5700",
+        "hierarchy": [
+          "FF5700"
+        ],
+        "line_number": 422,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 424,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FF5700",
+        "full_tag": "#FF5700",
+        "hierarchy": [
+          "FF5700"
+        ],
+        "line_number": 434,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 434,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FF5700",
+        "full_tag": "#FF5700",
+        "hierarchy": [
+          "FF5700"
+        ],
+        "line_number": 446,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FF5700",
+        "full_tag": "#FF5700",
+        "hierarchy": [
+          "FF5700"
+        ],
+        "line_number": 462,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FF00DC",
+        "full_tag": "#FF00DC",
+        "hierarchy": [
+          "FF00DC"
+        ],
+        "line_number": 464,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FFC700",
+        "full_tag": "#FFC700",
+        "hierarchy": [
+          "FFC700"
+        ],
+        "line_number": 466,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "tag": "FF5700",
+        "full_tag": "#FF5700",
+        "hierarchy": [
+          "FF5700"
+        ],
+        "line_number": 474,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 5,
+        "text": "Skill Acquisition in Nonverbal Communication Analysis",
+        "anchor": "skill-acquisition-in-nonverbal-communication-analysis",
+        "line_number": 335,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 1,
+        "text": "🧠 Skill Acquisition in Nonverbal Communication Analysis",
+        "anchor": "skill-acquisition-in-nonverbal-communication-analysis",
+        "line_number": 373,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 2,
+        "text": "🔬 The Cognitive Architecture of Observational Expertise",
+        "anchor": "the-cognitive-architecture-of-observational-expertise",
+        "line_number": 378,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Deliberate Practice Framework for Observational Skills",
+        "anchor": "deliberate-practice-framework-for-observational-skills",
+        "line_number": 388,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Perceptual Learning Mechanisms and Training Protocols",
+        "anchor": "perceptual-learning-mechanisms-and-training-protocols",
+        "line_number": 400,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ Feedback Architecture and Corrective Learning Systems",
+        "anchor": "feedback-architecture-and-corrective-learning-systems",
+        "line_number": 412,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 2,
+        "text": "🧭 Staged Progression Models and Skill Development Phases",
+        "anchor": "staged-progression-models-and-skill-development-phases",
+        "line_number": 426,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 Attentional Mechanisms and Perceptual Differentiation",
+        "anchor": "attentional-mechanisms-and-perceptual-differentiation",
+        "line_number": 442,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 2,
+        "text": "📈 Progressive Difficulty Calibration and Adaptive Training",
+        "anchor": "progressive-difficulty-calibration-and-adaptive-training",
+        "line_number": 454,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 2,
+        "text": "🔬 Neural Plasticity and Cortical Reorganization",
+        "anchor": "neural-plasticity-and-cortical-reorganization",
+        "line_number": 470,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 2,
+        "text": "🎓 Evidence-Based Training Recommendations and Implementation Principles",
+        "anchor": "evidence-based-training-recommendations-and-implementation-principles",
+        "line_number": 484,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 2,
+        "text": "🌐 Ecological Validity and Transfer Considerations",
+        "anchor": "ecological-validity-and-transfer-considerations",
+        "line_number": 508,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 559,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 1,
+        "text": "📚 References & Resources",
+        "anchor": "references-resources",
+        "line_number": 583,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "level": 3,
+        "text": "📖 Extracted Definitions",
+        "anchor": "extracted-definitions",
+        "line_number": 618,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "// SYSTEM: Enhanced Semantic Bridge Engine v2.0\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts) with advanced analytics\n\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks?.map(l => l.path) || [];\n\n// Performance optimization: Create Set for faster lookups\nconst myOutlinkSet = new Set(myOutlinks);\nconst currentPath = current.file.path;\n\n// Advanced sibling analysis with metadata\nlet siblings = [];\n\ntry {\n  siblings = dv.pages()\n    .where(p => {\n      // Safety checks\n      if (!p.file?.path || p.file.path === currentPath) return false;\n      // Exclude already linked notes\n      if (current.file.outlinks?.some(l => l.path === p.file.path)) return false;\n      return true;\n    })\n    .map(p => {\n      try {\n        // Calculate shared connections\n        const shared = p.file.outlinks?.filter(l => myOutlinkSet.has(l.path)) || [];\n        const sharedCount = shared.length;\n        \n        // Calculate similarity score (0-100%)\n        const totalConnections = myOutlinks.length + (p.file.outlinks?.length || 0);\n        const similarityScore = totalConnections > 0 ? Math.round((sharedCount * 2 / totalConnections) * 100) : 0;\n        \n        return { \n          link: p.file.link, \n          sharedCount, \n          sharedLinks: shared,\n          similarityScore,\n          maturity: p.maturity || \"unset\",\n          type: p.type || \"unknown\",\n          lastModified: p.file.mtime\n        };\n      } catch (e) {\n        console.warn(\"Error processing page:\", p.file?.path, e);\n        return null;\n      }\n    })\n    .where(p => p && p.sharedCount > 0)\n    .sort(p => p.similarityScore, \"desc\")\n    .limit(8);\n    \n  // Ensure siblings is an array\n  if (!Array.isArray(siblings)) {\n    siblings = [];\n  }\n} catch (e) {\n  console.error(\"Error building siblings:\", e);\n  siblings = [];\n}\n\n// Render enhanced semantic bridges\nif (siblings.length > 0) {\n  dv.header(3, \"🔗 Semantic Bridges (Missing Connections)\");\n  \n  // Add summary statistics with error handling\n  try {\n    const totalSharedConnections = siblings.reduce((sum, s) => sum + (s.sharedCount || 0), 0);\n    const avgSimilarity = siblings.length > 0 ? \n      Math.round(siblings.reduce((sum, s) => sum + (s.similarityScore || 0), 0) / siblings.length) : 0;\n    \n    dv.paragraph(`**Found ${siblings.length} semantic siblings** • Total shared: ${totalSharedConnections} connections • Avg. similarity: ${avgSimilarity}%`);\n  } catch (e) {\n    console.warn(\"Error calculating sibling statistics:\", e);\n    dv.paragraph(`**Found ${siblings.length} semantic siblings**`);\n  }\n  \n  dv.table(\n    [\"Note\", \"Similarity\", \"Strength\", \"Maturity\", \"Type\", \"Shared Context\"], \n    siblings.map(s => [\n      s.link, \n      `📊${s.similarityScore || 0}%`,\n      \"🔗\" + (s.sharedCount || 0), \n      s.maturity === \"evergreen\" ? \"🌳\" + s.maturity : \n      s.maturity === \"budding\" ? \"🌿\" + s.maturity :\n      s.maturity === \"developing\" ? \"🌱\" + s.maturity :\n      s.maturity === \"seedling\" ? \"大豆\" + s.maturity : \"❓unset\",\n      s.type || \"unknown\",\n      s.sharedLinks?.slice(0, 2).map(l => l.displayName || l.path).join(\", \") + ((s.sharedLinks?.length || 0) > 2 ? \"…\" : \"\") || \"\"\n    ])\n  );\n} else {\n  dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}\n\n// DOMAIN COVERAGE: Advanced domain analysis\nconst myTags = current.tags || [];\nconst primaryDomain = myTags.find(t => typeof t === \"string\" && t.includes(\"/\"))?.split(\"/\")[0] \n                   || myTags.find(t => typeof t === \"string\");\n\nif (primaryDomain) {\n  let domainNotes = [];\n  try {\n    domainNotes = dv.pages()\n      .where(p => \n        p.tags && \n        Array.isArray(p.tags) && \n        p.tags.some(t => \n          typeof t === \"string\" && \n          (t.startsWith(primaryDomain) || t === primaryDomain)\n        )\n      );\n  } catch (e) {\n    console.warn(\"Error filtering domain notes:\", e);\n    domainNotes = [];\n  }\n   \n  const maturityDistribution = {\n    evergreen: domainNotes.filter(p => p.maturity === \"evergreen\").length,\n    budding: domainNotes.filter(p => p.maturity === \"budding\").length,\n    developing: domainNotes.filter(p => p.maturity === \"developing\").length,\n    seedling: domainNotes.filter(p => p.maturity === \"seedling\").length,\n    unset: domainNotes.filter(p => !p.maturity).length\n  };\n\n  // Advanced domain health metrics\n  const totalNotes = domainNotes.length;\n  const matureNotes = maturityDistribution.evergreen + maturityDistribution.budding;\n  const coverage = totalNotes > 0 ? Math.round((matureNotes / totalNotes) * 100) : 0;\n  \n  // Domain activity score (based on recent modifications)\n  const recentNotes = domainNotes.filter(p => {\n    try {\n      const daysOld = (new Date() - new Date(p.file.mtime)) / (1000 * 60 * 60 * 24);\n      return daysOld < 30;\n    } catch (e) {\n      return false;\n    }\n  }).length;\n  const activityScore = totalNotes > 0 ? Math.round((recentNotes / totalNotes) * 100) : 0;\n\n  dv.header(3, `📂 Domain Analysis: ${primaryDomain}`);\n  dv.paragraph(`**Total notes**: ${totalNotes} | **Recent activity**: ${activityScore}% (30d)`);\n  dv.paragraph(`**Maturity breakdown**: 🌳${maturityDistribution.evergreen} | 🌿${maturityDistribution.budding} | 🌱${maturityDistribution.developing} | 🌰${maturityDistribution.seedling} | ❓${maturityDistribution.unset}`);\n  dv.paragraph(`**Domain health**: ${coverage}% mature (evergreen + budding)`);\n  \n  // Domain health indicator\n  const healthIndicator = coverage >= 80 ? \"🟢 Excellent\" : \n                         coverage >= 60 ? \"🟡 Good\" : \n                         coverage >= 40 ? \"🟠 Fair\" : \"🔴 Poor\";\n  dv.paragraph(`**Health status**: ${healthIndicator}`);\n}\n\n// NETWORK INTELLIGENCE: Advanced connectivity analysis\nconst inlinks = current.file.inlinks || [];\nconst outlinks = current.file.outlinks || [];\n\ndv.header(3, \"🕸️ Network Intelligence\");\nconst networkMetrics = [\n  [\"**Metric**\", \"**Value**\", \"**Insight**\"],\n  [\"In-links\", inlinks.length, inlinks.length > 10 ? \"⚡ Hub\" : inlinks.length > 0 ? \"🌱 Node\" : \"🕸️ Orphan\"],\n  [\"Out-links\", outlinks.length, outlinks.length > 15 ? \"🗺️ Explorer\" : outlinks.length > 5 ? \"🧭 Navigator\" : \"🎯 Focused\"],\n  [\"Link Ratio\", outlinks.length > 0 ? (inlinks.length / outlinks.length).toFixed(1) : \"∞\", \n   outlinks.length > 0 && inlinks.length / outlinks.length > 2 ? \"📈 High authority\" : \"📊 Balanced\"]\n];\n\ndv.table(networkMetrics[0], networkMetrics.slice(1));\n\n// TEMPORAL ANALYSIS: Content aging and review patterns\ndv.header(3, \"⏰ Temporal Intelligence\");\ntry {\n  const created = current.file.ctime;\n  const modified = current.file.mtime;\n  const ageDays = Math.floor((new Date() - new Date(created)) / (1000 * 60 * 60 * 24));\n  const stalenessDays = Math.floor((new Date() - new Date(modified)) / (1000 * 60 * 60 * 24));\n\n  const reviewInsights = [];\n  if (current[\"review-count\"] > 5) reviewInsights.push(\"🔁 Well-reviewed\");\n  if (stalenessDays > 180) reviewInsights.push(\"⏰ Needs refresh\");\n  if (ageDays < 30) reviewInsights.push(\"🆕 New content\");\n\n  dv.paragraph(`**Age**: ${ageDays} days | **Staleness**: ${stalenessDays} days`);\n  dv.paragraph(`**Review status**: ${current[\"review-count\"] || 0} reviews | ${reviewInsights.join(\" • \") || \"📝 Standard\"}`);\n} catch (e) {\n  console.warn(\"Error in temporal analysis:\", e);\n  dv.paragraph(\"*Temporal analysis unavailable*\");\n}",
+        "line_start": 43,
+        "line_end": 229,
+        "char_count": 7337,
+        "line_count": 185,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "> // TAG CO-OCCURRENCE: Find notes sharing the most tags with this note\n> const current = dv.current();\n> \n> // Safely get tags from current note\n> let myTags = [];\n> if (current.tags) {\n>     if (Array.isArray(current.tags)) {\n>         myTags = current.tags;\n>     } else if (typeof current.tags === 'string') {\n>         myTags = [current.tags];\n>     }\n> }\n> \n> if (myTags.length > 0) {\n>     const tagSiblings = dv.pages()\n>         .where(p => p.file.path !== current.file.path)\n>         .where(p => {\n>             // Safely check if page has tags\n>             if (!p.tags) return false;\n>             // Convert tags to array if needed\n>             let pageTags = [];\n>             if (Array.isArray(p.tags)) {\n>                 pageTags = p.tags;\n>             } else if (typeof p.tags === 'string') {\n>                 pageTags = [p.tags];\n>             }\n>             return pageTags.length > 0;\n>         })\n>         .map(p => {\n>             // Safely convert page tags to array\n>             let pageTags = [];\n>             if (p.tags) {\n>                 if (Array.isArray(p.tags)) {\n>                     pageTags = p.tags;\n>                 } else if (typeof p.tags === 'string') {\n>                     pageTags = [p.tags];\n>                 }\n>             }\n>             \n>             // Find shared tags\n>             const sharedTags = pageTags.filter(t => {\n>                 if (typeof t === 'string') {\n>                     return myTags.includes(t);\n>                 } else if (t && typeof t === 'object' && t.path) {\n>                     // Handle tag objects\n>                     return myTags.some(myTag => {\n>                         if (typeof myTag === 'string') {\n>                             return myTag === t.path;\n>                         }\n>                         return false;\n>                     });\n>                 }\n>                 return false;\n>             });\n>             \n>             return {\n>                 link: p.file.link,\n>                 sharedCount: sharedTags.length,\n>                 sharedTags: sharedTags,\n>                 totalTags: pageTags.length\n>             };\n>         })\n>         .where(p => p.sharedCount >= 2) // At least 2 shared tags\n>         .sort(p => p.sharedCount, \"desc\")\n>         .limit(5);\n> \n>     if (tagSiblings.length > 0) {\n>         dv.header(5, \"🏷️ Tag Siblings (Shared Taxonomy)\");\n>         dv.table(\n>             [\"Note\", \"Overlap\", \"Shared Tags\"],\n>             tagSiblings.map(s => {\n>                 // Safely extract tag names for display\n>                 let displayTags = s.sharedTags.map(t => {\n>                     if (typeof t === 'string') {\n>                         return t;\n>                     } else if (t && typeof t === 'object' && t.path) {\n>                         return t.path;\n>                     }\n>                     return String(t);\n>                 });\n>                 \n>                 return [\n>                     s.link,\n>                     s.sharedCount + \"/\" + s.totalTags,\n>                     displayTags.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n>                 ];\n>             })\n>         );\n>     } else {\n>         dv.paragraph(\"*No tag siblings with 2+ shared tags found.*\");\n>     }\n> } else {\n>     dv.paragraph(\"*No tags on this note to analyze.*\");\n> }\n>",
+        "line_start": 236,
+        "line_end": 331,
+        "char_count": 3358,
+        "line_count": 95,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "const currentFile = dv.current().file;\nconst content = await dv.io.load(currentFile.path);\nconst bracketedFieldRegex = /\\[\\*\\*([^*]+)\\*\\*::\\s*([^\\]]+)\\]/g;\n\nlet definitions = [];\nlet match;\n\nwhile ((match = bracketedFieldRegex.exec(content)) !== null) {\n    definitions.push({\n        key: match[1].trim(),\n        value: match[2].trim()\n    });\n}\n\n// Group by first letter\nconst grouped = {};\ndefinitions.forEach(d => {\n    const firstLetter = d.key[0].toUpperCase();\n    if (!grouped[firstLetter]) grouped[firstLetter] = [];\n    grouped[firstLetter].push(d);\n});\n\n// Display grouped results\nconst sortedLetters = Object.keys(grouped).sort();\n\nfor (let letter of sortedLetters) {\n    dv.header(4, `${letter}`);\n    dv.table(\n        [\"Term\", \"Definition\"],\n        grouped[letter].map(d => [`**${d.key}**`, d.value])\n    );\n}",
+        "line_start": 619,
+        "line_end": 652,
+        "char_count": 826,
+        "line_count": 32,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [
+      {
+        "display_text": "Ericsson, K.A. (2008). Deliberate Practice and the Acquisition and Maintenance of Expert Performance in Medicine and Related Domains. *Academic Medicine*, 79(10), S70-S81",
+        "url": "https://journals.lww.com/academicmedicine/fulltext/2004/10001/deliberate_practice_and_the_acquisition_and.22.aspx",
+        "format": "markdown",
+        "line_number": 588,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Macnamara, B.N., & Hambrick, D.Z. (2020). Is the Deliberate Practice View Defensible? A Review of Evidence and Discussion of Issues. *Frontiers in Psychology*, 11",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7461852/",
+        "format": "markdown",
+        "line_number": 589,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Dosher, B., & Lu, Z.L. (2020). Visual Perceptual Learning and Models. *Annual Review of Vision Science*, 6, 329-360",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6691499/",
+        "format": "markdown",
+        "line_number": 590,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Montefusco-Siegmund, R., et al. (2025). Visual discrimination training increases the speed stimulus processing and leads to an earlier onset of stimulus encoding. *PLOS ONE*",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330284",
+        "format": "markdown",
+        "line_number": 591,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Jenkin, Z. (2023). Perceptual Learning. *Philosophy Compass*, 18(6)",
+        "url": "https://oecs.mit.edu/pub/chnh9r1z",
+        "format": "markdown",
+        "line_number": 592,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Endres, J., & Laidlaw, A. (2020). Training Emotion Recognition Accuracy: Results for Multimodal Expressions and Facial Micro Expressions. *Frontiers in Psychology*",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8406528/",
+        "format": "markdown",
+        "line_number": 596,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Jordan, S.A., et al. (2019). A test of the micro-expressions training tool. *Behavior Research Methods*",
+        "url": "https://web.williams.edu/Psychology/Faculty/Kassin/files/Jordan et al (2019",
+        "format": "markdown",
+        "line_number": 597,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Paul Ekman Group - Micro Expressions Training Tools",
+        "url": "https://www.paulekman.com/micro-expressions-training-tools/",
+        "format": "markdown",
+        "line_number": 598,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Paul Ekman Group - Micro Expressions Overview",
+        "url": "https://www.paulekman.com/resources/micro-expressions/",
+        "format": "markdown",
+        "line_number": 599,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Narciss, S. (2021). When is knowledge of performance (KP) superior to knowledge of results (KR) in promoting motor skill learning? A systematic review. *Psychology of Sport and Exercise*",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/1750984X.2021.1986849",
+        "format": "markdown",
+        "line_number": 603,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Sharma, D.A., et al. (2016). Effectiveness of knowledge of result and knowledge of performance in the learning of a skilled motor activity by healthy young adults. *Journal of Physical Therapy Science*, 28(5), 1482-1486",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4905894/",
+        "format": "markdown",
+        "line_number": 604,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Chen, X., et al. (2021). Optimizing Feedback Frequency in Motor Learning. *Perceptual and Motor Skills*",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34338053/",
+        "format": "markdown",
+        "line_number": 605,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Motor Learning - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Motor_learning",
+        "format": "markdown",
+        "line_number": 606,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "McLaren, M.E., et al. (2023). Evaluating the effectiveness of different perceptual training methods in a difficult visual discrimination task with ultrasound images. *Cognitive Research: Principles and Implications*",
+        "url": "https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-023-00467-0",
+        "format": "markdown",
+        "line_number": 610,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Jiang, M., et al. (2023). Current directions in visual perceptual learning. *Nature Reviews Psychology*",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10237053/",
+        "format": "markdown",
+        "line_number": 611,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "display_text": "Perceptual Learning - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Perceptual_learning",
+        "format": "markdown",
+        "line_number": 612,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [
+      {
+        "ref_id": "*",
+        "content": null,
+        "type": "reference",
+        "line_number": 622,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "ref_id": "\\",
+        "content": null,
+        "type": "reference",
+        "line_number": 622,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      }
+    ],
+    "color_spans": [
+      {
+        "color_hex": "#7200FF",
+        "text": "Overview",
+        "semantic_role": "Custom (#7200FF)",
+        "line_number": 38,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Nonverbal communication analysis**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 380,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "perceptual expertise—the refined ability to detect, discriminate, and categorize subtle visual patterns that remain imperceptible to untrained observers",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 380,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "**Perceptual-Learning**",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 382,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "long-term improvements in perception arising from practice or training, manifesting as enhanced sensitivity, accuracy, and efficiency in detecting or discriminating stimuli",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 382,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "signal-to-noise ratio",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 382,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Attentional-Schema**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 384,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "internal cognitive frameworks that guide selective attention toward task-relevant features while filtering extraneous information, developed through extensive domain-specific practice",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 384,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "intrinsic feedback",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 386,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "extrinsic feedback",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 386,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "knowledge of results",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 386,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**K. Anders Ericsson's**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 390,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Deliberate-Practice**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 390,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "individualized training activities specifically designed by teachers to improve particular aspects of performance, characterized by effortful engagement with tasks that exceed current skill levels, immediate informative feedback, and opportunities for repetition and error correction",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 390,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "⚠️ Critical limitation:",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 392,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "task difficulty",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 394,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "standard perceptual training",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 394,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "expertise",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 396,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Experience-Without-Feedback**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 396,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#9E6CD3",
+        "text": "prolonged exposure to domain stimuli without systematic knowledge of results or structured improvement efforts, often resulting in performance plateaus and potential development of suboptimal strategies",
+        "semantic_role": "Technical (Deep Amethyst) — Technical terms, syntax",
+        "line_number": 396,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Counteracting automaticity**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 398,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Stimulus-Enhancement**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 404,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "training-induced increases in the internal representation strength or signal quality of task-relevant stimulus features, improving their detectability against internal neural noise",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 404,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**External-Noise-Exclusion**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 406,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "improved filtering of task-irrelevant information or reduced susceptibility to external perceptual interference, allowing signal extraction under degraded viewing conditions",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 406,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "transfer specificity",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 408,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "generalization",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 408,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Comparison-Training**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 410,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "presentation of to-be-discriminated stimuli in close temporal or spatial proximity, facilitating direct comparison and highlighting diagnostic differences that might remain imperceptible when stimuli are encountered in isolation",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 410,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Knowledge-of-Results**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 416,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "extrinsic information provided after response execution about outcome success relative to task goals, typically binary (correct/incorrect) or scalar (magnitude and direction of error)",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 416,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Knowledge-of-Performance**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 416,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "extrinsic information about the quality or characteristics of the response itself, independent of outcome, such as movement kinematics or strategy employed",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 416,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "⚠️ The guidance hypothesis",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 420,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "guidance effect",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 420,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Feedback-Delay-Interval**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 422,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "temporal gap between response execution and feedback delivery, influencing both immediate performance and long-term learning through effects on information processing, memory consolidation, and effort allocation",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 422,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "bandwidth",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 424,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Cognitive-Stage**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 430,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "initial acquisition phase dominated by explicit processing where learners consciously attend to instructions, laboriously apply rules, make frequent errors, and demonstrate high performance variability",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 430,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Associative-Stage**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 434,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "intermediate phase where performance becomes more consistent, errors decrease in frequency while becoming more subtle, and explicit verbal mediation gradually gives way to more automatic pattern recognition",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 434,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FF5700",
+        "text": "Research by Ekman and colleagues",
+        "semantic_role": "Reference (Reactor Orange) — Citations, external sources",
+        "line_number": 434,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "contextual complexity",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 436,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Autonomous-Stage**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 438,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "advanced phase where skill execution becomes largely automatic, requiring minimal conscious attention, allowing simultaneous processing of multiple information streams, and demonstrating resistance to interference from secondary tasks",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 438,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "Ericsson's critique of automaticity",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 440,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Feature-Weighting**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 446,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "learned adjustment of attentional priority and processing resources allocated to different stimulus dimensions, amplifying task-relevant features while attenuating irrelevant variation",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 446,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "unitization",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 450,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FF5700",
+        "text": "Evidence from eye-tracking studies",
+        "semantic_role": "Reference (Reactor Orange) — Citations, external sources",
+        "line_number": 452,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Adaptive-Training-Paradigm**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 458,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "systematic adjustment of stimulus difficulty throughout practice to maintain performance at a target level (typically 70-80% correct), continuously titrating challenge as learner skill improves",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 458,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "Interleaved versus blocked practice",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 462,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FF5700",
+        "text": "Research on perceptual category learning",
+        "semantic_role": "Reference (Reactor Orange) — Citations, external sources",
+        "line_number": 464,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Spacing-Effect**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 466,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#27FF00",
+        "text": "robust finding that distributed practice sessions separated by intervals of hours or days produce superior long-term retention compared to massed practice concentrating equivalent training within a single continuous session",
+        "semantic_role": "Definition (Terminal Green) — Verified truths, principles",
+        "line_number": 466,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "micro-expression detection skill development",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 468,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FF5700",
+        "text": "Evidence from expert populations",
+        "semantic_role": "Reference (Reactor Orange) — Citations, external sources",
+        "line_number": 480,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "faded guidance",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 498,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FF5700",
+        "text": "Research on maintaining expert performance",
+        "semantic_role": "Reference (Reactor Orange) — Citations, external sources",
+        "line_number": 504,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FF00DC",
+        "text": "⚠️ Critical Limitation from Empirical Evidence:",
+        "semantic_role": "Critical (Neon Magenta) — Warnings, conflicts, errors",
+        "line_number": 506,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FFC700",
+        "text": "**Specificity-of-Learning**",
+        "semantic_role": "Primary (Imperial Gold) — Key concepts, definitions",
+        "line_number": 512,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#9E6CD3",
+        "text": "limitation of training benefits to stimuli, tasks, or contexts closely matching training conditions, with reduced or absent improvements for novel variants differing in seemingly irrelevant features",
+        "semantic_role": "Technical (Deep Amethyst) — Technical terms, syntax",
+        "line_number": 512,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "perceptual sensitivity improvements",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 516,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#72FFF1",
+        "text": "decision criterion shifts",
+        "semantic_role": "Custom (#72FFF1)",
+        "line_number": 516,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "color_hex": "#FF5700",
+        "text": "Research on expertise transfer",
+        "semantic_role": "Reference (Reactor Orange) — Citations, external sources",
+        "line_number": 518,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      }
+    ],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**[[Facial Action Coding System (FACS)]]**",
+          "indent_level": 0,
+          "line_number": 514,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+        },
+        {
+          "text": "**[[Attentional Control Networks and Executive Function]]**",
+          "indent_level": 0,
+          "line_number": 516,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+        },
+        {
+          "text": "**[[Signal Detection Theory and Perceptual Decision-Making]]**",
+          "indent_level": 0,
+          "line_number": 518,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+        },
+        {
+          "text": "**[[Ecological Validity and External Validity in Training Transfer]]**",
+          "indent_level": 0,
+          "line_number": 525,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "*Connection*: FACS provides the anatomical and descriptive foundation underlying micro-expression training, offering a systematic taxonomy of facial muscle movements that serves as the conceptual scaffold for perceptual learning",
+          "indent_level": 1,
+          "line_number": 514,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+        },
+        {
+          "text": "*Depth Potential*: A comprehensive exploration of FACS would examine its development by Ekman and Friesen, the neurophysiological basis of facial muscle action, coding methodology for behavioral analysis, and applications across emotion research, animation, and clinical assessment",
+          "indent_level": 1,
+          "line_number": 514,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Functions as a critical bridge between anatomical knowledge, behavioral observation methodology, and applied emotion detection, connecting to nodes on affective neuroscience, nonverbal communication theory, and observational research methods",
+          "indent_level": 1,
+          "line_number": 516,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+        },
+        {
+          "text": "*Connection*: The development of refined selective attention strategies enabling expert observers to prioritize diagnostic facial regions depends on executive control systems that suppress prepotent but task-irrelevant response tendencies",
+          "indent_level": 1,
+          "line_number": 516,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+        },
+        {
+          "text": "*Depth Potential*: Would investigate the neuroanatomical substrates of attention control (dorsolateral prefrontal cortex, anterior cingulate cortex, parietal attention networks), individual differences in attentional capacity, training protocols for enhancing executive function, and implications for skill acquisition across domains",
+          "indent_level": 1,
+          "line_number": 516,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Creates connections between cognitive neuroscience, individual differences psychology, and practical skill training, linking to nodes on working memory, cognitive load management, and self-regulation",
+          "indent_level": 1,
+          "line_number": 518,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+        },
+        {
+          "text": "*Connection*: Understanding the distinction between genuine perceptual sensitivity improvements versus decision criterion shifts requires signal detection theory's analytical framework for decomposing discrimination performance into separable components",
+          "indent_level": 1,
+          "line_number": 518,
+          "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{siblings.length} semantic siblings** • Total shared:",
+        "format": "inline",
+        "line_number": 86,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "expression": "{totalNotes} | **Recent activity**:",
+        "format": "inline",
+        "line_number": 163,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "expression": "{maturityDistribution.evergreen} | 🌿",
+        "format": "inline",
+        "line_number": 167,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "expression": "{maturityDistribution.developing} | 🌰",
+        "format": "inline",
+        "line_number": 169,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "expression": "{ageDays} days | **Staleness**:",
+        "format": "inline",
+        "line_number": 204,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      },
+      {
+        "expression": "{current[\"review-count\"] || 0} reviews |",
+        "format": "inline",
+        "line_number": 205,
+        "source": "cog-psy-skill-acquisition-in-nonverbal-communication-analysis-202512140036.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "ACT-R",
+      "Attentional Control",
+      "Attentional Control Networks and Executive Function",
+      "BOLD Response",
+      "Challenge Point Framework",
+      "Chunking",
+      "Cognitive Load Theory",
+      "Cognitive Science",
+      "Contextual Interference Effect",
+      "Declarative Knowledge",
+      "Deliberate Practice",
+      "Ecological Validity and External Validity in Training Transfer",
+      "Facial Action Coding System",
+      "Facial Action Coding System (FACS)",
+      "Fitts and Posner's",
+      "Hebbian Learning",
+      "Mental Representations",
+      "Metacognition",
+      "Micro-Expression Detection",
+      "Micro-Expression Training Tool",
+      "Motor Learning",
+      "Perceptual Learning",
+      "Procedural Knowledge",
+      "Selective Attention",
+      "Self-Determination Theory",
+      "Signal Detection Theory and Perceptual Decision-Making",
+      "Skill Acquisition in Nonverbal Communication Analysis",
+      "Transfer of Learning",
+      "Working Memory"
+    ],
+    "unique_wiki_link_count": 29,
+    "unique_tags": [
+      "#FF00DC",
+      "#FF5700",
+      "#FFC700",
+      "#behavioral-analysis",
+      "#cognitive-science",
+      "#deliberate-practice",
+      "#expertise-development",
+      "#nonverbal-communication",
+      "#perceptual-learning",
+      "#reference-note",
+      "#skill-acquisition"
+    ],
+    "unique_tag_count": 11,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "ACT-R",
+      "Attentional Control",
+      "Attentional Control Networks and Executive Function",
+      "BOLD Response",
+      "Challenge Point Framework",
+      "Chunking",
+      "Cognitive Load Theory",
+      "Cognitive Science",
+      "Contextual Interference Effect",
+      "Declarative Knowledge",
+      "Deliberate Practice",
+      "Ecological Validity and External Validity in Training Transfer",
+      "Facial Action Coding System",
+      "Facial Action Coding System (FACS)",
+      "Fitts and Posner's",
+      "Hebbian Learning",
+      "Mental Representations",
+      "Metacognition",
+      "Micro-Expression Detection",
+      "Micro-Expression Training Tool",
+      "Motor Learning",
+      "Perceptual Learning",
+      "Procedural Knowledge",
+      "Selective Attention",
+      "Self-Determination Theory",
+      "Signal Detection Theory and Perceptual Decision-Making",
+      "Skill Acquisition in Nonverbal Communication Analysis",
+      "Transfer of Learning",
+      "Working Memory"
+    ]
+  }
+}

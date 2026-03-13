@@ -1,0 +1,806 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:19:01.711002",
+    "source_file": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\03-prompt-engineering\\-reports\\prompt-report-prompting-inside-the-pkb-20251120082620.md",
+    "source_file_size_bytes": 27596,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "prompt-report-prompting-inside-the-pkb-20251120082620",
+      "id": "20251120082620",
+      "type": "prompt/report",
+      "status": "seedling",
+      "rating": "undefined",
+      "source": "[Gemini-Deep-Research]",
+      "created": "undefined",
+      "year": "[[2025]]",
+      "tags": [
+        "prompt-engineering",
+        "project/pur3v4d3r",
+        "year/2025",
+        "self-improvement",
+        "pkb/maintenance/refactoring",
+        "pkb/maintenance/cleanup"
+      ],
+      "aliases": [
+        "Local LLM Integration Blueprint,Smart Connections Workflow,RAG Architecture for Obsidian"
+      ],
+      "link-up": [
+        "[[project-pur3v4d3r-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-20|Daily-Note]]"
+      ]
+    },
+    "word_count": 3601,
+    "character_count": 26996,
+    "line_count": 265,
+    "heading_count": 21
+  },
+  "extraction_summary": {
+    "total_items_extracted": 60,
+    "by_type": {
+      "headings": 21,
+      "callouts": 0,
+      "wiki_links": 1,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 1,
+      "tables": 4,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 24,
+      "lists_unordered": 9,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "The Architecture of Intelligence: A Blueprint for Integrating Local LLM Synthesis into the Obsidian PKB via Smart Connections",
+      "anchor": "the-architecture-of-intelligence-a-blueprint-for-integrating-local-llm-synthesis-into-the-obsidian-pkb-via-smart-connections",
+      "line_number": 26,
+      "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "1. Architectural Foundation: Local RAG, Embeddings, and PKB Sovereignty",
+          "anchor": "1-architectural-foundation-local-rag-embeddings-and-pkb-sovereignty",
+          "line_number": 28,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1.1 The Strategic Imperative of Local LLM Integration and Data Sovereignty",
+              "anchor": "11-the-strategic-imperative-of-local-llm-integration-and-data-sovereignty",
+              "line_number": 32,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "1.2 The Paradigm Shift: Semantic Search versus Lexical Matching",
+              "anchor": "12-the-paradigm-shift-semantic-search-versus-lexical-matching",
+              "line_number": 38,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "1.3 Smart Connections as the Obsidian RAG Middleware",
+              "anchor": "13-smart-connections-as-the-obsidian-rag-middleware",
+              "line_number": 44,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "2. System Configuration and Performance Tuning for Fidelity",
+          "anchor": "2-system-configuration-and-performance-tuning-for-fidelity",
+          "line_number": 55,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "2.1 The Critical Role of Chunking Strategies for Context Density",
+              "anchor": "21-the-critical-role-of-chunking-strategies-for-context-density",
+              "line_number": 59,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2.2 Setting the Context-Dependent Similarity Threshold",
+              "anchor": "22-setting-the-context-dependent-similarity-threshold",
+              "line_number": 67,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "3. Workflow I: Daily Maintenance and Contextual Review",
+          "anchor": "3-workflow-i-daily-maintenance-and-contextual-review",
+          "line_number": 89,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "3.1 The Daily 5-10 Minute Semantic Review Protocol",
+              "anchor": "31-the-daily-5-10-minute-semantic-review-protocol",
+              "line_number": 93,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3.2 Applying AI to PARA Principles and Actionability",
+              "anchor": "32-applying-ai-to-para-principles-and-actionability",
+              "line_number": 108,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "4. Workflow II: Advanced Research and Deep Synthesis",
+          "anchor": "4-workflow-ii-advanced-research-and-deep-synthesis",
+          "line_number": 131,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "4.1 Focused Retrieval and Context Assembly",
+              "anchor": "41-focused-retrieval-and-context-assembly",
+              "line_number": 135,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.2 RAG Prompt Engineering for Context-Constrained Knowledge Synthesis (CCKS)",
+              "anchor": "42-rag-prompt-engineering-for-context-constrained-knowledge-synthesis-ccks",
+              "line_number": 141,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.3 Automated MOC/Index Creation and Structural Mapping",
+              "anchor": "43-automated-mocindex-creation-and-structural-mapping",
+              "line_number": 158,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "5. Validation and Human-in-the-Loop Methodology",
+          "anchor": "5-validation-and-human-in-the-loop-methodology",
+          "line_number": 173,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "5.1 The Necessity of Narrow Validation and Expert Review",
+              "anchor": "51-the-necessity-of-narrow-validation-and-expert-review",
+              "line_number": 177,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5.2 Documentation, Traceability, and Audit Trails",
+              "anchor": "52-documentation-traceability-and-audit-trails",
+              "line_number": 183,
+              "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "6. The Master Workflow Prompt Construction",
+          "anchor": "6-the-master-workflow-prompt-construction",
+          "line_number": 200,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "PROMPT BLUEPRINT: GENERATING THE SMART CONNECTIONS/LOCAL LLM WORKFLOW",
+      "anchor": "prompt-blueprint-generating-the-smart-connectionslocal-llm-workflow",
+      "line_number": 204,
+      "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Conclusions and Recommendations",
+          "anchor": "conclusions-and-recommendations",
+          "line_number": 281,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [],
+    "wiki_links": [
+      {
+        "target": "Project X",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project X]]",
+        "line_number": 115,
+        "section": "3.2 Applying AI to PARA Principles and Actionability",
+        "context_line": "\"Given this] content and the objective of [[Project X]], analyze the intersection and propose 3 actionable insights derived ONLY from the resource that directly advance the project's current status.\"",
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "The Architecture of Intelligence: A Blueprint for Integrating Local LLM Synthesis into the Obsidian PKB via Smart Connections",
+        "anchor": "the-architecture-of-intelligence-a-blueprint-for-integrating-local-llm-synthesis-into-the-obsidian-pkb-via-smart-connections",
+        "line_number": 26,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 2,
+        "text": "1. Architectural Foundation: Local RAG, Embeddings, and PKB Sovereignty",
+        "anchor": "1-architectural-foundation-local-rag-embeddings-and-pkb-sovereignty",
+        "line_number": 28,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "1.1 The Strategic Imperative of Local LLM Integration and Data Sovereignty",
+        "anchor": "11-the-strategic-imperative-of-local-llm-integration-and-data-sovereignty",
+        "line_number": 32,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "1.2 The Paradigm Shift: Semantic Search versus Lexical Matching",
+        "anchor": "12-the-paradigm-shift-semantic-search-versus-lexical-matching",
+        "line_number": 38,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "1.3 Smart Connections as the Obsidian RAG Middleware",
+        "anchor": "13-smart-connections-as-the-obsidian-rag-middleware",
+        "line_number": 44,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 2,
+        "text": "2. System Configuration and Performance Tuning for Fidelity",
+        "anchor": "2-system-configuration-and-performance-tuning-for-fidelity",
+        "line_number": 55,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "2.1 The Critical Role of Chunking Strategies for Context Density",
+        "anchor": "21-the-critical-role-of-chunking-strategies-for-context-density",
+        "line_number": 59,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "2.2 Setting the Context-Dependent Similarity Threshold",
+        "anchor": "22-setting-the-context-dependent-similarity-threshold",
+        "line_number": 67,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 2,
+        "text": "3. Workflow I: Daily Maintenance and Contextual Review",
+        "anchor": "3-workflow-i-daily-maintenance-and-contextual-review",
+        "line_number": 89,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "3.1 The Daily 5-10 Minute Semantic Review Protocol",
+        "anchor": "31-the-daily-5-10-minute-semantic-review-protocol",
+        "line_number": 93,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "3.2 Applying AI to PARA Principles and Actionability",
+        "anchor": "32-applying-ai-to-para-principles-and-actionability",
+        "line_number": 108,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 2,
+        "text": "4. Workflow II: Advanced Research and Deep Synthesis",
+        "anchor": "4-workflow-ii-advanced-research-and-deep-synthesis",
+        "line_number": 131,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "4.1 Focused Retrieval and Context Assembly",
+        "anchor": "41-focused-retrieval-and-context-assembly",
+        "line_number": 135,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "4.2 RAG Prompt Engineering for Context-Constrained Knowledge Synthesis (CCKS)",
+        "anchor": "42-rag-prompt-engineering-for-context-constrained-knowledge-synthesis-ccks",
+        "line_number": 141,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "4.3 Automated MOC/Index Creation and Structural Mapping",
+        "anchor": "43-automated-mocindex-creation-and-structural-mapping",
+        "line_number": 158,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 2,
+        "text": "5. Validation and Human-in-the-Loop Methodology",
+        "anchor": "5-validation-and-human-in-the-loop-methodology",
+        "line_number": 173,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "5.1 The Necessity of Narrow Validation and Expert Review",
+        "anchor": "51-the-necessity-of-narrow-validation-and-expert-review",
+        "line_number": 177,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 3,
+        "text": "5.2 Documentation, Traceability, and Audit Trails",
+        "anchor": "52-documentation-traceability-and-audit-trails",
+        "line_number": 183,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 2,
+        "text": "6. The Master Workflow Prompt Construction",
+        "anchor": "6-the-master-workflow-prompt-construction",
+        "line_number": 200,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 1,
+        "text": "PROMPT BLUEPRINT: GENERATING THE SMART CONNECTIONS/LOCAL LLM WORKFLOW",
+        "anchor": "prompt-blueprint-generating-the-smart-connectionslocal-llm-workflow",
+        "line_number": 204,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "level": 2,
+        "text": "Conclusions and Recommendations",
+        "anchor": "conclusions-and-recommendations",
+        "line_number": 281,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "markdown",
+        "code": "\"Given this] content and the objective of [[Project X]], analyze the intersection and propose 3 actionable insights derived ONLY from the resource that directly advance the project's current status.\"",
+        "line_start": 114,
+        "line_end": 117,
+        "char_count": 199,
+        "line_count": 1,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "**Parameter**",
+          "**Daily Review (Refinement/High Precision)**",
+          "**Deep Synthesis (Discovery/High Recall)**",
+          "**Rationale**"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Embedding Model",
+            "Local Default (High Stability)",
+            "Local Default or Tested Alternative (High Fidelity)",
+            "Must be optimized for textual research data.9"
+          ],
+          [
+            "Chunk Size (Tokens)",
+            "Atomic Note Size (e.g., 256 tokens)",
+            "Contextual Block Size (e.g., 512-1024 tokens)",
+            "Small chunks preserve concept isolation; large chunks preserve context in source documents.2"
+          ],
+          [
+            "Retrieval Count (![](data:,))",
+            "Low (e.g., ![](data:,) to 5)",
+            "High (e.g., ![](data:,) to 20)",
+            "Low ![](data:,) reduces noise for quick linking validation; high ![](data:,) ensures comprehensive context for abstractive synthesis.11"
+          ],
+          [
+            "Similarity Threshold",
+            "High (0.96 – 0.99)",
+            "Moderate (0.85 – 0.96)",
+            "High threshold prevents irrelevant connections; moderate threshold surfaces conceptual links across domains.10"
+          ]
+        ],
+        "line_start": 82,
+        "row_count": 4,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "headers": [
+          "**PKM Stage (CODE)**",
+          "**Primary Goal**",
+          "**Smart Connections (SC) Integration Point**",
+          "**Local LLM Action/Task**"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Capture (C)",
+            "Rapid, reliable note entry.13",
+            "SC auto-indexes new note upon saving (passive operation).1",
+            "N/A (Focus is on recording data)."
+          ],
+          [
+            "Organize (O)",
+            "Structural linking, classification (PARA/MOC).14",
+            "SC Connections Pane surfaces semantic neighbors to inform manual linking decisions.4",
+            "Draft MOC outlines or suggest PARA classification links based on retrieved context clusters."
+          ],
+          [
+            "Distill (D)",
+            "Synthesis, critical reflection, summarization.",
+            "SC Search View performs highly specific RAG retrieval (Context Assembly).8",
+            "Abstractive summarization and conceptual comparison of multiple retrieved notes.2"
+          ],
+          [
+            "Express (E)",
+            "Output generation (reports, drafts, papers).",
+            "SC provides on-demand contextual support during writing/drafting using the Search View.",
+            "Context-Constrained Knowledge Synthesis (CCKS) to generate structured paragraphs based ONLY on vault knowledge.15"
+          ]
+        ],
+        "line_start": 120,
+        "row_count": 4,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "headers": [
+          "**Parameter**",
+          "**Daily Review (Refinement/High Precision)**",
+          "**Deep Synthesis (Discovery/High Recall)**"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Retrieval Count (![](data:,))",
+            "Low (e.g., ![](data:,) to 5)",
+            "High (e.g., ![](data:,) to 20)"
+          ],
+          [
+            "Similarity Threshold",
+            "High (0.96 – 0.99)",
+            "Moderate (0.85 – 0.96)"
+          ]
+        ],
+        "line_start": 216,
+        "row_count": 2,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      },
+      {
+        "headers": [
+          "**PKM Stage (CODE)**",
+          "**Primary Goal**",
+          "**Smart Connections (SC) Integration Point**",
+          "**Local LLM Action/Task**"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Capture (C)",
+            "Rapid, reliable note entry.",
+            "SC auto-indexes new note upon saving.",
+            "N/A (Focus is on recording data)."
+          ],
+          [
+            "Organize (O)",
+            "Structural linking, classification (PARA/MOC).",
+            "SC Connections Pane surfaces semantic neighbors to inform manual linking decisions.",
+            "Draft MOC outlines or suggest PARA classification links."
+          ],
+          [
+            "Distill (D)",
+            "Synthesis, critical reflection, summarization.",
+            "SC Search View performs highly specific RAG retrieval.",
+            "Abstractive summarization and conceptual comparison of multiple retrieved notes."
+          ],
+          [
+            "Express (E)",
+            "Output generation (reports, drafts, papers).",
+            "SC provides on-demand contextual support during writing/drafting.",
+            "Context-Constrained Knowledge Synthesis (CCKS) to generate structured paragraphs."
+          ]
+        ],
+        "line_start": 270,
+        "row_count": 4,
+        "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**The Connections Pane:** This feature provides passive, automatic suggestions of highly relevant notes based on the semantic content of the currently active note.4 This passive discovery mechanism is ideal for routine, low-friction checks.",
+          "indent_level": 0,
+          "line_number": 49,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**The Search View:** Accessed via the search icon in the Connections View, this enables active, query-based semantic retrieval based on user input.8 This targeted search is necessary for complex, multi-note synthesis tasks that require aggregating diverse context blocks.",
+          "indent_level": 2,
+          "line_number": 51,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Comparative Synthesis Template:** This template is used to compare and contrast complex topics across multiple retrieved documents.11",
+          "indent_level": 0,
+          "line_number": 145,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Abstractive Summarization Template:** Utilized for condensing extensive research notes or paper excerpts into concise abstracts, which is highly beneficial in environments where large datasets or lengthy documents are common.2",
+          "indent_level": 4,
+          "line_number": 151,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Broad Retrieval:** Execute a high-recall semantic search (Profile B) on a new, broad topic (e.g., \"The Ethics of Decentralized Finance\").",
+          "indent_level": 0,
+          "line_number": 160,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Context Delivery:** Retrieve a large set (![](data:,)) of semantically related notes and pass the context block to the local LLM.",
+          "indent_level": 2,
+          "line_number": 160,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Structural Mandate:** Provide the LLM with a structural prompt: \"Analyze the provided context sections. Identify 5–7 central, recurring themes and sub-themes. Generate a hierarchical Map of Content (MOC) structure based on these themes. Ensure all source notes are categorized into these themes. Provide a brief (2-sentence) thematic description for each MOC node.\"",
+          "indent_level": 2,
+          "line_number": 164,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "The exact input prompt/query used for the LLM.",
+          "indent_level": 0,
+          "line_number": 187,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "The RAG configuration profile employed (specifically the Similarity Threshold and ![](data:,) value).",
+          "indent_level": 2,
+          "line_number": 187,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "A complete list of the retrieved source note titles (or unique identifiers) that constituted the context block.16",
+          "indent_level": 2,
+          "line_number": 187,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "The final, LLM-generated output draft.",
+          "indent_level": 2,
+          "line_number": 191,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Tool Stack:** Obsidian, Smart Connections (Semantic Search/Embeddings), Local LLM Endpoint (configured for RAG). The system must operate under a local-first philosophy, prioritizing data security.",
+          "indent_level": 0,
+          "line_number": 208,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Core Principle:** The workflow must be \"Human-in-the-Loop\" (HILT) validated. All LLM outputs are drafts that require expert human review and must include source note traceability.16",
+          "indent_level": 2,
+          "line_number": 208,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**RAG Tuning Integration:** The workflow must specify and integrate the dual RAG Configuration Profiles detailed in Table 1, explaining when to use each profile:",
+          "indent_level": 2,
+          "line_number": 212,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Prompt Fidelity Constraint:** When defining synthesis tasks for the Local LLM, always use Context-Constrained Knowledge Synthesis (CCKS) language, explicitly instructing the LLM to generate responses **ONLY** from the retrieved Obsidian note content provided as context (e.g., \"Analyze the following context sections. Use ONLY this information...\").11",
+          "indent_level": 0,
+          "line_number": 221,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Offline Verification:** Mandate a preliminary step to ensure the Local LLM is operational without external network access, confirming data sovereignty.1",
+          "indent_level": 0,
+          "line_number": 226,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Passive Indexing:** Acknowledge the role of automatic, local indexing upon new note creation.1",
+          "indent_level": 2,
+          "line_number": 231,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Semantic Review:** Detail the process of using the Smart Connections Connections Pane (Profile A) to proactively identify unlinked mentions and potential redundancies in newly created notes.4",
+          "indent_level": 2,
+          "line_number": 233,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Actionable Linking:** Instruct the user on how to review the AI-suggested links and manually formalize critical connections, especially linking new 'Resource' notes to active 'Projects' (PARA methodology alignment).14",
+          "indent_level": 2,
+          "line_number": 235,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Targeted Retrieval:** Instruct the user to utilize the Smart Connections Search View and activate Profile B (High Recall) for complex queries requiring broad context assembly.",
+          "indent_level": 0,
+          "line_number": 239,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Context Aggregation:** Describe how the retrieved note chunks form the RAG context block for the Local LLM, emphasizing the importance of chunking strategy for mixed atomic/long-form notes.6",
+          "indent_level": 2,
+          "line_number": 244,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Synthesis Tasking:** Provide three exemplar RAG prompt templates for the local LLM:",
+          "indent_level": 2,
+          "line_number": 246,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Narrow Validation Check:** Instruct the user on how to inspect the retrieved context (![](data:,) chunks) for relevance before running the final generation.16",
+          "indent_level": 0,
+          "line_number": 254,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Audit Trail:** Mandate the creation of a \"Synthesis Log\" note for complex queries, documenting the query, the configuration used, and the source note IDs for traceability.16",
+          "indent_level": 2,
+          "line_number": 259,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "**High Precision Profile (Daily):** For daily PKB maintenance, the goal is refinement and consolidation. A high threshold (0.96–0.99) is appropriate, ensuring that only extremely relevant, conceptually overlapping, or potentially redundant notes are surfaced. This supports targeted note consolidation and maintenance (narrow validation).10",
+          "indent_level": 0,
+          "line_number": 72,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**High Recall Profile (Research):** For complex research synthesis, the goal is discovery. A lower, more moderate threshold (0.85–0.96) is required. This expands the semantic net, accepting a higher rate of irrelevant content (noise) in exchange for capturing novel, cross-conceptual links that might otherwise be missed. This strategy minimizes the risk of over-splitting distinct but related ideas.10",
+          "indent_level": 2,
+          "line_number": 74,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Action A (Refinement):** If a highly relevant connection is identified but lacks an explicit link, the user creates a formal link (`[]`) within the note text, formalizing the relationship identified by the AI.",
+          "indent_level": 0,
+          "line_number": 102,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "**Action B (Consolidation):** If a connection exhibits extreme similarity (scores near 1.0), it suggests semantic overlap or redundancy. The user should consolidate the new material into the older, more established note, thereby strengthening the knowledge base and improving fidelity.",
+          "indent_level": 2,
+          "line_number": 104,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "_Prompt Structure:_ \"You are an expert research analyst. Given the context sections retrieved from my personal knowledge vault, perform a structured comparison of and, focusing specifically on [Criterion Z]. **Guideline 1:** Use ONLY the provided information. **Guideline 2:** Acknowledge the limitation if relevant information is not present in the context. **Guideline 3:** Cite source titles (if available) within the response.\"",
+          "indent_level": 4,
+          "line_number": 145,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "_Prompt Structure:_ \"Analyze the provided context, which consists of multiple note fragments on. Generate an abstractive summary, no more than 200 words, that captures the main arguments and conclusions. Your summary must be accurate and derived exclusively from the text provided.\"",
+          "indent_level": 4,
+          "line_number": 153,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "A **Comparative Synthesis Template** (for comparing concepts across multiple retrieved notes).11",
+          "indent_level": 4,
+          "line_number": 248,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "An **Abstractive Summarization Template** (for summarizing large research material).2",
+          "indent_level": 6,
+          "line_number": 248,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        },
+        {
+          "text": "A **Structural Mapping Template** (for auto-generating MOC outlines based on emergent themes).5",
+          "indent_level": 6,
+          "line_number": 250,
+          "source": "prompt-report-prompting-inside-the-pkb-20251120082620.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Project X"
+    ],
+    "unique_wiki_link_count": 1,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Project X"
+    ]
+  }
+}

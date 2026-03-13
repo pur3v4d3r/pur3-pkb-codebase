@@ -1,0 +1,391 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.836150",
+    "source_file": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+    "source_file_size_bytes": 5463,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Cosmology Large-Scale Structure of the Universe",
+      "id": "20251018204719",
+      "aliases": [
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": [],
+      "created": "2025-10-18T20:47:19",
+      "source": "gemini-2.5-pro",
+      "url": [],
+      "tags": [
+        "source/rsca",
+        "topic",
+        "topic/educational",
+        "topic/rsca"
+      ]
+    },
+    "word_count": 749,
+    "character_count": 5051,
+    "line_count": 92,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 33,
+    "by_type": {
+      "headings": 8,
+      "callouts": 6,
+      "wiki_links": 0,
+      "inline_fields": 3,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 14,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 2
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Cosmology_Large-Scale Structure of the Universe__🆔20251018204713",
+      "anchor": "topicscosmologylarge-scale-structure-of-the-universe20251018204713",
+      "line_number": 23,
+      "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🌌 The Gravitational Architect: How Dark Matter Scaffolds the Cosmic Web",
+      "anchor": "the-gravitational-architect-how-dark-matter-scaffolds-the-cosmic-web",
+      "line_number": 32,
+      "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🔊 Echoes of the Big Bang: Baryonic Acoustic Oscillations as a Cosmic Standard Ruler",
+      "anchor": "echoes-of-the-big-bang-baryonic-acoustic-oscillations-as-a-cosmic-standard-ruler",
+      "line_number": 45,
+      "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "✨ From Filaments to Superclusters: The Mechanics of Galaxy Formation",
+      "anchor": "from-filaments-to-superclusters-the-mechanics-of-galaxy-formation",
+      "line_number": 58,
+      "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "⚫ The Great Cosmic Emptiness: The Role and Influence of Voids",
+      "anchor": "the-great-cosmic-emptiness-the-role-and-influence-of-voids",
+      "line_number": 70,
+      "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🔭 Mapping the Invisible: The Observational Techniques That Unveiled the LSS",
+      "anchor": "mapping-the-invisible-the-observational-techniques-that-unveiled-the-lss",
+      "line_number": 82,
+      "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "⚖️ The Cosmic Web as a Cosmological Laboratory",
+      "anchor": "the-cosmic-web-as-a-cosmological-laboratory",
+      "line_number": 94,
+      "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 104,
+      "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 30,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+        "char_start": 526,
+        "char_end": 542
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 43,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+        "char_start": 1172,
+        "char_end": 1188
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 56,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+        "char_start": 1852,
+        "char_end": 1868
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 68,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+        "char_start": 2395,
+        "char_end": 2411
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 80,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+        "char_start": 2976,
+        "char_end": 2992
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 92,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md",
+        "char_start": 3594,
+        "char_end": 3610
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [
+      {
+        "field_name": "completion",
+        "value": "2025-10-16",
+        "format": "bracket",
+        "line_number": 27,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-10-16",
+        "format": "bracket",
+        "line_number": 40,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-10-16",
+        "format": "bracket",
+        "line_number": 53,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Cosmology_Large-Scale Structure of the Universe__🆔20251018204713",
+        "anchor": "topicscosmologylarge-scale-structure-of-the-universe20251018204713",
+        "line_number": 23,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      },
+      {
+        "level": 1,
+        "text": "🌌 The Gravitational Architect: How Dark Matter Scaffolds the Cosmic Web",
+        "anchor": "the-gravitational-architect-how-dark-matter-scaffolds-the-cosmic-web",
+        "line_number": 32,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      },
+      {
+        "level": 1,
+        "text": "🔊 Echoes of the Big Bang: Baryonic Acoustic Oscillations as a Cosmic Standard Ruler",
+        "anchor": "echoes-of-the-big-bang-baryonic-acoustic-oscillations-as-a-cosmic-standard-ruler",
+        "line_number": 45,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      },
+      {
+        "level": 1,
+        "text": "✨ From Filaments to Superclusters: The Mechanics of Galaxy Formation",
+        "anchor": "from-filaments-to-superclusters-the-mechanics-of-galaxy-formation",
+        "line_number": 58,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      },
+      {
+        "level": 1,
+        "text": "⚫ The Great Cosmic Emptiness: The Role and Influence of Voids",
+        "anchor": "the-great-cosmic-emptiness-the-role-and-influence-of-voids",
+        "line_number": 70,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      },
+      {
+        "level": 1,
+        "text": "🔭 Mapping the Invisible: The Observational Techniques That Unveiled the LSS",
+        "anchor": "mapping-the-invisible-the-observational-techniques-that-unveiled-the-lss",
+        "line_number": 82,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      },
+      {
+        "level": 1,
+        "text": "⚖️ The Cosmic Web as a Cosmological Laboratory",
+        "anchor": "the-cosmic-web-as-a-cosmological-laboratory",
+        "line_number": 94,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 104,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[x] Completed? [completion:: 2025-10-16]",
+          "indent_level": 0,
+          "line_number": 26,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 28,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "[x] Completed? [completion:: 2025-10-16]",
+          "indent_level": 0,
+          "line_number": 39,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 41,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "[x] Completed? [completion:: 2025-10-16]",
+          "indent_level": 0,
+          "line_number": 52,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 54,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 65,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 77,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 89,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 101,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "**Redshift-Space Distortions:** An exploration of how the peculiar velocities of galaxies (their motion relative to the Hubble flow) distort our maps of the LSS and how cosmologists correct for and use this distortion to measure the growth of structure.",
+          "indent_level": 0,
+          "line_number": 107,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "**The Sunyaev-Zel'dovich Effect:** A study of how the hot gas in galaxy clusters within the cosmic web interacts with the Cosmic Microwave Background radiation, providing another method to detect and study these massive structures.",
+          "indent_level": 0,
+          "line_number": 109,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "**Weak Gravitational Lensing:** An investigation into how the mass of the cosmic web, both dark and luminous, subtly bends the light from background galaxies, allowing cosmologists to map the distribution of matter without relying on visible tracers like galaxies.",
+          "indent_level": 0,
+          "line_number": 110,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        },
+        {
+          "text": "**Cosmological Simulations:** A look into the computational techniques behind large-scale N-body simulations (like Illustris, EAGLE, or Millennium) that model the formation of the cosmic web from first principles, providing a theoretical framework to compare with observations.",
+          "indent_level": 0,
+          "line_number": 111,
+          "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "\\Omega_M",
+        "format": "inline",
+        "line_number": 86,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      },
+      {
+        "expression": "\\Omega_\\Lambda",
+        "format": "inline",
+        "line_number": 90,
+        "source": "topic-set-cosmology-large-scale-structure-of-the-universe--🆔20251018204713.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

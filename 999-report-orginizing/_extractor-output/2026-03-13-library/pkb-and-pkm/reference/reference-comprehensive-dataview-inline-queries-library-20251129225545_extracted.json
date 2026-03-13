@@ -1,0 +1,4319 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.083139",
+    "source_file": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+    "source_file_size_bytes": 40082,
+    "processing_time_seconds": 0.017
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Dataview Inline Query Taxonomy",
+        "Inline Query Collection"
+      ],
+      "tags": [
+        "type/permanent",
+        "year/2025",
+        "type/analysis",
+        "status/in-progress",
+        "pkb",
+        "pkm",
+        "building-second-brain",
+        "critical-thinking/evaluation",
+        "cognitive-load-management",
+        "information-processing-theory",
+        "sustained-attention",
+        "problem-solving",
+        "cognitive-pkm"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251129225811",
+      "created": "2025-11-29T22:58:11",
+      "modified": "2025-11-29T22:58:11",
+      "week": "[[2025-W48]]",
+      "month": "[[2025-11]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "maturity": "seedling",
+      "confidence": "provisional",
+      "next-review": "2025-12-06",
+      "review-count": "0",
+      "link-up": [
+        "[[pkb-&-pkm-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-29|Daily-Note]]"
+      ]
+    },
+    "word_count": 4849,
+    "character_count": 38595,
+    "line_count": 1020,
+    "heading_count": 90
+  },
+  "extraction_summary": {
+    "total_items_extracted": 421,
+    "by_type": {
+      "headings": 90,
+      "callouts": 48,
+      "wiki_links": 79,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 9,
+      "code_blocks": 64,
+      "tables": 2,
+      "external_links": 1,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 36,
+      "lists_unordered": 92,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Dataview Inline Query Taxonomy",
+      "anchor": "dataview-inline-query-taxonomy",
+      "line_number": 38,
+      "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📊 Note Metadata Dashboard",
+          "anchor": "note-metadata-dashboard",
+          "line_number": 45,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Related Notes",
+              "anchor": "related-notes",
+              "line_number": 108,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Sources & References",
+              "anchor": "sources-references",
+              "line_number": 116,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Backlinks & Connections",
+              "anchor": "backlinks-connections",
+              "line_number": 128,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2025-11-29 - Initial Creation",
+              "anchor": "2025-11-29-initial-creation",
+              "line_number": 138,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Tags & Classification",
+              "anchor": "tags-classification",
+              "line_number": 143,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Review System",
+              "anchor": "review-system",
+              "line_number": 148,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Review Checklist:",
+                  "anchor": "review-checklist",
+                  "line_number": 156,
+                  "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "Claude Thinking:",
+              "anchor": "claude-thinking",
+              "line_number": 164,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📑 Table of Contents",
+          "anchor": "table-of-contents",
+          "line_number": 303,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "1. ⏰ Temporal & Date Queries",
+          "anchor": "1-temporal-date-queries",
+          "line_number": 320,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "📅 Basic Date Display",
+              "anchor": "basic-date-display",
+              "line_number": 325,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📊 Age & Staleness Calculations",
+              "anchor": "age-staleness-calculations",
+              "line_number": 337,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "⏳ Deadline & Time-Until Calculations",
+              "anchor": "deadline-time-until-calculations",
+              "line_number": 348,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📆 Relative Date Expressions",
+              "anchor": "relative-date-expressions",
+              "line_number": 359,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🕰️ Time-Since-Last-Action Tracking",
+              "anchor": "time-since-last-action-tracking",
+              "line_number": 372,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🗓️ Custom Date Formatting",
+              "anchor": "custom-date-formatting",
+              "line_number": 379,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "2. 📄 File Metadata Display",
+          "anchor": "2-file-metadata-display",
+          "line_number": 398,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "📁 Basic File Properties",
+              "anchor": "basic-file-properties",
+              "line_number": 403,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🏷️ Tag & Classification Display",
+              "anchor": "tag-classification-display",
+              "line_number": 413,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🌟 File Status Indicators",
+              "anchor": "file-status-indicators",
+              "line_number": 425,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📏 Content Metrics",
+              "anchor": "content-metrics",
+              "line_number": 433,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🗂️ Folder Context Awareness",
+              "anchor": "folder-context-awareness",
+              "line_number": 444,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "3. 🔗 Link & Relationship Queries",
+          "anchor": "3-link-relationship-queries",
+          "line_number": 454,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "🔗 Link Counting",
+              "anchor": "link-counting",
+              "line_number": 459,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🌐 Link Existence Validation",
+              "anchor": "link-existence-validation",
+              "line_number": 471,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📊 Link Strength Indicators",
+              "anchor": "link-strength-indicators",
+              "line_number": 479,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔍 Specific Link Access",
+              "anchor": "specific-link-access",
+              "line_number": 486,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🌉 Cross-Reference Counting",
+              "anchor": "cross-reference-counting",
+              "line_number": 497,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "4. 🎯 Conditional Logic & Validation",
+          "anchor": "4-conditional-logic-validation",
+          "line_number": 506,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "✅ Field Existence Checks",
+              "anchor": "field-existence-checks",
+              "line_number": 511,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🎚️ Multi-Level Conditionals",
+              "anchor": "multi-level-conditionals",
+              "line_number": 522,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔢 Numerical Thresholds",
+              "anchor": "numerical-thresholds",
+              "line_number": 532,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "⚠️ Alert & Warning Conditionals",
+              "anchor": "alert-warning-conditionals",
+              "line_number": 539,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔄 Boolean Field Display",
+              "anchor": "boolean-field-display",
+              "line_number": 546,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "5. 🧮 Mathematical & Computational Queries",
+          "anchor": "5-mathematical-computational-queries",
+          "line_number": 556,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "➕ Basic Arithmetic",
+              "anchor": "basic-arithmetic",
+              "line_number": 561,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📊 Percentage Calculations",
+              "anchor": "percentage-calculations",
+              "line_number": 570,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔢 Rounding & Precision",
+              "anchor": "rounding-precision",
+              "line_number": 581,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📐 Mathematical Functions",
+              "anchor": "mathematical-functions",
+              "line_number": 590,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "⚖️ Ratio & Comparison",
+              "anchor": "ratio-comparison",
+              "line_number": 599,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "6. 📊 Content Analysis Queries",
+          "anchor": "6-content-analysis-queries",
+          "line_number": 609,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "✅ Task Counting",
+              "anchor": "task-counting",
+              "line_number": 614,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📝 List Item Analysis",
+              "anchor": "list-item-analysis",
+              "line_number": 626,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📑 Heading Structure",
+              "anchor": "heading-structure",
+              "line_number": 634,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔍 Pattern Detection",
+              "anchor": "pattern-detection",
+              "line_number": 644,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "7. 📋 List & Array Operations",
+          "anchor": "7-list-array-operations",
+          "line_number": 654,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "📏 List Measurement",
+              "anchor": "list-measurement",
+              "line_number": 659,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🎯 List Access & Slicing",
+              "anchor": "list-access-slicing",
+              "line_number": 667,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔧 List Filtering",
+              "anchor": "list-filtering",
+              "line_number": 679,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "➕ List Construction & Joining",
+              "anchor": "list-construction-joining",
+              "line_number": 687,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔀 List Transformation",
+              "anchor": "list-transformation",
+              "line_number": 695,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "8. 🌐 Cross-Page Data Access",
+          "anchor": "8-cross-page-data-access",
+          "line_number": 705,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "📎 Basic Link Field Access",
+              "anchor": "basic-link-field-access",
+              "line_number": 710,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔗 Multi-Note Data Aggregation",
+              "anchor": "multi-note-data-aggregation",
+              "line_number": 722,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🎯 Conditional Cross-Page Access",
+              "anchor": "conditional-cross-page-access",
+              "line_number": 730,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📊 Cross-Note Calculations",
+              "anchor": "cross-note-calculations",
+              "line_number": 737,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🌉 Relational Lookups",
+              "anchor": "relational-lookups",
+              "line_number": 745,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "9. ⚡ Status & Progress Tracking",
+          "anchor": "9-status-progress-tracking",
+          "line_number": 757,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "🎯 Stage Indicators",
+              "anchor": "stage-indicators",
+              "line_number": 762,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📊 Progress Visualization",
+              "anchor": "progress-visualization",
+              "line_number": 769,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔔 Deadline Status",
+              "anchor": "deadline-status",
+              "line_number": 775,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "✅ Completion Tracking",
+              "anchor": "completion-tracking",
+              "line_number": 781,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🏷️ Priority Display",
+              "anchor": "priority-display",
+              "line_number": 788,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "10. ✍️ Text Manipulation & Formatting",
+          "anchor": "10-text-manipulation-formatting",
+          "line_number": 796,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "✂️ String Truncation",
+              "anchor": "string-truncation",
+              "line_number": 801,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔤 Case Transformation",
+              "anchor": "case-transformation",
+              "line_number": 812,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔍 String Searching",
+              "anchor": "string-searching",
+              "line_number": 820,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "✂️ String Splitting & Joining",
+              "anchor": "string-splitting-joining",
+              "line_number": 827,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔄 String Replacement",
+              "anchor": "string-replacement",
+              "line_number": 835,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "11. 📈 Aggregation & Collection Queries",
+          "anchor": "11-aggregation-collection-queries",
+          "line_number": 847,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "➕ Sum Aggregations",
+              "anchor": "sum-aggregations",
+              "line_number": 852,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📊 Statistical Functions",
+              "anchor": "statistical-functions",
+              "line_number": 860,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📏 Count Operations",
+              "anchor": "count-operations",
+              "line_number": 872,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔢 Derived Metrics",
+              "anchor": "derived-metrics",
+              "line_number": 880,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "12. 💻 Advanced DataviewJS Inline",
+          "anchor": "12-advanced-dataviewjs-inline",
+          "line_number": 890,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "🔧 Basic DataviewJS Syntax",
+              "anchor": "basic-dataviewjs-syntax",
+              "line_number": 898,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📊 Filtered Counts",
+              "anchor": "filtered-counts",
+              "line_number": 909,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🎯 Complex Aggregations",
+              "anchor": "complex-aggregations",
+              "line_number": 917,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔗 Dynamic Link Lists",
+              "anchor": "dynamic-link-lists",
+              "line_number": 924,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🧮 Custom Calculations",
+              "anchor": "custom-calculations",
+              "line_number": 931,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🎨 Conditional Rendering",
+              "anchor": "conditional-rendering",
+              "line_number": 941,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎯 Synthesis & Mastery",
+          "anchor": "synthesis-mastery",
+          "line_number": 950,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "🧠 Cognitive Models",
+              "anchor": "cognitive-models",
+              "line_number": 957,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔄 Best Practices Framework",
+              "anchor": "best-practices-framework",
+              "line_number": 981,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🛠️ Common Patterns & Anti-Patterns",
+              "anchor": "common-patterns-anti-patterns",
+              "line_number": 992,
+              "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📊 Metadata & Attribution",
+          "anchor": "metadata-attribution",
+          "line_number": 1008,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔄 Version History",
+          "anchor": "version-history",
+          "line_number": 1023,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 1031,
+      "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "Untitled",
+        "body": "- **Title**:: [[Dataview Inline Query Taxonomy]]\n- **Prompt/Topic Used**:: \n- **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`",
+        "line_number": 40,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 806,
+        "char_end": 971
+      },
+      {
+        "type": "fail",
+        "title": "🛠️ Metadata Health Check",
+        "body": "**Missing Fields**:: `$= const fields = [\"status\", \"type\", \"tags\"]; const missing = fields.filter(f => !dv.current()[f]); missing.length > 0 ? \"⚠️ Missing: \" + missing.join(\", \") : \"✅ All Systems Go\"`",
+        "line_number": 46,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 1001,
+        "char_end": 1239
+      },
+      {
+        "type": "metadata",
+        "title": "Untitled",
+        "body": "**Note-Type**: `= this.type`\n**Development Status**: `= this.maturity`  \n**Epistemic Confidence**: `= this.confidence`  \n**Next Review**: `= this.next-review`  \n**Review Count**: `= this.review-count`  \n**Created**: `= this.created`  \n**Last Modified**: `= this.modified`",
+        "line_number": 49,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 1240,
+        "char_end": 1540
+      },
+      {
+        "type": "quote",
+        "title": "📝 Content Metrics",
+        "body": "**Word Count**:: `= this.file.size` B | **Est. Read Time**:: `= round(this.file.size / 1300) + \" min\"`\n**Depth Class**:: `= choice(this.file.size < 500, \"🌱 Stub\", choice(this.file.size < 2000, \"📄 Note\", \"📜 Essay\"))`",
+        "line_number": 58,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 1541,
+        "char_end": 1790
+      },
+      {
+        "type": "calendar",
+        "title": "🕰️ Temporal Context",
+        "body": "**Created**:: `= this.file.ctime` | **Age**:: `= (date(today) - this.file.ctime).days + \" days\"`\n**Last Touch**:: `= this.file.mtime` | **Staleness**:: `= choice((date(today) - this.file.mtime).days > 180, \"🕸️ Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂 Cold\", \"🔥 Fresh\"))`",
+        "line_number": 62,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 1791,
+        "char_end": 2122
+      },
+      {
+        "type": "network",
+        "title": "🔗 Network Connectivity",
+        "body": "**In-Links**:: `= length(this.file.inlinks)` | **Out-Links**:: `= length(this.file.outlinks)`\n**Network Status**:: `= choice(length(this.file.inlinks) = 0, \"🕸️ Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱 Node\"))`",
+        "line_number": 66,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 2123,
+        "char_end": 2391
+      },
+      {
+        "type": "important",
+        "title": "Review Schedule",
+        "body": "- **Next Review**: `= this.next-review`\n- **Review Frequency**: Based on maturity level\n  - Seedling: Weekly\n  - Budding: Bi-weekly\n  - Developing: Monthly\n  - Evergreen: Quarterly",
+        "line_number": 149,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 4557,
+        "char_end": 4781
+      },
+      {
+        "type": "comprehensive-reference",
+        "title": "📚 Comprehensive-Reference",
+        "body": "- **Generated**:: 2024-11-29\n- **Version**:: 1.0\n- **Type**:: Reference Taxonomy",
+        "line_number": 290,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 9284,
+        "char_end": 9426
+      },
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "**Executive Overview**\nThis note is an exhaustive taxonomy of [[Dataview Plugin]] inline query patterns for [[Obsidian]] vaults. It serves as a single-source-of-truth reference containing working inline query examples across all functional categories—from temporal calculations to link analysis to conditional logic. Use this as your go-to resource when building [[Note Templates]], dashboards, or dynamic metadata displays.",
+        "line_number": 295,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 9427,
+        "char_end": 9870
+      },
+      {
+        "type": "how-to-use-this",
+        "title": "Untitled",
+        "body": "**Navigation Guide**\nThis reference is organized into 12 functional categories covering every major use case for inline queries. Each category contains multiple working examples with explanatory context. Use the table of contents for quick navigation, or search for specific patterns using [[Wiki-Links]]. All examples are production-ready and can be copied directly into your vault.",
+        "line_number": 299,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 9871,
+        "char_end": 10280
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Temporal Queries** access and manipulate date-based [[Metadata]] to track time-sensitive information, calculate durations, and display time-relative context.",
+        "line_number": 322,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 11139,
+        "char_end": 11317
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "Displays core temporal metadata using [[Dataview Functions]]. `file.ctime` and `file.mtime` are [[Implicit Fields]] automatically indexed by Dataview. The `date(today)` function returns the current date, while `dur()` creates duration objects for calculations.",
+        "line_number": 334,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 11498,
+        "char_end": 11781
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Use Case**: [[Zettelkasten]] note gardening. The staleness indicator automatically classifies notes as \"Fresh\" (edited within 30 days), \"Cold\" (30-180 days), or \"Cobwebs\" (180+ days), enabling systematic review workflows.",
+        "line_number": 345,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 12121,
+        "char_end": 12360
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "Combine with [[Templater Plugin]] to auto-populate due dates in [[Project Management]] notes. The overdue calculation creates dynamic status indicators without manual updates.",
+        "line_number": 356,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 12660,
+        "char_end": 12855
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "Uses Dataview's date manipulation functions for period-based calculations. `som` (start of month), `eom` (end of month), and `soy` (start of year) are predefined constants. Useful for [[Dashboard Design]] and periodic review systems.",
+        "line_number": 369,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 13116,
+        "char_end": 13372
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "Uses Moment.js formatting syntax. Common patterns:\n- `YYYY` = 4-digit year\n- `MM` = 2-digit month\n- `DD` = 2-digit day\n- `dddd` = full weekday name\n- `HH:mm:ss` = 24-hour time",
+        "line_number": 388,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 13995,
+        "char_end": 14212
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**File Metadata Queries** access system-generated properties about the note itself—its location, size, naming, and organizational context.",
+        "line_number": 400,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 14249,
+        "char_end": 14406
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "`file.tags` returns an array of all tags in the note. Arrays can be indexed (`[0]` for first item) and measured with `length()`. The `contains()` function checks array membership for conditional displays.",
+        "line_number": 422,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 14897,
+        "char_end": 15124
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Performance Note**: `file.content` can be resource-intensive on large files. Use sparingly in notes with extensive content or frequent updates.",
+        "line_number": 441,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 15547,
+        "char_end": 15708
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Link Queries** analyze the [[Knowledge Graph]] connections between notes, tracking [[Backlinks]], outgoing links, and relational density.",
+        "line_number": 456,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 15989,
+        "char_end": 16147
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Use Case**: [[MOC]] (Maps of Content) health monitoring. High outlink counts suggest hub notes, while low backlink counts identify orphaned concepts needing integration.",
+        "line_number": 468,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 16474,
+        "char_end": 16661
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "The random outlink pattern creates serendipitous navigation paths—useful for [[Zettelkasten]] exploration and breaking filter bubbles in your knowledge graph.",
+        "line_number": 494,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 17621,
+        "char_end": 17799
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Conditional Queries** implement decision logic to display different values based on metadata state, enabling dynamic validation and adaptive displays.",
+        "line_number": 508,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 18114,
+        "char_end": 18285
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "The `contains(this, \"field-name\")` pattern checks if a field exists in the current note's [[YAML Frontmatter]] or [[Inline Fields]]. Essential for template validation and metadata quality control.",
+        "line_number": 519,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 18614,
+        "char_end": 18833
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "Nested `choice()` functions create if-else-if chains. Syntax: `choice(condition, value-if-true, value-if-false)`. Can nest indefinitely, though readability degrades beyond 3-4 levels.",
+        "line_number": 529,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 19190,
+        "char_end": 19405
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Computational Queries** perform mathematical operations on numerical [[Metadata]] fields, enabling calculations, aggregations, and derived metrics.",
+        "line_number": 558,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 20437,
+        "char_end": 20605
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Use Case**: [[Project Management]] dashboards. The progress percentage auto-updates as task counts change, creating a live completion tracker without manual calculation.",
+        "line_number": 578,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 21146,
+        "char_end": 21333
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Content Analysis Queries** examine the structural elements within notes—tasks, lists, headings, and content patterns.",
+        "line_number": 611,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 22074,
+        "char_end": 22212
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "Accesses [[Implicit Fields]] for task data. The `filter()` function creates subsets based on task properties. `t.completed` is a boolean indicating task completion status.",
+        "line_number": 623,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 22622,
+        "char_end": 22816
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "These queries parse `file.content` which can impact performance. Use judiciously in large vaults or consider DataviewJS alternatives for complex content analysis.",
+        "line_number": 641,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 23296,
+        "char_end": 23474
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**List Operations** manipulate arrays of values—including tags, links, and multi-value fields—using filtering, mapping, and extraction functions.",
+        "line_number": 656,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 23848,
+        "char_end": 24012
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "Array indexing is zero-based. `list[0]` retrieves the first element, `list[1]` the second, etc. Use `length(list) - 1` to access the final element.",
+        "line_number": 676,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 24489,
+        "char_end": 24656
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Cross-Page Queries** retrieve [[Metadata]] from other notes via [[Wiki-Links]], enabling relational data displays and inter-note dependencies.",
+        "line_number": 707,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 25338,
+        "char_end": 25501
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "Syntax: `[[Note Name]].field-name`. Works with both [[YAML Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.",
+        "line_number": 719,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 25734,
+        "char_end": 25921
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "Cross-page queries fail silently if the linked note or field doesn't exist. Use conditional checks for robust implementations.",
+        "line_number": 752,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 26940,
+        "char_end": 27082
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Status Queries** create dynamic indicators for workflow states, project stages, and task progression using visual symbols and conditional logic.",
+        "line_number": 759,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 27124,
+        "char_end": 27289
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Text Queries** transform and format string values using [[Dataview Functions]] for display enhancement and data cleaning.",
+        "line_number": 798,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 28915,
+        "char_end": 29057
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "`truncate(string, max-length, suffix)` cuts strings at the specified length and appends an optional suffix. Essential for preview displays and table columns with character limits.",
+        "line_number": 809,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 29268,
+        "char_end": 29470
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "Use string manipulation for cleaning imported data, standardizing displays, or extracting substrings from structured field values.",
+        "line_number": 842,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 30274,
+        "char_end": 30424
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Aggregation Queries** compute summary statistics across multiple values using [[Dataview Functions]] like `sum()`, `average()`, `min()`, and `max()`.",
+        "line_number": 849,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 30473,
+        "char_end": 30643
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "Aggregation functions operate on arrays. Pass a field containing multiple values or construct an inline array with `[value1, value2, value3]` syntax.",
+        "line_number": 869,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 31064,
+        "char_end": 31236
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**DataviewJS Inline Queries** use JavaScript syntax (`` `$= ...` ``) for complex operations, API access, and dynamic rendering beyond DQL capabilities.",
+        "line_number": 892,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 31756,
+        "char_end": 31926
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "**Security Note**: DataviewJS has file system access. Only use code you understand or trust. Enable in Dataview settings under \"Enable JavaScript Queries\".",
+        "line_number": 895,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 31927,
+        "char_end": 32100
+      },
+      {
+        "type": "what-this-does",
+        "title": "Untitled",
+        "body": "`dv.current()` returns the current page object. `dv.pages()` returns all pages in the vault. DataviewJS provides the full Dataview API via the `dv` variable.",
+        "line_number": 906,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 32286,
+        "char_end": 32466
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "DataviewJS excels at vault-wide statistics, complex filters, and operations requiring JavaScript methods unavailable in DQL. Use for dashboards and analytics.",
+        "line_number": 938,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 33588,
+        "char_end": 33766
+      },
+      {
+        "type": "the-philosophy",
+        "title": "Untitled",
+        "body": "**The Philosophy of Inline Queries**\n\nInline queries transform your [[Personal Knowledge Base]] from a static archive into a living, reactive system. They embody the principle of \"**write once, compute infinitely**\"—metadata entered once propagates through your vault via dynamic queries, eliminating manual updates and ensuring single-source-of-truth data integrity. This creates a [[Distributed Cognition]] architecture where your notes actively support knowledge work rather than passively storing it.",
+        "line_number": 952,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 34038,
+        "char_end": 34569
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**Illuminating Comparison**\n\nThink of inline queries as **embedded sensors** in your vault. Just as a smart home has sensors that report temperature, motion, and air quality without manual checking, inline queries monitor your notes' metadata and relationships, surfacing insights automatically. The difference? These sensors don't just report—they *compute*, enabling derived metrics and conditional logic that adapt to your knowledge base's evolution.",
+        "line_number": 976,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 35172,
+        "char_end": 35645
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Research Methodology**\n\nThis taxonomy was compiled through:\n- **Primary Sources**: [Official Dataview Documentation](https://blacksmithgu.github.io/obsidian-dataview/), Dataview Example Vault\n- **Community Resources**: Obsidian Forums, GitHub discussions, practitioner blogs\n- **Research Queries**: \"Dataview inline query syntax\", \"inline DQL examples\", \"Dataview functions reference\"\n- **Synthesis Approach**: Pattern categorization by functional domain, validation of syntax against v0.5.x standard\n- **Confidence Level**: \n  - **High**: Basic syntax, core functions, file metadata\n  - **Medium**: Advanced DataviewJS patterns, performance optimizations\n  - **Low**: Undocumented edge cases, version-specific behaviors",
+        "line_number": 1010,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md",
+        "char_start": 37019,
+        "char_end": 37793
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Dataview Inline Query Taxonomy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Inline Query Taxonomy]]",
+        "line_number": 41,
+        "section": "Dataview Inline Query Taxonomy",
+        "context_line": "> - **Title**:: [[Dataview Inline Query Taxonomy]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 254,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Dataview Plugin]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 255,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Obsidian]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Inline Queries",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inline Queries]]",
+        "line_number": 256,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Inline Queries]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Dataview Expressions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Expressions]]",
+        "line_number": 257,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Dataview Expressions]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Metadata",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metadata]]",
+        "line_number": 258,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Metadata]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Frontmatter",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Frontmatter]]",
+        "line_number": 259,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Frontmatter]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 260,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Zettelkasten]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Personal Knowledge Base",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Base]]",
+        "line_number": 261,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Personal Knowledge Base]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Templater Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater Plugin]]",
+        "line_number": 262,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Templater Plugin]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "File Properties",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[File Properties]]",
+        "line_number": 263,
+        "section": "Claude Thinking:",
+        "context_line": "- [[File Properties]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Wiki-Links",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Wiki-Links]]",
+        "line_number": 264,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Wiki-Links]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Backlinks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Backlinks]]",
+        "line_number": 265,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Backlinks]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Knowledge Graph",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Graph]]",
+        "line_number": 266,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Knowledge Graph]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Note Templates",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Note Templates]]",
+        "line_number": 267,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Note Templates]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[MOC]]",
+        "line_number": 268,
+        "section": "Claude Thinking:",
+        "context_line": "- [[MOC]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Temporal Analysis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Temporal Analysis]]",
+        "line_number": 269,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Temporal Analysis]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Folder Structure",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Folder Structure]]",
+        "line_number": 270,
+        "section": "Claude Thinking:",
+        "context_line": "- [[Folder Structure]]",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 297,
+        "section": "Claude Thinking:",
+        "context_line": "> This note is an exhaustive taxonomy of [[Dataview Plugin]] inline query patterns for [[Obsidian]] vaults. It serves as a single-source-of-truth reference containing working inline query examples across all functional categories—from temporal calculations to link analysis to conditional logic. Use this as your go-to resource when building [[Note Templates]], dashboards, or dynamic metadata displays.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 297,
+        "section": "Claude Thinking:",
+        "context_line": "> This note is an exhaustive taxonomy of [[Dataview Plugin]] inline query patterns for [[Obsidian]] vaults. It serves as a single-source-of-truth reference containing working inline query examples across all functional categories—from temporal calculations to link analysis to conditional logic. Use this as your go-to resource when building [[Note Templates]], dashboards, or dynamic metadata displays.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Note Templates",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Note Templates]]",
+        "line_number": 297,
+        "section": "Claude Thinking:",
+        "context_line": "> This note is an exhaustive taxonomy of [[Dataview Plugin]] inline query patterns for [[Obsidian]] vaults. It serves as a single-source-of-truth reference containing working inline query examples across all functional categories—from temporal calculations to link analysis to conditional logic. Use this as your go-to resource when building [[Note Templates]], dashboards, or dynamic metadata displays.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Wiki-Links",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Wiki-Links]]",
+        "line_number": 301,
+        "section": "Claude Thinking:",
+        "context_line": "> This reference is organized into 12 functional categories covering every major use case for inline queries. Each category contains multiple working examples with explanatory context. Use the table of contents for quick navigation, or search for specific patterns using [[Wiki-Links]]. All examples are production-ready and can be copied directly into your vault.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Metadata",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metadata]]",
+        "line_number": 323,
+        "section": "1. ⏰ Temporal & Date Queries",
+        "context_line": "> **Temporal Queries** access and manipulate date-based [[Metadata]] to track time-sensitive information, calculate durations, and display time-relative context.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Dataview Functions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Functions]]",
+        "line_number": 335,
+        "section": "📅 Basic Date Display",
+        "context_line": "> Displays core temporal metadata using [[Dataview Functions]]. `file.ctime` and `file.mtime` are [[Implicit Fields]] automatically indexed by Dataview. The `date(today)` function returns the current date, while `dur()` creates duration objects for calculations.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Implicit Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implicit Fields]]",
+        "line_number": 335,
+        "section": "📅 Basic Date Display",
+        "context_line": "> Displays core temporal metadata using [[Dataview Functions]]. `file.ctime` and `file.mtime` are [[Implicit Fields]] automatically indexed by Dataview. The `date(today)` function returns the current date, while `dur()` creates duration objects for calculations.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 346,
+        "section": "📊 Age & Staleness Calculations",
+        "context_line": "> **Use Case**: [[Zettelkasten]] note gardening. The staleness indicator automatically classifies notes as \"Fresh\" (edited within 30 days), \"Cold\" (30-180 days), or \"Cobwebs\" (180+ days), enabling systematic review workflows.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Templater Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater Plugin]]",
+        "line_number": 357,
+        "section": "⏳ Deadline & Time-Until Calculations",
+        "context_line": "> Combine with [[Templater Plugin]] to auto-populate due dates in [[Project Management]] notes. The overdue calculation creates dynamic status indicators without manual updates.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Project Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Management]]",
+        "line_number": 357,
+        "section": "⏳ Deadline & Time-Until Calculations",
+        "context_line": "> Combine with [[Templater Plugin]] to auto-populate due dates in [[Project Management]] notes. The overdue calculation creates dynamic status indicators without manual updates.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Dashboard Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dashboard Design]]",
+        "line_number": 370,
+        "section": "📆 Relative Date Expressions",
+        "context_line": "> Uses Dataview's date manipulation functions for period-based calculations. `som` (start of month), `eom` (end of month), and `soy` (start of year) are predefined constants. Useful for [[Dashboard Design]] and periodic review systems.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Knowledge Graph",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Graph]]",
+        "line_number": 457,
+        "section": "3. 🔗 Link & Relationship Queries",
+        "context_line": "> **Link Queries** analyze the [[Knowledge Graph]] connections between notes, tracking [[Backlinks]], outgoing links, and relational density.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Backlinks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Backlinks]]",
+        "line_number": 457,
+        "section": "3. 🔗 Link & Relationship Queries",
+        "context_line": "> **Link Queries** analyze the [[Knowledge Graph]] connections between notes, tracking [[Backlinks]], outgoing links, and relational density.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[MOC]]",
+        "line_number": 469,
+        "section": "🔗 Link Counting",
+        "context_line": "> **Use Case**: [[MOC]] (Maps of Content) health monitoring. High outlink counts suggest hub notes, while low backlink counts identify orphaned concepts needing integration.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 495,
+        "section": "🔍 Specific Link Access",
+        "context_line": "> The random outlink pattern creates serendipitous navigation paths—useful for [[Zettelkasten]] exploration and breaking filter bubbles in your knowledge graph.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "YAML Frontmatter",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[YAML Frontmatter]]",
+        "line_number": 520,
+        "section": "✅ Field Existence Checks",
+        "context_line": "> The `contains(this, \"field-name\")` pattern checks if a field exists in the current note's [[YAML Frontmatter]] or [[Inline Fields]]. Essential for template validation and metadata quality control.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Inline Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inline Fields]]",
+        "line_number": 520,
+        "section": "✅ Field Existence Checks",
+        "context_line": "> The `contains(this, \"field-name\")` pattern checks if a field exists in the current note's [[YAML Frontmatter]] or [[Inline Fields]]. Essential for template validation and metadata quality control.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Metadata",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metadata]]",
+        "line_number": 559,
+        "section": "5. 🧮 Mathematical & Computational Queries",
+        "context_line": "> **Computational Queries** perform mathematical operations on numerical [[Metadata]] fields, enabling calculations, aggregations, and derived metrics.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Project Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Management]]",
+        "line_number": 579,
+        "section": "📊 Percentage Calculations",
+        "context_line": "> **Use Case**: [[Project Management]] dashboards. The progress percentage auto-updates as task counts change, creating a live completion tracker without manual calculation.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Implicit Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implicit Fields]]",
+        "line_number": 624,
+        "section": "✅ Task Counting",
+        "context_line": "> Accesses [[Implicit Fields]] for task data. The `filter()` function creates subsets based on task properties. `t.completed` is a boolean indicating task completion status.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Metadata",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metadata]]",
+        "line_number": 708,
+        "section": "8. 🌐 Cross-Page Data Access",
+        "context_line": "> **Cross-Page Queries** retrieve [[Metadata]] from other notes via [[Wiki-Links]], enabling relational data displays and inter-note dependencies.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Wiki-Links",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Wiki-Links]]",
+        "line_number": 708,
+        "section": "8. 🌐 Cross-Page Data Access",
+        "context_line": "> **Cross-Page Queries** retrieve [[Metadata]] from other notes via [[Wiki-Links]], enabling relational data displays and inter-note dependencies.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Project Alpha",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Alpha]]",
+        "line_number": 713,
+        "section": "📎 Basic Link Field Access",
+        "context_line": "**Project Status**: `= [[Project Alpha]].status`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Book Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Book Note]]",
+        "line_number": 714,
+        "section": "📎 Basic Link Field Access",
+        "context_line": "**Author Name**: `= [[Book Note]].author`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Reference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reference]]",
+        "line_number": 715,
+        "section": "📎 Basic Link Field Access",
+        "context_line": "**Creation Date**: `= [[Reference]].file.ctime`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Related Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Related Note]]",
+        "line_number": 716,
+        "section": "📎 Basic Link Field Access",
+        "context_line": "**Tag List**: `= [[Related Note]].file.tags`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Note Name",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Note Name]]",
+        "line_number": 720,
+        "section": "📎 Basic Link Field Access",
+        "context_line": "> Syntax: `[[Note Name]].field-name`. Works with both [[YAML Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "YAML Frontmatter",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[YAML Frontmatter]]",
+        "line_number": 720,
+        "section": "📎 Basic Link Field Access",
+        "context_line": "> Syntax: `[[Note Name]].field-name`. Works with both [[YAML Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Implicit Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implicit Fields]]",
+        "line_number": 720,
+        "section": "📎 Basic Link Field Access",
+        "context_line": "> Syntax: `[[Note Name]].field-name`. Works with both [[YAML Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Project A",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project A]]",
+        "line_number": 725,
+        "section": "🔗 Multi-Note Data Aggregation",
+        "context_line": "**Combined Budget**: `= [[Project A]].budget + [[Project B]].budget + [[Project C]].budget`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Project B",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project B]]",
+        "line_number": 725,
+        "section": "🔗 Multi-Note Data Aggregation",
+        "context_line": "**Combined Budget**: `= [[Project A]].budget + [[Project B]].budget + [[Project C]].budget`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Project C",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project C]]",
+        "line_number": 725,
+        "section": "🔗 Multi-Note Data Aggregation",
+        "context_line": "**Combined Budget**: `= [[Project A]].budget + [[Project B]].budget + [[Project C]].budget`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Team Roster",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Team Roster]]",
+        "line_number": 726,
+        "section": "🔗 Multi-Note Data Aggregation",
+        "context_line": "**Team Size**: `= length([[Team Roster]].members)`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Reference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reference]]",
+        "line_number": 727,
+        "section": "🔗 Multi-Note Data Aggregation",
+        "context_line": "**Linked Note Age**: `= (date(today) - [[Reference]].file.ctime).days + \" days old\"`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Parent Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Parent Note]]",
+        "line_number": 733,
+        "section": "🎯 Conditional Cross-Page Access",
+        "context_line": "**Parent Status**: `= choice(contains([[Parent Note]], \"status\"), [[Parent Note]].status, \"Status not set\")`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Parent Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Parent Note]]",
+        "line_number": 733,
+        "section": "🎯 Conditional Cross-Page Access",
+        "context_line": "**Parent Status**: `= choice(contains([[Parent Note]], \"status\"), [[Parent Note]].status, \"Status not set\")`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Linked Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Linked Note]]",
+        "line_number": 734,
+        "section": "🎯 Conditional Cross-Page Access",
+        "context_line": "**Safe Access**: `= choice([[Linked Note]].value, [[Linked Note]].value, \"Field missing\")`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Linked Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Linked Note]]",
+        "line_number": 734,
+        "section": "🎯 Conditional Cross-Page Access",
+        "context_line": "**Safe Access**: `= choice([[Linked Note]].value, [[Linked Note]].value, \"Field missing\")`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Project",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project]]",
+        "line_number": 740,
+        "section": "📊 Cross-Note Calculations",
+        "context_line": "**Project Progress**: `= round(([[Project]].completed / [[Project]].total) * 100) + \"%\"`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Project",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project]]",
+        "line_number": 740,
+        "section": "📊 Cross-Note Calculations",
+        "context_line": "**Project Progress**: `= round(([[Project]].completed / [[Project]].total) * 100) + \"%\"`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Meeting Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Meeting Note]]",
+        "line_number": 741,
+        "section": "📊 Cross-Note Calculations",
+        "context_line": "**Days Until Deadline**: `= ([[Meeting Note]].date - date(today)).days + \" days\"`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Essay Part 1",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Essay Part 1]]",
+        "line_number": 742,
+        "section": "📊 Cross-Note Calculations",
+        "context_line": "**Combined Word Count**: `= [[Essay Part 1]].word-count + [[Essay Part 2]].word-count`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Essay Part 2",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Essay Part 2]]",
+        "line_number": 742,
+        "section": "📊 Cross-Note Calculations",
+        "context_line": "**Combined Word Count**: `= [[Essay Part 1]].word-count + [[Essay Part 2]].word-count`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Authors/",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Authors/]]",
+        "line_number": 748,
+        "section": "🌉 Relational Lookups",
+        "context_line": "**Author Bio**: `= [[Authors/]] + this.author + ]].bio`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Categories/",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Categories/]]",
+        "line_number": 749,
+        "section": "🌉 Relational Lookups",
+        "context_line": "**Category Description**: `= [[Categories/]] + this.category + ]].description`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Dataview Functions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Functions]]",
+        "line_number": 799,
+        "section": "10. ✍️ Text Manipulation & Formatting",
+        "context_line": "> **Text Queries** transform and format string values using [[Dataview Functions]] for display enhancement and data cleaning.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Dataview Functions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Functions]]",
+        "line_number": 850,
+        "section": "11. 📈 Aggregation & Collection Queries",
+        "context_line": "> **Aggregation Queries** compute summary statistics across multiple values using [[Dataview Functions]] like `sum()`, `average()`, `min()`, and `max()`.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Personal Knowledge Base",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Base]]",
+        "line_number": 955,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> Inline queries transform your [[Personal Knowledge Base]] from a static archive into a living, reactive system. They embody the principle of \"**write once, compute infinitely**\"—metadata entered once propagates through your vault via dynamic queries, eliminating manual updates and ensuring single-source-of-truth data integrity. This creates a [[Distributed Cognition]] architecture where your notes actively support knowledge work rather than passively storing it.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Distributed Cognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Distributed Cognition]]",
+        "line_number": 955,
+        "section": "🎯 Synthesis & Mastery",
+        "context_line": "> Inline queries transform your [[Personal Knowledge Base]] from a static archive into a living, reactive system. They embody the principle of \"**write once, compute infinitely**\"—metadata entered once propagates through your vault via dynamic queries, eliminating manual updates and ensuring single-source-of-truth data integrity. This creates a [[Distributed Cognition]] architecture where your notes actively support knowledge work rather than passively storing it.",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Note]]",
+        "line_number": 963,
+        "section": "🧠 Cognitive Models",
+        "context_line": "- Cross-page access: `[[Note]].field`",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Templater Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater Plugin]]",
+        "line_number": 988,
+        "section": "🔄 Best Practices Framework",
+        "context_line": "| **Template Integration** | Embed queries in [[Templater Plugin]] templates | Automates setup for new notes |",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "YAML Frontmatter",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[YAML Frontmatter]]",
+        "line_number": 995,
+        "section": "🛠️ Common Patterns & Anti-Patterns",
+        "context_line": "- Cache complex queries in [[YAML Frontmatter]] for reuse",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[MOC]]",
+        "line_number": 997,
+        "section": "🛠️ Common Patterns & Anti-Patterns",
+        "context_line": "- Combine with [[MOC]] patterns for vault-wide dashboards",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Dataview Functions Reference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Functions Reference]]",
+        "line_number": 1033,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Dataview Functions Reference]]**",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Dataview Query Language (DQL) Block Queries",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Query Language (DQL) Block Queries]]",
+        "line_number": 1038,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Dataview Query Language (DQL) Block Queries]]**",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Template-Driven Note Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Template-Driven Note Architecture]]",
+        "line_number": 1043,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Template-Driven Note Architecture]]**",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Templater Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater Plugin]]",
+        "line_number": 1045,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Depth Potential*: [[Templater Plugin]] + [[QuickAdd]] integration patterns for automated query insertion",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "QuickAdd",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[QuickAdd]]",
+        "line_number": 1045,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Depth Potential*: [[Templater Plugin]] + [[QuickAdd]] integration patterns for automated query insertion",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Metadata Schema Design for PKBs",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metadata Schema Design for PKBs]]",
+        "line_number": 1048,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Metadata Schema Design for PKBs]]**",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "YAML Frontmatter",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[YAML Frontmatter]]",
+        "line_number": 1050,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Depth Potential*: [[YAML Frontmatter]] standards, [[Inline Fields]] best practices, field naming taxonomies",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "target": "Inline Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inline Fields]]",
+        "line_number": 1050,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Depth Potential*: [[YAML Frontmatter]] standards, [[Inline Fields]] best practices, field naming taxonomies",
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 220,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "tag": "dataview",
+        "full_tag": "#dataview",
+        "hierarchy": [
+          "dataview"
+        ],
+        "line_number": 220,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "tag": "inline-queries",
+        "full_tag": "#inline-queries",
+        "hierarchy": [
+          "inline-queries"
+        ],
+        "line_number": 222,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 222,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "tag": "pkm",
+        "full_tag": "#pkm",
+        "hierarchy": [
+          "pkm"
+        ],
+        "line_number": 223,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 539,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "tag": "your-tag",
+        "full_tag": "#your-tag",
+        "hierarchy": [
+          "your-tag"
+        ],
+        "line_number": 542,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "tag": "books",
+        "full_tag": "#books",
+        "hierarchy": [
+          "books"
+        ],
+        "line_number": 546,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "tag": "books",
+        "full_tag": "#books",
+        "hierarchy": [
+          "books"
+        ],
+        "line_number": 549,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Dataview Inline Query Taxonomy",
+        "anchor": "dataview-inline-query-taxonomy",
+        "line_number": 38,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Note Metadata Dashboard",
+        "anchor": "note-metadata-dashboard",
+        "line_number": 45,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "Related Notes",
+        "anchor": "related-notes",
+        "line_number": 108,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "Sources & References",
+        "anchor": "sources-references",
+        "line_number": 116,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "Backlinks & Connections",
+        "anchor": "backlinks-connections",
+        "line_number": 128,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "2025-11-29 - Initial Creation",
+        "anchor": "2025-11-29-initial-creation",
+        "line_number": 138,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "Tags & Classification",
+        "anchor": "tags-classification",
+        "line_number": 143,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "Review System",
+        "anchor": "review-system",
+        "line_number": 148,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 4,
+        "text": "Review Checklist:",
+        "anchor": "review-checklist",
+        "line_number": 156,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "Claude Thinking:",
+        "anchor": "claude-thinking",
+        "line_number": 164,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "📑 Table of Contents",
+        "anchor": "table-of-contents",
+        "line_number": 303,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "1. ⏰ Temporal & Date Queries",
+        "anchor": "1-temporal-date-queries",
+        "line_number": 320,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📅 Basic Date Display",
+        "anchor": "basic-date-display",
+        "line_number": 325,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📊 Age & Staleness Calculations",
+        "anchor": "age-staleness-calculations",
+        "line_number": 337,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "⏳ Deadline & Time-Until Calculations",
+        "anchor": "deadline-time-until-calculations",
+        "line_number": 348,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📆 Relative Date Expressions",
+        "anchor": "relative-date-expressions",
+        "line_number": 359,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🕰️ Time-Since-Last-Action Tracking",
+        "anchor": "time-since-last-action-tracking",
+        "line_number": 372,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🗓️ Custom Date Formatting",
+        "anchor": "custom-date-formatting",
+        "line_number": 379,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "2. 📄 File Metadata Display",
+        "anchor": "2-file-metadata-display",
+        "line_number": 398,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📁 Basic File Properties",
+        "anchor": "basic-file-properties",
+        "line_number": 403,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🏷️ Tag & Classification Display",
+        "anchor": "tag-classification-display",
+        "line_number": 413,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🌟 File Status Indicators",
+        "anchor": "file-status-indicators",
+        "line_number": 425,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📏 Content Metrics",
+        "anchor": "content-metrics",
+        "line_number": 433,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🗂️ Folder Context Awareness",
+        "anchor": "folder-context-awareness",
+        "line_number": 444,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "3. 🔗 Link & Relationship Queries",
+        "anchor": "3-link-relationship-queries",
+        "line_number": 454,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔗 Link Counting",
+        "anchor": "link-counting",
+        "line_number": 459,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🌐 Link Existence Validation",
+        "anchor": "link-existence-validation",
+        "line_number": 471,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📊 Link Strength Indicators",
+        "anchor": "link-strength-indicators",
+        "line_number": 479,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔍 Specific Link Access",
+        "anchor": "specific-link-access",
+        "line_number": 486,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🌉 Cross-Reference Counting",
+        "anchor": "cross-reference-counting",
+        "line_number": 497,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "4. 🎯 Conditional Logic & Validation",
+        "anchor": "4-conditional-logic-validation",
+        "line_number": 506,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "✅ Field Existence Checks",
+        "anchor": "field-existence-checks",
+        "line_number": 511,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🎚️ Multi-Level Conditionals",
+        "anchor": "multi-level-conditionals",
+        "line_number": 522,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔢 Numerical Thresholds",
+        "anchor": "numerical-thresholds",
+        "line_number": 532,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "⚠️ Alert & Warning Conditionals",
+        "anchor": "alert-warning-conditionals",
+        "line_number": 539,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔄 Boolean Field Display",
+        "anchor": "boolean-field-display",
+        "line_number": 546,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "5. 🧮 Mathematical & Computational Queries",
+        "anchor": "5-mathematical-computational-queries",
+        "line_number": 556,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "➕ Basic Arithmetic",
+        "anchor": "basic-arithmetic",
+        "line_number": 561,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📊 Percentage Calculations",
+        "anchor": "percentage-calculations",
+        "line_number": 570,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔢 Rounding & Precision",
+        "anchor": "rounding-precision",
+        "line_number": 581,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📐 Mathematical Functions",
+        "anchor": "mathematical-functions",
+        "line_number": 590,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "⚖️ Ratio & Comparison",
+        "anchor": "ratio-comparison",
+        "line_number": 599,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "6. 📊 Content Analysis Queries",
+        "anchor": "6-content-analysis-queries",
+        "line_number": 609,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "✅ Task Counting",
+        "anchor": "task-counting",
+        "line_number": 614,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📝 List Item Analysis",
+        "anchor": "list-item-analysis",
+        "line_number": 626,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📑 Heading Structure",
+        "anchor": "heading-structure",
+        "line_number": 634,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔍 Pattern Detection",
+        "anchor": "pattern-detection",
+        "line_number": 644,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "7. 📋 List & Array Operations",
+        "anchor": "7-list-array-operations",
+        "line_number": 654,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📏 List Measurement",
+        "anchor": "list-measurement",
+        "line_number": 659,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🎯 List Access & Slicing",
+        "anchor": "list-access-slicing",
+        "line_number": 667,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔧 List Filtering",
+        "anchor": "list-filtering",
+        "line_number": 679,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "➕ List Construction & Joining",
+        "anchor": "list-construction-joining",
+        "line_number": 687,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔀 List Transformation",
+        "anchor": "list-transformation",
+        "line_number": 695,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "8. 🌐 Cross-Page Data Access",
+        "anchor": "8-cross-page-data-access",
+        "line_number": 705,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📎 Basic Link Field Access",
+        "anchor": "basic-link-field-access",
+        "line_number": 710,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔗 Multi-Note Data Aggregation",
+        "anchor": "multi-note-data-aggregation",
+        "line_number": 722,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🎯 Conditional Cross-Page Access",
+        "anchor": "conditional-cross-page-access",
+        "line_number": 730,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📊 Cross-Note Calculations",
+        "anchor": "cross-note-calculations",
+        "line_number": 737,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🌉 Relational Lookups",
+        "anchor": "relational-lookups",
+        "line_number": 745,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "9. ⚡ Status & Progress Tracking",
+        "anchor": "9-status-progress-tracking",
+        "line_number": 757,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🎯 Stage Indicators",
+        "anchor": "stage-indicators",
+        "line_number": 762,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📊 Progress Visualization",
+        "anchor": "progress-visualization",
+        "line_number": 769,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔔 Deadline Status",
+        "anchor": "deadline-status",
+        "line_number": 775,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "✅ Completion Tracking",
+        "anchor": "completion-tracking",
+        "line_number": 781,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🏷️ Priority Display",
+        "anchor": "priority-display",
+        "line_number": 788,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "10. ✍️ Text Manipulation & Formatting",
+        "anchor": "10-text-manipulation-formatting",
+        "line_number": 796,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "✂️ String Truncation",
+        "anchor": "string-truncation",
+        "line_number": 801,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔤 Case Transformation",
+        "anchor": "case-transformation",
+        "line_number": 812,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔍 String Searching",
+        "anchor": "string-searching",
+        "line_number": 820,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "✂️ String Splitting & Joining",
+        "anchor": "string-splitting-joining",
+        "line_number": 827,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔄 String Replacement",
+        "anchor": "string-replacement",
+        "line_number": 835,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "11. 📈 Aggregation & Collection Queries",
+        "anchor": "11-aggregation-collection-queries",
+        "line_number": 847,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "➕ Sum Aggregations",
+        "anchor": "sum-aggregations",
+        "line_number": 852,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📊 Statistical Functions",
+        "anchor": "statistical-functions",
+        "line_number": 860,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📏 Count Operations",
+        "anchor": "count-operations",
+        "line_number": 872,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔢 Derived Metrics",
+        "anchor": "derived-metrics",
+        "line_number": 880,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "12. 💻 Advanced DataviewJS Inline",
+        "anchor": "12-advanced-dataviewjs-inline",
+        "line_number": 890,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔧 Basic DataviewJS Syntax",
+        "anchor": "basic-dataviewjs-syntax",
+        "line_number": 898,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "📊 Filtered Counts",
+        "anchor": "filtered-counts",
+        "line_number": 909,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🎯 Complex Aggregations",
+        "anchor": "complex-aggregations",
+        "line_number": 917,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔗 Dynamic Link Lists",
+        "anchor": "dynamic-link-lists",
+        "line_number": 924,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🧮 Custom Calculations",
+        "anchor": "custom-calculations",
+        "line_number": 931,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🎨 Conditional Rendering",
+        "anchor": "conditional-rendering",
+        "line_number": 941,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Synthesis & Mastery",
+        "anchor": "synthesis-mastery",
+        "line_number": 950,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🧠 Cognitive Models",
+        "anchor": "cognitive-models",
+        "line_number": 957,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🔄 Best Practices Framework",
+        "anchor": "best-practices-framework",
+        "line_number": 981,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 3,
+        "text": "🛠️ Common Patterns & Anti-Patterns",
+        "anchor": "common-patterns-anti-patterns",
+        "line_number": 992,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Metadata & Attribution",
+        "anchor": "metadata-attribution",
+        "line_number": 1008,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 Version History",
+        "anchor": "version-history",
+        "line_number": 1023,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 1031,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "// 🧠 SYSTEM: Semantic Bridge Engine\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks.map(l => l.path);\n\n// 1. Filter the Vault\nconst siblings = dv.pages()\n    .where(p => p.file.path !== current.file.path) // Exclude self\n    .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n    .map(p => {\n        // Find overlap between this page's links and the current page's links\n        const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n        return { \n            link: p.file.link, \n            sharedCount: shared.length, \n            sharedLinks: shared \n        };\n    })\n    .where(p => p.sharedCount > 0) // Must share at least 1 connection\n    .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n    .limit(5); // Only show top 5\n\n// 2. Render the Bridge\nif (siblings.length > 0) {\n    dv.header(4, \"🌉 Semantic Bridges (Missing Connections)\");\n    dv.table(\n        [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n        siblings.map(s => [\n            s.link, \n            \"🔗 \" + s.sharedCount, \n            s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n        ])\n    );\n} else {\n    dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}",
+        "line_start": 70,
+        "line_end": 107,
+        "char_count": 1392,
+        "line_count": 36,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE type, maturity, confidence\nFROM  \"\"\nWHERE  type = \"reference\"\nSORT \"maturity\" DESC\nLIMIT 15",
+        "line_start": 109,
+        "line_end": 115,
+        "char_count": 97,
+        "line_count": 5,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    source AS \"Source Type\",\n    file.ctime AS \"Date Added\"\nFROM \"\"\n\nWHERE source = \"claude-sonnet-4.5\"\nSORT \"created\" = DESC\nLIMIT 10",
+        "line_start": 117,
+        "line_end": 127,
+        "char_count": 141,
+        "line_count": 8,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    type AS \"Type\",\n    maturity AS \"Maturity\",\n    created AS \"Created\"\nFROM [[#]]\nSORT created DESC\nLIMIT 15",
+        "line_start": 129,
+        "line_end": 137,
+        "char_count": 117,
+        "line_count": 7,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Created**: `= this.file.ctime`\n**Modified**: `= this.file.mtime`\n**Today**: `= date(today)`\n**Tomorrow**: `= date(today) + dur(1 day)`",
+        "line_start": 327,
+        "line_end": 332,
+        "char_count": 136,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Age**: `= (date(today) - this.file.ctime).days + \" days old\"`\n**Days Since Modified**: `= (date(today) - this.file.mtime).days`\n**Staleness**: `= choice((date(today) - this.file.mtime).days > 180, \"🕸️ Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂 Cold\", \"🔥 Fresh\"))`",
+        "line_start": 339,
+        "line_end": 343,
+        "char_count": 285,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Days Until Deadline**: `= (this.due-date - date(today)).days + \" days remaining\"`\n**Overdue Status**: `= choice(this.due-date < date(today), \"⚠️ OVERDUE\", \"✅ On Track\")`\n**Week Number**: `= date(today).weekyear + \"-W\" + date(today).week`",
+        "line_start": 350,
+        "line_end": 354,
+        "char_count": 239,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Start of Month**: `= date(som)`\n**End of Month**: `= date(eom)`\n**Start of Year**: `= date(soy)`\n**Days in Current Month**: `= (date(eom) - date(som)).days`\n**Quarter**: `= \"Q\" + ceil(date(today).month / 3)`",
+        "line_start": 361,
+        "line_end": 367,
+        "char_count": 209,
+        "line_count": 5,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Last Review**: `= choice(contains(this, \"last-review\"), (date(today) - this.last-review).days + \" days ago\", \"Never reviewed\")`\n**Touch Frequency**: `= choice((date(today) - this.file.mtime).days < 7, \"🔥 Active\", choice((date(today) - this.file.mtime).days < 30, \"👌 Regular\", \"❄️ Dormant\"))`",
+        "line_start": 374,
+        "line_end": 377,
+        "char_count": 293,
+        "line_count": 2,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**ISO Format**: `= date(today).format(\"YYYY-MM-DD\")`\n**Human Readable**: `= date(today).format(\"MMMM Do, YYYY\")`\n**Day of Week**: `= date(today).format(\"dddd\")`\n**Time Stamp**: `= date(today).format(\"YYYY-MM-DD HH:mm:ss\")`",
+        "line_start": 381,
+        "line_end": 386,
+        "char_count": 222,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**File Name**: `= this.file.name`\n**Full Path**: `= this.file.path`\n**Folder**: `= this.file.folder`\n**File Extension**: `= this.file.ext`\n**File Size**: `= this.file.size + \" bytes\"`",
+        "line_start": 405,
+        "line_end": 411,
+        "char_count": 183,
+        "line_count": 5,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Tags**: `= this.file.tags`\n**Tag Count**: `= length(this.file.tags)`\n**Primary Tag**: `= this.file.tags[0]`\n**Has Tag**: `= choice(contains(this.file.tags, \"#status/active\"), \"✅ Active\", \"❌ Not Active\")`",
+        "line_start": 415,
+        "line_end": 420,
+        "char_count": 205,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Starred**: `= choice(this.file.starred, \"⭐\", \"\")`\n**Favorite**: `= choice(this.file.starred = true, \"📌 Pinned\", \"📄 Standard\")`\n**File Link**: `= this.file.link`",
+        "line_start": 427,
+        "line_end": 431,
+        "char_count": 162,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Character Count**: `= length(this.file.content)`\n**Estimated Words**: `= round(length(this.file.content) / 6)`\n**Line Count**: `= length(split(this.file.content, \"\\n\"))`",
+        "line_start": 435,
+        "line_end": 439,
+        "char_count": 171,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Location**: `= this.file.folder`\n**Folder Depth**: `= length(split(this.file.folder, \"/\"))`\n**Parent Folder**: `= split(this.file.folder, \"/\")[length(split(this.file.folder, \"/\")) - 1]`",
+        "line_start": 446,
+        "line_end": 450,
+        "char_count": 187,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Outgoing Links**: `= length(this.file.outlinks)`\n**Incoming Links (Backlinks)**: `= length(this.file.inlinks)`\n**Total Link Count**: `= length(this.file.outlinks) + length(this.file.inlinks)`\n**Link Density**: `= length(this.file.outlinks) + length(this.file.inlinks) + \" connections\"`",
+        "line_start": 461,
+        "line_end": 466,
+        "char_count": 287,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Has Outlinks**: `= choice(length(this.file.outlinks) > 0, \"🔗 Connected\", \"🔴 Isolated\")`\n**Has Backlinks**: `= choice(length(this.file.inlinks) > 0, \"← Referenced\", \"🔴 Orphaned\")`\n**Fully Connected**: `= choice(length(this.file.outlinks) > 0 AND length(this.file.inlinks) > 0, \"✅ Integrated\", \"⚠️ Needs Links\")`",
+        "line_start": 473,
+        "line_end": 477,
+        "char_count": 312,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Hub Score**: `= choice(length(this.file.outlinks) > 10, \"🌟 Major Hub\", choice(length(this.file.outlinks) > 5, \"📍 Minor Hub\", \"📄 Standard\"))`\n**Authority Score**: `= choice(length(this.file.inlinks) > 15, \"⭐ High Authority\", choice(length(this.file.inlinks) > 5, \"👍 Referenced\", \"🔹 Emerging\"))`",
+        "line_start": 481,
+        "line_end": 484,
+        "char_count": 295,
+        "line_count": 2,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**First Outlink**: `= this.file.outlinks[0]`\n**Last Backlink**: `= this.file.inlinks[length(this.file.inlinks) - 1]`\n**Random Outlink**: `= this.file.outlinks[floor(random() * length(this.file.outlinks))]`",
+        "line_start": 488,
+        "line_end": 492,
+        "char_count": 205,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Links to Projects**: `= length(filter(this.file.outlinks, (link) => contains(string(link), \"Projects\")))`\n**Links to References**: `= length(filter(this.file.outlinks, (link) => contains(string(link), \"References\")))`",
+        "line_start": 499,
+        "line_end": 502,
+        "char_count": 219,
+        "line_count": 2,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Status Set**: `= choice(contains(this, \"status\"), \"✅ Set\", \"❌ Missing\")`\n**Due Date Set**: `= choice(contains(this, \"due-date\"), \"✅ Scheduled\", \"⚠️ No Deadline\")`\n**Required Fields**: `= choice(contains(this, \"title\") AND contains(this, \"author\"), \"✅ Complete\", \"❌ Incomplete\")`",
+        "line_start": 513,
+        "line_end": 517,
+        "char_count": 280,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Priority Level**: `= choice(this.priority = \"high\", \"🔴 High\", choice(this.priority = \"medium\", \"🟡 Medium\", choice(this.priority = \"low\", \"🟢 Low\", \"⚪ None\")))`\n**Stage Indicator**: `= choice(this.stage = \"complete\", \"✅\", choice(this.stage = \"in-progress\", \"🔄\", choice(this.stage = \"planned\", \"📋\", \"❓\")))`",
+        "line_start": 524,
+        "line_end": 527,
+        "char_count": 305,
+        "line_count": 2,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Word Count Status**: `= choice(this.word-count > 1000, \"📗 Substantial\", choice(this.word-count > 500, \"📘 Moderate\", choice(this.word-count > 100, \"📙 Brief\", \"📕 Stub\")))`\n**Completion %**: `= choice(this.progress >= 100, \"✅ Complete\", choice(this.progress >= 75, \"🟢 Near Done\", choice(this.progress >= 50, \"🟡 Halfway\", choice(this.progress >= 25, \"🟠 Started\", \"🔴 Early\"))))`",
+        "line_start": 534,
+        "line_end": 537,
+        "char_count": 375,
+        "line_count": 2,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Deadline Alert**: `= choice(this.due-date AND this.due-date < date(today), \"⚠️ OVERDUE\", choice(this.due-date AND (this.due-date - date(today)).days < 3, \"🔔 Due Soon\", \"\"))`\n**Size Warning**: `= choice(this.file.size > 100000, \"⚠️ Large File\", \"\")`",
+        "line_start": 541,
+        "line_end": 544,
+        "char_count": 250,
+        "line_count": 2,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Archived**: `= choice(this.archived = true, \"📦 Archived\", \"📂 Active\")`\n**Published**: `= choice(this.published, \"🌐 Live\", \"📝 Draft\")`\n**Reviewed**: `= choice(this.reviewed, \"✅ Reviewed\", \"⏳ Needs Review\")`",
+        "line_start": 548,
+        "line_end": 552,
+        "char_count": 207,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Total**: `= this.budget + this.expenses`\n**Remaining**: `= this.budget - this.expenses`\n**Product**: `= this.quantity * this.unit-price`\n**Average**: `= (this.value1 + this.value2 + this.value3) / 3`",
+        "line_start": 563,
+        "line_end": 568,
+        "char_count": 201,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Progress %**: `= round((this.completed / this.total) * 100) + \"%\"`\n**Completion**: `= round((this.tasks-done / this.tasks-total) * 100, 1) + \"% complete\"`\n**Growth Rate**: `= round(((this.current - this.previous) / this.previous) * 100, 2) + \"%\"`",
+        "line_start": 572,
+        "line_end": 576,
+        "char_count": 248,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Rounded**: `= round(this.decimal-value)`\n**Two Decimals**: `= round(this.value, 2)`\n**Round Up**: `= ceil(this.value)`\n**Round Down**: `= floor(this.value)`",
+        "line_start": 583,
+        "line_end": 588,
+        "char_count": 158,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Absolute Value**: `= abs(this.value)`\n**Maximum**: `= max(this.value1, this.value2, this.value3)`\n**Minimum**: `= min(this.value1, this.value2, this.value3)`\n**Square Root**: `= sqrt(this.value)`",
+        "line_start": 592,
+        "line_end": 597,
+        "char_count": 197,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Ratio**: `= round(this.value-a / this.value-b, 2) + \":1\"`\n**Greater Than**: `= choice(this.actual > this.target, \"✅ Exceeded\", \"📈 Below Target\")`\n**Difference**: `= this.current - this.baseline + \" units\"`",
+        "line_start": 601,
+        "line_end": 605,
+        "char_count": 207,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Total Tasks**: `= length(this.file.tasks)`\n**Completed Tasks**: `= length(filter(this.file.tasks, (t) => t.completed))`\n**Pending Tasks**: `= length(filter(this.file.tasks, (t) => !t.completed))`\n**Completion Rate**: `= choice(length(this.file.tasks) > 0, round((length(filter(this.file.tasks, (t) => t.completed)) / length(this.file.tasks)) * 100) + \"%\", \"No tasks\")`",
+        "line_start": 616,
+        "line_end": 621,
+        "char_count": 370,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**List Items**: `= length(this.file.lists)`\n**Non-Task Items**: `= length(this.file.lists) - length(this.file.tasks)`\n**Has Lists**: `= choice(length(this.file.lists) > 0, \"📋 Contains Lists\", \"📄 No Lists\")`",
+        "line_start": 628,
+        "line_end": 632,
+        "char_count": 206,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Heading Count**: `= length(filter(split(this.file.content, \"\\n\"), (line) => startswith(line, \"#\")))`\n**Has H1**: `= choice(contains(this.file.content, \"\\n# \"), \"✅ Has H1\", \"⚠️ No H1\")`",
+        "line_start": 636,
+        "line_end": 639,
+        "char_count": 186,
+        "line_count": 2,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Contains Code**: `= choice(contains(this.file.content, \"",
+        "line_start": 646,
+        "line_end": 647,
+        "char_count": 58,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 7. 📋 List & Array Operations\n\n> [!definition]\n> **List Operations** manipulate arrays of values—including tags, links, and multi-value fields—using filtering, mapping, and extraction functions.\n\n### 📏 List Measurement",
+        "line_start": 650,
+        "line_end": 661,
+        "char_count": 225,
+        "line_count": 8,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🎯 List Access & Slicing",
+        "line_start": 665,
+        "line_end": 669,
+        "char_count": 27,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!helpful-tip]\n> Array indexing is zero-based. `list[0]` retrieves the first element, `list[1]` the second, etc. Use `length(list) - 1` to access the final element.\n\n### 🔧 List Filtering",
+        "line_start": 674,
+        "line_end": 681,
+        "char_count": 188,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### ➕ List Construction & Joining",
+        "line_start": 685,
+        "line_end": 689,
+        "char_count": 33,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🔀 List Transformation",
+        "line_start": 693,
+        "line_end": 697,
+        "char_count": 25,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 8. 🌐 Cross-Page Data Access\n\n> [!definition]\n> **Cross-Page Queries** retrieve [[Metadata]] from other notes via [[Wiki-Links]], enabling relational data displays and inter-note dependencies.\n\n### 📎 Basic Link Field Access",
+        "line_start": 701,
+        "line_end": 712,
+        "char_count": 230,
+        "line_count": 8,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!what-this-does]\n> Syntax: `[[Note Name]].field-name`. Works with both [[YAML Frontmatter]] fields and [[Implicit Fields]]. The linked note must exist and contain the specified field.\n\n### 🔗 Multi-Note Data Aggregation",
+        "line_start": 717,
+        "line_end": 724,
+        "char_count": 221,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🎯 Conditional Cross-Page Access",
+        "line_start": 728,
+        "line_end": 732,
+        "char_count": 35,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 📊 Cross-Note Calculations",
+        "line_start": 735,
+        "line_end": 739,
+        "char_count": 29,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🌉 Relational Lookups",
+        "line_start": 743,
+        "line_end": 747,
+        "char_count": 24,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!warning]\n> Cross-page queries fail silently if the linked note or field doesn't exist. Use conditional checks for robust implementations.\n\n---\n\n## 9. ⚡ Status & Progress Tracking\n\n> [!definition]\n> **Status Queries** create dynamic indicators for workflow states, project stages, and task progression using visual symbols and conditional logic.\n\n### 🎯 Stage Indicators",
+        "line_start": 750,
+        "line_end": 764,
+        "char_count": 372,
+        "line_count": 11,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 📊 Progress Visualization",
+        "line_start": 767,
+        "line_end": 771,
+        "char_count": 28,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🔔 Deadline Status",
+        "line_start": 773,
+        "line_end": 777,
+        "char_count": 21,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### ✅ Completion Tracking",
+        "line_start": 779,
+        "line_end": 783,
+        "char_count": 25,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🏷️ Priority Display",
+        "line_start": 786,
+        "line_end": 790,
+        "char_count": 23,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 10. ✍️ Text Manipulation & Formatting\n\n> [!definition]\n> **Text Queries** transform and format string values using [[Dataview Functions]] for display enhancement and data cleaning.\n\n### ✂️ String Truncation",
+        "line_start": 792,
+        "line_end": 803,
+        "char_count": 214,
+        "line_count": 8,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!what-this-does]\n> `truncate(string, max-length, suffix)` cuts strings at the specified length and appends an optional suffix. Essential for preview displays and table columns with character limits.\n\n### 🔤 Case Transformation",
+        "line_start": 807,
+        "line_end": 814,
+        "char_count": 228,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🔍 String Searching",
+        "line_start": 818,
+        "line_end": 822,
+        "char_count": 22,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### ✂️ String Splitting & Joining",
+        "line_start": 825,
+        "line_end": 829,
+        "char_count": 33,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🔄 String Replacement",
+        "line_start": 833,
+        "line_end": 837,
+        "char_count": 24,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!helpful-tip]\n> Use string manipulation for cleaning imported data, standardizing displays, or extracting substrings from structured field values.\n\n---\n\n## 11. 📈 Aggregation & Collection Queries\n\n> [!definition]\n> **Aggregation Queries** compute summary statistics across multiple values using [[Dataview Functions]] like `sum()`, `average()`, `min()`, and `max()`.\n\n### ➕ Sum Aggregations",
+        "line_start": 840,
+        "line_end": 854,
+        "char_count": 392,
+        "line_count": 11,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 📊 Statistical Functions",
+        "line_start": 858,
+        "line_end": 862,
+        "char_count": 27,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!what-this-does]\n> Aggregation functions operate on arrays. Pass a field containing multiple values or construct an inline array with `[value1, value2, value3]` syntax.\n\n### 📏 Count Operations",
+        "line_start": 867,
+        "line_end": 874,
+        "char_count": 195,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🔢 Derived Metrics",
+        "line_start": 878,
+        "line_end": 882,
+        "char_count": 21,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 12. 💻 Advanced DataviewJS Inline\n\n> [!definition]\n> **DataviewJS Inline Queries** use JavaScript syntax (`` `$= ...` ``) for complex operations, API access, and dynamic rendering beyond DQL capabilities.\n\n> [!important]\n> **Security Note**: DataviewJS has file system access. Only use code you understand or trust. Enable in Dataview settings under \"Enable JavaScript Queries\".\n\n### 🔧 Basic DataviewJS Syntax",
+        "line_start": 886,
+        "line_end": 900,
+        "char_count": 416,
+        "line_count": 11,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!what-this-does]\n> `dv.current()` returns the current page object. `dv.pages()` returns all pages in the vault. DataviewJS provides the full Dataview API via the `dv` variable.\n\n### 📊 Filtered Counts",
+        "line_start": 904,
+        "line_end": 911,
+        "char_count": 202,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🎯 Complex Aggregations",
+        "line_start": 915,
+        "line_end": 919,
+        "char_count": 26,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🔗 Dynamic Link Lists",
+        "line_start": 922,
+        "line_end": 926,
+        "char_count": 24,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🧮 Custom Calculations",
+        "line_start": 929,
+        "line_end": 933,
+        "char_count": 25,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!helpful-tip]\n> DataviewJS excels at vault-wide statistics, complex filters, and operations requiring JavaScript methods unavailable in DQL. Use for dashboards and analytics.\n\n### 🎨 Conditional Rendering",
+        "line_start": 936,
+        "line_end": 943,
+        "char_count": 206,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Practice",
+          "Implementation",
+          "Benefit"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Defensive Checks**",
+            "Always use `choice(contains(this, \"field\"), ...)` before accessing optional fields",
+            "Prevents errors from missing metadata"
+          ],
+          [
+            "**Performance Awareness**",
+            "Avoid `file.content` in frequently-viewed notes",
+            "Reduces query overhead"
+          ],
+          [
+            "**Semantic Naming**",
+            "Use descriptive field names (e.g., `review-date` not `rd`)",
+            "Improves query readability"
+          ],
+          [
+            "**Template Integration**",
+            "Embed queries in [[Templater Plugin]] templates",
+            "Automates setup for new notes"
+          ],
+          [
+            "**Incremental Complexity**",
+            "Start with simple field access, build to computations",
+            "Easier debugging and maintenance"
+          ],
+          [
+            "**Visual Consistency**",
+            "Standardize emoji/symbol use across queries",
+            "Creates scannable patterns"
+          ]
+        ],
+        "line_start": 631,
+        "row_count": 6,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      },
+      {
+        "headers": [
+          "Version",
+          "Date",
+          "Changes"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "1.0",
+            "2024-11-29",
+            "Initial comprehensive compilation covering 12 functional categories with 120+ working examples"
+          ]
+        ],
+        "line_start": 698,
+        "row_count": 1,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      }
+    ],
+    "external_links": [
+      {
+        "display_text": "Official Dataview Documentation",
+        "url": "https://blacksmithgu.github.io/obsidian-dataview/",
+        "format": "markdown",
+        "line_number": 1014,
+        "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "Current Dataview inline query syntax documentation",
+          "indent_level": 1,
+          "line_number": 144,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Community examples and patterns",
+          "indent_level": 1,
+          "line_number": 146,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Best practices and use cases",
+          "indent_level": 1,
+          "line_number": 149,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Any recent syntax changes or new features",
+          "indent_level": 1,
+          "line_number": 150,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Search for official Dataview inline query documentation",
+          "indent_level": 0,
+          "line_number": 156,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Search for community examples and use cases",
+          "indent_level": 0,
+          "line_number": 158,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Search for advanced inline query patterns",
+          "indent_level": 0,
+          "line_number": 159,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Search for Dataview inline fields and expressions reference",
+          "indent_level": 0,
+          "line_number": 161,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Search for Dataview inline query cookbook/examples",
+          "indent_level": 0,
+          "line_number": 166,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**Temporal/Time-Based Queries**",
+          "indent_level": 0,
+          "line_number": 170,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**File Metadata Queries**",
+          "indent_level": 0,
+          "line_number": 171,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**Relational/Link-Based Queries**",
+          "indent_level": 0,
+          "line_number": 173,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**Content Analysis Queries**",
+          "indent_level": 0,
+          "line_number": 176,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**Computed/Mathematical Queries**",
+          "indent_level": 0,
+          "line_number": 178,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**Conditional/Logic-Based Queries**",
+          "indent_level": 0,
+          "line_number": 180,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**List/Collection Queries**",
+          "indent_level": 0,
+          "line_number": 181,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**Custom Property Queries**",
+          "indent_level": 0,
+          "line_number": 185,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[Temporal & Date Queries](#1-⏰-temporal--date-queries)",
+          "indent_level": 0,
+          "line_number": 275,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[File Metadata Display](#2-📄-file-metadata-display)",
+          "indent_level": 0,
+          "line_number": 276,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[Link & Relationship Queries](#3-🔗-link--relationship-queries)",
+          "indent_level": 0,
+          "line_number": 278,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[Conditional Logic & Validation](#4-🎯-conditional-logic--validation)",
+          "indent_level": 0,
+          "line_number": 279,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[Mathematical & Computational Queries](#5-🧮-mathematical--computational-queries)",
+          "indent_level": 0,
+          "line_number": 281,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[Content Analysis Queries](#6-📊-content-analysis-queries)",
+          "indent_level": 0,
+          "line_number": 283,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[List & Array Operations](#7-📋-list--array-operations)",
+          "indent_level": 0,
+          "line_number": 283,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[Cross-Page Data Access](#8-🌐-cross-page-data-access)",
+          "indent_level": 0,
+          "line_number": 283,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[Status & Progress Tracking](#9-⚡-status--progress-tracking)",
+          "indent_level": 0,
+          "line_number": 283,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[Text Manipulation & Formatting](#10-✍️-text-manipulation--formatting)",
+          "indent_level": 0,
+          "line_number": 286,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[Aggregation & Collection Queries](#11-📈-aggregation--collection-queries)",
+          "indent_level": 0,
+          "line_number": 287,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[Advanced DataviewJS Inline](#12-💻-advanced-dataviewjs-inline)",
+          "indent_level": 0,
+          "line_number": 288,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**Access Layer** (What data exists?)",
+          "indent_level": 0,
+          "line_number": 604,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**Transform Layer** (How to manipulate data?)",
+          "indent_level": 0,
+          "line_number": 612,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**Display Layer** (How to present results?)",
+          "indent_level": 0,
+          "line_number": 618,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**[[Dataview Functions Reference]]**",
+          "indent_level": 0,
+          "line_number": 708,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**[[Dataview Query Language (DQL) Block Queries]]**",
+          "indent_level": 0,
+          "line_number": 716,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**[[Template-Driven Note Architecture]]**",
+          "indent_level": 0,
+          "line_number": 725,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "**[[Metadata Schema Design for PKBs]]**",
+          "indent_level": 0,
+          "line_number": 734,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "[ ] Definition still accurate?",
+          "indent_level": 0,
+          "line_number": 84,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[ ] New connections identified?",
+          "indent_level": 0,
+          "line_number": 85,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[ ] Applications validated?",
+          "indent_level": 0,
+          "line_number": 86,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[ ] Sources still relevant?",
+          "indent_level": 0,
+          "line_number": 88,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[ ] Maturity level appropriate?",
+          "indent_level": 0,
+          "line_number": 89,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "User wants a comprehensive reference note specifically focused on Dataview Inline Queries",
+          "indent_level": 0,
+          "line_number": 91,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "This is NOT about explaining what inline queries are, but rather a TAXONOMY/COLLECTION of working inline query examples",
+          "indent_level": 0,
+          "line_number": 95,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "The purpose is to create a reference resource to pull from when needed",
+          "indent_level": 0,
+          "line_number": 98,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Needs to be well-organized and navigable",
+          "indent_level": 0,
+          "line_number": 101,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Should cover as many different use cases/areas as possible",
+          "indent_level": 0,
+          "line_number": 101,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "The exemplar shows inline queries embedded in callouts with explanatory text",
+          "indent_level": 0,
+          "line_number": 105,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Primary domain: Obsidian plugin ecosystem, specifically Dataview",
+          "indent_level": 0,
+          "line_number": 110,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Technical depth: Intermediate to advanced Obsidian usage",
+          "indent_level": 0,
+          "line_number": 114,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Practical application: PKB organization, note metadata, knowledge graph navigation",
+          "indent_level": 0,
+          "line_number": 119,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Coverage needed: Multiple categories of inline queries (temporal, navigational, analytical, metadata-focused, etc.)",
+          "indent_level": 0,
+          "line_number": 123,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "The user has provided exemplars showing they already have some inline queries",
+          "indent_level": 0,
+          "line_number": 134,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "They want a comprehensive collection, not current documentation",
+          "indent_level": 0,
+          "line_number": 139,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Dataview inline query syntax is relatively stable",
+          "indent_level": 0,
+          "line_number": 141,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "I should search for:",
+          "indent_level": 0,
+          "line_number": 143,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Creation dates, modification dates, age calculations",
+          "indent_level": 1,
+          "line_number": 170,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Staleness indicators",
+          "indent_level": 1,
+          "line_number": 170,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Time-relative filters",
+          "indent_level": 1,
+          "line_number": 171,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "File properties (size, name, path, type)",
+          "indent_level": 1,
+          "line_number": 172,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Folder context",
+          "indent_level": 1,
+          "line_number": 173,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Tag displays",
+          "indent_level": 1,
+          "line_number": 173,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Backlink counts",
+          "indent_level": 1,
+          "line_number": 174,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Outlink analysis",
+          "indent_level": 1,
+          "line_number": 174,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Link strength/density",
+          "indent_level": 1,
+          "line_number": 174,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Word count, character count",
+          "indent_level": 1,
+          "line_number": 177,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Task counting",
+          "indent_level": 1,
+          "line_number": 178,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Header/section analysis",
+          "indent_level": 1,
+          "line_number": 178,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Aggregations (sum, average, count)",
+          "indent_level": 1,
+          "line_number": 179,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Progress calculations",
+          "indent_level": 1,
+          "line_number": 180,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Percentage displays",
+          "indent_level": 1,
+          "line_number": 180,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "If/then displays",
+          "indent_level": 1,
+          "line_number": 181,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Choice expressions",
+          "indent_level": 1,
+          "line_number": 181,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Boolean flags",
+          "indent_level": 1,
+          "line_number": 181,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Inline lists of related files",
+          "indent_level": 1,
+          "line_number": 181,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Tag collections",
+          "indent_level": 1,
+          "line_number": 184,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Property aggregations",
+          "indent_level": 1,
+          "line_number": 184,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Frontmatter field displays",
+          "indent_level": 1,
+          "line_number": 185,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Inline field references",
+          "indent_level": 1,
+          "line_number": 185,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Metadata calculations",
+          "indent_level": 1,
+          "line_number": 186,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Brief description of use case",
+          "indent_level": 0,
+          "line_number": 187,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Multiple working examples",
+          "indent_level": 0,
+          "line_number": 187,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Syntax explanation where needed",
+          "indent_level": 0,
+          "line_number": 189,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Visual organization (possibly tables or structured callouts)",
+          "indent_level": 0,
+          "line_number": 189,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Dataview Plugin]]",
+          "indent_level": 0,
+          "line_number": 192,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Obsidian]]",
+          "indent_level": 0,
+          "line_number": 192,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Inline Queries]]",
+          "indent_level": 0,
+          "line_number": 192,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Dataview Expressions]]",
+          "indent_level": 0,
+          "line_number": 194,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Metadata]]",
+          "indent_level": 0,
+          "line_number": 194,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Frontmatter]]",
+          "indent_level": 0,
+          "line_number": 194,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Zettelkasten]]",
+          "indent_level": 0,
+          "line_number": 194,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Personal Knowledge Base]]",
+          "indent_level": 0,
+          "line_number": 194,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Templater Plugin]]",
+          "indent_level": 0,
+          "line_number": 194,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[File Properties]]",
+          "indent_level": 0,
+          "line_number": 196,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Wiki-Links]]",
+          "indent_level": 0,
+          "line_number": 197,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Backlinks]]",
+          "indent_level": 0,
+          "line_number": 197,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Knowledge Graph]]",
+          "indent_level": 0,
+          "line_number": 197,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Note Templates]]",
+          "indent_level": 0,
+          "line_number": 198,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[MOC]]",
+          "indent_level": 0,
+          "line_number": 198,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Temporal Analysis]]",
+          "indent_level": 0,
+          "line_number": 198,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[[Folder Structure]]",
+          "indent_level": 0,
+          "line_number": 199,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[!abstract] for category overviews",
+          "indent_level": 0,
+          "line_number": 200,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[!example] for query demonstrations",
+          "indent_level": 0,
+          "line_number": 200,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[!helpful-tip] for usage guidance",
+          "indent_level": 0,
+          "line_number": 201,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[!important] for syntax notes",
+          "indent_level": 0,
+          "line_number": 203,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[!warning] for common pitfalls",
+          "indent_level": 0,
+          "line_number": 205,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[!methodology-and-sources] for query patterns",
+          "indent_level": 0,
+          "line_number": 205,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "[!what-this-does] for explaining complex queries",
+          "indent_level": 0,
+          "line_number": 207,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Direct field access: `this.field-name`",
+          "indent_level": 1,
+          "line_number": 604,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Cross-page access: `[[Note]].field`",
+          "indent_level": 1,
+          "line_number": 609,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Operations: arithmetic, string manipulation",
+          "indent_level": 1,
+          "line_number": 617,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Conditionals: `choice()` for logic",
+          "indent_level": 1,
+          "line_number": 618,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Formatting: truncation, joining, symbols",
+          "indent_level": 1,
+          "line_number": 619,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Visual indicators: emojis, progress bars",
+          "indent_level": 1,
+          "line_number": 619,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Contextual: relative dates, status badges",
+          "indent_level": 1,
+          "line_number": 620,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Test queries in single notes before template-izing",
+          "indent_level": 0,
+          "line_number": 662,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Query `file.content` repeatedly in the same note",
+          "indent_level": 0,
+          "line_number": 663,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Create circular dependencies (Note A queries Note B which queries Note A)",
+          "indent_level": 0,
+          "line_number": 664,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Over-engineer—start simple and add complexity as needed",
+          "indent_level": 0,
+          "line_number": 670,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "Forget null checks on optional fields",
+          "indent_level": 0,
+          "line_number": 671,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "*Depth Potential*: Exhaustive function catalog with parameter documentation",
+          "indent_level": 1,
+          "line_number": 710,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Forms technical foundation layer beneath inline query patterns",
+          "indent_level": 1,
+          "line_number": 714,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Sibling concept in Dataview capabilities taxonomy",
+          "indent_level": 1,
+          "line_number": 724,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "*Connection*: Inline queries reach maximum utility when embedded in reusable templates",
+          "indent_level": 1,
+          "line_number": 726,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "*Depth Potential*: [[Templater Plugin]] + [[QuickAdd]] integration patterns for automated query insertion",
+          "indent_level": 1,
+          "line_number": 727,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Workflow implementation layer above technical query syntax",
+          "indent_level": 1,
+          "line_number": 733,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "*Connection*: Effective queries require well-designed metadata fields and naming conventions",
+          "indent_level": 1,
+          "line_number": 734,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "*Depth Potential*: [[YAML Frontmatter]] standards, [[Inline Fields]] best practices, field naming taxonomies",
+          "indent_level": 1,
+          "line_number": 740,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Data architecture prerequisite for query effectiveness",
+          "indent_level": 1,
+          "line_number": 741,
+          "source": "reference-comprehensive-dataview-inline-queries-library-20251129225545.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Authors/",
+      "Backlinks",
+      "Book Note",
+      "Categories/",
+      "Dashboard Design",
+      "Dataview Expressions",
+      "Dataview Functions",
+      "Dataview Functions Reference",
+      "Dataview Inline Query Taxonomy",
+      "Dataview Plugin",
+      "Dataview Query Language (DQL) Block Queries",
+      "Distributed Cognition",
+      "Essay Part 1",
+      "Essay Part 2",
+      "File Properties",
+      "Folder Structure",
+      "Frontmatter",
+      "Implicit Fields",
+      "Inline Fields",
+      "Inline Queries",
+      "Knowledge Graph",
+      "Linked Note",
+      "MOC",
+      "Meeting Note",
+      "Metadata",
+      "Metadata Schema Design for PKBs",
+      "Note",
+      "Note Name",
+      "Note Templates",
+      "Obsidian",
+      "Parent Note",
+      "Personal Knowledge Base",
+      "Project",
+      "Project A",
+      "Project Alpha",
+      "Project B",
+      "Project C",
+      "Project Management",
+      "QuickAdd",
+      "Reference",
+      "Related Note",
+      "Team Roster",
+      "Template-Driven Note Architecture",
+      "Templater Plugin",
+      "Temporal Analysis",
+      "Wiki-Links",
+      "YAML Frontmatter",
+      "Zettelkasten"
+    ],
+    "unique_wiki_link_count": 48,
+    "unique_tags": [
+      "#books",
+      "#dataview",
+      "#inline-queries",
+      "#obsidian",
+      "#pkm",
+      "#project",
+      "#reference-note",
+      "#your-tag"
+    ],
+    "unique_tag_count": 8,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Authors/",
+      "Backlinks",
+      "Book Note",
+      "Categories/",
+      "Dashboard Design",
+      "Dataview Expressions",
+      "Dataview Functions",
+      "Dataview Functions Reference",
+      "Dataview Inline Query Taxonomy",
+      "Dataview Plugin",
+      "Dataview Query Language (DQL) Block Queries",
+      "Distributed Cognition",
+      "Essay Part 1",
+      "Essay Part 2",
+      "File Properties",
+      "Folder Structure",
+      "Frontmatter",
+      "Implicit Fields",
+      "Inline Fields",
+      "Inline Queries",
+      "Knowledge Graph",
+      "Linked Note",
+      "MOC",
+      "Meeting Note",
+      "Metadata",
+      "Metadata Schema Design for PKBs",
+      "Note",
+      "Note Name",
+      "Note Templates",
+      "Obsidian",
+      "Parent Note",
+      "Personal Knowledge Base",
+      "Project",
+      "Project A",
+      "Project Alpha",
+      "Project B",
+      "Project C",
+      "Project Management",
+      "QuickAdd",
+      "Reference",
+      "Related Note",
+      "Team Roster",
+      "Template-Driven Note Architecture",
+      "Templater Plugin",
+      "Temporal Analysis",
+      "Wiki-Links",
+      "YAML Frontmatter",
+      "Zettelkasten"
+    ]
+  }
+}

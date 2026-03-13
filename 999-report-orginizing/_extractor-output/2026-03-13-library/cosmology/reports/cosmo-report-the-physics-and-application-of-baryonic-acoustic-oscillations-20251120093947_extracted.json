@@ -1,0 +1,769 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:19:13.124973",
+    "source_file": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\04-cosmology\\-reports\\cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+    "source_file_size_bytes": 29186,
+    "processing_time_seconds": 0.004
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947",
+      "id": "20251120093947",
+      "type": "cosmo/report",
+      "status": "not-read",
+      "source": "👾Polymath_v3.2_♊Gem-ID_OQHJPSLYU0",
+      "year": "[[2025]]",
+      "tags": [
+        "cosmology",
+        "project/pur3v4d3r",
+        "year/2025",
+        "self-improvement",
+        "pkb/metadata/frontmatter",
+        "pkb/maintenance/refactoring",
+        "pkb/maintenance/cleanup"
+      ],
+      "aliases": [
+        "BAO,Cosmic Standard Ruler,Primordial Sound Waves"
+      ],
+      "link-up": [
+        "[[project-pur3v4d3r-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-20|Daily-Note]]"
+      ]
+    },
+    "word_count": 4447,
+    "character_count": 28572,
+    "line_count": 196,
+    "heading_count": 16
+  },
+  "extraction_summary": {
+    "total_items_extracted": 75,
+    "by_type": {
+      "headings": 16,
+      "callouts": 21,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 4,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 2,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 32
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✨ An Exposition on the Physical Origins of Baryonic Acoustic Oscillations and Their Application as a Standard Ruler for Probing the Large-Scale Structure and Cosmic Expansion",
+      "anchor": "an-exposition-on-the-physical-origins-of-baryonic-acoustic-oscillations-and-their-application-as-a-standard-ruler-for-probing-the-large-scale-structure-and-cosmic-expansion",
+      "line_number": 23,
+      "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "1. 🗺️ Introduction & Context",
+          "anchor": "1-introduction-context",
+          "line_number": 32,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "2. 📜 Historical Context & Intellectual Lineage",
+          "anchor": "2-historical-context-intellectual-lineage",
+          "line_number": 47,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "**Core Analysis: An In--Depth Exposition**",
+              "anchor": "core-analysis-an-in-depth-exposition",
+              "line_number": 63,
+              "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "3. 📖 Foundational Principles: The \"Why\"",
+          "anchor": "3-foundational-principles-the-why",
+          "line_number": 67,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "4. 🛠️ Mechanisms & Processes: The \"How\"",
+          "anchor": "4-mechanisms-processes-the-how",
+          "line_number": 89,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "4.1 Propagation: The Expanding Shell",
+              "anchor": "41-propagation-the-expanding-shell",
+              "line_number": 93,
+              "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.2 Recombination: The Universe Lifts Its Fog",
+              "anchor": "42-recombination-the-universe-lifts-its-fog",
+              "line_number": 102,
+              "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.3 Imprinting: A Fossil in the Cosmos",
+              "anchor": "43-imprinting-a-fossil-in-the-cosmos",
+              "line_number": 111,
+              "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4.4 Observation: Finding the Echo in the Stars",
+              "anchor": "44-observation-finding-the-echo-in-the-stars",
+              "line_number": 123,
+              "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "5. 🔬 Evidence & Manifestations: The \"What\"",
+          "anchor": "5-evidence-manifestations-the-what",
+          "line_number": 132,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "6. 🌍 Broader Implications & Significance: The \"So What\"",
+          "anchor": "6-broader-implications-significance-the-so-what",
+          "line_number": 148,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "7. ⏳ Current Landscape & Unanswered Questions",
+          "anchor": "7-current-landscape-unanswered-questions",
+          "line_number": 166,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "8. 🗝️ Conclusion & Key Takeaways",
+          "anchor": "8-conclusion-key-takeaways",
+          "line_number": 182,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "9. 🦖 Active Reading & Reflection (The Feynman Technique)",
+          "anchor": "9-active-reading-reflection-the-feynman-technique",
+          "line_number": 197,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "10. 📚 References",
+          "anchor": "10-references",
+          "line_number": 205,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "This document provides a comprehensive exploration of Baryonic Acoustic Oscillations (BAOs), one of the most powerful and robust tools in modern cosmology. We begin by deconstructing the physical origins of BAOs, tracing their genesis to sound waves propagating through the hot, dense plasma of the early universe. In this primordial epoch, photons and baryonic matter (protons and electrons) were tightly coupled, forming a single photon-baryon fluid. Overdensities in this fluid, seeded by quantum fluctuations, acted as the source of spherical sound waves driven by the immense pressure of photons.\n\nWe will detail the crucial moment of \"recombination,\" approximately 378,000 years after the Big Bang, when the universe cooled sufficiently for atoms to form. This event decoupled photons from baryons, effectively \"freezing\" the sound waves in place and leaving behind a characteristic imprint on the distribution of matter: a spherical shell of excess baryonic density at a specific, predictable radius from the initial overdensity. This radius, known as the sound horizon, is the \"standard ruler.\"\n\nThe second half of the exposition focuses on the application of this standard ruler. Over billions of years, both the central overdensity and the surrounding shell gravitationally attracted matter, seeding the formation of galaxies. Consequently, we observe a slight statistical preference for galaxies to be separated by the sound horizon scale. By measuring the apparent size of this feature across cosmic time (at different redshifts), we can map the expansion history of the universe with remarkable precision. This allows cosmologists to probe the nature of dark energy, test the validity of General Relativity on the largest scales, and constrain the fundamental parameters that govern our cosmos.",
+        "line_number": 25,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 724,
+        "char_end": 2554
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "The purpose of this document is to explain, from first principles, the physics behind Baryonic Acoustic Oscillations (BAOs) and to detail how this phenomenon provides cosmologists with a \"standard ruler\" of known physical size. By measuring this ruler's apparent size throughout cosmic history, we can construct a precise history of the universe's expansion, thereby placing powerful constraints on the nature of dark energy and the fundamental geometry of spacetime.",
+        "line_number": 36,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 3378,
+        "char_end": 3865
+      },
+      {
+        "type": "pre-read-questions",
+        "title": "Untitled",
+        "body": "As you begin this exploration, consider the following questions to guide your thinking:\n- What could possibly create a \"sound wave\" in the vacuum of space? What was the medium?\n- How can a feature from the first few hundred thousand years of the universe's existence still be visible in the distribution of galaxies billions of years later?\n- What does measuring the history of cosmic expansion actually tell us about the fundamental nature of reality?",
+        "line_number": 41,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 4721,
+        "char_end": 5206
+      },
+      {
+        "type": "principle-point",
+        "title": "Untitled",
+        "body": "**The Photon-Baryon Fluid:** The universe was filled with photons (particles of light), protons, and electrons (which are collectively called **baryons** in cosmology), and dark matter. The temperature was so high that atoms could not form. In this state, photons and charged baryons were tightly coupled together through a process called Thomson scattering. An electron would almost instantly scatter any photon it encountered. The result was a single, unified, opaque fluid where the photons and baryons were locked together. Dark matter, however, did not interact with light and formed a separate, invisible gravitational background.",
+        "line_number": 71,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 8929,
+        "char_end": 9589
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "Imagine the early universe as a perfectly still, cosmic pond. Cosmic inflation is like a brief, violent tremor that creates tiny ripples everywhere on the pond's surface. These ripples are the initial overdensities. Now, consider a single point of overdensity—a place where the plasma is slightly denser than average. This point acts like a stone dropped into the pond.",
+        "line_number": 76,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 9934,
+        "char_end": 10319
+      },
+      {
+        "type": "cosmos-concept",
+        "title": "Untitled",
+        "body": "**The Nature of the Sound Wave:** A sound wave is simply a pressure wave traveling through a medium. On Earth, it's a wave of compressed air. In the early universe, it was a wave of compressed photon-baryon fluid.\n- **The Driving Force (Gravity):** The initial overdensity pulls matter inward.\n- **The Restoring Force (Pressure):** As the photon-baryon fluid gets compressed, its immense photon pressure pushes it back outward, creating a propagating wave.\n- **The Inertia (Baryons):** The mass of the baryons gives the fluid inertia, controlling how it responds to the photon pressure. The more baryons, the slower the sound wave travels.",
+        "line_number": 81,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 10670,
+        "char_end": 11338
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Sound Horizon ($r_s$)**: The sound horizon is the maximum distance that a sound wave could have traveled in the photon-baryon fluid from the beginning of the universe until a specific time. In the context of BAOs, the critical time is the moment of recombination. Its size is determined by fundamental cosmological parameters, including the density of baryons and photons.",
+        "line_number": 97,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 12861,
+        "char_end": 13254
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "The formation of neutral atoms fundamentally changed the universe. Photons no longer interacted frequently with matter because they don't easily scatter off neutral atoms. The universe, which had been an opaque fog, suddenly became transparent. This is the moment the Cosmic Microwave Background was released.",
+        "line_number": 106,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 13873,
+        "char_end": 14200
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "The universe is preferentially filled with galaxies at the locations of the initial overdensities *and* in shells approximately 150 Megaparsecs (Mpc), or 490 million light-years, away from them. This specific, preferred separation scale is the fossilized sound horizon, the BAO standard ruler imprinted on the large-scale structure of the cosmos.",
+        "line_number": 120,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 15306,
+        "char_end": 15670
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**The Two-Point Correlation Function, $\\xi(r)$**: This function measures the excess probability, compared to a random distribution, of finding a pair of galaxies separated by a distance *r*. If galaxies were scattered randomly through space, $\\xi(r)$ would be zero everywhere. If they tend to cluster, $\\xi(r)$ will be positive.",
+        "line_number": 127,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 16175,
+        "char_end": 16522
+      },
+      {
+        "type": "evidence",
+        "title": "Untitled",
+        "body": "The Planck satellite's analysis of the CMB power spectrum constrains the physical size of the sound horizon at the time of photon decoupling to be $r_s = 147.09 \\pm 0.26$ Mpc. This is the fundamental calibration of our standard ruler.",
+        "line_number": 138,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 17894,
+        "char_end": 18145
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "The plot of the galaxy correlation function from the BOSS survey clearly shows a broad peak centered around a co-moving separation of $150 \\text{ Mpc}/h$ (where $h$ is related to the Hubble constant). This feature has been measured with a precision of about 1%. The fact that we can predict the size of this feature from the physics of the universe at age 378,000 years and then go out and measure that same feature in the distribution of galaxies 13.8 billion years later is one of the most profound and successful tests of our entire cosmological model.",
+        "line_number": 143,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 18509,
+        "char_end": 19080
+      },
+      {
+        "type": "how-to-use",
+        "title": "Untitled",
+        "body": "The sound horizon, $r_s$, has a fixed physical size. When we observe it in a galaxy survey at some redshift $z$, we measure its apparent size. We can measure this apparent size in two ways:\n1.  **Across the sky (transverse):** The angular separation, $\\Delta\\theta$, of galaxy pairs. This depends on the Angular Diameter Distance, $D_A(z)$, to that redshift. The relationship is $\\Delta\\theta = r_s / D_A(z)$.\n1.  **Along the line of sight:** The redshift separation, $\\Delta z$, of galaxy pairs. This depends on the expansion rate at that redshift, given by the Hubble Parameter, $H(z)$. The relationship is $c\\Delta z = H(z)r_s$.",
+        "line_number": 152,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 19644,
+        "char_end": 20298
+      },
+      {
+        "type": "the-philosophy",
+        "title": "Untitled",
+        "body": "This is a profound act of cosmic cartography. We are using a fossil from the Big Bang to triangulate the geometry of spacetime itself. This history of expansion is the primary observable we use to understand dark energy. Different theories for dark energy predict slightly different expansion histories. A cosmological constant predicts a specific rate of acceleration. Other models, where dark energy evolves, predict a different rate. Our BAO measurements can distinguish between these models.",
+        "line_number": 159,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 20676,
+        "char_end": 21194
+      },
+      {
+        "type": "question",
+        "title": "Untitled",
+        "body": "**Open Questions and Future Directions:**\n- **The Hubble Tension:** There is a persistent discrepancy between the expansion rate of the universe measured locally (e.g., with supernovae) and the rate inferred from the early universe (from the CMB and BAO). Will more precise BAO measurements help resolve this \"Hubble Tension,\" or will they point towards new physics?\n- **The Nature of Dark Energy:** Does the equation of state of dark energy, $w$, equal exactly -1, as expected for a cosmological constant? Or will future BAO surveys detect a deviation, suggesting dark energy is dynamic?\n- **Tests of General Relativity:** Does gravity behave as Einstein predicted on the largest scales? By combining BAO measurements with measurements of how structure grows over time, we can test for modifications to General Relativity.",
+        "line_number": 174,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 22897,
+        "char_end": 23743
+      },
+      {
+        "type": "summary",
+        "title": "Untitled",
+        "body": "- **Primordial Sound:** BAOs are the relic signatures of sound waves that propagated through the hot, dense plasma of the early universe.\n- **The Standard Ruler:** The decoupling of light from matter at recombination \"froze\" these waves, establishing a fixed physical scale called the sound horizon ($r_s \\approx 150$ Mpc).\n- **Galaxy Clustering:** This scale is statistically detectable as a \"bump\" in the two-point correlation function of galaxies, representing a slight preference for galaxy pairs to be separated by the sound horizon distance.\n- **Cosmic Cartography:** By measuring the apparent angular size and redshift separation of this fixed ruler at different cosmic epochs, we can map the expansion history of the universe ($H(z)$ and $D_A(z)$).\n- **Probing Dark Energy:** This expansion history provides one of our most powerful probes of dark energy, the geometry of the universe, and the laws of gravity on cosmic scales. BAO is a cornerstone of the standard cosmological model, $\\Lambda$CDM.",
+        "line_number": 188,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 25277,
+        "char_end": 26307
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Untitled",
+        "body": "- **Explain It Simply:** How would you explain to a curious 12-year-old why there's a special distance between some galaxies? Your analogy should involve a pond, a loud noise, and mud. (Hint: The loud noise freezes the ripples in the pond, and over time, mud—representing galaxies—settles in the troughs and crests.)\n- **Identify Core Concepts:** What are the three most important terms or concepts you learned? Define \"Photon-Baryon Fluid,\" \"Recombination,\" and \"Sound Horizon\" in your own words.\n- **Challenge & Connect:** The BAO ruler has a fixed *physical* size. How does the concept of an expanding universe complicate the simple idea of measuring this ruler over time? How does redshift play into this?\n- **The Next Step:** The BAO feature is just a 1% bump on top of the general clustering of galaxies. What technological or analytical challenges do you think scientists face in trying to measure this tiny signal with extreme precision? What kind of systematic errors might they worry about?",
+        "line_number": 199,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 26863,
+        "char_end": 27895
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "Eisenstein, D. J., et al. (The SDSS Collaboration). (2005). *Detection of the Baryon Acoustic Peak in the Large-Scale Correlation Function of SDSS Luminous Red Galaxies*. The Astrophysical Journal, 633(2), 560–574. [https://iopscience.iop.org/article/10.1086/466512](https://iopscience.iop.org/article/10.1086/466512)",
+        "line_number": 207,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 27917,
+        "char_end": 28247
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "Peebles, P. J. E., & Yu, J. T. (1970). *Primeval Adiabatic Perturbation in an Expanding Universe*. The Astrophysical Journal, 162, 815. [https://articles.adsabs.harvard.edu/pdf/1970ApJ...162..815P](https://articles.adsabs.harvard.edu/pdf/1970ApJ...162..815P)",
+        "line_number": 209,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 28247,
+        "char_end": 28518
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "Planck Collaboration, Aghanim, N., et al. (2020). *Planck 2018 results. VI. Cosmological parameters*. Astronomy & Astrophysics, 641, A6. [https://www.aanda.org/articles/aa/full_html/2020/09/aa33910-18/aa33910-18.html](https://www.aanda.org/articles/aa/full_html/2020/09/aa33910-18/aa33910-18.html)",
+        "line_number": 211,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 28518,
+        "char_end": 28828
+      },
+      {
+        "type": "cite",
+        "title": "Untitled",
+        "body": "Weinberg, D. H., Mortonson, M. J., Eisenstein, D. J., Hirata, C., Riess, A. G., & Rozo, E. (2013). *Observational Probes of Cosmic Acceleration*. Physics Reports, 530(2), 87-255. [https://arxiv.org/abs/1201.2434](https://arxiv.org/abs/1201.2434) (A comprehensive review).",
+        "line_number": 213,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md",
+        "char_start": 28828,
+        "char_end": 29112
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✨ An Exposition on the Physical Origins of Baryonic Acoustic Oscillations and Their Application as a Standard Ruler for Probing the Large-Scale Structure and Cosmic Expansion",
+        "anchor": "an-exposition-on-the-physical-origins-of-baryonic-acoustic-oscillations-and-their-application-as-a-standard-ruler-for-probing-the-large-scale-structure-and-cosmic-expansion",
+        "line_number": 23,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 2,
+        "text": "1. 🗺️ Introduction & Context",
+        "anchor": "1-introduction-context",
+        "line_number": 32,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 2,
+        "text": "2. 📜 Historical Context & Intellectual Lineage",
+        "anchor": "2-historical-context-intellectual-lineage",
+        "line_number": 47,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 3,
+        "text": "**Core Analysis: An In--Depth Exposition**",
+        "anchor": "core-analysis-an-in-depth-exposition",
+        "line_number": 63,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 2,
+        "text": "3. 📖 Foundational Principles: The \"Why\"",
+        "anchor": "3-foundational-principles-the-why",
+        "line_number": 67,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 2,
+        "text": "4. 🛠️ Mechanisms & Processes: The \"How\"",
+        "anchor": "4-mechanisms-processes-the-how",
+        "line_number": 89,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 3,
+        "text": "4.1 Propagation: The Expanding Shell",
+        "anchor": "41-propagation-the-expanding-shell",
+        "line_number": 93,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 3,
+        "text": "4.2 Recombination: The Universe Lifts Its Fog",
+        "anchor": "42-recombination-the-universe-lifts-its-fog",
+        "line_number": 102,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 3,
+        "text": "4.3 Imprinting: A Fossil in the Cosmos",
+        "anchor": "43-imprinting-a-fossil-in-the-cosmos",
+        "line_number": 111,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 3,
+        "text": "4.4 Observation: Finding the Echo in the Stars",
+        "anchor": "44-observation-finding-the-echo-in-the-stars",
+        "line_number": 123,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 2,
+        "text": "5. 🔬 Evidence & Manifestations: The \"What\"",
+        "anchor": "5-evidence-manifestations-the-what",
+        "line_number": 132,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 2,
+        "text": "6. 🌍 Broader Implications & Significance: The \"So What\"",
+        "anchor": "6-broader-implications-significance-the-so-what",
+        "line_number": 148,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 2,
+        "text": "7. ⏳ Current Landscape & Unanswered Questions",
+        "anchor": "7-current-landscape-unanswered-questions",
+        "line_number": 166,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 2,
+        "text": "8. 🗝️ Conclusion & Key Takeaways",
+        "anchor": "8-conclusion-key-takeaways",
+        "line_number": 182,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 2,
+        "text": "9. 🦖 Active Reading & Reflection (The Feynman Technique)",
+        "anchor": "9-active-reading-reflection-the-feynman-technique",
+        "line_number": 197,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "level": 2,
+        "text": "10. 📚 References",
+        "anchor": "10-references",
+        "line_number": 205,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [
+      {
+        "display_text": "https://iopscience.iop.org/article/10.1086/466512",
+        "url": "https://iopscience.iop.org/article/10.1086/466512",
+        "format": "markdown",
+        "line_number": 208,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "display_text": "https://articles.adsabs.harvard.edu/pdf/1970ApJ...162..815P",
+        "url": "https://articles.adsabs.harvard.edu/pdf/1970ApJ...162..815P",
+        "format": "markdown",
+        "line_number": 210,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "display_text": "https://www.aanda.org/articles/aa/full_html/2020/09/aa33910-18/aa33910-18.html",
+        "url": "https://www.aanda.org/articles/aa/full_html/2020/09/aa33910-18/aa33910-18.html",
+        "format": "markdown",
+        "line_number": 212,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "display_text": "https://arxiv.org/abs/1201.2434",
+        "url": "https://arxiv.org/abs/1201.2434",
+        "format": "markdown",
+        "line_number": 214,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**The original central concentration**, consisting mostly of dark matter which was never pushed out.",
+          "indent_level": 0,
+          "line_number": 114,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+        },
+        {
+          "text": "**A spherical shell of baryonic matter**, frozen at the sound horizon distance from the center.",
+          "indent_level": 0,
+          "line_number": 116,
+          "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+        }
+      ],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "\\Lambda",
+        "format": "inline",
+        "line_number": 43,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "c/\\sqrt{3}",
+        "format": "inline",
+        "line_number": 85,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "r_s",
+        "format": "inline",
+        "line_number": 91,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\xi(r)",
+        "format": "inline",
+        "line_number": 121,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\xi(r)",
+        "format": "inline",
+        "line_number": 123,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\xi(r)",
+        "format": "inline",
+        "line_number": 125,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\xi(r)",
+        "format": "inline",
+        "line_number": 125,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\xi(r)",
+        "format": "inline",
+        "line_number": 125,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "r \\approx 150",
+        "format": "inline",
+        "line_number": 128,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "z \\approx 1100",
+        "format": "inline",
+        "line_number": 136,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "r_s = 147.09 \\pm 0.26",
+        "format": "inline",
+        "line_number": 136,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "150 \\text{ Mpc}/h",
+        "format": "inline",
+        "line_number": 139,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "h",
+        "format": "inline",
+        "line_number": 139,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "z=0.5",
+        "format": "inline",
+        "line_number": 144,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "r_s",
+        "format": "inline",
+        "line_number": 146,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "z",
+        "format": "inline",
+        "line_number": 146,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\Delta\\theta",
+        "format": "inline",
+        "line_number": 146,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "D_A(z)",
+        "format": "inline",
+        "line_number": 150,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\Delta\\theta = r_s / D_A(z)",
+        "format": "inline",
+        "line_number": 150,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\Delta z",
+        "format": "inline",
+        "line_number": 150,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "H(z)",
+        "format": "inline",
+        "line_number": 153,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "c\\Delta z = H(z)r_s",
+        "format": "inline",
+        "line_number": 153,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\Delta\\theta",
+        "format": "inline",
+        "line_number": 153,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\Delta z",
+        "format": "inline",
+        "line_number": 153,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "z",
+        "format": "inline",
+        "line_number": 154,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\Lambda",
+        "format": "inline",
+        "line_number": 160,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\Lambda",
+        "format": "inline",
+        "line_number": 160,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "w",
+        "format": "inline",
+        "line_number": 172,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "r_s \\approx 150",
+        "format": "inline",
+        "line_number": 186,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "H(z)",
+        "format": "inline",
+        "line_number": 190,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "D_A(z)",
+        "format": "inline",
+        "line_number": 190,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      },
+      {
+        "expression": "\\Lambda",
+        "format": "inline",
+        "line_number": 191,
+        "source": "cosmo-report-the-physics-and-application-of-baryonic-acoustic-oscillations-20251120093947.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.869340",
+    "source_file": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+    "source_file_size_bytes": 6094,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Improve PKB Note Visuals",
+      "id": "20251018202905",
+      "aliases": [
+        "pkb/notes",
+        "pkb/notes/visuals",
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": [],
+      "created": "2025-10-18T20:29:05",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "https://gemini.google.com/gem/cd8939e7e205/7d406c81d1754b0f",
+      "tags": [
+        "pkb",
+        "pkb",
+        "pkb",
+        "source/rsca",
+        "topic",
+        "topic/educational",
+        "topic/rsca"
+      ]
+    },
+    "word_count": 790,
+    "character_count": 5556,
+    "line_count": 92,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 26,
+    "by_type": {
+      "headings": 8,
+      "callouts": 7,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 11,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Improve-PKB-Note-Viisuals__🆔20251018202850",
+      "anchor": "topicsimprove-pkb-note-viisuals20251018202850",
+      "line_number": 28,
+      "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📖 The Silent Foundation: Typography and Readability in a Long-Term Personal Knowledge Base",
+          "anchor": "the-silent-foundation-typography-and-readability-in-a-long-term-personal-knowledge-base",
+          "line_number": 39,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🌈 Color as Code: Semantic Color Theory in Information Architecture",
+          "anchor": "color-as-code-semantic-color-theory-in-information-architecture",
+          "line_number": 51,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "💻 Beyond Themes: Custom CSS as a Tool for Bespoke Knowledge Workflows",
+          "anchor": "beyond-themes-custom-css-as-a-tool-for-bespoke-knowledge-workflows",
+          "line_number": 63,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚙️ The Aesthetics of Friction: Balancing UI Beauty with UX Functionality",
+          "anchor": "the-aesthetics-of-friction-balancing-ui-beauty-with-ux-functionality",
+          "line_number": 75,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🗺️ From Text to Interface: Visualizing Knowledge with Obsidian Plugins",
+          "anchor": "from-text-to-interface-visualizing-knowledge-with-obsidian-plugins",
+          "line_number": 87,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🧠 The Cognitive Ergonomics of Digital Note-Taking",
+          "anchor": "the-cognitive-ergonomics-of-digital-note-taking",
+          "line_number": 99,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Further Exploration",
+          "anchor": "further-exploration",
+          "line_number": 109,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "Each topic (⬇️) is framed to support a deep, structured exploration of how visual design fundamentally shapes your relationship with your knowledge.",
+        "line_number": 30,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+        "char_start": 544,
+        "char_end": 712
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 37,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+        "char_start": 735,
+        "char_end": 751
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 49,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+        "char_start": 1474,
+        "char_end": 1490
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 61,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+        "char_start": 2179,
+        "char_end": 2195
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 73,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+        "char_start": 2876,
+        "char_end": 2892
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 85,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+        "char_start": 3583,
+        "char_end": 3599
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 97,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md",
+        "char_start": 4289,
+        "char_end": 4305
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Improve-PKB-Note-Viisuals__🆔20251018202850",
+        "anchor": "topicsimprove-pkb-note-viisuals20251018202850",
+        "line_number": 28,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+      },
+      {
+        "level": 2,
+        "text": "📖 The Silent Foundation: Typography and Readability in a Long-Term Personal Knowledge Base",
+        "anchor": "the-silent-foundation-typography-and-readability-in-a-long-term-personal-knowledge-base",
+        "line_number": 39,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+      },
+      {
+        "level": 2,
+        "text": "🌈 Color as Code: Semantic Color Theory in Information Architecture",
+        "anchor": "color-as-code-semantic-color-theory-in-information-architecture",
+        "line_number": 51,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+      },
+      {
+        "level": 2,
+        "text": "💻 Beyond Themes: Custom CSS as a Tool for Bespoke Knowledge Workflows",
+        "anchor": "beyond-themes-custom-css-as-a-tool-for-bespoke-knowledge-workflows",
+        "line_number": 63,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ The Aesthetics of Friction: Balancing UI Beauty with UX Functionality",
+        "anchor": "the-aesthetics-of-friction-balancing-ui-beauty-with-ux-functionality",
+        "line_number": 75,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+      },
+      {
+        "level": 2,
+        "text": "🗺️ From Text to Interface: Visualizing Knowledge with Obsidian Plugins",
+        "anchor": "from-text-to-interface-visualizing-knowledge-with-obsidian-plugins",
+        "line_number": 87,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+      },
+      {
+        "level": 2,
+        "text": "🧠 The Cognitive Ergonomics of Digital Note-Taking",
+        "anchor": "the-cognitive-ergonomics-of-digital-note-taking",
+        "line_number": 99,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+      },
+      {
+        "level": 2,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 109,
+        "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 34,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 46,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 58,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 70,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 82,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 94,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 106,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+        },
+        {
+          "text": "**Iconography as a Navigational Aid:** An exploration of how plugins like Iconize or the use of emojis in folder/file names can serve as rapid visual cues, speeding up navigation and classification within the file explorer.",
+          "indent_level": 0,
+          "line_number": 112,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+        },
+        {
+          "text": "**The \"Digital Garden\" Aesthetic:** A look into the specific design philosophy of \"digital gardening,\" which often favors minimalist, typography-focused, and interconnected visual styles.",
+          "indent_level": 0,
+          "line_number": 114,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+        },
+        {
+          "text": "**Responsive Design in Custom CSS:** An investigation into the technical challenges and best practices for ensuring your custom CSS snippets and visual tweaks are functional and appealing on both desktop and mobile devices.",
+          "indent_level": 0,
+          "line_number": 115,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+        },
+        {
+          "text": "**Advanced Callout & Blockquote Styling:** A focused study on using CSS to redesign callouts and blockquotes to create a rich, editorial-style layout for your notes, clearly delineating different types of information (e.g., summaries, questions, key definitions).",
+          "indent_level": 0,
+          "line_number": 116,
+          "source": "topic-set-improve-pkb-note-visuals--🆔20251018202850.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

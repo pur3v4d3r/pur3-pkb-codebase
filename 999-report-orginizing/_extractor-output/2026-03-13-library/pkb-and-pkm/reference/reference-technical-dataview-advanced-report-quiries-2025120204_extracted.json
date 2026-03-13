@@ -1,0 +1,1185 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:31.150247",
+    "source_file": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-technical-dataview-advanced-report-quiries-2025120204.md",
+    "source_file_size_bytes": 21086,
+    "processing_time_seconds": 0.004
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Dataview Report Quieries",
+        "Report Dataview"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "type/tutorial",
+        "status/in-progress",
+        "pkb",
+        "information-architecture",
+        "metadata-systems",
+        "critical-thinking/problem-solving",
+        "instructional-design-pkm",
+        "extraneous-load-reduction",
+        "information-architecture/organization",
+        "dataview-queries",
+        "cognitive-pkm"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251202045820",
+      "created": "2025-12-02T04:58:20",
+      "modified": "2025-12-02T04:58:20",
+      "week": "[[2025-W49]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "maturity": "needs-review",
+      "confidence": "moderate",
+      "next-review": "2025-12-09",
+      "review-count": "0",
+      "link-up": [
+        "[[pkb-&-pkm-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-02|Daily-Note]]"
+      ]
+    },
+    "word_count": 2532,
+    "character_count": 20144,
+    "line_count": 633,
+    "heading_count": 26
+  },
+  "extraction_summary": {
+    "total_items_extracted": 117,
+    "by_type": {
+      "headings": 26,
+      "callouts": 17,
+      "wiki_links": 5,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 13,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 26,
+      "lists_unordered": 23,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 7
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Dataview Query Fix & Enhanced Versions",
+      "anchor": "dataview-query-fix-enhanced-versions",
+      "line_number": 37,
+      "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📊 Note Metadata Dashboard",
+          "anchor": "note-metadata-dashboard",
+          "line_number": 44,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Related Notes",
+              "anchor": "related-notes",
+              "line_number": 107,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Sources & References",
+              "anchor": "sources-references",
+              "line_number": 115,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Backlinks & Connections",
+              "anchor": "backlinks-connections",
+              "line_number": 124,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2025-12-02 - Initial Creation",
+              "anchor": "2025-12-02-initial-creation",
+              "line_number": 134,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Tags & Classification",
+              "anchor": "tags-classification",
+              "line_number": 139,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Review System",
+              "anchor": "review-system",
+              "line_number": 144,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Review Checklist:",
+                  "anchor": "review-checklist",
+                  "line_number": 152,
+                  "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔧 Dataview Query Fix & Enhanced Versions",
+      "anchor": "dataview-query-fix-enhanced-versions",
+      "line_number": 182,
+      "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "❌ Issues in Original Query",
+          "anchor": "issues-in-original-query",
+          "line_number": 184,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "✅ Fixed DQL Version (Basic)",
+          "anchor": "fixed-dql-version-basic",
+          "line_number": 192,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🚀 Enhanced DataviewJS Versions",
+          "anchor": "enhanced-dataviewjs-versions",
+          "line_number": 211,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Version 1: Formatted Dates with Relative Time",
+              "anchor": "version-1-formatted-dates-with-relative-time",
+              "line_number": 213,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Version 2: Grouped by Date with Statistics",
+              "anchor": "version-2-grouped-by-date-with-statistics",
+              "line_number": 261,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Version 3: Interactive Dashboard with Meta Bind",
+              "anchor": "version-3-interactive-dashboard-with-meta-bind",
+              "line_number": 305,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Version 4: Timeline Visualization (Requires Charts Plugin)",
+              "anchor": "version-4-timeline-visualization-requires-charts-plugin",
+              "line_number": 382,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Version 5: Advanced Filtering with Search Box (Meta Bind Integration)",
+              "anchor": "version-5-advanced-filtering-with-search-box-meta-bind-integration",
+              "line_number": 451,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎨 Bonus: Multi-Source Comparison Query",
+          "anchor": "bonus-multi-source-comparison-query",
+          "line_number": 532,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔧 Installation & Usage",
+          "anchor": "installation-usage",
+          "line_number": 602,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "For DQL Version (Fixed Basic Query)",
+              "anchor": "for-dql-version-fixed-basic-query",
+              "line_number": 604,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "For DataviewJS Versions",
+              "anchor": "for-dataviewjs-versions",
+              "line_number": 610,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "For Meta Bind Integration (Versions 3 & 5)",
+              "anchor": "for-meta-bind-integration-versions-3-5",
+              "line_number": 617,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "For Charts Integration (Version 4)",
+              "anchor": "for-charts-integration-version-4",
+              "line_number": 622,
+              "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎓 Understanding the Improvements",
+          "anchor": "understanding-the-improvements",
+          "line_number": 629,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔗 Related Topics for PKB Expansion",
+          "anchor": "related-topics-for-pkb-expansion",
+          "line_number": 648,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "Untitled",
+        "body": "- **Title**:: [[Dataview Query Fix & Enhanced Versions]]\n- **Prompt/Topic Used**:: \n- **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`",
+        "line_number": 39,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 832,
+        "char_end": 1005
+      },
+      {
+        "type": "fail",
+        "title": "🛠️ Metadata Health Check",
+        "body": "**Missing Fields**:: `$= const fields = [\"status\", \"type\", \"tags\"]; const missing = fields.filter(f => !dv.current()[f]); missing.length > 0 ? \"⚠️ Missing: \" + missing.join(\", \") : \"✅ All Systems Go\"`",
+        "line_number": 45,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 1035,
+        "char_end": 1273
+      },
+      {
+        "type": "metadata",
+        "title": "Untitled",
+        "body": "**Note-Type**: `= this.type`\n**Development Status**: `= this.maturity`  \n**Epistemic Confidence**: `= this.confidence`  \n**Next Review**: `= this.next-review`  \n**Review Count**: `= this.review-count`  \n**Created**: `= this.created`  \n**Last Modified**: `= this.modified`",
+        "line_number": 48,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 1274,
+        "char_end": 1574
+      },
+      {
+        "type": "quote",
+        "title": "📝 Content Metrics",
+        "body": "**Word Count**:: `= this.file.size` B | **Est. Read Time**:: `= round(this.file.size / 1300) + \" min\"`\n**Depth Class**:: `= choice(this.file.size < 500, \"🌱 Stub\", choice(this.file.size < 2000, \"📄 Note\", \"📜 Essay\"))`",
+        "line_number": 57,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 1575,
+        "char_end": 1824
+      },
+      {
+        "type": "calendar",
+        "title": "🕰️ Temporal Context",
+        "body": "**Created**:: `= this.file.ctime` | **Age**:: `= (date(today) - this.file.ctime).days + \" days\"`\n**Last Touch**:: `= this.file.mtime` | **Staleness**:: `= choice((date(today) - this.file.mtime).days > 180, \"🕸️ Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂 Cold\", \"🔥 Fresh\"))`",
+        "line_number": 61,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 1825,
+        "char_end": 2156
+      },
+      {
+        "type": "network",
+        "title": "🔗 Network Connectivity",
+        "body": "**In-Links**:: `= length(this.file.inlinks)` | **Out-Links**:: `= length(this.file.outlinks)`\n**Network Status**:: `= choice(length(this.file.inlinks) = 0, \"🕸️ Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱 Node\"))`",
+        "line_number": 65,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 2157,
+        "char_end": 2425
+      },
+      {
+        "type": "important",
+        "title": "Review Schedule",
+        "body": "- **Next Review**: `= this.next-review`\n- **Review Frequency**: Based on maturity level\n  - Seedling: Weekly\n  - Budding: Bi-weekly\n  - Developing: Monthly\n  - Evergreen: Quarterly",
+        "line_number": 145,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 4587,
+        "char_end": 4811
+      },
+      {
+        "type": "helpful-tip",
+        "title": "What Changed",
+        "body": "- Replaced `\"created\" = DESC` with `file.ctime DESC`\n- This sorts by actual creation time, newest first\n- `DESC` means descending order (newest → oldest)",
+        "line_number": 204,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 6234,
+        "char_end": 6424
+      },
+      {
+        "type": "what-this-does",
+        "title": "Features Added",
+        "body": "- **File links**: Click note names to open them\n- **Formatted dates**: Human-readable timestamp (YYYY-MM-DD HH:MM)\n- **Relative time**: \"2 days ago\" style display\n- **Error handling**: Shows message if no results found\n- **Null safety**: Handles missing `source` field gracefully",
+        "line_number": 252,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 7635,
+        "char_end": 7960
+      },
+      {
+        "type": "what-this-does",
+        "title": "Features Added",
+        "body": "- **Date grouping**: Notes organized by creation date\n- **Count statistics**: Shows how many notes per day\n- **Time-only display**: Within each date group, show just time\n- **Dynamic headers**: Sections created automatically per date\n- **Plural handling**: Grammatically correct \"note\" vs \"notes\"",
+        "line_number": 296,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 8864,
+        "char_end": 9206
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Dashboard Features",
+        "body": "- **Summary statistics**: Total count, newest, oldest at top\n- **Numbered rows**: Easy reference to specific entries\n- **Tag display**: Shows all tags associated with each note\n- **Word count estimate**: Rough content size indicator\n- **Pagination awareness**: Tells you if results are truncated\n- **Configurable limit**: Can adjust via frontmatter `displayLimit` field",
+        "line_number": 365,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 10905,
+        "char_end": 11335
+      },
+      {
+        "type": "what-this-does",
+        "title": "Visualization Features",
+        "body": "- **Visual bars**: █ characters show daily activity at a glance\n- **Daily counts**: See how many notes created per day\n- **Chart integration**: Generates chart code for Charts plugin\n- **Timeline view**: Chronological progression of note creation\n- **Copy-ready format**: Chart config ready to paste",
+        "line_number": 442,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 13365,
+        "char_end": 13718
+      },
+      {
+        "type": "important",
+        "title": "Pagination Setup",
+        "body": "To navigate pages, add this to your note's frontmatter:\n```yaml\n---\ncurrentPage: 2  # Change number to see different page\n---\n```",
+        "line_number": 515,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 15759,
+        "char_end": 15933
+      },
+      {
+        "type": "what-this-does",
+        "title": "Advanced Features",
+        "body": "- **Pagination**: Browse through results 10 at a time\n- **Modification tracking**: ✏️ icon shows edited notes\n- **File sizes**: See content volume at a glance\n- **Global numbering**: Index continues across pages\n- **Interactive navigation**: Page indicator shows current position",
+        "line_number": 523,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 15934,
+        "char_end": 16262
+      },
+      {
+        "type": "what-this-does",
+        "title": "Comparison Features",
+        "body": "- **Multi-model tracking**: See notes from different Claude versions\n- **Comparative statistics**: Which model you use most\n- **Time span calculation**: How long you've been using each model\n- **Sample previews**: Latest notes from each source\n- **Easy extensibility**: Add more sources to the array",
+        "line_number": 593,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 17797,
+        "char_end": 18147
+      },
+      {
+        "type": "principle-point",
+        "title": "Why DataviewJS?",
+        "body": "- **Conditional logic**: Can show/hide elements based on data\n- **Complex calculations**: Relative time, statistics, grouping\n- **Error handling**: Graceful degradation when data missing\n- **Rich formatting**: Custom display beyond table constraints\n- **Interactivity**: Dynamic behavior based on frontmatter",
+        "line_number": 631,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 19058,
+        "char_end": 19414
+      },
+      {
+        "type": "helpful-tip",
+        "title": "When to Use Each Version",
+        "body": "- **Version 1**: Best for daily use, clean and informative\n- **Version 2**: When you want to see patterns over time\n- **Version 3**: For comprehensive dashboard with stats\n- **Version 4**: When visualizing activity trends matters\n- **Version 5**: For large vaults needing pagination\n- **Bonus**: When comparing multiple data sources",
+        "line_number": 638,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md",
+        "char_start": 19415,
+        "char_end": 19802
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Dataview Query Fix & Enhanced Versions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Query Fix & Enhanced Versions]]",
+        "line_number": 40,
+        "section": "Dataview Query Fix & Enhanced Versions",
+        "context_line": "> - **Title**:: [[Dataview Query Fix & Enhanced Versions]]",
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "target": "Dataview Query Optimization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Query Optimization]]",
+        "line_number": 650,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Dataview Query Optimization]]**",
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "target": "Meta Bind Interactive Dashboards",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Meta Bind Interactive Dashboards]]",
+        "line_number": 655,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Meta Bind Interactive Dashboards]]**",
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "target": "Obsidian Charts and Visualization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian Charts and Visualization]]",
+        "line_number": 660,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Obsidian Charts and Visualization]]**",
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "target": "Temporal Data Modeling in PKM",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Temporal Data Modeling in PKM]]",
+        "line_number": 665,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Temporal Data Modeling in PKM]]**",
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Dataview Query Fix & Enhanced Versions",
+        "anchor": "dataview-query-fix-enhanced-versions",
+        "line_number": 37,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Note Metadata Dashboard",
+        "anchor": "note-metadata-dashboard",
+        "line_number": 44,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Related Notes",
+        "anchor": "related-notes",
+        "line_number": 107,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Sources & References",
+        "anchor": "sources-references",
+        "line_number": 115,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Backlinks & Connections",
+        "anchor": "backlinks-connections",
+        "line_number": 124,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "2025-12-02 - Initial Creation",
+        "anchor": "2025-12-02-initial-creation",
+        "line_number": 134,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Tags & Classification",
+        "anchor": "tags-classification",
+        "line_number": 139,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Review System",
+        "anchor": "review-system",
+        "line_number": 144,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 4,
+        "text": "Review Checklist:",
+        "anchor": "review-checklist",
+        "line_number": 152,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 1,
+        "text": "🔧 Dataview Query Fix & Enhanced Versions",
+        "anchor": "dataview-query-fix-enhanced-versions",
+        "line_number": 182,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "❌ Issues in Original Query",
+        "anchor": "issues-in-original-query",
+        "line_number": 184,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "✅ Fixed DQL Version (Basic)",
+        "anchor": "fixed-dql-version-basic",
+        "line_number": 192,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "🚀 Enhanced DataviewJS Versions",
+        "anchor": "enhanced-dataviewjs-versions",
+        "line_number": 211,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Version 1: Formatted Dates with Relative Time",
+        "anchor": "version-1-formatted-dates-with-relative-time",
+        "line_number": 213,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Version 2: Grouped by Date with Statistics",
+        "anchor": "version-2-grouped-by-date-with-statistics",
+        "line_number": 261,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Version 3: Interactive Dashboard with Meta Bind",
+        "anchor": "version-3-interactive-dashboard-with-meta-bind",
+        "line_number": 305,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Version 4: Timeline Visualization (Requires Charts Plugin)",
+        "anchor": "version-4-timeline-visualization-requires-charts-plugin",
+        "line_number": 382,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Version 5: Advanced Filtering with Search Box (Meta Bind Integration)",
+        "anchor": "version-5-advanced-filtering-with-search-box-meta-bind-integration",
+        "line_number": 451,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "🎨 Bonus: Multi-Source Comparison Query",
+        "anchor": "bonus-multi-source-comparison-query",
+        "line_number": 532,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "🔧 Installation & Usage",
+        "anchor": "installation-usage",
+        "line_number": 602,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "For DQL Version (Fixed Basic Query)",
+        "anchor": "for-dql-version-fixed-basic-query",
+        "line_number": 604,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "For DataviewJS Versions",
+        "anchor": "for-dataviewjs-versions",
+        "line_number": 610,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "For Meta Bind Integration (Versions 3 & 5)",
+        "anchor": "for-meta-bind-integration-versions-3-5",
+        "line_number": 617,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "For Charts Integration (Version 4)",
+        "anchor": "for-charts-integration-version-4",
+        "line_number": 622,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "🎓 Understanding the Improvements",
+        "anchor": "understanding-the-improvements",
+        "line_number": 629,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 648,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "// 🧠 SYSTEM: Semantic Bridge Engine\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks.map(l => l.path);\n\n// 1. Filter the Vault\nconst siblings = dv.pages()\n    .where(p => p.file.path !== current.file.path) // Exclude self\n    .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n    .map(p => {\n        // Find overlap between this page's links and the current page's links\n        const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n        return { \n            link: p.file.link, \n            sharedCount: shared.length, \n            sharedLinks: shared \n        };\n    })\n    .where(p => p.sharedCount > 0) // Must share at least 1 connection\n    .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n    .limit(5); // Only show top 5\n\n// 2. Render the Bridge\nif (siblings.length > 0) {\n    dv.header(4, \"🌉 Semantic Bridges (Missing Connections)\");\n    dv.table(\n        [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n        siblings.map(s => [\n            s.link, \n            \"🔗 \" + s.sharedCount, \n            s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n        ])\n    );\n} else {\n    dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}",
+        "line_start": 69,
+        "line_end": 106,
+        "char_count": 1392,
+        "line_count": 36,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE type, maturity, confidence\nFROM  \"\"\nWHERE  type = \"reference\"\nSORT \"maturity\" DESC\nLIMIT 15",
+        "line_start": 108,
+        "line_end": 114,
+        "char_count": 97,
+        "line_count": 5,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    source AS \"Source Type\",\n    created AS \"Date Added\"\nFROM [[]]\nWHERE \"claude-sonnet-4.5\"\nSORT created DESC",
+        "line_start": 116,
+        "line_end": 123,
+        "char_count": 117,
+        "line_count": 6,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    type AS \"Type\",\n    maturity AS \"Maturity\",\n    created AS \"Created\"\nFROM [[#]]\nSORT created DESC\nLIMIT 15",
+        "line_start": 125,
+        "line_end": 133,
+        "char_count": 117,
+        "line_count": 7,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "TABLE \n    source AS \"Source Type\",\n    file.ctime AS \"Date Added\"\nFROM \"\"\nWHERE source = \"claude-sonnet-4.5\"\nSORT file.ctime DESC\nLIMIT 10",
+        "line_start": 194,
+        "line_end": 202,
+        "char_count": 139,
+        "line_count": 7,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "const pages = dv.pages('')\n    .where(p => p.source === \"claude-sonnet-4.5\")\n    .sort(p => p.file.ctime, 'desc')\n    .limit(10);\n\nif (pages.length === 0) {\n    dv.paragraph(\"❌ No notes found with source 'claude-sonnet-4.5'\");\n} else {\n    dv.table(\n        [\"Note\", \"Source Type\", \"Date Added\", \"Age\"],\n        pages.map(p => {\n            const ctime = p.file.ctime;\n            const formattedDate = ctime.toFormat(\"yyyy-MM-dd HH:mm\");\n            const now = DateTime.now();\n            const diff = now.diff(ctime, ['days', 'hours', 'minutes']);\n            \n            let relativeTime;\n            if (diff.days >= 1) {\n                relativeTime = `${Math.floor(diff.days)} days ago`;\n            } else if (diff.hours >= 1) {\n                relativeTime = `${Math.floor(diff.hours)} hours ago`;\n            } else {\n                relativeTime = `${Math.floor(diff.minutes)} minutes ago`;\n            }\n            \n            return [\n                p.file.link,\n                p.source || \"N/A\",\n                formattedDate,\n                relativeTime\n            ];\n        })\n    );\n}",
+        "line_start": 215,
+        "line_end": 250,
+        "char_count": 1109,
+        "line_count": 34,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "const pages = dv.pages('')\n    .where(p => p.source === \"claude-sonnet-4.5\")\n    .sort(p => p.file.ctime, 'desc')\n    .limit(10);\n\nif (pages.length === 0) {\n    dv.paragraph(\"❌ No notes found with source 'claude-sonnet-4.5'\");\n} else {\n    // Group by date (ignoring time)\n    const grouped = pages.groupBy(p => \n        p.file.ctime.toFormat(\"yyyy-MM-dd\")\n    );\n    \n    dv.header(3, `📊 Recently Added Notes (${pages.length} total)`);\n    \n    for (let group of grouped) {\n        const date = group.key;\n        const count = group.rows.length;\n        \n        dv.header(4, `📅 ${date} (${count} note${count > 1 ? 's' : ''})`);\n        \n        dv.table(\n            [\"Note\", \"Time Added\"],\n            group.rows.map(p => [\n                p.file.link,\n                p.file.ctime.toFormat(\"HH:mm:ss\")\n            ])\n        );\n    }\n}",
+        "line_start": 263,
+        "line_end": 294,
+        "char_count": 840,
+        "line_count": 30,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "const pages = dv.pages('')\n    .where(p => p.source === \"claude-sonnet-4.5\")\n    .sort(p => p.file.ctime, 'desc');\n\n// Configuration\nconst DEFAULT_LIMIT = 10;\nconst currentLimit = dv.current()?.displayLimit || DEFAULT_LIMIT;\n\n// Statistics\nconst totalNotes = pages.length;\nconst oldestNote = pages.length > 0 \n    ? pages[pages.length - 1].file.ctime \n    : null;\nconst newestNote = pages.length > 0 \n    ? pages[0].file.ctime \n    : null;\n\n// Header with statistics\ndv.header(3, \"📊 Claude Sonnet 4.5 Notes Dashboard\");\n\ndv.paragraph(`\n**Total Notes**: ${totalNotes} | \n**Newest**: ${newestNote ? newestNote.toFormat(\"yyyy-MM-dd HH:mm\") : \"N/A\"} | \n**Oldest**: ${oldestNote ? oldestNote.toFormat(\"yyyy-MM-dd HH:mm\") : \"N/A\"}\n`);\n\n// Display table\nif (totalNotes === 0) {\n    dv.paragraph(\"❌ No notes found with source 'claude-sonnet-4.5'\");\n} else {\n    const displayPages = pages.limit(currentLimit);\n    \n    dv.table(\n        [\"#\", \"Note\", \"Tags\", \"Date Added\", \"Word Count\"],\n        displayPages.map((p, idx) => {\n            // Calculate word count from file content\n            const wordCount = p.file.size \n                ? Math.floor(p.file.size / 6) // Rough estimate: 6 chars per word\n                : \"N/A\";\n            \n            return [\n                idx + 1,\n                p.file.link,\n                (p.file.tags || []).join(\", \") || \"—\",\n                p.file.ctime.toFormat(\"yyyy-MM-dd HH:mm\"),\n                wordCount\n            ];\n        })\n    );\n    \n    // Pagination info\n    if (totalNotes > currentLimit) {\n        dv.paragraph(`*Showing ${currentLimit} of ${totalNotes} notes*`);\n    }\n}",
+        "line_start": 307,
+        "line_end": 363,
+        "char_count": 1630,
+        "line_count": 55,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "yaml",
+        "code": "---\ndisplayLimit: 20\n---",
+        "line_start": 374,
+        "line_end": 378,
+        "char_count": 24,
+        "line_count": 3,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "const pages = dv.pages('')\n    .where(p => p.source === \"claude-sonnet-4.5\")\n    .sort(p => p.file.ctime, 'desc')\n    .limit(10);\n\nif (pages.length === 0) {\n    dv.paragraph(\"❌ No notes found with source 'claude-sonnet-4.5'\");\n} else {\n    // Prepare data for timeline visualization\n    const timelineData = pages.map(p => ({\n        date: p.file.ctime.toFormat(\"yyyy-MM-dd\"),\n        time: p.file.ctime.toFormat(\"HH:mm\"),\n        title: p.file.name,\n        link: p.file.path\n    }));\n    \n    // Group by date for counting\n    const dateCounts = {};\n    for (let p of pages) {\n        const date = p.file.ctime.toFormat(\"yyyy-MM-dd\");\n        dateCounts[date] = (dateCounts[date] || 0) + 1;\n    }\n    \n    // Display table with visual indicators\n    dv.header(3, \"📈 Recent Activity Timeline\");\n    \n    dv.table(\n        [\"Date\", \"Time\", \"Note\", \"Daily Count\"],\n        timelineData.map(item => {\n            const bars = \"█\".repeat(dateCounts[item.date]);\n            return [\n                item.date,\n                item.time,\n                dv.fileLink(item.link, false, item.title),\n                `${dateCounts[item.date]} ${bars}`\n            ];\n        })\n    );\n    \n    // Create chart data (for use with Charts plugin if installed)\n    const chartLabels = Object.keys(dateCounts).reverse();\n    const chartData = Object.values(dateCounts).reverse();\n    \n    // Output chart configuration\n    dv.header(4, \"📊 Activity Chart Data (Copy to Charts plugin)\");\n    dv.paragraph(\"",
+        "line_start": 384,
+        "line_end": 430,
+        "char_count": 1491,
+        "line_count": 46,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!what-this-does] Visualization Features\n> - **Visual bars**: █ characters show daily activity at a glance\n> - **Daily counts**: See how many notes created per day\n> - **Chart integration**: Generates chart code for Charts plugin\n> - **Timeline view**: Chronological progression of note creation\n> - **Copy-ready format**: Chart config ready to paste\n\n---\n\n### Version 5: Advanced Filtering with Search Box (Meta Bind Integration)",
+        "line_start": 440,
+        "line_end": 453,
+        "char_count": 432,
+        "line_count": 10,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!important] Pagination Setup\n> To navigate pages, add this to your note's frontmatter:\n>",
+        "line_start": 513,
+        "line_end": 517,
+        "char_count": 91,
+        "line_count": 3,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!what-this-does] Advanced Features\n> - **Pagination**: Browse through results 10 at a time\n> - **Modification tracking**: ✏️ icon shows edited notes\n> - **File sizes**: See content volume at a glance\n> - **Global numbering**: Index continues across pages\n> - **Interactive navigation**: Page indicator shows current position\n\n---\n\n## 🎨 Bonus: Multi-Source Comparison Query",
+        "line_start": 521,
+        "line_end": 534,
+        "char_count": 375,
+        "line_count": 10,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "The SORT clause references \"created\" which doesn't exist - should be file.ctime",
+          "indent_level": 0,
+          "line_number": 94,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "The DESC syntax should be file.ctime DESC (no equals sign)",
+          "indent_level": 0,
+          "line_number": 96,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "The query structure is valid otherwise",
+          "indent_level": 0,
+          "line_number": 97,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "A fixed version",
+          "indent_level": 0,
+          "line_number": 99,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Multiple versions using DataviewJS and plugins",
+          "indent_level": 0,
+          "line_number": 100,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Proper sorting by creation date",
+          "indent_level": 0,
+          "line_number": 100,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "**SORT field mismatch**: You're sorting by `\"created\"` (which doesn't exist) instead of `file.ctime`",
+          "indent_level": 0,
+          "line_number": 124,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "**Invalid syntax**: `SORT \"created\" = DESC` should be `SORT file.ctime DESC`",
+          "indent_level": 0,
+          "line_number": 129,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Create a new note or add to existing dashboard",
+          "indent_level": 0,
+          "line_number": 346,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Paste the fixed query",
+          "indent_level": 0,
+          "line_number": 349,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Switch to Reading mode",
+          "indent_level": 0,
+          "line_number": 350,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Query executes automatically",
+          "indent_level": 0,
+          "line_number": 351,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "**Enable DataviewJS** in Dataview plugin settings:",
+          "indent_level": 0,
+          "line_number": 352,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Paste any of the advanced queries above",
+          "indent_level": 0,
+          "line_number": 358,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Switch to Reading mode",
+          "indent_level": 0,
+          "line_number": 359,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Customize by modifying the code sections",
+          "indent_level": 0,
+          "line_number": 360,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "**Install Meta Bind plugin** if not already installed",
+          "indent_level": 0,
+          "line_number": 365,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Add frontmatter configuration as shown in each version",
+          "indent_level": 0,
+          "line_number": 366,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Use Meta Bind input fields for interactive controls",
+          "indent_level": 0,
+          "line_number": 367,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "**Install Charts plugin** if not already installed",
+          "indent_level": 0,
+          "line_number": 368,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Copy the generated chart code from query output",
+          "indent_level": 0,
+          "line_number": 369,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Paste into a new code block or separate note",
+          "indent_level": 0,
+          "line_number": 370,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "**[[Dataview Query Optimization]]**",
+          "indent_level": 0,
+          "line_number": 404,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "**[[Meta Bind Interactive Dashboards]]**",
+          "indent_level": 0,
+          "line_number": 413,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "**[[Obsidian Charts and Visualization]]**",
+          "indent_level": 0,
+          "line_number": 419,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "**[[Temporal Data Modeling in PKM]]**",
+          "indent_level": 0,
+          "line_number": 428,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "[ ] Definition still accurate?",
+          "indent_level": 0,
+          "line_number": 84,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "[ ] New connections identified?",
+          "indent_level": 0,
+          "line_number": 85,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "[ ] Applications validated?",
+          "indent_level": 0,
+          "line_number": 86,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "[ ] Sources still relevant?",
+          "indent_level": 0,
+          "line_number": 88,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "[ ] Maturity level appropriate?",
+          "indent_level": 0,
+          "line_number": 88,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Provide corrected DQL version first",
+          "indent_level": 0,
+          "line_number": 104,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Show DataviewJS alternatives with enhanced features",
+          "indent_level": 0,
+          "line_number": 104,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Include Meta Bind integration possibilities",
+          "indent_level": 0,
+          "line_number": 108,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Add visualization options with Charts plugin",
+          "indent_level": 0,
+          "line_number": 111,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Ensure all code is production-ready with error handling",
+          "indent_level": 0,
+          "line_number": 113,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "Settings → Dataview → \"Enable JavaScript Queries\"",
+          "indent_level": 1,
+          "line_number": 353,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Connection*: All queries above can be performance-tuned further",
+          "indent_level": 1,
+          "line_number": 405,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Depth Potential*: Indexing strategies, caching patterns, lazy loading",
+          "indent_level": 1,
+          "line_number": 408,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Technical foundation for all database-like operations",
+          "indent_level": 1,
+          "line_number": 409,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Connection*: Versions 3 & 5 show basic integration possibilities",
+          "indent_level": 1,
+          "line_number": 414,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Depth Potential*: Button actions, input fields, reactive view fields",
+          "indent_level": 1,
+          "line_number": 416,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: User interface layer of PKM automation",
+          "indent_level": 1,
+          "line_number": 418,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Connection*: Version 4 demonstrates chart generation",
+          "indent_level": 1,
+          "line_number": 422,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Depth Potential*: Advanced chart types, timeline views, network graphs",
+          "indent_level": 1,
+          "line_number": 424,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Visual analytics for knowledge base insights",
+          "indent_level": 1,
+          "line_number": 426,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Connection*: All queries track creation time, some add modification tracking",
+          "indent_level": 1,
+          "line_number": 429,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Depth Potential*: Review schedules, content lifecycle, knowledge maturity progression",
+          "indent_level": 1,
+          "line_number": 431,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Time-based organization complements topic-based structure",
+          "indent_level": 1,
+          "line_number": 432,
+          "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{date} (",
+        "format": "inline",
+        "line_number": 255,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "expression": "{currentLimit} of",
+        "format": "inline",
+        "line_number": 336,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "expression": "{dateCounts[item.date]}",
+        "format": "inline",
+        "line_number": 394,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "expression": "{chartLabels.map(l => `\"",
+        "format": "inline",
+        "line_number": 409,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "expression": "{allPages.length} notes | **Page**:",
+        "format": "inline",
+        "line_number": 446,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "expression": "{modified}",
+        "format": "inline",
+        "line_number": 472,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      },
+      {
+        "expression": "{p.file.link} —",
+        "format": "inline",
+        "line_number": 559,
+        "source": "reference-technical-dataview-advanced-report-quiries-2025120204.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Dataview Query Fix & Enhanced Versions",
+      "Dataview Query Optimization",
+      "Meta Bind Interactive Dashboards",
+      "Obsidian Charts and Visualization",
+      "Temporal Data Modeling in PKM"
+    ],
+    "unique_wiki_link_count": 5,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Dataview Query Fix & Enhanced Versions",
+      "Dataview Query Optimization",
+      "Meta Bind Interactive Dashboards",
+      "Obsidian Charts and Visualization",
+      "Temporal Data Modeling in PKM"
+    ]
+  }
+}

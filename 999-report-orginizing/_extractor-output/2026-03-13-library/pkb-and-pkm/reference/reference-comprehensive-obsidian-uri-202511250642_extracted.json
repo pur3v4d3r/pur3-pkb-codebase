@@ -1,0 +1,3015 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.468313",
+    "source_file": "reference-comprehensive-obsidian-uri-202511250642.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-comprehensive-obsidian-uri-202511250642.md",
+    "source_file_size_bytes": 32379,
+    "processing_time_seconds": 0.01
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Obsidian URI",
+        "URI Guide"
+      ],
+      "tags": [
+        "type/permanent",
+        "year/2025",
+        "type/guide",
+        "status/not-read",
+        "obsidian",
+        "building-second-brain",
+        "knowledge-work/learning",
+        "self-improvement/productivity",
+        "encoding",
+        "analogical-reasoning"
+      ],
+      "source": "claude-opus-4.1",
+      "id": "20251125064501",
+      "created": "2025-11-25T06:45:01",
+      "modified": "2025-11-25T06:45:01",
+      "week": "[[2025-W48]]",
+      "month": "[[2025-11]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "maturity": "needs-review",
+      "confidence": "speculative",
+      "next-review": "2025-12-02",
+      "review-count": "0",
+      "link-count": "0",
+      "backlink-count": "0",
+      "link-up": [
+        "[[pkb-&-pkm-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-25|Daily-Note]]"
+      ]
+    },
+    "word_count": 4080,
+    "character_count": 31550,
+    "line_count": 790,
+    "heading_count": 73
+  },
+  "extraction_summary": {
+    "total_items_extracted": 245,
+    "by_type": {
+      "headings": 73,
+      "callouts": 29,
+      "wiki_links": 52,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 6,
+      "code_blocks": 30,
+      "tables": 8,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 1,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 26,
+      "lists_unordered": 19,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 1
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Obsidian URI",
+      "anchor": "obsidian-uri",
+      "line_number": 37,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📊 Note Metadata Dashboard",
+          "anchor": "note-metadata-dashboard",
+          "line_number": 44,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "📑 Table of Contents",
+      "anchor": "table-of-contents",
+      "line_number": 142,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🎯 1. Core Concepts & Foundational Understanding",
+      "anchor": "1-core-concepts-foundational-understanding",
+      "line_number": 155,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "1.1 What is Obsidian URI?",
+          "anchor": "11-what-is-obsidian-uri",
+          "line_number": 157,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The URI Anatomy",
+              "anchor": "the-uri-anatomy",
+              "line_number": 169,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Why URIs Matter for Knowledge Work",
+              "anchor": "why-uris-matter-for-knowledge-work",
+              "line_number": 188,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔧 2. Native Obsidian URI Actions",
+      "anchor": "2-native-obsidian-uri-actions",
+      "line_number": 199,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "2.1 The `open` Action",
+          "anchor": "21-the-open-action",
+          "line_number": 201,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Basic Syntax",
+              "anchor": "basic-syntax",
+              "line_number": 207,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Parameters Reference",
+              "anchor": "parameters-reference",
+              "line_number": 213,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Practical Examples",
+              "anchor": "practical-examples",
+              "line_number": 223,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "2.2 The `new` Action",
+          "anchor": "22-the-new-action",
+          "line_number": 253,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Basic Syntax",
+              "anchor": "basic-syntax",
+              "line_number": 259,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Parameters Reference",
+              "anchor": "parameters-reference",
+              "line_number": 265,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Practical Examples",
+              "anchor": "practical-examples",
+              "line_number": 278,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "2.3 The `search` Action",
+          "anchor": "23-the-search-action",
+          "line_number": 301,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Basic Syntax",
+              "anchor": "basic-syntax",
+              "line_number": 307,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Practical Examples",
+              "anchor": "practical-examples",
+              "line_number": 313,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "2.4 The `daily` Action",
+          "anchor": "24-the-daily-action",
+          "line_number": 327,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Basic Syntax",
+              "anchor": "basic-syntax",
+              "line_number": 333,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "2.5 The `hook-get-address` Action",
+          "anchor": "25-the-hook-get-address-action",
+          "line_number": 345,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Basic Syntax",
+              "anchor": "basic-syntax",
+              "line_number": 351,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "⚡ 3. Advanced URI Plugin - Extended Capabilities",
+      "anchor": "3-advanced-uri-plugin-extended-capabilities",
+      "line_number": 361,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "3.1 Installation & Configuration",
+          "anchor": "31-installation-configuration",
+          "line_number": 367,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "3.2 Extended Action Categories",
+          "anchor": "32-extended-action-categories",
+          "line_number": 374,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Navigation Actions",
+              "anchor": "navigation-actions",
+              "line_number": 376,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Writing Actions",
+              "anchor": "writing-actions",
+              "line_number": 393,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Command Execution",
+              "anchor": "command-execution",
+              "line_number": 416,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Frontmatter Manipulation",
+              "anchor": "frontmatter-manipulation",
+              "line_number": 439,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Search and Replace",
+              "anchor": "search-and-replace",
+              "line_number": 449,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 4. Actions URI Plugin - X-Callback Integration",
+      "anchor": "4-actions-uri-plugin-x-callback-integration",
+      "line_number": 457,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "4.1 X-Callback-URL Explained",
+          "anchor": "41-x-callback-url-explained",
+          "line_number": 463,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "4.2 Actions URI Routes",
+          "anchor": "42-actions-uri-routes",
+          "line_number": 472,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🖥️ 5. Windows Integration & PowerShell Automation",
+      "anchor": "5-windows-integration-powershell-automation",
+      "line_number": 484,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "5.1 Launching URIs from PowerShell",
+          "anchor": "51-launching-uris-from-powershell",
+          "line_number": 486,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "5.2 Windows Task Scheduler Integration",
+          "anchor": "52-windows-task-scheduler-integration",
+          "line_number": 502,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "5.3 Desktop Shortcuts",
+          "anchor": "53-desktop-shortcuts",
+          "line_number": 532,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "5.4 AutoHotkey Integration",
+          "anchor": "54-autohotkey-integration",
+          "line_number": 540,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🧠 6. Cognitive Science Applications",
+      "anchor": "6-cognitive-science-applications",
+      "line_number": 558,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "6.1 Aligning with Working Memory Constraints",
+          "anchor": "61-aligning-with-working-memory-constraints",
+          "line_number": 565,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "6.2 Leveraging Environmental Triggers",
+          "anchor": "62-leveraging-environmental-triggers",
+          "line_number": 582,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "6.3 Supporting Spaced Repetition Workflows",
+          "anchor": "63-supporting-spaced-repetition-workflows",
+          "line_number": 593,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "6.4 Metacognitive Scaffolding",
+          "anchor": "64-metacognitive-scaffolding",
+          "line_number": 606,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "6.5 Reducing Decision Fatigue",
+          "anchor": "65-reducing-decision-fatigue",
+          "line_number": 619,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔄 7. Integration Patterns with Existing Plugins",
+      "anchor": "7-integration-patterns-with-existing-plugins",
+      "line_number": 632,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "7.1 QuickAdd Integration",
+          "anchor": "71-quickadd-integration",
+          "line_number": 634,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "7.2 Templater Integration",
+          "anchor": "72-templater-integration",
+          "line_number": 656,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "7.3 Dataview Query Triggering",
+          "anchor": "73-dataview-query-triggering",
+          "line_number": 666,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "7.4 Tasks Plugin Integration",
+          "anchor": "74-tasks-plugin-integration",
+          "line_number": 670,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "7.5 Shell Commands Plugin",
+          "anchor": "75-shell-commands-plugin",
+          "line_number": 677,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🚀 8. Implementation Roadmap for Your PKB",
+      "anchor": "8-implementation-roadmap-for-your-pkb",
+      "line_number": 685,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase 1: Foundation Layer (Week 1-2)",
+          "anchor": "phase-1-foundation-layer-week-1-2",
+          "line_number": 692,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Priority 1: Install Advanced URI Plugin",
+              "anchor": "priority-1-install-advanced-uri-plugin",
+              "line_number": 694,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Priority 2: Create Essential Desktop Shortcuts",
+              "anchor": "priority-2-create-essential-desktop-shortcuts",
+              "line_number": 698,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Priority 3: Build First PowerShell Script",
+              "anchor": "priority-3-build-first-powershell-script",
+              "line_number": 703,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "MorningRoutine.ps1",
+      "anchor": "morningroutineps1",
+      "line_number": 706,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Open daily note",
+      "anchor": "open-daily-note",
+      "line_number": 709,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Wait for Obsidian to load",
+      "anchor": "wait-for-obsidian-to-load",
+      "line_number": 712,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Open weekly goals MOC",
+      "anchor": "open-weekly-goals-moc",
+      "line_number": 715,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase 2: Capture Optimization (Week 3-4)",
+          "anchor": "phase-2-capture-optimization-week-3-4",
+          "line_number": 719,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Priority 4: System-Wide Capture Hotkey",
+              "anchor": "priority-4-system-wide-capture-hotkey",
+              "line_number": 721,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Priority 5: Browser Integration",
+              "anchor": "priority-5-browser-integration",
+              "line_number": 724,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Priority 6: Scheduled Task Setup",
+              "anchor": "priority-6-scheduled-task-setup",
+              "line_number": 727,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase 3: Advanced Patterns (Week 5+)",
+          "anchor": "phase-3-advanced-patterns-week-5",
+          "line_number": 733,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Priority 7: Spaced Repetition Integration",
+              "anchor": "priority-7-spaced-repetition-integration",
+              "line_number": 735,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Priority 8: Self-Regulated Learning Scaffolds",
+              "anchor": "priority-8-self-regulated-learning-scaffolds",
+              "line_number": 738,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Priority 9: External Tool Integration",
+              "anchor": "priority-9-external-tool-integration",
+              "line_number": 741,
+              "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "📊 Quick Reference Tables",
+      "anchor": "quick-reference-tables",
+      "line_number": 746,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📊 Metadata & Attribution",
+          "anchor": "metadata-attribution",
+          "line_number": 771,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔄 Version History",
+          "anchor": "version-history",
+          "line_number": 780,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 788,
+      "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🏷️ Tags & Classification",
+          "anchor": "tags-classification",
+          "line_number": 818,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "- **Key-Term**:: [[Obsidian URI]]\n- **Definition**:: <% tp.file.cursor(1) %>\n- **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`",
+        "line_number": 39,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 716,
+        "char_end": 884
+      },
+      {
+        "type": "",
+        "title": "### Claude Thinking",
+        "body": "Let me analyze this request carefully.\n**Request Classification:**\n- Type: comprehensive_note (reference documentation)\n- Scope: reference (exhaustive coverage needed)\n- Research Required: YES - Obsidian URI is a technical feature that may have evolved, and I need to ensure current best practices and full capabilities are covered\n**User Context from Memory:**\n- Building sophisticated PKB in Obsidian with Zettelkasten methodology\n- Has RTX 4090, i9-14000K, 32GB RAM - high-performance setup\n- Uses plugins: Dataview, Templater, QuickAdd, Meta Bind, Tasks, Day Planner, etc.\n- Goal: Become expert lifelong learner with cognitive science-informed PKB\n- Currently in Phase 1-2 of strategic roadmap (foundation/meta-learning)\n- Vault at D:\\10_pur3v4d3r's-vault with numbered folder system\n**Structural Planning:**\nThis needs to be a comprehensive reference note on Obsidian URI covering:\n1. What Obsidian URI is (fundamentals)\n2. URI scheme syntax and structure\n3. All available actions/commands\n4. Practical applications for PKB workflows\n5. Integration with user's existing tools (QuickAdd, Templater, etc.)\n6. Cognitive science applications (their specific interest)\n7. Advanced automation possibilities\n8. Cross-application integration\n**Wiki-Link Opportunities:**\n- [[obsidian]]\n- [[URI Scheme]]\n- [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]\n- [[Zettelkasten]]\n- [[quickadd]]\n- [[Templater]]\n- [[dataview]]\n- [[Cognitive Load Theory]]\n- [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]\n- [[Active Recall]]\n- [[Metacognition]]\n- [[Self-Regulated Learning]]\n- [[Automation]]\n- [[Deep Linking]]\n- [[Cross-Application Integration]]\n- [[Workflow Optimization]]\n**Callout Strategy:**\n- [!definition] for URI scheme basics\n- [!methodology-and-sources] for implementation approaches\n- [!example] for concrete use cases\n- [!key-claim] for important insights\n- [!helpful-tip] for practical guidance\n- [!warning] for limitations\n- [!analogy] for cognitive science connections\n- [!use-cases-and-examples] for applications\n**Metadata Planning:**\nTags: #obsidian #uri-scheme #automation #pkm #reference-note #workflow-optimization\nAliases: [Obsidian URL Scheme, Obsidian Deep Links, obsidian:// Protocol, Obsidian URI Actions]\nNow I need to conduct research to ensure I have current and complete information about Obsidian URI capabilities.\nLet me search for:\n1. Obsidian URI scheme documentation and syntax\n2. All available Obsidian URI actions\n3. Advanced Obsidian URI automation examples\n4. Obsidian URI integration with external tools\n5. Recent updates or new features in Obsidian URI\nAfter research, I'll construct the comprehensive reference note.\nI'll create a comprehensive reference note on Obsidian URI for you. This is a powerful feature that indeed opens significant possibilities for your PKB architecture. Let me conduct thorough research first.Now let me search for cognitive science applications and final integration patterns.I now have comprehensive research. Let me create the exhaustive reference note.",
+        "line_number": 55,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 1164,
+        "char_end": 4398
+      },
+      {
+        "type": "comprehensive-reference",
+        "title": "📚Comprehensive-Reference",
+        "body": "- **Generated**: 2025-11-25\n- **Version**: 1.0\n- **Type**: Reference Documentation (Technical Feature + Cognitive Architecture Integration)\n- **Scope**: Complete analysis of Obsidian URI system, native and plugin-extended capabilities, and strategic integration for cognitive science-informed PKB architecture",
+        "line_number": 126,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 4683,
+        "char_end": 5055
+      },
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "**Executive Overview**\n[[Obsidian URI]] is a custom [[URI Scheme]] (`obsidian://`) that transforms your PKB from a passive repository into an **active, programmable cognitive interface**. This protocol enables external applications, scripts, and automation tools to trigger actions within Obsidian—opening notes, creating content, executing searches, and invoking commands—without requiring manual interaction. For a cognitively-optimized knowledge system, URI integration represents the architectural bridge between your **[[Working Memory]]** constraints and **externalized cognition infrastructure**, enabling friction-free capture, retrieval, and synthesis workflows that align with how human memory and attention actually function.",
+        "line_number": 132,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 5056,
+        "char_end": 5811
+      },
+      {
+        "type": "how-to-use-this",
+        "title": "Untitled",
+        "body": "**Navigation Guide**\nThis reference note is organized into 8 major sections covering all aspects of Obsidian URI from foundational concepts through cognitive science applications. Use the table of contents for quick navigation. Key implementation patterns are provided with Windows-specific [[PowerShell]] examples given your system configuration. Plugin recommendations (especially [[Advanced URI]]) extend native capabilities substantially.",
+        "line_number": 136,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 5812,
+        "char_end": 6280
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "- **Key-Term**: [[URI Scheme]]\n- **Definition**: A [[Uniform Resource Identifier]] scheme is a standardized syntax for identifying resources and triggering actions. The `obsidian://` protocol is a **custom URI scheme** registered by Obsidian on your operating system, allowing any application capable of opening URLs to communicate with your vault.",
+        "line_number": 159,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 6814,
+        "char_end": 7183
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Central Principle**\nURI schemes represent the **lowest-friction automation primitive** available in modern operating systems. Unlike APIs requiring programming knowledge or plugins requiring Obsidian to be actively used, URIs can be triggered from *any* context—browser bookmarks, desktop shortcuts, scheduled tasks, email links, other applications, or voice assistants. This universality makes them the ideal foundation for a cognitively-optimized capture and retrieval system.",
+        "line_number": 165,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 7524,
+        "char_end": 8024
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Critical Encoding Requirement**\nURI parameters **must be URL-encoded**. Special characters like spaces, slashes, and apostrophes will break the URI if not properly encoded. Your vault name `10_pur3v4d3r's-vault` would become `10_pur3v4d3r%27s-vault` in a URI. Online tools like urlencoder.org or PowerShell's `[System.Uri]::EscapeDataString()` handle this automatically.",
+        "line_number": 184,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 8551,
+        "char_end": 8941
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "- **Key-Term**: `open` action\n- **Definition**: Opens a vault, or opens a specific file within a vault. The most fundamental URI action, serving as the foundation for navigation and retrieval workflows.",
+        "line_number": 203,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 9678,
+        "char_end": 9901
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Shorthand Formats**\nObsidian supports abbreviated URI formats for convenience:\n- `obsidian://vault/my-vault/my-note` → equivalent to `obsidian://open?vault=my-vault&file=my-note`\n- `obsidian:///D:/path/to/note.md` → opens using absolute path",
+        "line_number": 245,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 10913,
+        "char_end": 11182
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "- **Key-Term**:: `new` action\n- **Definition**:: Creates a new note in the vault, optionally with specified content, name, and location. Essential for external capture workflows.",
+        "line_number": 255,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 11213,
+        "char_end": 11412
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Capture Workflow Pattern**\n\nFor [[Quick Capture]] workflows, the `new` action enables you to:\n1. Create desktop shortcuts that instantly open capture forms\n2. Build browser bookmarklets that save current page to inbox\n3. Design [[Keyboard Maestro]] or [[AutoHotkey]] macros for system-wide capture\n4. Schedule periodic review prompts via Windows Task Scheduler",
+        "line_number": 290,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 12417,
+        "char_end": 12823
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "- **Key-Term**:: `search` action\n- **Definition**:: Opens the search pane and optionally executes a search query. Enables programmatic retrieval based on contextual needs.",
+        "line_number": 303,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 12857,
+        "char_end": 13049
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "- **Key-Term**:: `daily` action\n- **Definition**:: Creates or opens today's daily note. Requires the Daily Notes core plugin to be enabled.",
+        "line_number": 329,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 13411,
+        "char_end": 13571
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "**Cognitive Significance**\nThe `daily` action is deceptively powerful. Daily notes serve as the **[[Working Memory]] interface** of your PKB—the temporal staging ground where raw cognition meets structured knowledge. A single-click desktop shortcut to `obsidian://daily` creates an environmental trigger that reinforces the habit of externalizing thought, aligning with [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] research showing that regular engagement intervals optimize retention.",
+        "line_number": 339,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 13630,
+        "char_end": 14163
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "- **Key-Term**:: `hook-get-address`\n- **Definition**:: Special action for integration with [[Hook]] (macOS linking utility). Returns a Markdown link to the currently focused note, enabling bidirectional linking between Obsidian and external files.",
+        "line_number": 347,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 14207,
+        "char_end": 14475
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**Game-Changing Extension**\nThe [[Advanced URI]] plugin allows you to control many different features in Obsidian just by opening URIs. Because they are just text and don't require any mouse clicks or keyboard inputs, they are perfect to automate your Obsidian workflow. This community plugin dramatically expands what's possible with URI-based automation.",
+        "line_number": 363,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 14738,
+        "char_end": 15114
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Real-World Application: Clipboard Capture**\n\n**Scenario**: You're reading a web article and want to save a quote to today's daily note without context-switching.\n\n**Solution**: Create a Windows shortcut that:\n1. Copies selected text to clipboard (manual step)\n2. Triggers: `obsidian://adv-uri?vault=10_pur3v4d3r's-vault&daily=true&clipboard=true&mode=append`\n\n**Result**: Quote appears in daily note with zero navigation friction.",
+        "line_number": 405,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 16879,
+        "char_end": 17355
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Plugin Command Integration**\nMany plugins expose their functionality as commands. This means you can trigger [[Templater]] templates, [[quickadd]] macros, [[dataview]] refreshes, and more via URI. The `commandid` format is typically `plugin-id:command-name`.",
+        "line_number": 435,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 17885,
+        "char_end": 18167
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "- **Key-Term**:: [[Actions URI]]\n- **Definition**:: A community plugin that adds new [[X-Callback-URL]] endpoints to Obsidian so that external sources can better interact with an Obsidian instance. All new routes support `x-success` and `x-error` parameters as a way of communicating back to the sender.",
+        "line_number": 459,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 18609,
+        "char_end": 18933
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Scheduled Daily Review Workflow**\n\n**Goal**: Every morning at 8:00 AM, automatically open your daily note and weekly goals MOC.\n\n**Implementation Steps:**\n\n1. **Create PowerShell Script** (`C:\\Scripts\\ObsidianMorningRoutine.ps1`):\n```powershell\n# Open daily note\nStart-Process \"obsidian://adv-uri?vault=10_pur3v4d3r's-vault&daily=true\"\nStart-Sleep -Seconds 2\n# Open weekly goals in split pane\nStart-Process \"obsidian://adv-uri?vault=10_pur3v4d3r's-vault&filepath=weekly-goals&openmode=split\"\n```\n\n2. **Create Scheduled Task**:\n   - Open Task Scheduler (`taskschd.msc`)\n   - Create Task → Name: \"PKB Morning Routine\"\n   - Trigger: Daily at 8:00 AM\n   - Action: Start Program\n     - Program: `powershell.exe`\n     - Arguments: `-NoProfile -ExecutionPolicy Bypass -File \"C:\\Scripts\\ObsidianMorningRoutine.ps1\"`\n\n3. **Test**: Right-click task → Run",
+        "line_number": 506,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 20834,
+        "char_end": 21753
+      },
+      {
+        "type": "the-philosophy",
+        "title": "Untitled",
+        "body": "**Underlying Philosophy**\n\nThe true power of Obsidian URI isn't technical—it's **cognitive architectural**. Every URI-based workflow you implement is an investment in reducing the [[Extraneous Cognitive Load]] that separates you from actual thinking. The goal is to make your PKB an extension of your mind rather than a tool you have to consciously operate.",
+        "line_number": 560,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 22401,
+        "char_end": 22785
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Cognitive Friction Problem**\n\nImagine your [[Working Memory]] as a small desk with limited surface area (typically 4±1 items). Every time you need to capture a thought, you must:\n\n1. Clear mental space to remember the capture intention\n2. Context-switch to Obsidian (losing current train of thought)\n3. Navigate to correct location (consuming attention)\n4. Format the note properly (executive function overhead)\n5. Return to original task (re-loading mental context)\n\n**Each step occupies desk space.**\n\nURI automation collapses this to: **Hotkey → Done**. Your desk stays clear for actual cognition.",
+        "line_number": 567,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 22835,
+        "char_end": 23478
+      },
+      {
+        "type": "thought-experiment",
+        "title": "Untitled",
+        "body": "**Designing for Self-Regulated Learning**\n\nImagine building a \"Metacognitive Dashboard\" that automatically appears during your scheduled learning sessions. Using URI + Task Scheduler:\n\n1. **Forethought Phase** (session start): URI opens planning template with prompts\n2. **Performance Phase** (during session): Hotkeys enable rapid atomic note capture\n3. **Reflection Phase** (session end): Scheduled URI opens reflection template\n\nThis externalizes the [[Self-Regulated Learning]] cycle, reducing the metacognitive burden of remembering to plan, monitor, and reflect.",
+        "line_number": 608,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 24704,
+        "char_end": 25312
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Browser Bookmarklet for QuickAdd**\n\nCreate a browser bookmarklet that captures the current page to your PKB:\n\n```javascript\njavascript:(function(){\n  var title = encodeURIComponent(document.title);\n  var url = encodeURIComponent(window.location.href);\n  window.location = 'obsidian://quickadd?choice=Web%20Capture&value-title=' + title + '&value-url=' + url;\n})();\n```",
+        "line_number": 643,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 26178,
+        "char_end": 26597
+      },
+      {
+        "type": "the-mission",
+        "title": "Untitled",
+        "body": "**Strategic Implementation Plan**\n\nGiven your current Phase 1-2 focus (Foundation + Meta-Learning) and your goal of becoming an expert lifelong learner with cognitively-optimized systems, here's a prioritized implementation sequence.",
+        "line_number": 687,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 27739,
+        "char_end": 27995
+      },
+      {
+        "type": "quick-reference",
+        "title": "Untitled",
+        "body": "**Native Actions Summary**\n\n| Action | Purpose | Key Parameters |\n|--------|---------|----------------|\n| `open` | Navigate to vault/note | `vault`, `file`, `path` |\n| `new` | Create note | `vault`, `name`, `content`, `silent` |\n| `search` | Execute search | `vault`, `query` |\n| `daily` | Open daily note | `vault` |",
+        "line_number": 748,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 29560,
+        "char_end": 29914
+      },
+      {
+        "type": "quick-reference",
+        "title": "Untitled",
+        "body": "**Advanced URI Modes**\n\n| Mode | Behavior |\n|------|----------|\n| (none) | Write only if file doesn't exist |\n| `mode=overwrite` | Replace entire file |\n| `mode=append` | Add to end |\n| `mode=prepend` | Add to beginning |\n| `mode=new` | Force create (increment name if exists) |",
+        "line_number": 758,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 29915,
+        "char_end": 30232
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Research Methodology**\n- Primary Sources: Obsidian Help Documentation, Advanced URI Plugin Documentation, Actions URI Documentation\n- Research Queries: Obsidian URI syntax, Advanced URI parameters, Windows PowerShell automation, x-callback-url specification, cognitive load theory applications\n- Synthesis Approach: Technical documentation analysis combined with cognitive science framework application\n- Confidence Level: 🟢 HIGH for technical implementation details, 🟢 HIGH for cognitive science applications based on established research",
+        "line_number": 773,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md",
+        "char_start": 30267,
+        "char_end": 30848
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Obsidian URI",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian URI]]",
+        "line_number": 40,
+        "section": "Obsidian URI",
+        "context_line": "> - **Key-Term**:: [[Obsidian URI]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[obsidian]]",
+        "line_number": 79,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[obsidian]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "URI Scheme",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[URI Scheme]]",
+        "line_number": 80,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[URI Scheme]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]",
+        "line_number": 81,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 82,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[Zettelkasten]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "quickadd",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[quickadd]]",
+        "line_number": 83,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[quickadd]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 84,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[Templater]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[dataview]]",
+        "line_number": 85,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[dataview]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 86,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[Cognitive Load Theory]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+        "line_number": 87,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Active Recall",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Active Recall]]",
+        "line_number": 88,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[Active Recall]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 89,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[Metacognition]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated Learning]]",
+        "line_number": 90,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[Self-Regulated Learning]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Automation]]",
+        "line_number": 91,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[Automation]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Deep Linking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deep Linking]]",
+        "line_number": 92,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[Deep Linking]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Cross-Application Integration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cross-Application Integration]]",
+        "line_number": 93,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[Cross-Application Integration]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Workflow Optimization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Workflow Optimization]]",
+        "line_number": 94,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> - [[Workflow Optimization]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Obsidian URI",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian URI]]",
+        "line_number": 134,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> [[Obsidian URI]] is a custom [[URI Scheme]] (`obsidian://`) that transforms your PKB from a passive repository into an **active, programmable cognitive interface**. This protocol enables external applications, scripts, and automation tools to trigger actions within Obsidian—opening notes, creating content, executing searches, and invoking commands—without requiring manual interaction. For a cognitively-optimized knowledge system, URI integration represents the architectural bridge between your **[[Working Memory]]** constraints and **externalized cognition infrastructure**, enabling friction-free capture, retrieval, and synthesis workflows that align with how human memory and attention actually function.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "URI Scheme",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[URI Scheme]]",
+        "line_number": 134,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> [[Obsidian URI]] is a custom [[URI Scheme]] (`obsidian://`) that transforms your PKB from a passive repository into an **active, programmable cognitive interface**. This protocol enables external applications, scripts, and automation tools to trigger actions within Obsidian—opening notes, creating content, executing searches, and invoking commands—without requiring manual interaction. For a cognitively-optimized knowledge system, URI integration represents the architectural bridge between your **[[Working Memory]]** constraints and **externalized cognition infrastructure**, enabling friction-free capture, retrieval, and synthesis workflows that align with how human memory and attention actually function.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Working Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working Memory]]",
+        "line_number": 134,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> [[Obsidian URI]] is a custom [[URI Scheme]] (`obsidian://`) that transforms your PKB from a passive repository into an **active, programmable cognitive interface**. This protocol enables external applications, scripts, and automation tools to trigger actions within Obsidian—opening notes, creating content, executing searches, and invoking commands—without requiring manual interaction. For a cognitively-optimized knowledge system, URI integration represents the architectural bridge between your **[[Working Memory]]** constraints and **externalized cognition infrastructure**, enabling friction-free capture, retrieval, and synthesis workflows that align with how human memory and attention actually function.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "PowerShell",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PowerShell]]",
+        "line_number": 138,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> This reference note is organized into 8 major sections covering all aspects of Obsidian URI from foundational concepts through cognitive science applications. Use the table of contents for quick navigation. Key implementation patterns are provided with Windows-specific [[PowerShell]] examples given your system configuration. Plugin recommendations (especially [[Advanced URI]]) extend native capabilities substantially.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Advanced URI",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Advanced URI]]",
+        "line_number": 138,
+        "section": "📊 Note Metadata Dashboard",
+        "context_line": "> This reference note is organized into 8 major sections covering all aspects of Obsidian URI from foundational concepts through cognitive science applications. Use the table of contents for quick navigation. Key implementation patterns are provided with Windows-specific [[PowerShell]] examples given your system configuration. Plugin recommendations (especially [[Advanced URI]]) extend native capabilities substantially.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "URI Scheme",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[URI Scheme]]",
+        "line_number": 160,
+        "section": "1.1 What is Obsidian URI?",
+        "context_line": "> - **Key-Term**: [[URI Scheme]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Uniform Resource Identifier",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Uniform Resource Identifier]]",
+        "line_number": 161,
+        "section": "1.1 What is Obsidian URI?",
+        "context_line": "> - **Definition**: A [[Uniform Resource Identifier]] scheme is a standardized syntax for identifying resources and triggering actions. The `obsidian://` protocol is a **custom URI scheme** registered by Obsidian on your operating system, allowing any application capable of opening URLs to communicate with your vault.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 190,
+        "section": "Why URIs Matter for Knowledge Work",
+        "context_line": "The cognitive significance of URI-based automation lies in [[Cognitive Load Theory]]:",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Working Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working Memory]]",
+        "line_number": 192,
+        "section": "Why URIs Matter for Knowledge Work",
+        "context_line": "1. **Reduced Extraneous Load**: Every manual step (open Obsidian → navigate folder → create note → format metadata) consumes [[Working Memory]] capacity that should be reserved for thinking",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Quick Capture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Quick Capture]]",
+        "line_number": 293,
+        "section": "Practical Examples",
+        "context_line": "> For [[Quick Capture]] workflows, the `new` action enables you to:",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Keyboard Maestro",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Keyboard Maestro]]",
+        "line_number": 296,
+        "section": "Practical Examples",
+        "context_line": "> 3. Design [[Keyboard Maestro]] or [[AutoHotkey]] macros for system-wide capture",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "AutoHotkey",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[AutoHotkey]]",
+        "line_number": 296,
+        "section": "Practical Examples",
+        "context_line": "> 3. Design [[Keyboard Maestro]] or [[AutoHotkey]] macros for system-wide capture",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Working Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working Memory]]",
+        "line_number": 341,
+        "section": "Basic Syntax",
+        "context_line": "> The `daily` action is deceptively powerful. Daily notes serve as the **[[Working Memory]] interface** of your PKB—the temporal staging ground where raw cognition meets structured knowledge. A single-click desktop shortcut to `obsidian://daily` creates an environmental trigger that reinforces the habit of externalizing thought, aligning with [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] research showing that regular engagement intervals optimize retention.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+        "line_number": 341,
+        "section": "Basic Syntax",
+        "context_line": "> The `daily` action is deceptively powerful. Daily notes serve as the **[[Working Memory]] interface** of your PKB—the temporal staging ground where raw cognition meets structured knowledge. A single-click desktop shortcut to `obsidian://daily` creates an environmental trigger that reinforces the habit of externalizing thought, aligning with [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] research showing that regular engagement intervals optimize retention.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Hook",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Hook]]",
+        "line_number": 349,
+        "section": "2.5 The `hook-get-address` Action",
+        "context_line": "> - **Definition**:: Special action for integration with [[Hook]] (macOS linking utility). Returns a Markdown link to the currently focused note, enabling bidirectional linking between Obsidian and external files.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "X-Callback-URL",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[X-Callback-URL]]",
+        "line_number": 357,
+        "section": "Basic Syntax",
+        "context_line": "This action supports [[X-Callback-URL]] parameters (`x-success`, `x-error`) for bidirectional communication with calling applications.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Advanced URI",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Advanced URI]]",
+        "line_number": 365,
+        "section": "⚡ 3. Advanced URI Plugin - Extended Capabilities",
+        "context_line": "> The [[Advanced URI]] plugin allows you to control many different features in Obsidian just by opening URIs. Because they are just text and don't require any mouse clicks or keyboard inputs, they are perfect to automate your Obsidian workflow. This community plugin dramatically expands what's possible with URI-based automation.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 437,
+        "section": "Command Execution",
+        "context_line": "> Many plugins expose their functionality as commands. This means you can trigger [[Templater]] templates, [[quickadd]] macros, [[dataview]] refreshes, and more via URI. The `commandid` format is typically `plugin-id:command-name`.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "quickadd",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[quickadd]]",
+        "line_number": 437,
+        "section": "Command Execution",
+        "context_line": "> Many plugins expose their functionality as commands. This means you can trigger [[Templater]] templates, [[quickadd]] macros, [[dataview]] refreshes, and more via URI. The `commandid` format is typically `plugin-id:command-name`.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[dataview]]",
+        "line_number": 437,
+        "section": "Command Execution",
+        "context_line": "> Many plugins expose their functionality as commands. This means you can trigger [[Templater]] templates, [[quickadd]] macros, [[dataview]] refreshes, and more via URI. The `commandid` format is typically `plugin-id:command-name`.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "YAML Frontmatter",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[YAML Frontmatter]]",
+        "line_number": 441,
+        "section": "Frontmatter Manipulation",
+        "context_line": "Advanced URI can read and edit [[YAML Frontmatter]] properties:",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "GTD",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[GTD]]",
+        "line_number": 447,
+        "section": "Frontmatter Manipulation",
+        "context_line": "This enables programmatic metadata updates—crucial for [[GTD]]-style workflow states.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Actions URI",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Actions URI]]",
+        "line_number": 460,
+        "section": "🔗 4. Actions URI Plugin - X-Callback Integration",
+        "context_line": "> - **Key-Term**:: [[Actions URI]]",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "X-Callback-URL",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[X-Callback-URL]]",
+        "line_number": 461,
+        "section": "🔗 4. Actions URI Plugin - X-Callback Integration",
+        "context_line": "> - **Definition**:: A community plugin that adds new [[X-Callback-URL]] endpoints to Obsidian so that external sources can better interact with an Obsidian instance. All new routes support `x-success` and `x-error` parameters as a way of communicating back to the sender.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Extraneous Cognitive Load",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Extraneous Cognitive Load]]",
+        "line_number": 563,
+        "section": "🧠 6. Cognitive Science Applications",
+        "context_line": "> The true power of Obsidian URI isn't technical—it's **cognitive architectural**. Every URI-based workflow you implement is an investment in reducing the [[Extraneous Cognitive Load]] that separates you from actual thinking. The goal is to make your PKB an extension of your mind rather than a tool you have to consciously operate.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Working Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working Memory]]",
+        "line_number": 570,
+        "section": "6.1 Aligning with Working Memory Constraints",
+        "context_line": "> Imagine your [[Working Memory]] as a small desk with limited surface area (typically 4±1 items). Every time you need to capture a thought, you must:",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Behavioral Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Behavioral Psychology]]",
+        "line_number": 584,
+        "section": "6.2 Leveraging Environmental Triggers",
+        "context_line": "[[Behavioral Psychology]] research demonstrates that environmental cues are more effective than willpower for habit formation. URI-based automation creates these cues:",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated Learning]]",
+        "line_number": 617,
+        "section": "6.4 Metacognitive Scaffolding",
+        "context_line": "> This externalizes the [[Self-Regulated Learning]] cycle, reducing the metacognitive burden of remembering to plan, monitor, and reflect.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Executive Function",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Executive Function]]",
+        "line_number": 621,
+        "section": "6.5 Reducing Decision Fatigue",
+        "context_line": "Every \"where should I save this?\" decision consumes [[Executive Function]] resources. URI automation with predefined destinations eliminates these micro-decisions:",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "quickadd",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[quickadd]]",
+        "line_number": 636,
+        "section": "7.1 QuickAdd Integration",
+        "context_line": "[[quickadd]] choices can be launched from external scripts or apps through the use of the `obsidian://quickadd` URI. All parameter names and values must be properly URL encoded to work.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Shell Commands",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Shell Commands]]",
+        "line_number": 679,
+        "section": "7.5 Shell Commands Plugin",
+        "context_line": "The [[Shell Commands]] plugin lets you define shell/terminal commands and run them quickly via hotkeys or command palette. Advanced URI can insert clipboard content into a note: `start \"\" obsidian://advanced-uri?vault=Vault_name&filepath=Filename.md&data={{clipboard}}&mode=append` on Windows.",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "AutoHotkey Scripting for PKB Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[AutoHotkey Scripting for PKB Automation]]",
+        "line_number": 790,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[AutoHotkey Scripting for PKB Automation]]**",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Cognitive Load Theory Applied to PKB Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory Applied to PKB Design]]",
+        "line_number": 795,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Cognitive Load Theory Applied to PKB Design]]**",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "QuickAdd Macro Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[QuickAdd Macro Architecture]]",
+        "line_number": 800,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[QuickAdd Macro Architecture]]**",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "target": "Windows Task Scheduler for Knowledge Work Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Windows Task Scheduler for Knowledge Work Automation]]",
+        "line_number": 805,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Windows Task Scheduler for Knowledge Work Automation]]**",
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 105,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "tag": "uri-scheme",
+        "full_tag": "#uri-scheme",
+        "hierarchy": [
+          "uri-scheme"
+        ],
+        "line_number": 105,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "tag": "automation",
+        "full_tag": "#automation",
+        "hierarchy": [
+          "automation"
+        ],
+        "line_number": 105,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "tag": "pkm",
+        "full_tag": "#pkm",
+        "hierarchy": [
+          "pkm"
+        ],
+        "line_number": 105,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 105,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "tag": "workflow-optimization",
+        "full_tag": "#workflow-optimization",
+        "hierarchy": [
+          "workflow-optimization"
+        ],
+        "line_number": 105,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Obsidian URI",
+        "anchor": "obsidian-uri",
+        "line_number": 37,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Note Metadata Dashboard",
+        "anchor": "note-metadata-dashboard",
+        "line_number": 44,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "📑 Table of Contents",
+        "anchor": "table-of-contents",
+        "line_number": 142,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "🎯 1. Core Concepts & Foundational Understanding",
+        "anchor": "1-core-concepts-foundational-understanding",
+        "line_number": 155,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "1.1 What is Obsidian URI?",
+        "anchor": "11-what-is-obsidian-uri",
+        "line_number": 157,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "The URI Anatomy",
+        "anchor": "the-uri-anatomy",
+        "line_number": 169,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Why URIs Matter for Knowledge Work",
+        "anchor": "why-uris-matter-for-knowledge-work",
+        "line_number": 188,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "🔧 2. Native Obsidian URI Actions",
+        "anchor": "2-native-obsidian-uri-actions",
+        "line_number": 199,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "2.1 The `open` Action",
+        "anchor": "21-the-open-action",
+        "line_number": 201,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Syntax",
+        "anchor": "basic-syntax",
+        "line_number": 207,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Parameters Reference",
+        "anchor": "parameters-reference",
+        "line_number": 213,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Practical Examples",
+        "anchor": "practical-examples",
+        "line_number": 223,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "2.2 The `new` Action",
+        "anchor": "22-the-new-action",
+        "line_number": 253,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Syntax",
+        "anchor": "basic-syntax",
+        "line_number": 259,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Parameters Reference",
+        "anchor": "parameters-reference",
+        "line_number": 265,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Practical Examples",
+        "anchor": "practical-examples",
+        "line_number": 278,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "2.3 The `search` Action",
+        "anchor": "23-the-search-action",
+        "line_number": 301,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Syntax",
+        "anchor": "basic-syntax",
+        "line_number": 307,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Practical Examples",
+        "anchor": "practical-examples",
+        "line_number": 313,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "2.4 The `daily` Action",
+        "anchor": "24-the-daily-action",
+        "line_number": 327,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Syntax",
+        "anchor": "basic-syntax",
+        "line_number": 333,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "2.5 The `hook-get-address` Action",
+        "anchor": "25-the-hook-get-address-action",
+        "line_number": 345,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Basic Syntax",
+        "anchor": "basic-syntax",
+        "line_number": 351,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "⚡ 3. Advanced URI Plugin - Extended Capabilities",
+        "anchor": "3-advanced-uri-plugin-extended-capabilities",
+        "line_number": 361,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "3.1 Installation & Configuration",
+        "anchor": "31-installation-configuration",
+        "line_number": 367,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "3.2 Extended Action Categories",
+        "anchor": "32-extended-action-categories",
+        "line_number": 374,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Navigation Actions",
+        "anchor": "navigation-actions",
+        "line_number": 376,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Writing Actions",
+        "anchor": "writing-actions",
+        "line_number": 393,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Command Execution",
+        "anchor": "command-execution",
+        "line_number": 416,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Frontmatter Manipulation",
+        "anchor": "frontmatter-manipulation",
+        "line_number": 439,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Search and Replace",
+        "anchor": "search-and-replace",
+        "line_number": 449,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 4. Actions URI Plugin - X-Callback Integration",
+        "anchor": "4-actions-uri-plugin-x-callback-integration",
+        "line_number": 457,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "4.1 X-Callback-URL Explained",
+        "anchor": "41-x-callback-url-explained",
+        "line_number": 463,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "4.2 Actions URI Routes",
+        "anchor": "42-actions-uri-routes",
+        "line_number": 472,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "🖥️ 5. Windows Integration & PowerShell Automation",
+        "anchor": "5-windows-integration-powershell-automation",
+        "line_number": 484,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "5.1 Launching URIs from PowerShell",
+        "anchor": "51-launching-uris-from-powershell",
+        "line_number": 486,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "5.2 Windows Task Scheduler Integration",
+        "anchor": "52-windows-task-scheduler-integration",
+        "line_number": 502,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "5.3 Desktop Shortcuts",
+        "anchor": "53-desktop-shortcuts",
+        "line_number": 532,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "5.4 AutoHotkey Integration",
+        "anchor": "54-autohotkey-integration",
+        "line_number": 540,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "🧠 6. Cognitive Science Applications",
+        "anchor": "6-cognitive-science-applications",
+        "line_number": 558,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "6.1 Aligning with Working Memory Constraints",
+        "anchor": "61-aligning-with-working-memory-constraints",
+        "line_number": 565,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "6.2 Leveraging Environmental Triggers",
+        "anchor": "62-leveraging-environmental-triggers",
+        "line_number": 582,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "6.3 Supporting Spaced Repetition Workflows",
+        "anchor": "63-supporting-spaced-repetition-workflows",
+        "line_number": 593,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "6.4 Metacognitive Scaffolding",
+        "anchor": "64-metacognitive-scaffolding",
+        "line_number": 606,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "6.5 Reducing Decision Fatigue",
+        "anchor": "65-reducing-decision-fatigue",
+        "line_number": 619,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "🔄 7. Integration Patterns with Existing Plugins",
+        "anchor": "7-integration-patterns-with-existing-plugins",
+        "line_number": 632,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "7.1 QuickAdd Integration",
+        "anchor": "71-quickadd-integration",
+        "line_number": 634,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "7.2 Templater Integration",
+        "anchor": "72-templater-integration",
+        "line_number": 656,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "7.3 Dataview Query Triggering",
+        "anchor": "73-dataview-query-triggering",
+        "line_number": 666,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "7.4 Tasks Plugin Integration",
+        "anchor": "74-tasks-plugin-integration",
+        "line_number": 670,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "7.5 Shell Commands Plugin",
+        "anchor": "75-shell-commands-plugin",
+        "line_number": 677,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "🚀 8. Implementation Roadmap for Your PKB",
+        "anchor": "8-implementation-roadmap-for-your-pkb",
+        "line_number": 685,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 1: Foundation Layer (Week 1-2)",
+        "anchor": "phase-1-foundation-layer-week-1-2",
+        "line_number": 692,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Priority 1: Install Advanced URI Plugin",
+        "anchor": "priority-1-install-advanced-uri-plugin",
+        "line_number": 694,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Priority 2: Create Essential Desktop Shortcuts",
+        "anchor": "priority-2-create-essential-desktop-shortcuts",
+        "line_number": 698,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Priority 3: Build First PowerShell Script",
+        "anchor": "priority-3-build-first-powershell-script",
+        "line_number": 703,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "MorningRoutine.ps1",
+        "anchor": "morningroutineps1",
+        "line_number": 706,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "Open daily note",
+        "anchor": "open-daily-note",
+        "line_number": 709,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "Wait for Obsidian to load",
+        "anchor": "wait-for-obsidian-to-load",
+        "line_number": 712,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "Open weekly goals MOC",
+        "anchor": "open-weekly-goals-moc",
+        "line_number": 715,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 2: Capture Optimization (Week 3-4)",
+        "anchor": "phase-2-capture-optimization-week-3-4",
+        "line_number": 719,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Priority 4: System-Wide Capture Hotkey",
+        "anchor": "priority-4-system-wide-capture-hotkey",
+        "line_number": 721,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Priority 5: Browser Integration",
+        "anchor": "priority-5-browser-integration",
+        "line_number": 724,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Priority 6: Scheduled Task Setup",
+        "anchor": "priority-6-scheduled-task-setup",
+        "line_number": 727,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 3: Advanced Patterns (Week 5+)",
+        "anchor": "phase-3-advanced-patterns-week-5",
+        "line_number": 733,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Priority 7: Spaced Repetition Integration",
+        "anchor": "priority-7-spaced-repetition-integration",
+        "line_number": 735,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Priority 8: Self-Regulated Learning Scaffolds",
+        "anchor": "priority-8-self-regulated-learning-scaffolds",
+        "line_number": 738,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 3,
+        "text": "Priority 9: External Tool Integration",
+        "anchor": "priority-9-external-tool-integration",
+        "line_number": 741,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "📊 Quick Reference Tables",
+        "anchor": "quick-reference-tables",
+        "line_number": 746,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Metadata & Attribution",
+        "anchor": "metadata-attribution",
+        "line_number": 771,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 Version History",
+        "anchor": "version-history",
+        "line_number": 780,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 788,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "level": 2,
+        "text": "🏷️ Tags & Classification",
+        "anchor": "tags-classification",
+        "line_number": 818,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "yaml",
+        "code": "tags: #obsidian #uri-scheme #automation #pkm #reference-note #workflow-optimization #deep-linking #cognitive-architecture\naliases: [Obsidian URL Scheme, Obsidian Deep Links, obsidian:// Protocol, Obsidian URI Actions, Advanced URI, Obsidian Automation Protocol]",
+        "line_start": 119,
+        "line_end": 122,
+        "char_count": 261,
+        "line_count": 2,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://[action]?[param1]=[value1]&[param2]=[value2]",
+        "line_start": 173,
+        "line_end": 175,
+        "char_count": 55,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://open?vault=[vault-name]&file=[file-path]",
+        "line_start": 209,
+        "line_end": 211,
+        "char_count": 51,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://open?vault=10_pur3v4d3r's-vault",
+        "line_start": 226,
+        "line_end": 228,
+        "char_count": 42,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://open?vault=10_pur3v4d3r's-vault&file=05_moc-hubs/cognitive-science_moc",
+        "line_start": 231,
+        "line_end": 233,
+        "char_count": 81,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://open?vault=10_pur3v4d3r's-vault&file=note-name#Heading%20Name",
+        "line_start": 236,
+        "line_end": 238,
+        "char_count": 72,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://open?vault=10_pur3v4d3r's-vault&file=note-name#^block-id",
+        "line_start": 241,
+        "line_end": 243,
+        "char_count": 67,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://new?vault=[vault]&name=[note-name]&content=[note-content]",
+        "line_start": 261,
+        "line_end": 263,
+        "char_count": 68,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://new?vault=10_pur3v4d3r's-vault&name=quick-capture&content=Captured%20at%20%7B%7Btime%7D%7D",
+        "line_start": 281,
+        "line_end": 283,
+        "char_count": 101,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://new?vault=10_pur3v4d3r's-vault&file=00_inbox/new-idea&content=---frontmatter---",
+        "line_start": 286,
+        "line_end": 288,
+        "char_count": 90,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://search?vault=[vault]&query=[search-query]",
+        "line_start": 309,
+        "line_end": 311,
+        "char_count": 52,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://search?vault=10_pur3v4d3r's-vault&query=tag%3Acognitive-science",
+        "line_start": 316,
+        "line_end": 318,
+        "char_count": 74,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://search?vault=10_pur3v4d3r's-vault&query=file%3A(\"2025-11-25\")",
+        "line_start": 321,
+        "line_end": 323,
+        "char_count": 72,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://daily?vault=[vault]",
+        "line_start": 335,
+        "line_end": 337,
+        "char_count": 30,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://hook-get-address?vault=[vault]",
+        "line_start": 353,
+        "line_end": 355,
+        "char_count": 41,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://adv-uri?vault=10_pur3v4d3r's-vault&workspace=daily-review",
+        "line_start": 389,
+        "line_end": 391,
+        "char_count": 68,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://adv-uri?vault=vault&commandid=command-id",
+        "line_start": 421,
+        "line_end": 423,
+        "char_count": 51,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://adv-uri?vault=10_pur3v4d3r's-vault&filepath=my-note&commandid=workspace:export-pdf",
+        "line_start": 431,
+        "line_end": 433,
+        "char_count": 93,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://adv-uri?vault=vault&filepath=note&frontmatterkey=status&data=completed",
+        "line_start": 443,
+        "line_end": 445,
+        "char_count": 81,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://adv-uri?vault=vault&filepath=note&search=old-text&replace=new-text",
+        "line_start": 451,
+        "line_end": 453,
+        "char_count": 77,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "powershell",
+        "code": "Start-Process \"obsidian://open?vault=10_pur3v4d3r's-vault&file=my-note\"",
+        "line_start": 491,
+        "line_end": 493,
+        "char_count": 71,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "powershell",
+        "code": "$vault = [System.Uri]::EscapeDataString(\"10_pur3v4d3r's-vault\")\n$file = [System.Uri]::EscapeDataString(\"03_permanent-notes/metacognition\")\nStart-Process \"obsidian://open?vault=$vault&file=$file\"",
+        "line_start": 496,
+        "line_end": 500,
+        "char_count": 194,
+        "line_count": 3,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "powershell",
+        "code": "> # Open daily note\n> Start-Process \"obsidian://adv-uri?vault=10_pur3v4d3r's-vault&daily=true\"\n> Start-Sleep -Seconds 2\n> # Open weekly goals in split pane\n> Start-Process \"obsidian://adv-uri?vault=10_pur3v4d3r's-vault&filepath=weekly-goals&openmode=split\"\n>",
+        "line_start": 514,
+        "line_end": 520,
+        "char_count": 258,
+        "line_count": 6,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "autohotkey",
+        "code": "; Ctrl+Shift+N - Quick capture to inbox\n^+n::\n    Run, obsidian://adv-uri?vault=10_pur3v4d3r's-vault&filepath=00_inbox/quick-capture&data=%clipboard%&mode=append\n    return\n\n; Ctrl+Shift+D - Open daily note from anywhere\n^+d::\n    Run, obsidian://daily?vault=10_pur3v4d3r's-vault\n    return",
+        "line_start": 544,
+        "line_end": 554,
+        "char_count": 290,
+        "line_count": 9,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://adv-uri?vault=10_pur3v4d3r's-vault&commandid=obsidian-spaced-repetition:review-flashcards",
+        "line_start": 600,
+        "line_end": 602,
+        "char_count": 100,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://quickadd?choice=My%20Capture%20Choice&value-content=captured%20text",
+        "line_start": 639,
+        "line_end": 641,
+        "char_count": 78,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "javascript",
+        "code": "> javascript:(function(){\n>   var title = encodeURIComponent(document.title);\n>   var url = encodeURIComponent(window.location.href);\n>   window.location = 'obsidian://quickadd?choice=Web%20Capture&value-title=' + title + '&value-url=' + url;\n> })();\n>",
+        "line_start": 648,
+        "line_end": 654,
+        "char_count": 252,
+        "line_count": 6,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://adv-uri?vault=vault&commandid=templater-obsidian:create-new-note-from-template",
+        "line_start": 660,
+        "line_end": 662,
+        "char_count": 89,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "obsidian://adv-uri?vault=vault&commandid=obsidian-tasks-plugin:edit-task",
+        "line_start": 673,
+        "line_end": 675,
+        "char_count": 72,
+        "line_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "language": "powershell",
+        "code": "# MorningRoutine.ps1\n$vault = [System.Uri]::EscapeDataString(\"10_pur3v4d3r's-vault\")\n\n# Open daily note\nStart-Process \"obsidian://adv-uri?vault=$vault&daily=true\"\n\n# Wait for Obsidian to load\nStart-Sleep -Seconds 3\n\n# Open weekly goals MOC\nStart-Process \"obsidian://adv-uri?vault=$vault&filepath=05_moc-hubs/weekly-goals\"",
+        "line_start": 705,
+        "line_end": 717,
+        "char_count": 321,
+        "line_count": 11,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Component",
+          "Description",
+          "Example"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Protocol**",
+            "Always `obsidian://`",
+            "`obsidian://`"
+          ],
+          [
+            "**Action**",
+            "The operation to perform",
+            "`open`, `new`, `search`, `daily`"
+          ],
+          [
+            "**Parameters**",
+            "Key-value pairs controlling behavior",
+            "`vault=10_pur3v4d3r's-vault&file=note`"
+          ],
+          [
+            "**Encoding**",
+            "Special characters must be URL-encoded",
+            "Space = `%20`, `/` = `%2F`"
+          ]
+        ],
+        "line_start": 167,
+        "row_count": 4,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "headers": [
+          "Parameter",
+          "Required",
+          "Description",
+          "Example"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "`vault`",
+            "Optional*",
+            "Vault name or vault ID",
+            "`vault=10_pur3v4d3r's-vault`"
+          ],
+          [
+            "`file`",
+            "Optional",
+            "File path relative to vault root",
+            "`file=03_permanent-notes/metacognition`"
+          ],
+          [
+            "`path`",
+            "Optional",
+            "Absolute system path (overrides vault+file)",
+            "`path=D:\\10_pur3v4d3r's-vault\\note.md`"
+          ]
+        ],
+        "line_start": 199,
+        "row_count": 3,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "headers": [
+          "Parameter",
+          "Required",
+          "Description"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "`vault`",
+            "Optional",
+            "Target vault"
+          ],
+          [
+            "`name`",
+            "Optional",
+            "File name (without path—uses default location setting)"
+          ],
+          [
+            "`file`",
+            "Optional",
+            "Full vault-relative path including name"
+          ],
+          [
+            "`path`",
+            "Optional",
+            "Absolute system path"
+          ],
+          [
+            "`content`",
+            "Optional",
+            "Note body content (URL-encoded)"
+          ],
+          [
+            "`silent`",
+            "Optional",
+            "If `true`, don't open the note after creation"
+          ],
+          [
+            "`append`",
+            "Optional",
+            "If `true`, append to existing file instead of failing"
+          ],
+          [
+            "`overwrite`",
+            "Optional",
+            "If `true`, overwrite existing file"
+          ]
+        ],
+        "line_start": 237,
+        "row_count": 8,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "headers": [
+          "Action",
+          "Parameters",
+          "Description"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Open workspace**",
+            "`workspace=name`",
+            "Loads saved workspace layout"
+          ],
+          [
+            "**Open file at line**",
+            "`filepath=path&line=42`",
+            "Opens file scrolled to specific line"
+          ],
+          [
+            "**Open heading**",
+            "`filepath=path&heading=Goal`",
+            "Navigates directly to heading"
+          ],
+          [
+            "**Open block**",
+            "`filepath=path&block=12345` or just `block=12345`",
+            "Opens specific block (global search if no file specified)"
+          ],
+          [
+            "**Open settings**",
+            "`settingid=plugin-id`",
+            "Opens specific settings tab"
+          ]
+        ],
+        "line_start": 348,
+        "row_count": 5,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "headers": [
+          "Mode",
+          "Parameters",
+          "Behavior"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Write**",
+            "`filepath=path&data=content`",
+            "Creates file only if not present"
+          ],
+          [
+            "**Overwrite**",
+            "`filepath=path&data=content&mode=overwrite`",
+            "Replaces entire file content"
+          ],
+          [
+            "**Append**",
+            "`filepath=path&data=content&mode=append`",
+            "Adds to end of file"
+          ],
+          [
+            "**Prepend**",
+            "`filepath=path&data=content&mode=prepend`",
+            "Adds to beginning of file"
+          ],
+          [
+            "**New (forced)**",
+            "`filepath=path&data=content&mode=new`",
+            "Creates file; adds number suffix if exists"
+          ]
+        ],
+        "line_start": 365,
+        "row_count": 5,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "headers": [
+          "Trigger Type",
+          "URI Implementation",
+          "Cognitive Benefit"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Temporal**",
+            "Scheduled daily note opening",
+            "Anchors reflection habit to time"
+          ],
+          [
+            "**Contextual**",
+            "Browser extension captures current page",
+            "Captures in learning context"
+          ],
+          [
+            "**Behavioral**",
+            "Desktop shortcut after shutdown",
+            "Links review to routine action"
+          ],
+          [
+            "**Location**",
+            "Mobile automation at home arrival",
+            "Location-triggered inbox processing"
+          ]
+        ],
+        "line_start": 516,
+        "row_count": 4,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "headers": [
+          "Content Type",
+          "Automated Destination"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Quick thoughts",
+            "`00_inbox/fleeting-notes`"
+          ],
+          [
+            "Meeting notes",
+            "`02_projects/[current-project]`"
+          ],
+          [
+            "Reading highlights",
+            "`04_reference-library/literature-notes`"
+          ],
+          [
+            "Research findings",
+            "`daily-note (appended)`"
+          ]
+        ],
+        "line_start": 570,
+        "row_count": 4,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      },
+      {
+        "headers": [
+          "Version",
+          "Date",
+          "Changes"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "1.0",
+            "2025-11-25",
+            "Initial comprehensive compilation"
+          ]
+        ],
+        "line_start": 679,
+        "row_count": 1,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [
+      {
+        "block_id": "block-id",
+        "type": "definition",
+        "line_number": 242,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      }
+    ],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "[[#🎯 1. Core Concepts & Foundational Understanding]]",
+          "indent_level": 0,
+          "line_number": 138,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "[[#🔧 2. Native Obsidian URI Actions]]",
+          "indent_level": 0,
+          "line_number": 138,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "[[#⚡ 3. Advanced URI Plugin - Extended Capabilities]]",
+          "indent_level": 0,
+          "line_number": 138,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "[[#🔗 4. Actions URI Plugin - X-Callback Integration]]",
+          "indent_level": 0,
+          "line_number": 138,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "[[#🖥️ 5. Windows Integration & PowerShell Automation]]",
+          "indent_level": 0,
+          "line_number": 138,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "[[#🧠 6. Cognitive Science Applications]]",
+          "indent_level": 0,
+          "line_number": 143,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "[[#🔄 7. Integration Patterns with Existing Plugins]]",
+          "indent_level": 0,
+          "line_number": 144,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "[[#🚀 8. Implementation Roadmap for Your PKB]]",
+          "indent_level": 0,
+          "line_number": 146,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**Reduced Extraneous Load**: Every manual step (open Obsidian → navigate folder → create note → format metadata) consumes [[Working Memory]] capacity that should be reserved for thinking",
+          "indent_level": 0,
+          "line_number": 186,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**Increased Automaticity**: Repeated URI triggers become habitual, moving from conscious effort to automatic behavior",
+          "indent_level": 0,
+          "line_number": 186,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**Context Preservation**: Capture happens in-context without disrupting current mental state",
+          "indent_level": 0,
+          "line_number": 190,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**Environmental Triggering**: External cues (scheduled tasks, location-based automation) can prompt knowledge management behaviors",
+          "indent_level": 0,
+          "line_number": 192,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Open Obsidian Settings → Community Plugins",
+          "indent_level": 0,
+          "line_number": 341,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Browse and search for \"Advanced URI\"",
+          "indent_level": 0,
+          "line_number": 341,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Install and enable",
+          "indent_level": 0,
+          "line_number": 341,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Configure default behaviors in plugin settings",
+          "indent_level": 0,
+          "line_number": 341,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Right-click Desktop → New → Shortcut",
+          "indent_level": 0,
+          "line_number": 470,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Location: `obsidian://daily?vault=10_pur3v4d3r's-vault`",
+          "indent_level": 0,
+          "line_number": 470,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Name: \"📝 Today's Note\"",
+          "indent_level": 0,
+          "line_number": 474,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**Daily Note** - `obsidian://daily?vault=10_pur3v4d3r's-vault`",
+          "indent_level": 0,
+          "line_number": 614,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**Inbox Quick Capture** - Append to inbox note",
+          "indent_level": 0,
+          "line_number": 615,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**PKB Dashboard** - Open your main MOC",
+          "indent_level": 0,
+          "line_number": 617,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**[[AutoHotkey Scripting for PKB Automation]]**",
+          "indent_level": 0,
+          "line_number": 681,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**[[Cognitive Load Theory Applied to PKB Design]]**",
+          "indent_level": 0,
+          "line_number": 690,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**[[QuickAdd Macro Architecture]]**",
+          "indent_level": 0,
+          "line_number": 696,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**[[Windows Task Scheduler for Knowledge Work Automation]]**",
+          "indent_level": 0,
+          "line_number": 703,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "Open Command Palette (Ctrl+P)",
+          "indent_level": 0,
+          "line_number": 395,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Use the Advanced URI helper command \"Copy URI for command\"",
+          "indent_level": 0,
+          "line_number": 395,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Check plugin source code on GitHub",
+          "indent_level": 0,
+          "line_number": 395,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**Bidirectional Communication**: Unlike simple URIs that are \"fire and forget,\" x-callback-url enables responses",
+          "indent_level": 0,
+          "line_number": 430,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "**Error Handling**: `x-error` parameter catches failures gracefully",
+          "indent_level": 0,
+          "line_number": 432,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "`obsidian://actions-uri/daily-note/open`",
+          "indent_level": 0,
+          "line_number": 439,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "`obsidian://actions-uri/search/all`",
+          "indent_level": 0,
+          "line_number": 441,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Morning routine trigger (8:00 AM)",
+          "indent_level": 0,
+          "line_number": 625,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Evening review prompt (8:00 PM)",
+          "indent_level": 0,
+          "line_number": 625,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "Weekly review Saturday notification",
+          "indent_level": 0,
+          "line_number": 626,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "*Connection*: System-wide hotkeys that trigger Obsidian URIs",
+          "indent_level": 1,
+          "line_number": 681,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "*Depth Potential*: Complete scripting reference for Windows automation layer",
+          "indent_level": 1,
+          "line_number": 681,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Connects technical features to cognitive science principles",
+          "indent_level": 1,
+          "line_number": 694,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "*Connection*: QuickAdd URIs extend capture capabilities",
+          "indent_level": 1,
+          "line_number": 698,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "*Depth Potential*: Complete macro design patterns and examples",
+          "indent_level": 1,
+          "line_number": 699,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Plugin ecosystem integration layer",
+          "indent_level": 1,
+          "line_number": 701,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "*Connection*: Scheduled triggers for URI-based workflows",
+          "indent_level": 1,
+          "line_number": 707,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "*Depth Potential*: Complete setup guide for timed automation",
+          "indent_level": 1,
+          "line_number": 709,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Bridges operating system capabilities with PKB workflows",
+          "indent_level": 1,
+          "line_number": 710,
+          "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "vault&file=",
+        "format": "inline",
+        "line_number": 476,
+        "source": "reference-comprehensive-obsidian-uri-202511250642.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+      "Actions URI",
+      "Active Recall",
+      "Advanced URI",
+      "AutoHotkey",
+      "AutoHotkey Scripting for PKB Automation",
+      "Automation",
+      "Behavioral Psychology",
+      "Cognitive Load Theory",
+      "Cognitive Load Theory Applied to PKB Design",
+      "Cross-Application Integration",
+      "Deep Linking",
+      "Executive Function",
+      "Extraneous Cognitive Load",
+      "GTD",
+      "Hook",
+      "Keyboard Maestro",
+      "Metacognition",
+      "Obsidian URI",
+      "PowerShell",
+      "Quick Capture",
+      "QuickAdd Macro Architecture",
+      "Self-Regulated Learning",
+      "Shell Commands",
+      "Templater",
+      "URI Scheme",
+      "Uniform Resource Identifier",
+      "Windows Task Scheduler for Knowledge Work Automation",
+      "Workflow Optimization",
+      "Working Memory",
+      "X-Callback-URL",
+      "YAML Frontmatter",
+      "Zettelkasten",
+      "dataview",
+      "obsidian",
+      "quickadd"
+    ],
+    "unique_wiki_link_count": 37,
+    "unique_tags": [
+      "#automation",
+      "#obsidian",
+      "#pkm",
+      "#reference-note",
+      "#uri-scheme",
+      "#workflow-optimization"
+    ],
+    "unique_tag_count": 6,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+      "Actions URI",
+      "Active Recall",
+      "Advanced URI",
+      "AutoHotkey",
+      "AutoHotkey Scripting for PKB Automation",
+      "Automation",
+      "Behavioral Psychology",
+      "Cognitive Load Theory",
+      "Cognitive Load Theory Applied to PKB Design",
+      "Cross-Application Integration",
+      "Deep Linking",
+      "Executive Function",
+      "Extraneous Cognitive Load",
+      "GTD",
+      "Hook",
+      "Keyboard Maestro",
+      "Metacognition",
+      "Obsidian URI",
+      "PowerShell",
+      "Quick Capture",
+      "QuickAdd Macro Architecture",
+      "Self-Regulated Learning",
+      "Shell Commands",
+      "Templater",
+      "URI Scheme",
+      "Uniform Resource Identifier",
+      "Windows Task Scheduler for Knowledge Work Automation",
+      "Workflow Optimization",
+      "Working Memory",
+      "X-Callback-URL",
+      "YAML Frontmatter",
+      "Zettelkasten",
+      "dataview",
+      "obsidian",
+      "quickadd"
+    ]
+  }
+}

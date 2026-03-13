@@ -1,0 +1,892 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:46.756962",
+    "source_file": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reports\\pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+    "source_file_size_bytes": 13894,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Mastering Lateral Tagging for a Dynamic Obsidian Vault",
+      "id": "20251120093211",
+      "type": "pkb/pkm/report",
+      "status": "not-read",
+      "source": "gemini-2.5-pro",
+      "year": "[[2025]]",
+      "tags": [
+        "pkm",
+        "project/pur3v4d3r",
+        "year/2025",
+        "self-improvement",
+        "pkb/metadata/frontmatter",
+        "pkb/maintenance/refactoring",
+        "pkb/maintenance/cleanup"
+      ],
+      "aliases": [
+        "academic/reports,report,report/lateral-tagging"
+      ],
+      "link-up": [
+        "[[project-pur3v4d3r-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-20|Daily-Note]]"
+      ]
+    },
+    "word_count": 2122,
+    "character_count": 13380,
+    "line_count": 244,
+    "heading_count": 19
+  },
+  "extraction_summary": {
+    "total_items_extracted": 86,
+    "by_type": {
+      "headings": 19,
+      "callouts": 0,
+      "wiki_links": 1,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 18,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 42,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "🏛️ The Architecture of Meaning: Mastering Lateral Tagging for a Dynamic Obsidian Vault",
+      "anchor": "the-architecture-of-meaning-mastering-lateral-tagging-for-a-dynamic-obsidian-vault",
+      "line_number": 26,
+      "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Introduction: The Soul of a New Machine",
+          "anchor": "introduction-the-soul-of-a-new-machine",
+          "line_number": 28,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🧭 Prerequisites: Understanding Your Compass — The Two Axes of Knowledge",
+          "anchor": "prerequisites-understanding-your-compass-the-two-axes-of-knowledge",
+          "line_number": 38,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Vertical Axis: Categorization & Identity",
+              "anchor": "the-vertical-axis-categorization-identity",
+              "line_number": 42,
+              "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Lateral Axis: Process & State",
+              "anchor": "the-lateral-axis-process-state",
+              "line_number": 56,
+              "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🧱 The Architect's Toolkit: Designing Your Lateral Tagging Schema",
+          "anchor": "the-architects-toolkit-designing-your-lateral-tagging-schema",
+          "line_number": 77,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Chapter 1: The Anatomy of a Lateral Tag",
+              "anchor": "chapter-1-the-anatomy-of-a-lateral-tag",
+              "line_number": 81,
+              "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Chapter 2: Identifying Your Core \"Axes\" (Common Lateral Keys)",
+              "anchor": "chapter-2-identifying-your-core-axes-common-lateral-keys",
+              "line_number": 98,
+              "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Chapter 3: The Philosophy of Consistency",
+              "anchor": "chapter-3-the-philosophy-of-consistency",
+              "line_number": 137,
+              "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚙️ Activating the System: From Passive Tags to Active Dashboards",
+          "anchor": "activating-the-system-from-passive-tags-to-active-dashboards",
+          "line_number": 145,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Engine: Dataview",
+              "anchor": "the-engine-dataview",
+              "line_number": 149,
+              "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Blueprint 1: The \"Status Dashboard\"",
+              "anchor": "blueprint-1-the-status-dashboard",
+              "line_number": 153,
+              "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Blueprint 2: The \"Project Hub\"",
+              "anchor": "blueprint-2-the-project-hub",
+              "line_number": 165,
+              "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Blueprint 3: The \"Report\" Tag (Your `report/dataview` Example)",
+              "anchor": "blueprint-3-the-report-tag-your-reportdataview-example",
+              "line_number": 195,
+              "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Automation with Templater",
+              "anchor": "automation-with-templater",
+              "line_number": 209,
+              "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "{{title}}",
+      "anchor": "title",
+      "line_number": 223,
+      "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🚧 Navigating the Labyrinth: Common Challenges",
+          "anchor": "navigating-the-labyrinth-common-challenges",
+          "line_number": 232,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🌱 The Garden That Tends Itself",
+          "anchor": "the-garden-that-tends-itself",
+          "line_number": 247,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Further Exploration: Related Concepts",
+              "anchor": "further-exploration-related-concepts",
+              "line_number": 257,
+              "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [],
+    "wiki_links": [
+      {
+        "target": "Meeting Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Meeting Note]]",
+        "line_number": 71,
+        "section": "The Lateral Axis: Process & State",
+        "context_line": "A `[[Meeting Note]]` can have an `action/review` tag.",
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "book",
+        "full_tag": "#book",
+        "hierarchy": [
+          "book"
+        ],
+        "line_number": 30,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "article",
+        "full_tag": "#article",
+        "hierarchy": [
+          "article"
+        ],
+        "line_number": 30,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 30,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "person",
+        "full_tag": "#person",
+        "hierarchy": [
+          "person"
+        ],
+        "line_number": 46,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "book",
+        "full_tag": "#book",
+        "hierarchy": [
+          "book"
+        ],
+        "line_number": 47,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "company",
+        "full_tag": "#company",
+        "hierarchy": [
+          "company"
+        ],
+        "line_number": 48,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "project/Alpha",
+        "full_tag": "#project/Alpha",
+        "hierarchy": [
+          "project",
+          "Alpha"
+        ],
+        "line_number": 49,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "topic/QuantumPhysics",
+        "full_tag": "#topic/QuantumPhysics",
+        "hierarchy": [
+          "topic",
+          "QuantumPhysics"
+        ],
+        "line_number": 50,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "book",
+        "full_tag": "#book",
+        "hierarchy": [
+          "book"
+        ],
+        "line_number": 54,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 54,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "book",
+        "full_tag": "#book",
+        "hierarchy": [
+          "book"
+        ],
+        "line_number": 68,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "article",
+        "full_tag": "#article",
+        "hierarchy": [
+          "article"
+        ],
+        "line_number": 69,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 70,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "draft",
+        "full_tag": "#draft",
+        "hierarchy": [
+          "draft"
+        ],
+        "line_number": 96,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "book",
+        "full_tag": "#book",
+        "hierarchy": [
+          "book"
+        ],
+        "line_number": 163,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "article",
+        "full_tag": "#article",
+        "hierarchy": [
+          "article"
+        ],
+        "line_number": 163,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "topic/QuantumPhysics",
+        "full_tag": "#topic/QuantumPhysics",
+        "hierarchy": [
+          "topic",
+          "QuantumPhysics"
+        ],
+        "line_number": 243,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "tag": "key/value",
+        "full_tag": "#key/value",
+        "hierarchy": [
+          "key",
+          "value"
+        ],
+        "line_number": 263,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "🏛️ The Architecture of Meaning: Mastering Lateral Tagging for a Dynamic Obsidian Vault",
+        "anchor": "the-architecture-of-meaning-mastering-lateral-tagging-for-a-dynamic-obsidian-vault",
+        "line_number": 26,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 2,
+        "text": "Introduction: The Soul of a New Machine",
+        "anchor": "introduction-the-soul-of-a-new-machine",
+        "line_number": 28,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 2,
+        "text": "🧭 Prerequisites: Understanding Your Compass — The Two Axes of Knowledge",
+        "anchor": "prerequisites-understanding-your-compass-the-two-axes-of-knowledge",
+        "line_number": 38,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 3,
+        "text": "The Vertical Axis: Categorization & Identity",
+        "anchor": "the-vertical-axis-categorization-identity",
+        "line_number": 42,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 3,
+        "text": "The Lateral Axis: Process & State",
+        "anchor": "the-lateral-axis-process-state",
+        "line_number": 56,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 2,
+        "text": "🧱 The Architect's Toolkit: Designing Your Lateral Tagging Schema",
+        "anchor": "the-architects-toolkit-designing-your-lateral-tagging-schema",
+        "line_number": 77,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 3,
+        "text": "Chapter 1: The Anatomy of a Lateral Tag",
+        "anchor": "chapter-1-the-anatomy-of-a-lateral-tag",
+        "line_number": 81,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 3,
+        "text": "Chapter 2: Identifying Your Core \"Axes\" (Common Lateral Keys)",
+        "anchor": "chapter-2-identifying-your-core-axes-common-lateral-keys",
+        "line_number": 98,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 3,
+        "text": "Chapter 3: The Philosophy of Consistency",
+        "anchor": "chapter-3-the-philosophy-of-consistency",
+        "line_number": 137,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ Activating the System: From Passive Tags to Active Dashboards",
+        "anchor": "activating-the-system-from-passive-tags-to-active-dashboards",
+        "line_number": 145,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 3,
+        "text": "The Engine: Dataview",
+        "anchor": "the-engine-dataview",
+        "line_number": 149,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 3,
+        "text": "Blueprint 1: The \"Status Dashboard\"",
+        "anchor": "blueprint-1-the-status-dashboard",
+        "line_number": 153,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 3,
+        "text": "Blueprint 2: The \"Project Hub\"",
+        "anchor": "blueprint-2-the-project-hub",
+        "line_number": 165,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 3,
+        "text": "Blueprint 3: The \"Report\" Tag (Your `report/dataview` Example)",
+        "anchor": "blueprint-3-the-report-tag-your-reportdataview-example",
+        "line_number": 195,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 3,
+        "text": "Automation with Templater",
+        "anchor": "automation-with-templater",
+        "line_number": 209,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 1,
+        "text": "{{title}}",
+        "anchor": "title",
+        "line_number": 223,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 2,
+        "text": "🚧 Navigating the Labyrinth: Common Challenges",
+        "anchor": "navigating-the-labyrinth-common-challenges",
+        "line_number": 232,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 2,
+        "text": "🌱 The Garden That Tends Itself",
+        "anchor": "the-garden-that-tends-itself",
+        "line_number": 247,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "level": 3,
+        "text": "Further Exploration: Related Concepts",
+        "anchor": "further-exploration-related-concepts",
+        "line_number": 257,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataview",
+        "code": "> LIST\n> FROM #status/unread OR #status/intake\n> SORT file.ctime DESC\n>",
+        "line_start": 157,
+        "line_end": 161,
+        "char_count": 71,
+        "line_count": 4,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TASK\n> FROM #project/Atlas AND #status/inprogress\n>",
+        "line_start": 169,
+        "line_end": 172,
+        "char_count": 53,
+        "line_count": 3,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TABLE file.mtime AS \"Last Worked On\"\n> FROM #project/Atlas AND #progress/1-draft\n> SORT file.mtime DESC\n>",
+        "line_start": 178,
+        "line_end": 182,
+        "char_count": 107,
+        "line_count": 4,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> LIST\n> FROM #project/Atlas AND #action/review\n>",
+        "line_start": 188,
+        "line_end": 191,
+        "char_count": 49,
+        "line_count": 3,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> LIST\n> FROM #report/dataview\n> SORT file.name ASC\n>",
+        "line_start": 201,
+        "line_end": 205,
+        "char_count": 53,
+        "line_count": 4,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntags:\n  - status/seed\n  - context/learning\naliases: []\n---\n\n# {{title}}\n\n…",
+        "line_start": 215,
+        "line_end": 226,
+        "char_count": 78,
+        "line_count": 10,
+        "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "`#person`",
+          "indent_level": 1,
+          "line_number": 45,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`#book`",
+          "indent_level": 1,
+          "line_number": 47,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`#company`",
+          "indent_level": 1,
+          "line_number": 48,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`#project/Alpha`",
+          "indent_level": 1,
+          "line_number": 49,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`#topic/QuantumPhysics`",
+          "indent_level": 1,
+          "line_number": 50,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`status/read`",
+          "indent_level": 1,
+          "line_number": 59,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`status/unread`",
+          "indent_level": 1,
+          "line_number": 61,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`progress/draft`",
+          "indent_level": 1,
+          "line_number": 62,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`context/work`",
+          "indent_level": 1,
+          "line_number": 63,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`action/review`",
+          "indent_level": 1,
+          "line_number": 64,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "**The Key (or Namespace):** This is the *question* or the *axis* itself.",
+          "indent_level": 1,
+          "line_number": 86,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`status/`",
+          "indent_level": 3,
+          "line_number": 88,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`progress/`",
+          "indent_level": 3,
+          "line_number": 89,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`context/`",
+          "indent_level": 3,
+          "line_number": 90,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "**The Value (or Specific State):** This is the *answer* to the question.",
+          "indent_level": 1,
+          "line_number": 91,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`…/read`",
+          "indent_level": 3,
+          "line_number": 92,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`…/draft`",
+          "indent_level": 3,
+          "line_number": 93,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`…/work`",
+          "indent_level": 3,
+          "line_number": 94,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "**For Media (Books, Articles, Videos):**",
+          "indent_level": 1,
+          "line_number": 104,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`status/intake` (or `status/unread`, `status/queue`)",
+          "indent_level": 3,
+          "line_number": 106,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`status/processing` (or `status/reading`)",
+          "indent_level": 3,
+          "line_number": 107,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`status/consumed` (or `status/read`, `status/done`)",
+          "indent_level": 3,
+          "line_number": 108,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "**For Your Own Notes (Zettelkasten):**",
+          "indent_level": 1,
+          "line_number": 109,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`status/seed` (A fleeting idea, barely formed)",
+          "indent_level": 3,
+          "line_number": 110,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`status/cultivating` (Actively being worked on, linked, and expanded)",
+          "indent_level": 3,
+          "line_number": 111,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`status/evergreen` (A stable, well-understood, and deeply linked concept)",
+          "indent_level": 3,
+          "line_number": 112,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`progress/0-idea`",
+          "indent_level": 1,
+          "line_number": 116,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`progress/1-draft`",
+          "indent_level": 1,
+          "line_number": 118,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`progress/2-review` (Waiting for your own review or someone else's)",
+          "indent_level": 1,
+          "line_number": 119,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`progress/3-published` (or `progress/complete`)",
+          "indent_level": 1,
+          "line_number": 120,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`context/work`",
+          "indent_level": 1,
+          "line_number": 124,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`context/personal`",
+          "indent_level": 1,
+          "line_number": 126,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`context/learning`",
+          "indent_level": 1,
+          "line_number": 127,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`context/waiting-for` (A powerful one: what are you blocked on?)",
+          "indent_level": 1,
+          "line_number": 128,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`action/review` (I need to review this meeting note)",
+          "indent_level": 1,
+          "line_number": 132,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`action/research` (I need to find more information on this topic)",
+          "indent_level": 1,
+          "line_number": 134,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "`action/reply` (I need to reply to this email I logged)",
+          "indent_level": 1,
+          "line_number": 135,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "**Dataview Query Language (DQL):** The very engine we discussed. Understanding its full syntax (sorting, filtering, grouping) is the next logical step to building even more powerful and specific dashboards.",
+          "indent_level": 1,
+          "line_number": 251,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "**MOCs (Maps of Content):** Your Dataview dashboards are, in essence, *dynamic* MOCs. Understanding the philosophy of *manual* MOCs will help you blend automated lists with curated, human-driven insights, creating a truly robust navigation system.",
+          "indent_level": 1,
+          "line_number": 253,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "**Zettelkasten Method:** The lateral tag `status/seed` -\\> `status/cultivating` -\\> `status/evergreen` is a direct implementation of the Zettelkasten workflow, tracking the maturity of an idea from a fleeting note to a permanent, atomic concept.",
+          "indent_level": 1,
+          "line_number": 259,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "**Automation with Templater and QuickAdd:** These are the tools that will make your system frictionless. Mastering them allows you to embed your tagging schema directly into your note-creation workflow, ensuring the consistency that the entire system relies upon.",
+          "indent_level": 1,
+          "line_number": 262,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        },
+        {
+          "text": "**YAML Frontmatter vs. Inline Tags:** We discussed inline tags (`#key/value`), but all these concepts can also be applied within the YAML frontmatter (e.g., `tags: [status/read, context/work]`). This offers cleaner-looking notes and more powerful Dataview querying, which may be a path you wish to explore.",
+          "indent_level": 1,
+          "line_number": 263,
+          "source": "pkb-report-mastering-lateral-tagging-for-a-dynamic-obsidian-vault-20251120093211.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Meeting Note"
+    ],
+    "unique_wiki_link_count": 1,
+    "unique_tags": [
+      "#article",
+      "#book",
+      "#company",
+      "#draft",
+      "#key/value",
+      "#person",
+      "#project",
+      "#project/Alpha",
+      "#topic/QuantumPhysics"
+    ],
+    "unique_tag_count": 9,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Meeting Note"
+    ]
+  }
+}

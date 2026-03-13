@@ -1,0 +1,2428 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.710822",
+    "source_file": "reference-guide-commander-plugin-202511192130.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-guide-commander-plugin-202511192130.md",
+    "source_file_size_bytes": 29917,
+    "processing_time_seconds": 0.011
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": [],
+      "aliases": [
+        "Commander Plugin for Obsidian",
+        "Obsidian Commander",
+        "Commander Plugin",
+        "UI Customization Tool",
+        "Command Interface Manager"
+      ],
+      "tags": [
+        "year/2025",
+        "knowledge-workflow",
+        "pkb/architecture",
+        "pkb/design/information-architecture",
+        "pkb/optimization",
+        "pkm/workflow",
+        "type/reference"
+      ],
+      "id": "20251119213200",
+      "created": "2025-11-19T21:32:00",
+      "week": "[[2025-W47]]",
+      "month": "[[2025-11]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "link-up": [],
+      "link-related": [
+        "[[2025-11-19|Daily-Note]]",
+        "[[permeant-note_moc]]"
+      ]
+    },
+    "word_count": 4042,
+    "character_count": 28986,
+    "line_count": 692,
+    "heading_count": 35
+  },
+  "extraction_summary": {
+    "total_items_extracted": 231,
+    "by_type": {
+      "headings": 35,
+      "callouts": 36,
+      "wiki_links": 87,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 1,
+      "tables": 1,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 28,
+      "lists_unordered": 43,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "⚙️ Commander Plugin for Obsidian",
+      "anchor": "commander-plugin-for-obsidian",
+      "line_number": 34,
+      "source": "reference-guide-commander-plugin-202511192130.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🎯 Core Functionality",
+          "anchor": "core-functionality",
+          "line_number": 41,
+          "source": "reference-guide-commander-plugin-202511192130.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Key Capabilities",
+              "anchor": "key-capabilities",
+              "line_number": 46,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🗺️ Interface Elements & Use Cases",
+          "anchor": "interface-elements-use-cases",
+          "line_number": 59,
+          "source": "reference-guide-commander-plugin-202511192130.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1️⃣ Left Ribbon (Primary Navigation Hub)",
+              "anchor": "1-left-ribbon-primary-navigation-hub",
+              "line_number": 64,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2️⃣ Right Ribbon (Contextual Tools)",
+              "anchor": "2-right-ribbon-contextual-tools",
+              "line_number": 91,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3️⃣ Title Bar (Global Actions)",
+              "anchor": "3-title-bar-global-actions",
+              "line_number": 114,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4️⃣ Page Header (Note-Specific Actions)",
+              "anchor": "4-page-header-note-specific-actions",
+              "line_number": 140,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5️⃣ Status Bar (Persistent Information & Quick Toggles)",
+              "anchor": "5-status-bar-persistent-information-quick-toggles",
+              "line_number": 170,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6️⃣ File Menu (Context Menu)",
+              "anchor": "6-file-menu-context-menu",
+              "line_number": 196,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🛠️ Configuration Examples: PKB Workflow Setups",
+          "anchor": "configuration-examples-pkb-workflow-setups",
+          "line_number": 220,
+          "source": "reference-guide-commander-plugin-202511192130.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "📚 Setup #1: Academic Researcher Configuration",
+              "anchor": "setup-1-academic-researcher-configuration",
+              "line_number": 227,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "✍️ Setup #2: Long-Form Writer Configuration",
+              "anchor": "setup-2-long-form-writer-configuration",
+              "line_number": 259,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🧠 Setup #3: Zettelkasten Purist Configuration",
+              "anchor": "setup-3-zettelkasten-purist-configuration",
+              "line_number": 293,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🚀 Setup #4: Rapid Capture & GTD Configuration",
+              "anchor": "setup-4-rapid-capture-gtd-configuration",
+              "line_number": 327,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🔬 Setup #5: Technical Documentation & Code Notes",
+              "anchor": "setup-5-technical-documentation-code-notes",
+              "line_number": 369,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚡ Advanced Techniques",
+          "anchor": "advanced-techniques",
+          "line_number": 402,
+          "source": "reference-guide-commander-plugin-202511192130.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Technique #1: Workspace-Specific Command Profiles",
+              "anchor": "technique-1-workspace-specific-command-profiles",
+              "line_number": 407,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Technique #2: Progressive Disclosure Command Hierarchy",
+              "anchor": "technique-2-progressive-disclosure-command-hierarchy",
+              "line_number": 422,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Technique #3: Mobile-Desktop Command Bifurcation",
+              "anchor": "technique-3-mobile-desktop-command-bifurcation",
+              "line_number": 437,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Technique #4: Integration with Hotkey System",
+              "anchor": "technique-4-integration-with-hotkey-system",
+              "line_number": 459,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔧 Installation & Configuration Workflow",
+          "anchor": "installation-configuration-workflow",
+          "line_number": 473,
+          "source": "reference-guide-commander-plugin-202511192130.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Step 1: Install Commander",
+              "anchor": "step-1-install-commander",
+              "line_number": 478,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Step 2: Plan Your Command Architecture",
+              "anchor": "step-2-plan-your-command-architecture",
+              "line_number": 485,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Step 3: Configure Interface Locations",
+              "anchor": "step-3-configure-interface-locations",
+              "line_number": 496,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Step 4: Organize & Refine",
+              "anchor": "step-4-organize-refine",
+              "line_number": 507,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🚨 Limitations & Troubleshooting",
+          "anchor": "limitations-troubleshooting",
+          "line_number": 516,
+          "source": "reference-guide-commander-plugin-202511192130.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔗 Plugin Integration Strategies",
+          "anchor": "plugin-integration-strategies",
+          "line_number": 550,
+          "source": "reference-guide-commander-plugin-202511192130.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Essential Plugin Pairings",
+              "anchor": "essential-plugin-pairings",
+              "line_number": 555,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Advanced Integration: Custom Commands via QuickAdd",
+              "anchor": "advanced-integration-custom-commands-via-quickadd",
+              "line_number": 567,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📊 Optimization: Measuring Command Utility",
+          "anchor": "optimization-measuring-command-utility",
+          "line_number": 583,
+          "source": "reference-guide-commander-plugin-202511192130.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Audit Checklist (Quarterly Review)",
+              "anchor": "audit-checklist-quarterly-review",
+              "line_number": 588,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎓 Learning Curve & Adoption Strategy",
+          "anchor": "learning-curve-adoption-strategy",
+          "line_number": 606,
+          "source": "reference-guide-commander-plugin-202511192130.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Recommended Adoption Path",
+              "anchor": "recommended-adoption-path",
+              "line_number": 611,
+              "source": "reference-guide-commander-plugin-202511192130.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🧭 Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 641,
+      "source": "reference-guide-commander-plugin-202511192130.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Untitled",
+        "body": "**Commander** is a powerful [[obsidian]] plugin that revolutionizes [[User Interface Customization]] by enabling users to add, organize, and manage commands across every major interface element. Developed by phibr0 and designed by John Morabito, Commander consolidates functionality from multiple legacy plugins into a unified command management system. It transforms the default Obsidian interface into a personalized [[Workflow Optimization]] environment tailored to individual [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] needs.",
+        "line_number": 36,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 695,
+        "char_end": 1287
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Commander** allows users to place any Obsidian command—whether core, plugin-based, or custom—into six distinct UI locations: the **Left Ribbon**, **Right Ribbon**, **Title Bar**, **Page Header**, **Status Bar**, and **File Menu (Context Menu)**. Each command can be customized with unique icons, renamed for clarity, reordered for priority, and configured to appear on specific devices (desktop-only, mobile-only, or both).",
+        "line_number": 43,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 1318,
+        "char_end": 1762
+      },
+      {
+        "type": "core-principle",
+        "title": "Untitled",
+        "body": "Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal Knowledge Base]]. Strategic command placement reduces [[Context Switching]] overhead, minimizes [[Cognitive Load]], and creates spatial memory anchors for frequently-used workflows.",
+        "line_number": 61,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 2648,
+        "char_end": 2937
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Ideal Commands for PKB Workflows:**\n- **Core Navigation**: \n  - `Open Quick Switcher`\n  - `Open Graph View`\n  - `Search in all files`\n  - `Open Random Note` (for serendipitous discovery)\n- **Daily Operations**:\n  - `Open Today's Daily Note`\n  - `Create New Note`\n  - `Toggle Reading View/Edit Mode`\n- **Plugin Integration**:\n  - [[dataview]]: `Open Dataview Query Sandbox`\n  - [[Templater]]: `Insert Template`\n  - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]: Quick capture macros\n- **PKB Maintenance**:\n  - `Open Settings`\n  - `Sync with Remote Vault` (if using Obsidian Sync)",
+        "line_number": 68,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 3063,
+        "char_end": 3735
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Recommended PKB Setup:**\n- **Knowledge Graph Visualization**:\n  - `Open Local Graph` (see connections for current note)\n  - `Open Outline` (see document structure)\n- **Reference Management**:\n  - `Open Backlinks Pane`\n  - `Open Outgoing Links`\n- **Advanced Views**:\n  - [[canvas]] workspace toggles\n  - Database views (if using Dataview or similar)\n- **Specialized Workflows**:\n  - `Execute Code Block` (for technical notes)\n  - `Render Diagram` (Mermaid, Excalidraw integrations)",
+        "line_number": 95,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 4038,
+        "char_end": 4575
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**PKB-Optimized Configuration:**\n- **Workspace Management**:\n  - `Load Workspace: Research`\n  - `Load Workspace: Writing`\n  - `Load Workspace: Daily Review`\n- **System-Level Operations**:\n  - `Toggle Dark/Light Mode`\n  - `Vault Statistics` (word count, note count)\n  - `Open Plugin Management`\n- **Quick Access Portals**:\n  - `Open [[MOC]] Hub`\n  - `Open Inbox/Capture Note`\n  - `Navigate to Dashboard`",
+        "line_number": 118,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 4838,
+        "char_end": 5295
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "The Title Bar is especially valuable on **mobile devices** where screen real estate is limited. Place commands here that you need accessible regardless of which note is open.",
+        "line_number": 133,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 5296,
+        "char_end": 5490
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Essential Note Operations:**\n- **Metadata Management**:\n  - `Insert Frontmatter Template`\n  - `Update Modification Date`\n  - `Generate Auto-Tags` (if using tag automation)\n- **Note Transformation**:\n  - `Export to PDF`\n  - `Copy Obsidian URL`\n  - `Publish to Web` (if using Obsidian Publish)\n- **[[Zettelkasten]] Workflows**:\n  - `Create Linked Note from Selection`\n  - `Insert Backlink Reference`\n  - `Generate Note Summary` (if using AI plugins)\n- **Review & Refinement**:\n  - `Check Spelling`\n  - `Format Document`\n  - `Run Linter` (if using Linter plugin)",
+        "line_number": 144,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 5780,
+        "char_end": 6404
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "Page Header commands create a \"note editing studio\" that follows you from document to document, reducing the need to open [[Command Palette]] for routine operations.",
+        "line_number": 163,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 6405,
+        "char_end": 6586
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**PKB Monitoring & Controls:**\n- **Vault Statistics**:\n  - Word count indicators\n  - Character count (useful for social media drafts)\n  - Reading time estimates\n- **Mode Toggles**:\n  - `Toggle Vim Mode` (for Vim users)\n  - `Toggle Distraction-Free Mode`\n  - `Toggle Spellcheck`\n- **Plugin Controls**:\n  - [[Tasks]]: `Show Due Tasks`\n  - [[Day Planner]]: `Open Today's Schedule`\n  - Calendar integration toggles",
+        "line_number": 174,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 6938,
+        "char_end": 7403
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Status Bar Clutter Risk**: Many plugins auto-populate the Status Bar. Use Commander's **Hide Commands** feature to remove unwanted indicators and maintain a clean interface.",
+        "line_number": 189,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 7404,
+        "char_end": 7595
+      },
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**File Management Commands:**\n- **Batch Operations**:\n  - `Apply Template to File`\n  - `Move to Archive Folder`\n  - `Add to Literature Note Queue`\n- **Metadata Enrichment**:\n  - `Generate Backlinks Section`\n  - `Update File Index`\n  - `Analyze Note Connections` (if using graph analysis tools)\n- **Export & Sharing**:\n  - `Convert to Markdown Variant`\n  - `Generate Public Share Link`\n  - `Send to External App` (integration with note-taking ecosystem)",
+        "line_number": 200,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 7906,
+        "char_end": 8413
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "File Menu customization is particularly valuable for **organizational workflows** where specific actions need to be applied to multiple notes or folders systematically.",
+        "line_number": 215,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 8414,
+        "char_end": 8600
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "These pre-designed configurations represent **opinionated workflows** for different PKB use cases. Adapt them to your specific needs by mixing and matching commands across setups.",
+        "line_number": 222,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 8657,
+        "char_end": 8856
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Left Ribbon Commands:**\n1. 📖 `Open Today's Reading Log` (Daily Note variant)\n2. 🔍 `Search Citations` (Dataview query)\n3. 🌐 `Open Literature MOC`\n4. 📝 `Create New Literature Note` (Templater-enabled)\n5. 🔗 `Open Graph View`\n\n**Page Header Commands:**\n6. 📄 `Insert Citation` (Zotero/BibTeX integration)\n7. 🏷️ `Add Research Tags`\n8. 🔖 `Generate Backlinks Summary`\n9. 📤 `Export to LaTeX`\n\n**Status Bar Commands:**\n10. 📊 `Show Reference Count`\n11. ⏱️ `Reading Time Estimate`\n12. ✅ `Toggle Reading Mode`\n\n**File Menu Commands:**\n13. 📋 `Convert to Atomic Note`\n14. 🗂️ `Move to Research Archive`\n15. 🔄 `Update Citation Metadata`",
+        "line_number": 231,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 9011,
+        "char_end": 9706
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Left Ribbon Commands:**\n1. 📝 `New Writing Session` (Daily Note variant)\n2. 📚 `Open Writing Projects MOC`\n3. 🎯 `Focus Mode Toggle`\n4. 📊 `Word Count Dashboard`\n5. 🗓️ `Open Writing Calendar`\n\n**Title Bar Commands:**\n6. 🌓 `Toggle Dark/Light Mode`\n7. 📁 `Load Workspace: Draft`\n8. 📁 `Load Workspace: Edit`\n9. 📁 `Load Workspace: Publish`\n\n**Page Header Commands:**\n10. 📄 `Export to DOCX`\n11. 📄 `Export to PDF`\n12. 🔍 `Find & Replace in Document`\n13. 📝 `Insert Scene Break`\n14. ✏️ `Hemingway Editor Analysis` (external tool integration)\n\n**Status Bar Commands:**\n15. 📊 `Current Draft: Word Count`\n16. 🎯 `Daily Writing Goal Progress`\n17. ⏱️ `Session Timer`",
+        "line_number": 263,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 9970,
+        "char_end": 10696
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Left Ribbon Commands:**\n1. ⚡ `Create Atomic Note` (Templater macro)\n2. 🔗 `Link Current Note to…` (Quick Switcher variant)\n3. 🌐 `Open Local Graph`\n4. 📇 `Open [[Zettelkasten]] Index`\n5. 🔍 `Search by Tag Structure`\n\n**Page Header Commands:**\n6. 🔖 `Add Zettel ID` (timestamp-based unique identifier)\n7. 🔗 `Insert [[Wiki-Link]] from Selection`\n8. 📝 `Split Note Into Atomics` (custom macro)\n9. 🏷️ `Suggest Related Tags`\n10. 🧭 `Find Orphaned Backlinks`\n\n**Right Ribbon Commands:**\n11. 🔙 `Show Incoming Links`\n12. 🔜 `Show Outgoing Links`\n13. 📊 `Analyze Note Connections`\n14. 🎨 `Visualize Note Cluster`\n\n**File Menu Commands:**\n15. 🔄 `Merge Notes & Preserve Links`\n16. 🗂️ `Archive & Redirect Links`\n17. 🔍 `Audit Link Integrity`",
+        "line_number": 297,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 10974,
+        "char_end": 11772
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Left Ribbon Commands:**\n1. 📥 `Capture to Inbox` ([[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] macro)\n2. ✅ `Open Task Dashboard`\n3. 🗓️ `Open Today's Daily Note`\n4. 🎯 `Open Weekly Review`\n5. 🔍 `Search Open Tasks`\n\n**Title Bar Commands:**\n6. 📁 `Workspace: Capture`\n7. 📁 `Workspace: Process`\n8. 📁 `Workspace: Review`\n9. 🔄 `Sync Vault Now`\n\n**Page Header Commands:**\n10. ☑️ `Convert to Task`\n11. 🏷️ `Add Project Tag`\n12. 📅 `Set Due Date`\n13. 🗂️ `Move to Project Folder`\n14. 🔗 `Link to Active Project`\n\n**Status Bar Commands:**\n15. ✅ `Tasks Due Today: [Count]`\n16. ⚠️ `Overdue Tasks: [Count]`\n17. 📊 `Inbox Items: [Count]`\n\n**File Menu Commands:**\n18. ✅ `Mark as Processed`\n19. 🗂️ `Quick Archive`\n20. 🔄 `Convert to Permanent Note`",
+        "line_number": 331,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 12069,
+        "char_end": 12911
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "This setup pairs exceptionally well with [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] for capture templates, [[Tasks]] plugin for task management, and [[dataview]] for automated task queries. Use [[Templater]] to auto-populate metadata during capture.",
+        "line_number": 362,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 12912,
+        "char_end": 13213
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Left Ribbon Commands:**\n1. 💻 `Create Code Note` (template with syntax highlighting)\n2. 📚 `Open Technical MOC`\n3. 🔍 `Search Code Blocks`\n4. 🌐 `Open API Reference Index`\n5. 🛠️ `Plugin Development Workspace`\n\n**Page Header Commands:**\n6. 📋 `Insert Code Block` (language selector)\n7. 🎨 `Apply Syntax Highlighting`\n8. 🔗 `Link to Documentation`\n9. 📤 `Export as Gist`\n10. ✅ `Validate Code Syntax` (if using linter plugins)\n\n**Right Ribbon Commands:**\n11. 🧪 `Execute Code` (if using Execute Code plugin)\n12. 📊 `View Mermaid Diagram`\n13. 🔄 `Refresh External References`\n\n**File Menu Commands:**\n14. 📂 `Move to Code Archive`\n15. 🔖 `Tag as Reference Implementation`\n16. 🔄 `Update Version Metadata`",
+        "line_number": 373,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 13547,
+        "char_end": 14311
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "These power-user strategies leverage Commander's flexibility to create **compound workflows** that integrate multiple plugins and custom commands.",
+        "line_number": 404,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 14440,
+        "char_end": 14602
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Implementation:**\n1. Create separate Workspaces: `Writing`, `Research`, `Review`, `Admin`\n2. Within each Workspace, configure Commander commands specific to that context\n3. Use Title Bar to place Workspace switchers for rapid context transitions\n4. **Result**: Commands auto-adapt to your current cognitive mode, reducing decision fatigue",
+        "line_number": 411,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 14770,
+        "char_end": 15134
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Left Ribbon** (daily use): 4-5 core commands  \n**Page Header** (frequent use): 5-7 contextual commands  \n**Status Bar** (occasional use): 3-4 toggles  \n**File Menu** (rare use): 6-8 batch operations  \n**Right Ribbon** (analysis mode only): Specialized visualization tools",
+        "line_number": 426,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 15619,
+        "char_end": 15916
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Untitled",
+        "body": "**Mobile Strategy:**\n- **Limit to 8-10 total commands** across all locations\n- Prioritize **capture** and **review** over editing\n- Heavy use of Title Bar and Page Header (visible during note interaction)\n- Avoid Right Ribbon entirely (screen real estate constraint)\n\n**Desktop Strategy:**\n- **Expand to 25-30 commands** across all locations\n- Include **analysis**, **visualization**, and **automation** tools\n- Utilize full interface spectrum including ribbons and status bar\n- Add batch operation commands to File Menu",
+        "line_number": 441,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 16261,
+        "char_end": 16833
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Sync Consideration**: Commander settings sync via Obsidian Sync or Git, so device-specific configurations require manual management. Use descriptive command names (e.g., \"Mobile: Quick Capture\" vs. \"Desktop: Advanced Capture\") to maintain clarity.",
+        "line_number": 454,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 16834,
+        "char_end": 17099
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Dual-Access Strategy:**\n- **Visual Learners**: Click commands in Commander-configured locations\n- **Keyboard Ninjas**: Use hotkeys for the same commands\n- **Result**: Accommodates different user preferences without forcing a single interaction model",
+        "line_number": 463,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 17259,
+        "char_end": 17532
+      },
+      {
+        "type": "how-to-use-this",
+        "title": "Untitled",
+        "body": "Follow this step-by-step process to implement Commander in your [[Personal Knowledge Base]].",
+        "line_number": 475,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 17954,
+        "char_end": 18070
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Before configuring**, spend 15-30 minutes analyzing your actual workflow patterns. Use **Command Tracker** plugin (if available) to identify your most-used commands, or manually note which commands you trigger via Command Palette most frequently.",
+        "line_number": 487,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 18314,
+        "char_end": 18582
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Known Constraints:**",
+        "line_number": 518,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 19627,
+        "char_end": 19665
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Untitled",
+        "body": "**Troubleshooting Common Issues:**\n\n**Problem**: Command added but doesn't appear in interface  \n**Solution**: Restart Obsidian. Commander sometimes requires reload to populate UI elements.\n\n**Problem**: Too many commands create visual clutter  \n**Solution**: Use \"Hide Commands\" feature for native commands, then strategically add back only essentials.\n\n**Problem**: Icons not displaying correctly  \n**Solution**: Manually select icon from Commander settings. Some commands default to text labels.",
+        "line_number": 536,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 20825,
+        "char_end": 21361
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "Commander's true power emerges when paired with complementary plugins that extend Obsidian's command ecosystem.",
+        "line_number": 552,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 21403,
+        "char_end": 21544
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Creating a \"Process Inbox\" Super-Command:**\n\n1. In [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]], create a macro that:\n   - Opens your Inbox note\n   - Runs a Dataview query showing unprocessed items\n   - Prompts for tagging/moving actions\n2. Add this macro as a command to Commander's Left Ribbon\n3. **Result**: One-click workflow that would normally require 5+ manual steps",
+        "line_number": 569,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 22459,
+        "char_end": 22894
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "To maintain an efficient Commander setup, periodically audit command usage and remove low-value additions.",
+        "line_number": 585,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 23046,
+        "char_end": 23168
+      },
+      {
+        "type": "question",
+        "title": "Untitled",
+        "body": "For each Commander-configured command, ask:\n\n1. **Frequency**: Have I used this in the past 30 days?\n2. **Efficiency**: Does this save more time than using Command Palette?\n3. **Discoverability**: Would a hotkey be more effective?\n4. **Context**: Is this command still relevant to my current workflows?",
+        "line_number": 590,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 23209,
+        "char_end": 23538
+      },
+      {
+        "type": "the-philosophy",
+        "title": "Untitled",
+        "body": "Commander introduces cognitive overhead during initial setup but pays dividends through reduced friction once configured. Approach adoption strategically to avoid setup paralysis.",
+        "line_number": 608,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 23842,
+        "char_end": 24044
+      },
+      {
+        "type": "key",
+        "title": "Untitled",
+        "body": "**Commander transforms Obsidian from a note-taking app into a *personalized knowledge environment***—one where the interface adapts to *your* cognitive patterns rather than forcing you to adapt to rigid defaults. Strategic command placement reduces friction, preserves flow states, and creates spatial memory anchors that make your PKB feel like a natural extension of thought.",
+        "line_number": 665,
+        "source": "reference-guide-commander-plugin-202511192130.md",
+        "char_start": 26585,
+        "char_end": 26974
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[obsidian]]",
+        "line_number": 37,
+        "section": "⚙️ Commander Plugin for Obsidian",
+        "context_line": "> **Commander** is a powerful [[obsidian]] plugin that revolutionizes [[User Interface Customization]] by enabling users to add, organize, and manage commands across every major interface element. Developed by phibr0 and designed by John Morabito, Commander consolidates functionality from multiple legacy plugins into a unified command management system. It transforms the default Obsidian interface into a personalized [[Workflow Optimization]] environment tailored to individual [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] needs.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "User Interface Customization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[User Interface Customization]]",
+        "line_number": 37,
+        "section": "⚙️ Commander Plugin for Obsidian",
+        "context_line": "> **Commander** is a powerful [[obsidian]] plugin that revolutionizes [[User Interface Customization]] by enabling users to add, organize, and manage commands across every major interface element. Developed by phibr0 and designed by John Morabito, Commander consolidates functionality from multiple legacy plugins into a unified command management system. It transforms the default Obsidian interface into a personalized [[Workflow Optimization]] environment tailored to individual [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] needs.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Workflow Optimization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Workflow Optimization]]",
+        "line_number": 37,
+        "section": "⚙️ Commander Plugin for Obsidian",
+        "context_line": "> **Commander** is a powerful [[obsidian]] plugin that revolutionizes [[User Interface Customization]] by enabling users to add, organize, and manage commands across every major interface element. Developed by phibr0 and designed by John Morabito, Commander consolidates functionality from multiple legacy plugins into a unified command management system. It transforms the default Obsidian interface into a personalized [[Workflow Optimization]] environment tailored to individual [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] needs.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]",
+        "line_number": 37,
+        "section": "⚙️ Commander Plugin for Obsidian",
+        "context_line": "> **Commander** is a powerful [[obsidian]] plugin that revolutionizes [[User Interface Customization]] by enabling users to add, organize, and manage commands across every major interface element. Developed by phibr0 and designed by John Morabito, Commander consolidates functionality from multiple legacy plugins into a unified command management system. It transforms the default Obsidian interface into a personalized [[Workflow Optimization]] environment tailored to individual [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] needs.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Mobile Workflow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mobile Workflow]]",
+        "line_number": 53,
+        "section": "Key Capabilities",
+        "context_line": "4. **Device-Specific Configuration**: Toggle command visibility per device for optimized [[Mobile Workflow]] and [[Desktop Workflow]] experiences",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Desktop Workflow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Desktop Workflow]]",
+        "line_number": 53,
+        "section": "Key Capabilities",
+        "context_line": "4. **Device-Specific Configuration**: Toggle command visibility per device for optimized [[Mobile Workflow]] and [[Desktop Workflow]] experiences",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Personal Knowledge Base",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Base]]",
+        "line_number": 62,
+        "section": "🗺️ Interface Elements & Use Cases",
+        "context_line": "> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal Knowledge Base]]. Strategic command placement reduces [[Context Switching]] overhead, minimizes [[Cognitive Load]], and creates spatial memory anchors for frequently-used workflows.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Context Switching",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Context Switching]]",
+        "line_number": 62,
+        "section": "🗺️ Interface Elements & Use Cases",
+        "context_line": "> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal Knowledge Base]]. Strategic command placement reduces [[Context Switching]] overhead, minimizes [[Cognitive Load]], and creates spatial memory anchors for frequently-used workflows.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Cognitive Load",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load]]",
+        "line_number": 62,
+        "section": "🗺️ Interface Elements & Use Cases",
+        "context_line": "> Each UI element serves distinct cognitive and ergonomic purposes within a [[Personal Knowledge Base]]. Strategic command placement reduces [[Context Switching]] overhead, minimizes [[Cognitive Load]], and creates spatial memory anchors for frequently-used workflows.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[dataview]]",
+        "line_number": 80,
+        "section": "1️⃣ Left Ribbon (Primary Navigation Hub)",
+        "context_line": ">   - [[dataview]]: `Open Dataview Query Sandbox`",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 81,
+        "section": "1️⃣ Left Ribbon (Primary Navigation Hub)",
+        "context_line": ">   - [[Templater]]: `Insert Template`",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]",
+        "line_number": 82,
+        "section": "1️⃣ Left Ribbon (Primary Navigation Hub)",
+        "context_line": ">   - [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]: Quick capture macros",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "canvas",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[canvas]]",
+        "line_number": 104,
+        "section": "2️⃣ Right Ribbon (Contextual Tools)",
+        "context_line": ">   - [[canvas]] workspace toggles",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[MOC]]",
+        "line_number": 129,
+        "section": "3️⃣ Title Bar (Global Actions)",
+        "context_line": ">   - `Open [[MOC]] Hub`",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 154,
+        "section": "4️⃣ Page Header (Note-Specific Actions)",
+        "context_line": "> - **[[Zettelkasten]] Workflows**:",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Command Palette",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Command Palette]]",
+        "line_number": 164,
+        "section": "4️⃣ Page Header (Note-Specific Actions)",
+        "context_line": "> Page Header commands create a \"note editing studio\" that follows you from document to document, reducing the need to open [[Command Palette]] for routine operations.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 166,
+        "section": "4️⃣ Page Header (Note-Specific Actions)",
+        "context_line": "**Configuration Strategy**: Tailor to your note-taking methodology—[[Zettelkasten]] practitioners prioritize linking commands, while long-form writers emphasize formatting and export tools.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks]]",
+        "line_number": 185,
+        "section": "5️⃣ Status Bar (Persistent Information & Quick Toggles)",
+        "context_line": ">   - [[Tasks]]: `Show Due Tasks`",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Day Planner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Day Planner]]",
+        "line_number": 186,
+        "section": "5️⃣ Status Bar (Persistent Information & Quick Toggles)",
+        "context_line": ">   - [[Day Planner]]: `Open Today's Schedule`",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "File Explorer",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[File Explorer]]",
+        "line_number": 198,
+        "section": "6️⃣ File Menu (Context Menu)",
+        "context_line": "**Function**: Right-click menu appearing on files and folders in the [[File Explorer]].",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Literature Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Literature Notes]]",
+        "line_number": 229,
+        "section": "📚 Setup #1: Academic Researcher Configuration",
+        "context_line": "**Philosophy**: Optimize for [[Literature Notes]], citation management, and knowledge synthesis.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 302,
+        "section": "🧠 Setup #3: Zettelkasten Purist Configuration",
+        "context_line": "> 4. 📇 `Open [[Zettelkasten]] Index`",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Wiki-Link",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Wiki-Link]]",
+        "line_number": 307,
+        "section": "🧠 Setup #3: Zettelkasten Purist Configuration",
+        "context_line": "> 7. 🔗 `Insert [[Wiki-Link]] from Selection`",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Capture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Capture]]",
+        "line_number": 329,
+        "section": "🚀 Setup #4: Rapid Capture & GTD Configuration",
+        "context_line": "**Philosophy**: Minimize friction for [[Capture]] workflows, integrate [[Tasks]] management, process inbox efficiently.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks]]",
+        "line_number": 329,
+        "section": "🚀 Setup #4: Rapid Capture & GTD Configuration",
+        "context_line": "**Philosophy**: Minimize friction for [[Capture]] workflows, integrate [[Tasks]] management, process inbox efficiently.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]",
+        "line_number": 333,
+        "section": "🚀 Setup #4: Rapid Capture & GTD Configuration",
+        "context_line": "> 1. 📥 `Capture to Inbox` ([[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] macro)",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]",
+        "line_number": 363,
+        "section": "🚀 Setup #4: Rapid Capture & GTD Configuration",
+        "context_line": "> This setup pairs exceptionally well with [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] for capture templates, [[Tasks]] plugin for task management, and [[dataview]] for automated task queries. Use [[Templater]] to auto-populate metadata during capture.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks]]",
+        "line_number": 363,
+        "section": "🚀 Setup #4: Rapid Capture & GTD Configuration",
+        "context_line": "> This setup pairs exceptionally well with [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] for capture templates, [[Tasks]] plugin for task management, and [[dataview]] for automated task queries. Use [[Templater]] to auto-populate metadata during capture.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[dataview]]",
+        "line_number": 363,
+        "section": "🚀 Setup #4: Rapid Capture & GTD Configuration",
+        "context_line": "> This setup pairs exceptionally well with [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] for capture templates, [[Tasks]] plugin for task management, and [[dataview]] for automated task queries. Use [[Templater]] to auto-populate metadata during capture.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 363,
+        "section": "🚀 Setup #4: Rapid Capture & GTD Configuration",
+        "context_line": "> This setup pairs exceptionally well with [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] for capture templates, [[Tasks]] plugin for task management, and [[dataview]] for automated task queries. Use [[Templater]] to auto-populate metadata during capture.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Technical Writing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Technical Writing]]",
+        "line_number": 371,
+        "section": "🔬 Setup #5: Technical Documentation & Code Notes",
+        "context_line": "**Philosophy**: Support [[Technical Writing]], code snippet management, and [[API Documentation]] workflows.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "API Documentation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[API Documentation]]",
+        "line_number": 371,
+        "section": "🔬 Setup #5: Technical Documentation & Code Notes",
+        "context_line": "**Philosophy**: Support [[Technical Writing]], code snippet management, and [[API Documentation]] workflows.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "workspace",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[workspace]]",
+        "line_number": 409,
+        "section": "Technique #1: Workspace-Specific Command Profiles",
+        "context_line": "**Concept**: Use Commander in conjunction with [[workspace]] feature to create context-dependent command sets.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]",
+        "line_number": 418,
+        "section": "Technique #1: Workspace-Specific Command Profiles",
+        "context_line": "**Technical Note**: Commander settings are vault-global, not workspace-specific. Achieve this effect by using conditional commands from plugins like [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] or custom CSS that shows/hides elements based on workspace state.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Cognitive Load",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load]]",
+        "line_number": 433,
+        "section": "Technique #2: Progressive Disclosure Command Hierarchy",
+        "context_line": "This creates a natural [[Cognitive Load]] management system where common operations are spatially accessible, while advanced features remain discoverable without cluttering the interface.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "hotkeys",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[hotkeys]]",
+        "line_number": 461,
+        "section": "Technique #4: Integration with Hotkey System",
+        "context_line": "**Concept**: Combine Commander visual commands with [[hotkeys]] to create multi-modal access patterns.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+        "line_number": 469,
+        "section": "Technique #4: Integration with Hotkey System",
+        "context_line": "**Best Practice**: Assign hotkeys to your top 10-15 most-used commands, then place those *same* commands in Commander locations for mouse-based access. This redundancy supports [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] of hotkey learning—users can click initially, gradually transitioning to keyboard shortcuts as muscle memory develops.",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Personal Knowledge Base",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Base]]",
+        "line_number": 476,
+        "section": "🔧 Installation & Configuration Workflow",
+        "context_line": "> Follow this step-by-step process to implement Commander in your [[Personal Knowledge Base]].",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]",
+        "line_number": 559,
+        "section": "Essential Plugin Pairings",
+        "context_line": "| [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]] | Add QuickAdd capture macros to Left Ribbon for one-click note creation |",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 560,
+        "section": "Essential Plugin Pairings",
+        "context_line": "| [[Templater]] | Place template insertion commands in Page Header for context-aware note scaffolding |",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[dataview]]",
+        "line_number": 561,
+        "section": "Essential Plugin Pairings",
+        "context_line": "| [[dataview]] | Add custom Dataview query execution commands to Right Ribbon for instant data analysis |",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks]]",
+        "line_number": 562,
+        "section": "Essential Plugin Pairings",
+        "context_line": "| [[Tasks]] | Populate Status Bar with task count indicators and quick task creation commands |",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "workspace",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[workspace]]",
+        "line_number": 563,
+        "section": "Essential Plugin Pairings",
+        "context_line": "| [[workspace]] | Use Title Bar for workspace switchers, creating mode-based command profiles |",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Hotkey Helper",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Hotkey Helper]]",
+        "line_number": 564,
+        "section": "Essential Plugin Pairings",
+        "context_line": "| [[Hotkey Helper]] | Combine visual Commander buttons with keyboard shortcuts for multi-modal access |",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Custom CSS",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Custom CSS]]",
+        "line_number": 565,
+        "section": "Essential Plugin Pairings",
+        "context_line": "| [[Custom CSS]] | Style Commander buttons to match your theme or create visual command groupings |",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]",
+        "line_number": 572,
+        "section": "Advanced Integration: Custom Commands via QuickAdd",
+        "context_line": "> 1. In [[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]], create a macro that:",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "hotkeys",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[hotkeys]]",
+        "line_number": 602,
+        "section": "Audit Checklist (Quarterly Review)",
+        "context_line": "- Consider creating [[hotkeys]] for commands used 5+ times per day",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Command Palette",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Command Palette]]",
+        "line_number": 615,
+        "section": "Recommended Adoption Path",
+        "context_line": "- Use [[Command Palette]] normally, noting which commands you invoke repeatedly",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Command Palette Optimization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Command Palette Optimization]]",
+        "line_number": 643,
+        "section": "🧭 Further Exploration",
+        "context_line": "1. **[[Command Palette Optimization]]**",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Workflow Optimization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Workflow Optimization]]",
+        "line_number": 646,
+        "section": "🧭 Further Exploration",
+        "context_line": "- *Knowledge Graph Role*: Bridges UI customization with [[Workflow Optimization]] and [[Cognitive Load]] management",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Cognitive Load",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load]]",
+        "line_number": 646,
+        "section": "🧭 Further Exploration",
+        "context_line": "- *Knowledge Graph Role*: Bridges UI customization with [[Workflow Optimization]] and [[Cognitive Load]] management",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Workspace Architecture in Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Workspace Architecture in Obsidian]]",
+        "line_number": 648,
+        "section": "🧭 Further Exploration",
+        "context_line": "2. **[[Workspace Architecture in Obsidian]]**",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Context Switching",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Context Switching]]",
+        "line_number": 651,
+        "section": "🧭 Further Exploration",
+        "context_line": "- *Knowledge Graph Role*: Connects to [[Context Switching]], [[Attention Management]], and [[Flow State]] concepts",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Attention Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attention Management]]",
+        "line_number": 651,
+        "section": "🧭 Further Exploration",
+        "context_line": "- *Knowledge Graph Role*: Connects to [[Context Switching]], [[Attention Management]], and [[Flow State]] concepts",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Flow State",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Flow State]]",
+        "line_number": 651,
+        "section": "🧭 Further Exploration",
+        "context_line": "- *Knowledge Graph Role*: Connects to [[Context Switching]], [[Attention Management]], and [[Flow State]] concepts",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "QuickAdd Macro Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[QuickAdd Macro Development]]",
+        "line_number": 653,
+        "section": "🧭 Further Exploration",
+        "context_line": "3. **[[QuickAdd Macro Development]]**",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Automation]]",
+        "line_number": 656,
+        "section": "🧭 Further Exploration",
+        "context_line": "- *Knowledge Graph Role*: Links [[Automation]], [[Template Systems]], and [[Capture Workflows]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Template Systems",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Template Systems]]",
+        "line_number": 656,
+        "section": "🧭 Further Exploration",
+        "context_line": "- *Knowledge Graph Role*: Links [[Automation]], [[Template Systems]], and [[Capture Workflows]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Capture Workflows",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Capture Workflows]]",
+        "line_number": 656,
+        "section": "🧭 Further Exploration",
+        "context_line": "- *Knowledge Graph Role*: Links [[Automation]], [[Template Systems]], and [[Capture Workflows]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Mobile PKB Workflows",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mobile PKB Workflows]]",
+        "line_number": 658,
+        "section": "🧭 Further Exploration",
+        "context_line": "4. **[[Mobile PKB Workflows]]**",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Cross-Platform Knowledge Work",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cross-Platform Knowledge Work]]",
+        "line_number": 661,
+        "section": "🧭 Further Exploration",
+        "context_line": "- *Knowledge Graph Role*: Relates to [[Cross-Platform Knowledge Work]], [[Ubiquitous Capture]], and [[Interface Design]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Ubiquitous Capture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ubiquitous Capture]]",
+        "line_number": 661,
+        "section": "🧭 Further Exploration",
+        "context_line": "- *Knowledge Graph Role*: Relates to [[Cross-Platform Knowledge Work]], [[Ubiquitous Capture]], and [[Interface Design]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Interface Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Interface Design]]",
+        "line_number": 661,
+        "section": "🧭 Further Exploration",
+        "context_line": "- *Knowledge Graph Role*: Relates to [[Cross-Platform Knowledge Work]], [[Ubiquitous Capture]], and [[Interface Design]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Command Palette",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Command Palette]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Workspace",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Workspace]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Hotkeys",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Hotkeys]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Custom CSS",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Custom CSS]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Plugin Ecosystem",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Plugin Ecosystem]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Ribbon",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ribbon]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Status Bar",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Status Bar]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Mobile Workflow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mobile Workflow]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Desktop Workflow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Desktop Workflow]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Quick Switcher",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Quick Switcher]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "File Explorer",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[File Explorer]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Graph View",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Graph View]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Daily Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daily Notes]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Templates",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templates]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "QuickAdd",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[QuickAdd]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[MOC]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Management]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "User Interface Customization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[User Interface Customization]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Workflow Optimization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Workflow Optimization]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "target": "Context Switching",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Context Switching]]",
+        "line_number": 699,
+        "section": "🧭 Further Exploration",
+        "context_line": "[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]",
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "⚙️ Commander Plugin for Obsidian",
+        "anchor": "commander-plugin-for-obsidian",
+        "line_number": 34,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Core Functionality",
+        "anchor": "core-functionality",
+        "line_number": 41,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Key Capabilities",
+        "anchor": "key-capabilities",
+        "line_number": 46,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 2,
+        "text": "🗺️ Interface Elements & Use Cases",
+        "anchor": "interface-elements-use-cases",
+        "line_number": 59,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "1️⃣ Left Ribbon (Primary Navigation Hub)",
+        "anchor": "1-left-ribbon-primary-navigation-hub",
+        "line_number": 64,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "2️⃣ Right Ribbon (Contextual Tools)",
+        "anchor": "2-right-ribbon-contextual-tools",
+        "line_number": 91,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "3️⃣ Title Bar (Global Actions)",
+        "anchor": "3-title-bar-global-actions",
+        "line_number": 114,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "4️⃣ Page Header (Note-Specific Actions)",
+        "anchor": "4-page-header-note-specific-actions",
+        "line_number": 140,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "5️⃣ Status Bar (Persistent Information & Quick Toggles)",
+        "anchor": "5-status-bar-persistent-information-quick-toggles",
+        "line_number": 170,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "6️⃣ File Menu (Context Menu)",
+        "anchor": "6-file-menu-context-menu",
+        "line_number": 196,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 2,
+        "text": "🛠️ Configuration Examples: PKB Workflow Setups",
+        "anchor": "configuration-examples-pkb-workflow-setups",
+        "line_number": 220,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "📚 Setup #1: Academic Researcher Configuration",
+        "anchor": "setup-1-academic-researcher-configuration",
+        "line_number": 227,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "✍️ Setup #2: Long-Form Writer Configuration",
+        "anchor": "setup-2-long-form-writer-configuration",
+        "line_number": 259,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "🧠 Setup #3: Zettelkasten Purist Configuration",
+        "anchor": "setup-3-zettelkasten-purist-configuration",
+        "line_number": 293,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "🚀 Setup #4: Rapid Capture & GTD Configuration",
+        "anchor": "setup-4-rapid-capture-gtd-configuration",
+        "line_number": 327,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "🔬 Setup #5: Technical Documentation & Code Notes",
+        "anchor": "setup-5-technical-documentation-code-notes",
+        "line_number": 369,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 2,
+        "text": "⚡ Advanced Techniques",
+        "anchor": "advanced-techniques",
+        "line_number": 402,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Technique #1: Workspace-Specific Command Profiles",
+        "anchor": "technique-1-workspace-specific-command-profiles",
+        "line_number": 407,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Technique #2: Progressive Disclosure Command Hierarchy",
+        "anchor": "technique-2-progressive-disclosure-command-hierarchy",
+        "line_number": 422,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Technique #3: Mobile-Desktop Command Bifurcation",
+        "anchor": "technique-3-mobile-desktop-command-bifurcation",
+        "line_number": 437,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Technique #4: Integration with Hotkey System",
+        "anchor": "technique-4-integration-with-hotkey-system",
+        "line_number": 459,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 2,
+        "text": "🔧 Installation & Configuration Workflow",
+        "anchor": "installation-configuration-workflow",
+        "line_number": 473,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Step 1: Install Commander",
+        "anchor": "step-1-install-commander",
+        "line_number": 478,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Step 2: Plan Your Command Architecture",
+        "anchor": "step-2-plan-your-command-architecture",
+        "line_number": 485,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Step 3: Configure Interface Locations",
+        "anchor": "step-3-configure-interface-locations",
+        "line_number": 496,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Step 4: Organize & Refine",
+        "anchor": "step-4-organize-refine",
+        "line_number": 507,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 2,
+        "text": "🚨 Limitations & Troubleshooting",
+        "anchor": "limitations-troubleshooting",
+        "line_number": 516,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Plugin Integration Strategies",
+        "anchor": "plugin-integration-strategies",
+        "line_number": 550,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Essential Plugin Pairings",
+        "anchor": "essential-plugin-pairings",
+        "line_number": 555,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Advanced Integration: Custom Commands via QuickAdd",
+        "anchor": "advanced-integration-custom-commands-via-quickadd",
+        "line_number": 567,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Optimization: Measuring Command Utility",
+        "anchor": "optimization-measuring-command-utility",
+        "line_number": 583,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Audit Checklist (Quarterly Review)",
+        "anchor": "audit-checklist-quarterly-review",
+        "line_number": 588,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 2,
+        "text": "🎓 Learning Curve & Adoption Strategy",
+        "anchor": "learning-curve-adoption-strategy",
+        "line_number": 606,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 3,
+        "text": "Recommended Adoption Path",
+        "anchor": "recommended-adoption-path",
+        "line_number": 611,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      },
+      {
+        "level": 1,
+        "text": "🧭 Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 641,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "<thinking>\n**REQUEST CLASSIFICATION:**\n- Type: comprehensive_note (reference note on Obsidian plugin)\n- Scope: reference (exhaustive coverage with practical configurations)\n- Research Required: YES - Need current information about Commander plugin features, best practices, and recent updates post-January 2025 cutoff\n- Note Type: Reference Note (technical guide)\n\n**RESEARCH PLAN:**\n1. Current Commander plugin capabilities and features\n2. Interface customization options\n3. Command palette integration\n4. Workspace-specific configurations\n5. Best practices for PKB workflows\n6. Common use cases and power-user setups\n7. Integration with other Obsidian plugins\n8. Recent updates or changes to the plugin\n\n**STRUCTURAL PLANNING:**\nInformation Architecture:\n1. Overview & Core Functionality\n2. Interface Elements (ribbons, status bar, etc.)\n3. Command Configuration System\n4. PKB-Optimized Setups (multiple configurations)\n5. Advanced Techniques\n6. Troubleshooting & Limitations\n7. Integration Strategies\n8. Further Exploration\n\n**WIKI-LINK OPPORTUNITIES:**\n[[Obsidian]], [[Command Palette]], [[Workspace]], [[Hotkeys]], [[Custom CSS]], [[Plugin Ecosystem]], [[Ribbon]], [[Status Bar]], [[Mobile Workflow]], [[Desktop Workflow]], [[Quick Switcher]], [[File Explorer]], [[Graph View]], [[Daily Notes]], [[Templates]], [[Dataview]], [[Templater]], [[QuickAdd]], [[Zettelkasten]], [[MOC]], [[Personal Knowledge Management]], [[User Interface Customization]], [[Workflow Optimization]], [[Context Switching]]\n\n**CALLOUT STRATEGY:**\n- [!definition] for plugin overview\n- [!core-principle] for design philosophy\n- [!methodology-and-sources] for configuration instructions\n- [!use-cases-and-examples] for PKB setups\n- [!helpful-tip] for optimization tips\n- [!warning] for limitations/caveats\n- [!what-this-does] for feature explanations\n- [!example] for concrete configurations\n- [!important] for critical workflow elements\n- [!insight] for power-user discoveries\n\n**METADATA PLANNING:**\nTags: #obsidian #plugin #commander #ui-customization #workflow-optimization #reference-note\nAliases: [Commander Plugin, Obsidian Commander, UI Customization Plugin, Command Bar Plugin]\n\nExecuting web search for current Commander plugin information…\n</thinking>\nI'll search for current information about the Commander plugin to ensure this reference note includes the latest features and best practices.Now I have sufficient research to create a comprehensive reference note on the Commander plugin. Let me construct this with detailed configuration examples for PKB workflows.",
+        "line_start": 669,
+        "line_end": 720,
+        "char_count": 2556,
+        "line_count": 50,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Plugin",
+          "Integration Use Case"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "[[component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738]]",
+            "Add QuickAdd capture macros to Left Ribbon for one-click note creation"
+          ],
+          [
+            "[[Templater]]",
+            "Place template insertion commands in Page Header for context-aware note scaffolding"
+          ],
+          [
+            "[[dataview]]",
+            "Add custom Dataview query execution commands to Right Ribbon for instant data analysis"
+          ],
+          [
+            "[[Tasks]]",
+            "Populate Status Bar with task count indicators and quick task creation commands"
+          ],
+          [
+            "[[workspace]]",
+            "Use Title Bar for workspace switchers, creating mode-based command profiles"
+          ],
+          [
+            "[[Hotkey Helper]]",
+            "Combine visual Commander buttons with keyboard shortcuts for multi-modal access"
+          ],
+          [
+            "[[Custom CSS]]",
+            "Style Commander buttons to match your theme or create visual command groupings"
+          ]
+        ],
+        "line_start": 557,
+        "row_count": 7,
+        "source": "reference-guide-commander-plugin-202511192130.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Command Placement**: Add any available command to multiple interface locations simultaneously",
+          "indent_level": 0,
+          "line_number": 49,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Visual Customization**: Select from Obsidian's internal icon library and Feather Icons for command buttons",
+          "indent_level": 0,
+          "line_number": 51,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Command Management**: Rename, reorder, duplicate, or delete commands through an intuitive settings interface",
+          "indent_level": 0,
+          "line_number": 52,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Device-Specific Configuration**: Toggle command visibility per device for optimized [[Mobile Workflow]] and [[Desktop Workflow]] experiences",
+          "indent_level": 0,
+          "line_number": 53,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Native Command Hiding**: Conceal unwanted default commands in the Left Ribbon and Status Bar without disabling functionality",
+          "indent_level": 0,
+          "line_number": 54,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Hover-to-Add Interface**: Add commands directly from interface locations using `+` icons that appear on hover",
+          "indent_level": 0,
+          "line_number": 55,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Open Obsidian Settings (`Cmd/Ctrl + ,`)",
+          "indent_level": 0,
+          "line_number": 479,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Navigate to **Community Plugins** → **Browse**",
+          "indent_level": 0,
+          "line_number": 481,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Search for \"Commander\" by phibr0",
+          "indent_level": 0,
+          "line_number": 482,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Click **Install**, then **Enable**",
+          "indent_level": 0,
+          "line_number": 483,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Open **Settings** → **Community Plugins** → **Commander**",
+          "indent_level": 0,
+          "line_number": 497,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Note the **tabbed interface** (Desktop) or **menu list** (Mobile)",
+          "indent_level": 0,
+          "line_number": 499,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Select target interface location (e.g., \"Left Ribbon\")",
+          "indent_level": 0,
+          "line_number": 500,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Click **\"Add Command\"** button",
+          "indent_level": 0,
+          "line_number": 501,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Search for desired command in the modal",
+          "indent_level": 0,
+          "line_number": 502,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Select command → Choose icon (optional)",
+          "indent_level": 0,
+          "line_number": 503,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Rename command for clarity (optional)",
+          "indent_level": 0,
+          "line_number": 504,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Toggle device visibility if needed",
+          "indent_level": 0,
+          "line_number": 505,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Performance Impact**: Adding 30+ commands across all locations *may* cause slight UI lag on older devices. Monitor performance and prune unused commands.",
+          "indent_level": 0,
+          "line_number": 520,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Icon Availability**: Not all commands have default icons. Some may display as text-only buttons unless you manually assign icons from the Feather Icons library.",
+          "indent_level": 0,
+          "line_number": 522,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Mobile Screen Real Estate**: Mobile interfaces have limited space. Over-populating ribbons or headers creates scrolling/navigation issues. Recommended maximum:",
+          "indent_level": 0,
+          "line_number": 524,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Plugin Command Availability**: Commander can only access commands *after* plugins are loaded. If a plugin hasn't finished initializing, its commands won't appear in Commander's selection modal.",
+          "indent_level": 0,
+          "line_number": 529,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**No Per-Workspace Settings**: Commander is vault-global, not workspace-specific. You cannot have different command sets auto-load with workspaces without custom CSS/JS solutions.",
+          "indent_level": 0,
+          "line_number": 531,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Sync Conflicts**: If using Obsidian Sync across devices with different Commander configs, the most recent edit wins. This can cause confusion if you maintain separate mobile/desktop setups.",
+          "indent_level": 0,
+          "line_number": 533,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**[[Command Palette Optimization]]**",
+          "indent_level": 0,
+          "line_number": 642,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**[[Workspace Architecture in Obsidian]]**",
+          "indent_level": 0,
+          "line_number": 647,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**[[QuickAdd Macro Development]]**",
+          "indent_level": 0,
+          "line_number": 652,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**[[Mobile PKB Workflows]]**",
+          "indent_level": 0,
+          "line_number": 657,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "Which commands do I use 10+ times per day?",
+          "indent_level": 0,
+          "line_number": 491,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Which operations are currently friction-heavy (requiring multiple clicks)?",
+          "indent_level": 0,
+          "line_number": 492,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Which commands are vault-wide vs. note-specific?",
+          "indent_level": 0,
+          "line_number": 493,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Do I need different configurations for mobile vs. desktop?",
+          "indent_level": 0,
+          "line_number": 494,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Reorder commands**: Drag and drop within settings",
+          "indent_level": 0,
+          "line_number": 508,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Hide native commands**: Use \"Hide Commands\" section for Left Ribbon and Status Bar",
+          "indent_level": 0,
+          "line_number": 510,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Test workflow**: Exit settings and evaluate real-world usage",
+          "indent_level": 0,
+          "line_number": 511,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "**Iterate**: Remove unused commands weekly; add new ones as needs evolve",
+          "indent_level": 0,
+          "line_number": 512,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Left Ribbon: 5 commands",
+          "indent_level": 1,
+          "line_number": 526,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Title Bar: 3 commands",
+          "indent_level": 1,
+          "line_number": 527,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Page Header: 4 commands",
+          "indent_level": 1,
+          "line_number": 528,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Remove commands unused for 90+ days",
+          "indent_level": 0,
+          "line_number": 599,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Demote infrequent commands from Left Ribbon to File Menu",
+          "indent_level": 0,
+          "line_number": 600,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Promote frequently-used File Menu commands to more accessible locations",
+          "indent_level": 0,
+          "line_number": 601,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Consider creating [[hotkeys]] for commands used 5+ times per day",
+          "indent_level": 0,
+          "line_number": 602,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Install Commander but don't configure yet",
+          "indent_level": 0,
+          "line_number": 614,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Use [[Command Palette]] normally, noting which commands you invoke repeatedly",
+          "indent_level": 0,
+          "line_number": 615,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Take notes on friction points in current workflow",
+          "indent_level": 0,
+          "line_number": 616,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Add 3-5 commands to Left Ribbon only",
+          "indent_level": 0,
+          "line_number": 619,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Focus on your absolute highest-frequency actions",
+          "indent_level": 0,
+          "line_number": 620,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Use this limited setup for 7 days without additions",
+          "indent_level": 0,
+          "line_number": 621,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Add 3-4 commands to Page Header for note-specific operations",
+          "indent_level": 0,
+          "line_number": 624,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Add 2-3 Title Bar commands for workspace switching",
+          "indent_level": 0,
+          "line_number": 625,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Continue using this setup without further changes",
+          "indent_level": 0,
+          "line_number": 626,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Evaluate what's working; remove unused commands",
+          "indent_level": 0,
+          "line_number": 629,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Add 2-3 Status Bar or Right Ribbon commands if needed",
+          "indent_level": 0,
+          "line_number": 630,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Configure File Menu for batch operations",
+          "indent_level": 0,
+          "line_number": 631,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Finalize initial configuration",
+          "indent_level": 0,
+          "line_number": 632,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Add new commands only when you've consciously thought \"I wish this was in my ribbon\" 3+ times",
+          "indent_level": 0,
+          "line_number": 635,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Remove commands if you forget they exist for 2+ weeks",
+          "indent_level": 0,
+          "line_number": 636,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "Adjust based on evolving PKB needs",
+          "indent_level": 0,
+          "line_number": 637,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Connection*: Commander reduces reliance on Command Palette but doesn't replace it—learn when each tool excels",
+          "indent_level": 1,
+          "line_number": 644,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Depth Potential*: Explore command frequency analysis and hotkey assignment strategies",
+          "indent_level": 1,
+          "line_number": 645,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Bridges UI customization with [[Workflow Optimization]] and [[Cognitive Load]] management",
+          "indent_level": 1,
+          "line_number": 646,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Connection*: Workspaces and Commander create synergistic context-switching systems",
+          "indent_level": 1,
+          "line_number": 649,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Depth Potential*: Design mode-specific workspaces (Research, Writing, Review) with optimized command profiles",
+          "indent_level": 1,
+          "line_number": 650,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Connects to [[Context Switching]], [[Attention Management]], and [[Flow State]] concepts",
+          "indent_level": 1,
+          "line_number": 651,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Connection*: QuickAdd creates custom commands that Commander can surface in UI",
+          "indent_level": 1,
+          "line_number": 654,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Depth Potential*: Build compound workflows that chain multiple actions into single-click operations",
+          "indent_level": 1,
+          "line_number": 655,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Links [[Automation]], [[Template Systems]], and [[Capture Workflows]]",
+          "indent_level": 1,
+          "line_number": 656,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Connection*: Commander's device-specific settings enable optimized mobile experiences",
+          "indent_level": 1,
+          "line_number": 659,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Depth Potential*: Explore capture-focused mobile configs vs. desktop's creation-focused setups",
+          "indent_level": 1,
+          "line_number": 660,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Relates to [[Cross-Platform Knowledge Work]], [[Ubiquitous Capture]], and [[Interface Design]]",
+          "indent_level": 1,
+          "line_number": 661,
+          "source": "reference-guide-commander-plugin-202511192130.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+      "API Documentation",
+      "Attention Management",
+      "Automation",
+      "Capture",
+      "Capture Workflows",
+      "Cognitive Load",
+      "Command Palette",
+      "Command Palette Optimization",
+      "Context Switching",
+      "Cross-Platform Knowledge Work",
+      "Custom CSS",
+      "Daily Notes",
+      "Dataview",
+      "Day Planner",
+      "Desktop Workflow",
+      "File Explorer",
+      "Flow State",
+      "Graph View",
+      "Hotkey Helper",
+      "Hotkeys",
+      "Interface Design",
+      "Literature Notes",
+      "MOC",
+      "Mobile PKB Workflows",
+      "Mobile Workflow",
+      "Obsidian",
+      "Personal Knowledge Base",
+      "Personal Knowledge Management",
+      "Plugin Ecosystem",
+      "Quick Switcher",
+      "QuickAdd",
+      "QuickAdd Macro Development",
+      "Ribbon",
+      "Status Bar",
+      "Tasks",
+      "Technical Writing",
+      "Template Systems",
+      "Templater",
+      "Templates",
+      "Ubiquitous Capture",
+      "User Interface Customization",
+      "Wiki-Link",
+      "Workflow Optimization",
+      "Workspace",
+      "Workspace Architecture in Obsidian",
+      "Zettelkasten",
+      "canvas",
+      "component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738",
+      "dataview",
+      "hotkeys",
+      "obsidian",
+      "workspace"
+    ],
+    "unique_wiki_link_count": 54,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+      "API Documentation",
+      "Attention Management",
+      "Automation",
+      "Capture",
+      "Capture Workflows",
+      "Cognitive Load",
+      "Command Palette",
+      "Command Palette Optimization",
+      "Context Switching",
+      "Cross-Platform Knowledge Work",
+      "Custom CSS",
+      "Daily Notes",
+      "Dataview",
+      "Day Planner",
+      "Desktop Workflow",
+      "File Explorer",
+      "Flow State",
+      "Graph View",
+      "Hotkey Helper",
+      "Hotkeys",
+      "Interface Design",
+      "Literature Notes",
+      "MOC",
+      "Mobile PKB Workflows",
+      "Mobile Workflow",
+      "Obsidian",
+      "Personal Knowledge Base",
+      "Personal Knowledge Management",
+      "Plugin Ecosystem",
+      "Quick Switcher",
+      "QuickAdd",
+      "QuickAdd Macro Development",
+      "Ribbon",
+      "Status Bar",
+      "Tasks",
+      "Technical Writing",
+      "Template Systems",
+      "Templater",
+      "Templates",
+      "Ubiquitous Capture",
+      "User Interface Customization",
+      "Wiki-Link",
+      "Workflow Optimization",
+      "Workspace",
+      "Workspace Architecture in Obsidian",
+      "Zettelkasten",
+      "canvas",
+      "component-exemplar-quickadd-plugin-documentation-v1.0.0-20251119225738",
+      "dataview",
+      "hotkeys",
+      "obsidian",
+      "workspace"
+    ]
+  }
+}

@@ -1,0 +1,967 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:46.746683",
+    "source_file": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reports\\pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+    "source_file_size_bytes": 19034,
+    "processing_time_seconds": 0.004
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Core Principles Creating Durable and Discoverable Knowledge Assets",
+      "id": "20251120092741",
+      "type": "pkb/pkm/report",
+      "status": "not-read",
+      "source": "[URG005_OFZJFO0S2O]",
+      "created": "undefined",
+      "year": "[[2025]]",
+      "tags": [
+        "pkm",
+        "project/pur3v4d3r",
+        "year/2025",
+        "self-improvement",
+        "pkb/metadata/frontmatter",
+        "pkb/maintenance/refactoring",
+        "pkb/maintenance/cleanup"
+      ],
+      "aliases": [
+        "Content Context Metadata,Durable Knowledge Principles,Knowledge Asset Management,The PKM Triad"
+      ],
+      "link-up": [
+        "[[project-pur3v4d3r-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-20|Daily-Note]]"
+      ]
+    },
+    "word_count": 2922,
+    "character_count": 18403,
+    "line_count": 189,
+    "heading_count": 14
+  },
+  "extraction_summary": {
+    "total_items_extracted": 91,
+    "by_type": {
+      "headings": 14,
+      "callouts": 9,
+      "wiki_links": 21,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 10,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 17,
+      "lists_unordered": 20,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "🗒️ Abstract",
+      "anchor": "abstract",
+      "line_number": 31,
+      "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🚀 Introduction",
+      "anchor": "introduction",
+      "line_number": 37,
+      "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🔎 Foundational Principles – “Why?”: The Problem of a Broken Triad",
+      "anchor": "foundational-principles-why-the-problem-of-a-broken-triad",
+      "line_number": 48,
+      "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Failure Mode 1: Content Without Context or Metadata",
+          "anchor": "failure-mode-1-content-without-context-or-metadata",
+          "line_number": 61,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Failure Mode 2: Metadata Without Meaningful Content",
+          "anchor": "failure-mode-2-metadata-without-meaningful-content",
+          "line_number": 65,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Failure Mode 3: Content and Metadata Without Context",
+          "anchor": "failure-mode-3-content-and-metadata-without-context",
+          "line_number": 69,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "⚙️ Mechanisms & Processes – “How?”: Deconstructing the Triad",
+      "anchor": "mechanisms-processes-how-deconstructing-the-triad",
+      "line_number": 78,
+      "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "3.1 The Architecture of Content: Ensuring Durability",
+          "anchor": "31-the-architecture-of-content-ensuring-durability",
+          "line_number": 82,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "3.2 The Power of Context: Ensuring Meaning",
+          "anchor": "32-the-power-of-context-ensuring-meaning",
+          "line_number": 116,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "3.3 The Engine of Metadata: Ensuring Discoverability",
+          "anchor": "33-the-engine-of-metadata-ensuring-discoverability",
+          "line_number": 132,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🌌 Broader Implications – “So What?”: The Symbiotic Synthesis",
+      "anchor": "broader-implications-so-what-the-symbiotic-synthesis",
+      "line_number": 157,
+      "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "🧭 Conclusion: From Digital Hoard to Knowledge Garden",
+      "anchor": "conclusion-from-digital-hoard-to-knowledge-garden",
+      "line_number": 181,
+      "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "❓ Active-Reading Prompts",
+      "anchor": "active-reading-prompts",
+      "line_number": 195,
+      "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "📚 References",
+      "anchor": "references",
+      "line_number": 205,
+      "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "pre-read-questions",
+        "title": "Untitled",
+        "body": "1. What is my current biggest frustration with my note-taking system? Is it finding notes (discoverability) or understanding them once I do (durability)?\n1. What do I mean by \"Context\" in my own system? Is it just folders, or is it something deeper?\n1. How do I currently use Metadata (like tags or YAML)? Is it systematic or chaotic?",
+        "line_number": 26,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+        "char_start": 564,
+        "char_end": 929
+      },
+      {
+        "type": "definition",
+        "title": "Untitled",
+        "body": "**Durable Knowledge:** A knowledge asset (note) that remains intelligible, relevant, and useful long after its original creation. Its value is independent of the fleeting context in which it was captured, as its core principles are articulated clearly and linked to other foundational concepts.",
+        "line_number": 45,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+        "char_start": 3961,
+        "char_end": 4274
+      },
+      {
+        "type": "analogy",
+        "title": "Untitled",
+        "body": "**The Library Analogy:** Think of your knowledge base as a massive, personal library.\n\n- **Content** is the actual text written on the pages of a book.\n- **Context** is the book's *location*—the fact that it's on the \"19th Century Philosophy\" shelf, sitting between Kant and Hegel, and its internal bibliography that references Hume.\n- **Metadata** is the card catalog entry—the structured data (Author, Title, Publication Date, Subject Headings, Dewey Decimal Number) that allows you to find the book from the central index, even if you've forgotten where it is on the shelves.\n\nA library with *only* content (books piled randomly on the floor) is unusable. A library with *only* metadata (a perfect card catalog but empty shelves) is a farce. A library with *only* context (books perfectly arranged on shelves but with no card catalog) is only useful if you already know *exactly* where to look. A functional library—like a functional knowledge base—requires all three.",
+        "line_number": 52,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+        "char_start": 4652,
+        "char_end": 5650
+      },
+      {
+        "type": "question",
+        "title": "Untitled",
+        "body": "*Self-Check:* Look at the last three notes I created. Which of these three failure modes do they most closely resemble? Am I creating orphans, empty shells, or isolated lists?",
+        "line_number": 73,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+        "char_start": 7309,
+        "char_end": 7501
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "**Bad Content (Source-First Note):**\n\n> **Title:** `Ahrens (2017) Summary`\n> \"Luhmann’s Zettelkasten is not a mere collection of notes... it's a partner. The key is to connect ideas, not just collect them. Use bi-directional links. Write in your own words. This is how you create a 'second brain'.\"\n\n**Good Content (Atomic, Concept-First Note):**\n\n> **Title:** `Knowledge Systems Function as Conversational Partners, Not Just Archives`\n>\n> Sönke Ahrens argues that the true power of a system like Luhmann's Zettelkasten is not in its storage capacity, but in its ability to generate unexpected connections.\n>\n> By focusing on linking (`[[Atomicity Allows for Precise Linking]]`) and writing in one's own words (`[[Processing Ideas Creates Durable Knowledge]]`), the system becomes a 'conversational partner'. When reviewing or adding new notes, the existing network of linked ideas provides feedback, surfaces contradictions, and suggests new lines of inquiry. It moves the user from being a passive *collector* to an active *thinker*.\n>\n> **Source:** `[[bib/Ahrens_2017_HowToTakeSmartNotes]]`",
+        "line_number": 100,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+        "char_start": 9781,
+        "char_end": 10913
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "**A Link is an Argument:** A link should not be a lazy reference. The text surrounding the link should explain *why* the link is being made.\n\n- **Weak Context:** \"I learned about `[[Focal Length vs Perspective]]`.\"\n- **Strong Context:** \"The common myth that focal length changes perspective is false; as I detailed in `[[Focal Length vs Perspective]]`, your *position* is the only thing that governs perspective.\"",
+        "line_number": 126,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+        "char_start": 12210,
+        "char_end": 12647
+      },
+      {
+        "type": "counter-argument",
+        "title": "Untitled",
+        "body": "**Tags vs. Links: The Great Debate**\n\n- **Use Links for *Conceptual* Connection:** Link to `[[Plato]]` if your note is *directly* arguing with or building upon Plato's ideas. The link is *part of the content*.\n- **Use Tags for *Thematic* Grouping:** Tag `#philosophy` to group this note with other philosophy notes, even if they don't *directly* talk to each other. The tag is a *label*, not part of the content.\n\nA common mistake is to tag `#plato`. This is brittle. If you change the tag, you've created a new, separate group. Linking to the *note* `[[Plato]]` is robust. You can then tag the `[[Plato]]` note itself, and all context is preserved.",
+        "line_number": 147,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+        "char_start": 14164,
+        "char_end": 14847
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "The long-term value of a knowledge system is not the sum of its parts, but the *product* of their interaction. A system with a score of 0 in any of the three categories (Content, Context, or Metadata) has a total value of 0.",
+        "line_number": 176,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+        "char_start": 16265,
+        "char_end": 16507
+      },
+      {
+        "type": "review-pool",
+        "title": "Untitled",
+        "body": "- What is the single biggest change I can make to my note-creation *process* today to improve one of the three triad components?\n- How would I design a \"Map of Content\" (MOC) for my most important current project? What atomic notes would it link to?\n- My current metadata (tags, YAML) is likely inconsistent. What would be a simple, \"good-enough\" system I could apply *from this point forward*?\n- Pick one \"orphaned note\" from my system. How can I revive it by adding robust Context (links) and Metadata (tags/YAML)?\n- How would I explain the \"Library Analogy\" to someone who has never heard of PKM? Does the analogy hold up for my own system?\n- What is the conceptual difference between a `[[Link]]` and a `#tag`, and how have I been misusing them?",
+        "line_number": 197,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md",
+        "char_start": 17588,
+        "char_end": 18367
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Einstein's Field Equations",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Einstein's Field Equations]]",
+        "line_number": 71,
+        "section": "Failure Mode 3: Content and Metadata Without Context",
+        "context_line": "This is the \"list of facts\" problem. You might have 50 well-written, atomic notes, all meticulously tagged `#physics`. You can find them all. But they don't *talk to each other*. Your note on `[[Einstein's Field Equations]]` doesn't link to your note on `[[Spacetime Curvature]]` or `[[Gravitational Lensing]]`. You have a list of isolated facts, not a *network of knowledge*. This system fails at synthesis, as it forces the user to manually reconstruct the relationships between ideas every single time.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Spacetime Curvature",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Spacetime Curvature]]",
+        "line_number": 71,
+        "section": "Failure Mode 3: Content and Metadata Without Context",
+        "context_line": "This is the \"list of facts\" problem. You might have 50 well-written, atomic notes, all meticulously tagged `#physics`. You can find them all. But they don't *talk to each other*. Your note on `[[Einstein's Field Equations]]` doesn't link to your note on `[[Spacetime Curvature]]` or `[[Gravitational Lensing]]`. You have a list of isolated facts, not a *network of knowledge*. This system fails at synthesis, as it forces the user to manually reconstruct the relationships between ideas every single time.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Gravitational Lensing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Gravitational Lensing]]",
+        "line_number": 71,
+        "section": "Failure Mode 3: Content and Metadata Without Context",
+        "context_line": "This is the \"list of facts\" problem. You might have 50 well-written, atomic notes, all meticulously tagged `#physics`. You can find them all. But they don't *talk to each other*. Your note on `[[Einstein's Field Equations]]` doesn't link to your note on `[[Spacetime Curvature]]` or `[[Gravitational Lensing]]`. You have a list of isolated facts, not a *network of knowledge*. This system fails at synthesis, as it forces the user to manually reconstruct the relationships between ideas every single time.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "The Pomodoro Technique...",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Pomodoro Technique...]]",
+        "line_number": 98,
+        "section": "3.1 The Architecture of Content: Ensuring Durability",
+        "context_line": "- **Why?** A good title makes the note understandable *from the link itself*. When you link to `[[The Pomodoro Technique...]]` in another note, that link *enriches* the text, rather than just being a cryptic blue word.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Atomicity Allows for Precise Linking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Atomicity Allows for Precise Linking]]",
+        "line_number": 112,
+        "section": "3.1 The Architecture of Content: Ensuring Durability",
+        "context_line": "> > By focusing on linking (`[[Atomicity Allows for Precise Linking]]`) and writing in one's own words (`[[Processing Ideas Creates Durable Knowledge]]`), the system becomes a 'conversational partner'. When reviewing or adding new notes, the existing network of linked ideas provides feedback, surfaces contradictions, and suggests new lines of inquiry. It moves the user from being a passive *collector* to an active *thinker*.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Processing Ideas Creates Durable Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Processing Ideas Creates Durable Knowledge]]",
+        "line_number": 112,
+        "section": "3.1 The Architecture of Content: Ensuring Durability",
+        "context_line": "> > By focusing on linking (`[[Atomicity Allows for Precise Linking]]`) and writing in one's own words (`[[Processing Ideas Creates Durable Knowledge]]`), the system becomes a 'conversational partner'. When reviewing or adding new notes, the existing network of linked ideas provides feedback, surfaces contradictions, and suggests new lines of inquiry. It moves the user from being a passive *collector* to an active *thinker*.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "bib/Ahrens_2017_HowToTakeSmartNotes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[bib/Ahrens_2017_HowToTakeSmartNotes]]",
+        "line_number": 114,
+        "section": "3.1 The Architecture of Content: Ensuring Durability",
+        "context_line": "> > **Source:** `[[bib/Ahrens_2017_HowToTakeSmartNotes]]`",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Landscape Photography MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Landscape Photography MOC]]",
+        "line_number": 124,
+        "section": "3.2 The Power of Context: Ensuring Meaning",
+        "context_line": "- **Why?** As your system grows, you'll have hundreds of atomic notes. A MOC for `[[Landscape Photography MOC]]` would provide a high-level, structured overview, linking to your atomic notes on `[[Focal Length vs Perspective]]`, `[[Understanding Aperture]]`, `[[The Exposure Triangle]]`, etc. It builds context *at scale*.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Focal Length vs Perspective",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Focal Length vs Perspective]]",
+        "line_number": 124,
+        "section": "3.2 The Power of Context: Ensuring Meaning",
+        "context_line": "- **Why?** As your system grows, you'll have hundreds of atomic notes. A MOC for `[[Landscape Photography MOC]]` would provide a high-level, structured overview, linking to your atomic notes on `[[Focal Length vs Perspective]]`, `[[Understanding Aperture]]`, `[[The Exposure Triangle]]`, etc. It builds context *at scale*.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Understanding Aperture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Understanding Aperture]]",
+        "line_number": 124,
+        "section": "3.2 The Power of Context: Ensuring Meaning",
+        "context_line": "- **Why?** As your system grows, you'll have hundreds of atomic notes. A MOC for `[[Landscape Photography MOC]]` would provide a high-level, structured overview, linking to your atomic notes on `[[Focal Length vs Perspective]]`, `[[Understanding Aperture]]`, `[[The Exposure Triangle]]`, etc. It builds context *at scale*.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "The Exposure Triangle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Exposure Triangle]]",
+        "line_number": 124,
+        "section": "3.2 The Power of Context: Ensuring Meaning",
+        "context_line": "- **Why?** As your system grows, you'll have hundreds of atomic notes. A MOC for `[[Landscape Photography MOC]]` would provide a high-level, structured overview, linking to your atomic notes on `[[Focal Length vs Perspective]]`, `[[Understanding Aperture]]`, `[[The Exposure Triangle]]`, etc. It builds context *at scale*.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Focal Length vs Perspective",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Focal Length vs Perspective]]",
+        "line_number": 129,
+        "section": "3.2 The Power of Context: Ensuring Meaning",
+        "context_line": "> - **Weak Context:** \"I learned about `[[Focal Length vs Perspective]]`.\"",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Focal Length vs Perspective",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Focal Length vs Perspective]]",
+        "line_number": 130,
+        "section": "3.2 The Power of Context: Ensuring Meaning",
+        "context_line": "> - **Strong Context:** \"The common myth that focal length changes perspective is false; as I detailed in `[[Focal Length vs Perspective]]`, your *position* is the only thing that governs perspective.\"",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Plato's Cave Allegory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Plato's Cave Allegory]]",
+        "line_number": 144,
+        "section": "3.3 The Engine of Metadata: Ensuring Discoverability",
+        "context_line": "- A note on `[[Plato's Cave Allegory]]` might be tagged `#philosophy`, `#epistemology`, and `#metaphor`.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Plato",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Plato]]",
+        "line_number": 150,
+        "section": "3.3 The Engine of Metadata: Ensuring Discoverability",
+        "context_line": "> - **Use Links for *Conceptual* Connection:** Link to `[[Plato]]` if your note is *directly* arguing with or building upon Plato's ideas. The link is *part of the content*.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Plato",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Plato]]",
+        "line_number": 153,
+        "section": "3.3 The Engine of Metadata: Ensuring Discoverability",
+        "context_line": "> A common mistake is to tag `#plato`. This is brittle. If you change the tag, you've created a new, separate group. Linking to the *note* `[[Plato]]` is robust. You can then tag the `[[Plato]]` note itself, and all context is preserved.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Plato",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Plato]]",
+        "line_number": 153,
+        "section": "3.3 The Engine of Metadata: Ensuring Discoverability",
+        "context_line": "> A common mistake is to tag `#plato`. This is brittle. If you change the tag, you've created a new, separate group. Linking to the *note* `[[Plato]]` is robust. You can then tag the `[[Plato]]` note itself, and all context is preserved.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "AI Alignment Problem is a Primary Ethical Hurdle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[AI Alignment Problem is a Primary Ethical Hurdle]]",
+        "line_number": 170,
+        "section": "🌌 Broader Implications – “So What?”: The Symbiotic Synthesis",
+        "context_line": "1. You open the first note, `[[AI Alignment Problem is a Primary Ethical Hurdle]]`. The **Content** is clear and well-written.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Utilitarianism and Machine Ethics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Utilitarianism and Machine Ethics]]",
+        "line_number": 171,
+        "section": "🌌 Broader Implications – “So What?”: The Symbiotic Synthesis",
+        "context_line": "1. Inside, you see the **Context**: a link to `[[Utilitarianism and Machine Ethics]]` and another to `[[Paperclip Maximizer Thought Experiment]]`.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Paperclip Maximizer Thought Experiment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Paperclip Maximizer Thought Experiment]]",
+        "line_number": 171,
+        "section": "🌌 Broader Implications – “So What?”: The Symbiotic Synthesis",
+        "context_line": "1. Inside, you see the **Context**: a link to `[[Utilitarianism and Machine Ethics]]` and another to `[[Paperclip Maximizer Thought Experiment]]`.",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "target": "Link",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Link]]",
+        "line_number": 203,
+        "section": "❓ Active-Reading Prompts",
+        "context_line": "> - What is the conceptual difference between a `[[Link]]` and a `#tag`, and how have I been misusing them?",
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "physics",
+        "full_tag": "#physics",
+        "hierarchy": [
+          "physics"
+        ],
+        "line_number": 71,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "tag": "philosophy",
+        "full_tag": "#philosophy",
+        "hierarchy": [
+          "philosophy"
+        ],
+        "line_number": 144,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "tag": "epistemology",
+        "full_tag": "#epistemology",
+        "hierarchy": [
+          "epistemology"
+        ],
+        "line_number": 144,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "tag": "metaphor",
+        "full_tag": "#metaphor",
+        "hierarchy": [
+          "metaphor"
+        ],
+        "line_number": 144,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "tag": "philosophy",
+        "full_tag": "#philosophy",
+        "hierarchy": [
+          "philosophy"
+        ],
+        "line_number": 145,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "tag": "philosophy",
+        "full_tag": "#philosophy",
+        "hierarchy": [
+          "philosophy"
+        ],
+        "line_number": 151,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "tag": "plato",
+        "full_tag": "#plato",
+        "hierarchy": [
+          "plato"
+        ],
+        "line_number": 153,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "tag": "ai",
+        "full_tag": "#ai",
+        "hierarchy": [
+          "ai"
+        ],
+        "line_number": 168,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "tag": "ethics",
+        "full_tag": "#ethics",
+        "hierarchy": [
+          "ethics"
+        ],
+        "line_number": 168,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "tag": "tag",
+        "full_tag": "#tag",
+        "hierarchy": [
+          "tag"
+        ],
+        "line_number": 203,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "🗒️ Abstract",
+        "anchor": "abstract",
+        "line_number": 31,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 1,
+        "text": "🚀 Introduction",
+        "anchor": "introduction",
+        "line_number": 37,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 1,
+        "text": "🔎 Foundational Principles – “Why?”: The Problem of a Broken Triad",
+        "anchor": "foundational-principles-why-the-problem-of-a-broken-triad",
+        "line_number": 48,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 2,
+        "text": "Failure Mode 1: Content Without Context or Metadata",
+        "anchor": "failure-mode-1-content-without-context-or-metadata",
+        "line_number": 61,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 2,
+        "text": "Failure Mode 2: Metadata Without Meaningful Content",
+        "anchor": "failure-mode-2-metadata-without-meaningful-content",
+        "line_number": 65,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 2,
+        "text": "Failure Mode 3: Content and Metadata Without Context",
+        "anchor": "failure-mode-3-content-and-metadata-without-context",
+        "line_number": 69,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 1,
+        "text": "⚙️ Mechanisms & Processes – “How?”: Deconstructing the Triad",
+        "anchor": "mechanisms-processes-how-deconstructing-the-triad",
+        "line_number": 78,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 2,
+        "text": "3.1 The Architecture of Content: Ensuring Durability",
+        "anchor": "31-the-architecture-of-content-ensuring-durability",
+        "line_number": 82,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 2,
+        "text": "3.2 The Power of Context: Ensuring Meaning",
+        "anchor": "32-the-power-of-context-ensuring-meaning",
+        "line_number": 116,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 2,
+        "text": "3.3 The Engine of Metadata: Ensuring Discoverability",
+        "anchor": "33-the-engine-of-metadata-ensuring-discoverability",
+        "line_number": 132,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 1,
+        "text": "🌌 Broader Implications – “So What?”: The Symbiotic Synthesis",
+        "anchor": "broader-implications-so-what-the-symbiotic-synthesis",
+        "line_number": 157,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 1,
+        "text": "🧭 Conclusion: From Digital Hoard to Knowledge Garden",
+        "anchor": "conclusion-from-digital-hoard-to-knowledge-garden",
+        "line_number": 181,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 1,
+        "text": "❓ Active-Reading Prompts",
+        "anchor": "active-reading-prompts",
+        "line_number": 195,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      },
+      {
+        "level": 1,
+        "text": "📚 References",
+        "anchor": "references",
+        "line_number": 205,
+        "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Atomicity (One Idea Per Note):** This is the central principle of the Zettelkasten method. An atomic note is not defined by its *length* (it can be a sentence or five paragraphs) but by its *scope*. It should exhaust a single idea, and only that idea.",
+          "indent_level": 0,
+          "line_number": 85,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Clarity and \"Future-Proof\" Phrasing:** Write in your own words. A note that is just a quote from a source is a \"literature note,\" not a permanent \"knowledge asset.\" To make it permanent, you must process it. Ask: *What does this mean? Why does it matter? How does it connect to what I already know?*",
+          "indent_level": 0,
+          "line_number": 91,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Concept-First Titling:** A note's title (its filename) is its most important piece of metadata. Titles like \"Article_Summary\" or \"Smith_2024\" are useless. A title should be a full, declarative statement of the concept within.",
+          "indent_level": 0,
+          "line_number": 94,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Bi-Directional Linking:** This is the primary mechanism for creating context. When you write a new note, your first question should be: *What do I already know that relates to this?* You then create explicit links to those existing notes.",
+          "indent_level": 0,
+          "line_number": 119,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**MOCs (Maps of Content):** A Map of Content is a special type of note whose *only* purpose is to curate and structure links to other notes. It's a table of contents for a *concept*.",
+          "indent_level": 0,
+          "line_number": 122,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**YAML Front Matter (Structured Data):** This is the block of text at the very top of a note. It is machine-readable and perfect for data that has a single, fixed value.",
+          "indent_level": 0,
+          "line_number": 135,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Tags (Unstructured Data / Folksonomy):** Tags are for thematic grouping and \"vectors\" of thought. They answer the question: *What \"hat\" am I wearing when I think about this?*",
+          "indent_level": 0,
+          "line_number": 142,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**The \"New Project\" Workflow:** You need to write an article on \"The Ethics of AI.\"",
+          "indent_level": 0,
+          "line_number": 166,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "You start by searching your Metadata. You search for the tag `#ai` OR `type: [atomic]` AND `tag: #ethics`.",
+          "indent_level": 0,
+          "line_number": 168,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "This query surfaces 15 notes you've written over the last three years. You've *discovered* your raw materials.",
+          "indent_level": 0,
+          "line_number": 169,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "You open the first note, `[[AI Alignment Problem is a Primary Ethical Hurdle]]`. The **Content** is clear and well-written.",
+          "indent_level": 0,
+          "line_number": 170,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "Inside, you see the **Context**: a link to `[[Utilitarianism and Machine Ethics]]` and another to `[[Paperclip Maximizer Thought Experiment]]`.",
+          "indent_level": 0,
+          "line_number": 171,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "You follow these links, pulling in more concepts. The **Context** (links) *weaves* the **Content** together, forming the outline of your article.",
+          "indent_level": 0,
+          "line_number": 172,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "Ahrens, S. (2017). *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. CreateSpace Independent Publishing Platform.",
+          "indent_level": 0,
+          "line_number": 206,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "Forte, T. (2022). *Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential*. Atria Books.",
+          "indent_level": 0,
+          "line_number": 208,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "Schmidt, J. (2018). Niklas Luhmann's Card Index: The Fabrication of Serendipity. *Sociologia e Ricerca Sociale*, *3* (114), 53-60.",
+          "indent_level": 0,
+          "line_number": 209,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "Basbøll, T. (2019). *The Zettelkasten: A Reading and Writing Method*. (Available online).",
+          "indent_level": 0,
+          "line_number": 210,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "**Why?** Atomicity allows for precision in linking. You can link directly *to the idea* of \"telephoto compression\" rather than to a 20-page \"Notes on Photography\" document where that idea is buried. This makes the link's *context* far more potent.",
+          "indent_level": 2,
+          "line_number": 87,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Why?** Writing in your own words is the first step of learning. It forces you to synthesize. A quote's meaning can change depending on its original context, but your *interpretation* of that quote is a durable piece of knowledge.",
+          "indent_level": 2,
+          "line_number": 93,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Bad Title:** `Productivity Tips`",
+          "indent_level": 2,
+          "line_number": 96,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Good Title:** `The Pomodoro Technique Uses Time-Boxing to Reduce Cognitive Switching Costs`",
+          "indent_level": 2,
+          "line_number": 97,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Why?** A good title makes the note understandable *from the link itself*. When you link to `[[The Pomodoro Technique...]]` in another note, that link *enriches* the text, rather than just being a cryptic blue word.",
+          "indent_level": 2,
+          "line_number": 98,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Why?** Linking creates a conceptual \"trail.\" It situates the new idea within your existing knowledge graph. Modern tools (like Obsidian) show \"backlinks,\" allowing you to see not only what *this* note links *to*, but what *other* notes link *back* to it. This is a powerful tool for synthesis and discovery.",
+          "indent_level": 2,
+          "line_number": 121,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Why?** As your system grows, you'll have hundreds of atomic notes. A MOC for `[[Landscape Photography MOC]]` would provide a high-level, structured overview, linking to your atomic notes on `[[Focal Length vs Perspective]]`, `[[Understanding Aperture]]`, `[[The Exposure Triangle]]`, etc. It builds context *at scale*.",
+          "indent_level": 2,
+          "line_number": 124,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "`type: [report]`: What *kind* of note is this? (e.g., `[atomic]`, `[moc]`, `[person]`, `[source]`)",
+          "indent_level": 2,
+          "line_number": 137,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "`status: [in-progress]`: What is its *state*? (e.g., `[draft]`, `[evergreen]`, `[stub]`)",
+          "indent_level": 2,
+          "line_number": 138,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "`source: [bib/Ahrens_2017]`",
+          "indent_level": 2,
+          "line_number": 139,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "`aliases: [\"PKM Triad\"]`: What other names might I search for?",
+          "indent_level": 2,
+          "line_number": 140,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Why?** This structured data allows for powerful, database-like queries. You can ask your system: \"Show me all `type: [atomic]` notes with `status: [draft]`\" This is impossible with tags or links alone.",
+          "indent_level": 2,
+          "line_number": 141,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "A note on `[[Plato's Cave Allegory]]` might be tagged `#philosophy`, `#epistemology`, and `#metaphor`.",
+          "indent_level": 2,
+          "line_number": 144,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Why?** Tags are flexible and allow you to \"slice\" your knowledge base horizontally. They are excellent for discovery. \"What do I know about `#philosophy`?\" will bring up Plato, but also notes on Stoicism or logic that you may have forgotten were related.",
+          "indent_level": 2,
+          "line_number": 145,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "**Metadata** (a tag) lets you discover a note.",
+          "indent_level": 0,
+          "line_number": 160,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "You open the note and read its **Content** (the atomic idea).",
+          "indent_level": 0,
+          "line_number": 162,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "The **Context** (links) within that note then guides you to other, related ideas.",
+          "indent_level": 0,
+          "line_number": 163,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "From *collecting* to *connecting*.",
+          "indent_level": 0,
+          "line_number": 186,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "From *hoarding* to *cultivating*.",
+          "indent_level": 0,
+          "line_number": 188,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        },
+        {
+          "text": "From *writing for today* to *engineering for tomorrow*.",
+          "indent_level": 0,
+          "line_number": 189,
+          "source": "pkb-report-core-principles-for-creating-durable-and-discoverable-knowledge-assets-20251120092741.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "AI Alignment Problem is a Primary Ethical Hurdle",
+      "Atomicity Allows for Precise Linking",
+      "Einstein's Field Equations",
+      "Focal Length vs Perspective",
+      "Gravitational Lensing",
+      "Landscape Photography MOC",
+      "Link",
+      "Paperclip Maximizer Thought Experiment",
+      "Plato",
+      "Plato's Cave Allegory",
+      "Processing Ideas Creates Durable Knowledge",
+      "Spacetime Curvature",
+      "The Exposure Triangle",
+      "The Pomodoro Technique...",
+      "Understanding Aperture",
+      "Utilitarianism and Machine Ethics",
+      "bib/Ahrens_2017_HowToTakeSmartNotes"
+    ],
+    "unique_wiki_link_count": 17,
+    "unique_tags": [
+      "#ai",
+      "#epistemology",
+      "#ethics",
+      "#metaphor",
+      "#philosophy",
+      "#physics",
+      "#plato",
+      "#tag"
+    ],
+    "unique_tag_count": 8,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "AI Alignment Problem is a Primary Ethical Hurdle",
+      "Atomicity Allows for Precise Linking",
+      "Einstein's Field Equations",
+      "Focal Length vs Perspective",
+      "Gravitational Lensing",
+      "Landscape Photography MOC",
+      "Link",
+      "Paperclip Maximizer Thought Experiment",
+      "Plato",
+      "Plato's Cave Allegory",
+      "Processing Ideas Creates Durable Knowledge",
+      "Spacetime Curvature",
+      "The Exposure Triangle",
+      "The Pomodoro Technique...",
+      "Understanding Aperture",
+      "Utilitarianism and Machine Ethics",
+      "bib/Ahrens_2017_HowToTakeSmartNotes"
+    ]
+  }
+}

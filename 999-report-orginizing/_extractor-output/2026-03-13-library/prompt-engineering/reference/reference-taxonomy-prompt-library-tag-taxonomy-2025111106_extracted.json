@@ -1,0 +1,883 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:56.796419",
+    "source_file": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\03-prompt-engineering\\-reference\\reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+    "source_file_size_bytes": 15014,
+    "processing_time_seconds": 0.002
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "🏷️Comprehensive Tag Architecture for Component Classification",
+      "id": "20251111-061140",
+      "type": "⚙️reference",
+      "status": "budding",
+      "rating": "8",
+      "source": "claude-4.1-opus",
+      "url": "https://claude.ai/chat/1bf92ca7-ae99-4f39-bb7f-18b39e4c1b20",
+      "tags": [
+        "type/reference",
+        "year/2025",
+        "project/component-library",
+        "status/seedling",
+        "source/llm/claude",
+        "llm/claude",
+        "company/anthropic"
+      ],
+      "aliases": [
+        "📊Prompt-Component-Library-Tagging-Taxonomy-Reference",
+        "Prompt Component Management System Tagging",
+        "Prompt Component Library Management",
+        "Claude Desktop PKB Integration",
+        "Modular Prompt Engineering System",
+        "Prompt Librarian Methodology"
+      ],
+      "link-up": "[[20251112184555_component-librarian-claude_project]]",
+      "link-related": [
+        "[[20251110045351_claude-as-prompt-component-librarian_📚comprehensive-reference]]",
+        "[[claude-ai_comprehensive-reference-&-prompt-engineering-mastery_🆔20251110041826]]",
+        "[[20251112184555_component-librarian-claude_project]]",
+        "[[gemini-prompt-components]]",
+        "[[20251112183300_local-llm-prompt-component-librarian_📚comprehensive-reference]]"
+      ]
+    },
+    "word_count": 1206,
+    "character_count": 13893,
+    "line_count": 145,
+    "heading_count": 13
+  },
+  "extraction_summary": {
+    "total_items_extracted": 31,
+    "by_type": {
+      "headings": 13,
+      "callouts": 2,
+      "wiki_links": 3,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 3,
+      "tables": 10,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "📊 Prompt Component Library Tagging Taxonomy Reference",
+      "anchor": "prompt-component-library-tagging-taxonomy-reference",
+      "line_number": 32,
+      "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🏷️ Comprehensive Tag Architecture for Component Classification",
+          "anchor": "comprehensive-tag-architecture-for-component-classification",
+          "line_number": 34,
+          "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Primary Classification Dimensions",
+              "anchor": "primary-classification-dimensions",
+              "line_number": 36,
+              "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Operational & Lifecycle Tags",
+              "anchor": "operational-lifecycle-tags",
+              "line_number": 46,
+              "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Compatibility & Integration Tags",
+              "anchor": "compatibility-integration-tags",
+              "line_number": 56,
+              "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Semantic & Contextual Tags",
+              "anchor": "semantic-contextual-tags",
+              "line_number": 66,
+              "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Project & Organization Tags",
+              "anchor": "project-organization-tags",
+              "line_number": 76,
+              "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Performance & Metrics Tags",
+              "anchor": "performance-metrics-tags",
+              "line_number": 86,
+              "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Relationship & Composition Tags",
+              "anchor": "relationship-composition-tags",
+              "line_number": 96,
+              "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Evolution & History Tags",
+              "anchor": "evolution-history-tags",
+              "line_number": 106,
+              "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Special Purpose & Meta Tags",
+              "anchor": "special-purpose-meta-tags",
+              "line_number": 116,
+              "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Composite Tag Examples for Reference",
+              "anchor": "composite-tag-examples-for-reference",
+              "line_number": 126,
+              "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Tag Combination Rules & Best Practices",
+              "anchor": "tag-combination-rules-best-practices",
+              "line_number": 152,
+              "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "use-cases-and-examples",
+        "title": "Untitled",
+        "body": "**Complete Component Tagging Examples**\n\n**Example 1: Academic Research Persona**\n```yaml\ntags: [type/atomic, function/persona, domain/academic, complexity/advanced, \n       performance/proven, compatible/universal, usecase/analysis, \n       cognitive/evaluation, success/high-90, combines/well]\n```\n\n**Example 2: Technical Documentation Workflow**\n```yaml\ntags: [type/composite, function/workflow, domain/technical, complexity/intermediate,\n       performance/validated, platform/obsidian, tool/dataview, output/markdown,\n       strategy/chain-of-thought, project/internal, reliability/consistent]\n```\n\n**Example 3: Experimental Creative Format**\n```yaml\ntags: [type/specialized, function/format, domain/creative, complexity/expert,\n       performance/experimental, tested/pending, maintenance/active,\n       evolution/emerging, experiment/active, author/user]\n```",
+        "line_number": 128,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+        "char_start": 12031,
+        "char_end": 12969
+      },
+      {
+        "type": "quick-reference",
+        "title": "Untitled",
+        "body": "**Tag Implementation Checklist**\n- 🔑 **Essential Tags**: Type, Function, Domain (mandatory for all components)\n- 🔑 **Quality Tags**: Performance, Testing, Reliability (add after validation)\n- 🔑 **Management Tags**: Project, Priority, Author (for organization)\n- 🔑 **Evolution Tags**: Version, Modified, Evolution (for lifecycle tracking)\n- 🔑 **Integration Tags**: Compatible, Platform, Tool (for technical requirements)",
+        "line_number": 164,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md",
+        "char_start": 14147,
+        "char_end": 14600
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Prompt Component Library",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prompt Component Library]]",
+        "line_number": 172,
+        "section": "Tag Combination Rules & Best Practices",
+        "context_line": "This comprehensive tagging taxonomy provides the semantic infrastructure needed for intelligent component discovery, relationship mapping, and lifecycle management within your [[Prompt Component Library]]. Each tag dimension serves a specific organizational purpose while contributing to the overall [[Knowledge Graph]] that powers the [[Claude Librarian]] system.",
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "target": "Knowledge Graph",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Graph]]",
+        "line_number": 172,
+        "section": "Tag Combination Rules & Best Practices",
+        "context_line": "This comprehensive tagging taxonomy provides the semantic infrastructure needed for intelligent component discovery, relationship mapping, and lifecycle management within your [[Prompt Component Library]]. Each tag dimension serves a specific organizational purpose while contributing to the overall [[Knowledge Graph]] that powers the [[Claude Librarian]] system.",
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "target": "Claude Librarian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Claude Librarian]]",
+        "line_number": 172,
+        "section": "Tag Combination Rules & Best Practices",
+        "context_line": "This comprehensive tagging taxonomy provides the semantic infrastructure needed for intelligent component discovery, relationship mapping, and lifecycle management within your [[Prompt Component Library]]. Each tag dimension serves a specific organizational purpose while contributing to the overall [[Knowledge Graph]] that powers the [[Claude Librarian]] system.",
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "📊 Prompt Component Library Tagging Taxonomy Reference",
+        "anchor": "prompt-component-library-tagging-taxonomy-reference",
+        "line_number": 32,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 2,
+        "text": "🏷️ Comprehensive Tag Architecture for Component Classification",
+        "anchor": "comprehensive-tag-architecture-for-component-classification",
+        "line_number": 34,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 3,
+        "text": "Primary Classification Dimensions",
+        "anchor": "primary-classification-dimensions",
+        "line_number": 36,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 3,
+        "text": "Operational & Lifecycle Tags",
+        "anchor": "operational-lifecycle-tags",
+        "line_number": 46,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 3,
+        "text": "Compatibility & Integration Tags",
+        "anchor": "compatibility-integration-tags",
+        "line_number": 56,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 3,
+        "text": "Semantic & Contextual Tags",
+        "anchor": "semantic-contextual-tags",
+        "line_number": 66,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 3,
+        "text": "Project & Organization Tags",
+        "anchor": "project-organization-tags",
+        "line_number": 76,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 3,
+        "text": "Performance & Metrics Tags",
+        "anchor": "performance-metrics-tags",
+        "line_number": 86,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 3,
+        "text": "Relationship & Composition Tags",
+        "anchor": "relationship-composition-tags",
+        "line_number": 96,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 3,
+        "text": "Evolution & History Tags",
+        "anchor": "evolution-history-tags",
+        "line_number": 106,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 3,
+        "text": "Special Purpose & Meta Tags",
+        "anchor": "special-purpose-meta-tags",
+        "line_number": 116,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 3,
+        "text": "Composite Tag Examples for Reference",
+        "anchor": "composite-tag-examples-for-reference",
+        "line_number": 126,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "level": 3,
+        "text": "Tag Combination Rules & Best Practices",
+        "anchor": "tag-combination-rules-best-practices",
+        "line_number": 152,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "yaml",
+        "code": "> tags: [type/atomic, function/persona, domain/academic, complexity/advanced, \n>        performance/proven, compatible/universal, usecase/analysis, \n>        cognitive/evaluation, success/high-90, combines/well]\n>",
+        "line_start": 132,
+        "line_end": 136,
+        "char_count": 213,
+        "line_count": 4,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "language": "yaml",
+        "code": "> tags: [type/composite, function/workflow, domain/technical, complexity/intermediate,\n>        performance/validated, platform/obsidian, tool/dataview, output/markdown,\n>        strategy/chain-of-thought, project/internal, reliability/consistent]\n>",
+        "line_start": 139,
+        "line_end": 143,
+        "char_count": 249,
+        "line_count": 4,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "language": "yaml",
+        "code": "> tags: [type/specialized, function/format, domain/creative, complexity/expert,\n>        performance/experimental, tested/pending, maintenance/active,\n>        evolution/emerging, experiment/active, author/user]\n>",
+        "line_start": 146,
+        "line_end": 150,
+        "char_count": 213,
+        "line_count": 4,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Dimension",
+          "Tag Prefix",
+          "Examples",
+          "Purpose"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Component Type**",
+            "`type/`",
+            "`type/atomic`, `type/composite`, `type/specialized`, `type/hybrid`, `type/meta`",
+            "Structural classification of component architecture"
+          ],
+          [
+            "**Functional Category**",
+            "`function/`",
+            "`function/persona`, `function/instruction`, `function/constraint`, `function/format`, `function/workflow`",
+            "What the component does"
+          ],
+          [
+            "**Domain Specificity**",
+            "`domain/`",
+            "`domain/technical`, `domain/creative`, `domain/academic`, `domain/business`, `domain/scientific`",
+            "Field of application"
+          ],
+          [
+            "**Complexity Level**",
+            "`complexity/`",
+            "`complexity/basic`, `complexity/intermediate`, `complexity/advanced`, `complexity/expert`",
+            "Required sophistication level"
+          ],
+          [
+            "**Performance Tier**",
+            "`performance/`",
+            "`performance/validated`, `performance/experimental`, `performance/proven`, `performance/deprecated`",
+            "Reliability and testing status"
+          ]
+        ],
+        "line_start": 38,
+        "row_count": 5,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "headers": [
+          "Tag Category",
+          "Tag Format",
+          "Examples",
+          "Usage Context"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Version Status**",
+            "`version/`",
+            "`version/stable`, `version/beta`, `version/alpha`, `version/archived`, `version/latest`",
+            "Component version tracking"
+          ],
+          [
+            "**Testing State**",
+            "`tested/`",
+            "`tested/unit`, `tested/integration`, `tested/production`, `tested/pending`",
+            "Quality assurance status"
+          ],
+          [
+            "**Maintenance**",
+            "`maintenance/`",
+            "`maintenance/active`, `maintenance/legacy`, `maintenance/sunset`, `maintenance/critical`",
+            "Support and update status"
+          ],
+          [
+            "**Usage Frequency**",
+            "`usage/`",
+            "`usage/daily`, `usage/weekly`, `usage/rare`, `usage/deprecated`",
+            "Activity level tracking"
+          ],
+          [
+            "**Dependencies**",
+            "`depends/`",
+            "`depends/none`, `depends/minimal`, `depends/complex`, `depends/circular`",
+            "Relationship complexity"
+          ]
+        ],
+        "line_start": 48,
+        "row_count": 5,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "headers": [
+          "Tag System",
+          "Pattern",
+          "Examples",
+          "Application"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Model Compatibility**",
+            "`compatible/`",
+            "`compatible/claude-3`, `compatible/gpt-4`, `compatible/universal`, `compatible/specialized`",
+            "AI model specificity"
+          ],
+          [
+            "**Platform Integration**",
+            "`platform/`",
+            "`platform/obsidian`, `platform/notion`, `platform/roam`, `platform/generic`",
+            "Knowledge base compatibility"
+          ],
+          [
+            "**Tool Integration**",
+            "`tool/`",
+            "`tool/dataview`, `tool/templater`, `tool/quickadd`, `tool/mcp`",
+            "Plugin/tool dependencies"
+          ],
+          [
+            "**Language Support**",
+            "`lang/`",
+            "`lang/english`, `lang/multilingual`, `lang/technical`, `lang/natural`",
+            "Language requirements"
+          ],
+          [
+            "**Output Format**",
+            "`output/`",
+            "`output/markdown`, `output/json`, `output/yaml`, `output/plaintext`",
+            "Expected output structure"
+          ]
+        ],
+        "line_start": 58,
+        "row_count": 5,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "headers": [
+          "Classification",
+          "Tag Structure",
+          "Examples",
+          "Semantic Purpose"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Use Case**",
+            "`usecase/`",
+            "`usecase/analysis`, `usecase/generation`, `usecase/transformation`, `usecase/validation`",
+            "Task-specific application"
+          ],
+          [
+            "**Cognitive Level**",
+            "`cognitive/`",
+            "`cognitive/recall`, `cognitive/analysis`, `cognitive/synthesis`, `cognitive/evaluation`",
+            "Bloom's taxonomy alignment"
+          ],
+          [
+            "**Interaction Mode**",
+            "`interaction/`",
+            "`interaction/conversational`, `interaction/command`, `interaction/collaborative`, `interaction/autonomous`",
+            "Engagement pattern"
+          ],
+          [
+            "**Prompt Strategy**",
+            "`strategy/`",
+            "`strategy/chain-of-thought`, `strategy/few-shot`, `strategy/zero-shot`, `strategy/recursive`",
+            "Prompting methodology"
+          ],
+          [
+            "**Content Type**",
+            "`content/`",
+            "`content/technical`, `content/narrative`, `content/analytical`, `content/creative`",
+            "Output content nature"
+          ]
+        ],
+        "line_start": 68,
+        "row_count": 5,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "headers": [
+          "Organization Level",
+          "Tag Prefix",
+          "Examples",
+          "Management Purpose"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Project Assignment**",
+            "`project/`",
+            "`project/client-a`, `project/research`, `project/internal`, `project/template`",
+            "Project allocation"
+          ],
+          [
+            "**Team Access**",
+            "`team/`",
+            "`team/public`, `team/private`, `team/restricted`, `team/archived`",
+            "Access control"
+          ],
+          [
+            "**Priority Level**",
+            "`priority/`",
+            "`priority/critical`, `priority/high`, `priority/medium`, `priority/low`",
+            "Importance ranking"
+          ],
+          [
+            "**Review Status**",
+            "`review/`",
+            "`review/pending`, `review/approved`, `review/needs-revision`, `review/rejected`",
+            "Quality control"
+          ],
+          [
+            "**Owner/Author**",
+            "`author/`",
+            "`author/system`, `author/user`, `author/team`, `author/ai-generated`",
+            "Attribution tracking"
+          ]
+        ],
+        "line_start": 78,
+        "row_count": 5,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "headers": [
+          "Metric Type",
+          "Tag Pattern",
+          "Examples",
+          "Measurement Focus"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Success Rate**",
+            "`success/`",
+            "`success/high-90`, `success/medium-70`, `success/low-50`, `success/untested`",
+            "Performance brackets"
+          ],
+          [
+            "**Speed Rating**",
+            "`speed/`",
+            "`speed/instant`, `speed/fast`, `speed/moderate`, `speed/slow`",
+            "Execution efficiency"
+          ],
+          [
+            "**Token Efficiency**",
+            "`tokens/`",
+            "`tokens/minimal`, `tokens/efficient`, `tokens/moderate`, `tokens/verbose`",
+            "Token usage optimization"
+          ],
+          [
+            "**Reliability Score**",
+            "`reliability/`",
+            "`reliability/consistent`, `reliability/variable`, `reliability/unstable`, `reliability/unknown`",
+            "Output consistency"
+          ],
+          [
+            "**Complexity Cost**",
+            "`cost/`",
+            "`cost/low`, `cost/medium`, `cost/high`, `cost/premium`",
+            "Resource requirements"
+          ]
+        ],
+        "line_start": 88,
+        "row_count": 5,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "headers": [
+          "Relationship Type",
+          "Tag Format",
+          "Examples",
+          "Graph Purpose"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Combination Pattern**",
+            "`combines/`",
+            "`combines/well`, `combines/conditional`, `combines/poorly`, `combines/never`",
+            "Composition compatibility"
+          ],
+          [
+            "**Parent Components**",
+            "`parent/`",
+            "`parent/framework-x`, `parent/template-y`, `parent/none`",
+            "Hierarchical tracking"
+          ],
+          [
+            "**Child Components**",
+            "`child/`",
+            "`child/atomic-a`, `child/atomic-b`, `child/multiple`",
+            "Dependency mapping"
+          ],
+          [
+            "**Sibling Components**",
+            "`sibling/`",
+            "`sibling/alternative`, `sibling/complementary`, `sibling/exclusive`",
+            "Lateral relationships"
+          ],
+          [
+            "**Cluster Membership**",
+            "`cluster/`",
+            "`cluster/research`, `cluster/creative`, `cluster/technical`, `cluster/hybrid`",
+            "Group associations"
+          ]
+        ],
+        "line_start": 98,
+        "row_count": 5,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "headers": [
+          "Historical Aspect",
+          "Tag Scheme",
+          "Examples",
+          "Tracking Purpose"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Origin Date**",
+            "`created/`",
+            "`created/2024`, `created/2024-Q1`, `created/2024-01`",
+            "Temporal tracking"
+          ],
+          [
+            "**Last Modified**",
+            "`modified/`",
+            "`modified/recent`, `modified/month`, `modified/quarter`, `modified/year`",
+            "Update recency"
+          ],
+          [
+            "**Evolution Stage**",
+            "`evolution/`",
+            "`evolution/experimental`, `evolution/emerging`, `evolution/mature`, `evolution/legacy`",
+            "Lifecycle position"
+          ],
+          [
+            "**Migration Status**",
+            "`migration/`",
+            "`migration/needed`, `migration/complete`, `migration/pending`, `migration/na`",
+            "Update requirements"
+          ],
+          [
+            "**Deprecation Warning**",
+            "`deprecation/`",
+            "`deprecation/planned`, `deprecation/imminent`, `deprecation/complete`, `deprecation/none`",
+            "Sunset tracking"
+          ]
+        ],
+        "line_start": 108,
+        "row_count": 5,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "headers": [
+          "Special Category",
+          "Tag Pattern",
+          "Examples",
+          "Meta Purpose"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Debug/Testing**",
+            "`debug/`",
+            "`debug/verbose`, `debug/trace`, `debug/sandbox`, `debug/production`",
+            "Development support"
+          ],
+          [
+            "**Documentation**",
+            "`docs/`",
+            "`docs/complete`, `docs/partial`, `docs/needed`, `docs/video`",
+            "Documentation status"
+          ],
+          [
+            "**Template Status**",
+            "`template/`",
+            "`template/base`, `template/derived`, `template/custom`, `template/system`",
+            "Template hierarchy"
+          ],
+          [
+            "**Experimental**",
+            "`experiment/`",
+            "`experiment/active`, `experiment/complete`, `experiment/failed`, `experiment/promising`",
+            "Innovation tracking"
+          ],
+          [
+            "**Community**",
+            "`community/`",
+            "`community/contributed`, `community/verified`, `community/popular`, `community/contested`",
+            "Social validation"
+          ]
+        ],
+        "line_start": 118,
+        "row_count": 5,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      },
+      {
+        "headers": [
+          "Rule Category",
+          "Guideline",
+          "Example",
+          "Rationale"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Minimum Coverage**",
+            "Always include type, function, and domain",
+            "`type/atomic` + `function/persona` + `domain/technical`",
+            "Core classification trinity"
+          ],
+          [
+            "**Performance Tracking**",
+            "Add performance tags only after testing",
+            "`performance/validated` after 10+ successful uses",
+            "Data-driven classification"
+          ],
+          [
+            "**Relationship Clarity**",
+            "Include combination tags for composites",
+            "`combines/well` with specific component IDs",
+            "Composition guidance"
+          ],
+          [
+            "**Version Awareness**",
+            "Update evolution tags with major changes",
+            "`evolution/mature` → `evolution/legacy`",
+            "Lifecycle tracking"
+          ],
+          [
+            "**Access Control**",
+            "Apply team tags for sensitive components",
+            "`team/restricted` for client-specific",
+            "Security and privacy"
+          ]
+        ],
+        "line_start": 135,
+        "row_count": 5,
+        "source": "reference-taxonomy-prompt-library-tag-taxonomy-2025111106.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Claude Librarian",
+      "Knowledge Graph",
+      "Prompt Component Library"
+    ],
+    "unique_wiki_link_count": 3,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Claude Librarian",
+      "Knowledge Graph",
+      "Prompt Component Library"
+    ]
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.773439",
+    "source_file": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+    "source_file_size_bytes": 8062,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Astrophysics and Cosmology: Avenues for In Depth Academic Reports",
+      "id": "20251026011320",
+      "aliases": [
+        "rsca",
+        "topics",
+        "topics/rsca"
+      ],
+      "type": "✍️topics",
+      "status": "⚡active",
+      "priority": "⁉️",
+      "created": "2025-10-26T01:13:20",
+      "source": "📚🧠RSCA_v1.0🆔I9QYV1NMAS",
+      "url": "⁉️",
+      "tags": [
+        "source/rsca",
+        "topic",
+        "topic/educational",
+        "topic/rsca"
+      ]
+    },
+    "word_count": 1031,
+    "character_count": 7593,
+    "line_count": 110,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 36,
+    "by_type": {
+      "headings": 8,
+      "callouts": 7,
+      "wiki_links": 0,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 10,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 5
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "✍️Topics_Astrophysics-and-Cosmology-Strategic-Avenues-for-In-Depth-Academic-Reports_🆔20251026011254",
+      "anchor": "topicsastrophysics-and-cosmology-strategic-avenues-for-in-depth-academic-reports20251026011254",
+      "line_number": 23,
+      "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🌌 The Gravitational Architect: Dark Matter and the Cosmic Web",
+          "anchor": "the-gravitational-architect-dark-matter-and-the-cosmic-web",
+          "line_number": 42,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🌠 The Alchemical Engines: Massive Stars, Supernovae, and Galactic Chemical Evolution",
+          "anchor": "the-alchemical-engines-massive-stars-supernovae-and-galactic-chemical-evolution",
+          "line_number": 56,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔭 Echoes of the Big Bang: The Cosmic Microwave Background as a Cosmological Ruler",
+          "anchor": "echoes-of-the-big-bang-the-cosmic-microwave-background-as-a-cosmological-ruler",
+          "line_number": 70,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚫ Cosmic Co-Evolution: The Supermassive Black Hole-Galaxy Feedback Loop",
+          "anchor": "cosmic-co-evolution-the-supermassive-black-hole-galaxy-feedback-loop",
+          "line_number": 84,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🌎 The Hunter's Toolbox: Biases and Breakthroughs in Exoplanet Detection Methodologies",
+          "anchor": "the-hunters-toolbox-biases-and-breakthroughs-in-exoplanet-detection-methodologies",
+          "line_number": 98,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "💥 Collision and Transformation: The Mechanisms of Galaxy Morphological Evolution",
+          "anchor": "collision-and-transformation-the-mechanisms-of-galaxy-morphological-evolution",
+          "line_number": 112,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Further Exploration",
+              "anchor": "further-exploration",
+              "line_number": 122,
+              "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set provides a strategic list of seven highly fertile research avenues within the fields of **Cosmology, Stellar Astrophysics, and Galactic/Planetary Science**. Each topic is intentionally framed to facilitate a rigorous, multi-faceted academic exploration, specifically designed to address the complex prompt structure of *Historical Context, Foundational Principles, Mechanisms & Processes, Evidence & Manifestations,* and *Broader Implications*. The topics focus on the dynamic *interactions* between cosmic components—such as the role of Dark Matter in structure formation, the feedback loop between Black Holes and galaxies, or the bi-directional influence between exoplanet detection biases and our understanding of planetary system diversity. These are not simple questions but complex relationships ripe for deep analysis.",
+        "line_number": 33,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+        "char_start": 1145,
+        "char_end": 2006
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 40,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+        "char_start": 2033,
+        "char_end": 2049
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 54,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+        "char_start": 2853,
+        "char_end": 2869
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 68,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+        "char_start": 3734,
+        "char_end": 3750
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 82,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+        "char_start": 4553,
+        "char_end": 4569
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 96,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+        "char_start": 5437,
+        "char_end": 5453
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 110,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md",
+        "char_start": 6279,
+        "char_end": 6295
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "✍️Topics_Astrophysics-and-Cosmology-Strategic-Avenues-for-In-Depth-Academic-Reports_🆔20251026011254",
+        "anchor": "topicsastrophysics-and-cosmology-strategic-avenues-for-in-depth-academic-reports20251026011254",
+        "line_number": 23,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "level": 2,
+        "text": "🌌 The Gravitational Architect: Dark Matter and the Cosmic Web",
+        "anchor": "the-gravitational-architect-dark-matter-and-the-cosmic-web",
+        "line_number": 42,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "level": 2,
+        "text": "🌠 The Alchemical Engines: Massive Stars, Supernovae, and Galactic Chemical Evolution",
+        "anchor": "the-alchemical-engines-massive-stars-supernovae-and-galactic-chemical-evolution",
+        "line_number": 56,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "level": 2,
+        "text": "🔭 Echoes of the Big Bang: The Cosmic Microwave Background as a Cosmological Ruler",
+        "anchor": "echoes-of-the-big-bang-the-cosmic-microwave-background-as-a-cosmological-ruler",
+        "line_number": 70,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "level": 2,
+        "text": "⚫ Cosmic Co-Evolution: The Supermassive Black Hole-Galaxy Feedback Loop",
+        "anchor": "cosmic-co-evolution-the-supermassive-black-hole-galaxy-feedback-loop",
+        "line_number": 84,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "level": 2,
+        "text": "🌎 The Hunter's Toolbox: Biases and Breakthroughs in Exoplanet Detection Methodologies",
+        "anchor": "the-hunters-toolbox-biases-and-breakthroughs-in-exoplanet-detection-methodologies",
+        "line_number": 98,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "level": 2,
+        "text": "💥 Collision and Transformation: The Mechanisms of Galaxy Morphological Evolution",
+        "anchor": "collision-and-transformation-the-mechanisms-of-galaxy-morphological-evolution",
+        "line_number": 112,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "level": 3,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 122,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "markdown",
+        "code": "A Comprehensive Analysis of the Role of Cold Dark Matter in the Gravitational Collapse and Hierarchical Formation of the Cosmic Web, Including its Constraints on Galactic Distribution and Morphological Evolution",
+        "line_start": 46,
+        "line_end": 48,
+        "char_count": 211,
+        "line_count": 1,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Detailed Examination of Nucleosynthesis and Explosive Dispersal Mechanisms in Massive Stars, Analyzing their Dominant Role in Driving Galactic Chemical Evolution and the Metallicity Requirements for Planet Formation",
+        "line_start": 60,
+        "line_end": 62,
+        "char_count": 217,
+        "line_count": 1,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Foundational Analysis of the Cosmic Microwave Background (CMB) Anisotropies, Detailing their Role as a Constraint on Cosmological Parameters, Inflationary Theory, and the Geometry of the Early Universe",
+        "line_start": 74,
+        "line_end": 76,
+        "char_count": 203,
+        "line_count": 1,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Comprehensive Study of the Mechanisms and Observational Evidence for the Co-Evolutionary Feedback Loop Between Supermassive Black Holes and their Host Galaxies, with an Emphasis on AGN Regulation of Star Formation Quenching",
+        "line_start": 88,
+        "line_end": 90,
+        "char_count": 225,
+        "line_count": 1,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "language": "markdown",
+        "code": "A Critical Examination of Foundational Exoplanet Detection Methodologies, Analyzing Their Intrinsic Observational Biases and the Resulting Revisions to the Theoretical Models of Planetary System Formation and Orbital Migration",
+        "line_start": 102,
+        "line_end": 104,
+        "char_count": 226,
+        "line_count": 1,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "language": "markdown",
+        "code": "An In-Depth Analysis of the Mechanisms Driving Galaxy Morphological Evolution, Specifically Evaluating the Relative Contributions of Galaxy Mergers, Stellar Feedback, and Environmental Effects like Ram-Pressure Stripping",
+        "line_start": 116,
+        "line_end": 118,
+        "char_count": 220,
+        "line_count": 1,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 37,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 46,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 58,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 72,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 1,
+          "line_number": 75,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+        },
+        {
+          "text": "[ ] **Used?**",
+          "indent_level": 0,
+          "line_number": 86,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+        },
+        {
+          "text": "**Weak Gravitational Lensing:** A methodology for mapping the distribution of Dark Matter, which warps the light from background galaxies.",
+          "indent_level": 1,
+          "line_number": 100,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+        },
+        {
+          "text": "**The Sunyaev-Zel'dovich Effect:** A phenomenon that allows for the detection of massive galaxy clusters through the scattering of CMB photons.",
+          "indent_level": 1,
+          "line_number": 103,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+        },
+        {
+          "text": "**Redshift-Space Distortions (RSDs):** A technique used in large-scale galaxy surveys to disentangle the effects of cosmological expansion from the peculiar motions of galaxies caused by local gravity.",
+          "indent_level": 1,
+          "line_number": 103,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+        },
+        {
+          "text": "**Planetary Migration Theory:** The mechanisms (e.g., disc-planet interaction) that explain why many exoplanets, like \"Hot Jupiters,\" are found in orbits that challenge classical in-situ formation models.",
+          "indent_level": 1,
+          "line_number": 114,
+          "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "\\Lambda",
+        "format": "inline",
+        "line_number": 34,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "expression": "\\Delta T/T",
+        "format": "inline",
+        "line_number": 68,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "expression": "\\Omega_m",
+        "format": "inline",
+        "line_number": 72,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "expression": "\\Omega_\\Lambda",
+        "format": "inline",
+        "line_number": 72,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      },
+      {
+        "expression": "M-\\sigma",
+        "format": "inline",
+        "line_number": 75,
+        "source": "topic-set-astrophysics-and-cosmology-🆔20251026011254.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

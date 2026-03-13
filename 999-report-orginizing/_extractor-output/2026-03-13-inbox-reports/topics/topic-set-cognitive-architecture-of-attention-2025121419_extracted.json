@@ -1,0 +1,452 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.783993",
+    "source_file": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-cognitive-architecture-of-attention-2025121419.md",
+    "source_file_size_bytes": 7170,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "The Cognitive Architecture of Attention: Mechanisms, Models, and Neural Substrates",
+      "id": "20251214-194228",
+      "type": "✍️topics",
+      "status": "active",
+      "source": "RSCA-v2.0-20251020224705",
+      "tags": [
+        "type/topics",
+        "source/rsca"
+      ],
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "link-up": "[[topic-set-moc]]",
+      "link-related": [
+        "[[2025-12-14]]",
+        "[[2025-W50]]"
+      ]
+    },
+    "word_count": 918,
+    "character_count": 6767,
+    "line_count": 106,
+    "heading_count": 7
+  },
+  "extraction_summary": {
+    "total_items_extracted": 34,
+    "by_type": {
+      "headings": 7,
+      "callouts": 7,
+      "wiki_links": 3,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 6,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 5,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 2,
+      "text": "🧩 The Evolution of Selection: From Filters to Attenuation",
+      "anchor": "the-evolution-of-selection-from-filters-to-attenuation",
+      "line_number": 33,
+      "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🔋 The Economics of Attention: Capacity Theories and Cognitive Load",
+      "anchor": "the-economics-of-attention-capacity-theories-and-cognitive-load",
+      "line_number": 47,
+      "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🏗️ The Binding Problem: Feature Integration Theory",
+      "anchor": "the-binding-problem-feature-integration-theory",
+      "line_number": 61,
+      "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🚦 The Neural Trinity: Posner’s Three Networks",
+      "anchor": "the-neural-trinity-posners-three-networks",
+      "line_number": 75,
+      "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "⚔️ The Duel for Control: Top-Down vs. Bottom-Up Processing",
+      "anchor": "the-duel-for-control-top-down-vs-bottom-up-processing",
+      "line_number": 89,
+      "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🕰️ Automaticity and the Stroop Effect: When Attention Fails to Suppress",
+      "anchor": "automaticity-and-the-stroop-effect-when-attention-fails-to-suppress",
+      "line_number": 103,
+      "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 115,
+      "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set provides a rigorous, foundational framework for understanding \"Attention\" not merely as a state of focus, but as a complex biological and computational selection mechanism. These topics explore the historical evolution of attentional theories, the debate between structural bottlenecks and resource allocation, the neural networks governing control, and the critical distinction between voluntary and reflexive processing. It is designed to guide a deep dive into how the brain filters the infinite sensory world into finite conscious experience, moving from abstract psychological models to concrete neurobiological evidence.",
+        "line_number": 26,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+        "char_start": 652,
+        "char_end": 1313
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 31,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+        "char_start": 1321,
+        "char_end": 1337
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 45,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+        "char_start": 2208,
+        "char_end": 2224
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 59,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+        "char_start": 3042,
+        "char_end": 3058
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 73,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+        "char_start": 3858,
+        "char_end": 3874
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 87,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+        "char_start": 4735,
+        "char_end": 4751
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 101,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md",
+        "char_start": 5551,
+        "char_end": 5567
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Attention Studies",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attention Studies]]",
+        "line_number": 24,
+        "section": "Document Start",
+        "context_line": "Aliases: [[Attention Studies]], [[Cognitive Mechanisms of Focus]], [[Attentional Control Theory]]",
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "target": "Cognitive Mechanisms of Focus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Mechanisms of Focus]]",
+        "line_number": 24,
+        "section": "Document Start",
+        "context_line": "Aliases: [[Attention Studies]], [[Cognitive Mechanisms of Focus]], [[Attentional Control Theory]]",
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "target": "Attentional Control Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attentional Control Theory]]",
+        "line_number": 24,
+        "section": "Document Start",
+        "context_line": "Aliases: [[Attention Studies]], [[Cognitive Mechanisms of Focus]], [[Attentional Control Theory]]",
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "CognitiveScience",
+        "full_tag": "#CognitiveScience",
+        "hierarchy": [
+          "CognitiveScience"
+        ],
+        "line_number": 23,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "tag": "Attention",
+        "full_tag": "#Attention",
+        "hierarchy": [
+          "Attention"
+        ],
+        "line_number": 23,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "tag": "Neuroscience",
+        "full_tag": "#Neuroscience",
+        "hierarchy": [
+          "Neuroscience"
+        ],
+        "line_number": 23,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "tag": "Psychology",
+        "full_tag": "#Psychology",
+        "hierarchy": [
+          "Psychology"
+        ],
+        "line_number": 23,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "tag": "InformationProcessing",
+        "full_tag": "#InformationProcessing",
+        "hierarchy": [
+          "InformationProcessing"
+        ],
+        "line_number": 23,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "tag": "ExecutiveFunction",
+        "full_tag": "#ExecutiveFunction",
+        "hierarchy": [
+          "ExecutiveFunction"
+        ],
+        "line_number": 23,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 2,
+        "text": "🧩 The Evolution of Selection: From Filters to Attenuation",
+        "anchor": "the-evolution-of-selection-from-filters-to-attenuation",
+        "line_number": 33,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "level": 2,
+        "text": "🔋 The Economics of Attention: Capacity Theories and Cognitive Load",
+        "anchor": "the-economics-of-attention-capacity-theories-and-cognitive-load",
+        "line_number": 47,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "level": 2,
+        "text": "🏗️ The Binding Problem: Feature Integration Theory",
+        "anchor": "the-binding-problem-feature-integration-theory",
+        "line_number": 61,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "level": 2,
+        "text": "🚦 The Neural Trinity: Posner’s Three Networks",
+        "anchor": "the-neural-trinity-posners-three-networks",
+        "line_number": 75,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "level": 2,
+        "text": "⚔️ The Duel for Control: Top-Down vs. Bottom-Up Processing",
+        "anchor": "the-duel-for-control-top-down-vs-bottom-up-processing",
+        "line_number": 89,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "level": 2,
+        "text": "🕰️ Automaticity and the Stroop Effect: When Attention Fails to Suppress",
+        "anchor": "automaticity-and-the-stroop-effect-when-attention-fails-to-suppress",
+        "line_number": 103,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 115,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "A Comparative Analysis of Selective Attention Models: Tracing the Intellectual Lineage from Broadbent’s Filter Theory to Treisman’s Attenuation and Deutsch & Deutsch’s Late Selection Models, with a Focus on the Mechanisms of Sensory Gating and Information Bottlenecks.",
+        "line_start": 39,
+        "line_end": 41,
+        "char_count": 268,
+        "line_count": 1,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "An Examination of Resource Allocation Theories in Cognitive Psychology: Evaluating Kahneman’s Limited Capacity Model and Lavie’s Perceptual Load Theory to Understand the Determinants of Multitasking Performance and the Limits of Mental Processing Power.",
+        "line_start": 53,
+        "line_end": 55,
+        "char_count": 253,
+        "line_count": 1,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Investigating the Binding Problem in Visual Perception: A Comprehensive Review of Treisman’s Feature Integration Theory, Analyzing the Role of Focused Attention in Synthesizing Disparate Sensory Features into Unified Perceptual Objects.",
+        "line_start": 67,
+        "line_end": 69,
+        "char_count": 236,
+        "line_count": 1,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "A Neuroanatomical and Functional Analysis of Posner’s Three-Network Model of Attention: Deconstructing the Distinct Roles, Neural Substrates, and Neurochemical Pathways of the Alerting, Orienting, and Executive Control Systems.",
+        "line_start": 81,
+        "line_end": 83,
+        "char_count": 227,
+        "line_count": 1,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "The Dynamics of Attentional Control: A Critical Evaluation of the Interaction Between Top-Down (Endogenous) Goal-Directed Mechanisms and Bottom-Up (Exogenous) Stimulus-Driven Capture, focusing on the Corbetta & Shulman Neural Framework.",
+        "line_start": 95,
+        "line_end": 97,
+        "char_count": 236,
+        "line_count": 1,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Mechanisms of Automaticity and Inhibition in Cognitive Processing: Analyzing the Stroop Effect and the Schneider & Shiffrin Model to Understand the Transition from Controlled Attention to Automatic Processing and the Challenges of Response Conflict.",
+        "line_start": 109,
+        "line_end": 111,
+        "char_count": 249,
+        "line_count": 1,
+        "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "**The Spotlight, Zoom Lens, and Gradient Models:** Spatial metaphors for how attention is distributed across the visual field.",
+          "indent_level": 1,
+          "line_number": 91,
+          "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+        },
+        {
+          "text": "**Inattentional Blindness & Change Blindness:** The phenomena revealing that looking does not equal seeing (e.g., the Gorilla experiment).",
+          "indent_level": 1,
+          "line_number": 91,
+          "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+        },
+        {
+          "text": "**The Default Mode Network (DMN):** Understanding what the brain does when *not* paying attention to the external world (mind-wandering).",
+          "indent_level": 1,
+          "line_number": 93,
+          "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+        },
+        {
+          "text": "**Biased Competition Theory:** How stimuli compete for neural representation in the visual cortex.",
+          "indent_level": 1,
+          "line_number": 96,
+          "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+        },
+        {
+          "text": "**Hemispatial Neglect:** Clinical evidence from parietal lobe damage that reveals the constructed nature of spatial attention.",
+          "indent_level": 1,
+          "line_number": 96,
+          "source": "topic-set-cognitive-architecture-of-attention-2025121419.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Attention Studies",
+      "Attentional Control Theory",
+      "Cognitive Mechanisms of Focus"
+    ],
+    "unique_wiki_link_count": 3,
+    "unique_tags": [
+      "#Attention",
+      "#CognitiveScience",
+      "#ExecutiveFunction",
+      "#InformationProcessing",
+      "#Neuroscience",
+      "#Psychology"
+    ],
+    "unique_tag_count": 6,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Attention Studies",
+      "Attentional Control Theory",
+      "Cognitive Mechanisms of Focus"
+    ]
+  }
+}

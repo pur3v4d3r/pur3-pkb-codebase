@@ -1,0 +1,348 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.939403",
+    "source_file": "topic-set-self-regulation-theory-2025120622.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-self-regulation-theory-2025120622.md",
+    "source_file_size_bytes": 11042,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Self Regulation Theory",
+      "id": "20251206-223906",
+      "type": "✍️topics",
+      "status": "active",
+      "source": "RSCA-v2.0-20251020224705",
+      "tags": [
+        "type/topics",
+        "source/rsca"
+      ],
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "link-up": "[[topic-set-moc]]",
+      "link-related": [
+        "[[2025-12-06]]",
+        "[[2025-W49]]"
+      ]
+    },
+    "word_count": 1468,
+    "character_count": 10687,
+    "line_count": 154,
+    "heading_count": 3
+  },
+  "extraction_summary": {
+    "total_items_extracted": 27,
+    "by_type": {
+      "headings": 3,
+      "callouts": 12,
+      "wiki_links": 0,
+      "inline_fields": 1,
+      "definitions": 1,
+      "tags": 5,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 5,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 2,
+      "text": "A Pedagogical Topic Set for Self-Regulation Theory",
+      "anchor": "a-pedagogical-topic-set-for-self-regulation-theory",
+      "line_number": 29,
+      "source": "topic-set-self-regulation-theory-2025120622.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 143,
+      "source": "topic-set-self-regulation-theory-2025120622.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 161,
+      "source": "topic-set-self-regulation-theory-2025120622.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "prompt-used",
+        "title": "Untitled",
+        "body": "[**Prompt**:: ]",
+        "line_number": 20,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 290,
+        "char_end": 325
+      },
+      {
+        "type": "network",
+        "title": "🔗 Network Connectivity",
+        "body": "**In-Links**:: `= length(this.file.inlinks)` | **Out-Links**:: `= length(this.file.outlinks)`\n**Network Status**:: `= choice(length(this.file.inlinks) = 0, \"🕸️ Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱 Node\"))`",
+        "line_number": 23,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 326,
+        "char_end": 594
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set provides a comprehensive pedagogical breakdown of **Self-Regulation Theory**, the psychological framework describing how individuals monitor and manage their behavior to achieve goals. It contains 8 distinct topics, each tailored to a specific pedagogical scaffold. These range from the foundational \"Cybernetic Model\" of feedback loops to the narrative history of the Marshmallow Test, and the systems-level analysis of the \"What-the-Hell Effect.\" This structure ensures a multi-dimensional understanding of how human willpower functions, fails, and is optimized.",
+        "line_number": 33,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 814,
+        "char_end": 1413
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🏛️*Knowledge-Driven Exposition*: **The Cybernetic Control Loop: Standards, Monitoring, and Capacity**\n\n**Scope & Angle:** This expository topic establishes the foundational \"TOTE\" (Test-Operate-Test-Exit) model of self-regulation. It explores the three critical ingredients required for successful regulation: clear standards (goals), self-monitoring (awareness), and regulatory strength (willpower), providing a deductive overview of the mechanism.",
+        "line_number": 40,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 1435,
+        "char_end": 1907
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "⚙️*Problem-Based Learning*: **Designing an Intervention for \"The Procrastination Cycle\" in High-Performance Teams**\n\n**Scope & Angle:** This practical topic presents a concrete problem: a software development team suffering from chronic procrastination and burnout. The objective is to apply self-regulation strategies (implementation intentions, pre-commitment) to design a workflow that mitigates decision fatigue and optimizes executive function.",
+        "line_number": 54,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 2358,
+        "char_end": 2830
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "⚖️*Socratic Inquiry Learning*: **The \"Ego Depletion\" Controversy: Is Willpower Truly a Limited Resource?**\n\n**Scope & Angle:** This inquiry challenges the dominant \"Strength Model\" of self-control (which posits willpower is like a muscle that gets tired). It examines the replication crisis surrounding this theory and asks whether \"depletion\" is a biological reality or a result of shifting motivation and beliefs.",
+        "line_number": 67,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 3380,
+        "char_end": 3816
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "📖*Narrative-Driven Learning*: **The Marshmallow Test: Walter Mischel and the Long Shadow of Delayed Gratification**\n\n**Scope & Angle:** This narrative tells the story of the Bing Nursery School experiments in the 1960s. It focuses on the protagonist, Walter Mischel, the challenge of measuring self-control in preschoolers, and the surprising longitudinal resolution that linked those early moments to life outcomes decades later.",
+        "line_number": 80,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 4335,
+        "char_end": 4786
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🌗*Comparative Analysis Learning*: **The Strength Model vs. The Process Model of Emotion Regulation**\n\n**Scope & Angle:** This topic juxtaposes two dominant frameworks: Baumeister’s *Strength Model* (focusing on energy resources) and James Gross’s *Process Model* (focusing on the timing of the intervention, e.g., reappraisal vs. suppression). It analyzes which model is more predictive for different types of behavioral change.",
+        "line_number": 93,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 5331,
+        "char_end": 5782
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🧱*First-Principles Thinking*: **The Bio-Energetics of Inhibition: Deconstructing \"No\" to its Atomic Components**\n\n**Scope & Angle:** This topic strips away psychological metaphors to look at the biological \"first principles\" of self-regulation. It examines the prefrontal cortex, the metabolic cost of inhibition (glucose dynamics), and the fundamental mechanism of overriding a prepotent response.",
+        "line_number": 107,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 6259,
+        "char_end": 6678
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🕸️Systems Thinking: **The \"What-The-Hell Effect\": Feedback Loops in Abstinence Violation**\n\n**Scope & Angle:** This topic analyzes the *Abstinence Violation Effect* (AVE) as a system failure. It looks at the reinforcing feedback loop where a minor slip-up leads to guilt, which depletes resources, leading to total abandonment of the goal (the \"what the hell\" moment).",
+        "line_number": 120,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 7245,
+        "char_end": 7634
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🔬*Case Study Method*: **Radishes, Chocolates, and the Puzzle: The 1998 Baumeister Experiment**\n\n**Scope & Angle:** This focuses on the seminal 1998 study by Baumeister et al. as a historical case study. It details the experimental design (forcing students to eat radishes while smelling chocolate) and the resulting drop in persistence on unsolvable puzzles, establishing the paradigm for lab-based self-control research.",
+        "line_number": 133,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 8140,
+        "char_end": 8582
+      },
+      {
+        "type": "further-exploration",
+        "title": "Untitled",
+        "body": "Recommended continued study:\n- **Book:** *Willpower: Rediscovering the Greatest Human Strength* by Roy Baumeister and John Tierney.\n- **Article:** *The Hot/Cool System Analysis of Delay of Gratification* by Janet Metcalfe and Walter Mischel.\n- **Concept:** **Implementation Intentions** (Peter Gollwitzer) - The study of \"If-Then\" planning to automate self-regulation.\n- **Concept:** **Hyperbolic Discounting** (Behavioral Economics) - The mathematical modeling of why we prefer smaller, sooner rewards over larger, later ones.\n- **Concept:** **Neuroplasticity and Mindfulness** - How meditation practices structurally alter the prefrontal cortex to enhance regulatory capacity.",
+        "line_number": 145,
+        "source": "topic-set-self-regulation-theory-2025120622.md",
+        "char_start": 9104,
+        "char_end": 9820
+      }
+    ],
+    "wiki_links": [],
+    "inline_fields": [
+      {
+        "field_name": "Prompt",
+        "value": "",
+        "format": "bracket",
+        "line_number": 21,
+        "source": "topic-set-self-regulation-theory-2025120622.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "psychology",
+        "full_tag": "#psychology",
+        "hierarchy": [
+          "psychology"
+        ],
+        "line_number": 30,
+        "source": "topic-set-self-regulation-theory-2025120622.md"
+      },
+      {
+        "tag": "behavioral-science",
+        "full_tag": "#behavioral-science",
+        "hierarchy": [
+          "behavioral-science"
+        ],
+        "line_number": 30,
+        "source": "topic-set-self-regulation-theory-2025120622.md"
+      },
+      {
+        "tag": "executive-function",
+        "full_tag": "#executive-function",
+        "hierarchy": [
+          "executive-function"
+        ],
+        "line_number": 30,
+        "source": "topic-set-self-regulation-theory-2025120622.md"
+      },
+      {
+        "tag": "willpower",
+        "full_tag": "#willpower",
+        "hierarchy": [
+          "willpower"
+        ],
+        "line_number": 30,
+        "source": "topic-set-self-regulation-theory-2025120622.md"
+      },
+      {
+        "tag": "pedagogy",
+        "full_tag": "#pedagogy",
+        "hierarchy": [
+          "pedagogy"
+        ],
+        "line_number": 30,
+        "source": "topic-set-self-regulation-theory-2025120622.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 2,
+        "text": "A Pedagogical Topic Set for Self-Regulation Theory",
+        "anchor": "a-pedagogical-topic-set-for-self-regulation-theory",
+        "line_number": 29,
+        "source": "topic-set-self-regulation-theory-2025120622.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 143,
+        "source": "topic-set-self-regulation-theory-2025120622.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 161,
+        "source": "topic-set-self-regulation-theory-2025120622.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "Prompt",
+        "definition": "",
+        "line_number": 21,
+        "source": "topic-set-self-regulation-theory-2025120622.md"
+      }
+    ],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "**Related Topics & Subtopics:**",
+          "indent_level": 1,
+          "line_number": 164,
+          "source": "topic-set-self-regulation-theory-2025120622.md"
+        },
+        {
+          "text": "**The Sunyaev-Zel'dovich Effect:** How Inverse Compton scattering in galaxy clusters distorts the CMB, serving as a tool to find high-redshift clusters.",
+          "indent_level": 3,
+          "line_number": 166,
+          "source": "topic-set-self-regulation-theory-2025120622.md"
+        },
+        {
+          "text": "**Weak Gravitational Lensing:** Mapping the true distribution of dark matter by measuring the shear and magnification of background galaxy light.",
+          "indent_level": 3,
+          "line_number": 167,
+          "source": "topic-set-self-regulation-theory-2025120622.md"
+        },
+        {
+          "text": "**Neutrino Cosmology:** Investigating the subtle but significant impact of massive neutrinos on the suppression of small-scale structure power spectrums.",
+          "indent_level": 3,
+          "line_number": 168,
+          "source": "topic-set-self-regulation-theory-2025120622.md"
+        },
+        {
+          "text": "**The Hubble Tension:** The current crisis in cosmology regarding the discrepancy between early-universe and late-universe measurements of the expansion rate.",
+          "indent_level": 3,
+          "line_number": 169,
+          "source": "topic-set-self-regulation-theory-2025120622.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [],
+    "unique_wiki_link_count": 0,
+    "unique_tags": [
+      "#behavioral-science",
+      "#executive-function",
+      "#pedagogy",
+      "#psychology",
+      "#willpower"
+    ],
+    "unique_tag_count": 5,
+    "frontmatter_relationships": {},
+    "backlink_candidates": []
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.786322",
+    "source_file": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+    "source_file_size_bytes": 8162,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Cognitive Architecture of Stoicism: Psychological Mechanisms and Pedagogical Applications",
+      "id": "20251128-210825",
+      "type": "✍️topics",
+      "status": "active",
+      "source": "RSCA-v2.0-20251020224705",
+      "tags": [
+        "type/topics",
+        "source/rsca"
+      ],
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "link-up": "[[topic-set-moc]]",
+      "link-related": [
+        "[[2025-11-28]]",
+        "[[2025-W48]]"
+      ]
+    },
+    "word_count": 1037,
+    "character_count": 7752,
+    "line_count": 122,
+    "heading_count": 9
+  },
+  "extraction_summary": {
+    "total_items_extracted": 32,
+    "by_type": {
+      "headings": 9,
+      "callouts": 10,
+      "wiki_links": 1,
+      "inline_fields": 1,
+      "definitions": 1,
+      "tags": 7,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 3,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 2,
+      "text": "🧠 The Proto-CBT: Logic as Therapy",
+      "anchor": "the-proto-cbt-logic-as-therapy",
+      "line_number": 36,
+      "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🛡️ Premeditatio Malorum: The Science of Psychological Inoculation",
+      "anchor": "premeditatio-malorum-the-science-of-psychological-inoculation",
+      "line_number": 49,
+      "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🎓 Stoic Pedagogy: Cultivating Grit and Growth Mindset",
+      "anchor": "stoic-pedagogy-cultivating-grit-and-growth-mindset",
+      "line_number": 61,
+      "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🌌 The View from Above: Self-Distancing and Ego-Decentering",
+      "anchor": "the-view-from-above-self-distancing-and-ego-decentering",
+      "line_number": 74,
+      "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🏋️ Voluntary Discomfort: Hormesis and Psychophysiological Adaptation",
+      "anchor": "voluntary-discomfort-hormesis-and-psychophysiological-adaptation",
+      "line_number": 86,
+      "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "📝 The Stoic Review: Metacognition and Memory Consolidation",
+      "anchor": "the-stoic-review-metacognition-and-memory-consolidation",
+      "line_number": 98,
+      "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🎯 The Dichotomy of Control: Locus of Control and Agency",
+      "anchor": "the-dichotomy-of-control-locus-of-control-and-agency",
+      "line_number": 110,
+      "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "⚖️ Apatheia vs. Suppression: The Neurobiology of Emotion Regulation",
+      "anchor": "apatheia-vs-suppression-the-neurobiology-of-emotion-regulation",
+      "line_number": 123,
+      "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 133,
+      "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "prompt-used",
+        "title": "Untitled",
+        "body": "[**Prompt**:: ]",
+        "line_number": 20,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+        "char_start": 357,
+        "char_end": 392
+      },
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This topic set serves as a rigorous bridge between ancient Stoic philosophy and modern empirical science. It moves beyond self-help platitudes to explore the *mechanisms* of Stoic practice through the lenses of cognitive science, neurobiology, and educational psychology. The topics cover the alignment of Stoic logic with Cognitive Behavioral Therapy (CBT), the neural underpinnings of emotional regulation techniques like *apatheia*, and the pedagogical utility of Stoic exercises in fostering \"grit\" and growth mindsets in educational settings. These topics are designed to produce deep, analytical reports that validate and explain *how* and *why* Stoicism functions as a system of mental operating software.",
+        "line_number": 29,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+        "char_start": 732,
+        "char_end": 1464
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 34,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+        "char_start": 1472,
+        "char_end": 1488
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 47,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+        "char_start": 2282,
+        "char_end": 2298
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 59,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+        "char_start": 3081,
+        "char_end": 3097
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 72,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+        "char_start": 3814,
+        "char_end": 3830
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 84,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+        "char_start": 4542,
+        "char_end": 4558
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 96,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+        "char_start": 5268,
+        "char_end": 5284
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 108,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+        "char_start": 6002,
+        "char_end": 6018
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "",
+        "line_number": 121,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md",
+        "char_start": 6699,
+        "char_end": 6715
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "2025-11-28",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2025-11-28]]",
+        "line_number": 95,
+        "section": "🏋️ Voluntary Discomfort: Hormesis and Psychophysiological Adaptation",
+        "context_line": "used [[2025-11-28]]",
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Prompt",
+        "value": "",
+        "format": "bracket",
+        "line_number": 21,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "Stoicism",
+        "full_tag": "#Stoicism",
+        "hierarchy": [
+          "Stoicism"
+        ],
+        "line_number": 26,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "tag": "CognitiveScience",
+        "full_tag": "#CognitiveScience",
+        "hierarchy": [
+          "CognitiveScience"
+        ],
+        "line_number": 26,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "tag": "EducationalPsychology",
+        "full_tag": "#EducationalPsychology",
+        "hierarchy": [
+          "EducationalPsychology"
+        ],
+        "line_number": 26,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "tag": "CBT",
+        "full_tag": "#CBT",
+        "hierarchy": [
+          "CBT"
+        ],
+        "line_number": 26,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "tag": "Resilience",
+        "full_tag": "#Resilience",
+        "hierarchy": [
+          "Resilience"
+        ],
+        "line_number": 26,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "tag": "Metacognition",
+        "full_tag": "#Metacognition",
+        "hierarchy": [
+          "Metacognition"
+        ],
+        "line_number": 26,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "tag": "NeuroscienceOfPhilosophy",
+        "full_tag": "#NeuroscienceOfPhilosophy",
+        "hierarchy": [
+          "NeuroscienceOfPhilosophy"
+        ],
+        "line_number": 26,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 2,
+        "text": "🧠 The Proto-CBT: Logic as Therapy",
+        "anchor": "the-proto-cbt-logic-as-therapy",
+        "line_number": 36,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "level": 2,
+        "text": "🛡️ Premeditatio Malorum: The Science of Psychological Inoculation",
+        "anchor": "premeditatio-malorum-the-science-of-psychological-inoculation",
+        "line_number": 49,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "level": 2,
+        "text": "🎓 Stoic Pedagogy: Cultivating Grit and Growth Mindset",
+        "anchor": "stoic-pedagogy-cultivating-grit-and-growth-mindset",
+        "line_number": 61,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "level": 2,
+        "text": "🌌 The View from Above: Self-Distancing and Ego-Decentering",
+        "anchor": "the-view-from-above-self-distancing-and-ego-decentering",
+        "line_number": 74,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "level": 2,
+        "text": "🏋️ Voluntary Discomfort: Hormesis and Psychophysiological Adaptation",
+        "anchor": "voluntary-discomfort-hormesis-and-psychophysiological-adaptation",
+        "line_number": 86,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "level": 2,
+        "text": "📝 The Stoic Review: Metacognition and Memory Consolidation",
+        "anchor": "the-stoic-review-metacognition-and-memory-consolidation",
+        "line_number": 98,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 The Dichotomy of Control: Locus of Control and Agency",
+        "anchor": "the-dichotomy-of-control-locus-of-control-and-agency",
+        "line_number": 110,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "level": 2,
+        "text": "⚖️ Apatheia vs. Suppression: The Neurobiology of Emotion Regulation",
+        "anchor": "apatheia-vs-suppression-the-neurobiology-of-emotion-regulation",
+        "line_number": 123,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 133,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "Prompt",
+        "definition": "",
+        "line_number": 21,
+        "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+      }
+    ],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "**Third-Wave Therapies:** Explore how Stoicism intersects with ACT (Acceptance and Commitment Therapy), particularly the concept of \"Cognitive Defusion.\"",
+          "indent_level": 1,
+          "line_number": 136,
+          "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+        },
+        {
+          "text": "**The Paradox of Happiness:** Investigate the \"Backwards Law\" (Alan Watts/Viktor Frankl) and how the Stoic dismissal of pleasure-seeking aligns with modern findings on the emptiness of hedonic pursuit.",
+          "indent_level": 1,
+          "line_number": 138,
+          "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+        },
+        {
+          "text": "**Embodied Cognition:** How Stoic physical postures and moderation in diet relate to the theory that our bodies influence our cognitive states.",
+          "indent_level": 1,
+          "line_number": 139,
+          "source": "topic-set-cognitive-architecture-of-stoicism-20251128210819.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "2025-11-28"
+    ],
+    "unique_wiki_link_count": 1,
+    "unique_tags": [
+      "#CBT",
+      "#CognitiveScience",
+      "#EducationalPsychology",
+      "#Metacognition",
+      "#NeuroscienceOfPhilosophy",
+      "#Resilience",
+      "#Stoicism"
+    ],
+    "unique_tag_count": 7,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "2025-11-28"
+    ]
+  }
+}

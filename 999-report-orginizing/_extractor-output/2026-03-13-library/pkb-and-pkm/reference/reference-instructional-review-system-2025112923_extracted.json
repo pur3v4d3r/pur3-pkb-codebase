@@ -1,0 +1,1903 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.942192",
+    "source_file": "reference-instructional-review-system-2025112923.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-instructional-review-system-2025112923.md",
+    "source_file_size_bytes": 27953,
+    "processing_time_seconds": 0.008
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "PKB Review System",
+        "Periodic Review Automation"
+      ],
+      "tags": [
+        "type/permanent",
+        "year/2025",
+        "type/guide",
+        "status/in-progress",
+        "pkb",
+        "pkm",
+        "building-second-brain",
+        "critical-thinking/evaluation",
+        "skill-acquisition",
+        "cognitive-resources",
+        "knowledge-workflow/review",
+        "automation",
+        "cognitive-pkm"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251129233608",
+      "created": "2025-11-29T23:36:08",
+      "modified": "2025-11-29T23:36:08",
+      "week": "[[2025-W48]]",
+      "month": "[[2025-11]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "maturity": "needs-review",
+      "confidence": "speculative",
+      "next-review": "2025-12-06",
+      "review-count": "0",
+      "link-up": [
+        "[[pkb-&-pkm-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-29|Daily-Note]]"
+      ]
+    },
+    "word_count": 3170,
+    "character_count": 27051,
+    "line_count": 754,
+    "heading_count": 32
+  },
+  "extraction_summary": {
+    "total_items_extracted": 187,
+    "by_type": {
+      "headings": 32,
+      "callouts": 16,
+      "wiki_links": 42,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 14,
+      "code_blocks": 20,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 29,
+      "lists_unordered": 30,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 4
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "🔄 Intelligent PKB Review System: Multi-Plugin Synergy Architecture",
+      "anchor": "intelligent-pkb-review-system-multi-plugin-synergy-architecture",
+      "line_number": 101,
+      "source": "reference-instructional-review-system-2025112923.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🏗️ Architectural Philosophy",
+          "anchor": "architectural-philosophy",
+          "line_number": 106,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📋 System Components Architecture",
+          "anchor": "system-components-architecture",
+          "line_number": 121,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Component 1: Review Metadata Schema",
+              "anchor": "component-1-review-metadata-schema",
+              "line_number": 123,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Component 2: Periodic Review Note Template",
+              "anchor": "component-2-periodic-review-note-template",
+              "line_number": 151,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "📅 <% tp.date.now(\"YYYY-MM-DD\") %> Review Session",
+      "anchor": "review-session",
+      "line_number": 167,
+      "source": "reference-instructional-review-system-2025112923.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🎯 Review Queue",
+          "anchor": "review-queue",
+          "line_number": 173,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔄 Review Actions",
+          "anchor": "review-actions",
+          "line_number": 254,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📝 Review Notes",
+          "anchor": "review-notes",
+          "line_number": 261,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📈 Session Statistics",
+          "anchor": "session-statistics",
+          "line_number": 267,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Component 3: Meta Bind Review Buttons",
+              "anchor": "component-3-meta-bind-review-buttons",
+              "line_number": 275,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Component 4: QuickAdd Review Workflow Macro",
+              "anchor": "component-4-quickadd-review-workflow-macro",
+              "line_number": 316,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Component 5: Tasks Plugin Spaced Repetition Integration",
+              "anchor": "component-5-tasks-plugin-spaced-repetition-integration",
+              "line_number": 375,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📅 Review Schedule",
+          "anchor": "review-schedule",
+          "line_number": 385,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Component 6: Visual Analytics Dashboard",
+              "anchor": "component-6-visual-analytics-dashboard",
+              "line_number": 404,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "📊 PKB Review Analytics Dashboard",
+      "anchor": "pkb-review-analytics-dashboard",
+      "line_number": 416,
+      "source": "reference-instructional-review-system-2025112923.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🎯 Review Completion Trends",
+          "anchor": "review-completion-trends",
+          "line_number": 418,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📈 Maturity Distribution",
+          "anchor": "maturity-distribution",
+          "line_number": 441,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⏰ Review Queue Health",
+          "anchor": "review-queue-health",
+          "line_number": 483,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📅 Review Consistency (Last 30 Days)",
+          "anchor": "review-consistency-last-30-days",
+          "line_number": 513,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🚀 Implementation Roadmap",
+          "anchor": "implementation-roadmap",
+          "line_number": 534,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Phase 1: Foundation (Week 1)",
+              "anchor": "phase-1-foundation-week-1",
+              "line_number": 539,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Phase 2: Interaction Layer (Week 2)",
+              "anchor": "phase-2-interaction-layer-week-2",
+              "line_number": 545,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Phase 3: Automation Scaling (Week 3)",
+              "anchor": "phase-3-automation-scaling-week-3",
+              "line_number": 551,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Phase 4: Analytics & Optimization (Week 4)",
+              "anchor": "phase-4-analytics-optimization-week-4",
+              "line_number": 556,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔧 Advanced Optimizations",
+          "anchor": "advanced-optimizations",
+          "line_number": 564,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Optimization 1: Intelligent Maturity Promotion",
+              "anchor": "optimization-1-intelligent-maturity-promotion",
+              "line_number": 566,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Optimization 2: Domain-Specific Review Queues",
+              "anchor": "optimization-2-domain-specific-review-queues",
+              "line_number": 606,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Optimization 3: Review Heatmap Visualization",
+              "anchor": "optimization-3-review-heatmap-visualization",
+              "line_number": 636,
+              "source": "reference-instructional-review-system-2025112923.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚠️ Common Pitfalls & Solutions",
+          "anchor": "common-pitfalls-solutions",
+          "line_number": 687,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🎓 Learning Outcomes & Skill Progression",
+          "anchor": "learning-outcomes-skill-progression",
+          "line_number": 747,
+          "source": "reference-instructional-review-system-2025112923.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 769,
+      "source": "reference-instructional-review-system-2025112923.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "",
+        "title": "### Claude Thinking",
+        "body": "This is a comprehensive request for a periodic review system using Obsidian plugins. Let me analyze this request:\n**Request Classification:**\n- Type: comprehensive_guide / technical_implementation\n- Scope: synthesis (combining multiple plugins into a cohesive system)\n- Research Required: NO (this is about established Obsidian plugin functionality)\n- Note Type: Reference Note / Technical Guide\n**User Context from Memories:**\n- Pur3v4d3r has an advanced Obsidian PKB with 577-tag taxonomy\n- Working with sophisticated plugin integrations\n- Focus on intelligent automation and self-documenting systems\n- Has maturity tracking (seedling → sapling → tree → evergreen)\n- Expertise level: Advanced (given the complex systems already deployed)\n**Structural Planning:**\nThis needs to be a comprehensive, production-ready system that:\n1. Leverages synergies between the listed plugins\n2. Creates an intelligent review workflow\n3. Incorporates automation and self-discovery\n4. Aligns with their existing maturity tracking\n5. Provides both immediate value and long-term scalability\n**Plugin Synergies to Explore:**\n- Periodic Notes + Templater → Automated review note creation\n- Dataview + Tasks → Review queue generation and prioritization\n- Meta Bind → Interactive review interfaces\n- QuickAdd → Quick capture of review insights\n- Charts → Visual analytics of review patterns\n- Tasks → Spaced repetition scheduling for reviews\n**Architecture:**\nI should design this as a multi-layered system:\n1. Foundation: Review note structure (Templater + Periodic Notes)\n2. Discovery Layer: Dataview queries that find notes needing review\n3. Interaction Layer: Meta Bind buttons for status updates\n4. Analytics Layer: Charts + Dataview for progress tracking\n5. Workflow Layer: QuickAdd for review workflows\n6. Scheduling Layer: Tasks for spaced repetition\nThis is definitely a note-type response requiring metadata header.\n**Metadata Planning:**\nTags: #pkm #obsidian #review-system #automation #technical-guide\nAliases: [PKB Review System, Periodic Review Automation, Note Review Workflow]\n**Wiki-Link Opportunities:**\n- Plugin names (Charts, Dataview, Meta Bind, etc.)\n- Review methodologies (Spaced Repetition, Progressive Summarization)\n- PKB concepts (Knowledge Maturity, Note Lifecycle)\n- Technical concepts (DataviewJS, Templater Functions)\n**Callout Strategy:**\n- [!abstract] for system overview\n- [!methodology-and-sources] for implementation approaches\n- [!example] for code examples\n- [!helpful-tip] for optimization suggestions\n- [!important] for critical configuration steps\n- [!warning] for potential pitfalls\nThis should be comprehensive (2500-3500 words) with extensive code examples and detailed implementation instructions.",
+        "line_number": 42,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 753,
+        "char_end": 3609
+      },
+      {
+        "type": "abstract",
+        "title": "System Overview",
+        "body": "This comprehensive review system creates a self-organizing, data-driven workflow that automatically identifies notes requiring attention, schedules reviews using [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] principles, provides interactive review interfaces, and generates visual analytics on your knowledge maintenance patterns. By orchestrating [[Dataview]], [[Templater]], [[Meta Bind]], [[Tasks]], [[QuickAdd]], [[Periodic Notes]], and [[Charts]], you'll build a review ecosystem that becomes more intelligent as your PKB grows.",
+        "line_number": 103,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 3887,
+        "char_end": 4482
+      },
+      {
+        "type": "important",
+        "title": "Metadata Foundation",
+        "body": "All reviewable notes require this frontmatter structure. Add to your existing templates or update notes gradually.",
+        "line_number": 125,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 5466,
+        "char_end": 5618
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Templater + Periodic Notes Integration",
+        "body": "This template creates structured daily/weekly/monthly review notes with embedded DataviewJS queries and Meta Bind controls. Place in your [[Templater]] templates folder.",
+        "line_number": 153,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 6483,
+        "char_end": 6723
+      },
+      {
+        "type": "abstract",
+        "title": "Session Objective",
+        "body": "Review Type: **<% tp.system.suggester([\"Daily\", \"Weekly\", \"Monthly\"], [\"daily\", \"weekly\", \"monthly\"]) %>**\nTarget: Review notes requiring attention based on maturity and interval",
+        "line_number": 169,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 7093,
+        "char_end": 7308
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Interactive Review Controls",
+        "body": "These [[Meta Bind]] button configurations provide one-click review actions. Add to your Meta Bind button settings or embed directly in notes.",
+        "line_number": 277,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 10087,
+        "char_end": 10288
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Rapid Review Capture",
+        "body": "This [[QuickAdd]] macro creates a streamlined workflow for reviewing notes, updating metadata, and capturing insights in one action sequence.",
+        "line_number": 318,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 11129,
+        "char_end": 11311
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Automated Review Scheduling",
+        "body": "Use [[Tasks]] plugin's recurring task syntax to generate review reminders. This component creates self-updating task entries in your review notes.",
+        "line_number": 377,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 12971,
+        "char_end": 13177
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Charts Integration for Review Metrics",
+        "body": "Create a dedicated dashboard note that visualizes your review patterns using [[Charts]] plugin and [[DataviewJS]].",
+        "line_number": 406,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 14004,
+        "char_end": 14188
+      },
+      {
+        "type": "important",
+        "title": "Progressive Deployment Strategy",
+        "body": "Don't implement everything at once. Follow this phased approach to minimize disruption and validate each component.",
+        "line_number": 536,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 17952,
+        "char_end": 18117
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Automated Maturity Progression",
+        "body": "Create a [[Templater]] user script that automatically suggests maturity promotions based on review history and engagement patterns.",
+        "line_number": 568,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 19283,
+        "char_end": 19465
+      },
+      {
+        "type": "example",
+        "title": "Contextual Review Organization",
+        "body": "Create specialized review queues for different knowledge domains using tag-based filtering.",
+        "line_number": 608,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 20567,
+        "char_end": 20705
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Temporal Pattern Analysis",
+        "body": "Use [[Charts]] to create a GitHub-style contribution heatmap showing review activity patterns.",
+        "line_number": 638,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 21413,
+        "char_end": 21565
+      },
+      {
+        "type": "warning",
+        "title": "Metadata Consistency Issues",
+        "body": "**Problem:** Dataview queries fail because some notes lack complete review metadata.\n\n**Solution:** Create a \"metadata validator\" query that identifies incomplete notes:",
+        "line_number": 689,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 23141,
+        "char_end": 23358
+      },
+      {
+        "type": "warning",
+        "title": "Review Queue Overload",
+        "body": "**Problem:** Review queue becomes overwhelming with hundreds of overdue notes.\n\n**Solution:** Implement \"review amnesty\" - bulk reset intervals for low-priority overdue notes:",
+        "line_number": 711,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 23824,
+        "char_end": 24041
+      },
+      {
+        "type": "warning",
+        "title": "Meta Bind Button Failures",
+        "body": "**Problem:** Buttons don't update metadata or show errors.\n\n**Troubleshooting Steps:**\n1. Verify frontmatter YAML is valid (no syntax errors)\n2. Check button syntax in Reading Mode (buttons don't work in Edit Mode)\n3. Ensure Meta Bind plugin is updated to latest version\n4. Test with simple button first (just update one field)",
+        "line_number": 736,
+        "source": "reference-instructional-review-system-2025112923.md",
+        "char_start": 24574,
+        "char_end": 24955
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+        "line_number": 104,
+        "section": "🔄 Intelligent PKB Review System: Multi-Plugin Synergy Architecture",
+        "context_line": "> This comprehensive review system creates a self-organizing, data-driven workflow that automatically identifies notes requiring attention, schedules reviews using [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] principles, provides interactive review interfaces, and generates visual analytics on your knowledge maintenance patterns. By orchestrating [[Dataview]], [[Templater]], [[Meta Bind]], [[Tasks]], [[QuickAdd]], [[Periodic Notes]], and [[Charts]], you'll build a review ecosystem that becomes more intelligent as your PKB grows.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 104,
+        "section": "🔄 Intelligent PKB Review System: Multi-Plugin Synergy Architecture",
+        "context_line": "> This comprehensive review system creates a self-organizing, data-driven workflow that automatically identifies notes requiring attention, schedules reviews using [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] principles, provides interactive review interfaces, and generates visual analytics on your knowledge maintenance patterns. By orchestrating [[Dataview]], [[Templater]], [[Meta Bind]], [[Tasks]], [[QuickAdd]], [[Periodic Notes]], and [[Charts]], you'll build a review ecosystem that becomes more intelligent as your PKB grows.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 104,
+        "section": "🔄 Intelligent PKB Review System: Multi-Plugin Synergy Architecture",
+        "context_line": "> This comprehensive review system creates a self-organizing, data-driven workflow that automatically identifies notes requiring attention, schedules reviews using [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] principles, provides interactive review interfaces, and generates visual analytics on your knowledge maintenance patterns. By orchestrating [[Dataview]], [[Templater]], [[Meta Bind]], [[Tasks]], [[QuickAdd]], [[Periodic Notes]], and [[Charts]], you'll build a review ecosystem that becomes more intelligent as your PKB grows.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Meta Bind",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Meta Bind]]",
+        "line_number": 104,
+        "section": "🔄 Intelligent PKB Review System: Multi-Plugin Synergy Architecture",
+        "context_line": "> This comprehensive review system creates a self-organizing, data-driven workflow that automatically identifies notes requiring attention, schedules reviews using [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] principles, provides interactive review interfaces, and generates visual analytics on your knowledge maintenance patterns. By orchestrating [[Dataview]], [[Templater]], [[Meta Bind]], [[Tasks]], [[QuickAdd]], [[Periodic Notes]], and [[Charts]], you'll build a review ecosystem that becomes more intelligent as your PKB grows.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks]]",
+        "line_number": 104,
+        "section": "🔄 Intelligent PKB Review System: Multi-Plugin Synergy Architecture",
+        "context_line": "> This comprehensive review system creates a self-organizing, data-driven workflow that automatically identifies notes requiring attention, schedules reviews using [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] principles, provides interactive review interfaces, and generates visual analytics on your knowledge maintenance patterns. By orchestrating [[Dataview]], [[Templater]], [[Meta Bind]], [[Tasks]], [[QuickAdd]], [[Periodic Notes]], and [[Charts]], you'll build a review ecosystem that becomes more intelligent as your PKB grows.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "QuickAdd",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[QuickAdd]]",
+        "line_number": 104,
+        "section": "🔄 Intelligent PKB Review System: Multi-Plugin Synergy Architecture",
+        "context_line": "> This comprehensive review system creates a self-organizing, data-driven workflow that automatically identifies notes requiring attention, schedules reviews using [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] principles, provides interactive review interfaces, and generates visual analytics on your knowledge maintenance patterns. By orchestrating [[Dataview]], [[Templater]], [[Meta Bind]], [[Tasks]], [[QuickAdd]], [[Periodic Notes]], and [[Charts]], you'll build a review ecosystem that becomes more intelligent as your PKB grows.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Periodic Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Periodic Notes]]",
+        "line_number": 104,
+        "section": "🔄 Intelligent PKB Review System: Multi-Plugin Synergy Architecture",
+        "context_line": "> This comprehensive review system creates a self-organizing, data-driven workflow that automatically identifies notes requiring attention, schedules reviews using [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] principles, provides interactive review interfaces, and generates visual analytics on your knowledge maintenance patterns. By orchestrating [[Dataview]], [[Templater]], [[Meta Bind]], [[Tasks]], [[QuickAdd]], [[Periodic Notes]], and [[Charts]], you'll build a review ecosystem that becomes more intelligent as your PKB grows.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Charts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Charts]]",
+        "line_number": 104,
+        "section": "🔄 Intelligent PKB Review System: Multi-Plugin Synergy Architecture",
+        "context_line": "> This comprehensive review system creates a self-organizing, data-driven workflow that automatically identifies notes requiring attention, schedules reviews using [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] principles, provides interactive review interfaces, and generates visual analytics on your knowledge maintenance patterns. By orchestrating [[Dataview]], [[Templater]], [[Meta Bind]], [[Tasks]], [[QuickAdd]], [[Periodic Notes]], and [[Charts]], you'll build a review ecosystem that becomes more intelligent as your PKB grows.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 111,
+        "section": "🏗️ Architectural Philosophy",
+        "context_line": "Rather than maintaining review lists manually, [[Dataview]] queries automatically discover notes based on metadata patterns, edit timestamps, maturity levels, and usage frequency. Your review queue builds itself.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Knowledge Maturity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Maturity]]",
+        "line_number": 114,
+        "section": "🏗️ Architectural Philosophy",
+        "context_line": "Notes at different [[Knowledge Maturity]] stages (seedling → sapling → tree → evergreen) require different review frequencies. The system uses [[Tasks]] plugin with [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] intervals calibrated to maturity level.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks]]",
+        "line_number": 114,
+        "section": "🏗️ Architectural Philosophy",
+        "context_line": "Notes at different [[Knowledge Maturity]] stages (seedling → sapling → tree → evergreen) require different review frequencies. The system uses [[Tasks]] plugin with [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] intervals calibrated to maturity level.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+        "line_number": 114,
+        "section": "🏗️ Architectural Philosophy",
+        "context_line": "Notes at different [[Knowledge Maturity]] stages (seedling → sapling → tree → evergreen) require different review frequencies. The system uses [[Tasks]] plugin with [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] intervals calibrated to maturity level.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Meta Bind",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Meta Bind]]",
+        "line_number": 117,
+        "section": "🏗️ Architectural Philosophy",
+        "context_line": "[[Meta Bind]] buttons and [[QuickAdd]] macros eliminate the cognitive overhead of review workflows. One-click actions update metadata, reschedule reviews, and capture insights without breaking flow state.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "QuickAdd",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[QuickAdd]]",
+        "line_number": 117,
+        "section": "🏗️ Architectural Philosophy",
+        "context_line": "[[Meta Bind]] buttons and [[QuickAdd]] macros eliminate the cognitive overhead of review workflows. One-click actions update metadata, reschedule reviews, and capture insights without breaking flow state.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 154,
+        "section": "Component 2: Periodic Review Note Template",
+        "context_line": "> This template creates structured daily/weekly/monthly review notes with embedded DataviewJS queries and Meta Bind controls. Place in your [[Templater]] templates folder.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Meta Bind",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Meta Bind]]",
+        "line_number": 278,
+        "section": "Component 3: Meta Bind Review Buttons",
+        "context_line": "> These [[Meta Bind]] button configurations provide one-click review actions. Add to your Meta Bind button settings or embed directly in notes.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "QuickAdd",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[QuickAdd]]",
+        "line_number": 319,
+        "section": "Component 4: QuickAdd Review Workflow Macro",
+        "context_line": "> This [[QuickAdd]] macro creates a streamlined workflow for reviewing notes, updating metadata, and capturing insights in one action sequence.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "update-review-metadata",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[update-review-metadata]]",
+        "line_number": 349,
+        "section": "Component 4: QuickAdd Review Workflow Macro",
+        "context_line": "await tp.file.include(\"[[update-review-metadata]]\", {",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks]]",
+        "line_number": 378,
+        "section": "Component 5: Tasks Plugin Spaced Repetition Integration",
+        "context_line": "> Use [[Tasks]] plugin's recurring task syntax to generate review reminders. This component creates self-updating task entries in your review notes.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 382,
+        "section": "Component 5: Tasks Plugin Spaced Repetition Integration",
+        "context_line": "Add this section to your note templates (via [[Templater]]):",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks]]",
+        "line_number": 400,
+        "section": "📅 Review Schedule",
+        "context_line": "1. When you mark a review task as complete, [[Tasks]] automatically generates the next occurrence",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+        "line_number": 401,
+        "section": "📅 Review Schedule",
+        "context_line": "2. The `🔁 every X days` syntax creates [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Charts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Charts]]",
+        "line_number": 407,
+        "section": "Component 6: Visual Analytics Dashboard",
+        "context_line": "> Create a dedicated dashboard note that visualizes your review patterns using [[Charts]] plugin and [[DataviewJS]].",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "DataviewJS",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DataviewJS]]",
+        "line_number": 407,
+        "section": "Component 6: Visual Analytics Dashboard",
+        "context_line": "> Create a dedicated dashboard note that visualizes your review patterns using [[Charts]] plugin and [[DataviewJS]].",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 552,
+        "section": "Phase 3: Automation Scaling (Week 3)",
+        "context_line": "1. **Bulk add review metadata** to existing notes using [[Dataview]] query + [[Templater]] script",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 552,
+        "section": "Phase 3: Automation Scaling (Week 3)",
+        "context_line": "1. **Bulk add review metadata** to existing notes using [[Dataview]] query + [[Templater]] script",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Periodic Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Periodic Notes]]",
+        "line_number": 554,
+        "section": "Phase 3: Automation Scaling (Week 3)",
+        "context_line": "3. **Create weekly/monthly review cadence** using [[Periodic Notes]]",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Charts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Charts]]",
+        "line_number": 557,
+        "section": "Phase 4: Analytics & Optimization (Week 4)",
+        "context_line": "1. **Deploy Review Analytics Dashboard** with [[Charts]]",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 569,
+        "section": "Optimization 1: Intelligent Maturity Promotion",
+        "context_line": "> Create a [[Templater]] user script that automatically suggests maturity promotions based on review history and engagement patterns.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Charts",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Charts]]",
+        "line_number": 639,
+        "section": "Optimization 3: Review Heatmap Visualization",
+        "context_line": "> Use [[Charts]] to create a GitHub-style contribution heatmap showing review activity patterns.",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "bulk-update-metadata",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[bulk-update-metadata]]",
+        "line_number": 728,
+        "section": "⚠️ Common Pitfalls & Solutions",
+        "context_line": "await tp.file.include(\"[[bulk-update-metadata]]\", {",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 750,
+        "section": "🎓 Learning Outcomes & Skill Progression",
+        "context_line": "- ✅ Multi-plugin orchestration expertise ([[Dataview]] + [[Templater]] + [[Meta Bind]] + [[Tasks]])",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 750,
+        "section": "🎓 Learning Outcomes & Skill Progression",
+        "context_line": "- ✅ Multi-plugin orchestration expertise ([[Dataview]] + [[Templater]] + [[Meta Bind]] + [[Tasks]])",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Meta Bind",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Meta Bind]]",
+        "line_number": 750,
+        "section": "🎓 Learning Outcomes & Skill Progression",
+        "context_line": "- ✅ Multi-plugin orchestration expertise ([[Dataview]] + [[Templater]] + [[Meta Bind]] + [[Tasks]])",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Tasks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks]]",
+        "line_number": 750,
+        "section": "🎓 Learning Outcomes & Skill Progression",
+        "context_line": "- ✅ Multi-plugin orchestration expertise ([[Dataview]] + [[Templater]] + [[Meta Bind]] + [[Tasks]])",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+        "line_number": 752,
+        "section": "🎓 Learning Outcomes & Skill Progression",
+        "context_line": "- ✅ [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] implementation for knowledge maintenance",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "QuickAdd",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[QuickAdd]]",
+        "line_number": 763,
+        "section": "🎓 Learning Outcomes & Skill Progression",
+        "context_line": "2. **Near-term Enhancement:** AI-assisted review summaries using [[QuickAdd]] + GPT integration",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Spaced Repetition Algorithms",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Spaced Repetition Algorithms]]",
+        "line_number": 771,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Spaced Repetition Algorithms]]**",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Progressive Summarization Methodology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Progressive Summarization Methodology]]",
+        "line_number": 776,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Progressive Summarization Methodology]]**",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Knowledge Graph Analytics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Graph Analytics]]",
+        "line_number": 781,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Knowledge Graph Analytics]]**",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Atomic Note Refactoring Patterns",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Atomic Note Refactoring Patterns]]",
+        "line_number": 786,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Atomic Note Refactoring Patterns]]**",
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 789,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Quality maintenance process ensuring [[Zettelkasten]] principles at scale",
+        "source": "reference-instructional-review-system-2025112923.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "pkm",
+        "full_tag": "#pkm",
+        "hierarchy": [
+          "pkm"
+        ],
+        "line_number": 79,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 79,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "review-system",
+        "full_tag": "#review-system",
+        "hierarchy": [
+          "review-system"
+        ],
+        "line_number": 79,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "automation",
+        "full_tag": "#automation",
+        "hierarchy": [
+          "automation"
+        ],
+        "line_number": 79,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "technical-guide",
+        "full_tag": "#technical-guide",
+        "hierarchy": [
+          "technical-guide"
+        ],
+        "line_number": 79,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "pkm",
+        "full_tag": "#pkm",
+        "hierarchy": [
+          "pkm"
+        ],
+        "line_number": 97,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 97,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "review-system",
+        "full_tag": "#review-system",
+        "hierarchy": [
+          "review-system"
+        ],
+        "line_number": 97,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "automation",
+        "full_tag": "#automation",
+        "hierarchy": [
+          "automation"
+        ],
+        "line_number": 97,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "technical-guide",
+        "full_tag": "#technical-guide",
+        "hierarchy": [
+          "technical-guide"
+        ],
+        "line_number": 97,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "dataview",
+        "full_tag": "#dataview",
+        "hierarchy": [
+          "dataview"
+        ],
+        "line_number": 97,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "templater",
+        "full_tag": "#templater",
+        "hierarchy": [
+          "templater"
+        ],
+        "line_number": 97,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "review-session",
+        "full_tag": "#review-session",
+        "hierarchy": [
+          "review-session"
+        ],
+        "line_number": 316,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "tag": "review-session",
+        "full_tag": "#review-session",
+        "hierarchy": [
+          "review-session"
+        ],
+        "line_number": 401,
+        "source": "reference-instructional-review-system-2025112923.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "🔄 Intelligent PKB Review System: Multi-Plugin Synergy Architecture",
+        "anchor": "intelligent-pkb-review-system-multi-plugin-synergy-architecture",
+        "line_number": 101,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "🏗️ Architectural Philosophy",
+        "anchor": "architectural-philosophy",
+        "line_number": 106,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "📋 System Components Architecture",
+        "anchor": "system-components-architecture",
+        "line_number": 121,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 1: Review Metadata Schema",
+        "anchor": "component-1-review-metadata-schema",
+        "line_number": 123,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 2: Periodic Review Note Template",
+        "anchor": "component-2-periodic-review-note-template",
+        "line_number": 151,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 1,
+        "text": "📅 <% tp.date.now(\"YYYY-MM-DD\") %> Review Session",
+        "anchor": "review-session",
+        "line_number": 167,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Review Queue",
+        "anchor": "review-queue",
+        "line_number": 173,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 Review Actions",
+        "anchor": "review-actions",
+        "line_number": 254,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "📝 Review Notes",
+        "anchor": "review-notes",
+        "line_number": 261,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "📈 Session Statistics",
+        "anchor": "session-statistics",
+        "line_number": 267,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 3: Meta Bind Review Buttons",
+        "anchor": "component-3-meta-bind-review-buttons",
+        "line_number": 275,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 4: QuickAdd Review Workflow Macro",
+        "anchor": "component-4-quickadd-review-workflow-macro",
+        "line_number": 316,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 5: Tasks Plugin Spaced Repetition Integration",
+        "anchor": "component-5-tasks-plugin-spaced-repetition-integration",
+        "line_number": 375,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "📅 Review Schedule",
+        "anchor": "review-schedule",
+        "line_number": 385,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 6: Visual Analytics Dashboard",
+        "anchor": "component-6-visual-analytics-dashboard",
+        "line_number": 404,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 1,
+        "text": "📊 PKB Review Analytics Dashboard",
+        "anchor": "pkb-review-analytics-dashboard",
+        "line_number": 416,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Review Completion Trends",
+        "anchor": "review-completion-trends",
+        "line_number": 418,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "📈 Maturity Distribution",
+        "anchor": "maturity-distribution",
+        "line_number": 441,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "⏰ Review Queue Health",
+        "anchor": "review-queue-health",
+        "line_number": 483,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "📅 Review Consistency (Last 30 Days)",
+        "anchor": "review-consistency-last-30-days",
+        "line_number": 513,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "🚀 Implementation Roadmap",
+        "anchor": "implementation-roadmap",
+        "line_number": 534,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 1: Foundation (Week 1)",
+        "anchor": "phase-1-foundation-week-1",
+        "line_number": 539,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 2: Interaction Layer (Week 2)",
+        "anchor": "phase-2-interaction-layer-week-2",
+        "line_number": 545,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 3: Automation Scaling (Week 3)",
+        "anchor": "phase-3-automation-scaling-week-3",
+        "line_number": 551,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 4: Analytics & Optimization (Week 4)",
+        "anchor": "phase-4-analytics-optimization-week-4",
+        "line_number": 556,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "🔧 Advanced Optimizations",
+        "anchor": "advanced-optimizations",
+        "line_number": 564,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Optimization 1: Intelligent Maturity Promotion",
+        "anchor": "optimization-1-intelligent-maturity-promotion",
+        "line_number": 566,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Optimization 2: Domain-Specific Review Queues",
+        "anchor": "optimization-2-domain-specific-review-queues",
+        "line_number": 606,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 3,
+        "text": "Optimization 3: Review Heatmap Visualization",
+        "anchor": "optimization-3-review-heatmap-visualization",
+        "line_number": 636,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "⚠️ Common Pitfalls & Solutions",
+        "anchor": "common-pitfalls-solutions",
+        "line_number": 687,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 2,
+        "text": "🎓 Learning Outcomes & Skill Progression",
+        "anchor": "learning-outcomes-skill-progression",
+        "line_number": 747,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 769,
+        "source": "reference-instructional-review-system-2025112923.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "yaml",
+        "code": "---\ntags: [your existing tags]\nreview:\n  last_reviewed: 2024-11-29\n  next_review: 2024-12-13\n  review_count: 3\n  maturity: sapling  # seedling | sapling | tree | evergreen\n  review_interval: 14  # days until next review\n  priority: medium  # low | medium | high | urgent\nstatus: active  # active | archived | deprecated\n---",
+        "line_start": 128,
+        "line_end": 140,
+        "char_count": 323,
+        "line_count": 11,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntags: #review-session #periodic-note\ndate: <% tp.date.now(\"YYYY-MM-DD\") %>\nreview_type: <% tp.system.suggester([\"Daily Review\", \"Weekly Review\", \"Monthly Review\"], [\"daily\", \"weekly\", \"monthly\"]) %>\ncompleted: false\nnotes_reviewed: 0\n---\n\n# 📅 <% tp.date.now(\"YYYY-MM-DD\") %> Review Session\n\n> [!abstract] Session Objective\n> Review Type: **<% tp.system.suggester([\"Daily\", \"Weekly\", \"Monthly\"], [\"daily\", \"weekly\", \"monthly\"]) %>**\n> Target: Review notes requiring attention based on maturity and interval\n\n## 🎯 Review Queue",
+        "line_start": 158,
+        "line_end": 175,
+        "char_count": 528,
+        "line_count": 15,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "## 🔄 Review Actions\n\n`BUTTON[complete-review]` Complete This Review Session\n`BUTTON[skip-low-priority]` Skip Low Priority Notes\n\n---\n\n## 📝 Review Notes\n\n[Capture insights, observations, or patterns noticed during this review session]\n\n---\n\n## 📈 Session Statistics\n\n**Notes Reviewed:** `VIEW[{notes_reviewed}]`\n**Session Duration:** [Manual entry]\n**Completion Status:** `VIEW[{completed}][toggle]`",
+        "line_start": 252,
+        "line_end": 273,
+        "char_count": 397,
+        "line_count": 18,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "yaml",
+        "code": "id: mark-reviewed\nlabel: ✅ Mark Reviewed\nclass: mod-cta\naction:\n  type: updateMetadata\n  fields:\n    - review.last_reviewed: \"{{date:YYYY-MM-DD}}\"\n    - review.review_count: \"{{add:review.review_count:1}}\"\n    - review.next_review: \"{{calculate_next_review}}\"",
+        "line_start": 283,
+        "line_end": 293,
+        "char_count": 259,
+        "line_count": 9,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "yaml",
+        "code": "id: promote-maturity\nlabel: ⬆️ Promote Maturity\naction:\n  type: updateMetadata\n  fields:\n    - review.maturity: \"{{next_maturity}}\"\n    - review.review_interval: \"{{maturity_interval}}\"",
+        "line_start": 296,
+        "line_end": 304,
+        "char_count": 185,
+        "line_count": 7,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "yaml",
+        "code": "id: cycle-priority\nlabel: 🎯 Cycle Priority\naction:\n  type: updateMetadata\n  fields:\n    - review.priority: \"{{cycle:low,medium,high,urgent}}\"",
+        "line_start": 307,
+        "line_end": 314,
+        "char_count": 141,
+        "line_count": 6,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "javascript",
+        "code": "<%*\n// Calculate next review date based on maturity\nconst maturityIntervals = {\n    \"seedling\": 3,\n    \"sapling\": 7,\n    \"tree\": 14,\n    \"evergreen\": 30\n};\n\nconst currentMaturity = tp.frontmatter.review?.maturity || \"seedling\";\nconst interval = maturityIntervals[currentMaturity];\nconst nextReview = tp.date.now(\"YYYY-MM-DD\", interval);\n\n// Update frontmatter\nawait tp.file.include(\"[[update-review-metadata]]\", {\n    last_reviewed: tp.date.now(\"YYYY-MM-DD\"),\n    review_count: (tp.frontmatter.review?.review_count || 0) + 1,\n    next_review: nextReview,\n    review_interval: interval\n});\n%>",
+        "line_start": 334,
+        "line_end": 356,
+        "char_count": 591,
+        "line_count": 21,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "javascript",
+        "code": "<%*\n// Find today's review session note\nconst reviewNote = tp.file.find_tfile(\"YYYY-MM-DD Review Session\");\nif (reviewNote) {\n    const content = await app.vault.read(reviewNote);\n    const currentCount = content.match(/notes_reviewed: (\\d+)/)?.[1] || 0;\n    const newContent = content.replace(\n        /notes_reviewed: \\d+/,\n        `notes_reviewed: ${parseInt(currentCount) + 1}`\n    );\n    await app.vault.modify(reviewNote, newContent);\n}\n%>",
+        "line_start": 359,
+        "line_end": 373,
+        "char_count": 445,
+        "line_count": 13,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "markdown",
+        "code": "## 📅 Review Schedule",
+        "line_start": 384,
+        "line_end": 387,
+        "char_count": 20,
+        "line_count": 1,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "- [ ] Review: {{title}} 📅 <% tp.date.now(\"YYYY-MM-DD\", tp.frontmatter.review?.review_interval || 7) %> 🔁 every {{review_interval}} days ⏫",
+        "line_start": 394,
+        "line_end": 397,
+        "char_count": 137,
+        "line_count": 1,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntags: #dashboard #analytics #review-system\n---\n\n# 📊 PKB Review Analytics Dashboard\n\n## 🎯 Review Completion Trends",
+        "line_start": 411,
+        "line_end": 420,
+        "char_count": 117,
+        "line_count": 7,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "## 📈 Maturity Distribution",
+        "line_start": 439,
+        "line_end": 443,
+        "char_count": 26,
+        "line_count": 1,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "## ⏰ Review Queue Health",
+        "line_start": 481,
+        "line_end": 485,
+        "char_count": 24,
+        "line_count": 1,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "## 📅 Review Consistency (Last 30 Days)",
+        "line_start": 511,
+        "line_end": 515,
+        "char_count": 38,
+        "line_count": 1,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 529,
+        "line_end": 530,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "javascript",
+        "code": "module.exports = async (tp) => {\n    const review = tp.frontmatter.review;\n    if (!review) return \"seedling\";\n    \n    const reviewCount = review.review_count || 0;\n    const currentMaturity = review.maturity || \"seedling\";\n    \n    // Promotion criteria\n    const promotionRules = {\n        seedling: { minReviews: 3, nextStage: \"sapling\" },\n        sapling: { minReviews: 6, nextStage: \"tree\" },\n        tree: { minReviews: 10, nextStage: \"evergreen\" },\n        evergreen: { minReviews: Infinity, nextStage: \"evergreen\" }\n    };\n    \n    const rule = promotionRules[currentMaturity];\n    \n    if (reviewCount >= rule.minReviews) {\n        const shouldPromote = await tp.system.prompt(\n            `This note has ${reviewCount} reviews. Promote from ${currentMaturity} to ${rule.nextStage}?`,\n            null,\n            false,\n            true\n        );\n        \n        return shouldPromote ? rule.nextStage : currentMaturity;\n    }\n    \n    return currentMaturity;\n};",
+        "line_start": 573,
+        "line_end": 604,
+        "char_count": 975,
+        "line_count": 30,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "const today = dv.date(\"today\");\n\nconst techNotes = dv.pages('#technical-concept OR #code-reference OR #algorithm')\n    .where(p => \n        p.review && \n        p.status === \"active\" &&\n        dv.date(p.review.next_review) <= today.plus(dv.duration(\"3d\"))\n    )\n    .sort(p => p.review.maturity === \"seedling\" ? 0 : 1, \"asc\");\n\ndv.header(3, \"🔧 Technical Knowledge Review Queue\");\ndv.table(\n    [\"Concept\", \"Maturity\", \"Last Reviewed\", \"Actions\"],\n    techNotes.map(p => [\n        p.file.link,\n        p.review.maturity,\n        p.review.last_reviewed,\n        \"[[#Quick Review|Review Now]]\"\n    ])\n);",
+        "line_start": 613,
+        "line_end": 634,
+        "char_count": 601,
+        "line_count": 20,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "// Generate last 90 days of review activity\nconst endDate = dv.date('today');\nconst startDate = endDate.minus(dv.duration('90d'));\n\nconst reviewSessions = dv.pages('#review-session')\n    .where(p => p.date >= startDate && p.date <= endDate);\n\n// Create date map\nconst dateMap = {};\nfor (let d = startDate; d <= endDate; d = d.plus(dv.duration('1d'))) {\n    const dateStr = d.toFormat('yyyy-MM-dd');\n    const session = reviewSessions.find(s => s.date.toFormat('yyyy-MM-dd') === dateStr);\n    dateMap[dateStr] = session?.notes_reviewed || 0;\n}\n\n// Charts.js heatmap configuration\nconst heatmapData = {\n    type: 'matrix',\n    data: {\n        datasets: [{\n            label: 'Review Activity',\n            data: Object.entries(dateMap).map(([date, count]) => ({\n                x: date,\n                y: 1,\n                v: count\n            })),\n            backgroundColor: (context) => {\n                const value = context.dataset.data[context.dataIndex].v;\n                if (value === 0) return 'rgba(200, 200, 200, 0.2)';\n                if (value <= 3) return 'rgba(54, 162, 235, 0.4)';\n                if (value <= 6) return 'rgba(54, 162, 235, 0.6)';\n                if (value <= 10) return 'rgba(54, 162, 235, 0.8)';\n                return 'rgba(54, 162, 235, 1)';\n            },\n            width: ({chart}) => (chart.chartArea?.width || 0) / 90,\n            height: ({chart}) => (chart.chartArea?.height || 0)\n        }]\n    }\n};\n\ndv.paragraph('",
+        "line_start": 641,
+        "line_end": 682,
+        "char_count": 1463,
+        "line_count": 41,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## ⚠️ Common Pitfalls & Solutions\n\n> [!warning] Metadata Consistency Issues\n> **Problem:** Dataview queries fail because some notes lack complete review metadata.\n> \n> **Solution:** Create a \"metadata validator\" query that identifies incomplete notes:",
+        "line_start": 683,
+        "line_end": 694,
+        "char_count": 256,
+        "line_count": 8,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!warning] Review Queue Overload\n> **Problem:** Review queue becomes overwhelming with hundreds of overdue notes.\n> \n> **Solution:** Implement \"review amnesty\" - bulk reset intervals for low-priority overdue notes:",
+        "line_start": 709,
+        "line_end": 716,
+        "char_count": 216,
+        "line_count": 4,
+        "source": "reference-instructional-review-system-2025112923.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Create Macro:** QuickAdd Settings → Manage Macros → New Macro",
+          "indent_level": 0,
+          "line_number": 251,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Name:** \"Quick Review Note\"",
+          "indent_level": 0,
+          "line_number": 251,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Add Steps in Order:**",
+          "indent_level": 0,
+          "line_number": 251,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "When you mark a review task as complete, [[Tasks]] automatically generates the next occurrence",
+          "indent_level": 0,
+          "line_number": 292,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "The `🔁 every X days` syntax creates [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]]",
+          "indent_level": 0,
+          "line_number": 297,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "Priority emoji (⏫ high, 🔼 medium, 🔽 low) integrates with your metadata priority",
+          "indent_level": 0,
+          "line_number": 302,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Add Review Metadata Schema** to 5-10 test notes manually",
+          "indent_level": 0,
+          "line_number": 435,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Create Periodic Review Template** and generate your first review session",
+          "indent_level": 0,
+          "line_number": 438,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Validate** that Dataview queries correctly identify test notes",
+          "indent_level": 0,
+          "line_number": 444,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Troubleshoot** any query syntax issues before scaling",
+          "indent_level": 0,
+          "line_number": 445,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Configure Meta Bind Buttons** for review actions",
+          "indent_level": 0,
+          "line_number": 448,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Test buttons** on your initial test notes",
+          "indent_level": 0,
+          "line_number": 449,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Create QuickAdd Macro** for streamlined review workflow",
+          "indent_level": 0,
+          "line_number": 450,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Refine** button actions based on actual usage",
+          "indent_level": 0,
+          "line_number": 451,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Bulk add review metadata** to existing notes using [[Dataview]] query + [[Templater]] script",
+          "indent_level": 0,
+          "line_number": 454,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Set up Tasks integration** for recurring review reminders",
+          "indent_level": 0,
+          "line_number": 458,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Create weekly/monthly review cadence** using [[Periodic Notes]]",
+          "indent_level": 0,
+          "line_number": 459,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Deploy Review Analytics Dashboard** with [[Charts]]",
+          "indent_level": 0,
+          "line_number": 462,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Analyze patterns** to optimize review intervals",
+          "indent_level": 0,
+          "line_number": 464,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Adjust maturity promotion criteria** based on data",
+          "indent_level": 0,
+          "line_number": 466,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Fine-tune priority assignments**",
+          "indent_level": 0,
+          "line_number": 470,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Current State:** Automated review queue generation and scheduling",
+          "indent_level": 0,
+          "line_number": 558,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Near-term Enhancement:** AI-assisted review summaries using [[QuickAdd]] + GPT integration",
+          "indent_level": 0,
+          "line_number": 559,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Advanced Integration:** Cross-vault knowledge graph analysis showing review impact on note connectivity",
+          "indent_level": 0,
+          "line_number": 566,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Expert Application:** Personalized review interval optimization using statistical analysis of retention patterns",
+          "indent_level": 0,
+          "line_number": 569,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**[[Spaced Repetition Algorithms]]**",
+          "indent_level": 0,
+          "line_number": 571,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**[[Progressive Summarization Methodology]]**",
+          "indent_level": 0,
+          "line_number": 584,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**[[Knowledge Graph Analytics]]**",
+          "indent_level": 0,
+          "line_number": 593,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**[[Atomic Note Refactoring Patterns]]**",
+          "indent_level": 0,
+          "line_number": 609,
+          "source": "reference-instructional-review-system-2025112923.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "`last_reviewed`: ISO date of most recent review",
+          "indent_level": 0,
+          "line_number": 132,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "`next_review`: Calculated target date for next review (auto-updated by system)",
+          "indent_level": 0,
+          "line_number": 133,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "`review_count`: Increments with each review (tracks engagement history)",
+          "indent_level": 0,
+          "line_number": 135,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "`maturity`: Current knowledge development stage",
+          "indent_level": 0,
+          "line_number": 137,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "`review_interval`: Days between reviews (increases with maturity)",
+          "indent_level": 0,
+          "line_number": 138,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "`priority`: Manual override for important notes",
+          "indent_level": 0,
+          "line_number": 143,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "`status`: Lifecycle state (archived notes excluded from review queue)",
+          "indent_level": 0,
+          "line_number": 144,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "Type: Capture",
+          "indent_level": 0,
+          "line_number": 256,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "Format: `## Review - {{DATE:YYYY-MM-DD}}\\n\\n**Status:** {{VALUE:Status}}\\n**Changes Made:** {{VALUE:Changes}}\\n**Next Actions:** {{VALUE:Next Actions}}\\n\\n---\\n\\n`",
+          "indent_level": 0,
+          "line_number": 256,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "Insert at: End of file",
+          "indent_level": 0,
+          "line_number": 263,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "Insert after: `## Review Log`",
+          "indent_level": 0,
+          "line_number": 267,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "✅ Multi-plugin orchestration expertise ([[Dataview]] + [[Templater]] + [[Meta Bind]] + [[Tasks]])",
+          "indent_level": 0,
+          "line_number": 542,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "✅ Self-organizing system design using metadata-driven queries",
+          "indent_level": 0,
+          "line_number": 543,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "✅ [[03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition]] implementation for knowledge maintenance",
+          "indent_level": 0,
+          "line_number": 545,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "✅ Interactive dashboard creation with visual analytics",
+          "indent_level": 0,
+          "line_number": 548,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "✅ Production-grade automation with error handling",
+          "indent_level": 0,
+          "line_number": 549,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**You can now:** Design complex review workflows that adapt to note maturity",
+          "indent_level": 0,
+          "line_number": 552,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Next challenge:** Create domain-specific review systems (e.g., separate workflows for literature notes vs. technical references)",
+          "indent_level": 0,
+          "line_number": 552,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "**Advanced goal:** Build predictive review scheduling using machine learning patterns from your review history data",
+          "indent_level": 0,
+          "line_number": 554,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "*Connection*: This review system implements basic spaced repetition, but formal algorithms (SM-2, SM-17, FSRS) offer mathematical optimization",
+          "indent_level": 1,
+          "line_number": 574,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "*Depth Potential*: Deep dive into forgetting curves, optimal interval calculation, and difficulty adjustment",
+          "indent_level": 1,
+          "line_number": 579,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Bridges cognitive science research with practical PKB implementation",
+          "indent_level": 1,
+          "line_number": 583,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "*Connection*: Reviews provide ideal opportunities to apply Tiago Forte's layer-based summarization during note maintenance",
+          "indent_level": 1,
+          "line_number": 585,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "*Depth Potential*: Integration of highlighting, bolding, and executive summary layers into review workflows",
+          "indent_level": 1,
+          "line_number": 589,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Connects review systems to note quality improvement and information distillation",
+          "indent_level": 1,
+          "line_number": 592,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "*Connection*: Review patterns reveal note centrality, cluster formation, and knowledge gaps in your PKB topology",
+          "indent_level": 1,
+          "line_number": 595,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "*Depth Potential*: Network analysis metrics (PageRank, betweenness centrality) applied to note relationships",
+          "indent_level": 1,
+          "line_number": 601,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "*Connection*: Regular reviews identify oversized notes requiring decomposition into atomic units",
+          "indent_level": 1,
+          "line_number": 611,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "*Depth Potential*: Systematic approaches to splitting complex notes while preserving relationships and context",
+          "indent_level": 1,
+          "line_number": 616,
+          "source": "reference-instructional-review-system-2025112923.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Quality maintenance process ensuring [[Zettelkasten]] principles at scale",
+          "indent_level": 1,
+          "line_number": 620,
+          "source": "reference-instructional-review-system-2025112923.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{urgent.length} | High:",
+        "format": "inline",
+        "line_number": 221,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "expression": "{medium.length} | Low:",
+        "format": "inline",
+        "line_number": 222,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "expression": "{completedSessions} (",
+        "format": "inline",
+        "line_number": 506,
+        "source": "reference-instructional-review-system-2025112923.md"
+      },
+      {
+        "expression": "{reviewCount} reviews. Promote from",
+        "format": "inline",
+        "line_number": 571,
+        "source": "reference-instructional-review-system-2025112923.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+      "Atomic Note Refactoring Patterns",
+      "Charts",
+      "Dataview",
+      "DataviewJS",
+      "Knowledge Graph Analytics",
+      "Knowledge Maturity",
+      "Meta Bind",
+      "Periodic Notes",
+      "Progressive Summarization Methodology",
+      "QuickAdd",
+      "Spaced Repetition Algorithms",
+      "Tasks",
+      "Templater",
+      "Zettelkasten",
+      "bulk-update-metadata",
+      "update-review-metadata"
+    ],
+    "unique_wiki_link_count": 17,
+    "unique_tags": [
+      "#automation",
+      "#dataview",
+      "#obsidian",
+      "#pkm",
+      "#review-session",
+      "#review-system",
+      "#technical-guide",
+      "#templater"
+    ],
+    "unique_tag_count": 8,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "03-notes/01_permanent-notes/01_cognitive-development/Spaced Repetition",
+      "Atomic Note Refactoring Patterns",
+      "Charts",
+      "Dataview",
+      "DataviewJS",
+      "Knowledge Graph Analytics",
+      "Knowledge Maturity",
+      "Meta Bind",
+      "Periodic Notes",
+      "Progressive Summarization Methodology",
+      "QuickAdd",
+      "Spaced Repetition Algorithms",
+      "Tasks",
+      "Templater",
+      "Zettelkasten",
+      "bulk-update-metadata",
+      "update-review-metadata"
+    ]
+  }
+}

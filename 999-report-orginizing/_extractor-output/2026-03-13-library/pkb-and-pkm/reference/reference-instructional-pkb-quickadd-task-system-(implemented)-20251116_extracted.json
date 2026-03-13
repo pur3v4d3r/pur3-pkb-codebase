@@ -1,0 +1,3218 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.844305",
+    "source_file": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+    "source_file_size_bytes": 34374,
+    "processing_time_seconds": 0.016
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Implementing a system update to the Current QuickAdd Capture for Tasks",
+      "id": "20251116081510",
+      "type": "",
+      "status": "seedling",
+      "rating": "",
+      "source": "",
+      "url": "",
+      "tags": [
+        "year/2025",
+        "status/seedling",
+        "type/reference",
+        "source/pur3v4d3r",
+        "source/pur3v4d3r/llm/claude",
+        "pkm",
+        "pkb"
+      ],
+      "aliases": [
+        "QuickAdd Capture Rework",
+        "QuickAdd Format",
+        "QuickAdd Update",
+        "Task Capture System",
+        "QuickAdd Task Format",
+        "Obsidian Task Integration",
+        "Multi-Plugin Task System",
+        "Task Capture"
+      ],
+      "link-up": [],
+      "link-related": [
+        "[[202511160430_day-planner-plugin-reference-note]]",
+        "[[202511142154_planning-through-a-pkb_comprehensive-reference]]",
+        "[[202511140206_dataview_comprehensive-reference]]"
+      ]
+    },
+    "word_count": 4816,
+    "character_count": 33031,
+    "line_count": 957,
+    "heading_count": 54
+  },
+  "extraction_summary": {
+    "total_items_extracted": 331,
+    "by_type": {
+      "headings": 54,
+      "callouts": 12,
+      "wiki_links": 30,
+      "inline_fields": 23,
+      "definitions": 0,
+      "tags": 5,
+      "code_blocks": 45,
+      "tables": 5,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 19,
+      "lists_unordered": 133,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 5
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "PKB Task Capture System: Production-Ready Multi-Plugin Integration",
+      "anchor": "pkb-task-capture-system-production-ready-multi-plugin-integration",
+      "line_number": 73,
+      "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Executive Summary",
+          "anchor": "executive-summary",
+          "line_number": 75,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Plugin Capability Analysis",
+          "anchor": "plugin-capability-analysis",
+          "line_number": 88,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Tasks Plugin (Emoji Format)",
+              "anchor": "tasks-plugin-emoji-format",
+              "line_number": 94,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Dataview (Inline Fields & Task Queries)",
+              "anchor": "dataview-inline-fields-task-queries",
+              "line_number": 116,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Day Planner (Time Block Format)",
+              "anchor": "day-planner-time-block-format",
+              "line_number": 145,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "QuickAdd (Template Variables)",
+              "anchor": "quickadd-template-variables",
+              "line_number": 174,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Unified Metadata Schema",
+          "anchor": "unified-metadata-schema",
+          "line_number": 194,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Production-Ready QuickAdd Format",
+          "anchor": "production-ready-quickadd-format",
+          "line_number": 211,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "User Interaction Flow",
+              "anchor": "user-interaction-flow",
+              "line_number": 221,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Format Breakdown & Explanation",
+          "anchor": "format-breakdown-explanation",
+          "line_number": 242,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Component 1: Task Description",
+              "anchor": "component-1-task-description",
+              "line_number": 248,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Component 2: Time Block (Optional)",
+              "anchor": "component-2-time-block-optional",
+              "line_number": 266,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Component 3: Scheduled Date",
+              "anchor": "component-3-scheduled-date",
+              "line_number": 288,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Component 4: Due Date (Optional)",
+              "anchor": "component-4-due-date-optional",
+              "line_number": 310,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Component 5: Priority (Optional)",
+              "anchor": "component-5-priority-optional",
+              "line_number": 334,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Component 6: Backlink",
+              "anchor": "component-6-backlink",
+              "line_number": 362,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Example Tasks",
+          "anchor": "example-tasks",
+          "line_number": 386,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. Simple Task (No Time Block)",
+              "anchor": "1-simple-task-no-time-block",
+              "line_number": 392,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. Time-Blocked Task",
+              "anchor": "2-time-blocked-task",
+              "line_number": 410,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. High-Priority Urgent Task",
+              "anchor": "3-high-priority-urgent-task",
+              "line_number": 428,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. Recurring Task",
+              "anchor": "4-recurring-task",
+              "line_number": 446,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5. Long-Running Task with Duration Context",
+              "anchor": "5-long-running-task-with-duration-context",
+              "line_number": 468,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Dataview Query Cookbook",
+          "anchor": "dataview-query-cookbook",
+          "line_number": 488,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. Today's Time-Blocked Tasks",
+              "anchor": "1-todays-time-blocked-tasks",
+              "line_number": 494,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. Overdue High-Priority Tasks",
+              "anchor": "2-overdue-high-priority-tasks",
+              "line_number": 506,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. Tasks Grouped by Priority (All Levels)",
+              "anchor": "3-tasks-grouped-by-priority-all-levels",
+              "line_number": 518,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. Weekly Task Timeline",
+              "anchor": "4-weekly-task-timeline",
+              "line_number": 540,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5. Tasks Linked to Specific Note",
+              "anchor": "5-tasks-linked-to-specific-note",
+              "line_number": 553,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6. Time-Blocked Tasks by Duration",
+              "anchor": "6-time-blocked-tasks-by-duration",
+              "line_number": 565,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "7. Tasks by Source Daily Note",
+              "anchor": "7-tasks-by-source-daily-note",
+              "line_number": 579,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "8. Unscheduled Tasks Needing Attention",
+              "anchor": "8-unscheduled-tasks-needing-attention",
+              "line_number": 594,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "9. Completed Tasks Today (Work Log)",
+              "anchor": "9-completed-tasks-today-work-log",
+              "line_number": 607,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "10. Tasks with Custom Inline Fields",
+              "anchor": "10-tasks-with-custom-inline-fields",
+              "line_number": 618,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Day Planner Integration Verification",
+          "anchor": "day-planner-integration-verification",
+          "line_number": 632,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Configuration Requirements",
+              "anchor": "configuration-requirements",
+              "line_number": 638,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Visual Behavior",
+              "anchor": "visual-behavior",
+              "line_number": 657,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Time Format Validation",
+              "anchor": "time-format-validation",
+              "line_number": 681,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Edge Case: Tasks from Other Notes",
+              "anchor": "edge-case-tasks-from-other-notes",
+              "line_number": 695,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Implementation Checklist",
+          "anchor": "implementation-checklist",
+          "line_number": 702,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Phase 1: Plugin Installation & Verification",
+              "anchor": "phase-1-plugin-installation-verification",
+              "line_number": 708,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Phase 2: QuickAdd Configuration",
+              "anchor": "phase-2-quickadd-configuration",
+              "line_number": 717,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Phase 3: Day Planner Configuration",
+              "anchor": "phase-3-day-planner-configuration",
+              "line_number": 741,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Phase 4: Testing Procedure",
+              "anchor": "phase-4-testing-procedure",
+              "line_number": 752,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Phase 5: Migration of Existing Tasks (Optional)",
+              "anchor": "phase-5-migration-of-existing-tasks-optional",
+              "line_number": 789,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Phase 6: Optional Enhancements",
+              "anchor": "phase-6-optional-enhancements",
+              "line_number": 804,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Future Extension Points",
+          "anchor": "future-extension-points",
+          "line_number": 824,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. Custom Inline Fields",
+              "anchor": "1-custom-inline-fields",
+              "line_number": 830,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. Integration with Other Plugins",
+              "anchor": "2-integration-with-other-plugins",
+              "line_number": 852,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. Advanced Automation via QuickAdd Macros",
+              "anchor": "3-advanced-automation-via-quickadd-macros",
+              "line_number": 867,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. Template Variations for Different Task Types",
+              "anchor": "4-template-variations-for-different-task-types",
+              "line_number": 893,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5. CSS Customization for Visual Priority",
+              "anchor": "5-css-customization-for-visual-priority",
+              "line_number": 912,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6. Dataview Scripts for Advanced Queries",
+              "anchor": "6-dataview-scripts-for-advanced-queries",
+              "line_number": 938,
+              "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 963,
+      "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "methodology-and-sources",
+        "title": "+ Current Research Findings",
+        "body": "Based on comprehensive research of current plugin documentation and GitHub repositories as of late 2024/early 2025:",
+        "line_number": 90,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 3710,
+        "char_end": 3887
+      },
+      {
+        "type": "principle-point",
+        "title": "+ Design Philosophy",
+        "body": "Every metadata field must justify its cognitive cost during quick capture by serving at least TWO plugins. Fields are ordered for human readability (description first) while maintaining plugin compatibility.",
+        "line_number": 196,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 7662,
+        "char_end": 7915
+      },
+      {
+        "type": "what-this-does",
+        "title": "+ The Complete Capture Format",
+        "body": "This format balances comprehensive metadata with minimal user friction. It supports both time-blocked and non-time-blocked tasks while remaining backward-compatible with existing daily note logs.",
+        "line_number": 213,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 8754,
+        "char_end": 9004
+      },
+      {
+        "type": "important",
+        "title": "+ Component Analysis",
+        "body": "Each component serves specific plugin requirements while maintaining human readability.",
+        "line_number": 244,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 10055,
+        "char_end": 10183
+      },
+      {
+        "type": "example",
+        "title": "+ Demonstrating Format Variations",
+        "body": "Five real-world scenarios showing how the format adapts to different use cases.",
+        "line_number": 388,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 15042,
+        "char_end": 15173
+      },
+      {
+        "type": "attention",
+        "title": "Recurrence Limitation",
+        "body": "QuickAdd format doesn't prompt for recurrence - must be added manually or via macro. Consider creating a separate \"Recurring Task\" QuickAdd template with `{{VALUE:Recurrence pattern?}}` prompt.",
+        "line_number": 459,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 17019,
+        "char_end": 17255
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "+ Query Pattern Library",
+        "body": "These queries leverage the unified metadata schema to create powerful task views. All queries tested with Dataview 0.5.x syntax.",
+        "line_number": 490,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 18101,
+        "char_end": 18287
+      },
+      {
+        "type": "what-this-does",
+        "title": "+ How Tasks Appear in Day Planner",
+        "body": "Configuration notes and visual behavior expectations.",
+        "line_number": 634,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 21759,
+        "char_end": 21871
+      },
+      {
+        "type": "warning",
+        "title": "+ Critical Format Requirements",
+        "body": "Day Planner requires 24-hour time format (HH:MM). These formats will NOT work:\n- `2:00 PM` (12-hour)\n- `14:00-15:00` (no spaces around hyphen)\n- `2-3pm` (mixed format)",
+        "line_number": 683,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 23081,
+        "char_end": 23303
+      },
+      {
+        "type": "important",
+        "title": "+ Step-by-Step Setup Guide",
+        "body": "Complete configuration process for the task capture system.",
+        "line_number": 704,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 23671,
+        "char_end": 23777
+      },
+      {
+        "type": "attention",
+        "title": "Migration Caution",
+        "body": "The above regex assumes your existing format matches `{{VALUE}} ➕ {{DATE}}` exactly. Test on a copy of one daily note first.",
+        "line_number": 800,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 26943,
+        "char_end": 27106
+      },
+      {
+        "type": "principle-point",
+        "title": "+ Extensibility Architecture",
+        "body": "The format is designed to accommodate growth without breaking existing tasks.",
+        "line_number": 826,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md",
+        "char_start": 27779,
+        "char_end": 27911
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[obsidian]]",
+        "line_number": 77,
+        "section": "Executive Summary",
+        "context_line": "This system redesigns task capture for [[obsidian]] [[Daily Notes]] to maximize interoperability across **Tasks plugin**, **Dataview**, **Day Planner**, and **QuickAdd**. The unified format supports both time-blocked and non-time-blocked tasks while maintaining queryability, minimizing user friction (2 prompts maximum), and preserving log integrity. Core philosophy: **metadata fields must serve multiple plugins synergistically without breaking existing workflows**.",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Daily Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daily Notes]]",
+        "line_number": 77,
+        "section": "Executive Summary",
+        "context_line": "This system redesigns task capture for [[obsidian]] [[Daily Notes]] to maximize interoperability across **Tasks plugin**, **Dataview**, **Day Planner**, and **QuickAdd**. The unified format supports both time-blocked and non-time-blocked tasks while maintaining queryability, minimizing user friction (2 prompts maximum), and preserving log integrity. Core philosophy: **metadata fields must serve multiple plugins synergistically without breaking existing workflows**.",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "2025-11-16",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2025-11-16]]",
+        "line_number": 402,
+        "section": "1. Simple Task (No Time Block)",
+        "context_line": "- [ ] Buy groceries ⏳ 2025-11-16 🔗 [[2025-11-16]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "2025-11-16",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2025-11-16]]",
+        "line_number": 420,
+        "section": "2. Time-Blocked Task",
+        "context_line": "- [ ] Team standup 09:00 - 09:30 ⏳ 2025-11-16 🔗 [[2025-11-16]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "2025-11-16",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2025-11-16]]",
+        "line_number": 438,
+        "section": "3. High-Priority Urgent Task",
+        "context_line": "- [ ] Complete investor pitch deck ⏳ 2025-11-16 📅 2025-11-18 ⏫ 🔗 [[2025-11-16]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "2025-11-16",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2025-11-16]]",
+        "line_number": 456,
+        "section": "4. Recurring Task",
+        "context_line": "- [ ] Weekly team retrospective 14:00 - 15:00 ⏳ 2025-11-18 🔼 🔁 every Monday 🔗 [[2025-11-16]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "2025-11-16",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2025-11-16]]",
+        "line_number": 478,
+        "section": "5. Long-Running Task with Duration Context",
+        "context_line": "- [ ] Write Q4 OKR report [estimated:: 4h] 10:00 - 12:00 ⏳ 2025-11-16 📅 2025-11-17 🔼 🔗 [[2025-11-16]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Project X",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project X]]",
+        "line_number": 556,
+        "section": "5. Tasks Linked to Specific Note",
+        "context_line": "WHERE contains(text, \"[[Project X]]\")",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "2025-11-16",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2025-11-16]]",
+        "line_number": 661,
+        "section": "Visual Behavior",
+        "context_line": "- [ ] Team standup 09:00 - 09:30 ⏳ 2025-11-16 🔗 [[2025-11-16]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "2025-11-16",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2025-11-16]]",
+        "line_number": 673,
+        "section": "Visual Behavior",
+        "context_line": "- [ ] Buy groceries ⏳ 2025-11-16 🔗 [[2025-11-16]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "TODAY'S DATE",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[TODAY'S DATE]]",
+        "line_number": 761,
+        "section": "Phase 4: Testing Procedure",
+        "context_line": "- [ ] Verify task appears with: `- [ ] Test simple task ⏳ [TODAY'S DATE] 🔗 [[TODAY'S DATE]]`",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "FILENAME",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[FILENAME]]",
+        "line_number": 796,
+        "section": "Phase 5: Migration of Existing Tasks (Optional)",
+        "context_line": "- Replace: `- [ ] $1 ⏳ $2$3 🔗 [[FILENAME]]`",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "2025-11-16",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[2025-11-16]]",
+        "line_number": 834,
+        "section": "1. Custom Inline Fields",
+        "context_line": "- [ ] Task description [field:: value] 10:00 - 11:00 ⏳ 2025-11-16 📅 2025-11-20 ⏫ 🔗 [[2025-11-16]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Project Name",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Name]]",
+        "line_number": 845,
+        "section": "1. Custom Inline Fields",
+        "context_line": "| Project | `[project:: [[Project Name]]]` | Roll-up queries |",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "GTD Workflow in Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[GTD Workflow in Obsidian]]",
+        "line_number": 965,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[GTD Workflow in Obsidian]]**",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]",
+        "line_number": 968,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Links task management to broader productivity philosophy, connects to [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[Cognitive Offloading]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Cognitive Offloading",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Offloading]]",
+        "line_number": 968,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Links task management to broader productivity philosophy, connects to [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[Cognitive Offloading]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "QuickAdd Macro Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[QuickAdd Macro Development]]",
+        "line_number": 970,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[QuickAdd Macro Development]]**",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "JavaScript",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[JavaScript]]",
+        "line_number": 973,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Technical skill development in [[JavaScript]], [[Obsidian API]], and [[Workflow Automation]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Obsidian API",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian API]]",
+        "line_number": 973,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Technical skill development in [[JavaScript]], [[Obsidian API]], and [[Workflow Automation]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Workflow Automation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Workflow Automation]]",
+        "line_number": 973,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Technical skill development in [[JavaScript]], [[Obsidian API]], and [[Workflow Automation]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Dataview Query Language (DQL) Mastery",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Query Language (DQL) Mastery]]",
+        "line_number": 975,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Dataview Query Language (DQL) Mastery]]**",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Obsidian Power Users",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian Power Users]]",
+        "line_number": 978,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Core technical skill for [[Obsidian Power Users]], connects to [[Data Analysis]] and [[Dashboard Design]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Data Analysis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Data Analysis]]",
+        "line_number": 978,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Core technical skill for [[Obsidian Power Users]], connects to [[Data Analysis]] and [[Dashboard Design]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Dashboard Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dashboard Design]]",
+        "line_number": 978,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Core technical skill for [[Obsidian Power Users]], connects to [[Data Analysis]] and [[Dashboard Design]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Time-Blocking Methodology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Time-Blocking Methodology]]",
+        "line_number": 980,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Time-Blocking Methodology]]**",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "deep work",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[deep work]]",
+        "line_number": 982,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Depth Potential*: Explore time-blocking research, cognitive benefits, implementation strategies, and integration with [[deep work]] principles",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Attention Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Attention Management]]",
+        "line_number": 983,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Productivity methodology connecting [[Attention Management]], [[Calendar Blocking]], and [[Task Prioritization]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Calendar Blocking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Calendar Blocking]]",
+        "line_number": 983,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Productivity methodology connecting [[Attention Management]], [[Calendar Blocking]], and [[Task Prioritization]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "target": "Task Prioritization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Task Prioritization]]",
+        "line_number": 983,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Productivity methodology connecting [[Attention Management]], [[Calendar Blocking]], and [[Task Prioritization]]",
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "scheduled",
+        "value": "YYYY-MM-DD",
+        "format": "bracket",
+        "line_number": 62,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "field",
+        "value": "value",
+        "format": "bracket",
+        "line_number": 63,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "field",
+        "value": "value",
+        "format": "bracket",
+        "line_number": 114,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "fieldname",
+        "value": "value",
+        "format": "bracket",
+        "line_number": 122,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "field",
+        "value": "value",
+        "format": "bracket",
+        "line_number": 143,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "scheduled",
+        "value": "2025-11-16",
+        "format": "bracket",
+        "line_number": 160,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "estimated",
+        "value": "4h",
+        "format": "bracket",
+        "line_number": 478,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "estimated",
+        "value": "duration",
+        "format": "bracket",
+        "line_number": 626,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "energy",
+        "value": "high/low",
+        "format": "bracket",
+        "line_number": 817,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "context",
+        "value": "home/work",
+        "format": "bracket",
+        "line_number": 817,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "field",
+        "value": "value",
+        "format": "bracket",
+        "line_number": 834,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "energy",
+        "value": "high/low/medium",
+        "format": "bracket",
+        "line_number": 841,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "context",
+        "value": "@home/@work/@phone",
+        "format": "bracket",
+        "line_number": 842,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "estimated",
+        "value": "2h",
+        "format": "bracket",
+        "line_number": 843,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "assigned",
+        "value": "@person",
+        "format": "bracket",
+        "line_number": 844,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "project",
+        "value": "[[Project Name",
+        "format": "bracket",
+        "line_number": 845,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "date",
+        "value": "YYYY-MM-DD",
+        "format": "bracket",
+        "line_number": 855,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "startTime",
+        "value": "HH:MM",
+        "format": "bracket",
+        "line_number": 855,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "status",
+        "value": "todo/doing/done",
+        "format": "bracket",
+        "line_number": 859,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "attendees",
+        "value": "{{VALUE:Attendees?}}",
+        "format": "bracket",
+        "line_number": 899,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "context",
+        "value": "@email",
+        "format": "bracket",
+        "line_number": 904,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "pages",
+        "value": "{{VALUE:Pages?}}",
+        "format": "bracket",
+        "line_number": 909,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "field_name": "estimated",
+        "value": "{{VALUE:Duration?}}",
+        "format": "bracket",
+        "line_number": 909,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "pkb",
+        "full_tag": "#pkb",
+        "hierarchy": [
+          "pkb"
+        ],
+        "line_number": 42,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "tag": "pkm",
+        "full_tag": "#pkm",
+        "hierarchy": [
+          "pkm"
+        ],
+        "line_number": 42,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "tag": "pkb",
+        "full_tag": "#pkb",
+        "hierarchy": [
+          "pkb"
+        ],
+        "line_number": 43,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "tag": "type/reference",
+        "full_tag": "#type/reference",
+        "hierarchy": [
+          "type",
+          "reference"
+        ],
+        "line_number": 43,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "tag": "pkm",
+        "full_tag": "#pkm",
+        "hierarchy": [
+          "pkm"
+        ],
+        "line_number": 44,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "PKB Task Capture System: Production-Ready Multi-Plugin Integration",
+        "anchor": "pkb-task-capture-system-production-ready-multi-plugin-integration",
+        "line_number": 73,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 2,
+        "text": "Executive Summary",
+        "anchor": "executive-summary",
+        "line_number": 75,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 2,
+        "text": "Plugin Capability Analysis",
+        "anchor": "plugin-capability-analysis",
+        "line_number": 88,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Tasks Plugin (Emoji Format)",
+        "anchor": "tasks-plugin-emoji-format",
+        "line_number": 94,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Dataview (Inline Fields & Task Queries)",
+        "anchor": "dataview-inline-fields-task-queries",
+        "line_number": 116,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Day Planner (Time Block Format)",
+        "anchor": "day-planner-time-block-format",
+        "line_number": 145,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "QuickAdd (Template Variables)",
+        "anchor": "quickadd-template-variables",
+        "line_number": 174,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 2,
+        "text": "Unified Metadata Schema",
+        "anchor": "unified-metadata-schema",
+        "line_number": 194,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 2,
+        "text": "Production-Ready QuickAdd Format",
+        "anchor": "production-ready-quickadd-format",
+        "line_number": 211,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "User Interaction Flow",
+        "anchor": "user-interaction-flow",
+        "line_number": 221,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 2,
+        "text": "Format Breakdown & Explanation",
+        "anchor": "format-breakdown-explanation",
+        "line_number": 242,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 1: Task Description",
+        "anchor": "component-1-task-description",
+        "line_number": 248,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 2: Time Block (Optional)",
+        "anchor": "component-2-time-block-optional",
+        "line_number": 266,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 3: Scheduled Date",
+        "anchor": "component-3-scheduled-date",
+        "line_number": 288,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 4: Due Date (Optional)",
+        "anchor": "component-4-due-date-optional",
+        "line_number": 310,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 5: Priority (Optional)",
+        "anchor": "component-5-priority-optional",
+        "line_number": 334,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Component 6: Backlink",
+        "anchor": "component-6-backlink",
+        "line_number": 362,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 2,
+        "text": "Example Tasks",
+        "anchor": "example-tasks",
+        "line_number": 386,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "1. Simple Task (No Time Block)",
+        "anchor": "1-simple-task-no-time-block",
+        "line_number": 392,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "2. Time-Blocked Task",
+        "anchor": "2-time-blocked-task",
+        "line_number": 410,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "3. High-Priority Urgent Task",
+        "anchor": "3-high-priority-urgent-task",
+        "line_number": 428,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "4. Recurring Task",
+        "anchor": "4-recurring-task",
+        "line_number": 446,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "5. Long-Running Task with Duration Context",
+        "anchor": "5-long-running-task-with-duration-context",
+        "line_number": 468,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 2,
+        "text": "Dataview Query Cookbook",
+        "anchor": "dataview-query-cookbook",
+        "line_number": 488,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "1. Today's Time-Blocked Tasks",
+        "anchor": "1-todays-time-blocked-tasks",
+        "line_number": 494,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "2. Overdue High-Priority Tasks",
+        "anchor": "2-overdue-high-priority-tasks",
+        "line_number": 506,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "3. Tasks Grouped by Priority (All Levels)",
+        "anchor": "3-tasks-grouped-by-priority-all-levels",
+        "line_number": 518,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "4. Weekly Task Timeline",
+        "anchor": "4-weekly-task-timeline",
+        "line_number": 540,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "5. Tasks Linked to Specific Note",
+        "anchor": "5-tasks-linked-to-specific-note",
+        "line_number": 553,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "6. Time-Blocked Tasks by Duration",
+        "anchor": "6-time-blocked-tasks-by-duration",
+        "line_number": 565,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "7. Tasks by Source Daily Note",
+        "anchor": "7-tasks-by-source-daily-note",
+        "line_number": 579,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "8. Unscheduled Tasks Needing Attention",
+        "anchor": "8-unscheduled-tasks-needing-attention",
+        "line_number": 594,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "9. Completed Tasks Today (Work Log)",
+        "anchor": "9-completed-tasks-today-work-log",
+        "line_number": 607,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "10. Tasks with Custom Inline Fields",
+        "anchor": "10-tasks-with-custom-inline-fields",
+        "line_number": 618,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 2,
+        "text": "Day Planner Integration Verification",
+        "anchor": "day-planner-integration-verification",
+        "line_number": 632,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Configuration Requirements",
+        "anchor": "configuration-requirements",
+        "line_number": 638,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Visual Behavior",
+        "anchor": "visual-behavior",
+        "line_number": 657,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Time Format Validation",
+        "anchor": "time-format-validation",
+        "line_number": 681,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Edge Case: Tasks from Other Notes",
+        "anchor": "edge-case-tasks-from-other-notes",
+        "line_number": 695,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 2,
+        "text": "Implementation Checklist",
+        "anchor": "implementation-checklist",
+        "line_number": 702,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 1: Plugin Installation & Verification",
+        "anchor": "phase-1-plugin-installation-verification",
+        "line_number": 708,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 2: QuickAdd Configuration",
+        "anchor": "phase-2-quickadd-configuration",
+        "line_number": 717,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 3: Day Planner Configuration",
+        "anchor": "phase-3-day-planner-configuration",
+        "line_number": 741,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 4: Testing Procedure",
+        "anchor": "phase-4-testing-procedure",
+        "line_number": 752,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 5: Migration of Existing Tasks (Optional)",
+        "anchor": "phase-5-migration-of-existing-tasks-optional",
+        "line_number": 789,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 6: Optional Enhancements",
+        "anchor": "phase-6-optional-enhancements",
+        "line_number": 804,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 2,
+        "text": "Future Extension Points",
+        "anchor": "future-extension-points",
+        "line_number": 824,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "1. Custom Inline Fields",
+        "anchor": "1-custom-inline-fields",
+        "line_number": 830,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "2. Integration with Other Plugins",
+        "anchor": "2-integration-with-other-plugins",
+        "line_number": 852,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "3. Advanced Automation via QuickAdd Macros",
+        "anchor": "3-advanced-automation-via-quickadd-macros",
+        "line_number": 867,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "4. Template Variations for Different Task Types",
+        "anchor": "4-template-variations-for-different-task-types",
+        "line_number": 893,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "5. CSS Customization for Visual Priority",
+        "anchor": "5-css-customization-for-visual-priority",
+        "line_number": 912,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 3,
+        "text": "6. Dataview Scripts for Advanced Queries",
+        "anchor": "6-dataview-scripts-for-advanced-queries",
+        "line_number": 938,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 963,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "<thinking>\nThis is a highly specialized technical request requiring deep research into current Obsidian plugin capabilities and metadata interoperability. Let me break down what's needed:\n\n**Request Classification:**\n- Type: technical_guide + comprehensive_note\n- Scope: reference (production-ready system design)\n- Research Required: YES - Need to verify current syntax for Tasks plugin, Dataview, Day Planner, and QuickAdd as of late 2024/early 2025\n\n**Research Strategy:**\nI need to search for:\n1. Current Tasks plugin syntax and emoji shorthands\n2. Dataview inline field syntax and task-specific fields\n3. Day Planner time block format requirements\n4. QuickAdd template variable capabilities\n\nThis is a complex technical integration problem requiring accurate, current information about plugin APIs and syntax standards.\n\n**Output Planning:**\n- Will need metadata header (this is a technical guide/reference note)\n- Tags: #obsidian #task-management #plugin-integration #technical-guide #pkm-systems\n- Aliases: [Task Capture System, QuickAdd Task Format, Obsidian Task Integration]\n- Heavy use of code blocks, tables, and [!methodology-and-sources] callouts\n- Must provide complete, copy-paste-ready format specification\n\nLet me begin research on current plugin capabilities.\n</thinking>Now let me search for Day Planner and Dataview specific information:Now let me search for QuickAdd specific information:Perfect! I now have comprehensive information about:",
+        "line_start": 33,
+        "line_end": 60,
+        "char_count": 1462,
+        "line_count": 26,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "[fieldname:: value]",
+        "line_start": 121,
+        "line_end": 123,
+        "char_count": 19,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "- [ ] 10:00 - 10:30 Task description",
+        "line_start": 152,
+        "line_end": 154,
+        "char_count": 36,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "- [ ] Task description ⏳ 2025-11-16\n   - [ ] Task description [scheduled:: 2025-11-16]",
+        "line_start": 158,
+        "line_end": 161,
+        "char_count": 86,
+        "line_count": 2,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "- [ ] 14:00 - 15:30 Task description ⏳ 2025-11-16",
+        "line_start": 164,
+        "line_end": 166,
+        "char_count": 49,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "{{VALUE:Task description?}}{{VALUE: HH:MM - HH:MM (or leave blank for no time block)?}} ⏳ {{VDATE:Scheduled date,YYYY-MM-DD|today}} {{VALUE:Due date emoji (📅 YYYY-MM-DD) or leave blank?|📅 YYYY-MM-DD}} {{VALUE:Priority (⏫/🔼/🔽/⏬|⏫/🔼/🔽/⏬) or leave blank?}} 🔗 {{LINKCURRENT}}",
+        "line_start": 217,
+        "line_end": 219,
+        "char_count": 271,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "{{VALUE:Task description?}}",
+        "line_start": 249,
+        "line_end": 251,
+        "char_count": 27,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "{{VALUE: HH:MM - HH:MM (or leave blank for no time block)?}}",
+        "line_start": 267,
+        "line_end": 269,
+        "char_count": 60,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "⏳ {{VDATE:Scheduled date,YYYY-MM-DD|today}}",
+        "line_start": 289,
+        "line_end": 291,
+        "char_count": 43,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "{{VALUE:Due date emoji (📅 YYYY-MM-DD) or leave blank?}}",
+        "line_start": 311,
+        "line_end": 313,
+        "char_count": 55,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "{{VALUE:Priority (⏫/🔼/🔽/⏬) or leave blank?}}",
+        "line_start": 335,
+        "line_end": 337,
+        "char_count": 44,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "javascript",
+        "code": "{{MACROS:Priority Selector}}",
+        "line_start": 357,
+        "line_end": 359,
+        "char_count": 28,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "🔗 {{LINKCURRENT}}",
+        "line_start": 363,
+        "line_end": 365,
+        "char_count": 17,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] Buy groceries ⏳ 2025-11-16 🔗 [[2025-11-16]]",
+        "line_start": 401,
+        "line_end": 403,
+        "char_count": 49,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] Team standup 09:00 - 09:30 ⏳ 2025-11-16 🔗 [[2025-11-16]]",
+        "line_start": 419,
+        "line_end": 421,
+        "char_count": 62,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] Complete investor pitch deck ⏳ 2025-11-16 📅 2025-11-18 ⏫ 🔗 [[2025-11-16]]",
+        "line_start": 437,
+        "line_end": 439,
+        "char_count": 79,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] Weekly team retrospective 14:00 - 15:00 ⏳ 2025-11-18 🔼 🔁 every Monday 🔗 [[2025-11-16]]",
+        "line_start": 455,
+        "line_end": 457,
+        "char_count": 92,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] Write Q4 OKR report [estimated:: 4h] 10:00 - 12:00 ⏳ 2025-11-16 📅 2025-11-17 🔼 🔗 [[2025-11-16]]",
+        "line_start": 477,
+        "line_end": 479,
+        "char_count": 101,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "datavie",
+        "code": "TASK\nWHERE scheduled = date(today)\n  AND contains(text, \" - \")\nSORT regexreplace(text, \"^.*?(\\d{2}:\\d{2}).*\", \"$1\") ASC",
+        "line_start": 495,
+        "line_end": 500,
+        "char_count": 119,
+        "line_count": 4,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "datavie",
+        "code": "TASK\nWHERE due < date(today)\n  AND !completed\n  AND (contains(text, \"⏫\") OR contains(text, \"🔼\"))",
+        "line_start": 507,
+        "line_end": 512,
+        "char_count": 96,
+        "line_count": 4,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "datavie",
+        "code": "TABLE WITHOUT ID\n  text as \"Task\",\n  scheduled as \"When\",\n  due as \"Deadline\"\nWHERE !completed\nGROUP BY\n  choice(contains(text, \"⏫\"), \"⏫ Highest\",\n  choice(contains(text, \"🔼\"), \"🔼 High\",\n  choice(contains(text, \"🔽\"), \"🔽 Low\",\n  choice(contains(text, \"⏬\"), \"⏬ Lowest\", \"Normal\"))))\nSORT choice(contains(text, \"⏫\"), 1,\n     choice(contains(text, \"🔼\"), 2,\n     choice(contains(text, \"🔽\"), 4,\n     choice(contains(text, \"⏬\"), 5, 3)))) ASC",
+        "line_start": 519,
+        "line_end": 534,
+        "char_count": 434,
+        "line_count": 14,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "datavie",
+        "code": "TASK\nWHERE scheduled >= date(today)\n  AND scheduled <= date(today) + dur(7 days)\n  AND !completed\nSORT scheduled ASC",
+        "line_start": 541,
+        "line_end": 547,
+        "char_count": 116,
+        "line_count": 5,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "datavie",
+        "code": "TASK\nWHERE contains(text, \"[[Project X]]\")\n  AND !completed\nSORT priority DESC, due ASC",
+        "line_start": 554,
+        "line_end": 559,
+        "char_count": 87,
+        "line_count": 4,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "datavie",
+        "code": "TABLE WITHOUT ID\n  regexreplace(text, \"^(.*?)(\\d{2}:\\d{2} - \\d{2}:\\d{2})(.*)$\", \"$1$3\") as \"Task\",\n  regexreplace(text, \"^.*?(\\d{2}:\\d{2} - \\d{2}:\\d{2}).*$\", \"$1\") as \"Time\"\nWHERE scheduled = date(today)\n  AND contains(text, \" - \")\nSORT regexreplace(text, \"^.*?(\\d{2}:\\d{2}).*\", \"$1\") ASC",
+        "line_start": 566,
+        "line_end": 573,
+        "char_count": 288,
+        "line_count": 6,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "datavie",
+        "code": "TABLE WITHOUT ID\n  rows.text as \"Tasks\"\nFROM #daily-note\nWHERE file.tasks\nGROUP BY file.link\nSORT file.ctime DESC\nLIMIT 10",
+        "line_start": 580,
+        "line_end": 588,
+        "char_count": 122,
+        "line_count": 7,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "datavie",
+        "code": "TASK\nWHERE !scheduled\n  AND !completed\n  AND due <= date(today) + dur(3 days)\nSORT due ASC",
+        "line_start": 595,
+        "line_end": 601,
+        "char_count": 90,
+        "line_count": 5,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "datavie",
+        "code": "TASK\nWHERE completion = date(today)\nSORT file.ctime DESC",
+        "line_start": 608,
+        "line_end": 612,
+        "char_count": 56,
+        "line_count": 3,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "datavie",
+        "code": "TASK\nWHERE estimated\n  AND !completed\nSORT estimated DESC",
+        "line_start": 619,
+        "line_end": 624,
+        "char_count": 57,
+        "line_count": 4,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "File mode: Command  (not File)\n   Dataview Source: (leave blank for all vault)\n   Start Hour: 00 (or your preference)\n   Timeline Zoom: 60 (or adjust to preference)",
+        "line_start": 646,
+        "line_end": 651,
+        "char_count": 164,
+        "line_count": 4,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] Team standup 09:00 - 09:30 ⏳ 2025-11-16 🔗 [[2025-11-16]]",
+        "line_start": 660,
+        "line_end": 662,
+        "char_count": 62,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "09:00 ┌─────────────────────────────┐\n      │ Team standup                │ \n09:30 └─────────────────────────────┘",
+        "line_start": 665,
+        "line_end": 669,
+        "char_count": 114,
+        "line_count": 3,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] Buy groceries ⏳ 2025-11-16 🔗 [[2025-11-16]]",
+        "line_start": 672,
+        "line_end": 674,
+        "char_count": 49,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "## Implementation Checklist\n\n> [!important]+ Step-by-Step Setup Guide\n> \n> Complete configuration process for the task capture system.\n\n### Phase 1: Plugin Installation & Verification\n\n- [ ] Install **Tasks** plugin (Community Plugins → Browse → \"Tasks\")\n- [ ] Install **Dataview** plugin (required dependency)\n- [ ] Install **Day Planner** (ivan-lednev version, not OG)\n- [ ] Install **QuickAdd** plugin\n- [ ] Enable **Daily Notes** core plugin\n- [ ] Restart Obsidian to ensure all plugins loaded\n\n### Phase 2: QuickAdd Configuration\n\n1. **Create Capture Format:**\n   - [ ] Open Settings → QuickAdd\n   - [ ] Click \"Manage Choices\" → \"Add Choice\"\n   - [ ] Name: `Quick Task Capture`\n   - [ ] Type: **Capture**\n   - [ ] Click gear icon ⚙️ to configure\n\n2. **Configure Capture Settings:**\n   - [ ] **Capture To:** `{{DATE:YYYY-MM-DD}}.md` (your daily note format)\n   - [ ] **Capture Format:**",
+        "line_start": 701,
+        "line_end": 729,
+        "char_count": 890,
+        "line_count": 27,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "- [ ] **Insert After:** `## Tasks` (or your preferred heading)\n   - [ ] **Insert At End:** OFF\n   - [ ] **Create if not found:** ON\n\n3. **Set Hotkey:**\n   - [ ] Go to Settings → Hotkeys\n   - [ ] Search \"QuickAdd: Quick Task Capture\"\n   - [ ] Assign hotkey (suggestion: `Ctrl/Cmd + Shift + T`)\n\n### Phase 3: Day Planner Configuration\n\n- [ ] Open Settings → Day Planner\n- [ ] **File Mode:** Command (not File or Dataview)\n- [ ] **Dataview Source:** (leave blank for all vault)\n- [ ] **Start Hour:** 00 (or your day start time)\n- [ ] **End Hour:** 24 (or your day end time)\n- [ ] **Timeline Zoom Level:** 60 (adjust to preference)\n- [ ] **Show Completed:** ON (to see done tasks)\n- [ ] **Colorful Timeline:** ON (optional visual enhancement)\n\n### Phase 4: Testing Procedure\n\n**Test 1: Simple Task**\n- [ ] Create/open today's daily note\n- [ ] Trigger QuickAdd hotkey\n- [ ] Enter task: `Test simple task`\n- [ ] Leave time block blank\n- [ ] Accept default date (today)\n- [ ] Leave due and priority blank\n- [ ] Verify task appears with: `- [ ] Test simple task ⏳ [TODAY'S DATE] 🔗 [[TODAY'S DATE]]`\n\n**Test 2: Time-Blocked Task**\n- [ ] Trigger QuickAdd again\n- [ ] Enter task: `Test time block`\n- [ ] Enter time: `10:00 - 11:00`\n- [ ] Accept default date\n- [ ] Leave due and priority blank\n- [ ] Open Day Planner timeline (Command Palette → \"Day Planner: Show Timeline\")\n- [ ] Verify task appears at 10:00 AM in timeline\n\n**Test 3: Dataview Query**\n- [ ] Create new note for testing queries\n- [ ] Add this query:",
+        "line_start": 731,
+        "line_end": 775,
+        "char_count": 1504,
+        "line_count": 43,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "- [ ] Verify both test tasks appear in results\n\n**Test 4: Tasks Plugin Filter**\n- [ ] Create Tasks query block:",
+        "line_start": 778,
+        "line_end": 783,
+        "char_count": 111,
+        "line_count": 4,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "- [ ] Verify test tasks appear\n\n### Phase 5: Migration of Existing Tasks (Optional)\n\nIf you have existing tasks in daily notes:\n\n- [ ] **Backup vault first**\n- [ ] Use Find & Replace (Ctrl/Cmd + Shift + F) with regex:\n  - Find: `- \\[ \\] (.+?) ➕ (\\d{4}-\\d{2}-\\d{2})(.*)`\n  - Replace: `- [ ] $1 ⏳ $2$3 🔗 [[FILENAME]]`\n  - Review each match before replacing\n- [ ] Manually add time blocks to time-sensitive existing tasks\n\n> [!attention] Migration Caution\n> \n> The above regex assumes your existing format matches `{{VALUE}} ➕ {{DATE}}` exactly. Test on a copy of one daily note first.\n\n### Phase 6: Optional Enhancements\n\n**Priority Suggester Macro:**\n- [ ] Create QuickAdd Macro for priority selection\n- [ ] Use QuickAdd API suggester to replace manual emoji entry\n- [ ] Reduces typos in priority field\n\n**Recurrence Template:**\n- [ ] Create separate QuickAdd template: \"Recurring Task\"\n- [ ] Add prompt: `{{VALUE:Recurrence pattern (e.g., every Monday)?}}`\n- [ ] Format: `… 🔁 {{VALUE:pattern}} …`\n\n**Custom Inline Fields:**\n- [ ] Decide on additional metadata (e.g., `[energy:: high/low]`, `[context:: home/work]`)\n- [ ] Add to capture format as `{{VALUE:field?}}`\n- [ ] Update Dataview queries to leverage new fields\n\n---",
+        "line_start": 786,
+        "line_end": 822,
+        "char_count": 1222,
+        "line_count": 35,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "- [ ] Task description [field:: value] 10:00 - 11:00 ⏳ 2025-11-16 📅 2025-11-20 ⏫ 🔗 [[2025-11-16]]",
+        "line_start": 833,
+        "line_end": 835,
+        "char_count": 97,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "… {{VALUE:Energy level (high/low/medium)?}} …",
+        "line_start": 848,
+        "line_end": 850,
+        "char_count": 45,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "javascript",
+        "code": "module.exports = async (params) => {\n  const { quickAddApi } = params;\n  const hour = new Date().getHours();\n  \n  // Suggest time block based on current time\n  const suggestedStart = hour < 12 ? \"09:00\" : \"14:00\";\n  const suggestedEnd = hour < 12 ? \"10:00\" : \"15:00\";\n  \n  const timeBlock = await quickAddApi.inputPrompt(\n    `Time block (default: ${suggestedStart} - ${suggestedEnd})?`,\n    `${suggestedStart} - ${suggestedEnd}`\n  );\n  \n  return { timeBlock };\n};",
+        "line_start": 870,
+        "line_end": 886,
+        "char_count": 464,
+        "line_count": 15,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "{{VALUE:Task?}} {{MACRO:Smart Time Block}} ⏳ …",
+        "line_start": 889,
+        "line_end": 891,
+        "char_count": 46,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "{{VALUE:Meeting title?}} {{VDATE:Date,YYYY-MM-DD|today}} {{VALUE:HH:MM - HH:MM?}} [attendees:: {{VALUE:Attendees?}}] ⏳ {{VDATE:Date}} 🔗 {{LINKCURRENT}}",
+        "line_start": 898,
+        "line_end": 900,
+        "char_count": 151,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "Follow up with {{VALUE:Person?}} re: {{VALUE:Subject?}} [context:: @email] ⏳ {{VDATE:Follow-up date,YYYY-MM-DD|tomorrow}} 📅 {{VDATE:Deadline,YYYY-MM-DD}} 🔗 {{LINKCURRENT}}",
+        "line_start": 903,
+        "line_end": 905,
+        "char_count": 171,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "markdown",
+        "code": "Read: {{VALUE:Material?}} [pages:: {{VALUE:Pages?}}] [estimated:: {{VALUE:Duration?}}] ⏳ {{VDATE:Date,YYYY-MM-DD|today}} 🔗 {{LINKCURRENT}}",
+        "line_start": 908,
+        "line_end": 910,
+        "char_count": 138,
+        "line_count": 1,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "css",
+        "code": "/* High priority tasks - red */\n.task-list-item:has(li:contains(\"⏫\")) {\n  border-left: 3px solid #ff4444;\n}\n\n/* High priority - orange */\n.task-list-item:has(li:contains(\"🔼\")) {\n  border-left: 3px solid #ff9944;\n}\n\n/* Low priority - blue */\n.task-list-item:has(li:contains(\"🔽\")) {\n  border-left: 3px solid #4488ff;\n}\n\n/* Time blocks - bold */\n.task-list-item li:contains(\"- \") {\n  font-family: monospace;\n  font-weight: 600;\n}",
+        "line_start": 915,
+        "line_end": 936,
+        "char_count": 426,
+        "line_count": 20,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "const today = dv.date(\"today\");\nconst tasks = dv.pages()\n  .file.tasks\n  .where(t => !t.completed && t.scheduled?.equals(today));\n\nconst highPriority = tasks.where(t => t.text.includes(\"⏫\"));\nconst timeBlocked = tasks.where(t => t.text.match(/\\d{2}:\\d{2} - \\d{2}:\\d{2}/));\nconst unscheduled = tasks.where(t => !t.text.match(/\\d{2}:\\d{2}/));\n\ndv.header(2, \"🔥 Today's Focus\");\ndv.taskList(highPriority, false);\n\ndv.header(2, \"📅 Time-Blocked\");\ndv.taskList(timeBlocked, false);\n\ndv.header(2, \"📋 To Schedule\");\ndv.taskList(unscheduled.limit(5), false);",
+        "line_start": 941,
+        "line_end": 959,
+        "char_count": 548,
+        "line_count": 17,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Emoji",
+          "Property",
+          "Syntax Example",
+          "Purpose"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "⏫",
+            "Highest Priority",
+            "`task ⏫`",
+            "Urgent/critical tasks"
+          ],
+          [
+            "🔼",
+            "High Priority",
+            "`task 🔼`",
+            "Important tasks"
+          ],
+          [
+            "🔽",
+            "Low Priority",
+            "`task 🔽`",
+            "Minor tasks"
+          ],
+          [
+            "⏬",
+            "Lowest Priority",
+            "`task ⏬`",
+            "Optional tasks"
+          ],
+          [
+            "📅",
+            "Due Date",
+            "`📅 2025-11-20`",
+            "Deadline"
+          ],
+          [
+            "⏳",
+            "Scheduled Date",
+            "`⏳ 2025-11-16`",
+            "When to work on it"
+          ],
+          [
+            "🛫",
+            "Start Date",
+            "`🛫 2025-11-15`",
+            "Earliest start"
+          ],
+          [
+            "🔁",
+            "Recurrence",
+            "`🔁 every week`",
+            "Recurring pattern"
+          ],
+          [
+            "✅",
+            "Done Date",
+            "`✅ 2025-11-16`",
+            "Completion timestamp"
+          ]
+        ],
+        "line_start": 66,
+        "row_count": 9,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "headers": [
+          "Field",
+          "Access Pattern",
+          "Example"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Status",
+            "`status`",
+            "`WHERE status = \" \"` (incomplete)"
+          ],
+          [
+            "Completed",
+            "`completed`",
+            "`WHERE completed`"
+          ],
+          [
+            "Completion Date",
+            "`completion`",
+            "`WHERE completion = date(today)`"
+          ],
+          [
+            "Text",
+            "`text`",
+            "`WHERE contains(text, \"urgent\")`"
+          ],
+          [
+            "Line",
+            "`line`",
+            "`SORT line ASC`"
+          ]
+        ],
+        "line_start": 90,
+        "row_count": 5,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "headers": [
+          "Variable",
+          "Purpose",
+          "Example"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "`{{VALUE:prompt?}}`",
+            "User input with optional prompt",
+            "`{{VALUE:Task description?}}`"
+          ],
+          [
+            "`{{DATE:format}}`",
+            "Current date/time",
+            "`{{DATE:YYYY-MM-DD}}`"
+          ],
+          [
+            "`{{VDATE:prompt,format}}`",
+            "User-selected date",
+            "`{{VDATE:Due date,YYYY-MM-DD}}`"
+          ],
+          [
+            "`{{VDATE:prompt,format\\",
+            "default}}`",
+            "Date with default",
+            "`{{VDATE:Scheduled,YYYY-MM-DD\\",
+            "today}}`"
+          ]
+        ],
+        "line_start": 129,
+        "row_count": 4,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "headers": [
+          "Field Name",
+          "Purpose",
+          "Tasks Plugin",
+          "Dataview",
+          "Day Planner",
+          "Required?"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**Task Description**",
+            "Core task text",
+            "✓ Renders",
+            "✓ `text` field",
+            "✓ Timeline display",
+            "✅ REQUIRED"
+          ],
+          [
+            "**Time Block**",
+            "HH:MM - HH:MM range",
+            "❌ Ignores",
+            "✓ Custom parsing",
+            "✅ PRIMARY",
+            "⚠️ Optional"
+          ],
+          [
+            "**Scheduled Date**",
+            "When to do task",
+            "✅ `⏳ YYYY-MM-DD`",
+            "✅ `scheduled`",
+            "✅ Timeline placement",
+            "⚠️ Optional"
+          ],
+          [
+            "**Due Date**",
+            "Deadline",
+            "✅ `📅 YYYY-MM-DD`",
+            "✅ `due`",
+            "✓ Visual indicator",
+            "⚠️ Optional"
+          ],
+          [
+            "**Priority**",
+            "Importance level",
+            "✅ ⏫/🔼/🔽/⏬",
+            "✓ Filterable",
+            "✓ Visual styling",
+            "⚠️ Optional"
+          ],
+          [
+            "**Backlink**",
+            "Source note reference",
+            "✅ Auto-backlink",
+            "✅ `file.link`",
+            "✓ Context",
+            "🔄 Auto-generated"
+          ]
+        ],
+        "line_start": 157,
+        "row_count": 6,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "headers": [
+          "Field",
+          "Syntax",
+          "Use Case"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "Energy level",
+            "`[energy:: high/low/medium]`",
+            "Match tasks to energy availability"
+          ],
+          [
+            "Context",
+            "`[context:: @home/@work/@phone]`",
+            "GTD-style context filtering"
+          ],
+          [
+            "Estimate",
+            "`[estimated:: 2h]`",
+            "Time budgeting"
+          ],
+          [
+            "Assignee",
+            "`[assigned:: @person]`",
+            "Team task management"
+          ],
+          [
+            "Project",
+            "`[project:: [[Project Name]]]`",
+            "Roll-up queries"
+          ]
+        ],
+        "line_start": 540,
+        "row_count": 5,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**Tasks plugin** emoji syntax (⏫🔼🔽 for priority, ⏳ for scheduled, 📅 for due, 🛫 for start, 🔁 for recurrence, ✅ for done)",
+          "indent_level": 15,
+          "line_number": 31,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner** time block format (HH:MM - HH:MM format in daily notes, also supports [scheduled:: YYYY-MM-DD] with time blocks)",
+          "indent_level": 0,
+          "line_number": 35,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Dataview** inline field syntax ([field:: value])",
+          "indent_level": 0,
+          "line_number": 39,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**QuickAdd** template variables ({{VALUE}}, {{VDATE}}, etc.)",
+          "indent_level": 0,
+          "line_number": 40,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Direct Time Block (Daily Note):**",
+          "indent_level": 0,
+          "line_number": 111,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Vault-Wide with Scheduled Property:**",
+          "indent_level": 3,
+          "line_number": 111,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Time Block + Scheduled Date:**",
+          "indent_level": 4,
+          "line_number": 114,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Prompt 1:** \"Task description?\"",
+          "indent_level": 0,
+          "line_number": 184,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Prompt 2:** \"HH:MM - HH:MM (or leave blank for no time block)?\"",
+          "indent_level": 2,
+          "line_number": 187,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Prompt 3 (auto-filled):** Scheduled date modal appears with default \"today\"",
+          "indent_level": 2,
+          "line_number": 189,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Prompt 4:** \"Due date emoji (📅 YYYY-MM-DD) or leave blank?\"",
+          "indent_level": 2,
+          "line_number": 198,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Prompt 5:** \"Priority (⏫/🔼/🔽/⏬) or leave blank?\"",
+          "indent_level": 2,
+          "line_number": 198,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Plugins Required:**",
+          "indent_level": 0,
+          "line_number": 470,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner Settings:**",
+          "indent_level": 0,
+          "line_number": 477,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Daily Note Format:**",
+          "indent_level": 5,
+          "line_number": 478,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**[[GTD Workflow in Obsidian]]**",
+          "indent_level": 0,
+          "line_number": 603,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**[[QuickAdd Macro Development]]**",
+          "indent_level": 0,
+          "line_number": 626,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**[[Dataview Query Language (DQL) Mastery]]**",
+          "indent_level": 0,
+          "line_number": 642,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**[[Time-Blocking Methodology]]**",
+          "indent_level": 0,
+          "line_number": 654,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "Unified metadata schema queryable by all four plugins",
+          "indent_level": 0,
+          "line_number": 58,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Optional time-blocking with automatic Day Planner integration",
+          "indent_level": 0,
+          "line_number": 59,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Backward-compatible with existing daily note logs",
+          "indent_level": 0,
+          "line_number": 59,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Reduced cognitive load through intelligent defaults",
+          "indent_level": 0,
+          "line_number": 59,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Enhanced Dataview query capabilities (10+ advanced patterns enabled)",
+          "indent_level": 0,
+          "line_number": 59,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Emoji placement matters: must appear AFTER task description",
+          "indent_level": 0,
+          "line_number": 77,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "All date formats use YYYY-MM-DD (ISO 8601)",
+          "indent_level": 0,
+          "line_number": 77,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Priority emojis are mutually exclusive (only one per task)",
+          "indent_level": 0,
+          "line_number": 77,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Tasks plugin can also parse Dataview format `[field:: value]` if Task Format setting is changed",
+          "indent_level": 0,
+          "line_number": 77,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "`⏳ 2025-11-16` → queryable as `scheduled`",
+          "indent_level": 0,
+          "line_number": 101,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "`📅 2025-11-20` → queryable as `due`",
+          "indent_level": 0,
+          "line_number": 102,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "`✅ 2025-11-16` → queryable as `completion`",
+          "indent_level": 0,
+          "line_number": 103,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "24-hour time format required (HH:MM, not 12-hour)",
+          "indent_level": 0,
+          "line_number": 116,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Time ranges denoted with ` - ` (space-hyphen-space)",
+          "indent_level": 0,
+          "line_number": 118,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "In daily notes, date can be omitted from time blocks (inferred from note title)",
+          "indent_level": 0,
+          "line_number": 118,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Daily Notes or Periodic Notes plugin must be enabled",
+          "indent_level": 0,
+          "line_number": 125,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "VDATE now supports default values like 'today', 'tomorrow' to reduce prompts",
+          "indent_level": 0,
+          "line_number": 139,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Natural language date parsing via chrono-node library",
+          "indent_level": 0,
+          "line_number": 142,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Multi-value prompts for priority selection",
+          "indent_level": 0,
+          "line_number": 143,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Current active file context via `{{LINKCURRENT}}`",
+          "indent_level": 0,
+          "line_number": 145,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "User enters: `Review quarterly metrics`",
+          "indent_level": 1,
+          "line_number": 187,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "User enters: `14:00 - 15:30` OR leaves blank",
+          "indent_level": 1,
+          "line_number": 188,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "User presses Enter to accept OR selects different date",
+          "indent_level": 1,
+          "line_number": 194,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Tasks Plugin:** Renders as task name, searchable in queries",
+          "indent_level": 0,
+          "line_number": 204,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Dataview:** Accessible via `text` field in task queries",
+          "indent_level": 0,
+          "line_number": 205,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner:** Displays as timeline event label",
+          "indent_level": 0,
+          "line_number": 206,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Empty input → QuickAdd will re-prompt",
+          "indent_level": 0,
+          "line_number": 207,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Special characters (e.g., `#`, `[[`, `)`) → Preserved as-is, enabling tag/link embedding",
+          "indent_level": 0,
+          "line_number": 209,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner:** PRIMARY use - renders task in timeline at specified time",
+          "indent_level": 0,
+          "line_number": 218,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Separate prompt allows quick capture without time-blocking",
+          "indent_level": 0,
+          "line_number": 218,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Prompt text guides user on format expectations",
+          "indent_level": 0,
+          "line_number": 218,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Blank input results in non-time-blocked task",
+          "indent_level": 0,
+          "line_number": 218,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Invalid time format (e.g., `2:00 PM`) → Day Planner won't recognize, remains as text",
+          "indent_level": 0,
+          "line_number": 223,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Time ranges spanning midnight → Day Planner may not handle correctly",
+          "indent_level": 0,
+          "line_number": 226,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Overlapping time blocks → Day Planner shows both, user resolves conflicts",
+          "indent_level": 0,
+          "line_number": 227,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Tasks Plugin:** Recognizes `⏳` emoji as scheduled property, filterable",
+          "indent_level": 0,
+          "line_number": 232,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Dataview:** Maps to `scheduled` field for queries",
+          "indent_level": 0,
+          "line_number": 233,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner:** Places task on correct day in timeline (if no time block, shows in \"unscheduled\" section)",
+          "indent_level": 0,
+          "line_number": 235,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "`|today` default minimizes prompts for same-day tasks",
+          "indent_level": 0,
+          "line_number": 238,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "`YYYY-MM-DD` format ensures cross-plugin compatibility",
+          "indent_level": 0,
+          "line_number": 242,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Invalid date format → VDATE will re-prompt",
+          "indent_level": 0,
+          "line_number": 249,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Future dates → Task appears in Day Planner for that future day",
+          "indent_level": 0,
+          "line_number": 253,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Tasks Plugin:** Recognizes `📅` emoji, enables due-date filters",
+          "indent_level": 0,
+          "line_number": 257,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Dataview:** Maps to `due` field",
+          "indent_level": 0,
+          "line_number": 258,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner:** Visual indicator (some versions show due dates)",
+          "indent_level": 0,
+          "line_number": 260,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Optional field (blank input accepted)",
+          "indent_level": 0,
+          "line_number": 260,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Requires user to type full emoji + date to enforce format",
+          "indent_level": 0,
+          "line_number": 263,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Prompt explains exact format needed",
+          "indent_level": 0,
+          "line_number": 264,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "User enters only date without emoji → Tasks won't recognize, becomes plain text",
+          "indent_level": 0,
+          "line_number": 266,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "User enters `📅` without date → Tasks may error or ignore",
+          "indent_level": 0,
+          "line_number": 268,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Blank input → Task has no due date (valid state)",
+          "indent_level": 0,
+          "line_number": 271,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Tasks Plugin:** Recognizes all four priority levels, enables filtering",
+          "indent_level": 0,
+          "line_number": 279,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Dataview:** Can filter tasks by checking for emoji presence in text",
+          "indent_level": 0,
+          "line_number": 281,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner:** Visual styling (CSS can target emojis)",
+          "indent_level": 0,
+          "line_number": 284,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Single-character input (fast capture)",
+          "indent_level": 0,
+          "line_number": 285,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Emoji visual cue in daily note",
+          "indent_level": 0,
+          "line_number": 285,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Blank input = normal priority (default)",
+          "indent_level": 0,
+          "line_number": 286,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Multiple priority emojis → Tasks uses first one",
+          "indent_level": 0,
+          "line_number": 288,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Invalid emoji → Ignored by Tasks, becomes plain text",
+          "indent_level": 0,
+          "line_number": 290,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Typo (e.g., ⬆️ instead of ⏫) → Tasks won't recognize",
+          "indent_level": 0,
+          "line_number": 293,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Tasks Plugin:** Creates bidirectional link, visible in backlinks pane",
+          "indent_level": 0,
+          "line_number": 300,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Dataview:** Can query tasks by source file via `file.link`",
+          "indent_level": 0,
+          "line_number": 302,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner:** Clickable link back to source context",
+          "indent_level": 0,
+          "line_number": 303,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "`LINKCURRENT` auto-populates, no user input needed",
+          "indent_level": 0,
+          "line_number": 306,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "🔗 emoji provides visual separator",
+          "indent_level": 0,
+          "line_number": 307,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Enables \"where did this task come from?\" discovery",
+          "indent_level": 0,
+          "line_number": 308,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "No active file → `LINKCURRENT` fails (rare - usually run from daily note)",
+          "indent_level": 0,
+          "line_number": 310,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Link breaks if note renamed → Obsidian auto-updates links",
+          "indent_level": 0,
+          "line_number": 312,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Circular references → Not an issue, links are informational only",
+          "indent_level": 0,
+          "line_number": 317,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Task: `Buy groceries`",
+          "indent_level": 0,
+          "line_number": 324,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Time block: `(blank)`",
+          "indent_level": 0,
+          "line_number": 324,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Scheduled: `(today - default accepted)`",
+          "indent_level": 0,
+          "line_number": 324,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Due: `(blank)`",
+          "indent_level": 0,
+          "line_number": 325,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Priority: `(blank)`",
+          "indent_level": 0,
+          "line_number": 327,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Tasks:** Filterable by scheduled date, normal priority",
+          "indent_level": 0,
+          "line_number": 328,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Dataview:** `WHERE scheduled = date(\"2025-11-16\")`",
+          "indent_level": 0,
+          "line_number": 329,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner:** Appears in \"Unscheduled\" section for Nov 16",
+          "indent_level": 0,
+          "line_number": 330,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Task: `Team standup`",
+          "indent_level": 0,
+          "line_number": 332,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Time block: `09:00 - 09:30`",
+          "indent_level": 0,
+          "line_number": 332,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Scheduled: `(today - accepted)`",
+          "indent_level": 0,
+          "line_number": 332,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Due: `(blank)`",
+          "indent_level": 0,
+          "line_number": 334,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Priority: `(blank)`",
+          "indent_level": 0,
+          "line_number": 335,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Tasks:** Scheduled for today, time text visible but not parsed",
+          "indent_level": 0,
+          "line_number": 339,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Dataview:** Can regex-extract time via `regexmatch(text, \"\\d{2}:\\d{2}\")`",
+          "indent_level": 0,
+          "line_number": 341,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner:** Renders in timeline at 9:00 AM with 30-minute duration",
+          "indent_level": 0,
+          "line_number": 343,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Task: `Complete investor pitch deck`",
+          "indent_level": 0,
+          "line_number": 344,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Time block: `(blank)`",
+          "indent_level": 0,
+          "line_number": 346,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Scheduled: `(today)`",
+          "indent_level": 0,
+          "line_number": 347,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Due: `📅 2025-11-18`",
+          "indent_level": 0,
+          "line_number": 348,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Priority: `⏫`",
+          "indent_level": 0,
+          "line_number": 348,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Tasks:** High priority, due in 2 days, shows in overdue views after Nov 18",
+          "indent_level": 0,
+          "line_number": 351,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Dataview:** `WHERE priority = \"⏫\" AND due < date(today) + dur(3 days)`",
+          "indent_level": 0,
+          "line_number": 353,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner:** Visual priority indicator (via CSS)",
+          "indent_level": 0,
+          "line_number": 354,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Task: `Weekly team retrospective`",
+          "indent_level": 0,
+          "line_number": 357,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Time block: `14:00 - 15:00`",
+          "indent_level": 0,
+          "line_number": 360,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Scheduled: `2025-11-18` (next Monday)",
+          "indent_level": 0,
+          "line_number": 360,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Due: `(blank)`",
+          "indent_level": 0,
+          "line_number": 360,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Priority: `🔼`",
+          "indent_level": 0,
+          "line_number": 361,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Tasks:** Generates new instance after completion, maintains time block in text",
+          "indent_level": 0,
+          "line_number": 372,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Dataview:** Can query recurring tasks via `WHERE contains(text, \"🔁\")`",
+          "indent_level": 0,
+          "line_number": 375,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner:** Shows time block for current instance only",
+          "indent_level": 0,
+          "line_number": 377,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Task: `Write Q4 OKR report`",
+          "indent_level": 0,
+          "line_number": 380,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Time block: `10:00 - 12:00`",
+          "indent_level": 0,
+          "line_number": 381,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Scheduled: `(today)`",
+          "indent_level": 0,
+          "line_number": 381,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Due: `📅 2025-11-17`",
+          "indent_level": 0,
+          "line_number": 382,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Priority: `🔼`",
+          "indent_level": 0,
+          "line_number": 382,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "**Day Planner:** 2-hour time block visible, estimate queryable separately",
+          "indent_level": 0,
+          "line_number": 392,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Day Planner (ivan-lednev version)",
+          "indent_level": 1,
+          "line_number": 471,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Daily Notes (Core plugin) OR Periodic Notes (Community)",
+          "indent_level": 1,
+          "line_number": 472,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Dataview (dependency for Day Planner)",
+          "indent_level": 1,
+          "line_number": 476,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Note title must contain date in recognizable format (e.g., `2025-11-16.md` or `2025-11-16 Saturday.md`)",
+          "indent_level": 1,
+          "line_number": 478,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Tasks can appear anywhere in the note",
+          "indent_level": 1,
+          "line_number": 482,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "`14:00 - 15:00` ✅",
+          "indent_level": 0,
+          "line_number": 502,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "`09:00 - 09:30` ✅",
+          "indent_level": 0,
+          "line_number": 504,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "`00:00 - 01:00` ✅ (midnight)",
+          "indent_level": 0,
+          "line_number": 504,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Tasks with `[date:: YYYY-MM-DD]` and `[startTime:: HH:MM]` appear in calendar",
+          "indent_level": 0,
+          "line_number": 563,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Requires separate QuickAdd template or macro to add these fields",
+          "indent_level": 0,
+          "line_number": 566,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Add `[status:: todo/doing/done]` inline field",
+          "indent_level": 0,
+          "line_number": 568,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Dataview queries can then populate Kanban columns",
+          "indent_level": 0,
+          "line_number": 569,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Enable \"Auto-suggest\" in Tasks settings",
+          "indent_level": 0,
+          "line_number": 570,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Typing `📅` triggers date picker",
+          "indent_level": 0,
+          "line_number": 572,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "Reduces QuickAdd prompt count",
+          "indent_level": 0,
+          "line_number": 572,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "*Connection*: Task capture is the first step of Getting Things Done methodology",
+          "indent_level": 1,
+          "line_number": 603,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "*Depth Potential*: Complete GTD implementation using Obsidian's graph structure, including Inbox, Next Actions, Projects, and Review processes",
+          "indent_level": 1,
+          "line_number": 607,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Links task management to broader productivity philosophy, connects to [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] and [[Cognitive Offloading]]",
+          "indent_level": 1,
+          "line_number": 614,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "*Connection*: Macros can enhance task capture with intelligent defaults and context-aware prompts",
+          "indent_level": 1,
+          "line_number": 626,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "*Depth Potential*: Deep dive into QuickAdd JavaScript API, async operations, and vault manipulation for power users",
+          "indent_level": 1,
+          "line_number": 632,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "*Connection*: Advanced queries unlock powerful task analytics and custom dashboards",
+          "indent_level": 1,
+          "line_number": 643,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "*Depth Potential*: Complete DQL reference covering WHERE clauses, GROUP BY operations, functions, and DataviewJS for dynamic views",
+          "indent_level": 1,
+          "line_number": 647,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Core technical skill for [[Obsidian Power Users]], connects to [[Data Analysis]] and [[Dashboard Design]]",
+          "indent_level": 1,
+          "line_number": 650,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "*Connection*: Day Planner integration implements Cal Newport's time-blocking philosophy",
+          "indent_level": 1,
+          "line_number": 655,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "*Depth Potential*: Explore time-blocking research, cognitive benefits, implementation strategies, and integration with [[deep work]] principles",
+          "indent_level": 1,
+          "line_number": 661,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Productivity methodology connecting [[Attention Management]], [[Calendar Blocking]], and [[Task Prioritization]]",
+          "indent_level": 1,
+          "line_number": 667,
+          "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "\", \"",
+        "format": "inline",
+        "line_number": 540,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "expression": "\", \"",
+        "format": "inline",
+        "line_number": 544,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "expression": "1 ⏳",
+        "format": "inline",
+        "line_number": 769,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "expression": "{suggestedStart} -",
+        "format": "inline",
+        "line_number": 858,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      },
+      {
+        "expression": "{suggestedStart} -",
+        "format": "inline",
+        "line_number": 859,
+        "source": "reference-instructional-pkb-quickadd-task-system-(implemented)-20251116.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+      "2025-11-16",
+      "Attention Management",
+      "Calendar Blocking",
+      "Cognitive Offloading",
+      "Daily Notes",
+      "Dashboard Design",
+      "Data Analysis",
+      "Dataview Query Language (DQL) Mastery",
+      "FILENAME",
+      "GTD Workflow in Obsidian",
+      "JavaScript",
+      "Obsidian API",
+      "Obsidian Power Users",
+      "Project Name",
+      "Project X",
+      "QuickAdd Macro Development",
+      "TODAY'S DATE",
+      "Task Prioritization",
+      "Time-Blocking Methodology",
+      "Workflow Automation",
+      "deep work",
+      "obsidian"
+    ],
+    "unique_wiki_link_count": 23,
+    "unique_tags": [
+      "#pkb",
+      "#pkm",
+      "#type/reference"
+    ],
+    "unique_tag_count": 3,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+      "2025-11-16",
+      "Attention Management",
+      "Calendar Blocking",
+      "Cognitive Offloading",
+      "Daily Notes",
+      "Dashboard Design",
+      "Data Analysis",
+      "Dataview Query Language (DQL) Mastery",
+      "FILENAME",
+      "GTD Workflow in Obsidian",
+      "JavaScript",
+      "Obsidian API",
+      "Obsidian Power Users",
+      "Project Name",
+      "Project X",
+      "QuickAdd Macro Development",
+      "TODAY'S DATE",
+      "Task Prioritization",
+      "Time-Blocking Methodology",
+      "Workflow Automation",
+      "deep work",
+      "obsidian"
+    ]
+  }
+}

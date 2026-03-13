@@ -1,0 +1,3100 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.101625",
+    "source_file": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+    "source_file_size_bytes": 32561,
+    "processing_time_seconds": 0.014
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Dataview Task Queries",
+        "Task Query Library"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "type/tutorial",
+        "status/in-progress",
+        "pkb",
+        "vault-architecture",
+        "dashboard-design",
+        "critical-thinking/problem-solving",
+        "instructional-design-pkm",
+        "cognitive-resources",
+        "pkb/optimization",
+        "dataview-queries",
+        "cognitive-pkm"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251202044814",
+      "created": "2025-12-02T04:48:14",
+      "modified": "2025-12-02T04:48:14",
+      "week": "[[2025-W49]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "maturity": "needs-review",
+      "confidence": "moderate",
+      "next-review": "2025-12-09",
+      "review-count": "0",
+      "link-up": [
+        "[[pkb-&-pkm-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-02|Daily-Note]]"
+      ]
+    },
+    "word_count": 4633,
+    "character_count": 31418,
+    "line_count": 1027,
+    "heading_count": 36
+  },
+  "extraction_summary": {
+    "total_items_extracted": 293,
+    "by_type": {
+      "headings": 36,
+      "callouts": 40,
+      "wiki_links": 80,
+      "inline_fields": 14,
+      "definitions": 0,
+      "tags": 18,
+      "code_blocks": 57,
+      "tables": 1,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 1,
+      "mermaid_diagrams": 0,
+      "footnotes": 1,
+      "color_spans": 0,
+      "lists_ordered": 14,
+      "lists_unordered": 28,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 3
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Dataview Task Query Reference",
+      "anchor": "dataview-task-query-reference",
+      "line_number": 37,
+      "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📊 Note Metadata Dashboard",
+          "anchor": "note-metadata-dashboard",
+          "line_number": 44,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Related Notes",
+              "anchor": "related-notes",
+              "line_number": 107,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Sources & References",
+              "anchor": "sources-references",
+              "line_number": 115,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Backlinks & Connections",
+              "anchor": "backlinks-connections",
+              "line_number": 125,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2025-12-02 - Initial Creation",
+              "anchor": "2025-12-02-initial-creation",
+              "line_number": 135,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Tags & Classification",
+              "anchor": "tags-classification",
+              "line_number": 140,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Review System",
+              "anchor": "review-system",
+              "line_number": 145,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Review Checklist:",
+                  "anchor": "review-checklist",
+                  "line_number": 153,
+                  "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "Claude Thinking",
+              "anchor": "claude-thinking",
+              "line_number": 164,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "📋Dataview Task Query Reference",
+      "anchor": "dataview-task-query-reference",
+      "line_number": 228,
+      "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🎯Core Concepts",
+          "anchor": "core-concepts",
+          "line_number": 230,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Task Query Execution Model",
+              "anchor": "task-query-execution-model",
+              "line_number": 235,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Task-Specific Implicit Fields",
+              "anchor": "task-specific-implicit-fields",
+              "line_number": 255,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📚 Essential Query Patterns by Use Case",
+          "anchor": "essential-query-patterns-by-use-case",
+          "line_number": 287,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. Today's Workflow Queries",
+              "anchor": "1-todays-workflow-queries",
+              "line_number": 289,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. Priority & Urgency Queries",
+              "anchor": "2-priority-urgency-queries",
+              "line_number": 339,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. Time-Based Planning Queries",
+              "anchor": "3-time-based-planning-queries",
+              "line_number": 394,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. Project & Context Queries",
+              "anchor": "4-project-context-queries",
+              "line_number": 441,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5. Custom Metadata Queries",
+              "anchor": "5-custom-metadata-queries",
+              "line_number": 498,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "6. Advanced Filtering Patterns",
+              "anchor": "6-advanced-filtering-patterns",
+              "line_number": 549,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🚀 DataviewJS Advanced Patterns",
+          "anchor": "dataviewjs-advanced-patterns",
+          "line_number": 610,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "DataviewJS Task Query Fundamentals",
+              "anchor": "dataviewjs-task-query-fundamentals",
+              "line_number": 615,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Pattern 1: Conditional Task Display with Fallback",
+              "anchor": "pattern-1-conditional-task-display-with-fallback",
+              "line_number": 636,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Pattern 2: Custom Task Grouping with Headers",
+              "anchor": "pattern-2-custom-task-grouping-with-headers",
+              "line_number": 657,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Pattern 3: Task Metrics & Analytics",
+              "anchor": "pattern-3-task-metrics-analytics",
+              "line_number": 692,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Pattern 4: Dynamic Time-Blocked Schedule",
+              "anchor": "pattern-4-dynamic-time-blocked-schedule",
+              "line_number": 719,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Pattern 5: Task Chain Visualization (Parent-Child)",
+              "anchor": "pattern-5-task-chain-visualization-parent-child",
+              "line_number": 751,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 Integration Patterns",
+          "anchor": "integration-patterns",
+          "line_number": 779,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Tasks Plugin Compatibility",
+              "anchor": "tasks-plugin-compatibility",
+              "line_number": 781,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Daily Notes Integration",
+              "anchor": "daily-notes-integration",
+              "line_number": 812,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚡ Performance Optimization",
+          "anchor": "performance-optimization",
+          "line_number": 853,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🎨 Dashboard Templates",
+          "anchor": "dashboard-templates",
+          "line_number": 923,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Weekly Planning Dashboard",
+              "anchor": "weekly-planning-dashboard",
+              "line_number": 925,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Project Task Board",
+              "anchor": "project-task-board",
+              "line_number": 983,
+              "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 Related Topics for PKB Expansion",
+          "anchor": "related-topics-for-pkb-expansion",
+          "line_number": 1031,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "Untitled",
+        "body": "- **Title**:: [[Dataview Task Query Reference]]\n- **Prompt/Topic Used**:: \n- **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`",
+        "line_number": 39,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 790,
+        "char_end": 954
+      },
+      {
+        "type": "fail",
+        "title": "🛠️ Metadata Health Check",
+        "body": "**Missing Fields**:: `$= const fields = [\"status\", \"type\", \"tags\"]; const missing = fields.filter(f => !dv.current()[f]); missing.length > 0 ? \"⚠️ Missing: \" + missing.join(\", \") : \"✅ All Systems Go\"`",
+        "line_number": 45,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 984,
+        "char_end": 1222
+      },
+      {
+        "type": "metadata",
+        "title": "Untitled",
+        "body": "**Note-Type**: `= this.type`\n**Development Status**: `= this.maturity`  \n**Epistemic Confidence**: `= this.confidence`  \n**Next Review**: `= this.next-review`  \n**Review Count**: `= this.review-count`  \n**Created**: `= this.created`  \n**Last Modified**: `= this.modified`",
+        "line_number": 48,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 1223,
+        "char_end": 1523
+      },
+      {
+        "type": "quote",
+        "title": "📝 Content Metrics",
+        "body": "**Word Count**:: `= this.file.size` B | **Est. Read Time**:: `= round(this.file.size / 1300) + \" min\"`\n**Depth Class**:: `= choice(this.file.size < 500, \"🌱 Stub\", choice(this.file.size < 2000, \"📄 Note\", \"📜 Essay\"))`",
+        "line_number": 57,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 1524,
+        "char_end": 1773
+      },
+      {
+        "type": "calendar",
+        "title": "🕰️ Temporal Context",
+        "body": "**Created**:: `= this.file.ctime` | **Age**:: `= (date(today) - this.file.ctime).days + \" days\"`\n**Last Touch**:: `= this.file.mtime` | **Staleness**:: `= choice((date(today) - this.file.mtime).days > 180, \"🕸️ Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂 Cold\", \"🔥 Fresh\"))`",
+        "line_number": 61,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 1774,
+        "char_end": 2105
+      },
+      {
+        "type": "network",
+        "title": "🔗 Network Connectivity",
+        "body": "**In-Links**:: `= length(this.file.inlinks)` | **Out-Links**:: `= length(this.file.outlinks)`\n**Network Status**:: `= choice(length(this.file.inlinks) = 0, \"🕸️ Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱 Node\"))`",
+        "line_number": 65,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 2106,
+        "char_end": 2374
+      },
+      {
+        "type": "important",
+        "title": "Review Schedule",
+        "body": "- **Next Review**: `= this.next-review`\n- **Review Frequency**: Based on maturity level\n  - Seedling: Weekly\n  - Budding: Bi-weekly\n  - Developing: Monthly\n  - Evergreen: Quarterly",
+        "line_number": 146,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 4558,
+        "char_end": 4782
+      },
+      {
+        "type": "abstract",
+        "title": "Executive Overview",
+        "body": "This comprehensive reference documents the most powerful and commonly-used [[Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.",
+        "line_number": 223,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 7562,
+        "char_end": 8181
+      },
+      {
+        "type": "definition",
+        "title": "TASK Query Type Fundamentals",
+        "body": "The `TASK` query type is unique in [[Dataview Plugin]] because it operates at **task level** rather than page level, enabling granular filtering of individual task items. It's the only Dataview query that can **modify your files**—checking a task in a Dataview view updates the original file.",
+        "line_number": 232,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 8240,
+        "char_end": 8580
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Task Metadata Architecture",
+        "body": "Every task in your vault automatically inherits these implicit fields from [[Dataview Plugin]]:",
+        "line_number": 257,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 9206,
+        "char_end": 9360
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Custom Inline Fields in Tasks",
+        "body": "You can extend task metadata using [[Inline Fields]] syntax:\n```\n- [ ] Implement auth system [priority:: high] [estimated:: 5h] [sprint:: 12]\n```\nThese custom fields become queryable: `WHERE priority = \"high\" AND estimated > 3`",
+        "line_number": 278,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 10471,
+        "char_end": 10756
+      },
+      {
+        "type": "example",
+        "title": "Today's Schedule (Time-Blocked Tasks)",
+        "body": "**Query:**\n\nTASK\nWHERE scheduled = date(today)\n  AND contains(text, \" - \")\nSORT regexreplace(text, \"^.*?(\\d{2}:\\d{2}).*\", \"$1\") ASC\n\n\n**What it does:** Shows only tasks scheduled for today that have time blocks (e.g., `10:00 - 11:00`), sorted chronologically by start time.\n\n**Use case:** Morning planning dashboard—displays your day's timeline in order\n\n**Required task format:**\n```markdown\n- [ ] Team standup 09:00 - 09:30 ⏳ 2025-12-02\n- [ ] Code review session 10:00 - 11:30 ⏳ 2025-12-02\n- [ ] Lunch break 12:00 - 13:00 ⏳ 2025-12-02\n```",
+        "line_number": 291,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 10838,
+        "char_end": 11473
+      },
+      {
+        "type": "example",
+        "title": "All Today's Tasks (Simple View)",
+        "body": "**Query:**\n```\nTASK\nWHERE scheduled = date(today)\n  AND !completed\nSORT priority DESC, due ASC\n```\n\n**What it does:** Lists all incomplete tasks scheduled for today, prioritizing high-priority items first, then sorting by deadline.\n\n**Use case:** Clean daily task list without time constraints",
+        "line_number": 312,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 11474,
+        "char_end": 11842
+      },
+      {
+        "type": "example",
+        "title": "Today's Completed Tasks (Work Log)",
+        "body": "**Query:**\n```\nTASK\nWHERE completion = date(today)\nSORT file.ctime DESC\n```\n\n**What it does:** Shows all tasks marked complete today, reverse chronological order\n\n**Use case:** End-of-day review / accomplishment tracking / time logging",
+        "line_number": 326,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 11843,
+        "char_end": 12154
+      },
+      {
+        "type": "example",
+        "title": "Overdue High-Priority Tasks (Triage View)",
+        "body": "**Query:**\n```\nTASK\nWHERE due < date(today)\n  AND !completed\n  AND (contains(text, \"⏫\") OR contains(text, \"🔼\"))\n```\n\n**What it does:** Finds incomplete tasks with missed deadlines that are high or highest priority (using [[Tasks Plugin]] emoji: ⏫ = highest, 🔼 = high)\n\n**Use case:** Emergency attention queue—what needs immediate action\n\n**Compatible task format:**\n``\n- [ ] File quarterly taxes ⏫ 📅 2025-11-30\n- [ ] Review contract amendments 🔼 📅 2025-11-25\n```",
+        "line_number": 341,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 12190,
+        "char_end": 12749
+      },
+      {
+        "type": "example",
+        "title": "Tasks Grouped by Priority (All Levels)",
+        "body": "**Query:**\n```\nTABLE WITHOUT ID\n  text as \"Task\",\n  scheduled as \"When\",\n  due as \"Deadline\"\nWHERE !completed\nGROUP BY\n  choice(contains(text, \"⏫\"), \"⏫ Highest\",\n  choice(contains(text, \"🔼\"), \"🔼 High\",\n  choice(contains(text, \"🔽\"), \"🔽 Low\",\n  choice(contains(text, \"⬇\"), \"⬇ Lowest\", \"Normal\"))))\nSORT choice(contains(text, \"⏫\"), 1,\n     choice(contains(text, \"🔼\"), 2,\n     choice(contains(text, \"🔽\"), 4,\n     choice(contains(text, \"⬇\"), 5, 3)))) ASC\n```\n\n**What it does:** Creates a TABLE view grouped by priority level (Highest → High → Normal → Low → Lowest) with intelligent sorting\n\n**Use case:** [[Priority Management]] dashboard for weekly planning\n\n**Priority Emoji Reference:**\n- `⏫` = Highest\n- `🔼` = High  \n- (no emoji) = Normal\n- `🔽` = Low\n- `⬇` = Lowest",
+        "line_number": 362,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 12754,
+        "char_end": 13635
+      },
+      {
+        "type": "example",
+        "title": "Weekly Task Timeline",
+        "body": "**Query:**\n```\nTASK\nWHERE scheduled >= date(today)\n  AND scheduled <= date(today) + dur(7 days)\n  AND !completed\nSORT scheduled ASC\n```\n\n**What it does:** All incomplete tasks scheduled for the next 7 days\n\n**Use case:** Week-ahead planning view / sprint planning",
+        "line_number": 396,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 13676,
+        "char_end": 14005
+      },
+      {
+        "type": "example",
+        "title": "Unscheduled Tasks with Approaching Deadlines",
+        "body": "**Query:**\n```\nTASK\nWHERE !scheduled\n  AND !completed\n  AND due <= date(today) + dur(3 days)\nSORT due ASC\n```\n\n**What it does:** Finds tasks with deadlines within 3 days that haven't been scheduled yet\n\n**Use case:** \"Tasks I forgot to plan\" inbox—catches upcoming deadlines before they become emergencies",
+        "line_number": 411,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 14006,
+        "char_end": 14401
+      },
+      {
+        "type": "example",
+        "title": "Monthly Review Queue",
+        "body": "```\nTASK\nWHERE due >= date(today) \n  AND due <= date(today) + dur(30 days)\n  AND !completed\nGROUP BY dateformat(due, \"yyyy-MM (MMMM)\") as \"Month\"\nSORT due ASC\n```\n\n**What it does:** Groups tasks by month for the next 30 days\n\n**Use case:** Long-term planning / capacity assessment",
+        "line_number": 426,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 14402,
+        "char_end": 14748
+      },
+      {
+        "type": "example",
+        "title": "Tasks Linked to Specific Project",
+        "body": "**Query:**\n```\nTASK\nWHERE contains(text, \"[[Project X]]\")\n  AND !completed\nSORT priority DESC, due ASC\n```\n\n**What it does:** Finds all incomplete tasks mentioning a specific project note\n\n**Use case:** Project-specific task list (replace \"Project X\" with your note name)\n\n**Pattern variation for multiple projects:**\n```dataview\nTASK\nWHERE (contains(text, \"[[Project Alpha]]\") \n   OR contains(text, \"[[Project Beta]]\"))\n  AND !completed\nGROUP BY regexreplace(text, \".*\\[\\[([^\\]]+)\\]\\].*\", \"$1\") as \"Project\"\n```",
+        "line_number": 443,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 14783,
+        "char_end": 15389
+      },
+      {
+        "type": "example",
+        "title": "Tasks by Source Daily Note (Recent Activity)",
+        "body": "**Query:**\n```\nTABLE WITHOUT ID\n  rows.text as \"Tasks\"\nFROM #daily-note\nWHERE file.tasks\nGROUP BY file.link\nSORT file.ctime DESC\nLIMIT 10\n```\n\n**What it does:** Shows tasks from the 10 most recent [[Daily Notes]], grouped by date\n\n**Use case:** \"What did I capture this week?\" review / task audit",
+        "line_number": 466,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 15390,
+        "char_end": 15780
+      },
+      {
+        "type": "example",
+        "title": "Tasks by Section Heading",
+        "body": "**Query:**\n```\nTASK\nFROM \"Projects\"\nWHERE !completed\nGROUP BY section\nSORT section ASC\n```\n\n**What it does:** Groups tasks by the heading they appear under in source files\n\n**Use case:** Organizing tasks by document structure (e.g., all tasks under \"## Research\" vs \"## Implementation\")",
+        "line_number": 483,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 15781,
+        "char_end": 16137
+      },
+      {
+        "type": "example",
+        "title": "Tasks with Time Estimates",
+        "body": "**Query:**\n```\nTASK\nWHERE estimated\n  AND !completed\nSORT estimated DESC\n```\n\n**What it does:** Finds tasks with `[estimated:: duration]` [[Inline Fields]]\n\n**Use case:** [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / capacity planning / velocity tracking\n\n**Required task format:**\n```markdown\n- [ ] Write documentation [estimated:: 4h] ⏳ 2025-12-02\n- [ ] Code review [estimated:: 1.5h] ⏳ 2025-12-02\n```\n\n**Calculate total estimated time:**\n```dataview\nTABLE\n  sum(rows.estimated) as \"Total Hours\"\nWHERE estimated AND !completed\nGROUP BY file.folder\n```",
+        "line_number": 500,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 16170,
+        "char_end": 16849
+      },
+      {
+        "type": "example",
+        "title": "Tasks by Custom Status Field",
+        "body": "**Query:**\n```\nTASK\nWHERE task-status\n  AND !completed\nGROUP BY task-status\n```\n\n**What it does:** Groups tasks by custom status inline field (e.g., `[task-status:: in-review]`)\n\n**Use case:** Kanban-style workflow tracking\n\n**Task format example:**\n```markdown\n- [ ] Implement feature X [task-status:: in-progress] [assignee:: [[Alice]]]\n- [ ] Test feature Y [task-status:: in-review] [assignee:: [[Bob]]]\n- [ ] Deploy feature Z [task-status:: blocked] [assignee:: [[Carol]]]\n```",
+        "line_number": 528,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 16850,
+        "char_end": 17416
+      },
+      {
+        "type": "example",
+        "title": "Multi-Condition Task Filter (Complex Logic)",
+        "body": "**Query:**\n```\nTASK\nWHERE !completed\n  AND (\n    (contains(text, \"⏫\") AND due < date(today) + dur(2 days))\n    OR\n    (contains(text, \"🔼\") AND due < date(today))\n  )\n  AND !contains(text, \"[[Blocked]]\")\nSORT due ASC\n```\n\n**What it does:** \n- Highest priority tasks due within 2 days, OR\n- High priority tasks that are overdue\n- Excludes any task linked to a \"Blocked\" status note\n\n**Use case:** Intelligent prioritization—surfaces what actually needs attention right now",
+        "line_number": 551,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 17453,
+        "char_end": 18026
+      },
+      {
+        "type": "example",
+        "title": "Recurring Tasks Pattern",
+        "body": "**Query:**\n```\nTASK\nWHERE contains(text, \"🔁\")\n  AND scheduled <= date(today)\nSORT scheduled ASC\n```\n\n**What it does:** Finds [[Tasks Plugin]] recurring tasks (marked with 🔁) that are due today or earlier\n\n**Use case:** Daily habit tracking / recurring maintenance tasks\n\n**Recurring task format:**\n```markdown\n- [ ] Review inbox 🔁 every day ⏳ 2025-12-02\n- [ ] Weekly planning 🔁 every Monday ⏳ 2025-12-02\n```",
+        "line_number": 573,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 18027,
+        "char_end": 18513
+      },
+      {
+        "type": "example",
+        "title": "Tasks WITHOUT Certain Tags",
+        "body": "**Query:**\n```\nTASK\nWHERE !completed\n  AND !contains(tags, \"#waiting\")\n  AND !contains(tags, \"#someday\")\nSORT due ASC\n```\n\n**What it does:** Filters out tasks in \"waiting\" or \"someday/maybe\" categories\n\n**Use case:** Actionable task list (excluding deferred items per [[GTD Workflow]])",
+        "line_number": 593,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 18514,
+        "char_end": 18871
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "DataviewJS for Tasks",
+        "body": "[[DataviewJS]] provides JavaScript-based query capabilities for complex task manipulation, custom rendering, and dynamic filtering that's difficult or impossible with [[DQL]] alone.",
+        "line_number": 612,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 18912,
+        "char_end": 19146
+      },
+      {
+        "type": "definition",
+        "title": "Core DataviewJS Task Methods",
+        "body": "- `dv.pages()` - Get pages as DataArray\n- `.file.tasks` - Access all tasks in a file (including subtasks)\n- `.where()` - Filter tasks (equivalent to WHERE in DQL)\n- `.groupBy()` - Group tasks by field\n- `dv.taskList()` - Render tasks as interactive checklist",
+        "line_number": 617,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 19187,
+        "char_end": 19501
+      },
+      {
+        "type": "example",
+        "title": "Show Tasks or Success Message",
+        "body": "**DataviewJS:**\n```\nconst dql = dv.tryQuery(`\nTASK\nWHERE due < date(today)\n  AND !completed\n  AND contains(text, \"📅\")\nSORT due asc\n`);\n\ndql ? dv.taskList(dql) : dv.paragraph(\"✅ Well done! No overdue tasks.\");\n```\n\n**What it does:** Shows overdue tasks if any exist; otherwise displays a congratulatory message\n\n**Use case:** Motivation-friendly dashboard that celebrates when you're caught up",
+        "line_number": 638,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 19758,
+        "char_end": 20233
+      },
+      {
+        "type": "example",
+        "title": "Tasks Grouped by Priority with Custom Headers",
+        "body": "**DataviewJS:**\n```javascript\nconst priorityMap = {\n  '⏫': 'Highest Priority',\n  '🔼': 'High Priority', \n  'normal': 'Normal Priority',\n  '🔽': 'Low Priority'\n};\n\nfunction getPriority(task) {\n  if (task.text.includes('⏫')) return '⏫';\n  if (task.text.includes('🔼')) return '🔼';\n  if (task.text.includes('🔽')) return '🔽';\n  return 'normal';\n}\n\nconst tasks = dv.pages()\n  .file.tasks\n  .where(t => !t.completed)\n  .groupBy(t => getPriority(t));\n\nfor (let group of tasks) {\n  dv.header(3, priorityMap[group.key]);\n  dv.taskList(group.rows);\n}\n```\n\n**What it does:** Creates custom section headers for each priority level with friendly labels\n\n**Use case:** More readable priority-based task organization",
+        "line_number": 659,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 20284,
+        "char_end": 21109
+      },
+      {
+        "type": "example",
+        "title": "Task Completion Statistics",
+        "body": "**DataviewJS:**\n```javascript\nconst allTasks = dv.pages().file.tasks;\nconst completed = allTasks.where(t => t.completed).length;\nconst incomplete = allTasks.where(t => !t.completed).length;\nconst overdue = allTasks.where(t => !t.completed && t.due && t.due < dv.date('today')).length;\n\ndv.header(3, \"📊 Task Statistics\");\ndv.table(\n  [\"Metric\", \"Count\", \"Percentage\"],\n  [\n    [\"Total Tasks\", allTasks.length, \"100%\"],\n    [\"Completed\", completed, `${Math.round(completed/allTasks.length*100)}%`],\n    [\"Incomplete\", incomplete, `${Math.round(incomplete/allTasks.length*100)}%`],\n    [\"Overdue\", overdue, `${Math.round(overdue/incomplete*100)}%`]\n  ]\n);\n```\n\n**What it does:** Generates a statistical summary of vault-wide task status\n\n**Use case:** [[Dashboard Design]] / productivity analytics / [[Query Performance]] monitoring",
+        "line_number": 694,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 21151,
+        "char_end": 22072
+      },
+      {
+        "type": "example",
+        "title": "Today's Schedule with Duration Extraction",
+        "body": "**DataviewJS:**\n```javascript\nconst today = dv.pages()\n  .file.tasks\n  .where(t => t.scheduled?.toString() === dv.date('today').toString())\n  .where(t => t.text.includes(' - '));\n\nconst schedule = today.map(t => {\n  const timeMatch = t.text.match(/(\\d{2}:\\d{2})\\s*-\\s*(\\d{2}:\\d{2})/);\n  const taskText = t.text.replace(/\\d{2}:\\d{2}\\s*-\\s*\\d{2}:\\d{2}/, '').trim();\n  \n  return {\n    time: timeMatch ? timeMatch[0] : 'No time',\n    task: taskText,\n    completed: t.completed\n  };\n}).sort(t => t.time);\n\ndv.table(\n  [\"Time\", \"Task\", \"Status\"],\n  schedule.map(s => [s.time, s.task, s.completed ? \"✅\" : \"⬜\"])\n);\n```\n\n**What it does:** Extracts time blocks into a clean table format without cluttering task text\n\n**Use case:** Clean daily schedule visualization",
+        "line_number": 721,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 22119,
+        "char_end": 22991
+      },
+      {
+        "type": "example",
+        "title": "Project Tasks with Subtask Structure",
+        "body": "**DataviewJS:**\n```javascript\nconst projectTasks = dv.page('\"Projects/Q4 Initiative\"')\n  .file.tasks\n  .where(t => !t.parent); // Only root-level tasks\n\nfor (let task of projectTasks) {\n  dv.paragraph(`**${task.text}**`);\n  \n  if (task.children && task.children.length > 0) {\n    const childList = task.children.map(c => `  - ${c.text}`).join('\\n');\n    dv.paragraph(childList);\n  }\n  \n  dv.paragraph(\"---\");\n}\n```\n\n**What it does:** Displays tasks with their subtasks in a hierarchical view\n\n**Use case:** Project breakdown visualization / work package structure",
+        "line_number": 753,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 23048,
+        "char_end": 23711
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Tasks Plugin + Dataview Synergy",
+        "body": "The [[Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.",
+        "line_number": 783,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 23776,
+        "char_end": 24021
+      },
+      {
+        "type": "example",
+        "title": "Automated Daily Note Task Summary",
+        "body": "**Add to Daily Note Template:**\n````markdown\n## 📋 Today's Tasks\n\n```dataview\nTASK\nWHERE scheduled = this.file.day\n  AND !completed\nSORT contains(text, \"⏫\") DESC, contains(text, \"🔼\") DESC, due ASC\n```\n\n## ⏰ Time-Blocked Schedule\n\n```dataview\nTABLE WITHOUT ID\n  regexreplace(text, \"^(.*?)(\\d{2}:\\d{2} - \\d{2}:\\d{2})(.*)$\", \"$1$3\") as \"Task\",\n  regexreplace(text, \"^.*?(\\d{2}:\\d{2} - \\d{2}:\\d{2}).*$\", \"$1\") as \"Time\"\nWHERE scheduled = this.file.day\n  AND contains(text, \" - \")\nSORT regexreplace(text, \"^.*?(\\d{2}:\\d{2}).*\", \"$1\") ASC\n```\n\n## ✅ Completed Today\n\n```dataview\nTASK\nWHERE completion = this.file.day\nSORT file.ctime DESC\n```\n````\n\n**What this creates:** A comprehensive daily note with live-updating task views\n\n**Use case:** [[Daily Notes]] automation / [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / daily planning ritual",
+        "line_number": 814,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 25183,
+        "char_end": 26166
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Query Performance Best Practices",
+        "body": "**Optimization Strategies:**\n\n1. **Scope Narrowing with FROM:**\n   ```dataview\n   TASK\n   FROM \"Projects\" AND !\"Archive\"\n   WHERE !completed\n   ```\n   ↑ Faster than vault-wide search\n\n2. **Early Filtering in WHERE:**\n   ```dataview\n   TASK\n   WHERE !completed  # Filter first (fast)\n     AND due        # Then check for field existence\n     AND due < date(today) + dur(7 days)  # Finally, expensive computation\n   ```\n   ↑ Order conditions from cheapest to most expensive\n\n3. **Limit Results for Large Vaults:**\n   ```dataview\n   TASK\n   WHERE scheduled = date(today)\n   LIMIT 50\n   ```\n   ↑ Prevents rendering thousands of tasks\n\n4. **Cache Results in DataviewJS:**\n   ```javascript\n   const allTasks = dv.pages().file.tasks; // Compute once\n   const completed = allTasks.where(t => t.completed); // Reuse\n   const incomplete = allTasks.where(t => !t.completed); // Reuse\n   ```\n   ↑ Don't re-query the same data multiple times",
+        "line_number": 855,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 26203,
+        "char_end": 27253
+      },
+      {
+        "type": "warning",
+        "title": "Common Performance Pitfalls",
+        "body": "**Avoid These Patterns:**\n\n❌ **Regex in tight loops:**\n```dataview\nTASK\nWHERE regexmatch(\"\\d{2}:\\d{2}\", text)  # Slow on large vaults\n```\n✅ **Better:**\n```dataview\nTASK\nWHERE contains(text, \":\")  # Pre-filter, then regex if needed\n```\n\n❌ **Nested FLATTEN without limits:**\n```dataview\nTABLE\nFROM #project\nFLATTEN file.tasks  # Could explode to thousands of rows\n```\n✅ **Better:**\n```dataview\nTABLE\nFROM #project\nWHERE file.tasks\nLIMIT 100\n```",
+        "line_number": 892,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 27254,
+        "char_end": 27793
+      },
+      {
+        "type": "example",
+        "title": "Complete Weekly Task Dashboard",
+        "body": "````markdown\n# 📅 Weekly Task Dashboard\n\n## 🚨 Overdue & Urgent\n\n```dataview\nTASK\nWHERE due < date(today)\n  AND !completed\n  AND (contains(text, \"⏫\") OR contains(text, \"🔼\"))\nSORT due ASC\n```\n\n## 📆 This Week's Schedule\n\n```dataview\nTABLE WITHOUT ID\n  text as \"Task\",\n  dateformat(scheduled, \"EEEE, MMM dd\") as \"Day\",\n  due as \"Due\"\nWHERE scheduled >= date(today)\n  AND scheduled <= date(today) + dur(7 days)\n  AND !completed\nSORT scheduled ASC\n```\n\n## 📊 Weekly Progress\n\n```dataviewjs\nconst weekStart = dv.date('today').minus({days: dv.date('today').weekday});\nconst weekEnd = weekStart.plus({days: 7});\n\nconst completed = dv.pages()\n  .file.tasks\n  .where(t => t.completion >= weekStart && t.completion < weekEnd).length;\n\nconst scheduled = dv.pages()\n  .file.tasks\n  .where(t => t.scheduled >= weekStart && t.scheduled < weekEnd).length;\n\ndv.paragraph(`✅ Completed: ${completed} | 📋 Scheduled: ${scheduled} | ⚡ Completion Rate: ${Math.round(completed/scheduled*100)}%`);\n```\n\n## 🎯 Top Priorities\n\n```dataview\nTASK\nWHERE contains(text, \"⏫\")\n  AND !completed\nSORT due ASC\nLIMIT 10\n```\n````",
+        "line_number": 927,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 27856,
+        "char_end": 29100
+      },
+      {
+        "type": "example",
+        "title": "Project-Specific Task Kanban",
+        "body": "````markdown\n# 🎯 Project: [Project Name]\n\n## 📥 Backlog\n\n```dataview\nTASK\nWHERE contains(text, \"[[Project Name]]\")\n  AND !scheduled\n  AND !completed\nSORT file.ctime DESC\n```\n\n## 🏃 In Progress\n\n```dataview\nTASK\nWHERE contains(text, \"[[Project Name]]\")\n  AND scheduled <= date(today)\n  AND !completed\nSORT priority DESC, due ASC\n```\n\n## ⏸️ Blocked\n\n```dataview\nTASK\nWHERE contains(text, \"[[Project Name]]\")\n  AND contains(text, \"[[Blocked]]\")\n  AND !completed\n```\n\n## ✅ Completed (Last 7 Days)\n\n```dataview\nTASK\nWHERE contains(text, \"[[Project Name]]\")\n  AND completion >= date(today) - dur(7 days)\nSORT completion DESC\n```\n````",
+        "line_number": 985,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md",
+        "char_start": 29125,
+        "char_end": 29882
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Dataview Task Query Reference",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Task Query Reference]]",
+        "line_number": 40,
+        "section": "Dataview Task Query Reference",
+        "context_line": "> - **Title**:: [[Dataview Task Query Reference]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 185,
+        "section": "Claude Thinking",
+        "context_line": "- [[Dataview Plugin]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Task Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Task Management]]",
+        "line_number": 186,
+        "section": "Claude Thinking",
+        "context_line": "- [[Task Management]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "DQL",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DQL]]",
+        "line_number": 187,
+        "section": "Claude Thinking",
+        "context_line": "- [[DQL]] (Dataview Query Language)",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "DataviewJS",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DataviewJS]]",
+        "line_number": 188,
+        "section": "Claude Thinking",
+        "context_line": "- [[DataviewJS]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 189,
+        "section": "Claude Thinking",
+        "context_line": "- [[Tasks Plugin]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "YAML Frontmatter",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[YAML Frontmatter]]",
+        "line_number": 190,
+        "section": "Claude Thinking",
+        "context_line": "- [[YAML Frontmatter]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Inline Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inline Fields]]",
+        "line_number": 191,
+        "section": "Claude Thinking",
+        "context_line": "- [[Inline Fields]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Daily Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daily Notes]]",
+        "line_number": 192,
+        "section": "Claude Thinking",
+        "context_line": "- [[Daily Notes]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "WHERE Clause",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[WHERE Clause]]",
+        "line_number": 193,
+        "section": "Claude Thinking",
+        "context_line": "- [[WHERE Clause]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "GROUP BY",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[GROUP BY]]",
+        "line_number": 194,
+        "section": "Claude Thinking",
+        "context_line": "- [[GROUP BY]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Date Functions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Date Functions]]",
+        "line_number": 195,
+        "section": "Claude Thinking",
+        "context_line": "- [[Date Functions]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Priority Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Priority Management]]",
+        "line_number": 196,
+        "section": "Claude Thinking",
+        "context_line": "- [[Priority Management]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]",
+        "line_number": 197,
+        "section": "Claude Thinking",
+        "context_line": "- [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "GTD Workflow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[GTD Workflow]]",
+        "line_number": 198,
+        "section": "Claude Thinking",
+        "context_line": "- [[GTD Workflow]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Dashboard Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dashboard Design]]",
+        "line_number": 199,
+        "section": "Claude Thinking",
+        "context_line": "- [[Dashboard Design]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Query Performance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Query Performance]]",
+        "line_number": 200,
+        "section": "Claude Thinking",
+        "context_line": "- [[Query Performance]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 224,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference documents the most powerful and commonly-used [[Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Task Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Task Management]]",
+        "line_number": 224,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference documents the most powerful and commonly-used [[Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 224,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference documents the most powerful and commonly-used [[Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "DQL",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DQL]]",
+        "line_number": 224,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference documents the most powerful and commonly-used [[Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "DataviewJS",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DataviewJS]]",
+        "line_number": 224,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference documents the most powerful and commonly-used [[Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 224,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference documents the most powerful and commonly-used [[Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Inline Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inline Fields]]",
+        "line_number": 224,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference documents the most powerful and commonly-used [[Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]",
+        "line_number": 224,
+        "section": "Claude Thinking",
+        "context_line": "> This comprehensive reference documents the most powerful and commonly-used [[Dataview Plugin]] queries for [[Task Management]] in [[Obsidian]]. It covers both [[DQL]] (Dataview Query Language) and [[DataviewJS]] approaches, providing production-ready patterns for filtering, grouping, and analyzing tasks across your vault. The guide emphasizes practical implementation with complete query examples, use case descriptions, and integration strategies with the [[Tasks Plugin]], [[Inline Fields]], and [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] workflows.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 233,
+        "section": "🎯Core Concepts",
+        "context_line": "> The `TASK` query type is unique in [[Dataview Plugin]] because it operates at **task level** rather than page level, enabling granular filtering of individual task items. It's the only Dataview query that can **modify your files**—checking a task in a Dataview view updates the original file.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 258,
+        "section": "Task-Specific Implicit Fields",
+        "context_line": "> Every task in your vault automatically inherits these implicit fields from [[Dataview Plugin]]:",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Note",
+        "heading": "Section",
+        "display_text": null,
+        "full_match": "[[Note#Section]]",
+        "line_number": 274,
+        "section": "Task-Specific Implicit Fields",
+        "context_line": "| `section` | link | Section heading task appears under | `[[Note#Section]]` |",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Note",
+        "heading": "^task-id",
+        "display_text": null,
+        "full_match": "[[Note#^task-id]]",
+        "line_number": 275,
+        "section": "Task-Specific Implicit Fields",
+        "context_line": "| `link` | link | Link to the specific task | `[[Note#^task-id]]` |",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Inline Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inline Fields]]",
+        "line_number": 279,
+        "section": "Task-Specific Implicit Fields",
+        "context_line": "> You can extend task metadata using [[Inline Fields]] syntax:",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 351,
+        "section": "2. Priority & Urgency Queries",
+        "context_line": "> **What it does:** Finds incomplete tasks with missed deadlines that are high or highest priority (using [[Tasks Plugin]] emoji: ⏫ = highest, 🔼 = high)",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Priority Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Priority Management]]",
+        "line_number": 384,
+        "section": "2. Priority & Urgency Queries",
+        "context_line": "> **Use case:** [[Priority Management]] dashboard for weekly planning",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Project X",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project X]]",
+        "line_number": 448,
+        "section": "4. Project & Context Queries",
+        "context_line": "> WHERE contains(text, \"[[Project X]]\")",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Project Alpha",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Alpha]]",
+        "line_number": 460,
+        "section": "4. Project & Context Queries",
+        "context_line": "> WHERE (contains(text, \"[[Project Alpha]]\")",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Project Beta",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Beta]]",
+        "line_number": 461,
+        "section": "4. Project & Context Queries",
+        "context_line": ">    OR contains(text, \"[[Project Beta]]\"))",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Daily Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daily Notes]]",
+        "line_number": 479,
+        "section": "4. Project & Context Queries",
+        "context_line": "> **What it does:** Shows tasks from the 10 most recent [[Daily Notes]], grouped by date",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Inline Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inline Fields]]",
+        "line_number": 510,
+        "section": "5. Custom Metadata Queries",
+        "context_line": "> **What it does:** Finds tasks with `[estimated:: duration]` [[Inline Fields]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]",
+        "line_number": 512,
+        "section": "5. Custom Metadata Queries",
+        "context_line": "> **Use case:** [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / capacity planning / velocity tracking",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Alice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Alice]]",
+        "line_number": 544,
+        "section": "5. Custom Metadata Queries",
+        "context_line": "> - [ ] Implement feature X [task-status:: in-progress] [assignee:: [[Alice]]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Bob",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bob]]",
+        "line_number": 545,
+        "section": "5. Custom Metadata Queries",
+        "context_line": "> - [ ] Test feature Y [task-status:: in-review] [assignee:: [[Bob]]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Carol",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Carol]]",
+        "line_number": 546,
+        "section": "5. Custom Metadata Queries",
+        "context_line": "> - [ ] Deploy feature Z [task-status:: blocked] [assignee:: [[Carol]]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Blocked",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Blocked]]",
+        "line_number": 562,
+        "section": "6. Advanced Filtering Patterns",
+        "context_line": ">   AND !contains(text, \"[[Blocked]]\")",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 583,
+        "section": "6. Advanced Filtering Patterns",
+        "context_line": "> **What it does:** Finds [[Tasks Plugin]] recurring tasks (marked with 🔁) that are due today or earlier",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "GTD Workflow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[GTD Workflow]]",
+        "line_number": 606,
+        "section": "6. Advanced Filtering Patterns",
+        "context_line": "> **Use case:** Actionable task list (excluding deferred items per [[GTD Workflow]])",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "DataviewJS",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DataviewJS]]",
+        "line_number": 613,
+        "section": "🚀 DataviewJS Advanced Patterns",
+        "context_line": "> [[DataviewJS]] provides JavaScript-based query capabilities for complex task manipulation, custom rendering, and dynamic filtering that's difficult or impossible with [[DQL]] alone.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "DQL",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DQL]]",
+        "line_number": 613,
+        "section": "🚀 DataviewJS Advanced Patterns",
+        "context_line": "> [[DataviewJS]] provides JavaScript-based query capabilities for complex task manipulation, custom rendering, and dynamic filtering that's difficult or impossible with [[DQL]] alone.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Dashboard Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dashboard Design]]",
+        "line_number": 717,
+        "section": "Pattern 3: Task Metrics & Analytics",
+        "context_line": "> **Use case:** [[Dashboard Design]] / productivity analytics / [[Query Performance]] monitoring",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Query Performance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Query Performance]]",
+        "line_number": 717,
+        "section": "Pattern 3: Task Metrics & Analytics",
+        "context_line": "> **Use case:** [[Dashboard Design]] / productivity analytics / [[Query Performance]] monitoring",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 784,
+        "section": "Tasks Plugin Compatibility",
+        "context_line": "> The [[Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 784,
+        "section": "Tasks Plugin Compatibility",
+        "context_line": "> The [[Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Q4 Planning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Q4 Planning]]",
+        "line_number": 803,
+        "section": "Tasks Plugin Compatibility",
+        "context_line": "- [ ] Quarterly review meeting [estimated:: 2h] 10:00 - 12:00 ⏳ 2025-12-03 📅 2025-12-03 🔼 [[Q4 Planning]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Tasks Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin]]",
+        "line_number": 807,
+        "section": "Tasks Plugin Compatibility",
+        "context_line": "- [[Tasks Plugin]] provides UI and recurrence handling",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Dataview Plugin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Plugin]]",
+        "line_number": 808,
+        "section": "Tasks Plugin Compatibility",
+        "context_line": "- [[Dataview Plugin]] provides querying and dashboard capabilities",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Inline Fields",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inline Fields]]",
+        "line_number": 809,
+        "section": "Tasks Plugin Compatibility",
+        "context_line": "- [[Inline Fields]] add custom metadata dimensions",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Daily Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daily Notes]]",
+        "line_number": 849,
+        "section": "Daily Notes Integration",
+        "context_line": "> **Use case:** [[Daily Notes]] automation / [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / daily planning ritual",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]",
+        "line_number": 849,
+        "section": "Daily Notes Integration",
+        "context_line": "> **Use case:** [[Daily Notes]] automation / [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / daily planning ritual",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Project Name",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Name]]",
+        "line_number": 994,
+        "section": "Project Task Board",
+        "context_line": "> WHERE contains(text, \"[[Project Name]]\")",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Project Name",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Name]]",
+        "line_number": 1004,
+        "section": "Project Task Board",
+        "context_line": "> WHERE contains(text, \"[[Project Name]]\")",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Project Name",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Name]]",
+        "line_number": 1014,
+        "section": "Project Task Board",
+        "context_line": "> WHERE contains(text, \"[[Project Name]]\")",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Blocked",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Blocked]]",
+        "line_number": 1015,
+        "section": "Project Task Board",
+        "context_line": ">   AND contains(text, \"[[Blocked]]\")",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Project Name",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Name]]",
+        "line_number": 1023,
+        "section": "Project Task Board",
+        "context_line": "> WHERE contains(text, \"[[Project Name]]\")",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Dataview Query Optimization Techniques",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview Query Optimization Techniques]]",
+        "line_number": 1033,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Dataview Query Optimization Techniques]]**",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Query Performance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Query Performance]]",
+        "line_number": 1036,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Technical optimization connecting to [[Query Performance]], [[Obsidian Architecture]], and [[JavaScript Performance]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Obsidian Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian Architecture]]",
+        "line_number": 1036,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Technical optimization connecting to [[Query Performance]], [[Obsidian Architecture]], and [[JavaScript Performance]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "JavaScript Performance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[JavaScript Performance]]",
+        "line_number": 1036,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Technical optimization connecting to [[Query Performance]], [[Obsidian Architecture]], and [[JavaScript Performance]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Tasks Plugin Advanced Workflows",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tasks Plugin Advanced Workflows]]",
+        "line_number": 1038,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Tasks Plugin Advanced Workflows]]**",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Task Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Task Management]]",
+        "line_number": 1041,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Complementary system documentation linking [[Task Management]], [[GTD Workflow]], [[Productivity Systems]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "GTD Workflow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[GTD Workflow]]",
+        "line_number": 1041,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Complementary system documentation linking [[Task Management]], [[GTD Workflow]], [[Productivity Systems]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Productivity Systems",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Productivity Systems]]",
+        "line_number": 1041,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Complementary system documentation linking [[Task Management]], [[GTD Workflow]], [[Productivity Systems]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "DataviewJS Custom Functions Library",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[DataviewJS Custom Functions Library]]",
+        "line_number": 1043,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[DataviewJS Custom Functions Library]]**",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "JavaScript",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[JavaScript]]",
+        "line_number": 1046,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Technical skill development in [[JavaScript]], [[Functional Programming]], [[Obsidian API]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Functional Programming",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Functional Programming]]",
+        "line_number": 1046,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Technical skill development in [[JavaScript]], [[Functional Programming]], [[Obsidian API]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Obsidian API",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian API]]",
+        "line_number": 1046,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: Technical skill development in [[JavaScript]], [[Functional Programming]], [[Obsidian API]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Dashboard Design Principles for PKM",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dashboard Design Principles for PKM]]",
+        "line_number": 1048,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Dashboard Design Principles for PKM]]**",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Information Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Information Architecture]]",
+        "line_number": 1051,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: [[Information Architecture]], [[User Interface Design]], [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Data Visualization]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "User Interface Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[User Interface Design]]",
+        "line_number": 1051,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: [[Information Architecture]], [[User Interface Design]], [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Data Visualization]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]",
+        "line_number": 1051,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: [[Information Architecture]], [[User Interface Design]], [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Data Visualization]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Data Visualization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Data Visualization]]",
+        "line_number": 1051,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "- *Knowledge Graph Role*: [[Information Architecture]], [[User Interface Design]], [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]], [[Data Visualization]]",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]]",
+        "line_number": 1060,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "This reference provides production-ready task query patterns ready for immediate deployment in your [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] system. All queries follow [[Obsidian]] best practices and are optimized for performance in vaults of varying sizes. 🚀",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 1060,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "This reference provides production-ready task query patterns ready for immediate deployment in your [[03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management]] system. All queries follow [[Obsidian]] best practices and are optimized for performance in vaults of varying sizes. 🚀",
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "priority",
+        "value": "high",
+        "format": "bracket",
+        "line_number": 281,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "estimated",
+        "value": "5h",
+        "format": "bracket",
+        "line_number": 281,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "sprint",
+        "value": "12",
+        "format": "bracket",
+        "line_number": 281,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "estimated",
+        "value": "duration",
+        "format": "bracket",
+        "line_number": 510,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "estimated",
+        "value": "4h",
+        "format": "bracket",
+        "line_number": 516,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "estimated",
+        "value": "1.5h",
+        "format": "bracket",
+        "line_number": 517,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "task-status",
+        "value": "in-review",
+        "format": "bracket",
+        "line_number": 538,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "task-status",
+        "value": "in-progress",
+        "format": "bracket",
+        "line_number": 544,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "assignee",
+        "value": "[[Alice",
+        "format": "bracket",
+        "line_number": 544,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "task-status",
+        "value": "in-review",
+        "format": "bracket",
+        "line_number": 545,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "assignee",
+        "value": "[[Bob",
+        "format": "bracket",
+        "line_number": 545,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "task-status",
+        "value": "blocked",
+        "format": "bracket",
+        "line_number": 546,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "assignee",
+        "value": "[[Carol",
+        "format": "bracket",
+        "line_number": 546,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "field_name": "estimated",
+        "value": "2h",
+        "format": "bracket",
+        "line_number": 803,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 111,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "dataview",
+        "full_tag": "#dataview",
+        "hierarchy": [
+          "dataview"
+        ],
+        "line_number": 111,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "task-management",
+        "full_tag": "#task-management",
+        "hierarchy": [
+          "task-management"
+        ],
+        "line_number": 112,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "technical-guide",
+        "full_tag": "#technical-guide",
+        "hierarchy": [
+          "technical-guide"
+        ],
+        "line_number": 113,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 115,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "obsidian",
+        "full_tag": "#obsidian",
+        "hierarchy": [
+          "obsidian"
+        ],
+        "line_number": 169,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "dataview",
+        "full_tag": "#dataview",
+        "hierarchy": [
+          "dataview"
+        ],
+        "line_number": 169,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "task-management",
+        "full_tag": "#task-management",
+        "hierarchy": [
+          "task-management"
+        ],
+        "line_number": 170,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "technical-guide",
+        "full_tag": "#technical-guide",
+        "hierarchy": [
+          "technical-guide"
+        ],
+        "line_number": 170,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "reference-note",
+        "full_tag": "#reference-note",
+        "hierarchy": [
+          "reference-note"
+        ],
+        "line_number": 170,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "urgent",
+        "full_tag": "#urgent",
+        "hierarchy": [
+          "urgent"
+        ],
+        "line_number": 228,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "review",
+        "full_tag": "#review",
+        "hierarchy": [
+          "review"
+        ],
+        "line_number": 228,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "Section",
+        "full_tag": "#Section",
+        "hierarchy": [
+          "Section"
+        ],
+        "line_number": 233,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "daily-note",
+        "full_tag": "#daily-note",
+        "hierarchy": [
+          "daily-note"
+        ],
+        "line_number": 309,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "waiting",
+        "full_tag": "#waiting",
+        "hierarchy": [
+          "waiting"
+        ],
+        "line_number": 358,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "someday",
+        "full_tag": "#someday",
+        "hierarchy": [
+          "someday"
+        ],
+        "line_number": 361,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 512,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "tag": "project",
+        "full_tag": "#project",
+        "hierarchy": [
+          "project"
+        ],
+        "line_number": 512,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Dataview Task Query Reference",
+        "anchor": "dataview-task-query-reference",
+        "line_number": 37,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Note Metadata Dashboard",
+        "anchor": "note-metadata-dashboard",
+        "line_number": 44,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Related Notes",
+        "anchor": "related-notes",
+        "line_number": 107,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Sources & References",
+        "anchor": "sources-references",
+        "line_number": 115,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Backlinks & Connections",
+        "anchor": "backlinks-connections",
+        "line_number": 125,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "2025-12-02 - Initial Creation",
+        "anchor": "2025-12-02-initial-creation",
+        "line_number": 135,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Tags & Classification",
+        "anchor": "tags-classification",
+        "line_number": 140,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Review System",
+        "anchor": "review-system",
+        "line_number": 145,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 4,
+        "text": "Review Checklist:",
+        "anchor": "review-checklist",
+        "line_number": 153,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Claude Thinking",
+        "anchor": "claude-thinking",
+        "line_number": 164,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 1,
+        "text": "📋Dataview Task Query Reference",
+        "anchor": "dataview-task-query-reference",
+        "line_number": 228,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯Core Concepts",
+        "anchor": "core-concepts",
+        "line_number": 230,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Task Query Execution Model",
+        "anchor": "task-query-execution-model",
+        "line_number": 235,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Task-Specific Implicit Fields",
+        "anchor": "task-specific-implicit-fields",
+        "line_number": 255,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "📚 Essential Query Patterns by Use Case",
+        "anchor": "essential-query-patterns-by-use-case",
+        "line_number": 287,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "1. Today's Workflow Queries",
+        "anchor": "1-todays-workflow-queries",
+        "line_number": 289,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "2. Priority & Urgency Queries",
+        "anchor": "2-priority-urgency-queries",
+        "line_number": 339,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "3. Time-Based Planning Queries",
+        "anchor": "3-time-based-planning-queries",
+        "line_number": 394,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "4. Project & Context Queries",
+        "anchor": "4-project-context-queries",
+        "line_number": 441,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "5. Custom Metadata Queries",
+        "anchor": "5-custom-metadata-queries",
+        "line_number": 498,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "6. Advanced Filtering Patterns",
+        "anchor": "6-advanced-filtering-patterns",
+        "line_number": 549,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "🚀 DataviewJS Advanced Patterns",
+        "anchor": "dataviewjs-advanced-patterns",
+        "line_number": 610,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "DataviewJS Task Query Fundamentals",
+        "anchor": "dataviewjs-task-query-fundamentals",
+        "line_number": 615,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Pattern 1: Conditional Task Display with Fallback",
+        "anchor": "pattern-1-conditional-task-display-with-fallback",
+        "line_number": 636,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Pattern 2: Custom Task Grouping with Headers",
+        "anchor": "pattern-2-custom-task-grouping-with-headers",
+        "line_number": 657,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Pattern 3: Task Metrics & Analytics",
+        "anchor": "pattern-3-task-metrics-analytics",
+        "line_number": 692,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Pattern 4: Dynamic Time-Blocked Schedule",
+        "anchor": "pattern-4-dynamic-time-blocked-schedule",
+        "line_number": 719,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Pattern 5: Task Chain Visualization (Parent-Child)",
+        "anchor": "pattern-5-task-chain-visualization-parent-child",
+        "line_number": 751,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Integration Patterns",
+        "anchor": "integration-patterns",
+        "line_number": 779,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Tasks Plugin Compatibility",
+        "anchor": "tasks-plugin-compatibility",
+        "line_number": 781,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Daily Notes Integration",
+        "anchor": "daily-notes-integration",
+        "line_number": 812,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "⚡ Performance Optimization",
+        "anchor": "performance-optimization",
+        "line_number": 853,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "🎨 Dashboard Templates",
+        "anchor": "dashboard-templates",
+        "line_number": 923,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Weekly Planning Dashboard",
+        "anchor": "weekly-planning-dashboard",
+        "line_number": 925,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 3,
+        "text": "Project Task Board",
+        "anchor": "project-task-board",
+        "line_number": 983,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 1031,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "// 🧠 SYSTEM: Semantic Bridge Engine\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks.map(l => l.path);\n\n// 1. Filter the Vault\nconst siblings = dv.pages()\n    .where(p => p.file.path !== current.file.path) // Exclude self\n    .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n    .map(p => {\n        // Find overlap between this page's links and the current page's links\n        const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n        return { \n            link: p.file.link, \n            sharedCount: shared.length, \n            sharedLinks: shared \n        };\n    })\n    .where(p => p.sharedCount > 0) // Must share at least 1 connection\n    .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n    .limit(5); // Only show top 5\n\n// 2. Render the Bridge\nif (siblings.length > 0) {\n    dv.header(4, \"🌉 Semantic Bridges (Missing Connections)\");\n    dv.table(\n        [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n        siblings.map(s => [\n            s.link, \n            \"🔗 \" + s.sharedCount, \n            s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n        ])\n    );\n} else {\n    dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}",
+        "line_start": 69,
+        "line_end": 106,
+        "char_count": 1392,
+        "line_count": 36,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE type, maturity, confidence\nFROM  \"\"\nWHERE  type = \"reference\"\nSORT \"maturity\" DESC\nLIMIT 15",
+        "line_start": 108,
+        "line_end": 114,
+        "char_count": 97,
+        "line_count": 5,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    source AS \"Source Type\",\n    file.ctime AS \"Date Added\"\nFROM \"\"\nWHERE source = \"claude-sonnet-4.5\"\nSORT file.ctime DESC\nLIMIT 10",
+        "line_start": 116,
+        "line_end": 124,
+        "char_count": 139,
+        "line_count": 7,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    type AS \"Type\",\n    maturity AS \"Maturity\",\n    created AS \"Created\"\nFROM [[#]]\nSORT created DESC\nLIMIT 15",
+        "line_start": 126,
+        "line_end": 134,
+        "char_count": 117,
+        "line_count": 7,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "TASK\nFROM <source>\nWHERE <conditions>\nGROUP BY <field>\nSORT <field> <direction>\nLIMIT <number>",
+        "line_start": 246,
+        "line_end": 253,
+        "char_count": 94,
+        "line_count": 6,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> - [ ] Implement auth system [priority:: high] [estimated:: 5h] [sprint:: 12]\n>",
+        "line_start": 280,
+        "line_end": 282,
+        "char_count": 80,
+        "line_count": 2,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "markdown",
+        "code": "> - [ ] Team standup 09:00 - 09:30 ⏳ 2025-12-02\n> - [ ] Code review session 10:00 - 11:30 ⏳ 2025-12-02\n> - [ ] Lunch break 12:00 - 13:00 ⏳ 2025-12-02\n>",
+        "line_start": 306,
+        "line_end": 310,
+        "char_count": 151,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> TASK\n> WHERE scheduled = date(today)\n>   AND !completed\n> SORT priority DESC, due ASC\n>",
+        "line_start": 315,
+        "line_end": 320,
+        "char_count": 89,
+        "line_count": 5,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> TASK\n> WHERE completion = date(today)\n> SORT file.ctime DESC\n>",
+        "line_start": 329,
+        "line_end": 333,
+        "char_count": 64,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> TASK\n> WHERE due < date(today)\n>   AND !completed\n>   AND (contains(text, \"⏫\") OR contains(text, \"🔼\"))\n>",
+        "line_start": 344,
+        "line_end": 349,
+        "char_count": 106,
+        "line_count": 5,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 359,
+        "line_end": 361,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> TABLE WITHOUT ID\n>   text as \"Task\",\n>   scheduled as \"When\",\n>   due as \"Deadline\"\n> WHERE !completed\n> GROUP BY\n>   choice(contains(text, \"⏫\"), \"⏫ Highest\",\n>   choice(contains(text, \"🔼\"), \"🔼 High\",\n>   choice(contains(text, \"🔽\"), \"🔽 Low\",\n>   choice(contains(text, \"⬇\"), \"⬇ Lowest\", \"Normal\"))))\n> SORT choice(contains(text, \"⏫\"), 1,\n>      choice(contains(text, \"🔼\"), 2,\n>      choice(contains(text, \"🔽\"), 4,\n>      choice(contains(text, \"⬇\"), 5, 3)))) ASC\n>",
+        "line_start": 365,
+        "line_end": 380,
+        "char_count": 464,
+        "line_count": 15,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 3. Time-Based Planning Queries\n\n> [!example] **Weekly Task Timeline**\n> \n> **Query:**\n>",
+        "line_start": 392,
+        "line_end": 399,
+        "char_count": 91,
+        "line_count": 6,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** All incomplete tasks scheduled for the next 7 days\n> \n> **Use case:** Week-ahead planning view / sprint planning\n\n> [!example] **Unscheduled Tasks with Approaching Deadlines**\n> \n> **Query:**\n>",
+        "line_start": 405,
+        "line_end": 414,
+        "char_count": 216,
+        "line_count": 9,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Finds tasks with deadlines within 3 days that haven't been scheduled yet\n> \n> **Use case:** \"Tasks I forgot to plan\" inbox—catches upcoming deadlines before they become emergencies\n\n> [!example] **Monthly Review Queue**\n> \n>",
+        "line_start": 420,
+        "line_end": 428,
+        "char_count": 247,
+        "line_count": 8,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Groups tasks by month for the next 30 days\n> \n> **Use case:** Long-term planning / capacity assessment\n\n### 4. Project & Context Queries\n\n> [!example] **Tasks Linked to Specific Project**\n> \n> **Query:**\n>",
+        "line_start": 435,
+        "line_end": 446,
+        "char_count": 228,
+        "line_count": 11,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Finds all incomplete tasks mentioning a specific project note\n> \n> **Use case:** Project-specific task list (replace \"Project X\" with your note name)\n> \n> **Pattern variation for multiple projects:**\n>",
+        "line_start": 451,
+        "line_end": 458,
+        "char_count": 224,
+        "line_count": 7,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!example] **Tasks by Source Daily Note (Recent Activity)**\n> \n> **Query:**\n>",
+        "line_start": 464,
+        "line_end": 469,
+        "char_count": 79,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Shows tasks from the 10 most recent [[Daily Notes]], grouped by date\n> \n> **Use case:** \"What did I capture this week?\" review / task audit\n\n> [!example] **Tasks by Section Heading**\n> \n> **Query:**\n>",
+        "line_start": 477,
+        "line_end": 486,
+        "char_count": 223,
+        "line_count": 9,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Groups tasks by the heading they appear under in source files\n> \n> **Use case:** Organizing tasks by document structure (e.g., all tasks under \"## Research\" vs \"## Implementation\")\n\n### 5. Custom Metadata Queries\n\n> [!example] **Tasks with Time Estimates**\n> \n> **Query:**\n>",
+        "line_start": 492,
+        "line_end": 503,
+        "char_count": 297,
+        "line_count": 11,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Finds tasks with `[estimated:: duration]` [[Inline Fields]]\n> \n> **Use case:** [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / capacity planning / velocity tracking\n> \n> **Required task format:**\n>",
+        "line_start": 508,
+        "line_end": 515,
+        "char_count": 247,
+        "line_count": 7,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **Calculate total estimated time:**\n>",
+        "line_start": 518,
+        "line_end": 521,
+        "char_count": 42,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!example] **Tasks by Custom Status Field**\n> \n> **Query:**\n>",
+        "line_start": 526,
+        "line_end": 531,
+        "char_count": 63,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Groups tasks by custom status inline field (e.g., `[task-status:: in-review]`)\n> \n> **Use case:** Kanban-style workflow tracking\n> \n> **Task format example:**\n>",
+        "line_start": 536,
+        "line_end": 543,
+        "char_count": 183,
+        "line_count": 7,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 6. Advanced Filtering Patterns\n\n> [!example] **Multi-Condition Task Filter (Complex Logic)**\n> \n> **Query:**\n>",
+        "line_start": 547,
+        "line_end": 554,
+        "char_count": 114,
+        "line_count": 6,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** \n> - Highest priority tasks due within 2 days, OR\n> - High priority tasks that are overdue\n> - Excludes any task linked to a \"Blocked\" status note\n> \n> **Use case:** Intelligent prioritization—surfaces what actually needs attention right now\n\n> [!example] **Recurring Tasks Pattern**\n> \n> **Query:**\n>",
+        "line_start": 564,
+        "line_end": 576,
+        "char_count": 324,
+        "line_count": 12,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Finds [[Tasks Plugin]] recurring tasks (marked with 🔁) that are due today or earlier\n> \n> **Use case:** Daily habit tracking / recurring maintenance tasks\n> \n> **Recurring task format:**\n>",
+        "line_start": 581,
+        "line_end": 588,
+        "char_count": 211,
+        "line_count": 7,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> [!example] **Tasks WITHOUT Certain Tags**\n> \n> **Query:**\n>",
+        "line_start": 591,
+        "line_end": 596,
+        "char_count": 61,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Filters out tasks in \"waiting\" or \"someday/maybe\" categories\n> \n> **Use case:** Actionable task list (excluding deferred items per [[GTD Workflow]])\n\n---\n\n## 🚀 DataviewJS Advanced Patterns\n\n> [!methodology-and-sources] DataviewJS for Tasks\n> [[DataviewJS]] provides JavaScript-based query capabilities for complex task manipulation, custom rendering, and dynamic filtering that's difficult or impossible with [[DQL]] alone.\n\n### DataviewJS Task Query Fundamentals\n\n> [!definition] Core DataviewJS Task Methods\n> - `dv.pages()` - Get pages as DataArray\n> - `.file.tasks` - Access all tasks in a file (including subtasks)\n> - `.where()` - Filter tasks (equivalent to WHERE in DQL)\n> - `.groupBy()` - Group tasks by field\n> - `dv.taskList()` - Render tasks as interactive checklist\n\n**Basic Structure:**",
+        "line_start": 602,
+        "line_end": 626,
+        "char_count": 823,
+        "line_count": 22,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Pattern 1: Conditional Task Display with Fallback\n\n> [!example] **Show Tasks or Success Message**\n> \n> **DataviewJS:**\n>",
+        "line_start": 634,
+        "line_end": 641,
+        "char_count": 124,
+        "line_count": 6,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Shows overdue tasks if any exist; otherwise displays a congratulatory message\n> \n> **Use case:** Motivation-friendly dashboard that celebrates when you're caught up\n\n### Pattern 2: Custom Task Grouping with Headers\n\n> [!example] **Tasks Grouped by Priority with Custom Headers**\n> \n> **DataviewJS:**\n>",
+        "line_start": 651,
+        "line_end": 662,
+        "char_count": 324,
+        "line_count": 11,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Creates custom section headers for each priority level with friendly labels\n> \n> **Use case:** More readable priority-based task organization\n\n### Pattern 3: Task Metrics & Analytics\n\n> [!example] **Task Completion Statistics**\n> \n> **DataviewJS:**\n>",
+        "line_start": 686,
+        "line_end": 697,
+        "char_count": 273,
+        "line_count": 11,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Generates a statistical summary of vault-wide task status\n> \n> **Use case:** [[Dashboard Design]] / productivity analytics / [[Query Performance]] monitoring\n\n### Pattern 4: Dynamic Time-Blocked Schedule\n\n> [!example] **Today's Schedule with Duration Extraction**\n> \n> **DataviewJS:**\n>",
+        "line_start": 713,
+        "line_end": 724,
+        "char_count": 309,
+        "line_count": 11,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Extracts time blocks into a clean table format without cluttering task text\n> \n> **Use case:** Clean daily schedule visualization\n\n### Pattern 5: Task Chain Visualization (Parent-Child)\n\n> [!example] **Project Tasks with Subtask Structure**\n> \n> **DataviewJS:**\n>",
+        "line_start": 745,
+        "line_end": 756,
+        "char_count": 286,
+        "line_count": 11,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What it does:** Displays tasks with their subtasks in a hierarchical view\n> \n> **Use case:** Project breakdown visualization / work package structure\n\n---\n\n## 🔗 Integration Patterns\n\n### Tasks Plugin Compatibility\n\n> [!connections-and-links] Tasks Plugin + Dataview Synergy\n> The [[Tasks Plugin]] extends Obsidian's task capabilities with emoji-based syntax that [[Dataview Plugin]] can query. Combining both plugins creates a powerful task management system.\n\n**Tasks Plugin Syntax Quick Reference:**\n\n| Emoji | Field | Example | Dataview Query |\n|-------|-------|---------|----------------|\n| 📅 | Due date | `📅 2025-12-05` | `WHERE due = date(2025-12-05)` |\n| ⏳ | Scheduled date | `⏳ 2025-12-02` | `WHERE scheduled = date(2025-12-02)` |\n| 🛫 | Start date | `🛫 2025-11-28` | `WHERE start = date(2025-11-28)` |\n| ✅ | Completion date | `✅ 2025-11-30` | `WHERE completion = date(2025-11-30)` |\n| 🔁 | Recurrence | `🔁 every week` | `WHERE contains(text, \"🔁\")` |\n| ⏫ | Highest priority | `⏫` | `WHERE contains(text, \"⏫\")` |\n| 🔼 | High priority | `🔼` | `WHERE contains(text, \"🔼\")` |\n| 🔽 | Low priority | `🔽` | `WHERE contains(text, \"🔽\")` |\n| ⬇ | Lowest priority | `⬇` | `WHERE contains(text, \"⬇\")` |\n\n**Unified Task Format Example:**",
+        "line_start": 771,
+        "line_end": 802,
+        "char_count": 1233,
+        "line_count": 29,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**What this enables:**\n- [[Tasks Plugin]] provides UI and recurrence handling\n- [[Dataview Plugin]] provides querying and dashboard capabilities\n- [[Inline Fields]] add custom metadata dimensions\n- All three systems work together seamlessly\n\n### Daily Notes Integration\n\n> [!example] **Automated Daily Note Task Summary**\n> \n> **Add to Daily Note Template:**\n>",
+        "line_start": 804,
+        "line_end": 817,
+        "char_count": 360,
+        "line_count": 12,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TASK\n> WHERE scheduled = this.file.day\n>   AND !completed\n> SORT contains(text, \"⏫\") DESC, contains(text, \"🔼\") DESC, due ASC\n>",
+        "line_start": 820,
+        "line_end": 825,
+        "char_count": 128,
+        "line_count": 5,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TABLE WITHOUT ID\n>   regexreplace(text, \"^(.*?)(\\d{2}:\\d{2} - \\d{2}:\\d{2})(.*)$\", \"$1$3\") as \"Task\",\n>   regexreplace(text, \"^.*?(\\d{2}:\\d{2} - \\d{2}:\\d{2}).*$\", \"$1\") as \"Time\"\n> WHERE scheduled = this.file.day\n>   AND contains(text, \" - \")\n> SORT regexreplace(text, \"^.*?(\\d{2}:\\d{2}).*\", \"$1\") ASC\n>",
+        "line_start": 829,
+        "line_end": 836,
+        "char_count": 304,
+        "line_count": 7,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TASK\n> WHERE completion = this.file.day\n> SORT file.ctime DESC\n>",
+        "line_start": 840,
+        "line_end": 844,
+        "char_count": 66,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> **What this creates:** A comprehensive daily note with live-updating task views\n> \n> **Use case:** [[Daily Notes]] automation / [[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]] / daily planning ritual\n\n---\n\n## ⚡ Performance Optimization\n\n> [!helpful-tip] Query Performance Best Practices\n> \n> **Optimization Strategies:**\n> \n> 1. **Scope Narrowing with FROM:**\n>",
+        "line_start": 845,
+        "line_end": 860,
+        "char_count": 391,
+        "line_count": 15,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">    ↑ Faster than vault-wide search\n> \n> 2. **Early Filtering in WHERE:**\n>",
+        "line_start": 864,
+        "line_end": 868,
+        "char_count": 76,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">    ↑ Order conditions from cheapest to most expensive\n> \n> 3. **Limit Results for Large Vaults:**\n>",
+        "line_start": 873,
+        "line_end": 877,
+        "char_count": 101,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">    ↑ Prevents rendering thousands of tasks\n> \n> 4. **Cache Results in DataviewJS:**\n>",
+        "line_start": 881,
+        "line_end": 885,
+        "char_count": 87,
+        "line_count": 4,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": ">    ↑ Don't re-query the same data multiple times\n\n> [!warning] Common Performance Pitfalls\n> \n> **Avoid These Patterns:**\n> \n> ❌ **Regex in tight loops:**\n>",
+        "line_start": 889,
+        "line_end": 897,
+        "char_count": 158,
+        "line_count": 8,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> ✅ **Better:**\n>",
+        "line_start": 900,
+        "line_end": 902,
+        "char_count": 17,
+        "line_count": 2,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> \n> ❌ **Nested FLATTEN without limits:**\n>",
+        "line_start": 905,
+        "line_end": 908,
+        "char_count": 43,
+        "line_count": 3,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "> ✅ **Better:**\n>",
+        "line_start": 912,
+        "line_end": 914,
+        "char_count": 17,
+        "line_count": 2,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 🎨 Dashboard Templates\n\n### Weekly Planning Dashboard\n\n> [!example] **Complete Weekly Task Dashboard**\n> \n>",
+        "line_start": 919,
+        "line_end": 929,
+        "char_count": 114,
+        "line_count": 9,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TASK\n> WHERE due < date(today)\n>   AND !completed\n>   AND (contains(text, \"⏫\") OR contains(text, \"🔼\"))\n> SORT due ASC\n>",
+        "line_start": 934,
+        "line_end": 940,
+        "char_count": 121,
+        "line_count": 6,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TABLE WITHOUT ID\n>   text as \"Task\",\n>   dateformat(scheduled, \"EEEE, MMM dd\") as \"Day\",\n>   due as \"Due\"\n> WHERE scheduled >= date(today)\n>   AND scheduled <= date(today) + dur(7 days)\n>   AND !completed\n> SORT scheduled ASC\n>",
+        "line_start": 944,
+        "line_end": 953,
+        "char_count": 229,
+        "line_count": 9,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataviewjs",
+        "code": "> const weekStart = dv.date('today').minus({days: dv.date('today').weekday});\n> const weekEnd = weekStart.plus({days: 7});\n> \n> const completed = dv.pages()\n>   .file.tasks\n>   .where(t => t.completion >= weekStart && t.completion < weekEnd).length;\n> \n> const scheduled = dv.pages()\n>   .file.tasks\n>   .where(t => t.scheduled >= weekStart && t.scheduled < weekEnd).length;\n> \n> dv.paragraph(`✅ Completed: ${completed} | 📋 Scheduled: ${scheduled} | ⚡ Completion Rate: ${Math.round(completed/scheduled*100)}%`);\n>",
+        "line_start": 957,
+        "line_end": 970,
+        "char_count": 513,
+        "line_count": 13,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TASK\n> WHERE contains(text, \"⏫\")\n>   AND !completed\n> SORT due ASC\n> LIMIT 10\n>",
+        "line_start": 974,
+        "line_end": 980,
+        "char_count": 81,
+        "line_count": 6,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Project Task Board\n\n> [!example] **Project-Specific Task Kanban**\n> \n>",
+        "line_start": 981,
+        "line_end": 987,
+        "char_count": 74,
+        "line_count": 5,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TASK\n> WHERE contains(text, \"[[Project Name]]\")\n>   AND !scheduled\n>   AND !completed\n> SORT file.ctime DESC\n>",
+        "line_start": 992,
+        "line_end": 998,
+        "char_count": 112,
+        "line_count": 6,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TASK\n> WHERE contains(text, \"[[Project Name]]\")\n>   AND scheduled <= date(today)\n>   AND !completed\n> SORT priority DESC, due ASC\n>",
+        "line_start": 1002,
+        "line_end": 1008,
+        "char_count": 133,
+        "line_count": 6,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TASK\n> WHERE contains(text, \"[[Project Name]]\")\n>   AND contains(text, \"[[Blocked]]\")\n>   AND !completed\n>",
+        "line_start": 1012,
+        "line_end": 1017,
+        "char_count": 108,
+        "line_count": 5,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "language": "dataview",
+        "code": "> TASK\n> WHERE contains(text, \"[[Project Name]]\")\n>   AND completion >= date(today) - dur(7 days)\n> SORT completion DESC\n>",
+        "line_start": 1021,
+        "line_end": 1026,
+        "char_count": 122,
+        "line_count": 5,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Field",
+          "Type",
+          "Description",
+          "Example Value"
+        ],
+        "alignment": [
+          "left",
+          "left",
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "`text`",
+            "string",
+            "Full task text including metadata",
+            "`\"Review PR #123 ⏫ 📅 2025-12-05\"`"
+          ],
+          [
+            "`line`",
+            "number",
+            "Line number in source file",
+            "`42`"
+          ],
+          [
+            "`completed`",
+            "boolean",
+            "Task completion status",
+            "`true` / `false`"
+          ],
+          [
+            "`completion`",
+            "date",
+            "When task was completed",
+            "`2025-11-30`"
+          ],
+          [
+            "`created`",
+            "date",
+            "Task creation date (if specified)",
+            "`2025-11-15`"
+          ],
+          [
+            "`due`",
+            "date",
+            "Task deadline",
+            "`2025-12-05`"
+          ],
+          [
+            "`scheduled`",
+            "date",
+            "When task is scheduled to start",
+            "`2025-11-28`"
+          ],
+          [
+            "`start`",
+            "date",
+            "Start date for task",
+            "`2025-11-20`"
+          ],
+          [
+            "`status`",
+            "string",
+            "Task status character",
+            "`\" \"` (space), `\"x\"`, `\"-\"`"
+          ],
+          [
+            "`tags`",
+            "array",
+            "Tags found in task text",
+            "`[\"#urgent\", \"#review\"]`"
+          ],
+          [
+            "`parent`",
+            "task",
+            "Parent task (null if root-level)",
+            "`<task object>`"
+          ],
+          [
+            "`children`",
+            "array",
+            "Subtasks",
+            "`[<task>, <task>]`"
+          ],
+          [
+            "`section`",
+            "link",
+            "Section heading task appears under",
+            "`[[Note#Section]]`"
+          ],
+          [
+            "`link`",
+            "link",
+            "Link to the specific task",
+            "`[[Note#^task-id]]`"
+          ],
+          [
+            "`file`",
+            "object",
+            "Source file metadata",
+            "`<file object>`"
+          ]
+        ],
+        "line_start": 220,
+        "row_count": 15,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      }
+    ],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [
+      {
+        "block_id": "task-id",
+        "type": "reference",
+        "note_target": "Note#",
+        "line_number": 275,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      }
+    ],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [
+      {
+        "ref_id": "\\",
+        "content": null,
+        "type": "reference",
+        "line_number": 463,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      }
+    ],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "Foundation: Task query basics and TASK query type mechanics",
+          "indent_level": 0,
+          "line_number": 125,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "DQL Task Patterns: Essential query patterns organized by use case",
+          "indent_level": 0,
+          "line_number": 129,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "Advanced Filtering: Complex WHERE clauses and combinations",
+          "indent_level": 0,
+          "line_number": 133,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "DataviewJS Patterns: JavaScript-based task manipulation",
+          "indent_level": 0,
+          "line_number": 136,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "Integration Patterns: Tasks plugin, inline fields, grouping",
+          "indent_level": 0,
+          "line_number": 137,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "Application Layer: Dashboard templates and workflows",
+          "indent_level": 0,
+          "line_number": 140,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "Core: TASK query type mechanics and implicit fields",
+          "indent_level": 0,
+          "line_number": 162,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "Detail: Complete query pattern library organized by use case",
+          "indent_level": 0,
+          "line_number": 164,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "Connection: Integration with Tasks plugin, inline fields, other Dataview features",
+          "indent_level": 0,
+          "line_number": 167,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "Application: Real-world dashboard templates and workflow implementations",
+          "indent_level": 0,
+          "line_number": 169,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "**[[Dataview Query Optimization Techniques]]**",
+          "indent_level": 0,
+          "line_number": 549,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "**[[Tasks Plugin Advanced Workflows]]**",
+          "indent_level": 0,
+          "line_number": 567,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "**[[DataviewJS Custom Functions Library]]**",
+          "indent_level": 0,
+          "line_number": 583,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "**[[Dashboard Design Principles for PKM]]**",
+          "indent_level": 0,
+          "line_number": 600,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "[ ] Definition still accurate?",
+          "indent_level": 0,
+          "line_number": 84,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[ ] New connections identified?",
+          "indent_level": 0,
+          "line_number": 85,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[ ] Applications validated?",
+          "indent_level": 0,
+          "line_number": 86,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[ ] Sources still relevant?",
+          "indent_level": 0,
+          "line_number": 88,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[ ] Maturity level appropriate?",
+          "indent_level": 0,
+          "line_number": 88,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "Type: comprehensive_note + technical_guide",
+          "indent_level": 0,
+          "line_number": 103,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "Scope: reference (comprehensive task query library)",
+          "indent_level": 0,
+          "line_number": 104,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "Research Required: NO - Extensive project knowledge gathered",
+          "indent_level": 0,
+          "line_number": 106,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "Note Type: Reference Note (requires metadata header)",
+          "indent_level": 0,
+          "line_number": 109,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[[Dataview Plugin]]",
+          "indent_level": 0,
+          "line_number": 143,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[[Task Management]]",
+          "indent_level": 0,
+          "line_number": 145,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[[03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking]]",
+          "indent_level": 0,
+          "line_number": 153,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[[GTD Workflow]]",
+          "indent_level": 0,
+          "line_number": 155,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[[Dashboard Design]]",
+          "indent_level": 0,
+          "line_number": 156,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[[Query Performance]]",
+          "indent_level": 0,
+          "line_number": 156,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[!abstract] - Overview/executive summary",
+          "indent_level": 0,
+          "line_number": 158,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[!definition] - Task query fundamentals",
+          "indent_level": 0,
+          "line_number": 162,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[!methodology-and-sources] - Query construction patterns",
+          "indent_level": 0,
+          "line_number": 162,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[!example] - Concrete query examples (extensive)",
+          "indent_level": 0,
+          "line_number": 162,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[!helpful-tip] - Best practices and optimization",
+          "indent_level": 0,
+          "line_number": 162,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[!warning] - Common pitfalls",
+          "indent_level": 0,
+          "line_number": 162,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[!what-this-does] - Query explanations",
+          "indent_level": 0,
+          "line_number": 162,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "[!connections-and-links] - Integration patterns",
+          "indent_level": 0,
+          "line_number": 162,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "**Scope**: Queries execute on individual tasks, not entire pages",
+          "indent_level": 0,
+          "line_number": 206,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "**Interactive**: Tasks can be checked/unchecked directly in query results",
+          "indent_level": 0,
+          "line_number": 208,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "**Hierarchical**: Supports parent-child task relationships with subtask handling",
+          "indent_level": 0,
+          "line_number": 210,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "**Metadata-Rich**: Accesses task-specific implicit fields (completed, due, scheduled, etc.)",
+          "indent_level": 0,
+          "line_number": 213,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        },
+        {
+          "text": "**Real-Time**: Updates original files when tasks are modified in query views",
+          "indent_level": 0,
+          "line_number": 214,
+          "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "\", \"",
+        "format": "inline",
+        "line_number": 803,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "expression": "\", \"",
+        "format": "inline",
+        "line_number": 804,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      },
+      {
+        "expression": "{completed} | 📋 Scheduled:",
+        "format": "inline",
+        "line_number": 938,
+        "source": "reference-comprehensive-dataview-tasks-quieries-2025120204.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking",
+      "Alice",
+      "Blocked",
+      "Bob",
+      "Carol",
+      "DQL",
+      "Daily Notes",
+      "Dashboard Design",
+      "Dashboard Design Principles for PKM",
+      "Data Visualization",
+      "Dataview Plugin",
+      "Dataview Query Optimization Techniques",
+      "Dataview Task Query Reference",
+      "DataviewJS",
+      "DataviewJS Custom Functions Library",
+      "Date Functions",
+      "Functional Programming",
+      "GROUP BY",
+      "GTD Workflow",
+      "Information Architecture",
+      "Inline Fields",
+      "JavaScript",
+      "JavaScript Performance",
+      "Note",
+      "Obsidian",
+      "Obsidian API",
+      "Obsidian Architecture",
+      "Priority Management",
+      "Productivity Systems",
+      "Project Alpha",
+      "Project Beta",
+      "Project Name",
+      "Project X",
+      "Q4 Planning",
+      "Query Performance",
+      "Task Management",
+      "Tasks Plugin",
+      "Tasks Plugin Advanced Workflows",
+      "User Interface Design",
+      "WHERE Clause",
+      "YAML Frontmatter"
+    ],
+    "unique_wiki_link_count": 42,
+    "unique_tags": [
+      "#Section",
+      "#daily-note",
+      "#dataview",
+      "#obsidian",
+      "#project",
+      "#reference-note",
+      "#review",
+      "#someday",
+      "#task-management",
+      "#technical-guide",
+      "#urgent",
+      "#waiting"
+    ],
+    "unique_tag_count": 12,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Personal Knowledge Management",
+      "03-notes/01_permanent-notes/02_personal-knowledge-base/Time Blocking",
+      "Alice",
+      "Blocked",
+      "Bob",
+      "Carol",
+      "DQL",
+      "Daily Notes",
+      "Dashboard Design",
+      "Dashboard Design Principles for PKM",
+      "Data Visualization",
+      "Dataview Plugin",
+      "Dataview Query Optimization Techniques",
+      "Dataview Task Query Reference",
+      "DataviewJS",
+      "DataviewJS Custom Functions Library",
+      "Date Functions",
+      "Functional Programming",
+      "GROUP BY",
+      "GTD Workflow",
+      "Information Architecture",
+      "Inline Fields",
+      "JavaScript",
+      "JavaScript Performance",
+      "Note",
+      "Obsidian",
+      "Obsidian API",
+      "Obsidian Architecture",
+      "Priority Management",
+      "Productivity Systems",
+      "Project Alpha",
+      "Project Beta",
+      "Project Name",
+      "Project X",
+      "Q4 Planning",
+      "Query Performance",
+      "Task Management",
+      "Tasks Plugin",
+      "Tasks Plugin Advanced Workflows",
+      "User Interface Design",
+      "WHERE Clause",
+      "YAML Frontmatter"
+    ]
+  }
+}

@@ -1,0 +1,3659 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.815737",
+    "source_file": "reference-instructional-daily-stoicism-2025120322.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-instructional-daily-stoicism-2025120322.md",
+    "source_file_size_bytes": 52725,
+    "processing_time_seconds": 0.022
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Stoicism Daily Notes",
+        "Daily Stoicism"
+      ],
+      "tags": [
+        "type/report",
+        "year/2025",
+        "type/tutorial",
+        "status/in-progress",
+        "pkb",
+        "self-improvement",
+        "review-system",
+        "self-regulation/behavioral",
+        "instructional-design-pkm",
+        "extended-cognition",
+        "pkb/optimization",
+        "automation",
+        "cognitive-pkm"
+      ],
+      "source": "claude-sonnet-4.5",
+      "id": "20251203223034",
+      "created": "2025-12-03T22:30:34",
+      "modified": "2025-12-03T22:30:34",
+      "week": "[[2025-W49]]",
+      "month": "[[2025-12]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "reference",
+      "maturity": "needs-review",
+      "confidence": "provisional",
+      "next-review": "2025-12-10",
+      "review-count": "0",
+      "link-up": [
+        "[[pkb-&-pkm-moc]]"
+      ],
+      "link-related": [
+        "[[2025-12-03|Daily-Note]]"
+      ]
+    },
+    "word_count": 5876,
+    "character_count": 49918,
+    "line_count": 1716,
+    "heading_count": 106
+  },
+  "extraction_summary": {
+    "total_items_extracted": 354,
+    "by_type": {
+      "headings": 106,
+      "callouts": 25,
+      "wiki_links": 13,
+      "inline_fields": 11,
+      "definitions": 11,
+      "tags": 3,
+      "code_blocks": 82,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 1,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 57,
+      "lists_unordered": 42,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 3
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Daily Stoic Intergration System",
+      "anchor": "daily-stoic-intergration-system",
+      "line_number": 37,
+      "source": "reference-instructional-daily-stoicism-2025120322.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Related Notes",
+          "anchor": "related-notes",
+          "line_number": 105,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Sources & References",
+          "anchor": "sources-references",
+          "line_number": 113,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Backlinks & Connections",
+          "anchor": "backlinks-connections",
+          "line_number": 123,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "2025-12-03 - Initial Creation",
+          "anchor": "2025-12-03-initial-creation",
+          "line_number": 133,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        },
+        {
+          "level": 3,
+          "text": "Tags & Classification",
+          "anchor": "tags-classification",
+          "line_number": 138,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🏛️ DAILY STOIC INTEGRATION SYSTEM",
+      "anchor": "daily-stoic-integration-system",
+      "line_number": 184,
+      "source": "reference-instructional-daily-stoicism-2025120322.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Complete Project Package for Obsidian PKB",
+          "anchor": "complete-project-package-for-obsidian-pkb",
+          "line_number": 185,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📐 SYSTEM ARCHITECTURE BLUEPRINT",
+          "anchor": "system-architecture-blueprint",
+          "line_number": 204,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🛠️ MODULE 1: CORE DAILY NOTE TEMPLATE",
+          "anchor": "module-1-core-daily-note-template",
+          "line_number": 244,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Prerequisites",
+              "anchor": "prerequisites",
+              "line_number": 246,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "File Structure Setup",
+              "anchor": "file-structure-setup",
+              "line_number": 260,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "💻 COMPONENT 1: MAIN DAILY NOTE TEMPLATE",
+          "anchor": "component-1-main-daily-note-template",
+          "line_number": 289,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "File: `Templates/Daily-Note-Stoic-v2.md`",
+              "anchor": "file-templatesdaily-note-stoic-v2md",
+              "line_number": 294,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🏛️ <%= dayName %>, <%= tp.date.now(\"MMMM D, YYYY\") %>",
+      "anchor": "",
+      "line_number": 390,
+      "source": "reference-instructional-daily-stoicism-2025120322.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🌅 MORNING PREPARATION - *Praemeditatio*",
+          "anchor": "morning-preparation-praemeditatio",
+          "line_number": 402,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "🎯 The Dichotomy of Control",
+              "anchor": "the-dichotomy-of-control",
+              "line_number": 428,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Today's Controllable Focus Areas",
+                  "anchor": "todays-controllable-focus-areas",
+                  "line_number": 443,
+                  "source": "reference-instructional-daily-stoicism-2025120322.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Potential External Challenges (To Accept)",
+                  "anchor": "potential-external-challenges-to-accept",
+                  "line_number": 449,
+                  "source": "reference-instructional-daily-stoicism-2025120322.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "🛡️ Premeditatio Malorum - *Negative Visualization*",
+              "anchor": "premeditatio-malorum-negative-visualization",
+              "line_number": 457,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "💎 Implementation Intentions - *Specific Commitments*",
+              "anchor": "implementation-intentions-specific-commitments",
+              "line_number": 474,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📚 Knowledge Integration Intention",
+              "anchor": "knowledge-integration-intention",
+              "line_number": 499,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚙️ DAILY ACTIVITIES & COGNITIVE CAPTURES",
+          "anchor": "daily-activities-cognitive-captures",
+          "line_number": 524,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "📋 Task Management Integration",
+              "anchor": "task-management-integration",
+              "line_number": 526,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🧠 Cognitive Snapshots - *Throughout the Day*",
+              "anchor": "cognitive-snapshots-throughout-the-day",
+              "line_number": 546,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Today's Captured Moments",
+                  "anchor": "todays-captured-moments",
+                  "line_number": 578,
+                  "source": "reference-instructional-daily-stoicism-2025120322.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "📝 Free-Form Journal Space",
+              "anchor": "free-form-journal-space",
+              "line_number": 590,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🌙 EVENING REFLECTION - *Examen*",
+          "anchor": "evening-reflection-examen",
+          "line_number": 596,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "🔍 Judgment Analysis - *Identifying Cognitive Content*",
+              "anchor": "judgment-analysis-identifying-cognitive-content",
+              "line_number": 624,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Significant Events of the Day",
+                  "anchor": "significant-events-of-the-day",
+                  "line_number": 629,
+                  "source": "reference-instructional-daily-stoicism-2025120322.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "⚖️ Virtue Assessment - *Character Examination*",
+              "anchor": "virtue-assessment-character-examination",
+              "line_number": 711,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "How did I embody today's virtue focus?",
+                  "anchor": "how-did-i-embody-todays-virtue-focus",
+                  "line_number": 716,
+                  "source": "reference-instructional-daily-stoicism-2025120322.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "The Four Cardinal Virtues - Self-Assessment",
+                  "anchor": "the-four-cardinal-virtues-self-assessment",
+                  "line_number": 738,
+                  "source": "reference-instructional-daily-stoicism-2025120322.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "📊 Emotional Inventory - *Affective Awareness*",
+              "anchor": "emotional-inventory-affective-awareness",
+              "line_number": 790,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🎓 Lesson Extraction - *Epistemic Growth*",
+              "anchor": "lesson-extraction-epistemic-growth",
+              "line_number": 822,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "Cognitive-Epistemic Lessons",
+                  "anchor": "cognitive-epistemic-lessons",
+                  "line_number": 827,
+                  "source": "reference-instructional-daily-stoicism-2025120322.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "Behavioral Insights",
+                  "anchor": "behavioral-insights",
+                  "line_number": 833,
+                  "source": "reference-instructional-daily-stoicism-2025120322.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "PKB Integration Reflections",
+                  "anchor": "pkb-integration-reflections",
+                  "line_number": 839,
+                  "source": "reference-instructional-daily-stoicism-2025120322.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "🔮 Tomorrow's Commitment",
+              "anchor": "tomorrows-commitment",
+              "line_number": 875,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📊 DAILY ANALYTICS DASHBOARD",
+          "anchor": "daily-analytics-dashboard",
+          "line_number": 903,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Practice Completion Tracker",
+              "anchor": "practice-completion-tracker",
+              "line_number": 908,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Virtue Development Trajectory",
+              "anchor": "virtue-development-trajectory",
+              "line_number": 936,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "7-Day Stoic Practice Streak",
+              "anchor": "7-day-stoic-practice-streak",
+              "line_number": 963,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "PKB Integration Patterns",
+              "anchor": "pkb-integration-patterns",
+              "line_number": 994,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 RELATED DAILY NOTES",
+          "anchor": "related-daily-notes",
+          "line_number": 1009,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Previous & Next Days",
+              "anchor": "previous-next-days",
+              "line_number": 1011,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "This Week's Daily Notes",
+              "anchor": "this-weeks-daily-notes",
+              "line_number": 1016,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎯 KNOWLEDGE GRAPH CONNECTIONS",
+          "anchor": "knowledge-graph-connections",
+          "line_number": 1027,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Related Stoic Concepts",
+              "anchor": "related-stoic-concepts",
+              "line_number": 1032,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Related Cognitive Science Concepts",
+              "anchor": "related-cognitive-science-concepts",
+              "line_number": 1042,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎛️ COMPONENT 2: QUICKADD MACRO CONFIGURATIONS",
+          "anchor": "component-2-quickadd-macro-configurations",
+          "line_number": 1069,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "QuickAdd Setup Instructions",
+              "anchor": "quickadd-setup-instructions",
+              "line_number": 1074,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "MACRO 1: Cognitive Distortion Capture",
+              "anchor": "macro-1-cognitive-distortion-capture",
+              "line_number": 1085,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🧠 Cognitive Distortion Logged at {{TIME:HH:mm}}",
+              "anchor": "cognitive-distortion-logged-at-timehhmm",
+              "line_number": 1102,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "MACRO 2: Stoic Insight Capture",
+              "anchor": "macro-2-stoic-insight-capture",
+              "line_number": 1127,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "💡 Insight Captured at {{TIME:HH:mm}}",
+              "anchor": "insight-captured-at-timehhmm",
+              "line_number": 1143,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "MACRO 3: Virtue Challenge Log",
+              "anchor": "macro-3-virtue-challenge-log",
+              "line_number": 1162,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🎯 Virtue Challenge at {{TIME:HH:mm}}",
+              "anchor": "virtue-challenge-at-timehhmm",
+              "line_number": 1178,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📊 COMPONENT 3: ANALYTICS DASHBOARD SYSTEM",
+          "anchor": "component-3-analytics-dashboard-system",
+          "line_number": 1199,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "File: `Stoic-Analytics/Virtue-Tracker-Dashboard.md`",
+              "anchor": "file-stoic-analyticsvirtue-tracker-dashboardmd",
+              "line_number": 1201,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🏛️ Stoic Virtue Development Dashboard",
+      "anchor": "stoic-virtue-development-dashboard",
+      "line_number": 1212,
+      "source": "reference-instructional-daily-stoicism-2025120322.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📈 VIRTUE SCORE TRAJECTORIES (30-Day View)",
+          "anchor": "virtue-score-trajectories-30-day-view",
+          "line_number": 1219,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Wisdom Development Curve",
+              "anchor": "wisdom-development-curve",
+              "line_number": 1221,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Four Virtues Comparison (Last 7 Days)",
+              "anchor": "four-virtues-comparison-last-7-days",
+              "line_number": 1258,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎯 PRACTICE COMPLETION METRICS",
+          "anchor": "practice-completion-metrics",
+          "line_number": 1290,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Monthly Stoic Completeness Rate",
+              "anchor": "monthly-stoic-completeness-rate",
+              "line_number": 1292,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Component Breakdown",
+              "anchor": "component-breakdown",
+              "line_number": 1317,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🧠 COGNITIVE PATTERN ANALYSIS",
+          "anchor": "cognitive-pattern-analysis",
+          "line_number": 1334,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Distortion Frequency Heatmap",
+              "anchor": "distortion-frequency-heatmap",
+              "line_number": 1336,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Emotional Landscape",
+              "anchor": "emotional-landscape",
+              "line_number": 1356,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📚 PKB INTEGRATION HEALTH",
+          "anchor": "pkb-integration-health",
+          "line_number": 1371,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Concept Engagement Tracking",
+              "anchor": "concept-engagement-tracking",
+              "line_number": 1373,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Domain Focus Distribution",
+              "anchor": "domain-focus-distribution",
+              "line_number": 1387,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎯 VIRTUE FOCUS OPTIMIZATION",
+          "anchor": "virtue-focus-optimization",
+          "line_number": 1421,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Most/Least Practiced Virtues",
+              "anchor": "mostleast-practiced-virtues",
+              "line_number": 1423,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 RELATED DASHBOARDS",
+          "anchor": "related-dashboards",
+          "line_number": 1467,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🛠️ COMPONENT 4: META BIND BUTTON LIBRARY",
+          "anchor": "component-4-meta-bind-button-library",
+          "line_number": 1481,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Maturity Progression Buttons",
+              "anchor": "maturity-progression-buttons",
+              "line_number": 1483,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🌱 Note Maturity Controls",
+              "anchor": "note-maturity-controls",
+              "line_number": 1488,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎓 IMPLEMENTATION GUIDE",
+          "anchor": "implementation-guide",
+          "line_number": 1539,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Phase 1: Template Installation (30 minutes)",
+              "anchor": "phase-1-template-installation-30-minutes",
+              "line_number": 1541,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Phase 2: QuickAdd Macro Setup (20 minutes)",
+              "anchor": "phase-2-quickadd-macro-setup-20-minutes",
+              "line_number": 1565,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Phase 3: Dashboard Creation (15 minutes)",
+              "anchor": "phase-3-dashboard-creation-15-minutes",
+              "line_number": 1580,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Phase 4: First Daily Practice (30 minutes)",
+              "anchor": "phase-4-first-daily-practice-30-minutes",
+              "line_number": 1589,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔧 TROUBLESHOOTING GUIDE",
+          "anchor": "troubleshooting-guide",
+          "line_number": 1622,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Issue 1: Template Variables Not Populating",
+              "anchor": "issue-1-template-variables-not-populating",
+              "line_number": 1624,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Issue 2: Meta Bind Buttons Not Rendering",
+              "anchor": "issue-2-meta-bind-buttons-not-rendering",
+              "line_number": 1634,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Issue 3: Dataview Queries Returning Empty Results",
+              "anchor": "issue-3-dataview-queries-returning-empty-results",
+              "line_number": 1645,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Issue 4: QuickAdd Macros Not Capturing to Correct Location",
+              "anchor": "issue-4-quickadd-macros-not-capturing-to-correct-location",
+              "line_number": 1654,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "📊 ADVANCED CUSTOMIZATION OPTIONS",
+          "anchor": "advanced-customization-options",
+          "line_number": 1664,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Custom Virtue Tracking",
+              "anchor": "custom-virtue-tracking",
+              "line_number": 1665,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Integration with Spaced Repetition (Tasks Plugin)",
+              "anchor": "integration-with-spaced-repetition-tasks-plugin",
+              "line_number": 1684,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "📅 Concept Review Queue",
+              "anchor": "concept-review-queue",
+              "line_number": 1687,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Weekly Stoic Synthesis Note",
+              "anchor": "weekly-stoic-synthesis-note",
+              "line_number": 1696,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🏛️ Week <%= tp.date.now(\"ww\") %> Stoic Synthesis",
+      "anchor": "week-stoic-synthesis",
+      "line_number": 1705,
+      "source": "reference-instructional-daily-stoicism-2025120322.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Virtue Patterns",
+          "anchor": "virtue-patterns",
+          "line_number": 1706,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Key Insights",
+          "anchor": "key-insights",
+          "line_number": 1715,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Behavioral Adjustments for Next Week",
+          "anchor": "behavioral-adjustments-for-next-week",
+          "line_number": 1716,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🎓 LEARNING OUTCOMES",
+          "anchor": "learning-outcomes",
+          "line_number": 1719,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔗 NEXT-LEVEL ENHANCEMENTS",
+          "anchor": "next-level-enhancements",
+          "line_number": 1727,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "1. **AI-Assisted Reflection Analysis**",
+              "anchor": "1-ai-assisted-reflection-analysis",
+              "line_number": 1728,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "2. **Cross-Vault Stoic Community**",
+              "anchor": "2-cross-vault-stoic-community",
+              "line_number": 1730,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "3. **Automated Literature Connection**",
+              "anchor": "3-automated-literature-connection",
+              "line_number": 1732,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "4. **Gamification Layer**",
+              "anchor": "4-gamification-layer",
+              "line_number": 1734,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "5. **Multi-Modal Journaling**",
+              "anchor": "5-multi-modal-journaling",
+              "line_number": 1736,
+              "source": "reference-instructional-daily-stoicism-2025120322.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🏛️ STOIC WISDOM FOR THE JOURNEY",
+          "anchor": "stoic-wisdom-for-the-journey",
+          "line_number": 1739,
+          "source": "reference-instructional-daily-stoicism-2025120322.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "Untitled",
+        "body": "- **Title**:: [[Daily Stoic Intergration System]]\n- **Prompt/Topic Used**:: \n- **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`",
+        "line_number": 38,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 770,
+        "char_end": 936
+      },
+      {
+        "type": "",
+        "title": "# :FasClipboardList:In-Note Metadata Panel",
+        "body": "- **Note-Type**: `= this.type`\n- **Development Status**: `= this.maturity`\n- **Epistemic Confidence**: `= this.confidence`\n- **Next Review**: `= this.next-review`\n- **Review Count**: `= this.review-count`\n- **Created**: `= this.created`\n- **Last Modified**: `= this.modified`\n\n> [!purpose] ### 📝Content Metrics\n> [**Word Count**:: `= this.file.size`]| [**Est. Read Time**:: `= round(this.file.size / 1300) + \" min\"`]\n> [**Depth Class**:: `= choice(this.file.size < 500, \"🌱Stub\", choice(this.file.size < 2000, \"📄Note\", \"📜Essay\"))`]\n----\n> [!purpose] ### 🕰️Temporal Context\n> [**Created**:: `= this.file.ctime`] | [**Age**:: `= (date(today) - this.file.ctime).days + \" days\"`]\n> [**Last Touch**:: `= this.file.mtime`] | [**Staleness**:: `= choice((date(today) - this.file.mtime).days > 180, \"🕸️Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂Cold\", \"🔥Fresh\"))`]\n> [**Touch Frequency**:: `= choice((date(today) - this.file.mtime).days < 7, \"🔥Active\", choice((date(today) - this.file.mtime).days < 30, \"👌Regular\", \"❄️Dormant\"))`]\n----\n> [!topic-idea] ### 🔗Network Connectivity\n> [**In-Links**:: `= length(this.file.inlinks)`] | [**Out-Links**:: `= length(this.file.outlinks)`]\n> [**Network Status**:: `= choice(length(this.file.inlinks) = 0, \"🕸️Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱Node\"))`]\n```dataviewjs\n// SYSTEM: Semantic Bridge Engine\n// PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\nconst current = dv.current();\nconst myOutlinks = current.file.outlinks.map(l => l.path);\n\n// 1. Filter the Vault\nconst siblings = dv.pages()\n    .where(p => p.file.path !== current.file.path) // Exclude self\n    .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n    .map(p => {\n        // Find overlap between this page's links and the current page's links\n        const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n        return { \n            link: p.file.link, \n            sharedCount: shared.length, \n            sharedLinks: shared \n        };\n    })\n    .where(p => p.sharedCount > 0) // Must share at least 1 connection\n    .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n    .limit(5); // Only show top 5\n\n// 2. Render the Bridge\nif (siblings.length > 0) {\n    dv.header(3, \"Semantic Bridges (Missing Connections)\");\n    dv.table(\n        [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n        siblings.map(s => [\n            s.link, \n            \"🔗\" + s.sharedCount, \n            s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n        ])\n    );\n} else {\n    dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n}\n```",
+        "line_number": 43,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 937,
+        "char_end": 3835
+      },
+      {
+        "type": "",
+        "title": "### Claude Thinking",
+        "body": "This is a comprehensive automation engineering request requiring:\n1. **SCOPE ANALYSIS:**\n   - Primary Goal: Integrate Daily Stoicism into Daily Notes\n   - Secondary Goals: Behavior change tracking, epistemological development, metacognitive growth\n   - Technical Requirements: Multi-plugin orchestration (Dataview, Templater, Meta Bind, QuickAdd, Tasks)\n   - Constraint: Must align with existing metadata schema from master Templater architecture\n2. **KNOWLEDGE BASE REVIEW:**\n   - Need to reference: Master Templater architecture (tag taxonomy + metadata structure)\n   - Need to reference: Daily Stoic Journaling comprehensive guide\n   - Need to reference: Dataview documentation (inline queries, blocks, DataviewJS)\n   - Need to reference: Meta Bind button patterns (exemplar provided)\n   - Available plugins: Calendar, Charts, Commander, Dataview, Day Planner, Kanban, Meta Bind, Periodic Notes, QuickAdd, Tasks, Templater\n3. **ARCHITECTURAL PLANNING:**\n   This requires a modular system with:\n   - Core Daily Note Template (Templater-driven)\n   - Stoic Philosophy Integration Module\n   - Metacognitive Reflection Components\n   - Progress Tracking Systems\n   - Interactive Controls (Meta Bind buttons)\n   - Automated Queries (Dataview/DataviewJS)\n   - Capture Workflows (QuickAdd macros)\n   - Task Management Integration\n   - Analytics Dashboard Components\n4. **IMPLEMENTATION STRATEGY:**\n   - Phase 1: Retrieve and analyze PKB metadata structure\n   - Phase 2: Design complete system architecture\n   - Phase 3: Build all components with full documentation\n   - Phase 4: Provide integration guide and troubleshooting\n5. **COMPLEXITY ASSESSMENT:**\n   - Technical Complexity: 9/10 (multi-plugin orchestration, advanced queries)\n   - Implementation Complexity: 8/10 (multiple interconnected components)\n   - Maintenance Complexity: 6/10 (self-documenting, modular design)\n   - Learning Curve: Advanced (but comprehensive documentation will support)\nLet me first search the project knowledge to understand the existing metadata structure and Stoic journaling framework.\nI'll design and engineer your complete Daily Stoic Integration System. This is a sophisticated multi-plugin orchestration project that will transform your daily notes into a cognitive-science-aligned Stoic practice platform. Let me first analyze your existing PKB structure to ensure perfect compatibility.Perfect! Now I have comprehensive understanding of both your PKB metadata architecture and the Stoic journaling framework. Let me build your complete Daily Stoic Integration System.",
+        "line_number": 145,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 4578,
+        "char_end": 7234
+      },
+      {
+        "type": "abstract",
+        "title": "📋 Project Overview",
+        "body": "**Objective**: Transform daily notes into cognitive-science-aligned Stoic practice platform integrating philosophical reflection, behavioral tracking, metacognitive development, and knowledge synthesis.\n\n**System Architecture**: Six interconnected modules orchestrating Dataview, Templater, Meta Bind, QuickAdd, Tasks, and Charts plugins to create self-documenting, progress-tracking daily practice environment.\n\n**Estimated Implementation Time**: 3-4 hours for complete setup\n**Difficulty Level**: Advanced (comprehensive documentation provided)\n**Maintenance**: Self-documenting system requires minimal upkeep",
+        "line_number": 187,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 7321,
+        "char_end": 7980
+      },
+      {
+        "type": "important",
+        "title": "🎯 Core Design Philosophy",
+        "body": "This system embodies three foundational principles:\n1. **Progressive Revelation**: Complexity emerges gradually through daily use\n2. **Metacognitive Scaffolding**: Every component teaches self-regulation skills\n3. **Epistemic Accountability**: Built-in tracking of knowledge development and behavioral patterns",
+        "line_number": 196,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 7981,
+        "char_end": 8340
+      },
+      {
+        "type": "important",
+        "title": "Required Plugins Verification",
+        "body": "Before proceeding, verify these plugins are installed and enabled:\n- [x] **Templater** (v2.0.0+) - Dynamic template generation\n- [x] **Dataview** (v0.5.0+) - Queries and analytics\n- [x] **Meta Bind** (v1.0.0+) - Interactive buttons\n- [x] **QuickAdd** (v1.0.0+) - Capture workflows\n- [x] **Tasks** (v7.0.0+) - Task management\n- [x] **Periodic Notes** (v0.0.17+) - Daily note automation\n- [x] **Charts** (v3.0.0+) - Data visualization\n\nNavigate to: Settings → Community Plugins → Browse to install missing plugins",
+        "line_number": 248,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 9382,
+        "char_end": 9959
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Template Architecture",
+        "body": "This template uses **phased revelation**: core Stoic structure loads immediately, with advanced analytics sections collapsing by default. Dataview queries are strategically placed to create \"discovery moments\" throughout the day, reinforcing metacognitive awareness through automated pattern recognition.",
+        "line_number": 291,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 10777,
+        "char_end": 11135
+      },
+      {
+        "type": "quote",
+        "title": "Daily Stoic Wisdom",
+        "body": "*\"You have power over your mind—not outside events. Realize this, and you will find strength.\"*  \n— Marcus Aurelius, *Meditations* 8.32",
+        "line_number": 392,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 14801,
+        "char_end": 14971
+      },
+      {
+        "type": "important",
+        "title": "Morning Stoic Intention Setting",
+        "body": "**Time Completed**: `VIEW[{morning-time}][text(class(time-input))]`  \n**Completion Status**: `VIEW[{morning-complete}]`",
+        "line_number": 404,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 15198,
+        "char_end": 15369
+      },
+      {
+        "type": "principle-point",
+        "title": "Fundamental Stoic Distinction",
+        "body": "**Within My Control** (*τὰ ἐφ' ἡμῖν*):  \n- My judgments, opinions, interpretations\n- My actions, choices, responses  \n- My values, principles, character\n- My effort, attention, discipline\n\n**Outside My Control** (*τὰ οὐκ ἐφ' ἡμῖν*):  \n- Others' opinions, actions, judgments\n- External outcomes, results, consequences\n- Past events, future uncertainties\n- Natural processes, cosmic order",
+        "line_number": 430,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 15910,
+        "char_end": 16369
+      },
+      {
+        "type": "thought-experiment",
+        "title": "Preparing for Adversity",
+        "body": "**What difficulties might today present?** Visualize potential obstacles not as catastrophes but as opportunities to practice virtue.",
+        "line_number": 459,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 16665,
+        "char_end": 16849
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research-Based Behavior Planning",
+        "body": "Implementation intentions follow the formula: \"If [SITUATION], then I will [RESPONSE].\" This creates automatic behavioral triggers that bypass willpower depletion.",
+        "line_number": 476,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 17115,
+        "char_end": 17343
+      },
+      {
+        "type": "key-claim",
+        "title": "Epistemic Accountability Checkpoint",
+        "body": "**Which concepts from my PKB will I actively engage with today?**",
+        "line_number": 501,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 17652,
+        "char_end": 17771
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Metacognitive Monitoring Protocol",
+        "body": "Use these capture points to externalize judgments and emotional reactions as they occur. Each snapshot creates data for evening analysis.",
+        "line_number": 548,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 18510,
+        "char_end": 18701
+      },
+      {
+        "type": "important",
+        "title": "Evening Stoic Review",
+        "body": "**Time Completed**: `VIEW[{evening-time}][text(class(time-input))]`  \n**Completion Status**: `VIEW[{evening-complete}]`",
+        "line_number": 598,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 19548,
+        "char_end": 19708
+      },
+      {
+        "type": "definition",
+        "title": "The Stoic Core Insight",
+        "body": "**Events themselves are neutral.** Only our *judgments* about events create suffering or joy. This section externalizes those judgments for rational examination.",
+        "line_number": 626,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 20278,
+        "char_end": 20481
+      },
+      {
+        "type": "key-claim",
+        "title": "Daily Virtue Audit",
+        "body": "**Cardinal Virtue Focus**: <%= virtueChoice %>",
+        "line_number": 713,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 21954,
+        "char_end": 22037
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Emotional Regulation Through Externalization",
+        "body": "Research shows that labeling emotions ([[Affect Labeling]]) reduces amygdala activity and enhances prefrontal control. This section transforms vague feelings into precise linguistic categories.",
+        "line_number": 792,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 23590,
+        "char_end": 23860
+      },
+      {
+        "type": "key-claim",
+        "title": "Knowledge Synthesis Checkpoint",
+        "body": "**What did I learn today about myself, others, or effective action?**",
+        "line_number": 824,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 24540,
+        "char_end": 24658
+      },
+      {
+        "type": "important",
+        "title": "Prospective Planning",
+        "body": "Based on today's reflection, what specific intention will guide tomorrow?",
+        "line_number": 877,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 25603,
+        "char_end": 25715
+      },
+      {
+        "type": "abstract",
+        "title": "Self-Documenting Progress Metrics",
+        "body": "These queries auto-generate from your daily practice, creating zero-maintenance analytics.",
+        "line_number": 905,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 26230,
+        "char_end": 26371
+      },
+      {
+        "type": "key-claim",
+        "title": "Bidirectional Epistemic Linking",
+        "body": "These automatic queries discover connections between today's practice and your broader PKB.",
+        "line_number": 1029,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 29812,
+        "char_end": 29953
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Capture Workflow Architecture",
+        "body": "These macros enable frictionless capture of cognitive snapshots throughout the day, creating the data substrate for evening reflection and longitudinal pattern analysis.",
+        "line_number": 1071,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 30810,
+        "char_end": 31041
+      },
+      {
+        "type": "abstract",
+        "title": "Purpose",
+        "body": "Longitudinal tracking of cardinal virtue cultivation through daily practice metrics. This dashboard auto-updates from daily note metadata to reveal behavioral patterns and epistemic growth trajectories.",
+        "line_number": 1214,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 34437,
+        "char_end": 34664
+      },
+      {
+        "type": "quote",
+        "title": "Marcus Aurelius, *Meditations* 5.1",
+        "body": "*\"At dawn, when you have trouble getting out of bed, tell yourself: 'I have to go to work—as a human being. What do I have to complain of, if I'm going to do what I was born for—the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?'\"*",
+        "line_number": 1740,
+        "source": "reference-instructional-daily-stoicism-2025120322.md",
+        "char_start": 49795,
+        "char_end": 50150
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Daily Stoic Intergration System",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daily Stoic Intergration System]]",
+        "line_number": 39,
+        "section": "Daily Stoic Intergration System",
+        "context_line": "> - **Title**:: [[Daily Stoic Intergration System]]",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "Affect Labeling",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Affect Labeling]]",
+        "line_number": 793,
+        "section": "📊 Emotional Inventory - *Affective Awareness*",
+        "context_line": "> Research shows that labeling emotions ([[Affect Labeling]]) reduces amygdala activity and enhances prefrontal control. This section transforms vague feelings into precise linguistic categories.",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "<%= tp.date.now(\"YYYY-MM-DD\", -1, tp.file.title) %>",
+        "heading": null,
+        "display_text": "Yesterday",
+        "full_match": "[[<%= tp.date.now(\"YYYY-MM-DD\", -1, tp.file.title) %>|Yesterday]]",
+        "line_number": 1013,
+        "section": "Previous & Next Days",
+        "context_line": "⬅️ [[<%= tp.date.now(\"YYYY-MM-DD\", -1, tp.file.title) %>|Yesterday]]",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "<%= tp.date.now(\"YYYY-MM-DD\", 1, tp.file.title) %>",
+        "heading": null,
+        "display_text": "Tomorrow",
+        "full_match": "[[<%= tp.date.now(\"YYYY-MM-DD\", 1, tp.file.title) %>|Tomorrow]]",
+        "line_number": 1014,
+        "section": "Previous & Next Days",
+        "context_line": "➡️ [[<%= tp.date.now(\"YYYY-MM-DD\", 1, tp.file.title) %>|Tomorrow]]",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "Stoicism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoicism]]",
+        "line_number": 1036,
+        "section": "Related Stoic Concepts",
+        "context_line": "FROM [[Stoicism]] OR [[Marcus Aurelius]] OR [[Epictetus]] OR [[Seneca]] OR [[Virtue Ethics]]",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "Marcus Aurelius",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus Aurelius]]",
+        "line_number": 1036,
+        "section": "Related Stoic Concepts",
+        "context_line": "FROM [[Stoicism]] OR [[Marcus Aurelius]] OR [[Epictetus]] OR [[Seneca]] OR [[Virtue Ethics]]",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "Epictetus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epictetus]]",
+        "line_number": 1036,
+        "section": "Related Stoic Concepts",
+        "context_line": "FROM [[Stoicism]] OR [[Marcus Aurelius]] OR [[Epictetus]] OR [[Seneca]] OR [[Virtue Ethics]]",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "Seneca",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Seneca]]",
+        "line_number": 1036,
+        "section": "Related Stoic Concepts",
+        "context_line": "FROM [[Stoicism]] OR [[Marcus Aurelius]] OR [[Epictetus]] OR [[Seneca]] OR [[Virtue Ethics]]",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "Virtue Ethics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue Ethics]]",
+        "line_number": 1036,
+        "section": "Related Stoic Concepts",
+        "context_line": "FROM [[Stoicism]] OR [[Marcus Aurelius]] OR [[Epictetus]] OR [[Seneca]] OR [[Virtue Ethics]]",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "{{VALUE:Link to PKB concepts}}",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[{{VALUE:Link to PKB concepts}}]]",
+        "line_number": 1151,
+        "section": "💡 Insight Captured at {{TIME:HH:mm}}",
+        "context_line": "**Related Concepts**: [[{{VALUE:Link to PKB concepts}}]]",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "Behavioral-Patterns-MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Behavioral-Patterns-MOC]]",
+        "line_number": 1469,
+        "section": "🔗 RELATED DASHBOARDS",
+        "context_line": "- [[Behavioral-Patterns-MOC]] - Cross-domain pattern analysis",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "Epistemic-Growth-Chart",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic-Growth-Chart]]",
+        "line_number": 1470,
+        "section": "🔗 RELATED DASHBOARDS",
+        "context_line": "- [[Epistemic-Growth-Chart]] - Knowledge maturity tracking",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "target": "Stoic-Insights-MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoic-Insights-MOC]]",
+        "line_number": 1471,
+        "section": "🔗 RELATED DASHBOARDS",
+        "context_line": "- [[Stoic-Insights-MOC]] - Curated wisdom collection",
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Word Count",
+        "value": "`= this.file.size`",
+        "format": "bracket",
+        "line_number": 54,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "field_name": "Est. Read Time",
+        "value": "`= round(this.file.size / 1300) + \" min\"`",
+        "format": "bracket",
+        "line_number": 54,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "field_name": "Depth Class",
+        "value": "`= choice(this.file.size < 500, \"🌱Stub\", choice(this.file.size < 2000, \"📄Note\", \"📜Essay\"))`",
+        "format": "bracket",
+        "line_number": 55,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "field_name": "Created",
+        "value": "`= this.file.ctime`",
+        "format": "bracket",
+        "line_number": 58,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "field_name": "Age",
+        "value": "`= (date(today) - this.file.ctime).days + \" days\"`",
+        "format": "bracket",
+        "line_number": 58,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "field_name": "Last Touch",
+        "value": "`= this.file.mtime`",
+        "format": "bracket",
+        "line_number": 59,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "field_name": "Staleness",
+        "value": "`= choice((date(today) - this.file.mtime).days > 180, \"🕸️Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂Cold\", \"🔥Fresh\"))`",
+        "format": "bracket",
+        "line_number": 59,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "field_name": "Touch Frequency",
+        "value": "`= choice((date(today) - this.file.mtime).days < 7, \"🔥Active\", choice((date(today) - this.file.mtime).days < 30, \"👌Regular\", \"❄️Dormant\"))`",
+        "format": "bracket",
+        "line_number": 60,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "field_name": "In-Links",
+        "value": "`= length(this.file.inlinks)`",
+        "format": "bracket",
+        "line_number": 63,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "field_name": "Out-Links",
+        "value": "`= length(this.file.outlinks)`",
+        "format": "bracket",
+        "line_number": 63,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "field_name": "Network Status",
+        "value": "`= choice(length(this.file.inlinks) = 0, \"🕸️Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱Node\"))`",
+        "format": "bracket",
+        "line_number": 64,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      }
+    ],
+    "tags": [
+      {
+        "tag": "cognitive-science",
+        "full_tag": "#cognitive-science",
+        "hierarchy": [
+          "cognitive-science"
+        ],
+        "line_number": 452,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "tag": "metacognition",
+        "full_tag": "#metacognition",
+        "hierarchy": [
+          "metacognition"
+        ],
+        "line_number": 456,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "tag": "self-regulated-learning",
+        "full_tag": "#self-regulated-learning",
+        "hierarchy": [
+          "self-regulated-learning"
+        ],
+        "line_number": 457,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Daily Stoic Intergration System",
+        "anchor": "daily-stoic-intergration-system",
+        "line_number": 37,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Related Notes",
+        "anchor": "related-notes",
+        "line_number": 105,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Sources & References",
+        "anchor": "sources-references",
+        "line_number": 113,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Backlinks & Connections",
+        "anchor": "backlinks-connections",
+        "line_number": 123,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "2025-12-03 - Initial Creation",
+        "anchor": "2025-12-03-initial-creation",
+        "line_number": 133,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Tags & Classification",
+        "anchor": "tags-classification",
+        "line_number": 138,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 1,
+        "text": "🏛️ DAILY STOIC INTEGRATION SYSTEM",
+        "anchor": "daily-stoic-integration-system",
+        "line_number": 184,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "Complete Project Package for Obsidian PKB",
+        "anchor": "complete-project-package-for-obsidian-pkb",
+        "line_number": 185,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "📐 SYSTEM ARCHITECTURE BLUEPRINT",
+        "anchor": "system-architecture-blueprint",
+        "line_number": 204,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🛠️ MODULE 1: CORE DAILY NOTE TEMPLATE",
+        "anchor": "module-1-core-daily-note-template",
+        "line_number": 244,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Prerequisites",
+        "anchor": "prerequisites",
+        "line_number": 246,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "File Structure Setup",
+        "anchor": "file-structure-setup",
+        "line_number": 260,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "💻 COMPONENT 1: MAIN DAILY NOTE TEMPLATE",
+        "anchor": "component-1-main-daily-note-template",
+        "line_number": 289,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "File: `Templates/Daily-Note-Stoic-v2.md`",
+        "anchor": "file-templatesdaily-note-stoic-v2md",
+        "line_number": 294,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 1,
+        "text": "🏛️ <%= dayName %>, <%= tp.date.now(\"MMMM D, YYYY\") %>",
+        "anchor": "",
+        "line_number": 390,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🌅 MORNING PREPARATION - *Praemeditatio*",
+        "anchor": "morning-preparation-praemeditatio",
+        "line_number": 402,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "🎯 The Dichotomy of Control",
+        "anchor": "the-dichotomy-of-control",
+        "line_number": 428,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 4,
+        "text": "Today's Controllable Focus Areas",
+        "anchor": "todays-controllable-focus-areas",
+        "line_number": 443,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 4,
+        "text": "Potential External Challenges (To Accept)",
+        "anchor": "potential-external-challenges-to-accept",
+        "line_number": 449,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "🛡️ Premeditatio Malorum - *Negative Visualization*",
+        "anchor": "premeditatio-malorum-negative-visualization",
+        "line_number": 457,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "💎 Implementation Intentions - *Specific Commitments*",
+        "anchor": "implementation-intentions-specific-commitments",
+        "line_number": 474,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "📚 Knowledge Integration Intention",
+        "anchor": "knowledge-integration-intention",
+        "line_number": 499,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ DAILY ACTIVITIES & COGNITIVE CAPTURES",
+        "anchor": "daily-activities-cognitive-captures",
+        "line_number": 524,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "📋 Task Management Integration",
+        "anchor": "task-management-integration",
+        "line_number": 526,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "🧠 Cognitive Snapshots - *Throughout the Day*",
+        "anchor": "cognitive-snapshots-throughout-the-day",
+        "line_number": 546,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 4,
+        "text": "Today's Captured Moments",
+        "anchor": "todays-captured-moments",
+        "line_number": 578,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "📝 Free-Form Journal Space",
+        "anchor": "free-form-journal-space",
+        "line_number": 590,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🌙 EVENING REFLECTION - *Examen*",
+        "anchor": "evening-reflection-examen",
+        "line_number": 596,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "🔍 Judgment Analysis - *Identifying Cognitive Content*",
+        "anchor": "judgment-analysis-identifying-cognitive-content",
+        "line_number": 624,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 4,
+        "text": "Significant Events of the Day",
+        "anchor": "significant-events-of-the-day",
+        "line_number": 629,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "⚖️ Virtue Assessment - *Character Examination*",
+        "anchor": "virtue-assessment-character-examination",
+        "line_number": 711,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 4,
+        "text": "How did I embody today's virtue focus?",
+        "anchor": "how-did-i-embody-todays-virtue-focus",
+        "line_number": 716,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 4,
+        "text": "The Four Cardinal Virtues - Self-Assessment",
+        "anchor": "the-four-cardinal-virtues-self-assessment",
+        "line_number": 738,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "📊 Emotional Inventory - *Affective Awareness*",
+        "anchor": "emotional-inventory-affective-awareness",
+        "line_number": 790,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "🎓 Lesson Extraction - *Epistemic Growth*",
+        "anchor": "lesson-extraction-epistemic-growth",
+        "line_number": 822,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 4,
+        "text": "Cognitive-Epistemic Lessons",
+        "anchor": "cognitive-epistemic-lessons",
+        "line_number": 827,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 4,
+        "text": "Behavioral Insights",
+        "anchor": "behavioral-insights",
+        "line_number": 833,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 4,
+        "text": "PKB Integration Reflections",
+        "anchor": "pkb-integration-reflections",
+        "line_number": 839,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "🔮 Tomorrow's Commitment",
+        "anchor": "tomorrows-commitment",
+        "line_number": 875,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 DAILY ANALYTICS DASHBOARD",
+        "anchor": "daily-analytics-dashboard",
+        "line_number": 903,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Practice Completion Tracker",
+        "anchor": "practice-completion-tracker",
+        "line_number": 908,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Virtue Development Trajectory",
+        "anchor": "virtue-development-trajectory",
+        "line_number": 936,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "7-Day Stoic Practice Streak",
+        "anchor": "7-day-stoic-practice-streak",
+        "line_number": 963,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "PKB Integration Patterns",
+        "anchor": "pkb-integration-patterns",
+        "line_number": 994,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 RELATED DAILY NOTES",
+        "anchor": "related-daily-notes",
+        "line_number": 1009,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Previous & Next Days",
+        "anchor": "previous-next-days",
+        "line_number": 1011,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "This Week's Daily Notes",
+        "anchor": "this-weeks-daily-notes",
+        "line_number": 1016,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 KNOWLEDGE GRAPH CONNECTIONS",
+        "anchor": "knowledge-graph-connections",
+        "line_number": 1027,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Related Stoic Concepts",
+        "anchor": "related-stoic-concepts",
+        "line_number": 1032,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Related Cognitive Science Concepts",
+        "anchor": "related-cognitive-science-concepts",
+        "line_number": 1042,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🎛️ COMPONENT 2: QUICKADD MACRO CONFIGURATIONS",
+        "anchor": "component-2-quickadd-macro-configurations",
+        "line_number": 1069,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "QuickAdd Setup Instructions",
+        "anchor": "quickadd-setup-instructions",
+        "line_number": 1074,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "MACRO 1: Cognitive Distortion Capture",
+        "anchor": "macro-1-cognitive-distortion-capture",
+        "line_number": 1085,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "🧠 Cognitive Distortion Logged at {{TIME:HH:mm}}",
+        "anchor": "cognitive-distortion-logged-at-timehhmm",
+        "line_number": 1102,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "MACRO 2: Stoic Insight Capture",
+        "anchor": "macro-2-stoic-insight-capture",
+        "line_number": 1127,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "💡 Insight Captured at {{TIME:HH:mm}}",
+        "anchor": "insight-captured-at-timehhmm",
+        "line_number": 1143,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "MACRO 3: Virtue Challenge Log",
+        "anchor": "macro-3-virtue-challenge-log",
+        "line_number": 1162,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "🎯 Virtue Challenge at {{TIME:HH:mm}}",
+        "anchor": "virtue-challenge-at-timehhmm",
+        "line_number": 1178,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 COMPONENT 3: ANALYTICS DASHBOARD SYSTEM",
+        "anchor": "component-3-analytics-dashboard-system",
+        "line_number": 1199,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "File: `Stoic-Analytics/Virtue-Tracker-Dashboard.md`",
+        "anchor": "file-stoic-analyticsvirtue-tracker-dashboardmd",
+        "line_number": 1201,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 1,
+        "text": "🏛️ Stoic Virtue Development Dashboard",
+        "anchor": "stoic-virtue-development-dashboard",
+        "line_number": 1212,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "📈 VIRTUE SCORE TRAJECTORIES (30-Day View)",
+        "anchor": "virtue-score-trajectories-30-day-view",
+        "line_number": 1219,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Wisdom Development Curve",
+        "anchor": "wisdom-development-curve",
+        "line_number": 1221,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Four Virtues Comparison (Last 7 Days)",
+        "anchor": "four-virtues-comparison-last-7-days",
+        "line_number": 1258,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 PRACTICE COMPLETION METRICS",
+        "anchor": "practice-completion-metrics",
+        "line_number": 1290,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Monthly Stoic Completeness Rate",
+        "anchor": "monthly-stoic-completeness-rate",
+        "line_number": 1292,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Component Breakdown",
+        "anchor": "component-breakdown",
+        "line_number": 1317,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🧠 COGNITIVE PATTERN ANALYSIS",
+        "anchor": "cognitive-pattern-analysis",
+        "line_number": 1334,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Distortion Frequency Heatmap",
+        "anchor": "distortion-frequency-heatmap",
+        "line_number": 1336,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Emotional Landscape",
+        "anchor": "emotional-landscape",
+        "line_number": 1356,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "📚 PKB INTEGRATION HEALTH",
+        "anchor": "pkb-integration-health",
+        "line_number": 1371,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Concept Engagement Tracking",
+        "anchor": "concept-engagement-tracking",
+        "line_number": 1373,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Domain Focus Distribution",
+        "anchor": "domain-focus-distribution",
+        "line_number": 1387,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 VIRTUE FOCUS OPTIMIZATION",
+        "anchor": "virtue-focus-optimization",
+        "line_number": 1421,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Most/Least Practiced Virtues",
+        "anchor": "mostleast-practiced-virtues",
+        "line_number": 1423,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 RELATED DASHBOARDS",
+        "anchor": "related-dashboards",
+        "line_number": 1467,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🛠️ COMPONENT 4: META BIND BUTTON LIBRARY",
+        "anchor": "component-4-meta-bind-button-library",
+        "line_number": 1481,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Maturity Progression Buttons",
+        "anchor": "maturity-progression-buttons",
+        "line_number": 1483,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "🌱 Note Maturity Controls",
+        "anchor": "note-maturity-controls",
+        "line_number": 1488,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🎓 IMPLEMENTATION GUIDE",
+        "anchor": "implementation-guide",
+        "line_number": 1539,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 1: Template Installation (30 minutes)",
+        "anchor": "phase-1-template-installation-30-minutes",
+        "line_number": 1541,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 2: QuickAdd Macro Setup (20 minutes)",
+        "anchor": "phase-2-quickadd-macro-setup-20-minutes",
+        "line_number": 1565,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 3: Dashboard Creation (15 minutes)",
+        "anchor": "phase-3-dashboard-creation-15-minutes",
+        "line_number": 1580,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Phase 4: First Daily Practice (30 minutes)",
+        "anchor": "phase-4-first-daily-practice-30-minutes",
+        "line_number": 1589,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🔧 TROUBLESHOOTING GUIDE",
+        "anchor": "troubleshooting-guide",
+        "line_number": 1622,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Issue 1: Template Variables Not Populating",
+        "anchor": "issue-1-template-variables-not-populating",
+        "line_number": 1624,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Issue 2: Meta Bind Buttons Not Rendering",
+        "anchor": "issue-2-meta-bind-buttons-not-rendering",
+        "line_number": 1634,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Issue 3: Dataview Queries Returning Empty Results",
+        "anchor": "issue-3-dataview-queries-returning-empty-results",
+        "line_number": 1645,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Issue 4: QuickAdd Macros Not Capturing to Correct Location",
+        "anchor": "issue-4-quickadd-macros-not-capturing-to-correct-location",
+        "line_number": 1654,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 ADVANCED CUSTOMIZATION OPTIONS",
+        "anchor": "advanced-customization-options",
+        "line_number": 1664,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Custom Virtue Tracking",
+        "anchor": "custom-virtue-tracking",
+        "line_number": 1665,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Integration with Spaced Repetition (Tasks Plugin)",
+        "anchor": "integration-with-spaced-repetition-tasks-plugin",
+        "line_number": 1684,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "📅 Concept Review Queue",
+        "anchor": "concept-review-queue",
+        "line_number": 1687,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "Weekly Stoic Synthesis Note",
+        "anchor": "weekly-stoic-synthesis-note",
+        "line_number": 1696,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 1,
+        "text": "🏛️ Week <%= tp.date.now(\"ww\") %> Stoic Synthesis",
+        "anchor": "week-stoic-synthesis",
+        "line_number": 1705,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "Virtue Patterns",
+        "anchor": "virtue-patterns",
+        "line_number": 1706,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "Key Insights",
+        "anchor": "key-insights",
+        "line_number": 1715,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "Behavioral Adjustments for Next Week",
+        "anchor": "behavioral-adjustments-for-next-week",
+        "line_number": 1716,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🎓 LEARNING OUTCOMES",
+        "anchor": "learning-outcomes",
+        "line_number": 1719,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 NEXT-LEVEL ENHANCEMENTS",
+        "anchor": "next-level-enhancements",
+        "line_number": 1727,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "1. **AI-Assisted Reflection Analysis**",
+        "anchor": "1-ai-assisted-reflection-analysis",
+        "line_number": 1728,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "2. **Cross-Vault Stoic Community**",
+        "anchor": "2-cross-vault-stoic-community",
+        "line_number": 1730,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "3. **Automated Literature Connection**",
+        "anchor": "3-automated-literature-connection",
+        "line_number": 1732,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "4. **Gamification Layer**",
+        "anchor": "4-gamification-layer",
+        "line_number": 1734,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 3,
+        "text": "5. **Multi-Modal Journaling**",
+        "anchor": "5-multi-modal-journaling",
+        "line_number": 1736,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "level": 2,
+        "text": "🏛️ STOIC WISDOM FOR THE JOURNEY",
+        "anchor": "stoic-wisdom-for-the-journey",
+        "line_number": 1739,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataviewjs",
+        "code": "> // SYSTEM: Semantic Bridge Engine\n> // PURPOSE: Find \"Sibling\" notes that share the same Outlinks (Contexts)\n> const current = dv.current();\n> const myOutlinks = current.file.outlinks.map(l => l.path);\n> \n> // 1. Filter the Vault\n> const siblings = dv.pages()\n>     .where(p => p.file.path !== current.file.path) // Exclude self\n>     .where(p => !current.file.outlinks.map(l => l.path).includes(p.file.path)) // Exclude existing direct links\n>     .map(p => {\n>         // Find overlap between this page's links and the current page's links\n>         const shared = p.file.outlinks.filter(l => myOutlinks.includes(l.path));\n>         return { \n>             link: p.file.link, \n>             sharedCount: shared.length, \n>             sharedLinks: shared \n>         };\n>     })\n>     .where(p => p.sharedCount > 0) // Must share at least 1 connection\n>     .sort(p => p.sharedCount, \"desc\") // Sort by strongest connection\n>     .limit(5); // Only show top 5\n> \n> // 2. Render the Bridge\n> if (siblings.length > 0) {\n>     dv.header(3, \"Semantic Bridges (Missing Connections)\");\n>     dv.table(\n>         [\"Sibling Note\", \"Strength\", \"Shared Context\"], \n>         siblings.map(s => [\n>             s.link, \n>             \"🔗\" + s.sharedCount, \n>             s.sharedLinks.slice(0, 3).join(\", \") + (s.sharedCount > 3 ? \"…\" : \"\")\n>         ])\n>     );\n> } else {\n>     dv.paragraph(\"*No semantic siblings found. This note is unique in its connections.*\");\n> }\n>",
+        "line_start": 65,
+        "line_end": 102,
+        "char_count": 1461,
+        "line_count": 37,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE type, maturity, confidence\nFROM  \"\"\nWHERE  type = \"reference\"\nSORT \"maturity\" DESC\nLIMIT 15",
+        "line_start": 106,
+        "line_end": 112,
+        "char_count": 97,
+        "line_count": 5,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    source AS \"Source Type\",\n    file.ctime AS \"Date Added\"\nFROM \"\"\nWHERE source = \"claude-sonnet-4.5\"\nSORT file.ctime DESC\nLIMIT 10",
+        "line_start": 114,
+        "line_end": 122,
+        "char_count": 139,
+        "line_count": 7,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE \n    type AS \"Type\",\n    maturity AS \"Maturity\",\n    created AS \"Created\"\nFROM [[#]]\nSORT created DESC\nLIMIT 15",
+        "line_start": 124,
+        "line_end": 132,
+        "char_count": 117,
+        "line_count": 7,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "Your Vault/\n├── Templates/\n│   ├── Daily-Note-Stoic-v2.md          # Main daily template\n│   ├── Stoic-Morning-Prep.md           # Morning section template\n│   ├── Stoic-Evening-Reflection.md     # Evening section template\n│   └── Quick-Captures/\n│       ├── Stoic-Insight-Capture.md\n│       ├── Cognitive-Distortion-Log.md\n│       └── Virtue-Challenge-Log.md\n├── Daily Notes/\n│   └── [YYYY-MM-DD format notes stored here]\n├── Stoic-Analytics/\n│   ├── Virtue-Tracker-Dashboard.md\n│   ├── Behavioral-Patterns-MOC.md\n│   └── Epistemic-Growth-Chart.md\n└── Scripts/\n    └── templater-scripts/\n        ├── stoic-tag-selector.js\n        ├── virtue-calculator.js\n        └── progress-tracker.js",
+        "line_start": 264,
+        "line_end": 285,
+        "char_count": 687,
+        "line_count": 20,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "markdown",
+        "code": "<%*\n/*\n═══════════════════════════════════════════════════════════════\nDAILY STOIC INTEGRATION TEMPLATE v2.0.0\n═══════════════════════════════════════════════════════════════\nCONSTITUTIONAL PRINCIPLE: This template creates cognitive-science-aligned\ndaily practice combining Stoic philosophy, metacognitive monitoring, and\nknowledge synthesis. Every component serves epistemic accountability.\nDEPENDENCIES: Templater, Dataview, Meta Bind, QuickAdd, Tasks, Charts\nMAINTENANCE: Self-documenting through embedded queries\nCOMPATIBILITY: Designed for Pur3v4d3r's 577-tag taxonomy architecture\n═══════════════════════════════════════════════════════════════\n*/\n// ═══════════════════════════════════════════════════════════\n// SECTION 1: TEMPORAL & IDENTITY METADATA\n// ═══════════════════════════════════════════════════════════\nconst today = tp.date.now(\"YYYY-MM-DD\");\nconst dayName = tp.date.now(\"dddd\");\nconst weekNum = tp.date.now(\"ww\");\nconst monthName = tp.date.now(\"MMMM YYYY\");\nconst yearNum = tp.date.now(\"YYYY\");\n// Calculate day number in current year\nconst startOfYear = tp.date.now(\"YYYY\") + \"-01-01\";\nconst dayOfYear = Math.floor((new Date(today) - new Date(startOfYear)) / (1000 * 60 * 60 * 24)) + 1;\n// ═══════════════════════════════════════════════════════════\n// SECTION 2: STOIC VIRTUE & FOCUS SELECTION\n// ═══════════════════════════════════════════════════════════\nconst virtues = [\n    \"Wisdom (σοφία) - Discernment and Right Judgment\",\n    \"Justice (δικαιοσύνη) - Fairness and Integrity\", \n    \"Courage (ἀνδρεία) - Resilience and Moral Fortitude\",\n    \"Temperance (σωφροσύνη) - Self-Discipline and Moderation\"\n];\nconst virtueChoice = await tp.system.suggester(\n    virtues,\n    [\"wisdom\", \"justice\", \"courage\", \"temperance\"],\n    false,\n    \"🏛️ SELECT TODAY'S CARDINAL VIRTUE FOCUS\"\n);\n// ═══════════════════════════════════════════════════════════\n// SECTION 3: COGNITIVE DOMAIN MAPPING (Your Tag Taxonomy)\n// ═══════════════════════════════════════════════════════════\nconst cognitiveDomainsDisplay = [\n    \"🧠 Metacognition & Self-Regulated Learning\",\n    \"🧩 Memory Systems & Encoding\",\n    \"👁️ Attention & Executive Function\",\n    \"💭 Reasoning & Problem-Solving\",\n    \"📚 Learning Theories & Models\",\n    \"🔗 Knowledge Architecture & PKB Design\"\n];\nconst cognitiveDomainsTags = [\n    \"cognitive-science/metacognition\",\n    \"cognitive-science/memory\",\n    \"cognitive-science/attention\",\n    \"cognitive-science/reasoning\",\n    \"cognitive-science/learning-theory\",\n    \"pkb/architecture\"\n];\nconst todaysFocus = await tp.system.suggester(\n    cognitiveDomainsDisplay,\n    cognitiveDomainsTags,\n    false,\n    \"🎯 SELECT TODAY'S COGNITIVE-EPISTEMIC FOCUS\"\n);\n// ═══════════════════════════════════════════════════════════\n// SECTION 4: MATURITY & STATUS TRACKING\n// ═══════════════════════════════════════════════════════════\nconst practiceMaturity = \"seedling\"; // Auto-increments based on completion\nconst epistemicConfidence = 3; // 1-10 scale, self-assessed in evening\n-%>\n---\ntags:\n  - type/daily-note\n  - status/active\n  - practice/stoicism\n  - practice/journaling\n  - metacognition/daily-monitoring\n  - <%= todaysFocus %>\n  - virtue/<%= virtueChoice %>\n  - year/<%= yearNum %>\n  - week/<%= weekNum %>\ndate: <%= today %>\nday-of-year: <%= dayOfYear %>\nvirtue-focus: <%= virtueChoice %>\ncognitive-focus: <%= todaysFocus %>\npractice-maturity: <%= practiceMaturity %>\nepistemic-confidence: <%= epistemicConfidence %>\nstoic-completeness: 0\naliases:\n  - Daily <%= dayName %> <%= today %>\n  - <%= monthName %> Day <%= dayOfYear %>\n---\n\n# 🏛️ <%= dayName %>, <%= tp.date.now(\"MMMM D, YYYY\") %>\n\n> [!quote] Daily Stoic Wisdom\n> *\"You have power over your mind—not outside events. Realize this, and you will find strength.\"*  \n> — Marcus Aurelius, *Meditations* 8.32\n\n**Today's Cardinal Virtue**: ==<%= virtueChoice.toUpperCase() %>==  \n**Cognitive Domain Focus**: ==<%= todaysFocus %>==  \n**Practice Day**: #<%= dayOfYear %> of <%= yearNum %>\n\n---\n\n## 🌅 MORNING PREPARATION - *Praemeditatio*\n\n> [!important] Morning Stoic Intention Setting\n> **Time Completed**: `VIEW[{morning-time}][text(class(time-input))]`  \n> **Completion Status**: `VIEW[{morning-complete}]`",
+        "line_start": 296,
+        "line_end": 408,
+        "char_count": 4172,
+        "line_count": 110,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### 🎯 The Dichotomy of Control\n\n> [!principle-point] Fundamental Stoic Distinction\n> **Within My Control** (*τὰ ἐφ' ἡμῖν*):  \n> - My judgments, opinions, interpretations\n> - My actions, choices, responses  \n> - My values, principles, character\n> - My effort, attention, discipline\n>\n> **Outside My Control** (*τὰ οὐκ ἐφ' ἡμῖν*):  \n> - Others' opinions, actions, judgments\n> - External outcomes, results, consequences\n> - Past events, future uncertainties\n> - Natural processes, cosmic order\n\n#### Today's Controllable Focus Areas",
+        "line_start": 426,
+        "line_end": 445,
+        "char_count": 529,
+        "line_count": 16,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "#### Potential External Challenges (To Accept)",
+        "line_start": 447,
+        "line_end": 451,
+        "char_count": 46,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### 🛡️ Premeditatio Malorum - *Negative Visualization*\n\n> [!thought-experiment] Preparing for Adversity\n> **What difficulties might today present?** Visualize potential obstacles not as catastrophes but as opportunities to practice virtue.",
+        "line_start": 453,
+        "line_end": 462,
+        "char_count": 244,
+        "line_count": 6,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**How will I respond with <%= virtueChoice %>?**",
+        "line_start": 464,
+        "line_end": 468,
+        "char_count": 48,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### 💎 Implementation Intentions - *Specific Commitments*\n\n> [!methodology-and-sources] Research-Based Behavior Planning\n> Implementation intentions follow the formula: \"If [SITUATION], then I will [RESPONSE].\" This creates automatic behavioral triggers that bypass willpower depletion.\n\n**If-Then Commitment #1:**",
+        "line_start": 470,
+        "line_end": 481,
+        "char_count": 318,
+        "line_count": 8,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**If-Then Commitment #2:**",
+        "line_start": 483,
+        "line_end": 487,
+        "char_count": 26,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**If-Then Commitment #3:**",
+        "line_start": 489,
+        "line_end": 493,
+        "char_count": 26,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### 📚 Knowledge Integration Intention\n\n> [!key-claim] Epistemic Accountability Checkpoint\n> **Which concepts from my PKB will I actively engage with today?**",
+        "line_start": 495,
+        "line_end": 504,
+        "char_count": 162,
+        "line_count": 6,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Selected for Today's Integration:**",
+        "line_start": 514,
+        "line_end": 518,
+        "char_count": 37,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## ⚙️ DAILY ACTIVITIES & COGNITIVE CAPTURES\n\n### 📋 Task Management Integration",
+        "line_start": 520,
+        "line_end": 528,
+        "char_count": 83,
+        "line_count": 5,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 533,
+        "line_end": 535,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### 🧠 Cognitive Snapshots - *Throughout the Day*\n\n> [!helpful-tip] Metacognitive Monitoring Protocol\n> Use these capture points to externalize judgments and emotional reactions as they occur. Each snapshot creates data for evening analysis.",
+        "line_start": 542,
+        "line_end": 551,
+        "char_count": 245,
+        "line_count": 6,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 558,
+        "line_end": 560,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 567,
+        "line_end": 569,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "#### Today's Captured Moments",
+        "line_start": 576,
+        "line_end": 580,
+        "char_count": 29,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### 📝 Free-Form Journal Space\n\n*Use this space for unstructured reflection throughout the day…*\n\n---\n\n## 🌙 EVENING REFLECTION - *Examen*\n\n> [!important] Evening Stoic Review\n> **Time Completed**: `VIEW[{evening-time}][text(class(time-input))]`  \n> **Completion Status**: `VIEW[{evening-complete}]`",
+        "line_start": 586,
+        "line_end": 602,
+        "char_count": 302,
+        "line_count": 13,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### 🔍 Judgment Analysis - *Identifying Cognitive Content*\n\n> [!definition] The Stoic Core Insight\n> **Events themselves are neutral.** Only our *judgments* about events create suffering or joy. This section externalizes those judgments for rational examination.\n\n#### Significant Events of the Day\n\n**Event 1** (Factual Description):",
+        "line_start": 620,
+        "line_end": 633,
+        "char_count": 338,
+        "line_count": 10,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**My Initial Judgment**:",
+        "line_start": 635,
+        "line_end": 639,
+        "char_count": 24,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Was this within my control?**: `VIEW[{event-1-controllable}]`",
+        "line_start": 641,
+        "line_end": 645,
+        "char_count": 63,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 652,
+        "line_end": 654,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Rational Reframe** (Stoic Perspective):",
+        "line_start": 661,
+        "line_end": 665,
+        "char_count": 41,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n**Event 2** (Factual Description):",
+        "line_start": 667,
+        "line_end": 673,
+        "char_count": 39,
+        "line_count": 3,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**My Initial Judgment**:",
+        "line_start": 675,
+        "line_end": 679,
+        "char_count": 24,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Was this within my control?**: `VIEW[{event-2-controllable}]`",
+        "line_start": 681,
+        "line_end": 685,
+        "char_count": 63,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 692,
+        "line_end": 694,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Rational Reframe** (Stoic Perspective):",
+        "line_start": 701,
+        "line_end": 705,
+        "char_count": 41,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### ⚖️ Virtue Assessment - *Character Examination*\n\n> [!key-claim] Daily Virtue Audit\n> **Cardinal Virtue Focus**: <%= virtueChoice %>\n\n#### How did I embody today's virtue focus?\n\n**Successes** (Where I acted with <%= virtueChoice %>):",
+        "line_start": 707,
+        "line_end": 720,
+        "char_count": 241,
+        "line_count": 10,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Failures** (Where I fell short):",
+        "line_start": 722,
+        "line_end": 726,
+        "char_count": 34,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Specific Improvement for Tomorrow**:",
+        "line_start": 728,
+        "line_end": 732,
+        "char_count": 38,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n#### The Four Cardinal Virtues - Self-Assessment\n\n**Wisdom (σοφία)**: `VIEW[{wisdom-score}][slider(class(virtue-slider), minValue(1), maxValue(10))]`",
+        "line_start": 734,
+        "line_end": 742,
+        "char_count": 154,
+        "line_count": 5,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Justice (δικαιοσύνη)**: `VIEW[{justice-score}][slider(class(virtue-slider), minValue(1), maxValue(10))]`",
+        "line_start": 750,
+        "line_end": 754,
+        "char_count": 106,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Courage (ἀνδρεία)**: `VIEW[{courage-score}][slider(class(virtue-slider), minValue(1), maxValue(10))]`",
+        "line_start": 762,
+        "line_end": 766,
+        "char_count": 103,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Temperance (σωφροσύνη)**: `VIEW[{temperance-score}][slider(class(virtue-slider), minValue(1), maxValue(10))]`",
+        "line_start": 774,
+        "line_end": 778,
+        "char_count": 111,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### 📊 Emotional Inventory - *Affective Awareness*\n\n> [!methodology-and-sources] Emotional Regulation Through Externalization\n> Research shows that labeling emotions ([[Affect Labeling]]) reduces amygdala activity and enhances prefrontal control. This section transforms vague feelings into precise linguistic categories.\n\n**When did I experience strong emotions today?**\n\n**Emotion 1**: `VIEW[{emotion-1-type}]`",
+        "line_start": 786,
+        "line_end": 799,
+        "char_count": 416,
+        "line_count": 10,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Triggering Thought**:",
+        "line_start": 801,
+        "line_end": 805,
+        "char_count": 23,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**Intensity**: `VIEW[{emotion-1-intensity}][progressBar(class(emotion-bar))]`",
+        "line_start": 807,
+        "line_end": 811,
+        "char_count": 77,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### 🎓 Lesson Extraction - *Epistemic Growth*\n\n> [!key-claim] Knowledge Synthesis Checkpoint\n> **What did I learn today about myself, others, or effective action?**\n\n#### Cognitive-Epistemic Lessons",
+        "line_start": 818,
+        "line_end": 829,
+        "char_count": 202,
+        "line_count": 8,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "#### Behavioral Insights",
+        "line_start": 831,
+        "line_end": 835,
+        "char_count": 24,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "#### PKB Integration Reflections\n\n**Did I engage with my target concept?**: `VIEW[{pkb-engagement}]`",
+        "line_start": 837,
+        "line_end": 843,
+        "char_count": 100,
+        "line_count": 3,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 855,
+        "line_end": 857,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "**How did today's experiences relate to existing knowledge?**",
+        "line_start": 865,
+        "line_end": 869,
+        "char_count": 61,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### 🔮 Tomorrow's Commitment\n\n> [!important] Prospective Planning\n> Based on today's reflection, what specific intention will guide tomorrow?",
+        "line_start": 871,
+        "line_end": 880,
+        "char_count": 145,
+        "line_count": 6,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 882,
+        "line_end": 884,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 📊 DAILY ANALYTICS DASHBOARD\n\n> [!abstract] Self-Documenting Progress Metrics\n> These queries auto-generate from your daily practice, creating zero-maintenance analytics.\n\n### Practice Completion Tracker\n\n**Today's Stoic Practice Completeness**: `VIEW[{stoic-completeness}][progressBar(class(completion-bar))]`",
+        "line_start": 899,
+        "line_end": 912,
+        "char_count": 317,
+        "line_count": 10,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### Virtue Development Trajectory",
+        "line_start": 932,
+        "line_end": 938,
+        "char_count": 38,
+        "line_count": 3,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### 7-Day Stoic Practice Streak",
+        "line_start": 959,
+        "line_end": 965,
+        "char_count": 36,
+        "line_count": 3,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n### PKB Integration Patterns",
+        "line_start": 990,
+        "line_end": 996,
+        "char_count": 33,
+        "line_count": 3,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 🔗 RELATED DAILY NOTES\n\n### Previous & Next Days\n\n⬅️ [[<%= tp.date.now(\"YYYY-MM-DD\", -1, tp.file.title) %>|Yesterday]]  \n➡️ [[<%= tp.date.now(\"YYYY-MM-DD\", 1, tp.file.title) %>|Tomorrow]]\n\n### This Week's Daily Notes",
+        "line_start": 1005,
+        "line_end": 1018,
+        "char_count": 223,
+        "line_count": 10,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 🎯 KNOWLEDGE GRAPH CONNECTIONS\n\n> [!key-claim] Bidirectional Epistemic Linking\n> These automatic queries discover connections between today's practice and your broader PKB.\n\n### Related Stoic Concepts",
+        "line_start": 1023,
+        "line_end": 1034,
+        "char_count": 207,
+        "line_count": 8,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Related Cognitive Science Concepts",
+        "line_start": 1040,
+        "line_end": 1044,
+        "char_count": 38,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---",
+        "line_start": 1050,
+        "line_end": 1054,
+        "char_count": 3,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n*This daily note is part of the **Daily Stoic Integration System v2.0.0** designed for cognitive-science-aligned personal knowledge building.*",
+        "line_start": 1060,
+        "line_end": 1065,
+        "char_count": 147,
+        "line_count": 3,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "markdown",
+        "code": "### 🧠 Cognitive Distortion Logged at {{TIME:HH:mm}}\n\n**Situation**: {{VALUE:Describe the situation}}\n\n**Automatic Thought**: {{VALUE:What did you immediately think?}}\n\n**Distortion Type**: {{VALUE:catastrophizing|black-and-white|overgeneralization|mind-reading|emotional-reasoning|should-statements}}\n\n**Evidence For**: {{VALUE:What supports this thought?}}\n\n**Evidence Against**: {{VALUE:What contradicts it?}}\n\n**Balanced Reframe**: {{VALUE:What's a more rational perspective?}}\n\n---\ntags: #capture/distortion #cognitive-bias #metacognition/monitoring\n---",
+        "line_start": 1101,
+        "line_end": 1119,
+        "char_count": 557,
+        "line_count": 17,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "markdown",
+        "code": "### 💡 Insight Captured at {{TIME:HH:mm}}\n\n**Core Realization**: {{VALUE:What Stoic principle became clear?}}\n\n**Situation That Triggered It**: {{VALUE:What prompted this insight?}}\n\n**Application**: {{VALUE:How will you apply this going forward?}}\n\n**Related Concepts**: [[{{VALUE:Link to PKB concepts}}]]\n\n---\ntags: #capture/insight #stoicism/practice #wisdom\n---",
+        "line_start": 1142,
+        "line_end": 1156,
+        "char_count": 364,
+        "line_count": 13,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "markdown",
+        "code": "### 🎯 Virtue Challenge at {{TIME:HH:mm}}\n\n**Virtue Tested**: {{VALUE:wisdom|justice|courage|temperance}}\n\n**The Challenge**: {{VALUE:What situation tested this virtue?}}\n\n**My Response**: {{VALUE:How did you actually respond?}}\n\n**Virtue Alignment**: {{VALUE:1-10 scale - How well did you embody the virtue?}}\n\n**What I Learned**: {{VALUE:Key takeaway for future similar situations}}\n\n---\ntags: #capture/virtue-challenge #character-development #applied-stoicism\n---",
+        "line_start": 1177,
+        "line_end": 1193,
+        "char_count": 465,
+        "line_count": 15,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntags:\n  - type/dashboard\n  - analytics/stoic-practice\n  - virtuem/tracking\n  - pkb/components/dashboards\n---\n\n# 🏛️ Stoic Virtue Development Dashboard\n\n> [!abstract] Purpose\n> Longitudinal tracking of cardinal virtue cultivation through daily practice metrics. This dashboard auto-updates from daily note metadata to reveal behavioral patterns and epistemic growth trajectories.\n\n---\n\n## 📈 VIRTUE SCORE TRAJECTORIES (30-Day View)\n\n### Wisdom Development Curve",
+        "line_start": 1203,
+        "line_end": 1223,
+        "char_count": 462,
+        "line_count": 18,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Four Virtues Comparison (Last 7 Days)",
+        "line_start": 1256,
+        "line_end": 1260,
+        "char_count": 41,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 🎯 PRACTICE COMPLETION METRICS\n\n### Monthly Stoic Completeness Rate",
+        "line_start": 1286,
+        "line_end": 1294,
+        "char_count": 74,
+        "line_count": 5,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Component Breakdown",
+        "line_start": 1315,
+        "line_end": 1319,
+        "char_count": 23,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 🧠 COGNITIVE PATTERN ANALYSIS\n\n### Distortion Frequency Heatmap",
+        "line_start": 1330,
+        "line_end": 1338,
+        "char_count": 70,
+        "line_count": 5,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Emotional Landscape",
+        "line_start": 1354,
+        "line_end": 1358,
+        "char_count": 23,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 📚 PKB INTEGRATION HEALTH\n\n### Concept Engagement Tracking",
+        "line_start": 1367,
+        "line_end": 1375,
+        "char_count": 65,
+        "line_count": 5,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Domain Focus Distribution",
+        "line_start": 1385,
+        "line_end": 1389,
+        "char_count": 29,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 🎯 VIRTUE FOCUS OPTIMIZATION\n\n### Most/Least Practiced Virtues",
+        "line_start": 1417,
+        "line_end": 1425,
+        "char_count": 69,
+        "line_count": 5,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "---\n\n## 🔗 RELATED DASHBOARDS\n\n- [[Behavioral-Patterns-MOC]] - Cross-domain pattern analysis\n- [[Epistemic-Growth-Chart]] - Knowledge maturity tracking\n- [[Stoic-Insights-MOC]] - Curated wisdom collection\n\n---\n\n*Last Updated: `= date(today)`*  \n*Auto-refreshes on dashboard view*",
+        "line_start": 1463,
+        "line_end": 1477,
+        "char_count": 278,
+        "line_count": 12,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "markdown",
+        "code": "### 🌱 Note Maturity Controls\n\n`VIEW[{maturity}]`",
+        "line_start": 1487,
+        "line_end": 1492,
+        "char_count": 48,
+        "line_count": 3,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1501,
+        "line_end": 1503,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1512,
+        "line_end": 1514,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1523,
+        "line_end": 1525,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1534,
+        "line_end": 1535,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "markdown",
+        "code": "**Humility**: `VIEW[{humility-score}][slider(class(virtue-slider), minValue(1), maxValue(10))]`",
+        "line_start": 1667,
+        "line_end": 1669,
+        "char_count": 95,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1677,
+        "line_end": 1678,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "javascript",
+        "code": "humility: last7.array().map(p => p[\"humility-score\"] || 0).reduce((a,b) => a+b, 0) / last7.length",
+        "line_start": 1680,
+        "line_end": 1682,
+        "char_count": 97,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "markdown",
+        "code": "### 📅 Concept Review Queue",
+        "line_start": 1686,
+        "line_end": 1688,
+        "char_count": 26,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 1693,
+        "line_end": 1694,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "language": "markdown",
+        "code": "---\ntags:\n  - type/weekly-review\n  - practice/stoicism\n  - synthesis\n---\n# 🏛️ Week <%= tp.date.now(\"ww\") %> Stoic Synthesis\n## Virtue Patterns",
+        "line_start": 1698,
+        "line_end": 1707,
+        "char_count": 142,
+        "line_count": 8,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "Word Count",
+        "definition": "`= this.file.size`",
+        "line_number": 54,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "term": "Est. Read Time",
+        "definition": "`= round(this.file.size / 1300) + \" min\"`",
+        "line_number": 54,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "term": "Depth Class",
+        "definition": "`= choice(this.file.size < 500, \"🌱Stub\", choice(this.file.size < 2000, \"📄Note\", \"📜Essay\"))`",
+        "line_number": 55,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "term": "Created",
+        "definition": "`= this.file.ctime`",
+        "line_number": 58,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "term": "Age",
+        "definition": "`= (date(today) - this.file.ctime).days + \" days\"`",
+        "line_number": 58,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "term": "Last Touch",
+        "definition": "`= this.file.mtime`",
+        "line_number": 59,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "term": "Staleness",
+        "definition": "`= choice((date(today) - this.file.mtime).days > 180, \"🕸️Cobwebs\", choice((date(today) - this.file.mtime).days > 30, \"🍂Cold\", \"🔥Fresh\"))`",
+        "line_number": 59,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "term": "Touch Frequency",
+        "definition": "`= choice((date(today) - this.file.mtime).days < 7, \"🔥Active\", choice((date(today) - this.file.mtime).days < 30, \"👌Regular\", \"❄️Dormant\"))`",
+        "line_number": 60,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "term": "In-Links",
+        "definition": "`= length(this.file.inlinks)`",
+        "line_number": 63,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "term": "Out-Links",
+        "definition": "`= length(this.file.outlinks)`",
+        "line_number": 63,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "term": "Network Status",
+        "definition": "`= choice(length(this.file.inlinks) = 0, \"🕸️Orphan\", choice(length(this.file.inlinks) > 5, \"⚡ Hub\", \"🌱Node\"))`",
+        "line_number": 64,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      }
+    ],
+    "mermaid_diagrams": [
+      {
+        "diagram_code": "graph TB\n    A[Daily Note Template] --> B[Morning Stoic Preparation]\n    A --> C[Day's Activities Tracking]\n    A --> D[Evening Stoic Reflection]\n    A --> E[Knowledge Integration]\n    A --> F[Progress Analytics]\n    \n    B --> B1[Virtue Intention Setting]\n    B --> B2[Premeditatio Malorum]\n    B --> B3[Control Dichotomy]\n    \n    C --> C1[Task Management]\n    C --> C2[Event Logging]\n    C --> C3[Cognitive Snapshots]\n    \n    D --> D1[Judgment Analysis]\n    D --> D2[Virtue Assessment]\n    D --> D3[Lesson Extraction]\n    \n    E --> E1[PKB Connection Scanner]\n    E --> E2[Concept Maturity Tracker]\n    E --> E3[Domain Progress Viewer]\n    \n    F --> F1[Stoic Practice Metrics]\n    F --> F2[Behavioral Pattern Charts]\n    F --> F3[Knowledge Growth Dashboard]\n    \n    style A fill:#e1f5ff\n    style B fill:#fff4e1\n    style C fill:#f0f0f0\n    style D fill:#ffe1e1\n    style E fill:#e1ffe1\n    style F fill:#f4e1ff",
+        "diagram_type": "graph",
+        "line_start": 206,
+        "line_count": 33,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      }
+    ],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "Open Obsidian Settings (`Ctrl/Cmd + ,`)",
+          "indent_level": 0,
+          "line_number": 508,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Navigate to \"Community Plugins\" → \"QuickAdd\"",
+          "indent_level": 0,
+          "line_number": 509,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Click \"Manage Macros\"",
+          "indent_level": 0,
+          "line_number": 511,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Click \"Add Macro\" → Name it `Capture-Cognitive-Distortion`",
+          "indent_level": 0,
+          "line_number": 519,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Click \"Configure\" → \"Add Choice\" → Select \"Capture\"",
+          "indent_level": 0,
+          "line_number": 524,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Configure capture settings:",
+          "indent_level": 0,
+          "line_number": 530,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Create new macro `Capture-Stoic-Insight`",
+          "indent_level": 0,
+          "line_number": 552,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Add \"Capture\" choice",
+          "indent_level": 0,
+          "line_number": 554,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Create macro `Log-Virtue-Challenge`",
+          "indent_level": 0,
+          "line_number": 578,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Add \"Capture\" choice",
+          "indent_level": 0,
+          "line_number": 582,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Navigate to your `Templates/` folder",
+          "indent_level": 0,
+          "line_number": 929,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Create new file: `Daily-Note-Stoic-v2.md`",
+          "indent_level": 0,
+          "line_number": 936,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Copy the complete template code above",
+          "indent_level": 0,
+          "line_number": 939,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Save file",
+          "indent_level": 0,
+          "line_number": 940,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Settings → Periodic Notes → Daily Notes",
+          "indent_level": 0,
+          "line_number": 941,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Set **Template Location**: `Templates/Daily-Note-Stoic-v2.md`",
+          "indent_level": 0,
+          "line_number": 942,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Set **Folder Location**: `Daily Notes`",
+          "indent_level": 0,
+          "line_number": 943,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Set **Format**: `YYYY-MM-DD`",
+          "indent_level": 0,
+          "line_number": 946,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Click \"Save\"",
+          "indent_level": 0,
+          "line_number": 946,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Close any open daily notes",
+          "indent_level": 0,
+          "line_number": 948,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Click Periodic Notes ribbon icon",
+          "indent_level": 0,
+          "line_number": 948,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Verify template loads correctly",
+          "indent_level": 0,
+          "line_number": 951,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Check all Meta Bind buttons render",
+          "indent_level": 0,
+          "line_number": 952,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Verify Dataview queries execute",
+          "indent_level": 0,
+          "line_number": 953,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Cognitive Distortion Capture",
+          "indent_level": 0,
+          "line_number": 954,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Stoic Insight Capture",
+          "indent_level": 0,
+          "line_number": 955,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Virtue Challenge Log",
+          "indent_level": 0,
+          "line_number": 955,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Create `Stoic-Analytics/` folder",
+          "indent_level": 0,
+          "line_number": 966,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Create `Virtue-Tracker-Dashboard.md` file",
+          "indent_level": 0,
+          "line_number": 967,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Copy dashboard code from **COMPONENT 3**",
+          "indent_level": 0,
+          "line_number": 968,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Pin dashboard to sidebar for quick access",
+          "indent_level": 0,
+          "line_number": 969,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Open today's daily note (auto-creates from template)",
+          "indent_level": 0,
+          "line_number": 971,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Select virtue focus from dropdown",
+          "indent_level": 0,
+          "line_number": 974,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Select cognitive domain focus",
+          "indent_level": 0,
+          "line_number": 976,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Complete morning preparation section:",
+          "indent_level": 0,
+          "line_number": 977,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Click \"Mark Morning Complete\" button",
+          "indent_level": 0,
+          "line_number": 981,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Return to daily note",
+          "indent_level": 0,
+          "line_number": 989,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Complete evening reflection section:",
+          "indent_level": 0,
+          "line_number": 989,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Use virtue slider buttons to self-score",
+          "indent_level": 0,
+          "line_number": 999,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Click \"Mark Evening Complete\" button",
+          "indent_level": 0,
+          "line_number": 1001,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Click \"Finalize Evening Reflection\" button",
+          "indent_level": 0,
+          "line_number": 1002,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Settings → Templater → \"Trigger Templater on new file creation\" → Enable",
+          "indent_level": 0,
+          "line_number": 1016,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Settings → Templater → \"Automatic jump to cursor\" → Enable",
+          "indent_level": 0,
+          "line_number": 1021,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Reload Obsidian",
+          "indent_level": 0,
+          "line_number": 1027,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Delete test daily note and recreate",
+          "indent_level": 0,
+          "line_number": 1027,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Verify Meta Bind is enabled: Settings → Community Plugins",
+          "indent_level": 0,
+          "line_number": 1036,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Switch note to **Reading Mode** (buttons only work in reading mode)",
+          "indent_level": 0,
+          "line_number": 1036,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Check for syntax errors:",
+          "indent_level": 0,
+          "line_number": 1038,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Complete at least 2-3 daily notes to generate data",
+          "indent_level": 0,
+          "line_number": 1059,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Verify `\"Daily Notes\"` folder path matches your vault structure",
+          "indent_level": 0,
+          "line_number": 1064,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Check Dataview settings: Settings → Dataview → \"Enable JavaScript Queries\"",
+          "indent_level": 0,
+          "line_number": 1064,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Refresh note with `Ctrl/Cmd + R`",
+          "indent_level": 0,
+          "line_number": 1065,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Open a daily note in edit mode",
+          "indent_level": 0,
+          "line_number": 1072,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Copy exact header text from note (e.g., `## 🌙 EVENING REFLECTION`)",
+          "indent_level": 0,
+          "line_number": 1072,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Paste into QuickAdd macro \"Insert Location\" field",
+          "indent_level": 0,
+          "line_number": 1076,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Ensure \"Insert After\" is selected (not \"Insert At\")",
+          "indent_level": 0,
+          "line_number": 1078,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Test capture again",
+          "indent_level": 0,
+          "line_number": 1079,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "type: command",
+          "indent_level": 1,
+          "line_number": 246,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 269,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 271,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 276,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 301,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 303,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 310,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 313,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 316,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 320,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 327,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 337,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 338,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 343,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 355,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 357,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: command",
+          "indent_level": 1,
+          "line_number": 362,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 913,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 915,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 919,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 921,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "[ ] All three macros appear in QuickAdd settings",
+          "indent_level": 0,
+          "line_number": 955,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "[ ] Hotkeys assigned and functional",
+          "indent_level": 0,
+          "line_number": 956,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "[ ] Test each macro captures to correct location",
+          "indent_level": 0,
+          "line_number": 956,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "[ ] Template variables populate correctly",
+          "indent_level": 0,
+          "line_number": 956,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Dichotomy of control",
+          "indent_level": 1,
+          "line_number": 979,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Negative visualization",
+          "indent_level": 1,
+          "line_number": 979,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Implementation intentions",
+          "indent_level": 1,
+          "line_number": 980,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "PKB integration target",
+          "indent_level": 1,
+          "line_number": 980,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Use hotkeys to capture cognitive moments:",
+          "indent_level": 0,
+          "line_number": 981,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "`Ctrl/Cmd + Shift + D` for distortions",
+          "indent_level": 1,
+          "line_number": 985,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "`Ctrl/Cmd + Shift + I` for insights",
+          "indent_level": 1,
+          "line_number": 986,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "`Ctrl/Cmd + Shift + V` for virtue challenges",
+          "indent_level": 1,
+          "line_number": 987,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Judgment analysis (2+ events)",
+          "indent_level": 1,
+          "line_number": 994,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Virtue assessment",
+          "indent_level": 1,
+          "line_number": 996,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Emotional inventory",
+          "indent_level": 1,
+          "line_number": 998,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Lesson extraction",
+          "indent_level": 1,
+          "line_number": 998,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Tomorrow's commitment",
+          "indent_level": 1,
+          "line_number": 999,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Ensure code fence uses `meta-bind-button` language identifier",
+          "indent_level": 1,
+          "line_number": 1042,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Verify `bindTarget` matches frontmatter property name exactly (case-sensitive)",
+          "indent_level": 1,
+          "line_number": 1046,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "Confirm actions array has proper indentation",
+          "indent_level": 1,
+          "line_number": 1047,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 1090,
+          "source": "reference-instructional-daily-stoicism-2025120322.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "{icon} **",
+        "format": "inline",
+        "line_number": 890,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "expression": "{daysAbove75}/",
+        "format": "inline",
+        "line_number": 1284,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      },
+      {
+        "expression": "{bar}]",
+        "format": "inline",
+        "line_number": 1299,
+        "source": "reference-instructional-daily-stoicism-2025120322.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "<%= tp.date.now(\"YYYY-MM-DD\", -1, tp.file.title) %>",
+      "<%= tp.date.now(\"YYYY-MM-DD\", 1, tp.file.title) %>",
+      "Affect Labeling",
+      "Behavioral-Patterns-MOC",
+      "Daily Stoic Intergration System",
+      "Epictetus",
+      "Epistemic-Growth-Chart",
+      "Marcus Aurelius",
+      "Seneca",
+      "Stoic-Insights-MOC",
+      "Stoicism",
+      "Virtue Ethics",
+      "{{VALUE:Link to PKB concepts}}"
+    ],
+    "unique_wiki_link_count": 13,
+    "unique_tags": [
+      "#cognitive-science",
+      "#metacognition",
+      "#self-regulated-learning"
+    ],
+    "unique_tag_count": 3,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "<%= tp.date.now(\"YYYY-MM-DD\", -1, tp.file.title) %>",
+      "<%= tp.date.now(\"YYYY-MM-DD\", 1, tp.file.title) %>",
+      "Affect Labeling",
+      "Behavioral-Patterns-MOC",
+      "Daily Stoic Intergration System",
+      "Epictetus",
+      "Epistemic-Growth-Chart",
+      "Marcus Aurelius",
+      "Seneca",
+      "Stoic-Insights-MOC",
+      "Stoicism",
+      "Virtue Ethics",
+      "{{VALUE:Link to PKB concepts}}"
+    ]
+  }
+}

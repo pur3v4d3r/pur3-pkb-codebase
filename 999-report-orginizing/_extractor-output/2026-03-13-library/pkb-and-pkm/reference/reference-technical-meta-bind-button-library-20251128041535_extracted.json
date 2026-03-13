@@ -1,0 +1,555 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:31.154882",
+    "source_file": "reference-technical-meta-bind-button-library-20251128041535.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-technical-meta-bind-button-library-20251128041535.md",
+    "source_file_size_bytes": 5019,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Meta Bind",
+        "Meta-Bind"
+      ],
+      "maturity": "developing"
+    },
+    "word_count": 567,
+    "character_count": 4916,
+    "line_count": 336,
+    "heading_count": 18
+  },
+  "extraction_summary": {
+    "total_items_extracted": 42,
+    "by_type": {
+      "headings": 18,
+      "callouts": 0,
+      "wiki_links": 1,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 14,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 9,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 3,
+      "text": "Button Codeblock Label",
+      "anchor": "button-codeblock-label",
+      "line_number": 9,
+      "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "Blank Button Layout",
+      "anchor": "blank-button-layout",
+      "line_number": 14,
+      "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "Available Button Actions:",
+      "anchor": "available-button-actions",
+      "line_number": 32,
+      "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+      "children": []
+    },
+    {
+      "level": 3,
+      "text": "Available Button Actions:",
+      "anchor": "available-button-actions",
+      "line_number": 34,
+      "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "Note Maturity",
+      "anchor": "note-maturity",
+      "line_number": 46,
+      "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+      "children": []
+    },
+    {
+      "level": 2,
+      "text": "🌱 Development Status",
+      "anchor": "development-status",
+      "line_number": 48,
+      "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Maturity Seedling",
+          "anchor": "maturity-seedling",
+          "line_number": 58,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Button Template: maturity-seedling",
+      "anchor": "button-template-maturity-seedling",
+      "line_number": 61,
+      "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Maturity Budding",
+          "anchor": "maturity-budding",
+          "line_number": 104,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Button Template: maturity-budding",
+      "anchor": "button-template-maturity-budding",
+      "line_number": 107,
+      "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Maturity Developing",
+          "anchor": "maturity-developing",
+          "line_number": 151,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Button Template: maturity-developing",
+      "anchor": "button-template-maturity-developing",
+      "line_number": 154,
+      "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "Maturity Evergreen",
+          "anchor": "maturity-evergreen",
+          "line_number": 197,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Button Template: maturity-evergreen",
+      "anchor": "button-template-maturity-evergreen",
+      "line_number": 200,
+      "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Confidence Level Toggle",
+          "anchor": "confidence-level-toggle",
+          "line_number": 245,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📊 Epistemic Status",
+          "anchor": "epistemic-status",
+          "line_number": 247,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Confidence Speculative",
+              "anchor": "confidence-speculative",
+              "line_number": 254,
+              "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "Button Template: conf-speculative",
+      "anchor": "button-template-conf-speculative",
+      "line_number": 257,
+      "source": "reference-technical-meta-bind-button-library-20251128041535.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [],
+    "wiki_links": [
+      {
+        "target": "Templater",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Templater]]",
+        "line_number": 40,
+        "section": "Available Button Actions:",
+        "context_line": "- templaterCreateNote — Create notes using [[Templater]] templates",
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 3,
+        "text": "Button Codeblock Label",
+        "anchor": "button-codeblock-label",
+        "line_number": 9,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 3,
+        "text": "Blank Button Layout",
+        "anchor": "blank-button-layout",
+        "line_number": 14,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 3,
+        "text": "Available Button Actions:",
+        "anchor": "available-button-actions",
+        "line_number": 32,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 3,
+        "text": "Available Button Actions:",
+        "anchor": "available-button-actions",
+        "line_number": 34,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 2,
+        "text": "Note Maturity",
+        "anchor": "note-maturity",
+        "line_number": 46,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 2,
+        "text": "🌱 Development Status",
+        "anchor": "development-status",
+        "line_number": 48,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 3,
+        "text": "Maturity Seedling",
+        "anchor": "maturity-seedling",
+        "line_number": 58,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 1,
+        "text": "Button Template: maturity-seedling",
+        "anchor": "button-template-maturity-seedling",
+        "line_number": 61,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 3,
+        "text": "Maturity Budding",
+        "anchor": "maturity-budding",
+        "line_number": 104,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 1,
+        "text": "Button Template: maturity-budding",
+        "anchor": "button-template-maturity-budding",
+        "line_number": 107,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 3,
+        "text": "Maturity Developing",
+        "anchor": "maturity-developing",
+        "line_number": 151,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 1,
+        "text": "Button Template: maturity-developing",
+        "anchor": "button-template-maturity-developing",
+        "line_number": 154,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 3,
+        "text": "Maturity Evergreen",
+        "anchor": "maturity-evergreen",
+        "line_number": 197,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 1,
+        "text": "Button Template: maturity-evergreen",
+        "anchor": "button-template-maturity-evergreen",
+        "line_number": 200,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 2,
+        "text": "Confidence Level Toggle",
+        "anchor": "confidence-level-toggle",
+        "line_number": 245,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Epistemic Status",
+        "anchor": "epistemic-status",
+        "line_number": 247,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 3,
+        "text": "Confidence Speculative",
+        "anchor": "confidence-speculative",
+        "line_number": 254,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "level": 1,
+        "text": "Button Template: conf-speculative",
+        "anchor": "button-template-conf-speculative",
+        "line_number": 257,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "meta-bind-button",
+        "line_start": 10,
+        "line_end": 12,
+        "char_count": 16,
+        "line_count": 1,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "label: \"\"\nicon: \"\"\nstyle: default\nclass: \"\"\ncssStyle: \"\"\nbackgroundImage: \"\"\ntooltip: \"\"\nid: \"\"\nhidden: false\nactions:\n  - type: \"\"\n    bindTarget: maturity\n    evaluate: false\n    value: seedling",
+        "line_start": 15,
+        "line_end": 30,
+        "char_count": 196,
+        "line_count": 14,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Available Button Actions:\n- command — Execute any Obsidian command\n- js — Run JavaScript code\n- open — Open URLs or notes\n- sleep — Add delays in multi-action sequences\n- updateMetadata — Modify frontmatter properties\n- templaterCreateNote — Create notes using [[Templater]] templates\n- replaceInNote — Find and replace text operations\n- regexpReplaceInNote — Regex-based replacements\n- insertIntoNote — Insert content at specific positions",
+        "line_start": 33,
+        "line_end": 44,
+        "char_count": 444,
+        "line_count": 10,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "markdown",
+        "code": "## 🌱 Development Status\n\n**Current Maturity**: `VIEW[{maturity}]`\n\n`BUTTON[maturity-seedling]`\n`BUTTON[maturity-budding]`\n`BUTTON[maturity-developing]`\n`BUTTON[maturity-evergreen]`",
+        "line_start": 47,
+        "line_end": 57,
+        "char_count": 180,
+        "line_count": 8,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "# Button Template: maturity-seedling\nid: maturity-seedling\nlabel: 🌱 Seedling\nstyle: default\naction:\n  type: updateMetadata\n  bindTarget: maturity\n  evaluate: false\n  value: seedling\n  \n  label: Seedling\nicon: sprout\nstyle: default\nclass: \"\"\ncssStyle: \"\"\nbackgroundImage: \"\"\ntooltip: \"\"\nid: maturity-seedling\nhidden: false\nactions:\n  - type: updateMetadata\n    bindTarget: maturity\n    evaluate: false\n    value: seedling",
+        "line_start": 60,
+        "line_end": 85,
+        "char_count": 420,
+        "line_count": 24,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Maturity Budding",
+        "line_start": 102,
+        "line_end": 106,
+        "char_count": 20,
+        "line_count": 1,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 132,
+        "line_end": 134,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Maturity Developing",
+        "line_start": 149,
+        "line_end": 153,
+        "char_count": 23,
+        "line_count": 1,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 178,
+        "line_end": 180,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Maturity Evergreen",
+        "line_start": 195,
+        "line_end": 199,
+        "char_count": 22,
+        "line_count": 1,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 224,
+        "line_end": 226,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "------\n\n## Confidence Level Toggle",
+        "line_start": 241,
+        "line_end": 246,
+        "char_count": 34,
+        "line_count": 3,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "### Confidence Speculative",
+        "line_start": 252,
+        "line_end": 256,
+        "char_count": 26,
+        "line_count": 1,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "",
+        "line_start": 281,
+        "line_end": 283,
+        "char_count": 0,
+        "line_count": 1,
+        "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 35,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 47,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 61,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 87,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 104,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 134,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 151,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 192,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+        },
+        {
+          "text": "type: updateMetadata",
+          "indent_level": 1,
+          "line_number": 210,
+          "source": "reference-technical-meta-bind-button-library-20251128041535.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Templater"
+    ],
+    "unique_wiki_link_count": 1,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Templater"
+    ]
+  }
+}

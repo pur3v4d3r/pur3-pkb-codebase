@@ -1,0 +1,604 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:06.004315",
+    "source_file": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md",
+    "source_file_size_bytes": 12286,
+    "processing_time_seconds": 0.002
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "First Principles Topics for Self Regulated Learning",
+      "id": "20251106-022228",
+      "type": "✍️topics",
+      "status": "⚡active",
+      "rating": "",
+      "source": "RSCA-v2.0🆔20251020224705",
+      "url": "",
+      "tags": [
+        "topic",
+        "topic/educational",
+        "topic/rsca",
+        "source/rsca",
+        "topic/"
+      ],
+      "aliases": [
+        "topics",
+        "topics/rsca",
+        "rsca"
+      ],
+      "link-up": "[[topics_moc]]",
+      "link-related": []
+    },
+    "word_count": 1529,
+    "character_count": 11910,
+    "line_count": 122,
+    "heading_count": 3
+  },
+  "extraction_summary": {
+    "total_items_extracted": 50,
+    "by_type": {
+      "headings": 3,
+      "callouts": 6,
+      "wiki_links": 27,
+      "inline_fields": 2,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 1,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 11,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "First-Principles Topics for Self-Regulated Learning",
+      "anchor": "first-principles-topics-for-self-regulated-learning",
+      "line_number": 26,
+      "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Further Exploration",
+      "anchor": "further-exploration",
+      "line_number": 85,
+      "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md",
+      "children": [
+        {
+          "level": 3,
+          "text": "🔗 Related Topics for PKB Expansion",
+          "anchor": "related-topics-for-pkb-expansion",
+          "line_number": 97,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "the-purpose",
+        "title": "Untitled",
+        "body": "This collection presents **four distinct First-Principles explorations** of [[Self-Regulated Learning]] (SRL). Each topic deconstructs a different foundational assumption that shapes how we understand, teach, and research self-regulation in learning contexts. These topics are designed to strip away conventional pedagogical wisdom and rebuild understanding from irreducible truths. Each exploration challenges a specific piece of \"common knowledge\" and reconstructs the concept from its atomic components.",
+        "line_number": 28,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md",
+        "char_start": 397,
+        "char_end": 923
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🧱 *First-Principles Thinking*: Deconstructing \"Self\" in Self-Regulated Learning",
+        "line_number": 35,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md",
+        "char_start": 940,
+        "char_end": 1037
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🧱 *First-Principles Thinking*: The Willpower Myth—Deconstructing Volitional Control in Learning",
+        "line_number": 48,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md",
+        "char_start": 2714,
+        "char_end": 2827
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🧱 *First-Principles Thinking*: Domain Generality vs. Specificity—Deconstructing the Unified SRL Skill",
+        "line_number": 61,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md",
+        "char_start": 4876,
+        "char_end": 4995
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "🧱 *First-Principles Thinking*: Conscious Metacognition vs. Implicit Regulation",
+        "line_number": 74,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md",
+        "char_start": 7002,
+        "char_end": 7098
+      },
+      {
+        "type": "further-exploration",
+        "title": "Untitled",
+        "body": "Recommended continued study:\n- **[[Embodied Cognition]] and SRL**: Explore how physical, sensorimotor processes shape self-regulatory capacity, moving beyond brain-centered models\n- **[[Distributed Cognition]] Theory**: Investigate how tools, artifacts, and socio-material arrangements participate in regulatory processes\n- **[[Complexity Theory]] and Learning**: Examine SRL as an emergent property of complex adaptive systems rather than a linear skill progression\n- **[[Cultural-Historical Activity Theory]] (CHAT)**: Analyze how cultural tools and social practices mediate self-regulatory development across different contexts\n- **[[Dual-Process Theories]]**: Study the interaction between System 1 (fast, automatic) and System 2 (slow, deliberate) processes in learning regulation",
+        "line_number": 87,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md",
+        "char_start": 9204,
+        "char_end": 10027
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated Learning]]",
+        "line_number": 29,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "> This collection presents **four distinct First-Principles explorations** of [[Self-Regulated Learning]] (SRL). Each topic deconstructs a different foundational assumption that shapes how we understand, teach, and research self-regulation in learning contexts. These topics are designed to strip away conventional pedagogical wisdom and rebuild understanding from irreducible truths. Each exploration challenges a specific piece of \"common knowledge\" and reconstructs the concept from its atomic components.",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated Learning]]",
+        "line_number": 42,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "Deconstruct the concept of [[Self-Regulated Learning]] from first principles by examining the foundational assumption embedded in the term \"self.\" Challenge the conventional framing that positions self-regulation as an individualistic, internalized cognitive process. Begin by identifying the atomic components: What is the \"self\" in self-regulated learning? Is it a bounded cognitive agent, a socially constructed identity, or an emergent property of person-environment interaction? Examine whether regulation is truly \"self\"-directed or whether it is distributively achieved through tools, social norms, cultural practices, and environmental affordances. Rebuild the concept of SRL by determining: (1) What are the irreducible elements of regulatory activity in learning? (2) Where does \"regulation\" actually occur—in the mind, in the interaction, or in the system? (3) What changes in our understanding of how to support learners when we shift from an individualist to a distributed or ecological model of self-regulation?",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated Learning]]",
+        "line_number": 55,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "Deconstruct the common assumption that [[Self-Regulated Learning]] is primarily a function of willpower, self-discipline, or \"grit.\" Challenge the folk-psychological narrative that frames poor self-regulation as a moral or motivational failing. Return to first principles by examining: What is the actual cognitive architecture underlying volitional control in learning? Investigate the roles of [[Executive Function]] (working memory, cognitive flexibility, inhibitory control), [[cognitive load]] theory, automaticity, and [[Habit Formation]]. Analyze whether \"willpower\" is a useful construct or whether it obscures more fundamental mechanisms like glucose metabolism, decision fatigue, and attention allocation. Rebuild the concept of self-regulation from these atomic truths, focusing on: (1) How can we describe regulatory behavior without invoking willpower? (2) What environmental and cognitive design principles emerge when we reframe self-regulation as the management of limited cognitive resources rather than the exertion of moral effort? (3) How does this shift change educational practice, particularly for learners who have been labeled as \"lacking self-discipline\"?",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Executive Function",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Executive Function]]",
+        "line_number": 55,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "Deconstruct the common assumption that [[Self-Regulated Learning]] is primarily a function of willpower, self-discipline, or \"grit.\" Challenge the folk-psychological narrative that frames poor self-regulation as a moral or motivational failing. Return to first principles by examining: What is the actual cognitive architecture underlying volitional control in learning? Investigate the roles of [[Executive Function]] (working memory, cognitive flexibility, inhibitory control), [[cognitive load]] theory, automaticity, and [[Habit Formation]]. Analyze whether \"willpower\" is a useful construct or whether it obscures more fundamental mechanisms like glucose metabolism, decision fatigue, and attention allocation. Rebuild the concept of self-regulation from these atomic truths, focusing on: (1) How can we describe regulatory behavior without invoking willpower? (2) What environmental and cognitive design principles emerge when we reframe self-regulation as the management of limited cognitive resources rather than the exertion of moral effort? (3) How does this shift change educational practice, particularly for learners who have been labeled as \"lacking self-discipline\"?",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "cognitive load",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[cognitive load]]",
+        "line_number": 55,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "Deconstruct the common assumption that [[Self-Regulated Learning]] is primarily a function of willpower, self-discipline, or \"grit.\" Challenge the folk-psychological narrative that frames poor self-regulation as a moral or motivational failing. Return to first principles by examining: What is the actual cognitive architecture underlying volitional control in learning? Investigate the roles of [[Executive Function]] (working memory, cognitive flexibility, inhibitory control), [[cognitive load]] theory, automaticity, and [[Habit Formation]]. Analyze whether \"willpower\" is a useful construct or whether it obscures more fundamental mechanisms like glucose metabolism, decision fatigue, and attention allocation. Rebuild the concept of self-regulation from these atomic truths, focusing on: (1) How can we describe regulatory behavior without invoking willpower? (2) What environmental and cognitive design principles emerge when we reframe self-regulation as the management of limited cognitive resources rather than the exertion of moral effort? (3) How does this shift change educational practice, particularly for learners who have been labeled as \"lacking self-discipline\"?",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Habit Formation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Habit Formation]]",
+        "line_number": 55,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "Deconstruct the common assumption that [[Self-Regulated Learning]] is primarily a function of willpower, self-discipline, or \"grit.\" Challenge the folk-psychological narrative that frames poor self-regulation as a moral or motivational failing. Return to first principles by examining: What is the actual cognitive architecture underlying volitional control in learning? Investigate the roles of [[Executive Function]] (working memory, cognitive flexibility, inhibitory control), [[cognitive load]] theory, automaticity, and [[Habit Formation]]. Analyze whether \"willpower\" is a useful construct or whether it obscures more fundamental mechanisms like glucose metabolism, decision fatigue, and attention allocation. Rebuild the concept of self-regulation from these atomic truths, focusing on: (1) How can we describe regulatory behavior without invoking willpower? (2) What environmental and cognitive design principles emerge when we reframe self-regulation as the management of limited cognitive resources rather than the exertion of moral effort? (3) How does this shift change educational practice, particularly for learners who have been labeled as \"lacking self-discipline\"?",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated Learning]]",
+        "line_number": 68,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "Deconstruct the foundational assumption that [[Self-Regulated Learning]] is a domain-general, transferable skill. Challenge the widespread educational practice of teaching \"learning strategies\" or \"study skills\" as generic competencies that students can apply across all subjects. Return to first principles by examining the empirical evidence: Do self-regulatory strategies actually transfer across learning domains? Investigate the relationship between [[domain knowledge]], [[procedural fluency]], and regulatory effectiveness. Analyze whether successful self-regulation in mathematics requires fundamentally different metacognitive and strategic knowledge than self-regulation in history, writing, or laboratory science. Examine the concept of \"adaptive expertise\" and whether regulatory skill is inseparable from deep content knowledge. Rebuild understanding of SRL by answering: (1) What are the atomic components of regulatory competence, and which elements (if any) are truly domain-general? (2) How does domain expertise change the nature of self-regulatory processes? (3) What are the implications for curriculum design if SRL must be taught within, rather than separate from, disciplinary contexts?",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "domain knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[domain knowledge]]",
+        "line_number": 68,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "Deconstruct the foundational assumption that [[Self-Regulated Learning]] is a domain-general, transferable skill. Challenge the widespread educational practice of teaching \"learning strategies\" or \"study skills\" as generic competencies that students can apply across all subjects. Return to first principles by examining the empirical evidence: Do self-regulatory strategies actually transfer across learning domains? Investigate the relationship between [[domain knowledge]], [[procedural fluency]], and regulatory effectiveness. Analyze whether successful self-regulation in mathematics requires fundamentally different metacognitive and strategic knowledge than self-regulation in history, writing, or laboratory science. Examine the concept of \"adaptive expertise\" and whether regulatory skill is inseparable from deep content knowledge. Rebuild understanding of SRL by answering: (1) What are the atomic components of regulatory competence, and which elements (if any) are truly domain-general? (2) How does domain expertise change the nature of self-regulatory processes? (3) What are the implications for curriculum design if SRL must be taught within, rather than separate from, disciplinary contexts?",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "procedural fluency",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[procedural fluency]]",
+        "line_number": 68,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "Deconstruct the foundational assumption that [[Self-Regulated Learning]] is a domain-general, transferable skill. Challenge the widespread educational practice of teaching \"learning strategies\" or \"study skills\" as generic competencies that students can apply across all subjects. Return to first principles by examining the empirical evidence: Do self-regulatory strategies actually transfer across learning domains? Investigate the relationship between [[domain knowledge]], [[procedural fluency]], and regulatory effectiveness. Analyze whether successful self-regulation in mathematics requires fundamentally different metacognitive and strategic knowledge than self-regulation in history, writing, or laboratory science. Examine the concept of \"adaptive expertise\" and whether regulatory skill is inseparable from deep content knowledge. Rebuild understanding of SRL by answering: (1) What are the atomic components of regulatory competence, and which elements (if any) are truly domain-general? (2) How does domain expertise change the nature of self-regulatory processes? (3) What are the implications for curriculum design if SRL must be taught within, rather than separate from, disciplinary contexts?",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated Learning]]",
+        "line_number": 81,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "Deconstruct the foundational assumption that [[Self-Regulated Learning]] is primarily a conscious, deliberate, metacognitively aware process. Challenge the dominant paradigm in SRL research that relies heavily on self-report measures and think-aloud protocols, which by design only capture learners' explicit, verbalizable awareness of their regulatory activity. Return to first principles about human cognition: What proportion of skilled performance—including learning—occurs through implicit, automatic, or non-conscious processes? Investigate the role of [[procedural memory]], [[implicit learning]], automaticity, intuition, and \"feeling of knowing\" in regulatory activity. Examine whether expert learners actually engage in *less* conscious metacognitive monitoring than novices, having automated effective regulatory routines. Rebuild the concept of SRL by determining: (1) What are the atomic mechanisms of regulation, and which operate outside conscious awareness? (2) How do implicit and explicit regulatory processes interact during learning? (3) What are the measurement implications if much of effective self-regulation is non-conscious? (4) Should pedagogical interventions focus on making implicit regulation explicit, or on helping learners develop effective automatic regulatory routines?",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "procedural memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[procedural memory]]",
+        "line_number": 81,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "Deconstruct the foundational assumption that [[Self-Regulated Learning]] is primarily a conscious, deliberate, metacognitively aware process. Challenge the dominant paradigm in SRL research that relies heavily on self-report measures and think-aloud protocols, which by design only capture learners' explicit, verbalizable awareness of their regulatory activity. Return to first principles about human cognition: What proportion of skilled performance—including learning—occurs through implicit, automatic, or non-conscious processes? Investigate the role of [[procedural memory]], [[implicit learning]], automaticity, intuition, and \"feeling of knowing\" in regulatory activity. Examine whether expert learners actually engage in *less* conscious metacognitive monitoring than novices, having automated effective regulatory routines. Rebuild the concept of SRL by determining: (1) What are the atomic mechanisms of regulation, and which operate outside conscious awareness? (2) How do implicit and explicit regulatory processes interact during learning? (3) What are the measurement implications if much of effective self-regulation is non-conscious? (4) Should pedagogical interventions focus on making implicit regulation explicit, or on helping learners develop effective automatic regulatory routines?",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "implicit learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[implicit learning]]",
+        "line_number": 81,
+        "section": "First-Principles Topics for Self-Regulated Learning",
+        "context_line": "Deconstruct the foundational assumption that [[Self-Regulated Learning]] is primarily a conscious, deliberate, metacognitively aware process. Challenge the dominant paradigm in SRL research that relies heavily on self-report measures and think-aloud protocols, which by design only capture learners' explicit, verbalizable awareness of their regulatory activity. Return to first principles about human cognition: What proportion of skilled performance—including learning—occurs through implicit, automatic, or non-conscious processes? Investigate the role of [[procedural memory]], [[implicit learning]], automaticity, intuition, and \"feeling of knowing\" in regulatory activity. Examine whether expert learners actually engage in *less* conscious metacognitive monitoring than novices, having automated effective regulatory routines. Rebuild the concept of SRL by determining: (1) What are the atomic mechanisms of regulation, and which operate outside conscious awareness? (2) How do implicit and explicit regulatory processes interact during learning? (3) What are the measurement implications if much of effective self-regulation is non-conscious? (4) Should pedagogical interventions focus on making implicit regulation explicit, or on helping learners develop effective automatic regulatory routines?",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Embodied Cognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Embodied Cognition]]",
+        "line_number": 89,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Embodied Cognition]] and SRL**: Explore how physical, sensorimotor processes shape self-regulatory capacity, moving beyond brain-centered models",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Distributed Cognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Distributed Cognition]]",
+        "line_number": 90,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Distributed Cognition]] Theory**: Investigate how tools, artifacts, and socio-material arrangements participate in regulatory processes",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Complexity Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Complexity Theory]]",
+        "line_number": 91,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Complexity Theory]] and Learning**: Examine SRL as an emergent property of complex adaptive systems rather than a linear skill progression",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Cultural-Historical Activity Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cultural-Historical Activity Theory]]",
+        "line_number": 92,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Cultural-Historical Activity Theory]] (CHAT)**: Analyze how cultural tools and social practices mediate self-regulatory development across different contexts",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Dual-Process Theories",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Process Theories]]",
+        "line_number": 93,
+        "section": "Further Exploration",
+        "context_line": "> - **[[Dual-Process Theories]]**: Study the interaction between System 1 (fast, automatic) and System 2 (slow, deliberate) processes in learning regulation",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 99,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "* [[Metacognition]]",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Executive Function",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Executive Function]]",
+        "line_number": 100,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "* [[Executive Function]]",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 101,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "* [[Cognitive Load Theory]]",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Zimmerman Self-Regulated Learning Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zimmerman Self-Regulated Learning Model]]",
+        "line_number": 102,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "* [[Zimmerman Self-Regulated Learning Model]]",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Distributed Cognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Distributed Cognition]]",
+        "line_number": 103,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "* [[Distributed Cognition]]",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Domain-Specific Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Domain-Specific Knowledge]]",
+        "line_number": 104,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "* [[Domain-Specific Knowledge]]",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Implicit Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Implicit Learning]]",
+        "line_number": 105,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "* [[Implicit Learning]]",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Habit Formation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Habit Formation]]",
+        "line_number": 106,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "* [[Habit Formation]]",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Ecological Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ecological Psychology]]",
+        "line_number": 107,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "* [[Ecological Psychology]]",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "target": "Dual-Process Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Process Theory]]",
+        "line_number": 108,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "* [[Dual-Process Theory]]",
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "created",
+        "value": "2025-11-06",
+        "format": "bracket",
+        "line_number": 59,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "field_name": "completion",
+        "value": "2025-11-06",
+        "format": "bracket",
+        "line_number": 59,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "First-Principles Topics for Self-Regulated Learning",
+        "anchor": "first-principles-topics-for-self-regulated-learning",
+        "line_number": 26,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "level": 1,
+        "text": "Further Exploration",
+        "anchor": "further-exploration",
+        "line_number": 85,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      },
+      {
+        "level": 3,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 97,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "<thinking>\nThe user is asking me to generate topics specifically for the First-Principles Thinking pedagogical scaffold, focused on Self-Regulated Learning (SRL). \n\nLet me first deconstruct Self-Regulated Learning:\n- Core components: metacognition, goal-setting, self-monitoring, self-evaluation, strategy use\n- Key theories: Zimmerman's cyclical model, Pintrich's framework, Winne & Hadwin's model\n- Fundamental processes: forethought, performance control, self-reflection\n- Key actors: the learner themselves, motivation systems, cognitive processes\n- Central debates: Is SRL teachable? What's the role of external scaffolding? How does it develop?\n\nNow, for First-Principles Thinking, I need to identify common assumptions or \"received wisdom\" about SRL that can be deconstructed to atomic truths. The scaffold requires:\n- Identifying what we \"think we know\" about SRL\n- Breaking it down to fundamental, irreducible truths\n- Rebuilding understanding from those foundations\n- Challenging conventional framing\n\nPotential angles for First-Principles deconstruction in SRL:\n1. The assumption that \"self-regulation\" is a unified skill rather than domain-specific\n2. The common belief that SRL is primarily about willpower/discipline\n3. The idea that external regulation must precede self-regulation\n4. The assumption that metacognition is a conscious, deliberate process\n5. The belief that motivation is a prerequisite for self-regulation (vs. a product of it)\n\nLet me generate a few distinct First-Principles topics, each deconstructing a different fundamental assumption:\n\nTopic 1: Deconstruct the unified skill assumption\nTopic 2: Deconstruct the willpower/discipline narrative\nTopic 3: Deconstruct the developmental progression assumption\nTopic 4: Deconstruct what \"self\" means in self-regulated learning\n\nI'll create 3-4 variations since the user asked for \"a few\" topics.\n</thinking>",
+        "line_start": 110,
+        "line_end": 143,
+        "char_count": 1887,
+        "line_count": 32,
+        "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[x] *Used?**  [created:: 2025-11-06]  [completion:: 2025-11-06]",
+          "indent_level": 0,
+          "line_number": 58,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+        },
+        {
+          "text": "[[Metacognition]]",
+          "indent_level": 0,
+          "line_number": 98,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+        },
+        {
+          "text": "[[Executive Function]]",
+          "indent_level": 0,
+          "line_number": 100,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+        },
+        {
+          "text": "[[Cognitive Load Theory]]",
+          "indent_level": 0,
+          "line_number": 101,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+        },
+        {
+          "text": "[[Zimmerman Self-Regulated Learning Model]]",
+          "indent_level": 0,
+          "line_number": 102,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+        },
+        {
+          "text": "[[Distributed Cognition]]",
+          "indent_level": 0,
+          "line_number": 103,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+        },
+        {
+          "text": "[[Domain-Specific Knowledge]]",
+          "indent_level": 0,
+          "line_number": 104,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+        },
+        {
+          "text": "[[Implicit Learning]]",
+          "indent_level": 0,
+          "line_number": 105,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+        },
+        {
+          "text": "[[Habit Formation]]",
+          "indent_level": 0,
+          "line_number": 106,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+        },
+        {
+          "text": "[[Ecological Psychology]]",
+          "indent_level": 0,
+          "line_number": 107,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+        },
+        {
+          "text": "[[Dual-Process Theory]]",
+          "indent_level": 0,
+          "line_number": 108,
+          "source": "topic-set_first-principles-topics-for-self-regulated-learning_🆔20251106022215.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Cognitive Load Theory",
+      "Complexity Theory",
+      "Cultural-Historical Activity Theory",
+      "Distributed Cognition",
+      "Domain-Specific Knowledge",
+      "Dual-Process Theories",
+      "Dual-Process Theory",
+      "Ecological Psychology",
+      "Embodied Cognition",
+      "Executive Function",
+      "Habit Formation",
+      "Implicit Learning",
+      "Metacognition",
+      "Self-Regulated Learning",
+      "Zimmerman Self-Regulated Learning Model",
+      "cognitive load",
+      "domain knowledge",
+      "implicit learning",
+      "procedural fluency",
+      "procedural memory"
+    ],
+    "unique_wiki_link_count": 20,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Cognitive Load Theory",
+      "Complexity Theory",
+      "Cultural-Historical Activity Theory",
+      "Distributed Cognition",
+      "Domain-Specific Knowledge",
+      "Dual-Process Theories",
+      "Dual-Process Theory",
+      "Ecological Psychology",
+      "Embodied Cognition",
+      "Executive Function",
+      "Habit Formation",
+      "Implicit Learning",
+      "Metacognition",
+      "Self-Regulated Learning",
+      "Zimmerman Self-Regulated Learning Model",
+      "cognitive load",
+      "domain knowledge",
+      "implicit learning",
+      "procedural fluency",
+      "procedural memory"
+    ]
+  }
+}

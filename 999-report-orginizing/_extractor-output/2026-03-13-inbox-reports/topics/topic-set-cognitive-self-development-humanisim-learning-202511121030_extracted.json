@@ -1,0 +1,2591 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:05.814137",
+    "source_file": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\00-inbox\\02-topic-sets\\topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+    "source_file_size_bytes": 31398,
+    "processing_time_seconds": 0.01
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Humanistic Learning Theory ",
+      "id": "20251112-103133",
+      "type": "topics",
+      "status": [],
+      "rating": "",
+      "source": "RSAC_v2_20251020224705",
+      "url": "",
+      "tags": [
+        "cognitive-science",
+        "type/topic-set",
+        "source/llm/claude",
+        "year/2025"
+      ],
+      "aliases": [
+        "Humanistic Learning Theory",
+        "Humanism in Education",
+        "Person-Centered Learning",
+        "Humanistic Pedagogy"
+      ],
+      "link-up": "[[topics_moc]]",
+      "link-related": []
+    },
+    "word_count": 3661,
+    "character_count": 30922,
+    "line_count": 442,
+    "heading_count": 24
+  },
+  "extraction_summary": {
+    "total_items_extracted": 277,
+    "by_type": {
+      "headings": 24,
+      "callouts": 12,
+      "wiki_links": 97,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 5,
+      "code_blocks": 2,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 32,
+      "lists_unordered": 105,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Humanistic Learning Theory",
+      "anchor": "humanistic-learning-theory",
+      "line_number": 30,
+      "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "🎯 Foundational Principles",
+          "anchor": "foundational-principles",
+          "line_number": 40,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📚 Historical Context and Key Theorists",
+          "anchor": "historical-context-and-key-theorists",
+          "line_number": 53,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🧠 Cognitive Mechanisms and Learning Processes",
+          "anchor": "cognitive-mechanisms-and-learning-processes",
+          "line_number": 70,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Phenomenological Learning Cycle",
+              "anchor": "the-phenomenological-learning-cycle",
+              "line_number": 75,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Affective Domain Primacy",
+              "anchor": "affective-domain-primacy",
+              "line_number": 90,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "⚙️ Methodological Applications",
+          "anchor": "methodological-applications",
+          "line_number": 102,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Self-Directed Learning Architecture",
+              "anchor": "self-directed-learning-architecture",
+              "line_number": 106,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Facilitative Learning Environment",
+              "anchor": "the-facilitative-learning-environment",
+              "line_number": 121,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🔗 Relationship to Other Learning Theories",
+          "anchor": "relationship-to-other-learning-theories",
+          "line_number": 133,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Contrast with [[Behaviorism]]",
+              "anchor": "contrast-with-behaviorism",
+              "line_number": 139,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Alignment with [[Constructivism]]",
+              "anchor": "alignment-with-constructivism",
+              "line_number": 150,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Relationship to [[Cognitivism]]",
+              "anchor": "relationship-to-cognitivism",
+              "line_number": 161,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Connection to [[Experiential Learning Theory]]",
+              "anchor": "connection-to-experiential-learning-theory",
+              "line_number": 171,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🎓 Implications for Self-Directed Cognitive Development",
+          "anchor": "implications-for-self-directed-cognitive-development",
+          "line_number": 182,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔄 Critiques and Limitations",
+          "anchor": "critiques-and-limitations",
+          "line_number": 211,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🎯 Recommended Topics for Your PKB Expansion",
+      "anchor": "recommended-topics-for-your-pkb-expansion",
+      "line_number": 234,
+      "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📊 Priority Topic Matrix",
+          "anchor": "priority-topic-matrix",
+          "line_number": 238,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "🔴 Tier 1: Foundational Prerequisites",
+              "anchor": "tier-1-foundational-prerequisites",
+              "line_number": 247,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🟠 Tier 2: Theoretical Depth Extensions",
+              "anchor": "tier-2-theoretical-depth-extensions",
+              "line_number": 274,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🟡 Tier 3: Comparative/Critical Perspectives",
+              "anchor": "tier-3-comparativecritical-perspectives",
+              "line_number": 297,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "🟢 Tier 4: Implementation & Integration",
+              "anchor": "tier-4-implementation-integration",
+              "line_number": 320,
+              "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🗺️ Suggested Learning Path",
+          "anchor": "suggested-learning-path",
+          "line_number": 345,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+          "children": []
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "text": "🔗 Related Topics for PKB Expansion",
+      "anchor": "related-topics-for-pkb-expansion",
+      "line_number": 372,
+      "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+      "children": []
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "abstract",
+        "title": "Overview",
+        "body": "**Humanistic Learning Theory** represents a paradigm shift in educational psychology that emerged in the mid-20th century as a deliberate counterpoint to [[Behaviorism]] and [[Psychoanalysis]]. Rooted in [[Humanistic Psychology]], this approach positions the learner as an autonomous, intrinsically motivated agent whose cognitive and emotional development cannot be separated. It emphasizes [[Self-Actualization]], personal growth, and the inherent drive toward understanding as primary motivational forces in learning.",
+        "line_number": 37,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 637,
+        "char_end": 1183
+      },
+      {
+        "type": "principle-point",
+        "title": "Core Philosophical Commitments",
+        "body": "Humanistic Learning Theory rests on several non-negotiable assumptions about human nature and cognition:\n\n1. **Inherent Growth Orientation**: Humans possess an innate tendency toward [[Self-Actualization]]—a drive to realize their full potential that does not require external reinforcement\n2. **Holistic Integration**: Cognitive development cannot be divorced from emotional, social, and existential dimensions of human experience\n3. **Subjective Reality**: The learner's phenomenological experience—their internal perception of reality—is the primary determinant of meaning-making\n4. **Intrinsic Motivation Primacy**: Authentic learning emerges from internal curiosity and personal relevance, not external rewards or punishments\n5. **Learner Autonomy**: The individual must be the architect of their own learning journey; imposed curricula violate the natural learning process",
+        "line_number": 42,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 1214,
+        "char_end": 2159
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Intellectual Genealogy",
+        "body": "Humanistic Learning Theory crystallized in the 1950s-1970s through the work of several pivotal thinkers:",
+        "line_number": 55,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 2466,
+        "char_end": 2625
+      },
+      {
+        "type": "key-claim",
+        "title": "The Affective-Cognitive Integration Hypothesis",
+        "body": "Humanistic Learning Theory proposes that cognition and emotion operate as an integrated system, not separate faculties. This stands in stark contrast to [[Rationalist Epistemology]], which treats emotion as interference in pure reasoning.",
+        "line_number": 72,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 4261,
+        "char_end": 4564
+      },
+      {
+        "type": "analogy",
+        "title": "The Gardener vs. The Sculptor",
+        "body": "Behaviorist learning resembles a sculptor imposing form on inert material through external force. Humanistic learning resembles a gardener creating conditions for growth while respecting the plant's inherent developmental trajectory. The gardener cannot *make* a seed grow, but can provide soil, water, and light that allow its genetic potential to unfold.",
+        "line_number": 87,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 5778,
+        "char_end": 6180
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Practical Implementation Frameworks",
+        "body": "",
+        "line_number": 104,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 7030,
+        "char_end": 7095
+      },
+      {
+        "type": "example",
+        "title": "Concrete Illustration: Learning a Musical Instrument",
+        "body": "A behaviorist approach would decompose skill into discrete units, provide structured drills, and use external rewards (gold stars, recital performances) to motivate practice. A humanistic approach would begin with the learner's aesthetic connection to music, allow exploration of genres and techniques that resonate personally, encourage improvisation and creative expression from the beginning, and use the learner's own satisfaction as the primary feedback mechanism. The behaviorist produces technical proficiency; the humanist produces musical identity.",
+        "line_number": 118,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 8312,
+        "char_end": 8938
+      },
+      {
+        "type": "key-claim",
+        "title": "Theoretical Positioning in Educational Psychology Landscape",
+        "body": "",
+        "line_number": 135,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 10223,
+        "char_end": 10298
+      },
+      {
+        "type": "important",
+        "title": "Application to Your PKB Project",
+        "body": "For someone building a comprehensive Personal Knowledge Base focused on cognitive self-development, Humanistic Learning Theory offers several crucial insights:",
+        "line_number": 184,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 13360,
+        "char_end": 13569
+      },
+      {
+        "type": "warning",
+        "title": "Theoretical Challenges",
+        "body": "While Humanistic Learning Theory offers profound insights, it faces several substantive criticisms:",
+        "line_number": 213,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 15209,
+        "char_end": 15347
+      },
+      {
+        "type": "helpful-tip",
+        "title": "Strategic Selection Criteria",
+        "body": "I've organized recommendations into **four tiers** based on:\n- **Direct Relevance** to humanistic learning implementation\n- **Synergy** with your existing PKB architecture\n- **Depth Potential** for comprehensive exploration\n- **Practical Applicability** to self-directed learning",
+        "line_number": 240,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 17831,
+        "char_end": 18167
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Optimal Sequencing Strategy",
+        "body": "For your context, I recommend this progression:",
+        "line_number": 347,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md",
+        "char_start": 24805,
+        "char_end": 24912
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Behaviorism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Behaviorism]]",
+        "line_number": 38,
+        "section": "Humanistic Learning Theory",
+        "context_line": "> **Humanistic Learning Theory** represents a paradigm shift in educational psychology that emerged in the mid-20th century as a deliberate counterpoint to [[Behaviorism]] and [[Psychoanalysis]]. Rooted in [[Humanistic Psychology]], this approach positions the learner as an autonomous, intrinsically motivated agent whose cognitive and emotional development cannot be separated. It emphasizes [[Self-Actualization]], personal growth, and the inherent drive toward understanding as primary motivational forces in learning.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Psychoanalysis",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Psychoanalysis]]",
+        "line_number": 38,
+        "section": "Humanistic Learning Theory",
+        "context_line": "> **Humanistic Learning Theory** represents a paradigm shift in educational psychology that emerged in the mid-20th century as a deliberate counterpoint to [[Behaviorism]] and [[Psychoanalysis]]. Rooted in [[Humanistic Psychology]], this approach positions the learner as an autonomous, intrinsically motivated agent whose cognitive and emotional development cannot be separated. It emphasizes [[Self-Actualization]], personal growth, and the inherent drive toward understanding as primary motivational forces in learning.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Humanistic Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Humanistic Psychology]]",
+        "line_number": 38,
+        "section": "Humanistic Learning Theory",
+        "context_line": "> **Humanistic Learning Theory** represents a paradigm shift in educational psychology that emerged in the mid-20th century as a deliberate counterpoint to [[Behaviorism]] and [[Psychoanalysis]]. Rooted in [[Humanistic Psychology]], this approach positions the learner as an autonomous, intrinsically motivated agent whose cognitive and emotional development cannot be separated. It emphasizes [[Self-Actualization]], personal growth, and the inherent drive toward understanding as primary motivational forces in learning.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Self-Actualization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Actualization]]",
+        "line_number": 38,
+        "section": "Humanistic Learning Theory",
+        "context_line": "> **Humanistic Learning Theory** represents a paradigm shift in educational psychology that emerged in the mid-20th century as a deliberate counterpoint to [[Behaviorism]] and [[Psychoanalysis]]. Rooted in [[Humanistic Psychology]], this approach positions the learner as an autonomous, intrinsically motivated agent whose cognitive and emotional development cannot be separated. It emphasizes [[Self-Actualization]], personal growth, and the inherent drive toward understanding as primary motivational forces in learning.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Self-Actualization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Actualization]]",
+        "line_number": 45,
+        "section": "🎯 Foundational Principles",
+        "context_line": "> 1. **Inherent Growth Orientation**: Humans possess an innate tendency toward [[Self-Actualization]]—a drive to realize their full potential that does not require external reinforcement",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Behaviorist Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Behaviorist Learning Theory]]",
+        "line_number": 51,
+        "section": "🎯 Foundational Principles",
+        "context_line": "These principles emerged as direct critiques of [[Behaviorist Learning Theory]], which conceptualized learners as passive recipients of environmental conditioning, and [[Freudian Psychology]], which emphasized unconscious drives and early childhood determinism.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Freudian Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Freudian Psychology]]",
+        "line_number": 51,
+        "section": "🎯 Foundational Principles",
+        "context_line": "These principles emerged as direct critiques of [[Behaviorist Learning Theory]], which conceptualized learners as passive recipients of environmental conditioning, and [[Freudian Psychology]], which emphasized unconscious drives and early childhood determinism.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Abraham Maslow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Abraham Maslow]]",
+        "line_number": 58,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "**[[Abraham Maslow]] (1908-1970)** provided the theoretical foundation with his [[Hierarchy of Needs]] model. Maslow argued that learning could only flourish when lower-order needs (physiological safety, belonging) were satisfied, allowing the learner to pursue [[Self-Actualization]]—the highest form of human motivation. His concept of [[Peak Experiences]] described moments of profound insight and integration that characterized optimal learning states.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Hierarchy of Needs",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Hierarchy of Needs]]",
+        "line_number": 58,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "**[[Abraham Maslow]] (1908-1970)** provided the theoretical foundation with his [[Hierarchy of Needs]] model. Maslow argued that learning could only flourish when lower-order needs (physiological safety, belonging) were satisfied, allowing the learner to pursue [[Self-Actualization]]—the highest form of human motivation. His concept of [[Peak Experiences]] described moments of profound insight and integration that characterized optimal learning states.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Self-Actualization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Actualization]]",
+        "line_number": 58,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "**[[Abraham Maslow]] (1908-1970)** provided the theoretical foundation with his [[Hierarchy of Needs]] model. Maslow argued that learning could only flourish when lower-order needs (physiological safety, belonging) were satisfied, allowing the learner to pursue [[Self-Actualization]]—the highest form of human motivation. His concept of [[Peak Experiences]] described moments of profound insight and integration that characterized optimal learning states.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Peak Experiences",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Peak Experiences]]",
+        "line_number": 58,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "**[[Abraham Maslow]] (1908-1970)** provided the theoretical foundation with his [[Hierarchy of Needs]] model. Maslow argued that learning could only flourish when lower-order needs (physiological safety, belonging) were satisfied, allowing the learner to pursue [[Self-Actualization]]—the highest form of human motivation. His concept of [[Peak Experiences]] described moments of profound insight and integration that characterized optimal learning states.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Carl Rogers",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Carl Rogers]]",
+        "line_number": 60,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "**[[Carl Rogers]] (1902-1987)** translated Humanistic Psychology into educational practice through his [[Person-Centered Therapy]] approach. Rogers identified three essential conditions for meaningful learning:",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Person-Centered Therapy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Person-Centered Therapy]]",
+        "line_number": 60,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "**[[Carl Rogers]] (1902-1987)** translated Humanistic Psychology into educational practice through his [[Person-Centered Therapy]] approach. Rogers identified three essential conditions for meaningful learning:",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Unconditional Positive Regard",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Unconditional Positive Regard]]",
+        "line_number": 62,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "1. **[[Unconditional Positive Regard]]**: The learner must feel accepted without judgment",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Empathic Understanding",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Empathic Understanding]]",
+        "line_number": 63,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "2. **[[Empathic Understanding]]**: The facilitator must genuinely comprehend the learner's subjective experience",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Congruence",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Congruence]]",
+        "line_number": 64,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "3. **[[Congruence]]**: Authenticity and transparency in the learning relationship",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Cognitive Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Learning]]",
+        "line_number": 66,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "Rogers distinguished between **[[Cognitive Learning]]** (intellectual knowledge that remains external) and **[[Experiential Learning]]** (personally meaningful knowledge that transforms the self). Only the latter, he argued, produces lasting change.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Experiential Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Experiential Learning]]",
+        "line_number": 66,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "Rogers distinguished between **[[Cognitive Learning]]** (intellectual knowledge that remains external) and **[[Experiential Learning]]** (personally meaningful knowledge that transforms the self). Only the latter, he argued, produces lasting change.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Malcolm Knowles",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Malcolm Knowles]]",
+        "line_number": 68,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "**[[Malcolm Knowles]] (1913-1997)** systematized these principles into [[Andragogy]]—the art and science of adult learning. Knowles identified six assumptions distinguishing adult learners: need for autonomy, experiential learning foundation, readiness to learn based on developmental tasks, problem-centered orientation, internal motivation, and need to understand rationale.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Andragogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Andragogy]]",
+        "line_number": 68,
+        "section": "📚 Historical Context and Key Theorists",
+        "context_line": "**[[Malcolm Knowles]] (1913-1997)** systematized these principles into [[Andragogy]]—the art and science of adult learning. Knowles identified six assumptions distinguishing adult learners: need for autonomy, experiential learning foundation, readiness to learn based on developmental tasks, problem-centered orientation, internal motivation, and need to understand rationale.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Rationalist Epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Rationalist Epistemology]]",
+        "line_number": 73,
+        "section": "🧠 Cognitive Mechanisms and Learning Processes",
+        "context_line": "> Humanistic Learning Theory proposes that cognition and emotion operate as an integrated system, not separate faculties. This stands in stark contrast to [[Rationalist Epistemology]], which treats emotion as interference in pure reasoning.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Intrinsic Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intrinsic Motivation]]",
+        "line_number": 81,
+        "section": "The Phenomenological Learning Cycle",
+        "context_line": "**Phase 2: Self-Directed Inquiry** — Rather than receiving pre-packaged answers, the learner autonomously determines what questions to pursue and which resources to engage. This phase activates [[Intrinsic Motivation]] through the [[Self-Determination Theory]] mechanisms of autonomy, competence, and relatedness.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 81,
+        "section": "The Phenomenological Learning Cycle",
+        "context_line": "**Phase 2: Self-Directed Inquiry** — Rather than receiving pre-packaged answers, the learner autonomously determines what questions to pursue and which resources to engage. This phase activates [[Intrinsic Motivation]] through the [[Self-Determination Theory]] mechanisms of autonomy, competence, and relatedness.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Significant Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Significant Learning]]",
+        "line_number": 83,
+        "section": "The Phenomenological Learning Cycle",
+        "context_line": "**Phase 3: Experiential Integration** — The learner doesn't merely acquire information but reorganizes their self-concept and worldview. This involves what Rogers called \"[[Significant Learning]]\"—knowledge that alters perception, behavior, and identity.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Metacognitive Reflection",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Reflection]]",
+        "line_number": 85,
+        "section": "The Phenomenological Learning Cycle",
+        "context_line": "**Phase 4: Reflective Meaning-Making** — Through [[Metacognitive Reflection]], the learner consciously examines how new understanding changes their perspective. This creates [[Schema Transformation]] rather than mere [[Schema Addition]].",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Schema Transformation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Transformation]]",
+        "line_number": 85,
+        "section": "The Phenomenological Learning Cycle",
+        "context_line": "**Phase 4: Reflective Meaning-Making** — Through [[Metacognitive Reflection]], the learner consciously examines how new understanding changes their perspective. This creates [[Schema Transformation]] rather than mere [[Schema Addition]].",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Schema Addition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Addition]]",
+        "line_number": 85,
+        "section": "The Phenomenological Learning Cycle",
+        "context_line": "**Phase 4: Reflective Meaning-Making** — Through [[Metacognitive Reflection]], the learner consciously examines how new understanding changes their perspective. This creates [[Schema Transformation]] rather than mere [[Schema Addition]].",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Bloom's Taxonomy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bloom's Taxonomy]]",
+        "line_number": 92,
+        "section": "Affective Domain Primacy",
+        "context_line": "Humanistic theorists argue that [[Bloom's Taxonomy]], while useful, fundamentally misrepresents learning by privileging cognitive objectives over affective ones. [[Krathwohl's Affective Domain Taxonomy]] becomes the primary framework:",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Krathwohl's Affective Domain Taxonomy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Krathwohl's Affective Domain Taxonomy]]",
+        "line_number": 92,
+        "section": "Affective Domain Primacy",
+        "context_line": "Humanistic theorists argue that [[Bloom's Taxonomy]], while useful, fundamentally misrepresents learning by privileging cognitive objectives over affective ones. [[Krathwohl's Affective Domain Taxonomy]] becomes the primary framework:",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Self-Directed Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Directed Learning]]",
+        "line_number": 108,
+        "section": "Self-Directed Learning Architecture",
+        "context_line": "[[Self-Directed Learning]] (SDL) represents the operational manifestation of Humanistic Learning Theory. The SDL process follows this structure:",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Metacognitive Awareness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Awareness]]",
+        "line_number": 110,
+        "section": "Self-Directed Learning Architecture",
+        "context_line": "**Diagnostic Phase**: The learner conducts a self-assessment to identify learning needs, existing knowledge gaps, and personal learning preferences. This requires high [[Metacognitive Awareness]]—the ability to accurately perceive one's own cognitive strengths and limitations.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Planning Fallacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Planning Fallacy]]",
+        "line_number": 112,
+        "section": "Self-Directed Learning Architecture",
+        "context_line": "**Planning Phase**: Rather than following prescribed curricula, the learner designs a personalized learning plan with self-determined objectives, resources, and timelines. This activates the [[Planning Fallacy]] mitigation strategy of building in flexibility and iteration.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Psychological Safety",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Psychological Safety]]",
+        "line_number": 125,
+        "section": "The Facilitative Learning Environment",
+        "context_line": "**[[Psychological Safety]]**: Learners must feel secure enough to take intellectual risks, express confusion, and challenge assumptions without fear of judgment or punishment. This requires what Rogers called [[Unconditional Positive Regard]]—acceptance of the person independent of their performance.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Unconditional Positive Regard",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Unconditional Positive Regard]]",
+        "line_number": 125,
+        "section": "The Facilitative Learning Environment",
+        "context_line": "**[[Psychological Safety]]**: Learners must feel secure enough to take intellectual risks, express confusion, and challenge assumptions without fear of judgment or punishment. This requires what Rogers called [[Unconditional Positive Regard]]—acceptance of the person independent of their performance.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Resource Accessibility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Resource Accessibility]]",
+        "line_number": 127,
+        "section": "The Facilitative Learning Environment",
+        "context_line": "**[[Resource Accessibility]]**: Rather than controlled information delivery, the environment provides abundant, diverse resources that learners can engage based on emergent interests. This resembles [[Constructivist Learning Environments]] where knowledge is discovered rather than transmitted.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Constructivist Learning Environments",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivist Learning Environments]]",
+        "line_number": 127,
+        "section": "The Facilitative Learning Environment",
+        "context_line": "**[[Resource Accessibility]]**: Rather than controlled information delivery, the environment provides abundant, diverse resources that learners can engage based on emergent interests. This resembles [[Constructivist Learning Environments]] where knowledge is discovered rather than transmitted.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Collaborative Inquiry",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Collaborative Inquiry]]",
+        "line_number": 129,
+        "section": "The Facilitative Learning Environment",
+        "context_line": "**[[Collaborative Inquiry]]**: While emphasizing individual autonomy, humanistic learning recognizes that meaning-making often occurs through dialogue. [[Socratic Dialogue]] and [[Peer Learning]] structures allow learners to refine understanding through articulation and perspective-taking.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Socratic Dialogue",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socratic Dialogue]]",
+        "line_number": 129,
+        "section": "The Facilitative Learning Environment",
+        "context_line": "**[[Collaborative Inquiry]]**: While emphasizing individual autonomy, humanistic learning recognizes that meaning-making often occurs through dialogue. [[Socratic Dialogue]] and [[Peer Learning]] structures allow learners to refine understanding through articulation and perspective-taking.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Peer Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Peer Learning]]",
+        "line_number": 129,
+        "section": "The Facilitative Learning Environment",
+        "context_line": "**[[Collaborative Inquiry]]**: While emphasizing individual autonomy, humanistic learning recognizes that meaning-making often occurs through dialogue. [[Socratic Dialogue]] and [[Peer Learning]] structures allow learners to refine understanding through articulation and perspective-taking.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Reflective Practice Structures",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflective Practice Structures]]",
+        "line_number": 131,
+        "section": "The Facilitative Learning Environment",
+        "context_line": "**[[Reflective Practice Structures]]**: Regular opportunities for [[Metacognitive Reflection]]—journaling, think-aloud protocols, learning portfolios—help learners consciously process how understanding is evolving.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Metacognitive Reflection",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Reflection]]",
+        "line_number": 131,
+        "section": "The Facilitative Learning Environment",
+        "context_line": "**[[Reflective Practice Structures]]**: Regular opportunities for [[Metacognitive Reflection]]—journaling, think-aloud protocols, learning portfolios—help learners consciously process how understanding is evolving.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Behaviorism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Behaviorism]]",
+        "line_number": 139,
+        "section": "Contrast with [[Behaviorism]]",
+        "context_line": "### Contrast with [[Behaviorism]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Behaviorist Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Behaviorist Learning Theory]]",
+        "line_number": 141,
+        "section": "Contrast with [[Behaviorism]]",
+        "context_line": "**[[Behaviorist Learning Theory]]** (Skinner, Thorndike, Watson) conceptualizes learning as behavioral change resulting from environmental conditioning through reinforcement schedules. Humanistic theory explicitly rejects this mechanistic model, arguing that:",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Intrinsic Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intrinsic Motivation]]",
+        "line_number": 143,
+        "section": "Contrast with [[Behaviorism]]",
+        "context_line": "- External rewards undermine [[Intrinsic Motivation]] (see [[Overjustification Effect]])",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Overjustification Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Overjustification Effect]]",
+        "line_number": 143,
+        "section": "Contrast with [[Behaviorism]]",
+        "context_line": "- External rewards undermine [[Intrinsic Motivation]] (see [[Overjustification Effect]])",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Black Box",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Black Box]]",
+        "line_number": 146,
+        "section": "Contrast with [[Behaviorism]]",
+        "context_line": "- The [[Black Box]] approach ignoring internal states misses the essence of human cognition",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivism]]",
+        "line_number": 150,
+        "section": "Alignment with [[Constructivism]]",
+        "context_line": "### Alignment with [[Constructivism]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Constructivist Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivist Learning Theory]]",
+        "line_number": 152,
+        "section": "Alignment with [[Constructivism]]",
+        "context_line": "**[[Constructivist Learning Theory]]** (Piaget, Vygotsky, Bruner) shares humanistic psychology's emphasis on active meaning-making rather than passive reception. Both frameworks agree that:",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Zone Of Proximal Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zone Of Proximal Development]]",
+        "line_number": 159,
+        "section": "Alignment with [[Constructivism]]",
+        "context_line": "The primary difference: Constructivism focuses on cognitive mechanisms of schema formation and [[Zone Of Proximal Development]], while humanism emphasizes affective dimensions and existential meaning-making. They are complementary rather than contradictory.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Cognitivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitivism]]",
+        "line_number": 161,
+        "section": "Relationship to [[Cognitivism]]",
+        "context_line": "### Relationship to [[Cognitivism]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Cognitive Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Learning Theory]]",
+        "line_number": 163,
+        "section": "Relationship to [[Cognitivism]]",
+        "context_line": "**[[Cognitive Learning Theory]]** (Miller, Bruner, Neisser) brought mental processes back into psychology after behaviorism's rejection of \"mentalism.\" Cognitivism and humanism both reject the behaviorist black box, but diverge on key points:",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Information Processing Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Information Processing Theory]]",
+        "line_number": 165,
+        "section": "Relationship to [[Cognitivism]]",
+        "context_line": "- Cognitivism uses [[Information Processing Theory]] metaphors (brain as computer); humanism rejects mechanistic analogies",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Experiential Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Experiential Learning Theory]]",
+        "line_number": 171,
+        "section": "Connection to [[Experiential Learning Theory]]",
+        "context_line": "### Connection to [[Experiential Learning Theory]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Kolb's Experiential Learning Cycle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Kolb's Experiential Learning Cycle]]",
+        "line_number": 173,
+        "section": "Connection to [[Experiential Learning Theory]]",
+        "context_line": "**[[Kolb's Experiential Learning Cycle]]** operationalizes many humanistic principles into a structured model:",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 190,
+        "section": "🎓 Implications for Self-Directed Cognitive Development",
+        "context_line": "- Using [[Zettelkasten]] principles that honor associative thinking",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Aha Moments",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Aha Moments]]",
+        "line_number": 195,
+        "section": "🎓 Implications for Self-Directed Cognitive Development",
+        "context_line": "- Recording [[Aha Moments]] and [[Cognitive Dissonance]] experiences",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Cognitive Dissonance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Dissonance]]",
+        "line_number": 195,
+        "section": "🎓 Implications for Self-Directed Cognitive Development",
+        "context_line": "- Recording [[Aha Moments]] and [[Cognitive Dissonance]] experiences",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Metacognitive Reflection",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Reflection]]",
+        "line_number": 197,
+        "section": "🎓 Implications for Self-Directed Cognitive Development",
+        "context_line": "- Using your PKB as a mirror for [[Metacognitive Reflection]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Progressive Summarization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Progressive Summarization]]",
+        "line_number": 203,
+        "section": "🎓 Implications for Self-Directed Cognitive Development",
+        "context_line": "- Use [[Progressive Summarization]] that evolves with your thinking",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Deliberate Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate Practice]]",
+        "line_number": 207,
+        "section": "🎓 Implications for Self-Directed Cognitive Development",
+        "context_line": "- Experimenting with ideas through [[Deliberate Practice]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Thinking Tool",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Thinking Tool]]",
+        "line_number": 208,
+        "section": "🎓 Implications for Self-Directed Cognitive Development",
+        "context_line": "- Using writing as [[Thinking Tool]] rather than mere recording",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Cross-Cultural Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cross-Cultural Psychology]]",
+        "line_number": 222,
+        "section": "🔄 Critiques and Limitations",
+        "context_line": "**Cultural Particularity**: Humanistic psychology emerged from Western, individualistic cultural contexts. Critics argue its assumptions about autonomy, individual self-actualization, and personal agency may not transfer to collectivist cultures that prioritize group harmony over individual expression. [[Cross-Cultural Psychology]] research suggests learning motivations and optimal conditions vary significantly across cultural contexts.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Critical Pedagogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Critical Pedagogy]]",
+        "line_number": 224,
+        "section": "🔄 Critiques and Limitations",
+        "context_line": "**Neglect of Social Constraints**: The theory's focus on individual autonomy sometimes overlooks structural barriers—poverty, discrimination, limited resource access—that constrain learning opportunities regardless of intrinsic motivation. [[Critical Pedagogy]] scholars argue that humanistic approaches can become naively apolitical.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 228,
+        "section": "🔄 Critiques and Limitations",
+        "context_line": "**Insufficient Cognitive Specificity**: While emphasizing that cognition and affect intertwine, humanistic theory provides less detailed models of actual cognitive mechanisms compared to [[Cognitive Load Theory]], [[Dual Coding Theory]], or [[Retrieval Practice]] research. It describes what learning should feel like more than how memory consolidation and skill acquisition actually work at a mechanistic level.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Dual Coding Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual Coding Theory]]",
+        "line_number": 228,
+        "section": "🔄 Critiques and Limitations",
+        "context_line": "**Insufficient Cognitive Specificity**: While emphasizing that cognition and affect intertwine, humanistic theory provides less detailed models of actual cognitive mechanisms compared to [[Cognitive Load Theory]], [[Dual Coding Theory]], or [[Retrieval Practice]] research. It describes what learning should feel like more than how memory consolidation and skill acquisition actually work at a mechanistic level.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Retrieval Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Retrieval Practice]]",
+        "line_number": 228,
+        "section": "🔄 Critiques and Limitations",
+        "context_line": "**Insufficient Cognitive Specificity**: While emphasizing that cognition and affect intertwine, humanistic theory provides less detailed models of actual cognitive mechanisms compared to [[Cognitive Load Theory]], [[Dual Coding Theory]], or [[Retrieval Practice]] research. It describes what learning should feel like more than how memory consolidation and skill acquisition actually work at a mechanistic level.",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 250,
+        "section": "🔴 Tier 1: Foundational Prerequisites",
+        "context_line": "1. **[[Self-Determination Theory]] (Deci & Ryan)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Metacognition and Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition and Self-Regulated Learning]]",
+        "line_number": 256,
+        "section": "🔴 Tier 1: Foundational Prerequisites",
+        "context_line": "2. **[[Metacognition and Self-Regulated Learning]]**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Constructivist Epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivist Epistemology]]",
+        "line_number": 262,
+        "section": "🔴 Tier 1: Foundational Prerequisites",
+        "context_line": "3. **[[Constructivist Epistemology]] (Piaget, von Glasersfeld)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Experiential Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Experiential Learning Theory]]",
+        "line_number": 268,
+        "section": "🔴 Tier 1: Foundational Prerequisites",
+        "context_line": "4. **[[Experiential Learning Theory]] (Kolb)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Intrinsic Motivation Research",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intrinsic Motivation Research]]",
+        "line_number": 277,
+        "section": "🟠 Tier 2: Theoretical Depth Extensions",
+        "context_line": "5. **[[Intrinsic Motivation Research]] (Csikszentmihalyi, Deci)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Flow Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Flow Theory]]",
+        "line_number": 279,
+        "section": "🟠 Tier 2: Theoretical Depth Extensions",
+        "context_line": "- **Depth Potential**: Includes [[Flow Theory]], [[Optimal Challenge]], [[Autotelic Experience]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Optimal Challenge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Optimal Challenge]]",
+        "line_number": 279,
+        "section": "🟠 Tier 2: Theoretical Depth Extensions",
+        "context_line": "- **Depth Potential**: Includes [[Flow Theory]], [[Optimal Challenge]], [[Autotelic Experience]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Autotelic Experience",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Autotelic Experience]]",
+        "line_number": 279,
+        "section": "🟠 Tier 2: Theoretical Depth Extensions",
+        "context_line": "- **Depth Potential**: Includes [[Flow Theory]], [[Optimal Challenge]], [[Autotelic Experience]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Affective Domain Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Affective Domain Learning]]",
+        "line_number": 282,
+        "section": "🟠 Tier 2: Theoretical Depth Extensions",
+        "context_line": "6. **[[Affective Domain Learning]] (Krathwohl)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Adult Learning Theory (Andragogy)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Adult Learning Theory (Andragogy)]]",
+        "line_number": 287,
+        "section": "🟠 Tier 2: Theoretical Depth Extensions",
+        "context_line": "7. **[[Adult Learning Theory (Andragogy)]] (Knowles)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Phenomenological Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Phenomenological Psychology]]",
+        "line_number": 292,
+        "section": "🟠 Tier 2: Theoretical Depth Extensions",
+        "context_line": "8. **[[Phenomenological Psychology]] (Husserl, Merleau-Ponty)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Behaviorist Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Behaviorist Learning Theory]]",
+        "line_number": 300,
+        "section": "🟡 Tier 3: Comparative/Critical Perspectives",
+        "context_line": "9. **[[Behaviorist Learning Theory]] (Skinner, Thorndike)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 305,
+        "section": "🟡 Tier 3: Comparative/Critical Perspectives",
+        "context_line": "10. **[[Cognitive Load Theory]] (Sweller)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Social Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Social Learning Theory]]",
+        "line_number": 310,
+        "section": "🟡 Tier 3: Comparative/Critical Perspectives",
+        "context_line": "11. **[[Social Learning Theory]] (Bandura)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Critical Pedagogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Critical Pedagogy]]",
+        "line_number": 315,
+        "section": "🟡 Tier 3: Comparative/Critical Perspectives",
+        "context_line": "12. **[[Critical Pedagogy]] (Freire, hooks)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Self-Directed Learning Models",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Directed Learning Models]]",
+        "line_number": 323,
+        "section": "🟢 Tier 4: Implementation & Integration",
+        "context_line": "13. **[[Self-Directed Learning Models]] (Tough, Grow)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Reflective Practice Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflective Practice Theory]]",
+        "line_number": 328,
+        "section": "🟢 Tier 4: Implementation & Integration",
+        "context_line": "14. **[[Reflective Practice Theory]] (Schön, Brookfield)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Personal Knowledge Management Systems",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Management Systems]]",
+        "line_number": 333,
+        "section": "🟢 Tier 4: Implementation & Integration",
+        "context_line": "15. **[[Personal Knowledge Management Systems]] (Ahrens, Forte)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Learning Transfer Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Learning Transfer Theory]]",
+        "line_number": 338,
+        "section": "🟢 Tier 4: Implementation & Integration",
+        "context_line": "16. **[[Learning Transfer Theory]] (Perkins, Salomon)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 351,
+        "section": "🗺️ Suggested Learning Path",
+        "context_line": "- Start with [[Self-Determination Theory]] and [[Metacognition and Self-Regulated Learning]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Metacognition and Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition and Self-Regulated Learning]]",
+        "line_number": 351,
+        "section": "🗺️ Suggested Learning Path",
+        "context_line": "- Start with [[Self-Determination Theory]] and [[Metacognition and Self-Regulated Learning]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Constructivist Epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivist Epistemology]]",
+        "line_number": 355,
+        "section": "🗺️ Suggested Learning Path",
+        "context_line": "- Move to [[Constructivist Epistemology]] and [[Experiential Learning Theory]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Experiential Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Experiential Learning Theory]]",
+        "line_number": 355,
+        "section": "🗺️ Suggested Learning Path",
+        "context_line": "- Move to [[Constructivist Epistemology]] and [[Experiential Learning Theory]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Behaviorist Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Behaviorist Learning Theory]]",
+        "line_number": 359,
+        "section": "🗺️ Suggested Learning Path",
+        "context_line": "- Study [[Behaviorist Learning Theory]] and [[Cognitive Load Theory]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 359,
+        "section": "🗺️ Suggested Learning Path",
+        "context_line": "- Study [[Behaviorist Learning Theory]] and [[Cognitive Load Theory]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Self-Directed Learning Models",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Directed Learning Models]]",
+        "line_number": 363,
+        "section": "🗺️ Suggested Learning Path",
+        "context_line": "- Explore [[Self-Directed Learning Models]] and [[Reflective Practice Theory]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Reflective Practice Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflective Practice Theory]]",
+        "line_number": 363,
+        "section": "🗺️ Suggested Learning Path",
+        "context_line": "- Explore [[Self-Directed Learning Models]] and [[Reflective Practice Theory]]",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Self-Actualization Research",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Actualization Research]]",
+        "line_number": 374,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "1. **[[Self-Actualization Research]]**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Flow Theory and Optimal Experience",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Flow Theory and Optimal Experience]]",
+        "line_number": 379,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "2. **[[Flow Theory and Optimal Experience]]**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Transformative Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transformative Learning Theory]]",
+        "line_number": 384,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "3. **[[Transformative Learning Theory]] (Mezirow)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "target": "Heutagogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Heutagogy]]",
+        "line_number": 389,
+        "section": "🔗 Related Topics for PKB Expansion",
+        "context_line": "4. **[[Heutagogy]] (Self-Determined Learning)**",
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "cognitive-science",
+        "full_tag": "#cognitive-science",
+        "hierarchy": [
+          "cognitive-science"
+        ],
+        "line_number": 33,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "tag": "cognitive-science",
+        "full_tag": "#cognitive-science",
+        "hierarchy": [
+          "cognitive-science"
+        ],
+        "line_number": 33,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "tag": "cognitive-science",
+        "full_tag": "#cognitive-science",
+        "hierarchy": [
+          "cognitive-science"
+        ],
+        "line_number": 33,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "tag": "cognitive-science",
+        "full_tag": "#cognitive-science",
+        "hierarchy": [
+          "cognitive-science"
+        ],
+        "line_number": 33,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "tag": "type/reference",
+        "full_tag": "#type/reference",
+        "hierarchy": [
+          "type",
+          "reference"
+        ],
+        "line_number": 33,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Humanistic Learning Theory",
+        "anchor": "humanistic-learning-theory",
+        "line_number": 30,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 2,
+        "text": "🎯 Foundational Principles",
+        "anchor": "foundational-principles",
+        "line_number": 40,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 2,
+        "text": "📚 Historical Context and Key Theorists",
+        "anchor": "historical-context-and-key-theorists",
+        "line_number": 53,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 2,
+        "text": "🧠 Cognitive Mechanisms and Learning Processes",
+        "anchor": "cognitive-mechanisms-and-learning-processes",
+        "line_number": 70,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "The Phenomenological Learning Cycle",
+        "anchor": "the-phenomenological-learning-cycle",
+        "line_number": 75,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "Affective Domain Primacy",
+        "anchor": "affective-domain-primacy",
+        "line_number": 90,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ Methodological Applications",
+        "anchor": "methodological-applications",
+        "line_number": 102,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "Self-Directed Learning Architecture",
+        "anchor": "self-directed-learning-architecture",
+        "line_number": 106,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "The Facilitative Learning Environment",
+        "anchor": "the-facilitative-learning-environment",
+        "line_number": 121,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Relationship to Other Learning Theories",
+        "anchor": "relationship-to-other-learning-theories",
+        "line_number": 133,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "Contrast with [[Behaviorism]]",
+        "anchor": "contrast-with-behaviorism",
+        "line_number": 139,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "Alignment with [[Constructivism]]",
+        "anchor": "alignment-with-constructivism",
+        "line_number": 150,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "Relationship to [[Cognitivism]]",
+        "anchor": "relationship-to-cognitivism",
+        "line_number": 161,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "Connection to [[Experiential Learning Theory]]",
+        "anchor": "connection-to-experiential-learning-theory",
+        "line_number": 171,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 2,
+        "text": "🎓 Implications for Self-Directed Cognitive Development",
+        "anchor": "implications-for-self-directed-cognitive-development",
+        "line_number": 182,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 2,
+        "text": "🔄 Critiques and Limitations",
+        "anchor": "critiques-and-limitations",
+        "line_number": 211,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 1,
+        "text": "🎯 Recommended Topics for Your PKB Expansion",
+        "anchor": "recommended-topics-for-your-pkb-expansion",
+        "line_number": 234,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Priority Topic Matrix",
+        "anchor": "priority-topic-matrix",
+        "line_number": 238,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "🔴 Tier 1: Foundational Prerequisites",
+        "anchor": "tier-1-foundational-prerequisites",
+        "line_number": 247,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "🟠 Tier 2: Theoretical Depth Extensions",
+        "anchor": "tier-2-theoretical-depth-extensions",
+        "line_number": 274,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "🟡 Tier 3: Comparative/Critical Perspectives",
+        "anchor": "tier-3-comparativecritical-perspectives",
+        "line_number": 297,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 3,
+        "text": "🟢 Tier 4: Implementation & Integration",
+        "anchor": "tier-4-implementation-integration",
+        "line_number": 320,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 2,
+        "text": "🗺️ Suggested Learning Path",
+        "anchor": "suggested-learning-path",
+        "line_number": 345,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "level": 1,
+        "text": "🔗 Related Topics for PKB Expansion",
+        "anchor": "related-topics-for-pkb-expansion",
+        "line_number": 372,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "<thinking>\nLet me analyze this request carefully using the ReAct protocol:\n\n**PHASE 1: ANALYZE**\n\nRequest Classification:\n- Type: This is a complex, multi-layered request combining:\n  - Conceptual explanation (understanding Humanistic Psychology/Humanistic Learning)\n  - Comprehensive exploration (scope, methodologies, cognitive mechanisms)\n  - Meta-positioning (how it fits in broader educational landscape)\n  - Topic recommendation (suggesting PKB expansion areas)\n- Scope: This requires MULTIPLE note types:\n  - A comprehensive Reference Note on Humanistic Learning Theory\n  - Strategic topic recommendations for PKB architecture\n- Research Required: NO - This is well within my knowledge cutoff (Humanistic Psychology dates to 1950s-1970s, well-established field). The user is asking for deep conceptual understanding, not current trends.\n\nUser Context Analysis:\n- They're building a sophisticated PKB focused on cognitive self-development\n- They explicitly value first-principles learning and comprehensive understanding\n- They're studying self-education methodologies\n- They've identified Humanistic Learning as resonating with their approach\n- They want both theoretical understanding AND practical implementation guidance\n\nStructural Planning:\nThis requires a two-part response:\n1. **FIRST**: Comprehensive Reference Note on Humanistic Learning Theory\n   - Information Architecture: \n     - Historical context & foundational principles\n     - Core theoretical framework\n     - Cognitive mechanisms\n     - Methodological applications\n     - Relationship to other learning theories\n   - Wiki-Link Opportunities: Self-Directed Learning, Intrinsic Motivation, Self-Actualization, Carl Rogers, Abraham Maslow, Experiential Learning, Learner Autonomy, Affective Domain, Constructivism, etc.\n   - Callout Strategy: Use [!definition], [!principle-point], [!key-claim], [!example], [!methodology-and-sources]\n   - Metadata Planning:\n     - Tags: #learning-theory #humanistic-psychology #self-directed-learning #educational-philosophy #reference-note\n     - Aliases: [Humanistic Learning Theory, Humanism in Education, Person-Centered Learning, Humanistic Pedagogy]\n\n2. **SECOND**: Strategic topic recommendations for their PKB expansion\n\n**PHASE 2: COMPOSE**\nI'll apply Chain-of-Density:\n1. Core concept layer: What is Humanistic Learning, its philosophical foundations\n2. Detail enrichment layer: Cognitive mechanisms, key theorists, methodologies\n3. Connection layer: How it relates to other learning theories, cross-references\n4. Application layer: Practical implementation in self-directed learning contexts\n\n**PHASE 3: VALIDATE**\nFormat compliance checklist:\n- [ ] Metadata header with tags + aliases - WILL INCLUDE\n- [ ] Wiki-links for key concepts (target: 20-35 for comprehensive note) - WILL IMPLEMENT\n- [ ] Callouts (target: 10-15) - WILL IMPLEMENT\n- [ ] Clear header hierarchy - WILL IMPLEMENT\n- [ ] Prose-dominant (not bullet-list heavy) - WILL IMPLEMENT\n- [ ] Expansion section with 4 topics - WILL INCLUDE\n- [ ] Code blocks N/A for this content\n- [ ] Topic recommendations section - WILL ADD AS SEPARATE SECTION\n\nLet me compose this comprehensively.\n</thinking>",
+        "line_start": 398,
+        "line_end": 459,
+        "char_count": 3175,
+        "line_count": 60,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "I'll provide you with a comprehensive Reference Note on **Humanistic Learning Theory**, followed by strategic topic recommendations tailored to your Cognitive Self-Development Project.",
+        "line_start": 461,
+        "line_end": 463,
+        "char_count": 184,
+        "line_count": 1,
+        "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**[[Unconditional Positive Regard]]**: The learner must feel accepted without judgment",
+          "indent_level": 0,
+          "line_number": 61,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Empathic Understanding]]**: The facilitator must genuinely comprehend the learner's subjective experience",
+          "indent_level": 0,
+          "line_number": 63,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Congruence]]**: Authenticity and transparency in the learning relationship",
+          "indent_level": 0,
+          "line_number": 64,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Receiving** (awareness and willingness to engage)",
+          "indent_level": 0,
+          "line_number": 93,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Responding** (active participation driven by interest)",
+          "indent_level": 0,
+          "line_number": 95,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Valuing** (internalization of worth and commitment)",
+          "indent_level": 0,
+          "line_number": 96,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Organization** (integration into coherent value system)",
+          "indent_level": 0,
+          "line_number": 97,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Characterization** (consistent action based on internalized values)",
+          "indent_level": 0,
+          "line_number": 98,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Concrete Experience** (doing/experiencing)",
+          "indent_level": 0,
+          "line_number": 174,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Reflective Observation** (reviewing/reflecting)",
+          "indent_level": 0,
+          "line_number": 176,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Abstract Conceptualization** (concluding/learning)",
+          "indent_level": 0,
+          "line_number": 177,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Active Experimentation** (planning/trying)",
+          "indent_level": 0,
+          "line_number": 178,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Self-Determination Theory]] (Deci & Ryan)**",
+          "indent_level": 0,
+          "line_number": 249,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Metacognition and Self-Regulated Learning]]**",
+          "indent_level": 0,
+          "line_number": 255,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Constructivist Epistemology]] (Piaget, von Glasersfeld)**",
+          "indent_level": 0,
+          "line_number": 261,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Experiential Learning Theory]] (Kolb)**",
+          "indent_level": 0,
+          "line_number": 267,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Intrinsic Motivation Research]] (Csikszentmihalyi, Deci)**",
+          "indent_level": 0,
+          "line_number": 276,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Affective Domain Learning]] (Krathwohl)**",
+          "indent_level": 0,
+          "line_number": 281,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Adult Learning Theory (Andragogy)]] (Knowles)**",
+          "indent_level": 0,
+          "line_number": 286,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Phenomenological Psychology]] (Husserl, Merleau-Ponty)**",
+          "indent_level": 0,
+          "line_number": 291,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Behaviorist Learning Theory]] (Skinner, Thorndike)**",
+          "indent_level": 0,
+          "line_number": 299,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Cognitive Load Theory]] (Sweller)**",
+          "indent_level": 0,
+          "line_number": 304,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Social Learning Theory]] (Bandura)**",
+          "indent_level": 0,
+          "line_number": 309,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Critical Pedagogy]] (Freire, hooks)**",
+          "indent_level": 0,
+          "line_number": 314,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Self-Directed Learning Models]] (Tough, Grow)**",
+          "indent_level": 0,
+          "line_number": 322,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Reflective Practice Theory]] (Schön, Brookfield)**",
+          "indent_level": 0,
+          "line_number": 327,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Personal Knowledge Management Systems]] (Ahrens, Forte)**",
+          "indent_level": 0,
+          "line_number": 332,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Learning Transfer Theory]] (Perkins, Salomon)**",
+          "indent_level": 0,
+          "line_number": 337,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Self-Actualization Research]]**",
+          "indent_level": 0,
+          "line_number": 373,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Flow Theory and Optimal Experience]]**",
+          "indent_level": 0,
+          "line_number": 378,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Transformative Learning Theory]] (Mezirow)**",
+          "indent_level": 0,
+          "line_number": 383,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**[[Heutagogy]] (Self-Determined Learning)**",
+          "indent_level": 0,
+          "line_number": 388,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "External rewards undermine [[Intrinsic Motivation]] (see [[Overjustification Effect]])",
+          "indent_level": 0,
+          "line_number": 142,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Humans are not stimulus-response machines but meaning-making agents",
+          "indent_level": 0,
+          "line_number": 144,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Learning divorced from personal relevance produces only shallow, non-transferable knowledge",
+          "indent_level": 0,
+          "line_number": 145,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "The [[Black Box]] approach ignoring internal states misses the essence of human cognition",
+          "indent_level": 0,
+          "line_number": 146,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Knowledge is constructed, not transmitted",
+          "indent_level": 0,
+          "line_number": 153,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Prior experience and existing schemas shape interpretation",
+          "indent_level": 0,
+          "line_number": 155,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Learning is fundamentally personal and context-dependent",
+          "indent_level": 0,
+          "line_number": 156,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Social interaction enhances cognitive development",
+          "indent_level": 0,
+          "line_number": 157,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Cognitivism uses [[Information Processing Theory]] metaphors (brain as computer); humanism rejects mechanistic analogies",
+          "indent_level": 0,
+          "line_number": 164,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Cognitivism emphasizes universal cognitive architectures; humanism emphasizes individual phenomenology",
+          "indent_level": 0,
+          "line_number": 166,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Cognitivism seeks generalizable laws; humanism prioritizes idiographic understanding",
+          "indent_level": 0,
+          "line_number": 167,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Following interest threads even when they seem tangential",
+          "indent_level": 0,
+          "line_number": 188,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Allowing emergent organization rather than pre-defined taxonomies",
+          "indent_level": 0,
+          "line_number": 189,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Using [[Zettelkasten]] principles that honor associative thinking",
+          "indent_level": 0,
+          "line_number": 190,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Celebrating connection-making as the primary learning outcome",
+          "indent_level": 0,
+          "line_number": 191,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Capturing not just \"what\" but \"why this matters to me\"",
+          "indent_level": 0,
+          "line_number": 194,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Recording [[Aha Moments]] and [[Cognitive Dissonance]] experiences",
+          "indent_level": 0,
+          "line_number": 195,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Tracking how ideas change your perspective and self-concept",
+          "indent_level": 0,
+          "line_number": 196,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Using your PKB as a mirror for [[Metacognitive Reflection]]",
+          "indent_level": 0,
+          "line_number": 197,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Allow for recursive revisiting of concepts as understanding deepens",
+          "indent_level": 0,
+          "line_number": 200,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Recognize that \"mastery\" is perpetually provisional",
+          "indent_level": 0,
+          "line_number": 201,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Value questions and uncertainty as highly as answers",
+          "indent_level": 0,
+          "line_number": 202,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Use [[Progressive Summarization]] that evolves with your thinking",
+          "indent_level": 0,
+          "line_number": 203,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Applying concepts to real problems in your life",
+          "indent_level": 0,
+          "line_number": 206,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Experimenting with ideas through [[Deliberate Practice]]",
+          "indent_level": 0,
+          "line_number": 207,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Using writing as [[Thinking Tool]] rather than mere recording",
+          "indent_level": 0,
+          "line_number": 208,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Measuring success by self-transformation, not knowledge quantity",
+          "indent_level": 0,
+          "line_number": 209,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Institutional educational settings requiring credentialing",
+          "indent_level": 0,
+          "line_number": 217,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Comparing outcomes across learners",
+          "indent_level": 0,
+          "line_number": 218,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Identifying effective vs. ineffective learning strategies",
+          "indent_level": 0,
+          "line_number": 219,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Securing funding in evidence-based policy environments",
+          "indent_level": 0,
+          "line_number": 220,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Why Essential**: Provides the cognitive/motivational mechanisms underlying humanistic learning principles",
+          "indent_level": 1,
+          "line_number": 251,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Explains HOW intrinsic motivation works at a psychological level (autonomy, competence, relatedness)",
+          "indent_level": 1,
+          "line_number": 252,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Scope**: Covers motivation continuum from amotivation → extrinsic → intrinsic, plus controlled vs. autonomous motivation",
+          "indent_level": 1,
+          "line_number": 253,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Foundation for understanding why your self-directed approach works cognitively",
+          "indent_level": 1,
+          "line_number": 254,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Why Essential**: Humanistic learning requires sophisticated self-awareness; this provides the cognitive architecture",
+          "indent_level": 1,
+          "line_number": 257,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Bridges abstract humanistic ideals to concrete self-management strategies",
+          "indent_level": 1,
+          "line_number": 258,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Scope**: Metacognitive knowledge (declarative, procedural, conditional) + metacognitive regulation (planning, monitoring, evaluation)",
+          "indent_level": 1,
+          "line_number": 259,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Framework for designing your own learning monitoring systems",
+          "indent_level": 1,
+          "line_number": 260,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Why Essential**: Explains the philosophical foundations shared by humanism and constructivism",
+          "indent_level": 1,
+          "line_number": 263,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Clarifies how knowledge construction differs from knowledge transmission",
+          "indent_level": 1,
+          "line_number": 264,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Scope**: Radical constructivism, social constructivism, constructionism, epistemological assumptions",
+          "indent_level": 1,
+          "line_number": 265,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Theoretical justification for your Zettelkasten/associative thinking approach",
+          "indent_level": 1,
+          "line_number": 266,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Why Essential**: Operationalizes humanistic principles into a practical framework",
+          "indent_level": 1,
+          "line_number": 269,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Provides structured process for the phenomenological learning cycle",
+          "indent_level": 1,
+          "line_number": 270,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Scope**: Four-stage cycle, learning styles, experience-based pedagogy",
+          "indent_level": 1,
+          "line_number": 271,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Model for designing learning experiments and reflection protocols",
+          "indent_level": 1,
+          "line_number": 272,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Explores the psychological states that make learning inherently rewarding",
+          "indent_level": 1,
+          "line_number": 278,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Includes [[Flow Theory]], [[Optimal Challenge]], [[Autotelic Experience]]",
+          "indent_level": 1,
+          "line_number": 279,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Design principles for creating intrinsically motivating learning conditions",
+          "indent_level": 1,
+          "line_number": 280,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: The \"missing half\" of most learning theories that humanistic psychology prioritizes",
+          "indent_level": 1,
+          "line_number": 283,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Full taxonomy from receiving → characterization, affective objectives design",
+          "indent_level": 1,
+          "line_number": 284,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Framework for tracking emotional/valuational dimensions of learning",
+          "indent_level": 1,
+          "line_number": 285,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Application of humanistic principles specifically to adult learners (you)",
+          "indent_level": 1,
+          "line_number": 288,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Six assumptions, self-directed learning process, learning contracts",
+          "indent_level": 1,
+          "line_number": 289,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Validates your approach of designing personalized learning architecture",
+          "indent_level": 1,
+          "line_number": 290,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Philosophical foundation of the \"subjective experience primacy\" principle",
+          "indent_level": 1,
+          "line_number": 293,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Intentionality, lived experience, bracketing, essence of consciousness",
+          "indent_level": 1,
+          "line_number": 294,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Deepens understanding of why your personal meaning-making matters epistemologically",
+          "indent_level": 1,
+          "line_number": 295,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Understanding what humanistic theory explicitly rejects clarifies its unique contributions",
+          "indent_level": 1,
+          "line_number": 301,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Classical conditioning, operant conditioning, reinforcement schedules, limitations",
+          "indent_level": 1,
+          "line_number": 302,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Helps identify when behaviorist techniques might actually be useful despite philosophical differences",
+          "indent_level": 1,
+          "line_number": 303,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Provides cognitive constraints that humanistic theory sometimes overlooks",
+          "indent_level": 2,
+          "line_number": 306,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Working memory limits, intrinsic vs. extraneous load, expertise reversal effect",
+          "indent_level": 2,
+          "line_number": 307,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Informs when structured guidance might be more effective than pure exploration",
+          "indent_level": 2,
+          "line_number": 308,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Bridges behaviorism and cognitivism; offers perspective on observational learning",
+          "indent_level": 2,
+          "line_number": 311,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Vicarious learning, self-efficacy, reciprocal determinism",
+          "indent_level": 2,
+          "line_number": 312,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Explains role of modeling and social context in self-directed learning",
+          "indent_level": 2,
+          "line_number": 313,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Critiques humanistic psychology's political naivety regarding power structures",
+          "indent_level": 2,
+          "line_number": 316,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Conscientization, banking model critique, transformative education",
+          "indent_level": 2,
+          "line_number": 317,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Prevents naive individualism by acknowledging structural learning barriers",
+          "indent_level": 2,
+          "line_number": 318,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Concrete implementations of humanistic principles in autodidactic contexts",
+          "indent_level": 2,
+          "line_number": 324,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Learning projects, personal learning networks, learning how to learn",
+          "indent_level": 2,
+          "line_number": 325,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Direct template for your cognitive self-development project architecture",
+          "indent_level": 2,
+          "line_number": 326,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Metacognitive dimension essential for humanistic learning",
+          "indent_level": 2,
+          "line_number": 329,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Reflection-in-action vs. reflection-on-action, critical incidents, assumptions questioning",
+          "indent_level": 2,
+          "line_number": 330,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Framework for your PKB as reflective tool rather than mere storage",
+          "indent_level": 2,
+          "line_number": 331,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Technical implementation of humanistic learning principles in Obsidian",
+          "indent_level": 2,
+          "line_number": 334,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Zettelkasten method, PARA method, progressive summarization, digital gardens",
+          "indent_level": 2,
+          "line_number": 335,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Validates your current approach with contemporary research",
+          "indent_level": 2,
+          "line_number": 336,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Connection**: Addresses humanistic learning's challenge of demonstrating practical outcomes",
+          "indent_level": 2,
+          "line_number": 339,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**Depth Potential**: Near vs. far transfer, high-road vs. low-road transfer, situated cognition",
+          "indent_level": 2,
+          "line_number": 340,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "**PKB Integration**: Helps design for knowledge application beyond mere understanding",
+          "indent_level": 2,
+          "line_number": 341,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Start with [[Self-Determination Theory]] and [[Metacognition and Self-Regulated Learning]]",
+          "indent_level": 0,
+          "line_number": 351,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "These provide the cognitive psychology scaffolding for understanding HOW humanistic principles work",
+          "indent_level": 0,
+          "line_number": 352,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Move to [[Constructivist Epistemology]] and [[Experiential Learning Theory]]",
+          "indent_level": 0,
+          "line_number": 355,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "These situate humanistic learning in broader epistemological frameworks",
+          "indent_level": 0,
+          "line_number": 356,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Study [[Behaviorist Learning Theory]] and [[Cognitive Load Theory]]",
+          "indent_level": 0,
+          "line_number": 359,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Understanding competing frameworks clarifies humanistic theory's unique contributions and limitations",
+          "indent_level": 0,
+          "line_number": 360,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Explore [[Self-Directed Learning Models]] and [[Reflective Practice Theory]]",
+          "indent_level": 0,
+          "line_number": 363,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Apply insights to refine your PKB architecture and learning protocols",
+          "indent_level": 0,
+          "line_number": 364,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Sample from remaining topics based on emergent interests and practical needs",
+          "indent_level": 0,
+          "line_number": 367,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "Allow your growing knowledge graph to reveal new connection opportunities",
+          "indent_level": 0,
+          "line_number": 368,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Connection*: The ultimate goal of humanistic learning; understanding its psychology clarifies the endpoint",
+          "indent_level": 1,
+          "line_number": 375,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Depth Potential*: Maslow's hierarchy, peak experiences, characteristics of self-actualizers, measurement challenges",
+          "indent_level": 1,
+          "line_number": 376,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Links humanistic learning to positive psychology, motivation theory, and existential philosophy",
+          "indent_level": 1,
+          "line_number": 377,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Connection*: Describes the psychological state when intrinsic motivation reaches its peak during learning",
+          "indent_level": 1,
+          "line_number": 380,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Depth Potential*: Challenge-skill balance, autotelic personality, flow in education contexts",
+          "indent_level": 1,
+          "line_number": 381,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Bridges motivation research, performance psychology, and learning design",
+          "indent_level": 1,
+          "line_number": 382,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Connection*: Adult learning theory emphasizing perspective transformation—the deepest form of humanistic learning",
+          "indent_level": 1,
+          "line_number": 385,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Depth Potential*: Disorienting dilemmas, critical reflection, frame of reference shifts",
+          "indent_level": 1,
+          "line_number": 386,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Connects humanistic learning to adult development, critical thinking, and paradigm shifts",
+          "indent_level": 1,
+          "line_number": 387,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Connection*: Evolution of andragogy that extends learner autonomy even further—highly aligned with your goals",
+          "indent_level": 1,
+          "line_number": 390,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Depth Potential*: Capability development vs. competency, double-loop learning, learner agency",
+          "indent_level": 1,
+          "line_number": 391,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        },
+        {
+          "text": "*Knowledge Graph Role*: Represents cutting edge of humanistic learning theory applied to complex, rapidly-changing knowledge domains",
+          "indent_level": 1,
+          "line_number": 392,
+          "source": "topic-set-cognitive-self-development-humanisim-learning-202511121030.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Abraham Maslow",
+      "Adult Learning Theory (Andragogy)",
+      "Affective Domain Learning",
+      "Aha Moments",
+      "Andragogy",
+      "Autotelic Experience",
+      "Behaviorism",
+      "Behaviorist Learning Theory",
+      "Black Box",
+      "Bloom's Taxonomy",
+      "Carl Rogers",
+      "Cognitive Dissonance",
+      "Cognitive Learning",
+      "Cognitive Learning Theory",
+      "Cognitive Load Theory",
+      "Cognitivism",
+      "Collaborative Inquiry",
+      "Congruence",
+      "Constructivism",
+      "Constructivist Epistemology",
+      "Constructivist Learning Environments",
+      "Constructivist Learning Theory",
+      "Critical Pedagogy",
+      "Cross-Cultural Psychology",
+      "Deliberate Practice",
+      "Dual Coding Theory",
+      "Empathic Understanding",
+      "Experiential Learning",
+      "Experiential Learning Theory",
+      "Flow Theory",
+      "Flow Theory and Optimal Experience",
+      "Freudian Psychology",
+      "Heutagogy",
+      "Hierarchy of Needs",
+      "Humanistic Psychology",
+      "Information Processing Theory",
+      "Intrinsic Motivation",
+      "Intrinsic Motivation Research",
+      "Kolb's Experiential Learning Cycle",
+      "Krathwohl's Affective Domain Taxonomy",
+      "Learning Transfer Theory",
+      "Malcolm Knowles",
+      "Metacognition and Self-Regulated Learning",
+      "Metacognitive Awareness",
+      "Metacognitive Reflection",
+      "Optimal Challenge",
+      "Overjustification Effect",
+      "Peak Experiences",
+      "Peer Learning",
+      "Person-Centered Therapy",
+      "Personal Knowledge Management Systems",
+      "Phenomenological Psychology",
+      "Planning Fallacy",
+      "Progressive Summarization",
+      "Psychoanalysis",
+      "Psychological Safety",
+      "Rationalist Epistemology",
+      "Reflective Practice Structures",
+      "Reflective Practice Theory",
+      "Resource Accessibility",
+      "Retrieval Practice",
+      "Schema Addition",
+      "Schema Transformation",
+      "Self-Actualization",
+      "Self-Actualization Research",
+      "Self-Determination Theory",
+      "Self-Directed Learning",
+      "Self-Directed Learning Models",
+      "Significant Learning",
+      "Social Learning Theory",
+      "Socratic Dialogue",
+      "Thinking Tool",
+      "Transformative Learning Theory",
+      "Unconditional Positive Regard",
+      "Zettelkasten",
+      "Zone Of Proximal Development"
+    ],
+    "unique_wiki_link_count": 76,
+    "unique_tags": [
+      "#cognitive-science",
+      "#type/reference"
+    ],
+    "unique_tag_count": 2,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Abraham Maslow",
+      "Adult Learning Theory (Andragogy)",
+      "Affective Domain Learning",
+      "Aha Moments",
+      "Andragogy",
+      "Autotelic Experience",
+      "Behaviorism",
+      "Behaviorist Learning Theory",
+      "Black Box",
+      "Bloom's Taxonomy",
+      "Carl Rogers",
+      "Cognitive Dissonance",
+      "Cognitive Learning",
+      "Cognitive Learning Theory",
+      "Cognitive Load Theory",
+      "Cognitivism",
+      "Collaborative Inquiry",
+      "Congruence",
+      "Constructivism",
+      "Constructivist Epistemology",
+      "Constructivist Learning Environments",
+      "Constructivist Learning Theory",
+      "Critical Pedagogy",
+      "Cross-Cultural Psychology",
+      "Deliberate Practice",
+      "Dual Coding Theory",
+      "Empathic Understanding",
+      "Experiential Learning",
+      "Experiential Learning Theory",
+      "Flow Theory",
+      "Flow Theory and Optimal Experience",
+      "Freudian Psychology",
+      "Heutagogy",
+      "Hierarchy of Needs",
+      "Humanistic Psychology",
+      "Information Processing Theory",
+      "Intrinsic Motivation",
+      "Intrinsic Motivation Research",
+      "Kolb's Experiential Learning Cycle",
+      "Krathwohl's Affective Domain Taxonomy",
+      "Learning Transfer Theory",
+      "Malcolm Knowles",
+      "Metacognition and Self-Regulated Learning",
+      "Metacognitive Awareness",
+      "Metacognitive Reflection",
+      "Optimal Challenge",
+      "Overjustification Effect",
+      "Peak Experiences",
+      "Peer Learning",
+      "Person-Centered Therapy",
+      "Personal Knowledge Management Systems",
+      "Phenomenological Psychology",
+      "Planning Fallacy",
+      "Progressive Summarization",
+      "Psychoanalysis",
+      "Psychological Safety",
+      "Rationalist Epistemology",
+      "Reflective Practice Structures",
+      "Reflective Practice Theory",
+      "Resource Accessibility",
+      "Retrieval Practice",
+      "Schema Addition",
+      "Schema Transformation",
+      "Self-Actualization",
+      "Self-Actualization Research",
+      "Self-Determination Theory",
+      "Self-Directed Learning",
+      "Self-Directed Learning Models",
+      "Significant Learning",
+      "Social Learning Theory",
+      "Socratic Dialogue",
+      "Thinking Tool",
+      "Transformative Learning Theory",
+      "Unconditional Positive Regard",
+      "Zettelkasten",
+      "Zone Of Proximal Development"
+    ]
+  }
+}

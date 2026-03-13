@@ -1,0 +1,360 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:19:12.887838",
+    "source_file": "-reports-index.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\04-cosmology\\-reports\\-reports-index.md",
+    "source_file_size_bytes": 1831,
+    "processing_time_seconds": 0.001
+  },
+  "document_metadata": {
+    "frontmatter": {},
+    "word_count": 253,
+    "character_count": 1828,
+    "line_count": 80,
+    "heading_count": 13
+  },
+  "extraction_summary": {
+    "total_items_extracted": 22,
+    "by_type": {
+      "headings": 13,
+      "callouts": 0,
+      "wiki_links": 1,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 6,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 2,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "[cosmology-reports-index]",
+      "anchor": "cosmology-reports-index",
+      "line_number": 1,
+      "source": "-reports-index.md",
+      "children": []
+    },
+    {
+      "level": 1,
+      "text": "Index",
+      "anchor": "index",
+      "line_number": 2,
+      "source": "-reports-index.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Overview",
+          "anchor": "overview",
+          "line_number": 4,
+          "source": "-reports-index.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Files in this Folder",
+              "anchor": "files-in-this-folder",
+              "line_number": 6,
+              "source": "-reports-index.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Performance Metrics",
+          "anchor": "performance-metrics",
+          "line_number": 15,
+          "source": "-reports-index.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Folder Activity Metrics (Count & Rate)",
+              "anchor": "folder-activity-metrics-count-rate",
+              "line_number": 17,
+              "source": "-reports-index.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Recent Changes",
+          "anchor": "recent-changes",
+          "line_number": 28,
+          "source": "-reports-index.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Recent Changes (Detailed Modification Log)",
+              "anchor": "recent-changes-detailed-modification-log",
+              "line_number": 30,
+              "source": "-reports-index.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Linking Metrics",
+          "anchor": "linking-metrics",
+          "line_number": 41,
+          "source": "-reports-index.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Links to this Folder's Notes",
+              "anchor": "links-to-this-folders-notes",
+              "line_number": 43,
+              "source": "-reports-index.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Orphaned Notes in this folder with no Links",
+              "anchor": "orphaned-notes-in-this-folder-with-no-links",
+              "line_number": 53,
+              "source": "-reports-index.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Notes by Tag Specification",
+          "anchor": "notes-by-tag-specification",
+          "line_number": 66,
+          "source": "-reports-index.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Notes by Specific Tag",
+              "anchor": "notes-by-specific-tag",
+              "line_number": 68,
+              "source": "-reports-index.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [],
+    "wiki_links": [
+      {
+        "target": "reference-taxonomy-pur3v4d3r-tags_202511190109",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[reference-taxonomy-pur3v4d3r-tags_202511190109]]",
+        "line_number": 79,
+        "section": "Notes by Specific Tag",
+        "context_line": "- Refer to Tag Taxonomy here: [[reference-taxonomy-pur3v4d3r-tags_202511190109]]",
+        "source": "-reports-index.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "[cosmology-reports-index]",
+        "anchor": "cosmology-reports-index",
+        "line_number": 1,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 1,
+        "text": "Index",
+        "anchor": "index",
+        "line_number": 2,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 2,
+        "text": "Overview",
+        "anchor": "overview",
+        "line_number": 4,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 3,
+        "text": "Files in this Folder",
+        "anchor": "files-in-this-folder",
+        "line_number": 6,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 2,
+        "text": "Performance Metrics",
+        "anchor": "performance-metrics",
+        "line_number": 15,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 3,
+        "text": "Folder Activity Metrics (Count & Rate)",
+        "anchor": "folder-activity-metrics-count-rate",
+        "line_number": 17,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 2,
+        "text": "Recent Changes",
+        "anchor": "recent-changes",
+        "line_number": 28,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 3,
+        "text": "Recent Changes (Detailed Modification Log)",
+        "anchor": "recent-changes-detailed-modification-log",
+        "line_number": 30,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 2,
+        "text": "Linking Metrics",
+        "anchor": "linking-metrics",
+        "line_number": 41,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 3,
+        "text": "Links to this Folder's Notes",
+        "anchor": "links-to-this-folders-notes",
+        "line_number": 43,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 3,
+        "text": "Orphaned Notes in this folder with no Links",
+        "anchor": "orphaned-notes-in-this-folder-with-no-links",
+        "line_number": 53,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 2,
+        "text": "Notes by Tag Specification",
+        "anchor": "notes-by-tag-specification",
+        "line_number": 66,
+        "source": "-reports-index.md"
+      },
+      {
+        "level": 3,
+        "text": "Notes by Specific Tag",
+        "anchor": "notes-by-specific-tag",
+        "line_number": 68,
+        "source": "-reports-index.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "dataview",
+        "code": "TABLE file.ctime AS \"Date Created\", file.mtime AS \"Last Modified\"\nFROM \"\"\nWHERE file.folder = this.file.folder AND file.name != this.file.name\nSORT file.name ASC",
+        "line_start": 8,
+        "line_end": 13,
+        "char_count": 161,
+        "line_count": 4,
+        "source": "-reports-index.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE WITHOUT ID\n  length(rows) AS \"Total Notes in Folder\",\n  length(filter(rows, (r) => date(r.file.ctime) >= date(today) - dur(7 days))) AS \"New Notes (Last 7 Days)\",\n  length(filter(rows, (r) => date(r.file.mtime) >= date(today) - dur(7 days))) AS \"Modified Notes (Last 7 Days)\"\nFLATTEN file.mtime as modified\nWHERE file.folder = this.file.folder AND file.name != this.file.name\nGROUP BY \"Folder Metrics\"",
+        "line_start": 19,
+        "line_end": 27,
+        "char_count": 407,
+        "line_count": 7,
+        "source": "-reports-index.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE\n  file.mtime AS \"Last Modified Date\",\n  (date(today) - file.mtime) AS \"Days Ago\"\nFROM \"\"\nWHERE file.folder = this.file.folder AND file.name != this.file.name\nSORT file.mtime DESC\nLIMIT 15",
+        "line_start": 32,
+        "line_end": 40,
+        "char_count": 193,
+        "line_count": 7,
+        "source": "-reports-index.md"
+      },
+      {
+        "language": "dataview",
+        "code": "LIST\nFROM [[]]\nWHERE contains(file.outlinks, this.file.folder)\n  AND file.folder != this.file.folder\nSORT file.name ASC",
+        "line_start": 45,
+        "line_end": 51,
+        "char_count": 119,
+        "line_count": 5,
+        "source": "-reports-index.md"
+      },
+      {
+        "language": "dataview",
+        "code": "TABLE WITHOUT ID\n  file.link AS \"Orphaned Note\",\n  length(file.outlinks) AS \"Links Out\"\nFROM \"\"\nWHERE file.folder = this.file.folder\n  AND length(file.inlinks) = 0\n  AND file.name != this.file.name\nSORT file.name ASC",
+        "line_start": 55,
+        "line_end": 64,
+        "char_count": 216,
+        "line_count": 8,
+        "source": "-reports-index.md"
+      },
+      {
+        "language": "plaintext",
+        "code": "LIST \nFROM \"type = [🧬concept]\"\nWHERE file.folder = this.file.folder\nSORT file.name ASC",
+        "line_start": 70,
+        "line_end": 75,
+        "char_count": 86,
+        "line_count": 4,
+        "source": "-reports-index.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "You need to fill out the correct Tags you want to be dispayed in this section.",
+          "indent_level": 0,
+          "line_number": 22,
+          "source": "-reports-index.md"
+        },
+        {
+          "text": "Refer to Tag Taxonomy here: [[reference-taxonomy-pur3v4d3r-tags_202511190109]]",
+          "indent_level": 0,
+          "line_number": 23,
+          "source": "-reports-index.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "reference-taxonomy-pur3v4d3r-tags_202511190109"
+    ],
+    "unique_wiki_link_count": 1,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "reference-taxonomy-pur3v4d3r-tags_202511190109"
+    ]
+  }
+}

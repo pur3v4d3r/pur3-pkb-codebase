@@ -1,0 +1,709 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:22.431261",
+    "source_file": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\01-cognitive-science\\-reports\\cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+    "source_file_size_bytes": 19399,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "aliases": [
+        "Self-Determination and PKM",
+        "PKM through Self Determination"
+      ],
+      "tags": [
+        "type/permanent",
+        "year/2025",
+        "type/analysis",
+        "learning-theory",
+        "self-improvement",
+        "building-second-brain",
+        "self-regulation/motivation",
+        "self-directed-learning",
+        "cognitive-resources",
+        "working-memory",
+        "self-regulation",
+        "learning-optimization"
+      ],
+      "source": "gemini-pro-3.0",
+      "id": "20251126104228",
+      "created": "2025-11-26T10:42:28",
+      "modified": "2025-11-26T10:42:28",
+      "week": "[[2025-W48]]",
+      "month": "[[2025-11]]",
+      "quarter": "[[2025-Q4]]",
+      "year": "[[2025]]",
+      "type": "report",
+      "maturity": "read",
+      "confidence": "moderate",
+      "next-review": "2025-12-03",
+      "rating": "8",
+      "review-count": "0",
+      "link-count": "0",
+      "backlink-count": "0",
+      "link-up": [
+        "[[99-archive/05-moc's/cognitive-science-moc]]"
+      ],
+      "link-related": [
+        "[[2025-11-26|Daily-Note]]"
+      ]
+    },
+    "word_count": 2673,
+    "character_count": 18582,
+    "line_count": 177,
+    "heading_count": 18
+  },
+  "extraction_summary": {
+    "total_items_extracted": 52,
+    "by_type": {
+      "headings": 18,
+      "callouts": 12,
+      "wiki_links": 12,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 4,
+      "lists_unordered": 5,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 1
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Self Determination Theory as a Driver for Sustainable Knowledge Management Habits",
+      "anchor": "self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits",
+      "line_number": 40,
+      "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📊 Report Metadata Dashboard",
+          "anchor": "report-metadata-dashboard",
+          "line_number": 47,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "2025-11-26 - Initial Creation",
+              "anchor": "2025-11-26-initial-creation",
+              "line_number": 55,
+              "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "🏷️ Tags & Classification",
+          "anchor": "tags-classification",
+          "line_number": 60,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📈 Review System",
+          "anchor": "review-system",
+          "line_number": 66,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase 1: Overture",
+          "anchor": "phase-1-overture",
+          "line_number": 87,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Philosophy of Nutritional Cognition",
+              "anchor": "the-philosophy-of-nutritional-cognition",
+              "line_number": 92,
+              "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase 2: Encyclopedic Exposition",
+          "anchor": "phase-2-encyclopedic-exposition",
+          "line_number": 104,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Historical Evolution of Motivational Science",
+              "anchor": "the-historical-evolution-of-motivational-science",
+              "line_number": 106,
+              "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Triad of Basic Psychological Needs",
+              "anchor": "the-triad-of-basic-psychological-needs",
+              "line_number": 117,
+              "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+              "children": [
+                {
+                  "level": 4,
+                  "text": "1. Autonomy: The Necessity of Volition",
+                  "anchor": "1-autonomy-the-necessity-of-volition",
+                  "line_number": 121,
+                  "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "2. Competence: The Architecture of Mastery",
+                  "anchor": "2-competence-the-architecture-of-mastery",
+                  "line_number": 129,
+                  "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+                  "children": []
+                },
+                {
+                  "level": 4,
+                  "text": "3. Relatedness: The Dialogue with the System",
+                  "anchor": "3-relatedness-the-dialogue-with-the-system",
+                  "line_number": 142,
+                  "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "text": "Organismic Integration Theory (OIT): The Taxonomy of Motivation",
+              "anchor": "organismic-integration-theory-oit-the-taxonomy-of-motivation",
+              "line_number": 150,
+              "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Cognitive Evaluation Theory: The Locus of Causality",
+              "anchor": "cognitive-evaluation-theory-the-locus-of-causality",
+              "line_number": 166,
+              "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase 3: Connective Tissue",
+          "anchor": "phase-3-connective-tissue",
+          "line_number": 178,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase 4: References & Metadata",
+          "anchor": "phase-4-references-metadata",
+          "line_number": 193,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "References",
+          "anchor": "references",
+          "line_number": 202,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "overview",
+        "title": "Untitled",
+        "body": "- **Title**:: [[Self Determination Theory as a Driver for Sustainable Knowledge Management Habits]]\n- **Prompt/Topic Used**:: \n- **Status**:: 🌱 `= this.maturity` | Confidence: `= this.confidence`",
+        "line_number": 42,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 865,
+        "char_end": 1081
+      },
+      {
+        "type": "important",
+        "title": "Review Schedule",
+        "body": "- **Next Review**: `= this.next-review`\n- **Review Frequency**: Based on maturity level\n  - Seedling: Weekly\n  - Budding: Bi-weekly\n  - Developing: Monthly\n  - Evergreen: Quarterly",
+        "line_number": 67,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 1626,
+        "char_end": 1850
+      },
+      {
+        "type": "summary",
+        "title": "Abstract",
+        "body": "This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[Organismic Integration Theory]], [[Cognitive Evaluation Theory]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.",
+        "line_number": 84,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 2040,
+        "char_end": 2870
+      },
+      {
+        "type": "definition",
+        "title": "Self-Determination Theory (SDT)",
+        "body": "A macro-theory of human motivation and personality developed by **Edward L. Deci** and **Richard M. Ryan**. It asserts that humans are active organisms with innate tendencies toward psychological growth and integration. SDT posits that optimal functioning, well-being, and high-quality motivation depend on the continuous satisfaction of three universal psychological needs: **Autonomy** (the need to feel volition and self-endorsement of one's actions), **Competence** (the need to feel effective in one's interactions with the environment), and **Relatedness** (the need to feel connected to and cared for by others).",
+        "line_number": 89,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 2893,
+        "char_end": 3563
+      },
+      {
+        "type": "evidence",
+        "title": "The Undermining Effect in PKM",
+        "body": "Contemporary analysis of \"productivity burnout\" aligns perfectly with Deci’s 1971 findings. When users adopt rigid systems (like complex Notion dashboards with \"status bars\" for reading lists), they effectively gamify their reading with external rewards (checking the box). While this increases short-term output, it often leads to a long-term cessation of reading for pleasure. The external structure undermines the internal volition.",
+        "line_number": 114,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 7441,
+        "char_end": 7923
+      },
+      {
+        "type": "concept",
+        "title": "The Flow Channel Equation",
+        "body": "We can conceptualize the zone of optimal competence as:\n$$Flow \\approx \\frac{\\text{Perceived Challenge}}{\\text{Perceived Skill}} \\approx 1$$\nIf the challenge of the KM system exceeds skill (e.g., a novice trying to implement a complex metadata schema), the result is **Anxiety**. If skill exceeds challenge (e.g., passively highlighting text without synthesis), the result is **Boredom**.",
+        "line_number": 133,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 10121,
+        "char_end": 10555
+      },
+      {
+        "type": "warning",
+        "title": "The Danger of Introjection",
+        "body": "The vast majority of \"productivity porn\" targets **Introjected Regulation**. It sells the idea that you are inadequate if you do not have a \"Second Brain.\" While this can jumpstart a habit, it is metabolically expensive. Introjected motivation creates internal conflict (tension between the \"want\" and the \"should\"), which depletes the ego resources necessary for deep cognitive work.",
+        "line_number": 161,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 13711,
+        "char_end": 14138
+      },
+      {
+        "type": "connections",
+        "title": "Internal Network",
+        "body": "* [[Cognitive Load Theory]]: SDT explains the *motivation* to manage load, while Cognitive Load Theory explains the *capacity* constraints. High autonomy reduces extraneous load caused by anxiety/guilt.\n* [[Luhmann’s Zettelkasten]]: The practical application of SDT. Autonomy (no topic silos), Competence (writing as understanding), Relatedness (communication partner).\n* [[Metacognition]]: The awareness of one's own learning process is essential for *Integrated Regulation*. We must be aware of *why* we are noting to align it with the self.\n* [[Zeigarnik Effect]]: Open loops create tension. Autonomy allows us to close loops that don't matter and focus on those that drive curiosity.",
+        "line_number": 180,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 15778,
+        "char_end": 16508
+      },
+      {
+        "type": "question",
+        "title": "Research Avenues",
+        "body": "1.  **AI as Autonomy Thwarting?** Does the integration of LLMs (Large Language Models) into note-taking apps reduce the feeling of Competence (by doing the thinking for us) and thus undermine intrinsic motivation?\n2.  **Institutional vs. Personal:** How can organizations foster knowledge sharing (Relatedness) without imposing controlling external regulation that destroys the individual's Autonomy?\n3.  **The Quantified Self:** At what precise point does tracking data about one's learning habits shift from being \"Informational\" (competence-supporting) to \"Controlling\" (autonomy-thwarting)?",
+        "line_number": 186,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 16509,
+        "char_end": 17141
+      },
+      {
+        "type": "tldr",
+        "title": "Key Takeaways",
+        "body": "* **Motivation is Metabolic:** Your mind requires Autonomy, Competence, and Relatedness to sustain the energy for lifelong learning; without them, burnout is inevitable.\n* **Avoid the \"Shoulds\":** Most PKM failures stem from **Introjected Regulation** (guilt-driven action). Systems must be designed to support **Integrated Regulation** (identity-driven action).\n* **Friction is Competence:** Passive capturing feels efficient but fails to satisfy the need for Competence. **Desirable Difficulties** (rewriting, linking) generate the mastery signals that fuel motivation.\n* **The System is a Partner:** Relatedness in solo work comes from treating the note archive as a dialogue partner. The system must \"speak back\" through serendipitous rediscovery.\n* **Informational over Controlling:** Design your digital environment to provide informational feedback (what you learned) rather than controlling feedback (what you owe the system).",
+        "line_number": 195,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 17182,
+        "char_end": 18151
+      },
+      {
+        "type": "cite",
+        "title": "Primary Sources",
+        "body": "* **Deci, E. L.** (1971). *Effects of externally mediated rewards on intrinsic motivation*. Journal of Personality and Social Psychology, 18(1), 105–115.\n* **Deci, E. L., & Ryan, R. M.** (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. New York: Plenum.\n* **Ryan, R. M., & Deci, E. L.** (2000). *Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being*. American Psychologist, 55(1), 68–78.\n* **Luhmann, N.** (1981). *Kommunikation mit Zettelkästen*. In H. Baier (Ed.), *Öffentliche Meinung und sozialer Wandel*.",
+        "line_number": 204,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 18167,
+        "char_end": 18789
+      },
+      {
+        "type": "cite",
+        "title": "Secondary Literature",
+        "body": "* **Bjork, R. A.** (1994). *Memory and metamemory considerations in the training of human beings*. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing*.\n* **Csikszentmihalyi, M.** (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.\n* **Taleb, N. N.** (2007). *The Black Swan: The Impact of the Highly Improbable*. Random House. (Concept of the Anti-Library).\n* **Forte, T.** (2022). *Building a Second Brain*. Simon & Schuster. (For contrast on project-based vs. curiosity-based approaches).",
+        "line_number": 210,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+        "char_start": 18790,
+        "char_end": 19361
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Self Determination Theory as a Driver for Sustainable Knowledge Management Habits",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self Determination Theory as a Driver for Sustainable Knowledge Management Habits]]",
+        "line_number": 43,
+        "section": "Self Determination Theory as a Driver for Sustainable Knowledge Management Habits",
+        "context_line": "> - **Title**:: [[Self Determination Theory as a Driver for Sustainable Knowledge Management Habits]]",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "target": "Organismic Integration Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Organismic Integration Theory]]",
+        "line_number": 85,
+        "section": "📈 Review System",
+        "context_line": "> This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[Organismic Integration Theory]], [[Cognitive Evaluation Theory]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "target": "Cognitive Evaluation Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Evaluation Theory]]",
+        "line_number": 85,
+        "section": "📈 Review System",
+        "context_line": "> This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[Organismic Integration Theory]], [[Cognitive Evaluation Theory]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "target": "Luhmann’s Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Luhmann’s Zettelkasten]]",
+        "line_number": 85,
+        "section": "📈 Review System",
+        "context_line": "> This report establishes a unified framework for **Sustainable Knowledge Management (SKM)** by applying the principles of **Self-Determination Theory (SDT)**. It posits that the failure of most Personal Knowledge Management (PKM) systems is not technical but motivational, resulting from a deficit in three basic psychological nutrients: **Autonomy**, **Competence**, and **Relatedness**. By shifting the locus of causality from external pressure (productivity optimization) to internal volition (intrinsic curiosity), we transform knowledge work from a resource-depleting chore into a regenerative practice. This analysis integrates [[Organismic Integration Theory]], [[Cognitive Evaluation Theory]], and [[Luhmann’s Zettelkasten]] to propose a rigorous, evidence-based architecture for lifelong learning.",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "target": "Personal Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Management]]",
+        "line_number": 100,
+        "section": "The Philosophy of Nutritional Cognition",
+        "context_line": "In the context of [[Personal Knowledge Management]], SDT argues that if we design our systems to satisfy our basic psychological needs, the motivation to learn becomes regenerative. We move from **Controlled Motivation** (acting out of pressure, guilt, or \"shoulds\") to **Autonomous Motivation** (acting out of interest and volition). This shift is the single most critical factor in whether a knowledge management practice survives the initial burst of enthusiasm to become a lifelong habit.",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "target": "Epistemic Curiosity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic Curiosity]]",
+        "line_number": 123,
+        "section": "1. Autonomy: The Necessity of Volition",
+        "context_line": "Autonomy is often confused with independence, but in SDT, it specifically refers to **volition**. A person is autonomous when they fully endorse their own actions. In Knowledge Management, autonomy is the freedom to pursue [[Epistemic Curiosity]] without the constraints of a pre-determined curriculum or the pressure of \"instrumental utility.\"",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "target": "Flow Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Flow Theory]]",
+        "line_number": 131,
+        "section": "2. Competence: The Architecture of Mastery",
+        "context_line": "Competence is not merely the possession of skill; it is the felt sense of effectiveness in interacting with one's environment. It is the deep psychological need to seek out optimal challenges and master them. In [[Flow Theory]], famously articulated by **Mihaly Csikszentmihalyi**, this is represented as the channel where skill level matches challenge level.",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "target": "Robert Bjork",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Robert Bjork]]",
+        "line_number": 138,
+        "section": "2. Competence: The Architecture of Mastery",
+        "context_line": "Most standard note-taking habits fail the competence test because they are too passive. Simply highlighting text or clipping articles requires near-zero skill and offers near-zero feedback. There is no sense of mastery because there is no struggle. To satisfy the need for competence, a knowledge system must incorporate **Desirable Difficulties**, a concept from [[Robert Bjork]].",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 181,
+        "section": "Phase 3: Connective Tissue",
+        "context_line": "> * [[Cognitive Load Theory]]: SDT explains the *motivation* to manage load, while Cognitive Load Theory explains the *capacity* constraints. High autonomy reduces extraneous load caused by anxiety/guilt.",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "target": "Luhmann’s Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Luhmann’s Zettelkasten]]",
+        "line_number": 182,
+        "section": "Phase 3: Connective Tissue",
+        "context_line": "> * [[Luhmann’s Zettelkasten]]: The practical application of SDT. Autonomy (no topic silos), Competence (writing as understanding), Relatedness (communication partner).",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 183,
+        "section": "Phase 3: Connective Tissue",
+        "context_line": "> * [[Metacognition]]: The awareness of one's own learning process is essential for *Integrated Regulation*. We must be aware of *why* we are noting to align it with the self.",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "target": "Zeigarnik Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zeigarnik Effect]]",
+        "line_number": 184,
+        "section": "Phase 3: Connective Tissue",
+        "context_line": "> * [[Zeigarnik Effect]]: Open loops create tension. Autonomy allows us to close loops that don't matter and focus on those that drive curiosity.",
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Self Determination Theory as a Driver for Sustainable Knowledge Management Habits",
+        "anchor": "self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits",
+        "line_number": 40,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 2,
+        "text": "📊 Report Metadata Dashboard",
+        "anchor": "report-metadata-dashboard",
+        "line_number": 47,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 3,
+        "text": "2025-11-26 - Initial Creation",
+        "anchor": "2025-11-26-initial-creation",
+        "line_number": 55,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 2,
+        "text": "🏷️ Tags & Classification",
+        "anchor": "tags-classification",
+        "line_number": 60,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 2,
+        "text": "📈 Review System",
+        "anchor": "review-system",
+        "line_number": 66,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 1: Overture",
+        "anchor": "phase-1-overture",
+        "line_number": 87,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 3,
+        "text": "The Philosophy of Nutritional Cognition",
+        "anchor": "the-philosophy-of-nutritional-cognition",
+        "line_number": 92,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 2: Encyclopedic Exposition",
+        "anchor": "phase-2-encyclopedic-exposition",
+        "line_number": 104,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 3,
+        "text": "The Historical Evolution of Motivational Science",
+        "anchor": "the-historical-evolution-of-motivational-science",
+        "line_number": 106,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 3,
+        "text": "The Triad of Basic Psychological Needs",
+        "anchor": "the-triad-of-basic-psychological-needs",
+        "line_number": 117,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 4,
+        "text": "1. Autonomy: The Necessity of Volition",
+        "anchor": "1-autonomy-the-necessity-of-volition",
+        "line_number": 121,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 4,
+        "text": "2. Competence: The Architecture of Mastery",
+        "anchor": "2-competence-the-architecture-of-mastery",
+        "line_number": 129,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 4,
+        "text": "3. Relatedness: The Dialogue with the System",
+        "anchor": "3-relatedness-the-dialogue-with-the-system",
+        "line_number": 142,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 3,
+        "text": "Organismic Integration Theory (OIT): The Taxonomy of Motivation",
+        "anchor": "organismic-integration-theory-oit-the-taxonomy-of-motivation",
+        "line_number": 150,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 3,
+        "text": "Cognitive Evaluation Theory: The Locus of Causality",
+        "anchor": "cognitive-evaluation-theory-the-locus-of-causality",
+        "line_number": 166,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 3: Connective Tissue",
+        "anchor": "phase-3-connective-tissue",
+        "line_number": 178,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase 4: References & Metadata",
+        "anchor": "phase-4-references-metadata",
+        "line_number": 193,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      },
+      {
+        "level": 2,
+        "text": "References",
+        "anchor": "references",
+        "line_number": 202,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [
+        {
+          "text": "**External Regulation:** \"I take notes because my boss requires it.\" (Least autonomous).",
+          "indent_level": 0,
+          "line_number": 155,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+        },
+        {
+          "text": "**Introjected Regulation:** \"I take notes because I will feel guilty if I don't.\" (Ego-involvement).",
+          "indent_level": 0,
+          "line_number": 157,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+        },
+        {
+          "text": "**Identified Regulation:** \"I take notes because I value learning.\" (Conscious valuing).",
+          "indent_level": 0,
+          "line_number": 158,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+        },
+        {
+          "text": "**Integrated Regulation:** \"Taking notes is who I am.\" (Congruence with self).",
+          "indent_level": 0,
+          "line_number": 159,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+        }
+      ],
+      "unordered": [
+        {
+          "text": "[ ] Definition still accurate?",
+          "indent_level": 0,
+          "line_number": 76,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+        },
+        {
+          "text": "[ ] New connections identified?",
+          "indent_level": 0,
+          "line_number": 77,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+        },
+        {
+          "text": "[ ] Applications validated?",
+          "indent_level": 0,
+          "line_number": 78,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+        },
+        {
+          "text": "[ ] Sources still relevant?",
+          "indent_level": 0,
+          "line_number": 79,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+        },
+        {
+          "text": "[ ] Maturity level appropriate?",
+          "indent_level": 0,
+          "line_number": 80,
+          "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "Flow \\approx \\frac{\\text{Perceived Challenge}}{\\text{Perceived Skill}} \\approx 1",
+        "format": "display",
+        "line_number": 127,
+        "source": "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Cognitive Evaluation Theory",
+      "Cognitive Load Theory",
+      "Epistemic Curiosity",
+      "Flow Theory",
+      "Luhmann’s Zettelkasten",
+      "Metacognition",
+      "Organismic Integration Theory",
+      "Personal Knowledge Management",
+      "Robert Bjork",
+      "Self Determination Theory as a Driver for Sustainable Knowledge Management Habits",
+      "Zeigarnik Effect"
+    ],
+    "unique_wiki_link_count": 11,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "Cognitive Evaluation Theory",
+      "Cognitive Load Theory",
+      "Epistemic Curiosity",
+      "Flow Theory",
+      "Luhmann’s Zettelkasten",
+      "Metacognition",
+      "Organismic Integration Theory",
+      "Personal Knowledge Management",
+      "Robert Bjork",
+      "Self Determination Theory as a Driver for Sustainable Knowledge Management Habits",
+      "Zeigarnik Effect"
+    ]
+  }
+}

@@ -1,0 +1,762 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-13T04:18:30.791362",
+    "source_file": "reference-guide-yaml-frontmatter-20251122124616.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\04-library\\02-pkb-and-pkm-learning\\-reference\\reference-guide-yaml-frontmatter-20251122124616.md",
+    "source_file_size_bytes": 7826,
+    "processing_time_seconds": 0.003
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "YAML Frontmatter",
+      "tags": [
+        "type/reference"
+      ],
+      "aliases": [
+        "YAML Frontmatter",
+        "YAML",
+        "YAML Reference"
+      ]
+    },
+    "word_count": 1053,
+    "character_count": 7674,
+    "line_count": 129,
+    "heading_count": 8
+  },
+  "extraction_summary": {
+    "total_items_extracted": 39,
+    "by_type": {
+      "headings": 8,
+      "callouts": 1,
+      "wiki_links": 21,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 1,
+      "tables": 7,
+      "external_links": 1,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "[[YAML Frontmatter]]: A Reference for PKB",
+      "anchor": "yaml-frontmatter-a-reference-for-pkb",
+      "line_number": 30,
+      "source": "reference-guide-yaml-frontmatter-20251122124616.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "📇 Core Metadata Keys",
+          "anchor": "core-metadata-keys",
+          "line_number": 40,
+          "source": "reference-guide-yaml-frontmatter-20251122124616.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "⚙️ Workflow & Status Keys",
+          "anchor": "workflow-status-keys",
+          "line_number": 56,
+          "source": "reference-guide-yaml-frontmatter-20251122124616.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔗 Structural & Relational Keys",
+          "anchor": "structural-relational-keys",
+          "line_number": 71,
+          "source": "reference-guide-yaml-frontmatter-20251122124616.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "📚 Source & Citation Keys",
+          "anchor": "source-citation-keys",
+          "line_number": 85,
+          "source": "reference-guide-yaml-frontmatter-20251122124616.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔌 Plugin & Customization Keys",
+          "anchor": "plugin-customization-keys",
+          "line_number": 99,
+          "source": "reference-guide-yaml-frontmatter-20251122124616.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🔱 Niche & Specialized Keys",
+          "anchor": "niche-specialized-keys",
+          "line_number": 111,
+          "source": "reference-guide-yaml-frontmatter-20251122124616.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "🤖 Prompt Engineering Keys",
+          "anchor": "prompt-engineering-keys",
+          "line_number": 124,
+          "source": "reference-guide-yaml-frontmatter-20251122124616.md",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "definition",
+        "title": "What is Frontmatter?",
+        "body": "Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's \"specification sheet,\" providing context, status, and relational data that is separate from the note's main content (the \"prose\"). This separation is fundamental for automating [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] workflows.",
+        "line_number": 33,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md",
+        "char_start": 789,
+        "char_end": 1203
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "YAML Frontmatter",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[YAML Frontmatter]]",
+        "line_number": 30,
+        "section": "[[YAML Frontmatter]]: A Reference for PKB",
+        "context_line": "# [[YAML Frontmatter]]: A Reference for PKB",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "YAML",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[YAML]]",
+        "line_number": 31,
+        "section": "[[YAML Frontmatter]]: A Reference for PKB",
+        "context_line": "[[YAML]] (YAML Ain't Markup Language) frontmatter is a block of metadata placed at the very top of a [[Markdown]] file, enclosed by triple-dashes (`---`). In a [[PKB]] like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]], this data becomes machine-readable, allowing plugins like [[Dataview]] to query, sort, and organize your notes, and enabling other plugins to add specific functionality.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Markdown",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Markdown]]",
+        "line_number": 31,
+        "section": "[[YAML Frontmatter]]: A Reference for PKB",
+        "context_line": "[[YAML]] (YAML Ain't Markup Language) frontmatter is a block of metadata placed at the very top of a [[Markdown]] file, enclosed by triple-dashes (`---`). In a [[PKB]] like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]], this data becomes machine-readable, allowing plugins like [[Dataview]] to query, sort, and organize your notes, and enabling other plugins to add specific functionality.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "PKB",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[PKB]]",
+        "line_number": 31,
+        "section": "[[YAML Frontmatter]]: A Reference for PKB",
+        "context_line": "[[YAML]] (YAML Ain't Markup Language) frontmatter is a block of metadata placed at the very top of a [[Markdown]] file, enclosed by triple-dashes (`---`). In a [[PKB]] like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]], this data becomes machine-readable, allowing plugins like [[Dataview]] to query, sort, and organize your notes, and enabling other plugins to add specific functionality.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]]",
+        "line_number": 31,
+        "section": "[[YAML Frontmatter]]: A Reference for PKB",
+        "context_line": "[[YAML]] (YAML Ain't Markup Language) frontmatter is a block of metadata placed at the very top of a [[Markdown]] file, enclosed by triple-dashes (`---`). In a [[PKB]] like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]], this data becomes machine-readable, allowing plugins like [[Dataview]] to query, sort, and organize your notes, and enabling other plugins to add specific functionality.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 31,
+        "section": "[[YAML Frontmatter]]: A Reference for PKB",
+        "context_line": "[[YAML]] (YAML Ain't Markup Language) frontmatter is a block of metadata placed at the very top of a [[Markdown]] file, enclosed by triple-dashes (`---`). In a [[PKB]] like [[04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian]], this data becomes machine-readable, allowing plugins like [[Dataview]] to query, sort, and organize your notes, and enabling other plugins to add specific functionality.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]]",
+        "line_number": 34,
+        "section": "[[YAML Frontmatter]]: A Reference for PKB",
+        "context_line": "> Frontmatter is a set of key-value pairs that defines the metadata for a specific note. It acts as the note's \"specification sheet,\" providing context, status, and relational data that is separate from the note's main content (the \"prose\"). This separation is fundamental for automating [[03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management]] workflows.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "filename",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[filename]]",
+        "line_number": 45,
+        "section": "📇 Core Metadata Keys",
+        "context_line": "| **`title`** | The formal title of the note. Useful if the [[filename]] is different (e.g., a Zettelkasten ID). |",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Zettelkasten",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zettelkasten]]",
+        "line_number": 46,
+        "section": "📇 Core Metadata Keys",
+        "context_line": "| **`id`** | A unique identifier, such as a [[Zettelkasten]] timestamp (e.g., `202511022230`) or a UUID. |",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "ISO 8601",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[ISO 8601]]",
+        "line_number": 47,
+        "section": "📇 Core Metadata Keys",
+        "context_line": "| **`created`** | Timestamp (preferably [[ISO 8601]]) for note creation. Essential for chronological sorting. |",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Project Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Project Management]]",
+        "line_number": 57,
+        "section": "⚙️ Workflow & Status Keys",
+        "context_line": "These keys are vital for [[Project Management]] and [[Task Management]]. They track the lifecycle of a note, idea, or project.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Task Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Task Management]]",
+        "line_number": 57,
+        "section": "⚙️ Workflow & Status Keys",
+        "context_line": "These keys are vital for [[Project Management]] and [[Task Management]]. They track the lifecycle of a note, idea, or project.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Knowledge Graph",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Graph]]",
+        "line_number": 72,
+        "section": "🔗 Structural & Relational Keys",
+        "context_line": "These keys explicitly define the note's position within your [[Knowledge Graph]]. They are heavily used by plugins like [[Breadcrumbs]] to build hierarchies.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Breadcrumbs",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Breadcrumbs]]",
+        "line_number": 72,
+        "section": "🔗 Structural & Relational Keys",
+        "context_line": "These keys explicitly define the note's position within your [[Knowledge Graph]]. They are heavily used by plugins like [[Breadcrumbs]] to build hierarchies.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Source Note",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Source Note]]",
+        "line_number": 86,
+        "section": "📚 Source & Citation Keys",
+        "context_line": "When a note is based on an external resource (e.g., a [[Source Note]]), these keys store the citation metadata.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Zotero",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zotero]]",
+        "line_number": 93,
+        "section": "📚 Source & Citation Keys",
+        "context_line": "| **`citekey`**          | The unique identifier from a citation manager like [[Zotero]] (e.g., `@Author2025Title`). |",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Obsidian Plugins",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian Plugins]]",
+        "line_number": 100,
+        "section": "🔌 Plugin & Customization Keys",
+        "context_line": "These keys are often \"magic keys\" that interact directly with specific [[Obsidian Plugins]] or features.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Obsidian Publish",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian Publish]]",
+        "line_number": 106,
+        "section": "🔌 Plugin & Customization Keys",
+        "context_line": "| **`publish`** | A boolean (`true`/`false`) to mark a note for inclusion in [[Obsidian Publish]]. |",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 107,
+        "section": "🔌 Plugin & Customization Keys",
+        "context_line": "| **`dataview`** | A boolean (`true`/`false`) to enable or disable [[Dataview]] processing for that specific note. |",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "Prompt Engineering",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prompt Engineering]]",
+        "line_number": 125,
+        "section": "🤖 Prompt Engineering Keys",
+        "context_line": "As requested, these keys are grouped for managing a [[Prompt Engineering]] library. They store the parameters for AI model execution.",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "target": "LLM",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[LLM]]",
+        "line_number": 131,
+        "section": "🤖 Prompt Engineering Keys",
+        "context_line": "| **`temperature`** | The \"creativity\" or randomness parameter for the [[LLM]] (e.g., `0.7`). |",
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "[[YAML Frontmatter]]: A Reference for PKB",
+        "anchor": "yaml-frontmatter-a-reference-for-pkb",
+        "line_number": 30,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "level": 2,
+        "text": "📇 Core Metadata Keys",
+        "anchor": "core-metadata-keys",
+        "line_number": 40,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "level": 2,
+        "text": "⚙️ Workflow & Status Keys",
+        "anchor": "workflow-status-keys",
+        "line_number": 56,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "level": 2,
+        "text": "🔗 Structural & Relational Keys",
+        "anchor": "structural-relational-keys",
+        "line_number": 71,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "level": 2,
+        "text": "📚 Source & Citation Keys",
+        "anchor": "source-citation-keys",
+        "line_number": 85,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "level": 2,
+        "text": "🔌 Plugin & Customization Keys",
+        "anchor": "plugin-customization-keys",
+        "line_number": 99,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "level": 2,
+        "text": "🔱 Niche & Specialized Keys",
+        "anchor": "niche-specialized-keys",
+        "line_number": 111,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "level": 2,
+        "text": "🤖 Prompt Engineering Keys",
+        "anchor": "prompt-engineering-keys",
+        "line_number": 124,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "YAML",
+        "code": "---\ntitle: \"\"\nid: 20251126-052907\ntype: \"\"\nstatus: \"\"\nrating: \"\"\nsource: \"\"\nurl: \"\"\ntags: []\naliases: []\nlink-up: []\nlink-related: []\n---",
+        "line_start": 12,
+        "line_end": 27,
+        "char_count": 137,
+        "line_count": 13,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      }
+    ],
+    "tables": [
+      {
+        "headers": [
+          "Key",
+          "Description"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**`title`**",
+            "The formal title of the note. Useful if the [[filename]] is different (e.g., a Zettelkasten ID)."
+          ],
+          [
+            "**`id`**",
+            "A unique identifier, such as a [[Zettelkasten]] timestamp (e.g., `202511022230`) or a UUID."
+          ],
+          [
+            "**`created`**",
+            "Timestamp (preferably [[ISO 8601]]) for note creation. Essential for chronological sorting."
+          ],
+          [
+            "**`modified`**",
+            "Timestamp for the last significant update. Many plugins can automate this."
+          ],
+          [
+            "**`type`**",
+            "Defines the \"class\" or \"schema\" of the note (e.g., `Person`, `Project`, `Source`, `Atomic`)."
+          ],
+          [
+            "**`description`**",
+            "A brief, one-sentence summary of the note's content or purpose."
+          ],
+          [
+            "**`tags`**",
+            "A list of keywords for categorization and discovery (e.g., `[tag1, tag2]`)."
+          ],
+          [
+            "**`aliases`**",
+            "A list of alternative titles used for linking (e.g., `[Alias 1, \"Another Name\"]`)."
+          ]
+        ],
+        "line_start": 41,
+        "row_count": 8,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "headers": [
+          "Key",
+          "Description"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**`status`**",
+            "The current state of the note (e.g., `Evergreen`, `Seedling`, `In-Progress`, `Done`, `Archived`)."
+          ],
+          [
+            "**`priority`**",
+            "The urgency or importance level (e.g., `High`, `Medium`, `Low` or `P1`, `P2`, `P3`)."
+          ],
+          [
+            "**`progress`**",
+            "A numerical value (e.g., `75`) or description (e.g., `Phase 2`) indicating completion."
+          ],
+          [
+            "**`due_date`**",
+            "The target completion date (e.g., `2025-12-31`)."
+          ],
+          [
+            "**`reviewed`**",
+            "The date the note was last reviewed for accuracy or relevance."
+          ],
+          [
+            "**`version`**",
+            "A version number (e.g., `1.2.0`) for notes that undergo formal revisions."
+          ],
+          [
+            "**`draft`**",
+            "A boolean (`true`/`false`) to mark notes that are not yet finalized."
+          ]
+        ],
+        "line_start": 56,
+        "row_count": 7,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "headers": [
+          "Key",
+          "Description"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**`link-up`**",
+            "(User-defined) A link to a primary parent or Map of Content (MOC)."
+          ],
+          [
+            "**`link-related`**",
+            "(User-defined) Links to non-hierarchically related concepts or notes."
+          ],
+          [
+            "**`parent`**",
+            "Specifies a direct hierarchical parent note. (Common convention)."
+          ],
+          [
+            "**`child`**",
+            "Specifies direct hierarchical child notes. (Less common, often auto-derived)."
+          ],
+          [
+            "**`next`**",
+            "Points to the next note in a linear sequence (e.g., a chapter or step)."
+          ],
+          [
+            "**`prev`**",
+            "Points to the previous note in a linear sequence."
+          ]
+        ],
+        "line_start": 72,
+        "row_count": 6,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "headers": [
+          "Key",
+          "Description"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**`source`**",
+            "The primary origin of the information (e.g., a book title, person's name, or website)."
+          ],
+          [
+            "**`author`**",
+            "The creator(s) of the source material."
+          ],
+          [
+            "**`url`**",
+            "The direct URL to the online source or a related link."
+          ],
+          [
+            "**`citekey`**",
+            "The unique identifier from a citation manager like [[Zotero]] (e.g., `@Author2025Title`)."
+          ],
+          [
+            "**`doi`**",
+            "The [Digital Object Identifier](https://doi.org/) for academic papers."
+          ],
+          [
+            "**`publication_date`**",
+            "The date the source material was published."
+          ]
+        ],
+        "line_start": 85,
+        "row_count": 6,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "headers": [
+          "Key",
+          "Description"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**`cssclass`**",
+            "Applies a custom CSS class to the note for unique styling (e.t., `full-width`, `custom-theme`)."
+          ],
+          [
+            "**`kanban-plugin`**",
+            "A special key used by the Kanban plugin to identify metadata for a card."
+          ],
+          [
+            "**`publish`**",
+            "A boolean (`true`/`false`) to mark a note for inclusion in [[Obsidian Publish]]."
+          ],
+          [
+            "**`dataview`**",
+            "A boolean (`true`/`false`) to enable or disable [[Dataview]] processing for that specific note."
+          ]
+        ],
+        "line_start": 99,
+        "row_count": 4,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "headers": [
+          "Key",
+          "Description"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**`key_takeaway`**",
+            "(User-defined) A string summarizing the single most important idea."
+          ],
+          [
+            "**`success_rating`**",
+            "(User-defined) A score (e.g., 1-10) rating the outcome of a process or prompt."
+          ],
+          [
+            "**`rating`**",
+            "A generic rating, often used for media (e.g., books, movies) with a score (e.g., `⭐⭐⭐⭐`)."
+          ],
+          [
+            "**`location`**",
+            "A geographical place associated with the note (e.g., `Jacksonville, FL`)."
+          ],
+          [
+            "**`cover_image`**",
+            "A path or URL to a header or thumbnail image for the note."
+          ]
+        ],
+        "line_start": 112,
+        "row_count": 5,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      },
+      {
+        "headers": [
+          "Key",
+          "Description"
+        ],
+        "alignment": [
+          "left",
+          "left"
+        ],
+        "rows": [
+          [
+            "**`output_link`**",
+            "A link to the note containing the generated output from this prompt."
+          ],
+          [
+            "**`output-token-limit`**",
+            "The maximum number of tokens requested for the model's response."
+          ],
+          [
+            "**`temperature`**",
+            "The \"creativity\" or randomness parameter for the [[LLM]] (e.g., `0.7`)."
+          ],
+          [
+            "**`top-p`**",
+            "The nucleus sampling parameter, controlling the diversity of the output (e.g., `0.9`)."
+          ],
+          [
+            "**`top-k`**",
+            "The parameter that limits the sampling pool to the *k* most likely next tokens."
+          ],
+          [
+            "**`model`**",
+            "The specific AI model used (e.g., `gpt-4o`, `gemini-1.5-pro`, `claude-3-opus`)."
+          ]
+        ],
+        "line_start": 125,
+        "row_count": 6,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      }
+    ],
+    "external_links": [
+      {
+        "display_text": "Digital Object Identifier",
+        "url": "https://doi.org/",
+        "format": "markdown",
+        "line_number": 94,
+        "source": "reference-guide-yaml-frontmatter-20251122124616.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management",
+      "04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian",
+      "Breadcrumbs",
+      "Dataview",
+      "ISO 8601",
+      "Knowledge Graph",
+      "LLM",
+      "Markdown",
+      "Obsidian Plugins",
+      "Obsidian Publish",
+      "PKB",
+      "Project Management",
+      "Prompt Engineering",
+      "Source Note",
+      "Task Management",
+      "YAML",
+      "YAML Frontmatter",
+      "Zettelkasten",
+      "Zotero",
+      "filename"
+    ],
+    "unique_wiki_link_count": 20,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {},
+    "backlink_candidates": [
+      "03_notes/01_permanent-notes/01_cognitive-development/Knowledge Management",
+      "04_library/00_obsidian-documentation/02_Official-Documentation/02_⚫🔌Plugins/Plugin_🤖Text-Generator/Obsidian",
+      "Breadcrumbs",
+      "Dataview",
+      "ISO 8601",
+      "Knowledge Graph",
+      "LLM",
+      "Markdown",
+      "Obsidian Plugins",
+      "Obsidian Publish",
+      "PKB",
+      "Project Management",
+      "Prompt Engineering",
+      "Source Note",
+      "Task Management",
+      "YAML",
+      "YAML Frontmatter",
+      "Zettelkasten",
+      "Zotero",
+      "filename"
+    ]
+  }
+}
