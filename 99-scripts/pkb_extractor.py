@@ -110,6 +110,17 @@ KNOWN_CALLOUT_TYPES = {
     "analogy", "thought-experiment", "evidence",
     # Additional types found in older reports
     "overview", "core-principle", "claude-thinking", "purpose",
+    # Definitional & Conceptual (taxonomy addition)
+    "concept",
+    # Claude's Analytical Voice (taxonomy additions)
+    "analytical-insight", "what-the-evidence-suggests", "tension-identified",
+    "cross-domain-connection", "original-synthesis",
+    # Analytical & Evaluative (taxonomy addition)
+    "key-insight",
+    # Practical & Reference (taxonomy addition)
+    "best-practice",
+    # Connective (taxonomy additions)
+    "connections-and-links", "further-exploration", "topic-idea",
 }
 
 # ── Semantic Color Mapping ────────────────────────────────────────────────────
