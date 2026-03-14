@@ -1,0 +1,1624 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-14T10:50:56.468264",
+    "source_file": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\_pkm-and-pkb-framework-1.0.0\\08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+    "source_file_size_bytes": 82659,
+    "processing_time_seconds": 0.022
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14",
+      "doc_type": "permanent-note",
+      "doc_created": "2026-03-14",
+      "doc_modified": "2026-03-14",
+      "author": "claude-sonnet-4-6",
+      "primary_domain": "knowledge-management",
+      "secondary_domains": [
+        "educational-philosophy",
+        "educational-psychology",
+        "cognitive-psychology",
+        "knowledge-management",
+        "metacognition",
+        "instructional-design",
+        "psychology-of-learning"
+      ],
+      "related_concepts": [
+        "[[Dewey Reflective Inquiry]]",
+        "[[Pragmatist Epistemology]]",
+        "[[Kolb Experiential Learning Cycle]]",
+        "[[Concrete Experience]]",
+        "[[Reflective Observation]]",
+        "[[Abstract Conceptualization]]",
+        "[[Active Experimentation]]",
+        "[[Reflective Practice]]",
+        "[[Reflection-in-Action]]",
+        "[[Reflection-on-Action]]",
+        "[[Schön Reflective Practitioner]]",
+        "[[Gibbs Reflective Cycle]]",
+        "[[Tacit Knowledge]]",
+        "[[Explicit Knowledge]]",
+        "[[SECI Model]]",
+        "[[Nonaka Knowledge Creation]]",
+        "[[Experiential Learning]]",
+        "[[Felt Difficulty]]",
+        "[[Inquiry-Based Learning]]",
+        "[[Writing to Learn]]",
+        "[[Self-Explanation Effect]]",
+        "[[Encoding Specificity]]",
+        "[[Metacognitive Reflection]]",
+        "[[Learning Journal]]",
+        "[[Experience Capture]]",
+        "[[Experience Processing Architecture]]",
+        "[[PKB Reflection Templates]]",
+        "[[Personal Knowledge Base]]",
+        "[[PKM Workflow Design]]",
+        "[[Experiential Processing Protocol]]"
+      ],
+      "knowledge_level": "advanced",
+      "tags": [
+        "pkm-framework",
+        "reflective-practice",
+        "experiential-learning",
+        "dewey",
+        "kolb",
+        "pragmatism",
+        "educational-philosophy",
+        "educational-psychology",
+        "tacit-knowledge",
+        "knowledge-management",
+        "pkb-design",
+        "reflection-templates",
+        "learning-journal",
+        "experience-capture",
+        "report-08"
+      ],
+      "status": "evergreen",
+      "maturity": "highly-developed",
+      "confidence": "high",
+      "framework-series-position": "08",
+      "analytical-focus": "How do Dewey's Reflective Inquiry, Kolb's Experiential Learning Cycle, and Pragmatist Epistemology converge to inform how experience should be captured, processed, and transformed into knowledge within a PKB — and what does this mean for the design of experience capture templates, reflection workflows, learning journals, and experiential processing protocols?",
+      "analytical-contributions": [],
+      "builds-on": [
+        "[[03-constructing-understanding-pkm-framework-2026-03-13]]",
+        "[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]",
+        "[[05-motivation-architecture-pkm-framework-2026-03-13]]"
+      ],
+      "feeds-into": [
+        "[[12-reflective-pkb-pkm-framework]]",
+        "[[15-knowledge-organization-at-scale-pkm-framework]]",
+        "[[19-sustaining-lifelong-learning-pkm-framework]]",
+        "[[22-tacit-knowledge-limits-of-capture-pkm-framework]]"
+      ],
+      "cross-report-dependencies": [
+        "[[Report 03 — Constructing Understanding]]",
+        "[[Report 04 — Metacognitive Self-Regulation]]",
+        "[[Report 05 — Motivation Architecture]]"
+      ],
+      "summary": "Cross-domain synthesis of Dewey's Reflective Inquiry (educational philosophy), Kolb's Experiential Learning Cycle (educational psychology), Schön's Reflective Practitioner framework, Nonaka's SECI Model (knowledge management), and cognitive psychology's encoding specificity research — revealing why most PKB systems fail at experience transformation and how to redesign them. Central contribution: the Experience Processing Architecture, a four-stage PKB workflow (Capture → Reflect → Conceptualize → Experiment) that mirrors the experiential learning cycle, leverages tacit-to-explicit conversion mechanisms, and grounds experience notes in encoding specificity principles. Translates into concrete Obsidian templates, learning journal protocols, and experience processing workflows."
+    },
+    "word_count": 11016,
+    "character_count": 78393,
+    "line_count": 479,
+    "heading_count": 34
+  },
+  "extraction_summary": {
+    "total_items_extracted": 125,
+    "by_type": {
+      "headings": 34,
+      "callouts": 53,
+      "wiki_links": 33,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 5,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM",
+      "anchor": "report-08-reflective-practice-and-experiential-learning-dewey-kolb-and-the-learning-cycle-in-pkm",
+      "line_number": 92,
+      "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Synthesis Focus",
+          "anchor": "phase-i-orientation-synthesis-focus",
+          "line_number": 96,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Analytical Framework — Cross-Domain Foundations",
+          "anchor": "phase-ii-analytical-framework-cross-domain-foundations",
+          "line_number": 125,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Dewey and the Problem of Experience",
+              "anchor": "dewey-and-the-problem-of-experience",
+              "line_number": 127,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Kolb's Experiential Learning Cycle",
+              "anchor": "kolbs-experiential-learning-cycle",
+              "line_number": 141,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Schön's Reflective Practitioner",
+              "anchor": "schns-reflective-practitioner",
+              "line_number": 153,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Nonaka's SECI Model and Tacit-Explicit Conversion",
+              "anchor": "nonakas-seci-model-and-tacit-explicit-conversion",
+              "line_number": 163,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Critical Examination of Evidence",
+          "anchor": "phase-iii-critical-examination-of-evidence",
+          "line_number": 183,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Evidence for Kolb's ELC: Strengths and Significant Complications",
+              "anchor": "the-evidence-for-kolbs-elc-strengths-and-significant-complications",
+              "line_number": 188,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Evidence for Reflective Writing",
+              "anchor": "the-evidence-for-reflective-writing",
+              "line_number": 201,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Evidence from Knowledge Management: Tacit-Explicit Conversion",
+              "anchor": "the-evidence-from-knowledge-management-tacit-explicit-conversion",
+              "line_number": 212,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Cross-Disciplinary Evidence Patterns",
+              "anchor": "cross-disciplinary-evidence-patterns",
+              "line_number": 223,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms, Dynamics & Deep Synthesis",
+          "anchor": "phase-iv-mechanisms-dynamics-deep-synthesis",
+          "line_number": 244,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "How Reflective Inquiry Works at the Cognitive Level",
+              "anchor": "how-reflective-inquiry-works-at-the-cognitive-level",
+              "line_number": 249,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Tacit-Explicit Conversion Mechanism",
+              "anchor": "the-tacit-explicit-conversion-mechanism",
+              "line_number": 260,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Four Failure Modes of Experiential Learning",
+              "anchor": "the-four-failure-modes-of-experiential-learning",
+              "line_number": 273,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Return-and-Deepen: Metacognitive Reflection Revisited",
+              "anchor": "return-and-deepen-metacognitive-reflection-revisited",
+              "line_number": 290,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Implications for PKM/PKB Design & Limitations",
+          "anchor": "phase-v-implications-for-pkmpkb-design-limitations",
+          "line_number": 313,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Design Principle 1: Build the Four-Stage Cycle Into Your Note Architecture",
+              "anchor": "design-principle-1-build-the-four-stage-cycle-into-your-note-architecture",
+              "line_number": 315,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 2: Separate Capture from Processing",
+              "anchor": "design-principle-2-separate-capture-from-processing",
+              "line_number": 332,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 3: Make Provisionality Structurally Visible",
+              "anchor": "design-principle-3-make-provisionality-structurally-visible",
+              "line_number": 338,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 4: The Learning Journal as a First-Class PKB Object",
+              "anchor": "design-principle-4-the-learning-journal-as-a-first-class-pkb-object",
+              "line_number": 344,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Limitations and Honest Boundaries",
+              "anchor": "limitations-and-honest-boundaries",
+              "line_number": 357,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Integration & Original Contribution",
+          "anchor": "phase-vi-synthesis-integration-original-contribution",
+          "line_number": 379,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Experience Processing Architecture: An Original Synthesis",
+              "anchor": "the-experience-processing-architecture-an-original-synthesis",
+              "line_number": 381,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Central Synthesis Question, Revisited",
+              "anchor": "the-central-synthesis-question-revisited",
+              "line_number": 401,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Return-and-Deepen: The Pragmatist PKB as Living System",
+              "anchor": "return-and-deepen-the-pragmatist-pkb-as-living-system",
+              "line_number": 409,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Unresolved Questions",
+              "anchor": "unresolved-questions",
+              "line_number": 426,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: PKB Connections & Cross-Report Links",
+          "anchor": "phase-vii-pkb-connections-cross-report-links",
+          "line_number": 432,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase VIII: Appendix",
+          "anchor": "phase-viii-appendix",
+          "line_number": 459,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 461,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. Annotated References",
+              "anchor": "b-annotated-references",
+              "line_number": 499,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Methodology and Sources Note",
+              "anchor": "c-methodology-and-sources-note",
+              "line_number": 531,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. Expansion Topics",
+              "anchor": "d-expansion-topics",
+              "line_number": 539,
+              "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Before You Begin",
+        "body": "Before reading further, take a moment to reflect on how you currently handle experiential learning in your PKB. When you have a significant professional or personal experience — a difficult conversation, a project that failed, a moment of insight — what happens? Do you capture it? How? What do you do with it afterward? How often do you return to those captures and extract anything actionable?\n\nMost people, if they are honest, will find that their experience-to-knowledge pipeline is either nonexistent or deeply informal. Hold that observation as you read — it is the practical problem this report addresses.",
+        "line_number": 117,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 8251,
+        "char_end": 8915
+      },
+      {
+        "type": "definition",
+        "title": "Reflective Inquiry (John Dewey, Educational Philosophy, 1910)",
+        "body": "The deliberate, systematic process by which a mind moves from a state of *felt difficulty* — the disruption of habitual action by a problematic situation — through successive stages of observation, hypothesis formation, and testing, toward a resolution that transforms both the situation and the mind engaging with it. Reflective inquiry is distinguished from mere thinking by its sequential character and its grounding in genuine problematic situations. It is not triggered by abstract puzzles but by real encounters with the world that resist existing habits of response.",
+        "line_number": 129,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 9024,
+        "char_end": 9682
+      },
+      {
+        "type": "definition",
+        "title": "Pragmatist Epistemology (Charles Sanders Peirce, William James, John Dewey, Philosophy, 19th-20th century)",
+        "body": "The philosophical position that the meaning and truth of any idea is determined by its practical consequences — its effects on future experience and action. Knowledge is not a static representation of reality but a living instrument that enables organisms to navigate their environments. All knowledge is provisional: it holds until it encounters a situation it cannot handle, at which point inquiry is initiated. The pragmatist does not ask \"is this true?\" in an absolute sense but \"does this work?\" — where \"work\" means enabling effective, coordinated action in the world.",
+        "line_number": 134,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 10359,
+        "char_end": 11063
+      },
+      {
+        "type": "definition",
+        "title": "Kolb Experiential Learning Cycle (David Kolb, Educational Psychology, 1984)",
+        "body": "A four-stage cyclical model of experiential learning in which learning proceeds through: (1) *Concrete Experience* — direct, immediate engagement with an event or situation; (2) *Reflective Observation* — deliberate observation of that experience from multiple perspectives; (3) *Abstract Conceptualization* — interpretation of observations into general principles, theories, or schemas; and (4) *Active Experimentation* — application of the abstracted concepts to new situations, generating new concrete experiences and completing the cycle. Learning is effective only when all four stages are engaged; bypassing any stage produces incomplete, fragile, or untransferable knowledge.",
+        "line_number": 143,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 12223,
+        "char_end": 13004
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Untitled",
+        "body": "**Dewey's Five Stages and Kolb's Four Stages are Structurally Isomorphic**\n\nDewey's stages — felt difficulty, problem definition, hypothesis generation, reasoning, testing — and Kolb's stages — concrete experience, reflective observation, abstract conceptualization, active experimentation — describe the same underlying cognitive process from different vantage points. Dewey emphasizes the affective trigger (felt difficulty) and the social situatedness of inquiry. Kolb emphasizes the iterative cycle and the relationship between abstract and concrete knowing. Neither framework is complete without the other. The pragmatist insight that inquiry begins in disruption (Dewey) combined with the cyclic model showing what happens next (Kolb) provides a more complete account of experiential learning than either framework alone. For PKB design, this convergence is enormously productive: it tells us that experience notes must capture both the disruption (Dewey's felt difficulty) and the cycle stage (Kolb's classification), not merely the abstract insights eventually extracted.",
+        "line_number": 148,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 13618,
+        "char_end": 14732
+      },
+      {
+        "type": "definition",
+        "title": "Reflection-on-Action (Donald Schön, Educational Philosophy/Professional Education, 1983)",
+        "body": "Deliberate, retrospective reflection on one's professional practice — thinking *about* what happened after the event. Reflection-on-action is the explicit, articulable form of professional learning that can be systematically captured, organized, and built upon. It is the form of reflection most amenable to PKB integration, occurring after the experience has concluded when there is cognitive space for careful analysis.",
+        "line_number": 155,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 14770,
+        "char_end": 15303
+      },
+      {
+        "type": "definition",
+        "title": "Reflection-in-Action (Donald Schön, Educational Philosophy/Professional Education, 1983)",
+        "body": "Real-time, tacit reflection that occurs *during* professional practice — the expert practitioner's ability to notice, reframe, and adjust within an ongoing situation without interrupting the flow of action. Schön's key insight is that expert practitioners develop what he calls \"knowing-in-action\" — tacit, procedural knowledge embedded in skilled performance — and that *reflection-in-action* is the mechanism by which this tacit knowing is developed and refined. Unlike reflection-on-action, reflection-in-action is largely inarticulate; it resists capture and must be externalized through deliberate retrospective narration.",
+        "line_number": 158,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 15304,
+        "char_end": 16043
+      },
+      {
+        "type": "definition",
+        "title": "SECI Model (Ikujiro Nonaka and Hirotaka Takeuchi, Knowledge Management, 1995)",
+        "body": "A four-mode model of organizational knowledge creation describing the dynamic conversion between tacit and explicit knowledge: (1) *Socialization* — tacit-to-tacit transfer through shared experience; (2) *Externalization* — tacit-to-explicit conversion through articulation (metaphors, models, concepts); (3) *Combination* — explicit-to-explicit synthesis, organizing and categorizing existing explicit knowledge; (4) *Internalization* — explicit-to-tacit conversion through embodied practice (\"learning by doing\"). The model describes a spiral rather than a simple cycle, as each completion of the loop generates richer tacit knowledge as the starting point for the next iteration.",
+        "line_number": 165,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 16812,
+        "char_end": 17595
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Untitled",
+        "body": "**Nonaka's Externalization Stage is the Cognitive Mechanism for Kolb's Reflective Observation**\n\nWhen Kolb describes \"reflective observation\" as the movement from concrete experience toward abstract conceptualization, he identifies the *what* (observe and reflect on the experience from multiple perspectives) but is less precise about the *how*. Nonaka's externalization stage fills this mechanistic gap: the conversion of tacit knowing embedded in experience into explicit knowledge requires *articulation* — the use of language, metaphor, analogy, and narrative to give form to what was previously formless and inarticulate. This means that the PKB note written during the reflective observation stage is not merely a record of the experience; it is an act of knowledge creation. The writing itself is the externalization. The implication for PKB design is significant: reflective observation notes should not aim for polished abstraction but should prioritize *expressive articulation* — getting the tacit knowing into language, even imperfect language, as the necessary first step toward explicit knowing.",
+        "line_number": 168,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 17596,
+        "char_end": 18741
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Framework",
+        "body": "**Comprehension**: Which framework — Dewey, Kolb, Schön, or Nonaka — most surprised you? What did you assume that was complicated?\n\n**Application**: Looking at these frameworks together, can you already see where your current PKB workflow does and does not engage with the full experiential learning cycle? Which stages are you systematically skipping?\n\n**Extension**: The cross-domain connection above suggests that writing a reflection note is itself an act of knowledge creation, not merely recording. What does that imply about the quality and character of your reflection writing?",
+        "line_number": 173,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 18742,
+        "char_end": 19384
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — Before",
+        "body": "Before engaging with the evidence base, capture your current position: How strongly do you believe that structured reflection on experience produces meaningfully better learning than simply having the experience? Rate your confidence 1-10 and write one sentence stating what you currently believe. This is your baseline.",
+        "line_number": 185,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 19438,
+        "char_end": 19813
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "Untitled",
+        "body": "**The Cycle Structure Is Robust; the Styles Claim Is Not**\n\nWhen you set aside the learning styles controversy, what remains in Kolb's framework is a structural claim about the sequence of cognitive operations required for experiential learning. That claim — that effective learning from experience requires moving through observation, abstraction, and experimental application — is multiply supported across different research traditions. The Schön research on expert practitioners (1983), Ericsson's deliberate practice research (1993), Zimmerman's self-regulated learning model (2000, covered in Report 04), and Moon's reflection research (2004) all independently confirm the structural necessity of reflective processing. This convergence from different methodological traditions is the strongest evidence we have. The implication for PKB design is that the *stages of the cycle* should inform your experience processing workflow — not purported individual differences in stylistic preference.",
+        "line_number": 196,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 21748,
+        "char_end": 22783
+      },
+      {
+        "type": "evidence",
+        "title": "Untitled",
+        "body": "**Writing to Learn: The Empirical Basis**\n\nThe \"writing to learn\" literature (Bangert-Drowns et al., 2004, meta-analysis; Graham and Perin, 2007) consistently finds that structured writing about learning experiences improves retention and transfer. The effect size is larger when writing is: (a) prompted rather than unprompted, (b) focused on explanation and connection rather than description, and (c) revisited and built upon rather than filed and forgotten. All three conditions have direct implications for PKB design: experience notes should be prompted by structured templates, focused on explanatory rather than descriptive writing, and embedded in a review workflow that ensures revisitation.",
+        "line_number": 207,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 24446,
+        "char_end": 25167
+      },
+      {
+        "type": "tension-identified",
+        "title": "Untitled",
+        "body": "**Pragmatism's Provisionality vs. PKB's Drive Toward Fixity**\n\nA genuine intellectual tension runs through this synthesis. Pragmatist epistemology insists that all knowledge is provisional — tested, revised, and sometimes discarded as experience demands. Dewey explicitly argued against the notion of knowledge as \"spectator\" — as a passive mirror of a fixed reality. Yet the dominant design philosophy of PKBs — especially Zettelkasten-influenced systems — tends toward *fixity*: the permanent note as a distilled, stable claim about the world, tagged and linked for retrieval. The Zettelkasten aspires to be a reliable partner in thinking; pragmatism insists that reliable partners must be willing to be wrong. This tension is not resolved by simply saying \"review your notes\" — it requires designing PKB structures that make provisionality *visible*: confidence ratings, uncertainty flags, revision histories, and explicit \"this hypothesis awaits testing\" designations. The pragmatist PKB is not an archive of conclusions; it is a laboratory of hypotheses.",
+        "line_number": 218,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 26434,
+        "char_end": 27523
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "Untitled",
+        "body": "**The Central Empirical Finding: Reflection Must Be Designed**\n\nThe weight of evidence across three major research traditions converges on a single finding that most PKM advice misses: the transformation of experience into durable, transferable knowledge does not happen spontaneously. It requires deliberate, structured, effortful processing. Dewey called this \"reflective inquiry\" and distinguished it from mere stream-of-consciousness thinking. Kolb built the distinction into his four-stage structure. Schön demonstrated that even expert practitioners with high intrinsic motivation frequently skip the reflective-observation stage in favor of rapid action. And the writing-to-learn literature shows that the quality of reflection, not its mere occurrence, is what drives learning. For PKB design, this is perhaps the most important empirical finding in this report: if you do not engineer your PKB to make structured reflection easy, prompted, and habitual, it will not happen — regardless of your intentions.",
+        "line_number": 229,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 28517,
+        "char_end": 29569
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Evidence",
+        "body": "**Comprehension**: Which piece of evidence most surprised you? Which confirmed something you already suspected?\n\n**Application**: The central finding — that reflection must be designed — suggests that your PKB needs structural features that make reflection happen. What structural features does your current PKB have or lack?\n\n**Extension**: Where do you find yourself resistant to the evidence? The writing-to-learn finding that prompting produces better reflection than unprompted free-writing may feel constraining. What does that resistance tell you about your implicit theory of authentic learning?",
+        "line_number": 234,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 29570,
+        "char_end": 30229
+      },
+      {
+        "type": "important",
+        "title": "Complexity Transition",
+        "body": "This phase integrates multiple disciplinary mechanisms into the report's central synthesis. It builds directly on the frameworks from Phase II and the evidence from Phase III. If both feel solid, proceed — the depth here is where the most concrete PKB design implications emerge. In particular, this phase develops the **Experience Processing Architecture**, the original synthesis toward which the entire report has been building.",
+        "line_number": 246,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 30287,
+        "char_end": 30762
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Untitled",
+        "body": "**The Reframe Is the Learning Event**\n\nMost experience capture in PKBs focuses on outcomes: what happened, what was decided, what was learned (stated as a conclusion). But the deepest learning in Dewey's account — and in Schön's empirical research on expert practitioners — occurs at the moment of problem reframing: when you discover that the problem was not what you thought it was. \"I thought this was a communication problem; it turned out to be a trust problem.\" \"I thought the design needed simplification; it turned out the users needed education.\" These reframes restructure existing schemas rather than merely adding to them. A PKB designed to capture genuine experiential learning should have a dedicated space for reframes — not just \"what I learned\" but \"what I thought the problem was, and then what I discovered it actually was.\"",
+        "line_number": 255,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 32360,
+        "char_end": 33233
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Untitled",
+        "body": "**Encoding Specificity Grounds the Importance of Contextual Capture**\n\nTulving and Thomson's (1973) [[Encoding Specificity Principle]] — that memory retrieval is most effective when the cues available at retrieval match the context present at encoding — has a profound implication for experience capture that is almost entirely absent from PKM discourse. If you capture an experience by immediately abstracting it — \"the lesson here is to always clarify goals before beginning a project\" — you have encoded a principle but destroyed the experiential context. When you later encounter a situation where that principle is relevant, the abstract statement alone may not trigger retrieval, because the cues available (a new project situation) may not match the encoded cue (a generic principle). But if you captured the experience in its contextual richness — the specific meeting, the specific misalignment, the specific feeling of confusion when goals proved different — the new situation's contextual cues are more likely to trigger retrieval of the stored experience, which then provides both the principle and the rich contextual grounding that enables appropriate application. This suggests that experience notes should *preserve context* at the moment of capture, even if that context is later supplemented by extracted principles.",
+        "line_number": 268,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 34927,
+        "char_end": 36296
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Untitled",
+        "body": "**Most PKBs Are Optimized for Failure Mode 3**\n\nThe dominant design paradigm for knowledge-focused PKBs — particularly Zettelkasten-influenced systems emphasizing permanent notes with atomic ideas, linked through bi-directional associations — is structurally optimized for explicit, abstracted knowledge. This is what the system handles well: clear propositions, defined concepts, linked arguments. But this design is a perfect enabler of Failure Mode 3 — abstraction without experiential grounding. The permanent note culture tends to produce \"clean\" knowledge: well-articulated, elegantly stated, robustly linked. And yet this knowledge, being disconnected from the rich experiential context in which genuine understanding develops, may be precisely what Whitehead (1929) called \"inert ideas\" — ideas that can be stated but not applied, that exist in the PKB but do not transform the practitioner's capacity for effective action. The correction is not to abandon the permanent note architecture but to complement it with an experience processing layer that grounds abstracted knowledge in the concrete encounters that justify it.",
+        "line_number": 285,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 38635,
+        "char_end": 39796
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Untitled",
+        "body": "**Schön's Reflection-in-Action Creates a PKB Problem That Requires a PKB Solution**\n\nSchön's research reveals that the most valuable learning — the expert practitioner's real-time reframing and adjustment — happens too quickly and too tacitly to be captured in the moment. This creates what might be called the \"reflection-in-action problem\" for PKB design: the richest learning is precisely the learning that is most difficult to capture. The standard solution — \"write in your journal after the fact\" — is a reflection-on-action protocol that can reconstruct reflection-in-action moments only imperfectly, through the distorting lens of retrospect. A more sophisticated response is to design capture tools that bridge the gap: brief, low-friction \"during\" captures (voice notes, quick tags, single sentences) that flag the moments of in-action knowing for later reflective processing. These fragments are not reflections; they are retrieval cues for later reflection. They preserve enough of the contextual and affective texture of the moment to enable richer retrospective reconstruction. The practical PKB implication: the experience processing workflow needs two distinct modes — in-the-moment flagging and after-the-fact processing — and conflating them produces worse outcomes than separating them.",
+        "line_number": 298,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 41508,
+        "char_end": 42843
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Mechanisms",
+        "body": "**Comprehension**: Which failure mode — insufficient reflection, reflection without abstraction, abstraction without experience, or experimentation without closure — most accurately describes your current PKM practice? Be specific.\n\n**Application**: The claim that most PKBs are optimized for Failure Mode 3 (abstraction without experiential grounding) is a strong one. Can you identify examples from your own PKB of \"inert ideas\" — propositions that are stored but have not transformed your practice?\n\n**Extension**: The return-and-deepen above reframes Zimmerman's SRL as an inside view of Kolb's outside view. What other frameworks from earlier reports might have similar cross-frame relationships that we have not yet surfaced?",
+        "line_number": 303,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 42844,
+        "char_end": 43633
+      },
+      {
+        "type": "best-practice",
+        "title": "Untitled",
+        "body": "**The Four-Note Workflow in Obsidian**\n\nImplement the four-stage cycle using a consistent tagging system: `experience/capture`, `experience/reflection`, `experience/insight`, `experience/experiment`. Link each stage note to the next: the capture note links to the reflection note that processes it; the reflection note links to the insight notes it generates; the insight notes link to the experiment notes that test them; experiment notes, when completed, generate new capture notes, completing the cycle. Use a template with YAML frontmatter including `cycle_stage:`, `linked_experience_id:`, and `cycle_status: [open | processing | abstracted | testing | complete]`. This status field makes the health of your experiential learning pipeline visible at a glance.",
+        "line_number": 327,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 46296,
+        "char_end": 47085
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "**Common Misconceptions in Experiential PKM**\n\n**Misconception 1: \"I'll remember to reflect on important experiences\"** — Schön's research demonstrates that the most experienced practitioners frequently fail to reflect on their practice without structural triggers. Memory for \"important\" experiences is biased toward outcome information (what happened) rather than process information (how I was thinking). Structured prompts and scheduled review sessions, not intentions, are what produce reflection.\n\n**Misconception 2: \"More experience equals more learning\"** — The evidence is unambiguous: volume of experience without structured reflection produces negligible improvement in complex performance domains (Ericsson et al., 1993). The practitioner with twenty years of unreflective experience may learn less than the practitioner with five years of deliberate, reflective practice.\n\n**Misconception 3: \"My insight notes are grounded in experience because I had the experiences\"** — This mistakes biographical grounding (you had the experience) for epistemic grounding (the insight note connects to documented evidence). An insight note that floats free of its originating experiences — not linked, not referenced, not contextualized — is epistemically equivalent to received wisdom. Its experiential origin is invisible and unverifiable.",
+        "line_number": 348,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 50021,
+        "char_end": 51386
+      },
+      {
+        "type": "reflection",
+        "title": "Knowledge State — After",
+        "body": "Return to what you recorded at the start of Phase III. How has your position on the value of structured reflection shifted? Was the shift incremental (you knew this was valuable but now have more evidence) or structural (the four-stage framework changes how you think about the problem)? Notice that this tracking exercise is itself an instance of the reflective practice this report advocates: using before/after comparison to make learning visible.",
+        "line_number": 365,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 52393,
+        "char_end": 52892
+      },
+      {
+        "type": "reflection",
+        "title": "From Understanding to PKB Design",
+        "body": "**Comprehension**: Which of the four design principles most directly addresses a gap in your current PKB? What specifically is missing?\n\n**Application**: If you were to implement one change to your PKB tomorrow based on this report, what would it be? Be specific: which template, which tag, which workflow.\n\n**Extension**: The learning journal as a first-class PKB object suggests a structural reorganization of your system. What would you need to add, change, or remove to make that reorganization? What would you be reluctant to lose?",
+        "line_number": 369,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 52893,
+        "char_end": 53493
+      },
+      {
+        "type": "original-synthesis",
+        "title": "Untitled",
+        "body": "**The Experience Processing Architecture**\n\nBy integrating Dewey's reflective inquiry (the cognitive trigger and trajectory of genuine learning), Kolb's experiential learning cycle (the structural sequence of experiential knowledge creation), Schön's reflection-in/on-action distinction (the two temporal modes of reflective engagement), Nonaka's externalization mechanism (the tacit-to-explicit conversion that makes experience storable), and cognitive psychology's encoding specificity principle (the importance of preserving contextual richness at capture), we can articulate a unified design principle that no single discipline states explicitly:\n\n**The Experience Processing Architecture (EPA)** is a four-stage PKB workflow in which each stage corresponds to a distinct cognitive operation, serves a distinct epistemic purpose, produces a distinct type of artifact, and connects to the next stage through a designed link:\n\n| Stage | Kolb Stage | Cognitive Operation | PKB Artifact | Epistemic Purpose |\n|-------|-----------|---------------------|--------------|-------------------|\n| Capture | Concrete Experience | Preservation + Encoding | Experience Note (rich, contextual) | Preserve tacit knowing and experiential context |\n| Reflect | Reflective Observation | Externalization (Nonaka) | Reflection Note (structured, analytical) | Convert tacit knowing to explicit form |\n| Conceptualize | Abstract Conceptualization | Schema formation + linking | Insight Note (atomic, permanent) | Create generalizable, connectable knowledge |\n| Experiment | Active Experimentation | Hypothesis design + testing | Experiment Note (forward-facing, testable) | Close the cycle; pragmatist knowledge validation |\n\nThe EPA is not a sequential process to be completed once per experience; it is a recursive spiral. The experiment note generates new concrete experiences, which generate new capture notes, which progress through the cycle, generating increasingly refined and tested insights. Each completion of the cycle enriches the tacit knowing that Schön identifies as the source of expert judgment — the knowing-in-action that enables reflection-in-action in future encounters.\n\nThis architecture does not replace the permanent note PKB paradigm; it grounds it. Permanent notes (Stage 3 insight notes) remain the epistemic workhorses of the system. But in the EPA, they are embedded in a processing ecology rather than floating as isolated abstractions — connected backward to the experiences that justify them and forward to the experimental tests that validate or refine them.",
+        "line_number": 383,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 53627,
+        "char_end": 56253
+      },
+      {
+        "type": "original-synthesis",
+        "title": "Untitled",
+        "body": "**The Pragmatist PKB: A Design Philosophy**\n\nSynthesizing the pragmatist epistemology of Dewey, the experiential learning psychology of Kolb, the professional practice research of Schön, and the knowledge management theory of Nonaka, we can articulate a coherent design philosophy for what might be called the **Pragmatist PKB** — a PKB built around the primacy of experience and the provisionality of knowledge:\n\n1. **Experience First**: Every explicit knowledge claim is grounded in documented experiential evidence. Abstract principles that float free of experiential grounding are flagged as \"received knowledge\" — valuable but epistemically weaker than experientially grounded knowledge.\n2. **Provisionality by Default**: All insight notes carry confidence ratings, challenge conditions, and revision histories. Knowledge does not harden into fact without multiple rounds of experiential testing.\n3. **Process Visible**: The processing path of each insight — from raw experience through reflection and abstraction — is traceable in the PKB. You can always see how a conclusion was reached.\n4. **Cycle Complete**: The PKB actively tracks whether the experiential learning cycle has been completed for significant experiences. Incomplete cycles — experiences that were captured but never reflected upon, or insights that were abstracted but never experimentally tested — are made visible and actionable.\n5. **Action-Oriented**: Every insight note eventually generates an experiment note — a commitment to a next action that will test the insight in experience. A PKB that never generates action is, by the pragmatist account, not producing knowledge at all.",
+        "line_number": 415,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 58665,
+        "char_end": 60366
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections**\n\nThis report on Reflective Practice and Experiential Learning connects to your knowledge base in the following ways:\n\n- **[[Schema Theory]]** (Reports 01 and 03) — The Stage 3 insight note is essentially the externalization of a schema modification. When a concrete experience is processed through reflective observation and abstract conceptualization, the output is a schema update: an existing mental framework has been extended, refined, or replaced. The Experience Processing Architecture is, at the cognitive level, a schema development engine. Understanding schema theory enriches understanding of why the full four-stage cycle is necessary: shallow processing produces surface-level encoding that does not reach the schematic level where durable learning occurs.\n\n- **[[Metacognitive Monitoring]]** (Report 04) — The Zimmerman SRL model's self-reflection phase and the Kolb ELC's reflective observation stage are structurally isomorphic, as this report's Phase IV demonstrates. The metacognitive monitoring system (Flavell, Nelson & Narens) provides the cognitive control architecture that makes reflective observation possible: the learner must be monitoring their own performance during concrete experience in order to have informative content to reflect on. A PKB that supports metacognitive monitoring (Report 04) and experiential learning processing (Report 08) is not maintaining two separate systems — it is implementing the same system at two levels of description.\n\n- **[[Self-Determination Theory]]** (Report 05) — The Kolb cycle's active experimentation stage — designing and undertaking the next experience — is intrinsically motivating in SDT terms when the experience tests a hypothesis of the learner's own construction (autonomy) at an appropriate level of challenge (competence). The EPA, properly implemented, should be motivationally self-sustaining: completed cycles generate both the epistemic satisfaction of insight and the anticipatory engagement of designed experimentation. This is a profound alignment between the experiential learning architecture and the motivational architecture.\n\n- **[[Desirable Difficulties]]** (Report 06/16) — Dewey's \"felt difficulty\" and the desirable difficulties research tradition both identify productive struggle as the engine of deep learning. But they name the phenomenon differently and offer complementary explanations. Dewey's account is phenomenological and philosophical: the felt difficulty is the affective signal that existing habits are insufficient. The desirable difficulties account is cognitive and empirical: increased processing effort during encoding produces more durable and transferable memories. Together, they provide a complete account of why the EPA's Stage 1 (rich, effortful capture) and Stage 2 (structured, analytical reflection) should be *hard* — not simplified into frictionless templates that bypass the productive struggle.\n\n- **[[Tacit Knowledge]]** (Report 22, future) — This report's treatment of Nonaka's externalization mechanism and Schön's reflection-in-action is a foundation for Report 22's deeper examination of what a text-based PKB fundamentally cannot capture. The Experience Processing Architecture, despite its sophistication, cannot fully solve the tacit knowledge problem — it can only improve the ratio of tacit knowing that gets externalized. Report 22 will examine the limits of that ratio and what complementary non-PKB practices might address them.\n\n**Cross-Report Links (PKM/PKB Framework Series)**:\n\n- **[[Report 04 — Metacognitive Self-Regulation]]** — This report deepens Report 04's treatment of Dewey and the SRL model by showing how the experiential learning cycle provides the content that metacognitive monitoring processes. The two reports together constitute a complete account of how deliberate learning operates: Report 04 provides the control architecture; Report 08 provides the content architecture.\n\n- **[[Report 12 — The Reflective PKB]]** (future) — Report 12 will build directly on the EPA introduced here, extending it into a comprehensive framework for embedding metacognitive monitoring into daily PKB practice. This report's four-stage cycle architecture is the structural foundation that Report 12 will develop into specific interface and workflow designs.\n\n**Synthetic Observation**: The pattern of connections reveals that this report occupies a pivotal position in the series — it is simultaneously the experiential application of the cognitive foundations laid in Reports 01-04 and the philosophical grounding for the more implementation-focused reports in Tier 2. The Experience Processing Architecture functions as a bridge between the scientific and philosophical frameworks of Tier 1 and the design specifications of Tier 2.",
+        "line_number": 434,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 61175,
+        "char_end": 66043
+      },
+      {
+        "type": "definition",
+        "title": "Felt Difficulty (John Dewey, Educational Philosophy)",
+        "body": "The affective-cognitive state that initiates genuine reflective inquiry: the experience of one's existing habits of thought and action being insufficient for a situation that demands response. Not mere intellectual puzzlement but a disruption of habitual engagement with the world. Dewey argued that this is the necessary and sufficient trigger for genuine learning — without the felt difficulty, the mind remains in its existing grooves.",
+        "line_number": 463,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 66103,
+        "char_end": 66617
+      },
+      {
+        "type": "definition",
+        "title": "Concrete Experience (David Kolb, Educational Psychology)",
+        "body": "The first stage of the Experiential Learning Cycle: direct, immediate engagement with a situation, event, or phenomenon, experienced in its full contextual and affective richness. Distinguished from abstract knowledge about the situation; the emphasis is on direct encounter rather than conceptual mediation. In PKB terms, this stage warrants an experience capture note that preserves contextual richness rather than immediately abstracting.",
+        "line_number": 466,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 66618,
+        "char_end": 67139
+      },
+      {
+        "type": "definition",
+        "title": "Reflective Observation (David Kolb, Educational Psychology)",
+        "body": "The second stage of the ELC: deliberate, multi-perspective observation of the concrete experience, suspending immediate judgment in favor of sustained attention to what actually happened and why. Corresponds to Nonaka's externalization stage in its function: articulating tacit knowing embedded in the experience into increasingly explicit form.",
+        "line_number": 469,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 67140,
+        "char_end": 67568
+      },
+      {
+        "type": "definition",
+        "title": "Abstract Conceptualization (David Kolb, Educational Psychology)",
+        "body": "The third stage of the ELC: the cognitive movement from observation to general principle, theory, or framework. The stage at which learning achieves transferability — the insight is no longer bound to the specific context but becomes applicable across analogous situations. The permanent note in a PKB is the artifact of this stage.",
+        "line_number": 472,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 67569,
+        "char_end": 67988
+      },
+      {
+        "type": "definition",
+        "title": "Active Experimentation (David Kolb, Educational Psychology)",
+        "body": "The fourth stage of the ELC: applying the abstracted concept in new situations, testing its validity, and thereby generating new concrete experiences that begin the cycle again. The pragmatist moment in the ELC: knowledge is validated only through action. In PKB terms, this warrants an experiment note — a commitment to a testable behavioral hypothesis.",
+        "line_number": 475,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 67989,
+        "char_end": 68426
+      },
+      {
+        "type": "definition",
+        "title": "Reflection-in-Action (Donald Schön, Educational Philosophy/Professional Education)",
+        "body": "The expert practitioner's capacity for real-time noticing, reframing, and adjustment within ongoing professional practice, without interrupting the flow of action. Largely tacit and inarticulate; the primary mechanism by which expert intuition is developed. Creates a PKB challenge: it is the most valuable learning, and the most difficult to capture.",
+        "line_number": 478,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 68427,
+        "char_end": 68884
+      },
+      {
+        "type": "definition",
+        "title": "Reflection-on-Action (Donald Schön, Educational Philosophy/Professional Education)",
+        "body": "Retrospective, deliberate reflection on professional practice after the fact — thinking systematically about what happened, why, and what it implies for future practice. More articulable than reflection-in-action and more amenable to PKB integration; corresponds to the Reflective Observation stage of Kolb's ELC.",
+        "line_number": 481,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 68885,
+        "char_end": 69304
+      },
+      {
+        "type": "definition",
+        "title": "Externalization (Nonaka and Takeuchi, Knowledge Management)",
+        "body": "The SECI model's second mode: the conversion of tacit knowledge into explicit, articulable form through the use of language, metaphor, analogy, and narrative. The cognitive mechanism by which the inarticulate knowing embedded in experience is given propositional structure. In PKB terms, writing a reflection note is an act of externalization.",
+        "line_number": 484,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 69305,
+        "char_end": 69731
+      },
+      {
+        "type": "definition",
+        "title": "Encoding Specificity (Endel Tulving, Cognitive Psychology)",
+        "body": "The principle that memory retrieval is most effective when retrieval cues match the context present during encoding. Has the implication that experience notes preserving rich contextual detail are more retrievable and applicable than notes that immediately abstract away from experiential context.",
+        "line_number": 487,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 69732,
+        "char_end": 70111
+      },
+      {
+        "type": "definition",
+        "title": "Experience Processing Architecture (This Report, Cross-Domain Synthesis)",
+        "body": "The four-stage PKB workflow — Capture, Reflect, Conceptualize, Experiment — derived from the integration of Kolb's ELC, Dewey's reflective inquiry, Schön's reflection modes, Nonaka's externalization mechanism, and encoding specificity research. Each stage produces a distinct PKB artifact type and serves a distinct epistemic purpose; all four stages are necessary for the full transformation of experience into durable, transferable, experimentally grounded knowledge.",
+        "line_number": 490,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 70112,
+        "char_end": 70677
+      },
+      {
+        "type": "definition",
+        "title": "Pragmatist PKB (This Report, Original Synthesis)",
+        "body": "A PKB designed philosophy grounded in pragmatist epistemology: treating stored knowledge as provisional hypotheses rather than established facts, making the processing path of insights visible and traceable, requiring experimental testing of abstracted insights, and treating the revision history of notes as epistemically valuable evidence of knowledge development over time.",
+        "line_number": 493,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 70678,
+        "char_end": 71126
+      },
+      {
+        "type": "definition",
+        "title": "Inert Ideas (Alfred North Whitehead, Educational Philosophy)",
+        "body": "Whitehead's term (from *The Aims of Education*, 1929) for ideas that are received and retained without being utilized, tested, or integrated into living thought — ideas that students can state but not apply. A known hazard of abstraction-focused PKB systems where explicit knowledge accumulates without experiential grounding or experimental testing.",
+        "line_number": 496,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 71127,
+        "char_end": 71561
+      },
+      {
+        "type": "cite",
+        "title": "Dewey, J. (1910/1997). *How We Think*. Dover Publications.",
+        "body": "Dewey's foundational account of reflective inquiry as the engine of genuine learning. The distinction between routine action and reflective thought, and the five-stage model of inquiry, are directly applicable to PKB design. Most relevant to Phase II's framework development and Phase VI's original synthesis. Essential reading for anyone designing experience-processing workflows.",
+        "line_number": 501,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 71591,
+        "char_end": 72048
+      },
+      {
+        "type": "cite",
+        "title": "Kolb, D.A. (1984). *Experiential Learning: Experience as the Source of Learning and Development*. Prentice Hall.",
+        "body": "The primary source for the Experiential Learning Cycle. Read for the structural model, not the learning styles inventory (which subsequent research has not supported). The framework chapters provide the most useful design-relevant material. Directly grounds this report's four-stage Experience Processing Architecture.",
+        "line_number": 504,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 72049,
+        "char_end": 72497
+      },
+      {
+        "type": "cite",
+        "title": "Schön, D.A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.",
+        "body": "Schön's classic study of reflective practice in professional domains (architecture, psychotherapy, engineering, urban planning, management). The distinction between reflection-in-action and reflection-on-action, and the concept of knowing-in-action, are foundational for understanding why experiential learning in professional contexts requires specialized PKB approaches. Rich with case studies.",
+        "line_number": 507,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 72498,
+        "char_end": 73010
+      },
+      {
+        "type": "cite",
+        "title": "Nonaka, I., & Takeuchi, H. (1995). *The Knowledge-Creating Company*. Oxford University Press.",
+        "body": "The primary source for the SECI model and tacit-explicit knowledge conversion framework. Organizationally focused, but the epistemological core — particularly the externalization and internalization modes — translates directly to individual PKB design. The concept of the \"knowledge spiral\" is particularly relevant to the EPA's recursive structure.",
+        "line_number": 510,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 73011,
+        "char_end": 73471
+      },
+      {
+        "type": "cite",
+        "title": "Polanyi, M. (1966). *The Tacit Dimension*. Doubleday.",
+        "body": "The philosophical foundation for the concept of tacit knowledge. Brief (under 100 pages) and philosophically dense. The claim that \"we can know more than we can tell\" has massive implications for PKB design. Most relevant to Phase IV's mechanistic analysis and the limitations section.",
+        "line_number": 513,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 73472,
+        "char_end": 73828
+      },
+      {
+        "type": "cite",
+        "title": "Moon, J.A. (2004). *A Handbook of Reflective and Experiential Learning*. RoutledgeFalmer.",
+        "body": "The most comprehensive review of the evidence base for reflective learning in higher education. Covers the theory, practice, and assessment of reflection across educational contexts. Provides the empirical grounding for Phase III's assessment of reflection effectiveness. Particularly valuable for the evidence that reflection must be structured and prompted.",
+        "line_number": 516,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 73829,
+        "char_end": 74295
+      },
+      {
+        "type": "cite",
+        "title": "Chi, M.T.H., Bassok, M., Lewis, M., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science*, 13, 145–182.",
+        "body": "The foundational study of the self-explanation effect: that learners who generate explanations of material learn significantly more deeply than those who do not. Directly grounds Phase III's discussion of writing to learn and Phase V's design principle about the character of reflection writing.",
+        "line_number": 519,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 74296,
+        "char_end": 74798
+      },
+      {
+        "type": "cite",
+        "title": "Ericsson, K.A., Krampe, R.T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. *Psychological Review*, 100(3), 363–406.",
+        "body": "The foundational study of deliberate practice: that expert performance is produced not by volume of experience but by structured, reflective practice with feedback. Directly grounds Phase III's claim that experience without reflection produces negligible expertise development. Essential context for the EPA's emphasis on the reflection and conceptualization stages.",
+        "line_number": 522,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 74799,
+        "char_end": 75353
+      },
+      {
+        "type": "cite",
+        "title": "Tulving, E., & Thomson, D.M. (1973). Encoding specificity and retrieval processes in episodic memory. *Psychological Review*, 80(5), 352–373.",
+        "body": "The foundational paper on encoding specificity: that retrieval effectiveness depends on match between encoding context and retrieval cues. Grounds Phase IV's argument that experience notes should preserve contextual richness rather than immediately abstracting.",
+        "line_number": 525,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 75354,
+        "char_end": 75774
+      },
+      {
+        "type": "cite",
+        "title": "Coffield, F., Moseley, D., Hall, E., & Ecclestone, K. (2004). *Learning Styles and Pedagogy in Post-16 Learning: A Systematic and Critical Review*. Learning and Skills Research Centre.",
+        "body": "The most comprehensive review of learning styles frameworks, including Kolb's LSI. Finds serious validity and reliability problems across most frameworks. Grounds Phase III's critical discussion of the learning styles component of Kolb's theory, which this report explicitly sets aside while retaining the structural cycle model.",
+        "line_number": 528,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 75775,
+        "char_end": 76306
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "This report draws on four major intellectual traditions: (1) Educational philosophy, primarily Dewey's pragmatism and Schön's professional practice research — primarily theoretical and qualitative in methodology, strong on mechanism and phenomenology, weaker on causal isolation; (2) Educational psychology, primarily Kolb's ELC and the writing-to-learn literature — mixed methodological tradition, ranging from Kolb's largely theoretical framework to well-controlled experimental studies of the self-explanation effect; (3) Knowledge management, primarily Nonaka's SECI model — primarily qualitative and case-based, strong on organizational phenomena, less well validated at the individual level; (4) Cognitive psychology, primarily memory and encoding research (Tulving) — well-controlled experimental tradition with strong ecological validity concerns.\n\nThe following claims are empirically well-established: the self-explanation effect (Chi et al.), the importance of deliberate practice over mere experience (Ericsson et al.), and the unreliability of Kolb's learning styles inventory (Coffield et al.). The following are well-grounded theoretical syntheses with substantial empirical support: the structural necessity of the four ELC stages, the tacit-explicit distinction, and encoding specificity applied to experience notes. The following are Claude's original cross-domain syntheses and analytical contributions, not established findings: the Experience Processing Architecture, the four failure modes taxonomy, the \"reframe as learning event\" insight, and the Pragmatist PKB design philosophy. These original contributions are flagged as such throughout.",
+        "line_number": 533,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 76344,
+        "char_end": 78085
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Framework",
+        "body": "> [!topic-idea] [[Gibbs Reflective Cycle as PKB Template Architecture]]\n> Graham Gibbs' 1988 reflective cycle (Description → Feelings → Evaluation → Analysis → Conclusion → Action Plan) provides a more granular structure for Stage 2 Reflection Notes than this report's framework. A dedicated report exploring Gibbs' model, its empirical basis, and its translation into Obsidian templates would significantly enrich the EPA's reflective observation stage. Questions addressed: how does Gibbs' inclusion of the feelings stage align with Schön's attention to the affective dimension? How does the action plan stage relate to Kolb's active experimentation?\n\n> [!topic-idea] [[The Phenomenology of Experience Capture — Hermeneutics and PKM]]\n> This report has focused on cognitive and educational psychology accounts of experience. A complementary report drawing on hermeneutic philosophy — particularly Gadamer's concept of the \"fusion of horizons\" and Ricoeur's narrative theory — would address the interpretive dimension: how the act of narrating an experience already transforms it, and what this means for the epistemic status of experience notes. Questions addressed: is an experience capture note a record or a construction? What is lost in the translation from lived experience to written text?\n\n> [!topic-idea] [[Experiential Learning Across Domains — Professional, Academic, and Personal]]\n> The EPA developed in this report was primarily developed with professional knowledge work in mind. A comparative report examining how the experiential learning cycle operates differently across professional, academic, and personal-growth contexts would enrich the framework. Questions addressed: does the optimal cycle stage duration differ by domain? Are certain failure modes more common in certain contexts? How should PKB templates be adapted for different experiential learning types?\n\n> [!topic-idea] [[The Tacit-Explicit Spiral in Personal Knowledge Development]]\n> This report introduced Nonaka's SECI model as a mechanism for understanding tacit-to-explicit conversion. A dedicated report would trace how the SECI spiral operates over longer timeframes in individual PKM: how insights that begin as explicit notes become re-tacitized through practice (internalization) and return to ground new rounds of explicitly articulable insight. Questions addressed: what is the relationship between PKB note maturity and the tacit-explicit cycle? How should note structures change as knowledge matures from explicit to tacit to re-explicit?\n\n> [!topic-idea] [[Narrative as Epistemic Tool — Story, Meaning, and the PKB]]\n> Nonaka's emphasis on metaphor and narrative in externalization, combined with research on narrative cognition (Bruner, 1986), suggests a report examining the specific role of narrative and story in experience processing. Questions addressed: when is narrative a superior format to propositional note-taking for experience capture? How does storytelling structure (protagonist, conflict, resolution) map onto the experiential learning cycle? What are the trade-offs between narrative richness and propositional precision in a PKB?\n\n> [!topic-idea] [[Contemplative Practices and Reflective Processing — Mindfulness and PKM]]\n> Schön's reflection-in-action and the reflective observation stage of the ELC both require a kind of attentive, non-judgmental noticing that has structural similarities to contemplative practice. A report examining the evidence base for mindfulness and contemplative practices as supports for experiential learning would enrich the EPA's Stage 2 protocols. Questions addressed: how does mindfulness training affect the quality of reflective observation? What contemplative practices best support the externalization of tacit knowing?",
+        "line_number": 541,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md",
+        "char_start": 78111,
+        "char_end": 81973
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "John Dewey",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John Dewey]]",
+        "line_number": 102,
+        "section": "Phase I: Orientation & Synthesis Focus",
+        "context_line": "[[John Dewey]], the American pragmatist philosopher and educational theorist, argued in *How We Think* (1910) and *Experience and Education* (1938) that all genuine learning begins in experience — specifically, in the disruption of habitual action by a problem that cannot be solved by existing habits of mind. His account of [[Reflective Inquiry]] is a theory of how minds move from the felt difficulty of such disruption to genuine understanding. [[David Kolb]], building on Dewey as well as on Piaget and Lewin, formalized this intuition into the [[Kolb Experiential Learning Cycle]], one of the most extensively applied frameworks in educational psychology, which proposes that learning proceeds through four stages: concrete experience, reflective observation, abstract conceptualization, and active experimentation. And Nonaka and Takeuchi's [[SECI Model]] in knowledge management provides the crucial mechanism of tacit-to-explicit conversion — explaining precisely how the inarticulate knowing embedded in lived experience becomes the explicit, shareable, storable knowledge that a PKB can actually capture.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Reflective Inquiry",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflective Inquiry]]",
+        "line_number": 102,
+        "section": "Phase I: Orientation & Synthesis Focus",
+        "context_line": "[[John Dewey]], the American pragmatist philosopher and educational theorist, argued in *How We Think* (1910) and *Experience and Education* (1938) that all genuine learning begins in experience — specifically, in the disruption of habitual action by a problem that cannot be solved by existing habits of mind. His account of [[Reflective Inquiry]] is a theory of how minds move from the felt difficulty of such disruption to genuine understanding. [[David Kolb]], building on Dewey as well as on Piaget and Lewin, formalized this intuition into the [[Kolb Experiential Learning Cycle]], one of the most extensively applied frameworks in educational psychology, which proposes that learning proceeds through four stages: concrete experience, reflective observation, abstract conceptualization, and active experimentation. And Nonaka and Takeuchi's [[SECI Model]] in knowledge management provides the crucial mechanism of tacit-to-explicit conversion — explaining precisely how the inarticulate knowing embedded in lived experience becomes the explicit, shareable, storable knowledge that a PKB can actually capture.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "David Kolb",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[David Kolb]]",
+        "line_number": 102,
+        "section": "Phase I: Orientation & Synthesis Focus",
+        "context_line": "[[John Dewey]], the American pragmatist philosopher and educational theorist, argued in *How We Think* (1910) and *Experience and Education* (1938) that all genuine learning begins in experience — specifically, in the disruption of habitual action by a problem that cannot be solved by existing habits of mind. His account of [[Reflective Inquiry]] is a theory of how minds move from the felt difficulty of such disruption to genuine understanding. [[David Kolb]], building on Dewey as well as on Piaget and Lewin, formalized this intuition into the [[Kolb Experiential Learning Cycle]], one of the most extensively applied frameworks in educational psychology, which proposes that learning proceeds through four stages: concrete experience, reflective observation, abstract conceptualization, and active experimentation. And Nonaka and Takeuchi's [[SECI Model]] in knowledge management provides the crucial mechanism of tacit-to-explicit conversion — explaining precisely how the inarticulate knowing embedded in lived experience becomes the explicit, shareable, storable knowledge that a PKB can actually capture.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Kolb Experiential Learning Cycle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Kolb Experiential Learning Cycle]]",
+        "line_number": 102,
+        "section": "Phase I: Orientation & Synthesis Focus",
+        "context_line": "[[John Dewey]], the American pragmatist philosopher and educational theorist, argued in *How We Think* (1910) and *Experience and Education* (1938) that all genuine learning begins in experience — specifically, in the disruption of habitual action by a problem that cannot be solved by existing habits of mind. His account of [[Reflective Inquiry]] is a theory of how minds move from the felt difficulty of such disruption to genuine understanding. [[David Kolb]], building on Dewey as well as on Piaget and Lewin, formalized this intuition into the [[Kolb Experiential Learning Cycle]], one of the most extensively applied frameworks in educational psychology, which proposes that learning proceeds through four stages: concrete experience, reflective observation, abstract conceptualization, and active experimentation. And Nonaka and Takeuchi's [[SECI Model]] in knowledge management provides the crucial mechanism of tacit-to-explicit conversion — explaining precisely how the inarticulate knowing embedded in lived experience becomes the explicit, shareable, storable knowledge that a PKB can actually capture.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "SECI Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SECI Model]]",
+        "line_number": 102,
+        "section": "Phase I: Orientation & Synthesis Focus",
+        "context_line": "[[John Dewey]], the American pragmatist philosopher and educational theorist, argued in *How We Think* (1910) and *Experience and Education* (1938) that all genuine learning begins in experience — specifically, in the disruption of habitual action by a problem that cannot be solved by existing habits of mind. His account of [[Reflective Inquiry]] is a theory of how minds move from the felt difficulty of such disruption to genuine understanding. [[David Kolb]], building on Dewey as well as on Piaget and Lewin, formalized this intuition into the [[Kolb Experiential Learning Cycle]], one of the most extensively applied frameworks in educational psychology, which proposes that learning proceeds through four stages: concrete experience, reflective observation, abstract conceptualization, and active experimentation. And Nonaka and Takeuchi's [[SECI Model]] in knowledge management provides the crucial mechanism of tacit-to-explicit conversion — explaining precisely how the inarticulate knowing embedded in lived experience becomes the explicit, shareable, storable knowledge that a PKB can actually capture.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Educational Philosophy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Educational Philosophy]]",
+        "line_number": 107,
+        "section": "Phase I: Orientation & Synthesis Focus",
+        "context_line": "- [[Educational Philosophy]] (pragmatism, Dewey's inquiry theory, Schön's reflective practice)",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Educational Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Educational Psychology]]",
+        "line_number": 108,
+        "section": "Phase I: Orientation & Synthesis Focus",
+        "context_line": "- [[Educational Psychology]] (Kolb's ELC, experiential learning research, writing-to-learn evidence)",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Management]]",
+        "line_number": 109,
+        "section": "Phase I: Orientation & Synthesis Focus",
+        "context_line": "- [[Knowledge Management]] (Nonaka's SECI model, tacit-explicit conversion)",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Cognitive Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Psychology]]",
+        "line_number": 110,
+        "section": "Phase I: Orientation & Synthesis Focus",
+        "context_line": "- [[Cognitive Psychology]] (encoding specificity, schema formation, self-explanation effect)",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 111,
+        "section": "Phase I: Orientation & Synthesis Focus",
+        "context_line": "- [[Metacognition]] (reflection as metacognitive regulation, monitoring and control of reflective processes)",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Felt Difficulty",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Felt Difficulty]]",
+        "line_number": 132,
+        "section": "Dewey and the Problem of Experience",
+        "context_line": "For Dewey, the beginning of learning is always a disruption. He called this the [[Felt Difficulty]] — not merely an intellectual puzzle but an affective experience: the sense that your existing habits of mind are insufficient for the situation at hand. This is not a comfortable state. Dewey's radical claim, elaborated throughout *How We Think*, is that this discomfort is not an obstacle to learning but its very engine. The [[Pragmatist Epistemology]] underlying his theory holds that knowledge is never a passive correspondence between mind and reality but an instrument forged in the encounter between organism and environment — tested, refined, and always provisional.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Pragmatist Epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pragmatist Epistemology]]",
+        "line_number": 132,
+        "section": "Dewey and the Problem of Experience",
+        "context_line": "For Dewey, the beginning of learning is always a disruption. He called this the [[Felt Difficulty]] — not merely an intellectual puzzle but an affective experience: the sense that your existing habits of mind are insufficient for the situation at hand. This is not a comfortable state. Dewey's radical claim, elaborated throughout *How We Think*, is that this discomfort is not an obstacle to learning but its very engine. The [[Pragmatist Epistemology]] underlying his theory holds that knowledge is never a passive correspondence between mind and reality but an instrument forged in the encounter between organism and environment — tested, refined, and always provisional.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Self-Explanation Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Explanation Effect]]",
+        "line_number": 205,
+        "section": "The Evidence for Reflective Writing",
+        "context_line": "The [[Self-Explanation Effect]] (Chi et al., 1989, 1994) is particularly relevant. Chi and colleagues found that learners who spontaneously explained material to themselves during study learned significantly more deeply than those who did not — and crucially, that this effect was mediated by the *quality* of the self-explanation, not merely its occurrence. Shallow self-explanation (\"I see\") produced little gain; explanatory self-explanation (\"this happens because...\") produced substantial learning. This directly implicates the character of reflection writing: a PKB note that says \"that meeting went badly\" is not a reflection; a note that says \"that meeting went badly because I entered without surfacing my underlying assumption that the client wanted the same thing I did — the same assumption I made in the Q3 project\" is a self-explanation, and it is the one that produces learning.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Felt Difficulty",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Felt Difficulty]]",
+        "line_number": 251,
+        "section": "How Reflective Inquiry Works at the Cognitive Level",
+        "context_line": "Dewey's five-stage model of reflective inquiry maps onto cognitive psychological mechanisms with a precision that is remarkable given the century that separates them. The [[Felt Difficulty]] — Dewey's trigger for genuine inquiry — is, in cognitive terms, the detection of a [[Prediction Error]]: the discrepancy between what a schema predicted would happen and what actually happened. Friston's free energy principle and the predictive processing framework (Clark, 2016) suggest that this prediction error is both the signal that existing schemas are inadequate and the motivational driver of schema revision. Dewey was right, from a neurological perspective he could not have anticipated: genuine learning begins in disruption.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Prediction Error",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Prediction Error]]",
+        "line_number": 251,
+        "section": "How Reflective Inquiry Works at the Cognitive Level",
+        "context_line": "Dewey's five-stage model of reflective inquiry maps onto cognitive psychological mechanisms with a precision that is remarkable given the century that separates them. The [[Felt Difficulty]] — Dewey's trigger for genuine inquiry — is, in cognitive terms, the detection of a [[Prediction Error]]: the discrepancy between what a schema predicted would happen and what actually happened. Friston's free energy principle and the predictive processing framework (Clark, 2016) suggest that this prediction error is both the signal that existing schemas are inadequate and the motivational driver of schema revision. Dewey was right, from a neurological perspective he could not have anticipated: genuine learning begins in disruption.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Encoding Specificity Principle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Encoding Specificity Principle]]",
+        "line_number": 271,
+        "section": "The Tacit-Explicit Conversion Mechanism",
+        "context_line": "> Tulving and Thomson's (1973) [[Encoding Specificity Principle]] — that memory retrieval is most effective when the cues available at retrieval match the context present at encoding — has a profound implication for experience capture that is almost entirely absent from PKM discourse. If you capture an experience by immediately abstracting it — \"the lesson here is to always clarify goals before beginning a project\" — you have encoded a principle but destroyed the experiential context. When you later encounter a situation where that principle is relevant, the abstract statement alone may not trigger retrieval, because the cues available (a new project situation) may not match the encoded cue (a generic principle). But if you captured the experience in its contextual richness — the specific meeting, the specific misalignment, the specific feeling of confusion when goals proved different — the new situation's contextual cues are more likely to trigger retrieval of the stored experience, which then provides both the principle and the rich contextual grounding that enables appropriate application. This suggests that experience notes should *preserve context* at the moment of capture, even if that context is later supplemented by extracted principles.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Metacognitive Reflection",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Reflection]]",
+        "line_number": 292,
+        "section": "Return-and-Deepen: Metacognitive Reflection Revisited",
+        "context_line": "Report 04 introduced [[Metacognitive Reflection]] as the monitoring and control of one's own cognitive processes. With the experiential learning framework now in view, we can see an implication that was not visible before: metacognitive reflection, properly understood, must extend to the management of the entire experiential learning cycle — not merely the monitoring of individual cognitive operations.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated Learning]]",
+        "line_number": 294,
+        "section": "Return-and-Deepen: Metacognitive Reflection Revisited",
+        "context_line": "Zimmerman's [[Self-Regulated Learning]] model (covered in Report 04) identifies a forethought phase, a performance phase, and a self-reflection phase. When this model is mapped onto the Kolb cycle, the correspondence is illuminating: Zimmerman's forethought phase corresponds to Kolb's active experimentation (designing the next experience); Zimmerman's performance phase corresponds to concrete experience; Zimmerman's self-reflection phase encompasses both reflective observation and abstract conceptualization. This structural correspondence reveals that self-regulated learning and experiential learning are describing the same cycle from different vantage points — SRL from the inside (the learner's cognitive management) and ELC from the outside (the observable sequence of learning activities).",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Learning Journal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Learning Journal]]",
+        "line_number": 346,
+        "section": "Design Principle 4: The Learning Journal as a First-Class PKB Object",
+        "context_line": "The [[Learning Journal]] — a dedicated, temporally structured record of experiential learning — should be a first-class structural element in a PKM/PKB system, not an informal sidebar to the main knowledge graph. Unlike the permanent note (which aims for timeless, context-independent knowledge), the learning journal is explicitly time-stamped, experience-anchored, and process-visible. It is the place where Stages 1 and 2 notes live before their extracted insights migrate to the permanent knowledge graph as Stage 3 notes.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Pragmatist Epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pragmatist Epistemology]]",
+        "line_number": 411,
+        "section": "Return-and-Deepen: The Pragmatist PKB as Living System",
+        "context_line": "Earlier, we introduced [[Pragmatist Epistemology]] as the philosophical backdrop for Dewey's account of learning. We can now see, with the full synthesis in view, a deeper implication: pragmatism is not merely a theory of knowledge but a design philosophy for PKB systems.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Schema Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Theory]]",
+        "line_number": 439,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Schema Theory]]** (Reports 01 and 03) — The Stage 3 insight note is essentially the externalization of a schema modification. When a concrete experience is processed through reflective observation and abstract conceptualization, the output is a schema update: an existing mental framework has been extended, refined, or replaced. The Experience Processing Architecture is, at the cognitive level, a schema development engine. Understanding schema theory enriches understanding of why the full four-stage cycle is necessary: shallow processing produces surface-level encoding that does not reach the schematic level where durable learning occurs.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Metacognitive Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Monitoring]]",
+        "line_number": 441,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Metacognitive Monitoring]]** (Report 04) — The Zimmerman SRL model's self-reflection phase and the Kolb ELC's reflective observation stage are structurally isomorphic, as this report's Phase IV demonstrates. The metacognitive monitoring system (Flavell, Nelson & Narens) provides the cognitive control architecture that makes reflective observation possible: the learner must be monitoring their own performance during concrete experience in order to have informative content to reflect on. A PKB that supports metacognitive monitoring (Report 04) and experiential learning processing (Report 08) is not maintaining two separate systems — it is implementing the same system at two levels of description.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 443,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Self-Determination Theory]]** (Report 05) — The Kolb cycle's active experimentation stage — designing and undertaking the next experience — is intrinsically motivating in SDT terms when the experience tests a hypothesis of the learner's own construction (autonomy) at an appropriate level of challenge (competence). The EPA, properly implemented, should be motivationally self-sustaining: completed cycles generate both the epistemic satisfaction of insight and the anticipatory engagement of designed experimentation. This is a profound alignment between the experiential learning architecture and the motivational architecture.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Desirable Difficulties",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Desirable Difficulties]]",
+        "line_number": 445,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Desirable Difficulties]]** (Report 06/16) — Dewey's \"felt difficulty\" and the desirable difficulties research tradition both identify productive struggle as the engine of deep learning. But they name the phenomenon differently and offer complementary explanations. Dewey's account is phenomenological and philosophical: the felt difficulty is the affective signal that existing habits are insufficient. The desirable difficulties account is cognitive and empirical: increased processing effort during encoding produces more durable and transferable memories. Together, they provide a complete account of why the EPA's Stage 1 (rich, effortful capture) and Stage 2 (structured, analytical reflection) should be *hard* — not simplified into frictionless templates that bypass the productive struggle.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Tacit Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tacit Knowledge]]",
+        "line_number": 447,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Tacit Knowledge]]** (Report 22, future) — This report's treatment of Nonaka's externalization mechanism and Schön's reflection-in-action is a foundation for Report 22's deeper examination of what a text-based PKB fundamentally cannot capture. The Experience Processing Architecture, despite its sophistication, cannot fully solve the tacit knowledge problem — it can only improve the ratio of tacit knowing that gets externalized. Report 22 will examine the limits of that ratio and what complementary non-PKB practices might address them.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 04 — Metacognitive Self-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 04 — Metacognitive Self-Regulation]]",
+        "line_number": 451,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 04 — Metacognitive Self-Regulation]]** — This report deepens Report 04's treatment of Dewey and the SRL model by showing how the experiential learning cycle provides the content that metacognitive monitoring processes. The two reports together constitute a complete account of how deliberate learning operates: Report 04 provides the control architecture; Report 08 provides the content architecture.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 12 — The Reflective PKB",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 12 — The Reflective PKB]]",
+        "line_number": 453,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 12 — The Reflective PKB]]** (future) — Report 12 will build directly on the EPA introduced here, extending it into a comprehensive framework for embedding metacognitive monitoring into daily PKB practice. This report's four-stage cycle architecture is the structural foundation that Report 12 will develop into specific interface and workflow designs.",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Gibbs Reflective Cycle as PKB Template Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Gibbs Reflective Cycle as PKB Template Architecture]]",
+        "line_number": 543,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Gibbs Reflective Cycle as PKB Template Architecture]]",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "The Phenomenology of Experience Capture — Hermeneutics and PKM",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Phenomenology of Experience Capture — Hermeneutics and PKM]]",
+        "line_number": 546,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[The Phenomenology of Experience Capture — Hermeneutics and PKM]]",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Experiential Learning Across Domains — Professional, Academic, and Personal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Experiential Learning Across Domains — Professional, Academic, and Personal]]",
+        "line_number": 549,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Experiential Learning Across Domains — Professional, Academic, and Personal]]",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "The Tacit-Explicit Spiral in Personal Knowledge Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Tacit-Explicit Spiral in Personal Knowledge Development]]",
+        "line_number": 552,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[The Tacit-Explicit Spiral in Personal Knowledge Development]]",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Narrative as Epistemic Tool — Story, Meaning, and the PKB",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Narrative as Epistemic Tool — Story, Meaning, and the PKB]]",
+        "line_number": 555,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Narrative as Epistemic Tool — Story, Meaning, and the PKB]]",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Contemplative Practices and Reflective Processing — Mindfulness and PKM",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Contemplative Practices and Reflective Processing — Mindfulness and PKM]]",
+        "line_number": 558,
+        "section": "D. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Contemplative Practices and Reflective Processing — Mindfulness and PKM]]",
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM",
+        "anchor": "report-08-reflective-practice-and-experiential-learning-dewey-kolb-and-the-learning-cycle-in-pkm",
+        "line_number": 92,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Synthesis Focus",
+        "anchor": "phase-i-orientation-synthesis-focus",
+        "line_number": 96,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Analytical Framework — Cross-Domain Foundations",
+        "anchor": "phase-ii-analytical-framework-cross-domain-foundations",
+        "line_number": 125,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Dewey and the Problem of Experience",
+        "anchor": "dewey-and-the-problem-of-experience",
+        "line_number": 127,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Kolb's Experiential Learning Cycle",
+        "anchor": "kolbs-experiential-learning-cycle",
+        "line_number": 141,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Schön's Reflective Practitioner",
+        "anchor": "schns-reflective-practitioner",
+        "line_number": 153,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Nonaka's SECI Model and Tacit-Explicit Conversion",
+        "anchor": "nonakas-seci-model-and-tacit-explicit-conversion",
+        "line_number": 163,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Critical Examination of Evidence",
+        "anchor": "phase-iii-critical-examination-of-evidence",
+        "line_number": 183,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Evidence for Kolb's ELC: Strengths and Significant Complications",
+        "anchor": "the-evidence-for-kolbs-elc-strengths-and-significant-complications",
+        "line_number": 188,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Evidence for Reflective Writing",
+        "anchor": "the-evidence-for-reflective-writing",
+        "line_number": 201,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Evidence from Knowledge Management: Tacit-Explicit Conversion",
+        "anchor": "the-evidence-from-knowledge-management-tacit-explicit-conversion",
+        "line_number": 212,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Cross-Disciplinary Evidence Patterns",
+        "anchor": "cross-disciplinary-evidence-patterns",
+        "line_number": 223,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms, Dynamics & Deep Synthesis",
+        "anchor": "phase-iv-mechanisms-dynamics-deep-synthesis",
+        "line_number": 244,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "How Reflective Inquiry Works at the Cognitive Level",
+        "anchor": "how-reflective-inquiry-works-at-the-cognitive-level",
+        "line_number": 249,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Tacit-Explicit Conversion Mechanism",
+        "anchor": "the-tacit-explicit-conversion-mechanism",
+        "line_number": 260,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Four Failure Modes of Experiential Learning",
+        "anchor": "the-four-failure-modes-of-experiential-learning",
+        "line_number": 273,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Return-and-Deepen: Metacognitive Reflection Revisited",
+        "anchor": "return-and-deepen-metacognitive-reflection-revisited",
+        "line_number": 290,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Implications for PKM/PKB Design & Limitations",
+        "anchor": "phase-v-implications-for-pkmpkb-design-limitations",
+        "line_number": 313,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 1: Build the Four-Stage Cycle Into Your Note Architecture",
+        "anchor": "design-principle-1-build-the-four-stage-cycle-into-your-note-architecture",
+        "line_number": 315,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 2: Separate Capture from Processing",
+        "anchor": "design-principle-2-separate-capture-from-processing",
+        "line_number": 332,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 3: Make Provisionality Structurally Visible",
+        "anchor": "design-principle-3-make-provisionality-structurally-visible",
+        "line_number": 338,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 4: The Learning Journal as a First-Class PKB Object",
+        "anchor": "design-principle-4-the-learning-journal-as-a-first-class-pkb-object",
+        "line_number": 344,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Limitations and Honest Boundaries",
+        "anchor": "limitations-and-honest-boundaries",
+        "line_number": 357,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Integration & Original Contribution",
+        "anchor": "phase-vi-synthesis-integration-original-contribution",
+        "line_number": 379,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Experience Processing Architecture: An Original Synthesis",
+        "anchor": "the-experience-processing-architecture-an-original-synthesis",
+        "line_number": 381,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Synthesis Question, Revisited",
+        "anchor": "the-central-synthesis-question-revisited",
+        "line_number": 401,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Return-and-Deepen: The Pragmatist PKB as Living System",
+        "anchor": "return-and-deepen-the-pragmatist-pkb-as-living-system",
+        "line_number": 409,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Unresolved Questions",
+        "anchor": "unresolved-questions",
+        "line_number": 426,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: PKB Connections & Cross-Report Links",
+        "anchor": "phase-vii-pkb-connections-cross-report-links",
+        "line_number": 432,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VIII: Appendix",
+        "anchor": "phase-viii-appendix",
+        "line_number": 459,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 461,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Annotated References",
+        "anchor": "b-annotated-references",
+        "line_number": 499,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Methodology and Sources Note",
+        "anchor": "c-methodology-and-sources-note",
+        "line_number": 531,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "D. Expansion Topics",
+        "anchor": "d-expansion-topics",
+        "line_number": 539,
+        "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "[[Educational Philosophy]] (pragmatism, Dewey's inquiry theory, Schön's reflective practice)",
+          "indent_level": 0,
+          "line_number": 107,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+        },
+        {
+          "text": "[[Educational Psychology]] (Kolb's ELC, experiential learning research, writing-to-learn evidence)",
+          "indent_level": 0,
+          "line_number": 108,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+        },
+        {
+          "text": "[[Knowledge Management]] (Nonaka's SECI model, tacit-explicit conversion)",
+          "indent_level": 0,
+          "line_number": 109,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+        },
+        {
+          "text": "[[Cognitive Psychology]] (encoding specificity, schema formation, self-explanation effect)",
+          "indent_level": 0,
+          "line_number": 110,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+        },
+        {
+          "text": "[[Metacognition]] (reflection as metacognitive regulation, monitoring and control of reflective processes)",
+          "indent_level": 0,
+          "line_number": 111,
+          "source": "08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md"
+        }
+      ]
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Cognitive Psychology",
+      "Contemplative Practices and Reflective Processing — Mindfulness and PKM",
+      "David Kolb",
+      "Desirable Difficulties",
+      "Educational Philosophy",
+      "Educational Psychology",
+      "Encoding Specificity Principle",
+      "Experiential Learning Across Domains — Professional, Academic, and Personal",
+      "Felt Difficulty",
+      "Gibbs Reflective Cycle as PKB Template Architecture",
+      "John Dewey",
+      "Knowledge Management",
+      "Kolb Experiential Learning Cycle",
+      "Learning Journal",
+      "Metacognition",
+      "Metacognitive Monitoring",
+      "Metacognitive Reflection",
+      "Narrative as Epistemic Tool — Story, Meaning, and the PKB",
+      "Pragmatist Epistemology",
+      "Prediction Error",
+      "Reflective Inquiry",
+      "Report 04 — Metacognitive Self-Regulation",
+      "Report 12 — The Reflective PKB",
+      "SECI Model",
+      "Schema Theory",
+      "Self-Determination Theory",
+      "Self-Explanation Effect",
+      "Self-Regulated Learning",
+      "Tacit Knowledge",
+      "The Phenomenology of Experience Capture — Hermeneutics and PKM",
+      "The Tacit-Explicit Spiral in Personal Knowledge Development"
+    ],
+    "unique_wiki_link_count": 31,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "builds-on": [
+        "[[03-constructing-understanding-pkm-framework-2026-03-13]]",
+        "[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]",
+        "[[05-motivation-architecture-pkm-framework-2026-03-13]]"
+      ],
+      "related_concepts": [
+        "[[Dewey Reflective Inquiry]]",
+        "[[Pragmatist Epistemology]]",
+        "[[Kolb Experiential Learning Cycle]]",
+        "[[Concrete Experience]]",
+        "[[Reflective Observation]]",
+        "[[Abstract Conceptualization]]",
+        "[[Active Experimentation]]",
+        "[[Reflective Practice]]",
+        "[[Reflection-in-Action]]",
+        "[[Reflection-on-Action]]",
+        "[[Schön Reflective Practitioner]]",
+        "[[Gibbs Reflective Cycle]]",
+        "[[Tacit Knowledge]]",
+        "[[Explicit Knowledge]]",
+        "[[SECI Model]]",
+        "[[Nonaka Knowledge Creation]]",
+        "[[Experiential Learning]]",
+        "[[Felt Difficulty]]",
+        "[[Inquiry-Based Learning]]",
+        "[[Writing to Learn]]",
+        "[[Self-Explanation Effect]]",
+        "[[Encoding Specificity]]",
+        "[[Metacognitive Reflection]]",
+        "[[Learning Journal]]",
+        "[[Experience Capture]]",
+        "[[Experience Processing Architecture]]",
+        "[[PKB Reflection Templates]]",
+        "[[Personal Knowledge Base]]",
+        "[[PKM Workflow Design]]",
+        "[[Experiential Processing Protocol]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Cognitive Psychology",
+      "Contemplative Practices and Reflective Processing — Mindfulness and PKM",
+      "David Kolb",
+      "Desirable Difficulties",
+      "Educational Philosophy",
+      "Educational Psychology",
+      "Encoding Specificity Principle",
+      "Experiential Learning Across Domains — Professional, Academic, and Personal",
+      "Felt Difficulty",
+      "Gibbs Reflective Cycle as PKB Template Architecture",
+      "John Dewey",
+      "Knowledge Management",
+      "Kolb Experiential Learning Cycle",
+      "Learning Journal",
+      "Metacognition",
+      "Metacognitive Monitoring",
+      "Metacognitive Reflection",
+      "Narrative as Epistemic Tool — Story, Meaning, and the PKB",
+      "Pragmatist Epistemology",
+      "Prediction Error",
+      "Reflective Inquiry",
+      "Report 04 — Metacognitive Self-Regulation",
+      "Report 12 — The Reflective PKB",
+      "SECI Model",
+      "Schema Theory",
+      "Self-Determination Theory",
+      "Self-Explanation Effect",
+      "Self-Regulated Learning",
+      "Tacit Knowledge",
+      "The Phenomenology of Experience Capture — Hermeneutics and PKM",
+      "The Tacit-Explicit Spiral in Personal Knowledge Development"
+    ]
+  }
+}

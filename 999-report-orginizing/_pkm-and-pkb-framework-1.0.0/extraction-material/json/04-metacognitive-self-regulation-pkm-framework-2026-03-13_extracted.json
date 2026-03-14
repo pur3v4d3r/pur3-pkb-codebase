@@ -1,0 +1,1919 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-14T10:50:56.352124",
+    "source_file": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\_pkm-and-pkb-framework-1.0.0\\04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+    "source_file_size_bytes": 88799,
+    "processing_time_seconds": 0.024
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "04-metacognitive-self-regulation-pkm-framework-2026-03-13",
+      "doc_type": "permanent-note",
+      "doc_created": "2026-03-13",
+      "doc_modified": "2026-03-13",
+      "author": "claude-sonnet-4-6",
+      "primary_domain": "knowledge-management",
+      "secondary_domains": [
+        "cognitive-psychology",
+        "educational-psychology",
+        "educational-philosophy",
+        "instructional-design",
+        "metacognition",
+        "psychology-of-learning",
+        "stoic-philosophy"
+      ],
+      "related_concepts": [
+        "[[Metacognition]]",
+        "[[Self-Regulated Learning]]",
+        "[[Reflective Inquiry]]",
+        "[[Metacognitive Monitoring]]",
+        "[[Metacognitive Control]]",
+        "[[Metacognitive Knowledge]]",
+        "[[Calibration]]",
+        "[[Judgment of Learning]]",
+        "[[Feeling of Knowing]]",
+        "[[Zimmerman SRL Model]]",
+        "[[Flavell Metacognition Framework]]",
+        "[[Nelson Narens Model]]",
+        "[[Self-Efficacy]]",
+        "[[Reflective Practice]]",
+        "[[Deliberate Practice]]",
+        "[[Learning Journal]]",
+        "[[Metacognitive Scaffolding]]",
+        "[[Illusion of Knowing]]",
+        "[[Self-Explanation Effect]]",
+        "[[Stoic Journaling]]",
+        "[[Dewey Reflective Inquiry]]",
+        "[[Personal Knowledge Base]]",
+        "[[PKM Review Protocols]]",
+        "[[Metacognitive PKB]]"
+      ],
+      "knowledge_level": "advanced",
+      "tags": [
+        "pkm-framework",
+        "metacognition",
+        "self-regulated-learning",
+        "reflective-thinking",
+        "cognitive-psychology",
+        "educational-psychology",
+        "educational-philosophy",
+        "pkb-design",
+        "review-protocols",
+        "reflection-templates",
+        "calibration",
+        "report-04"
+      ],
+      "status": "evergreen",
+      "maturity": "highly-developed",
+      "confidence": "high",
+      "framework-series-position": "04",
+      "analytical-focus": "How do Metacognition, Self-Regulated Learning, and Reflective Thinking combine to form the cognitive control system that makes PKM effective rather than merely mechanical — and what does this mean for how a PKB should be designed?",
+      "analytical-contributions": [],
+      "builds-on": [
+        "[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]",
+        "[[02-architecture-of-learning-pkm-framework-2026-03-13]]",
+        "[[03-constructing-understanding-pkm-framework-2026-03-13]]"
+      ],
+      "feeds-into": [
+        "[[06-science-of-remembering-pkm-framework]]",
+        "[[09-designing-the-learning-pkb-pkm-framework]]",
+        "[[12-reflective-pkb-pkm-framework]]",
+        "[[18-calibration-epistemic-humility-pkm-framework]]"
+      ],
+      "cross-report-dependencies": [
+        "[[Report 01 — Foundations of Knowledge Architecture]]",
+        "[[Report 02 — Architecture of Learning]]",
+        "[[Report 03 — Constructing Understanding]]"
+      ],
+      "summary": "Cross-domain synthesis of Metacognition (Flavell, Nelson & Narens), Self-Regulated Learning (Zimmerman), Reflective Inquiry (Dewey), and Reflective Practice (Schön) revealing the cognitive control architecture that distinguishes effective PKM from mere information accumulation. Central contribution: the Metacognitive PKB — a reframing of the Personal Knowledge Base not as external memory but as an external metacognitive scaffold that compensates for natural monitoring limitations, externalizes the monitoring-control loop, and embeds deliberate reflection as a first-class structural feature. Translates into concrete PKB design guidance for reflection templates, calibration checkpoints, learning journal protocols, and metacognitive metadata systems."
+    },
+    "word_count": 11463,
+    "character_count": 84991,
+    "line_count": 516,
+    "heading_count": 36
+  },
+  "extraction_summary": {
+    "total_items_extracted": 153,
+    "by_type": {
+      "headings": 36,
+      "callouts": 64,
+      "wiki_links": 48,
+      "inline_fields": 3,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 2,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM",
+      "anchor": "report-04-metacognitive-self-regulation-the-engine-of-effective-pkm",
+      "line_number": 83,
+      "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Synthesis Focus",
+          "anchor": "phase-i-orientation-synthesis-focus",
+          "line_number": 89,
+          "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Difference That Makes the Difference",
+              "anchor": "the-difference-that-makes-the-difference",
+              "line_number": 91,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Synthesis Question",
+              "anchor": "the-synthesis-question",
+              "line_number": 100,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Disciplinary Contributions and Their Intersections",
+              "anchor": "disciplinary-contributions-and-their-intersections",
+              "line_number": 106,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Roadmap",
+              "anchor": "roadmap",
+              "line_number": 112,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Analytical Framework — Cross-Domain Foundations",
+          "anchor": "phase-ii-analytical-framework-cross-domain-foundations",
+          "line_number": 118,
+          "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "What Metacognition Actually Is",
+              "anchor": "what-metacognition-actually-is",
+              "line_number": 120,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Initial Cross-Domain Connections",
+              "anchor": "initial-cross-domain-connections",
+              "line_number": 143,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Critical Examination of Evidence",
+          "anchor": "phase-iii-critical-examination-of-evidence",
+          "line_number": 166,
+          "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Evidence Landscape Across Disciplines",
+              "anchor": "the-evidence-landscape-across-disciplines",
+              "line_number": 171,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Key Findings and Their Implications",
+              "anchor": "key-findings-and-their-implications",
+              "line_number": 183,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms, Dynamics & Deep Synthesis",
+          "anchor": "phase-iv-mechanisms-dynamics-deep-synthesis",
+          "line_number": 237,
+          "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Monitoring-Control Loop in Detail",
+              "anchor": "the-monitoring-control-loop-in-detail",
+              "line_number": 242,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Zimmerman's Cycle Revisited With Cognitive Mechanism",
+              "anchor": "zimmermans-cycle-revisited-with-cognitive-mechanism",
+              "line_number": 265,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Where the Mechanisms Fail — And Why This Matters for PKB Design",
+              "anchor": "where-the-mechanisms-fail-and-why-this-matters-for-pkb-design",
+              "line_number": 278,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Return and Deepen: Metacognition and the Schema-Progressive Architecture from Report 03",
+              "anchor": "return-and-deepen-metacognition-and-the-schema-progressive-architecture-from-report-03",
+              "line_number": 300,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Externalization Principle",
+              "anchor": "the-externalization-principle",
+              "line_number": 309,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Implications for PKM/PKB Design & Limitations",
+          "anchor": "phase-v-implications-for-pkmpkb-design-limitations",
+          "line_number": 328,
+          "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Design Principle 1: Embed Structured Reflection Templates in Every Note Type",
+              "anchor": "design-principle-1-embed-structured-reflection-templates-in-every-note-type",
+              "line_number": 332,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 2: Replace Passive Review with Calibrated Active Recall",
+              "anchor": "design-principle-2-replace-passive-review-with-calibrated-active-recall",
+              "line_number": 349,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 3: Implement a Learning Journal as First-Class PKB Artifact",
+              "anchor": "design-principle-3-implement-a-learning-journal-as-first-class-pkb-artifact",
+              "line_number": 358,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 4: Build Metacognitive Metadata Into Note Structure",
+              "anchor": "design-principle-4-build-metacognitive-metadata-into-note-structure",
+              "line_number": 364,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 5: Create Conditions for Productive Felt Difficulty",
+              "anchor": "design-principle-5-create-conditions-for-productive-felt-difficulty",
+              "line_number": 382,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Honest Limitations",
+              "anchor": "honest-limitations",
+              "line_number": 388,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Integration & Original Contribution",
+          "anchor": "phase-vi-synthesis-integration-original-contribution",
+          "line_number": 409,
+          "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Complete Picture",
+              "anchor": "the-complete-picture",
+              "line_number": 411,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Central Synthesis Question Revisited",
+              "anchor": "the-central-synthesis-question-revisited",
+              "line_number": 419,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Original Contribution: The Metacognitive PKB",
+              "anchor": "original-contribution-the-metacognitive-pkb",
+              "line_number": 427,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Unresolved Questions",
+              "anchor": "unresolved-questions",
+              "line_number": 439,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: PKB Connections & Cross-Report Links",
+          "anchor": "phase-vii-pkb-connections-cross-report-links",
+          "line_number": 451,
+          "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase VIII: Appendix",
+          "anchor": "phase-viii-appendix",
+          "line_number": 478,
+          "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 480,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. Annotated References",
+              "anchor": "b-annotated-references",
+              "line_number": 523,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Methodology and Sources Note",
+              "anchor": "c-methodology-and-sources-note",
+              "line_number": 560,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. Expansion Topics",
+              "anchor": "d-expansion-topics",
+              "line_number": 574,
+              "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Before You Begin",
+        "body": "Before reading further, take a moment to reflect on your own PKM practice. When you capture a note, do you assess how well you actually understand the content — or do you trust the act of capture itself as evidence of understanding? When you review notes, do you test yourself, or do you re-read them? When you feel confident that you know something, how often do you check whether that confidence is accurate? These questions are not rhetorical. They reveal your current relationship with metacognition, and that relationship is the invisible architecture that either amplifies or undermines everything else about your PKM system.",
+        "line_number": 97,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 5023,
+        "char_end": 5701
+      },
+      {
+        "type": "definition",
+        "title": "Metacognition (Flavell, 1979 — Cognitive Psychology)",
+        "body": "The broad domain of cognition that has other cognitive processes as its object. Flavell (1979) distinguished two major components: (1) **Metacognitive Knowledge** — what the person knows *about* cognition (their own and others'), including knowledge of persons (how learners differ), tasks (how task characteristics affect difficulty), and strategies (which approaches work in which contexts); and (2) **Metacognitive Regulation** — the active monitoring and regulation of cognitive processes during learning, including planning, monitoring, and evaluating. The boundary condition: metacognition is specifically cognition directed at cognitive processes, not at content directly. \"Knowing that I do not understand this paragraph\" is metacognition; \"understanding this paragraph\" is cognition.",
+        "line_number": 124,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 9610,
+        "char_end": 10478
+      },
+      {
+        "type": "definition",
+        "title": "Meta-Level / Object-Level Model (Nelson & Narens, 1990 — Cognitive Psychology)",
+        "body": "A two-level hierarchical architecture in which a **meta-level** (containing representations of the object-level system) exerts control over an **object-level** (performing the actual cognitive work). The meta-level operates through two processes: **monitoring** (information flowing upward from object-level to meta-level — the meta-level reads the state of object-level processing) and **control** (information flowing downward from meta-level to object-level — the meta-level modifies object-level processes). In learning contexts, monitoring includes processes such as [[Judgment of Learning]] (assessing how well one has learned an item) and [[Feeling of Knowing]] (assessing whether one knows an item). Control includes processes such as study-time allocation (spending more time on poorly-learned items) and retrieval termination (deciding when to stop searching for an answer). Boundary condition: the monitoring-control loop is the fundamental operational unit of metacognition; failures can occur in monitoring accuracy, control responsiveness, or the connection between them.",
+        "line_number": 131,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 11087,
+        "char_end": 12274
+      },
+      {
+        "type": "definition",
+        "title": "Self-Regulated Learning — SRL (Zimmerman, 1989, 2000 — Educational Psychology)",
+        "body": "A conception of learning as an active, constructive process in which learners set goals, monitor progress toward those goals, and regulate cognition, motivation, and behavior in service of those goals. Zimmerman's cyclical model organizes SRL across three phases: (1) **Forethought** — task analysis (goal-setting, strategic planning) and motivational beliefs (self-efficacy, intrinsic interest, outcome expectations); (2) **Performance** — self-control (deployment of strategies, imagery, self-instruction) and self-observation (self-monitoring, self-recording); (3) **Self-Reflection** — self-judgment (self-evaluation against standards, causal attribution) and self-reaction (self-satisfaction, adaptive or defensive inferences). The cycles are iterative: self-reflection from one episode feeds into forethought for the next. SRL is distinguished from metacognition by its explicit inclusion of motivational and behavioral dimensions alongside purely cognitive self-regulation.",
+        "line_number": 134,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 12275,
+        "char_end": 13357
+      },
+      {
+        "type": "definition",
+        "title": "Reflective Inquiry (Dewey, 1933 — Educational Philosophy)",
+        "body": "Dewey's account of genuine thinking as a specific kind of response to a problematic situation — what he called a \"forked road\" situation in which the habitual flow of action is disrupted by a felt difficulty. The five stages of reflective inquiry are: (1) a **felt difficulty** (awareness of a problem or confusion); (2) **location and definition** of the difficulty (clarifying what exactly the problem is); (3) **suggestion** of possible solutions (generating hypotheses); (4) **reasoning through** the implications of each suggestion; and (5) **further observation and experiment** testing the hypothesis. Crucially, Dewey insisted that genuine inquiry requires actual doubt — not performed or ritualized reflection, but a genuine encounter with uncertainty that motivates real cognitive work. Boundary condition: reflective inquiry applies to situations of genuine uncertainty; routine situations call for habit, not inquiry.",
+        "line_number": 137,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 13358,
+        "char_end": 14368
+      },
+      {
+        "type": "definition",
+        "title": "Reflective Practice (Schön, 1983 — Knowledge Management / Professional Education)",
+        "body": "Schön's account of how competent professionals develop expertise through two forms of reflection: **reflection-in-action** (real-time adjustment of practice during execution, a kind of \"thinking on one's feet\") and **reflection-on-action** (retrospective analysis of practice after an episode, examining what happened, why, and what might be done differently). Reflective practice is Schön's response to the \"technical rationality\" model of professional knowledge — the view that experts simply apply scientific theory to practical problems. Schön argued that the most interesting professional knowledge is tacit, context-embedded, and developed through reflective engagement with unique, complex situations. In knowledge management terms, reflective practice is the primary mechanism for converting tacit professional knowledge (accumulated in practice) into articulable, transferable explicit knowledge.",
+        "line_number": 140,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 14369,
+        "char_end": 15379
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "The Monitoring-Control Loop and the SRL Cycle Are Structurally Isomorphic",
+        "body": "Nelson & Narens' monitoring-control model (cognitive psychology) and Zimmerman's SRL cycle (educational psychology) appear to describe different things — one is a cognitive architecture model, the other is a behavioral learning model. But they share a deep structure. Both describe a hierarchical feedback system in which a higher-order process (the meta-level / the self-reflection phase) monitors the state of a lower-order process (the object-level / the performance phase) and uses that monitoring to regulate subsequent activity. Both are cyclical, not linear. Both identify monitoring accuracy as the critical variable determining system quality. This structural isomorphism suggests the two models are describing the same fundamental phenomenon at different levels of analysis — the Nelson-Narens model providing the cognitive mechanism for what Zimmerman describes at the behavioral level. PKB design that integrates both perspectives will be far more robust than design that draws from either alone.",
+        "line_number": 147,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 15541,
+        "char_end": 16659
+      },
+      {
+        "type": "key-claim",
+        "title": "Metacognitive Regulation, Not Metacognitive Knowledge, Is the Primary Driver of Learning Quality",
+        "body": "While knowing about learning strategies (metacognitive knowledge) contributes to learning outcomes, the research consistently shows that the active regulation of cognition during learning — monitoring understanding and adjusting accordingly — is the primary driver of outcome quality. A person who knows many learning strategies but does not monitor whether they are actually working derives little benefit from that knowledge. A person who lacks formal strategy knowledge but accurately monitors their understanding and adjusts their study accordingly achieves far better outcomes. For PKB design, this implies that the primary metacognitive design target is *regulatory* — building monitoring and control into the PKB workflow — not merely *informational* (providing information about learning techniques).",
+        "line_number": 150,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 16660,
+        "char_end": 17587
+      },
+      {
+        "type": "key-claim",
+        "title": "Dewey's Felt Difficulty Is the Motivational Engine of Metacognitive Monitoring",
+        "body": "Dewey's analysis of reflective inquiry begins with a *felt difficulty* — a moment of genuine confusion or uncertainty that disrupts habitual thinking. This is not merely a philosophical claim; it maps precisely onto the cognitive psychology of metacognitive activation. Metacognitive monitoring is not constant; it is activated by mismatches between expected and actual comprehension — exactly what Dewey's \"felt difficulty\" describes. For PKB design, this means that the system should not only record knowledge but should also create conditions for felt difficulty — productive encounters with the edges of one's understanding where monitoring is most likely to activate and genuine learning most likely to occur.",
+        "line_number": 153,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 17588,
+        "char_end": 18403
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Framework",
+        "body": "**Comprehension**: Which of these four concepts was least familiar to you before this section? What did you assume \"metacognition\" meant before encountering Flavell's precise distinction between metacognitive knowledge and metacognitive regulation?\n\n**Application**: Looking at your current PKB practice, can you identify moments that correspond to Nelson & Narens' monitoring process? Do you have any mechanism for flagging when your monitoring reveals poor understanding — and for adjusting your engagement accordingly (control)?\n\n**Extension**: Dewey insists that genuine reflection requires genuine doubt — that performed or ritualized reflection without real uncertainty is not actually inquiry. What are the implications of this for how a PKB should structure reflection prompts? Can a system designed in advance reliably generate genuine felt difficulty?",
+        "line_number": 156,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 18404,
+        "char_end": 19325
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — Before",
+        "body": "Before engaging with the evidence, record your current position: How confident are you (1–10) that your PKM practice involves genuine metacognitive regulation — not just reviewing notes, but actively monitoring understanding and adjusting accordingly? Note your confidence level here; you will return to it at the end of this phase.",
+        "line_number": 168,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 19379,
+        "char_end": 19766
+      },
+      {
+        "type": "evidence",
+        "title": "The Dunlosky & Rawson (2012) Calibration Findings",
+        "body": "Dunlosky and Rawson's systematic research program demonstrated that the primary failure mode in self-regulated study is not effort but monitoring accuracy. Students who used rereading as their primary study strategy reported high understanding (high JOL scores) but showed poor test performance — the gap between their subjective confidence and objective performance being the defining feature of poor metacognitive calibration. Critically, students who used retrieval practice (self-testing) showed better calibration because the act of attempted retrieval produces accurate monitoring signals — you cannot easily fool yourself about whether you can retrieve something when you have just tried and failed. The design implication is direct: PKB review systems should generate retrieval attempts, not re-reading, because retrieval practice produces accurate monitoring signals.",
+        "line_number": 189,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 23873,
+        "char_end": 24820
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Monitoring Signal, Not the Review Activity, Is What Matters",
+        "body": "Taken together, the calibration research suggests something important that most PKM frameworks overlook: the value of a review activity lies primarily in the quality of the monitoring signal it generates, not in the cognitive work it requires. Re-reading feels productive and generates high confidence (positive monitoring signals) while producing poor actual learning. Self-testing feels difficult and generates low confidence (accurate negative monitoring signals when understanding is poor) while producing excellent actual learning. This reframes the design question entirely: instead of asking \"what review activities should the PKB support?\", the better question is \"what review activities generate accurate metacognitive monitoring signals?\" — and the answer is almost always some form of active retrieval or generation.",
+        "line_number": 192,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 24821,
+        "char_end": 25751
+      },
+      {
+        "type": "analytical-insight",
+        "title": "PKM Systems Are Systematically Biased Toward the Forethought and Performance Phases",
+        "body": "Reflecting on the typical PKM workflow reveals a structural bias: most PKB activity concentrates in the forethought phase (capturing and organizing notes, planning review sessions) and the performance phase (reviewing notes, making new connections). The self-reflection phase — evaluating quality of understanding, attributing learning successes and failures, making adaptive adjustments to strategy — is almost universally absent as a *designed* feature of PKB systems. This is not accidental. The self-reflection phase requires confronting evidence of poor understanding, which is uncomfortable. Systems designed around positive reinforcement naturally gravitate away from it. But Zimmerman's research establishes that self-reflection is the learning phase with the highest leverage — it is where the cycle either becomes productive or collapses into comfortable repetition. A PKB that systematically supports self-reflection is doing something categorically different from a PKB that does not.",
+        "line_number": 199,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 26778,
+        "char_end": 27889
+      },
+      {
+        "type": "tension-identified",
+        "title": "Metacognitive Training Requires Instruction — But PKB Systems Are Self-Directed",
+        "body": "The metacognitive training research demonstrates that monitoring accuracy can be substantially improved through instruction and practice. However, this research primarily concerns instructor-directed interventions — guided programs in which a teacher or curriculum structures the metacognitive practice. PKB systems are, by definition, self-directed. The tension is real: the learner who most needs metacognitive scaffolding (poor monitoring accuracy, ineffective study habits) is also the least likely to correctly diagnose their own need and seek out appropriate scaffolding. A PKB cannot provide a teacher. But it can implement structural features — mandatory reflection prompts, automated calibration challenges, scheduled self-assessment checkpoints — that approximate the function of instructor-directed metacognitive scaffolding. The design challenge is creating external accountability structures that partially substitute for the external instruction that the training research relied upon.",
+        "line_number": 214,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 30220,
+        "char_end": 31330
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Stoic Evening Review and Modern Metacognitive Self-Monitoring Are Functionally Equivalent",
+        "body": "The Stoic practice of nightly self-examination (reviewing the day's actions, thoughts, and judgments against one's values and commitments) and the metacognitive self-monitoring research finding that retrospective reflection significantly improves subsequent performance appear superficially different — one is ancient philosophical practice, the other is experimental cognitive psychology. But they are functionally equivalent: both involve generating a delayed, deliberate monitoring signal about recent cognitive and behavioral performance; both require comparing actual performance against an internal standard; both produce control signals for the next performance episode. This convergence across 2,000 years and entirely independent traditions provides unusually strong grounds for treating systematic journaling as a core PKB metacognitive practice — not as a nice-to-have but as a constitutive element of effective PKM.",
+        "line_number": 221,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 31991,
+        "char_end": 33044
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — After",
+        "body": "Return to your initial confidence rating (1–10) about whether your PKM practice involves genuine metacognitive regulation. Has it changed? If it has decreased, that is not a sign of failure — it is a sign of metacognitive calibration improving. The research suggests that accurate awareness of one's limitations is the beginning of genuine self-regulation, not its absence.",
+        "line_number": 224,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 33045,
+        "char_end": 33472
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Evidence",
+        "body": "**Comprehension**: Which finding was most significant for your understanding of what makes PKM effective versus ineffective? What assumption did it challenge?\n\n**Application**: If you were to redesign one aspect of your PKB review workflow based solely on the calibration research, what would you change? (Hint: are you generating accurate monitoring signals or comfortable re-exposure signals?)\n\n**Extension**: The tension between metacognitive training research and the self-directed nature of PKB raises a genuine design question. What structural features might a PKB implement to create external accountability for self-reflection without requiring an external instructor?",
+        "line_number": 227,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 33473,
+        "char_end": 34208
+      },
+      {
+        "type": "important",
+        "title": "Complexity Transition",
+        "body": "This phase descends to the level of cognitive mechanism — how metacognitive processes actually operate inside the learner and where they characteristically fail. The analysis integrates the Nelson-Narens cognitive architecture model with Zimmerman's behavioral SRL cycle and Dewey's philosophical account of inquiry to produce the deepest cross-domain synthesis in this report. Building directly on the evidence from Phase III and the framework from Phase II, this phase reveals why PKB design must address metacognition at a structural level rather than treating it as an optional practice layer.",
+        "line_number": 239,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 34266,
+        "char_end": 34907
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Timing of Metacognitive Monitoring Matters Enormously — And Almost No PKB Workflows Account for It",
+        "body": "The delayed JOL research (Nelson & Dunlosky, 1991) demonstrates that monitoring accuracy is dramatically better when judgment is delayed — when the learner assesses understanding 24+ hours after initial study rather than immediately after. Immediate JOL judgments are contaminated by processing fluency during the study episode itself: material that was just read feels familiar, and familiarity produces high confidence even when memory encoding was shallow. Yet almost every PKM workflow generates immediate self-assessment: you capture a note, you feel you understand it, and you move on. If the monitoring is systematically inaccurate at the point when it is typically deployed, the control responses it drives (study-time allocation, scheduling of review) are built on unreliable data. A PKB that schedules review based on immediate JOLs is optimizing against a systematically biased signal. Delayed self-assessment checkpoints — structurally built into note templates — address this precisely.",
+        "line_number": 254,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 36371,
+        "char_end": 37504
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Dewey's Reflective Inquiry Cycle and Zimmerman's SRL Cycle Describe the Same Process at Different Levels of Abstraction",
+        "body": "Dewey's five stages (felt difficulty → problem definition → hypothesis generation → reasoning through implications → testing) map directly onto Zimmerman's cycle: the \"felt difficulty\" corresponds to the monitoring signal that activates the performance phase; \"problem definition\" and \"hypothesis generation\" are the control processes that direct subsequent study; \"reasoning through implications\" is performance-phase self-monitoring; and \"testing\" is both the final performance phase activity and the trigger for self-reflection. This structural isomorphism is not coincidental. Both frameworks are attempting to describe the same fundamental cognitive process — deliberate, monitored, goal-directed learning — using different vocabularies and at different levels of analysis. The convergence provides strong grounds for treating this cyclical structure as fundamental: any PKB design that does not embed the complete cycle (including, crucially, the self-reflection phase that most systems neglect) is implementing an incomplete architecture.",
+        "line_number": 275,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 40108,
+        "char_end": 41309
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "Metacognitive Monitoring Cannot, By Itself, Solve the Spacing Problem",
+        "body": "The evidence across forgetting curve research, JOL accuracy studies, and spacing research converges on a troubling conclusion: human metacognitive monitoring is structurally incapable of accurately predicting optimal review spacing. The JOL is a snapshot of current retrieval strength, not a projection of future retention. The implication for PKB design is not merely that spaced repetition tools are useful supplements — it is that external algorithmic scheduling of review is doing *cognitive work that the learner's own metacognitive system cannot reliably do*. A PKB that relies entirely on the learner's subjective judgment about when to review is depending on a monitoring system that the cognitive research has shown to be structurally inadequate for this task.",
+        "line_number": 290,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 43059,
+        "char_end": 43937
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Most Leverage in PKM Is in the Phase That Learners Are Most Motivated to Skip",
+        "body": "The SRL research, motivation research (SDT, achievement goal theory), and monitoring accuracy research collectively point toward a painful conclusion: the activities with the highest impact on learning quality (self-testing, delayed self-assessment, retrospective reflection, calibration against objective standards) are also the most aversive and most frequently avoided. Pleasant, fluent re-reading generates false confidence. Effortful, uncomfortable self-testing generates accurate monitoring signals and drives genuine learning. The typical PKM user is not simply uninformed about this asymmetry; they are *motivated* away from the high-leverage activities by basic psychological mechanisms that favor comfort and positive self-regard. PKB design must take this motivational reality seriously — it cannot simply inform the user that self-testing is better and expect behavioral change. It must structure the environment to make the aversive activities the path of least resistance.",
+        "line_number": 297,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 44807,
+        "char_end": 45914
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Four-Layer Note Structure Is a Metacognitive Time Machine",
+        "body": "The Layer 4 (Frontier) section of the Schema-Progressive Architecture from Report 03 — where the current limits of understanding are honestly recorded — functions as a form of delayed self-assessment written in advance. When the learner returns to the note, they encounter not just the content but their past honest metacognitive assessment of what they knew and didn't know. The gap between that past assessment and their current understanding is a direct measure of learning progress — far more accurate than any immediate JOL comparison. This means that building honest frontier documentation into every note template is not a pedagogical nicety; it is implementing the most accurate metacognitive monitoring mechanism that the cognitive research has identified.",
+        "line_number": 306,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 47223,
+        "char_end": 48081
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Dewey's Inquiry Journal, Schön's Reflective Log, and the PKB Learning Journal Are the Same Tool",
+        "body": "Dewey argued that genuine inquiry — the deliberate problem-solving that produces learning — requires an external medium through which thought can be examined and refined. Schön documented that expert professionals develop their most sophisticated tacit knowledge through systematic reflection recorded in some form of practice journal. Contemporary metacognitive research shows that written self-explanation (explaining in writing what one understands and where gaps exist) produces better calibration and better learning than silent review. These three independent traditions converge on the same practical tool: a persistent written record of one's own thinking about one's thinking. In PKB terms, this is the [[Learning Journal]] — not as a general diary but as a structured externalization of the monitoring-control loop. A PKB Learning Journal that documents monitoring judgments (what do I understand?), control decisions (how am I adjusting my study?), and self-reflections (how did this learning episode go?) is implementing findings from three independent research traditions simultaneously.",
+        "line_number": 315,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 49191,
+        "char_end": 50423
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Mechanisms",
+        "body": "**Comprehension**: Can you trace the chain from Nelson & Narens' monitoring-control loop to Zimmerman's SRL cycle to Dewey's reflective inquiry, and see them as describing the same fundamental process at different levels? If yes, what does that unified picture imply about what \"effective PKM\" fundamentally requires?\n\n**Application**: The \"Externalization Principle\" suggests that moving metacognitive monitoring into written PKB artifacts compensates for the structural limitations of internal monitoring. Can you identify specific moments in your current PKM workflow where monitoring judgments should be written down rather than merely felt?\n\n**Extension**: The monitoring failure modes raise a provocative question: if human metacognitive monitoring is systematically biased by fluency, forgetting curves, and comfort-seeking, is there a level of monitoring failure that makes self-directed PKM fundamentally limited — and does this argue for importing some form of external accountability into PKB design?",
+        "line_number": 318,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 50424,
+        "char_end": 51496
+      },
+      {
+        "type": "best-practice",
+        "title": "Separate Capture from Assessment — Deliberately",
+        "body": "The most important structural feature of a metacognitive PKB is temporal separation between *capture* (writing the note, recording the content) and *assessment* (evaluating understanding quality). Completing both in the same session contaminates the monitoring signal with processing fluency. Build explicit workflow separation: notes are captured on Day 0; metacognitive assessment fields are completed on Day 1+. This single structural change converts the dominant PKM monitoring mechanism from inaccurate (immediate JOL) to accurate (delayed JOL) without any additional effort — only a change in timing.",
+        "line_number": 346,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 52977,
+        "char_end": 53657
+      },
+      {
+        "type": "best-practice",
+        "title": "The Three-Part Review Cycle",
+        "body": "For any note scheduled for review: (1) Without opening the note, write a 100-200 word explanation of the concept from memory in a dedicated `Review-Attempts` note; (2) Open the original note and explicitly compare — annotating gaps and errors with `> [!monitoring-gap]` callouts; (3) Update the note's `Understanding-Level::` field based on this accurate, retrieval-based monitoring signal. This implements the retrieval practice effect, produces accurate JOL calibration, and creates a visible record of learning progress — three distinct evidence-based benefits in a single workflow.",
+        "line_number": 355,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 54510,
+        "char_end": 55149
+      },
+      {
+        "type": "warning",
+        "title": "The Overhead Risk",
+        "body": "Metacognitive scaffolding adds workflow overhead. If the overhead exceeds the cognitive and temporal resources available, the result is not better learning but PKB abandonment. Every metacognitive design feature recommended here should be implemented gradually and tested for sustainability. The enemy of excellent metacognitive PKM is not ignorance — it is an overly ambitious design that collapses under its own complexity. Start with one practice (delayed JOL in note templates), demonstrate value, and expand gradually.",
+        "line_number": 396,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 58731,
+        "char_end": 59292
+      },
+      {
+        "type": "reflection",
+        "title": "From Understanding to PKB Design",
+        "body": "**Comprehension**: Which design principle requires the most change from your current PKM practice? Which is closest to something you already do?\n\n**Application**: If you could implement only one of the five design principles tomorrow, which would have the highest impact on your PKM effectiveness? What would need to change in your Obsidian workflow to implement it?\n\n**Extension**: The \"overhead risk\" warning raises a tension between optimal design and sustainable practice. How do you determine the right level of metacognitive scaffolding — enough to improve monitoring accuracy without creating a system so complex that it breaks down?",
+        "line_number": 399,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 59293,
+        "char_end": 60000
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Metacognitive PKB: External Memory Is the Wrong Frame",
+        "body": "The prevailing metaphor for PKB systems is \"external memory\" or \"second brain\" — extending cognitive capacity by externalizing storage. This is not wrong, but it is incomplete in a way that systematically undermines PKB design. Memory systems are optimized for retrieval fidelity: you want to get back what you put in, accurately and efficiently. Metacognitive systems are optimized for something different — monitoring accuracy and adaptive control. These optimization targets are not identical, and designing for one while intending the other produces systematic design errors.\n\nThe Metacognitive PKB is a reframing of the PKB's primary function: not as external memory but as an **external metacognitive scaffold** — a system designed primarily to support accurate monitoring, reliable control, and systematic reflection, and only secondarily to store content. In a Metacognitive PKB, the most important elements are not the notes themselves but the monitoring records, calibration histories, reflection journals, and adaptive inferences that surround them. Content is the raw material; metacognitive processing is the product.\n\nThis reframing has specific design consequences: (1) Metacognitive metadata should be first-class elements, not optional add-ons. (2) Review workflows should be designed around monitoring signal quality, not review frequency. (3) The Learning Journal should have equal architectural status to the note collection. (4) Every note template should embed delayed self-assessment mechanisms. (5) The PKB should actively create conditions for felt difficulty — not merely organize comfortable, familiar knowledge.\n\nThe convergence of Nelson & Narens (monitoring-control architecture), Zimmerman (SRL cycle with self-reflection as the critical phase), Dewey (felt difficulty as the engine of genuine inquiry), and Schön (reflective practice as the mechanism of expertise development) all point toward the same design conclusion: **a PKB that does not externalize the metacognitive loop is merely a sophisticated filing cabinet**, regardless of how elegant its organizational structure or how diligent its maintenance. The Metacognitive PKB makes the loop visible, persistent, reviewable, and improvable.",
+        "line_number": 429,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 62918,
+        "char_end": 65250
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections:**\n\n- **[[Schema Theory]]** — Metacognitive monitoring operates on schemas: the JOL and FOK processes assess the degree to which a schema is consolidated and retrievable. Monitoring failures are often schema failures in disguise — what feels like \"I know this\" is sometimes \"I have a schema that pattern-matches this\" without genuine consolidation. The Metacognitive PKB supports schema quality assessment, directly extending Report 01's knowledge architecture framework.\n\n- **[[Cognitive Load Theory]]** — Metacognitive monitoring itself imposes cognitive load. The meta-level process of monitoring the object-level process requires working memory resources, creating a genuine tension between rich metacognitive engagement and cognitive overload. Report 02's analysis of working memory constraints explains why externalizing metacognitive monitoring into written PKB artifacts is not merely helpful but cognitively necessary — it offloads monitoring from the limited-capacity working memory to the persistent, high-capacity external medium.\n\n- **[[Schema-Progressive Architecture]]** — Report 03's Schema-Progressive Architecture (Layer 4: Frontier sections, forward-facing links to unknowns) is now revealed as a metacognitive scaffolding device: Frontier sections embed delayed self-monitoring into the note structure, and forward-facing links create the \"felt difficulty\" cues that activate genuine inquiry. The SPA is architecturally consistent with, and substantially reinforced by, the metacognitive framework developed here.\n\n- **[[Self-Determination Theory]]** — The motivational dimension of SRL (covered in [[Report 05: Motivation Architecture]]) intersects directly with metacognitive practice: autonomy support, competence need satisfaction, and mastery orientation all affect whether learners engage in honest self-assessment or defensive avoidance. The Metacognitive PKB framework requires motivational analysis to become fully operational.\n\n- **[[Spacing Effect]]** and **[[Testing Effect]]** — Report 06 (The Science of Remembering) will examine the mnemonic evidence base for review design. That evidence is directly continuous with this report's calibration analysis: spaced repetition works partly *because* it forces retrieval attempts that generate accurate monitoring signals, not merely because of temporal distribution. The connection is mechanistic, not merely topical.\n\n**Cross-Report Links (PKM/PKB Framework Series):**\n\n- **[[Report 06: The Science of Remembering]]** — This report establishes the metacognitive mechanism (monitoring-control loop, JOL accuracy, the role of retrieval in calibration) that Report 06 will extend with the full mnemonic science of spacing, testing, and desirable difficulties. The two reports form a mechanistic pair: metacognition explains *why* retrieval practice works; memory science explains *how* to implement it.\n\n- **[[Report 12: The Reflective PKB]]** — Report 12 is the direct architectural extension of this report, taking the metacognitive scaffolding principles developed here and translating them into a complete structural design for a PKB organized around reflection as its primary architecture. Everything this report establishes theoretically, Report 12 implements practically.\n\n- **[[Report 18: Calibration and Epistemic Humility]]** — Report 18 extends the calibration analysis from this report (focused on monitoring accuracy in learning contexts) into the broader epistemic domain: how should a PKB user manage uncertainty, track confidence across claims, and implement systematic epistemic humility? This report provides the cognitive foundation; Report 18 provides the epistemological superstructure.\n\n**Synthetic Observation**: This report occupies a pivotal position in the framework: it bridges the cognitive architecture established in Reports 01–03 with the motivational and social dimensions ahead, while establishing the metacognitive control system that all subsequent design recommendations ultimately depend on. The monitoring-control loop developed here is the hidden architecture behind findings about memory, transfer, motivation, and expertise that appear throughout the series.",
+        "line_number": 453,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 66392,
+        "char_end": 70655
+      },
+      {
+        "type": "definition",
+        "title": "Metacognition (Flavell, 1979 — Cognitive Psychology)",
+        "body": "Cognition that has other cognitive processes as its object, encompassing both metacognitive knowledge (knowing about cognition) and metacognitive regulation (monitoring and controlling cognitive processes). Distinguished from content-level cognition by its second-order, self-referential character.",
+        "line_number": 482,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 70715,
+        "char_end": 71089
+      },
+      {
+        "type": "definition",
+        "title": "Metacognitive Knowledge (Flavell, 1979 — Cognitive Psychology)",
+        "body": "What a person knows about cognition in general and their own cognition specifically, organized into knowledge of persons (how learners differ), tasks (how task features affect cognitive demand), and strategies (which approaches work when). Necessary but not sufficient for effective learning.",
+        "line_number": 485,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 71090,
+        "char_end": 71468
+      },
+      {
+        "type": "definition",
+        "title": "Metacognitive Regulation (Flavell, 1979; Brown, 1987 — Cognitive Psychology)",
+        "body": "The active executive processes through which learners monitor and control their own cognitive processing, including planning (selecting strategies before learning), monitoring (tracking understanding during learning), and evaluating (assessing outcome quality after learning).",
+        "line_number": 488,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 71469,
+        "char_end": 71845
+      },
+      {
+        "type": "definition",
+        "title": "Monitoring (Nelson & Narens, 1990 — Cognitive Psychology)",
+        "body": "In the meta-level/object-level model, the process by which the meta-level reads the current state of object-level processing — generating judgments such as Ease of Learning, Judgment of Learning, and Feeling of Knowing. Monitoring is the sensing function of the metacognitive system; its accuracy determines the quality of all downstream control decisions.",
+        "line_number": 491,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 71846,
+        "char_end": 72283
+      },
+      {
+        "type": "definition",
+        "title": "Control (Nelson & Narens, 1990 — Cognitive Psychology)",
+        "body": "In the meta-level/object-level model, the process by which the meta-level modifies object-level processing in response to monitoring signals — including study-time allocation, retrieval termination, and strategy selection. Control is only as good as the monitoring signals that drive it.",
+        "line_number": 494,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 72284,
+        "char_end": 72649
+      },
+      {
+        "type": "definition",
+        "title": "Judgment of Learning — JOL (Hart, 1965; Nelson, 1990 — Cognitive Psychology)",
+        "body": "A monitoring judgment made during or after study assessing how well an item has been learned. Immediate JOLs are systematically inaccurate (contaminated by processing fluency); delayed JOLs (24+ hours after study) are dramatically more accurate and are the foundation of calibrated study-time allocation.",
+        "line_number": 497,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 72650,
+        "char_end": 73054
+      },
+      {
+        "type": "definition",
+        "title": "Feeling of Knowing — FOK (Hart, 1965 — Cognitive Psychology)",
+        "body": "A monitoring judgment made when retrieval fails, assessing whether an item can be recognized or retrieved with additional search or cuing. FOK judgments predict whether further search or re-study will restore access, and are more accurate than chance but systematically overoptimistic.",
+        "line_number": 500,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 73055,
+        "char_end": 73424
+      },
+      {
+        "type": "definition",
+        "title": "Self-Regulated Learning — SRL (Zimmerman, 1989 — Educational Psychology)",
+        "body": "An active, constructive learning process in which learners set goals, monitor progress, and regulate cognition, motivation, and behavior in service of goals. Organized by Zimmerman into a three-phase cycle: Forethought (goal-setting, strategic planning, motivational beliefs) → Performance (self-control, self-monitoring) → Self-Reflection (self-evaluation, causal attribution, adaptive inference).",
+        "line_number": 503,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 73425,
+        "char_end": 73919
+      },
+      {
+        "type": "definition",
+        "title": "Calibration (Lichtenstein & Fischhoff, 1977; Dunlosky & Rawson, 2012 — Cognitive Psychology)",
+        "body": "The correspondence between a learner's subjective confidence in their knowledge (monitoring judgments) and their objective performance (test results). Perfect calibration: 70% confidence predicts 70% accuracy. Overconfidence (poor calibration): 70% confidence predicts 50% accuracy. Effective self-regulated learning requires well-calibrated monitoring; the calibration research shows that retrieval practice substantially improves calibration accuracy.",
+        "line_number": 506,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 73920,
+        "char_end": 74489
+      },
+      {
+        "type": "definition",
+        "title": "Illusion of Knowing (Glenberg et al., 1982; Koriat & Bjork, 2005 — Cognitive Psychology)",
+        "body": "The systematic tendency to overestimate one's comprehension of text or one's retention of studied material, generated by the contamination of monitoring judgments by processing fluency. The illusion of knowing is the primary mechanism by which passive re-reading fails: the fluency of re-reading produces high JOL confidence that does not reflect actual memory encoding depth.",
+        "line_number": 509,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 74490,
+        "char_end": 74978
+      },
+      {
+        "type": "definition",
+        "title": "Reflective Inquiry (Dewey, 1933 — Educational Philosophy)",
+        "body": "Dewey's five-stage account of genuine thinking: felt difficulty → location of the difficulty → suggestion of solutions → reasoning through implications → testing. Distinguished from routine cognition by its origin in genuine doubt and its direction toward real problem resolution. For Dewey, reflection that is not motivated by genuine uncertainty is intellectual performance, not genuine inquiry.",
+        "line_number": 512,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 74979,
+        "char_end": 75457
+      },
+      {
+        "type": "definition",
+        "title": "Reflective Practice (Schön, 1983 — Knowledge Management / Professional Education)",
+        "body": "The expert practitioner's capacity to learn from experience through two forms of reflection: reflection-in-action (real-time monitoring and adjustment of practice) and reflection-on-action (retrospective analysis of practice episodes). The primary mechanism through which tacit professional knowledge is developed and refined.",
+        "line_number": 515,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 75458,
+        "char_end": 75889
+      },
+      {
+        "type": "definition",
+        "title": "Self-Efficacy (Bandura, 1977 — Educational Psychology)",
+        "body": "A person's belief in their capacity to perform a specific behavior or achieve a specific outcome. Self-efficacy beliefs influence the forethought phase of SRL by affecting goal-setting, challenge-seeking, and persistence. Distinguished from general self-confidence by its domain-specificity. High self-efficacy supports robust metacognitive engagement; self-efficacy calibration (accuracy of efficacy beliefs) affects the adaptive quality of self-regulatory responses.",
+        "line_number": 518,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 75890,
+        "char_end": 76436
+      },
+      {
+        "type": "cite",
+        "title": "Flavell, J. H. (1979). Metacognition and cognitive monitoring: A new area of cognitive–developmental inquiry. *American Psychologist, 34*(10), 906–911.",
+        "body": "The foundational paper establishing the modern metacognition research program. Introduced the distinction between metacognitive knowledge and metacognitive experiences, provided the tripartite knowledge taxonomy (person, task, strategy), and identified metacognitive monitoring as a core developmental competency. Essential for Phase II. Any PKB framework that engages with metacognition should trace back to this paper as the conceptual origin point.",
+        "line_number": 525,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 76471,
+        "char_end": 77091
+      },
+      {
+        "type": "cite",
+        "title": "Nelson, T. O., & Narens, L. (1990). Metamemory: A theoretical framework and new findings. *Psychology of Learning and Motivation, 26*, 125–173.",
+        "body": "Formalized the meta-level/object-level model and the monitoring-control distinction, providing the most precise cognitive architecture for metacognition. Established the experimental methodology (JOL studies, FOK studies) that drove the subsequent three decades of calibration research. Essential for Phase IV mechanism analysis. The delayed JOL finding that undergirds the note-template design recommendations originated in Nelson & Dunlosky (1991), an extension of this framework.",
+        "line_number": 528,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 77092,
+        "char_end": 77735
+      },
+      {
+        "type": "cite",
+        "title": "Zimmerman, B. J. (2000). Attaining self-regulation: A social cognitive perspective. In M. Boekaerts, P. R. Pintrich, & M. Zeidner (Eds.), *Handbook of Self-Regulation*. Academic Press.",
+        "body": "The most comprehensive statement of Zimmerman's SRL cyclical model, integrating motivational (self-efficacy, goal orientation) and behavioral dimensions with the cognitive. Provides the three-phase cycle (Forethought/Performance/Self-Reflection) that structures the PKB design recommendations. Essential for Phases III and IV. The research program on SRL strategies (Zimmerman & Martinez-Pons, 1988) that provided much of the empirical evidence reviewed here is consolidated in this handbook chapter.",
+        "line_number": 531,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 77736,
+        "char_end": 78438
+      },
+      {
+        "type": "cite",
+        "title": "Dunlosky, J., & Rawson, K. A. (2012). Overconfidence produces underachievement: Inaccurate self evaluations undermine students' learning and retention. *Learning and Instruction, 22*(4), 271–280.",
+        "body": "Key empirical paper demonstrating that monitoring inaccuracy (specifically overconfidence) directly undermines study decisions and learning outcomes. The calibration research reviewed in Phase III draws heavily on this program. Essential for establishing why passive re-reading is metacognitively counterproductive. Highly recommended for any PKB practitioner seeking the empirical foundation for retrieval-based review.",
+        "line_number": 534,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 78439,
+        "char_end": 79072
+      },
+      {
+        "type": "cite",
+        "title": "Chi, M. T. H., de Leeuw, N., Chiu, M. H., & LaVancher, C. (1994). Eliciting self-explanations improves understanding. *Cognitive Science, 18*(3), 439–477.",
+        "body": "Classic demonstration of the self-explanation effect: students who explained worked examples to themselves showed dramatically better transfer performance. Foundational for Design Principle 1 and the note-making recommendations. The mechanism (self-explanation reveals gaps and drives schema construction) directly connects to Report 03's knowledge construction framework.",
+        "line_number": 537,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 79073,
+        "char_end": 79617
+      },
+      {
+        "type": "cite",
+        "title": "Dewey, J. (1933). *How We Think: A Restatement of the Relation of Reflective Thinking to the Educative Process*. D. C. Heath.",
+        "body": "Dewey's mature treatment of reflective inquiry, the felt difficulty concept, and the five stages of genuine thinking. Essential for Phase II definitions and the cross-domain connections to monitoring activation. The Pragmatist epistemology underlying this work provides the philosophical grounding for why metacognitive practice is constitutive of learning, not merely instrumental to it. Read in conjunction with Zimmerman for maximum synthesis value.",
+        "line_number": 540,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 79618,
+        "char_end": 80213
+      },
+      {
+        "type": "cite",
+        "title": "Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.",
+        "body": "Schön's foundational case study research on reflective practice across professional domains, establishing reflection-in-action and reflection-on-action as core mechanisms of expert knowledge development. Essential for the knowledge management dimension of this synthesis and for grounding the Learning Journal recommendation in professional expertise research.",
+        "line_number": 543,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 80214,
+        "char_end": 80691
+      },
+      {
+        "type": "cite",
+        "title": "Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge.",
+        "body": "The largest synthesis of educational research effect sizes to date. Places metacognitive strategies at effect size ~0.69, well above the 0.40 average threshold Hattie establishes for meaningful impact. Provides the strongest aggregate statistical argument for prioritizing metacognitive design in PKB systems. Cited in Phase III for the SRL intervention evidence.",
+        "line_number": 546,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 80692,
+        "char_end": 81185
+      },
+      {
+        "type": "cite",
+        "title": "Koriat, A., & Bjork, R. A. (2005). Illusions of competence in monitoring one's knowledge during study. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 31*(2), 187–194.",
+        "body": "Systematic demonstration that fluency-based monitoring illusions operate even for educated adults with awareness of metacognitive biases. Key for the Phase IV analysis of monitoring failure modes and for establishing the severity of the illusion of knowing problem. Essential reading for understanding why the note-template delayed-JOL design recommendation is necessary rather than merely helpful.",
+        "line_number": 549,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 81186,
+        "char_end": 81791
+      },
+      {
+        "type": "cite",
+        "title": "Bjork, R. A., & Bjork, E. L. (2011). Making things hard on yourself, but in a good way: Creating desirable difficulties to enhance learning. In M. A. Gernsbacher et al. (Eds.), *Psychology and the Real World*. Worth.",
+        "body": "Accessible synthesis of the desirable difficulties research program — the systematic study of how interventions that reduce processing fluency (spacing, interleaving, generation) improve long-term retention despite feeling more difficult. Essential for understanding why the most effective PKB review practices feel aversive and why this is a feature rather than a bug. Connects to Report 16 (Desirable Difficulties by Design).",
+        "line_number": 552,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 81792,
+        "char_end": 82453
+      },
+      {
+        "type": "cite",
+        "title": "Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. W. H. Freeman.",
+        "body": "Comprehensive statement of Bandura's self-efficacy theory, with extensive evidence on how efficacy beliefs influence goal-setting, persistence, and adaptive self-regulation. Essential for connecting the SRL motivational dimension (covered here) to the full motivation architecture developed in Report 05. The calibration of self-efficacy beliefs — their accuracy relative to actual capacity — is a direct extension of the metacognitive calibration theme.",
+        "line_number": 555,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 82454,
+        "char_end": 83002
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "This report draws on three distinct epistemic modes that deserve explicit identification:\n\n**(1) Empirically established findings** (high confidence): The delayed JOL accuracy advantage (Nelson & Dunlosky, 1991; replicated extensively), the self-explanation effect (Chi et al., 1994; replicated across domains), the superiority of retrieval practice over re-reading for both retention and calibration (Roediger & Karpicke, 2006; Dunlosky & Rawson, 2012), and the SRL strategy differences between high and low achievers (Zimmerman & Martinez-Pons, 1988; confirmed by Hattie meta-analysis) represent robust, well-replicated findings. Design recommendations grounded primarily in these findings carry high confidence.\n\n**(2) Theoretical integrations** (moderate-to-high confidence): The structural isomorphism between Nelson-Narens, Zimmerman SRL, and Dewey's reflective inquiry, and the convergence across Stoic journaling and metacognitive externalization research, represent theoretical synthesis claims. These are well-supported by the individual components but represent integrative interpretations not explicitly made in the primary literature. They carry moderate-to-high confidence.\n\n**(3) Claude's original cross-domain synthesis contributions** (flagged as analytical insights): The \"Metacognitive PKB\" reframing, the \"metacognitive time machine\" reading of Layer 4 frontier sections, and the claim that PKM systems are systematically biased toward forethought/performance phases at the expense of self-reflection are original analytical contributions from this report. They are grounded in and consistent with the empirical and theoretical literature but are not established findings. They should be treated as well-supported hypotheses inviting critical testing against the reader's own PKM experience.",
+        "line_number": 562,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 83045,
+        "char_end": 84938
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Framework",
+        "body": "",
+        "line_number": 576,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 84969,
+        "char_end": 85023
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]",
+        "body": "The direct next report in the series, developing the memory science that is mechanistically continuous with this report's calibration analysis. Specifically addresses how the monitoring signals identified here connect to the spaced repetition and testing effect evidence — completing the practical review design picture that this report begins. Essential reading immediately after this report.",
+        "line_number": 578,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 85024,
+        "char_end": 85538
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]]",
+        "body": "The architectural extension of this report — taking the metacognitive principles developed here and implementing them as structural features of a PKB. Covers metacognitive dashboards, automated reflection triggers, calibration tracking systems, and the full design of the Learning Journal as a PKB artifact. The practical implementation companion to this theoretical foundation.",
+        "line_number": 581,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 85539,
+        "char_end": 86027
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]",
+        "body": "Extends the calibration theme from learning contexts into the broader epistemic domain. Addresses how to track understanding quality across a PKB, implement confidence notation systems, develop systematic epistemic humility practices, and design self-assessment protocols that compound calibration accuracy over time. Directly extends Section III of this report.",
+        "line_number": 584,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 86028,
+        "char_end": 86498
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]",
+        "body": "While this report establishes that monitoring accuracy is the critical variable and identifies specific practices that improve it, a deeper investigation of how metacognitive accuracy develops over time — what the training literature reveals about optimal intervention timing, spaced metacognitive practice effects, and individual differences in metacognitive aptitude — would substantially enrich the design recommendations. Connects to expertise development research and the Report 10 scaffolding/fading framework.",
+        "line_number": 587,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 86499,
+        "char_end": 87122
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[The Stoic Philosophical Tradition and Metacognitive Practice]]",
+        "body": "The Stoic journaling tradition receives brief treatment here as a convergent cross-domain data point. A deeper exploration of how Marcus Aurelius's nightly review practices, Epictetus's Dichotomy of Control, and the Stoic concept of the hegemonikon (ruling faculty that monitors and directs the mind) map onto contemporary metacognitive science would be both intellectually fascinating and practically valuable for PKB users seeking a philosophical grounding for their metacognitive practice.",
+        "line_number": 590,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 87123,
+        "char_end": 87699
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]",
+        "body": "This report identifies that human metacognitive monitoring is structurally inadequate for accurate review scheduling (the forgetting curve is invisible to phenomenology). A dedicated exploration of how algorithmic spaced repetition systems (Anki, SuperMemo, Obsidian Spaced Repetition) implement a form of external metacognitive control — compensating for JOL inaccuracy with algorithmic prediction — would complete the practical picture for PKB practitioners seeking to integrate algorithm-assisted review with human metacognitive practice.",
+        "line_number": 593,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
+        "char_start": 87700,
+        "char_end": 88356
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Personal Knowledge Base",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Base]]",
+        "line_number": 93,
+        "section": "The Difference That Makes the Difference",
+        "context_line": "There is a question that troubles anyone who has maintained a [[Personal Knowledge Base]] for more than a year: why does the quality of learning vary so dramatically between users who appear to follow similar practices? Two people can both adopt the same note-taking methodology — atomic notes, bidirectional linking, regular review — and arrive at radically different outcomes. One develops genuine expertise; ideas compound across domains, understanding deepens, and the PKB becomes an engine of intellectual growth. The other accumulates an increasingly large archive that feels productive but produces little actual learning. They have the same external system. The difference is internal — and it is precisely the difference this report addresses.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 95,
+        "section": "The Difference That Makes the Difference",
+        "context_line": "The most powerful determinant of learning quality is not storage architecture, not linking strategy, and not review frequency. It is [[Metacognition]]: the capacity to monitor one's own thinking, accurately assess one's own understanding, and deliberately regulate one's own cognitive processes. A PKB without metacognitive practice is a sophisticated filing system. A PKB embedded in metacognitive practice is a genuine learning engine. Understanding why this is true, and what it means for how a PKB should be designed, requires synthesizing across four distinct intellectual traditions that have approached the same underlying phenomenon from different directions.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 102,
+        "section": "The Synthesis Question",
+        "context_line": "This report addresses a specific question at the intersection of four disciplinary traditions: **How do [[Metacognition]] (Cognitive Psychology), [[Self-Regulated Learning]] (Educational Psychology), [[Reflective Inquiry]] (Educational Philosophy), and [[Reflective Practice]] (Knowledge Management) combine to form the cognitive control system that makes PKM effective rather than merely mechanical — and what concrete PKB design decisions follow from this synthesis?**",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Self-Regulated Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Regulated Learning]]",
+        "line_number": 102,
+        "section": "The Synthesis Question",
+        "context_line": "This report addresses a specific question at the intersection of four disciplinary traditions: **How do [[Metacognition]] (Cognitive Psychology), [[Self-Regulated Learning]] (Educational Psychology), [[Reflective Inquiry]] (Educational Philosophy), and [[Reflective Practice]] (Knowledge Management) combine to form the cognitive control system that makes PKM effective rather than merely mechanical — and what concrete PKB design decisions follow from this synthesis?**",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Reflective Inquiry",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflective Inquiry]]",
+        "line_number": 102,
+        "section": "The Synthesis Question",
+        "context_line": "This report addresses a specific question at the intersection of four disciplinary traditions: **How do [[Metacognition]] (Cognitive Psychology), [[Self-Regulated Learning]] (Educational Psychology), [[Reflective Inquiry]] (Educational Philosophy), and [[Reflective Practice]] (Knowledge Management) combine to form the cognitive control system that makes PKM effective rather than merely mechanical — and what concrete PKB design decisions follow from this synthesis?**",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Reflective Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflective Practice]]",
+        "line_number": 102,
+        "section": "The Synthesis Question",
+        "context_line": "This report addresses a specific question at the intersection of four disciplinary traditions: **How do [[Metacognition]] (Cognitive Psychology), [[Self-Regulated Learning]] (Educational Psychology), [[Reflective Inquiry]] (Educational Philosophy), and [[Reflective Practice]] (Knowledge Management) combine to form the cognitive control system that makes PKM effective rather than merely mechanical — and what concrete PKB design decisions follow from this synthesis?**",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Cognitive Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Psychology]]",
+        "line_number": 108,
+        "section": "Disciplinary Contributions and Their Intersections",
+        "context_line": "Four traditions contribute essential, non-redundant insights to this synthesis. **[[Cognitive Psychology]]**, through the foundational work of [[Flavell]] (1979) and the formal Nelson & Narens (1990) model, provides the precise cognitive architecture of metacognition — distinguishing metacognitive knowledge from metacognitive regulation, and monitoring from control. **[[Educational Psychology]]**, through Zimmerman's decades of self-regulated learning research (1989–2002) and Winne & Hadwin's COPES model, provides the motivational and behavioral dimensions — how metacognition operates across the full arc of a learning episode. **[[Educational Philosophy]]**, particularly Dewey's [[Pragmatism]] and his theory of [[Reflective Inquiry]] (1933), provides the philosophical account of why reflective practice is constitutive of learning itself — not merely a technique but the fundamental structure of genuine experience. **[[Knowledge Management]]**, through Schön's concept of the [[Reflective Practitioner]] (1983) and its connection to tacit knowledge conversion, connects individual metacognitive practice to professional expertise development.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Flavell",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Flavell]]",
+        "line_number": 108,
+        "section": "Disciplinary Contributions and Their Intersections",
+        "context_line": "Four traditions contribute essential, non-redundant insights to this synthesis. **[[Cognitive Psychology]]**, through the foundational work of [[Flavell]] (1979) and the formal Nelson & Narens (1990) model, provides the precise cognitive architecture of metacognition — distinguishing metacognitive knowledge from metacognitive regulation, and monitoring from control. **[[Educational Psychology]]**, through Zimmerman's decades of self-regulated learning research (1989–2002) and Winne & Hadwin's COPES model, provides the motivational and behavioral dimensions — how metacognition operates across the full arc of a learning episode. **[[Educational Philosophy]]**, particularly Dewey's [[Pragmatism]] and his theory of [[Reflective Inquiry]] (1933), provides the philosophical account of why reflective practice is constitutive of learning itself — not merely a technique but the fundamental structure of genuine experience. **[[Knowledge Management]]**, through Schön's concept of the [[Reflective Practitioner]] (1983) and its connection to tacit knowledge conversion, connects individual metacognitive practice to professional expertise development.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Educational Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Educational Psychology]]",
+        "line_number": 108,
+        "section": "Disciplinary Contributions and Their Intersections",
+        "context_line": "Four traditions contribute essential, non-redundant insights to this synthesis. **[[Cognitive Psychology]]**, through the foundational work of [[Flavell]] (1979) and the formal Nelson & Narens (1990) model, provides the precise cognitive architecture of metacognition — distinguishing metacognitive knowledge from metacognitive regulation, and monitoring from control. **[[Educational Psychology]]**, through Zimmerman's decades of self-regulated learning research (1989–2002) and Winne & Hadwin's COPES model, provides the motivational and behavioral dimensions — how metacognition operates across the full arc of a learning episode. **[[Educational Philosophy]]**, particularly Dewey's [[Pragmatism]] and his theory of [[Reflective Inquiry]] (1933), provides the philosophical account of why reflective practice is constitutive of learning itself — not merely a technique but the fundamental structure of genuine experience. **[[Knowledge Management]]**, through Schön's concept of the [[Reflective Practitioner]] (1983) and its connection to tacit knowledge conversion, connects individual metacognitive practice to professional expertise development.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Educational Philosophy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Educational Philosophy]]",
+        "line_number": 108,
+        "section": "Disciplinary Contributions and Their Intersections",
+        "context_line": "Four traditions contribute essential, non-redundant insights to this synthesis. **[[Cognitive Psychology]]**, through the foundational work of [[Flavell]] (1979) and the formal Nelson & Narens (1990) model, provides the precise cognitive architecture of metacognition — distinguishing metacognitive knowledge from metacognitive regulation, and monitoring from control. **[[Educational Psychology]]**, through Zimmerman's decades of self-regulated learning research (1989–2002) and Winne & Hadwin's COPES model, provides the motivational and behavioral dimensions — how metacognition operates across the full arc of a learning episode. **[[Educational Philosophy]]**, particularly Dewey's [[Pragmatism]] and his theory of [[Reflective Inquiry]] (1933), provides the philosophical account of why reflective practice is constitutive of learning itself — not merely a technique but the fundamental structure of genuine experience. **[[Knowledge Management]]**, through Schön's concept of the [[Reflective Practitioner]] (1983) and its connection to tacit knowledge conversion, connects individual metacognitive practice to professional expertise development.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Pragmatism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pragmatism]]",
+        "line_number": 108,
+        "section": "Disciplinary Contributions and Their Intersections",
+        "context_line": "Four traditions contribute essential, non-redundant insights to this synthesis. **[[Cognitive Psychology]]**, through the foundational work of [[Flavell]] (1979) and the formal Nelson & Narens (1990) model, provides the precise cognitive architecture of metacognition — distinguishing metacognitive knowledge from metacognitive regulation, and monitoring from control. **[[Educational Psychology]]**, through Zimmerman's decades of self-regulated learning research (1989–2002) and Winne & Hadwin's COPES model, provides the motivational and behavioral dimensions — how metacognition operates across the full arc of a learning episode. **[[Educational Philosophy]]**, particularly Dewey's [[Pragmatism]] and his theory of [[Reflective Inquiry]] (1933), provides the philosophical account of why reflective practice is constitutive of learning itself — not merely a technique but the fundamental structure of genuine experience. **[[Knowledge Management]]**, through Schön's concept of the [[Reflective Practitioner]] (1983) and its connection to tacit knowledge conversion, connects individual metacognitive practice to professional expertise development.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Reflective Inquiry",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflective Inquiry]]",
+        "line_number": 108,
+        "section": "Disciplinary Contributions and Their Intersections",
+        "context_line": "Four traditions contribute essential, non-redundant insights to this synthesis. **[[Cognitive Psychology]]**, through the foundational work of [[Flavell]] (1979) and the formal Nelson & Narens (1990) model, provides the precise cognitive architecture of metacognition — distinguishing metacognitive knowledge from metacognitive regulation, and monitoring from control. **[[Educational Psychology]]**, through Zimmerman's decades of self-regulated learning research (1989–2002) and Winne & Hadwin's COPES model, provides the motivational and behavioral dimensions — how metacognition operates across the full arc of a learning episode. **[[Educational Philosophy]]**, particularly Dewey's [[Pragmatism]] and his theory of [[Reflective Inquiry]] (1933), provides the philosophical account of why reflective practice is constitutive of learning itself — not merely a technique but the fundamental structure of genuine experience. **[[Knowledge Management]]**, through Schön's concept of the [[Reflective Practitioner]] (1983) and its connection to tacit knowledge conversion, connects individual metacognitive practice to professional expertise development.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Management]]",
+        "line_number": 108,
+        "section": "Disciplinary Contributions and Their Intersections",
+        "context_line": "Four traditions contribute essential, non-redundant insights to this synthesis. **[[Cognitive Psychology]]**, through the foundational work of [[Flavell]] (1979) and the formal Nelson & Narens (1990) model, provides the precise cognitive architecture of metacognition — distinguishing metacognitive knowledge from metacognitive regulation, and monitoring from control. **[[Educational Psychology]]**, through Zimmerman's decades of self-regulated learning research (1989–2002) and Winne & Hadwin's COPES model, provides the motivational and behavioral dimensions — how metacognition operates across the full arc of a learning episode. **[[Educational Philosophy]]**, particularly Dewey's [[Pragmatism]] and his theory of [[Reflective Inquiry]] (1933), provides the philosophical account of why reflective practice is constitutive of learning itself — not merely a technique but the fundamental structure of genuine experience. **[[Knowledge Management]]**, through Schön's concept of the [[Reflective Practitioner]] (1983) and its connection to tacit knowledge conversion, connects individual metacognitive practice to professional expertise development.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Reflective Practitioner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflective Practitioner]]",
+        "line_number": 108,
+        "section": "Disciplinary Contributions and Their Intersections",
+        "context_line": "Four traditions contribute essential, non-redundant insights to this synthesis. **[[Cognitive Psychology]]**, through the foundational work of [[Flavell]] (1979) and the formal Nelson & Narens (1990) model, provides the precise cognitive architecture of metacognition — distinguishing metacognitive knowledge from metacognitive regulation, and monitoring from control. **[[Educational Psychology]]**, through Zimmerman's decades of self-regulated learning research (1989–2002) and Winne & Hadwin's COPES model, provides the motivational and behavioral dimensions — how metacognition operates across the full arc of a learning episode. **[[Educational Philosophy]]**, particularly Dewey's [[Pragmatism]] and his theory of [[Reflective Inquiry]] (1933), provides the philosophical account of why reflective practice is constitutive of learning itself — not merely a technique but the fundamental structure of genuine experience. **[[Knowledge Management]]**, through Schön's concept of the [[Reflective Practitioner]] (1983) and its connection to tacit knowledge conversion, connects individual metacognitive practice to professional expertise development.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Judgment of Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Judgment of Learning]]",
+        "line_number": 132,
+        "section": "What Metacognition Actually Is",
+        "context_line": "> A two-level hierarchical architecture in which a **meta-level** (containing representations of the object-level system) exerts control over an **object-level** (performing the actual cognitive work). The meta-level operates through two processes: **monitoring** (information flowing upward from object-level to meta-level — the meta-level reads the state of object-level processing) and **control** (information flowing downward from meta-level to object-level — the meta-level modifies object-level processes). In learning contexts, monitoring includes processes such as [[Judgment of Learning]] (assessing how well one has learned an item) and [[Feeling of Knowing]] (assessing whether one knows an item). Control includes processes such as study-time allocation (spending more time on poorly-learned items) and retrieval termination (deciding when to stop searching for an answer). Boundary condition: the monitoring-control loop is the fundamental operational unit of metacognition; failures can occur in monitoring accuracy, control responsiveness, or the connection between them.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Feeling of Knowing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Feeling of Knowing]]",
+        "line_number": 132,
+        "section": "What Metacognition Actually Is",
+        "context_line": "> A two-level hierarchical architecture in which a **meta-level** (containing representations of the object-level system) exerts control over an **object-level** (performing the actual cognitive work). The meta-level operates through two processes: **monitoring** (information flowing upward from object-level to meta-level — the meta-level reads the state of object-level processing) and **control** (information flowing downward from meta-level to object-level — the meta-level modifies object-level processes). In learning contexts, monitoring includes processes such as [[Judgment of Learning]] (assessing how well one has learned an item) and [[Feeling of Knowing]] (assessing whether one knows an item). Control includes processes such as study-time allocation (spending more time on poorly-learned items) and retrieval termination (deciding when to stop searching for an answer). Boundary condition: the monitoring-control loop is the fundamental operational unit of metacognition; failures can occur in monitoring accuracy, control responsiveness, or the connection between them.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Illusion of Knowing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Illusion of Knowing]]",
+        "line_number": 187,
+        "section": "Key Findings and Their Implications",
+        "context_line": "One of the most significant — and for PKB design, most consequential — findings in metacognitive research is that people are characteristically poor at accurately assessing their own understanding. The [[Illusion of Knowing]] is well-documented: people frequently feel they understand material that, when tested, they cannot reproduce or apply. The seminal demonstration comes from Glenberg et al. (1982), who showed that readers predict they will perform better on comprehension tests than they actually do. Subsequent research has extended this finding broadly. Koriat and Bjork (2005) showed that even educated adults are vulnerable to illusions of competence generated by cue-based predictions that do not accurately reflect actual memory strength.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Self-Explanation Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Explanation Effect]]",
+        "line_number": 204,
+        "section": "Key Findings and Their Implications",
+        "context_line": "Chi et al.'s (1994) seminal study of self-explanation demonstrated that students who spontaneously explained worked examples to themselves during study showed dramatically better transfer performance than students who did not — despite equivalent study time. The mechanism is schema construction: self-explanation forces the learner to identify gaps in their understanding and construct the inferential bridges needed to fill them. VanLehn et al. (1992) replicated this finding across multiple domains. The [[Self-Explanation Effect]] is one of the most robustly replicated findings in the psychology of learning.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 03: Constructing Understanding",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 03: Constructing Understanding]]",
+        "line_number": 206,
+        "section": "Key Findings and Their Implications",
+        "context_line": "For PKB design, the self-explanation effect is crucial because it identifies a specific cognitive activity — explaining in one's own words — that both generates accurate monitoring signals (revealing gaps) and drives the schema construction that [[Report 03: Constructing Understanding]] identified as the mechanism of genuine knowledge building. A PKB note-making practice that systematically requires explanation in the author's own words (rather than transcription or quotation) is directly implementing this mechanism.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Ease of Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ease of Learning]]",
+        "line_number": 248,
+        "section": "The Monitoring-Control Loop in Detail",
+        "context_line": "*[[Ease of Learning]] (EOL)* judgments are made before study begins: \"How difficult will this be to learn?\" These are generated quickly, based on surface features and prior experience, and are often systematically inaccurate — people routinely misjudge difficulty for unfamiliar material.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Judgment of Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Judgment of Learning]]",
+        "line_number": 250,
+        "section": "The Monitoring-Control Loop in Detail",
+        "context_line": "*[[Judgment of Learning]] (JOL)* judgments are made during or immediately after study: \"How well have I learned this?\" Immediate JOLs are notoriously inaccurate (reflecting fluency during study, not durable memory strength). Delayed JOLs — made 24 hours after study — are dramatically more accurate. This finding alone has profound implications for PKB review design.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Feeling of Knowing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Feeling of Knowing]]",
+        "line_number": 252,
+        "section": "The Monitoring-Control Loop in Detail",
+        "context_line": "*[[Feeling of Knowing]] (FOK)* judgments occur when retrieval fails: \"Do I know this, even though I can't retrieve it right now?\" FOK judgments are more accurate than chance but significantly imperfect. They predict whether further study will restore retrieval, but they systematically overestimate this probability.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Desirable Difficulties",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Desirable Difficulties]]",
+        "line_number": 284,
+        "section": "Where the Mechanisms Fail — And Why This Matters for PKB Design",
+        "context_line": "When material is encountered, the ease with which it is processed — its *fluency* — contaminates monitoring judgment. Familiar material, re-read material, and clearly presented material are all processed fluently, and fluency produces high JOL confidence independent of actual memory encoding depth. The result is that learners who re-read, practice passive review, or study already-familiar material feel they are making excellent progress while their monitoring is operating on a deeply misleading signal. Bjork and Bjork's (2011) work on [[Desirable Difficulties]] (developed further in [[Report 16]]) emerged precisely from this observation: interventions that reduce processing fluency (making material less easy to process) reduce false monitoring confidence while improving actual learning.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 16",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 16]]",
+        "line_number": 284,
+        "section": "Where the Mechanisms Fail — And Why This Matters for PKB Design",
+        "context_line": "When material is encountered, the ease with which it is processed — its *fluency* — contaminates monitoring judgment. Familiar material, re-read material, and clearly presented material are all processed fluently, and fluency produces high JOL confidence independent of actual memory encoding depth. The result is that learners who re-read, practice passive review, or study already-familiar material feel they are making excellent progress while their monitoring is operating on a deeply misleading signal. Bjork and Bjork's (2011) work on [[Desirable Difficulties]] (developed further in [[Report 16]]) emerged precisely from this observation: interventions that reduce processing fluency (making material less easy to process) reduce false monitoring confidence while improving actual learning.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Forgetting Curve",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Forgetting Curve]]",
+        "line_number": 288,
+        "section": "Where the Mechanisms Fail — And Why This Matters for PKB Design",
+        "context_line": "Ebbinghaus's [[Forgetting Curve]] is well-known, but its implications for metacognitive monitoring are underappreciated. Memory strength decays non-linearly and invisibly — a memory that feels fully available today may be largely unavailable in three days, but the learner has no phenomenological access to this future decay. JOL judgments reflect current accessibility, not durable retention. This means that the monitoring signal is structurally inadequate for planning distributed review — it can tell you how available something is now but not how available it will be when you next need it.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 295,
+        "section": "Where the Mechanisms Fail — And Why This Matters for PKB Design",
+        "context_line": "Zimmerman's research and multiple replication studies show that the self-reflection phase has the highest leverage in the SRL cycle — it is where learning episodes become cumulative rather than isolated. But self-reflection requires confronting evidence of failure, inaccuracy, or inadequate understanding. [[Self-Determination Theory]] (Deci & Ryan) predicts that this discomfort will motivate avoidance — especially when self-worth is tied to competence performance rather than mastery orientation. The learner who has spent two hours studying finds it psychologically costly to conclude \"I don't actually understand this well enough.\" The result is what Zimmerman called \"defensive inferences\" — attributions that protect self-concept at the cost of accurate learning diagnosis.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 03: Constructing Understanding",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 03: Constructing Understanding]]",
+        "line_number": 302,
+        "section": "Return and Deepen: Metacognition and the Schema-Progressive Architecture from Report 03",
+        "context_line": "[[Report 03: Constructing Understanding]] introduced the [[Schema-Progressive Architecture]] — the principle that notes and links should be designed to mirror the cognitive architecture of knowledge construction, with explicitly layered connections (orientation → mechanism → implication → frontier) and forward-facing links that mark the expanding edges of understanding.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Schema-Progressive Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Progressive Architecture]]",
+        "line_number": 302,
+        "section": "Return and Deepen: Metacognition and the Schema-Progressive Architecture from Report 03",
+        "context_line": "[[Report 03: Constructing Understanding]] introduced the [[Schema-Progressive Architecture]] — the principle that notes and links should be designed to mirror the cognitive architecture of knowledge construction, with explicitly layered connections (orientation → mechanism → implication → frontier) and forward-facing links that mark the expanding edges of understanding.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Working Memory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Working Memory]]",
+        "line_number": 313,
+        "section": "The Externalization Principle",
+        "context_line": "The human [[Working Memory]] (established in [[Report 02]]) is limited in capacity and cannot hold complex monitoring assessments while simultaneously performing object-level cognitive work. This is a structural limitation, not a skill deficit. The solution, implied across multiple research traditions, is *externalization*: moving metacognitive monitoring out of working memory into external, persistent, reviewable formats. Writing about one's understanding — in notes, journals, reflection templates — externalizes the monitoring process, making it reviewable, comparable across time, and freed from working memory constraints.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 02",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 02]]",
+        "line_number": 313,
+        "section": "The Externalization Principle",
+        "context_line": "The human [[Working Memory]] (established in [[Report 02]]) is limited in capacity and cannot hold complex monitoring assessments while simultaneously performing object-level cognitive work. This is a structural limitation, not a skill deficit. The solution, implied across multiple research traditions, is *externalization*: moving metacognitive monitoring out of working memory into external, persistent, reviewable formats. Writing about one's understanding — in notes, journals, reflection templates — externalizes the monitoring process, making it reviewable, comparable across time, and freed from working memory constraints.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Learning Journal",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Learning Journal]]",
+        "line_number": 316,
+        "section": "The Externalization Principle",
+        "context_line": "> Dewey argued that genuine inquiry — the deliberate problem-solving that produces learning — requires an external medium through which thought can be examined and refined. Schön documented that expert professionals develop their most sophisticated tacit knowledge through systematic reflection recorded in some form of practice journal. Contemporary metacognitive research shows that written self-explanation (explaining in writing what one understands and where gaps exist) produces better calibration and better learning than silent review. These three independent traditions converge on the same practical tool: a persistent written record of one's own thinking about one's thinking. In PKB terms, this is the [[Learning Journal]] — not as a general diary but as a structured externalization of the monitoring-control loop. A PKB Learning Journal that documents monitoring judgments (what do I understand?), control decisions (how am I adjusting my study?), and self-reflections (how did this learning episode go?) is implementing findings from three independent research traditions simultaneously.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 10: Scaffolding and Fading",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 10: Scaffolding and Fading]]",
+        "line_number": 447,
+        "section": "Unresolved Questions",
+        "context_line": "How does the Metacognitive PKB interact with domain expertise? The expertise reversal effect (from [[Report 10: Scaffolding and Fading]]) suggests that metacognitive scaffolding may be most valuable early in domain learning and should fade as expertise develops. The optimal scaffolding trajectory across a domain expertise arc is not yet clear.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Schema Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Theory]]",
+        "line_number": 456,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Schema Theory]]** — Metacognitive monitoring operates on schemas: the JOL and FOK processes assess the degree to which a schema is consolidated and retrievable. Monitoring failures are often schema failures in disguise — what feels like \"I know this\" is sometimes \"I have a schema that pattern-matches this\" without genuine consolidation. The Metacognitive PKB supports schema quality assessment, directly extending Report 01's knowledge architecture framework.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 458,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Cognitive Load Theory]]** — Metacognitive monitoring itself imposes cognitive load. The meta-level process of monitoring the object-level process requires working memory resources, creating a genuine tension between rich metacognitive engagement and cognitive overload. Report 02's analysis of working memory constraints explains why externalizing metacognitive monitoring into written PKB artifacts is not merely helpful but cognitively necessary — it offloads monitoring from the limited-capacity working memory to the persistent, high-capacity external medium.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Schema-Progressive Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema-Progressive Architecture]]",
+        "line_number": 460,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Schema-Progressive Architecture]]** — Report 03's Schema-Progressive Architecture (Layer 4: Frontier sections, forward-facing links to unknowns) is now revealed as a metacognitive scaffolding device: Frontier sections embed delayed self-monitoring into the note structure, and forward-facing links create the \"felt difficulty\" cues that activate genuine inquiry. The SPA is architecturally consistent with, and substantially reinforced by, the metacognitive framework developed here.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 462,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Self-Determination Theory]]** — The motivational dimension of SRL (covered in [[Report 05: Motivation Architecture]]) intersects directly with metacognitive practice: autonomy support, competence need satisfaction, and mastery orientation all affect whether learners engage in honest self-assessment or defensive avoidance. The Metacognitive PKB framework requires motivational analysis to become fully operational.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 05: Motivation Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 05: Motivation Architecture]]",
+        "line_number": 462,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Self-Determination Theory]]** — The motivational dimension of SRL (covered in [[Report 05: Motivation Architecture]]) intersects directly with metacognitive practice: autonomy support, competence need satisfaction, and mastery orientation all affect whether learners engage in honest self-assessment or defensive avoidance. The Metacognitive PKB framework requires motivational analysis to become fully operational.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Spacing Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Spacing Effect]]",
+        "line_number": 464,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Spacing Effect]]** and **[[Testing Effect]]** — Report 06 (The Science of Remembering) will examine the mnemonic evidence base for review design. That evidence is directly continuous with this report's calibration analysis: spaced repetition works partly *because* it forces retrieval attempts that generate accurate monitoring signals, not merely because of temporal distribution. The connection is mechanistic, not merely topical.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Testing Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Testing Effect]]",
+        "line_number": 464,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Spacing Effect]]** and **[[Testing Effect]]** — Report 06 (The Science of Remembering) will examine the mnemonic evidence base for review design. That evidence is directly continuous with this report's calibration analysis: spaced repetition works partly *because* it forces retrieval attempts that generate accurate monitoring signals, not merely because of temporal distribution. The connection is mechanistic, not merely topical.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 06: The Science of Remembering",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 06: The Science of Remembering]]",
+        "line_number": 468,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 06: The Science of Remembering]]** — This report establishes the metacognitive mechanism (monitoring-control loop, JOL accuracy, the role of retrieval in calibration) that Report 06 will extend with the full mnemonic science of spacing, testing, and desirable difficulties. The two reports form a mechanistic pair: metacognition explains *why* retrieval practice works; memory science explains *how* to implement it.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 12: The Reflective PKB",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 12: The Reflective PKB]]",
+        "line_number": 470,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 12: The Reflective PKB]]** — Report 12 is the direct architectural extension of this report, taking the metacognitive scaffolding principles developed here and translating them into a complete structural design for a PKB organized around reflection as its primary architecture. Everything this report establishes theoretically, Report 12 implements practically.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 18: Calibration and Epistemic Humility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 18: Calibration and Epistemic Humility]]",
+        "line_number": 472,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 18: Calibration and Epistemic Humility]]** — Report 18 extends the calibration analysis from this report (focused on monitoring accuracy in learning contexts) into the broader epistemic domain: how should a PKB user manage uncertainty, track confidence across claims, and implement systematic epistemic humility? This report provides the cognitive foundation; Report 18 provides the epistemological superstructure.",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]",
+        "line_number": 578,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]]",
+        "line_number": 581,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]]",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]",
+        "line_number": 584,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]",
+        "line_number": 587,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "The Stoic Philosophical Tradition and Metacognitive Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Stoic Philosophical Tradition and Metacognitive Practice]]",
+        "line_number": 590,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[The Stoic Philosophical Tradition and Metacognitive Practice]]",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "target": "Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]",
+        "line_number": 593,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]",
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Understanding-Level",
+        "value": "[1-10, assessed honestly after a delay, not immediately]",
+        "format": "bare",
+        "line_number": 339,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "field_name": "Monitoring-Signal",
+        "value": "[What felt unclear, where gaps exist]",
+        "format": "bare",
+        "line_number": 340,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "field_name": "Adaptive-Inference",
+        "value": "[What I would change about how I processed this]",
+        "format": "bare",
+        "line_number": 341,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM",
+        "anchor": "report-04-metacognitive-self-regulation-the-engine-of-effective-pkm",
+        "line_number": 83,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Synthesis Focus",
+        "anchor": "phase-i-orientation-synthesis-focus",
+        "line_number": 89,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "The Difference That Makes the Difference",
+        "anchor": "the-difference-that-makes-the-difference",
+        "line_number": 91,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "The Synthesis Question",
+        "anchor": "the-synthesis-question",
+        "line_number": 100,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Disciplinary Contributions and Their Intersections",
+        "anchor": "disciplinary-contributions-and-their-intersections",
+        "line_number": 106,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Roadmap",
+        "anchor": "roadmap",
+        "line_number": 112,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Analytical Framework — Cross-Domain Foundations",
+        "anchor": "phase-ii-analytical-framework-cross-domain-foundations",
+        "line_number": 118,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "What Metacognition Actually Is",
+        "anchor": "what-metacognition-actually-is",
+        "line_number": 120,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Initial Cross-Domain Connections",
+        "anchor": "initial-cross-domain-connections",
+        "line_number": 143,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Critical Examination of Evidence",
+        "anchor": "phase-iii-critical-examination-of-evidence",
+        "line_number": 166,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "The Evidence Landscape Across Disciplines",
+        "anchor": "the-evidence-landscape-across-disciplines",
+        "line_number": 171,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Key Findings and Their Implications",
+        "anchor": "key-findings-and-their-implications",
+        "line_number": 183,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms, Dynamics & Deep Synthesis",
+        "anchor": "phase-iv-mechanisms-dynamics-deep-synthesis",
+        "line_number": 237,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "The Monitoring-Control Loop in Detail",
+        "anchor": "the-monitoring-control-loop-in-detail",
+        "line_number": 242,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Zimmerman's Cycle Revisited With Cognitive Mechanism",
+        "anchor": "zimmermans-cycle-revisited-with-cognitive-mechanism",
+        "line_number": 265,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Where the Mechanisms Fail — And Why This Matters for PKB Design",
+        "anchor": "where-the-mechanisms-fail-and-why-this-matters-for-pkb-design",
+        "line_number": 278,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Return and Deepen: Metacognition and the Schema-Progressive Architecture from Report 03",
+        "anchor": "return-and-deepen-metacognition-and-the-schema-progressive-architecture-from-report-03",
+        "line_number": 300,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "The Externalization Principle",
+        "anchor": "the-externalization-principle",
+        "line_number": 309,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Implications for PKM/PKB Design & Limitations",
+        "anchor": "phase-v-implications-for-pkmpkb-design-limitations",
+        "line_number": 328,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 1: Embed Structured Reflection Templates in Every Note Type",
+        "anchor": "design-principle-1-embed-structured-reflection-templates-in-every-note-type",
+        "line_number": 332,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 2: Replace Passive Review with Calibrated Active Recall",
+        "anchor": "design-principle-2-replace-passive-review-with-calibrated-active-recall",
+        "line_number": 349,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 3: Implement a Learning Journal as First-Class PKB Artifact",
+        "anchor": "design-principle-3-implement-a-learning-journal-as-first-class-pkb-artifact",
+        "line_number": 358,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 4: Build Metacognitive Metadata Into Note Structure",
+        "anchor": "design-principle-4-build-metacognitive-metadata-into-note-structure",
+        "line_number": 364,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 5: Create Conditions for Productive Felt Difficulty",
+        "anchor": "design-principle-5-create-conditions-for-productive-felt-difficulty",
+        "line_number": 382,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Honest Limitations",
+        "anchor": "honest-limitations",
+        "line_number": 388,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Integration & Original Contribution",
+        "anchor": "phase-vi-synthesis-integration-original-contribution",
+        "line_number": 409,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "The Complete Picture",
+        "anchor": "the-complete-picture",
+        "line_number": 411,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Synthesis Question Revisited",
+        "anchor": "the-central-synthesis-question-revisited",
+        "line_number": 419,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Original Contribution: The Metacognitive PKB",
+        "anchor": "original-contribution-the-metacognitive-pkb",
+        "line_number": 427,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "Unresolved Questions",
+        "anchor": "unresolved-questions",
+        "line_number": 439,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: PKB Connections & Cross-Report Links",
+        "anchor": "phase-vii-pkb-connections-cross-report-links",
+        "line_number": 451,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VIII: Appendix",
+        "anchor": "phase-viii-appendix",
+        "line_number": 478,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 480,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "B. Annotated References",
+        "anchor": "b-annotated-references",
+        "line_number": 523,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Methodology and Sources Note",
+        "anchor": "c-methodology-and-sources-note",
+        "line_number": 560,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "level": 3,
+        "text": "D. Expansion Topics",
+        "anchor": "d-expansion-topics",
+        "line_number": 574,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      }
+    ],
+    "code_blocks": [
+      {
+        "language": "plaintext",
+        "code": "Understanding-Level:: [1-10, assessed honestly after a delay, not immediately]\nMonitoring-Signal:: [What felt unclear, where gaps exist]\nAdaptive-Inference:: [What I would change about how I processed this]",
+        "line_start": 338,
+        "line_end": 342,
+        "char_count": 206,
+        "line_count": 3,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      },
+      {
+        "language": "yaml",
+        "code": "understanding-history:\n  - date: 2026-01-15\n    jol: 4\n    method: retrieval-practice\n  - date: 2026-02-20\n    jol: 7\n    method: retrieval-practice\nmonitoring-gaps: [specific gaps identified in review]\ncalibration-status: [over-confident | well-calibrated | under-confident]",
+        "line_start": 368,
+        "line_end": 378,
+        "char_count": 275,
+        "line_count": 9,
+        "source": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md"
+      }
+    ],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot",
+      "Cognitive Load Theory",
+      "Cognitive Psychology",
+      "Desirable Difficulties",
+      "Ease of Learning",
+      "Educational Philosophy",
+      "Educational Psychology",
+      "Feeling of Knowing",
+      "Flavell",
+      "Forgetting Curve",
+      "Illusion of Knowing",
+      "Judgment of Learning",
+      "Knowledge Management",
+      "Learning Journal",
+      "Metacognition",
+      "Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories",
+      "Personal Knowledge Base",
+      "Pragmatism",
+      "Reflective Inquiry",
+      "Reflective Practice",
+      "Reflective Practitioner",
+      "Report 02",
+      "Report 03: Constructing Understanding",
+      "Report 05: Motivation Architecture",
+      "Report 06: The Science of Remembering",
+      "Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design",
+      "Report 10: Scaffolding and Fading",
+      "Report 12: The Reflective PKB",
+      "Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice",
+      "Report 16",
+      "Report 18: Calibration and Epistemic Humility",
+      "Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know",
+      "Schema Theory",
+      "Schema-Progressive Architecture",
+      "Self-Determination Theory",
+      "Self-Explanation Effect",
+      "Self-Regulated Learning",
+      "Spacing Effect",
+      "Testing Effect",
+      "The Stoic Philosophical Tradition and Metacognitive Practice",
+      "Working Memory"
+    ],
+    "unique_wiki_link_count": 41,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "builds-on": [
+        "[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]",
+        "[[02-architecture-of-learning-pkm-framework-2026-03-13]]",
+        "[[03-constructing-understanding-pkm-framework-2026-03-13]]"
+      ],
+      "related_concepts": [
+        "[[Metacognition]]",
+        "[[Self-Regulated Learning]]",
+        "[[Reflective Inquiry]]",
+        "[[Metacognitive Monitoring]]",
+        "[[Metacognitive Control]]",
+        "[[Metacognitive Knowledge]]",
+        "[[Calibration]]",
+        "[[Judgment of Learning]]",
+        "[[Feeling of Knowing]]",
+        "[[Zimmerman SRL Model]]",
+        "[[Flavell Metacognition Framework]]",
+        "[[Nelson Narens Model]]",
+        "[[Self-Efficacy]]",
+        "[[Reflective Practice]]",
+        "[[Deliberate Practice]]",
+        "[[Learning Journal]]",
+        "[[Metacognitive Scaffolding]]",
+        "[[Illusion of Knowing]]",
+        "[[Self-Explanation Effect]]",
+        "[[Stoic Journaling]]",
+        "[[Dewey Reflective Inquiry]]",
+        "[[Personal Knowledge Base]]",
+        "[[PKM Review Protocols]]",
+        "[[Metacognitive PKB]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot",
+      "Cognitive Load Theory",
+      "Cognitive Psychology",
+      "Desirable Difficulties",
+      "Ease of Learning",
+      "Educational Philosophy",
+      "Educational Psychology",
+      "Feeling of Knowing",
+      "Flavell",
+      "Forgetting Curve",
+      "Illusion of Knowing",
+      "Judgment of Learning",
+      "Knowledge Management",
+      "Learning Journal",
+      "Metacognition",
+      "Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories",
+      "Personal Knowledge Base",
+      "Pragmatism",
+      "Reflective Inquiry",
+      "Reflective Practice",
+      "Reflective Practitioner",
+      "Report 02",
+      "Report 03: Constructing Understanding",
+      "Report 05: Motivation Architecture",
+      "Report 06: The Science of Remembering",
+      "Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design",
+      "Report 10: Scaffolding and Fading",
+      "Report 12: The Reflective PKB",
+      "Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice",
+      "Report 16",
+      "Report 18: Calibration and Epistemic Humility",
+      "Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know",
+      "Schema Theory",
+      "Schema-Progressive Architecture",
+      "Self-Determination Theory",
+      "Self-Explanation Effect",
+      "Self-Regulated Learning",
+      "Spacing Effect",
+      "Testing Effect",
+      "The Stoic Philosophical Tradition and Metacognitive Practice",
+      "Working Memory"
+    ]
+  }
+}
