@@ -375,7 +375,7 @@ python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\04-library\04-cosmology
 
 ```python
 # Process an entire folder of reports:
-python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0" --output "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0\extracted-reports"
+python pkb_extractor.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0" --output "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0\extraction-material"
 ```
 
 

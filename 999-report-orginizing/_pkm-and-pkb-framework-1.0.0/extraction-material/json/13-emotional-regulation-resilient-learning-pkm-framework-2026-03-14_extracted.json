@@ -2,11 +2,11 @@
   "extraction_metadata": {
     "script_name": "pkb_extractor.py",
     "script_version": "1.1.0",
-    "extraction_timestamp": "2026-03-14T10:50:56.603159",
+    "extraction_timestamp": "2026-03-15T11:18:28.727339",
     "source_file": "13-emotional-regulation-resilient-learning-pkm-framework-2026-03-14.md",
     "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\_pkm-and-pkb-framework-1.0.0\\13-emotional-regulation-resilient-learning-pkm-framework-2026-03-14.md",
     "source_file_size_bytes": 89803,
-    "processing_time_seconds": 0.025
+    "processing_time_seconds": 0.016
   },
   "document_metadata": {
     "frontmatter": {
@@ -86,9 +86,16 @@
       "status": "evergreen",
       "maturity": "highly-developed",
       "confidence": "high",
-      "framework-series-position": "13",
+      "framework-series-position": 13,
       "analytical-focus": "How do Stoic Philosophy's practices for emotional regulation and resilience intersect with Self-Determination Theory's account of motivation maintenance and educational psychology's research on Academic Emotions and Learned Helplessness — and how should PKB design embed these insights as structural features rather than optional practices?",
-      "analytical-contributions": [],
+      "analytical-contributions": {
+        "analytical-insight": 4,
+        "what-the-evidence-suggests": 3,
+        "tension-identified": 3,
+        "cross-domain-connection": 4,
+        "original-synthesis": 2,
+        "total-analytical-commentary": 16
+      },
       "builds-on": [
         "[[03-constructing-understanding-pkm-framework-2026-03-13]]",
         "[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]",

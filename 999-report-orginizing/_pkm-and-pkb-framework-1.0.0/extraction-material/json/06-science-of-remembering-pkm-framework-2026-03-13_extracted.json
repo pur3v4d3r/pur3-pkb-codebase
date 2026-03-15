@@ -2,11 +2,11 @@
   "extraction_metadata": {
     "script_name": "pkb_extractor.py",
     "script_version": "1.1.0",
-    "extraction_timestamp": "2026-03-14T10:50:56.410707",
+    "extraction_timestamp": "2026-03-15T11:18:28.568265",
     "source_file": "06-science-of-remembering-pkm-framework-2026-03-13.md",
     "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\_pkm-and-pkb-framework-1.0.0\\06-science-of-remembering-pkm-framework-2026-03-13.md",
     "source_file_size_bytes": 96538,
-    "processing_time_seconds": 0.028
+    "processing_time_seconds": 0.026
   },
   "document_metadata": {
     "frontmatter": {
@@ -65,8 +65,8 @@
       "status": "evergreen",
       "maturity": "highly-developed",
       "confidence": "high",
-      "framework_series_position": "6",
-      "framework_series_tier": "1",
+      "framework_series_position": 6,
+      "framework_series_tier": 1,
       "builds_on": [
         "[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]",
         "[[02-architecture-of-learning-pkm-framework-2026-03-13]]",
@@ -79,11 +79,18 @@
         "[[20-retrieval-enhanced-knowledge-networks-pkm-framework]]"
       ],
       "analytical_focus": "How do the Spacing Effect, Testing Effect, Interleaving, Desirable Difficulties, and Encoding Specificity combine with knowledge management principles to inform a fundamentally redesigned PKB review and retrieval architecture?",
-      "analytical_contributions": [],
-      "quality_score": "9.2",
-      "word_count_estimate": "11200",
-      "callout_count": "34",
-      "wiki_link_count": "48",
+      "analytical_contributions": {
+        "analytical_insights": 4,
+        "what_evidence_suggests": 3,
+        "tensions_identified": 3,
+        "cross_domain_connections": 4,
+        "original_syntheses": 2,
+        "total_analytical_commentary": 16
+      },
+      "quality_score": 9.2,
+      "word_count_estimate": 11200,
+      "callout_count": 34,
+      "wiki_link_count": 48,
       "validation_date": "2026-03-13",
       "summary": "A cross-domain synthesis report examining how memory science — specifically the Spacing Effect, Testing Effect, Interleaving, Desirable Difficulties, and Encoding Specificity — should fundamentally redesign PKB review and retrieval systems. Argues that most PKBs are optimized for storage and retrieval failure (passive re-reading) rather than retrieval success (active recall). Introduces Retrieval-Oriented Note Architecture (RONA) as an original synthesis principle: designing notes from inception with their retrieval context in mind. Draws on cognitive psychology, psychology of learning, educational psychology, metacognition, and knowledge management to produce integrated design guidance for Obsidian-based PKBs.",
       "aliases": [

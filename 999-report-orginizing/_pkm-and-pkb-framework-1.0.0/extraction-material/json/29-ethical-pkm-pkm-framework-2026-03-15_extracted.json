@@ -1,0 +1,1966 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-15T11:18:29.077192",
+    "source_file": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\_pkm-and-pkb-framework-1.0.0\\29-ethical-pkm-pkm-framework-2026-03-15.md",
+    "source_file_size_bytes": 84816,
+    "processing_time_seconds": 0.017
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "pkm-29-ethical-pkm-intellectual-honesty-epistemic-responsibility-2026-03-15",
+      "doc_type": "permanent-note",
+      "doc_created": "2026-03-15",
+      "doc_modified": "2026-03-15",
+      "author": "claude-sonnet-4-6",
+      "primary_domain": "knowledge-management",
+      "secondary_domains": [
+        "virtue-epistemology",
+        "stoic-philosophy",
+        "critical-thinking-ethics",
+        "philosophy-of-mind",
+        "educational-philosophy",
+        "epistemic-justice",
+        "cognitive-psychology",
+        "moral-philosophy",
+        "metacognition"
+      ],
+      "analytical-focus": "How do Epistemic Virtues, Intellectual Humility, Stoic Ethics, Critical Thinking Ethics, and Epistemic Justice converge to inform responsible practices for knowledge curation, claim-making, source evaluation, linking, and intellectual development within a PKB? What does it mean to be a virtuous knower — and how should that conception reshape every design decision in personal knowledge management?\n",
+      "framework-series-position": "Report 29 of 30 — Tier 4: Meta-Framework & Future Directions",
+      "builds-on": [
+        "[[Report 01: Foundations of Knowledge Architecture]]",
+        "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]",
+        "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]",
+        "[[Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance]]",
+        "[[Report 08: Reflective Practice and Experiential Learning]]",
+        "[[Report 13: Emotional Regulation and Resilient Learning — Stoic Wisdom Meets Learning Science]]",
+        "[[Report 14: Inquiry-Based Knowledge Building — Socratic and Pragmatist Methods in PKM]]",
+        "[[Report 17: Note-Making as Knowledge Construction]]",
+        "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]",
+        "[[Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement]]",
+        "[[Report 22: Tacit Knowledge and the Limits of Capture]]",
+        "[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]",
+        "[[Report 27: The Complete PKM/PKB Design Framework]]",
+        "[[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]]"
+      ],
+      "feeds-into": [
+        "[[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]"
+      ],
+      "cross-report-dependencies": [
+        "[[Report 07: Epistemic Vigilance, Cognitive Bias, Socratic Method, Argument Mapping]]",
+        "[[Report 13: Stoic Discipline, Emotional Regulation, Virtue in Learning Practice]]",
+        "[[Report 18: Calibration, Dunning-Kruger, Epistemic Status, Metacognitive Accuracy]]",
+        "[[Report 21: Dialectical Knowledge Building, Thesis-Antithesis-Synthesis, Cognitive Conflict]]",
+        "[[Report 28: Philosophy of Personal Knowledge, Virtue Epistemology, Epistemic States]]"
+      ],
+      "status": "evergreen",
+      "maturity": "highly-developed",
+      "confidence": "high",
+      "knowledge_level": "advanced",
+      "tags": [
+        "virtue-epistemology/intellectual-virtues",
+        "virtue-epistemology/zagzebski",
+        "virtue-epistemology/sosa",
+        "stoic-philosophy/epistemic-duty",
+        "stoic-philosophy/kataleptic-impression",
+        "stoic-philosophy/assent",
+        "stoic-philosophy/virtue-as-good",
+        "critical-thinking-ethics/clifford",
+        "critical-thinking-ethics/ethics-of-belief",
+        "critical-thinking-ethics/epistemic-citizenship",
+        "epistemic-justice/fricker",
+        "epistemic-justice/testimonial-injustice",
+        "epistemic-justice/hermeneutical-injustice",
+        "intellectual-honesty/self-deception",
+        "intellectual-honesty/motivated-reasoning",
+        "intellectual-courage/epistemic-courage",
+        "intellectual-humility/open-mindedness",
+        "metacognition/calibration",
+        "pkb-design/epistemic-status-tagging",
+        "pkb-design/curation-ethics",
+        "pkb-design/link-ethics",
+        "pkb-design/intellectual-courage-design",
+        "pkm-framework",
+        "report-29"
+      ],
+      "analytical-contributions": {
+        "analytical-insight": 5,
+        "what-the-evidence-suggests": 3,
+        "tension-identified": 3,
+        "cross-domain-connection": 5,
+        "original-synthesis": 2,
+        "total-analytical-commentary": 18
+      },
+      "related-concepts": [
+        "[[Virtue Epistemology]]",
+        "[[Intellectual Virtues]]",
+        "[[Intellectual Humility]]",
+        "[[Intellectual Courage]]",
+        "[[Intellectual Honesty]]",
+        "[[Open-Mindedness]]",
+        "[[Epistemic Conscientiousness]]",
+        "[[Stoic Ethics]]",
+        "[[Kataleptic Impression]]",
+        "[[Stoic Assent]]",
+        "[[Ethics of Belief]]",
+        "[[Epistemic Obligation]]",
+        "[[Epistemic Justice]]",
+        "[[Testimonial Injustice]]",
+        "[[Hermeneutical Injustice]]",
+        "[[Motivated Reasoning]]",
+        "[[Self-Deception]]",
+        "[[Confirmation Bias]]",
+        "[[Myside Bias]]",
+        "[[Epistemic Status]]",
+        "[[Calibration]]",
+        "[[Curation Ethics]]",
+        "[[Link Ethics]]",
+        "[[Source Evaluation]]",
+        "[[Epistemic Citizenship]]",
+        "[[Intellectual Vice]]",
+        "[[Epistemic Cowardice]]",
+        "[[Belief Revision]]"
+      ],
+      "keywords": [
+        "virtue-epistemology",
+        "intellectual-virtues",
+        "epistemic-responsibility",
+        "stoic-ethics",
+        "ethics-of-belief",
+        "epistemic-justice",
+        "intellectual-honesty",
+        "curation-ethics",
+        "pkb-design",
+        "moral-epistemology"
+      ]
+    },
+    "word_count": 11336,
+    "character_count": 79378,
+    "line_count": 474,
+    "heading_count": 37
+  },
+  "extraction_summary": {
+    "total_items_extracted": 154,
+    "by_type": {
+      "headings": 37,
+      "callouts": 66,
+      "wiki_links": 51,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work",
+      "anchor": "report-29-ethical-pkm-intellectual-honesty-epistemic-responsibility-and-virtue-in-knowledge-work",
+      "line_number": 137,
+      "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Synthesis Focus",
+          "anchor": "phase-i-orientation-synthesis-focus",
+          "line_number": 139,
+          "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Moral Dimension We Overlooked",
+              "anchor": "the-moral-dimension-we-overlooked",
+              "line_number": 141,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Synthesis Question",
+              "anchor": "the-synthesis-question",
+              "line_number": 154,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Scope and Cross-Report Position",
+              "anchor": "scope-and-cross-report-position",
+              "line_number": 162,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Analytical Framework — Cross-Domain Foundations",
+          "anchor": "phase-ii-analytical-framework-cross-domain-foundations",
+          "line_number": 170,
+          "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Virtue Epistemology: Knowledge as a Character Achievement",
+              "anchor": "virtue-epistemology-knowledge-as-a-character-achievement",
+              "line_number": 172,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Stoic Ethics: The Duty of Examined Assent",
+              "anchor": "stoic-ethics-the-duty-of-examined-assent",
+              "line_number": 196,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Ethics of Belief: Clifford, James, and the Obligations of Credence",
+              "anchor": "the-ethics-of-belief-clifford-james-and-the-obligations-of-credence",
+              "line_number": 212,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Epistemic Justice: Whose Knowledge Counts?",
+              "anchor": "epistemic-justice-whose-knowledge-counts",
+              "line_number": 227,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Critical Examination of Evidence",
+          "anchor": "phase-iii-critical-examination-of-evidence",
+          "line_number": 249,
+          "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Empirical Case for Intellectual Vice as the Default",
+              "anchor": "the-empirical-case-for-intellectual-vice-as-the-default",
+              "line_number": 251,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Stoic Evidence: Philosophical Validation Across Cultures",
+              "anchor": "the-stoic-evidence-philosophical-validation-across-cultures",
+              "line_number": 270,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Epistemic Justice Evidence: Structural Sources of Bias",
+              "anchor": "the-epistemic-justice-evidence-structural-sources-of-bias",
+              "line_number": 277,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms, Dynamics, and Deep Synthesis",
+          "anchor": "phase-iv-mechanisms-dynamics-and-deep-synthesis",
+          "line_number": 297,
+          "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Mechanism of Confirmation Curation",
+              "anchor": "the-mechanism-of-confirmation-curation",
+              "line_number": 302,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Mechanism of Epistemic Cowardice",
+              "anchor": "the-mechanism-of-epistemic-cowardice",
+              "line_number": 317,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Stoic Mechanism: Vigilant Assent as Daily Practice",
+              "anchor": "the-stoic-mechanism-vigilant-assent-as-daily-practice",
+              "line_number": 326,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Return-and-Deepen: Calibration as Ethical Practice",
+              "anchor": "the-return-and-deepen-calibration-as-ethical-practice",
+              "line_number": 335,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Mechanism of Link Ethics",
+              "anchor": "the-mechanism-of-link-ethics",
+              "line_number": 344,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Mechanism of Epistemic Courage in the PKB",
+              "anchor": "the-mechanism-of-epistemic-courage-in-the-pkb",
+              "line_number": 351,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Implications for PKM/PKB Design",
+          "anchor": "phase-v-implications-for-pkmpkb-design",
+          "line_number": 373,
+          "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Design Principle 1: The Epistemic Status Tier System",
+              "anchor": "design-principle-1-the-epistemic-status-tier-system",
+              "line_number": 375,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 2: The Disconfirmation Archive",
+              "anchor": "design-principle-2-the-disconfirmation-archive",
+              "line_number": 394,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 3: Link Typing and Epistemic Transparency",
+              "anchor": "design-principle-3-link-typing-and-epistemic-transparency",
+              "line_number": 403,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 4: Source Diversity Auditing",
+              "anchor": "design-principle-4-source-diversity-auditing",
+              "line_number": 420,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 5: The Belief Revision Log",
+              "anchor": "design-principle-5-the-belief-revision-log",
+              "line_number": 426,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Limitations and Honest Boundaries",
+              "anchor": "limitations-and-honest-boundaries",
+              "line_number": 432,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Integration, and Original Contribution",
+          "anchor": "phase-vi-synthesis-integration-and-original-contribution",
+          "line_number": 441,
+          "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Pulling the Threads Together",
+              "anchor": "pulling-the-threads-together",
+              "line_number": 443,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Central Question Revisited",
+              "anchor": "the-central-question-revisited",
+              "line_number": 449,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Open Questions",
+              "anchor": "open-questions",
+              "line_number": 469,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: PKB Connections & Cross-Report Links",
+          "anchor": "phase-vii-pkb-connections-cross-report-links",
+          "line_number": 475,
+          "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase VIII: Appendix",
+          "anchor": "phase-viii-appendix",
+          "line_number": 500,
+          "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 502,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. References",
+              "anchor": "b-references",
+              "line_number": 537,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Expansion Topics",
+              "anchor": "c-expansion-topics",
+              "line_number": 582,
+              "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Before You Begin",
+        "body": "Before reading further, take a moment to ask: Have you ever thought of your PKB as an ethical object — something that reflects and shapes your moral character as a thinker, not just your cognitive efficiency? What practices in your current PKM system might not survive ethical scrutiny? What assumptions are you making about whose knowledge counts, what counts as evidence, and how certain you should be before recording something as \"known\"?",
+        "line_number": 151,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 6944,
+        "char_end": 7433
+      },
+      {
+        "type": "definition",
+        "title": "Intellectual Virtue (Virtue Epistemology — Zagzebski, 1996)",
+        "body": "A stable disposition of a person's character that reliably produces epistemically good outcomes — correct beliefs, well-calibrated confidence, appropriately revised beliefs — through the exercise of that person's own cognitive agency. Intellectual virtues are not merely habits that happen to produce good results; they involve genuine motivation toward epistemic goods (truth, understanding, knowledge) and the skilled exercise of cognitive capacities in pursuit of those goods. Key intellectual virtues include intellectual humility, intellectual courage, open-mindedness, thoroughness, intellectual honesty, and epistemic conscientiousness. Boundary condition: a belief produced accidentally by a virtuous disposition may not count as an achievement in the relevant sense — the virtue must be genuinely responsible for the outcome.",
+        "line_number": 176,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 10549,
+        "char_end": 11466
+      },
+      {
+        "type": "definition",
+        "title": "Intellectual Vice (Vice Epistemology — Quassim Cassam, 2019)",
+        "body": "A stable disposition of a person's character that systematically undermines good epistemic outcomes — causing poor reasoning, unwarranted confidence, resistance to evidence, or motivated distortion of one's epistemic situation. Intellectual vices include closed-mindedness, intellectual cowardice (avoiding conclusions that would challenge comfortable beliefs), epistemic laziness, epistemic arrogance, and what Cassam calls \"epistemic malevolence\" — the deliberate distortion of others' epistemic environments. Vices are not merely mistakes; they are character-level tendencies that persist across time and contaminate multiple epistemic activities simultaneously.",
+        "line_number": 179,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 11467,
+        "char_end": 12216
+      },
+      {
+        "type": "definition",
+        "title": "Epistemic Conscientiousness (Baehr, 2011)",
+        "body": "The intellectual virtue of caring sufficiently about getting things right to take the care necessary to do so. Epistemic conscientiousness involves appropriate diligence in gathering evidence, checking reasoning, acknowledging uncertainty, and revising beliefs when warranted. It is the epistemic analogue of moral conscientiousness — the disposition to take one's epistemic duties seriously, not because one is following rules but because one genuinely cares about truth and understanding. In PKB terms, epistemic conscientiousness shapes how carefully one curates notes, how honestly one records uncertainty, and how seriously one takes the obligation to revise stored beliefs when new evidence arrives.",
+        "line_number": 182,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 12217,
+        "char_end": 12987
+      },
+      {
+        "type": "definition",
+        "title": "Epistemic Humility (Intellectual Virtues Tradition)",
+        "body": "The disposition to have an accurate sense of one's epistemic limitations — what one knows, what one doesn't know, and how confident one should be — combined with openness to correction. Epistemic humility is distinct from mere self-doubt (which can be as unwarranted as overconfidence) and is instead calibrated modesty: neither overclaiming nor underclaiming one's epistemic standing. As developed in [[Report 18: Calibration and Epistemic Humility]], calibration research in cognitive psychology provides the empirical grounding for this virtue — Dunning-Kruger dynamics, overconfidence effects, and the illusion of explanatory depth all document what epistemic arrogance (the corresponding vice) looks like empirically.",
+        "line_number": 185,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 12988,
+        "char_end": 13785
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Virtue Epistemology Meets Habit Formation Science",
+        "body": "The virtue epistemology account of intellectual character as cultivated through practice maps precisely onto the behavioral science of habit formation (developed in [[Report 19: Sustaining Lifelong Learning]]). Both traditions argue that character — epistemic or moral — is not a fixed trait but a dynamic disposition shaped by repeated patterns of behavior. Aristotle's foundational claim that virtues are acquired by practice (we become just by doing just acts) finds its contemporary analogue in habit loop research: the neural pathways that constitute intellectual virtues are strengthened by consistent epistemic behavior and weakened by neglect. This is not a trivial parallel — it implies that PKB design can actively cultivate intellectual virtue by making virtuous epistemic behaviors easier and more frequent, and making vicious behaviors harder to habituate.",
+        "line_number": 190,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 14294,
+        "char_end": 15249
+      },
+      {
+        "type": "key-claim",
+        "title": "The Character Claim",
+        "body": "Every recurring pattern of behavior in a PKB — how one evaluates sources, how one records uncertainty, how one handles conflicting information, how one revises past notes — is simultaneously a cognitive practice and a character practice. Over years, these patterns either strengthen or weaken the intellectual virtues that make one a good knower. PKB design is, therefore, partly virtue cultivation design.",
+        "line_number": 193,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 15250,
+        "char_end": 15698
+      },
+      {
+        "type": "definition",
+        "title": "Stoic Assent (Synkatathesis) (Epictetus — Discourses; Chrysippus — Stoic Logic)",
+        "body": "The act by which a person accepts or rejects an impression (*phantasia*) as representing reality accurately. For the Stoics, assent is the decisive moment in belief formation — it is the act by which an impression becomes a belief. The Stoics held that we have control over our assent in a way we do not have control over the impressions themselves: impressions arrive involuntarily, but we can choose whether to endorse them. This is the epistemic root of Stoic freedom: even a slave can withhold assent from false impressions. The corresponding epistemic duty is to give assent only to *kataleptic* impressions — those that represent things as they actually are and that are sufficiently clear and firm to rule out error.",
+        "line_number": 200,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 16215,
+        "char_end": 17041
+      },
+      {
+        "type": "definition",
+        "title": "Kataleptic Impression (Phantasia Kataleptike) (Chrysippus — Stoic Epistemology)",
+        "body": "A \"graspable impression\" — one that represents its object accurately, comes from an existing object, and is sufficiently clear and distinct to be unmistakable. The kataleptic impression was the Stoic criterion of truth: only impressions meeting this standard warranted assent. The Stoics acknowledged that in practice, achieving reliable discrimination between kataleptic and non-kataleptic impressions is enormously difficult — this is precisely why epistemic virtue (in Stoic terms: wisdom, *phronesis*) is required. The Academic Skeptics (Arcesilaus, Carneades) argued that no impression meets this standard, and the resulting debate drove the development of Stoic epistemology considerably.",
+        "line_number": 203,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 17042,
+        "char_end": 17839
+      },
+      {
+        "type": "definition",
+        "title": "Stoic Virtue as Epistemic Foundation",
+        "body": "For the Stoics, virtue is the only true good — the only thing that cannot be taken from us because it resides in our rational agency. Epistemic virtue — the careful, honest, courageous exercise of judgment — is therefore not merely instrumentally valuable (it helps us know more accurately) but intrinsically valuable (it expresses what is distinctively excellent about rational beings). Marcus Aurelius returns to this repeatedly in the *Meditations*: the obligation to think clearly, honestly, and without self-deception is not just pragmatically useful — it is an expression of one's nature as a rational being (*logos*), the fulfillment of what one is.",
+        "line_number": 206,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 17840,
+        "char_end": 18556
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Stoic Assent and the Psychology of Confirmation Bias",
+        "body": "The Stoic doctrine of examined assent — the duty to pause before endorsing impressions, to check them against rational criteria before allowing them to shape one's beliefs — finds its contemporary empirical counterpart in research on [[Confirmation Bias]] and [[Motivated Reasoning]] (Nickerson, 1998; Kunda, 1990). Motivated reasoning is the psychological mechanism by which we give assent to impressions that confirm what we already want to believe, and withhold assent from those that threaten it — exactly the epistemic failure the Stoics diagnosed as one of the central obstacles to wisdom. The Stoic prescription (practice deliberate examination of impressions before assent) and the psychological prescription (implement cognitive debiasing strategies, seek disconfirmatory evidence) are structurally identical. This convergence across two-thousand years of intellectual history — Hellenistic philosophy and contemporary cognitive psychology — provides unusually strong grounds for treating examined assent as a genuine epistemic norm.",
+        "line_number": 209,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 18557,
+        "char_end": 19688
+      },
+      {
+        "type": "definition",
+        "title": "The Ethics of Belief (W.K. Clifford, 1877)",
+        "body": "The philosophical position that belief formation is a moral activity subject to ethical evaluation. Clifford's version is demanding: it is morally wrong to believe without sufficient evidence, because (1) careless belief degrades one's epistemic capacities through habit, (2) beliefs are never purely private — they inform action and influence others, and (3) epistemic communities depend on the epistemic quality of their members' beliefs. The corresponding positive duty is epistemic conscientiousness: gathering sufficient evidence, checking reasoning carefully, maintaining appropriate uncertainty. Modern descendants include epistemic virtue theory, epistemic autonomy arguments in philosophy of education, and epistemic citizenship frameworks in critical thinking education.",
+        "line_number": 216,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 20344,
+        "char_end": 21190
+      },
+      {
+        "type": "definition",
+        "title": "Epistemic Citizenship (Contemporary Critical Thinking Education)",
+        "body": "The conception of epistemic agents as members of shared epistemic communities who bear responsibilities toward those communities, not just toward their own cognitive accuracy. An epistemic citizen reasons carefully not only for personal benefit but because the quality of public discourse, democratic deliberation, and shared knowledge depends on the aggregate quality of individual epistemic practices. PKB implications: the notes one takes, the sources one curates, the epistemic standards one applies are not purely private matters — they shape the epistemic agent one becomes, and that agent participates in shared epistemic communities.",
+        "line_number": 219,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 21191,
+        "char_end": 21920
+      },
+      {
+        "type": "tension-identified",
+        "title": "Clifford's Duty vs. James's Permission: The PKB Design Dilemma",
+        "body": "Clifford's ethics of belief demands that knowledge systems hold beliefs to evidential standards — what is stored should be warranted. James's pragmatist reply argues that sometimes belief in advance of full evidence is permissible, even necessary, for inquiry to proceed at all. For PKB design, this tension manifests directly: Should the system enforce high epistemic standards for what gets stored (risking paralysis and the under-recording of genuinely valuable provisional insights)? Or should it allow looser epistemic standards in the interest of capturing the full range of intellectual activity (risking the accumulation of poorly-warranted beliefs that contaminate future thinking)? The resolution — visible only through the synthesis of both traditions — is not a fixed standard but a *tiered* epistemic status system that distinguishes clearly between well-warranted claims, working hypotheses, speculative ideas, and unanswered questions, enabling both epistemic honesty and intellectual generativity.",
+        "line_number": 224,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 22632,
+        "char_end": 23739
+      },
+      {
+        "type": "definition",
+        "title": "Testimonial Injustice (Miranda Fricker, 2007)",
+        "body": "The epistemic wrong that occurs when a speaker receives a reduced degree of credibility from a listener due to identity prejudice — when one discounts someone's knowledge claims because of their gender, race, class, disability, or other social identity marker. Fricker argues this is simultaneously an epistemic harm (the listener loses access to knowledge they would have gained from the speaker) and a moral harm (the speaker is wronged in their capacity as a knower, which is a fundamental aspect of human dignity). For PKB curation: if one systematically privileges sources from dominant social positions while discounting knowledge from marginalized perspectives, one is not just making epistemically poorer choices — one is participating in epistemic injustice.",
+        "line_number": 231,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 24060,
+        "char_end": 24896
+      },
+      {
+        "type": "definition",
+        "title": "Hermeneutical Injustice (Miranda Fricker, 2007)",
+        "body": "The epistemic wrong that occurs when someone lacks the conceptual resources to understand or articulate their own experience, because their community has been excluded from the collective processes of meaning-making. Fricker's example: before the term \"sexual harassment\" existed as a named concept, women experiencing it could not articulate what was happening to them in terms others would recognize as describing a genuine wrong. For PKB design: hermeneutical injustice at the individual level occurs when one's knowledge base lacks the conceptual vocabulary to name and record certain types of experience or insight — typically, those from communities or disciplines underrepresented in one's sources.",
+        "line_number": 234,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 24897,
+        "char_end": 25673
+      },
+      {
+        "type": "key-claim",
+        "title": "The Curation Ethics Claim",
+        "body": "Every act of source curation is an epistemic justice act. The question \"Whose knowledge deserves to be in my PKB?\" is not purely about epistemic quality — it is also about the implicit credibility judgments one brings to sources from different social positions. A PKB that draws exclusively from dominant academic, Western, male-authored sources is not just intellectually impoverished; it is, in Fricker's terms, epistemically unjust — it reproduces rather than resists the systematic discrediting of marginalized knowledge.",
+        "line_number": 237,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 25674,
+        "char_end": 26247
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Framework",
+        "body": "**Comprehension**: Which concept from an unfamiliar philosophical tradition most challenged your prior assumptions about PKM? Virtue epistemology, Stoic assent, Clifford's ethics of belief, or epistemic justice?\n\n**Application**: Looking at the four frameworks together — virtue epistemology, Stoic ethics, ethics of belief, epistemic justice — can you already identify two or three practices in your current PKB that fail their standards?\n\n**Extension**: The frameworks introduced here all assume that epistemic responsibility is a serious matter. What would it mean to treat your PKB as a site of ethical practice, not just cognitive optimization?",
+        "line_number": 240,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 26248,
+        "char_end": 26952
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — Before",
+        "body": "Before engaging with the evidence: What do you believe about how epistemically responsible people naturally are when managing personal knowledge? On a scale of 1-10, how confident are you that your current PKM practices are free of systematic epistemic bias? Note this before reading further.",
+        "line_number": 253,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 27067,
+        "char_end": 27414
+      },
+      {
+        "type": "evidence",
+        "title": "The Myside Bias Research (Stanovich, 2021)",
+        "body": "Myside bias — the tendency to generate and evaluate arguments in a self-serving, belief-consistent way — appears robustly across all measured levels of intelligence and education. Keith Stanovich and colleagues have found that unlike most cognitive biases, myside bias does not decrease with higher intelligence or education. Highly intelligent, highly educated people generate myside bias arguments just as frequently as less educated people; they are merely better at rationalizing their conclusions. This is important for PKM: the assumption that building a sophisticated knowledge system naturally produces greater epistemic responsibility is not supported by the evidence. Intelligent, educated PKB users are not automatically better at avoiding confirmation curation — they may simply be better at constructing elaborate justifications for their epistemically motivated choices.",
+        "line_number": 258,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 28204,
+        "char_end": 29152
+      },
+      {
+        "type": "evidence",
+        "title": "Motivated Reasoning as Default Process (Kunda, 1990)",
+        "body": "Ziva Kunda's foundational research demonstrated that when people are motivated to reach a particular conclusion (because it is flattering, consistent with prior beliefs, or emotionally comfortable), they search memory more selectively, apply evidential standards more leniently, and construct causal explanations more creatively in service of that conclusion. Critically, motivated reasoners are typically unaware that they are doing this — the process feels like neutral, careful reasoning from the inside. PKB implications: building a knowledge base over years is a process highly susceptible to motivated distortion. What one notices, saves, links, and forgets follows motivational patterns that feel epistemically neutral but are not.",
+        "line_number": 261,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 29153,
+        "char_end": 29965
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Empirical Picture for PKB Ethics",
+        "body": "Taken together, the evidence from cognitive psychology suggests that without deliberate design intervention, PKBs are highly likely to become systematically biased archives — optimized not for epistemic accuracy but for confirming the beliefs, flattering the identity, and soothing the anxieties of their creator. This is not a minor technical problem; it is a deep ethical problem, because a PKB built on motivated distortion corrupts the epistemic foundation from which all future thinking proceeds. The intellectual vices documented in the psychological literature are not lapses from normally virtuous epistemic practice — they are the default from which virtuous epistemic practice must deliberately depart.",
+        "line_number": 264,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 29966,
+        "char_end": 30754
+      },
+      {
+        "type": "evidence",
+        "title": "Intellectual Humility and Better Epistemic Outcomes (Krumrei-Mancuso & Rouse, 2016)",
+        "body": "Research by Elizabeth Krumrei-Mancuso and colleagues has operationalized intellectual humility as a measurable construct and found that higher intellectual humility correlates with better information processing (greater attention to argument quality vs. source identity), greater openness to revision, and lower levels of myside bias. Importantly, intellectual humility does not correlate with lower confidence — it correlates with *better-calibrated* confidence, consistent with the virtue epistemology account that epistemic humility is accurate self-assessment, not self-doubt. This suggests that intellectual humility is a genuine epistemic virtue with measurable effects, not merely a nice-sounding disposition.",
+        "line_number": 267,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 30755,
+        "char_end": 31576
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Stoic Examined Assent, Dual-Process Theory, and Metacognitive Monitoring",
+        "body": "The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Metacognitive Monitoring]] from [[Report 04]]'s treatment of self-regulated learning; and [[Epistemic Vigilance]] from [[Report 07]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.",
+        "line_number": 274,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 32327,
+        "char_end": 33256
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "On Source Curation and Epistemic Justice",
+        "body": "The evidence suggests that PKB curation — the ongoing process of deciding which sources to read, save, trust, and link — is likely infected by the same credibility biases documented in epistemic justice research, unless active countermeasures are taken. A PKB that accurately reflects one's unchecked source preferences will systematically underrepresent knowledge from marginalized communities, non-Western traditions, non-academic sources, and perspectives that challenge the curator's existing worldview. This is not primarily an ethical problem about fairness to those sources (though it is that) — it is primarily an epistemic problem: the PKB will be less accurate, less complete, and less capable of generating genuine understanding than a more diverse archive.",
+        "line_number": 281,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 33852,
+        "char_end": 34700
+      },
+      {
+        "type": "tension-identified",
+        "title": "Epistemic Justice and Epistemic Standards: The Diversity-Quality Tension",
+        "body": "A potential objection to the epistemic justice framework for PKB design: if I deliberately include sources from underrepresented communities, am I not compromising epistemic standards by choosing sources on non-epistemic grounds (identity politics rather than quality)? This tension is real but ultimately resolves in favor of the epistemic justice position: the assumption that currently dominant sources represent higher epistemic quality is itself a product of the same credibility bias the objection claims to be protecting. Recognizing this does not require abandoning epistemic standards; it requires recognizing that the application of those standards has itself been systematically distorted by social power. The epistemically responsible response is not to abandon standards but to apply them more carefully and consistently — which, in practice, means actively correcting for known credibility biases by deliberately seeking high-quality work from underrepresented sources.",
+        "line_number": 284,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 34701,
+        "char_end": 35788
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Evidence",
+        "body": "**Comprehension**: Which finding most challenged your prior beliefs: the robustness of myside bias even among the highly educated, the empirical grounding of intellectual humility as a measurable virtue, or the systematic nature of credibility bias in source evaluation?\n\n**Application**: If you were to redesign one aspect of your PKB based solely on the evidence presented here, what would it be? Which intellectual vice does your current system make easiest to habituate?\n\n**Extension**: The evidence suggests that motivated reasoning feels like neutral reasoning from the inside. How would you know if your PKB were a confirmation chamber? What observable pattern would reveal it?",
+        "line_number": 287,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 35789,
+        "char_end": 36529
+      },
+      {
+        "type": "important",
+        "title": "Complexity Transition",
+        "body": "The analysis ahead integrates mechanisms from virtue epistemology, Stoic philosophical practice, empirical psychology, and epistemic justice into a unified account of how intellectual vice operates in PKB practice — and how PKB design can actively cultivate intellectual virtue instead. It builds on every section above. The most practically consequential insights are here.",
+        "line_number": 299,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 36590,
+        "char_end": 37008
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Confirmation Curation as Intellectual Autobiography",
+        "body": "Over years, confirmation curation produces a PKB that is less a map of reality than an intellectual autobiography — a record of what one has wanted to believe, felt comfortable believing, and found confirming of one's identity and prior commitments. The danger is not that the PKB contains false beliefs (some confirmed beliefs are true, and updating knowledge is normal) but that it systematically *under-samples* the disconfirming and the challenging. A PKB shaped by confirmation curation will make one better at defending existing beliefs and worse at revising them — better at finding confirming evidence and worse at noticing its absence. This is precisely the reverse of what good epistemics requires.",
+        "line_number": 314,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 38456,
+        "char_end": 39247
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The PKB as Honesty Test",
+        "body": "The PKB is an unusually sensitive test of intellectual honesty because it is, by design, private — there is no social audience requiring performance of competence. One might expect that private knowledge management would therefore be more honest than public discourse. But the research on self-deception (Trivers, 2011; von Hippel & Trivers, 2011) suggests that self-serving cognitive distortions operate even in private — indeed, especially in private, where there is no external correction. A PKB shaped by epistemic cowardice may be even more systematically distorted than public discourse, because the absence of social correction removes the one brake that might otherwise interrupt motivated reasoning.",
+        "line_number": 323,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 40388,
+        "char_end": 41151
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Stoic Assent and the Moment of Note Creation",
+        "body": "The Stoic *prosoche* (attention to one's inner state) practiced at the moment of assent maps precisely onto the design of note-creation workflows in a PKB. Report 18's calibration research showed that the moment of recording a belief is the natural intervention point for epistemic status tagging — but virtue epistemology and Stoic ethics reveal that this moment is also a moral decision point. The question \"Should I save this?\" is not just a storage decision but an epistemic character act: am I exercising examined assent (saving because warranted) or habituating motivated credulity (saving because confirming)? PKB design can make the Stoic pause a structural feature: by building reflection checkpoints into the note-creation workflow, the system creates the conditions for examined assent to become habitual.",
+        "line_number": 332,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 42239,
+        "char_end": 43136
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "Epistemic Status Tagging as Moral Infrastructure",
+        "body": "The evidence from calibration research, virtue epistemology, Stoic ethics, and critical thinking ethics all converges on a single design recommendation: a systematic [[Epistemic Status]] tagging system is not an optional organizational convenience but a moral infrastructure for epistemically responsible knowledge management. Without it, the PKB cannot honestly represent one's actual epistemic standing; it collapses all stored claims into an undifferentiated mass that implicitly treats highly warranted beliefs and speculative hunches as equivalent. This implicit dishonesty is not just epistemically inefficient — it is, in the frameworks developed here, an ethical failure.",
+        "line_number": 341,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 44247,
+        "char_end": 45014
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Links as Implicit Propositions",
+        "body": "Every link in a PKB is an implicit proposition about the relationship between the notes it connects. When a link is created without making this proposition explicit, the PKB accumulates a set of implicit claims whose epistemic status is entirely opaque — even to the person who created them. Over time, these implicit links become part of the knowledge structure from which future thinking proceeds, influencing which ideas get associated, which evidence gets brought to bear on which questions, and which conclusions feel \"well-connected.\" An epistemically responsible PKB design makes link-type explicit wherever possible — distinguishing evidential links (A supports B), conceptual links (A and B share concept C), exploratory links (A might relate to B, worth investigating), and critical links (B challenges A). This is not organizational pedantry; it is moral seriousness about the implicit claims one is making.",
+        "line_number": 348,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 45610,
+        "char_end": 46590
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Intellectual Courage, Self-Determination Theory, and Intrinsic Motivation",
+        "body": "Intellectual courage in a PKB — the willingness to store uncomfortable truths, record genuine uncertainty, and follow inquiry wherever it leads — is deeply connected to [[Self-Determination Theory]]'s concept of intrinsic motivation (developed in [[Report 05]]). SDT research shows that intrinsic motivation (doing something because of genuine interest and values, not external reward) produces better epistemic outcomes, including more creative association, more thorough processing, and greater openness to revision. A PKB designed as a performance of competence (for some imagined audience, or for one's own self-image) undermines the intrinsic motivation that produces genuine intellectual courage. A PKB designed as an honest record of one's actual intellectual life — including the uncertain, the confused, the mistaken, and the still-evolving — creates the conditions for intrinsic epistemic motivation to flourish.",
+        "line_number": 357,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 47500,
+        "char_end": 48532
+      },
+      {
+        "type": "tension-identified",
+        "title": "Privacy vs. Audience: The PKB's Epistemic Paradox",
+        "body": "A genuine tension emerges here: the privacy of a PKB should enable greater intellectual honesty (no audience to perform for, no social cost to recording uncertainty), but the research on self-deception shows that motivated reasoning operates even in private. Worse, the absence of external correction that private knowledge management involves may actually amplify certain epistemic vices — confirmation bias proceeds unchallenged when there is no interlocutor to offer counterevidence. This creates what might be called the PKB's epistemic paradox: it is a private space that should enable honesty but can enable a particularly deep form of self-deception precisely because no one is watching. The resolution requires designing the PKB to serve the function that dialogue would otherwise serve — building in structured countermeasures that approximate the epistemic discipline of engaged intellectual community.",
+        "line_number": 360,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 48533,
+        "char_end": 49526
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Mechanisms",
+        "body": "**Comprehension**: Which mechanism — confirmation curation, epistemic cowardice, or the implicit propositions of untyped links — most closely describes a pattern you recognize in your own PKB practice?\n\n**Application**: Can you identify an analogy from your own practice for the epistemic paradox described above — a moment when the privacy of your PKB enabled self-deception rather than honesty?\n\n**Extension**: The mechanisms described here operate gradually and largely unconsciously. What monitoring systems would detect them?",
+        "line_number": 363,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 49527,
+        "char_end": 50115
+      },
+      {
+        "type": "best-practice",
+        "title": "Implementing the Epistemic Status System",
+        "body": "In Obsidian, implement the epistemic status tier system as a required frontmatter field for all permanent notes: `epistemic-status: established | well-supported | working-hypothesis | speculative | uncertain | refuted`. Create a template that requires completing this field before saving. Add a corresponding tag hierarchy (e.g., `epistemic/established`, `epistemic/speculative`) so that epistemic status is filterable across the entire vault. Create a periodic review workflow specifically targeting notes tagged `epistemic/working-hypothesis` and `epistemic/speculative` to assess whether their status has changed with new evidence. The review is not just organizational — it is the structural embodiment of epistemic conscientiousness.",
+        "line_number": 391,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 52281,
+        "char_end": 53086
+      },
+      {
+        "type": "best-practice",
+        "title": "The Disconfirmation Protocol",
+        "body": "For any belief tagged `epistemic/established` or `epistemic/well-supported`, maintain a linked note titled `[Belief] — Challenges and Counterevidence`. This note should contain: (1) the strongest arguments against the belief, stated in their best form; (2) sources representing serious opposition; (3) the PKB user's current response to each challenge; and (4) the confidence rating *after* engaging with the challenges. This protocol makes the disconfirmation work explicit and connects it directly to the epistemic status of the main claim. A belief that has no challenges note should not be tagged `established` — it has not been subjected to the scrutiny the tag implies.",
+        "line_number": 400,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 54006,
+        "char_end": 54736
+      },
+      {
+        "type": "best-practice",
+        "title": "Implementing Link Ethics in Obsidian",
+        "body": "Use a consistent notation system for link types, either as inline prefixes (`[causes]`, `[challenges]`, `[explore-together]`) or as edge properties in graph-aware tools. Critically, treat the process of link-typing as an epistemic exercise: being forced to specify what kind of relationship you are asserting between two notes often reveals that you were not sure — and that uncertainty is exactly the data that should be captured, either as an explicit `explore-together` link or as a note on what would need to be true for a stronger link to be warranted.",
+        "line_number": 417,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 55654,
+        "char_end": 56274
+      },
+      {
+        "type": "reflection",
+        "title": "Knowledge State — After",
+        "body": "Return to what you recorded at the start of Phase III. Has your estimate of your own epistemic responsibility in PKM shifted? If so, was the shift incremental (new information) or structural (a changed framework for thinking about the question)?",
+        "line_number": 436,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 58873,
+        "char_end": 59165
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The PKB as Ethical Mirror: Virtue Epistemology Meets Knowledge Architecture",
+        "body": "The synthesis developed across this report generates a design principle that none of the contributing traditions articulates explicitly: **a PKB is an ethical mirror** — a system that, by its accumulated contents and their organization, reflects the intellectual character of its creator and, simultaneously, exerts formative pressure on that character going forward. Every act of curation, linking, tagging, revision, and deletion is simultaneously a cognitive act and a character act. Over years, the PKB becomes an extraordinarily detailed record of what kind of knower one has been, while simultaneously shaping — through the habits it rewards and the practices it structures — the kind of knower one is becoming. This means that PKB design is not merely the design of a cognitive tool; it is the design of a character formation environment. The question to ask of every PKB design decision is not just \"Does this help me know more?\" but \"Does this help me become a better knower?\" — where \"better\" means not just more efficient but more virtuous: more honest, more courageous, more humble, more just. The most important output of a PKB is not the notes it contains but the epistemic character of the person who has built it.",
+        "line_number": 455,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 61660,
+        "char_end": 62996
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Four Epistemic Duties of the PKB Curator",
+        "body": "Synthesizing virtue epistemology, Stoic ethics, the ethics of belief, and epistemic justice into actionable principles yields four epistemic duties for responsible PKB curation — duties grounded in character rather than rules, requiring ongoing cultivation rather than one-time compliance:\n\n**The Duty of Examined Assent**: Before storing a claim, pause. Ask whether you are storing it because it is warranted or because it is confirming. Give assent — and storage — only to what genuinely merits it.\n\n**The Duty of Epistemic Honesty**: Record what you actually believe, at the actual level of confidence you actually have. Neither overclaim (saving speculation as established fact) nor underclaim (refusing to record genuine insight for fear of being wrong). The PKB should be a portrait of your actual epistemic state, not a performance of your ideal epistemic state.\n\n**The Duty of Epistemic Courage**: Store what your evidence and reasoning support, including what is uncomfortable, uncertain, or challenging to your existing beliefs. The private space of the PKB is exactly where intellectual courage costs least and pays most.\n\n**The Duty of Epistemic Justice**: Curate sources with awareness of the credibility biases you bring to the selection process. Actively counteract the systematic under-crediting of knowledge from marginalized communities. Treat the PKB as a site where epistemic justice is either reproduced or resisted.",
+        "line_number": 458,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 62997,
+        "char_end": 64522
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections:**\n\n- **[[Report 07: Critical Thinking as PKM Practice]]** — The epistemic vigilance and argument mapping frameworks developed there provide the cognitive machinery for examined assent and disconfirmation practice developed here. Critical thinking is what epistemic virtue looks like in action; virtue epistemology explains why it is morally required, not just cognitively beneficial.\n\n- **[[Report 13: Emotional Regulation and Resilient Learning — Stoic Wisdom Meets Learning Science]]** — That report introduced Stoic practices for emotional regulation in the context of learning difficulties; this report extends the Stoic framework to its epistemic dimensions — the Stoic duty of examined assent and the cultivation of epistemic virtue through daily practice. The two reports together give the Stoic framework its full scope: regulating emotion in service of continued engagement, and regulating assent in service of epistemic integrity.\n\n- **[[Report 18: Calibration and Epistemic Humility]]** — Calibration was introduced there as a cognitive practice. Here it is reframed as an ethical practice — accurate calibration as the expression of intellectual honesty and epistemic conscientiousness. The epistemic status tagging system developed here extends Report 18's framework with explicit ethical grounding.\n\n- **[[Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement]]** — The dialectical practices developed there (steel-manning, thesis-antithesis-synthesis) are now understood as exercises in intellectual courage and epistemic justice — not just epistemically useful but morally required responses to the duty to seek disconfirmation.\n\n- **[[Report 28: The Philosophy of Personal Knowledge]]** — That report developed the philosophical account of what knowledge means in a PKB context. This report takes the next step: given what it means to know, what are one's obligations as a knower? The epistemological foundations of Report 28 are the necessary preconditions for the ethical analysis of Report 29.\n\n**Cross-Report Links (PKM/PKB Framework Series):**\n\n- **[[Report 04: Metacognitive Self-Regulation]]** — The self-regulation cycle (plan → execute → monitor → reflect) is the cognitive structure within which epistemic virtue must be practiced. Without metacognitive regulation, the intellectual virtues have no vehicle for expression.\n\n- **[[Report 27: The Complete PKM/PKB Design Framework]]** — The comprehensive design framework must now be understood as implicitly ethical throughout. Every design decision in Report 27 can be re-read through the lens of virtue epistemology: does this design support or undermine intellectual virtue?\n\n**Synthetic Observation**: This report's connections span the series unusually broadly — it touches reports from Tier 1 (foundational cognitive science) through Tier 4 (meta-framework). This reflects its character as an ethical meta-framework: ethics is not a separate layer added to the cognitive and organizational framework, but a dimension of every layer. The pattern of connections reveals that epistemic virtue is not a specialized add-on to good PKM practice but the moral grammar of what good PKM practice ultimately is.",
+        "line_number": 477,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 65229,
+        "char_end": 68529
+      },
+      {
+        "type": "definition",
+        "title": "Virtue Epistemology (Linda Zagzebski, Ernest Sosa, John Greco — 1980s–present)",
+        "body": "The approach to epistemology that grounds the analysis of knowledge and justified belief in the intellectual character of the epistemic agent rather than in properties of individual beliefs. Intellectual virtues — stable dispositions reliably producing good epistemic outcomes through the agent's own cognitive agency — are the fundamental epistemic category. Distinguished from reliabilism (which focuses on reliable belief-forming processes rather than character) and from rule-following approaches.",
+        "line_number": 504,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 68589,
+        "char_end": 69192
+      },
+      {
+        "type": "definition",
+        "title": "Intellectual Vice (Quassim Cassam — Vices of the Mind, 2019)",
+        "body": "A stable character disposition that systematically undermines good epistemic outcomes. Cassam distinguishes \"thick\" intellectual vices (closely tied to character: arrogance, cowardice, laziness) from \"thin\" intellectual vices (epistemic failures more like bad methods: negligence, gullibility). Intellectual vices are culpable — one is responsible for them in a way one is not responsible for cognitive limitations — because they can be cultivated or reduced through sustained practice.",
+        "line_number": 507,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 69193,
+        "char_end": 69763
+      },
+      {
+        "type": "definition",
+        "title": "Epistemic Conscientiousness (Jason Baehr — The Inquiring Mind, 2011)",
+        "body": "The intellectual virtue of caring enough about getting things right to take the care that getting things right requires. Includes appropriate diligence in evidence gathering, careful checking of reasoning, honest acknowledgment of uncertainty, and responsiveness to correction. Distinguished from mere epistemic caution (which can prevent inquiry by demanding impossible certainty) by its orientation toward getting things right rather than merely avoiding error.",
+        "line_number": 510,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 69764,
+        "char_end": 70319
+      },
+      {
+        "type": "definition",
+        "title": "Epistemic Courage (Virtue Epistemology tradition)",
+        "body": "The intellectual virtue of being willing to form and maintain beliefs on the basis of evidence and reasoning even when doing so is uncomfortable, unpopular, or threatening to one's identity or interests. Epistemic courage is opposed to epistemic cowardice (avoiding uncomfortable conclusions), epistemic conformism (believing what one's community believes rather than what evidence supports), and epistemic sycophancy (adjusting beliefs to please others). In PKB terms: the willingness to store challenging truths, record genuine uncertainty, and preserve evidence of prior error.",
+        "line_number": 513,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 70320,
+        "char_end": 70973
+      },
+      {
+        "type": "definition",
+        "title": "Stoic Synkatathesis — Assent (Chrysippus, Epictetus — Stoic Epistemology)",
+        "body": "The cognitive act of accepting an impression as accurately representing reality, thereby converting it into a belief. The Stoics held that assent is voluntary in a way that the receipt of impressions is not — we can withhold assent from even very compelling impressions if they do not meet epistemic standards. The epistemic virtue of *phronesis* (practical wisdom) includes the reliable exercise of discriminating assent — giving it when warranted, withholding it when not.",
+        "line_number": 516,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 70974,
+        "char_end": 71545
+      },
+      {
+        "type": "definition",
+        "title": "Ethics of Belief (W.K. Clifford — 1877)",
+        "body": "The philosophical position that belief formation is subject to ethical evaluation — that it is wrong to believe without sufficient evidence because (1) careless belief degrades epistemic character through habit, (2) beliefs are never purely private (they inform action and influence others), and (3) epistemic communities depend on the quality of their members' beliefs. The position generates an active duty of epistemic conscientiousness rather than merely a prohibition on specific beliefs.",
+        "line_number": 519,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 71546,
+        "char_end": 72102
+      },
+      {
+        "type": "definition",
+        "title": "Testimonial Injustice (Miranda Fricker — Epistemic Injustice, 2007)",
+        "body": "A specific form of epistemic injustice in which a speaker receives a reduced credibility assessment from a listener due to identity prejudice. Testimonial injustice harms the speaker qua knower — in their capacity as a contributor to shared knowledge — and simultaneously harms the listener epistemically by denying them access to knowledge they could have gained. The corresponding virtue is \"testimonial justice\" — the disposition to assess credibility on genuinely epistemic grounds rather than on social identity markers.",
+        "line_number": 522,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 72103,
+        "char_end": 72719
+      },
+      {
+        "type": "definition",
+        "title": "Hermeneutical Injustice (Miranda Fricker — Epistemic Injustice, 2007)",
+        "body": "An epistemic injustice that occurs when there is a gap in collective interpretive resources that disproportionately harms members of marginalized groups who are trying to understand their own social experience. The injustice consists in being unable to make intelligible — to oneself or others — an experience that is real and significant but for which no shared concept yet exists. PKB implication: a knowledge base that lacks conceptual vocabulary from marginalized traditions will be unable to represent certain types of experience or insight.",
+        "line_number": 525,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 72720,
+        "char_end": 73359
+      },
+      {
+        "type": "definition",
+        "title": "Motivated Reasoning (Ziva Kunda — 1990)",
+        "body": "The cognitive process by which directional goals (the desire to reach a particular conclusion) influence reasoning by shaping what evidence is sought, how evidence is evaluated, and what causal explanations are constructed. Motivated reasoning is not deliberate dishonesty — it proceeds outside conscious awareness and feels like neutral reasoning from the inside. Distinguished from accuracy-motivated reasoning by its endpoint dependence: motivated reasoners start from their desired conclusion and work backward to justifications.",
+        "line_number": 528,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 73360,
+        "char_end": 73956
+      },
+      {
+        "type": "definition",
+        "title": "Confirmation Curation (Claude's analytical synthesis — this report)",
+        "body": "The gradual, largely unconscious shaping of a PKB toward content that confirms existing beliefs, flatters existing identity, and validates existing practices. Operates through selective attention in source selection, differential saving (saving confirming claims at higher rates than disconfirming ones), asymmetric linking (well-confirmed beliefs accumulate more connections than challenges), and selective revision (updating confirming notes more readily than ones that require belief change). Confirmation curation is the PKB-specific manifestation of confirmation bias and myside bias.",
+        "line_number": 531,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 73957,
+        "char_end": 74637
+      },
+      {
+        "type": "definition",
+        "title": "Link Ethics (Claude's analytical synthesis — this report)",
+        "body": "The normative dimension of decisions about what relationships to assert between notes in a PKB. Every link is an implicit proposition about the relationship between connected notes; epistemically responsible linking requires making those propositions explicit through link typing and calibrating the strength of links to the actual epistemic warrant for the relationship asserted. Untyped links accumulate implicit claims of unknown character, undermining the epistemic transparency of the knowledge graph.",
+        "line_number": 534,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 74638,
+        "char_end": 75225
+      },
+      {
+        "type": "cite",
+        "title": "Zagzebski, L. (1996). *Virtues of the Mind: An Inquiry into the Nature of Virtue and the Ethical Foundations of Knowledge*. Cambridge University Press.",
+        "body": "The foundational text of virtue epistemology, arguing that intellectual virtues — character traits reliably producing good epistemic outcomes through the agent's genuine motivation toward truth — are the proper foundation for epistemology. Most directly relevant to Phases II and IV; the theoretical backbone for the entire ethical framework.",
+        "line_number": 539,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 75245,
+        "char_end": 75756
+      },
+      {
+        "type": "cite",
+        "title": "Cassam, Q. (2019). *Vices of the Mind: From the Intellectual to the Political*. Oxford University Press.",
+        "body": "Provides a systematic account of intellectual vices — character dispositions that systematically undermine good epistemic outcomes — and argues they are culpable, assessable, and corrigible. Directly relevant to the mechanisms of confirmation curation and epistemic cowardice analyzed in Phase IV.",
+        "line_number": 542,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 75757,
+        "char_end": 76176
+      },
+      {
+        "type": "cite",
+        "title": "Fricker, M. (2007). *Epistemic Injustice: Power and the Ethics of Knowing*. Oxford University Press.",
+        "body": "The foundational text on epistemic justice, developing the concepts of testimonial injustice and hermeneutical injustice. Most relevant to Phase II's framework section and Phase V's source diversity auditing recommendation.",
+        "line_number": 545,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 76177,
+        "char_end": 76518
+      },
+      {
+        "type": "cite",
+        "title": "Clifford, W.K. (1877). \"The Ethics of Belief.\" In *Lectures and Essays*. Macmillan.",
+        "body": "The classic statement of the position that it is morally wrong to believe without sufficient evidence, grounding epistemic conscientiousness as a moral duty. Directly relevant to Phase II's ethics of belief framework.",
+        "line_number": 548,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 76519,
+        "char_end": 76837
+      },
+      {
+        "type": "cite",
+        "title": "Stanovich, K.E. (2021). *The Bias That Divides Us: The Science and Politics of Myside Thinking*. MIT Press.",
+        "body": "Comprehensive synthesis of research on myside bias, demonstrating its robustness across education levels and intelligence measures. Directly relevant to Phase III's empirical case for epistemic vice as default.",
+        "line_number": 551,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 76838,
+        "char_end": 77173
+      },
+      {
+        "type": "cite",
+        "title": "Kunda, Z. (1990). \"The case for motivated reasoning.\" *Psychological Bulletin*, 108(3), 480–498.",
+        "body": "The classic psychological paper on motivated reasoning, demonstrating that directional goals systematically influence reasoning processes while remaining invisible to the reasoner. Directly relevant to Phase III and Phase IV's mechanism analysis.",
+        "line_number": 554,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 77174,
+        "char_end": 77534
+      },
+      {
+        "type": "cite",
+        "title": "Krumrei-Mancuso, E.J., & Rouse, S.V. (2016). \"The Development and Validation of the Comprehensive Intellectual Humility Scale.\" *Journal of Personality Assessment*, 98(2), 209–221.",
+        "body": "Empirical operationalization and validation of intellectual humility as a measurable construct, demonstrating its correlation with better epistemic outcomes. Relevant to Phase III's evidence section and Phase V's design recommendations.",
+        "line_number": 557,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 77535,
+        "char_end": 77969
+      },
+      {
+        "type": "cite",
+        "title": "Epictetus. *Discourses and Selected Writings* (Trans. R. Dobbin). Penguin Classics.",
+        "body": "Epictetus's most detailed account of the discipline of assent and the epistemic dimensions of Stoic practice. The *Discourses* contain the most practically specific Stoic account of how examined assent should operate in daily cognitive life. Directly relevant to Phases II and IV.",
+        "line_number": 560,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 77970,
+        "char_end": 78351
+      },
+      {
+        "type": "cite",
+        "title": "Baehr, J. (2011). *The Inquiring Mind: On Intellectual Virtues and Virtue Epistemology*. Oxford University Press.",
+        "body": "Detailed philosophical account of intellectual virtues as character traits — distinguished from mere reliable cognitive processes — with particular emphasis on epistemic conscientiousness. Directly relevant to Phase II's definition of intellectual virtue and epistemic conscientiousness.",
+        "line_number": 563,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 78352,
+        "char_end": 78770
+      },
+      {
+        "type": "cite",
+        "title": "Nickerson, R.S. (1998). \"Confirmation Bias: A Ubiquitous Phenomenon in Many Guises.\" *Review of General Psychology*, 2(2), 175–220.",
+        "body": "Comprehensive review of the empirical literature on confirmation bias across its many manifestations — selective information search, selective interpretation, selective memory. Relevant to Phase III and the mechanism analysis in Phase IV.",
+        "line_number": 566,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 78771,
+        "char_end": 79158
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "This report draws on four distinct research and philosophical traditions:\n\n**(1) Virtue epistemology** is a well-developed philosophical tradition with extensive theoretical literature (Zagzebski, Sosa, Greco, Baehr) and a growing empirical arm (Intellectual Virtues Lab at Loyola Marymount; Krumrei-Mancuso's quantitative work on intellectual humility). Claims drawing on this tradition represent well-established philosophical positions, not empirical findings.\n\n**(2) Stoic philosophy** is represented here through primary texts (Epictetus, Marcus Aurelius, Seneca) and contemporary scholarship on Stoic epistemology. The application of Stoic assent doctrine to PKB practice is Claude's analytical synthesis, not a pre-existing scholarly application.\n\n**(3) Empirical cognitive psychology** (Kunda, Stanovich, Nickerson, Fischhoff) provides empirical grounding for the existence of the intellectual vices that philosophical traditions diagnose normatively. These findings are among the most robustly replicated in the field.\n\n**(4) Epistemic justice** (Fricker) is a philosophically well-developed framework whose empirical dimensions are supported by sociology of knowledge and social psychology research. The application to PKB curation is Claude's analytical synthesis.\n\nThe ethical framework — the Four Epistemic Duties and the framing of the PKB as an ethical mirror — is Claude's original cross-domain synthesis integrating these traditions. It is grounded in each tradition individually but is not a position explicitly articulated within any of them.",
+        "line_number": 569,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 79159,
+        "char_end": 80806
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Framework",
+        "body": "> [!topic-idea] [[Social Epistemology and PKB Practice — Individual Knowing in Social Context]]\n> Individual PKBs exist within social epistemic contexts — scholarly communities, online discourse, professional networks — and are shaped by those contexts in ways that individual-focused virtue epistemology may underestimate. Social epistemology (Alvin Goldman, Philip Kitcher) examines how social institutions and practices shape the production and distribution of knowledge. A dedicated report would examine: How do one's social epistemic communities shape PKB curation? How can individual epistemic virtue compensate for social epistemic dysfunction? What does it mean to be a responsible epistemic citizen as a PKB curator?\n\n> [!topic-idea] [[Self-Deception, Akrasia, and the Architecture of Epistemic Failure]]\n> The psychology of self-deception (Robert Trivers, William von Hippel) and the philosophy of akrasia (weakness of will — doing what one believes one ought not to do) together address the deepest challenge to virtue-based PKM: knowing what epistemic virtue requires while consistently failing to practice it. A dedicated report would examine the mechanisms of epistemic self-deception, its relationship to motivated reasoning, and whether PKB design can interrupt it at the architectural level.\n\n> [!topic-idea] [[Epistemic Autonomy and the Ethics of AI-Assisted PKM]]\n> As AI tools increasingly assist with note-taking, linking, and knowledge synthesis, new ethical questions arise about epistemic autonomy — the right and responsibility to form one's own beliefs through one's own reasoning. A dedicated report would examine: When AI suggestions are followed without evaluation, what epistemic character does this cultivate? What design principles govern epistemically responsible AI assistance in PKM? This topic connects directly to [[Report 30: Future of PKM]].\n\n> [!topic-idea] [[The Virtue of Intellectual Generosity — Sharing Knowledge Responsibly]]\n> Virtue epistemology has mostly focused on epistemic virtues in reception (how one forms beliefs). An underexplored extension is the virtues of epistemic giving: intellectual generosity (sharing knowledge that would benefit others), epistemic courage in public discourse, and the responsibilities one bears when one's PKB outputs are shared. For PKB users who publish, share, or teach from their knowledge base, these responsibilities are directly practical.\n\n> [!topic-idea] [[Historical Epistemology — How Past Knowledge Shapes Present Knowing]]\n> The belief revision log recommended in this report raises a deeper question: how does the history of one's believing shape what one is capable of believing now? Historical epistemology (Lorraine Daston, Ian Hacking) examines how knowledge practices and epistemic styles evolve across time. For individual PKM: how does one's personal epistemic history — the pattern of beliefs held, revised, abandoned, and rebuilt — shape one's epistemic possibilities? How can PKB design make this history explicit and generative?",
+        "line_number": 584,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md",
+        "char_start": 80832,
+        "char_end": 83951
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Virtue Epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue Epistemology]]",
+        "line_number": 149,
+        "section": "The Moral Dimension We Overlooked",
+        "context_line": "Each of these acts carries moral weight. Not heavy, dramatic weight — but the quiet, accumulated weight that determines the kind of knower you are becoming. And [[Virtue Epistemology]], the tradition that grounds good knowing in intellectual character rather than in rule-following, argues that the kind of knower you are becoming is among the most important things about you.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Virtue Epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue Epistemology]]",
+        "line_number": 156,
+        "section": "The Synthesis Question",
+        "context_line": "This report synthesizes across [[Virtue Epistemology]], [[Stoic Ethics]], [[Critical Thinking Ethics]], [[Epistemic Justice]], and the [[Psychology of Self-Deception]] to address a unified question: **What does it mean to manage personal knowledge responsibly — and how should that answer reshape PKB design?**",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Stoic Ethics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stoic Ethics]]",
+        "line_number": 156,
+        "section": "The Synthesis Question",
+        "context_line": "This report synthesizes across [[Virtue Epistemology]], [[Stoic Ethics]], [[Critical Thinking Ethics]], [[Epistemic Justice]], and the [[Psychology of Self-Deception]] to address a unified question: **What does it mean to manage personal knowledge responsibly — and how should that answer reshape PKB design?**",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Critical Thinking Ethics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Critical Thinking Ethics]]",
+        "line_number": 156,
+        "section": "The Synthesis Question",
+        "context_line": "This report synthesizes across [[Virtue Epistemology]], [[Stoic Ethics]], [[Critical Thinking Ethics]], [[Epistemic Justice]], and the [[Psychology of Self-Deception]] to address a unified question: **What does it mean to manage personal knowledge responsibly — and how should that answer reshape PKB design?**",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Epistemic Justice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic Justice]]",
+        "line_number": 156,
+        "section": "The Synthesis Question",
+        "context_line": "This report synthesizes across [[Virtue Epistemology]], [[Stoic Ethics]], [[Critical Thinking Ethics]], [[Epistemic Justice]], and the [[Psychology of Self-Deception]] to address a unified question: **What does it mean to manage personal knowledge responsibly — and how should that answer reshape PKB design?**",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Psychology of Self-Deception",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Psychology of Self-Deception]]",
+        "line_number": 156,
+        "section": "The Synthesis Question",
+        "context_line": "This report synthesizes across [[Virtue Epistemology]], [[Stoic Ethics]], [[Critical Thinking Ethics]], [[Epistemic Justice]], and the [[Psychology of Self-Deception]] to address a unified question: **What does it mean to manage personal knowledge responsibly — and how should that answer reshape PKB design?**",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 07: Critical Thinking as PKM Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 07: Critical Thinking as PKM Practice]]",
+        "line_number": 164,
+        "section": "Scope and Cross-Report Position",
+        "context_line": "This report draws most heavily on [[Report 07: Critical Thinking as PKM Practice]], [[Report 13: Emotional Regulation and Resilient Learning]], [[Report 18: Calibration and Epistemic Humility]], [[Report 21: Dialectical Knowledge Building]], and [[Report 28: The Philosophy of Personal Knowledge]]. It synthesizes the ethical implications of insights developed throughout the series, while introducing the distinctively normative frameworks of virtue epistemology and epistemic justice that have not been foregrounded before.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 13: Emotional Regulation and Resilient Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 13: Emotional Regulation and Resilient Learning]]",
+        "line_number": 164,
+        "section": "Scope and Cross-Report Position",
+        "context_line": "This report draws most heavily on [[Report 07: Critical Thinking as PKM Practice]], [[Report 13: Emotional Regulation and Resilient Learning]], [[Report 18: Calibration and Epistemic Humility]], [[Report 21: Dialectical Knowledge Building]], and [[Report 28: The Philosophy of Personal Knowledge]]. It synthesizes the ethical implications of insights developed throughout the series, while introducing the distinctively normative frameworks of virtue epistemology and epistemic justice that have not been foregrounded before.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 18: Calibration and Epistemic Humility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 18: Calibration and Epistemic Humility]]",
+        "line_number": 164,
+        "section": "Scope and Cross-Report Position",
+        "context_line": "This report draws most heavily on [[Report 07: Critical Thinking as PKM Practice]], [[Report 13: Emotional Regulation and Resilient Learning]], [[Report 18: Calibration and Epistemic Humility]], [[Report 21: Dialectical Knowledge Building]], and [[Report 28: The Philosophy of Personal Knowledge]]. It synthesizes the ethical implications of insights developed throughout the series, while introducing the distinctively normative frameworks of virtue epistemology and epistemic justice that have not been foregrounded before.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 21: Dialectical Knowledge Building",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 21: Dialectical Knowledge Building]]",
+        "line_number": 164,
+        "section": "Scope and Cross-Report Position",
+        "context_line": "This report draws most heavily on [[Report 07: Critical Thinking as PKM Practice]], [[Report 13: Emotional Regulation and Resilient Learning]], [[Report 18: Calibration and Epistemic Humility]], [[Report 21: Dialectical Knowledge Building]], and [[Report 28: The Philosophy of Personal Knowledge]]. It synthesizes the ethical implications of insights developed throughout the series, while introducing the distinctively normative frameworks of virtue epistemology and epistemic justice that have not been foregrounded before.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 28: The Philosophy of Personal Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 28: The Philosophy of Personal Knowledge]]",
+        "line_number": 164,
+        "section": "Scope and Cross-Report Position",
+        "context_line": "This report draws most heavily on [[Report 07: Critical Thinking as PKM Practice]], [[Report 13: Emotional Regulation and Resilient Learning]], [[Report 18: Calibration and Epistemic Humility]], [[Report 21: Dialectical Knowledge Building]], and [[Report 28: The Philosophy of Personal Knowledge]]. It synthesizes the ethical implications of insights developed throughout the series, while introducing the distinctively normative frameworks of virtue epistemology and epistemic justice that have not been foregrounded before.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Virtue Epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Virtue Epistemology]]",
+        "line_number": 174,
+        "section": "Virtue Epistemology: Knowledge as a Character Achievement",
+        "context_line": "The tradition of [[Virtue Epistemology]] — developed by Ernest Sosa, John Greco, Linda Zagzebski, and others from the 1980s onward — begins with a dissatisfaction with the standard epistemological question \"What is knowledge?\" asked purely in terms of belief, truth, and justification. The Gettier problem (encountered in [[Report 28]]) revealed that even justified true belief is insufficient for knowledge, and the subsequent fifty years of epistemology have struggled to patch the account. Virtue epistemology offers a different response: instead of looking for the right combination of epistemic properties that beliefs must have, look instead to the epistemic agent and ask what character traits reliably produce good cognitive outcomes.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 28",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 28]]",
+        "line_number": 174,
+        "section": "Virtue Epistemology: Knowledge as a Character Achievement",
+        "context_line": "The tradition of [[Virtue Epistemology]] — developed by Ernest Sosa, John Greco, Linda Zagzebski, and others from the 1980s onward — begins with a dissatisfaction with the standard epistemological question \"What is knowledge?\" asked purely in terms of belief, truth, and justification. The Gettier problem (encountered in [[Report 28]]) revealed that even justified true belief is insufficient for knowledge, and the subsequent fifty years of epistemology have struggled to patch the account. Virtue epistemology offers a different response: instead of looking for the right combination of epistemic properties that beliefs must have, look instead to the epistemic agent and ask what character traits reliably produce good cognitive outcomes.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 18: Calibration and Epistemic Humility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 18: Calibration and Epistemic Humility]]",
+        "line_number": 186,
+        "section": "Virtue Epistemology: Knowledge as a Character Achievement",
+        "context_line": "> The disposition to have an accurate sense of one's epistemic limitations — what one knows, what one doesn't know, and how confident one should be — combined with openness to correction. Epistemic humility is distinct from mere self-doubt (which can be as unwarranted as overconfidence) and is instead calibrated modesty: neither overclaiming nor underclaiming one's epistemic standing. As developed in [[Report 18: Calibration and Epistemic Humility]], calibration research in cognitive psychology provides the empirical grounding for this virtue — Dunning-Kruger dynamics, overconfidence effects, and the illusion of explanatory depth all document what epistemic arrogance (the corresponding vice) looks like empirically.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 19: Sustaining Lifelong Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 19: Sustaining Lifelong Learning]]",
+        "line_number": 191,
+        "section": "Virtue Epistemology: Knowledge as a Character Achievement",
+        "context_line": "> The virtue epistemology account of intellectual character as cultivated through practice maps precisely onto the behavioral science of habit formation (developed in [[Report 19: Sustaining Lifelong Learning]]). Both traditions argue that character — epistemic or moral — is not a fixed trait but a dynamic disposition shaped by repeated patterns of behavior. Aristotle's foundational claim that virtues are acquired by practice (we become just by doing just acts) finds its contemporary analogue in habit loop research: the neural pathways that constitute intellectual virtues are strengthened by consistent epistemic behavior and weakened by neglect. This is not a trivial parallel — it implies that PKB design can actively cultivate intellectual virtue by making virtuous epistemic behaviors easier and more frequent, and making vicious behaviors harder to habituate.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Confirmation Bias",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Confirmation Bias]]",
+        "line_number": 210,
+        "section": "Stoic Ethics: The Duty of Examined Assent",
+        "context_line": "> The Stoic doctrine of examined assent — the duty to pause before endorsing impressions, to check them against rational criteria before allowing them to shape one's beliefs — finds its contemporary empirical counterpart in research on [[Confirmation Bias]] and [[Motivated Reasoning]] (Nickerson, 1998; Kunda, 1990). Motivated reasoning is the psychological mechanism by which we give assent to impressions that confirm what we already want to believe, and withhold assent from those that threaten it — exactly the epistemic failure the Stoics diagnosed as one of the central obstacles to wisdom. The Stoic prescription (practice deliberate examination of impressions before assent) and the psychological prescription (implement cognitive debiasing strategies, seek disconfirmatory evidence) are structurally identical. This convergence across two-thousand years of intellectual history — Hellenistic philosophy and contemporary cognitive psychology — provides unusually strong grounds for treating examined assent as a genuine epistemic norm.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Motivated Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivated Reasoning]]",
+        "line_number": 210,
+        "section": "Stoic Ethics: The Duty of Examined Assent",
+        "context_line": "> The Stoic doctrine of examined assent — the duty to pause before endorsing impressions, to check them against rational criteria before allowing them to shape one's beliefs — finds its contemporary empirical counterpart in research on [[Confirmation Bias]] and [[Motivated Reasoning]] (Nickerson, 1998; Kunda, 1990). Motivated reasoning is the psychological mechanism by which we give assent to impressions that confirm what we already want to believe, and withhold assent from those that threaten it — exactly the epistemic failure the Stoics diagnosed as one of the central obstacles to wisdom. The Stoic prescription (practice deliberate examination of impressions before assent) and the psychological prescription (implement cognitive debiasing strategies, seek disconfirmatory evidence) are structurally identical. This convergence across two-thousand years of intellectual history — Hellenistic philosophy and contemporary cognitive psychology — provides unusually strong grounds for treating examined assent as a genuine epistemic norm.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Confirmation Bias",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Confirmation Bias]]",
+        "line_number": 256,
+        "section": "The Empirical Case for Intellectual Vice as the Default",
+        "context_line": "The empirical evidence from cognitive psychology paints a consistent — and humbling — picture: the intellectual vices that virtue epistemology and Stoic ethics warn against are not pathological outliers but default tendencies of normal human cognition. [[Confirmation Bias]] (Nickerson, 1998), [[Myside Bias]] (Stanovich, 2021), [[Motivated Reasoning]] (Kunda, 1990), [[Illusion of Knowing]] (Glenberg et al., 1982), and [[Hindsight Bias]] (Fischhoff, 1975) are among the most robustly replicated findings in cognitive psychology. They document a systematic tendency toward the intellectual vices: toward seeking confirming evidence rather than disconfirming evidence, toward believing what we want to believe rather than what evidence warrants, toward overestimating what we understand.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Myside Bias",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Myside Bias]]",
+        "line_number": 256,
+        "section": "The Empirical Case for Intellectual Vice as the Default",
+        "context_line": "The empirical evidence from cognitive psychology paints a consistent — and humbling — picture: the intellectual vices that virtue epistemology and Stoic ethics warn against are not pathological outliers but default tendencies of normal human cognition. [[Confirmation Bias]] (Nickerson, 1998), [[Myside Bias]] (Stanovich, 2021), [[Motivated Reasoning]] (Kunda, 1990), [[Illusion of Knowing]] (Glenberg et al., 1982), and [[Hindsight Bias]] (Fischhoff, 1975) are among the most robustly replicated findings in cognitive psychology. They document a systematic tendency toward the intellectual vices: toward seeking confirming evidence rather than disconfirming evidence, toward believing what we want to believe rather than what evidence warrants, toward overestimating what we understand.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Motivated Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Motivated Reasoning]]",
+        "line_number": 256,
+        "section": "The Empirical Case for Intellectual Vice as the Default",
+        "context_line": "The empirical evidence from cognitive psychology paints a consistent — and humbling — picture: the intellectual vices that virtue epistemology and Stoic ethics warn against are not pathological outliers but default tendencies of normal human cognition. [[Confirmation Bias]] (Nickerson, 1998), [[Myside Bias]] (Stanovich, 2021), [[Motivated Reasoning]] (Kunda, 1990), [[Illusion of Knowing]] (Glenberg et al., 1982), and [[Hindsight Bias]] (Fischhoff, 1975) are among the most robustly replicated findings in cognitive psychology. They document a systematic tendency toward the intellectual vices: toward seeking confirming evidence rather than disconfirming evidence, toward believing what we want to believe rather than what evidence warrants, toward overestimating what we understand.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Illusion of Knowing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Illusion of Knowing]]",
+        "line_number": 256,
+        "section": "The Empirical Case for Intellectual Vice as the Default",
+        "context_line": "The empirical evidence from cognitive psychology paints a consistent — and humbling — picture: the intellectual vices that virtue epistemology and Stoic ethics warn against are not pathological outliers but default tendencies of normal human cognition. [[Confirmation Bias]] (Nickerson, 1998), [[Myside Bias]] (Stanovich, 2021), [[Motivated Reasoning]] (Kunda, 1990), [[Illusion of Knowing]] (Glenberg et al., 1982), and [[Hindsight Bias]] (Fischhoff, 1975) are among the most robustly replicated findings in cognitive psychology. They document a systematic tendency toward the intellectual vices: toward seeking confirming evidence rather than disconfirming evidence, toward believing what we want to believe rather than what evidence warrants, toward overestimating what we understand.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Hindsight Bias",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Hindsight Bias]]",
+        "line_number": 256,
+        "section": "The Empirical Case for Intellectual Vice as the Default",
+        "context_line": "The empirical evidence from cognitive psychology paints a consistent — and humbling — picture: the intellectual vices that virtue epistemology and Stoic ethics warn against are not pathological outliers but default tendencies of normal human cognition. [[Confirmation Bias]] (Nickerson, 1998), [[Myside Bias]] (Stanovich, 2021), [[Motivated Reasoning]] (Kunda, 1990), [[Illusion of Knowing]] (Glenberg et al., 1982), and [[Hindsight Bias]] (Fischhoff, 1975) are among the most robustly replicated findings in cognitive psychology. They document a systematic tendency toward the intellectual vices: toward seeking confirming evidence rather than disconfirming evidence, toward believing what we want to believe rather than what evidence warrants, toward overestimating what we understand.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Dual-Process Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Process Theory]]",
+        "line_number": 272,
+        "section": "The Stoic Evidence: Philosophical Validation Across Cultures",
+        "context_line": "The Stoic account of examined assent receives empirical support from an unexpected source: cross-cultural research on mindfulness and metacognitive awareness. The Stoic practice of observing impressions before assenting to them — the philosophical ancestor of metacognitive monitoring — parallels what mindfulness-based interventions train. Research by Tversky and Kahneman demonstrated that slowing down and examining impressions before accepting them (moving from System 1 to System 2 processing, in [[Dual-Process Theory]] terms from [[Report 07]]) reduces systematic cognitive errors. The Stoics had identified the same mechanism two millennia before the dual-process framework.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 07",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 07]]",
+        "line_number": 272,
+        "section": "The Stoic Evidence: Philosophical Validation Across Cultures",
+        "context_line": "The Stoic account of examined assent receives empirical support from an unexpected source: cross-cultural research on mindfulness and metacognitive awareness. The Stoic practice of observing impressions before assenting to them — the philosophical ancestor of metacognitive monitoring — parallels what mindfulness-based interventions train. Research by Tversky and Kahneman demonstrated that slowing down and examining impressions before accepting them (moving from System 1 to System 2 processing, in [[Dual-Process Theory]] terms from [[Report 07]]) reduces systematic cognitive errors. The Stoics had identified the same mechanism two millennia before the dual-process framework.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Dual-Process Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual-Process Theory]]",
+        "line_number": 275,
+        "section": "The Stoic Evidence: Philosophical Validation Across Cultures",
+        "context_line": "> The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Metacognitive Monitoring]] from [[Report 04]]'s treatment of self-regulated learning; and [[Epistemic Vigilance]] from [[Report 07]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Metacognitive Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Monitoring]]",
+        "line_number": 275,
+        "section": "The Stoic Evidence: Philosophical Validation Across Cultures",
+        "context_line": "> The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Metacognitive Monitoring]] from [[Report 04]]'s treatment of self-regulated learning; and [[Epistemic Vigilance]] from [[Report 07]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 04",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 04]]",
+        "line_number": 275,
+        "section": "The Stoic Evidence: Philosophical Validation Across Cultures",
+        "context_line": "> The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Metacognitive Monitoring]] from [[Report 04]]'s treatment of self-regulated learning; and [[Epistemic Vigilance]] from [[Report 07]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Epistemic Vigilance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic Vigilance]]",
+        "line_number": 275,
+        "section": "The Stoic Evidence: Philosophical Validation Across Cultures",
+        "context_line": "> The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Metacognitive Monitoring]] from [[Report 04]]'s treatment of self-regulated learning; and [[Epistemic Vigilance]] from [[Report 07]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 07",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 07]]",
+        "line_number": 275,
+        "section": "The Stoic Evidence: Philosophical Validation Across Cultures",
+        "context_line": "> The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Metacognitive Monitoring]] from [[Report 04]]'s treatment of self-regulated learning; and [[Epistemic Vigilance]] from [[Report 07]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Epistemic Cowardice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic Cowardice]]",
+        "line_number": 319,
+        "section": "The Mechanism of Epistemic Cowardice",
+        "context_line": "A second intellectual vice — less discussed in PKM literature but equally important — is [[Epistemic Cowardice]]: the disposition to avoid storing, linking, or acting on beliefs that would be uncomfortable, socially costly, or existentially threatening. Quassim Cassam identifies this as a genuine intellectual vice: one shrinks from conclusions one's evidence would support because the conclusions are uncomfortable, potentially controversial, or because acknowledging them would require changing one's behavior.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 18: Calibration and Epistemic Humility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 18: Calibration and Epistemic Humility]]",
+        "line_number": 337,
+        "section": "The Return-and-Deepen: Calibration as Ethical Practice",
+        "context_line": "In [[Report 18: Calibration and Epistemic Humility]], calibration was introduced primarily as a cognitive practice — the accurate assessment of one's confidence relative to one's actual accuracy rate. With the ethical frameworks now in view, we can see that calibration is not merely a cognitive tool but an epistemic virtue with direct moral implications.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Epistemic Status",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic Status]]",
+        "line_number": 342,
+        "section": "The Return-and-Deepen: Calibration as Ethical Practice",
+        "context_line": "> The evidence from calibration research, virtue epistemology, Stoic ethics, and critical thinking ethics all converges on a single design recommendation: a systematic [[Epistemic Status]] tagging system is not an optional organizational convenience but a moral infrastructure for epistemically responsible knowledge management. Without it, the PKB cannot honestly represent one's actual epistemic standing; it collapses all stored claims into an undifferentiated mass that implicitly treats highly warranted beliefs and speculative hunches as equivalent. This implicit dishonesty is not just epistemically inefficient — it is, in the frameworks developed here, an ethical failure.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 358,
+        "section": "The Mechanism of Epistemic Courage in the PKB",
+        "context_line": "> Intellectual courage in a PKB — the willingness to store uncomfortable truths, record genuine uncertainty, and follow inquiry wherever it leads — is deeply connected to [[Self-Determination Theory]]'s concept of intrinsic motivation (developed in [[Report 05]]). SDT research shows that intrinsic motivation (doing something because of genuine interest and values, not external reward) produces better epistemic outcomes, including more creative association, more thorough processing, and greater openness to revision. A PKB designed as a performance of competence (for some imagined audience, or for one's own self-image) undermines the intrinsic motivation that produces genuine intellectual courage. A PKB designed as an honest record of one's actual intellectual life — including the uncertain, the confused, the mistaken, and the still-evolving — creates the conditions for intrinsic epistemic motivation to flourish.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 05",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 05]]",
+        "line_number": 358,
+        "section": "The Mechanism of Epistemic Courage in the PKB",
+        "context_line": "> Intellectual courage in a PKB — the willingness to store uncomfortable truths, record genuine uncertainty, and follow inquiry wherever it leads — is deeply connected to [[Self-Determination Theory]]'s concept of intrinsic motivation (developed in [[Report 05]]). SDT research shows that intrinsic motivation (doing something because of genuine interest and values, not external reward) produces better epistemic outcomes, including more creative association, more thorough processing, and greater openness to revision. A PKB designed as a performance of competence (for some imagined audience, or for one's own self-image) undermines the intrinsic motivation that produces genuine intellectual courage. A PKB designed as an honest record of one's actual intellectual life — including the uncertain, the confused, the mistaken, and the still-evolving — creates the conditions for intrinsic epistemic motivation to flourish.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 18",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 18]]",
+        "line_number": 377,
+        "section": "Design Principle 1: The Epistemic Status Tier System",
+        "context_line": "Every claim stored in a PKB should carry an explicit epistemic status tag that accurately represents the warrant for that claim. Building on the calibration framework from [[Report 18]], but now grounded in the ethical frameworks of virtue epistemology and the ethics of belief, a responsible epistemic status tier system includes at minimum:",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 21: Dialectical Knowledge Building",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 21: Dialectical Knowledge Building]]",
+        "line_number": 398,
+        "section": "Design Principle 2: The Disconfirmation Archive",
+        "context_line": "In practice, this means: maintaining a dedicated section or tag for counterevidence and challenges to core beliefs; creating a protocol for steel-manning opposing views before a note linking to them is filed (from [[Report 21: Dialectical Knowledge Building]]); treating notes that represent positions one disagrees with as first-class citizens of the PKB rather than peripheral annotations; and conducting periodic audits of major knowledge areas to check whether the ratio of confirming to disconfirming notes is suspiciously skewed.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 30: Future of PKM",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 30: Future of PKM]]",
+        "line_number": 471,
+        "section": "Open Questions",
+        "context_line": "How should competing epistemic duties be weighed when they conflict — for example, when the duty of examined assent slows inquiry to the point where the duty of epistemic courage (following the argument wherever it leads) cannot be fulfilled? What would a PKB look like if it were designed from the beginning as a character formation environment, rather than retrofitted with ethical principles after the fact? How do the social dimensions of epistemic justice translate to the design of a fundamentally private knowledge system? These questions point toward — and require — the final synthesis of [[Report 30: Future of PKM]].",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 07: Critical Thinking as PKM Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 07: Critical Thinking as PKM Practice]]",
+        "line_number": 480,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 07: Critical Thinking as PKM Practice]]** — The epistemic vigilance and argument mapping frameworks developed there provide the cognitive machinery for examined assent and disconfirmation practice developed here. Critical thinking is what epistemic virtue looks like in action; virtue epistemology explains why it is morally required, not just cognitively beneficial.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 13: Emotional Regulation and Resilient Learning — Stoic Wisdom Meets Learning Science",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 13: Emotional Regulation and Resilient Learning — Stoic Wisdom Meets Learning Science]]",
+        "line_number": 482,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 13: Emotional Regulation and Resilient Learning — Stoic Wisdom Meets Learning Science]]** — That report introduced Stoic practices for emotional regulation in the context of learning difficulties; this report extends the Stoic framework to its epistemic dimensions — the Stoic duty of examined assent and the cultivation of epistemic virtue through daily practice. The two reports together give the Stoic framework its full scope: regulating emotion in service of continued engagement, and regulating assent in service of epistemic integrity.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 18: Calibration and Epistemic Humility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 18: Calibration and Epistemic Humility]]",
+        "line_number": 484,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 18: Calibration and Epistemic Humility]]** — Calibration was introduced there as a cognitive practice. Here it is reframed as an ethical practice — accurate calibration as the expression of intellectual honesty and epistemic conscientiousness. The epistemic status tagging system developed here extends Report 18's framework with explicit ethical grounding.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement]]",
+        "line_number": 486,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement]]** — The dialectical practices developed there (steel-manning, thesis-antithesis-synthesis) are now understood as exercises in intellectual courage and epistemic justice — not just epistemically useful but morally required responses to the duty to seek disconfirmation.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 28: The Philosophy of Personal Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 28: The Philosophy of Personal Knowledge]]",
+        "line_number": 488,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 28: The Philosophy of Personal Knowledge]]** — That report developed the philosophical account of what knowledge means in a PKB context. This report takes the next step: given what it means to know, what are one's obligations as a knower? The epistemological foundations of Report 28 are the necessary preconditions for the ethical analysis of Report 29.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 04: Metacognitive Self-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 04: Metacognitive Self-Regulation]]",
+        "line_number": 492,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 04: Metacognitive Self-Regulation]]** — The self-regulation cycle (plan → execute → monitor → reflect) is the cognitive structure within which epistemic virtue must be practiced. Without metacognitive regulation, the intellectual virtues have no vehicle for expression.",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 27: The Complete PKM/PKB Design Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 27: The Complete PKM/PKB Design Framework]]",
+        "line_number": 494,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 27: The Complete PKM/PKB Design Framework]]** — The comprehensive design framework must now be understood as implicitly ethical throughout. Every design decision in Report 27 can be re-read through the lens of virtue epistemology: does this design support or undermine intellectual virtue?",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Social Epistemology and PKB Practice — Individual Knowing in Social Context",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Social Epistemology and PKB Practice — Individual Knowing in Social Context]]",
+        "line_number": 586,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Social Epistemology and PKB Practice — Individual Knowing in Social Context]]",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Self-Deception, Akrasia, and the Architecture of Epistemic Failure",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Deception, Akrasia, and the Architecture of Epistemic Failure]]",
+        "line_number": 589,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Self-Deception, Akrasia, and the Architecture of Epistemic Failure]]",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Epistemic Autonomy and the Ethics of AI-Assisted PKM",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic Autonomy and the Ethics of AI-Assisted PKM]]",
+        "line_number": 592,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Epistemic Autonomy and the Ethics of AI-Assisted PKM]]",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 30: Future of PKM",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 30: Future of PKM]]",
+        "line_number": 593,
+        "section": "C. Expansion Topics",
+        "context_line": "> > As AI tools increasingly assist with note-taking, linking, and knowledge synthesis, new ethical questions arise about epistemic autonomy — the right and responsibility to form one's own beliefs through one's own reasoning. A dedicated report would examine: When AI suggestions are followed without evaluation, what epistemic character does this cultivate? What design principles govern epistemically responsible AI assistance in PKM? This topic connects directly to [[Report 30: Future of PKM]].",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "The Virtue of Intellectual Generosity — Sharing Knowledge Responsibly",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Virtue of Intellectual Generosity — Sharing Knowledge Responsibly]]",
+        "line_number": 595,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[The Virtue of Intellectual Generosity — Sharing Knowledge Responsibly]]",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Historical Epistemology — How Past Knowledge Shapes Present Knowing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Historical Epistemology — How Past Knowledge Shapes Present Knowing]]",
+        "line_number": 598,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Historical Epistemology — How Past Knowledge Shapes Present Knowing]]",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]",
+        "line_number": 607,
+        "section": "C. Expansion Topics",
+        "context_line": "*Next Report: [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]*",
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work",
+        "anchor": "report-29-ethical-pkm-intellectual-honesty-epistemic-responsibility-and-virtue-in-knowledge-work",
+        "line_number": 137,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Synthesis Focus",
+        "anchor": "phase-i-orientation-synthesis-focus",
+        "line_number": 139,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Moral Dimension We Overlooked",
+        "anchor": "the-moral-dimension-we-overlooked",
+        "line_number": 141,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Synthesis Question",
+        "anchor": "the-synthesis-question",
+        "line_number": 154,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Scope and Cross-Report Position",
+        "anchor": "scope-and-cross-report-position",
+        "line_number": 162,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Analytical Framework — Cross-Domain Foundations",
+        "anchor": "phase-ii-analytical-framework-cross-domain-foundations",
+        "line_number": 170,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Virtue Epistemology: Knowledge as a Character Achievement",
+        "anchor": "virtue-epistemology-knowledge-as-a-character-achievement",
+        "line_number": 172,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Stoic Ethics: The Duty of Examined Assent",
+        "anchor": "stoic-ethics-the-duty-of-examined-assent",
+        "line_number": 196,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Ethics of Belief: Clifford, James, and the Obligations of Credence",
+        "anchor": "the-ethics-of-belief-clifford-james-and-the-obligations-of-credence",
+        "line_number": 212,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Epistemic Justice: Whose Knowledge Counts?",
+        "anchor": "epistemic-justice-whose-knowledge-counts",
+        "line_number": 227,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Critical Examination of Evidence",
+        "anchor": "phase-iii-critical-examination-of-evidence",
+        "line_number": 249,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Empirical Case for Intellectual Vice as the Default",
+        "anchor": "the-empirical-case-for-intellectual-vice-as-the-default",
+        "line_number": 251,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Stoic Evidence: Philosophical Validation Across Cultures",
+        "anchor": "the-stoic-evidence-philosophical-validation-across-cultures",
+        "line_number": 270,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Epistemic Justice Evidence: Structural Sources of Bias",
+        "anchor": "the-epistemic-justice-evidence-structural-sources-of-bias",
+        "line_number": 277,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms, Dynamics, and Deep Synthesis",
+        "anchor": "phase-iv-mechanisms-dynamics-and-deep-synthesis",
+        "line_number": 297,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Mechanism of Confirmation Curation",
+        "anchor": "the-mechanism-of-confirmation-curation",
+        "line_number": 302,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Mechanism of Epistemic Cowardice",
+        "anchor": "the-mechanism-of-epistemic-cowardice",
+        "line_number": 317,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Stoic Mechanism: Vigilant Assent as Daily Practice",
+        "anchor": "the-stoic-mechanism-vigilant-assent-as-daily-practice",
+        "line_number": 326,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Return-and-Deepen: Calibration as Ethical Practice",
+        "anchor": "the-return-and-deepen-calibration-as-ethical-practice",
+        "line_number": 335,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Mechanism of Link Ethics",
+        "anchor": "the-mechanism-of-link-ethics",
+        "line_number": 344,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Mechanism of Epistemic Courage in the PKB",
+        "anchor": "the-mechanism-of-epistemic-courage-in-the-pkb",
+        "line_number": 351,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Implications for PKM/PKB Design",
+        "anchor": "phase-v-implications-for-pkmpkb-design",
+        "line_number": 373,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 1: The Epistemic Status Tier System",
+        "anchor": "design-principle-1-the-epistemic-status-tier-system",
+        "line_number": 375,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 2: The Disconfirmation Archive",
+        "anchor": "design-principle-2-the-disconfirmation-archive",
+        "line_number": 394,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 3: Link Typing and Epistemic Transparency",
+        "anchor": "design-principle-3-link-typing-and-epistemic-transparency",
+        "line_number": 403,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 4: Source Diversity Auditing",
+        "anchor": "design-principle-4-source-diversity-auditing",
+        "line_number": 420,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 5: The Belief Revision Log",
+        "anchor": "design-principle-5-the-belief-revision-log",
+        "line_number": 426,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Limitations and Honest Boundaries",
+        "anchor": "limitations-and-honest-boundaries",
+        "line_number": 432,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Integration, and Original Contribution",
+        "anchor": "phase-vi-synthesis-integration-and-original-contribution",
+        "line_number": 441,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Pulling the Threads Together",
+        "anchor": "pulling-the-threads-together",
+        "line_number": 443,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Question Revisited",
+        "anchor": "the-central-question-revisited",
+        "line_number": 449,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Open Questions",
+        "anchor": "open-questions",
+        "line_number": 469,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: PKB Connections & Cross-Report Links",
+        "anchor": "phase-vii-pkb-connections-cross-report-links",
+        "line_number": 475,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VIII: Appendix",
+        "anchor": "phase-viii-appendix",
+        "line_number": 500,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 502,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "B. References",
+        "anchor": "b-references",
+        "line_number": 537,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Expansion Topics",
+        "anchor": "c-expansion-topics",
+        "line_number": 582,
+        "source": "29-ethical-pkm-pkm-framework-2026-03-15.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Confirmation Bias",
+      "Critical Thinking Ethics",
+      "Dual-Process Theory",
+      "Epistemic Autonomy and the Ethics of AI-Assisted PKM",
+      "Epistemic Cowardice",
+      "Epistemic Justice",
+      "Epistemic Status",
+      "Epistemic Vigilance",
+      "Hindsight Bias",
+      "Historical Epistemology — How Past Knowledge Shapes Present Knowing",
+      "Illusion of Knowing",
+      "Metacognitive Monitoring",
+      "Motivated Reasoning",
+      "Myside Bias",
+      "Psychology of Self-Deception",
+      "Report 04",
+      "Report 04: Metacognitive Self-Regulation",
+      "Report 05",
+      "Report 07",
+      "Report 07: Critical Thinking as PKM Practice",
+      "Report 13: Emotional Regulation and Resilient Learning",
+      "Report 13: Emotional Regulation and Resilient Learning — Stoic Wisdom Meets Learning Science",
+      "Report 18",
+      "Report 18: Calibration and Epistemic Humility",
+      "Report 19: Sustaining Lifelong Learning",
+      "Report 21: Dialectical Knowledge Building",
+      "Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement",
+      "Report 27: The Complete PKM/PKB Design Framework",
+      "Report 28",
+      "Report 28: The Philosophy of Personal Knowledge",
+      "Report 30: Future of PKM",
+      "Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions",
+      "Self-Deception, Akrasia, and the Architecture of Epistemic Failure",
+      "Self-Determination Theory",
+      "Social Epistemology and PKB Practice — Individual Knowing in Social Context",
+      "Stoic Ethics",
+      "The Virtue of Intellectual Generosity — Sharing Knowledge Responsibly",
+      "Virtue Epistemology"
+    ],
+    "unique_wiki_link_count": 38,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "builds-on": [
+        "[[Report 01: Foundations of Knowledge Architecture]]",
+        "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]",
+        "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]",
+        "[[Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance]]",
+        "[[Report 08: Reflective Practice and Experiential Learning]]",
+        "[[Report 13: Emotional Regulation and Resilient Learning — Stoic Wisdom Meets Learning Science]]",
+        "[[Report 14: Inquiry-Based Knowledge Building — Socratic and Pragmatist Methods in PKM]]",
+        "[[Report 17: Note-Making as Knowledge Construction]]",
+        "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]",
+        "[[Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement]]",
+        "[[Report 22: Tacit Knowledge and the Limits of Capture]]",
+        "[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]",
+        "[[Report 27: The Complete PKM/PKB Design Framework]]",
+        "[[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Confirmation Bias",
+      "Critical Thinking Ethics",
+      "Dual-Process Theory",
+      "Epistemic Autonomy and the Ethics of AI-Assisted PKM",
+      "Epistemic Cowardice",
+      "Epistemic Justice",
+      "Epistemic Status",
+      "Epistemic Vigilance",
+      "Hindsight Bias",
+      "Historical Epistemology — How Past Knowledge Shapes Present Knowing",
+      "Illusion of Knowing",
+      "Metacognitive Monitoring",
+      "Motivated Reasoning",
+      "Myside Bias",
+      "Psychology of Self-Deception",
+      "Report 04",
+      "Report 04: Metacognitive Self-Regulation",
+      "Report 05",
+      "Report 07",
+      "Report 07: Critical Thinking as PKM Practice",
+      "Report 13: Emotional Regulation and Resilient Learning",
+      "Report 13: Emotional Regulation and Resilient Learning — Stoic Wisdom Meets Learning Science",
+      "Report 18",
+      "Report 18: Calibration and Epistemic Humility",
+      "Report 19: Sustaining Lifelong Learning",
+      "Report 21: Dialectical Knowledge Building",
+      "Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement",
+      "Report 27: The Complete PKM/PKB Design Framework",
+      "Report 28",
+      "Report 28: The Philosophy of Personal Knowledge",
+      "Report 30: Future of PKM",
+      "Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions",
+      "Self-Deception, Akrasia, and the Architecture of Epistemic Failure",
+      "Self-Determination Theory",
+      "Social Epistemology and PKB Practice — Individual Knowing in Social Context",
+      "Stoic Ethics",
+      "The Virtue of Intellectual Generosity — Sharing Knowledge Responsibly",
+      "Virtue Epistemology"
+    ]
+  }
+}

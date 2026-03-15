@@ -1,0 +1,2083 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-15T11:18:28.961863",
+    "source_file": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\_pkm-and-pkb-framework-1.0.0\\24-self-determined-learning-pkm-framework-2026-03-15.md",
+    "source_file_size_bytes": 94033,
+    "processing_time_seconds": 0.018
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "pkm-24-self-determined-learning-pedagogy-to-heutagogy-2026-03-15",
+      "doc_type": "permanent-note",
+      "doc_created": "2026-03-15",
+      "doc_modified": "2026-03-15",
+      "author": "claude-sonnet-4-6",
+      "primary_domain": "knowledge-management",
+      "secondary_domains": [
+        "educational-science",
+        "educational-philosophy",
+        "self-determined-learning",
+        "educational-psychology",
+        "cognitive-psychology",
+        "stoic-philosophy",
+        "knowledge-management",
+        "learning-experience-design"
+      ],
+      "analytical-focus": "How does the progression from Pedagogy (teacher-directed) to Andragogy (self-directed) to Heutagogy (self-determined) map onto PKB development stages — and what does each stage demand from PKB design? More fundamentally: what philosophical and psychological transformation must occur for a learner to become genuinely self-determining rather than merely self-directing, and how does a PKB either facilitate or obstruct that transformation?\n",
+      "framework-series-position": "Report 24 of 30 — Tier 3: Synthesis & Advanced Application",
+      "builds-on": [
+        "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]",
+        "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]",
+        "[[Report 08: Reflective Practice and Experiential Learning]]",
+        "[[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]",
+        "[[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]"
+      ],
+      "feeds-into": [
+        "[[Report 27: The Complete PKM/PKB Design Framework — Synthesizing Principles Across All Reports]]",
+        "[[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]",
+        "[[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]"
+      ],
+      "cross-report-dependencies": [
+        "[[Report 05: SDT internalization continuum, autonomy need, integrated regulation]]",
+        "[[Report 10: PAH spectrum mechanics, scaffolding/fading, expertise reversal]]",
+        "[[Report 19: Interest deepening, identity consolidation, heutagogical reference]]",
+        "[[Report 04: Metacognitive regulation, SRL, Zimmerman's cycles]]"
+      ],
+      "status": "evergreen",
+      "maturity": "highly-developed",
+      "confidence": "high",
+      "knowledge_level": "advanced",
+      "tags": [
+        "pkm-framework",
+        "educational-science/heutagogy",
+        "educational-science/andragogy",
+        "educational-science/pedagogy",
+        "self-determined-learning",
+        "educational-philosophy/constructivism",
+        "educational-philosophy/pragmatism",
+        "self-determination-theory/integration",
+        "double-loop-learning",
+        "capability-development",
+        "knowledge-ecology",
+        "learning-identity",
+        "pkb-design/epistemological-architecture",
+        "pkb-design/heutagogical",
+        "report-24"
+      ],
+      "analytical-contributions": {
+        "analytical_insight": 5,
+        "what_the_evidence_suggests": 3,
+        "tension_identified": 3,
+        "cross_domain_connection": 4,
+        "original_synthesis": 3
+      },
+      "related-concepts": [
+        "[[Heutagogy]]",
+        "[[Andragogy]]",
+        "[[Pedagogy]]",
+        "[[Self-Determination Theory]]",
+        "[[Integrated Regulation]]",
+        "[[Capability Development]]",
+        "[[Competency Development]]",
+        "[[Double-Loop Learning]]",
+        "[[Single-Loop Learning]]",
+        "[[Knowledge Ecology]]",
+        "[[Learning Identity]]",
+        "[[Epistemic Agency]]",
+        "[[Argyris & Schön]]",
+        "[[Transformative Learning]]",
+        "[[Jack Mezirow]]",
+        "[[Hase & Kenyon]]",
+        "[[Malcolm Knowles]]",
+        "[[Socratic Self-Examination]]",
+        "[[PAH Continuum]]",
+        "[[Self-Regulated Learning]]",
+        "[[Metacognitive Autonomy]]",
+        "[[Reflective Practice]]",
+        "[[Correspondence Theory of Knowledge]]",
+        "[[Constructivist Epistemology]]",
+        "[[Pragmatist Epistemology]]",
+        "[[Lifelong Learning Identity]]",
+        "[[Personal Knowledge Base]]",
+        "[[PKM Design Principles]]",
+        "[[Obsidian]]",
+        "[[Emergent Knowledge Structure]]"
+      ],
+      "aliases": [
+        "[[PKM Report 24]]",
+        "[[Heutagogy and PKB Design]]",
+        "[[Self-Determined Learning PKB]]"
+      ],
+      "summary": "Report 24 synthesizes the Pedagogy-Andragogy-Heutagogy (PAH) continuum (educational science), Self-Determination Theory (educational psychology), Double-Loop Learning (Argyris & Schön), Transformative Learning Theory (Mezirow), and Socratic philosophical self-examination to address the deepest question in PKB design: what must change — philosophically, psychologically, and architecturally — for a learner to become genuinely self-determining rather than merely self-directing? The report's central argument is that the move from andragogy to heutagogy is not quantitative (more self-direction) but qualitative: it involves an epistemological shift from a correspondence theory (there is correct knowledge to acquire) to a constructivist-emergentist theory (knowledge is created through inquiry), which demands a fundamentally different PKB architecture. The report's original contribution — the Knowledge Ecology Model — proposes that the heutagogical PKB functions not as a managed system but as a self-organizing intellectual ecosystem in which the user's learning agenda itself becomes an emergent property rather than a prior design decision. Three PKB design stages (Pedagogical PKB, Andragogical PKB, Heutagogical PKB) are developed with specific Obsidian implementation guidance, and the critical concept of double-loop PKB design — supporting not just learning but meta-learning — is introduced as the distinguishing architectural feature of the heutagogical stage."
+    },
+    "word_count": 12046,
+    "character_count": 87852,
+    "line_count": 456,
+    "heading_count": 32
+  },
+  "extraction_summary": {
+    "total_items_extracted": 171,
+    "by_type": {
+      "headings": 32,
+      "callouts": 74,
+      "wiki_links": 64,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 1,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy",
+      "anchor": "report-24-self-determined-learning-and-the-pkb-from-pedagogy-to-heutagogy",
+      "line_number": 139,
+      "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Synthesis Focus",
+          "anchor": "phase-i-orientation-synthesis-focus",
+          "line_number": 145,
+          "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Synthesis Question",
+              "anchor": "the-synthesis-question",
+              "line_number": 156,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Scope and Cross-Domain Preview",
+              "anchor": "scope-and-cross-domain-preview",
+              "line_number": 164,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Roadmap",
+              "anchor": "roadmap",
+              "line_number": 172,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Analytical Framework — Cross-Domain Foundations",
+          "anchor": "phase-ii-analytical-framework-cross-domain-foundations",
+          "line_number": 178,
+          "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The PAH Continuum: Beyond the Common Misunderstanding",
+              "anchor": "the-pah-continuum-beyond-the-common-misunderstanding",
+              "line_number": 180,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Self-Determination Theory's Regulatory Continuum",
+              "anchor": "self-determination-theorys-regulatory-continuum",
+              "line_number": 196,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Capability vs. Competency: The Critical Distinction",
+              "anchor": "capability-vs-competency-the-critical-distinction",
+              "line_number": 206,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Double-Loop Learning: The Mechanism of Genuine Self-Determination",
+              "anchor": "double-loop-learning-the-mechanism-of-genuine-self-determination",
+              "line_number": 216,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Critical Examination of Evidence",
+          "anchor": "phase-iii-critical-examination-of-evidence",
+          "line_number": 236,
+          "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Heutagogy Research Base",
+              "anchor": "the-heutagogy-research-base",
+              "line_number": 238,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms, Dynamics & Deep Synthesis",
+          "anchor": "phase-iv-mechanisms-dynamics-deep-synthesis",
+          "line_number": 286,
+          "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Mechanism 1: The Internalization Engine",
+              "anchor": "mechanism-1-the-internalization-engine",
+              "line_number": 291,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Mechanism 2: The Schema-to-Capability Transformation",
+              "anchor": "mechanism-2-the-schema-to-capability-transformation",
+              "line_number": 302,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Mechanism 3: Double-Loop Learning as Heutagogical Cognition",
+              "anchor": "mechanism-3-double-loop-learning-as-heutagogical-cognition",
+              "line_number": 311,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Mechanism 4: The Socratic Prerequisite",
+              "anchor": "mechanism-4-the-socratic-prerequisite",
+              "line_number": 320,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Mechanism 5: The Knowledge Ecology Emergence",
+              "anchor": "mechanism-5-the-knowledge-ecology-emergence",
+              "line_number": 329,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Implications for PKB Design & Limitations",
+          "anchor": "phase-v-implications-for-pkb-design-limitations",
+          "line_number": 351,
+          "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Three PKB Design Stages",
+              "anchor": "three-pkb-design-stages",
+              "line_number": 353,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Limitations and Honest Boundaries",
+              "anchor": "limitations-and-honest-boundaries",
+              "line_number": 381,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Integration & Original Contribution",
+          "anchor": "phase-vi-synthesis-integration-original-contribution",
+          "line_number": 402,
+          "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Central Question Revisited",
+              "anchor": "the-central-question-revisited",
+              "line_number": 404,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Return and Deepen: Two Concepts Revisited",
+              "anchor": "return-and-deepen-two-concepts-revisited",
+              "line_number": 414,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Knowledge Ecology Model: Full Articulation",
+              "anchor": "the-knowledge-ecology-model-full-articulation",
+              "line_number": 420,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Unresolved Questions",
+              "anchor": "unresolved-questions",
+              "line_number": 430,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: PKB Connections & Cross-Report Links",
+          "anchor": "phase-vii-pkb-connections-cross-report-links",
+          "line_number": 436,
+          "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase VIII: Appendix",
+          "anchor": "phase-viii-appendix",
+          "line_number": 463,
+          "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 465,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. References",
+              "anchor": "b-references",
+              "line_number": 514,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Methodology and Sources Note",
+              "anchor": "c-methodology-and-sources-note",
+              "line_number": 554,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. Expansion Topics",
+              "anchor": "d-expansion-topics",
+              "line_number": 561,
+              "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Before You Begin: Locating Yourself on the Continuum",
+        "body": "Before reading further, consider these three questions and note your honest answers. First: when you add a note to your PKB, are you primarily recording something a curriculum, course, or external source has defined as worth knowing — or are you following your own sense of what matters? Second: do you revise the *structure* of your PKB based on how your thinking has changed, or does the structure remain relatively fixed? Third: can you articulate, in two or three sentences, a learning philosophy — a principled account of why you learn what you learn and how you decide what to learn next? Your answers to these three questions locate you on the continuum this report maps.",
+        "line_number": 153,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 7550,
+        "char_end": 8311
+      },
+      {
+        "type": "definition",
+        "title": "Pedagogy (Educational Science — historically traced to classical antiquity, formalized by Comeniusand modern curriculum theory)",
+        "body": "Literally \"leading the child\" — originally both descriptive and prescriptive of instruction in which an expert (teacher, curriculum, institution) determines what should be learned, how it should be sequenced, and how it should be assessed. In contemporary educational science, pedagogy is not restricted to children but describes any educational arrangement in which the locus of control over learning objectives and pathways resides primarily with a source external to the learner. The learner in a pedagogical arrangement is in what SDT would term [[External Regulation]]: they engage with learning because of external obligation, institutional structure, or incentive. The *implicit theory of knowledge* embedded in pedagogical design is what philosophers call a [[Correspondence Theory]]: there is correct knowledge that exists independently of the learner, and the purpose of education is to transmit it accurately. The PKB designed for pedagogical learning is fundamentally an archive and retrieval system — a structured repository for content defined by external sources.",
+        "line_number": 184,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 13093,
+        "char_end": 14322
+      },
+      {
+        "type": "definition",
+        "title": "Andragogy (Educational Science/Adult Education — Malcolm Knowles, 1968, 1980)",
+        "body": "Self-directed learning: Malcolm Knowles's formalization of the claim that adult learners differ from children in six key assumptions — they have an independent self-concept, accumulated experience as a learning resource, readiness linked to developmental tasks, a problem-centered orientation to learning, internal rather than external motivation, and the need to know why they are learning something before committing to it. Crucially, andragogy does not abolish structure or guidance — it shifts the locus of decision-making. The learner in an andragogical arrangement decides what to learn, when, and in what order, but still operates within a broadly pre-defined space of what is worth knowing (a field, a profession, a body of literature). The *implicit theory of knowledge* in andragogical design is broadly [[Pragmatist]]: knowledge is what works, what solves real problems, what connects to experience. The PKB designed for andragogical learning is a curated resource and thinking tool — organized around the learner's goals but within an established knowledge landscape.",
+        "line_number": 187,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 14323,
+        "char_end": 15503
+      },
+      {
+        "type": "definition",
+        "title": "Heutagogy (Educational Science — Hase & Kenyon, 2000, 2007; Blaschke, 2012)",
+        "body": "Self-determined learning: Hase and Kenyon's extension beyond andragogy to describe learning in which the learner not only directs their learning process (andragogy) but also determines the competencies they wish to develop, the pathways to develop them, and — critically — reflects on and redesigns the learning process itself. Heutagogy introduces a distinction central to this report: **[[Capability]]** versus **[[Competency]]**. Competency is mastery of a defined, known skill or body of knowledge; it is backward-looking, measured against established standards. Capability is the capacity to apply knowledge and skills flexibly, creatively, and effectively in novel, unknown situations — it is forward-looking, oriented toward an unknowable future. Heutagogy argues that the ultimate goal of lifelong learning is capability development, not competency accumulation, and that the educational systems designed to produce competency systematically obstruct capability. The *implicit theory of knowledge* in heutagogical design is [[Constructivist-Emergentist]]: knowledge is not transmitted or even curated — it is actively created through inquiry, and the most important knowledge emerges from the inquiry process itself rather than preceding it.",
+        "line_number": 190,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 15504,
+        "char_end": 16852
+      },
+      {
+        "type": "key-claim",
+        "title": "The PAH Continuum as Epistemological Shift, Not Scaffolding Gradient",
+        "body": "The deepest claim of this report: the progression from pedagogy to andragogy to heutagogy is not primarily a matter of how much structure a learner needs. It is a matter of what theory of knowledge is operative. Each stage embodies a different epistemological stance — a different answer to the question \"What is knowledge, and how do I relate to it?\" A PKB that treats heutagogical learners as andragogical learners who need less scaffolding misses this entirely. The heutagogical PKB requires not just less structure but differently structured structure — architecture organized around emergent inquiry, capability development, and meta-learning rather than around curated content and goal-pursuit.",
+        "line_number": 193,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 16853,
+        "char_end": 17644
+      },
+      {
+        "type": "definition",
+        "title": "SDT's Regulatory Continuum (Educational Psychology — Deci & Ryan, OIT)",
+        "body": "SDT identifies six points on a continuum of behavioral regulation: **(1) Amotivation** — no motivation, no engagement; **(2) External Regulation** — behavior driven by reward/punishment; **(3) Introjected Regulation** — behavior driven by internalized pressure, ego-involvement, shame; **(4) Identified Regulation** — behavior aligned with personally valued goals, though instrumentally pursued; **(5) Integrated Regulation** — behavior fully assimilated into one's core identity and values, experienced as an authentic expression of self; **(6) Intrinsic Motivation** — behavior engaged in for its inherent enjoyment, curiosity, or satisfaction. The pedagogical learner typically operates at External or Introjected Regulation. The andragogical learner operates at Identified or Integrated Regulation. The heutagogical learner has fully integrated learning into their identity — they do not decide to learn because it serves goals; learning is simply how they are.",
+        "line_number": 200,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 18042,
+        "char_end": 19101
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "PAH and SDT: Two Languages for the Same Developmental Arc",
+        "body": "The structural parallel between the PAH continuum and SDT's internalization continuum is not accidental — both describe what is, at root, the same developmental transformation in the learner's relationship to learning. What educational science calls the shift from pedagogy to heutagogy, SDT calls the shift from external regulation to integrated regulation. What Hase & Kenyon describe as the emergence of capability, SDT describes as the emergence of autonomous motivation untied to specific outcome achievement. Recognizing this parallel is analytically productive because each tradition illuminates what the other cannot fully articulate: SDT explains the *motivational mechanics* of why the transition occurs (basic psychological need satisfaction drives internalization); heutagogy explains the *epistemological consequences* of the transition (the nature of knowledge itself changes for the fully self-determined learner). Together, they offer a complete account where neither tradition alone is sufficient.",
+        "line_number": 203,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 19102,
+        "char_end": 20210
+      },
+      {
+        "type": "definition",
+        "title": "Competency (Hase & Kenyon; also: Behaviorist/Cognitivist traditions)",
+        "body": "Mastery of a defined, known, measurable skill or knowledge domain. Competency is always backward-looking: it is assessed against pre-existing standards, measured by performance on known task types, and validated by external authority. Competency development is the natural target of pedagogical and andragogical education: teach learners what is known to be worth knowing, measure whether they know it, certify their mastery. The PKB optimized for competency looks like a well-organized subject-matter archive — tagged, categorized, reviewable, and retrievable against known knowledge areas.",
+        "line_number": 210,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 20450,
+        "char_end": 21133
+      },
+      {
+        "type": "definition",
+        "title": "Capability (Hase & Kenyon, 2000; also: Nussbaum & Sen's Capabilities Approach)",
+        "body": "The capacity to apply knowledge, skills, and understanding flexibly, creatively, and effectively in novel, unpredictable situations not previously encountered. Capability is always forward-looking: it cannot be pre-specified (you cannot define the exact capability needed for situations that don't yet exist), cannot be measured against fixed standards (there are no standards for genuinely novel situations), and is validated through creative adaptation rather than test performance. Capability development is the natural target of heutagogical education: develop learners who can learn whatever they need to learn when they need to learn it, in domains that may not yet exist. The PKB optimized for capability looks fundamentally different — it emphasizes the *process of knowing* (inquiry patterns, question generation, connection-making) over the *products of knowing* (stored content and categorized facts).",
+        "line_number": 213,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 21134,
+        "char_end": 22148
+      },
+      {
+        "type": "definition",
+        "title": "Single-Loop Learning vs. Double-Loop Learning (Argyris & Schön, 1978)",
+        "body": "Argyris and Schön distinguished two fundamentally different ways of learning from experience. **Single-loop learning** detects and corrects errors within an existing framework of goals, values, and strategies — it modifies behavior without questioning the assumptions that generated the problematic behavior. **Double-loop learning** questions the governing variables themselves — the goals, values, theories, and strategies that shape behavior — and modifies those when they are found to be generating persistent problems or insufficient outcomes. The difference is structural: single-loop learning says \"how can I do this better?\" Double-loop learning says \"should I be doing this at all, and if so, why, and with what theory of what success means?\" Single-loop learning is the mechanism of competency improvement. Double-loop learning is the mechanism of capability development. A PKB limited to single-loop design (improving retrieval efficiency, note quality, review frequency) supports andragogical learning. A PKB that incorporates double-loop design (questioning whether the right things are being captured, whether the organizational logic is coherent with how knowledge is actually used, whether the learning goals themselves are the right goals) is structurally heutagogical.",
+        "line_number": 220,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 22454,
+        "char_end": 23833
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Single-Loop or Double-Loop?",
+        "body": "Examine your last three significant changes to your PKB system. Were they improvements *within* your existing organizational logic (better tags, cleaner folders, improved templates) — or were they structural revisions that questioned and altered the organizing principles themselves? Single-loop changes are about efficiency within a fixed framework. Double-loop changes are about reconceiving the framework. Most PKM literature focuses almost entirely on single-loop improvement. This report is primarily about how to build a PKB that supports double-loop learning.",
+        "line_number": 223,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 23834,
+        "char_end": 24458
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Framework",
+        "body": "**Comprehension**: Which of the three distinctions introduced here — PAH as epistemological shift rather than scaffolding gradient, Capability vs. Competency, or Single-Loop vs. Double-Loop Learning — challenges a previously held assumption about PKB design most strongly? Name the assumption that is challenged.\n\n**Application**: Looking at your current PKB, which of the three stages (Pedagogical, Andragogical, Heutagogical) does its architecture most clearly reflect? What evidence leads you to that assessment?\n\n**Extension**: If the heutagogical PKB is organized around capability rather than competency, what would that concretely mean for how you decide what to add to your notes? What would stop making sense? What would start making sense?",
+        "line_number": 226,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 24459,
+        "char_end": 25265
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — Before",
+        "body": "Before engaging with the evidence, note your prior assumption: do you believe that self-determined learning is the most effective form of learning for adults, or do you hold reservations? What is your confidence in that belief (1-10)? What evidence would most likely revise your view?",
+        "line_number": 242,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 25734,
+        "char_end": 26073
+      },
+      {
+        "type": "evidence",
+        "title": "Hase & Kenyon (2000, 2007) — The Original Heutagogy Research",
+        "body": "Hase and Kenyon's foundational papers established three core empirical claims. First: that graduates from conventional competency-focused programs systematically underperformed in novel professional environments compared to what their assessments predicted — a finding that replicated across vocational, nursing, and management education contexts. Second: that learners who had developed what they termed \"self-determined learning capacity\" — the ability to identify their own learning needs, create their own learning pathways, and evaluate their own progress — showed superior adaptive performance even when their formal competency scores were lower. Third: that the critical variable distinguishing these high-capability learners was not knowledge quantity or skill level but metacognitive sophistication — specifically, the ability to monitor their own learning process and redesign it when it was not working. This third finding directly anticipates the double-loop learning connection developed in Phase IV.",
+        "line_number": 247,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 26798,
+        "char_end": 27893
+      },
+      {
+        "type": "evidence",
+        "title": "Blaschke (2012) — Heutagogy and Lifelong Learning",
+        "body": "Lisa Marie Blaschke's (2012) synthesis of the first decade of heutagogy research added crucial specificity. Blaschke documented that heutagogical learning environments consistently produced three outcomes that competency-based environments did not: (1) **Proactive agency** — learners didn't wait to be given learning tasks but generated their own based on their developing sense of what they needed; (2) **Reflective redesign** — learners regularly revised not just their knowledge but their approach to learning, asking whether their current strategy was the right one; (3) **Collaborative knowledge construction** — contrary to the assumption that self-determination means solo learning, heutagogical learners consistently sought out dialogue, peer engagement, and community as generative rather than merely supportive resources. This third finding is crucial for PKB design: a genuinely heutagogical PKB cannot be exclusively a personal archive. It must find ways to accommodate the dialogical, relational dimension of self-determined knowing.",
+        "line_number": 250,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 27894,
+        "char_end": 29012
+      },
+      {
+        "type": "evidence",
+        "title": "Knowles (1980); Merriam (2001) — The Andragogy Evidence",
+        "body": "Knowles's assumption that adults are \"ready to learn\" what their developmental tasks require them to learn was among the most empirically supported of his six. Research consistently showed that adult learners engage most deeply with content that is directly relevant to their current life situation — a finding that aligns with SDT's concept of identified regulation and with the pragmatist theory of knowledge embedded in andragogy. What Merriam's comprehensive review clarified, however, was that \"relevance\" is itself a developmental achievement: novice adult learners often cannot identify what is relevant to them because they lack the domain understanding to see connections between content and application. The andragogical stance — problem-centered, experience-grounded, self-directed — presupposes a background of domain competence sufficient to make self-direction possible. Below that threshold, andragogical design can produce frustration and disorientation rather than autonomous engagement.",
+        "line_number": 257,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 29804,
+        "char_end": 30885
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The PAH Evidence Converges on a Non-Linear Developmental Model",
+        "body": "Reading the heutagogy and andragogy research together, what the combined evidence suggests is not a linear sequence — first pedagogical, then andragogical, then heutagogical — but a domain-specific, recursive developmental model. A learner may be heutagogical in their primary expertise domain, andragogical in a secondary domain they are developing, and pedagogical in a domain they are encountering for the first time — simultaneously. This has a profound implication for PKB design: the same PKB must be able to support all three modes simultaneously across different topic areas. A single uniform architecture — either fully structured (pedagogical) or fully open (heutagogical) — will necessarily serve the user poorly in at least some of their domains.",
+        "line_number": 260,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 30886,
+        "char_end": 31746
+      },
+      {
+        "type": "evidence",
+        "title": "Argyris & Schön (1978); Argyris (1991) — Double-Loop Learning Research",
+        "body": "Argyris and Schön's research across professional organizations consistently found that practitioners who were technically skilled (high competency) frequently had poor outcomes in novel or ambiguous situations — not because they lacked knowledge, but because they were applying knowledge acquired in stable contexts to unstable situations without questioning whether that knowledge was appropriate. The critical finding: double-loop learning was rare not because practitioners were incapable of it, but because their professional environments — and their own cognitive habits — actively discouraged it. Practitioners who asked \"are we doing the right thing?\" were perceived as disruptive; those who asked only \"how do we do this better?\" were perceived as productive. Argyris called this \"skilled incompetence\" — the ability to execute established strategies flawlessly while being systematically unable to question whether those strategies should be executed at all. For PKB design: a PKB that only supports getting better at existing practices (better retrieval, better review, better note quality) is designing for skilled incompetence at the meta-learning level.",
+        "line_number": 267,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 32287,
+        "char_end": 33545
+      },
+      {
+        "type": "evidence",
+        "title": "Mezirow (1991, 2000) — Transformative Learning Theory",
+        "body": "Jack Mezirow's [[Transformative Learning Theory]] describes a process closely related to double-loop learning but at the level of meaning-making: the revision of \"meaning perspectives\" — the assumptions, beliefs, and expectations through which experience is interpreted. Mezirow argued that adult learning's deepest and most consequential form is not the acquisition of new information but the revision of the interpretive frameworks through which information is understood. A transformative learning event is one that causes the learner to question not just their knowledge but the cognitive categories they use to organize knowledge. The evidence from Mezirow's extensive research across adult education contexts documented that transformative events were most commonly triggered by \"disorienting dilemmas\" — experiences of dissonance between expectations and reality that cannot be resolved by adding new information within existing frameworks. For PKB design, this implies that genuinely heutagogical note-making must include active creation of disorienting dilemma records — notes about where one's understanding was fundamentally disrupted, and what reorganization of understanding that disruption required.",
+        "line_number": 270,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 33546,
+        "char_end": 34834
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Relational Paradox: Heutagogy Requires Community but PKBs Are Personal",
+        "body": "Blaschke's research finding that heutagogical learners consistently sought collaborative, dialogical engagement creates a genuine tension for PKB design. A PKB is, by definition, *personal* — it is the individual's knowledge archive. Yet genuine self-determination, as the evidence shows, is not a solo achievement. It is developed and sustained in relation: through dialogue that challenges assumptions, through community that broadens the range of questions one's knowledge must answer, through the experience of having one's frameworks disrupted by perspectives that one's solo inquiry could not generate. The pedagogical and andragogical PKB can legitimately focus on solo learning — the teacher provides external challenge in pedagogy; the learner's goals provide direction in andragogy. But the heutagogical PKB must find structural ways to accommodate dialogical knowledge construction — not as an add-on but as a first-class design feature.",
+        "line_number": 273,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 34835,
+        "char_end": 35889
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Evidence",
+        "body": "**Comprehension**: Which piece of evidence most significantly shifts your thinking about what heutagogical PKB design requires? The capability/competency research? The double-loop finding? The relational paradox?\n\n**Application**: Does your current PKB include any structural features that support double-loop learning — that prompt you to question whether you are learning the right things, not just how to learn them better? If not, what would the simplest such feature look like?\n\n**Extension**: Consider the concept of \"skilled incompetence\" applied to PKM. What established PKB practices might constitute skilled incompetence — efficient execution of strategies that prevent the deeper learning they appear to support?",
+        "line_number": 276,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 35890,
+        "char_end": 36669
+      },
+      {
+        "type": "important",
+        "title": "Complexity Transition: The Mechanisms Beneath the Continuum",
+        "body": "Phase III documented what the evidence shows. Phase IV moves beneath the evidence to the causal mechanisms — the processes that explain *why* the PAH progression occurs, what psychological and epistemological transformations it requires, and how Double-Loop Learning, SDT's internalization mechanics, Transformative Learning, and Socratic self-examination combine to produce a unified account of what genuine self-determination actually is. This is the densest analytical section of the report, and it contains the cross-domain integrations that generate the PKB design implications in Phase V.",
+        "line_number": 288,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 36727,
+        "char_end": 37403
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The PKB's Role in Need Satisfaction: Active, Not Passive",
+        "body": "A finding that standard PKM discourse consistently underestimates: the PKB is not a neutral repository that records learning irrespective of motivational context. Its architecture actively shapes need satisfaction. A PKB with rigid hierarchical folders and fixed mandatory templates creates *extrinsic regulation cues* — the structure tells the learner what counts as a valid note, what categories matter, what good capturing looks like. This can satisfy the competence need (doing the system correctly) while actively frustrating the autonomy need (the sense of self-determined direction). Conversely, a PKB with no structure at all satisfies autonomy but may frustrate competence (the learner cannot tell if they are using the system well). The internalization mechanism implies that the architecturally optimal PKB is one that provides *autonomy-supportive structure* — structure that the learner has generated for themselves through reflection, that they experience as their own rather than as externally imposed, and that remains revisable in response to their evolving sense of what matters.",
+        "line_number": 299,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 39338,
+        "char_end": 40523
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Mezirow's Perspective Transformation and Hase's Capability: Converging on the Same Mechanism",
+        "body": "Mezirow's perspective transformation and Hase & Kenyon's capability development are describing the same cognitive event from different disciplinary angles. Mezirow, from adult education, identifies the psychological mechanism: the revision of meaning frameworks through disorienting encounter with material that existing frameworks cannot accommodate. Hase & Kenyon, from educational science, identify the developmental outcome: the capacity to apply understanding flexibly in novel situations. The connection is that capability emerges precisely as a consequence of repeated perspective transformation — learners who have repeatedly encountered and processed experiences that required them to revise their foundational assumptions develop the meta-cognitive fluency to do this more readily, more willingly, and more productively. They have, in effect, become skilled at having their frameworks disrupted. This meta-competence — comfort with framework disruption — is what capability actually is.",
+        "line_number": 308,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 42047,
+        "char_end": 43172
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Argyris-Schön Gap in PKM Literature: Almost No PKM Advice Supports Double-Loop Learning",
+        "body": "Examining the PKM literature broadly — from the Zettelkasten tradition through Building a Second Brain through Linking Your Thinking — a striking pattern emerges: virtually all PKM advice operates at the single-loop level. It offers strategies for doing PKM better: better capture, better review, better linking, better templating. It almost never asks the double-loop question: should you be doing *this kind* of PKM at all? What are the foundational assumptions of your system, and are they correct? What would it mean to discover that your entire organizational logic was optimizing for the wrong outcome? The absence of double-loop architecture in virtually all PKM systems — including the most sophisticated ones — suggests that PKM has systematically evolved as an andragogical practice even as its proponents describe it in terms that aspire to something more fully self-determined.",
+        "line_number": 317,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 44117,
+        "char_end": 45129
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Socratic Elenchus and Argyris's Double-Loop: The Same Cognitive Demand Across 2,500 Years",
+        "body": "The parallel between Socrates' *elenchus* and Argyris's double-loop learning is not decorative — it is structural. Both identify the same cognitive requirement: the ability to step outside one's current beliefs and strategies and examine them as objects of inquiry rather than as transparent windows onto reality. Socrates prescribed this as a daily practice (\"the unexamined life is not worth living\"). Argyris documented that professional effectiveness breaks down when this practice is absent. For PKB design, the synthesis is actionable: genuine self-determination requires structural embedding of Socratic self-examination within the PKB workflow — not occasional reflection but a systematic practice of questioning one's current organizing assumptions, a regularly scheduled encounter with the double-loop question.",
+        "line_number": 326,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 46155,
+        "char_end": 47102
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Knowledge Ecology Model: Original Synthesis",
+        "body": "Integrating Hase & Kenyon's capability orientation, Argyris & Schön's double-loop framework, complexity theory's account of emergent systems, and SDT's integrated regulation, I propose the **Knowledge Ecology Model** as the organizing framework for heutagogical PKB design. In this model, a mature heutagogical PKB functions not as a system (a designed structure with specified inputs, processes, and outputs) but as an ecology (a self-organizing, dynamic, co-evolving network in which the properties of the whole emerge from interactions among elements that none of the elements individually determine). The ecological metaphor is not rhetorical — it carries specific architectural implications. An ecology is characterized by: (1) **Diversity**: multiple different note types, organizational logics, and knowledge registers coexist rather than a single taxonomy dominating; (2) **Interconnection**: the value of any element is a function of its relationships, not its individual content; (3) **Emergence**: the most valuable insights arise from unexpected connections rather than from deliberate synthesis; (4) **Self-organization**: the overall structure evolves in response to use rather than being fixed by design; (5) **Resilience through redundancy**: multiple pathways to any node mean that the loss of any single node does not impoverish the system catastrophically. A PKB architected as an ecology is not a loosely organized mess — it is a deliberately cultivated diversity with strategic interconnection and disciplined emergence protocols (regular review of connection patterns, not just content).",
+        "line_number": 335,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 48576,
+        "char_end": 50264
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Ecology-Archive Tension: Can a PKB Be Both?",
+        "body": "The ecological model creates a genuine tension with one of the PKB's other essential functions: archival reliability. An ecology optimized for emergence may be poorly organized for retrieval. A system that is self-organizing may be difficult to navigate when you need a specific piece of information under time pressure. The ecological PKB and the archival PKB are, to some degree, pulling in opposite directions. This tension cannot be dissolved by choosing one at the expense of the other — a PKB that fails as an archive loses its most basic function; a PKB that fails as an ecology never achieves its highest function. The resolution is architectural: the heutagogical PKB requires two overlapping organizational logics — a stable archival layer (well-tagged, well-titled, reliably retrievable) co-existing with a dynamic ecological layer (connection networks, emergent clusters, question-driven pathways that cross and recombine archival categories). Obsidian's graph view and [[Canvas]] feature are the closest existing tools for navigating the ecological layer, while standard note organization handles the archival layer.",
+        "line_number": 338,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 50265,
+        "char_end": 51473
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Mechanisms",
+        "body": "**Comprehension**: Which mechanism is the most surprising? The internalization engine, perspective transformation, double-loop cognition, the Socratic prerequisite, or ecological emergence? What makes it surprising — what did you assume before encountering it?\n\n**Application**: Can you identify a moment in your own PKB practice that functioned as double-loop learning — a moment when you questioned not just what you knew but whether your organizing framework was right? What triggered it? What changed as a result?\n\n**Extension**: If your PKB were to become genuinely ecological — if it began generating questions you had not planned to ask — what would the first sign of that be? What structural feature would make that emergence more likely?",
+        "line_number": 341,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 51474,
+        "char_end": 52278
+      },
+      {
+        "type": "best-practice",
+        "title": "Pedagogical PKB: Obsidian Implementation",
+        "body": "In Obsidian, a Pedagogical PKB is characterized by: structured folder hierarchies that mirror the domain's established categories (matching the textbook, course, or field's organizational logic); mandatory templates for primary note types (ensuring consistency and completeness against external standards); explicit MOC (Map of Content) notes organized by subject area; and a review workflow focused on comprehension verification against source material. The key design principle: make the external organizational logic legible within the PKB so the learner can navigate it reliably. This is not inferior design — it is appropriate design for the Pedagogical stage. The mistake is leaving the PKB in this stage when the learner has developed sufficient domain understanding to begin self-directing.",
+        "line_number": 361,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 53355,
+        "char_end": 54220
+      },
+      {
+        "type": "best-practice",
+        "title": "Andragogical PKB: Obsidian Implementation",
+        "body": "The Andragogical transition in Obsidian is marked by: the emergence of project-based organization alongside or replacing subject-based organization; [[MOC]] notes that are self-generated rather than curriculum-derived; a shift from capture templates to synthesis templates (notes that integrate multiple sources around the learner's own question); growing use of [[Dataview]] queries and graph clusters organized around the learner's current intellectual projects; and regular restructuring of the organizational scheme as projects evolve. The key design principle: the PKB should be organized around *what the learner is trying to figure out*, not *what external sources have defined as the field's structure*. This shift is not merely cosmetic — it reflects the andragogical epistemological stance that knowledge is what is useful to one's current inquiry, not what is correctly organized by established taxonomies.",
+        "line_number": 368,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 55010,
+        "char_end": 55995
+      },
+      {
+        "type": "best-practice",
+        "title": "Heutagogical PKB: Obsidian Implementation",
+        "body": "The Heutagogical PKB in Obsidian includes: a dedicated **Meta-Learning Layer** — a section of the vault containing not content notes but process notes: epistemology notes recording the learner's evolving theory of knowledge, assumption audit notes documenting challenged and revised frameworks, and periodic \"double-loop reviews\" asking not \"what did I learn?\" but \"is my learning agenda the right one?\"; **Emergence Monitoring** — regular reviews of the graph view not for retrieval but for pattern recognition (what clusters are emerging that I did not plan? What connections are forming between domains I thought were separate?); **Capability vs. Competency Tracking** — a distinction in the vault between competency notes (mastery of defined skills) and capability notes (understanding that has enabled adaptation in novel situations, with specific instances recorded); **Dialogical Input Nodes** — a structured way to incorporate challenges from other thinkers, dialogue partners, or even Claude into the PKB, preserving the relational dimension of heutagogical learning; and **Assumption Audit Protocols** — scheduled (monthly or quarterly) reviews of foundational organizing assumptions, asking whether the PKB's current structure reflects current thinking or has calcified into an outdated representation.",
+        "line_number": 375,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 56721,
+        "char_end": 58102
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Transition Triggers Are Not Time-Based",
+        "body": "A common misconception: transitions between PKB stages occur after a set period of PKM practice. The evidence from both the heutagogy research and the expertise development literature suggests that transitions are triggered not by time but by specific developmental conditions. The Pedagogical-to-Andragogical transition is triggered when the learner has sufficient domain competence to identify their own gaps and sufficient experience to see cross-source patterns — typically when they notice that the external taxonomy no longer captures the distinctions that matter to their specific inquiry. The Andragogical-to-Heutagogical transition is triggered when the learner encounters a persistent disorienting dilemma that cannot be resolved by adding more content within the existing framework — when they begin asking not \"what is the answer?\" but \"is this the right question?\" These transition triggers can be embedded as explicit prompts in the PKB: \"What is this taxonomy failing to capture?\" and \"What assumption am I making about what is worth knowing here?\" function as trigger conditions rather than passive descriptors.",
+        "line_number": 378,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 58103,
+        "char_end": 59312
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "Not All Practitioners Need to Progress to Heutagogy",
+        "body": "The evidence does not support the view that heutagogy is universally the highest form of PKM practice for every learner. For practitioners whose PKM supports a clearly defined professional domain — a surgeon maintaining clinical knowledge, a lawyer tracking case law, an engineer managing technical specifications — an andragogical PKB may be the appropriate permanent architecture. The heutagogical aspiration is most relevant for learners whose knowledge work involves generating genuinely novel syntheses across domains, navigating high uncertainty, or developing their own frameworks rather than applying established ones. The honest self-assessment question: is your learning directed toward excellence within known frameworks or toward the development of new frameworks? The answer should determine your PKB's target architecture.",
+        "line_number": 389,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 60833,
+        "char_end": 61760
+      },
+      {
+        "type": "reflection",
+        "title": "From Understanding to PKB Design",
+        "body": "**Comprehension**: What is the single most important design principle from this section? Which recommendation, if implemented, would most change your current PKB?\n\n**Application**: Identify one feature of your current PKB that belongs to the Pedagogical stage, one to the Andragogical stage, and one (if any) to the Heutagogical stage. What would it take to add the first genuinely Heutagogical feature?\n\n**Extension**: What additional evidence would you need to confidently pursue the full Heutagogical architecture? What would you look for in your own practice to know whether you are ready for that transition?",
+        "line_number": 392,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 61761,
+        "char_end": 62438
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Knowledge Ecology Model: Full Synthesis",
+        "body": "The Knowledge Ecology Model proposes that the mature heutagogical PKB undergoes a phase transition from system to ecology — a transition as qualitative as the physical phase transition from water to ice, involving the same elements reorganized into a fundamentally different structure. This model integrates: Hase & Kenyon's capability orientation (the ecology produces capacity for unknown futures, not mastery of known domains); Argyris & Schön's double-loop framework (the ecology is self-examining, not just self-organizing); SDT's integrated regulation (the user's relationship to the ecology is autonomous, not managed); complexity theory's account of emergent systems (the most valuable properties arise from interactions, not from individual elements); and the Stoic concept of *logos* (the rational organizing principle that is not imposed on nature but inherent in it — the ecology's emergent order is not the user's plan but the intelligence of their accumulated inquiry made visible). In practical terms: a Knowledge Ecology PKB exhibits five properties — diversity of note types and organizational logics; rich interconnection creating non-linear navigation; emergence monitoring (regular review of what is appearing uninvited); self-organization protocols (scheduled restructuring in response to use patterns rather than maintenance of the original design); and dialogical apertures (structural points where external perspectives enter and challenge the system's current organization). The Knowledge Ecology is not a destination but a developmental achievement — one that requires all three PAH stages as prerequisites and all four mechanisms as ongoing practices.",
+        "line_number": 424,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 66828,
+        "char_end": 68581
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Epistemological Architecture Principle: Original Contribution",
+        "body": "A second original contribution: the principle that every PKB embeds an implicit epistemology — a theory of what knowledge is and how the knower relates to it — and that this implicit epistemology should be made explicit and deliberately chosen. Most PKM practitioners build systems without examining this foundational question. The result is systems that embody pedagogical assumptions (knowledge is content to be archived) while aspiring to heutagogical outcomes (intellectual growth and genuine self-determination). The misalignment produces exactly the kind of skilled incompetence Argyris described: excellent execution of the wrong strategy. The Epistemological Architecture Principle holds that PKB design should begin not with folder structures or note types but with an explicit statement of the learner's current epistemological stance — what theory of knowledge is operative — and should design the system architecture to be coherent with that stance. This statement should itself be a living document in the PKB's meta-learning layer, revisable through double-loop review as the learner's epistemology develops.",
+        "line_number": 427,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 68582,
+        "char_end": 69801
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections:**\n\n- **[[Report 04: Metacognitive Self-Regulation]]** — The metacognitive infrastructure developed in Report 04 is the operational prerequisite for double-loop learning. Zimmerman's self-regulatory cycles (planning → monitoring → evaluation) are single-loop operations; the heutagogical extension requires adding a fourth phase: questioning whether the goals driving planning are the right goals. Report 04's metacognitive protocols should be revisited with this double-loop extension in mind.\n\n- **[[Report 05: Motivation Architecture]]** — SDT's regulatory continuum was introduced there as the foundation for PKM motivation. Report 24 extends that foundation by mapping the full internalization arc onto the PAH continuum — showing not just that SDT explains motivation but that integrated regulation is the motivational signature of genuine heutagogy. Reports 05 and 24 together provide the full motivational theory of self-determined PKB use.\n\n- **[[Report 08: Reflective Practice and Experiential Learning]]** — Dewey's reflective inquiry and Kolb's experiential learning cycle provide the procedural framework within which double-loop learning occurs. Report 08's experience processing protocols are the single-loop version; Report 24's assumption audit and meta-learning layer are the double-loop extension. Together they constitute the full reflective architecture for a heutagogical PKB.\n\n- **[[Report 10: Scaffolding and Fading]]** — Report 10 addresses the same PAH continuum from a cognitive/instructional design lens (scaffolding mechanics). Report 24 addresses it from an epistemological/philosophical lens (what theory of knowledge is operative). The two reports are complementary: Report 10 tells you *how* to adjust support; Report 24 tells you *why* the adjustment is needed at a deeper level than expertise reversal alone explains.\n\n- **[[Report 19: Sustaining Lifelong Learning]]** — Report 19 documents that heutagogy is referenced there but deferred to this report. The connection is direct: Report 19's Motivational Compounding Model explains how PKM motivation becomes self-sustaining over years; Report 24's Knowledge Ecology Model explains what the self-sustaining PKB actually looks like at full development. Together they provide the long-arc theory of PKB maturation.\n\n- **[[Report 18: Calibration and Epistemic Humility]]** — The Socratic prerequisite for heutagogy — honest self-knowledge about what one does not know — is the epistemic humility that Report 18 develops with empirical grounding (Dunning-Kruger research, calibration methods). These reports form a pair: Report 18 provides the empirical case for epistemic humility; Report 24 provides the philosophical case for why it is the foundation of genuine self-determination.\n\n**Cross-Report Links (PKM/PKB Framework Series):**\n\n- **[[Report 27: The Complete PKM/PKB Design Framework]]** — Report 24's three-stage design framework and Knowledge Ecology Model will be central inputs to the comprehensive design specification. The capability vs. competency distinction in particular represents a design principle that should thread through the entire synthesized framework.\n\n- **[[Report 28: The Philosophy of Personal Knowledge]]** — The Epistemological Architecture Principle — that every PKB embeds an implicit theory of knowledge — is the bridge between Report 24's design guidance and Report 28's philosophical inquiry into what it means to \"know\" in a PKB. The two reports are designed as a pair in this framework.\n\n**Synthetic Observation**: Report 24 occupies a pivotal position in the framework's knowledge graph — it is simultaneously the culmination of the motivational and self-regulatory threads running through Reports 04, 05, and 19, and the opening of the philosophical threads that Reports 27, 28, and 29 will develop. Its ecological and double-loop concepts are the most ambitious design contributions in the Tier 3 series, and their full operationalization awaits the integrative synthesis in Report 27.",
+        "line_number": 438,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 71010,
+        "char_end": 75108
+      },
+      {
+        "type": "definition",
+        "title": "Heutagogy (Educational Science — Hase & Kenyon, 2000)",
+        "body": "Self-determined learning: the learner not only directs their learning process (andragogy) but determines the competencies to develop and the learning pathways to pursue them, with reflexive redesign of the learning process itself. Distinguished from andragogy by the capability rather than competency orientation and by the double-loop character of the learner's self-reflection.",
+        "line_number": 467,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 75168,
+        "char_end": 75624
+      },
+      {
+        "type": "definition",
+        "title": "Andragogy (Adult Education — Malcolm Knowles, 1968)",
+        "body": "Self-directed learning for adults: the learner directs their own learning process based on personal goals and experience, within a broadly defined knowledge landscape. Characterized by problem-centered orientation, experience as primary resource, and internal motivation — but without the full reflexive self-examination characteristic of heutagogy.",
+        "line_number": 470,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 75625,
+        "char_end": 76049
+      },
+      {
+        "type": "definition",
+        "title": "Pedagogy (Educational Science — classical tradition)",
+        "body": "Teacher-directed learning: an educational arrangement in which an external authority determines learning objectives, sequences, and assessment criteria. Not inherently inferior — appropriate for any learner entering an unfamiliar domain without sufficient prior knowledge for reliable self-direction.",
+        "line_number": 473,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 76050,
+        "char_end": 76426
+      },
+      {
+        "type": "definition",
+        "title": "Capability (Hase & Kenyon; also Sen & Nussbaum)",
+        "body": "The capacity to apply knowledge, skills, and understanding flexibly, creatively, and effectively in novel, unknown situations. Distinct from competency in being forward-looking (oriented toward unknowable futures) rather than backward-looking (measured against established standards). The ultimate developmental target of heutagogical education.",
+        "line_number": 476,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 76427,
+        "char_end": 76843
+      },
+      {
+        "type": "definition",
+        "title": "Competency (Behaviorist/Cognitivist educational traditions)",
+        "body": "Mastery of a defined, known, measurable skill or knowledge domain. Assessed against pre-existing standards, validated by performance on known task types. The target of most formal education and the basis of most professional certification. Necessary but insufficient for the capability that genuinely novel situations demand.",
+        "line_number": 479,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 76844,
+        "char_end": 77252
+      },
+      {
+        "type": "definition",
+        "title": "Double-Loop Learning (Argyris & Schön, 1978)",
+        "body": "Learning that questions and revises the governing variables — goals, values, theories, and strategies — that shape behavior, rather than merely correcting behavior within those variables. Distinguished from single-loop learning (error correction within an existing framework) by its reflexivity about the framework itself. The cognitive operation distinguishing heutagogical from andragogical learning.",
+        "line_number": 482,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 77253,
+        "char_end": 77723
+      },
+      {
+        "type": "definition",
+        "title": "Single-Loop Learning (Argyris & Schön, 1978)",
+        "body": "The detection and correction of errors within an existing framework of goals, values, and strategies. Produces improved performance at defined tasks without questioning whether those tasks are the right ones to be performing. The dominant mode of most organizational and personal knowledge management practices.",
+        "line_number": 485,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 77724,
+        "char_end": 78103
+      },
+      {
+        "type": "definition",
+        "title": "Perspective Transformation (Mezirow, 1991)",
+        "body": "The revision of meaning perspectives — the meta-frameworks through which experience is interpreted — as a result of encounter with disorienting dilemmas that cannot be resolved within existing frameworks. The adult learning mechanism most closely parallel to capability development; produces qualitatively different understanding rather than quantitative knowledge increase.",
+        "line_number": 488,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 78104,
+        "char_end": 78544
+      },
+      {
+        "type": "definition",
+        "title": "Knowledge Ecology (Original Synthesis — this report)",
+        "body": "A PKB architecture in which the system functions as a self-organizing, dynamic, co-evolving network exhibiting diversity, rich interconnection, emergent properties, self-organization, and resilience through redundancy. Contrasted with the PKB as managed system: in a Knowledge Ecology, the most valuable properties emerge from interactions rather than from individual elements or the user's deliberate design decisions.",
+        "line_number": 491,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 78545,
+        "char_end": 79040
+      },
+      {
+        "type": "definition",
+        "title": "Epistemological Architecture (Original Principle — this report)",
+        "body": "The implicit or explicit theory of knowledge embedded in a PKB's structural design — the answer to \"what is knowledge and how does the knower relate to it?\" that is encoded in the system's organizational logic. Every PKB has an epistemological architecture whether the designer intended one or not; the principle holds that this should be explicitly chosen and regularly reviewed through double-loop reflection.",
+        "line_number": 494,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 79041,
+        "char_end": 79539
+      },
+      {
+        "type": "definition",
+        "title": "Integrated Regulation (SDT — Deci & Ryan)",
+        "body": "The most internalized form of extrinsic motivation — behavior that is fully assimilated into one's core identity and values, experienced as an authentic expression of self. Distinguished from intrinsic motivation (the activity is engaged in for its own inherent interest) but functionally similar: both represent autonomous, self-determined engagement. The motivational signature of the heutagogical learner.",
+        "line_number": 497,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 79540,
+        "char_end": 80013
+      },
+      {
+        "type": "definition",
+        "title": "Disorienting Dilemma (Mezirow, 1991)",
+        "body": "An experience of profound dissonance between existing expectations or frameworks and encountered reality — an experience that cannot be resolved by adding new information within existing frameworks but requires reorganization of the frameworks themselves. The trigger for perspective transformation and, in the PKB context, a category of note that should be deliberately preserved as a record of transformative learning events.",
+        "line_number": 500,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 80014,
+        "char_end": 80501
+      },
+      {
+        "type": "definition",
+        "title": "PAH Continuum (Educational Science — Hase & Kenyon, building on Knowles)",
+        "body": "The Pedagogy-Andragogy-Heutagogy continuum describing the progression of educational arrangements from externally directed (pedagogy) to self-directed (andragogy) to self-determined (heutagogy). Not a linear developmental sequence for individual learners but a domain-specific, contextually variable description of the relationship between learner and learning environment.",
+        "line_number": 503,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 80502,
+        "char_end": 80971
+      },
+      {
+        "type": "definition",
+        "title": "Capability Notes (PKB Practice — this report)",
+        "body": "A note type in the heutagogical PKB specifically documenting instances where understanding enabled successful adaptation in genuinely novel situations — recording not the knowledge itself but the experience of its flexible application under conditions of uncertainty. Distinct from competency notes (recording mastery of defined knowledge) in tracking the forward-looking, adaptive dimension of developing understanding.",
+        "line_number": 506,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 80972,
+        "char_end": 81461
+      },
+      {
+        "type": "definition",
+        "title": "Assumption Audit (PKB Practice — derived from Double-Loop Learning)",
+        "body": "A scheduled, structured review of the foundational organizing assumptions of one's PKB — examining whether the current organizational logic, the implicit theory of knowledge, and the defined learning priorities reflect current understanding or have calcified into outdated frameworks. The primary double-loop practice embedded in the heutagogical PKB. Recommended frequency: monthly for the current project structure, quarterly for the foundational epistemological architecture.",
+        "line_number": 509,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 81462,
+        "char_end": 82031
+      },
+      {
+        "type": "cite",
+        "title": "Hase, S. & Kenyon, C. (2000). From andragogy to heutagogy. *UltiBase Articles*. RMIT University.",
+        "body": "The founding paper of heutagogy, establishing the capability/competency distinction and the concept of self-determined learning. Supports Phases II, III, IV throughout. Essential for any practitioner seeking the primary source for heutagogical concepts. Freely available online.",
+        "line_number": 516,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 82056,
+        "char_end": 82448
+      },
+      {
+        "type": "cite",
+        "title": "Hase, S. & Kenyon, C. (2007). Heutagogy: A child of complexity theory. *Complicity: An International Journal of Complexity and Education, 4*(1), 111-118.",
+        "body": "The development of heutagogy in explicit relationship to complexity theory — directly relevant to the Knowledge Ecology Model proposed in Phase VI. Supports the claim that self-determined learning shares structural properties with complex adaptive systems.",
+        "line_number": 519,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 82449,
+        "char_end": 82876
+      },
+      {
+        "type": "cite",
+        "title": "Blaschke, L. M. (2012). Heutagogy and lifelong learning: A review of heutagogical practice and self-determined learning. *International Review of Research in Open and Distributed Learning, 13*(1), 56-71.",
+        "body": "The most comprehensive review of the first decade of heutagogy research. Supports Phase III's evidence assessment and the relational paradox tension. Documents the three consistent outcomes of heutagogical environments (proactive agency, reflective redesign, collaborative construction).",
+        "line_number": 522,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 82877,
+        "char_end": 83385
+      },
+      {
+        "type": "cite",
+        "title": "Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.",
+        "body": "The foundational text for double-loop learning theory. Supports Phase II (definitions), Phase III (evidence), and Phase IV (mechanism). Essential for understanding the distinction between single- and double-loop learning and the concept of \"skilled incompetence.\"",
+        "line_number": 525,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 83386,
+        "char_end": 83777
+      },
+      {
+        "type": "cite",
+        "title": "Knowles, M. S. (1980). *The modern practice of adult education: From pedagogy to andragogy* (2nd ed.). Cambridge Adult Education.",
+        "body": "Knowles's mature articulation of andragogy's six assumptions. Supports Phase II (definition) and Phase III (evidence base review). The source text for the characteristics of self-directed adult learners.",
+        "line_number": 528,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 83778,
+        "char_end": 84128
+      },
+      {
+        "type": "cite",
+        "title": "Deci, E. L., & Ryan, R. M. (2000). The 'what' and 'why' of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268.",
+        "body": "The comprehensive theoretical statement of SDT including Organismic Integration Theory and the internalization continuum. Supports Phase II (SDT regulatory continuum) and Phase IV (internalization mechanism). Essential background reading for the motivational dimensions of the PAH continuum.",
+        "line_number": 531,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 84129,
+        "char_end": 84604
+      },
+      {
+        "type": "cite",
+        "title": "Mezirow, J. (1991). *Transformative dimensions of adult learning*. Jossey-Bass.",
+        "body": "The foundational text for Transformative Learning Theory. Supports Phase III (evidence on perspective transformation) and Phase IV (mechanism 2). Particularly relevant for the disorienting dilemma concept and its role in triggering heutagogical transitions.",
+        "line_number": 534,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 84605,
+        "char_end": 84959
+      },
+      {
+        "type": "cite",
+        "title": "Merriam, S. B. (2001). Andragogy and self-directed learning: Pillars of adult learning theory. *New Directions for Adult and Continuing Education, 89*, 3-13.",
+        "body": "The most important review of the andragogy evidence base. Supports Phase III's assessment that andragogical characteristics are developmental rather than universal among adults. Crucial for the domain-specific, non-linear developmental model.",
+        "line_number": 537,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 84960,
+        "char_end": 85377
+      },
+      {
+        "type": "cite",
+        "title": "Argyris, C. (1991). Teaching smart people how to learn. *Harvard Business Review, 69*(3), 99-109.",
+        "body": "The accessible single-paper summary of skilled incompetence and double-loop learning in professional contexts. Supports Phase IV (mechanisms) and the PKM-specific insight about how efficiency can mask meta-learning failure. Freely available; recommended for practitioners encountering Argyris for the first time.",
+        "line_number": 540,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 85378,
+        "char_end": 85805
+      },
+      {
+        "type": "cite",
+        "title": "Blaschke, L. M. (2021). The dynamic mix of heutagogy and technology: Preparing learners for lifelong learning. *British Journal of Educational Technology, 52*(4), 1629-1645.",
+        "body": "The most current synthesis connecting heutagogy to technology-enhanced learning, including digital PKB contexts. Supports Phase V's design implications and the question of AI tools' role in heutagogical learning (identified as an unresolved question in Phase VI).",
+        "line_number": 543,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 85806,
+        "char_end": 86260
+      },
+      {
+        "type": "cite",
+        "title": "Plato. *Meno*, *Theaetetus*, *Apology*. Various translations.",
+        "body": "Primary texts for Socratic self-examination, particularly the relationship between self-knowledge and genuine knowledge of anything else. The *Meno* is most relevant to the capability/knowledge paradox; the *Apology* most relevant to the examined life as the foundation of self-determination. Supports Phase IV (Socratic prerequisite mechanism).",
+        "line_number": 546,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 86261,
+        "char_end": 86685
+      },
+      {
+        "type": "cite",
+        "title": "Sweller, J. (1994). Cognitive load theory, learning difficulty, and instructional design. *Learning and Instruction, 4*(4), 295-312.",
+        "body": "Foundational CLT reference, relevant to the Pedagogical and Andragogical stages' scaffolding requirements. Cross-reference with [[Report 10: Scaffolding and Fading]] for the expertise reversal implications. Supports Phase V's stage design guidance.",
+        "line_number": 549,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 86686,
+        "char_end": 87084
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "This report draws on four disciplinary traditions with different evidentiary statuses. **(1) Heutagogy research**: a relatively young and methodologically varied field — primarily qualitative case studies, mixed-methods educational research, and theoretical synthesis. Empirical claims from this tradition should be held with appropriate tentativeness; the field is accumulating but not yet extensive evidence. **(2) Andragogy research**: a larger and methodologically more diverse literature — includes quantitative preference studies, quasi-experimental educational research, and large-scale surveys. More settled than heutagogy, though the \"adult learning universality\" claim has been substantially qualified by subsequent research. **(3) Double-loop learning and organizational learning**: primarily qualitative case research in organizational settings — rich and illuminating but less directly generalizable to individual learning than educational psychology research. **(4) Self-Determination Theory**: one of the most empirically well-established motivational frameworks in psychology, with extensive experimental and longitudinal support across cultural contexts. The most reliable evidentiary foundation in this report. Distinctions: empirically established claims in this report are primarily SDT and cognitive psychology; theoretical integrations across disciplinary traditions are marked as such; the Knowledge Ecology Model and Epistemological Architecture Principle are explicitly identified as Claude's original analytical synthesis contributions, not established findings in any existing discipline.",
+        "line_number": 556,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 87127,
+        "char_end": 88813
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Framework",
+        "body": "",
+        "line_number": 563,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 88844,
+        "char_end": 88898
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[AI-Augmented Heutagogy: Affordances and Risks]]",
+        "body": "The unresolved question from Phase VI: how do AI tools like Claude change the dynamics of self-determined learning? Specifically: when an AI generates connections, surfaces tensions, and proposes questions, does this augment the learner's double-loop cognition or substitute for it? This topic would examine the distinction between AI as a Socratic dialogue partner (supporting self-examination) and AI as a competency proxy (replacing the learner's own inquiry), with direct implications for PKB design. Critical for practitioners who use AI extensively in their knowledge work.",
+        "line_number": 565,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 88899,
+        "char_end": 89547
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Transformative Learning Protocols: Designing for Perspective Transformation]]",
+        "body": "Mezirow's research shows that perspective transformation is the deepest form of adult learning but rarely occurs by design — it is typically triggered by disorienting dilemma encounters rather than planned curricula. Could a PKB be designed to deliberately cultivate the conditions for perspective transformation — structured encounters with disorienting material, assumption-challenging dialogue protocols, and strategic cross-domain exposure? This topic would develop such protocols with empirical grounding in the Transformative Learning literature.",
+        "line_number": 568,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 89548,
+        "char_end": 90199
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[The Collaborative Heutagogical PKB: Solving the Relational Paradox]]",
+        "body": "Blaschke's finding that heutagogical learners consistently seek collaborative dialogue creates an unresolved design challenge for *personal* knowledge bases. This topic would explore structural solutions: how to incorporate dialogical input, how to record and integrate intellectual challenges from external sources, how to create \"conceptual apertures\" in a personal PKB for community participation — and what the evidence says about the relationship between collaborative encounter and the development of genuine self-determination.",
+        "line_number": 571,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 90200,
+        "char_end": 90824
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Capability Documentation: A Theory and Practice of Capability Notes]]",
+        "body": "The capability note type introduced in Phase V requires further development as a practice. What exactly should capability notes document? How are they different from case study notes or reflection notes? How should they be organized to support recognition of developing capability patterns over time? This topic would develop a theory of capability documentation drawing on portfolio assessment research, experiential learning documentation practice, and Hase's capability framework.",
+        "line_number": 574,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 90825,
+        "char_end": 91399
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM]]",
+        "body": "The Socratic prerequisite discussed in Phase IV deserves expansion as a philosophical and practical framework. What would it mean to practice *elenchus* within a PKB — not occasional reflection but the systematic, daily self-examination that Socrates prescribed? How does the Socratic practice of finding and following contradictions relate to double-loop learning's framework-questioning? This topic would develop a Socratic PKM praxis drawing on the primary philosophical texts and their relation to contemporary self-examination practices.",
+        "line_number": 577,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 91400,
+        "char_end": 92039
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]",
+        "body": "A practical challenge: if heutagogy deliberately moves beyond fixed competency standards, how does a practitioner assess their own development? What are the markers of growing capability? How can a PKB serve as an assessment tool for heutagogical development without reintroducing the competency logic it is designed to transcend? This topic would draw on portfolio assessment theory, narrative self-assessment research, and Hase's capability framework to develop heutagogy-consistent self-assessment practices.",
+        "line_number": 580,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 92040,
+        "char_end": 92662
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems]]",
+        "body": "The Knowledge Ecology Model proposed in Phase VI is theoretically grounded but empirically underspecified. This topic would examine case studies of practitioners whose PKB systems exhibit the five ecological properties (diversity, interconnection, emergence, self-organization, resilience) — analyzing how those properties developed over time, what design decisions supported them, and what challenges the ecological approach creates. A productive complement to the theoretical framework in Report 24.",
+        "line_number": 583,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md",
+        "char_start": 92663,
+        "char_end": 93255
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Heutagogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Heutagogy]]",
+        "line_number": 149,
+        "section": "Phase I: Orientation & Synthesis Focus",
+        "context_line": "This moment matters philosophically. It marks a transition that educational theory has been trying to name and explain for over a century — and that was only given its most precise formulation at the turn of this century by two Australian researchers, Stewart Hase and Chris Kenyon, who coined the term [[Heutagogy]] to describe what happens when learning becomes genuinely self-determined. Not self-directed. Not self-managed. Self-determined: the learner decides not merely how to learn, nor even what to learn, but *why* certain things are worth knowing in the first place, *what kind of knower* they are choosing to become, and *how their knowing should be organized* to serve their particular intellectual life.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Pedagogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pedagogy]]",
+        "line_number": 158,
+        "section": "The Synthesis Question",
+        "context_line": "This report pursues a synthesis question that cannot be answered within any single disciplinary tradition: **How does the progression from [[Pedagogy]] through [[Andragogy]] to [[Heutagogy]] map onto distinct stages of PKB development — and what philosophical, psychological, and architectural transformation must occur at each transition for the PKB to remain genuinely supportive rather than progressively constraining?**",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Andragogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Andragogy]]",
+        "line_number": 158,
+        "section": "The Synthesis Question",
+        "context_line": "This report pursues a synthesis question that cannot be answered within any single disciplinary tradition: **How does the progression from [[Pedagogy]] through [[Andragogy]] to [[Heutagogy]] map onto distinct stages of PKB development — and what philosophical, psychological, and architectural transformation must occur at each transition for the PKB to remain genuinely supportive rather than progressively constraining?**",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Heutagogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Heutagogy]]",
+        "line_number": 158,
+        "section": "The Synthesis Question",
+        "context_line": "This report pursues a synthesis question that cannot be answered within any single disciplinary tradition: **How does the progression from [[Pedagogy]] through [[Andragogy]] to [[Heutagogy]] map onto distinct stages of PKB development — and what philosophical, psychological, and architectural transformation must occur at each transition for the PKB to remain genuinely supportive rather than progressively constraining?**",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 10: Scaffolding and Fading",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 10: Scaffolding and Fading]]",
+        "line_number": 162,
+        "section": "The Synthesis Question",
+        "context_line": "This triple-layered question is what distinguishes Report 24 from [[Report 10: Scaffolding and Fading]], which addresses the same PAH continuum but from a narrower instructional design focus: how should scaffolding mechanics change as expertise develops? Report 10's answer is primarily cognitive — expertise transforms working memory architecture, triggering the Expertise Reversal Effect, requiring scaffold fading. Report 24's answer is philosophical and psychological at a different level: it is not merely that expert minds need less scaffolding but that genuinely self-determined learners need a different *kind* of system — one organized around different epistemological assumptions about what knowledge is and how it should be structured.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Double-Loop Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Double-Loop Learning]]",
+        "line_number": 166,
+        "section": "Scope and Cross-Domain Preview",
+        "context_line": "**What This Report Covers**: The philosophical and psychological transformation from self-directed to self-determined learning; the Hase & Kenyon heutagogy framework in full depth; the Capability vs. Competency distinction and its architectural implications; [[Double-Loop Learning]] (Argyris & Schön) as the distinguishing cognitive operation of heutagogical PKB use; the [[Knowledge Ecology Model]] as an original synthesis for heutagogical PKB design; and specific three-stage PKB design guidance for Pedagogical, Andragogical, and Heutagogical PKB architectures.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Knowledge Ecology Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Ecology Model]]",
+        "line_number": 166,
+        "section": "Scope and Cross-Domain Preview",
+        "context_line": "**What This Report Covers**: The philosophical and psychological transformation from self-directed to self-determined learning; the Hase & Kenyon heutagogy framework in full depth; the Capability vs. Competency distinction and its architectural implications; [[Double-Loop Learning]] (Argyris & Schön) as the distinguishing cognitive operation of heutagogical PKB use; the [[Knowledge Ecology Model]] as an original synthesis for heutagogical PKB design; and specific three-stage PKB design guidance for Pedagogical, Andragogical, and Heutagogical PKB architectures.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 10",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 10]]",
+        "line_number": 168,
+        "section": "Scope and Cross-Domain Preview",
+        "context_line": "**What This Report Does Not Cover**: The scaffolding mechanics of expertise-sensitive PKB design (see [[Report 10]]); the foundational motivation architecture of SDT (see [[Report 05]]); the long-term sustainability of PKM practice (see [[Report 19]]); or the philosophy of knowledge itself (see [[Report 28: The Philosophy of Personal Knowledge]]).",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 05",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 05]]",
+        "line_number": 168,
+        "section": "Scope and Cross-Domain Preview",
+        "context_line": "**What This Report Does Not Cover**: The scaffolding mechanics of expertise-sensitive PKB design (see [[Report 10]]); the foundational motivation architecture of SDT (see [[Report 05]]); the long-term sustainability of PKM practice (see [[Report 19]]); or the philosophy of knowledge itself (see [[Report 28: The Philosophy of Personal Knowledge]]).",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 19",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 19]]",
+        "line_number": 168,
+        "section": "Scope and Cross-Domain Preview",
+        "context_line": "**What This Report Does Not Cover**: The scaffolding mechanics of expertise-sensitive PKB design (see [[Report 10]]); the foundational motivation architecture of SDT (see [[Report 05]]); the long-term sustainability of PKM practice (see [[Report 19]]); or the philosophy of knowledge itself (see [[Report 28: The Philosophy of Personal Knowledge]]).",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 28: The Philosophy of Personal Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 28: The Philosophy of Personal Knowledge]]",
+        "line_number": 168,
+        "section": "Scope and Cross-Domain Preview",
+        "context_line": "**What This Report Does Not Cover**: The scaffolding mechanics of expertise-sensitive PKB design (see [[Report 10]]); the foundational motivation architecture of SDT (see [[Report 05]]); the long-term sustainability of PKM practice (see [[Report 19]]); or the philosophy of knowledge itself (see [[Report 28: The Philosophy of Personal Knowledge]]).",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Heutagogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Heutagogy]]",
+        "line_number": 170,
+        "section": "Scope and Cross-Domain Preview",
+        "context_line": "**Cross-Domain Preview**: The synthesis in this report emerges from an unlikely constellation: [[Heutagogy]] (educational science — Hase & Kenyon), [[Self-Determination Theory]] (educational psychology — Deci & Ryan), [[Double-Loop Learning]] (organizational learning — Argyris & Schön), [[Transformative Learning Theory]] (adult education — Mezirow), and [[Socratic Self-Examination]] (philosophy). Each tradition contributes something the others cannot. Heutagogy names the target state. SDT explains the motivational substrate that makes it sustainable. Double-Loop Learning specifies the cognitive operation that distinguishes it from mere self-direction. Transformative Learning Theory describes the psychological mechanism of how the transition happens. And Socratic philosophy provides the oldest and most rigorous account of what self-determination in knowing actually requires: unflinching self-examination as the precondition for intellectual autonomy.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 170,
+        "section": "Scope and Cross-Domain Preview",
+        "context_line": "**Cross-Domain Preview**: The synthesis in this report emerges from an unlikely constellation: [[Heutagogy]] (educational science — Hase & Kenyon), [[Self-Determination Theory]] (educational psychology — Deci & Ryan), [[Double-Loop Learning]] (organizational learning — Argyris & Schön), [[Transformative Learning Theory]] (adult education — Mezirow), and [[Socratic Self-Examination]] (philosophy). Each tradition contributes something the others cannot. Heutagogy names the target state. SDT explains the motivational substrate that makes it sustainable. Double-Loop Learning specifies the cognitive operation that distinguishes it from mere self-direction. Transformative Learning Theory describes the psychological mechanism of how the transition happens. And Socratic philosophy provides the oldest and most rigorous account of what self-determination in knowing actually requires: unflinching self-examination as the precondition for intellectual autonomy.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Double-Loop Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Double-Loop Learning]]",
+        "line_number": 170,
+        "section": "Scope and Cross-Domain Preview",
+        "context_line": "**Cross-Domain Preview**: The synthesis in this report emerges from an unlikely constellation: [[Heutagogy]] (educational science — Hase & Kenyon), [[Self-Determination Theory]] (educational psychology — Deci & Ryan), [[Double-Loop Learning]] (organizational learning — Argyris & Schön), [[Transformative Learning Theory]] (adult education — Mezirow), and [[Socratic Self-Examination]] (philosophy). Each tradition contributes something the others cannot. Heutagogy names the target state. SDT explains the motivational substrate that makes it sustainable. Double-Loop Learning specifies the cognitive operation that distinguishes it from mere self-direction. Transformative Learning Theory describes the psychological mechanism of how the transition happens. And Socratic philosophy provides the oldest and most rigorous account of what self-determination in knowing actually requires: unflinching self-examination as the precondition for intellectual autonomy.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Transformative Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transformative Learning Theory]]",
+        "line_number": 170,
+        "section": "Scope and Cross-Domain Preview",
+        "context_line": "**Cross-Domain Preview**: The synthesis in this report emerges from an unlikely constellation: [[Heutagogy]] (educational science — Hase & Kenyon), [[Self-Determination Theory]] (educational psychology — Deci & Ryan), [[Double-Loop Learning]] (organizational learning — Argyris & Schön), [[Transformative Learning Theory]] (adult education — Mezirow), and [[Socratic Self-Examination]] (philosophy). Each tradition contributes something the others cannot. Heutagogy names the target state. SDT explains the motivational substrate that makes it sustainable. Double-Loop Learning specifies the cognitive operation that distinguishes it from mere self-direction. Transformative Learning Theory describes the psychological mechanism of how the transition happens. And Socratic philosophy provides the oldest and most rigorous account of what self-determination in knowing actually requires: unflinching self-examination as the precondition for intellectual autonomy.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Socratic Self-Examination",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socratic Self-Examination]]",
+        "line_number": 170,
+        "section": "Scope and Cross-Domain Preview",
+        "context_line": "**Cross-Domain Preview**: The synthesis in this report emerges from an unlikely constellation: [[Heutagogy]] (educational science — Hase & Kenyon), [[Self-Determination Theory]] (educational psychology — Deci & Ryan), [[Double-Loop Learning]] (organizational learning — Argyris & Schön), [[Transformative Learning Theory]] (adult education — Mezirow), and [[Socratic Self-Examination]] (philosophy). Each tradition contributes something the others cannot. Heutagogy names the target state. SDT explains the motivational substrate that makes it sustainable. Double-Loop Learning specifies the cognitive operation that distinguishes it from mere self-direction. Transformative Learning Theory describes the psychological mechanism of how the transition happens. And Socratic philosophy provides the oldest and most rigorous account of what self-determination in knowing actually requires: unflinching self-examination as the precondition for intellectual autonomy.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Pedagogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pedagogy]]",
+        "line_number": 182,
+        "section": "The PAH Continuum: Beyond the Common Misunderstanding",
+        "context_line": "The [[Pedagogy]]-[[Andragogy]]-[[Heutagogy]] continuum is frequently misread as a sequence about scaffolding quantity — pedagogy gives lots of support, andragogy gives some, heutagogy gives none. This reading is not merely incomplete; it is structurally wrong in a way that leads to poor PKB design. To understand why, we must examine each stage with precision.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Andragogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Andragogy]]",
+        "line_number": 182,
+        "section": "The PAH Continuum: Beyond the Common Misunderstanding",
+        "context_line": "The [[Pedagogy]]-[[Andragogy]]-[[Heutagogy]] continuum is frequently misread as a sequence about scaffolding quantity — pedagogy gives lots of support, andragogy gives some, heutagogy gives none. This reading is not merely incomplete; it is structurally wrong in a way that leads to poor PKB design. To understand why, we must examine each stage with precision.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Heutagogy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Heutagogy]]",
+        "line_number": 182,
+        "section": "The PAH Continuum: Beyond the Common Misunderstanding",
+        "context_line": "The [[Pedagogy]]-[[Andragogy]]-[[Heutagogy]] continuum is frequently misread as a sequence about scaffolding quantity — pedagogy gives lots of support, andragogy gives some, heutagogy gives none. This reading is not merely incomplete; it is structurally wrong in a way that leads to poor PKB design. To understand why, we must examine each stage with precision.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "External Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[External Regulation]]",
+        "line_number": 185,
+        "section": "The PAH Continuum: Beyond the Common Misunderstanding",
+        "context_line": "> Literally \"leading the child\" — originally both descriptive and prescriptive of instruction in which an expert (teacher, curriculum, institution) determines what should be learned, how it should be sequenced, and how it should be assessed. In contemporary educational science, pedagogy is not restricted to children but describes any educational arrangement in which the locus of control over learning objectives and pathways resides primarily with a source external to the learner. The learner in a pedagogical arrangement is in what SDT would term [[External Regulation]]: they engage with learning because of external obligation, institutional structure, or incentive. The *implicit theory of knowledge* embedded in pedagogical design is what philosophers call a [[Correspondence Theory]]: there is correct knowledge that exists independently of the learner, and the purpose of education is to transmit it accurately. The PKB designed for pedagogical learning is fundamentally an archive and retrieval system — a structured repository for content defined by external sources.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Correspondence Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Correspondence Theory]]",
+        "line_number": 185,
+        "section": "The PAH Continuum: Beyond the Common Misunderstanding",
+        "context_line": "> Literally \"leading the child\" — originally both descriptive and prescriptive of instruction in which an expert (teacher, curriculum, institution) determines what should be learned, how it should be sequenced, and how it should be assessed. In contemporary educational science, pedagogy is not restricted to children but describes any educational arrangement in which the locus of control over learning objectives and pathways resides primarily with a source external to the learner. The learner in a pedagogical arrangement is in what SDT would term [[External Regulation]]: they engage with learning because of external obligation, institutional structure, or incentive. The *implicit theory of knowledge* embedded in pedagogical design is what philosophers call a [[Correspondence Theory]]: there is correct knowledge that exists independently of the learner, and the purpose of education is to transmit it accurately. The PKB designed for pedagogical learning is fundamentally an archive and retrieval system — a structured repository for content defined by external sources.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Pragmatist",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pragmatist]]",
+        "line_number": 188,
+        "section": "The PAH Continuum: Beyond the Common Misunderstanding",
+        "context_line": "> Self-directed learning: Malcolm Knowles's formalization of the claim that adult learners differ from children in six key assumptions — they have an independent self-concept, accumulated experience as a learning resource, readiness linked to developmental tasks, a problem-centered orientation to learning, internal rather than external motivation, and the need to know why they are learning something before committing to it. Crucially, andragogy does not abolish structure or guidance — it shifts the locus of decision-making. The learner in an andragogical arrangement decides what to learn, when, and in what order, but still operates within a broadly pre-defined space of what is worth knowing (a field, a profession, a body of literature). The *implicit theory of knowledge* in andragogical design is broadly [[Pragmatist]]: knowledge is what works, what solves real problems, what connects to experience. The PKB designed for andragogical learning is a curated resource and thinking tool — organized around the learner's goals but within an established knowledge landscape.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Capability",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Capability]]",
+        "line_number": 191,
+        "section": "The PAH Continuum: Beyond the Common Misunderstanding",
+        "context_line": "> Self-determined learning: Hase and Kenyon's extension beyond andragogy to describe learning in which the learner not only directs their learning process (andragogy) but also determines the competencies they wish to develop, the pathways to develop them, and — critically — reflects on and redesigns the learning process itself. Heutagogy introduces a distinction central to this report: **[[Capability]]** versus **[[Competency]]**. Competency is mastery of a defined, known skill or body of knowledge; it is backward-looking, measured against established standards. Capability is the capacity to apply knowledge and skills flexibly, creatively, and effectively in novel, unknown situations — it is forward-looking, oriented toward an unknowable future. Heutagogy argues that the ultimate goal of lifelong learning is capability development, not competency accumulation, and that the educational systems designed to produce competency systematically obstruct capability. The *implicit theory of knowledge* in heutagogical design is [[Constructivist-Emergentist]]: knowledge is not transmitted or even curated — it is actively created through inquiry, and the most important knowledge emerges from the inquiry process itself rather than preceding it.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Competency",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Competency]]",
+        "line_number": 191,
+        "section": "The PAH Continuum: Beyond the Common Misunderstanding",
+        "context_line": "> Self-determined learning: Hase and Kenyon's extension beyond andragogy to describe learning in which the learner not only directs their learning process (andragogy) but also determines the competencies they wish to develop, the pathways to develop them, and — critically — reflects on and redesigns the learning process itself. Heutagogy introduces a distinction central to this report: **[[Capability]]** versus **[[Competency]]**. Competency is mastery of a defined, known skill or body of knowledge; it is backward-looking, measured against established standards. Capability is the capacity to apply knowledge and skills flexibly, creatively, and effectively in novel, unknown situations — it is forward-looking, oriented toward an unknowable future. Heutagogy argues that the ultimate goal of lifelong learning is capability development, not competency accumulation, and that the educational systems designed to produce competency systematically obstruct capability. The *implicit theory of knowledge* in heutagogical design is [[Constructivist-Emergentist]]: knowledge is not transmitted or even curated — it is actively created through inquiry, and the most important knowledge emerges from the inquiry process itself rather than preceding it.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Constructivist-Emergentist",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivist-Emergentist]]",
+        "line_number": 191,
+        "section": "The PAH Continuum: Beyond the Common Misunderstanding",
+        "context_line": "> Self-determined learning: Hase and Kenyon's extension beyond andragogy to describe learning in which the learner not only directs their learning process (andragogy) but also determines the competencies they wish to develop, the pathways to develop them, and — critically — reflects on and redesigns the learning process itself. Heutagogy introduces a distinction central to this report: **[[Capability]]** versus **[[Competency]]**. Competency is mastery of a defined, known skill or body of knowledge; it is backward-looking, measured against established standards. Capability is the capacity to apply knowledge and skills flexibly, creatively, and effectively in novel, unknown situations — it is forward-looking, oriented toward an unknowable future. Heutagogy argues that the ultimate goal of lifelong learning is capability development, not competency accumulation, and that the educational systems designed to produce competency systematically obstruct capability. The *implicit theory of knowledge* in heutagogical design is [[Constructivist-Emergentist]]: knowledge is not transmitted or even curated — it is actively created through inquiry, and the most important knowledge emerges from the inquiry process itself rather than preceding it.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 198,
+        "section": "Self-Determination Theory's Regulatory Continuum",
+        "context_line": "[[Self-Determination Theory]] (Deci & Ryan, 1985, 2000) provides the motivational substrate that explains *why* the PAH progression occurs and under what conditions it is sustainable. SDT's [[Organismic Integration Theory]] — its account of how extrinsic motivation becomes internalized — maps onto the PAH continuum with striking precision.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Organismic Integration Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Organismic Integration Theory]]",
+        "line_number": 198,
+        "section": "Self-Determination Theory's Regulatory Continuum",
+        "context_line": "[[Self-Determination Theory]] (Deci & Ryan, 1985, 2000) provides the motivational substrate that explains *why* the PAH progression occurs and under what conditions it is sustainable. SDT's [[Organismic Integration Theory]] — its account of how extrinsic motivation becomes internalized — maps onto the PAH continuum with striking precision.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Capability Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Capability Development]]",
+        "line_number": 208,
+        "section": "Capability vs. Competency: The Critical Distinction",
+        "context_line": "Hase and Kenyon's most original contribution — and the one most consequential for PKB design — is the distinction between [[Capability Development]] and [[Competency Development]].",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Competency Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Competency Development]]",
+        "line_number": 208,
+        "section": "Capability vs. Competency: The Critical Distinction",
+        "context_line": "Hase and Kenyon's most original contribution — and the one most consequential for PKB design — is the distinction between [[Capability Development]] and [[Competency Development]].",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Double-Loop Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Double-Loop Learning]]",
+        "line_number": 218,
+        "section": "Double-Loop Learning: The Mechanism of Genuine Self-Determination",
+        "context_line": "[[Double-Loop Learning]] (Argyris & Schön, 1978) is the concept that most precisely captures what distinguishes heutagogical learning from andragogical learning — and the one most consequentially missing from standard PKM discourse.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Malcolm Knowles",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Malcolm Knowles]]",
+        "line_number": 255,
+        "section": "The Heutagogy Research Base",
+        "context_line": "The andragogy evidence base is vastly larger but more contested. [[Malcolm Knowles]]'s original six assumptions generated decades of empirical testing, and the verdict is instructive: andragogical characteristics are not universal among adults but are developmental — they emerge in proportion to domain expertise and, critically, in proportion to prior experience with self-directed learning. Adults encountering a new domain regularly exhibit pedagogical preferences regardless of their sophistication in other domains, confirming what [[Report 10]] established through the expertise reversal lens. But the andragogy literature adds something Report 10 did not fully develop: the *motivational* dimension of andragogical readiness.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 10",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 10]]",
+        "line_number": 255,
+        "section": "The Heutagogy Research Base",
+        "context_line": "The andragogy evidence base is vastly larger but more contested. [[Malcolm Knowles]]'s original six assumptions generated decades of empirical testing, and the verdict is instructive: andragogical characteristics are not universal among adults but are developmental — they emerge in proportion to domain expertise and, critically, in proportion to prior experience with self-directed learning. Adults encountering a new domain regularly exhibit pedagogical preferences regardless of their sophistication in other domains, confirming what [[Report 10]] established through the expertise reversal lens. But the andragogy literature adds something Report 10 did not fully develop: the *motivational* dimension of andragogical readiness.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Transformative Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transformative Learning Theory]]",
+        "line_number": 271,
+        "section": "The Heutagogy Research Base",
+        "context_line": "> Jack Mezirow's [[Transformative Learning Theory]] describes a process closely related to double-loop learning but at the level of meaning-making: the revision of \"meaning perspectives\" — the assumptions, beliefs, and expectations through which experience is interpreted. Mezirow argued that adult learning's deepest and most consequential form is not the acquisition of new information but the revision of the interpretive frameworks through which information is understood. A transformative learning event is one that causes the learner to question not just their knowledge but the cognitive categories they use to organize knowledge. The evidence from Mezirow's extensive research across adult education contexts documented that transformative events were most commonly triggered by \"disorienting dilemmas\" — experiences of dissonance between expectations and reality that cannot be resolved by adding new information within existing frameworks. For PKB design, this implies that genuinely heutagogical note-making must include active creation of disorienting dilemma records — notes about where one's understanding was fundamentally disrupted, and what reorganization of understanding that disruption required.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Internalization Continuum",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Internalization Continuum]]",
+        "line_number": 293,
+        "section": "Mechanism 1: The Internalization Engine",
+        "context_line": "The progression from pedagogical to heutagogical learning is, at the motivational level, the progression along SDT's [[Internalization Continuum]] — from external regulation to integrated regulation. But how does this transition actually occur? SDT's [[Organismic Integration Theory]] specifies the mechanism with precision: internalization is driven by the satisfaction of three basic psychological needs — [[Autonomy Need]], [[Competence Need]], and [[Relatedness Need]] — in the specific context of the activity being internalized.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Organismic Integration Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Organismic Integration Theory]]",
+        "line_number": 293,
+        "section": "Mechanism 1: The Internalization Engine",
+        "context_line": "The progression from pedagogical to heutagogical learning is, at the motivational level, the progression along SDT's [[Internalization Continuum]] — from external regulation to integrated regulation. But how does this transition actually occur? SDT's [[Organismic Integration Theory]] specifies the mechanism with precision: internalization is driven by the satisfaction of three basic psychological needs — [[Autonomy Need]], [[Competence Need]], and [[Relatedness Need]] — in the specific context of the activity being internalized.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Autonomy Need",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Autonomy Need]]",
+        "line_number": 293,
+        "section": "Mechanism 1: The Internalization Engine",
+        "context_line": "The progression from pedagogical to heutagogical learning is, at the motivational level, the progression along SDT's [[Internalization Continuum]] — from external regulation to integrated regulation. But how does this transition actually occur? SDT's [[Organismic Integration Theory]] specifies the mechanism with precision: internalization is driven by the satisfaction of three basic psychological needs — [[Autonomy Need]], [[Competence Need]], and [[Relatedness Need]] — in the specific context of the activity being internalized.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Competence Need",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Competence Need]]",
+        "line_number": 293,
+        "section": "Mechanism 1: The Internalization Engine",
+        "context_line": "The progression from pedagogical to heutagogical learning is, at the motivational level, the progression along SDT's [[Internalization Continuum]] — from external regulation to integrated regulation. But how does this transition actually occur? SDT's [[Organismic Integration Theory]] specifies the mechanism with precision: internalization is driven by the satisfaction of three basic psychological needs — [[Autonomy Need]], [[Competence Need]], and [[Relatedness Need]] — in the specific context of the activity being internalized.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Relatedness Need",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Relatedness Need]]",
+        "line_number": 293,
+        "section": "Mechanism 1: The Internalization Engine",
+        "context_line": "The progression from pedagogical to heutagogical learning is, at the motivational level, the progression along SDT's [[Internalization Continuum]] — from external regulation to integrated regulation. But how does this transition actually occur? SDT's [[Organismic Integration Theory]] specifies the mechanism with precision: internalization is driven by the satisfaction of three basic psychological needs — [[Autonomy Need]], [[Competence Need]], and [[Relatedness Need]] — in the specific context of the activity being internalized.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Schema Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Theory]]",
+        "line_number": 304,
+        "section": "Mechanism 2: The Schema-to-Capability Transformation",
+        "context_line": "Cognitive psychology explains competency development well: [[Schema Theory]] accounts for how domain knowledge accumulates into increasingly sophisticated, interconnected representational structures. [[Report 01: Foundations of Knowledge Architecture]] established how schemas underlie knowledge organization in both the mind and the PKB. But schema development, however sophisticated, does not by itself produce capability. The schema-to-capability transformation requires an additional mechanism — one that cognitive psychology identifies but does not fully explain, and that heutagogy and Transformative Learning Theory illuminate from different angles.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 01: Foundations of Knowledge Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 01: Foundations of Knowledge Architecture]]",
+        "line_number": 304,
+        "section": "Mechanism 2: The Schema-to-Capability Transformation",
+        "context_line": "Cognitive psychology explains competency development well: [[Schema Theory]] accounts for how domain knowledge accumulates into increasingly sophisticated, interconnected representational structures. [[Report 01: Foundations of Knowledge Architecture]] established how schemas underlie knowledge organization in both the mind and the PKB. But schema development, however sophisticated, does not by itself produce capability. The schema-to-capability transformation requires an additional mechanism — one that cognitive psychology identifies but does not fully explain, and that heutagogy and Transformative Learning Theory illuminate from different angles.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Socratic Self-Examination",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socratic Self-Examination]]",
+        "line_number": 324,
+        "section": "Mechanism 4: The Socratic Prerequisite",
+        "context_line": "[[Socratic Self-Examination]] is the practice of subjecting one's own beliefs, assumptions, and commitments to systematic scrutiny — not comfortable self-reflection, but rigorous questioning designed to reveal contradictions, assumptions, and unexamined commitments. The Socratic insight, articulated through the *Meno*, the *Theaetetus*, and especially the *Apology*, is that genuine self-determination in knowing requires honest self-knowledge — specifically, accurate knowledge of what one does not know, and what one is assuming without knowing. Without this, \"self-determination\" is merely the confident pursuit of whatever one happens to currently believe.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Knowledge Ecology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Ecology]]",
+        "line_number": 331,
+        "section": "Mechanism 5: The Knowledge Ecology Emergence",
+        "context_line": "The four mechanisms above — internalization, perspective transformation, double-loop learning, and Socratic self-examination — combine, at the heutagogical stage, to produce an emergent phenomenon that no single mechanism predicts: what I will call the **[[Knowledge Ecology]]** effect.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Canvas",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Canvas]]",
+        "line_number": 339,
+        "section": "Mechanism 5: The Knowledge Ecology Emergence",
+        "context_line": "> The ecological model creates a genuine tension with one of the PKB's other essential functions: archival reliability. An ecology optimized for emergence may be poorly organized for retrieval. A system that is self-organizing may be difficult to navigate when you need a specific piece of information under time pressure. The ecological PKB and the archival PKB are, to some degree, pulling in opposite directions. This tension cannot be dissolved by choosing one at the expense of the other — a PKB that fails as an archive loses its most basic function; a PKB that fails as an ecology never achieves its highest function. The resolution is architectural: the heutagogical PKB requires two overlapping organizational logics — a stable archival layer (well-tagged, well-titled, reliably retrievable) co-existing with a dynamic ecological layer (connection networks, emergent clusters, question-driven pathways that cross and recombine archival categories). Obsidian's graph view and [[Canvas]] feature are the closest existing tools for navigating the ecological layer, while standard note organization handles the archival layer.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "MOC",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[MOC]]",
+        "line_number": 369,
+        "section": "Three PKB Design Stages",
+        "context_line": "> The Andragogical transition in Obsidian is marked by: the emergence of project-based organization alongside or replacing subject-based organization; [[MOC]] notes that are self-generated rather than curriculum-derived; a shift from capture templates to synthesis templates (notes that integrate multiple sources around the learner's own question); growing use of [[Dataview]] queries and graph clusters organized around the learner's current intellectual projects; and regular restructuring of the organizational scheme as projects evolve. The key design principle: the PKB should be organized around *what the learner is trying to figure out*, not *what external sources have defined as the field's structure*. This shift is not merely cosmetic — it reflects the andragogical epistemological stance that knowledge is what is useful to one's current inquiry, not what is correctly organized by established taxonomies.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Dataview",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dataview]]",
+        "line_number": 369,
+        "section": "Three PKB Design Stages",
+        "context_line": "> The Andragogical transition in Obsidian is marked by: the emergence of project-based organization alongside or replacing subject-based organization; [[MOC]] notes that are self-generated rather than curriculum-derived; a shift from capture templates to synthesis templates (notes that integrate multiple sources around the learner's own question); growing use of [[Dataview]] queries and graph clusters organized around the learner's current intellectual projects; and regular restructuring of the organizational scheme as projects evolve. The key design principle: the PKB should be organized around *what the learner is trying to figure out*, not *what external sources have defined as the field's structure*. This shift is not merely cosmetic — it reflects the andragogical epistemological stance that knowledge is what is useful to one's current inquiry, not what is correctly organized by established taxonomies.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 416,
+        "section": "Return and Deepen: Two Concepts Revisited",
+        "context_line": "**[[Self-Determination Theory]] revisited with accumulated context**: We introduced SDT's internalization continuum early as the motivational substrate of the PAH progression. With the mechanisms now in view, we can see something that the introductory treatment could not: integrated regulation — the endpoint of internalization — is not merely \"very strong intrinsic motivation.\" It is the motivational expression of what heutagogy calls capability. An integrally regulated learner is not someone who strongly wants to achieve specific learning goals. They are someone whose sense of self is organized around the quality of their knowing — the depth of their inquiry, the honesty of their self-examination, the richness of their connections. This is the motivational foundation of genuine intellectual agency, and it cannot be produced by designing a more motivating PKB. It is produced by the long arc of need satisfaction, perspective transformation, and identity consolidation that the entire framework series has been mapping.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Double-Loop Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Double-Loop Learning]]",
+        "line_number": 418,
+        "section": "Return and Deepen: Two Concepts Revisited",
+        "context_line": "**[[Double-Loop Learning]] revisited as existential practice**: Introduced as an organizational learning concept, double-loop learning takes on a deeper significance when read through the Socratic and heutagogical lenses. Socrates practiced double-loop examination as a daily existential discipline — the examined life was not a methodology but a way of being. Hase & Kenyon's heutagogical learner has internalized the capacity for this examination to the point where it is no longer experienced as interruption or methodological procedure but as the natural texture of intellectual life. The double-loop PKB feature — the assumption audit, the meta-learning layer, the disorienting dilemma notes — is, at its deepest level, an institutionalization of Socratic practice within the knowledge management workflow. This is not merely a scheduling device; it is a philosophical commitment given structural form.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 27: The Complete PKM/PKB Design Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 27: The Complete PKM/PKB Design Framework]]",
+        "line_number": 432,
+        "section": "Unresolved Questions",
+        "context_line": "Three important questions this report cannot resolve and that deserve further inquiry: First, **how much of heutagogical development is domain-general vs. domain-specific?** The evidence suggests it is substantially domain-specific, but the mechanisms (especially perspective transformation and Socratic self-examination) appear to have some domain-general transfer effects. The extent of this transfer is not well-established. Second, **what is the role of AI tools in heutagogical PKB design?** If an AI assistant (like Claude) can generate connections, surface tensions, and propose questions, does this support or substitute for the learner's own double-loop and Socratic operations? The distinction between augmentation and replacement is philosophically crucial but empirically unstudied. Third, **can the Knowledge Ecology Model be operationalized in Obsidian with sufficient specificity to be practically useful?** The model's five properties are identified, but the concrete practices for cultivating each remain underspecified and await further development in [[Report 27: The Complete PKM/PKB Design Framework]].",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 04: Metacognitive Self-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 04: Metacognitive Self-Regulation]]",
+        "line_number": 441,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 04: Metacognitive Self-Regulation]]** — The metacognitive infrastructure developed in Report 04 is the operational prerequisite for double-loop learning. Zimmerman's self-regulatory cycles (planning → monitoring → evaluation) are single-loop operations; the heutagogical extension requires adding a fourth phase: questioning whether the goals driving planning are the right goals. Report 04's metacognitive protocols should be revisited with this double-loop extension in mind.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 05: Motivation Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 05: Motivation Architecture]]",
+        "line_number": 443,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 05: Motivation Architecture]]** — SDT's regulatory continuum was introduced there as the foundation for PKM motivation. Report 24 extends that foundation by mapping the full internalization arc onto the PAH continuum — showing not just that SDT explains motivation but that integrated regulation is the motivational signature of genuine heutagogy. Reports 05 and 24 together provide the full motivational theory of self-determined PKB use.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 08: Reflective Practice and Experiential Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 08: Reflective Practice and Experiential Learning]]",
+        "line_number": 445,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 08: Reflective Practice and Experiential Learning]]** — Dewey's reflective inquiry and Kolb's experiential learning cycle provide the procedural framework within which double-loop learning occurs. Report 08's experience processing protocols are the single-loop version; Report 24's assumption audit and meta-learning layer are the double-loop extension. Together they constitute the full reflective architecture for a heutagogical PKB.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 10: Scaffolding and Fading",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 10: Scaffolding and Fading]]",
+        "line_number": 447,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 10: Scaffolding and Fading]]** — Report 10 addresses the same PAH continuum from a cognitive/instructional design lens (scaffolding mechanics). Report 24 addresses it from an epistemological/philosophical lens (what theory of knowledge is operative). The two reports are complementary: Report 10 tells you *how* to adjust support; Report 24 tells you *why* the adjustment is needed at a deeper level than expertise reversal alone explains.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 19: Sustaining Lifelong Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 19: Sustaining Lifelong Learning]]",
+        "line_number": 449,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 19: Sustaining Lifelong Learning]]** — Report 19 documents that heutagogy is referenced there but deferred to this report. The connection is direct: Report 19's Motivational Compounding Model explains how PKM motivation becomes self-sustaining over years; Report 24's Knowledge Ecology Model explains what the self-sustaining PKB actually looks like at full development. Together they provide the long-arc theory of PKB maturation.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 18: Calibration and Epistemic Humility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 18: Calibration and Epistemic Humility]]",
+        "line_number": 451,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 18: Calibration and Epistemic Humility]]** — The Socratic prerequisite for heutagogy — honest self-knowledge about what one does not know — is the epistemic humility that Report 18 develops with empirical grounding (Dunning-Kruger research, calibration methods). These reports form a pair: Report 18 provides the empirical case for epistemic humility; Report 24 provides the philosophical case for why it is the foundation of genuine self-determination.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 27: The Complete PKM/PKB Design Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 27: The Complete PKM/PKB Design Framework]]",
+        "line_number": 455,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 27: The Complete PKM/PKB Design Framework]]** — Report 24's three-stage design framework and Knowledge Ecology Model will be central inputs to the comprehensive design specification. The capability vs. competency distinction in particular represents a design principle that should thread through the entire synthesized framework.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 28: The Philosophy of Personal Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 28: The Philosophy of Personal Knowledge]]",
+        "line_number": 457,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 28: The Philosophy of Personal Knowledge]]** — The Epistemological Architecture Principle — that every PKB embeds an implicit theory of knowledge — is the bridge between Report 24's design guidance and Report 28's philosophical inquiry into what it means to \"know\" in a PKB. The two reports are designed as a pair in this framework.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Report 10: Scaffolding and Fading",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 10: Scaffolding and Fading]]",
+        "line_number": 550,
+        "section": "B. References",
+        "context_line": "> Foundational CLT reference, relevant to the Pedagogical and Andragogical stages' scaffolding requirements. Cross-reference with [[Report 10: Scaffolding and Fading]] for the expertise reversal implications. Supports Phase V's stage design guidance.",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "AI-Augmented Heutagogy: Affordances and Risks",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[AI-Augmented Heutagogy: Affordances and Risks]]",
+        "line_number": 565,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[AI-Augmented Heutagogy: Affordances and Risks]]",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Transformative Learning Protocols: Designing for Perspective Transformation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Transformative Learning Protocols: Designing for Perspective Transformation]]",
+        "line_number": 568,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Transformative Learning Protocols: Designing for Perspective Transformation]]",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "The Collaborative Heutagogical PKB: Solving the Relational Paradox",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Collaborative Heutagogical PKB: Solving the Relational Paradox]]",
+        "line_number": 571,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[The Collaborative Heutagogical PKB: Solving the Relational Paradox]]",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Capability Documentation: A Theory and Practice of Capability Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Capability Documentation: A Theory and Practice of Capability Notes]]",
+        "line_number": 574,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Capability Documentation: A Theory and Practice of Capability Notes]]",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM]]",
+        "line_number": 577,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM]]",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Measuring Progress in Heutagogical Development: Assessment Without Competency Standards",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]",
+        "line_number": 580,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "target": "Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems]]",
+        "line_number": 583,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] [[Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems]]",
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy",
+        "anchor": "report-24-self-determined-learning-and-the-pkb-from-pedagogy-to-heutagogy",
+        "line_number": 139,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Synthesis Focus",
+        "anchor": "phase-i-orientation-synthesis-focus",
+        "line_number": 145,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Synthesis Question",
+        "anchor": "the-synthesis-question",
+        "line_number": 156,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Scope and Cross-Domain Preview",
+        "anchor": "scope-and-cross-domain-preview",
+        "line_number": 164,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Roadmap",
+        "anchor": "roadmap",
+        "line_number": 172,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Analytical Framework — Cross-Domain Foundations",
+        "anchor": "phase-ii-analytical-framework-cross-domain-foundations",
+        "line_number": 178,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The PAH Continuum: Beyond the Common Misunderstanding",
+        "anchor": "the-pah-continuum-beyond-the-common-misunderstanding",
+        "line_number": 180,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Self-Determination Theory's Regulatory Continuum",
+        "anchor": "self-determination-theorys-regulatory-continuum",
+        "line_number": 196,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Capability vs. Competency: The Critical Distinction",
+        "anchor": "capability-vs-competency-the-critical-distinction",
+        "line_number": 206,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Double-Loop Learning: The Mechanism of Genuine Self-Determination",
+        "anchor": "double-loop-learning-the-mechanism-of-genuine-self-determination",
+        "line_number": 216,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Critical Examination of Evidence",
+        "anchor": "phase-iii-critical-examination-of-evidence",
+        "line_number": 236,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Heutagogy Research Base",
+        "anchor": "the-heutagogy-research-base",
+        "line_number": 238,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms, Dynamics & Deep Synthesis",
+        "anchor": "phase-iv-mechanisms-dynamics-deep-synthesis",
+        "line_number": 286,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Mechanism 1: The Internalization Engine",
+        "anchor": "mechanism-1-the-internalization-engine",
+        "line_number": 291,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Mechanism 2: The Schema-to-Capability Transformation",
+        "anchor": "mechanism-2-the-schema-to-capability-transformation",
+        "line_number": 302,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Mechanism 3: Double-Loop Learning as Heutagogical Cognition",
+        "anchor": "mechanism-3-double-loop-learning-as-heutagogical-cognition",
+        "line_number": 311,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Mechanism 4: The Socratic Prerequisite",
+        "anchor": "mechanism-4-the-socratic-prerequisite",
+        "line_number": 320,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Mechanism 5: The Knowledge Ecology Emergence",
+        "anchor": "mechanism-5-the-knowledge-ecology-emergence",
+        "line_number": 329,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Implications for PKB Design & Limitations",
+        "anchor": "phase-v-implications-for-pkb-design-limitations",
+        "line_number": 351,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Three PKB Design Stages",
+        "anchor": "three-pkb-design-stages",
+        "line_number": 353,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Limitations and Honest Boundaries",
+        "anchor": "limitations-and-honest-boundaries",
+        "line_number": 381,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Integration & Original Contribution",
+        "anchor": "phase-vi-synthesis-integration-original-contribution",
+        "line_number": 402,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Question Revisited",
+        "anchor": "the-central-question-revisited",
+        "line_number": 404,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Return and Deepen: Two Concepts Revisited",
+        "anchor": "return-and-deepen-two-concepts-revisited",
+        "line_number": 414,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "The Knowledge Ecology Model: Full Articulation",
+        "anchor": "the-knowledge-ecology-model-full-articulation",
+        "line_number": 420,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "Unresolved Questions",
+        "anchor": "unresolved-questions",
+        "line_number": 430,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: PKB Connections & Cross-Report Links",
+        "anchor": "phase-vii-pkb-connections-cross-report-links",
+        "line_number": 436,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VIII: Appendix",
+        "anchor": "phase-viii-appendix",
+        "line_number": 463,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 465,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "B. References",
+        "anchor": "b-references",
+        "line_number": 514,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Methodology and Sources Note",
+        "anchor": "c-methodology-and-sources-note",
+        "line_number": 554,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      },
+      {
+        "level": 3,
+        "text": "D. Expansion Topics",
+        "anchor": "d-expansion-topics",
+        "line_number": 561,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     REPORT 24: SELF-DETERMINED LEARNING AND THE PKB\n     From Pedagogy to Heutagogy\n     PKM/PKB Lifelong Learning Framework Series\n     Report 24 of 30 — Tier 3: Synthesis & Advanced Application\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 132,
+        "source": "24-self-determined-learning-pkm-framework-2026-03-15.md"
+      }
+    ],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "AI-Augmented Heutagogy: Affordances and Risks",
+      "Andragogy",
+      "Autonomy Need",
+      "Canvas",
+      "Capability",
+      "Capability Development",
+      "Capability Documentation: A Theory and Practice of Capability Notes",
+      "Competence Need",
+      "Competency",
+      "Competency Development",
+      "Constructivist-Emergentist",
+      "Correspondence Theory",
+      "Dataview",
+      "Double-Loop Learning",
+      "External Regulation",
+      "Heutagogy",
+      "Internalization Continuum",
+      "Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems",
+      "Knowledge Ecology",
+      "Knowledge Ecology Model",
+      "MOC",
+      "Malcolm Knowles",
+      "Measuring Progress in Heutagogical Development: Assessment Without Competency Standards",
+      "Organismic Integration Theory",
+      "Pedagogy",
+      "Pragmatist",
+      "Relatedness Need",
+      "Report 01: Foundations of Knowledge Architecture",
+      "Report 04: Metacognitive Self-Regulation",
+      "Report 05",
+      "Report 05: Motivation Architecture",
+      "Report 08: Reflective Practice and Experiential Learning",
+      "Report 10",
+      "Report 10: Scaffolding and Fading",
+      "Report 18: Calibration and Epistemic Humility",
+      "Report 19",
+      "Report 19: Sustaining Lifelong Learning",
+      "Report 27: The Complete PKM/PKB Design Framework",
+      "Report 28: The Philosophy of Personal Knowledge",
+      "Schema Theory",
+      "Self-Determination Theory",
+      "Socratic Self-Examination",
+      "The Collaborative Heutagogical PKB: Solving the Relational Paradox",
+      "The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM",
+      "Transformative Learning Protocols: Designing for Perspective Transformation",
+      "Transformative Learning Theory"
+    ],
+    "unique_wiki_link_count": 46,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "builds-on": [
+        "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]",
+        "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]",
+        "[[Report 08: Reflective Practice and Experiential Learning]]",
+        "[[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]",
+        "[[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]"
+      ]
+    },
+    "backlink_candidates": [
+      "AI-Augmented Heutagogy: Affordances and Risks",
+      "Andragogy",
+      "Autonomy Need",
+      "Canvas",
+      "Capability",
+      "Capability Development",
+      "Capability Documentation: A Theory and Practice of Capability Notes",
+      "Competence Need",
+      "Competency",
+      "Competency Development",
+      "Constructivist-Emergentist",
+      "Correspondence Theory",
+      "Dataview",
+      "Double-Loop Learning",
+      "External Regulation",
+      "Heutagogy",
+      "Internalization Continuum",
+      "Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems",
+      "Knowledge Ecology",
+      "Knowledge Ecology Model",
+      "MOC",
+      "Malcolm Knowles",
+      "Measuring Progress in Heutagogical Development: Assessment Without Competency Standards",
+      "Organismic Integration Theory",
+      "Pedagogy",
+      "Pragmatist",
+      "Relatedness Need",
+      "Report 01: Foundations of Knowledge Architecture",
+      "Report 04: Metacognitive Self-Regulation",
+      "Report 05",
+      "Report 05: Motivation Architecture",
+      "Report 08: Reflective Practice and Experiential Learning",
+      "Report 10",
+      "Report 10: Scaffolding and Fading",
+      "Report 18: Calibration and Epistemic Humility",
+      "Report 19",
+      "Report 19: Sustaining Lifelong Learning",
+      "Report 27: The Complete PKM/PKB Design Framework",
+      "Report 28: The Philosophy of Personal Knowledge",
+      "Schema Theory",
+      "Self-Determination Theory",
+      "Socratic Self-Examination",
+      "The Collaborative Heutagogical PKB: Solving the Relational Paradox",
+      "The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM",
+      "Transformative Learning Protocols: Designing for Perspective Transformation",
+      "Transformative Learning Theory"
+    ]
+  }
+}

@@ -2,7 +2,7 @@
   "extraction_metadata": {
     "script_name": "pkb_extractor.py",
     "script_version": "1.1.0",
-    "extraction_timestamp": "2026-03-14T10:50:56.495818",
+    "extraction_timestamp": "2026-03-15T11:18:28.648803",
     "source_file": "09-designing-the-learning-pkb-pkm-framework-2026-03-14.md",
     "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\_pkm-and-pkb-framework-1.0.0\\09-designing-the-learning-pkb-pkm-framework-2026-03-14.md",
     "source_file_size_bytes": 90701,
@@ -24,7 +24,7 @@
         "cognitive-psychology",
         "educational-psychology"
       ],
-      "analytical-focus": ">",
+      "analytical-focus": "How should the physical architecture of a PKB — its folders, tags, links, note types, and metadata schemas — be designed to align with how the mind actually organizes, retrieves, and constructs knowledge, integrating the foundations of Schema Theory, Cognitive Load Theory, Self-Regulated Learning, and Memory Systems established in Reports 01, 02, 04, and 06?\n",
       "framework-series-position": "Report 09 of 30 — Tier 2: Advanced Integration & Design",
       "builds-on": [
         "[[Report 01: Foundations of Knowledge Architecture]]",
@@ -61,7 +61,13 @@
         "pkb/note-types",
         "report-09"
       ],
-      "analytical-contributions": [],
+      "analytical-contributions": {
+        "analytical-insight": 5,
+        "what-the-evidence-suggests": 3,
+        "tension-identified": 3,
+        "cross-domain-connection": 5,
+        "original-synthesis": 2
+      },
       "related-concepts": [
         "[[Cognitive Architecture Isomorphism Principle]]",
         "[[Schema Theory]]",

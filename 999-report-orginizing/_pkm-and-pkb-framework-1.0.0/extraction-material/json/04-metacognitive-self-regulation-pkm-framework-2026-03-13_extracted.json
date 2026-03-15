@@ -2,11 +2,11 @@
   "extraction_metadata": {
     "script_name": "pkb_extractor.py",
     "script_version": "1.1.0",
-    "extraction_timestamp": "2026-03-14T10:50:56.352124",
+    "extraction_timestamp": "2026-03-15T11:18:28.516173",
     "source_file": "04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
     "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\_pkm-and-pkb-framework-1.0.0\\04-metacognitive-self-regulation-pkm-framework-2026-03-13.md",
     "source_file_size_bytes": 88799,
-    "processing_time_seconds": 0.024
+    "processing_time_seconds": 0.016
   },
   "document_metadata": {
     "frontmatter": {
@@ -69,9 +69,16 @@
       "status": "evergreen",
       "maturity": "highly-developed",
       "confidence": "high",
-      "framework-series-position": "04",
+      "framework-series-position": 4,
       "analytical-focus": "How do Metacognition, Self-Regulated Learning, and Reflective Thinking combine to form the cognitive control system that makes PKM effective rather than merely mechanical — and what does this mean for how a PKB should be designed?",
-      "analytical-contributions": [],
+      "analytical-contributions": {
+        "analytical-insight": 3,
+        "what-the-evidence-suggests": 3,
+        "tension-identified": 1,
+        "cross-domain-connection": 4,
+        "original-synthesis": 1,
+        "total-analytical-commentary": 12
+      },
       "builds-on": [
         "[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]",
         "[[02-architecture-of-learning-pkm-framework-2026-03-13]]",

@@ -1,0 +1,2330 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-15T11:18:28.815382",
+    "source_file": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\_pkm-and-pkb-framework-1.0.0\\17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+    "source_file_size_bytes": 95910,
+    "processing_time_seconds": 0.021
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "pkm-17-note-making-knowledge-construction-2026-03-14",
+      "doc_type": "permanent-note",
+      "doc_created": "2026-03-14",
+      "doc_modified": "2026-03-14",
+      "author": "claude-sonnet-4-6",
+      "primary_domain": "cognitive-psychology",
+      "secondary_domains": [
+        "educational-psychology",
+        "knowledge-management",
+        "constructivism",
+        "instructional-design",
+        "learning-experience-design",
+        "psychology-of-learning"
+      ],
+      "analytical-focus": "How do research on Writing to Learn, Elaborative Interrogation, Self-Explanation, and Schema Construction inform the actual process of creating notes — transforming note-making from passive information capture into active knowledge construction? What does the cognitive science of generative processing reveal about what separates a note that builds understanding from one that merely archives information?\n",
+      "framework-series-position": "Report 17 of 30 — Tier 2: Advanced Integration & Design",
+      "builds-on": [
+        "[[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]",
+        "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]",
+        "[[Report 08: Reflective Practice and Experiential Learning]]",
+        "[[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]"
+      ],
+      "feeds-into": [
+        "[[Report 18: Calibration and Epistemic Humility]]",
+        "[[Report 20: Retrieval-Enhanced Knowledge Networks]]",
+        "[[Report 23: Learning Environments Design — The PKB as a Constructed Learning Space]]",
+        "[[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]"
+      ],
+      "cross-report-dependencies": [
+        "[[Report 03: Schema Construction, Constructivism, Elaboration Theory]]",
+        "[[Report 02: Germane Load vs. Extraneous Load]]",
+        "[[Report 06: Encoding Specificity, Testing Effect]]",
+        "[[Report 16: Generation Effect, Desirable Difficulties]]"
+      ],
+      "status": "evergreen",
+      "maturity": "highly-developed",
+      "confidence": "high",
+      "knowledge_level": "advanced",
+      "analytical-contributions": {
+        "analytical-insight": 5,
+        "what-the-evidence-suggests": 3,
+        "tension-identified": 2,
+        "cross-domain-connection": 4,
+        "original-synthesis": 2
+      },
+      "tags": [
+        "cognitive-psychology/self-explanation",
+        "cognitive-psychology/elaborative-interrogation",
+        "cognitive-psychology/generative-learning",
+        "cognitive-psychology/schema-construction",
+        "educational-psychology/writing-to-learn",
+        "educational-psychology/note-making",
+        "constructivism/knowledge-construction",
+        "knowledge-management/note-making-workflows",
+        "knowledge-management/progressive-summarization",
+        "instructional-design/elaboration",
+        "pkm-framework",
+        "pkb-design",
+        "report-17"
+      ],
+      "related_concepts": [
+        "[[Writing to Learn]]",
+        "[[Generative Learning Theory]]",
+        "[[Self-Explanation Effect]]",
+        "[[Elaborative Interrogation]]",
+        "[[Schema Construction]]",
+        "[[ICAP Framework]]",
+        "[[Wittrock]]",
+        "[[Chi]]",
+        "[[Mueller and Oppenheimer]]",
+        "[[Pressley]]",
+        "[[Constructivism]]",
+        "[[Cognitive Load Theory]]",
+        "[[Generation Effect]]",
+        "[[Progressive Summarization]]",
+        "[[Atomic Notes]]",
+        "[[Elaboration Prompts]]",
+        "[[Note-Making vs Note-Taking]]",
+        "[[Articulatory Construction Principle]]",
+        "[[Cognitive Event Model]]"
+      ],
+      "summary": "Cross-domain synthesis of Writing to Learn (educational psychology), Generative Learning Theory (cognitive psychology), Self-Explanation research (cognitive psychology), Elaborative Interrogation (cognitive psychology), the ICAP Framework (educational psychology), and Constructivism (educational philosophy) — revealing how the act of writing notes is itself a cognitive act of meaning-construction rather than information storage. Central contributions: (1) the Articulatory Construction Principle — knowledge becomes durably encoded only when actively articulated in ways that make implicit understanding explicit; (2) the Cognitive Event Model of note-making — each note is not a storage event but a constructive cognitive event whose quality depends on the generativity of the making process. Translates these findings into concrete PKB design guidance including elaboration prompt systems, the Constructive Note-Making Protocol, and the Active Articulation Spectrum for evaluating note-making quality.\n",
+      "aliases": [
+        "[[Note-Making as Knowledge Construction]]",
+        "[[Writing to Learn in PKM]]",
+        "[[PKM Report 17]]"
+      ],
+      "link_up": "[[Report Generation Prompt Suite]]",
+      "link_related": [
+        "[[Report 03: Constructing Understanding]]",
+        "[[Report 16: Desirable Difficulties by Design]]",
+        "[[Report 18: Calibration and Epistemic Humility]]"
+      ]
+    },
+    "word_count": 12772,
+    "character_count": 90817,
+    "line_count": 503,
+    "heading_count": 42
+  },
+  "extraction_summary": {
+    "total_items_extracted": 186,
+    "by_type": {
+      "headings": 42,
+      "callouts": 62,
+      "wiki_links": 82,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn",
+      "anchor": "report-17-note-making-as-knowledge-construction-the-cognitive-science-of-writing-to-learn",
+      "line_number": 119,
+      "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Synthesis Focus",
+          "anchor": "phase-i-orientation-synthesis-focus",
+          "line_number": 125,
+          "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Filing Cabinet Fallacy",
+              "anchor": "the-filing-cabinet-fallacy",
+              "line_number": 127,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Synthesis Question and Its Disciplinary Architecture",
+              "anchor": "the-synthesis-question-and-its-disciplinary-architecture",
+              "line_number": 139,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Scope and Roadmap",
+              "anchor": "scope-and-roadmap",
+              "line_number": 149,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Analytical Framework — Cross-Domain Foundations",
+          "anchor": "phase-ii-analytical-framework-cross-domain-foundations",
+          "line_number": 157,
+          "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Disciplinary Lens Array",
+              "anchor": "the-disciplinary-lens-array",
+              "line_number": 159,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Initial Synthesis: The Disciplinary Convergence",
+              "anchor": "initial-synthesis-the-disciplinary-convergence",
+              "line_number": 184,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Critical Examination of Evidence",
+          "anchor": "phase-iii-critical-examination-of-evidence",
+          "line_number": 205,
+          "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Mapping the Evidence Landscape",
+              "anchor": "mapping-the-evidence-landscape",
+              "line_number": 207,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Cluster 1: The Mueller and Oppenheimer Findings",
+              "anchor": "cluster-1-the-mueller-and-oppenheimer-findings",
+              "line_number": 215,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Cluster 2: The Self-Explanation Research Program",
+              "anchor": "cluster-2-the-self-explanation-research-program",
+              "line_number": 225,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Cluster 3: Elaborative Interrogation",
+              "anchor": "cluster-3-elaborative-interrogation",
+              "line_number": 237,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Cluster 4: The Generation Effect",
+              "anchor": "cluster-4-the-generation-effect",
+              "line_number": 245,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Cluster 5: Writing-to-Learn Intervention Research",
+              "anchor": "cluster-5-writing-to-learn-intervention-research",
+              "line_number": 255,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Evaluating the Evidence Base",
+              "anchor": "evaluating-the-evidence-base",
+              "line_number": 263,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms, Dynamics & Deep Synthesis",
+          "anchor": "phase-iv-mechanisms-dynamics-deep-synthesis",
+          "line_number": 283,
+          "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Architecture of Generative Processing",
+              "anchor": "the-architecture-of-generative-processing",
+              "line_number": 285,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Mechanism 1: The Articulatory Construction Cycle",
+              "anchor": "mechanism-1-the-articulatory-construction-cycle",
+              "line_number": 293,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Mechanism 2: The Self-Explanation as Schema Surgery",
+              "anchor": "mechanism-2-the-self-explanation-as-schema-surgery",
+              "line_number": 309,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Mechanism 3: WHY-Questioning as Causal Embedding",
+              "anchor": "mechanism-3-why-questioning-as-causal-embedding",
+              "line_number": 317,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Mechanism 4: Return and Deepen — Schema Construction Revisited",
+              "anchor": "mechanism-4-return-and-deepen-schema-construction-revisited",
+              "line_number": 327,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Mechanism 5: The Writing-Thinking Loop",
+              "anchor": "mechanism-5-the-writing-thinking-loop",
+              "line_number": 337,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Implications for PKM/PKB Design & Limitations",
+          "anchor": "phase-v-implications-for-pkmpkb-design-limitations",
+          "line_number": 363,
+          "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "From Mechanisms to Design Principles",
+              "anchor": "from-mechanisms-to-design-principles",
+              "line_number": 365,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 1: The Note-Making vs. Note-Taking Distinction as a Structural Commitment",
+              "anchor": "design-principle-1-the-note-making-vs-note-taking-distinction-as-a-structural-commitment",
+              "line_number": 369,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 2: The Elaboration Prompt System",
+              "anchor": "design-principle-2-the-elaboration-prompt-system",
+              "line_number": 379,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 3: The Constructive Note-Making Protocol",
+              "anchor": "design-principle-3-the-constructive-note-making-protocol",
+              "line_number": 387,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 4: Progressive Summarization as Generative Processing",
+              "anchor": "design-principle-4-progressive-summarization-as-generative-processing",
+              "line_number": 403,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Design Principle 5: Atomic Notes and the Note-Making Quality Trade-off",
+              "anchor": "design-principle-5-atomic-notes-and-the-note-making-quality-trade-off",
+              "line_number": 411,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Limitations",
+              "anchor": "limitations",
+              "line_number": 421,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Integration & Original Contribution",
+          "anchor": "phase-vi-synthesis-integration-original-contribution",
+          "line_number": 441,
+          "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Assembling the Cross-Domain Picture",
+              "anchor": "assembling-the-cross-domain-picture",
+              "line_number": 443,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Central Synthesis Question Revisited",
+              "anchor": "the-central-synthesis-question-revisited",
+              "line_number": 457,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Return-and-Deepen: Schema Construction Revisited with Full Context",
+              "anchor": "return-and-deepen-schema-construction-revisited-with-full-context",
+              "line_number": 465,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Unresolved Questions",
+              "anchor": "unresolved-questions",
+              "line_number": 469,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: PKB Connections & Cross-Report Links",
+          "anchor": "phase-vii-pkb-connections-cross-report-links",
+          "line_number": 475,
+          "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase VIII: Appendix",
+          "anchor": "phase-viii-appendix",
+          "line_number": 505,
+          "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 507,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. References",
+              "anchor": "b-references",
+              "line_number": 544,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Methodology and Sources Note",
+              "anchor": "c-methodology-and-sources-note",
+              "line_number": 581,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. Expansion Topics",
+              "anchor": "d-expansion-topics",
+              "line_number": 589,
+              "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Before You Begin: Your Current Theory",
+        "body": "Before reading further, take a moment to examine your own note-making practice. When you encounter something you want to remember — an article, a lecture, a conversation — what do you actually do? Do you copy phrases? Summarize in your own words? Ask yourself questions about it? Make connections to things you already know? And when you look back at notes you made six months ago, which ones feel like genuine understanding — and which feel like archived information you'd have to re-learn? Noticing the difference between those two categories is the first step toward understanding what this report is about.",
+        "line_number": 135,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 7289,
+        "char_end": 7969
+      },
+      {
+        "type": "definition",
+        "title": "Writing to Learn (Educational Psychology — Emig, Klein, Applebee)",
+        "body": "A pedagogical and research tradition, originating in Emig's 1977 landmark paper \"Writing as a Mode of Learning,\" that positions writing not merely as a communication tool but as a uniquely powerful instrument for developing, clarifying, and consolidating understanding. The core claim — supported by substantial empirical evidence accumulated across the following five decades — is that the cognitive demands of writing (selecting information, organizing it into coherent language, generating transitions and explanations) force the kind of deep processing that passive reading or listening cannot. Boundary condition: not all writing is equally effective for learning. Copying or transcribing does not engage the mechanisms that make writing powerful. Only generative, meaning-making writing — writing that requires the writer to do cognitive work — activates the learning mechanisms the tradition identifies.",
+        "line_number": 163,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 11441,
+        "char_end": 12440
+      },
+      {
+        "type": "definition",
+        "title": "Generative Learning Theory (Cognitive Psychology — Wittrock, 1974, 1990)",
+        "body": "Merlin Wittrock's model positing that learning occurs through the active generation of relationships between new information and prior knowledge, and between different elements of new information. The learner's task is not to receive information but to generate connections — analogies, summaries, questions, inferences — that integrate new material into existing cognitive structures. Wittrock distinguished between reproductive processing (repeating or copying information) and generative processing (actively relating new information to prior knowledge through self-generated elaborations). The empirical prediction — repeatedly confirmed — is that generative processing produces substantially superior retention and transfer compared to reproductive processing, even when both involve the same information and similar time investment. Boundary condition: generative processing requires sufficient prior knowledge to enable meaningful connection-making; in total novice conditions, highly directed support may be needed before truly generative engagement is possible.",
+        "line_number": 166,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 12441,
+        "char_end": 13607
+      },
+      {
+        "type": "definition",
+        "title": "Self-Explanation Effect (Cognitive Psychology — Chi, VanLehn, de Leeuw, 1989–1994)",
+        "body": "The robust empirical finding that learners who spontaneously explain material to themselves while studying — articulating not just what is stated but why it follows and how it connects — achieve substantially better learning outcomes than learners who passively read the same material. Michelene Chi and colleagues identified self-explanation as a specific cognitive operation: monitoring the developing mental model for coherence gaps, generating inferences to fill those gaps, and revising the mental model accordingly. The effect is large (often Cohen's d > 0.5 in controlled studies), generalizes across domains, and predicts not only recall but transfer to novel problems. Boundary condition: the quality of self-explanation varies substantially. Effective self-explanation generates genuine inferences; ineffective \"self-explanation\" merely paraphrases stated information without adding new understanding.",
+        "line_number": 169,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 13608,
+        "char_end": 14625
+      },
+      {
+        "type": "definition",
+        "title": "Elaborative Interrogation (Cognitive Psychology — Pressley, Woloshyn, McDaniel, 1992–2000)",
+        "body": "A learning strategy in which the learner generates WHY explanations for facts or concepts being studied — asking and answering the question \"why is this true?\" or \"why does this make sense?\" — rather than passively reading or rereading. The research consistently shows that elaborative interrogation improves both recall and comprehension relative to passive study, with particularly strong effects for material that the learner has some prior knowledge to connect it to. The cognitive mechanism is activation of causal reasoning and connection to existing knowledge networks. Boundary condition: elaborative interrogation is most effective when learners have sufficient prior knowledge to generate plausible causal explanations; with very unfamiliar material, the effect is weaker because the learner cannot generate meaningful causal connections.",
+        "line_number": 172,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 14626,
+        "char_end": 15588
+      },
+      {
+        "type": "definition",
+        "title": "ICAP Framework (Educational Psychology — Chi & Wylie, 2014)",
+        "body": "Chi and Wylie's taxonomy of learning engagement modes, organized in descending order of learning effectiveness: **Interactive** (learners engage in dialogue or discussion that generates new ideas neither party had independently), **Constructive** (learners produce outputs that go beyond the presented information — explanations, inferences, summaries in own words), **Active** (learners manipulate material physically or procedurally without generating new ideas — highlighting, re-reading), and **Passive** (learners receive information without external activity — listening, watching). The ICAP hypothesis holds that Constructive > Active > Passive in learning effectiveness, with Interactive providing additional benefits through social knowledge co-construction. Crucially, the distinction between Active and Constructive is not about effort or time — it is about whether the learner generates new mental content or merely processes existing content.",
+        "line_number": 175,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 15589,
+        "char_end": 16627
+      },
+      {
+        "type": "definition",
+        "title": "Schema Construction (Cognitive Psychology — Bartlett, Rumelhart, Anderson, Norman)",
+        "body": "The process by which new information is integrated into existing cognitive structures ([[Schemas]]) through two complementary operations: assimilation (fitting new information into existing schemas) and accommodation (revising existing schemas to incorporate information that does not fit). Schema construction is not merely additive — it reorganizes existing knowledge as it integrates new knowledge. This is why understanding is qualitatively different from information possession: genuine understanding means that the new knowledge has been structurally integrated into existing schemas, enabling inference, application, and transfer. Established in [[Report 03: Constructing Understanding]], schema construction is the cognitive architecture that Writing to Learn, Self-Explanation, and Elaborative Interrogation all, in different ways, facilitate.",
+        "line_number": 178,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 16628,
+        "char_end": 17586
+      },
+      {
+        "type": "definition",
+        "title": "Constructivism (Educational Philosophy — Piaget, Vygotsky, Dewey)",
+        "body": "The family of epistemological and educational theories holding that knowledge is not transmitted from teacher (or text) to learner but actively constructed by the learner through engagement with experience, material, and other minds. Piaget's [[Constructivism]] emphasizes individual cognitive construction through the assimilation-accommodation cycle. Vygotsky's [[Social Constructivism]] emphasizes the role of social interaction and language in guiding cognitive construction. Dewey's [[Pragmatism]] emphasizes that knowledge is constructed through purposeful engagement with genuine problems. All three traditions share the foundational claim: the learner cannot be a passive recipient of knowledge. Knowledge, by its nature, must be made — not received.",
+        "line_number": 181,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 17587,
+        "char_end": 18434
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Wittrock Meets Vygotsky: Language as the Medium of Construction",
+        "body": "Wittrock's [[Generative Learning Theory]] and Vygotsky's [[Social Constructivism]] approach the role of language in learning from very different angles — one through laboratory cognitive psychology, the other through developmental philosophy — and arrive at a structurally identical conclusion. For Wittrock, generating verbal elaborations (summaries, analogies, questions) is the cognitive operation through which new information becomes connected to existing schemas. For Vygotsky, language is the primary tool of thought itself — internalized social speech becomes the medium through which higher-order thinking occurs. The convergence: writing is powerful as a learning tool because it exteriorizes the internal language through which thought happens, forcing that language to become explicit, coherent, and inspectable. A note is not a record of thought that occurred before writing; it is, in large measure, the medium through which that thought occurs. This has profound implications for PKB design: the act of creating a note *is* a cognitive act, not a documentation act.",
+        "line_number": 188,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 19220,
+        "char_end": 20402
+      },
+      {
+        "type": "key-claim",
+        "title": "The Constructive Note-Making Claim",
+        "body": "The quality of a note as a learning artifact is determined not by its accuracy as a copy of source material but by the degree to which its creation required the note-maker to generate new mental content — inferences, connections, explanations, questions — that was not explicitly present in the source. This is the operationalization, in PKB terms, of the Constructive > Active > Passive gradient in the ICAP framework.",
+        "line_number": 192,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 20403,
+        "char_end": 20879
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Framework",
+        "body": "**Comprehension**: Which concept from an unfamiliar discipline most shifts your thinking about what a note actually is? Many PKB practitioners have an intuitive sense that writing in their own words is \"better\" — but can you now articulate the specific cognitive mechanisms that make it better?\n\n**Application**: Looking at your current note-making practice through the ICAP lens — are your notes typically Passive (copied), Active (highlighted, organized), or Constructive (generated in your own words with inferences)? What would a shift toward Constructive look like practically?\n\n**Extension**: The framework predicts that Interactive processing (co-construction through dialogue) is even more powerful than individual Constructive processing. What would Interactive note-making look like in a personal PKB? This question points toward an extension the report will not fully explore but that deserves attention.",
+        "line_number": 195,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 20880,
+        "char_end": 21852
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Knowledge State — Before",
+        "body": "Before engaging with the evidence, record your current position: Do you believe that the process of writing notes (as opposed to the product — the notes themselves) significantly affects how much you learn from studying? Rate your confidence in this belief from 1 to 10. What evidence or experience would most change your position?",
+        "line_number": 211,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 22525,
+        "char_end": 22913
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Mueller and Oppenheimer Findings Misread",
+        "body": "The popular narrative around Mueller and Oppenheimer's research is that handwriting is better than typing for learning. The actual finding is more subtle and more important: verbatim transcription is worse than selective, reformulated note-making — and laptops enabled verbatim transcription while the physical constraint of handwriting forced reformulation. In their own experiments, when laptop users were explicitly instructed *not* to transcribe verbatim, the performance gap narrowed substantially. The variable that mattered was not the instrument but the processing mode. This distinction is critical for PKB design: the danger is not typing. The danger is passivity. PKB tools that enable one-click web clipping, bulk article imports, or automated transcript capture are, in cognitive terms, equivalent to the laptop condition that produced the worst learning outcomes. They enable the accumulation of information without the construction of knowledge. The lesson is not \"type less\" but \"generate more.\"",
+        "line_number": 219,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 23560,
+        "char_end": 24657
+      },
+      {
+        "type": "evidence",
+        "title": "Chi et al. Self-Explanation Effect — Core Findings",
+        "body": "Across multiple studies from the 1989 original through work extending into the 2000s, Chi and colleagues found: (1) Self-explanation frequency predicts learning outcomes even after controlling for time on task, suggesting the effect is not simply about spending more time with material. (2) The quality of self-explanations — specifically their inferential density — matters more than their frequency. (3) Students who self-explain exhibit better transfer to novel problems, not just better recall of studied examples. (4) The effect generalizes from physics to biology, mathematics, and medical diagnosis. (5) When students are taught to self-explain (rather than doing it spontaneously), they show significant learning gains over uninstructed controls. The evidence strength is high: multiple replications, active research group, domain generalization, effect on both recall and transfer.",
+        "line_number": 231,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 26754,
+        "char_end": 27718
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Elaborative Interrogation as a WHY-Engine for the PKB",
+        "body": "The elaborative interrogation research has a subtler implication for PKB design than its standard pedagogical application suggests. Pressley's paradigm was designed for fact-learning contexts — relatively isolated propositions. But the WHY-questioning mechanism generalizes importantly: it is the cognitive operation through which facts become embedded in explanatory structures. A fact that has been WHY-questioned is no longer a free-floating proposition in memory; it has been integrated into a causal network. This is exactly the difference between a PKB note that reads \"The spacing effect improves retention\" and one that reads \"The spacing effect improves retention because retrieval from memory is itself a reconstructive act — when we retrieve, we re-encode, and retrieval after forgetting requires more effortful reconstruction, which produces stronger re-encoding.\" The second note records a WHY-explanation. It is more effortful to write. It is substantially more valuable as a knowledge object.",
+        "line_number": 241,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 29040,
+        "char_end": 30134
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "The Generation Effect Meets Constructivism: Convergence from Laboratory and Philosophy",
+        "body": "The [[Generation Effect]] research tradition is laboratory cognitive psychology at its most controlled: carefully isolated variables, measured recall performance, rigorous replication. [[Constructivism]] is educational philosophy at its most theoretical: epistemological arguments about the nature of knowledge, grounded in developmental observation rather than laboratory experiment. These traditions have almost no direct scholarly dialogue. Yet they converge on the identical structural claim. The generation effect operationalizes, in measurable laboratory terms, what constructivism has argued philosophically: meaning constructed through active generation is qualitatively different from — and more durably held than — meaning received through passive transmission. The convergence is not coincidental. Both traditions are tracking the same underlying cognitive reality: that the constructive act of generation is the mechanism of learning, not merely its byproduct.",
+        "line_number": 251,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 31341,
+        "char_end": 32438
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "The Heterogeneity in Writing-to-Learn Research Points to the ICAP Gradient",
+        "body": "The most important finding in Klein's meta-analysis is not the average effect size — it is the heterogeneity. Writing-to-learn interventions vary enormously in their effectiveness, and the variance is theoretically explicable: it tracks precisely the ICAP framework's Constructive/Active distinction. Writing that requires the learner to generate content (inferences, explanations, connections, questions) shows large effects. Writing that allows the learner to reproduce content (copying, summarizing stated information, describing without analyzing) shows small or no effects. This suggests that the pedagogical recommendation \"write more\" is inadequate and potentially misleading. The recommendation that the evidence supports is: \"generate more — write in ways that require you to produce mental content that was not explicitly present in the source.\" For PKB design, this means that a template prompt asking \"What does this connect to?\" produces more learning value than a template that records \"Summary of source.\"",
+        "line_number": 259,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 33168,
+        "char_end": 34304
+      },
+      {
+        "type": "tension-identified",
+        "title": "The Evidence-to-Practice Translation Problem",
+        "body": "The writing-to-learn and self-explanation research provides strong evidence for the value of generative processing in controlled educational settings. Translating this to PKB design practice involves a genuine tension: the research conditions typically involve a specific learning task (a textbook chapter to learn, a problem set to complete), while PKB note-making typically involves self-directed engagement with diverse material without immediate testing pressure. It is possible that the optimal generative processing strategy differs by context — that what works for learning physics from a textbook may not directly map to processing a collection of articles on knowledge management. The evidence provides clear direction about the cognitive mechanisms to activate, but PKB practitioners must exercise design judgment about how to activate those mechanisms in their specific context.",
+        "line_number": 269,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 35938,
+        "char_end": 36905
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Evidence",
+        "body": "**Comprehension**: Which research finding most significantly shifts your understanding of why some notes feel \"alive\" and useful six months later while others feel like foreign content you'd need to re-learn?\n\n**Application**: If you were to redesign your note-making workflow based on this evidence alone — before reading the design implications in Phase V — what single change would you make? Is it a prompt? A constraint? A process?\n\n**Extension**: Where do you find yourself resisting the evidence? Perhaps: \"I don't have time for all this elaboration.\" That resistance is important data — it suggests a tension between the cognitive science of optimal note-making and the practical economics of note-making under time pressure. Phase V will address this tension directly.",
+        "line_number": 273,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 36906,
+        "char_end": 37738
+      },
+      {
+        "type": "important",
+        "title": "Complexity Transition",
+        "body": "The analysis ahead integrates the mechanistic accounts from cognitive psychology with the epistemological framework of constructivism and the structural implications of the ICAP model to produce a unified account of how generative note-making builds knowledge. It builds directly on the evidence from Phase III and the framework from Phase II. If both feel solid, the mechanisms ahead will make the design implications in Phase V almost self-evident.",
+        "line_number": 289,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 38203,
+        "char_end": 38699
+      },
+      {
+        "type": "analytical-insight",
+        "title": "The Cycle Has a Critical Dependency: Prior Knowledge as the Raw Material of Inference",
+        "body": "The Articulatory Construction Cycle depends on a resource that is often invisible in discussions of note-making technique: prior knowledge. Inference generation — Stage 3 — requires the learner to have something to connect new information *to*. This is why both the Elaborative Interrogation research and the Self-Explanation research show weaker effects for learners with very little prior knowledge in the domain: they cannot generate meaningful inferences because they have insufficient existing schema structure to connect to. This has a critical implication for PKB design that is typically ignored. The same note-making process will produce very different cognitive effects depending on the learner's prior knowledge. In domains where prior knowledge is thin, generative note-making needs scaffolding — specific prompts that direct the learner toward productive inference directions they might not find independently. In domains of expertise, the scaffolding should fade and the learner should be left to generate connections freely. This is the note-making analog of the [[Expertise Reversal Effect]] established in [[Report 10: Scaffolding and Fading]].",
+        "line_number": 305,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 41234,
+        "char_end": 42514
+      },
+      {
+        "type": "cross-domain-connection",
+        "title": "Elaborative Interrogation Meets the SECI Model: Making Tacit Knowledge Explicit",
+        "body": "Nonaka's [[SECI Model]] from [[Knowledge Management]] describes four modes of knowledge creation, including \"Externalization\" — the conversion of tacit knowledge (embodied, intuitive, difficult to articulate) into explicit knowledge (documented, communicable, inspectable). Elaborative interrogation, as a cognitive operation, is an externalization mechanism: when you ask \"why is this true?\" and generate a causal explanation, you are externalizing the implicit causal understanding that underlies your pattern recognition in the domain. Expert practitioners often cannot directly state why they make the decisions they make — their expertise is tacit. The WHY-questioning process forces them to externalize that tacit causal knowledge. For PKB design, this means that elaborative interrogation is not only a learning strategy for novices acquiring new information — it is also a knowledge capture strategy for experts making their existing expertise explicit. The domain expert who asks themselves WHY they hold each belief in their domain is performing genuine knowledge externalization, not just learning reinforcement.",
+        "line_number": 323,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 45895,
+        "char_end": 47136
+      },
+      {
+        "type": "analytical-insight",
+        "title": "Accommodation Notes vs. Assimilation Notes — A Distinction the PKM Literature Has Not Articulated",
+        "body": "Standard PKM advice treats all note-making as if it were the same cognitive act. But the distinction between assimilation (new info fits existing schema) and accommodation (schema must reorganize) suggests that genuinely different note-making practices are appropriate for genuinely different cognitive situations. An assimilation note should record the connection explicitly: \"This new finding from X confirms/extends/applies my existing understanding of Y in the following way...\" An accommodation note should record the reorganization: \"I previously believed X. This conflicts with X because Y. Revising my understanding: the more accurate picture is Z, which incorporates both the old understanding and the new finding in the following structure...\" Accommodation notes are cognitively more demanding to write, require greater depth of engagement with prior knowledge, and produce proportionally greater learning gain. PKB templates should create space — and provide prompts — for both types, and practitioners should learn to recognize when they are in an accommodation rather than an assimilation situation. The felt sense of surprise, confusion, or dissonance when encountering new information is a signal that accommodation is being demanded.",
+        "line_number": 333,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 48154,
+        "char_end": 49535
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Cognitive Event Model of Note-Making",
+        "body": "Integrating the Articulatory Construction Cycle, Chi's self-explanation mechanism, the elaborative interrogation's causal embedding function, and Vygotsky's account of writing as a cognitive tool, I propose the **Cognitive Event Model** as a unified framework for understanding what a note actually is.\n\nIn this model, a note is not primarily a storage artifact — it is a record of a cognitive event. The cognitive event is the moment of construction: the point at which comprehension monitoring revealed a gap, inference generation filled it, and schema reorganization occurred. The note that records this event has two components: the *content* (what was understood after the construction event) and the *trace* (what the construction process involved — what was confusing, what connection was made, what changed). Conventional note-making records only the content. Genuine knowledge-constructive note-making records both.\n\nThis model has a strong prediction: notes that record traces of cognitive events will be qualitatively more useful for future learning and application than notes that record only content — because the trace encodes not just the output of understanding but the process that produced it, enabling the reader to re-engage with the construction process rather than merely reviewing its product. PKB design should create structural space for trace-recording as well as content-recording. This is a novel design principle not articulated in any of the contributing disciplines but derivable from their integration.",
+        "line_number": 345,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 51125,
+        "char_end": 52739
+      },
+      {
+        "type": "reflection",
+        "title": "Integrating the Mechanisms",
+        "body": "**Comprehension**: Can you identify which of the five mechanisms — Articulatory Construction Cycle, Self-Explanation as Schema Surgery, WHY-questioning as Causal Embedding, Accommodation vs. Assimilation Notes, and the Writing-Thinking Loop — most directly explains the gap between your best and worst notes?\n\n**Application**: Think of a note you made recently that felt genuinely constructive — where writing it changed your understanding. Which mechanism was active? What would you have had to do differently to prevent that mechanism from activating?\n\n**Extension**: The Cognitive Event Model predicts that notes should record traces of the construction process, not just its products. What would a template that explicitly prompted for trace-recording look like? What fields or prompts would it include?",
+        "line_number": 353,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 52740,
+        "char_end": 53605
+      },
+      {
+        "type": "best-practice",
+        "title": "The Minimum Constructive Response Rule",
+        "body": "Design every capture workflow in your PKB to require a minimum constructive response — a brief note in your own words that either (a) explains why the captured material is relevant, (b) connects it to something already in your vault, or (c) poses a question it raises for your existing understanding. Even two sentences meeting this requirement will produce substantially greater encoding than a full-text capture with no processing. The value is not in the two sentences themselves but in the cognitive work required to generate them.",
+        "line_number": 375,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 55255,
+        "char_end": 55857
+      },
+      {
+        "type": "what-the-evidence-suggests",
+        "title": "Progressive Summarization: Valuable but Incomplete",
+        "body": "Progressive summarization addresses a real problem: the raw capture of source material produces notes that are too dense and unsynthesized to be useful. By progressively condensing material to its most salient elements, progressive summarization forces some degree of selection and judgment. This constitutes Active processing in ICAP terms — the learner is doing something with the material, not merely possessing it. However, standard progressive summarization — even through its final summary layer — stops short of Constructive processing. Highlighting what is already stated, bolding what is already stated, and summarizing what is already stated are all reproductive operations. They produce more compressed copies of the source, not learner-generated connections and inferences. Progressive summarization should be supplemented with a generative layer: after completing the summary, the PKB practitioner should write, in entirely their own words and without reference to their progressive summarization, the key insight and why it matters, the most important connection to existing knowledge, and the most important question it leaves open. This generative layer is where the cognitive value of the note-making process is created. The progressive summarization provides the raw material; the generative layer is the construction event.",
+        "line_number": 407,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 59339,
+        "char_end": 60773
+      },
+      {
+        "type": "tension-identified",
+        "title": "Atomicity vs. Construction Depth: A PKM Design Tension",
+        "body": "The [[Atomic Notes]] principle optimizes for organizational clarity and retrieval efficiency: a well-bounded note with one idea is easier to link, tag, and resurface than a sprawling multi-idea note. The cognitive science of generative processing optimizes for construction quality: a note that records the full process of schema reorganization — including what changed, why, and how it connects to existing understanding — produces substantially greater learning value but is necessarily multi-element and relational. The tension is real and has no perfect resolution. A practical heuristic: separate the construction event (the generative note-making moment, which should be as expansive as the cognitive event demands) from the archiving event (the subsequent processing into atomic notes for the knowledge graph). Do not let the organizational requirement of atomicity constrain the constructive requirement of elaboration at the moment of initial engagement. Make the rich construction note first; extract and link the atomic components afterward.",
+        "line_number": 417,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 61945,
+        "char_end": 63085
+      },
+      {
+        "type": "reflection",
+        "title": "Knowledge State — After",
+        "body": "Return to what you recorded at the start of Phase III. Has your confidence in the role of the note-making process (not just the product) increased or decreased? Was the shift incremental — adding new evidence to a position you already held — or structural — requiring you to revise how you think about what note-making is for?\n\n**From Understanding to PKB Design**: If you were to apply one design principle tomorrow, which would it be? The Minimum Constructive Response Rule, the Elaboration Prompt System, the Constructive Note-Making Protocol, the generative layer added to Progressive Summarization, or the Construction Event / Archiving Event distinction?",
+        "line_number": 425,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 63996,
+        "char_end": 64708
+      },
+      {
+        "type": "reflection",
+        "title": "From Understanding to PKB Design",
+        "body": "**Comprehension**: Which limitation feels most important for your specific PKB use case? The formal-education-to-self-direction translation gap? The short-time-horizon measurement issue? The motivational sustainability question?\n\n**Application**: Can you identify one existing note in your vault that exhibits the difference between a storage artifact and a cognitive event record? What would you need to add to the storage artifact to transform it?\n\n**Extension**: The Cognitive Event Model predicts that re-engaging with a trace-recording note should feel different from re-engaging with a content-only note — it should feel like reconnecting with a thinking process, not just re-reading information. Is this your experience with your best notes?",
+        "line_number": 431,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 64709,
+        "char_end": 65521
+      },
+      {
+        "type": "original-synthesis",
+        "title": "The Articulatory Construction Principle",
+        "body": "Integrating the mechanisms from Phase IV and the evidence from Phase III, I propose the **Articulatory Construction Principle** as this report's central synthetic contribution: *Knowledge becomes durably encoded in long-term memory, and available for transfer to new contexts, only when it has been actively articulated in a form that requires the learner to make their implicit understanding explicit.*\n\nThe principle has three components. First, *articulatory*: the mechanism requires external language — writing or speaking — not merely internal thought. Internal thought is too fluid and too susceptible to the fluency illusion to force the gap-detection and inference generation that construction requires. External articulation creates a fixed record that can be inspected, evaluated, and found wanting. Second, *constructive*: the articulation must require the learner to generate content not explicitly present in the source. Paraphrase is not sufficient; inference and connection are required. Third, *explicit*: the articulation must make the implicit explicit — it must draw out the tacit understanding, the felt sense of connection, the intuitive recognition, and force it into communicable form.\n\nThis principle has a corollary with direct PKB implications: **any note-making practice that does not require the note-maker to make their implicit understanding explicit is, from a learning standpoint, essentially valueless beyond the archival function.** This is a strong claim. It is what the integrated evidence supports.",
+        "line_number": 449,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 66922,
+        "char_end": 68536
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Internal PKB Connections",
+        "body": "This report on note-making as knowledge construction connects to your knowledge base in the following key ways:\n\n- **[[Schema Theory]]** — The Articulatory Construction Cycle and the Accommodation vs. Assimilation Note distinction both operate through the assimilation/accommodation mechanism of schema theory. Making this link explicit in your PKB enriches both nodes: schema theory gains a procedural specification (what to do to drive accommodation), and the note-making framework gains a theoretical grounding (why the accommodation note type is cognitively distinct from the assimilation note type).\n\n- **[[Cognitive Load Theory]]** and **[[Germane Load]]** — The claim that generative note-making is valuable because it is more effortful is complicated by cognitive load theory's distinction between germane and extraneous load. Generative note-making increases germane load (schema-construction-relevant processing) not extraneous load. Understanding this distinction enables PKB practitioners to make informed decisions about when to increase effort (activating germane load through generative processing) and when to reduce it (removing extraneous friction that consumes working memory without building schemas). Connects to [[Report 02: The Architecture of Learning]].\n\n- **[[Constructivism]]** — This report operationalizes constructivism at the level of the individual note-making act. Where constructivism as a philosophy asserts that knowledge must be constructed rather than received, this report specifies the exact cognitive operations through which construction occurs during note-making. The link between this report and your constructivism notes enriches both: constructivism gains operational specificity, and the note-making framework gains philosophical depth.\n\n- **[[Desirable Difficulties]]** and **[[Generation Effect]]** — Report 16 established the generation effect as a key desirable difficulty for PKB design. This report localizes the generation effect specifically to the initial note-making moment, establishing it as the first and most leveraged intervention point. The connection reveals a temporal structure: desirable difficulties operate at multiple timepoints in the PKB lifecycle, with generative note-making being the first.\n\n- **[[Metacognition]]** and **[[Comprehension Monitoring]]** — The Articulatory Construction Cycle is fundamentally a metacognitive process: the learner must monitor their own understanding, detect gaps, and generate repairs. Connecting this report to your metacognition notes reveals that good note-making is inherently metacognitive — it is simultaneously a learning act and a self-assessment act. Connects to [[Report 04: Metacognitive Self-Regulation]].\n\n- **[[Tacit Knowledge]]** and **[[SECI Model]]** — The cross-domain connection between Elaborative Interrogation and Nonaka's Externalization mode identifies a dimension of generative note-making not typically recognized in the PKM literature: it is not only a learning tool for novices but a knowledge externalization tool for experts. Connecting this to your knowledge management notes, particularly around tacit knowledge, opens a significant design direction for expert PKB practitioners.\n\n**Cross-Report Links (PKM/PKB Framework Series):**\n\n- **[[Report 03: Constructing Understanding]]** — This report provides the granular note-making complement to Report 03's structural account of knowledge construction in the PKB. Report 03 established the architectural question (how should the PKB be structured to support construction?); this report addresses the operational question (what should the practitioner do, cognitively, at the moment of note creation?). Together they form a complete account of knowledge construction in personal learning systems.\n\n- **[[Report 18: Calibration and Epistemic Humility]]** — The Cognitive Event Model's distinction between content-only notes and trace-recording notes has direct implications for epistemic calibration. Trace-recording notes — which document the process of understanding, including what was confusing and what inferences filled the gaps — are sources of calibration information that content-only notes cannot provide. Report 18 will extend this by examining how PKB design can support accurate self-assessment of understanding quality.\n\n- **[[Report 25: The Integration Problem]]** — The Accommodation Note type identified in this report is precisely the note type most directly relevant to the integration problem: how separate notes become connected understanding. Accommodation notes, by definition, document the moment of connection between new and existing schemas. A PKB full of accommodation notes is one where the integration problem is being continuously solved at the level of individual note-making events.\n\n**Synthetic Observation**: The pattern of connections reveals that note-making, as a cognitive act, is the operational core of the entire PKM/PKB framework. It is the moment where all the architectural, motivational, metacognitive, and retrieval considerations converge into a single practice. The quality of the PKB as a knowledge system is, more than anything else, a function of the quality of the generative engagement that occurs at each individual note-making moment.",
+        "line_number": 477,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 72044,
+        "char_end": 77413
+      },
+      {
+        "type": "definition",
+        "title": "Articulatory Construction Principle (Cognitive Psychology / Educational Psychology — Original Synthesis)",
+        "body": "The principle that knowledge becomes durably encoded and available for transfer only when actively articulated in a form requiring the learner to make their implicit understanding explicit — through inference generation, causal embedding, schema connection, or gap repair. Distinguishes genuinely constructive note-making from reproductive note-taking.",
+        "line_number": 509,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 77473,
+        "char_end": 77953
+      },
+      {
+        "type": "definition",
+        "title": "Cognitive Event Model (Knowledge Management / Cognitive Psychology — Original Synthesis)",
+        "body": "A framework holding that a note is primarily a record of a cognitive event — the moment of schema construction — rather than a storage artifact. Notes have two components: content (what was understood) and trace (the process through which that understanding was constructed, including what was confusing, what inference filled the gap, and what changed). Trace-recording notes are qualitatively more valuable as learning artifacts than content-only notes.",
+        "line_number": 512,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 77954,
+        "char_end": 78521
+      },
+      {
+        "type": "definition",
+        "title": "Constructive Processing (Educational Psychology — Chi & Wylie, 2014)",
+        "body": "The ICAP framework's second-highest mode of learning engagement, in which the learner produces outputs that go *beyond* the presented information — inferences, explanations in own words, connections, summaries that require selection and integration. Contrasted with Active processing (manipulating material without generating new content) and Passive processing (receiving information without activity). Constructive > Active > Passive in learning effectiveness.",
+        "line_number": 515,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 78522,
+        "char_end": 79076
+      },
+      {
+        "type": "definition",
+        "title": "Elaborative Interrogation (Cognitive Psychology — Pressley, Woloshyn, McDaniel, 1992–2000)",
+        "body": "A learning strategy involving the generation of WHY explanations for studied facts or concepts — asking and answering \"why is this true?\" to embed information in causal structures connected to prior knowledge. Produces better recall and comprehension than passive reading, with strongest effects for learners with moderate-to-high prior knowledge in the domain.",
+        "line_number": 518,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 79077,
+        "char_end": 79552
+      },
+      {
+        "type": "definition",
+        "title": "Generative Learning Theory (Cognitive Psychology — Wittrock, 1974, 1990)",
+        "body": "Merlin Wittrock's model that learning occurs through the active generation of connections between new information and prior knowledge. Distinguishes reproductive processing (repeating stated information) from generative processing (generating new connections through summaries, analogies, inferences, questions). Generative processing produces substantially better retention and transfer.",
+        "line_number": 521,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 79553,
+        "char_end": 80037
+      },
+      {
+        "type": "definition",
+        "title": "ICAP Framework (Educational Psychology — Chi & Wylie, 2014)",
+        "body": "A taxonomy of learning engagement modes ordered by learning effectiveness: Interactive > Constructive > Active > Passive. The framework provides a classification system for evaluating whether a given learning activity (including note-making) is operating at a cognitively productive level.",
+        "line_number": 524,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 80038,
+        "char_end": 80410
+      },
+      {
+        "type": "definition",
+        "title": "Note-Making vs. Note-Taking (Knowledge Management — Original Distinction)",
+        "body": "A distinction that the research in this report motivates but that the literature has not consistently articulated. Note-taking is primarily reproductive: copying, transcribing, or paraphrasing source content into a note. Note-making is primarily constructive: generating new content — inferences, connections, causal explanations, questions — that was not explicitly present in the source. The cognitive science strongly supports the superiority of note-making for learning purposes.",
+        "line_number": 527,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 80411,
+        "char_end": 80991
+      },
+      {
+        "type": "definition",
+        "title": "Progressive Summarization (Knowledge Management — Forte, 2017)",
+        "body": "A multi-pass note processing technique involving progressive highlighting, bolding, and summarization of captured material to identify its most salient elements. Valuable as an organizational practice but stops short of Constructive processing in ICAP terms unless supplemented with a generative layer requiring the learner to produce content beyond what is stated in the source.",
+        "line_number": 530,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 80992,
+        "char_end": 81457
+      },
+      {
+        "type": "definition",
+        "title": "Schema Accommodation (Cognitive Psychology — Piaget, Rumelhart, Anderson)",
+        "body": "The process of reorganizing existing cognitive schemas to incorporate new information that does not fit current schema structures. Contrasted with assimilation (fitting new information into existing schemas without reorganization). Accommodation produces qualitative restructuring of understanding rather than mere addition of new information; accommodation notes should record this reorganization explicitly.",
+        "line_number": 533,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 81458,
+        "char_end": 81964
+      },
+      {
+        "type": "definition",
+        "title": "Self-Explanation Effect (Cognitive Psychology — Chi, VanLehn, de Leeuw, 1989–1994)",
+        "body": "The robust finding that learners who generate explanations to themselves about why stated content follows, how it connects to prior knowledge, and what it implies achieve substantially better learning outcomes than learners who passively read the same material. The effect is large, generalizes across domains, and predicts transfer as well as recall.",
+        "line_number": 536,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 81965,
+        "char_end": 82422
+      },
+      {
+        "type": "definition",
+        "title": "Writing to Learn (Educational Psychology — Emig, 1977; Klein, 1999)",
+        "body": "The tradition and research program holding that writing is a powerful mode of learning — not merely communication — because the cognitive demands of generating coherent prose (selection, organization, elaboration) force deep processing that passive reading cannot. Effective writing-to-learn requires generative rather than reproductive writing.",
+        "line_number": 539,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 82423,
+        "char_end": 82859
+      },
+      {
+        "type": "cite",
+        "title": "Chi, M. T. H., Bassok, M., Lewis, M. W., Reimann, P., & Glaser, R. (1989). Self-explanations: How students study and use examples in learning to solve problems. *Cognitive Science, 13*(2), 145–182.",
+        "body": "The foundational self-explanation study, analyzing the study behaviors of students learning physics and identifying self-explanation frequency and quality as the primary predictor of learning outcomes. Directly supports Phase III's Cluster 2 and the mechanism analysis in Phase IV. Essential primary source for any reader developing a deep understanding of the self-explanation effect.",
+        "line_number": 546,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 82884,
+        "char_end": 83484
+      },
+      {
+        "type": "cite",
+        "title": "Chi, M. T. H., & Wylie, R. (2014). The ICAP framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist, 49*(4), 219–243.",
+        "body": "The foundational paper for the ICAP framework, establishing the Interactive > Constructive > Active > Passive taxonomy and the theoretical basis for predicting learning effectiveness from engagement mode. Central to Phase II's analytical framework and the note-making quality analysis in Phase V. Essential reading for PKB practitioners who want a classification system for evaluating their own practice.",
+        "line_number": 549,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 83485,
+        "char_end": 84063
+      },
+      {
+        "type": "cite",
+        "title": "Emig, J. (1977). Writing as a mode of learning. *College Composition and Communication, 28*(2), 122–128.",
+        "body": "The paper that launched the Writing to Learn research tradition. Emig argued, on theoretical grounds drawing on Vygotsky and Luria, that writing is a uniquely powerful learning tool because it requires articulation, organization, and coherence in ways that other learning modes do not. Historical and foundational — understanding this paper contextualizes the subsequent five decades of empirical research.",
+        "line_number": 552,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 84064,
+        "char_end": 84592
+      },
+      {
+        "type": "cite",
+        "title": "Klein, P. D. (1999). Reopening inquiry into cognitive processes in writing-to-learn. *Educational Psychology Review, 11*(3), 203–270.",
+        "body": "Comprehensive review and meta-analysis of the writing-to-learn research, identifying the critical variable — the degree to which writing requires generative rather than reproductive processing — that explains the heterogeneity in effect sizes across studies. Directly supports the Phase III discussion of the writing-to-learn evidence base.",
+        "line_number": 555,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 84593,
+        "char_end": 85084
+      },
+      {
+        "type": "cite",
+        "title": "Mueller, P. A., & Oppenheimer, D. M. (2014). The pen is mightier than the keyboard: Advantages of longhand over laptop note taking. *Psychological Science, 25*(6), 1159–1168.",
+        "body": "The landmark study comparing laptop and longhand note-taking, finding that longhand produces better conceptual learning despite lower note volume. Essential for Phase III's Cluster 1. Supports the interpretation that the critical variable is processing mode (generative vs. reproductive) rather than writing instrument.",
+        "line_number": 558,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 85085,
+        "char_end": 85596
+      },
+      {
+        "type": "cite",
+        "title": "Pressley, M., Symons, S., McDaniel, M. A., Snyder, B. L., & Turnure, J. E. (1988). Elaborative interrogation facilitates acquisition of confusing facts. *Journal of Educational Psychology, 80*(3), 268–278.",
+        "body": "One of the foundational elaborative interrogation studies, establishing that WHY-questioning improves recall of confusing facts relative to other study strategies. Supports Phase III's Cluster 3 and the WHY-questioning mechanism in Phase IV.",
+        "line_number": 561,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 85597,
+        "char_end": 86061
+      },
+      {
+        "type": "cite",
+        "title": "Slamecka, N. J., & Graf, P. (1978). The generation effect: Delineation of a phenomenon. *Journal of Experimental Psychology: Human Learning and Memory, 4*(6), 592–604.",
+        "body": "The foundational generation effect paper, establishing that generated items are recalled better than read items even when the information is identical. Provides the laboratory foundation for the PKB design principle that generative note-making produces better encoding than passive capture.",
+        "line_number": 564,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 86062,
+        "char_end": 86537
+      },
+      {
+        "type": "cite",
+        "title": "VanLehn, K., Jones, R. M., & Chi, M. T. H. (1992). A model of the self-explanation effect. *Journal of the Learning Sciences, 2*(1), 1–59.",
+        "body": "Provides a computational model of the self-explanation effect, specifying the gap-detection and inference-generation mechanisms that underlie it. Essential for the mechanistic analysis in Phase IV, particularly the account of self-explanation as schema surgery.",
+        "line_number": 567,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 86538,
+        "char_end": 86955
+      },
+      {
+        "type": "cite",
+        "title": "Wittrock, M. C. (1990). Generative processes of comprehension. *Educational Psychologist, 24*(4), 345–376.",
+        "body": "The mature statement of Generative Learning Theory, detailing the distinction between reproductive and generative processing and the evidence base for the theory's claims. Central to Phase II's theoretical framework and the mechanism analysis in Phase IV.",
+        "line_number": 570,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 86956,
+        "char_end": 87335
+      },
+      {
+        "type": "cite",
+        "title": "Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.",
+        "body": "The foundational text for Social Constructivism and the account of external sign systems (including written language) as cognitive tools. Provides the philosophical grounding for the Writing-Thinking Loop mechanism in Phase IV and the broader constructivist framework throughout the report.",
+        "line_number": 573,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 87336,
+        "char_end": 87763
+      },
+      {
+        "type": "cite",
+        "title": "Piaget, J. (1977). *The Development of Thought: Equilibration of Cognitive Structures*. Viking.",
+        "body": "Piaget's mature statement of the assimilation-accommodation model of cognitive development. Essential background for the schema construction account and the Accommodation vs. Assimilation Note distinction in Phase IV. The accommodation concept is the philosophical foundation for the report's central design recommendation.",
+        "line_number": 576,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 87764,
+        "char_end": 88200
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "This report draws on five research traditions at different methodological levels. (1) *Empirically established findings* with high confidence: the Self-Explanation Effect (multiple replications, effect on both recall and transfer), the Generation Effect (hundreds of replications across domains), and the ICAP framework's Constructive > Active gradient (substantial empirical support). (2) *Empirically supported but context-sensitive findings*: the Writing-to-Learn effects (substantial heterogeneity requiring the generative/reproductive distinction to explain), the Mueller and Oppenheimer longhand vs. laptop findings (partial replications, interpretation debates), and the Elaborative Interrogation effects (strong for moderate-prior-knowledge learners, weaker for novices). (3) *Well-established theoretical frameworks with strong empirical support*: Generative Learning Theory, Schema Theory, and Constructivism — each has substantial empirical backing though the translation to specific PKB design decisions requires interpretive judgment. (4) *Original cross-domain synthesis contributions*: the Articulatory Construction Principle, the Cognitive Event Model, the Accommodation vs. Assimilation Note distinction, and the Elaborative Interrogation / SECI Model cross-domain connection are Claude's analytical syntheses, derivable from the integrated evidence but not explicitly stated in any source. These are flagged as synthetic contributions, not established findings. (5) *Design recommendations*: the Minimum Constructive Response Rule, the Constructive Note-Making Protocol, and the generative layer for Progressive Summarization are design translations from the evidence — plausible applications of established mechanisms, not themselves empirically tested in the PKB context.",
+        "line_number": 583,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 88243,
+        "char_end": 90107
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Framework",
+        "body": "",
+        "line_number": 591,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 90138,
+        "char_end": 90192
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Interleaving and Note-Making Sequence Design]]",
+        "body": "The interleaving research (established in Report 16) shows that alternating between topics during study is more effective than massed practice, despite feeling harder. A significant unexplored question is how note-making sequence should be designed to leverage interleaving effects. Should the PKB practitioner make notes on multiple topics in a session rather than exhaustively processing one topic before moving to the next? What are the implications for how linking should occur between interleaved notes? This topic would extend both the interleaving research and the note-making framework established in this report.",
+        "line_number": 593,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 90193,
+        "char_end": 90886
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[The Role of Drawing and Diagramming in Knowledge Construction]]",
+        "body": "This report focuses on verbal, text-based note-making. The cognitive science of [[Dual Coding Theory]] (Paivio) suggests that combining verbal and visual representations substantially enhances encoding and retrieval. What does the research on diagramming, concept mapping, and sketch-noting reveal about generative processing in visual modes? How should Obsidian practitioners integrate visual knowledge construction — whether through embedded diagrams, hand-drawn sketches, or concept maps — into their generative note-making workflows? The extension would enrich the Articulatory Construction Principle by specifying how it applies to non-verbal articulation modes.",
+        "line_number": 596,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 90887,
+        "char_end": 91643
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Collaborative Note-Making and the Interactive Mode]]",
+        "body": "The ICAP framework's highest engagement mode — Interactive — involves learners co-constructing knowledge through dialogue, producing ideas that neither would have generated independently. This report focuses on individual note-making. Extending to collaborative contexts raises important questions: What does Interactive processing look like in a personal PKB context? Could structured dialogue with an AI system (like Claude) serve as a proxy for the Interactive mode's cognitive benefits? What does the research on co-elaboration and collaborative knowledge building suggest for hybrid human-AI knowledge construction workflows? This is a frontier question with significant implications for how PKB practitioners use AI tools.",
+        "line_number": 599,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 91644,
+        "char_end": 92450
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]",
+        "body": "The Constructive Note-Making Protocol recommended in Phase V is substantially more time-intensive than conventional capture workflows. A significant practical question — one the research does not directly address — is what the minimum viable generative intervention is when time is severely constrained. Is a single WHY-sentence sufficient to activate meaningful benefits? Can the generative processing be deferred to a dedicated processing session without significant loss of its encoding benefits? This topic would develop a tiered note-making framework that matches the degree of generative investment to the available time and the importance of the material, rather than treating all note-making moments as equally demanding equally intensive generative engagement.",
+        "line_number": 602,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 92451,
+        "char_end": 93323
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[The Expert's Note: How Generative Note-Making Changes with Domain Expertise]]",
+        "body": "The elaborative interrogation research shows that the effect is stronger for learners with more prior knowledge — experts have more existing schemas to connect to, enabling richer inference generation. This suggests that the optimal generative note-making strategy may be substantially different for an expert in their domain than for a novice. What does expert note-making look like? How should the prompts, templates, and protocols in this report be modified for practitioners who have deep expertise in the domain they are studying? This topic connects to the expertise reversal effect established in Report 10 and to the broader question of how PKB design should evolve as the practitioner's expertise grows.",
+        "line_number": 605,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 93324,
+        "char_end": 94139
+      },
+      {
+        "type": "topic-idea",
+        "title": "[[Writing to Learn at Scale: Processing Large Bodies of Material Generatively]]",
+        "body": "The Constructive Note-Making Protocol works well for individual articles or book chapters. But what about courses, textbooks, or extended research projects involving hundreds of sources? The cognitive science of generative processing does not address the challenge of scale — how to maintain Constructive rather than Active or Passive engagement when the volume of material is overwhelming. This topic would develop a framework for generative processing at scale, potentially including selective depth strategies (applying full generative protocols to high-priority material and lighter touch to lower-priority material), progressive queue management, and integration with the spaced repetition workflows established in Report 06.",
+        "line_number": 608,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md",
+        "char_start": 94140,
+        "char_end": 94973
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Personal Knowledge Base",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Personal Knowledge Base]]",
+        "line_number": 129,
+        "section": "The Filing Cabinet Fallacy",
+        "context_line": "When you press Ctrl+C and paste an article into your [[Personal Knowledge Base]], you have not learned anything. You have performed a filing operation. The information is now in your system, but it is no more yours than a photocopy in a drawer is yours. Something similar is true, though less obviously, when you highlight a passage, copy a definition verbatim, or transcribe a bullet-point summary without pausing to think about what you are actually doing. In each case, the note has been captured. The knowledge has not been constructed.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Cognitive Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Psychology]]",
+        "line_number": 131,
+        "section": "The Filing Cabinet Fallacy",
+        "context_line": "This distinction — between capture and construction — sits at the heart of what [[Cognitive Psychology]], [[Educational Psychology]], and [[Constructivism]] have to tell us about the process of creating notes. The research is striking in its consistency: the act of writing itself, when performed in a generative rather than reproductive mode, is one of the most powerful learning tools available to the human mind. Not because writing provides a record to review later, though that matters. But because writing, properly performed, is thinking. It forces articulation. Articulation forces gap-detection. Gap-detection drives inference generation. Inference generation builds new schema connections. The note you write at the end of this chain is not a copy of something you understood before you wrote it — it is, in a real and cognitively meaningful sense, a record of understanding that came into existence through the writing act itself.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Educational Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Educational Psychology]]",
+        "line_number": 131,
+        "section": "The Filing Cabinet Fallacy",
+        "context_line": "This distinction — between capture and construction — sits at the heart of what [[Cognitive Psychology]], [[Educational Psychology]], and [[Constructivism]] have to tell us about the process of creating notes. The research is striking in its consistency: the act of writing itself, when performed in a generative rather than reproductive mode, is one of the most powerful learning tools available to the human mind. Not because writing provides a record to review later, though that matters. But because writing, properly performed, is thinking. It forces articulation. Articulation forces gap-detection. Gap-detection drives inference generation. Inference generation builds new schema connections. The note you write at the end of this chain is not a copy of something you understood before you wrote it — it is, in a real and cognitively meaningful sense, a record of understanding that came into existence through the writing act itself.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivism]]",
+        "line_number": 131,
+        "section": "The Filing Cabinet Fallacy",
+        "context_line": "This distinction — between capture and construction — sits at the heart of what [[Cognitive Psychology]], [[Educational Psychology]], and [[Constructivism]] have to tell us about the process of creating notes. The research is striking in its consistency: the act of writing itself, when performed in a generative rather than reproductive mode, is one of the most powerful learning tools available to the human mind. Not because writing provides a record to review later, though that matters. But because writing, properly performed, is thinking. It forces articulation. Articulation forces gap-detection. Gap-detection drives inference generation. Inference generation builds new schema connections. The note you write at the end of this chain is not a copy of something you understood before you wrote it — it is, in a real and cognitively meaningful sense, a record of understanding that came into existence through the writing act itself.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Writing to Learn",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Writing to Learn]]",
+        "line_number": 133,
+        "section": "The Filing Cabinet Fallacy",
+        "context_line": "This report synthesizes four converging research traditions to illuminate this process and draw out its implications for how you should make notes in your PKB. The [[Writing to Learn]] tradition from educational psychology establishes that writing is a unique cognitive tool for knowledge construction. [[Generative Learning Theory]] from cognitive psychology provides the mechanistic explanation for why. The [[Self-Explanation Effect]] and [[Elaborative Interrogation]] research from cognitive psychology identifies specific operations through which writing drives understanding. And [[Constructivism]] from educational philosophy frames the epistemological stakes: what it means, at the deepest level, to construct knowledge rather than receive it. Together, these traditions support a synthesis that no single discipline has fully articulated — and that has direct, specific, actionable implications for how you make notes in [[Obsidian]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Generative Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Generative Learning Theory]]",
+        "line_number": 133,
+        "section": "The Filing Cabinet Fallacy",
+        "context_line": "This report synthesizes four converging research traditions to illuminate this process and draw out its implications for how you should make notes in your PKB. The [[Writing to Learn]] tradition from educational psychology establishes that writing is a unique cognitive tool for knowledge construction. [[Generative Learning Theory]] from cognitive psychology provides the mechanistic explanation for why. The [[Self-Explanation Effect]] and [[Elaborative Interrogation]] research from cognitive psychology identifies specific operations through which writing drives understanding. And [[Constructivism]] from educational philosophy frames the epistemological stakes: what it means, at the deepest level, to construct knowledge rather than receive it. Together, these traditions support a synthesis that no single discipline has fully articulated — and that has direct, specific, actionable implications for how you make notes in [[Obsidian]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Self-Explanation Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Explanation Effect]]",
+        "line_number": 133,
+        "section": "The Filing Cabinet Fallacy",
+        "context_line": "This report synthesizes four converging research traditions to illuminate this process and draw out its implications for how you should make notes in your PKB. The [[Writing to Learn]] tradition from educational psychology establishes that writing is a unique cognitive tool for knowledge construction. [[Generative Learning Theory]] from cognitive psychology provides the mechanistic explanation for why. The [[Self-Explanation Effect]] and [[Elaborative Interrogation]] research from cognitive psychology identifies specific operations through which writing drives understanding. And [[Constructivism]] from educational philosophy frames the epistemological stakes: what it means, at the deepest level, to construct knowledge rather than receive it. Together, these traditions support a synthesis that no single discipline has fully articulated — and that has direct, specific, actionable implications for how you make notes in [[Obsidian]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Elaborative Interrogation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaborative Interrogation]]",
+        "line_number": 133,
+        "section": "The Filing Cabinet Fallacy",
+        "context_line": "This report synthesizes four converging research traditions to illuminate this process and draw out its implications for how you should make notes in your PKB. The [[Writing to Learn]] tradition from educational psychology establishes that writing is a unique cognitive tool for knowledge construction. [[Generative Learning Theory]] from cognitive psychology provides the mechanistic explanation for why. The [[Self-Explanation Effect]] and [[Elaborative Interrogation]] research from cognitive psychology identifies specific operations through which writing drives understanding. And [[Constructivism]] from educational philosophy frames the epistemological stakes: what it means, at the deepest level, to construct knowledge rather than receive it. Together, these traditions support a synthesis that no single discipline has fully articulated — and that has direct, specific, actionable implications for how you make notes in [[Obsidian]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivism]]",
+        "line_number": 133,
+        "section": "The Filing Cabinet Fallacy",
+        "context_line": "This report synthesizes four converging research traditions to illuminate this process and draw out its implications for how you should make notes in your PKB. The [[Writing to Learn]] tradition from educational psychology establishes that writing is a unique cognitive tool for knowledge construction. [[Generative Learning Theory]] from cognitive psychology provides the mechanistic explanation for why. The [[Self-Explanation Effect]] and [[Elaborative Interrogation]] research from cognitive psychology identifies specific operations through which writing drives understanding. And [[Constructivism]] from educational philosophy frames the epistemological stakes: what it means, at the deepest level, to construct knowledge rather than receive it. Together, these traditions support a synthesis that no single discipline has fully articulated — and that has direct, specific, actionable implications for how you make notes in [[Obsidian]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Obsidian",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Obsidian]]",
+        "line_number": 133,
+        "section": "The Filing Cabinet Fallacy",
+        "context_line": "This report synthesizes four converging research traditions to illuminate this process and draw out its implications for how you should make notes in your PKB. The [[Writing to Learn]] tradition from educational psychology establishes that writing is a unique cognitive tool for knowledge construction. [[Generative Learning Theory]] from cognitive psychology provides the mechanistic explanation for why. The [[Self-Explanation Effect]] and [[Elaborative Interrogation]] research from cognitive psychology identifies specific operations through which writing drives understanding. And [[Constructivism]] from educational philosophy frames the epistemological stakes: what it means, at the deepest level, to construct knowledge rather than receive it. Together, these traditions support a synthesis that no single discipline has fully articulated — and that has direct, specific, actionable implications for how you make notes in [[Obsidian]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Articulatory Construction Principle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Articulatory Construction Principle]]",
+        "line_number": 145,
+        "section": "The Synthesis Question and Its Disciplinary Architecture",
+        "context_line": "The central claim the report will build toward is what I call the **[[Articulatory Construction Principle]]**: knowledge becomes durably encoded in long-term memory, and available for transfer to new contexts, only when it has been actively articulated in a form that requires the learner to make their implicit understanding explicit. This is what genuine note-making — as opposed to note-taking — uniquely enables. And it is what the dominant design patterns of modern PKB culture — clipping, capturing, one-click saving — systematically prevent.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 03: Constructing Understanding",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 03: Constructing Understanding]]",
+        "line_number": 147,
+        "section": "The Synthesis Question and Its Disciplinary Architecture",
+        "context_line": "This report builds directly on [[Report 03: Constructing Understanding]], which established how [[Schema Theory]], [[Constructivism]], and [[Elaboration Theory]] explain the architecture of knowledge construction at the level of the PKB as a whole. Where Report 03 addressed how the knowledge base should be structured to support construction, this report addresses the granular moment of construction itself: what actually happens, cognitively, when you sit down to make a note — and how to ensure that moment is generative rather than merely reproductive.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Schema Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Theory]]",
+        "line_number": 147,
+        "section": "The Synthesis Question and Its Disciplinary Architecture",
+        "context_line": "This report builds directly on [[Report 03: Constructing Understanding]], which established how [[Schema Theory]], [[Constructivism]], and [[Elaboration Theory]] explain the architecture of knowledge construction at the level of the PKB as a whole. Where Report 03 addressed how the knowledge base should be structured to support construction, this report addresses the granular moment of construction itself: what actually happens, cognitively, when you sit down to make a note — and how to ensure that moment is generative rather than merely reproductive.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivism]]",
+        "line_number": 147,
+        "section": "The Synthesis Question and Its Disciplinary Architecture",
+        "context_line": "This report builds directly on [[Report 03: Constructing Understanding]], which established how [[Schema Theory]], [[Constructivism]], and [[Elaboration Theory]] explain the architecture of knowledge construction at the level of the PKB as a whole. Where Report 03 addressed how the knowledge base should be structured to support construction, this report addresses the granular moment of construction itself: what actually happens, cognitively, when you sit down to make a note — and how to ensure that moment is generative rather than merely reproductive.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Elaboration Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaboration Theory]]",
+        "line_number": 147,
+        "section": "The Synthesis Question and Its Disciplinary Architecture",
+        "context_line": "This report builds directly on [[Report 03: Constructing Understanding]], which established how [[Schema Theory]], [[Constructivism]], and [[Elaboration Theory]] explain the architecture of knowledge construction at the level of the PKB as a whole. Where Report 03 addressed how the knowledge base should be structured to support construction, this report addresses the granular moment of construction itself: what actually happens, cognitively, when you sit down to make a note — and how to ensure that moment is generative rather than merely reproductive.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 06: The Science of Remembering",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 06: The Science of Remembering]]",
+        "line_number": 151,
+        "section": "Scope and Roadmap",
+        "context_line": "This report covers the cognitive science and educational psychology of the note-making act, with direct translation to Obsidian workflows. It does not cover retrieval-based review (addressed in [[Report 06: The Science of Remembering]]) or the organizational architecture of the PKB (addressed in [[Report 09: Designing the Learning PKB]]). It draws heavily on the desirable difficulties framework established in [[Report 16]], particularly the [[Generation Effect]], while extending it to the specific domain of initial note creation.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 09: Designing the Learning PKB",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 09: Designing the Learning PKB]]",
+        "line_number": 151,
+        "section": "Scope and Roadmap",
+        "context_line": "This report covers the cognitive science and educational psychology of the note-making act, with direct translation to Obsidian workflows. It does not cover retrieval-based review (addressed in [[Report 06: The Science of Remembering]]) or the organizational architecture of the PKB (addressed in [[Report 09: Designing the Learning PKB]]). It draws heavily on the desirable difficulties framework established in [[Report 16]], particularly the [[Generation Effect]], while extending it to the specific domain of initial note creation.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 16",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 16]]",
+        "line_number": 151,
+        "section": "Scope and Roadmap",
+        "context_line": "This report covers the cognitive science and educational psychology of the note-making act, with direct translation to Obsidian workflows. It does not cover retrieval-based review (addressed in [[Report 06: The Science of Remembering]]) or the organizational architecture of the PKB (addressed in [[Report 09: Designing the Learning PKB]]). It draws heavily on the desirable difficulties framework established in [[Report 16]], particularly the [[Generation Effect]], while extending it to the specific domain of initial note creation.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Generation Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Generation Effect]]",
+        "line_number": 151,
+        "section": "Scope and Roadmap",
+        "context_line": "This report covers the cognitive science and educational psychology of the note-making act, with direct translation to Obsidian workflows. It does not cover retrieval-based review (addressed in [[Report 06: The Science of Remembering]]) or the organizational architecture of the PKB (addressed in [[Report 09: Designing the Learning PKB]]). It draws heavily on the desirable difficulties framework established in [[Report 16]], particularly the [[Generation Effect]], while extending it to the specific domain of initial note creation.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Schemas",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schemas]]",
+        "line_number": 179,
+        "section": "The Disciplinary Lens Array",
+        "context_line": "> The process by which new information is integrated into existing cognitive structures ([[Schemas]]) through two complementary operations: assimilation (fitting new information into existing schemas) and accommodation (revising existing schemas to incorporate information that does not fit). Schema construction is not merely additive — it reorganizes existing knowledge as it integrates new knowledge. This is why understanding is qualitatively different from information possession: genuine understanding means that the new knowledge has been structurally integrated into existing schemas, enabling inference, application, and transfer. Established in [[Report 03: Constructing Understanding]], schema construction is the cognitive architecture that Writing to Learn, Self-Explanation, and Elaborative Interrogation all, in different ways, facilitate.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 03: Constructing Understanding",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 03: Constructing Understanding]]",
+        "line_number": 179,
+        "section": "The Disciplinary Lens Array",
+        "context_line": "> The process by which new information is integrated into existing cognitive structures ([[Schemas]]) through two complementary operations: assimilation (fitting new information into existing schemas) and accommodation (revising existing schemas to incorporate information that does not fit). Schema construction is not merely additive — it reorganizes existing knowledge as it integrates new knowledge. This is why understanding is qualitatively different from information possession: genuine understanding means that the new knowledge has been structurally integrated into existing schemas, enabling inference, application, and transfer. Established in [[Report 03: Constructing Understanding]], schema construction is the cognitive architecture that Writing to Learn, Self-Explanation, and Elaborative Interrogation all, in different ways, facilitate.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivism]]",
+        "line_number": 182,
+        "section": "The Disciplinary Lens Array",
+        "context_line": "> The family of epistemological and educational theories holding that knowledge is not transmitted from teacher (or text) to learner but actively constructed by the learner through engagement with experience, material, and other minds. Piaget's [[Constructivism]] emphasizes individual cognitive construction through the assimilation-accommodation cycle. Vygotsky's [[Social Constructivism]] emphasizes the role of social interaction and language in guiding cognitive construction. Dewey's [[Pragmatism]] emphasizes that knowledge is constructed through purposeful engagement with genuine problems. All three traditions share the foundational claim: the learner cannot be a passive recipient of knowledge. Knowledge, by its nature, must be made — not received.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Social Constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Social Constructivism]]",
+        "line_number": 182,
+        "section": "The Disciplinary Lens Array",
+        "context_line": "> The family of epistemological and educational theories holding that knowledge is not transmitted from teacher (or text) to learner but actively constructed by the learner through engagement with experience, material, and other minds. Piaget's [[Constructivism]] emphasizes individual cognitive construction through the assimilation-accommodation cycle. Vygotsky's [[Social Constructivism]] emphasizes the role of social interaction and language in guiding cognitive construction. Dewey's [[Pragmatism]] emphasizes that knowledge is constructed through purposeful engagement with genuine problems. All three traditions share the foundational claim: the learner cannot be a passive recipient of knowledge. Knowledge, by its nature, must be made — not received.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Pragmatism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pragmatism]]",
+        "line_number": 182,
+        "section": "The Disciplinary Lens Array",
+        "context_line": "> The family of epistemological and educational theories holding that knowledge is not transmitted from teacher (or text) to learner but actively constructed by the learner through engagement with experience, material, and other minds. Piaget's [[Constructivism]] emphasizes individual cognitive construction through the assimilation-accommodation cycle. Vygotsky's [[Social Constructivism]] emphasizes the role of social interaction and language in guiding cognitive construction. Dewey's [[Pragmatism]] emphasizes that knowledge is constructed through purposeful engagement with genuine problems. All three traditions share the foundational claim: the learner cannot be a passive recipient of knowledge. Knowledge, by its nature, must be made — not received.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Writing to Learn",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Writing to Learn]]",
+        "line_number": 186,
+        "section": "Initial Synthesis: The Disciplinary Convergence",
+        "context_line": "These concepts are not merely related by topic. They are structurally convergent. [[Writing to Learn]] describes a pedagogical practice. [[Generative Learning Theory]] provides its cognitive mechanism. [[Self-Explanation]] and [[Elaborative Interrogation]] identify specific cognitive operations within that mechanism. The [[ICAP Framework]] provides a classification system for identifying when those operations are and are not occurring. [[Schema Construction]] describes the cognitive architecture that generative processing builds. [[Constructivism]] provides the epistemological framework that explains why all of this matters — why the quality of the construction process determines the quality of the knowledge constructed.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Generative Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Generative Learning Theory]]",
+        "line_number": 186,
+        "section": "Initial Synthesis: The Disciplinary Convergence",
+        "context_line": "These concepts are not merely related by topic. They are structurally convergent. [[Writing to Learn]] describes a pedagogical practice. [[Generative Learning Theory]] provides its cognitive mechanism. [[Self-Explanation]] and [[Elaborative Interrogation]] identify specific cognitive operations within that mechanism. The [[ICAP Framework]] provides a classification system for identifying when those operations are and are not occurring. [[Schema Construction]] describes the cognitive architecture that generative processing builds. [[Constructivism]] provides the epistemological framework that explains why all of this matters — why the quality of the construction process determines the quality of the knowledge constructed.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Self-Explanation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Explanation]]",
+        "line_number": 186,
+        "section": "Initial Synthesis: The Disciplinary Convergence",
+        "context_line": "These concepts are not merely related by topic. They are structurally convergent. [[Writing to Learn]] describes a pedagogical practice. [[Generative Learning Theory]] provides its cognitive mechanism. [[Self-Explanation]] and [[Elaborative Interrogation]] identify specific cognitive operations within that mechanism. The [[ICAP Framework]] provides a classification system for identifying when those operations are and are not occurring. [[Schema Construction]] describes the cognitive architecture that generative processing builds. [[Constructivism]] provides the epistemological framework that explains why all of this matters — why the quality of the construction process determines the quality of the knowledge constructed.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Elaborative Interrogation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaborative Interrogation]]",
+        "line_number": 186,
+        "section": "Initial Synthesis: The Disciplinary Convergence",
+        "context_line": "These concepts are not merely related by topic. They are structurally convergent. [[Writing to Learn]] describes a pedagogical practice. [[Generative Learning Theory]] provides its cognitive mechanism. [[Self-Explanation]] and [[Elaborative Interrogation]] identify specific cognitive operations within that mechanism. The [[ICAP Framework]] provides a classification system for identifying when those operations are and are not occurring. [[Schema Construction]] describes the cognitive architecture that generative processing builds. [[Constructivism]] provides the epistemological framework that explains why all of this matters — why the quality of the construction process determines the quality of the knowledge constructed.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "ICAP Framework",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[ICAP Framework]]",
+        "line_number": 186,
+        "section": "Initial Synthesis: The Disciplinary Convergence",
+        "context_line": "These concepts are not merely related by topic. They are structurally convergent. [[Writing to Learn]] describes a pedagogical practice. [[Generative Learning Theory]] provides its cognitive mechanism. [[Self-Explanation]] and [[Elaborative Interrogation]] identify specific cognitive operations within that mechanism. The [[ICAP Framework]] provides a classification system for identifying when those operations are and are not occurring. [[Schema Construction]] describes the cognitive architecture that generative processing builds. [[Constructivism]] provides the epistemological framework that explains why all of this matters — why the quality of the construction process determines the quality of the knowledge constructed.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Schema Construction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Construction]]",
+        "line_number": 186,
+        "section": "Initial Synthesis: The Disciplinary Convergence",
+        "context_line": "These concepts are not merely related by topic. They are structurally convergent. [[Writing to Learn]] describes a pedagogical practice. [[Generative Learning Theory]] provides its cognitive mechanism. [[Self-Explanation]] and [[Elaborative Interrogation]] identify specific cognitive operations within that mechanism. The [[ICAP Framework]] provides a classification system for identifying when those operations are and are not occurring. [[Schema Construction]] describes the cognitive architecture that generative processing builds. [[Constructivism]] provides the epistemological framework that explains why all of this matters — why the quality of the construction process determines the quality of the knowledge constructed.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivism]]",
+        "line_number": 186,
+        "section": "Initial Synthesis: The Disciplinary Convergence",
+        "context_line": "These concepts are not merely related by topic. They are structurally convergent. [[Writing to Learn]] describes a pedagogical practice. [[Generative Learning Theory]] provides its cognitive mechanism. [[Self-Explanation]] and [[Elaborative Interrogation]] identify specific cognitive operations within that mechanism. The [[ICAP Framework]] provides a classification system for identifying when those operations are and are not occurring. [[Schema Construction]] describes the cognitive architecture that generative processing builds. [[Constructivism]] provides the epistemological framework that explains why all of this matters — why the quality of the construction process determines the quality of the knowledge constructed.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Generative Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Generative Learning Theory]]",
+        "line_number": 190,
+        "section": "Initial Synthesis: The Disciplinary Convergence",
+        "context_line": "> Wittrock's [[Generative Learning Theory]] and Vygotsky's [[Social Constructivism]] approach the role of language in learning from very different angles — one through laboratory cognitive psychology, the other through developmental philosophy — and arrive at a structurally identical conclusion. For Wittrock, generating verbal elaborations (summaries, analogies, questions) is the cognitive operation through which new information becomes connected to existing schemas. For Vygotsky, language is the primary tool of thought itself — internalized social speech becomes the medium through which higher-order thinking occurs. The convergence: writing is powerful as a learning tool because it exteriorizes the internal language through which thought happens, forcing that language to become explicit, coherent, and inspectable. A note is not a record of thought that occurred before writing; it is, in large measure, the medium through which that thought occurs. This has profound implications for PKB design: the act of creating a note *is* a cognitive act, not a documentation act.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Social Constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Social Constructivism]]",
+        "line_number": 190,
+        "section": "Initial Synthesis: The Disciplinary Convergence",
+        "context_line": "> Wittrock's [[Generative Learning Theory]] and Vygotsky's [[Social Constructivism]] approach the role of language in learning from very different angles — one through laboratory cognitive psychology, the other through developmental philosophy — and arrive at a structurally identical conclusion. For Wittrock, generating verbal elaborations (summaries, analogies, questions) is the cognitive operation through which new information becomes connected to existing schemas. For Vygotsky, language is the primary tool of thought itself — internalized social speech becomes the medium through which higher-order thinking occurs. The convergence: writing is powerful as a learning tool because it exteriorizes the internal language through which thought happens, forcing that language to become explicit, coherent, and inspectable. A note is not a record of thought that occurred before writing; it is, in large measure, the medium through which that thought occurs. This has profound implications for PKB design: the act of creating a note *is* a cognitive act, not a documentation act.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Generative Learning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Generative Learning Theory]]",
+        "line_number": 223,
+        "section": "Cluster 1: The Mueller and Oppenheimer Findings",
+        "context_line": "The mechanism Mueller and Oppenheimer proposed — that the slower pace of longhand writing forces the note-taker to listen, comprehend, and selectively restate in their own words, rather than simply transcribing — aligns precisely with Wittrock's [[Generative Learning Theory]]. The longhand condition incidentally required Constructive processing; the laptop condition enabled Active-to-Passive processing. The finding has been partially replicated and partially complicated by subsequent research (including studies finding smaller or absent effects), but the core pattern — that the quality of processing matters more than the volume of notes — is robust.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Self-Explanation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Explanation]]",
+        "line_number": 227,
+        "section": "Cluster 2: The Self-Explanation Research Program",
+        "context_line": "The most mechanistically precise evidence for the value of generative processing comes from Chi and colleagues' two decades of research on [[Self-Explanation]]. In their landmark 1989 study, Chi, Bassok, Lewis, Reimann, and Glaser analyzed the study behaviors of students learning Newtonian mechanics from a physics textbook. Students who spontaneously generated self-explanations while studying — articulating why each step in a worked example followed from the previous, what principle it illustrated, how it connected to previously studied material — dramatically outperformed students who passively read the same material.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Schema Construction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Construction]]",
+        "line_number": 229,
+        "section": "Cluster 2: The Self-Explanation Research Program",
+        "context_line": "Crucially, Chi's analysis revealed that the benefit of self-explanation came specifically from the *inferential* content of the explanations, not their length or frequency. Students who paraphrased what was already stated gained little. Students who generated genuine inferences — \"this must mean that...\" or \"this is similar to the case of...\" — showed large learning gains. The mechanism, Chi proposed, is gap-filling: self-explanation forces the learner to notice incoherences in their developing mental model (places where the new information doesn't quite connect with existing understanding), and to generate the inferences needed to bridge those gaps. It is this gap-filling through inference that constitutes [[Schema Construction]] in practice.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Elaborative Interrogation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaborative Interrogation]]",
+        "line_number": 239,
+        "section": "Cluster 3: Elaborative Interrogation",
+        "context_line": "Pressley, Woloshyn, McDaniel, and colleagues developed [[Elaborative Interrogation]] as a research paradigm throughout the 1990s, studying the effects of having learners generate \"why\" explanations for factual content. In a typical study, one group would read a series of facts (\"The particular Hunger Game was set in the Rocky Mountains\"), while another group would read the same facts but answer the question \"Why would that be true?\" before proceeding. The elaborative interrogation condition consistently produced better recall — with effects typically in the moderate range — even when the experimenter-provided explanations were used rather than learner-generated ones, though learner-generated explanations were more effective.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Generation Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Generation Effect]]",
+        "line_number": 247,
+        "section": "Cluster 4: The Generation Effect",
+        "context_line": "The [[Generation Effect]] — the finding that information is better remembered when actively generated by the learner than when passively read — was first established by Slamecka and Graf (1978) and has been replicated across hundreds of studies. In the canonical paradigm, learners either read a word pair (e.g., \"fast—slow\") or generate the second word from a cue (e.g., \"fast—s___\"). Generated items are consistently recalled better than read items, even though the to-be-remembered information is identical.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 16: Desirable Difficulties by Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 16: Desirable Difficulties by Design]]",
+        "line_number": 249,
+        "section": "Cluster 4: The Generation Effect",
+        "context_line": "[[Report 16: Desirable Difficulties by Design]] established the generation effect as one of the central desirable difficulties that PKB design should incorporate. Report 17 extends this by localizing the generation effect specifically to the note-making moment: when you create a note by generating content (formulating your own explanation, writing your own examples, constructing your own connections) rather than transcribing content, you are inducing the generation effect at the moment of initial encoding. This is the first and most leveraged intervention point — getting the generation effect to work before the note even enters long-term storage.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Generation Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Generation Effect]]",
+        "line_number": 253,
+        "section": "Cluster 4: The Generation Effect",
+        "context_line": "> The [[Generation Effect]] research tradition is laboratory cognitive psychology at its most controlled: carefully isolated variables, measured recall performance, rigorous replication. [[Constructivism]] is educational philosophy at its most theoretical: epistemological arguments about the nature of knowledge, grounded in developmental observation rather than laboratory experiment. These traditions have almost no direct scholarly dialogue. Yet they converge on the identical structural claim. The generation effect operationalizes, in measurable laboratory terms, what constructivism has argued philosophically: meaning constructed through active generation is qualitatively different from — and more durably held than — meaning received through passive transmission. The convergence is not coincidental. Both traditions are tracking the same underlying cognitive reality: that the constructive act of generation is the mechanism of learning, not merely its byproduct.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivism]]",
+        "line_number": 253,
+        "section": "Cluster 4: The Generation Effect",
+        "context_line": "> The [[Generation Effect]] research tradition is laboratory cognitive psychology at its most controlled: carefully isolated variables, measured recall performance, rigorous replication. [[Constructivism]] is educational philosophy at its most theoretical: epistemological arguments about the nature of knowledge, grounded in developmental observation rather than laboratory experiment. These traditions have almost no direct scholarly dialogue. Yet they converge on the identical structural claim. The generation effect operationalizes, in measurable laboratory terms, what constructivism has argued philosophically: meaning constructed through active generation is qualitatively different from — and more durably held than — meaning received through passive transmission. The convergence is not coincidental. Both traditions are tracking the same underlying cognitive reality: that the constructive act of generation is the mechanism of learning, not merely its byproduct.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Fluency",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fluency]]",
+        "line_number": 297,
+        "section": "Mechanism 1: The Articulatory Construction Cycle",
+        "context_line": "**Stage 1: Comprehension Monitoring** — As the learner engages with source material, they continuously monitor their developing understanding for coherence. This monitoring is largely automatic under normal reading conditions, but it can be suppressed by the illusion of [[Fluency]]: material that is clearly written, familiar in vocabulary, and well-organized produces the subjective sense of understanding even when genuine comprehension has not occurred. Writing disrupts this suppression. When you attempt to articulate an idea in your own words, you are forced into explicit comprehension monitoring — you cannot write what you do not (at least partially) understand, and the act of attempting to write reveals gaps that passive reading would have hidden.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 08: Reflective Practice",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 08: Reflective Practice]]",
+        "line_number": 299,
+        "section": "Mechanism 1: The Articulatory Construction Cycle",
+        "context_line": "**Stage 2: Gap Detection** — The attempt to articulate reveals coherence gaps: places where the developing understanding is incomplete, contradictory, or underspecified. These gaps are the cognitive events where learning is most ready to occur. They are the felt difficulties that [[Report 08: Reflective Practice]] identified as the entry point of Dewey's reflective inquiry. In conventional reading, gaps often go unnoticed or are quickly papered over by the fluency of the prose. In generative writing, they become visible.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Schema Construction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Construction]]",
+        "line_number": 303,
+        "section": "Mechanism 1: The Articulatory Construction Cycle",
+        "context_line": "**Stage 4: Schema Integration** — Successful inference generation integrates the new material into existing schemas — extending, refining, or reorganizing them as required. This is [[Schema Construction]] in action: not the addition of a new node but the reorganization of the network around the new node and its newly created connections. The note that records this process does not merely store information; it stores the traces of schema reorganization.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Expertise Reversal Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Expertise Reversal Effect]]",
+        "line_number": 307,
+        "section": "Mechanism 1: The Articulatory Construction Cycle",
+        "context_line": "> The Articulatory Construction Cycle depends on a resource that is often invisible in discussions of note-making technique: prior knowledge. Inference generation — Stage 3 — requires the learner to have something to connect new information *to*. This is why both the Elaborative Interrogation research and the Self-Explanation research show weaker effects for learners with very little prior knowledge in the domain: they cannot generate meaningful inferences because they have insufficient existing schema structure to connect to. This has a critical implication for PKB design that is typically ignored. The same note-making process will produce very different cognitive effects depending on the learner's prior knowledge. In domains where prior knowledge is thin, generative note-making needs scaffolding — specific prompts that direct the learner toward productive inference directions they might not find independently. In domains of expertise, the scaffolding should fade and the learner should be left to generate connections freely. This is the note-making analog of the [[Expertise Reversal Effect]] established in [[Report 10: Scaffolding and Fading]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 10: Scaffolding and Fading",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 10: Scaffolding and Fading]]",
+        "line_number": 307,
+        "section": "Mechanism 1: The Articulatory Construction Cycle",
+        "context_line": "> The Articulatory Construction Cycle depends on a resource that is often invisible in discussions of note-making technique: prior knowledge. Inference generation — Stage 3 — requires the learner to have something to connect new information *to*. This is why both the Elaborative Interrogation research and the Self-Explanation research show weaker effects for learners with very little prior knowledge in the domain: they cannot generate meaningful inferences because they have insufficient existing schema structure to connect to. This has a critical implication for PKB design that is typically ignored. The same note-making process will produce very different cognitive effects depending on the learner's prior knowledge. In domains where prior knowledge is thin, generative note-making needs scaffolding — specific prompts that direct the learner toward productive inference directions they might not find independently. In domains of expertise, the scaffolding should fade and the learner should be left to generate connections freely. This is the note-making analog of the [[Expertise Reversal Effect]] established in [[Report 10: Scaffolding and Fading]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Self-Explanation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Explanation]]",
+        "line_number": 311,
+        "section": "Mechanism 2: The Self-Explanation as Schema Surgery",
+        "context_line": "Chi's account of [[Self-Explanation]] reveals a more specific mechanism operating within the general Articulatory Construction Cycle. Self-explanation is not simply \"thinking about material.\" It is a specific cognitive operation directed at the internal mental model — what Chi calls \"repairing\" the mental model through targeted inference generation.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Elaborative Interrogation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elaborative Interrogation]]",
+        "line_number": 319,
+        "section": "Mechanism 3: WHY-Questioning as Causal Embedding",
+        "context_line": "The [[Elaborative Interrogation]] research adds a mechanistic complement to self-explanation. While self-explanation monitors for coherence gaps and repairs them through inference, elaborative interrogation proactively generates causal embeddings — it ensures that every piece of information is connected to the causal network of prior knowledge through explicit WHY reasoning.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "SECI Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SECI Model]]",
+        "line_number": 325,
+        "section": "Mechanism 3: WHY-Questioning as Causal Embedding",
+        "context_line": "> Nonaka's [[SECI Model]] from [[Knowledge Management]] describes four modes of knowledge creation, including \"Externalization\" — the conversion of tacit knowledge (embodied, intuitive, difficult to articulate) into explicit knowledge (documented, communicable, inspectable). Elaborative interrogation, as a cognitive operation, is an externalization mechanism: when you ask \"why is this true?\" and generate a causal explanation, you are externalizing the implicit causal understanding that underlies your pattern recognition in the domain. Expert practitioners often cannot directly state why they make the decisions they make — their expertise is tacit. The WHY-questioning process forces them to externalize that tacit causal knowledge. For PKB design, this means that elaborative interrogation is not only a learning strategy for novices acquiring new information — it is also a knowledge capture strategy for experts making their existing expertise explicit. The domain expert who asks themselves WHY they hold each belief in their domain is performing genuine knowledge externalization, not just learning reinforcement.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Knowledge Management",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Knowledge Management]]",
+        "line_number": 325,
+        "section": "Mechanism 3: WHY-Questioning as Causal Embedding",
+        "context_line": "> Nonaka's [[SECI Model]] from [[Knowledge Management]] describes four modes of knowledge creation, including \"Externalization\" — the conversion of tacit knowledge (embodied, intuitive, difficult to articulate) into explicit knowledge (documented, communicable, inspectable). Elaborative interrogation, as a cognitive operation, is an externalization mechanism: when you ask \"why is this true?\" and generate a causal explanation, you are externalizing the implicit causal understanding that underlies your pattern recognition in the domain. Expert practitioners often cannot directly state why they make the decisions they make — their expertise is tacit. The WHY-questioning process forces them to externalize that tacit causal knowledge. For PKB design, this means that elaborative interrogation is not only a learning strategy for novices acquiring new information — it is also a knowledge capture strategy for experts making their existing expertise explicit. The domain expert who asks themselves WHY they hold each belief in their domain is performing genuine knowledge externalization, not just learning reinforcement.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 03: Constructing Understanding",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 03: Constructing Understanding]]",
+        "line_number": 329,
+        "section": "Mechanism 4: Return and Deepen — Schema Construction Revisited",
+        "context_line": "[[Report 03: Constructing Understanding]] established [[Schema Theory]]'s account of how knowledge structures develop through assimilation and accommodation. Report 17 can now deepen that account by specifying the role of note-making in the assimilation/accommodation cycle.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Schema Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Theory]]",
+        "line_number": 329,
+        "section": "Mechanism 4: Return and Deepen — Schema Construction Revisited",
+        "context_line": "[[Report 03: Constructing Understanding]] established [[Schema Theory]]'s account of how knowledge structures develop through assimilation and accommodation. Report 17 can now deepen that account by specifying the role of note-making in the assimilation/accommodation cycle.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Progressive Summarization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Progressive Summarization]]",
+        "line_number": 405,
+        "section": "Design Principle 4: Progressive Summarization as Generative Processing",
+        "context_line": "Tiago Forte's [[Progressive Summarization]] technique — progressively highlighting, bold-ing, and summarizing notes through multiple passes — is one of the most widely practiced PKM workflows. Its relationship to the cognitive science of generative processing is nuanced and worth examining carefully.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Atomic Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Atomic Notes]]",
+        "line_number": 413,
+        "section": "Design Principle 5: Atomic Notes and the Note-Making Quality Trade-off",
+        "context_line": "The [[Atomic Notes]] principle — that each note should contain exactly one idea — is a structural recommendation that intersects interestingly with the cognitive science of generative processing. Atomic notes create a structural pressure toward specificity and clarity, which supports Constructive processing: it is easier to generate a precise self-explanation for one carefully bounded idea than for a dense multi-page summary.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Atomic Notes",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Atomic Notes]]",
+        "line_number": 419,
+        "section": "Design Principle 5: Atomic Notes and the Note-Making Quality Trade-off",
+        "context_line": "> The [[Atomic Notes]] principle optimizes for organizational clarity and retrieval efficiency: a well-bounded note with one idea is easier to link, tag, and resurface than a sprawling multi-idea note. The cognitive science of generative processing optimizes for construction quality: a note that records the full process of schema reorganization — including what changed, why, and how it connects to existing understanding — produces substantially greater learning value but is necessarily multi-element and relational. The tension is real and has no perfect resolution. A practical heuristic: separate the construction event (the generative note-making moment, which should be as expansive as the cognitive event demands) from the archiving event (the subsequent processing into atomic notes for the knowledge graph). Do not let the organizational requirement of atomicity constrain the constructive requirement of elaboration at the moment of initial engagement. Make the rich construction note first; extract and link the atomic components afterward.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 05: Motivation Architecture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 05: Motivation Architecture]]",
+        "line_number": 423,
+        "section": "Limitations",
+        "context_line": "The translation from laboratory research to PKB practice requires acknowledging several important limitations. First, most of the research was conducted with students in formal educational settings studying specific, well-defined material — conditions that differ from the self-directed, diverse-material context of personal knowledge management. Second, the research typically measures learning outcomes over relatively short time horizons (days to weeks), while the PKB context involves time horizons of months to years. Third, the research does not address the motivational costs of effortful note-making — the protocols recommended in this report are more demanding than conventional capture workflows, and the evidence does not speak to the sustainability of these practices over years of use. [[Report 05: Motivation Architecture]] is the appropriate companion for addressing this gap.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 03: Constructing Understanding",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 03: Constructing Understanding]]",
+        "line_number": 467,
+        "section": "Return-and-Deepen: Schema Construction Revisited with Full Context",
+        "context_line": "[[Report 03: Constructing Understanding]] introduced [[Schema Construction]] as the cognitive architecture through which knowledge builds on knowledge in the PKB. With the full mechanism analysis of Phase IV now available, we can see a dimension of schema construction that Report 03 could not fully illuminate: schema construction is not a passive consequence of exposure to new information — it is an active process that requires specific cognitive operations to occur. Exposure alone does not produce schema reorganization. Comprehension monitoring, gap detection, inference generation, and articulation are required. This means that the PKB as a whole — its structure, its linking architecture, its templates — cannot substitute for the generative cognitive work that schema construction requires at the level of individual note-making moments. The PKB can create conditions that make generative note-making easier or harder, but it cannot perform the generative act in place of the practitioner.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Schema Construction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Construction]]",
+        "line_number": 467,
+        "section": "Return-and-Deepen: Schema Construction Revisited with Full Context",
+        "context_line": "[[Report 03: Constructing Understanding]] introduced [[Schema Construction]] as the cognitive architecture through which knowledge builds on knowledge in the PKB. With the full mechanism analysis of Phase IV now available, we can see a dimension of schema construction that Report 03 could not fully illuminate: schema construction is not a passive consequence of exposure to new information — it is an active process that requires specific cognitive operations to occur. Exposure alone does not produce schema reorganization. Comprehension monitoring, gap detection, inference generation, and articulation are required. This means that the PKB as a whole — its structure, its linking architecture, its templates — cannot substitute for the generative cognitive work that schema construction requires at the level of individual note-making moments. The PKB can create conditions that make generative note-making easier or harder, but it cannot perform the generative act in place of the practitioner.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Schema Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Theory]]",
+        "line_number": 481,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Schema Theory]]** — The Articulatory Construction Cycle and the Accommodation vs. Assimilation Note distinction both operate through the assimilation/accommodation mechanism of schema theory. Making this link explicit in your PKB enriches both nodes: schema theory gains a procedural specification (what to do to drive accommodation), and the note-making framework gains a theoretical grounding (why the accommodation note type is cognitively distinct from the assimilation note type).",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 483,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Cognitive Load Theory]]** and **[[Germane Load]]** — The claim that generative note-making is valuable because it is more effortful is complicated by cognitive load theory's distinction between germane and extraneous load. Generative note-making increases germane load (schema-construction-relevant processing) not extraneous load. Understanding this distinction enables PKB practitioners to make informed decisions about when to increase effort (activating germane load through generative processing) and when to reduce it (removing extraneous friction that consumes working memory without building schemas). Connects to [[Report 02: The Architecture of Learning]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Germane Load",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Germane Load]]",
+        "line_number": 483,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Cognitive Load Theory]]** and **[[Germane Load]]** — The claim that generative note-making is valuable because it is more effortful is complicated by cognitive load theory's distinction between germane and extraneous load. Generative note-making increases germane load (schema-construction-relevant processing) not extraneous load. Understanding this distinction enables PKB practitioners to make informed decisions about when to increase effort (activating germane load through generative processing) and when to reduce it (removing extraneous friction that consumes working memory without building schemas). Connects to [[Report 02: The Architecture of Learning]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 02: The Architecture of Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 02: The Architecture of Learning]]",
+        "line_number": 483,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Cognitive Load Theory]]** and **[[Germane Load]]** — The claim that generative note-making is valuable because it is more effortful is complicated by cognitive load theory's distinction between germane and extraneous load. Generative note-making increases germane load (schema-construction-relevant processing) not extraneous load. Understanding this distinction enables PKB practitioners to make informed decisions about when to increase effort (activating germane load through generative processing) and when to reduce it (removing extraneous friction that consumes working memory without building schemas). Connects to [[Report 02: The Architecture of Learning]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivism]]",
+        "line_number": 485,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Constructivism]]** — This report operationalizes constructivism at the level of the individual note-making act. Where constructivism as a philosophy asserts that knowledge must be constructed rather than received, this report specifies the exact cognitive operations through which construction occurs during note-making. The link between this report and your constructivism notes enriches both: constructivism gains operational specificity, and the note-making framework gains philosophical depth.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Desirable Difficulties",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Desirable Difficulties]]",
+        "line_number": 487,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Desirable Difficulties]]** and **[[Generation Effect]]** — Report 16 established the generation effect as a key desirable difficulty for PKB design. This report localizes the generation effect specifically to the initial note-making moment, establishing it as the first and most leveraged intervention point. The connection reveals a temporal structure: desirable difficulties operate at multiple timepoints in the PKB lifecycle, with generative note-making being the first.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Generation Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Generation Effect]]",
+        "line_number": 487,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Desirable Difficulties]]** and **[[Generation Effect]]** — Report 16 established the generation effect as a key desirable difficulty for PKB design. This report localizes the generation effect specifically to the initial note-making moment, establishing it as the first and most leveraged intervention point. The connection reveals a temporal structure: desirable difficulties operate at multiple timepoints in the PKB lifecycle, with generative note-making being the first.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 489,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Metacognition]]** and **[[Comprehension Monitoring]]** — The Articulatory Construction Cycle is fundamentally a metacognitive process: the learner must monitor their own understanding, detect gaps, and generate repairs. Connecting this report to your metacognition notes reveals that good note-making is inherently metacognitive — it is simultaneously a learning act and a self-assessment act. Connects to [[Report 04: Metacognitive Self-Regulation]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Comprehension Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Comprehension Monitoring]]",
+        "line_number": 489,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Metacognition]]** and **[[Comprehension Monitoring]]** — The Articulatory Construction Cycle is fundamentally a metacognitive process: the learner must monitor their own understanding, detect gaps, and generate repairs. Connecting this report to your metacognition notes reveals that good note-making is inherently metacognitive — it is simultaneously a learning act and a self-assessment act. Connects to [[Report 04: Metacognitive Self-Regulation]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 04: Metacognitive Self-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 04: Metacognitive Self-Regulation]]",
+        "line_number": 489,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Metacognition]]** and **[[Comprehension Monitoring]]** — The Articulatory Construction Cycle is fundamentally a metacognitive process: the learner must monitor their own understanding, detect gaps, and generate repairs. Connecting this report to your metacognition notes reveals that good note-making is inherently metacognitive — it is simultaneously a learning act and a self-assessment act. Connects to [[Report 04: Metacognitive Self-Regulation]].",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Tacit Knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Tacit Knowledge]]",
+        "line_number": 491,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Tacit Knowledge]]** and **[[SECI Model]]** — The cross-domain connection between Elaborative Interrogation and Nonaka's Externalization mode identifies a dimension of generative note-making not typically recognized in the PKM literature: it is not only a learning tool for novices but a knowledge externalization tool for experts. Connecting this to your knowledge management notes, particularly around tacit knowledge, opens a significant design direction for expert PKB practitioners.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "SECI Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SECI Model]]",
+        "line_number": 491,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Tacit Knowledge]]** and **[[SECI Model]]** — The cross-domain connection between Elaborative Interrogation and Nonaka's Externalization mode identifies a dimension of generative note-making not typically recognized in the PKM literature: it is not only a learning tool for novices but a knowledge externalization tool for experts. Connecting this to your knowledge management notes, particularly around tacit knowledge, opens a significant design direction for expert PKB practitioners.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 03: Constructing Understanding",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 03: Constructing Understanding]]",
+        "line_number": 495,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 03: Constructing Understanding]]** — This report provides the granular note-making complement to Report 03's structural account of knowledge construction in the PKB. Report 03 established the architectural question (how should the PKB be structured to support construction?); this report addresses the operational question (what should the practitioner do, cognitively, at the moment of note creation?). Together they form a complete account of knowledge construction in personal learning systems.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 18: Calibration and Epistemic Humility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 18: Calibration and Epistemic Humility]]",
+        "line_number": 497,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 18: Calibration and Epistemic Humility]]** — The Cognitive Event Model's distinction between content-only notes and trace-recording notes has direct implications for epistemic calibration. Trace-recording notes — which document the process of understanding, including what was confusing and what inferences filled the gaps — are sources of calibration information that content-only notes cannot provide. Report 18 will extend this by examining how PKB design can support accurate self-assessment of understanding quality.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 25: The Integration Problem",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 25: The Integration Problem]]",
+        "line_number": 499,
+        "section": "Phase VII: PKB Connections & Cross-Report Links",
+        "context_line": "> - **[[Report 25: The Integration Problem]]** — The Accommodation Note type identified in this report is precisely the note type most directly relevant to the integration problem: how separate notes become connected understanding. Accommodation notes, by definition, document the moment of connection between new and existing schemas. A PKB full of accommodation notes is one where the integration problem is being continuously solved at the level of individual note-making events.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Interleaving and Note-Making Sequence Design",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Interleaving and Note-Making Sequence Design]]",
+        "line_number": 593,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] **[[Interleaving and Note-Making Sequence Design]]**",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "The Role of Drawing and Diagramming in Knowledge Construction",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Role of Drawing and Diagramming in Knowledge Construction]]",
+        "line_number": 596,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] **[[The Role of Drawing and Diagramming in Knowledge Construction]]**",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Dual Coding Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual Coding Theory]]",
+        "line_number": 597,
+        "section": "D. Expansion Topics",
+        "context_line": "> This report focuses on verbal, text-based note-making. The cognitive science of [[Dual Coding Theory]] (Paivio) suggests that combining verbal and visual representations substantially enhances encoding and retrieval. What does the research on diagramming, concept mapping, and sketch-noting reveal about generative processing in visual modes? How should Obsidian practitioners integrate visual knowledge construction — whether through embedded diagrams, hand-drawn sketches, or concept maps — into their generative note-making workflows? The extension would enrich the Articulatory Construction Principle by specifying how it applies to non-verbal articulation modes.",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Collaborative Note-Making and the Interactive Mode",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Collaborative Note-Making and the Interactive Mode]]",
+        "line_number": 599,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] **[[Collaborative Note-Making and the Interactive Mode]]**",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Note-Making Under Time Pressure: When Generative Processing Is Not Feasible",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]",
+        "line_number": 602,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] **[[Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]**",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "The Expert's Note: How Generative Note-Making Changes with Domain Expertise",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Expert's Note: How Generative Note-Making Changes with Domain Expertise]]",
+        "line_number": 605,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] **[[The Expert's Note: How Generative Note-Making Changes with Domain Expertise]]**",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Writing to Learn at Scale: Processing Large Bodies of Material Generatively",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Writing to Learn at Scale: Processing Large Bodies of Material Generatively]]",
+        "line_number": 608,
+        "section": "D. Expansion Topics",
+        "context_line": "> [!topic-idea] **[[Writing to Learn at Scale: Processing Large Bodies of Material Generatively]]**",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]",
+        "line_number": 617,
+        "section": "D. Expansion Topics",
+        "context_line": "*Next in series: [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]*",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "target": "Report 16: Desirable Difficulties by Design — Making PKM Productively Hard",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]",
+        "line_number": 618,
+        "section": "D. Expansion Topics",
+        "context_line": "*Previous in series: [[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]*",
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn",
+        "anchor": "report-17-note-making-as-knowledge-construction-the-cognitive-science-of-writing-to-learn",
+        "line_number": 119,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Synthesis Focus",
+        "anchor": "phase-i-orientation-synthesis-focus",
+        "line_number": 125,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Filing Cabinet Fallacy",
+        "anchor": "the-filing-cabinet-fallacy",
+        "line_number": 127,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Synthesis Question and Its Disciplinary Architecture",
+        "anchor": "the-synthesis-question-and-its-disciplinary-architecture",
+        "line_number": 139,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Scope and Roadmap",
+        "anchor": "scope-and-roadmap",
+        "line_number": 149,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Analytical Framework — Cross-Domain Foundations",
+        "anchor": "phase-ii-analytical-framework-cross-domain-foundations",
+        "line_number": 157,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Disciplinary Lens Array",
+        "anchor": "the-disciplinary-lens-array",
+        "line_number": 159,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Initial Synthesis: The Disciplinary Convergence",
+        "anchor": "initial-synthesis-the-disciplinary-convergence",
+        "line_number": 184,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Critical Examination of Evidence",
+        "anchor": "phase-iii-critical-examination-of-evidence",
+        "line_number": 205,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Mapping the Evidence Landscape",
+        "anchor": "mapping-the-evidence-landscape",
+        "line_number": 207,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Cluster 1: The Mueller and Oppenheimer Findings",
+        "anchor": "cluster-1-the-mueller-and-oppenheimer-findings",
+        "line_number": 215,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Cluster 2: The Self-Explanation Research Program",
+        "anchor": "cluster-2-the-self-explanation-research-program",
+        "line_number": 225,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Cluster 3: Elaborative Interrogation",
+        "anchor": "cluster-3-elaborative-interrogation",
+        "line_number": 237,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Cluster 4: The Generation Effect",
+        "anchor": "cluster-4-the-generation-effect",
+        "line_number": 245,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Cluster 5: Writing-to-Learn Intervention Research",
+        "anchor": "cluster-5-writing-to-learn-intervention-research",
+        "line_number": 255,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Evaluating the Evidence Base",
+        "anchor": "evaluating-the-evidence-base",
+        "line_number": 263,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms, Dynamics & Deep Synthesis",
+        "anchor": "phase-iv-mechanisms-dynamics-deep-synthesis",
+        "line_number": 283,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Architecture of Generative Processing",
+        "anchor": "the-architecture-of-generative-processing",
+        "line_number": 285,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Mechanism 1: The Articulatory Construction Cycle",
+        "anchor": "mechanism-1-the-articulatory-construction-cycle",
+        "line_number": 293,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Mechanism 2: The Self-Explanation as Schema Surgery",
+        "anchor": "mechanism-2-the-self-explanation-as-schema-surgery",
+        "line_number": 309,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Mechanism 3: WHY-Questioning as Causal Embedding",
+        "anchor": "mechanism-3-why-questioning-as-causal-embedding",
+        "line_number": 317,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Mechanism 4: Return and Deepen — Schema Construction Revisited",
+        "anchor": "mechanism-4-return-and-deepen-schema-construction-revisited",
+        "line_number": 327,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Mechanism 5: The Writing-Thinking Loop",
+        "anchor": "mechanism-5-the-writing-thinking-loop",
+        "line_number": 337,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Implications for PKM/PKB Design & Limitations",
+        "anchor": "phase-v-implications-for-pkmpkb-design-limitations",
+        "line_number": 363,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "From Mechanisms to Design Principles",
+        "anchor": "from-mechanisms-to-design-principles",
+        "line_number": 365,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 1: The Note-Making vs. Note-Taking Distinction as a Structural Commitment",
+        "anchor": "design-principle-1-the-note-making-vs-note-taking-distinction-as-a-structural-commitment",
+        "line_number": 369,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 2: The Elaboration Prompt System",
+        "anchor": "design-principle-2-the-elaboration-prompt-system",
+        "line_number": 379,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 3: The Constructive Note-Making Protocol",
+        "anchor": "design-principle-3-the-constructive-note-making-protocol",
+        "line_number": 387,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 4: Progressive Summarization as Generative Processing",
+        "anchor": "design-principle-4-progressive-summarization-as-generative-processing",
+        "line_number": 403,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Design Principle 5: Atomic Notes and the Note-Making Quality Trade-off",
+        "anchor": "design-principle-5-atomic-notes-and-the-note-making-quality-trade-off",
+        "line_number": 411,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Limitations",
+        "anchor": "limitations",
+        "line_number": 421,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Integration & Original Contribution",
+        "anchor": "phase-vi-synthesis-integration-original-contribution",
+        "line_number": 441,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Assembling the Cross-Domain Picture",
+        "anchor": "assembling-the-cross-domain-picture",
+        "line_number": 443,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "The Central Synthesis Question Revisited",
+        "anchor": "the-central-synthesis-question-revisited",
+        "line_number": 457,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Return-and-Deepen: Schema Construction Revisited with Full Context",
+        "anchor": "return-and-deepen-schema-construction-revisited-with-full-context",
+        "line_number": 465,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "Unresolved Questions",
+        "anchor": "unresolved-questions",
+        "line_number": 469,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: PKB Connections & Cross-Report Links",
+        "anchor": "phase-vii-pkb-connections-cross-report-links",
+        "line_number": 475,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VIII: Appendix",
+        "anchor": "phase-viii-appendix",
+        "line_number": 505,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 507,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "B. References",
+        "anchor": "b-references",
+        "line_number": 544,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Methodology and Sources Note",
+        "anchor": "c-methodology-and-sources-note",
+        "line_number": 581,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      },
+      {
+        "level": 3,
+        "text": "D. Expansion Topics",
+        "anchor": "d-expansion-topics",
+        "line_number": 589,
+        "source": "17-note-making-knowledge-construction-pkm-framework-2026-03-14.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Articulatory Construction Principle",
+      "Atomic Notes",
+      "Cognitive Load Theory",
+      "Cognitive Psychology",
+      "Collaborative Note-Making and the Interactive Mode",
+      "Comprehension Monitoring",
+      "Constructivism",
+      "Desirable Difficulties",
+      "Dual Coding Theory",
+      "Educational Psychology",
+      "Elaboration Theory",
+      "Elaborative Interrogation",
+      "Expertise Reversal Effect",
+      "Fluency",
+      "Generation Effect",
+      "Generative Learning Theory",
+      "Germane Load",
+      "ICAP Framework",
+      "Interleaving and Note-Making Sequence Design",
+      "Knowledge Management",
+      "Metacognition",
+      "Note-Making Under Time Pressure: When Generative Processing Is Not Feasible",
+      "Obsidian",
+      "Personal Knowledge Base",
+      "Pragmatism",
+      "Progressive Summarization",
+      "Report 02: The Architecture of Learning",
+      "Report 03: Constructing Understanding",
+      "Report 04: Metacognitive Self-Regulation",
+      "Report 05: Motivation Architecture",
+      "Report 06: The Science of Remembering",
+      "Report 08: Reflective Practice",
+      "Report 09: Designing the Learning PKB",
+      "Report 10: Scaffolding and Fading",
+      "Report 16",
+      "Report 16: Desirable Difficulties by Design",
+      "Report 16: Desirable Difficulties by Design — Making PKM Productively Hard",
+      "Report 18: Calibration and Epistemic Humility",
+      "Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know",
+      "Report 25: The Integration Problem",
+      "SECI Model",
+      "Schema Construction",
+      "Schema Theory",
+      "Schemas",
+      "Self-Explanation",
+      "Self-Explanation Effect",
+      "Social Constructivism",
+      "Tacit Knowledge",
+      "The Expert's Note: How Generative Note-Making Changes with Domain Expertise",
+      "The Role of Drawing and Diagramming in Knowledge Construction",
+      "Writing to Learn",
+      "Writing to Learn at Scale: Processing Large Bodies of Material Generatively"
+    ],
+    "unique_wiki_link_count": 52,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "builds-on": [
+        "[[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]",
+        "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]",
+        "[[Report 08: Reflective Practice and Experiential Learning]]",
+        "[[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]"
+      ],
+      "related_concepts": [
+        "[[Writing to Learn]]",
+        "[[Generative Learning Theory]]",
+        "[[Self-Explanation Effect]]",
+        "[[Elaborative Interrogation]]",
+        "[[Schema Construction]]",
+        "[[ICAP Framework]]",
+        "[[Wittrock]]",
+        "[[Chi]]",
+        "[[Mueller and Oppenheimer]]",
+        "[[Pressley]]",
+        "[[Constructivism]]",
+        "[[Cognitive Load Theory]]",
+        "[[Generation Effect]]",
+        "[[Progressive Summarization]]",
+        "[[Atomic Notes]]",
+        "[[Elaboration Prompts]]",
+        "[[Note-Making vs Note-Taking]]",
+        "[[Articulatory Construction Principle]]",
+        "[[Cognitive Event Model]]"
+      ],
+      "link_related": [
+        "[[Report 03: Constructing Understanding]]",
+        "[[Report 16: Desirable Difficulties by Design]]",
+        "[[Report 18: Calibration and Epistemic Humility]]"
+      ],
+      "link_up": [
+        "[[Report Generation Prompt Suite]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Articulatory Construction Principle",
+      "Atomic Notes",
+      "Cognitive Load Theory",
+      "Cognitive Psychology",
+      "Collaborative Note-Making and the Interactive Mode",
+      "Comprehension Monitoring",
+      "Constructivism",
+      "Desirable Difficulties",
+      "Dual Coding Theory",
+      "Educational Psychology",
+      "Elaboration Theory",
+      "Elaborative Interrogation",
+      "Expertise Reversal Effect",
+      "Fluency",
+      "Generation Effect",
+      "Generative Learning Theory",
+      "Germane Load",
+      "ICAP Framework",
+      "Interleaving and Note-Making Sequence Design",
+      "Knowledge Management",
+      "Metacognition",
+      "Note-Making Under Time Pressure: When Generative Processing Is Not Feasible",
+      "Obsidian",
+      "Personal Knowledge Base",
+      "Pragmatism",
+      "Progressive Summarization",
+      "Report 02: The Architecture of Learning",
+      "Report 03: Constructing Understanding",
+      "Report 04: Metacognitive Self-Regulation",
+      "Report 05: Motivation Architecture",
+      "Report 06: The Science of Remembering",
+      "Report 08: Reflective Practice",
+      "Report 09: Designing the Learning PKB",
+      "Report 10: Scaffolding and Fading",
+      "Report 16",
+      "Report 16: Desirable Difficulties by Design",
+      "Report 16: Desirable Difficulties by Design — Making PKM Productively Hard",
+      "Report 18: Calibration and Epistemic Humility",
+      "Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know",
+      "Report 25: The Integration Problem",
+      "SECI Model",
+      "Schema Construction",
+      "Schema Theory",
+      "Schemas",
+      "Self-Explanation",
+      "Self-Explanation Effect",
+      "Social Constructivism",
+      "Tacit Knowledge",
+      "The Expert's Note: How Generative Note-Making Changes with Domain Expertise",
+      "The Role of Drawing and Diagramming in Knowledge Construction",
+      "Writing to Learn",
+      "Writing to Learn at Scale: Processing Large Bodies of Material Generatively"
+    ]
+  }
+}
