@@ -123,8 +123,16 @@ python vault_indexer.py --input "./03-notes" --output "./07-mocs/notes-index.md"
 ### Custom index name
 
 ```bash
-python vault_indexer.py --input "./04-library" --name "library-catalog"
+python vault_indexer.py --input "./04-library" --name "library-catalog" --output "./07-mocs/notes-index.md"
 ```
+```
+python vault_indexer.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0\report-series" --name "pkb/pkm-framework-reports" --output "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0\extraction-material\pkb-pkm-framework-reports.md"
+```
+
+```
+python vault_indexer.py --input "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0\report-series" --name "pkb/pkm-framework-reports" --output "D:\10_pur3v4d3r's-vault\999-report-orginizing\_pkm-and-pkb-framework-1.0.0\extraction-material\pkb-pkm-framework-reports.md"
+```
+
 
 Creates `04-library/library-catalog.md`.
 
