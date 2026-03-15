@@ -24,7 +24,6 @@
     "10-mermaid",
     "custom-horizontal-rules-",
     "glassmorphism-sidebar-system",
-    "code-block-language-custom",
     "bracket-glow-controls",
     "code-block-fixed",
     "print",
@@ -46,7 +45,7 @@
   "showRibbon": false,
   "baseFontSizeAction": false,
   "nativeMenus": false,
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "theme": "obsidian",
   "accentColor": "#ff0000"
 }

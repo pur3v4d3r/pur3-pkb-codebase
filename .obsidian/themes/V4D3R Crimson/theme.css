@@ -1242,12 +1242,12 @@ CONTRAST VALIDATION RESULTS:
    
    pre code {
      background-color: var(--v4d3r-grey-darker) !important;
-     color: var(--v4d3r-grey-light) !important;
+     color: var(--v4d3r-red-accent) !important;
      border: 1px solid var(--v4d3r-grey-dark) !important;
      border-radius: var(--v4d3r-radius-md) !important;
      padding: var(--v4d3r-space-md) !important;
      font-family: var(--font-monospace) !important;
-     font-size: 14px !important;
+     font-size: 18px !important;
      line-height: var(--line-height-tight) !important;
      display: block !important;
      overflow-x: auto !important;
