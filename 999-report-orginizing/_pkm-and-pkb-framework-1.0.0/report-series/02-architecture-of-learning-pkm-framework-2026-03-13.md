@@ -419,13 +419,13 @@ Several important questions remain open in the intersection of CLT, working memo
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
-> - **[[Report 01]]** — This report extends Report 01 by showing how the mind's organizational structures (schemas, as described by Schema Theory) impose specific constraints on PKB architecture through working memory. The two reports together form a complete picture of the cognitive and structural foundations of PKB design.
+> - **[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]** — This report extends Report 01 by showing how the mind's organizational structures (schemas, as described by Schema Theory) impose specific constraints on PKB architecture through working memory. The two reports together form a complete picture of the cognitive and structural foundations of PKB design.
 >
-> - **[[Report 04]]** — The CLT framework developed here explains *what metacognitive monitoring is monitoring*: the reader's own cognitive load experience is data about whether a note's design is appropriate for their current expertise level. Report 04 will build the self-regulation structure that turns this awareness into action.
+> - **[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]** — The CLT framework developed here explains *what metacognitive monitoring is monitoring*: the reader's own cognitive load experience is data about whether a note's design is appropriate for their current expertise level. Report 04 will build the self-regulation structure that turns this awareness into action.
 >
-> - **[[Report 10]]** — The expertise reversal effect, introduced here as a tension, becomes the central subject of Report 10, which develops the full scaffold-fade framework for how PKB structure should evolve with expertise.
+> - **[[10-scaffolding-and-fading-pkm-framework-2026-03-14]]** — The expertise reversal effect, introduced here as a tension, becomes the central subject of Report 10, which develops the full scaffold-fade framework for how PKB structure should evolve with expertise.
 >
-> - **[[Report 16]]** — This report establishes the CLT foundation (germane load = productive cognitive effort). Report 16 will build on this foundation to examine the specific desirable difficulty mechanisms — spacing, interleaving, generation — that maximize germane load.
+> - **[[16-desirable-difficulties-by-design-pkm-framework-2026-03-14]]** — This report establishes the CLT foundation (germane load = productive cognitive effort). Report 16 will build on this foundation to examine the specific desirable difficulty mechanisms — spacing, interleaving, generation — that maximize germane load.
 >
 > **Synthetic Observation**: This report occupies a pivotal position in the framework's architecture — it provides the cognitive processing mechanisms that all subsequent reports depend on. Reports on motivation (Report 05), reflection (Report 08), desirable difficulties (Report 16), and scaffolding (Report 10) all implicitly rely on the working memory model and CLT developed here. The connections fan outward across the framework, making this one of the highest-connectivity nodes in the knowledge graph.
 
@@ -541,4 +541,4 @@ Several important questions remain open in the intersection of CLT, working memo
 
 *Report 02 of 30 — PKM/PKB Lifelong Learning Framework*
 *Generated: 2026-03-13 | Estimated body word count: ~8,800 words*
-*Series context: Builds on [[Report 01]] | Feeds into [[Report 04]], [[Report 10]], [[Report 16]]*
+*Series context: Builds on [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] | Feeds into [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]], [[10-scaffolding-and-fading-pkm-framework-2026-03-14]], [[16-desirable-difficulties-by-design-pkm-framework-2026-03-14]]*

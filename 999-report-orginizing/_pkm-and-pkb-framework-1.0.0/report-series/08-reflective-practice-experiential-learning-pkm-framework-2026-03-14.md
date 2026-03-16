@@ -453,9 +453,9 @@ Several important questions remain open at the edges of this synthesis. How does
 >
 > **Cross-Report Links (PKM/PKB Framework Series)**:
 >
-> - **[[Report 04]]** — This report deepens Report 04's treatment of Dewey and the SRL model by showing how the experiential learning cycle provides the content that metacognitive monitoring processes. The two reports together constitute a complete account of how deliberate learning operates: Report 04 provides the control architecture; Report 08 provides the content architecture.
+> - **[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]** — This report deepens Report 04's treatment of Dewey and the SRL model by showing how the experiential learning cycle provides the content that metacognitive monitoring processes. The two reports together constitute a complete account of how deliberate learning operates: Report 04 provides the control architecture; Report 08 provides the content architecture.
 >
-> - **[[Report 12]]** (future) — Report 12 will build directly on the EPA introduced here, extending it into a comprehensive framework for embedding metacognitive monitoring into daily PKB practice. This report's four-stage cycle architecture is the structural foundation that Report 12 will develop into specific interface and workflow designs.
+> - **[[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]]** (future) — Report 12 will build directly on the EPA introduced here, extending it into a comprehensive framework for embedding metacognitive monitoring into daily PKB practice. This report's four-stage cycle architecture is the structural foundation that Report 12 will develop into specific interface and workflow designs.
 >
 > **Synthetic Observation**: The pattern of connections reveals that this report occupies a pivotal position in the series — it is simultaneously the experiential application of the cognitive foundations laid in Reports 01-04 and the philosophical grounding for the more implementation-focused reports in Tier 2. The Experience Processing Architecture functions as a bridge between the scientific and philosophical frameworks of Tier 1 and the design specifications of Tier 2.
 

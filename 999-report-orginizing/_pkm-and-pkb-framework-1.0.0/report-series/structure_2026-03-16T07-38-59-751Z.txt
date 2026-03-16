@@ -1,0 +1,89 @@
+📁 report-series
+⏱️  Generated in 4 ms
+──────────────────────────────────────────────────
+├── 📝 01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13.md
+├── 📝 02-architecture-of-learning-pkm-framework-2026-03-13.md
+├── 📝 03-constructing-understanding-pkm-framework-2026-03-13.md
+├── 📝 04-metacognitive-self-regulation-pkm-framework-2026-03-13.md
+├── 📝 05-motivation-architecture-pkm-framework-2026-03-13.md
+├── 📝 06-science-of-remembering-pkm-framework-2026-03-13.md
+├── 📝 07-critical-thinking-pkm-practice-pkm-framework-2026-03-14.md
+├── 📝 08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md
+├── 📝 09-designing-the-learning-pkb-pkm-framework-2026-03-14.md
+├── 📝 10-scaffolding-and-fading-pkm-framework-2026-03-14.md
+├── 📝 11-transfer-problem-pkm-framework-2026-03-14.md
+├── 📝 12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14.md
+├── 📝 13-emotional-regulation-resilient-learning-pkm-framework-2026-03-14.md
+├── 📝 14-inquiry-based-knowledge-building-pkm-framework-2026-03-14.md
+├── 📝 15-knowledge-organization-at-scale-pkm-framework-2026-03-14.md
+├── 📝 16-desirable-difficulties-by-design-pkm-framework-2026-03-14.md
+├── 📝 17-note-making-knowledge-construction-pkm-framework-2026-03-14.md
+├── 📝 18-calibration-epistemic-humility-pkm-framework-2026-03-15.md
+├── 📝 19-sustaining-lifelong-learning-pkm-framework-2026-03-15.md
+├── 📝 20-retrieval-enhanced-knowledge-networks-pkm-framework-2026-03-15.md
+├── 📝 21-dialectical-knowledge-building-pkm-framework-2026-03-15.md
+├── 📝 22-tacit-knowledge-limits-of-capture-pkm-framework-2026-03-15.md
+├── 📝 23-learning-environments-design-pkm-framework-2026-03-15.md
+├── 📝 24-self-determined-learning-pkm-framework-2026-03-15.md
+├── 📝 25-integration-problem-pkm-framework-2026-03-15.md
+├── 📝 26-feedback-loops-pkm-framework-2026-03-15.md
+├── 📝 27-complete-pkm-pkb-design-framework-pkm-framework-2026-03-15.md
+├── 📝 28-philosophy-of-personal-knowledge-pkm-framework-2026-03-15.md
+├── 📝 29-ethical-pkm-pkm-framework-2026-03-15.md
+├── 📝 30-future-pkm-ai-enhanced-knowledge-building-pkm-framework-2026-03-15.md
+└── 📝 pkm-and-pkb-framework-1.0.0.md''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can you write a scipt that changes all note body links to these names that seems like the simplest appraoch atm.
+So basicall the same script you just generated except fopr it changes the report names to these is that possible?
+
+├── 📝 01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13.md
+├── 📝 02-architecture-of-learning-pkm-framework-2026-03-13.md
+├── 📝 03-constructing-understanding-pkm-framework-2026-03-13.md
+├── 📝 04-metacognitive-self-regulation-pkm-framework-2026-03-13.md
+├── 📝 05-motivation-architecture-pkm-framework-2026-03-13.md
+├── 📝 06-science-of-remembering-pkm-framework-2026-03-13.md
+├── 📝 07-critical-thinking-pkm-practice-pkm-framework-2026-03-14.md
+├── 📝 08-reflective-practice-experiential-learning-pkm-framework-2026-03-14.md
+├── 📝 09-designing-the-learning-pkb-pkm-framework-2026-03-14.md
+├── 📝 10-scaffolding-and-fading-pkm-framework-2026-03-14.md
+├── 📝 11-transfer-problem-pkm-framework-2026-03-14.md
+├── 📝 12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14.md
+├── 📝 13-emotional-regulation-resilient-learning-pkm-framework-2026-03-14.md
+├── 📝 14-inquiry-based-knowledge-building-pkm-framework-2026-03-14.md
+├── 📝 15-knowledge-organization-at-scale-pkm-framework-2026-03-14.md
+├── 📝 16-desirable-difficulties-by-design-pkm-framework-2026-03-14.md
+├── 📝 17-note-making-knowledge-construction-pkm-framework-2026-03-14.md
+├── 📝 18-calibration-epistemic-humility-pkm-framework-2026-03-15.md
+├── 📝 19-sustaining-lifelong-learning-pkm-framework-2026-03-15.md
+├── 📝 20-retrieval-enhanced-knowledge-networks-pkm-framework-2026-03-15.md
+├── 📝 21-dialectical-knowledge-building-pkm-framework-2026-03-15.md
+├── 📝 22-tacit-knowledge-limits-of-capture-pkm-framework-2026-03-15.md
+├── 📝 23-learning-environments-design-pkm-framework-2026-03-15.md
+├── 📝 24-self-determined-learning-pkm-framework-2026-03-15.md
+├── 📝 25-integration-problem-pkm-framework-2026-03-15.md
+├── 📝 26-feedback-loops-pkm-framework-2026-03-15.md
+├── 📝 27-complete-pkm-pkb-design-framework-pkm-framework-2026-03-15.md
+├── 📝 28-philosophy-of-personal-knowledge-pkm-framework-2026-03-15.md
+├── 📝 29-ethical-pkm-pkm-framework-2026-03-15.md
+├── 📝 30-future-pkm-ai-enhanced-knowledge-building-pkm-framework-2026-03-15.md
