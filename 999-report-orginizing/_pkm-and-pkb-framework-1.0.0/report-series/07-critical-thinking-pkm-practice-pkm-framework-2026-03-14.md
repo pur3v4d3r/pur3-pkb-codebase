@@ -89,6 +89,11 @@ cross-report-dependencies:
   - "[[Report 03 — Constructing Understanding]]"
   - "[[Report 04 — Metacognitive Self-Regulation]]"
 summary: "Cross-domain synthesis of Critical Thinking (Halpern, Paul-Elder), Epistemic Vigilance (Sperber & Mercier), Socratic Method (Plato, Dewey), Dual-Process Theory (Kahneman, Evans), and Argumentation Theory (Toulmin) revealing why a PKB without critical evaluation architecture is a bias amplification system rather than a knowledge system. The cross-domain analysis converges on a single structural diagnosis: biological epistemic vigilance — our evolved capacity to evaluate beliefs — has systematic limitations in the text-based, self-generated knowledge contexts that define PKM practice, and these limitations compound over time through the PKB's own linking and retrieval infrastructure. Central original contribution: the External Epistemic Vigilance System (EEVS) — a reframing of PKB design practices (source evaluation workflows, argument mapping templates, Socratic questioning protocols, epistemic status markers) as four compensatory mechanisms for the specific failure modes of natural epistemic vigilance in PKM contexts. The EEVS framework also resolves a foundational tension in Report 04: calibration presupposes prior critical evaluation of the claims being calibrated, which means metacognitive self-regulation and critical evaluation are architecturally co-dependent rather than sequentially independent."
+aliases:
+  - Report 07
+  - 'Report 07: Critical Thinking as PKM Practice'
+  - 'Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance'
+
 ---
 
 # Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance
@@ -471,17 +476,17 @@ Three important questions remain genuinely open. First, what is the minimum crit
 >
 > **Cross-Report Links (PKM/PKB Framework Series)**
 >
-> - **[[Report 03 — Constructing Understanding]]** — Established schema construction and elaborative processing as the mechanisms of knowledge building. Report 07 adds the critical evaluation dimension: schemas can be constructed around biased evidence if the capture process is uncritical. Together, Reports 03 and 07 define the complete note-making process: constructive (what the note builds on) and evaluative (whether what is built is epistemically sound). Neither report is complete without the other.
+> - **[[Report 03]]** — Established schema construction and elaborative processing as the mechanisms of knowledge building. Report 07 adds the critical evaluation dimension: schemas can be constructed around biased evidence if the capture process is uncritical. Together, Reports 03 and 07 define the complete note-making process: constructive (what the note builds on) and evaluative (whether what is built is epistemically sound). Neither report is complete without the other.
 >
-> - **[[Report 04 — Metacognitive Self-Regulation]]** — Established metacognitive monitoring and calibration as the engine of effective PKM. Report 07 reveals that effective calibration requires prior critical evaluation of the beliefs being calibrated — providing the epistemic foundation that Report 04 assumed but did not examine. The EEVS framework is architecturally prerequisite to the Metacognitive PKB framework in a way that neither report, read alone, makes clear.
+> - **[[Report 04]]** — Established metacognitive monitoring and calibration as the engine of effective PKM. Report 07 reveals that effective calibration requires prior critical evaluation of the beliefs being calibrated — providing the epistemic foundation that Report 04 assumed but did not examine. The EEVS framework is architecturally prerequisite to the Metacognitive PKB framework in a way that neither report, read alone, makes clear.
 >
-> - **[[Report 11 — The Transfer Problem]]** — Will address why knowledge often fails to transfer from where it's learned to where it's needed. Critical evaluation practices are among the conditions that support flexible transfer: beliefs that have been explicitly tested against counterarguments and alternative frameworks are more flexibly applicable than beliefs stored as uncritical summaries that encoded the specific context of their capture.
+> - **[[Report 11]]** — Will address why knowledge often fails to transfer from where it's learned to where it's needed. Critical evaluation practices are among the conditions that support flexible transfer: beliefs that have been explicitly tested against counterarguments and alternative frameworks are more flexibly applicable than beliefs stored as uncritical summaries that encoded the specific context of their capture.
 >
-> - **[[Report 14 — Inquiry-Based Knowledge Building]]** — Will extend this report's Socratic questioning framework into a full inquiry-based workflow where questions, not answers, serve as the primary note type. The epistemic value of question-driven inquiry established in this report's Phase III evidence review is the foundational claim that Report 14 will elaborate into a complete design methodology.
+> - **[[Report 14]]** — Will extend this report's Socratic questioning framework into a full inquiry-based workflow where questions, not answers, serve as the primary note type. The epistemic value of question-driven inquiry established in this report's Phase III evidence review is the foundational claim that Report 14 will elaborate into a complete design methodology.
 >
-> - **[[Report 18 — Calibration and Epistemic Humility]]** — Will provide the full treatment of calibration as a PKB design target and epistemic humility as a cultivatable intellectual virtue. Both the epistemic status vocabulary and the architectural dependency of calibration on critical evaluation developed in this report are foundational claims that Report 18 must engage directly.
+> - **[[Report 18]]** — Will provide the full treatment of calibration as a PKB design target and epistemic humility as a cultivatable intellectual virtue. Both the epistemic status vocabulary and the architectural dependency of calibration on critical evaluation developed in this report are foundational claims that Report 18 must engage directly.
 >
-> - **[[Report 21 — Dialectical Knowledge Building]]** — Will extend this report's counterargument sections and Socratic questioning protocols into a full dialectical knowledge-building methodology — a Thesis-Antithesis-Synthesis workflow where intellectual disagreement is systematically cultivated rather than managed as an exception. The EEVS framework will be extended in Report 21 into a full epistemic environment for productive disagreement.
+> - **[[Report 21]]** — Will extend this report's counterargument sections and Socratic questioning protocols into a full dialectical knowledge-building methodology — a Thesis-Antithesis-Synthesis workflow where intellectual disagreement is systematically cultivated rather than managed as an exception. The EEVS framework will be extended in Report 21 into a full epistemic environment for productive disagreement.
 >
 > **Synthetic Observation**: Report 07 occupies a pivotal structural position in the framework's knowledge graph that its sequential position — as the seventh of thirty reports — does not fully convey. Critical evaluation is not one PKM topic among many; it is the epistemic quality-control mechanism for the entire PKB enterprise. The recommendations of every other report in this series — how to link notes, how to calibrate confidence, how to design review workflows, how to build inquiry-based practices — are only as epistemically valuable as the critical evaluation practices applied to the knowledge those recommendations describe. The EEVS framework, in this sense, is not an addition to the PKM/PKB framework but its epistemic foundation.
 
@@ -595,4 +600,4 @@ Three important questions remain genuinely open. First, what is the minimum crit
 
 *PKM/PKB Lifelong Learning Framework Series · Report 07 of 30*
 
-*Preceded by: [[Report 06 — The Science of Remembering]] | Next in Series: [[Report 08 — Reflective Practice and Experiential Learning]]*
+*Preceded by: [[Report 06]] | Next in Series: [[Report 08]]*

@@ -89,10 +89,13 @@ related-concepts:
   - "[[Knowledge Graph]]"
 
 aliases:
-  - "[[PKM Report 09]]"
-  - "[[Designing the Learning PKB]]"
-  - "[[Information Architecture Meets Cognitive Architecture]]"
-  - "[[PKB Structural Design Framework]]"
+  - Report 09
+  - 'Report 09: Designing the Learning PKB'
+  - 'Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture'
+  - PKM Report 09
+  - Designing the Learning PKB
+  - Information Architecture Meets Cognitive Architecture
+  - PKB Structural Design Framework
 ---
 
 # Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture
@@ -107,7 +110,7 @@ There is a peculiar irony at the heart of most Personal Knowledge Base design ad
 
 This asymmetry matters enormously. A PKB is not, in the final analysis, a database. It is an extension of a mind — and specifically, an extension designed to augment the mind's capacity for learning, synthesis, and knowledge construction over time. The architecture of that extension therefore cannot be designed adequately by consulting only the principles of information systems design. It must be designed by consulting, simultaneously, what [[Cognitive Psychology]] has discovered about how knowledge is organized in mental architecture, what [[Information Science]] has formalized about structural principles for external knowledge systems, what [[Instructional Design]] has established about how learning environments should be arranged, what [[Self-Regulated Learning]] research reveals about the cognitive control processes that effective learners bring to their knowledge work, and what [[Memory Systems]] research shows about how the retrieval environment shapes what can be remembered and applied.
 
-The Tier 1 reports of this series have built the foundations. [[Report 01: Foundations of Knowledge Architecture]] established that the mind organizes knowledge through [[Schema Theory|schemas]] — associative structures that are simultaneously hierarchical and networked, always under construction, shaped by prior knowledge — and that the [[Cognitive Alignment Principle]] requires PKB structures to mirror these properties rather than impose alien organizational logics. [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]] showed that [[Cognitive Load Theory]] — specifically its three-part decomposition into intrinsic, extraneous, and germane load — governs not just how notes should be written but how the navigational architecture of a PKB should be designed. [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] revealed that effective PKM is not primarily a structural problem but a regulatory one: that the [[Self-Regulated Learning|SRL cycle]] of planning, monitoring, and reflection must be embedded in PKB workflows as a structural feature, not an optional addition. And [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]] demonstrated that how knowledge is organized in a PKB directly determines how retrievable it will be — that [[Encoding Specificity]] means the retrieval conditions at review time must match the conditions at encoding time, and that [[Retrieval Practice]] strengthens memory precisely through the productive effortful search that good PKB organization can either enable or undermine.
+The Tier 1 reports of this series have built the foundations. [[Report 01]] established that the mind organizes knowledge through [[Schema Theory|schemas]] — associative structures that are simultaneously hierarchical and networked, always under construction, shaped by prior knowledge — and that the [[Cognitive Alignment Principle]] requires PKB structures to mirror these properties rather than impose alien organizational logics. [[Report 02]] showed that [[Cognitive Load Theory]] — specifically its three-part decomposition into intrinsic, extraneous, and germane load — governs not just how notes should be written but how the navigational architecture of a PKB should be designed. [[Report 04]] revealed that effective PKM is not primarily a structural problem but a regulatory one: that the [[Self-Regulated Learning|SRL cycle]] of planning, monitoring, and reflection must be embedded in PKB workflows as a structural feature, not an optional addition. And [[Report 06]] demonstrated that how knowledge is organized in a PKB directly determines how retrievable it will be — that [[Encoding Specificity]] means the retrieval conditions at review time must match the conditions at encoding time, and that [[Retrieval Practice]] strengthens memory precisely through the productive effortful search that good PKB organization can either enable or undermine.
 
 ### The Synthesis Question
 
@@ -117,7 +120,7 @@ This is the central design question of the PKM/PKB Framework series — the ques
 
 ### Scope and Cross-Domain Preview
 
-This report covers the **structural design** of a PKB: the organizational architecture within which notes live, link to each other, are discovered, and are revisited. It does not extend into the design of individual notes (addressed in [[Report 17: Note-Making as Knowledge Construction]]), the mechanics of daily PKM workflows (addressed in [[Report 12: The Reflective PKB]]), or the challenges of organizing a PKB as it scales to thousands of notes (addressed in [[Report 15: Knowledge Organization at Scale]]). It does, however, establish the structural principles that those later reports will build upon.
+This report covers the **structural design** of a PKB: the organizational architecture within which notes live, link to each other, are discovered, and are revisited. It does not extend into the design of individual notes (addressed in [[Report 17]]), the mechanics of daily PKM workflows (addressed in [[Report 12]]), or the challenges of organizing a PKB as it scales to thousands of notes (addressed in [[Report 15]]). It does, however, establish the structural principles that those later reports will build upon.
 
 Five disciplinary traditions will be synthesized throughout:
 
@@ -432,17 +435,17 @@ The framework raises several important questions for future investigation. How d
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[Report 01: Foundations of Knowledge Architecture]]** — This report operationalizes what Report 01 established theoretically. The [[Cognitive Alignment Principle]] from Report 01 is the direct conceptual ancestor of the [[Cognitive Architecture Isomorphism Principle]] developed here. Report 01 describes *what* the mind does; Report 09 specifies *what the PKB must do* in structural response. These two reports should be linked bidirectionally with explicit annotation of this generative relationship.
+> - **[[Report 01]]** — This report operationalizes what Report 01 established theoretically. The [[Cognitive Alignment Principle]] from Report 01 is the direct conceptual ancestor of the [[Cognitive Architecture Isomorphism Principle]] developed here. Report 01 describes *what* the mind does; Report 09 specifies *what the PKB must do* in structural response. These two reports should be linked bidirectionally with explicit annotation of this generative relationship.
 >
-> - **[[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]** — Report 02's three-load CLT framework (intrinsic, extraneous, germane) is translated here into specific structural prescriptions: shallow folder hierarchies minimize extraneous navigation load; MOC-based conceptual organization supports germane processing; precise titling minimizes navigational extraneous load. Report 09 is the structural design specification that Report 02's principles generate.
+> - **[[Report 02]]** — Report 02's three-load CLT framework (intrinsic, extraneous, germane) is translated here into specific structural prescriptions: shallow folder hierarchies minimize extraneous navigation load; MOC-based conceptual organization supports germane processing; precise titling minimizes navigational extraneous load. Report 09 is the structural design specification that Report 02's principles generate.
 >
-> - **[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]** — The SRL feedback loop mechanism developed in Phase IV extends Report 04's analysis of regulatory behavior into the domain of structural design. Report 04 establishes *what* regulatory behaviors are necessary; Report 09 establishes *what structural affordances* make those behaviors likely. Together they form a complete account of metacognitive PKM: the psychological process and the structural conditions.
+> - **[[Report 04]]** — The SRL feedback loop mechanism developed in Phase IV extends Report 04's analysis of regulatory behavior into the domain of structural design. Report 04 establishes *what* regulatory behaviors are necessary; Report 09 establishes *what structural affordances* make those behaviors likely. Together they form a complete account of metacognitive PKM: the psychological process and the structural conditions.
 >
-> - **[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]** — The review architecture principle in this report (Principle 5) and the SECI internalization mechanism (Mechanism 4) both depend on the retrieval science established in Report 06. The "retrieval as reactivation" mechanism from Report 06 explains *why* review architecture is necessary; this report specifies *how* review architecture should be structurally implemented. These reports are complementary: Report 06 provides the neurocognitive mechanism; Report 09 provides the structural design response.
+> - **[[Report 06]]** — The review architecture principle in this report (Principle 5) and the SECI internalization mechanism (Mechanism 4) both depend on the retrieval science established in Report 06. The "retrieval as reactivation" mechanism from Report 06 explains *why* review architecture is necessary; this report specifies *how* review architecture should be structurally implemented. These reports are complementary: Report 06 provides the neurocognitive mechanism; Report 09 provides the structural design response.
 >
-> - **[[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]** — Report 09 provides the structural baseline. Report 10 will address how that structure should change as expertise develops — specifically, how the scaffolding of structural affordances should fade as the user internalizes regulatory behaviors and develops more sophisticated schema organization. Report 09 designs the initial structure; Report 10 designs its evolution.
+> - **[[Report 10]]** — Report 09 provides the structural baseline. Report 10 will address how that structure should change as expertise develops — specifically, how the scaffolding of structural affordances should fade as the user internalizes regulatory behaviors and develops more sophisticated schema organization. Report 09 designs the initial structure; Report 10 designs its evolution.
 >
-> - **[[Report 15: Knowledge Organization at Scale — Taxonomies, Ontologies, and Emergent Structure]]** — The tension identified in this report between imposed structure (folder hierarchies) and emergent structure (link-based organization) is the central problematic of Report 15. Report 09 establishes design principles for the early-to-mid PKB; Report 15 addresses what happens when those principles encounter the organizational challenges of a mature PKB with thousands of notes and many interconnected domains.
+> - **[[Report 15]]** — The tension identified in this report between imposed structure (folder hierarchies) and emergent structure (link-based organization) is the central problematic of Report 15. Report 09 establishes design principles for the early-to-mid PKB; Report 15 addresses what happens when those principles encounter the organizational challenges of a mature PKB with thousands of notes and many interconnected domains.
 >
 > - **[[Schema Theory]]** — The foundational concept from cognitive psychology that undergirds the entire structural framework of this report. The [[Cognitive Architecture Isomorphism Principle]] is, at its core, a prescription to design PKB structure to mirror the properties of schemas: hierarchical, associative, contextually embedded, and developmentally sensitive.
 >
@@ -450,9 +453,9 @@ The framework raises several important questions for future investigation. How d
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
-> - **[[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]** — Report 03's analysis of constructivist knowledge building and elaboration theory is implemented in the three-tier note architecture and the development zone structure of this report. The "knowledge builds on knowledge" principle from Report 03 is given structural form here: the development zone supports iterative elaboration; concept notes implement chunk-level synthesis; MOCs implement the highest-level schema organization.
+> - **[[Report 03]]** — Report 03's analysis of constructivist knowledge building and elaboration theory is implemented in the three-tier note architecture and the development zone structure of this report. The "knowledge builds on knowledge" principle from Report 03 is given structural form here: the development zone supports iterative elaboration; concept notes implement chunk-level synthesis; MOCs implement the highest-level schema organization.
 >
-> - **[[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]** — Report 09 designs the structural container; Report 17 will address the cognitive process of constructing what goes inside it. The elaborative interrogation and self-explanation mechanisms developed in Report 17 will be most effective when practiced within the structural affordances designed here.
+> - **[[Report 17]]** — Report 09 designs the structural container; Report 17 will address the cognitive process of constructing what goes inside it. The elaborative interrogation and self-explanation mechanisms developed in Report 17 will be most effective when practiced within the structural affordances designed here.
 >
 > **Synthetic Observation**: This report occupies a uniquely central position in the 30-report framework — it is the first Tier 2 synthesis, and it functions as a structural integration node. Almost every other report in the series either feeds into the structural framework established here (Tier 1 reports) or extends specific aspects of it (Tier 2 and Tier 3 reports). The [[Cognitive Architecture Isomorphism Principle]] developed here functions as a meta-principle: a standard against which any specific PKB design decision can be evaluated by asking "does this structural choice mirror a property of human cognitive architecture, or does it impose an alien organizational logic?"
 
@@ -542,7 +545,7 @@ The framework raises several important questions for future investigation. How d
 
 > [!further-exploration] **Deepening Your Framework**
 
-> [!topic-idea] [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]
+> [!topic-idea] [[Report 10]]
 > The [[Cognitive Architecture Isomorphism Principle]] specifies the structural properties of an effective PKB, but does not address how those structures should change as the user's expertise grows. Report 10 addresses the expertise reversal effect (Kalyuga et al., 2003) — the finding that scaffolding optimal for novices becomes cognitive overhead for experts — and derives principles for how PKB structure should be deliberately revised as expertise develops. Specifically: when should the capture zone be restructured? When should MOCs be consolidated or split? How does the optimal note length change with expertise level?
 
 > [!topic-idea] [[Note Titling as Cognitive Interface Design]]
@@ -565,4 +568,4 @@ The framework raises several important questions for future investigation. How d
 *Report 09 of 30 — PKM/PKB Lifelong Learning Framework Series*
 *Tier 2: Advanced Integration & Design*
 *Generated: 2026-03-14*
-*Next in series: [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]*
+*Next in series: [[Report 10]]*

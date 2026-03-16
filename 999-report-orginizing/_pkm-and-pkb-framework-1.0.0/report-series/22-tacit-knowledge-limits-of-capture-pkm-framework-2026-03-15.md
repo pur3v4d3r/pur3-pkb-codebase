@@ -109,6 +109,11 @@ related-concepts:
   - "[[Apprenticeship Model]]"
   - "[[Personal Knowledge Base]]"
   - "[[PKB Complementary Practices]]"
+aliases:
+  - Report 22
+  - 'Report 22: Tacit Knowledge and the Limits of Capture'
+  - 'Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store'
+
 ---
 
 # Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store
@@ -443,13 +448,13 @@ This synthesis raises questions that warrant further inquiry. Does the Observato
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
-> - **[[Report 08: Reflective Practice and Experiential Learning]]** — The SECI model's Externalization quadrant maps onto Dewey's reflective inquiry and Kolb's Abstract Conceptualization stage; this report's Observatory concept extends Report 08's reflection architecture to explicitly acknowledge what reflection cannot capture.
+> - **[[Report 08]]** — The SECI model's Externalization quadrant maps onto Dewey's reflective inquiry and Kolb's Abstract Conceptualization stage; this report's Observatory concept extends Report 08's reflection architecture to explicitly acknowledge what reflection cannot capture.
 >
-> - **[[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]** — The expertise reversal effect, understood through the tacit knowledge lens, means that PKB scaffolding must fade not merely because learners need less support but because expert performance depends on subsidiarity — the very scaffolding that helped the novice now blocks the tacit functioning that expertise requires.
+> - **[[Report 10]]** — The expertise reversal effect, understood through the tacit knowledge lens, means that PKB scaffolding must fade not merely because learners need less support but because expert performance depends on subsidiarity — the very scaffolding that helped the novice now blocks the tacit functioning that expertise requires.
 >
-> - **[[Report 11: The Transfer Problem — Making PKB Knowledge Usable Across Contexts]]** — The Transfer Problem is, in SECI terms, the failure of the Internalization quadrant. Notes in the Combination quadrant do not transfer without practice-based internalization; the PKB cannot solve the Transfer Problem but the Observatory layer can make it visible by tracking when stored explicit knowledge is actually being applied in practice.
+> - **[[Report 11]]** — The Transfer Problem is, in SECI terms, the failure of the Internalization quadrant. Notes in the Combination quadrant do not transfer without practice-based internalization; the PKB cannot solve the Transfer Problem but the Observatory layer can make it visible by tracking when stored explicit knowledge is actually being applied in practice.
 >
-> - **[[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]** — The tacit knowledge framework enriches the pedagogy → andragogy → heutagogy progression: heutagogy (self-determined learning) is not merely self-directed explicit knowledge acquisition but the development of tacit judgment about what to learn, how to learn it, and when understanding is sufficient. A mature PKB should support this tacit meta-competence, not just explicit content accumulation.
+> - **[[Report 24]]** — The tacit knowledge framework enriches the pedagogy → andragogy → heutagogy progression: heutagogy (self-determined learning) is not merely self-directed explicit knowledge acquisition but the development of tacit judgment about what to learn, how to learn it, and when understanding is sufficient. A mature PKB should support this tacit meta-competence, not just explicit content accumulation.
 >
 > **Synthetic Observation**: The pattern of connections reveals that tacit knowledge and its limits constitute a kind of conceptual thread that runs through the entire PKM framework series — implicit in discussions of transfer, scaffolding, reflective practice, and note-making, but never previously made explicit as a structural feature of the framework. Report 22's contribution is to surface and name this thread, enabling all connected reports to be read with a richer understanding of what PKB capture does and does not achieve.
 

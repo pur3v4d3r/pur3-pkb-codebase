@@ -97,9 +97,12 @@ related-concepts:
   - "[[Note Architecture]]"
 
 aliases:
-  - "[[PKM Report 10]]"
-  - "[[Scaffolding and Fading in PKB]]"
-  - "[[Expertise-Sensitive PKB Design]]"
+  - Report 10
+  - 'Report 10: Scaffolding and Fading'
+  - 'Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise'
+  - PKM Report 10
+  - Scaffolding and Fading in PKB
+  - Expertise-Sensitive PKB Design
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
@@ -208,7 +211,7 @@ The worked-example literature has a closely related companion: the *guidance fad
 Knowles's andragogy framework has generated a contested but informative empirical literature. The early enthusiasm for andragogy as a universal theory of adult learning was tempered by research showing that adults in unfamiliar domains frequently *prefer* and *perform better with* pedagogical direction, contradicting andragogy's self-directedness assumption. This apparent refutation turns out to be highly informative: it shows that andragogical principles do not apply by virtue of *chronological adulthood* but by virtue of *domain expertise and accumulated experience*. An adult encountering a genuinely new domain behaves pedagogically, and optimally so.
 
 > [!evidence] **Merriam (2001) and the Andragogy Evidence Base**
-> Sharan Merriam's comprehensive review of the andragogy research literature found that Knowles's six assumptions had uneven empirical support. The assumptions most strongly supported were (2) the role of experience as a learning resource and (5) internal motivation — both of which align with the cognitive science literature on prior knowledge and intrinsic motivation (see [[Report 05: Motivation Architecture]]). The assumptions most weakly supported were (1) the universality of self-directedness and (3) readiness linked to developmental tasks. The pattern across studies was consistent: andragogical characteristics are not uniformly present in all adults, but systematically present in proportion to domain experience and self-regulatory competence. This aligns precisely with the [[Dreyfus Model of Skill Acquisition]]: the Dreyfus-Stage-3 competent learner begins to exhibit andragogical readiness; the Stages-4–5 proficient/expert learner shows full heutagogical potential.
+> Sharan Merriam's comprehensive review of the andragogy research literature found that Knowles's six assumptions had uneven empirical support. The assumptions most strongly supported were (2) the role of experience as a learning resource and (5) internal motivation — both of which align with the cognitive science literature on prior knowledge and intrinsic motivation (see [[Report 05]]). The assumptions most weakly supported were (1) the universality of self-directedness and (3) readiness linked to developmental tasks. The pattern across studies was consistent: andragogical characteristics are not uniformly present in all adults, but systematically present in proportion to domain experience and self-regulatory competence. This aligns precisely with the [[Dreyfus Model of Skill Acquisition]]: the Dreyfus-Stage-3 competent learner begins to exhibit andragogical readiness; the Stages-4–5 proficient/expert learner shows full heutagogical potential.
 
 **The Self-Regulated Learning Development Literature**
 
@@ -249,7 +252,7 @@ Suzanne Hidi and K. Ann Renninger's (2006) four-phase model of interest developm
 
 The expertise reversal effect is not a curiosity — it reflects a deep structural change in how information is processed that occurs as schemas develop. Understanding this mechanism is essential for PKB design because it specifies *why* scaffolding must fade and *what cognitive state* triggers the need for fading.
 
-In [[Cognitive Load Theory]] (developed extensively in [[Report 02: The Architecture of Learning]]), learning is characterized as the process of constructing [[Schema|schemas]] — organized knowledge structures in long-term memory — through active processing in [[Working Memory]]. For novices, working memory is heavily burdened: every element of a new domain must be processed individually because no schemas exist to chunk them. [[Scaffolding]] reduces this burden by providing the organizing structure that schemas would provide — templates substitute for internalized patterns, worked examples substitute for problem-solving schemas, prompts substitute for self-monitoring skills.
+In [[Cognitive Load Theory]] (developed extensively in [[Report 02]]), learning is characterized as the process of constructing [[Schema|schemas]] — organized knowledge structures in long-term memory — through active processing in [[Working Memory]]. For novices, working memory is heavily burdened: every element of a new domain must be processed individually because no schemas exist to chunk them. [[Scaffolding]] reduces this burden by providing the organizing structure that schemas would provide — templates substitute for internalized patterns, worked examples substitute for problem-solving schemas, prompts substitute for self-monitoring skills.
 
 As schemas develop, the situation changes fundamentally. Schemas allow the expert to process multiple domain elements as single units — what would consume the full capacity of a novice's working memory occupies only a small portion of an expert's. This is the cognitive miracle of expertise: the expert operating within their domain is not working harder than the novice; they are working with *qualitatively different cognitive architecture* that dramatically reduces the effective complexity of domain problems.
 
@@ -441,25 +444,25 @@ The most important unresolved question that this report cannot answer with curre
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[Report 01: Foundations of Knowledge Architecture]]** — Report 01 established how schemas organize knowledge in long-term memory. This report extends that foundation by specifying how the PKB should change as schemas develop: the scaffolding appropriate to schema-poor states (full templates, worked examples) becomes counterproductive as schemas mature. Report 01 is the "what" of knowledge architecture; Report 10 is the "how it changes."
+> - **[[Report 01]]** — Report 01 established how schemas organize knowledge in long-term memory. This report extends that foundation by specifying how the PKB should change as schemas develop: the scaffolding appropriate to schema-poor states (full templates, worked examples) becomes counterproductive as schemas mature. Report 01 is the "what" of knowledge architecture; Report 10 is the "how it changes."
 >
-> - **[[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]** — Report 02 introduced [[Cognitive Load Theory]] and the [[Expertise Reversal Effect]] as a preview concept. Report 10 makes that preview central, developing the full mechanism by which expertise transforms optimal cognitive load management and specifying its PKB design implications in granular detail. These two reports should be read as a pair.
+> - **[[Report 02]]** — Report 02 introduced [[Cognitive Load Theory]] and the [[Expertise Reversal Effect]] as a preview concept. Report 10 makes that preview central, developing the full mechanism by which expertise transforms optimal cognitive load management and specifying its PKB design implications in granular detail. These two reports should be read as a pair.
 >
-> - **[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]** — Report 05's account of [[Self-Determination Theory]]'s competence need provides motivational grounding for the scaffolding-fading transition. As scaffolding fades appropriately and the learner succeeds at progressively more complex tasks without support, the competence need is activated in its most powerful form — producing the intrinsic motivation that sustains lifelong learning. Ill-timed fading (premature) threatens competence satisfaction and damages motivation; this report's design principles protect the motivational architecture Report 05 describes.
+> - **[[Report 05]]** — Report 05's account of [[Self-Determination Theory]]'s competence need provides motivational grounding for the scaffolding-fading transition. As scaffolding fades appropriately and the learner succeeds at progressively more complex tasks without support, the competence need is activated in its most powerful form — producing the intrinsic motivation that sustains lifelong learning. Ill-timed fading (premature) threatens competence satisfaction and damages motivation; this report's design principles protect the motivational architecture Report 05 describes.
 >
-> - **[[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]** — Report 09 established the structural vocabulary of PKB design: note types, folder hierarchies, linking strategies, metadata schemas. Report 10 specifies how *all of those structural elements* should evolve across expertise stages. The Stage 1–4 design specifications in Phase V are an applied layer built directly on Report 09's architectural foundations.
+> - **[[Report 09]]** — Report 09 established the structural vocabulary of PKB design: note types, folder hierarchies, linking strategies, metadata schemas. Report 10 specifies how *all of those structural elements* should evolve across expertise stages. The Stage 1–4 design specifications in Phase V are an applied layer built directly on Report 09's architectural foundations.
 >
-> - **[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]** — The metacognitive bootstrapping problem developed in Report 10 deepens Report 04's account of metacognitive regulation. Report 04 established why metacognition matters for PKM; Report 10 establishes why metacognitive calibration is specifically necessary for *knowing when to change the PKB*. These reports form a metacognitive pair.
+> - **[[Report 04]]** — The metacognitive bootstrapping problem developed in Report 10 deepens Report 04's account of metacognitive regulation. Report 04 established why metacognition matters for PKM; Report 10 establishes why metacognitive calibration is specifically necessary for *knowing when to change the PKB*. These reports form a metacognitive pair.
 >
-> - **[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]** — The scaffolding evolution framework must integrate with spaced retrieval practice (Report 06's domain). Specifically, the review intensity and format should co-evolve with expertise stage: novice review needs more scaffolded retrieval cues; expert review should involve more generative, less cued retrieval. Report 10's stages inform Report 06's review design.
+> - **[[Report 06]]** — The scaffolding evolution framework must integrate with spaced retrieval practice (Report 06's domain). Specifically, the review intensity and format should co-evolve with expertise stage: novice review needs more scaffolded retrieval cues; expert review should involve more generative, less cued retrieval. Report 10's stages inform Report 06's review design.
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
-> - **[[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]** — Report 16 will extend the scaffolding-fading analysis into the territory of deliberate cognitive challenge. The "desirable difficulties" research (spacing, interleaving, generation) can be understood as a specification of *what replaces scaffolding* as it fades: not absence of structure, but structure of a specifically challenging, generative kind.
+> - **[[Report 16]]** — Report 16 will extend the scaffolding-fading analysis into the territory of deliberate cognitive challenge. The "desirable difficulties" research (spacing, interleaving, generation) can be understood as a specification of *what replaces scaffolding* as it fades: not absence of structure, but structure of a specifically challenging, generative kind.
 >
-> - **[[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]** — Report 24 will address the full Stage 4 heutagogical PKB in depth, including the double-loop learning practices and self-determined architecture design that this report only sketches. Report 10 provides the foundational PAH framework that Report 24 will build upon.
+> - **[[Report 24]]** — Report 24 will address the full Stage 4 heutagogical PKB in depth, including the double-loop learning practices and self-determined architecture design that this report only sketches. Report 10 provides the foundational PAH framework that Report 24 will build upon.
 >
-> - **[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]** — Report 18 will address the calibration problem that Report 10 identifies as the key bottleneck in scaffolding evolution. The metacognitive bootstrapping problem — needing calibration to know when to fade, and needing fading to develop calibration — will receive a full treatment there.
+> - **[[Report 18]]** — Report 18 will address the calibration problem that Report 10 identifies as the key bottleneck in scaffolding evolution. The metacognitive bootstrapping problem — needing calibration to know when to fade, and needing fading to develop calibration — will receive a full treatment there.
 >
 > **Synthetic Observation**: The connections pattern reveals that Report 10 occupies a *pivotal hub* position in the framework: it integrates foundational cognitive architecture (Reports 01–02), motivational dynamics (Report 05), and structural design (Report 09) into a developmental framework that feeds forward into complexity design (Report 16), epistemic calibration (Report 18), and the highest-level self-determination practices (Report 24). The scaffolding and fading question is, in structural terms, the *hinge* of the entire Tier 2 framework.
 
@@ -555,7 +558,7 @@ The most important unresolved question that this report cannot answer with curre
 
 > [!further-exploration] **Deepening Your Framework**
 
-> [!topic-idea] **[[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]**
+> [!topic-idea] **[[Report 16]]**
 > Report 16 will address what replaces scaffolding as it fades: not mere absence of structure, but deliberately challenging structure that activates the generative, encoding-strengthening mechanisms (spacing, interleaving, retrieval practice) of the desirable difficulties research. The handoff from scaffolding to desirable difficulty is one of the most important transitions in PKB design.
 
 > [!topic-idea] **[[Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]**

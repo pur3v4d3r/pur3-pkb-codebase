@@ -105,6 +105,11 @@ summary: >
   and embedded application prompts. Central original contribution: the
   Contextual Bridging Architecture, a four-layer note design model that
   engineers the conditions for transfer directly into note structure.
+aliases:
+  - Report 11
+  - 'Report 11: The Transfer Problem'
+  - 'Report 11: The Transfer Problem — Making PKB Knowledge Usable Across Contexts'
+
 ---
 
 # Report 11: The Transfer Problem — Making PKB Knowledge Usable Across Contexts
@@ -127,7 +132,7 @@ What emerges from the synthesis of these four traditions is a diagnosis that is,
 
 [**Synthesis-Focus**:: The specific cross-domain question this report addresses: How do Transfer of Learning research, Situated Cognition theory, Encoding Variability/Specificity findings, and Deweyan Pragmatism — converging from educational psychology, anthropology, cognitive psychology, and educational philosophy — jointly explain why PKB knowledge so reliably fails to transfer, and what specific structural changes to PKB design would address each of the mechanisms responsible for that failure?]
 
-This report builds directly on [[Report 03: Constructing Understanding]] (Schema Theory, which explains how encoding is structured), [[Report 06: The Science of Remembering]] (Encoding Specificity, Retrieval Practice), [[Report 07: Critical Thinking as PKM Practice]] (Conditionalized Knowledge), and [[Report 09: Designing the Learning PKB]] (PKB structural design). It feeds into [[Report 15]] (knowledge organization), [[Report 16]] (Desirable Difficulties), [[Report 18]] (calibration), and [[Report 25]] (the integration problem).
+This report builds directly on [[Report 03]] (Schema Theory, which explains how encoding is structured), [[Report 06]] (Encoding Specificity, Retrieval Practice), [[Report 07]] (Conditionalized Knowledge), and [[Report 09]] (PKB structural design). It feeds into [[Report 15]] (knowledge organization), [[Report 16]] (Desirable Difficulties), [[Report 18]] (calibration), and [[Report 25]] (the integration problem).
 
 > [!ask-yourself-this] **Before You Begin**
 > Think of a powerful idea or framework you have captured in your PKB — something you genuinely found compelling. Now ask: in the past year, how many times have you spontaneously applied that idea to a problem in a *different* domain from the one where you learned it? If the answer is "rarely" or "never," you are experiencing the transfer problem this report addresses. Before reading further, take a moment to articulate: why do you think this failure occurs? What would need to be different — in your notes, in your review practice, in how you link ideas — for that knowledge to become genuinely deployable?
@@ -388,23 +393,23 @@ The most important open question is empirical: does the additional cognitive eff
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[Report 03: Constructing Understanding]]** — Schema Theory established in that report is the cognitive architecture through which transfer either succeeds (abstract relational schemas are activated by structural cues) or fails (context-specific schemas are activated only by surface-feature cues). The CBA's Layer 1 (Abstract Relational Schema) is, in schema-theoretic terms, the deliberate construction of a transferable schema; this report provides the transfer motivation for what Report 03 described as progressive note development.
+> - **[[Report 03]]** — Schema Theory established in that report is the cognitive architecture through which transfer either succeeds (abstract relational schemas are activated by structural cues) or fails (context-specific schemas are activated only by surface-feature cues). The CBA's Layer 1 (Abstract Relational Schema) is, in schema-theoretic terms, the deliberate construction of a transferable schema; this report provides the transfer motivation for what Report 03 described as progressive note development.
 >
-> - **[[Report 06: The Science of Remembering]]** — Encoding Specificity and Encoding Variability are both covered there as memory mechanisms; this report provides the transfer implications of those mechanisms that were deliberately deferred. Together, Reports 06 and 11 form a complete picture of the spacing and variability principles: Report 06 explains when to review; Report 11 explains how to encode for what type of retrieval.
+> - **[[Report 06]]** — Encoding Specificity and Encoding Variability are both covered there as memory mechanisms; this report provides the transfer implications of those mechanisms that were deliberately deferred. Together, Reports 06 and 11 form a complete picture of the spacing and variability principles: Report 06 explains when to review; Report 11 explains how to encode for what type of retrieval.
 >
-> - **[[Report 07: Critical Thinking as PKM Practice]]** — Conditionalized Knowledge was introduced there as a component of expert reasoning. This report provides the full cognitive and epistemological account of why conditionalization is so critical for transfer, deepening the practical design recommendations of Report 07's epistemic vigilance framework.
+> - **[[Report 07]]** — Conditionalized Knowledge was introduced there as a component of expert reasoning. This report provides the full cognitive and epistemological account of why conditionalization is so critical for transfer, deepening the practical design recommendations of Report 07's epistemic vigilance framework.
 >
-> - **[[Report 09: Designing the Learning PKB]]** — The structural design framework established there provides the organizational substrate into which the CBA and problem-indexed organization described in this report must be implemented. The problem registry described here is a new note type that should be added to the canonical note-type taxonomy from Report 09.
+> - **[[Report 09]]** — The structural design framework established there provides the organizational substrate into which the CBA and problem-indexed organization described in this report must be implemented. The problem registry described here is a new note type that should be added to the canonical note-type taxonomy from Report 09.
 >
-> - **[[Report 10: Scaffolding and Fading]]** — The expertise reversal effect documented there has a transfer-specific implication not addressed in that report: as expertise grows, the contextual anchors needed for near transfer become unnecessary, and the abstract relational schemas needed for far transfer become primary. The fading process is, in transfer terms, a process of progressive de-contextualization — stripping away the scaffolding that was needed for near transfer in order to expose and strengthen the abstract representations needed for far transfer.
+> - **[[Report 10]]** — The expertise reversal effect documented there has a transfer-specific implication not addressed in that report: as expertise grows, the contextual anchors needed for near transfer become unnecessary, and the abstract relational schemas needed for far transfer become primary. The fading process is, in transfer terms, a process of progressive de-contextualization — stripping away the scaffolding that was needed for near transfer in order to expose and strengthen the abstract representations needed for far transfer.
 >
-> - **[[Report 16: Desirable Difficulties by Design]]** — Encoding variability, productive failure, and transfer-appropriate processing are all desirable difficulties — they impair initial performance while improving long-term transfer. That report will provide the broader theoretical framework; this report provides the transfer-specific rationale for why those difficulties are genuinely desirable.
+> - **[[Report 16]]** — Encoding variability, productive failure, and transfer-appropriate processing are all desirable difficulties — they impair initial performance while improving long-term transfer. That report will provide the broader theoretical framework; this report provides the transfer-specific rationale for why those difficulties are genuinely desirable.
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
-> - **[[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]** — This report will address how isolated notes become connected understanding at the level of the entire knowledge graph. The CBA's cross-domain bridges are micro-scale examples of the integration process that Report 25 addresses at macro scale; the two reports are complementary accounts of what it means to have a genuinely integrated knowledge base rather than a collection of stored information.
+> - **[[Report 25]]** — This report will address how isolated notes become connected understanding at the level of the entire knowledge graph. The CBA's cross-domain bridges are micro-scale examples of the integration process that Report 25 addresses at macro scale; the two reports are complementary accounts of what it means to have a genuinely integrated knowledge base rather than a collection of stored information.
 >
-> - **[[Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement]]** — Productive failure research (Kapur) demonstrated that struggling with problems before instruction improves transfer by differentiating the problem space. Report 21's dialectical framework — building understanding through structured disagreement with one's own notes — is, in transfer terms, a practice of problem-space differentiation that prepares the cognitive system to receive and deeply encode subsequent instruction. These two reports form a productive synthesis around the idea that knowledge is deepened not by smooth accumulation but by structured difficulty.
+> - **[[Report 21]]** — Productive failure research (Kapur) demonstrated that struggling with problems before instruction improves transfer by differentiating the problem space. Report 21's dialectical framework — building understanding through structured disagreement with one's own notes — is, in transfer terms, a practice of problem-space differentiation that prepares the cognitive system to receive and deeply encode subsequent instruction. These two reports form a productive synthesis around the idea that knowledge is deepened not by smooth accumulation but by structured difficulty.
 >
 > **Synthetic Observation:** This report occupies a pivotal position in the framework series because the transfer problem is, at root, the purpose problem: why do we build a PKB at all? If knowledge stored in a PKB reliably remained inert — impressive to review, useless to deploy — the entire enterprise would be intellectually hollow. The convergence of four disciplinary traditions on the same diagnosis (context-stripping creates inert knowledge) and the same prescription (engineer contextual bridges and abstract relational schemas) provides the strongest possible foundation for the structural recommendations throughout the series. Reports before this one established how knowledge is constructed, remembered, and motivated; this report establishes the conditions under which it can be *used*.
 
@@ -513,6 +518,6 @@ The most important open question is empirical: does the additional cognitive eff
 
 ---
 
-*End of Report 11 · Next in Series: [[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]]*
+*End of Report 11 · Next in Series: [[Report 12]]*
 
 *PKM/PKB Lifelong Learning Framework Series · Report 11 of 30 · Tier 2: Advanced Integration & Design*

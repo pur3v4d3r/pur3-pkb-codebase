@@ -109,6 +109,11 @@ keywords:
   - resilience
   - growth-mindset
   - control-value-theory
+aliases:
+  - Report 13
+  - 'Report 13: Emotional Regulation and Resilient Learning'
+  - 'Report 13: Emotional Regulation and Resilient Learning — Stoic Wisdom Meets Learning Science'
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════

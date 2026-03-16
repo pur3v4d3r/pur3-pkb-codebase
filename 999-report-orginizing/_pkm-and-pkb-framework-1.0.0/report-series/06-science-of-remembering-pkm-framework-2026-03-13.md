@@ -86,10 +86,13 @@ validation_date: 2026-03-13
 summary: "A cross-domain synthesis report examining how memory science — specifically the Spacing Effect, Testing Effect, Interleaving, Desirable Difficulties, and Encoding Specificity — should fundamentally redesign PKB review and retrieval systems. Argues that most PKBs are optimized for storage and retrieval failure (passive re-reading) rather than retrieval success (active recall). Introduces Retrieval-Oriented Note Architecture (RONA) as an original synthesis principle: designing notes from inception with their retrieval context in mind. Draws on cognitive psychology, psychology of learning, educational psychology, metacognition, and knowledge management to produce integrated design guidance for Obsidian-based PKBs."
 
 aliases:
-  - "[[Science of Remembering PKM Report]]"
-  - "[[Memory Science PKB Design]]"
-  - "[[PKM Report 06]]"
-  - "[[RONA — Retrieval-Oriented Note Architecture]]"
+  - Report 06
+  - 'Report 06: The Science of Remembering'
+  - 'Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design'
+  - Science of Remembering PKM Report
+  - Memory Science PKB Design
+  - PKM Report 06
+  - RONA — Retrieval-Oriented Note Architecture
 
 link_up: "[[Report Generation Prompt Suite]]"
 link_related:
@@ -450,7 +453,7 @@ The memory science reviewed here is robust, but several limitations affect direc
 
 **Network effects**: Most memory research studies items in isolation. PKBs store knowledge in densely interconnected networks. How retrieval practice for individual nodes affects the retrieval accessibility of connected nodes, and how to design retrieval practice for knowledge structures rather than atomic items, is substantially less well-characterized by the research literature.
 
-**Sustainability**: The most effective review practices — effortful retrieval, interleaved sessions — are also the most aversive in the short term. Designing practices that users can sustain requires attending to motivation (addressed in [[Report 05: Motivation Architecture]]), not just cognitive effectiveness. A theoretically optimal review system that users abandon within weeks is not an effective system.
+**Sustainability**: The most effective review practices — effortful retrieval, interleaved sessions — are also the most aversive in the short term. Designing practices that users can sustain requires attending to motivation (addressed in [[Report 05]]), not just cognitive effectiveness. A theoretically optimal review system that users abandon within weeks is not an effective system.
 
 > [!warning] **The SRS Over-Atomization Risk**
 > Implementing spaced repetition in a PKB through flashcard-style review risks over-atomizing knowledge — reducing complex, interconnected understanding to discrete retrievable items that can be recalled in isolation but not integrated in application. The [[Testing Effect]] is powerful, but it is most powerful when the retrieval cues and practice conditions match intended application contexts. A PKB designed entirely around SRS for factual recall may produce excellent performance on isolated recall tests while failing to develop the flexible, contextually embedded understanding that makes knowledge genuinely useful. The solution is a multi-level retrieval system: SRS for atomic facts and concepts, plus higher-level retrieval practice (synthesis questions, application problems, connection-mapping exercises) for integrated understanding. These are complementary, not alternative.

@@ -87,6 +87,11 @@ cross-report-dependencies:
   - "[[Report 04 — Metacognitive Self-Regulation]]"
   - "[[Report 05 — Motivation Architecture]]"
 summary: "Cross-domain synthesis of Dewey's Reflective Inquiry (educational philosophy), Kolb's Experiential Learning Cycle (educational psychology), Schön's Reflective Practitioner framework, Nonaka's SECI Model (knowledge management), and cognitive psychology's encoding specificity research — revealing why most PKB systems fail at experience transformation and how to redesign them. Central contribution: the Experience Processing Architecture, a four-stage PKB workflow (Capture → Reflect → Conceptualize → Experiment) that mirrors the experiential learning cycle, leverages tacit-to-explicit conversion mechanisms, and grounds experience notes in encoding specificity principles. Translates into concrete Obsidian templates, learning journal protocols, and experience processing workflows."
+aliases:
+  - Report 08
+  - 'Report 08: Reflective Practice and Experiential Learning'
+  - 'Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM'
+
 ---
 
 # Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM
@@ -448,9 +453,9 @@ Several important questions remain open at the edges of this synthesis. How does
 >
 > **Cross-Report Links (PKM/PKB Framework Series)**:
 >
-> - **[[Report 04 — Metacognitive Self-Regulation]]** — This report deepens Report 04's treatment of Dewey and the SRL model by showing how the experiential learning cycle provides the content that metacognitive monitoring processes. The two reports together constitute a complete account of how deliberate learning operates: Report 04 provides the control architecture; Report 08 provides the content architecture.
+> - **[[Report 04]]** — This report deepens Report 04's treatment of Dewey and the SRL model by showing how the experiential learning cycle provides the content that metacognitive monitoring processes. The two reports together constitute a complete account of how deliberate learning operates: Report 04 provides the control architecture; Report 08 provides the content architecture.
 >
-> - **[[Report 12 — The Reflective PKB]]** (future) — Report 12 will build directly on the EPA introduced here, extending it into a comprehensive framework for embedding metacognitive monitoring into daily PKB practice. This report's four-stage cycle architecture is the structural foundation that Report 12 will develop into specific interface and workflow designs.
+> - **[[Report 12]]** (future) — Report 12 will build directly on the EPA introduced here, extending it into a comprehensive framework for embedding metacognitive monitoring into daily PKB practice. This report's four-stage cycle architecture is the structural foundation that Report 12 will develop into specific interface and workflow designs.
 >
 > **Synthetic Observation**: The pattern of connections reveals that this report occupies a pivotal position in the series — it is simultaneously the experiential application of the cognitive foundations laid in Reports 01-04 and the philosophical grounding for the more implementation-focused reports in Tier 2. The Experience Processing Architecture functions as a bridge between the scientific and philosophical frameworks of Tier 1 and the design specifications of Tier 2.
 

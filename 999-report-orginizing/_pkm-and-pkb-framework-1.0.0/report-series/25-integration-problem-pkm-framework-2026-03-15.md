@@ -105,10 +105,13 @@ related-concepts:
   - "[[Integration Node]]"
 
 aliases:
-  - "[[PKM Report 25]]"
-  - "[[Integration Problem]]"
-  - "[[The Integration Paradox — Source]]"
-  - "[[Small-World PKB Principle — Source]]"
+  - Report 25
+  - 'Report 25: The Integration Problem'
+  - 'Report 25: The Integration Problem — How Separate Notes Become Connected Understanding'
+  - PKM Report 25
+  - Integration Problem
+  - The Integration Paradox — Source
+  - Small-World PKB Principle — Source
 ---
 
 # Report 25: The Integration Problem — How Separate Notes Become Connected Understanding
@@ -478,11 +481,11 @@ And threshold concepts — revisited now with the full mechanism analysis in vie
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
-> - **[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]** — This report establishes the static structural conditions for integration (small-world topology, bridge notes, threshold concept identification). Report 26 will add the *dynamic* dimension: how the PKB system generates feedback that helps the learner recognize integration failures and structural gaps in real time. The integration health metrics implied by this report (betweenness centrality proxies, bridge note counts, cross-domain path length estimates) become the *inputs* to the feedback loops that Report 26 develops.
+> - **[[Report 26]]** — This report establishes the static structural conditions for integration (small-world topology, bridge notes, threshold concept identification). Report 26 will add the *dynamic* dimension: how the PKB system generates feedback that helps the learner recognize integration failures and structural gaps in real time. The integration health metrics implied by this report (betweenness centrality proxies, bridge note counts, cross-domain path length estimates) become the *inputs* to the feedback loops that Report 26 develops.
 >
-> - **[[Report 27: The Complete PKM/PKB Design Framework]]** — The Small-World PKB Principle and Integration Architecture developed in this report are among the most topologically specific design principles in the entire series. Report 27's synthesis of all 30 reports should treat the topological design principles here as structural requirements, not optional enhancements.
+> - **[[Report 27]]** — The Small-World PKB Principle and Integration Architecture developed in this report are among the most topologically specific design principles in the entire series. Report 27's synthesis of all 30 reports should treat the topological design principles here as structural requirements, not optional enhancements.
 >
-> - **[[Report 28: The Philosophy of Personal Knowledge]]** — The Integration Paradox — that genuine understanding requires the revision of existing frameworks, not merely their extension — has deep epistemological implications. What does it mean to "know" something in a PKB if the PKB's topology is such that the knowledge exists in inert isolation? Report 28's epistemological inquiry into the nature of PKB knowledge will need to grapple with the topological account of knowledge integration developed here.
+> - **[[Report 28]]** — The Integration Paradox — that genuine understanding requires the revision of existing frameworks, not merely their extension — has deep epistemological implications. What does it mean to "know" something in a PKB if the PKB's topology is such that the knowledge exists in inert isolation? Report 28's epistemological inquiry into the nature of PKB knowledge will need to grapple with the topological account of knowledge integration developed here.
 >
 > **Synthetic Observation**: This report occupies a structurally central position in the framework series, precisely because the integration problem is the *meta-problem* of PKM: all the other reports develop practices and principles, but this report reveals the condition under which those practices produce genuine understanding rather than mere accumulation. The small-world topology principle is not one design consideration among many; it is the architectural precondition for the framework as a whole to achieve its purpose.
 

@@ -86,6 +86,11 @@ cross-report-dependencies:
   - "[[Report 03 — Constructing Understanding]]"
   - "[[Report 04 — Metacognitive Self-Regulation]]"
 summary: "Cross-domain synthesis of Self-Determination Theory (Deci & Ryan), Achievement Goal Theory (Ames, Elliot), Mindset Theory (Dweck), and Stoic Philosophy (Marcus Aurelius, Epictetus, Seneca) revealing the motivational architecture that distinguishes PKB systems that compound in value from those that stagnate and are abandoned. Central contribution: the Fourfold Motivational Architecture — a design framework that addresses motivation simultaneously at the level of basic psychological needs (SDT), goal orientation (AGT), resilience under adversity (Stoic praxis), and optimal engagement calibration (Flow/LXD). Key finding: PKB motivation fails primarily through need frustration and goal misalignment, not through willpower deficiency. Translates into concrete PKB design guidance for autonomy-supporting organization, competence visibility systems, mastery-oriented note framing, gamification critique, and Stoic resilience protocols embedded as structural PKB features."
+aliases:
+  - Report 05
+  - 'Report 05: Motivation Architecture'
+  - 'Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn'
+
 ---
 
 # Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn
@@ -396,9 +401,9 @@ Several important questions remain open. The relationship between individual lea
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
-> - **[[Report 04 — Metacognitive Self-Regulation]]** — Metacognition and motivation are deeply interconnected: the SRL cycle (Phase III, IV of Report 04) requires motivational regulation at each phase (motivation to plan, to monitor, to reflect). This report's Fourfold Architecture adds a motivational layer to the metacognitive control architecture Report 04 described. Mastery-oriented goal structure (Level 2 of Fourfold Architecture) is closely related to the metacognitive knowledge about persons described in Report 04's Phase II.
+> - **[[Report 04]]** — Metacognition and motivation are deeply interconnected: the SRL cycle (Phase III, IV of Report 04) requires motivational regulation at each phase (motivation to plan, to monitor, to reflect). This report's Fourfold Architecture adds a motivational layer to the metacognitive control architecture Report 04 described. Mastery-oriented goal structure (Level 2 of Fourfold Architecture) is closely related to the metacognitive knowledge about persons described in Report 04's Phase II.
 >
-> - **[[Report 13 — Emotional Regulation and Resilient Learning]]** — Report 13 will extend the Stoic resilience dimension of this report, adding the SDT and educational psychology research on academic emotions, learned helplessness, and emotional regulation strategies. The adversity resilience design principles in this report (Dimension 3) will be significantly enriched by Report 13's additional disciplinary perspectives.
+> - **[[Report 13]]** — Report 13 will extend the Stoic resilience dimension of this report, adding the SDT and educational psychology research on academic emotions, learned helplessness, and emotional regulation strategies. The adversity resilience design principles in this report (Dimension 3) will be significantly enriched by Report 13's additional disciplinary perspectives.
 >
 > **Synthetic Observation**: This report occupies a distinctive position in the framework: it is the only report whose primary subject is the *motivational substrate* underlying all PKB activity. Every subsequent report in the series that discusses behavioral design, workflow recommendations, or practice maintenance has this report as an implicit prerequisite — the motivational architecture described here is the engine that determines whether cognitively sound PKB designs are actually used. The Fourfold Architecture concept should be a recurring lens throughout the series.
 

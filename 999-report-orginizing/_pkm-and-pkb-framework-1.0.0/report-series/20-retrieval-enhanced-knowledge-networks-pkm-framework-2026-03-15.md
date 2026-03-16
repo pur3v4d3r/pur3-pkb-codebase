@@ -114,9 +114,11 @@ based_on_framework: "PKM/PKB Lifelong Learning Framework Report Generator v1.0"
 # ALIASES & LINKING
 # ═══════════════════════════════════════════════════════════════════════════
 aliases:
-  - "[[Retrieval-Enhanced Knowledge Networks]]"
-  - "[[PKB Active Recall Architecture]]"
-  - "[[Report 20]]"
+  - Report 20
+  - 'Report 20: Retrieval-Enhanced Knowledge Networks'
+  - 'Report 20: Retrieval-Enhanced Knowledge Networks — Designing PKB for Active Recall'
+  - Retrieval-Enhanced Knowledge Networks
+  - PKB Active Recall Architecture
 
 link_up: "[[PKM/PKB Lifelong Learning Framework]]"
 link_down:
@@ -159,7 +161,7 @@ The answer requires drawing from four disciplinary traditions that, while addres
 
 The cross-domain synthesis that emerges from integrating these four traditions yields something that none of them articulates alone: a vision of the PKB not as a storage system for knowledge, but as a *retrieval architecture* — a designed environment whose fundamental purpose is to repeatedly activate, test, and reorganize the knowledge network in ways that build genuinely retrievable, transferable understanding. This is a conceptual shift as fundamental as the shift from filing cabinets to hypertext, and it has equally radical implications for how every aspect of a PKB should be designed.
 
-This report builds most directly on [[Report 06: The Science of Remembering]], which introduced the Spacing Effect, Testing Effect, and Desirable Difficulties in their foundational forms. Where Report 06 established the scientific principles, Report 20 synthesizes them into a unified architectural framework and translates that framework into a complete PKB design specification. It also extends [[Report 16: Desirable Difficulties by Design]] by showing how retrieval-based difficulty operates specifically at the network level, and connects to [[Report 12: The Reflective PKB]] by showing how metacognitive monitoring must be integrated into retrieval workflows to prevent the fluency illusion from undermining the entire system.
+This report builds most directly on [[Report 06]], which introduced the Spacing Effect, Testing Effect, and Desirable Difficulties in their foundational forms. Where Report 06 established the scientific principles, Report 20 synthesizes them into a unified architectural framework and translates that framework into a complete PKB design specification. It also extends [[Report 16]] by showing how retrieval-based difficulty operates specifically at the network level, and connects to [[Report 12]] by showing how metacognitive monitoring must be integrated into retrieval workflows to prevent the fluency illusion from undermining the entire system.
 
 The roadmap: Phase II establishes the cross-domain analytical framework, introducing Network Models of Memory and the core retrieval science concepts. Phase III examines the evidence for each major component. Phase IV produces the deep synthesis, integrating network models with retrieval research to yield the novel framework of Retrieval-Enhanced Network Strengthening. Phase V translates this synthesis into concrete PKB design principles and Obsidian implementation patterns. Phase VI pulls the entire synthesis together and articulates the report's original contribution.
 
@@ -338,7 +340,7 @@ The Network Model, the Testing Effect, and Spaced Repetition all describe *what 
 > [!cross-domain-connection]
 > **Self-Determined Learning + Metacognitive Control + Spaced Repetition = The PKB as an Adaptive Review System**
 >
-> Earlier in the PKM series, [[Report 04: Metacognitive Self-Regulation]] established that effective learners are not merely good at learning — they are good at *regulating* their learning by monitoring their own knowledge states and adjusting study allocation accordingly. The Judgment of Learning research now allows a more precise claim: this monitoring function, if based on reading fluency, is systematically biased toward overconfidence. The integration with [[Self-Determination Theory]] (Report 05) adds a further layer: intrinsically motivated learners often *choose* re-reading over testing because testing is unpleasant (it reveals ignorance) and re-reading is pleasurable (it feels like learning). This is the perfect storm for a PKB failure mode: intrinsically motivated learners, reading their carefully crafted notes with pleasure, generating fluency-based Judgments of Learning that dramatically overestimate their retrievable knowledge, consequently underinvesting in retrieval practice, and building a PKB that grows in volume without growing in genuine knowledge. The corrective design principle is not willpower but architecture: the PKB should make testing the *path of least resistance* for review, embedding retrieval attempts structurally so that the default review experience is retrieval-based rather than exposure-based.
+> Earlier in the PKM series, [[Report 04]] established that effective learners are not merely good at learning — they are good at *regulating* their learning by monitoring their own knowledge states and adjusting study allocation accordingly. The Judgment of Learning research now allows a more precise claim: this monitoring function, if based on reading fluency, is systematically biased toward overconfidence. The integration with [[Self-Determination Theory]] (Report 05) adds a further layer: intrinsically motivated learners often *choose* re-reading over testing because testing is unpleasant (it reveals ignorance) and re-reading is pleasurable (it feels like learning). This is the perfect storm for a PKB failure mode: intrinsically motivated learners, reading their carefully crafted notes with pleasure, generating fluency-based Judgments of Learning that dramatically overestimate their retrievable knowledge, consequently underinvesting in retrieval practice, and building a PKB that grows in volume without growing in genuine knowledge. The corrective design principle is not willpower but architecture: the PKB should make testing the *path of least resistance* for review, embedding retrieval attempts structurally so that the default review experience is retrieval-based rather than exposure-based.
 
 ### Return-and-Deepen: Network Models Revisited
 
@@ -545,13 +547,13 @@ A second unresolved question concerns network topology optimization: at what lev
 >
 > **Cross-Report Links (PKM/PKB Framework Series)**
 >
-> - **[[Report 06: The Science of Remembering]]** — This report is the direct extension of Report 06's foundations. Where Report 06 introduced the Spacing Effect, Testing Effect, and Desirable Difficulties at the conceptual level, Report 20 synthesizes them at the architectural level and provides the Network Model as the integrating framework. The reports should be read as a pair; Report 20 is incomplete without Report 06's groundwork.
+> - **[[Report 06]]** — This report is the direct extension of Report 06's foundations. Where Report 06 introduced the Spacing Effect, Testing Effect, and Desirable Difficulties at the conceptual level, Report 20 synthesizes them at the architectural level and provides the Network Model as the integrating framework. The reports should be read as a pair; Report 20 is incomplete without Report 06's groundwork.
 >
-> - **[[Report 16: Desirable Difficulties by Design]]** — Report 20 provides the retrieval-specific implementation of the desirable difficulties principle. Where Report 16 covered the full range of desirable difficulty mechanisms (generation, interleaving, spacing), Report 20 zooms into retrieval practice specifically and integrates it with network architecture. Together, they provide the complete effortful-processing layer of the PKM framework.
+> - **[[Report 16]]** — Report 20 provides the retrieval-specific implementation of the desirable difficulties principle. Where Report 16 covered the full range of desirable difficulty mechanisms (generation, interleaving, spacing), Report 20 zooms into retrieval practice specifically and integrates it with network architecture. Together, they provide the complete effortful-processing layer of the PKM framework.
 >
-> - **[[Report 25: The Integration Problem]]** — Report 25 (planned) addresses how separate notes become connected understanding. The RENS framework contributes directly: retrieval-generated link creation (Design Principle 5) is a specific mechanism for integration; the network topology analysis is a diagnostic for measuring integration success. Report 20 should be considered prerequisite reading for Report 25.
+> - **[[Report 25]]** — Report 25 (planned) addresses how separate notes become connected understanding. The RENS framework contributes directly: retrieval-generated link creation (Design Principle 5) is a specific mechanism for integration; the network topology analysis is a diagnostic for measuring integration success. Report 20 should be considered prerequisite reading for Report 25.
 >
-> - **[[Report 12: The Reflective PKB]]** — Report 12 embeds metacognitive monitoring into PKB workflows; Report 20 provides the specific calibration mechanism (retrieval-based JOL) that makes that monitoring accurate. The calibration review protocol in Phase V is a concrete implementation of Report 12's more abstract monitoring principles.
+> - **[[Report 12]]** — Report 12 embeds metacognitive monitoring into PKB workflows; Report 20 provides the specific calibration mechanism (retrieval-based JOL) that makes that monitoring accurate. The calibration review protocol in Phase V is a concrete implementation of Report 12's more abstract monitoring principles.
 >
 > **Synthetic Observation**: Report 20 occupies a uniquely architectural position in the framework series — it is the report that transforms the static knowledge structures built in Tier 1 (Foundations) and Tier 2 (Integration) into a dynamic, self-improving retrieval system. Every note architecture principle, linking strategy, and metacognitive protocol from earlier reports is only as valuable as the retrieval system that activates it. In this sense, Report 20 is less a standalone contribution than the activation layer for the entire framework.
 

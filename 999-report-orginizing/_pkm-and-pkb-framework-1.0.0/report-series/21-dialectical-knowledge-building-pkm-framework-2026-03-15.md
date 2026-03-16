@@ -117,6 +117,11 @@ keywords:
   - counter-note
   - pkm-design
   - knowledge-building
+aliases:
+  - Report 21
+  - 'Report 21: Dialectical Knowledge Building'
+  - 'Report 21: Dialectical Knowledge Building — Synthesis Through Productive Disagreement'
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
@@ -457,9 +462,9 @@ Several questions remain productively open after this synthesis. First: at what 
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
-> - **[[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]** — Dialectical synthesis is one of the primary mechanisms by which separated notes become genuinely integrated understanding. The DNT synthesis note is not just the resolution of a local contradiction; it creates a more adequately connected node in the knowledge graph that enriches the connections it makes to adjacent concepts. Report 25's account of integration will need to explicitly address dialectical synthesis as distinct from mere associative linking.
+> - **[[Report 25]]** — Dialectical synthesis is one of the primary mechanisms by which separated notes become genuinely integrated understanding. The DNT synthesis note is not just the resolution of a local contradiction; it creates a more adequately connected node in the knowledge graph that enriches the connections it makes to adjacent concepts. Report 25's account of integration will need to explicitly address dialectical synthesis as distinct from mere associative linking.
 >
-> - **[[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]]** — The DNT architecture embodies a specific epistemological commitment: that knowledge is not the same as justified true belief, but requires the additional condition of having survived systematic challenge. This pragmatist-Socratic epistemology is the philosophical foundation of dialectical PKB practice, and Report 28 will need to address it directly.
+> - **[[Report 28]]** — The DNT architecture embodies a specific epistemological commitment: that knowledge is not the same as justified true belief, but requires the additional condition of having survived systematic challenge. This pragmatist-Socratic epistemology is the philosophical foundation of dialectical PKB practice, and Report 28 will need to address it directly.
 >
 > **Synthetic Observation**: The connections above reveal that dialectical knowledge building is not a peripheral practice within the PKB framework but one of its central structural dynamics. It connects downward to the cognitive mechanisms of schema theory and cognitive load, laterally to inquiry, calibration, and critical thinking, and upward to the philosophical foundations of what personal knowledge means. A PKB designed without dialectical architecture is not just missing one technique; it is structurally unable to fulfill the PKB's deepest epistemic function.
 
@@ -570,5 +575,5 @@ Several questions remain productively open after this synthesis. First: at what 
 
 *Report 21 of 30 — PKM/PKB Lifelong Learning Framework Series*
 *Generated: 2026-03-15 | Status: Evergreen | Maturity: Highly Developed*
-*Next in series: [[Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store]]*
-*Closely related: [[Report 25: The Integration Problem]] | [[Report 28: The Philosophy of Personal Knowledge]]*
+*Next in series: [[Report 22]]*
+*Closely related: [[Report 25]] | [[Report 28]]*

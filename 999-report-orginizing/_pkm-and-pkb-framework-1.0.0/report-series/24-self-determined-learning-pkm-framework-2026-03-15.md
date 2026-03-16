@@ -105,9 +105,12 @@ related-concepts:
   - "[[Emergent Knowledge Structure]]"
 
 aliases:
-  - "[[PKM Report 24]]"
-  - "[[Heutagogy and PKB Design]]"
-  - "[[Self-Determined Learning PKB]]"
+  - Report 24
+  - 'Report 24: Self-Determined Learning and the PKB'
+  - 'Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy'
+  - PKM Report 24
+  - Heutagogy and PKB Design
+  - Self-Determined Learning PKB
 
 summary: >
   Report 24 synthesizes the Pedagogy-Andragogy-Heutagogy (PAH) continuum (educational
@@ -159,13 +162,13 @@ This report pursues a synthesis question that cannot be answered within any sing
 
 Notice that this question has three layers. The surface layer is architectural: what should a PKB look like at each stage? The middle layer is psychological: what cognitive and motivational changes enable or require each transition? The deepest layer is philosophical: what theory of knowledge is implicitly embedded in each PKB design stage, and is that theory coherent with how the learner at that stage actually creates and uses knowledge?
 
-This triple-layered question is what distinguishes Report 24 from [[Report 10: Scaffolding and Fading]], which addresses the same PAH continuum but from a narrower instructional design focus: how should scaffolding mechanics change as expertise develops? Report 10's answer is primarily cognitive — expertise transforms working memory architecture, triggering the Expertise Reversal Effect, requiring scaffold fading. Report 24's answer is philosophical and psychological at a different level: it is not merely that expert minds need less scaffolding but that genuinely self-determined learners need a different *kind* of system — one organized around different epistemological assumptions about what knowledge is and how it should be structured.
+This triple-layered question is what distinguishes Report 24 from [[Report 10]], which addresses the same PAH continuum but from a narrower instructional design focus: how should scaffolding mechanics change as expertise develops? Report 10's answer is primarily cognitive — expertise transforms working memory architecture, triggering the Expertise Reversal Effect, requiring scaffold fading. Report 24's answer is philosophical and psychological at a different level: it is not merely that expert minds need less scaffolding but that genuinely self-determined learners need a different *kind* of system — one organized around different epistemological assumptions about what knowledge is and how it should be structured.
 
 ### Scope and Cross-Domain Preview
 
 **What This Report Covers**: The philosophical and psychological transformation from self-directed to self-determined learning; the Hase & Kenyon heutagogy framework in full depth; the Capability vs. Competency distinction and its architectural implications; [[Double-Loop Learning]] (Argyris & Schön) as the distinguishing cognitive operation of heutagogical PKB use; the [[Knowledge Ecology Model]] as an original synthesis for heutagogical PKB design; and specific three-stage PKB design guidance for Pedagogical, Andragogical, and Heutagogical PKB architectures.
 
-**What This Report Does Not Cover**: The scaffolding mechanics of expertise-sensitive PKB design (see [[Report 10]]); the foundational motivation architecture of SDT (see [[Report 05]]); the long-term sustainability of PKM practice (see [[Report 19]]); or the philosophy of knowledge itself (see [[Report 28: The Philosophy of Personal Knowledge]]).
+**What This Report Does Not Cover**: The scaffolding mechanics of expertise-sensitive PKB design (see [[Report 10]]); the foundational motivation architecture of SDT (see [[Report 05]]); the long-term sustainability of PKM practice (see [[Report 19]]); or the philosophy of knowledge itself (see [[Report 28]]).
 
 **Cross-Domain Preview**: The synthesis in this report emerges from an unlikely constellation: [[Heutagogy]] (educational science — Hase & Kenyon), [[Self-Determination Theory]] (educational psychology — Deci & Ryan), [[Double-Loop Learning]] (organizational learning — Argyris & Schön), [[Transformative Learning Theory]] (adult education — Mezirow), and [[Socratic Self-Examination]] (philosophy). Each tradition contributes something the others cannot. Heutagogy names the target state. SDT explains the motivational substrate that makes it sustainable. Double-Loop Learning specifies the cognitive operation that distinguishes it from mere self-direction. Transformative Learning Theory describes the psychological mechanism of how the transition happens. And Socratic philosophy provides the oldest and most rigorous account of what self-determination in knowing actually requires: unflinching self-examination as the precondition for intellectual autonomy.
 
@@ -301,7 +304,7 @@ This mechanism explains the empirical finding from Report 10 and the heutagogy l
 
 ### Mechanism 2: The Schema-to-Capability Transformation
 
-Cognitive psychology explains competency development well: [[Schema Theory]] accounts for how domain knowledge accumulates into increasingly sophisticated, interconnected representational structures. [[Report 01: Foundations of Knowledge Architecture]] established how schemas underlie knowledge organization in both the mind and the PKB. But schema development, however sophisticated, does not by itself produce capability. The schema-to-capability transformation requires an additional mechanism — one that cognitive psychology identifies but does not fully explain, and that heutagogy and Transformative Learning Theory illuminate from different angles.
+Cognitive psychology explains competency development well: [[Schema Theory]] accounts for how domain knowledge accumulates into increasingly sophisticated, interconnected representational structures. [[Report 01]] established how schemas underlie knowledge organization in both the mind and the PKB. But schema development, however sophisticated, does not by itself produce capability. The schema-to-capability transformation requires an additional mechanism — one that cognitive psychology identifies but does not fully explain, and that heutagogy and Transformative Learning Theory illuminate from different angles.
 
 The mechanism is what Mezirow calls **perspective transformation**: the revision of the meaning structures — the meta-schemas — through which all domain schemas are organized. Perspective transformation occurs when a learner encounters material or experience that cannot be integrated into existing schemas without reorganizing those schemas' foundational assumptions. Piaget's assimilation/accommodation distinction is the cognitive science version: accommodation (schema restructuring) produces qualitatively different understanding than assimilation (schema enrichment). The transformative learning version is deeper: it applies not to individual schemas but to the meta-schema — the organizing framework through which all schemas relate to one another and to the learner's sense of what knowing means.
 
@@ -429,7 +432,7 @@ The report's most ambitious original contribution can now be fully articulated w
 
 ### Unresolved Questions
 
-Three important questions this report cannot resolve and that deserve further inquiry: First, **how much of heutagogical development is domain-general vs. domain-specific?** The evidence suggests it is substantially domain-specific, but the mechanisms (especially perspective transformation and Socratic self-examination) appear to have some domain-general transfer effects. The extent of this transfer is not well-established. Second, **what is the role of AI tools in heutagogical PKB design?** If an AI assistant (like Claude) can generate connections, surface tensions, and propose questions, does this support or substitute for the learner's own double-loop and Socratic operations? The distinction between augmentation and replacement is philosophically crucial but empirically unstudied. Third, **can the Knowledge Ecology Model be operationalized in Obsidian with sufficient specificity to be practically useful?** The model's five properties are identified, but the concrete practices for cultivating each remain underspecified and await further development in [[Report 27: The Complete PKM/PKB Design Framework]].
+Three important questions this report cannot resolve and that deserve further inquiry: First, **how much of heutagogical development is domain-general vs. domain-specific?** The evidence suggests it is substantially domain-specific, but the mechanisms (especially perspective transformation and Socratic self-examination) appear to have some domain-general transfer effects. The extent of this transfer is not well-established. Second, **what is the role of AI tools in heutagogical PKB design?** If an AI assistant (like Claude) can generate connections, surface tensions, and propose questions, does this support or substitute for the learner's own double-loop and Socratic operations? The distinction between augmentation and replacement is philosophically crucial but empirically unstudied. Third, **can the Knowledge Ecology Model be operationalized in Obsidian with sufficient specificity to be practically useful?** The model's five properties are identified, but the concrete practices for cultivating each remain underspecified and await further development in [[Report 27]].
 
 ---
 
@@ -438,23 +441,23 @@ Three important questions this report cannot resolve and that deserve further in
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[Report 04: Metacognitive Self-Regulation]]** — The metacognitive infrastructure developed in Report 04 is the operational prerequisite for double-loop learning. Zimmerman's self-regulatory cycles (planning → monitoring → evaluation) are single-loop operations; the heutagogical extension requires adding a fourth phase: questioning whether the goals driving planning are the right goals. Report 04's metacognitive protocols should be revisited with this double-loop extension in mind.
+> - **[[Report 04]]** — The metacognitive infrastructure developed in Report 04 is the operational prerequisite for double-loop learning. Zimmerman's self-regulatory cycles (planning → monitoring → evaluation) are single-loop operations; the heutagogical extension requires adding a fourth phase: questioning whether the goals driving planning are the right goals. Report 04's metacognitive protocols should be revisited with this double-loop extension in mind.
 >
-> - **[[Report 05: Motivation Architecture]]** — SDT's regulatory continuum was introduced there as the foundation for PKM motivation. Report 24 extends that foundation by mapping the full internalization arc onto the PAH continuum — showing not just that SDT explains motivation but that integrated regulation is the motivational signature of genuine heutagogy. Reports 05 and 24 together provide the full motivational theory of self-determined PKB use.
+> - **[[Report 05]]** — SDT's regulatory continuum was introduced there as the foundation for PKM motivation. Report 24 extends that foundation by mapping the full internalization arc onto the PAH continuum — showing not just that SDT explains motivation but that integrated regulation is the motivational signature of genuine heutagogy. Reports 05 and 24 together provide the full motivational theory of self-determined PKB use.
 >
-> - **[[Report 08: Reflective Practice and Experiential Learning]]** — Dewey's reflective inquiry and Kolb's experiential learning cycle provide the procedural framework within which double-loop learning occurs. Report 08's experience processing protocols are the single-loop version; Report 24's assumption audit and meta-learning layer are the double-loop extension. Together they constitute the full reflective architecture for a heutagogical PKB.
+> - **[[Report 08]]** — Dewey's reflective inquiry and Kolb's experiential learning cycle provide the procedural framework within which double-loop learning occurs. Report 08's experience processing protocols are the single-loop version; Report 24's assumption audit and meta-learning layer are the double-loop extension. Together they constitute the full reflective architecture for a heutagogical PKB.
 >
-> - **[[Report 10: Scaffolding and Fading]]** — Report 10 addresses the same PAH continuum from a cognitive/instructional design lens (scaffolding mechanics). Report 24 addresses it from an epistemological/philosophical lens (what theory of knowledge is operative). The two reports are complementary: Report 10 tells you *how* to adjust support; Report 24 tells you *why* the adjustment is needed at a deeper level than expertise reversal alone explains.
+> - **[[Report 10]]** — Report 10 addresses the same PAH continuum from a cognitive/instructional design lens (scaffolding mechanics). Report 24 addresses it from an epistemological/philosophical lens (what theory of knowledge is operative). The two reports are complementary: Report 10 tells you *how* to adjust support; Report 24 tells you *why* the adjustment is needed at a deeper level than expertise reversal alone explains.
 >
-> - **[[Report 19: Sustaining Lifelong Learning]]** — Report 19 documents that heutagogy is referenced there but deferred to this report. The connection is direct: Report 19's Motivational Compounding Model explains how PKM motivation becomes self-sustaining over years; Report 24's Knowledge Ecology Model explains what the self-sustaining PKB actually looks like at full development. Together they provide the long-arc theory of PKB maturation.
+> - **[[Report 19]]** — Report 19 documents that heutagogy is referenced there but deferred to this report. The connection is direct: Report 19's Motivational Compounding Model explains how PKM motivation becomes self-sustaining over years; Report 24's Knowledge Ecology Model explains what the self-sustaining PKB actually looks like at full development. Together they provide the long-arc theory of PKB maturation.
 >
-> - **[[Report 18: Calibration and Epistemic Humility]]** — The Socratic prerequisite for heutagogy — honest self-knowledge about what one does not know — is the epistemic humility that Report 18 develops with empirical grounding (Dunning-Kruger research, calibration methods). These reports form a pair: Report 18 provides the empirical case for epistemic humility; Report 24 provides the philosophical case for why it is the foundation of genuine self-determination.
+> - **[[Report 18]]** — The Socratic prerequisite for heutagogy — honest self-knowledge about what one does not know — is the epistemic humility that Report 18 develops with empirical grounding (Dunning-Kruger research, calibration methods). These reports form a pair: Report 18 provides the empirical case for epistemic humility; Report 24 provides the philosophical case for why it is the foundation of genuine self-determination.
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
-> - **[[Report 27: The Complete PKM/PKB Design Framework]]** — Report 24's three-stage design framework and Knowledge Ecology Model will be central inputs to the comprehensive design specification. The capability vs. competency distinction in particular represents a design principle that should thread through the entire synthesized framework.
+> - **[[Report 27]]** — Report 24's three-stage design framework and Knowledge Ecology Model will be central inputs to the comprehensive design specification. The capability vs. competency distinction in particular represents a design principle that should thread through the entire synthesized framework.
 >
-> - **[[Report 28: The Philosophy of Personal Knowledge]]** — The Epistemological Architecture Principle — that every PKB embeds an implicit theory of knowledge — is the bridge between Report 24's design guidance and Report 28's philosophical inquiry into what it means to "know" in a PKB. The two reports are designed as a pair in this framework.
+> - **[[Report 28]]** — The Epistemological Architecture Principle — that every PKB embeds an implicit theory of knowledge — is the bridge between Report 24's design guidance and Report 28's philosophical inquiry into what it means to "know" in a PKB. The two reports are designed as a pair in this framework.
 >
 > **Synthetic Observation**: Report 24 occupies a pivotal position in the framework's knowledge graph — it is simultaneously the culmination of the motivational and self-regulatory threads running through Reports 04, 05, and 19, and the opening of the philosophical threads that Reports 27, 28, and 29 will develop. Its ecological and double-loop concepts are the most ambitious design contributions in the Tier 3 series, and their full operationalization awaits the integrative synthesis in Report 27.
 
@@ -547,7 +550,7 @@ Three important questions this report cannot resolve and that deserve further in
 > Primary texts for Socratic self-examination, particularly the relationship between self-knowledge and genuine knowledge of anything else. The *Meno* is most relevant to the capability/knowledge paradox; the *Apology* most relevant to the examined life as the foundation of self-determination. Supports Phase IV (Socratic prerequisite mechanism).
 
 > [!cite] **Sweller, J. (1994). Cognitive load theory, learning difficulty, and instructional design. *Learning and Instruction, 4*(4), 295-312.**
-> Foundational CLT reference, relevant to the Pedagogical and Andragogical stages' scaffolding requirements. Cross-reference with [[Report 10: Scaffolding and Fading]] for the expertise reversal implications. Supports Phase V's stage design guidance.
+> Foundational CLT reference, relevant to the Pedagogical and Andragogical stages' scaffolding requirements. Cross-reference with [[Report 10]] for the expertise reversal implications. Supports Phase V's stage design guidance.
 
 ---
 
