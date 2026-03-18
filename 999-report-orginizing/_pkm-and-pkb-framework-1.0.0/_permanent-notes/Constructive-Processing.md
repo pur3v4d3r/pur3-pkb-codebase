@@ -96,7 +96,7 @@ expansion-topics:
     description: "The interleaving research (established in Report 16) shows that alternating between topics during st"
     priority: medium
   - topic: "[[The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction|The Role of Drawing and Diagramming in Knowledge Construction]]"
-    description: "This report focuses on verbal, text-based note-making. The cognitive science of [[Dual Coding Theory"
+    description: "This report focuses on verbal, text-based note-making. The cognitive science of Dual Coding Theory"
     priority: medium
   - topic: "[[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]]"
     description: "The ICAP framework's highest engagement mode — Interactive — involves learners co-constructing knowl"

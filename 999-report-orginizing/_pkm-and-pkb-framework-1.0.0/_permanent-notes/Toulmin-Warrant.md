@@ -127,7 +127,7 @@ importance: high
 # Toulmin Warrant
 
 > [!definition] **Toulmin Warrant**
-> A [[Toulmin Warrant|warrant]] in the Toulmin Model is the principle or rule that licenses the inferential move from data/grounds to claim. Unlike the data (the specific evidence), the warrant is a general principle: "experts in a field are usually reliable about their domain" is a warrant; "Professor X says Y" is data; "Professor X's testimony supports Y" is the claim. Warrants are often implicit in everyday arguments, and exposing them is one of the primary tools for identifying the hidden commitments of a knowledge claim — including its vulnerabilities.
+> A [[Toulmin-Warrant|warrant]] in the Toulmin Model is the principle or rule that licenses the inferential move from data/grounds to claim. Unlike the data (the specific evidence), the warrant is a general principle: "experts in a field are usually reliable about their domain" is a warrant; "Professor X says Y" is data; "Professor X's testimony supports Y" is the claim. Warrants are often implicit in everyday arguments, and exposing them is one of the primary tools for identifying the hidden commitments of a knowledge claim — including its vulnerabilities.
 
 ## Core Explanation
 
@@ -141,7 +141,7 @@ importance: high
 > **The Evidence Points Beyond "Consider Both Sides"**: The research literature on cognitive conflict and belief revision converges on a finding that is easy to misread as merely "consider multiple perspectives." The actual finding is more specific and more demanding: what drives genuine schema reorganization is not the *presence* of an alternative view but the experience of *resolving a contradiction* — working through the tension between thesis and antithesis until a more adequate synthesis…
 
 > [!analytical-insight] Key Insight
-> **The Steel-Manning Imperative**: [[Steel-Manning]] — the practice of constructing the *strongest* possible version of a position one is about to criticize, rather than the weakest ([[Straw Man Fallacy|straw man]]) — is not merely a courtesy or a rhetorical strategy. It is an epistemic requirement for dialectical thinking. A synthesis that has defeated only a weakened antithesis is not an Aufhebung but a pseudo-synthesis: it carries the appearance of having resolved a contradiction without…
+> **The Steel-Manning Imperative**: [[Steel-Manning]] — the practice of constructing the *strongest* possible version of a position one is about to criticize, rather than the weakest ([[Straw-Man-Fallacy|straw man]]) — is not merely a courtesy or a rhetorical strategy. It is an epistemic requirement for dialectical thinking. A synthesis that has defeated only a weakened antithesis is not an Aufhebung but a pseudo-synthesis: it carries the appearance of having resolved a contradiction without…
 
 > [!analytical-insight] Key Insight
 > **The Epistemic Difference Between Asserted and Examined Claims**: Two notes in a PKB might contain the same words — the same claim, the same supporting evidence. But if one note has been subjected to a full dialectical encounter (counter-argument generated, engaged, and resolved into synthesis) while the other is merely an asserted belief, they are epistemically different objects, even if they look identical on the page. The examined note encodes not just the claim but the *boundary conditions…
