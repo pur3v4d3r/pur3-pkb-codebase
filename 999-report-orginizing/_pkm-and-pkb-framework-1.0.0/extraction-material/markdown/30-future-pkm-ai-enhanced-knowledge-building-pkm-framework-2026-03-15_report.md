@@ -152,7 +152,7 @@ extraction_summary:
 #### 2. [DEFINITION] Retrieval-Augmented Generation (RAG) — Artificial Intelligence / Information Retrieval *(Line 182)*
 
 > [!definition] Retrieval-Augmented Generation (RAG) — Artificial Intelligence / Information Retrieval
-> A computational architecture in which a language model's text generation is informed by retrieved documents from an external knowledge base. When a query is posed, relevant passages are retrieved via semantic similarity search using [[Semantic Vector Embeddings]], injected into the model's context window, and the model generates a response grounded in the retrieved content rather than training data alone. In PKM applications, the knowledge base is the user's own vault — enabling AI to reason *over* the user's notes. Critical boundary condition: RAG retrieves and surfaces existing content; it does not learn from what it retrieves or update the underlying knowledge base.
+> A computational architecture in which a language model's text generation is informed by retrieved documents from an external knowledge base. When a query is posed, relevant passages are retrieved via semantic similarity search using [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Semantic Vector Embeddings]], injected into the model's context window, and the model generates a response grounded in the retrieved content rather than training data alone. In PKM applications, the knowledge base is the user's own vault — enabling AI to reason *over* the user's notes. Critical boundary condition: RAG retrieves and surfaces existing content; it does not learn from what it retrieves or update the underlying knowledge base.
 
 #### 3. [DEFINITION] Extended Mind Theory — Philosophy of Mind (Clark & Chalmers, 1998) *(Line 185)*
 
@@ -167,7 +167,7 @@ extraction_summary:
 #### 5. [DEFINITION] Google Effect / Digital Amnesia — Cognitive Psychology (Sparrow, Liu & Wegner, 2011) *(Line 191)*
 
 > [!definition] Google Effect / Digital Amnesia — Cognitive Psychology (Sparrow, Liu & Wegner, 2011)
-> The empirically observed reduction in memory encoding that occurs when individuals expect to be able to retrieve information from an external digital source. The expectation of future retrieval reduces motivation to encode internally, shifting the cognitive system toward tracking *where* to find information rather than retaining the information itself. Sparrow et al. demonstrated this with a series of experiments showing that participants in "saved" conditions showed worse recall for facts but better recall for their storage location — an extension of [[Transactive Memory Systems]] research to digital contexts.
+> The empirically observed reduction in memory encoding that occurs when individuals expect to be able to retrieve information from an external digital source. The expectation of future retrieval reduces motivation to encode internally, shifting the cognitive system toward tracking *where* to find information rather than retaining the information itself. Sparrow et al. demonstrated this with a series of experiments showing that participants in "saved" conditions showed worse recall for facts but better recall for their storage location — an extension of [[Transactive-Memory-Systems|Transactive Memory Systems]] research to digital contexts.
 
 #### 6. [DEFINITION] Zone of Proximal Development (ZPD) — Educational Psychology (Vygotsky, 1978) *(Line 194)*
 
@@ -177,7 +177,7 @@ extraction_summary:
 #### 7. [DEFINITION] Adaptive Learning Systems — Educational Technology *(Line 197)*
 
 > [!definition] Adaptive Learning Systems — Educational Technology
-> Computational systems that dynamically adjust instructional content, difficulty, sequencing, and feedback based on ongoing assessment of the learner's knowledge state. Intelligent Tutoring Systems (ITS) — including Carnegie Learning's MATHia, ALEKS, and Khanmigo — use [[Knowledge Component Models]] and [[Bayesian Knowledge Tracing]] to estimate what a learner knows and select appropriate practice items. Meta-analytic evidence (Ma et al., 2014) places ITS effect sizes at approximately 0.66 standard deviations above conventional instruction — approaching Bloom's (1984) famous "2-sigma" benchmark for one-on-one human tutoring.
+> Computational systems that dynamically adjust instructional content, difficulty, sequencing, and feedback based on ongoing assessment of the learner's knowledge state. Intelligent Tutoring Systems (ITS) — including Carnegie Learning's MATHia, ALEKS, and Khanmigo — use [[Knowledge Component Models]] and [[Bayesian-Knowledge-Tracing|Bayesian Knowledge Tracing]] to estimate what a learner knows and select appropriate practice items. Meta-analytic evidence (Ma et al., 2014) places ITS effect sizes at approximately 0.66 standard deviations above conventional instruction — approaching Bloom's (1984) famous "2-sigma" benchmark for one-on-one human tutoring.
 
 #### 8. [DEFINITION] Epistemic Autonomy — Epistemology / Social Epistemology *(Line 200)*
 
@@ -222,7 +222,7 @@ extraction_summary:
 #### 14. [EVIDENCE] Untitled *(Line 242)*
 
 > [!evidence] Untitled
-> **The Sparrow et al. (2011) Paradigm**: Participants read trivia facts under conditions where they either expected the information to be saved to a computer for later retrieval or expected it to be erased. Participants in the "saved" condition showed significantly worse recall for the facts themselves but better recall for *where* the information would be stored. This asymmetry — weaker object memory, stronger location memory — mirrors the [[Transactive Memory Systems]] patterns Wegner had documented in human social cognition: we track who knows what and access it through them, rather than storing everything ourselves.
+> **The Sparrow et al. (2011) Paradigm**: Participants read trivia facts under conditions where they either expected the information to be saved to a computer for later retrieval or expected it to be erased. Participants in the "saved" condition showed significantly worse recall for the facts themselves but better recall for *where* the information would be stored. This asymmetry — weaker object memory, stronger location memory — mirrors the [[Transactive-Memory-Systems|Transactive Memory Systems]] patterns Wegner had documented in human social cognition: we track who knows what and access it through them, rather than storing everything ourselves.
 
 #### 15. [ANALYTICAL-INSIGHT] Untitled *(Line 249)*
 
@@ -273,7 +273,7 @@ extraction_summary:
 #### 23. [CROSS-DOMAIN-CONNECTION] Untitled *(Line 309)*
 
 > [!cross-domain-connection] Untitled
-> **Vygotsky meets Adaptive AI**: The ZPD is a dynamic space — it shifts as the learner's competence develops. This is precisely what [[Report 10: Scaffolding and Fading]] addressed through the expertise reversal effect from [[Cognitive Load Theory]]: scaffolding appropriate for novices becomes redundant and harmful for experts. The design principle that emerges from combining Vygotsky's ZPD with the expertise reversal research is architecturally important: **AI scaffolding must detect growing competence and actively reduce assistance in response.** An AI that continues providing the same level of synthesis and connection-finding as the user becomes more expert is no longer operating in the ZPD — it is operating *below* the learner's current competence, maintaining dependency rather than building autonomy. This means that the quality of an AI-integrated PKB is not fixed but changes dynamically as the user's expertise grows — and a system optimized for a novice user may actively harm an expert user in the same domain.
+> **Vygotsky meets Adaptive AI**: The ZPD is a dynamic space — it shifts as the learner's competence develops. This is precisely what [[Report 10: Scaffolding and Fading]] addressed through the expertise reversal effect from [[Cognitive-Load-Theory|Cognitive Load Theory]]: scaffolding appropriate for novices becomes redundant and harmful for experts. The design principle that emerges from combining Vygotsky's ZPD with the expertise reversal research is architecturally important: **AI scaffolding must detect growing competence and actively reduce assistance in response.** An AI that continues providing the same level of synthesis and connection-finding as the user becomes more expert is no longer operating in the ZPD — it is operating *below* the learner's current competence, maintaining dependency rather than building autonomy. This means that the quality of an AI-integrated PKB is not fixed but changes dynamically as the user's expertise grows — and a system optimized for a novice user may actively harm an expert user in the same domain.
 
 #### 24. [ANALYTICAL-INSIGHT] Untitled *(Line 320)*
 
@@ -321,7 +321,7 @@ extraction_summary:
 #### 31. [ORIGINAL-SYNTHESIS] Untitled *(Line 405)*
 
 > [!original-synthesis] Untitled
-> **The Cognitive Partnership Model**: A framework for human-AI interaction in a learning-oriented PKB that synthesizes [[Socratic Philosophy]] (from [[Report 14: Inquiry-Based Knowledge Building]]), [[Extended Mind Theory]] (Clark & Chalmers), [[Zone of Proximal Development]] (Vygotsky), [[Desirable Difficulties]] (Bjork et al.), and [[Constructivism]] (from [[Report 03]]) into a coherent design philosophy with four structural components.
+> **The Cognitive Partnership Model**: A framework for human-AI interaction in a learning-oriented PKB that synthesizes [[Socratic Philosophy]] (from [[Report 14: Inquiry-Based Knowledge Building]]), [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] (Clark & Chalmers), [[Zone-of-Proximal-Development|Zone of Proximal Development]] (Vygotsky), [[Desirable-Difficulties|Desirable Difficulties]] (Bjork et al.), and [[Constructivism]] (from [[Report 03]]) into a coherent design philosophy with four structural components.
 > 
 > **Component 1: Partnership, Not Delegation.** The user remains the primary cognitive agent in the knowledge-building process. AI participates as a thinking partner — contributing capacity, challenge, and synthesis — but does not replace the user's constructive engagement. The diagnostic test: after every AI-assisted work session, ask whether you *understand* something you didn't before, or whether you merely *have information* that you received. Partnership produces understanding; delegation produces information.
 > 
@@ -334,7 +334,7 @@ extraction_summary:
 #### 32. [ORIGINAL-SYNTHESIS] Untitled *(Line 444)*
 
 > [!original-synthesis] Untitled
-> **A Final Synthesis Across the Series**: Looking back across all 30 reports, a unifying pattern emerges that the AI era makes explicit. Every report in this series has been, at its core, about one question: *How do you design conditions that maximize the probability that genuine understanding — not the appearance of understanding — will develop?* The [[Schema Theory]] of Report 01, the [[Cognitive Load Theory]] of Report 02, the [[Constructivism]] of Report 03, the [[Metacognitive Self-Regulation]] of Report 04, the [[Desirable Difficulties]] of Report 16, the [[Calibration]] of Report 18, the [[Epistemic Virtue]] of Report 29 — all are answers to this one question from different disciplinary angles. AI makes this question both more urgent and more tractable. More urgent because AI creates more opportunities to simulate understanding without producing it. More tractable because AI, designed well, can create more opportunities for genuine constructive engagement than any prior tool. The PKM framework built across these 30 reports is, at its deepest level, a framework for protecting the conditions under which genuine understanding develops. That framework does not become obsolete in the AI era — it becomes more essential.
+> **A Final Synthesis Across the Series**: Looking back across all 30 reports, a unifying pattern emerges that the AI era makes explicit. Every report in this series has been, at its core, about one question: *How do you design conditions that maximize the probability that genuine understanding — not the appearance of understanding — will develop?* The [[Schema-Theory|Schema Theory]] of Report 01, the [[Cognitive-Load-Theory|Cognitive Load Theory]] of Report 02, the [[Constructivism]] of Report 03, the [[Metacognitive Self-Regulation]] of Report 04, the [[Desirable-Difficulties|Desirable Difficulties]] of Report 16, the [[Calibration]] of Report 18, the [[Epistemic-Virtue|Epistemic Virtue]] of Report 29 — all are answers to this one question from different disciplinary angles. AI makes this question both more urgent and more tractable. More urgent because AI creates more opportunities to simulate understanding without producing it. More tractable because AI, designed well, can create more opportunities for genuine constructive engagement than any prior tool. The PKM framework built across these 30 reports is, at its deepest level, a framework for protecting the conditions under which genuine understanding develops. That framework does not become obsolete in the AI era — it becomes more essential.
 
 #### 33. [REFLECTION] Integrating the Synthesis *(Line 447)*
 
@@ -350,19 +350,19 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Extended Mind Theory]]** — The philosophical foundation that elevates the PKB from information repository to distributed cognitive system component. With AI integration, the parity principle (if it would be cognitive in the brain, it counts as cognitive when externalized) applies with new force to AI-mediated reasoning. Every design decision becomes a choice about cognitive architecture, not just information organization.
+> - **[[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]]** — The philosophical foundation that elevates the PKB from information repository to distributed cognitive system component. With AI integration, the parity principle (if it would be cognitive in the brain, it counts as cognitive when externalized) applies with new force to AI-mediated reasoning. Every design decision becomes a choice about cognitive architecture, not just information organization.
 > 
-> - **[[Desirable Difficulties]]** — The single most important constraint on AI design in a learning PKB. Every AI feature that makes retrieval or synthesis effortless must be evaluated against this question: what learning-productive cognitive effort is being removed? This connection demands active design intervention to restore productive friction — specifically through challenge-oriented, Socratic AI interactions.
+> - **[[Desirable-Difficulties|Desirable Difficulties]]** — The single most important constraint on AI design in a learning PKB. Every AI feature that makes retrieval or synthesis effortless must be evaluated against this question: what learning-productive cognitive effort is being removed? This connection demands active design intervention to restore productive friction — specifically through challenge-oriented, Socratic AI interactions.
 > 
-> - **[[Zone of Proximal Development]]** — AI's most powerful positive mechanism in PKM. The design challenge is building AI interactions that genuinely operate at the leading edge of the user's competence in each domain — neither below it nor above it — and that actively reduce in response to growing expertise. Connecting to [[Report 10: Scaffolding and Fading]] reveals that this calibration is a dynamic design problem, not a one-time configuration.
+> - **[[Zone-of-Proximal-Development|Zone of Proximal Development]]** — AI's most powerful positive mechanism in PKM. The design challenge is building AI interactions that genuinely operate at the leading edge of the user's competence in each domain — neither below it nor above it — and that actively reduce in response to growing expertise. Connecting to [[Report 10: Scaffolding and Fading]] reveals that this calibration is a dynamic design problem, not a one-time configuration.
 > 
-> - **[[Epistemic Autonomy]]** — The non-negotiable value that AI design must protect. AI interactions that systematically provide conclusions without reasoning erode the epistemic foundation that makes PKB knowledge genuinely the user's own. Connecting this to [[Report 07: Critical Thinking as PKM Practice]] reveals that epistemic autonomy is not just a philosophical value but a practical prerequisite for the knowledge integration and transfer that the PKB is designed to enable.
+> - **[[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Epistemic Autonomy]]** — The non-negotiable value that AI design must protect. AI interactions that systematically provide conclusions without reasoning erode the epistemic foundation that makes PKB knowledge genuinely the user's own. Connecting this to [[Report 07: Critical Thinking as PKM Practice]] reveals that epistemic autonomy is not just a philosophical value but a practical prerequisite for the knowledge integration and transfer that the PKB is designed to enable.
 > 
-> - **[[Fluency Illusion]]** — The most concrete and immediate cognitive risk of AI-integrated PKM. Connecting this to [[Report 18: Calibration and Epistemic Humility]] suggests that the calibration practices developed there (explicit confidence tracking, active recall before consulting notes, before-and-after self-testing) become more important, not less, in AI contexts. If you implement only one practice from the entire framework in your AI-integrated PKB, make it active recall before AI consultation.
+> - **[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]** — The most concrete and immediate cognitive risk of AI-integrated PKM. Connecting this to [[Report 18: Calibration and Epistemic Humility]] suggests that the calibration practices developed there (explicit confidence tracking, active recall before consulting notes, before-and-after self-testing) become more important, not less, in AI contexts. If you implement only one practice from the entire framework in your AI-integrated PKB, make it active recall before AI consultation.
 > 
-> - **[[Cognitive Partnership Model]]** — The original synthesis of this report, integrating Socratic philosophy, Extended Mind Theory, ZPD, and Desirable Difficulties into a design philosophy for human-AI knowledge collaboration. This node connects the AI-specific insights of Report 30 back to the full theoretical apparatus of the series.
+> - **[[Cognitive-Partnership-Model-—-Original-Synthesis|Cognitive Partnership Model]]** — The original synthesis of this report, integrating Socratic philosophy, Extended Mind Theory, ZPD, and Desirable Difficulties into a design philosophy for human-AI knowledge collaboration. This node connects the AI-specific insights of Report 30 back to the full theoretical apparatus of the series.
 > 
-> - **[[Tacit Knowledge]]** — [[Report 22: Tacit Knowledge and the Limits of Capture]] established what a text-based PKB cannot store: embodied knowledge, contextual judgment, practical wisdom. AI integration does not eliminate these limits — it may intensify them by creating the *appearance* of comprehensive, synthesized knowledge while the tacit dimensions (the judgment, the feel, the contextual sensitivity) remain as inaccessible as ever.
+> - **[[Tacit-Knowledge|Tacit Knowledge]]** — [[Report 22: Tacit Knowledge and the Limits of Capture]] established what a text-based PKB cannot store: embodied knowledge, contextual judgment, practical wisdom. AI integration does not eliminate these limits — it may intensify them by creating the *appearance* of comprehensive, synthesized knowledge while the tacit dimensions (the judgment, the feel, the contextual sensitivity) remain as inaccessible as ever.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
@@ -392,7 +392,7 @@ extraction_summary:
 #### 38. [DEFINITION] Google Effect / Digital Amnesia — Cognitive Psychology (Sparrow, Liu & Wegner, 2011) *(Line 500)*
 
 > [!definition] Google Effect / Digital Amnesia — Cognitive Psychology (Sparrow, Liu & Wegner, 2011)
-> The observed reduction in memory encoding when individuals expect future retrieval from digital systems. The expectation itself reduces encoding depth, shifting memory toward tracking *where* to find information rather than retaining the information, mirroring the [[Transactive Memory Systems]] architecture of social cognition.
+> The observed reduction in memory encoding when individuals expect future retrieval from digital systems. The expectation itself reduces encoding depth, shifting memory toward tracking *where* to find information rather than retaining the information, mirroring the [[Transactive-Memory-Systems|Transactive Memory Systems]] architecture of social cognition.
 
 #### 39. [DEFINITION] Zone of Proximal Development (ZPD) — Educational Psychology (Vygotsky, 1978) *(Line 503)*
 
@@ -506,29 +506,29 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Framework
 
-#### 60. [TOPIC-IDEA] [[Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]] *(Line 580)*
+#### 60. [TOPIC-IDEA] [[Longitudinal-Effects-of-AI-Integrated-PKM-on-Learning-Outcomes|Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]] *(Line 580)*
 
-> [!topic-idea] [[Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]]
+> [!topic-idea] [[Longitudinal-Effects-of-AI-Integrated-PKM-on-Learning-Outcomes|Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]]
 > The most important missing research. What are the actual effects on deep learning, knowledge transfer, and epistemic autonomy of sustained AI-integrated PKM over months and years? This expansion would track the emerging empirical literature, evaluate studies as they appear, and update the design principles as evidence accumulates. The specific questions to watch for: does active-challenge AI interaction produce different long-term outcomes than passive-reception AI use? Does expertise still develop normally in AI-integrated PKM, or does it plateau earlier?
 
-#### 61. [TOPIC-IDEA] [[Prompt Engineering for PKM: Designing Socratic AI Interactions]] *(Line 583)*
+#### 61. [TOPIC-IDEA] [[Prompt-Engineering-for-PKM-Designing-Socratic-AI-Interactions|Prompt Engineering for PKM: Designing Socratic AI Interactions]] *(Line 583)*
 
-> [!topic-idea] [[Prompt Engineering for PKM: Designing Socratic AI Interactions]]
+> [!topic-idea] [[Prompt-Engineering-for-PKM-Designing-Socratic-AI-Interactions|Prompt Engineering for PKM: Designing Socratic AI Interactions]]
 > A practical application of the Cognitive Partnership Model. What specific prompting strategies and interaction patterns instantiate the Socratic Interlocutor model in Obsidian + AI contexts? This expansion would develop a taxonomy of AI interaction types for PKM (challenge prompts, gap-finding prompts, calibration prompts, Socratic dialogue patterns, ZPD-calibration prompts) with templates, workflow examples, and evaluation criteria.
 
-#### 62. [TOPIC-IDEA] [[The Semantic Note: Writing for Human and AI Readers Simultaneously]] *(Line 586)*
+#### 62. [TOPIC-IDEA] [[The-Semantic-Note-Writing-for-Human-and-AI-Readers-Simultaneously|The Semantic Note: Writing for Human and AI Readers Simultaneously]] *(Line 586)*
 
-> [!topic-idea] [[The Semantic Note: Writing for Human and AI Readers Simultaneously]]
+> [!topic-idea] [[The-Semantic-Note-Writing-for-Human-and-AI-Readers-Simultaneously|The Semantic Note: Writing for Human and AI Readers Simultaneously]]
 > How should note-making practice adapt to produce notes optimal both for the human writer's schema construction (requiring active, elaborative engagement) and for AI retrieval and reasoning (requiring semantic richness, explicit articulation of understanding)? This connects [[Report 17: Note-Making as Knowledge Construction]] with the AI integration context of this report, showing how these two requirements converge rather than conflict.
 
-#### 63. [TOPIC-IDEA] [[Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]] *(Line 589)*
+#### 63. [TOPIC-IDEA] [[Quantified-Learning-in-AI-Integrated-PKM-Tracking-Epistemic-Development|Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]] *(Line 589)*
 
-> [!topic-idea] [[Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]]
+> [!topic-idea] [[Quantified-Learning-in-AI-Integrated-PKM-Tracking-Epistemic-Development|Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]]
 > The intersection of learning analytics, quantified self practices, and PKM. How can data about your own note-making, AI interaction patterns, and recall performance inform calibration of AI assistance, identification of knowledge gaps, and tracking of developing expertise? What metrics would distinguish genuine understanding development from the appearance of productivity?
 
-#### 64. [TOPIC-IDEA] [[AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]] *(Line 592)*
+#### 64. [TOPIC-IDEA] [[AI-Ethics-in-Personal-Knowledge-Management-Autonomy,-Dependency,-and-the-Right-t|AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]] *(Line 592)*
 
-> [!topic-idea] [[AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]]
+> [!topic-idea] [[AI-Ethics-in-Personal-Knowledge-Management-Autonomy,-Dependency,-and-the-Right-t|AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]]
 > A deeper ethical examination of AI-integrated PKM. What obligations do users, tool designers, and AI developers have regarding epistemic autonomy? What are the rights and responsibilities of a person whose primary knowledge system is deeply AI-integrated? This extends [[Report 29: Ethical PKM]] into the AI-mediated context — asking not just what epistemic virtues require but what structural conditions make those virtues possible.
 
 #### 65. [TOPIC-IDEA] [[Neuro-AI Interfaces and the Far Future of Cognitive Extension]] *(Line 595)*
@@ -546,30 +546,30 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]]
-- [[Adaptive Learning Systems]]
-- [[Bayesian Knowledge Tracing]]
+- [[AI-Ethics-in-Personal-Knowledge-Management-Autonomy,-Dependency,-and-the-Right-t|AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]]
+- [[Adaptive-Learning-Systems-—-Educational-Technology|Adaptive Learning Systems]]
+- [[Bayesian-Knowledge-Tracing|Bayesian Knowledge Tracing]]
 - [[Calibration]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Offloading]]
-- [[Cognitive Partnership Model]]
-- [[Confirmation Bias]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
+- [[Cognitive-Partnership-Model-—-Original-Synthesis|Cognitive Partnership Model]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Constructivism]]
-- [[Desirable Difficulties]]
-- [[Dialectical Knowledge Building]]
-- [[Epistemic Autonomy]]
-- [[Epistemic Humility]]
-- [[Epistemic Virtue]]
-- [[Expertise Reversal Effect]]
-- [[Extended Mind Theory]]
-- [[Fluency Illusion]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Dialectical-Knowledge-Building|Dialectical Knowledge Building]]
+- [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Epistemic Autonomy]]
+- [[Epistemic-Humility|Epistemic Humility]]
+- [[Epistemic-Virtue|Epistemic Virtue]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Knowledge Component Models]]
-- [[Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]]
+- [[Longitudinal-Effects-of-AI-Integrated-PKM-on-Learning-Outcomes|Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]]
 - [[Metacognitive Self-Regulation]]
 - [[Neuro-AI Interfaces and the Far Future of Cognitive Extension]]
-- [[Personal Knowledge Management]]
-- [[Prompt Engineering for PKM: Designing Socratic AI Interactions]]
-- [[Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Prompt-Engineering-for-PKM-Designing-Socratic-AI-Interactions|Prompt Engineering for PKM: Designing Socratic AI Interactions]]
+- [[Quantified-Learning-in-AI-Integrated-PKM-Tracking-Epistemic-Development|Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 02: The Architecture of Learning]]
 - [[Report 03]]
@@ -590,75 +590,75 @@ extraction_summary:
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: Philosophy of Personal Knowledge]]
 - [[Report 29: Ethical PKM]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Scaffolding and Fading]]
-- [[Schema Theory]]
-- [[Semantic Vector Embeddings]]
+- [[Schema-Theory|Schema Theory]]
+- [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Semantic Vector Embeddings]]
 - [[Socratic Philosophy]]
-- [[Tacit Knowledge]]
-- [[The Semantic Note: Writing for Human and AI Readers Simultaneously]]
-- [[Transactive Memory Systems]]
-- [[Zone of Proximal Development]]
+- [[Tacit-Knowledge|Tacit Knowledge]]
+- [[The-Semantic-Note-Writing-for-Human-and-AI-Readers-Simultaneously|The Semantic Note: Writing for Human and AI Readers Simultaneously]]
+- [[Transactive-Memory-Systems|Transactive Memory Systems]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focu... | 157 |
-| 2 | [[Retrieval-Augmented Generation]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
-| 3 | [[Extended Mind Theory]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
-| 4 | [[Cognitive Offloading]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
-| 5 | [[Zone of Proximal Development]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
-| 6 | [[Desirable Difficulties]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
-| 7 | [[Epistemic Humility]] | — | — | Phase I: Orientation & Synthesis Focu... | 172 |
+| 1 | [[Personal-Knowledge-Management|Personal Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focu... | 157 |
+| 2 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
+| 3 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
+| 4 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
+| 5 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
+| 6 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Phase I: Orientation & Synthesis Focu... | 165 |
+| 7 | [[Epistemic-Humility|Epistemic Humility]] | — | — | Phase I: Orientation & Synthesis Focu... | 172 |
 | 8 | [[Report 18: Calibration and Epistemic Humility]] | — | — | Phase I: Orientation & Synthesis Focu... | 172 |
-| 9 | [[Cognitive Partnership Model]] | — | — | Phase I: Orientation & Synthesis Focu... | 174 |
-| 10 | [[Semantic Vector Embeddings]] | — | — | Phase II: Analytical Framework — Cros... | 183 |
+| 9 | [[Cognitive-Partnership-Model-—-Original-Synthesis|Cognitive Partnership Model]] | — | — | Phase I: Orientation & Synthesis Focu... | 174 |
+| 10 | [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Semantic Vector Embeddings]] | — | — | Phase II: Analytical Framework — Cros... | 183 |
 | 11 | [[Report 02: The Architecture of Learning]] | — | — | Phase II: Analytical Framework — Cros... | 189 |
-| 12 | [[Transactive Memory Systems]] | — | — | Phase II: Analytical Framework — Cros... | 192 |
+| 12 | [[Transactive-Memory-Systems|Transactive Memory Systems]] | — | — | Phase II: Analytical Framework — Cros... | 192 |
 | 13 | [[Report 10: Scaffolding and Fading]] | — | — | Phase II: Analytical Framework — Cros... | 195 |
 | 14 | [[Knowledge Component Models]] | — | — | Phase II: Analytical Framework — Cros... | 198 |
-| 15 | [[Bayesian Knowledge Tracing]] | — | — | Phase II: Analytical Framework — Cros... | 198 |
+| 15 | [[Bayesian-Knowledge-Tracing|Bayesian Knowledge Tracing]] | — | — | Phase II: Analytical Framework — Cros... | 198 |
 | 16 | [[Report 28: Philosophy of Personal Knowledge]] | — | — | Phase II: Analytical Framework — Cros... | 201 |
 | 17 | [[Report 18: Calibration and Epistemic Humility]] | — | — | Phase II: Analytical Framework — Cros... | 204 |
-| 18 | [[Extended Mind Theory]] | — | — | Phase II: Analytical Framework — Cros... | 215 |
-| 19 | [[Retrieval-Augmented Generation]] | — | — | Phase II: Analytical Framework — Cros... | 215 |
-| 20 | [[Cognitive Offloading]] | — | — | Phase II: Analytical Framework — Cros... | 220 |
-| 21 | [[Desirable Difficulties]] | — | — | Phase II: Analytical Framework — Cros... | 220 |
+| 18 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | Phase II: Analytical Framework — Cros... | 215 |
+| 19 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | Phase II: Analytical Framework — Cros... | 215 |
+| 20 | [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]] | — | — | Phase II: Analytical Framework — Cros... | 220 |
+| 21 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Phase II: Analytical Framework — Cros... | 220 |
 | 22 | [[Report 16: Desirable Difficulties by Design]] | — | — | Phase II: Analytical Framework — Cros... | 220 |
-| 23 | [[Transactive Memory Systems]] | — | — | The Google Effect and Cognitive Offlo... | 243 |
+| 23 | [[Transactive-Memory-Systems|Transactive Memory Systems]] | — | — | The Google Effect and Cognitive Offlo... | 243 |
 | 24 | [[Report 06: The Science of Remembering]] | — | — | Intelligent Tutoring Systems and the ... | 257 |
-| 25 | [[Desirable Difficulties]] | — | — | The Desirable Difficulties Research i... | 261 |
+| 25 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Desirable Difficulties Research i... | 261 |
 | 26 | [[Report 16]] | — | — | The Desirable Difficulties Research i... | 261 |
-| 27 | [[Fluency Illusion]] | — | — | The Calibration Problem: AI Fluency a... | 270 |
+| 27 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | The Calibration Problem: AI Fluency a... | 270 |
 | 28 | [[Constructivism]] | — | — | The Calibration Problem: AI Fluency a... | 273 |
-| 29 | [[Retrieval-Augmented Generation]] | — | — | How RAG Changes the Stored/Retrieved ... | 296 |
-| 30 | [[Semantic Vector Embeddings]] | — | — | How RAG Changes the Stored/Retrieved ... | 296 |
-| 31 | [[Schema Theory]] | — | — | How RAG Changes the Stored/Retrieved ... | 298 |
+| 29 | [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]] | — | — | How RAG Changes the Stored/Retrieved ... | 296 |
+| 30 | [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Semantic Vector Embeddings]] | — | — | How RAG Changes the Stored/Retrieved ... | 296 |
+| 31 | [[Schema-Theory|Schema Theory]] | — | — | How RAG Changes the Stored/Retrieved ... | 298 |
 | 32 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | How RAG Changes the Stored/Retrieved ... | 298 |
 | 33 | [[Constructivism]] | — | — | How RAG Changes the Stored/Retrieved ... | 301 |
 | 34 | [[Report 03: Constructing Understanding]] | — | — | How RAG Changes the Stored/Retrieved ... | 301 |
-| 35 | [[Zone of Proximal Development]] | — | — | The Vygotsky Opportunity: AI as Dynam... | 305 |
+| 35 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | The Vygotsky Opportunity: AI as Dynam... | 305 |
 | 36 | [[Report 10: Scaffolding and Fading]] | — | — | The Vygotsky Opportunity: AI as Dynam... | 310 |
-| 37 | [[Cognitive Load Theory]] | — | — | The Vygotsky Opportunity: AI as Dynam... | 310 |
-| 38 | [[Adaptive Learning Systems]] | — | — | The Adaptive Personalization Problem | 314 |
-| 39 | [[Confirmation Bias]] | — | — | The Adaptive Personalization Problem | 316 |
+| 37 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Vygotsky Opportunity: AI as Dynam... | 310 |
+| 38 | [[Adaptive-Learning-Systems-—-Educational-Technology|Adaptive Learning Systems]] | — | — | The Adaptive Personalization Problem | 314 |
+| 39 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | The Adaptive Personalization Problem | 316 |
 | 40 | [[Report 18: Calibration and Epistemic Humility]] | — | — | The Adaptive Personalization Problem | 318 |
-| 41 | [[Extended Mind Theory]] | — | — | The Extended Mind as Design Architect... | 325 |
+| 41 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | The Extended Mind as Design Architect... | 325 |
 | 42 | [[Report 03: Constructing Understanding]] | — | — | The Extended Mind as Design Architect... | 330 |
-| 43 | [[Desirable Difficulties]] | — | — | Design Principles for the AI-Integrat... | 352 |
+| 43 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Design Principles for the AI-Integrat... | 352 |
 | 44 | [[Report 29: Ethical PKM]] | — | — | Design Principles for the AI-Integrat... | 354 |
 | 45 | [[Report 07: Critical Thinking as PKM Practice]] | — | — | Design Principles for the AI-Integrat... | 354 |
-| 46 | [[Expertise Reversal Effect]] | — | — | Design Principles for the AI-Integrat... | 356 |
+| 46 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Design Principles for the AI-Integrat... | 356 |
 | 47 | [[Report 04: Metacognitive Self-Regulation]] | — | — | Design Principles for the AI-Integrat... | 356 |
-| 48 | [[Dialectical Knowledge Building]] | — | — | Design Principles for the AI-Integrat... | 360 |
+| 48 | [[Dialectical-Knowledge-Building|Dialectical Knowledge Building]] | — | — | Design Principles for the AI-Integrat... | 360 |
 | 49 | [[Report 21]] | — | — | Design Principles for the AI-Integrat... | 360 |
 | 50 | [[Report 06: The Science of Remembering]] | — | — | Implementation in Obsidian | 372 |
 | 51 | [[Socratic Philosophy]] | — | — | The Cognitive Partnership Model | 406 |
 | 52 | [[Report 14: Inquiry-Based Knowledge Building]] | — | — | The Cognitive Partnership Model | 406 |
-| 53 | [[Extended Mind Theory]] | — | — | The Cognitive Partnership Model | 406 |
-| 54 | [[Zone of Proximal Development]] | — | — | The Cognitive Partnership Model | 406 |
-| 55 | [[Desirable Difficulties]] | — | — | The Cognitive Partnership Model | 406 |
+| 53 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | The Cognitive Partnership Model | 406 |
+| 54 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | The Cognitive Partnership Model | 406 |
+| 55 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Cognitive Partnership Model | 406 |
 | 56 | [[Constructivism]] | — | — | The Cognitive Partnership Model | 406 |
 | 57 | [[Report 03]] | — | — | The Cognitive Partnership Model | 406 |
 | 58 | [[Report 14]] | — | — | The Cognitive Partnership Model | 410 |
@@ -669,35 +669,35 @@ extraction_summary:
 | 63 | [[Report 29: Ethical PKM]] | — | — | The Cognitive Partnership Model | 414 |
 | 64 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Return-and-Deepen: What Report 01 Now... | 426 |
 | 65 | [[Report 17: Note-Making as Knowledge Construction]] | — | — | Return-and-Deepen: What Report 01 Now... | 428 |
-| 66 | [[Schema Theory]] | — | — | Unresolved Questions | 445 |
-| 67 | [[Cognitive Load Theory]] | — | — | Unresolved Questions | 445 |
+| 66 | [[Schema-Theory|Schema Theory]] | — | — | Unresolved Questions | 445 |
+| 67 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Unresolved Questions | 445 |
 | 68 | [[Constructivism]] | — | — | Unresolved Questions | 445 |
 | 69 | [[Metacognitive Self-Regulation]] | — | — | Unresolved Questions | 445 |
-| 70 | [[Desirable Difficulties]] | — | — | Unresolved Questions | 445 |
+| 70 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Unresolved Questions | 445 |
 | 71 | [[Calibration]] | — | — | Unresolved Questions | 445 |
-| 72 | [[Epistemic Virtue]] | — | — | Unresolved Questions | 445 |
-| 73 | [[Extended Mind Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 461 |
-| 74 | [[Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 463 |
-| 75 | [[Zone of Proximal Development]] | — | — | Phase VII: PKB Connections & Cross-Re... | 465 |
+| 72 | [[Epistemic-Virtue|Epistemic Virtue]] | — | — | Unresolved Questions | 445 |
+| 73 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 461 |
+| 74 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 463 |
+| 75 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Phase VII: PKB Connections & Cross-Re... | 465 |
 | 76 | [[Report 10: Scaffolding and Fading]] | — | — | Phase VII: PKB Connections & Cross-Re... | 465 |
-| 77 | [[Epistemic Autonomy]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
+| 77 | [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Epistemic Autonomy]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
 | 78 | [[Report 07: Critical Thinking as PKM Practice]] | — | — | Phase VII: PKB Connections & Cross-Re... | 467 |
-| 79 | [[Fluency Illusion]] | — | — | Phase VII: PKB Connections & Cross-Re... | 469 |
+| 79 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Phase VII: PKB Connections & Cross-Re... | 469 |
 | 80 | [[Report 18: Calibration and Epistemic Humility]] | — | — | Phase VII: PKB Connections & Cross-Re... | 469 |
-| 81 | [[Cognitive Partnership Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 471 |
-| 82 | [[Tacit Knowledge]] | — | — | Phase VII: PKB Connections & Cross-Re... | 473 |
+| 81 | [[Cognitive-Partnership-Model-—-Original-Synthesis|Cognitive Partnership Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 471 |
+| 82 | [[Tacit-Knowledge|Tacit Knowledge]] | — | — | Phase VII: PKB Connections & Cross-Re... | 473 |
 | 83 | [[Report 22: Tacit Knowledge and the Limits of Capture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 473 |
 | 84 | [[Report 27: The Complete PKM/PKB Design Framework]] | — | — | Phase VII: PKB Connections & Cross-Re... | 477 |
 | 85 | [[Report 29: Ethical PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 479 |
 | 86 | [[Report 16: Desirable Difficulties by Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 481 |
-| 87 | [[Transactive Memory Systems]] | — | — | A. Lexicon of Key Terms | 501 |
+| 87 | [[Transactive-Memory-Systems|Transactive Memory Systems]] | — | — | A. Lexicon of Key Terms | 501 |
 | 88 | [[Report 28: Philosophy of Personal Knowledge]] | — | — | A. Lexicon of Key Terms | 507 |
-| 89 | [[Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]] | — | — | D. Expansion Topics | 580 |
-| 90 | [[Prompt Engineering for PKM: Designing Socratic AI Interactions]] | — | — | D. Expansion Topics | 583 |
-| 91 | [[The Semantic Note: Writing for Human and AI Readers Simultaneously]] | — | — | D. Expansion Topics | 586 |
+| 89 | [[Longitudinal-Effects-of-AI-Integrated-PKM-on-Learning-Outcomes|Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]] | — | — | D. Expansion Topics | 580 |
+| 90 | [[Prompt-Engineering-for-PKM-Designing-Socratic-AI-Interactions|Prompt Engineering for PKM: Designing Socratic AI Interactions]] | — | — | D. Expansion Topics | 583 |
+| 91 | [[The-Semantic-Note-Writing-for-Human-and-AI-Readers-Simultaneously|The Semantic Note: Writing for Human and AI Readers Simultaneously]] | — | — | D. Expansion Topics | 586 |
 | 92 | [[Report 17: Note-Making as Knowledge Construction]] | — | — | D. Expansion Topics | 587 |
-| 93 | [[Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]] | — | — | D. Expansion Topics | 589 |
-| 94 | [[AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]] | — | — | D. Expansion Topics | 592 |
+| 93 | [[Quantified-Learning-in-AI-Integrated-PKM-Tracking-Epistemic-Development|Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]] | — | — | D. Expansion Topics | 589 |
+| 94 | [[AI-Ethics-in-Personal-Knowledge-Management-Autonomy,-Dependency,-and-the-Right-t|AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]] | — | — | D. Expansion Topics | 592 |
 | 95 | [[Report 29: Ethical PKM]] | — | — | D. Expansion Topics | 593 |
 | 96 | [[Neuro-AI Interfaces and the Far Future of Cognitive Extension]] | — | — | D. Expansion Topics | 595 |
 
@@ -736,30 +736,30 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]]
-- [[Adaptive Learning Systems]]
-- [[Bayesian Knowledge Tracing]]
+- [[AI-Ethics-in-Personal-Knowledge-Management-Autonomy,-Dependency,-and-the-Right-t|AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]]
+- [[Adaptive-Learning-Systems-—-Educational-Technology|Adaptive Learning Systems]]
+- [[Bayesian-Knowledge-Tracing|Bayesian Knowledge Tracing]]
 - [[Calibration]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Offloading]]
-- [[Cognitive Partnership Model]]
-- [[Confirmation Bias]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Cognitive-Offloading-—-Cognitive-Psychology|Cognitive Offloading]]
+- [[Cognitive-Partnership-Model-—-Original-Synthesis|Cognitive Partnership Model]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Constructivism]]
-- [[Desirable Difficulties]]
-- [[Dialectical Knowledge Building]]
-- [[Epistemic Autonomy]]
-- [[Epistemic Humility]]
-- [[Epistemic Virtue]]
-- [[Expertise Reversal Effect]]
-- [[Extended Mind Theory]]
-- [[Fluency Illusion]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Dialectical-Knowledge-Building|Dialectical Knowledge Building]]
+- [[Epistemic-Autonomy-—-Epistemology-Social-Epistemology|Epistemic Autonomy]]
+- [[Epistemic-Humility|Epistemic Humility]]
+- [[Epistemic-Virtue|Epistemic Virtue]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Extended Mind Theory]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Knowledge Component Models]]
-- [[Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]]
+- [[Longitudinal-Effects-of-AI-Integrated-PKM-on-Learning-Outcomes|Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]]
 - [[Metacognitive Self-Regulation]]
 - [[Neuro-AI Interfaces and the Far Future of Cognitive Extension]]
-- [[Personal Knowledge Management]]
-- [[Prompt Engineering for PKM: Designing Socratic AI Interactions]]
-- [[Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Prompt-Engineering-for-PKM-Designing-Socratic-AI-Interactions|Prompt Engineering for PKM: Designing Socratic AI Interactions]]
+- [[Quantified-Learning-in-AI-Integrated-PKM-Tracking-Epistemic-Development|Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 02: The Architecture of Learning]]
 - [[Report 03]]
@@ -780,15 +780,15 @@ extraction_summary:
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: Philosophy of Personal Knowledge]]
 - [[Report 29: Ethical PKM]]
-- [[Retrieval-Augmented Generation]]
+- [[Retrieval-Augmented-Generation|Retrieval-Augmented Generation]]
 - [[Scaffolding and Fading]]
-- [[Schema Theory]]
-- [[Semantic Vector Embeddings]]
+- [[Schema-Theory|Schema Theory]]
+- [[Semantic-Vector-Embeddings-—-Artificial-Intelligence-Information-Retrieval|Semantic Vector Embeddings]]
 - [[Socratic Philosophy]]
-- [[Tacit Knowledge]]
-- [[The Semantic Note: Writing for Human and AI Readers Simultaneously]]
-- [[Transactive Memory Systems]]
-- [[Zone of Proximal Development]]
+- [[Tacit-Knowledge|Tacit Knowledge]]
+- [[The-Semantic-Note-Writing-for-Human-and-AI-Readers-Simultaneously|The Semantic Note: Writing for Human and AI Readers Simultaneously]]
+- [[Transactive-Memory-Systems|Transactive Memory Systems]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### Frontmatter Relationships
 

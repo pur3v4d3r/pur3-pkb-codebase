@@ -314,7 +314,7 @@ extraction_summary:
 #### 28. [BEST-PRACTICE] Obsidian Implementation: The Tacit Interface Layer *(Line 355)*
 
 > [!best-practice] Obsidian Implementation: The Tacit Interface Layer
-> Create a dedicated section of your PKB vault (folder: `Tacit-Interface/` or tag: `#tacit-interface`) for Tier 2 notes — notes that are explicitly labeled as approximations of tacit knowledge rather than explicit knowledge claims. Use a consistent frontmatter field: `knowledge-type: tacit-approximation` and `confidence: partial`. This prevents future-you from treating an approximation as a reliable rule. These notes should link to a `[[Deliberate Practice Log]]` that records actual performance experience — creating the essential pairing of articulated approximation and embodied practice.
+> Create a dedicated section of your PKB vault (folder: `Tacit-Interface/` or tag: `#tacit-interface`) for Tier 2 notes — notes that are explicitly labeled as approximations of tacit knowledge rather than explicit knowledge claims. Use a consistent frontmatter field: `knowledge-type: tacit-approximation` and `confidence: partial`. This prevents future-you from treating an approximation as a reliable rule. These notes should link to a `[[Deliberate-Practice-Log|Deliberate Practice Log]]` that records actual performance experience — creating the essential pairing of articulated approximation and embodied practice.
 
 #### 29. [WARNING] The Comprehensive Capture Trap *(Line 370)*
 
@@ -351,15 +351,15 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Tacit-Explicit Spectrum]]** — The core conceptual instrument of this report. Any note about a domain of expertise should be tagged according to its position on this spectrum; notes claiming to capture evaluative judgment or procedural expertise without acknowledging their approximation status are epistemically misleading. Building this classification into PKB note types is a high-leverage structural intervention.
+> - **[[Tacit-Explicit-Spectrum|Tacit-Explicit Spectrum]]** — The core conceptual instrument of this report. Any note about a domain of expertise should be tagged according to its position on this spectrum; notes claiming to capture evaluative judgment or procedural expertise without acknowledging their approximation status are epistemically misleading. Building this classification into PKB note types is a high-leverage structural intervention.
 > 
-> - **[[SECI Model]]** — Nonaka's framework clarifies the PKB's natural habitat (Combination) and what must happen before (Externalization) and after (Internalization) for the PKB to contribute to genuine knowledge creation. Every PKB workflow should be mapped against the SECI quadrants to identify where it intervenes and what it leaves unaddressed.
+> - **[[SECI-Model|SECI Model]]** — Nonaka's framework clarifies the PKB's natural habitat (Combination) and what must happen before (Externalization) and after (Internalization) for the PKB to contribute to genuine knowledge creation. Every PKB workflow should be mapped against the SECI quadrants to identify where it intervenes and what it leaves unaddressed.
 > 
-> - **[[Deliberate Practice Log]]** — The essential companion to the Tacit Interface Layer. Where Observatory notes document conditions and evidence, the Deliberate Practice Log records the actual practice activity through which tacit skills are being developed. These two note types together constitute the PKB's contribution to expertise development in tacit-knowledge-rich domains.
+> - **[[Deliberate-Practice-Log|Deliberate Practice Log]]** — The essential companion to the Tacit Interface Layer. Where Observatory notes document conditions and evidence, the Deliberate Practice Log records the actual practice activity through which tacit skills are being developed. These two note types together constitute the PKB's contribution to expertise development in tacit-knowledge-rich domains.
 > 
-> - **[[Portfolio of Evidence]]** — For domains where tacit competence is best documented through its outputs (creative work, professional judgment, craft production), a Portfolio section of the PKB triangulates toward the tacit standard without claiming to capture it directly. Linking portfolio items to Observatory reflections creates a cumulative evidence base.
+> - **[[Portfolio-of-Evidence|Portfolio of Evidence]]** — For domains where tacit competence is best documented through its outputs (creative work, professional judgment, craft production), a Portfolio section of the PKB triangulates toward the tacit standard without claiming to capture it directly. Linking portfolio items to Observatory reflections creates a cumulative evidence base.
 > 
-> - **[[Externalization Exercises]]** — A collection of structured prompts and formats for converting tacit knowledge to explicit form: analogy generation, extreme case comparison, teaching-to-novice drafts, annotated example sets. These are the operational tools of SECI Externalization and should be first-class note templates in a mature PKB.
+> - **[[Externalization-Exercises|Externalization Exercises]]** — A collection of structured prompts and formats for converting tacit knowledge to explicit form: analogy generation, extreme case comparison, teaching-to-novice drafts, annotated example sets. These are the operational tools of SECI Externalization and should be first-class note templates in a mature PKB.
 > 
 > - **[[Reflection-in-Action]]** — The form of knowing that a PKB fundamentally cannot capture. Maintaining a link to this concept in expert-domain notes serves as a persistent reminder that the most important knowing in high-performance domains is happening in real-time, pre-reflectively, and is invisible to any documentation system.
 > 
@@ -511,24 +511,24 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Framework
 
-#### 61. [TOPIC-IDEA] [[Polanyi's Personal Knowledge — The Full Epistemological Framework]] *(Line 550)*
+#### 61. [TOPIC-IDEA] [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]] *(Line 550)*
 
-> [!topic-idea] [[Polanyi's Personal Knowledge — The Full Epistemological Framework]]
+> [!topic-idea] [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]
 > Polanyi's 1958 masterwork *Personal Knowledge* develops a much richer epistemological framework than the tacit/explicit distinction alone: the passion of the inquirer, the fiduciary nature of all knowing, the structure of scientific discovery. A deeper engagement with Polanyi reveals that the tacit dimension is part of a broader critique of the objectivist ideal of impersonal, explicit knowledge — with profound implications for what we are trying to achieve when we build a PKB. Essential for Report 28's philosophy of personal knowledge.
 
-#### 62. [TOPIC-IDEA] [[Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]] *(Line 553)*
+#### 62. [TOPIC-IDEA] [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]] *(Line 553)*
 
-> [!topic-idea] [[Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]
+> [!topic-idea] [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]
 > Ericsson's deliberate practice tradition, combined with the tacit knowledge framework developed here, suggests a specific architecture for PKB-supported expertise development: how to structure practice sessions, what kinds of feedback to document, how to use the PKB to track the progression from explicit rule-following to tacit intuition. This topic operationalizes the Observatory concept in domain-specific ways.
 
-#### 63. [TOPIC-IDEA] [[Communities of Practice and the Social Dimension of Tacit Knowledge]] *(Line 556)*
+#### 63. [TOPIC-IDEA] [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]] *(Line 556)*
 
-> [!topic-idea] [[Communities of Practice and the Social Dimension of Tacit Knowledge]]
+> [!topic-idea] [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]]
 > Lave and Wenger's communities of practice framework, combined with Nonaka's Socialization quadrant, suggests that tacit knowledge development is fundamentally social — it requires co-participation with more skilled practitioners. What are the implications for the solitary PKB user? What practices bridge the solitary PKB and the social transmission of tacit knowledge? This connects to Report 24's heutagogy discussion and the broader question of what learning looks like without institutional scaffolding.
 
-#### 64. [TOPIC-IDEA] [[The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]] *(Line 559)*
+#### 64. [TOPIC-IDEA] [[The-Phenomenology-of-Expertise-—-Merleau-Ponty-and-the-Intelligent-Body|The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]] *(Line 559)*
 
-> [!topic-idea] [[The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]
+> [!topic-idea] [[The-Phenomenology-of-Expertise-—-Merleau-Ponty-and-the-Intelligent-Body|The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]
 > A deeper engagement with Merleau-Ponty's *Phenomenology of Perception* reveals the philosophical foundations of embodied cognition in more detail: the notion of the "body schema," the concept of motor intentionality, and the account of how the skilled body incorporates tools into its intentional structure. For PKB users in domains with significant physical components (craft, sport, surgery, music performance), this philosophical analysis clarifies exactly why text notes will always be insufficient and what the "body's knowledge" actually consists of.
 
 #### 65. [TOPIC-IDEA] [[Tacit Knowledge and AI — What Language Models Cannot Know]] *(Line 562)*
@@ -541,9 +541,9 @@ extraction_summary:
 > [!topic-idea] [[The Expert's Notebook — Historical Case Studies of Tacit-Explicit Interface]]
 > Case studies of how recognized experts in various domains have documented their tacit knowledge: Darwin's notebooks (observational and pattern-building), Cézanne's letters (approximating tacit aesthetic judgment), Feynman's personal notebook (Combination and Externalization combined). These historical cases illuminate what the Tacit Interface Layer and Observatory orientation look like in practice across different domains, providing concrete models for PKB design.
 
-#### 67. [TOPIC-IDEA] [[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] *(Line 568)*
+#### 67. [TOPIC-IDEA] [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] *(Line 568)*
 
-> [!topic-idea] [[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]
+> [!topic-idea] [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]
 > Lave and Wenger's legitimate peripheral participation describes tacit knowledge transmission in traditional craft apprenticeships. What are the modern equivalents available to the self-directed lifelong learner without access to formal apprenticeship relationships? Open source communities, mentorship relationships, pair programming, deliberate imitation with feedback — this topic develops concrete practices that fulfill the social Socialization function that a solitary PKB cannot replicate.
 
 ---
@@ -556,69 +556,69 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]
-- [[Cognitive Science]]
-- [[Communities of Practice and the Social Dimension of Tacit Knowledge]]
-- [[Deliberate Practice Log]]
-- [[Educational Philosophy]]
-- [[Embodied Cognition]]
-- [[Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]
-- [[Expertise Reversal Effect]]
-- [[Externalization Exercises]]
-- [[Knowledge Management]]
-- [[Kolb's Experiential Learning Cycle]]
+- [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]]
+- [[Deliberate-Practice-Log|Deliberate Practice Log]]
+- [[Educational-Philosophy|Educational Philosophy]]
+- [[Embodied-Cognition|Embodied Cognition]]
+- [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
+- [[Externalization-Exercises|Externalization Exercises]]
+- [[Knowledge-Management|Knowledge Management]]
+- [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
 - [[Phenomenology]]
-- [[Philosophy of Mind]]
-- [[Polanyi's Personal Knowledge — The Full Epistemological Framework]]
-- [[Portfolio of Evidence]]
-- [[Procedural Memory]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
+- [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]
+- [[Portfolio-of-Evidence|Portfolio of Evidence]]
+- [[Procedural-Memory|Procedural Memory]]
 - [[Reflection-in-Action]]
 - [[Reflection-on-Action]]
 - [[Report 08: Reflective Practice and Experiential Learning]]
 - [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]
 - [[Report 11: The Transfer Problem — Making PKB Knowledge Usable Across Contexts]]
 - [[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]
-- [[SECI Model]]
+- [[SECI-Model|SECI Model]]
 - [[Schön's Reflective Practitioner]]
 - [[Tacit Knowledge and AI — What Language Models Cannot Know]]
-- [[Tacit-Explicit Spectrum]]
+- [[Tacit-Explicit-Spectrum|Tacit-Explicit Spectrum]]
 - [[The Expert's Notebook — Historical Case Studies of Tacit-Explicit Interface]]
-- [[The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]
+- [[The-Phenomenology-of-Expertise-—-Merleau-Ponty-and-the-Intelligent-Body|The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
-| 2 | [[Philosophy of Mind]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
+| 1 | [[Knowledge-Management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
+| 2 | [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
 | 3 | [[Phenomenology]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
-| 4 | [[Cognitive Science]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
-| 5 | [[Educational Philosophy]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
-| 6 | [[Embodied Cognition]] | — | — | Embodied and Situated Cognition | 192 |
-| 7 | [[Procedural Memory]] | — | — | The Embodied Evidence | 243 |
-| 8 | [[Kolb's Experiential Learning Cycle]] | — | — | Return-and-Deepen: Report 08's Experi... | 311 |
+| 4 | [[Cognitive-Science|Cognitive Science]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
+| 5 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Phase I: Orientation & Synthesis Focus | 131 |
+| 6 | [[Embodied-Cognition|Embodied Cognition]] | — | — | Embodied and Situated Cognition | 192 |
+| 7 | [[Procedural-Memory|Procedural Memory]] | — | — | The Embodied Evidence | 243 |
+| 8 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | Return-and-Deepen: Report 08's Experi... | 311 |
 | 9 | [[Schön's Reflective Practitioner]] | — | — | Return-and-Deepen: Report 08's Experi... | 315 |
 | 10 | [[Reflection-in-Action]] | — | — | Return-and-Deepen: Report 08's Experi... | 315 |
 | 11 | [[Reflection-on-Action]] | — | — | Return-and-Deepen: Report 08's Experi... | 315 |
-| 12 | [[Deliberate Practice Log]] | — | — | Design Principle 1: The Externalizati... | 356 |
-| 13 | [[Expertise Reversal Effect]] | — | — | Return-and-Deepen: Report 10's Scaffo... | 415 |
-| 14 | [[Tacit-Explicit Spectrum]] | — | — | Phase VII: PKB Connections & Cross-Re... | 432 |
-| 15 | [[SECI Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 434 |
-| 16 | [[Deliberate Practice Log]] | — | — | Phase VII: PKB Connections & Cross-Re... | 436 |
-| 17 | [[Portfolio of Evidence]] | — | — | Phase VII: PKB Connections & Cross-Re... | 438 |
-| 18 | [[Externalization Exercises]] | — | — | Phase VII: PKB Connections & Cross-Re... | 440 |
+| 12 | [[Deliberate-Practice-Log|Deliberate Practice Log]] | — | — | Design Principle 1: The Externalizati... | 356 |
+| 13 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Return-and-Deepen: Report 10's Scaffo... | 415 |
+| 14 | [[Tacit-Explicit-Spectrum|Tacit-Explicit Spectrum]] | — | — | Phase VII: PKB Connections & Cross-Re... | 432 |
+| 15 | [[SECI-Model|SECI Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 434 |
+| 16 | [[Deliberate-Practice-Log|Deliberate Practice Log]] | — | — | Phase VII: PKB Connections & Cross-Re... | 436 |
+| 17 | [[Portfolio-of-Evidence|Portfolio of Evidence]] | — | — | Phase VII: PKB Connections & Cross-Re... | 438 |
+| 18 | [[Externalization-Exercises|Externalization Exercises]] | — | — | Phase VII: PKB Connections & Cross-Re... | 440 |
 | 19 | [[Reflection-in-Action]] | — | — | Phase VII: PKB Connections & Cross-Re... | 442 |
 | 20 | [[Report 08: Reflective Practice and Experiential Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
 | 21 | [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]] | — | — | Phase VII: PKB Connections & Cross-Re... | 448 |
 | 22 | [[Report 11: The Transfer Problem — Making PKB Knowledge Usable Across Contexts]] | — | — | Phase VII: PKB Connections & Cross-Re... | 450 |
 | 23 | [[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]] | — | — | Phase VII: PKB Connections & Cross-Re... | 452 |
-| 24 | [[Polanyi's Personal Knowledge — The Full Epistemological Framework]] | — | — | D. Expansion Topics | 550 |
-| 25 | [[Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]] | — | — | D. Expansion Topics | 553 |
-| 26 | [[Communities of Practice and the Social Dimension of Tacit Knowledge]] | — | — | D. Expansion Topics | 556 |
-| 27 | [[The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]] | — | — | D. Expansion Topics | 559 |
+| 24 | [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]] | — | — | D. Expansion Topics | 550 |
+| 25 | [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]] | — | — | D. Expansion Topics | 553 |
+| 26 | [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]] | — | — | D. Expansion Topics | 556 |
+| 27 | [[The-Phenomenology-of-Expertise-—-Merleau-Ponty-and-the-Intelligent-Body|The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]] | — | — | D. Expansion Topics | 559 |
 | 28 | [[Tacit Knowledge and AI — What Language Models Cannot Know]] | — | — | D. Expansion Topics | 562 |
 | 29 | [[The Expert's Notebook — Historical Case Studies of Tacit-Explicit Interface]] | — | — | D. Expansion Topics | 565 |
-| 30 | [[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] | — | — | D. Expansion Topics | 568 |
+| 30 | [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] | — | — | D. Expansion Topics | 568 |
 
 ---
 
@@ -637,34 +637,34 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]
-- [[Cognitive Science]]
-- [[Communities of Practice and the Social Dimension of Tacit Knowledge]]
-- [[Deliberate Practice Log]]
-- [[Educational Philosophy]]
-- [[Embodied Cognition]]
-- [[Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]
-- [[Expertise Reversal Effect]]
-- [[Externalization Exercises]]
-- [[Knowledge Management]]
-- [[Kolb's Experiential Learning Cycle]]
+- [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]
+- [[Cognitive-Science|Cognitive Science]]
+- [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]]
+- [[Deliberate-Practice-Log|Deliberate Practice Log]]
+- [[Educational-Philosophy|Educational Philosophy]]
+- [[Embodied-Cognition|Embodied Cognition]]
+- [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
+- [[Externalization-Exercises|Externalization Exercises]]
+- [[Knowledge-Management|Knowledge Management]]
+- [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
 - [[Phenomenology]]
-- [[Philosophy of Mind]]
-- [[Polanyi's Personal Knowledge — The Full Epistemological Framework]]
-- [[Portfolio of Evidence]]
-- [[Procedural Memory]]
+- [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]]
+- [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]
+- [[Portfolio-of-Evidence|Portfolio of Evidence]]
+- [[Procedural-Memory|Procedural Memory]]
 - [[Reflection-in-Action]]
 - [[Reflection-on-Action]]
 - [[Report 08: Reflective Practice and Experiential Learning]]
 - [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]
 - [[Report 11: The Transfer Problem — Making PKB Knowledge Usable Across Contexts]]
 - [[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]]
-- [[SECI Model]]
+- [[SECI-Model|SECI Model]]
 - [[Schön's Reflective Practitioner]]
 - [[Tacit Knowledge and AI — What Language Models Cannot Know]]
-- [[Tacit-Explicit Spectrum]]
+- [[Tacit-Explicit-Spectrum|Tacit-Explicit Spectrum]]
 - [[The Expert's Notebook — Historical Case Studies of Tacit-Explicit Interface]]
-- [[The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]
+- [[The-Phenomenology-of-Expertise-—-Merleau-Ponty-and-the-Intelligent-Body|The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]
 
 ### Frontmatter Relationships
 

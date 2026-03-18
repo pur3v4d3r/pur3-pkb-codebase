@@ -155,7 +155,7 @@ extraction_summary:
 #### 2. [DEFINITION] Pedagogy (Educational Science — historically traced to classical antiquity, formalized by Comeniusand modern curriculum theory) *(Line 184)*
 
 > [!definition] Pedagogy (Educational Science — historically traced to classical antiquity, formalized by Comeniusand modern curriculum theory)
-> Literally "leading the child" — originally both descriptive and prescriptive of instruction in which an expert (teacher, curriculum, institution) determines what should be learned, how it should be sequenced, and how it should be assessed. In contemporary educational science, pedagogy is not restricted to children but describes any educational arrangement in which the locus of control over learning objectives and pathways resides primarily with a source external to the learner. The learner in a pedagogical arrangement is in what SDT would term [[External Regulation]]: they engage with learning because of external obligation, institutional structure, or incentive. The *implicit theory of knowledge* embedded in pedagogical design is what philosophers call a [[Correspondence Theory]]: there is correct knowledge that exists independently of the learner, and the purpose of education is to transmit it accurately. The PKB designed for pedagogical learning is fundamentally an archive and retrieval system — a structured repository for content defined by external sources.
+> Literally "leading the child" — originally both descriptive and prescriptive of instruction in which an expert (teacher, curriculum, institution) determines what should be learned, how it should be sequenced, and how it should be assessed. In contemporary educational science, pedagogy is not restricted to children but describes any educational arrangement in which the locus of control over learning objectives and pathways resides primarily with a source external to the learner. The learner in a pedagogical arrangement is in what SDT would term [[External-Regulation|External Regulation]]: they engage with learning because of external obligation, institutional structure, or incentive. The *implicit theory of knowledge* embedded in pedagogical design is what philosophers call a [[Correspondence-Theory|Correspondence Theory]]: there is correct knowledge that exists independently of the learner, and the purpose of education is to transmit it accurately. The PKB designed for pedagogical learning is fundamentally an archive and retrieval system — a structured repository for content defined by external sources.
 
 #### 3. [DEFINITION] Andragogy (Educational Science/Adult Education — Malcolm Knowles, 1968, 1980) *(Line 187)*
 
@@ -312,7 +312,7 @@ extraction_summary:
 #### 31. [BEST-PRACTICE] Andragogical PKB: Obsidian Implementation *(Line 368)*
 
 > [!best-practice] Andragogical PKB: Obsidian Implementation
-> The Andragogical transition in Obsidian is marked by: the emergence of project-based organization alongside or replacing subject-based organization; [[MOC]] notes that are self-generated rather than curriculum-derived; a shift from capture templates to synthesis templates (notes that integrate multiple sources around the learner's own question); growing use of [[Dataview]] queries and graph clusters organized around the learner's current intellectual projects; and regular restructuring of the organizational scheme as projects evolve. The key design principle: the PKB should be organized around *what the learner is trying to figure out*, not *what external sources have defined as the field's structure*. This shift is not merely cosmetic — it reflects the andragogical epistemological stance that knowledge is what is useful to one's current inquiry, not what is correctly organized by established taxonomies.
+> The Andragogical transition in Obsidian is marked by: the emergence of project-based organization alongside or replacing subject-based organization; [[Maps-of-Content-—-MOCs|MOC]] notes that are self-generated rather than curriculum-derived; a shift from capture templates to synthesis templates (notes that integrate multiple sources around the learner's own question); growing use of [[Dataview]] queries and graph clusters organized around the learner's current intellectual projects; and regular restructuring of the organizational scheme as projects evolve. The key design principle: the PKB should be organized around *what the learner is trying to figure out*, not *what external sources have defined as the field's structure*. This shift is not merely cosmetic — it reflects the andragogical epistemological stance that knowledge is what is useful to one's current inquiry, not what is correctly organized by established taxonomies.
 
 #### 32. [BEST-PRACTICE] Heutagogical PKB: Obsidian Implementation *(Line 375)*
 
@@ -517,24 +517,24 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Framework
 
-#### 68. [TOPIC-IDEA] [[AI-Augmented Heutagogy: Affordances and Risks]] *(Line 565)*
+#### 68. [TOPIC-IDEA] [[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]] *(Line 565)*
 
-> [!topic-idea] [[AI-Augmented Heutagogy: Affordances and Risks]]
+> [!topic-idea] [[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]
 > The unresolved question from Phase VI: how do AI tools like Claude change the dynamics of self-determined learning? Specifically: when an AI generates connections, surfaces tensions, and proposes questions, does this augment the learner's double-loop cognition or substitute for it? This topic would examine the distinction between AI as a Socratic dialogue partner (supporting self-examination) and AI as a competency proxy (replacing the learner's own inquiry), with direct implications for PKB design. Critical for practitioners who use AI extensively in their knowledge work.
 
-#### 69. [TOPIC-IDEA] [[Transformative Learning Protocols: Designing for Perspective Transformation]] *(Line 568)*
+#### 69. [TOPIC-IDEA] [[Transformative-Learning-Protocols-Designing-for-Perspective-Transformation|Transformative Learning Protocols: Designing for Perspective Transformation]] *(Line 568)*
 
-> [!topic-idea] [[Transformative Learning Protocols: Designing for Perspective Transformation]]
+> [!topic-idea] [[Transformative-Learning-Protocols-Designing-for-Perspective-Transformation|Transformative Learning Protocols: Designing for Perspective Transformation]]
 > Mezirow's research shows that perspective transformation is the deepest form of adult learning but rarely occurs by design — it is typically triggered by disorienting dilemma encounters rather than planned curricula. Could a PKB be designed to deliberately cultivate the conditions for perspective transformation — structured encounters with disorienting material, assumption-challenging dialogue protocols, and strategic cross-domain exposure? This topic would develop such protocols with empirical grounding in the Transformative Learning literature.
 
-#### 70. [TOPIC-IDEA] [[The Collaborative Heutagogical PKB: Solving the Relational Paradox]] *(Line 571)*
+#### 70. [TOPIC-IDEA] [[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]] *(Line 571)*
 
-> [!topic-idea] [[The Collaborative Heutagogical PKB: Solving the Relational Paradox]]
+> [!topic-idea] [[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]]
 > Blaschke's finding that heutagogical learners consistently seek collaborative dialogue creates an unresolved design challenge for *personal* knowledge bases. This topic would explore structural solutions: how to incorporate dialogical input, how to record and integrate intellectual challenges from external sources, how to create "conceptual apertures" in a personal PKB for community participation — and what the evidence says about the relationship between collaborative encounter and the development of genuine self-determination.
 
-#### 71. [TOPIC-IDEA] [[Capability Documentation: A Theory and Practice of Capability Notes]] *(Line 574)*
+#### 71. [TOPIC-IDEA] [[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]] *(Line 574)*
 
-> [!topic-idea] [[Capability Documentation: A Theory and Practice of Capability Notes]]
+> [!topic-idea] [[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]]
 > The capability note type introduced in Phase V requires further development as a practice. What exactly should capability notes document? How are they different from case study notes or reflection notes? How should they be organized to support recognition of developing capability patterns over time? This topic would develop a theory of capability documentation drawing on portfolio assessment research, experiential learning documentation practice, and Hase's capability framework.
 
 #### 72. [TOPIC-IDEA] [[The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM]] *(Line 577)*
@@ -562,27 +562,27 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[AI-Augmented Heutagogy: Affordances and Risks]]
+- [[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]
 - [[Andragogy]]
-- [[Autonomy Need]]
+- [[Autonomy-Need|Autonomy Need]]
 - [[Canvas]]
 - [[Capability]]
-- [[Capability Development]]
-- [[Capability Documentation: A Theory and Practice of Capability Notes]]
-- [[Competence Need]]
+- [[Capability-Development|Capability Development]]
+- [[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]]
+- [[Competence-Need|Competence Need]]
 - [[Competency]]
-- [[Competency Development]]
+- [[Competency-Development|Competency Development]]
 - [[Constructivist-Emergentist]]
-- [[Correspondence Theory]]
+- [[Correspondence-Theory|Correspondence Theory]]
 - [[Dataview]]
-- [[Double-Loop Learning]]
-- [[External Regulation]]
+- [[Double-Loop-Learning|Double-Loop Learning]]
+- [[External-Regulation|External Regulation]]
 - [[Heutagogy]]
-- [[Internalization Continuum]]
+- [[Internalization-Continuum|Internalization Continuum]]
 - [[Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems]]
-- [[Knowledge Ecology]]
+- [[Knowledge-Ecology|Knowledge Ecology]]
 - [[Knowledge Ecology Model]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Malcolm Knowles]]
 - [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]
 - [[Organismic Integration Theory]]
@@ -601,12 +601,12 @@ extraction_summary:
 - [[Report 19: Sustaining Lifelong Learning]]
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Socratic Self-Examination]]
-- [[The Collaborative Heutagogical PKB: Solving the Relational Paradox]]
+- [[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]]
 - [[The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM]]
-- [[Transformative Learning Protocols: Designing for Perspective Transformation]]
+- [[Transformative-Learning-Protocols-Designing-for-Perspective-Transformation|Transformative Learning Protocols: Designing for Perspective Transformation]]
 - [[Transformative Learning Theory]]
 
 ### All Occurrences
@@ -618,48 +618,48 @@ extraction_summary:
 | 3 | [[Andragogy]] | — | — | The Synthesis Question | 158 |
 | 4 | [[Heutagogy]] | — | — | The Synthesis Question | 158 |
 | 5 | [[Report 10: Scaffolding and Fading]] | — | — | The Synthesis Question | 162 |
-| 6 | [[Double-Loop Learning]] | — | — | Scope and Cross-Domain Preview | 166 |
+| 6 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Scope and Cross-Domain Preview | 166 |
 | 7 | [[Knowledge Ecology Model]] | — | — | Scope and Cross-Domain Preview | 166 |
 | 8 | [[Report 10]] | — | — | Scope and Cross-Domain Preview | 168 |
 | 9 | [[Report 05]] | — | — | Scope and Cross-Domain Preview | 168 |
 | 10 | [[Report 19]] | — | — | Scope and Cross-Domain Preview | 168 |
 | 11 | [[Report 28: The Philosophy of Personal Knowledge]] | — | — | Scope and Cross-Domain Preview | 168 |
 | 12 | [[Heutagogy]] | — | — | Scope and Cross-Domain Preview | 170 |
-| 13 | [[Self-Determination Theory]] | — | — | Scope and Cross-Domain Preview | 170 |
-| 14 | [[Double-Loop Learning]] | — | — | Scope and Cross-Domain Preview | 170 |
+| 13 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Scope and Cross-Domain Preview | 170 |
+| 14 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Scope and Cross-Domain Preview | 170 |
 | 15 | [[Transformative Learning Theory]] | — | — | Scope and Cross-Domain Preview | 170 |
 | 16 | [[Socratic Self-Examination]] | — | — | Scope and Cross-Domain Preview | 170 |
 | 17 | [[Pedagogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
 | 18 | [[Andragogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
 | 19 | [[Heutagogy]] | — | — | The PAH Continuum: Beyond the Common ... | 182 |
-| 20 | [[External Regulation]] | — | — | The PAH Continuum: Beyond the Common ... | 185 |
-| 21 | [[Correspondence Theory]] | — | — | The PAH Continuum: Beyond the Common ... | 185 |
+| 20 | [[External-Regulation|External Regulation]] | — | — | The PAH Continuum: Beyond the Common ... | 185 |
+| 21 | [[Correspondence-Theory|Correspondence Theory]] | — | — | The PAH Continuum: Beyond the Common ... | 185 |
 | 22 | [[Pragmatist]] | — | — | The PAH Continuum: Beyond the Common ... | 188 |
 | 23 | [[Capability]] | — | — | The PAH Continuum: Beyond the Common ... | 191 |
 | 24 | [[Competency]] | — | — | The PAH Continuum: Beyond the Common ... | 191 |
 | 25 | [[Constructivist-Emergentist]] | — | — | The PAH Continuum: Beyond the Common ... | 191 |
-| 26 | [[Self-Determination Theory]] | — | — | Self-Determination Theory's Regulator... | 198 |
+| 26 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Self-Determination Theory's Regulator... | 198 |
 | 27 | [[Organismic Integration Theory]] | — | — | Self-Determination Theory's Regulator... | 198 |
-| 28 | [[Capability Development]] | — | — | Capability vs. Competency: The Critic... | 208 |
-| 29 | [[Competency Development]] | — | — | Capability vs. Competency: The Critic... | 208 |
-| 30 | [[Double-Loop Learning]] | — | — | Double-Loop Learning: The Mechanism o... | 218 |
+| 28 | [[Capability-Development|Capability Development]] | — | — | Capability vs. Competency: The Critic... | 208 |
+| 29 | [[Competency-Development|Competency Development]] | — | — | Capability vs. Competency: The Critic... | 208 |
+| 30 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Double-Loop Learning: The Mechanism o... | 218 |
 | 31 | [[Malcolm Knowles]] | — | — | The Heutagogy Research Base | 255 |
 | 32 | [[Report 10]] | — | — | The Heutagogy Research Base | 255 |
 | 33 | [[Transformative Learning Theory]] | — | — | The Heutagogy Research Base | 271 |
-| 34 | [[Internalization Continuum]] | — | — | Mechanism 1: The Internalization Engine | 293 |
+| 34 | [[Internalization-Continuum|Internalization Continuum]] | — | — | Mechanism 1: The Internalization Engine | 293 |
 | 35 | [[Organismic Integration Theory]] | — | — | Mechanism 1: The Internalization Engine | 293 |
-| 36 | [[Autonomy Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
-| 37 | [[Competence Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
+| 36 | [[Autonomy-Need|Autonomy Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
+| 37 | [[Competence-Need|Competence Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
 | 38 | [[Relatedness Need]] | — | — | Mechanism 1: The Internalization Engine | 293 |
-| 39 | [[Schema Theory]] | — | — | Mechanism 2: The Schema-to-Capability... | 304 |
+| 39 | [[Schema-Theory|Schema Theory]] | — | — | Mechanism 2: The Schema-to-Capability... | 304 |
 | 40 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Mechanism 2: The Schema-to-Capability... | 304 |
 | 41 | [[Socratic Self-Examination]] | — | — | Mechanism 4: The Socratic Prerequisite | 324 |
-| 42 | [[Knowledge Ecology]] | — | — | Mechanism 5: The Knowledge Ecology Em... | 331 |
+| 42 | [[Knowledge-Ecology|Knowledge Ecology]] | — | — | Mechanism 5: The Knowledge Ecology Em... | 331 |
 | 43 | [[Canvas]] | — | — | Mechanism 5: The Knowledge Ecology Em... | 339 |
-| 44 | [[MOC]] | — | — | Three PKB Design Stages | 369 |
+| 44 | [[Maps-of-Content-—-MOCs|MOC]] | — | — | Three PKB Design Stages | 369 |
 | 45 | [[Dataview]] | — | — | Three PKB Design Stages | 369 |
-| 46 | [[Self-Determination Theory]] | — | — | Return and Deepen: Two Concepts Revis... | 416 |
-| 47 | [[Double-Loop Learning]] | — | — | Return and Deepen: Two Concepts Revis... | 418 |
+| 46 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Return and Deepen: Two Concepts Revis... | 416 |
+| 47 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Return and Deepen: Two Concepts Revis... | 418 |
 | 48 | [[Report 27: The Complete PKM/PKB Design Framework]] | — | — | Unresolved Questions | 432 |
 | 49 | [[Report 04: Metacognitive Self-Regulation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 441 |
 | 50 | [[Report 05: Motivation Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 443 |
@@ -670,10 +670,10 @@ extraction_summary:
 | 55 | [[Report 27: The Complete PKM/PKB Design Framework]] | — | — | Phase VII: PKB Connections & Cross-Re... | 455 |
 | 56 | [[Report 28: The Philosophy of Personal Knowledge]] | — | — | Phase VII: PKB Connections & Cross-Re... | 457 |
 | 57 | [[Report 10: Scaffolding and Fading]] | — | — | B. References | 550 |
-| 58 | [[AI-Augmented Heutagogy: Affordances and Risks]] | — | — | D. Expansion Topics | 565 |
-| 59 | [[Transformative Learning Protocols: Designing for Perspective Transformation]] | — | — | D. Expansion Topics | 568 |
-| 60 | [[The Collaborative Heutagogical PKB: Solving the Relational Paradox]] | — | — | D. Expansion Topics | 571 |
-| 61 | [[Capability Documentation: A Theory and Practice of Capability Notes]] | — | — | D. Expansion Topics | 574 |
+| 58 | [[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]] | — | — | D. Expansion Topics | 565 |
+| 59 | [[Transformative-Learning-Protocols-Designing-for-Perspective-Transformation|Transformative Learning Protocols: Designing for Perspective Transformation]] | — | — | D. Expansion Topics | 568 |
+| 60 | [[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]] | — | — | D. Expansion Topics | 571 |
+| 61 | [[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]] | — | — | D. Expansion Topics | 574 |
 | 62 | [[The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM]] | — | — | D. Expansion Topics | 577 |
 | 63 | [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]] | — | — | D. Expansion Topics | 580 |
 | 64 | [[Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems]] | — | — | D. Expansion Topics | 583 |
@@ -687,27 +687,27 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[AI-Augmented Heutagogy: Affordances and Risks]]
+- [[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]
 - [[Andragogy]]
-- [[Autonomy Need]]
+- [[Autonomy-Need|Autonomy Need]]
 - [[Canvas]]
 - [[Capability]]
-- [[Capability Development]]
-- [[Capability Documentation: A Theory and Practice of Capability Notes]]
-- [[Competence Need]]
+- [[Capability-Development|Capability Development]]
+- [[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]]
+- [[Competence-Need|Competence Need]]
 - [[Competency]]
-- [[Competency Development]]
+- [[Competency-Development|Competency Development]]
 - [[Constructivist-Emergentist]]
-- [[Correspondence Theory]]
+- [[Correspondence-Theory|Correspondence Theory]]
 - [[Dataview]]
-- [[Double-Loop Learning]]
-- [[External Regulation]]
+- [[Double-Loop-Learning|Double-Loop Learning]]
+- [[External-Regulation|External Regulation]]
 - [[Heutagogy]]
-- [[Internalization Continuum]]
+- [[Internalization-Continuum|Internalization Continuum]]
 - [[Knowledge Ecologies in Practice: Case Studies of Mature PKB Systems]]
-- [[Knowledge Ecology]]
+- [[Knowledge-Ecology|Knowledge Ecology]]
 - [[Knowledge Ecology Model]]
-- [[MOC]]
+- [[Maps-of-Content-—-MOCs|MOC]]
 - [[Malcolm Knowles]]
 - [[Measuring Progress in Heutagogical Development: Assessment Without Competency Standards]]
 - [[Organismic Integration Theory]]
@@ -726,12 +726,12 @@ extraction_summary:
 - [[Report 19: Sustaining Lifelong Learning]]
 - [[Report 27: The Complete PKM/PKB Design Framework]]
 - [[Report 28: The Philosophy of Personal Knowledge]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Socratic Self-Examination]]
-- [[The Collaborative Heutagogical PKB: Solving the Relational Paradox]]
+- [[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]]
 - [[The Philosophy of the Examined PKB: Integrating Socratic Practice and PKM]]
-- [[Transformative Learning Protocols: Designing for Perspective Transformation]]
+- [[Transformative-Learning-Protocols-Designing-for-Perspective-Transformation|Transformative Learning Protocols: Designing for Perspective Transformation]]
 - [[Transformative Learning Theory]]
 
 ### Frontmatter Relationships

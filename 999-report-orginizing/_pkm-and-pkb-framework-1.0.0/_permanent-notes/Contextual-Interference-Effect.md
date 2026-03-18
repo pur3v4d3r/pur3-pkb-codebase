@@ -69,13 +69,13 @@ narrower:
 
 see-also:
   - "[[Anki]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Constructivism]]"
-  - "[[Constructivist Struggle]]"
-  - "[[Contextual Interference]]"
+  - "[[Constructivist-Struggle|Constructivist Struggle]]"
+  - "[[Contextual-Interference|Contextual Interference]]"
   - "[[Dataview]]"
-  - "[[Dataview Plugin]]"
-  - "[[Desirable Difficulties]]"
+  - "[[Dataview-Plugin|Dataview Plugin]]"
+  - "[[Desirable-Difficulties|Desirable Difficulties]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -139,15 +139,15 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Spacing Effect]]
-- [[Generation Effect]]
-- [[Contextual Interference Effect]]
-- [[Testing Effect]]
-- [[Productive Failure]]
+- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
+- [[Generation-Effect|Generation Effect]]
+- [[Contextual-Interference-Effect|Contextual Interference Effect]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[Productive-Failure|Productive Failure]]
 
 **Cross-report connections:**
-- [[Productive Failure]]
-- [[Contextual Interference Effect]]
+- [[Productive-Failure|Productive Failure]]
+- [[Contextual-Interference-Effect|Contextual Interference Effect]]
 
 **Related concepts:**
-[[Anki]] · [[Cognitive Load Theory]] · [[Constructivism]] · [[Constructivist Struggle]] · [[Contextual Interference]] · [[Dataview]] · [[Dataview Plugin]] · [[Desirable Difficulties]] · [[Difficulty Calibration Algorithms for Self-Regulated PKM]] · [[Error Correction Protocols in PKB Design]] · [[Expertise Reversal Effect]] · [[Fluency Illusion]] · [[Generation Effect]] · [[Interleaving]]
+[[Anki]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Constructivism]] · [[Constructivist-Struggle|Constructivist Struggle]] · [[Contextual-Interference|Contextual Interference]] · [[Dataview]] · [[Dataview-Plugin|Dataview Plugin]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Difficulty-Calibration-Algorithms-for-Self-Regulated-PKM|Difficulty Calibration Algorithms for Self-Regulated PKM]] · [[Error-Correction-Protocols-in-PKB-Design|Error Correction Protocols in PKB Design]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] · [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] · [[Generation-Effect|Generation Effect]] · [[Interleaving]]

@@ -59,16 +59,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Virtue Epistemology]]"
-  - "[[Intellectual Virtues]]"
-  - "[[Intellectual Humility]]"
-  - "[[Intellectual Courage]]"
-  - "[[Intellectual Honesty]]"
+  - "[[Virtue-Epistemology|Virtue Epistemology]]"
+  - "[[Intellectual-Virtues|Intellectual Virtues]]"
+  - "[[Intellectual-Humility|Intellectual Humility]]"
+  - "[[Intellectual-Courage|Intellectual Courage]]"
+  - "[[Intellectual-Honesty|Intellectual Honesty]]"
   - "[[Open-Mindedness]]"
-  - "[[Epistemic Conscientiousness]]"
-  - "[[Stoic Ethics]]"
-  - "[[Kataleptic Impression]]"
-  - "[[Stoic Assent]]"
+  - "[[Epistemic-Conscientiousness|Epistemic Conscientiousness]]"
+  - "[[Stoic-Ethics|Stoic Ethics]]"
+  - "[[Kataleptic-Impression|Kataleptic Impression]]"
+  - "[[Stoic-Assent|Stoic Assent]]"
 
 broader:
   - "[[]]"
@@ -77,14 +77,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Critical Thinking Ethics]]"
-  - "[[Dual-Process Theory]]"
-  - "[[Epistemic Autonomy and the Ethics of AI-Assisted PKM]]"
-  - "[[Epistemic Vigilance]]"
-  - "[[Hindsight Bias]]"
-  - "[[Historical Epistemology — How Past Knowledge Shapes Present Knowing]]"
-  - "[[Illusion of Knowing]]"
-  - "[[Metacognitive Monitoring]]"
+  - "[[Critical-Thinking-Ethics|Critical Thinking Ethics]]"
+  - "[[Dual-Process-Theory|Dual-Process Theory]]"
+  - "[[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]]"
+  - "[[Epistemic-Vigilance|Epistemic Vigilance]]"
+  - "[[Hindsight-Bias|Hindsight Bias]]"
+  - "[[Historical-Epistemology-—-How-Past-Knowledge-Shapes-Present-Knowing|Historical Epistemology — How Past Knowledge Shapes Present Knowing]]"
+  - "[[Illusion-of-Knowing|Illusion of Knowing]]"
+  - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -148,8 +148,8 @@ importance: high
 - [[Report 19: Sustaining Lifelong Learning]]
 
 **Cross-report connections:**
-- [[Confirmation Bias]]
-- [[Motivated Reasoning]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
 
 **Related concepts:**
-[[Confirmation Bias]] · [[Critical Thinking Ethics]] · [[Dual-Process Theory]] · [[Epistemic Autonomy and the Ethics of AI-Assisted PKM]] · [[Epistemic Cowardice]] · [[Epistemic Justice]] · [[Epistemic Status]] · [[Epistemic Vigilance]] · [[Hindsight Bias]] · [[Historical Epistemology — How Past Knowledge Shapes Present Knowing]] · [[Illusion of Knowing]] · [[Metacognitive Monitoring]] · [[Motivated Reasoning]] · [[Myside Bias]] · [[Psychology of Self-Deception]]
+[[Confirmation-Bias-Myside-Bias|Confirmation Bias]] · [[Critical-Thinking-Ethics|Critical Thinking Ethics]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]] · [[Epistemic-Cowardice|Epistemic Cowardice]] · [[Epistemic-Justice|Epistemic Justice]] · [[Epistemic-Status|Epistemic Status]] · [[Epistemic-Vigilance|Epistemic Vigilance]] · [[Hindsight-Bias|Hindsight Bias]] · [[Historical-Epistemology-—-How-Past-Knowledge-Shapes-Present-Knowing|Historical Epistemology — How Past Knowledge Shapes Present Knowing]] · [[Illusion-of-Knowing|Illusion of Knowing]] · [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Motivated-Reasoning|Motivated Reasoning]] · [[Confirmation-Bias-Myside-Bias|Myside Bias]] · [[Psychology-of-Self-Deception|Psychology of Self-Deception]]

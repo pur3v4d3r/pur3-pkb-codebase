@@ -59,15 +59,15 @@ prerequisites:
 
 related:
   - "[[Taxonomy]]"
-  - "[[Ontology (Knowledge)]]"
+  - "[[Ontology-Knowledge|Ontology (Knowledge)]]"
   - "[[Folksonomy]]"
-  - "[[Faceted Classification]]"
-  - "[[Controlled Vocabulary]]"
-  - "[[Prototype Theory]]"
-  - "[[Basic-Level Categories]]"
-  - "[[SECI Model]]"
-  - "[[Knowledge Externalization]]"
-  - "[[Semantic Networks]]"
+  - "[[Faceted-Classification|Faceted Classification]]"
+  - "[[Controlled-Vocabulary|Controlled Vocabulary]]"
+  - "[[Prototype-Theory|Prototype Theory]]"
+  - "[[Basic-Level-Categories|Basic-Level Categories]]"
+  - "[[SECI-Model|SECI Model]]"
+  - "[[Knowledge-Externalization|Knowledge Externalization]]"
+  - "[[Semantic-Networks|Semantic Networks]]"
 
 broader:
   - "[[]]"
@@ -78,11 +78,11 @@ narrower:
 see-also:
   - "[[2024]]"
   - "[[Accommodation]]"
-  - "[[Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]"
-  - "[[Cognitive Alignment Principle]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Confirmation Bias]]"
+  - "[[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]"
+  - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
   - "[[Constructivism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -148,4 +148,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[2024]] · [[Accommodation]] · [[Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]] · [[Cognitive Alignment Principle]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Confirmation Bias]] · [[Constructivism]] · [[Desirable Difficulties]] · [[Educational Philosophy]] · [[Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]] · [[Encoding Specificity]] · [[Expert Knowledge Organization]] · [[Faceted Classification]] · [[Information Science]]
+[[2024]] · [[Accommodation]] · [[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] · [[Constructivism]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Educational-Philosophy|Educational Philosophy]] · [[Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture|Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]] · [[Encoding-Specificity|Encoding Specificity]] · [[Expert-Knowledge-Organization|Expert Knowledge Organization]] · [[Faceted-Classification|Faceted Classification]] · [[Information-Science|Information Science]]

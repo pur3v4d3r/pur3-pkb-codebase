@@ -59,15 +59,15 @@ prerequisites:
 
 related:
   - "[[Calibration]]"
-  - "[[Overconfidence Effect]]"
-  - "[[Hard-Easy Effect]]"
-  - "[[Dunning-Kruger Effect]]"
-  - "[[Double Ignorance]]"
-  - "[[Illusory Superiority]]"
-  - "[[Socratic Ignorance]]"
-  - "[[Elenchus]]"
+  - "[[Overconfidence-Effect|Overconfidence Effect]]"
+  - "[[Hard-Easy-Effect|Hard-Easy Effect]]"
+  - "[[Dunning-Kruger-Effect|Dunning-Kruger Effect]]"
+  - "[[Double-Ignorance|Double Ignorance]]"
+  - "[[Illusory-Superiority|Illusory Superiority]]"
+  - "[[Socratic-Ignorance-Knowing-One's-Ignorance|Socratic Ignorance]]"
+  - "[[Socratic-Method-Elenchus|Elenchus]]"
   - "[[Aporia]]"
-  - "[[Epistemic Humility]]"
+  - "[[Epistemic-Humility|Epistemic Humility]]"
 
 broader:
   - "[[]]"
@@ -76,14 +76,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]"
-  - "[[Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]"
-  - "[[Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Confirmation Bias]]"
-  - "[[Critical Thinking Ethics]]"
-  - "[[Dual-Process Theory]]"
-  - "[[Epistemic Autonomy and the Ethics of AI-Assisted PKM]]"
+  - "[[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]"
+  - "[[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]"
+  - "[[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
+  - "[[Critical-Thinking-Ethics|Critical Thinking Ethics]]"
+  - "[[Dual-Process-Theory|Dual-Process Theory]]"
+  - "[[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -152,4 +152,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] · [[Calibration]] · [[Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] · [[Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] · [[Cognitive Psychology]] · [[Confirmation Bias]] · [[Critical Thinking Ethics]] · [[Dual-Process Theory]] · [[Dunning-Kruger Effect]] · [[Elenchus]] · [[Epistemic Autonomy and the Ethics of AI-Assisted PKM]] · [[Epistemic Cowardice]] · [[Epistemic Justice]] · [[Epistemic Status]]
+[[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] · [[Calibration]] · [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] · [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] · [[Critical-Thinking-Ethics|Critical Thinking Ethics]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] · [[Socratic-Method-Elenchus|Elenchus]] · [[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]] · [[Epistemic-Cowardice|Epistemic Cowardice]] · [[Epistemic-Justice|Epistemic Justice]] · [[Epistemic-Status|Epistemic Status]]

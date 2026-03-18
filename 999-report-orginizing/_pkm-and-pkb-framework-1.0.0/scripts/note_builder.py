@@ -53,6 +53,18 @@ def get_output_filename(candidate: NoteCandidate) -> str:
     return f'{safe_name}.md'
 
 
+def _pipe_link(display_name: str) -> str:
+    """Build pipe-syntax wiki-link: [[Filename-Stem|Display Name]].
+
+    If the display name already matches the filename stem (single words),
+    returns a plain link without the pipe.
+    """
+    stem = sanitize_filename(display_name)
+    if stem == display_name:
+        return f'[[{display_name}]]'
+    return f'[[{stem}|{display_name}]]'
+
+
 # ══════════════════════════════════════════════════════════════════════════════
 # FRONTMATTER BUILDER
 # ══════════════════════════════════════════════════════════════════════════════
@@ -101,13 +113,13 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
     related_links = []
     if meta and meta.related_concepts:
         for concept in meta.related_concepts[:MAX_RELATED_LINKS]:
-            related_links.append(f'  - "[[{concept}]]"')
+            related_links.append(f'  - "{_pipe_link(concept)}"')
 
     related_set = set(meta.related_concepts) if meta else set()
     see_also = []
     for wl in candidate.wiki_links[:MAX_SEE_ALSO_LINKS + MAX_RELATED_LINKS]:
         if wl not in related_set and wl != clean_name:
-            see_also.append(f'  - "[[{wl}]]"')
+            see_also.append(f'  - "{_pipe_link(wl)}"')
         if len(see_also) >= MAX_SEE_ALSO_LINKS:
             break
 
@@ -115,20 +127,20 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
     if meta and meta.builds_on:
         for b in meta.builds_on[:5]:
             safe_b = b.replace('"', "'")
-            builds_on.append(f'  - "[[{safe_b}]]"')
+            builds_on.append(f'  - "{_pipe_link(safe_b)}"')
 
     enables = []
     if meta and meta.feeds_into:
         for f_item in meta.feeds_into[:5]:
             safe_f = f_item.replace('"', "'")
-            enables.append(f'  - "[[{safe_f}]]"')
+            enables.append(f'  - "{_pipe_link(safe_f)}"')
 
     # ── Expansion topics ──────────────────────────────────────────────────
     expansion_yaml = []
     if candidate.expansion_topics:
         for topic in candidate.expansion_topics[:4]:
             safe_topic = topic["topic"].replace('"', "'")
-            expansion_yaml.append(f'  - topic: "[[{safe_topic}]]"')
+            expansion_yaml.append(f'  - topic: "{_pipe_link(safe_topic)}"')
             desc = topic.get("description", "").replace('"', "'")[:100]
             expansion_yaml.append(f'    description: "{desc}"')
             expansion_yaml.append(f'    priority: medium')
@@ -361,7 +373,7 @@ def build_body(candidate: NoteCandidate) -> str:
             if conn_links:
                 lines.append('**Cross-report connections:**')
                 for cl in conn_links[:10]:
-                    lines.append(f'- [[{cl}]]')
+                    lines.append(f'- {_pipe_link(cl)}')
                 lines.append('')
 
     # Wiki-link cloud for quick navigation
@@ -371,7 +383,7 @@ def build_body(candidate: NoteCandidate) -> str:
             wl for wl in candidate.wiki_links[:MAX_WIKI_LINKS_DISPLAY]
             if wl != _clean_concept_name(candidate.concept_name)
         ]
-        link_text = ' · '.join(f'[[{wl}]]' for wl in relevant_links)
+        link_text = ' \u00b7 '.join(_pipe_link(wl) for wl in relevant_links)
         lines.append(link_text)
         lines.append('')
 

@@ -58,14 +58,14 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Tacit Knowledge]]"
-  - "[[Explicit Knowledge]]"
-  - "[[Tacit-Explicit Spectrum]]"
-  - "[[Focal Attention]]"
-  - "[[Subsidiary Awareness]]"
-  - "[[Polanyi's Tacit Dimension]]"
-  - "[[SECI Model]]"
-  - "[[Nonaka Knowledge Spiral]]"
+  - "[[Tacit-Knowledge|Tacit Knowledge]]"
+  - "[[Explicit-Knowledge|Explicit Knowledge]]"
+  - "[[Tacit-Explicit-Spectrum|Tacit-Explicit Spectrum]]"
+  - "[[Focal-Attention|Focal Attention]]"
+  - "[[Subsidiary-Awareness|Subsidiary Awareness]]"
+  - "[[Polanyi's-Tacit-Dimension|Polanyi's Tacit Dimension]]"
+  - "[[SECI-Model|SECI Model]]"
+  - "[[Nonaka-Knowledge-Spiral|Nonaka Knowledge Spiral]]"
   - "[[Socialization]]"
   - "[[Externalization]]"
 
@@ -77,13 +77,13 @@ narrower:
 
 see-also:
   - "[[2024]]"
-  - "[[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
-  - "[[Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]"
-  - "[[Cognitive Alignment Principle]]"
-  - "[[Cognitive Architecture Isomorphism Principle]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Cognitive Science]]"
+  - "[[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
+  - "[[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]"
+  - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
+  - "[[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -103,16 +103,16 @@ enables:
   - "[[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]]"
 
 expansion-topics:
-  - topic: "[[Polanyi's Personal Knowledge — The Full Epistemological Framework]]"
+  - topic: "[[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]"
     description: "Polanyi's 1958 masterwork *Personal Knowledge* develops a much richer epistemological framework than"
     priority: medium
-  - topic: "[[Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]"
+  - topic: "[[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]"
     description: "Ericsson's deliberate practice tradition, combined with the tacit knowledge framework developed here"
     priority: medium
-  - topic: "[[Communities of Practice and the Social Dimension of Tacit Knowledge]]"
+  - topic: "[[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]]"
     description: "Lave and Wenger's communities of practice framework, combined with Nonaka's Socialization quadrant, "
     priority: medium
-  - topic: "[[The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]"
+  - topic: "[[The-Phenomenology-of-Expertise-—-Merleau-Ponty-and-the-Intelligent-Body|The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]"
     description: "A deeper engagement with Merleau-Ponty's *Phenomenology of Perception* reveals the philosophical fou"
     priority: medium
 
@@ -168,4 +168,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[2024]] · [[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]] · [[Cognitive Alignment Principle]] · [[Cognitive Architecture Isomorphism Principle]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Cognitive Science]] · [[Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Contemplative Practices and Reflective Processing — Mindfulness and PKM]] · [[David Kolb]] · [[Deliberate Practice Log]] · [[Desirable Difficulties]] · [[Educational Philosophy]] · [[Educational Psychology]]
+[[2024]] · [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Cognitive-Science|Cognitive Science]] · [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Contemplative-Practices-and-Reflective-Processing-—-Mindfulness-and-PKM|Contemplative Practices and Reflective Processing — Mindfulness and PKM]] · [[David-Kolb|David Kolb]] · [[Deliberate-Practice-Log|Deliberate Practice Log]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]]

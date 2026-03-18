@@ -296,7 +296,7 @@ extraction_summary:
 #### 28. [ANALYTICAL-INSIGHT] Vocabulary Mismatch as a Learning Metric *(Line 283)*
 
 > [!analytical-insight] Vocabulary Mismatch as a Learning Metric
-> This reframing transforms the vocabulary mismatch problem from a design flaw to a learning signal. When you cannot find a note you know you have, it is not necessarily because your organizational system is broken — it may be evidence that your understanding has grown beyond the categories you used to capture that knowledge. The note is "lost" not in your vault but in the gap between your old schema and your new one. This suggests a valuable practice: when a retrieval failure occurs, don't just fix the tag — treat it as a metacognitive event. Ask: what has changed in my understanding that makes the old tag no longer the natural query? The answer locates exactly where conceptual growth has occurred. This is an instance of the [[Reflective Practice]] loops established in [[Report 08: Reflective Practice and Experiential Learning]] operating at the organizational level.
+> This reframing transforms the vocabulary mismatch problem from a design flaw to a learning signal. When you cannot find a note you know you have, it is not necessarily because your organizational system is broken — it may be evidence that your understanding has grown beyond the categories you used to capture that knowledge. The note is "lost" not in your vault but in the gap between your old schema and your new one. This suggests a valuable practice: when a retrieval failure occurs, don't just fix the tag — treat it as a metacognitive event. Ask: what has changed in my understanding that makes the old tag no longer the natural query? The answer locates exactly where conceptual growth has occurred. This is an instance of the [[Reflective-Practice|Reflective Practice]] loops established in [[Report 08: Reflective Practice and Experiential Learning]] operating at the organizational level.
 
 #### 29. [TENSION-IDENTIFIED] The Stability-Flexibility Paradox of Organizational Systems *(Line 295)*
 
@@ -378,17 +378,17 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Schema Theory]]** — Every Knowledge Organization System is an externalized schema. The structural choices you make in your KOS (what categories to use, how to link them) both reflect your current schema and shape the schemas you will develop through use. This bidirectional relationship is the core mechanism of the Organization-Learning Loop developed in Phase VI.
+> - **[[Schema-Theory|Schema Theory]]** — Every Knowledge Organization System is an externalized schema. The structural choices you make in your KOS (what categories to use, how to link them) both reflect your current schema and shape the schemas you will develop through use. This bidirectional relationship is the core mechanism of the Organization-Learning Loop developed in Phase VI.
 > 
-> - **[[Vocabulary Mismatch Problem]]** — The information science finding that individuals agree on spontaneous naming less than 20% of the time is the retrieval consequence of schema development. As schemas evolve, the vocabulary for concepts changes. The practical design response — a Tag Glossary plus scheduled schema crystallization events — is developed in Phase V.
+> - **[[Vocabulary-Mismatch-Problem|Vocabulary Mismatch Problem]]** — The information science finding that individuals agree on spontaneous naming less than 20% of the time is the retrieval consequence of schema development. As schemas evolve, the vocabulary for concepts changes. The practical design response — a Tag Glossary plus scheduled schema crystallization events — is developed in Phase V.
 > 
-> - **[[Faceted Classification]]** — Ranganathan's 1933 innovation remains the most cognitively aligned formal classification framework available, because it supports multiple-path access in a way that mirrors associative semantic memory. The specific implementation for PKB practice — the Progressive Parameterized Tagging system — is the primary design contribution of this report.
+> - **[[Faceted-Classification|Faceted Classification]]** — Ranganathan's 1933 innovation remains the most cognitively aligned formal classification framework available, because it supports multiple-path access in a way that mirrors associative semantic memory. The specific implementation for PKB practice — the Progressive Parameterized Tagging system — is the primary design contribution of this report.
 > 
-> - **[[SECI Model]]** — Nonaka's externalization phase, reinterpreted for solo PKB practice, reveals that organizational decision-making is concept creation, not transcription. This transforms the significance of tagging: it is a thinking activity whose value is not exhausted by its retrieval function.
+> - **[[SECI-Model|SECI Model]]** — Nonaka's externalization phase, reinterpreted for solo PKB practice, reveals that organizational decision-making is concept creation, not transcription. This transforms the significance of tagging: it is a thinking activity whose value is not exhausted by its retrieval function.
 > 
-> - **[[Prototype Theory]]** — Rosch's finding that natural categories are organized around prototypes rather than necessary-sufficient features grounds the design principle that PKB tags should be at basic-level grain and theory-laden (organized around coherent underlying explanatory structure) rather than descriptive.
+> - **[[Prototype-Theory|Prototype Theory]]** — Rosch's finding that natural categories are organized around prototypes rather than necessary-sufficient features grounds the design principle that PKB tags should be at basic-level grain and theory-laden (organized around coherent underlying explanatory structure) rather than descriptive.
 > 
-> - **[[Spreading Activation]]** — Collins and Loftus's model of associative retrieval in semantic memory supports the design principle of multiple-access-path organization: notes should be findable via tags, links, metadata, and full-text search, so that different retrieval contexts (different starting nodes for spreading activation) converge on the same content.
+> - **[[Spreading-Activation|Spreading Activation]]** — Collins and Loftus's model of associative retrieval in semantic memory supports the design principle of multiple-access-path organization: notes should be findable via tags, links, metadata, and full-text search, so that different retrieval contexts (different starting nodes for spreading activation) converge on the same content.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
@@ -535,7 +535,7 @@ extraction_summary:
 > > [!topic-idea] [[Vector Embeddings and Semantic Retrieval — What AI-Assisted Search Changes About Organization]]
 > > Large language model embeddings enable "semantic search" that retrieves notes by conceptual similarity rather than vocabulary match, partially compensating for the vocabulary mismatch problem. This expansion topic examines what this changes about the design principles in Report 15 — specifically: (1) does semantic search reduce the need for vocabulary discipline, or does it merely shift where vocabulary inconsistency causes problems? (2) What organizational work remains important when vocabulary matching is no longer the retrieval bottleneck? (3) How should PKB users balance algorithmic retrieval with the deliberate organizational work that the Organization-Learning Loop identifies as cognitively generative?
 > 
-> > [!topic-idea] [[Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]
+> > [!topic-idea] [[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]
 > > Star and Griesemer's (1989) concept of "boundary objects" — artifacts that are simultaneously concrete enough to be useful in multiple communities yet flexible enough to be adapted to local use — offers a framework for understanding PKB notes that must function across different knowledge contexts (academic, professional, personal). This is particularly relevant for practitioners whose PKB serves both domain-specialist work and interdisciplinary synthesis: the organizational principles that serve precision retrieval in one context may conflict with discovery in another.
 > 
 > > [!topic-idea] [[The Epistemology of Classification — What Your Tag System Implies About Reality]]
@@ -558,12 +558,12 @@ extraction_summary:
 ### Unique Targets
 
 - [[2024]]
-- [[Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]
-- [[Cognitive Load Theory]]
-- [[Faceted Classification]]
-- [[Online Learning]]
-- [[Prototype Theory]]
-- [[Reflective Practice]]
+- [[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Faceted-Classification|Faceted Classification]]
+- [[Online-Learning|Online Learning]]
+- [[Prototype-Theory|Prototype Theory]]
+- [[Reflective-Practice|Reflective Practice]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 06: The Science of Remembering]]
 - [[Report 08: Reflective Practice and Experiential Learning]]
@@ -571,40 +571,40 @@ extraction_summary:
 - [[Report 10: Scaffolding and Fading]]
 - [[Report 20: Retrieval-Enhanced Knowledge Networks]]
 - [[Report 25: The Integration Problem]]
-- [[SECI Model]]
+- [[SECI-Model|SECI Model]]
 - [[Scale Effects in Personal Knowledge Bases — What Changes at 500, 2000, and 10,000 Notes]]
-- [[Schema Theory]]
-- [[Semantic Networks]]
+- [[Schema-Theory|Schema Theory]]
+- [[Semantic-Networks|Semantic Networks]]
 - [[Semantic Web and Personal Knowledge Graphs — Ontology for the Individual]]
-- [[Spreading Activation]]
+- [[Spreading-Activation|Spreading Activation]]
 - [[Tag Ecology — How Tags Compete, Cooperate, and Die in a Growing PKB]]
 - [[The Epistemology of Classification — What Your Tag System Implies About Reality]]
 - [[Vector Embeddings and Semantic Retrieval — What AI-Assisted Search Changes About Organization]]
-- [[Vocabulary Mismatch Problem]]
+- [[Vocabulary-Mismatch-Problem|Vocabulary Mismatch Problem]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
 | 1 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Building on Prior Reports | 123 |
-| 2 | [[Schema Theory]] | — | — | Building on Prior Reports | 123 |
-| 3 | [[Semantic Networks]] | — | — | Building on Prior Reports | 123 |
+| 2 | [[Schema-Theory|Schema Theory]] | — | — | Building on Prior Reports | 123 |
+| 3 | [[Semantic-Networks|Semantic Networks]] | — | — | Building on Prior Reports | 123 |
 | 4 | [[Report 09: Designing the Learning PKB]] | — | — | Building on Prior Reports | 123 |
 | 5 | [[Report 10: Scaffolding and Fading]] | — | — | Building on Prior Reports | 123 |
-| 6 | [[Reflective Practice]] | — | — | The Vocabulary Mismatch Mechanism at ... | 285 |
+| 6 | [[Reflective-Practice|Reflective Practice]] | — | — | The Vocabulary Mismatch Mechanism at ... | 285 |
 | 7 | [[Report 08: Reflective Practice and Experiential Learning]] | — | — | The Vocabulary Mismatch Mechanism at ... | 285 |
 | 8 | [[Report 06: The Science of Remembering]] | — | — | The SECI Mechanism in Solo Knowledge ... | 309 |
-| 9 | [[Cognitive Load Theory]] | — | — | Faceted Classification as the Synthes... | 325 |
-| 10 | [[Online Learning]] | — | — | Faceted Classification as the Synthes... | 325 |
+| 9 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Faceted Classification as the Synthes... | 325 |
+| 10 | [[Online-Learning|Online Learning]] | — | — | Faceted Classification as the Synthes... | 325 |
 | 11 | [[2024]] | — | — | Faceted Classification as the Synthes... | 325 |
 | 12 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Return-and-Deepen: Schema Theory Revi... | 429 |
-| 13 | [[Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 429 |
-| 14 | [[Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 442 |
-| 15 | [[Vocabulary Mismatch Problem]] | — | — | Phase VII: PKB Connections & Cross-Re... | 444 |
-| 16 | [[Faceted Classification]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
-| 17 | [[SECI Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 448 |
-| 18 | [[Prototype Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 450 |
-| 19 | [[Spreading Activation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 452 |
+| 13 | [[Schema-Theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 429 |
+| 14 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 442 |
+| 15 | [[Vocabulary-Mismatch-Problem|Vocabulary Mismatch Problem]] | — | — | Phase VII: PKB Connections & Cross-Re... | 444 |
+| 16 | [[Faceted-Classification|Faceted Classification]] | — | — | Phase VII: PKB Connections & Cross-Re... | 446 |
+| 17 | [[SECI-Model|SECI Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 448 |
+| 18 | [[Prototype-Theory|Prototype Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 450 |
+| 19 | [[Spreading-Activation|Spreading Activation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 452 |
 | 20 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 456 |
 | 21 | [[Report 09: Designing the Learning PKB]] | — | — | Phase VII: PKB Connections & Cross-Re... | 458 |
 | 22 | [[Report 10: Scaffolding and Fading]] | — | — | Phase VII: PKB Connections & Cross-Re... | 460 |
@@ -612,7 +612,7 @@ extraction_summary:
 | 24 | [[Report 25: The Integration Problem]] | — | — | Phase VII: PKB Connections & Cross-Re... | 464 |
 | 25 | [[Semantic Web and Personal Knowledge Graphs — Ontology for the Individual]] | — | — | D. Expansion Topics | 557 |
 | 26 | [[Vector Embeddings and Semantic Retrieval — What AI-Assisted Search Changes About Organization]] | — | — | D. Expansion Topics | 560 |
-| 27 | [[Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]] | — | — | D. Expansion Topics | 563 |
+| 27 | [[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]] | — | — | D. Expansion Topics | 563 |
 | 28 | [[The Epistemology of Classification — What Your Tag System Implies About Reality]] | — | — | D. Expansion Topics | 566 |
 | 29 | [[Scale Effects in Personal Knowledge Bases — What Changes at 500, 2000, and 10,000 Notes]] | — | — | D. Expansion Topics | 569 |
 | 30 | [[Tag Ecology — How Tags Compete, Cooperate, and Die in a Growing PKB]] | — | — | D. Expansion Topics | 572 |
@@ -627,12 +627,12 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[2024]]
-- [[Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]
-- [[Cognitive Load Theory]]
-- [[Faceted Classification]]
-- [[Online Learning]]
-- [[Prototype Theory]]
-- [[Reflective Practice]]
+- [[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Faceted-Classification|Faceted Classification]]
+- [[Online-Learning|Online Learning]]
+- [[Prototype-Theory|Prototype Theory]]
+- [[Reflective-Practice|Reflective Practice]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 06: The Science of Remembering]]
 - [[Report 08: Reflective Practice and Experiential Learning]]
@@ -640,16 +640,16 @@ extraction_summary:
 - [[Report 10: Scaffolding and Fading]]
 - [[Report 20: Retrieval-Enhanced Knowledge Networks]]
 - [[Report 25: The Integration Problem]]
-- [[SECI Model]]
+- [[SECI-Model|SECI Model]]
 - [[Scale Effects in Personal Knowledge Bases — What Changes at 500, 2000, and 10,000 Notes]]
-- [[Schema Theory]]
-- [[Semantic Networks]]
+- [[Schema-Theory|Schema Theory]]
+- [[Semantic-Networks|Semantic Networks]]
 - [[Semantic Web and Personal Knowledge Graphs — Ontology for the Individual]]
-- [[Spreading Activation]]
+- [[Spreading-Activation|Spreading Activation]]
 - [[Tag Ecology — How Tags Compete, Cooperate, and Die in a Growing PKB]]
 - [[The Epistemology of Classification — What Your Tag System Implies About Reality]]
 - [[Vector Embeddings and Semantic Retrieval — What AI-Assisted Search Changes About Organization]]
-- [[Vocabulary Mismatch Problem]]
+- [[Vocabulary-Mismatch-Problem|Vocabulary Mismatch Problem]]
 
 ### Frontmatter Relationships
 

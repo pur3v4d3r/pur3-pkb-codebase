@@ -68,14 +68,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Cognitive Psychology]]"
-  - "[[Contemplative Practices and Reflective Processing — Mindfulness and PKM]]"
-  - "[[David Kolb]]"
-  - "[[Desirable Difficulties]]"
-  - "[[Educational Philosophy]]"
-  - "[[Educational Psychology]]"
-  - "[[Encoding Specificity Principle]]"
-  - "[[Experiential Learning Across Domains — Professional, Academic, and Personal]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Contemplative-Practices-and-Reflective-Processing-—-Mindfulness-and-PKM|Contemplative Practices and Reflective Processing — Mindfulness and PKM]]"
+  - "[[David-Kolb|David Kolb]]"
+  - "[[Desirable-Difficulties|Desirable Difficulties]]"
+  - "[[Educational-Philosophy|Educational Philosophy]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Encoding-Specificity-Principle|Encoding Specificity Principle]]"
+  - "[[Experiential-Learning-Across-Domains-—-Professional,-Academic,-and-Personal|Experiential Learning Across Domains — Professional, Academic, and Personal]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -161,4 +161,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Cognitive Psychology]] · [[Contemplative Practices and Reflective Processing — Mindfulness and PKM]] · [[David Kolb]] · [[Desirable Difficulties]] · [[Educational Philosophy]] · [[Educational Psychology]] · [[Encoding Specificity Principle]] · [[Experiential Learning Across Domains — Professional, Academic, and Personal]] · [[Felt Difficulty]] · [[Gibbs Reflective Cycle as PKB Template Architecture]] · [[John Dewey]] · [[Knowledge Management]] · [[Kolb Experiential Learning Cycle]] · [[Learning Journal]] · [[Metacognition]]
+[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Contemplative-Practices-and-Reflective-Processing-—-Mindfulness-and-PKM|Contemplative Practices and Reflective Processing — Mindfulness and PKM]] · [[David-Kolb|David Kolb]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]] · [[Encoding-Specificity-Principle|Encoding Specificity Principle]] · [[Experiential-Learning-Across-Domains-—-Professional,-Academic,-and-Personal|Experiential Learning Across Domains — Professional, Academic, and Personal]] · [[Felt-Difficulty|Felt Difficulty]] · [[Gibbs-Reflective-Cycle-as-PKB-Template-Architecture|Gibbs Reflective Cycle as PKB Template Architecture]] · [[John-Dewey|John Dewey]] · [[Knowledge-Management|Knowledge Management]] · [[Kolb-Experiential-Learning-Cycle|Kolb Experiential Learning Cycle]] · [[Learning-Journal|Learning Journal]] · [[Metacognition]]

@@ -75,7 +75,7 @@ see-also:
   - "[[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]]"
   - "[[19-sustaining-lifelong-learning-pkm-framework]]"
   - "[[26-feedback-loops-pkm-framework]]"
-  - "[[Academic Anxiety]]"
+  - "[[Academic-Anxiety|Academic Anxiety]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -138,13 +138,13 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Self-Determination Theory]]
-- [[Autonomous Motivation]]
-- [[Stoic Philosophy]]
-- [[Dichotomy of Control]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Autonomous-Motivation|Autonomous Motivation]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 
 **Cross-report connections:**
 - [[Constructivism]]
 
 **Related concepts:**
-[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[05-motivation-architecture-pkm-framework-2026-03-13]] · [[09-designing-the-learning-pkb-pkm-framework-2026-03-14]] · [[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]] · [[19-sustaining-lifelong-learning-pkm-framework]] · [[26-feedback-loops-pkm-framework]] · [[Academic Anxiety]] · [[Achievement Goal Theory]] · [[Alexithymia and Emotional Literacy as PKB Prerequisites]] · [[Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]] · [[Assessment Design]] · [[Autonomous Motivation]] · [[Autonomy Need]] · [[Basic Psychological Needs]]
+[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[05-motivation-architecture-pkm-framework-2026-03-13]] · [[09-designing-the-learning-pkb-pkm-framework-2026-03-14]] · [[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]] · [[19-sustaining-lifelong-learning-pkm-framework]] · [[26-feedback-loops-pkm-framework]] · [[Academic-Anxiety|Academic Anxiety]] · [[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Alexithymia-and-Emotional-Literacy-as-PKB-Prerequisites|Alexithymia and Emotional Literacy as PKB Prerequisites]] · [[Anxiety-and-Working-Memory-—-The-Cognitive-Cost-of-Emotional-Dysregulation-Durin|Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]] · [[Assessment-Design|Assessment Design]] · [[Autonomous-Motivation|Autonomous Motivation]] · [[Autonomy-Need|Autonomy Need]] · [[Basic-Psychological-Needs|Basic Psychological Needs]]

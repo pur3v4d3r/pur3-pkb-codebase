@@ -58,16 +58,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Knowledge Integration]]"
-  - "[[Conceptual Change]]"
-  - "[[Small-World Networks]]"
-  - "[[Betweenness Centrality]]"
-  - "[[Strength of Weak Ties]]"
-  - "[[Threshold Concepts]]"
-  - "[[Inert Knowledge]]"
-  - "[[Ontological Category Shifts]]"
-  - "[[Progressive Differentiation]]"
-  - "[[Integrative Reconciliation]]"
+  - "[[Knowledge-Integration|Knowledge Integration]]"
+  - "[[Conceptual-Change|Conceptual Change]]"
+  - "[[Small-World-Networks|Small-World Networks]]"
+  - "[[Betweenness-Centrality|Betweenness Centrality]]"
+  - "[[Strength-of-Weak-Ties|Strength of Weak Ties]]"
+  - "[[Threshold-Concepts|Threshold Concepts]]"
+  - "[[Inert-Knowledge|Inert Knowledge]]"
+  - "[[Ontological-Category-Shifts|Ontological Category Shifts]]"
+  - "[[Progressive-Differentiation|Progressive Differentiation]]"
+  - "[[Integrative-Reconciliation|Integrative Reconciliation]]"
 
 broader:
   - "[[]]"
@@ -76,14 +76,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Active Note-Making]]"
-  - "[[Alfred North Whitehead]]"
-  - "[[Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
-  - "[[Assimilation and Accommodation]]"
-  - "[[Cognitive Alignment Principle]]"
-  - "[[Cognitive Flexibility Theory and PKB Multi-Representational Design]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Collins and Loftus]]"
+  - "[[Active-Note-Making|Active Note-Making]]"
+  - "[[Alfred-North-Whitehead|Alfred North Whitehead]]"
+  - "[[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
+  - "[[Assimilation-and-Accommodation|Assimilation and Accommodation]]"
+  - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
+  - "[[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Collins-and-Loftus|Collins and Loftus]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -116,7 +116,7 @@ importance: high
 # Conceptual Change
 
 > [!definition] **Conceptual Change**
-> The cognitive process by which learners' fundamental categories, frameworks, and ontological commitments are restructured — rather than merely extended — in response to new information. [[Conceptual Change]] theory distinguishes between two fundamentally different kinds of learning: *enrichment* (adding new information to existing conceptual structures without altering those structures) and *revision* (reorganizing the conceptual structure itself). [[Stella Vosniadou]]'s [[Framework Theory]] identifies a third, most radical kind: *framework theory change*, in which the fundamental presuppositions that organize an entire domain of knowledge are restructured. This is what happens when a learner stops thinking of heat as a substance and begins thinking of it as a process, or stops thinking of knowledge as a collection of facts and begins thinking of it as a network of relationships. Most PKB practice produces enrichment; integration often requires revision or framework theory change.
+> The cognitive process by which learners' fundamental categories, frameworks, and ontological commitments are restructured — rather than merely extended — in response to new information. [[Conceptual-Change|Conceptual Change]] theory distinguishes between two fundamentally different kinds of learning: *enrichment* (adding new information to existing conceptual structures without altering those structures) and *revision* (reorganizing the conceptual structure itself). [[Stella Vosniadou]]'s [[Framework Theory]] identifies a third, most radical kind: *framework theory change*, in which the fundamental presuppositions that organize an entire domain of knowledge are restructured. This is what happens when a learner stops thinking of heat as a substance and begins thinking of it as a process, or stops thinking of knowledge as a collection of facts and begins thinking of it as a network of relationships. Most PKB practice produces enrichment; integration often requires revision or framework theory change.
 
 ## Core Explanation
 
@@ -146,4 +146,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Active Note-Making]] · [[Alfred North Whitehead]] · [[Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Assimilation and Accommodation]] · [[Betweenness Centrality]] · [[Boundary Objects]] · [[Cognitive Alignment Principle]] · [[Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Cognitive Psychology]] · [[Collins and Loftus]] · [[Critical Thinking]] · [[David Ausubel]] · [[Duncan Watts]] · [[Educational Psychology]]
+[[Active-Note-Making|Active Note-Making]] · [[Alfred-North-Whitehead|Alfred North Whitehead]] · [[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Assimilation-and-Accommodation|Assimilation and Accommodation]] · [[Betweenness-Centrality|Betweenness Centrality]] · [[Boundary-Objects|Boundary Objects]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collins-and-Loftus|Collins and Loftus]] · [[Critical-Thinking|Critical Thinking]] · [[David-Ausubel|David Ausubel]] · [[Duncan-Watts|Duncan Watts]] · [[Educational-Psychology|Educational Psychology]]

@@ -218,7 +218,7 @@ extraction_summary:
 #### 14. [DEFINITION] Mastery Orientation vs. Helpless Orientation (Dweck & Leggett, 1988) *(Line 216)*
 
 > [!definition] Mastery Orientation vs. Helpless Orientation (Dweck & Leggett, 1988)
-> Carol Dweck's extension of helplessness research into classroom achievement contexts identified two response patterns to academic failure that track closely with causal attribution styles. *Mastery-oriented* children attribute failure to strategy and effort (controllable, unstable, specific) and respond to setbacks with increased engagement and strategy variation. *Helpless-oriented* children attribute failure to ability (uncontrollable, stable, global) and respond to setbacks with decreased engagement, negative affect, and performance deterioration — even on tasks they had previously mastered successfully. Dweck's later work connected these orientations to [[Implicit Theory of Intelligence]]: children who believe intelligence is fixed (entity theory) are more likely to develop helpless orientations; children who believe intelligence is malleable (incremental theory / [[Growth Mindset]]) are more likely to develop mastery orientations.
+> Carol Dweck's extension of helplessness research into classroom achievement contexts identified two response patterns to academic failure that track closely with causal attribution styles. *Mastery-oriented* children attribute failure to strategy and effort (controllable, unstable, specific) and respond to setbacks with increased engagement and strategy variation. *Helpless-oriented* children attribute failure to ability (uncontrollable, stable, global) and respond to setbacks with decreased engagement, negative affect, and performance deterioration — even on tasks they had previously mastered successfully. Dweck's later work connected these orientations to [[Implicit Theory of Intelligence]]: children who believe intelligence is fixed (entity theory) are more likely to develop helpless orientations; children who believe intelligence is malleable (incremental theory / [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]) are more likely to develop mastery orientations.
 
 #### 15. [DEFINITION] Cognitive Reappraisal (Gross, 1998; Process Model of Emotion Regulation) *(Line 219)*
 
@@ -306,7 +306,7 @@ extraction_summary:
 #### 30. [TENSION-IDENTIFIED] Negative Visualization vs. Positive Psychology's Positive Affect Emphasis *(Line 330)*
 
 > [!tension-identified] Negative Visualization vs. Positive Psychology's Positive Affect Emphasis
-> A second genuine tension: [[Premeditatio Malorum]] — the deliberate anticipatory imagining of negative outcomes — runs counter to the emphasis in positive psychology on cultivating positive affect as the basis for resilience and flourishing. Barbara Fredrickson's Broaden-and-Build Theory (2001) proposes that positive emotions broaden attentional scope and build long-term psychological resources, while negative emotions narrow attention. The Stoic practice of negative visualization appears to cultivate negative emotion as a route to equanimity. The resolution requires distinguishing between *negative emotions arising from automatic appraisal* (which the Broaden-and-Build critique targets) and *voluntarily induced anticipatory negative rehearsal* (which is what premeditatio malorum actually involves). The experimental research on mental contrasting (Gabriele Oettingen's work, 2000s onward) provides empirical support for the Stoic position: mentally contrasting desired positive futures with anticipated obstacles produces better goal pursuit than purely positive fantasy — directly paralleling the Stoic claim that voluntary negative visualization supports sustained effort rather than undermining it.
+> A second genuine tension: [[Premeditatio-Malorum|Premeditatio Malorum]] — the deliberate anticipatory imagining of negative outcomes — runs counter to the emphasis in positive psychology on cultivating positive affect as the basis for resilience and flourishing. Barbara Fredrickson's Broaden-and-Build Theory (2001) proposes that positive emotions broaden attentional scope and build long-term psychological resources, while negative emotions narrow attention. The Stoic practice of negative visualization appears to cultivate negative emotion as a route to equanimity. The resolution requires distinguishing between *negative emotions arising from automatic appraisal* (which the Broaden-and-Build critique targets) and *voluntarily induced anticipatory negative rehearsal* (which is what premeditatio malorum actually involves). The experimental research on mental contrasting (Gabriele Oettingen's work, 2000s onward) provides empirical support for the Stoic position: mentally contrasting desired positive futures with anticipated obstacles produces better goal pursuit than purely positive fantasy — directly paralleling the Stoic claim that voluntary negative visualization supports sustained effort rather than undermining it.
 
 #### 31. [REFLECTION] Integrating the Mechanisms *(Line 333)*
 
@@ -514,13 +514,13 @@ extraction_summary:
 #### 64. [FURTHER-EXPLORATION] Deepening Your Framework *(Line 537)*
 
 > [!further-exploration] Deepening Your Framework
-> > [!topic-idea] [[Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]]
+> > [!topic-idea] [[Compassion-Focused-Approaches-to-Learning-Difficulty-—-Self-Compassion-and-Shame|Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]]
 > > Kristin Neff's self-compassion research (2003 onward) provides an important supplement to both the Stoic and SDT frameworks: the emotional consequence of failure is partly determined by the degree of self-criticism (as opposed to self-compassion) with which failures are interpreted. High self-criticism amplifies shame and competes with the cognitive reappraisal operations described in this report. For PKM practitioners who have strong inner critics, self-compassion practices may need to precede or accompany Stoic attribution training.
 > 
-> > [!topic-idea] [[Alexithymia and Emotional Literacy as PKB Prerequisites]]
+> > [!topic-idea] [[Alexithymia-and-Emotional-Literacy-as-PKB-Prerequisites|Alexithymia and Emotional Literacy as PKB Prerequisites]]
 > > The Epistemic Emotional Architecture described in this report assumes that users can accurately identify and label their emotional states — a capacity called *emotional granularity* (Lisa Feldman Barrett). Research on alexithymia (difficulty identifying emotions) suggests that a non-trivial proportion of the population may struggle to implement embedded emotional regulation templates because they cannot reliably identify what they are feeling. Developing emotional literacy may be a prerequisite for the practices described here.
 > 
-> > [!topic-idea] [[Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]]
+> > [!topic-idea] [[Anxiety-and-Working-Memory-—-The-Cognitive-Cost-of-Emotional-Dysregulation-Durin|Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]]
 > > Ashcraft and Kirk (2001) demonstrated that mathematics anxiety specifically impairs the phonological loop component of working memory during arithmetic tasks. This mechanism — emotional dysregulation consuming working memory resources needed for learning — provides a cognitive science account of why emotional architecture matters for knowledge construction, directly complementing the CVT and Stoic analyses in this report.
 > 
 > > [!topic-idea] [[The Philosophy of Eudaimonia and Its Relationship to Knowledge Pursuit]]
@@ -529,7 +529,7 @@ extraction_summary:
 > > [!topic-idea] [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]]
 > > The neuroimaging literature on cognitive reappraisal has established that successful reappraisal involves increased prefrontal cortex activity and decreased amygdala reactivity — providing a neurobiological mechanism for why upstream regulation is more effective than downstream suppression. Understanding this mechanism helps PKB practitioners appreciate why emotional regulation under high cognitive load is particularly difficult (prefrontal resources are shared between reappraisal and demanding cognitive work) and design accordingly.
 > 
-> > [!topic-idea] [[Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]]
+> > [!topic-idea] [[Boredom-as-an-Academic-Emotion-—-Causes,-Consequences,-and-PKB-Design-Responses|Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]]
 > > Boredom receives significantly less research attention than anxiety in educational psychology, but Pekrun's CVT identifies it as a qualitatively distinct and particularly consequential academic emotion — one that reflects not low ability but low perceived value, low challenge, or low perceived control over a valueless task. For PKB practitioners, boredom with their own knowledge base is a diagnostic signal: the CAVE audit can identify whether the source is insufficient challenge, insufficient value connection, or insufficient epistemic emotion cultivation, each requiring a different design response.
 
 ---
@@ -549,68 +549,68 @@ extraction_summary:
 - [[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]]
 - [[19-sustaining-lifelong-learning-pkm-framework]]
 - [[26-feedback-loops-pkm-framework]]
-- [[Academic Anxiety]]
-- [[Alexithymia and Emotional Literacy as PKB Prerequisites]]
-- [[Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]]
-- [[Autonomy Need]]
-- [[Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]]
-- [[Boredom in Learning]]
-- [[Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]]
-- [[Competence Need]]
-- [[Control-Value Theory]]
-- [[Educational Psychology]]
+- [[Academic-Anxiety|Academic Anxiety]]
+- [[Alexithymia-and-Emotional-Literacy-as-PKB-Prerequisites|Alexithymia and Emotional Literacy as PKB Prerequisites]]
+- [[Anxiety-and-Working-Memory-—-The-Cognitive-Cost-of-Emotional-Dysregulation-Durin|Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]]
+- [[Autonomy-Need|Autonomy Need]]
+- [[Boredom-as-an-Academic-Emotion-—-Causes,-Consequences,-and-PKB-Design-Responses|Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]]
+- [[Boredom-in-Learning|Boredom in Learning]]
+- [[Compassion-Focused-Approaches-to-Learning-Difficulty-—-Self-Compassion-and-Shame|Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]]
+- [[Competence-Need|Competence Need]]
+- [[Control-Value-Theory-CVT|Control-Value Theory]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Emotional Regulation]]
-- [[Epistemic Emotions]]
+- [[Epistemic-Emotions|Epistemic Emotions]]
 - [[Flow Theory]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Implicit Theory of Intelligence]]
 - [[Information Architecture Meets Cognitive Architecture]]
-- [[Learned Helplessness]]
+- [[Learned-Helplessness|Learned Helplessness]]
 - [[Mihaly Csikszentmihalyi]]
 - [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Reinhard Pekrun]]
 - [[Relatedness Need]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seligman]]
-- [[Stoic Philosophy]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[The Philosophy of Eudaimonia and Its Relationship to Knowledge Pursuit]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Learned Helplessness]] | — | — | The Learning Paradox Nobody Talks About | 137 |
-| 2 | [[Academic Anxiety]] | — | — | The Learning Paradox Nobody Talks About | 137 |
-| 3 | [[Boredom in Learning]] | — | — | The Learning Paradox Nobody Talks About | 137 |
-| 4 | [[Stoic Philosophy]] | — | — | The Learning Paradox Nobody Talks About | 139 |
-| 5 | [[Educational Psychology]] | — | — | The Learning Paradox Nobody Talks About | 139 |
-| 6 | [[Stoic Philosophy]] | — | — | Synthesis Focus Statement | 145 |
-| 7 | [[Self-Determination Theory]] | SDT | — | Synthesis Focus Statement | 145 |
-| 8 | [[Control-Value Theory]] | Pekrun's Control-Value Theory of Academic Emotions | — | Synthesis Focus Statement | 145 |
+| 1 | [[Learned-Helplessness|Learned Helplessness]] | — | — | The Learning Paradox Nobody Talks About | 137 |
+| 2 | [[Academic-Anxiety|Academic Anxiety]] | — | — | The Learning Paradox Nobody Talks About | 137 |
+| 3 | [[Boredom-in-Learning|Boredom in Learning]] | — | — | The Learning Paradox Nobody Talks About | 137 |
+| 4 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | The Learning Paradox Nobody Talks About | 139 |
+| 5 | [[Educational-Psychology|Educational Psychology]] | — | — | The Learning Paradox Nobody Talks About | 139 |
+| 6 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Synthesis Focus Statement | 145 |
+| 7 | [[Self-Determination-Theory|Self-Determination Theory]] | SDT | — | Synthesis Focus Statement | 145 |
+| 8 | [[Control-Value-Theory-CVT|Control-Value Theory]] | Pekrun's Control-Value Theory of Academic Emotions | — | Synthesis Focus Statement | 145 |
 | 9 | [[Seligman]] | — | — | Synthesis Focus Statement | 145 |
-| 10 | [[Learned Helplessness]] | — | — | Synthesis Focus Statement | 145 |
-| 11 | [[Stoic Philosophy]] | — | — | Scope and Cross-Domain Preview | 151 |
-| 12 | [[Self-Determination Theory]] | — | — | Scope and Cross-Domain Preview | 151 |
-| 13 | [[Control-Value Theory]] | — | — | Scope and Cross-Domain Preview | 151 |
+| 10 | [[Learned-Helplessness|Learned Helplessness]] | — | — | Synthesis Focus Statement | 145 |
+| 11 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | Scope and Cross-Domain Preview | 151 |
+| 12 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Scope and Cross-Domain Preview | 151 |
+| 13 | [[Control-Value-Theory-CVT|Control-Value Theory]] | — | — | Scope and Cross-Domain Preview | 151 |
 | 14 | [[Emotional Regulation]] | — | — | The Stoic Analysis of Destructive Emo... | 176 |
-| 15 | [[Self-Determination Theory]] | — | — | SDT and the Emotional Consequences of... | 185 |
+| 15 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | SDT and the Emotional Consequences of... | 185 |
 | 16 | [[Reinhard Pekrun]] | — | — | Pekrun's Control-Value Theory of Acad... | 195 |
-| 17 | [[Learned Helplessness]] | — | — | Learned Helplessness and Its Antidotes | 211 |
+| 17 | [[Learned-Helplessness|Learned Helplessness]] | — | — | Learned Helplessness and Its Antidotes | 211 |
 | 18 | [[Implicit Theory of Intelligence]] | — | — | Learned Helplessness and Its Antidotes | 217 |
-| 19 | [[Growth Mindset]] | — | — | Learned Helplessness and Its Antidotes | 217 |
-| 20 | [[Control-Value Theory]] | — | — | The Evidence for Control-Value Theory | 239 |
-| 21 | [[Epistemic Emotions]] | — | — | The Evidence for Control-Value Theory | 246 |
+| 19 | [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]] | — | — | Learned Helplessness and Its Antidotes | 217 |
+| 20 | [[Control-Value-Theory-CVT|Control-Value Theory]] | — | — | The Evidence for Control-Value Theory | 239 |
+| 21 | [[Epistemic-Emotions|Epistemic Emotions]] | — | — | The Evidence for Control-Value Theory | 246 |
 | 22 | [[Information Architecture Meets Cognitive Architecture]] | — | — | The Evidence for Control-Value Theory | 249 |
 | 23 | [[Mihaly Csikszentmihalyi]] | — | — | SDT Evidence on Need Frustration and ... | 269 |
 | 24 | [[Flow Theory]] | — | — | SDT Evidence on Need Frustration and ... | 269 |
-| 25 | [[Control-Value Theory]] | — | — | How Academic Emotions Are Actually Ge... | 291 |
-| 26 | [[Autonomy Need]] | autonomy | — | SDT Need Support as Emotional Inocula... | 322 |
-| 27 | [[Competence Need]] | competence | — | SDT Need Support as Emotional Inocula... | 322 |
+| 25 | [[Control-Value-Theory-CVT|Control-Value Theory]] | — | — | How Academic Emotions Are Actually Ge... | 291 |
+| 26 | [[Autonomy-Need|Autonomy Need]] | autonomy | — | SDT Need Support as Emotional Inocula... | 322 |
+| 27 | [[Competence-Need|Competence Need]] | competence | — | SDT Need Support as Emotional Inocula... | 322 |
 | 28 | [[Relatedness Need]] | relatedness | — | SDT Need Support as Emotional Inocula... | 322 |
-| 29 | [[Premeditatio Malorum]] | — | — | SDT Need Support as Emotional Inocula... | 331 |
-| 30 | [[Schema Theory]] | — | — | The Return-and-Deepen: Schema Theory ... | 407 |
+| 29 | [[Premeditatio-Malorum|Premeditatio Malorum]] | — | — | SDT Need Support as Emotional Inocula... | 331 |
+| 30 | [[Schema-Theory|Schema Theory]] | — | — | The Return-and-Deepen: Schema Theory ... | 407 |
 | 31 | [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] | Report 04: Metacognitive Self-Regulation | — | Phase VII: PKB Connections & Cross-Re... | 438 |
 | 32 | [[05-motivation-architecture-pkm-framework-2026-03-13]] | Report 05: Motivation Architecture | — | Phase VII: PKB Connections & Cross-Re... | 440 |
 | 33 | [[03-constructing-understanding-pkm-framework-2026-03-13]] | Report 03: Constructing Understanding | — | Phase VII: PKB Connections & Cross-Re... | 442 |
@@ -618,12 +618,12 @@ extraction_summary:
 | 35 | [[09-designing-the-learning-pkb-pkm-framework-2026-03-14]] | Report 09: Designing the Learning PKB | — | Phase VII: PKB Connections & Cross-Re... | 446 |
 | 36 | [[19-sustaining-lifelong-learning-pkm-framework]] | Report 19: Sustaining Lifelong Learning | — | Phase VII: PKB Connections & Cross-Re... | 450 |
 | 37 | [[26-feedback-loops-pkm-framework]] | Report 26: Feedback Loops in PKM | — | Phase VII: PKB Connections & Cross-Re... | 452 |
-| 38 | [[Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]] | — | — | D. Expansion Topics | 539 |
-| 39 | [[Alexithymia and Emotional Literacy as PKB Prerequisites]] | — | — | D. Expansion Topics | 542 |
-| 40 | [[Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]] | — | — | D. Expansion Topics | 545 |
+| 38 | [[Compassion-Focused-Approaches-to-Learning-Difficulty-—-Self-Compassion-and-Shame|Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]] | — | — | D. Expansion Topics | 539 |
+| 39 | [[Alexithymia-and-Emotional-Literacy-as-PKB-Prerequisites|Alexithymia and Emotional Literacy as PKB Prerequisites]] | — | — | D. Expansion Topics | 542 |
+| 40 | [[Anxiety-and-Working-Memory-—-The-Cognitive-Cost-of-Emotional-Dysregulation-Durin|Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]] | — | — | D. Expansion Topics | 545 |
 | 41 | [[The Philosophy of Eudaimonia and Its Relationship to Knowledge Pursuit]] | — | — | D. Expansion Topics | 548 |
 | 42 | [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]] | — | — | D. Expansion Topics | 551 |
-| 43 | [[Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]] | — | — | D. Expansion Topics | 554 |
+| 43 | [[Boredom-as-an-Academic-Emotion-—-Causes,-Consequences,-and-PKB-Design-Responses|Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]] | — | — | D. Expansion Topics | 554 |
 
 ---
 
@@ -641,41 +641,41 @@ extraction_summary:
 - [[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]]
 - [[19-sustaining-lifelong-learning-pkm-framework]]
 - [[26-feedback-loops-pkm-framework]]
-- [[Academic Anxiety]]
-- [[Alexithymia and Emotional Literacy as PKB Prerequisites]]
-- [[Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]]
-- [[Autonomy Need]]
-- [[Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]]
-- [[Boredom in Learning]]
-- [[Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]]
-- [[Competence Need]]
-- [[Control-Value Theory]]
-- [[Educational Psychology]]
+- [[Academic-Anxiety|Academic Anxiety]]
+- [[Alexithymia-and-Emotional-Literacy-as-PKB-Prerequisites|Alexithymia and Emotional Literacy as PKB Prerequisites]]
+- [[Anxiety-and-Working-Memory-—-The-Cognitive-Cost-of-Emotional-Dysregulation-Durin|Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]]
+- [[Autonomy-Need|Autonomy Need]]
+- [[Boredom-as-an-Academic-Emotion-—-Causes,-Consequences,-and-PKB-Design-Responses|Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]]
+- [[Boredom-in-Learning|Boredom in Learning]]
+- [[Compassion-Focused-Approaches-to-Learning-Difficulty-—-Self-Compassion-and-Shame|Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]]
+- [[Competence-Need|Competence Need]]
+- [[Control-Value-Theory-CVT|Control-Value Theory]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Emotional Regulation]]
-- [[Epistemic Emotions]]
+- [[Epistemic-Emotions|Epistemic Emotions]]
 - [[Flow Theory]]
-- [[Growth Mindset]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Implicit Theory of Intelligence]]
 - [[Information Architecture Meets Cognitive Architecture]]
-- [[Learned Helplessness]]
+- [[Learned-Helplessness|Learned Helplessness]]
 - [[Mihaly Csikszentmihalyi]]
 - [[Neurobiological Foundations of Emotion Regulation in Learning — The Prefrontal-Amygdala Interface]]
-- [[Premeditatio Malorum]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
 - [[Reinhard Pekrun]]
 - [[Relatedness Need]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Seligman]]
-- [[Stoic Philosophy]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[The Philosophy of Eudaimonia and Its Relationship to Knowledge Pursuit]]
 
 ### Frontmatter Relationships
 
 #### Prerequisites
 
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Metacognition]]
-- [[Schema Theory]]
+- [[Schema-Theory|Schema Theory]]
 
 #### Builds On
 
@@ -685,29 +685,29 @@ extraction_summary:
 
 #### Related Concepts
 
-- [[Academic Emotions]]
-- [[Control-Value Theory]]
-- [[Learned Helplessness]]
-- [[Stoic Philosophy]]
-- [[Dichotomy of Control]]
-- [[Premeditatio Malorum]]
-- [[Discipline of Assent]]
+- [[Academic-Emotions|Academic Emotions]]
+- [[Control-Value-Theory-CVT|Control-Value Theory]]
+- [[Learned-Helplessness|Learned Helplessness]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
+- [[Premeditatio-Malorum|Premeditatio Malorum]]
+- [[Discipline-of-Assent|Discipline of Assent]]
 - [[Negative Visualization]]
 - [[Melete]]
 - [[Stoic Journaling]]
-- [[Self-Determination Theory]]
-- [[Basic Psychological Needs]]
-- [[Competence Need]]
-- [[Autonomy Need]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Basic-Psychological-Needs|Basic Psychological Needs]]
+- [[Competence-Need|Competence Need]]
+- [[Autonomy-Need|Autonomy Need]]
 - [[Amotivation]]
-- [[Cognitive Reappraisal]]
+- [[Cognitive-Reappraisal|Cognitive Reappraisal]]
 - [[Gross Process Model]]
 - [[Emotional Regulation]]
-- [[Epistemic Emotions]]
+- [[Epistemic-Emotions|Epistemic Emotions]]
 - [[Achievement Emotions]]
-- [[Boredom in Learning]]
-- [[Academic Anxiety]]
-- [[Growth Mindset]]
+- [[Boredom-in-Learning|Boredom in Learning]]
+- [[Academic-Anxiety|Academic Anxiety]]
+- [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]
 - [[Mastery Orientation]]
 - [[Learned Industriousness]]
 - [[Frustration Tolerance]]
@@ -721,11 +721,11 @@ extraction_summary:
 - [[Helplessness Attribution]]
 - [[Locus of Control]]
 - [[Self-Efficacy]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[PKM Design Principles]]
 - [[Frustration Management Protocol]]
 - [[Growth-Oriented Review]]
-- [[Epistemic Emotional Architecture]]
+- [[Epistemic-Emotional-Architecture|Epistemic Emotional Architecture]]
 
 ---
 

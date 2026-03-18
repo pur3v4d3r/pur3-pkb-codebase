@@ -73,8 +73,8 @@ see-also:
   - "[[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]]"
   - "[[10-scaffolding-and-fading-pkm-framework-2026-03-14]]"
   - "[[11-transfer-problem-pkm-framework-2026-03-14]]"
-  - "[[Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
-  - "[[Alan Baddeley]]"
+  - "[[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
+  - "[[Alan-Baddeley|Alan Baddeley]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -138,15 +138,15 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Spacing Effect]]
-- [[Generation Effect]]
-- [[Contextual Interference Effect]]
-- [[Testing Effect]]
-- [[Productive Failure]]
+- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
+- [[Generation-Effect|Generation Effect]]
+- [[Contextual-Interference-Effect|Contextual Interference Effect]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[Productive-Failure|Productive Failure]]
 
 **Cross-report connections:**
-- [[Productive Failure]]
-- [[Contextual Interference Effect]]
+- [[Productive-Failure|Productive Failure]]
+- [[Contextual-Interference-Effect|Contextual Interference Effect]]
 
 **Related concepts:**
-[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]] · [[Alan Baddeley]] · [[Alfred North Whitehead]] · [[Allan Collins]] · [[Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]] · [[Analogical Transfer]] · [[Anki]] · [[Anomalous Data]] · [[Antithesis]]
+[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]] · [[Alan-Baddeley|Alan Baddeley]] · [[Alfred-North-Whitehead|Alfred North Whitehead]] · [[Allan-Collins|Allan Collins]] · [[Analogical-Reasoning-Training-for-PKM-—-Cultivating-the-Far-Transfer-Muscle|Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]] · [[Analogical-Transfer|Analogical Transfer]] · [[Anki]] · [[Anomalous-Data|Anomalous Data]] · [[Antithesis]]

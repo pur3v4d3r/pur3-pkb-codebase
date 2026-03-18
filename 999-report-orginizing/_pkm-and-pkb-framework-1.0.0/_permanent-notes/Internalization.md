@@ -67,14 +67,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Achievement Goal Theory]]"
-  - "[[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
-  - "[[Assessment Design]]"
-  - "[[Autonomous Motivation]]"
-  - "[[Autonomy Need]]"
-  - "[[Basic Psychological Needs]]"
-  - "[[Cognitive Evaluation Theory]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
+  - "[[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
+  - "[[Assessment-Design|Assessment Design]]"
+  - "[[Autonomous-Motivation|Autonomous Motivation]]"
+  - "[[Autonomy-Need|Autonomy Need]]"
+  - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
+  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -137,13 +137,13 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Self-Determination Theory]]
-- [[Autonomous Motivation]]
-- [[Stoic Philosophy]]
-- [[Dichotomy of Control]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Autonomous-Motivation|Autonomous Motivation]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 
 **Cross-report connections:**
 - [[Constructivism]]
 
 **Related concepts:**
-[[Achievement Goal Theory]] · [[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Assessment Design]] · [[Autonomous Motivation]] · [[Autonomy Need]] · [[Basic Psychological Needs]] · [[Cognitive Evaluation Theory]] · [[Cognitive Psychology]] · [[Cognitive Science]] · [[Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Competence Need]] · [[Constructivism]] · [[Controlled Motivation]] · [[Deliberate Practice Log]] · [[Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]]
+[[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Assessment-Design|Assessment Design]] · [[Autonomous-Motivation|Autonomous Motivation]] · [[Autonomy-Need|Autonomy Need]] · [[Basic-Psychological-Needs|Basic Psychological Needs]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Cognitive-Science|Cognitive Science]] · [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Competence-Need|Competence Need]] · [[Constructivism]] · [[Controlled-Motivation|Controlled Motivation]] · [[Deliberate-Practice-Log|Deliberate Practice Log]] · [[Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat|Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]]

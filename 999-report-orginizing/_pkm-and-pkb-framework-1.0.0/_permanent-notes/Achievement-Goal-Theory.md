@@ -68,13 +68,13 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Assessment Design]]"
-  - "[[Autonomous Motivation]]"
-  - "[[Autonomy Need]]"
-  - "[[Basic Psychological Needs]]"
-  - "[[Cognitive Evaluation Theory]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Competence Need]]"
+  - "[[Assessment-Design|Assessment Design]]"
+  - "[[Autonomous-Motivation|Autonomous Motivation]]"
+  - "[[Autonomy-Need|Autonomy Need]]"
+  - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
+  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Competence-Need|Competence Need]]"
   - "[[Constructivism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -106,7 +106,7 @@ importance: high
 # Achievement Goal Theory
 
 > [!definition] **Achievement Goal Theory**
-> A framework holding that achievement behavior is organized around conceptually distinct goals that create different psychological orientations toward learning. The central distinction is between **[[Mastery Goals]]** (focused on developing competence, understanding, and skill — the standard of success is personal improvement) and **[[Performance Goals]]** (focused on demonstrating competence relative to others, or avoiding demonstrations of incompetence — the standard of success is normative comparison). Elliot and McGregor's (2001) 2×2 refinement added an approach/avoidance dimension: mastery-approach (trying to learn and improve), mastery-avoidance (trying not to lose one's current level of competence — especially relevant for aging adults), performance-approach (trying to outperform others), and performance-avoidance (trying not to appear incompetent). The boundary condition: this framework characterizes the psychological orientation toward achievement activity, not an intrinsic property of tasks. The same task can be approached with any goal orientation.
+> A framework holding that achievement behavior is organized around conceptually distinct goals that create different psychological orientations toward learning. The central distinction is between **[[Mastery-Goals|Mastery Goals]]** (focused on developing competence, understanding, and skill — the standard of success is personal improvement) and **[[Performance-Goals|Performance Goals]]** (focused on demonstrating competence relative to others, or avoiding demonstrations of incompetence — the standard of success is normative comparison). Elliot and McGregor's (2001) 2×2 refinement added an approach/avoidance dimension: mastery-approach (trying to learn and improve), mastery-avoidance (trying not to lose one's current level of competence — especially relevant for aging adults), performance-approach (trying to outperform others), and performance-avoidance (trying not to appear incompetent). The boundary condition: this framework characterizes the psychological orientation toward achievement activity, not an intrinsic property of tasks. The same task can be approached with any goal orientation.
 
 *Source: Educational Psychology*
 
@@ -138,13 +138,13 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Self-Determination Theory]]
-- [[Autonomous Motivation]]
-- [[Stoic Philosophy]]
-- [[Dichotomy of Control]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Autonomous-Motivation|Autonomous Motivation]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 
 **Cross-report connections:**
 - [[Constructivism]]
 
 **Related concepts:**
-[[Assessment Design]] · [[Autonomous Motivation]] · [[Autonomy Need]] · [[Basic Psychological Needs]] · [[Cognitive Evaluation Theory]] · [[Cognitive Psychology]] · [[Competence Need]] · [[Constructivism]] · [[Controlled Motivation]] · [[Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]] · [[Dichotomy of Control]] · [[Educational Psychology]] · [[Emotional Regulation and Academic Emotions in PKB Practice]] · [[Feedback Design]]
+[[Assessment-Design|Assessment Design]] · [[Autonomous-Motivation|Autonomous Motivation]] · [[Autonomy-Need|Autonomy Need]] · [[Basic-Psychological-Needs|Basic Psychological Needs]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Competence-Need|Competence Need]] · [[Constructivism]] · [[Controlled-Motivation|Controlled Motivation]] · [[Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat|Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]] · [[Dichotomy-of-Control|Dichotomy of Control]] · [[Educational-Psychology|Educational Psychology]] · [[Emotional-Regulation-and-Academic-Emotions-in-PKB-Practice|Emotional Regulation and Academic Emotions in PKB Practice]] · [[Feedback-Design|Feedback Design]]

@@ -68,14 +68,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]"
+  - "[[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]"
   - "[[Andragogy]]"
-  - "[[Baddeley's Working Memory Model]]"
-  - "[[Cognitive Apprenticeship]]"
-  - "[[Cognitive Architecture-Aligned PKB]]"
-  - "[[Cognitive Load Measurement and Self-Monitoring in PKM Practice]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]]"
+  - "[[Cognitive-Apprenticeship|Cognitive Apprenticeship]]"
+  - "[[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]]"
+  - "[[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice|Cognitive Load Measurement and Self-Monitoring in PKM Practice]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -87,16 +87,16 @@ enables:
   - "[[]]"
 
 expansion-topics:
-  - topic: "[[Cognitive Load Measurement and Self-Monitoring in PKM Practice]]"
+  - topic: "[[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice|Cognitive Load Measurement and Self-Monitoring in PKM Practice]]"
     description: "Can users accurately measure their own cognitive load during note engagement? Research on subjective"
     priority: medium
-  - topic: "[[The Expertise Reversal Effect Across PKB Knowledge Domains]]"
+  - topic: "[[The-Expertise-Reversal-Effect-Across-PKB-Knowledge-Domains|The Expertise Reversal Effect Across PKB Knowledge Domains]]"
     description: "The expertise reversal effect operates at the domain level, not the vault level — a user may be simu"
     priority: medium
-  - topic: "[[Multimedia Learning Principles for Rich PKB Notes: Diagrams, Code, and Visual Representations]]"
+  - topic: "[[Multimedia-Learning-Principles-for-Rich-PKB-Notes-Diagrams,-Code,-and-Visual-Rep|Multimedia Learning Principles for Rich PKB Notes: Diagrams, Code, and Visual Representations]]"
     description: "Mayer's multimedia learning research extends beyond text to the interaction of text with visual repr"
     priority: medium
-  - topic: "[[Note Revision as Expertise Tracking: Building an Expertise-Adaptive PKB]]"
+  - topic: "[[Note-Revision-as-Expertise-Tracking-Building-an-Expertise-Adaptive-PKB|Note Revision as Expertise Tracking: Building an Expertise-Adaptive PKB]]"
     description: "This topic would develop a systematic note revision practice grounded in the expertise reversal effe"
     priority: medium
 
@@ -143,7 +143,7 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Information Architecture]]
+- [[Information-Architecture|Information Architecture]]
 
 **Related concepts:**
-[[Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]] · [[Andragogy]] · [[Baddeley's Working Memory Model]] · [[Cognitive Apprenticeship]] · [[Cognitive Architecture-Aligned PKB]] · [[Cognitive Load Measurement and Self-Monitoring in PKM Practice]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Coherence Principle]] · [[Constructivism]] · [[Constructivism, Germane Load, and Designing Notes for Productive Struggle]] · [[Double-Loop Learning in Practice: Templates for PKB Meta-Review]] · [[Dreyfus Model of Skill Acquisition]] · [[Dunning-Kruger]] · [[Educational Psychology]]
+[[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]] · [[Andragogy]] · [[Baddeley's-Working-Memory-Model|Baddeley's Working Memory Model]] · [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] · [[Cognitive-Architecture-Aligned-PKB|Cognitive Architecture-Aligned PKB]] · [[Cognitive-Load-Measurement-and-Self-Monitoring-in-PKM-Practice|Cognitive Load Measurement and Self-Monitoring in PKM Practice]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Coherence-Principle|Coherence Principle]] · [[Constructivism]] · [[Constructivism,-Germane-Load,-and-Designing-Notes-for-Productive-Struggle|Constructivism, Germane Load, and Designing Notes for Productive Struggle]] · [[Double-Loop-Learning-in-Practice-Templates-for-PKB-Meta-Review|Double-Loop Learning in Practice: Templates for PKB Meta-Review]] · [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] · [[Dunning-Kruger]] · [[Educational-Psychology|Educational Psychology]]

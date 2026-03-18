@@ -519,13 +519,13 @@ extraction_summary:
 #### 65. [FURTHER-EXPLORATION] Deepening Your Framework *(Line 520)*
 
 > [!further-exploration] Deepening Your Framework
-> > [!topic-idea] [[Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]
+> > [!topic-idea] [[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]
 > > Extends the epistemic status marker concept into formal probabilistic credences — the approach to belief management recommended by Bayesian epistemology. Where this report treats epistemic status qualitatively (well-established / developing / tentative / uncertain), a Bayesian extension would track explicit numerical credences (e.g., 85% confidence) and update them according to Bayes' theorem as evidence accumulates. Explores whether quantitative credence tracking is feasible and valuable for personal knowledge management, and what practices support calibrated Bayesian updating in a PKB context.
 > 
 > > [!topic-idea] [[The Feynman Technique as a Calibration Protocol]]
 > > Richard Feynman's technique — attempting to explain a concept simply and completely without reference materials, then identifying gaps in the explanation — is one of the most effective single-practice calibration tools available. This expansion topic examines the cognitive mechanisms that make the Feynman technique effective (specifically, its role in generating the prediction-performance gap for explanation clarity), how it can be systematically embedded in PKB workflows, and how its outputs (identified explanation gaps) should be fed back into note revision and study allocation.
 > 
-> > [!topic-idea] [[Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]
+> > [!topic-idea] [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]
 > > A practical implementation guide for tracking calibration accuracy over time in an Obsidian PKB using Dataview. Covers: designing calibration event metadata schemas; creating Dataview queries that surface miscalibration patterns across domains; building visualizations of calibration curves for review domains; integrating calibration tracking with spaced repetition workflows; and establishing review triggers when calibration metrics suggest accumulated miscalibration in a domain.
 > 
 > > [!topic-idea] [[The Expert Calibration Trajectory: How Self-Assessment Accuracy Develops with Domain Mastery]]
@@ -534,7 +534,7 @@ extraction_summary:
 > > [!topic-idea] [[Socratic Dialogue with Self: Implementing Dialectical Self-Examination in PKB Review]]
 > > Develops the [[Elenchus|elenchus]] as a PKB practice — structured self-dialogue protocols in which the user alternately plays the role of a Socratic examiner and the role of the belief-holder, exposing internal contradictions in their stored understanding. Examines the psychological conditions under which productive self-elenchus is possible, the design of templates that scaffold this practice in Obsidian, and the relationship between self-directed Socratic questioning and the intellectual humility disposition that makes it tolerable.
 > 
-> > [!topic-idea] [[Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]
+> > [!topic-idea] [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]
 > > As AI tools become more integrated into PKB workflows — summarizing sources, generating connections, answering questions about stored content — new calibration risks emerge. If an AI tool provides confident answers about one's own PKB content, the user may outsource the monitoring function entirely, never developing calibration accuracy at all. This topic examines the specific calibration risks of AI-assisted PKM, design principles for AI tool integration that preserve rather than undermine the user's calibration development, and how AI tools might be designed to generate rather than eliminate productive prediction-performance gaps.
 
 ---
@@ -547,18 +547,18 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]
+- [[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]
 - [[Calibration]]
-- [[Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]
-- [[Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]
-- [[Cognitive Psychology]]
-- [[Dunning-Kruger Effect]]
-- [[Elenchus]]
-- [[Epistemic Humility]]
-- [[Fluency Illusion]]
-- [[Metacognitive Calibration]]
+- [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]
+- [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[Socratic-Method-Elenchus|Elenchus]]
+- [[Epistemic-Humility|Epistemic Humility]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Obsidian]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Report 04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 07: Critical Thinking as PKM Practice]]
@@ -577,26 +577,26 @@ extraction_summary:
 - [[Report 29: Ethical PKM]]
 - [[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]
 - [[Socratic Dialogue with Self: Implementing Dialectical Self-Examination in PKB Review]]
-- [[Socratic Ignorance]]
-- [[Structural Metacognition Principle]]
+- [[Socratic-Ignorance-Knowing-One's-Ignorance|Socratic Ignorance]]
+- [[Structural-Metacognition-Principle|Structural Metacognition Principle]]
 - [[The Expert Calibration Trajectory: How Self-Assessment Accuracy Develops with Domain Mastery]]
 - [[The Feynman Technique as a Calibration Protocol]]
-- [[Virtue Epistemology]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Base]] | — | — | The Problem That Hides Behind Every O... | 135 |
+| 1 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Problem That Hides Behind Every O... | 135 |
 | 2 | [[Calibration]] | calibration | — | The Problem That Hides Behind Every O... | 137 |
 | 3 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | Report 04 | — | The Problem That Hides Behind Every O... | 137 |
 | 4 | [[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]] | Report 12 | — | The Problem That Hides Behind Every O... | 137 |
 | 5 | [[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]] | Report 16 | — | The Problem That Hides Behind Every O... | 137 |
-| 6 | [[Cognitive Psychology]] | Cognitive psychology | — | The Problem That Hides Behind Every O... | 139 |
-| 7 | [[Dunning-Kruger Effect]] | Dunning-Kruger research | — | The Problem That Hides Behind Every O... | 139 |
-| 8 | [[Socratic Ignorance]] | Socratic philosophy | — | The Problem That Hides Behind Every O... | 139 |
-| 9 | [[Virtue Epistemology]] | virtue epistemology | — | The Problem That Hides Behind Every O... | 139 |
-| 10 | [[Epistemic Humility]] | epistemic humility | — | The Problem That Hides Behind Every O... | 139 |
+| 6 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | Cognitive psychology | — | The Problem That Hides Behind Every O... | 139 |
+| 7 | [[Dunning-Kruger-Effect|Dunning-Kruger Effect]] | Dunning-Kruger research | — | The Problem That Hides Behind Every O... | 139 |
+| 8 | [[Socratic-Ignorance-Knowing-One's-Ignorance|Socratic Ignorance]] | Socratic philosophy | — | The Problem That Hides Behind Every O... | 139 |
+| 9 | [[Virtue-Epistemology|Virtue Epistemology]] | virtue epistemology | — | The Problem That Hides Behind Every O... | 139 |
+| 10 | [[Epistemic-Humility|Epistemic Humility]] | epistemic humility | — | The Problem That Hides Behind Every O... | 139 |
 | 11 | [[Report 04]] | — | — | Scope, Position, and Cross-Report Rel... | 152 |
 | 12 | [[Report 07: Critical Thinking as PKM Practice]] | Report 07 | — | Scope, Position, and Cross-Report Rel... | 152 |
 | 13 | [[Report 12]] | — | — | Scope, Position, and Cross-Report Rel... | 152 |
@@ -605,11 +605,11 @@ extraction_summary:
 | 16 | [[Report 28: The Philosophy of Personal Knowledge]] | Report 28 | — | Scope, Position, and Cross-Report Rel... | 152 |
 | 17 | [[Report 29: Ethical PKM]] | Report 29 | — | Scope, Position, and Cross-Report Rel... | 152 |
 | 18 | [[Report 12]] | — | — | Why Calibration Fails in PKBs: Three ... | 266 |
-| 19 | [[Fluency Illusion]] | — | — | Why Calibration Fails in PKBs: Three ... | 266 |
-| 20 | [[Epistemic Humility]] | epistemic humility | — | Why Calibration Fails in PKBs: Three ... | 290 |
+| 19 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Why Calibration Fails in PKBs: Three ... | 266 |
+| 20 | [[Epistemic-Humility|Epistemic Humility]] | epistemic humility | — | Why Calibration Fails in PKBs: Three ... | 290 |
 | 21 | [[Obsidian]] | — | — | Design Principle 1: Replace Confidenc... | 323 |
-| 22 | [[Metacognitive Calibration]] | — | — | The Return-and-Deepen Moment | 397 |
-| 23 | [[Structural Metacognition Principle]] | — | — | The Return-and-Deepen Moment | 399 |
+| 22 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | The Return-and-Deepen Moment | 397 |
+| 23 | [[Structural-Metacognition-Principle|Structural Metacognition Principle]] | — | — | The Return-and-Deepen Moment | 399 |
 | 24 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 412 |
 | 25 | [[Report 07: Critical Thinking as PKM Practice — Reasoning, Evaluation, and Epistemic Vigilance]] | — | — | Phase VII: PKB Connections & Cross-Re... | 414 |
 | 26 | [[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]] | — | — | Phase VII: PKB Connections & Cross-Re... | 416 |
@@ -618,13 +618,13 @@ extraction_summary:
 | 29 | [[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]] | — | — | Phase VII: PKB Connections & Cross-Re... | 422 |
 | 30 | [[Report 20: Retrieval-Enhanced Knowledge Networks]] | — | — | Phase VII: PKB Connections & Cross-Re... | 426 |
 | 31 | [[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]] | — | — | Phase VII: PKB Connections & Cross-Re... | 428 |
-| 32 | [[Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] | — | — | D. Expansion Topics | 522 |
+| 32 | [[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] | — | — | D. Expansion Topics | 522 |
 | 33 | [[The Feynman Technique as a Calibration Protocol]] | — | — | D. Expansion Topics | 525 |
-| 34 | [[Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] | — | — | D. Expansion Topics | 528 |
+| 34 | [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] | — | — | D. Expansion Topics | 528 |
 | 35 | [[The Expert Calibration Trajectory: How Self-Assessment Accuracy Develops with Domain Mastery]] | — | — | D. Expansion Topics | 531 |
 | 36 | [[Socratic Dialogue with Self: Implementing Dialectical Self-Examination in PKB Review]] | — | — | D. Expansion Topics | 534 |
-| 37 | [[Elenchus]] | elenchus | — | D. Expansion Topics | 535 |
-| 38 | [[Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] | — | — | D. Expansion Topics | 537 |
+| 37 | [[Socratic-Method-Elenchus|Elenchus]] | elenchus | — | D. Expansion Topics | 535 |
+| 38 | [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] | — | — | D. Expansion Topics | 537 |
 | 39 | [[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]] | — | — | D. Expansion Topics | 544 |
 | 40 | [[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]] | — | — | D. Expansion Topics | 544 |
 
@@ -637,18 +637,18 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]
+- [[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]
 - [[Calibration]]
-- [[Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]
-- [[Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]
-- [[Cognitive Psychology]]
-- [[Dunning-Kruger Effect]]
-- [[Elenchus]]
-- [[Epistemic Humility]]
-- [[Fluency Illusion]]
-- [[Metacognitive Calibration]]
+- [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]
+- [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger Effect]]
+- [[Socratic-Method-Elenchus|Elenchus]]
+- [[Epistemic-Humility|Epistemic Humility]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Obsidian]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Report 04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 07: Critical Thinking as PKM Practice]]
@@ -667,11 +667,11 @@ extraction_summary:
 - [[Report 29: Ethical PKM]]
 - [[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]
 - [[Socratic Dialogue with Self: Implementing Dialectical Self-Examination in PKB Review]]
-- [[Socratic Ignorance]]
-- [[Structural Metacognition Principle]]
+- [[Socratic-Ignorance-Knowing-One's-Ignorance|Socratic Ignorance]]
+- [[Structural-Metacognition-Principle|Structural Metacognition Principle]]
 - [[The Expert Calibration Trajectory: How Self-Assessment Accuracy Develops with Domain Mastery]]
 - [[The Feynman Technique as a Calibration Protocol]]
-- [[Virtue Epistemology]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
 
 ### Frontmatter Relationships
 

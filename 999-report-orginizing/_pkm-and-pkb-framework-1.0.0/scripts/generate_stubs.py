@@ -36,6 +36,18 @@ from audit_notes import run_audit, AuditResult
 from config import OUTPUT_DIR, MAX_FILENAME_LENGTH
 
 
+def _pipe_link(display_name: str) -> str:
+    """Build pipe-syntax wiki-link: [[Filename-Stem|Display Name]]."""
+    safe = re.sub(r'[<>:"/\\|?*\[\]()]', '', display_name)
+    safe = re.sub(r'[\s_]+', '-', safe)
+    safe = re.sub(r'-{2,}', '-', safe).strip('-')
+    if len(safe) > MAX_FILENAME_LENGTH:
+        safe = safe[:MAX_FILENAME_LENGTH].rstrip('-')
+    if safe == display_name:
+        return f'[[{display_name}]]'
+    return f'[[{safe}|{display_name}]]'
+
+
 # ══════════════════════════════════════════════════════════════════════════════
 # CONFIGURATION
 # ══════════════════════════════════════════════════════════════════════════════
@@ -269,7 +281,7 @@ def build_stub_note(
 
     # Build see-also from source notes (their filenames as wiki-links)
     see_also_yaml = "\n".join(
-        f'  - "[[{s}]]"' for s in sorted_sources[:10]
+        f'  - "{_pipe_link(s)}"' for s in sorted_sources[:10]
     )
 
     # Category-specific callout
@@ -308,7 +320,7 @@ def build_stub_note(
         )
 
     # Backlinks section
-    backlinks_md = "\n".join(f"- [[{s}]]" for s in backlinks_display)
+    backlinks_md = "\n".join(f"- {_pipe_link(s)}" for s in backlinks_display)
     if remaining > 0:
         backlinks_md += f"\n- *...and {remaining} more permanent notes*"
 

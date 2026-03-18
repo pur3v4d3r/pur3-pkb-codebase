@@ -104,7 +104,7 @@ importance: high
 # Judgment of Learning / Metacognitive Monitoring
 
 > [!definition] **Judgment of Learning / Metacognitive Monitoring**
-> The learner's prospective assessment of their own memory state — how well they believe they will remember a piece of information relative to how well they actually will. Research consistently demonstrates that people are systematically miscalibrated: they tend to overestimate how well they will remember material they have recently re-read (the [[Fluency Illusion]]) and underestimate the future value of effortful retrieval practice. This miscalibration has direct consequences for study behavior: people choose passive re-reading over active recall because re-reading feels more productive, even though the science shows the opposite. For PKB design: the system must compensate for predictable metacognitive errors by structuring review in ways that override the user's potentially misleading felt sense of learning progress.
+> The learner's prospective assessment of their own memory state — how well they believe they will remember a piece of information relative to how well they actually will. Research consistently demonstrates that people are systematically miscalibrated: they tend to overestimate how well they will remember material they have recently re-read (the [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]) and underestimate the future value of effortful retrieval practice. This miscalibration has direct consequences for study behavior: people choose passive re-reading over active recall because re-reading feels more productive, even though the science shows the opposite. For PKB design: the system must compensate for predictable metacognitive errors by structuring review in ways that override the user's potentially misleading felt sense of learning progress.
 
 *Source: Flavell, 1979; Koriat, 1997*
 
@@ -123,7 +123,7 @@ importance: high
 > **Why PKB Users Cannot Trust Their Intuitions About Review**: The metacognitive monitoring literature suggests a deeply uncomfortable conclusion: PKB users cannot reliably trust their felt sense of learning progress as a guide to review behavior. The experiences that signal "I've learned this well" — fluent re-reading, familiar material, smooth navigation — are systematically misleading indicators of durable retention. The experiences that signal "I'm struggling" — effortful recall, errors,…
 
 > [!analytical-insight] Key Insight
-> **The Central Diagnostic of PKB Failure**: Most personal knowledge bases fail to produce durable, accessible, transferable knowledge not because of poor organization, inadequate linking, or insufficient capture — but because they lack systematic [[Retrieval Practice]]. They are designed around passive re-reading as the primary mode of "review," which is precisely the review mode that decades of memory science has identified as the least effective for strengthening long-term retention. This is…
+> **The Central Diagnostic of PKB Failure**: Most personal knowledge bases fail to produce durable, accessible, transferable knowledge not because of poor organization, inadequate linking, or insufficient capture — but because they lack systematic [[Retrieval-Practice|Retrieval Practice]]. They are designed around passive re-reading as the primary mode of "review," which is precisely the review mode that decades of memory science has identified as the least effective for strengthening long-term retention. This is…
 
 > [!analytical-insight] Key Insight
 > **The Illusion of Competence in PKB Review**: The temporal reversal in the testing effect research — where re-study wins immediately but loses dramatically after a delay — exposes what cognitive psychologists call the "illusion of competence." Re-reading a note produces a feeling of fluency: the material seems familiar, comprehension is easy, and the reader feels they "know" it. But this fluency is the result of recognition cues *in the text* — not durable memory for the content. Remove the…
@@ -158,16 +158,16 @@ importance: high
 > This surfaces notes due for review, oldest-overdue first — systematically counteracting recency bias by making the most-forgotten notes the most salient for review action.
 
 > [!warning] **Key Distinction**
-> Implementing spaced repetition in a PKB through flashcard-style review risks over-atomizing knowledge — reducing complex, interconnected understanding to discrete retrievable items that can be recalled in isolation but not integrated in application. The [[Testing Effect]] is powerful, but it is most powerful when the retrieval cues and practice conditions match intended application contexts. A PKB designed entirely around SRS for factual recall may produce excellent performance on isolated…
+> Implementing spaced repetition in a PKB through flashcard-style review risks over-atomizing knowledge — reducing complex, interconnected understanding to discrete retrievable items that can be recalled in isolation but not integrated in application. The [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] is powerful, but it is most powerful when the retrieval cues and practice conditions match intended application contexts. A PKB designed entirely around SRS for factual recall may produce excellent performance on isolated…
 
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Forgetting Curve]]
-- [[Encoding Specificity]]
-- [[Spacing Effect]]
-- [[Testing Effect]]
-- [[Judgment of Learning]]
+- [[Forgetting-Curve|Forgetting Curve]]
+- [[Encoding-Specificity|Encoding Specificity]]
+- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
 
 **Related concepts:**
-[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] · [[02-architecture-of-learning-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-as-pkm-practice-pkm-framework]] · [[09-designing-the-learning-pkb-pkm-framework]] · [[12-the-reflective-pkb-pkm-framework]] · [[16-desirable-difficulties-by-design-pkm-framework]] · [[20-retrieval-enhanced-knowledge-networks-pkm-framework]] · [[Accommodation]] · [[Blocking]] · [[Cognitive Conflict]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Consolidation]] · [[Desirable Difficulties]]
+[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] · [[02-architecture-of-learning-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-as-pkm-practice-pkm-framework]] · [[09-designing-the-learning-pkb-pkm-framework]] · [[12-the-reflective-pkb-pkm-framework]] · [[16-desirable-difficulties-by-design-pkm-framework]] · [[20-retrieval-enhanced-knowledge-networks-pkm-framework]] · [[Accommodation]] · [[Blocking]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Consolidation]] · [[Desirable-Difficulties|Desirable Difficulties]]

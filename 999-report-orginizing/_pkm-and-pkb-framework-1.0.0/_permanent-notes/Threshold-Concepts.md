@@ -58,16 +58,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Knowledge Integration]]"
-  - "[[Conceptual Change]]"
-  - "[[Small-World Networks]]"
-  - "[[Betweenness Centrality]]"
-  - "[[Strength of Weak Ties]]"
-  - "[[Threshold Concepts]]"
-  - "[[Inert Knowledge]]"
-  - "[[Ontological Category Shifts]]"
-  - "[[Progressive Differentiation]]"
-  - "[[Integrative Reconciliation]]"
+  - "[[Knowledge-Integration|Knowledge Integration]]"
+  - "[[Conceptual-Change|Conceptual Change]]"
+  - "[[Small-World-Networks|Small-World Networks]]"
+  - "[[Betweenness-Centrality|Betweenness Centrality]]"
+  - "[[Strength-of-Weak-Ties|Strength of Weak Ties]]"
+  - "[[Threshold-Concepts|Threshold Concepts]]"
+  - "[[Inert-Knowledge|Inert Knowledge]]"
+  - "[[Ontological-Category-Shifts|Ontological Category Shifts]]"
+  - "[[Progressive-Differentiation|Progressive Differentiation]]"
+  - "[[Integrative-Reconciliation|Integrative Reconciliation]]"
 
 broader:
   - "[[]]"
@@ -76,14 +76,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Active Note-Making]]"
-  - "[[Alfred North Whitehead]]"
-  - "[[Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
-  - "[[Assimilation and Accommodation]]"
-  - "[[Cognitive Alignment Principle]]"
-  - "[[Cognitive Flexibility Theory and PKB Multi-Representational Design]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Collins and Loftus]]"
+  - "[[Active-Note-Making|Active Note-Making]]"
+  - "[[Alfred-North-Whitehead|Alfred North Whitehead]]"
+  - "[[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
+  - "[[Assimilation-and-Accommodation|Assimilation and Accommodation]]"
+  - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
+  - "[[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Collins-and-Loftus|Collins and Loftus]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -116,7 +116,7 @@ importance: high
 # Threshold Concepts
 
 > [!definition] **Threshold Concepts**
-> A class of concepts, identified by [[Jan Meyer]] and [[Ray Land]] in 2003, that function as portals through which learners must pass to develop disciplinary understanding — and which, once grasped, fundamentally transform how the learner perceives their entire domain. [[Threshold Concepts]] are *transformative* (they change the learner's conceptual landscape irreversibly), *integrative* (they reveal previously hidden connections among other concepts), *bounded* (they help define the borders of a disciplinary perspective), *troublesome* (they are cognitively counter-intuitive, complex, or alien to the learner's prior experience), and often *irreversible* (once understood, it is difficult to unlearn them or to re-experience the pre-threshold perspective). The concept of opportunity cost in economics, of limit in calculus, of natural selection in biology — these are threshold concepts. In a PKB, threshold concepts are integration nodes: their full comprehension produces cascading reorganization of neighboring conceptual territory.
+> A class of concepts, identified by [[Jan Meyer]] and [[Ray Land]] in 2003, that function as portals through which learners must pass to develop disciplinary understanding — and which, once grasped, fundamentally transform how the learner perceives their entire domain. [[Threshold-Concepts|Threshold Concepts]] are *transformative* (they change the learner's conceptual landscape irreversibly), *integrative* (they reveal previously hidden connections among other concepts), *bounded* (they help define the borders of a disciplinary perspective), *troublesome* (they are cognitively counter-intuitive, complex, or alien to the learner's prior experience), and often *irreversible* (once understood, it is difficult to unlearn them or to re-experience the pre-threshold perspective). The concept of opportunity cost in economics, of limit in calculus, of natural selection in biology — these are threshold concepts. In a PKB, threshold concepts are integration nodes: their full comprehension produces cascading reorganization of neighboring conceptual territory.
 
 ## Core Explanation
 
@@ -146,4 +146,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Active Note-Making]] · [[Alfred North Whitehead]] · [[Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Assimilation and Accommodation]] · [[Betweenness Centrality]] · [[Boundary Objects]] · [[Cognitive Alignment Principle]] · [[Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Cognitive Psychology]] · [[Collins and Loftus]] · [[Conceptual Change]] · [[Critical Thinking]] · [[David Ausubel]] · [[Duncan Watts]] · [[Educational Psychology]]
+[[Active-Note-Making|Active Note-Making]] · [[Alfred-North-Whitehead|Alfred North Whitehead]] · [[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Assimilation-and-Accommodation|Assimilation and Accommodation]] · [[Betweenness-Centrality|Betweenness Centrality]] · [[Boundary-Objects|Boundary Objects]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collins-and-Loftus|Collins and Loftus]] · [[Conceptual-Change|Conceptual Change]] · [[Critical-Thinking|Critical Thinking]] · [[David-Ausubel|David Ausubel]] · [[Duncan-Watts|Duncan Watts]] · [[Educational-Psychology|Educational Psychology]]

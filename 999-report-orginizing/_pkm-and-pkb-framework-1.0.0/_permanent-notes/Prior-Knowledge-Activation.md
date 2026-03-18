@@ -69,13 +69,13 @@ narrower:
 
 see-also:
   - "[[Accommodation]]"
-  - "[[Advance Organizer]]"
-  - "[[Advance Organizers and the Architecture of the PKB Epitome]]"
-  - "[[Charles Reigeluth]]"
-  - "[[Chess Schemas]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Conceptual Change Theory]]"
+  - "[[Advance-Organizer|Advance Organizer]]"
+  - "[[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]]"
+  - "[[Charles-Reigeluth|Charles Reigeluth]]"
+  - "[[Chess-Schemas|Chess Schemas]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -94,13 +94,13 @@ expansion-topics:
   - topic: "[[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]"
     description: "The direct implementation of this report's theoretical framework: Report 17 translates the Schema-Pr"
     priority: medium
-  - topic: "[[Conceptual Change Theory and PKB Design]]"
-    description: "[[Conceptual Change Theory]] (Posner et al. 1982; Chi 2008) extends the constructivist account of ac"
+  - topic: "[[Conceptual-Change-Theory-and-PKB-Design|Conceptual Change Theory and PKB Design]]"
+    description: "[[Conceptual-Change-Theory|Conceptual Change Theory]] (Posner et al. 1982; Chi 2008) extends the constructivist account of ac"
     priority: medium
-  - topic: "[[Advance Organizers and the Architecture of the PKB Epitome]]"
-    description: "[[David Ausubel]]'s advance organizer research provides additional empirical grounding for the epito"
+  - topic: "[[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]]"
+    description: "[[David-Ausubel|David Ausubel]]'s advance organizer research provides additional empirical grounding for the epito"
     priority: medium
-  - topic: "[[Social Constructivism and the Limitations of Solo PKB Practice]]"
+  - topic: "[[Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice|Social Constructivism and the Limitations of Solo PKB Practice]]"
     description: "[[Vygotsky]]'s social constructivism is underrepresented in this report relative to its importance f"
     priority: medium
 
@@ -147,7 +147,7 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 **Related concepts:**
-[[Accommodation]] · [[Advance Organizer]] · [[Advance Organizers and the Architecture of the PKB Epitome]] · [[Charles Reigeluth]] · [[Chess Schemas]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Conceptual Change Theory]] · [[Conceptual Change Theory and PKB Design]] · [[Constructivism]] · [[Dataview]] · [[David Ausubel]] · [[David Rumelhart]] · [[Desirable Difficulties]] · [[Dewey's Reflective Inquiry]]
+[[Accommodation]] · [[Advance-Organizer|Advance Organizer]] · [[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]] · [[Charles-Reigeluth|Charles Reigeluth]] · [[Chess-Schemas|Chess Schemas]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Conceptual-Change-Theory|Conceptual Change Theory]] · [[Conceptual-Change-Theory-and-PKB-Design|Conceptual Change Theory and PKB Design]] · [[Constructivism]] · [[Dataview]] · [[David-Ausubel|David Ausubel]] · [[David-Rumelhart|David Rumelhart]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]

@@ -67,14 +67,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Cognitive Science]]"
-  - "[[Communities of Practice and the Social Dimension of Tacit Knowledge]]"
-  - "[[Contemplative Practices and Reflective Processing — Mindfulness and PKM]]"
-  - "[[David Kolb]]"
-  - "[[Deliberate Practice Log]]"
-  - "[[Desirable Difficulties]]"
+  - "[[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]]"
+  - "[[Contemplative-Practices-and-Reflective-Processing-—-Mindfulness-and-PKM|Contemplative Practices and Reflective Processing — Mindfulness and PKM]]"
+  - "[[David-Kolb|David Kolb]]"
+  - "[[Deliberate-Practice-Log|Deliberate Practice Log]]"
+  - "[[Desirable-Difficulties|Desirable Difficulties]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -152,4 +152,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Cognitive Psychology]] · [[Cognitive Science]] · [[Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Contemplative Practices and Reflective Processing — Mindfulness and PKM]] · [[David Kolb]] · [[Deliberate Practice Log]] · [[Desirable Difficulties]] · [[Educational Philosophy]] · [[Educational Psychology]] · [[Embodied Cognition]] · [[Encoding Specificity Principle]] · [[Experiential Learning Across Domains — Professional, Academic, and Personal]] · [[Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]] · [[Expertise Reversal Effect]]
+[[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Cognitive-Science|Cognitive Science]] · [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Contemplative-Practices-and-Reflective-Processing-—-Mindfulness-and-PKM|Contemplative Practices and Reflective Processing — Mindfulness and PKM]] · [[David-Kolb|David Kolb]] · [[Deliberate-Practice-Log|Deliberate Practice Log]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]] · [[Embodied-Cognition|Embodied Cognition]] · [[Encoding-Specificity-Principle|Encoding Specificity Principle]] · [[Experiential-Learning-Across-Domains-—-Professional,-Academic,-and-Personal|Experiential Learning Across Domains — Professional, Academic, and Personal]] · [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]

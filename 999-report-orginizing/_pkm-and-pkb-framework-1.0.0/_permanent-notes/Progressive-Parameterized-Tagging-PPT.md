@@ -60,15 +60,15 @@ prerequisites:
 
 related:
   - "[[Taxonomy]]"
-  - "[[Ontology (Knowledge)]]"
+  - "[[Ontology-Knowledge|Ontology (Knowledge)]]"
   - "[[Folksonomy]]"
-  - "[[Faceted Classification]]"
-  - "[[Controlled Vocabulary]]"
-  - "[[Prototype Theory]]"
-  - "[[Basic-Level Categories]]"
-  - "[[SECI Model]]"
-  - "[[Knowledge Externalization]]"
-  - "[[Semantic Networks]]"
+  - "[[Faceted-Classification|Faceted Classification]]"
+  - "[[Controlled-Vocabulary|Controlled Vocabulary]]"
+  - "[[Prototype-Theory|Prototype Theory]]"
+  - "[[Basic-Level-Categories|Basic-Level Categories]]"
+  - "[[SECI-Model|SECI Model]]"
+  - "[[Knowledge-Externalization|Knowledge Externalization]]"
+  - "[[Semantic-Networks|Semantic Networks]]"
 
 broader:
   - "[[]]"
@@ -78,10 +78,10 @@ narrower:
 
 see-also:
   - "[[2024]]"
-  - "[[Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Online Learning]]"
-  - "[[Reflective Practice]]"
+  - "[[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Online-Learning|Online Learning]]"
+  - "[[Reflective-Practice|Reflective Practice]]"
   - "[[Report 01: Foundations of Knowledge Architecture]]"
   - "[[Report 06: The Science of Remembering]]"
   - "[[Report 08: Reflective Practice and Experiential Learning]]"
@@ -157,4 +157,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[2024]] · [[Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]] · [[Cognitive Load Theory]] · [[Faceted Classification]] · [[Online Learning]] · [[Prototype Theory]] · [[Reflective Practice]] · [[Report 01: Foundations of Knowledge Architecture]] · [[Report 06: The Science of Remembering]] · [[Report 08: Reflective Practice and Experiential Learning]] · [[Report 09: Designing the Learning PKB]] · [[Report 10: Scaffolding and Fading]] · [[Report 20: Retrieval-Enhanced Knowledge Networks]] · [[Report 25: The Integration Problem]] · [[SECI Model]]
+[[2024]] · [[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Faceted-Classification|Faceted Classification]] · [[Online-Learning|Online Learning]] · [[Prototype-Theory|Prototype Theory]] · [[Reflective-Practice|Reflective Practice]] · [[Report 01: Foundations of Knowledge Architecture]] · [[Report 06: The Science of Remembering]] · [[Report 08: Reflective Practice and Experiential Learning]] · [[Report 09: Designing the Learning PKB]] · [[Report 10: Scaffolding and Fading]] · [[Report 20: Retrieval-Enhanced Knowledge Networks]] · [[Report 25: The Integration Problem]] · [[SECI-Model|SECI Model]]

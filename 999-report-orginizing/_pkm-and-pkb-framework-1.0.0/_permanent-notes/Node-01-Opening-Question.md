@@ -40,7 +40,7 @@ see-also:
   - "[[Aporia]]"
   - "[[Constructivist-Learning-Environments-CLEs]]"
   - "[[Dewey-Inquiry-Model]]"
-  - "[[Elenchus]]"
+  - "[[Socratic-Method-Elenchus|Elenchus]]"
   - "[[Felt-Difficulty]]"
   - "[[Generative-Learning]]"
   - "[[Inquiry-Node]]"
@@ -68,7 +68,7 @@ importance: medium
 - [[Aporia]]
 - [[Constructivist-Learning-Environments-CLEs]]
 - [[Dewey-Inquiry-Model]]
-- [[Elenchus]]
+- [[Socratic-Method-Elenchus|Elenchus]]
 - [[Felt-Difficulty]]
 - [[Generative-Learning]]
 - [[Inquiry-Node]]

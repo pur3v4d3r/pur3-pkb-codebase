@@ -59,16 +59,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Constructivist Learning Environments]]"
-  - "[[Jonassen CLE Model]]"
-  - "[[Zone of Proximal Development]]"
-  - "[[More Knowledgeable Other]]"
-  - "[[Learning Experience Design]]"
-  - "[[Educational Technology Affordances]]"
-  - "[[Ecological Psychology]]"
-  - "[[Gibson Affordances]]"
-  - "[[Situated Learning]]"
-  - "[[Lave and Wenger Communities of Practice]]"
+  - "[[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]"
+  - "[[Jonassen-CLE-Model|Jonassen CLE Model]]"
+  - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
+  - "[[More-Knowledgeable-Other|More Knowledgeable Other]]"
+  - "[[Learning-Experience-Design|Learning Experience Design]]"
+  - "[[Educational-Technology-Affordances|Educational Technology Affordances]]"
+  - "[[Ecological-Psychology|Ecological Psychology]]"
+  - "[[Gibson-Affordances|Gibson Affordances]]"
+  - "[[Situated-Learning|Situated Learning]]"
+  - "[[Lave-and-Wenger-Communities-of-Practice|Lave and Wenger Communities of Practice]]"
 
 broader:
   - "[[]]"
@@ -77,14 +77,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Assessment Design in the PCLE Context]]"
-  - "[[Cognitive Apprenticeship and PKB Design]]"
-  - "[[Collins, Brown, and Newman]]"
-  - "[[Communities of Practice]]"
-  - "[[Complexity Theory and Emergent Learning Environments]]"
-  - "[[David Jonassen]]"
-  - "[[David Kirsh]]"
-  - "[[Ecological Affordances]]"
+  - "[[Assessment-Design-in-the-PCLE-Context|Assessment Design in the PCLE Context]]"
+  - "[[Cognitive-Apprenticeship-and-PKB-Design|Cognitive Apprenticeship and PKB Design]]"
+  - "[[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]]"
+  - "[[Communities-of-Practice|Communities of Practice]]"
+  - "[[Complexity-Theory-and-Emergent-Learning-Environments|Complexity Theory and Emergent Learning Environments]]"
+  - "[[David-Jonassen|David Jonassen]]"
+  - "[[David-Kirsh|David Kirsh]]"
+  - "[[Ecological-Affordances|Ecological Affordances]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -147,4 +147,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Activity Theory]] · [[Assessment Design in the PCLE Context]] · [[Cognitive Apprenticeship]] · [[Cognitive Apprenticeship and PKB Design]] · [[Cognitive Tools]] · [[Collins, Brown, and Newman]] · [[Communities of Practice]] · [[Complexity Theory and Emergent Learning Environments]] · [[Constructivist Learning Environments]] · [[David Jonassen]] · [[David Kirsh]] · [[Ecological Affordances]] · [[Ecological Psychology]] · [[Educational Technology Affordances]] · [[Encoding Variability]]
+[[Activity-Theory|Activity Theory]] · [[Assessment-Design-in-the-PCLE-Context|Assessment Design in the PCLE Context]] · [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] · [[Cognitive-Apprenticeship-and-PKB-Design|Cognitive Apprenticeship and PKB Design]] · [[Cognitive-Tools|Cognitive Tools]] · [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]] · [[Communities-of-Practice|Communities of Practice]] · [[Complexity-Theory-and-Emergent-Learning-Environments|Complexity Theory and Emergent Learning Environments]] · [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] · [[David-Jonassen|David Jonassen]] · [[David-Kirsh|David Kirsh]] · [[Ecological-Affordances|Ecological Affordances]] · [[Ecological-Psychology|Ecological Psychology]] · [[Educational-Technology-Affordances|Educational Technology Affordances]] · [[Encoding-Variability|Encoding Variability]]

@@ -73,8 +73,8 @@ see-also:
   - "[[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]]"
   - "[[10-scaffolding-and-fading-pkm-framework-2026-03-14]]"
   - "[[11-transfer-problem-pkm-framework-2026-03-14]]"
-  - "[[Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
-  - "[[Anomalous Data]]"
+  - "[[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
+  - "[[Anomalous-Data|Anomalous Data]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -169,10 +169,10 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Cognitive Disequilibrium]]
+- [[Cognitive-Disequilibrium|Cognitive Disequilibrium]]
 
 **Cross-report connections:**
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 
 **Related concepts:**
-[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]] · [[Anomalous Data]] · [[Antithesis]] · [[Aporia-to-Schema Pipeline]] · [[Argument Mapping]] · [[Argumentation Theory]] · [[Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]] · [[Aufhebung]]
+[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]] · [[Anomalous-Data|Anomalous Data]] · [[Antithesis]] · [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]] · [[Argument-Mapping|Argument Mapping]] · [[Argumentation-Theory|Argumentation Theory]] · [[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]] · [[Aufhebung]]

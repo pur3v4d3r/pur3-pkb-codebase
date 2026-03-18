@@ -67,14 +67,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Anderson et al. (1994)]]"
-  - "[[Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]"
-  - "[[Cognitive Psychology]]"
-  - "[[David Rumelhart]]"
-  - "[[Desirable Difficulties]]"
-  - "[[Educational Psychology]]"
-  - "[[Elaborative Interrogation]]"
-  - "[[Fluency Illusion]]"
+  - "[[Anderson-et-al.-1994|Anderson et al. (1994)]]"
+  - "[[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[David-Rumelhart|David Rumelhart]]"
+  - "[[Desirable-Difficulties|Desirable Difficulties]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
+  - "[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -101,7 +101,7 @@ importance: high
 # Elaborative Retrieval
 
 > [!definition] **Elaborative Retrieval**
-> A retrieval strategy in which the learner, rather than simply attempting to recall a stored representation verbatim, actively generates *connections* between the retrieved material and other knowledge — asking "why is this true?", "what does this connect to?", "what are the implications of this?", and "how does this relate to what I know about X?" Elaborative retrieval combines the pathway-strengthening benefit of active retrieval with the network-expansion benefit of elaborative encoding: it does not merely traverse existing associative pathways but creates *new* ones, expanding the network's capacity to retrieve the same knowledge through multiple routes. The [[Elaborative Interrogation]] technique (Pressley et al., 1992) is the instructional design implementation of this principle.
+> A retrieval strategy in which the learner, rather than simply attempting to recall a stored representation verbatim, actively generates *connections* between the retrieved material and other knowledge — asking "why is this true?", "what does this connect to?", "what are the implications of this?", and "how does this relate to what I know about X?" Elaborative retrieval combines the pathway-strengthening benefit of active retrieval with the network-expansion benefit of elaborative encoding: it does not merely traverse existing associative pathways but creates *new* ones, expanding the network's capacity to retrieve the same knowledge through multiple routes. The [[Elaborative-Interrogation|Elaborative Interrogation]] technique (Pressley et al., 1992) is the instructional design implementation of this principle.
 
 *Source: Anderson & Reder, 1979; Weinstein & Mayer, 1986*
 
@@ -154,4 +154,4 @@ importance: high
 - [[wiki-links]]
 
 **Related concepts:**
-[[Anderson et al. (1994)]] · [[Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]] · [[Cognitive Psychology]] · [[David Rumelhart]] · [[Desirable Difficulties]] · [[Educational Psychology]] · [[Elaborative Interrogation]] · [[Fluency Illusion]] · [[Instructional Design]] · [[Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]] · [[Knowledge Graph Analytics for PKB Health Assessment]] · [[Koriat and Bjork (2005)]] · [[Memory Reconsolidation]] · [[Metacognition]]
+[[Anderson-et-al.-1994|Anderson et al. (1994)]] · [[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[David-Rumelhart|David Rumelhart]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Educational-Psychology|Educational Psychology]] · [[Elaborative-Interrogation|Elaborative Interrogation]] · [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] · [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] · [[Interleaving-in-Knowledge-Review-—-The-Case-for-Anti-Topic-Clustering|Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]] · [[Knowledge-Graph-Analytics-for-PKB-Health-Assessment|Knowledge Graph Analytics for PKB Health Assessment]] · [[Koriat-and-Bjork-2005|Koriat and Bjork (2005)]] · [[Memory-Reconsolidation|Memory Reconsolidation]] · [[Metacognition]]

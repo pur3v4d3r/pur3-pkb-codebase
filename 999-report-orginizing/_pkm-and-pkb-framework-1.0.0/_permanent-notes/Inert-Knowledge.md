@@ -58,16 +58,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Knowledge Integration]]"
-  - "[[Conceptual Change]]"
-  - "[[Small-World Networks]]"
-  - "[[Betweenness Centrality]]"
-  - "[[Strength of Weak Ties]]"
-  - "[[Threshold Concepts]]"
-  - "[[Inert Knowledge]]"
-  - "[[Ontological Category Shifts]]"
-  - "[[Progressive Differentiation]]"
-  - "[[Integrative Reconciliation]]"
+  - "[[Knowledge-Integration|Knowledge Integration]]"
+  - "[[Conceptual-Change|Conceptual Change]]"
+  - "[[Small-World-Networks|Small-World Networks]]"
+  - "[[Betweenness-Centrality|Betweenness Centrality]]"
+  - "[[Strength-of-Weak-Ties|Strength of Weak Ties]]"
+  - "[[Threshold-Concepts|Threshold Concepts]]"
+  - "[[Inert-Knowledge|Inert Knowledge]]"
+  - "[[Ontological-Category-Shifts|Ontological Category Shifts]]"
+  - "[[Progressive-Differentiation|Progressive Differentiation]]"
+  - "[[Integrative-Reconciliation|Integrative Reconciliation]]"
 
 broader:
   - "[[]]"
@@ -76,14 +76,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Active Note-Making]]"
-  - "[[Alan Baddeley]]"
-  - "[[Alfred North Whitehead]]"
-  - "[[Allan Collins]]"
-  - "[[Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]]"
-  - "[[Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
-  - "[[Analogical Transfer]]"
-  - "[[Assimilation and Accommodation]]"
+  - "[[Active-Note-Making|Active Note-Making]]"
+  - "[[Alan-Baddeley|Alan Baddeley]]"
+  - "[[Alfred-North-Whitehead|Alfred North Whitehead]]"
+  - "[[Allan-Collins|Allan Collins]]"
+  - "[[Analogical-Reasoning-Training-for-PKM-—-Cultivating-the-Far-Transfer-Muscle|Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]]"
+  - "[[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
+  - "[[Analogical-Transfer|Analogical Transfer]]"
+  - "[[Assimilation-and-Accommodation|Assimilation and Accommodation]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -116,7 +116,7 @@ importance: high
 # Inert Knowledge
 
 > [!definition] **Inert Knowledge**
-> [[Alfred North Whitehead]]'s 1929 concept of knowledge that learners possess in the sense that they can reproduce it accurately in test conditions, but cannot apply, transfer, or productively use in novel contexts. [[Inert Knowledge]] is correctly stored but incorrectly integrated — it exists as an isolated proposition rather than as a node in a functional network of related ideas. Whitehead diagnosed inert knowledge as the characteristic failure mode of formal education that presents "knowledge in disconnected fragments." A PKB full of accurately captured but insufficiently connected notes is, at scale, a systematic producer of inert knowledge.
+> [[Alfred-North-Whitehead|Alfred North Whitehead]]'s 1929 concept of knowledge that learners possess in the sense that they can reproduce it accurately in test conditions, but cannot apply, transfer, or productively use in novel contexts. [[Inert-Knowledge|Inert Knowledge]] is correctly stored but incorrectly integrated — it exists as an isolated proposition rather than as a node in a functional network of related ideas. Whitehead diagnosed inert knowledge as the characteristic failure mode of formal education that presents "knowledge in disconnected fragments." A PKB full of accurately captured but insufficiently connected notes is, at scale, a systematic producer of inert knowledge.
 
 *Source: (defined across 2 reports)*
 
@@ -148,4 +148,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Active Note-Making]] · [[Alan Baddeley]] · [[Alfred North Whitehead]] · [[Allan Collins]] · [[Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]] · [[Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Analogical Transfer]] · [[Assimilation and Accommodation]] · [[Betweenness Centrality]] · [[Boundary Objects]] · [[Cognitive Alignment Principle]] · [[Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Cognitive Psychology]] · [[Collins and Loftus]] · [[Collins, Brown & Newman]]
+[[Active-Note-Making|Active Note-Making]] · [[Alan-Baddeley|Alan Baddeley]] · [[Alfred-North-Whitehead|Alfred North Whitehead]] · [[Allan-Collins|Allan Collins]] · [[Analogical-Reasoning-Training-for-PKM-—-Cultivating-the-Far-Transfer-Muscle|Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]] · [[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Analogical-Transfer|Analogical Transfer]] · [[Assimilation-and-Accommodation|Assimilation and Accommodation]] · [[Betweenness-Centrality|Betweenness Centrality]] · [[Boundary-Objects|Boundary Objects]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collins-and-Loftus|Collins and Loftus]] · [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Collins, Brown & Newman]]

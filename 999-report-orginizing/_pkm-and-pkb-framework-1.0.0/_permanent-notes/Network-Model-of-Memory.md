@@ -68,14 +68,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Anderson et al. (1994)]]"
-  - "[[Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]"
-  - "[[Cognitive Psychology]]"
-  - "[[David Rumelhart]]"
-  - "[[Desirable Difficulties]]"
-  - "[[Educational Psychology]]"
-  - "[[Elaborative Interrogation]]"
-  - "[[Elaborative Retrieval]]"
+  - "[[Anderson-et-al.-1994|Anderson et al. (1994)]]"
+  - "[[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[David-Rumelhart|David Rumelhart]]"
+  - "[[Desirable-Difficulties|Desirable Difficulties]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Elaborative-Interrogation|Elaborative Interrogation]]"
+  - "[[Elaborative-Retrieval|Elaborative Retrieval]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -155,4 +155,4 @@ importance: high
 - [[wiki-links]]
 
 **Related concepts:**
-[[Anderson et al. (1994)]] · [[Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]] · [[Cognitive Psychology]] · [[David Rumelhart]] · [[Desirable Difficulties]] · [[Educational Psychology]] · [[Elaborative Interrogation]] · [[Elaborative Retrieval]] · [[Fluency Illusion]] · [[Instructional Design]] · [[Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]] · [[Knowledge Graph Analytics for PKB Health Assessment]] · [[Koriat and Bjork (2005)]] · [[Memory Reconsolidation]] · [[Metacognition]]
+[[Anderson-et-al.-1994|Anderson et al. (1994)]] · [[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[David-Rumelhart|David Rumelhart]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Educational-Psychology|Educational Psychology]] · [[Elaborative-Interrogation|Elaborative Interrogation]] · [[Elaborative-Retrieval|Elaborative Retrieval]] · [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] · [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] · [[Interleaving-in-Knowledge-Review-—-The-Case-for-Anti-Topic-Clustering|Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]] · [[Knowledge-Graph-Analytics-for-PKB-Health-Assessment|Knowledge Graph Analytics for PKB Health Assessment]] · [[Koriat-and-Bjork-2005|Koriat and Bjork (2005)]] · [[Memory-Reconsolidation|Memory Reconsolidation]] · [[Metacognition]]

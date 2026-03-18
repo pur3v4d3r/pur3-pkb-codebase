@@ -69,14 +69,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Achievement Goal Theory]]"
-  - "[[Assessment Design]]"
-  - "[[Autonomous Motivation]]"
-  - "[[Autonomy Need]]"
-  - "[[Basic Psychological Needs]]"
-  - "[[Cognitive Evaluation Theory]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Competence Need]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
+  - "[[Assessment-Design|Assessment Design]]"
+  - "[[Autonomous-Motivation|Autonomous Motivation]]"
+  - "[[Autonomy-Need|Autonomy Need]]"
+  - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
+  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Competence-Need|Competence Need]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -107,7 +107,7 @@ importance: high
 # Growth Mindset / Implicit Theories of Intelligence
 
 > [!definition] **Growth Mindset / Implicit Theories of Intelligence**
-> Carol Dweck's research program on "implicit theories" of intelligence identifies two contrasting lay theories: the **[[Fixed Mindset]]** view that intelligence is a fixed entity (entity theory) — one has a certain amount and tasks reveal how much; and the **[[Growth Mindset]]** view that intelligence is malleable and developable through effort (incremental theory). Dweck's research shows these implicit theories predict distinct motivational and behavioral patterns: fixed-mindset individuals tend to avoid challenges, give up more quickly after failure, and interpret effort as evidence of low ability; growth-mindset individuals tend to embrace challenges, persist through failure, and interpret effort as the mechanism of growth. The boundary condition: the relationship between mindset beliefs and behavior is moderated by numerous contextual and individual factors; the pathway from belief to behavior is not as direct as popularized accounts suggest. Recent replication research has found more modest effect sizes than original studies reported.
+> Carol Dweck's research program on "implicit theories" of intelligence identifies two contrasting lay theories: the **[[Fixed Mindset]]** view that intelligence is a fixed entity (entity theory) — one has a certain amount and tasks reveal how much; and the **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** view that intelligence is malleable and developable through effort (incremental theory). Dweck's research shows these implicit theories predict distinct motivational and behavioral patterns: fixed-mindset individuals tend to avoid challenges, give up more quickly after failure, and interpret effort as evidence of low ability; growth-mindset individuals tend to embrace challenges, persist through failure, and interpret effort as the mechanism of growth. The boundary condition: the relationship between mindset beliefs and behavior is moderated by numerous contextual and individual factors; the pathway from belief to behavior is not as direct as popularized accounts suggest. Recent replication research has found more modest effect sizes than original studies reported.
 
 *Source: Educational Psychology*
 
@@ -139,13 +139,13 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Self-Determination Theory]]
-- [[Autonomous Motivation]]
-- [[Stoic Philosophy]]
-- [[Dichotomy of Control]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Autonomous-Motivation|Autonomous Motivation]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
+- [[Dichotomy-of-Control|Dichotomy of Control]]
 
 **Cross-report connections:**
 - [[Constructivism]]
 
 **Related concepts:**
-[[Achievement Goal Theory]] · [[Assessment Design]] · [[Autonomous Motivation]] · [[Autonomy Need]] · [[Basic Psychological Needs]] · [[Cognitive Evaluation Theory]] · [[Cognitive Psychology]] · [[Competence Need]] · [[Constructivism]] · [[Controlled Motivation]] · [[Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]] · [[Dichotomy of Control]] · [[Educational Psychology]] · [[Emotional Regulation and Academic Emotions in PKB Practice]] · [[Feedback Design]]
+[[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Assessment-Design|Assessment Design]] · [[Autonomous-Motivation|Autonomous Motivation]] · [[Autonomy-Need|Autonomy Need]] · [[Basic-Psychological-Needs|Basic Psychological Needs]] · [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Competence-Need|Competence Need]] · [[Constructivism]] · [[Controlled-Motivation|Controlled Motivation]] · [[Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat|Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]] · [[Dichotomy-of-Control|Dichotomy of Control]] · [[Educational-Psychology|Educational Psychology]] · [[Emotional-Regulation-and-Academic-Emotions-in-PKB-Practice|Emotional Regulation and Academic Emotions in PKB Practice]] · [[Feedback-Design|Feedback Design]]

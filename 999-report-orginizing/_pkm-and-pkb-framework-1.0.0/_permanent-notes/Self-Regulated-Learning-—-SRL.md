@@ -69,14 +69,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[AI-Assisted Calibration Testing in PKB Systems]]"
-  - "[[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
-  - "[[Argyris and Schön]]"
-  - "[[Arnold and Pistilli]]"
-  - "[[Barry Zimmerman]]"
-  - "[[Black and Wiliam]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Psychology]]"
+  - "[[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]]"
+  - "[[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
+  - "[[Argyris-and-Schön|Argyris and Schön]]"
+  - "[[Arnold-and-Pistilli|Arnold and Pistilli]]"
+  - "[[Barry-Zimmerman|Barry Zimmerman]]"
+  - "[[Black-and-Wiliam|Black and Wiliam]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -102,7 +102,7 @@ expansion-topics:
   - topic: "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]"
     description: "Extends the calibration theme from learning contexts into the broader epistemic domain. Addresses ho"
     priority: medium
-  - topic: "[[Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]"
+  - topic: "[[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]"
     description: "While this report establishes that monitoring accuracy is the critical variable and identifies speci"
     priority: medium
 
@@ -152,4 +152,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[AI-Assisted Calibration Testing in PKB Systems]] · [[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Argyris and Schön]] · [[Arnold and Pistilli]] · [[Barry Zimmerman]] · [[Black and Wiliam]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Collective Feedback: PKM in Community Contexts]] · [[Complex Adaptive Systems]] · [[Cybernetics]] · [[Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]] · [[Desirable Difficulties]] · [[Donald Schön]] · [[Double-Loop Learning]]
+[[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]] · [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Argyris-and-Schön|Argyris and Schön]] · [[Arnold-and-Pistilli|Arnold and Pistilli]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Black-and-Wiliam|Black and Wiliam]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]] · [[Complex-Adaptive-Systems|Complex Adaptive Systems]] · [[Cybernetics]] · [[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Donald-Schön|Donald Schön]] · [[Double-Loop-Learning|Double-Loop Learning]]

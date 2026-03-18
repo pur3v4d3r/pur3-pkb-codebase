@@ -70,12 +70,12 @@ narrower:
 
 see-also:
   - "[[Aporia]]"
-  - "[[Argument Mapping]]"
-  - "[[Availability Heuristic]]"
-  - "[[Cognitive Bias]]"
-  - "[[Cognitive Conflict]]"
-  - "[[Cognitive Miser]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Argument-Mapping|Argument Mapping]]"
+  - "[[Availability-Heuristic|Availability Heuristic]]"
+  - "[[Cognitive-Bias|Cognitive Bias]]"
+  - "[[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]"
+  - "[[Cognitive-Miser|Cognitive Miser]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Constructivist]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -107,7 +107,7 @@ importance: high
 # Confirmation Bias / Myside Bias
 
 > [!definition] **Confirmation Bias / Myside Bias**
-> The systematic tendency to seek, interpret, remember, and favor information that confirms or supports existing beliefs, and to discount, dismiss, or avoid information that challenges them. Nickerson's (1998) comprehensive review established confirmation bias as among the most robust phenomena in cognitive psychology. Stanovich's (2011, 2016) refinement distinguishes [[Myside Bias]] — the tendency to generate and evaluate evidence from one's own perspective — as particularly important because it operates even in highly intelligent individuals and is not reduced by higher cognitive ability alone. This is the key finding: myside bias is *not* a failure of intelligence but a failure of the disposition to apply intelligence evenhandedly. Boundary condition: myside bias is strongest in domains where the person has strong prior beliefs and emotional investment — which is exactly the characteristic of the domains PKB users typically care most about.
+> The systematic tendency to seek, interpret, remember, and favor information that confirms or supports existing beliefs, and to discount, dismiss, or avoid information that challenges them. Nickerson's (1998) comprehensive review established confirmation bias as among the most robust phenomena in cognitive psychology. Stanovich's (2011, 2016) refinement distinguishes [[Confirmation-Bias-Myside-Bias|Myside Bias]] — the tendency to generate and evaluate evidence from one's own perspective — as particularly important because it operates even in highly intelligent individuals and is not reduced by higher cognitive ability alone. This is the key finding: myside bias is *not* a failure of intelligence but a failure of the disposition to apply intelligence evenhandedly. Boundary condition: myside bias is strongest in domains where the person has strong prior beliefs and emotional investment — which is exactly the characteristic of the domains PKB users typically care most about.
 
 ## Core Explanation
 
@@ -142,9 +142,9 @@ importance: high
 **Cross-report connections:**
 - [[Constructivist]]
 - [[Disequilibration]]
-- [[Productive Failure]]
-- [[Cognitive Conflict]]
+- [[Productive-Failure|Productive Failure]]
+- [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
 - [[Aporia]]
 
 **Related concepts:**
-[[Aporia]] · [[Argument Mapping]] · [[Availability Heuristic]] · [[Cognitive Bias]] · [[Cognitive Conflict]] · [[Cognitive Miser]] · [[Cognitive Psychology]] · [[Constructivist]] · [[Critical Thinking]] · [[Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dual-Process Theory]] · [[Dysrationalia]] · [[Educational Philosophy]] · [[Epistemic Injustice and Whose Knowledge Gets Stored]]
+[[Aporia]] · [[Argument-Mapping|Argument Mapping]] · [[Availability-Heuristic|Availability Heuristic]] · [[Cognitive-Bias|Cognitive Bias]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Miser|Cognitive Miser]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Constructivist]] · [[Critical-Thinking|Critical Thinking]] · [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Dysrationalia]] · [[Educational-Philosophy|Educational Philosophy]] · [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]

@@ -67,14 +67,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[AI-Assisted Calibration Testing in PKB Systems]]"
-  - "[[Argyris and Schön]]"
-  - "[[Arnold and Pistilli]]"
-  - "[[Barry Zimmerman]]"
-  - "[[Black and Wiliam]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Collective Feedback: PKM in Community Contexts]]"
-  - "[[Complex Adaptive Systems]]"
+  - "[[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]]"
+  - "[[Argyris-and-Schön|Argyris and Schön]]"
+  - "[[Arnold-and-Pistilli|Arnold and Pistilli]]"
+  - "[[Barry-Zimmerman|Barry Zimmerman]]"
+  - "[[Black-and-Wiliam|Black and Wiliam]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]]"
+  - "[[Complex-Adaptive-Systems|Complex Adaptive Systems]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -92,16 +92,16 @@ enables:
   - "[[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]"
 
 expansion-topics:
-  - topic: "[[AI-Assisted Calibration Testing in PKB Systems]]"
+  - topic: "[[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]]"
     description: "Explores how conversational AI systems can serve as dialogic testing partners — generating novel app"
     priority: medium
-  - topic: "[[Obsidian Plugin Architecture for Feedback Systems]]"
+  - topic: "[[Obsidian-Plugin-Architecture-for-Feedback-Systems|Obsidian Plugin Architecture for Feedback Systems]]"
     description: "A practical implementation report addressing the technical infrastructure required for PKB feedback "
     priority: medium
-  - topic: "[[Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]]"
+  - topic: "[[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]]"
     description: "Extends the Argyris and Schön double-loop learning analysis to examine how PKBs can become instrumen"
     priority: medium
-  - topic: "[[Network Analysis Tools for PKB Structural Feedback]]"
+  - topic: "[[Network-Analysis-Tools-for-PKB-Structural-Feedback|Network Analysis Tools for PKB Structural Feedback]]"
     description: "Examines how graph-theoretic analysis of PKB network structure can generate macro-level feedback sig"
     priority: medium
 
@@ -121,7 +121,7 @@ importance: high
 ## Core Explanation
 
 > [!evidence] Supporting Evidence
-> **The Feedback Timing Paradox (Kornell & Bjork, 2008; Karpicke & Roediger, 2008)**: Educational psychology presents a genuine paradox on the question of feedback timing. Immediate feedback research (summarized by Hattie & Timperley, 2007) shows that feedback close in time to the relevant behavior is processed more effectively — learners can connect the signal to the specific action that generated it. However, [[Desirable Difficulties]] research (Robert Bjork) demonstrates that delayed feedback…
+> **The Feedback Timing Paradox (Kornell & Bjork, 2008; Karpicke & Roediger, 2008)**: Educational psychology presents a genuine paradox on the question of feedback timing. Immediate feedback research (summarized by Hattie & Timperley, 2007) shows that feedback close in time to the relevant behavior is processed more effectively — learners can connect the signal to the specific action that generated it. However, [[Desirable-Difficulties|Desirable Difficulties]] research (Robert Bjork) demonstrates that delayed feedback…
 
 > [!evidence] Supporting Evidence
 > **What the Feedback Timing Literature Suggests for PKB Design**: The immediate-vs.-delayed tension actually resolves differently depending on the *purpose* of the feedback and the *phase* of learning. For error detection during initial learning, immediate feedback is superior — the learner needs to know quickly that their model is wrong before the incorrect representation consolidates. For retrieval practice during review, delayed or absent feedback during the retrieval attempt followed by…
@@ -153,11 +153,11 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Zimmerman's Self-Regulated Learning Cycle]]
+- [[Zimmerman's-Self-Regulated-Learning-Cycle|Zimmerman's Self-Regulated Learning Cycle]]
 
 **Cross-report connections:**
-- [[Donald Schön]]
-- [[Reflective Practitioner]]
+- [[Donald-Schön|Donald Schön]]
+- [[Reflective-Practitioner|Reflective Practitioner]]
 
 **Related concepts:**
-[[AI-Assisted Calibration Testing in PKB Systems]] · [[Argyris and Schön]] · [[Arnold and Pistilli]] · [[Barry Zimmerman]] · [[Black and Wiliam]] · [[Cognitive Load Theory]] · [[Collective Feedback: PKM in Community Contexts]] · [[Complex Adaptive Systems]] · [[Cybernetics]] · [[Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]] · [[Desirable Difficulties]] · [[Donald Schön]] · [[Double-Loop Learning]] · [[Dunning-Kruger effect]] · [[Educational Data Mining]]
+[[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]] · [[Argyris-and-Schön|Argyris and Schön]] · [[Arnold-and-Pistilli|Arnold and Pistilli]] · [[Barry-Zimmerman|Barry Zimmerman]] · [[Black-and-Wiliam|Black and Wiliam]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]] · [[Complex-Adaptive-Systems|Complex Adaptive Systems]] · [[Cybernetics]] · [[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Donald-Schön|Donald Schön]] · [[Double-Loop-Learning|Double-Loop Learning]] · [[Dunning-Kruger-Effect|Dunning-Kruger effect]] · [[Educational-Data-Mining|Educational Data Mining]]

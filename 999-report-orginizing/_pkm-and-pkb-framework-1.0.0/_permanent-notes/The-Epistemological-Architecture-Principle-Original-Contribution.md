@@ -62,13 +62,13 @@ related:
   - "[[Heutagogy]]"
   - "[[Andragogy]]"
   - "[[Pedagogy]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Integrated Regulation]]"
-  - "[[Capability Development]]"
-  - "[[Competency Development]]"
-  - "[[Double-Loop Learning]]"
-  - "[[Single-Loop Learning]]"
-  - "[[Knowledge Ecology]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Integrated-Regulation|Integrated Regulation]]"
+  - "[[Capability-Development|Capability Development]]"
+  - "[[Competency-Development|Competency Development]]"
+  - "[[Double-Loop-Learning|Double-Loop Learning]]"
+  - "[[Single-Loop-Learning|Single-Loop Learning]]"
+  - "[[Knowledge-Ecology|Knowledge Ecology]]"
 
 broader:
   - "[[]]"
@@ -77,12 +77,12 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[AI-Augmented Heutagogy: Affordances and Risks]]"
-  - "[[Autonomy Need]]"
+  - "[[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]"
+  - "[[Autonomy-Need|Autonomy Need]]"
   - "[[Canvas]]"
   - "[[Capability]]"
-  - "[[Capability Documentation: A Theory and Practice of Capability Notes]]"
-  - "[[Competence Need]]"
+  - "[[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]]"
+  - "[[Competence-Need|Competence Need]]"
   - "[[Competency]]"
   - "[[Constructivist-Emergentist]]"
 
@@ -102,16 +102,16 @@ enables:
   - "[[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue in Knowledge Work]]"
 
 expansion-topics:
-  - topic: "[[AI-Augmented Heutagogy: Affordances and Risks]]"
+  - topic: "[[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]]"
     description: "The unresolved question from Phase VI: how do AI tools like Claude change the dynamics of self-deter"
     priority: medium
-  - topic: "[[Transformative Learning Protocols: Designing for Perspective Transformation]]"
+  - topic: "[[Transformative-Learning-Protocols-Designing-for-Perspective-Transformation|Transformative Learning Protocols: Designing for Perspective Transformation]]"
     description: "Mezirow's research shows that perspective transformation is the deepest form of adult learning but r"
     priority: medium
-  - topic: "[[The Collaborative Heutagogical PKB: Solving the Relational Paradox]]"
+  - topic: "[[The-Collaborative-Heutagogical-PKB-Solving-the-Relational-Paradox|The Collaborative Heutagogical PKB: Solving the Relational Paradox]]"
     description: "Blaschke's finding that heutagogical learners consistently seek collaborative dialogue creates an un"
     priority: medium
-  - topic: "[[Capability Documentation: A Theory and Practice of Capability Notes]]"
+  - topic: "[[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]]"
     description: "The capability note type introduced in Phase V requires further development as a practice. What exac"
     priority: medium
 
@@ -153,9 +153,9 @@ importance: high
 > **Pedagogical PKB: Obsidian Implementation**: In Obsidian, a Pedagogical PKB is characterized by: structured folder hierarchies that mirror the domain's established categories (matching the textbook, course, or field's organizational logic); mandatory templates for primary note types (ensuring consistency and completeness against external standards); explicit MOC (Map of Content) notes organized by subject area; and a review workflow focused on comprehension verification against source…
 
 > [!example] **Application**
-> **Andragogical PKB: Obsidian Implementation**: The Andragogical transition in Obsidian is marked by: the emergence of project-based organization alongside or replacing subject-based organization; [[MOC]] notes that are self-generated rather than curriculum-derived; a shift from capture templates to synthesis templates (notes that integrate multiple sources around the learner's own question); growing use of [[Dataview]] queries and graph clusters organized around the learner's current…
+> **Andragogical PKB: Obsidian Implementation**: The Andragogical transition in Obsidian is marked by: the emergence of project-based organization alongside or replacing subject-based organization; [[Maps-of-Content-—-MOCs|MOC]] notes that are self-generated rather than curriculum-derived; a shift from capture templates to synthesis templates (notes that integrate multiple sources around the learner's own question); growing use of [[Dataview]] queries and graph clusters organized around the learner's current…
 
 ## Connections & Context
 
 **Related concepts:**
-[[AI-Augmented Heutagogy: Affordances and Risks]] · [[Andragogy]] · [[Autonomy Need]] · [[Canvas]] · [[Capability]] · [[Capability Development]] · [[Capability Documentation: A Theory and Practice of Capability Notes]] · [[Competence Need]] · [[Competency]] · [[Competency Development]] · [[Constructivist-Emergentist]] · [[Correspondence Theory]] · [[Dataview]] · [[Double-Loop Learning]] · [[External Regulation]]
+[[AI-Augmented-Heutagogy-Affordances-and-Risks|AI-Augmented Heutagogy: Affordances and Risks]] · [[Andragogy]] · [[Autonomy-Need|Autonomy Need]] · [[Canvas]] · [[Capability]] · [[Capability-Development|Capability Development]] · [[Capability-Documentation-A-Theory-and-Practice-of-Capability-Notes|Capability Documentation: A Theory and Practice of Capability Notes]] · [[Competence-Need|Competence Need]] · [[Competency]] · [[Competency-Development|Competency Development]] · [[Constructivist-Emergentist]] · [[Correspondence-Theory|Correspondence Theory]] · [[Dataview]] · [[Double-Loop-Learning|Double-Loop Learning]] · [[External-Regulation|External Regulation]]

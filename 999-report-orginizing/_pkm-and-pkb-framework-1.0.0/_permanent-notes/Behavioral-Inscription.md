@@ -58,16 +58,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Self-Determination Theory]]"
-  - "[[Basic Psychological Needs]]"
-  - "[[Internalization Continuum]]"
-  - "[[Need Satisfaction vs. Need Frustration]]"
-  - "[[Interest Development Theory]]"
-  - "[[Four-Phase Interest Model]]"
-  - "[[Situational Interest]]"
-  - "[[Individual Interest]]"
-  - "[[Triggered Situational Interest]]"
-  - "[[Maintained Situational Interest]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
+  - "[[Internalization-Continuum|Internalization Continuum]]"
+  - "[[Need-Satisfaction-vs.-Need-Frustration|Need Satisfaction vs. Need Frustration]]"
+  - "[[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]"
+  - "[[Four-Phase-Interest-Model|Four-Phase Interest Model]]"
+  - "[[Situational-Interest|Situational Interest]]"
+  - "[[Individual-Interest|Individual Interest]]"
+  - "[[Triggered-Situational-Interest|Triggered Situational Interest]]"
+  - "[[Maintained-Situational-Interest|Maintained Situational Interest]]"
 
 broader:
   - "[[]]"
@@ -76,10 +76,10 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Interest Development Theory: Full Literature Review]]"
-  - "[[Motivational Compounding Model]]"
-  - "[[Narrative Identity Theory and PKB Design — McAdams and Beyound]]"
-  - "[[PKB Habit Architecture: A Practical Design Guide]]"
+  - "[[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory: Full Literature Review]]"
+  - "[[Motivational-Compounding-Model|Motivational Compounding Model]]"
+  - "[[Narrative-Identity-Theory-and-PKB-Design-—-McAdams-and-Beyound|Narrative Identity Theory and PKB Design — McAdams and Beyound]]"
+  - "[[PKB-Habit-Architecture-A-Practical-Design-Guide|PKB Habit Architecture: A Practical Design Guide]]"
   - "[[Report 05]]"
   - "[[Report 05: Motivation Architecture]]"
   - "[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]"
@@ -108,10 +108,10 @@ expansion-topics:
   - topic: "[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]"
     description: "The Motivational Compounding Model depends entirely on feedback loops that make interest deepening, "
     priority: medium
-  - topic: "[[Interest Development Theory: Full Literature Review]]"
+  - topic: "[[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory: Full Literature Review]]"
     description: "A dedicated deep-dive into the full Interest Development Theory literature, including Renninger and "
     priority: medium
-  - topic: "[[PKB Habit Architecture: A Practical Design Guide]]"
+  - topic: "[[PKB-Habit-Architecture-A-Practical-Design-Guide|PKB Habit Architecture: A Practical Design Guide]]"
     description: "A practical companion to this report focused specifically on applying Fogg's Behavior Model, Wood & "
     priority: medium
 
@@ -158,4 +158,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Emerging Individual Interest]] · [[Habit Formation]] · [[Interest Development Theory]] · [[Interest Development Theory: Full Literature Review]] · [[Maintained Situational Interest]] · [[Motivational Compounding Model]] · [[Narrative Identity Theory and PKB Design — McAdams and Beyound]] · [[PKB Habit Architecture: A Practical Design Guide]] · [[Report 05]] · [[Report 05: Motivation Architecture]] · [[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]] · [[Report 06: The Science of Remembering]] · [[Report 08: Reflective Practice and Experiential Learning]] · [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]] · [[Report 13: Emotional Regulation and Resilient Learning]]
+[[Emerging-Individual-Interest|Emerging Individual Interest]] · [[Habit-Formation|Habit Formation]] · [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]] · [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory: Full Literature Review]] · [[Maintained-Situational-Interest|Maintained Situational Interest]] · [[Motivational-Compounding-Model|Motivational Compounding Model]] · [[Narrative-Identity-Theory-and-PKB-Design-—-McAdams-and-Beyound|Narrative Identity Theory and PKB Design — McAdams and Beyound]] · [[PKB-Habit-Architecture-A-Practical-Design-Guide|PKB Habit Architecture: A Practical Design Guide]] · [[Report 05]] · [[Report 05: Motivation Architecture]] · [[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]] · [[Report 06: The Science of Remembering]] · [[Report 08: Reflective Practice and Experiential Learning]] · [[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]] · [[Report 13: Emotional Regulation and Resilient Learning]]

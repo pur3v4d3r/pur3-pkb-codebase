@@ -68,13 +68,13 @@ narrower:
 
 see-also:
   - "[[Anki]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
   - "[[Constructivism]]"
-  - "[[Constructivist Struggle]]"
-  - "[[Contextual Interference]]"
-  - "[[Contextual Interference Effect]]"
+  - "[[Constructivist-Struggle|Constructivist Struggle]]"
+  - "[[Contextual-Interference|Contextual Interference]]"
+  - "[[Contextual-Interference-Effect|Contextual Interference Effect]]"
   - "[[Dataview]]"
-  - "[[Dataview Plugin]]"
+  - "[[Dataview-Plugin|Dataview Plugin]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -109,7 +109,7 @@ importance: high
 # Interleaving Effect
 
 > [!definition] **Interleaving Effect**
-> The counterintuitive finding that mixing different problem types, topics, or skills within a study session — interleaved practice — produces worse performance during learning but superior long-term retention and transfer compared to blocked practice, where a single type is practiced to completion before moving to the next. The underlying mechanism, termed [[Contextual Interference]], holds that interleaving forces the learner to repeatedly reload problem-solving strategies from long-term memory (as the previous strategy is no longer active), discriminate between problem types, and construct abstract representations of each category. These cognitively demanding processes create more durable and flexible representations.
+> The counterintuitive finding that mixing different problem types, topics, or skills within a study session — interleaved practice — produces worse performance during learning but superior long-term retention and transfer compared to blocked practice, where a single type is practiced to completion before moving to the next. The underlying mechanism, termed [[Contextual-Interference|Contextual Interference]], holds that interleaving forces the learner to repeatedly reload problem-solving strategies from long-term memory (as the previous strategy is no longer active), discriminate between problem types, and construct abstract representations of each category. These cognitively demanding processes create more durable and flexible representations.
 
 *Source: Shea & Morgan, 1979 — Psychology of Learning*
 
@@ -138,15 +138,15 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Spacing Effect]]
-- [[Generation Effect]]
-- [[Contextual Interference Effect]]
-- [[Testing Effect]]
-- [[Productive Failure]]
+- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
+- [[Generation-Effect|Generation Effect]]
+- [[Contextual-Interference-Effect|Contextual Interference Effect]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[Productive-Failure|Productive Failure]]
 
 **Cross-report connections:**
-- [[Productive Failure]]
-- [[Contextual Interference Effect]]
+- [[Productive-Failure|Productive Failure]]
+- [[Contextual-Interference-Effect|Contextual Interference Effect]]
 
 **Related concepts:**
-[[Anki]] · [[Cognitive Load Theory]] · [[Constructivism]] · [[Constructivist Struggle]] · [[Contextual Interference]] · [[Contextual Interference Effect]] · [[Dataview]] · [[Dataview Plugin]] · [[Desirable Difficulties]] · [[Difficulty Calibration Algorithms for Self-Regulated PKM]] · [[Error Correction Protocols in PKB Design]] · [[Expertise Reversal Effect]] · [[Fluency Illusion]] · [[Generation Effect]] · [[Interleaving]]
+[[Anki]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Constructivism]] · [[Constructivist-Struggle|Constructivist Struggle]] · [[Contextual-Interference|Contextual Interference]] · [[Contextual-Interference-Effect|Contextual Interference Effect]] · [[Dataview]] · [[Dataview-Plugin|Dataview Plugin]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Difficulty-Calibration-Algorithms-for-Self-Regulated-PKM|Difficulty Calibration Algorithms for Self-Regulated PKM]] · [[Error-Correction-Protocols-in-PKB-Design|Error Correction Protocols in PKB Design]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] · [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] · [[Generation-Effect|Generation Effect]] · [[Interleaving]]

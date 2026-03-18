@@ -229,7 +229,7 @@ extraction_summary:
 #### 15. [TENSION-IDENTIFIED] Social Learning vs. Personal Knowledge Base *(Line 245)*
 
 > [!tension-identified] Social Learning vs. Personal Knowledge Base
-> Situated learning theory presents a genuine challenge for PKB design that cannot be resolved by clever architectural choices. Vygotsky's ZPD, Lave and Wenger's communities of practice, and [[Collins, Brown, and Newman]]'s [[Cognitive Apprenticeship]] model all locate the engine of deep learning in social interaction — dialogue, observation of expert practice, feedback from the community. A personal PKB is, by definition, a solo artifact. The tension is real: if the most powerful learning environments are fundamentally social, a personal knowledge base may be structurally incapable of replicating their most important features. The honest resolution is not to deny this limitation but to design the PKB to be a complement to social learning rather than a replacement for it — capturing, processing, and extending what is learned through social interaction, while remaining aware of what solo practice cannot achieve. This connects to findings from [[Report 22: Tacit Knowledge and the Limits of Capture]].
+> Situated learning theory presents a genuine challenge for PKB design that cannot be resolved by clever architectural choices. Vygotsky's ZPD, Lave and Wenger's communities of practice, and [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]]'s [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] model all locate the engine of deep learning in social interaction — dialogue, observation of expert practice, feedback from the community. A personal PKB is, by definition, a solo artifact. The tension is real: if the most powerful learning environments are fundamentally social, a personal knowledge base may be structurally incapable of replicating their most important features. The honest resolution is not to deny this limitation but to design the PKB to be a complement to social learning rather than a replacement for it — capturing, processing, and extending what is learned through social interaction, while remaining aware of what solo practice cannot achieve. This connects to findings from [[Report 22: Tacit Knowledge and the Limits of Capture]].
 
 #### 16. [EVIDENCE] Learner-Controlled Environments and Self-Regulation (Dabbagh and Kitsantas, 2012) *(Line 252)*
 
@@ -509,7 +509,7 @@ extraction_summary:
 > > [!topic-idea] [[Personal Learning Environments and PKB Alignment]]
 > > The PLE research literature (Attwell, Siemens, Wilson) has developed a rich account of how self-managed digital learning environments differ from institution-managed LMS platforms. Exploring how the PLE framework aligns with and extends the PCLE concept would deepen this report's account of learner-controlled environments — particularly the evidence on how environment ownership affects motivation and self-regulation over time. This is the most directly adjacent body of research to this report's central thesis.
 > 
-> > [!topic-idea] [[Cognitive Apprenticeship and PKB Design]]
+> > [!topic-idea] [[Cognitive-Apprenticeship-and-PKB-Design|Cognitive Apprenticeship and PKB Design]]
 > > Collins, Brown, and Newman's cognitive apprenticeship model — which adapts traditional apprenticeship to cognitive skill development through modeling, coaching, scaffolding, articulation, reflection, and exploration — provides a rich design vocabulary for the solo PKB context. How might a solo PKB user design their practice to replicate the apprenticeship dynamic without a human master? This exploration would extend the PCLE's Self-Dialogue Infrastructure component and connect to Report 22's analysis of tacit knowledge.
 > 
 > > [!topic-idea] [[Game Design Principles and Learning Environment Architecture]]
@@ -518,10 +518,10 @@ extraction_summary:
 > > [!topic-idea] [[Physical Space Design and Knowledge Work Environments]]
 > > Research on the effects of physical workspace design on cognitive performance and creativity — including studies of ambient noise, lighting, visual complexity, and spatial organization — complements this report's digital-environment focus. The Reggio Emilia principle of physical environment as third teacher has been more extensively developed for physical spaces than digital ones. Exploring the physical-digital integration of learning environments for knowledge workers would extend the PCLE to its full environmental scope.
 > 
-> > [!topic-idea] [[Complexity Theory and Emergent Learning Environments]]
+> > [!topic-idea] [[Complexity-Theory-and-Emergent-Learning-Environments|Complexity Theory and Emergent Learning Environments]]
 > > Complexity theory, as applied to education by Davis and Sumara ("Complexity and the Art of Curriculum"), argues that learning environments should be understood as complex adaptive systems — characterized by emergence, self-organization, and sensitivity to initial conditions. This perspective would complement the more designed-environment approach of this report with an account of what should be left deliberately undesigned to allow emergent learning structures to develop. The productive tension between designed environments and emergent ones is a rich vein for further inquiry.
 > 
-> > [!topic-idea] [[Assessment Design in the PCLE Context]]
+> > [!topic-idea] [[Assessment-Design-in-the-PCLE-Context|Assessment Design in the PCLE Context]]
 > > If the PKB is a learning environment, the question of how the learner assesses their own development within that environment becomes crucial. How does progress toward genuine expertise look different from progress toward note-count? What would an assessment framework for the PCLE look like? This connects to Report 18's calibration and epistemic humility analysis and anticipates Report 27's comprehensive design framework.
 
 ---
@@ -534,22 +534,22 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Activity Theory]]
-- [[Assessment Design in the PCLE Context]]
-- [[Cognitive Apprenticeship]]
-- [[Cognitive Apprenticeship and PKB Design]]
-- [[Cognitive Tools]]
-- [[Collins, Brown, and Newman]]
-- [[Communities of Practice]]
-- [[Complexity Theory and Emergent Learning Environments]]
-- [[Constructivist Learning Environments]]
-- [[David Jonassen]]
-- [[David Kirsh]]
-- [[Ecological Affordances]]
-- [[Ecological Psychology]]
-- [[Educational Technology Affordances]]
-- [[Encoding Variability]]
-- [[Epistemic Affordances]]
+- [[Activity-Theory|Activity Theory]]
+- [[Assessment-Design-in-the-PCLE-Context|Assessment Design in the PCLE Context]]
+- [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
+- [[Cognitive-Apprenticeship-and-PKB-Design|Cognitive Apprenticeship and PKB Design]]
+- [[Cognitive-Tools|Cognitive Tools]]
+- [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]]
+- [[Communities-of-Practice|Communities of Practice]]
+- [[Complexity-Theory-and-Emergent-Learning-Environments|Complexity Theory and Emergent Learning Environments]]
+- [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]
+- [[David-Jonassen|David Jonassen]]
+- [[David-Kirsh|David Kirsh]]
+- [[Ecological-Affordances|Ecological Affordances]]
+- [[Ecological-Psychology|Ecological Psychology]]
+- [[Educational-Technology-Affordances|Educational Technology Affordances]]
+- [[Encoding-Variability|Encoding Variability]]
+- [[Epistemic-Affordances|Epistemic Affordances]]
 - [[Frederic Bartlett]]
 - [[Game Design Principles and Learning Environment Architecture]]
 - [[George Lakoff]]
@@ -557,17 +557,17 @@ extraction_summary:
 - [[James Gibson]]
 - [[James Wertsch]]
 - [[John Sweller]]
-- [[Learning Experience Design]]
-- [[Legitimate Peripheral Participation]]
+- [[Learning-Experience-Design|Learning Experience Design]]
+- [[Legitimate-Peripheral-Participation|Legitimate Peripheral Participation]]
 - [[Leontiev]]
 - [[Lev Vygotsky]]
 - [[Loris Malaguzzi]]
 - [[Mark Johnson]]
 - [[Mindtools]]
-- [[More Knowledgeable Other]]
+- [[More-Knowledgeable-Other|More Knowledgeable Other]]
 - [[Object of PKM Activity]]
-- [[Personal Constructed Learning Environment]]
-- [[Personal Knowledge Base]]
+- [[Personal-Constructed-Learning-Environment-—-PCLE|Personal Constructed Learning Environment]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal Learning Environments]]
 - [[Personal Learning Environments and PKB Alignment]]
 - [[Physical Space Design and Knowledge Work Environments]]
@@ -592,31 +592,31 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Reuven Feuerstein]]
 - [[Richard Anderson]]
-- [[Schema Construction]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
-- [[Situated Learning]]
+- [[Schema-Construction|Schema Construction]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Situated-Learning|Situated Learning]]
 - [[Synthesis Prompts]]
 - [[Tension Notes]]
 - [[Universal Design for Learning]]
 - [[X concept]]
 - [[Yrjö Engeström]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Base]] | — | — | The Question Behind the Question | 126 |
+| 1 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Question Behind the Question | 126 |
 | 2 | [[Report 09: Designing the Learning PKB]] | — | — | The Question Behind the Question | 126 |
-| 3 | [[Constructivist Learning Environments]] | — | — | The Synthesis Focus | 139 |
-| 4 | [[Zone of Proximal Development]] | — | — | The Synthesis Focus | 141 |
-| 5 | [[Learning Experience Design]] | — | — | The Synthesis Focus | 143 |
-| 6 | [[Educational Technology Affordances]] | — | — | The Synthesis Focus | 145 |
-| 7 | [[Ecological Psychology]] | — | — | The Synthesis Focus | 145 |
-| 8 | [[Constructivist Learning Environments]] | CLE | — | The Synthesis Focus | 147 |
-| 9 | [[More Knowledgeable Other]] | — | — | The Synthesis Focus | 147 |
-| 10 | [[Personal Constructed Learning Environment]] | — | — | The Synthesis Focus | 147 |
+| 3 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | The Synthesis Focus | 139 |
+| 4 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | The Synthesis Focus | 141 |
+| 5 | [[Learning-Experience-Design|Learning Experience Design]] | — | — | The Synthesis Focus | 143 |
+| 6 | [[Educational-Technology-Affordances|Educational Technology Affordances]] | — | — | The Synthesis Focus | 145 |
+| 7 | [[Ecological-Psychology|Ecological Psychology]] | — | — | The Synthesis Focus | 145 |
+| 8 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | CLE | — | The Synthesis Focus | 147 |
+| 9 | [[More-Knowledgeable-Other|More Knowledgeable Other]] | — | — | The Synthesis Focus | 147 |
+| 10 | [[Personal-Constructed-Learning-Environment-—-PCLE|Personal Constructed Learning Environment]] | — | — | The Synthesis Focus | 147 |
 | 11 | [[Report 03: Constructing Understanding]] | — | — | Scope, Connections, and Roadmap | 151 |
 | 12 | [[Report 09: Designing the Learning PKB]] | — | — | Scope, Connections, and Roadmap | 151 |
 | 13 | [[Report 10: Scaffolding and Fading]] | — | — | Scope, Connections, and Roadmap | 151 |
@@ -626,51 +626,51 @@ extraction_summary:
 | 17 | [[Report 25: The Integration Problem]] | — | — | Scope, Connections, and Roadmap | 151 |
 | 18 | [[George Lakoff]] | — | — | The Storage Metaphor and Its Costs | 161 |
 | 19 | [[Mark Johnson]] | — | — | The Storage Metaphor and Its Costs | 161 |
-| 20 | [[David Jonassen]] | — | — | Constructivist Learning Environments:... | 170 |
-| 21 | [[Constructivist Learning Environments]] | — | — | Constructivist Learning Environments:... | 170 |
+| 20 | [[David-Jonassen|David Jonassen]] | — | — | Constructivist Learning Environments:... | 170 |
+| 21 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | Constructivist Learning Environments:... | 170 |
 | 22 | [[Lev Vygotsky]] | — | — | Zone of Proximal Development and Scaf... | 182 |
-| 23 | [[Zone of Proximal Development]] | — | — | Zone of Proximal Development and Scaf... | 182 |
-| 24 | [[Learning Experience Design]] | — | — | Learning Experience Design: From UX t... | 194 |
+| 23 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Zone of Proximal Development and Scaf... | 182 |
+| 24 | [[Learning-Experience-Design|Learning Experience Design]] | — | — | Learning Experience Design: From UX t... | 194 |
 | 25 | [[James Gibson]] | — | — | Ecological Psychology and Affordances... | 203 |
-| 26 | [[Ecological Affordances]] | — | — | Ecological Psychology and Affordances... | 203 |
-| 27 | [[Constructivist Learning Environments]] | — | — | The Environmental Effects Literature:... | 233 |
-| 28 | [[David Kirsh]] | — | — | The Environmental Effects Literature:... | 238 |
-| 29 | [[Situated Learning]] | — | — | The Environmental Effects Literature:... | 243 |
-| 30 | [[Communities of Practice]] | — | — | The Environmental Effects Literature:... | 243 |
-| 31 | [[Legitimate Peripheral Participation]] | — | — | The Environmental Effects Literature:... | 243 |
-| 32 | [[Collins, Brown, and Newman]] | — | — | The Environmental Effects Literature:... | 246 |
-| 33 | [[Cognitive Apprenticeship]] | — | — | The Environmental Effects Literature:... | 246 |
+| 26 | [[Ecological-Affordances|Ecological Affordances]] | — | — | Ecological Psychology and Affordances... | 203 |
+| 27 | [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] | — | — | The Environmental Effects Literature:... | 233 |
+| 28 | [[David-Kirsh|David Kirsh]] | — | — | The Environmental Effects Literature:... | 238 |
+| 29 | [[Situated-Learning|Situated Learning]] | — | — | The Environmental Effects Literature:... | 243 |
+| 30 | [[Communities-of-Practice|Communities of Practice]] | — | — | The Environmental Effects Literature:... | 243 |
+| 31 | [[Legitimate-Peripheral-Participation|Legitimate Peripheral Participation]] | — | — | The Environmental Effects Literature:... | 243 |
+| 32 | [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]] | — | — | The Environmental Effects Literature:... | 246 |
+| 33 | [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] | — | — | The Environmental Effects Literature:... | 246 |
 | 34 | [[Report 22: Tacit Knowledge and the Limits of Capture]] | — | — | The Environmental Effects Literature:... | 246 |
 | 35 | [[Personal Learning Environments]] | — | — | Evidence on Digital Learning Environm... | 250 |
-| 36 | [[Self-Determination Theory]] | — | — | Evidence on Digital Learning Environm... | 250 |
+| 36 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Evidence on Digital Learning Environm... | 250 |
 | 37 | [[Universal Design for Learning]] | — | — | Evidence on Digital Learning Environm... | 255 |
-| 38 | [[Schema Construction]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
-| 39 | [[Schema Theory]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
+| 38 | [[Schema-Construction|Schema Construction]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
+| 39 | [[Schema-Theory|Schema Theory]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 40 | [[Frederic Bartlett]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 41 | [[Richard Anderson]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 42 | [[John Sweller]] | — | — | Mechanism 1: Problem Centrality and t... | 279 |
 | 43 | [[Inquiry Notes]] | — | — | Mechanism 1: Problem Centrality and t... | 282 |
-| 44 | [[More Knowledgeable Other]] | — | — | Mechanism 2: The ZPD in Solo Practice... | 286 |
+| 44 | [[More-Knowledgeable-Other|More Knowledgeable Other]] | — | — | Mechanism 2: The ZPD in Solo Practice... | 286 |
 | 45 | [[James Wertsch]] | — | — | Mechanism 2: The ZPD in Solo Practice... | 288 |
 | 46 | [[Reuven Feuerstein]] | — | — | Mechanism 2: The ZPD in Solo Practice... | 288 |
 | 47 | [[Question-Embedded Notes]] | — | — | Mechanism 2: The ZPD in Solo Practice... | 293 |
 | 48 | [[Synthesis Prompts]] | — | — | Mechanism 2: The ZPD in Solo Practice... | 293 |
 | 49 | [[X concept]] | — | — | Mechanism 2: The ZPD in Solo Practice... | 293 |
-| 50 | [[Cognitive Tools]] | — | — | Mechanism 3: Cognitive Tools and Mind... | 297 |
+| 50 | [[Cognitive-Tools|Cognitive Tools]] | — | — | Mechanism 3: Cognitive Tools and Mind... | 297 |
 | 51 | [[Mindtools]] | — | — | Mechanism 3: Cognitive Tools and Mind... | 297 |
 | 52 | [[Reggio Emilia]] | — | — | Mechanism 4: The Reggio Emilia Insigh... | 309 |
 | 53 | [[Loris Malaguzzi]] | — | — | Mechanism 4: The Reggio Emilia Insigh... | 309 |
 | 54 | [[Leontiev]] | — | — | Mechanism 5: Activity Theory and the ... | 321 |
-| 55 | [[Activity Theory]] | — | — | Mechanism 5: Activity Theory and the ... | 321 |
+| 55 | [[Activity-Theory|Activity Theory]] | — | — | Mechanism 5: Activity Theory and the ... | 321 |
 | 56 | [[Yrjö Engeström]] | — | — | Mechanism 5: Activity Theory and the ... | 321 |
 | 57 | [[Object of PKM Activity]] | — | — | Mechanism 5: Activity Theory and the ... | 326 |
 | 58 | [[Report 05: Motivation Architecture]] | — | — | Mechanism 5: Activity Theory and the ... | 329 |
-| 59 | [[Zone of Proximal Development]] | — | — | Return-and-Deepen: ZPD and the PKB St... | 333 |
-| 60 | [[Epistemic Affordances]] | — | — | Return-and-Deepen: ZPD and the PKB St... | 333 |
-| 61 | [[Cognitive Tools]] | — | — | Return-and-Deepen: ZPD and the PKB St... | 333 |
-| 62 | [[Activity Theory]] | — | — | Return-and-Deepen: ZPD and the PKB St... | 333 |
+| 59 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Return-and-Deepen: ZPD and the PKB St... | 333 |
+| 60 | [[Epistemic-Affordances|Epistemic Affordances]] | — | — | Return-and-Deepen: ZPD and the PKB St... | 333 |
+| 61 | [[Cognitive-Tools|Cognitive Tools]] | — | — | Return-and-Deepen: ZPD and the PKB St... | 333 |
+| 62 | [[Activity-Theory|Activity Theory]] | — | — | Return-and-Deepen: ZPD and the PKB St... | 333 |
 | 63 | [[Report 10: Scaffolding and Fading]] | — | — | Return-and-Deepen: ZPD and the PKB St... | 335 |
-| 64 | [[Encoding Variability]] | — | — | Design Principle 3: Create Multiple R... | 372 |
+| 64 | [[Encoding-Variability|Encoding Variability]] | — | — | Design Principle 3: Create Multiple R... | 372 |
 | 65 | [[Tension Notes]] | — | — | Design Principle 4: Build Environment... | 380 |
 | 66 | [[Report 14: Inquiry-Based Knowledge Building]] | — | — | Design Principle 4: Build Environment... | 380 |
 | 67 | [[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]] | — | — | Phase VII: PKB Connections & Cross-Re... | 464 |
@@ -683,11 +683,11 @@ extraction_summary:
 | 74 | [[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
 | 75 | [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]] | — | — | Phase VII: PKB Connections & Cross-Re... | 482 |
 | 76 | [[Personal Learning Environments and PKB Alignment]] | — | — | D. Expansion Topics | 574 |
-| 77 | [[Cognitive Apprenticeship and PKB Design]] | — | — | D. Expansion Topics | 577 |
+| 77 | [[Cognitive-Apprenticeship-and-PKB-Design|Cognitive Apprenticeship and PKB Design]] | — | — | D. Expansion Topics | 577 |
 | 78 | [[Game Design Principles and Learning Environment Architecture]] | — | — | D. Expansion Topics | 580 |
 | 79 | [[Physical Space Design and Knowledge Work Environments]] | — | — | D. Expansion Topics | 583 |
-| 80 | [[Complexity Theory and Emergent Learning Environments]] | — | — | D. Expansion Topics | 586 |
-| 81 | [[Assessment Design in the PCLE Context]] | — | — | D. Expansion Topics | 589 |
+| 80 | [[Complexity-Theory-and-Emergent-Learning-Environments|Complexity Theory and Emergent Learning Environments]] | — | — | D. Expansion Topics | 586 |
+| 81 | [[Assessment-Design-in-the-PCLE-Context|Assessment Design in the PCLE Context]] | — | — | D. Expansion Topics | 589 |
 
 ---
 
@@ -714,22 +714,22 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Activity Theory]]
-- [[Assessment Design in the PCLE Context]]
-- [[Cognitive Apprenticeship]]
-- [[Cognitive Apprenticeship and PKB Design]]
-- [[Cognitive Tools]]
-- [[Collins, Brown, and Newman]]
-- [[Communities of Practice]]
-- [[Complexity Theory and Emergent Learning Environments]]
-- [[Constructivist Learning Environments]]
-- [[David Jonassen]]
-- [[David Kirsh]]
-- [[Ecological Affordances]]
-- [[Ecological Psychology]]
-- [[Educational Technology Affordances]]
-- [[Encoding Variability]]
-- [[Epistemic Affordances]]
+- [[Activity-Theory|Activity Theory]]
+- [[Assessment-Design-in-the-PCLE-Context|Assessment Design in the PCLE Context]]
+- [[Cognitive-Apprenticeship|Cognitive Apprenticeship]]
+- [[Cognitive-Apprenticeship-and-PKB-Design|Cognitive Apprenticeship and PKB Design]]
+- [[Cognitive-Tools|Cognitive Tools]]
+- [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]]
+- [[Communities-of-Practice|Communities of Practice]]
+- [[Complexity-Theory-and-Emergent-Learning-Environments|Complexity Theory and Emergent Learning Environments]]
+- [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]
+- [[David-Jonassen|David Jonassen]]
+- [[David-Kirsh|David Kirsh]]
+- [[Ecological-Affordances|Ecological Affordances]]
+- [[Ecological-Psychology|Ecological Psychology]]
+- [[Educational-Technology-Affordances|Educational Technology Affordances]]
+- [[Encoding-Variability|Encoding Variability]]
+- [[Epistemic-Affordances|Epistemic Affordances]]
 - [[Frederic Bartlett]]
 - [[Game Design Principles and Learning Environment Architecture]]
 - [[George Lakoff]]
@@ -737,17 +737,17 @@ extraction_summary:
 - [[James Gibson]]
 - [[James Wertsch]]
 - [[John Sweller]]
-- [[Learning Experience Design]]
-- [[Legitimate Peripheral Participation]]
+- [[Learning-Experience-Design|Learning Experience Design]]
+- [[Legitimate-Peripheral-Participation|Legitimate Peripheral Participation]]
 - [[Leontiev]]
 - [[Lev Vygotsky]]
 - [[Loris Malaguzzi]]
 - [[Mark Johnson]]
 - [[Mindtools]]
-- [[More Knowledgeable Other]]
+- [[More-Knowledgeable-Other|More Knowledgeable Other]]
 - [[Object of PKM Activity]]
-- [[Personal Constructed Learning Environment]]
-- [[Personal Knowledge Base]]
+- [[Personal-Constructed-Learning-Environment-—-PCLE|Personal Constructed Learning Environment]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Personal Learning Environments]]
 - [[Personal Learning Environments and PKB Alignment]]
 - [[Physical Space Design and Knowledge Work Environments]]
@@ -772,16 +772,16 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Reuven Feuerstein]]
 - [[Richard Anderson]]
-- [[Schema Construction]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
-- [[Situated Learning]]
+- [[Schema-Construction|Schema Construction]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Situated-Learning|Situated Learning]]
 - [[Synthesis Prompts]]
 - [[Tension Notes]]
 - [[Universal Design for Learning]]
 - [[X concept]]
 - [[Yrjö Engeström]]
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 ### Frontmatter Relationships
 

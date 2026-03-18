@@ -70,12 +70,12 @@ narrower:
 
 see-also:
   - "[[Aporia]]"
-  - "[[Argument Mapping]]"
-  - "[[Availability Heuristic]]"
-  - "[[Cognitive Bias]]"
-  - "[[Cognitive Conflict]]"
-  - "[[Cognitive Miser]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Argument-Mapping|Argument Mapping]]"
+  - "[[Availability-Heuristic|Availability Heuristic]]"
+  - "[[Cognitive-Bias|Cognitive Bias]]"
+  - "[[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]"
+  - "[[Cognitive-Miser|Cognitive Miser]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Constructivist]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -144,9 +144,9 @@ importance: high
 **Cross-report connections:**
 - [[Constructivist]]
 - [[Disequilibration]]
-- [[Productive Failure]]
-- [[Cognitive Conflict]]
+- [[Productive-Failure|Productive Failure]]
+- [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
 - [[Aporia]]
 
 **Related concepts:**
-[[Aporia]] · [[Argument Mapping]] · [[Availability Heuristic]] · [[Cognitive Bias]] · [[Cognitive Conflict]] · [[Cognitive Miser]] · [[Cognitive Psychology]] · [[Constructivist]] · [[Critical Thinking]] · [[Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dual-Process Theory]] · [[Dysrationalia]] · [[Educational Philosophy]] · [[Epistemic Injustice and Whose Knowledge Gets Stored]]
+[[Aporia]] · [[Argument-Mapping|Argument Mapping]] · [[Availability-Heuristic|Availability Heuristic]] · [[Cognitive-Bias|Cognitive Bias]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Miser|Cognitive Miser]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Constructivist]] · [[Critical-Thinking|Critical Thinking]] · [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Dysrationalia]] · [[Educational-Philosophy|Educational Philosophy]] · [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]

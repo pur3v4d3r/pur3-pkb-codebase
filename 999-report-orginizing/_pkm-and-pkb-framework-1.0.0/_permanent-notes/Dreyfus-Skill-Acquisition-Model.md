@@ -59,14 +59,14 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Tacit Knowledge]]"
-  - "[[Explicit Knowledge]]"
-  - "[[Tacit-Explicit Spectrum]]"
-  - "[[Focal Attention]]"
-  - "[[Subsidiary Awareness]]"
-  - "[[Polanyi's Tacit Dimension]]"
-  - "[[SECI Model]]"
-  - "[[Nonaka Knowledge Spiral]]"
+  - "[[Tacit-Knowledge|Tacit Knowledge]]"
+  - "[[Explicit-Knowledge|Explicit Knowledge]]"
+  - "[[Tacit-Explicit-Spectrum|Tacit-Explicit Spectrum]]"
+  - "[[Focal-Attention|Focal Attention]]"
+  - "[[Subsidiary-Awareness|Subsidiary Awareness]]"
+  - "[[Polanyi's-Tacit-Dimension|Polanyi's Tacit Dimension]]"
+  - "[[SECI-Model|SECI Model]]"
+  - "[[Nonaka-Knowledge-Spiral|Nonaka Knowledge Spiral]]"
   - "[[Socialization]]"
   - "[[Externalization]]"
 
@@ -77,14 +77,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
-  - "[[Cognitive Science]]"
-  - "[[Communities of Practice and the Social Dimension of Tacit Knowledge]]"
-  - "[[Deliberate Practice Log]]"
-  - "[[Educational Philosophy]]"
-  - "[[Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]"
-  - "[[Expertise Reversal Effect]]"
-  - "[[Externalization Exercises]]"
+  - "[[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]]"
+  - "[[Deliberate-Practice-Log|Deliberate Practice Log]]"
+  - "[[Educational-Philosophy|Educational Philosophy]]"
+  - "[[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]"
+  - "[[Externalization-Exercises|Externalization Exercises]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -104,16 +104,16 @@ enables:
   - "[[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]]"
 
 expansion-topics:
-  - topic: "[[Polanyi's Personal Knowledge — The Full Epistemological Framework]]"
+  - topic: "[[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]"
     description: "Polanyi's 1958 masterwork *Personal Knowledge* develops a much richer epistemological framework than"
     priority: medium
-  - topic: "[[Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]"
+  - topic: "[[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]"
     description: "Ericsson's deliberate practice tradition, combined with the tacit knowledge framework developed here"
     priority: medium
-  - topic: "[[Communities of Practice and the Social Dimension of Tacit Knowledge]]"
+  - topic: "[[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]]"
     description: "Lave and Wenger's communities of practice framework, combined with Nonaka's Socialization quadrant, "
     priority: medium
-  - topic: "[[The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]"
+  - topic: "[[The-Phenomenology-of-Expertise-—-Merleau-Ponty-and-the-Intelligent-Body|The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]"
     description: "A deeper engagement with Merleau-Ponty's *Phenomenology of Perception* reveals the philosophical fou"
     priority: medium
 
@@ -170,4 +170,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Cognitive Science]] · [[Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Deliberate Practice Log]] · [[Educational Philosophy]] · [[Embodied Cognition]] · [[Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]] · [[Expertise Reversal Effect]] · [[Externalization Exercises]] · [[Knowledge Management]] · [[Kolb's Experiential Learning Cycle]] · [[Phenomenology]] · [[Philosophy of Mind]] · [[Polanyi's Personal Knowledge — The Full Epistemological Framework]] · [[Portfolio of Evidence]]
+[[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Cognitive-Science|Cognitive Science]] · [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Deliberate-Practice-Log|Deliberate Practice Log]] · [[Educational-Philosophy|Educational Philosophy]] · [[Embodied-Cognition|Embodied Cognition]] · [[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] · [[Externalization-Exercises|Externalization Exercises]] · [[Knowledge-Management|Knowledge Management]] · [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] · [[Phenomenology]] · [[Extended-Mind-Theory-—-Philosophy-of-Mind|Philosophy of Mind]] · [[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]] · [[Portfolio-of-Evidence|Portfolio of Evidence]]

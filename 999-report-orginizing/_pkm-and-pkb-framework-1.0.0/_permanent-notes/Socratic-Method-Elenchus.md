@@ -70,12 +70,12 @@ narrower:
 
 see-also:
   - "[[Aporia]]"
-  - "[[Argument Mapping]]"
-  - "[[Availability Heuristic]]"
-  - "[[Cognitive Bias]]"
-  - "[[Cognitive Conflict]]"
-  - "[[Cognitive Miser]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Argument-Mapping|Argument Mapping]]"
+  - "[[Availability-Heuristic|Availability Heuristic]]"
+  - "[[Cognitive-Bias|Cognitive Bias]]"
+  - "[[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]"
+  - "[[Cognitive-Miser|Cognitive Miser]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Constructivist]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -107,7 +107,7 @@ importance: high
 # Socratic Method / Elenchus
 
 > [!definition] **Socratic Method / Elenchus**
-> A dialogical method of inquiry that proceeds by: (1) identifying a target belief or proposition held with confidence, (2) generating counterexamples and logical challenges until the belief is shown to be internally inconsistent or inadequately grounded, and (3) using the resulting [[Aporia]] — productive puzzlement — as the starting point for more careful inquiry rather than a return to the original confident position. The Socratic elenchus is not primarily a rhetorical technique but a mechanism for interrupting confident but inadequately examined belief and creating the cognitive conditions for genuine epistemic progress. Dewey (1933, 1938) reconstructed Socratic method for modern educational contexts as [[Reflective Inquiry]]: the disciplined investigation of genuine problems through hypothesis formation, systematic examination of evidence, and willingness to follow the argument wherever it leads, regardless of starting commitments. Boundary condition: Socratic method is effective specifically when it generates genuine puzzlement — when the counterexample is logically compelling and cannot be dismissed. Pro forma questioning that produces rehearsed answers rather than genuine engagement does not produce the epistemic effects.
+> A dialogical method of inquiry that proceeds by: (1) identifying a target belief or proposition held with confidence, (2) generating counterexamples and logical challenges until the belief is shown to be internally inconsistent or inadequately grounded, and (3) using the resulting [[Aporia]] — productive puzzlement — as the starting point for more careful inquiry rather than a return to the original confident position. The Socratic elenchus is not primarily a rhetorical technique but a mechanism for interrupting confident but inadequately examined belief and creating the cognitive conditions for genuine epistemic progress. Dewey (1933, 1938) reconstructed Socratic method for modern educational contexts as [[Reflective-Inquiry|Reflective Inquiry]]: the disciplined investigation of genuine problems through hypothesis formation, systematic examination of evidence, and willingness to follow the argument wherever it leads, regardless of starting commitments. Boundary condition: Socratic method is effective specifically when it generates genuine puzzlement — when the counterexample is logically compelling and cannot be dismissed. Pro forma questioning that produces rehearsed answers rather than genuine engagement does not produce the epistemic effects.
 
 ## Core Explanation
 
@@ -142,9 +142,9 @@ importance: high
 **Cross-report connections:**
 - [[Constructivist]]
 - [[Disequilibration]]
-- [[Productive Failure]]
-- [[Cognitive Conflict]]
+- [[Productive-Failure|Productive Failure]]
+- [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
 - [[Aporia]]
 
 **Related concepts:**
-[[Aporia]] · [[Argument Mapping]] · [[Availability Heuristic]] · [[Cognitive Bias]] · [[Cognitive Conflict]] · [[Cognitive Miser]] · [[Cognitive Psychology]] · [[Constructivist]] · [[Critical Thinking]] · [[Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dual-Process Theory]] · [[Dysrationalia]] · [[Educational Philosophy]] · [[Epistemic Injustice and Whose Knowledge Gets Stored]]
+[[Aporia]] · [[Argument-Mapping|Argument Mapping]] · [[Availability-Heuristic|Availability Heuristic]] · [[Cognitive-Bias|Cognitive Bias]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Miser|Cognitive Miser]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Constructivist]] · [[Critical-Thinking|Critical Thinking]] · [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Dysrationalia]] · [[Educational-Philosophy|Educational Philosophy]] · [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]

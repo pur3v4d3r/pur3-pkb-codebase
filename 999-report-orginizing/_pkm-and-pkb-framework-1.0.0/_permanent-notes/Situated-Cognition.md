@@ -58,16 +58,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Transfer of Learning]]"
-  - "[[Near Transfer]]"
-  - "[[Far Transfer]]"
-  - "[[Situated Cognition]]"
-  - "[[Situated Learning]]"
-  - "[[Encoding Specificity Principle]]"
-  - "[[Encoding Variability]]"
-  - "[[Transfer-Appropriate Processing]]"
-  - "[[Inert Knowledge]]"
-  - "[[Conditionalized Knowledge]]"
+  - "[[Transfer-of-Learning|Transfer of Learning]]"
+  - "[[Near-Transfer|Near Transfer]]"
+  - "[[Far-Transfer|Far Transfer]]"
+  - "[[Situated-Cognition|Situated Cognition]]"
+  - "[[Situated-Learning|Situated Learning]]"
+  - "[[Encoding-Specificity-Principle|Encoding Specificity Principle]]"
+  - "[[Encoding-Variability|Encoding Variability]]"
+  - "[[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]"
+  - "[[Inert-Knowledge|Inert Knowledge]]"
+  - "[[Conditionalized-Knowledge|Conditionalized Knowledge]]"
 
 broader:
   - "[[]]"
@@ -76,14 +76,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Alan Baddeley]]"
-  - "[[Alfred North Whitehead]]"
-  - "[[Allan Collins]]"
-  - "[[Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]]"
-  - "[[Analogical Transfer]]"
-  - "[[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Cognitive Science]]"
+  - "[[Alan-Baddeley|Alan Baddeley]]"
+  - "[[Alfred-North-Whitehead|Alfred North Whitehead]]"
+  - "[[Allan-Collins|Allan Collins]]"
+  - "[[Analogical-Reasoning-Training-for-PKM-—-Cultivating-the-Far-Transfer-Muscle|Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]]"
+  - "[[Analogical-Transfer|Analogical Transfer]]"
+  - "[[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -145,7 +145,7 @@ importance: high
 > **The Four-Layer Transfer-Ready Note**: Notes intended to carry transferable knowledge should include: (1) **Abstract Principle Layer** — a domain-neutral, relational formulation of the core principle, using language that does not presuppose the source domain. This is harder to write than a domain-specific summary but is the foundation of transfer readiness. (2) **Origin Context Layer** — the specific source material, domain, and examples that generated the principle, serving as concrete anchor…
 
 > [!example] **Application**
-> **The Structural Link Annotation**: When creating a link between notes from different domains based on structural similarity, annotate the link with the abstract relational schema they share. In Obsidian, this can be done inline: instead of `[[Nash Equilibria]]` in a note on organizational behavior, write: `[[Nash Equilibria]] — structural analogy: same dynamics of stable strategy in competing agent systems; apply the stability analysis framework here.` This annotation serves two functions: it…
+> **The Structural Link Annotation**: When creating a link between notes from different domains based on structural similarity, annotate the link with the abstract relational schema they share. In Obsidian, this can be done inline: instead of `[[Nash-Equilibria|Nash Equilibria]]` in a note on organizational behavior, write: `[[Nash-Equilibria|Nash Equilibria]] — structural analogy: same dynamics of stable strategy in competing agent systems; apply the stability analysis framework here.` This annotation serves two functions: it…
 
 ## Connections & Context
 
@@ -156,4 +156,4 @@ importance: high
 - [[Report 03]]
 
 **Related concepts:**
-[[Alan Baddeley]] · [[Alfred North Whitehead]] · [[Allan Collins]] · [[Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]] · [[Analogical Transfer]] · [[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Cognitive Psychology]] · [[Cognitive Science]] · [[Collins, Brown & Newman]] · [[Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Daniel Schwartz]] · [[Dedre Gentner]] · [[Deliberate Practice Log]] · [[Dewey]] · [[Duncan Godden]]
+[[Alan-Baddeley|Alan Baddeley]] · [[Alfred-North-Whitehead|Alfred North Whitehead]] · [[Allan-Collins|Allan Collins]] · [[Analogical-Reasoning-Training-for-PKM-—-Cultivating-the-Far-Transfer-Muscle|Analogical Reasoning Training for PKM — Cultivating the Far Transfer Muscle]] · [[Analogical-Transfer|Analogical Transfer]] · [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Cognitive-Science|Cognitive Science]] · [[Fading-—-Instructional-Design-Collins,-Brown-&-Newman|Collins, Brown & Newman]] · [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Daniel-Schwartz|Daniel Schwartz]] · [[Dedre-Gentner|Dedre Gentner]] · [[Deliberate-Practice-Log|Deliberate Practice Log]] · [[Dewey]] · [[Duncan-Godden|Duncan Godden]]

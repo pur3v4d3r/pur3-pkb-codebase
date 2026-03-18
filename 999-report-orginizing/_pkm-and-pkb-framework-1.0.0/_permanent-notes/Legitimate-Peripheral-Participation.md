@@ -59,14 +59,14 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Tacit Knowledge]]"
-  - "[[Explicit Knowledge]]"
-  - "[[Tacit-Explicit Spectrum]]"
-  - "[[Focal Attention]]"
-  - "[[Subsidiary Awareness]]"
-  - "[[Polanyi's Tacit Dimension]]"
-  - "[[SECI Model]]"
-  - "[[Nonaka Knowledge Spiral]]"
+  - "[[Tacit-Knowledge|Tacit Knowledge]]"
+  - "[[Explicit-Knowledge|Explicit Knowledge]]"
+  - "[[Tacit-Explicit-Spectrum|Tacit-Explicit Spectrum]]"
+  - "[[Focal-Attention|Focal Attention]]"
+  - "[[Subsidiary-Awareness|Subsidiary Awareness]]"
+  - "[[Polanyi's-Tacit-Dimension|Polanyi's Tacit Dimension]]"
+  - "[[SECI-Model|SECI Model]]"
+  - "[[Nonaka-Knowledge-Spiral|Nonaka Knowledge Spiral]]"
   - "[[Socialization]]"
   - "[[Externalization]]"
 
@@ -77,14 +77,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Activity Theory]]"
-  - "[[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
-  - "[[Assessment Design in the PCLE Context]]"
-  - "[[Cognitive Apprenticeship]]"
-  - "[[Cognitive Apprenticeship and PKB Design]]"
-  - "[[Cognitive Science]]"
-  - "[[Cognitive Tools]]"
-  - "[[Collins, Brown, and Newman]]"
+  - "[[Activity-Theory|Activity Theory]]"
+  - "[[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]]"
+  - "[[Assessment-Design-in-the-PCLE-Context|Assessment Design in the PCLE Context]]"
+  - "[[Cognitive-Apprenticeship|Cognitive Apprenticeship]]"
+  - "[[Cognitive-Apprenticeship-and-PKB-Design|Cognitive Apprenticeship and PKB Design]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
+  - "[[Cognitive-Tools|Cognitive Tools]]"
+  - "[[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -104,16 +104,16 @@ enables:
   - "[[Report 28: The Philosophy of Personal Knowledge — What It Means to Know in a PKB]]"
 
 expansion-topics:
-  - topic: "[[Polanyi's Personal Knowledge — The Full Epistemological Framework]]"
+  - topic: "[[Polanyi's-Personal-Knowledge-—-The-Full-Epistemological-Framework|Polanyi's Personal Knowledge — The Full Epistemological Framework]]"
     description: "Polanyi's 1958 masterwork *Personal Knowledge* develops a much richer epistemological framework than"
     priority: medium
-  - topic: "[[Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]"
+  - topic: "[[Expertise-Research-and-the-PKB-—-What-Deliberate-Practice-Implies-for-PKM-Design|Expertise Research and the PKB — What Deliberate Practice Implies for PKM Design]]"
     description: "Ericsson's deliberate practice tradition, combined with the tacit knowledge framework developed here"
     priority: medium
-  - topic: "[[Communities of Practice and the Social Dimension of Tacit Knowledge]]"
+  - topic: "[[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]]"
     description: "Lave and Wenger's communities of practice framework, combined with Nonaka's Socialization quadrant, "
     priority: medium
-  - topic: "[[The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]"
+  - topic: "[[The-Phenomenology-of-Expertise-—-Merleau-Ponty-and-the-Intelligent-Body|The Phenomenology of Expertise — Merleau-Ponty and the Intelligent Body]]"
     description: "A deeper engagement with Merleau-Ponty's *Phenomenology of Perception* reveals the philosophical fou"
     priority: medium
 
@@ -163,4 +163,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Activity Theory]] · [[Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Assessment Design in the PCLE Context]] · [[Cognitive Apprenticeship]] · [[Cognitive Apprenticeship and PKB Design]] · [[Cognitive Science]] · [[Cognitive Tools]] · [[Collins, Brown, and Newman]] · [[Communities of Practice]] · [[Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Complexity Theory and Emergent Learning Environments]] · [[Constructivist Learning Environments]] · [[David Jonassen]] · [[David Kirsh]] · [[Deliberate Practice Log]]
+[[Activity-Theory|Activity Theory]] · [[Apprenticeship-Models-for-the-Self-Directed-Learner-—-Modern-Equivalents-of-Legi|Apprenticeship Models for the Self-Directed Learner — Modern Equivalents of Legitimate Peripheral Participation]] · [[Assessment-Design-in-the-PCLE-Context|Assessment Design in the PCLE Context]] · [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] · [[Cognitive-Apprenticeship-and-PKB-Design|Cognitive Apprenticeship and PKB Design]] · [[Cognitive-Science|Cognitive Science]] · [[Cognitive-Tools|Cognitive Tools]] · [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]] · [[Communities-of-Practice|Communities of Practice]] · [[Communities-of-Practice-and-the-Social-Dimension-of-Tacit-Knowledge|Communities of Practice and the Social Dimension of Tacit Knowledge]] · [[Complexity-Theory-and-Emergent-Learning-Environments|Complexity Theory and Emergent Learning Environments]] · [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] · [[David-Jonassen|David Jonassen]] · [[David-Kirsh|David Kirsh]] · [[Deliberate-Practice-Log|Deliberate Practice Log]]

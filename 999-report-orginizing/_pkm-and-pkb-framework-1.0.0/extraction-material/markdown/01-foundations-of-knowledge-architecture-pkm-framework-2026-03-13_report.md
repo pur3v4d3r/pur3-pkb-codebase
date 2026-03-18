@@ -198,12 +198,12 @@ extraction_summary:
 #### 9. [ASK-YOURSELF-THIS] Conceptual Checkpoint: Testing Foundational Understanding *(Line 159)*
 
 > [!ask-yourself-this] Conceptual Checkpoint: Testing Foundational Understanding
-> Before moving to the cross-domain connections, test your grasp of the core contrast. In a hierarchical filing system, retrieving a note requires navigating a path: you select a folder, then a subfolder, then a file. In a semantic network, retrieval operates through spreading activation — activation radiates outward from a starting concept to connected concepts. What is the functional consequence of this difference for a PKB user trying to recall something they know they stored "somewhere related to" their current topic? And why does this difference matter for how you should design your note-taking practice? If you cannot articulate this clearly, revisit the [[Semantic Networks]] and [[Spreading Activation]] definitions before proceeding — Phase IV's mechanisms build directly on this contrast.
+> Before moving to the cross-domain connections, test your grasp of the core contrast. In a hierarchical filing system, retrieving a note requires navigating a path: you select a folder, then a subfolder, then a file. In a semantic network, retrieval operates through spreading activation — activation radiates outward from a starting concept to connected concepts. What is the functional consequence of this difference for a PKB user trying to recall something they know they stored "somewhere related to" their current topic? And why does this difference matter for how you should design your note-taking practice? If you cannot articulate this clearly, revisit the [[Semantic-Networks|Semantic Networks]] and [[Spreading-Activation|Spreading Activation]] definitions before proceeding — Phase IV's mechanisms build directly on this contrast.
 
 #### 10. [CROSS-DOMAIN-CONNECTION] Schemas and KOS Are the Same Phenomenon at Different Levels of Analysis *(Line 164)*
 
 > [!cross-domain-connection] Schemas and KOS Are the Same Phenomenon at Different Levels of Analysis
-> The [[Schema Theory|schema]] of cognitive psychology and the [[Knowledge Organization System]] of information science are, at a structural level, descriptions of the same phenomenon — organized knowledge — at two different levels of analysis: one internal (cognitive) and one external (artifactual). A schema is the mind's internal KOS; a KOS is an externalized schema. This structural parallel is not a metaphor; it reflects a genuine architectural equivalence. Both schemas and KOS frameworks organize knowledge through typed relationships between categorized concepts. Both enable efficient retrieval by providing organizational structure. Both constrain what can be represented and what connections can be made. The implication for PKB design is direct: the most effective PKBs are those whose external organizational system achieves *structural correspondence* with the user's internal cognitive schemas. A PKB designed in conflict with the user's cognitive architecture creates friction at every interaction; one designed in alignment becomes a natural extension of memory — a cognitive prosthetic rather than a cognitive obstacle.
+> The [[Schema Theory|schema]] of cognitive psychology and the [[Knowledge-Organization-System|Knowledge Organization System]] of information science are, at a structural level, descriptions of the same phenomenon — organized knowledge — at two different levels of analysis: one internal (cognitive) and one external (artifactual). A schema is the mind's internal KOS; a KOS is an externalized schema. This structural parallel is not a metaphor; it reflects a genuine architectural equivalence. Both schemas and KOS frameworks organize knowledge through typed relationships between categorized concepts. Both enable efficient retrieval by providing organizational structure. Both constrain what can be represented and what connections can be made. The implication for PKB design is direct: the most effective PKBs are those whose external organizational system achieves *structural correspondence* with the user's internal cognitive schemas. A PKB designed in conflict with the user's cognitive architecture creates friction at every interaction; one designed in alignment becomes a natural extension of memory — a cognitive prosthetic rather than a cognitive obstacle.
 
 #### 11. [KEY-CLAIM] Foundational Claim 1: Knowledge is Relational, Not Propositional *(Line 167)*
 
@@ -259,7 +259,7 @@ extraction_summary:
 #### 20. [TENSION-IDENTIFIED] The Prototype-Classification Tension: A Genuine Design Dilemma *(Line 223)*
 
 > [!tension-identified] The Prototype-Classification Tension: A Genuine Design Dilemma
-> Traditional KOS frameworks — Dewey, Library of Congress, most ontologies — operate on a classical model of categories: crisp membership criteria, non-overlapping categories, hierarchical organization with clear lines of subordination. But cognitive science consistently shows that human categorization is prototypical — graded, context-sensitive, organized by family resemblance rather than necessary-and-sufficient conditions. This creates a genuine design tension that cannot be fully resolved: classical classification provides consistency and reliability (you always know where things are) but imposes cognitively unnatural crisp boundaries. Prototype-based organization is more cognitively authentic but harder to maintain consistently. [[Faceted Classification]] offers a partial resolution — multiple orthogonal dimensions can each accommodate graded, prototype-based membership judgments within dimensions while providing clear multi-dimensional structure across them. But even faceted classification imposes more structure than natural categorization requires. Any PKB designer must navigate this tension consciously rather than pretending it doesn't exist.
+> Traditional KOS frameworks — Dewey, Library of Congress, most ontologies — operate on a classical model of categories: crisp membership criteria, non-overlapping categories, hierarchical organization with clear lines of subordination. But cognitive science consistently shows that human categorization is prototypical — graded, context-sensitive, organized by family resemblance rather than necessary-and-sufficient conditions. This creates a genuine design tension that cannot be fully resolved: classical classification provides consistency and reliability (you always know where things are) but imposes cognitively unnatural crisp boundaries. Prototype-based organization is more cognitively authentic but harder to maintain consistently. [[Faceted-Classification|Faceted Classification]] offers a partial resolution — multiple orthogonal dimensions can each accommodate graded, prototype-based membership judgments within dimensions while providing clear multi-dimensional structure across them. But even faceted classification imposes more structure than natural categorization requires. Any PKB designer must navigate this tension consciously rather than pretending it doesn't exist.
 
 #### 21. [EVIDENCE] Bransford & Johnson (1972): Schema Activation and Comprehension *(Line 230)*
 
@@ -293,7 +293,7 @@ extraction_summary:
 #### 26. [ANALYTICAL-INSIGHT] The Assimilation-Accommodation Balance Reveals the Central PKB Design Challenge *(Line 264)*
 
 > [!analytical-insight] The Assimilation-Accommodation Balance Reveals the Central PKB Design Challenge
-> The assimilation-accommodation distinction reveals a deep tension in PKB design that is rarely made explicit. A PKB optimized for assimilation — one that makes it easy to add new information to existing categories, that minimizes friction and confusion, that rewards efficient capture — will systematically prevent accommodation. It will be productive as an archive but actively counterproductive as a learning system, because genuine learning (in Piaget's account) requires the productive failure of existing schemas, not their smooth extension. A PKB optimized for accommodation — one that surfaces tensions between stored positions, requires explicit linking with labeled relationships, flags contradictions, and embeds construction prompts — will be more cognitively demanding but more educationally transformative. The design question is therefore not merely "how do I organize my notes?" but "how do I design a system that creates precisely enough friction to force accommodation without overwhelming the user and destroying engagement?" This is the PKB version of Vygotsky's [[Zone of Proximal Development]] — designing for the productive edge of capability, not comfortable repetition.
+> The assimilation-accommodation distinction reveals a deep tension in PKB design that is rarely made explicit. A PKB optimized for assimilation — one that makes it easy to add new information to existing categories, that minimizes friction and confusion, that rewards efficient capture — will systematically prevent accommodation. It will be productive as an archive but actively counterproductive as a learning system, because genuine learning (in Piaget's account) requires the productive failure of existing schemas, not their smooth extension. A PKB optimized for accommodation — one that surfaces tensions between stored positions, requires explicit linking with labeled relationships, flags contradictions, and embeds construction prompts — will be more cognitively demanding but more educationally transformative. The design question is therefore not merely "how do I organize my notes?" but "how do I design a system that creates precisely enough friction to force accommodation without overwhelming the user and destroying engagement?" This is the PKB version of Vygotsky's [[Zone-of-Proximal-Development|Zone of Proximal Development]] — designing for the productive edge of capability, not comfortable repetition.
 
 #### 27. [CROSS-DOMAIN-CONNECTION] Spreading Activation and the Cognitive Case for PKB Link Density *(Line 279)*
 
@@ -366,7 +366,7 @@ extraction_summary:
 #### 39. [ORIGINAL-SYNTHESIS] The Cognitive Alignment Principle: An Original Framework for PKB Architecture *(Line 430)*
 
 > [!original-synthesis] The Cognitive Alignment Principle: An Original Framework for PKB Architecture
-> Integrating [[Schema Theory]], [[Semantic Networks]], [[Expert Knowledge Organization]], [[Faceted Classification]], and [[Constructivism]] yields a framework that none of these disciplines states explicitly but all of them jointly imply. I call this the **[[Cognitive Alignment Principle]]**:
+> Integrating [[Schema-Theory|Schema Theory]], [[Semantic-Networks|Semantic Networks]], [[Expert-Knowledge-Organization|Expert Knowledge Organization]], [[Faceted-Classification|Faceted Classification]], and [[Constructivism]] yields a framework that none of these disciplines states explicitly but all of them jointly imply. I call this the **[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]**:
 > 
 > *A Personal Knowledge Base achieves its maximum cognitive effectiveness when its external organizational structure achieves structural correspondence — cognitive alignment — with the user's internal knowledge architecture across three simultaneous dimensions.*
 > 
@@ -389,7 +389,7 @@ extraction_summary:
 #### 41. [REFLECTION] Integrating the Synthesis *(Line 463)*
 
 > [!reflection] Integrating the Synthesis
-> **Comprehension**: The [[Cognitive Alignment Principle]] integrates schema theory, semantic networks, expert knowledge organization, faceted classification, and constructivism into a three-dimensional framework (relational, depth, and construction alignment). Which of the three dimensions is most absent from your current PKB? Most users find that construction alignment — the deliberate design for accommodation rather than assimilation — is the most neglected, because it requires actively building in friction rather than optimizing for smoothness.
+> **Comprehension**: The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] integrates schema theory, semantic networks, expert knowledge organization, faceted classification, and constructivism into a three-dimensional framework (relational, depth, and construction alignment). Which of the three dimensions is most absent from your current PKB? Most users find that construction alignment — the deliberate design for accommodation rather than assimilation — is the most neglected, because it requires actively building in friction rather than optimizing for smoothness.
 > 
 > **Application**: Looking at your PKB with the Cognitive Alignment Principle as a lens: at a rough estimate, what percentage of your notes are principle-organized concept nodes (relational and depth alignment present) vs. document-organized topic files? What would it take to shift that ratio by 10% toward concept nodes over the next month?
 > 
@@ -400,23 +400,23 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Schema Theory]]** — The foundational cognitive structure around which this report's entire analysis orbits. Schema Theory not only explains how knowledge is mentally organized — it explains why organizational decisions that ignore its findings systematically underperform. Every subsequent report in this series builds on the schema concept established here, from the role of schemas in spaced repetition retrieval ([[Report 06: The Science of Remembering]]) to their restructuring through reflective practice ([[Report 08: Reflective Practice and Experiential Learning]]) to their development through deliberate difficulty ([[Report 16: Desirable Difficulties by Design]]).
+> - **[[Schema-Theory|Schema Theory]]** — The foundational cognitive structure around which this report's entire analysis orbits. Schema Theory not only explains how knowledge is mentally organized — it explains why organizational decisions that ignore its findings systematically underperform. Every subsequent report in this series builds on the schema concept established here, from the role of schemas in spaced repetition retrieval ([[Report 06: The Science of Remembering]]) to their restructuring through reflective practice ([[Report 08: Reflective Practice and Experiential Learning]]) to their development through deliberate difficulty ([[Report 16: Desirable Difficulties by Design]]).
 > 
-> - **[[Semantic Networks]] and [[Spreading Activation]]** — The specific model of mental knowledge representation that makes the direct cognitive science case for linked, associative PKB architecture. The spreading activation mechanism described here becomes the explanatory foundation for retrieval practice design in [[Report 06]] and for the value of cross-domain connection-making in [[Report 21: Dialectical Knowledge Building]].
+> - **[[Semantic-Networks|Semantic Networks]] and [[Spreading-Activation|Spreading Activation]]** — The specific model of mental knowledge representation that makes the direct cognitive science case for linked, associative PKB architecture. The spreading activation mechanism described here becomes the explanatory foundation for retrieval practice design in [[Report 06]] and for the value of cross-domain connection-making in [[Report 21: Dialectical Knowledge Building]].
 > 
 > - **[[Constructivism]]** — The philosophical commitment that meaning requires active construction, not passive reception, established here as a first-class design constraint for PKB architecture. This commitment directly informs [[Report 03: Constructing Understanding]], [[Report 08: Reflective Practice and Experiential Learning]], [[Report 14: Inquiry-Based Knowledge Building]], and [[Report 17: Note-Making as Knowledge Construction]].
 > 
-> - **[[Cognitive Load Theory]]** — Introduced by implication in this report (the assimilation-accommodation balance and the chunking mechanism both touch on cognitive load), this framework becomes central in [[Report 02: The Architecture of Learning]], which addresses how cognitive load constraints should shape individual note design and PKB interaction patterns.
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** — Introduced by implication in this report (the assimilation-accommodation balance and the chunking mechanism both touch on cognitive load), this framework becomes central in [[Report 02: The Architecture of Learning]], which addresses how cognitive load constraints should shape individual note design and PKB interaction patterns.
 > 
-> - **[[Expert Knowledge Organization]]** — Chi et al.'s research on principle-based vs. surface-feature organization establishes a benchmark and a direction for PKB design: toward expert knowledge architecture from the beginning, not just as an eventual destination. This theme recurs in [[Report 09: Designing the Learning PKB]] and [[Report 10: Scaffolding and Fading]], which address how PKB structure should evolve with developing expertise.
+> - **[[Expert-Knowledge-Organization|Expert Knowledge Organization]]** — Chi et al.'s research on principle-based vs. surface-feature organization establishes a benchmark and a direction for PKB design: toward expert knowledge architecture from the beginning, not just as an eventual destination. This theme recurs in [[Report 09: Designing the Learning PKB]] and [[Report 10: Scaffolding and Fading]], which address how PKB structure should evolve with developing expertise.
 > 
-> - **[[Faceted Classification]]** — Ranganathan's framework, introduced here as the KOS most aligned with cognitive architecture, has implications for metadata design, tagging systems, and MOC (Map of Content) structure developed further in [[Report 15: Knowledge Organization at Scale]] and [[Report 09: Designing the Learning PKB]].
+> - **[[Faceted-Classification|Faceted Classification]]** — Ranganathan's framework, introduced here as the KOS most aligned with cognitive architecture, has implications for metadata design, tagging systems, and MOC (Map of Content) structure developed further in [[Report 15: Knowledge Organization at Scale]] and [[Report 09: Designing the Learning PKB]].
 > 
-> - **[[Zone of Proximal Development]]** — Vygotsky's concept, briefly invoked in Phase IV's discussion of the assimilation-accommodation balance, is developed more fully in [[Report 10: Scaffolding and Fading]] as the theoretical basis for adaptive PKB scaffolding.
+> - **[[Zone-of-Proximal-Development|Zone of Proximal Development]]** — Vygotsky's concept, briefly invoked in Phase IV's discussion of the assimilation-accommodation balance, is developed more fully in [[Report 10: Scaffolding and Fading]] as the theoretical basis for adaptive PKB scaffolding.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
-> - **[[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]** — Builds directly on this report's schema theory and chunking foundations by adding [[Cognitive Load Theory]] and [[Working Memory]] constraints to the design picture. Where Report 01 addresses the macro question of knowledge architecture (how should knowledge be organized?), Report 02 addresses the micro question of note design (how should individual notes be formatted and sized to fit within cognitive processing constraints?). The two reports together constitute the cognitive science foundation of the entire series.
+> - **[[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]** — Builds directly on this report's schema theory and chunking foundations by adding [[Cognitive-Load-Theory|Cognitive Load Theory]] and [[Working-Memory|Working Memory]] constraints to the design picture. Where Report 01 addresses the macro question of knowledge architecture (how should knowledge be organized?), Report 02 addresses the micro question of note design (how should individual notes be formatted and sized to fit within cognitive processing constraints?). The two reports together constitute the cognitive science foundation of the entire series.
 > 
 > - **[[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]** — The synthesis report that most directly builds on this one. Report 09 takes the Cognitive Alignment Principle developed here and translates it into a complete PKB structural design framework, integrating additional findings from Reports 02, 04, and 06. Report 01 is the theoretical source; Report 09 is the practical destination.
 > 
@@ -551,7 +551,7 @@ extraction_summary:
 > 
 > **2. Theoretical integrations** (high confidence in frameworks, moderate confidence in PKB-specific implications): The constructivist framework (Piaget, Vygotsky) and knowledge organization theory (Ranganathan, Hjørland) are well-developed theoretical frameworks with substantial empirical support. The translation from these frameworks to PKB design implications involves inferential steps that should be treated as well-grounded proposals rather than direct logical deductions.
 > 
-> **3. Claude's original cross-domain synthesis contributions** (moderate confidence, explicitly flagged): The [[Cognitive Alignment Principle]], the identification of the schema-KOS structural parallel, the fractal structure prediction, the connection between spreading activation and PKB link density, and the three-way convergence of chunking, schemas, and KOS are analytical syntheses generated by integrating across disciplines. These are proposed frameworks for thinking about PKB design — not established empirical findings. They are flagged throughout the report with appropriate caveats and marked as novel synthesis.
+> **3. Claude's original cross-domain synthesis contributions** (moderate confidence, explicitly flagged): The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]], the identification of the schema-KOS structural parallel, the fractal structure prediction, the connection between spreading activation and PKB link density, and the three-way convergence of chunking, schemas, and KOS are analytical syntheses generated by integrating across disciplines. These are proposed frameworks for thinking about PKB design — not established empirical findings. They are flagged throughout the report with appropriate caveats and marked as novel synthesis.
 > 
 > **Scope caveat**: This report focuses on the theoretical and empirical foundations of knowledge architecture. It does not exhaustively survey the empirical literature on PKM systems specifically (which is substantially less developed than the cognitive science literature it draws on). The PKM/PKB design recommendations are derived from cognitive science findings via inference, not from direct experimental studies of PKB use.
 
@@ -559,34 +559,34 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Framework
 
-#### 69. [TOPIC-IDEA] [[Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]] *(Line 598)*
+#### 69. [TOPIC-IDEA] [[Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory|Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]] *(Line 598)*
 
-> [!topic-idea] [[Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]
+> [!topic-idea] [[Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory|Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]
 > Philip Johnson-Laird's mental model theory (1983) offers an important alternative to and complement of schema theory: where schemas are abstract, propositional templates, mental models are analog, spatial, and "runnable" — they can be mentally simulated to generate predictions. A mental model of a mechanical system can be "operated" in the mind's eye; a schema for the same system provides interpretive categories but not simulation capacity. What would it mean to design PKB notes that function as runnable mental models? How does the mental model perspective change the design recommendations of this report? And how do mental models and schemas interact in expert cognition? This report would extend the cognitive architecture foundation into the domain of dynamic, causal, and spatial reasoning — where schema theory alone is insufficient.
 
-#### 70. [TOPIC-IDEA] [[Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]] *(Line 601)*
+#### 70. [TOPIC-IDEA] [[Ontology-Design-for-Personal-Knowledge-Bases-—-Formal-Approaches-to-Cognitive-Al|Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]] *(Line 601)*
 
-> [!topic-idea] [[Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]]
-> The [[Cognitive Alignment Principle]] calls for PKB architecture that mirrors the relational structure of expert semantic memory. Formal ontology design (OWL, RDF, knowledge graphs) represents the most sophisticated technical approach to this challenge — specifying not only concepts and hierarchical relationships but arbitrary typed relationships, inference rules, and formal axioms. What would it look like to apply ontology design methodology to personal PKB architecture? What relationship vocabulary would serve a generalist lifelong learner? How should the specificity and expressiveness of the relationship ontology be calibrated to balance cognitive power against maintenance burden? This report would develop the practical implementation of the Cognitive Alignment Principle at the highest level of technical precision.
+> [!topic-idea] [[Ontology-Design-for-Personal-Knowledge-Bases-—-Formal-Approaches-to-Cognitive-Al|Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]]
+> The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] calls for PKB architecture that mirrors the relational structure of expert semantic memory. Formal ontology design (OWL, RDF, knowledge graphs) represents the most sophisticated technical approach to this challenge — specifying not only concepts and hierarchical relationships but arbitrary typed relationships, inference rules, and formal axioms. What would it look like to apply ontology design methodology to personal PKB architecture? What relationship vocabulary would serve a generalist lifelong learner? How should the specificity and expressiveness of the relationship ontology be calibrated to balance cognitive power against maintenance burden? This report would develop the practical implementation of the Cognitive Alignment Principle at the highest level of technical precision.
 
-#### 71. [TOPIC-IDEA] [[The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]] *(Line 604)*
+#### 71. [TOPIC-IDEA] [[The-Novice-to-Expert-Transition-in-Knowledge-Organization-—-Implications-for-PKB|The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]] *(Line 604)*
 
-> [!topic-idea] [[The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]]
+> [!topic-idea] [[The-Novice-to-Expert-Transition-in-Knowledge-Organization-—-Implications-for-PKB|The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]]
 > Chi et al.'s research documents a difference in knowledge organization between novice and expert. But what is the cognitive mechanism of the transition — how do surface-feature categories give way to principle-based ones as expertise develops? And what role can a PKB play in actively supporting or impeding this transition? This report would examine cognitive development in knowledge organization from the perspective of deliberate PKB practice, developing a model of how a PKB designed according to the Cognitive Alignment Principle from the beginning can accelerate the novice-to-expert transition. It connects directly to [[Report 10: Scaffolding and Fading]] and [[Report 24: Self-Determined Learning and the PKB]].
 
-#### 72. [TOPIC-IDEA] [[Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]] *(Line 607)*
+#### 72. [TOPIC-IDEA] [[Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture|Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]] *(Line 607)*
 
-> [!topic-idea] [[Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]
+> [!topic-idea] [[Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture|Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]
 > This report's cognitive architecture is propositional and symbolic — it describes knowledge in terms of concepts, relationships, and schemas represented in language-like structures. But a significant strand of cognitive science — embodied cognition (Lakoff & Johnson, 1999; Varela, Thompson & Rosch, 1991) and situated cognition (Brown, Collins & Duguid, 1989) — argues that much of what we know is grounded in bodily experience and situational context in ways that cannot be fully captured in text-based representations. This creates a genuine limitation for text-based PKBs that this report's framework does not adequately address. What categories of knowledge resist text-based capture? What complementary practices can address these categories? And how should PKB design acknowledge its own limits? This report would honestly examine the boundaries of the Cognitive Alignment Principle and connect to [[Report 22: Tacit Knowledge and the Limits of Capture]].
 
 #### 73. [TOPIC-IDEA] [[The Cognitive Economics of PKB Maintenance — When Organizational Effort Pays Off]] *(Line 610)*
 
 > [!topic-idea] [[The Cognitive Economics of PKB Maintenance — When Organizational Effort Pays Off]]
-> The [[Cognitive Alignment Principle]] calls for principle-organized concept notes, explicit relationship typing, multi-dimensional tagging, and accommodation-enabling prompts — all of which require substantially more effort at the point of note creation than simple capture-and-file practices. This creates an important economic question: when does organizational overhead pay off in retrieval and learning dividends, and when does it become self-defeating? Drawing on attention research (Kahneman, 2011), habit formation theory (Wood & Rünger, 2016), and the Stoic concept of judicious allocation of effort, this report would develop a framework for calibrating organizational investment to the expected cognitive return — and for identifying which note-creation practices deserve high investment and which can be done quickly with minimal overhead.
+> The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] calls for principle-organized concept notes, explicit relationship typing, multi-dimensional tagging, and accommodation-enabling prompts — all of which require substantially more effort at the point of note creation than simple capture-and-file practices. This creates an important economic question: when does organizational overhead pay off in retrieval and learning dividends, and when does it become self-defeating? Drawing on attention research (Kahneman, 2011), habit formation theory (Wood & Rünger, 2016), and the Stoic concept of judicious allocation of effort, this report would develop a framework for calibrating organizational investment to the expected cognitive return — and for identifying which note-creation practices deserve high investment and which can be done quickly with minimal overhead.
 
-#### 74. [TOPIC-IDEA] [[Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]] *(Line 613)*
+#### 74. [TOPIC-IDEA] [[Knowledge-Graph-Theory-Applied-to-PKB-Design-—-Network-Science-for-Personal-Know|Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]] *(Line 613)*
 
-> [!topic-idea] [[Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]]
+> [!topic-idea] [[Knowledge-Graph-Theory-Applied-to-PKB-Design-—-Network-Science-for-Personal-Know|Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]]
 > The recommendation to build PKBs as semantic networks invites analysis using the formal tools of network science. Concepts like degree centrality (which notes are most connected?), betweenness centrality (which notes bridge different conceptual neighborhoods?), clustering coefficients (how locally dense is connectivity around any given note?), and scale-free network structure have direct applications to PKB design and analysis. What does a network analysis of a mature PKB reveal about the quality of its knowledge organization? And what network-theoretic metrics should PKB practitioners track as leading indicators of knowledge architecture quality? This report would bridge knowledge management, cognitive science, and network science in a quantitative analysis of PKB structure.
 
 ---
@@ -600,26 +600,26 @@ extraction_summary:
 ### Unique Targets
 
 - [[Accommodation]]
-- [[Cognitive Alignment Principle]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
-- [[Confirmation Bias]]
+- [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Constructivism]]
-- [[Desirable Difficulties]]
-- [[Educational Philosophy]]
-- [[Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]
-- [[Encoding Specificity]]
-- [[Expert Knowledge Organization]]
-- [[Faceted Classification]]
-- [[Information Science]]
-- [[Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]]
-- [[Knowledge Management]]
-- [[Knowledge Organization System]]
-- [[Knowledge Organization Systems]]
-- [[Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Educational-Philosophy|Educational Philosophy]]
+- [[Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture|Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]
+- [[Encoding-Specificity|Encoding Specificity]]
+- [[Expert-Knowledge-Organization|Expert Knowledge Organization]]
+- [[Faceted-Classification|Faceted Classification]]
+- [[Information-Science|Information Science]]
+- [[Knowledge-Graph-Theory-Applied-to-PKB-Design-—-Network-Science-for-Personal-Know|Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]]
+- [[Knowledge-Management|Knowledge Management]]
+- [[Knowledge-Organization-System|Knowledge Organization System]]
+- [[Knowledge-Organization-Systems|Knowledge Organization Systems]]
+- [[Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory|Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]
 - [[Ontologies]]
-- [[Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]]
-- [[Personal Knowledge Base]]
+- [[Ontology-Design-for-Personal-Knowledge-Bases-—-Formal-Approaches-to-Cognitive-Al|Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Principle A]]
 - [[Principle B]]
 - [[Report 02: The Architecture of Learning]]
@@ -640,74 +640,74 @@ extraction_summary:
 - [[Report 22: Tacit Knowledge and the Limits of Capture]]
 - [[Report 24: Self-Determined Learning and the PKB]]
 - [[Schema]]
-- [[Schema Theory]]
-- [[Semantic Networks]]
-- [[Spreading Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Semantic-Networks|Semantic Networks]]
+- [[Spreading-Activation|Spreading Activation]]
 - [[Taxonomies]]
 - [[The Cognitive Economics of PKB Maintenance — When Organizational Effort Pays Off]]
-- [[The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]]
-- [[Working Memory]]
-- [[Zone of Proximal Development]]
+- [[The-Novice-to-Expert-Transition-in-Knowledge-Organization-—-Implications-for-PKB|The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]]
+- [[Working-Memory|Working Memory]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[adjacent principle]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Base]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
-| 2 | [[Cognitive Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
-| 3 | [[Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
-| 4 | [[Educational Philosophy]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
-| 5 | [[Schema Theory]] | — | — | The Synthesis Question | 99 |
-| 6 | [[Knowledge Organization Systems]] | — | — | The Synthesis Question | 99 |
+| 1 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
+| 2 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
+| 3 | [[Knowledge-Management|Knowledge Management]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
+| 4 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Phase I: Orientation & Synthesis Focus | 93 |
+| 5 | [[Schema-Theory|Schema Theory]] | — | — | The Synthesis Question | 99 |
+| 6 | [[Knowledge-Organization-Systems|Knowledge Organization Systems]] | — | — | The Synthesis Question | 99 |
 | 7 | [[Constructivism]] | — | — | The Synthesis Question | 99 |
-| 8 | [[Cognitive Psychology]] | — | — | The Synthesis Question | 101 |
-| 9 | [[Information Science]] | — | — | The Synthesis Question | 101 |
-| 10 | [[Knowledge Management]] | — | — | The Synthesis Question | 101 |
+| 8 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Synthesis Question | 101 |
+| 9 | [[Information-Science|Information Science]] | — | — | The Synthesis Question | 101 |
+| 10 | [[Knowledge-Management|Knowledge Management]] | — | — | The Synthesis Question | 101 |
 | 11 | [[Constructivism]] | — | — | The Synthesis Question | 101 |
 | 12 | [[Report 06: The Science of Remembering]] | — | — | Scope and Cross-Domain Preview | 107 |
 | 13 | [[Report 02: The Architecture of Learning]] | — | — | Scope and Cross-Domain Preview | 107 |
 | 14 | [[Report 15: Knowledge Organization at Scale]] | — | — | Scope and Cross-Domain Preview | 107 |
-| 15 | [[Cognitive Psychology]] | — | — | Scope and Cross-Domain Preview | 111 |
-| 16 | [[Schema Theory]] | — | — | Scope and Cross-Domain Preview | 111 |
-| 17 | [[Semantic Networks]] | — | — | Scope and Cross-Domain Preview | 111 |
-| 18 | [[Information Science]] | — | — | Scope and Cross-Domain Preview | 112 |
-| 19 | [[Knowledge Management]] | — | — | Scope and Cross-Domain Preview | 112 |
-| 20 | [[Faceted Classification]] | — | — | Scope and Cross-Domain Preview | 112 |
+| 15 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Scope and Cross-Domain Preview | 111 |
+| 16 | [[Schema-Theory|Schema Theory]] | — | — | Scope and Cross-Domain Preview | 111 |
+| 17 | [[Semantic-Networks|Semantic Networks]] | — | — | Scope and Cross-Domain Preview | 111 |
+| 18 | [[Information-Science|Information Science]] | — | — | Scope and Cross-Domain Preview | 112 |
+| 19 | [[Knowledge-Management|Knowledge Management]] | — | — | Scope and Cross-Domain Preview | 112 |
+| 20 | [[Faceted-Classification|Faceted Classification]] | — | — | Scope and Cross-Domain Preview | 112 |
 | 21 | [[Ontologies]] | — | — | Scope and Cross-Domain Preview | 112 |
 | 22 | [[Taxonomies]] | — | — | Scope and Cross-Domain Preview | 112 |
 | 23 | [[Constructivism]] | — | — | Scope and Cross-Domain Preview | 113 |
-| 24 | [[Cognitive Alignment Principle]] | — | — | Scope and Cross-Domain Preview | 115 |
-| 25 | [[Semantic Networks]] | — | — | Initial Cross-Domain Connections | 160 |
-| 26 | [[Spreading Activation]] | — | — | Initial Cross-Domain Connections | 160 |
-| 27 | [[Schema Theory]] | schema | — | Initial Cross-Domain Connections | 165 |
-| 28 | [[Knowledge Organization System]] | — | — | Initial Cross-Domain Connections | 165 |
-| 29 | [[Faceted Classification]] | — | — | The Prototype Theory Evidence | 224 |
-| 30 | [[Zone of Proximal Development]] | — | — | Mechanism 1: Schema Formation — Assim... | 265 |
-| 31 | [[Encoding Specificity]] | — | — | Mechanism 2: Spreading Activation and... | 273 |
-| 32 | [[Confirmation Bias]] | — | — | Design Principle 1: Organize by Conce... | 334 |
-| 33 | [[Confirmation Bias]] | — | — | Design Principle 2: Prioritize Linkin... | 350 |
+| 24 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Scope and Cross-Domain Preview | 115 |
+| 25 | [[Semantic-Networks|Semantic Networks]] | — | — | Initial Cross-Domain Connections | 160 |
+| 26 | [[Spreading-Activation|Spreading Activation]] | — | — | Initial Cross-Domain Connections | 160 |
+| 27 | [[Schema-Theory|Schema Theory]] | schema | — | Initial Cross-Domain Connections | 165 |
+| 28 | [[Knowledge-Organization-System|Knowledge Organization System]] | — | — | Initial Cross-Domain Connections | 165 |
+| 29 | [[Faceted-Classification|Faceted Classification]] | — | — | The Prototype Theory Evidence | 224 |
+| 30 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Mechanism 1: Schema Formation — Assim... | 265 |
+| 31 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Mechanism 2: Spreading Activation and... | 273 |
+| 32 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Design Principle 1: Organize by Conce... | 334 |
+| 33 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Design Principle 2: Prioritize Linkin... | 350 |
 | 34 | [[Accommodation]] | — | — | Design Principle 2: Prioritize Linkin... | 350 |
-| 35 | [[Desirable Difficulties]] | — | — | Design Principle 2: Prioritize Linkin... | 350 |
+| 35 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Design Principle 2: Prioritize Linkin... | 350 |
 | 36 | [[Principle A]] | — | — | Design Principle 5: Design the PKB to... | 380 |
 | 37 | [[Principle B]] | — | — | Design Principle 5: Design the PKB to... | 380 |
 | 38 | [[adjacent principle]] | — | — | Design Principle 5: Design the PKB to... | 381 |
 | 39 | [[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]] | — | — | Limitations and Honest Boundaries | 400 |
-| 40 | [[Schema Theory]] | — | — | The Cognitive Alignment Principle | 432 |
-| 41 | [[Semantic Networks]] | — | — | The Cognitive Alignment Principle | 432 |
-| 42 | [[Expert Knowledge Organization]] | — | — | The Cognitive Alignment Principle | 432 |
-| 43 | [[Faceted Classification]] | — | — | The Cognitive Alignment Principle | 432 |
+| 40 | [[Schema-Theory|Schema Theory]] | — | — | The Cognitive Alignment Principle | 432 |
+| 41 | [[Semantic-Networks|Semantic Networks]] | — | — | The Cognitive Alignment Principle | 432 |
+| 42 | [[Expert-Knowledge-Organization|Expert Knowledge Organization]] | — | — | The Cognitive Alignment Principle | 432 |
+| 43 | [[Faceted-Classification|Faceted Classification]] | — | — | The Cognitive Alignment Principle | 432 |
 | 44 | [[Constructivism]] | — | — | The Cognitive Alignment Principle | 432 |
-| 45 | [[Cognitive Alignment Principle]] | — | — | The Cognitive Alignment Principle | 432 |
+| 45 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | The Cognitive Alignment Principle | 432 |
 | 46 | [[Schema]] | — | — | Return-and-Deepen: The Full Meaning o... | 449 |
 | 47 | [[Report 10: Scaffolding and Fading]] | — | — | The Synthesis Question Answered — And... | 457 |
-| 48 | [[Cognitive Alignment Principle]] | — | — | The Synthesis Question Answered — And... | 465 |
-| 49 | [[Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
+| 48 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | The Synthesis Question Answered — And... | 465 |
+| 49 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
 | 50 | [[Report 06: The Science of Remembering]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
 | 51 | [[Report 08: Reflective Practice and Experiential Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
 | 52 | [[Report 16: Desirable Difficulties by Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
-| 53 | [[Semantic Networks]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
-| 54 | [[Spreading Activation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
+| 53 | [[Semantic-Networks|Semantic Networks]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
+| 54 | [[Spreading-Activation|Spreading Activation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
 | 55 | [[Report 06]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
 | 56 | [[Report 21: Dialectical Knowledge Building]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
 | 57 | [[Constructivism]] | — | — | Phase VII: PKB Connections & Cross-Re... | 482 |
@@ -715,32 +715,32 @@ extraction_summary:
 | 59 | [[Report 08: Reflective Practice and Experiential Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 482 |
 | 60 | [[Report 14: Inquiry-Based Knowledge Building]] | — | — | Phase VII: PKB Connections & Cross-Re... | 482 |
 | 61 | [[Report 17: Note-Making as Knowledge Construction]] | — | — | Phase VII: PKB Connections & Cross-Re... | 482 |
-| 62 | [[Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 484 |
+| 62 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 484 |
 | 63 | [[Report 02: The Architecture of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 484 |
-| 64 | [[Expert Knowledge Organization]] | — | — | Phase VII: PKB Connections & Cross-Re... | 486 |
+| 64 | [[Expert-Knowledge-Organization|Expert Knowledge Organization]] | — | — | Phase VII: PKB Connections & Cross-Re... | 486 |
 | 65 | [[Report 09: Designing the Learning PKB]] | — | — | Phase VII: PKB Connections & Cross-Re... | 486 |
 | 66 | [[Report 10: Scaffolding and Fading]] | — | — | Phase VII: PKB Connections & Cross-Re... | 486 |
-| 67 | [[Faceted Classification]] | — | — | Phase VII: PKB Connections & Cross-Re... | 488 |
+| 67 | [[Faceted-Classification|Faceted Classification]] | — | — | Phase VII: PKB Connections & Cross-Re... | 488 |
 | 68 | [[Report 15: Knowledge Organization at Scale]] | — | — | Phase VII: PKB Connections & Cross-Re... | 488 |
 | 69 | [[Report 09: Designing the Learning PKB]] | — | — | Phase VII: PKB Connections & Cross-Re... | 488 |
-| 70 | [[Zone of Proximal Development]] | — | — | Phase VII: PKB Connections & Cross-Re... | 490 |
+| 70 | [[Zone-of-Proximal-Development|Zone of Proximal Development]] | — | — | Phase VII: PKB Connections & Cross-Re... | 490 |
 | 71 | [[Report 10: Scaffolding and Fading]] | — | — | Phase VII: PKB Connections & Cross-Re... | 490 |
 | 72 | [[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 494 |
-| 73 | [[Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 494 |
-| 74 | [[Working Memory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 494 |
+| 73 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 494 |
+| 74 | [[Working-Memory|Working Memory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 494 |
 | 75 | [[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 496 |
-| 76 | [[Cognitive Alignment Principle]] | — | — | C. Methodology and Sources Note | 590 |
-| 77 | [[Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]] | — | — | D. Expansion Topics | 598 |
-| 78 | [[Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]] | — | — | D. Expansion Topics | 601 |
-| 79 | [[Cognitive Alignment Principle]] | — | — | D. Expansion Topics | 602 |
-| 80 | [[The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]] | — | — | D. Expansion Topics | 604 |
+| 76 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | C. Methodology and Sources Note | 590 |
+| 77 | [[Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory|Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]] | — | — | D. Expansion Topics | 598 |
+| 78 | [[Ontology-Design-for-Personal-Knowledge-Bases-—-Formal-Approaches-to-Cognitive-Al|Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]] | — | — | D. Expansion Topics | 601 |
+| 79 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | D. Expansion Topics | 602 |
+| 80 | [[The-Novice-to-Expert-Transition-in-Knowledge-Organization-—-Implications-for-PKB|The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]] | — | — | D. Expansion Topics | 604 |
 | 81 | [[Report 10: Scaffolding and Fading]] | — | — | D. Expansion Topics | 605 |
 | 82 | [[Report 24: Self-Determined Learning and the PKB]] | — | — | D. Expansion Topics | 605 |
-| 83 | [[Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]] | — | — | D. Expansion Topics | 607 |
+| 83 | [[Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture|Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]] | — | — | D. Expansion Topics | 607 |
 | 84 | [[Report 22: Tacit Knowledge and the Limits of Capture]] | — | — | D. Expansion Topics | 608 |
 | 85 | [[The Cognitive Economics of PKB Maintenance — When Organizational Effort Pays Off]] | — | — | D. Expansion Topics | 610 |
-| 86 | [[Cognitive Alignment Principle]] | — | — | D. Expansion Topics | 611 |
-| 87 | [[Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]] | — | — | D. Expansion Topics | 613 |
+| 86 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | D. Expansion Topics | 611 |
+| 87 | [[Knowledge-Graph-Theory-Applied-to-PKB-Design-—-Network-Science-for-Personal-Know|Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]] | — | — | D. Expansion Topics | 613 |
 
 ---
 
@@ -779,26 +779,26 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Accommodation]]
-- [[Cognitive Alignment Principle]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
-- [[Confirmation Bias]]
+- [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
 - [[Constructivism]]
-- [[Desirable Difficulties]]
-- [[Educational Philosophy]]
-- [[Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]
-- [[Encoding Specificity]]
-- [[Expert Knowledge Organization]]
-- [[Faceted Classification]]
-- [[Information Science]]
-- [[Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]]
-- [[Knowledge Management]]
-- [[Knowledge Organization System]]
-- [[Knowledge Organization Systems]]
-- [[Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Educational-Philosophy|Educational Philosophy]]
+- [[Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture|Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]
+- [[Encoding-Specificity|Encoding Specificity]]
+- [[Expert-Knowledge-Organization|Expert Knowledge Organization]]
+- [[Faceted-Classification|Faceted Classification]]
+- [[Information-Science|Information Science]]
+- [[Knowledge-Graph-Theory-Applied-to-PKB-Design-—-Network-Science-for-Personal-Know|Knowledge Graph Theory Applied to PKB Design — Network Science for Personal Knowledge]]
+- [[Knowledge-Management|Knowledge Management]]
+- [[Knowledge-Organization-System|Knowledge Organization System]]
+- [[Knowledge-Organization-Systems|Knowledge Organization Systems]]
+- [[Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory|Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]
 - [[Ontologies]]
-- [[Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]]
-- [[Personal Knowledge Base]]
+- [[Ontology-Design-for-Personal-Knowledge-Bases-—-Formal-Approaches-to-Cognitive-Al|Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Principle A]]
 - [[Principle B]]
 - [[Report 02: The Architecture of Learning]]
@@ -819,14 +819,14 @@ extraction_summary:
 - [[Report 22: Tacit Knowledge and the Limits of Capture]]
 - [[Report 24: Self-Determined Learning and the PKB]]
 - [[Schema]]
-- [[Schema Theory]]
-- [[Semantic Networks]]
-- [[Spreading Activation]]
+- [[Schema-Theory|Schema Theory]]
+- [[Semantic-Networks|Semantic Networks]]
+- [[Spreading-Activation|Spreading Activation]]
 - [[Taxonomies]]
 - [[The Cognitive Economics of PKB Maintenance — When Organizational Effort Pays Off]]
-- [[The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]]
-- [[Working Memory]]
-- [[Zone of Proximal Development]]
+- [[The-Novice-to-Expert-Transition-in-Knowledge-Organization-—-Implications-for-PKB|The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]]
+- [[Working-Memory|Working Memory]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 - [[adjacent principle]]
 
 ---

@@ -75,7 +75,7 @@ see-also:
   - "[[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]]"
   - "[[19-sustaining-lifelong-learning-pkm-framework]]"
   - "[[26-feedback-loops-pkm-framework]]"
-  - "[[Academic Anxiety]]"
+  - "[[Academic-Anxiety|Academic Anxiety]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -106,7 +106,7 @@ importance: high
 # Mastery Orientation vs. Helpless Orientation
 
 > [!definition] **Mastery Orientation vs. Helpless Orientation**
-> Carol Dweck's extension of helplessness research into classroom achievement contexts identified two response patterns to academic failure that track closely with causal attribution styles. *Mastery-oriented* children attribute failure to strategy and effort (controllable, unstable, specific) and respond to setbacks with increased engagement and strategy variation. *Helpless-oriented* children attribute failure to ability (uncontrollable, stable, global) and respond to setbacks with decreased engagement, negative affect, and performance deterioration — even on tasks they had previously mastered successfully. Dweck's later work connected these orientations to [[Implicit Theory of Intelligence]]: children who believe intelligence is fixed (entity theory) are more likely to develop helpless orientations; children who believe intelligence is malleable (incremental theory / [[Growth Mindset]]) are more likely to develop mastery orientations.
+> Carol Dweck's extension of helplessness research into classroom achievement contexts identified two response patterns to academic failure that track closely with causal attribution styles. *Mastery-oriented* children attribute failure to strategy and effort (controllable, unstable, specific) and respond to setbacks with increased engagement and strategy variation. *Helpless-oriented* children attribute failure to ability (uncontrollable, stable, global) and respond to setbacks with decreased engagement, negative affect, and performance deterioration — even on tasks they had previously mastered successfully. Dweck's later work connected these orientations to [[Implicit Theory of Intelligence]]: children who believe intelligence is fixed (entity theory) are more likely to develop helpless orientations; children who believe intelligence is malleable (incremental theory / [[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]) are more likely to develop mastery orientations.
 
 ## Core Explanation
 
@@ -139,4 +139,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[05-motivation-architecture-pkm-framework-2026-03-13]] · [[09-designing-the-learning-pkb-pkm-framework-2026-03-14]] · [[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]] · [[19-sustaining-lifelong-learning-pkm-framework]] · [[26-feedback-loops-pkm-framework]] · [[Academic Anxiety]] · [[Alexithymia and Emotional Literacy as PKB Prerequisites]] · [[Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]] · [[Autonomy Need]] · [[Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]] · [[Boredom in Learning]] · [[Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]] · [[Competence Need]]
+[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[05-motivation-architecture-pkm-framework-2026-03-13]] · [[09-designing-the-learning-pkb-pkm-framework-2026-03-14]] · [[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]] · [[19-sustaining-lifelong-learning-pkm-framework]] · [[26-feedback-loops-pkm-framework]] · [[Academic-Anxiety|Academic Anxiety]] · [[Alexithymia-and-Emotional-Literacy-as-PKB-Prerequisites|Alexithymia and Emotional Literacy as PKB Prerequisites]] · [[Anxiety-and-Working-Memory-—-The-Cognitive-Cost-of-Emotional-Dysregulation-Durin|Anxiety and Working Memory — The Cognitive Cost of Emotional Dysregulation During Learning]] · [[Autonomy-Need|Autonomy Need]] · [[Boredom-as-an-Academic-Emotion-—-Causes,-Consequences,-and-PKB-Design-Responses|Boredom as an Academic Emotion — Causes, Consequences, and PKB Design Responses]] · [[Boredom-in-Learning|Boredom in Learning]] · [[Compassion-Focused-Approaches-to-Learning-Difficulty-—-Self-Compassion-and-Shame|Compassion-Focused Approaches to Learning Difficulty — Self-Compassion and Shame in PKM]] · [[Competence-Need|Competence Need]]

@@ -62,13 +62,13 @@ related:
   - "[[Pedagogy]]"
   - "[[Andragogy]]"
   - "[[Heutagogy]]"
-  - "[[Expertise Reversal Effect]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]"
   - "[[Scaffolding]]"
   - "[[Fading]]"
-  - "[[Zone of Proximal Development]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Dreyfus Model of Skill Acquisition]]"
-  - "[[Self-Regulated Learning]]"
+  - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
 
 broader:
   - "[[]]"
@@ -77,13 +77,13 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Double-Loop Learning in Practice: Templates for PKB Meta-Review]]"
+  - "[[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Double-Loop-Learning-in-Practice-Templates-for-PKB-Meta-Review|Double-Loop Learning in Practice: Templates for PKB Meta-Review]]"
   - "[[Dunning-Kruger]]"
-  - "[[Educational Science]]"
-  - "[[Illusion of Knowing]]"
-  - "[[Personal Knowledge Management]]"
+  - "[[Educational-Science|Educational Science]]"
+  - "[[Illusion-of-Knowing|Illusion of Knowing]]"
+  - "[[Personal-Knowledge-Management|Personal Knowledge Management]]"
   - "[[Report 01: Foundations of Knowledge Architecture]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -105,13 +105,13 @@ expansion-topics:
   - topic: "[[Report 16: Desirable Difficulties by Design — Making PKM Productively Hard]]"
     description: "Report 16 will address what replaces scaffolding as it fades: not mere absence of structure, but del"
     priority: medium
-  - topic: "[[Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]"
+  - topic: "[[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]"
     description: "Intelligent Tutoring Systems (ITS) — software that automatically adapts instruction to learner state"
     priority: medium
-  - topic: "[[The Expertise Reversal Effect Across Knowledge Domains: What Counts as 'Expertise' in a PKB?]]"
+  - topic: "[[The-Expertise-Reversal-Effect-Across-Knowledge-Domains-What-Counts-as-'Expertise|The Expertise Reversal Effect Across Knowledge Domains: What Counts as 'Expertise' in a PKB?]]"
     description: "The expertise reversal literature was developed primarily in mathematics, physics, and computer scie"
     priority: medium
-  - topic: "[[Scaffolding for Interdisciplinary Synthesis: A PKB Design Challenge]]"
+  - topic: "[[Scaffolding-for-Interdisciplinary-Synthesis-A-PKB-Design-Challenge|Scaffolding for Interdisciplinary Synthesis: A PKB Design Challenge]]"
     description: "The Stage 1–4 design framework assumes domain expertise as the governing variable. But a significant"
     priority: medium
 
@@ -161,10 +161,10 @@ importance: high
 
 **Cross-report connections:**
 - [[Andragogy]]
-- [[Dreyfus Model of Skill Acquisition]]
+- [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]]
 
 **Cross-report connections:**
-- [[Tacit Knowledge]]
+- [[Tacit-Knowledge|Tacit Knowledge]]
 
 **Related concepts:**
-[[Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]] · [[Andragogy]] · [[Cognitive Apprenticeship]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Double-Loop Learning in Practice: Templates for PKB Meta-Review]] · [[Dreyfus Model of Skill Acquisition]] · [[Dunning-Kruger]] · [[Educational Science]] · [[Expertise Reversal Effect]] · [[Fading]] · [[Illusion of Knowing]] · [[Instructional Design]] · [[Metacognitive Development]]
+[[Adaptive-Learning-Systems-and-PKB-Lessons-from-Intelligent-Tutoring-Systems|Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]] · [[Andragogy]] · [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Double-Loop-Learning-in-Practice-Templates-for-PKB-Meta-Review|Double-Loop Learning in Practice: Templates for PKB Meta-Review]] · [[Dreyfus-Model-of-Skill-Acquisition-—-Philosophy-&-Cognitive-Science-Dreyfus-&-Dr|Dreyfus Model of Skill Acquisition]] · [[Dunning-Kruger]] · [[Educational-Science|Educational Science]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] · [[Fading]] · [[Illusion-of-Knowing|Illusion of Knowing]] · [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] · [[Metacognitive-Development|Metacognitive Development]]

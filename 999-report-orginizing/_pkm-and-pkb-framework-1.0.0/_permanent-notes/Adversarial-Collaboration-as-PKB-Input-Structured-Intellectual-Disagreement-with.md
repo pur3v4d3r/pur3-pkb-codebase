@@ -76,7 +76,7 @@ importance: high
 - [[Dialectic]]
 - [[Dialectic,-Hegelian]]
 - [[Dialectical-Thinking]]
-- [[Elenchus]]
+- [[Socratic-Method-Elenchus|Elenchus]]
 - [[Equilibration]]
 - [[Pragma-Dialectics]]
 - [[Productive-Failure]]

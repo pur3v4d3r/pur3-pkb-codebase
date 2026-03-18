@@ -74,7 +74,7 @@ see-also:
   - "[[10-scaffolding-and-fading-pkm-framework-2026-03-14]]"
   - "[[11-transfer-problem-pkm-framework-2026-03-14]]"
   - "[[Aporia]]"
-  - "[[Aporia-to-Schema Pipeline]]"
+  - "[[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -108,7 +108,7 @@ importance: high
 # Generative Learning
 
 > [!definition] **Generative Learning**
-> Merlin Wittrock's model of [[Generative Learning]] proposes that learning is not a passive reception of information but an active process of generating relationships between new information and prior knowledge and experience. Understanding — as opposed to mere retention — occurs when the learner generates the organizational and integrative structures themselves, rather than receiving them pre-built. The implications are significant: a learning activity in which the learner generates the connections, summaries, examples, and explanations is not merely more effortful than passive reception; it is categorically different in kind. Generative activities produce understanding; passive reception produces familiarity without comprehension.
+> Merlin Wittrock's model of [[Generative-Learning|Generative Learning]] proposes that learning is not a passive reception of information but an active process of generating relationships between new information and prior knowledge and experience. Understanding — as opposed to mere retention — occurs when the learner generates the organizational and integrative structures themselves, rather than receiving them pre-built. The implications are significant: a learning activity in which the learner generates the connections, summaries, examples, and explanations is not merely more effortful than passive reception; it is categorically different in kind. Generative activities produce understanding; passive reception produces familiarity without comprehension.
 
 ## Core Explanation
 
@@ -167,10 +167,10 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Cognitive Disequilibrium]]
+- [[Cognitive-Disequilibrium|Cognitive Disequilibrium]]
 
 **Cross-report connections:**
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 
 **Related concepts:**
-[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Aporia]] · [[Aporia-to-Schema Pipeline]] · [[Child-Inquiry-Node]] · [[Cognitive Disequilibrium]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Competing-View-Note]] · [[Constructivism]] · [[Constructivist Learning Environments]]
+[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Aporia]] · [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]] · [[Child-Inquiry-Node]] · [[Cognitive-Disequilibrium|Cognitive Disequilibrium]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Competing-View-Note]] · [[Constructivism]] · [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]

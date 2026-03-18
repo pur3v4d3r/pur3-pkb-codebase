@@ -58,16 +58,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Knowledge Integration]]"
-  - "[[Conceptual Change]]"
-  - "[[Small-World Networks]]"
-  - "[[Betweenness Centrality]]"
-  - "[[Strength of Weak Ties]]"
-  - "[[Threshold Concepts]]"
-  - "[[Inert Knowledge]]"
-  - "[[Ontological Category Shifts]]"
-  - "[[Progressive Differentiation]]"
-  - "[[Integrative Reconciliation]]"
+  - "[[Knowledge-Integration|Knowledge Integration]]"
+  - "[[Conceptual-Change|Conceptual Change]]"
+  - "[[Small-World-Networks|Small-World Networks]]"
+  - "[[Betweenness-Centrality|Betweenness Centrality]]"
+  - "[[Strength-of-Weak-Ties|Strength of Weak Ties]]"
+  - "[[Threshold-Concepts|Threshold Concepts]]"
+  - "[[Inert-Knowledge|Inert Knowledge]]"
+  - "[[Ontological-Category-Shifts|Ontological Category Shifts]]"
+  - "[[Progressive-Differentiation|Progressive Differentiation]]"
+  - "[[Integrative-Reconciliation|Integrative Reconciliation]]"
 
 broader:
   - "[[]]"
@@ -76,14 +76,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Active Note-Making]]"
-  - "[[Alfred North Whitehead]]"
-  - "[[Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
-  - "[[Assimilation and Accommodation]]"
-  - "[[Cognitive Alignment Principle]]"
-  - "[[Cognitive Flexibility Theory and PKB Multi-Representational Design]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Collins and Loftus]]"
+  - "[[Active-Note-Making|Active Note-Making]]"
+  - "[[Alfred-North-Whitehead|Alfred North Whitehead]]"
+  - "[[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
+  - "[[Assimilation-and-Accommodation|Assimilation and Accommodation]]"
+  - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
+  - "[[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Collins-and-Loftus|Collins and Loftus]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -116,7 +116,7 @@ importance: high
 # Betweenness Centrality
 
 > [!definition] **Betweenness Centrality**
-> A measure of a node's structural importance in a network, defined as the proportion of shortest paths between all other node pairs that pass through that node. A node with high [[Betweenness Centrality]] is a *bridge* — it lies on the shortest route between many pairs of nodes that would otherwise be far apart or disconnected. In a PKB, a note with high betweenness centrality is not necessarily the most-linked note (that would be high-degree centrality, characteristic of hub notes), but rather the note that *mediates* connections between otherwise-distant clusters. [[Threshold Concepts]] — the ideas that, once understood, transform how you see an entire domain — typically function as high-betweenness-centrality nodes in a well-integrated knowledge network. Their removal would dramatically increase average path length, fragmenting integration.
+> A measure of a node's structural importance in a network, defined as the proportion of shortest paths between all other node pairs that pass through that node. A node with high [[Betweenness-Centrality|Betweenness Centrality]] is a *bridge* — it lies on the shortest route between many pairs of nodes that would otherwise be far apart or disconnected. In a PKB, a note with high betweenness centrality is not necessarily the most-linked note (that would be high-degree centrality, characteristic of hub notes), but rather the note that *mediates* connections between otherwise-distant clusters. [[Threshold-Concepts|Threshold Concepts]] — the ideas that, once understood, transform how you see an entire domain — typically function as high-betweenness-centrality nodes in a well-integrated knowledge network. Their removal would dramatically increase average path length, fragmenting integration.
 
 ## Core Explanation
 
@@ -146,4 +146,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Active Note-Making]] · [[Alfred North Whitehead]] · [[Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Assimilation and Accommodation]] · [[Boundary Objects]] · [[Cognitive Alignment Principle]] · [[Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Cognitive Psychology]] · [[Collins and Loftus]] · [[Conceptual Change]] · [[Critical Thinking]] · [[David Ausubel]] · [[Duncan Watts]] · [[Educational Psychology]]
+[[Active-Note-Making|Active Note-Making]] · [[Alfred-North-Whitehead|Alfred North Whitehead]] · [[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Assimilation-and-Accommodation|Assimilation and Accommodation]] · [[Boundary-Objects|Boundary Objects]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collins-and-Loftus|Collins and Loftus]] · [[Conceptual-Change|Conceptual Change]] · [[Critical-Thinking|Critical Thinking]] · [[David-Ausubel|David Ausubel]] · [[Duncan-Watts|Duncan Watts]] · [[Educational-Psychology|Educational Psychology]]

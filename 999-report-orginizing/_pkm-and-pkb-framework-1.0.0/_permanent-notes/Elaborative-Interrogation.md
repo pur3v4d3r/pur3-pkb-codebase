@@ -74,7 +74,7 @@ see-also:
   - "[[10-scaffolding-and-fading-pkm-framework-2026-03-14]]"
   - "[[11-transfer-problem-pkm-framework-2026-03-14]]"
   - "[[Aporia]]"
-  - "[[Aporia-to-Schema Pipeline]]"
+  - "[[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -92,16 +92,16 @@ enables:
   - "[[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]"
 
 expansion-topics:
-  - topic: "[[Interleaving and Note-Making Sequence Design]]"
+  - topic: "[[Interleaving-and-Note-Making-Sequence-Design|Interleaving and Note-Making Sequence Design]]"
     description: "The interleaving research (established in Report 16) shows that alternating between topics during st"
     priority: medium
-  - topic: "[[The Role of Drawing and Diagramming in Knowledge Construction]]"
+  - topic: "[[The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction|The Role of Drawing and Diagramming in Knowledge Construction]]"
     description: "This report focuses on verbal, text-based note-making. The cognitive science of [[Dual Coding Theory"
     priority: medium
-  - topic: "[[Collaborative Note-Making and the Interactive Mode]]"
+  - topic: "[[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]]"
     description: "The ICAP framework's highest engagement mode — Interactive — involves learners co-constructing knowl"
     priority: medium
-  - topic: "[[Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]"
+  - topic: "[[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]"
     description: "The Constructive Note-Making Protocol recommended in Phase V is substantially more time-intensive th"
     priority: medium
 
@@ -145,12 +145,12 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Generative Learning Theory]]
-- [[Social Constructivism]]
+- [[Generative-Learning-Theory|Generative Learning Theory]]
+- [[Social-Constructivism|Social Constructivism]]
 
 **Cross-report connections:**
-- [[Generation Effect]]
+- [[Generation-Effect|Generation Effect]]
 - [[Constructivism]]
 
 **Related concepts:**
-[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Aporia]] · [[Aporia-to-Schema Pipeline]] · [[Articulatory Construction Principle]] · [[Atomic Notes]] · [[Child-Inquiry-Node]] · [[Cognitive Disequilibrium]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Collaborative Note-Making and the Interactive Mode]]
+[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Aporia]] · [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]] · [[Articulatory-Construction-Principle|Articulatory Construction Principle]] · [[Atomic-Notes|Atomic Notes]] · [[Child-Inquiry-Node]] · [[Cognitive-Disequilibrium|Cognitive Disequilibrium]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]]

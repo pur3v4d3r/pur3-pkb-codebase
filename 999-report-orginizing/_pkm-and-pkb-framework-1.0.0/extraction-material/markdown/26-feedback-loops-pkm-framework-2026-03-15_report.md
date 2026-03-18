@@ -165,7 +165,7 @@ extraction_summary:
 #### 4. [CROSS-DOMAIN-CONNECTION] Cybernetics ≅ Self-Regulated Learning *(Line 158)*
 
 > [!cross-domain-connection] Cybernetics ≅ Self-Regulated Learning
-> Wiener's negative feedback loop and [[Zimmerman's Self-Regulated Learning Cycle]] are structurally isomorphic. Both describe: (1) a goal or desired state, (2) a monitoring mechanism that detects discrepancy between actual and desired state, (3) a corrective response that reduces the discrepancy, and (4) re-monitoring to assess whether the correction was effective. Zimmerman arrived at this structure through empirical research on high-achieving students; Wiener derived it through mathematical analysis of purposive systems. The convergence is not coincidental — it reflects a deep structural truth about what it means for any system to regulate itself toward a goal. This parallel has a direct design implication: SRL research tells us *what* learners need to monitor; cybernetics tells us *how* the monitoring architecture should be built.
+> Wiener's negative feedback loop and [[Zimmerman's-Self-Regulated-Learning-Cycle|Zimmerman's Self-Regulated Learning Cycle]] are structurally isomorphic. Both describe: (1) a goal or desired state, (2) a monitoring mechanism that detects discrepancy between actual and desired state, (3) a corrective response that reduces the discrepancy, and (4) re-monitoring to assess whether the correction was effective. Zimmerman arrived at this structure through empirical research on high-achieving students; Wiener derived it through mathematical analysis of purposive systems. The convergence is not coincidental — it reflects a deep structural truth about what it means for any system to regulate itself toward a goal. This parallel has a direct design implication: SRL research tells us *what* learners need to monitor; cybernetics tells us *how* the monitoring architecture should be built.
 
 #### 5. [DEFINITION] Self-Regulated Learning (Educational Psychology / Zimmerman, 2000) *(Line 165)*
 
@@ -175,7 +175,7 @@ extraction_summary:
 #### 6. [DEFINITION] Double-Loop Learning (Educational Philosophy / Argyris & Schön, 1978) *(Line 168)*
 
 > [!definition] Double-Loop Learning (Educational Philosophy / Argyris & Schön, 1978)
-> A learning process distinguished from [[Single-Loop Learning]] by its scope of correction. Single-loop learning corrects errors *within* an existing framework of assumptions — it adjusts behavior to better achieve existing goals. Double-loop learning questions and revises the framework itself — it asks whether the goals are correct, whether the assumptions underlying the strategy are valid, and whether the system's governing values are appropriate. In PKB terms: single-loop feedback says "this note format is not working; adjust the format." Double-loop feedback says "my entire approach to capturing information may be producing the wrong kind of knowledge; reconsider the approach."
+> A learning process distinguished from [[Single-Loop-Learning|Single-Loop Learning]] by its scope of correction. Single-loop learning corrects errors *within* an existing framework of assumptions — it adjusts behavior to better achieve existing goals. Double-loop learning questions and revises the framework itself — it asks whether the goals are correct, whether the assumptions underlying the strategy are valid, and whether the system's governing values are appropriate. In PKB terms: single-loop feedback says "this note format is not working; adjust the format." Double-loop feedback says "my entire approach to capturing information may be producing the wrong kind of knowledge; reconsider the approach."
 
 #### 7. [DEFINITION] Formative Assessment (Instructional Design / Black & Wiliam, 1998) *(Line 171)*
 
@@ -185,7 +185,7 @@ extraction_summary:
 #### 8. [DEFINITION] Learning Analytics (Educational Technology / Siemens & Long, 2011) *(Line 178)*
 
 > [!definition] Learning Analytics (Educational Technology / Siemens & Long, 2011)
-> A field concerned with systematically measuring and analyzing learner behavioral data to generate feedback that improves learning outcomes and learning environment design. Distinguished from [[Educational Data Mining]] by its primary orientation toward learner-facing feedback (rather than researcher-facing pattern detection). Core challenge: transforming raw behavioral traces (notes created, links followed, review patterns) into signals that are meaningful at the level of learning goals — bridging the gap between observable behavior and underlying cognitive processes.
+> A field concerned with systematically measuring and analyzing learner behavioral data to generate feedback that improves learning outcomes and learning environment design. Distinguished from [[Educational-Data-Mining|Educational Data Mining]] by its primary orientation toward learner-facing feedback (rather than researcher-facing pattern detection). Core challenge: transforming raw behavioral traces (notes created, links followed, review patterns) into signals that are meaningful at the level of learning goals — bridging the gap between observable behavior and underlying cognitive processes.
 
 #### 9. [DEFINITION] Complex Adaptive System (Systems Theory / Holland, 1992; Kauffman, 1993) *(Line 181)*
 
@@ -214,7 +214,7 @@ extraction_summary:
 #### 13. [EVIDENCE] The Feedback Timing Paradox (Kornell & Bjork, 2008; Karpicke & Roediger, 2008) *(Line 206)*
 
 > [!evidence] The Feedback Timing Paradox (Kornell & Bjork, 2008; Karpicke & Roediger, 2008)
-> Educational psychology presents a genuine paradox on the question of feedback timing. Immediate feedback research (summarized by Hattie & Timperley, 2007) shows that feedback close in time to the relevant behavior is processed more effectively — learners can connect the signal to the specific action that generated it. However, [[Desirable Difficulties]] research (Robert Bjork) demonstrates that delayed feedback — and even the complete absence of feedback during initial practice — can produce *superior long-term retention* compared to immediate feedback, even when immediate feedback produces superior short-term performance. The mechanism: when feedback is immediate, learners can use it as a crutch, bypassing the retrieval effort that drives durable encoding. This tension is not resolved in the literature; it represents a genuine design trade-off that PKB architects must navigate consciously.
+> Educational psychology presents a genuine paradox on the question of feedback timing. Immediate feedback research (summarized by Hattie & Timperley, 2007) shows that feedback close in time to the relevant behavior is processed more effectively — learners can connect the signal to the specific action that generated it. However, [[Desirable-Difficulties|Desirable Difficulties]] research (Robert Bjork) demonstrates that delayed feedback — and even the complete absence of feedback during initial practice — can produce *superior long-term retention* compared to immediate feedback, even when immediate feedback produces superior short-term performance. The mechanism: when feedback is immediate, learners can use it as a crutch, bypassing the retrieval effort that drives durable encoding. This tension is not resolved in the literature; it represents a genuine design trade-off that PKB architects must navigate consciously.
 
 #### 14. [WHAT-THE-EVIDENCE-SUGGESTS] What the Feedback Timing Literature Suggests for PKB Design *(Line 209)*
 
@@ -224,7 +224,7 @@ extraction_summary:
 #### 15. [TENSION-IDENTIFIED] The Autonomy-Feedback Tension in Self-Directed Learning *(Line 218)*
 
 > [!tension-identified] The Autonomy-Feedback Tension in Self-Directed Learning
-> [[Self-Determination Theory]] (Deci & Ryan) identifies autonomy — the experience of self-initiated, volitional behavior — as a fundamental need whose satisfaction is essential for intrinsic motivation. Feedback systems, particularly automated ones, create an inherent tension with autonomy: they intervene in the learner's behavior based on external (even if system-generated) criteria. SDT research suggests that controlling feedback ("you must review this note today") undermines intrinsic motivation even when it improves performance, while informational feedback ("this note has not been revisited in 90 days — here is the option to review") supports autonomy by providing information rather than prescriptions. This is not a theoretical nicety; it is a design constraint. PKB feedback systems that feel controlling will be abandoned. Those that feel informational will be sustained. The design challenge is generating genuinely informative feedback that the user experiences as increasing rather than restricting their agency.
+> [[Self-Determination-Theory|Self-Determination Theory]] (Deci & Ryan) identifies autonomy — the experience of self-initiated, volitional behavior — as a fundamental need whose satisfaction is essential for intrinsic motivation. Feedback systems, particularly automated ones, create an inherent tension with autonomy: they intervene in the learner's behavior based on external (even if system-generated) criteria. SDT research suggests that controlling feedback ("you must review this note today") undermines intrinsic motivation even when it improves performance, while informational feedback ("this note has not been revisited in 90 days — here is the option to review") supports autonomy by providing information rather than prescriptions. This is not a theoretical nicety; it is a design constraint. PKB feedback systems that feel controlling will be abandoned. Those that feel informational will be sustained. The design challenge is generating genuinely informative feedback that the user experiences as increasing rather than restricting their agency.
 
 #### 16. [WHAT-THE-EVIDENCE-SUGGESTS] What the Learning Analytics Literature Suggests for PKB *(Line 227)*
 
@@ -258,7 +258,7 @@ extraction_summary:
 #### 21. [CROSS-DOMAIN-CONNECTION] Schön's Reflective Practitioner ≅ PKB Adaptation Phase *(Line 281)*
 
 > [!cross-domain-connection] Schön's Reflective Practitioner ≅ PKB Adaptation Phase
-> [[Donald Schön]]'s account of the [[Reflective Practitioner]] (1983) identifies two forms of reflection that professionals use to improve their practice: **Reflection-in-Action** (adjusting behavior in real time, mid-task, based on signals from the task itself) and **Reflection-on-Action** (retrospective analysis of completed actions, used to revise future approach). These map cleanly onto two phases of the PKB adaptation cycle. Reflection-in-Action corresponds to micro-level feedback during note creation — the practitioner-learner notices that a concept cannot be articulated clearly and adjusts their approach in real time. Reflection-on-Action corresponds to macro-level feedback during system review — the learner steps back from the vault as a whole and asks whether their organizing approach has been productive. The Reflective Practitioner model adds a crucial dimension that cybernetics alone lacks: it foregrounds the *phenomenological* quality of the feedback experience, not just its informational content. Effective adaptation requires not just accurate detection but a particular quality of reflective attention — what Schön calls "seeing freshly" — that is difficult to engineer but can be scaffolded through deliberate design.
+> [[Donald-Schön|Donald Schön]]'s account of the [[Reflective-Practitioner|Reflective Practitioner]] (1983) identifies two forms of reflection that professionals use to improve their practice: **Reflection-in-Action** (adjusting behavior in real time, mid-task, based on signals from the task itself) and **Reflection-on-Action** (retrospective analysis of completed actions, used to revise future approach). These map cleanly onto two phases of the PKB adaptation cycle. Reflection-in-Action corresponds to micro-level feedback during note creation — the practitioner-learner notices that a concept cannot be articulated clearly and adjusts their approach in real time. Reflection-on-Action corresponds to macro-level feedback during system review — the learner steps back from the vault as a whole and asks whether their organizing approach has been productive. The Reflective Practitioner model adds a crucial dimension that cybernetics alone lacks: it foregrounds the *phenomenological* quality of the feedback experience, not just its informational content. Effective adaptation requires not just accurate detection but a particular quality of reflective attention — what Schön calls "seeing freshly" — that is difficult to engineer but can be scaffolded through deliberate design.
 
 #### 22. [ANALYTICAL-INSIGHT] The Compounding Cost of Early Organizational Errors *(Line 290)*
 
@@ -486,29 +486,29 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Framework
 
-#### 58. [TOPIC-IDEA] [[AI-Assisted Calibration Testing in PKB Systems]] *(Line 522)*
+#### 58. [TOPIC-IDEA] [[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]] *(Line 522)*
 
-> [!topic-idea] [[AI-Assisted Calibration Testing in PKB Systems]]
+> [!topic-idea] [[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]]
 > Explores how conversational AI systems can serve as dialogic testing partners — generating novel application questions, surface-testing conceptual understanding through Socratic dialogue, and providing calibration feedback that no behavioral trace can approximate. Directly extends this report's validity-problem discussion and connects to Report 30's AI-enhanced PKM analysis. Specific questions: what does an AI-mediated calibration session look like? How should the results be captured and integrated into the vault's epistemic-status metadata? What are the risks of AI-generated calibration (plausible but inaccurate assessment)?
 
-#### 59. [TOPIC-IDEA] [[Obsidian Plugin Architecture for Feedback Systems]] *(Line 525)*
+#### 59. [TOPIC-IDEA] [[Obsidian-Plugin-Architecture-for-Feedback-Systems|Obsidian Plugin Architecture for Feedback Systems]] *(Line 525)*
 
-> [!topic-idea] [[Obsidian Plugin Architecture for Feedback Systems]]
+> [!topic-idea] [[Obsidian-Plugin-Architecture-for-Feedback-Systems|Obsidian Plugin Architecture for Feedback Systems]]
 > A practical implementation report addressing the technical infrastructure required for PKB feedback at all three timescales: Dataview query patterns for epistemic health dashboards, Templater templates for generation-based review workflows, Periodic Notes integration for macro-level system reviews, and community plugin audit (Spaced Repetition, Review, Tracker) against the feedback architecture principles developed here. Specifically addresses which existing tools map onto which components of the Learning Metabolism Framework.
 
-#### 60. [TOPIC-IDEA] [[Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]] *(Line 528)*
+#### 60. [TOPIC-IDEA] [[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]] *(Line 528)*
 
-> [!topic-idea] [[Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]]
+> [!topic-idea] [[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]]
 > Extends the Argyris and Schön double-loop learning analysis to examine how PKBs can become instruments of intellectual defensiveness — systematically capturing confirming evidence while filtering out disconfirming evidence, organizing knowledge around frameworks that have become too deeply invested to question. Explores design interventions (devil's advocate notes, explicit counter-evidence capture, structured assumption-surfacing practices) that can counteract this tendency. Connects to Report 29 (Ethical PKM) and Report 07 (Critical Thinking as PKM Practice).
 
-#### 61. [TOPIC-IDEA] [[Network Analysis Tools for PKB Structural Feedback]] *(Line 531)*
+#### 61. [TOPIC-IDEA] [[Network-Analysis-Tools-for-PKB-Structural-Feedback|Network Analysis Tools for PKB Structural Feedback]] *(Line 531)*
 
-> [!topic-idea] [[Network Analysis Tools for PKB Structural Feedback]]
+> [!topic-idea] [[Network-Analysis-Tools-for-PKB-Structural-Feedback|Network Analysis Tools for PKB Structural Feedback]]
 > Examines how graph-theoretic analysis of PKB network structure can generate macro-level feedback signals. Tools: Obsidian's native graph view, the Juggl plugin for network visualization, Python scripts using NetworkX for graph metrics (betweenness centrality, clustering coefficient, path length distribution). Metrics that matter: identifying knowledge domains with high internal connectivity but low external linkage (silos), detecting bridge notes that provide the only connection between major clusters, tracking the evolution of the vault's small-world properties over time.
 
-#### 62. [TOPIC-IDEA] [[Collective Feedback: PKM in Community Contexts]] *(Line 534)*
+#### 62. [TOPIC-IDEA] [[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]] *(Line 534)*
 
-> [!topic-idea] [[Collective Feedback: PKM in Community Contexts]]
+> [!topic-idea] [[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]]
 > Examines how PKM practices that include external feedback — reading groups, writing communities, peer review, public note-sharing — can provide the double-loop feedback that self-contained systems cannot generate. The learner's governing assumptions are often only visible from outside the system; community engagement provides the external vantage point that makes double-loop learning tractable. Connects to the social dimensions of learning analytics and to Report 28's epistemological analysis of what "knowing" means in the context of personal knowledge systems.
 
 #### 63. [TOPIC-IDEA] [[The Validity Problem in Learning Analytics: What Behavioral Traces Can and Cannot Tell Us]] *(Line 537)*
@@ -526,45 +526,45 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[AI-Assisted Calibration Testing in PKB Systems]]
-- [[Argyris and Schön]]
-- [[Arnold and Pistilli]]
-- [[Barry Zimmerman]]
-- [[Black and Wiliam]]
-- [[Cognitive Load Theory]]
-- [[Collective Feedback: PKM in Community Contexts]]
-- [[Complex Adaptive Systems]]
+- [[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]]
+- [[Argyris-and-Schön|Argyris and Schön]]
+- [[Arnold-and-Pistilli|Arnold and Pistilli]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
+- [[Black-and-Wiliam|Black and Wiliam]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]]
+- [[Complex-Adaptive-Systems|Complex Adaptive Systems]]
 - [[Cybernetics]]
-- [[Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]]
-- [[Desirable Difficulties]]
-- [[Donald Schön]]
-- [[Double-Loop Learning]]
-- [[Dunning-Kruger effect]]
-- [[Educational Data Mining]]
-- [[Elaborative Interrogation]]
+- [[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Donald-Schön|Donald Schön]]
+- [[Double-Loop-Learning|Double-Loop Learning]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger effect]]
+- [[Educational-Data-Mining|Educational Data Mining]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Evergreen Notes]]
 - [[Feedback in Learning]]
-- [[Formative Assessment]]
-- [[Generation Effect]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Generation-Effect|Generation Effect]]
 - [[George Siemens]]
 - [[Gregory Bateson]]
 - [[Illusion of Explanatory Depth]]
 - [[Iterative Design]]
-- [[Learning Analytics]]
+- [[Learning-Analytics|Learning Analytics]]
 - [[Learning Metabolism Framework]]
 - [[Levels of Learning]]
-- [[Matthew Effect]]
-- [[Metacognitive Calibration]]
-- [[Metacognitive calibration]]
-- [[Negative Feedback Loop]]
-- [[Network Analysis Tools for PKB Structural Feedback]]
+- [[Matthew-Effect|Matthew Effect]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[Metacognitive-Calibration|Metacognitive calibration]]
+- [[Negative-Feedback-Loop|Negative Feedback Loop]]
+- [[Network-Analysis-Tools-for-PKB-Structural-Feedback|Network Analysis Tools for PKB Structural Feedback]]
 - [[Norbert Wiener]]
-- [[Obsidian Plugin Architecture for Feedback Systems]]
+- [[Obsidian-Plugin-Architecture-for-Feedback-Systems|Obsidian Plugin Architecture for Feedback Systems]]
 - [[Paul Pintrich]]
 - [[Phil Long]]
 - [[Plan-Do-Check-Adapt (PDCA) cycle]]
 - [[Positive Feedback]]
-- [[Reflective Practitioner]]
+- [[Reflective-Practitioner|Reflective Practitioner]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]
 - [[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]]
@@ -575,10 +575,10 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Report 27: The Complete PKM/PKB Design Framework — Synthesizing Principles Across All Reports]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulation Cycles]]
-- [[Single-Loop Learning]]
+- [[Single-Loop-Learning|Single-Loop Learning]]
 - [[Spaced Retrieval Practice]]
 - [[Systems Theory]]
 - [[Tanes et al.]]
@@ -586,66 +586,66 @@ extraction_summary:
 - [[Thomas Nickerson]]
 - [[Verbert et al.]]
 - [[W. Edwards Deming]]
-- [[Zimmerman's Self-Regulated Learning Cycle]]
+- [[Zimmerman's-Self-Regulated-Learning-Cycle|Zimmerman's Self-Regulated Learning Cycle]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Formative Assessment]] | — | — | Phase I: Orientation & Synthesis Focus | 133 |
+| 1 | [[Formative-Assessment|Formative Assessment]] | — | — | Phase I: Orientation & Synthesis Focus | 133 |
 | 2 | [[Feedback in Learning]] | — | — | Phase I: Orientation & Synthesis Focus | 138 |
 | 3 | [[Self-Regulation Cycles]] | — | — | Phase I: Orientation & Synthesis Focus | 138 |
-| 4 | [[Learning Analytics]] | — | — | Phase I: Orientation & Synthesis Focus | 138 |
+| 4 | [[Learning-Analytics|Learning Analytics]] | — | — | Phase I: Orientation & Synthesis Focus | 138 |
 | 5 | [[Systems Theory]] | — | — | Phase I: Orientation & Synthesis Focus | 138 |
 | 6 | [[Iterative Design]] | — | — | Phase I: Orientation & Synthesis Focus | 138 |
-| 7 | [[Argyris and Schön]] | — | — | Phase I: Orientation & Synthesis Focus | 138 |
-| 8 | [[Double-Loop Learning]] | — | — | Phase I: Orientation & Synthesis Focus | 138 |
+| 7 | [[Argyris-and-Schön|Argyris and Schön]] | — | — | Phase I: Orientation & Synthesis Focus | 138 |
+| 8 | [[Double-Loop-Learning|Double-Loop Learning]] | — | — | Phase I: Orientation & Synthesis Focus | 138 |
 | 9 | [[Learning Metabolism Framework]] | — | — | Phase I: Orientation & Synthesis Focus | 140 |
 | 10 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | — | — | Phase I: Orientation & Synthesis Focus | 142 |
 | 11 | [[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]] | — | — | Phase I: Orientation & Synthesis Focus | 142 |
 | 12 | [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]] | — | — | Phase I: Orientation & Synthesis Focus | 142 |
 | 13 | [[Norbert Wiener]] | — | — | The Cybernetic Foundation: Feedback a... | 150 |
 | 14 | [[Cybernetics]] | — | — | The Cybernetic Foundation: Feedback a... | 150 |
-| 15 | [[Negative Feedback Loop]] | — | — | The Cybernetic Foundation: Feedback a... | 150 |
+| 15 | [[Negative-Feedback-Loop|Negative Feedback Loop]] | — | — | The Cybernetic Foundation: Feedback a... | 150 |
 | 16 | [[Positive Feedback]] | — | — | The Cybernetic Foundation: Feedback a... | 153 |
-| 17 | [[Zimmerman's Self-Regulated Learning Cycle]] | — | — | The Cybernetic Foundation: Feedback a... | 159 |
-| 18 | [[Self-Regulated Learning]] | — | — | Self-Regulated Learning: The Learner ... | 163 |
-| 19 | [[Barry Zimmerman]] | — | — | Self-Regulated Learning: The Learner ... | 163 |
+| 17 | [[Zimmerman's-Self-Regulated-Learning-Cycle|Zimmerman's Self-Regulated Learning Cycle]] | — | — | The Cybernetic Foundation: Feedback a... | 159 |
+| 18 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Self-Regulated Learning: The Learner ... | 163 |
+| 19 | [[Barry-Zimmerman|Barry Zimmerman]] | — | — | Self-Regulated Learning: The Learner ... | 163 |
 | 20 | [[Paul Pintrich]] | — | — | Self-Regulated Learning: The Learner ... | 163 |
-| 21 | [[Single-Loop Learning]] | — | — | Self-Regulated Learning: The Learner ... | 169 |
-| 22 | [[Learning Analytics]] | — | — | Learning Analytics: Behavioral Data a... | 176 |
+| 21 | [[Single-Loop-Learning|Single-Loop Learning]] | — | — | Self-Regulated Learning: The Learner ... | 169 |
+| 22 | [[Learning-Analytics|Learning Analytics]] | — | — | Learning Analytics: Behavioral Data a... | 176 |
 | 23 | [[George Siemens]] | — | — | Learning Analytics: Behavioral Data a... | 176 |
 | 24 | [[Phil Long]] | — | — | Learning Analytics: Behavioral Data a... | 176 |
-| 25 | [[Educational Data Mining]] | — | — | Learning Analytics: Behavioral Data a... | 179 |
-| 26 | [[Black and Wiliam]] | — | — | What Feedback Research Actually Estab... | 204 |
-| 27 | [[Desirable Difficulties]] | — | — | What Feedback Research Actually Estab... | 207 |
-| 28 | [[Metacognitive calibration]] | — | — | The Calibration Evidence | 214 |
-| 29 | [[Dunning-Kruger effect]] | — | — | The Calibration Evidence | 214 |
+| 25 | [[Educational-Data-Mining|Educational Data Mining]] | — | — | Learning Analytics: Behavioral Data a... | 179 |
+| 26 | [[Black-and-Wiliam|Black and Wiliam]] | — | — | What Feedback Research Actually Estab... | 204 |
+| 27 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | What Feedback Research Actually Estab... | 207 |
+| 28 | [[Metacognitive-Calibration|Metacognitive calibration]] | — | — | The Calibration Evidence | 214 |
+| 29 | [[Dunning-Kruger-Effect|Dunning-Kruger effect]] | — | — | The Calibration Evidence | 214 |
 | 30 | [[Thomas Nickerson]] | — | — | The Calibration Evidence | 216 |
 | 31 | [[Illusion of Explanatory Depth]] | — | — | The Calibration Evidence | 216 |
-| 32 | [[Cognitive Load Theory]] | — | — | The Calibration Evidence | 216 |
-| 33 | [[Self-Determination Theory]] | — | — | The Calibration Evidence | 219 |
-| 34 | [[Arnold and Pistilli]] | — | — | Learning Analytics in Educational Set... | 223 |
+| 32 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Calibration Evidence | 216 |
+| 33 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Calibration Evidence | 219 |
+| 34 | [[Arnold-and-Pistilli|Arnold and Pistilli]] | — | — | Learning Analytics in Educational Set... | 223 |
 | 35 | [[Tanes et al.]] | — | — | Learning Analytics in Educational Set... | 223 |
 | 36 | [[Verbert et al.]] | — | — | Learning Analytics in Educational Set... | 225 |
-| 37 | [[Argyris and Schön]] | — | — | Single-Loop vs. Double-Loop Learning ... | 232 |
+| 37 | [[Argyris-and-Schön|Argyris and Schön]] | — | — | Single-Loop vs. Double-Loop Learning ... | 232 |
 | 38 | [[Gregory Bateson]] | — | — | The Nested Timescale Architecture of ... | 256 |
 | 39 | [[Levels of Learning]] | — | — | The Nested Timescale Architecture of ... | 256 |
-| 40 | [[Elaborative Interrogation]] | — | — | The Nested Timescale Architecture of ... | 260 |
+| 40 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | The Nested Timescale Architecture of ... | 260 |
 | 41 | [[Spaced Retrieval Practice]] | — | — | The Nested Timescale Architecture of ... | 262 |
 | 42 | [[Report 25: The Integration Problem]] | — | — | The Nested Timescale Architecture of ... | 264 |
-| 43 | [[Generation Effect]] | — | — | The Calibration-Correction-Adaptation... | 273 |
-| 44 | [[Donald Schön]] | — | — | The Calibration-Correction-Adaptation... | 282 |
-| 45 | [[Reflective Practitioner]] | — | — | The Calibration-Correction-Adaptation... | 282 |
-| 46 | [[Complex Adaptive Systems]] | — | — | Complex Adaptive Systems Dynamics in ... | 286 |
-| 47 | [[Matthew Effect]] | — | — | Complex Adaptive Systems Dynamics in ... | 288 |
+| 43 | [[Generation-Effect|Generation Effect]] | — | — | The Calibration-Correction-Adaptation... | 273 |
+| 44 | [[Donald-Schön|Donald Schön]] | — | — | The Calibration-Correction-Adaptation... | 282 |
+| 45 | [[Reflective-Practitioner|Reflective Practitioner]] | — | — | The Calibration-Correction-Adaptation... | 282 |
+| 46 | [[Complex-Adaptive-Systems|Complex Adaptive Systems]] | — | — | Complex Adaptive Systems Dynamics in ... | 286 |
+| 47 | [[Matthew-Effect|Matthew Effect]] | — | — | Complex Adaptive Systems Dynamics in ... | 288 |
 | 48 | [[Positive Feedback]] | — | — | Complex Adaptive Systems Dynamics in ... | 288 |
 | 49 | [[Iterative Design]] | — | — | Complex Adaptive Systems Dynamics in ... | 297 |
 | 50 | [[Plan-Do-Check-Adapt (PDCA) cycle]] | — | — | Complex Adaptive Systems Dynamics in ... | 297 |
 | 51 | [[W. Edwards Deming]] | — | — | Complex Adaptive Systems Dynamics in ... | 297 |
 | 52 | [[Evergreen Notes]] | — | — | Design Principle 1: Architect Feedbac... | 317 |
 | 53 | [[Learning Metabolism Framework]] | — | — | The Learning Metabolism Framework | 368 |
-| 54 | [[Metacognitive Calibration]] | — | — | Return-and-Deepen: Calibration Revisited | 401 |
+| 54 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | Return-and-Deepen: Calibration Revisited | 401 |
 | 55 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 414 |
 | 56 | [[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]] | — | — | Phase VII: PKB Connections & Cross-Re... | 416 |
 | 57 | [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]] | — | — | Phase VII: PKB Connections & Cross-Re... | 418 |
@@ -655,11 +655,11 @@ extraction_summary:
 | 61 | [[Report 27: The Complete PKM/PKB Design Framework — Synthesizing Principles Across All Reports]] | — | — | Phase VII: PKB Connections & Cross-Re... | 426 |
 | 62 | [[Report 30: Future of PKM — AI-Enhanced Knowledge Building]] | — | — | Phase VII: PKB Connections & Cross-Re... | 430 |
 | 63 | [[Report 24: Self-Determined Learning and the PKB — From Pedagogy to Heutagogy]] | — | — | Phase VII: PKB Connections & Cross-Re... | 432 |
-| 64 | [[AI-Assisted Calibration Testing in PKB Systems]] | — | — | D. Expansion Topics | 522 |
-| 65 | [[Obsidian Plugin Architecture for Feedback Systems]] | — | — | D. Expansion Topics | 525 |
-| 66 | [[Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]] | — | — | D. Expansion Topics | 528 |
-| 67 | [[Network Analysis Tools for PKB Structural Feedback]] | — | — | D. Expansion Topics | 531 |
-| 68 | [[Collective Feedback: PKM in Community Contexts]] | — | — | D. Expansion Topics | 534 |
+| 64 | [[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]] | — | — | D. Expansion Topics | 522 |
+| 65 | [[Obsidian-Plugin-Architecture-for-Feedback-Systems|Obsidian Plugin Architecture for Feedback Systems]] | — | — | D. Expansion Topics | 525 |
+| 66 | [[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]] | — | — | D. Expansion Topics | 528 |
+| 67 | [[Network-Analysis-Tools-for-PKB-Structural-Feedback|Network Analysis Tools for PKB Structural Feedback]] | — | — | D. Expansion Topics | 531 |
+| 68 | [[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]] | — | — | D. Expansion Topics | 534 |
 | 69 | [[The Validity Problem in Learning Analytics: What Behavioral Traces Can and Cannot Tell Us]] | — | — | D. Expansion Topics | 537 |
 
 ---
@@ -671,45 +671,45 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[AI-Assisted Calibration Testing in PKB Systems]]
-- [[Argyris and Schön]]
-- [[Arnold and Pistilli]]
-- [[Barry Zimmerman]]
-- [[Black and Wiliam]]
-- [[Cognitive Load Theory]]
-- [[Collective Feedback: PKM in Community Contexts]]
-- [[Complex Adaptive Systems]]
+- [[AI-Assisted-Calibration-Testing-in-PKB-Systems|AI-Assisted Calibration Testing in PKB Systems]]
+- [[Argyris-and-Schön|Argyris and Schön]]
+- [[Arnold-and-Pistilli|Arnold and Pistilli]]
+- [[Barry-Zimmerman|Barry Zimmerman]]
+- [[Black-and-Wiliam|Black and Wiliam]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Collective-Feedback-PKM-in-Community-Contexts|Collective Feedback: PKM in Community Contexts]]
+- [[Complex-Adaptive-Systems|Complex Adaptive Systems]]
 - [[Cybernetics]]
-- [[Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]]
-- [[Desirable Difficulties]]
-- [[Donald Schön]]
-- [[Double-Loop Learning]]
-- [[Dunning-Kruger effect]]
-- [[Educational Data Mining]]
-- [[Elaborative Interrogation]]
+- [[Defensive-Reasoning-and-the-PKB-When-Personal-Knowledge-Systems-Reinforce-Bias|Defensive Reasoning and the PKB: When Personal Knowledge Systems Reinforce Bias]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Donald-Schön|Donald Schön]]
+- [[Double-Loop-Learning|Double-Loop Learning]]
+- [[Dunning-Kruger-Effect|Dunning-Kruger effect]]
+- [[Educational-Data-Mining|Educational Data Mining]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 - [[Evergreen Notes]]
 - [[Feedback in Learning]]
-- [[Formative Assessment]]
-- [[Generation Effect]]
+- [[Formative-Assessment|Formative Assessment]]
+- [[Generation-Effect|Generation Effect]]
 - [[George Siemens]]
 - [[Gregory Bateson]]
 - [[Illusion of Explanatory Depth]]
 - [[Iterative Design]]
-- [[Learning Analytics]]
+- [[Learning-Analytics|Learning Analytics]]
 - [[Learning Metabolism Framework]]
 - [[Levels of Learning]]
-- [[Matthew Effect]]
-- [[Metacognitive Calibration]]
-- [[Metacognitive calibration]]
-- [[Negative Feedback Loop]]
-- [[Network Analysis Tools for PKB Structural Feedback]]
+- [[Matthew-Effect|Matthew Effect]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[Metacognitive-Calibration|Metacognitive calibration]]
+- [[Negative-Feedback-Loop|Negative Feedback Loop]]
+- [[Network-Analysis-Tools-for-PKB-Structural-Feedback|Network Analysis Tools for PKB Structural Feedback]]
 - [[Norbert Wiener]]
-- [[Obsidian Plugin Architecture for Feedback Systems]]
+- [[Obsidian-Plugin-Architecture-for-Feedback-Systems|Obsidian Plugin Architecture for Feedback Systems]]
 - [[Paul Pintrich]]
 - [[Phil Long]]
 - [[Plan-Do-Check-Adapt (PDCA) cycle]]
 - [[Positive Feedback]]
-- [[Reflective Practitioner]]
+- [[Reflective-Practitioner|Reflective Practitioner]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]
 - [[Report 12: The Reflective PKB — Embedding Metacognitive Monitoring into Daily Practice]]
@@ -720,10 +720,10 @@ extraction_summary:
 - [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]
 - [[Report 27: The Complete PKM/PKB Design Framework — Synthesizing Principles Across All Reports]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Self-Regulation Cycles]]
-- [[Single-Loop Learning]]
+- [[Single-Loop-Learning|Single-Loop Learning]]
 - [[Spaced Retrieval Practice]]
 - [[Systems Theory]]
 - [[Tanes et al.]]
@@ -731,7 +731,7 @@ extraction_summary:
 - [[Thomas Nickerson]]
 - [[Verbert et al.]]
 - [[W. Edwards Deming]]
-- [[Zimmerman's Self-Regulated Learning Cycle]]
+- [[Zimmerman's-Self-Regulated-Learning-Cycle|Zimmerman's Self-Regulated Learning Cycle]]
 
 ### Frontmatter Relationships
 

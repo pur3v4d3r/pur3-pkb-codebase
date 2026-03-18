@@ -68,13 +68,13 @@ narrower:
 
 see-also:
   - "[[Accommodation]]"
-  - "[[Advance Organizer]]"
-  - "[[Advance Organizers and the Architecture of the PKB Epitome]]"
-  - "[[American Pragmatism]]"
+  - "[[Advance-Organizer|Advance Organizer]]"
+  - "[[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]]"
+  - "[[American-Pragmatism|American Pragmatism]]"
   - "[[Aporia]]"
-  - "[[Articulatory Construction Principle]]"
+  - "[[Articulatory-Construction-Principle|Articulatory Construction Principle]]"
   - "[[Assimilation]]"
-  - "[[Atomic Notes]]"
+  - "[[Atomic-Notes|Atomic Notes]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -93,13 +93,13 @@ expansion-topics:
   - topic: "[[Report 17: Note-Making as Knowledge Construction — The Cognitive Science of Writing to Learn]]"
     description: "The direct implementation of this report's theoretical framework: Report 17 translates the Schema-Pr"
     priority: medium
-  - topic: "[[Conceptual Change Theory and PKB Design]]"
-    description: "[[Conceptual Change Theory]] (Posner et al. 1982; Chi 2008) extends the constructivist account of ac"
+  - topic: "[[Conceptual-Change-Theory-and-PKB-Design|Conceptual Change Theory and PKB Design]]"
+    description: "[[Conceptual-Change-Theory|Conceptual Change Theory]] (Posner et al. 1982; Chi 2008) extends the constructivist account of ac"
     priority: medium
-  - topic: "[[Advance Organizers and the Architecture of the PKB Epitome]]"
-    description: "[[David Ausubel]]'s advance organizer research provides additional empirical grounding for the epito"
+  - topic: "[[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]]"
+    description: "[[David-Ausubel|David Ausubel]]'s advance organizer research provides additional empirical grounding for the epito"
     priority: medium
-  - topic: "[[Social Constructivism and the Limitations of Solo PKB Practice]]"
+  - topic: "[[Social-Constructivism-and-the-Limitations-of-Solo-PKB-Practice|Social Constructivism and the Limitations of Solo PKB Practice]]"
     description: "[[Vygotsky]]'s social constructivism is underrepresented in this report relative to its importance f"
     priority: medium
 
@@ -148,7 +148,7 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Zone of Proximal Development]]
+- [[Zone-of-Proximal-Development|Zone of Proximal Development]]
 
 **Related concepts:**
-[[Accommodation]] · [[Advance Organizer]] · [[Advance Organizers and the Architecture of the PKB Epitome]] · [[American Pragmatism]] · [[Aporia]] · [[Articulatory Construction Principle]] · [[Assimilation]] · [[Atomic Notes]] · [[Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]] · [[Charles Reigeluth]] · [[Chess Schemas]] · [[Classical Epistemology]] · [[Cognitive Alignment Principle]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]]
+[[Accommodation]] · [[Advance-Organizer|Advance Organizer]] · [[Advance-Organizers-and-the-Architecture-of-the-PKB-Epitome|Advance Organizers and the Architecture of the PKB Epitome]] · [[American-Pragmatism|American Pragmatism]] · [[Aporia]] · [[Articulatory-Construction-Principle|Articulatory Construction Principle]] · [[Assimilation]] · [[Atomic-Notes|Atomic Notes]] · [[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]] · [[Charles-Reigeluth|Charles Reigeluth]] · [[Chess-Schemas|Chess Schemas]] · [[Classical-Epistemology|Classical Epistemology]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]

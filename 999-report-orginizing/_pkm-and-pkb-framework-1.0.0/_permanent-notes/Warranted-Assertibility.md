@@ -74,7 +74,7 @@ see-also:
   - "[[10-scaffolding-and-fading-pkm-framework-2026-03-14]]"
   - "[[11-transfer-problem-pkm-framework-2026-03-14]]"
   - "[[Aporia]]"
-  - "[[Aporia-to-Schema Pipeline]]"
+  - "[[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -108,7 +108,7 @@ importance: high
 # Warranted Assertibility
 
 > [!definition] **Warranted Assertibility**
-> Dewey's alternative to the correspondence theory of truth — the claim that a proposition is "true" when it accurately represents a mind-independent reality — is the concept of [[Warranted Assertibility]]. A proposition is warranted when it has successfully survived the process of inquiry: when it has been subjected to examination, tested against evidence and experience, and found adequate for resolving the problematic situation that initiated inquiry. Warranted assertibility is never absolute or final; it is always provisional, subject to revision if new inquiry reveals new problems. This has direct implications for PKB design: no note should carry the implicit status of "settled truth." Every assertion should be understood as warranted-at-a-particular-stage-of-inquiry — adequately grounded for current purposes, but open to revision as inquiry continues.
+> Dewey's alternative to the correspondence theory of truth — the claim that a proposition is "true" when it accurately represents a mind-independent reality — is the concept of [[Warranted-Assertibility|Warranted Assertibility]]. A proposition is warranted when it has successfully survived the process of inquiry: when it has been subjected to examination, tested against evidence and experience, and found adequate for resolving the problematic situation that initiated inquiry. Warranted assertibility is never absolute or final; it is always provisional, subject to revision if new inquiry reveals new problems. This has direct implications for PKB design: no note should carry the implicit status of "settled truth." Every assertion should be understood as warranted-at-a-particular-stage-of-inquiry — adequately grounded for current purposes, but open to revision as inquiry continues.
 
 ## Core Explanation
 
@@ -167,10 +167,10 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Cognitive Disequilibrium]]
+- [[Cognitive-Disequilibrium|Cognitive Disequilibrium]]
 
 **Cross-report connections:**
-- [[Elaborative Interrogation]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
 
 **Related concepts:**
-[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Aporia]] · [[Aporia-to-Schema Pipeline]] · [[Child-Inquiry-Node]] · [[Cognitive Disequilibrium]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Competing-View-Note]] · [[Constructivism]] · [[Constructivist Learning Environments]]
+[[03-constructing-understanding-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] · [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] · [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] · [[11-transfer-problem-pkm-framework-2026-03-14]] · [[Aporia]] · [[Aporia-to-Schema-Pipeline|Aporia-to-Schema Pipeline]] · [[Child-Inquiry-Node]] · [[Cognitive-Disequilibrium|Cognitive Disequilibrium]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Competing-View-Note]] · [[Constructivism]] · [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]

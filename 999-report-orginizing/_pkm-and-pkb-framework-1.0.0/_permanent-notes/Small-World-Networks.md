@@ -58,16 +58,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Knowledge Integration]]"
-  - "[[Conceptual Change]]"
-  - "[[Small-World Networks]]"
-  - "[[Betweenness Centrality]]"
-  - "[[Strength of Weak Ties]]"
-  - "[[Threshold Concepts]]"
-  - "[[Inert Knowledge]]"
-  - "[[Ontological Category Shifts]]"
-  - "[[Progressive Differentiation]]"
-  - "[[Integrative Reconciliation]]"
+  - "[[Knowledge-Integration|Knowledge Integration]]"
+  - "[[Conceptual-Change|Conceptual Change]]"
+  - "[[Small-World-Networks|Small-World Networks]]"
+  - "[[Betweenness-Centrality|Betweenness Centrality]]"
+  - "[[Strength-of-Weak-Ties|Strength of Weak Ties]]"
+  - "[[Threshold-Concepts|Threshold Concepts]]"
+  - "[[Inert-Knowledge|Inert Knowledge]]"
+  - "[[Ontological-Category-Shifts|Ontological Category Shifts]]"
+  - "[[Progressive-Differentiation|Progressive Differentiation]]"
+  - "[[Integrative-Reconciliation|Integrative Reconciliation]]"
 
 broader:
   - "[[]]"
@@ -76,14 +76,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Active Note-Making]]"
-  - "[[Alfred North Whitehead]]"
-  - "[[Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
-  - "[[Assimilation and Accommodation]]"
-  - "[[Cognitive Alignment Principle]]"
-  - "[[Cognitive Flexibility Theory and PKB Multi-Representational Design]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Collins and Loftus]]"
+  - "[[Active-Note-Making|Active Note-Making]]"
+  - "[[Alfred-North-Whitehead|Alfred North Whitehead]]"
+  - "[[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
+  - "[[Assimilation-and-Accommodation|Assimilation and Accommodation]]"
+  - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
+  - "[[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Collins-and-Loftus|Collins and Loftus]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -116,7 +116,7 @@ importance: high
 # Small-World Networks
 
 > [!definition] **Small-World Networks**
-> A class of network topology, characterized by [[Duncan Watts]] and [[Steven Strogatz]] in 1998, in which nodes exhibit two properties simultaneously: *high local clustering* (nodes that are connected to each other tend to share many common neighbors, creating dense local communities) and *short average path lengths* (despite this local clustering, any two nodes in the network can be reached from each other in a surprisingly small number of steps). Human semantic networks, social networks, and the World Wide Web all exhibit small-world properties. A network with only high clustering but long path lengths is a collection of isolated communities; one with only short path lengths but low clustering is a random graph with no meaningful local structure. The small-world property is what makes a network both *locally coherent* (information clusters meaningfully) and *globally navigable* (any concept can reach any other quickly). [[PKB design]] that achieves small-world topology achieves the conditions for both domain depth and cross-domain integration.
+> A class of network topology, characterized by [[Duncan-Watts|Duncan Watts]] and [[Steven Strogatz]] in 1998, in which nodes exhibit two properties simultaneously: *high local clustering* (nodes that are connected to each other tend to share many common neighbors, creating dense local communities) and *short average path lengths* (despite this local clustering, any two nodes in the network can be reached from each other in a surprisingly small number of steps). Human semantic networks, social networks, and the World Wide Web all exhibit small-world properties. A network with only high clustering but long path lengths is a collection of isolated communities; one with only short path lengths but low clustering is a random graph with no meaningful local structure. The small-world property is what makes a network both *locally coherent* (information clusters meaningfully) and *globally navigable* (any concept can reach any other quickly). [[PKB design]] that achieves small-world topology achieves the conditions for both domain depth and cross-domain integration.
 
 ## Core Explanation
 
@@ -146,4 +146,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Active Note-Making]] · [[Alfred North Whitehead]] · [[Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Assimilation and Accommodation]] · [[Betweenness Centrality]] · [[Boundary Objects]] · [[Cognitive Alignment Principle]] · [[Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Cognitive Psychology]] · [[Collins and Loftus]] · [[Conceptual Change]] · [[Critical Thinking]] · [[David Ausubel]] · [[Duncan Watts]] · [[Educational Psychology]]
+[[Active-Note-Making|Active Note-Making]] · [[Alfred-North-Whitehead|Alfred North Whitehead]] · [[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Assimilation-and-Accommodation|Assimilation and Accommodation]] · [[Betweenness-Centrality|Betweenness Centrality]] · [[Boundary-Objects|Boundary Objects]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collins-and-Loftus|Collins and Loftus]] · [[Conceptual-Change|Conceptual Change]] · [[Critical-Thinking|Critical Thinking]] · [[David-Ausubel|David Ausubel]] · [[Duncan-Watts|Duncan Watts]] · [[Educational-Psychology|Educational Psychology]]

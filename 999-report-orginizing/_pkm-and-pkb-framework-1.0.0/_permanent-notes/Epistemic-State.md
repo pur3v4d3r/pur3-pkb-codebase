@@ -58,16 +58,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Justified True Belief]]"
-  - "[[Gettier Problem]]"
-  - "[[Virtue Epistemology]]"
-  - "[[Pragmatist Truth]]"
-  - "[[Constructivist Knowledge]]"
-  - "[[Kataleptic Impression]]"
-  - "[[Socratic Aporia]]"
-  - "[[Epistemic Humility]]"
-  - "[[Illusion of Knowing]]"
-  - "[[Familiarity vs. Recollection]]"
+  - "[[Justified-True-Belief|Justified True Belief]]"
+  - "[[Gettier-Problem|Gettier Problem]]"
+  - "[[Virtue-Epistemology|Virtue Epistemology]]"
+  - "[[Pragmatist-Truth|Pragmatist Truth]]"
+  - "[[Constructivist-Knowledge|Constructivist Knowledge]]"
+  - "[[Kataleptic-Impression|Kataleptic Impression]]"
+  - "[[Socratic-Aporia|Socratic Aporia]]"
+  - "[[Epistemic-Humility|Epistemic Humility]]"
+  - "[[Illusion-of-Knowing|Illusion of Knowing]]"
+  - "[[Familiarity-vs.-Recollection|Familiarity vs. Recollection]]"
 
 broader:
   - "[[]]"
@@ -77,13 +77,13 @@ narrower:
 
 see-also:
   - "[[Accommodation]]"
-  - "[[American Pragmatism]]"
+  - "[[American-Pragmatism|American Pragmatism]]"
   - "[[Aporia]]"
   - "[[Assimilation]]"
-  - "[[Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]]"
-  - "[[Classical Epistemology]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Science]]"
+  - "[[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]]"
+  - "[[Classical-Epistemology|Classical Epistemology]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Cognitive-Science|Cognitive Science]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -100,16 +100,16 @@ enables:
   - "[[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]"
 
 expansion-topics:
-  - topic: "[[Epistemology of Testimony — Believing What Others Know]]"
+  - topic: "[[Epistemology-of-Testimony-—-Believing-What-Others-Know|Epistemology of Testimony — Believing What Others Know]]"
     description: "How do we come to know things through testimony — through what we are told rather than what we direc"
     priority: medium
-  - topic: "[[The Epistemology of Memory — When Does Memory Constitute Knowledge?]]"
+  - topic: "[[The-Epistemology-of-Memory-—-When-Does-Memory-Constitute-Knowledge|The Epistemology of Memory — When Does Memory Constitute Knowledge?]]"
     description: "Memory is the cognitive mechanism that sustains knowledge over time, but memory is reconstructive ra"
     priority: medium
-  - topic: "[[Collective Knowledge and the PKB — Social Epistemology]]"
+  - topic: "[[Collective-Knowledge-and-the-PKB-—-Social-Epistemology|Collective Knowledge and the PKB — Social Epistemology]]"
     description: "Social epistemology examines how knowledge is generated, transmitted, and validated through social p"
     priority: medium
-  - topic: "[[Philosophy of Science and PKM — Scientific Method as Epistemic Model]]"
+  - topic: "[[Philosophy-of-Science-and-PKM-—-Scientific-Method-as-Epistemic-Model|Philosophy of Science and PKM — Scientific Method as Epistemic Model]]"
     description: "The philosophy of science offers sophisticated accounts of how knowledge is generated, tested, and r"
     priority: medium
 
@@ -155,7 +155,7 @@ importance: high
 > **State 2 — `epistemic-state: challenged`**: The note's content has been tested through retrieval practice, examination, or…
 
 > [!example] **Application**
-> **The Ignorance Map — Obsidian Implementation**: Maintain a dedicated note called `[[Ignorance Map]]` or `[[Open Questions Registry]]` — a structured catalog of genuine epistemic gaps: things you know you don't understand, claims in your PKB you haven't been able to verify, connections that feel plausible but haven't been tested, and topics where your notes contradict each other without resolution. This map should be treated as a high-value epistemic asset — it represents the frontier of your…
+> **The Ignorance Map — Obsidian Implementation**: Maintain a dedicated note called `[[Ignorance-Map|Ignorance Map]]` or `[[Open-Questions-Registry|Open Questions Registry]]` — a structured catalog of genuine epistemic gaps: things you know you don't understand, claims in your PKB you haven't been able to verify, connections that feel plausible but haven't been tested, and topics where your notes contradict each other without resolution. This map should be treated as a high-value epistemic asset — it represents the frontier of your…
 
 ## Connections & Context
 
@@ -164,4 +164,4 @@ importance: high
 - [[Report 18: Calibration and Epistemic Humility]]
 
 **Related concepts:**
-[[Accommodation]] · [[American Pragmatism]] · [[Aporia]] · [[Assimilation]] · [[Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]] · [[Classical Epistemology]] · [[Cognitive Load Theory]] · [[Cognitive Science]] · [[Collective Knowledge and the PKB — Social Epistemology]] · [[Constructivism]] · [[Dichotomy of Control]] · [[Elaborative Interrogation]] · [[Enactivism]] · [[Epistemology of Testimony — Believing What Others Know]]
+[[Accommodation]] · [[American-Pragmatism|American Pragmatism]] · [[Aporia]] · [[Assimilation]] · [[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]] · [[Classical-Epistemology|Classical Epistemology]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Cognitive-Science|Cognitive Science]] · [[Collective-Knowledge-and-the-PKB-—-Social-Epistemology|Collective Knowledge and the PKB — Social Epistemology]] · [[Constructivism]] · [[Dichotomy-of-Control|Dichotomy of Control]] · [[Elaborative-Interrogation|Elaborative Interrogation]] · [[Enactivism]] · [[Epistemology-of-Testimony-—-Believing-What-Others-Know|Epistemology of Testimony — Believing What Others Know]]

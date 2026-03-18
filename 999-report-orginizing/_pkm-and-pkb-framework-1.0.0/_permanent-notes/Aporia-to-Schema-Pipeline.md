@@ -42,7 +42,7 @@ see-also:
   - "[[Dewey-Inquiry-Model]]"
   - "[[Dialectical-Thinking]]"
   - "[[Elaborative-Interrogation]]"
-  - "[[Elenchus]]"
+  - "[[Socratic-Method-Elenchus|Elenchus]]"
   - "[[Felt-Difficulty]]"
   - "[[Generative-Learning]]"
   - "[[Inquiry-Node]]"
@@ -70,7 +70,7 @@ importance: medium
 - [[Dewey-Inquiry-Model]]
 - [[Dialectical-Thinking]]
 - [[Elaborative-Interrogation]]
-- [[Elenchus]]
+- [[Socratic-Method-Elenchus|Elenchus]]
 - [[Felt-Difficulty]]
 - [[Generative-Learning]]
 - [[Inquiry-Node]]

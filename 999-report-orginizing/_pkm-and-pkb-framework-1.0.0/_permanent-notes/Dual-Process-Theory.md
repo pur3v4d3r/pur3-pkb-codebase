@@ -68,12 +68,12 @@ narrower:
 
 see-also:
   - "[[Aporia]]"
-  - "[[Argument Mapping]]"
-  - "[[Availability Heuristic]]"
-  - "[[Cognitive Bias]]"
-  - "[[Cognitive Conflict]]"
-  - "[[Cognitive Miser]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Argument-Mapping|Argument Mapping]]"
+  - "[[Availability-Heuristic|Availability Heuristic]]"
+  - "[[Cognitive-Bias|Cognitive Bias]]"
+  - "[[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]"
+  - "[[Cognitive-Miser|Cognitive Miser]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Constructivist]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -105,7 +105,7 @@ importance: high
 # Dual-Process Theory
 
 > [!definition] **Dual-Process Theory**
-> The theoretical framework distinguishing two systems of cognitive processing: [[System 1]], which operates automatically, rapidly, associatively, in parallel, and without conscious effort; and [[System 2]], which operates deliberately, slowly, serially, and with conscious effort. In Kahneman's (2011) treatment, System 1 handles the vast majority of cognitive operations — including most initial belief evaluation — with System 2 available to check, override, or extend System 1's outputs when the person is motivated and when cognitive resources permit. The relationship between the two systems is not cooperative partnership; System 1 generates outputs continuously and System 2 typically accepts them rather than critically examining them. The critical evaluation of a belief requires System 2 activation — which is costly, limited in capacity, and frequently bypassed by the [[Cognitive Miser]] tendencies of even highly intelligent processors. Boundary condition: System 2 can correct System 1 outputs, but only if activated; and the conditions for activation — recognition that a careful look is warranted — are themselves susceptible to System 1 influence.
+> The theoretical framework distinguishing two systems of cognitive processing: [[System 1]], which operates automatically, rapidly, associatively, in parallel, and without conscious effort; and [[System 2]], which operates deliberately, slowly, serially, and with conscious effort. In Kahneman's (2011) treatment, System 1 handles the vast majority of cognitive operations — including most initial belief evaluation — with System 2 available to check, override, or extend System 1's outputs when the person is motivated and when cognitive resources permit. The relationship between the two systems is not cooperative partnership; System 1 generates outputs continuously and System 2 typically accepts them rather than critically examining them. The critical evaluation of a belief requires System 2 activation — which is costly, limited in capacity, and frequently bypassed by the [[Cognitive-Miser|Cognitive Miser]] tendencies of even highly intelligent processors. Boundary condition: System 2 can correct System 1 outputs, but only if activated; and the conditions for activation — recognition that a careful look is warranted — are themselves susceptible to System 1 influence.
 
 ## Core Explanation
 
@@ -140,9 +140,9 @@ importance: high
 **Cross-report connections:**
 - [[Constructivist]]
 - [[Disequilibration]]
-- [[Productive Failure]]
-- [[Cognitive Conflict]]
+- [[Productive-Failure|Productive Failure]]
+- [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
 - [[Aporia]]
 
 **Related concepts:**
-[[Aporia]] · [[Argument Mapping]] · [[Availability Heuristic]] · [[Cognitive Bias]] · [[Cognitive Conflict]] · [[Cognitive Miser]] · [[Cognitive Psychology]] · [[Constructivist]] · [[Critical Thinking]] · [[Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dysrationalia]] · [[Educational Philosophy]] · [[Epistemic Injustice and Whose Knowledge Gets Stored]]
+[[Aporia]] · [[Argument-Mapping|Argument Mapping]] · [[Availability-Heuristic|Availability Heuristic]] · [[Cognitive-Bias|Cognitive Bias]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Miser|Cognitive Miser]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Constructivist]] · [[Critical-Thinking|Critical Thinking]] · [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dysrationalia]] · [[Educational-Philosophy|Educational Philosophy]] · [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]

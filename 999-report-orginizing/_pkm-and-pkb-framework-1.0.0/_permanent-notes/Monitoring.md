@@ -67,14 +67,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Desirable Difficulties]]"
-  - "[[Ease of Learning]]"
-  - "[[Educational Philosophy]]"
-  - "[[Educational Psychology]]"
-  - "[[Feeling of Knowing]]"
+  - "[[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Desirable-Difficulties|Desirable Difficulties]]"
+  - "[[Ease-of-Learning-—-EOL|Ease of Learning]]"
+  - "[[Educational-Philosophy|Educational Philosophy]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -100,7 +100,7 @@ expansion-topics:
   - topic: "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]"
     description: "Extends the calibration theme from learning contexts into the broader epistemic domain. Addresses ho"
     priority: medium
-  - topic: "[[Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]"
+  - topic: "[[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]"
     description: "While this report establishes that monitoring accuracy is the critical variable and identifies speci"
     priority: medium
 
@@ -150,4 +150,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Desirable Difficulties]] · [[Ease of Learning]] · [[Educational Philosophy]] · [[Educational Psychology]] · [[Feeling of Knowing]] · [[Flavell]] · [[Forgetting Curve]] · [[Illusion of Knowing]] · [[Judgment of Learning]] · [[Knowledge Management]] · [[Learning Journal]] · [[Metacognition]]
+[[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Ease-of-Learning-—-EOL|Ease of Learning]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]] · [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] · [[Flavell]] · [[Forgetting-Curve|Forgetting Curve]] · [[Illusion-of-Knowing|Illusion of Knowing]] · [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] · [[Knowledge-Management|Knowledge Management]] · [[Learning-Journal|Learning Journal]] · [[Metacognition]]

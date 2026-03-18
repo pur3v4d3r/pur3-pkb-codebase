@@ -59,14 +59,14 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Socratic Dialectic]]"
-  - "[[Elenchus]]"
+  - "[[Socratic-Dialectic|Socratic Dialectic]]"
+  - "[[Socratic-Method-Elenchus|Elenchus]]"
   - "[[Aporia]]"
-  - "[[Hegelian Dialectic]]"
+  - "[[Hegelian-Dialectic|Hegelian Dialectic]]"
   - "[[Thesis-Antithesis-Synthesis]]"
   - "[[Aufhebung]]"
-  - "[[Argumentation Theory]]"
-  - "[[Toulmin Model]]"
+  - "[[Argumentation-Theory|Argumentation Theory]]"
+  - "[[Toulmin-Model|Toulmin Model]]"
   - "[[Pragma-Dialectics]]"
   - "[[Steel-Manning]]"
 
@@ -77,14 +77,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
-  - "[[Anomalous Data]]"
+  - "[[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
+  - "[[Anomalous-Data|Anomalous Data]]"
   - "[[Antithesis]]"
-  - "[[Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]]"
-  - "[[Calibration and Epistemic Humility]]"
-  - "[[Chinn and Brewer's Model]]"
-  - "[[Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]]"
-  - "[[Cognitive Load Theory]]"
+  - "[[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]]"
+  - "[[Calibration-and-Epistemic-Humility|Calibration and Epistemic Humility]]"
+  - "[[Chinn-and-Brewer's-Model|Chinn and Brewer's Model]]"
+  - "[[Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own|Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -104,16 +104,16 @@ enables:
   - "[[Report 29: Ethical PKM — Intellectual Honesty, Epistemic Responsibility, and Virtue]]"
 
 expansion-topics:
-  - topic: "[[Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]]"
+  - topic: "[[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]]"
     description: "A focused technical report on using argumentation theory tools within a PKB, including how to implem"
     priority: medium
-  - topic: "[[Conceptual Change and PKB Design: Vosniadou, Chi, and the Challenge of Genuine Revision]]"
+  - topic: "[[Conceptual-Change-and-PKB-Design-Vosniadou,-Chi,-and-the-Challenge-of-Genuine-Re|Conceptual Change and PKB Design: Vosniadou, Chi, and the Challenge of Genuine Revision]]"
     description: "An investigation of the conceptual change research tradition (Vosniadou, Chi, Carey, diSessa) and wh"
     priority: medium
-  - topic: "[[Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
+  - topic: "[[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]]"
     description: "Addresses the solitary practice limitation identified in this report by examining how adversarial co"
     priority: medium
-  - topic: "[[Dialectical Thinking as Cognitive Development: Basseches, Labouvie-Vief, and the PKB as Development Environment]]"
+  - topic: "[[Dialectical-Thinking-as-Cognitive-Development-Basseches,-Labouvie-Vief,-and-the|Dialectical Thinking as Cognitive Development: Basseches, Labouvie-Vief, and the PKB as Development Environment]]"
     description: "Extends the brief treatment of dialectical thinking as a developmental achievement into a full analy"
     priority: medium
 
@@ -128,7 +128,7 @@ importance: high
 # Chinn & Brewer Anomalous Data Response Model
 
 > [!definition] **Chinn & Brewer Anomalous Data Response Model**
-> [[Anomalous Data]] is evidence that contradicts a theory or belief a person holds. [[Chinn and Brewer's Model|Chinn & Brewer's 1993 model]] identifies seven distinct responses to anomalous data, arranged from most intellectually evasive to most intellectually honest: (1) ignoring the data, (2) rejecting it, (3) excluding it from the theory's scope, (4) holding it in abeyance, (5) reinterpreting the data so it no longer contradicts, (6) making peripheral theory changes, (7) genuinely revising the theory. Research shows that most people, most of the time, respond with strategies 1-5 rather than 6-7 — even when the anomalous data is strong. Boundary conditions: which strategy is deployed depends on the entrenchment of the prior belief, the quality of the anomalous data, the availability of alternative explanations, and the perceived cost of revision.
+> [[Anomalous-Data|Anomalous Data]] is evidence that contradicts a theory or belief a person holds. [[Chinn and Brewer's Model|Chinn & Brewer's 1993 model]] identifies seven distinct responses to anomalous data, arranged from most intellectually evasive to most intellectually honest: (1) ignoring the data, (2) rejecting it, (3) excluding it from the theory's scope, (4) holding it in abeyance, (5) reinterpreting the data so it no longer contradicts, (6) making peripheral theory changes, (7) genuinely revising the theory. Research shows that most people, most of the time, respond with strategies 1-5 rather than 6-7 — even when the anomalous data is strong. Boundary conditions: which strategy is deployed depends on the entrenchment of the prior belief, the quality of the anomalous data, the availability of alternative explanations, and the perceived cost of revision.
 
 ## Core Explanation
 
@@ -136,7 +136,7 @@ importance: high
 > **Disagreement Produces Deeper Encoding (Multiple Research Traditions)**: A significant convergent body of research supports the claim that processing contradictions produces deeper cognitive encoding than processing consistent information. Graesser & Olde (2003) demonstrated that readers show enhanced memory and comprehension for text passages containing *violations of expectations* compared to passages that merely confirmed prior knowledge. Vosniadou & Brewer's (1992) framework for conceptual…
 
 > [!evidence] Supporting Evidence
-> **Myside Bias: The Default Against Dialectical Thinking**: Jonathan Stanovich and colleagues' extensive research program on [[Myside Bias]] — the tendency to evaluate arguments, evidence, and hypotheses in ways that favor one's pre-existing positions — establishes the baseline condition that dialectical PKB practice must overcome. Stanovich's findings (summarized in *The Bias That Divides Us*, 2021) are notable for two reasons: (1) myside bias is largely uncorrelated with general intelligence,…
+> **Myside Bias: The Default Against Dialectical Thinking**: Jonathan Stanovich and colleagues' extensive research program on [[Confirmation-Bias-Myside-Bias|Myside Bias]] — the tendency to evaluate arguments, evidence, and hypotheses in ways that favor one's pre-existing positions — establishes the baseline condition that dialectical PKB practice must overcome. Stanovich's findings (summarized in *The Bias That Divides Us*, 2021) are notable for two reasons: (1) myside bias is largely uncorrelated with general intelligence,…
 
 > [!evidence] Supporting Evidence
 > **The Evidence Points Beyond "Consider Both Sides"**: The research literature on cognitive conflict and belief revision converges on a finding that is easy to misread as merely "consider multiple perspectives." The actual finding is more specific and more demanding: what drives genuine schema reorganization is not the *presence* of an alternative view but the experience of *resolving a contradiction* — working through the tension between thesis and antithesis until a more adequate synthesis…
@@ -158,4 +158,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]] · [[Anomalous Data]] · [[Antithesis]] · [[Aporia]] · [[Argumentation Theory]] · [[Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]] · [[Aufhebung]] · [[Aufhebung-in-PKB]] · [[Belief Revision]] · [[Calibration and Epistemic Humility]] · [[Chinn and Brewer's Model]] · [[Cognitive Conflict]] · [[Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]] · [[Cognitive Load Theory]] · [[Conceptual Change and PKB Design: Vosniadou, Chi, and the Challenge of Genuine Revision]]
+[[Adversarial-Collaboration-as-PKB-Input-Structured-Intellectual-Disagreement-with|Adversarial Collaboration as PKB Input: Structured Intellectual Disagreement with Human Interlocutors]] · [[Anomalous-Data|Anomalous Data]] · [[Antithesis]] · [[Aporia]] · [[Argumentation-Theory|Argumentation Theory]] · [[Argumentation-Theory-for-PKM-Toulmin,-Pragma-Dialectics,-and-Argument-Mapping-in|Argumentation Theory for PKM: Toulmin, Pragma-Dialectics, and Argument Mapping in Obsidian]] · [[Aufhebung]] · [[Aufhebung-in-PKB]] · [[Belief-Revision|Belief Revision]] · [[Calibration-and-Epistemic-Humility|Calibration and Epistemic Humility]] · [[Chinn-and-Brewer's-Model|Chinn and Brewer's Model]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Conflict-and-Instructional-Design-Implications-for-Designing-Your-Own|Cognitive Conflict and Instructional Design: Implications for Designing Your Own Learning Sequences]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Conceptual-Change-and-PKB-Design-Vosniadou,-Chi,-and-the-Challenge-of-Genuine-Re|Conceptual Change and PKB Design: Vosniadou, Chi, and the Challenge of Genuine Revision]]

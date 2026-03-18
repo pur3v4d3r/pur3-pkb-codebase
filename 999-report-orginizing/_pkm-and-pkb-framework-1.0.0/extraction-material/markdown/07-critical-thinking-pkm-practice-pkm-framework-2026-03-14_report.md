@@ -172,12 +172,12 @@ extraction_summary:
 #### 4. [DEFINITION] Socratic Method / Elenchus (Plato, Dewey, Educational Philosophy) *(Line 151)*
 
 > [!definition] Socratic Method / Elenchus (Plato, Dewey, Educational Philosophy)
-> A dialogical method of inquiry that proceeds by: (1) identifying a target belief or proposition held with confidence, (2) generating counterexamples and logical challenges until the belief is shown to be internally inconsistent or inadequately grounded, and (3) using the resulting [[Aporia]] — productive puzzlement — as the starting point for more careful inquiry rather than a return to the original confident position. The Socratic elenchus is not primarily a rhetorical technique but a mechanism for interrupting confident but inadequately examined belief and creating the cognitive conditions for genuine epistemic progress. Dewey (1933, 1938) reconstructed Socratic method for modern educational contexts as [[Reflective Inquiry]]: the disciplined investigation of genuine problems through hypothesis formation, systematic examination of evidence, and willingness to follow the argument wherever it leads, regardless of starting commitments. Boundary condition: Socratic method is effective specifically when it generates genuine puzzlement — when the counterexample is logically compelling and cannot be dismissed. Pro forma questioning that produces rehearsed answers rather than genuine engagement does not produce the epistemic effects.
+> A dialogical method of inquiry that proceeds by: (1) identifying a target belief or proposition held with confidence, (2) generating counterexamples and logical challenges until the belief is shown to be internally inconsistent or inadequately grounded, and (3) using the resulting [[Aporia]] — productive puzzlement — as the starting point for more careful inquiry rather than a return to the original confident position. The Socratic elenchus is not primarily a rhetorical technique but a mechanism for interrupting confident but inadequately examined belief and creating the cognitive conditions for genuine epistemic progress. Dewey (1933, 1938) reconstructed Socratic method for modern educational contexts as [[Reflective-Inquiry|Reflective Inquiry]]: the disciplined investigation of genuine problems through hypothesis formation, systematic examination of evidence, and willingness to follow the argument wherever it leads, regardless of starting commitments. Boundary condition: Socratic method is effective specifically when it generates genuine puzzlement — when the counterexample is logically compelling and cannot be dismissed. Pro forma questioning that produces rehearsed answers rather than genuine engagement does not produce the epistemic effects.
 
 #### 5. [DEFINITION] Dual-Process Theory (Kahneman, Evans, Cognitive Psychology) *(Line 154)*
 
 > [!definition] Dual-Process Theory (Kahneman, Evans, Cognitive Psychology)
-> The theoretical framework distinguishing two systems of cognitive processing: [[System 1]], which operates automatically, rapidly, associatively, in parallel, and without conscious effort; and [[System 2]], which operates deliberately, slowly, serially, and with conscious effort. In Kahneman's (2011) treatment, System 1 handles the vast majority of cognitive operations — including most initial belief evaluation — with System 2 available to check, override, or extend System 1's outputs when the person is motivated and when cognitive resources permit. The relationship between the two systems is not cooperative partnership; System 1 generates outputs continuously and System 2 typically accepts them rather than critically examining them. The critical evaluation of a belief requires System 2 activation — which is costly, limited in capacity, and frequently bypassed by the [[Cognitive Miser]] tendencies of even highly intelligent processors. Boundary condition: System 2 can correct System 1 outputs, but only if activated; and the conditions for activation — recognition that a careful look is warranted — are themselves susceptible to System 1 influence.
+> The theoretical framework distinguishing two systems of cognitive processing: [[System 1]], which operates automatically, rapidly, associatively, in parallel, and without conscious effort; and [[System 2]], which operates deliberately, slowly, serially, and with conscious effort. In Kahneman's (2011) treatment, System 1 handles the vast majority of cognitive operations — including most initial belief evaluation — with System 2 available to check, override, or extend System 1's outputs when the person is motivated and when cognitive resources permit. The relationship between the two systems is not cooperative partnership; System 1 generates outputs continuously and System 2 typically accepts them rather than critically examining them. The critical evaluation of a belief requires System 2 activation — which is costly, limited in capacity, and frequently bypassed by the [[Cognitive-Miser|Cognitive Miser]] tendencies of even highly intelligent processors. Boundary condition: System 2 can correct System 1 outputs, but only if activated; and the conditions for activation — recognition that a careful look is warranted — are themselves susceptible to System 1 influence.
 
 #### 6. [DEFINITION] Argument Mapping (Toulmin, van Gelder, Informal Logic) *(Line 157)*
 
@@ -187,7 +187,7 @@ extraction_summary:
 #### 7. [DEFINITION] Confirmation Bias / Myside Bias (Nickerson, Stanovich, Cognitive Psychology) *(Line 160)*
 
 > [!definition] Confirmation Bias / Myside Bias (Nickerson, Stanovich, Cognitive Psychology)
-> The systematic tendency to seek, interpret, remember, and favor information that confirms or supports existing beliefs, and to discount, dismiss, or avoid information that challenges them. Nickerson's (1998) comprehensive review established confirmation bias as among the most robust phenomena in cognitive psychology. Stanovich's (2011, 2016) refinement distinguishes [[Myside Bias]] — the tendency to generate and evaluate evidence from one's own perspective — as particularly important because it operates even in highly intelligent individuals and is not reduced by higher cognitive ability alone. This is the key finding: myside bias is *not* a failure of intelligence but a failure of the disposition to apply intelligence evenhandedly. Boundary condition: myside bias is strongest in domains where the person has strong prior beliefs and emotional investment — which is exactly the characteristic of the domains PKB users typically care most about.
+> The systematic tendency to seek, interpret, remember, and favor information that confirms or supports existing beliefs, and to discount, dismiss, or avoid information that challenges them. Nickerson's (1998) comprehensive review established confirmation bias as among the most robust phenomena in cognitive psychology. Stanovich's (2011, 2016) refinement distinguishes [[Confirmation-Bias-Myside-Bias|Myside Bias]] — the tendency to generate and evaluate evidence from one's own perspective — as particularly important because it operates even in highly intelligent individuals and is not reduced by higher cognitive ability alone. This is the key finding: myside bias is *not* a failure of intelligence but a failure of the disposition to apply intelligence evenhandedly. Boundary condition: myside bias is strongest in domains where the person has strong prior beliefs and emotional investment — which is exactly the characteristic of the domains PKB users typically care most about.
 
 #### 8. [CROSS-DOMAIN-CONNECTION] System 1 and Socratic Elenchus: Two Traditions, One Target *(Line 163)*
 
@@ -255,7 +255,7 @@ extraction_summary:
 #### 19. [CROSS-DOMAIN-CONNECTION] Aporia and Productive Failure: Three Traditions, One Mechanism *(Line 270)*
 
 > [!cross-domain-connection] Aporia and Productive Failure: Three Traditions, One Mechanism
-> Report 03 of this series established the [[Constructivist]] account of learning as schema reorganization through encounter with challenging material that cannot be processed by existing schemas — what Piaget called [[Disequilibration]] and what contemporary researchers call [[Productive Failure]] (Kapur, 2016) and [[Cognitive Conflict]]. The Socratic concept of [[Aporia]] describes the same state from a philosophical angle: the experience of genuine intellectual puzzlement that comes from discovering that one's confident beliefs are inadequately grounded. The dual-process account of System 2 activation provides the cognitive mechanism by which both aporia and cognitive conflict produce their effects: they create conditions where System 1 outputs are demonstrably inadequate, triggering System 2 engagement. Three independent traditions — separated by millennia and disciplinary boundaries — converge on the same structural claim: genuine epistemic progress requires an initial state of motivated discomfort in which existing cognitive resources are insufficient. For PKB design, this three-way convergence dramatically increases confidence in the design principle: review workflows should be designed to regularly create conditions where existing understanding is genuinely insufficient, not to confirm that existing understanding is adequate.
+> Report 03 of this series established the [[Constructivist]] account of learning as schema reorganization through encounter with challenging material that cannot be processed by existing schemas — what Piaget called [[Disequilibration]] and what contemporary researchers call [[Productive-Failure|Productive Failure]] (Kapur, 2016) and [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]. The Socratic concept of [[Aporia]] describes the same state from a philosophical angle: the experience of genuine intellectual puzzlement that comes from discovering that one's confident beliefs are inadequately grounded. The dual-process account of System 2 activation provides the cognitive mechanism by which both aporia and cognitive conflict produce their effects: they create conditions where System 1 outputs are demonstrably inadequate, triggering System 2 engagement. Three independent traditions — separated by millennia and disciplinary boundaries — converge on the same structural claim: genuine epistemic progress requires an initial state of motivated discomfort in which existing cognitive resources are insufficient. For PKB design, this three-way convergence dramatically increases confidence in the design principle: review workflows should be designed to regularly create conditions where existing understanding is genuinely insufficient, not to confirm that existing understanding is adequate.
 
 #### 20. [ANALYTICAL-INSIGHT] Link Density as Epistemic Barometer *(Line 281)*
 
@@ -313,7 +313,7 @@ extraction_summary:
 #### 29. [ORIGINAL-SYNTHESIS] The External Epistemic Vigilance System (EEVS) *(Line 419)*
 
 > [!original-synthesis] The External Epistemic Vigilance System (EEVS)
-> Human [[Epistemic Vigilance]] — the evolved capacity to evaluate belief sources and argument quality — has three systematic limitations in the PKM context that compound each other: (1) it was optimized for face-to-face, speech-based communication in small social groups, not for text-based, self-directed knowledge construction at scale; (2) it operates primarily on received information from identified others, not on self-generated synthesis where the credibility mechanisms do not engage; and (3) it produces confident, unflagged outputs — accepted beliefs feel like evaluated knowledge — making it impossible after the fact to distinguish well-evaluated from poorly-evaluated beliefs without additional external markers.
+> Human [[Epistemic-Vigilance|Epistemic Vigilance]] — the evolved capacity to evaluate belief sources and argument quality — has three systematic limitations in the PKM context that compound each other: (1) it was optimized for face-to-face, speech-based communication in small social groups, not for text-based, self-directed knowledge construction at scale; (2) it operates primarily on received information from identified others, not on self-generated synthesis where the credibility mechanisms do not engage; and (3) it produces confident, unflagged outputs — accepted beliefs feel like evaluated knowledge — making it impossible after the fact to distinguish well-evaluated from poorly-evaluated beliefs without additional external markers.
 > 
 > A PKB designed with critical thinking architecture functions as an **External Epistemic Vigilance System (EEVS)**: a designed environment that compensates for the specific, predictable failure modes of biological epistemic vigilance by externalizing evaluation processes into structural features of the knowledge base itself. The EEVS operates through four compensatory mechanisms:
 > 
@@ -330,7 +330,7 @@ extraction_summary:
 #### 30. [ORIGINAL-SYNTHESIS] Calibration Requires Evaluation: Resolving an Implicit Tension in the Framework *(Line 437)*
 
 > [!original-synthesis] Calibration Requires Evaluation: Resolving an Implicit Tension in the Framework
-> Reports 04 and 07 of this series contain an implicit architectural tension that can now be made explicit and resolved. Report 04 treated [[Metacognitive Calibration]] — the accurate assessment of one's own epistemic state — as a foundational PKB design target, with calibration ratings providing accurate metadata about the current state of one's knowledge. Report 07 has established that the reliability of those calibration ratings depends entirely on whether the beliefs being calibrated have undergone genuine critical evaluation.
+> Reports 04 and 07 of this series contain an implicit architectural tension that can now be made explicit and resolved. Report 04 treated [[Metacognitive-Calibration|Metacognitive Calibration]] — the accurate assessment of one's own epistemic state — as a foundational PKB design target, with calibration ratings providing accurate metadata about the current state of one's knowledge. Report 07 has established that the reliability of those calibration ratings depends entirely on whether the beliefs being calibrated have undergone genuine critical evaluation.
 > 
 > The tension is this: a PKB user can be perfectly calibrated — accurately estimating their performance relative to their actual performance — while their actual performance is based on a systematically biased belief set. Calibration measures the alignment between confidence and performance; it does not measure the epistemic quality of the beliefs on which performance is based. A user who consistently overestimates the evidential basis of their beliefs will generate calibrated confidence ratings for those beliefs that accurately reflect their (incorrect) subjective certainty while misrepresenting the actual epistemic standing of the claims.
 > 
@@ -341,19 +341,19 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections**
 > 
-> - **[[Dual-Process Theory]]** — The cognitive architecture foundation for understanding why critical evaluation must be structurally embedded rather than left to individual judgment. Every design recommendation in this report is, at its core, a response to the System 1 dominance problem that dual-process theory describes. A richly developed note on dual-process theory should be one of the most densely linked nodes in the critical thinking subdomain of any PKB engaging with this framework.
+> - **[[Dual-Process-Theory|Dual-Process Theory]]** — The cognitive architecture foundation for understanding why critical evaluation must be structurally embedded rather than left to individual judgment. Every design recommendation in this report is, at its core, a response to the System 1 dominance problem that dual-process theory describes. A richly developed note on dual-process theory should be one of the most densely linked nodes in the critical thinking subdomain of any PKB engaging with this framework.
 > 
-> - **[[Epistemic Vigilance]]** — Sperber and Mercier's framework provides the evolutionary grounding explaining both the specific pattern of critical thinking failures in PKM contexts and why certain argumentative practices are more effective than others at compensating for those failures. Understanding the specific failure modes of epistemic vigilance in self-directed contexts is prerequisite to designing the EEVS components effectively.
+> - **[[Epistemic-Vigilance|Epistemic Vigilance]]** — Sperber and Mercier's framework provides the evolutionary grounding explaining both the specific pattern of critical thinking failures in PKM contexts and why certain argumentative practices are more effective than others at compensating for those failures. Understanding the specific failure modes of epistemic vigilance in self-directed contexts is prerequisite to designing the EEVS components effectively.
 > 
-> - **[[Argument Mapping]]** — The specific technique with the most robust empirical support for improving logical sensitivity. Notes on van Gelder's research methodology, Toulmin's model structure, and the empirical evidence base for argument mapping's effectiveness should be core nodes, linked to the EEVS framework and to the specific note templates developed from the design principles.
+> - **[[Argument-Mapping|Argument Mapping]]** — The specific technique with the most robust empirical support for improving logical sensitivity. Notes on van Gelder's research methodology, Toulmin's model structure, and the empirical evidence base for argument mapping's effectiveness should be core nodes, linked to the EEVS framework and to the specific note templates developed from the design principles.
 > 
-> - **[[Metacognitive Calibration]]** — Report 04 established calibration as a core metacognitive capacity and PKB design target. This report reveals the architectural dependency: calibration is epistemically meaningful only downstream of critical evaluation. The connection between these two nodes should be explicit and bidirectional — each is incomplete without the other.
+> - **[[Metacognitive-Calibration|Metacognitive Calibration]]** — Report 04 established calibration as a core metacognitive capacity and PKB design target. This report reveals the architectural dependency: calibration is epistemically meaningful only downstream of critical evaluation. The connection between these two nodes should be explicit and bidirectional — each is incomplete without the other.
 > 
-> - **[[Myside Bias]]** — Stanovich's research is among the most important empirical findings for PKM practice because it specifically challenges the protective assumption that intellectual sophistication guards against biased knowledge curation. A note on myside bias should be one of the most densely linked nodes in the cognitive bias subdomain, connected to the expertise trap insight, the confirmation audit practice, and the structural counterargument design principle.
+> - **[[Confirmation-Bias-Myside-Bias|Myside Bias]]** — Stanovich's research is among the most important empirical findings for PKM practice because it specifically challenges the protective assumption that intellectual sophistication guards against biased knowledge curation. A note on myside bias should be one of the most densely linked nodes in the cognitive bias subdomain, connected to the expertise trap insight, the confirmation audit practice, and the structural counterargument design principle.
 > 
-> - **[[Epistemic Status Vocabulary]]** — The specific metadata vocabulary for epistemic status tagging developed in Phase V (established, working-hypothesis, contested, speculative, personal-synthesis, to-verify) constitutes a first-class node in the knowledge management subdomain. It should link to both the EEVS framework and the metacognitive calibration system, since it is the interface between critical evaluation and calibration rating.
+> - **[[Epistemic-Status-Vocabulary|Epistemic Status Vocabulary]]** — The specific metadata vocabulary for epistemic status tagging developed in Phase V (established, working-hypothesis, contested, speculative, personal-synthesis, to-verify) constitutes a first-class node in the knowledge management subdomain. It should link to both the EEVS framework and the metacognitive calibration system, since it is the interface between critical evaluation and calibration rating.
 > 
-> - **[[External Epistemic Vigilance System]]** — The EEVS framework developed in Phase VI is the central original contribution of this report and warrants its own dedicated node, linking outward to all four contributing disciplines and inward to each of the five design principles that constitute its operational expression.
+> - **[[External-Epistemic-Vigilance-System-EEVS|External Epistemic Vigilance System]]** — The EEVS framework developed in Phase VI is the central original contribution of this report and warrants its own dedicated node, linking outward to all four contributing disciplines and inward to each of the five design principles that constitute its operational expression.
 > 
 > - **[[Socratic Questioning Protocol]]** — The six-type questioning framework developed in Phase V should be a standalone, reusable template node referenced across multiple review workflows. Its connection to the elenchus mechanism (via aporia and System 2 activation) should be explicit in the note, since the protocol's design was derived from that mechanism.
 > 
@@ -502,13 +502,13 @@ extraction_summary:
 > > [!topic-idea] [[Intellectual Humility: Cognitive Science and Virtue Epistemology]]
 > > A cross-domain synthesis of the cognitive science of intellectual humility (Krumrei-Mancuso & Rouse, 2016; Leary et al., 2017) with virtue epistemology's account of epistemic virtues (Zagzebski, 1996; Sosa, 2007) addresses the major gap identified in Phase V: how can PKB design cultivate intellectual humility and intellectual courage as stable dispositions rather than merely scaffolding the skills of critical evaluation? This exploration is also foundational for Report 29 (Ethical PKM) and connects directly to the motivation architecture established in Report 05.
 > 
-> > [!topic-idea] [[Debiasing: What Interventions Actually Work and Why]]
+> > [!topic-idea] [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]]
 > > A focused review of the debiasing literature — the systematic empirical study of which interventions for which biases produce reliable, durable improvement in reasoning quality. Covers consider-the-opposite procedures (Mussweiler, Strack, & Pfeiffer, 2000), structured analytic techniques from intelligence analysis (Heuer & Pherson), pre-mortem analysis (Klein), and metacognitive training approaches. Directly informs the practical design of the bias-checking systems described in Report 07's Phase V, grounding them in the best available evidence rather than intuition about what should work.
 > 
 > > [!topic-idea] [[Source Evaluation at Scale: SIFT, CRAAP, and Lateral Reading]]
 > > A comparative analysis of the most widely used and empirically evaluated source evaluation frameworks — SIFT (Stop-Investigate the source-Find better coverage-Trace claims), CRAAP (Currency-Relevance-Authority-Accuracy-Purpose), and lateral reading (the practice used by professional fact-checkers of immediately leaving a source to investigate it from external vantage points) — and their relative effectiveness for different source types and knowledge domains. The goal is a PKM-specific source evaluation protocol that draws on the best-evidenced elements of each framework while addressing their limitations in the specific context of self-directed, ongoing knowledge curation.
 > 
-> > [!topic-idea] [[Epistemic Injustice and Whose Knowledge Gets Stored]]
+> > [!topic-idea] [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]
 > > Miranda Fricker's (2007) analysis of epistemic injustice — the specific harms done to people as epistemic agents through testimonial injustice (their testimony is not given appropriate credence) and hermeneutical injustice (their experiences are not captured by available interpretive frameworks) — provides a critical framework for examining whose knowledge gets stored in a PKB and whose is systematically discounted. This exploration asks: are there structural biases in PKB knowledge curation that track social power, institutional prestige, or cultural proximity rather than epistemic quality? It connects Report 07's critical evaluation framework to the ethics of knowledge construction and directly feeds into Report 29 (Ethical PKM).
 > 
 > > [!topic-idea] [[The Epistemic Benefits of Disagreement: Adversarial Collaboration for PKM]]
@@ -525,31 +525,31 @@ extraction_summary:
 ### Unique Targets
 
 - [[Aporia]]
-- [[Argument Mapping]]
-- [[Availability Heuristic]]
-- [[Cognitive Bias]]
-- [[Cognitive Conflict]]
-- [[Cognitive Miser]]
-- [[Cognitive Psychology]]
+- [[Argument-Mapping|Argument Mapping]]
+- [[Availability-Heuristic|Availability Heuristic]]
+- [[Cognitive-Bias|Cognitive Bias]]
+- [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
+- [[Cognitive-Miser|Cognitive Miser]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Constructivist]]
-- [[Critical Thinking]]
-- [[Debiasing: What Interventions Actually Work and Why]]
+- [[Critical-Thinking|Critical Thinking]]
+- [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]]
 - [[Disequilibration]]
-- [[Dual-Process Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Dysrationalia]]
-- [[Educational Philosophy]]
-- [[Epistemic Injustice and Whose Knowledge Gets Stored]]
-- [[Epistemic Status Vocabulary]]
-- [[Epistemic Vigilance]]
+- [[Educational-Philosophy|Educational Philosophy]]
+- [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]
+- [[Epistemic-Status-Vocabulary|Epistemic Status Vocabulary]]
+- [[Epistemic-Vigilance|Epistemic Vigilance]]
 - [[Evolutionary Epistemology]]
-- [[External Epistemic Vigilance System]]
-- [[Illusion of Knowing]]
+- [[External-Epistemic-Vigilance-System-EEVS|External Epistemic Vigilance System]]
+- [[Illusion-of-Knowing|Illusion of Knowing]]
 - [[Informal Logic and Argumentation Theory]]
 - [[Intellectual Humility: Cognitive Science and Virtue Epistemology]]
-- [[Metacognitive Calibration]]
-- [[Myside Bias]]
-- [[Productive Failure]]
-- [[Reflective Inquiry]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[Confirmation-Bias-Myside-Bias|Myside Bias]]
+- [[Productive-Failure|Productive Failure]]
+- [[Reflective-Inquiry|Reflective Inquiry]]
 - [[Report 03 — Constructing Understanding]]
 - [[Report 04 — Metacognitive Self-Regulation]]
 - [[Report 06 — The Science of Remembering]]
@@ -558,7 +558,7 @@ extraction_summary:
 - [[Report 14 — Inquiry-Based Knowledge Building]]
 - [[Report 18 — Calibration and Epistemic Humility]]
 - [[Report 21 — Dialectical Knowledge Building]]
-- [[Socratic Method]]
+- [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Socratic Questioning Protocol]]
 - [[Source Evaluation at Scale: SIFT, CRAAP, and Lateral Reading]]
 - [[Straw Man]]
@@ -570,44 +570,44 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Critical Thinking]] | — | — | The Synthesis Question | 115 |
-| 2 | [[Epistemic Vigilance]] | — | — | The Synthesis Question | 115 |
-| 3 | [[Socratic Method]] | — | — | The Synthesis Question | 115 |
-| 4 | [[Dual-Process Theory]] | — | — | The Synthesis Question | 115 |
-| 5 | [[Epistemic Vigilance]] | — | — | The Synthesis Question | 117 |
-| 6 | [[Cognitive Psychology]] | — | — | Disciplinary Contributions and Their ... | 121 |
-| 7 | [[Cognitive Bias]] | — | — | Disciplinary Contributions and Their ... | 121 |
-| 8 | [[Educational Philosophy]] | — | — | Disciplinary Contributions and Their ... | 121 |
-| 9 | [[Critical Thinking]] | — | — | Disciplinary Contributions and Their ... | 121 |
+| 1 | [[Critical-Thinking|Critical Thinking]] | — | — | The Synthesis Question | 115 |
+| 2 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | The Synthesis Question | 115 |
+| 3 | [[Socratic-Method-Elenchus|Socratic Method]] | — | — | The Synthesis Question | 115 |
+| 4 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | The Synthesis Question | 115 |
+| 5 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | The Synthesis Question | 117 |
+| 6 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Disciplinary Contributions and Their ... | 121 |
+| 7 | [[Cognitive-Bias|Cognitive Bias]] | — | — | Disciplinary Contributions and Their ... | 121 |
+| 8 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Disciplinary Contributions and Their ... | 121 |
+| 9 | [[Critical-Thinking|Critical Thinking]] | — | — | Disciplinary Contributions and Their ... | 121 |
 | 10 | [[Evolutionary Epistemology]] | — | — | Disciplinary Contributions and Their ... | 121 |
-| 11 | [[Epistemic Vigilance]] | — | — | Disciplinary Contributions and Their ... | 121 |
+| 11 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | Disciplinary Contributions and Their ... | 121 |
 | 12 | [[Aporia]] | — | — | The Socratic Method as Cognitive Inte... | 152 |
-| 13 | [[Reflective Inquiry]] | — | — | The Socratic Method as Cognitive Inte... | 152 |
+| 13 | [[Reflective-Inquiry|Reflective Inquiry]] | — | — | The Socratic Method as Cognitive Inte... | 152 |
 | 14 | [[System 1]] | — | — | The Socratic Method as Cognitive Inte... | 155 |
 | 15 | [[System 2]] | — | — | The Socratic Method as Cognitive Inte... | 155 |
-| 16 | [[Cognitive Miser]] | — | — | The Socratic Method as Cognitive Inte... | 155 |
-| 17 | [[Myside Bias]] | — | — | The Socratic Method as Cognitive Inte... | 161 |
+| 16 | [[Cognitive-Miser|Cognitive Miser]] | — | — | The Socratic Method as Cognitive Inte... | 155 |
+| 17 | [[Confirmation-Bias-Myside-Bias|Myside Bias]] | — | — | The Socratic Method as Cognitive Inte... | 161 |
 | 18 | [[Aporia]] | — | — | The Socratic Method as Cognitive Inte... | 164 |
-| 19 | [[Myside Bias]] | — | — | The Cognitive Bias Evidence Base: Wha... | 202 |
+| 19 | [[Confirmation-Bias-Myside-Bias|Myside Bias]] | — | — | The Cognitive Bias Evidence Base: Wha... | 202 |
 | 20 | [[Aporia]] | — | — | How Socratic Questioning Interrupts t... | 266 |
 | 21 | [[Constructivist]] | — | — | How Socratic Questioning Interrupts t... | 271 |
 | 22 | [[Disequilibration]] | — | — | How Socratic Questioning Interrupts t... | 271 |
-| 23 | [[Productive Failure]] | — | — | How Socratic Questioning Interrupts t... | 271 |
-| 24 | [[Cognitive Conflict]] | — | — | How Socratic Questioning Interrupts t... | 271 |
+| 23 | [[Productive-Failure|Productive Failure]] | — | — | How Socratic Questioning Interrupts t... | 271 |
+| 24 | [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] | — | — | How Socratic Questioning Interrupts t... | 271 |
 | 25 | [[Aporia]] | — | — | How Socratic Questioning Interrupts t... | 271 |
 | 26 | [[Dysrationalia]] | — | — | The Mechanics of Confirmation Bias in... | 279 |
-| 27 | [[Metacognitive Calibration]] | — | — | The Return-and-Deepen: Metacognitive ... | 297 |
-| 28 | [[Illusion of Knowing]] | — | — | The Return-and-Deepen: Metacognitive ... | 299 |
-| 29 | [[Availability Heuristic]] | — | — | Design Principle 1: Embed Evaluation ... | 318 |
-| 30 | [[Epistemic Vigilance]] | — | — | The Central Original Contribution: Th... | 421 |
-| 31 | [[Metacognitive Calibration]] | — | — | A Second Original Contribution: The A... | 439 |
-| 32 | [[Dual-Process Theory]] | — | — | Phase VII: PKB Connections and Cross-... | 456 |
-| 33 | [[Epistemic Vigilance]] | — | — | Phase VII: PKB Connections and Cross-... | 458 |
-| 34 | [[Argument Mapping]] | — | — | Phase VII: PKB Connections and Cross-... | 460 |
-| 35 | [[Metacognitive Calibration]] | — | — | Phase VII: PKB Connections and Cross-... | 462 |
-| 36 | [[Myside Bias]] | — | — | Phase VII: PKB Connections and Cross-... | 464 |
-| 37 | [[Epistemic Status Vocabulary]] | — | — | Phase VII: PKB Connections and Cross-... | 466 |
-| 38 | [[External Epistemic Vigilance System]] | — | — | Phase VII: PKB Connections and Cross-... | 468 |
+| 27 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | The Return-and-Deepen: Metacognitive ... | 297 |
+| 28 | [[Illusion-of-Knowing|Illusion of Knowing]] | — | — | The Return-and-Deepen: Metacognitive ... | 299 |
+| 29 | [[Availability-Heuristic|Availability Heuristic]] | — | — | Design Principle 1: Embed Evaluation ... | 318 |
+| 30 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | The Central Original Contribution: Th... | 421 |
+| 31 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | A Second Original Contribution: The A... | 439 |
+| 32 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | Phase VII: PKB Connections and Cross-... | 456 |
+| 33 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | Phase VII: PKB Connections and Cross-... | 458 |
+| 34 | [[Argument-Mapping|Argument Mapping]] | — | — | Phase VII: PKB Connections and Cross-... | 460 |
+| 35 | [[Metacognitive-Calibration|Metacognitive Calibration]] | — | — | Phase VII: PKB Connections and Cross-... | 462 |
+| 36 | [[Confirmation-Bias-Myside-Bias|Myside Bias]] | — | — | Phase VII: PKB Connections and Cross-... | 464 |
+| 37 | [[Epistemic-Status-Vocabulary|Epistemic Status Vocabulary]] | — | — | Phase VII: PKB Connections and Cross-... | 466 |
+| 38 | [[External-Epistemic-Vigilance-System-EEVS|External Epistemic Vigilance System]] | — | — | Phase VII: PKB Connections and Cross-... | 468 |
 | 39 | [[Socratic Questioning Protocol]] | — | — | Phase VII: PKB Connections and Cross-... | 470 |
 | 40 | [[Report 03 — Constructing Understanding]] | — | — | Phase VII: PKB Connections and Cross-... | 474 |
 | 41 | [[Report 04 — Metacognitive Self-Regulation]] | — | — | Phase VII: PKB Connections and Cross-... | 476 |
@@ -618,9 +618,9 @@ extraction_summary:
 | 46 | [[Straw Man]] | — | — | A. Lexicon of Key Terms | 513 |
 | 47 | [[Informal Logic and Argumentation Theory]] | — | — | D. Expansion Topics | 574 |
 | 48 | [[Intellectual Humility: Cognitive Science and Virtue Epistemology]] | — | — | D. Expansion Topics | 577 |
-| 49 | [[Debiasing: What Interventions Actually Work and Why]] | — | — | D. Expansion Topics | 580 |
+| 49 | [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]] | — | — | D. Expansion Topics | 580 |
 | 50 | [[Source Evaluation at Scale: SIFT, CRAAP, and Lateral Reading]] | — | — | D. Expansion Topics | 583 |
-| 51 | [[Epistemic Injustice and Whose Knowledge Gets Stored]] | — | — | D. Expansion Topics | 586 |
+| 51 | [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]] | — | — | D. Expansion Topics | 586 |
 | 52 | [[The Epistemic Benefits of Disagreement: Adversarial Collaboration for PKM]] | — | — | D. Expansion Topics | 589 |
 | 53 | [[Report 06 — The Science of Remembering]] | — | — | D. Expansion Topics | 598 |
 | 54 | [[Report 08 — Reflective Practice and Experiential Learning]] | — | — | D. Expansion Topics | 598 |
@@ -673,31 +673,31 @@ extraction_summary:
 > Each is a candidate for backlink creation in your PKB.
 
 - [[Aporia]]
-- [[Argument Mapping]]
-- [[Availability Heuristic]]
-- [[Cognitive Bias]]
-- [[Cognitive Conflict]]
-- [[Cognitive Miser]]
-- [[Cognitive Psychology]]
+- [[Argument-Mapping|Argument Mapping]]
+- [[Availability-Heuristic|Availability Heuristic]]
+- [[Cognitive-Bias|Cognitive Bias]]
+- [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
+- [[Cognitive-Miser|Cognitive Miser]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Constructivist]]
-- [[Critical Thinking]]
-- [[Debiasing: What Interventions Actually Work and Why]]
+- [[Critical-Thinking|Critical Thinking]]
+- [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]]
 - [[Disequilibration]]
-- [[Dual-Process Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[Dysrationalia]]
-- [[Educational Philosophy]]
-- [[Epistemic Injustice and Whose Knowledge Gets Stored]]
-- [[Epistemic Status Vocabulary]]
-- [[Epistemic Vigilance]]
+- [[Educational-Philosophy|Educational Philosophy]]
+- [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]
+- [[Epistemic-Status-Vocabulary|Epistemic Status Vocabulary]]
+- [[Epistemic-Vigilance|Epistemic Vigilance]]
 - [[Evolutionary Epistemology]]
-- [[External Epistemic Vigilance System]]
-- [[Illusion of Knowing]]
+- [[External-Epistemic-Vigilance-System-EEVS|External Epistemic Vigilance System]]
+- [[Illusion-of-Knowing|Illusion of Knowing]]
 - [[Informal Logic and Argumentation Theory]]
 - [[Intellectual Humility: Cognitive Science and Virtue Epistemology]]
-- [[Metacognitive Calibration]]
-- [[Myside Bias]]
-- [[Productive Failure]]
-- [[Reflective Inquiry]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
+- [[Confirmation-Bias-Myside-Bias|Myside Bias]]
+- [[Productive-Failure|Productive Failure]]
+- [[Reflective-Inquiry|Reflective Inquiry]]
 - [[Report 03 — Constructing Understanding]]
 - [[Report 04 — Metacognitive Self-Regulation]]
 - [[Report 06 — The Science of Remembering]]
@@ -706,7 +706,7 @@ extraction_summary:
 - [[Report 14 — Inquiry-Based Knowledge Building]]
 - [[Report 18 — Calibration and Epistemic Humility]]
 - [[Report 21 — Dialectical Knowledge Building]]
-- [[Socratic Method]]
+- [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Socratic Questioning Protocol]]
 - [[Source Evaluation at Scale: SIFT, CRAAP, and Lateral Reading]]
 - [[Straw Man]]
@@ -723,40 +723,40 @@ extraction_summary:
 
 #### Related Concepts
 
-- [[Critical Thinking]]
-- [[Epistemic Vigilance]]
-- [[Socratic Method]]
-- [[Elenchus]]
+- [[Critical-Thinking|Critical Thinking]]
+- [[Epistemic-Vigilance|Epistemic Vigilance]]
+- [[Socratic-Method-Elenchus|Socratic Method]]
+- [[Socratic-Method-Elenchus|Elenchus]]
 - [[Aporia]]
-- [[Dual-Process Theory]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
 - [[System 1]]
 - [[System 2]]
-- [[Cognitive Bias]]
-- [[Confirmation Bias]]
-- [[Myside Bias]]
-- [[Argument Mapping]]
-- [[Toulmin Model]]
+- [[Cognitive-Bias|Cognitive Bias]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
+- [[Confirmation-Bias-Myside-Bias|Myside Bias]]
+- [[Argument-Mapping|Argument Mapping]]
+- [[Toulmin-Model|Toulmin Model]]
 - [[Informal Logic]]
-- [[Epistemic Humility]]
+- [[Epistemic-Humility|Epistemic Humility]]
 - [[Calibration]]
 - [[Causal Reasoning]]
 - [[Paul-Elder Model]]
 - [[Halpern Critical Thinking Framework]]
 - [[PENCRISAL]]
 - [[Source Evaluation]]
-- [[Epistemic Status]]
-- [[Belief Revision]]
-- [[Argumentation Theory]]
-- [[Cognitive Miser]]
+- [[Epistemic-Status|Epistemic Status]]
+- [[Belief-Revision|Belief Revision]]
+- [[Argumentation-Theory|Argumentation Theory]]
+- [[Cognitive-Miser|Cognitive Miser]]
 - [[Dysrationalia]]
-- [[Illusion of Knowing]]
+- [[Illusion-of-Knowing|Illusion of Knowing]]
 - [[Steel-Manning]]
-- [[Dewey Reflective Inquiry]]
-- [[Intellectual Virtues]]
-- [[Epistemic Justice]]
-- [[Personal Knowledge Base]]
+- [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]
+- [[Intellectual-Virtues|Intellectual Virtues]]
+- [[Epistemic-Justice|Epistemic Justice]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[PKM Review Protocols]]
-- [[External Epistemic Vigilance System]]
+- [[External-Epistemic-Vigilance-System-EEVS|External Epistemic Vigilance System]]
 
 ---
 

@@ -69,12 +69,12 @@ narrower:
 
 see-also:
   - "[[Aporia]]"
-  - "[[Argument Mapping]]"
-  - "[[Availability Heuristic]]"
-  - "[[Cognitive Bias]]"
-  - "[[Cognitive Conflict]]"
-  - "[[Cognitive Miser]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Argument-Mapping|Argument Mapping]]"
+  - "[[Availability-Heuristic|Availability Heuristic]]"
+  - "[[Cognitive-Bias|Cognitive Bias]]"
+  - "[[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]"
+  - "[[Cognitive-Miser|Cognitive Miser]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Constructivist]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -106,7 +106,7 @@ importance: high
 # The External Epistemic Vigilance System (EEVS)
 
 > [!definition] **The External Epistemic Vigilance System (EEVS)**
-> Human [[Epistemic Vigilance]] — the evolved capacity to evaluate belief sources and argument quality — has three systematic limitations in the PKM context that compound each other: (1) it was optimized for face-to-face, speech-based communication in small social groups, not for text-based, self-directed knowledge construction at scale; (2) it operates primarily on received information from identified others, not on self-generated synthesis where the credibility mechanisms do not engage; and (3) it produces confident, unflagged outputs — accepted beliefs feel like evaluated knowledge — making it impossible after the fact to distinguish well-evaluated from poorly-evaluated beliefs without additional external markers.
+> Human [[Epistemic-Vigilance|Epistemic Vigilance]] — the evolved capacity to evaluate belief sources and argument quality — has three systematic limitations in the PKM context that compound each other: (1) it was optimized for face-to-face, speech-based communication in small social groups, not for text-based, self-directed knowledge construction at scale; (2) it operates primarily on received information from identified others, not on self-generated synthesis where the credibility mechanisms do not engage; and (3) it produces confident, unflagged outputs — accepted beliefs feel like evaluated knowledge — making it impossible after the fact to distinguish well-evaluated from poorly-evaluated beliefs without additional external markers.
 > 
 > A PKB designed with critical thinking architecture functions as an **External Epistemic Vigilance System (EEVS)**: a designed environment that compensates for the specific, predictable failure modes of biological epistemic vigilance by externalizing evaluation processes into structural features of the knowledge base itself. The EEVS operates through four compensatory mechanisms:
 > 
@@ -155,9 +155,9 @@ importance: high
 **Cross-report connections:**
 - [[Constructivist]]
 - [[Disequilibration]]
-- [[Productive Failure]]
-- [[Cognitive Conflict]]
+- [[Productive-Failure|Productive Failure]]
+- [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
 - [[Aporia]]
 
 **Related concepts:**
-[[Aporia]] · [[Argument Mapping]] · [[Availability Heuristic]] · [[Cognitive Bias]] · [[Cognitive Conflict]] · [[Cognitive Miser]] · [[Cognitive Psychology]] · [[Constructivist]] · [[Critical Thinking]] · [[Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dual-Process Theory]] · [[Dysrationalia]] · [[Educational Philosophy]] · [[Epistemic Injustice and Whose Knowledge Gets Stored]]
+[[Aporia]] · [[Argument-Mapping|Argument Mapping]] · [[Availability-Heuristic|Availability Heuristic]] · [[Cognitive-Bias|Cognitive Bias]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Miser|Cognitive Miser]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Constructivist]] · [[Critical-Thinking|Critical Thinking]] · [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Dysrationalia]] · [[Educational-Philosophy|Educational Philosophy]] · [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]

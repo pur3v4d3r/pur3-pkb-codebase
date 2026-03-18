@@ -363,13 +363,13 @@ extraction_summary:
 > 
 > - **[[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]** — Report 08 established the Experience Processing Architecture (Capture → Reflect → Conceptualize → Experiment) as the structural model for transforming experience into knowledge. Report 12 complements this by addressing the *monitoring layer* within that architecture — the metacognitive processes that ensure each stage of the experience processing cycle is producing genuine understanding rather than fluency-contaminated pseudo-understanding. Dewey's felt difficulty appears in both reports from different angles: Report 08 uses it to explain what initiates the reflective cycle; Report 12 uses it as the structural template for implementation intention cues.
 > 
-> - **[[Fluency Illusion]]** — A hub concept connecting this report to the desirable difficulties literature (Report 16), the testing effect (Report 06), and calibration and epistemic humility (Report 18). The fluency illusion is the mechanism that most systematically undermines metacognitive monitoring; understanding it structurally connects the memory science, metacognition, and instructional design threads of the framework.
+> - **[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]** — A hub concept connecting this report to the desirable difficulties literature (Report 16), the testing effect (Report 06), and calibration and epistemic humility (Report 18). The fluency illusion is the mechanism that most systematically undermines metacognitive monitoring; understanding it structurally connects the memory science, metacognition, and instructional design threads of the framework.
 > 
-> - **[[Implementation Intentions]]** — The application of Gollwitzer's framework to PKB design is a novel synthesis not represented in existing PKM literature. This concept serves as a bridge node between behavioral science and PKB structural design throughout the series.
+> - **[[Implementation-Intentions|Implementation Intentions]]** — The application of Gollwitzer's framework to PKB design is a novel synthesis not represented in existing PKM literature. This concept serves as a bridge node between behavioral science and PKB structural design throughout the series.
 > 
-> - **[[Zimmerman SRL Model]]** — This report advances the use of Zimmerman's framework from conceptual reference (as in Report 04) to structural design template. The three-phase forethought-performance-self-reflection structure maps directly onto the daily/session/weekly monitoring rhythms of the Embedded Monitoring Architecture.
+> - **[[Zimmerman-SRL-Model|Zimmerman SRL Model]]** — This report advances the use of Zimmerman's framework from conceptual reference (as in Report 04) to structural design template. The three-phase forethought-performance-self-reflection structure maps directly onto the daily/session/weekly monitoring rhythms of the Embedded Monitoring Architecture.
 > 
-> - **[[Calibration Tracking]]** — The double-assessment design pattern (capture confidence + retrieval confidence + discrepancy) introduced here becomes foundational infrastructure for Report 18's deeper analysis of calibration and epistemic humility. This report creates the data structure; Report 18 develops the interpretive framework.
+> - **[[Calibration-Tracking|Calibration Tracking]]** — The double-assessment design pattern (capture confidence + retrieval confidence + discrepancy) introduced here becomes foundational infrastructure for Report 18's deeper analysis of calibration and epistemic humility. This report creates the data structure; Report 18 develops the interpretive framework.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
@@ -506,24 +506,24 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Framework
 
-#### 59. [TOPIC-IDEA] [[Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]] *(Line 567)*
+#### 59. [TOPIC-IDEA] [[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]] *(Line 567)*
 
-> [!topic-idea] [[Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]
+> [!topic-idea] [[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]
 > How does metacognitive calibration accuracy change with deliberate practice, and what is the trajectory of improvement across months and years of PKB use? This expansion would draw on longitudinal metacognition research (Hacker et al. 2008), expertise research on monitoring accuracy, and the calibration improvement literature. It addresses the question Report 12 leaves open: what is the realistic timeline for moving from fluency-dominated monitoring to accurate self-assessment?
 
-#### 60. [TOPIC-IDEA] [[Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]] *(Line 570)*
+#### 60. [TOPIC-IDEA] [[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]] *(Line 570)*
 
-> [!topic-idea] [[Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]
+> [!topic-idea] [[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]
 > A technical deep-dive into building the metacognitive dashboard described in Design Principle 3 using Obsidian Dataview queries, YAML metadata structures, and graph visualization. This expansion bridges the conceptual framework of Report 12 with the technical implementation — covering confidence metadata schemas, discrepancy computation queries, calibration trend visualization, and integration with spaced repetition plugins.
 
-#### 61. [TOPIC-IDEA] [[Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]] *(Line 573)*
+#### 61. [TOPIC-IDEA] [[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]] *(Line 573)*
 
-> [!topic-idea] [[Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]
+> [!topic-idea] [[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]
 > Research on transfer of metacognitive strategies (Veenman et al. 2006; Hacker et al. 2009) has found mixed results: metacognitive skills developed in one domain do not automatically transfer to other domains without explicit instructional support. This raises a specific question for PKB users with multi-domain knowledge bases: does monitoring infrastructure developed for one domain (e.g., technical learning) generalize to others (e.g., historical or philosophical material)? This expansion connects to Report 11's transfer problem analysis.
 
-#### 62. [TOPIC-IDEA] [[Social Metacognition — When Other Minds Improve Your Monitoring]] *(Line 576)*
+#### 62. [TOPIC-IDEA] [[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring|Social Metacognition — When Other Minds Improve Your Monitoring]] *(Line 576)*
 
-> [!topic-idea] [[Social Metacognition — When Other Minds Improve Your Monitoring]]
+> [!topic-idea] [[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring|Social Metacognition — When Other Minds Improve Your Monitoring]]
 > Vygotsky's zone of proximal development applies to metacognitive monitoring as well as object-level learning: other people can often assess the accuracy of our self-assessments more reliably than we can. This expansion explores how PKB design might incorporate social metacognitive scaffolding — structured peer review of confidence assessments, shared calibration benchmarking, and collaborative monitoring conversations — as a supplement to purely individual monitoring practices.
 
 #### 63. [TOPIC-IDEA] [[The Monitoring Failure Log — Designing for Error Visibility]] *(Line 579)*
@@ -531,9 +531,9 @@ extraction_summary:
 > [!topic-idea] [[The Monitoring Failure Log — Designing for Error Visibility]]
 > A specific PKB design pattern: a dedicated log for monitoring failures — moments when high confidence at capture was disconfirmed at retrieval, when expected difficulty proved dramatically different from actual difficulty, or when a strategy predicted to work clearly did not. The monitoring failure log is not a shame archive but an empirical resource: the failures it records are the highest-information-density data in the PKB, the points where the system's self-model was most wrong and therefore where revision is most productive.
 
-#### 64. [TOPIC-IDEA] [[Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]] *(Line 582)*
+#### 64. [TOPIC-IDEA] [[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]] *(Line 582)*
 
-> [!topic-idea] [[Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
+> [!topic-idea] [[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
 > The monitoring failure literature (Schraw 2001; Thiede, Anderson & Therriault 2003) consistently shows that monitoring accuracy is poorest precisely when cognitive load is highest — when material is most complex, when the learner is most stretched, when monitoring is most important. This expansion explores the interaction between cognitive load and monitoring quality, and what PKB design interventions can compensate for this load-monitoring trade-off.
 
 ---
@@ -546,76 +546,76 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Behavioral Science]]
-- [[Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]
-- [[Calibration Tracking]]
-- [[Cognitive Psychology]]
-- [[Dewey Reflective Inquiry]]
-- [[Educational Philosophy]]
-- [[Educational Psychology]]
-- [[Feeling of Knowing]]
-- [[Flavell Metacognition Framework]]
-- [[Fluency Illusion]]
-- [[Gollwitzer If-Then Planning]]
-- [[Implementation Intentions]]
-- [[Judgment of Learning]]
-- [[Metacognitive Monitoring]]
-- [[Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
-- [[Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]
-- [[Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]
-- [[Personal Knowledge Base]]
+- [[Behavioral-Science|Behavioral Science]]
+- [[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]
+- [[Calibration-Tracking|Calibration Tracking]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]
+- [[Educational-Philosophy|Educational Philosophy]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
+- [[Flavell-Metacognition-Framework|Flavell Metacognition Framework]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
+- [[Gollwitzer-If-Then-Planning|Gollwitzer If-Then Planning]]
+- [[Implementation-Intentions|Implementation Intentions]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
+- [[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]
+- [[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Report 04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 - [[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
 - [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]
-- [[Retrieval Practice]]
-- [[Social Metacognition — When Other Minds Improve Your Monitoring]]
+- [[Retrieval-Practice|Retrieval Practice]]
+- [[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring|Social Metacognition — When Other Minds Improve Your Monitoring]]
 - [[The Monitoring Failure Log — Designing for Error Visibility]]
-- [[Zimmerman SRL Model]]
+- [[Zimmerman-SRL-Model|Zimmerman SRL Model]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Metacognitive Monitoring]] | — | — | The Gap That Quietly Defeats PKM | 132 |
-| 2 | [[Zimmerman SRL Model]] | Zimmerman's | — | The Gap That Quietly Defeats PKM | 132 |
-| 3 | [[Judgment of Learning]] | JOL | — | The Gap That Quietly Defeats PKM | 132 |
-| 4 | [[Feeling of Knowing]] | — | — | The Gap That Quietly Defeats PKM | 132 |
-| 5 | [[Retrieval Practice]] | — | — | The Gap That Quietly Defeats PKM | 132 |
-| 6 | [[Fluency Illusion]] | — | — | The Gap That Quietly Defeats PKM | 134 |
+| 1 | [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Gap That Quietly Defeats PKM | 132 |
+| 2 | [[Zimmerman-SRL-Model|Zimmerman SRL Model]] | Zimmerman's | — | The Gap That Quietly Defeats PKM | 132 |
+| 3 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | JOL | — | The Gap That Quietly Defeats PKM | 132 |
+| 4 | [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] | — | — | The Gap That Quietly Defeats PKM | 132 |
+| 5 | [[Retrieval-Practice|Retrieval Practice]] | — | — | The Gap That Quietly Defeats PKM | 132 |
+| 6 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | The Gap That Quietly Defeats PKM | 134 |
 | 7 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | Report 04 | — | The Synthesis Question and Its Relati... | 141 |
-| 8 | [[Personal Knowledge Base]] | — | — | The Synthesis Question and Its Relati... | 141 |
-| 9 | [[Zimmerman SRL Model]] | Zimmerman's | — | The Synthesis Question and Its Relati... | 143 |
-| 10 | [[Flavell Metacognition Framework]] | Flavell's | — | The Synthesis Question and Its Relati... | 143 |
-| 11 | [[Dewey Reflective Inquiry]] | Dewey's | — | The Synthesis Question and Its Relati... | 143 |
-| 12 | [[Gollwitzer If-Then Planning]] | Gollwitzer's | — | The Synthesis Question and Its Relati... | 143 |
-| 13 | [[Cognitive Psychology]] | — | — | The Synthesis Question and Its Relati... | 145 |
-| 14 | [[Educational Psychology]] | — | — | The Synthesis Question and Its Relati... | 145 |
-| 15 | [[Educational Philosophy]] | — | — | The Synthesis Question and Its Relati... | 145 |
-| 16 | [[Behavioral Science]] | — | — | The Synthesis Question and Its Relati... | 145 |
+| 8 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Synthesis Question and Its Relati... | 141 |
+| 9 | [[Zimmerman-SRL-Model|Zimmerman SRL Model]] | Zimmerman's | — | The Synthesis Question and Its Relati... | 143 |
+| 10 | [[Flavell-Metacognition-Framework|Flavell Metacognition Framework]] | Flavell's | — | The Synthesis Question and Its Relati... | 143 |
+| 11 | [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]] | Dewey's | — | The Synthesis Question and Its Relati... | 143 |
+| 12 | [[Gollwitzer-If-Then-Planning|Gollwitzer If-Then Planning]] | Gollwitzer's | — | The Synthesis Question and Its Relati... | 143 |
+| 13 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Synthesis Question and Its Relati... | 145 |
+| 14 | [[Educational-Psychology|Educational Psychology]] | — | — | The Synthesis Question and Its Relati... | 145 |
+| 15 | [[Educational-Philosophy|Educational Philosophy]] | — | — | The Synthesis Question and Its Relati... | 145 |
+| 16 | [[Behavioral-Science|Behavioral Science]] | — | — | The Synthesis Question and Its Relati... | 145 |
 | 17 | [[Report 04]] | — | — | The Monitoring Processes and What The... | 161 |
-| 18 | [[Zimmerman SRL Model]] | Zimmerman's | — | Zimmerman's SRL Cycle as a PKB Struct... | 182 |
-| 19 | [[Implementation Intentions]] | — | — | Gollwitzer's Implementation Intention... | 194 |
-| 20 | [[Fluency Illusion]] | — | — | The Fluency Illusion Evidence Base | 225 |
-| 21 | [[Fluency Illusion]] | — | — | Why PKB Designs Accidentally Undermin... | 282 |
+| 18 | [[Zimmerman-SRL-Model|Zimmerman SRL Model]] | Zimmerman's | — | Zimmerman's SRL Cycle as a PKB Struct... | 182 |
+| 19 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Gollwitzer's Implementation Intention... | 194 |
+| 20 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | The Fluency Illusion Evidence Base | 225 |
+| 21 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Why PKB Designs Accidentally Undermin... | 282 |
 | 22 | [[Report 04]] | — | — | Return-and-Deepen: The Monitoring-Con... | 316 |
 | 23 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 447 |
 | 24 | [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 449 |
 | 25 | [[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 451 |
-| 26 | [[Fluency Illusion]] | — | — | Phase VII: PKB Connections & Cross-Re... | 453 |
-| 27 | [[Implementation Intentions]] | — | — | Phase VII: PKB Connections & Cross-Re... | 455 |
-| 28 | [[Zimmerman SRL Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 457 |
-| 29 | [[Calibration Tracking]] | — | — | Phase VII: PKB Connections & Cross-Re... | 459 |
+| 26 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Phase VII: PKB Connections & Cross-Re... | 453 |
+| 27 | [[Implementation-Intentions|Implementation Intentions]] | — | — | Phase VII: PKB Connections & Cross-Re... | 455 |
+| 28 | [[Zimmerman-SRL-Model|Zimmerman SRL Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 457 |
+| 29 | [[Calibration-Tracking|Calibration Tracking]] | — | — | Phase VII: PKB Connections & Cross-Re... | 459 |
 | 30 | [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]] | — | — | Phase VII: PKB Connections & Cross-Re... | 463 |
 | 31 | [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]] | — | — | Phase VII: PKB Connections & Cross-Re... | 465 |
-| 32 | [[Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]] | — | — | D. Expansion Topics | 567 |
-| 33 | [[Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]] | — | — | D. Expansion Topics | 570 |
-| 34 | [[Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]] | — | — | D. Expansion Topics | 573 |
-| 35 | [[Social Metacognition — When Other Minds Improve Your Monitoring]] | — | — | D. Expansion Topics | 576 |
+| 32 | [[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]] | — | — | D. Expansion Topics | 567 |
+| 33 | [[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]] | — | — | D. Expansion Topics | 570 |
+| 34 | [[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]] | — | — | D. Expansion Topics | 573 |
+| 35 | [[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring|Social Metacognition — When Other Minds Improve Your Monitoring]] | — | — | D. Expansion Topics | 576 |
 | 36 | [[The Monitoring Failure Log — Designing for Error Visibility]] | — | — | D. Expansion Topics | 579 |
-| 37 | [[Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]] | — | — | D. Expansion Topics | 582 |
+| 37 | [[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]] | — | — | D. Expansion Topics | 582 |
 
 ---
 
@@ -626,34 +626,34 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Behavioral Science]]
-- [[Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]
-- [[Calibration Tracking]]
-- [[Cognitive Psychology]]
-- [[Dewey Reflective Inquiry]]
-- [[Educational Philosophy]]
-- [[Educational Psychology]]
-- [[Feeling of Knowing]]
-- [[Flavell Metacognition Framework]]
-- [[Fluency Illusion]]
-- [[Gollwitzer If-Then Planning]]
-- [[Implementation Intentions]]
-- [[Judgment of Learning]]
-- [[Metacognitive Monitoring]]
-- [[Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
-- [[Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]
-- [[Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]
-- [[Personal Knowledge Base]]
+- [[Behavioral-Science|Behavioral Science]]
+- [[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]
+- [[Calibration-Tracking|Calibration Tracking]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]
+- [[Educational-Philosophy|Educational Philosophy]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]
+- [[Flavell-Metacognition-Framework|Flavell Metacognition Framework]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
+- [[Gollwitzer-If-Then-Planning|Gollwitzer If-Then Planning]]
+- [[Implementation-Intentions|Implementation Intentions]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
+- [[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
+- [[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]
+- [[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Report 04]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
 - [[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]
 - [[Report 08: Reflective Practice and Experiential Learning — Dewey, Kolb, and the Learning Cycle in PKM]]
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
 - [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]
-- [[Retrieval Practice]]
-- [[Social Metacognition — When Other Minds Improve Your Monitoring]]
+- [[Retrieval-Practice|Retrieval Practice]]
+- [[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring|Social Metacognition — When Other Minds Improve Your Monitoring]]
 - [[The Monitoring Failure Log — Designing for Error Visibility]]
-- [[Zimmerman SRL Model]]
+- [[Zimmerman-SRL-Model|Zimmerman SRL Model]]
 
 ### Frontmatter Relationships
 

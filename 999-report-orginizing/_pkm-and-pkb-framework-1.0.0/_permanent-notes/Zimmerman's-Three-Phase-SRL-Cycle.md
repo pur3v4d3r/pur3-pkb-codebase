@@ -59,15 +59,15 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Metacognitive Monitoring]]"
-  - "[[Metacognitive Control]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Zimmerman SRL Model]]"
-  - "[[Flavell Metacognition Framework]]"
-  - "[[Nelson Narens Model]]"
-  - "[[Judgment of Learning]]"
-  - "[[Feeling of Knowing]]"
-  - "[[Ease of Learning]]"
+  - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
+  - "[[Metacognitive-Control|Metacognitive Control]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[Zimmerman-SRL-Model|Zimmerman SRL Model]]"
+  - "[[Flavell-Metacognition-Framework|Flavell Metacognition Framework]]"
+  - "[[Nelson-Narens-Model|Nelson Narens Model]]"
+  - "[[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]"
+  - "[[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]"
+  - "[[Ease-of-Learning-—-EOL|Ease of Learning]]"
   - "[[Calibration]]"
 
 broader:
@@ -77,14 +77,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Behavioral Science]]"
-  - "[[Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Educational Philosophy]]"
-  - "[[Educational Psychology]]"
-  - "[[Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]"
-  - "[[Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]"
-  - "[[Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
+  - "[[Behavioral-Science|Behavioral Science]]"
+  - "[[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Educational-Philosophy|Educational Philosophy]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]"
+  - "[[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]"
+  - "[[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -102,16 +102,16 @@ enables:
   - "[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]"
 
 expansion-topics:
-  - topic: "[[Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
+  - topic: "[[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
     description: "How does metacognitive calibration accuracy change with deliberate practice, and what is the traject"
     priority: medium
-  - topic: "[[Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
+  - topic: "[[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]"
     description: "A technical deep-dive into building the metacognitive dashboard described in Design Principle 3 usin"
     priority: medium
-  - topic: "[[Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]"
+  - topic: "[[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]"
     description: "Research on transfer of metacognitive strategies (Veenman et al. 2006; Hacker et al. 2009) has found"
     priority: medium
-  - topic: "[[Social Metacognition — When Other Minds Improve Your Monitoring]]"
+  - topic: "[[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring|Social Metacognition — When Other Minds Improve Your Monitoring]]"
     description: "Vygotsky's zone of proximal development applies to metacognitive monitoring as well as object-level "
     priority: medium
 
@@ -156,4 +156,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Behavioral Science]] · [[Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]] · [[Calibration Tracking]] · [[Cognitive Psychology]] · [[Dewey Reflective Inquiry]] · [[Educational Philosophy]] · [[Educational Psychology]] · [[Feeling of Knowing]] · [[Flavell Metacognition Framework]] · [[Fluency Illusion]] · [[Gollwitzer If-Then Planning]] · [[Implementation Intentions]] · [[Judgment of Learning]] · [[Metacognitive Monitoring]] · [[Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
+[[Behavioral-Science|Behavioral Science]] · [[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]] · [[Calibration-Tracking|Calibration Tracking]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]] · [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] · [[Flavell-Metacognition-Framework|Flavell Metacognition Framework]] · [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] · [[Gollwitzer-If-Then-Planning|Gollwitzer If-Then Planning]] · [[Implementation-Intentions|Implementation Intentions]] · [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] · [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]

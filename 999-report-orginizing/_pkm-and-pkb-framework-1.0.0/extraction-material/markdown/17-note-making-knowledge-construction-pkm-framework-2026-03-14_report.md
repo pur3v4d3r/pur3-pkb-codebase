@@ -195,12 +195,12 @@ extraction_summary:
 #### 8. [DEFINITION] Constructivism (Educational Philosophy — Piaget, Vygotsky, Dewey) *(Line 181)*
 
 > [!definition] Constructivism (Educational Philosophy — Piaget, Vygotsky, Dewey)
-> The family of epistemological and educational theories holding that knowledge is not transmitted from teacher (or text) to learner but actively constructed by the learner through engagement with experience, material, and other minds. Piaget's [[Constructivism]] emphasizes individual cognitive construction through the assimilation-accommodation cycle. Vygotsky's [[Social Constructivism]] emphasizes the role of social interaction and language in guiding cognitive construction. Dewey's [[Pragmatism]] emphasizes that knowledge is constructed through purposeful engagement with genuine problems. All three traditions share the foundational claim: the learner cannot be a passive recipient of knowledge. Knowledge, by its nature, must be made — not received.
+> The family of epistemological and educational theories holding that knowledge is not transmitted from teacher (or text) to learner but actively constructed by the learner through engagement with experience, material, and other minds. Piaget's [[Constructivism]] emphasizes individual cognitive construction through the assimilation-accommodation cycle. Vygotsky's [[Social-Constructivism|Social Constructivism]] emphasizes the role of social interaction and language in guiding cognitive construction. Dewey's [[Pragmatism]] emphasizes that knowledge is constructed through purposeful engagement with genuine problems. All three traditions share the foundational claim: the learner cannot be a passive recipient of knowledge. Knowledge, by its nature, must be made — not received.
 
 #### 9. [CROSS-DOMAIN-CONNECTION] Wittrock Meets Vygotsky: Language as the Medium of Construction *(Line 188)*
 
 > [!cross-domain-connection] Wittrock Meets Vygotsky: Language as the Medium of Construction
-> Wittrock's [[Generative Learning Theory]] and Vygotsky's [[Social Constructivism]] approach the role of language in learning from very different angles — one through laboratory cognitive psychology, the other through developmental philosophy — and arrive at a structurally identical conclusion. For Wittrock, generating verbal elaborations (summaries, analogies, questions) is the cognitive operation through which new information becomes connected to existing schemas. For Vygotsky, language is the primary tool of thought itself — internalized social speech becomes the medium through which higher-order thinking occurs. The convergence: writing is powerful as a learning tool because it exteriorizes the internal language through which thought happens, forcing that language to become explicit, coherent, and inspectable. A note is not a record of thought that occurred before writing; it is, in large measure, the medium through which that thought occurs. This has profound implications for PKB design: the act of creating a note *is* a cognitive act, not a documentation act.
+> Wittrock's [[Generative-Learning-Theory|Generative Learning Theory]] and Vygotsky's [[Social-Constructivism|Social Constructivism]] approach the role of language in learning from very different angles — one through laboratory cognitive psychology, the other through developmental philosophy — and arrive at a structurally identical conclusion. For Wittrock, generating verbal elaborations (summaries, analogies, questions) is the cognitive operation through which new information becomes connected to existing schemas. For Vygotsky, language is the primary tool of thought itself — internalized social speech becomes the medium through which higher-order thinking occurs. The convergence: writing is powerful as a learning tool because it exteriorizes the internal language through which thought happens, forcing that language to become explicit, coherent, and inspectable. A note is not a record of thought that occurred before writing; it is, in large measure, the medium through which that thought occurs. This has profound implications for PKB design: the act of creating a note *is* a cognitive act, not a documentation act.
 
 #### 10. [KEY-CLAIM] The Constructive Note-Making Claim *(Line 192)*
 
@@ -239,7 +239,7 @@ extraction_summary:
 #### 16. [CROSS-DOMAIN-CONNECTION] The Generation Effect Meets Constructivism: Convergence from Laboratory and Philosophy *(Line 251)*
 
 > [!cross-domain-connection] The Generation Effect Meets Constructivism: Convergence from Laboratory and Philosophy
-> The [[Generation Effect]] research tradition is laboratory cognitive psychology at its most controlled: carefully isolated variables, measured recall performance, rigorous replication. [[Constructivism]] is educational philosophy at its most theoretical: epistemological arguments about the nature of knowledge, grounded in developmental observation rather than laboratory experiment. These traditions have almost no direct scholarly dialogue. Yet they converge on the identical structural claim. The generation effect operationalizes, in measurable laboratory terms, what constructivism has argued philosophically: meaning constructed through active generation is qualitatively different from — and more durably held than — meaning received through passive transmission. The convergence is not coincidental. Both traditions are tracking the same underlying cognitive reality: that the constructive act of generation is the mechanism of learning, not merely its byproduct.
+> The [[Generation-Effect|Generation Effect]] research tradition is laboratory cognitive psychology at its most controlled: carefully isolated variables, measured recall performance, rigorous replication. [[Constructivism]] is educational philosophy at its most theoretical: epistemological arguments about the nature of knowledge, grounded in developmental observation rather than laboratory experiment. These traditions have almost no direct scholarly dialogue. Yet they converge on the identical structural claim. The generation effect operationalizes, in measurable laboratory terms, what constructivism has argued philosophically: meaning constructed through active generation is qualitatively different from — and more durably held than — meaning received through passive transmission. The convergence is not coincidental. Both traditions are tracking the same underlying cognitive reality: that the constructive act of generation is the mechanism of learning, not merely its byproduct.
 
 #### 17. [WHAT-THE-EVIDENCE-SUGGESTS] The Heterogeneity in Writing-to-Learn Research Points to the ICAP Gradient *(Line 259)*
 
@@ -268,12 +268,12 @@ extraction_summary:
 #### 21. [ANALYTICAL-INSIGHT] The Cycle Has a Critical Dependency: Prior Knowledge as the Raw Material of Inference *(Line 305)*
 
 > [!analytical-insight] The Cycle Has a Critical Dependency: Prior Knowledge as the Raw Material of Inference
-> The Articulatory Construction Cycle depends on a resource that is often invisible in discussions of note-making technique: prior knowledge. Inference generation — Stage 3 — requires the learner to have something to connect new information *to*. This is why both the Elaborative Interrogation research and the Self-Explanation research show weaker effects for learners with very little prior knowledge in the domain: they cannot generate meaningful inferences because they have insufficient existing schema structure to connect to. This has a critical implication for PKB design that is typically ignored. The same note-making process will produce very different cognitive effects depending on the learner's prior knowledge. In domains where prior knowledge is thin, generative note-making needs scaffolding — specific prompts that direct the learner toward productive inference directions they might not find independently. In domains of expertise, the scaffolding should fade and the learner should be left to generate connections freely. This is the note-making analog of the [[Expertise Reversal Effect]] established in [[Report 10: Scaffolding and Fading]].
+> The Articulatory Construction Cycle depends on a resource that is often invisible in discussions of note-making technique: prior knowledge. Inference generation — Stage 3 — requires the learner to have something to connect new information *to*. This is why both the Elaborative Interrogation research and the Self-Explanation research show weaker effects for learners with very little prior knowledge in the domain: they cannot generate meaningful inferences because they have insufficient existing schema structure to connect to. This has a critical implication for PKB design that is typically ignored. The same note-making process will produce very different cognitive effects depending on the learner's prior knowledge. In domains where prior knowledge is thin, generative note-making needs scaffolding — specific prompts that direct the learner toward productive inference directions they might not find independently. In domains of expertise, the scaffolding should fade and the learner should be left to generate connections freely. This is the note-making analog of the [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] established in [[Report 10: Scaffolding and Fading]].
 
 #### 22. [CROSS-DOMAIN-CONNECTION] Elaborative Interrogation Meets the SECI Model: Making Tacit Knowledge Explicit *(Line 323)*
 
 > [!cross-domain-connection] Elaborative Interrogation Meets the SECI Model: Making Tacit Knowledge Explicit
-> Nonaka's [[SECI Model]] from [[Knowledge Management]] describes four modes of knowledge creation, including "Externalization" — the conversion of tacit knowledge (embodied, intuitive, difficult to articulate) into explicit knowledge (documented, communicable, inspectable). Elaborative interrogation, as a cognitive operation, is an externalization mechanism: when you ask "why is this true?" and generate a causal explanation, you are externalizing the implicit causal understanding that underlies your pattern recognition in the domain. Expert practitioners often cannot directly state why they make the decisions they make — their expertise is tacit. The WHY-questioning process forces them to externalize that tacit causal knowledge. For PKB design, this means that elaborative interrogation is not only a learning strategy for novices acquiring new information — it is also a knowledge capture strategy for experts making their existing expertise explicit. The domain expert who asks themselves WHY they hold each belief in their domain is performing genuine knowledge externalization, not just learning reinforcement.
+> Nonaka's [[SECI-Model|SECI Model]] from [[Knowledge-Management|Knowledge Management]] describes four modes of knowledge creation, including "Externalization" — the conversion of tacit knowledge (embodied, intuitive, difficult to articulate) into explicit knowledge (documented, communicable, inspectable). Elaborative interrogation, as a cognitive operation, is an externalization mechanism: when you ask "why is this true?" and generate a causal explanation, you are externalizing the implicit causal understanding that underlies your pattern recognition in the domain. Expert practitioners often cannot directly state why they make the decisions they make — their expertise is tacit. The WHY-questioning process forces them to externalize that tacit causal knowledge. For PKB design, this means that elaborative interrogation is not only a learning strategy for novices acquiring new information — it is also a knowledge capture strategy for experts making their existing expertise explicit. The domain expert who asks themselves WHY they hold each belief in their domain is performing genuine knowledge externalization, not just learning reinforcement.
 
 #### 23. [ANALYTICAL-INSIGHT] Accommodation Notes vs. Assimilation Notes — A Distinction the PKM Literature Has Not Articulated *(Line 333)*
 
@@ -311,7 +311,7 @@ extraction_summary:
 #### 28. [TENSION-IDENTIFIED] Atomicity vs. Construction Depth: A PKM Design Tension *(Line 417)*
 
 > [!tension-identified] Atomicity vs. Construction Depth: A PKM Design Tension
-> The [[Atomic Notes]] principle optimizes for organizational clarity and retrieval efficiency: a well-bounded note with one idea is easier to link, tag, and resurface than a sprawling multi-idea note. The cognitive science of generative processing optimizes for construction quality: a note that records the full process of schema reorganization — including what changed, why, and how it connects to existing understanding — produces substantially greater learning value but is necessarily multi-element and relational. The tension is real and has no perfect resolution. A practical heuristic: separate the construction event (the generative note-making moment, which should be as expansive as the cognitive event demands) from the archiving event (the subsequent processing into atomic notes for the knowledge graph). Do not let the organizational requirement of atomicity constrain the constructive requirement of elaboration at the moment of initial engagement. Make the rich construction note first; extract and link the atomic components afterward.
+> The [[Atomic-Notes|Atomic Notes]] principle optimizes for organizational clarity and retrieval efficiency: a well-bounded note with one idea is easier to link, tag, and resurface than a sprawling multi-idea note. The cognitive science of generative processing optimizes for construction quality: a note that records the full process of schema reorganization — including what changed, why, and how it connects to existing understanding — produces substantially greater learning value but is necessarily multi-element and relational. The tension is real and has no perfect resolution. A practical heuristic: separate the construction event (the generative note-making moment, which should be as expansive as the cognitive event demands) from the archiving event (the subsequent processing into atomic notes for the knowledge graph). Do not let the organizational requirement of atomicity constrain the constructive requirement of elaboration at the moment of initial engagement. Make the rich construction note first; extract and link the atomic components afterward.
 
 #### 29. [REFLECTION] Knowledge State — After *(Line 425)*
 
@@ -343,17 +343,17 @@ extraction_summary:
 > [!connections-and-links] Internal PKB Connections
 > This report on note-making as knowledge construction connects to your knowledge base in the following key ways:
 > 
-> - **[[Schema Theory]]** — The Articulatory Construction Cycle and the Accommodation vs. Assimilation Note distinction both operate through the assimilation/accommodation mechanism of schema theory. Making this link explicit in your PKB enriches both nodes: schema theory gains a procedural specification (what to do to drive accommodation), and the note-making framework gains a theoretical grounding (why the accommodation note type is cognitively distinct from the assimilation note type).
+> - **[[Schema-Theory|Schema Theory]]** — The Articulatory Construction Cycle and the Accommodation vs. Assimilation Note distinction both operate through the assimilation/accommodation mechanism of schema theory. Making this link explicit in your PKB enriches both nodes: schema theory gains a procedural specification (what to do to drive accommodation), and the note-making framework gains a theoretical grounding (why the accommodation note type is cognitively distinct from the assimilation note type).
 > 
-> - **[[Cognitive Load Theory]]** and **[[Germane Load]]** — The claim that generative note-making is valuable because it is more effortful is complicated by cognitive load theory's distinction between germane and extraneous load. Generative note-making increases germane load (schema-construction-relevant processing) not extraneous load. Understanding this distinction enables PKB practitioners to make informed decisions about when to increase effort (activating germane load through generative processing) and when to reduce it (removing extraneous friction that consumes working memory without building schemas). Connects to [[Report 02: The Architecture of Learning]].
+> - **[[Cognitive-Load-Theory|Cognitive Load Theory]]** and **[[Germane-Load|Germane Load]]** — The claim that generative note-making is valuable because it is more effortful is complicated by cognitive load theory's distinction between germane and extraneous load. Generative note-making increases germane load (schema-construction-relevant processing) not extraneous load. Understanding this distinction enables PKB practitioners to make informed decisions about when to increase effort (activating germane load through generative processing) and when to reduce it (removing extraneous friction that consumes working memory without building schemas). Connects to [[Report 02: The Architecture of Learning]].
 > 
 > - **[[Constructivism]]** — This report operationalizes constructivism at the level of the individual note-making act. Where constructivism as a philosophy asserts that knowledge must be constructed rather than received, this report specifies the exact cognitive operations through which construction occurs during note-making. The link between this report and your constructivism notes enriches both: constructivism gains operational specificity, and the note-making framework gains philosophical depth.
 > 
-> - **[[Desirable Difficulties]]** and **[[Generation Effect]]** — Report 16 established the generation effect as a key desirable difficulty for PKB design. This report localizes the generation effect specifically to the initial note-making moment, establishing it as the first and most leveraged intervention point. The connection reveals a temporal structure: desirable difficulties operate at multiple timepoints in the PKB lifecycle, with generative note-making being the first.
+> - **[[Desirable-Difficulties|Desirable Difficulties]]** and **[[Generation-Effect|Generation Effect]]** — Report 16 established the generation effect as a key desirable difficulty for PKB design. This report localizes the generation effect specifically to the initial note-making moment, establishing it as the first and most leveraged intervention point. The connection reveals a temporal structure: desirable difficulties operate at multiple timepoints in the PKB lifecycle, with generative note-making being the first.
 > 
-> - **[[Metacognition]]** and **[[Comprehension Monitoring]]** — The Articulatory Construction Cycle is fundamentally a metacognitive process: the learner must monitor their own understanding, detect gaps, and generate repairs. Connecting this report to your metacognition notes reveals that good note-making is inherently metacognitive — it is simultaneously a learning act and a self-assessment act. Connects to [[Report 04: Metacognitive Self-Regulation]].
+> - **[[Metacognition]]** and **[[Comprehension-Monitoring|Comprehension Monitoring]]** — The Articulatory Construction Cycle is fundamentally a metacognitive process: the learner must monitor their own understanding, detect gaps, and generate repairs. Connecting this report to your metacognition notes reveals that good note-making is inherently metacognitive — it is simultaneously a learning act and a self-assessment act. Connects to [[Report 04: Metacognitive Self-Regulation]].
 > 
-> - **[[Tacit Knowledge]]** and **[[SECI Model]]** — The cross-domain connection between Elaborative Interrogation and Nonaka's Externalization mode identifies a dimension of generative note-making not typically recognized in the PKM literature: it is not only a learning tool for novices but a knowledge externalization tool for experts. Connecting this to your knowledge management notes, particularly around tacit knowledge, opens a significant design direction for expert PKB practitioners.
+> - **[[Tacit-Knowledge|Tacit Knowledge]]** and **[[SECI-Model|SECI Model]]** — The cross-domain connection between Elaborative Interrogation and Nonaka's Externalization mode identifies a dimension of generative note-making not typically recognized in the PKM literature: it is not only a learning tool for novices but a knowledge externalization tool for experts. Connecting this to your knowledge management notes, particularly around tacit knowledge, opens a significant design direction for expert PKB practitioners.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
@@ -484,24 +484,24 @@ extraction_summary:
 
 > [!further-exploration] Deepening Your Framework
 
-#### 57. [TOPIC-IDEA] [[Interleaving and Note-Making Sequence Design]] *(Line 593)*
+#### 57. [TOPIC-IDEA] [[Interleaving-and-Note-Making-Sequence-Design|Interleaving and Note-Making Sequence Design]] *(Line 593)*
 
-> [!topic-idea] [[Interleaving and Note-Making Sequence Design]]
+> [!topic-idea] [[Interleaving-and-Note-Making-Sequence-Design|Interleaving and Note-Making Sequence Design]]
 > The interleaving research (established in Report 16) shows that alternating between topics during study is more effective than massed practice, despite feeling harder. A significant unexplored question is how note-making sequence should be designed to leverage interleaving effects. Should the PKB practitioner make notes on multiple topics in a session rather than exhaustively processing one topic before moving to the next? What are the implications for how linking should occur between interleaved notes? This topic would extend both the interleaving research and the note-making framework established in this report.
 
-#### 58. [TOPIC-IDEA] [[The Role of Drawing and Diagramming in Knowledge Construction]] *(Line 596)*
+#### 58. [TOPIC-IDEA] [[The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction|The Role of Drawing and Diagramming in Knowledge Construction]] *(Line 596)*
 
-> [!topic-idea] [[The Role of Drawing and Diagramming in Knowledge Construction]]
-> This report focuses on verbal, text-based note-making. The cognitive science of [[Dual Coding Theory]] (Paivio) suggests that combining verbal and visual representations substantially enhances encoding and retrieval. What does the research on diagramming, concept mapping, and sketch-noting reveal about generative processing in visual modes? How should Obsidian practitioners integrate visual knowledge construction — whether through embedded diagrams, hand-drawn sketches, or concept maps — into their generative note-making workflows? The extension would enrich the Articulatory Construction Principle by specifying how it applies to non-verbal articulation modes.
+> [!topic-idea] [[The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction|The Role of Drawing and Diagramming in Knowledge Construction]]
+> This report focuses on verbal, text-based note-making. The cognitive science of [[Dual-Coding-Theory|Dual Coding Theory]] (Paivio) suggests that combining verbal and visual representations substantially enhances encoding and retrieval. What does the research on diagramming, concept mapping, and sketch-noting reveal about generative processing in visual modes? How should Obsidian practitioners integrate visual knowledge construction — whether through embedded diagrams, hand-drawn sketches, or concept maps — into their generative note-making workflows? The extension would enrich the Articulatory Construction Principle by specifying how it applies to non-verbal articulation modes.
 
-#### 59. [TOPIC-IDEA] [[Collaborative Note-Making and the Interactive Mode]] *(Line 599)*
+#### 59. [TOPIC-IDEA] [[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]] *(Line 599)*
 
-> [!topic-idea] [[Collaborative Note-Making and the Interactive Mode]]
+> [!topic-idea] [[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]]
 > The ICAP framework's highest engagement mode — Interactive — involves learners co-constructing knowledge through dialogue, producing ideas that neither would have generated independently. This report focuses on individual note-making. Extending to collaborative contexts raises important questions: What does Interactive processing look like in a personal PKB context? Could structured dialogue with an AI system (like Claude) serve as a proxy for the Interactive mode's cognitive benefits? What does the research on co-elaboration and collaborative knowledge building suggest for hybrid human-AI knowledge construction workflows? This is a frontier question with significant implications for how PKB practitioners use AI tools.
 
-#### 60. [TOPIC-IDEA] [[Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]] *(Line 602)*
+#### 60. [TOPIC-IDEA] [[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]] *(Line 602)*
 
-> [!topic-idea] [[Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]
+> [!topic-idea] [[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]
 > The Constructive Note-Making Protocol recommended in Phase V is substantially more time-intensive than conventional capture workflows. A significant practical question — one the research does not directly address — is what the minimum viable generative intervention is when time is severely constrained. Is a single WHY-sentence sufficient to activate meaningful benefits? Can the generative processing be deferred to a dedicated processing session without significant loss of its encoding benefits? This topic would develop a tiered note-making framework that matches the degree of generative investment to the available time and the importance of the material, rather than treating all note-making moments as equally demanding equally intensive generative engagement.
 
 #### 61. [TOPIC-IDEA] [[The Expert's Note: How Generative Note-Making Changes with Domain Expertise]] *(Line 605)*
@@ -524,32 +524,32 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Articulatory Construction Principle]]
-- [[Atomic Notes]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
-- [[Collaborative Note-Making and the Interactive Mode]]
-- [[Comprehension Monitoring]]
+- [[Articulatory-Construction-Principle|Articulatory Construction Principle]]
+- [[Atomic-Notes|Atomic Notes]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]]
+- [[Comprehension-Monitoring|Comprehension Monitoring]]
 - [[Constructivism]]
-- [[Desirable Difficulties]]
-- [[Dual Coding Theory]]
-- [[Educational Psychology]]
-- [[Elaboration Theory]]
-- [[Elaborative Interrogation]]
-- [[Expertise Reversal Effect]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Dual-Coding-Theory|Dual Coding Theory]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Elaboration-Theory|Elaboration Theory]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Fluency]]
-- [[Generation Effect]]
-- [[Generative Learning Theory]]
-- [[Germane Load]]
-- [[ICAP Framework]]
-- [[Interleaving and Note-Making Sequence Design]]
-- [[Knowledge Management]]
+- [[Generation-Effect|Generation Effect]]
+- [[Generative-Learning-Theory|Generative Learning Theory]]
+- [[Germane-Load|Germane Load]]
+- [[ICAP-Framework|ICAP Framework]]
+- [[Interleaving-and-Note-Making-Sequence-Design|Interleaving and Note-Making Sequence Design]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Metacognition]]
-- [[Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]
+- [[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]
 - [[Obsidian]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Pragmatism]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Report 02: The Architecture of Learning]]
 - [[Report 03: Constructing Understanding]]
 - [[Report 04: Metacognitive Self-Regulation]]
@@ -564,101 +564,101 @@ extraction_summary:
 - [[Report 18: Calibration and Epistemic Humility]]
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
 - [[Report 25: The Integration Problem]]
-- [[SECI Model]]
-- [[Schema Construction]]
-- [[Schema Theory]]
+- [[SECI-Model|SECI Model]]
+- [[Schema-Construction|Schema Construction]]
+- [[Schema-Theory|Schema Theory]]
 - [[Schemas]]
 - [[Self-Explanation]]
-- [[Self-Explanation Effect]]
-- [[Social Constructivism]]
-- [[Tacit Knowledge]]
+- [[Self-Explanation-Effect|Self-Explanation Effect]]
+- [[Social-Constructivism|Social Constructivism]]
+- [[Tacit-Knowledge|Tacit Knowledge]]
 - [[The Expert's Note: How Generative Note-Making Changes with Domain Expertise]]
-- [[The Role of Drawing and Diagramming in Knowledge Construction]]
-- [[Writing to Learn]]
+- [[The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction|The Role of Drawing and Diagramming in Knowledge Construction]]
+- [[Writing-to-Learn|Writing to Learn]]
 - [[Writing to Learn at Scale: Processing Large Bodies of Material Generatively]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Personal Knowledge Base]] | — | — | The Filing Cabinet Fallacy | 129 |
-| 2 | [[Cognitive Psychology]] | — | — | The Filing Cabinet Fallacy | 131 |
-| 3 | [[Educational Psychology]] | — | — | The Filing Cabinet Fallacy | 131 |
+| 1 | [[Personal-Knowledge-Base|Personal Knowledge Base]] | — | — | The Filing Cabinet Fallacy | 129 |
+| 2 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Filing Cabinet Fallacy | 131 |
+| 3 | [[Educational-Psychology|Educational Psychology]] | — | — | The Filing Cabinet Fallacy | 131 |
 | 4 | [[Constructivism]] | — | — | The Filing Cabinet Fallacy | 131 |
-| 5 | [[Writing to Learn]] | — | — | The Filing Cabinet Fallacy | 133 |
-| 6 | [[Generative Learning Theory]] | — | — | The Filing Cabinet Fallacy | 133 |
-| 7 | [[Self-Explanation Effect]] | — | — | The Filing Cabinet Fallacy | 133 |
-| 8 | [[Elaborative Interrogation]] | — | — | The Filing Cabinet Fallacy | 133 |
+| 5 | [[Writing-to-Learn|Writing to Learn]] | — | — | The Filing Cabinet Fallacy | 133 |
+| 6 | [[Generative-Learning-Theory|Generative Learning Theory]] | — | — | The Filing Cabinet Fallacy | 133 |
+| 7 | [[Self-Explanation-Effect|Self-Explanation Effect]] | — | — | The Filing Cabinet Fallacy | 133 |
+| 8 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | The Filing Cabinet Fallacy | 133 |
 | 9 | [[Constructivism]] | — | — | The Filing Cabinet Fallacy | 133 |
 | 10 | [[Obsidian]] | — | — | The Filing Cabinet Fallacy | 133 |
-| 11 | [[Articulatory Construction Principle]] | — | — | The Synthesis Question and Its Discip... | 145 |
+| 11 | [[Articulatory-Construction-Principle|Articulatory Construction Principle]] | — | — | The Synthesis Question and Its Discip... | 145 |
 | 12 | [[Report 03: Constructing Understanding]] | — | — | The Synthesis Question and Its Discip... | 147 |
-| 13 | [[Schema Theory]] | — | — | The Synthesis Question and Its Discip... | 147 |
+| 13 | [[Schema-Theory|Schema Theory]] | — | — | The Synthesis Question and Its Discip... | 147 |
 | 14 | [[Constructivism]] | — | — | The Synthesis Question and Its Discip... | 147 |
-| 15 | [[Elaboration Theory]] | — | — | The Synthesis Question and Its Discip... | 147 |
+| 15 | [[Elaboration-Theory|Elaboration Theory]] | — | — | The Synthesis Question and Its Discip... | 147 |
 | 16 | [[Report 06: The Science of Remembering]] | — | — | Scope and Roadmap | 151 |
 | 17 | [[Report 09: Designing the Learning PKB]] | — | — | Scope and Roadmap | 151 |
 | 18 | [[Report 16]] | — | — | Scope and Roadmap | 151 |
-| 19 | [[Generation Effect]] | — | — | Scope and Roadmap | 151 |
+| 19 | [[Generation-Effect|Generation Effect]] | — | — | Scope and Roadmap | 151 |
 | 20 | [[Schemas]] | — | — | The Disciplinary Lens Array | 179 |
 | 21 | [[Report 03: Constructing Understanding]] | — | — | The Disciplinary Lens Array | 179 |
 | 22 | [[Constructivism]] | — | — | The Disciplinary Lens Array | 182 |
-| 23 | [[Social Constructivism]] | — | — | The Disciplinary Lens Array | 182 |
+| 23 | [[Social-Constructivism|Social Constructivism]] | — | — | The Disciplinary Lens Array | 182 |
 | 24 | [[Pragmatism]] | — | — | The Disciplinary Lens Array | 182 |
-| 25 | [[Writing to Learn]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
-| 26 | [[Generative Learning Theory]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
+| 25 | [[Writing-to-Learn|Writing to Learn]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
+| 26 | [[Generative-Learning-Theory|Generative Learning Theory]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 27 | [[Self-Explanation]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
-| 28 | [[Elaborative Interrogation]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
-| 29 | [[ICAP Framework]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
-| 30 | [[Schema Construction]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
+| 28 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
+| 29 | [[ICAP-Framework|ICAP Framework]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
+| 30 | [[Schema-Construction|Schema Construction]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
 | 31 | [[Constructivism]] | — | — | Initial Synthesis: The Disciplinary C... | 186 |
-| 32 | [[Generative Learning Theory]] | — | — | Initial Synthesis: The Disciplinary C... | 190 |
-| 33 | [[Social Constructivism]] | — | — | Initial Synthesis: The Disciplinary C... | 190 |
-| 34 | [[Generative Learning Theory]] | — | — | Cluster 1: The Mueller and Oppenheime... | 223 |
+| 32 | [[Generative-Learning-Theory|Generative Learning Theory]] | — | — | Initial Synthesis: The Disciplinary C... | 190 |
+| 33 | [[Social-Constructivism|Social Constructivism]] | — | — | Initial Synthesis: The Disciplinary C... | 190 |
+| 34 | [[Generative-Learning-Theory|Generative Learning Theory]] | — | — | Cluster 1: The Mueller and Oppenheime... | 223 |
 | 35 | [[Self-Explanation]] | — | — | Cluster 2: The Self-Explanation Resea... | 227 |
-| 36 | [[Schema Construction]] | — | — | Cluster 2: The Self-Explanation Resea... | 229 |
-| 37 | [[Elaborative Interrogation]] | — | — | Cluster 3: Elaborative Interrogation | 239 |
-| 38 | [[Generation Effect]] | — | — | Cluster 4: The Generation Effect | 247 |
+| 36 | [[Schema-Construction|Schema Construction]] | — | — | Cluster 2: The Self-Explanation Resea... | 229 |
+| 37 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Cluster 3: Elaborative Interrogation | 239 |
+| 38 | [[Generation-Effect|Generation Effect]] | — | — | Cluster 4: The Generation Effect | 247 |
 | 39 | [[Report 16: Desirable Difficulties by Design]] | — | — | Cluster 4: The Generation Effect | 249 |
-| 40 | [[Generation Effect]] | — | — | Cluster 4: The Generation Effect | 253 |
+| 40 | [[Generation-Effect|Generation Effect]] | — | — | Cluster 4: The Generation Effect | 253 |
 | 41 | [[Constructivism]] | — | — | Cluster 4: The Generation Effect | 253 |
 | 42 | [[Fluency]] | — | — | Mechanism 1: The Articulatory Constru... | 297 |
 | 43 | [[Report 08: Reflective Practice]] | — | — | Mechanism 1: The Articulatory Constru... | 299 |
-| 44 | [[Schema Construction]] | — | — | Mechanism 1: The Articulatory Constru... | 303 |
-| 45 | [[Expertise Reversal Effect]] | — | — | Mechanism 1: The Articulatory Constru... | 307 |
+| 44 | [[Schema-Construction|Schema Construction]] | — | — | Mechanism 1: The Articulatory Constru... | 303 |
+| 45 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Mechanism 1: The Articulatory Constru... | 307 |
 | 46 | [[Report 10: Scaffolding and Fading]] | — | — | Mechanism 1: The Articulatory Constru... | 307 |
 | 47 | [[Self-Explanation]] | — | — | Mechanism 2: The Self-Explanation as ... | 311 |
-| 48 | [[Elaborative Interrogation]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 319 |
-| 49 | [[SECI Model]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 325 |
-| 50 | [[Knowledge Management]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 325 |
+| 48 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 319 |
+| 49 | [[SECI-Model|SECI Model]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 325 |
+| 50 | [[Knowledge-Management|Knowledge Management]] | — | — | Mechanism 3: WHY-Questioning as Causa... | 325 |
 | 51 | [[Report 03: Constructing Understanding]] | — | — | Mechanism 4: Return and Deepen — Sche... | 329 |
-| 52 | [[Schema Theory]] | — | — | Mechanism 4: Return and Deepen — Sche... | 329 |
-| 53 | [[Progressive Summarization]] | — | — | Design Principle 4: Progressive Summa... | 405 |
-| 54 | [[Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 413 |
-| 55 | [[Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 419 |
+| 52 | [[Schema-Theory|Schema Theory]] | — | — | Mechanism 4: Return and Deepen — Sche... | 329 |
+| 53 | [[Progressive-Summarization|Progressive Summarization]] | — | — | Design Principle 4: Progressive Summa... | 405 |
+| 54 | [[Atomic-Notes|Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 413 |
+| 55 | [[Atomic-Notes|Atomic Notes]] | — | — | Design Principle 5: Atomic Notes and ... | 419 |
 | 56 | [[Report 05: Motivation Architecture]] | — | — | Limitations | 423 |
 | 57 | [[Report 03: Constructing Understanding]] | — | — | Return-and-Deepen: Schema Constructio... | 467 |
-| 58 | [[Schema Construction]] | — | — | Return-and-Deepen: Schema Constructio... | 467 |
-| 59 | [[Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 481 |
-| 60 | [[Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 483 |
-| 61 | [[Germane Load]] | — | — | Phase VII: PKB Connections & Cross-Re... | 483 |
+| 58 | [[Schema-Construction|Schema Construction]] | — | — | Return-and-Deepen: Schema Constructio... | 467 |
+| 59 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 481 |
+| 60 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 483 |
+| 61 | [[Germane-Load|Germane Load]] | — | — | Phase VII: PKB Connections & Cross-Re... | 483 |
 | 62 | [[Report 02: The Architecture of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 483 |
 | 63 | [[Constructivism]] | — | — | Phase VII: PKB Connections & Cross-Re... | 485 |
-| 64 | [[Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 487 |
-| 65 | [[Generation Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 487 |
+| 64 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 487 |
+| 65 | [[Generation-Effect|Generation Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 487 |
 | 66 | [[Metacognition]] | — | — | Phase VII: PKB Connections & Cross-Re... | 489 |
-| 67 | [[Comprehension Monitoring]] | — | — | Phase VII: PKB Connections & Cross-Re... | 489 |
+| 67 | [[Comprehension-Monitoring|Comprehension Monitoring]] | — | — | Phase VII: PKB Connections & Cross-Re... | 489 |
 | 68 | [[Report 04: Metacognitive Self-Regulation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 489 |
-| 69 | [[Tacit Knowledge]] | — | — | Phase VII: PKB Connections & Cross-Re... | 491 |
-| 70 | [[SECI Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 491 |
+| 69 | [[Tacit-Knowledge|Tacit Knowledge]] | — | — | Phase VII: PKB Connections & Cross-Re... | 491 |
+| 70 | [[SECI-Model|SECI Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 491 |
 | 71 | [[Report 03: Constructing Understanding]] | — | — | Phase VII: PKB Connections & Cross-Re... | 495 |
 | 72 | [[Report 18: Calibration and Epistemic Humility]] | — | — | Phase VII: PKB Connections & Cross-Re... | 497 |
 | 73 | [[Report 25: The Integration Problem]] | — | — | Phase VII: PKB Connections & Cross-Re... | 499 |
-| 74 | [[Interleaving and Note-Making Sequence Design]] | — | — | D. Expansion Topics | 593 |
-| 75 | [[The Role of Drawing and Diagramming in Knowledge Construction]] | — | — | D. Expansion Topics | 596 |
-| 76 | [[Dual Coding Theory]] | — | — | D. Expansion Topics | 597 |
-| 77 | [[Collaborative Note-Making and the Interactive Mode]] | — | — | D. Expansion Topics | 599 |
-| 78 | [[Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]] | — | — | D. Expansion Topics | 602 |
+| 74 | [[Interleaving-and-Note-Making-Sequence-Design|Interleaving and Note-Making Sequence Design]] | — | — | D. Expansion Topics | 593 |
+| 75 | [[The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction|The Role of Drawing and Diagramming in Knowledge Construction]] | — | — | D. Expansion Topics | 596 |
+| 76 | [[Dual-Coding-Theory|Dual Coding Theory]] | — | — | D. Expansion Topics | 597 |
+| 77 | [[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]] | — | — | D. Expansion Topics | 599 |
+| 78 | [[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]] | — | — | D. Expansion Topics | 602 |
 | 79 | [[The Expert's Note: How Generative Note-Making Changes with Domain Expertise]] | — | — | D. Expansion Topics | 605 |
 | 80 | [[Writing to Learn at Scale: Processing Large Bodies of Material Generatively]] | — | — | D. Expansion Topics | 608 |
 | 81 | [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]] | — | — | D. Expansion Topics | 617 |
@@ -673,32 +673,32 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Articulatory Construction Principle]]
-- [[Atomic Notes]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
-- [[Collaborative Note-Making and the Interactive Mode]]
-- [[Comprehension Monitoring]]
+- [[Articulatory-Construction-Principle|Articulatory Construction Principle]]
+- [[Atomic-Notes|Atomic Notes]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[Collaborative-Note-Making-and-the-Interactive-Mode|Collaborative Note-Making and the Interactive Mode]]
+- [[Comprehension-Monitoring|Comprehension Monitoring]]
 - [[Constructivism]]
-- [[Desirable Difficulties]]
-- [[Dual Coding Theory]]
-- [[Educational Psychology]]
-- [[Elaboration Theory]]
-- [[Elaborative Interrogation]]
-- [[Expertise Reversal Effect]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Dual-Coding-Theory|Dual Coding Theory]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Elaboration-Theory|Elaboration Theory]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
 - [[Fluency]]
-- [[Generation Effect]]
-- [[Generative Learning Theory]]
-- [[Germane Load]]
-- [[ICAP Framework]]
-- [[Interleaving and Note-Making Sequence Design]]
-- [[Knowledge Management]]
+- [[Generation-Effect|Generation Effect]]
+- [[Generative-Learning-Theory|Generative Learning Theory]]
+- [[Germane-Load|Germane Load]]
+- [[ICAP-Framework|ICAP Framework]]
+- [[Interleaving-and-Note-Making-Sequence-Design|Interleaving and Note-Making Sequence Design]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Metacognition]]
-- [[Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]
+- [[Note-Making-Under-Time-Pressure-When-Generative-Processing-Is-Not-Feasible|Note-Making Under Time Pressure: When Generative Processing Is Not Feasible]]
 - [[Obsidian]]
-- [[Personal Knowledge Base]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
 - [[Pragmatism]]
-- [[Progressive Summarization]]
+- [[Progressive-Summarization|Progressive Summarization]]
 - [[Report 02: The Architecture of Learning]]
 - [[Report 03: Constructing Understanding]]
 - [[Report 04: Metacognitive Self-Regulation]]
@@ -713,17 +713,17 @@ extraction_summary:
 - [[Report 18: Calibration and Epistemic Humility]]
 - [[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]
 - [[Report 25: The Integration Problem]]
-- [[SECI Model]]
-- [[Schema Construction]]
-- [[Schema Theory]]
+- [[SECI-Model|SECI Model]]
+- [[Schema-Construction|Schema Construction]]
+- [[Schema-Theory|Schema Theory]]
 - [[Schemas]]
 - [[Self-Explanation]]
-- [[Self-Explanation Effect]]
-- [[Social Constructivism]]
-- [[Tacit Knowledge]]
+- [[Self-Explanation-Effect|Self-Explanation Effect]]
+- [[Social-Constructivism|Social Constructivism]]
+- [[Tacit-Knowledge|Tacit Knowledge]]
 - [[The Expert's Note: How Generative Note-Making Changes with Domain Expertise]]
-- [[The Role of Drawing and Diagramming in Knowledge Construction]]
-- [[Writing to Learn]]
+- [[The-Role-of-Drawing-and-Diagramming-in-Knowledge-Construction|The Role of Drawing and Diagramming in Knowledge Construction]]
+- [[Writing-to-Learn|Writing to Learn]]
 - [[Writing to Learn at Scale: Processing Large Bodies of Material Generatively]]
 
 ### Frontmatter Relationships
@@ -737,25 +737,25 @@ extraction_summary:
 
 #### Related Concepts
 
-- [[Writing to Learn]]
-- [[Generative Learning Theory]]
-- [[Self-Explanation Effect]]
-- [[Elaborative Interrogation]]
-- [[Schema Construction]]
-- [[ICAP Framework]]
+- [[Writing-to-Learn|Writing to Learn]]
+- [[Generative-Learning-Theory|Generative Learning Theory]]
+- [[Self-Explanation-Effect|Self-Explanation Effect]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Schema-Construction|Schema Construction]]
+- [[ICAP-Framework|ICAP Framework]]
 - [[Wittrock]]
 - [[Chi]]
 - [[Mueller and Oppenheimer]]
 - [[Pressley]]
 - [[Constructivism]]
-- [[Cognitive Load Theory]]
-- [[Generation Effect]]
-- [[Progressive Summarization]]
-- [[Atomic Notes]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Generation-Effect|Generation Effect]]
+- [[Progressive-Summarization|Progressive Summarization]]
+- [[Atomic-Notes|Atomic Notes]]
 - [[Elaboration Prompts]]
 - [[Note-Making vs Note-Taking]]
-- [[Articulatory Construction Principle]]
-- [[Cognitive Event Model]]
+- [[Articulatory-Construction-Principle|Articulatory Construction Principle]]
+- [[Cognitive-Event-Model|Cognitive Event Model]]
 
 #### Link Related
 

@@ -59,16 +59,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Cognitive Alignment Principle]]"
-  - "[[Cognitive Architecture Isomorphism Principle]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Schema Theory]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Self-Determination Theory]]"
-  - "[[Desirable Difficulties]]"
-  - "[[Metacognitive Calibration]]"
+  - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
+  - "[[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Desirable-Difficulties|Desirable Difficulties]]"
+  - "[[Metacognitive-Calibration|Metacognitive Calibration]]"
   - "[[Heutagogy]]"
-  - "[[Pragmatist Epistemology]]"
+  - "[[Pragmatist-Epistemology|Pragmatist Epistemology]]"
 
 broader:
   - "[[]]"
@@ -77,14 +77,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Achievement Goal Theory]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Autonomy]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Collaborative PKM — Social Knowledge Construction in Connected PKBs]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]]"
   - "[[Competence]]"
-  - "[[Conceptual Change Theory]]"
+  - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
   - "[[Constructivism]]"
-  - "[[Dewey's Reflective Inquiry]]"
+  - "[[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -145,4 +145,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Achievement Goal Theory]] · [[Autonomy]] · [[Cognitive Alignment Principle]] · [[Cognitive Architecture Isomorphism Principle]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Collaborative PKM — Social Knowledge Construction in Connected PKBs]] · [[Competence]] · [[Conceptual Change Theory]] · [[Constructivism]] · [[Desirable Difficulties]] · [[Dewey's Reflective Inquiry]] · [[Dunning-Kruger]] · [[Educational Philosophy]] · [[Educational Psychology]]
+[[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Autonomy]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]] · [[Competence]] · [[Conceptual-Change-Theory|Conceptual Change Theory]] · [[Constructivism]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]] · [[Dunning-Kruger]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]]

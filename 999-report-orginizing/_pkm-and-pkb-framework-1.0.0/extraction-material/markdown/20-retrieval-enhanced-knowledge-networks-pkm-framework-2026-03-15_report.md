@@ -182,7 +182,7 @@ extraction_summary:
 #### 7. [DEFINITION] Elaborative Retrieval (Cognitive Psychology / Instructional Design — Anderson & Reder, 1979; Weinstein & Mayer, 1986) *(Line 206)*
 
 > [!definition] Elaborative Retrieval (Cognitive Psychology / Instructional Design — Anderson & Reder, 1979; Weinstein & Mayer, 1986)
-> A retrieval strategy in which the learner, rather than simply attempting to recall a stored representation verbatim, actively generates *connections* between the retrieved material and other knowledge — asking "why is this true?", "what does this connect to?", "what are the implications of this?", and "how does this relate to what I know about X?" Elaborative retrieval combines the pathway-strengthening benefit of active retrieval with the network-expansion benefit of elaborative encoding: it does not merely traverse existing associative pathways but creates *new* ones, expanding the network's capacity to retrieve the same knowledge through multiple routes. The [[Elaborative Interrogation]] technique (Pressley et al., 1992) is the instructional design implementation of this principle.
+> A retrieval strategy in which the learner, rather than simply attempting to recall a stored representation verbatim, actively generates *connections* between the retrieved material and other knowledge — asking "why is this true?", "what does this connect to?", "what are the implications of this?", and "how does this relate to what I know about X?" Elaborative retrieval combines the pathway-strengthening benefit of active retrieval with the network-expansion benefit of elaborative encoding: it does not merely traverse existing associative pathways but creates *new* ones, expanding the network's capacity to retrieve the same knowledge through multiple routes. The [[Elaborative-Interrogation|Elaborative Interrogation]] technique (Pressley et al., 1992) is the instructional design implementation of this principle.
 
 #### 8. [DEFINITION] Desirable Difficulties (Educational Psychology — Bjork, 1994; Bjork & Bjork, 2011) *(Line 209)*
 
@@ -246,7 +246,7 @@ extraction_summary:
 > [!tension-identified] Untitled
 > **Tension: Retrieval-Induced Forgetting vs. Network Strengthening**
 > 
-> [[Anderson et al. (1994)]] documented that practicing retrieval of some category members (e.g., practicing fruit-apple and fruit-orange) impaired recall of non-practiced category members (e.g., fruit-banana) compared to a no-practice control. The proposed mechanism is *inhibitory competition*: during retrieval practice, the practiced items suppress competing associations, reducing the accessibility of related items. This creates a genuine design tension for PKB retrieval systems: if retrieval of certain notes strengthens their associative pathways while simultaneously suppressing related pathways, then non-random retrieval practice could be counterproductive — creating strong "retrieval champions" while allowing important related concepts to fade. The resolution proposed in the literature is not to abandon retrieval practice but to ensure comprehensive coverage — random sampling from the full knowledge base rather than repeated review of a subset. For PKB design, this means the random walk review pattern (discussed in Phase V) is not merely convenient but mechanistically necessary.
+> [[Anderson-et-al.-1994|Anderson et al. (1994)]] documented that practicing retrieval of some category members (e.g., practicing fruit-apple and fruit-orange) impaired recall of non-practiced category members (e.g., fruit-banana) compared to a no-practice control. The proposed mechanism is *inhibitory competition*: during retrieval practice, the practiced items suppress competing associations, reducing the accessibility of related items. This creates a genuine design tension for PKB retrieval systems: if retrieval of certain notes strengthens their associative pathways while simultaneously suppressing related pathways, then non-random retrieval practice could be counterproductive — creating strong "retrieval champions" while allowing important related concepts to fade. The resolution proposed in the literature is not to abandon retrieval practice but to ensure comprehensive coverage — random sampling from the full knowledge base rather than repeated review of a subset. For PKB design, this means the random walk review pattern (discussed in Phase V) is not merely convenient but mechanistically necessary.
 
 #### 18. [ASK-YOURSELF-THIS] Knowledge State — Before *(Line 276)*
 
@@ -300,7 +300,7 @@ extraction_summary:
 > [!cross-domain-connection] Untitled
 > **Self-Determined Learning + Metacognitive Control + Spaced Repetition = The PKB as an Adaptive Review System**
 > 
-> Earlier in the PKM series, [[Report 04: Metacognitive Self-Regulation]] established that effective learners are not merely good at learning — they are good at *regulating* their learning by monitoring their own knowledge states and adjusting study allocation accordingly. The Judgment of Learning research now allows a more precise claim: this monitoring function, if based on reading fluency, is systematically biased toward overconfidence. The integration with [[Self-Determination Theory]] (Report 05) adds a further layer: intrinsically motivated learners often *choose* re-reading over testing because testing is unpleasant (it reveals ignorance) and re-reading is pleasurable (it feels like learning). This is the perfect storm for a PKB failure mode: intrinsically motivated learners, reading their carefully crafted notes with pleasure, generating fluency-based Judgments of Learning that dramatically overestimate their retrievable knowledge, consequently underinvesting in retrieval practice, and building a PKB that grows in volume without growing in genuine knowledge. The corrective design principle is not willpower but architecture: the PKB should make testing the *path of least resistance* for review, embedding retrieval attempts structurally so that the default review experience is retrieval-based rather than exposure-based.
+> Earlier in the PKM series, [[Report 04: Metacognitive Self-Regulation]] established that effective learners are not merely good at learning — they are good at *regulating* their learning by monitoring their own knowledge states and adjusting study allocation accordingly. The Judgment of Learning research now allows a more precise claim: this monitoring function, if based on reading fluency, is systematically biased toward overconfidence. The integration with [[Self-Determination-Theory|Self-Determination Theory]] (Report 05) adds a further layer: intrinsically motivated learners often *choose* re-reading over testing because testing is unpleasant (it reveals ignorance) and re-reading is pleasurable (it feels like learning). This is the perfect storm for a PKB failure mode: intrinsically motivated learners, reading their carefully crafted notes with pleasure, generating fluency-based Judgments of Learning that dramatically overestimate their retrievable knowledge, consequently underinvesting in retrieval practice, and building a PKB that grows in volume without growing in genuine knowledge. The corrective design principle is not willpower but architecture: the PKB should make testing the *path of least resistance* for review, embedding retrieval attempts structurally so that the default review experience is retrieval-based rather than exposure-based.
 
 #### 26. [ANALYTICAL-INSIGHT] Untitled *(Line 349)*
 
@@ -443,19 +443,19 @@ extraction_summary:
 > 
 > - **[[Network Models of Memory]]** — The structural foundation for all retrieval-architecture recommendations. The isomorphism between the memory network and the PKB link graph is the report's central cross-domain connection; any note developing the ACT-R or connectionist traditions belongs in deep dialogue with this report.
 > 
-> - **[[Testing Effect]]** — The core empirical finding anchoring the retrieval practice recommendations. Notes on Roediger & Karpicke (2006), Dunlosky et al. (2013), and Pan & Rickard (2018) all feed directly into the RENS framework and should link here.
+> - **[[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]** — The core empirical finding anchoring the retrieval practice recommendations. Notes on Roediger & Karpicke (2006), Dunlosky et al. (2013), and Pan & Rickard (2018) all feed directly into the RENS framework and should link here.
 > 
-> - **[[Desirable Difficulties]]** — The broader theoretical framework under which the Testing Effect and Spacing Effect are unified. The connection runs both ways: this report provides specific design implementations of the desirable difficulties principle; Report 16 provides the broader motivational and philosophical grounding.
+> - **[[Desirable-Difficulties|Desirable Difficulties]]** — The broader theoretical framework under which the Testing Effect and Spacing Effect are unified. The connection runs both ways: this report provides specific design implementations of the desirable difficulties principle; Report 16 provides the broader motivational and philosophical grounding.
 > 
-> - **[[Fluency Illusion]]** — The central failure mode that retrieval-first PKB design addresses. Notes on metacognitive overconfidence, ease-of-processing, and rereading illusions all connect to the calibration design principles developed here.
+> - **[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]** — The central failure mode that retrieval-first PKB design addresses. Notes on metacognitive overconfidence, ease-of-processing, and rereading illusions all connect to the calibration design principles developed here.
 > 
-> - **[[Elaborative Interrogation]]** — The instructional design technique that operationalizes elaborative retrieval. The retrieval prompt templates in Phase V are direct implementations; any notes on Pressley et al. (1992) or the "why-generation" technique belong in this neighborhood.
+> - **[[Elaborative-Interrogation|Elaborative Interrogation]]** — The instructional design technique that operationalizes elaborative retrieval. The retrieval prompt templates in Phase V are direct implementations; any notes on Pressley et al. (1992) or the "why-generation" technique belong in this neighborhood.
 > 
-> - **[[Memory Reconsolidation]]** — The neurobiological mechanism supporting the "retrieval as generative construction" insight. The link between Nader et al. (2000) and PKB review-time link creation is a novel connection that would reward further development.
+> - **[[Memory-Reconsolidation|Memory Reconsolidation]]** — The neurobiological mechanism supporting the "retrieval as generative construction" insight. The link between Nader et al. (2000) and PKB review-time link creation is a novel connection that would reward further development.
 > 
-> - **[[Retrieval-Induced Forgetting]]** — The counterintuitive evidence that retrieval of some knowledge can suppress related knowledge. The design response (random walk review, comprehensive network coverage) is important and should be linked to any notes on the inhibitory competition mechanism.
+> - **[[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]** — The counterintuitive evidence that retrieval of some knowledge can suppress related knowledge. The design response (random walk review, comprehensive network coverage) is important and should be linked to any notes on the inhibitory competition mechanism.
 > 
-> - **[[Self-Regulated Learning]]** — Report 04 established the metacognitive regulation framework; this report specifies how retrieval practice is the object-level tool that self-regulated learning deploys. The connection is bidirectional: SRL selects retrieval practice; retrieval practice's calibration output informs SRL monitoring.
+> - **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** — Report 04 established the metacognitive regulation framework; this report specifies how retrieval practice is the object-level tool that self-regulated learning deploys. The connection is bidirectional: SRL selects retrieval practice; retrieval practice's calibration output informs SRL monitoring.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series)**
 > 
@@ -602,16 +602,16 @@ extraction_summary:
 #### 63. [FURTHER-EXPLORATION] Deepening Your Retrieval Architecture *(Line 653)*
 
 > [!further-exploration] Deepening Your Retrieval Architecture
-> > [!topic-idea] [[Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]
+> > [!topic-idea] [[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]
 > > A practical implementation report covering the SR plugin for Obsidian, the SM-2 vs. FSRS algorithm comparison, note-type design for SRS compatibility, and the specific question of when to use dedicated SRS (Anki) versus integrated SRS (Obsidian SR plugin). Would address the design question of whether the PKB should be the SRS or should integrate with external SRS systems — with evidence-based guidance for different use cases.
 > 
 > > [!topic-idea] [[The Generation Effect — Writing as Retrieval Practice]]
 > > A deep examination of the Generation Effect (Slamecka & Graf, 1978) — the finding that self-generating material produces stronger memory than reading equivalent material — and its implications for note-making practices in a PKB. Specifically addresses the tension between comprehensive note-taking (captures everything) and generative note-making (produces stronger encoding but captures less). Would synthesize with Report 17 (Note-Making as Knowledge Construction) to provide retrieval-grounded guidance on how to write notes.
 > 
-> > [!topic-idea] [[Knowledge Graph Analytics for PKB Health Assessment]]
+> > [!topic-idea] [[Knowledge-Graph-Analytics-for-PKB-Health-Assessment|Knowledge Graph Analytics for PKB Health Assessment]]
 > > A technical and theoretical report on using network analysis metrics (node degree, betweenness centrality, clustering coefficient, path length distributions) to assess the retrieval architecture health of a PKB. Addresses cognitive orphaning diagnostics, bottleneck node identification, and graph evolution over time. Would provide the quantitative implementation layer for the network topology recommendations in this report.
 > 
-> > [!topic-idea] [[Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]]
+> > [!topic-idea] [[Interleaving-in-Knowledge-Review-—-The-Case-for-Anti-Topic-Clustering|Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]]
 > > Focused examination of interleaving (mixing topics during study/review rather than blocking by topic) as a desirable difficulty with particular relevance for PKB review design. The Rohrer and Taylor (2007) findings on interleaving benefits for concept discrimination and transfer provide strong grounds for a review philosophy that deliberately mixes unrelated topics — challenging the intuitive preference for thematic review sessions.
 > 
 > > [!topic-idea] [[Retrieval Practice for Tacit and Procedural Knowledge — Beyond Declarative Facts]]
@@ -630,20 +630,20 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Anderson et al. (1994)]]
-- [[Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]
-- [[Cognitive Psychology]]
-- [[David Rumelhart]]
-- [[Desirable Difficulties]]
-- [[Educational Psychology]]
-- [[Elaborative Interrogation]]
-- [[Elaborative Retrieval]]
-- [[Fluency Illusion]]
-- [[Instructional Design]]
-- [[Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]]
-- [[Knowledge Graph Analytics for PKB Health Assessment]]
-- [[Koriat and Bjork (2005)]]
-- [[Memory Reconsolidation]]
+- [[Anderson-et-al.-1994|Anderson et al. (1994)]]
+- [[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[David-Rumelhart|David Rumelhart]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Elaborative-Retrieval|Elaborative Retrieval]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
+- [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
+- [[Interleaving-in-Knowledge-Review-—-The-Case-for-Anti-Topic-Clustering|Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]]
+- [[Knowledge-Graph-Analytics-for-PKB-Health-Assessment|Knowledge Graph Analytics for PKB Health Assessment]]
+- [[Koriat-and-Bjork-2005|Koriat and Bjork (2005)]]
+- [[Memory-Reconsolidation|Memory Reconsolidation]]
 - [[Metacognition]]
 - [[Network Models of Memory]]
 - [[Report 04: Metacognitive Self-Regulation]]
@@ -652,14 +652,14 @@ extraction_summary:
 - [[Report 16: Desirable Difficulties by Design]]
 - [[Report 25: The Integration Problem]]
 - [[Retrieval Practice for Tacit and Procedural Knowledge — Beyond Declarative Facts]]
-- [[Retrieval-Induced Forgetting]]
+- [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]
 - [[Retrieval-Induced Updating]]
 - [[Roediger and Karpicke (2006)]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Social Retrieval Practice — Teaching and Dialogue as Knowledge Network Strengthening]]
-- [[Spaced Repetition]]
-- [[Testing Effect]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
 - [[The Generation Effect — Writing as Retrieval Practice]]
 - [[wiki-links]]
 
@@ -667,49 +667,49 @@ extraction_summary:
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Fluency Illusion]] | — | — | Phase I: Orientation & Synthesis Focus | 154 |
-| 2 | [[Testing Effect]] | — | — | Phase I: Orientation & Synthesis Focus | 156 |
-| 3 | [[Spaced Repetition]] | — | — | Phase I: Orientation & Synthesis Focus | 156 |
-| 4 | [[Elaborative Retrieval]] | — | — | Phase I: Orientation & Synthesis Focus | 156 |
+| 1 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Phase I: Orientation & Synthesis Focus | 154 |
+| 2 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Phase I: Orientation & Synthesis Focus | 156 |
+| 3 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | Phase I: Orientation & Synthesis Focus | 156 |
+| 4 | [[Elaborative-Retrieval|Elaborative Retrieval]] | — | — | Phase I: Orientation & Synthesis Focus | 156 |
 | 5 | [[Network Models of Memory]] | — | — | Phase I: Orientation & Synthesis Focus | 156 |
-| 6 | [[Cognitive Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 158 |
-| 7 | [[Educational Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 158 |
-| 8 | [[Instructional Design]] | — | — | Phase I: Orientation & Synthesis Focus | 158 |
+| 6 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 158 |
+| 7 | [[Educational-Psychology|Educational Psychology]] | — | — | Phase I: Orientation & Synthesis Focus | 158 |
+| 8 | [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] | — | — | Phase I: Orientation & Synthesis Focus | 158 |
 | 9 | [[Metacognition]] | — | — | Phase I: Orientation & Synthesis Focus | 158 |
 | 10 | [[Report 06: The Science of Remembering]] | — | — | Phase I: Orientation & Synthesis Focus | 162 |
 | 11 | [[Report 16: Desirable Difficulties by Design]] | — | — | Phase I: Orientation & Synthesis Focus | 162 |
 | 12 | [[Report 12: The Reflective PKB]] | — | — | Phase I: Orientation & Synthesis Focus | 162 |
 | 13 | [[Network Models of Memory]] | — | — | The Architecture of Memory: What the ... | 175 |
-| 14 | [[David Rumelhart]] | — | — | The Architecture of Memory: What the ... | 180 |
+| 14 | [[David-Rumelhart|David Rumelhart]] | — | — | The Architecture of Memory: What the ... | 180 |
 | 15 | [[wiki-links]] | — | — | The Architecture of Memory: What the ... | 188 |
-| 16 | [[Testing Effect]] | — | — | The Testing Effect: Retrieval as Cons... | 194 |
-| 17 | [[Spaced Repetition]] | — | — | The Testing Effect: Retrieval as Cons... | 204 |
-| 18 | [[Elaborative Interrogation]] | — | — | The Testing Effect: Retrieval as Cons... | 207 |
-| 19 | [[Fluency Illusion]] | — | — | Metacognitive Monitoring: The Problem... | 217 |
+| 16 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | The Testing Effect: Retrieval as Cons... | 194 |
+| 17 | [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]] | — | — | The Testing Effect: Retrieval as Cons... | 204 |
+| 18 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | The Testing Effect: Retrieval as Cons... | 207 |
+| 19 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Metacognitive Monitoring: The Problem... | 217 |
 | 20 | [[Roediger and Karpicke (2006)]] | — | — | The Testing Effect: How Robust Is It? | 239 |
-| 21 | [[Retrieval-Induced Forgetting]] | — | — | Retrieval-Induced Forgetting: A Criti... | 269 |
-| 22 | [[Anderson et al. (1994)]] | — | — | Retrieval-Induced Forgetting: A Criti... | 274 |
-| 23 | [[Koriat and Bjork (2005)]] | — | — | Metacognitive Evidence: The Calibrati... | 281 |
-| 24 | [[Memory Reconsolidation]] | — | — | The Retrieval Network as an Evolving ... | 318 |
+| 21 | [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]] | — | — | Retrieval-Induced Forgetting: A Criti... | 269 |
+| 22 | [[Anderson-et-al.-1994|Anderson et al. (1994)]] | — | — | Retrieval-Induced Forgetting: A Criti... | 274 |
+| 23 | [[Koriat-and-Bjork-2005|Koriat and Bjork (2005)]] | — | — | Metacognitive Evidence: The Calibrati... | 281 |
+| 24 | [[Memory-Reconsolidation|Memory Reconsolidation]] | — | — | The Retrieval Network as an Evolving ... | 318 |
 | 25 | [[Retrieval-Induced Updating]] | — | — | The Retrieval Network as an Evolving ... | 318 |
 | 26 | [[Report 04: Metacognitive Self-Regulation]] | — | — | The Metacognitive Control Loop: Calib... | 341 |
-| 27 | [[Self-Determination Theory]] | — | — | The Metacognitive Control Loop: Calib... | 341 |
+| 27 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Metacognitive Control Loop: Calib... | 341 |
 | 28 | [[Network Models of Memory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 530 |
-| 29 | [[Testing Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 532 |
-| 30 | [[Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 534 |
-| 31 | [[Fluency Illusion]] | — | — | Phase VII: PKB Connections & Cross-Re... | 536 |
-| 32 | [[Elaborative Interrogation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 538 |
-| 33 | [[Memory Reconsolidation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 540 |
-| 34 | [[Retrieval-Induced Forgetting]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
-| 35 | [[Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 544 |
+| 29 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Phase VII: PKB Connections & Cross-Re... | 532 |
+| 30 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 534 |
+| 31 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | Phase VII: PKB Connections & Cross-Re... | 536 |
+| 32 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 538 |
+| 33 | [[Memory-Reconsolidation|Memory Reconsolidation]] | — | — | Phase VII: PKB Connections & Cross-Re... | 540 |
+| 34 | [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
+| 35 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 544 |
 | 36 | [[Report 06: The Science of Remembering]] | — | — | Phase VII: PKB Connections & Cross-Re... | 548 |
 | 37 | [[Report 16: Desirable Difficulties by Design]] | — | — | Phase VII: PKB Connections & Cross-Re... | 550 |
 | 38 | [[Report 25: The Integration Problem]] | — | — | Phase VII: PKB Connections & Cross-Re... | 552 |
 | 39 | [[Report 12: The Reflective PKB]] | — | — | Phase VII: PKB Connections & Cross-Re... | 554 |
-| 40 | [[Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]] | — | — | D. Expansion Topics | 655 |
+| 40 | [[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]] | — | — | D. Expansion Topics | 655 |
 | 41 | [[The Generation Effect — Writing as Retrieval Practice]] | — | — | D. Expansion Topics | 658 |
-| 42 | [[Knowledge Graph Analytics for PKB Health Assessment]] | — | — | D. Expansion Topics | 661 |
-| 43 | [[Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]] | — | — | D. Expansion Topics | 664 |
+| 42 | [[Knowledge-Graph-Analytics-for-PKB-Health-Assessment|Knowledge Graph Analytics for PKB Health Assessment]] | — | — | D. Expansion Topics | 661 |
+| 43 | [[Interleaving-in-Knowledge-Review-—-The-Case-for-Anti-Topic-Clustering|Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]] | — | — | D. Expansion Topics | 664 |
 | 44 | [[Retrieval Practice for Tacit and Procedural Knowledge — Beyond Declarative Facts]] | — | — | D. Expansion Topics | 667 |
 | 45 | [[Social Retrieval Practice — Teaching and Dialogue as Knowledge Network Strengthening]] | — | — | D. Expansion Topics | 670 |
 
@@ -722,20 +722,20 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Anderson et al. (1994)]]
-- [[Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]
-- [[Cognitive Psychology]]
-- [[David Rumelhart]]
-- [[Desirable Difficulties]]
-- [[Educational Psychology]]
-- [[Elaborative Interrogation]]
-- [[Elaborative Retrieval]]
-- [[Fluency Illusion]]
-- [[Instructional Design]]
-- [[Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]]
-- [[Knowledge Graph Analytics for PKB Health Assessment]]
-- [[Koriat and Bjork (2005)]]
-- [[Memory Reconsolidation]]
+- [[Anderson-et-al.-1994|Anderson et al. (1994)]]
+- [[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[David-Rumelhart|David Rumelhart]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Elaborative-Retrieval|Elaborative Retrieval]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
+- [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
+- [[Interleaving-in-Knowledge-Review-—-The-Case-for-Anti-Topic-Clustering|Interleaving in Knowledge Review — The Case for Anti-Topic-Clustering]]
+- [[Knowledge-Graph-Analytics-for-PKB-Health-Assessment|Knowledge Graph Analytics for PKB Health Assessment]]
+- [[Koriat-and-Bjork-2005|Koriat and Bjork (2005)]]
+- [[Memory-Reconsolidation|Memory Reconsolidation]]
 - [[Metacognition]]
 - [[Network Models of Memory]]
 - [[Report 04: Metacognitive Self-Regulation]]
@@ -744,14 +744,14 @@ extraction_summary:
 - [[Report 16: Desirable Difficulties by Design]]
 - [[Report 25: The Integration Problem]]
 - [[Retrieval Practice for Tacit and Procedural Knowledge — Beyond Declarative Facts]]
-- [[Retrieval-Induced Forgetting]]
+- [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]
 - [[Retrieval-Induced Updating]]
 - [[Roediger and Karpicke (2006)]]
-- [[Self-Determination Theory]]
-- [[Self-Regulated Learning]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Social Retrieval Practice — Teaching and Dialogue as Knowledge Network Strengthening]]
-- [[Spaced Repetition]]
-- [[Testing Effect]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
 - [[The Generation Effect — Writing as Retrieval Practice]]
 - [[wiki-links]]
 
@@ -759,24 +759,24 @@ extraction_summary:
 
 #### Related Concepts
 
-- [[Testing Effect]]
-- [[Spaced Repetition]]
-- [[Elaborative Retrieval]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[Spaced-Repetition-Spacing-Effect|Spaced Repetition]]
+- [[Elaborative-Retrieval|Elaborative Retrieval]]
 - [[Network Models of Memory]]
-- [[Spreading Activation]]
-- [[Encoding Specificity]]
-- [[Transfer-Appropriate Processing]]
-- [[Desirable Difficulties]]
-- [[Generation Effect]]
-- [[Retrieval-Induced Forgetting]]
-- [[Judgment of Learning]]
-- [[Fluency Illusion]]
+- [[Spreading-Activation|Spreading Activation]]
+- [[Encoding-Specificity|Encoding Specificity]]
+- [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Generation-Effect|Generation Effect]]
+- [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
 - [[Spaced Practice]]
 - [[Interleaving]]
 - [[Active Recall]]
-- [[Personal Knowledge Base]]
-- [[Personal Knowledge Management]]
-- [[Metacognitive Calibration]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Metacognitive-Calibration|Metacognitive Calibration]]
 - [[Associative Memory Networks]]
 - [[SM-2 Algorithm]]
 

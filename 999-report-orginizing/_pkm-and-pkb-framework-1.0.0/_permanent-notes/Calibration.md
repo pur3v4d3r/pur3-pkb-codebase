@@ -59,15 +59,15 @@ prerequisites:
 
 related:
   - "[[Calibration]]"
-  - "[[Overconfidence Effect]]"
-  - "[[Hard-Easy Effect]]"
-  - "[[Dunning-Kruger Effect]]"
-  - "[[Double Ignorance]]"
-  - "[[Illusory Superiority]]"
-  - "[[Socratic Ignorance]]"
-  - "[[Elenchus]]"
+  - "[[Overconfidence-Effect|Overconfidence Effect]]"
+  - "[[Hard-Easy-Effect|Hard-Easy Effect]]"
+  - "[[Dunning-Kruger-Effect|Dunning-Kruger Effect]]"
+  - "[[Double-Ignorance|Double Ignorance]]"
+  - "[[Illusory-Superiority|Illusory Superiority]]"
+  - "[[Socratic-Ignorance-Knowing-One's-Ignorance|Socratic Ignorance]]"
+  - "[[Socratic-Method-Elenchus|Elenchus]]"
   - "[[Aporia]]"
-  - "[[Epistemic Humility]]"
+  - "[[Epistemic-Humility|Epistemic Humility]]"
 
 broader:
   - "[[]]"
@@ -76,14 +76,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Achievement Goal Theory]]"
-  - "[[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
+  - "[[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
   - "[[Autonomy]]"
-  - "[[Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]"
-  - "[[Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]"
-  - "[[Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]"
-  - "[[Cognitive Alignment Principle]]"
-  - "[[Cognitive Architecture Isomorphism Principle]]"
+  - "[[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]"
+  - "[[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]"
+  - "[[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]"
+  - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
+  - "[[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -152,4 +152,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Achievement Goal Theory]] · [[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Autonomy]] · [[Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] · [[Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] · [[Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] · [[Cognitive Alignment Principle]] · [[Cognitive Architecture Isomorphism Principle]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Collaborative PKM — Social Knowledge Construction in Connected PKBs]] · [[Competence]] · [[Conceptual Change Theory]] · [[Constructivism]]
+[[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Autonomy]] · [[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] · [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] · [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]] · [[Competence]] · [[Conceptual-Change-Theory|Conceptual Change Theory]] · [[Constructivism]]

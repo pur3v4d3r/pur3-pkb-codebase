@@ -161,19 +161,19 @@ extraction_summary:
 > [!ask-yourself-this] Before You Begin
 > Before reading further, audit your current PKB review practice honestly. How often do you revisit notes? When you do, what does that typically look like — re-reading, searching, or active recall? What percentage of your notes have you retrieved *as knowledge* (reconstructed from memory) versus *as files* (located by search)? Note your starting position. This report may substantially shift how you think about what a PKB review system should do.
 
-#### 2. [DEFINITION] [[Forgetting Curve]] (Cognitive Psychology — Ebbinghaus, 1885) *(Line 148)*
+#### 2. [DEFINITION] [[Forgetting-Curve|Forgetting Curve]] (Cognitive Psychology — Ebbinghaus, 1885) *(Line 148)*
 
-> [!definition] [[Forgetting Curve]] (Cognitive Psychology — Ebbinghaus, 1885)
+> [!definition] [[Forgetting-Curve|Forgetting Curve]] (Cognitive Psychology — Ebbinghaus, 1885)
 > The empirical observation that memory for newly learned material decays exponentially over time in the absence of review, with the steepest decline occurring in the first 24–48 hours after initial encoding. Ebbinghaus quantified this with his "savings score" methodology — measuring how much less effort was required to re-learn forgotten material compared to initial learning. The curve is not universal (it varies by material type, encoding depth, prior knowledge, and emotional salience), but the general exponential decay pattern is among the most robustly replicated findings in all of psychology. For PKB users, the implication is stark: notes added to a vault and not deliberately revisited will become functionally inaccessible — not gone, but deeply buried — within days to weeks. The subjective sense of "I have all this in my PKB" systematically overstates what is actually *retrievable* from that PKB.
 
-#### 3. [DEFINITION] [[Spacing Effect]] (Psychology of Learning — Ebbinghaus, 1885; Cepeda et al., 2006) *(Line 151)*
+#### 3. [DEFINITION] [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] (Psychology of Learning — Ebbinghaus, 1885; Cepeda et al., 2006) *(Line 151)*
 
-> [!definition] [[Spacing Effect]] (Psychology of Learning — Ebbinghaus, 1885; Cepeda et al., 2006)
+> [!definition] [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] (Psychology of Learning — Ebbinghaus, 1885; Cepeda et al., 2006)
 > The robust empirical finding that distributing learning or review over time — with gaps between sessions — produces significantly stronger long-term retention than massing the same amount of practice in a single session. Also called the "distributed practice effect." The spacing effect is one of the most replicated findings in memory research, demonstrated across materials (words, facts, concepts, skills), ages (children through older adults), and timescales (hours to years). Critically, optimal spacing interval scales with retention interval: if you need to remember something for a month, space reviews weeks apart; if you need to remember it for years, space them months apart. For PKB design, the spacing effect means review scheduling is not arbitrary — there is an empirically characterizable optimal temporal distribution of retrieval attempts that should inform system design rather than habit and convenience.
 
-#### 4. [DEFINITION] [[Testing Effect]] / [[Retrieval Practice Effect]] (Cognitive Psychology — Roediger & Karpicke, 2006; Abbott, 1909) *(Line 154)*
+#### 4. [DEFINITION] [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] / [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]] (Cognitive Psychology — Roediger & Karpicke, 2006; Abbott, 1909) *(Line 154)*
 
-> [!definition] [[Testing Effect]] / [[Retrieval Practice Effect]] (Cognitive Psychology — Roediger & Karpicke, 2006; Abbott, 1909)
+> [!definition] [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] / [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]] (Cognitive Psychology — Roediger & Karpicke, 2006; Abbott, 1909)
 > The empirically established phenomenon that actively retrieving information from memory — even without feedback — produces significantly stronger long-term retention than an equivalent period of re-studying the same material. Often called "the testing effect" because testing was historically the method used to induce retrieval, but the active mechanism is retrieval itself, not the evaluative component of tests. Karpicke and Roediger (2008) showed that repeated retrieval practice without re-study substantially outperformed repeated re-study without retrieval practice on delayed retention tests. The testing effect is one of the most practically significant findings in learning science precisely because it inverts folk intuition: re-reading material (which feels productive) is substantially weaker than being tested on it (which feels like measurement, not learning). For PKB users: passive re-reading of notes does not meaningfully strengthen memory for their content. Active recall — closing the note and reconstructing its content — does.
 
 #### 5. [DEFINITION] [[Interleaving]] (Psychology of Learning — Bjork, 1994; Kornell & Bjork, 2008) *(Line 157)*
@@ -181,44 +181,44 @@ extraction_summary:
 > [!definition] [[Interleaving]] (Psychology of Learning — Bjork, 1994; Kornell & Bjork, 2008)
 > The practice of mixing multiple topics, subjects, or problem types within a single study session, rather than completing all practice on one topic before moving to the next (the latter being called "blocking"). Interleaving introduces difficulty — it requires the learner to continuously discriminate between problem types and select appropriate strategies — but this added difficulty enhances both long-term retention and the ability to apply knowledge across different contexts. Critically, interleaving *feels* less productive in the moment than blocking: learners consistently rate blocked practice as more effective, even when interleaved practice produces superior outcomes. This metacognitive illusion is not incidental; it is central to understanding why interleaving must be *designed into* PKB systems rather than left to emerge from user preference.
 
-#### 6. [DEFINITION] [[Desirable Difficulties]] (Psychology of Learning — Bjork & Bjork, 2011) *(Line 160)*
+#### 6. [DEFINITION] [[Desirable-Difficulties|Desirable Difficulties]] (Psychology of Learning — Bjork & Bjork, 2011) *(Line 160)*
 
-> [!definition] [[Desirable Difficulties]] (Psychology of Learning — Bjork & Bjork, 2011)
+> [!definition] [[Desirable-Difficulties|Desirable Difficulties]] (Psychology of Learning — Bjork & Bjork, 2011)
 > The counterintuitive finding that certain learning conditions that make encoding more difficult and error-prone in the short term — including spacing, testing, interleaving, and generation — produce superior long-term retention and transfer compared to conditions that feel easier and produce fewer errors. Desirable difficulties are contrasted with "undesirable difficulties" (obstacles that impede learning without producing compensating long-term benefits). The key distinguishing criterion: a difficulty is desirable if it engages encoding and retrieval processes that improve the *durability* and *transferability* of learning. Bjork frames this as the critical distinction between "current performance" (how well you perform during practice) and "learning" (durable change in the capability for performance). PKB review that maximizes current performance — smooth, fluent, organized, familiar — is often systematically minimizing actual learning.
 
-#### 7. [DEFINITION] [[Encoding Specificity Principle]] (Cognitive Psychology — Tulving & Thomson, 1973) *(Line 163)*
+#### 7. [DEFINITION] [[Encoding-Specificity-Principle|Encoding Specificity Principle]] (Cognitive Psychology — Tulving & Thomson, 1973) *(Line 163)*
 
-> [!definition] [[Encoding Specificity Principle]] (Cognitive Psychology — Tulving & Thomson, 1973)
+> [!definition] [[Encoding-Specificity-Principle|Encoding Specificity Principle]] (Cognitive Psychology — Tulving & Thomson, 1973)
 > The theoretical principle that memory retrieval is maximized when the cues present at retrieval match the cues present during encoding. What you encode is not just the information itself but the contextual features surrounding it — mood, environment, associated concepts, the questions that prompted the learning, the problem it addressed. Retrieval is optimized when these encoding cues are reinstated. The practical implication is that where, how, and in what conceptual context you encode information will affect how and under what conditions you can retrieve it. For PKB design: decontextualized, abstracted notes — notes stripped of the questions that prompted them, the problems they address, the conceptual frameworks that gave them meaning — are systematically harder to retrieve precisely because they lack the contextual hooks that connect stored representations to real-world retrieval cues.
 
-#### 8. [DEFINITION] [[Judgment of Learning]] / [[Metacognitive Monitoring]] (Educational Psychology — Flavell, 1979; Koriat, 1997) *(Line 166)*
+#### 8. [DEFINITION] [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] / [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] (Educational Psychology — Flavell, 1979; Koriat, 1997) *(Line 166)*
 
-> [!definition] [[Judgment of Learning]] / [[Metacognitive Monitoring]] (Educational Psychology — Flavell, 1979; Koriat, 1997)
-> The learner's prospective assessment of their own memory state — how well they believe they will remember a piece of information relative to how well they actually will. Research consistently demonstrates that people are systematically miscalibrated: they tend to overestimate how well they will remember material they have recently re-read (the [[Fluency Illusion]]) and underestimate the future value of effortful retrieval practice. This miscalibration has direct consequences for study behavior: people choose passive re-reading over active recall because re-reading feels more productive, even though the science shows the opposite. For PKB design: the system must compensate for predictable metacognitive errors by structuring review in ways that override the user's potentially misleading felt sense of learning progress.
+> [!definition] [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] / [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] (Educational Psychology — Flavell, 1979; Koriat, 1997)
+> The learner's prospective assessment of their own memory state — how well they believe they will remember a piece of information relative to how well they actually will. Research consistently demonstrates that people are systematically miscalibrated: they tend to overestimate how well they will remember material they have recently re-read (the [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]) and underestimate the future value of effortful retrieval practice. This miscalibration has direct consequences for study behavior: people choose passive re-reading over active recall because re-reading feels more productive, even though the science shows the opposite. For PKB design: the system must compensate for predictable metacognitive errors by structuring review in ways that override the user's potentially misleading felt sense of learning progress.
 
-#### 9. [DEFINITION] [[Spaced Repetition Systems]] (Educational Technology — Leitner, 1972; Wozniak, 1985) *(Line 169)*
+#### 9. [DEFINITION] [[Spaced-Repetition-Systems|Spaced Repetition Systems]] (Educational Technology — Leitner, 1972; Wozniak, 1985) *(Line 169)*
 
-> [!definition] [[Spaced Repetition Systems]] (Educational Technology — Leitner, 1972; Wozniak, 1985)
+> [!definition] [[Spaced-Repetition-Systems|Spaced Repetition Systems]] (Educational Technology — Leitner, 1972; Wozniak, 1985)
 > Algorithmic systems for scheduling review of discrete knowledge units (typically flashcards) at expanding intervals based on demonstrated recall performance. The interval expands when recall is successful and contracts when recall fails, converging on an approximately optimal review schedule for each item based on its demonstrated forgetting curve. Common implementations include the SM-2 algorithm (underlying Anki) and the more recent FSRS algorithm. SRS implements the spacing effect and testing effect simultaneously: reviews are spaced over time and conducted as active recall. For PKBs: SRS provides a powerful tool for a specific type of knowledge (discrete, factual, verifiable), but represents only one component of a comprehensive retrieval-oriented PKB design — its limitations are examined in detail in Phase IV.
 
 #### 10. [CROSS-DOMAIN-CONNECTION] The Convergence of Three Traditions on One Structural Problem *(Line 174)*
 
 > [!cross-domain-connection] The Convergence of Three Traditions on One Structural Problem
-> Cognitive psychology (via the [[Forgetting Curve]] and [[Encoding Specificity]]), the psychology of learning (via [[Spacing Effect]] and [[Testing Effect]]), and educational psychology (via [[Judgment of Learning]] research) all converge on the same structural diagnosis of why self-directed learning so often fails to produce durable knowledge: human learners are systematically biased toward study behaviors that feel productive (massed, passive, fluent, smooth) and away from behaviors that actually produce lasting retention (distributed, active, effortful, rough). This convergence from three independent research traditions — using different methods, studying different populations, addressing different research questions — dramatically strengthens confidence in the diagnosis. It is not an experimental artifact of one laboratory or one methodology; it is a structural feature of human cognition and metacognition. The implication for PKB design is not merely an empirical finding to be accommodated but a design imperative: PKB review systems must be structured to override predictable metacognitive biases because those biases are robust, universal, and systematically counterproductive.
+> Cognitive psychology (via the [[Forgetting-Curve|Forgetting Curve]] and [[Encoding-Specificity|Encoding Specificity]]), the psychology of learning (via [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] and [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]), and educational psychology (via [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] research) all converge on the same structural diagnosis of why self-directed learning so often fails to produce durable knowledge: human learners are systematically biased toward study behaviors that feel productive (massed, passive, fluent, smooth) and away from behaviors that actually produce lasting retention (distributed, active, effortful, rough). This convergence from three independent research traditions — using different methods, studying different populations, addressing different research questions — dramatically strengthens confidence in the diagnosis. It is not an experimental artifact of one laboratory or one methodology; it is a structural feature of human cognition and metacognition. The implication for PKB design is not merely an empirical finding to be accommodated but a design imperative: PKB review systems must be structured to override predictable metacognitive biases because those biases are robust, universal, and systematically counterproductive.
 
 #### 11. [KEY-CLAIM] The Central Diagnostic of PKB Failure *(Line 179)*
 
 > [!key-claim] The Central Diagnostic of PKB Failure
-> Most personal knowledge bases fail to produce durable, accessible, transferable knowledge not because of poor organization, inadequate linking, or insufficient capture — but because they lack systematic [[Retrieval Practice]]. They are designed around passive re-reading as the primary mode of "review," which is precisely the review mode that decades of memory science has identified as the least effective for strengthening long-term retention. This is not a minor optimization problem; it is a foundational architectural misalignment between PKB design norms and the science of how memory actually works.
+> Most personal knowledge bases fail to produce durable, accessible, transferable knowledge not because of poor organization, inadequate linking, or insufficient capture — but because they lack systematic [[Retrieval-Practice|Retrieval Practice]]. They are designed around passive re-reading as the primary mode of "review," which is precisely the review mode that decades of memory science has identified as the least effective for strengthening long-term retention. This is not a minor optimization problem; it is a foundational architectural misalignment between PKB design norms and the science of how memory actually works.
 
 #### 12. [REFLECTION] Integrating the Framework *(Line 182)*
 
 > [!reflection] Integrating the Framework
-> **Comprehension**: Which of these seven concepts most contradicts your current PKB review assumptions? Has the [[Testing Effect]] research changed how you conceptualize what "reviewing" a note means — from accessing information to training memory?
+> **Comprehension**: Which of these seven concepts most contradicts your current PKB review assumptions? Has the [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] research changed how you conceptualize what "reviewing" a note means — from accessing information to training memory?
 > 
 > **Application**: Looking at your current PKB review practice, which of these mechanisms is most systematically absent? What would a single concrete change look like to introduce it?
 > 
-> **Extension**: The concepts of [[Encoding Specificity]] and the [[Testing Effect]] are in productive dialogue: encoding specificity says the *context* of encoding affects retrieval, while the testing effect says *retrieval itself* strengthens memory. What might their combination imply about how retrieval practice should be designed — not just whether to practice, but in what contextual format?
+> **Extension**: The concepts of [[Encoding-Specificity|Encoding Specificity]] and the [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] are in productive dialogue: encoding specificity says the *context* of encoding affects retrieval, while the testing effect says *retrieval itself* strengthens memory. What might their combination imply about how retrieval practice should be designed — not just whether to practice, but in what contextual format?
 
 #### 13. [ASK-YOURSELF-THIS] Knowledge State — Before *(Line 194)*
 
@@ -292,7 +292,7 @@ extraction_summary:
 #### 25. [CROSS-DOMAIN-CONNECTION] Interleaving and Constructivism's Cognitive Conflict *(Line 320)*
 
 > [!cross-domain-connection] Interleaving and Constructivism's Cognitive Conflict
-> Piaget's constructivist account of learning places [[Cognitive Conflict]] — the encounter with information that challenges existing schemas — at the center of conceptual development. [[Accommodation]] (schema restructuring in response to disconfirming information) is the mechanism by which knowledge advances beyond assimilation. Interleaving, viewed through a constructivist lens, is a systematic method for generating cognitive conflict: by juxtaposing different problem types or concepts, it forces the learner to notice when their current schema fails and to differentiate or reorganize. This cross-domain convergence — the psychology of learning's interleaving research and constructivism's cognitive conflict theory arriving at structurally similar conclusions via entirely different routes — provides strong grounds for treating interleaved review as a principled pedagogical strategy with theoretical depth, not merely an empirical curiosity. For PKB design, it suggests that the most valuable review sessions are not those that confirm what you know but those that productively challenge and differentiate it.
+> Piaget's constructivist account of learning places [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] — the encounter with information that challenges existing schemas — at the center of conceptual development. [[Accommodation]] (schema restructuring in response to disconfirming information) is the mechanism by which knowledge advances beyond assimilation. Interleaving, viewed through a constructivist lens, is a systematic method for generating cognitive conflict: by juxtaposing different problem types or concepts, it forces the learner to notice when their current schema fails and to differentiate or reorganize. This cross-domain convergence — the psychology of learning's interleaving research and constructivism's cognitive conflict theory arriving at structurally similar conclusions via entirely different routes — provides strong grounds for treating interleaved review as a principled pedagogical strategy with theoretical depth, not merely an empirical curiosity. For PKB design, it suggests that the most valuable review sessions are not those that confirm what you know but those that productively challenge and differentiate it.
 
 #### 26. [ANALYTICAL-INSIGHT] The Limits of Flashcard-Based SRS in a PKB Context *(Line 331)*
 
@@ -376,7 +376,7 @@ extraction_summary:
 #### 32. [WARNING] The SRS Over-Atomization Risk *(Line 455)*
 
 > [!warning] The SRS Over-Atomization Risk
-> Implementing spaced repetition in a PKB through flashcard-style review risks over-atomizing knowledge — reducing complex, interconnected understanding to discrete retrievable items that can be recalled in isolation but not integrated in application. The [[Testing Effect]] is powerful, but it is most powerful when the retrieval cues and practice conditions match intended application contexts. A PKB designed entirely around SRS for factual recall may produce excellent performance on isolated recall tests while failing to develop the flexible, contextually embedded understanding that makes knowledge genuinely useful. The solution is a multi-level retrieval system: SRS for atomic facts and concepts, plus higher-level retrieval practice (synthesis questions, application problems, connection-mapping exercises) for integrated understanding. These are complementary, not alternative.
+> Implementing spaced repetition in a PKB through flashcard-style review risks over-atomizing knowledge — reducing complex, interconnected understanding to discrete retrievable items that can be recalled in isolation but not integrated in application. The [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] is powerful, but it is most powerful when the retrieval cues and practice conditions match intended application contexts. A PKB designed entirely around SRS for factual recall may produce excellent performance on isolated recall tests while failing to develop the flexible, contextually embedded understanding that makes knowledge genuinely useful. The solution is a multi-level retrieval system: SRS for atomic facts and concepts, plus higher-level retrieval practice (synthesis questions, application problems, connection-mapping exercises) for integrated understanding. These are complementary, not alternative.
 
 #### 33. [REFLECTION] Knowledge State — After *(Line 458)*
 
@@ -416,19 +416,19 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> **[[Schema Theory]]** (established in [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]) — Schemas are maintained through retrieval practice, not just formed through study. The note architecture of a PKB determines what schemas can be activated; retrieval practice determines whether those schemas remain strong and accessible. RONA is a schema-maintenance strategy as much as a memory strategy. Report 01 established what schemas are; this report establishes how they stay alive.
+> **[[Schema-Theory|Schema Theory]]** (established in [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]]) — Schemas are maintained through retrieval practice, not just formed through study. The note architecture of a PKB determines what schemas can be activated; retrieval practice determines whether those schemas remain strong and accessible. RONA is a schema-maintenance strategy as much as a memory strategy. Report 01 established what schemas are; this report establishes how they stay alive.
 > 
-> **[[Cognitive Load Theory]]** (elaborated in [[02-architecture-of-learning-pkm-framework-2026-03-13]]) — A productive tension: CLT argues for reducing extraneous load to protect working memory capacity. Desirable difficulties argues for maintaining effortful processing. The resolution: desirable difficulties add *germane load* (schema-building challenge) not extraneous load (irrelevant complexity). The distinction is crucial — PKB review should be cognitively demanding in the right ways, not all ways.
+> **[[Cognitive-Load-Theory|Cognitive Load Theory]]** (elaborated in [[02-architecture-of-learning-pkm-framework-2026-03-13]]) — A productive tension: CLT argues for reducing extraneous load to protect working memory capacity. Desirable difficulties argues for maintaining effortful processing. The resolution: desirable difficulties add *germane load* (schema-building challenge) not extraneous load (irrelevant complexity). The distinction is crucial — PKB review should be cognitively demanding in the right ways, not all ways.
 > 
-> **[[Self-Regulated Learning]]** (introduced in [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]) — Effective SRL of PKB review requires metacognitive knowledge about memory science, not just awareness of one's current learning state. Without knowing that JOLs after re-reading are inflated, that errors during retrieval are productive, and that difficulty signals learning rather than failure, self-regulated review will systematically choose the wrong behaviors. The memory science in this report is prerequisite knowledge for the metacognitive self-regulation that Report 04 identified as central.
+> **[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]** (introduced in [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]) — Effective SRL of PKB review requires metacognitive knowledge about memory science, not just awareness of one's current learning state. Without knowing that JOLs after re-reading are inflated, that errors during retrieval are productive, and that difficulty signals learning rather than failure, self-regulated review will systematically choose the wrong behaviors. The memory science in this report is prerequisite knowledge for the metacognitive self-regulation that Report 04 identified as central.
 > 
-> **[[Encoding Specificity Principle]]** — Connects to knowledge management's emphasis on context-rich knowledge. Notes that preserve encoding context are more retrievable in ecologically valid contexts. RONA's commitment to context preservation is grounded in this principle. The principle links information science (context-sensitive retrieval systems) to cognitive psychology (memory encoding mechanisms).
+> **[[Encoding-Specificity-Principle|Encoding Specificity Principle]]** — Connects to knowledge management's emphasis on context-rich knowledge. Notes that preserve encoding context are more retrievable in ecologically valid contexts. RONA's commitment to context preservation is grounded in this principle. The principle links information science (context-sensitive retrieval systems) to cognitive psychology (memory encoding mechanisms).
 > 
-> **[[Desirable Difficulties]]** — The umbrella framework that unifies spacing, testing, interleaving, and generation into a coherent design philosophy. Understanding desirable difficulties as a unified principle — rather than a list of separate techniques — enables principled extrapolation to novel PKB design contexts not directly addressed by the empirical literature.
+> **[[Desirable-Difficulties|Desirable Difficulties]]** — The umbrella framework that unifies spacing, testing, interleaving, and generation into a coherent design philosophy. Understanding desirable difficulties as a unified principle — rather than a list of separate techniques — enables principled extrapolation to novel PKB design contexts not directly addressed by the empirical literature.
 > 
-> **[[Metacognitive Monitoring]]** / **[[Judgment of Learning]]** — The limiting factor for self-directed retrieval practice. PKB review systems must be designed to compensate for the fluency illusion and the systematic undervaluation of testing. No amount of evidence about optimal review practices will overcome metacognitive miscalibration if the system does not structurally enforce the better behaviors.
+> **[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]** / **[[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]** — The limiting factor for self-directed retrieval practice. PKB review systems must be designed to compensate for the fluency illusion and the systematic undervaluation of testing. No amount of evidence about optimal review practices will overcome metacognitive miscalibration if the system does not structurally enforce the better behaviors.
 > 
-> **[[Retrieval-Oriented Note Architecture]]** — The original synthesis contribution of this report. RONA integrates encoding specificity, the generation effect, the testing effect, and scheduling requirements into a unified note design philosophy. It will be referenced and extended in Reports 09, 12, 16, and 20.
+> **[[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]]** — The original synthesis contribution of this report. RONA integrates encoding specificity, the generation effect, the testing effect, and scheduling requirements into a unified note design philosophy. It will be referenced and extended in Reports 09, 12, 16, and 20.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
@@ -452,44 +452,44 @@ extraction_summary:
 > [!definition] [[Consolidation]] (Cognitive Neuroscience — Müller & Pilzecker, 1900; McGaugh, 2000)
 > The process by which newly encoded memories are stabilized and integrated into long-term knowledge networks. Involves both cellular processes (synaptic consolidation, hours) and systems-level processes (hippocampal-cortical consolidation, days to years). Sleep plays a critical role, particularly for declarative memory. The gap between spaced review sessions is not dead time; it is when consolidation occurs, making the spacing interval functionally important for learning, not just structurally convenient for scheduling.
 
-#### 39. [DEFINITION] [[Fluency Illusion]] (Cognitive Psychology) *(Line 570)*
+#### 39. [DEFINITION] [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] (Cognitive Psychology) *(Line 570)*
 
-> [!definition] [[Fluency Illusion]] (Cognitive Psychology)
+> [!definition] [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] (Cognitive Psychology)
 > The false sense of learning produced by fluent, easy processing of familiar material. Re-reading a note produces high fluency — the content is recognized, processing is effortless — which is interpreted as "knowing" the material. But this fluency reflects recognition cues *in the text*, not durable memory for the content. The fluency illusion is the primary mechanism by which passive re-reading misleads learners about their actual retention level, producing overconfident JOLs.
 
-#### 40. [DEFINITION] [[Generation Effect]] (Cognitive Psychology — Slamecka & Graf, 1978) *(Line 573)*
+#### 40. [DEFINITION] [[Generation-Effect|Generation Effect]] (Cognitive Psychology — Slamecka & Graf, 1978) *(Line 573)*
 
-> [!definition] [[Generation Effect]] (Cognitive Psychology — Slamecka & Graf, 1978)
+> [!definition] [[Generation-Effect|Generation Effect]] (Cognitive Psychology — Slamecka & Graf, 1978)
 > The empirical finding that memory for items that learners generate (from fragmentary cues, anagram solving, or self-synthesis) is substantially stronger than memory for items that are simply read. The generation effect is a desirable difficulty: generating requires more cognitive effort than reading, but produces superior encoding depth and subsequent retrievability. For PKBs: synthesizing ideas in your own words (generation) produces stronger long-term retention than copying source material verbatim (transcription).
 
-#### 41. [DEFINITION] [[Retrieval-Induced Forgetting]] (Cognitive Psychology — Anderson, Bjork & Bjork, 1994) *(Line 576)*
+#### 41. [DEFINITION] [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]] (Cognitive Psychology — Anderson, Bjork & Bjork, 1994) *(Line 576)*
 
-> [!definition] [[Retrieval-Induced Forgetting]] (Cognitive Psychology — Anderson, Bjork & Bjork, 1994)
+> [!definition] [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]] (Cognitive Psychology — Anderson, Bjork & Bjork, 1994)
 > The phenomenon whereby retrieving some items from memory impairs the later retrieval of related, non-retrieved items from the same category. Demonstrates the competitive, inhibitory nature of memory retrieval: successfully retrieving a target involves suppressing competing traces. For PKB design: systematic retrieval practice of selected notes may impair retrieval of related unreviewed notes — an argument for comprehensive rather than highly selective review coverage within knowledge domains.
 
-#### 42. [DEFINITION] [[Transfer-Appropriate Processing]] (Cognitive Psychology — Morris, Bransford & Franks, 1977) *(Line 579)*
+#### 42. [DEFINITION] [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] (Cognitive Psychology — Morris, Bransford & Franks, 1977) *(Line 579)*
 
-> [!definition] [[Transfer-Appropriate Processing]] (Cognitive Psychology — Morris, Bransford & Franks, 1977)
+> [!definition] [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] (Cognitive Psychology — Morris, Bransford & Franks, 1977)
 > The principle that the degree to which prior processing enhances memory performance depends on the match between encoding processing type and retrieval processing type required. Different memory tasks (recall, recognition, application, explanation, transfer) are served by different types of encoding. For PKBs: retrieval practice formats should match intended use contexts — problem-solving retrieval practice for problem-solving application, conversational retrieval for conversational use, and so on.
 
-#### 43. [DEFINITION] [[Spaced Repetition Systems]] (Educational Technology — Leitner, 1972; Wozniak, 1985) *(Line 582)*
+#### 43. [DEFINITION] [[Spaced-Repetition-Systems|Spaced Repetition Systems]] (Educational Technology — Leitner, 1972; Wozniak, 1985) *(Line 582)*
 
-> [!definition] [[Spaced Repetition Systems]] (Educational Technology — Leitner, 1972; Wozniak, 1985)
+> [!definition] [[Spaced-Repetition-Systems|Spaced Repetition Systems]] (Educational Technology — Leitner, 1972; Wozniak, 1985)
 > Algorithmic systems for scheduling review of discrete knowledge items at expanding intervals based on demonstrated recall performance. Implements spacing effect and testing effect simultaneously. Common algorithms: SM-2 (Anki), FSRS (contemporary alternative). Primary limitation for PKBs: best suited for atomic, verifiable items; less suited for complex conceptual knowledge requiring integration and application across contexts.
 
-#### 44. [DEFINITION] [[Study-Phase Retrieval Hypothesis]] (Cognitive Psychology) *(Line 585)*
+#### 44. [DEFINITION] [[Study-Phase-Retrieval-Hypothesis|Study-Phase Retrieval Hypothesis]] (Cognitive Psychology) *(Line 585)*
 
-> [!definition] [[Study-Phase Retrieval Hypothesis]] (Cognitive Psychology)
+> [!definition] [[Study-Phase-Retrieval-Hypothesis|Study-Phase Retrieval Hypothesis]] (Cognitive Psychology)
 > One of the primary explanatory mechanisms for the spacing effect: each spaced review session involves retrieving previously encoded material from a partially-faded state, which itself functions as retrieval practice (testing effect). The more the memory has weakened during the spacing interval, the more effortful — and thus more beneficial — the retrieval at the next review session. Spacing manufactures testing effect conditions at every review session.
 
-#### 45. [DEFINITION] [[Encoding Variability]] (Cognitive Psychology) *(Line 588)*
+#### 45. [DEFINITION] [[Encoding-Variability|Encoding Variability]] (Cognitive Psychology) *(Line 588)*
 
-> [!definition] [[Encoding Variability]] (Cognitive Psychology)
-> The principle that spaced review sessions encode information against different contextual backgrounds (different times, states, surrounding cognitive material), producing a richer, more distributed memory representation with more potential retrieval cues. One of the contributing mechanisms to the spacing effect. Directly related to [[Encoding Specificity]]: encoding against multiple varied contexts produces multiple retrieval cues, increasing the probability that at least one will match future retrieval conditions.
+> [!definition] [[Encoding-Variability|Encoding Variability]] (Cognitive Psychology)
+> The principle that spaced review sessions encode information against different contextual backgrounds (different times, states, surrounding cognitive material), producing a richer, more distributed memory representation with more potential retrieval cues. One of the contributing mechanisms to the spacing effect. Directly related to [[Encoding-Specificity|Encoding Specificity]]: encoding against multiple varied contexts produces multiple retrieval cues, increasing the probability that at least one will match future retrieval conditions.
 
-#### 46. [DEFINITION] [[Retrieval-Oriented Note Architecture]] (Original Synthesis — This Report) *(Line 591)*
+#### 46. [DEFINITION] [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]] (Original Synthesis — This Report) *(Line 591)*
 
-> [!definition] [[Retrieval-Oriented Note Architecture]] (Original Synthesis — This Report)
+> [!definition] [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]] (Original Synthesis — This Report)
 > A PKB note design philosophy — developed in this report — that treats notes as retrieval training instruments rather than information storage units. RONA's five structural commitments: retrieval prompt first (written at creation), context preservation (problem/question that motivated the note), generative capture (written after closing the source), scheduled retrieval (first review date set at creation), and retrieval-before-review (active recall attempt required before re-reading). Grounded in the testing effect, encoding specificity, generation effect, and spacing effect.
 
 #### 47. [CITE] Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings. In J. Metcalfe & A. Shimamura (Eds.), *Metacognition: Knowing about knowing* (pp. 185–205). MIT Press. *(Line 596)*
@@ -558,7 +558,7 @@ extraction_summary:
 > 
 > **(2) Theoretical integrations**: Mechanistic explanations (study-phase retrieval hypothesis, encoding variability, consolidation) are theoretical frameworks with good empirical support but less certainty than the phenomena themselves. Competing explanations exist and may contribute additively to the observed effects.
 > 
-> **(3) Original cross-domain synthesis contributions**: The [[Retrieval-Oriented Note Architecture]] (RONA) framework, the analysis of PKBs as "designed around the wrong cognitive activities at the wrong times," and the connection between spacing consolidation and knowledge management's incubation concept are original analytical contributions developed in this report. They are grounded in established research but extend beyond what any single source articulates. They are flagged throughout as Claude's analytical synthesis, not established findings, and should be treated as theoretically motivated design hypotheses rather than empirically validated recommendations.
+> **(3) Original cross-domain synthesis contributions**: The [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]] (RONA) framework, the analysis of PKBs as "designed around the wrong cognitive activities at the wrong times," and the connection between spacing consolidation and knowledge management's incubation concept are original analytical contributions developed in this report. They are grounded in established research but extend beyond what any single source articulates. They are flagged throughout as Claude's analytical synthesis, not established findings, and should be treated as theoretically motivated design hypotheses rather than empirically validated recommendations.
 
 #### 59. [FURTHER-EXPLORATION] Deepening Your Framework *(Line 644)*
 
@@ -601,145 +601,145 @@ extraction_summary:
 - [[20-retrieval-enhanced-knowledge-networks-pkm-framework]]
 - [[Accommodation]]
 - [[Blocking]]
-- [[Cognitive Conflict]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Consolidation]]
-- [[Desirable Difficulties]]
-- [[Educational Psychology]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Emotion, Arousal, and Memory — When PKB Capture Moments Become Deeply Encoded]]
-- [[Encoding Specificity]]
-- [[Encoding Specificity Principle]]
-- [[Encoding Variability]]
-- [[Fluency Illusion]]
-- [[Forgetting Curve]]
+- [[Encoding-Specificity|Encoding Specificity]]
+- [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
+- [[Encoding-Variability|Encoding Variability]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
+- [[Forgetting-Curve|Forgetting Curve]]
 - [[Forgetting as Feature — The Productive Role of Forgetting in Knowledge Curation]]
-- [[Generation Effect]]
+- [[Generation-Effect|Generation Effect]]
 - [[How it relates]]
 - [[How this applies]]
 - [[Interleaving]]
-- [[Judgment of Learning]]
-- [[Knowledge Management]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Memory Consolidation]]
-- [[Metacognitive Monitoring]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Project or problem context]]
 - [[Psychology of Learning]]
 - [[Related concept]]
 - [[Report 05: Motivation Architecture]]
-- [[Retrieval Practice]]
-- [[Retrieval Practice Effect]]
+- [[Retrieval-Practice|Retrieval Practice]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]
 - [[Retrieval Practice Formats — A Taxonomy for Transfer-Appropriate PKB Design]]
 - [[Retrieval-Enhanced Knowledge Networks — Network-Level Consolidation in PKBs]]
-- [[Retrieval-Induced Forgetting]]
-- [[Retrieval-Oriented Note Architecture]]
-- [[Schema Theory]]
-- [[Self-Regulated Learning]]
-- [[Spaced Repetition Systems]]
-- [[Spacing Effect]]
-- [[Study-Phase Retrieval Hypothesis]]
-- [[Testing Effect]]
+- [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]
+- [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
+- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
+- [[Study-Phase-Retrieval-Hypothesis|Study-Phase Retrieval Hypothesis]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
 - [[The Calibration Problem — Training Accurate Metacognitive Judgment in PKB Practice]]
 - [[The Sleep-Learning Connection — Memory Consolidation, Targeted Memory Reactivation, and PKB Workflow Timing]]
-- [[Transfer-Appropriate Processing]]
+- [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Retrieval Practice]] | — | — | The Great PKB Paradox | 113 |
-| 2 | [[Spacing Effect]] | — | — | The Great PKB Paradox | 115 |
-| 3 | [[Testing Effect]] | — | — | The Great PKB Paradox | 115 |
+| 1 | [[Retrieval-Practice|Retrieval Practice]] | — | — | The Great PKB Paradox | 113 |
+| 2 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | The Great PKB Paradox | 115 |
+| 3 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | The Great PKB Paradox | 115 |
 | 4 | [[Interleaving]] | — | — | The Great PKB Paradox | 115 |
-| 5 | [[Desirable Difficulties]] | — | — | The Great PKB Paradox | 115 |
-| 6 | [[Encoding Specificity]] | — | — | The Great PKB Paradox | 115 |
-| 7 | [[Cognitive Psychology]] | — | — | The Disciplinary Intersection | 123 |
-| 8 | [[Forgetting Curve]] | — | — | The Disciplinary Intersection | 123 |
+| 5 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Great PKB Paradox | 115 |
+| 6 | [[Encoding-Specificity|Encoding Specificity]] | — | — | The Great PKB Paradox | 115 |
+| 7 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Disciplinary Intersection | 123 |
+| 8 | [[Forgetting-Curve|Forgetting Curve]] | — | — | The Disciplinary Intersection | 123 |
 | 9 | [[Memory Consolidation]] | — | — | The Disciplinary Intersection | 123 |
-| 10 | [[Encoding Specificity]] | — | — | The Disciplinary Intersection | 123 |
+| 10 | [[Encoding-Specificity|Encoding Specificity]] | — | — | The Disciplinary Intersection | 123 |
 | 11 | [[Psychology of Learning]] | — | — | The Disciplinary Intersection | 123 |
-| 12 | [[Spacing Effect]] | — | — | The Disciplinary Intersection | 123 |
-| 13 | [[Testing Effect]] | — | — | The Disciplinary Intersection | 123 |
+| 12 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | The Disciplinary Intersection | 123 |
+| 13 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | The Disciplinary Intersection | 123 |
 | 14 | [[Interleaving]] | — | — | The Disciplinary Intersection | 123 |
-| 15 | [[Desirable Difficulties]] | — | — | The Disciplinary Intersection | 123 |
-| 16 | [[Educational Psychology]] | — | — | The Disciplinary Intersection | 123 |
-| 17 | [[Knowledge Management]] | — | — | The Disciplinary Intersection | 123 |
+| 15 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Disciplinary Intersection | 123 |
+| 16 | [[Educational-Psychology|Educational Psychology]] | — | — | The Disciplinary Intersection | 123 |
+| 17 | [[Knowledge-Management|Knowledge Management]] | — | — | The Disciplinary Intersection | 123 |
 | 18 | [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] | — | — | Scope and Connections | 129 |
-| 19 | [[Schema Theory]] | — | — | Scope and Connections | 129 |
+| 19 | [[Schema-Theory|Schema Theory]] | — | — | Scope and Connections | 129 |
 | 20 | [[02-architecture-of-learning-pkm-framework-2026-03-13]] | — | — | Scope and Connections | 129 |
-| 21 | [[Cognitive Load Theory]] | — | — | Scope and Connections | 129 |
+| 21 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Scope and Connections | 129 |
 | 22 | [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] | — | — | Scope and Connections | 129 |
-| 23 | [[Self-Regulated Learning]] | — | — | Scope and Connections | 129 |
-| 24 | [[Retrieval-Oriented Note Architecture]] | — | — | Report Roadmap | 133 |
-| 25 | [[Forgetting Curve]] | — | — | The Memory Problem Every PKB User Faces | 148 |
-| 26 | [[Spacing Effect]] | — | — | The Memory Problem Every PKB User Faces | 151 |
-| 27 | [[Testing Effect]] | — | — | The Memory Problem Every PKB User Faces | 154 |
-| 28 | [[Retrieval Practice Effect]] | — | — | The Memory Problem Every PKB User Faces | 154 |
+| 23 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Scope and Connections | 129 |
+| 24 | [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]] | — | — | Report Roadmap | 133 |
+| 25 | [[Forgetting-Curve|Forgetting Curve]] | — | — | The Memory Problem Every PKB User Faces | 148 |
+| 26 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | The Memory Problem Every PKB User Faces | 151 |
+| 27 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | The Memory Problem Every PKB User Faces | 154 |
+| 28 | [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]] | — | — | The Memory Problem Every PKB User Faces | 154 |
 | 29 | [[Interleaving]] | — | — | The Memory Problem Every PKB User Faces | 157 |
-| 30 | [[Desirable Difficulties]] | — | — | The Memory Problem Every PKB User Faces | 160 |
-| 31 | [[Encoding Specificity Principle]] | — | — | The Memory Problem Every PKB User Faces | 163 |
-| 32 | [[Judgment of Learning]] | — | — | The Memory Problem Every PKB User Faces | 166 |
-| 33 | [[Metacognitive Monitoring]] | — | — | The Memory Problem Every PKB User Faces | 166 |
-| 34 | [[Fluency Illusion]] | — | — | The Memory Problem Every PKB User Faces | 167 |
-| 35 | [[Spaced Repetition Systems]] | — | — | The Memory Problem Every PKB User Faces | 169 |
-| 36 | [[Forgetting Curve]] | — | — | Initial Synthesis: Three Traditions, ... | 175 |
-| 37 | [[Encoding Specificity]] | — | — | Initial Synthesis: Three Traditions, ... | 175 |
-| 38 | [[Spacing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 175 |
-| 39 | [[Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 175 |
-| 40 | [[Judgment of Learning]] | — | — | Initial Synthesis: Three Traditions, ... | 175 |
-| 41 | [[Forgetting Curve]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
-| 42 | [[Spacing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
-| 43 | [[Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
-| 44 | [[Desirable Difficulties]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
+| 30 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Memory Problem Every PKB User Faces | 160 |
+| 31 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | The Memory Problem Every PKB User Faces | 163 |
+| 32 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | The Memory Problem Every PKB User Faces | 166 |
+| 33 | [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Memory Problem Every PKB User Faces | 166 |
+| 34 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | The Memory Problem Every PKB User Faces | 167 |
+| 35 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | The Memory Problem Every PKB User Faces | 169 |
+| 36 | [[Forgetting-Curve|Forgetting Curve]] | — | — | Initial Synthesis: Three Traditions, ... | 175 |
+| 37 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Initial Synthesis: Three Traditions, ... | 175 |
+| 38 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 175 |
+| 39 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 175 |
+| 40 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | Initial Synthesis: Three Traditions, ... | 175 |
+| 41 | [[Forgetting-Curve|Forgetting Curve]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
+| 42 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
+| 43 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
+| 44 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
 | 45 | [[Interleaving]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
-| 46 | [[Encoding Specificity]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
-| 47 | [[Judgment of Learning]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
-| 48 | [[Retrieval Practice]] | — | — | Initial Synthesis: Three Traditions, ... | 180 |
-| 49 | [[Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 184 |
-| 50 | [[Encoding Specificity]] | — | — | Initial Synthesis: Three Traditions, ... | 188 |
-| 51 | [[Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 188 |
-| 52 | [[Judgment of Learning]] | — | — | Metacognitive Monitoring: The Limitin... | 257 |
-| 53 | [[Encoding Specificity]] | — | — | The Spacing Mechanism: Forgetting as ... | 305 |
-| 54 | [[Schema Theory]] | — | — | The Interleaving Mechanism: Discrimin... | 318 |
-| 55 | [[Cognitive Conflict]] | — | — | The Interleaving Mechanism: Discrimin... | 321 |
+| 46 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
+| 47 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | Initial Synthesis: Three Traditions, ... | 177 |
+| 48 | [[Retrieval-Practice|Retrieval Practice]] | — | — | Initial Synthesis: Three Traditions, ... | 180 |
+| 49 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 184 |
+| 50 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Initial Synthesis: Three Traditions, ... | 188 |
+| 51 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Initial Synthesis: Three Traditions, ... | 188 |
+| 52 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | Metacognitive Monitoring: The Limitin... | 257 |
+| 53 | [[Encoding-Specificity|Encoding Specificity]] | — | — | The Spacing Mechanism: Forgetting as ... | 305 |
+| 54 | [[Schema-Theory|Schema Theory]] | — | — | The Interleaving Mechanism: Discrimin... | 318 |
+| 55 | [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] | — | — | The Interleaving Mechanism: Discrimin... | 321 |
 | 56 | [[Accommodation]] | — | — | The Interleaving Mechanism: Discrimin... | 321 |
-| 57 | [[Encoding Specificity]] | — | — | Encoding Specificity and Transfer-App... | 325 |
+| 57 | [[Encoding-Specificity|Encoding Specificity]] | — | — | Encoding Specificity and Transfer-App... | 325 |
 | 58 | [[Related concept]] | — | — | Design Principle 4: Context-Preservin... | 432 |
 | 59 | [[How it relates]] | — | — | Design Principle 4: Context-Preservin... | 432 |
 | 60 | [[Project or problem context]] | — | — | Design Principle 4: Context-Preservin... | 433 |
 | 61 | [[How this applies]] | — | — | Design Principle 4: Context-Preservin... | 433 |
 | 62 | [[Report 05: Motivation Architecture]] | — | — | Limitations and Honest Boundaries | 453 |
-| 63 | [[Testing Effect]] | — | — | Limitations and Honest Boundaries | 456 |
+| 63 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Limitations and Honest Boundaries | 456 |
 | 64 | [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] | — | — | Return-and-Deepen: Schema Theory Revi... | 503 |
-| 65 | [[Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 503 |
+| 65 | [[Schema-Theory|Schema Theory]] | — | — | Return-and-Deepen: Schema Theory Revi... | 503 |
 | 66 | [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] | — | — | Return-and-Deepen: Self-Regulated Lea... | 511 |
-| 67 | [[Self-Regulated Learning]] | — | — | Return-and-Deepen: Self-Regulated Lea... | 511 |
-| 68 | [[Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 532 |
+| 67 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Return-and-Deepen: Self-Regulated Lea... | 511 |
+| 68 | [[Schema-Theory|Schema Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 532 |
 | 69 | [[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] | — | — | Phase VII: PKB Connections & Cross-Re... | 532 |
-| 70 | [[Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 534 |
+| 70 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Phase VII: PKB Connections & Cross-Re... | 534 |
 | 71 | [[02-architecture-of-learning-pkm-framework-2026-03-13]] | — | — | Phase VII: PKB Connections & Cross-Re... | 534 |
-| 72 | [[Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 536 |
+| 72 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 536 |
 | 73 | [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] | — | — | Phase VII: PKB Connections & Cross-Re... | 536 |
-| 74 | [[Encoding Specificity Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 538 |
-| 75 | [[Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 540 |
-| 76 | [[Metacognitive Monitoring]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
-| 77 | [[Judgment of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
-| 78 | [[Retrieval-Oriented Note Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 544 |
+| 74 | [[Encoding-Specificity-Principle|Encoding Specificity Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 538 |
+| 75 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Phase VII: PKB Connections & Cross-Re... | 540 |
+| 76 | [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
+| 77 | [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] | — | — | Phase VII: PKB Connections & Cross-Re... | 542 |
+| 78 | [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 544 |
 | 79 | [[09-designing-the-learning-pkb-pkm-framework]] | — | — | Phase VII: PKB Connections & Cross-Re... | 548 |
 | 80 | [[12-the-reflective-pkb-pkm-framework]] | — | — | Phase VII: PKB Connections & Cross-Re... | 550 |
 | 81 | [[16-desirable-difficulties-by-design-pkm-framework]] | — | — | Phase VII: PKB Connections & Cross-Re... | 552 |
 | 82 | [[20-retrieval-enhanced-knowledge-networks-pkm-framework]] | — | — | Phase VII: PKB Connections & Cross-Re... | 554 |
 | 83 | [[Blocking]] | — | — | A. Lexicon of Key Terms | 564 |
 | 84 | [[Consolidation]] | — | — | A. Lexicon of Key Terms | 567 |
-| 85 | [[Fluency Illusion]] | — | — | A. Lexicon of Key Terms | 570 |
-| 86 | [[Generation Effect]] | — | — | A. Lexicon of Key Terms | 573 |
-| 87 | [[Retrieval-Induced Forgetting]] | — | — | A. Lexicon of Key Terms | 576 |
-| 88 | [[Transfer-Appropriate Processing]] | — | — | A. Lexicon of Key Terms | 579 |
-| 89 | [[Spaced Repetition Systems]] | — | — | A. Lexicon of Key Terms | 582 |
-| 90 | [[Study-Phase Retrieval Hypothesis]] | — | — | A. Lexicon of Key Terms | 585 |
-| 91 | [[Encoding Variability]] | — | — | A. Lexicon of Key Terms | 588 |
-| 92 | [[Encoding Specificity]] | — | — | A. Lexicon of Key Terms | 589 |
-| 93 | [[Retrieval-Oriented Note Architecture]] | — | — | A. Lexicon of Key Terms | 591 |
-| 94 | [[Retrieval-Oriented Note Architecture]] | — | — | C. Methodology and Sources Note | 640 |
+| 85 | [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] | — | — | A. Lexicon of Key Terms | 570 |
+| 86 | [[Generation-Effect|Generation Effect]] | — | — | A. Lexicon of Key Terms | 573 |
+| 87 | [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]] | — | — | A. Lexicon of Key Terms | 576 |
+| 88 | [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]] | — | — | A. Lexicon of Key Terms | 579 |
+| 89 | [[Spaced-Repetition-Systems|Spaced Repetition Systems]] | — | — | A. Lexicon of Key Terms | 582 |
+| 90 | [[Study-Phase-Retrieval-Hypothesis|Study-Phase Retrieval Hypothesis]] | — | — | A. Lexicon of Key Terms | 585 |
+| 91 | [[Encoding-Variability|Encoding Variability]] | — | — | A. Lexicon of Key Terms | 588 |
+| 92 | [[Encoding-Specificity|Encoding Specificity]] | — | — | A. Lexicon of Key Terms | 589 |
+| 93 | [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]] | — | — | A. Lexicon of Key Terms | 591 |
+| 94 | [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]] | — | — | C. Methodology and Sources Note | 640 |
 | 95 | [[Retrieval-Enhanced Knowledge Networks — Network-Level Consolidation in PKBs]] | — | — | D. Expansion Topics | 646 |
 | 96 | [[20-retrieval-enhanced-knowledge-networks-pkm-framework]] | — | — | D. Expansion Topics | 647 |
 | 97 | [[The Sleep-Learning Connection — Memory Consolidation, Targeted Memory Reactivation, and PKB Workflow Timing]] | — | — | D. Expansion Topics | 649 |
@@ -836,71 +836,71 @@ extraction_summary:
 - [[20-retrieval-enhanced-knowledge-networks-pkm-framework]]
 - [[Accommodation]]
 - [[Blocking]]
-- [[Cognitive Conflict]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
+- [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
 - [[Consolidation]]
-- [[Desirable Difficulties]]
-- [[Educational Psychology]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Educational-Psychology|Educational Psychology]]
 - [[Emotion, Arousal, and Memory — When PKB Capture Moments Become Deeply Encoded]]
-- [[Encoding Specificity]]
-- [[Encoding Specificity Principle]]
-- [[Encoding Variability]]
-- [[Fluency Illusion]]
-- [[Forgetting Curve]]
+- [[Encoding-Specificity|Encoding Specificity]]
+- [[Encoding-Specificity-Principle|Encoding Specificity Principle]]
+- [[Encoding-Variability|Encoding Variability]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
+- [[Forgetting-Curve|Forgetting Curve]]
 - [[Forgetting as Feature — The Productive Role of Forgetting in Knowledge Curation]]
-- [[Generation Effect]]
+- [[Generation-Effect|Generation Effect]]
 - [[How it relates]]
 - [[How this applies]]
 - [[Interleaving]]
-- [[Judgment of Learning]]
-- [[Knowledge Management]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
+- [[Knowledge-Management|Knowledge Management]]
 - [[Memory Consolidation]]
-- [[Metacognitive Monitoring]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Project or problem context]]
 - [[Psychology of Learning]]
 - [[Related concept]]
 - [[Report 05: Motivation Architecture]]
-- [[Retrieval Practice]]
-- [[Retrieval Practice Effect]]
+- [[Retrieval-Practice|Retrieval Practice]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Retrieval Practice Effect]]
 - [[Retrieval Practice Formats — A Taxonomy for Transfer-Appropriate PKB Design]]
 - [[Retrieval-Enhanced Knowledge Networks — Network-Level Consolidation in PKBs]]
-- [[Retrieval-Induced Forgetting]]
-- [[Retrieval-Oriented Note Architecture]]
-- [[Schema Theory]]
-- [[Self-Regulated Learning]]
-- [[Spaced Repetition Systems]]
-- [[Spacing Effect]]
-- [[Study-Phase Retrieval Hypothesis]]
-- [[Testing Effect]]
+- [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]
+- [[Retrieval-Oriented-Note-Architecture|Retrieval-Oriented Note Architecture]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
+- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
+- [[Study-Phase-Retrieval-Hypothesis|Study-Phase Retrieval Hypothesis]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
 - [[The Calibration Problem — Training Accurate Metacognitive Judgment in PKB Practice]]
 - [[The Sleep-Learning Connection — Memory Consolidation, Targeted Memory Reactivation, and PKB Workflow Timing]]
-- [[Transfer-Appropriate Processing]]
+- [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
 
 ### Frontmatter Relationships
 
 #### Related Concepts
 
-- [[Spacing Effect]]
-- [[Testing Effect]]
-- [[Retrieval Practice]]
+- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
+- [[Retrieval-Practice|Retrieval Practice]]
 - [[Interleaving]]
-- [[Desirable Difficulties]]
-- [[Encoding Specificity]]
-- [[Spaced Repetition Systems]]
-- [[Forgetting Curve]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Encoding-Specificity|Encoding Specificity]]
+- [[Spaced-Repetition-Systems|Spaced Repetition Systems]]
+- [[Forgetting-Curve|Forgetting Curve]]
 - [[Memory Consolidation]]
-- [[Transfer-Appropriate Processing]]
-- [[Generation Effect]]
-- [[Metacognitive Monitoring]]
-- [[Judgment of Learning]]
-- [[Fluency Illusion]]
-- [[Retrieval-Induced Forgetting]]
-- [[Personal Knowledge Management]]
-- [[Personal Knowledge Base]]
-- [[Self-Regulated Learning]]
-- [[Cognitive Load Theory]]
-- [[Schema Theory]]
+- [[Transfer-Appropriate-Processing|Transfer-Appropriate Processing]]
+- [[Generation-Effect|Generation Effect]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]
+- [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]
+- [[Retrieval-Induced-Forgetting|Retrieval-Induced Forgetting]]
+- [[Personal-Knowledge-Management|Personal Knowledge Management]]
+- [[Personal-Knowledge-Base|Personal Knowledge Base]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Schema-Theory|Schema Theory]]
 
 #### Link Related
 

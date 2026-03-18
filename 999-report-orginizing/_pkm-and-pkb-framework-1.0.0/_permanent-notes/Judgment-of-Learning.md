@@ -68,14 +68,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
-  - "[[Anderson et al. (1994)]]"
-  - "[[Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]"
-  - "[[Behavioral Science]]"
-  - "[[Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
-  - "[[Calibration Tracking]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
+  - "[[Anderson-et-al.-1994|Anderson et al. (1994)]]"
+  - "[[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]]"
+  - "[[Behavioral-Science|Behavioral Science]]"
+  - "[[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]"
+  - "[[Calibration-Tracking|Calibration Tracking]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -155,4 +155,4 @@ importance: high
 - [[wiki-links]]
 
 **Related concepts:**
-[[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Anderson et al. (1994)]] · [[Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]] · [[Behavioral Science]] · [[Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]] · [[Calibration Tracking]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[David Rumelhart]] · [[Desirable Difficulties]] · [[Dewey Reflective Inquiry]] · [[Ease of Learning]] · [[Educational Philosophy]] · [[Educational Psychology]] · [[Elaborative Interrogation]]
+[[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Anderson-et-al.-1994|Anderson et al. (1994)]] · [[Anki-and-Spaced-Repetition-in-Obsidian-—-Practical-Integration-Patterns|Anki and Spaced Repetition in Obsidian — Practical Integration Patterns]] · [[Behavioral-Science|Behavioral Science]] · [[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]] · [[Calibration-Tracking|Calibration Tracking]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[David-Rumelhart|David Rumelhart]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]] · [[Ease-of-Learning-—-EOL|Ease of Learning]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]] · [[Elaborative-Interrogation|Elaborative Interrogation]]

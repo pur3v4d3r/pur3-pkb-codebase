@@ -58,16 +58,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Knowledge Integration]]"
-  - "[[Conceptual Change]]"
-  - "[[Small-World Networks]]"
-  - "[[Betweenness Centrality]]"
-  - "[[Strength of Weak Ties]]"
-  - "[[Threshold Concepts]]"
-  - "[[Inert Knowledge]]"
-  - "[[Ontological Category Shifts]]"
-  - "[[Progressive Differentiation]]"
-  - "[[Integrative Reconciliation]]"
+  - "[[Knowledge-Integration|Knowledge Integration]]"
+  - "[[Conceptual-Change|Conceptual Change]]"
+  - "[[Small-World-Networks|Small-World Networks]]"
+  - "[[Betweenness-Centrality|Betweenness Centrality]]"
+  - "[[Strength-of-Weak-Ties|Strength of Weak Ties]]"
+  - "[[Threshold-Concepts|Threshold Concepts]]"
+  - "[[Inert-Knowledge|Inert Knowledge]]"
+  - "[[Ontological-Category-Shifts|Ontological Category Shifts]]"
+  - "[[Progressive-Differentiation|Progressive Differentiation]]"
+  - "[[Integrative-Reconciliation|Integrative Reconciliation]]"
 
 broader:
   - "[[]]"
@@ -76,14 +76,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Active Note-Making]]"
-  - "[[Alfred North Whitehead]]"
-  - "[[Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
-  - "[[Assimilation and Accommodation]]"
-  - "[[Cognitive Alignment Principle]]"
-  - "[[Cognitive Flexibility Theory and PKB Multi-Representational Design]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Collins and Loftus]]"
+  - "[[Active-Note-Making|Active Note-Making]]"
+  - "[[Alfred-North-Whitehead|Alfred North Whitehead]]"
+  - "[[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]]"
+  - "[[Assimilation-and-Accommodation|Assimilation and Accommodation]]"
+  - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
+  - "[[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Collins-and-Loftus|Collins and Loftus]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -116,7 +116,7 @@ importance: high
 # Knowledge Integration
 
 > [!definition] **Knowledge Integration**
-> The cognitive and social process by which learners connect, sort, distinguish, and organize multiple ideas about a phenomenon into a coherent, personally meaningful framework. [[Knowledge Integration]] is distinguished from mere accumulation by its requirement that ideas be *actively related* — not just co-present in memory or co-located in a filing system, but connected in such a way that each idea modifies how the others are understood. Linn's [[Knowledge Integration Framework]] identifies four key processes: *eliciting* existing ideas (making current understanding explicit), *adding* new ideas (encounter with new conceptual material), *developing criteria* for distinguishing among ideas (building evaluative standards for when ideas apply), and *sorting* ideas (reorganizing the network based on accumulated criteria). A learner who completes only the first two processes has accumulated without integrating.
+> The cognitive and social process by which learners connect, sort, distinguish, and organize multiple ideas about a phenomenon into a coherent, personally meaningful framework. [[Knowledge-Integration|Knowledge Integration]] is distinguished from mere accumulation by its requirement that ideas be *actively related* — not just co-present in memory or co-located in a filing system, but connected in such a way that each idea modifies how the others are understood. Linn's [[Knowledge Integration Framework]] identifies four key processes: *eliciting* existing ideas (making current understanding explicit), *adding* new ideas (encounter with new conceptual material), *developing criteria* for distinguishing among ideas (building evaluative standards for when ideas apply), and *sorting* ideas (reorganizing the network based on accumulated criteria). A learner who completes only the first two processes has accumulated without integrating.
 
 ## Core Explanation
 
@@ -146,4 +146,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Active Note-Making]] · [[Alfred North Whitehead]] · [[Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Assimilation and Accommodation]] · [[Betweenness Centrality]] · [[Boundary Objects]] · [[Cognitive Alignment Principle]] · [[Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Cognitive Psychology]] · [[Collins and Loftus]] · [[Conceptual Change]] · [[Critical Thinking]] · [[David Ausubel]] · [[Duncan Watts]] · [[Educational Psychology]]
+[[Active-Note-Making|Active Note-Making]] · [[Alfred-North-Whitehead|Alfred North Whitehead]] · [[Analogical-Reasoning-as-Integration-Engine-Structural-Mapping-Theory|Analogical Reasoning as Integration Engine: Structural Mapping Theory]] · [[Assimilation-and-Accommodation|Assimilation and Accommodation]] · [[Betweenness-Centrality|Betweenness Centrality]] · [[Boundary-Objects|Boundary Objects]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Flexibility-Theory-and-PKB-Multi-Representational-Design|Cognitive Flexibility Theory and PKB Multi-Representational Design]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collins-and-Loftus|Collins and Loftus]] · [[Conceptual-Change|Conceptual Change]] · [[Critical-Thinking|Critical Thinking]] · [[David-Ausubel|David Ausubel]] · [[Duncan-Watts|Duncan Watts]] · [[Educational-Psychology|Educational Psychology]]

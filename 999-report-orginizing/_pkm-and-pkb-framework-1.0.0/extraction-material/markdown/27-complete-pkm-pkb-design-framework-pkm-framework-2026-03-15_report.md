@@ -292,27 +292,27 @@ extraction_summary:
 > [!connections-and-links] Untitled
 > **Internal PKB Connections:**
 > 
-> - **[[Report 01: Foundations of Knowledge Architecture]]** — The foundational report of the series. The [[Cognitive Alignment Principle]] introduced in Report 01 is the direct conceptual ancestor of Foundational Principle 1 (Cognitive Isomorphism) and the [[Integrated Learning System Model]]. This report synthesizes and elevates Report 01's central insight to the meta-framework level, showing how it generates and constrains all other design principles. Any practitioner reading only two reports in the series should read Reports 01 and 27.
+> - **[[Report 01: Foundations of Knowledge Architecture]]** — The foundational report of the series. The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] introduced in Report 01 is the direct conceptual ancestor of Foundational Principle 1 (Cognitive Isomorphism) and the [[Integrated-Learning-System-Model|Integrated Learning System Model]]. This report synthesizes and elevates Report 01's central insight to the meta-framework level, showing how it generates and constrains all other design principles. Any practitioner reading only two reports in the series should read Reports 01 and 27.
 > 
 > - **[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]** — Report 04 established the psychological mechanism — the SRL cycle — that Foundational Principle 3 (Regulatory Embedding) operationalizes structurally. The relationship between these reports is mechanism-to-structure: Report 04 explains *why* regulatory embedding works; Report 27 specifies *what structural features* must be implemented to achieve it. Together they constitute the most complete account of metacognitive PKM in the series.
 > 
-> - **[[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]** — Report 09 is the direct design-specification predecessor to this report's complete design specification. The [[Cognitive Architecture Isomorphism Principle]] (Report 09) is incorporated and extended as Foundational Principle 1 here. Report 09 provides the deepest evidence base and the most detailed structural specifications; this report situates those specifications within the unified framework. Practitioners implementing the design specification should begin with Report 09.
+> - **[[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]]** — Report 09 is the direct design-specification predecessor to this report's complete design specification. The [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] (Report 09) is incorporated and extended as Foundational Principle 1 here. Report 09 provides the deepest evidence base and the most detailed structural specifications; this report situates those specifications within the unified framework. Practitioners implementing the design specification should begin with Report 09.
 > 
-> - **[[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]** — Report 25 provides the network-science grounding for Refinement Principle 3 (Integration Metabolism) and informs the [[Integrated Learning System Model]]'s second structural property (Constructive Processing Engine). The small-world network topology and hub-note architecture developed in Report 25 are necessary components of a fully functional PKB. Report 25's diagnostic of the accumulation problem is perhaps the most practically important finding for practitioners with mature PKBs.
+> - **[[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]]** — Report 25 provides the network-science grounding for Refinement Principle 3 (Integration Metabolism) and informs the [[Integrated-Learning-System-Model|Integrated Learning System Model]]'s second structural property (Constructive Processing Engine). The small-world network topology and hub-note architecture developed in Report 25 are necessary components of a fully functional PKB. Report 25's diagnostic of the accumulation problem is perhaps the most practically important finding for practitioners with mature PKBs.
 > 
-> - **[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]** — Report 26 provides the systems-theory grounding for the third structural property of the [[Integrated Learning System Model]] (Self-Regulating Adaptive System). The [[Learning Metabolism]] concept from Report 26 becomes, in this report, the capstone property of a fully functional PKB. Reports 26 and 27 together constitute the fullest account of what it means for a PKB to function as a system rather than a tool.
+> - **[[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]** — Report 26 provides the systems-theory grounding for the third structural property of the [[Integrated-Learning-System-Model|Integrated Learning System Model]] (Self-Regulating Adaptive System). The [[Learning-Metabolism|Learning Metabolism]] concept from Report 26 becomes, in this report, the capstone property of a fully functional PKB. Reports 26 and 27 together constitute the fullest account of what it means for a PKB to function as a system rather than a tool.
 > 
 > - **[[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]]** and **[[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]]** — These two reports jointly ground Foundational Principle 4 (Motivational Alignment) and Refinement Principle 1 (Evolutionary Architecture). The SDT framework from Report 05 explains the psychological needs the PKB must satisfy; the long-term motivation mechanisms from Report 19 explain how to sustain satisfaction of those needs across years of practice. Report 27's design specification cannot be faithfully implemented without understanding the motivational claims of these reports.
 > 
-> - **[[Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store]]** — Report 22 provides the necessary epistemic humility that bounds the [[Integrated Learning System Model]]. The model specifies what a PKB *can* be; Report 22 specifies what it *cannot*. Every practitioner committed to using the framework should hold Report 22's argument in permanent tension with this report's aspirational claims. A PKB that mistakes itself for a complete account of the practitioner's knowing has mistaken a powerful partial account for the whole.
+> - **[[Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store]]** — Report 22 provides the necessary epistemic humility that bounds the [[Integrated-Learning-System-Model|Integrated Learning System Model]]. The model specifies what a PKB *can* be; Report 22 specifies what it *cannot*. Every practitioner committed to using the framework should hold Report 22's argument in permanent tension with this report's aspirational claims. A PKB that mistakes itself for a complete account of the practitioner's knowing has mistaken a powerful partial account for the whole.
 > 
 > **Cross-Report Links (PKM/PKB Framework Series):**
 > 
-> - **[[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]** — Report 28 takes up the philosophical implications of the [[Integrated Learning System Model]]. What epistemological commitments does the model presuppose? Is the pragmatist account of knowledge implied by the model philosophically defensible? Report 28 provides the philosophical foundation that this report's practical framework rests upon — and it may, on reflection, require refinements to the framework's assumptions about the nature of knowledge itself.
+> - **[[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]** — Report 28 takes up the philosophical implications of the [[Integrated-Learning-System-Model|Integrated Learning System Model]]. What epistemological commitments does the model presuppose? Is the pragmatist account of knowledge implied by the model philosophically defensible? Report 28 provides the philosophical foundation that this report's practical framework rests upon — and it may, on reflection, require refinements to the framework's assumptions about the nature of knowledge itself.
 > 
-> - **[[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]** — Report 30 will assess how the [[Integrated Learning System Model]] changes when AI-assisted knowledge processing becomes genuinely capable. The three structural properties — isomorphic external memory, constructive processing engine, self-regulating adaptive system — may all be profoundly transformed by AI co-processing. This report establishes the pre-AI baseline; Report 30 interrogates its future.
+> - **[[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]** — Report 30 will assess how the [[Integrated-Learning-System-Model|Integrated Learning System Model]] changes when AI-assisted knowledge processing becomes genuinely capable. The three structural properties — isomorphic external memory, constructive processing engine, self-regulating adaptive system — may all be profoundly transformed by AI co-processing. This report establishes the pre-AI baseline; Report 30 interrogates its future.
 > 
-> **Synthetic Observation**: The pattern of connections to this report reveals its structural role in the series: it is the hub node of the knowledge graph, connected to every preceding report (directly or by implication) and feeding into every subsequent one. The [[Integrated Learning System Model]] is the conceptual center of gravity around which all thirty reports orbit. Reports 01-26 generate the evidence and principles that constitute the model; Reports 28-30 interrogate, extend, and project the model into philosophical, ethical, and future territory. Report 27 is, in this sense, the most connected node in the framework's knowledge graph — the bridge between the foundational-to-synthesis arc and the meta-framework arc.
+> **Synthetic Observation**: The pattern of connections to this report reveals its structural role in the series: it is the hub node of the knowledge graph, connected to every preceding report (directly or by implication) and feeding into every subsequent one. The [[Integrated-Learning-System-Model|Integrated Learning System Model]] is the conceptual center of gravity around which all thirty reports orbit. Reports 01-26 generate the evidence and principles that constitute the model; Reports 28-30 interrogate, extend, and project the model into philosophical, ethical, and future territory. Report 27 is, in this sense, the most connected node in the framework's knowledge graph — the bridge between the foundational-to-synthesis arc and the meta-framework arc.
 
 #### 24. [DEFINITION] Integrated Learning System Model (Original Synthesis, Report 27) *(Line 506)*
 
@@ -448,16 +448,16 @@ extraction_summary:
 > 
 > **Limitations**: The report inherits the evidential limitations of the underlying series — the research base is primarily experimental cognitive science and educational psychology, with less coverage of practitioner knowledge, embodied cognition, and social knowledge construction. The design specification's specific implementation recommendations involve inferential steps from research findings to PKB design decisions that have not been directly empirically validated in PKB contexts.
 > 
-> **Claim types in this report**: (1) *Empirically established claims* (the five convergence zones reflect genuine cross-disciplinary research agreement — high confidence); (2) *Theoretical integrations* (the twelve master principles derive from evidence but involve inferential translation steps — moderate-to-high confidence); (3) *Original analytical synthesis* (the [[Integrated Learning System Model]] and the [[Five Convergence Zones]] framework are Claude's synthetic contributions — explicitly flagged as such, not established findings). The distinction between these claim types is essential for the practitioner's calibrated engagement with the framework.
+> **Claim types in this report**: (1) *Empirically established claims* (the five convergence zones reflect genuine cross-disciplinary research agreement — high confidence); (2) *Theoretical integrations* (the twelve master principles derive from evidence but involve inferential translation steps — moderate-to-high confidence); (3) *Original analytical synthesis* (the [[Integrated-Learning-System-Model|Integrated Learning System Model]] and the [[Five-Convergence-Zones|Five Convergence Zones]] framework are Claude's synthetic contributions — explicitly flagged as such, not established findings). The distinction between these claim types is essential for the practitioner's calibrated engagement with the framework.
 
 #### 50. [FURTHER-EXPLORATION] Deepening Your Framework *(Line 597)*
 
 > [!further-exploration] Deepening Your Framework
 > > [!topic-idea] [[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]
-> > The [[Integrated Learning System Model]] rests on implicit epistemological commitments — about the nature of knowledge, the conditions for understanding, the relationship between individual and collective knowing. Report 28 makes these commitments explicit and subjects them to philosophical scrutiny: Are the pragmatist assumptions of the framework defensible? What do [[Stoic]] and [[Socratic]] traditions add to or complicate in the model? What does it mean to "know" something in a PKB context, given that notes are always partial, perspectival, and revisable? Essential reading for practitioners who want to understand the philosophical foundations beneath the design framework.
+> > The [[Integrated-Learning-System-Model|Integrated Learning System Model]] rests on implicit epistemological commitments — about the nature of knowledge, the conditions for understanding, the relationship between individual and collective knowing. Report 28 makes these commitments explicit and subjects them to philosophical scrutiny: Are the pragmatist assumptions of the framework defensible? What do [[Stoic]] and [[Socratic]] traditions add to or complicate in the model? What does it mean to "know" something in a PKB context, given that notes are always partial, perspectival, and revisable? Essential reading for practitioners who want to understand the philosophical foundations beneath the design framework.
 > 
-> > [!topic-idea] [[Collaborative PKM — Social Knowledge Construction in Connected PKBs]]
-> > The framework, as developed across twenty-seven reports, focuses primarily on individual PKM practice. But knowledge is built in dialogue — with books, mentors, research communities, intellectual partners. How do the twelve master principles extend or require modification for collaborative knowledge work? How does the [[SECI Model]]'s socialization and externalization processes play out when multiple PKBs interact? What structural features would a genuinely collaborative PKB ecosystem require? This expansion represents a significant unaddressed frontier in the framework.
+> > [!topic-idea] [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]]
+> > The framework, as developed across twenty-seven reports, focuses primarily on individual PKM practice. But knowledge is built in dialogue — with books, mentors, research communities, intellectual partners. How do the twelve master principles extend or require modification for collaborative knowledge work? How does the [[SECI-Model|SECI Model]]'s socialization and externalization processes play out when multiple PKBs interact? What structural features would a genuinely collaborative PKB ecosystem require? This expansion represents a significant unaddressed frontier in the framework.
 > 
 > > [!topic-idea] [[PKB Archaeology — Designing for Long-Term Vault Succession]]
 > > The framework addresses PKB design at any given moment and the evolutionary trajectory from novice to expert. But what happens over 15-20 years of intensive PKB practice? A vault of 30,000 notes built over two decades will contain layers of obsolete, superseded, and outdated thinking alongside mature, highly developed knowledge. How should the architecture anticipate succession — the graceful deprecation of early-stage organizational decisions that no longer serve? This is a design challenge unique to long-term PKM that the framework does not yet address.
@@ -466,7 +466,7 @@ extraction_summary:
 > > Report 22 identifies the limits of explicit knowledge capture. This expansion explores those limits in depth: what kinds of knowing — aesthetic judgment, practical wisdom, embodied skill, relational sensitivity — cannot be captured in notes, and what complementary practices alongside PKM might honor these forms of knowing? How should the practitioner who takes the tacit knowledge argument seriously design a life of learning that is not dominated by note-taking?
 > 
 > > [!topic-idea] [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]
-> > The most consequential open question facing the framework: how does the [[Integrated Learning System Model]] transform when AI systems become capable co-processors of knowledge? The three structural properties — isomorphic external memory, constructive processing engine, self-regulating adaptive system — may all be changed by AI collaboration. Does AI assistance enhance or undermine the active construction imperative? Can a PKB remain a genuine learning instrument if AI performs the effortful processing? Report 30 addresses these questions directly.
+> > The most consequential open question facing the framework: how does the [[Integrated-Learning-System-Model|Integrated Learning System Model]] transform when AI systems become capable co-processors of knowledge? The three structural properties — isomorphic external memory, constructive processing engine, self-regulating adaptive system — may all be changed by AI collaboration. Does AI assistance enhance or undermine the active construction imperative? Can a PKB remain a genuine learning instrument if AI performs the effortful processing? Report 30 addresses these questions directly.
 > 
 > > [!topic-idea] [[Measuring PKM Effectiveness — Empirical Methods for Evaluating Your Own System]]
 > > The framework provides structural design principles but does not specify how the practitioner can empirically evaluate whether their PKB is actually working as a learning instrument. What would a rigorous self-assessment methodology look like? What data could a practitioner collect from their vault — link density growth, retrieval performance on randomly sampled notes, transfer rate of PKB knowledge to real-world application — to evaluate the framework's implementation? This expansion addresses the measurement gap in the framework.
@@ -481,54 +481,54 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Autonomy]]
-- [[Cognitive Alignment Principle]]
-- [[Cognitive Architecture Isomorphism Principle]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
-- [[Collaborative PKM — Social Knowledge Construction in Connected PKBs]]
+- [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
+- [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]]
 - [[Competence]]
-- [[Conceptual Change Theory]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[Constructivism]]
-- [[Desirable Difficulties]]
-- [[Dewey's Reflective Inquiry]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]
 - [[Dunning-Kruger]]
-- [[Educational Philosophy]]
-- [[Educational Psychology]]
-- [[Elaborative Interrogation]]
-- [[Expert Knowledge Organization]]
-- [[Expertise Reversal Effect]]
-- [[Faceted Classification]]
+- [[Educational-Philosophy|Educational Philosophy]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Expert-Knowledge-Organization|Expert Knowledge Organization]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
+- [[Faceted-Classification|Faceted Classification]]
 - [[Feedback Systems]]
-- [[Five Convergence Zones]]
+- [[Five-Convergence-Zones|Five Convergence Zones]]
 - [[Formative Feedback]]
-- [[Habit Formation]]
-- [[Heutagogical Self-Design]]
+- [[Habit-Formation|Habit Formation]]
+- [[Heutagogical-Self-Design|Heutagogical Self-Design]]
 - [[Heutagogy]]
-- [[Illusion of Knowing]]
+- [[Illusion-of-Knowing|Illusion of Knowing]]
 - [[Information Foraging Theory]]
-- [[Information Science]]
-- [[Instructional Design]]
-- [[Integrated Learning System Model]]
+- [[Information-Science|Information Science]]
+- [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
+- [[Integrated-Learning-System-Model|Integrated Learning System Model]]
 - [[Integration Problem]]
-- [[Interest Development Theory]]
+- [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]
 - [[Interest Taxonomy]]
-- [[Intrinsic Motivation]]
-- [[Knowledge Integration]]
-- [[Knowledge Management]]
-- [[Kolb's Experiential Learning Cycle]]
-- [[Learning Experience Design]]
-- [[Learning Metabolism]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
+- [[Knowledge-Integration|Knowledge Integration]]
+- [[Knowledge-Management|Knowledge Management]]
+- [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
+- [[Learning-Experience-Design|Learning Experience Design]]
+- [[Learning-Metabolism|Learning Metabolism]]
 - [[Link Annotation]]
 - [[Measuring PKM Effectiveness — Empirical Methods for Evaluating Your Own System]]
 - [[Metacognition]]
-- [[Metacognitive Monitoring]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Network Science]]
 - [[Nonaka's SECI Model]]
 - [[Obsidian]]
 - [[PKB Archaeology — Designing for Long-Term Vault Succession]]
-- [[Pragmatist Epistemology]]
+- [[Pragmatist-Epistemology|Pragmatist Epistemology]]
 - [[Relatedness]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
@@ -540,153 +540,153 @@ extraction_summary:
 - [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]
 - [[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]
-- [[Retrieval Practice]]
-- [[SECI Model]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
+- [[Retrieval-Practice|Retrieval Practice]]
+- [[SECI-Model|SECI Model]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Explanation]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Socratic]]
 - [[Socratic Elenchus]]
-- [[Socratic Method]]
+- [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Socratic Questioning]]
-- [[Spacing Effect]]
-- [[Spreading Activation]]
+- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
+- [[Spreading-Activation|Spreading Activation]]
 - [[Stoic]]
 - [[Stoic Discipline and Virtue]]
-- [[Stoic Philosophy]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoic Reflective Practice]]
 - [[Systems Theory]]
-- [[Tacit Knowledge]]
-- [[Testing Effect]]
+- [[Tacit-Knowledge|Tacit Knowledge]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
 - [[The Embodied PKM Practitioner — What Text-Based Notes Miss]]
-- [[Transfer of Learning]]
-- [[Working Memory]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Working-Memory|Working Memory]]
 - [[Zimmerman's Self-Regulated Learning]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Cognitive Psychology]] | — | — | The Moment of Integration | 134 |
-| 2 | [[Schema Theory]] | — | — | The Moment of Integration | 134 |
-| 3 | [[Cognitive Load Theory]] | — | — | The Moment of Integration | 134 |
-| 4 | [[Working Memory]] | — | — | The Moment of Integration | 134 |
-| 5 | [[Self-Regulated Learning]] | — | — | The Moment of Integration | 134 |
+| 1 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | The Moment of Integration | 134 |
+| 2 | [[Schema-Theory|Schema Theory]] | — | — | The Moment of Integration | 134 |
+| 3 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | The Moment of Integration | 134 |
+| 4 | [[Working-Memory|Working Memory]] | — | — | The Moment of Integration | 134 |
+| 5 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | The Moment of Integration | 134 |
 | 6 | [[Metacognition]] | — | — | The Moment of Integration | 134 |
 | 7 | [[Constructivism]] | — | — | The Moment of Integration | 134 |
-| 8 | [[Pragmatist Epistemology]] | — | — | The Moment of Integration | 134 |
-| 9 | [[Self-Determination Theory]] | — | — | The Moment of Integration | 134 |
-| 10 | [[Intrinsic Motivation]] | — | — | The Moment of Integration | 134 |
-| 11 | [[Desirable Difficulties]] | — | — | The Moment of Integration | 134 |
-| 12 | [[Retrieval Practice]] | — | — | The Moment of Integration | 134 |
-| 13 | [[Stoic Philosophy]] | — | — | The Moment of Integration | 134 |
+| 8 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | The Moment of Integration | 134 |
+| 9 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Moment of Integration | 134 |
+| 10 | [[Intrinsic-Motivation|Intrinsic Motivation]] | — | — | The Moment of Integration | 134 |
+| 11 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | The Moment of Integration | 134 |
+| 12 | [[Retrieval-Practice|Retrieval Practice]] | — | — | The Moment of Integration | 134 |
+| 13 | [[Stoic-Philosophy|Stoic Philosophy]] | — | — | The Moment of Integration | 134 |
 | 14 | [[Socratic Questioning]] | — | — | The Moment of Integration | 134 |
-| 15 | [[Knowledge Management]] | — | — | The Moment of Integration | 134 |
-| 16 | [[Information Science]] | — | — | The Moment of Integration | 134 |
-| 17 | [[Instructional Design]] | — | — | The Moment of Integration | 134 |
-| 18 | [[Learning Experience Design]] | — | — | The Moment of Integration | 134 |
+| 15 | [[Knowledge-Management|Knowledge Management]] | — | — | The Moment of Integration | 134 |
+| 16 | [[Information-Science|Information Science]] | — | — | The Moment of Integration | 134 |
+| 17 | [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]] | — | — | The Moment of Integration | 134 |
+| 18 | [[Learning-Experience-Design|Learning Experience Design]] | — | — | The Moment of Integration | 134 |
 | 19 | [[Heutagogy]] | — | — | The Moment of Integration | 134 |
-| 20 | [[Tacit Knowledge]] | — | — | The Moment of Integration | 134 |
+| 20 | [[Tacit-Knowledge|Tacit Knowledge]] | — | — | The Moment of Integration | 134 |
 | 21 | [[Network Science]] | — | — | The Moment of Integration | 134 |
 | 22 | [[Feedback Systems]] | — | — | The Moment of Integration | 134 |
 | 23 | [[Obsidian]] | — | — | Scope and What This Report Is Not | 148 |
-| 24 | [[Cognitive Psychology]] | — | — | Cross-Domain Preview | 152 |
-| 25 | [[Educational Psychology]] | — | — | Cross-Domain Preview | 152 |
-| 26 | [[Knowledge Management]] | — | — | Cross-Domain Preview | 152 |
-| 27 | [[Educational Philosophy]] | — | — | Cross-Domain Preview | 152 |
+| 24 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] | — | — | Cross-Domain Preview | 152 |
+| 25 | [[Educational-Psychology|Educational Psychology]] | — | — | Cross-Domain Preview | 152 |
+| 26 | [[Knowledge-Management|Knowledge Management]] | — | — | Cross-Domain Preview | 152 |
+| 27 | [[Educational-Philosophy|Educational Philosophy]] | — | — | Cross-Domain Preview | 152 |
 | 28 | [[Systems Theory]] | — | — | Cross-Domain Preview | 152 |
-| 29 | [[Schema Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
-| 30 | [[Spreading Activation]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
-| 31 | [[Cognitive Load Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
-| 32 | [[Expert Knowledge Organization]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
+| 29 | [[Schema-Theory|Schema Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
+| 30 | [[Spreading-Activation|Spreading Activation]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
+| 31 | [[Cognitive-Load-Theory|Cognitive Load Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
+| 32 | [[Expert-Knowledge-Organization|Expert Knowledge Organization]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
 | 33 | [[Information Foraging Theory]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
-| 34 | [[SECI Model]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
-| 35 | [[Cognitive Architecture Isomorphism Principle]] | — | — | Convergence Zone 1: The Organizationa... | 199 |
+| 34 | [[SECI-Model|SECI Model]] | — | — | Convergence Zone 1: The Organizationa... | 197 |
+| 35 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | Convergence Zone 1: The Organizationa... | 199 |
 | 36 | [[Constructivism]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
-| 37 | [[Desirable Difficulties]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
-| 38 | [[Elaborative Interrogation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
+| 37 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
+| 38 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 39 | [[Self-Explanation]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
-| 40 | [[Socratic Method]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
-| 41 | [[Pragmatist Epistemology]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
+| 40 | [[Socratic-Method-Elenchus|Socratic Method]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
+| 41 | [[Pragmatist-Epistemology|Pragmatist Epistemology]] | — | — | Convergence Zone 2: The Active Constr... | 207 |
 | 42 | [[Zimmerman's Self-Regulated Learning]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
-| 43 | [[Dewey's Reflective Inquiry]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
-| 44 | [[Kolb's Experiential Learning Cycle]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
+| 43 | [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
+| 44 | [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
 | 45 | [[Formative Feedback]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
-| 46 | [[Metacognitive Monitoring]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
+| 46 | [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
 | 47 | [[Stoic Reflective Practice]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
 | 48 | [[Systems Theory]] | — | — | Convergence Zone 3: The Regulatory Lo... | 217 |
-| 49 | [[Self-Determination Theory]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
+| 49 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
 | 50 | [[Autonomy]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
 | 51 | [[Competence]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
 | 52 | [[Relatedness]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
-| 53 | [[Achievement Goal Theory]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
-| 54 | [[Interest Development Theory]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
+| 53 | [[Achievement-Goal-Theory|Achievement Goal Theory]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
+| 54 | [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
 | 55 | [[Stoic Discipline and Virtue]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
-| 56 | [[Habit Formation]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
-| 57 | [[Knowledge Integration]] | — | — | Convergence Zone 5: The Integration I... | 237 |
+| 56 | [[Habit-Formation|Habit Formation]] | — | — | Convergence Zone 4: The Motivational ... | 227 |
+| 57 | [[Knowledge-Integration|Knowledge Integration]] | — | — | Convergence Zone 5: The Integration I... | 237 |
 | 58 | [[Network Science]] | — | — | Convergence Zone 5: The Integration I... | 237 |
-| 59 | [[Conceptual Change Theory]] | — | — | Convergence Zone 5: The Integration I... | 237 |
+| 59 | [[Conceptual-Change-Theory|Conceptual Change Theory]] | — | — | Convergence Zone 5: The Integration I... | 237 |
 | 60 | [[Nonaka's SECI Model]] | — | — | Convergence Zone 5: The Integration I... | 237 |
-| 61 | [[Transfer of Learning]] | — | — | Convergence Zone 5: The Integration I... | 237 |
+| 61 | [[Transfer-of-Learning|Transfer of Learning]] | — | — | Convergence Zone 5: The Integration I... | 237 |
 | 62 | [[Feedback Systems]] | — | — | Convergence Zone 5: The Integration I... | 237 |
-| 63 | [[Cognitive Alignment Principle]] | — | — | Foundational Principle 1: Cognitive I... | 268 |
-| 64 | [[Cognitive Architecture Isomorphism Principle]] | — | — | Foundational Principle 1: Cognitive I... | 268 |
+| 63 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Foundational Principle 1: Cognitive I... | 268 |
+| 64 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | Foundational Principle 1: Cognitive I... | 268 |
 | 65 | [[Constructivism]] | — | — | Foundational Principle 2: Active Cons... | 276 |
-| 66 | [[Desirable Difficulties]] | — | — | Foundational Principle 2: Active Cons... | 276 |
-| 67 | [[Elaborative Interrogation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
+| 66 | [[Desirable-Difficulties|Desirable Difficulties]] | — | — | Foundational Principle 2: Active Cons... | 276 |
+| 67 | [[Elaborative-Interrogation|Elaborative Interrogation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
 | 68 | [[Self-Explanation]] | — | — | Foundational Principle 2: Active Cons... | 276 |
 | 69 | [[Socratic Questioning]] | — | — | Foundational Principle 2: Active Cons... | 276 |
-| 70 | [[Self-Regulated Learning]] | — | — | Foundational Principle 3: Regulatory ... | 286 |
-| 71 | [[Self-Determination Theory]] | — | — | Foundational Principle 4: Motivationa... | 294 |
+| 70 | [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]] | — | — | Foundational Principle 3: Regulatory ... | 286 |
+| 71 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | Foundational Principle 4: Motivationa... | 294 |
 | 72 | [[Heutagogy]] | — | — | Foundational Principle 4: Motivationa... | 296 |
-| 73 | [[Testing Effect]] | — | — | Derived Principle 3: Review Architect... | 318 |
-| 74 | [[Spacing Effect]] | — | — | Derived Principle 3: Review Architect... | 318 |
+| 73 | [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] | — | — | Derived Principle 3: Review Architect... | 318 |
+| 74 | [[Spaced-Repetition-Spacing-Effect|Spacing Effect]] | — | — | Derived Principle 3: Review Architect... | 318 |
 | 75 | [[Dunning-Kruger]] | — | — | Derived Principle 5: Calibration Syst... | 330 |
-| 76 | [[Expertise Reversal Effect]] | — | — | Refinement Principle 1: Evolutionary ... | 338 |
+| 76 | [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]] | — | — | Refinement Principle 1: Evolutionary ... | 338 |
 | 77 | [[Socratic Questioning]] | — | — | Refinement Principle 2: Dialectical D... | 342 |
 | 78 | [[Socratic Elenchus]] | — | — | Refinement Principle 2: Dialectical D... | 344 |
 | 79 | [[Integration Problem]] | — | — | Refinement Principle 3: Integration M... | 350 |
 | 80 | [[Obsidian]] | — | — | The Complete PKM/PKB Design Specifica... | 370 |
-| 81 | [[Faceted Classification]] | — | — | The Complete PKM/PKB Design Specifica... | 380 |
+| 81 | [[Faceted-Classification|Faceted Classification]] | — | — | The Complete PKM/PKB Design Specifica... | 380 |
 | 82 | [[Link Annotation]] | — | — | The Complete PKM/PKB Design Specifica... | 382 |
-| 83 | [[Illusion of Knowing]] | — | — | The Complete PKM/PKB Design Specifica... | 398 |
+| 83 | [[Illusion-of-Knowing|Illusion of Knowing]] | — | — | The Complete PKM/PKB Design Specifica... | 398 |
 | 84 | [[Interest Taxonomy]] | — | — | The Complete PKM/PKB Design Specifica... | 404 |
-| 85 | [[Heutagogical Self-Design]] | — | — | The Complete PKM/PKB Design Specifica... | 406 |
-| 86 | [[Integrated Learning System Model]] | — | — | The Central Question Revisited | 459 |
-| 87 | [[SECI Model]] | — | — | Three Unresolved Questions the Framew... | 465 |
+| 85 | [[Heutagogical-Self-Design|Heutagogical Self-Design]] | — | — | The Complete PKM/PKB Design Specifica... | 406 |
+| 86 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | The Central Question Revisited | 459 |
+| 87 | [[SECI-Model|SECI Model]] | — | — | Three Unresolved Questions the Framew... | 465 |
 | 88 | [[Report 01: Foundations of Knowledge Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
-| 89 | [[Cognitive Alignment Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
-| 90 | [[Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
+| 89 | [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
+| 90 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 478 |
 | 91 | [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]] | — | — | Phase VII: PKB Connections & Cross-Re... | 480 |
 | 92 | [[Report 09: Designing the Learning PKB — Information Architecture Meets Cognitive Architecture]] | — | — | Phase VII: PKB Connections & Cross-Re... | 482 |
-| 93 | [[Cognitive Architecture Isomorphism Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 482 |
+| 93 | [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] | — | — | Phase VII: PKB Connections & Cross-Re... | 482 |
 | 94 | [[Report 25: The Integration Problem — How Separate Notes Become Connected Understanding]] | — | — | Phase VII: PKB Connections & Cross-Re... | 484 |
-| 95 | [[Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 484 |
+| 95 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 484 |
 | 96 | [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]] | — | — | Phase VII: PKB Connections & Cross-Re... | 486 |
-| 97 | [[Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 486 |
-| 98 | [[Learning Metabolism]] | — | — | Phase VII: PKB Connections & Cross-Re... | 486 |
+| 97 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 486 |
+| 98 | [[Learning-Metabolism|Learning Metabolism]] | — | — | Phase VII: PKB Connections & Cross-Re... | 486 |
 | 99 | [[Report 05: Motivation Architecture — Self-Determination, Achievement Goals, and the Will to Learn]] | — | — | Phase VII: PKB Connections & Cross-Re... | 488 |
 | 100 | [[Report 19: Sustaining Lifelong Learning — Motivation Maintenance Across Years]] | — | — | Phase VII: PKB Connections & Cross-Re... | 488 |
 | 101 | [[Report 22: Tacit Knowledge and the Limits of Capture — What a PKB Cannot Store]] | — | — | Phase VII: PKB Connections & Cross-Re... | 490 |
-| 102 | [[Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 490 |
+| 102 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 490 |
 | 103 | [[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]] | — | — | Phase VII: PKB Connections & Cross-Re... | 494 |
-| 104 | [[Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 494 |
+| 104 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 494 |
 | 105 | [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]] | — | — | Phase VII: PKB Connections & Cross-Re... | 496 |
-| 106 | [[Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 496 |
-| 107 | [[Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 498 |
-| 108 | [[Integrated Learning System Model]] | — | — | C. Methodology and Sources Note | 593 |
-| 109 | [[Five Convergence Zones]] | — | — | C. Methodology and Sources Note | 593 |
+| 106 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 496 |
+| 107 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | Phase VII: PKB Connections & Cross-Re... | 498 |
+| 108 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | C. Methodology and Sources Note | 593 |
+| 109 | [[Five-Convergence-Zones|Five Convergence Zones]] | — | — | C. Methodology and Sources Note | 593 |
 | 110 | [[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]] | — | — | D. Expansion Topics | 599 |
-| 111 | [[Integrated Learning System Model]] | — | — | D. Expansion Topics | 600 |
+| 111 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | D. Expansion Topics | 600 |
 | 112 | [[Stoic]] | — | — | D. Expansion Topics | 600 |
 | 113 | [[Socratic]] | — | — | D. Expansion Topics | 600 |
-| 114 | [[Collaborative PKM — Social Knowledge Construction in Connected PKBs]] | — | — | D. Expansion Topics | 602 |
-| 115 | [[SECI Model]] | — | — | D. Expansion Topics | 603 |
+| 114 | [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]] | — | — | D. Expansion Topics | 602 |
+| 115 | [[SECI-Model|SECI Model]] | — | — | D. Expansion Topics | 603 |
 | 116 | [[PKB Archaeology — Designing for Long-Term Vault Succession]] | — | — | D. Expansion Topics | 605 |
 | 117 | [[The Embodied PKM Practitioner — What Text-Based Notes Miss]] | — | — | D. Expansion Topics | 608 |
 | 118 | [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]] | — | — | D. Expansion Topics | 611 |
-| 119 | [[Integrated Learning System Model]] | — | — | D. Expansion Topics | 612 |
+| 119 | [[Integrated-Learning-System-Model|Integrated Learning System Model]] | — | — | D. Expansion Topics | 612 |
 | 120 | [[Measuring PKM Effectiveness — Empirical Methods for Evaluating Your Own System]] | — | — | D. Expansion Topics | 614 |
 
 ---
@@ -812,54 +812,54 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Achievement Goal Theory]]
+- [[Achievement-Goal-Theory|Achievement Goal Theory]]
 - [[Autonomy]]
-- [[Cognitive Alignment Principle]]
-- [[Cognitive Architecture Isomorphism Principle]]
-- [[Cognitive Load Theory]]
-- [[Cognitive Psychology]]
-- [[Collaborative PKM — Social Knowledge Construction in Connected PKBs]]
+- [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]
+- [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]
+- [[Cognitive-Load-Theory|Cognitive Load Theory]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]
+- [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]]
 - [[Competence]]
-- [[Conceptual Change Theory]]
+- [[Conceptual-Change-Theory|Conceptual Change Theory]]
 - [[Constructivism]]
-- [[Desirable Difficulties]]
-- [[Dewey's Reflective Inquiry]]
+- [[Desirable-Difficulties|Desirable Difficulties]]
+- [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]]
 - [[Dunning-Kruger]]
-- [[Educational Philosophy]]
-- [[Educational Psychology]]
-- [[Elaborative Interrogation]]
-- [[Expert Knowledge Organization]]
-- [[Expertise Reversal Effect]]
-- [[Faceted Classification]]
+- [[Educational-Philosophy|Educational Philosophy]]
+- [[Educational-Psychology|Educational Psychology]]
+- [[Elaborative-Interrogation|Elaborative Interrogation]]
+- [[Expert-Knowledge-Organization|Expert Knowledge Organization]]
+- [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Expertise Reversal Effect]]
+- [[Faceted-Classification|Faceted Classification]]
 - [[Feedback Systems]]
-- [[Five Convergence Zones]]
+- [[Five-Convergence-Zones|Five Convergence Zones]]
 - [[Formative Feedback]]
-- [[Habit Formation]]
-- [[Heutagogical Self-Design]]
+- [[Habit-Formation|Habit Formation]]
+- [[Heutagogical-Self-Design|Heutagogical Self-Design]]
 - [[Heutagogy]]
-- [[Illusion of Knowing]]
+- [[Illusion-of-Knowing|Illusion of Knowing]]
 - [[Information Foraging Theory]]
-- [[Information Science]]
-- [[Instructional Design]]
-- [[Integrated Learning System Model]]
+- [[Information-Science|Information Science]]
+- [[Scaffolding-—-Instructional-Design-Wood,-Bruner-&-Ross|Instructional Design]]
+- [[Integrated-Learning-System-Model|Integrated Learning System Model]]
 - [[Integration Problem]]
-- [[Interest Development Theory]]
+- [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]
 - [[Interest Taxonomy]]
-- [[Intrinsic Motivation]]
-- [[Knowledge Integration]]
-- [[Knowledge Management]]
-- [[Kolb's Experiential Learning Cycle]]
-- [[Learning Experience Design]]
-- [[Learning Metabolism]]
+- [[Intrinsic-Motivation|Intrinsic Motivation]]
+- [[Knowledge-Integration|Knowledge Integration]]
+- [[Knowledge-Management|Knowledge Management]]
+- [[Kolb's-Experiential-Learning-Cycle|Kolb's Experiential Learning Cycle]]
+- [[Learning-Experience-Design|Learning Experience Design]]
+- [[Learning-Metabolism|Learning Metabolism]]
 - [[Link Annotation]]
 - [[Measuring PKM Effectiveness — Empirical Methods for Evaluating Your Own System]]
 - [[Metacognition]]
-- [[Metacognitive Monitoring]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
 - [[Network Science]]
 - [[Nonaka's SECI Model]]
 - [[Obsidian]]
 - [[PKB Archaeology — Designing for Long-Term Vault Succession]]
-- [[Pragmatist Epistemology]]
+- [[Pragmatist-Epistemology|Pragmatist Epistemology]]
 - [[Relatedness]]
 - [[Report 01: Foundations of Knowledge Architecture]]
 - [[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]
@@ -871,28 +871,28 @@ extraction_summary:
 - [[Report 26: Feedback Loops in PKM — How the System Learns From Itself]]
 - [[Report 28: The Philosophy of Personal Knowledge — What It Means to 'Know' in a PKB]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]
-- [[Retrieval Practice]]
-- [[SECI Model]]
-- [[Schema Theory]]
-- [[Self-Determination Theory]]
+- [[Retrieval-Practice|Retrieval Practice]]
+- [[SECI-Model|SECI Model]]
+- [[Schema-Theory|Schema Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Self-Explanation]]
-- [[Self-Regulated Learning]]
+- [[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]
 - [[Socratic]]
 - [[Socratic Elenchus]]
-- [[Socratic Method]]
+- [[Socratic-Method-Elenchus|Socratic Method]]
 - [[Socratic Questioning]]
-- [[Spacing Effect]]
-- [[Spreading Activation]]
+- [[Spaced-Repetition-Spacing-Effect|Spacing Effect]]
+- [[Spreading-Activation|Spreading Activation]]
 - [[Stoic]]
 - [[Stoic Discipline and Virtue]]
-- [[Stoic Philosophy]]
+- [[Stoic-Philosophy|Stoic Philosophy]]
 - [[Stoic Reflective Practice]]
 - [[Systems Theory]]
-- [[Tacit Knowledge]]
-- [[Testing Effect]]
+- [[Tacit-Knowledge|Tacit Knowledge]]
+- [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]]
 - [[The Embodied PKM Practitioner — What Text-Based Notes Miss]]
-- [[Transfer of Learning]]
-- [[Working Memory]]
+- [[Transfer-of-Learning|Transfer of Learning]]
+- [[Working-Memory|Working Memory]]
 - [[Zimmerman's Self-Regulated Learning]]
 
 ### Frontmatter Relationships

@@ -204,7 +204,7 @@ extraction_summary:
 #### 11. [CROSS-DOMAIN-CONNECTION] Stoic Assent and the Psychology of Confirmation Bias *(Line 209)*
 
 > [!cross-domain-connection] Stoic Assent and the Psychology of Confirmation Bias
-> The Stoic doctrine of examined assent — the duty to pause before endorsing impressions, to check them against rational criteria before allowing them to shape one's beliefs — finds its contemporary empirical counterpart in research on [[Confirmation Bias]] and [[Motivated Reasoning]] (Nickerson, 1998; Kunda, 1990). Motivated reasoning is the psychological mechanism by which we give assent to impressions that confirm what we already want to believe, and withhold assent from those that threaten it — exactly the epistemic failure the Stoics diagnosed as one of the central obstacles to wisdom. The Stoic prescription (practice deliberate examination of impressions before assent) and the psychological prescription (implement cognitive debiasing strategies, seek disconfirmatory evidence) are structurally identical. This convergence across two-thousand years of intellectual history — Hellenistic philosophy and contemporary cognitive psychology — provides unusually strong grounds for treating examined assent as a genuine epistemic norm.
+> The Stoic doctrine of examined assent — the duty to pause before endorsing impressions, to check them against rational criteria before allowing them to shape one's beliefs — finds its contemporary empirical counterpart in research on [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] and [[Motivated-Reasoning|Motivated Reasoning]] (Nickerson, 1998; Kunda, 1990). Motivated reasoning is the psychological mechanism by which we give assent to impressions that confirm what we already want to believe, and withhold assent from those that threaten it — exactly the epistemic failure the Stoics diagnosed as one of the central obstacles to wisdom. The Stoic prescription (practice deliberate examination of impressions before assent) and the psychological prescription (implement cognitive debiasing strategies, seek disconfirmatory evidence) are structurally identical. This convergence across two-thousand years of intellectual history — Hellenistic philosophy and contemporary cognitive psychology — provides unusually strong grounds for treating examined assent as a genuine epistemic norm.
 
 #### 12. [DEFINITION] The Ethics of Belief (W.K. Clifford, 1877) *(Line 216)*
 
@@ -273,7 +273,7 @@ extraction_summary:
 #### 24. [CROSS-DOMAIN-CONNECTION] Stoic Examined Assent, Dual-Process Theory, and Metacognitive Monitoring *(Line 274)*
 
 > [!cross-domain-connection] Stoic Examined Assent, Dual-Process Theory, and Metacognitive Monitoring
-> The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Metacognitive Monitoring]] from [[Report 04]]'s treatment of self-regulated learning; and [[Epistemic Vigilance]] from [[Report 07]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.
+> The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process-Theory|Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] from [[Report 04]]'s treatment of self-regulated learning; and [[Epistemic-Vigilance|Epistemic Vigilance]] from [[Report 07]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.
 
 #### 25. [WHAT-THE-EVIDENCE-SUGGESTS] On Source Curation and Epistemic Justice *(Line 281)*
 
@@ -317,7 +317,7 @@ extraction_summary:
 #### 32. [WHAT-THE-EVIDENCE-SUGGESTS] Epistemic Status Tagging as Moral Infrastructure *(Line 341)*
 
 > [!what-the-evidence-suggests] Epistemic Status Tagging as Moral Infrastructure
-> The evidence from calibration research, virtue epistemology, Stoic ethics, and critical thinking ethics all converges on a single design recommendation: a systematic [[Epistemic Status]] tagging system is not an optional organizational convenience but a moral infrastructure for epistemically responsible knowledge management. Without it, the PKB cannot honestly represent one's actual epistemic standing; it collapses all stored claims into an undifferentiated mass that implicitly treats highly warranted beliefs and speculative hunches as equivalent. This implicit dishonesty is not just epistemically inefficient — it is, in the frameworks developed here, an ethical failure.
+> The evidence from calibration research, virtue epistemology, Stoic ethics, and critical thinking ethics all converges on a single design recommendation: a systematic [[Epistemic-Status|Epistemic Status]] tagging system is not an optional organizational convenience but a moral infrastructure for epistemically responsible knowledge management. Without it, the PKB cannot honestly represent one's actual epistemic standing; it collapses all stored claims into an undifferentiated mass that implicitly treats highly warranted beliefs and speculative hunches as equivalent. This implicit dishonesty is not just epistemically inefficient — it is, in the frameworks developed here, an ethical failure.
 
 #### 33. [ANALYTICAL-INSIGHT] Links as Implicit Propositions *(Line 348)*
 
@@ -327,7 +327,7 @@ extraction_summary:
 #### 34. [CROSS-DOMAIN-CONNECTION] Intellectual Courage, Self-Determination Theory, and Intrinsic Motivation *(Line 357)*
 
 > [!cross-domain-connection] Intellectual Courage, Self-Determination Theory, and Intrinsic Motivation
-> Intellectual courage in a PKB — the willingness to store uncomfortable truths, record genuine uncertainty, and follow inquiry wherever it leads — is deeply connected to [[Self-Determination Theory]]'s concept of intrinsic motivation (developed in [[Report 05]]). SDT research shows that intrinsic motivation (doing something because of genuine interest and values, not external reward) produces better epistemic outcomes, including more creative association, more thorough processing, and greater openness to revision. A PKB designed as a performance of competence (for some imagined audience, or for one's own self-image) undermines the intrinsic motivation that produces genuine intellectual courage. A PKB designed as an honest record of one's actual intellectual life — including the uncertain, the confused, the mistaken, and the still-evolving — creates the conditions for intrinsic epistemic motivation to flourish.
+> Intellectual courage in a PKB — the willingness to store uncomfortable truths, record genuine uncertainty, and follow inquiry wherever it leads — is deeply connected to [[Self-Determination-Theory|Self-Determination Theory]]'s concept of intrinsic motivation (developed in [[Report 05]]). SDT research shows that intrinsic motivation (doing something because of genuine interest and values, not external reward) produces better epistemic outcomes, including more creative association, more thorough processing, and greater openness to revision. A PKB designed as a performance of competence (for some imagined audience, or for one's own self-image) undermines the intrinsic motivation that produces genuine intellectual courage. A PKB designed as an honest record of one's actual intellectual life — including the uncertain, the confused, the mistaken, and the still-evolving — creates the conditions for intrinsic epistemic motivation to flourish.
 
 #### 35. [TENSION-IDENTIFIED] Privacy vs. Audience: The PKB's Epistemic Paradox *(Line 360)*
 
@@ -533,13 +533,13 @@ extraction_summary:
 > > [!topic-idea] [[Self-Deception, Akrasia, and the Architecture of Epistemic Failure]]
 > > The psychology of self-deception (Robert Trivers, William von Hippel) and the philosophy of akrasia (weakness of will — doing what one believes one ought not to do) together address the deepest challenge to virtue-based PKM: knowing what epistemic virtue requires while consistently failing to practice it. A dedicated report would examine the mechanisms of epistemic self-deception, its relationship to motivated reasoning, and whether PKB design can interrupt it at the architectural level.
 > 
-> > [!topic-idea] [[Epistemic Autonomy and the Ethics of AI-Assisted PKM]]
+> > [!topic-idea] [[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]]
 > > As AI tools increasingly assist with note-taking, linking, and knowledge synthesis, new ethical questions arise about epistemic autonomy — the right and responsibility to form one's own beliefs through one's own reasoning. A dedicated report would examine: When AI suggestions are followed without evaluation, what epistemic character does this cultivate? What design principles govern epistemically responsible AI assistance in PKM? This topic connects directly to [[Report 30: Future of PKM]].
 > 
 > > [!topic-idea] [[The Virtue of Intellectual Generosity — Sharing Knowledge Responsibly]]
 > > Virtue epistemology has mostly focused on epistemic virtues in reception (how one forms beliefs). An underexplored extension is the virtues of epistemic giving: intellectual generosity (sharing knowledge that would benefit others), epistemic courage in public discourse, and the responsibilities one bears when one's PKB outputs are shared. For PKB users who publish, share, or teach from their knowledge base, these responsibilities are directly practical.
 > 
-> > [!topic-idea] [[Historical Epistemology — How Past Knowledge Shapes Present Knowing]]
+> > [!topic-idea] [[Historical-Epistemology-—-How-Past-Knowledge-Shapes-Present-Knowing|Historical Epistemology — How Past Knowledge Shapes Present Knowing]]
 > > The belief revision log recommended in this report raises a deeper question: how does the history of one's believing shape what one is capable of believing now? Historical epistemology (Lorraine Daston, Ian Hacking) examines how knowledge practices and epistemic styles evolve across time. For individual PKM: how does one's personal epistemic history — the pattern of beliefs held, revised, abandoned, and rebuilt — shape one's epistemic possibilities? How can PKB design make this history explicit and generative?
 
 ---
@@ -552,21 +552,21 @@ extraction_summary:
 
 ### Unique Targets
 
-- [[Confirmation Bias]]
-- [[Critical Thinking Ethics]]
-- [[Dual-Process Theory]]
-- [[Epistemic Autonomy and the Ethics of AI-Assisted PKM]]
-- [[Epistemic Cowardice]]
-- [[Epistemic Justice]]
-- [[Epistemic Status]]
-- [[Epistemic Vigilance]]
-- [[Hindsight Bias]]
-- [[Historical Epistemology — How Past Knowledge Shapes Present Knowing]]
-- [[Illusion of Knowing]]
-- [[Metacognitive Monitoring]]
-- [[Motivated Reasoning]]
-- [[Myside Bias]]
-- [[Psychology of Self-Deception]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
+- [[Critical-Thinking-Ethics|Critical Thinking Ethics]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
+- [[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]]
+- [[Epistemic-Cowardice|Epistemic Cowardice]]
+- [[Epistemic-Justice|Epistemic Justice]]
+- [[Epistemic-Status|Epistemic Status]]
+- [[Epistemic-Vigilance|Epistemic Vigilance]]
+- [[Hindsight-Bias|Hindsight Bias]]
+- [[Historical-Epistemology-—-How-Past-Knowledge-Shapes-Present-Knowing|Historical Epistemology — How Past Knowledge Shapes Present Knowing]]
+- [[Illusion-of-Knowing|Illusion of Knowing]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
+- [[Confirmation-Bias-Myside-Bias|Myside Bias]]
+- [[Psychology-of-Self-Deception|Psychology of Self-Deception]]
 - [[Report 04]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 05]]
@@ -585,49 +585,49 @@ extraction_summary:
 - [[Report 30: Future of PKM]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]
 - [[Self-Deception, Akrasia, and the Architecture of Epistemic Failure]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Social Epistemology and PKB Practice — Individual Knowing in Social Context]]
-- [[Stoic Ethics]]
+- [[Stoic-Ethics|Stoic Ethics]]
 - [[The Virtue of Intellectual Generosity — Sharing Knowledge Responsibly]]
-- [[Virtue Epistemology]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
 
 ### All Occurrences
 
 | # | Target | Display Text | Heading | Section | Line |
 |---|--------|-------------|---------|---------|------|
-| 1 | [[Virtue Epistemology]] | — | — | The Moral Dimension We Overlooked | 149 |
-| 2 | [[Virtue Epistemology]] | — | — | The Synthesis Question | 156 |
-| 3 | [[Stoic Ethics]] | — | — | The Synthesis Question | 156 |
-| 4 | [[Critical Thinking Ethics]] | — | — | The Synthesis Question | 156 |
-| 5 | [[Epistemic Justice]] | — | — | The Synthesis Question | 156 |
-| 6 | [[Psychology of Self-Deception]] | — | — | The Synthesis Question | 156 |
+| 1 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | The Moral Dimension We Overlooked | 149 |
+| 2 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | The Synthesis Question | 156 |
+| 3 | [[Stoic-Ethics|Stoic Ethics]] | — | — | The Synthesis Question | 156 |
+| 4 | [[Critical-Thinking-Ethics|Critical Thinking Ethics]] | — | — | The Synthesis Question | 156 |
+| 5 | [[Epistemic-Justice|Epistemic Justice]] | — | — | The Synthesis Question | 156 |
+| 6 | [[Psychology-of-Self-Deception|Psychology of Self-Deception]] | — | — | The Synthesis Question | 156 |
 | 7 | [[Report 07: Critical Thinking as PKM Practice]] | — | — | Scope and Cross-Report Position | 164 |
 | 8 | [[Report 13: Emotional Regulation and Resilient Learning]] | — | — | Scope and Cross-Report Position | 164 |
 | 9 | [[Report 18: Calibration and Epistemic Humility]] | — | — | Scope and Cross-Report Position | 164 |
 | 10 | [[Report 21: Dialectical Knowledge Building]] | — | — | Scope and Cross-Report Position | 164 |
 | 11 | [[Report 28: The Philosophy of Personal Knowledge]] | — | — | Scope and Cross-Report Position | 164 |
-| 12 | [[Virtue Epistemology]] | — | — | Virtue Epistemology: Knowledge as a C... | 174 |
+| 12 | [[Virtue-Epistemology|Virtue Epistemology]] | — | — | Virtue Epistemology: Knowledge as a C... | 174 |
 | 13 | [[Report 28]] | — | — | Virtue Epistemology: Knowledge as a C... | 174 |
 | 14 | [[Report 18: Calibration and Epistemic Humility]] | — | — | Virtue Epistemology: Knowledge as a C... | 186 |
 | 15 | [[Report 19: Sustaining Lifelong Learning]] | — | — | Virtue Epistemology: Knowledge as a C... | 191 |
-| 16 | [[Confirmation Bias]] | — | — | Stoic Ethics: The Duty of Examined As... | 210 |
-| 17 | [[Motivated Reasoning]] | — | — | Stoic Ethics: The Duty of Examined As... | 210 |
-| 18 | [[Confirmation Bias]] | — | — | The Empirical Case for Intellectual V... | 256 |
-| 19 | [[Myside Bias]] | — | — | The Empirical Case for Intellectual V... | 256 |
-| 20 | [[Motivated Reasoning]] | — | — | The Empirical Case for Intellectual V... | 256 |
-| 21 | [[Illusion of Knowing]] | — | — | The Empirical Case for Intellectual V... | 256 |
-| 22 | [[Hindsight Bias]] | — | — | The Empirical Case for Intellectual V... | 256 |
-| 23 | [[Dual-Process Theory]] | — | — | The Stoic Evidence: Philosophical Val... | 272 |
+| 16 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | Stoic Ethics: The Duty of Examined As... | 210 |
+| 17 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | Stoic Ethics: The Duty of Examined As... | 210 |
+| 18 | [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] | — | — | The Empirical Case for Intellectual V... | 256 |
+| 19 | [[Confirmation-Bias-Myside-Bias|Myside Bias]] | — | — | The Empirical Case for Intellectual V... | 256 |
+| 20 | [[Motivated-Reasoning|Motivated Reasoning]] | — | — | The Empirical Case for Intellectual V... | 256 |
+| 21 | [[Illusion-of-Knowing|Illusion of Knowing]] | — | — | The Empirical Case for Intellectual V... | 256 |
+| 22 | [[Hindsight-Bias|Hindsight Bias]] | — | — | The Empirical Case for Intellectual V... | 256 |
+| 23 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | The Stoic Evidence: Philosophical Val... | 272 |
 | 24 | [[Report 07]] | — | — | The Stoic Evidence: Philosophical Val... | 272 |
-| 25 | [[Dual-Process Theory]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
-| 26 | [[Metacognitive Monitoring]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
+| 25 | [[Dual-Process-Theory|Dual-Process Theory]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
+| 26 | [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
 | 27 | [[Report 04]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
-| 28 | [[Epistemic Vigilance]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
+| 28 | [[Epistemic-Vigilance|Epistemic Vigilance]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
 | 29 | [[Report 07]] | — | — | The Stoic Evidence: Philosophical Val... | 275 |
-| 30 | [[Epistemic Cowardice]] | — | — | The Mechanism of Epistemic Cowardice | 319 |
+| 30 | [[Epistemic-Cowardice|Epistemic Cowardice]] | — | — | The Mechanism of Epistemic Cowardice | 319 |
 | 31 | [[Report 18: Calibration and Epistemic Humility]] | — | — | The Return-and-Deepen: Calibration as... | 337 |
-| 32 | [[Epistemic Status]] | — | — | The Return-and-Deepen: Calibration as... | 342 |
-| 33 | [[Self-Determination Theory]] | — | — | The Mechanism of Epistemic Courage in... | 358 |
+| 32 | [[Epistemic-Status|Epistemic Status]] | — | — | The Return-and-Deepen: Calibration as... | 342 |
+| 33 | [[Self-Determination-Theory|Self-Determination Theory]] | — | — | The Mechanism of Epistemic Courage in... | 358 |
 | 34 | [[Report 05]] | — | — | The Mechanism of Epistemic Courage in... | 358 |
 | 35 | [[Report 18]] | — | — | Design Principle 1: The Epistemic Sta... | 377 |
 | 36 | [[Report 21: Dialectical Knowledge Building]] | — | — | Design Principle 2: The Disconfirmati... | 398 |
@@ -641,10 +641,10 @@ extraction_summary:
 | 44 | [[Report 27: The Complete PKM/PKB Design Framework]] | — | — | Phase VII: PKB Connections & Cross-Re... | 494 |
 | 45 | [[Social Epistemology and PKB Practice — Individual Knowing in Social Context]] | — | — | C. Expansion Topics | 586 |
 | 46 | [[Self-Deception, Akrasia, and the Architecture of Epistemic Failure]] | — | — | C. Expansion Topics | 589 |
-| 47 | [[Epistemic Autonomy and the Ethics of AI-Assisted PKM]] | — | — | C. Expansion Topics | 592 |
+| 47 | [[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]] | — | — | C. Expansion Topics | 592 |
 | 48 | [[Report 30: Future of PKM]] | — | — | C. Expansion Topics | 593 |
 | 49 | [[The Virtue of Intellectual Generosity — Sharing Knowledge Responsibly]] | — | — | C. Expansion Topics | 595 |
-| 50 | [[Historical Epistemology — How Past Knowledge Shapes Present Knowing]] | — | — | C. Expansion Topics | 598 |
+| 50 | [[Historical-Epistemology-—-How-Past-Knowledge-Shapes-Present-Knowing|Historical Epistemology — How Past Knowledge Shapes Present Knowing]] | — | — | C. Expansion Topics | 598 |
 | 51 | [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]] | — | — | C. Expansion Topics | 607 |
 
 ---
@@ -656,21 +656,21 @@ extraction_summary:
 > These represent all distinct notes referenced in the source document.
 > Each is a candidate for backlink creation in your PKB.
 
-- [[Confirmation Bias]]
-- [[Critical Thinking Ethics]]
-- [[Dual-Process Theory]]
-- [[Epistemic Autonomy and the Ethics of AI-Assisted PKM]]
-- [[Epistemic Cowardice]]
-- [[Epistemic Justice]]
-- [[Epistemic Status]]
-- [[Epistemic Vigilance]]
-- [[Hindsight Bias]]
-- [[Historical Epistemology — How Past Knowledge Shapes Present Knowing]]
-- [[Illusion of Knowing]]
-- [[Metacognitive Monitoring]]
-- [[Motivated Reasoning]]
-- [[Myside Bias]]
-- [[Psychology of Self-Deception]]
+- [[Confirmation-Bias-Myside-Bias|Confirmation Bias]]
+- [[Critical-Thinking-Ethics|Critical Thinking Ethics]]
+- [[Dual-Process-Theory|Dual-Process Theory]]
+- [[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]]
+- [[Epistemic-Cowardice|Epistemic Cowardice]]
+- [[Epistemic-Justice|Epistemic Justice]]
+- [[Epistemic-Status|Epistemic Status]]
+- [[Epistemic-Vigilance|Epistemic Vigilance]]
+- [[Hindsight-Bias|Hindsight Bias]]
+- [[Historical-Epistemology-—-How-Past-Knowledge-Shapes-Present-Knowing|Historical Epistemology — How Past Knowledge Shapes Present Knowing]]
+- [[Illusion-of-Knowing|Illusion of Knowing]]
+- [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]
+- [[Motivated-Reasoning|Motivated Reasoning]]
+- [[Confirmation-Bias-Myside-Bias|Myside Bias]]
+- [[Psychology-of-Self-Deception|Psychology of Self-Deception]]
 - [[Report 04]]
 - [[Report 04: Metacognitive Self-Regulation]]
 - [[Report 05]]
@@ -689,11 +689,11 @@ extraction_summary:
 - [[Report 30: Future of PKM]]
 - [[Report 30: Future of PKM — AI-Enhanced Knowledge Building, Emerging Research, and Open Questions]]
 - [[Self-Deception, Akrasia, and the Architecture of Epistemic Failure]]
-- [[Self-Determination Theory]]
+- [[Self-Determination-Theory|Self-Determination Theory]]
 - [[Social Epistemology and PKB Practice — Individual Knowing in Social Context]]
-- [[Stoic Ethics]]
+- [[Stoic-Ethics|Stoic Ethics]]
 - [[The Virtue of Intellectual Generosity — Sharing Knowledge Responsibly]]
-- [[Virtue Epistemology]]
+- [[Virtue-Epistemology|Virtue Epistemology]]
 
 ### Frontmatter Relationships
 

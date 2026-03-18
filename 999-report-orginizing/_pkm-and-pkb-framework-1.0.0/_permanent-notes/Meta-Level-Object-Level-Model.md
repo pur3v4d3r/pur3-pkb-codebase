@@ -69,14 +69,14 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Desirable Difficulties]]"
-  - "[[Ease of Learning]]"
-  - "[[Educational Philosophy]]"
-  - "[[Educational Psychology]]"
-  - "[[Feeling of Knowing]]"
+  - "[[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Desirable-Difficulties|Desirable Difficulties]]"
+  - "[[Ease-of-Learning-—-EOL|Ease of Learning]]"
+  - "[[Educational-Philosophy|Educational Philosophy]]"
+  - "[[Educational-Psychology|Educational Psychology]]"
+  - "[[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -102,7 +102,7 @@ expansion-topics:
   - topic: "[[Report 18: Calibration and Epistemic Humility — Knowing What You Know and Don't Know]]"
     description: "Extends the calibration theme from learning contexts into the broader epistemic domain. Addresses ho"
     priority: medium
-  - topic: "[[Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]"
+  - topic: "[[Metacognitive-Accuracy-as-a-Skill-—-Training-Protocols-and-Development-Trajector|Metacognitive Accuracy as a Skill — Training Protocols and Development Trajectories]]"
     description: "While this report establishes that monitoring accuracy is the critical variable and identifies speci"
     priority: medium
 
@@ -117,7 +117,7 @@ importance: high
 # Meta-Level / Object-Level Model
 
 > [!definition] **Meta-Level / Object-Level Model**
-> A two-level hierarchical architecture in which a **meta-level** (containing representations of the object-level system) exerts control over an **object-level** (performing the actual cognitive work). The meta-level operates through two processes: **monitoring** (information flowing upward from object-level to meta-level — the meta-level reads the state of object-level processing) and **control** (information flowing downward from meta-level to object-level — the meta-level modifies object-level processes). In learning contexts, monitoring includes processes such as [[Judgment of Learning]] (assessing how well one has learned an item) and [[Feeling of Knowing]] (assessing whether one knows an item). Control includes processes such as study-time allocation (spending more time on poorly-learned items) and retrieval termination (deciding when to stop searching for an answer). Boundary condition: the monitoring-control loop is the fundamental operational unit of metacognition; failures can occur in monitoring accuracy, control responsiveness, or the connection between them.
+> A two-level hierarchical architecture in which a **meta-level** (containing representations of the object-level system) exerts control over an **object-level** (performing the actual cognitive work). The meta-level operates through two processes: **monitoring** (information flowing upward from object-level to meta-level — the meta-level reads the state of object-level processing) and **control** (information flowing downward from meta-level to object-level — the meta-level modifies object-level processes). In learning contexts, monitoring includes processes such as [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] (assessing how well one has learned an item) and [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] (assessing whether one knows an item). Control includes processes such as study-time allocation (spending more time on poorly-learned items) and retrieval termination (deciding when to stop searching for an answer). Boundary condition: the monitoring-control loop is the fundamental operational unit of metacognition; failures can occur in monitoring accuracy, control responsiveness, or the connection between them.
 
 *Source: Cognitive Psychology*
 
@@ -152,4 +152,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Desirable Difficulties]] · [[Ease of Learning]] · [[Educational Philosophy]] · [[Educational Psychology]] · [[Feeling of Knowing]] · [[Flavell]] · [[Forgetting Curve]] · [[Illusion of Knowing]] · [[Judgment of Learning]] · [[Knowledge Management]] · [[Learning Journal]] · [[Metacognition]]
+[[Algorithmic-Metacognition-—-When-Spaced-Repetition-Systems-Do-Metacognitive-Work|Algorithmic Metacognition — When Spaced Repetition Systems Do Metacognitive Work You Cannot]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Ease-of-Learning-—-EOL|Ease of Learning]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]] · [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]] · [[Flavell]] · [[Forgetting-Curve|Forgetting Curve]] · [[Illusion-of-Knowing|Illusion of Knowing]] · [[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]] · [[Knowledge-Management|Knowledge Management]] · [[Learning-Journal|Learning Journal]] · [[Metacognition]]

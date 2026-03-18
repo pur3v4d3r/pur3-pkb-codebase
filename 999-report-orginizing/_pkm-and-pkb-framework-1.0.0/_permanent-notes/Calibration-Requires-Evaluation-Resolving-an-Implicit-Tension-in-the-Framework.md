@@ -68,12 +68,12 @@ narrower:
 
 see-also:
   - "[[Aporia]]"
-  - "[[Argument Mapping]]"
-  - "[[Availability Heuristic]]"
-  - "[[Cognitive Bias]]"
-  - "[[Cognitive Conflict]]"
-  - "[[Cognitive Miser]]"
-  - "[[Cognitive Psychology]]"
+  - "[[Argument-Mapping|Argument Mapping]]"
+  - "[[Availability-Heuristic|Availability Heuristic]]"
+  - "[[Cognitive-Bias|Cognitive Bias]]"
+  - "[[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]"
+  - "[[Cognitive-Miser|Cognitive Miser]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
   - "[[Constructivist]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -105,7 +105,7 @@ importance: high
 # Calibration Requires Evaluation: Resolving an Implicit Tension in the Framework
 
 > [!definition] **Calibration Requires Evaluation: Resolving an Implicit Tension in the Framework**
-> Reports 04 and 07 of this series contain an implicit architectural tension that can now be made explicit and resolved. Report 04 treated [[Metacognitive Calibration]] — the accurate assessment of one's own epistemic state — as a foundational PKB design target, with calibration ratings providing accurate metadata about the current state of one's knowledge. Report 07 has established that the reliability of those calibration ratings depends entirely on whether the beliefs being calibrated have undergone genuine critical evaluation.
+> Reports 04 and 07 of this series contain an implicit architectural tension that can now be made explicit and resolved. Report 04 treated [[Metacognitive-Calibration|Metacognitive Calibration]] — the accurate assessment of one's own epistemic state — as a foundational PKB design target, with calibration ratings providing accurate metadata about the current state of one's knowledge. Report 07 has established that the reliability of those calibration ratings depends entirely on whether the beliefs being calibrated have undergone genuine critical evaluation.
 > 
 > The tension is this: a PKB user can be perfectly calibrated — accurately estimating their performance relative to their actual performance — while their actual performance is based on a systematically biased belief set. Calibration measures the alignment between confidence and performance; it does not measure the epistemic quality of the beliefs on which performance is based. A user who consistently overestimates the evidential basis of their beliefs will generate calibrated confidence ratings for those beliefs that accurately reflect their (incorrect) subjective certainty while misrepresenting the actual epistemic standing of the claims.
 > 
@@ -146,9 +146,9 @@ importance: high
 **Cross-report connections:**
 - [[Constructivist]]
 - [[Disequilibration]]
-- [[Productive Failure]]
-- [[Cognitive Conflict]]
+- [[Productive-Failure|Productive Failure]]
+- [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
 - [[Aporia]]
 
 **Related concepts:**
-[[Aporia]] · [[Argument Mapping]] · [[Availability Heuristic]] · [[Cognitive Bias]] · [[Cognitive Conflict]] · [[Cognitive Miser]] · [[Cognitive Psychology]] · [[Constructivist]] · [[Critical Thinking]] · [[Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dual-Process Theory]] · [[Dysrationalia]] · [[Educational Philosophy]] · [[Epistemic Injustice and Whose Knowledge Gets Stored]]
+[[Aporia]] · [[Argument-Mapping|Argument Mapping]] · [[Availability-Heuristic|Availability Heuristic]] · [[Cognitive-Bias|Cognitive Bias]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Miser|Cognitive Miser]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Constructivist]] · [[Critical-Thinking|Critical Thinking]] · [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]] · [[Dual-Process-Theory|Dual-Process Theory]] · [[Dysrationalia]] · [[Educational-Philosophy|Educational Philosophy]] · [[Epistemic-Injustice-and-Whose-Knowledge-Gets-Stored|Epistemic Injustice and Whose Knowledge Gets Stored]]

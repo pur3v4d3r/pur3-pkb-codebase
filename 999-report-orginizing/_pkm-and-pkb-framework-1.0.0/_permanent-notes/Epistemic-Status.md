@@ -68,13 +68,13 @@ narrower:
 
 see-also:
   - "[[Aporia]]"
-  - "[[Argument Mapping]]"
-  - "[[Availability Heuristic]]"
-  - "[[Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]"
+  - "[[Argument-Mapping|Argument Mapping]]"
+  - "[[Availability-Heuristic|Availability Heuristic]]"
+  - "[[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]"
   - "[[Calibration]]"
-  - "[[Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]"
-  - "[[Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]"
-  - "[[Cognitive Bias]]"
+  - "[[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]"
+  - "[[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]"
+  - "[[Cognitive-Bias|Cognitive Bias]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -142,9 +142,9 @@ importance: high
 **Cross-report connections:**
 - [[Constructivist]]
 - [[Disequilibration]]
-- [[Productive Failure]]
-- [[Cognitive Conflict]]
+- [[Productive-Failure|Productive Failure]]
+- [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]]
 - [[Aporia]]
 
 **Related concepts:**
-[[Aporia]] · [[Argument Mapping]] · [[Availability Heuristic]] · [[Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] · [[Calibration]] · [[Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] · [[Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] · [[Cognitive Bias]] · [[Cognitive Conflict]] · [[Cognitive Miser]] · [[Cognitive Psychology]] · [[Constructivist]] · [[Critical Thinking]] · [[Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]]
+[[Aporia]] · [[Argument-Mapping|Argument Mapping]] · [[Availability-Heuristic|Availability Heuristic]] · [[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]] · [[Calibration]] · [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]] · [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]] · [[Cognitive-Bias|Cognitive Bias]] · [[Cognitive-Conflict-Disequilibrium|Cognitive Conflict]] · [[Cognitive-Miser|Cognitive Miser]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Constructivist]] · [[Critical-Thinking|Critical Thinking]] · [[Debiasing-What-Interventions-Actually-Work-and-Why|Debiasing: What Interventions Actually Work and Why]] · [[Disequilibration]]

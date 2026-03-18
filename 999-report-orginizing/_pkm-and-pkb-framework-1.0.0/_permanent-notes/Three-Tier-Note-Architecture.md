@@ -59,16 +59,16 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Cognitive Architecture Isomorphism Principle]]"
-  - "[[Schema Theory]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Working Memory]]"
-  - "[[Information Architecture]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Spreading Activation]]"
-  - "[[Semantic Networks]]"
-  - "[[Progressive Disclosure]]"
-  - "[[Maps of Content]]"
+  - "[[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Working-Memory|Working Memory]]"
+  - "[[Information-Architecture|Information Architecture]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[Spreading-Activation|Spreading Activation]]"
+  - "[[Semantic-Networks|Semantic Networks]]"
+  - "[[Progressive-Disclosure|Progressive Disclosure]]"
+  - "[[Maps-of-Content-—-MOCs|Maps of Content]]"
 
 broader:
   - "[[]]"
@@ -77,13 +77,13 @@ narrower:
   - "[[]]"
 
 see-also:
-  - "[[Achievement Goal Theory]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
   - "[[Autonomy]]"
-  - "[[Cognitive Alignment Principle]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Collaborative PKM — Social Knowledge Construction in Connected PKBs]]"
+  - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]]"
   - "[[Competence]]"
-  - "[[Conceptual Change Theory]]"
+  - "[[Conceptual-Change-Theory|Conceptual Change Theory]]"
   - "[[Constructivism]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
@@ -103,15 +103,15 @@ enables:
 
 expansion-topics:
   - topic: "[[Report 10: Scaffolding and Fading — How PKB Structure Should Evolve with Expertise]]"
-    description: "The [[Cognitive Architecture Isomorphism Principle]] specifies the structural properties of an effec"
+    description: "The [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] specifies the structural properties of an effec"
     priority: medium
-  - topic: "[[Note Titling as Cognitive Interface Design]]"
+  - topic: "[[Note-Titling-as-Cognitive-Interface-Design|Note Titling as Cognitive Interface Design]]"
     description: "This report identified note titling as the primary source of information scent in a PKB's navigation"
     priority: medium
-  - topic: "[[The Zettelkasten as Cognitive Architecture Implementation]]"
+  - topic: "[[The-Zettelkasten-as-Cognitive-Architecture-Implementation|The Zettelkasten as Cognitive Architecture Implementation]]"
     description: "Niklas Luhmann's Zettelkasten developed — entirely through practice and without theoretical foundati"
     priority: medium
-  - topic: "[[Metadata Architecture for a Learning PKB — YAML Frontmatter Design Principles]]"
+  - topic: "[[Metadata-Architecture-for-a-Learning-PKB-—-YAML-Frontmatter-Design-Principles|Metadata Architecture for a Learning PKB — YAML Frontmatter Design Principles]]"
     description: "The design principles in this report apply to folders, tags, and links — the three primary structura"
     priority: medium
 
@@ -159,4 +159,4 @@ importance: high
 ## Connections & Context
 
 **Related concepts:**
-[[Achievement Goal Theory]] · [[Autonomy]] · [[Cognitive Alignment Principle]] · [[Cognitive Architecture Isomorphism Principle]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Collaborative PKM — Social Knowledge Construction in Connected PKBs]] · [[Competence]] · [[Conceptual Change Theory]] · [[Constructivism]] · [[Desirable Difficulties]] · [[Dewey's Reflective Inquiry]] · [[Dunning-Kruger]] · [[Educational Philosophy]] · [[Educational Psychology]]
+[[Achievement-Goal-Theory|Achievement Goal Theory]] · [[Autonomy]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Collaborative-PKM-—-Social-Knowledge-Construction-in-Connected-PKBs|Collaborative PKM — Social Knowledge Construction in Connected PKBs]] · [[Competence]] · [[Conceptual-Change-Theory|Conceptual Change Theory]] · [[Constructivism]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Dewey's-Reflective-Inquiry|Dewey's Reflective Inquiry]] · [[Dunning-Kruger]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]]

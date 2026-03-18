@@ -58,15 +58,15 @@ prerequisites:
   - "[[]]"
 
 related:
-  - "[[Schema Theory]]"
-  - "[[Semantic Networks]]"
-  - "[[Spreading Activation]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Semantic-Networks|Semantic Networks]]"
+  - "[[Spreading-Activation|Spreading Activation]]"
   - "[[Constructivism]]"
-  - "[[Prototype Theory]]"
-  - "[[Faceted Classification]]"
-  - "[[Knowledge Organization Systems]]"
-  - "[[Cognitive Alignment Principle]]"
-  - "[[Expert Knowledge Organization]]"
+  - "[[Prototype-Theory|Prototype Theory]]"
+  - "[[Faceted-Classification|Faceted Classification]]"
+  - "[[Knowledge-Organization-Systems|Knowledge Organization Systems]]"
+  - "[[Cognitive-Alignment-Principle|Cognitive Alignment Principle]]"
+  - "[[Expert-Knowledge-Organization|Expert Knowledge Organization]]"
   - "[[Chunking]]"
 
 broader:
@@ -77,13 +77,13 @@ narrower:
 
 see-also:
   - "[[Accommodation]]"
-  - "[[Cognitive Architecture Isomorphism Principle]]"
-  - "[[Cognitive Load Theory]]"
-  - "[[Cognitive Psychology]]"
-  - "[[Confirmation Bias]]"
-  - "[[Contemplative Practices and Reflective Processing — Mindfulness and PKM]]"
-  - "[[David Kolb]]"
-  - "[[Desirable Difficulties]]"
+  - "[[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]]"
+  - "[[Cognitive-Load-Theory|Cognitive Load Theory]]"
+  - "[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]"
+  - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
+  - "[[Contemplative-Practices-and-Reflective-Processing-—-Mindfulness-and-PKM|Contemplative Practices and Reflective Processing — Mindfulness and PKM]]"
+  - "[[David-Kolb|David Kolb]]"
+  - "[[Desirable-Difficulties|Desirable Difficulties]]"
 
 # ═══════════════════════════════════════════════════════════════════════════
 # LEARNING PATHWAYS
@@ -99,16 +99,16 @@ enables:
   - "[[Report 15: Knowledge Organization at Scale — Taxonomies, Ontologies, and Emergent Structure]]"
 
 expansion-topics:
-  - topic: "[[Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]"
+  - topic: "[[Mental-Models-and-PKB-Design-—-Johnson-Laird's-Alternative-to-Schema-Theory|Mental Models and PKB Design — Johnson-Laird's Alternative to Schema Theory]]"
     description: "Philip Johnson-Laird's mental model theory (1983) offers an important alternative to and complement "
     priority: medium
-  - topic: "[[Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]]"
-    description: "The [[Cognitive Alignment Principle]] calls for PKB architecture that mirrors the relational structu"
+  - topic: "[[Ontology-Design-for-Personal-Knowledge-Bases-—-Formal-Approaches-to-Cognitive-Al|Ontology Design for Personal Knowledge Bases — Formal Approaches to Cognitive Alignment]]"
+    description: "The [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] calls for PKB architecture that mirrors the relational structu"
     priority: medium
-  - topic: "[[The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]]"
+  - topic: "[[The-Novice-to-Expert-Transition-in-Knowledge-Organization-—-Implications-for-PKB|The Novice-to-Expert Transition in Knowledge Organization — Implications for PKB Architecture Evolution]]"
     description: "Chi et al.'s research documents a difference in knowledge organization between novice and expert. Bu"
     priority: medium
-  - topic: "[[Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]"
+  - topic: "[[Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture|Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]"
     description: "This report's cognitive architecture is propositional and symbolic — it describes knowledge in terms"
     priority: medium
 
@@ -158,8 +158,8 @@ importance: high
 ## Connections & Context
 
 **Cross-report connections:**
-- [[Schema Theory]]
-- [[Knowledge Organization System]]
+- [[Schema-Theory|Schema Theory]]
+- [[Knowledge-Organization-System|Knowledge Organization System]]
 
 **Related concepts:**
-[[Accommodation]] · [[Cognitive Alignment Principle]] · [[Cognitive Architecture Isomorphism Principle]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Confirmation Bias]] · [[Constructivism]] · [[Contemplative Practices and Reflective Processing — Mindfulness and PKM]] · [[David Kolb]] · [[Desirable Difficulties]] · [[Educational Philosophy]] · [[Educational Psychology]] · [[Elaboration Theory]] · [[Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]
+[[Accommodation]] · [[Cognitive-Alignment-Principle|Cognitive Alignment Principle]] · [[Cognitive-Architecture-Isomorphism-Principle|Cognitive Architecture Isomorphism Principle]] · [[Cognitive-Load-Theory|Cognitive Load Theory]] · [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] · [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] · [[Constructivism]] · [[Contemplative-Practices-and-Reflective-Processing-—-Mindfulness-and-PKM|Contemplative Practices and Reflective Processing — Mindfulness and PKM]] · [[David-Kolb|David Kolb]] · [[Desirable-Difficulties|Desirable Difficulties]] · [[Educational-Philosophy|Educational Philosophy]] · [[Educational-Psychology|Educational Psychology]] · [[Elaboration-Theory|Elaboration Theory]] · [[Embodied-and-Situated-Cognition-—-What-Text-Based-PKBs-Cannot-Capture|Embodied and Situated Cognition — What Text-Based PKBs Cannot Capture]]
