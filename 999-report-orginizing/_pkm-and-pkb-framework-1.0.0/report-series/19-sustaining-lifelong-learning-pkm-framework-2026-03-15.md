@@ -77,25 +77,25 @@ analytical-contributions:
   total-analytical-commentary: 16
 
 related-concepts:
-  - "[[Self-Determination Theory]]"
-  - "[[Basic Psychological Needs]]"
-  - "[[Internalization Continuum]]"
-  - "[[Need Satisfaction vs. Need Frustration]]"
-  - "[[Interest Development Theory]]"
-  - "[[Four-Phase Interest Model]]"
-  - "[[Situational Interest]]"
-  - "[[Individual Interest]]"
-  - "[[Triggered Situational Interest]]"
-  - "[[Maintained Situational Interest]]"
-  - "[[Emerging Individual Interest]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
+  - "[[Internalization-Continuum|Internalization Continuum]]"
+  - "[[Need-Satisfaction-vs.-Need-Frustration|Need Satisfaction vs. Need Frustration]]"
+  - "[[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]"
+  - "[[Four-Phase-Interest-Model|Four-Phase Interest Model]]"
+  - "[[Situational-Interest|Situational Interest]]"
+  - "[[Individual-Interest|Individual Interest]]"
+  - "[[Triggered-Situational-Interest|Triggered Situational Interest]]"
+  - "[[Maintained-Situational-Interest|Maintained Situational Interest]]"
+  - "[[Emerging-Individual-Interest|Emerging Individual Interest]]"
   - "[[Well-Developed Individual Interest]]"
-  - "[[Habit Formation]]"
-  - "[[Identity-Based Habits]]"
-  - "[[Habit Loop]]"
+  - "[[Habit-Formation|Habit Formation]]"
+  - "[[Identity-Based-Habits|Identity-Based Habits]]"
+  - "[[Habit-Loop|Habit Loop]]"
   - "[[Cue-Routine-Reward]]"
   - "[[Automaticity]]"
-  - "[[Behavioral Inscription]]"
-  - "[[Fogg Behavior Model]]"
+  - "[[Behavioral-Inscription|Behavioral Inscription]]"
+  - "[[Fogg-Behavior-Model|Fogg Behavior Model]]"
   - "[[Tiny Habits]]"
   - "[[Motivational Waves]]"
   - "[[Stoic Discipline]]"
@@ -105,14 +105,14 @@ related-concepts:
   - "[[View from Above]]"
   - "[[Stoic Daily Practice]]"
   - "[[Heutagogy]]"
-  - "[[Capability Development]]"
-  - "[[Double-Loop Learning]]"
+  - "[[Capability-Development|Capability Development]]"
+  - "[[Double-Loop-Learning|Double-Loop Learning]]"
   - "[[Self-Efficacy]]"
   - "[[Flow Theory]]"
-  - "[[Motivational Compounding]]"
+  - "[[Motivational-Compounding|Motivational Compounding]]"
   - "[[PKM Motivational Architecture]]"
   - "[[Lifelong Learning Identity]]"
-  - "[[Personal Knowledge Base]]"
+  - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
   - "[[PKM Design Principles]]"
 
 summary: >
@@ -160,7 +160,7 @@ The answer is not willpower. Research across psychology, behavioral science, and
 
 ### The Synthesis Question
 
-This report addresses a question that sits at the intersection of four disciplinary traditions that rarely speak to each other on this particular problem: *How do [[Self-Determination Theory]]'s account of long-term motivation maintenance, [[Interest Development Theory]]'s model of how interests deepen over time, [[Habit Formation]] research's understanding of behavioral automaticity, and [[Stoic Philosophy]]'s practices for sustained discipline and equanimity combine to explain what makes a PKB practice self-sustaining — and what does this synthesis reveal about the structural features a PKB must embed to compound motivational capital rather than deplete it?*
+This report addresses a question that sits at the intersection of four disciplinary traditions that rarely speak to each other on this particular problem: *How do [[Self-Determination-Theory|Self-Determination Theory]]'s account of long-term motivation maintenance, [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory]]'s model of how interests deepen over time, [[Habit-Formation|Habit Formation]] research's understanding of behavioral automaticity, and [[Stoic-Philosophy|Stoic Philosophy]]'s practices for sustained discipline and equanimity combine to explain what makes a PKB practice self-sustaining — and what does this synthesis reveal about the structural features a PKB must embed to compound motivational capital rather than deplete it?*
 
 **What This Report Covers**: The motivational dynamics of long-term PKB maintenance, with specific attention to interest development, habit architecture, Stoic discipline practices, and identity consolidation. It addresses years-scale sustainability rather than the weeks-scale motivation problem covered in [[05-motivation-architecture-pkm-framework-2026-03-13]].
 
@@ -177,7 +177,7 @@ This report addresses a question that sits at the intersection of four disciplin
 To build the analytical framework, we must introduce the core concepts from each contributing discipline with sufficient precision to enable genuine synthesis. These are not parallel accounts to be considered sequentially; they are complementary lenses to be focused simultaneously on the question of years-scale motivation maintenance.
 
 > [!definition] **Interest Development Theory (Educational Psychology — Hidi & Renninger, 2006)**
-> A four-phase model describing the psychological transformation from externally triggered engagement with a topic to stable, self-generating intrinsic pull. The four phases are: (1) **[[Triggered Situational Interest]]** — initial, often surprise-induced engagement sparked by environmental features; (2) **[[Maintained Situational Interest]]** — sustained engagement that persists when the environmental trigger is removed, supported by personal meaningfulness or involvement; (3) **[[Emerging Individual Interest]]** — the beginning of a stable, personally valued relationship with the content domain, involving positive affect and stored knowledge; (4) **[[Well-Developed Individual Interest]]** — a self-sustaining disposition toward reengage with the domain, characterized by curiosity, deep knowledge, and intrinsic motivation that does not require external prompting. The critical insight: interest is not a fixed trait but a developmental trajectory, and the transitions between phases depend critically on environmental support.
+> A four-phase model describing the psychological transformation from externally triggered engagement with a topic to stable, self-generating intrinsic pull. The four phases are: (1) **[[Triggered-Situational-Interest|Triggered Situational Interest]]** — initial, often surprise-induced engagement sparked by environmental features; (2) **[[Maintained-Situational-Interest|Maintained Situational Interest]]** — sustained engagement that persists when the environmental trigger is removed, supported by personal meaningfulness or involvement; (3) **[[Emerging-Individual-Interest|Emerging Individual Interest]]** — the beginning of a stable, personally valued relationship with the content domain, involving positive affect and stored knowledge; (4) **[[Well-Developed Individual Interest]]** — a self-sustaining disposition toward reengage with the domain, characterized by curiosity, deep knowledge, and intrinsic motivation that does not require external prompting. The critical insight: interest is not a fixed trait but a developmental trajectory, and the transitions between phases depend critically on environmental support.
 
 > [!definition] **Internalization Continuum (SDT — Deci & Ryan)**
 > Self-Determination Theory describes a spectrum from external regulation (behavior driven by external rewards and punishments) through introjected regulation (behavior driven by internal pressure and self-criticism), identified regulation (behavior aligned with personally valued goals), and integrated regulation (behavior fully assimilated into one's core identity and values) to intrinsic motivation (behavior engaged in for its own sake). The key insight for long-term maintenance is that internalization — the movement from external to integrated regulation — is not automatic; it depends on ongoing satisfaction of the three basic psychological needs (autonomy, competence, relatedness). Need frustration arrests or reverses internalization; need satisfaction enables it to progress. Over years, PKB practices that sustain need satisfaction become increasingly self-motivating, while those that frustrate needs become increasingly aversive.
@@ -310,7 +310,7 @@ The mechanism of identity consolidation in the PKB context operates through accu
 
 ### The Motivational Compounding Model
 
-Integrating the three mechanisms — interest deepening, habit inscription, and identity consolidation — yields the report's original synthesis: the **[[Motivational Compounding Model]]**.
+Integrating the three mechanisms — interest deepening, habit inscription, and identity consolidation — yields the report's original synthesis: the **[[Motivational-Compounding-Model|Motivational Compounding Model]]**.
 
 > [!original-synthesis] **The Motivational Compounding Model**
 > Standard models of motivation maintenance treat motivation as a resource to be renewed or protected — a reservoir that depletes through use and must be periodically refilled. The Motivational Compounding Model, derived from synthesizing Interest Development Theory, SDT internalization research, Habit Formation, and Stoic practice, proposes an alternative: **motivation in long-term intellectual practices operates more like compound interest than like a depleting reservoir**. Each mechanism generates returns that increase the base from which future returns are generated. Interest deepening increases the intrinsic reward of each engagement, making future engagement more motivationally rich. Habit inscription reduces the motivational cost of each engagement, improving the ratio of motivational return to cost. Identity consolidation increases the meaning of each engagement, making the accumulated practice a source of identity-sustaining evidence rather than an external obligation. When all three mechanisms operate simultaneously, the motivational return on PKB engagement increases with time rather than decreasing — the system becomes more self-sustaining, not less, as it matures.
@@ -546,16 +546,16 @@ Three questions remain genuinely open and warrant their own future investigation
 > [!topic-idea] [[26-feedback-loops-pkm-framework-2026-03-15]]
 > The Motivational Compounding Model depends entirely on feedback loops that make interest deepening, habit inscription, and identity consolidation visible and self-reinforcing. Report 26 will provide the systemic architecture for designing these feedback loops as first-class structural features of the PKB — not optional review practices but built-in mechanisms that continuously generate the motivational returns the compounding model predicts.
 
-> [!topic-idea] [[Interest Development Theory: Full Literature Review]]
+> [!topic-idea] [[Interest-Development-Theory-Full-Literature-Review|Interest Development Theory: Full Literature Review]]
 > A dedicated deep-dive into the full Interest Development Theory literature, including Renninger and Hidi's subsequent work (2016), the situational interest design research (Mitchell, 1993; Schraw & Lehman, 2001), and the connections to cognitive science through the knowledge-interest co-development mechanism. This would provide the full evidence base for Design Principle 1 and enable more specific guidance about what kinds of PKB practices support each phase transition.
 
-> [!topic-idea] [[PKB Habit Architecture: A Practical Design Guide]]
+> [!topic-idea] [[PKB-Habit-Architecture-A-Practical-Design-Guide|PKB Habit Architecture: A Practical Design Guide]]
 > A practical companion to this report focused specifically on applying Fogg's Behavior Model, Wood & Neal's context-dependency research, and Clear's identity-based habits framework to the concrete design of PKB daily routines, weekly practices, and monthly reviews. Would include worked examples of minimum viable unit design, contextual cue mapping, and reward signal identification for common PKB practices.
 
 > [!topic-idea] [[Stoic Journaling as PKM Practice: A Design and Practice Guide]]
 > The Stoic journaling tradition — from Marcus Aurelius's *Meditations* to Seneca's *Letters* to Epictetus's *Discourses* — represents the longest continuous tradition of sustained intellectual practice documentation in Western history. A dedicated report examining what PKM practitioners can learn from this tradition about the relationship between daily writing practice, values articulation, and intellectual identity maintenance, with specific templates adapted from Stoic practice for contemporary PKB use.
 
-> [!topic-idea] [[Narrative Identity Theory and PKB Design — McAdams and Beyound]]
+> [!topic-idea] [[Narrative-Identity-Theory-and-PKB-Design-—-McAdams-and-Beyound|Narrative Identity Theory and PKB Design — McAdams and Beyound]]
 > Dan McAdams's narrative identity theory provides a psychological framework for understanding how people construct and maintain self-concept through narrative — directly relevant to the identity consolidation mechanism. A dedicated exploration of how PKB synthesis documents, annual reviews, and intellectual autobiography practices engage narrative identity mechanisms, and how the design of these practices can be informed by the clinical and developmental psychology research on narrative identity development.
 
 > [!topic-idea] [[The Longitudinal PKB: Research Design for Personal Study]]

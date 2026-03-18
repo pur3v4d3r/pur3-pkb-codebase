@@ -14,38 +14,38 @@ secondary_domains:
   - educational-philosophy
   - instructional-design
 related_concepts:
-  - "[[Self-Determination Theory]]"
-  - "[[Basic Psychological Needs]]"
-  - "[[Autonomy Need]]"
-  - "[[Competence Need]]"
+  - "[[Self-Determination-Theory|Self-Determination Theory]]"
+  - "[[Basic-Psychological-Needs|Basic Psychological Needs]]"
+  - "[[Autonomy-Need|Autonomy Need]]"
+  - "[[Competence-Need|Competence Need]]"
   - "[[Relatedness Need]]"
-  - "[[Intrinsic Motivation]]"
+  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
   - "[[Extrinsic Motivation]]"
-  - "[[Controlled Motivation]]"
-  - "[[Autonomous Motivation]]"
-  - "[[Achievement Goal Theory]]"
-  - "[[Mastery Goals]]"
-  - "[[Performance Goals]]"
-  - "[[Growth Mindset]]"
+  - "[[Controlled-Motivation|Controlled Motivation]]"
+  - "[[Autonomous-Motivation|Autonomous Motivation]]"
+  - "[[Achievement-Goal-Theory|Achievement Goal Theory]]"
+  - "[[Mastery-Goals|Mastery Goals]]"
+  - "[[Performance-Goals|Performance Goals]]"
+  - "[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]"
   - "[[Fixed Mindset]]"
   - "[[Implicit Theory of Intelligence]]"
-  - "[[Cognitive Evaluation Theory]]"
+  - "[[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]]"
   - "[[Organismic Integration Theory]]"
   - "[[Internalization]]"
   - "[[Identified Regulation]]"
-  - "[[Optimal Challenge]]"
+  - "[[Optimal-Challenge|Optimal Challenge]]"
   - "[[Flow Theory]]"
   - "[[Stoic Discipline]]"
-  - "[[Dichotomy of Control]]"
-  - "[[Premeditatio Malorum]]"
+  - "[[Dichotomy-of-Control|Dichotomy of Control]]"
+  - "[[Premeditatio-Malorum|Premeditatio Malorum]]"
   - "[[Stoic Virtue Ethics]]"
   - "[[Arete]]"
   - "[[Gamification]]"
   - "[[Engagement Design]]"
-  - "[[Learning Experience Design]]"
+  - "[[Learning-Experience-Design|Learning Experience Design]]"
   - "[[Motivational Architecture]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Personal Knowledge Base]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
   - "[[PKM Design Principles]]"
   - "[[Autonomy-Supporting Design]]"
   - "[[Mastery Orientation]]"
@@ -112,7 +112,7 @@ This pattern is not primarily a systems design problem. It is a motivational arc
 
 ### The Synthesis Question
 
-This report addresses a compound question at the intersection of four disciplinary traditions: **How do [[Self-Determination Theory]], [[Achievement Goal Theory]], [[Mindset Theory]], and [[Stoic Philosophy]] converge and diverge in explaining sustained PKB engagement — and how should PKM systems be designed to cultivate intrinsic motivation rather than merely incentivize performance?**
+This report addresses a compound question at the intersection of four disciplinary traditions: **How do [[Self-Determination-Theory|Self-Determination Theory]], [[Achievement-Goal-Theory|Achievement Goal Theory]], [[Mindset Theory]], and [[Stoic-Philosophy|Stoic Philosophy]] converge and diverge in explaining sustained PKB engagement — and how should PKM systems be designed to cultivate intrinsic motivation rather than merely incentivize performance?**
 
 What makes this question genuinely difficult is that each tradition addresses a real dimension of the motivational problem while leaving others underspecified. SDT explains what needs must be satisfied for intrinsic motivation to emerge and persist, but says relatively little about how to maintain engagement when those needs are temporarily frustrated. AGT explains how the goals people adopt shape their experience of learning activity, but treats goal adoption somewhat independently of the motivational substrate that SDT describes. Mindset Theory explains how implicit beliefs about the nature of intelligence shape how learners respond to challenge and failure, but its practical implications for self-directed adult learning (as opposed to classroom contexts) require careful re-examination. Stoic Philosophy offers something that the empirical traditions lack: a highly developed technology for maintaining equanimity and disciplined engagement precisely when motivational conditions are adverse — when needs are frustrated, goals are blocked, and progress is invisible.
 
@@ -120,13 +120,13 @@ The synthesis is richer than any single tradition. A PKB designed with motivatio
 
 ### Disciplinary Contributions and Their Intersections
 
-**[[Educational Psychology]]**, through Deci and Ryan's [[Self-Determination Theory]] (1985, 2000), provides the foundational motivational architecture: three basic psychological needs — [[Autonomy Need|autonomy]], [[Competence Need|competence]], and [[Relatedness Need|relatedness]] — whose satisfaction predicts intrinsic motivation and whose frustration predicts amotivation and disengagement. The empirical base is unusually robust for motivational psychology, spanning hundreds of studies across cultures and domains. **[[Educational Psychology]]** also contributes [[Achievement Goal Theory]] (Ames, 1992; Elliot & McGregor, 2001), which reveals that the goals people adopt — mastery-approach, performance-approach, mastery-avoidance, performance-avoidance — shape not merely outcomes but the entire phenomenology of learning activity, including how learners interpret errors, challenges, and progress.
+**[[Educational-Psychology|Educational Psychology]]**, through Deci and Ryan's [[Self-Determination-Theory|Self-Determination Theory]] (1985, 2000), provides the foundational motivational architecture: three basic psychological needs — [[Autonomy Need|autonomy]], [[Competence Need|competence]], and [[Relatedness Need|relatedness]] — whose satisfaction predicts intrinsic motivation and whose frustration predicts amotivation and disengagement. The empirical base is unusually robust for motivational psychology, spanning hundreds of studies across cultures and domains. **[[Educational-Psychology|Educational Psychology]]** also contributes [[Achievement-Goal-Theory|Achievement Goal Theory]] (Ames, 1992; Elliot & McGregor, 2001), which reveals that the goals people adopt — mastery-approach, performance-approach, mastery-avoidance, performance-avoidance — shape not merely outcomes but the entire phenomenology of learning activity, including how learners interpret errors, challenges, and progress.
 
-**[[Cognitive Psychology]]** contributes [[Mindset Theory]] via Dweck's implicit theories of intelligence research (1999, 2006): the finding that whether people believe intelligence is fixed or growable systematically predicts how they respond to challenge and failure, with growth mindset predicting more adaptive patterns. The translation to PKB design requires care, given important complexity in the replication record.
+**[[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]]** contributes [[Mindset Theory]] via Dweck's implicit theories of intelligence research (1999, 2006): the finding that whether people believe intelligence is fixed or growable systematically predicts how they respond to challenge and failure, with growth mindset predicting more adaptive patterns. The translation to PKB design requires care, given important complexity in the replication record.
 
-**[[Stoic Philosophy]]** — through Epictetus's *Enchiridion*, Marcus Aurelius's *Meditations*, and Seneca's *Letters* — contributes what empirical psychology has not yet fully formalized: a *technology of motivation maintenance under adversity*. The [[Dichotomy of Control]] (eph' hēmin / ouk eph' hēmin — what is up to us versus what is not) provides a philosophical framework for reorienting motivational attention from uncontrollable outcomes to controllable processes. [[Premeditatio Malorum]] (premeditation of obstacles) provides a prospective resilience strategy for maintaining commitment through anticipated difficulty. These are not merely philosophical attitudes; they are cognitive-behavioral practices with measurable effects on persistence.
+**[[Stoic-Philosophy|Stoic Philosophy]]** — through Epictetus's *Enchiridion*, Marcus Aurelius's *Meditations*, and Seneca's *Letters* — contributes what empirical psychology has not yet fully formalized: a *technology of motivation maintenance under adversity*. The [[Dichotomy-of-Control|Dichotomy of Control]] (eph' hēmin / ouk eph' hēmin — what is up to us versus what is not) provides a philosophical framework for reorienting motivational attention from uncontrollable outcomes to controllable processes. [[Premeditatio-Malorum|Premeditatio Malorum]] (premeditation of obstacles) provides a prospective resilience strategy for maintaining commitment through anticipated difficulty. These are not merely philosophical attitudes; they are cognitive-behavioral practices with measurable effects on persistence.
 
-**[[Learning Experience Design]]** provides the design translation layer: how abstract motivational principles become concrete system features, interface decisions, and workflow designs that support or undermine the conditions SDT, AGT, and Stoic practice identify as essential.
+**[[Learning-Experience-Design|Learning Experience Design]]** provides the design translation layer: how abstract motivational principles become concrete system features, interface decisions, and workflow designs that support or undermine the conditions SDT, AGT, and Stoic practice identify as essential.
 
 ### Roadmap
 
@@ -138,30 +138,30 @@ Phase II establishes the conceptual foundations across all four traditions, intr
 
 ### The Architecture of Self-Determination
 
-The most important theoretical contribution of [[Self-Determination Theory]] (SDT) is not the concept of intrinsic motivation itself — the idea that people can find activities inherently rewarding predates SDT by decades. The contribution is the *structural analysis* of what conditions must obtain for intrinsic motivation to emerge and persist, and what specific mechanisms explain its presence or absence.
+The most important theoretical contribution of [[Self-Determination-Theory|Self-Determination Theory]] (SDT) is not the concept of intrinsic motivation itself — the idea that people can find activities inherently rewarding predates SDT by decades. The contribution is the *structural analysis* of what conditions must obtain for intrinsic motivation to emerge and persist, and what specific mechanisms explain its presence or absence.
 
 > [!definition] **Basic Psychological Needs (Deci & Ryan, 2000 — Educational Psychology / Psychology of Learning)**
 > SDT proposes that human beings have three innate, universal, psychological needs whose satisfaction is necessary for ongoing motivation, growth, and well-being: (1) **[[Autonomy Need|Autonomy]]** — the need to experience one's behavior as self-initiated and self-endorsed, rather than controlled or coerced by external pressures; (2) **[[Competence Need|Competence]]** — the need to experience oneself as effective and capable in one's interactions with the environment, including the ability to produce desired outcomes and avoid undesired ones; (3) **[[Relatedness Need|Relatedness]]** — the need to experience closeness, care, and connection with significant others. These needs are not preferences or values that vary across individuals — SDT treats them as universal organismic requirements whose satisfaction supports psychological flourishing and whose frustration produces ill-being and motivational deterioration. The boundary condition: SDT carefully distinguishes need *satisfaction* (positive experience of meeting the need) from need *frustration* (active thwarting of the need), treating frustration as more than mere absence of satisfaction.
 
-The concept of [[Autonomous Motivation]] versus [[Controlled Motivation]] is equally central. SDT's [[Organismic Integration Theory]] (a mini-theory within SDT) describes a continuum of regulatory styles: from pure external regulation (doing something only because of external reward or punishment) through introjected regulation (doing something to avoid guilt or gain ego-esteem), identified regulation (doing something because one values the activity or its outcomes), and integrated regulation (doing something because it is fully assimilated to one's sense of self and values), to intrinsic motivation (doing something for its inherent interest and enjoyment). This is not a simple binary between intrinsic and extrinsic; it is a continuum of *internalization*. The motivational problem in PKM is frequently not that the user is entirely externally motivated — it is that they have not fully internalized the value of the practice, leaving their motivation fragile and vulnerable to disruption.
+The concept of [[Autonomous-Motivation|Autonomous Motivation]] versus [[Controlled-Motivation|Controlled Motivation]] is equally central. SDT's [[Organismic Integration Theory]] (a mini-theory within SDT) describes a continuum of regulatory styles: from pure external regulation (doing something only because of external reward or punishment) through introjected regulation (doing something to avoid guilt or gain ego-esteem), identified regulation (doing something because one values the activity or its outcomes), and integrated regulation (doing something because it is fully assimilated to one's sense of self and values), to intrinsic motivation (doing something for its inherent interest and enjoyment). This is not a simple binary between intrinsic and extrinsic; it is a continuum of *internalization*. The motivational problem in PKM is frequently not that the user is entirely externally motivated — it is that they have not fully internalized the value of the practice, leaving their motivation fragile and vulnerable to disruption.
 
 > [!definition] **Cognitive Evaluation Theory (Deci & Ryan, 1985 — Educational Psychology)**
 > A mini-theory within SDT that explains how environmental events affect intrinsic motivation by influencing perceived autonomy and competence. Events that support autonomy (offering choice, providing rationale, acknowledging perspective) and confirm competence (optimal challenge, positive informational feedback) enhance intrinsic motivation. Events that control behavior (rewards contingent on performance, deadlines, surveillance, evaluation pressure) undermine intrinsic motivation by shifting perceived locus of causality from internal to external. The critical practical implication: even genuinely valued rewards can crowd out intrinsic motivation if they are experienced as controlling. This is the mechanism behind why gamification frequently backfires.
 
 ### Goal Orientation and the Phenomenology of Learning
 
-[[Achievement Goal Theory]] operates at a different level of analysis than SDT. Where SDT asks "what needs are being satisfied or frustrated?", AGT asks "what does this person believe they are trying to accomplish in this learning activity?" — and shows that the answer to this question shapes everything else about how the activity is experienced.
+[[Achievement-Goal-Theory|Achievement Goal Theory]] operates at a different level of analysis than SDT. Where SDT asks "what needs are being satisfied or frustrated?", AGT asks "what does this person believe they are trying to accomplish in this learning activity?" — and shows that the answer to this question shapes everything else about how the activity is experienced.
 
 > [!definition] **Achievement Goal Theory (Ames, 1992; Elliot & McGregor, 2001 — Educational Psychology)**
-> A framework holding that achievement behavior is organized around conceptually distinct goals that create different psychological orientations toward learning. The central distinction is between **[[Mastery Goals]]** (focused on developing competence, understanding, and skill — the standard of success is personal improvement) and **[[Performance Goals]]** (focused on demonstrating competence relative to others, or avoiding demonstrations of incompetence — the standard of success is normative comparison). Elliot and McGregor's (2001) 2×2 refinement added an approach/avoidance dimension: mastery-approach (trying to learn and improve), mastery-avoidance (trying not to lose one's current level of competence — especially relevant for aging adults), performance-approach (trying to outperform others), and performance-avoidance (trying not to appear incompetent). The boundary condition: this framework characterizes the psychological orientation toward achievement activity, not an intrinsic property of tasks. The same task can be approached with any goal orientation.
+> A framework holding that achievement behavior is organized around conceptually distinct goals that create different psychological orientations toward learning. The central distinction is between **[[Mastery-Goals|Mastery Goals]]** (focused on developing competence, understanding, and skill — the standard of success is personal improvement) and **[[Performance-Goals|Performance Goals]]** (focused on demonstrating competence relative to others, or avoiding demonstrations of incompetence — the standard of success is normative comparison). Elliot and McGregor's (2001) 2×2 refinement added an approach/avoidance dimension: mastery-approach (trying to learn and improve), mastery-avoidance (trying not to lose one's current level of competence — especially relevant for aging adults), performance-approach (trying to outperform others), and performance-avoidance (trying not to appear incompetent). The boundary condition: this framework characterizes the psychological orientation toward achievement activity, not an intrinsic property of tasks. The same task can be approached with any goal orientation.
 
 The practical import of AGT for PKB design is profound. A learner with a predominant mastery-approach orientation experiences errors in their PKB as information — signals about what to investigate further, what is not yet understood, where schema gaps lie. A learner with a predominant performance orientation experiences the same errors as threats — evidence of inadequacy, reasons to avoid similar tasks, triggers for ego-protective disengagement. These are not merely different attitudes toward the same activity; they are genuinely different learning environments, each with different consequences for long-term development.
 
 > [!definition] **Growth Mindset / Implicit Theories of Intelligence (Dweck, 1999, 2006 — Educational Psychology)**
-> Carol Dweck's research program on "implicit theories" of intelligence identifies two contrasting lay theories: the **[[Fixed Mindset]]** view that intelligence is a fixed entity (entity theory) — one has a certain amount and tasks reveal how much; and the **[[Growth Mindset]]** view that intelligence is malleable and developable through effort (incremental theory). Dweck's research shows these implicit theories predict distinct motivational and behavioral patterns: fixed-mindset individuals tend to avoid challenges, give up more quickly after failure, and interpret effort as evidence of low ability; growth-mindset individuals tend to embrace challenges, persist through failure, and interpret effort as the mechanism of growth. The boundary condition: the relationship between mindset beliefs and behavior is moderated by numerous contextual and individual factors; the pathway from belief to behavior is not as direct as popularized accounts suggest. Recent replication research has found more modest effect sizes than original studies reported.
+> Carol Dweck's research program on "implicit theories" of intelligence identifies two contrasting lay theories: the **[[Fixed Mindset]]** view that intelligence is a fixed entity (entity theory) — one has a certain amount and tasks reveal how much; and the **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** view that intelligence is malleable and developable through effort (incremental theory). Dweck's research shows these implicit theories predict distinct motivational and behavioral patterns: fixed-mindset individuals tend to avoid challenges, give up more quickly after failure, and interpret effort as evidence of low ability; growth-mindset individuals tend to embrace challenges, persist through failure, and interpret effort as the mechanism of growth. The boundary condition: the relationship between mindset beliefs and behavior is moderated by numerous contextual and individual factors; the pathway from belief to behavior is not as direct as popularized accounts suggest. Recent replication research has found more modest effect sizes than original studies reported.
 
 > [!cross-domain-connection] **The Structural Isomorphism: SDT's Autonomy and Stoic Control**
-> At first glance, [[Self-Determination Theory]]'s concept of [[Autonomous Motivation]] and [[Stoic Philosophy]]'s [[Dichotomy of Control]] (eph' hēmin / ouk eph' hēmin) address entirely different problems — one is a motivational psychology framework, the other an ancient Greco-Roman philosophical practice. But they share a deep structural claim: that the quality of motivational engagement depends fundamentally on where one locates the locus of agency. SDT holds that intrinsic motivation requires *perceived autonomy* — the sense that one's actions are self-initiated rather than externally coerced. Stoicism holds that flourishing requires *directing attention to what is genuinely "up to us"* — our effort, our judgment, our interpretation — rather than to what is not, including outcomes, other people's evaluations, and external circumstances. Both traditions, by completely independent routes, arrive at the same prescriptive conclusion: engagement is most robust when it is organized around one's own activity rather than its external reception. For PKB design, this convergence is diagnostic: a system that ties motivation primarily to outcomes (completion rates, streak maintenance, note counts) is architecturally fragile. A system that focuses motivational attention on the activity itself — the thinking, the connecting, the questioning — is architecturally resilient.
+> At first glance, [[Self-Determination-Theory|Self-Determination Theory]]'s concept of [[Autonomous-Motivation|Autonomous Motivation]] and [[Stoic-Philosophy|Stoic Philosophy]]'s [[Dichotomy-of-Control|Dichotomy of Control]] (eph' hēmin / ouk eph' hēmin) address entirely different problems — one is a motivational psychology framework, the other an ancient Greco-Roman philosophical practice. But they share a deep structural claim: that the quality of motivational engagement depends fundamentally on where one locates the locus of agency. SDT holds that intrinsic motivation requires *perceived autonomy* — the sense that one's actions are self-initiated rather than externally coerced. Stoicism holds that flourishing requires *directing attention to what is genuinely "up to us"* — our effort, our judgment, our interpretation — rather than to what is not, including outcomes, other people's evaluations, and external circumstances. Both traditions, by completely independent routes, arrive at the same prescriptive conclusion: engagement is most robust when it is organized around one's own activity rather than its external reception. For PKB design, this convergence is diagnostic: a system that ties motivation primarily to outcomes (completion rates, streak maintenance, note counts) is architecturally fragile. A system that focuses motivational attention on the activity itself — the thinking, the connecting, the questioning — is architecturally resilient.
 
 ### Stoic Philosophy as Motivational Technology
 
@@ -193,7 +193,7 @@ It is important to be precise about what Stoic Philosophy contributes to this sy
 
 ### The SDT Evidence Base
 
-Self-Determination Theory rests on an unusually extensive and methodologically diverse empirical foundation. Deci and colleagues' initial [[Cognitive Evaluation Theory]] experiments (Deci, 1971; Lepper, Greene, & Nisbett, 1973) demonstrated that external rewards contingent on performing an intrinsically interesting activity reduced subsequent intrinsic motivation in laboratory settings — a finding that contradicted behaviorist assumptions and established what became known as the "overjustification effect." A 1999 meta-analysis by Deci, Koestner, and Ryan synthesized 128 experiments and found robust support for the undermining effect of tangible, expected, contingent rewards on intrinsic motivation (d ≈ -0.68).
+Self-Determination Theory rests on an unusually extensive and methodologically diverse empirical foundation. Deci and colleagues' initial [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] experiments (Deci, 1971; Lepper, Greene, & Nisbett, 1973) demonstrated that external rewards contingent on performing an intrinsically interesting activity reduced subsequent intrinsic motivation in laboratory settings — a finding that contradicted behaviorist assumptions and established what became known as the "overjustification effect." A 1999 meta-analysis by Deci, Koestner, and Ryan synthesized 128 experiments and found robust support for the undermining effect of tangible, expected, contingent rewards on intrinsic motivation (d ≈ -0.68).
 
 Critically for PKM design, subsequent research established that the *type* of reward matters enormously. The cognitive evaluation process distinguishes between the *controlling* and *informational* aspects of environmental events. Feedback that confirms competence (positive informational feedback) tends to *enhance* intrinsic motivation; feedback that is experienced as controlling (surveillance, performance-contingent rewards, deadlines without rationale) tends to *undermine* it. This distinction has been replicated across educational, healthcare, workplace, and sport contexts.
 
@@ -387,17 +387,17 @@ Several important questions remain open. The relationship between individual lea
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[Self-Determination Theory]]** — SDT is the primary motivational framework in this report and should be a major node in your knowledge graph. Connecting it to notes on [[Cognitive Evaluation Theory]], [[Organismic Integration Theory]], and [[Basic Psychological Needs]] will create a rich sub-network within your PKB. When linking to educational practice notes, SDT connections should appear throughout.
+> - **[[Self-Determination-Theory|Self-Determination Theory]]** — SDT is the primary motivational framework in this report and should be a major node in your knowledge graph. Connecting it to notes on [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]], [[Organismic Integration Theory]], and [[Basic-Psychological-Needs|Basic Psychological Needs]] will create a rich sub-network within your PKB. When linking to educational practice notes, SDT connections should appear throughout.
 >
-> - **[[Achievement Goal Theory]]** — AGT links naturally to all notes on learning strategy, academic performance, and educational design. The mastery/performance distinction connects to [[Assessment Design]], [[Feedback Design]], and [[Learning Environment Design]] — a rich interconnection hub.
+> - **[[Achievement-Goal-Theory|Achievement Goal Theory]]** — AGT links naturally to all notes on learning strategy, academic performance, and educational design. The mastery/performance distinction connects to [[Assessment-Design|Assessment Design]], [[Feedback-Design|Feedback Design]], and [[Learning Environment Design]] — a rich interconnection hub.
 >
-> - **[[Stoic Philosophy]]** — Your Stoic notes (if any exist) should now connect explicitly to motivational psychology notes, not merely to philosophy notes. The [[Dichotomy of Control]] → [[Autonomous Motivation]] connection is a particularly high-value bidirectional link. [[Premeditatio Malorum]] should connect to [[Implementation Intentions]] and [[Obstacle Planning]] in your PKB.
+> - **[[Stoic-Philosophy|Stoic Philosophy]]** — Your Stoic notes (if any exist) should now connect explicitly to motivational psychology notes, not merely to philosophy notes. The [[Dichotomy-of-Control|Dichotomy of Control]] → [[Autonomous-Motivation|Autonomous Motivation]] connection is a particularly high-value bidirectional link. [[Premeditatio-Malorum|Premeditatio Malorum]] should connect to [[Implementation-Intentions|Implementation Intentions]] and [[Obstacle Planning]] in your PKB.
 >
-> - **[[Gamification]]** — Your PKB likely has existing notes on gamification (from technology, education, or productivity contexts). This report substantially complicates the gamification narrative — the existing note should link to SDT's [[Cognitive Evaluation Theory]] for the undermining mechanism, and to Stoic [[Dichotomy of Control]] for the outcome-contingency problem.
+> - **[[Gamification]]** — Your PKB likely has existing notes on gamification (from technology, education, or productivity contexts). This report substantially complicates the gamification narrative — the existing note should link to SDT's [[Cognitive-Evaluation-Theory|Cognitive Evaluation Theory]] for the undermining mechanism, and to Stoic [[Dichotomy-of-Control|Dichotomy of Control]] for the outcome-contingency problem.
 >
-> - **[[Growth Mindset]]** — The replication complexity discussed in Phase III is an important epistemic note: existing mindset notes in your PKB should be flagged with appropriate confidence levels. This report's AGT-based alternative (behavioral architecture over belief change) should be linked as a complementary or alternative perspective.
+> - **[[Growth-Mindset-Implicit-Theories-of-Intelligence|Growth Mindset]]** — The replication complexity discussed in Phase III is an important epistemic note: existing mindset notes in your PKB should be flagged with appropriate confidence levels. This report's AGT-based alternative (behavioral architecture over belief change) should be linked as a complementary or alternative perspective.
 >
-> - **[[Intrinsic Motivation]]** — A hub concept connecting to [[Autonomy Need]], [[Competence Need]], [[Relatedness Need]], [[Internalization]], and [[Flow Theory]]. This should become a central node in your learning psychology sub-network.
+> - **[[Intrinsic-Motivation|Intrinsic Motivation]]** — A hub concept connecting to [[Autonomy-Need|Autonomy Need]], [[Competence-Need|Competence Need]], [[Relatedness Need]], [[Internalization]], and [[Flow Theory]]. This should become a central node in your learning psychology sub-network.
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
@@ -490,7 +490,7 @@ Several important questions remain open. The relationship between individual lea
 
 > [!further-exploration] **Deepening Your Motivational Architecture Framework**
 >
-> > [!topic-idea] [[Emotional Regulation and Academic Emotions in PKB Practice]]
+> > [!topic-idea] [[Emotional-Regulation-and-Academic-Emotions-in-PKB-Practice|Emotional Regulation and Academic Emotions in PKB Practice]]
 > > Self-Determination Theory describes the conditions for intrinsic motivation but does not provide a detailed account of the emotional texture of PKB engagement — the frustration, anxiety, curiosity, pride, and confusion that accompany knowledge work. Report 13 will address this directly, drawing on Pekrun's Control-Value Theory of academic emotions and SDT's account of emotional consequences of need satisfaction/frustration. Key questions: How do negative academic emotions (frustration at difficult material, anxiety about review backlogs) relate to motivational architecture? What PKB design features support emotional regulation during the inevitable difficult periods?
 >
 > > [!topic-idea] [[Interest Development Theory and the PKB Knowledge Niche]]
@@ -502,7 +502,7 @@ Several important questions remain open. The relationship between individual lea
 > > [!topic-idea] [[The WOOP Method and Prospective Motivational Planning for Knowledge Work]]
 > > Gabriele Oettingen's research program on WOOP (Wish, Outcome, Obstacle, Plan) provides the contemporary psychological research version of premeditatio malorum, with extensive experimental backing for effectiveness in goal pursuit. Applying WOOP specifically to PKB practice goals — establishing a rich learning vision, anticipating the obstacles most likely to disrupt it, and forming implementation intentions — would provide a concrete, research-backed motivational architecture tool for the PKB.
 >
-> > [!topic-idea] [[Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]]
+> > [!topic-idea] [[Deliberate-Practice-and-the-Competence-Need-—-When-Effortful-Learning-is-Motivat|Deliberate Practice and the Competence Need — When Effortful Learning is Motivationally Sustainable]]
 > > Ericsson's deliberate practice research shows that the highest levels of skill development require engaging with the most demanding material, often past the point of intrinsic enjoyment. How is this compatible with SDT's competence need satisfaction account? The resolution requires examining what Ericsson calls "motivated by the outcome" in SDT terms — integrated regulation through deep identity investment — and exploring the conditions under which challenging, non-enjoyable practice can be motivationally sustainable for PKB users. This connects directly to expertise development theory and has implications for how long-term PKB practice should evolve as competence grows.
 >
 > > [!topic-idea] [[Gamification in Learning Contexts — A Systematic Review and Design Critique]]

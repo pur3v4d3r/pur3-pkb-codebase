@@ -38,7 +38,7 @@ from collections import defaultdict
 # ── CONFIGURATION ─────────────────────────────────────────────────────────
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 NOTES_DIR = PROJECT_ROOT / "_permanent-notes"
-REPORTS_DIR = PROJECT_ROOT / "extraction-material" / "markdown"
+REPORTS_DIR = PROJECT_ROOT / "report-series"
 
 # Wiki-link regex: captures [[target]] and [[target|display]] and [[target#heading]]
 # Group 1 = full match interior, but we use finditer on the raw text

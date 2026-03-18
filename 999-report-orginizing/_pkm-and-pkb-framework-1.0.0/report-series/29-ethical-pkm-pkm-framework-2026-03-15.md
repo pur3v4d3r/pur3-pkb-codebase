@@ -92,34 +92,34 @@ analytical-contributions:
   total-analytical-commentary: 18
 
 related-concepts:
-  - "[[Virtue Epistemology]]"
-  - "[[Intellectual Virtues]]"
-  - "[[Intellectual Humility]]"
-  - "[[Intellectual Courage]]"
-  - "[[Intellectual Honesty]]"
+  - "[[Virtue-Epistemology|Virtue Epistemology]]"
+  - "[[Intellectual-Virtues|Intellectual Virtues]]"
+  - "[[Intellectual-Humility|Intellectual Humility]]"
+  - "[[Intellectual-Courage|Intellectual Courage]]"
+  - "[[Intellectual-Honesty|Intellectual Honesty]]"
   - "[[Open-Mindedness]]"
-  - "[[Epistemic Conscientiousness]]"
-  - "[[Stoic Ethics]]"
-  - "[[Kataleptic Impression]]"
-  - "[[Stoic Assent]]"
-  - "[[Ethics of Belief]]"
+  - "[[Epistemic-Conscientiousness|Epistemic Conscientiousness]]"
+  - "[[Stoic-Ethics|Stoic Ethics]]"
+  - "[[Kataleptic-Impression|Kataleptic Impression]]"
+  - "[[Stoic-Assent|Stoic Assent]]"
+  - "[[Ethics-of-Belief|Ethics of Belief]]"
   - "[[Epistemic Obligation]]"
-  - "[[Epistemic Justice]]"
-  - "[[Testimonial Injustice]]"
-  - "[[Hermeneutical Injustice]]"
-  - "[[Motivated Reasoning]]"
+  - "[[Epistemic-Justice|Epistemic Justice]]"
+  - "[[Testimonial-Injustice|Testimonial Injustice]]"
+  - "[[Hermeneutical-Injustice|Hermeneutical Injustice]]"
+  - "[[Motivated-Reasoning|Motivated Reasoning]]"
   - "[[Self-Deception]]"
-  - "[[Confirmation Bias]]"
-  - "[[Myside Bias]]"
-  - "[[Epistemic Status]]"
+  - "[[Confirmation-Bias-Myside-Bias|Confirmation Bias]]"
+  - "[[Confirmation-Bias-Myside-Bias|Myside Bias]]"
+  - "[[Epistemic-Status|Epistemic Status]]"
   - "[[Calibration]]"
   - "[[Curation Ethics]]"
-  - "[[Link Ethics]]"
+  - "[[Link-Ethics|Link Ethics]]"
   - "[[Source Evaluation]]"
-  - "[[Epistemic Citizenship]]"
-  - "[[Intellectual Vice]]"
-  - "[[Epistemic Cowardice]]"
-  - "[[Belief Revision]]"
+  - "[[Epistemic-Citizenship|Epistemic Citizenship]]"
+  - "[[Intellectual-Vice|Intellectual Vice]]"
+  - "[[Epistemic-Cowardice|Epistemic Cowardice]]"
+  - "[[Belief-Revision|Belief Revision]]"
 
 keywords:
   - virtue-epistemology
@@ -151,14 +151,14 @@ Most PKM discourse is framed in purely instrumental terms. Better systems, bette
 
 When you store a claim in your PKB, you are doing something more than filing information. You are, at least implicitly, endorsing it as worth believing, worth remembering, worth influencing your future thinking. When you link two notes together, you are asserting a relationship — causal, conceptual, evidential — between ideas. When you curate your knowledge base to include some voices and exclude others, you are making judgments about whose testimony is credible, whose experience counts as knowledge. When you revise or delete a note, you are deciding that some prior belief no longer deserves a place in your intellectual life.
 
-Each of these acts carries moral weight. Not heavy, dramatic weight — but the quiet, accumulated weight that determines the kind of knower you are becoming. And [[Virtue Epistemology]], the tradition that grounds good knowing in intellectual character rather than in rule-following, argues that the kind of knower you are becoming is among the most important things about you.
+Each of these acts carries moral weight. Not heavy, dramatic weight — but the quiet, accumulated weight that determines the kind of knower you are becoming. And [[Virtue-Epistemology|Virtue Epistemology]], the tradition that grounds good knowing in intellectual character rather than in rule-following, argues that the kind of knower you are becoming is among the most important things about you.
 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, take a moment to ask: Have you ever thought of your PKB as an ethical object — something that reflects and shapes your moral character as a thinker, not just your cognitive efficiency? What practices in your current PKM system might not survive ethical scrutiny? What assumptions are you making about whose knowledge counts, what counts as evidence, and how certain you should be before recording something as "known"?
 
 ### The Synthesis Question
 
-This report synthesizes across [[Virtue Epistemology]], [[Stoic Ethics]], [[Critical Thinking Ethics]], [[Epistemic Justice]], and the [[Psychology of Self-Deception]] to address a unified question: **What does it mean to manage personal knowledge responsibly — and how should that answer reshape PKB design?**
+This report synthesizes across [[Virtue-Epistemology|Virtue Epistemology]], [[Stoic-Ethics|Stoic Ethics]], [[Critical-Thinking-Ethics|Critical Thinking Ethics]], [[Epistemic-Justice|Epistemic Justice]], and the [[Psychology-of-Self-Deception|Psychology of Self-Deception]] to address a unified question: **What does it mean to manage personal knowledge responsibly — and how should that answer reshape PKB design?**
 
 The disciplines we draw on have rarely been placed in direct conversation with each other, and even more rarely applied to personal knowledge management. Virtue epistemologists have theorized intellectual character without thinking about PKB systems. Stoic philosophers have articulated duties of careful cognition without digital note-taking in mind. Critical thinking ethicists have argued about epistemic obligations without addressing how those obligations apply to the curation of a personal archive. Epistemic justice theorists have examined whose knowledge gets recognized without examining how individual PKBs participate in or resist those patterns. This report brings them together.
 
@@ -176,7 +176,7 @@ As the penultimate report, it occupies a particular position: it is not extendin
 
 ### Virtue Epistemology: Knowledge as a Character Achievement
 
-The tradition of [[Virtue Epistemology]] — developed by Ernest Sosa, John Greco, Linda Zagzebski, and others from the 1980s onward — begins with a dissatisfaction with the standard epistemological question "What is knowledge?" asked purely in terms of belief, truth, and justification. The Gettier problem (encountered in [[28-philosophy-of-personal-knowledge-pkm-framework-2026-03-15]]) revealed that even justified true belief is insufficient for knowledge, and the subsequent fifty years of epistemology have struggled to patch the account. Virtue epistemology offers a different response: instead of looking for the right combination of epistemic properties that beliefs must have, look instead to the epistemic agent and ask what character traits reliably produce good cognitive outcomes.
+The tradition of [[Virtue-Epistemology|Virtue Epistemology]] — developed by Ernest Sosa, John Greco, Linda Zagzebski, and others from the 1980s onward — begins with a dissatisfaction with the standard epistemological question "What is knowledge?" asked purely in terms of belief, truth, and justification. The Gettier problem (encountered in [[28-philosophy-of-personal-knowledge-pkm-framework-2026-03-15]]) revealed that even justified true belief is insufficient for knowledge, and the subsequent fifty years of epistemology have struggled to patch the account. Virtue epistemology offers a different response: instead of looking for the right combination of epistemic properties that beliefs must have, look instead to the epistemic agent and ask what character traits reliably produce good cognitive outcomes.
 
 > [!definition] **Intellectual Virtue (Virtue Epistemology — Zagzebski, 1996)**
 > A stable disposition of a person's character that reliably produces epistemically good outcomes — correct beliefs, well-calibrated confidence, appropriately revised beliefs — through the exercise of that person's own cognitive agency. Intellectual virtues are not merely habits that happen to produce good results; they involve genuine motivation toward epistemic goods (truth, understanding, knowledge) and the skilled exercise of cognitive capacities in pursuit of those goods. Key intellectual virtues include intellectual humility, intellectual courage, open-mindedness, thoroughness, intellectual honesty, and epistemic conscientiousness. Boundary condition: a belief produced accidentally by a virtuous disposition may not count as an achievement in the relevant sense — the virtue must be genuinely responsible for the outcome.
@@ -212,7 +212,7 @@ The Stoics — Epictetus, Marcus Aurelius, Seneca, and Chrysippus before them �
 > For the Stoics, virtue is the only true good — the only thing that cannot be taken from us because it resides in our rational agency. Epistemic virtue — the careful, honest, courageous exercise of judgment — is therefore not merely instrumentally valuable (it helps us know more accurately) but intrinsically valuable (it expresses what is distinctively excellent about rational beings). Marcus Aurelius returns to this repeatedly in the *Meditations*: the obligation to think clearly, honestly, and without self-deception is not just pragmatically useful — it is an expression of one's nature as a rational being (*logos*), the fulfillment of what one is.
 
 > [!cross-domain-connection] **Stoic Assent and the Psychology of Confirmation Bias**
-> The Stoic doctrine of examined assent — the duty to pause before endorsing impressions, to check them against rational criteria before allowing them to shape one's beliefs — finds its contemporary empirical counterpart in research on [[Confirmation Bias]] and [[Motivated Reasoning]] (Nickerson, 1998; Kunda, 1990). Motivated reasoning is the psychological mechanism by which we give assent to impressions that confirm what we already want to believe, and withhold assent from those that threaten it — exactly the epistemic failure the Stoics diagnosed as one of the central obstacles to wisdom. The Stoic prescription (practice deliberate examination of impressions before assent) and the psychological prescription (implement cognitive debiasing strategies, seek disconfirmatory evidence) are structurally identical. This convergence across two-thousand years of intellectual history — Hellenistic philosophy and contemporary cognitive psychology — provides unusually strong grounds for treating examined assent as a genuine epistemic norm.
+> The Stoic doctrine of examined assent — the duty to pause before endorsing impressions, to check them against rational criteria before allowing them to shape one's beliefs — finds its contemporary empirical counterpart in research on [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] and [[Motivated-Reasoning|Motivated Reasoning]] (Nickerson, 1998; Kunda, 1990). Motivated reasoning is the psychological mechanism by which we give assent to impressions that confirm what we already want to believe, and withhold assent from those that threaten it — exactly the epistemic failure the Stoics diagnosed as one of the central obstacles to wisdom. The Stoic prescription (practice deliberate examination of impressions before assent) and the psychological prescription (implement cognitive debiasing strategies, seek disconfirmatory evidence) are structurally identical. This convergence across two-thousand years of intellectual history — Hellenistic philosophy and contemporary cognitive psychology — provides unusually strong grounds for treating examined assent as a genuine epistemic norm.
 
 ### The Ethics of Belief: Clifford, James, and the Obligations of Credence
 
@@ -258,7 +258,7 @@ The philosopher Miranda Fricker introduced a largely unrecognized dimension of e
 > [!ask-yourself-this] **Knowledge State — Before**
 > Before engaging with the evidence: What do you believe about how epistemically responsible people naturally are when managing personal knowledge? On a scale of 1-10, how confident are you that your current PKM practices are free of systematic epistemic bias? Note this before reading further.
 
-The empirical evidence from cognitive psychology paints a consistent — and humbling — picture: the intellectual vices that virtue epistemology and Stoic ethics warn against are not pathological outliers but default tendencies of normal human cognition. [[Confirmation Bias]] (Nickerson, 1998), [[Myside Bias]] (Stanovich, 2021), [[Motivated Reasoning]] (Kunda, 1990), [[Illusion of Knowing]] (Glenberg et al., 1982), and [[Hindsight Bias]] (Fischhoff, 1975) are among the most robustly replicated findings in cognitive psychology. They document a systematic tendency toward the intellectual vices: toward seeking confirming evidence rather than disconfirming evidence, toward believing what we want to believe rather than what evidence warrants, toward overestimating what we understand.
+The empirical evidence from cognitive psychology paints a consistent — and humbling — picture: the intellectual vices that virtue epistemology and Stoic ethics warn against are not pathological outliers but default tendencies of normal human cognition. [[Confirmation-Bias-Myside-Bias|Confirmation Bias]] (Nickerson, 1998), [[Confirmation-Bias-Myside-Bias|Myside Bias]] (Stanovich, 2021), [[Motivated-Reasoning|Motivated Reasoning]] (Kunda, 1990), [[Illusion-of-Knowing|Illusion of Knowing]] (Glenberg et al., 1982), and [[Hindsight-Bias|Hindsight Bias]] (Fischhoff, 1975) are among the most robustly replicated findings in cognitive psychology. They document a systematic tendency toward the intellectual vices: toward seeking confirming evidence rather than disconfirming evidence, toward believing what we want to believe rather than what evidence warrants, toward overestimating what we understand.
 
 > [!evidence] **The Myside Bias Research (Stanovich, 2021)**
 > Myside bias — the tendency to generate and evaluate arguments in a self-serving, belief-consistent way — appears robustly across all measured levels of intelligence and education. Keith Stanovich and colleagues have found that unlike most cognitive biases, myside bias does not decrease with higher intelligence or education. Highly intelligent, highly educated people generate myside bias arguments just as frequently as less educated people; they are merely better at rationalizing their conclusions. This is important for PKM: the assumption that building a sophisticated knowledge system naturally produces greater epistemic responsibility is not supported by the evidence. Intelligent, educated PKB users are not automatically better at avoiding confirmation curation — they may simply be better at constructing elaborate justifications for their epistemically motivated choices.
@@ -274,10 +274,10 @@ The empirical evidence from cognitive psychology paints a consistent — and hum
 
 ### The Stoic Evidence: Philosophical Validation Across Cultures
 
-The Stoic account of examined assent receives empirical support from an unexpected source: cross-cultural research on mindfulness and metacognitive awareness. The Stoic practice of observing impressions before assenting to them — the philosophical ancestor of metacognitive monitoring — parallels what mindfulness-based interventions train. Research by Tversky and Kahneman demonstrated that slowing down and examining impressions before accepting them (moving from System 1 to System 2 processing, in [[Dual-Process Theory]] terms from [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]]) reduces systematic cognitive errors. The Stoics had identified the same mechanism two millennia before the dual-process framework.
+The Stoic account of examined assent receives empirical support from an unexpected source: cross-cultural research on mindfulness and metacognitive awareness. The Stoic practice of observing impressions before assenting to them — the philosophical ancestor of metacognitive monitoring — parallels what mindfulness-based interventions train. Research by Tversky and Kahneman demonstrated that slowing down and examining impressions before accepting them (moving from System 1 to System 2 processing, in [[Dual-Process-Theory|Dual-Process Theory]] terms from [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]]) reduces systematic cognitive errors. The Stoics had identified the same mechanism two millennia before the dual-process framework.
 
 > [!cross-domain-connection] **Stoic Examined Assent, Dual-Process Theory, and Metacognitive Monitoring**
-> The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Metacognitive Monitoring]] from [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]'s treatment of self-regulated learning; and [[Epistemic Vigilance]] from [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.
+> The Stoic practice of *synkatathesis* (examined assent) maps onto three distinct contemporary frameworks simultaneously: [[Dual-Process-Theory|Dual-Process Theory]]'s System 2 override of System 1 impressions; [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] from [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]]'s treatment of self-regulated learning; and [[Epistemic-Vigilance|Epistemic Vigilance]] from [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]]'s account of critical thinking. All three frameworks identify the same basic structure — an initial impression or heuristic judgment, followed by a deliberative checking process — and all three identify failures of this checking process as the mechanism of epistemic error. The Stoics' contribution is to frame this checking process not as a cognitive technique but as a moral duty: to fail to examine an impression before assenting is not just an error but a violation of one's rational nature.
 
 ### The Epistemic Justice Evidence: Structural Sources of Bias
 
@@ -321,7 +321,7 @@ The most pervasive intellectual vice in PKB practice is what we can call **confi
 
 ### The Mechanism of Epistemic Cowardice
 
-A second intellectual vice — less discussed in PKM literature but equally important — is [[Epistemic Cowardice]]: the disposition to avoid storing, linking, or acting on beliefs that would be uncomfortable, socially costly, or existentially threatening. Quassim Cassam identifies this as a genuine intellectual vice: one shrinks from conclusions one's evidence would support because the conclusions are uncomfortable, potentially controversial, or because acknowledging them would require changing one's behavior.
+A second intellectual vice — less discussed in PKM literature but equally important — is [[Epistemic-Cowardice|Epistemic Cowardice]]: the disposition to avoid storing, linking, or acting on beliefs that would be uncomfortable, socially costly, or existentially threatening. Quassim Cassam identifies this as a genuine intellectual vice: one shrinks from conclusions one's evidence would support because the conclusions are uncomfortable, potentially controversial, or because acknowledging them would require changing one's behavior.
 
 In PKB practice, epistemic cowardice manifests as: not writing down insights that challenge one's professional identity or existing frameworks; not recording moments of genuine confusion or uncertainty (because the PKB is being managed as a performance of competence rather than a record of honest inquiry); not linking notes across intellectual traditions that one has not been trained to connect (because doing so risks being wrong about the connection); and not revising prior notes in light of new evidence (because the revision would require acknowledging that one was wrong).
 
@@ -344,7 +344,7 @@ In [[18-calibration-epistemic-humility-pkm-framework-2026-03-15]], calibration w
 An epistemically honest PKB is, at minimum, a calibrated one: one where the confidence with which claims are recorded accurately reflects the actual warrant for those claims. The virtue epistemologist would say that calibrated belief-formation just is what the intellectual virtues require — epistemic conscientiousness, intellectual humility, and intellectual honesty all converge on the imperative to record what one believes with accuracy about how well-warranted that belief is. The Stoic would say that saving a claim with more confidence than one's evidence warrants is a failure of examined assent — a form of epistemic recklessness that violates one's duty to one's rational nature.
 
 > [!what-the-evidence-suggests] **Epistemic Status Tagging as Moral Infrastructure**
-> The evidence from calibration research, virtue epistemology, Stoic ethics, and critical thinking ethics all converges on a single design recommendation: a systematic [[Epistemic Status]] tagging system is not an optional organizational convenience but a moral infrastructure for epistemically responsible knowledge management. Without it, the PKB cannot honestly represent one's actual epistemic standing; it collapses all stored claims into an undifferentiated mass that implicitly treats highly warranted beliefs and speculative hunches as equivalent. This implicit dishonesty is not just epistemically inefficient — it is, in the frameworks developed here, an ethical failure.
+> The evidence from calibration research, virtue epistemology, Stoic ethics, and critical thinking ethics all converges on a single design recommendation: a systematic [[Epistemic-Status|Epistemic Status]] tagging system is not an optional organizational convenience but a moral infrastructure for epistemically responsible knowledge management. Without it, the PKB cannot honestly represent one's actual epistemic standing; it collapses all stored claims into an undifferentiated mass that implicitly treats highly warranted beliefs and speculative hunches as equivalent. This implicit dishonesty is not just epistemically inefficient — it is, in the frameworks developed here, an ethical failure.
 
 ### The Mechanism of Link Ethics
 
@@ -360,7 +360,7 @@ Intellectual courage — the disposition to follow evidence and argument whereve
 The epistemically courageous PKB user records genuine uncertainty even when it is uncomfortable; stores claims that challenge their identity or professional self-conception; preserves notes representing views they have changed their minds about (rather than deleting evidence of prior error); and creates links between ideas that cross the conceptual borders of their primary discipline even when those links are uncertain and potentially wrong.
 
 > [!cross-domain-connection] **Intellectual Courage, Self-Determination Theory, and Intrinsic Motivation**
-> Intellectual courage in a PKB — the willingness to store uncomfortable truths, record genuine uncertainty, and follow inquiry wherever it leads — is deeply connected to [[Self-Determination Theory]]'s concept of intrinsic motivation (developed in [[05-motivation-architecture-pkm-framework-2026-03-13]]). SDT research shows that intrinsic motivation (doing something because of genuine interest and values, not external reward) produces better epistemic outcomes, including more creative association, more thorough processing, and greater openness to revision. A PKB designed as a performance of competence (for some imagined audience, or for one's own self-image) undermines the intrinsic motivation that produces genuine intellectual courage. A PKB designed as an honest record of one's actual intellectual life — including the uncertain, the confused, the mistaken, and the still-evolving — creates the conditions for intrinsic epistemic motivation to flourish.
+> Intellectual courage in a PKB — the willingness to store uncomfortable truths, record genuine uncertainty, and follow inquiry wherever it leads — is deeply connected to [[Self-Determination-Theory|Self-Determination Theory]]'s concept of intrinsic motivation (developed in [[05-motivation-architecture-pkm-framework-2026-03-13]]). SDT research shows that intrinsic motivation (doing something because of genuine interest and values, not external reward) produces better epistemic outcomes, including more creative association, more thorough processing, and greater openness to revision. A PKB designed as a performance of competence (for some imagined audience, or for one's own self-image) undermines the intrinsic motivation that produces genuine intellectual courage. A PKB designed as an honest record of one's actual intellectual life — including the uncertain, the confused, the mistaken, and the still-evolving — creates the conditions for intrinsic epistemic motivation to flourish.
 
 > [!tension-identified] **Privacy vs. Audience: The PKB's Epistemic Paradox**
 > A genuine tension emerges here: the privacy of a PKB should enable greater intellectual honesty (no audience to perform for, no social cost to recording uncertainty), but the research on self-deception shows that motivated reasoning operates even in private. Worse, the absence of external correction that private knowledge management involves may actually amplify certain epistemic vices — confirmation bias proceeds unchallenged when there is no interlocutor to offer counterevidence. This creates what might be called the PKB's epistemic paradox: it is a private space that should enable honesty but can enable a particularly deep form of self-deception precisely because no one is watching. The resolution requires designing the PKB to serve the function that dialogue would otherwise serve — building in structured countermeasures that approximate the epistemic discipline of engaged intellectual community.
@@ -594,13 +594,13 @@ How should competing epistemic duties be weighed when they conflict — for exam
 > > [!topic-idea] [[Self-Deception, Akrasia, and the Architecture of Epistemic Failure]]
 > > The psychology of self-deception (Robert Trivers, William von Hippel) and the philosophy of akrasia (weakness of will — doing what one believes one ought not to do) together address the deepest challenge to virtue-based PKM: knowing what epistemic virtue requires while consistently failing to practice it. A dedicated report would examine the mechanisms of epistemic self-deception, its relationship to motivated reasoning, and whether PKB design can interrupt it at the architectural level.
 >
-> > [!topic-idea] [[Epistemic Autonomy and the Ethics of AI-Assisted PKM]]
+> > [!topic-idea] [[Epistemic-Autonomy-and-the-Ethics-of-AI-Assisted-PKM|Epistemic Autonomy and the Ethics of AI-Assisted PKM]]
 > > As AI tools increasingly assist with note-taking, linking, and knowledge synthesis, new ethical questions arise about epistemic autonomy — the right and responsibility to form one's own beliefs through one's own reasoning. A dedicated report would examine: When AI suggestions are followed without evaluation, what epistemic character does this cultivate? What design principles govern epistemically responsible AI assistance in PKM? This topic connects directly to [[30-future-pkm-ai-enhanced-knowledge-building-pkm-framework-2026-03-15]].
 >
 > > [!topic-idea] [[The Virtue of Intellectual Generosity — Sharing Knowledge Responsibly]]
 > > Virtue epistemology has mostly focused on epistemic virtues in reception (how one forms beliefs). An underexplored extension is the virtues of epistemic giving: intellectual generosity (sharing knowledge that would benefit others), epistemic courage in public discourse, and the responsibilities one bears when one's PKB outputs are shared. For PKB users who publish, share, or teach from their knowledge base, these responsibilities are directly practical.
 >
-> > [!topic-idea] [[Historical Epistemology — How Past Knowledge Shapes Present Knowing]]
+> > [!topic-idea] [[Historical-Epistemology-—-How-Past-Knowledge-Shapes-Present-Knowing|Historical Epistemology — How Past Knowledge Shapes Present Knowing]]
 > > The belief revision log recommended in this report raises a deeper question: how does the history of one's believing shape what one is capable of believing now? Historical epistemology (Lorraine Daston, Ian Hacking) examines how knowledge practices and epistemic styles evolve across time. For individual PKM: how does one's personal epistemic history — the pattern of beliefs held, revised, abandoned, and rebuilt — shape one's epistemic possibilities? How can PKB design make this history explicit and generative?
 
 ---

@@ -74,32 +74,32 @@ analytical-contributions:
   total-analytical-commentary: 16
 
 related-concepts:
-  - "[[Metacognitive Monitoring]]"
-  - "[[Metacognitive Control]]"
-  - "[[Self-Regulated Learning]]"
-  - "[[Zimmerman SRL Model]]"
-  - "[[Flavell Metacognition Framework]]"
-  - "[[Nelson Narens Model]]"
-  - "[[Judgment of Learning]]"
-  - "[[Feeling of Knowing]]"
-  - "[[Ease of Learning]]"
+  - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
+  - "[[Metacognitive-Control|Metacognitive Control]]"
+  - "[[Self-Regulated-Learning-—-SRL|Self-Regulated Learning]]"
+  - "[[Zimmerman-SRL-Model|Zimmerman SRL Model]]"
+  - "[[Flavell-Metacognition-Framework|Flavell Metacognition Framework]]"
+  - "[[Nelson-Narens-Model|Nelson Narens Model]]"
+  - "[[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]"
+  - "[[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]"
+  - "[[Ease-of-Learning-—-EOL|Ease of Learning]]"
   - "[[Calibration]]"
-  - "[[Fluency Illusion]]"
-  - "[[Implementation Intentions]]"
-  - "[[Gollwitzer If-Then Planning]]"
-  - "[[Habit Formation]]"
+  - "[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]"
+  - "[[Implementation-Intentions|Implementation Intentions]]"
+  - "[[Gollwitzer-If-Then-Planning|Gollwitzer If-Then Planning]]"
+  - "[[Habit-Formation|Habit Formation]]"
   - "[[Cue-Routine-Reward Loop]]"
-  - "[[Dewey Reflective Inquiry]]"
-  - "[[Reflective Practice]]"
+  - "[[Dewey-Reflective-Inquiry|Dewey Reflective Inquiry]]"
+  - "[[Reflective-Practice|Reflective Practice]]"
   - "[[Metacognitive Scaffolding]]"
   - "[[Automated Reflection Prompts]]"
-  - "[[Calibration Tracking]]"
+  - "[[Calibration-Tracking|Calibration Tracking]]"
   - "[[Metacognitive Dashboard]]"
   - "[[Learning Process Log]]"
-  - "[[Structural Metacognition Principle]]"
-  - "[[Monitoring Gap]]"
+  - "[[Structural-Metacognition-Principle|Structural Metacognition Principle]]"
+  - "[[Monitoring-Gap|Monitoring Gap]]"
   - "[[Epistemic Discomfort]]"
-  - "[[Personal Knowledge Base]]"
+  - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
   - "[[PKM Daily Practice]]"
   - "[[Obsidian Dataview]]"
 
@@ -134,20 +134,20 @@ aliases:
 
 ### The Gap That Quietly Defeats PKM
 
-There is a distinctive frustration that visits experienced PKB users who have read widely in the metacognition literature. They understand, often in considerable depth, how [[Metacognitive Monitoring]] works. They can explain [[Zimmerman SRL Model|Zimmerman's]] forethought-performance-self-reflection cycle, articulate the distinction between [[Judgment of Learning|JOL]] accuracy and [[Feeling of Knowing]], and describe why [[Retrieval Practice]] produces better learning outcomes than passive re-reading. And yet — when they examine their actual PKB usage over any given week — they find almost no evidence of systematic monitoring. Notes accumulate without confidence assessments. Review sessions consist of scrolling through familiar-feeling text rather than testing genuine recall. Reflection prompts in note templates sit empty, skipped in the flow of capture, because there is always something else to read or record. The metacognitive knowledge is real. The metacognitive practice is largely absent.
+There is a distinctive frustration that visits experienced PKB users who have read widely in the metacognition literature. They understand, often in considerable depth, how [[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]] works. They can explain [[Zimmerman SRL Model|Zimmerman's]] forethought-performance-self-reflection cycle, articulate the distinction between [[Judgment of Learning|JOL]] accuracy and [[Feeling-of-Knowing-—-FOK|Feeling of Knowing]], and describe why [[Retrieval-Practice|Retrieval Practice]] produces better learning outcomes than passive re-reading. And yet — when they examine their actual PKB usage over any given week — they find almost no evidence of systematic monitoring. Notes accumulate without confidence assessments. Review sessions consist of scrolling through familiar-feeling text rather than testing genuine recall. Reflection prompts in note templates sit empty, skipped in the flow of capture, because there is always something else to read or record. The metacognitive knowledge is real. The metacognitive practice is largely absent.
 
-This is not a character failing or a motivation problem in the conventional sense. It is a design problem. Most PKB architectures — even sophisticated ones built by metacognitively aware practitioners — are optimized for *capture* and *storage* while being structurally neutral or even hostile to *monitoring*. The effort involved in honest self-assessment is high; the structural prompts to perform it are weak or absent; the reward signals are delayed and invisible. Under these conditions, the [[Fluency Illusion]] — the seductive feeling of familiarity that passive re-reading generates — fills the space that genuine monitoring should occupy. The PKB user experiences something that feels like learning while the monitoring-control loop that makes learning real quietly fails to activate.
+This is not a character failing or a motivation problem in the conventional sense. It is a design problem. Most PKB architectures — even sophisticated ones built by metacognitively aware practitioners — are optimized for *capture* and *storage* while being structurally neutral or even hostile to *monitoring*. The effort involved in honest self-assessment is high; the structural prompts to perform it are weak or absent; the reward signals are delayed and invisible. Under these conditions, the [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] — the seductive feeling of familiarity that passive re-reading generates — fills the space that genuine monitoring should occupy. The PKB user experiences something that feels like learning while the monitoring-control loop that makes learning real quietly fails to activate.
 
 > [!ask-yourself-this] **Before You Begin**
 > Before reading further, open your PKB and examine your last ten notes created or reviewed. For each one: Did you record a confidence level about how well you understood the material? Did you actively test yourself rather than re-reading? Did you write a reflection about what you did not yet understand? If the honest answer is "rarely" or "never," you have already encountered the phenomenon this report addresses — not because you lack metacognitive knowledge, but because your PKB is not yet designed to make monitoring the default.
 
 ### The Synthesis Question and Its Relationship to Prior Reports
 
-[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] established the conceptual architecture: what metacognition is, how the monitoring-control loop operates, why it is the engine of effective learning, and why the [[Personal Knowledge Base]] should function as an external metacognitive scaffold. That report answered the question *what* and *why*. This report addresses a different and in some ways harder question: **how do we make it actually happen every day, in the ordinary flow of PKB use, without requiring extraordinary willpower or perfect metacognitive discipline?**
+[[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] established the conceptual architecture: what metacognition is, how the monitoring-control loop operates, why it is the engine of effective learning, and why the [[Personal-Knowledge-Base|Personal Knowledge Base]] should function as an external metacognitive scaffold. That report answered the question *what* and *why*. This report addresses a different and in some ways harder question: **how do we make it actually happen every day, in the ordinary flow of PKB use, without requiring extraordinary willpower or perfect metacognitive discipline?**
 
 The synthesis question is precise: **How can [[Zimmerman SRL Model|Zimmerman's]] Self-Regulated Learning cycle, [[Flavell Metacognition Framework|Flavell's]] Metacognitive Monitoring processes, [[Dewey Reflective Inquiry|Dewey's]] Reflective Inquiry, and [[Gollwitzer If-Then Planning|Gollwitzer's]] Implementation Intentions be synthesized to redesign PKB architecture so that metacognitive monitoring becomes a structural default rather than an effortful override of the system's natural tendencies?**
 
-This question sits at a disciplinary intersection that none of the contributing fields has fully explored. [[Cognitive Psychology]] provides the precise account of what monitoring processes need to occur. [[Educational Psychology]] provides the behavioral architecture of self-regulation across learning episodes. [[Educational Philosophy]] provides the philosophical grounding for why reflective practice is constitutive of genuine learning. [[Behavioral Science]] — specifically implementation intentions research and habit formation theory — provides the mechanism for bridging the gap between knowing what monitoring is and actually performing it consistently. The synthesis is where the practically actionable design guidance lives.
+This question sits at a disciplinary intersection that none of the contributing fields has fully explored. [[Expertise-Reversal-Effect-—-Cognitive-Psychology-Kalyuga,-Chandler,-Tuovinen-&-S|Cognitive Psychology]] provides the precise account of what monitoring processes need to occur. [[Educational-Psychology|Educational Psychology]] provides the behavioral architecture of self-regulation across learning episodes. [[Educational-Philosophy|Educational Philosophy]] provides the philosophical grounding for why reflective practice is constitutive of genuine learning. [[Behavioral-Science|Behavioral Science]] — specifically implementation intentions research and habit formation theory — provides the mechanism for bridging the gap between knowing what monitoring is and actually performing it consistently. The synthesis is where the practically actionable design guidance lives.
 
 ### Scope and Position in the Series
 
@@ -196,7 +196,7 @@ The design significance of this framework for PKB architecture goes beyond conce
 
 ### Gollwitzer's Implementation Intentions: The Bridge from Intention to Habit
 
-The connection between Zimmerman's SRL framework and Gollwitzer's [[Implementation Intentions]] research is not obvious until you examine the specific mechanism by which the SRL cycle breaks down in practice. Research consistently shows that learners with strong metacognitive knowledge and high SRL intentions still fail to perform monitoring behaviors reliably. The failure point is *implementation* — the translation of the intention "I will monitor my understanding" into the actual behavior "I am monitoring my understanding right now, in this specific situation."
+The connection between Zimmerman's SRL framework and Gollwitzer's [[Implementation-Intentions|Implementation Intentions]] research is not obvious until you examine the specific mechanism by which the SRL cycle breaks down in practice. Research consistently shows that learners with strong metacognitive knowledge and high SRL intentions still fail to perform monitoring behaviors reliably. The failure point is *implementation* — the translation of the intention "I will monitor my understanding" into the actual behavior "I am monitoring my understanding right now, in this specific situation."
 
 > [!definition] **Implementation Intentions (Behavioral Science, Gollwitzer 1993, 1999; Gollwitzer & Sheeran 2006)**
 > A self-regulatory strategy in which a person supplements a goal intention ("I intend to do X") with a situational specification ("I intend to do X when situation Y occurs"). Formulated as explicit if-then plans: "If situation Y arises, then I will initiate behavior X." Gollwitzer and Sheeran's (2006) meta-analysis across 94 studies found that implementation intentions increased goal achievement with an effect size of d = 0.65 — a large effect by behavioral science standards. The mechanism is the creation of a mental link between a situational cue and a behavioral response, such that the cue automatically activates the behavior without requiring deliberate retrieval of the goal intention. Implementation intentions do not strengthen motivation; they automate the detection of the appropriate moment to act.
@@ -227,7 +227,7 @@ The relevance to PKB design is profound and has not been adequately exploited in
 
 ### The Fluency Illusion Evidence Base
 
-The [[Fluency Illusion]] is one of the most robustly established findings in cognitive psychology, with direct and unsettling implications for PKB practice. Jacoby and Dallas (1981) demonstrated that prior exposure to words increased perceptual fluency in a subsequent identification task, and critically, that this fluency was experienced as familiarity even when subjects were unable to recall having seen the words before. Jacoby, Kelley, and Dywan (1989) extended this to show that fluency functions as an attribution cue — subjects experiencing high fluency infer that the fluent stimulus is familiar, old, or known, regardless of whether that inference is accurate.
+The [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] is one of the most robustly established findings in cognitive psychology, with direct and unsettling implications for PKB practice. Jacoby and Dallas (1981) demonstrated that prior exposure to words increased perceptual fluency in a subsequent identification task, and critically, that this fluency was experienced as familiarity even when subjects were unable to recall having seen the words before. Jacoby, Kelley, and Dywan (1989) extended this to show that fluency functions as an attribution cue — subjects experiencing high fluency infer that the fluent stimulus is familiar, old, or known, regardless of whether that inference is accurate.
 
 The educational implications were systematically developed by Bjork (1994) in his foundational desirable difficulties framework and by Koriat and Bjork (2005) in their analysis of illusions of competence. Re-reading, Bjork demonstrated, produces high fluency and high subjective confidence without producing equivalent retention. The monitoring system, responding to the fluency signal, judges understanding to be adequate and terminates study — but this judgment is systematically miscalibrated. When actual retention is later tested, performance is dramatically lower than the monitoring system predicted.
 
@@ -284,7 +284,7 @@ The central diagnostic insight of this analysis is that the typical PKB design i
 
 Consider the typical capture-and-review workflow. At the capture stage, the primary goal is efficient storage: read, extract key ideas, create or update note, link to related notes. This workflow is optimized for throughput. Each note created is a small reward signal — a sense of productivity, accumulation, intellectual engagement. The monitoring question — "how well do I actually understand this?" — interrupts this flow, introduces the risk of a discouraging answer ("I understand this much less than I thought"), and produces no immediate visible output in the PKB. The structural incentives therefore favor skipping monitoring.
 
-At the review stage, the problem deepens. Re-reading notes is easy, comfortable, and produces high-fluency experiences that register as productive. The [[Fluency Illusion]] mechanism ensures that this comfortable activity will *feel* like learning even when it is not producing meaningful retention gains. Switching to active retrieval — closing the note, attempting to recall its content, checking accuracy — requires more effort, introduces the possibility of failure (a motivationally aversive signal), and produces no immediately visible output beyond a subjective confidence rating. Again, structural incentives favor the monitoring-hostile option.
+At the review stage, the problem deepens. Re-reading notes is easy, comfortable, and produces high-fluency experiences that register as productive. The [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]] mechanism ensures that this comfortable activity will *feel* like learning even when it is not producing meaningful retention gains. Switching to active retrieval — closing the note, attempting to recall its content, checking accuracy — requires more effort, introduces the possibility of failure (a motivationally aversive signal), and produces no immediately visible output beyond a subjective confidence rating. Again, structural incentives favor the monitoring-hostile option.
 
 > [!analytical-insight] **The Comfort Gradient: How PKB Design Creates Monitoring Resistance**
 > What we see here is a structural comfort gradient in which the behaviors that feel productive (reading, capturing, linking) are systematically easier and more immediately rewarding than the behaviors that are genuinely productive (active recall, confidence assessment, error detection, strategy revision). This gradient is not random — it emerges from the interaction between the natural properties of fluency and the typical PKB design's optimization for capture throughput. Designing for metacognitive monitoring means deliberately inverting this gradient at key moments: making the monitoring action the structurally easier choice, not the structurally harder one.
@@ -455,13 +455,13 @@ Three open questions emerge from this synthesis. First, what is the optimal spec
 >
 > - **[[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]]** — Report 08 established the Experience Processing Architecture (Capture → Reflect → Conceptualize → Experiment) as the structural model for transforming experience into knowledge. Report 12 complements this by addressing the *monitoring layer* within that architecture — the metacognitive processes that ensure each stage of the experience processing cycle is producing genuine understanding rather than fluency-contaminated pseudo-understanding. Dewey's felt difficulty appears in both reports from different angles: Report 08 uses it to explain what initiates the reflective cycle; Report 12 uses it as the structural template for implementation intention cues.
 >
-> - **[[Fluency Illusion]]** — A hub concept connecting this report to the desirable difficulties literature (Report 16), the testing effect (Report 06), and calibration and epistemic humility (Report 18). The fluency illusion is the mechanism that most systematically undermines metacognitive monitoring; understanding it structurally connects the memory science, metacognition, and instructional design threads of the framework.
+> - **[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]** — A hub concept connecting this report to the desirable difficulties literature (Report 16), the testing effect (Report 06), and calibration and epistemic humility (Report 18). The fluency illusion is the mechanism that most systematically undermines metacognitive monitoring; understanding it structurally connects the memory science, metacognition, and instructional design threads of the framework.
 >
-> - **[[Implementation Intentions]]** — The application of Gollwitzer's framework to PKB design is a novel synthesis not represented in existing PKM literature. This concept serves as a bridge node between behavioral science and PKB structural design throughout the series.
+> - **[[Implementation-Intentions|Implementation Intentions]]** — The application of Gollwitzer's framework to PKB design is a novel synthesis not represented in existing PKM literature. This concept serves as a bridge node between behavioral science and PKB structural design throughout the series.
 >
-> - **[[Zimmerman SRL Model]]** — This report advances the use of Zimmerman's framework from conceptual reference (as in Report 04) to structural design template. The three-phase forethought-performance-self-reflection structure maps directly onto the daily/session/weekly monitoring rhythms of the Embedded Monitoring Architecture.
+> - **[[Zimmerman-SRL-Model|Zimmerman SRL Model]]** — This report advances the use of Zimmerman's framework from conceptual reference (as in Report 04) to structural design template. The three-phase forethought-performance-self-reflection structure maps directly onto the daily/session/weekly monitoring rhythms of the Embedded Monitoring Architecture.
 >
-> - **[[Calibration Tracking]]** — The double-assessment design pattern (capture confidence + retrieval confidence + discrepancy) introduced here becomes foundational infrastructure for Report 18's deeper analysis of calibration and epistemic humility. This report creates the data structure; Report 18 develops the interpretive framework.
+> - **[[Calibration-Tracking|Calibration Tracking]]** — The double-assessment design pattern (capture confidence + retrieval confidence + discrepancy) introduced here becomes foundational infrastructure for Report 18's deeper analysis of calibration and epistemic humility. This report creates the data structure; Report 18 develops the interpretive framework.
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
@@ -569,21 +569,21 @@ Three open questions emerge from this synthesis. First, what is the optimal spec
 
 > [!further-exploration] **Deepening Your Framework**
 
-> [!topic-idea] [[Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]
+> [!topic-idea] [[Calibration-Accuracy-Development-Over-Time-—-Longitudinal-Metacognitive-Learning|Calibration Accuracy Development Over Time — Longitudinal Metacognitive Learning]]
 > How does metacognitive calibration accuracy change with deliberate practice, and what is the trajectory of improvement across months and years of PKB use? This expansion would draw on longitudinal metacognition research (Hacker et al. 2008), expertise research on monitoring accuracy, and the calibration improvement literature. It addresses the question Report 12 leaves open: what is the realistic timeline for moving from fluency-dominated monitoring to accurate self-assessment?
 
-> [!topic-idea] [[Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]
+> [!topic-idea] [[Obsidian-Dataview-as-Metacognitive-Dashboard-—-Implementation-Architecture|Obsidian Dataview as Metacognitive Dashboard — Implementation Architecture]]
 > A technical deep-dive into building the metacognitive dashboard described in Design Principle 3 using Obsidian Dataview queries, YAML metadata structures, and graph visualization. This expansion bridges the conceptual framework of Report 12 with the technical implementation — covering confidence metadata schemas, discrepancy computation queries, calibration trend visualization, and integration with spaced repetition plugins.
 
-> [!topic-idea] [[Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]
+> [!topic-idea] [[Metacognitive-Transfer-—-Does-PKB-Monitoring-Skill-Generalize-Across-Domains|Metacognitive Transfer — Does PKB Monitoring Skill Generalize Across Domains?]]
 > Research on transfer of metacognitive strategies (Veenman et al. 2006; Hacker et al. 2009) has found mixed results: metacognitive skills developed in one domain do not automatically transfer to other domains without explicit instructional support. This raises a specific question for PKB users with multi-domain knowledge bases: does monitoring infrastructure developed for one domain (e.g., technical learning) generalize to others (e.g., historical or philosophical material)? This expansion connects to Report 11's transfer problem analysis.
 
-> [!topic-idea] [[Social Metacognition — When Other Minds Improve Your Monitoring]]
+> [!topic-idea] [[Social-Metacognition-—-When-Other-Minds-Improve-Your-Monitoring|Social Metacognition — When Other Minds Improve Your Monitoring]]
 > Vygotsky's zone of proximal development applies to metacognitive monitoring as well as object-level learning: other people can often assess the accuracy of our self-assessments more reliably than we can. This expansion explores how PKB design might incorporate social metacognitive scaffolding — structured peer review of confidence assessments, shared calibration benchmarking, and collaborative monitoring conversations — as a supplement to purely individual monitoring practices.
 
 > [!topic-idea] [[The Monitoring Failure Log — Designing for Error Visibility]]
 > A specific PKB design pattern: a dedicated log for monitoring failures — moments when high confidence at capture was disconfirmed at retrieval, when expected difficulty proved dramatically different from actual difficulty, or when a strategy predicted to work clearly did not. The monitoring failure log is not a shame archive but an empirical resource: the failures it records are the highest-information-density data in the PKB, the points where the system's self-model was most wrong and therefore where revision is most productive.
 
-> [!topic-idea] [[Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
+> [!topic-idea] [[Metacognitive-Monitoring-Under-Cognitive-Load-—-When-Monitoring-is-Most-Needed-a|Metacognitive Monitoring Under Cognitive Load — When Monitoring is Most Needed and Hardest]]
 > The monitoring failure literature (Schraw 2001; Thiede, Anderson & Therriault 2003) consistently shows that monitoring accuracy is poorest precisely when cognitive load is highest — when material is most complex, when the learner is most stretched, when monitoring is most important. This expansion explores the interaction between cognitive load and monitoring quality, and what PKB design interventions can compensate for this load-monitoring trade-off.
 

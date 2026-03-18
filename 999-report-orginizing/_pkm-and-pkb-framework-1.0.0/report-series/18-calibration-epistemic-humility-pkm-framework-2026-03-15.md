@@ -79,31 +79,31 @@ analytical-contributions:
 
 related-concepts:
   - "[[Calibration]]"
-  - "[[Overconfidence Effect]]"
-  - "[[Hard-Easy Effect]]"
-  - "[[Dunning-Kruger Effect]]"
-  - "[[Double Ignorance]]"
-  - "[[Illusory Superiority]]"
-  - "[[Socratic Ignorance]]"
-  - "[[Elenchus]]"
+  - "[[Overconfidence-Effect|Overconfidence Effect]]"
+  - "[[Hard-Easy-Effect|Hard-Easy Effect]]"
+  - "[[Dunning-Kruger-Effect|Dunning-Kruger Effect]]"
+  - "[[Double-Ignorance|Double Ignorance]]"
+  - "[[Illusory-Superiority|Illusory Superiority]]"
+  - "[[Socratic-Ignorance-Knowing-One's-Ignorance|Socratic Ignorance]]"
+  - "[[Socratic-Method-Elenchus|Elenchus]]"
   - "[[Aporia]]"
-  - "[[Epistemic Humility]]"
-  - "[[Intellectual Humility]]"
-  - "[[Epistemic Virtue]]"
+  - "[[Epistemic-Humility|Epistemic Humility]]"
+  - "[[Intellectual-Humility|Intellectual Humility]]"
+  - "[[Epistemic-Virtue|Epistemic Virtue]]"
   - "[[Self-Assessment Accuracy]]"
   - "[[Expert-Novice Calibration]]"
-  - "[[Judgment of Learning]]"
-  - "[[Feeling of Knowing]]"
-  - "[[Metacognitive Monitoring]]"
-  - "[[Fluency Illusion]]"
-  - "[[Epistemic Status]]"
+  - "[[Judgment-of-Learning-Metacognitive-Monitoring|Judgment of Learning]]"
+  - "[[Feeling-of-Knowing-—-FOK|Feeling of Knowing]]"
+  - "[[Judgment-of-Learning-Metacognitive-Monitoring|Metacognitive Monitoring]]"
+  - "[[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]"
+  - "[[Epistemic-Status|Epistemic Status]]"
   - "[[Mastery Indicators]]"
   - "[[Confidence Tracking]]"
   - "[[Calibration Exercise]]"
-  - "[[Epistemic Accuracy Architecture]]"
+  - "[[Epistemic-Accuracy-Architecture-—-EAA|Epistemic Accuracy Architecture]]"
   - "[[Bayesian Updating]]"
   - "[[Credences]]"
-  - "[[Personal Knowledge Base]]"
+  - "[[Personal-Knowledge-Base|Personal Knowledge Base]]"
   - "[[PKB Metadata Standards]]"
 
 summary: >
@@ -137,7 +137,7 @@ aliases:
 
 ### The Problem That Hides Behind Every Other Problem
 
-There is a peculiar asymmetry at the heart of learning. When you do not know something, you often know that you do not know it — the absence of knowledge is at least partially visible to you, creating the discomfort that motivates inquiry. But when you *misknow* something — when your mental model is subtly wrong, when your understanding is shallower than you believe, when your ability to apply knowledge in new contexts is far weaker than your ability to recall it under familiar conditions — that inadequacy is frequently invisible. You experience confidence without competence. You feel the smoothness of familiarity and interpret it as the solidity of mastery. Your [[Personal Knowledge Base]] fills with notes that feel understood, ideas that feel integrated, concepts that feel mastered — and the gap between what you believe you know and what you actually know grows quietly, compounding across months and years.
+There is a peculiar asymmetry at the heart of learning. When you do not know something, you often know that you do not know it — the absence of knowledge is at least partially visible to you, creating the discomfort that motivates inquiry. But when you *misknow* something — when your mental model is subtly wrong, when your understanding is shallower than you believe, when your ability to apply knowledge in new contexts is far weaker than your ability to recall it under familiar conditions — that inadequacy is frequently invisible. You experience confidence without competence. You feel the smoothness of familiarity and interpret it as the solidity of mastery. Your [[Personal-Knowledge-Base|Personal Knowledge Base]] fills with notes that feel understood, ideas that feel integrated, concepts that feel mastered — and the gap between what you believe you know and what you actually know grows quietly, compounding across months and years.
 
 This is the problem that [[Calibration|calibration]] addresses. And it is, arguably, the problem that most fundamentally limits the value of a PKB for genuine lifelong learning. A PKB that is not calibrated is not just an incomplete learning system; it is a potentially misleading one. Uncalibrated confidence corrupts the monitoring-control loop that [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] established as the foundation of effective PKM. It undermines the structural embedding strategies of [[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]] by corrupting the quality of the judgments those structures are meant to solicit. And it nullifies the desirable difficulties that [[16-desirable-difficulties-by-design-pkm-framework-2026-03-14]] recommends, because difficulty cannot be productive if the learner cannot accurately perceive when difficulty is signaling genuine knowledge absence rather than mere retrieval effort.
 
@@ -268,7 +268,7 @@ The evidence reviewed in Phase III points toward three distinct but interacting 
 
 **Mechanism 1: The Fluency-Accuracy Decoupling**
 
-The first mechanism is the one [[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]] introduced as the [[Fluency Illusion]]: the systematic tendency to interpret processing fluency — how easily information comes to mind or is processed — as evidence of knowledge quality. Bjork's extensive research program has established this as one of the most robust and consequential findings in cognitive psychology for educational practice. When you re-read a note, the familiarity of the content — its fluency — generates a feeling of knowing that your monitoring system interprets as evidence of mastery. But fluency is tracking prior exposure, not accuracy or applicability. A completely wrong belief, rehearsed frequently, generates the same fluency as a correct one. This means that a PKB whose review workflow is dominated by re-reading creates a system where monitoring confidence is systematically decoupled from accuracy — users get more confident over time regardless of whether their understanding improves or worsens.
+The first mechanism is the one [[12-reflective-pkb-metacognitive-monitoring-pkm-framework-2026-03-14]] introduced as the [[Fluency-Illusion-—-Metacognitive-Psychology|Fluency Illusion]]: the systematic tendency to interpret processing fluency — how easily information comes to mind or is processed — as evidence of knowledge quality. Bjork's extensive research program has established this as one of the most robust and consequential findings in cognitive psychology for educational practice. When you re-read a note, the familiarity of the content — its fluency — generates a feeling of knowing that your monitoring system interprets as evidence of mastery. But fluency is tracking prior exposure, not accuracy or applicability. A completely wrong belief, rehearsed frequently, generates the same fluency as a correct one. This means that a PKB whose review workflow is dominated by re-reading creates a system where monitoring confidence is systematically decoupled from accuracy — users get more confident over time regardless of whether their understanding improves or worsens.
 
 The deeper mechanism here, established by Koriat (1997), involves the *cue* that the monitoring system uses to generate confidence judgments. The monitoring system uses fluency as a heuristic proxy for accuracy because fluency is usually correlated with accuracy (things we know well are processed more fluently). But this correlation breaks down precisely when prior study has inflated fluency without improving accuracy — which is the normal condition after re-reading. The heuristic that serves calibration well in natural environments becomes systematically misleading in the artificial environment of a PKB whose notes have been read multiple times.
 
@@ -399,9 +399,9 @@ The Socratic tradition understood this separation most clearly and articulated i
 
 ### The Return-and-Deepen Moment
 
-Report 04 introduced [[Metacognitive Calibration]] as one component of the monitoring-control loop — the monitoring process that tracks the accuracy of one's own judgments. At that early stage, calibration appeared as an ingredient in a larger system. With the full cross-domain synthesis now available, the picture is richer: calibration is not merely one monitoring process among several. It is the dimension that determines whether all other monitoring processes are trustworthy. You can have an excellent JOL infrastructure, an active FOK tracking practice, and thorough retrospective confidence judgments — and all of them will mislead you systematically if your calibration is poor. Calibration is the metacognitive system's reliability, and all other metacognitive practices are only as valuable as the calibration that underlies them.
+Report 04 introduced [[Metacognitive-Calibration|Metacognitive Calibration]] as one component of the monitoring-control loop — the monitoring process that tracks the accuracy of one's own judgments. At that early stage, calibration appeared as an ingredient in a larger system. With the full cross-domain synthesis now available, the picture is richer: calibration is not merely one monitoring process among several. It is the dimension that determines whether all other monitoring processes are trustworthy. You can have an excellent JOL infrastructure, an active FOK tracking practice, and thorough retrospective confidence judgments — and all of them will mislead you systematically if your calibration is poor. Calibration is the metacognitive system's reliability, and all other metacognitive practices are only as valuable as the calibration that underlies them.
 
-Report 12's [[Structural Metacognition Principle]] — that monitoring must be embedded structurally to occur reliably — extends naturally to calibration: *calibrating experiences* must be embedded structurally, because users left to their own devices will systematically avoid them due to their discomfort. The prediction-verification sequence, the Socratic questioning protocol, the epistemic status marker — these should not be optional review practices but designed-in structural defaults that make encountering the prediction-performance gap the path of least resistance rather than the exception.
+Report 12's [[Structural-Metacognition-Principle|Structural Metacognition Principle]] — that monitoring must be embedded structurally to occur reliably — extends naturally to calibration: *calibrating experiences* must be embedded structurally, because users left to their own devices will systematically avoid them due to their discomfort. The prediction-verification sequence, the Socratic questioning protocol, the epistemic status marker — these should not be optional review practices but designed-in structural defaults that make encountering the prediction-performance gap the path of least resistance rather than the exception.
 
 > [!original-synthesis] **The Epistemic Honesty Flywheel**
 >
@@ -524,13 +524,13 @@ Report 12's [[Structural Metacognition Principle]] — that monitoring must be e
 
 > [!further-exploration] **Deepening Your Framework**
 >
-> > [!topic-idea] [[Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]
+> > [!topic-idea] [[Bayesian-Epistemology-and-Probabilistic-Knowledge-Tracking-in-PKBs|Bayesian Epistemology and Probabilistic Knowledge Tracking in PKBs]]
 > > Extends the epistemic status marker concept into formal probabilistic credences — the approach to belief management recommended by Bayesian epistemology. Where this report treats epistemic status qualitatively (well-established / developing / tentative / uncertain), a Bayesian extension would track explicit numerical credences (e.g., 85% confidence) and update them according to Bayes' theorem as evidence accumulates. Explores whether quantitative credence tracking is feasible and valuable for personal knowledge management, and what practices support calibrated Bayesian updating in a PKB context.
 >
 > > [!topic-idea] [[The Feynman Technique as a Calibration Protocol]]
 > > Richard Feynman's technique — attempting to explain a concept simply and completely without reference materials, then identifying gaps in the explanation — is one of the most effective single-practice calibration tools available. This expansion topic examines the cognitive mechanisms that make the Feynman technique effective (specifically, its role in generating the prediction-performance gap for explanation clarity), how it can be systematically embedded in PKB workflows, and how its outputs (identified explanation gaps) should be fed back into note revision and study allocation.
 >
-> > [!topic-idea] [[Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]
+> > [!topic-idea] [[Calibration-Tracking-Systems-Implementing-Longitudinal-Accuracy-Records-in-Obsid|Calibration Tracking Systems: Implementing Longitudinal Accuracy Records in Obsidian]]
 > > A practical implementation guide for tracking calibration accuracy over time in an Obsidian PKB using Dataview. Covers: designing calibration event metadata schemas; creating Dataview queries that surface miscalibration patterns across domains; building visualizations of calibration curves for review domains; integrating calibration tracking with spaced repetition workflows; and establishing review triggers when calibration metrics suggest accumulated miscalibration in a domain.
 >
 > > [!topic-idea] [[The Expert Calibration Trajectory: How Self-Assessment Accuracy Develops with Domain Mastery]]
@@ -539,7 +539,7 @@ Report 12's [[Structural Metacognition Principle]] — that monitoring must be e
 > > [!topic-idea] [[Socratic Dialogue with Self: Implementing Dialectical Self-Examination in PKB Review]]
 > > Develops the [[Elenchus|elenchus]] as a PKB practice — structured self-dialogue protocols in which the user alternately plays the role of a Socratic examiner and the role of the belief-holder, exposing internal contradictions in their stored understanding. Examines the psychological conditions under which productive self-elenchus is possible, the design of templates that scaffold this practice in Obsidian, and the relationship between self-directed Socratic questioning and the intellectual humility disposition that makes it tolerable.
 >
-> > [!topic-idea] [[Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]
+> > [!topic-idea] [[Calibration-and-Metacognition-in-AI-Assisted-PKM-Risks-and-Opportunities|Calibration and Metacognition in AI-Assisted PKM: Risks and Opportunities]]
 > > As AI tools become more integrated into PKB workflows — summarizing sources, generating connections, answering questions about stored content — new calibration risks emerge. If an AI tool provides confident answers about one's own PKB content, the user may outsource the monitoring function entirely, never developing calibration accuracy at all. This topic examines the specific calibration risks of AI-assisted PKM, design principles for AI tool integration that preserve rather than undermine the user's calibration development, and how AI tools might be designed to generate rather than eliminate productive prediction-performance gaps.
 
 ---

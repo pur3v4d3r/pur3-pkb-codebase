@@ -82,36 +82,36 @@ analytical-contributions:
   total-analytical-commentary: 17
 
 related-concepts:
-  - "[[Constructivist Learning Environments]]"
-  - "[[Jonassen CLE Model]]"
-  - "[[Zone of Proximal Development]]"
-  - "[[More Knowledgeable Other]]"
-  - "[[Learning Experience Design]]"
-  - "[[Educational Technology Affordances]]"
-  - "[[Ecological Psychology]]"
-  - "[[Gibson Affordances]]"
-  - "[[Situated Learning]]"
-  - "[[Lave and Wenger Communities of Practice]]"
-  - "[[Legitimate Peripheral Participation]]"
+  - "[[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]"
+  - "[[Jonassen-CLE-Model|Jonassen CLE Model]]"
+  - "[[Zone-of-Proximal-Development|Zone of Proximal Development]]"
+  - "[[More-Knowledgeable-Other|More Knowledgeable Other]]"
+  - "[[Learning-Experience-Design|Learning Experience Design]]"
+  - "[[Educational-Technology-Affordances|Educational Technology Affordances]]"
+  - "[[Ecological-Psychology|Ecological Psychology]]"
+  - "[[Gibson-Affordances|Gibson Affordances]]"
+  - "[[Situated-Learning|Situated Learning]]"
+  - "[[Lave-and-Wenger-Communities-of-Practice|Lave and Wenger Communities of Practice]]"
+  - "[[Legitimate-Peripheral-Participation|Legitimate Peripheral Participation]]"
   - "[[Universal Design for Learning]]"
   - "[[Reggio Emilia Environment as Third Teacher]]"
   - "[[Storage Metaphor]]"
   - "[[Environment Metaphor]]"
-  - "[[Personal Constructed Learning Environment]]"
-  - "[[Cognitive Tools]]"
+  - "[[Personal-Constructed-Learning-Environment-—-PCLE|Personal Constructed Learning Environment]]"
+  - "[[Cognitive-Tools|Cognitive Tools]]"
   - "[[Mindtools]]"
   - "[[Authentic Activity]]"
-  - "[[Ill-Structured Problems]]"
+  - "[[Ill-Structured-Problems|Ill-Structured Problems]]"
   - "[[Problem-Based Learning]]"
   - "[[Anchored Instruction]]"
-  - "[[Activity Theory]]"
+  - "[[Activity-Theory|Activity Theory]]"
   - "[[Leontiev Activity Theory]]"
   - "[[Engeström Expansive Learning]]"
   - "[[Digital Learning Environments]]"
   - "[[Learning Management Systems]]"
   - "[[Personal Learning Environment]]"
-  - "[[Social Constructivism]]"
-  - "[[Cognitive Apprenticeship]]"
+  - "[[Social-Constructivism|Social Constructivism]]"
+  - "[[Cognitive-Apprenticeship|Cognitive Apprenticeship]]"
   - "[[Collins Brown Newman]]"
 
 word-count-estimate: 9200
@@ -128,7 +128,7 @@ aliases:
 
 ### The Question Behind the Question
 
-Most people who build a [[Personal Knowledge Base]] spend their design energy on a deceptively narrow question: *Where does this go?* They deliberate about folder structures, debate tagging taxonomies, optimize their note templates, and refine their capture workflows. These are not trivial concerns — [[09-designing-the-learning-pkb-pkm-framework-2026-03-14]] has addressed them in considerable depth. But beneath them lies a more fundamental question that most PKB designers never explicitly ask, and whose answer would transform every downstream decision: *What kind of thing is a PKB?*
+Most people who build a [[Personal-Knowledge-Base|Personal Knowledge Base]] spend their design energy on a deceptively narrow question: *Where does this go?* They deliberate about folder structures, debate tagging taxonomies, optimize their note templates, and refine their capture workflows. These are not trivial concerns — [[09-designing-the-learning-pkb-pkm-framework-2026-03-14]] has addressed them in considerable depth. But beneath them lies a more fundamental question that most PKB designers never explicitly ask, and whose answer would transform every downstream decision: *What kind of thing is a PKB?*
 
 The dominant implicit answer is: **a storage system**. A PKB, in this framing, is an external hard drive for your mind — a place where you deposit knowledge for later retrieval, an outboard memory that compensates for the biological memory's limitations of capacity and decay. This metaphor is not wrong, exactly. But it is profoundly limiting. It points your design attention toward retrieval fidelity (can I find what I stored?) rather than toward learning potency (does what I stored help me grow?). It treats every note as content to be filed rather than as an environmental feature that affords certain kinds of thinking and forecloses others.
 
@@ -141,15 +141,15 @@ This report argues for — and provides the theoretical architecture to support 
 
 This report synthesizes across four primary disciplinary traditions to produce a unified framework for PKB design as learning environment design:
 
-1. **[[Constructivist Learning Environments]]** (Jonassen, 1991; 1999) — a systematically developed framework for designing learning spaces that position learners as active knowledge constructors engaging with authentic, ill-structured problems.
+1. **[[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]** (Jonassen, 1991; 1999) — a systematically developed framework for designing learning spaces that position learners as active knowledge constructors engaging with authentic, ill-structured problems.
 
-2. **[[Zone of Proximal Development]]** and Vygotsky's social constructivism — the theoretical account of how learning environments enable growth precisely in the space between what a learner can currently do independently and what they can do with the right support.
+2. **[[Zone-of-Proximal-Development|Zone of Proximal Development]]** and Vygotsky's social constructivism — the theoretical account of how learning environments enable growth precisely in the space between what a learner can currently do independently and what they can do with the right support.
 
-3. **[[Learning Experience Design]]** — the human-centered discipline that applies UX design principles to the creation of learning journeys, asking what the learner experiences at each moment and how that experience supports or undermines growth.
+3. **[[Learning-Experience-Design|Learning Experience Design]]** — the human-centered discipline that applies UX design principles to the creation of learning journeys, asking what the learner experiences at each moment and how that experience supports or undermines growth.
 
-4. **[[Educational Technology Affordances]]** — rooted in James Gibson's [[Ecological Psychology]] and extended to digital learning environments, this tradition asks what a given tool or environment makes possible, impossible, easy, and difficult for the learner.
+4. **[[Educational-Technology-Affordances|Educational Technology Affordances]]** — rooted in James Gibson's [[Ecological-Psychology|Ecological Psychology]] and extended to digital learning environments, this tradition asks what a given tool or environment makes possible, impossible, easy, and difficult for the learner.
 
-None of these traditions, taken alone, provides a complete design vocabulary for personal knowledge management. Jonassen's [[Constructivist Learning Environments|CLE]] model was designed for group learning contexts. Vygotsky's ZPD emphasizes social learning with a [[More Knowledgeable Other]] — a challenge for a solo PKB practice. Learning Experience Design typically assumes a designed curriculum with clear learning objectives. Affordance theory describes possibilities without providing design heuristics. The synthesis this report produces — what we will call the **[[Personal Constructed Learning Environment]]** (PCLE) framework — integrates these traditions into a coherent design vocabulary for the individual knowledge worker building a PKB for lifelong learning.
+None of these traditions, taken alone, provides a complete design vocabulary for personal knowledge management. Jonassen's [[Constructivist Learning Environments|CLE]] model was designed for group learning contexts. Vygotsky's ZPD emphasizes social learning with a [[More-Knowledgeable-Other|More Knowledgeable Other]] — a challenge for a solo PKB practice. Learning Experience Design typically assumes a designed curriculum with clear learning objectives. Affordance theory describes possibilities without providing design heuristics. The synthesis this report produces — what we will call the **[[Personal-Constructed-Learning-Environment-—-PCLE|Personal Constructed Learning Environment]]** (PCLE) framework — integrates these traditions into a coherent design vocabulary for the individual knowledge worker building a PKB for lifelong learning.
 
 ### Scope, Connections, and Roadmap
 
@@ -172,7 +172,7 @@ The storage metaphor's costs are significant. It treats notes as static objects 
 
 ### Constructivist Learning Environments: The Jonassen Framework
 
-[[David Jonassen]] spent much of his career translating constructivist learning theory into actionable design frameworks. His model of [[Constructivist Learning Environments]] (CLEs) is the most systematically developed attempt to specify what a space must contain to support genuine knowledge construction. The CLE model identifies six core components:
+[[David-Jonassen|David Jonassen]] spent much of his career translating constructivist learning theory into actionable design frameworks. His model of [[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]] (CLEs) is the most systematically developed attempt to specify what a space must contain to support genuine knowledge construction. The CLE model identifies six core components:
 
 > [!definition] **Constructivist Learning Environment (CLE) (Jonassen, 1991, 1999)**
 > A designed learning space organized around authentic, ill-structured problems or projects, supporting learners in constructing personally meaningful understanding through engagement with cases, resources, cognitive tools, collaboration infrastructure, and social/contextual support. CLEs contrast with instructivist environments where expert knowledge is transmitted to passive recipients; in a CLE, the problem drives the learning rather than the curriculum. CLEs are grounded in the constructivist epistemological claim that knowledge cannot be transmitted intact — it must be actively built by the learner.
@@ -184,7 +184,7 @@ The six CLE components are: (1) **a central problem or project** — the authent
 
 ### Zone of Proximal Development and Scaffolded Growth
 
-[[Lev Vygotsky]]'s [[Zone of Proximal Development]] (ZPD) is among the most cited and least fully understood concepts in educational psychology. In its full theoretical depth, it is not merely a pedagogical prescription ("teach at the right level") but a fundamental claim about the nature of learning and development.
+[[Lev Vygotsky]]'s [[Zone-of-Proximal-Development|Zone of Proximal Development]] (ZPD) is among the most cited and least fully understood concepts in educational psychology. In its full theoretical depth, it is not merely a pedagogical prescription ("teach at the right level") but a fundamental claim about the nature of learning and development.
 
 > [!definition] **Zone of Proximal Development (Vygotsky, 1978)**
 > The distance between what a learner can accomplish independently (the current level of actual development) and what the learner can accomplish with appropriate guidance and support (the level of potential development). The ZPD is not a fixed attribute of the learner — it is a relational property of the learner-in-environment. Vygotsky's claim is that development proceeds not from independent mastery but from social interaction in the ZPD; what is accomplished with support today becomes independent capability tomorrow. Learning environments that position learners at the edge of their current competence, with appropriate scaffolding, are the engines of genuine development.
@@ -196,7 +196,7 @@ The ZPD has a critical design implication that the storage metaphor completely o
 
 ### Learning Experience Design: From UX to Learning Journeys
 
-[[Learning Experience Design]] (LXD) applies human-centered design methodology to the creation of learning experiences. Where traditional instructional design begins with learning objectives and works forward to content delivery, LXD begins with the learner — their mental models, emotional states, motivations, pain points, and aspirations — and works backward to experience design.
+[[Learning-Experience-Design|Learning Experience Design]] (LXD) applies human-centered design methodology to the creation of learning experiences. Where traditional instructional design begins with learning objectives and works forward to content delivery, LXD begins with the learner — their mental models, emotional states, motivations, pain points, and aspirations — and works backward to experience design.
 
 > [!definition] **Learning Experience Design (LXD) (Dirksen, 2015; Plass, Homer, & Kinzer, 2015)**
 > A human-centered approach to designing learning that integrates principles from instructional design, UX design, cognitive science, and motivation research to create experiences that are simultaneously effective (producing genuine learning), efficient (minimizing wasted cognitive and temporal resources), and engaging (sustaining the learner's motivation and attention). LXD treats every moment of the learner's experience — including friction, surprise, confusion, and discovery — as design material rather than as noise to be eliminated.
@@ -205,7 +205,7 @@ The LXD contribution to PKB design is the notion of the **learner journey** — 
 
 ### Ecological Psychology and Affordances in Digital Environments
 
-[[James Gibson]]'s concept of [[Ecological Affordances]] — developed for biological perception — has been productively extended to designed environments, including digital learning spaces.
+[[James Gibson]]'s concept of [[Ecological-Affordances|Ecological Affordances]] — developed for biological perception — has been productively extended to designed environments, including digital learning spaces.
 
 > [!definition] **Affordance (Gibson, 1979; extended by Norman, 1988; Kirsh, 2013)**
 > A property of an environment relative to the capabilities of an agent — what the environment offers, provides, or furnishes for action. Affordances are relational, not intrinsic: the same feature affords different actions to different agents. In learning environments, affordances include what the space makes easy to do, what it makes visible, what it prompts or invites, and crucially what it makes difficult or impossible. Every structural feature of a PKB — folder depth, link visibility, note template design, review workflow — is an affordance that shapes what kinds of thinking and learning actions the system invites.
@@ -235,24 +235,24 @@ The LXD contribution to PKB design is the notion of the **learner journey** — 
 
 The claim that designed environments shape learning outcomes independent of content has a substantial, if methodologically complex, evidence base. The research spans physical classroom design, digital learning environment architecture, and laboratory studies of cognitive affordances.
 
-The most directly relevant evidence comes from research on **[[Constructivist Learning Environments]]** as implemented in educational technology contexts. Jonassen's own comparative research (1991, 1999) and subsequent replications consistently found that learners in CLE-structured environments developed deeper conceptual understanding and greater transfer to novel problems than learners in equivalent transmission-based environments — even when total learning time and content exposure were held constant. The mechanism appears to be precisely what constructivist theory predicts: engagement with authentic problems forces schema construction rather than schema retrieval, producing more robust and transferable knowledge structures.
+The most directly relevant evidence comes from research on **[[Constructivist-Learning-Environments-CLEs|Constructivist Learning Environments]]** as implemented in educational technology contexts. Jonassen's own comparative research (1991, 1999) and subsequent replications consistently found that learners in CLE-structured environments developed deeper conceptual understanding and greater transfer to novel problems than learners in equivalent transmission-based environments — even when total learning time and content exposure were held constant. The mechanism appears to be precisely what constructivist theory predicts: engagement with authentic problems forces schema construction rather than schema retrieval, producing more robust and transferable knowledge structures.
 
 > [!evidence] **Problem-Based Learning and Deep Learning (Hmelo-Silver, 2004; Dochy et al., 2003)**
 > Meta-analytic evidence on problem-based learning (PBL) — a primary implementation of CLE principles — consistently shows that PBL produces superior outcomes on knowledge application, problem-solving, and self-directed learning, while showing mixed results on content recall relative to lecture-based instruction. Dochy and colleagues' meta-analysis of 43 studies found that PBL consistently produced better performance on skills measures while showing near-equivalent performance on content knowledge measures. The pattern suggests that environment design affects the type of learning that occurs more than the quantity of learning — a crucial finding for PKB design, where we typically care far more about application than recall.
 
-The affordances literature provides complementary evidence. [[David Kirsh]]'s work on epistemic actions — physical manipulations performed not to change the world but to change one's own cognitive state — demonstrates that environmental features dramatically alter problem-solving capacity. His studies of Tetris players, for instance, found that subjects who were allowed to physically rotate game pieces performed significantly better than those who had to mentally rotate them — but the physical rotation was not merely reducing cognitive load. It was changing the nature of the cognitive task itself, making certain solution strategies visible that were simply not visible without the physical manipulation.
+The affordances literature provides complementary evidence. [[David-Kirsh|David Kirsh]]'s work on epistemic actions — physical manipulations performed not to change the world but to change one's own cognitive state — demonstrates that environmental features dramatically alter problem-solving capacity. His studies of Tetris players, for instance, found that subjects who were allowed to physically rotate game pieces performed significantly better than those who had to mentally rotate them — but the physical rotation was not merely reducing cognitive load. It was changing the nature of the cognitive task itself, making certain solution strategies visible that were simply not visible without the physical manipulation.
 
 > [!what-the-evidence-suggests] **The Design of Thinking Spaces**
 > Kirsh's work suggests something that the storage metaphor cannot accommodate: the environment is not merely a container for thinking — it is a co-participant in thinking. When a PKB note is structured in a way that juxtaposes two conflicting claims, when a link connects an observation to a framework that illuminates it, when a question prompt appears at the end of a synthesis note — these are not decoration. They are epistemic actions built into the environment in advance, waiting to be activated by the learner who encounters them. The evidence from epistemic action research suggests that these designed provocations genuinely alter what kinds of thinking become possible, not merely what is convenient.
 
-Research on **[[Situated Learning]]** (Lave and Wenger, 1991) provides a third evidentiary strand, and a challenging one. Lave and Wenger's foundational work on [[Communities of Practice]] demonstrated that learning is fundamentally situated in authentic activity within a community — knowledge acquired in decontextualized settings (including, by implication, decontextualized PKB notes) shows characteristically poor transfer to authentic contexts. Their concept of [[Legitimate Peripheral Participation]] — novices learning by participating at the edges of genuine expert practice — has been difficult to operationalize in personal learning contexts, precisely because it requires a community. This is where the evidence points in a direction that both supports and complicates the PKB-as-environment framework.
+Research on **[[Situated-Learning|Situated Learning]]** (Lave and Wenger, 1991) provides a third evidentiary strand, and a challenging one. Lave and Wenger's foundational work on [[Communities-of-Practice|Communities of Practice]] demonstrated that learning is fundamentally situated in authentic activity within a community — knowledge acquired in decontextualized settings (including, by implication, decontextualized PKB notes) shows characteristically poor transfer to authentic contexts. Their concept of [[Legitimate-Peripheral-Participation|Legitimate Peripheral Participation]] — novices learning by participating at the edges of genuine expert practice — has been difficult to operationalize in personal learning contexts, precisely because it requires a community. This is where the evidence points in a direction that both supports and complicates the PKB-as-environment framework.
 
 > [!tension-identified] **Social Learning vs. Personal Knowledge Base**
-> Situated learning theory presents a genuine challenge for PKB design that cannot be resolved by clever architectural choices. Vygotsky's ZPD, Lave and Wenger's communities of practice, and [[Collins, Brown, and Newman]]'s [[Cognitive Apprenticeship]] model all locate the engine of deep learning in social interaction — dialogue, observation of expert practice, feedback from the community. A personal PKB is, by definition, a solo artifact. The tension is real: if the most powerful learning environments are fundamentally social, a personal knowledge base may be structurally incapable of replicating their most important features. The honest resolution is not to deny this limitation but to design the PKB to be a complement to social learning rather than a replacement for it — capturing, processing, and extending what is learned through social interaction, while remaining aware of what solo practice cannot achieve. This connects to findings from [[22-tacit-knowledge-limits-of-capture-pkm-framework-2026-03-15]].
+> Situated learning theory presents a genuine challenge for PKB design that cannot be resolved by clever architectural choices. Vygotsky's ZPD, Lave and Wenger's communities of practice, and [[Collins,-Brown,-and-Newman|Collins, Brown, and Newman]]'s [[Cognitive-Apprenticeship|Cognitive Apprenticeship]] model all locate the engine of deep learning in social interaction — dialogue, observation of expert practice, feedback from the community. A personal PKB is, by definition, a solo artifact. The tension is real: if the most powerful learning environments are fundamentally social, a personal knowledge base may be structurally incapable of replicating their most important features. The honest resolution is not to deny this limitation but to design the PKB to be a complement to social learning rather than a replacement for it — capturing, processing, and extending what is learned through social interaction, while remaining aware of what solo practice cannot achieve. This connects to findings from [[22-tacit-knowledge-limits-of-capture-pkm-framework-2026-03-15]].
 
 ### Evidence on Digital Learning Environment Design
 
-Research on [[Personal Learning Environments]] (PLEs) — digital systems learners construct and control themselves, distinct from institutionally managed LMS platforms — provides the most directly applicable evidence. The PLE research literature (Attwell, 2007; Siemens, 2007; Dabbagh and Kitsantas, 2012) consistently finds that learner-controlled learning environments support greater self-regulation, deeper engagement, and more persistent learning habits than institution-controlled systems. The mechanism appears to involve [[Self-Determination Theory]]'s autonomy need — when learners control their learning environment, intrinsic motivation is enhanced, producing the sustained engagement that supports deep learning over time.
+Research on [[Personal Learning Environments]] (PLEs) — digital systems learners construct and control themselves, distinct from institutionally managed LMS platforms — provides the most directly applicable evidence. The PLE research literature (Attwell, 2007; Siemens, 2007; Dabbagh and Kitsantas, 2012) consistently finds that learner-controlled learning environments support greater self-regulation, deeper engagement, and more persistent learning habits than institution-controlled systems. The mechanism appears to involve [[Self-Determination-Theory|Self-Determination Theory]]'s autonomy need — when learners control their learning environment, intrinsic motivation is enhanced, producing the sustained engagement that supports deep learning over time.
 
 > [!evidence] **Learner-Controlled Environments and Self-Regulation (Dabbagh and Kitsantas, 2012)**
 > A systematic review of PLE research found that learners who actively designed and maintained their own learning environments showed significantly higher self-regulation behaviors than comparison groups using institutional platforms. Crucially, the relationship was bidirectional: learner agency in environment design both expressed and strengthened self-regulatory capacity. This supports the view that PKB design is not merely an organizational task but a metacognitive exercise that develops the very capacities it relies on.
@@ -281,14 +281,14 @@ In Jonassen's CLE model, the central problem is not a container for content but 
 > [!definition] **Ill-Structured Problems (Simon, 1973; Jonassen, 1997)**
 > Problems that have no single correct solution, that lack well-defined solution paths, that engage multiple conflicting criteria or values in their resolution, and whose parameters are not fully specified in advance. Ill-structured problems are contrasted with well-structured problems (with determinate solutions) and with puzzles (with determinate solutions obtained through determinate procedures). Real-world knowledge work is dominated by ill-structured problems — how to synthesize conflicting research, how to design a learning system that serves multiple needs, how to integrate new knowledge that challenges existing frameworks. Expertise in a domain is significantly constituted by the ability to navigate ill-structured problems rather than merely solve well-structured ones.
 
-The mechanism by which problem centrality shapes learning is [[Schema Construction]] under conditions of productive uncertainty. When a learner engages with an ill-structured problem, they cannot retrieve a pre-formed schema and apply it — they must construct a new schema by drawing on, combining, and sometimes restructuring prior knowledge. This construction process is the mechanism by which learning actually occurs, from the perspective of [[Schema Theory]] as developed by [[Frederic Bartlett]] and extended by [[Richard Anderson]] and [[John Sweller]].
+The mechanism by which problem centrality shapes learning is [[Schema-Construction|Schema Construction]] under conditions of productive uncertainty. When a learner engages with an ill-structured problem, they cannot retrieve a pre-formed schema and apply it — they must construct a new schema by drawing on, combining, and sometimes restructuring prior knowledge. This construction process is the mechanism by which learning actually occurs, from the perspective of [[Schema-Theory|Schema Theory]] as developed by [[Frederic Bartlett]] and extended by [[Richard Anderson]] and [[John Sweller]].
 
 > [!analytical-insight] **The PKB's Missing Central Problems**
 > Most PKBs contain no explicit ill-structured problems. They contain notes about problems, summaries of others' thinking about problems, and references to problems encountered during reading — but rarely a living inquiry into an active problem that the user is genuinely working to resolve. This absence is not merely a design gap; it is a consequence of the storage metaphor. Storage systems store outputs; learning environments organize activity around problems. The transformation this implies is significant: a PKB designed as a learning environment would contain a set of active [[Inquiry Notes]] — designated spaces where the user tracks their engagement with genuinely open, personally meaningful questions. These inquiry notes would not be summaries of what is known but structures for managing what is not yet understood.
 
 ### Mechanism 2: The ZPD in Solo Practice — From MKO to Environmental Scaffolding
 
-The Zone of Proximal Development was conceived as a relational property of a learner-in-social-context. The most obvious objection to applying it to personal knowledge management is that there is no [[More Knowledgeable Other]] in a solo PKB practice. This objection, while not trivially dismissible, underestimates both the flexibility of Vygotsky's framework and the creative possibilities of designed environments.
+The Zone of Proximal Development was conceived as a relational property of a learner-in-social-context. The most obvious objection to applying it to personal knowledge management is that there is no [[More-Knowledgeable-Other|More Knowledgeable Other]] in a solo PKB practice. This objection, while not trivially dismissible, underestimates both the flexibility of Vygotsky's framework and the creative possibilities of designed environments.
 
 Vygotsky himself acknowledged that cultural artifacts — tools, texts, and symbolic systems — serve as mediating devices that extend cognitive capacity. Contemporary Vygotskyan scholars, including [[James Wertsch]] and [[Reuven Feuerstein]], have developed accounts in which the MKO function can be served by well-designed artifacts rather than by human others. The mechanism is what Wertsch calls **mediated action**: the cognitive tool or artifact does not replace the human MKO but mediates the learner's engagement with the problem in ways that scaffold the move from current competence to potential development.
 
@@ -299,7 +299,7 @@ In Obsidian practice, this mechanism can be instantiated through several concret
 
 ### Mechanism 3: Cognitive Tools and Mindtools
 
-Jonassen's concept of [[Cognitive Tools]] — which he later developed into the richer notion of [[Mindtools]] — is among his most practically important contributions. Mindtools are not software applications that teach; they are computational environments that require learners to think in disciplined ways in order to use them.
+Jonassen's concept of [[Cognitive-Tools|Cognitive Tools]] — which he later developed into the richer notion of [[Mindtools]] — is among his most practically important contributions. Mindtools are not software applications that teach; they are computational environments that require learners to think in disciplined ways in order to use them.
 
 > [!definition] **Mindtools (Jonassen, 1996, 2006)**
 > Computational environments used as intellectual partners with the learner to engage in critical thinking, knowledge construction, and problem-solving — not by supplying knowledge to learners but by requiring learners to construct knowledge as part of using the tool. Mindtools include semantic mapping tools, databases, spreadsheets (used for modeling), visualization environments, and expert system shells. The mechanism of Mindtools is that they externalize knowledge in formats that make the structure of that knowledge visible and manipulable, enabling reflection on the knowledge itself rather than merely its content.
@@ -323,7 +323,7 @@ The Reggio insight, transferred to PKB design, suggests that the question "what 
 
 ### Mechanism 5: Activity Theory and the Object of Learning Activity
 
-[[Leontiev]]'s [[Activity Theory]], extended by [[Yrjö Engeström]] into cultural-historical activity theory, provides a framework for understanding how learning environments shape not just what learners do but what they take to be the purpose of their activity — and this, in turn, shapes what learning occurs.
+[[Leontiev]]'s [[Activity-Theory|Activity Theory]], extended by [[Yrjö Engeström]] into cultural-historical activity theory, provides a framework for understanding how learning environments shape not just what learners do but what they take to be the purpose of their activity — and this, in turn, shapes what learning occurs.
 
 > [!definition] **Activity System (Leontiev, 1977; Engeström, 1987)**
 > A framework for analyzing human activity that identifies the subject (the learner), the object (what the activity is oriented toward — the motive and goal), the tools (mediating artifacts and instruments), the community (social context), the rules (norms and conventions), and the division of labor (how roles and responsibilities are distributed). The object of an activity — what it is ultimately aimed at — is the most fundamental determinant of what kind of learning occurs, because it determines what counts as relevant knowledge, what cognitive processes are engaged, and what success means.
@@ -335,7 +335,7 @@ Activity Theory's contribution to PKB design is the concept of the **[[Object of
 
 ### Return-and-Deepen: ZPD and the PKB Structure Revisited
 
-Earlier, we introduced [[Zone of Proximal Development]] as a relational property of learner-in-environment. With the mechanism of [[Epistemic Affordances]], [[Cognitive Tools]], and [[Activity Theory]] now in view, we can see an implication that was not visible before: **the PKB user is in a dual role — both the designer of the environment and the learner within it**. This dual role creates a unique design challenge but also a unique opportunity.
+Earlier, we introduced [[Zone-of-Proximal-Development|Zone of Proximal Development]] as a relational property of learner-in-environment. With the mechanism of [[Epistemic-Affordances|Epistemic Affordances]], [[Cognitive-Tools|Cognitive Tools]], and [[Activity-Theory|Activity Theory]] now in view, we can see an implication that was not visible before: **the PKB user is in a dual role — both the designer of the environment and the learner within it**. This dual role creates a unique design challenge but also a unique opportunity.
 
 The challenge: as the learner's competence grows (as [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] details at length), the ZPD moves. What scaffolds growth at the novice stage actively impairs it at the expert stage. A static PKB environment that was well-designed at one moment of expertise will become a poor learning environment as expertise develops — it will be either insufficiently challenging (producing boredom and passive processing) or structured in ways that no longer match the learner's knowledge organization.
 
@@ -374,7 +374,7 @@ Every note that enters the PKB should be designed to do something to its reader'
 
 ### Design Principle 3: Create Multiple Representational Formats for Core Concepts
 
-Universal Design for Learning research and the evidence on format diversity converge on a clear design principle: core concepts in the PKB should be represented in multiple formats. A concept that exists only as prose synthesis has a single access pathway. A concept that exists as prose synthesis, a visual map of its relationships, a question-and-answer pair, and a case example has four access pathways — and research on [[Encoding Variability]] suggests that multiple retrieval pathways produce dramatically more robust retention and transfer.
+Universal Design for Learning research and the evidence on format diversity converge on a clear design principle: core concepts in the PKB should be represented in multiple formats. A concept that exists only as prose synthesis has a single access pathway. A concept that exists as prose synthesis, a visual map of its relationships, a question-and-answer pair, and a case example has four access pathways — and research on [[Encoding-Variability|Encoding Variability]] suggests that multiple retrieval pathways produce dramatically more robust retention and transfer.
 
 In Obsidian, this translates to a practice of deliberate multi-format representation for high-value concepts: after writing a synthesis note, create a linked question note (testing recall), a visual map (exposing relational structure), and an application note (documenting one context where the concept has been used or could be used).
 
@@ -579,7 +579,7 @@ What is the optimal ratio of inquiry notes to permanent notes? Too few inquiries
 > > [!topic-idea] [[Personal Learning Environments and PKB Alignment]]
 > > The PLE research literature (Attwell, Siemens, Wilson) has developed a rich account of how self-managed digital learning environments differ from institution-managed LMS platforms. Exploring how the PLE framework aligns with and extends the PCLE concept would deepen this report's account of learner-controlled environments — particularly the evidence on how environment ownership affects motivation and self-regulation over time. This is the most directly adjacent body of research to this report's central thesis.
 >
-> > [!topic-idea] [[Cognitive Apprenticeship and PKB Design]]
+> > [!topic-idea] [[Cognitive-Apprenticeship-and-PKB-Design|Cognitive Apprenticeship and PKB Design]]
 > > Collins, Brown, and Newman's cognitive apprenticeship model — which adapts traditional apprenticeship to cognitive skill development through modeling, coaching, scaffolding, articulation, reflection, and exploration — provides a rich design vocabulary for the solo PKB context. How might a solo PKB user design their practice to replicate the apprenticeship dynamic without a human master? This exploration would extend the PCLE's Self-Dialogue Infrastructure component and connect to Report 22's analysis of tacit knowledge.
 >
 > > [!topic-idea] [[Game Design Principles and Learning Environment Architecture]]
@@ -588,8 +588,8 @@ What is the optimal ratio of inquiry notes to permanent notes? Too few inquiries
 > > [!topic-idea] [[Physical Space Design and Knowledge Work Environments]]
 > > Research on the effects of physical workspace design on cognitive performance and creativity — including studies of ambient noise, lighting, visual complexity, and spatial organization — complements this report's digital-environment focus. The Reggio Emilia principle of physical environment as third teacher has been more extensively developed for physical spaces than digital ones. Exploring the physical-digital integration of learning environments for knowledge workers would extend the PCLE to its full environmental scope.
 >
-> > [!topic-idea] [[Complexity Theory and Emergent Learning Environments]]
+> > [!topic-idea] [[Complexity-Theory-and-Emergent-Learning-Environments|Complexity Theory and Emergent Learning Environments]]
 > > Complexity theory, as applied to education by Davis and Sumara ("Complexity and the Art of Curriculum"), argues that learning environments should be understood as complex adaptive systems — characterized by emergence, self-organization, and sensitivity to initial conditions. This perspective would complement the more designed-environment approach of this report with an account of what should be left deliberately undesigned to allow emergent learning structures to develop. The productive tension between designed environments and emergent ones is a rich vein for further inquiry.
 >
-> > [!topic-idea] [[Assessment Design in the PCLE Context]]
+> > [!topic-idea] [[Assessment-Design-in-the-PCLE-Context|Assessment Design in the PCLE Context]]
 > > If the PKB is a learning environment, the question of how the learner assesses their own development within that environment becomes crucial. How does progress toward genuine expertise look different from progress toward note-count? What would an assessment framework for the PCLE look like? This connects to Report 18's calibration and epistemic humility analysis and anticipates Report 27's comprehensive design framework.

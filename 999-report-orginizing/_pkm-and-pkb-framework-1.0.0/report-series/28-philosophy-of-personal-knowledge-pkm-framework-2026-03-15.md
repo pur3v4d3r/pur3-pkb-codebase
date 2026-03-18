@@ -89,19 +89,19 @@ analytical-contributions:
   total-analytical-commentary: 18
 
 related-concepts:
-  - "[[Justified True Belief]]"
-  - "[[Gettier Problem]]"
-  - "[[Virtue Epistemology]]"
-  - "[[Pragmatist Truth]]"
-  - "[[Constructivist Knowledge]]"
-  - "[[Kataleptic Impression]]"
-  - "[[Socratic Aporia]]"
-  - "[[Epistemic Humility]]"
-  - "[[Illusion of Knowing]]"
-  - "[[Familiarity vs. Recollection]]"
-  - "[[Schema Theory]]"
-  - "[[Tacit Knowledge]]"
-  - "[[Explicit Knowledge]]"
+  - "[[Justified-True-Belief|Justified True Belief]]"
+  - "[[Gettier-Problem|Gettier Problem]]"
+  - "[[Virtue-Epistemology|Virtue Epistemology]]"
+  - "[[Pragmatist-Truth|Pragmatist Truth]]"
+  - "[[Constructivist-Knowledge|Constructivist Knowledge]]"
+  - "[[Kataleptic-Impression|Kataleptic Impression]]"
+  - "[[Socratic-Aporia|Socratic Aporia]]"
+  - "[[Epistemic-Humility|Epistemic Humility]]"
+  - "[[Illusion-of-Knowing|Illusion of Knowing]]"
+  - "[[Familiarity-vs.-Recollection|Familiarity vs. Recollection]]"
+  - "[[Schema-Theory|Schema Theory]]"
+  - "[[Tacit-Knowledge|Tacit Knowledge]]"
+  - "[[Explicit-Knowledge|Explicit Knowledge]]"
   - "[[Knowledge as Relationship]]"
   - "[[Epistemic States]]"
   - "[[Propositional Knowledge]]"
@@ -137,19 +137,19 @@ aliases:
 
 There is a question that almost no one in the Personal Knowledge Management community asks, despite the fact that it sits at the foundation of everything they do. It is a question so fundamental that failing to examine it can corrupt the entire enterprise — turning what should be a system for genuine intellectual growth into an elaborate simulation of it. The question is this: **What does it actually mean to know something that appears in your PKB?**
 
-When you save a note about [[Cognitive Load Theory]], do you know cognitive load theory? When you have fifty atomic notes about [[Stoic Philosophy]], each precisely written and beautifully linked, do you know Stoicism? When your vault contains a detailed synthesis on [[Schema Theory]] that you wrote six months ago and have not revisited since, does that synthesis constitute knowledge you possess? The intuitive answer — "of course it contributes to my knowledge" — is philosophically shaky in ways that have direct, practical consequences for PKB design.
+When you save a note about [[Cognitive-Load-Theory|Cognitive Load Theory]], do you know cognitive load theory? When you have fifty atomic notes about [[Stoic-Philosophy|Stoic Philosophy]], each precisely written and beautifully linked, do you know Stoicism? When your vault contains a detailed synthesis on [[Schema-Theory|Schema Theory]] that you wrote six months ago and have not revisited since, does that synthesis constitute knowledge you possess? The intuitive answer — "of course it contributes to my knowledge" — is philosophically shaky in ways that have direct, practical consequences for PKB design.
 
 > [!ask-yourself-this] **Before You Begin — Knowledge State Assessment**
 > Before reading further, take a genuine epistemic inventory. Pick three topics you have notes on in your PKB. For each, ask yourself: Could I explain the core ideas accurately to someone who knows nothing about them? Could I apply these ideas to a novel problem I have not seen before? Could I identify where my notes might be wrong, incomplete, or missing important nuance? Your honest answers will reveal the gap — if any — between information stored and knowledge possessed. Record your responses now; they will serve as your baseline.
 
-This is not a pedantic philosophical exercise. The gap between stored information and genuine knowledge is one of the most cognitively dangerous territories in PKM practice. It creates the [[Illusion of Knowing]] — a well-documented psychological phenomenon in which exposure to information generates a feeling of understanding that substantially exceeds actual understanding. A PKB, if not carefully designed, can manufacture this illusion at industrial scale. Every new note saved, every link created, every synthesis written generates a small dopamine signal that the brain interprets as learning accomplished. But the signal may be profoundly misleading.
+This is not a pedantic philosophical exercise. The gap between stored information and genuine knowledge is one of the most cognitively dangerous territories in PKM practice. It creates the [[Illusion-of-Knowing|Illusion of Knowing]] — a well-documented psychological phenomenon in which exposure to information generates a feeling of understanding that substantially exceeds actual understanding. A PKB, if not carefully designed, can manufacture this illusion at industrial scale. Every new note saved, every link created, every synthesis written generates a small dopamine signal that the brain interprets as learning accomplished. But the signal may be profoundly misleading.
 
 > [!key-claim] **The Central Synthesis Claim**
 > A philosophically grounded account of personal knowledge — drawing on classical epistemology, pragmatism, constructivism, Stoic wisdom, and Socratic epistemics — reveals that knowledge is not a property of notes. It is a relationship between a learner and content, constituted through active engagement, tested application, and honest self-examination. This reconceptualization demands a radical rethinking of what a PKB is for and how it should be designed.
 
 ### Scope and Cross-Domain Architecture
 
-This report synthesizes across five disciplinary traditions rarely brought into conversation with each other in the PKM literature: [[Classical Epistemology]] (what philosophers mean by "knowledge" and the centuries of debate around it), [[Pragmatist Philosophy]] (Peirce, James, and especially Dewey on truth and knowing as instrumental), [[Constructivism]] (Piaget and Vygotsky on knowledge as actively built rather than passively received), [[Stoic Epistemology]] (the Stoic account of knowledge, epistemic virtue, and the sage's certainty), and [[Socratic Epistemics]] (the practice of knowing that you do not know and what productive ignorance looks like). Threading through all of them is [[Cognitive Science]] — specifically what empirical research reveals about the difference between familiarity, recognition, and genuine understanding.
+This report synthesizes across five disciplinary traditions rarely brought into conversation with each other in the PKM literature: [[Classical-Epistemology|Classical Epistemology]] (what philosophers mean by "knowledge" and the centuries of debate around it), [[Pragmatist Philosophy]] (Peirce, James, and especially Dewey on truth and knowing as instrumental), [[Constructivism]] (Piaget and Vygotsky on knowledge as actively built rather than passively received), [[Stoic Epistemology]] (the Stoic account of knowledge, epistemic virtue, and the sage's certainty), and [[Socratic Epistemics]] (the practice of knowing that you do not know and what productive ignorance looks like). Threading through all of them is [[Cognitive-Science|Cognitive Science]] — specifically what empirical research reveals about the difference between familiarity, recognition, and genuine understanding.
 
 This report is positioned in Tier 4 of the series — the meta-framework level — because answering the question "what does it mean to know in a PKB?" requires first having worked through what we mean by knowledge organization (Report 01), cognitive architecture (Report 02), constructive understanding (Report 03), metacognition (Report 04), critical thinking (Report 07), reflective practice (Report 08), inquiry-based learning (Report 14), note-making as knowledge construction (Report 17), and calibration (Report 18). Those reports established the empirical and design landscape; this report asks the foundational philosophical question that should have been asked first — and which, answered now with the full series in view, illuminates the entire enterprise retrospectively.
 
@@ -161,7 +161,7 @@ What none of those reports could fully address — precisely because they approa
 
 ### The Classical Inheritance: Justified True Belief and Its Discontents
 
-Western epistemology's dominant account of knowledge for most of its history has been the [[Justified True Belief]] analysis, often abbreviated as JTB. Attributed in its canonical form to Plato's *Meno* and *Theaetetus*, the analysis holds that you know proposition P if and only if: (1) P is true, (2) you believe P, and (3) your belief that P is justified — that is, you have adequate reasons or evidence for holding it.
+Western epistemology's dominant account of knowledge for most of its history has been the [[Justified-True-Belief|Justified True Belief]] analysis, often abbreviated as JTB. Attributed in its canonical form to Plato's *Meno* and *Theaetetus*, the analysis holds that you know proposition P if and only if: (1) P is true, (2) you believe P, and (3) your belief that P is justified — that is, you have adequate reasons or evidence for holding it.
 
 > [!definition] **Justified True Belief (Classical Epistemology — Plato, Ayer, Chisholm)**
 > The traditional analysis of propositional knowledge as the conjunction of three conditions: the truth of what is believed (truth condition), the believer's mental assent to it (belief condition), and the believer's possession of adequate reasons, evidence, or reliable processes for holding that belief (justification condition). Knowledge, on this account, is distinguished from mere opinion (belief without truth) and lucky guessing (belief with truth but without justification). Boundary condition: this analysis applies specifically to propositional or declarative knowledge ("knowing that"), not procedural knowledge ("knowing how") or acquaintance knowledge ("knowing whom").
@@ -173,7 +173,7 @@ Edmund Gettier's famous 1963 paper demolished the sufficiency of the JTB analysi
 > [!cross-domain-connection] **Gettier and the PKB Note Problem**
 > Gettier cases are not merely philosophical curiosities. They map directly onto a recurring PKB failure mode: notes that assert true conclusions through faulty reasoning, or notes whose justificatory context has since been overturned by new evidence that the user has not processed. A note written in 2022 citing research that was retracted in 2024 is a Gettier case waiting to happen — the user has justification (at time of writing), the belief may be true (by coincidence), but they do not have knowledge. This is precisely why [[07-critical-thinking-pkm-practice-pkm-framework-2026-03-14]] emphasized source evaluation workflows and why [[18-calibration-epistemic-humility-pkm-framework-2026-03-15]] emphasized epistemic status tracking. But neither report could fully explain *why* these practices are epistemically necessary without the philosophical grounding this report provides.
 
-The response to Gettier within epistemology took several directions. [[Virtue Epistemology]], developed by Ernest Sosa and Linda Zagzebski among others, reconceived knowledge not as a special kind of belief but as the exercise of intellectual virtue — reliable cognitive faculties and character traits including intellectual humility, open-mindedness, and thoroughness. On this account, knowing is something an agent does with epistemic virtue, not merely a static relationship between a mind and a proposition.
+The response to Gettier within epistemology took several directions. [[Virtue-Epistemology|Virtue Epistemology]], developed by Ernest Sosa and Linda Zagzebski among others, reconceived knowledge not as a special kind of belief but as the exercise of intellectual virtue — reliable cognitive faculties and character traits including intellectual humility, open-mindedness, and thoroughness. On this account, knowing is something an agent does with epistemic virtue, not merely a static relationship between a mind and a proposition.
 
 > [!definition] **Virtue Epistemology (Sosa, Zagzebski, Greco — Contemporary Analytic Epistemology)**
 > The view that knowledge is understood in terms of intellectual virtues — stable, reliable dispositions of the epistemic agent that reliably produce true belief through their appropriate exercise. Virtues include intellectual humility (accurate assessment of one's epistemic limitations), intellectual courage (willingness to revise beliefs in response to evidence), intellectual thoroughness (not resting content with superficial understanding), and open-mindedness (genuine consideration of alternative views). Knowledge, on this account, is a credit to the knower's character — the agent must be responsible for their believing truly, not merely fortunate. This view transforms epistemology from a question about belief conditions to a question about the epistemic agent's character and practice.
@@ -203,7 +203,7 @@ The constructivist insight that strikes hardest at naive PKM is Piaget's distinc
 
 ### Stoic Epistemology: Virtue, Certainty, and the Examined Mind
 
-The [[Stoic Philosophy|Stoics]] — Zeno, Chrysippus, Epictetus, Marcus Aurelius — developed a sophisticated epistemology centered on the concept of the [[Kataleptic Impression]]: a sense impression so clear, distinct, and self-evidencing that no rational person could mistake it for false. The Stoic sage — a theoretical ideal — acts only on kataleptic impressions, never on uncertain appearances.
+The [[Stoic Philosophy|Stoics]] — Zeno, Chrysippus, Epictetus, Marcus Aurelius — developed a sophisticated epistemology centered on the concept of the [[Kataleptic-Impression|Kataleptic Impression]]: a sense impression so clear, distinct, and self-evidencing that no rational person could mistake it for false. The Stoic sage — a theoretical ideal — acts only on kataleptic impressions, never on uncertain appearances.
 
 > [!definition] **Kataleptic Impression (Stoic Epistemology — Zeno, Chrysippus)**
 > The Stoic technical concept for a sense impression (phantasia) that "grasps" reality as it is — so vivid and accurate that it compels the assent of a rational mind. The kataleptic impression (kataleptike phantasia) serves as the criterion of truth for the Stoics and the foundation of genuine knowledge (episteme). Crucially, the Stoics distinguished sharply between cognitive assent to such impressions (justified) and assent to non-kataleptic impressions (rash, failing to meet the standard of rational agency). The sage withholds assent from anything less than kataleptic impression — a practice of radical epistemic discipline. For PKB design, the Stoic framework suggests a practice of calibrated assent: what standard of evidence and understanding should be required before treating a note as established knowledge rather than provisional belief?
@@ -212,13 +212,13 @@ More practically actionable than the kataleptic impression is the Stoic practice
 
 ### Socratic Epistemics: The Wisdom of Not Knowing
 
-Socrates, as rendered through Plato, represents perhaps the most counterintuitive but ultimately productive epistemic tradition: the claim that genuine knowledge begins with recognizing the limits of one's knowledge. The [[Socratic Method]] — the elenchus — is a practice of exposing the inadequacy of claimed understanding through systematic questioning, leading to [[Aporia]]: the productive state of recognized ignorance from which genuine inquiry can begin.
+Socrates, as rendered through Plato, represents perhaps the most counterintuitive but ultimately productive epistemic tradition: the claim that genuine knowledge begins with recognizing the limits of one's knowledge. The [[Socratic-Method-Elenchus|Socratic Method]] — the elenchus — is a practice of exposing the inadequacy of claimed understanding through systematic questioning, leading to [[Aporia]]: the productive state of recognized ignorance from which genuine inquiry can begin.
 
 > [!definition] **Epistemic Aporia (Socratic Philosophy — Plato's Meno, Theaetetus, Apology)**
 > The state of recognized perplexity or impasse that results from Socratic elenchus — the systematic questioning that reveals contradictions, gaps, or incoherence in one's claimed knowledge. Aporia (from Greek, "without passage" or "without resource") is not mere ignorance; it is the recognition that one does not know, which Socrates treats as epistemically superior to confident false belief. In the Meno, Socrates distinguishes between Meno's initial confident-but-wrong answers about virtue and his subsequent aporetric state, arguing that the latter is more honest and productive. For PKB design, aporia is a design target — not a failure state but a generative condition. A PKB that never produces genuine aporia — genuine "I don't know and I see why I don't know" — is not functioning as an epistemically productive system.
 
 > [!definition] **Socratic Ignorance (Plato's Apology — "I know that I know nothing")**
-> The Socratic meta-cognitive stance of recognizing one's own ignorance as a positive epistemic achievement. The famous claim in the Apology — that Socrates is wiser than others because, while neither knows anything fine and good, others think they know when they do not, while Socrates neither knows nor thinks he knows — is not a counsel of despair but a methodological principle. The recognition of one's ignorance is the necessary condition for genuine inquiry. This maps directly onto the cognitive science of [[Metacognitive Calibration]]: research by David Dunning, Justin Kruger, and others shows that the ability to recognize what one does not know is among the most cognitively sophisticated epistemic achievements, and that incompetence specifically impairs the ability to recognize incompetence.
+> The Socratic meta-cognitive stance of recognizing one's own ignorance as a positive epistemic achievement. The famous claim in the Apology — that Socrates is wiser than others because, while neither knows anything fine and good, others think they know when they do not, while Socrates neither knows nor thinks he knows — is not a counsel of despair but a methodological principle. The recognition of one's ignorance is the necessary condition for genuine inquiry. This maps directly onto the cognitive science of [[Metacognitive-Calibration|Metacognitive Calibration]]: research by David Dunning, Justin Kruger, and others shows that the ability to recognize what one does not know is among the most cognitively sophisticated epistemic achievements, and that incompetence specifically impairs the ability to recognize incompetence.
 
 > [!cross-domain-connection] **Socratic Ignorance and Dunning-Kruger: Two Disciplines, One Structure**
 > The Socratic claim that the most ignorant are least aware of their ignorance, while genuine wisdom includes an accurate recognition of one's limitations, is structurally identical to the Dunning-Kruger finding that unskilled performers systematically overestimate their competence while experts are better calibrated about what they do not know. These are not merely analogous findings — they describe the same cognitive phenomenon through different methodologies separated by 2,400 years. The convergence provides exceptional grounds for treating metacognitive humility as a genuine epistemic virtue rather than merely a social nicety. For PKB design, this convergence demands that genuine epistemic humility — not merely its performance — be designed into the system's review and assessment workflows.
@@ -250,7 +250,7 @@ Familiarity is a sense of prior exposure — a feeling of recognition that does 
 > [!what-the-evidence-suggests] **Fluency Is Not Understanding**
 > The convergence of illusion-of-knowing research, desirable difficulties research (Bjork, 1994), and the testing effect literature suggests a counterintuitive principle that the PKM community has been slow to internalize: the easier it is to process a note, the less likely that processing is to produce genuine knowledge. High-quality notes — clear, well-organized, elegantly written — are precisely the notes most likely to generate the illusion of knowing without the reality. This does not mean notes should be unclear. It means that clarity of presentation must be paired with practices that ensure active engagement rather than passive appreciation.
 
-The [[Testing Effect]] — the robust finding that attempting to retrieve information, even unsuccessfully, produces stronger learning than additional study — has a direct philosophical implication. If merely reading a note does not constitute knowing its content, and if retrieval practice is necessary for genuine knowledge consolidation, then a PKB workflow that consists primarily of note-writing without systematic retrieval practice is producing a repository of information, not a system of knowledge. The distinction is not semantic. The gap between these two things is the gap between a library and a trained mind.
+The [[Testing-Effect-Retrieval-Practice-Effect|Testing Effect]] — the robust finding that attempting to retrieve information, even unsuccessfully, produces stronger learning than additional study — has a direct philosophical implication. If merely reading a note does not constitute knowing its content, and if retrieval practice is necessary for genuine knowledge consolidation, then a PKB workflow that consists primarily of note-writing without systematic retrieval practice is producing a repository of information, not a system of knowledge. The distinction is not semantic. The gap between these two things is the gap between a library and a trained mind.
 
 ### Calibration Research: The Self-Assessment Problem
 
@@ -261,9 +261,9 @@ The calibration literature — reviewed extensively in [[18-calibration-epistemi
 
 ### The Constructivist Evidence Base: Schema Construction Requires Effort
 
-Piaget's theoretical framework receives extensive empirical support from cognitive science research on [[Schema Theory]]. Research by Frederic Bartlett, Roger Schank, and Robert Abelson established that memory is not a recording device — it is a constructive process in which incoming information is interpreted, transformed, and stored in relation to existing knowledge structures. The implication: information cannot simply be deposited into memory. It must be actively incorporated.
+Piaget's theoretical framework receives extensive empirical support from cognitive science research on [[Schema-Theory|Schema Theory]]. Research by Frederic Bartlett, Roger Schank, and Robert Abelson established that memory is not a recording device — it is a constructive process in which incoming information is interpreted, transformed, and stored in relation to existing knowledge structures. The implication: information cannot simply be deposited into memory. It must be actively incorporated.
 
-The research tradition on [[Elaborative Interrogation]] — asking "why" and "how" questions about material being learned rather than passively reading it — consistently produces significantly better retention and transfer than passive reading. Graham and Rawson's work found that self-explanation (generating explanations of material in one's own words) produced substantial learning advantages over rereading. These findings support the constructivist framework empirically: knowledge is built through active processing, not through exposure.
+The research tradition on [[Elaborative-Interrogation|Elaborative Interrogation]] — asking "why" and "how" questions about material being learned rather than passively reading it — consistently produces significantly better retention and transfer than passive reading. Graham and Rawson's work found that self-explanation (generating explanations of material in one's own words) produced substantial learning advantages over rereading. These findings support the constructivist framework empirically: knowledge is built through active processing, not through exposure.
 
 > [!evidence] **Active Generation vs. Passive Reading (Slamecka & Graf, 1978; McDaniel et al., 2009)**
 > The generation effect — the finding that material generated by the learner is better remembered than material read — has been replicated hundreds of times since Slamecka and Graf's original demonstration. In PKB terms: notes that the user writes, reformulates, or elaborates in their own words are epistemically superior to notes that are copied, pasted, or captured verbatim from sources. The act of generation is itself a knowledge-construction process. A PKB workflow that prioritizes capture speed (verbatim quotes, clipped articles) over generation (reformulation, synthesis, original expression) is optimizing for the wrong variable. The note may be more accurate; the knowledge may be weaker.
@@ -272,7 +272,7 @@ The research tradition on [[Elaborative Interrogation]] — asking "why" and "ho
 
 The pragmatist tradition does not generate laboratory evidence in the way cognitive psychology does — it generates a different kind of evidence: the pragmatic test of whether theoretical commitments work in practice. But cognitive science has produced findings that confirm the pragmatist intuition that knowledge must be functional to be genuine.
 
-Research on [[Transfer of Learning]] — the subject of [[11-transfer-problem-pkm-framework-2026-03-14]] — consistently shows that information learned in one context transfers to novel contexts only when learners have developed flexible, schema-based understanding rather than context-specific memorization. This is a pragmatist insight confirmed empirically: knowledge that cannot transfer — that cannot be put to work in new situations — was never fully knowledge in the first place. It was performance tied to specific cues.
+Research on [[Transfer-of-Learning|Transfer of Learning]] — the subject of [[11-transfer-problem-pkm-framework-2026-03-14]] — consistently shows that information learned in one context transfers to novel contexts only when learners have developed flexible, schema-based understanding rather than context-specific memorization. This is a pragmatist insight confirmed empirically: knowledge that cannot transfer — that cannot be put to work in new situations — was never fully knowledge in the first place. It was performance tied to specific cues.
 
 > [!tension-identified] **The Certainty Tension: Stoic Discipline vs. Pragmatist Fallibilism**
 > The Stoics demand high standards for genuine knowledge — kataleptic impressions that compel assent, epistemic virtue in action. Pragmatism, by contrast, is fallibilist: knowledge claims are always provisional, subject to revision as inquiry continues. Peirce's "critical common-sensism" holds that even our most basic beliefs may need revision, though they function as practically certain for most purposes. This creates a genuine tension for PKB design. The Stoic instinct is to mark beliefs clearly by their epistemic status, withholding strong endorsement from anything less than well-established. The pragmatist instinct is to accept provisional knowledge as working knowledge and proceed — not waiting for certainty that never comes. Navigating this tension requires contextual judgment: high-stakes applications demand Stoic-level scrutiny; exploratory thinking benefits from pragmatist willingness to act on provisional understanding.
@@ -317,7 +317,7 @@ Classical epistemology, pragmatism, constructivism, Stoic epistemology, and cogn
 
 ### The PKB Paradox: Why Storage Feels Like Knowing
 
-Given the universal agreement across traditions that knowing is active, why does the passive act of saving a note generate such a convincing feeling of knowing? The answer requires understanding the cognitive mechanisms that produce the [[Illusion of Knowing]] in the PKB context specifically.
+Given the universal agreement across traditions that knowing is active, why does the passive act of saving a note generate such a convincing feeling of knowing? The answer requires understanding the cognitive mechanisms that produce the [[Illusion-of-Knowing|Illusion of Knowing]] in the PKB context specifically.
 
 When a person reads a note they have written or saved, several cognitive processes occur simultaneously. First, fluency processing: the familiarity of the content generates faster, smoother processing, which the brain interprets as a signal of understanding. The processing speed that comes from prior exposure is phenomenologically indistinguishable from the processing speed that comes from deep comprehension. Second, partial retrieval: some aspects of the content are genuinely retrievable, which masks the larger territory that is not. You can retrieve enough to feel adequate; you cannot easily perceive what you cannot retrieve. Third, availability cascades: seeing a note triggers related concepts and connections, creating a feeling of rich understanding — but the triggered connections are not themselves being tested for accuracy or depth.
 
@@ -377,7 +377,7 @@ The Stoic tradition contributes something that neither cognitive science nor pra
 
 ### Design Principle 1: The Epistemic State Architecture
 
-The first and most fundamental design implication of the philosophy of personal knowledge is that every note in a PKB should carry an explicit [[Epistemic State]] marker — a designation of its current relationship to the user's genuine knowledge. Not merely a "status" label (draft, evergreen) but an epistemic classification that tracks where the content falls in the Relational Theory's four-stage cycle.
+The first and most fundamental design implication of the philosophy of personal knowledge is that every note in a PKB should carry an explicit [[Epistemic-State|Epistemic State]] marker — a designation of its current relationship to the user's genuine knowledge. Not merely a "status" label (draft, evergreen) but an epistemic classification that tracks where the content falls in the Relational Theory's four-stage cycle.
 
 > [!best-practice] **The Epistemic State System — Obsidian Implementation**
 >
@@ -399,7 +399,7 @@ If productive ignorance is epistemically valuable — a necessary condition for 
 
 > [!best-practice] **The Ignorance Map — Obsidian Implementation**
 >
-> Maintain a dedicated note called `[[Ignorance Map]]` or `[[Open Questions Registry]]` — a structured catalog of genuine epistemic gaps: things you know you don't understand, claims in your PKB you haven't been able to verify, connections that feel plausible but haven't been tested, and topics where your notes contradict each other without resolution. This map should be treated as a high-value epistemic asset — it represents the frontier of your genuine inquiry. In Obsidian, use a dedicated tag `#genuine-uncertainty` for atomic notes that capture specific ignorance. Regular review of the Ignorance Map should drive future reading, note-making, and inquiry rather than the more comfortable habit of adding to domains where you already feel competent.
+> Maintain a dedicated note called `[[Ignorance-Map|Ignorance Map]]` or `[[Open-Questions-Registry|Open Questions Registry]]` — a structured catalog of genuine epistemic gaps: things you know you don't understand, claims in your PKB you haven't been able to verify, connections that feel plausible but haven't been tested, and topics where your notes contradict each other without resolution. This map should be treated as a high-value epistemic asset — it represents the frontier of your genuine inquiry. In Obsidian, use a dedicated tag `#genuine-uncertainty` for atomic notes that capture specific ignorance. Regular review of the Ignorance Map should drive future reading, note-making, and inquiry rather than the more comfortable habit of adding to domains where you already feel competent.
 
 ### Design Principle 3: The Pragmatist Test as Review Criterion
 
@@ -421,7 +421,7 @@ The Stoic framework suggests that a PKB should not merely store knowledge but de
 
 The synthesis developed in this report is philosophically coherent and empirically supported, but it has genuine limitations that intellectual honesty requires acknowledging.
 
-First, the [[Relational Theory of PKB Knowledge]] articulated in Phase IV is Claude's analytical synthesis — it draws on multiple established traditions but represents a novel integration. It should be treated as a productive hypothesis rather than an established fact. The framework has not been empirically tested as a unified theory; its components have been studied separately, and their integration into a four-stage model (Encounter → Challenge → Integration → Application) is theoretical.
+First, the [[Relational-Theory-of-PKB-Knowledge|Relational Theory of PKB Knowledge]] articulated in Phase IV is Claude's analytical synthesis — it draws on multiple established traditions but represents a novel integration. It should be treated as a productive hypothesis rather than an established fact. The framework has not been empirically tested as a unified theory; its components have been studied separately, and their integration into a four-stage model (Encounter → Challenge → Integration → Application) is theoretical.
 
 Second, the pragmatist test — that genuine knowledge must be deployable in novel situations — may be too demanding for certain kinds of knowledge. Some knowledge is valuable precisely because it shapes background understanding rather than directly guiding action. Deep familiarity with the history of a field may improve one's intuitions and judgments without being deployable in the way a formula or a principle is. The pragmatist test needs context-sensitive application rather than blanket application.
 
@@ -591,19 +591,19 @@ This synthesis leaves genuinely open questions that future inquiry should addres
 
 > [!further-exploration] **Deepening Your Framework**
 
-> [!topic-idea] [[Epistemology of Testimony — Believing What Others Know]]
+> [!topic-idea] [[Epistemology-of-Testimony-—-Believing-What-Others-Know|Epistemology of Testimony — Believing What Others Know]]
 > How do we come to know things through testimony — through what we are told rather than what we directly experience? The epistemology of testimony is directly relevant to PKBs because most PKB content is testimony-based: notes from books, articles, lectures, and conversations. Questions include: Under what conditions is testimony-based belief knowledge? What epistemic obligations does the recipient of testimony have? How should testimonial content be marked differently from directly experienced knowledge? This topic extends the Relational Theory to the specific epistemic situation of reading-based learning.
 
-> [!topic-idea] [[The Epistemology of Memory — When Does Memory Constitute Knowledge?]]
+> [!topic-idea] [[The-Epistemology-of-Memory-—-When-Does-Memory-Constitute-Knowledge|The Epistemology of Memory — When Does Memory Constitute Knowledge?]]
 > Memory is the cognitive mechanism that sustains knowledge over time, but memory is reconstructive rather than reproductive — it systematically distorts, fills in gaps, and updates the past in light of current understanding. What does this mean for the PKB notes that represent a user's past understanding? Under what conditions does the memory of a learning experience constitute genuine knowledge? This topic bridges cognitive science of memory with epistemology of personal identity and temporal knowledge.
 
-> [!topic-idea] [[Collective Knowledge and the PKB — Social Epistemology]]
+> [!topic-idea] [[Collective-Knowledge-and-the-PKB-—-Social-Epistemology|Collective Knowledge and the PKB — Social Epistemology]]
 > Social epistemology examines how knowledge is generated, transmitted, and validated through social processes rather than individual cognition. Most knowledge in a PKB entered it through social channels — academic communities, peer review, expert testimony, cultural consensus. Understanding the social epistemology of PKB content would enable practitioners to assess the epistemic authority of different sources more accurately and to understand their PKB as a node in a collective knowledge network rather than an isolated individual system.
 
-> [!topic-idea] [[Philosophy of Science and PKM — Scientific Method as Epistemic Model]]
+> [!topic-idea] [[Philosophy-of-Science-and-PKM-—-Scientific-Method-as-Epistemic-Model|Philosophy of Science and PKM — Scientific Method as Epistemic Model]]
 > The philosophy of science offers sophisticated accounts of how knowledge is generated, tested, and revised in the most reliable epistemic community humans have developed. Karl Popper's falsificationism, Thomas Kuhn's paradigm shifts, Imre Lakatos's research programs, and Paul Feyerabend's epistemic anarchism all have direct implications for how PKB practitioners should treat the scientific content in their vaults. This topic would develop a scientifically-informed epistemology specifically suited to evidence-based PKM.
 
-> [!topic-idea] [[Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]]
+> [!topic-idea] [[Buddhist-Epistemology-and-PKM-—-Perception,-Inference,-and-Non-Attachment|Buddhist Epistemology and PKM — Perception, Inference, and Non-Attachment]]
 > Buddhist philosophical traditions — particularly the Pramana tradition developed by Dignaga and Dharmakirti — developed sophisticated epistemological frameworks centered on direct perception and inference as the two valid sources of knowledge, and on non-attachment to views as an epistemic virtue. The Buddhist account of how clinging to views distorts perception has direct applications to PKM: notes become cognitive prisons if practitioners are too attached to the understanding they represent. This topic would extend the five-tradition synthesis of this report to include a major non-Western epistemological tradition.
 
 > [!topic-idea] [[The Ethics of Belief — W.K. Clifford and Epistemic Obligation]]

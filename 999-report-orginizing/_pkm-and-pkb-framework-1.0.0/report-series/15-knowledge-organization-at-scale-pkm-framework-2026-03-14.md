@@ -71,24 +71,24 @@ analytical-contributions:
 
 related-concepts:
   - "[[Taxonomy]]"
-  - "[[Ontology (Knowledge)]]"
+  - "[[Ontology-Knowledge|Ontology (Knowledge)]]"
   - "[[Folksonomy]]"
-  - "[[Faceted Classification]]"
-  - "[[Controlled Vocabulary]]"
-  - "[[Prototype Theory]]"
-  - "[[Basic-Level Categories]]"
-  - "[[SECI Model]]"
-  - "[[Knowledge Externalization]]"
-  - "[[Semantic Networks]]"
-  - "[[Vocabulary Mismatch Problem]]"
-  - "[[Progressive Parameterized Tagging]]"
+  - "[[Faceted-Classification|Faceted Classification]]"
+  - "[[Controlled-Vocabulary|Controlled Vocabulary]]"
+  - "[[Prototype-Theory|Prototype Theory]]"
+  - "[[Basic-Level-Categories|Basic-Level Categories]]"
+  - "[[SECI-Model|SECI Model]]"
+  - "[[Knowledge-Externalization|Knowledge Externalization]]"
+  - "[[Semantic-Networks|Semantic Networks]]"
+  - "[[Vocabulary-Mismatch-Problem|Vocabulary Mismatch Problem]]"
+  - "[[Progressive-Parameterized-Tagging|Progressive Parameterized Tagging]]"
   - "[[Cognitive Ba]]"
   - "[[Parameterized Folksonomy]]"
   - "[[Schema Crystallization]]"
-  - "[[Knowledge Organization System]]"
+  - "[[Knowledge-Organization-System|Knowledge Organization System]]"
   - "[[Ranganathan PMEST]]"
-  - "[[Spreading Activation]]"
-  - "[[Category Coherence]]"
+  - "[[Spreading-Activation|Spreading Activation]]"
+  - "[[Category-Coherence|Category Coherence]]"
   - "[[Boundary Object]]"
   - "[[Epistemic Warrant]]"
   - "[[Tag Ecology]]"
@@ -123,7 +123,7 @@ This report draws on **Information Science** for the formal frameworks of knowle
 
 ### Building on Prior Reports
 
-[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] established that PKB structure should align with how the mind organizes knowledge — specifically, that [[Schema Theory]] and [[Semantic Networks]] predict a connected, associative architecture rather than a purely hierarchical one. [[09-designing-the-learning-pkb-pkm-framework-2026-03-14]] translated this into concrete Obsidian design guidance for individual notes. [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] showed that PKB structure should evolve as expertise grows. This report asks the next-level question: as your vault grows to hundreds or thousands of notes, how should its *organizational logic* — its tags, hierarchies, and classification schemes — scale? The answer requires understanding what organizational systems actually are, both formally and cognitively.
+[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] established that PKB structure should align with how the mind organizes knowledge — specifically, that [[Schema-Theory|Schema Theory]] and [[Semantic-Networks|Semantic Networks]] predict a connected, associative architecture rather than a purely hierarchical one. [[09-designing-the-learning-pkb-pkm-framework-2026-03-14]] translated this into concrete Obsidian design guidance for individual notes. [[10-scaffolding-and-fading-pkm-framework-2026-03-14]] showed that PKB structure should evolve as expertise grows. This report asks the next-level question: as your vault grows to hundreds or thousands of notes, how should its *organizational logic* — its tags, hierarchies, and classification schemes — scale? The answer requires understanding what organizational systems actually are, both formally and cognitively.
 
 > [!ask-yourself-this] **Before You Begin: Your Current Organization**
 >
@@ -285,7 +285,7 @@ Here is the mechanism in detail. When you create a note, you tag it using the vo
 
 > [!analytical-insight] **Vocabulary Mismatch as a Learning Metric**
 >
-> This reframing transforms the vocabulary mismatch problem from a design flaw to a learning signal. When you cannot find a note you know you have, it is not necessarily because your organizational system is broken — it may be evidence that your understanding has grown beyond the categories you used to capture that knowledge. The note is "lost" not in your vault but in the gap between your old schema and your new one. This suggests a valuable practice: when a retrieval failure occurs, don't just fix the tag — treat it as a metacognitive event. Ask: what has changed in my understanding that makes the old tag no longer the natural query? The answer locates exactly where conceptual growth has occurred. This is an instance of the [[Reflective Practice]] loops established in [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] operating at the organizational level.
+> This reframing transforms the vocabulary mismatch problem from a design flaw to a learning signal. When you cannot find a note you know you have, it is not necessarily because your organizational system is broken — it may be evidence that your understanding has grown beyond the categories you used to capture that knowledge. The note is "lost" not in your vault but in the gap between your old schema and your new one. This suggests a valuable practice: when a retrieval failure occurs, don't just fix the tag — treat it as a metacognitive event. Ask: what has changed in my understanding that makes the old tag no longer the natural query? The answer locates exactly where conceptual growth has occurred. This is an instance of the [[Reflective-Practice|Reflective Practice]] loops established in [[08-reflective-practice-experiential-learning-pkm-framework-2026-03-14]] operating at the organizational level.
 
 ### The Taxonomy Pathology: How Hierarchies Become Cognitive Traps
 
@@ -325,7 +325,7 @@ In a solo vault, this selection mechanism is absent. You are both the creator an
 
 The deepest design insight in this report emerges from understanding why Ranganathan's faceted classification has proven more durable than the hierarchical taxonomies it challenged. The mechanism is precisely its alignment with the cognitive architecture of human categorization.
 
-Rosch's finding that human categories are organized around prototypes, not definitions, implies that any single hierarchical dimension will always produce borderline cases — items that could reasonably go in multiple branches. Faceted classification responds to this by abandoning the requirement that items have a single location. Instead, every item is described along multiple independent dimensions (facets), and retrieval specifies values on whichever facets are relevant to the current query. A note about a specific application of [[Cognitive Load Theory]] to [[Online Learning]] platforms in [[2024]] is simultaneously a note about a cognitive psychology theory, an instructional design application, a technology context, and a time period. A faceted system can retrieve it via any of these dimensions. A hierarchical taxonomy must place it in exactly one branch.
+Rosch's finding that human categories are organized around prototypes, not definitions, implies that any single hierarchical dimension will always produce borderline cases — items that could reasonably go in multiple branches. Faceted classification responds to this by abandoning the requirement that items have a single location. Instead, every item is described along multiple independent dimensions (facets), and retrieval specifies values on whichever facets are relevant to the current query. A note about a specific application of [[Cognitive-Load-Theory|Cognitive Load Theory]] to [[Online-Learning|Online Learning]] platforms in [[2024]] is simultaneously a note about a cognitive psychology theory, an instructional design application, a technology context, and a time period. A faceted system can retrieve it via any of these dimensions. A hierarchical taxonomy must place it in exactly one branch.
 
 > [!cross-domain-connection] **Faceted Classification and Semantic Networks: The Same Claim from Different Angles**
 >
@@ -429,7 +429,7 @@ The standard view of knowledge organization treats it as a support system for re
 
 ### Return-and-Deepen: Schema Theory Revisited
 
-[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] introduced [[Schema Theory]] as the foundational cognitive architecture for PKB design — the claim that knowledge is organized in schemas (structured networks of prior knowledge) and that new knowledge is assimilated into existing schemas or accommodates them. With the mechanisms developed in this report now in view, we can see an implication of schema theory that wasn't visible earlier: the vocabulary you use to organize your PKB is not just a retrieval tool — it is a schema element. Your tags, facet values, and link labels are the explicit, visible surface of your underlying schema structure. When schema accommodation occurs — when you encounter knowledge that genuinely reorganizes your understanding — it should manifest as an organizational restructuring event, not just as new notes added to old folders. Schema crystallization events, in this light, are not optional maintenance: they are the external trace of the internal accommodation process that is the core mechanism of genuine learning.
+[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] introduced [[Schema-Theory|Schema Theory]] as the foundational cognitive architecture for PKB design — the claim that knowledge is organized in schemas (structured networks of prior knowledge) and that new knowledge is assimilated into existing schemas or accommodates them. With the mechanisms developed in this report now in view, we can see an implication of schema theory that wasn't visible earlier: the vocabulary you use to organize your PKB is not just a retrieval tool — it is a schema element. Your tags, facet values, and link labels are the explicit, visible surface of your underlying schema structure. When schema accommodation occurs — when you encounter knowledge that genuinely reorganizes your understanding — it should manifest as an organizational restructuring event, not just as new notes added to old folders. Schema crystallization events, in this light, are not optional maintenance: they are the external trace of the internal accommodation process that is the core mechanism of genuine learning.
 
 ### Unresolved Questions
 
@@ -442,17 +442,17 @@ Three questions remain genuinely open at the frontier of this synthesis. First: 
 > [!connections-and-links]
 > **Internal PKB Connections:**
 >
-> - **[[Schema Theory]]** — Every Knowledge Organization System is an externalized schema. The structural choices you make in your KOS (what categories to use, how to link them) both reflect your current schema and shape the schemas you will develop through use. This bidirectional relationship is the core mechanism of the Organization-Learning Loop developed in Phase VI.
+> - **[[Schema-Theory|Schema Theory]]** — Every Knowledge Organization System is an externalized schema. The structural choices you make in your KOS (what categories to use, how to link them) both reflect your current schema and shape the schemas you will develop through use. This bidirectional relationship is the core mechanism of the Organization-Learning Loop developed in Phase VI.
 >
-> - **[[Vocabulary Mismatch Problem]]** — The information science finding that individuals agree on spontaneous naming less than 20% of the time is the retrieval consequence of schema development. As schemas evolve, the vocabulary for concepts changes. The practical design response — a Tag Glossary plus scheduled schema crystallization events — is developed in Phase V.
+> - **[[Vocabulary-Mismatch-Problem|Vocabulary Mismatch Problem]]** — The information science finding that individuals agree on spontaneous naming less than 20% of the time is the retrieval consequence of schema development. As schemas evolve, the vocabulary for concepts changes. The practical design response — a Tag Glossary plus scheduled schema crystallization events — is developed in Phase V.
 >
-> - **[[Faceted Classification]]** — Ranganathan's 1933 innovation remains the most cognitively aligned formal classification framework available, because it supports multiple-path access in a way that mirrors associative semantic memory. The specific implementation for PKB practice — the Progressive Parameterized Tagging system — is the primary design contribution of this report.
+> - **[[Faceted-Classification|Faceted Classification]]** — Ranganathan's 1933 innovation remains the most cognitively aligned formal classification framework available, because it supports multiple-path access in a way that mirrors associative semantic memory. The specific implementation for PKB practice — the Progressive Parameterized Tagging system — is the primary design contribution of this report.
 >
-> - **[[SECI Model]]** — Nonaka's externalization phase, reinterpreted for solo PKB practice, reveals that organizational decision-making is concept creation, not transcription. This transforms the significance of tagging: it is a thinking activity whose value is not exhausted by its retrieval function.
+> - **[[SECI-Model|SECI Model]]** — Nonaka's externalization phase, reinterpreted for solo PKB practice, reveals that organizational decision-making is concept creation, not transcription. This transforms the significance of tagging: it is a thinking activity whose value is not exhausted by its retrieval function.
 >
-> - **[[Prototype Theory]]** — Rosch's finding that natural categories are organized around prototypes rather than necessary-sufficient features grounds the design principle that PKB tags should be at basic-level grain and theory-laden (organized around coherent underlying explanatory structure) rather than descriptive.
+> - **[[Prototype-Theory|Prototype Theory]]** — Rosch's finding that natural categories are organized around prototypes rather than necessary-sufficient features grounds the design principle that PKB tags should be at basic-level grain and theory-laden (organized around coherent underlying explanatory structure) rather than descriptive.
 >
-> - **[[Spreading Activation]]** — Collins and Loftus's model of associative retrieval in semantic memory supports the design principle of multiple-access-path organization: notes should be findable via tags, links, metadata, and full-text search, so that different retrieval contexts (different starting nodes for spreading activation) converge on the same content.
+> - **[[Spreading-Activation|Spreading Activation]]** — Collins and Loftus's model of associative retrieval in semantic memory supports the design principle of multiple-access-path organization: notes should be findable via tags, links, metadata, and full-text search, so that different retrieval contexts (different starting nodes for spreading activation) converge on the same content.
 >
 > **Cross-Report Links (PKM/PKB Framework Series):**
 >
@@ -563,7 +563,7 @@ Three questions remain genuinely open at the frontier of this synthesis. First: 
 > > [!topic-idea] [[Vector Embeddings and Semantic Retrieval — What AI-Assisted Search Changes About Organization]]
 > > Large language model embeddings enable "semantic search" that retrieves notes by conceptual similarity rather than vocabulary match, partially compensating for the vocabulary mismatch problem. This expansion topic examines what this changes about the design principles in Report 15 — specifically: (1) does semantic search reduce the need for vocabulary discipline, or does it merely shift where vocabulary inconsistency causes problems? (2) What organizational work remains important when vocabulary matching is no longer the retrieval bottleneck? (3) How should PKB users balance algorithmic retrieval with the deliberate organizational work that the Organization-Learning Loop identifies as cognitively generative?
 >
-> > [!topic-idea] [[Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]
+> > [!topic-idea] [[Boundary-Objects-and-Knowledge-Organization-Across-Contexts-—-When-Your-PKB-Must|Boundary Objects and Knowledge Organization Across Contexts — When Your PKB Must Serve Multiple Roles]]
 > > Star and Griesemer's (1989) concept of "boundary objects" — artifacts that are simultaneously concrete enough to be useful in multiple communities yet flexible enough to be adapted to local use — offers a framework for understanding PKB notes that must function across different knowledge contexts (academic, professional, personal). This is particularly relevant for practitioners whose PKB serves both domain-specialist work and interdisciplinary synthesis: the organizational principles that serve precision retrieval in one context may conflict with discovery in another.
 >
 > > [!topic-idea] [[The Epistemology of Classification — What Your Tag System Implies About Reality]]
