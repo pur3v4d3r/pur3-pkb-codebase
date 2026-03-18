@@ -107,7 +107,7 @@ expansion-topics:
   - topic: "[[Adaptive Learning Systems and PKB: Lessons from Intelligent Tutoring Systems]]"
     description: "Intelligent Tutoring Systems (ITS) — software that automatically adapts instruction to learner state"
     priority: medium
-  - topic: "[[The Expertise Reversal Effect Across Knowledge Domains: What Counts as "Expertise" in a PKB?]]"
+  - topic: "[[The Expertise Reversal Effect Across Knowledge Domains: What Counts as 'Expertise' in a PKB?]]"
     description: "The expertise reversal literature was developed primarily in mathematics, physics, and computer scie"
     priority: medium
   - topic: "[[Scaffolding for Interdisciplinary Synthesis: A PKB Design Challenge]]"

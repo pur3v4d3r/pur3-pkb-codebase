@@ -115,18 +115,21 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
     builds_on = []
     if meta and meta.builds_on:
         for b in meta.builds_on[:5]:
-            builds_on.append(f'  - "[[{b}]]"')
+            safe_b = b.replace('"', "'")
+            builds_on.append(f'  - "[[{safe_b}]]"')
 
     enables = []
     if meta and meta.feeds_into:
         for f_item in meta.feeds_into[:5]:
-            enables.append(f'  - "[[{f_item}]]"')
+            safe_f = f_item.replace('"', "'")
+            enables.append(f'  - "[[{safe_f}]]"')
 
     # ── Expansion topics ──────────────────────────────────────────────────
     expansion_yaml = []
     if candidate.expansion_topics:
         for topic in candidate.expansion_topics[:4]:
-            expansion_yaml.append(f'  - topic: "[[{topic["topic"]}]]"')
+            safe_topic = topic["topic"].replace('"', "'")
+            expansion_yaml.append(f'  - topic: "[[{safe_topic}]]"')
             desc = topic.get("description", "").replace('"', "'")[:100]
             expansion_yaml.append(f'    description: "{desc}"')
             expansion_yaml.append(f'    priority: medium')
