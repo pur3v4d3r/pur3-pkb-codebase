@@ -5,7 +5,8 @@
 title: "Fluency Illusion — Metacognitive Psychology"
 aliases:
   - "Fluency Illusion — Metacognitive Psychology"
-  - "FIMP"
+  - "Fluency Illusion"
+  - "Metacognitive Psychology"
 type: permanent-note
 status: evergreen
 confidence: medium

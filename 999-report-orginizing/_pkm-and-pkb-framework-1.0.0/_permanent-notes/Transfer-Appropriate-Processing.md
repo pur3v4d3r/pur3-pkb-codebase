@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Transfer-Appropriate Processing]]"
+title: "Transfer-Appropriate Processing"
 aliases:
-  - "[[Transfer-Appropriate Processing]]"
+  - "Transfer-Appropriate Processing"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -98,9 +98,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Transfer-Appropriate Processing]]
+# Transfer-Appropriate Processing
 
-> [!definition] **[[Transfer-Appropriate Processing]]**
+> [!definition] **Transfer-Appropriate Processing**
 > The principle that the degree to which prior processing enhances memory performance depends on the match between encoding processing type and retrieval processing type required. Different memory tasks (recall, recognition, application, explanation, transfer) are served by different types of encoding. For PKBs: retrieval practice formats should match intended use contexts — problem-solving retrieval practice for problem-solving application, conversational retrieval for conversational use, and so on.
 
 *Source: Morris, Bransford & Franks, 1977*

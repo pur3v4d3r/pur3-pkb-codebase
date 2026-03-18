@@ -5,7 +5,8 @@
 title: "Ease of Learning — EOL"
 aliases:
   - "Ease of Learning — EOL"
-  - "EOLE"
+  - "Ease of Learning"
+  - "EOL"
 type: permanent-note
 status: evergreen
 confidence: high

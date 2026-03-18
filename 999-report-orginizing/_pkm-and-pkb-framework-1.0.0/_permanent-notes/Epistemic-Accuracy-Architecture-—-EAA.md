@@ -5,7 +5,8 @@
 title: "Epistemic Accuracy Architecture — EAA"
 aliases:
   - "Epistemic Accuracy Architecture — EAA"
-  - "EAAE"
+  - "Epistemic Accuracy Architecture"
+  - "EAA"
 type: permanent-note
 status: evergreen
 confidence: high

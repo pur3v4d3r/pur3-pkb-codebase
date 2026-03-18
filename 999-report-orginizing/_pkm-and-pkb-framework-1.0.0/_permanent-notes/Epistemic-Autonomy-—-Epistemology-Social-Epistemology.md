@@ -5,7 +5,9 @@
 title: "Epistemic Autonomy — Epistemology / Social Epistemology"
 aliases:
   - "Epistemic Autonomy — Epistemology / Social Epistemology"
-  - "EAESE"
+  - "Epistemic Autonomy"
+  - "Epistemology"
+  - "Social Epistemology"
 type: permanent-note
 status: evergreen
 confidence: medium

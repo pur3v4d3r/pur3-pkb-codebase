@@ -5,7 +5,6 @@
 title: "The Load Profile: A Framework for Classifying PKB Notes by Cognitive Function"
 aliases:
   - "The Load Profile: A Framework for Classifying PKB Notes by Cognitive Function"
-  - "TLPAFFCPNBCF"
 type: permanent-note
 status: evergreen
 confidence: high

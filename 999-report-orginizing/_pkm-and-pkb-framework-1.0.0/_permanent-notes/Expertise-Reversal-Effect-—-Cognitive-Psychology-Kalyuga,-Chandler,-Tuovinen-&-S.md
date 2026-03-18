@@ -5,7 +5,10 @@
 title: "Expertise Reversal Effect — Cognitive Psychology / Kalyuga, Chandler, Tuovinen & Sweller"
 aliases:
   - "Expertise Reversal Effect — Cognitive Psychology / Kalyuga, Chandler, Tuovinen & Sweller"
-  - "ERECPKCTS"
+  - "Expertise Reversal Effect"
+  - "Cognitive Psychology"
+  - "Kalyuga, Chandler, Tuovinen & Sweller"
+  - "ERE"
 type: permanent-note
 status: evergreen
 confidence: high

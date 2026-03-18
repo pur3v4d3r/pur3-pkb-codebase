@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Forgetting Curve]]"
+title: "Forgetting Curve"
 aliases:
-  - "[[Forgetting Curve]]"
+  - "Forgetting Curve"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -98,9 +98,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Forgetting Curve]]
+# Forgetting Curve
 
-> [!definition] **[[Forgetting Curve]]**
+> [!definition] **Forgetting Curve**
 > The empirical observation that memory for newly learned material decays exponentially over time in the absence of review, with the steepest decline occurring in the first 24–48 hours after initial encoding. Ebbinghaus quantified this with his "savings score" methodology — measuring how much less effort was required to re-learn forgotten material compared to initial learning. The curve is not universal (it varies by material type, encoding depth, prior knowledge, and emotional salience), but the general exponential decay pattern is among the most robustly replicated findings in all of psychology. For PKB users, the implication is stark: notes added to a vault and not deliberately revisited will become functionally inaccessible — not gone, but deeply buried — within days to weeks. The subjective sense of "I have all this in my PKB" systematically overstates what is actually *retrievable* from that PKB.
 
 *Source: Ebbinghaus, 1885*

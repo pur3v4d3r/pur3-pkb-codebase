@@ -2,10 +2,10 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Encoding Specificity Principle]]"
+title: "Encoding Specificity Principle"
 aliases:
-  - "[[Encoding Specificity Principle]]"
-  - "SP"
+  - "Encoding Specificity Principle"
+  - "ESP"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -99,9 +99,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Encoding Specificity Principle]]
+# Encoding Specificity Principle
 
-> [!definition] **[[Encoding Specificity Principle]]**
+> [!definition] **Encoding Specificity Principle**
 > The theoretical principle that memory retrieval is maximized when the cues present at retrieval match the cues present during encoding. What you encode is not just the information itself but the contextual features surrounding it — mood, environment, associated concepts, the questions that prompted the learning, the problem it addressed. Retrieval is optimized when these encoding cues are reinstated. The practical implication is that where, how, and in what conceptual context you encode information will affect how and under what conditions you can retrieve it. For PKB design: decontextualized, abstracted notes — notes stripped of the questions that prompted them, the problems they address, the conceptual frameworks that gave them meaning — are systematically harder to retrieve precisely because they lack the contextual hooks that connect stored representations to real-world retrieval cues.
 
 *Source: Tulving & Thomson, 1973*

@@ -5,7 +5,9 @@
 title: "Maps of Content — MOCs"
 aliases:
   - "Maps of Content — MOCs"
-  - "MOCM"
+  - "Maps of Content"
+  - "MOCs"
+  - "MOC"
 type: permanent-note
 status: evergreen
 confidence: high

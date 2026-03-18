@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Fluency Illusion]]"
+title: "Fluency Illusion"
 aliases:
-  - "[[Fluency Illusion]]"
+  - "Fluency Illusion"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -98,9 +98,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Fluency Illusion]]
+# Fluency Illusion
 
-> [!definition] **[[Fluency Illusion]]**
+> [!definition] **Fluency Illusion**
 > The false sense of learning produced by fluent, easy processing of familiar material. Re-reading a note produces high fluency — the content is recognized, processing is effortless — which is interpreted as "knowing" the material. But this fluency reflects recognition cues *in the text*, not durable memory for the content. The fluency illusion is the primary mechanism by which passive re-reading misleads learners about their actual retention level, producing overconfident JOLs.
 
 ## Core Explanation

@@ -5,7 +5,10 @@
 title: "Semantic Vector Embeddings — Artificial Intelligence / Information Retrieval"
 aliases:
   - "Semantic Vector Embeddings — Artificial Intelligence / Information Retrieval"
-  - "SVEAIIR"
+  - "Semantic Vector Embeddings"
+  - "Artificial Intelligence"
+  - "Information Retrieval"
+  - "SVE"
 type: permanent-note
 status: evergreen
 confidence: medium

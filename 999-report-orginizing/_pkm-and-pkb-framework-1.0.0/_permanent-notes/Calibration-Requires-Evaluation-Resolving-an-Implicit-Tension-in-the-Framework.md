@@ -5,7 +5,6 @@
 title: "Calibration Requires Evaluation: Resolving an Implicit Tension in the Framework"
 aliases:
   - "Calibration Requires Evaluation: Resolving an Implicit Tension in the Framework"
-  - "CRERAITITF"
 type: permanent-note
 status: evergreen
 confidence: high

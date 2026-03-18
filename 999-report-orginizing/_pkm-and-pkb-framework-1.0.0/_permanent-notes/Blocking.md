@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Blocking]]"
+title: "Blocking"
 aliases:
-  - "[[Blocking]]"
+  - "Blocking"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -98,9 +98,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Blocking]]
+# Blocking
 
-> [!definition] **[[Blocking]]**
+> [!definition] **Blocking**
 > The practice of completing all practice on one topic or problem type before moving to another. Blocking produces higher immediate performance than interleaving but inferior long-term retention and transfer. Its appeal lies in the feeling of fluency and momentum it creates; its cost is reduced discriminative contrast and schema differentiation. Blocking is the default organizational logic of most PKB review workflows and must be deliberately counteracted.
 
 ## Core Explanation
@@ -165,4 +165,4 @@ importance: high
 - [[Judgment of Learning]]
 
 **Related concepts:**
-[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] · [[02-architecture-of-learning-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-as-pkm-practice-pkm-framework]] · [[09-designing-the-learning-pkb-pkm-framework]] · [[12-the-reflective-pkb-pkm-framework]] · [[16-desirable-difficulties-by-design-pkm-framework]] · [[20-retrieval-enhanced-knowledge-networks-pkm-framework]] · [[Accommodation]] · [[Blocking]] · [[Cognitive Conflict]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Consolidation]] · [[Desirable Difficulties]]
+[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] · [[02-architecture-of-learning-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-as-pkm-practice-pkm-framework]] · [[09-designing-the-learning-pkb-pkm-framework]] · [[12-the-reflective-pkb-pkm-framework]] · [[16-desirable-difficulties-by-design-pkm-framework]] · [[20-retrieval-enhanced-knowledge-networks-pkm-framework]] · [[Accommodation]] · [[Cognitive Conflict]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Consolidation]] · [[Desirable Difficulties]]

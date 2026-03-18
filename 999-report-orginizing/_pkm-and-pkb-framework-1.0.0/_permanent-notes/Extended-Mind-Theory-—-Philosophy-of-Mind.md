@@ -5,7 +5,9 @@
 title: "Extended Mind Theory — Philosophy of Mind"
 aliases:
   - "Extended Mind Theory — Philosophy of Mind"
-  - "EMTPOM"
+  - "Extended Mind Theory"
+  - "Philosophy of Mind"
+  - "EMT"
 type: permanent-note
 status: evergreen
 confidence: medium

@@ -5,7 +5,9 @@
 title: "Retrieval-Augmented Generation (RAG) — Artificial Intelligence / Information Retrieval"
 aliases:
   - "Retrieval-Augmented Generation (RAG) — Artificial Intelligence / Information Retrieval"
-  - "RGAIIR"
+  - "Retrieval-Augmented Generation (RAG)"
+  - "Artificial Intelligence"
+  - "Information Retrieval"
 type: permanent-note
 status: evergreen
 confidence: medium

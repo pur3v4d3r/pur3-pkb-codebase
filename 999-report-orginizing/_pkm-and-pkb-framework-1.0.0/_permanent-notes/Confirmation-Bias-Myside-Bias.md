@@ -5,7 +5,8 @@
 title: "Confirmation Bias / Myside Bias"
 aliases:
   - "Confirmation Bias / Myside Bias"
-  - "CBMB"
+  - "Confirmation Bias"
+  - "Myside Bias"
 type: permanent-note
 status: evergreen
 confidence: high

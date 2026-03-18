@@ -2,10 +2,10 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Retrieval-Oriented Note Architecture]]"
+title: "Retrieval-Oriented Note Architecture"
 aliases:
-  - "[[Retrieval-Oriented Note Architecture]]"
-  - "NA"
+  - "Retrieval-Oriented Note Architecture"
+  - "RNA"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -99,9 +99,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Retrieval-Oriented Note Architecture]]
+# Retrieval-Oriented Note Architecture
 
-> [!definition] **[[Retrieval-Oriented Note Architecture]]**
+> [!definition] **Retrieval-Oriented Note Architecture**
 > A PKB note design philosophy — developed in this report — that treats notes as retrieval training instruments rather than information storage units. RONA's five structural commitments: retrieval prompt first (written at creation), context preservation (problem/question that motivated the note), generative capture (written after closing the source), scheduled retrieval (first review date set at creation), and retrieval-before-review (active recall attempt required before re-reading). Grounded in the testing effect, encoding specificity, generation effect, and spacing effect.
 
 *Source: This Report*

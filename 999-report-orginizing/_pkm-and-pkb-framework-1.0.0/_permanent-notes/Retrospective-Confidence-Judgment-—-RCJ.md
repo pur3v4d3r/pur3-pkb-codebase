@@ -5,7 +5,8 @@
 title: "Retrospective Confidence Judgment — RCJ"
 aliases:
   - "Retrospective Confidence Judgment — RCJ"
-  - "RCJR"
+  - "Retrospective Confidence Judgment"
+  - "RCJ"
 type: permanent-note
 status: evergreen
 confidence: high

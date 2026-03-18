@@ -5,7 +5,8 @@
 title: "Growth Mindset / Implicit Theories of Intelligence"
 aliases:
   - "Growth Mindset / Implicit Theories of Intelligence"
-  - "GMITOI"
+  - "Growth Mindset"
+  - "Implicit Theories of Intelligence"
 type: permanent-note
 status: evergreen
 confidence: high

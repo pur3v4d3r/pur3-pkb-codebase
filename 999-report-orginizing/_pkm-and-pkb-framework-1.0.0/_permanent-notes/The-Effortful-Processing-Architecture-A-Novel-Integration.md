@@ -5,7 +5,6 @@
 title: "The Effortful Processing Architecture: A Novel Integration"
 aliases:
   - "The Effortful Processing Architecture: A Novel Integration"
-  - "TEPAANI"
 type: permanent-note
 status: evergreen
 confidence: high

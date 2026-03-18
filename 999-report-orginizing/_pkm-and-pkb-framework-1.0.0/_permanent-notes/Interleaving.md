@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Interleaving]]"
+title: "Interleaving"
 aliases:
-  - "[[Interleaving]]"
+  - "Interleaving"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -98,9 +98,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Interleaving]]
+# Interleaving
 
-> [!definition] **[[Interleaving]]**
+> [!definition] **Interleaving**
 > The practice of mixing multiple topics, subjects, or problem types within a single study session, rather than completing all practice on one topic before moving to the next (the latter being called "blocking"). Interleaving introduces difficulty — it requires the learner to continuously discriminate between problem types and select appropriate strategies — but this added difficulty enhances both long-term retention and the ability to apply knowledge across different contexts. Critically, interleaving *feels* less productive in the moment than blocking: learners consistently rate blocked practice as more effective, even when interleaved practice produces superior outcomes. This metacognitive illusion is not incidental; it is central to understanding why interleaving must be *designed into* PKB systems rather than left to emerge from user preference.
 
 *Source: Bjork, 1994; Kornell & Bjork, 2008*

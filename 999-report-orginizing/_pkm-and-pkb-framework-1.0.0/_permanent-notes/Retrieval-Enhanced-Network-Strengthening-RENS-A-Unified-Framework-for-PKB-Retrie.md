@@ -5,7 +5,6 @@
 title: "Retrieval-Enhanced Network Strengthening (RENS): A Unified Framework for PKB Retrieval Architecture"
 aliases:
   - "Retrieval-Enhanced Network Strengthening (RENS): A Unified Framework for PKB Retrieval Architecture"
-  - "RNSAUFFPRA"
 type: permanent-note
 status: evergreen
 confidence: high

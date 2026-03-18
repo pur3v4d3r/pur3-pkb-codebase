@@ -2,10 +2,11 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Testing Effect]] / [[Retrieval Practice Effect]]"
+title: "Testing Effect / Retrieval Practice Effect"
 aliases:
-  - "[[Testing Effect]] / [[Retrieval Practice Effect]]"
-  - "EPE"
+  - "Testing Effect / Retrieval Practice Effect"
+  - "Testing Effect"
+  - "Retrieval Practice Effect"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -99,9 +100,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Testing Effect]] / [[Retrieval Practice Effect]]
+# Testing Effect / Retrieval Practice Effect
 
-> [!definition] **[[Testing Effect]] / [[Retrieval Practice Effect]]**
+> [!definition] **Testing Effect / Retrieval Practice Effect**
 > The empirically established phenomenon that actively retrieving information from memory — even without feedback — produces significantly stronger long-term retention than an equivalent period of re-studying the same material. Often called "the testing effect" because testing was historically the method used to induce retrieval, but the active mechanism is retrieval itself, not the evaluative component of tests. Karpicke and Roediger (2008) showed that repeated retrieval practice without re-study substantially outperformed repeated re-study without retrieval practice on delayed retention tests. The testing effect is one of the most practically significant findings in learning science precisely because it inverts folk intuition: re-reading material (which feels productive) is substantially weaker than being tested on it (which feels like measurement, not learning). For PKB users: passive re-reading of notes does not meaningfully strengthen memory for their content. Active recall — closing the note and reconstructing its content — does.
 
 *Source: Roediger & Karpicke, 2006; Abbott, 1909*

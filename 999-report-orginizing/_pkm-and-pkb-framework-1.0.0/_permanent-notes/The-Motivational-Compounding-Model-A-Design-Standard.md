@@ -5,7 +5,6 @@
 title: "The Motivational Compounding Model: A Design Standard"
 aliases:
   - "The Motivational Compounding Model: A Design Standard"
-  - "TMCMADS"
 type: permanent-note
 status: evergreen
 confidence: high

@@ -5,7 +5,6 @@
 title: "The Epistemic Accuracy Architecture: A Four-Dimension Framework for PKB Knowledge Quality"
 aliases:
   - "The Epistemic Accuracy Architecture: A Four-Dimension Framework for PKB Knowledge Quality"
-  - "TEAAAFFFPKQ"
 type: permanent-note
 status: evergreen
 confidence: high

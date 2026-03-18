@@ -5,7 +5,8 @@
 title: "Socratic Ignorance / Knowing One's Ignorance"
 aliases:
   - "Socratic Ignorance / Knowing One's Ignorance"
-  - "SIKOI"
+  - "Socratic Ignorance"
+  - "Knowing One's Ignorance"
 type: permanent-note
 status: evergreen
 confidence: high

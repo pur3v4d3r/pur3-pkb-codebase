@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Consolidation]]"
+title: "Consolidation"
 aliases:
-  - "[[Consolidation]]"
+  - "Consolidation"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -98,9 +98,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Consolidation]]
+# Consolidation
 
-> [!definition] **[[Consolidation]]**
+> [!definition] **Consolidation**
 > The process by which newly encoded memories are stabilized and integrated into long-term knowledge networks. Involves both cellular processes (synaptic consolidation, hours) and systems-level processes (hippocampal-cortical consolidation, days to years). Sleep plays a critical role, particularly for declarative memory. The gap between spaced review sessions is not dead time; it is when consolidation occurs, making the spacing interval functionally important for learning, not just structurally convenient for scheduling.
 
 *Source: Müller & Pilzecker, 1900; McGaugh, 2000*
@@ -167,4 +167,4 @@ importance: high
 - [[Judgment of Learning]]
 
 **Related concepts:**
-[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] · [[02-architecture-of-learning-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-as-pkm-practice-pkm-framework]] · [[09-designing-the-learning-pkb-pkm-framework]] · [[12-the-reflective-pkb-pkm-framework]] · [[16-desirable-difficulties-by-design-pkm-framework]] · [[20-retrieval-enhanced-knowledge-networks-pkm-framework]] · [[Accommodation]] · [[Blocking]] · [[Cognitive Conflict]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Consolidation]] · [[Desirable Difficulties]]
+[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] · [[02-architecture-of-learning-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-as-pkm-practice-pkm-framework]] · [[09-designing-the-learning-pkb-pkm-framework]] · [[12-the-reflective-pkb-pkm-framework]] · [[16-desirable-difficulties-by-design-pkm-framework]] · [[20-retrieval-enhanced-knowledge-networks-pkm-framework]] · [[Accommodation]] · [[Blocking]] · [[Cognitive Conflict]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Desirable Difficulties]]

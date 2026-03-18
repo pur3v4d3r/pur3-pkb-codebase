@@ -5,7 +5,9 @@
 title: "Google Effect / Digital Amnesia — Cognitive Psychology"
 aliases:
   - "Google Effect / Digital Amnesia — Cognitive Psychology"
-  - "GEDACP"
+  - "Google Effect"
+  - "Digital Amnesia"
+  - "Cognitive Psychology"
 type: permanent-note
 status: evergreen
 confidence: medium

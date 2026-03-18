@@ -5,7 +5,8 @@
 title: "Judgment of Learning / JOL"
 aliases:
   - "Judgment of Learning / JOL"
-  - "JOLJ"
+  - "Judgment of Learning"
+  - "JOL"
 type: permanent-note
 status: evergreen
 confidence: high

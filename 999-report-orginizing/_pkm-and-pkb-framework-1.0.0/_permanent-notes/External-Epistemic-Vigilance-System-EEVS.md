@@ -5,7 +5,8 @@
 title: "External Epistemic Vigilance System / EEVS"
 aliases:
   - "External Epistemic Vigilance System / EEVS"
-  - "EEVSE"
+  - "External Epistemic Vigilance System"
+  - "EEVS"
 type: permanent-note
 status: evergreen
 confidence: high

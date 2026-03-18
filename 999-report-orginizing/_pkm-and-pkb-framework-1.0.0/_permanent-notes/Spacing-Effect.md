@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Spacing Effect]]"
+title: "Spacing Effect"
 aliases:
-  - "[[Spacing Effect]]"
+  - "Spacing Effect"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -98,9 +98,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Spacing Effect]]
+# Spacing Effect
 
-> [!definition] **[[Spacing Effect]]**
+> [!definition] **Spacing Effect**
 > The robust empirical finding that distributing learning or review over time — with gaps between sessions — produces significantly stronger long-term retention than massing the same amount of practice in a single session. Also called the "distributed practice effect." The spacing effect is one of the most replicated findings in memory research, demonstrated across materials (words, facts, concepts, skills), ages (children through older adults), and timescales (hours to years). Critically, optimal spacing interval scales with retention interval: if you need to remember something for a month, space reviews weeks apart; if you need to remember it for years, space them months apart. For PKB design, the spacing effect means review scheduling is not arbitrary — there is an empirically characterizable optimal temporal distribution of retrieval attempts that should inform system design rather than habit and convenience.
 
 *Source: Ebbinghaus, 1885; Cepeda et al., 2006*

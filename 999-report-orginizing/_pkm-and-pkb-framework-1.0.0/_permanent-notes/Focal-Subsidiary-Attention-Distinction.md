@@ -5,7 +5,8 @@
 title: "Focal / Subsidiary Attention Distinction"
 aliases:
   - "Focal / Subsidiary Attention Distinction"
-  - "FSAD"
+  - "Focal"
+  - "Subsidiary Attention Distinction"
 type: permanent-note
 status: evergreen
 confidence: high

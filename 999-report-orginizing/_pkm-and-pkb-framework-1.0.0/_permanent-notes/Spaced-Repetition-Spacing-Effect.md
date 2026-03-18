@@ -5,7 +5,8 @@
 title: "Spaced Repetition / Spacing Effect"
 aliases:
   - "Spaced Repetition / Spacing Effect"
-  - "SRSE"
+  - "Spaced Repetition"
+  - "Spacing Effect"
 type: permanent-note
 status: evergreen
 confidence: high

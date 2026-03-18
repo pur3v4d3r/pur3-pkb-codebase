@@ -5,7 +5,8 @@
 title: "Meta-Level / Object-Level Model"
 aliases:
   - "Meta-Level / Object-Level Model"
-  - "MOM"
+  - "Meta-Level"
+  - "Object-Level Model"
 type: permanent-note
 status: evergreen
 confidence: high

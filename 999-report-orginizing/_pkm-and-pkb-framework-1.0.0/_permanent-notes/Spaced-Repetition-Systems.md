@@ -2,10 +2,10 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Spaced Repetition Systems]]"
+title: "Spaced Repetition Systems"
 aliases:
-  - "[[Spaced Repetition Systems]]"
-  - "RS"
+  - "Spaced Repetition Systems"
+  - "SRS"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -99,9 +99,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Spaced Repetition Systems]]
+# Spaced Repetition Systems
 
-> [!definition] **[[Spaced Repetition Systems]]**
+> [!definition] **Spaced Repetition Systems**
 > Algorithmic systems for scheduling review of discrete knowledge units (typically flashcards) at expanding intervals based on demonstrated recall performance. The interval expands when recall is successful and contracts when recall fails, converging on an approximately optimal review schedule for each item based on its demonstrated forgetting curve. Common implementations include the SM-2 algorithm (underlying Anki) and the more recent FSRS algorithm. SRS implements the spacing effect and testing effect simultaneously: reviews are spaced over time and conducted as active recall. For PKBs: SRS provides a powerful tool for a specific type of knowledge (discrete, factual, verifiable), but represents only one component of a comprehensive retrieval-oriented PKB design — its limitations are examined in detail in Phase IV.
 
 *Source: Leitner, 1972; Wozniak, 1985*

@@ -5,7 +5,6 @@
 title: "The Four Epistemic Duties of the PKB Curator"
 aliases:
   - "The Four Epistemic Duties of the PKB Curator"
-  - "TFEDOTPC"
 type: permanent-note
 status: evergreen
 confidence: high

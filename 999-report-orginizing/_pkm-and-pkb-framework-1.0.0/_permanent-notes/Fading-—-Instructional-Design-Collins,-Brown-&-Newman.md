@@ -5,7 +5,9 @@
 title: "Fading — Instructional Design / Collins, Brown & Newman"
 aliases:
   - "Fading — Instructional Design / Collins, Brown & Newman"
-  - "FIDCBN"
+  - "Fading"
+  - "Instructional Design"
+  - "Collins, Brown & Newman"
 type: permanent-note
 status: evergreen
 confidence: high

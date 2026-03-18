@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Desirable Difficulties]]"
+title: "Desirable Difficulties"
 aliases:
-  - "[[Desirable Difficulties]]"
+  - "Desirable Difficulties"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -98,9 +98,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Desirable Difficulties]]
+# Desirable Difficulties
 
-> [!definition] **[[Desirable Difficulties]]**
+> [!definition] **Desirable Difficulties**
 > The counterintuitive finding that certain learning conditions that make encoding more difficult and error-prone in the short term — including spacing, testing, interleaving, and generation — produce superior long-term retention and transfer compared to conditions that feel easier and produce fewer errors. Desirable difficulties are contrasted with "undesirable difficulties" (obstacles that impede learning without producing compensating long-term benefits). The key distinguishing criterion: a difficulty is desirable if it engages encoding and retrieval processes that improve the *durability* and *transferability* of learning. Bjork frames this as the critical distinction between "current performance" (how well you perform during practice) and "learning" (durable change in the capability for performance). PKB review that maximizes current performance — smooth, fluent, organized, familiar — is often systematically minimizing actual learning.
 
 *Source: Bjork & Bjork, 2011*
@@ -167,4 +167,4 @@ importance: high
 - [[Judgment of Learning]]
 
 **Related concepts:**
-[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] · [[02-architecture-of-learning-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-as-pkm-practice-pkm-framework]] · [[09-designing-the-learning-pkb-pkm-framework]] · [[12-the-reflective-pkb-pkm-framework]] · [[16-desirable-difficulties-by-design-pkm-framework]] · [[20-retrieval-enhanced-knowledge-networks-pkm-framework]] · [[Accommodation]] · [[Blocking]] · [[Cognitive Conflict]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Consolidation]] · [[Desirable Difficulties]]
+[[01-foundations-of-knowledge-architecture-pkm-framework-2026-03-13]] · [[02-architecture-of-learning-pkm-framework-2026-03-13]] · [[04-metacognitive-self-regulation-pkm-framework-2026-03-13]] · [[07-critical-thinking-as-pkm-practice-pkm-framework]] · [[09-designing-the-learning-pkb-pkm-framework]] · [[12-the-reflective-pkb-pkm-framework]] · [[16-desirable-difficulties-by-design-pkm-framework]] · [[20-retrieval-enhanced-knowledge-networks-pkm-framework]] · [[Accommodation]] · [[Blocking]] · [[Cognitive Conflict]] · [[Cognitive Load Theory]] · [[Cognitive Psychology]] · [[Consolidation]]

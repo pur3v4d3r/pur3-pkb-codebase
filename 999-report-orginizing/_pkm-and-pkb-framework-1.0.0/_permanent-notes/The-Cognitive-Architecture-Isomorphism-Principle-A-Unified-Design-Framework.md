@@ -5,7 +5,6 @@
 title: "The Cognitive Architecture Isomorphism Principle: A Unified Design Framework"
 aliases:
   - "The Cognitive Architecture Isomorphism Principle: A Unified Design Framework"
-  - "TCAIPAUDF"
 type: permanent-note
 status: evergreen
 confidence: high

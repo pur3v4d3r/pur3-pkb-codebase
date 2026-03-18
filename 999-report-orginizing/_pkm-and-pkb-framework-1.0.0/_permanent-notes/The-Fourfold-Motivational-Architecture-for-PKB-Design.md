@@ -5,7 +5,6 @@
 title: "The Fourfold Motivational Architecture for PKB Design"
 aliases:
   - "The Fourfold Motivational Architecture for PKB Design"
-  - "TFMAFPD"
 type: permanent-note
 status: evergreen
 confidence: high

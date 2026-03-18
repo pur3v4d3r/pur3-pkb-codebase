@@ -5,7 +5,6 @@
 title: "The Cognitive Ba Cycle: How PKB Organization Shapes Cognition"
 aliases:
   - "The Cognitive Ba Cycle: How PKB Organization Shapes Cognition"
-  - "TCBCHPOSC"
 type: permanent-note
 status: evergreen
 confidence: high

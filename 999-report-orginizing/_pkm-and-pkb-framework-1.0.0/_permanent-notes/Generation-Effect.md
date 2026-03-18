@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Generation Effect]]"
+title: "Generation Effect"
 aliases:
-  - "[[Generation Effect]]"
+  - "Generation Effect"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -98,9 +98,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Generation Effect]]
+# Generation Effect
 
-> [!definition] **[[Generation Effect]]**
+> [!definition] **Generation Effect**
 > The empirical finding that memory for items that learners generate (from fragmentary cues, anagram solving, or self-synthesis) is substantially stronger than memory for items that are simply read. The generation effect is a desirable difficulty: generating requires more cognitive effort than reading, but produces superior encoding depth and subsequent retrievability. For PKBs: synthesizing ideas in your own words (generation) produces stronger long-term retention than copying source material verbatim (transcription).
 
 *Source: Slamecka & Graf, 1978*

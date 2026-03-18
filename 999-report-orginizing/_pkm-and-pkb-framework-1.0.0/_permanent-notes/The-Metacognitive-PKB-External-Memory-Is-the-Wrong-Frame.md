@@ -5,7 +5,6 @@
 title: "The Metacognitive PKB: External Memory Is the Wrong Frame"
 aliases:
   - "The Metacognitive PKB: External Memory Is the Wrong Frame"
-  - "TMPEMITWF"
 type: permanent-note
 status: evergreen
 confidence: high

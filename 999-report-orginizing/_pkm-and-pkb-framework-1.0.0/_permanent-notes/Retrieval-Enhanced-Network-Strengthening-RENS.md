@@ -5,7 +5,9 @@
 title: "Retrieval-Enhanced Network Strengthening / RENS"
 aliases:
   - "Retrieval-Enhanced Network Strengthening / RENS"
-  - "RNSR"
+  - "Retrieval-Enhanced Network Strengthening"
+  - "RENS"
+  - "RNS"
 type: permanent-note
 status: evergreen
 confidence: high

@@ -5,7 +5,8 @@
 title: "Cognitive Conflict / Disequilibrium"
 aliases:
   - "Cognitive Conflict / Disequilibrium"
-  - "CCD"
+  - "Cognitive Conflict"
+  - "Disequilibrium"
 type: permanent-note
 status: evergreen
 confidence: high

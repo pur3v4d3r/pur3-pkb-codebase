@@ -5,7 +5,8 @@
 title: "Feeling of Knowing — FOK"
 aliases:
   - "Feeling of Knowing — FOK"
-  - "FOKF"
+  - "Feeling of Knowing"
+  - "FOK"
 type: permanent-note
 status: evergreen
 confidence: high

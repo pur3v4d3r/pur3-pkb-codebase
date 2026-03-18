@@ -5,7 +5,8 @@
 title: "Epistemic Autonomy — Epistemology"
 aliases:
   - "Epistemic Autonomy — Epistemology"
-  - "EAE"
+  - "Epistemic Autonomy"
+  - "Epistemology"
 type: permanent-note
 status: evergreen
 confidence: medium

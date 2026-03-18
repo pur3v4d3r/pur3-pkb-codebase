@@ -5,7 +5,9 @@
 title: "Scaffolding — Instructional Design / Wood, Bruner & Ross"
 aliases:
   - "Scaffolding — Instructional Design / Wood, Bruner & Ross"
-  - "SIDWBR"
+  - "Scaffolding"
+  - "Instructional Design"
+  - "Wood, Bruner & Ross"
 type: permanent-note
 status: evergreen
 confidence: high

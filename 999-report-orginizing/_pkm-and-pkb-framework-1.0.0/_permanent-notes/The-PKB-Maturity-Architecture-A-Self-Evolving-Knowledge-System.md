@@ -5,7 +5,6 @@
 title: "The PKB Maturity Architecture: A Self-Evolving Knowledge System"
 aliases:
   - "The PKB Maturity Architecture: A Self-Evolving Knowledge System"
-  - "TPMAASKS"
 type: permanent-note
 status: evergreen
 confidence: high

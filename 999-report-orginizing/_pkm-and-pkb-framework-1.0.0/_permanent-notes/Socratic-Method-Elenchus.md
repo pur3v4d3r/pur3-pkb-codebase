@@ -5,7 +5,8 @@
 title: "Socratic Method / Elenchus"
 aliases:
   - "Socratic Method / Elenchus"
-  - "SME"
+  - "Socratic Method"
+  - "Elenchus"
 type: permanent-note
 status: evergreen
 confidence: high

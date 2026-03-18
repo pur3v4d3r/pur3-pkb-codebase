@@ -5,7 +5,6 @@
 title: "The Memory Architecture Problem in PKM: The Structural Diagnosis"
 aliases:
   - "The Memory Architecture Problem in PKM: The Structural Diagnosis"
-  - "TMAPIPTSD"
 type: permanent-note
 status: evergreen
 confidence: high

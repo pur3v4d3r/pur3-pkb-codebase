@@ -5,7 +5,6 @@
 title: "The Reconstruction Imperative: A Design Framework for Learning-Oriented PKBs"
 aliases:
   - "The Reconstruction Imperative: A Design Framework for Learning-Oriented PKBs"
-  - "TRIADFFLP"
 type: permanent-note
 status: evergreen
 confidence: high

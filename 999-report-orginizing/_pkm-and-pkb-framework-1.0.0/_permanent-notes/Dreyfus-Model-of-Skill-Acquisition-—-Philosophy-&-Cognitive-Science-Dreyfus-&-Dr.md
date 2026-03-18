@@ -5,7 +5,10 @@
 title: "Dreyfus Model of Skill Acquisition — Philosophy & Cognitive Science / Dreyfus & Dreyfus"
 aliases:
   - "Dreyfus Model of Skill Acquisition — Philosophy & Cognitive Science / Dreyfus & Dreyfus"
-  - "DMOSAPCSDD"
+  - "Dreyfus Model of Skill Acquisition"
+  - "Philosophy & Cognitive Science"
+  - "Dreyfus & Dreyfus"
+  - "DMOSA"
 type: permanent-note
 status: evergreen
 confidence: high

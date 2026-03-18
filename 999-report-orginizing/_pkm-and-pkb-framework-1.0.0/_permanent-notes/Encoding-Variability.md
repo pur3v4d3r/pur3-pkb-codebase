@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Encoding Variability]]"
+title: "Encoding Variability"
 aliases:
-  - "[[Encoding Variability]]"
+  - "Encoding Variability"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -98,9 +98,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Encoding Variability]]
+# Encoding Variability
 
-> [!definition] **[[Encoding Variability]]**
+> [!definition] **Encoding Variability**
 > The principle that spaced review sessions encode information against different contextual backgrounds (different times, states, surrounding cognitive material), producing a richer, more distributed memory representation with more potential retrieval cues. One of the contributing mechanisms to the spacing effect. Directly related to [[Encoding Specificity]]: encoding against multiple varied contexts produces multiple retrieval cues, increasing the probability that at least one will match future retrieval conditions.
 
 ## Core Explanation

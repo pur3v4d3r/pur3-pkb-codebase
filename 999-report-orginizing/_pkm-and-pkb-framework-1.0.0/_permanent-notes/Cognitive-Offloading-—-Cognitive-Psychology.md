@@ -5,7 +5,8 @@
 title: "Cognitive Offloading — Cognitive Psychology"
 aliases:
   - "Cognitive Offloading — Cognitive Psychology"
-  - "COCP"
+  - "Cognitive Offloading"
+  - "Cognitive Psychology"
 type: permanent-note
 status: evergreen
 confidence: medium

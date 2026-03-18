@@ -48,7 +48,8 @@ def sanitize_filename(name: str) -> str:
 
 def get_output_filename(candidate: NoteCandidate) -> str:
     """Generate the output filename for a permanent note."""
-    safe_name = sanitize_filename(candidate.concept_name)
+    clean = _clean_concept_name(candidate.concept_name)
+    safe_name = sanitize_filename(clean)
     return f'{safe_name}.md'
 
 
@@ -85,13 +86,11 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
             if tag_clean and tag_clean not in tags:
                 tags.append(tag_clean)
 
+    # ── Clean concept name ────────────────────────────────────────────────
+    clean_name = _clean_concept_name(candidate.concept_name)
+
     # ── Aliases ───────────────────────────────────────────────────────────
-    aliases = [candidate.concept_name]
-    words = candidate.concept_name.split()
-    if len(words) >= 3:
-        acronym = ''.join(w[0].upper() for w in words if w[0].isalpha())
-        if len(acronym) >= 2 and acronym != candidate.concept_name:
-            aliases.append(acronym)
+    aliases = _build_aliases(clean_name)
 
     # ── Source reports ────────────────────────────────────────────────────
     source_reports = []
@@ -107,7 +106,7 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
     related_set = set(meta.related_concepts) if meta else set()
     see_also = []
     for wl in candidate.wiki_links[:MAX_SEE_ALSO_LINKS + MAX_RELATED_LINKS]:
-        if wl not in related_set and wl != candidate.concept_name:
+        if wl not in related_set and wl != clean_name:
             see_also.append(f'  - "[[{wl}]]"')
         if len(see_also) >= MAX_SEE_ALSO_LINKS:
             break
@@ -150,7 +149,7 @@ def build_frontmatter(candidate: NoteCandidate) -> str:
         '# ═══════════════════════════════════════════════════════════════════════════',
         '# CORE IDENTITY',
         '# ═══════════════════════════════════════════════════════════════════════════',
-        f'title: "{_yaml_escape(candidate.concept_name)}"',
+        f'title: "{_yaml_escape(clean_name)}"',
         'aliases:',
     ]
     for alias in aliases:
@@ -292,11 +291,12 @@ def build_body(candidate: NoteCandidate) -> str:
     lines = []
 
     # ── Title ─────────────────────────────────────────────────────────────
-    lines.append(f'# {candidate.concept_name}')
+    clean_name = _clean_concept_name(candidate.concept_name)
+    lines.append(f'# {clean_name}')
     lines.append('')
 
     # ── Definition callout ────────────────────────────────────────────────
-    lines.append(f'> [!definition] **{candidate.concept_name}**')
+    lines.append(f'> [!definition] **{clean_name}**')
     for body_line in candidate.definition_body.split('\n'):
         lines.append(f'> {body_line}')
     lines.append('')
@@ -369,7 +369,7 @@ def build_body(candidate: NoteCandidate) -> str:
         lines.append('**Related concepts:**')
         relevant_links = [
             wl for wl in candidate.wiki_links[:MAX_WIKI_LINKS_DISPLAY]
-            if wl != candidate.concept_name
+            if wl != _clean_concept_name(candidate.concept_name)
         ]
         link_text = ' · '.join(f'[[{wl}]]' for wl in relevant_links)
         lines.append(link_text)
@@ -396,6 +396,78 @@ def build_permanent_note(candidate: NoteCandidate) -> str:
 def _yaml_escape(text: str) -> str:
     """Escape special characters for YAML string values."""
     return text.replace('"', '\\"')
+
+
+def _clean_concept_name(raw: str) -> str:
+    """
+    Strip wiki-link brackets and normalise a raw concept name.
+
+    Examples:
+      '[[Blocking]]'                      -> 'Blocking'
+      '[[Testing Effect]] / [[Retrieval Practice Effect]]'
+                                          -> 'Testing Effect / Retrieval Practice Effect'
+      'Feeling of Knowing — FOK'          -> 'Feeling of Knowing — FOK'  (unchanged)
+      'Adaptive Learning Systems — Ed...' -> 'Adaptive Learning Systems — Ed...' (unchanged)
+    """
+    # Strip all [[ and ]] from the name
+    cleaned = raw.replace('[[', '').replace(']]', '')
+    return cleaned.strip()
+
+
+def _build_aliases(clean_name: str) -> list[str]:
+    """
+    Generate a comprehensive alias list for Obsidian wiki-link resolution.
+
+    Handles compound names separated by / or — (em-dash) by splitting them
+    into individual aliases.  Also generates commonly-used short forms.
+
+    Returns a deduplicated list with the full clean name first.
+    """
+    seen = set()
+    aliases = []
+
+    def _add(name: str) -> None:
+        """Add a name to aliases if not already present."""
+        name = name.strip()
+        if name and name.lower() not in seen:
+            seen.add(name.lower())
+            aliases.append(name)
+
+    # 1. Full clean name is always first
+    _add(clean_name)
+
+    # 2. Split on em-dash (—) — usually separates concept from domain/context
+    #    e.g. "Feeling of Knowing — FOK"
+    #    e.g. "Adaptive Learning Systems — Educational Technology"
+    if '—' in clean_name:
+        parts = [p.strip() for p in clean_name.split('—') if p.strip()]
+        for part in parts:
+            # Each part might itself have / separators
+            if '/' in part:
+                subparts = [s.strip() for s in part.split('/') if s.strip()]
+                for sp in subparts:
+                    _add(sp)
+            else:
+                _add(part)
+
+    # 3. Split on slash (/) — usually separates synonyms or subtypes
+    #    e.g. "Confirmation Bias / Myside Bias"
+    #    e.g. "Constructivist Learning Environments / CLEs"
+    elif '/' in clean_name:
+        parts = [p.strip() for p in clean_name.split('/') if p.strip()]
+        for part in parts:
+            _add(part)
+
+    # 4. Generate a useful acronym ONLY for the primary concept
+    #    (the first part before any — or /)
+    primary = aliases[0] if not ('—' in clean_name or '/' in clean_name) else aliases[1] if len(aliases) > 1 else aliases[0]
+    primary_words = [w for w in primary.split() if w[0:1].isalpha()]
+    if len(primary_words) >= 3:
+        acronym = ''.join(w[0].upper() for w in primary_words)
+        if 3 <= len(acronym) <= 6:
+            _add(acronym)
+
+    return aliases
 
 
 def _wrap_callout_body(text: str, max_length: int = 500) -> list[str]:

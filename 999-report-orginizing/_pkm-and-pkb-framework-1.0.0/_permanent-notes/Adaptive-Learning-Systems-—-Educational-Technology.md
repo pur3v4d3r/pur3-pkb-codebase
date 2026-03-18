@@ -5,7 +5,9 @@
 title: "Adaptive Learning Systems — Educational Technology"
 aliases:
   - "Adaptive Learning Systems — Educational Technology"
-  - "ALSET"
+  - "Adaptive Learning Systems"
+  - "Educational Technology"
+  - "ALS"
 type: permanent-note
 status: evergreen
 confidence: medium

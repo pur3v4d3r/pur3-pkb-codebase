@@ -5,7 +5,8 @@
 title: "Personal Constructed Learning Environment — PCLE"
 aliases:
   - "Personal Constructed Learning Environment — PCLE"
-  - "PCLEP"
+  - "Personal Constructed Learning Environment"
+  - "PCLE"
 type: permanent-note
 status: evergreen
 confidence: high

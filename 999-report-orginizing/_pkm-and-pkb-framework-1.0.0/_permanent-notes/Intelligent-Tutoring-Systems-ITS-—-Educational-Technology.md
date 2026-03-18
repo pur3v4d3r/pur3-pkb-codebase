@@ -5,7 +5,9 @@
 title: "Intelligent Tutoring Systems (ITS) — Educational Technology"
 aliases:
   - "Intelligent Tutoring Systems (ITS) — Educational Technology"
-  - "ITSET"
+  - "Intelligent Tutoring Systems (ITS)"
+  - "Educational Technology"
+  - "ITS"
 type: permanent-note
 status: evergreen
 confidence: medium

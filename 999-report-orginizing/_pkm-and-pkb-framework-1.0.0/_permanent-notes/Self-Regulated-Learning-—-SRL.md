@@ -5,7 +5,8 @@
 title: "Self-Regulated Learning — SRL"
 aliases:
   - "Self-Regulated Learning — SRL"
-  - "SLS"
+  - "Self-Regulated Learning"
+  - "SRL"
 type: permanent-note
 status: evergreen
 confidence: high

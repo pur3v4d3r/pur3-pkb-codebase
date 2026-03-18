@@ -2,9 +2,9 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Retrieval-Induced Forgetting]]"
+title: "Retrieval-Induced Forgetting"
 aliases:
-  - "[[Retrieval-Induced Forgetting]]"
+  - "Retrieval-Induced Forgetting"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -98,9 +98,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Retrieval-Induced Forgetting]]
+# Retrieval-Induced Forgetting
 
-> [!definition] **[[Retrieval-Induced Forgetting]]**
+> [!definition] **Retrieval-Induced Forgetting**
 > The phenomenon whereby retrieving some items from memory impairs the later retrieval of related, non-retrieved items from the same category. Demonstrates the competitive, inhibitory nature of memory retrieval: successfully retrieving a target involves suppressing competing traces. For PKB design: systematic retrieval practice of selected notes may impair retrieval of related unreviewed notes — an argument for comprehensive rather than highly selective review coverage within knowledge domains.
 
 *Source: Anderson, Bjork & Bjork, 1994*

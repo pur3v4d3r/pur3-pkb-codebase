@@ -5,7 +5,9 @@
 title: "Constructivist Learning Environments / CLEs"
 aliases:
   - "Constructivist Learning Environments / CLEs"
-  - "CLEC"
+  - "Constructivist Learning Environments"
+  - "CLEs"
+  - "CLE"
 type: permanent-note
 status: evergreen
 confidence: high

@@ -5,7 +5,6 @@
 title: "The Epistemic Emotional Architecture: A Design Principle for PKBs"
 aliases:
   - "The Epistemic Emotional Architecture: A Design Principle for PKBs"
-  - "TEEAADPFP"
 type: permanent-note
 status: evergreen
 confidence: high

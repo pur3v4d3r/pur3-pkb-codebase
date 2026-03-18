@@ -2,10 +2,10 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Study-Phase Retrieval Hypothesis]]"
+title: "Study-Phase Retrieval Hypothesis"
 aliases:
-  - "[[Study-Phase Retrieval Hypothesis]]"
-  - "RH"
+  - "Study-Phase Retrieval Hypothesis"
+  - "SRH"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -99,9 +99,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Study-Phase Retrieval Hypothesis]]
+# Study-Phase Retrieval Hypothesis
 
-> [!definition] **[[Study-Phase Retrieval Hypothesis]]**
+> [!definition] **Study-Phase Retrieval Hypothesis**
 > One of the primary explanatory mechanisms for the spacing effect: each spaced review session involves retrieving previously encoded material from a partially-faded state, which itself functions as retrieval practice (testing effect). The more the memory has weakened during the spacing interval, the more effortful — and thus more beneficial — the retrieval at the next review session. Spacing manufactures testing effect conditions at every review session.
 
 ## Core Explanation

@@ -5,7 +5,6 @@
 title: "The Cognitive Alignment Principle: An Original Framework for PKB Architecture"
 aliases:
   - "The Cognitive Alignment Principle: An Original Framework for PKB Architecture"
-  - "TCAPAOFFPA"
 type: permanent-note
 status: evergreen
 confidence: high

@@ -5,7 +5,8 @@
 title: "Control-Value Theory / CVT"
 aliases:
   - "Control-Value Theory / CVT"
-  - "CTC"
+  - "Control-Value Theory"
+  - "CVT"
 type: permanent-note
 status: evergreen
 confidence: high

@@ -5,7 +5,9 @@
 title: "Schema Construction Problem — Original Analytical Insight"
 aliases:
   - "Schema Construction Problem — Original Analytical Insight"
-  - "SCPOAI"
+  - "Schema Construction Problem"
+  - "Original Analytical Insight"
+  - "SCP"
 type: permanent-note
 status: evergreen
 confidence: medium

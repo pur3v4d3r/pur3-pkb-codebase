@@ -2,10 +2,12 @@
 # ═══════════════════════════════════════════════════════════════════════════
 # CORE IDENTITY
 # ═══════════════════════════════════════════════════════════════════════════
-title: "[[Judgment of Learning]] / [[Metacognitive Monitoring]]"
+title: "Judgment of Learning / Metacognitive Monitoring"
 aliases:
-  - "[[Judgment of Learning]] / [[Metacognitive Monitoring]]"
-  - "OLM"
+  - "Judgment of Learning / Metacognitive Monitoring"
+  - "Judgment of Learning"
+  - "Metacognitive Monitoring"
+  - "JOL"
 type: permanent-note
 status: evergreen
 confidence: high
@@ -99,9 +101,9 @@ mastery-stage: seedling
 importance: high
 ---
 
-# [[Judgment of Learning]] / [[Metacognitive Monitoring]]
+# Judgment of Learning / Metacognitive Monitoring
 
-> [!definition] **[[Judgment of Learning]] / [[Metacognitive Monitoring]]**
+> [!definition] **Judgment of Learning / Metacognitive Monitoring**
 > The learner's prospective assessment of their own memory state — how well they believe they will remember a piece of information relative to how well they actually will. Research consistently demonstrates that people are systematically miscalibrated: they tend to overestimate how well they will remember material they have recently re-read (the [[Fluency Illusion]]) and underestimate the future value of effortful retrieval practice. This miscalibration has direct consequences for study behavior: people choose passive re-reading over active recall because re-reading feels more productive, even though the science shows the opposite. For PKB design: the system must compensate for predictable metacognitive errors by structuring review in ways that override the user's potentially misleading felt sense of learning progress.
 
 *Source: Flavell, 1979; Koriat, 1997*

@@ -5,7 +5,6 @@
 title: "The Dialectical PKB as a System of Epistemic Accountability"
 aliases:
   - "The Dialectical PKB as a System of Epistemic Accountability"
-  - "TDPAASOEA"
 type: permanent-note
 status: evergreen
 confidence: high

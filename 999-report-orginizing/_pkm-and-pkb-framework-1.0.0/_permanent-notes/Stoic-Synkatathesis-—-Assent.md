@@ -5,7 +5,8 @@
 title: "Stoic Synkatathesis — Assent"
 aliases:
   - "Stoic Synkatathesis — Assent"
-  - "SSA"
+  - "Stoic Synkatathesis"
+  - "Assent"
 type: permanent-note
 status: evergreen
 confidence: high

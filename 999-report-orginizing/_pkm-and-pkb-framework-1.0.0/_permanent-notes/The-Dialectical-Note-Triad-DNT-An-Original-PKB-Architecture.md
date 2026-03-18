@@ -5,7 +5,6 @@
 title: "The Dialectical Note Triad (DNT): An Original PKB Architecture"
 aliases:
   - "The Dialectical Note Triad (DNT): An Original PKB Architecture"
-  - "TDNTAOPA"
 type: permanent-note
 status: evergreen
 confidence: high

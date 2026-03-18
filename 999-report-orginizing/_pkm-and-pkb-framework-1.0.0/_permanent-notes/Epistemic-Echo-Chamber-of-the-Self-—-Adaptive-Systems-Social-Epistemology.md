@@ -5,7 +5,10 @@
 title: "Epistemic Echo Chamber of the Self — Adaptive Systems / Social Epistemology"
 aliases:
   - "Epistemic Echo Chamber of the Self — Adaptive Systems / Social Epistemology"
-  - "EECOTSASSE"
+  - "Epistemic Echo Chamber of the Self"
+  - "Adaptive Systems"
+  - "Social Epistemology"
+  - "EECOTS"
 type: permanent-note
 status: evergreen
 confidence: medium

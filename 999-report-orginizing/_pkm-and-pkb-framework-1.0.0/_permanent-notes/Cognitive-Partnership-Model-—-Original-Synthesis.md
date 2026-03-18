@@ -5,7 +5,9 @@
 title: "Cognitive Partnership Model — Original Synthesis"
 aliases:
   - "Cognitive Partnership Model — Original Synthesis"
-  - "CPMOS"
+  - "Cognitive Partnership Model"
+  - "Original Synthesis"
+  - "CPM"
 type: permanent-note
 status: evergreen
 confidence: medium

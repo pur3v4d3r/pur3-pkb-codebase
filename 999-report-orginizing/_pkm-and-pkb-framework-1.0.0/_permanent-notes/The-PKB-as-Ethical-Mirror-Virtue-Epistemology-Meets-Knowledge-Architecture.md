@@ -5,7 +5,6 @@
 title: "The PKB as Ethical Mirror: Virtue Epistemology Meets Knowledge Architecture"
 aliases:
   - "The PKB as Ethical Mirror: Virtue Epistemology Meets Knowledge Architecture"
-  - "TPAEMVEMKA"
 type: permanent-note
 status: evergreen
 confidence: high
