@@ -1,0 +1,163 @@
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "The Cognitive Partnership Model"
+aliases:
+  - "The Cognitive Partnership Model"
+  - "TCPM"
+type: permanent-note
+status: evergreen
+confidence: medium
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - evergreen
+  - learning-science
+  - pkm
+  - pkb
+  - ai-assisted-learning
+  - retrieval-augmented-generation
+  - adaptive-learning-systems
+
+domain: learning-science
+subdomains:
+  - artificial-intelligence
+  - cognitive-science
+  - educational-technology
+  - educational-psychology
+  - philosophy-of-mind
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-18
+updated: 2026-03-18
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: report-extraction
+source-reports:
+  - "30-future-pkm-ai-enhanced-knowledge-building-pkm-framework-2026-03-15"
+evidence-quality: medium
+extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CONTENT CHARACTERISTICS
+# ═══════════════════════════════════════════════════════════════════════════
+complexity-level: advanced-practitioner
+depth-level: comprehensive
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+prerequisites:
+  - "[[]]"
+
+related:
+  - "[[]]"
+
+broader:
+  - "[[]]"
+
+narrower:
+  - "[[]]"
+
+see-also:
+  - "[[AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]]"
+  - "[[Adaptive Learning Systems]]"
+  - "[[Bayesian Knowledge Tracing]]"
+  - "[[Calibration]]"
+  - "[[Cognitive Load Theory]]"
+  - "[[Cognitive Offloading]]"
+  - "[[Cognitive Partnership Model]]"
+  - "[[Confirmation Bias]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# LEARNING PATHWAYS
+# ═══════════════════════════════════════════════════════════════════════════
+builds-on:
+  - "[[Report 01: Foundations of Knowledge Architecture — How the Mind Organizes What It Knows]]"
+  - "[[Report 02: The Architecture of Learning — Cognitive Load, Working Memory, and PKB Design]]"
+  - "[[Report 03: Constructing Understanding — How Knowledge Builds on Knowledge in a PKB]]"
+  - "[[Report 04: Metacognitive Self-Regulation — The Engine of Effective PKM]]"
+  - "[[Report 06: The Science of Remembering — Memory Systems, Retrieval Practice, and PKB Review Design]]"
+
+enables:
+  - "[[PKM AI Integration Practice]]"
+  - "[[Cognitive Partnership Workflows]]"
+
+expansion-topics:
+  - topic: "[[Longitudinal Effects of AI-Integrated PKM on Learning Outcomes]]"
+    description: "The most important missing research. What are the actual effects on deep learning, knowledge transfe"
+    priority: medium
+  - topic: "[[Prompt Engineering for PKM: Designing Socratic AI Interactions]]"
+    description: "A practical application of the Cognitive Partnership Model. What specific prompting strategies and i"
+    priority: medium
+  - topic: "[[The Semantic Note: Writing for Human and AI Readers Simultaneously]]"
+    description: "How should note-making practice adapt to produce notes optimal both for the human writer's schema co"
+    priority: medium
+  - topic: "[[Quantified Learning in AI-Integrated PKM: Tracking Epistemic Development]]"
+    description: "The intersection of learning analytics, quantified self practices, and PKM. How can data about your "
+    priority: medium
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
+review-frequency: quarterly
+mastery-stage: seedling
+importance: high
+---
+
+# The Cognitive Partnership Model
+
+> [!definition] **The Cognitive Partnership Model**
+> **The Cognitive Partnership Model**: A framework for human-AI interaction in a learning-oriented PKB that synthesizes [[Socratic Philosophy]] (from [[Report 14: Inquiry-Based Knowledge Building]]), [[Extended Mind Theory]] (Clark & Chalmers), [[Zone of Proximal Development]] (Vygotsky), [[Desirable Difficulties]] (Bjork et al.), and [[Constructivism]] (from [[Report 03]]) into a coherent design philosophy with four structural components.
+> 
+> **Component 1: Partnership, Not Delegation.** The user remains the primary cognitive agent in the knowledge-building process. AI participates as a thinking partner — contributing capacity, challenge, and synthesis — but does not replace the user's constructive engagement. The diagnostic test: after every AI-assisted work session, ask whether you *understand* something you didn't before, or whether you merely *have information* that you received. Partnership produces understanding; delegation produces information.
+> 
+> **Component 2: Challenge as Primary Function.** The most cognitively valuable thing an AI can do in a learning PKB is *challenge* the user's existing understanding — identifying gaps, surfacing contradictions, generating counterarguments, posing Socratic questions about assumptions underlying current notes. This is more valuable than synthesis or summary, because challenge drives constructive engagement while synthesis can replace it. The Socratic model (established in [[Report 14]]) applies directly: AI as Socratic interlocutor asks "What do you mean by that?" and "What evidence supports that?" rather than "Here is what the evidence shows."
+> 
+> **Component 3: Calibrated Scaffolding That Fades.** Following the ZPD and [[Scaffolding and Fading]] framework from [[Report 10]], AI assistance should be calibrated to the learner's current competence in each domain and should actively reduce as competence grows. In early engagement with a domain, AI can provide more synthesis and explanation. As expertise develops, AI's role should shift toward challenge, gap-identification, and Socratic questioning. This requires the user to track their own developing expertise across domains — a metacognitive task scaffolded by the practices developed in [[Report 04: Metacognitive Self-Regulation]].
+> 
+> **Component 4: Epistemic Autonomy as Non-Negotiable.** Consistent with the philosophical foundations of [[Report 28: Philosophy of Personal Knowledge]] and [[Report 29: Ethical PKM]], epistemic autonomy is treated not as one value among many but as a constitutive feature of genuine personal knowledge. AI interactions that undermine the user's capacity to reason independently — by providing conclusions without reasoning, or by consistently short-circuiting the user's constructive engagement — represent failures of PKB design regardless of their efficiency or productivity metrics.
+
+*Source: Novel synthesis — this report series*
+
+## Core Explanation
+
+> [!evidence] Supporting Evidence
+> **Untitled**: **The Sparrow et al. (2011) Paradigm**: Participants read trivia facts under conditions where they either expected the information to be saved to a computer for later retrieval or expected it to be erased. Participants in the "saved" condition showed significantly worse recall for the facts themselves but better recall for *where* the information would be stored. This asymmetry — weaker object memory, stronger location memory — mirrors the [[Transactive Memory Systems]] patterns…
+
+> [!evidence] Supporting Evidence
+> **Untitled**: **On AI Tutoring and Deep Learning**: The ITS literature reveals an important pattern: systems that *require active problem-solving* by the learner produce larger effect sizes than systems that provide explanatory content. This aligns with the desirable difficulties research and the testing effect established in [[Report 06: The Science of Remembering]]. The gains attributed to AI tutoring appear to come primarily from increased *active engagement* with material — specifically,…
+
+> [!evidence] Supporting Evidence
+> **Untitled**: **On AI and Epistemic Counterfeiting**: The fluency illusion — mistaking fluent processing for genuine understanding — is well-documented in metacognition research (Bjork, Dunlosky & Kornell, 2013). AI-generated summaries of your own notes are particularly susceptible to inducing this illusion, because they are grounded in your vault and therefore *feel* accurate and familiar. A user who asks AI to synthesize their notes on [[Constructivism]] and reads a fluent, well-organized…
+
+> [!analytical-insight] Key Insight
+> **Untitled**: **The Offloading Quality Distinction**: The cognitive offloading research reveals a distinction that most PKM discussions miss. There are qualitatively different kinds of AI assistance in a PKB: (1) *Storage and retrieval offloading* — freeing cognitive resources for deeper analysis by handling search, navigation, and surface retrieval; and (2) *Synthesis and reasoning offloading* — generating connections, summaries, and analyses that the user receives but does not construct.…
+
+> [!analytical-insight] Key Insight
+> **Untitled**: **The Schema Construction Problem**: This reframes the central question about AI in PKM from "is the AI output accurate?" to "does the AI interaction produce genuine understanding?" A RAG query can produce a highly accurate synthesis of your notes on [[Constructivism]] while leaving your schema for Constructivism entirely unchanged. You received the synthesis; you did not construct it. [[Report 03: Constructing Understanding]] established that schema construction requires active…
+
+## Practical Implications
+
+> [!example] **Application**
+> *Describe how this concept applies in practice.*
+
+> [!warning] **Key Distinction**
+> **Design With Epistemic Humility**: The design principles above are extrapolations from well-established cognitive science to a novel AI context, synthesized with limited direct evidence on AI-enhanced PKM specifically. They represent the best current guidance available — but treat them as working hypotheses to be evaluated through your own experience. The most important thing is to *pay attention to your own learning* as you integrate AI: not just whether you feel more productive, but whether…
+
+## Connections & Context
+
+**Cross-report connections:**
+- [[Report 10: Scaffolding and Fading]]
+- [[Cognitive Load Theory]]
+
+**Related concepts:**
+[[AI Ethics in Personal Knowledge Management: Autonomy, Dependency, and the Right to Understand]] · [[Adaptive Learning Systems]] · [[Bayesian Knowledge Tracing]] · [[Calibration]] · [[Cognitive Load Theory]] · [[Cognitive Offloading]] · [[Cognitive Partnership Model]] · [[Confirmation Bias]] · [[Constructivism]] · [[Desirable Difficulties]] · [[Dialectical Knowledge Building]] · [[Epistemic Autonomy]] · [[Epistemic Humility]] · [[Epistemic Virtue]] · [[Expertise Reversal Effect]]
