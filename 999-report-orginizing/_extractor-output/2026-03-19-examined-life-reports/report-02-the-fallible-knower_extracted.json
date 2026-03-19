@@ -1,0 +1,1578 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-19T02:45:12.338948",
+    "source_file": "report-02-the-fallible-knower.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-architecture-of-the-examined-life-project\\pkb-build\\examined-life-pkb\\the-architecture-of-the-examined-life\\01-reports\\tier-1-epistemic\\report-02-the-fallible-knower.md",
+    "source_file_size_bytes": 87704,
+    "processing_time_seconds": 0.023
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "The Fallible Knower: Epistemology, Pragmatism, and the Constructivist Stance",
+      "aliases": [
+        "Report 02 — The Fallible Knower",
+        "Epistemological Posture Report",
+        "Fallibilist-Constructivist Synthesis",
+        "Pragmatist Epistemology and Schema Theory",
+        "Architecture of the Examined Life — Report 02"
+      ],
+      "type": "permanent-note",
+      "status": "evergreen",
+      "confidence": "high",
+      "tags": [
+        "permanent-note",
+        "academic-synthesis",
+        "series-report",
+        "epistemology",
+        "cognitive-science",
+        "philosophy-of-knowledge",
+        "educational-psychology",
+        "pragmatism",
+        "fallibilism",
+        "constructivism",
+        "schema-theory",
+        "metacognitive-self-regulation",
+        "pragmatic-maxim",
+        "evergreen",
+        "comprehensive",
+        "research-grounded"
+      ],
+      "domain": "epistemology-and-cognitive-science",
+      "subdomains": [
+        "philosophy-of-knowledge",
+        "pragmatist-epistemology",
+        "educational-psychology",
+        "metacognitive-theory",
+        "schema-theory"
+      ],
+      "created": "2026-02-27",
+      "updated": "2026-02-27",
+      "source-type": "academic-synthesis",
+      "research-base": "empirical-studies-and-philosophical-analysis",
+      "evidence-quality": "high",
+      "series": "The Architecture of the Examined Life",
+      "series-report-number": "02",
+      "tier": "1",
+      "tier-name": "Epistemic Architecture",
+      "synthesis-moves-applied": [
+        "structural-homology",
+        "conceptual-tension-resolution",
+        "emergent-insight-generation",
+        "cross-level-integration",
+        "bidirectional-cross-reference"
+      ],
+      "frameworks-synthesized": [
+        "Epistemology (foundational concepts — knowledge, justification, truth)",
+        "Pragmatic Maxim (Peirce 1878, James, Dewey)",
+        "Fallibilism (Peirce, Popper)",
+        "Constructivism (Piaget, Von Glasersfeld)",
+        "Schema Theory (Bartlett 1932, Rumelhart 1980)",
+        "Metacognitive Self-Regulation (Flavell, Schraw)"
+      ],
+      "key-researchers": [
+        "Charles Sanders Peirce — founder of pragmatism, fallibilism",
+        "William James — pragmatic theory of truth, alethic pluralism",
+        "John Dewey — instrumentalism, learning-through-consequences",
+        "Jean Piaget — genetic epistemology, schema accommodation",
+        "Ernst von Glasersfeld — radical constructivism, viability",
+        "Frederic Bartlett — schema theory, reconstructive memory",
+        "David Rumelhart — schema as building blocks of cognition",
+        "Karl Popper — falsificationism, growth of knowledge",
+        "John Flavell — metacognition",
+        "Gregory Schraw — metacognitive self-regulation"
+      ],
+      "word-count": "~9,500",
+      "complexity-level": "advanced-practitioner",
+      "depth-level": "comprehensive",
+      "treatment-type": "synthesis-focused",
+      "central-synthesis-argument": "Fallibilism (Peirce), constructivism (Piaget, Von Glasersfeld), schema theory (Bartlett, Rumelhart), and the pragmatic maxim collectively describe a single epistemological posture — treating beliefs as provisional constructions with practical consequences — that is structurally identical to metacognitive self-regulation viewed from the philosophical rather than the psychological angle.",
+      "emergent-insight": "The fallibilist-constructivist epistemological posture IS metacognitive self-regulation: the same cognitive operation of holding beliefs lightly and revising them in response to experiential resistance, described by philosophy from the outside (as a normative stance) and by psychology from the inside (as a regulatory process).",
+      "core-tensions": [
+        "Pragmatic truth-as-consequences vs. correspondence epistemology — resolved by recognizing they operate at different explanatory levels",
+        "Radical constructivist viability vs. pragmatist workability — resolved as complementary: constructivism explains the mechanism, pragmatism provides the functional test",
+        "Schema stability (cognitive efficiency) vs. schema revision (epistemic growth) — resolved through the role of metacognitive monitoring in triggering accommodation"
+      ],
+      "series-connections": {
+        "builds-from": [
+          "Report 01: The Inquiry Engine — the activated inquirer needs an epistemological posture to bring to inquiry; fallibilism IS that posture"
+        ],
+        "enables": [
+          "Report 03: The Motivated Mind — fallibilism creates the motivational problem: why maintain effortful epistemic permeability?",
+          "Report 04: Cognitive Scaffolding — constructivist schema mechanics provide the substrate for scaffolded learning",
+          "Report 05: The Virtuous Reasoner — intellectual virtues operationalize the fallibilist posture as trainable dispositions"
+        ],
+        "retroactively-enriches": [
+          "Report 01: Aporic receptivity is revealed as the psychological face of the fallibilist stance — the same phenomenon at different levels"
+        ]
+      },
+      "prerequisites": [
+        "[[Introduction to Epistemology]]",
+        "[[Cognitive Psychology Foundations]]",
+        "[[Report 01 — The Inquiry Engine]]"
+      ],
+      "related": [
+        "[[Pragmatism]]",
+        "[[Constructivism (Educational Psychology)]]",
+        "[[Schema Theory]]",
+        "[[Metacognitive Self-Regulation]]",
+        "[[Intellectual Humility]]",
+        "[[Belief Revision]]",
+        "[[Cognitive Bias]]",
+        "[[Dual Process Theory]]"
+      ],
+      "broader": [
+        "[[Philosophy of Mind]]",
+        "[[Epistemology]]",
+        "[[Educational Psychology]]",
+        "[[Cognitive Science]]"
+      ],
+      "expansion-topics": [
+        {
+          "name": "Bayesian Epistemology",
+          "description": "The formal probabilistic framework for belief revision under uncertainty — provides a mathematical formalization of the fallibilist posture described here",
+          "priority": "high"
+        },
+        {
+          "name": "Popper's Falsificationism",
+          "description": "The extension of Peircean fallibilism to scientific methodology — theory of knowledge growth through conjecture and refutation",
+          "priority": "high"
+        },
+        {
+          "name": "Virtue Epistemology",
+          "description": "The account of how fallibilism becomes character — connects directly to Report 05's synthesis",
+          "priority": "critical"
+        },
+        {
+          "name": "Conceptual Change Theory",
+          "description": "Posner, Strike, Hewson & Gertzog (1982) on the conditions under which students revise deep schemas — the educational application of accommodation",
+          "priority": "medium"
+        },
+        {
+          "name": "Social Constructivism",
+          "description": "Vygotsky's extension of constructivism to the social dimension — knowledge built through interaction, not just individual accommodation",
+          "priority": "high"
+        },
+        {
+          "name": "Coherentism and Foundationalism",
+          "description": "The major rival epistemological frameworks against which pragmatism and constructivism define themselves",
+          "priority": "medium"
+        }
+      ],
+      "empirical-support": [
+        "Piaget's extensive developmental studies documenting accommodation processes across childhood",
+        "Bartlett (1932) experimental studies on reconstructive memory — 'War of the Ghosts'",
+        "Rumelhart & Ortony (1977) on schema-based language comprehension",
+        "Contemporary metacognition research linking self-monitoring to learning outcomes (Schraw & Dennison 1994)",
+        "Rivas et al. (2025) on critical thinking predicting wellbeing via metacognition"
+      ],
+      "limitations-noted": [
+        "The structural homology between fallibilism and metacognitive self-regulation is a theoretical integration not yet empirically validated as a unified construct",
+        "Von Glasersfeld's radical constructivism remains contested — the viability/truth distinction has been criticized as either trivially true or leading to problematic anti-realism",
+        "Piaget's stage theory has been substantially revised; schema mechanisms are more domain-specific than Piaget assumed",
+        "The synthesis operates at a high level of abstraction; individual frameworks have internal disputes not fully represented here"
+      ],
+      "sections": [
+        "Phase I: The Premise — The Problem of the Knowing Subject",
+        "Phase II: The Exposition — Five Frameworks and Their Convergence",
+        "Phase III: The Dialectic — Structural Homology, Tensions, and Synthesis",
+        "Phase IV: The Application — A Worked Example and Developmental Implications",
+        "Phase V: The Synthesis — Emergent Insights, Cross-Report Connections, and Limitations",
+        "Phase VI: Appendix — Lexicon, References, and Expansion Topics"
+      ]
+    },
+    "word_count": 10350,
+    "character_count": 74186,
+    "line_count": 267,
+    "heading_count": 15
+  },
+  "extraction_summary": {
+    "total_items_extracted": 117,
+    "by_type": {
+      "headings": 15,
+      "callouts": 38,
+      "wiki_links": 62,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 2,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "The Fallible Knower: Epistemology, Pragmatism, and the Constructivist Stance",
+      "anchor": "the-fallible-knower-epistemology-pragmatism-and-the-constructivist-stance",
+      "line_number": 198,
+      "source": "report-02-the-fallible-knower.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+          "anchor": "phase-i-the-premise-the-problem-of-the-knowing-subject",
+          "line_number": 202,
+          "source": "report-02-the-fallible-knower.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase II: The Exposition — Five Frameworks and Their Convergence 📚",
+          "anchor": "phase-ii-the-exposition-five-frameworks-and-their-convergence",
+          "line_number": 224,
+          "source": "report-02-the-fallible-knower.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Pragmatist Revolution in Epistemology",
+              "anchor": "the-pragmatist-revolution-in-epistemology",
+              "line_number": 229,
+              "source": "report-02-the-fallible-knower.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Constructivism: Knowledge as Built, Not Found",
+              "anchor": "constructivism-knowledge-as-built-not-found",
+              "line_number": 241,
+              "source": "report-02-the-fallible-knower.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Metacognitive Self-Regulation: The Psychological Operationalization",
+              "anchor": "metacognitive-self-regulation-the-psychological-operationalization",
+              "line_number": 250,
+              "source": "report-02-the-fallible-knower.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: The Dialectic — Structural Homology, Tensions, and Synthesis ⚖️",
+          "anchor": "phase-iii-the-dialectic-structural-homology-tensions-and-synthesis",
+          "line_number": 263,
+          "source": "report-02-the-fallible-knower.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Master Structural Homology: Belief Revision as Accommodation as Self-Regulation",
+              "anchor": "the-master-structural-homology-belief-revision-as-accommodation-as-self-regulation",
+              "line_number": 268,
+              "source": "report-02-the-fallible-knower.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Emergent Insight: Epistemological Posture as Psychological Architecture",
+              "anchor": "the-emergent-insight-epistemological-posture-as-psychological-architecture",
+              "line_number": 292,
+              "source": "report-02-the-fallible-knower.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: The Application — Worked Example and Developmental Implications 🏗️",
+          "anchor": "phase-iv-the-application-worked-example-and-developmental-implications",
+          "line_number": 306,
+          "source": "report-02-the-fallible-knower.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase V: The Synthesis — Emergent Insights, Cross-Report Connections, and Limitations 🔭",
+          "anchor": "phase-v-the-synthesis-emergent-insights-cross-report-connections-and-limitations",
+          "line_number": 336,
+          "source": "report-02-the-fallible-knower.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Appendix — Lexicon, References, and Expansion Topics 📎",
+          "anchor": "phase-vi-appendix-lexicon-references-and-expansion-topics",
+          "line_number": 371,
+          "source": "report-02-the-fallible-knower.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Key Term Lexicon 📖",
+              "anchor": "key-term-lexicon",
+              "line_number": 373,
+              "source": "report-02-the-fallible-knower.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Expansion Topics for PKB Development 🔗",
+              "anchor": "expansion-topics-for-pkb-development",
+              "line_number": 403,
+              "source": "report-02-the-fallible-knower.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "References 📚",
+              "anchor": "references",
+              "line_number": 412,
+              "source": "report-02-the-fallible-knower.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "question",
+        "title": "🔍 The Foundational Question",
+        "body": "",
+        "line_number": 204,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 9803,
+        "char_end": 9845
+      },
+      {
+        "type": "principle-point",
+        "title": "🎯 The Central Claim",
+        "body": "",
+        "line_number": 211,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 12619,
+        "char_end": 12660
+      },
+      {
+        "type": "connection-ideas",
+        "title": "🔗 Forward Connection to Report 01",
+        "body": "",
+        "line_number": 216,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 13743,
+        "char_end": 13799
+      },
+      {
+        "type": "summary",
+        "title": "📋 Phase I Summary",
+        "body": "",
+        "line_number": 220,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 14467,
+        "char_end": 14498
+      },
+      {
+        "type": "question",
+        "title": "🔍 The Expository Question",
+        "body": "",
+        "line_number": 226,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 15103,
+        "char_end": 15143
+      },
+      {
+        "type": "definition",
+        "title": "📖 Fallibilism",
+        "body": "",
+        "line_number": 238,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 20771,
+        "char_end": 20801
+      },
+      {
+        "type": "definition",
+        "title": "📖 Metacognitive Self-Regulation",
+        "body": "",
+        "line_number": 255,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 29455,
+        "char_end": 29503
+      },
+      {
+        "type": "summary",
+        "title": "📋 Phase II Summary",
+        "body": "",
+        "line_number": 259,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 30171,
+        "char_end": 30203
+      },
+      {
+        "type": "question",
+        "title": "🔍 The Dialectical Question",
+        "body": "",
+        "line_number": 265,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 31232,
+        "char_end": 31273
+      },
+      {
+        "type": "insight",
+        "title": "💡 Structural Homology: The Revision Cycle",
+        "body": "",
+        "line_number": 275,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 34425,
+        "char_end": 34480
+      },
+      {
+        "type": "insight",
+        "title": "💡 Resolution: Two Explanatory Levels",
+        "body": "",
+        "line_number": 284,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 39074,
+        "char_end": 39124
+      },
+      {
+        "type": "principle-point",
+        "title": "🎯 The Emergent Insight: Epistemological Posture IS Psychological Architecture",
+        "body": "",
+        "line_number": 297,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 45189,
+        "char_end": 45288
+      },
+      {
+        "type": "summary",
+        "title": "📋 Phase III Summary",
+        "body": "",
+        "line_number": 302,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 47168,
+        "char_end": 47201
+      },
+      {
+        "type": "question",
+        "title": "🔍 The Application Question",
+        "body": "",
+        "line_number": 308,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 48073,
+        "char_end": 48114
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "🤔 Reflection",
+        "body": "",
+        "line_number": 321,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 53268,
+        "char_end": 53304
+      },
+      {
+        "type": "summary",
+        "title": "📋 Phase IV Summary",
+        "body": "",
+        "line_number": 332,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 57996,
+        "char_end": 58028
+      },
+      {
+        "type": "question",
+        "title": "🔍 The Synthesis Question",
+        "body": "",
+        "line_number": 338,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 58772,
+        "char_end": 58811
+      },
+      {
+        "type": "insight",
+        "title": "💡 Cross-Report Integration",
+        "body": "",
+        "line_number": 354,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 65946,
+        "char_end": 65986
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "🔬 Research Grounding",
+        "body": "",
+        "line_number": 363,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 69475,
+        "char_end": 69525
+      },
+      {
+        "type": "summary",
+        "title": "📋 Phase V Summary",
+        "body": "",
+        "line_number": 367,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 70531,
+        "char_end": 70562
+      },
+      {
+        "type": "definition",
+        "title": "📖 Pragmatic Maxim",
+        "body": "",
+        "line_number": 375,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 71554,
+        "char_end": 71588
+      },
+      {
+        "type": "definition",
+        "title": "📖 Fallibilism",
+        "body": "",
+        "line_number": 379,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 71981,
+        "char_end": 72011
+      },
+      {
+        "type": "definition",
+        "title": "📖 Schema (Schemas, Schemata)",
+        "body": "",
+        "line_number": 383,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 72433,
+        "char_end": 72478
+      },
+      {
+        "type": "definition",
+        "title": "📖 Accommodation",
+        "body": "",
+        "line_number": 387,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 72895,
+        "char_end": 72927
+      },
+      {
+        "type": "definition",
+        "title": "📖 Viability (Radical Constructivism)",
+        "body": "",
+        "line_number": 391,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 73319,
+        "char_end": 73372
+      },
+      {
+        "type": "definition",
+        "title": "📖 Genetic Epistemology",
+        "body": "",
+        "line_number": 395,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 73824,
+        "char_end": 73863
+      },
+      {
+        "type": "definition",
+        "title": "📖 Metacognitive Self-Regulation",
+        "body": "",
+        "line_number": 399,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 74295,
+        "char_end": 74343
+      },
+      {
+        "type": "cite",
+        "title": "📄 Peirce, C.S. (1878)",
+        "body": "",
+        "line_number": 414,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 80111,
+        "char_end": 80143
+      },
+      {
+        "type": "cite",
+        "title": "📄 Stanford Encyclopedia of Philosophy — Pragmatism",
+        "body": "",
+        "line_number": 418,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 80396,
+        "char_end": 80457
+      },
+      {
+        "type": "cite",
+        "title": "📄 Cooke, E.F. (2006)",
+        "body": "",
+        "line_number": 422,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 80776,
+        "char_end": 80807
+      },
+      {
+        "type": "cite",
+        "title": "📄 Liszka, J.J. (2024)",
+        "body": "",
+        "line_number": 426,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 81059,
+        "char_end": 81091
+      },
+      {
+        "type": "cite",
+        "title": "📄 Piaget, J. (1952)",
+        "body": "",
+        "line_number": 430,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 81413,
+        "char_end": 81443
+      },
+      {
+        "type": "cite",
+        "title": "📄 Von Glasersfeld, E. (1981)",
+        "body": "",
+        "line_number": 434,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 81663,
+        "char_end": 81702
+      },
+      {
+        "type": "cite",
+        "title": "📄 Bartlett, F.C. (1932)",
+        "body": "",
+        "line_number": 438,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 81926,
+        "char_end": 81960
+      },
+      {
+        "type": "cite",
+        "title": "📄 Rumelhart, D.E. (1980)",
+        "body": "",
+        "line_number": 442,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 82225,
+        "char_end": 82260
+      },
+      {
+        "type": "cite",
+        "title": "📄 Schraw, G. & Dennison, R.S. (1994)",
+        "body": "",
+        "line_number": 446,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 82541,
+        "char_end": 82588
+      },
+      {
+        "type": "cite",
+        "title": "📄 Flavell, J.H. (1979)",
+        "body": "",
+        "line_number": 450,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 82879,
+        "char_end": 82912
+      },
+      {
+        "type": "cite",
+        "title": "📄 Popper, K. (1963)",
+        "body": "",
+        "line_number": 454,
+        "source": "report-02-the-fallible-knower.md",
+        "char_start": 83234,
+        "char_end": 83264
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Dewey's Reflective Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dewey's Reflective Thinking]]",
+        "line_number": 208,
+        "section": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "context_line": "This puzzle is not merely historical. It is present in every cognitive moment where a person encounters evidence that conflicts with what they already believe. The question is not whether one will encounter such moments — [[Dewey's Reflective Thinking]] (Report 01) established that the felt difficulty arising from such encounters is the universal trigger of genuine inquiry. The question is what kind of knower one will be when the moment arrives. Will the conflict activate genuine reconsideration, or will it trigger the well-documented cognitive defenses — [[confirmation bias]], motivated reasoning, [[belief perseverance]] — that protect the existing belief structure? And what determines which response occurs?",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "confirmation bias",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[confirmation bias]]",
+        "line_number": 208,
+        "section": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "context_line": "This puzzle is not merely historical. It is present in every cognitive moment where a person encounters evidence that conflicts with what they already believe. The question is not whether one will encounter such moments — [[Dewey's Reflective Thinking]] (Report 01) established that the felt difficulty arising from such encounters is the universal trigger of genuine inquiry. The question is what kind of knower one will be when the moment arrives. Will the conflict activate genuine reconsideration, or will it trigger the well-documented cognitive defenses — [[confirmation bias]], motivated reasoning, [[belief perseverance]] — that protect the existing belief structure? And what determines which response occurs?",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "belief perseverance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[belief perseverance]]",
+        "line_number": 208,
+        "section": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "context_line": "This puzzle is not merely historical. It is present in every cognitive moment where a person encounters evidence that conflicts with what they already believe. The question is not whether one will encounter such moments — [[Dewey's Reflective Thinking]] (Report 01) established that the felt difficulty arising from such encounters is the universal trigger of genuine inquiry. The question is what kind of knower one will be when the moment arrives. Will the conflict activate genuine reconsideration, or will it trigger the well-documented cognitive defenses — [[confirmation bias]], motivated reasoning, [[belief perseverance]] — that protect the existing belief structure? And what determines which response occurs?",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "fallibilism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[fallibilism]]",
+        "line_number": 209,
+        "section": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "context_line": "This report's answer is that what determines the response is not primarily a cognitive skill but a cognitive posture — a prior orientation toward one's own beliefs that shapes how discrepant information is received before any deliberate cognitive processing begins. That posture is what the great pragmatist tradition in philosophy calls [[fallibilism]], what [[Jean Piaget]] and [[Ernst von Glasersfeld]] call the [[Constructivist Stance]], and what contemporary cognitive psychology calls [[Metacognitive Self-Regulation]]. The central argument of this report is that these three traditions are describing the same underlying phenomenon from three different angles — and that seeing them together reveals something none of them contains alone.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Jean Piaget",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Jean Piaget]]",
+        "line_number": 209,
+        "section": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "context_line": "This report's answer is that what determines the response is not primarily a cognitive skill but a cognitive posture — a prior orientation toward one's own beliefs that shapes how discrepant information is received before any deliberate cognitive processing begins. That posture is what the great pragmatist tradition in philosophy calls [[fallibilism]], what [[Jean Piaget]] and [[Ernst von Glasersfeld]] call the [[Constructivist Stance]], and what contemporary cognitive psychology calls [[Metacognitive Self-Regulation]]. The central argument of this report is that these three traditions are describing the same underlying phenomenon from three different angles — and that seeing them together reveals something none of them contains alone.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Ernst von Glasersfeld",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ernst von Glasersfeld]]",
+        "line_number": 209,
+        "section": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "context_line": "This report's answer is that what determines the response is not primarily a cognitive skill but a cognitive posture — a prior orientation toward one's own beliefs that shapes how discrepant information is received before any deliberate cognitive processing begins. That posture is what the great pragmatist tradition in philosophy calls [[fallibilism]], what [[Jean Piaget]] and [[Ernst von Glasersfeld]] call the [[Constructivist Stance]], and what contemporary cognitive psychology calls [[Metacognitive Self-Regulation]]. The central argument of this report is that these three traditions are describing the same underlying phenomenon from three different angles — and that seeing them together reveals something none of them contains alone.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Constructivist Stance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Constructivist Stance]]",
+        "line_number": 209,
+        "section": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "context_line": "This report's answer is that what determines the response is not primarily a cognitive skill but a cognitive posture — a prior orientation toward one's own beliefs that shapes how discrepant information is received before any deliberate cognitive processing begins. That posture is what the great pragmatist tradition in philosophy calls [[fallibilism]], what [[Jean Piaget]] and [[Ernst von Glasersfeld]] call the [[Constructivist Stance]], and what contemporary cognitive psychology calls [[Metacognitive Self-Regulation]]. The central argument of this report is that these three traditions are describing the same underlying phenomenon from three different angles — and that seeing them together reveals something none of them contains alone.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Metacognitive Self-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Self-Regulation]]",
+        "line_number": 209,
+        "section": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "context_line": "This report's answer is that what determines the response is not primarily a cognitive skill but a cognitive posture — a prior orientation toward one's own beliefs that shapes how discrepant information is received before any deliberate cognitive processing begins. That posture is what the great pragmatist tradition in philosophy calls [[fallibilism]], what [[Jean Piaget]] and [[Ernst von Glasersfeld]] call the [[Constructivist Stance]], and what contemporary cognitive psychology calls [[Metacognitive Self-Regulation]]. The central argument of this report is that these three traditions are describing the same underlying phenomenon from three different angles — and that seeing them together reveals something none of them contains alone.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Fallibilist-Constructivist Epistemological Posture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fallibilist-Constructivist Epistemological Posture]]",
+        "line_number": 212,
+        "section": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "context_line": "The [[Fallibilist-Constructivist Epistemological Posture]] — the stance of treating one's beliefs as provisional constructions with practical consequences — is not merely a philosophical position one can consciously adopt. It is structurally identical to [[metacognitive self-regulation]], the psychological capacity to monitor and revise one's own cognitive processes. Philosophy describes this posture from the outside, as a normative ideal. Psychology describes it from the inside, as a regulatory mechanism. They are the same thing.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "metacognitive self-regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[metacognitive self-regulation]]",
+        "line_number": 212,
+        "section": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "context_line": "The [[Fallibilist-Constructivist Epistemological Posture]] — the stance of treating one's beliefs as provisional constructions with practical consequences — is not merely a philosophical position one can consciously adopt. It is structurally identical to [[metacognitive self-regulation]], the psychological capacity to monitor and revise one's own cognitive processes. Philosophy describes this posture from the outside, as a normative ideal. Psychology describes it from the inside, as a regulatory mechanism. They are the same thing.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "aporic receptivity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[aporic receptivity]]",
+        "line_number": 217,
+        "section": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "context_line": "Report 01 established that genuine inquiry begins with [[aporic receptivity]] — the cultivated willingness to dwell productively in confusion rather than resolving it prematurely. This report reveals the epistemological foundation beneath that psychological capacity. Aporic receptivity is not merely a psychological skill; it is the affective and behavioral expression of a fallibilist orientation toward one's own knowledge. One can be receptive to aporia only if one holds one's current beliefs as revisable in principle — which is precisely what fallibilism asserts. The two reports are describing the same cognitive achievement at different levels of analysis.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Charles Sanders Peirce",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Charles Sanders Peirce]]",
+        "line_number": 231,
+        "section": "The Pragmatist Revolution in Epistemology",
+        "context_line": "To understand what [[Charles Sanders Peirce]] contributed to epistemology, one must first understand what he was reacting against. The dominant tradition in Western epistemology from Descartes through Kant sought knowledge by beginning with certainty — foundational beliefs that could not be doubted, upon which all other knowledge could be built. The Cartesian method of radical doubt was a strategy for finding those foundations: doubt everything that can be doubted, and what survives is the bedrock of knowledge. This foundationalist ambition saturated both rationalist and empiricist traditions. Whether foundations were located in clear and distinct ideas (Descartes), in sense impressions (Hume), or in the categories of pure reason (Kant), the governing assumption was that knowledge requires an unshakeable starting point.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Pragmatic Maxim",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pragmatic Maxim]]",
+        "line_number": 232,
+        "section": "The Pragmatist Revolution in Epistemology",
+        "context_line": "Peirce rejected this picture at its root. His rejection was not the skeptic's — he did not doubt that knowledge was possible. Rather, he argued that the entire foundationalist project was based on a misdiagnosis of what makes knowledge valuable. Knowledge is not valuable because it is certain. It is valuable because it guides action successfully and enables inquiry to proceed. And inquiry, Peirce insisted, does not require certainty at the foundation; it requires doubt at the edges — genuine, living doubt that motivates the search for better beliefs. This is the insight at the core of his [[Pragmatic Maxim]].",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Peirce's Pragmatic Maxim",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Peirce's Pragmatic Maxim]]",
+        "line_number": 233,
+        "section": "The Pragmatist Revolution in Epistemology",
+        "context_line": "[[Peirce's Pragmatic Maxim]], stated in his landmark 1878 essay \"How to Make Our Ideas Clear,\" holds that \"the whole function of thought is to produce habits of action\" and that to determine the meaning of a conception, one must consider \"what effects, which might conceivably have practical bearings, we conceive the object of our conception to have.\" This sounds like a theory of meaning, and it is — but its epistemological implications are radical. If the meaning of any belief lies in the practical consequences it would produce if acted upon, then the question of whether a belief is true becomes inseparable from the question of whether acting on it succeeds. Truth is not a static correspondence between idea and object; it is a dynamic property of beliefs that prove reliable guides to experience across a range of conditions.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Fallibilism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fallibilism]]",
+        "line_number": 235,
+        "section": "The Pragmatist Revolution in Epistemology",
+        "context_line": "[[Fallibilism]], for Peirce, follows directly from this pragmatist framework. If the meaning of beliefs lies in their practical consequences, and if practical consequences are always open to further experience, then no belief is immune to revision in light of new experiential data. This does not mean that any belief can be revised at will, or that all beliefs are equally uncertain. It means that the possibility of revision is a structural feature of all empirical knowledge, not an unfortunate limitation that careful epistemology can overcome. Uncertainty, in Peirce's striking formulation, is not merely \"an attitude forced on us by unfortunate limitations of human cognition\" but \"a necessary antecedent of all knowledge\" — because actual inquiry, the only source of genuine knowledge, requires genuine doubt to motivate it. A knower who claims certainty has, in a sense, stopped being an inquirer.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "William James",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[William James]]",
+        "line_number": 236,
+        "section": "The Pragmatist Revolution in Epistemology",
+        "context_line": "[[William James]] and [[John Dewey]] extended Peirce's insights in importantly different directions. James shifted the pragmatic criterion from practical consequences to individual experience, arguing that truth is \"what it is better for us to believe\" and that the test of a belief's truth is the satisfaction it brings to the individual's needs. This more subjective strand of pragmatism is vulnerable to the objection that what is satisfying to believe and what guides action successfully can diverge — a recognition that led Peirce to distance himself from Jamesian pragmatism by renaming his own view pragmaticism. Dewey steered toward a more clearly social and instrumental conception, treating knowledge as a form of tool — an instrument for solving the problems that experience poses. His concept of [[warranted assertibility]] replaces the question \"Is this belief true?\" with the more operationally tractable question \"Has this belief been subjected to the kind of inquiry that warrants asserting it?\" These differences matter and the synthesis must not flatten them — but they all operate within a shared commitment to fallibilism and to the practical-consequence test as the driver of belief revision.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "John Dewey",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John Dewey]]",
+        "line_number": 236,
+        "section": "The Pragmatist Revolution in Epistemology",
+        "context_line": "[[William James]] and [[John Dewey]] extended Peirce's insights in importantly different directions. James shifted the pragmatic criterion from practical consequences to individual experience, arguing that truth is \"what it is better for us to believe\" and that the test of a belief's truth is the satisfaction it brings to the individual's needs. This more subjective strand of pragmatism is vulnerable to the objection that what is satisfying to believe and what guides action successfully can diverge — a recognition that led Peirce to distance himself from Jamesian pragmatism by renaming his own view pragmaticism. Dewey steered toward a more clearly social and instrumental conception, treating knowledge as a form of tool — an instrument for solving the problems that experience poses. His concept of [[warranted assertibility]] replaces the question \"Is this belief true?\" with the more operationally tractable question \"Has this belief been subjected to the kind of inquiry that warrants asserting it?\" These differences matter and the synthesis must not flatten them — but they all operate within a shared commitment to fallibilism and to the practical-consequence test as the driver of belief revision.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "warranted assertibility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[warranted assertibility]]",
+        "line_number": 236,
+        "section": "The Pragmatist Revolution in Epistemology",
+        "context_line": "[[William James]] and [[John Dewey]] extended Peirce's insights in importantly different directions. James shifted the pragmatic criterion from practical consequences to individual experience, arguing that truth is \"what it is better for us to believe\" and that the test of a belief's truth is the satisfaction it brings to the individual's needs. This more subjective strand of pragmatism is vulnerable to the objection that what is satisfying to believe and what guides action successfully can diverge — a recognition that led Peirce to distance himself from Jamesian pragmatism by renaming his own view pragmaticism. Dewey steered toward a more clearly social and instrumental conception, treating knowledge as a form of tool — an instrument for solving the problems that experience poses. His concept of [[warranted assertibility]] replaces the question \"Is this belief true?\" with the more operationally tractable question \"Has this belief been subjected to the kind of inquiry that warrants asserting it?\" These differences matter and the synthesis must not flatten them — but they all operate within a shared commitment to fallibilism and to the practical-consequence test as the driver of belief revision.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Fallibilism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fallibilism]]",
+        "line_number": 239,
+        "section": "The Pragmatist Revolution in Epistemology",
+        "context_line": "[[Fallibilism]] is the epistemological thesis that any given belief might be mistaken, regardless of how strongly it is held or how well justified it appears. The fallibilist does not infer from this that skepticism is warranted — that we cannot know anything, or that all beliefs are equally uncertain. Rather, fallibilism holds that the appropriate response to universal revisability is not despair but the cultivation of self-correcting methods of inquiry that can detect and eliminate errors progressively. Peirce's formulation of \"contrite fallibilism\" captures the attitude: humbled by the knowledge that one might be wrong, but not paralyzed, and committed to the method of science as the most reliable error-detecting enterprise humans have devised.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Jean Piaget",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Jean Piaget]]",
+        "line_number": 243,
+        "section": "Constructivism: Knowledge as Built, Not Found",
+        "context_line": "While pragmatism was being developed in the American philosophical tradition, a parallel revolution was occurring in developmental psychology — one that would arrive at structurally similar conclusions through radically different methods. [[Jean Piaget]], trained as a biologist, came to epistemology through the study of how children's understanding of the world develops. His theory, which he called [[genetic epistemology]], is not primarily an educational theory (though it has profound educational implications); it is a theory of how knowledge is constructed over the course of development, and its conclusions are deeply resonant with Peirce's fallibilism even though Piaget arrived at them through empirical rather than philosophical investigation.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "genetic epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[genetic epistemology]]",
+        "line_number": 243,
+        "section": "Constructivism: Knowledge as Built, Not Found",
+        "context_line": "While pragmatism was being developed in the American philosophical tradition, a parallel revolution was occurring in developmental psychology — one that would arrive at structurally similar conclusions through radically different methods. [[Jean Piaget]], trained as a biologist, came to epistemology through the study of how children's understanding of the world develops. His theory, which he called [[genetic epistemology]], is not primarily an educational theory (though it has profound educational implications); it is a theory of how knowledge is constructed over the course of development, and its conclusions are deeply resonant with Peirce's fallibilism even though Piaget arrived at them through empirical rather than philosophical investigation.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "schema",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[schema]]",
+        "line_number": 244,
+        "section": "Constructivism: Knowledge as Built, Not Found",
+        "context_line": "The core of Piaget's account is the concept of the [[schema]] (plural: schemata or schemas) — a mental structure that represents accumulated patterns of experience and that functions as a template for interpreting new experience. A schema is not merely a piece of stored information; it is an active cognitive framework that shapes what can be perceived, understood, and acted upon. An infant develops a grasping schema through repeated experience of grasping objects; a physicist develops schemas for force, mass, and acceleration through years of theoretical and empirical engagement. In both cases, the schema is not a passive record of past experience but an active structure that enables the organism to anticipate, interpret, and respond to new experiences of a similar type.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "assimilation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[assimilation]]",
+        "line_number": 245,
+        "section": "Constructivism: Knowledge as Built, Not Found",
+        "context_line": "Piaget described two fundamental processes through which schemas interact with experience: [[assimilation]] and [[accommodation]]. Assimilation is the process of incorporating new information into an existing schema — interpreting the new in terms of the already-known. A child who has a schema for \"dog\" and encounters a large cat may initially assimilate the cat as a dog, because the cat fits the schema's template. Accommodation is the complementary process: when assimilation fails — when the new experience resists being incorporated into the existing schema because it is too discrepant — the schema itself must change to make the new information intelligible. The child learns that cats are different from dogs; the schema is revised to accommodate this distinction.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "accommodation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[accommodation]]",
+        "line_number": 245,
+        "section": "Constructivism: Knowledge as Built, Not Found",
+        "context_line": "Piaget described two fundamental processes through which schemas interact with experience: [[assimilation]] and [[accommodation]]. Assimilation is the process of incorporating new information into an existing schema — interpreting the new in terms of the already-known. A child who has a schema for \"dog\" and encounters a large cat may initially assimilate the cat as a dog, because the cat fits the schema's template. Accommodation is the complementary process: when assimilation fails — when the new experience resists being incorporated into the existing schema because it is too discrepant — the schema itself must change to make the new information intelligible. The child learns that cats are different from dogs; the schema is revised to accommodate this distinction.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "equilibration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[equilibration]]",
+        "line_number": 246,
+        "section": "Constructivism: Knowledge as Built, Not Found",
+        "context_line": "What Piaget recognized, and what makes his account epistemologically significant far beyond its developmental context, is that accommodation is the engine of learning and knowledge growth. Assimilation enables efficient processing of familiar experience, but it does so by subordinating novelty to the categories of the already-known. Accommodation is where genuinely new understanding is created — where the schema's inadequacy is revealed and a more adequate schema is built in its place. The organism that only assimilates learns nothing new; the organism that only accommodates is overwhelmed by constant revision and achieves no stability. Intellectual growth is the ongoing, dynamic balance of these two processes — what Piaget called [[equilibration]], the tendency toward progressively more adequate and stable schemas through the dialectic of assimilation and accommodation.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Ernst von Glasersfeld",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ernst von Glasersfeld]]",
+        "line_number": 247,
+        "section": "Constructivism: Knowledge as Built, Not Found",
+        "context_line": "[[Ernst von Glasersfeld]] took Piaget's constructivism to its philosophical extreme in developing what he called [[radical constructivism]]. Where Piaget's account still maintains a realist background — schemas are supposed to be more or less adequate representations of an external world — Von Glasersfeld argues that the concept of \"representation of external reality\" is incoherent from within the constructivist framework. We have no access to reality independent of our experience; we have only the experiential constraints that our constructions must satisfy. A schema is not \"more accurate\" than a previous one in the sense of \"better matching reality\"; it is more viable — better at enabling the organism to navigate the constraints imposed by experience without encountering unexpected resistances. Von Glasersfeld replaces the concept of truth (with its realist implications) with the concept of viability (a purely functional criterion): a belief or schema is viable if acting on it does not produce unexpected failure within the organism's experiential domain.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "radical constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[radical constructivism]]",
+        "line_number": 247,
+        "section": "Constructivism: Knowledge as Built, Not Found",
+        "context_line": "[[Ernst von Glasersfeld]] took Piaget's constructivism to its philosophical extreme in developing what he called [[radical constructivism]]. Where Piaget's account still maintains a realist background — schemas are supposed to be more or less adequate representations of an external world — Von Glasersfeld argues that the concept of \"representation of external reality\" is incoherent from within the constructivist framework. We have no access to reality independent of our experience; we have only the experiential constraints that our constructions must satisfy. A schema is not \"more accurate\" than a previous one in the sense of \"better matching reality\"; it is more viable — better at enabling the organism to navigate the constraints imposed by experience without encountering unexpected resistances. Von Glasersfeld replaces the concept of truth (with its realist implications) with the concept of viability (a purely functional criterion): a belief or schema is viable if acting on it does not produce unexpected failure within the organism's experiential domain.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Frederic Bartlett",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Frederic Bartlett]]",
+        "line_number": 248,
+        "section": "Constructivism: Knowledge as Built, Not Found",
+        "context_line": "[[Frederic Bartlett]] contributed a third, more empirical strand to the constructivist picture through his pioneering studies of memory. His 1932 work Remembering challenged the then-dominant \"storehouse\" metaphor of memory — the idea that memories are recorded, stored, and retrieved largely intact. Through his famous \"War of the Ghosts\" experiments, in which participants read and then recalled a Native American folktale unfamiliar to their cultural backgrounds, Bartlett showed that memory is reconstructive: people do not retrieve stored records but actively rebuild memories using their existing schematic structures, systematically distorting the recalled material in the direction of cultural familiarity and schematic expectation. What was strange in the original story was either omitted, normalized, or rationalized; what was culturally familiar was retained and embellished. Memory, Bartlett concluded, is not a photograph but a painting — an active construction shaped by existing knowledge structures.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "David Rumelhart",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[David Rumelhart]]",
+        "line_number": 249,
+        "section": "Constructivism: Knowledge as Built, Not Found",
+        "context_line": "[[David Rumelhart]] gave schema theory its most explicit cognitive science formulation in his 1980 account, \"Schemata: The Building Blocks of Cognition.\" Rumelhart articulated schemas as \"data structures for representing the generic concepts stored in memory\" that operate at all levels of abstraction, from simple perceptual patterns to complex ideological frameworks. His key insight is that schemas are not simply passive storage structures but active interpretive frameworks that function like scientific theories — they generate predictions, they direct attention to schema-relevant information, they can be confirmed or disconfirmed by experience, and they must be revised or replaced when they consistently fail to predict or explain new experience. In Rumelhart's formulation, \"our schemata are our knowledge\": there is no knowledge apart from schematic structure, and knowledge development is schema development.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition]]",
+        "line_number": 252,
+        "section": "Metacognitive Self-Regulation: The Psychological Operationalization",
+        "context_line": "[[Metacognition]] — thinking about one's own thinking — was conceptually distinguished and empirically investigated by [[John Flavell]] in the 1970s and elaborated by [[Gregory Schraw]] and colleagues into the theory of [[metacognitive self-regulation]]. The core distinction is between metacognitive knowledge (what a person knows about their own cognitive processes, strategies, and limitations) and metacognitive regulation (the processes by which a person monitors, controls, and evaluates their own cognitive activity). Regulation includes planning (selecting appropriate strategies before engaging a task), monitoring (tracking comprehension and performance during engagement), and evaluation (assessing the adequacy of one's cognitive processes and outputs after engagement).",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "John Flavell",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John Flavell]]",
+        "line_number": 252,
+        "section": "Metacognitive Self-Regulation: The Psychological Operationalization",
+        "context_line": "[[Metacognition]] — thinking about one's own thinking — was conceptually distinguished and empirically investigated by [[John Flavell]] in the 1970s and elaborated by [[Gregory Schraw]] and colleagues into the theory of [[metacognitive self-regulation]]. The core distinction is between metacognitive knowledge (what a person knows about their own cognitive processes, strategies, and limitations) and metacognitive regulation (the processes by which a person monitors, controls, and evaluates their own cognitive activity). Regulation includes planning (selecting appropriate strategies before engaging a task), monitoring (tracking comprehension and performance during engagement), and evaluation (assessing the adequacy of one's cognitive processes and outputs after engagement).",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Gregory Schraw",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Gregory Schraw]]",
+        "line_number": 252,
+        "section": "Metacognitive Self-Regulation: The Psychological Operationalization",
+        "context_line": "[[Metacognition]] — thinking about one's own thinking — was conceptually distinguished and empirically investigated by [[John Flavell]] in the 1970s and elaborated by [[Gregory Schraw]] and colleagues into the theory of [[metacognitive self-regulation]]. The core distinction is between metacognitive knowledge (what a person knows about their own cognitive processes, strategies, and limitations) and metacognitive regulation (the processes by which a person monitors, controls, and evaluates their own cognitive activity). Regulation includes planning (selecting appropriate strategies before engaging a task), monitoring (tracking comprehension and performance during engagement), and evaluation (assessing the adequacy of one's cognitive processes and outputs after engagement).",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "metacognitive self-regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[metacognitive self-regulation]]",
+        "line_number": 252,
+        "section": "Metacognitive Self-Regulation: The Psychological Operationalization",
+        "context_line": "[[Metacognition]] — thinking about one's own thinking — was conceptually distinguished and empirically investigated by [[John Flavell]] in the 1970s and elaborated by [[Gregory Schraw]] and colleagues into the theory of [[metacognitive self-regulation]]. The core distinction is between metacognitive knowledge (what a person knows about their own cognitive processes, strategies, and limitations) and metacognitive regulation (the processes by which a person monitors, controls, and evaluates their own cognitive activity). Regulation includes planning (selecting appropriate strategies before engaging a task), monitoring (tracking comprehension and performance during engagement), and evaluation (assessing the adequacy of one's cognitive processes and outputs after engagement).",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Metacognitive Self-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Self-Regulation]]",
+        "line_number": 256,
+        "section": "Metacognitive Self-Regulation: The Psychological Operationalization",
+        "context_line": "[[Metacognitive Self-Regulation]] is the capacity to monitor one's own cognitive processes, detect inadequacies or errors in those processes, and deliberately modify them in response. It involves three core sub-processes: planning (selecting cognitive strategies appropriate to a task), monitoring (tracking the adequacy of cognitive processing in real time), and evaluation (assessing the quality of cognitive outputs and processes after the fact). In the context of the examined life, metacognitive self-regulation is not an occasional skill deployed when things go wrong; it is the continuous background process that keeps all cognitive activity self-correcting.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Peirce's Doubt-Inquiry-Belief Cycle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Peirce's Doubt-Inquiry-Belief Cycle]]",
+        "line_number": 276,
+        "section": "The Master Structural Homology: Belief Revision as Accommodation as Self-Regulation",
+        "context_line": "[[Peirce's Doubt-Inquiry-Belief Cycle]], [[Piaget's Perturbation-Accommodation-Equilibration Cycle]], and [[Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle]] are three descriptions of the same underlying cognitive process: the organism's capacity to detect inadequacy in its own cognitive structures and revise them in response. This is not a metaphorical similarity — it is a structural identity. Each tradition describes the mechanism by which a cognitive system remains self-correcting rather than ossifying into rigidity. The examined life, at this level of analysis, is the life of a cognitive system that has made this revision cycle a stable, ongoing feature of its operation.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Piaget's Perturbation-Accommodation-Equilibration Cycle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Piaget's Perturbation-Accommodation-Equilibration Cycle]]",
+        "line_number": 276,
+        "section": "The Master Structural Homology: Belief Revision as Accommodation as Self-Regulation",
+        "context_line": "[[Peirce's Doubt-Inquiry-Belief Cycle]], [[Piaget's Perturbation-Accommodation-Equilibration Cycle]], and [[Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle]] are three descriptions of the same underlying cognitive process: the organism's capacity to detect inadequacy in its own cognitive structures and revise them in response. This is not a metaphorical similarity — it is a structural identity. Each tradition describes the mechanism by which a cognitive system remains self-correcting rather than ossifying into rigidity. The examined life, at this level of analysis, is the life of a cognitive system that has made this revision cycle a stable, ongoing feature of its operation.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle]]",
+        "line_number": 276,
+        "section": "The Master Structural Homology: Belief Revision as Accommodation as Self-Regulation",
+        "context_line": "[[Peirce's Doubt-Inquiry-Belief Cycle]], [[Piaget's Perturbation-Accommodation-Equilibration Cycle]], and [[Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle]] are three descriptions of the same underlying cognitive process: the organism's capacity to detect inadequacy in its own cognitive structures and revise them in response. This is not a metaphorical similarity — it is a structural identity. Each tradition describes the mechanism by which a cognitive system remains self-correcting rather than ossifying into rigidity. The examined life, at this level of analysis, is the life of a cognitive system that has made this revision cycle a stable, ongoing feature of its operation.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Cognitive Load Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Load Theory]]",
+        "line_number": 278,
+        "section": "The Master Structural Homology: Belief Revision as Accommodation as Self-Regulation",
+        "context_line": "The homology deepens when one examines the conditions under which each tradition says revision fails to occur. For Peirce, inquiry fails when the inquirer uses methods of \"tenacity\" (clinging to existing belief regardless of contrary evidence) or \"authority\" (deferring to external authority rather than following the inquiry wherever it leads) rather than the self-correcting method of science. For Piaget, accommodation fails when the perturbation is too large — when the discrepant experience is too far outside the current schema's range for accommodation to occur, a condition Piaget called disequilibration that is not productive but overwhelming. For metacognitive self-regulation theorists, regulation fails when monitoring is absent (the person does not notice the anomaly), when the anomaly is noticed but attributed to external factors rather than internal cognitive processes, or when the cognitive resources required for regulation are unavailable (a phenomenon directly connected to [[Cognitive Load Theory]] as developed in Report 04). In each case, the failure mode involves either the inability to detect the perturbation or the inability/unwillingness to respond to it with genuine revision.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "metacognitive self-regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[metacognitive self-regulation]]",
+        "line_number": 290,
+        "section": "The Master Structural Homology: Belief Revision as Accommodation as Self-Regulation",
+        "context_line": "The resolution lies precisely in [[metacognitive self-regulation]]. The difference between the schema-conservative who fails to notice the accumulating anomalies and the reflective thinker who detects them is not (primarily) a matter of intelligence or information — it is a matter of metacognitive monitoring. The self-regulating thinker maintains a partial observational distance from their own assimilation processes, tracking not only the content of their processing but the success rate of that processing. When the pattern of anomalies reaches a threshold — when the sense that \"something isn't fitting\" becomes persistent — this monitoring process triggers what Piaget would call accommodation and what Peirce would call genuine inquiry. The fallibilist posture, in other words, is operationalized as metacognitive monitoring: the practice of watching one's own assimilation processes with enough detachment to notice when they are failing.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "The Fallibilist-Constructivist Epistemological Posture",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Fallibilist-Constructivist Epistemological Posture]]",
+        "line_number": 298,
+        "section": "The Emergent Insight: Epistemological Posture as Psychological Architecture",
+        "context_line": "[[The Fallibilist-Constructivist Epistemological Posture]] and [[Metacognitive Self-Regulation]] are not parallel but independent achievements. The epistemological posture of treating beliefs as provisional constructions with practical consequences is the philosophical description of what it looks like, from the outside, when the psychological architecture of metacognitive monitoring is functioning well. And the psychological architecture of monitoring-and-revision is the mechanistic implementation of what the philosophical norm of fallibilism prescribes. To develop genuine fallibilism is to develop metacognitive monitoring capacity. To develop robust metacognitive self-regulation is to instantiate the fallibilist posture. These are the same development.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Metacognitive Self-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Self-Regulation]]",
+        "line_number": 298,
+        "section": "The Emergent Insight: Epistemological Posture as Psychological Architecture",
+        "context_line": "[[The Fallibilist-Constructivist Epistemological Posture]] and [[Metacognitive Self-Regulation]] are not parallel but independent achievements. The epistemological posture of treating beliefs as provisional constructions with practical consequences is the philosophical description of what it looks like, from the outside, when the psychological architecture of metacognitive monitoring is functioning well. And the psychological architecture of monitoring-and-revision is the mechanistic implementation of what the philosophical norm of fallibilism prescribes. To develop genuine fallibilism is to develop metacognitive monitoring capacity. To develop robust metacognitive self-regulation is to instantiate the fallibilist posture. These are the same development.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "intellectual humility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[intellectual humility]]",
+        "line_number": 300,
+        "section": "The Emergent Insight: Epistemological Posture as Psychological Architecture",
+        "context_line": "This emergent insight has significant consequences for practice. It suggests that the cultivation of epistemic virtues like [[intellectual humility]] (Report 05) cannot be achieved through philosophical instruction alone — through convincing people that they should hold their beliefs fallibly. People who are convinced of fallibilism at the philosophical level but lack the metacognitive monitoring capacity to implement it in real-time cognitive processing will find their fallibilist commitments overridden by the very assimilation tendencies they intellectually recognize as problematic. Conversely, the cultivation of metacognitive self-regulation through cognitive training that remains philosophically unreflective may produce improved monitoring without the broader motivational commitment to truth-seeking and intellectual honesty that sustains its deployment across contexts and over time. Both dimensions are necessary: the philosophical posture (fallibilism) provides the motivational and normative framework; the psychological mechanism (metacognitive monitoring) provides the operational substrate.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Developmental Staging Model",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Developmental Staging Model]]",
+        "line_number": 325,
+        "section": "Phase IV: The Application — Worked Example and Developmental Implications 🏗️",
+        "context_line": "How does the fallibilist-constructivist architecture develop across the five stages of the series' [[Developmental Staging Model]]?",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "aporic receptivity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[aporic receptivity]]",
+        "line_number": 344,
+        "section": "Phase V: The Synthesis — Emergent Insights, Cross-Report Connections, and Limitations 🔭",
+        "context_line": "Second, the synthesis reveals the cognitive mechanism behind what Report 01 called [[aporic receptivity]] — the cultivated capacity to dwell productively in confusion. The thinker who can remain with genuine perplexity rather than collapsing it prematurely into false certainty is, at the psychological level, a thinker whose metacognitive monitoring is sufficiently active to detect that existing schemas are genuinely inadequate, and whose fallibilist posture is sufficiently robust to allow that inadequacy to remain visible rather than being covered over by defensive assimilation. Aporic receptivity is not a mysterious gift; it is the affective and behavioral expression of a well-functioning fallibilist-constructivist architecture.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "schema",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[schema]]",
+        "line_number": 345,
+        "section": "Phase V: The Synthesis — Emergent Insights, Cross-Report Connections, and Limitations 🔭",
+        "context_line": "Third, and perhaps most significantly for the series as a whole, the synthesis establishes an important connection between epistemology and personal development. If the right epistemic posture (fallibilism) is the philosophical description of a psychological architecture (metacognitive monitoring), then developing as a knower is not merely an intellectual achievement — it is a form of personal transformation. The Stoic tradition understood this: their epistemological and ethical categories were deeply intertwined, because they recognized that how one holds one's beliefs is inseparable from who one is. The synthesis confirms this insight on empirical grounds: the [[schema]] is not merely a cognitive structure but a structure in which self-concept, identity, and professional self-image are embedded. Schema revision is, at some level, self-revision; accommodation is a form of personal change. This is why intellectual development is psychologically demanding in ways that are not fully captured by purely cognitive accounts.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Dewey's Reflective Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dewey's Reflective Thinking]]",
+        "line_number": 348,
+        "section": "Phase V: The Synthesis — Emergent Insights, Cross-Report Connections, and Limitations 🔭",
+        "context_line": "This retroactive enrichment also deepens the concept of [[Dewey's Reflective Thinking]]. Dewey's account of reflective thought as initiated by \"felt difficulty\" can now be understood at two levels: the phenomenological level (the felt difficulty) and the structural level (the detection of schema failure by metacognitive monitoring). The \"felt difficulty\" is how schema perturbation registers in conscious experience. This is not a trivial observation: it means that Dewey's affective account and Piaget's cognitive-structural account are complementary rather than competing descriptions of inquiry initiation.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Zone of Proximal Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Zone of Proximal Development]]",
+        "line_number": 351,
+        "section": "Phase V: The Synthesis — Emergent Insights, Cross-Report Connections, and Limitations 🔭",
+        "context_line": "Report 02 also creates the substrate for Report 04's account of cognitive scaffolding. If knowledge is built through schema accommodation, then the fundamental pedagogical challenge is how to structure learning experiences that produce productive perturbations — experiences that are discrepant enough from existing schemas to trigger accommodation but not so discrepant that they overwhelm the schema's accommodative capacity and produce disequilibration without new understanding. The [[Zone of Proximal Development]] in Report 04 is, from the perspective established here, the zone in which perturbations are optimally calibrated for accommodation.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Intellectual humility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual humility]]",
+        "line_number": 352,
+        "section": "Phase V: The Synthesis — Emergent Insights, Cross-Report Connections, and Limitations 🔭",
+        "context_line": "And Report 02 creates the essential groundwork for Report 05's account of intellectual virtues. Each intellectual virtue can now be understood not only as a philosophical norm but as a cognitive disposition that enables or protects metacognitive monitoring under specific conditions. [[Intellectual humility]] is the disposition to allow perturbations to register rather than being defensively assimilated — the schema-level expression of genuine fallibilism. [[Intellectual courage]] is the disposition to allow accommodation to proceed even when the revised schema conflicts with one's prior commitments, professional identity, or social expectations. These virtues are not decorative moral qualities; they are the dispositional conditions under which metacognitive monitoring can function robustly in the face of its most significant internal adversaries.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Intellectual courage",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual courage]]",
+        "line_number": 352,
+        "section": "Phase V: The Synthesis — Emergent Insights, Cross-Report Connections, and Limitations 🔭",
+        "context_line": "And Report 02 creates the essential groundwork for Report 05's account of intellectual virtues. Each intellectual virtue can now be understood not only as a philosophical norm but as a cognitive disposition that enables or protects metacognitive monitoring under specific conditions. [[Intellectual humility]] is the disposition to allow perturbations to register rather than being defensively assimilated — the schema-level expression of genuine fallibilism. [[Intellectual courage]] is the disposition to allow accommodation to proceed even when the revised schema conflicts with one's prior commitments, professional identity, or social expectations. These virtues are not decorative moral qualities; they are the dispositional conditions under which metacognitive monitoring can function robustly in the face of its most significant internal adversaries.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Pragmatic Maxim",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Pragmatic Maxim]]",
+        "line_number": 376,
+        "section": "Key Term Lexicon 📖",
+        "context_line": "[[Pragmatic Maxim]] (Peirce, 1878): The principle that the meaning of any conception is exhausted by the practical consequences that would follow from acting on it. Epistemologically, this grounds belief-revision in practical consequence: a belief is revised when acting on it produces unexpected results. This is the pragmatist operationalization of the criterion for schema accommodation.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Fallibilism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Fallibilism]]",
+        "line_number": 380,
+        "section": "Key Term Lexicon 📖",
+        "context_line": "[[Fallibilism]] (Peirce; Popper): The thesis that any given belief might be mistaken. Distinguished from skepticism by its constructive character: fallibilism is not the view that knowledge is impossible but the view that the appropriate response to universal revisability is the cultivation of self-correcting methods of inquiry. \"Contrite fallibilism\" — humble about the possibility of error, committed to correction.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Schema Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Schema Theory]]",
+        "line_number": 384,
+        "section": "Key Term Lexicon 📖",
+        "context_line": "[[Schema Theory]] (Bartlett 1932; Piaget; Rumelhart 1980): A mental structure representing accumulated patterns of experience that functions as an active template for interpreting new experience. Schemas operate at all levels of abstraction, are theory-like in their resistance to anomalous data and their generation of predictions, and are revised (accommodated) when experience sufficiently resists assimilation.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Accommodation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Accommodation]]",
+        "line_number": 388,
+        "section": "Key Term Lexicon 📖",
+        "context_line": "[[Accommodation]] (Piaget): The cognitive process by which an existing schema is revised to incorporate experience that resists assimilation. Accommodation is the mechanism of genuine learning — the production of new understanding through schema revision. It occurs when perturbation crosses a threshold of detectability and the schema's inadequacy can no longer be masked by assimilation.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Viability",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Viability]]",
+        "line_number": 392,
+        "section": "Key Term Lexicon 📖",
+        "context_line": "[[Viability]] (Von Glasersfeld): The radical constructivist replacement for \"truth\" as an evaluative criterion for beliefs and schemas. A schema is viable if acting on it does not produce unexpected failures in the organism's experiential domain. Viability is the phenomenological face of correspondence — how adequate representation shows up in experience — without requiring appeal to a God's-eye comparison between representation and represented.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Genetic Epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Genetic Epistemology]]",
+        "line_number": 396,
+        "section": "Key Term Lexicon 📖",
+        "context_line": "[[Genetic Epistemology]] (Piaget): The study of how knowledge is constructed over developmental time — how the cognitive structures (schemas, operations) through which humans understand the world develop from infancy through mature reasoning. Genetic epistemology is not primarily concerned with the history of knowledge acquisition but with the mechanism of schema construction and revision through which all knowledge is built.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Metacognitive Self-Regulation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Self-Regulation]]",
+        "line_number": 400,
+        "section": "Key Term Lexicon 📖",
+        "context_line": "[[Metacognitive Self-Regulation]] (Flavell; Schraw): The capacity to monitor one's own cognitive processes (detection of anomalies, breakdowns, and bias), control those processes (strategy selection, attention deployment), and evaluate their quality (assessment of comprehension and output). In the context of the fallibilist-constructivist synthesis, metacognitive monitoring is the psychological mechanism that enables schema perturbation to be detected and accommodation to be triggered.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Bayesian Epistemology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bayesian Epistemology]]",
+        "line_number": 405,
+        "section": "Expansion Topics for PKB Development 🔗",
+        "context_line": "[[Bayesian Epistemology]] (Priority: High) represents the formal probabilistic framework within which fallibilism can be given precise quantitative expression. Where Peirce's fallibilism operates at a qualitative level — beliefs may be mistaken, inquiry should self-correct — Bayesian epistemology provides a mathematical formalism: beliefs are probability distributions over hypotheses, evidence updates those distributions through Bayes' theorem, and rational belief revision is the systematic adjustment of credences in response to evidence. The relationship between Peircean fallibilism and Bayesian epistemology is not identity — there are important differences around the treatment of prior probabilities and the scope of the framework — but the structural parallel is deep. Bayesian epistemology provides the logical core that fallibilism needs to be computationally precise.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Popper's Falsificationism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Popper's Falsificationism]]",
+        "line_number": 406,
+        "section": "Expansion Topics for PKB Development 🔗",
+        "context_line": "[[Popper's Falsificationism]] (Priority: High) extends Peircean fallibilism to the philosophy of science and the theory of knowledge growth. Popper's central insight — that scientific theories cannot be verified (confirmed) but can be falsified (shown to be false) by observation — is a direct application of fallibilist epistemology to the scientific method. His concept of corroboration (theories are not confirmed but survive attempts at refutation) and his theory of knowledge growth through conjectures and refutations (bold hypotheses subjected to severe tests) translate the abstract fallibilist commitment into a specific methodology for collective inquiry. Popper's work connects directly to Report 01's account of inquiry activation — the \"bold conjecture\" that enters the inquiry process is a schema provisional enough to be genuinely tested.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Conceptual Change Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Conceptual Change Theory]]",
+        "line_number": 407,
+        "section": "Expansion Topics for PKB Development 🔗",
+        "context_line": "[[Conceptual Change Theory]] (Priority: Medium) is the educational application of Piaget's accommodation mechanics developed by Posner, Strike, Hewson, and Gertzog (1982). Their analysis of the conditions under which students revise deep, well-entrenched misconceptions — about physical phenomena, mathematical structures, historical causation — identifies four necessary conditions for \"conceptual change\" to occur: the student must be dissatisfied with existing conceptions (perturbation threshold reached), the new conception must be intelligible, plausible, and fruitful. This framework translates the abstract accommodation mechanics of the synthesis into operational guidance for educational practice and connects directly to Report 04's account of scaffolded learning.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Social Constructivism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Social Constructivism]]",
+        "line_number": 408,
+        "section": "Expansion Topics for PKB Development 🔗",
+        "context_line": "[[Social Constructivism]] (Priority: High) represents Vygotsky's essential extension of the Piagetian constructivist account to include the social and linguistic context of knowledge construction. Where Piaget's account is essentially solitary — the individual organism accommodating schemas under the pressure of individual experience — Vygotsky argues that the most important perturbations come not from asocial physical interaction but from dialogue with more knowledgeable others, from engagement with culturally transmitted tools and symbols, and from participation in social practices that structure experience in particular ways. Social constructivism creates the bridge between Report 02's epistemological foundation and Report 12's account of social cognition and distributed epistemic practice.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Coherentism and Foundationalism",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Coherentism and Foundationalism]]",
+        "line_number": 409,
+        "section": "Expansion Topics for PKB Development 🔗",
+        "context_line": "[[Coherentism and Foundationalism]] (Priority: Medium) are the major rival epistemological frameworks against which pragmatism and constructivism define themselves. Foundationalism holds that knowledge requires a non-inferential foundation — basic beliefs that justify all other beliefs without themselves requiring justification. Coherentism holds that beliefs are justified by their coherence with other beliefs in a web of mutual support rather than by grounding in privileged foundations. Understanding these frameworks is necessary for appreciating the full force of the pragmatist-constructivist critique: both rival frameworks assume a static, correspondence-based picture of truth that pragmatism rejects, and both fail to account adequately for how knowledge actually develops through time — the problem that genetic epistemology directly addresses.",
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "target": "Intellectual Virtues",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intellectual Virtues]]",
+        "line_number": 410,
+        "section": "Expansion Topics for PKB Development 🔗",
+        "context_line": "[[Intellectual Virtues]] (Priority: Critical) are the dispositional conditions under which the fallibilist-constructivist architecture operates reliably. This topic connects Report 02 to Report 05 and should be developed in that context, but the groundwork is laid here: intellectual humility (allowing perturbations to register), intellectual courage (allowing accommodation to proceed when it is threatening), and intellectual integrity (maintaining the pragmatic-consequences standard against motivated reasoning) are all names for dispositional conditions that protect and sustain metacognitive monitoring against its most powerful internal adversaries. Understanding them as such — as cognitive protections rather than merely as moral qualities — is the Report 05 synthesis.",
+        "source": "report-02-the-fallible-knower.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "The Fallible Knower: Epistemology, Pragmatism, and the Constructivist Stance",
+        "anchor": "the-fallible-knower-epistemology-pragmatism-and-the-constructivist-stance",
+        "line_number": 198,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: The Premise — The Problem of the Knowing Subject 🔑",
+        "anchor": "phase-i-the-premise-the-problem-of-the-knowing-subject",
+        "line_number": 202,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: The Exposition — Five Frameworks and Their Convergence 📚",
+        "anchor": "phase-ii-the-exposition-five-frameworks-and-their-convergence",
+        "line_number": 224,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 3,
+        "text": "The Pragmatist Revolution in Epistemology",
+        "anchor": "the-pragmatist-revolution-in-epistemology",
+        "line_number": 229,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 3,
+        "text": "Constructivism: Knowledge as Built, Not Found",
+        "anchor": "constructivism-knowledge-as-built-not-found",
+        "line_number": 241,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 3,
+        "text": "Metacognitive Self-Regulation: The Psychological Operationalization",
+        "anchor": "metacognitive-self-regulation-the-psychological-operationalization",
+        "line_number": 250,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: The Dialectic — Structural Homology, Tensions, and Synthesis ⚖️",
+        "anchor": "phase-iii-the-dialectic-structural-homology-tensions-and-synthesis",
+        "line_number": 263,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 3,
+        "text": "The Master Structural Homology: Belief Revision as Accommodation as Self-Regulation",
+        "anchor": "the-master-structural-homology-belief-revision-as-accommodation-as-self-regulation",
+        "line_number": 268,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 3,
+        "text": "The Emergent Insight: Epistemological Posture as Psychological Architecture",
+        "anchor": "the-emergent-insight-epistemological-posture-as-psychological-architecture",
+        "line_number": 292,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: The Application — Worked Example and Developmental Implications 🏗️",
+        "anchor": "phase-iv-the-application-worked-example-and-developmental-implications",
+        "line_number": 306,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: The Synthesis — Emergent Insights, Cross-Report Connections, and Limitations 🔭",
+        "anchor": "phase-v-the-synthesis-emergent-insights-cross-report-connections-and-limitations",
+        "line_number": 336,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Appendix — Lexicon, References, and Expansion Topics 📎",
+        "anchor": "phase-vi-appendix-lexicon-references-and-expansion-topics",
+        "line_number": 371,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 3,
+        "text": "Key Term Lexicon 📖",
+        "anchor": "key-term-lexicon",
+        "line_number": 373,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 3,
+        "text": "Expansion Topics for PKB Development 🔗",
+        "anchor": "expansion-topics-for-pkb-development",
+        "line_number": 403,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "level": 3,
+        "text": "References 📚",
+        "anchor": "references",
+        "line_number": 412,
+        "source": "report-02-the-fallible-knower.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [
+      {
+        "display_text": "https://plato.stanford.edu/archives/win2025/entries/pragmatism/.",
+        "url": "https://plato.stanford.edu/archives/win2025/entries/pragmatism/.",
+        "format": "bare",
+        "line_number": 419,
+        "source": "report-02-the-fallible-knower.md"
+      },
+      {
+        "display_text": "https://doi.org/10.1515/css-2024-2023.",
+        "url": "https://doi.org/10.1515/css-2024-2023.",
+        "format": "bare",
+        "line_number": 427,
+        "source": "report-02-the-fallible-knower.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Accommodation",
+      "Bayesian Epistemology",
+      "Charles Sanders Peirce",
+      "Cognitive Load Theory",
+      "Coherentism and Foundationalism",
+      "Conceptual Change Theory",
+      "Constructivist Stance",
+      "David Rumelhart",
+      "Developmental Staging Model",
+      "Dewey's Reflective Thinking",
+      "Ernst von Glasersfeld",
+      "Fallibilism",
+      "Fallibilist-Constructivist Epistemological Posture",
+      "Frederic Bartlett",
+      "Genetic Epistemology",
+      "Gregory Schraw",
+      "Intellectual Virtues",
+      "Intellectual courage",
+      "Intellectual humility",
+      "Jean Piaget",
+      "John Dewey",
+      "John Flavell",
+      "Metacognition",
+      "Metacognitive Self-Regulation",
+      "Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle",
+      "Peirce's Doubt-Inquiry-Belief Cycle",
+      "Peirce's Pragmatic Maxim",
+      "Piaget's Perturbation-Accommodation-Equilibration Cycle",
+      "Popper's Falsificationism",
+      "Pragmatic Maxim",
+      "Schema Theory",
+      "Social Constructivism",
+      "The Fallibilist-Constructivist Epistemological Posture",
+      "Viability",
+      "William James",
+      "Zone of Proximal Development",
+      "accommodation",
+      "aporic receptivity",
+      "assimilation",
+      "belief perseverance",
+      "confirmation bias",
+      "equilibration",
+      "fallibilism",
+      "genetic epistemology",
+      "intellectual humility",
+      "metacognitive self-regulation",
+      "radical constructivism",
+      "schema",
+      "warranted assertibility"
+    ],
+    "unique_wiki_link_count": 49,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "prerequisites": [
+        "[[Introduction to Epistemology]]",
+        "[[Cognitive Psychology Foundations]]",
+        "[[Report 01 — The Inquiry Engine]]"
+      ],
+      "related": [
+        "[[Pragmatism]]",
+        "[[Constructivism (Educational Psychology)]]",
+        "[[Schema Theory]]",
+        "[[Metacognitive Self-Regulation]]",
+        "[[Intellectual Humility]]",
+        "[[Belief Revision]]",
+        "[[Cognitive Bias]]",
+        "[[Dual Process Theory]]"
+      ],
+      "broader": [
+        "[[Philosophy of Mind]]",
+        "[[Epistemology]]",
+        "[[Educational Psychology]]",
+        "[[Cognitive Science]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Accommodation",
+      "Bayesian Epistemology",
+      "Charles Sanders Peirce",
+      "Cognitive Load Theory",
+      "Coherentism and Foundationalism",
+      "Conceptual Change Theory",
+      "Constructivist Stance",
+      "David Rumelhart",
+      "Developmental Staging Model",
+      "Dewey's Reflective Thinking",
+      "Ernst von Glasersfeld",
+      "Fallibilism",
+      "Fallibilist-Constructivist Epistemological Posture",
+      "Frederic Bartlett",
+      "Genetic Epistemology",
+      "Gregory Schraw",
+      "Intellectual Virtues",
+      "Intellectual courage",
+      "Intellectual humility",
+      "Jean Piaget",
+      "John Dewey",
+      "John Flavell",
+      "Metacognition",
+      "Metacognitive Self-Regulation",
+      "Metacognitive Self-Regulation's Monitor-Detect-Regulate Cycle",
+      "Peirce's Doubt-Inquiry-Belief Cycle",
+      "Peirce's Pragmatic Maxim",
+      "Piaget's Perturbation-Accommodation-Equilibration Cycle",
+      "Popper's Falsificationism",
+      "Pragmatic Maxim",
+      "Schema Theory",
+      "Social Constructivism",
+      "The Fallibilist-Constructivist Epistemological Posture",
+      "Viability",
+      "William James",
+      "Zone of Proximal Development",
+      "accommodation",
+      "aporic receptivity",
+      "assimilation",
+      "belief perseverance",
+      "confirmation bias",
+      "equilibration",
+      "fallibilism",
+      "genetic epistemology",
+      "intellectual humility",
+      "metacognitive self-regulation",
+      "radical constructivism",
+      "schema",
+      "warranted assertibility"
+    ]
+  }
+}

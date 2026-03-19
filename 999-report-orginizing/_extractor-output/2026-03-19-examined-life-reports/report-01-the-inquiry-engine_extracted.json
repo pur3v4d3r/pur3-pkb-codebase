@@ -1,0 +1,1866 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-19T02:45:12.313802",
+    "source_file": "report-01-the-inquiry-engine.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-architecture-of-the-examined-life-project\\pkb-build\\examined-life-pkb\\the-architecture-of-the-examined-life\\01-reports\\tier-1-epistemic\\report-01-the-inquiry-engine.md",
+    "source_file_size_bytes": 80368,
+    "processing_time_seconds": 0.024
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "The Inquiry Engine: How Reflective Thought Is Activated",
+      "aliases": [
+        "Report 01 — The Inquiry Engine",
+        "Inquiry Activation Synthesis",
+        "Dewey Socrates Dual Process Integration",
+        "Architecture of the Examined Life — Report 01"
+      ],
+      "type": "permanent-note",
+      "status": "evergreen",
+      "confidence": "high",
+      "tags": [
+        "content/synthesis-report",
+        "domain/cognitive-science",
+        "domain/philosophy",
+        "domain/educational-psychology",
+        "framework/dewey-reflective-thinking",
+        "framework/socratic-method",
+        "framework/dual-process-theory",
+        "framework/metacognitive-monitoring",
+        "series/architecture-of-the-examined-life",
+        "tier/epistemic-architecture",
+        "status/evergreen",
+        "depth/comprehensive"
+      ],
+      "domain": "epistemic-cognition",
+      "subdomains": [
+        "inquiry-activation",
+        "metacognitive-monitoring",
+        "reflective-thinking",
+        "dual-process-cognition",
+        "epistemic-motivation"
+      ],
+      "created": "2026-02-27",
+      "updated": "2026-02-27",
+      "source-type": "academic-synthesis",
+      "research-base": "empirical-studies",
+      "evidence-quality": "high",
+      "series": "The Architecture of the Examined Life",
+      "series-report-number": "01",
+      "tier": "1",
+      "tier-name": "Epistemic Architecture",
+      "synthesis-moves-applied": [
+        "structural-homology-identification",
+        "conceptual-tension-resolution",
+        "emergent-concept-generation",
+        "cross-framework-convergence-argument"
+      ],
+      "frameworks-synthesized": [
+        "Dewey's Reflective Thinking (How We Think, 1910/1933)",
+        "Socratic Method and Elenchus (Vlastos reconstruction)",
+        "Dual Process Theory (Kahneman, Stanovich, Evans)",
+        "Metacognitive Monitoring (Flavell 1979; Fleming et al. 2024)",
+        "Epistemic Curiosity and Information Gap Theory (Loewenstein 1994; Metcalfe 2020)",
+        "Actively Open-Minded Thinking (Stanovich & West 1997)"
+      ],
+      "key-researchers": [
+        "John Dewey: Pragmatist philosopher; foundational theory of reflective thinking",
+        "Socrates/Plato: Philosophical origin of elenctic inquiry and aporia",
+        "Gregory Vlastos: 20th-century analytical reconstruction of Socratic method",
+        "Daniel Kahneman: Dual Process Theory; System 1/System 2 architecture",
+        "Keith Stanovich: Actively Open-Minded Thinking; individual differences in rationality",
+        "John Flavell: Founding theorist of metacognition and metacognitive monitoring",
+        "Wim De Neys: Conflict monitoring and the detection paradox",
+        "Janet Metcalfe: Metacognitive feelings; Region of Proximal Learning",
+        "George Loewenstein: Information Gap Theory of curiosity"
+      ],
+      "word-count": "~10,500",
+      "complexity-level": "advanced-practitioner",
+      "depth-level": "comprehensive",
+      "treatment-type": "synthesis-focused",
+      "central-synthesis-argument": "Dewey's felt difficulty, Socratic aporia, conflict-monitoring-triggered System 2 activation, and metacognitive feeling-of-not-knowing are four descriptions of the same underlying cognitive event — the disruption of automated processing by an expectation-reality mismatch — and this convergence reveals that inquiry activation is a unified psychological mechanism across philosophical and scientific traditions.",
+      "emergent-insight": "Aporic Receptivity — the cultivated disposition to welcome, dwell productively in, and act from states of productive uncertainty — is the meta-disposition prerequisite to all genuine inquiry, synthesizing the dispositional requirements named across all four frameworks.",
+      "core-tensions": [
+        "Why is inquiry effortful if it is beneficial? (Resolved via evolutionary mismatch between System 1 adaptive efficiency and modern accuracy demands)",
+        "Is Socratic aporia a destination or a launching pad? (Resolved as sequential stages: wisdom-in-ignorance AND inquiry-activation)",
+        "Can Dewey's pragmatist account and Plato's rationalist account genuinely converge? (Resolved via structural homology at the level of cognitive mechanism)"
+      ],
+      "series-connections": {
+        "builds-from": [
+          "Series foundation — no prior reports. Grounds all subsequent reports."
+        ],
+        "enables": [
+          "Report 02: The epistemological posture presupposes the activation mechanism described here",
+          "Report 03: Intrinsic motivation must sustain what this report shows is costly to activate",
+          "Report 06: System 1 governance is the practical continuation of this report's theoretical account",
+          "Report 13: Felt difficulty = prediction error in the predictive processing synthesis"
+        ],
+        "retroactively-enriches": [
+          "As Report 01, this report is the retroactive ground for all subsequent reports"
+        ]
+      },
+      "prerequisites": [
+        "[[Cognitive Psychology Foundations]]",
+        "[[Philosophy of Mind Basics]]",
+        "[[Introduction to Epistemology]]"
+      ],
+      "related": [
+        "[[Metacognition]]",
+        "[[Dual Process Theory]]",
+        "[[Cognitive Bias]]",
+        "[[Epistemic Virtues]]",
+        "[[Self-Regulated Learning]]",
+        "[[Pragmatism]]",
+        "[[Socratic Method]]",
+        "[[Growth Mindset]]"
+      ],
+      "broader": [
+        "[[Philosophy of Education]]",
+        "[[Cognitive Science]]",
+        "[[Applied Epistemology]]"
+      ],
+      "expansion-topics": [
+        {
+          "topic": "[[Epistemic Curiosity and the Information Gap]]",
+          "description": "Deep dive into Loewenstein's theory and the neuroscience of curiosity; reward circuitry, optimal uncertainty zones, and practical cultivation strategies",
+          "priority": "high"
+        },
+        {
+          "topic": "[[Conflict Monitoring and Error Correction Mechanisms]]",
+          "description": "De Neys's research on how System 1/System 2 conflict is detected; the bootstrap problem and contemporary solutions",
+          "priority": "high"
+        },
+        {
+          "topic": "[[Productive Failure in Learning]]",
+          "description": "Kapur's research on how allowing students to fail before instruction enhances deeper conceptual learning; aporia engineered pedagogically",
+          "priority": "medium"
+        },
+        {
+          "topic": "[[The Meno Paradox in Educational Theory]]",
+          "description": "Plato's original paradox of inquiry and its contemporary relevance for constructivist learning theory",
+          "priority": "medium"
+        },
+        {
+          "topic": "[[Inquiry-Based Learning Design]]",
+          "description": "Pedagogical frameworks derived from Dewey's reflective thinking model; design principles for activating and sustaining inquiry in educational contexts",
+          "priority": "high"
+        },
+        {
+          "topic": "[[Actively Open-Minded Thinking — Assessment and Development]]",
+          "description": "Stanovich's AOT scale; empirical correlates; intervention research for developing the dispositional foundation of inquiry",
+          "priority": "medium"
+        }
+      ],
+      "empirical-support": [
+        "Kahneman (2011): Dual Process Theory — extensive empirical support from heuristics and biases research",
+        "Flavell (1979): Metacognitive monitoring — foundational empirical studies on developmental trajectory",
+        "Stanovich & West (1997, 2007): AOT — validated psychometric instrument with robust empirical correlates",
+        "Loewenstein (1994): Information Gap Theory — empirical studies on curiosity and information seeking",
+        "De Neys (2012): Conflict monitoring — neuroscientific and behavioral evidence",
+        "Metcalfe & Schwartz (2020): Region of Proximal Learning — empirical studies on metacognitive feelings and learning"
+      ],
+      "limitations-noted": [
+        "The structural homology claim is theoretically compelling but lacks direct empirical validation as a unification claim across all four frameworks simultaneously",
+        "Aporic Receptivity is a novel integrative construct requiring independent empirical operationalization",
+        "The Socratic method's historical reconstruction via Vlastos has been contested by Scott (2002) and others who question whether Socrates had a single unified method",
+        "Individual differences in AOT and conflict monitoring capacity are substantial; the report's claims about activation mechanisms should not obscure large variance in natural dispositions"
+      ],
+      "sections": [
+        "Phase I: The Premise — The Paradox at the Heart of Inquiry",
+        "Phase II: The Exposition — Four Accounts of One Activation",
+        "Phase III: The Dialectic — Convergence, Tensions, and Resolution",
+        "Phase IV: The Application — Aporic Receptivity in Practice",
+        "Phase V: The Synthesis — Emergent Insights and Series Connections",
+        "Phase VI: Appendix — Lexicon, References, and Expansion Topics"
+      ]
+    },
+    "word_count": 9697,
+    "character_count": 67742,
+    "line_count": 340,
+    "heading_count": 24
+  },
+  "extraction_summary": {
+    "total_items_extracted": 146,
+    "by_type": {
+      "headings": 24,
+      "callouts": 54,
+      "wiki_links": 48,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 14,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 5,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 1
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "The Inquiry Engine: How Reflective Thought Is Activated",
+      "anchor": "the-inquiry-engine-how-reflective-thought-is-activated",
+      "line_number": 188,
+      "source": "report-01-the-inquiry-engine.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥",
+          "anchor": "phase-i-the-premise-the-paradox-at-the-heart-of-inquiry",
+          "line_number": 195,
+          "source": "report-01-the-inquiry-engine.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase II: The Exposition — Four Accounts of One Activation 📚",
+          "anchor": "phase-ii-the-exposition-four-accounts-of-one-activation",
+          "line_number": 213,
+          "source": "report-01-the-inquiry-engine.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. John Dewey and the Logic of Felt Difficulty",
+              "anchor": "a-john-dewey-and-the-logic-of-felt-difficulty",
+              "line_number": 218,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. The Socratic Method: Elenchus, Aporia, and the Torpedo Fish",
+              "anchor": "b-the-socratic-method-elenchus-aporia-and-the-torpedo-fish",
+              "line_number": 236,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+              "anchor": "c-dual-process-theory-the-cognitive-science-of-activation-costs",
+              "line_number": 255,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing",
+              "anchor": "d-metacognitive-monitoring-the-architecture-of-knowing-about-knowing",
+              "line_number": 276,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase III: The Dialectic — Convergence, Tensions, and Resolution ⚗️",
+          "anchor": "phase-iii-the-dialectic-convergence-tensions-and-resolution",
+          "line_number": 294,
+          "source": "report-01-the-inquiry-engine.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Structural Homology: One Mechanism, Four Languages",
+              "anchor": "the-structural-homology-one-mechanism-four-languages",
+              "line_number": 298,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "First Tension: Why Is Inquiry Effortful If It Is Beneficial?",
+              "anchor": "first-tension-why-is-inquiry-effortful-if-it-is-beneficial",
+              "line_number": 314,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Second Tension: Is Aporia a Destination or a Launching Pad?",
+              "anchor": "second-tension-is-aporia-a-destination-or-a-launching-pad",
+              "line_number": 327,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: The Application — Aporic Receptivity in Practice 🔧",
+          "anchor": "phase-iv-the-application-aporic-receptivity-in-practice",
+          "line_number": 340,
+          "source": "report-01-the-inquiry-engine.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Emergent Insight: Aporic Receptivity",
+              "anchor": "the-emergent-insight-aporic-receptivity",
+              "line_number": 344,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Worked Example: The Climate Policy Encounter",
+              "anchor": "worked-example-the-climate-policy-encounter",
+              "line_number": 360,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Developmental Implications: The Five Stages of Aporic Receptivity",
+              "anchor": "developmental-implications-the-five-stages-of-aporic-receptivity",
+              "line_number": 375,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: The Synthesis — Emergent Insights and Series Connections 🔭",
+          "anchor": "phase-v-the-synthesis-emergent-insights-and-series-connections",
+          "line_number": 387,
+          "source": "report-01-the-inquiry-engine.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Primary Emergent Insight: Inquiry Activation as a Single Mechanism",
+              "anchor": "the-primary-emergent-insight-inquiry-activation-as-a-single-mechanism",
+              "line_number": 391,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Retroactive Enrichment of Prior Reports",
+              "anchor": "retroactive-enrichment-of-prior-reports",
+              "line_number": 400,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Honest Assessment of Limitations",
+              "anchor": "honest-assessment-of-limitations",
+              "line_number": 404,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Appendix — Lexicon, References, and Expansion Topics 📎",
+          "anchor": "phase-vi-appendix-lexicon-references-and-expansion-topics",
+          "line_number": 417,
+          "source": "report-01-the-inquiry-engine.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Lexicon of Key Terms",
+              "anchor": "lexicon-of-key-terms",
+              "line_number": 419,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "References",
+              "anchor": "references",
+              "line_number": 453,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Methodology and Sources Note",
+              "anchor": "methodology-and-sources-note",
+              "line_number": 493,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Expansion Topics for PKB Development",
+              "anchor": "expansion-topics-for-pkb-development",
+              "line_number": 500,
+              "source": "report-01-the-inquiry-engine.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "question",
+        "title": "The Central Question of Report 01",
+        "body": "What cognitive event transforms a person from a passive processor of information into an active inquirer — and do the radically different accounts offered by pragmatist philosophy, ancient dialectics, and modern cognitive science describe the *same* underlying mechanism?",
+        "line_number": 197,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 9946,
+        "char_end": 10272
+      },
+      {
+        "type": "principle-point",
+        "title": "The Foundational Principle of This Report",
+        "body": "Inquiry activation is not a choice made in the abstract but a cognitive event triggered by specific conditions. The examined life is not the life of someone who *decides* to think carefully; it is the life of someone who has cultivated the conditions under which genuine inquiry is reliably activated and sustained. Understanding the mechanism is prerequisite to cultivating the practice.",
+        "line_number": 208,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 13574,
+        "char_end": 14032
+      },
+      {
+        "type": "question",
+        "title": "What does each framework contribute to understanding inquiry activation?",
+        "body": "Before the synthesis can proceed, each account must be understood on its own terms. The structural homology will be more compelling — and the tensions more genuinely productive — if the reader first encounters each framework in its own terms, with its own vocabulary and its own explanatory ambitions.",
+        "line_number": 215,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 14103,
+        "char_end": 14498
+      },
+      {
+        "type": "definition",
+        "title": "Felt Difficulty (Dewey)",
+        "body": "The organismic experience of encountering a situation that existing habits, patterns, and expectations cannot handle smoothly — a lived sense of friction, interruption, or perplexity that serves as the initial trigger for reflective thinking. Distinguished from abstract logical problems by its essentially embodied, affective character.",
+        "line_number": 226,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 16829,
+        "char_end": 17213
+      },
+      {
+        "type": "insight",
+        "title": "Dewey's Account of Habit and Inquiry",
+        "body": "The relationship between habit and reflective thinking in Dewey is not opposition but complementarity. Habits are the foundation of competent action, and thinking is activated precisely when habits reach their limits. This means that *the more sophisticated one's habits become, the more precisely they can identify the novel situations that require reflection.* Expert thinkers are not people who think more; they are people whose finely-tuned habits more accurately detect when thinking is needed.",
+        "line_number": 233,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 18770,
+        "char_end": 19326
+      },
+      {
+        "type": "definition",
+        "title": "Elenchus (Greek: ἔλεγχος)",
+        "body": "The Socratic procedure of cross-examination: eliciting an interlocutor's thesis, securing agreement to premises the interlocutor considers plausible, and demonstrating that the premises contradict the thesis. The process aims not at teaching correct answers but at exposing the internal inconsistency of confident but unexamined beliefs.",
+        "line_number": 242,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 21215,
+        "char_end": 21601
+      },
+      {
+        "type": "definition",
+        "title": "Aporia (Greek: ἀπορία)",
+        "body": "Literally \"without a path\" — the state of intellectual impasse produced by the elenchus. The experience of knowing that one's previous confident belief was unjustified, without yet having a replacement belief. Distinguished from simple ignorance by its productive character: the aporetc state, properly experienced, activates rather than terminates inquiry.",
+        "line_number": 245,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 21602,
+        "char_end": 22005
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Reflecting on Your Own Aporic States",
+        "body": "When did you last hold a belief with genuine confidence, then encounter evidence or argument that revealed it to be more fragile than you thought? What was your first response — genuine curiosity, discomfort, or defensiveness? That response pattern reveals a great deal about your current level of aporic receptivity.",
+        "line_number": 252,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 23503,
+        "char_end": 23887
+      },
+      {
+        "type": "definition",
+        "title": "System 1 (Kahneman)",
+        "body": "Fast, automatic, effortless, emotionally driven cognitive processing that operates largely outside conscious awareness. Produces intuitions, impressions, and rapid judgments based on pattern recognition. Default mode of human cognition.",
+        "line_number": 261,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 25235,
+        "char_end": 25514
+      },
+      {
+        "type": "definition",
+        "title": "System 2 (Kahneman)",
+        "body": "Slow, deliberate, effortful cognitive processing that requires conscious attention and intentional control. Handles novel problems, logical analysis, and the monitoring and evaluation of System 1 outputs. Non-default: activated by specific triggers and sustained at cognitive cost.",
+        "line_number": 264,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 25515,
+        "char_end": 25839
+      },
+      {
+        "type": "connection-ideas",
+        "title": "The Conflict Monitoring Paradox and Socratic Aporia",
+        "body": "De Neys's conflict monitoring research illuminates something important about why Socratic method worked: by using dialogue and explicit argumentation, Socrates externalized the conflict-detection process. Rather than relying on the interlocutor's internal conflict monitoring to fire (unreliable, as the bat-and-ball research shows), Socrates created an external structure that made the conflict unavoidable and visible. The elenchus is, in effect, a technology for reliably triggering conflict monitoring in situations where internal monitoring has failed.",
+        "line_number": 271,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 27481,
+        "char_end": 28119
+      },
+      {
+        "type": "definition",
+        "title": "Metacognitive Monitoring (Flavell)",
+        "body": "The ongoing, local evaluation of one's own cognitive processing — the tracking of how well one understands, what one knows and doesn't know, and where one's reasoning may be going wrong. Distinguished from metacognitive knowledge (stored beliefs about cognition in general) by its situated, context-specific, and affectively tinged character.",
+        "line_number": 282,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 30615,
+        "char_end": 31015
+      },
+      {
+        "type": "insight",
+        "title": "The Region of Proximal Learning and Inquiry Activation",
+        "body": "Metcalfe's research connects the metacognitive account to the motivational account of inquiry: curiosity, understood as a metacognitive feeling, is maximized precisely in the region of moderate uncertainty. This means that inquiry is most easily activated not at the extremes — not when someone knows nothing at all, and not when they are already confident — but at the edge of competence. This insight will recur in Report 04's treatment of the Zone of Proximal Development, where the same principle is found independently in developmental theory.",
+        "line_number": 289,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 32754,
+        "char_end": 33377
+      },
+      {
+        "type": "question",
+        "title": "Can four such different frameworks genuinely describe the same underlying mechanism — and if so, what tensions must be resolved before the synthesis can hold?",
+        "body": "",
+        "line_number": 296,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 33455,
+        "char_end": 33632
+      },
+      {
+        "type": "principle-point",
+        "title": "The Structural Homology Thesis",
+        "body": "Dewey's \"felt difficulty,\" Socratic aporia, the conflict-monitoring trigger for System 2 activation, and the metacognitive feeling-of-not-knowing are four descriptions, in four different disciplinary vocabularies, of the same underlying cognitive event: the disruption of automated processing by an expectation-reality mismatch that generates a signal activating more deliberate inquiry.",
+        "line_number": 304,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 35034,
+        "char_end": 35480
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Methodological Note on the Homology Claim",
+        "body": "The claim that these four frameworks describe the same underlying mechanism is a theoretical synthesis claim, not an empirical finding. Each framework is independently well-supported by empirical research. The homology claim is the report's original synthesis contribution — it identifies structural isomorphism across frameworks and argues that this isomorphism is best explained by shared reference to the same underlying cognitive mechanism. This claim is theoretically productive and well-motivated, but it should be held as a hypothesis that awaits direct empirical investigation rather than as an established fact. Future research could directly test whether manipulations that affect one component (e.g., inducing felt difficulty through environmental disruption) produce the predicted effects in the others (e.g., increased System 2 engagement, activated metacognitive monitoring, curiosity signal).",
+        "line_number": 311,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 37068,
+        "char_end": 38053
+      },
+      {
+        "type": "insight",
+        "title": "The Evolutionary Mismatch Resolution",
+        "body": "Understanding that the effort of inquiry reflects evolutionary mismatch rather than laziness or weakness transforms the practical program for cultivating the examined life. The question is not \"why don't people think harder?\" — a question that invites moral censure — but \"what conditions make inquiry activation more reliable despite its evolutionary costs?\" This is a design question rather than a character question, and it has actionable answers: structuring environments, developing dispositions, building practices that reliably trigger and sustain the activation signal.",
+        "line_number": 322,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 40113,
+        "char_end": 40747
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Tracking Your Own Aporetc Cycle",
+        "body": "Think of a belief you currently hold with high confidence — about your profession, your relationships, your values, or the world. Have you recently subjected it to the kind of examination that could produce genuine aporia? What would it take for you to arrive at aporia about this belief? Is the answer \"nothing could produce aporia\" — and if so, does that tell you something about the belief's epistemic status?",
+        "line_number": 335,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 43797,
+        "char_end": 44271
+      },
+      {
+        "type": "question",
+        "title": "What does this synthesis produce that is practically new — and how does it change what the examined life looks like as a lived practice?",
+        "body": "",
+        "line_number": 342,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 44342,
+        "char_end": 44497
+      },
+      {
+        "type": "definition",
+        "title": "Aporic Receptivity",
+        "body": "The cultivated disposition to welcome, sustain, and act from states of productive uncertainty — to treat felt difficulty, epistemic dissonance, conflict monitoring signals, and the feeling of not-knowing as reliable invitations to genuine inquiry rather than as discomforts to be minimized. The meta-disposition that makes all specific inquiry practices possible and sustainable.",
+        "line_number": 350,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 45970,
+        "char_end": 46391
+      },
+      {
+        "type": "principle-point",
+        "title": "The Meta-Dispositional Character of Aporic Receptivity",
+        "body": "Aporic receptivity is not a skill to be deployed situationally but a meta-disposition that shapes how one encounters all cognitive situations. It is the difference between someone who happens to think carefully when disruption arrives and someone for whom the entire mode of cognitive engagement with the world is oriented toward the productive embrace of uncertainty. This is the first, foundational layer of what this series calls the examined life.",
+        "line_number": 357,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 48426,
+        "char_end": 48960
+      },
+      {
+        "type": "example",
+        "title": "The Encounter's Activation Sequence (Annotated)",
+        "body": "The mechanism in action: Marcus's complication produces a mild but real instance of felt difficulty (Deweyan signal). For Elena to engage genuinely, she must not suppress this signal but allow it to generate something close to aporia about her previous certainty — she must be willing, however briefly, to inhabit the \"no-way-forward\" state of not knowing how confident to be in the policy analysis (Socratic moment). This requires System 2 activation against the easier System 1 defensive response (Kahneman mechanism). And her local metacognitive monitoring must be calibrated to identify that her current understanding is less reliable than it felt (Flavellian process). Aporic receptivity is the meta-disposition that allows all four mechanisms to function as they should rather than being suppressed.",
+        "line_number": 372,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 52560,
+        "char_end": 53433
+      },
+      {
+        "type": "question",
+        "title": "What does this synthesis reveal that was not visible in any single framework — and how does it transform the landscape of the series going forward?",
+        "body": "",
+        "line_number": 389,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 56467,
+        "char_end": 56633
+      },
+      {
+        "type": "connection-ideas",
+        "title": "Forward Connection to Report 13",
+        "body": "The four-framework convergence on a disruption-based activation mechanism anticipates one of the most powerful unifications in the series: Report 13's predictive processing synthesis, where the entire framework will be recontextualized through [[Karl Friston]]'s [[Free Energy Principle]]. In predictive processing terms, Dewey's \"felt difficulty\" is a prediction error — the signal generated when the brain's generative model fails to predict incoming sensory or cognitive input. Socratic aporia arises when a belief-model generates predictions (the interlocutor's confident assertions) that are shown to be inconsistent with other beliefs — a particularly high-level form of prediction error. Conflict monitoring is the mechanism by which prediction errors are detected across processing levels. Metacognitive monitoring is prediction error at the level of one's models of one's own cognition. The four frameworks are not merely analogous to predictive processing; they are, in important senses, early philosophical and psychological discoveries of the same underlying mechanism that predictive processing later formalized computationally.",
+        "line_number": 397,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 58088,
+        "char_end": 59290
+      },
+      {
+        "type": "summary",
+        "title": "Phase V Summary — What the Synthesis Establishes",
+        "body": "Report 01 has demonstrated four things: (1) Dewey's felt difficulty, Socratic aporia, System 2 conflict-monitoring activation, and metacognitive feeling-of-not-knowing are structurally homologous descriptions of the same cognitive event; (2) the tension between inquiry's benefits and its costs is resolved by understanding the evolutionary mismatch between System 1's adaptive efficiency and the demands of reflective intelligence in modern environments; (3) aporic receptivity — the cultivated orientation to welcome and act from productive uncertainty — is the meta-dispositional requirement that makes inquiry activation reliable rather than accidental; and (4) this synthesis, while theoretically compelling, contains claims that require independent empirical validation before they can be held with full confidence.",
+        "line_number": 412,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 62577,
+        "char_end": 63467
+      },
+      {
+        "type": "definition",
+        "title": "Felt Difficulty (Dewey)",
+        "body": "The initial, affectively tinged experience of encountering a situation that existing habits cannot handle smoothly. The organismic signal that triggers the transition from habitual action to reflective thinking. Defined by its felt, experiential character as distinct from abstract logical problems.",
+        "line_number": 421,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 63568,
+        "char_end": 63914
+      },
+      {
+        "type": "definition",
+        "title": "Reflective Thinking (Dewey)",
+        "body": "\"Active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it, and the further conclusions to which it tends\" (*How We Think*, 1910). Distinguished from asocial or \"idle\" speculation by its orientation toward the resolution of genuine problems in lived experience.",
+        "line_number": 424,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 63915,
+        "char_end": 64303
+      },
+      {
+        "type": "definition",
+        "title": "Elenchus (Socratic Method)",
+        "body": "The dialectical procedure of cross-examination by which Socrates exposes the internal inconsistency of interlocutors' confident beliefs. Consists in eliciting a thesis, securing agreement to additional premises, and demonstrating that the premises contradict the thesis.",
+        "line_number": 427,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 64304,
+        "char_end": 64624
+      },
+      {
+        "type": "definition",
+        "title": "Aporia",
+        "body": "The state of intellectual impasse produced by the elenchus — literally \"without a path.\" A condition of genuine not-knowing that is simultaneously a form of epistemic achievement (the honest recognition of one's ignorance) and an activator of further inquiry.",
+        "line_number": 430,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 64625,
+        "char_end": 64914
+      },
+      {
+        "type": "definition",
+        "title": "System 1 and System 2 (Kahneman)",
+        "body": "The two processing systems of Dual Process Theory. System 1 is fast, automatic, pattern-based, and effortless — the default cognitive mode. System 2 is slow, deliberate, effortful, and logical — activated by specific triggers against the default. See Report 06 for extended treatment of System 1 governance.",
+        "line_number": 433,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 64915,
+        "char_end": 65278
+      },
+      {
+        "type": "definition",
+        "title": "Conflict Monitoring (De Neys)",
+        "body": "The cognitive mechanism by which inconsistencies between System 1 outputs and more deliberate reasoning are detected, generating a signal that can (but does not always) activate System 2 correction. The neural substrate of what Dewey called felt difficulty and what Socrates produced through elenchus.",
+        "line_number": 436,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 65279,
+        "char_end": 65633
+      },
+      {
+        "type": "definition",
+        "title": "Metacognitive Monitoring (Flavell)",
+        "body": "The ongoing, local evaluation of one's own cognitive processing — the tracking of comprehension, memory retrieval reliability, and reasoning quality as it unfolds. The metacognitive signal most directly relevant to inquiry activation is the \"feeling of not knowing\" — the sense that current understanding is inadequate to the situation.",
+        "line_number": 439,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 65634,
+        "char_end": 66028
+      },
+      {
+        "type": "definition",
+        "title": "Actively Open-Minded Thinking (Stanovich)",
+        "body": "A thinking disposition characterized by willingness to consider alternative views, sensitivity to evidence contrary to current beliefs, practice of postponing closure, and epistemic self-regulation. Predicts the reliable deployment of System 2 thinking independently of raw cognitive capacity.",
+        "line_number": 442,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 66029,
+        "char_end": 66387
+      },
+      {
+        "type": "definition",
+        "title": "Region of Proximal Learning (Metcalfe)",
+        "body": "The motivationally optimal zone of moderate epistemic uncertainty — close enough to understanding that curiosity is activated, far enough from certainty that inquiry is necessary. The psychological sweet spot where learning is most efficiently activated, connecting metacognitive research to Vygotsky's Zone of Proximal Development (see Report 04).",
+        "line_number": 445,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 66388,
+        "char_end": 66798
+      },
+      {
+        "type": "definition",
+        "title": "Aporic Receptivity",
+        "body": "The cultivated meta-disposition to welcome, sustain, and act from states of productive uncertainty. The orientation that transforms the cognitive disruption signals described by all four frameworks from experiences to be minimized into invitations to be followed. The foundational meta-disposition of the examined life as described in this series.",
+        "line_number": 448,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 66799,
+        "char_end": 67188
+      },
+      {
+        "type": "cite",
+        "title": "Dewey, J. (1910, revised 1933). *How We Think*. D.C. Heath and Company.",
+        "body": "The foundational text of Dewey's theory of reflective thinking. The 1933 revision contains the most developed account of felt difficulty, the five stages of reflection, and the relationship between habit and inquiry. Essential reading for any engagement with this report's Deweyan synthesis.",
+        "line_number": 455,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 67210,
+        "char_end": 67590
+      },
+      {
+        "type": "cite",
+        "title": "Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt and Company.",
+        "body": "Dewey's mature philosophical account of inquiry, extending the psychological account of *How We Think* into a full philosophical logic. Contains the most rigorous treatment of indeterminate situations and the transformation of problematic situations through inquiry.",
+        "line_number": 458,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 67591,
+        "char_end": 67948
+      },
+      {
+        "type": "cite",
+        "title": "Vlastos, G. (1983). The Socratic elenchus. *Oxford Studies in Ancient Philosophy*, 1, 27–58.",
+        "body": "The landmark analytical reconstruction of Socratic method. Argues that the elenchus is a systematic procedure with identifiable logical structure, and that Socrates believed it could yield positive knowledge through the elimination of inconsistencies.",
+        "line_number": 461,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 67949,
+        "char_end": 68310
+      },
+      {
+        "type": "cite",
+        "title": "Scott, G.A. (Ed.). (2002). *Does Socrates Have a Method? Rethinking the Elenchus in Plato's Dialogues and Beyond*. Penn State University Press.",
+        "body": "Important critical engagement with Vlastos's reconstruction. Multiple contributors argue that Socrates' argumentative strategies in the dialogues are more diverse and less unified than Vlastos suggests. Recommended for calibrating the strength of the Socratic synthesis claims in this report.",
+        "line_number": 464,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 68311,
+        "char_end": 68764
+      },
+      {
+        "type": "cite",
+        "title": "Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.",
+        "body": "The definitive popular-scholarly synthesis of Dual Process Theory. Books I–III develop the System 1/System 2 distinction and its implications for judgment and decision-making. Chapters on cognitive ease and effort are especially relevant to the inquiry activation account in this report.",
+        "line_number": 467,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 68765,
+        "char_end": 69144
+      },
+      {
+        "type": "cite",
+        "title": "Stanovich, K.E., & West, R.F. (1997). Reasoning independently of prior belief and individual differences in actively open-minded thinking. *Journal of Educational Psychology*, 89(2), 342–357. https://doi.org/10.1037/0022-0663.89.2.342",
+        "body": "Original empirical paper establishing the AOT construct and scale. Demonstrates that individual differences in dispositions toward thinking predict performance on heuristics-and-biases tasks independently of cognitive ability.",
+        "line_number": 470,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 69145,
+        "char_end": 69623
+      },
+      {
+        "type": "cite",
+        "title": "Stanovich, K.E. (2011). *Rationality and the Reflective Mind*. Oxford University Press.",
+        "body": "Stanovich's most comprehensive account of individual differences in rational thinking, including the tripartite mind model (algorithmic, reflective, autonomous) that extends Dual Process Theory to include the dispositional level. Especially relevant to the AOT discussion.",
+        "line_number": 473,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 69624,
+        "char_end": 70001
+      },
+      {
+        "type": "cite",
+        "title": "Flavell, J.H. (1979). Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry. *American Psychologist*, 34(10), 906–911. https://doi.org/10.1037/0003-066X.34.10.906",
+        "body": "The paper that founded metacognition as a research field. Defines the core constructs (metacognitive knowledge, metacognitive experiences, goals, strategies) that remain the framework's foundation. Essential for the metacognitive monitoring synthesis in this report.",
+        "line_number": 476,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 70002,
+        "char_end": 70480
+      },
+      {
+        "type": "cite",
+        "title": "De Neys, W. (2012). Bias and conflict: A case for logical intuitions. *Perspectives on Psychological Science*, 7(1), 28–38. https://doi.org/10.1177/1745691611429354",
+        "body": "Key paper on conflict monitoring in dual-process cognition. Argues that logical intuitions can detect conflicts between System 1 responses and normative standards even when System 2 fails to correct the error. Essential for understanding the activation paradox discussed in Phase III.",
+        "line_number": 479,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 70481,
+        "char_end": 70947
+      },
+      {
+        "type": "cite",
+        "title": "Fleming, S.M., et al. (2024). A unified account of metacognitive monitoring. *Nature Reviews Psychology*, in press.",
+        "body": "Major contemporary review synthesizing local and global metacognition, neural substrates of metacognitive monitoring, and clinical implications of metacognitive dysfunction. Updates Flavell's original framework with contemporary neuroscientific evidence.",
+        "line_number": 482,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 70948,
+        "char_end": 71335
+      },
+      {
+        "type": "cite",
+        "title": "Loewenstein, G. (1994). The psychology of curiosity: A review and reinterpretation. *Psychological Bulletin*, 116(1), 75–98. https://doi.org/10.1037/0033-2909.116.1.75",
+        "body": "The foundational theoretical paper on curiosity as information gap. Synthesizes prior research and proposes the information gap theory that became the dominant psychological account. Essential for the epistemic curiosity section.",
+        "line_number": 485,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 71336,
+        "char_end": 71750
+      },
+      {
+        "type": "cite",
+        "title": "Metcalfe, J., & Schwartz, B.L. (2020). The ghost in the machine: Self-monitoring in a region of proximal learning. *Psychological Review*, 127(6), 1086–1104. https://doi.org/10.1037/rev0000202",
+        "body": "Presents the Region of Proximal Learning framework and situates curiosity as a metacognitive feeling state that maximizes learning in zones of optimal uncertainty. Connects metacognitive research to motivational research on curiosity.",
+        "line_number": 488,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 71751,
+        "char_end": 72195
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "This report synthesizes sources across four distinct intellectual traditions: pragmatist philosophy (Dewey); ancient philosophy and its contemporary analytical reconstruction (Plato, Vlastos, Scott); cognitive science (Kahneman, Stanovich, De Neys); and developmental/educational psychology (Flavell, Fleming, Metcalfe, Loewenstein). All major claims about individual frameworks are supported by direct engagement with the foundational texts and with contemporary empirical research. The cross-framework synthesis claims — particularly the structural homology thesis and the emergent concept of aporic receptivity — go beyond what any individual source establishes; these are the report's original theoretical contributions. They are presented as theoretically well-motivated syntheses that require independent empirical validation rather than as established findings. The report explicitly distinguishes empirically established claims (those supported by cited research) from theoretical integrations (the homology claim) and speculative proposals (aporic receptivity as a novel construct). This distinction is maintained throughout and is summarized in the Limitations section of Phase V.",
+        "line_number": 495,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 72235,
+        "char_end": 73496
+      },
+      {
+        "type": "key",
+        "title": "Expansion Topic 1: [[Epistemic Curiosity and the Information Gap]]** — Priority: HIGH",
+        "body": "Loewenstein's information gap theory provides only the broad architecture. The research program it generated — including neuroscientific work on the curiosity-reward circuitry, empirical studies of the optimal uncertainty zone, and intervention research on curiosity enhancement — is extensive and directly relevant to the cultivation of aporic receptivity. A dedicated note on this topic should explore the neural substrates of curiosity, the role of dopamine and prediction-error signaling, and the practical implications for learning environment design.",
+        "line_number": 502,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 73544,
+        "char_end": 74200
+      },
+      {
+        "type": "key",
+        "title": "Expansion Topic 2: [[Conflict Monitoring and the Bootstrap Problem]]** — Priority: HIGH",
+        "body": "De Neys's work on conflict monitoring raises a profound puzzle: detecting a System 1 error requires engaging something like System 2, but activating System 2 is precisely what conflict monitoring is supposed to trigger. How is this bootstrap problem resolved? This topic explores contemporary solutions, including the role of logical intuitions, the neural signatures of conflict detection, and the developmental trajectory of conflict monitoring capacity.",
+        "line_number": 505,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 74201,
+        "char_end": 74759
+      },
+      {
+        "type": "key",
+        "title": "Expansion Topic 3: [[Productive Failure in Learning (Kapur)]]** — Priority: MEDIUM",
+        "body": "Manu Kapur's research on \"productive failure\" provides an empirical demonstration that allowing learners to struggle with problems before instruction produces deeper conceptual understanding than direct instruction alone. This is a pedagogical embodiment of the aporic receptivity principle: engineered epistemic disruption activates deeper learning. The connection to Dewey's inquiry model and to Vygotsky's ZPD (Report 04) makes this an important expansion node.",
+        "line_number": 508,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 74760,
+        "char_end": 75321
+      },
+      {
+        "type": "key",
+        "title": "Expansion Topic 4: [[The Meno Paradox in Educational Theory]]** — Priority: MEDIUM",
+        "body": "Plato's original formulation of the paradox of inquiry — and his proposed solution through the theory of recollection (anamnesis) — anticipates core questions in contemporary constructivist learning theory. This topic explores how contemporary educational psychology (Piaget's constructivism, Vygotsky's social construction) can be understood as answers to the Meno paradox, and what Plato's solution reveals about the philosophical stakes of inquiry-based education.",
+        "line_number": 511,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 75322,
+        "char_end": 75886
+      },
+      {
+        "type": "key",
+        "title": "Expansion Topic 5: [[Inquiry-Based Learning Design: Principles and Evidence]]** — Priority: HIGH",
+        "body": "Dewey's theory of reflective thinking has generated a substantial tradition of inquiry-based pedagogy, with increasingly rigorous empirical evaluation. This topic should cover the design principles for inquiry-based learning environments, the evidence for their effectiveness relative to direct instruction, and the specific conditions under which inquiry-based approaches are most and least effective — drawing on meta-analytic research from the past decade.",
+        "line_number": 514,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 75887,
+        "char_end": 76457
+      },
+      {
+        "type": "key",
+        "title": "Expansion Topic 6: [[The Actively Open-Minded Thinking Scale: Measurement and Development]]** — Priority: MEDIUM",
+        "body": "Stanovich's AOT scale has been extensively validated and widely used. This expansion topic covers the psychometric properties of the instrument, its correlates (what it predicts and what predicts it), the debate about whether AOT is a unitary construct or a family of related dispositions, and research on interventions that reliably develop it — making the abstract notion of aporic receptivity tractable for practical cultivation.",
+        "line_number": 517,
+        "source": "report-01-the-inquiry-engine.md",
+        "char_start": 76458,
+        "char_end": 77017
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "John Dewey",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John Dewey]]",
+        "line_number": 204,
+        "section": "Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥",
+        "context_line": "This report argues that four intellectual traditions — [[John Dewey]]'s [[Reflective Thinking]], the [[Socratic Method]] as reconstructed by contemporary scholarship, [[Daniel Kahneman]]'s [[Dual Process Theory]], and [[John Flavell]]'s [[Metacognitive Monitoring]] framework — have independently identified the same answer to this question. The answer is not a cognitive skill, a reasoning procedure, or a philosophical technique. It is a *specific kind of cognitive disruption*: an encounter with a situation that the mind's existing patterns cannot smoothly process, generating a recognizable subjective signal of tension, puzzlement, or unease that, under the right conditions, activates a more deliberate, exploratory mode of engagement. Dewey calls this signal the \"felt difficulty.\" Socrates calls the state it induces *aporia*. Cognitive scientists call it conflict monitoring or System 2 activation. Metacognitive researchers call it the \"feeling of not knowing.\" These are not analogies. They are, this report argues, four different disciplinary languages for the same cognitive event.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Reflective Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflective Thinking]]",
+        "line_number": 204,
+        "section": "Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥",
+        "context_line": "This report argues that four intellectual traditions — [[John Dewey]]'s [[Reflective Thinking]], the [[Socratic Method]] as reconstructed by contemporary scholarship, [[Daniel Kahneman]]'s [[Dual Process Theory]], and [[John Flavell]]'s [[Metacognitive Monitoring]] framework — have independently identified the same answer to this question. The answer is not a cognitive skill, a reasoning procedure, or a philosophical technique. It is a *specific kind of cognitive disruption*: an encounter with a situation that the mind's existing patterns cannot smoothly process, generating a recognizable subjective signal of tension, puzzlement, or unease that, under the right conditions, activates a more deliberate, exploratory mode of engagement. Dewey calls this signal the \"felt difficulty.\" Socrates calls the state it induces *aporia*. Cognitive scientists call it conflict monitoring or System 2 activation. Metacognitive researchers call it the \"feeling of not knowing.\" These are not analogies. They are, this report argues, four different disciplinary languages for the same cognitive event.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Socratic Method",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socratic Method]]",
+        "line_number": 204,
+        "section": "Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥",
+        "context_line": "This report argues that four intellectual traditions — [[John Dewey]]'s [[Reflective Thinking]], the [[Socratic Method]] as reconstructed by contemporary scholarship, [[Daniel Kahneman]]'s [[Dual Process Theory]], and [[John Flavell]]'s [[Metacognitive Monitoring]] framework — have independently identified the same answer to this question. The answer is not a cognitive skill, a reasoning procedure, or a philosophical technique. It is a *specific kind of cognitive disruption*: an encounter with a situation that the mind's existing patterns cannot smoothly process, generating a recognizable subjective signal of tension, puzzlement, or unease that, under the right conditions, activates a more deliberate, exploratory mode of engagement. Dewey calls this signal the \"felt difficulty.\" Socrates calls the state it induces *aporia*. Cognitive scientists call it conflict monitoring or System 2 activation. Metacognitive researchers call it the \"feeling of not knowing.\" These are not analogies. They are, this report argues, four different disciplinary languages for the same cognitive event.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Daniel Kahneman",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daniel Kahneman]]",
+        "line_number": 204,
+        "section": "Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥",
+        "context_line": "This report argues that four intellectual traditions — [[John Dewey]]'s [[Reflective Thinking]], the [[Socratic Method]] as reconstructed by contemporary scholarship, [[Daniel Kahneman]]'s [[Dual Process Theory]], and [[John Flavell]]'s [[Metacognitive Monitoring]] framework — have independently identified the same answer to this question. The answer is not a cognitive skill, a reasoning procedure, or a philosophical technique. It is a *specific kind of cognitive disruption*: an encounter with a situation that the mind's existing patterns cannot smoothly process, generating a recognizable subjective signal of tension, puzzlement, or unease that, under the right conditions, activates a more deliberate, exploratory mode of engagement. Dewey calls this signal the \"felt difficulty.\" Socrates calls the state it induces *aporia*. Cognitive scientists call it conflict monitoring or System 2 activation. Metacognitive researchers call it the \"feeling of not knowing.\" These are not analogies. They are, this report argues, four different disciplinary languages for the same cognitive event.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Dual Process Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual Process Theory]]",
+        "line_number": 204,
+        "section": "Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥",
+        "context_line": "This report argues that four intellectual traditions — [[John Dewey]]'s [[Reflective Thinking]], the [[Socratic Method]] as reconstructed by contemporary scholarship, [[Daniel Kahneman]]'s [[Dual Process Theory]], and [[John Flavell]]'s [[Metacognitive Monitoring]] framework — have independently identified the same answer to this question. The answer is not a cognitive skill, a reasoning procedure, or a philosophical technique. It is a *specific kind of cognitive disruption*: an encounter with a situation that the mind's existing patterns cannot smoothly process, generating a recognizable subjective signal of tension, puzzlement, or unease that, under the right conditions, activates a more deliberate, exploratory mode of engagement. Dewey calls this signal the \"felt difficulty.\" Socrates calls the state it induces *aporia*. Cognitive scientists call it conflict monitoring or System 2 activation. Metacognitive researchers call it the \"feeling of not knowing.\" These are not analogies. They are, this report argues, four different disciplinary languages for the same cognitive event.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "John Flavell",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John Flavell]]",
+        "line_number": 204,
+        "section": "Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥",
+        "context_line": "This report argues that four intellectual traditions — [[John Dewey]]'s [[Reflective Thinking]], the [[Socratic Method]] as reconstructed by contemporary scholarship, [[Daniel Kahneman]]'s [[Dual Process Theory]], and [[John Flavell]]'s [[Metacognitive Monitoring]] framework — have independently identified the same answer to this question. The answer is not a cognitive skill, a reasoning procedure, or a philosophical technique. It is a *specific kind of cognitive disruption*: an encounter with a situation that the mind's existing patterns cannot smoothly process, generating a recognizable subjective signal of tension, puzzlement, or unease that, under the right conditions, activates a more deliberate, exploratory mode of engagement. Dewey calls this signal the \"felt difficulty.\" Socrates calls the state it induces *aporia*. Cognitive scientists call it conflict monitoring or System 2 activation. Metacognitive researchers call it the \"feeling of not knowing.\" These are not analogies. They are, this report argues, four different disciplinary languages for the same cognitive event.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Metacognitive Monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognitive Monitoring]]",
+        "line_number": 204,
+        "section": "Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥",
+        "context_line": "This report argues that four intellectual traditions — [[John Dewey]]'s [[Reflective Thinking]], the [[Socratic Method]] as reconstructed by contemporary scholarship, [[Daniel Kahneman]]'s [[Dual Process Theory]], and [[John Flavell]]'s [[Metacognitive Monitoring]] framework — have independently identified the same answer to this question. The answer is not a cognitive skill, a reasoning procedure, or a philosophical technique. It is a *specific kind of cognitive disruption*: an encounter with a situation that the mind's existing patterns cannot smoothly process, generating a recognizable subjective signal of tension, puzzlement, or unease that, under the right conditions, activates a more deliberate, exploratory mode of engagement. Dewey calls this signal the \"felt difficulty.\" Socrates calls the state it induces *aporia*. Cognitive scientists call it conflict monitoring or System 2 activation. Metacognitive researchers call it the \"feeling of not knowing.\" These are not analogies. They are, this report argues, four different disciplinary languages for the same cognitive event.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Aporic Receptivity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Aporic Receptivity]]",
+        "line_number": 206,
+        "section": "Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥",
+        "context_line": "The synthesis of these four accounts generates more than theoretical tidiness. It reveals something practically significant: the activation of genuine inquiry depends not only on *having* the right kind of disruption but on being *receptive* to it. The four frameworks converge on a meta-dispositional requirement that none of them individually names but all of them implicitly presuppose — a cultivated orientation of welcoming rather than suppressing the productive discomfort that inquiry requires. This report names that orientation **[[Aporic Receptivity]]** and argues that it is the foundational meta-disposition of the examined life.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "John Dewey",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John Dewey]]",
+        "line_number": 220,
+        "section": "A. John Dewey and the Logic of Felt Difficulty",
+        "context_line": "[[John Dewey]]'s account of [[Reflective Thinking]], developed in *[[How We Think]]* (1910, substantially revised 1933), represents one of the most psychologically sophisticated and philosophically grounded theories of inquiry ever produced. What makes Dewey's account distinctive — and what distinguishes it sharply from rationalist accounts that treat thinking as a purely logical operation — is its insistence on the *organic* character of reflective thought. For Dewey, thinking does not begin with abstract propositions or formal problems. It begins with the body and the organism's interaction with its environment.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Reflective Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Reflective Thinking]]",
+        "line_number": 220,
+        "section": "A. John Dewey and the Logic of Felt Difficulty",
+        "context_line": "[[John Dewey]]'s account of [[Reflective Thinking]], developed in *[[How We Think]]* (1910, substantially revised 1933), represents one of the most psychologically sophisticated and philosophically grounded theories of inquiry ever produced. What makes Dewey's account distinctive — and what distinguishes it sharply from rationalist accounts that treat thinking as a purely logical operation — is its insistence on the *organic* character of reflective thought. For Dewey, thinking does not begin with abstract propositions or formal problems. It begins with the body and the organism's interaction with its environment.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "How We Think",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[How We Think]]",
+        "line_number": 220,
+        "section": "A. John Dewey and the Logic of Felt Difficulty",
+        "context_line": "[[John Dewey]]'s account of [[Reflective Thinking]], developed in *[[How We Think]]* (1910, substantially revised 1933), represents one of the most psychologically sophisticated and philosophically grounded theories of inquiry ever produced. What makes Dewey's account distinctive — and what distinguishes it sharply from rationalist accounts that treat thinking as a purely logical operation — is its insistence on the *organic* character of reflective thought. For Dewey, thinking does not begin with abstract propositions or formal problems. It begins with the body and the organism's interaction with its environment.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "felt difficulty",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[felt difficulty]]",
+        "line_number": 222,
+        "section": "A. John Dewey and the Logic of Felt Difficulty",
+        "context_line": "The key concept is what Dewey calls the **[[felt difficulty]]** — and the word \"felt\" is doing crucial philosophical work here. Dewey is not describing a logical inconsistency noticed by a detached intellect. He is describing a lived, organismic experience: the experience of encountering a situation that your existing habits, patterns, and expectations cannot smoothly handle. Consider what happens when you reach for a light switch in a familiar room and the lights don't come on. For a fraction of a second, everything stops. Your habitual action has been interrupted. There is a moment of something that, if it registers at all, registers as a kind of cognitive friction — not a formal problem to be solved, but a *felt* interruption of smooth functioning. This, Dewey says, is where thinking begins.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "habit",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[habit]]",
+        "line_number": 229,
+        "section": "A. John Dewey and the Logic of Felt Difficulty",
+        "context_line": "What is philosophically important about this account is its explanation of why reflective thinking is *not* the default. For Dewey, the normal mode of human cognitive engagement is [[habit]] — the smooth, automatic deployment of patterns of thought and action built up through experience. Habit is not deficient or inferior to reflection; it is the necessary foundation of all skilled action, from language to locomotion. The problem is that habits are, by nature, retrospective: they encode solutions to problems already encountered. Novel situations — situations that are genuinely new, ambiguous, or complex in ways that exceed existing patterns — cannot be handled by habit alone. The felt difficulty is the organism's signal that the automatic system has encountered its limits. It is, in this sense, not a failure but a communication: the news that thinking is needed.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Socratic Method",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socratic Method]]",
+        "line_number": 238,
+        "section": "B. The Socratic Method: Elenchus, Aporia, and the Torpedo Fish",
+        "context_line": "The [[Socratic Method]] has been so thoroughly domesticated by its adoption into educational rhetoric that it is easy to forget how genuinely strange and disturbing it was as a practice. Socrates did not teach by lecturing or guiding students to pre-determined conclusions. He examined people's beliefs — the things they were most confident about, the convictions that undergirded their sense of who they were and how the world worked — and systematically showed them that those beliefs, when subjected to rigorous questioning, dissolved into contradiction or confusion. The experience was, by multiple ancient accounts, profoundly unsettling. In the *Meno*, Socrates is compared to a torpedo fish — a creature that delivers an electric shock, paralyzing whatever it touches. Meno complains that he can no longer answer questions he thought he could answer easily, that his mind has been numbed.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Gregory Vlastos",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Gregory Vlastos]]",
+        "line_number": 240,
+        "section": "B. The Socratic Method: Elenchus, Aporia, and the Torpedo Fish",
+        "context_line": "The contemporary scholar who most rigorously reconstructed the logical structure of Socrates' practice was [[Gregory Vlastos]], whose 1983 paper \"The Socratic *Elenchus*\" remains a landmark in the field. Vlastos identified the [[elenchus]] as a systematic procedure with recognizable logical structure: Socrates' interlocutor asserts a thesis; Socrates secures agreement to additional premises that the interlocutor considers independently plausible; Socrates then demonstrates that these additional premises entail the *negation* of the original thesis. The interlocutor is left in a state where they cannot maintain their original belief — it has been shown to be inconsistent with other things they are equally committed to — but neither do they have anything to replace it with. This state of cognitive suspension, of being-between-beliefs, is [[aporia]] — literally, \"no way forward,\" a state of being at an impasse.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "elenchus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[elenchus]]",
+        "line_number": 240,
+        "section": "B. The Socratic Method: Elenchus, Aporia, and the Torpedo Fish",
+        "context_line": "The contemporary scholar who most rigorously reconstructed the logical structure of Socrates' practice was [[Gregory Vlastos]], whose 1983 paper \"The Socratic *Elenchus*\" remains a landmark in the field. Vlastos identified the [[elenchus]] as a systematic procedure with recognizable logical structure: Socrates' interlocutor asserts a thesis; Socrates secures agreement to additional premises that the interlocutor considers independently plausible; Socrates then demonstrates that these additional premises entail the *negation* of the original thesis. The interlocutor is left in a state where they cannot maintain their original belief — it has been shown to be inconsistent with other things they are equally committed to — but neither do they have anything to replace it with. This state of cognitive suspension, of being-between-beliefs, is [[aporia]] — literally, \"no way forward,\" a state of being at an impasse.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "aporia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[aporia]]",
+        "line_number": 240,
+        "section": "B. The Socratic Method: Elenchus, Aporia, and the Torpedo Fish",
+        "context_line": "The contemporary scholar who most rigorously reconstructed the logical structure of Socrates' practice was [[Gregory Vlastos]], whose 1983 paper \"The Socratic *Elenchus*\" remains a landmark in the field. Vlastos identified the [[elenchus]] as a systematic procedure with recognizable logical structure: Socrates' interlocutor asserts a thesis; Socrates secures agreement to additional premises that the interlocutor considers independently plausible; Socrates then demonstrates that these additional premises entail the *negation* of the original thesis. The interlocutor is left in a state where they cannot maintain their original belief — it has been shown to be inconsistent with other things they are equally committed to — but neither do they have anything to replace it with. This state of cognitive suspension, of being-between-beliefs, is [[aporia]] — literally, \"no way forward,\" a state of being at an impasse.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Dual Process Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual Process Theory]]",
+        "line_number": 257,
+        "section": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "context_line": "[[Dual Process Theory]], associated above all with [[Daniel Kahneman]]'s synthesis in *[[Thinking, Fast and Slow]]* (2011), but with roots in earlier work by [[Jonathan Evans]], [[Keith Stanovich]], and [[Richard West]], provides the most mechanistically explicit account of why deliberate, reflective thinking is not the default — and what it takes to activate it.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Daniel Kahneman",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daniel Kahneman]]",
+        "line_number": 257,
+        "section": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "context_line": "[[Dual Process Theory]], associated above all with [[Daniel Kahneman]]'s synthesis in *[[Thinking, Fast and Slow]]* (2011), but with roots in earlier work by [[Jonathan Evans]], [[Keith Stanovich]], and [[Richard West]], provides the most mechanistically explicit account of why deliberate, reflective thinking is not the default — and what it takes to activate it.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Thinking, Fast and Slow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Thinking, Fast and Slow]]",
+        "line_number": 257,
+        "section": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "context_line": "[[Dual Process Theory]], associated above all with [[Daniel Kahneman]]'s synthesis in *[[Thinking, Fast and Slow]]* (2011), but with roots in earlier work by [[Jonathan Evans]], [[Keith Stanovich]], and [[Richard West]], provides the most mechanistically explicit account of why deliberate, reflective thinking is not the default — and what it takes to activate it.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Jonathan Evans",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Jonathan Evans]]",
+        "line_number": 257,
+        "section": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "context_line": "[[Dual Process Theory]], associated above all with [[Daniel Kahneman]]'s synthesis in *[[Thinking, Fast and Slow]]* (2011), but with roots in earlier work by [[Jonathan Evans]], [[Keith Stanovich]], and [[Richard West]], provides the most mechanistically explicit account of why deliberate, reflective thinking is not the default — and what it takes to activate it.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Keith Stanovich",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Keith Stanovich]]",
+        "line_number": 257,
+        "section": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "context_line": "[[Dual Process Theory]], associated above all with [[Daniel Kahneman]]'s synthesis in *[[Thinking, Fast and Slow]]* (2011), but with roots in earlier work by [[Jonathan Evans]], [[Keith Stanovich]], and [[Richard West]], provides the most mechanistically explicit account of why deliberate, reflective thinking is not the default — and what it takes to activate it.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Richard West",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Richard West]]",
+        "line_number": 257,
+        "section": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "context_line": "[[Dual Process Theory]], associated above all with [[Daniel Kahneman]]'s synthesis in *[[Thinking, Fast and Slow]]* (2011), but with roots in earlier work by [[Jonathan Evans]], [[Keith Stanovich]], and [[Richard West]], provides the most mechanistically explicit account of why deliberate, reflective thinking is not the default — and what it takes to activate it.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "System 1",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[System 1]]",
+        "line_number": 259,
+        "section": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "context_line": "The framework distinguishes two broad modes of cognitive processing that Kahneman designates [[System 1]] and [[System 2]]. System 1 operates automatically and rapidly, without deliberate effort or intentional control. It processes incoming information against stored patterns, produces immediate responses, generates impressions and intuitions. It is the system that allows you to read a word without effort, recognize a face in a crowd, or catch a ball that someone throws at you. System 2, by contrast, is slow, effortful, and deliberately controlled. It handles novel problems, multi-step calculations, deliberate comparison of alternatives, and the conscious monitoring and evaluation of System 1's outputs. System 2 is what you deploy when you do a long division problem, when you consider the implications of a contract clause, or when you stop yourself from saying the thing that first came to mind.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "System 2",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[System 2]]",
+        "line_number": 259,
+        "section": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "context_line": "The framework distinguishes two broad modes of cognitive processing that Kahneman designates [[System 1]] and [[System 2]]. System 1 operates automatically and rapidly, without deliberate effort or intentional control. It processes incoming information against stored patterns, produces immediate responses, generates impressions and intuitions. It is the system that allows you to read a word without effort, recognize a face in a crowd, or catch a ball that someone throws at you. System 2, by contrast, is slow, effortful, and deliberately controlled. It handles novel problems, multi-step calculations, deliberate comparison of alternatives, and the conscious monitoring and evaluation of System 1's outputs. System 2 is what you deploy when you do a long division problem, when you consider the implications of a contract clause, or when you stop yourself from saying the thing that first came to mind.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Wim De Neys",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Wim De Neys]]",
+        "line_number": 269,
+        "section": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "context_line": "Research by [[Wim De Neys]] and colleagues has identified a mechanism called **[[conflict monitoring]]** that plays a central role. When System 1 generates an initial response to a situation and that response is detectable as inconsistent with more deliberate reasoning, a signal is generated that can activate System 2. The classic example is the bat-and-ball problem: \"A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?\" System 1 immediately and confidently produces \"ten cents\" — a wrong answer. De Neys's research shows that even when people give this wrong answer, there is neuroimaging evidence of elevated conflict processing, suggesting that the inconsistency between the fast answer and the correct answer is detected at some level even when it doesn't successfully activate the System 2 correction. This is the activation paradox at the heart of System 2 cognition: detecting a System 1 error requires already engaging something like System 2 to detect the error.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "conflict monitoring",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[conflict monitoring]]",
+        "line_number": 269,
+        "section": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "context_line": "Research by [[Wim De Neys]] and colleagues has identified a mechanism called **[[conflict monitoring]]** that plays a central role. When System 1 generates an initial response to a situation and that response is detectable as inconsistent with more deliberate reasoning, a signal is generated that can activate System 2. The classic example is the bat-and-ball problem: \"A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost?\" System 1 immediately and confidently produces \"ten cents\" — a wrong answer. De Neys's research shows that even when people give this wrong answer, there is neuroimaging evidence of elevated conflict processing, suggesting that the inconsistency between the fast answer and the correct answer is detected at some level even when it doesn't successfully activate the System 2 correction. This is the activation paradox at the heart of System 2 cognition: detecting a System 1 error requires already engaging something like System 2 to detect the error.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Actively Open-Minded Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Actively Open-Minded Thinking]]",
+        "line_number": 274,
+        "section": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "context_line": "Stanovich's work on [[Actively Open-Minded Thinking]] (AOT) extends this account by examining individual differences in the *disposition* to engage System 2 thinking. AOT is defined as the willingness to consider alternative hypotheses, sensitivity to evidence that contradicts one's current beliefs, the practice of postponing closure until adequate evidence has accumulated, and what Stanovich calls \"epistemic self-regulation.\" Research with the AOT scale shows that it predicts performance on heuristics-and-biases tasks independently of cognitive ability — meaning that the disposition to engage System 2 is not the same thing as having a high-capacity System 2. Two people with equal cognitive ability can differ substantially in how reliably they deploy that ability. AOT measures precisely the disposition that, in Deweyan terms, keeps one receptive to felt difficulties and, in Socratic terms, keeps one willing to submit one's beliefs to examination.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "John Flavell",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John Flavell]]",
+        "line_number": 278,
+        "section": "D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing",
+        "context_line": "[[John Flavell]]'s 1979 paper \"Metacognition and Cognitive Monitoring\" inaugurated one of the most productive research programs in cognitive and educational psychology. Flavell defined [[metacognition]] as \"knowledge and cognition about cognitive phenomena\" — thinking about thinking — and distinguished two central components that are especially relevant to inquiry activation: [[metacognitive knowledge]] (stored, relatively stable beliefs about how cognition works — one's own, others', and in general) and [[metacognitive experiences]] (context-specific, local evaluations of ongoing cognitive processing — the felt sense of how well or poorly one's thinking is going at a given moment).",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "metacognition",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[metacognition]]",
+        "line_number": 278,
+        "section": "D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing",
+        "context_line": "[[John Flavell]]'s 1979 paper \"Metacognition and Cognitive Monitoring\" inaugurated one of the most productive research programs in cognitive and educational psychology. Flavell defined [[metacognition]] as \"knowledge and cognition about cognitive phenomena\" — thinking about thinking — and distinguished two central components that are especially relevant to inquiry activation: [[metacognitive knowledge]] (stored, relatively stable beliefs about how cognition works — one's own, others', and in general) and [[metacognitive experiences]] (context-specific, local evaluations of ongoing cognitive processing — the felt sense of how well or poorly one's thinking is going at a given moment).",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "metacognitive knowledge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[metacognitive knowledge]]",
+        "line_number": 278,
+        "section": "D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing",
+        "context_line": "[[John Flavell]]'s 1979 paper \"Metacognition and Cognitive Monitoring\" inaugurated one of the most productive research programs in cognitive and educational psychology. Flavell defined [[metacognition]] as \"knowledge and cognition about cognitive phenomena\" — thinking about thinking — and distinguished two central components that are especially relevant to inquiry activation: [[metacognitive knowledge]] (stored, relatively stable beliefs about how cognition works — one's own, others', and in general) and [[metacognitive experiences]] (context-specific, local evaluations of ongoing cognitive processing — the felt sense of how well or poorly one's thinking is going at a given moment).",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "metacognitive experiences",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[metacognitive experiences]]",
+        "line_number": 278,
+        "section": "D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing",
+        "context_line": "[[John Flavell]]'s 1979 paper \"Metacognition and Cognitive Monitoring\" inaugurated one of the most productive research programs in cognitive and educational psychology. Flavell defined [[metacognition]] as \"knowledge and cognition about cognitive phenomena\" — thinking about thinking — and distinguished two central components that are especially relevant to inquiry activation: [[metacognitive knowledge]] (stored, relatively stable beliefs about how cognition works — one's own, others', and in general) and [[metacognitive experiences]] (context-specific, local evaluations of ongoing cognitive processing — the felt sense of how well or poorly one's thinking is going at a given moment).",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "feeling of knowing",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[feeling of knowing]]",
+        "line_number": 280,
+        "section": "D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing",
+        "context_line": "The metacognitive experiences most directly relevant to inquiry activation are the **[[feeling of knowing]]** and, crucially, the **feeling of *not* knowing**. The feeling of knowing — the sense that one has or can retrieve a piece of information — is well-studied in the context of memory research. But Flavell recognized that its absence, or its active inverse, is equally important: the sense that something is wrong with one's current understanding, that there is a gap in one's knowledge, or that a belief one has been holding may not be as well-grounded as it seemed. This monitoring signal is the metacognitive analog of Dewey's felt difficulty and Socratic aporia — a local signal that triggers a shift from routine processing to more deliberate inquiry.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Stephen Fleming",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Stephen Fleming]]",
+        "line_number": 285,
+        "section": "D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing",
+        "context_line": "Contemporary research has substantially refined Flavell's original framework. [[Stephen Fleming]] and colleagues' 2024 review identifies a distinction between *local* metacognition — task-specific monitoring of one-moment processing — and *global* metacognition — domain-general assessments of one's cognitive reliability and limitations. Both are relevant to inquiry activation, but they operate somewhat differently. Local metacognitive monitoring fires when something is going wrong in the immediate cognitive process — a signal that is analogous to De Neys's conflict monitoring and that can activate more deliberate processing in real time. Global metacognitive knowledge, by contrast, provides the background orientation of epistemic humility — the general disposition to suspect one's own confident beliefs and to remain open to revision.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Janet Metcalfe",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Janet Metcalfe]]",
+        "line_number": 287,
+        "section": "D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing",
+        "context_line": "[[Janet Metcalfe]]'s work on **[[epistemic curiosity]]** connects metacognitive monitoring to motivational processes in a way directly relevant to this report. Metcalfe and Schwartz (2020) describe curiosity as a metacognitive feeling state that arises specifically in the [[Region of Proximal Learning]] — a zone where one is \"on the verge of knowing,\" where existing knowledge is almost, but not quite, adequate to a situation. This curiosity-as-metacognitive-experience is triggered precisely by the moderate knowledge gap: too small a gap generates no curiosity (the matter is already understood); too large a gap generates anxiety or disengagement rather than inquiry (the matter is incomprehensible). The Goldilocks zone of optimal uncertainty — enough to generate felt difficulty, not so much as to overwhelm — is the motivationally optimal condition for genuine inquiry activation.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "epistemic curiosity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[epistemic curiosity]]",
+        "line_number": 287,
+        "section": "D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing",
+        "context_line": "[[Janet Metcalfe]]'s work on **[[epistemic curiosity]]** connects metacognitive monitoring to motivational processes in a way directly relevant to this report. Metcalfe and Schwartz (2020) describe curiosity as a metacognitive feeling state that arises specifically in the [[Region of Proximal Learning]] — a zone where one is \"on the verge of knowing,\" where existing knowledge is almost, but not quite, adequate to a situation. This curiosity-as-metacognitive-experience is triggered precisely by the moderate knowledge gap: too small a gap generates no curiosity (the matter is already understood); too large a gap generates anxiety or disengagement rather than inquiry (the matter is incomprehensible). The Goldilocks zone of optimal uncertainty — enough to generate felt difficulty, not so much as to overwhelm — is the motivationally optimal condition for genuine inquiry activation.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Region of Proximal Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Region of Proximal Learning]]",
+        "line_number": 287,
+        "section": "D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing",
+        "context_line": "[[Janet Metcalfe]]'s work on **[[epistemic curiosity]]** connects metacognitive monitoring to motivational processes in a way directly relevant to this report. Metcalfe and Schwartz (2020) describe curiosity as a metacognitive feeling state that arises specifically in the [[Region of Proximal Learning]] — a zone where one is \"on the verge of knowing,\" where existing knowledge is almost, but not quite, adequate to a situation. This curiosity-as-metacognitive-experience is triggered precisely by the moderate knowledge gap: too small a gap generates no curiosity (the matter is already understood); too large a gap generates anxiety or disengagement rather than inquiry (the matter is incomprehensible). The Goldilocks zone of optimal uncertainty — enough to generate felt difficulty, not so much as to overwhelm — is the motivationally optimal condition for genuine inquiry activation.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Aporic Receptivity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Aporic Receptivity]]",
+        "line_number": 348,
+        "section": "The Emergent Insight: Aporic Receptivity",
+        "context_line": "The answer is a dispositional orientation that this report names **[[Aporic Receptivity]]**: the cultivated capacity to welcome, dwell productively in, and act from states of productive uncertainty. This is not the same as tolerance for ambiguity, though it includes it. It is not mere intellectual humility, though it requires it. It is not simply curiosity, though it harnesses it. It is a positive orientation toward the specific kind of cognitive disruption that all four frameworks identify as the prerequisite for genuine inquiry — an orientation that treats felt difficulty not as a problem to be quickly resolved but as a signal to be followed, aporia not as an embarrassing failure of knowledge but as a productive epistemic state, cognitive strain not as an experience to be minimized but as evidence that something genuinely important is happening.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Elena",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Elena]]",
+        "line_number": 362,
+        "section": "Worked Example: The Climate Policy Encounter",
+        "context_line": "Consider a professional — call her [[Elena]] — who has spent years studying climate science and holds well-formed views not just about the reality of climate change but about specific policy responses. She is confident in these views, and her confidence is not baseless: she has read widely, her beliefs are consistent with scientific consensus on the underlying science, and she has invested genuine intellectual effort in forming them.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Marcus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Marcus]]",
+        "line_number": 364,
+        "section": "Worked Example: The Climate Policy Encounter",
+        "context_line": "Elena encounters a colleague at a conference — call him [[Marcus]] — who is equally well-educated and equally committed to addressing climate change, but who raises a complication she has not fully considered: the economic modeling underlying her preferred policy solution relies on assumptions about technological learning curves that recent data suggests may be substantially optimistic. Marcus presents specific citations and asks Elena to engage with the methodology. This is not climate denial. It is an empirical complication within the domain Elena considers her area of expertise.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Karl Friston",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Karl Friston]]",
+        "line_number": 398,
+        "section": "The Primary Emergent Insight: Inquiry Activation as a Single Mechanism",
+        "context_line": "> The four-framework convergence on a disruption-based activation mechanism anticipates one of the most powerful unifications in the series: Report 13's predictive processing synthesis, where the entire framework will be recontextualized through [[Karl Friston]]'s [[Free Energy Principle]]. In predictive processing terms, Dewey's \"felt difficulty\" is a prediction error — the signal generated when the brain's generative model fails to predict incoming sensory or cognitive input. Socratic aporia arises when a belief-model generates predictions (the interlocutor's confident assertions) that are shown to be inconsistent with other beliefs — a particularly high-level form of prediction error. Conflict monitoring is the mechanism by which prediction errors are detected across processing levels. Metacognitive monitoring is prediction error at the level of one's models of one's own cognition. The four frameworks are not merely analogous to predictive processing; they are, in important senses, early philosophical and psychological discoveries of the same underlying mechanism that predictive processing later formalized computationally.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Free Energy Principle",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Free Energy Principle]]",
+        "line_number": 398,
+        "section": "The Primary Emergent Insight: Inquiry Activation as a Single Mechanism",
+        "context_line": "> The four-framework convergence on a disruption-based activation mechanism anticipates one of the most powerful unifications in the series: Report 13's predictive processing synthesis, where the entire framework will be recontextualized through [[Karl Friston]]'s [[Free Energy Principle]]. In predictive processing terms, Dewey's \"felt difficulty\" is a prediction error — the signal generated when the brain's generative model fails to predict incoming sensory or cognitive input. Socratic aporia arises when a belief-model generates predictions (the interlocutor's confident assertions) that are shown to be inconsistent with other beliefs — a particularly high-level form of prediction error. Conflict monitoring is the mechanism by which prediction errors are detected across processing levels. Metacognitive monitoring is prediction error at the level of one's models of one's own cognition. The four frameworks are not merely analogous to predictive processing; they are, in important senses, early philosophical and psychological discoveries of the same underlying mechanism that predictive processing later formalized computationally.",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Epistemic Curiosity and the Information Gap",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic Curiosity and the Information Gap]]",
+        "line_number": 502,
+        "section": "Expansion Topics for PKB Development",
+        "context_line": "> [!key] **Expansion Topic 1: [[Epistemic Curiosity and the Information Gap]]** — Priority: HIGH",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Conflict Monitoring and the Bootstrap Problem",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Conflict Monitoring and the Bootstrap Problem]]",
+        "line_number": 505,
+        "section": "Expansion Topics for PKB Development",
+        "context_line": "> [!key] **Expansion Topic 2: [[Conflict Monitoring and the Bootstrap Problem]]** — Priority: HIGH",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Productive Failure in Learning (Kapur)",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Productive Failure in Learning (Kapur)]]",
+        "line_number": 508,
+        "section": "Expansion Topics for PKB Development",
+        "context_line": "> [!key] **Expansion Topic 3: [[Productive Failure in Learning (Kapur)]]** — Priority: MEDIUM",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "The Meno Paradox in Educational Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Meno Paradox in Educational Theory]]",
+        "line_number": 511,
+        "section": "Expansion Topics for PKB Development",
+        "context_line": "> [!key] **Expansion Topic 4: [[The Meno Paradox in Educational Theory]]** — Priority: MEDIUM",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "Inquiry-Based Learning Design: Principles and Evidence",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inquiry-Based Learning Design: Principles and Evidence]]",
+        "line_number": 514,
+        "section": "Expansion Topics for PKB Development",
+        "context_line": "> [!key] **Expansion Topic 5: [[Inquiry-Based Learning Design: Principles and Evidence]]** — Priority: HIGH",
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "target": "The Actively Open-Minded Thinking Scale: Measurement and Development",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[The Actively Open-Minded Thinking Scale: Measurement and Development]]",
+        "line_number": 517,
+        "section": "Expansion Topics for PKB Development",
+        "context_line": "> [!key] **Expansion Topic 6: [[The Actively Open-Minded Thinking Scale: Measurement and Development]]** — Priority: MEDIUM",
+        "source": "report-01-the-inquiry-engine.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [
+      {
+        "tag": "architecture-of-the-examined-life",
+        "full_tag": "#architecture-of-the-examined-life",
+        "hierarchy": [
+          "architecture-of-the-examined-life"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "tier-1-epistemic-architecture",
+        "full_tag": "#tier-1-epistemic-architecture",
+        "hierarchy": [
+          "tier-1-epistemic-architecture"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "inquiry-activation",
+        "full_tag": "#inquiry-activation",
+        "hierarchy": [
+          "inquiry-activation"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "reflective-thinking",
+        "full_tag": "#reflective-thinking",
+        "hierarchy": [
+          "reflective-thinking"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "socratic-method",
+        "full_tag": "#socratic-method",
+        "hierarchy": [
+          "socratic-method"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "dual-process-theory",
+        "full_tag": "#dual-process-theory",
+        "hierarchy": [
+          "dual-process-theory"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "metacognitive-monitoring",
+        "full_tag": "#metacognitive-monitoring",
+        "hierarchy": [
+          "metacognitive-monitoring"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "aporic-receptivity",
+        "full_tag": "#aporic-receptivity",
+        "hierarchy": [
+          "aporic-receptivity"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "dewey",
+        "full_tag": "#dewey",
+        "hierarchy": [
+          "dewey"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "kahneman",
+        "full_tag": "#kahneman",
+        "hierarchy": [
+          "kahneman"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "flavell",
+        "full_tag": "#flavell",
+        "hierarchy": [
+          "flavell"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "stanovich",
+        "full_tag": "#stanovich",
+        "hierarchy": [
+          "stanovich"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "synthesis-report",
+        "full_tag": "#synthesis-report",
+        "hierarchy": [
+          "synthesis-report"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "tag": "evergreen",
+        "full_tag": "#evergreen",
+        "hierarchy": [
+          "evergreen"
+        ],
+        "line_number": 522,
+        "source": "report-01-the-inquiry-engine.md"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "The Inquiry Engine: How Reflective Thought Is Activated",
+        "anchor": "the-inquiry-engine-how-reflective-thought-is-activated",
+        "line_number": 188,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: The Premise — The Paradox at the Heart of Inquiry 🔥",
+        "anchor": "phase-i-the-premise-the-paradox-at-the-heart-of-inquiry",
+        "line_number": 195,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: The Exposition — Four Accounts of One Activation 📚",
+        "anchor": "phase-ii-the-exposition-four-accounts-of-one-activation",
+        "line_number": 213,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "A. John Dewey and the Logic of Felt Difficulty",
+        "anchor": "a-john-dewey-and-the-logic-of-felt-difficulty",
+        "line_number": 218,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "B. The Socratic Method: Elenchus, Aporia, and the Torpedo Fish",
+        "anchor": "b-the-socratic-method-elenchus-aporia-and-the-torpedo-fish",
+        "line_number": 236,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Dual Process Theory: The Cognitive Science of Activation Costs",
+        "anchor": "c-dual-process-theory-the-cognitive-science-of-activation-costs",
+        "line_number": 255,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "D. Metacognitive Monitoring: The Architecture of Knowing-About-Knowing",
+        "anchor": "d-metacognitive-monitoring-the-architecture-of-knowing-about-knowing",
+        "line_number": 276,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: The Dialectic — Convergence, Tensions, and Resolution ⚗️",
+        "anchor": "phase-iii-the-dialectic-convergence-tensions-and-resolution",
+        "line_number": 294,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "The Structural Homology: One Mechanism, Four Languages",
+        "anchor": "the-structural-homology-one-mechanism-four-languages",
+        "line_number": 298,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "First Tension: Why Is Inquiry Effortful If It Is Beneficial?",
+        "anchor": "first-tension-why-is-inquiry-effortful-if-it-is-beneficial",
+        "line_number": 314,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "Second Tension: Is Aporia a Destination or a Launching Pad?",
+        "anchor": "second-tension-is-aporia-a-destination-or-a-launching-pad",
+        "line_number": 327,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: The Application — Aporic Receptivity in Practice 🔧",
+        "anchor": "phase-iv-the-application-aporic-receptivity-in-practice",
+        "line_number": 340,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "The Emergent Insight: Aporic Receptivity",
+        "anchor": "the-emergent-insight-aporic-receptivity",
+        "line_number": 344,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "Worked Example: The Climate Policy Encounter",
+        "anchor": "worked-example-the-climate-policy-encounter",
+        "line_number": 360,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "Developmental Implications: The Five Stages of Aporic Receptivity",
+        "anchor": "developmental-implications-the-five-stages-of-aporic-receptivity",
+        "line_number": 375,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: The Synthesis — Emergent Insights and Series Connections 🔭",
+        "anchor": "phase-v-the-synthesis-emergent-insights-and-series-connections",
+        "line_number": 387,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "The Primary Emergent Insight: Inquiry Activation as a Single Mechanism",
+        "anchor": "the-primary-emergent-insight-inquiry-activation-as-a-single-mechanism",
+        "line_number": 391,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "Retroactive Enrichment of Prior Reports",
+        "anchor": "retroactive-enrichment-of-prior-reports",
+        "line_number": 400,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "Honest Assessment of Limitations",
+        "anchor": "honest-assessment-of-limitations",
+        "line_number": 404,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Appendix — Lexicon, References, and Expansion Topics 📎",
+        "anchor": "phase-vi-appendix-lexicon-references-and-expansion-topics",
+        "line_number": 417,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "Lexicon of Key Terms",
+        "anchor": "lexicon-of-key-terms",
+        "line_number": 419,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "References",
+        "anchor": "references",
+        "line_number": 453,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "Methodology and Sources Note",
+        "anchor": "methodology-and-sources-note",
+        "line_number": 493,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "level": 3,
+        "text": "Expansion Topics for PKB Development",
+        "anchor": "expansion-topics-for-pkb-development",
+        "line_number": 500,
+        "source": "report-01-the-inquiry-engine.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [
+      {
+        "display_text": "https://doi.org/10.1037/0022-0663.89.2.342**",
+        "url": "https://doi.org/10.1037/0022-0663.89.2.342**",
+        "format": "bare",
+        "line_number": 470,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "display_text": "https://doi.org/10.1037/0003-066X.34.10.906**",
+        "url": "https://doi.org/10.1037/0003-066X.34.10.906**",
+        "format": "bare",
+        "line_number": 476,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "display_text": "https://doi.org/10.1177/1745691611429354**",
+        "url": "https://doi.org/10.1177/1745691611429354**",
+        "format": "bare",
+        "line_number": 479,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "display_text": "https://doi.org/10.1037/0033-2909.116.1.75**",
+        "url": "https://doi.org/10.1037/0033-2909.116.1.75**",
+        "format": "bare",
+        "line_number": 485,
+        "source": "report-01-the-inquiry-engine.md"
+      },
+      {
+        "display_text": "https://doi.org/10.1037/rev0000202**",
+        "url": "https://doi.org/10.1037/rev0000202**",
+        "format": "bare",
+        "line_number": 488,
+        "source": "report-01-the-inquiry-engine.md"
+      }
+    ],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": [
+      {
+        "expression": "1.10 in total. The bat costs",
+        "format": "inline",
+        "line_number": 229,
+        "source": "report-01-the-inquiry-engine.md"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Actively Open-Minded Thinking",
+      "Aporic Receptivity",
+      "Conflict Monitoring and the Bootstrap Problem",
+      "Daniel Kahneman",
+      "Dual Process Theory",
+      "Elena",
+      "Epistemic Curiosity and the Information Gap",
+      "Free Energy Principle",
+      "Gregory Vlastos",
+      "How We Think",
+      "Inquiry-Based Learning Design: Principles and Evidence",
+      "Janet Metcalfe",
+      "John Dewey",
+      "John Flavell",
+      "Jonathan Evans",
+      "Karl Friston",
+      "Keith Stanovich",
+      "Marcus",
+      "Metacognitive Monitoring",
+      "Productive Failure in Learning (Kapur)",
+      "Reflective Thinking",
+      "Region of Proximal Learning",
+      "Richard West",
+      "Socratic Method",
+      "Stephen Fleming",
+      "System 1",
+      "System 2",
+      "The Actively Open-Minded Thinking Scale: Measurement and Development",
+      "The Meno Paradox in Educational Theory",
+      "Thinking, Fast and Slow",
+      "Wim De Neys",
+      "aporia",
+      "conflict monitoring",
+      "elenchus",
+      "epistemic curiosity",
+      "feeling of knowing",
+      "felt difficulty",
+      "habit",
+      "metacognition",
+      "metacognitive experiences",
+      "metacognitive knowledge"
+    ],
+    "unique_wiki_link_count": 41,
+    "unique_tags": [
+      "#aporic-receptivity",
+      "#architecture-of-the-examined-life",
+      "#dewey",
+      "#dual-process-theory",
+      "#evergreen",
+      "#flavell",
+      "#inquiry-activation",
+      "#kahneman",
+      "#metacognitive-monitoring",
+      "#reflective-thinking",
+      "#socratic-method",
+      "#stanovich",
+      "#synthesis-report",
+      "#tier-1-epistemic-architecture"
+    ],
+    "unique_tag_count": 14,
+    "frontmatter_relationships": {
+      "prerequisites": [
+        "[[Cognitive Psychology Foundations]]",
+        "[[Philosophy of Mind Basics]]",
+        "[[Introduction to Epistemology]]"
+      ],
+      "related": [
+        "[[Metacognition]]",
+        "[[Dual Process Theory]]",
+        "[[Cognitive Bias]]",
+        "[[Epistemic Virtues]]",
+        "[[Self-Regulated Learning]]",
+        "[[Pragmatism]]",
+        "[[Socratic Method]]",
+        "[[Growth Mindset]]"
+      ],
+      "broader": [
+        "[[Philosophy of Education]]",
+        "[[Cognitive Science]]",
+        "[[Applied Epistemology]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Actively Open-Minded Thinking",
+      "Aporic Receptivity",
+      "Conflict Monitoring and the Bootstrap Problem",
+      "Daniel Kahneman",
+      "Dual Process Theory",
+      "Elena",
+      "Epistemic Curiosity and the Information Gap",
+      "Free Energy Principle",
+      "Gregory Vlastos",
+      "How We Think",
+      "Inquiry-Based Learning Design: Principles and Evidence",
+      "Janet Metcalfe",
+      "John Dewey",
+      "John Flavell",
+      "Jonathan Evans",
+      "Karl Friston",
+      "Keith Stanovich",
+      "Marcus",
+      "Metacognitive Monitoring",
+      "Productive Failure in Learning (Kapur)",
+      "Reflective Thinking",
+      "Region of Proximal Learning",
+      "Richard West",
+      "Socratic Method",
+      "Stephen Fleming",
+      "System 1",
+      "System 2",
+      "The Actively Open-Minded Thinking Scale: Measurement and Development",
+      "The Meno Paradox in Educational Theory",
+      "Thinking, Fast and Slow",
+      "Wim De Neys",
+      "aporia",
+      "conflict monitoring",
+      "elenchus",
+      "epistemic curiosity",
+      "feeling of knowing",
+      "felt difficulty",
+      "habit",
+      "metacognition",
+      "metacognitive experiences",
+      "metacognitive knowledge"
+    ]
+  }
+}

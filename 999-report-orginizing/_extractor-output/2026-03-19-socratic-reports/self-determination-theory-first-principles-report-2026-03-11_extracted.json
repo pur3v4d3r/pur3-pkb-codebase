@@ -1,0 +1,1424 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-19T02:44:48.681155",
+    "source_file": "self-determination-theory-first-principles-report-2026-03-11.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-socratic-reports\\2026-03-13\\self-determination-theory-first-principles-report-2026-03-11.md",
+    "source_file_size_bytes": 76482,
+    "processing_time_seconds": 0.02
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "doc_id": "self-determination-theory-first-principles-report-2026-03-11",
+      "doc_type": "permanent-note",
+      "doc_created": "2026-03-11",
+      "doc_modified": "2026-03-11",
+      "author": "claude-sonnet-4-6",
+      "title": "Self-Determination Theory: A First Principles Report",
+      "primary_domain": "motivational-psychology",
+      "secondary_domains": [
+        "philosophical-psychology",
+        "cross-cultural-psychology",
+        "educational-psychology",
+        "organisational-psychology",
+        "philosophy-of-mind"
+      ],
+      "related_concepts": [
+        "[[Self-Determination Theory]]",
+        "[[Basic Psychological Needs Theory]]",
+        "[[Intrinsic Motivation]]",
+        "[[Extrinsic Motivation]]",
+        "[[Internalization Continuum]]",
+        "[[Autonomy]]",
+        "[[Agency]]",
+        "[[Organismic Integration Theory]]",
+        "[[Cognitive Evaluation Theory]]",
+        "[[Humanistic Psychology]]",
+        "[[Cross-Cultural Universality]]",
+        "[[Goal Contents Theory]]"
+      ],
+      "knowledge_level": "advanced",
+      "tags": [
+        "permanent-note",
+        "first-principles-report",
+        "deconstructive-analysis",
+        "academic-synthesis",
+        "assumption-auditing",
+        "axiomatic-reasoning",
+        "reconstructive-synthesis",
+        "motivational-psychology",
+        "self-determination-theory",
+        "basic-psychological-needs",
+        "autonomy",
+        "intrinsic-motivation"
+      ],
+      "status": "evergreen",
+      "maturity": "highly-developed",
+      "confidence": "high",
+      "epistemic_status": "well-established analysis",
+      "treatment-type": "first-principles-deconstructive",
+      "sections": [
+        "Phase I: The Conventional Understanding",
+        "Phase II: The Assumption Audit",
+        "Phase III: Decomposition to Axioms",
+        "Phase IV: Reconstruction from Fundamentals",
+        "Phase V: What Changes — Novel Insights and Revised Understanding",
+        "Phase VI: Synthesis, Limitations & PKB Integration",
+        "Phase VII: Appendix"
+      ],
+      "source": "claude-sonnet-4-6",
+      "generation-prompt": "[[First Principles Report Generator v1.0]]",
+      "based-on-topic-seed": "First Principles Report on Self-Determination Theory",
+      "prerequisites": [
+        "[[Motivational Psychology Foundations]]",
+        "[[Humanistic Psychology]]",
+        "[[Philosophy of Agency]]"
+      ],
+      "builds_on": [
+        "[[Intrinsic Motivation Research — Deci 1971]]",
+        "[[Cognitive Evaluation Theory]]",
+        "[[Organismic Integration Theory]]"
+      ],
+      "related_critiques": [
+        "[[Maslow Hierarchy Critique]]",
+        "[[Cross-Cultural Psychology Debates]]",
+        "[[Operationalism in Psychology]]"
+      ],
+      "aliases": [
+        "[[SDT First Principles Report]]",
+        "[[Self-Determination Theory Deconstructed]]"
+      ],
+      "link_up": "[[Motivational Psychology Report Suite]]",
+      "link_down": [],
+      "link_related": [
+        "[[Intrinsic vs Extrinsic Motivation Foundational Report]]",
+        "[[Humanistic Learning Theory]]",
+        "[[Philosophy of Agency Report]]"
+      ],
+      "summary": "A first-principles deconstruction of Self-Determination Theory (Deci & Ryan) that audits the foundational claims about universal innate basic psychological needs for autonomy, competence, and relatedness. The analysis strips away philosophical debt to humanistic and organismic traditions, examines the operationalisation problem for 'basic needs', scrutinises cross-cultural universality evidence, disambiguates autonomy from agency, and interrogates whether the internalization continuum is a genuine spectrum of self-determination. From minimal axioms about goal-directed behaviour, need satisfaction, and social embeddedness, a reconstructed framework is derived that preserves SDT's empirical contributions while exposing the theoretical overreach embedded in its innateness and universality claims."
+    },
+    "word_count": 9179,
+    "character_count": 69597,
+    "line_count": 471,
+    "heading_count": 25
+  },
+  "extraction_summary": {
+    "total_items_extracted": 113,
+    "by_type": {
+      "headings": 25,
+      "callouts": 59,
+      "wiki_links": 23,
+      "inline_fields": 1,
+      "definitions": 1,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 3,
+      "html_comments": 1,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Self-Determination Theory: A First Principles Report",
+      "anchor": "self-determination-theory-a-first-principles-report",
+      "line_number": 125,
+      "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: The Conventional Understanding",
+          "anchor": "phase-i-the-conventional-understanding",
+          "line_number": 129,
+          "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Standard Account",
+              "anchor": "the-standard-account",
+              "line_number": 131,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Standard Narrative",
+              "anchor": "the-standard-narrative",
+              "line_number": 142,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Who Holds This View",
+              "anchor": "who-holds-this-view",
+              "line_number": 149,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The First Hint of Trouble",
+              "anchor": "the-first-hint-of-trouble",
+              "line_number": 156,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase II: The Assumption Audit",
+          "anchor": "phase-ii-the-assumption-audit",
+          "line_number": 165,
+          "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Decomposition to Axioms",
+          "anchor": "phase-iii-decomposition-to-axioms",
+          "line_number": 258,
+          "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Reconstruction from Fundamentals",
+          "anchor": "phase-iv-reconstruction-from-fundamentals",
+          "line_number": 321,
+          "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Beginning the Reconstruction",
+              "anchor": "beginning-the-reconstruction",
+              "line_number": 323,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Rebuilt Framework",
+              "anchor": "the-rebuilt-framework",
+              "line_number": 339,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: What Changes — Novel Insights and Revised Understanding",
+          "anchor": "phase-v-what-changes-novel-insights-and-revised-understanding",
+          "line_number": 364,
+          "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Revised Understanding",
+              "anchor": "the-revised-understanding",
+              "line_number": 366,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Practical Implications",
+              "anchor": "practical-implications",
+              "line_number": 372,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Open Questions",
+              "anchor": "open-questions",
+              "line_number": 388,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis, Limitations & PKB Integration",
+          "anchor": "phase-vi-synthesis-limitations-pkb-integration",
+          "line_number": 403,
+          "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Arc of the Argument",
+              "anchor": "the-arc-of-the-argument",
+              "line_number": 405,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Methodological Honesty",
+              "anchor": "methodological-honesty",
+              "line_number": 409,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Relationship to Other Report Types",
+              "anchor": "relationship-to-other-report-types",
+              "line_number": 416,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Invitation to Reconstruct Further",
+              "anchor": "the-invitation-to-reconstruct-further",
+              "line_number": 439,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: Appendix",
+          "anchor": "phase-vii-appendix",
+          "line_number": 450,
+          "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 452,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. References",
+              "anchor": "b-references",
+              "line_number": 486,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Methodology and Sources Note",
+              "anchor": "c-methodology-and-sources-note",
+              "line_number": 520,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "D. Expansion Topics",
+              "anchor": "d-expansion-topics",
+              "line_number": 533,
+              "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "key-claim",
+        "title": "The Core SDT Proposition",
+        "body": "Human beings possess three innate, universal basic psychological needs — autonomy, competence, and relatedness. The satisfaction of these needs is the proximal cause of intrinsic motivation and psychological well-being; their frustration is the proximal cause of ill-being and controlled motivation. This causal relationship holds across cultures, developmental stages, and life domains.",
+        "line_number": 139,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 7923,
+        "char_end": 8357
+      },
+      {
+        "type": "observation",
+        "title": "Philosophical Inheritance",
+        "body": "SDT's debt to humanistic psychology is substantial and not always made explicit in its empirical literature. The notion that human beings have a \"natural tendency toward growth and integration,\" that certain conditions are \"nutriments\" for development, and that authentic selfhood is the telos of psychological maturation are all humanistic commitments that SDT imported into its theoretical architecture. Whether the empirical programme adequately tests, or merely assumes, these philosophical commitments is a question the first-principles analysis must address.",
+        "line_number": 146,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 9378,
+        "char_end": 9992
+      },
+      {
+        "type": "insight",
+        "title": "What the Framework Enables",
+        "body": "SDT's practical generativity is undeniable. It predicts that autonomy-supportive managerial and educational climates produce higher quality engagement, greater internalisation, better outcomes, and less burnout than controlling climates. These predictions have been replicated across educational, healthcare, and organisational domains. Whatever its philosophical overreach, the framework has genuine predictive and practical value that a first-principles analysis must honour rather than obscure.",
+        "line_number": 153,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 10783,
+        "char_end": 11327
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Articulating Your Priors",
+        "body": "Before the deconstruction begins, consider: what do you currently believe about why people are motivated? Do you believe there are universal human motivations that transcend culture? Do you think external rewards always undermine intrinsic interest, or only sometimes? Where did those beliefs come from — personal experience, your education, a specific course or book? The goal is not to abandon your priors but to make them visible, so you can track which ones survive the audit and which ones don't.",
+        "line_number": 160,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 12266,
+        "char_end": 12822
+      },
+      {
+        "type": "assumption",
+        "title": "Assumption 1: The Three Needs Are the Complete and Correct Set",
+        "body": "**Statement**: Autonomy, competence, and relatedness are the necessary and sufficient basic psychological needs; no additional need is required and none of the three is redundant.\n**Origin**: Theoretical — synthesised from empirical convergence across studies and refined iteratively through the SDT research programme.\n**Evidence For**: The three needs consistently emerge as significant predictors of well-being across studies; factor analyses of need satisfaction scales typically reproduce three correlated but distinct factors.\n**Evidence Against**: Maslow identified five needs; Murray listed 28; more recent proposals add security/safety, self-esteem, and meaning as candidates. The selection of exactly three appears partly historical and partly driven by the SDT researchers' own framework evolution rather than a derivation from first principles. SDT explicitly excludes self-esteem as a need, a contested decision. Martela and Steger have proposed beneficence (contributing to others beyond dyadic relatedness) as a fourth need with independent empirical support.\n**Load-Bearing?**: Highly load-bearing — the three-needs structure is the theory's core organising claim. If additional needs are required, the explanatory completeness claim fails.\n**Verdict**: Revised ⚠ — The three needs have strong empirical support as predictors, but the claim that they are sufficient and exhaustive lacks adequate theoretical or empirical justification. The set likely captures real psychological variables without fully mapping the need landscape.",
+        "line_number": 171,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 13047,
+        "char_end": 14689
+      },
+      {
+        "type": "assumption",
+        "title": "Assumption 2: The Needs Are Innate",
+        "body": "**Statement**: Autonomy, competence, and relatedness are biological necessities encoded in human nature, not acquired through socialisation or cultural transmission.\n**Origin**: Philosophical — drawn from organismic theory and evolutionary psychology, not derived from direct evidence of biological substrates.\n**Evidence For**: The needs appear cross-culturally; evolutionary arguments can be constructed for why organisms would need to act on the environment effectively (competence), maintain social bonds (relatedness), and act according to their own organisational tendencies (autonomy-like self-regulation).\n**Evidence Against**: There is no direct neuroscientific or genetic evidence establishing these three as innate. Cross-cultural appearance is consistent with innateness but equally consistent with near-universal socialisation conditions. The strength of the autonomy need varies significantly across cultures in ways that strain the innateness claim. Philosophical literature on innateness (Prinz, Griffiths) demonstrates that identifying something as \"innate\" requires specific evidential standards that SDT does not meet.\n**Load-Bearing?**: Extremely load-bearing — the innateness claim distinguishes SDT from theories that treat motivation as culturally constituted. If needs are socialized rather than innate, they become strong empirical regularities rather than universal biological necessities, which changes their theoretical status substantially.\n**Verdict**: Dissolved ✗ — The innateness claim is not adequately supported. What the evidence establishes is that need satisfaction consistently predicts well-being; it does not establish that this relationship is biologically hardwired rather than reflecting pervasive socialisation or deep structural features of goal-directed organisms.",
+        "line_number": 181,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 14695,
+        "char_end": 16573
+      },
+      {
+        "type": "assumption",
+        "title": "Assumption 3: The Needs Are Culturally Universal",
+        "body": "**Statement**: The same three needs operate with equivalent salience, function, and meaning across all human cultures.\n**Origin**: Empirical — supported by cross-cultural replication studies in dozens of countries.\n**Evidence For**: Need satisfaction-well-being relationships have been replicated in numerous non-Western countries, including China, Turkey, Russia, and Korea, using validated measures.\n**Evidence Against**: Replication of the statistical relationship does not establish equivalent salience or phenomenological equivalence. Markus and Kitayama's work on independent versus interdependent self-construals demonstrates that the experience of autonomy differs qualitatively across cultures — what counts as acting autonomously is partly culturally constructed. Studies in East Asian contexts show that relatedness can substitute for or even undermine autonomy without ill-being effects, contradicting SDT's prediction of independence between need satisfactions. The SDT measures of autonomy frequently use items reflecting Western individualistic values (e.g., \"I feel free to do things my own way\").\n**Load-Bearing?**: Highly load-bearing — universality is required for the \"basic\" designation. Culturally relative needs are theoretically uninteresting as candidates for biological necessities.\n**Verdict**: Revised ⚠ — The needs appear to predict well-being cross-culturally, but their salience, phenomenological character, and relative weighting are culturally modulated in ways inconsistent with strong universality. A more defensible claim is that the needs reflect deep regularities in goal-directed social organisms that are cross-culturally present but culturally textured.",
+        "line_number": 191,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 16579,
+        "char_end": 18355
+      },
+      {
+        "type": "assumption",
+        "title": "Assumption 4: Autonomy Is Equivalent to Self-Determination",
+        "body": "**Statement**: The need for autonomy — the sense that one's behaviour is self-initiated and volitional — is the same construct as self-determination, and both are equivalent to or fully encompassed by what philosophers call agency.\n**Origin**: Theoretical — Deci and Ryan deliberately distinguish SDT's autonomy from independence, arguing that one can autonomously internalise external values. However, the conflation with self-determination is built into the theory's name.\n**Evidence For**: SDT's autonomy construct is carefully specified: it refers to the experience of volition and self-endorsement, not freedom from social influence. This is a coherent psychological construct.\n**Evidence Against**: Philosophical accounts of agency (e.g., Frankfurt's hierarchy of desires, Bratman's planning theory, Korsgaard's self-constitution) identify dimensions of self-authorship not captured by SDT's autonomy construct. SDT autonomy can be satisfied by internalising heteronomous norms — a person who has fully internalised their society's expectations experiences high SDT-autonomy, but philosophers would contest that this constitutes genuine self-determination. The theory's name suggests a level of philosophical ambition about self-governance that its construct of autonomy-as-volition cannot fully bear.\n**Load-Bearing?**: Moderately load-bearing — the theory's empirical work is largely independent of this philosophical claim, but the normative claims SDT makes about human flourishing and authenticity depend on it.\n**Verdict**: Revised ⚠ — SDT's autonomy is a genuine and valuable psychological construct (experienced volition), but it should not be equated with philosophical self-determination or full agency. The theory is stronger when autonomy is treated as a phenomenological variable rather than as a metaphysical condition of self-authorship.",
+        "line_number": 201,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 18361,
+        "char_end": 20311
+      },
+      {
+        "type": "assumption",
+        "title": "Assumption 5: The Internalization Continuum Is a True Continuum",
+        "body": "**Statement**: External regulation, introjection, identification, integrated regulation, and intrinsic motivation form a single underlying dimension of increasing self-determination, such that differences between adjacent positions are differences of degree, not kind.\n**Origin**: Theoretical — derived from the organismic integration model and supported by simplex (quasi-circumplex) correlation patterns in empirical data.\n**Evidence For**: Correlational studies show that adjacent regulatory styles correlate more strongly than non-adjacent ones, producing the simplex pattern SDT predicts. Meta-analyses confirm the graded relationship between regulatory style and outcomes.\n**Evidence Against**: Qualitative research suggests that integrated regulation and intrinsic motivation may be phenomenologically distinct in ways the continuum model obscures. Intrinsic motivation involves activity as its own reward; integrated regulation involves self-coherent pursuit of valued outcomes — these are categorically different relations between self and activity. Ryan and Deci's own writing acknowledges this distinction but maintains the continuum model for parsimony. The question of whether identified regulation and intrinsic motivation produce functionally equivalent outcomes (as the continuum implies) or qualitatively different ones (as the categorical view suggests) is not settled.\n**Load-Bearing?**: Moderately load-bearing — the continuum model simplifies the OIT framework considerably. If intrinsic motivation is categorically distinct, the policy implication (promote internalisation as equivalent to promoting intrinsic motivation) requires qualification.\n**Verdict**: Revised ⚠ — The simplex pattern supports a graded ordering but not necessarily strict continuity. Intrinsic motivation should be distinguished from even fully integrated extrinsic motivation as a categorical difference in the self-activity relationship, not merely a further point along a single dimension.",
+        "line_number": 211,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 20317,
+        "char_end": 22401
+      },
+      {
+        "type": "assumption",
+        "title": "Assumption 6: Need Frustration Is the Absence of Need Satisfaction",
+        "body": "**Statement**: Psychological ill-being results from insufficient need satisfaction — the needs operate on a unipolar dimension from satisfied to unsatisfied.\n**Origin**: Original SDT formulation — implicit in early need satisfaction measures.\n**Evidence For**: Early SDT studies used need satisfaction as a predictor, finding expected positive effects on well-being.\n**Evidence Against**: Vansteenkiste, Ryan, and Deci's own later work (Basic Psychological Need Theory expanded, 2020) explicitly distinguishes need satisfaction from need frustration as separate dimensions. Need frustration (active thwarting of needs) produces stronger ill-being effects than mere absence of satisfaction. This is now accepted within SDT, but it required revising the original assumption that the dimension was unipolar.\n**Load-Bearing?**: Was load-bearing; SDT has partially corrected this assumption internally.\n**Verdict**: Revised ⚠ — Need frustration and need satisfaction are partially independent dimensions. This is now recognised within SDT but its implications for the causal model of need→well-being have not been fully absorbed into standard presentations of the theory.",
+        "line_number": 221,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 22407,
+        "char_end": 23673
+      },
+      {
+        "type": "assumption",
+        "title": "Assumption 7: The Organismic Integration Assumption — Humans Have a Natural Tendency Toward Growth",
+        "body": "**Statement**: Human beings naturally tend toward psychological integration, growth, and the assimilation of experience into a coherent self — and motivation research should explain deviations from this tendency rather than explaining the tendency itself.\n**Origin**: Philosophical — explicitly inherited from Rogers' organismic actualising tendency and Aristotle's notion of entelechy.\n**Evidence For**: Developmental research shows that under adequate conditions, children spontaneously explore, exhibit curiosity, and develop increasingly integrated self-structures.\n**Evidence Against**: Evolutionary accounts of human cognition emphasise conservation of effort, loss aversion, and the prevalence of motivated reasoning over veridical self-integration. The assumption that integration is the default state rather than an achieved, effortful, culturally-scaffolded outcome is philosophically contentious. Many psychological phenomena — cognitive dissonance reduction, self-handicapping, motivated forgetting — suggest that the organism actively avoids integration when integration is threatening.\n**Load-Bearing?**: Load-bearing at the meta-theoretical level. SDT's explanatory strategy of explaining controlled motivation as a deviation from an autonomous natural state depends on this assumption.\n**Verdict**: Suspended ? — Insufficient evidence to judge definitively. Human organisms exhibit both integrative and disintegrative tendencies, and which predominates may depend on conditions, developmental stage, and individual difference. The assumption functions as a productive heuristic rather than an established empirical truth.",
+        "line_number": 231,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 23679,
+        "char_end": 25448
+      },
+      {
+        "type": "assumption",
+        "title": "Assumption 8: Need Satisfaction Directly Causes Well-Being",
+        "body": "**Statement**: The causal mechanism from need satisfaction to well-being is direct, not mediated by cognitive appraisal, cultural meaning-making, or identity processes.\n**Origin**: The standard causal model in SDT research, built into how studies are designed and analysed.\n**Evidence For**: Longitudinal studies find need satisfaction predicting well-being even when controlling for many third variables; daily diary studies find within-person temporal coupling between need satisfaction and daily well-being.\n**Evidence Against**: Need satisfaction is typically measured through self-report — meaning participants assess whether their needs were satisfied, which is already a cognitive appraisal. The distinction between \"needs were satisfied\" and \"I believe/feel my needs were satisfied\" is not maintained in the empirical programme. Cultural context shapes whether the same objective situation is experienced as need-satisfying, suggesting that cognitive mediation is inherent to the mechanism, not an add-on.\n**Load-Bearing?**: Moderately load-bearing — the causal claim drives intervention design (change the environment → satisfy needs → improve well-being). If cognitive mediation is central, then changing how people interpret their environments may be as important as changing the environments themselves.\n**Verdict**: Revised ⚠ — Need satisfaction-as-appraisal is likely the operative mechanism. This does not undermine SDT's empirical findings but requires that the causal story include cognitive meaning-making as an inherent component, not a confound to be controlled.",
+        "line_number": 241,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 25454,
+        "char_end": 27128
+      },
+      {
+        "type": "reflection",
+        "title": "After the Audit",
+        "body": "1. Which assumption's dissolution surprised you most? For many readers, the innateness claim (Assumption 2) is assumed so deeply that its dissolution feels disorienting — needs seem so obviously basic. Its dissolution points to the difference between \"reliably predicts well-being\" and \"is a biological necessity.\"\n2. Which survived most intact? The empirical core — that something like autonomy, competence, and relatedness satisfaction consistently predicts flourishing outcomes — is robustly supported, even if its theoretical framing as innate and universal is not.\n3. What does the assumption map reveal? The assumptions cluster around two underlying commitments: a philosophical anthropology (humans are naturally growth-oriented organisms with innate needs) and an empirical research programme (need satisfaction predicts well-being). These two layers are conflated in the standard presentation but are separable — the empirical programme can survive the dissolution of the philosophical anthropology.",
+        "line_number": 251,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 27134,
+        "char_end": 28185
+      },
+      {
+        "type": "principle-point",
+        "title": "Axiom 1: Goal-Directed Behaviour Exists and Is Differentially Regulated",
+        "body": "**Statement**: Human beings engage in goal-directed behaviour, and this behaviour is not uniformly regulated — some goal pursuit is experienced as more volitional, effortful, and self-coherent than other goal pursuit.\n**Type**: Empirical axiom\n**Justification**: The existence of goal-directed behaviour is one of the most robustly documented features of human and animal cognition. The differential experience of volitional versus compelled behaviour is supported by phenomenological reports, behavioural persistence data, and task engagement studies across cultures, developmental stages, and clinical populations. This is not a theoretical imposition; it is a robust empirical regularity.\n**Scope**: Universal — applies wherever goal-directed behaviour exists, which is essentially all of cognition.\n**Derived From**: Decades of motivational research, cognitive psychology, and phenomenological investigation.",
+        "line_number": 264,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 28446,
+        "char_end": 29466
+      },
+      {
+        "type": "principle-point",
+        "title": "Axiom 2: Motivation Quality Matters Independently of Motivation Quantity",
+        "body": "**Statement**: The subjective quality of motivation — whether behaviour is experienced as volitional or compelled, intrinsically interesting or instrumentally necessary — predicts behavioural, cognitive, and affective outcomes in ways that are not fully explained by motivation intensity alone.\n**Type**: Empirical axiom\n**Justification**: Meta-analyses across educational, health, and organisational domains consistently demonstrate that autonomous motivation (volitional engagement) predicts better-quality outcomes — greater persistence, creativity, conceptual learning, and well-being — than controlled motivation of equivalent intensity. This relationship is not reducible to the quantity of effort expended; quality of engagement is independently predictive.\n**Scope**: The relationship between motivation quality and outcomes is well-established in adults and adolescents in WEIRD (Western, Educated, Industrialised, Rich, Democratic) societies; cross-cultural evidence suggests the relationship is widespread but not invariant.\n**Derived From**: SDT meta-analyses (Deci et al., 1999; Ng et al., 2012), educational psychology research, health behaviour change literature.",
+        "line_number": 273,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 29472,
+        "char_end": 30759
+      },
+      {
+        "type": "principle-point",
+        "title": "Axiom 3: Social Context Systematically Modulates Motivation Quality",
+        "body": "**Statement**: Features of the social environment — specifically the degree to which it supports versus controls goal pursuit, and the degree to which it provides informational versus controlling feedback about competence — reliably shift motivation quality in predictable directions.\n**Type**: Empirical axiom\n**Justification**: This is the best-established empirical finding in the SDT tradition. Autonomy-supportive contexts (offering choice, providing rationale, minimising pressure) consistently produce more autonomous motivation than controlling contexts across educational, healthcare, parenting, and workplace settings. The mechanism — whether it operates through need satisfaction, appraisal, or both — is more contested than the phenomenon itself.\n**Scope**: Broad but with cultural variation in what counts as \"autonomy-supportive.\" The phenomenon is cross-culturally robust; the operationalisation is culturally embedded.\n**Derived From**: Grolnick & Ryan (1987), Deci et al. (1994), Reeve (2006), Ryan & Deci (2000), numerous cross-cultural replications.",
+        "line_number": 282,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 30765,
+        "char_end": 31937
+      },
+      {
+        "type": "principle-point",
+        "title": "Axiom 4: Humans Form Affiliative Attachments Whose Quality Affects Motivational Regulation",
+        "body": "**Statement**: Human beings form bonds of attachment and affiliation with others, and the quality of these bonds — particularly their security and responsiveness — influences the degree to which the individual can engage autonomously in goal pursuit without defensive or approval-seeking motivational dynamics.\n**Type**: Empirical axiom (with partial evolutionary grounding)\n**Justification**: Attachment research (Bowlby, Ainsworth) establishes that early affiliative bonds shape internal working models that affect affect regulation, exploratory behaviour, and interpersonal trust. SDT's relatedness need captures part of this phenomenon, but the axiom is broader: it states that social belonging and connection are conditions of possibility for autonomous motivation, not merely parallel needs. Secure social relationships enable rather than substitute for autonomous engagement with the world.\n**Scope**: Developmental research is most robust for attachment; adult affiliative bonds have analogous though weaker effects.\n**Derived From**: Attachment theory, interpersonal trust research, SDT relatedness research.",
+        "line_number": 291,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 31943,
+        "char_end": 33187
+      },
+      {
+        "type": "principle-point",
+        "title": "Axiom 5: External Regulation Can Be Progressively Internalised, and the Degree of Internalisation Affects Outcome Quality",
+        "body": "**Statement**: Behaviours initially regulated by external contingencies can, under conditions of need support, be progressively taken over by internal regulatory processes, and the degree of internalisation correlates with the quality of behaviour and well-being.\n**Type**: Empirical axiom\n**Justification**: OIT's core empirical claim — that internalization is a real and functional process, not merely a phenomenological category — is well supported by longitudinal research showing that need-supportive contexts predict transitions from external to identified and integrated regulation, and that these transitions predict outcome improvements. The precise mechanism (whether it requires explicit autonomous endorsement or can proceed through affect and implicit processing) remains debated.\n**Scope**: Applies robustly in educational, health behaviour, and organisational contexts where external demands are initially non-intrinsically-motivated.\n**Derived From**: OIT research programme; longitudinal studies in academic, sport, and health contexts.",
+        "line_number": 300,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 33193,
+        "char_end": 34404
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Testing the Axioms",
+        "body": "For each axiom, attempt the negation test. Can you imagine a world in which motivation quality does not affect outcomes — where volitional and compelled behaviour produce equivalent results? That seems implausible given the mechanistic reasoning about cognitive engagement, not just the correlational evidence. Can you imagine a world where social context has no effect on motivation quality? That would require human motivation to be entirely internally determined, which contradicts everything known about social cognition. The axioms survive not because they are logically necessary but because they are empirically robust enough to function as foundations.",
+        "line_number": 309,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 34410,
+        "char_end": 35119
+      },
+      {
+        "type": "reflection",
+        "title": "The Foundations Revealed",
+        "body": "1. There are fewer axioms than the full SDT theoretical structure implies — because much of that structure rests on assumptions (innateness, universality as strong claim, three-need completeness) that dissolved under audit. What remains is leaner but also more secure.\n2. None of the axioms require the language of \"needs.\" They can be stated in terms of motivation quality, social context, and internalisation processes — which are more directly operationalisable constructs.\n3. The axioms are largely behavioural and relational; they do not presuppose a particular philosophical anthropology about human nature's orientation toward growth.",
+        "line_number": 314,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 35125,
+        "char_end": 35818
+      },
+      {
+        "type": "key-claim",
+        "title": "Reconstructed Motivational Framework — Core Claims",
+        "body": "1. Human motivation exists on a quality dimension from compelled-external to volitional-internal, and position on this dimension has independent causal effects on behavioural, cognitive, and affective outcomes.\n2. Motivation quality is a relational-emergent property of person-context transactions, not solely an internal property of the person.\n3. Social contexts that structure goal pursuit with rationale, choice, and informational (rather than controlling) feedback shift motivation quality toward the volitional end through processes of reduced external pressure and facilitated cognitive endorsement.\n4. Secure affiliative bonds enable autonomous motivation by reducing defensive regulatory dynamics; they are better understood as preconditions for autonomous motivation than as parallel needs of equivalent status.\n5. Motivation quality can be progressively improved through internalisation processes that are facilitated by need-supportive social conditions, and this improvement predicts sustained gains in outcome quality.",
+        "line_number": 341,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 39257,
+        "char_end": 40370
+      },
+      {
+        "type": "key-insight",
+        "title": "Novel Insight 1: Autonomy as Relational Achievement** [NOVEL]",
+        "body": "The dissolution of the innateness assumption and the recognition of motivation quality as a relational-emergent property suggests that autonomy is better conceptualised as a relational achievement than as the expression of an internal biological need. This matters for intervention: rather than asking \"how do we satisfy the person's pre-existing need for autonomy?\", the more productive question is \"what conditions of the person-context transaction constitute autonomous motivation?\" This reframing opens space for relational, contextual, and cultural variation in what autonomous motivation looks like — without abandoning the finding that volitional engagement predicts better outcomes.",
+        "line_number": 348,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 40371,
+        "char_end": 41145
+      },
+      {
+        "type": "key-insight",
+        "title": "Novel Insight 2: The Asymmetry of Relatedness and Autonomy** [NOVEL]",
+        "body": "SDT's parallel needs model implies that relatedness satisfaction and autonomy satisfaction are independent and additive contributors to well-being. The reconstruction from Axioms 3 and 4 suggests instead that affiliative security is a precondition for autonomous motivation to emerge and sustain. This predicts an interaction effect: the motivational benefit of autonomy-supportive social contexts should be modulated by attachment security. Individuals with insecure attachment should show weaker autonomy-support effects on motivation quality — not because they lack the autonomy need, but because the defensive regulatory dynamics activated by attachment insecurity are not dissolved by autonomy support alone.",
+        "line_number": 351,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 41146,
+        "char_end": 41950
+      },
+      {
+        "type": "thought-experiment",
+        "title": "Testing the Reconstructed Framework",
+        "body": "Consider a workplace designed to be maximally autonomy-supportive — offering genuine choice, transparent rationale, and competence-informational feedback — but in which employees experience chronic insecure social belonging (colleagues are cold, status is threatened). SDT's parallel needs model predicts that autonomy satisfaction will produce well-being gains even under relatedness frustration, with need frustration and satisfaction having additive effects. The reconstructed framework predicts that autonomy support will be substantially less effective because the attachment-insecurity context activates defensive regulatory dynamics that prevent full internalisation. This is a testable differential prediction — and preliminary evidence from workplace well-being studies showing that psychological safety moderates the autonomy-support effect is consistent with the reconstructed view.",
+        "line_number": 354,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 41951,
+        "char_end": 42911
+      },
+      {
+        "type": "reflection",
+        "title": "The Rebuilt Understanding",
+        "body": "1. What is most unsettling in this phase is the divergence on the relational-emergent character of autonomy — SDT's entire framing treats autonomy as something the organism \"has\" and contexts \"satisfy.\" The reconstructed view treats it as something that emerges in the right person-context transaction. This feels like a smaller point but has large implications for how we design environments and interventions.\n2. The most reassuring convergence is that the core intervention logic — autonomy-supportive contexts produce better motivation quality, and this matters — is fully recoverable without any of the dissolved assumptions. SDT's practical programme survives the deconstruction even when its philosophical architecture does not.\n3. Changed practice: the reconstructed framework suggests attending to relational safety and belonging before deploying autonomy-supportive practices, rather than treating the needs as parallel levers of equal and independent standing.",
+        "line_number": 357,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 42912,
+        "char_end": 43936
+      },
+      {
+        "type": "best-practice",
+        "title": "Reconstructed Intervention Principle",
+        "body": "Prioritise affiliative security and psychological safety as structural preconditions before deploying autonomy-support interventions. Autonomy support in a context of belonging threat is likely to produce weaker motivational benefits than the standard SDT framework predicts, because defensive regulatory dynamics activated by attachment insecurity will attenuate the internalisation processes that autonomy support is designed to facilitate.",
+        "line_number": 382,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 46794,
+        "char_end": 47299
+      },
+      {
+        "type": "warning",
+        "title": "What Convention Gets Wrong",
+        "body": "The strongest practical error arising from the conventional SDT framework is the treatment of the three needs as parallel and equally independent contributors to well-being. This produces training programmes and environmental design approaches that address each need separately — add choice (autonomy), provide positive feedback (competence), schedule team activities (relatedness) — without attending to the functional interdependence of these conditions. The reconstruction suggests that relatedness/belonging is a precondition for the motivational effectiveness of autonomy support, not a parallel need of equal standing.",
+        "line_number": 385,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 47300,
+        "char_end": 47971
+      },
+      {
+        "type": "reflection",
+        "title": "Living with Revised Understanding",
+        "body": "1. The deconstruction reduces confidence in the sweeping universality claims while increasing confidence in the empirical core. This is the epistemically appropriate response: SDT is an extremely productive research programme whose theoretical overreach should be pruned rather than used as grounds for wholesale rejection.\n2. The most practically important change is attending to the functional asymmetry of relatedness and autonomy — belonging security as precondition rather than parallel need.\n3. The tension between what the reconstruction reveals (autonomy as relational achievement, culturally textured) and the convenience of the standard SDT framework for practice is real. The standard framework's simplicity is a practical asset; the reconstruction's accuracy is an epistemic requirement. Practitioners navigating this tension should treat SDT's three-need framework as a useful heuristic while attending to its limitations in high-stakes contexts (cross-cultural applications, clinical populations with attachment disruption).",
+        "line_number": 396,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 48784,
+        "char_end": 49883
+      },
+      {
+        "type": "important",
+        "title": "Limitations of This Analysis",
+        "body": "First, the axiom identification reflects this analyst's synthesis of the SDT literature; different analysts with different philosophical orientations might identify different axioms or draw the lines differently. Second, the \"relational-emergent autonomy\" insight is theoretical — it generates testable predictions but has not itself been directly tested as a formal model. Third, the dissolution of the innateness claim does not establish what the correct account of the biological basis of motivational regulation is; it only establishes that SDT's claim is not adequately supported. Fourth, this analysis draws primarily on English-language empirical literature, which overrepresents WEIRD populations and may not capture the full range of cultural phenomenology relevant to the universality question.",
+        "line_number": 413,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 51105,
+        "char_end": 51960
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections:**\n\nThis first-principles analysis of [[Self-Determination Theory]] connects to existing knowledge in your PKB:\n\n- **[[Intrinsic vs Extrinsic Motivation]]** — The reconstruction's recovery of the motivation quality dimension from axioms alone strengthens the empirical case for distinguishing intrinsic and extrinsic motivation while releasing that distinction from the SDT philosophical framework. Notes on this node should be updated to reflect that the distinction rests on Axiom 2 (motivation quality matters independently of quantity) rather than on the innateness of basic needs.\n\n- **[[Humanistic Psychology]]** — SDT's philosophical debt to Rogers' actualising tendency and Maslow's needs hierarchy is substantial. The dissolution of SDT's innateness claim suggests that this humanistic inheritance should be treated as a useful generative heuristic in SDT's development, not as evidential support for its theoretical claims. The humanistic tradition's empirical weaknesses are partly inherited by SDT's philosophical architecture.\n\n- **[[Growth Mindset]]** — Dweck's growth mindset research intersects with SDT's competence need and the assumption of natural growth orientation. The reconstructed framework's suspension of the natural-growth-tendency assumption is relevant here: both growth mindset research and the SDT organismic assumption may be documenting a cultivated developmental achievement that is made to look like a natural tendency because it is so thoroughly scaffolded by social structures in WEIRD populations.\n\n- **[[Philosophy of Agency]]** — The autonomy-agency distinction identified in Assumption 4's audit directly connects to the philosophy of agency literature. [[Frankfurt's Hierarchy of Desires]], [[Bratman's Planning Theory]], and [[Korsgaard's Self-Constitution]] all offer accounts of agency that go beyond SDT's volitional autonomy, and examining how these relate to the empirical motivation quality dimension would significantly enrich the reconstruction.\n\n- **[[Cross-Cultural Psychology]]** — Markus & Kitayama's independent/interdependent self-construal framework is the most important theoretical lens for understanding what cross-cultural SDT data actually shows. The cultural variation in autonomy phenomenology documented there is more theoretically tractable through the relational-emergent autonomy framework than through SDT's standard universality claim.\n\nThe pattern of connections reveals that SDT sits at the junction of empirical psychology and philosophical anthropology, and much of the confusion in its reception results from inadequate attention to the different epistemic requirements of each domain. The reconstruction treats these as separable enterprises, preserving the empirical contribution while releasing the unsupported philosophical claims.",
+        "line_number": 422,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 52903,
+        "char_end": 55793
+      },
+      {
+        "type": "reflection",
+        "title": "The Method and Its Limits",
+        "body": "1. This analysis changed thinking about first-principles method itself: the most productive application is not dissolving theories but distinguishing what is empirically secured from what is philosophically imported. SDT is a case study in a productive theory whose overreach can be pruned without destroying the productive core.\n2. The most likely blind spot in this analysis is an undervaluation of the need construct itself. The word \"need\" does real philosophical work in distinguishing motivational deficits from preferences — if the three conditions are needs rather than preferences, then social institutions that frustrate them are not merely inconvenient but are legitimate objects of moral critique. Dissolving the innateness claim may inadvertently weaken the normative force of SDT's critique of controlling social structures.\n3. The domain where this analysis is most applicable beyond SDT is any self-help or educational framework that naturalises psychological states or conditions — framing socially constructed achievements as biological expressions of human nature. The first-principles methodology of distinguishing what the evidence establishes from what it is presumed to establish is portable across these frameworks.",
+        "line_number": 443,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 56488,
+        "char_end": 57780
+      },
+      {
+        "type": "definition",
+        "title": "Self-Determination Theory (SDT)",
+        "body": "A macro-theory of human motivation developed by Deci and Ryan proposing that three universal, innate basic psychological needs — autonomy, competence, and relatedness — determine motivation quality and psychological well-being. Encompasses six mini-theories: Cognitive Evaluation Theory, Organismic Integration Theory, Basic Psychological Needs Theory, Causality Orientations Theory, Goal Contents Theory, and Relationships Motivation Theory. The theory's empirical programme is robustly productive; its philosophical architecture (innateness, universality, organismic teleology) is more contested.",
+        "line_number": 454,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 57839,
+        "char_end": 58492
+      },
+      {
+        "type": "definition",
+        "title": "Basic Psychological Needs",
+        "body": "In SDT, the three innate and universal psychological requirements whose satisfaction produces well-being and autonomous motivation: autonomy (experienced volition), competence (experienced effectiveness), and relatedness (experienced belonging and connection). In the reconstructed framework, reframed as empirically robust conditions of autonomous motivation whose innateness is not established.",
+        "line_number": 457,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 58493,
+        "char_end": 58938
+      },
+      {
+        "type": "definition",
+        "title": "Autonomy (SDT)",
+        "body": "The psychological experience of volition and self-endorsement in behaviour — acting from one's own integrated values and interests rather than from external pressure or introjected obligation. Distinct from independence (one can autonomously choose to comply with others). Not equivalent to philosophical self-determination or full agency, though often treated as such in SDT discourse.",
+        "line_number": 460,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 58939,
+        "char_end": 59363
+      },
+      {
+        "type": "definition",
+        "title": "Intrinsic Motivation",
+        "body": "Engagement in an activity for its own inherent interest, enjoyment, or satisfaction, independent of separable outcomes. Phenomenologically characterised by interest, absorption, and the experience of the activity as its own reward. Distinct from integrated regulation in the reconstructed framework, where the self-activity relationship differs categorically: intrinsic motivation involves the activity itself as rewarding; integrated regulation involves self-coherent pursuit of valued but non-intrinsically-interesting outcomes.",
+        "line_number": 463,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 59364,
+        "char_end": 59938
+      },
+      {
+        "type": "definition",
+        "title": "Internalization Continuum (OIT)",
+        "body": "SDT's model of how external regulation is progressively taken over by internal regulatory processes, from external regulation (behaviour driven by external rewards/punishments) through introjection (partially internalised but controlled by internal pressure/guilt), identification (valued and self-endorsed), integration (fully assimilated into the self), to intrinsic motivation (activity is intrinsically rewarding). The reconstruction treats this as an empirically supported graded ordering while contesting its characterisation as a strict continuum with intrinsic motivation as its endpoint.",
+        "line_number": 466,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 59939,
+        "char_end": 60590
+      },
+      {
+        "type": "definition",
+        "title": "Autonomy Support",
+        "body": "A social-contextual condition in which choice is offered, rationale is provided, the actor's perspective is acknowledged, and pressure or coercion is minimised. The primary environmental lever for improving motivation quality in SDT research. Distinguished from permissiveness; autonomy support can include structure and clear expectations delivered in a non-controlling manner.",
+        "line_number": 469,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 60591,
+        "char_end": 61009
+      },
+      {
+        "type": "definition",
+        "title": "Undermining Effect (Overjustification Effect)",
+        "body": "The empirical phenomenon, first demonstrated by Deci (1971), in which the introduction of extrinsic rewards for an intrinsically interesting activity reduces subsequent intrinsic motivation when rewards are removed. Explained in CET as resulting from a shift in perceived locus of causality from internal (intrinsic interest) to external (reward). The replication literature for this effect is mixed; it is most robust for expected, tangible, contingent rewards for activities of initially moderate-to-high intrinsic interest.",
+        "line_number": 472,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 61010,
+        "char_end": 61605
+      },
+      {
+        "type": "definition",
+        "title": "Relational-Emergent Autonomy",
+        "body": "The reconstruction's key novel concept: autonomous motivation as a property that emerges in the transaction between a goal-directed person and an autonomy-supportive social context, rather than as an internal biological need that contexts either satisfy or frustrate. Reframes intervention from \"satisfy the need\" to \"create the transaction conditions in which autonomous motivation can emerge.\"",
+        "line_number": 475,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 61606,
+        "char_end": 62054
+      },
+      {
+        "type": "definition",
+        "title": "Organismic Integration Theory (OIT)",
+        "body": "SDT's sub-theory addressing the processes by which external regulation is internalised. Proposes that humans have a natural tendency to internalise the values and regulations of their social groups, and that this tendency is facilitated by need-supportive conditions. The empirical core — that internalisation is real, gradable, and condition-dependent — survives the reconstruction; the claim that it reflects a biologically grounded natural tendency is treated as a productive heuristic rather than an established fact.",
+        "line_number": 478,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 62055,
+        "char_end": 62635
+      },
+      {
+        "type": "definition",
+        "title": "Need Frustration",
+        "body": "Active thwarting or undermining of a basic psychological need by social conditions — distinct from mere absence of need satisfaction. SDT's expanded BPNT (post-2010) treats need satisfaction and need frustration as partially independent dimensions, with frustration producing stronger ill-being effects than unsatisfaction alone. The original SDT formulation assumed a unipolar need dimension; the distinction was a conceptual revision within the programme.",
+        "line_number": 481,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 62636,
+        "char_end": 63133
+      },
+      {
+        "type": "cite",
+        "title": "Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation.** *Journal of Personality and Social Psychology, 18*(1), 105–115.",
+        "body": "The foundational empirical study demonstrating the undermining effect of external rewards on intrinsic motivation. Launched the SDT research programme by challenging behaviourist orthodoxy and establishing the importance of perceived locus of causality.",
+        "line_number": 488,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 63158,
+        "char_end": 63576
+      },
+      {
+        "type": "cite",
+        "title": "Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior.*** New York: Plenum Press.",
+        "body": "The first comprehensive theoretical statement of SDT, integrating CET, OIT, and the basic needs framework. Establishes the organismic-integration philosophical architecture and the three-need structure.",
+        "line_number": 491,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 63577,
+        "char_end": 63920
+      },
+      {
+        "type": "cite",
+        "title": "Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A meta-analytic review of experiments examining the effects of extrinsic rewards on intrinsic motivation.** *Psychological Bulletin, 125*(6), 627–668.",
+        "body": "The definitive meta-analysis of the undermining effect, examining 128 studies. Finds that expected, tangible, contingent rewards undermine intrinsic motivation; unexpected, non-contingent, verbal rewards do not. Highly influential; also the subject of significant methodological debate (see Cameron & Pierce).",
+        "line_number": 494,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 63921,
+        "char_end": 64445
+      },
+      {
+        "type": "cite",
+        "title": "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.** *American Psychologist, 55*(1), 68–78.",
+        "body": "The most-cited summary of SDT, accessible overview of the six mini-theories and key empirical findings. The best entry point for understanding the conventional SDT framework as intended by its architects.",
+        "line_number": 497,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 64446,
+        "char_end": 64849
+      },
+      {
+        "type": "cite",
+        "title": "Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.** *Psychological Review, 98*(2), 224–253.",
+        "body": "The foundational paper distinguishing independent and interdependent self-construals and their implications for motivation, cognition, and affect. Essential context for evaluating SDT's cross-cultural universality claims, particularly regarding the autonomy need.",
+        "line_number": 500,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 64850,
+        "char_end": 65283
+      },
+      {
+        "type": "cite",
+        "title": "Vansteenkiste, M., & Ryan, R. M. (2013). On psychological growth and vulnerability: Basic psychological need satisfaction and need frustration as a unifying principle.** *Journal of Psychotherapy Integration, 23*(3), 263–280.",
+        "body": "Develops the distinction between need satisfaction and need frustration as partially independent dimensions — a significant internal revision of the original SDT model. Demonstrates that need frustration predicts ill-being beyond what need satisfaction alone explains.",
+        "line_number": 503,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 65284,
+        "char_end": 65793
+      },
+      {
+        "type": "cite",
+        "title": "Martela, F., & Steger, M. F. (2016). The three meanings of meaning in life: Distinguishing coherence, purpose, and significance.** *The Journal of Positive Psychology, 11*(5), 531–545.",
+        "body": "Proposes beneficence as a fourth candidate basic psychological need, independent of the three SDT needs, with empirical evidence for its contribution to well-being. Challenges the completeness claim of the three-need structure.",
+        "line_number": 506,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 65794,
+        "char_end": 66221
+      },
+      {
+        "type": "cite",
+        "title": "Prinz, J. J. (2002). *Furnishing the Mind: Concepts and Their Perceptual Basis.*** Cambridge, MA: MIT Press.",
+        "body": "Philosophical analysis of the concept of innateness and the evidential standards required to establish that a cognitive or motivational property is biologically grounded rather than universally acquired. Provides the philosophical framework for evaluating SDT's innateness claim rigorously.",
+        "line_number": 509,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 66222,
+        "char_end": 66636
+      },
+      {
+        "type": "cite",
+        "title": "Frankfurt, H. G. (1971). Freedom of the will and the concept of a person.** *The Journal of Philosophy, 68*(1), 5–20.",
+        "body": "The seminal paper in the philosophy of agency distinguishing first-order desires from second-order volitions and locating freedom of will in the alignment between these levels. Provides the philosophical benchmark against which SDT's autonomy construct can be measured — and found to fall short of full self-determination.",
+        "line_number": 512,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 66637,
+        "char_end": 67092
+      },
+      {
+        "type": "cite",
+        "title": "Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment.*** New York: Basic Books.",
+        "body": "The foundational text of attachment theory, establishing that affiliative bonds are a biological system that shapes developmental trajectories and internal working models. Provides the theoretical grounding for Axiom 4's claim that secure attachment is a precondition for autonomous motivation.",
+        "line_number": 515,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 67093,
+        "char_end": 67489
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "This analysis draws from three intellectual traditions: (1) the empirical SDT literature, primarily peer-reviewed publications from Deci, Ryan, and their collaborators spanning 1971–2023, including meta-analyses; (2) cross-cultural psychology, particularly the Markus-Kitayama tradition on self-construals; and (3) analytic philosophy of agency (Frankfurt, Bratman, Korsgaard) and philosophy of mind concerning innateness (Prinz, Griffiths).\n\nThe empirical audit of assumptions relies primarily on the SDT empirical literature itself, including internal revisions (the need satisfaction/frustration distinction, cross-cultural replications with nuanced findings) that have not yet been absorbed into standard textbook presentations. The axiomatic reconstruction is the analyst's original synthesis, not a formalisation of any existing source — it represents the theoretical contribution beyond established literature.\n\nClaims marked [CONVERGES] and [DIVERGES] in Phase IV reflect comparisons between the reconstructed framework and the standard SDT account; these are the analyst's own theoretical positions and should be treated as reasoned proposals rather than established conclusions. The novel insights (relational-emergent autonomy; asymmetry of relatedness and autonomy) are theoretical proposals that generate testable predictions but have not been directly tested as formal models.\n\nPotential blind spots: the analysis may underweight the normative and political dimensions of SDT's needs language (treating needs as social constructions weakens their status as objects of social justice critique); the analysis overrepresents WEIRD-population research; and the philosopher-of-agency tradition invoked for the autonomy-agency distinction is itself culturally specific in important ways.",
+        "line_number": 522,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 67532,
+        "char_end": 69407
+      },
+      {
+        "type": "further-exploration",
+        "title": "Topics for Continued Investigation",
+        "body": "",
+        "line_number": 535,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 69438,
+        "char_end": 69502
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "- **Topic**: The Undermining Effect — Replication Crisis and Reconceptualisation\n  - **Report Type**: First Principles\n  - **Description**: The original undermining effect (Deci 1971) is SDT's most famous empirical finding, but its replication record is contested. A first-principles analysis would audit the conditions under which the effect holds, examine whether it requires the SDT theoretical apparatus or can be explained by more minimal constructs (task interest, appraisal of external control), and reconstruct a more conditionally specified account of when external rewards undermine intrinsic motivation.\n  - **Priority**: High — central to SDT's empirical case",
+        "line_number": 537,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 69503,
+        "char_end": 70199
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "- **Topic**: The Competence Need — Effectance, Flow, and Challenge-Skill Balance\n  - **Report Type**: First Principles\n  - **Description**: The three SDT needs are not equally theoretically controversial — competence is the most intuitively biological-sounding (relating to effective functioning), making it the most important to examine carefully. Does the \"need for competence\" add explanatory power beyond the constructs of White's effectance motivation, Csikszentmihalyi's flow, and Elliot's achievement goal framework? A first-principles analysis would examine the minimal axiomatic basis required to derive the competence-need-well-being relationship.\n  - **Priority**: High — addresses the least-examined SDT need",
+        "line_number": 543,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 70200,
+        "char_end": 70945
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "- **Topic**: Autonomy and Agency — A Philosophical Dialogue\n  - **Report Type**: Socratic Dialogue\n  - **Description**: The tension between SDT's psychological construct of autonomy (experienced volition) and philosophical accounts of self-determination (Frankfurt's hierarchy of desires, Bratman's planning agency, Korsgaard's self-constitution) is productive and not fully resolved by either tradition. A Socratic dialogue would develop both positions rigorously, examining whether they are genuinely in conflict or whether they are addressing different explanatory targets.\n  - **Priority**: High — addresses the most philosophically significant open question",
+        "line_number": 549,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 70946,
+        "char_end": 71633
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "- **Topic**: SDT Across Cultures — Universality, Variation, and Cultural Psychology\n  - **Report Type**: Foundational\n  - **Description**: A comprehensive landscape map of the cross-cultural SDT literature, examining what the replications actually establish, where culturally specific findings emerge, and how SDT researchers and critics have engaged with the universality question. Would provide the detailed evidential foundation that this first-principles report's Phase II audit treats more schematically.\n  - **Priority**: High — the universality question is the most empirically contested area",
+        "line_number": 555,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 71634,
+        "char_end": 72258
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "- **Topic**: The Normative Dimension of Basic Needs — Social Justice and SDT\n  - **Report Type**: First Principles\n  - **Description**: SDT's language of \"basic needs\" carries normative weight: if institutions frustrate basic psychological needs, they are not merely inefficient but are perpetrating a form of harm. The dissolution of the innateness claim in this report raises the question of whether this normative argument survives — whether needs-language can be maintained as a political-normative tool even if the biological grounding is not established. A first-principles analysis of the normative dimension would examine what philosophical work the \"need\" concept does in SDT's implicit social critique.\n  - **Priority**: Medium — relevant for policy and advocacy applications of SDT",
+        "line_number": 561,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 72259,
+        "char_end": 73076
+      },
+      {
+        "type": "topic-idea",
+        "title": "Untitled",
+        "body": "- **Topic**: Maslow's Hierarchy of Needs — A First Principles Parallel Analysis\n  - **Report Type**: First Principles\n  - **Description**: Maslow's needs hierarchy is SDT's closest ancestor and most prominent rival in the popular imagination. A parallel first-principles deconstruction would allow direct comparison of what survives from each framework when the philosophical assumptions are stripped away — and would illuminate what the \"needs\" framing as a whole contributes and costs in motivational theorising.\n  - **Priority**: Medium — provides comparative context for SDT's theoretical choices",
+        "line_number": 567,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md",
+        "char_start": 73077,
+        "char_end": 73702
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Basic Psychological Needs Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Basic Psychological Needs Theory]]",
+        "line_number": 137,
+        "section": "The Standard Account",
+        "context_line": "The theoretical architecture rests on three coordinated pillars. First, [[Basic Psychological Needs Theory]] (BPNT) specifies that the needs for [[Autonomy]], [[Competence]], and [[Relatedness]] are universal and innate — not learned preferences, cultural acquisitions, or instrumental desires, but biological necessities analogous to nutritional needs. When these needs are satisfied, psychological flourishing follows; when frustrated, ill-being results. Second, [[Cognitive Evaluation Theory]] (CET) details how external events — rewards, deadlines, surveillance — affect intrinsic motivation by changing the perceived locus of causality and conveying information about competence. Third, [[Organismic Integration Theory]] (OIT) describes how extrinsic regulation can be internalised along a continuum from purely external regulation, through introjection, identification, and integration, toward a functionally equivalent form of self-determination. Together, these sub-theories tell a story about human beings who are built for autonomy, capable of internalising external demands into their own motivational economy, and who flourish when the social world supports rather than undermines their fundamental psychological nature.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Autonomy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Autonomy]]",
+        "line_number": 137,
+        "section": "The Standard Account",
+        "context_line": "The theoretical architecture rests on three coordinated pillars. First, [[Basic Psychological Needs Theory]] (BPNT) specifies that the needs for [[Autonomy]], [[Competence]], and [[Relatedness]] are universal and innate — not learned preferences, cultural acquisitions, or instrumental desires, but biological necessities analogous to nutritional needs. When these needs are satisfied, psychological flourishing follows; when frustrated, ill-being results. Second, [[Cognitive Evaluation Theory]] (CET) details how external events — rewards, deadlines, surveillance — affect intrinsic motivation by changing the perceived locus of causality and conveying information about competence. Third, [[Organismic Integration Theory]] (OIT) describes how extrinsic regulation can be internalised along a continuum from purely external regulation, through introjection, identification, and integration, toward a functionally equivalent form of self-determination. Together, these sub-theories tell a story about human beings who are built for autonomy, capable of internalising external demands into their own motivational economy, and who flourish when the social world supports rather than undermines their fundamental psychological nature.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Competence",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Competence]]",
+        "line_number": 137,
+        "section": "The Standard Account",
+        "context_line": "The theoretical architecture rests on three coordinated pillars. First, [[Basic Psychological Needs Theory]] (BPNT) specifies that the needs for [[Autonomy]], [[Competence]], and [[Relatedness]] are universal and innate — not learned preferences, cultural acquisitions, or instrumental desires, but biological necessities analogous to nutritional needs. When these needs are satisfied, psychological flourishing follows; when frustrated, ill-being results. Second, [[Cognitive Evaluation Theory]] (CET) details how external events — rewards, deadlines, surveillance — affect intrinsic motivation by changing the perceived locus of causality and conveying information about competence. Third, [[Organismic Integration Theory]] (OIT) describes how extrinsic regulation can be internalised along a continuum from purely external regulation, through introjection, identification, and integration, toward a functionally equivalent form of self-determination. Together, these sub-theories tell a story about human beings who are built for autonomy, capable of internalising external demands into their own motivational economy, and who flourish when the social world supports rather than undermines their fundamental psychological nature.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Relatedness",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Relatedness]]",
+        "line_number": 137,
+        "section": "The Standard Account",
+        "context_line": "The theoretical architecture rests on three coordinated pillars. First, [[Basic Psychological Needs Theory]] (BPNT) specifies that the needs for [[Autonomy]], [[Competence]], and [[Relatedness]] are universal and innate — not learned preferences, cultural acquisitions, or instrumental desires, but biological necessities analogous to nutritional needs. When these needs are satisfied, psychological flourishing follows; when frustrated, ill-being results. Second, [[Cognitive Evaluation Theory]] (CET) details how external events — rewards, deadlines, surveillance — affect intrinsic motivation by changing the perceived locus of causality and conveying information about competence. Third, [[Organismic Integration Theory]] (OIT) describes how extrinsic regulation can be internalised along a continuum from purely external regulation, through introjection, identification, and integration, toward a functionally equivalent form of self-determination. Together, these sub-theories tell a story about human beings who are built for autonomy, capable of internalising external demands into their own motivational economy, and who flourish when the social world supports rather than undermines their fundamental psychological nature.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Cognitive Evaluation Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cognitive Evaluation Theory]]",
+        "line_number": 137,
+        "section": "The Standard Account",
+        "context_line": "The theoretical architecture rests on three coordinated pillars. First, [[Basic Psychological Needs Theory]] (BPNT) specifies that the needs for [[Autonomy]], [[Competence]], and [[Relatedness]] are universal and innate — not learned preferences, cultural acquisitions, or instrumental desires, but biological necessities analogous to nutritional needs. When these needs are satisfied, psychological flourishing follows; when frustrated, ill-being results. Second, [[Cognitive Evaluation Theory]] (CET) details how external events — rewards, deadlines, surveillance — affect intrinsic motivation by changing the perceived locus of causality and conveying information about competence. Third, [[Organismic Integration Theory]] (OIT) describes how extrinsic regulation can be internalised along a continuum from purely external regulation, through introjection, identification, and integration, toward a functionally equivalent form of self-determination. Together, these sub-theories tell a story about human beings who are built for autonomy, capable of internalising external demands into their own motivational economy, and who flourish when the social world supports rather than undermines their fundamental psychological nature.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Organismic Integration Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Organismic Integration Theory]]",
+        "line_number": 137,
+        "section": "The Standard Account",
+        "context_line": "The theoretical architecture rests on three coordinated pillars. First, [[Basic Psychological Needs Theory]] (BPNT) specifies that the needs for [[Autonomy]], [[Competence]], and [[Relatedness]] are universal and innate — not learned preferences, cultural acquisitions, or instrumental desires, but biological necessities analogous to nutritional needs. When these needs are satisfied, psychological flourishing follows; when frustrated, ill-being results. Second, [[Cognitive Evaluation Theory]] (CET) details how external events — rewards, deadlines, surveillance — affect intrinsic motivation by changing the perceived locus of causality and conveying information about competence. Third, [[Organismic Integration Theory]] (OIT) describes how extrinsic regulation can be internalised along a continuum from purely external regulation, through introjection, identification, and integration, toward a functionally equivalent form of self-determination. Together, these sub-theories tell a story about human beings who are built for autonomy, capable of internalising external demands into their own motivational economy, and who flourish when the social world supports rather than undermines their fundamental psychological nature.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Organismic Integration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Organismic Integration]]",
+        "line_number": 144,
+        "section": "The Standard Narrative",
+        "context_line": "The origin story of SDT begins with Deci's 1971 experiments on the undermining effect, demonstrating that extrinsic rewards could paradoxically reduce intrinsic motivation for interesting tasks. This challenged behaviourist orthodoxy and placed the phenomenology of the actor — their subjective experience of volition — at the centre of motivational explanation. Ryan joined the project in the 1980s, and the collaboration produced an increasingly elaborate theoretical framework grounded in an [[Organismic Integration]] philosophy: humans are not passive responders to environmental contingencies, but active integrative systems with natural tendencies toward growth, internalisation, and self-coherence. The theory's intellectual lineage runs through humanistic psychology — particularly [[Carl Rogers]]' person-centred theory and [[Abraham Maslow]]'s needs hierarchy — though Deci and Ryan sought to place these intuitions on empirical foundations that Rogers and Maslow never provided.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Carl Rogers",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Carl Rogers]]",
+        "line_number": 144,
+        "section": "The Standard Narrative",
+        "context_line": "The origin story of SDT begins with Deci's 1971 experiments on the undermining effect, demonstrating that extrinsic rewards could paradoxically reduce intrinsic motivation for interesting tasks. This challenged behaviourist orthodoxy and placed the phenomenology of the actor — their subjective experience of volition — at the centre of motivational explanation. Ryan joined the project in the 1980s, and the collaboration produced an increasingly elaborate theoretical framework grounded in an [[Organismic Integration]] philosophy: humans are not passive responders to environmental contingencies, but active integrative systems with natural tendencies toward growth, internalisation, and self-coherence. The theory's intellectual lineage runs through humanistic psychology — particularly [[Carl Rogers]]' person-centred theory and [[Abraham Maslow]]'s needs hierarchy — though Deci and Ryan sought to place these intuitions on empirical foundations that Rogers and Maslow never provided.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Abraham Maslow",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Abraham Maslow]]",
+        "line_number": 144,
+        "section": "The Standard Narrative",
+        "context_line": "The origin story of SDT begins with Deci's 1971 experiments on the undermining effect, demonstrating that extrinsic rewards could paradoxically reduce intrinsic motivation for interesting tasks. This challenged behaviourist orthodoxy and placed the phenomenology of the actor — their subjective experience of volition — at the centre of motivational explanation. Ryan joined the project in the 1980s, and the collaboration produced an increasingly elaborate theoretical framework grounded in an [[Organismic Integration]] philosophy: humans are not passive responders to environmental contingencies, but active integrative systems with natural tendencies toward growth, internalisation, and self-coherence. The theory's intellectual lineage runs through humanistic psychology — particularly [[Carl Rogers]]' person-centred theory and [[Abraham Maslow]]'s needs hierarchy — though Deci and Ryan sought to place these intuitions on empirical foundations that Rogers and Maslow never provided.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Self-Determination Theory Foundational Report",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory Foundational Report]]",
+        "line_number": 418,
+        "section": "Relationship to Other Report Types",
+        "context_line": "A [[Self-Determination Theory Foundational Report]] would complement this analysis by mapping the full SDT research landscape encyclopaedically — the six mini-theories in detail, the measurement instruments, the applied literatures in health behaviour change, education, sport, and work. The foundational report would provide the comprehensive cartography that this deconstructive analysis, by design, does not offer.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Socratic Dialogue on Autonomy and Self-Determination",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socratic Dialogue on Autonomy and Self-Determination]]",
+        "line_number": 420,
+        "section": "Relationship to Other Report Types",
+        "context_line": "A [[Socratic Dialogue on Autonomy and Self-Determination]] would productively develop the tension between the SDT operationalisation of autonomy (as experienced volition) and the philosophical tradition's accounts of self-determination (as self-authorship, reflective endorsement of desires, or self-constitution). This dialectical treatment would push further into the philosophical stakes of the autonomy-agency distinction that this report identifies but does not fully resolve.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Self-Determination Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Self-Determination Theory]]",
+        "line_number": 425,
+        "section": "Relationship to Other Report Types",
+        "context_line": "> This first-principles analysis of [[Self-Determination Theory]] connects to existing knowledge in your PKB:",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Intrinsic vs Extrinsic Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Intrinsic vs Extrinsic Motivation]]",
+        "line_number": 427,
+        "section": "Relationship to Other Report Types",
+        "context_line": "> - **[[Intrinsic vs Extrinsic Motivation]]** — The reconstruction's recovery of the motivation quality dimension from axioms alone strengthens the empirical case for distinguishing intrinsic and extrinsic motivation while releasing that distinction from the SDT philosophical framework. Notes on this node should be updated to reflect that the distinction rests on Axiom 2 (motivation quality matters independently of quantity) rather than on the innateness of basic needs.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Humanistic Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Humanistic Psychology]]",
+        "line_number": 429,
+        "section": "Relationship to Other Report Types",
+        "context_line": "> - **[[Humanistic Psychology]]** — SDT's philosophical debt to Rogers' actualising tendency and Maslow's needs hierarchy is substantial. The dissolution of SDT's innateness claim suggests that this humanistic inheritance should be treated as a useful generative heuristic in SDT's development, not as evidential support for its theoretical claims. The humanistic tradition's empirical weaknesses are partly inherited by SDT's philosophical architecture.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Growth Mindset",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Growth Mindset]]",
+        "line_number": 431,
+        "section": "Relationship to Other Report Types",
+        "context_line": "> - **[[Growth Mindset]]** — Dweck's growth mindset research intersects with SDT's competence need and the assumption of natural growth orientation. The reconstructed framework's suspension of the natural-growth-tendency assumption is relevant here: both growth mindset research and the SDT organismic assumption may be documenting a cultivated developmental achievement that is made to look like a natural tendency because it is so thoroughly scaffolded by social structures in WEIRD populations.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Philosophy of Agency",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Philosophy of Agency]]",
+        "line_number": 433,
+        "section": "Relationship to Other Report Types",
+        "context_line": "> - **[[Philosophy of Agency]]** — The autonomy-agency distinction identified in Assumption 4's audit directly connects to the philosophy of agency literature. [[Frankfurt's Hierarchy of Desires]], [[Bratman's Planning Theory]], and [[Korsgaard's Self-Constitution]] all offer accounts of agency that go beyond SDT's volitional autonomy, and examining how these relate to the empirical motivation quality dimension would significantly enrich the reconstruction.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Frankfurt's Hierarchy of Desires",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Frankfurt's Hierarchy of Desires]]",
+        "line_number": 433,
+        "section": "Relationship to Other Report Types",
+        "context_line": "> - **[[Philosophy of Agency]]** — The autonomy-agency distinction identified in Assumption 4's audit directly connects to the philosophy of agency literature. [[Frankfurt's Hierarchy of Desires]], [[Bratman's Planning Theory]], and [[Korsgaard's Self-Constitution]] all offer accounts of agency that go beyond SDT's volitional autonomy, and examining how these relate to the empirical motivation quality dimension would significantly enrich the reconstruction.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Bratman's Planning Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Bratman's Planning Theory]]",
+        "line_number": 433,
+        "section": "Relationship to Other Report Types",
+        "context_line": "> - **[[Philosophy of Agency]]** — The autonomy-agency distinction identified in Assumption 4's audit directly connects to the philosophy of agency literature. [[Frankfurt's Hierarchy of Desires]], [[Bratman's Planning Theory]], and [[Korsgaard's Self-Constitution]] all offer accounts of agency that go beyond SDT's volitional autonomy, and examining how these relate to the empirical motivation quality dimension would significantly enrich the reconstruction.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Korsgaard's Self-Constitution",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Korsgaard's Self-Constitution]]",
+        "line_number": 433,
+        "section": "Relationship to Other Report Types",
+        "context_line": "> - **[[Philosophy of Agency]]** — The autonomy-agency distinction identified in Assumption 4's audit directly connects to the philosophy of agency literature. [[Frankfurt's Hierarchy of Desires]], [[Bratman's Planning Theory]], and [[Korsgaard's Self-Constitution]] all offer accounts of agency that go beyond SDT's volitional autonomy, and examining how these relate to the empirical motivation quality dimension would significantly enrich the reconstruction.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Cross-Cultural Psychology",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cross-Cultural Psychology]]",
+        "line_number": 435,
+        "section": "Relationship to Other Report Types",
+        "context_line": "> - **[[Cross-Cultural Psychology]]** — Markus & Kitayama's independent/interdependent self-construal framework is the most important theoretical lens for understanding what cross-cultural SDT data actually shows. The cultural variation in autonomy phenomenology documented there is more theoretically tractable through the relational-emergent autonomy framework than through SDT's standard universality claim.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Effectance Motivation",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Effectance Motivation]]",
+        "line_number": 441,
+        "section": "The Invitation to Reconstruct Further",
+        "context_line": "The most productive next analytical step would be to apply first-principles thinking to the competence need specifically — examining whether the substantial literature on [[Effectance Motivation]], [[Flow Theory]], and [[Challenge-Skill Balance]] can be reconstructed from axioms about goal-pursuit, feedback, and skill development without importing the \"basic need for competence\" framing. The competence need is the most intuitively biological-sounding of the three, which makes it the most important to examine carefully for whether its biological framing adds explanatory power or merely naturalises what may be a learned evaluative orientation.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Flow Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Flow Theory]]",
+        "line_number": 441,
+        "section": "The Invitation to Reconstruct Further",
+        "context_line": "The most productive next analytical step would be to apply first-principles thinking to the competence need specifically — examining whether the substantial literature on [[Effectance Motivation]], [[Flow Theory]], and [[Challenge-Skill Balance]] can be reconstructed from axioms about goal-pursuit, feedback, and skill development without importing the \"basic need for competence\" framing. The competence need is the most intuitively biological-sounding of the three, which makes it the most important to examine carefully for whether its biological framing adds explanatory power or merely naturalises what may be a learned evaluative orientation.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "target": "Challenge-Skill Balance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Challenge-Skill Balance]]",
+        "line_number": 441,
+        "section": "The Invitation to Reconstruct Further",
+        "context_line": "The most productive next analytical step would be to apply first-principles thinking to the competence need specifically — examining whether the substantial literature on [[Effectance Motivation]], [[Flow Theory]], and [[Challenge-Skill Balance]] can be reconstructed from axioms about goal-pursuit, feedback, and skill development without importing the \"basic need for competence\" framing. The competence need is the most intuitively biological-sounding of the three, which makes it the most important to examine carefully for whether its biological framing adds explanatory power or merely naturalises what may be a learned evaluative orientation.",
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      }
+    ],
+    "inline_fields": [
+      {
+        "field_name": "Self-Determination-Theory",
+        "value": "A macro-theory of human motivation and personality developed by Edward Deci and Richard Ryan, originating in empirical studies from the early 1970s and formalised through the 1980s–2000s. SDT proposes that humans have three universal, innate basic psychological needs — for autonomy, competence, and relatedness — whose satisfaction is necessary and sufficient to explain optimal motivation, psychological well-being, and personal growth. The theory encompasses six formally articulated mini-theories that together address intrinsic motivation, externalisation, need satisfaction, goal contents, causality orientations, and relationship motivation.",
+        "format": "bracket",
+        "line_number": 133,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      }
+    ],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Self-Determination Theory: A First Principles Report",
+        "anchor": "self-determination-theory-a-first-principles-report",
+        "line_number": 125,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: The Conventional Understanding",
+        "anchor": "phase-i-the-conventional-understanding",
+        "line_number": 129,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "The Standard Account",
+        "anchor": "the-standard-account",
+        "line_number": 131,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "The Standard Narrative",
+        "anchor": "the-standard-narrative",
+        "line_number": 142,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "Who Holds This View",
+        "anchor": "who-holds-this-view",
+        "line_number": 149,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "The First Hint of Trouble",
+        "anchor": "the-first-hint-of-trouble",
+        "line_number": 156,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: The Assumption Audit",
+        "anchor": "phase-ii-the-assumption-audit",
+        "line_number": 165,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Decomposition to Axioms",
+        "anchor": "phase-iii-decomposition-to-axioms",
+        "line_number": 258,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Reconstruction from Fundamentals",
+        "anchor": "phase-iv-reconstruction-from-fundamentals",
+        "line_number": 321,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "Beginning the Reconstruction",
+        "anchor": "beginning-the-reconstruction",
+        "line_number": 323,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "The Rebuilt Framework",
+        "anchor": "the-rebuilt-framework",
+        "line_number": 339,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: What Changes — Novel Insights and Revised Understanding",
+        "anchor": "phase-v-what-changes-novel-insights-and-revised-understanding",
+        "line_number": 364,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "The Revised Understanding",
+        "anchor": "the-revised-understanding",
+        "line_number": 366,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "Practical Implications",
+        "anchor": "practical-implications",
+        "line_number": 372,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "Open Questions",
+        "anchor": "open-questions",
+        "line_number": 388,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis, Limitations & PKB Integration",
+        "anchor": "phase-vi-synthesis-limitations-pkb-integration",
+        "line_number": 403,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "The Arc of the Argument",
+        "anchor": "the-arc-of-the-argument",
+        "line_number": 405,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "Methodological Honesty",
+        "anchor": "methodological-honesty",
+        "line_number": 409,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "Relationship to Other Report Types",
+        "anchor": "relationship-to-other-report-types",
+        "line_number": 416,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "The Invitation to Reconstruct Further",
+        "anchor": "the-invitation-to-reconstruct-further",
+        "line_number": 439,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: Appendix",
+        "anchor": "phase-vii-appendix",
+        "line_number": 450,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 452,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "B. References",
+        "anchor": "b-references",
+        "line_number": 486,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Methodology and Sources Note",
+        "anchor": "c-methodology-and-sources-note",
+        "line_number": 520,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      },
+      {
+        "level": 3,
+        "text": "D. Expansion Topics",
+        "anchor": "d-expansion-topics",
+        "line_number": 533,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [
+      {
+        "term": "Self-Determination-Theory",
+        "definition": "A macro-theory of human motivation and personality developed by Edward Deci and Richard Ryan, originating in empirical studies from the early 1970s and formalised through the 1980s–2000s. SDT proposes that humans have three universal, innate basic psychological needs — for autonomy, competence, and relatedness — whose satisfaction is necessary and sufficient to explain optimal motivation, psychological well-being, and personal growth. The theory encompasses six formally articulated mini-theories that together address intrinsic motivation, externalisation, need satisfaction, goal contents, causality orientations, and relationship motivation.",
+        "line_number": 133,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      }
+    ],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": [
+        {
+          "text": "What is the causal mechanism through which attachment security enables autonomous motivation? Is it via reduced threat-monitoring cognitive load, via broadened attentional scope (Fredrickson's broaden-and-build), or via some other pathway?",
+          "indent_level": 0,
+          "line_number": 391,
+          "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+        },
+        {
+          "text": "If motivation quality is relational-emergent, how should individual differences in the tendency toward autonomous motivation (SDT's causality orientations) be theorised? Are they stable person-characteristics or transaction histories crystallised as cognitive-motivational schemas?",
+          "indent_level": 0,
+          "line_number": 393,
+          "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+        },
+        {
+          "text": "Does the reconstructed framework require a different psychometric approach — measuring motivation quality as a relational property of person × context rather than as a person-level self-report?",
+          "indent_level": 0,
+          "line_number": 394,
+          "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+        }
+      ]
+    },
+    "html_comments": [
+      {
+        "comment_text": "═══════════════════════════════════════════════════════════════════════════\n     SELF-DETERMINATION THEORY: A FIRST PRINCIPLES REPORT\n     \n     Generated by: First Principles Report Generator v1.0\n     Date: 2026-03-11\n     Topic: Self-Determination Theory\n     \n     This report deconstructs SDT to its irreducible axioms, audits its\n     inherited assumptions, and reconstructs motivational understanding from\n     the ground up — revealing what the framework gets right, what it overreaches,\n     and what a more epistemically honest account of human motivation looks like.\n═══════════════════════════════════════════════════════════════════════════",
+        "line_number": 112,
+        "source": "self-determination-theory-first-principles-report-2026-03-11.md"
+      }
+    ],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Abraham Maslow",
+      "Autonomy",
+      "Basic Psychological Needs Theory",
+      "Bratman's Planning Theory",
+      "Carl Rogers",
+      "Challenge-Skill Balance",
+      "Cognitive Evaluation Theory",
+      "Competence",
+      "Cross-Cultural Psychology",
+      "Effectance Motivation",
+      "Flow Theory",
+      "Frankfurt's Hierarchy of Desires",
+      "Growth Mindset",
+      "Humanistic Psychology",
+      "Intrinsic vs Extrinsic Motivation",
+      "Korsgaard's Self-Constitution",
+      "Organismic Integration",
+      "Organismic Integration Theory",
+      "Philosophy of Agency",
+      "Relatedness",
+      "Self-Determination Theory",
+      "Self-Determination Theory Foundational Report",
+      "Socratic Dialogue on Autonomy and Self-Determination"
+    ],
+    "unique_wiki_link_count": 23,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "prerequisites": [
+        "[[Motivational Psychology Foundations]]",
+        "[[Humanistic Psychology]]",
+        "[[Philosophy of Agency]]"
+      ],
+      "related_concepts": [
+        "[[Self-Determination Theory]]",
+        "[[Basic Psychological Needs Theory]]",
+        "[[Intrinsic Motivation]]",
+        "[[Extrinsic Motivation]]",
+        "[[Internalization Continuum]]",
+        "[[Autonomy]]",
+        "[[Agency]]",
+        "[[Organismic Integration Theory]]",
+        "[[Cognitive Evaluation Theory]]",
+        "[[Humanistic Psychology]]",
+        "[[Cross-Cultural Universality]]",
+        "[[Goal Contents Theory]]"
+      ],
+      "link_related": [
+        "[[Intrinsic vs Extrinsic Motivation Foundational Report]]",
+        "[[Humanistic Learning Theory]]",
+        "[[Philosophy of Agency Report]]"
+      ],
+      "link_up": [
+        "[[Motivational Psychology Report Suite]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Abraham Maslow",
+      "Autonomy",
+      "Basic Psychological Needs Theory",
+      "Bratman's Planning Theory",
+      "Carl Rogers",
+      "Challenge-Skill Balance",
+      "Cognitive Evaluation Theory",
+      "Competence",
+      "Cross-Cultural Psychology",
+      "Effectance Motivation",
+      "Flow Theory",
+      "Frankfurt's Hierarchy of Desires",
+      "Growth Mindset",
+      "Humanistic Psychology",
+      "Intrinsic vs Extrinsic Motivation",
+      "Korsgaard's Self-Constitution",
+      "Organismic Integration",
+      "Organismic Integration Theory",
+      "Philosophy of Agency",
+      "Relatedness",
+      "Self-Determination Theory",
+      "Self-Determination Theory Foundational Report",
+      "Socratic Dialogue on Autonomy and Self-Determination"
+    ]
+  }
+}

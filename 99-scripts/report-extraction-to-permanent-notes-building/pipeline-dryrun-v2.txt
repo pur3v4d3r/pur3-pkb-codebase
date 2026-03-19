@@ -1,0 +1,24 @@
+========================================================================
+  PKB UPDATE PIPELINE (DRY RUN)
+  2026-03-19 02:25:55
+========================================================================
+
+========================================================================
+STAGE 1: SCANNING EXTRACTION BATCHES
+========================================================================
+  2026-03-13-inbox-reports: 120 JSON files -> 51 candidates
+  2026-03-13-library: 174 JSON files -> 19 candidates
+  2026-03-13-report-orginizing-folder: 74 JSON files -> 456 candidates
+Traceback (most recent call last):
+  File "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building\pipeline.py", line 398, in <module>
+    main()
+    ~~~~^^
+  File "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building\pipeline.py", line 352, in main
+    candidates = stage_scan(args.include_original, args.verbose)
+  File "D:\10_pur3v4d3r's-vault\99-scripts\report-extraction-to-permanent-notes-building\pipeline.py", line 105, in stage_scan
+    print(f"\n  TOTAL: {len(scan_result.all_json_files)} files \u2192 {len(candidates)} candidates")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pur3v4d3rpk\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 21: character maps to <undefined>

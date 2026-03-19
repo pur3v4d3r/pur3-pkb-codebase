@@ -1,0 +1,118 @@
+---
+# ═══════════════════════════════════════════════════════════════════════════
+# CORE IDENTITY
+# ═══════════════════════════════════════════════════════════════════════════
+title: "Propatheiai  The Stoic First Movements"
+aliases:
+  - "Propatheiai  The Stoic First Movements"
+  - "PTSFM"
+type: permanent-note
+status: evergreen
+confidence: high
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CLASSIFICATION
+# ═══════════════════════════════════════════════════════════════════════════
+tags:
+  - permanent-note
+  - evergreen
+  - other
+  - synthesis-report
+  - tier-2-practical-architecture
+  - embodied-cognition
+  - interoception
+  - somatic-markers
+
+domain: other
+subdomains:
+  - 
+
+# ═══════════════════════════════════════════════════════════════════════════
+# TEMPORAL
+# ═══════════════════════════════════════════════════════════════════════════
+created: 2026-03-19
+updated: 2026-03-19
+
+# ═══════════════════════════════════════════════════════════════════════════
+# SOURCE TRACKING
+# ═══════════════════════════════════════════════════════════════════════════
+source-type: report-extraction
+source-reports:
+  - "report-09-the-embodied-thinker"
+evidence-quality: high
+extraction-method: "pkb-extractor-v1 → permanent-notes-generator-v1"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# CONTENT CHARACTERISTICS
+# ═══════════════════════════════════════════════════════════════════════════
+complexity-level: intermediate
+depth-level: comprehensive
+
+# ═══════════════════════════════════════════════════════════════════════════
+# RELATIONSHIPS
+# ═══════════════════════════════════════════════════════════════════════════
+prerequisites:
+  - "[[]]"
+
+related:
+  - "[[]]"
+
+broader:
+  - "[[]]"
+
+narrower:
+  - "[[]]"
+
+see-also:
+  - "[[Aporic-Receptivity|Aporic Receptivity]]"
+  - "[[Fallibilism]]"
+  - "[[Intrinsic-Motivation|Intrinsic Motivation]]"
+  - "[[Stoic-Prohairesis|Stoic Prohairesis]]"
+  - "[[Intellectual-Virtue|Intellectual Virtue]]"
+  - "[[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]]"
+  - "[[Allostatic-Load|Allostatic Load]]"
+  - "[[Working-Memory|Working Memory]]"
+
+# ═══════════════════════════════════════════════════════════════════════════
+# LEARNING PATHWAYS
+# ═══════════════════════════════════════════════════════════════════════════
+builds-on:
+  - "[[]]"
+
+enables:
+  - "[[]]"
+
+expansion-topics:
+  - topic: "[[]]"
+    description: ""
+    priority: medium
+
+# ═══════════════════════════════════════════════════════════════════════════
+# PERSONAL KNOWLEDGE MANAGEMENT
+# ═══════════════════════════════════════════════════════════════════════════
+review-frequency: quarterly
+mastery-stage: seedling
+importance: high
+---
+
+# Propatheiai  The Stoic First Movements
+
+> [!definition] **Propatheiai  The Stoic First Movements**
+> **Propatheiai** (singular: *propatheia*) are the Stoic concept of pre-emotional bodily and affective responses that occur involuntarily, before the rational faculty has engaged with an impression and either assented to or rejected it. Examples include the pallor of fear when suddenly confronted with danger, the blush of embarrassment, tears at moving events, the startle response to a loud sound, and the quickened pulse of arousal. Crucially, the Stoics held that *propatheiai do not constitute emotions in the morally relevant sense* — they are not subject to rational control in the moment of occurrence, and therefore not subject to moral evaluation in the same way that fully-assented-to emotions (pathē) are.
+
+## Core Explanation
+
+<!-- Expand this section with deeper explanation -->
+
+## Practical Implications
+
+> [!example] **Application**
+> *Describe how this concept applies in practice.*
+
+> [!warning] **Key Distinction**
+> The framework presented here — particularly the concept of physiological metacognition as an integrated epistemic practice — goes beyond what any single source establishes and beyond what integrated empirical research has validated. The components are individually well-grounded. Their synthesis is theoretically coherent. But the claim that developing physiological metacognition as a unified practice produces specific epistemic benefits remains, at present, a theoretically motivated proposal…
+
+## Connections & Context
+
+**Related concepts:**
+[[Aporic-Receptivity|Aporic Receptivity]] · [[Fallibilism]] · [[Intrinsic-Motivation|Intrinsic Motivation]] · [[Stoic-Prohairesis|Stoic Prohairesis]] · [[Intellectual-Virtue|Intellectual Virtue]] · [[Metacognitive-Self-Regulation|Metacognitive Self-Regulation]] · [[Allostatic-Load|Allostatic Load]] · [[Working-Memory|Working Memory]] · [[Executive-Function|Executive Function]] · [[Metacognitive-Monitoring|Metacognitive Monitoring]] · [[Belief-Revision|Belief Revision]] · [[Physiological-Metacognition|Physiological Metacognition]] · [[Report-06|Report 06]] · [[Embodied-Cognition|Embodied Cognition]] · [[Interoceptive-Inference|Interoceptive Inference]]

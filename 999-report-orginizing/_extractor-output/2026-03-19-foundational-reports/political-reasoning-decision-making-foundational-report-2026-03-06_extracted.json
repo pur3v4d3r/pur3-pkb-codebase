@@ -1,0 +1,1945 @@
+{
+  "extraction_metadata": {
+    "script_name": "pkb_extractor.py",
+    "script_version": "1.1.0",
+    "extraction_timestamp": "2026-03-19T02:44:43.305064",
+    "source_file": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+    "source_file_path": "D:\\10_pur3v4d3r's-vault\\999-report-orginizing\\999-foundational-report-genrator\\2026-03-13\\political-reasoning-decision-making-foundational-report-2026-03-06.md",
+    "source_file_size_bytes": 76344,
+    "processing_time_seconds": 0.022
+  },
+  "document_metadata": {
+    "frontmatter": {
+      "title": "Political Reasoning and Decision Making: A Foundational Report",
+      "aliases": [
+        "Political Cognition",
+        "Political Decision Making",
+        "Political Psychology — Reasoning"
+      ],
+      "type": "permanent-note",
+      "status": "evergreen",
+      "confidence": "high",
+      "tags": [
+        "permanent-note",
+        "foundational-report",
+        "academic-synthesis",
+        "political-psychology/reasoning",
+        "political-psychology/decision-making",
+        "cognitive-psychology/heuristics",
+        "cognitive-psychology/biases",
+        "political-science/public-opinion",
+        "political-science/civic-engagement",
+        "social-psychology/motivated-reasoning",
+        "dual-process-theory",
+        "confirmation-bias",
+        "affective-intelligence-theory",
+        "motivated-reasoning",
+        "epistemic-citizenship",
+        "evergreen",
+        "comprehensive",
+        "research-grounded"
+      ],
+      "domain": "political-psychology",
+      "subdomains": [
+        "political-reasoning",
+        "political-decision-making",
+        "civic-cognition",
+        "epistemic-citizenship"
+      ],
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "source-type": "academic-synthesis",
+      "research-base": "mixed-methods",
+      "evidence-quality": "high",
+      "peer-validation": "multiple-frameworks",
+      "key-frameworks": [
+        {
+          "name": "Dual Process Theory",
+          "description": "Two-system cognitive model distinguishing fast-automatic (System 1) from slow-deliberative (System 2) thinking",
+          "developers": "Kahneman (2011), building on Chaiken (1980) and Petty & Cacioppo (1986)",
+          "validation": "extensively replicated across domains"
+        },
+        {
+          "name": "Affective Intelligence Theory",
+          "description": "Model of how discrete emotional states modulate information-seeking and reasoning style in political contexts",
+          "developers": "Marcus, Neuman & MacKuen (2000)",
+          "validation": "strong empirical support in voting-behavior literature"
+        },
+        {
+          "name": "Motivated Reasoning Framework",
+          "description": "Account of how prior commitments and identity-protective goals distort evidential reasoning",
+          "developers": "Kunda (1990); extended by Lodge & Taber (2013)",
+          "validation": "well-established; debate continues over boundary conditions"
+        },
+        {
+          "name": "Heuristics-and-Biases Program",
+          "description": "Catalogue of systematic cognitive shortcuts and the errors they produce in judgment under uncertainty",
+          "developers": "Kahneman & Tversky (1974)",
+          "validation": "foundational; subject to ongoing replication debate"
+        }
+      ],
+      "key-researchers": [
+        "Daniel Kahneman",
+        "Amos Tversky",
+        "Ziva Kunda",
+        "Milton Lodge",
+        "Charles Taber",
+        "George Marcus",
+        "Jonathan Haidt",
+        "Philip Tetlock",
+        "Hugo Mercier",
+        "Dan Sperber"
+      ],
+      "word-count": "~7,800",
+      "complexity-level": "intermediate",
+      "target-audience": "Educated adults with interest in political psychology, civic education, or instructional design; no specialist background assumed",
+      "depth-level": "comprehensive",
+      "treatment-type": "foundational-encyclopedic",
+      "core-concepts": [
+        "Political reasoning",
+        "Dual process theory",
+        "Motivated reasoning",
+        "Cognitive heuristics in politics",
+        "Affective intelligence",
+        "Epistemic citizenship",
+        "Media literacy",
+        "Partisan identity"
+      ],
+      "key-distinctions": [
+        "System 1 vs System 2 reasoning",
+        "Motivated reasoning vs dispassionate deliberation",
+        "Heuristics as adaptive shortcuts vs heuristics as sources of error",
+        "Affective intelligence vs emotional irrationality",
+        "Opinion formation vs opinion change"
+      ],
+      "prerequisites": [
+        "[[Cognitive Biases Overview]]",
+        "[[Dual Process Theory]]",
+        "[[Social Identity Theory]]"
+      ],
+      "related": [
+        "[[Confirmation Bias]]",
+        "[[Motivated Reasoning]]",
+        "[[Affective Intelligence Theory]]",
+        "[[Media Literacy]]",
+        "[[Critical Thinking]]",
+        "[[Epistemic Humility]]",
+        "[[Deliberative Democracy]]"
+      ],
+      "broader": [
+        "[[Political Psychology]]",
+        "[[Cognitive Psychology]]",
+        "[[Behavioral Economics]]"
+      ],
+      "narrower": [
+        "[[Partisan Identity and Reasoning]]",
+        "[[Political Heuristics]]",
+        "[[Emotional Influences on Voting]]"
+      ],
+      "see-also": [
+        "[[Transfer of Learning]]",
+        "[[Metacognition and Critical Thinking]]",
+        "[[Epistemic Calibration]]",
+        "[[Argument Mapping]]"
+      ],
+      "contrasts-with": [
+        "[[Rational Choice Theory in Politics]]",
+        "[[Deliberative Rationalism]]"
+      ],
+      "applied-in": [
+        "[[Civic Education]]",
+        "[[News Literacy Programs]]",
+        "[[Political Communication]]",
+        "[[Instructional Design for Democratic Citizenship]]"
+      ],
+      "builds-on": [
+        "[[Metacognition and Lifelong Learning]]",
+        "[[Metacognition and Critical Thinking]]"
+      ],
+      "enables": [
+        "[[Epistemic Calibration]]",
+        "[[Deliberate Practice in Civic Reasoning]]",
+        "[[Instructional Design for Political Literacy]]"
+      ],
+      "expansion-topics": [
+        {
+          "topic": "[[Partisan Identity and Motivated Reasoning]]",
+          "description": "Deep examination of how social identity processes drive politically motivated cognition, extending Lodge & Taber's John Bolton study into current polarization research",
+          "priority": "high"
+        },
+        {
+          "topic": "[[Affective Intelligence Theory]]",
+          "description": "Full treatment of Marcus, Neuman & MacKuen's model linking distinct emotions to distinct cognitive strategies in political contexts",
+          "priority": "high"
+        },
+        {
+          "topic": "[[Deliberative Democracy and Epistemic Citizenship]]",
+          "description": "Normative and empirical literature on what informed democratic participation requires and how educational institutions can cultivate it",
+          "priority": "high"
+        },
+        {
+          "topic": "[[Media Literacy and Disinformation Resistance]]",
+          "description": "Empirical landscape of media literacy interventions — inoculation theory, lateral reading, SIFT protocol — and their measured effects on political misinformation acceptance",
+          "priority": "high"
+        },
+        {
+          "topic": "[[Heuristics in Voting Behavior]]",
+          "description": "Detailed survey of low-information voting rationality, Lupia's shortcuts model, and the party-as-cue literature",
+          "priority": "medium"
+        },
+        {
+          "topic": "[[Emotional Regulation and Political Engagement]]",
+          "description": "How individual differences in emotion regulation capacity predict quality of political reasoning and civic participation rates",
+          "priority": "medium"
+        },
+        {
+          "topic": "[[Cross-Cultural Variation in Political Reasoning]]",
+          "description": "WEIRD-sample limitations of mainstream political psychology and emerging cross-national comparative work",
+          "priority": "medium"
+        }
+      ],
+      "empirical-support": [
+        "Taber & Lodge (2006) — directional goal confirmation in political reasoning",
+        "Kahneman & Tversky (1974) — heuristics-and-biases program",
+        "Marcus et al. (2000) — affective intelligence and surveillance system",
+        "Nyhan & Reifler (2010) — backfire effect (contested by later replication)",
+        "Pennycook & Rand (2019) — analytic thinking and susceptibility to misinformation"
+      ],
+      "limitations-noted": [
+        "Most research conducted on WEIRD (Western, Educated, Industrialized, Rich, Democratic) samples",
+        "Backfire effect — once canonical, now contested — illustrates replication concerns",
+        "Individual differences in cognitive style complicate population-level claims",
+        "Lab-based reasoning tasks may not generalize to real-world political cognition"
+      ],
+      "sections": [
+        "Phase I: Orientation & Context Setting",
+        "Phase II: Conceptual Foundations",
+        "Phase III: Theoretical Landscape",
+        "Phase IV: Mechanisms & Processes",
+        "Phase V: Applications, Implications & Limitations",
+        "Phase VI: Synthesis & Integration",
+        "Phase VII: Appendix"
+      ],
+      "document-features": {
+        "callouts": "22",
+        "wiki-links": "38",
+        "reflective-questions": "15",
+        "active-reading-prompts": "7"
+      },
+      "review-frequency": "quarterly",
+      "mastery-stage": "budding",
+      "importance": "high",
+      "foundational-for-future-learning": true,
+      "source": "claude-sonnet-4-6",
+      "generation-prompt": "[[Foundational Report Generator v1.0]]",
+      "generation-date": "2026-03-06"
+    },
+    "word_count": 8492,
+    "character_count": 62733,
+    "line_count": 363,
+    "heading_count": 23
+  },
+  "extraction_summary": {
+    "total_items_extracted": 139,
+    "by_type": {
+      "headings": 23,
+      "callouts": 47,
+      "wiki_links": 69,
+      "inline_fields": 0,
+      "definitions": 0,
+      "tags": 0,
+      "code_blocks": 0,
+      "tables": 0,
+      "external_links": 0,
+      "embeds": 0,
+      "block_references": 0,
+      "mermaid_diagrams": 0,
+      "footnotes": 0,
+      "color_spans": 0,
+      "lists_ordered": 0,
+      "lists_unordered": 0,
+      "html_comments": 0,
+      "obsidian_comments": 0,
+      "math_expressions": 0
+    }
+  },
+  "document_outline": [
+    {
+      "level": 1,
+      "text": "Political Reasoning and Decision Making",
+      "anchor": "political-reasoning-and-decision-making",
+      "line_number": 245,
+      "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+      "children": [
+        {
+          "level": 2,
+          "text": "Phase I: Orientation & Context Setting",
+          "anchor": "phase-i-orientation-context-setting",
+          "line_number": 247,
+          "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase II: Conceptual Foundations",
+          "anchor": "phase-ii-conceptual-foundations",
+          "line_number": 270,
+          "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase III: Theoretical Landscape",
+          "anchor": "phase-iii-theoretical-landscape",
+          "line_number": 314,
+          "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Dual Process Frameworks in Political Science",
+              "anchor": "dual-process-frameworks-in-political-science",
+              "line_number": 318,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Motivated Reasoning and the Online-Tally Model",
+              "anchor": "motivated-reasoning-and-the-online-tally-model",
+              "line_number": 327,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Affective Intelligence Theory",
+              "anchor": "affective-intelligence-theory",
+              "line_number": 336,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Heuristics-and-Biases in Political Judgment",
+              "anchor": "heuristics-and-biases-in-political-judgment",
+              "line_number": 348,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase IV: Mechanisms & Processes",
+          "anchor": "phase-iv-mechanisms-processes",
+          "line_number": 365,
+          "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "The Confirmation Bias Mechanism",
+              "anchor": "the-confirmation-bias-mechanism",
+              "line_number": 372,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Partisan Identity as Cognitive Frame",
+              "anchor": "partisan-identity-as-cognitive-frame",
+              "line_number": 385,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "The Role of Emotions in Political Cognition",
+              "anchor": "the-role-of-emotions-in-political-cognition",
+              "line_number": 396,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Heuristics as Adaptive Shortcuts",
+              "anchor": "heuristics-as-adaptive-shortcuts",
+              "line_number": 409,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase V: Applications, Implications & Limitations",
+          "anchor": "phase-v-applications-implications-limitations",
+          "line_number": 424,
+          "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "Civic Education and Critical Thinking",
+              "anchor": "civic-education-and-critical-thinking",
+              "line_number": 431,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Media Literacy and Disinformation Resistance",
+              "anchor": "media-literacy-and-disinformation-resistance",
+              "line_number": 440,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Structural Conditions for Better Political Reasoning",
+              "anchor": "structural-conditions-for-better-political-reasoning",
+              "line_number": 451,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "Limitations of Current Knowledge",
+              "anchor": "limitations-of-current-knowledge",
+              "line_number": 460,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "text": "Phase VI: Synthesis & Integration",
+          "anchor": "phase-vi-synthesis-integration",
+          "line_number": 480,
+          "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+          "children": []
+        },
+        {
+          "level": 2,
+          "text": "Phase VII: Appendix",
+          "anchor": "phase-vii-appendix",
+          "line_number": 514,
+          "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+          "children": [
+            {
+              "level": 3,
+              "text": "A. Lexicon of Key Terms",
+              "anchor": "a-lexicon-of-key-terms",
+              "line_number": 516,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "B. References",
+              "anchor": "b-references",
+              "line_number": 550,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            },
+            {
+              "level": 3,
+              "text": "C. Expansion Topics",
+              "anchor": "c-expansion-topics",
+              "line_number": 581,
+              "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "extracted_items": {
+    "callouts": [
+      {
+        "type": "ask-yourself-this",
+        "title": "Before You Begin",
+        "body": "Before reading further, take a moment to surface your own prior beliefs about political reasoning. Do you think most people reason about politics carefully or carelessly? Do you believe your own political judgments are generally well-founded? Where do you think the greatest dangers to democratic decision-making come from — ignorance, manipulation, or something structural? Noting your starting position now will make the conceptual moves in this report visible and personally meaningful.",
+        "line_number": 249,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 9788,
+        "char_end": 10324
+      },
+      {
+        "type": "definition",
+        "title": "Political Reasoning",
+        "body": "The cognitive processes by which an individual forms, evaluates, and updates beliefs about political actors, institutions, issues, and events. Political reasoning encompasses both the fast, automatic processes that generate immediate political responses and the slower, more deliberate processes that evaluate those responses against evidence and argument. It is broader than formal logical inference — it includes all the ways that humans make sense of political reality, including through narrative, analogy, emotion, and social comparison.",
+        "line_number": 274,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 15329,
+        "char_end": 15914
+      },
+      {
+        "type": "definition",
+        "title": "Political Decision Making",
+        "body": "The subset of political reasoning that terminates in an action-relevant judgment: a voting choice, a donation decision, an expression of support or opposition, a policy preference. Political decision-making is the output of political reasoning processes. The distinction matters because a person may engage in extensive political reasoning without reaching a decision, and may reach political decisions with very little deliberate reasoning at all.",
+        "line_number": 277,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 15915,
+        "char_end": 16412
+      },
+      {
+        "type": "definition",
+        "title": "Cognitive Bias (in political contexts)",
+        "body": "A systematic, predictable pattern of deviation from what would be expected under ideal-normative models of reasoning — models that assume full information processing, coherent probability assessment, and goal-directed rationality. Cognitive biases are not random errors; they are consistent distortions that arise from the architecture of human cognition. In political contexts, the most consequential biases involve the selective processing of information in ways that confirm existing beliefs and group identities. Importantly, cognitive biases are not signs of stupidity — they affect all reasoners, including experts, and often arise from cognitive processes that are adaptive in other contexts.",
+        "line_number": 280,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 16413,
+        "char_end": 17174
+      },
+      {
+        "type": "definition",
+        "title": "System 1 (Fast Thinking)",
+        "body": "A mode of cognition that operates automatically, rapidly, and with little or no sense of conscious effort. System 1 processes generate immediate impressions, intuitions, feelings, and impulses. In political contexts, System 1 is implicated in quick evaluations of candidates based on facial appearance, gut-level reactions to policy proposals, and emotionally driven judgments about in-group and out-group members. System 1 is not inherently unreliable — many System 1 responses in familiar domains are accurate precisely because they encode learned patterns. But in novel, complex, or contested domains, System 1 shortcuts can introduce systematic error.",
+        "line_number": 285,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 17517,
+        "char_end": 18220
+      },
+      {
+        "type": "definition",
+        "title": "System 2 (Slow Thinking)",
+        "body": "A mode of cognition that is deliberate, effortful, rule-governed, and conscious. System 2 is invoked when we carefully evaluate arguments, check evidence against claims, or deliberately override impulsive responses. In political contexts, System 2 engagement is what is typically meant by \"careful reasoning\" — but it is metabolically expensive and often deployed selectively, in the service of rationalizing conclusions that System 1 has already generated. The popular assumption that more System 2 engagement always means better political reasoning turns out to be empirically fragile.",
+        "line_number": 288,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 18221,
+        "char_end": 18856
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "The dominant finding of political psychology over the past forty years is that political reasoning is more often *rationalization* than *reasoning*: people begin with their conclusions — shaped by identity, emotion, and prior commitment — and construct justifications for them afterward. This does not mean reasoning is irrelevant, but it does mean the entry point for cognitive intervention cannot be the deliberative process alone.",
+        "line_number": 293,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 19422,
+        "char_end": 19873
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "The concept of [[motivated reasoning]] is sometimes misread as claiming that people reason *badly*. More precisely, it claims that people often reason *well* — in the sense of deploying sophisticated argumentative capacities — but in service of a goal other than truth. This makes motivated reasoning simultaneously impressive and troubling: it exploits genuine cognitive ability in the service of rationalization.",
+        "line_number": 298,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 20561,
+        "char_end": 20991
+      },
+      {
+        "type": "reflection",
+        "title": "Deepening Your Understanding",
+        "body": "1. The System 1/System 2 distinction is now deeply familiar in popular discourse about thinking. Where do you see the limits of this framework for understanding political reasoning specifically? What does political cognition involve that the two-system model might miss?\n2. The transition from Converse's \"voter ignorance\" framing to the \"motivated reasoning\" framing represents a significant conceptual shift. What moral and political implications follow from each framing? Which do you find more accurate, and why?\n3. Think about a political belief you hold with confidence. Can you trace where it comes from? How much of that origin is accuracy-motivated versus directionally motivated?",
+        "line_number": 307,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 22503,
+        "char_end": 23248
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "**The Sophistication Paradox**: Greater cognitive sophistication does not straightforwardly improve political reasoning quality. Highly educated partisans often do not converge on the same factual beliefs when presented with the same evidence — they diverge, using sophisticated arguments to defend their prior positions more effectively. This suggests that improving political reasoning requires more than information provision or critical thinking skill development in isolation.",
+        "line_number": 324,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 24864,
+        "char_end": 25363
+      },
+      {
+        "type": "counter-argument",
+        "title": "Untitled",
+        "body": "The motivated reasoning framework has been criticized for excessive pessimism. [[Hugo Mercier]] and [[Dan Sperber]]'s \"argumentative theory of reasoning\" (2011) offers a revisionist account: reasoning evolved not primarily for individual truth-seeking but for social argumentation — to persuade others and evaluate the arguments of opponents. On this view, reasoning is well-designed for its actual evolutionary purpose, and motivated reasoning in political contexts reflects social reasoning working as intended, not breaking down. Whether this is a critique or an extension of the motivated reasoning framework remains debated.",
+        "line_number": 333,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 26576,
+        "char_end": 27230
+      },
+      {
+        "type": "evidence",
+        "title": "Untitled",
+        "body": "Marcus et al.'s empirical studies using National Election Study data find support for the anxiety-surveillance hypothesis: higher levels of political anxiety predict greater information-seeking, higher attention to political news, and weaker reliance on partisan heuristics. These findings have been replicated in experimental settings and extended to contexts including threat perception, immigration attitudes, and responses to political advertising.",
+        "line_number": 342,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 28386,
+        "char_end": 28855
+      },
+      {
+        "type": "insight",
+        "title": "Untitled",
+        "body": "Affective Intelligence Theory challenges the folk-psychological assumption that emotional politics is necessarily bad politics. On this account, the problem is not that citizens feel things about political objects — it is that they often feel the wrong things in the wrong circumstances. Anger and enthusiasm, both of which reinforce habitual partisan responses, dominate political communication. Anxiety, which triggers genuine deliberation, is politically costly to communicate and is therefore underrepresented in political information environments.",
+        "line_number": 345,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 28856,
+        "char_end": 29424
+      },
+      {
+        "type": "reflection",
+        "title": "Engaging the Landscape",
+        "body": "1. Affective Intelligence Theory distinguishes anxiety from anger in their effects on political reasoning. Think about recent political communications you have encountered — which emotional registers do they predominantly target? What are the implications for the quality of public deliberation?\n2. The Sophistication Paradox suggests that teaching critical thinking skills in isolation may be insufficient and even counterproductive for improving political reasoning. What educational approach would follow from taking this finding seriously?\n3. Can you identify a political issue where your own reasoning is most likely to be driven by the availability heuristic rather than statistical base rates? What would a corrective look like?",
+        "line_number": 358,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 31458,
+        "char_end": 32243
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Testing Your Understanding",
+        "body": "Before reading further, try to articulate in your own words how you think confirmation bias actually operates moment-to-moment when a person encounters political information. Is it that people consciously refuse to engage with contrary evidence? That they do not see it? That they see it and dismiss it? That they accept it but quickly forget it? Identifying your existing mental model here will make the mechanistic account below more meaningful.",
+        "line_number": 369,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 32439,
+        "char_end": 32943
+      },
+      {
+        "type": "example",
+        "title": "Untitled",
+        "body": "Consider the political economy of climate beliefs among American partisans. When presented with the same IPCC data, high-knowledge Democrats and high-knowledge Republicans diverge more sharply than low-knowledge members of the same parties — because the high-knowledge individuals are better equipped to generate counter-arguments, selectively cite contrarian minority views, and frame data within partisan narratives. The data does not adjudicate the dispute; it becomes raw material for motivated argumentation.",
+        "line_number": 382,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 34835,
+        "char_end": 35364
+      },
+      {
+        "type": "key-claim",
+        "title": "Untitled",
+        "body": "The rise of affective polarization — the growing tendency of partisans to dislike and distrust members of the opposing party independent of policy disagreement — is, in significant part, a consequence of partisan sorting amplifying social identity mechanisms. Its cognitive consequence is that political reasoning increasingly takes place within identity-reinforcing social environments that provide few corrective encounters with opposing views.",
+        "line_number": 393,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 36990,
+        "char_end": 37454
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Emotional Inventory",
+        "body": "As you read political news or engage in political conversations, try to identify the emotional register of what you are experiencing: Is it anger? Fear? Anxiety? Enthusiasm? Moral elevation? Each of these has a distinct cognitive profile, and identifying your own emotional state is a form of metacognitive monitoring that can interrupt automatic processing.",
+        "line_number": 406,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 39331,
+        "char_end": 39739
+      },
+      {
+        "type": "reflection",
+        "title": "Understanding the Machinery",
+        "body": "1. The multi-stage account of confirmation bias — exposure, interpretation, memory — suggests that different interventions are needed at different points. Which stage do you think is most tractable and why?\n2. The distinction between fear and anxiety as political emotions is subtle but consequential. Can you identify a specific political issue or communication where this distinction was collapsed, and consider what the effects might have been?\n3. Lupia's low-information rationality account and Lodge-Taber's motivated reasoning account offer different interpretations of the same political heuristic use. What kind of evidence would help distinguish between them?",
+        "line_number": 417,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 41257,
+        "char_end": 41980
+      },
+      {
+        "type": "ask-yourself-this",
+        "title": "Before Theory Meets Practice",
+        "body": "As you read the applications in this section, notice whether your response to them is itself an instance of the phenomena described in the report. Are you more receptive to interventions that align with your existing political commitments? Are you skeptical of the evidence for interventions that seem to challenge your preferred political practices? The metacognitive challenge is to apply the frameworks in the report to your own engagement with the report.",
+        "line_number": 428,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 42343,
+        "char_end": 42861
+      },
+      {
+        "type": "best-practice",
+        "title": "Untitled",
+        "body": "Civic education interventions that show the most consistent evidence of improving reasoning quality include: (1) explicit instruction in the identification of cognitive biases and motivated reasoning, applied to participants' own political reasoning; (2) perspective-taking exercises that require substantive engagement with the strongest versions of opposing arguments (\"steelmanning\" rather than strawmanning); (3) argument mapping techniques that make logical structure visible and evaluable; and (4) [[Socratic questioning]] practices that surface tacit assumptions.",
+        "line_number": 437,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 44046,
+        "char_end": 44638
+      },
+      {
+        "type": "warning",
+        "title": "Untitled",
+        "body": "A significant limitation of media literacy interventions is the [[Backfire Effect]] literature — findings, prominent from a 2010 paper by [[Brendan Nyhan]] and Jason Reifler, suggesting that correcting political misinformation sometimes strengthens belief in the misinformation among the people most committed to it. However, subsequent large-scale replication attempts (Nyhan et al., 2019) have substantially failed to replicate the original findings, and the current consensus is that corrections generally do not backfire, though they may have limited positive effects on strongly committed partisans. The lesson is not that corrections are harmful but that they are often insufficient.",
+        "line_number": 448,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 46472,
+        "char_end": 47177
+      },
+      {
+        "type": "important",
+        "title": "Untitled",
+        "body": "The structural account implies that attributing poor political reasoning entirely to individual cognitive failings is both empirically incomplete and politically consequential. Information environments that privilege emotional activation over substantive engagement, media business models that reward outrage, and political communication strategies built on identity threat are all structural contributors to poor political reasoning. Interventions aimed only at the individual — \"just think more carefully\" — will have limited effects while structural conditions remain unchanged.",
+        "line_number": 457,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 48409,
+        "char_end": 49008
+      },
+      {
+        "type": "methodology-and-sources",
+        "title": "Research Grounding for This Report",
+        "body": "The claims in this report draw primarily on peer-reviewed research in political psychology, cognitive psychology, and political communication. The theoretical landscape is well-established; specific empirical claims vary in their replication status. Where findings are contested (notably the backfire effect), this is noted explicitly. The treatment of practical applications reflects the current state of the intervention literature as of early 2026, including evidence from meta-analyses where available. Original synthetic contributions in this report include: the integration of affective intelligence theory with dual-process accounts, the three-stage account of confirmation bias mechanisms, and the structural complement to individual-level intervention frameworks.",
+        "line_number": 470,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 50375,
+        "char_end": 51218
+      },
+      {
+        "type": "reflection",
+        "title": "From Understanding to Action",
+        "body": "1. Which intervention approach described in this section do you find most compelling, and what leads you to that judgment? Are those reasons accuracy-motivated or directionally motivated?\n2. The structural argument suggests that individual cognitive interventions are insufficient without changes to the information environment. What are the political and practical obstacles to structural reform, and how do they relate to the cognitive dynamics described in earlier phases?\n3. Given the WEIRD-sample limitation, what specific aspects of the findings in this report would you be most skeptical of applying in non-Western democratic contexts?",
+        "line_number": 473,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 51219,
+        "char_end": 51917
+      },
+      {
+        "type": "connections-and-links",
+        "title": "Untitled",
+        "body": "**Internal PKB Connections:**\n\n- **[[Metacognition and Lifelong Learning]]** — The political reasoning literature extends the self-regulatory learning frameworks documented in this node. The metacognitive monitoring and control processes that support adaptive learning are precisely the capacities that, when directed toward political cognition, support epistemic citizenship. The Sophistication Paradox has a direct analogue in the Dunning-Kruger literature: both show that cognitive sophistication is not automatically self-correcting without metacognitive orientation.\n\n- **[[Metacognition and Critical Thinking]]** — The Paul-Elder framework and Schön's reflective practitioner model both apply directly to political reasoning. \"Reflection-in-action\" in political contexts corresponds to the real-time identification of motivated reasoning during political information processing. The critical thinking disposition of \"fair-mindedness\" maps closely onto the epistemic virtue literature on epistemic humility in political judgment.\n\n- **[[Epistemic Calibration]]** — Tetlock's superforecaster research provides the most detailed empirical picture of what well-calibrated political judgment looks like and how it is developed. This node would extend the present report's treatment of accuracy-motivated versus directional-motivated reasoning into the specific cognitive and dispositional profiles of individuals who consistently do well at political prediction.\n\nThe pattern across these connections reveals a unifying theme: the development of well-functioning political cognition is not primarily a knowledge problem or a skill problem but an orientation problem — a question of what goals the cognitive system is directed toward, and what metacognitive monitoring supports those goals.",
+        "line_number": 492,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 54541,
+        "char_end": 56373
+      },
+      {
+        "type": "reflection",
+        "title": "Integration and Forward Momentum",
+        "body": "1. What is the single most important insight you have gained from this report? How does it change or enrich your prior understanding of either political cognition or human cognition more generally?\n2. If you were to explain the essential challenge of political reasoning to a colleague in three sentences, what would you say?\n3. What is the question this report has made you most curious about? Which expansion topic would most directly address that curiosity?",
+        "line_number": 507,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 57162,
+        "char_end": 57682
+      },
+      {
+        "type": "definition",
+        "title": "Political Reasoning",
+        "body": "The cognitive processes — including both automatic-affective and deliberative-analytical modes — by which individuals form, evaluate, and update beliefs about political actors, institutions, issues, and events. Political reasoning is a domain-specific application of general cognitive capacities, shaped by the distinctive emotional salience, identity-relevance, and social embeddedness of political content. It is broader than logical inference and includes narrative, analogy, emotion, and social comparison as constituents.",
+        "line_number": 518,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 57741,
+        "char_end": 58310
+      },
+      {
+        "type": "definition",
+        "title": "Motivated Reasoning (Kunda, 1990)",
+        "body": "A pattern of reasoning in which prior commitments, identity stakes, or desired conclusions drive the direction of information search and evaluation, while the appearance of dispassionate inference is maintained. Kunda's formulation distinguishes motivated reasoning from biased reasoning simpliciter: motivated reasoning involves the deployment of genuine cognitive capacity in the service of directional goals. The motivation operates by constraining the stopping point of evidential search — accepting the first conclusion consistent with the desired outcome rather than the most evidentially supported conclusion.",
+        "line_number": 521,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 58311,
+        "char_end": 58984
+      },
+      {
+        "type": "definition",
+        "title": "Confirmation Bias",
+        "body": "A family of related cognitive tendencies — operating at the stages of information exposure, interpretation, and memory encoding — that favor processing and retention of information consistent with existing beliefs. In political contexts, confirmation bias is amplified by identity-protective motivation and by high-choice information environments that enable selective exposure. Importantly, confirmation bias does not typically involve conscious deception or motivated distortion; it operates largely below the threshold of awareness.",
+        "line_number": 524,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 58985,
+        "char_end": 59561
+      },
+      {
+        "type": "definition",
+        "title": "Availability Heuristic (Kahneman & Tversky, 1974)",
+        "body": "A cognitive shortcut in which the judged frequency or probability of events is determined by the ease with which examples come to mind. In political contexts, the availability heuristic is systematically distorted by media coverage patterns: events that receive disproportionate coverage (violent crime, terrorism) are perceived as more prevalent than base rates warrant, while equally serious but less vivid phenomena (chronic disease, gradual economic change) are systematically underweighted.",
+        "line_number": 527,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 59562,
+        "char_end": 60130
+      },
+      {
+        "type": "definition",
+        "title": "Affective Intelligence Theory (Marcus, Neuman & MacKuen, 2000)",
+        "body": "A framework proposing that discrete emotional states — particularly the distinction between enthusiasm/aversion (disposition system) and anxiety (surveillance system) — have differential effects on political reasoning style. The central claim is that anxiety, unlike anger or enthusiasm, activates a surveillance mode that promotes deliberative information-seeking and reduces reliance on partisan heuristics. The theory directly challenges the assumption that emotional political engagement is ipso facto irrational.",
+        "line_number": 530,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 60131,
+        "char_end": 60734
+      },
+      {
+        "type": "definition",
+        "title": "Partisan Identity",
+        "body": "Identification with a political party understood not merely as a summary of policy preferences but as a social identity — with the affective, motivational, and categorization properties of in-group membership. Partisan identity functions as a perceptual frame that shapes the interpretation of political events and information. The shift from understanding partisan identification as primarily a policy-aggregation mechanism to understanding it as a social identity mechanism is one of the most important developments in political psychology over the past twenty years.",
+        "line_number": 533,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 60735,
+        "char_end": 61345
+      },
+      {
+        "type": "definition",
+        "title": "Deliberative Democracy",
+        "body": "A normative model of democratic governance emphasizing the role of reasoned, inclusive, and open public deliberation in the formation of legitimate collective decisions. Empirically, deliberative democratic theory has inspired a research program on \"mini-publics\" — citizens' assemblies, deliberative polls, participatory processes — that tests the conditions under which ordinary citizens engage in high-quality political reasoning. Fishkin's Deliberative Polling research is the most systematic empirical programme in this tradition.",
+        "line_number": 536,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 61346,
+        "char_end": 61927
+      },
+      {
+        "type": "definition",
+        "title": "Epistemic Citizenship",
+        "body": "The set of cognitive capacities, epistemic virtues, and information-engagement practices required for effective participation in democratic public life. Epistemic citizenship goes beyond knowledge of political facts to include calibrated uncertainty about contested claims, awareness of one's own cognitive biases, disposition toward evidence-responsiveness, and skill in navigating complex information environments. It is the application domain in which political reasoning research most directly meets civic education practice.",
+        "line_number": 539,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 61928,
+        "char_end": 62502
+      },
+      {
+        "type": "definition",
+        "title": "Inoculation Theory (van der Linden et al.)",
+        "body": "A framework for building cognitive resistance to misinformation, modeled on medical vaccination. Pre-emptive exposure to weakened forms of misinformation techniques — accompanied by explicit identification of the persuasion tactic employed — generates cognitive \"antibodies\" that reduce susceptibility to subsequent misinformation encounters. Inoculation theory grounds \"prebunking\" interventions, which aim to expose manipulation tactics before they are used, rather than \"debunking\" interventions, which correct misinformation after belief has formed.",
+        "line_number": 542,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 62503,
+        "char_end": 63122
+      },
+      {
+        "type": "definition",
+        "title": "Filter Bubble / Information Cocoon",
+        "body": "A metaphor for the self-reinforcing information environment that results when users preferentially consume identity-confirming political content, amplified by algorithmic content personalization. The filter bubble concept (Pariser, 2011) emphasizes algorithmic filtering; the information cocoon concept (Sunstein, 2017) emphasizes voluntary selective exposure. Empirical research has complicated both accounts, finding that cross-cutting information exposure is more common than the metaphors suggest, but that exposure does not reliably produce belief updating.",
+        "line_number": 545,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 63123,
+        "char_end": 63743
+      },
+      {
+        "type": "cite",
+        "title": "Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus & Giroux.",
+        "body": "The canonical popular-scientific synthesis of dual process theory and the heuristics-and-biases research program. Directly foundational for this report's Phase II conceptual architecture. Chapter 12 (\"The Science of Availability\") and Chapters 19–20 on framing effects are particularly relevant to political applications. Readers seeking a deeper scholarly treatment should also consult the primary papers with Tversky.",
+        "line_number": 552,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 63768,
+        "char_end": 64277
+      },
+      {
+        "type": "cite",
+        "title": "Kunda, Z. (1990). The case for motivated reasoning. *Psychological Bulletin, 108*(3), 480–498.",
+        "body": "The foundational theoretical paper distinguishing accuracy-motivated from directionally motivated reasoning. Kunda's central argument — that motivation operates by constraining evidential search, not by corrupting logical inference — remains the most precise formulation of the mechanism. Essential reading for anyone working seriously with the motivated reasoning construct.",
+        "line_number": 555,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 64278,
+        "char_end": 64765
+      },
+      {
+        "type": "cite",
+        "title": "Lodge, M., & Taber, C. S. (2013). *The Rationalizing Voter*. Cambridge University Press.",
+        "body": "The most comprehensive empirical statement of the online-tally model and its implications for democratic theory. Chapters 4–6, reporting the experimental studies on motivated political reasoning, are the empirical core. Lodge and Taber's conclusion — that \"the passion to reason is more powerful than the reason to be passionate\" — frames the normative stakes of the research with unusual directness.",
+        "line_number": 558,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 64766,
+        "char_end": 65272
+      },
+      {
+        "type": "cite",
+        "title": "Marcus, G. E., Neuman, W. R., & MacKuen, M. (2000). *Affective Intelligence and Political Judgment*. University of Chicago Press.",
+        "body": "The foundational monograph for affective intelligence theory. The introduction's critique of the \"affect as bias\" assumption and Chapters 3–4 on the disposition and surveillance systems are essential reading. The empirical chapters on voting behavior provide the best available evidence for the anxiety-deliberation connection.",
+        "line_number": 561,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 65273,
+        "char_end": 65747
+      },
+      {
+        "type": "cite",
+        "title": "Taber, C. S., & Lodge, M. (2006). Motivated skepticism in the evaluation of political beliefs. *American Journal of Political Science, 50*(3), 755–769.",
+        "body": "The most direct experimental evidence for political motivated reasoning. The study's finding that thinking harder about contested political issues produced more confidence and more bias, not less, is among the most important single empirical results in the political psychology literature.",
+        "line_number": 564,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 65748,
+        "char_end": 66206
+      },
+      {
+        "type": "cite",
+        "title": "Tetlock, P. E. (2005). *Expert Political Judgment: How Good Is It? How Can We Know?* Princeton University Press.",
+        "body": "A twenty-year study of expert political forecasting that establishes the empirical baseline for political judgment quality and identifies the fox/hedgehog dispositional distinction as predictive of forecasting accuracy. Directly relevant to Section V's discussion of civic education goals and the question of what well-calibrated political judgment looks like.",
+        "line_number": 567,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 66207,
+        "char_end": 66697
+      },
+      {
+        "type": "cite",
+        "title": "Pennycook, G., & Rand, D. G. (2019). Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning. *Cognition, 188*, 39–50.",
+        "body": "An important corrective to purely motivated-reasoning accounts of political misinformation. Pennycook and Rand's finding that susceptibility to politically consistent misinformation is explained better by lack of analytic engagement than by active motivated distortion has significant implications for intervention design.",
+        "line_number": 570,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 66698,
+        "char_end": 67224
+      },
+      {
+        "type": "cite",
+        "title": "van der Linden, S., Roozenbeek, J., & Compton, J. (2020). Inoculating against fake news about COVID-19. *Frontiers in Psychology, 11*, 566790.",
+        "body": "A representative study from the inoculation theory research program, demonstrating the efficacy of prebunking interventions against specific misinformation techniques. Part of a growing body of evidence supporting pre-emptive over reactive misinformation correction strategies.",
+        "line_number": 573,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 67225,
+        "char_end": 67662
+      },
+      {
+        "type": "cite",
+        "title": "Fishkin, J. S. (2018). *Democracy When the People Are Thinking: Reviving Our Politics Through Public Deliberation*. Oxford University Press.",
+        "body": "The definitive account of Deliberative Polling methodology and its empirical findings. Chapter 5, on what participants learn through deliberation, provides the strongest available evidence that structural conditions can significantly improve the quality of citizen political reasoning.",
+        "line_number": 576,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 67663,
+        "char_end": 68106
+      },
+      {
+        "type": "further-exploration",
+        "title": "Deepening Your Practice",
+        "body": "> [!topic-idea] [[Partisan Identity and Motivated Reasoning]]\n> A full-length foundational report on this topic would provide the most detailed mechanistic treatment of how social identity drives motivated political cognition. It would cover Lodge and Taber's experimental program in depth, Kahan's \"identity-protective cognition\" research, Huddy's social identity approach to partisanship, and the growing literature on \"affective polarization\" as distinct from ideological polarization. The key question for the knowledge base: under what conditions does partisan identity override accuracy motivation entirely, and what structural or developmental factors moderate this? Priority: **high** — directly extends this report's core treatment.\n\n> [!topic-idea] [[Affective Intelligence Theory — Full Treatment]]\n> The treatment of affective intelligence in this report is introductory. A full foundational report would provide the theoretical architecture of the disposition and surveillance systems, the neurological correlates of the distinction, the specific evidence from NES-based studies, extensions to non-electoral political contexts (e.g., attitudes toward immigration, environmental threats), and the design implications for political communication. The critical question: does the anxiety-deliberation link hold cross-culturally? Priority: **high** — one of the most underexplored frameworks in the knowledge base.\n\n> [!topic-idea] [[Media Literacy and Disinformation Resistance]]\n> A dedicated report on this topic would synthesize the inoculation theory literature, the SIFT and lateral reading evidence, the broader media literacy intervention research (including its contested efficacy record), and the platform governance literature on algorithmic amplification of misinformation. The key practical question: what combination of individual cognitive training and structural information environment design produces the most durable resistance to political misinformation? Priority: **high** — immediate practical relevance in current information environment.\n\n> [!topic-idea] [[Deliberative Democracy and Epistemic Citizenship]]\n> The normative literature on what democratic deliberation should look like and the empirical literature on what it actually produces when well-designed (Fishkin's Deliberative Polling, OECD's work on citizens' assemblies, Deliberative Mini-Publics research) are the foundation for this report. It would address the tension between epistemic and participatory democratic values, the evidence on whether deliberative institutions scale, and the pedagogical implications for civic education. Priority: **high** — essential complement to this report's practical conclusions.\n\n> [!topic-idea] [[Heuristics in Voting Behavior]]\n> Lupia's \"shortcuts\" model, Popkin's \"reasoning voter,\" the party-cue literature, and the retrospective voting research all form the empirical core of this report. The central theoretical question — whether heuristic voting approximates fully-informed voting and under what conditions — is both normatively significant for democratic theory and practically significant for electoral system design. Priority: **medium** — important extension of Phase IV's mechanism analysis.\n\n> [!topic-idea] [[Epistemic Calibration]]\n> Extending Tetlock's superforecaster research into a full treatment of what well-calibrated political judgment is, how it is developed, and how individual differences in calibration interact with political context. Would connect the performance psychology literature on deliberate practice with the political reasoning literature. Priority: **medium** — directly extends the knowledge base's existing treatment of metacognition.\n\n> [!topic-idea] [[Cross-Cultural Variation in Political Reasoning]]\n> A critical examination of the WEIRD-sample problem in political psychology: which mechanisms have been documented outside Western democratic contexts, which appear culture-specific, and what cross-national comparative work exists on political reasoning quality. Directly addresses the most significant scope limitation of the present report. Priority: **medium** — important for epistemic integrity of the knowledge base.",
+        "line_number": 583,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+        "char_start": 68137,
+        "char_end": 72433
+      }
+    ],
+    "wiki_links": [
+      {
+        "target": "Drew Westen",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Drew Westen]]",
+        "line_number": 252,
+        "section": "Phase I: Orientation & Context Setting",
+        "context_line": "In the spring of 2004, two researchers at Emory University placed a small number of politically committed Americans inside an fMRI scanner and asked them to evaluate contradictory statements from their preferred and opposing presidential candidates. The results were striking: when participants encountered information that threatened their preferred candidate, the brain regions associated with emotional distress activated, while regions associated with cold analytical reasoning showed little engagement. Once the threatening information had been rationalized away, the brain's reward circuitry lit up. The participants had, in effect, been rewarded for motivated distortion — and were entirely unaware of it. This study, by [[Drew Westen]] and colleagues, became one of the most cited images of the problem at the center of this report: the gap between the political reasoning we aspire to and the political reasoning we actually perform.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Political reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Political reasoning]]",
+        "line_number": 254,
+        "section": "Phase I: Orientation & Context Setting",
+        "context_line": "[[Political reasoning]] is the set of cognitive processes by which individuals form beliefs about political matters, evaluate political actors and institutions, interpret political events, and arrive at decisions about where to lend their support. It is, in the broadest sense, the application of general human cognition — perception, memory, judgment, inference — to the distinctive domain of politics. But that domain has unusual properties. Political information is vast, contested, and emotionally loaded. Political decisions often feel identity-consequential: what you believe about taxation, immigration, or climate policy is inseparable, in the lived experience of most people, from who you are and who your people are. And unlike decisions about, say, which refrigerator to buy, political decisions are made at low personal stakes for their immediate consequences — you cast one vote among millions — which means the usual incentives to reason carefully are attenuated. These properties create the conditions for a distinctive set of cognitive patterns that this report examines in depth.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "democratic self-governance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[democratic self-governance]]",
+        "line_number": 258,
+        "section": "Phase I: Orientation & Context Setting",
+        "context_line": "Understanding how people reason politically is not merely an academic exercise. The quality of [[democratic self-governance]] depends, at a structural level, on the epistemic quality of the public's political judgments. If citizens systematically misread evidence, succumb to manipulation by partisan framing, or remain insulated from contrary information inside [[information cocoons]], then the aggregative machinery of democracy — the conversion of individual preferences into collective decisions — will produce systematically distorted outputs. The consequences are not abstract. They include policy failures traceable to public misinformation, the erosion of institutional trust, and the rise of [[political polarization]] that makes collaborative governance increasingly difficult.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "information cocoons",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[information cocoons]]",
+        "line_number": 258,
+        "section": "Phase I: Orientation & Context Setting",
+        "context_line": "Understanding how people reason politically is not merely an academic exercise. The quality of [[democratic self-governance]] depends, at a structural level, on the epistemic quality of the public's political judgments. If citizens systematically misread evidence, succumb to manipulation by partisan framing, or remain insulated from contrary information inside [[information cocoons]], then the aggregative machinery of democracy — the conversion of individual preferences into collective decisions — will produce systematically distorted outputs. The consequences are not abstract. They include policy failures traceable to public misinformation, the erosion of institutional trust, and the rise of [[political polarization]] that makes collaborative governance increasingly difficult.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "political polarization",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[political polarization]]",
+        "line_number": 258,
+        "section": "Phase I: Orientation & Context Setting",
+        "context_line": "Understanding how people reason politically is not merely an academic exercise. The quality of [[democratic self-governance]] depends, at a structural level, on the epistemic quality of the public's political judgments. If citizens systematically misread evidence, succumb to manipulation by partisan framing, or remain insulated from contrary information inside [[information cocoons]], then the aggregative machinery of democracy — the conversion of individual preferences into collective decisions — will produce systematically distorted outputs. The consequences are not abstract. They include policy failures traceable to public misinformation, the erosion of institutional trust, and the rise of [[political polarization]] that makes collaborative governance increasingly difficult.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "political heuristics",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[political heuristics]]",
+        "line_number": 260,
+        "section": "Phase I: Orientation & Context Setting",
+        "context_line": "At the same time, the story of political reasoning is not one of uniform failure. Human beings have developed — and researchers have documented — a range of cognitive shortcuts, or [[political heuristics]], that allow ordinary citizens to navigate complex political terrain reasonably well most of the time. And there is a growing and encouraging literature on the educational and design interventions that can improve the quality of political reasoning. The field is, at its best, simultaneously diagnostic and generative: identifying the sources of poor reasoning and designing the conditions under which better reasoning becomes more likely.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Daniel Kahneman",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Daniel Kahneman]]",
+        "line_number": 283,
+        "section": "Phase II: Conceptual Foundations",
+        "context_line": "The field-organizing distinction in contemporary political reasoning research is the one between two modes of thought codified by [[Daniel Kahneman]] in *Thinking, Fast and Slow* (2011), building on decades of earlier work in cognitive psychology. This is the distinction between what Kahneman calls [[System 1]] and [[System 2]] cognition.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "System 1",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[System 1]]",
+        "line_number": 283,
+        "section": "Phase II: Conceptual Foundations",
+        "context_line": "The field-organizing distinction in contemporary political reasoning research is the one between two modes of thought codified by [[Daniel Kahneman]] in *Thinking, Fast and Slow* (2011), building on decades of earlier work in cognitive psychology. This is the distinction between what Kahneman calls [[System 1]] and [[System 2]] cognition.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "System 2",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[System 2]]",
+        "line_number": 283,
+        "section": "Phase II: Conceptual Foundations",
+        "context_line": "The field-organizing distinction in contemporary political reasoning research is the one between two modes of thought codified by [[Daniel Kahneman]] in *Thinking, Fast and Slow* (2011), building on decades of earlier work in cognitive psychology. This is the distinction between what Kahneman calls [[System 1]] and [[System 2]] cognition.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Ziva Kunda",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Ziva Kunda]]",
+        "line_number": 296,
+        "section": "Phase II: Conceptual Foundations",
+        "context_line": "A further foundational distinction is between what we might call *accuracy-motivated* and *directional-motivated* reasoning. [[Ziva Kunda]]'s landmark 1990 paper \"The Case for Motivated Reasoning\" established the conceptual framework: people are capable of accuracy-motivated reasoning — genuinely trying to reach the correct conclusion — and directional-motivated reasoning — trying to reach a predetermined conclusion while maintaining the appearance of having reasoned well. In practice, most political reasoning involves some mixture of both, with the proportion shifting depending on the salience of identity stakes, the nature of the issue, and the cognitive resources available.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "motivated reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[motivated reasoning]]",
+        "line_number": 299,
+        "section": "Phase II: Conceptual Foundations",
+        "context_line": "> The concept of [[motivated reasoning]] is sometimes misread as claiming that people reason *badly*. More precisely, it claims that people often reason *well* — in the sense of deploying sophisticated argumentative capacities — but in service of a goal other than truth. This makes motivated reasoning simultaneously impressive and troubling: it exploits genuine cognitive ability in the service of rationalization.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Philip Converse",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Philip Converse]]",
+        "line_number": 303,
+        "section": "Phase II: Conceptual Foundations",
+        "context_line": "The study of political reasoning does not begin with cognitive psychology. Its roots run through classical rhetoric and philosophy — Plato's *Republic* already worried about the susceptibility of popular opinion to manipulation — through Enlightenment theories of democratic rationality, and into twentieth-century social psychology. The discovery of dramatic political irrationalities in early survey research (see [[Philip Converse]]'s landmark 1964 analysis of mass belief systems, which found little ideological consistency in public opinion) raised the original theoretical puzzle: if citizens do not reason about politics in the structured, consistent ways democratic theory assumes, what are they actually doing?",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Dual Process Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dual Process Theory]]",
+        "line_number": 320,
+        "section": "Dual Process Frameworks in Political Science",
+        "context_line": "The application of [[Dual Process Theory]] to political psychology, associated with work by [[John Jost]], [[Christopher Achen]], [[Larry Bartels]], and others, treats the System 1/System 2 distinction as a master framework for understanding where political irrationality comes from and where it might be addressed. The core claim of this tradition is that most political cognition is System 1-dominated — fast, affectively laden, and identity-preserving — and that interventions aimed at improving reasoning must grapple with this fact rather than proceeding as though citizens are primarily deliberative reasoners awaiting better information.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "John Jost",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John Jost]]",
+        "line_number": 320,
+        "section": "Dual Process Frameworks in Political Science",
+        "context_line": "The application of [[Dual Process Theory]] to political psychology, associated with work by [[John Jost]], [[Christopher Achen]], [[Larry Bartels]], and others, treats the System 1/System 2 distinction as a master framework for understanding where political irrationality comes from and where it might be addressed. The core claim of this tradition is that most political cognition is System 1-dominated — fast, affectively laden, and identity-preserving — and that interventions aimed at improving reasoning must grapple with this fact rather than proceeding as though citizens are primarily deliberative reasoners awaiting better information.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Christopher Achen",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Christopher Achen]]",
+        "line_number": 320,
+        "section": "Dual Process Frameworks in Political Science",
+        "context_line": "The application of [[Dual Process Theory]] to political psychology, associated with work by [[John Jost]], [[Christopher Achen]], [[Larry Bartels]], and others, treats the System 1/System 2 distinction as a master framework for understanding where political irrationality comes from and where it might be addressed. The core claim of this tradition is that most political cognition is System 1-dominated — fast, affectively laden, and identity-preserving — and that interventions aimed at improving reasoning must grapple with this fact rather than proceeding as though citizens are primarily deliberative reasoners awaiting better information.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Larry Bartels",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Larry Bartels]]",
+        "line_number": 320,
+        "section": "Dual Process Frameworks in Political Science",
+        "context_line": "The application of [[Dual Process Theory]] to political psychology, associated with work by [[John Jost]], [[Christopher Achen]], [[Larry Bartels]], and others, treats the System 1/System 2 distinction as a master framework for understanding where political irrationality comes from and where it might be addressed. The core claim of this tradition is that most political cognition is System 1-dominated — fast, affectively laden, and identity-preserving — and that interventions aimed at improving reasoning must grapple with this fact rather than proceeding as though citizens are primarily deliberative reasoners awaiting better information.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Philip Tetlock",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Philip Tetlock]]",
+        "line_number": 322,
+        "section": "Dual Process Frameworks in Political Science",
+        "context_line": "A significant subtheme in this literature concerns the paradox of sophisticated reasoning: [[Philip Tetlock]]'s work on ideological constraint, and [[Dan Kahan]]'s research on \"identity-protective cognition,\" both find that more cognitively sophisticated individuals are not consistently better political reasoners — and in some domains are actually *worse*, because they are more skilled at generating motivated rationalizations. This finding, deeply uncomfortable to purely cognitivist approaches to civic education, has generated sustained debate.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Dan Kahan",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dan Kahan]]",
+        "line_number": 322,
+        "section": "Dual Process Frameworks in Political Science",
+        "context_line": "A significant subtheme in this literature concerns the paradox of sophisticated reasoning: [[Philip Tetlock]]'s work on ideological constraint, and [[Dan Kahan]]'s research on \"identity-protective cognition,\" both find that more cognitively sophisticated individuals are not consistently better political reasoners — and in some domains are actually *worse*, because they are more skilled at generating motivated rationalizations. This finding, deeply uncomfortable to purely cognitivist approaches to civic education, has generated sustained debate.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Milton Lodge",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Milton Lodge]]",
+        "line_number": 329,
+        "section": "Motivated Reasoning and the Online-Tally Model",
+        "context_line": "[[Milton Lodge]] and [[Charles Taber]]'s \"online-tally\" model, developed across a series of influential studies in the 1990s and 2000s, provides the most detailed mechanistic account of motivated political reasoning. In this model, people maintain running affective tallies for political objects — candidates, parties, policies — that update continuously as new relevant information is encountered. When evaluating a political stimulus, the tally is retrieved immediately and automatically, generating an affective response *before* conscious deliberation begins. This means that subsequent \"reasoning\" is not the cause of the evaluation but the defense of it.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Charles Taber",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Charles Taber]]",
+        "line_number": 329,
+        "section": "Motivated Reasoning and the Online-Tally Model",
+        "context_line": "[[Milton Lodge]] and [[Charles Taber]]'s \"online-tally\" model, developed across a series of influential studies in the 1990s and 2000s, provides the most detailed mechanistic account of motivated political reasoning. In this model, people maintain running affective tallies for political objects — candidates, parties, policies — that update continuously as new relevant information is encountered. When evaluating a political stimulus, the tally is retrieved immediately and automatically, generating an affective response *before* conscious deliberation begins. This means that subsequent \"reasoning\" is not the cause of the evaluation but the defense of it.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Hugo Mercier",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Hugo Mercier]]",
+        "line_number": 334,
+        "section": "Motivated Reasoning and the Online-Tally Model",
+        "context_line": "> The motivated reasoning framework has been criticized for excessive pessimism. [[Hugo Mercier]] and [[Dan Sperber]]'s \"argumentative theory of reasoning\" (2011) offers a revisionist account: reasoning evolved not primarily for individual truth-seeking but for social argumentation — to persuade others and evaluate the arguments of opponents. On this view, reasoning is well-designed for its actual evolutionary purpose, and motivated reasoning in political contexts reflects social reasoning working as intended, not breaking down. Whether this is a critique or an extension of the motivated reasoning framework remains debated.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Dan Sperber",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Dan Sperber]]",
+        "line_number": 334,
+        "section": "Motivated Reasoning and the Online-Tally Model",
+        "context_line": "> The motivated reasoning framework has been criticized for excessive pessimism. [[Hugo Mercier]] and [[Dan Sperber]]'s \"argumentative theory of reasoning\" (2011) offers a revisionist account: reasoning evolved not primarily for individual truth-seeking but for social argumentation — to persuade others and evaluate the arguments of opponents. On this view, reasoning is well-designed for its actual evolutionary purpose, and motivated reasoning in political contexts reflects social reasoning working as intended, not breaking down. Whether this is a critique or an extension of the motivated reasoning framework remains debated.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Affective Intelligence Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Affective Intelligence Theory]]",
+        "line_number": 338,
+        "section": "Affective Intelligence Theory",
+        "context_line": "One of the most distinctive frameworks in political psychology is [[Affective Intelligence Theory]], developed by [[George Marcus]], [[Michael Neuman]], and [[John MacKuen]] in their 2000 book *Affective Intelligence and Political Judgment*. Against the traditional assumption that emotions corrupt political reasoning, affective intelligence theory proposes that emotions play a functionally adaptive role — but that different emotions have different effects.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "George Marcus",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[George Marcus]]",
+        "line_number": 338,
+        "section": "Affective Intelligence Theory",
+        "context_line": "One of the most distinctive frameworks in political psychology is [[Affective Intelligence Theory]], developed by [[George Marcus]], [[Michael Neuman]], and [[John MacKuen]] in their 2000 book *Affective Intelligence and Political Judgment*. Against the traditional assumption that emotions corrupt political reasoning, affective intelligence theory proposes that emotions play a functionally adaptive role — but that different emotions have different effects.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Michael Neuman",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Michael Neuman]]",
+        "line_number": 338,
+        "section": "Affective Intelligence Theory",
+        "context_line": "One of the most distinctive frameworks in political psychology is [[Affective Intelligence Theory]], developed by [[George Marcus]], [[Michael Neuman]], and [[John MacKuen]] in their 2000 book *Affective Intelligence and Political Judgment*. Against the traditional assumption that emotions corrupt political reasoning, affective intelligence theory proposes that emotions play a functionally adaptive role — but that different emotions have different effects.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "John MacKuen",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John MacKuen]]",
+        "line_number": 338,
+        "section": "Affective Intelligence Theory",
+        "context_line": "One of the most distinctive frameworks in political psychology is [[Affective Intelligence Theory]], developed by [[George Marcus]], [[Michael Neuman]], and [[John MacKuen]] in their 2000 book *Affective Intelligence and Political Judgment*. Against the traditional assumption that emotions corrupt political reasoning, affective intelligence theory proposes that emotions play a functionally adaptive role — but that different emotions have different effects.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Kahneman and Tversky",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Kahneman and Tversky]]",
+        "line_number": 350,
+        "section": "Heuristics-and-Biases in Political Judgment",
+        "context_line": "A third major tradition draws directly on the [[Kahneman and Tversky]] heuristics-and-biases program to catalogue the specific errors that affect political judgment. The most politically significant heuristics include:",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "availability heuristic",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[availability heuristic]]",
+        "line_number": 352,
+        "section": "Heuristics-and-Biases in Political Judgment",
+        "context_line": "The [[availability heuristic]] — judging the frequency or probability of events by how easily examples come to mind — has substantial consequences in political contexts. Issues that receive saturated media coverage appear more prevalent and pressing than their statistical base rates warrant. Violent crime, terrorism, and immigration are all classic cases where availability-inflated estimates drive public policy preferences. Conversely, slow-moving problems that are statistically more serious but less vivid (e.g., deaths from preventable diseases) receive less political attention than their objective significance would warrant.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "representativeness heuristic",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[representativeness heuristic]]",
+        "line_number": 354,
+        "section": "Heuristics-and-Biases in Political Judgment",
+        "context_line": "The [[representativeness heuristic]] affects political candidate evaluation: voters often judge candidates by how well they match a prototype of a competent, trustworthy leader, rather than by their actual track record. Research by [[Alexander Todorov]] and colleagues has shown that naive judgments of candidates' competence from photographs predict electoral outcomes at significant rates — a troubling indication that System 1 face-evaluation is electorally consequential.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Alexander Todorov",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Alexander Todorov]]",
+        "line_number": 354,
+        "section": "Heuristics-and-Biases in Political Judgment",
+        "context_line": "The [[representativeness heuristic]] affects political candidate evaluation: voters often judge candidates by how well they match a prototype of a competent, trustworthy leader, rather than by their actual track record. Research by [[Alexander Todorov]] and colleagues has shown that naive judgments of candidates' competence from photographs predict electoral outcomes at significant rates — a troubling indication that System 1 face-evaluation is electorally consequential.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Confirmation bias",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Confirmation bias]]",
+        "line_number": 356,
+        "section": "Heuristics-and-Biases in Political Judgment",
+        "context_line": "[[Confirmation bias]], the tendency to preferentially seek, interpret, and remember information consistent with existing beliefs, operates at every stage of political information processing. It shapes which news sources citizens attend to, how they interpret ambiguous political events, and which memories they retrieve when forming political judgments. In a high-choice media environment, confirmation bias interacts with personalization algorithms to produce the [[information cocoon]] or [[filter bubble]] dynamic — not simply as a product of algorithmic design, but as an active result of information-seekers preferring comfortable confirmation.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "information cocoon",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[information cocoon]]",
+        "line_number": 356,
+        "section": "Heuristics-and-Biases in Political Judgment",
+        "context_line": "[[Confirmation bias]], the tendency to preferentially seek, interpret, and remember information consistent with existing beliefs, operates at every stage of political information processing. It shapes which news sources citizens attend to, how they interpret ambiguous political events, and which memories they retrieve when forming political judgments. In a high-choice media environment, confirmation bias interacts with personalization algorithms to produce the [[information cocoon]] or [[filter bubble]] dynamic — not simply as a product of algorithmic design, but as an active result of information-seekers preferring comfortable confirmation.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "filter bubble",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[filter bubble]]",
+        "line_number": 356,
+        "section": "Heuristics-and-Biases in Political Judgment",
+        "context_line": "[[Confirmation bias]], the tendency to preferentially seek, interpret, and remember information consistent with existing beliefs, operates at every stage of political information processing. It shapes which news sources citizens attend to, how they interpret ambiguous political events, and which memories they retrieve when forming political judgments. In a high-choice media environment, confirmation bias interacts with personalization algorithms to produce the [[information cocoon]] or [[filter bubble]] dynamic — not simply as a product of algorithmic design, but as an active result of information-seekers preferring comfortable confirmation.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Confirmation bias",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Confirmation bias]]",
+        "line_number": 374,
+        "section": "The Confirmation Bias Mechanism",
+        "context_line": "[[Confirmation bias]] is not a single mechanism but a family of related processes that operate at several stages of information engagement. Understanding this multi-stage structure is essential for thinking about interventions.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Social Identity Theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Social Identity Theory]]",
+        "line_number": 387,
+        "section": "Partisan Identity as Cognitive Frame",
+        "context_line": "[[Social Identity Theory]] and its applications to [[partisan identity]] provide a complementary mechanism to the individual-level bias accounts. [[Henri Tajfel]] and [[John Turner]]'s foundational work established that group membership generates automatic categorization processes — sorting the social world into in-group and out-group — and that in-group favoritism and out-group derogation emerge from this categorization, not from any material conflict of interest.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "partisan identity",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[partisan identity]]",
+        "line_number": 387,
+        "section": "Partisan Identity as Cognitive Frame",
+        "context_line": "[[Social Identity Theory]] and its applications to [[partisan identity]] provide a complementary mechanism to the individual-level bias accounts. [[Henri Tajfel]] and [[John Turner]]'s foundational work established that group membership generates automatic categorization processes — sorting the social world into in-group and out-group — and that in-group favoritism and out-group derogation emerge from this categorization, not from any material conflict of interest.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Henri Tajfel",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Henri Tajfel]]",
+        "line_number": 387,
+        "section": "Partisan Identity as Cognitive Frame",
+        "context_line": "[[Social Identity Theory]] and its applications to [[partisan identity]] provide a complementary mechanism to the individual-level bias accounts. [[Henri Tajfel]] and [[John Turner]]'s foundational work established that group membership generates automatic categorization processes — sorting the social world into in-group and out-group — and that in-group favoritism and out-group derogation emerge from this categorization, not from any material conflict of interest.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "John Turner",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[John Turner]]",
+        "line_number": 387,
+        "section": "Partisan Identity as Cognitive Frame",
+        "context_line": "[[Social Identity Theory]] and its applications to [[partisan identity]] provide a complementary mechanism to the individual-level bias accounts. [[Henri Tajfel]] and [[John Turner]]'s foundational work established that group membership generates automatic categorization processes — sorting the social world into in-group and out-group — and that in-group favoritism and out-group derogation emerge from this categorization, not from any material conflict of interest.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Leonie Huddy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Leonie Huddy]]",
+        "line_number": 389,
+        "section": "Partisan Identity as Cognitive Frame",
+        "context_line": "In political contexts, party identification functions as a perceptual lens through which all political information is filtered. Research by [[Leonie Huddy]] and colleagues has demonstrated that partisan identity operates as a *social identity* — with the emotional and motivational properties of group membership — rather than merely as a running tally of policy preferences. This means that challenges to partisan positions are experienced not merely as intellectual disagreements but as identity threats, triggering defensive reasoning with the full motivational force of social identity protection.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "partisan sorting",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[partisan sorting]]",
+        "line_number": 391,
+        "section": "Partisan Identity as Cognitive Frame",
+        "context_line": "The mechanism has a structural implication: [[partisan sorting]] — the alignment of political parties with other social identities (religion, education, geography, race) — intensifies partisan identity's role in cognition. When party identification is cross-cutting with other identities (some conservatives are urban professionals; some liberals are rural gun owners), partisan identity's claim on cognition is weaker. As parties become more socially homogeneous, partisan identity becomes more totalizing.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Arthur Lupia",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Arthur Lupia]]",
+        "line_number": 411,
+        "section": "Heuristics as Adaptive Shortcuts",
+        "context_line": "Not all heuristic use in political reasoning reflects cognitive failure. A parallel literature, associated with [[Arthur Lupia]], [[Samuel Popkin]], and the \"low-information rationality\" tradition, argues that political heuristics allow ordinary citizens to approximate the choices they would make if fully informed, at dramatically lower cognitive cost.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Samuel Popkin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Samuel Popkin]]",
+        "line_number": 411,
+        "section": "Heuristics as Adaptive Shortcuts",
+        "context_line": "Not all heuristic use in political reasoning reflects cognitive failure. A parallel literature, associated with [[Arthur Lupia]], [[Samuel Popkin]], and the \"low-information rationality\" tradition, argues that political heuristics allow ordinary citizens to approximate the choices they would make if fully informed, at dramatically lower cognitive cost.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Retrospective voting",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Retrospective voting]]",
+        "line_number": 413,
+        "section": "Heuristics as Adaptive Shortcuts",
+        "context_line": "Party identification itself is, on this account, a valuable cue: voting for the party that generally represents your interests requires knowing very little about individual candidates or specific policies. Endorsements from trusted cue-givers — unions, religious organizations, newspapers — allow citizens to leverage others' research. [[Retrospective voting]] — evaluating incumbents based on recent economic performance rather than policy knowledge — has been shown to produce reasonably efficient accountability, despite the distortions introduced by the availability heuristic and attribution errors.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "civic education",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[civic education]]",
+        "line_number": 433,
+        "section": "Civic Education and Critical Thinking",
+        "context_line": "The most direct application domain for political reasoning research is [[civic education]]. The challenge, as the Sophistication Paradox makes clear, is that standard approaches to civic education — increasing factual political knowledge, developing formal reasoning skills — do not reliably produce better political reasoning. More knowledge and more argumentative skill can serve motivated reasoning as effectively as they serve accuracy-motivated reasoning.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Epistemic humility",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic humility]]",
+        "line_number": 435,
+        "section": "Civic Education and Critical Thinking",
+        "context_line": "Research suggests that effective civic education must work at the level of epistemic dispositions as well as skills. [[Epistemic humility]] — the calibrated awareness of the limits of one's own knowledge and reasoning — needs to be cultivated as a civic virtue alongside knowledge and skill. [[Philip Tetlock]]'s decades-long study of expert political forecasters found that the best performers (whom he called \"foxes\" rather than \"hedgehogs\") were characterized not by greater expertise in a specific domain but by calibrated uncertainty, openness to revision, and willingness to integrate diverse perspectives. These are dispositional properties, not simply cognitive skills.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Philip Tetlock",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Philip Tetlock]]",
+        "line_number": 435,
+        "section": "Civic Education and Critical Thinking",
+        "context_line": "Research suggests that effective civic education must work at the level of epistemic dispositions as well as skills. [[Epistemic humility]] — the calibrated awareness of the limits of one's own knowledge and reasoning — needs to be cultivated as a civic virtue alongside knowledge and skill. [[Philip Tetlock]]'s decades-long study of expert political forecasters found that the best performers (whom he called \"foxes\" rather than \"hedgehogs\") were characterized not by greater expertise in a specific domain but by calibrated uncertainty, openness to revision, and willingness to integrate diverse perspectives. These are dispositional properties, not simply cognitive skills.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Socratic questioning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Socratic questioning]]",
+        "line_number": 438,
+        "section": "Civic Education and Critical Thinking",
+        "context_line": "> Civic education interventions that show the most consistent evidence of improving reasoning quality include: (1) explicit instruction in the identification of cognitive biases and motivated reasoning, applied to participants' own political reasoning; (2) perspective-taking exercises that require substantive engagement with the strongest versions of opposing arguments (\"steelmanning\" rather than strawmanning); (3) argument mapping techniques that make logical structure visible and evaluable; and (4) [[Socratic questioning]] practices that surface tacit assumptions.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "media literacy",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[media literacy]]",
+        "line_number": 442,
+        "section": "Media Literacy and Disinformation Resistance",
+        "context_line": "The contemporary information environment — characterized by information abundance, low verification costs for content producers, and algorithmic amplification — has created new urgency around [[media literacy]] as a component of political reasoning education. Political misinformation spreads virally not primarily because people are deceived but because it is emotionally activating, identity-affirming, and socially rewarding to share.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Inoculation theory",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Inoculation theory]]",
+        "line_number": 444,
+        "section": "Media Literacy and Disinformation Resistance",
+        "context_line": "[[Inoculation theory]], developed in political communication research by [[Sander van der Linden]] and colleagues, offers one of the most promising frameworks. Drawing on analogy from medical vaccination, inoculation theory proposes that pre-emptive exposure to weakened forms of misinformation techniques — with explicit labeling of the persuasion tactic employed — generates cognitive resistance to future misinformation encounters. Studies have found significant effects of brief \"prebunking\" interventions, suggesting that the timing of media literacy intervention (before, not after, misinformation exposure) matters substantially.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Sander van der Linden",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Sander van der Linden]]",
+        "line_number": 444,
+        "section": "Media Literacy and Disinformation Resistance",
+        "context_line": "[[Inoculation theory]], developed in political communication research by [[Sander van der Linden]] and colleagues, offers one of the most promising frameworks. Drawing on analogy from medical vaccination, inoculation theory proposes that pre-emptive exposure to weakened forms of misinformation techniques — with explicit labeling of the persuasion tactic employed — generates cognitive resistance to future misinformation encounters. Studies have found significant effects of brief \"prebunking\" interventions, suggesting that the timing of media literacy intervention (before, not after, misinformation exposure) matters substantially.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "SIFT protocol",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[SIFT protocol]]",
+        "line_number": 446,
+        "section": "Media Literacy and Disinformation Resistance",
+        "context_line": "A complementary approach is the [[SIFT protocol]] (Stop, Investigate the source, Find better coverage, Trace claims), developed by [[Mike Caulfield]], which teaches specific information-verification behaviors rather than abstract critical thinking skills. The key innovation in SIFT is its recommendation of \"lateral reading\" — immediately leaving an unfamiliar source to check what others say about it — rather than the \"vertical reading\" approach (reading the content carefully for internal inconsistencies) that traditional critical thinking instruction emphasizes. Preliminary evidence suggests lateral reading is significantly more effective than vertical reading for identifying unreliable sources.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Mike Caulfield",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Mike Caulfield]]",
+        "line_number": 446,
+        "section": "Media Literacy and Disinformation Resistance",
+        "context_line": "A complementary approach is the [[SIFT protocol]] (Stop, Investigate the source, Find better coverage, Trace claims), developed by [[Mike Caulfield]], which teaches specific information-verification behaviors rather than abstract critical thinking skills. The key innovation in SIFT is its recommendation of \"lateral reading\" — immediately leaving an unfamiliar source to check what others say about it — rather than the \"vertical reading\" approach (reading the content carefully for internal inconsistencies) that traditional critical thinking instruction emphasizes. Preliminary evidence suggests lateral reading is significantly more effective than vertical reading for identifying unreliable sources.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Backfire Effect",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Backfire Effect]]",
+        "line_number": 449,
+        "section": "Media Literacy and Disinformation Resistance",
+        "context_line": "> A significant limitation of media literacy interventions is the [[Backfire Effect]] literature — findings, prominent from a 2010 paper by [[Brendan Nyhan]] and Jason Reifler, suggesting that correcting political misinformation sometimes strengthens belief in the misinformation among the people most committed to it. However, subsequent large-scale replication attempts (Nyhan et al., 2019) have substantially failed to replicate the original findings, and the current consensus is that corrections generally do not backfire, though they may have limited positive effects on strongly committed partisans. The lesson is not that corrections are harmful but that they are often insufficient.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Brendan Nyhan",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Brendan Nyhan]]",
+        "line_number": 449,
+        "section": "Media Literacy and Disinformation Resistance",
+        "context_line": "> A significant limitation of media literacy interventions is the [[Backfire Effect]] literature — findings, prominent from a 2010 paper by [[Brendan Nyhan]] and Jason Reifler, suggesting that correcting political misinformation sometimes strengthens belief in the misinformation among the people most committed to it. However, subsequent large-scale replication attempts (Nyhan et al., 2019) have substantially failed to replicate the original findings, and the current consensus is that corrections generally do not backfire, though they may have limited positive effects on strongly committed partisans. The lesson is not that corrections are harmful but that they are often insufficient.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Deliberative democratic",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberative democratic]]",
+        "line_number": 455,
+        "section": "Structural Conditions for Better Political Reasoning",
+        "context_line": "[[Deliberative democratic]] institutions — citizens' assemblies, participatory budgeting processes, randomly selected deliberative polls — create conditions structurally different from routine electoral politics: participants are exposed to diverse perspectives, provided with balanced information, and asked to reason together toward collective judgments. [[James Fishkin]]'s decades of research on Deliberative Polling finds consistent evidence that participants, regardless of prior political knowledge or sophistication, move toward better-informed, more nuanced positions after genuine deliberative engagement. This suggests that the quality of political reasoning is highly context-dependent — that citizens are capable of reasoning well when structural conditions support rather than undermine it.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "James Fishkin",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[James Fishkin]]",
+        "line_number": 455,
+        "section": "Structural Conditions for Better Political Reasoning",
+        "context_line": "[[Deliberative democratic]] institutions — citizens' assemblies, participatory budgeting processes, randomly selected deliberative polls — create conditions structurally different from routine electoral politics: participants are exposed to diverse perspectives, provided with balanced information, and asked to reason together toward collective judgments. [[James Fishkin]]'s decades of research on Deliberative Polling finds consistent evidence that participants, regardless of prior political knowledge or sophistication, move toward better-informed, more nuanced positions after genuine deliberative engagement. This suggests that the quality of political reasoning is highly context-dependent — that citizens are capable of reasoning well when structural conditions support rather than undermine it.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Metacognition and Critical Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition and Critical Thinking]]",
+        "line_number": 488,
+        "section": "Phase VI: Synthesis & Integration",
+        "context_line": "This mapping has clear implications for civic education. The goal cannot be to eliminate the emotional, identity-laden, heuristic-dependent character of political cognition — that is both undesirable and impossible. The goal is to cultivate the metacognitive capacities, epistemic dispositions, and environmental conditions that allow the deliberative capacity latent in political cognition to actualize. This means education directed not just at what to think but at *how to notice how one is thinking* — a project whose foundations this report shares with the [[Metacognition and Critical Thinking]] node in the knowledge base.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Deliberate Practice in Civic Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberate Practice in Civic Reasoning]]",
+        "line_number": 490,
+        "section": "Phase VI: Synthesis & Integration",
+        "context_line": "The structural dimension of political reasoning also connects this material to [[Deliberate Practice in Civic Reasoning]] and to [[Epistemic Calibration]] — topics that extend the present analysis into more specific questions about what expert-level political judgment looks like, how it is developed, and how it can be measured.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Epistemic Calibration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic Calibration]]",
+        "line_number": 490,
+        "section": "Phase VI: Synthesis & Integration",
+        "context_line": "The structural dimension of political reasoning also connects this material to [[Deliberate Practice in Civic Reasoning]] and to [[Epistemic Calibration]] — topics that extend the present analysis into more specific questions about what expert-level political judgment looks like, how it is developed, and how it can be measured.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Metacognition and Lifelong Learning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition and Lifelong Learning]]",
+        "line_number": 495,
+        "section": "Phase VI: Synthesis & Integration",
+        "context_line": "> - **[[Metacognition and Lifelong Learning]]** — The political reasoning literature extends the self-regulatory learning frameworks documented in this node. The metacognitive monitoring and control processes that support adaptive learning are precisely the capacities that, when directed toward political cognition, support epistemic citizenship. The Sophistication Paradox has a direct analogue in the Dunning-Kruger literature: both show that cognitive sophistication is not automatically self-correcting without metacognitive orientation.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Metacognition and Critical Thinking",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Metacognition and Critical Thinking]]",
+        "line_number": 497,
+        "section": "Phase VI: Synthesis & Integration",
+        "context_line": "> - **[[Metacognition and Critical Thinking]]** — The Paul-Elder framework and Schön's reflective practitioner model both apply directly to political reasoning. \"Reflection-in-action\" in political contexts corresponds to the real-time identification of motivated reasoning during political information processing. The critical thinking disposition of \"fair-mindedness\" maps closely onto the epistemic virtue literature on epistemic humility in political judgment.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Epistemic Calibration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic Calibration]]",
+        "line_number": 499,
+        "section": "Phase VI: Synthesis & Integration",
+        "context_line": "> - **[[Epistemic Calibration]]** — Tetlock's superforecaster research provides the most detailed empirical picture of what well-calibrated political judgment looks like and how it is developed. This node would extend the present report's treatment of accuracy-motivated versus directional-motivated reasoning into the specific cognitive and dispositional profiles of individuals who consistently do well at political prediction.",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Partisan Identity and Motivated Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Partisan Identity and Motivated Reasoning]]",
+        "line_number": 585,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Partisan Identity and Motivated Reasoning]]",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Affective Intelligence Theory — Full Treatment",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Affective Intelligence Theory — Full Treatment]]",
+        "line_number": 588,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Affective Intelligence Theory — Full Treatment]]",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Media Literacy and Disinformation Resistance",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Media Literacy and Disinformation Resistance]]",
+        "line_number": 591,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Media Literacy and Disinformation Resistance]]",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Deliberative Democracy and Epistemic Citizenship",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Deliberative Democracy and Epistemic Citizenship]]",
+        "line_number": 594,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Deliberative Democracy and Epistemic Citizenship]]",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Heuristics in Voting Behavior",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Heuristics in Voting Behavior]]",
+        "line_number": 597,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Heuristics in Voting Behavior]]",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Epistemic Calibration",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Epistemic Calibration]]",
+        "line_number": 600,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Epistemic Calibration]]",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "target": "Cross-Cultural Variation in Political Reasoning",
+        "heading": null,
+        "display_text": null,
+        "full_match": "[[Cross-Cultural Variation in Political Reasoning]]",
+        "line_number": 603,
+        "section": "C. Expansion Topics",
+        "context_line": "> > [!topic-idea] [[Cross-Cultural Variation in Political Reasoning]]",
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      }
+    ],
+    "inline_fields": [],
+    "tags": [],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Political Reasoning and Decision Making",
+        "anchor": "political-reasoning-and-decision-making",
+        "line_number": 245,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase I: Orientation & Context Setting",
+        "anchor": "phase-i-orientation-context-setting",
+        "line_number": 247,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase II: Conceptual Foundations",
+        "anchor": "phase-ii-conceptual-foundations",
+        "line_number": 270,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase III: Theoretical Landscape",
+        "anchor": "phase-iii-theoretical-landscape",
+        "line_number": 314,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "Dual Process Frameworks in Political Science",
+        "anchor": "dual-process-frameworks-in-political-science",
+        "line_number": 318,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "Motivated Reasoning and the Online-Tally Model",
+        "anchor": "motivated-reasoning-and-the-online-tally-model",
+        "line_number": 327,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "Affective Intelligence Theory",
+        "anchor": "affective-intelligence-theory",
+        "line_number": 336,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "Heuristics-and-Biases in Political Judgment",
+        "anchor": "heuristics-and-biases-in-political-judgment",
+        "line_number": 348,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase IV: Mechanisms & Processes",
+        "anchor": "phase-iv-mechanisms-processes",
+        "line_number": 365,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "The Confirmation Bias Mechanism",
+        "anchor": "the-confirmation-bias-mechanism",
+        "line_number": 372,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "Partisan Identity as Cognitive Frame",
+        "anchor": "partisan-identity-as-cognitive-frame",
+        "line_number": 385,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "The Role of Emotions in Political Cognition",
+        "anchor": "the-role-of-emotions-in-political-cognition",
+        "line_number": 396,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "Heuristics as Adaptive Shortcuts",
+        "anchor": "heuristics-as-adaptive-shortcuts",
+        "line_number": 409,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase V: Applications, Implications & Limitations",
+        "anchor": "phase-v-applications-implications-limitations",
+        "line_number": 424,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "Civic Education and Critical Thinking",
+        "anchor": "civic-education-and-critical-thinking",
+        "line_number": 431,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "Media Literacy and Disinformation Resistance",
+        "anchor": "media-literacy-and-disinformation-resistance",
+        "line_number": 440,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "Structural Conditions for Better Political Reasoning",
+        "anchor": "structural-conditions-for-better-political-reasoning",
+        "line_number": 451,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "Limitations of Current Knowledge",
+        "anchor": "limitations-of-current-knowledge",
+        "line_number": 460,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VI: Synthesis & Integration",
+        "anchor": "phase-vi-synthesis-integration",
+        "line_number": 480,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 2,
+        "text": "Phase VII: Appendix",
+        "anchor": "phase-vii-appendix",
+        "line_number": 514,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "A. Lexicon of Key Terms",
+        "anchor": "a-lexicon-of-key-terms",
+        "line_number": 516,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "B. References",
+        "anchor": "b-references",
+        "line_number": 550,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      },
+      {
+        "level": 3,
+        "text": "C. Expansion Topics",
+        "anchor": "c-expansion-topics",
+        "line_number": 581,
+        "source": "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+      }
+    ],
+    "code_blocks": [],
+    "tables": [],
+    "external_links": [],
+    "embeds": [],
+    "block_references": [],
+    "definitions": [],
+    "mermaid_diagrams": [],
+    "footnotes": [],
+    "color_spans": [],
+    "lists": {
+      "ordered": [],
+      "unordered": []
+    },
+    "html_comments": [],
+    "obsidian_comments": [],
+    "math_expressions": []
+  },
+  "knowledge_graph": {
+    "unique_wiki_link_targets": [
+      "Affective Intelligence Theory",
+      "Affective Intelligence Theory — Full Treatment",
+      "Alexander Todorov",
+      "Arthur Lupia",
+      "Backfire Effect",
+      "Brendan Nyhan",
+      "Charles Taber",
+      "Christopher Achen",
+      "Confirmation bias",
+      "Cross-Cultural Variation in Political Reasoning",
+      "Dan Kahan",
+      "Dan Sperber",
+      "Daniel Kahneman",
+      "Deliberate Practice in Civic Reasoning",
+      "Deliberative Democracy and Epistemic Citizenship",
+      "Deliberative democratic",
+      "Drew Westen",
+      "Dual Process Theory",
+      "Epistemic Calibration",
+      "Epistemic humility",
+      "George Marcus",
+      "Henri Tajfel",
+      "Heuristics in Voting Behavior",
+      "Hugo Mercier",
+      "Inoculation theory",
+      "James Fishkin",
+      "John Jost",
+      "John MacKuen",
+      "John Turner",
+      "Kahneman and Tversky",
+      "Larry Bartels",
+      "Leonie Huddy",
+      "Media Literacy and Disinformation Resistance",
+      "Metacognition and Critical Thinking",
+      "Metacognition and Lifelong Learning",
+      "Michael Neuman",
+      "Mike Caulfield",
+      "Milton Lodge",
+      "Partisan Identity and Motivated Reasoning",
+      "Philip Converse",
+      "Philip Tetlock",
+      "Political reasoning",
+      "Retrospective voting",
+      "SIFT protocol",
+      "Samuel Popkin",
+      "Sander van der Linden",
+      "Social Identity Theory",
+      "Socratic questioning",
+      "System 1",
+      "System 2",
+      "Ziva Kunda",
+      "availability heuristic",
+      "civic education",
+      "democratic self-governance",
+      "filter bubble",
+      "information cocoon",
+      "information cocoons",
+      "media literacy",
+      "motivated reasoning",
+      "partisan identity",
+      "partisan sorting",
+      "political heuristics",
+      "political polarization",
+      "representativeness heuristic"
+    ],
+    "unique_wiki_link_count": 64,
+    "unique_tags": [],
+    "unique_tag_count": 0,
+    "frontmatter_relationships": {
+      "prerequisites": [
+        "[[Cognitive Biases Overview]]",
+        "[[Dual Process Theory]]",
+        "[[Social Identity Theory]]"
+      ],
+      "related": [
+        "[[Confirmation Bias]]",
+        "[[Motivated Reasoning]]",
+        "[[Affective Intelligence Theory]]",
+        "[[Media Literacy]]",
+        "[[Critical Thinking]]",
+        "[[Epistemic Humility]]",
+        "[[Deliberative Democracy]]"
+      ],
+      "broader": [
+        "[[Political Psychology]]",
+        "[[Cognitive Psychology]]",
+        "[[Behavioral Economics]]"
+      ],
+      "narrower": [
+        "[[Partisan Identity and Reasoning]]",
+        "[[Political Heuristics]]",
+        "[[Emotional Influences on Voting]]"
+      ],
+      "see-also": [
+        "[[Transfer of Learning]]",
+        "[[Metacognition and Critical Thinking]]",
+        "[[Epistemic Calibration]]",
+        "[[Argument Mapping]]"
+      ],
+      "contrasts-with": [
+        "[[Rational Choice Theory in Politics]]",
+        "[[Deliberative Rationalism]]"
+      ],
+      "applied-in": [
+        "[[Civic Education]]",
+        "[[News Literacy Programs]]",
+        "[[Political Communication]]",
+        "[[Instructional Design for Democratic Citizenship]]"
+      ],
+      "builds-on": [
+        "[[Metacognition and Lifelong Learning]]",
+        "[[Metacognition and Critical Thinking]]"
+      ],
+      "enables": [
+        "[[Epistemic Calibration]]",
+        "[[Deliberate Practice in Civic Reasoning]]",
+        "[[Instructional Design for Political Literacy]]"
+      ]
+    },
+    "backlink_candidates": [
+      "Affective Intelligence Theory",
+      "Affective Intelligence Theory — Full Treatment",
+      "Alexander Todorov",
+      "Arthur Lupia",
+      "Backfire Effect",
+      "Brendan Nyhan",
+      "Charles Taber",
+      "Christopher Achen",
+      "Confirmation bias",
+      "Cross-Cultural Variation in Political Reasoning",
+      "Dan Kahan",
+      "Dan Sperber",
+      "Daniel Kahneman",
+      "Deliberate Practice in Civic Reasoning",
+      "Deliberative Democracy and Epistemic Citizenship",
+      "Deliberative democratic",
+      "Drew Westen",
+      "Dual Process Theory",
+      "Epistemic Calibration",
+      "Epistemic humility",
+      "George Marcus",
+      "Henri Tajfel",
+      "Heuristics in Voting Behavior",
+      "Hugo Mercier",
+      "Inoculation theory",
+      "James Fishkin",
+      "John Jost",
+      "John MacKuen",
+      "John Turner",
+      "Kahneman and Tversky",
+      "Larry Bartels",
+      "Leonie Huddy",
+      "Media Literacy and Disinformation Resistance",
+      "Metacognition and Critical Thinking",
+      "Metacognition and Lifelong Learning",
+      "Michael Neuman",
+      "Mike Caulfield",
+      "Milton Lodge",
+      "Partisan Identity and Motivated Reasoning",
+      "Philip Converse",
+      "Philip Tetlock",
+      "Political reasoning",
+      "Retrospective voting",
+      "SIFT protocol",
+      "Samuel Popkin",
+      "Sander van der Linden",
+      "Social Identity Theory",
+      "Socratic questioning",
+      "System 1",
+      "System 2",
+      "Ziva Kunda",
+      "availability heuristic",
+      "civic education",
+      "democratic self-governance",
+      "filter bubble",
+      "information cocoon",
+      "information cocoons",
+      "media literacy",
+      "motivated reasoning",
+      "partisan identity",
+      "partisan sorting",
+      "political heuristics",
+      "political polarization",
+      "representativeness heuristic"
+    ]
+  }
+}

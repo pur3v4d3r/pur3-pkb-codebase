@@ -1,0 +1,1113 @@
+{
+  "pipeline_run": "2026-03-19T02:29:39.714066",
+  "dry_run": true,
+  "scan": {
+    "total_candidates": 500
+  },
+  "match": {
+    "matched": 148,
+    "unmatched": 352,
+    "skipped_duplicates": 151,
+    "match_rate": 0.3,
+    "unmatched_concepts": [
+      "Cognitive Debt",
+      "Metacognitive Capacity",
+      "Cognitive Load",
+      "Early Selection",
+      "Late Selection",
+      "Question at Issue",
+      "Interpretation and Inference",
+      "Concepts",
+      "Assumptions",
+      "Implications and Consequences",
+      "Point of View",
+      "Literature Review",
+      "Self-Agent Coordinator",
+      "Excalidraw",
+      "Excalidraw Library",
+      "ExcalidrawAutomate",
+      "MarkMind",
+      "Text Generator Plugin",
+      "API-First AI Integration",
+      "Context Window",
+      "Handlebars",
+      "Smart Connections",
+      "Standard Template Metadata",
+      "Thinking Tag Semantics",
+      "Chain-of-Thought Prompting",
+      "Tree of Thoughts Framework",
+      "Self-Consistency",
+      "Model Context Protocol",
+      "Client-Server Architecture",
+      "Data Layer Components",
+      "FastMCP",
+      "Personal Workflow Architecture",
+      "DOpus Command Modifiers",
+      "DOpus Built-in Variables",
+      "TASK Query Type Fundamentals",
+      "Core DataviewJS Task Methods",
+      "File Metadata Queries",
+      "Choice Function",
+      "What is Frontmatter?",
+      "The Stoic Core Insight",
+      "Maturity Level Definitions & Criteria",
+      "Research Question",
+      "Research Context",
+      "Learning Session Overview",
+      "Identified Techniques",
+      "Prompty Asset Class",
+      "Operational Targets",
+      "Abductive Reasoning",
+      "The Abductive Syllogism",
+      "Context of Discovery vs. Context of Justification",
+      "Abductive Competence",
+      "Abduction",
+      "Inference to the Best Explanation",
+      "Anomaly",
+      "Abductive Competence",
+      "Manipulative Abduction",
+      "Theory-Ladenness of Observation",
+      "Context of Discovery vs. Context of Justification",
+      "Inquiry-Based Learning",
+      "Achievement Goal",
+      "Undifferentiated Conception of Ability",
+      "Differentiated Conception of Ability",
+      "Task Involvement",
+      "Ego Involvement",
+      "Performance-Approach Goal",
+      "Performance-Avoidance Goal",
+      "Mastery-Approach Goal",
+      "Mastery-Avoidance Goal",
+      "Performance-Approach Goal",
+      "Performance-Avoidance Goal",
+      "Motivational Climate",
+      "Achievement Goal",
+      "Performance-Avoidance Goal",
+      "Mastery-Avoidance Goal",
+      "Ego Involvement",
+      "Motivational Climate",
+      "22 Framework",
+      "TARGET Framework",
+      "Differentiated Conception of Ability",
+      "Prior Knowledge",
+      "Expository Advance Organizer",
+      "Comparative Advance Organizer",
+      "Meaningful Learning",
+      "Subsumer / Anchoring Idea",
+      "Meaningful Learning",
+      "Expository Organizer",
+      "Comparative Organizer",
+      "Obliterative Subsumption",
+      "Extended Thinking Modes",
+      "Instance Theory Core Mechanism",
+      "Cortico-Striatal Learning Loops",
+      "Stage Characteristics and Training Implications",
+      "Critical Thinking as Metacognitively-Regulated Reasoning",
+      "Holistic Critical Thinking Scoring Rubric Framework",
+      "Knowledge of Cognition",
+      "Regulation of Cognition",
+      "PENCRISAL Framework",
+      "Core Definition: Epistemic Vigilance",
+      "Philosophical Lineage",
+      "Cognitive-Psychological Conceptualization",
+      "The Seven Intellectual Traits",
+      "Delphi Consensus Definition",
+      "Core Concept Definition",
+      "Stream of Consciousness",
+      "Element Interactivity",
+      "Intrinsic Cognitive Load",
+      "CLT as a Dynamic Load Optimization Problem",
+      "Toward an Expertise-Indexed Instructional Design Principle",
+      "Working Memory Capacity",
+      "Intrinsic Cognitive Load",
+      "Element Interactivity",
+      "Schema Automation",
+      "Guidance Fading Principle",
+      "Intrinsic Cognitive Load",
+      "Germane Cognitive Load (Sweller, van Merrinboer & Paas, 1998)  Original Formulation",
+      "Cognitive Load",
+      "Intrinsic Cognitive Load",
+      "Element Interactivity",
+      "Modality Effect",
+      "Four-Component Instructional Design / 4C/ID",
+      "Redundancy Effect",
+      "Analysis",
+      "Evaluation",
+      "Inference",
+      "Analysis",
+      "Evaluation",
+      "Inference",
+      "Disposition",
+      "Cognitive Load",
+      "Weak-Sense vs. Strong-Sense Critical Thinking",
+      "Deductive Reasoning",
+      "Validity",
+      "Soundness",
+      "Modus Ponens",
+      "Modus Tollens",
+      "System 1 / System 2",
+      "Categorical Syllogism",
+      "Validity",
+      "Belief Bias",
+      "Mental Models",
+      "Modus Tollens",
+      "Pragmatic Reasoning Schema",
+      "Hypothetico-Deductive Method",
+      "Actively Open-Minded Thinking",
+      "Classical Cognitivism",
+      "Internalism",
+      "The Parity Principle",
+      "Active Externalism",
+      "Passive Externalism",
+      "Parity Principle",
+      "Coupling-Constitution Fallacy",
+      "Mark of the Cognitive",
+      "4E Cognition",
+      "Distributed Cognition",
+      "Vehicle Externalism",
+      "Active Externalism",
+      "Cognitive Scaffolding",
+      "Fallibilism",
+      "Infallibilism",
+      "Defeasibility",
+      "Epistemic Calibration",
+      "Fallibilism",
+      "Defeasibility",
+      "Corroboration",
+      "Epistemic Holism",
+      "Defeat / Defeater",
+      "Open Society",
+      "Progressive Approximation",
+      "Entity Theory",
+      "Incremental Theory",
+      "Formative Feedback",
+      "Feed-Forward",
+      "Process Praise",
+      "Autonomy Support",
+      "Attribution Retraining",
+      "Ego-Involving Feedback",
+      "Co-Constructed Criteria",
+      "Rubric",
+      "Fixed Mindset",
+      "Entity Theory of Intelligence",
+      "Incremental Theory of Intelligence",
+      "Attribution Theory",
+      "Goal Orientation",
+      "Mastery Experience",
+      "Mindset Intervention",
+      "Attribution Retraining",
+      "Dissolved Assumption",
+      "Fixed Mindset",
+      "Mastery Goal Orientation",
+      "Performance Goal Orientation",
+      "Productive Struggle",
+      "Entity Theory of Intelligence",
+      "Incremental Theory of Intelligence",
+      "Helpless Response Pattern",
+      "Mastery-Oriented Response Pattern",
+      "Challenge Avoidance",
+      "Stereotype Threat",
+      "Belonging Uncertainty",
+      "Formative Feedback",
+      "Inductive Reasoning",
+      "Deductive Reasoning",
+      "Abductive Reasoning",
+      "The Problem of Induction",
+      "Inductive Reasoning",
+      "The Problem of Induction",
+      "Enumerative Induction",
+      "Analogical Reasoning",
+      "Inquiry-Based Learning",
+      "Theory-Evidence Coordination",
+      "Bayesian Inference",
+      "Causal Induction",
+      "Falsificationism",
+      "Sensory Memory",
+      "Short-Term Memory",
+      "Phonological Loop",
+      "Visuospatial Sketchpad",
+      "Central Executive",
+      "Episodic Buffer",
+      "Declarative Memory",
+      "Episodic Memory",
+      "Semantic Memory",
+      "Non-Declarative Memory",
+      "Synaptic Consolidation",
+      "Systems Consolidation",
+      "Declarative Memory",
+      "Episodic Memory",
+      "Semantic Memory",
+      "Non-Declarative Memory",
+      "Mental Model",
+      "Mental Model",
+      "Propositional Representation",
+      "Analogical Representation",
+      "Model-Completeness Hypothesis",
+      "Pragmatic Reasoning Schemas",
+      "Assumption 5: Rule/Model Dichotomy",
+      "Situation Model",
+      "Axiom 1: Systematicity of Reasoning Errors",
+      "Pragmatic Construction",
+      "Mental Model",
+      "Propositional Representation",
+      "Mental Image",
+      "Mental Model",
+      "Situation Model",
+      "Mental Model",
+      "Propositional Representation",
+      "Principle of Truth",
+      "Counterexample Search",
+      "Situation Model",
+      "Figure Effect",
+      "Fleshing Out",
+      "Mental Simulation",
+      "Model Multiplicity",
+      "Reflective Judgment",
+      "Epistemic Cognition",
+      "Intellectual Standards",
+      "Transfer",
+      "Declarative, Procedural, and Conditional Metacognitive Knowledge",
+      "Metacognitive Feelings",
+      "Goal Orientation",
+      "Goal Orientation",
+      "Metacognitive Feelings",
+      "Attribution Style",
+      "Subagents vs. Coordinator",
+      "Complete Agent File Format",
+      "Pipeline Stages",
+      "The MULTI_AGENT_PLAN.md Pattern",
+      "Output Style Modes",
+      "Contract-Style Prompt Structure",
+      "Tool Access Patterns",
+      "Model Selection Decision Tree",
+      "Description Field Components",
+      "Complete Project Structure",
+      "Routing Decision Factors",
+      "State Management Approaches",
+      "Error Categories in Multi-Agent Systems",
+      "Git-Based Workflow",
+      "Shared vs. Personal Agents",
+      "Observability Layers",
+      "Political Reasoning",
+      "Political Decision Making",
+      "System 1",
+      "System 2",
+      "Political Reasoning",
+      "Affective Intelligence Theory",
+      "Partisan Identity",
+      "Deliberative Democracy",
+      "Inoculation Theory",
+      "Filter Bubble / Information Cocoon",
+      "Extended Thinking Modes",
+      "Slot / Default Value",
+      "Reconstructive Memory",
+      "Accretion, Tuning, Restructuring",
+      "Relatedness",
+      "The Regulatory Spectrum",
+      "Autonomy-Supportive Environment",
+      "Controlling Environment",
+      "The Integrated Gateway Model: Autonomy as the Motivational Gatekeeper",
+      "Need Satisfaction as Dynamic Equilibrium, Not Cumulative Score",
+      "Autonomous Regulation",
+      "Conditional Regard",
+      "Controlled Regulation",
+      "Effectance",
+      "Identified Regulation",
+      "Introjected Regulation",
+      "Need Thwarting",
+      "Organismic Integration Theory",
+      "Perceived Locus of Causality",
+      "Autonomy Support",
+      "Undermining Effect",
+      "Relational-Emergent Autonomy",
+      "Organismic Integration Theory",
+      "Need Frustration",
+      "Relatedness",
+      "The Organismic Dialectical Perspective",
+      "Autonomy Support",
+      "Conditional Regard",
+      "Identified Regulation",
+      "Introjected Regulation",
+      "Need Thwarting",
+      "Organismic Integration Theory",
+      "Perceived Locus of Causality",
+      "Self-Directed Learning",
+      "Self-Directedness  Trait or Readiness Sense",
+      "SDL as Educational Goal",
+      "Self-Directed Learning",
+      "Self-Directed Learning Readiness Scale",
+      "Personal Responsibility Orientation",
+      "Learning Projects",
+      "Learning Contracts",
+      "Self-Management",
+      "Self-Monitoring",
+      "Zimmerman's Cyclical Model of Self-Regulation",
+      "Pintrich's Motivational Integration",
+      "Self-Regulated Learning as a Resource Allocation Problem Under Uncertainty",
+      "Performance Phase",
+      "Self-Reflection Phase",
+      "Goal Orientation",
+      "Metacognitive Experience",
+      "Monitoring-Control Coupling",
+      "MSLQ",
+      "Deductive Reasoning",
+      "Inductive Reasoning",
+      "Abductive Reasoning",
+      "Deductive Reasoning",
+      "Inductive Reasoning",
+      "Abductive Reasoning",
+      "Validity",
+      "Epistemic Cognition",
+      "Defeasibility",
+      "Illusion of Explanatory Depth",
+      "Functional Integration",
+      "Knowing-That / Knowing-How"
+    ]
+  },
+  "update": {
+    "processed": 68,
+    "modified": 68,
+    "unchanged": 0,
+    "errors": 0,
+    "modified_notes": [
+      {
+        "note": "Schema",
+        "source_reports_added": [
+          "topic-set-cognitive-science-pkb-achitecture-202511202330.md",
+          "advance-organizers-prior-knowledge-foundational-report-2026-03-11.md",
+          "cognitive-load-theory-foundational-report-2026-03-11.md",
+          "schema-theory-and-learning-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 3,
+        "insights_added": 8,
+        "practices_added": 6,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Self-Determination-Theory",
+        "source_reports_added": [
+          "cog-psy-self-determination-theory-as-a-driver-for-sustainable-knowledge-management-habits-20251126101939.md",
+          "self-determination-theory-first-principles-report-2026-03-11.md",
+          "self-determination-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 4,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Productive-Failure",
+        "source_reports_added": [
+          "abductive-reasoning-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Mastery-Goals",
+        "source_reports_added": [
+          "achievement-goal-theory-foundational-report-2026-03-10.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 1,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Performance-Goals",
+        "source_reports_added": [
+          "achievement-goal-theory-foundational-report-2026-03-10.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 1,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Advance-Organizer",
+        "source_reports_added": [
+          "advance-organizers-prior-knowledge-foundational-report-2026-03-11.md",
+          "schema-theory-and-learning-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 2,
+        "insights_added": 4,
+        "practices_added": 4,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Assimilation",
+        "source_reports_added": [
+          "advance-organizers-prior-knowledge-foundational-report-2026-03-11.md",
+          "schema-theory-and-learning-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 2,
+        "insights_added": 4,
+        "practices_added": 4,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Elaborative-Interrogation",
+        "source_reports_added": [
+          "advance-organizers-prior-knowledge-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 2,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Educational-Psychology",
+        "source_reports_added": [
+          "cog-psy-william-james.md"
+        ],
+        "evidence_added": 2,
+        "insights_added": 1,
+        "practices_added": 0,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Working-Memory",
+        "source_reports_added": [
+          "cognitive-load-theory-focused-analysis-2026-03-06.md",
+          "cognitive-load-theory-foundational-report-2026-03-11.md",
+          "memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 5,
+        "insights_added": 6,
+        "practices_added": 6,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Germane-Cognitive-Load",
+        "source_reports_added": [
+          "cognitive-load-theory-focused-analysis-2026-03-06.md",
+          "cognitive-load-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 4,
+        "insights_added": 4,
+        "practices_added": 4,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Cognitive-Load-Theory",
+        "source_reports_added": [
+          "cognitive-load-theory-focused-analysis-2026-03-06.md",
+          "types-of-reasoning-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 4,
+        "insights_added": 4,
+        "practices_added": 4,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Worked-Example-Effect",
+        "source_reports_added": [
+          "cognitive-load-theory-focused-analysis-2026-03-06.md",
+          "cognitive-load-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 4,
+        "insights_added": 4,
+        "practices_added": 4,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Expertise-Reversal-Effect",
+        "source_reports_added": [
+          "cognitive-load-theory-focused-analysis-2026-03-06.md",
+          "cognitive-load-theory-foundational-report-2026-03-11.md",
+          "self-regulated-learning-focused-analysis-2026-03-06.md"
+        ],
+        "evidence_added": 7,
+        "insights_added": 6,
+        "practices_added": 6,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Split-Attention-Effect",
+        "source_reports_added": [
+          "cognitive-load-theory-focused-analysis-2026-03-06.md",
+          "cognitive-load-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 4,
+        "insights_added": 4,
+        "practices_added": 4,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Long-Term-Memory",
+        "source_reports_added": [
+          "cognitive-load-theory-foundational-report-2026-03-11.md",
+          "memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 2,
+        "insights_added": 4,
+        "practices_added": 4,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Critical-Thinking",
+        "source_reports_added": [
+          "critical-thinking-educational-settings-foundational-report-2026-03-05.md",
+          "metacognition-and-critical-thinking-foundational-report-2026-03-05.md",
+          "types-of-reasoning-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 6,
+        "practices_added": 6,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Metacognition",
+        "source_reports_added": [
+          "critical-thinking-educational-settings-foundational-report-2026-03-05.md",
+          "metacognition-and-critical-thinking-foundational-report-2026-03-05.md",
+          "metacognition-lifelong-learning-foundational-report-2026-03-05.md",
+          "metacognition-motivation-foundational-report-2026-03-05.md",
+          "types-of-reasoning-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 3,
+        "insights_added": 10,
+        "practices_added": 9,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Transfer-of-Learning",
+        "source_reports_added": [
+          "critical-thinking-educational-settings-foundational-report-2026-03-05.md",
+          "types-of-reasoning-foundational-report-2026-03-05.md",
+          "what-does-it-mean-to-truley-understand-something-2026-03-10.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 6,
+        "practices_added": 4,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Socratic-Method",
+        "source_reports_added": [
+          "critical-thinking-educational-settings-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Dual-Process-Theory",
+        "source_reports_added": [
+          "deductive-reasoning-learning-foundational-report-2026-03-10.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Cognitive-Offloading-\u2014-Cognitive-Psychology",
+        "source_reports_added": [
+          "extended-mind-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Extended-Mind-Theory-\u2014-Philosophy-of-Mind",
+        "source_reports_added": [
+          "extended-mind-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Epistemic-Humility",
+        "source_reports_added": [
+          "fallibilism-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Calibration",
+        "source_reports_added": [
+          "fallibilism-foundational-report-2026-03-06.md",
+          "metacognition-and-critical-thinking-foundational-report-2026-03-05.md",
+          "metacognition-lifelong-learning-foundational-report-2026-03-05.md",
+          "metacognition-motivation-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 2,
+        "insights_added": 8,
+        "practices_added": 7,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Intellectual-Humility",
+        "source_reports_added": [
+          "fallibilism-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Confirmation-Bias-Myside-Bias",
+        "source_reports_added": [
+          "fallibilism-foundational-report-2026-03-06.md",
+          "inductive-reasoning-foundational-report-2026-03-06.md",
+          "political-reasoning-decision-making-foundational-report-2026-03-06.md",
+          "types-of-reasoning-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 2,
+        "insights_added": 8,
+        "practices_added": 7,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Formative-Assessment",
+        "source_reports_added": [
+          "feedback-design-autonomy-mastery-foundational-report-2026-03-10.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Autonomy",
+        "source_reports_added": [
+          "feedback-design-autonomy-mastery-foundational-report-2026-03-10.md",
+          "sdt-focused-analysis-2026-03-06.md",
+          "self-determination-theory-first-principles-report-2026-03-11.md",
+          "self-determination-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 4,
+        "insights_added": 8,
+        "practices_added": 6,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Intrinsic-Motivation",
+        "source_reports_added": [
+          "feedback-design-autonomy-mastery-foundational-report-2026-03-10.md",
+          "metacognition-motivation-foundational-report-2026-03-05.md",
+          "sdt-focused-analysis-2026-03-06.md",
+          "self-determination-theory-first-principles-report-2026-03-11.md",
+          "self-determination-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 5,
+        "insights_added": 10,
+        "practices_added": 8,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Basic-Psychological-Needs",
+        "source_reports_added": [
+          "feedback-design-autonomy-mastery-foundational-report-2026-03-10.md",
+          "sdt-focused-analysis-2026-03-06.md",
+          "self-determination-theory-first-principles-report-2026-03-11.md",
+          "self-determination-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 4,
+        "insights_added": 8,
+        "practices_added": 6,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Self-Regulated-Learning-\u2014-SRL",
+        "source_reports_added": [
+          "feedback-design-autonomy-mastery-foundational-report-2026-03-10.md",
+          "metacognition-lifelong-learning-foundational-report-2026-03-05.md",
+          "metacognition-motivation-foundational-report-2026-03-05.md",
+          "self-regulated-learning-focused-analysis-2026-03-06.md"
+        ],
+        "evidence_added": 6,
+        "insights_added": 8,
+        "practices_added": 7,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Growth-Mindset-Implicit-Theories-of-Intelligence",
+        "source_reports_added": [
+          "growth-mindset-first-principles-report-2026-03-11.md",
+          "growth-mindset-learning-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 4,
+        "practices_added": 3,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Self-Efficacy",
+        "source_reports_added": [
+          "growth-mindset-first-principles-report-2026-03-11.md",
+          "metacognition-motivation-foundational-report-2026-03-05.md",
+          "self-regulated-learning-focused-analysis-2026-03-06.md"
+        ],
+        "evidence_added": 4,
+        "insights_added": 6,
+        "practices_added": 6,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Chunking",
+        "source_reports_added": [
+          "memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Memory-Reconsolidation",
+        "source_reports_added": [
+          "memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Testing-Effect-Retrieval-Practice-Effect",
+        "source_reports_added": [
+          "memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Encoding-Specificity-Principle",
+        "source_reports_added": [
+          "memory-systems-working-memory-long-term-memory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Synthetic-Model",
+        "source_reports_added": [
+          "mental-models-johnson-laird-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Metacognitive-Knowledge",
+        "source_reports_added": [
+          "metacognition-and-critical-thinking-foundational-report-2026-03-05.md",
+          "metacognition-motivation-foundational-report-2026-03-05.md",
+          "self-regulated-learning-focused-analysis-2026-03-06.md"
+        ],
+        "evidence_added": 4,
+        "insights_added": 6,
+        "practices_added": 6,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Metacognitive-Regulation",
+        "source_reports_added": [
+          "metacognition-and-critical-thinking-foundational-report-2026-03-05.md",
+          "metacognition-motivation-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 4,
+        "practices_added": 4,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Desirable-Difficulties",
+        "source_reports_added": [
+          "metacognition-and-critical-thinking-foundational-report-2026-03-05.md",
+          "metacognition-lifelong-learning-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 4,
+        "practices_added": 3,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Judgment-of-Learning",
+        "source_reports_added": [
+          "metacognition-lifelong-learning-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Feeling-of-Knowing-\u2014-FOK",
+        "source_reports_added": [
+          "metacognition-lifelong-learning-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Fluency-Illusion",
+        "source_reports_added": [
+          "metacognition-lifelong-learning-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Zone-of-Proximal-Development",
+        "source_reports_added": [
+          "metacognition-lifelong-learning-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Deliberate-Practice-Log",
+        "source_reports_added": [
+          "metacognition-lifelong-learning-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Autonomy-Need",
+        "source_reports_added": [
+          "metacognition-motivation-foundational-report-2026-03-05.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Cognitive-Bias",
+        "source_reports_added": [
+          "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Motivated-Reasoning",
+        "source_reports_added": [
+          "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Availability-Heuristic",
+        "source_reports_added": [
+          "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Epistemic-Citizenship",
+        "source_reports_added": [
+          "political-reasoning-decision-making-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Accommodation",
+        "source_reports_added": [
+          "schema-theory-and-learning-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Equilibration",
+        "source_reports_added": [
+          "schema-theory-and-learning-foundational-report-2026-03-06.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Competence",
+        "source_reports_added": [
+          "sdt-focused-analysis-2026-03-06.md",
+          "self-determination-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 3,
+        "insights_added": 4,
+        "practices_added": 3,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Amotivation",
+        "source_reports_added": [
+          "sdt-focused-analysis-2026-03-06.md",
+          "self-determination-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 3,
+        "insights_added": 4,
+        "practices_added": 3,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Cognitive-Evaluation-Theory",
+        "source_reports_added": [
+          "sdt-focused-analysis-2026-03-06.md",
+          "self-determination-theory-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 3,
+        "insights_added": 4,
+        "practices_added": 3,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Internalization-Continuum",
+        "source_reports_added": [
+          "self-determination-theory-first-principles-report-2026-03-11.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Andragogy",
+        "source_reports_added": [
+          "self-directed-learning-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Heutagogy",
+        "source_reports_added": [
+          "self-directed-learning-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Double-Loop-Learning",
+        "source_reports_added": [
+          "self-directed-learning-foundational-report-2026-03-11.md"
+        ],
+        "evidence_added": 1,
+        "insights_added": 2,
+        "practices_added": 1,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Flavell-Metacognition-Framework",
+        "source_reports_added": [
+          "self-regulated-learning-focused-analysis-2026-03-06.md"
+        ],
+        "evidence_added": 3,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Forethought-Phase",
+        "source_reports_added": [
+          "self-regulated-learning-focused-analysis-2026-03-06.md"
+        ],
+        "evidence_added": 3,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Metacognitive-Monitoring",
+        "source_reports_added": [
+          "self-regulated-learning-focused-analysis-2026-03-06.md"
+        ],
+        "evidence_added": 3,
+        "insights_added": 2,
+        "practices_added": 2,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Elenchus",
+        "source_reports_added": [
+          "what-does-it-mean-to-truley-understand-something-2026-03-10.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 2,
+        "practices_added": 0,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Aporia",
+        "source_reports_added": [
+          "what-does-it-mean-to-truley-understand-something-2026-03-10.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 2,
+        "practices_added": 0,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Tacit-Knowledge",
+        "source_reports_added": [
+          "what-does-it-mean-to-truley-understand-something-2026-03-10.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 2,
+        "practices_added": 0,
+        "wiki_links_added": 15
+      },
+      {
+        "note": "Metacognitive-Calibration",
+        "source_reports_added": [
+          "what-does-it-mean-to-truley-understand-something-2026-03-10.md"
+        ],
+        "evidence_added": 0,
+        "insights_added": 2,
+        "practices_added": 0,
+        "wiki_links_added": 15
+      }
+    ]
+  },
+  "create": {
+    "created": 278,
+    "skipped": 0,
+    "errors": []
+  }
+}
